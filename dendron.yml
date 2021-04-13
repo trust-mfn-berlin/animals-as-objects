@@ -1,0 +1,21 @@
+version: 1
+vaults:
+    -
+        fsPath: vault
+useFMTitle: true
+useNoteTitleForLink: true
+noAutoCreateOnDefinition: true
+noLegacyNoteRef: true
+site:
+    copyAssets: true
+    siteHierarchies:
+        - root
+    siteRootDir: docs
+    usePrettyRefs: true
+    title: Animals as Objects
+    description: Animals as Objects knowledge base and authoring tool.
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - vault
+initializeRemoteVaults: false
