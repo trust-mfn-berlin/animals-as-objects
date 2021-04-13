@@ -1,20 +1,13 @@
 # animals-as-objects
 
-## Build Setup
+This is the github repository for the Animals as Objects / Tiere als Objekte project with Trust and MfN Berlin.
 
-```bash
-# install dependencies
-$ npm install
+## Instructions for content creators
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+Add instructions here
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+## Instructions for developers
 
-# generate static project
-$ npm run generate
-```
+Node / NetlifyCMS / NuxtJS & Nuxt content / Vue
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Add Instructions here
