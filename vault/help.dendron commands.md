@@ -2,7 +2,7 @@
 id: 9df383cc-4b1b-4926-ba2c-0820ad1d0665
 title: Dendron Commands
 desc: ''
-updated: 1618400925524
+updated: 1618406475507
 created: 1618399704580
 ---
 
@@ -44,7 +44,7 @@ After you sync the files with the Git, you will need to reload the index. You do
 
 #### Renaming notes
 
-With the note you want to rename open, open the Command Palette and type `Dendron: Rename Note`. Type the new name and press `Enter`.
+With the note you want to rename open, open the Command Palette and type `Dendron: Rename Note`. Type the new name and press `Enter`. This will update any links to this note as well.
 
 #### Extras for experts.
 

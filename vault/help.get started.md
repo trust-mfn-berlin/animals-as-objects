@@ -2,7 +2,7 @@
 id: 662564a6-a4c9-45c4-b23d-6c4fd4d8d7a3
 title: Get Started with Dendron and VSCode
 desc: ''
-updated: 1618399894928
+updated: 1618406446284
 created: 1618326259859
 ---
 
@@ -25,3 +25,15 @@ Read the article: [[help.markdown guide]]
 #### 3. Creating, linking, renaming notes
 
 Dendron has some special commands to create and link notes. Read more here [[help.dendron commands]]
+
+#### 4. Collaboration and version control
+
+We are working together using `Git` as a collaboration tool. **There are some specific steps you need to take everytime you start and end a work session to make sure that your work can be in sync with the rest of the team.**
+
+[[help.version control]]
+
+#### 5. File names, File structure, metadata and content
+
+Markdown files in Dendron are split between `Frontmatter`, that contains meta information, and the `body`, that contains the content of the file. Learn more here:
+
+[[help.file structure]]
