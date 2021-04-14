@@ -1,21 +1,25 @@
 ---
 id: 662564a6-a4c9-45c4-b23d-6c4fd4d8d7a3
-title: Get Started with Dendron
+title: Get Started with Dendron and VSCode
 desc: ''
-updated: 1618396656117
+updated: 1618399689706
 created: 1618326259859
 ---
 
-#### Editor view
-![Editor view](images/help/interface/editor.jpg)
+Welcome to the Animals as Objects Dendron vault! We have a guide here to help you get started writing, linking and learning.
 
-This is the editor view, where you will be writing content. Here you will see the whole contents of the text file, including both languages, and some meta information at the top. You can learn more about the structure of files in Dendron in the [[help.style guide]]
+#### 1. Understanding the VSCode and Dendron interface
 
-#### Writing in Markdown
+The VSCode interface can be overwhelming at first. We can break it down into two main sections: the editor view and the sidebar.
 
-Content in Dendron is written with a special syntax called **Markdown**. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown is different, in that you add _special_ **syntax** to the text to indicate which parts should look and behave differently. You can read more about Markdown here [[help.markdown guide]]
+Click this link to read the article: [[help.interface]]
 
-#### Previewing Markdown
-![Preview](images/help/interface/preview.jpg)
+#### 2. Writing Markdown
 
-Understanding Markdown can be made much easier in Dendron by opening the Preview tab. You can do this by clicking 
+Unlike consumer applications like Word, Dendron uses Markdown to format text. 
+
+Read the article: [[help.markdown guide]]
+
+#### 3. Creating, linking, renaming notes
+
+Dendron has some special commands to create and link notes. Read more here [[help.dendron commands]]
