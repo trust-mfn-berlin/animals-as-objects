@@ -2,7 +2,7 @@
 id: 9df383cc-4b1b-4926-ba2c-0820ad1d0665
 title: Dendron Commands
 desc: ''
-updated: 1618406475507
+updated: 1618409326310
 created: 1618399704580
 ---
 
@@ -14,12 +14,12 @@ To open the Lookup bar:
 On Mac, press `⌘ + L`
 On Windows, press `Ctrl + L`
 
-![The lookup bar](images/help/lookup-bar.png)
+![The lookup bar](images/help/interface/lookup-bar.png)
 
 #### Creating notes
 To create a new note, open the lookup bar and type the name for your new note.
 
-![The lookup bar](images/help/new-note.png)
+![The lookup bar](images/help/interface/new-note.png)
 
 Lets create an example note under the `material` type. To do so, type `material` and then a `dot` to indicate you want to be in the `material` section. Then type out the name of your new note as you wish, then hit `Enter`.
 
@@ -36,7 +36,7 @@ To open the Command Palette:
 On Mac, press `⌘ + Shift + P`
 On Windows, press `Ctrl + Shift + P`
 
-![The command palette](images/help/palette.png)
+![The command palette](images/help/interface/palette.png)
 
 #### Reloading the index
 
