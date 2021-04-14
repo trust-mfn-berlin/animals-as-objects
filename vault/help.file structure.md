@@ -2,7 +2,7 @@
 id: ac5d5dff-790a-460f-b936-be5aa19c233a
 title: File Structure
 desc: ''
-updated: 1618406282354
+updated: 1618409712906
 created: 1618405159823
 ---
 
@@ -13,7 +13,7 @@ The filename will determine the URL on the live site. So it's important to choos
 
 ![Frontmatter](images/help/interface/editor-frontmatter.jpg)
 
-At the beginning of the file, we have a collection of fields that contain meta-information about our file. Frontmatter is wrapped inside the `---` present at the top and bottom of this section. These can be edited later in the CMS. **Do not insert any new line breaks here or the file won't be readable by the CMS**
+At the beginning of the file, we have a collection of fields that contain meta-information about our file. This "Frontmatter" is wrapped inside the `---` dividers present at the top and bottom of this section. The contents of these fields can be edited later in the CMS. **Important: Do not insert any new line breaks or move the dividers `---` here, or the file won't be readable by the CMS**
 
 |Field name|Description|
 |----------|-----------|
