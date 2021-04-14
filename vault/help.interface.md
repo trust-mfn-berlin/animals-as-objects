@@ -1,8 +1,8 @@
 ---
 id: e8815a44-c50c-4fa2-9165-013ceb6ec41c
-title: Interface
+title: Dendron and VSCode quick interface guide
 desc: ''
-updated: 1618399210180
+updated: 1618399814780
 created: 1618399200062
 ---
 

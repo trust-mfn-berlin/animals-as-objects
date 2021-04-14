@@ -2,21 +2,23 @@
 id: 662564a6-a4c9-45c4-b23d-6c4fd4d8d7a3
 title: Get Started with Dendron and VSCode
 desc: ''
-updated: 1618399689706
+updated: 1618399894928
 created: 1618326259859
 ---
 
-Welcome to the Animals as Objects Dendron vault! We have a guide here to help you get started writing, linking and learning.
+Welcome to the Animals as Objects Dendron vault! We have a guide here to help you get started writing, linking and learning. 
+
+Each topic is covered in a separate Dendron file, linked below:
 
 #### 1. Understanding the VSCode and Dendron interface
 
-The VSCode interface can be overwhelming at first. We can break it down into two main sections: the editor view and the sidebar.
+The VSCode interface can be overwhelming at first. Read the full help article to learn about it in detail.
 
-Click this link to read the article: [[help.interface]]
+[[help.interface]]
 
-#### 2. Writing Markdown
+#### 2. Writing in Markdown
 
-Unlike consumer applications like Word, Dendron uses Markdown to format text. 
+Unlike consumer applications like Word, Dendron uses Markdown to format text.
 
 Read the article: [[help.markdown guide]]
 
