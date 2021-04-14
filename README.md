@@ -51,7 +51,7 @@ Now in the Command Palette, type `Dendron: Change Workspace` and press `Enter` o
 
 You will be prompted to enter the new path for Dendron. The easiest way to do this is to **Right click** the **empty space** in the left hand column, in the dropdown titled **ANIMALS-AS-OBJECTS** and click **Copy Path.**
 
-Then **paste** this path into the Command Palette by hitting `Ctrl + P` (windows) or `⌘ + P` (mac), and then hit `Enter`
+Then **paste** this path into the Command Palette by hitting `Ctrl + v` (windows) or `⌘ + v` (mac), and then hit `Enter`
 
 Congratulations! The entire workflow should now be setup.  🎉 🦍 🕶️
 
