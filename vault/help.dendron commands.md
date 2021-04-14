@@ -2,7 +2,7 @@
 id: 9df383cc-4b1b-4926-ba2c-0820ad1d0665
 title: Dendron Commands
 desc: ''
-updated: 1618409326310
+updated: 1618413469619
 created: 1618399704580
 ---
 
@@ -26,6 +26,10 @@ Lets create an example note under the `material` type. To do so, type `material`
 #### Linking notes
 
 To link to another note, simply type `[[` to open a small lookup. Type in any part of the name of the note you want to link, and hit `Enter`. It should look like this afterwards: `[[help.get started]]`
+
+To open a note in the Dendron text editor, you must `Ctrl + Click` on Windows, or `⌘ + Click` on Mac.
+
+In the dendron Markdown preview you can simply click to open a linked noted. Just be aware it will open in your preview pane.
 
 ## The Command Palette
 
