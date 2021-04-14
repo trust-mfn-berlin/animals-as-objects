@@ -2,9 +2,11 @@
 id: 8e923c6e-cfee-4c70-9f52-646f66dc05e4
 title: Markdown Guide
 desc: ''
-updated: 1618411046245
+updated: 1618411088602
 created: 1618396638023
 ---
+
+https://www.markdownguide.org/basic-syntax/#lists-1
 
 ## Adding images
 
@@ -26,4 +28,7 @@ _Note: An easy way to get image paths in VSCode is to right-click the image and 
 
 _Note: Text descriptions are optional, but they are very useful for accessibility so should be added whenever possible._
 
-https://www.markdownguide.org/basic-syntax/#lists-1
+## Adding audio and video
+
+Audio and video should be handled as external URLs for now. Soundcloud / Vimeo.
+

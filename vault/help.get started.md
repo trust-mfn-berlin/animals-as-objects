@@ -2,7 +2,7 @@
 id: 662564a6-a4c9-45c4-b23d-6c4fd4d8d7a3
 title: Get Started with Dendron and VSCode
 desc: ''
-updated: 1618409391625
+updated: 1618411859562
 created: 1618326259859
 ---
 
@@ -37,3 +37,7 @@ Read the article: [[help.version control]]
 Markdown files in Dendron are split between `Frontmatter`, that contains meta information, and the `body`, that contains the content of the file. 
 
 Learn more here: [[help.file structure]]
+
+## 6. Customising VSCode
+
+Because VSCode is a fully-fledged developer environment, it is extensively customisable. Read more here [[help.customise vscode]]
