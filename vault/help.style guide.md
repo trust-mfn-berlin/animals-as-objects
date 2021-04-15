@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1618490345526
+updated: 1618493802254
 created: 1618326133707
 ---
 
@@ -11,6 +11,8 @@ I have added the style guide draft by Filippo as a starting point. When this not
 
 <!-- Notes should be in comments like this -->
 <!-- Easiest way to do this - Hit `Cmd + /` -->
+<!-- On Windows Press Ctrl + / -->
+<!-- On Windows Press Cmd + / -->
 
 ## Material
 
