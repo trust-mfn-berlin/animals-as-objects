@@ -2,11 +2,13 @@
 id: 662564a6-a4c9-45c4-b23d-6c4fd4d8d7a3
 title: Get Started with Dendron and VSCode
 desc: ''
-updated: 1618482018007
+updated: 1618497417252
 created: 1618326259859
 ---
 
 Welcome to the Animals as Objects Dendron vault! We have a guide here to help you get started writing, linking and learning. 
+
+If you're already setup, check the [[help.session guide]].
 
 Each topic is covered in a separate Dendron file, linked below:
 
