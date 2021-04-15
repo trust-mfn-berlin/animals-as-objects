@@ -2,7 +2,7 @@
 id: ef068026-9899-4435-ab70-3df0d8a495fa
 title: Collecting Specimen
 desc: Put a description of this note here...
-updated: 1618493499253
+updated: 1618495235153
 created: 1618493084572
 title_de: Objekte sammeln
 desc_de: Hier geht es um das Sammeln von toten Tierobjekten für das Museum.
@@ -39,6 +39,7 @@ Zunächst einmal aber füllten sich die Sammlungen und
 Friedrich Sellow und Brasilien, Altenstein finanziert wenn Lichtenstein ihm den Wert des bislang gesammelten auflistet. (Mackinney, Anne: Objekte und Objektverzeichnisse in naturkundlicher Sammelpraxis. Das Beispiel des Berliner Zoologischen Museums von 1810 bis etwa 1850; (2017). DOI: https://doi.org/10.18452/18536 (12.03.2021), 26)
 
 ## Entdecken und Erobern gehen Hand in Hand
+
 Geschenke des Diplomatischen Korps
 
 In den Akten des Naturkundemuseums und des Zoos, in den Eingangsjournalen, der Korrespondenz und im Naturkundemuseum auch an den Etiketten von Objekten, begegnen einem immer wieder Namen und Bezeichnungen von Funktionsträgern der diplomatischen Korps Preußens und des Deutschen Reichs. Diese schickten den neu gegründeten naturkundlichen Sammlungen in Berlin Tiere aus ihren Einsatzregionen. Aber auch die Diplomaten anderer Länder beteiligten sich an diesem Geschenkereigen. 1855 schickte der Generalkonsul Paraguays in Buenos Aires dem Zoo zwei als "Adler" bezeichnete Vögel. Leider überlebten diese nicht die beschwerliche Reise über den Atlantik und kamen nur tot in Hamburg an. Sie waren notdürftig präpariert worden und nun stellte sich die Frage, ob sie den dem Naturkundemuseum noch etwas nützen würden. In der Tat konnte dieses die beiden Kadaver noch für die wissenschaftliche Sammlung gebrauchen, denn es stellte sich heraus dass es sich mitnichten um "Adler" sondern um Königsgeier handelte. Zwar waren die Spezimen nicht mehr in einem Zustand, in dem sich die Präparation als Balg anbot, aber das Skelett wurde präpariert und aufbewahrt. (Korrespondenz aus dem Februar 1855 in   MfN, HSBS, Zool. Mus. S I, Gutachten 1846-1869, Nr. 28)Die Zeit der Expeditionenmit dem Umzug in das neue Gebäude und der Festigung der Rolle des Hauses im Geflecht der preußischen und reichsweiten Institutionen naturkundlicher Bildung und Forschung wuchs das Selbstbewusstsein und auch die Kapazität, ein systematisches Sammlungswachstum einzuleiten. Dazu gehörte nun auch, deutsche oder internationale Expeditionen zu unterstützen oder gar gleich zu initiieren.
