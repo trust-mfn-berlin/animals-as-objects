@@ -2,10 +2,10 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching Animals
 desc: Put a description of this note here...
-updated: 1618492693023
+updated: 1618492982602
 created: 1618492547915
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
+title_de: Tierfang
+desc_de: Dieser Text bespricht Fangexpeditionen für Zoos
 author: CMW
 tao_type: story
 cover_image: null
@@ -20,21 +20,24 @@ English content goes here.
 :::DE:::
 
 # Tiere fangen für den ZooFangexpeditionen im Zeitalter des Imperialismus
+
 Für die meiste Zeit in den vergangenen etwa 250 Jahren, in denen moderne Zoos existieren, wurden Tiere in allen Zoos weltweit ausschließlich aus der Wildbahn entnommen. Das bedeutete, sie wurden in den Habitaten Habitat in denen sie geboren, oder in die sie migriert sind durch Jäger gefangen, um dann ausgestellt zu werden. Das konnten lokale Amateure oder Profis sein oder aber auch speziell ausgesandte, erfahrene oder trainierte Jäger, die entweder von einer Firma bezahlt wurden oder auf eigene Rechnung die Tiere fingen und sie dann anboten. Auch die Präparate, die wir in Museen sehen wurden entweder zunächst gefangen oder getötet. Wenn sie nicht mit Büchse oder Bogen aus der Entfernung geschossen wurden, wurden diese Tiere in Fallen gefangen und dann je nach Transportart zunächst noch lebend transportiert, damit sie nicht verdarben, oder vor Ort so getötet, dass die Tötung möglichst wenige Spuren an dem Fell, Gefieder, der Haut oder dem Skelet hinterließ. Hier soll aber vor allem der Fang lebender Tiere zur Lebendausstellung in Zoos behandelt werden. Auf die Akquise von Museumspräparaten wird im Abschnitt "Sammeln" [ Text Line Collecting] noch stärker eingegangen werden.
 
 Viele der ersten in Europa in den sogenannten Wandermenagerien oder den fürstlichen Menagerien ausgestellten Tiere waren einzelne Fänge. Exotische Tiere wurden in den Herkunftsregionen von lokalen Herrschern als Statussymbole geschätzt und mit der Ankunft der Europäer auch diesen verkauft oder geschenkt. Matrosen, Kapitäne und reisende Händler brachten Gelegenheitskäufe aus außereuropäischen Gebieten auf der Rückfahrt in die Häfen West- und Südeuropas mit und verkauften sie dort. Das wachsende Interesse führte dann auch zur organisiertem Fang aber oft waren die exotischsten Tiere noch "Beifang" geografischer oder naturkundlicher Expeditionen. Nach und nach entwickelten sich Handelsagenturen, die mit Hilfe lokaler Agenten und Akteure Tiere auf Bestellung fingen oder Transporte begehrter Tiere zusammenstellten.
 
 ## Kolonialismus als Voraussetzung
+
 In der Ära des europäischen Kolonialismus wirkten immer auch hierarchische Strukturen bei der Jagd nach Tieren. Oft genug entnahmen die kolonialen Herrscher und Beamten direkt ein Tier, um es zu verschenkten. Das wird beim Wissmann-Löwen für den Berliner Zoo der Fall gewesen sein. Dieser wurde ihm durch den Gouverneur von Deutsch-Ost-Afrika Hermann Wissmann geschenkt. Wissmann hatte zunächst Expeditionen auf dem afrikanischen Kontinent vorgenommen und dann die Ausbeutung des Kongo durch den belgischen König mit vorbereitet.
 Zwischen etwa 1890 und 1914 kamen jedes Jahr regelmäßig Geschenke aus den deutschen Kolonien in den Berliner Zoo und andere deutsche Zoos.
 Natürlich profitierten alle Zoos der Kolonialstaaten von der leichten Ausbeutbarkeit der jeweiligen Kolonien. Hinzu kommt aber, dass durch die koloniale Besatzung insgesamt eine Situation geschaffen worden war, die es auch beispielsweise deutschen Tierhandelshäusern leicht möglich machte die Fauna in Afrika, Asien und Ozeanien für europäische Zoos auszubeuten. Die besetzten und durch Kolonialbeamte verwalteten Landstriche und ihre Bevölkerung besaßen keinerlei Autonomie über die Entscheidungen oder die Nutzung der eigenen Ressourcen. Oft wurden lokale Bevölkerungen durch Jagdbestimmungen der Kolonialverwaltungen unter dem Vorzeichen des Naturschutzes der Nutzung der Ressourcen beraubt. Der Aufbau einer kolonialen Infrastruktur erleichterte den Handelshäusern zudem den Transport von erjagten Tieren und die Kommunkiation mit Auftraggebern. Wirtschaftliche Hierarchien und Machtverhältnisse vor Ort sorgten zudem dafür, dass Tierhändlern und Tierfängern vor Ort ein Reservoir von Arbeitskräften für die schweren Aufgaben und die eigentlichen Jagdexpeditionen zur Verfügung stand. 
 
 Es ist wichtig, sich in Erinnerung zu rufen, dass die Fänger bei einigen in Herden lebenden und gefährlichen Säugetieren, Herdenmitglieder oder Muttertiere für den Fang von Jungtieren getötet wurden. Tierhändler hatten in der Regel Interesse an Jungtieren, da deren zu erwartende längere Lebensdauer einen höheren Preis erzielen würden. Auch waren jüngere und damit kleinere Tiere besser zu transportieren. Oft erwarteten die Händler und die Zoodirektore, dass mit der Flasche aufgezogene oder zumindest im Kontakt mit Menschen aufwachsende Tiere leichter zu pflegen sein würden im Zwangssystem eines Zoos. Um an diese heranzukommen, wurden dann andere Tiere der Gruppe geschossen.
 
- Eine wesentliches Hindernis der Tierhändler aber auch aller Akteure, die Tiere aus den Ursprungsgebieten nach Europa brachten war die Gefahr, dass diese auf dem Transport sterben könnten. Wir haben keine akkuraten Zahlen über die Verluste, können aber davon ausgehen, dass diese insbesondere zu beginn noch groß waren. Die gefangenen Tiere mussten an Ort und Stelle mittels Käfigen, Gehegen, Grupen oder Schlingen und Ketten zunächst fixiert und gefangen gehalten werden, bis die Expedition beendet oder die gewünschte Anzahl Tiere 
-	* Umschlagplätze
-	* Eingewöhnung an andere Diäten und Klimazonen
-	* Akklimatisationszentrum von Bobby
+ Eine wesentliches Hindernis der Tierhändler aber auch aller Akteure, die Tiere aus den Ursprungsgebieten nach Europa brachten war die Gefahr, dass diese auf dem Transport sterben könnten. Wir haben keine akkuraten Zahlen über die Verluste, können aber davon ausgehen, dass diese insbesondere zu beginn noch groß waren. Die gefangenen Tiere mussten an Ort und Stelle mittels Käfigen, Gehegen, Grupen oder Schlingen und Ketten zunächst fixiert und gefangen gehalten werden, bis die Expedition beendet oder die gewünschte Anzahl Tiere gesammelt wurde.
+ 
+* Umschlagplätze
+* Eingewöhnung an andere Diäten und Klimazonen
+* Akklimatisationszentrum von Bobby
 
 ## Die Großen Spieler - Hagenbeck, Ruhe und Co.
 
@@ -49,10 +52,12 @@ Die Spezialisten
 Menges
 
 ## Letztes Aufbäumen - die 1950er
+
 Antibiotika, Kreislaufmittel und neue Kenntnisse zur Ernährung
 ungeahnte Ausmaße; kriegszerstörte Gärten füllen wieder auf. (Dittrich, Lothar. 2007. „Der Import von Wildtieren nach Europa - Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts“. In Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte, herausgegeben von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl, 3:1–64. Tiergarten Schönbrunn - Geschichte. Wien: Braumüller.)
 
 ## Tiere holen - späte Expeditionen
+
 Die Zoodirektorin Katharina Heinroth fuhr XXXX nach Borneo und Sumatra. Es handelte sich dabei nicht um eine klassische Fangfahrt, Heinroth hatte zuvor Angebote bekommen und bei lokalen Behörden und Fängern um Fangerlaubnisse angesucht. Sie kam vor allem, um die Tiere in der Wildbahn zu sehen und dann Exemplare auszusuchen und auf dem Transport in den Berliner Zoo zu begleiten.
 Sogar noch XXXX fuhr der Berliner Zoodirektor Heinz-Georg Klös in den Hluhluwe-Umfolozi-Park in Südafrika, um ein XXXX zu fangen und in den Zoologischer Garten Berlin zu bringen. Die Fangerlaubnis hatte er zuvor durch die südafrikanischen Behörden erhalten. 
 
