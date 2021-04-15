@@ -2,7 +2,7 @@
 id: ac5d5dff-790a-460f-b936-be5aa19c233a
 title: File Structure
 desc: ''
-updated: 1618409712906
+updated: 1618486890340
 created: 1618405159823
 ---
 
@@ -21,6 +21,7 @@ At the beginning of the file, we have a collection of fields that contain meta-i
 |`title_de`  |the German title of the article. |
 |`desc`      |the English description of the article. Should be 50-100 words|
 |`desc_de`   |the German description of the article.|
+|`author`   |Name of author(s)|
 |`published` |either `true` or `false`. Determines whether the page will be visible on the site or not.|
 |`license`   |License code for the text content i.e. `CC BY-SA`|
 |`cover_image`|The path to a cover image for the page i.e. `/images/example.jpg`
