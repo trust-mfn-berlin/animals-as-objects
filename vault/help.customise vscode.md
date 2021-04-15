@@ -2,7 +2,7 @@
 id: c711f4a9-972c-4ee5-878d-386113f4c782
 title: Customising VSCode
 desc: ''
-updated: 1618411834722
+updated: 1618495444353
 created: 1618411275436
 ---
 
@@ -12,7 +12,7 @@ created: 1618411275436
 
 In VS Code, open the Color Theme picker with File > Preferences > Color Theme. (Code > Preferences > Color Theme on macOS).
 
-You can also use the keyboard shortcut `⌘K` then `⌘T` to display the picker.
+You can also use the keyboard shortcut `⌘K` then `⌘T` to display the picker. (On windows `Ctrl+K` then `Ctrl+T`)
 
 Use the `arrow keys` to preview the colors of the theme.
 Select the theme you want and press `Enter`.

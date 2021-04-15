@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1618493853914
+updated: 1618493802254
 created: 1618326133707
 ---
 
@@ -11,13 +11,14 @@ I have added the style guide draft by Filippo as a starting point. When this not
 
 <!-- Notes should be in comments like this -->
 <!-- Easiest way to do this - Hit `Cmd + /` -->
+<!-- On Windows Press Ctrl + / -->
+<!-- On Windows Press Cmd + / -->
 
 ## Material
 
 *author(s)*
 
 **Concise title** 
-<!-- We should discuss about this formatting, and how to for instance making the subtitles into the short description; and discuss referencing... -->
 
 Here is the main text. [50-500 words]
 
