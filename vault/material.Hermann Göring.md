@@ -1,0 +1,23 @@
+---
+id: 143b2b22-c42f-4919-ad25-a9e6aaf9481f
+title: Hermann Göring
+desc: Short bio of Hermann Göring
+updated: 1618496159827
+created: 1618496059009
+title_de: Hermann Göring
+desc_de: Biografische Angaben zu Hermann Göring
+author: CMW
+tao_type: material
+cover_image: null
+license: CC BY-SA
+published: false
+---
+
+:::EN:::
+
+English content goes here.
+
+:::DE:::
+
+Hermann Wilhelm Göring (1893-1946) war ein nationalsozialistischer Politiker. Seine Bekanntheit als erfolgreicher Jagdflieger stellte Göring nach dem Ersten Weltkrieg in den Dienst der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP) um Adolf Hitler. Nach 1933 stieg er schnell auf. Er wurde Preußischer Ministerpräsident, Oberbefehlshaber der Luftwaffe, Beauftragter für den Vierjahresplan mit umfangreichen Vollmachten und ernannte sich selbst zum Reichsforstmeister und Reichsjagdmeister.  Als solcher ernannte er  Lutz Heck zum Leiter der Naturschutzbehörde und unterstützte diesen auch bei dessen Rückzüchtungsversuchen des ausgestorbenen  Auerochsen, die dieser zusammen mit seinem Bruder Heinz Heck unternahm. In der Schorfheide ließ sich Hermann Göring nicht nur das Jagdgut „Carinhall“ errichten,  er stellte das Jagdgebiet dort und andere Gebiete zur Auswilderung von Hecks Auerochsen und Wisenten zur Verfügung.
+Für seine Beteiligung an der Ausbeutung und Entrechtung der deutschen Juden, der Planung des deutschen Angriffskrieges, seiner Beteiligung am Völkermord der Shoa und anderen Kriegsverbrechen wurde er im Nürnberger Hauptkriegsverbrecherprozess zum Tode verurteilt und hingerichtet.
