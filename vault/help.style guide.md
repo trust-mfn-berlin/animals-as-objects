@@ -2,12 +2,12 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1618415545418
+updated: 1618416113591
 created: 1618326133707
 ---
 
 >**Note from Arthur**
-I have added the styleguide draft by Filippo here. When this note is finalised, it will be integrated into the [[templates]] and will then autofill with fitting fields for each category as you create a new material, theme or story. See [[help.file structure]] for more information regarding the existing fields.
+I have added the style guide draft by Filippo as a starting point. When this note is finalised, it will be integrated into the [[templates]] and will then autofill with fitting fields for each category as you create a new material, theme or story. See [[help.file structure]] for more information regarding the existing fields and their functions.
 
 
 ##Material
