@@ -2,7 +2,7 @@
 id: 143b2b22-c42f-4919-ad25-a9e6aaf9481f
 title: Hermann Göring
 desc: Short bio of Hermann Göring
-updated: 1618496159827
+updated: 1618496293322
 created: 1618496059009
 title_de: Hermann Göring
 desc_de: Biografische Angaben zu Hermann Göring
