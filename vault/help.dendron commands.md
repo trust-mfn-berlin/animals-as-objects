@@ -2,7 +2,7 @@
 id: 9df383cc-4b1b-4926-ba2c-0820ad1d0665
 title: Dendron Commands
 desc: ''
-updated: 1618491261582
+updated: 1618495530090
 created: 1618399704580
 ---
 
@@ -21,7 +21,7 @@ To create a new note, open the lookup bar and type the name for your new note.
 
 ![The lookup bar](images/help/interface/new-note.png)
 
-Lets create an example note under the `material` type. To do so, type `material` and then a `dot` to indicate you want to be in the `material` section. Then type out the name of your new note as you wish, then hit `Enter`.
+Lets create an example note under the `material` type. To do so, type `material` and then a dot `.` to indicate you want to be in the `material` section. Then type out the name of your new note as you wish, then hit `Enter`.
 
 #### Linking notes
 
