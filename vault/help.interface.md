@@ -2,7 +2,7 @@
 id: e8815a44-c50c-4fa2-9165-013ceb6ec41c
 title: Dendron and VSCode quick interface guide
 desc: ''
-updated: 1618399814780
+updated: 1618482223078
 created: 1618399200062
 ---
 
@@ -23,6 +23,7 @@ Content in Dendron is written with a special syntax called **Markdown**. In an a
 Understanding Markdown can be made much easier in Dendron by opening the Preview tab. You can do this by clicking the preview button here:
 
 ![Preview button](images/help/interface/preview-button.jpg)
+![Preview button closeup](images/help/interface/preview-me.png)
 
 You cannot edit content inside of the preview window.
 
@@ -43,3 +44,9 @@ Another way to view the content of the Dendron vault is the File view (under the
 
 #### Backlinks
 You can also see what files link to the currently opened file under the `↓ BACKLINKS` section.
+
+#### Version control
+
+![](images/help/interface/version-control-icon.png)
+
+Read more about version control here: [[help.version control]]
