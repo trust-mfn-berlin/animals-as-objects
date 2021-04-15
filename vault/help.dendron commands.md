@@ -2,7 +2,7 @@
 id: 9df383cc-4b1b-4926-ba2c-0820ad1d0665
 title: Dendron Commands
 desc: ''
-updated: 1618413469619
+updated: 1618491261582
 created: 1618399704580
 ---
 
@@ -49,6 +49,18 @@ After you sync the files with the Git, you will need to reload the index. You do
 #### Renaming notes
 
 With the note you want to rename open, open the Command Palette and type `Dendron: Rename Note`. Type the new name and press `Enter`. This will update any links to this note as well.
+
+#### Deleting notes
+
+To delete a note:
+
+On windows:
+`Ctrl + Shift + D` 
+
+On Mac:
+`⌘ + Shift + D`
+
+To remove it from the shared repository, these changes must be commited as pushed. See [[help.version control]] for more info about this.
 
 #### Extras for experts.
 
