@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1618490345526
+updated: 1618493853914
 created: 1618326133707
 ---
 
@@ -17,6 +17,7 @@ I have added the style guide draft by Filippo as a starting point. When this not
 *author(s)*
 
 **Concise title** 
+<!-- We should discuss about this formatting, and how to for instance making the subtitles into the short description; and discuss referencing... -->
 
 Here is the main text. [50-500 words]
 
