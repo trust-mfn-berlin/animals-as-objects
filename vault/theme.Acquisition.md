@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: Acquisition
 desc: Put a description of this note here...
-updated: 1618498518158
+updated: 1618498618046
 created: 1618498026144
 title_de: Tiere sammeln
 desc_de: Put a DE description of this note here...
@@ -29,8 +29,8 @@ Zoos, Tierparks, Aquarien, Naturkundemuseen, Zoologische oder Biologische Lehrsa
 Aber auch daran schließen sich wieder mehrere Teilfragen an.
 
 * Gibt es einheitliche Sammlungsstrategien für die Akquise?
-* Wer bezahlt die Objekte? 
-* Woher kommen sie? 
+* Wer bezahlt die Objekte?
+* Woher kommen sie?
 
 Eine Beantwortung dieser vielen Fragen ist zunächst einmal kompliziert. Sie betrifft Forschungszweige wie Wissensgeschichte, Institutionengeschichte der Zoos und Museen, der Wissenschaftsgeschichte der Taxonomie, der Ethologie, der Biologie und Zoologie und der Zoobiologie. Denn Präparate in Museen und Tiere in Zoos kommen aus unterschiedlichsten Quellen und sind mal durch Zufall, mal als Ergebnis langer Vorarbeit in die Institutionen gelangt. Die Quellen der Tiere oder Tierobjekte unterlagen zudem kontinuierlichen Änderungen und zu mancher Zeit waren die einen wichtiger, zu anderer eben andere. Es gibt dennoch einige grundsätzliche Beobachtungen, die insbesondere im Abgleich der beiden Institutionen, Zoo und Museum, immer wieder auftauchen.
 
@@ -64,7 +64,7 @@ Mit einer wachsenden Zahl in gewisser Regelmäßigkeit in den großen Häfen Eur
 
 ## Das Zeitalter der Entdeckunsreisenden
 
-Burchell Dittrich Vom Souvenir, 338)In den 1830er Jahren begann 
+Burchell Dittrich Vom Souvenir, 338)In den 1830er Jahren begann
 
 ## Eigene Expeditionen
 
@@ -80,5 +80,5 @@ Bridges, William: Zoo expeditions; o. O. 1945.Eine besondere Form der "Expedit
 
 * Orangs als frühes Beispiel für Schutz
 * Steinbock und Wisent
-*     Artenschutzzentrum Zoo
-*  Leibniz Institut für Diversitätsforschung
+* Artenschutzzentrum Zoo
+* Leibniz Institut für Diversitätsforschung
