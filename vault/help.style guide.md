@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1618490131475
+updated: 1618490345526
 created: 1618326133707
 ---
 
@@ -13,7 +13,7 @@ I have added the style guide draft by Filippo as a starting point. When this not
 <!-- Easiest way to do this - Hit `Cmd + /` -->
 
 ## Material
-Filo
+
 *author(s)*
 
 **Concise title** 
