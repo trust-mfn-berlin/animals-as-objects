@@ -2,11 +2,11 @@
 id: cae49725-0217-4254-929a-c04973de1ef8
 title: Submarine Cables
 desc: Put a description of this note here...
-updated: 1618493706252
+updated: 1618494112955
 created: 1618493706252
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
-author: Author name(s) here.
+author: FB
 tao_type: story
 cover_image: null
 license: CC BY-SA
