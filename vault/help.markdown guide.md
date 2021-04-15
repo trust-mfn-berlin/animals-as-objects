@@ -2,33 +2,83 @@
 id: 8e923c6e-cfee-4c70-9f52-646f66dc05e4
 title: Markdown Guide
 desc: ''
-updated: 1618411088602
+updated: 1618498489321
 created: 1618396638023
 ---
 
-https://www.markdownguide.org/basic-syntax/#lists-1
+Derived from: https://www.markdownguide.org/basic-syntax/
 
-## Adding images
+# Headings
 
-To add a local image, copy your image file to the _Animals as Objects_ repository dendron images folder `/vault/images`. Then put the relative path of the image into the curved brackets `![](here)`. 
+# Heading level 1
+## Heading level 2
+### Heading level 3
+#### Heading level 4
+##### Heading level 5
+###### Heading level 6
 
-The format is as follows:
+Don't do: 
+#Heading 
 
-`![Optional text description](/images/example/hippo.jpg)`
+Do: 
+# Heading
 
-![Alt text description](/images/example/hippo.jpg)
+# Paragraphs
 
-You can also enter a remote URL instead of a local image. This maybe be useful temporarily, but ultimately should be replaced with a local image when publishing.
+Paragraphs are just normal text, like so.
 
-`![I'm a remote image!](https://images.metmuseum.org/CRDImages/eg/original/23.3.6_front.jpg)`
+  Please! Dont add tabs at the beginning of a paragraph. They won't show up!
 
-![I'm a remote image!](https://images.metmuseum.org/CRDImages/eg/original/23.3.6_front.jpg)
+# _Italic_ and **bold**
 
-_Note: An easy way to get image paths in VSCode is to right-click the image and select `Copy Relative Path`. You can then paste that into the curved brackets `![](here)`._
+I love _italic_ text.
+_Italic text is my favourite!!!_
 
-_Note: Text descriptions are optional, but they are very useful for accessibility so should be added whenever possible._
+**Bold text is almost as good.**
 
-## Adding audio and video
+What **about _both?_**
 
-Audio and video should be handled as external URLs for now. Soundcloud / Vimeo.
+# Lists
 
+- Unordered list item the nth
+- Unordered list item again
+  - Second tier list item added with a `tab`
+  - Another unordered second level item
+    - This is getting ridiculous..
+      - Really?
+
+1. Ordered list item one
+2. Ordered list item two
+3. Ordered list item three
+
+# Quotes
+
+>Just add a '>' before your paragraph. They combine with _italics_ and **bold** like normal.
+
+>Multi paragraph quotes just need another '>' with a space between then. Jemand musste Josef K. verleumdet haben, denn ohne dass er etwas Böses getan hätte, wurde er eines Morgens verhaftet. »Wie ein Hund!« sagte er, es war, als sollte die Scham ihn überleben. Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu einem ungeheueren Ungeziefer verwandelt. 
+>
+>Und es war ihnen wie eine Bestätigung ihrer neuen Träume und guten Absichten, als am Ziele ihrer Fahrt die Tochter als erste sich erhob und ihren jungen Körper dehnte. »Es ist ein eigentümlicher Apparat«, sagte der Offizier zu dem Forschungsreisenden und überblickte mit einem gewissermaßen bewundernden Blick den ihm doch wohlbekannten Apparat.
+
+# URLS / external links
+
+You can just paste URLs normally and it will be fine. But if you want a special link you can do so like this:
+
+`[Visible Title of the link](Url goes here)`
+I love [Wikipedia Germany](https://wikipedia.de), they taught me so much in school
+
+# Footnotes
+
+You can add footnotes like so [^1].
+
+You can add more footnotes like so [^2].
+
+# Tables
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+| Different          | Widths are okay        |
+
+[^1]: At the end of the doc just add `[^1]:`
+[^2]: At the end of the doc just add `[^2]:`
