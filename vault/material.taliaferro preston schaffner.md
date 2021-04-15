@@ -1,0 +1,25 @@
+---
+id: 7b79c828-0a2f-420e-b4fa-b6ede6ac0fe1
+title: Taliaferro Preston Schaffner
+desc: Put a description of this note here...
+updated: 1618494510662
+created: 1618493000317
+title_de: Add a german title here
+desc_de: Put a DE description of this note here...
+author: Author name(s) here.
+tao_type: material
+cover_image: null
+license: CC BY-SA
+published: false
+---
+
+:::EN:::
+
+![tal](/Users/filippobertoni/Documents/TAO/Website/Radiolaria/Schaffner.jpg)
+English content goes here.
+
+:::DE:::
+
+German content goes here.
+
+Testing here
