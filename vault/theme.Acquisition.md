@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: Acquisition
 desc: Put a description of this note here...
-updated: 1618499535417
+updated: 1618582961517
 created: 1618498026144
 title_de: Tiere sammeln
 desc_de: Put a DE description of this note here...
@@ -71,6 +71,10 @@ Mit einer wachsenden Zahl in gewisser Regelmäßigkeit in den großen Häfen Eur
 ## Das Zeitalter der Entdeckunsreisenden
 
 Burchell Dittrich Vom Souvenir, 338)In den 1830er Jahren begann
+
+## Koloniale Beute
+
+Seit 1891 werden in den Geschäftsberichten des Zoos nun auch regelmäßig Geschenke aus den Kolonialgebieten erwähnt. Mitglieder des kaiserlichen Haushaltes, Gouverneure, Kolonialgesellschaften und Kaufleute sandten dem Zoo seltene Tiere. 1907 hatte der Zoo elf Löwen und nur ein Tier war kein Geschenk aus den Kolonien.(Geschäftsberichte über die Jahre 1891-1914, hier insb. Geschäftsbericht über das Jahr 1907)
 
 ## Eigene Expeditionen
 

@@ -2,7 +2,7 @@
 id: 21ac115b-15e0-4af9-a4ed-fdd3d29c313d
 title: ToDo CMW
 desc: ''
-updated: 1618575289874
+updated: 1618583756165
 created: 1618495172862
 ---
 
@@ -18,11 +18,19 @@ created: 1618495172862
 [[material.Lutz Heck]]
 [[theme.Exhibiting]]
 [[story.Deutscher Zoo]]
+[[material.Heinrich Dathe]]
+[[material.Heinz Heck]]
+[[material.Heinz-Georg Klös]]
 
 # ToDo
 
+## Fragen
+
 - [ ] Footnotes
 - [ ] Chicago, which one?
+- [ ] Archivverzeichnis? Das mach die Footnotes kleiner.
+- [ ] Word count in Dendron
+
 ## Fertigstellen
 
 [[story.The Zoo during the Nazi-Era]]

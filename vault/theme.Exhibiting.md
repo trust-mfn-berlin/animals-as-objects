@@ -2,7 +2,7 @@
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 title: Exhibiting
 desc: Put a description of this note here...
-updated: 1618577749466
+updated: 1618584051964
 created: 1618572893774
 title_de: Tiere ausstellen
 desc_de: Wie und warum werden Tiere in Zoos und Museen ausgestellt?
@@ -25,6 +25,10 @@ English content goes here.
 
 ## Taxonomie oder Geozoo?
 
+## Der gitterlose Zoo
+
+## Das Diorama und die Familiengruppe
+
 ## Starobjekte
 
 ### Quagga
@@ -35,3 +39,5 @@ English content goes here.
 
 ### "Knut"
 [[story.Knut]]
+
+## Kinderzoo
