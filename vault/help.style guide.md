@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1618493802254
+updated: 1618577735839
 created: 1618326133707
 ---
 
@@ -12,7 +12,7 @@ I have added the style guide draft by Filippo as a starting point. When this not
 <!-- Notes should be in comments like this -->
 <!-- Easiest way to do this - Hit `Cmd + /` -->
 <!-- On Windows Press Ctrl + / -->
-<!-- On Windows Press Cmd + / -->
+<!-- On Mac Press Cmd + / -->
 
 ## Material
 
@@ -41,7 +41,7 @@ Date updated
 **Title**
 
 *Subheading* 
-
+<!-- We should consider the issue of subheadings in the text. I had not thought we would much use them, since the max lenght is 4000 words, but it looks like they might be handy, so we should add them! -->
 Summary Box
 
 Here is the main text. [max. 4000 words] Some passages in the text **may be bold**. [the bold texts, together, form the summary of the text, 100-300 words - and the summary can allow for a quicker reading of the storylines]
