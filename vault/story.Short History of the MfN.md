@@ -1,12 +1,12 @@
 ---
 id: a6e9e522-9505-466f-9d18-cbf8ea17ffec
 title: Short History of the MfN
-desc: Put a description of this note here...
-updated: 1618495476283
+desc: Short History of the Berlin Museum of Natural History
+updated: 1618562939676
 created: 1618495242856
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
+title_de: Kurze Geschichte des Naturkundemuseums Berlin
+desc_de: Geschichte des Naturkundemuseums Berlin
+author: CMW
 tao_type: story
 cover_image: null
 license: CC BY-SA
