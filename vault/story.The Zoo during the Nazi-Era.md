@@ -2,7 +2,7 @@
 id: c905a53d-f89e-4237-a19b-3315c6da6c80
 title: The Zoo during the Nazi-Era
 desc: Put a description of this note here...
-updated: 1618503113155
+updated: 1618562366261
 created: 1618503086406
 title_de: Der Zoo im Nationalsozialismus
 desc_de: Put a DE description of this note here...
@@ -19,4 +19,4 @@ English content goes here.
 
 :::DE:::
 
-German content goes here.
+Seit 1932 war [[material.Lutz Heck]] der Direktor des Zoologischen Gartens Berlin.
