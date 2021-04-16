@@ -2,7 +2,7 @@
 id: 21ac115b-15e0-4af9-a4ed-fdd3d29c313d
 title: ToDo CMW
 desc: ''
-updated: 1618574748525
+updated: 1618575289874
 created: 1618495172862
 ---
 
@@ -17,10 +17,12 @@ created: 1618495172862
 [[material.Abyssinia]]
 [[material.Lutz Heck]]
 [[theme.Exhibiting]]
-
+[[story.Deutscher Zoo]]
 
 # ToDo
 
+- [ ] Footnotes
+- [ ] Chicago, which one?
 ## Fertigstellen
 
 [[story.The Zoo during the Nazi-Era]]
