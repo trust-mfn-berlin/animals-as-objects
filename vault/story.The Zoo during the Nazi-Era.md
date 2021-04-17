@@ -2,7 +2,7 @@
 id: c905a53d-f89e-4237-a19b-3315c6da6c80
 title: The Zoo during the Nazi-Era
 desc: Put a description of this note here...
-updated: 1618585995975
+updated: 1618649810657
 created: 1618503086406
 title_de: Der Zoo im Nationalsozialismus
 desc_de: Put a DE description of this note here...
@@ -34,13 +34,11 @@ Auch die judenfeindliche rassistische Politik der NSDAP fand schon 1933 Eingang 
 
 ## Zoo und Propaganda
 
-Dem Zoo ging es auch nach 1933 blendend. Dazu trug bei, dass er schon im Mai 1933 Ermäßigungen für Mitglieder nationalsozialistischer Organisationen gab. Kurz zuvor hatte sich der Zooaufsichtsrat noch vehement gegen Preisnachlässe aus sozialen Gründen gesperrt. Ausschließlich  Nun ging er darauf ein, entweder weil man sich bei den neuen Machthabern beliebt machen wollte, oder weil es Sympathien gab. Nun konnten Mitglieder der NSDAP, des Nationalsozialistischen Kraftfahrerkorps, der Sturmabteilung (SA), der Schutzstaffel (SS) und der deutschnationalen Wehrorganisation "Der Stahlhelm" billiger in den Zoo. (Aufsichtsratsprotokoll, 22.05.1933, AZGB O 0/2/2). Im folgenden Jahr senkte die Zooleitung dann die Preise für alle Besucher*innen, "entsprechend den Zielen der nationalsozialistischen Staatsführung". (Zoologischer Garten Berlin, 1934, Geschäftsbericht für das Jahr 1933) 
-
-1935 konnte er wohl auch, dank einer Vereinbarung mit der NS-Freizeitorganisation »Kraft durch Freude« einen großen Besucheransturm verbuchen.
+Dem Zoo ging es auch nach 1933 blendend. Dazu trug bei, dass er schon im Mai 1933 Ermäßigungen für Mitglieder nationalsozialistischer Organisationen gab. Kurz zuvor hatte sich der Zooaufsichtsrat noch vehement gegen Preisnachlässe aus sozialen Gründen gesperrt. Ausschließlich  Nun ging er darauf ein, entweder weil man sich bei den neuen Machthabern beliebt machen wollte, oder weil es Sympathien gab. Nun konnten Mitglieder der NSDAP, des Nationalsozialistischen Kraftfahrerkorps, der Sturmabteilung (SA), der Schutzstaffel (SS) und der deutschnationalen Wehrorganisation "Der Stahlhelm" billiger in den Zoo. (Aufsichtsratsprotokoll, 22.05.1933, AZGB O 0/2/2). Im folgenden Jahr senkte die Zooleitung dann die Preise für alle Besucher*innen, "entsprechend den Zielen der nationalsozialistischen Staatsführung". (Zoologischer Garten Berlin, 1934, Geschäftsbericht für das Jahr 1933) 1935 konnte er wohl auch, dank einer Vereinbarung mit der NS-Freizeitorganisation »Kraft durch Freude« einen großen Besucheransturm verbuchen.
 
 ### Olympia '36
 
-Rechtzeitig zu den Olympischen Sommerspielen in Berlin, eröffnete Lutz Heck eine 2000 qm große Löwensteppe. Die vielen Berlintouristen zu den Spielen bescherten dem Zoo einen Besucherrekord von mehr als zwei Millionen zahlenden Gästen. (Geschäftsberichte für die Jahre 1935 u. 1936)
+Rechtzeitig zu den Olympischen Sommerspielen in Berlin, eröffnete der Zoo eine 2000 qm große Löwensteppe. Diese war an das große Raubtierhaus angebaut worden und bot den Tieren beheizte Liegeplätze und den Besucherinnen einen Blick wie auf eine Bühne mit einer großen Anzahl von Raubtieren - ein Publikumsmagnet. Hinzu kamen 1936 die vielen Berlintouristen, die zu den Olympischen Spielen jenes Jahres kamen. Sie bescherten dem Zoo einen Besucherrekord von mehr als zwei Millionen zahlenden Gästen. (Geschäftsberichte für die Jahre 1935 u. 1936) Der Zoo beteiligte sich an der aufwendigen Propaganda für die Spiele, indem er Tiere für das Olympische Dorf, in dem die Athletinnen und Athleten lebten. Rund um einen zentralen Teich tummelten sich einheimische Wasservögel und Damwild.
 
 Und größer war der Zoo auch noch geworden.
 
