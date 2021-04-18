@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: Acquisition
 desc: Put a description of this note here...
-updated: 1618582961517
+updated: 1618768993573
 created: 1618498026144
 title_de: Tiere sammeln
 desc_de: Put a DE description of this note here...
@@ -40,7 +40,7 @@ Da sind vor allem die beiden wichtigsten Quellen des Sammelns [Text Line Collect
 
 ## Kosten und Logistik
 
-Und mit diesen unterschiedlichen Quellen an Tierobjekten hängen jeweils auch unterschiedliche Akquisestrategien und Handlungsanforderungen für die Institutionen zusammen. Das betrifft die Vorbereitung, die Logistik  rund um den Erwerb und die notwendigen Arbeits- und Finanzmittel. Die Ausstattung einer eigenen Sammlungs- oder Fangexpedition benötigt neben den behördlichen Formalitäten und Genehmigungen auch eine größere Anfangsinvestition an Geldmitteln. Ein geschenktes Tierobjekt muss untergebracht und unterhalten werden. Für die Zucht in Zoos muss das notwendige biologische und tiermedizinische Wissen vorhanden sein und vor allem ausreichend Platz. Dieser wird nicht nur für die größere Gruppe benötigt, um mehr Tiere unterzubringen, auch vermehren sich Tiere in menschlicher Obhut seltener auf kleinem Raum. Werden Tierobjekte von Museen und lebende Tiere von Zoos gekauft, müssen die Geldmittel zur Verfügung stehen, es muss wiederum Platz vorhanden sein und das Tierobjekt muss innerhalb der eigenen Ausstellungs- oder Forschungsstrategie einen Platz haben. So sind die Objekte entweder interessant, weil sie neue Forschungen im Zusammenhang mit den bereits vorhandenen erlauben, einzigartig und neu sind oder aber großes Interesse seitens der Besucherinnen und Besucher erwarten lassen. [Schauwert] Klassische Beispiele für letzteres:
+Und mit diesen unterschiedlichen Quellen an Tierobjekten hängen jeweils auch unterschiedliche Akquisestrategien und Handlungsanforderungen für die Institutionen zusammen. Das betrifft die Vorbereitung, die Logistik  rund um den Erwerb und die notwendigen Arbeits- und Finanzmittel. Die Ausstattung einer eigenen Sammlungs- oder Fangexpedition benötigt neben den behördlichen Formalitäten und Genehmigungen auch eine größere Anfangsinvestition an Geldmitteln. Ein geschenktes Tierobjekt muss untergebracht und unterhalten werden. Für die Zucht in Zoos muss das notwendige biologische und tiermedizinische Wissen vorhanden sein und vor allem ausreichend Platz. Dieser wird nicht nur für die größere Gruppe benötigt, um mehr Tiere unterzubringen, auch vermehren sich Tiere in menschlicher Obhut seltener auf kleinem Raum. Werden Tierobjekte von Museen und lebende Tiere von Zoos gekauft, müssen die Geldmittel zur Verfügung stehen, es muss wiederum Platz vorhanden sein und das Tierobjekt muss innerhalb der eigenen Ausstellungs- oder Forschungsstrategie einen Platz haben. So sind die Objekte entweder interessant, weil sie neue Forschungen im Zusammenhang mit den bereits vorhandenen erlauben, einzigartig und neu sind oder aber großes Interesse seitens der Besucherinnen und Besucher erwarten lassen. [[Schauwert]] Klassische Beispiele für letzteres:
 
 * große und möglichst vollständige Skelette von Dinosauriern oder Walen in Naturkundemuseen
 * Pandas oder andere sehr schauwertige Tiere in Zoos.
