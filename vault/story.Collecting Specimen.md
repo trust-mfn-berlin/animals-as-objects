@@ -2,7 +2,7 @@
 id: ef068026-9899-4435-ab70-3df0d8a495fa
 title: Collecting Specimen
 desc: Put a description of this note here...
-updated: 1618495235153
+updated: 1618862313975
 created: 1618493084572
 title_de: Objekte sammeln
 desc_de: Hier geht es um das Sammeln von toten Tierobjekten für das Museum.
@@ -57,4 +57,7 @@ Mit dem Beginn eines kolonialen Imperialismus im Deutschen Reich eröffnete sich
 ## Dinosaurier
 
 ## Hans Schäfer und die Tibet-Expedition
+
+Blauschaf Expeditionsausbeute und Schautier, Bestimmungs-Typusexemplar?
+Hans Schäfer (Damaschun)
 

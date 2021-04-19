@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: Acquisition
 desc: Put a description of this note here...
-updated: 1618823882723
+updated: 1618863125432
 created: 1618498026144
 title_de: Tiere sammeln
 desc_de: Tiere und Tierobjekte kommen aus vielen unterschiedlichen Quellen.
@@ -84,7 +84,11 @@ Seit 1891 werden in den Geschäftsberichten des Zoos nun auch regelmäßig Gesch
 
 ### Zoos
 
-Bridges, William: Zoo expeditions; o. O. 1945.Eine besondere Form der "Expedition" von Zoos können wir in Berlin auch beobachten.Somer 1936 Afrika Reise Eva Mac Lean bringt durch glücklichen Umstand Efeka nach berlin; Heck, Lutz: Karlchen; in: Die Grüne Post (1937), H. 31,  S. 13.
+Bridges, William: Zoo expeditions; o. O. 1945.Eine besondere Form der "Expedition" von Zoos können wir in Berlin auch beobachten.Somer 1936 Afrika Reise Eva Mac Lean bringt durch glücklichen Umstand Efeka nach berlin; Heck, Lutz: Karlchen; in: Die Grüne Post (1937), H. 31, S. 13.
+
+## Auch heute noch Geschenke
+
+Das nachweislich älteste Tiere des Berliner Zoos war 2021 der Flamingo „Ingo. Der Vogel aus der Gattung der Rosaflamingos kam wohl im Juli 1955 aus dem gerade eröffneten Tierpark in Berlin Friedrichsfelde. Ein Ring weist darauf hin, dass das männliche Tier 1948 im Zoo von Kairo geboren wurde.[^1]
 
 ## Zucht
 
@@ -92,3 +96,7 @@ Bridges, William: Zoo expeditions; o. O. 1945.Eine besondere Form der "Expedit
 * Steinbock und Wisent
 * Artenschutzzentrum Zoo
 * Leibniz Institut für Diversitätsforschung
+
+## Tiertausch zwischen Zoos
+
+Eng mit der Zucht verbunden, nicht aber stets und immer der Grund dafür, ist der Tiertausch zwischen den Zoos. 

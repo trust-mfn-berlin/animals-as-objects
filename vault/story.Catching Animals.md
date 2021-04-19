@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching Animals
 desc: Put a description of this note here...
-updated: 1618664589262
+updated: 1618862512289
 created: 1618492547915
 title_de: Tierfang
 desc_de: Dieser Text bespricht Fangexpeditionen für Zoos
@@ -39,9 +39,18 @@ Es ist wichtig, sich in Erinnerung zu rufen, dass die Fänger bei einigen in Her
 * Eingewöhnung an andere Diäten und Klimazonen
 * Akklimatisationszentrum von Bobby
 
+### Deutsch-Ostafrikanisches Nashorn
+
+Es ist bis dato noch nicht gelungen Fauna Afrikas nach Europa zu transportieren - nur aus dem Somaliland hat Menges regelmäßige Transporte; auch neue Infrastrukturen und Eisenbahnen nicht geholfen; alleine die Kuhherden für die Milch am Leben zu halten ist fast unmögliches Unterfangen; er schießt dann das Muttertier; er lässt das Jungtier nachts marschienen der Hitze wegen; in Neapel nimmt es Ludwig Heck entgegen. (Schillings, Carl Georg: Mit Blitzlicht und Büchse; Leipzig 1905, S. 186ff)
+
 ## Die Großen Spieler - Hagenbeck, Ruhe und Co.
 
 Der Assistent am Zoo Berlin und Direktor des Aquariums,  Oskar Heinroth, fuhr regelmäßig in eine Forschungsstation an der Adria, um dort Tiere für sein Aquarium mitzunehmen. Insbesondere das Aquarium verwendete lange Zeit Wildfänge [Wildfang].
+
+### Fangstationen und Akklimatisierung
+
+Ruhe bei Dire Daua und bei Nizza zusammen mit Basilewsky in Cros de Gagnes
+Bobby - aber auch vor Ort musste das geschehen. Eingewöhnung, Ernährungsumstellungen
 
 ## Eigene Expeditionen des Berliner Zoos
 
@@ -51,7 +60,6 @@ Der spätere Direktor des Zoologischen Gartens Berlin [[material.Lutz Heck]] (18
 
 ### Filmische Propaganda
 
-
 Der Erfolg der ersten Expedition ließ [[material.Lutz Heck]] 1927 erneut eine Expedition ins Auge fassen. Dieses mal wollte er zudem Einheimische mit nach Berlin bringen, um sie dort zusammen mit den gefangenen Tieren auszustellen
 
 
@@ -60,8 +68,15 @@ Der Erfolg der ersten Expedition ließ [[material.Lutz Heck]] 1927 erneut eine E
 Die Spezialisten
 Menges
 
+## Kriegsbeute
+
+Während des Ersten und Zweiten Weltkrieges haben Truppenverbände der Reichswehr und der Wehrmacht Tiere in den eroberten Gebieten Europas gefangen und dem Zoologischen Garten der Reichshauptstadt übergeben.
+Im Winter 1939 begab sich Lutz Heck in das gerade eroberte Warschau. Dort teilte er wohl im Auftrag des Reichsforstmeisters [[material.Hermann Göring]] dem Warschauer Zoodirektor Jan Zabinski mit, dass der Zoo geschlossen sei. Wertvolle Schautiere, darunter einen Elefanten, stahl heck für deutsche Zoos. Die restlichen Tiere wurden getötet.
+
 ## Letztes Aufbäumen - die 1950er
 
+Bereits auf den Tagungen der IUDZG 1958 und 1959 wurden durch die Zoodirektoren auf aussterbende Arten hingewiesen.
+Dathe berichtete vom Panda und Silver Pheasant
 Antibiotika, Kreislaufmittel und neue Kenntnisse zur Ernährung
 ungeahnte Ausmaße; kriegszerstörte Gärten füllen wieder auf. (Dittrich, Lothar. 2007. „Der Import von Wildtieren nach Europa - Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts“. In Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte, herausgegeben von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl, 3:1–64. Tiergarten Schönbrunn - Geschichte. Wien: Braumüller.)
 
