@@ -2,7 +2,7 @@
 id: 8e923c6e-cfee-4c70-9f52-646f66dc05e4
 title: Markdown Guide
 desc: ''
-updated: 1618498489321
+updated: 1618816177894
 created: 1618396638023
 ---
 
@@ -82,3 +82,11 @@ You can add more footnotes like so [^2].
 
 [^1]: At the end of the doc just add `[^1]:`
 [^2]: At the end of the doc just add `[^2]:`
+
+# Escape characters
+
+If you need to write a markdown syntax character like `*`, you can 'escape' it so that Dendron will not treat it as markdown.
+
+You do this by using a backslash `\*`. 
+
+For example: Besucher\*innen, Besucher\*innen 
