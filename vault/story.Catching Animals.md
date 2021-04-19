@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching Animals
 desc: Put a description of this note here...
-updated: 1618862512289
+updated: 1618864218897
 created: 1618492547915
 title_de: Tierfang
 desc_de: Dieser Text bespricht Fangexpeditionen für Zoos
@@ -64,14 +64,17 @@ Der Erfolg der ersten Expedition ließ [[material.Lutz Heck]] 1927 erneut eine E
 
 
 1927/28 in das Gebiet des heutigen Tansania. Die ehemalige deutsche Kolonie Deutsch-Ost-Afrika war zu diesem Zeitpunkt den Briten unterstellt. Beide Male begleitete ihn der Tierpfleger Petrus Olesen. 
-1935 fuhr Lutz Heck dann im Auftrag des Preußischen Ministerpräsidenten und führenden Nationalsozialisten Hermann Göring nach Kanada. Dort sollte er Bisons fangen, die in Berlin und Deutschland in Zoos ausgestellt und bei der Erhaltungszucht des Wisents [_Text Line Breeding] eingesetzt werden sollten.
+1935 fuhr [[material.Lutz Heck]] dann im Auftrag des Preußischen Ministerpräsidenten und führenden Nationalsozialisten Hermann Göring nach Kanada. Dort sollte er Bisons fangen, die in Berlin und Deutschland in Zoos ausgestellt und bei der Erhaltungszucht des Wisents [_Text Line Breeding] eingesetzt werden sollten.
 Die Spezialisten
 Menges
+
+Auch noch in den 1930er Jahren ging [[material.Lutz Heck]] auf Fangreisen. So fuhr er im Auftrag von [[material.Hermann Göring]] nach Kanada, um dort mit behördlicher Erlaubnis Elche? und Bisons zu fangen. Letztere wollte er im Erhaltungszuchtprogramm für den Wisent einsetzen und bei sich und in anderen Zoos ausstellen. Er reiste auch erneut nach Afrika, diesmal aber eher als Foto- und Jagdtourist. Seine Lebensgefährtin Eva Mac Lean reiste mehrfach nach Kamerun, an den Tschadsee und ins südliche Afrika und brachte auch weiterhin einzelne Tiere für den Berliner Zoo mit zurück.
 
 ## Kriegsbeute
 
 Während des Ersten und Zweiten Weltkrieges haben Truppenverbände der Reichswehr und der Wehrmacht Tiere in den eroberten Gebieten Europas gefangen und dem Zoologischen Garten der Reichshauptstadt übergeben.
 Im Winter 1939 begab sich Lutz Heck in das gerade eroberte Warschau. Dort teilte er wohl im Auftrag des Reichsforstmeisters [[material.Hermann Göring]] dem Warschauer Zoodirektor Jan Zabinski mit, dass der Zoo geschlossen sei. Wertvolle Schautiere, darunter einen Elefanten, stahl heck für deutsche Zoos. Die restlichen Tiere wurden getötet.
+Wolf der Legion Condor
 
 ## Letztes Aufbäumen - die 1950er
 

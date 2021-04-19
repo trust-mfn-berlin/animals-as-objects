@@ -2,7 +2,7 @@
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 title: Exhibiting
 desc: Put a description of this note here...
-updated: 1618841078524
+updated: 1618864199376
 created: 1618572893774
 title_de: Tiere ausstellen
 desc_de: Wie und warum werden Tiere in Zoos und Museen ausgestellt?
@@ -19,7 +19,7 @@ English content goes here.
 
 :::DE:::
 
-# Tiere ausstellen
+# Tiere ausstellen in Berlin
 
 ## Museen und Naturkundliche Sammlungen
 
@@ -33,9 +33,10 @@ Zum Inbegriff friedvoller sozialer Beziehungen und somit zum eingängigen Identi
 ### Taxidermy
 
 Jemand der auf der praktischen Seite der Naturkunde eine große Rolle für die Änderungen in den Ausstellungsformen hatte war [[material.Philipp Leopold Martin]]. Martin arbeitete zwischen 1852 und 1858 als Präparator für das [[material.Zoologisches Museum]]. Für ihn waren die traditionellen Präparate und ihre Ausstellung in immer gleichen Reihen von gleich dargestellten und starren Präparaten Ausdruck einer unglücklichen Vorrangstellung der Wissenschaftler, die sich ausschließlich mit Taxonomien ([[theme.taxonomical orders]]) befassten. Für ihn ignorierten diese die Charakteristiken, die Naturalisten im Feld aus dem bewegten, lebenden Objekt bezogen und die nur mit einer "natürlichen" und "lebendigen" Darstellung des einst lebenden Tieres im Präparat wiedergegeben werden konnten.[^1]
-Für martin war ein 'Sammlungswahn' der Taxonomen mitverantwortlich für die endlose Monotonie in den Museen. Für diese war die Anzahl der ausgestellten Exemplare eines Taxons mit kleinsten äußerlich wahrnehmbaren Unterschieden wichtiger als das aussagekräftige lebensnahe Modell. 
+Für martin war ein 'Sammlungswahn' der Taxonomen mitverantwortlich für die endlose Monotonie in den Museen. Für diese war die Anzahl der ausgestellten Exemplare eines Taxons mit kleinsten äußerlich wahrnehmbaren Unterschieden wichtiger als das aussagekräftige lebensnahe Modell.
 
 ### Zoomonotonie
+
 Hier gab es Überschneidungen mit den traditionellen Zoos. Besucher\*innen des Berliner Zoologischen Garten um die Jahrhundertwende des 19. zum 20. konnten durchaus auch hier, bei den lebenden Tieren eine solche Monotonie empfinden. [[material.Ludwig Heck]] war ein großer Sammler. Auch wenn es nie verwirklicht werden konnte, so stand für ihn doch zumindest theoretisch das Ziel, die Fauna der Welt komplett abzubilden. Wie seine Vorgänger nahm er an, dass sich die Besucher\*innen durch das wandeln durch den Garten, vorbei an den verschiedenen Formen eines Taxons, die Unterschiede selbst erschließen und die richtigen wissenschaftlichen Erkenntnisse daraus gewinnen würden. Der 'systematische Zoo' mit seinen Exemplaren einer Gattung aus unterschiedlichen geografischen Regionen nebeneinander bot aber weder den Tieren noch dem Publikum aus heutiger Sicht Vorteile. Sozial lebende Tiere wurden oft nur als Einzelexemplare in kleinen Gehegen oder Käfigen gehalten. Bei Tierarten, die einen Geschlechtsdimorphismus [[material.sexual dimorphism]] aufweisen wurden oft nur die als 'typischer' empfundenden männlichen Exemplare ausgestellt. Die Tiere konnten natürliches Verhalten nicht ausleben und die Besucher\*nnen konnten wenig lernen, zumal die Beschriftungen nur wenig aussagekräftig waren. Sie erfuhren oft nichts als den lateinischen Artnamen. Informationen über den Lebensraum, Ernährungsweise oder die Fortpflanzung fehlten. Es war die Zoo-Entsprechung des Museumslabels an den Präparaten. Anders als im Museum, wo eine Trennung in eine wissenschaftliche Sammlung und eine Schausammlung dieses Problem zumindest etwas auflöste, mussten Publikum und Tiere in den meisten Zoos noch eine Weile warten. Bis in das erste Jahrzehnt des 21. Jahrhunderts wiesen Zoo und Tierpark noch diesen Sammlungscharakter eines systematischen Zoos auf.
 
 ## Der gitterlose Zoo
@@ -53,3 +54,5 @@ Hier gab es Überschneidungen mit den traditionellen Zoos. Besucher\*innen des B
 [[story.Knut]]
 
 ## Kinderzoo
+
+## Konkurrenz in einer Stadt - Zoo und Tierpark buhlen um Gäste
