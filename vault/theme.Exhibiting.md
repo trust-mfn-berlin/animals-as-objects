@@ -2,7 +2,7 @@
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 title: Exhibiting
 desc: Put a description of this note here...
-updated: 1618836295291
+updated: 1618839039012
 created: 1618572893774
 title_de: Tiere ausstellen
 desc_de: Wie und warum werden Tiere in Zoos und Museen ausgestellt?
@@ -34,7 +34,7 @@ Zum Inbegriff friedvoller sozialer Beziehungen und somit zum eingängigen Identi
 
 ### Taxidermy
 
-Jemand der auf der praktischen Seite der Naturkunde eine große Rolle für die Änderungen in den Ausstellungsformen hatte war [[material.Philipp Leopold Martin]]. Martin arbeitete zwischen 1852 und 1858 als Präparator für das [[material.Zoologisches Museum]].
+Jemand der auf der praktischen Seite der Naturkunde eine große Rolle für die Änderungen in den Ausstellungsformen hatte war [[material.Philipp Leopold Martin]]. Martin arbeitete zwischen 1852 und 1858 als Präparator für das [[material.Zoologisches Museum]]. Für ihn waren die traditionellen Präparate und ihre Ausstellung in immer gleichen Reihen von gleich dargestellten und starren Präparaten Ausdruck einer unglücklichen Vorrangstellung der Wissenschaftler, die sich ausschließlich mit Taxonomien ([[theme.taxonomical orders]]) befassten. Für ihn ignorierten diese die Charakteristiken, die Naturalisten im Feld aus dem bewegten, lebenden Objekt bezogen und die nur mit einer "natürlichen" und "lebendigen" Darstellung des einst lebenden Tieres im Präparat wiedergegeben werden konnten.[^1]
 
 ## Starobjekte
 
