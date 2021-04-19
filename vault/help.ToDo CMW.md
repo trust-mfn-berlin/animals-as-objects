@@ -2,7 +2,7 @@
 id: 21ac115b-15e0-4af9-a4ed-fdd3d29c313d
 title: ToDo CMW
 desc: ''
-updated: 1618583756165
+updated: 1618823487009
 created: 1618495172862
 ---
 
@@ -28,7 +28,7 @@ created: 1618495172862
 
 - [ ] Footnotes
 - [ ] Chicago, which one?
-- [ ] Archivverzeichnis? Das mach die Footnotes kleiner.
+- [ ] Archivverzeichnis? Das macht die Footnotes kleiner.
 - [ ] Word count in Dendron
 
 ## Fertigstellen
