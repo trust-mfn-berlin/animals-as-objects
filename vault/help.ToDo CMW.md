@@ -2,7 +2,7 @@
 id: 21ac115b-15e0-4af9-a4ed-fdd3d29c313d
 title: ToDo CMW
 desc: ''
-updated: 1618916371406
+updated: 1618933985009
 created: 1618495172862
 ---
 
@@ -29,10 +29,11 @@ created: 1618495172862
 
 ## Fragen
 
-- [ ] Footnotes
-- [ ] Chicago, which one?
+- [x] Footnotes
+- [x] Chicago, which one?
 - [ ] Archivverzeichnis? Das macht die Footnotes kleiner.
-- [ ] Word count in Dendron
+- [x] Word count in Dendron
+- [ ] always put a backling when the term pops up in a text?
 
 ## Fertigstellen
 
