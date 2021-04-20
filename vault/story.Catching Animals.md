@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching Animals
 desc: Put a description of this note here...
-updated: 1618864218897
+updated: 1618928890560
 created: 1618492547915
 title_de: Tierfang
 desc_de: Dieser Text bespricht Fangexpeditionen für Zoos
@@ -21,7 +21,7 @@ English content goes here.
 
 # Tiere fangen für den ZooFangexpeditionen im Zeitalter des Imperialismus
 
-Für die meiste Zeit in den vergangenen etwa 250 Jahren, in denen moderne Zoos existieren, wurden Tiere in allen Zoos weltweit ausschließlich aus der Wildbahn entnommen. Das bedeutete, sie wurden in den Habitaten Habitat in denen sie geboren, oder in die sie migriert sind durch Jäger gefangen, um dann ausgestellt zu werden. Das konnten lokale Amateure oder Profis sein oder aber auch speziell ausgesandte, erfahrene oder trainierte Jäger, die entweder von einer Firma bezahlt wurden oder auf eigene Rechnung die Tiere fingen und sie dann anboten. Auch die Präparate, die wir in Museen sehen wurden entweder zunächst gefangen oder getötet. Wenn sie nicht mit Büchse oder Bogen aus der Entfernung geschossen wurden, wurden diese Tiere in Fallen gefangen und dann je nach Transportart zunächst noch lebend transportiert, damit sie nicht verdarben, oder vor Ort so getötet, dass die Tötung möglichst wenige Spuren an dem Fell, Gefieder, der Haut oder dem Skelet hinterließ. Hier soll aber vor allem der Fang lebender Tiere zur Lebendausstellung in Zoos behandelt werden. Auf die Akquise von Museumspräparaten wird im Abschnitt "Sammeln" [ Text Line Collecting] noch stärker eingegangen werden.
+Für die meiste Zeit in den vergangenen etwa 250 Jahren, in denen moderne Zoos existieren, wurden Tiere in allen Zoos weltweit ausschließlich aus der Wildbahn entnommen. Das bedeutete, sie wurden in den Habitaten Habitat in denen sie geboren, oder in die sie migriert sind durch Jäger gefangen, um dann ausgestellt zu werden. Das konnten lokale Amateure oder Profis sein oder aber auch speziell ausgesandte, erfahrene oder trainierte Jäger, die entweder von einer Firma bezahlt wurden oder auf eigene Rechnung die Tiere fingen und sie dann anboten. Auch die Präparate, die wir in Museen sehen wurden entweder zunächst gefangen oder getötet. Wenn sie nicht mit Büchse oder Bogen aus der Entfernung geschossen wurden, wurden diese Tiere in Fallen gefangen und dann je nach Transportart zunächst noch lebend transportiert, damit sie nicht verdarben, oder vor Ort so getötet, dass die Tötung möglichst wenige Spuren an dem Fell, Gefieder, der Haut oder dem Skelet hinterließ. Hier soll aber vor allem der Fang lebender Tiere zur Lebendausstellung in Zoos behandelt werden. Auf die Akquise von Museumspräparaten wird im Abschnitt "Sammeln" [[story.Collecting Specimen]] noch stärker eingegangen werden.
 
 Viele der ersten in Europa in den sogenannten Wandermenagerien oder den fürstlichen Menagerien ausgestellten Tiere waren einzelne Fänge. Exotische Tiere wurden in den Herkunftsregionen von lokalen Herrschern als Statussymbole geschätzt und mit der Ankunft der Europäer auch diesen verkauft oder geschenkt. Matrosen, Kapitäne und reisende Händler brachten Gelegenheitskäufe aus außereuropäischen Gebieten auf der Rückfahrt in die Häfen West- und Südeuropas mit und verkauften sie dort. Das wachsende Interesse führte dann auch zur organisiertem Fang aber oft waren die exotischsten Tiere noch "Beifang" geografischer oder naturkundlicher Expeditionen. Nach und nach entwickelten sich Handelsagenturen, die mit Hilfe lokaler Agenten und Akteure Tiere auf Bestellung fingen oder Transporte begehrter Tiere zusammenstellten.
 
@@ -41,11 +41,11 @@ Es ist wichtig, sich in Erinnerung zu rufen, dass die Fänger bei einigen in Her
 
 ### Deutsch-Ostafrikanisches Nashorn
 
-Es ist bis dato noch nicht gelungen Fauna Afrikas nach Europa zu transportieren - nur aus dem Somaliland hat Menges regelmäßige Transporte; auch neue Infrastrukturen und Eisenbahnen nicht geholfen; alleine die Kuhherden für die Milch am Leben zu halten ist fast unmögliches Unterfangen; er schießt dann das Muttertier; er lässt das Jungtier nachts marschienen der Hitze wegen; in Neapel nimmt es Ludwig Heck entgegen. (Schillings, Carl Georg: Mit Blitzlicht und Büchse; Leipzig 1905, S. 186ff)
+Es ist bis dato noch nicht gelungen Fauna Afrikas nach Europa zu transportieren - nur aus dem Somaliland hat Menges regelmäßige Transporte; auch neue Infrastrukturen und Eisenbahnen nicht geholfen; alleine die Kuhherden für die Milch am Leben zu halten ist fast unmögliches Unterfangen; er schießt dann das Muttertier; er lässt das Jungtier nachts marschienen der Hitze wegen; in Neapel nimmt es Ludwig Heck entgegen.[^1]
 
 ## Die Großen Spieler - Hagenbeck, Ruhe und Co.
 
-Der Assistent am Zoo Berlin und Direktor des Aquariums,  Oskar Heinroth, fuhr regelmäßig in eine Forschungsstation an der Adria, um dort Tiere für sein Aquarium mitzunehmen. Insbesondere das Aquarium verwendete lange Zeit Wildfänge [Wildfang].
+Der Assistent am Zoo Berlin und Direktor des Aquariums,  Oskar Heinroth, fuhr regelmäßig in eine Forschungsstation an der Adria, um dort Tiere für sein Aquarium mitzunehmen. Insbesondere das Aquarium verwendete lange Zeit Wildfänge [[material.animals caught in the wild]].
 
 ### Fangstationen und Akklimatisierung
 
@@ -63,8 +63,8 @@ Der spätere Direktor des Zoologischen Gartens Berlin [[material.Lutz Heck]] (18
 Der Erfolg der ersten Expedition ließ [[material.Lutz Heck]] 1927 erneut eine Expedition ins Auge fassen. Dieses mal wollte er zudem Einheimische mit nach Berlin bringen, um sie dort zusammen mit den gefangenen Tieren auszustellen
 
 
-1927/28 in das Gebiet des heutigen Tansania. Die ehemalige deutsche Kolonie Deutsch-Ost-Afrika war zu diesem Zeitpunkt den Briten unterstellt. Beide Male begleitete ihn der Tierpfleger Petrus Olesen. 
-1935 fuhr [[material.Lutz Heck]] dann im Auftrag des Preußischen Ministerpräsidenten und führenden Nationalsozialisten Hermann Göring nach Kanada. Dort sollte er Bisons fangen, die in Berlin und Deutschland in Zoos ausgestellt und bei der Erhaltungszucht des Wisents [_Text Line Breeding] eingesetzt werden sollten.
+1927/28 in das Gebiet des heutigen Tansania. Die ehemalige deutsche Kolonie Deutsch-Ost-Afrika war zu diesem Zeitpunkt den Briten unterstellt. Beide Male begleitete ihn der Tierpfleger Petrus Olesen.
+1935 fuhr [[material.Lutz Heck]] dann im Auftrag des Preußischen Ministerpräsidenten und führenden Nationalsozialisten Hermann Göring nach Kanada. Dort sollte er Bisons fangen, die in Berlin und Deutschland in Zoos ausgestellt und bei der Erhaltungszucht des Wisents [[story.Breeding Animals for the Zoo]] eingesetzt werden sollten.
 Die Spezialisten
 Menges
 
@@ -81,7 +81,7 @@ Wolf der Legion Condor
 Bereits auf den Tagungen der IUDZG 1958 und 1959 wurden durch die Zoodirektoren auf aussterbende Arten hingewiesen.
 Dathe berichtete vom Panda und Silver Pheasant
 Antibiotika, Kreislaufmittel und neue Kenntnisse zur Ernährung
-ungeahnte Ausmaße; kriegszerstörte Gärten füllen wieder auf. (Dittrich, Lothar. 2007. „Der Import von Wildtieren nach Europa - Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts“. In Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte, herausgegeben von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl, 3:1–64. Tiergarten Schönbrunn - Geschichte. Wien: Braumüller.)
+ungeahnte Ausmaße; kriegszerstörte Gärten füllen wieder auf.[^2]
 
 ## Tiere holen - späte Expeditionen
 
@@ -90,6 +90,10 @@ Sogar noch XXXX fuhr der Berliner Zoodirektor Heinz-Georg Klös in den Hluhluwe-
 
 Wolfgang Gewalt fuhr auf Walfang Dittrich, Lothar. 2007. „Der Import von Wildtieren nach Europa - Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts“. In Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte, herausgegeben von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl, 3:1–64. Tiergarten Schönbrunn - Geschichte. Wien: Braumüller.
 Tierhandel im Zeichen internationaler Zuchtprogramme
-Seit den 1960er Jahren sind zunehmend Züchtungen [_Text Line Breeding], also in Zoos gezeugte Nachkommen, an die Stelle der Wildfänge [Wildfang) getreten. Im Rahmen des Artenschutzes werden von Zoos in der Regel keine Individuen gefährdeter Arten mehr aus der Natur entnommen. 
+Seit den 1960er Jahren sind zunehmend Züchtungen [[story.Breeding Animals for the Zoo]], also in Zoos gezeugte Nachkommen, an die Stelle der Wildfänge [Wildfang) getreten. Im Rahmen des Artenschutzes werden von Zoos in der Regel keine Individuen gefährdeter Arten mehr aus der Natur entnommen. 
 
-Was für lange Zeit noch möglich war, waren was ich Gelegenheitskäufe nennen würde. Der Frankfurter Zoodirektor und spätere Fernsehpersönlichkeit berichtete, dass er mit seinem Sohn am Ende einer Reise durch  Guinea, Sierra Leone, Elfenbeinküste und Liberia zwei Schimpansen angeboten bekam. Obwohl er nicht auf einer Tierhandels- Tierfangreise befand, kaufte er die beiden Tiere und liess sie durch seinen Sohn nach Frankfurt begleiten. (Grzimek, Bernhard: Flug ins Schimpansenland. Reise durch ein Stück Afrika von heute; Stuttgart 1955.)
+Was für lange Zeit noch möglich war, waren was ich Gelegenheitskäufe nennen würde. Der Frankfurter Zoodirektor und spätere Fernsehpersönlichkeit berichtete, dass er mit seinem Sohn am Ende einer Reise durch  Guinea, Sierra Leone, Elfenbeinküste und Liberia zwei Schimpansen angeboten bekam. Obwohl er nicht auf einer Tierhandels- Tierfangreise befand, kaufte er die beiden Tiere und liess sie durch seinen Sohn nach Frankfurt begleiten.[^3]
+
+[^1]: Schillings, Carl Georg: Mit Blitzlicht und Büchse; Leipzig 1905, S. 186ff.
+[^2]: Dittrich, Lothar. 2007. „Der Import von Wildtieren nach Europa - Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts“. In Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte, herausgegeben von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl, 3:1–64. Tiergarten Schönbrunn - Geschichte. Wien: Braumüller.
+[^3]: Vgl. Grzimek, Bernhard: Flug ins Schimpansenland. Reise durch ein Stück Afrika von heute; Stuttgart 1955.
