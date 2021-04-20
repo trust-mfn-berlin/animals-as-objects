@@ -2,7 +2,7 @@
 id: 21ac115b-15e0-4af9-a4ed-fdd3d29c313d
 title: ToDo CMW
 desc: ''
-updated: 1618826252661
+updated: 1618916371406
 created: 1618495172862
 ---
 
@@ -23,6 +23,7 @@ created: 1618495172862
 [[material.Heinz-Georg Klös]]
 [[material.Paul Matschie]]
 [[material.Hermann Pohle]]
+[[story.Trading Animals]]
 
 # ToDo
 
@@ -36,5 +37,8 @@ created: 1618495172862
 ## Fertigstellen
 
 [[story.The Zoo during the Nazi-Era]]
+[[material.Wissmann-Lion]]
+[[story.Knut]]
+
 
 

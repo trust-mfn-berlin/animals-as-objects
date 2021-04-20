@@ -2,7 +2,7 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1618577466218
+updated: 1618915412607
 created: 1618576718116
 title_de: Knut
 desc_de: Put a DE description of this note here...
@@ -37,4 +37,7 @@ Um das rege Interesse an dem Bären zu nutzen, schuf der Zoo bald eine Marke, un
 
 Am 19. März 2011 fiel der Eisbär aber in den Wassergraben des Geheges und ertrank. Die Anteilnahme der Berliner und des internationalen Publikums war überwältigend. Kistenweise erreichten den Zoo Briefe aus aller Welt, in denen »Knut«-Fans ihre Trauer bekundeten. Vor dem Eisbärengehege und am Zoozaun hinterließen Hunderte von Fans letzte Grüße. Knut-Fans stellten auf dem Spandauer Friedhof »In den Kisseln« neben der Grabstätte von Thomas Dörflein einen Gedenkstein für den Bären auf.
 
-## Proteste und Vermenschlichung
+## Museumsobjekt - Proteste und Vermenschlichung
+
+image Protests
+the fax
