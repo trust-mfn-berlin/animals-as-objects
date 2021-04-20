@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: Acquisition
 desc: Put a description of this note here...
-updated: 1618916477424
+updated: 1618951145641
 created: 1618498026144
 title_de: Tiere sammeln
 desc_de: Tiere und Tierobjekte kommen aus vielen unterschiedlichen Quellen.
