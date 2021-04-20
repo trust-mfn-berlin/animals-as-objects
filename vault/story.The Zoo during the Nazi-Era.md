@@ -2,7 +2,7 @@
 id: c905a53d-f89e-4237-a19b-3315c6da6c80
 title: The Zoo during the Nazi-Era
 desc: Put a description of this note here...
-updated: 1618934242523
+updated: 1618950551359
 created: 1618503086406
 title_de: Der Zoo im Nationalsozialismus
 desc_de: Während der nationalsozialistischen Diktatur stellte die Zooleitung den Berliner Zoo in den Dienst des Regimes.
@@ -44,7 +44,7 @@ Im August 1935 wurde ihm auf Initiative des Preußischen Ministerpräsidenten He
 
 ### Kolonialtage
 
-## Jüdische Aktionär*innen und Besucher*innen
+## Jüdische Aktionär\*innen und Besucher\*innen
 
 Die zunehmende Entrechtung zwang Jüdinnen und Juden von 1933 an ihre persönliche Habe zu verkaufen, um zu überleben oder zu emigrieren. Dazu gehörten auch Zooaktien. Gewinnausschüttungen waren mit der Zooaktie nie verbunden gewesen. Der freie Eintritt für die Familienangehörigen war die »Dividende«.(Monika Schmidt hat unter anderem in Die jüdischen Aktionäre des Zoologischen Gartens zu Berlin. Namen und Schicksale, Berlin 2014 die Lebenswege der Aufsichtsratsmitglieder und einiger jüdischer Aktionäre nachgezeichnet.) Freilich aber schwankte der Preis einer Zooaktie über die Jahre. Manche hatten bei frühen Verkäufen noch Interessenten zu einem realen Preis gefunden. Laut Statuten des Aktienvereins existierte weder eine rechtliche Kontrolle darüber, wer die Aktien kaufte, noch musste der Zoo einem Verkauf zustimmen. Im Frühjahr 1938 plante der Aufsichtsrat, daher dem Zoo durch eine Statutenänderung ein Zustimmungsrecht für Verkäufe zu übertragen. Die Maßnahme zielte eindeutig auf jüdische Aktienkäufer ab. Aus rechtlichen Gründen sah der Aufsichtsrat aber letzten Endes davon ab, beschloss im Juli 1938 aber, die gesetzlich erlaubten zehn Prozent der eigenen Aktien von jüdischen Aktionären zu erwerben. Nach dem Novemberpogrom 1938 versuchten die letzten verbliebenen jüdischen Aktionäre, ihre Wertpapiere zu verkaufen. Etwa 100 Aktien von jüdischen Besitzer*innen hat der Zoo erworben und an »arische Besitzer weitergegeben«.(Aufsichtsratsprotokolle, 19.07.1938 u. 16.12.1938, AZGB O 0/2/2.) Die wenigen dokumentierten Zwischenverkäufe aus jenen Monaten zeigen, dass der Zoo versucht hat, an diesen Transaktionen zu verdienen, indem er zu einem Niedrigpreis kaufte, die Aktie aber zu einem höheren Preis verkaufte.(Zessionspapiere im Archiv der Zoologischen Gärten Berlin)  
 Am 8. November 1938 beschloss der Aufsichtsrat, an der Weihnachtskrippe Hinweise anzubringen, dass Juden dort unerwünscht seien. Ab 1. Januar 1939 sollten solche Schilder auch an den Eingängen hängen.(Aufsichtsratsprotokoll, 08.11.1938, AZGB O 0/2/2.) In der folgenden Nacht ermordeten Nationalsozialisten in ganz Deutschland in einem organisierten Pogrom Hunderte jüdische Deutsche und zerstörten Existenzen und Synagogen. Der Berliner Polizeipräsident verbot Juden den Besuch von Vergnügungsstätten. Die von der Zooleitung geplanten Maßnahmen nahmen die offizielle Politik vorweg.
