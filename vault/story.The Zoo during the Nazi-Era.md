@@ -2,7 +2,7 @@
 id: c905a53d-f89e-4237-a19b-3315c6da6c80
 title: The Zoo during the Nazi-Era
 desc: Put a description of this note here...
-updated: 1619014960814
+updated: 1619017970217
 created: 1618503086406
 title_de: Der Zoo im Nationalsozialismus
 desc_de: Während der nationalsozialistischen Diktatur stellte die Zooleitung den Berliner Zoo in den Dienst des Regimes.
@@ -75,22 +75,21 @@ Die herausragende Bedeutung des Zoos für die NS-Propaganda und die persönliche
 [^family1]: Beispielsweise: Heck, Ludwig. 1938. Heiter-ernste Lebensbeichte. Erinnerungen eines alten Tiergärtners. Berlin: Deutscher Verlag.
  373, aber auch Heck, Lutz. 1935. Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn. Berlin: Paul Parey.
 [^family2]: Lebenslauf Lutz Heck für die Reichsschriftumskammer, Bundesarchiv Berlin (BArch), R 9361, V, 5953.
-[^family3]: Heck, Lutz. 1968. Waidwerk mit bunter Strecke. Jagd in heimischen Revieren. Hamburg, Berlin: Parey. 67.
+[^family3]: Heck, Lutz. 1968. Waidwerk mit bunter Strecke. Jagd in heimischen Revieren. Hamburg, Berlin: Parey: 67.
 [^family4]: Z. B. Lutz Heck, Der deutsche Edelhirsch. Ein Lebensbild, Berlin 1935.
 [^family5]: Vgl. Lutz Heck, Auf Urwild in Kanada, Berlin 1937.
 [^family6]: Jahrbuch der Fachschaft Deutsche Bracken, 1935/36.
 [^family7]: Zoologischer Garten Berlin, »Alte Tierkartei« sowie Liste der Löwen Hermann Görings mit Nachzuchten, AZGB N 5/13.
-[^family8]: Vgl. Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag, S. 111-113.
+[^family8]: Vgl. Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag: 111-113.
 [^board1]: Geschäftsbericht für das Jahr 1933.
 [^board2]: Aufsichtsratsprotokolle 1933, AZGB O 0/2/2.
 [^board3]: Aufsichtsratsprotokolle 1933, AZGB O 0/2/2 sowie Aktenvermerk für Regierungspräsident Zachariae, GStA PK I. HA Rep. 151, Nr. 2496, Bl. 23; Protokoll der Generalversammlung 1934, AZGB O 0/3/2.
 [^propa1]: Aufsichtsratsprotokoll, 22.05.1933, AZGB O 0/2/2.
 [^propa3]: Schriftwechsel zwischen allen Parteien in GStA PK I. HA, Rep 151, 2500 und Niederschrift der Aufsichtsratssitzung 24.08.1935, in: GStA PK I. HA, Rep 151, 2496, Bl. 93-94.
-[^propa4]: Vgl. u. a. Lutz Heck, Über die Neuzüchtung des Ur oder Auerochs; in: Berichte der Internationalen Gesellschaft zur Erhaltung des Wisents 3/1936, 4, S. 224–294, S. 235.
-[^propa5]: Heck, Lutz. 1941. Auf Tiersuche in weiter Welt. Berlin: Paul Parey, S. 195
-[^propa6]: Heck. 1941, S. 195, sowie Heck, Lutz. 1932. „Letzte Urwaldtiere aus deutscher Vorzeit“. Atlantis. Länder, Völker, Reisen 4 (10): 577–83.
-; Heck, Lutz. 1939. „Die Neuzüchtung des Auerochsen“. Wild und Hund, Nr. 37 (Dezember): 535–37. Auch auf der internationalen Jagdausstellung 1938 schmückte ein Fries mit einer Strophe des Epos den Stand zum Ur.
+[^propa4]: Vgl. u. a. Lutz Heck, Über die Neuzüchtung des Ur oder Auerochs; in: Berichte der Internationalen Gesellschaft zur Erhaltung des Wisents 3/1936, 4: 224–294, 235.
+[^propa5]: Heck, Lutz. 1941. Auf Tiersuche in weiter Welt. Berlin: Paul Parey: 195
+[^propa6]: Heck. 1941, S. 195, sowie Heck, Lutz. 1932. „Letzte Urwaldtiere aus deutscher Vorzeit“. Atlantis. Länder, Völker, Reisen 4 (10): 577–83; Heck, Lutz. 1939. „Die Neuzüchtung des Auerochsen“. Wild und Hund, Nr. 37 (Dezember): 535–37. Auch auf der internationalen Jagdausstellung 1938 schmückte ein Fries mit einer Strophe des Epos den Stand zum Ur.
 [^propa2]: Geschäftsberichte für die Jahre 1935 u. 1936.
-[^labour1]: Vgl. Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag. 126-127.
+[^labour1]: Vgl. Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag: 126-127.
 [^destruction1]: Liste in AZGB O 0/1/54.
 [^destruction2]: Kopie Bericht Lutz Hecks »An die Herren Mitglieder des Aufsichtsrats«, Januar 1944, AZGB O 0/1/54.
