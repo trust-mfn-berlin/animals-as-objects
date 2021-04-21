@@ -7,10 +7,10 @@ created: 1618495172862
 ---
 # Empty Backlinks
 
-[[story.Short History of the Berlin Zoo]]
-[[story.Short History of the Tierpark Berlin]]
+[[story.Short History Zoo]]
+[[story.Short History Tierpark]]
 [[story.Short History of the MfN]]
-[[story.Short History of the Anatomische Lehrsammlung]]
+[[story.Short History Lehrsammlung]]
 [[material.habitat]]
 [[material.German East Afrika]]
 [[material.Abyssinia]]

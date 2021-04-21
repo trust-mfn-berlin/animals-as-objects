@@ -1,10 +1,9 @@
-
 ---
-id: c905a53d-f89e-4237-a19b-3315c6da6c80
+id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 title: Nazi Zoo
-desc: Put a description of this note here...
-updated: 1619020957577
-created: 1618503086406
+desc: ''
+updated: 1619020958263
+created: 1619020958263
 title_de: Der Zoo im Nationalsozialismus
 desc_de: >-
   Während der nationalsozialistischen Diktatur stellte die Zooleitung den
@@ -45,13 +44,13 @@ Rechtzeitig zu den Olympischen Sommerspielen in Berlin, eröffnete der Zoo eine 
 
 ### Deutscher Zoo und Auerochsen
 
-Im August 1935 wurde ihm auf Initiative des Preußischen Ministerpräsidenten Hermann Göring eine Grundstückserweiterung am Tiergartenrand zugewiesen. Zunächst hatten Polizei und Reiter-SA Einspruch dagegen erhoben, da es den Reitweg am Tiergartenrand einschränken würde. Aber gegen die Macht Görings hatten sie keine Mittel.[^propa3] Auf dem neuen Geländestreifen, welches an die alten Bärenburg grenzte, siedelte Heck in großen Gehegen "einheimische Tierarten" an. Neben "deutschen" Raubtieren wie dem Wolf und dem Bären wurden "deutsche Raubvögel" wie Adler und Bussard ausgestellt. Dass praktisch alle diese Tiere auch in Nachbarländern des Deutschen Reichs vorkamen, und einige, wie der Bär in Deutschland praktisch gar nicht mehr, spielte für den propagandistischen Effekt keine Rolle. Das Kronjuwel des "Deutschen Zoos" war aber das Gehege für eine besondere Rinderart - den "Auerochsen" oder "Ur". [[story.Aurox]] Dieser gilt als Stammvater aller europäischen Hausrinderrassen. Allerdings war das letzte Exemplar seiner Sorte im 17. Jahrhundert gestorben. [[material.Lutz Heck]] und sein Bruder [[material.Heinz Heck]], Direktor des Münchner Tierparks Hellabrunn, versuchten diese Tiere aus Kreuzungen verschiedener Rinderrassen wiedererstehen zu lassen.[^propa4] Lutz Heck ging es darum, ein deutsches Urtier zu erschaffen, das "als echtes Symbol deutscher Kraft und deutschen Mutes" gelten sollte.[^propa5] Er verwies immer wieder auf das Nibelungenlied, in dem auch Siegfrieds Jagd auf Auerochsen besungen wird.[^propa6] Den Auerochsen aber konnten die Brüder nicht wieder zum Leben erwecken. Der Versuch galt und gilt weithin als unwissenschaftlich, seinem Einfluss bei den Nationalsozialisten hat es nicht geschadet. Am 1. Mai 1937 wurde Lutz Heck gleich nach Aufhebung des Aufnahmestopps von 1933 Mitglied der NSDAP.(Mitgliedskarte im Berlin Document Center des Bundesarchivs Berlin.) Im Sommer 1938 ernannte Reichsforstmeister Göring zum Leiter der Obersten Naturschutzbehörde.(Vgl. Abschrift Ministerialdirektor Eberts Reichsfortamt an Bundesleiter des Reichsbundes für Biologie Dr. W. Greite, 05.02.1941, BArch, NS 21/1543; Aufsichtsratsprotokoll, 19.07.1938, AZGB O 0/2/2.)  
+Im August 1935 wurde ihm auf Initiative des Preußischen Ministerpräsidenten Hermann Göring eine Grundstückserweiterung am Tiergartenrand zugewiesen. Zunächst hatten Polizei und Reiter-SA Einspruch dagegen erhoben, da es den Reitweg am Tiergartenrand einschränken würde. Aber gegen die Macht Görings hatten sie keine Mittel.[^propa3] Auf dem neuen Geländestreifen, welches an die alten Bärenburg grenzte, siedelte Heck in großen Gehegen "einheimische Tierarten" an. Neben "deutschen" Raubtieren wie dem Wolf und dem Bären wurden "deutsche Raubvögel" wie Adler und Bussard ausgestellt. Dass praktisch alle diese Tiere auch in Nachbarländern des Deutschen Reichs vorkamen, und einige, wie der Bär in Deutschland praktisch gar nicht mehr, spielte für den propagandistischen Effekt keine Rolle. Das Kronjuwel des "Deutschen Zoos" war aber das Gehege für eine besondere Rinderart - den "Auerochsen" oder "Ur". [[story.Reviving the Aurox]] Dieser gilt als Stammvater aller europäischen Hausrinderrassen. Allerdings war das letzte Exemplar seiner Sorte im 17. Jahrhundert gestorben. [[material.Lutz Heck]] und sein Bruder [[material.Heinz Heck]], Direktor des Münchner Tierparks Hellabrunn, versuchten diese Tiere aus Kreuzungen verschiedener Rinderrassen wiedererstehen zu lassen.[^propa4] Lutz Heck ging es darum, ein deutsches Urtier zu erschaffen, das "als echtes Symbol deutscher Kraft und deutschen Mutes" gelten sollte.[^propa5] Er verwies immer wieder auf das Nibelungenlied, in dem auch Siegfrieds Jagd auf Auerochsen besungen wird.[^propa6] Den Auerochsen aber konnten die Brüder nicht wieder zum Leben erwecken. Der Versuch galt und gilt weithin als unwissenschaftlich, seinem Einfluss bei den Nationalsozialisten hat es nicht geschadet. Am 1. Mai 1937 wurde Lutz Heck gleich nach Aufhebung des Aufnahmestopps von 1933 Mitglied der NSDAP.(Mitgliedskarte im Berlin Document Center des Bundesarchivs Berlin.) Im Sommer 1938 ernannte Reichsforstmeister Göring zum Leiter der Obersten Naturschutzbehörde.(Vgl. Abschrift Ministerialdirektor Eberts Reichsfortamt an Bundesleiter des Reichsbundes für Biologie Dr. W. Greite, 05.02.1941, BArch, NS 21/1543; Aufsichtsratsprotokoll, 19.07.1938, AZGB O 0/2/2.)  
 
 ### Kolonialtage
 
 ## Jüdische Aktionär\*innen und Besucher\*innen
 
-Die zunehmende Entrechtung zwang Jüdinnen und Juden von 1933 an ihre persönliche Habe zu verkaufen, um zu überleben oder zu emigrieren. Dazu gehörten auch Zooaktien. Gewinnausschüttungen waren mit der Zooaktie nie verbunden gewesen. Der freie Eintritt für die Familienangehörigen war die »Dividende«.(Monika Schmidt hat unter anderem in Die jüdischen Aktionäre des Zoologischen Gartens zu Berlin. Namen und Schicksale, Berlin 2014 die Lebenswege der Aufsichtsratsmitglieder und einiger jüdischer Aktionäre nachgezeichnet.) Freilich aber schwankte der Preis einer Zooaktie über die Jahre. Manche hatten bei frühen Verkäufen noch Interessenten zu einem realen Preis gefunden. Laut Statuten des Aktienvereins existierte weder eine rechtliche Kontrolle darüber, wer die Aktien kaufte, noch musste der Zoo einem Verkauf zustimmen. Im Frühjahr 1938 plante der Aufsichtsrat, daher dem Zoo durch eine Statutenänderung ein Zustimmungsrecht für Verkäufe zu übertragen. Die Maßnahme zielte eindeutig auf jüdische Aktienkäufer ab. Aus rechtlichen Gründen sah der Aufsichtsrat aber letzten Endes davon ab, beschloss im Juli 1938 aber, die gesetzlich erlaubten zehn Prozent der eigenen Aktien von jüdischen Aktionären zu erwerben. Nach dem Novemberpogrom 1938 versuchten die letzten verbliebenen jüdischen Aktionäre, ihre Wertpapiere zu verkaufen. Etwa 100 Aktien von jüdischen Besitzer*innen hat der Zoo erworben und an »arische Besitzer weitergegeben«.(Aufsichtsratsprotokolle, 19.07.1938 u. 16.12.1938, AZGB O 0/2/2.) Die wenigen dokumentierten Zwischenverkäufe aus jenen Monaten zeigen, dass der Zoo versucht hat, an diesen Transaktionen zu verdienen, indem er zu einem Niedrigpreis kaufte, die Aktie aber zu einem höheren Preis verkaufte.(Zessionspapiere im Archiv der Zoologischen Gärten Berlin)  
+Die zunehmende Entrechtung zwang Jüdinnen und Juden von 1933 an ihre persönliche Habe zu verkaufen, um zu überleben oder zu emigrieren. Dazu gehörten auch Zooaktien. Gewinnausschüttungen waren mit der Zooaktie nie verbunden gewesen. Der freie Eintritt für die Familienangehörigen war die »Dividende«.(Monika Schmidt hat unter anderem in Die jüdischen Aktionäre des Zoologischen Gartens zu Berlin. Namen und Schicksale, Berlin 2014 die Lebenswege der Aufsichtsratsmitglieder und einiger jüdischer Aktionäre nachgezeichnet.) Freilich aber schwankte der Preis einer Zooaktie über die Jahre. Manche hatten bei frühen Verkäufen noch Interessenten zu einem realen Preis gefunden. Laut Statuten des Aktienvereins existierte weder eine rechtliche Kontrolle darüber, wer die Aktien kaufte, noch musste der Zoo einem Verkauf zustimmen. Im Frühjahr 1938 plante der Aufsichtsrat, daher dem Zoo durch eine Statutenänderung ein Zustimmungsrecht für Verkäufe zu übertragen. Die Maßnahme zielte eindeutig auf jüdische Aktienkäufer ab. Aus rechtlichen Gründen sah der Aufsichtsrat aber letzten Endes davon ab, beschloss im Juli 1938 aber, die gesetzlich erlaubten zehn Prozent der eigenen Aktien von jüdischen Aktionären zu erwerben. Nach dem Novemberpogrom 1938 versuchten die letzten verbliebenen jüdischen Aktionäre, ihre Wertpapiere zu verkaufen. Etwa 100 Aktien von jüdischen Besitzer\*innen hat der Zoo erworben und an »arische Besitzer weitergegeben«.(Aufsichtsratsprotokolle, 19.07.1938 u. 16.12.1938, AZGB O 0/2/2.) Die wenigen dokumentierten Zwischenverkäufe aus jenen Monaten zeigen, dass der Zoo versucht hat, an diesen Transaktionen zu verdienen, indem er zu einem Niedrigpreis kaufte, die Aktie aber zu einem höheren Preis verkaufte.(Zessionspapiere im Archiv der Zoologischen Gärten Berlin)  
 Am 8. November 1938 beschloss der Aufsichtsrat, an der Weihnachtskrippe Hinweise anzubringen, dass Juden dort unerwünscht seien. Ab 1. Januar 1939 sollten solche Schilder auch an den Eingängen hängen.(Aufsichtsratsprotokoll, 08.11.1938, AZGB O 0/2/2.) In der folgenden Nacht ermordeten Nationalsozialisten in ganz Deutschland in einem organisierten Pogrom Hunderte jüdische Deutsche und zerstörten Existenzen und Synagogen. Der Berliner Polizeipräsident verbot Juden den Besuch von Vergnügungsstätten. Die von der Zooleitung geplanten Maßnahmen nahmen die offizielle Politik vorweg.
 
 ## Der Zoo im Krieg
@@ -76,23 +75,45 @@ In der Nacht auf den 23. November 1943 wurde der Zoo durch einen alliierten Bomb
 Die herausragende Bedeutung des Zoos für die NS-Propaganda und die persönlichen Verbindungen Hecks sorgten zur Zuweisung von 750 Zwangsarbeitern für schnelle Räumungsarbeiten.[^destruction2] Am 25. Juli 1944 öffnete der Zoo wieder.(L. Heck: Aktennotiz betr. Eröffnung am 25.7.1944, AZGB O 0/1/50; Erinnerungen von Elisabeth Johst, AZGB S 15/27.) Am 22. April 1945 war aber Schluss. Die verbleibenden Zoomänner wurden zum Volkssturm eingezogen und mussten durch ihren Zoo Schützengräben ziehen. Die Geschäftsleitung des Gartens floh kurz vor Einbruch der russischen Truppen am 30. April. (Erinnerungen von Elisabeth Johst, AZGB S 15/27; K. Heinroth an W. Keller, 18.09.1945, AZGB O 0/1/87; K. Heinroth an G. Freytag, 03.01.1946, AZGB O 0/1/86.) Am 2. Mai war die Schlacht um die Stadtmitte und den Zoo zu Ende. Überall lagen Leichen und Tierkadaver, etwa 90 Tiere hatten überlebt.(K. Heinroth: »Kriegszerstörungen und Aufbau von 1945 bis 1956 im Berliner Zoologischen Garten«, maschinenschriftliches Manuskript, AZGB N 4/2.)
 
 [^family1]: Beispielsweise: Heck, Ludwig. 1938. Heiter-ernste Lebensbeichte. Erinnerungen eines alten Tiergärtners. Berlin: Deutscher Verlag.
- 373, aber auch Heck, Lutz. 1935. Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn. Berlin: Paul Parey.
+    373, aber auch Heck, Lutz. 1935. Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn. Berlin: Paul Parey.
+
 [^family2]: Lebenslauf Lutz Heck für die Reichsschriftumskammer, Bundesarchiv Berlin (BArch), R 9361, V, 5953.
+
 [^family3]: Heck, Lutz. 1968. Waidwerk mit bunter Strecke. Jagd in heimischen Revieren. Hamburg, Berlin: Parey: 67.
+
 [^family4]: Z. B. Lutz Heck, Der deutsche Edelhirsch. Ein Lebensbild, Berlin 1935.
+
 [^family5]: Vgl. Lutz Heck, Auf Urwild in Kanada, Berlin 1937.
+
 [^family6]: Jahrbuch der Fachschaft Deutsche Bracken, 1935/36.
+
 [^family7]: Zoologischer Garten Berlin, »Alte Tierkartei« sowie Liste der Löwen Hermann Görings mit Nachzuchten, AZGB N 5/13.
+
 [^family8]: Vgl. Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag: 111-113.
+
 [^board1]: Geschäftsbericht für das Jahr 1933.
+
 [^board2]: Aufsichtsratsprotokolle 1933, AZGB O 0/2/2.
+
 [^board3]: Aufsichtsratsprotokolle 1933, AZGB O 0/2/2 sowie Aktenvermerk für Regierungspräsident Zachariae, GStA PK I. HA Rep. 151, Nr. 2496, Bl. 23; Protokoll der Generalversammlung 1934, AZGB O 0/3/2.
+
 [^propa1]: Aufsichtsratsprotokoll, 22.05.1933, AZGB O 0/2/2.
+
 [^propa3]: Schriftwechsel zwischen allen Parteien in GStA PK I. HA, Rep 151, 2500 und Niederschrift der Aufsichtsratssitzung 24.08.1935, in: GStA PK I. HA, Rep 151, 2496, Bl. 93-94.
+
 [^propa4]: Vgl. u. a. Lutz Heck, Über die Neuzüchtung des Ur oder Auerochs; in: Berichte der Internationalen Gesellschaft zur Erhaltung des Wisents 3/1936, 4: 224–294, 235.
+
 [^propa5]: Heck, Lutz. 1941. Auf Tiersuche in weiter Welt. Berlin: Paul Parey: 195
+
 [^propa6]: Heck. 1941, S. 195, sowie Heck, Lutz. 1932. „Letzte Urwaldtiere aus deutscher Vorzeit“. Atlantis. Länder, Völker, Reisen 4 (10): 577–83; Heck, Lutz. 1939. „Die Neuzüchtung des Auerochsen“. Wild und Hund, Nr. 37 (Dezember): 535–37. Auch auf der internationalen Jagdausstellung 1938 schmückte ein Fries mit einer Strophe des Epos den Stand zum Ur.
+
 [^propa2]: Geschäftsberichte für die Jahre 1935 u. 1936.
+
 [^labour1]: Vgl. Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag: 126-127.
+
 [^destruction1]: Liste in AZGB O 0/1/54.
+
 [^destruction2]: Kopie Bericht Lutz Hecks »An die Herren Mitglieder des Aufsichtsrats«, Januar 1944, AZGB O 0/1/54.
+
+ats«, Januar 1944, AZGB O 0/1/54.
+

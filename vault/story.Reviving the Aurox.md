@@ -1,12 +1,12 @@
 ---
-id: 7fba32d9-7bb3-469c-845b-d07c59e395b2
-title: Short History of the Anatomische Lehrsammlung
+id: 2a73ded7-858a-457a-86f7-76139200bb13
+title: Reviving the Aurox
 desc: Put a description of this note here...
-updated: 1618495477842
-created: 1618495350727
-title_de: Add a german title here
+updated: 1618503322973
+created: 1618503300335
+title_de: Der Auerochse
 desc_de: Put a DE description of this note here...
-author: Author name(s) here.
+author: CMW
 tao_type: story
 cover_image: null
 license: CC BY-SA

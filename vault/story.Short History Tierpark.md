@@ -1,12 +1,12 @@
 ---
-id: 2a73ded7-858a-457a-86f7-76139200bb13
-title: Aurox
+id: b685e044-4566-494f-b351-768778f47c29
+title: Short History Tierpark
 desc: Put a description of this note here...
-updated: 1618503322973
-created: 1618503300335
-title_de: Der Auerochse
+updated: 1618495474326
+created: 1618495227424
+title_de: Add a german title here
 desc_de: Put a DE description of this note here...
-author: CMW
+author: Author name(s) here.
 tao_type: story
 cover_image: null
 license: CC BY-SA
