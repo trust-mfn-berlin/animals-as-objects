@@ -2,7 +2,7 @@
 id: 8e923c6e-cfee-4c70-9f52-646f66dc05e4
 title: Markdown Guide
 desc: ''
-updated: 1618816177894
+updated: 1619010990205
 created: 1618396638023
 ---
 
@@ -72,6 +72,13 @@ You can add footnotes like so [^1].
 
 You can add more footnotes like so [^2].
 
+You can add more footnotes that have text as a reference [^example]. It will still show a numbered reference in the rendered text (see the markdown preview).
+
+[^1]: Somewhere in the Doc, just add `[^1]:`
+[^2]: Somewhere in the Doc, just add `[^2]:`
+[^example]: This is a different footnote `[^example]:`
+
+
 # Tables
 
 | Syntax      | Description |
@@ -80,8 +87,6 @@ You can add more footnotes like so [^2].
 | Paragraph   | Text        |
 | Different          | Widths are okay        |
 
-[^1]: At the end of the doc just add `[^1]:`
-[^2]: At the end of the doc just add `[^2]:`
 
 # Escape characters
 
