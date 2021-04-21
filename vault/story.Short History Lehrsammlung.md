@@ -1,12 +1,12 @@
 ---
-id: a17e9970-0265-4d71-88bf-80989e88d8a7
-title: Short History of the Berlin Zoo
+id: 7fba32d9-7bb3-469c-845b-d07c59e395b2
+title: Short History Lehrsammlung
 desc: Put a description of this note here...
-updated: 1618495479494
-created: 1618495062823
-title_de: Geschichte des Zoologischen Gartens Berlin
+updated: 1618495477842
+created: 1618495350727
+title_de: Add a german title here
 desc_de: Put a DE description of this note here...
-author: CMW
+author: Author name(s) here.
 tao_type: story
 cover_image: null
 license: CC BY-SA

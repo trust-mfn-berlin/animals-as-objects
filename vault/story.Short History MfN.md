@@ -1,6 +1,6 @@
 ---
 id: a6e9e522-9505-466f-9d18-cbf8ea17ffec
-title: Short History of the MfN
+title: Short History MfN
 desc: Short History of the Berlin Museum of Natural History
 updated: 1618562939676
 created: 1618495242856
