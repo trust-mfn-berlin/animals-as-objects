@@ -2,7 +2,7 @@
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 title: Nazi Zoo
 desc: ''
-updated: 1619020958263
+updated: 1619028948403
 created: 1619020958263
 title_de: Der Zoo im Nationalsozialismus
 desc_de: >-
@@ -74,8 +74,7 @@ In der Nacht auf den 23. November 1943 wurde der Zoo durch einen alliierten Bomb
 
 Die herausragende Bedeutung des Zoos für die NS-Propaganda und die persönlichen Verbindungen Hecks sorgten zur Zuweisung von 750 Zwangsarbeitern für schnelle Räumungsarbeiten.[^destruction2] Am 25. Juli 1944 öffnete der Zoo wieder.(L. Heck: Aktennotiz betr. Eröffnung am 25.7.1944, AZGB O 0/1/50; Erinnerungen von Elisabeth Johst, AZGB S 15/27.) Am 22. April 1945 war aber Schluss. Die verbleibenden Zoomänner wurden zum Volkssturm eingezogen und mussten durch ihren Zoo Schützengräben ziehen. Die Geschäftsleitung des Gartens floh kurz vor Einbruch der russischen Truppen am 30. April. (Erinnerungen von Elisabeth Johst, AZGB S 15/27; K. Heinroth an W. Keller, 18.09.1945, AZGB O 0/1/87; K. Heinroth an G. Freytag, 03.01.1946, AZGB O 0/1/86.) Am 2. Mai war die Schlacht um die Stadtmitte und den Zoo zu Ende. Überall lagen Leichen und Tierkadaver, etwa 90 Tiere hatten überlebt.(K. Heinroth: »Kriegszerstörungen und Aufbau von 1945 bis 1956 im Berliner Zoologischen Garten«, maschinenschriftliches Manuskript, AZGB N 4/2.)
 
-[^family1]: Beispielsweise: Heck, Ludwig. 1938. Heiter-ernste Lebensbeichte. Erinnerungen eines alten Tiergärtners. Berlin: Deutscher Verlag.
-    373, aber auch Heck, Lutz. 1935. Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn. Berlin: Paul Parey.
+[^family1]: Beispielsweise: Heck, Ludwig. 1938. Heiter-ernste Lebensbeichte. Erinnerungen eines alten Tiergärtners. Berlin: Deutscher Verlag,373, aber auch Heck, Lutz. 1935. Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn. Berlin: Paul Parey.
 
 [^family2]: Lebenslauf Lutz Heck für die Reichsschriftumskammer, Bundesarchiv Berlin (BArch), R 9361, V, 5953.
 

@@ -2,7 +2,7 @@
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 title: Exhibiting
 desc: Put a description of this note here...
-updated: 1619011057839
+updated: 1619037230688
 created: 1618572893774
 title_de: Tiere ausstellen
 desc_de: Wie und warum werden Tiere in Zoos und Museen ausgestellt?
@@ -21,9 +21,9 @@ English content goes here.
 
 # Tiere ausstellen in Berlin
 
-## Museen und Naturkundliche Sammlungen
-
 ## Taxonomie oder Geozoo?
+
+Das Berliner Naturkundemuseum [[story.Short History MfN]] und der Zoologische Garten Berlin [[story.Short History Zoo]]
 
 ### Das Diorama und die Familiengruppe
 
