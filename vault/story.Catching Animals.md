@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching Animals
 desc: Put a description of this note here...
-updated: 1619029524304
+updated: 1619092977605
 created: 1618492547915
 title_de: Tierfang
 desc_de: Dieser Text bespricht Fangexpeditionen für Zoos
@@ -41,7 +41,7 @@ Es ist wichtig, sich in Erinnerung zu rufen, dass die Fänger bei einigen in Her
 
 ### Deutsch-Ostafrikanisches Nashorn
 
-Es ist bis dato noch nicht gelungen Fauna Afrikas nach Europa zu transportieren - nur aus dem Somaliland hat Menges regelmäßige Transporte; auch neue Infrastrukturen und Eisenbahnen nicht geholfen; alleine die Kuhherden für die Milch am Leben zu halten ist fast unmögliches Unterfangen; er schießt dann das Muttertier; er lässt das Jungtier nachts marschienen der Hitze wegen; in Neapel nimmt es Ludwig Heck entgegen.[^1]
+Es ist bis dato noch nicht gelungen Fauna Afrikas nach Europa zu transportieren - nur aus dem Somaliland hat Menges regelmäßige Transporte; auch neue Infrastrukturen und Eisenbahnen nicht geholfen; alleine die Kuhherden für die Milch am Leben zu halten ist fast unmögliches Unterfangen; er schießt dann das Muttertier; er lässt das Jungtier nachts marschienen der Hitze wegen; in Neapel nimmt es Ludwig Heck entgegen.[^africanrhino]
 
 ## Die Großen Spieler - Hagenbeck, Ruhe und Co.
 
@@ -81,7 +81,7 @@ Wolf der Legion Condor
 Bereits auf den Tagungen der IUDZG 1958 und 1959 wurden durch die Zoodirektoren auf aussterbende Arten hingewiesen.
 Dathe berichtete vom Panda und Silver Pheasant
 Antibiotika, Kreislaufmittel und neue Kenntnisse zur Ernährung
-ungeahnte Ausmaße; kriegszerstörte Gärten füllen wieder auf.[^2]
+ungeahnte Ausmaße; kriegszerstörte Gärten füllen wieder auf.[^1950s1]
 
 ## Tiere holen - späte Expeditionen
 
@@ -92,8 +92,13 @@ Wolfgang Gewalt fuhr auf Walfang Dittrich, Lothar. 2007. „Der Import von Wildt
 Tierhandel im Zeichen internationaler Zuchtprogramme
 Seit den 1960er Jahren sind zunehmend Züchtungen [[story.Breeding Animals for the Zoo]], also in Zoos gezeugte Nachkommen, an die Stelle der Wildfänge [Wildfang) getreten. Im Rahmen des Artenschutzes werden von Zoos in der Regel keine Individuen gefährdeter Arten mehr aus der Natur entnommen. 
 
-Was für lange Zeit noch möglich war, waren was ich Gelegenheitskäufe nennen würde. Der Frankfurter Zoodirektor und spätere Fernsehpersönlichkeit berichtete, dass er mit seinem Sohn am Ende einer Reise durch  Guinea, Sierra Leone, Elfenbeinküste und Liberia zwei Schimpansen angeboten bekam. Obwohl er nicht auf einer Tierhandels- Tierfangreise befand, kaufte er die beiden Tiere und liess sie durch seinen Sohn nach Frankfurt begleiten.[^3]
+Was für lange Zeit noch möglich war, waren was ich Gelegenheitskäufe nennen würde. Der Frankfurter Zoodirektor und spätere Fernsehpersönlichkeit berichtete, dass er mit seinem Sohn am Ende einer Reise durch  Guinea, Sierra Leone, Elfenbeinküste und Liberia zwei Schimpansen angeboten bekam. Obwohl er nicht auf einer Tierhandels- Tierfangreise befand, kaufte er die beiden Tiere und liess sie durch seinen Sohn nach Frankfurt begleiten.[^lateexp1]
 
-[^1]: Schillings, Carl Georg: Mit Blitzlicht und Büchse; Leipzig 1905, S. 186ff.
-[^2]: Dittrich, Lothar. 2007. „Der Import von Wildtieren nach Europa - Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts“. In Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte, herausgegeben von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl, 3:1–64. Tiergarten Schönbrunn - Geschichte. Wien: Braumüller.
-[^3]: Vgl. Grzimek, Bernhard: Flug ins Schimpansenland. Reise durch ein Stück Afrika von heute; Stuttgart 1955.
+## Importe und Seuchenkontrolle
+
+Mit dem enormen Aufschwung, den der Tierhandel in den 1950er Jahren durch den Wiederaufbau auch der kriegszerstörten deutschen Zoos nahm, ergaben sich nach Ansicht der Behörden allerdings auch neue Probleme. Viele der nun nach Europa und Deutschland importierten Tiere kamen nun nicht mehr nach langem Transit auf Schiffen an, sondern wurden, was für die Tiere sicher besser war, mit dem Flugzeug verschickt. So wurde die Zeit in beengten Transportkisten minimiert, allerdings wurde die Gefahr des Einschleppens von Tierseuchen aus den Ursprungsgebieten möglicherweise erhöht. Eine Lösungsmöglichkeit in der Diskussion zwischen bundesdeutschen Behörden und den Zoos war die Einrichtung von Quarantäneställen in den Zoos selbst oder in bei den Händlern. Bernhard Grzimek lehnte letzteres rundheraus für die deutschen Zoos ab, da er die Gefahr sah, dass so die Händler ein absolutes Monopol auf den Import von Widltieren habbekämen en und die Zoos keine Möglichkeit mehr hätten, selbst Tiere zu fangen oder fangen zu lassen. Die Zoodirektoren schlossen sich dem bei ihrer Verbandssitzung an und vertraten die Ansicht, dass es keinen Regelelungsbedarf gab und die vorhandenen Vorschriften ausreichen würden. Es wäre in den vergangenen Jahren zu keinem Seuchenausbruch durch Zootiere gekommen.[^import]
+
+[^africanrhino]: Schillings, Carl Georg: Mit Blitzlicht und Büchse; Leipzig 1905, S. 186ff.
+[^1950s1]: Dittrich, Lothar. 2007. „Der Import von Wildtieren nach Europa - Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts“. In Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte, herausgegeben von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl, 3:1–64. Tiergarten Schönbrunn - Geschichte. Wien: Braumüller.
+[^lateexp1]: Vgl. Grzimek, Bernhard: Flug ins Schimpansenland. Reise durch ein Stück Afrika von heute; Stuttgart 1955.
+[^import]: Korrespondenz B. Grzimek und Bundesministerium für Ernährung und Landwirtschaft u. a., Protokoll der VDZ-Tagung 1962 in: ATGS, Nachlass W. Fiedler, Ordner VDZ + WAZA, Nr.1.
