@@ -2,7 +2,7 @@
 id: 7e8ae118-f3d8-4d13-a1bd-fcf4bb048f7b
 title: Cell Theory
 desc: Put a description of this note here...
-updated: 1619026312523
+updated: 1619107999342
 created: 1619026312523
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-English content goes here.
+[[material.otto butschli]], [[material.theodor von siebold]], [[material.spontaneous generation]], [[story.microscopy]], [[material.microscopic preparations]], [[theme.microbial worlds]], [[material.christian gottfried ehrenberg]], [[material.felix dujardin]]
 
 :::DE:::
 
