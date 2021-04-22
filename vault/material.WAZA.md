@@ -1,0 +1,24 @@
+---
+id: 378a4749-b18a-4096-bbf5-f39ed8942f1c
+title: WAZA
+desc: Put a description of this note here...
+updated: 1619088350348
+created: 1619088350348
+title_de: Add a german title here
+desc_de: Put a DE description of this note here...
+author: Author name(s) here.
+tao_type: material
+cover_image: null
+license: CC BY-SA
+published: false
+---
+
+:::EN:::
+
+English content goes here.
+
+:::DE:::
+
+German content goes here.
+
+Testing here

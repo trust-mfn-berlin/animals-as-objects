@@ -2,7 +2,7 @@
 id: 21ac115b-15e0-4af9-a4ed-fdd3d29c313d
 title: ToDo CMW
 desc: ''
-updated: 1619036827349
+updated: 1619100045277
 created: 1618495172862
 ---
 # Empty Backlinks
@@ -29,6 +29,9 @@ created: 1618495172862
 * [[story.Trading Animals]]
 * [[material.Ernst Schäfer]]
 * [[story.Gifting Objects]]
+* [[material.EAZA]]
+* [[material.VDZ]]
+* [[material.WAZA]]
 
 # ToDo
 
@@ -46,3 +49,6 @@ created: 1618495172862
 * [[material.Wissmann-Lion]]
 * [[story.Knut]]
 
+## Umarbeiten
+
+[[story.Zoos and Conservation]] noch zuviel Buchmanuskript drin
