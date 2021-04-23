@@ -2,7 +2,7 @@
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 title: Zoos and Conservation
 desc: Since only a relatively short time zoos intensify their conservation eforts.
-updated: 1619100041747
+updated: 1619182540748
 created: 1618994200982
 title_de: Zoos und Artenschutz
 desc_de: Seit relativ kurzer Zeit engagieren sich Zoos auch im Artenschutz.
@@ -21,10 +21,18 @@ English content goes here.
 
 # Zoos als Artenschützer?!
 
+Zoos bewegen sich in einem Spannungsfeld zwischen einem oft sehr treuen und kenntnisreichen Publikum und einer berechtigten und lautstarken Kritik. Besucher\*innen, die 'ihre' Lieblinge ganz genau kennen und über viele Jahre beobachten, für die der Zoo eine Art erweitertes Wohnzimmer darstellt und die nicht selten dazu neigen, die ausgestellten Tiere stark zu vermenschlichen bilden das eine Extrem. Das andere sind lautstarke Gegner\*innen von Zoos, die deren sofortige Schließung und die 'Freilassung' der gehaltenen Tiere fordern. Zoos müssen ihre Legitimitätsbasis dauernd verteidigen und bauen. Die frühen Zoos bauten auf ihren Ruf als Bildungsstätten. Sie seien lebende Museen und wie diese Stätten der naturkundlichen Bildung.
+
+Unter den Zoodirektoren des ausgehenden 19. Jahrhunderts finden sich beachtlich viele Jäger. Und Jäger waren es auch, denen oft zuerst auffiel, dass bestimmte Tierspezien gefährlich dezimiert waren.[^hunter] das galt für die USA ebenso wie für den afrikanischen Kontinent.
+
+## Davidshirsch, Bison, Wisent und Przwalskipferd
+
+In den 1890er Jahren wurde der Davidshirsch vor dem Aussterben bewahrt. Der Duke of Bedford brachte eine Gruppe von 18 Tieren in seinen Privatzoo in Woburn, um sie dort in einem Zuchtprogramm zu vermehren.[^firsttrials1] 1905 wurde die 'American Bison Society' gegründet. Das Ziel: die Erhaltung des beinahe ausgestrobenen Amerikanischen Bison. Dieser Megaherbivore hatte einst in riesigen Herden die weiten Ebenen der USA bevölkert. Diese waren nun durch intensive Bejagung auf wenige kleine Gruppen dezimiert worden. Die Wandertaube, deren Schwärme, ähnlich wie die Bisons die Prärie beherrschten, den Himmel über den USA einst verdunkelten hingegen bekam keine Aufmerksamkeit und starb wohl um die Jahrhundertwende zum 20. Jahrhundert aus. Anschließend lebten noch einige Exemplare in Zoos, doch niemand machte nenneswerte Versuche, sie zu züchten und die Art zu erhalten.[^firsttrials2] Erst im 21. Jahrhundert wurden Versuche gestartet, die Art mit Hilfe überlieferter genetischer Informationen wiederzubeleben. Beide Arten waren einst ähnlich zahslreich und omnipräsent in Amerika, die Antworten, die auf ihr Aussterben gefunden wurden, konnten aber unterschiedlicher nicht sein.
+Der Direktor des New York Zoological Parks und ehemalige Taxidermist des National Museum, William Hornaday, stellte  eine Zuchtgruppe aus Bisons verschiedener amerikanischer Zoos zusammen und bald gelang es ihm, nachwuchs zu zeugen. Als dann ab etwa 1905 durch US-Präsident theodore Roosevelt erste Nationalparks entstanden, begannen Hornaday und seine Mitstreiter die Tiere auszuwildern. Zum ersten Mal wurde eine in Zoos gezüchtete gefährdete Tierart ausgewildert. Der große Bison war nicht nur leicht zu züchten und vermehrte sich auch in menschlicher Obhut gut, er zog anscheindend genug Aufmerksamkeit, was mit seiner Größe, seiner Gefährlichkeit, wohl aber auch mit seiner ikonischen Figur in der Geschichte des amerikanischen Westens zu tun hatte.
+
+Ähnliches kann in etwas vermindertem Umfang auch für die Geschichte der Rettung des europäischen Gegenstücks des Bisons angenommen werden - des Wisents.
 
 ## Studbooks
-
-### Wisent, Przwalskipferd und Onager
 
 ### Weitere
 
@@ -41,8 +49,6 @@ Auf der Sitzung des Internationalen Verbands der Zoodirektoren, dem Vorgänger d
 * San Diego übernahm die Mendesantilope
 * Washington den Orang-Utan und
 * Whipsnade wollte das Zuchtbuch für den Davidshirsch führen.[^studbookscolombo]
-
-
 
 ## Bullfrog
 
@@ -79,3 +85,6 @@ Auf der Tagung des deutschen Verbandes 1966 wurde aus denselben Gründen das Kau
 [^orang1]: Protokoll der Tagung des Verbands Deutscher Zoodirektoren 1962, Archiv Tiergarten Schönbrunn (ATGS), Nachlass W. Fiedler, Ordner Verband Deutscher Zoodirektoren, Nr. 2.
 [^orang2]: Protokoll der Jahrestagung 1965 des IUDZG (deutsche Ausfertigung), o. D., ATGS, Nachlass W. Fiedler, Ord-ner VDZ + WAZA, Nr.1.
 [^studbookscolombo]: Z. Veselovsky an Mitglieder IUDZG, o. D., ATGS, Nachlass W. Fiedler, Ordner VDZ und WAZA, Nr. 1.
+[^firsttrials1]: Kisling, Vernon N. Jr. 2018. „Historic and Cultural Foundations of Zoo Conservation: A Narrative Timeline“. In The ark and beyond: the evolution of zoo and aquarium conservation, herausgegeben von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb, 41–50. Convening science: discovery at the marine biological laboratory. Chicago: The University of Chicago Press, 41.
+[^firsttrials2]: Vgl. Barrow, Mark V. Jr. 2018. „Teetering on the Brink of Extinction: The Passenger Pigeon, the Bison, and American Zoo Culture in the Late Nineteenth and Early Twentieth Centuries“. In The ark and beyond: the evolution of zoo and aquarium conservation, herausgegeben von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb, 51–64. Convening science: discovery at the marine biological laboratory. Chicago: The University of Chicago Press.
+[^hunter]: Vgl. Barrow, Mark V. Jr. 2018. „Teetering on the Brink of Extinction: The Passenger Pigeon, the Bison, and American Zoo Culture in the Late Nineteenth and Early Twentieth Centuries“. In The ark and beyond: the evolution of zoo and aquarium conservation, herausgegeben von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb, 51–64. Convening science: discovery at the marine biological laboratory. Chicago: The University of Chicago Press, 51.
