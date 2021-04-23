@@ -2,7 +2,7 @@
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 title: Exhibiting
 desc: Put a description of this note here...
-updated: 1619178389359
+updated: 1619183081822
 created: 1618572893774
 title_de: Tiere ausstellen
 desc_de: Wie und warum werden Tiere in Zoos und Museen ausgestellt?
@@ -64,6 +64,10 @@ Hier gab es Überschneidungen mit den traditionellen Zoos. Besucher\*innen des B
 "How to exhibit a bullfrog?" fragte der Direktor des Bronx Zoos 1968.[^3]
 
 ## Konkurrenz in einer Stadt - Zoo und Tierpark buhlen um Gäste
+
+## Enrichment Training
+
+## Museen als Zentren der Diversitätsbildung
 
 [^1]: Köstering, Susanne. 2003. Natur zum Anschauen: Das Naturkundemuseum des deutschen Kaiserreichs 1871-1914. Köln, Weimar, Wien: Böhlau Verlag; 278.
 [^2]: Ritvo, Harriet. 2018. „The World as a Zoo: Acclimatisation in the Ninetenth Century“. In The ark and beyond: the evolution of zoo and aquarium conservation, herausgegeben von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb, 27–38. Convening science: discovery at the marine biological laboratory. Chicago: The University of Chicago Press; 27.
