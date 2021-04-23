@@ -2,7 +2,7 @@
 id: df37d6fb-33ac-4b34-bc21-3401db3aac52
 title: Micropaleontological Formations
 desc: Micropaleontology is the scientific study of microfossils, fossils that are microscopic in size and are not visible to the naked eye.
-updated: 1619191267321
+updated: 1619201131045
 created: 1618502886244
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -32,8 +32,15 @@ In the case of [[material.foraminifera]], this is evident in the work of [[mater
 Haeckel was charged with reporting on the radiolarians and [[material.henry bowman brady]] on the foraminiferans. Detailed, rigorous, and artfully illustrated, both reports enjoyed much success, as they represented the crowning achievement of 19th century natural sciences. Their encyclopedic work still grounds much of subsequent [[story.oceanography]] and profoundly shaped our understanding of nature. But, while their descriptive value is still appreciated, both reports eventually reconfirmed the mistaken idea that microorganisms evolved only slowly and over long geological timeframes. Even before being truly born, micropaleontology faced a premature death, as microfossils became disconnected from geological time in these early studies.
 
 ##Industrial micropaleontology
-The break that would mark the success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[material.fossil fuels]] had been growing exponentially, thanks to the success of the combustion engine. Yet, at the beginning of the century the methods for prospecting for oil were still rudimental and could not keep up with the increasing demand. For this reason the exctractive industries were looking for the help of experts in solving their geological problems. 
-[[material.joseph cushman]], [[material.esther applin]], [[material.alva ellisor]], [[material.hedwig kniker]], [[material.foraminifera]], [[material.fossil fuels]], [[material.alexander vasilievich fursenko]], [[material.nina nicolaevna subbotina]], [[material.dagmara maksimilianovna rauser-chernousova]]
+The break that would mark the success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[material.fossil fuels]] had been growing exponentially, thanks to the success of the internal combustion engine, the developments in transport, and oil's advantages over coal and steam. Yet, at the beginning of the century the methods for prospecting for oil were still rudimental and could not keep up with the increasing demand. To overcome this problem, oil companies had already been employing geologists since the end of the 19th century, who had successfully employed the 'anticlinal' theory to discover new wells. But after the first world war, with increased demand, oil companies started to explore also regions in which more complex stratigraphies presented obstacles to geologists. Seeking a solution to their geological problems, the extractive industries hired paleontologists in the hope that they could help geologists trace oil fields more effectively. As we saw earlier, though, microfossils had been effectively declared useless for these types of problem, because of their assumed long evolutionary ranges, so early researchers focused on macrofossils to resolve these stratigraphical issues.
+
+That is, until a consortium of US oil companies, which had moved to the Gulf coast after the privatization of Californian oil lands, hired three young women just out of college to work on their collection of fossils to solve their stratigraphic troubles: [[material.esther applin]], [[material.alva ellisor]], and [[material.hedwig kniker]]. These young scientists were the first to identify, in 1921, the importance of fossil [[material.foraminifera]] in correlating and interpreting stratigraphies [^micropaleontology5]. Within three years from this breakthrough, 300 micropaleontologists were employed in the industry, and by 1931 more than three quarters of all US oil wells used micropaleontology. This discovery single-handedly revolutionized the oil industry and geology, bringing what came to be known as industrial micropaleontology to the fore.
+
+[[material.joseph cushman]]
+
+This example followed all over; in the soviet union, where the exploitation of the Baku oil fields had already stimulated similar work, a micropaleontology institute was established in 1930.
+
+[[material.alexander vasilievich fursenko]], [[material.nina nicolaevna subbotina]], [[material.dagmara maksimilianovna rauser-chernousova]]
 
 ##Micropaleontology at sea
 [[material.william rex riedel]], [[material.deep sea drilling]], [[story.oceanography]], [[material.radiolaria]]
@@ -45,6 +52,7 @@ The break that would mark the success of micropaleontology was to come from an u
 [^micropaleontology2]: The impact of these early descriptions is quantified in Lazarus, David. "The legacy of early radiolarian taxonomists, with a focus on the species published by early German workers." _Journal of Micropalaeontology_ 33, no. 1 (2014): 3-19.
 [^micropaleontology3]: This argument is clearly laid out in Orbigny, Alcide Dessalines d'. 1846. Foraminifères fossiles du bassin tertiaire de Vienne (Autriche). Paris: Gide et Compe. https://doi.org/10.5962/bhl.title.145432
 [^micropaleontology4]: See, for instance, Churchill, Frederick B. "The guts of the matter. Infusoria from Ehrenberg to Bütschli: 1838–1876." _Journal of the History of Biology_ 22, no. 2 (1989): 189-213. https://doi.org/10.1007/BF00139512
+[^micropaleontology5]: This history is told in detail in Gries, Robbie Rice. "How female geologists were written out of history: the micropaleontology breakthrough." _Geological Society of America Memoirs_ 214 (2018): 11-22. https://doi.org/10.1130/2018.1214(02)
 
 
 :::DE:::
