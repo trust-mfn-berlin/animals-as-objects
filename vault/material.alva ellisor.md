@@ -1,13 +1,13 @@
 ---
-id: 48ff1bbe-e16b-4d6c-9da0-0dafede0ba89
-title: Oceanography
+id: ad860b9e-9ade-4a35-a2dd-0b642467576b
+title: Alva Ellisor
 desc: Put a description of this note here...
-updated: 1619187977985
-created: 1618503010729
+updated: 1619186376219
+created: 1619186376219
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
-author: FB
-tao_type: story
+author: Author name(s) here.
+tao_type: material
 cover_image: null
 license: CC BY-SA
 published: false
@@ -15,8 +15,10 @@ published: false
 
 :::EN:::
 
-[[material.deep sea drilling]], [[material.hms challenger]]
+English content goes here.
 
 :::DE:::
 
 German content goes here.
+
+Testing here
