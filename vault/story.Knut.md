@@ -2,7 +2,7 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1619353088156
+updated: 1619426920851
 created: 1618576718116
 title_de: Knut
 desc_de: Put a DE description of this note here...
@@ -60,10 +60,6 @@ Oder:
 Sem Zoodirektor hatte einige bereits zuvor vorgeworfen, seinen Schützling nicht ausreichend versorgt zu haben, nun wurde er erneut persönlich angegriffen:
 
 >"HR: BLASZKIEWITZ // SIE SIND EIN WITZ //STOPFEN SIE IHR // HERZ + HIRN AUS"
-
-
-
-
 
 ## Footnotes
 

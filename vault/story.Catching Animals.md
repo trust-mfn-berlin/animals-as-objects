@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching Animals
 desc: Put a description of this note here...
-updated: 1619092977605
+updated: 1619426506374
 created: 1618492547915
 title_de: Tierfang
 desc_de: Dieser Text bespricht Fangexpeditionen für Zoos
@@ -54,14 +54,13 @@ Bobby - aber auch vor Ort musste das geschehen. Eingewöhnung, Ernährungsumstel
 
 ## Eigene Expeditionen des Berliner Zoos
 
-Der spätere Direktor des Zoologischen Gartens Berlin [[material.Lutz Heck]] (1892-1983) war seit 1924 bei seinem Vater, dem Berliner Zoodirektor [[material.Ludwig Heck]] als Assistent angestellt. Auf seine Initiative sind die größeren Freigehege zurückzuführen. 1925 fuhr er zusammen mit dem Raubtierpfleger Petrus Olesen nach [[material.Abyssinia]] um dort afrikanische Wildtiere zu fangen.
+Der spätere Direktor des Zoologischen Gartens Berlin [[material.Lutz Heck]] (1892-1983) war seit 1924 bei seinem Vater, dem Berliner Zoodirektor [[material.Ludwig Heck]] als Assistent angestellt. Auf seine Initiative sind die größeren Freigehege zurückzuführen. 
 
-### Vorbilder in den USA
+* Vorbilder USA
 
-### Filmische Propaganda
+1925 fuhr er zusammen mit dem Raubtierpfleger Petrus Olesen nach [[material.Abyssinia]] um dort afrikanische Wildtiere zu fangen. Dabei begleiteten ihn auch ein Produzent und ein Kameramann der DEFA. Der aus der Expedition hervorgegangene Film strotzte in der Darstellung der Bevölkerung Ostafrikas vor rassistischen und aus der Kolonialzeit übernommenen Stereotypen
 
 Der Erfolg der ersten Expedition ließ [[material.Lutz Heck]] 1927 erneut eine Expedition ins Auge fassen. Dieses mal wollte er zudem Einheimische mit nach Berlin bringen, um sie dort zusammen mit den gefangenen Tieren auszustellen
-
 
 1927/28 in das Gebiet des heutigen Tansania. Die ehemalige deutsche Kolonie Deutsch-Ost-Afrika war zu diesem Zeitpunkt den Briten unterstellt. Beide Male begleitete ihn der Tierpfleger Petrus Olesen.
 1935 fuhr [[material.Lutz Heck]] dann im Auftrag des Preußischen Ministerpräsidenten und führenden Nationalsozialisten Hermann Göring nach Kanada. Dort sollte er Bisons fangen, die in Berlin und Deutschland in Zoos ausgestellt und bei der Erhaltungszucht des Wisents [[story.Breeding Animals for the Zoo]] eingesetzt werden sollten.
