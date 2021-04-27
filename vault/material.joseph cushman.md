@@ -1,9 +1,9 @@
 ---
-id: 0a1b5b14-3b4e-437e-8299-2b2b0f3509ff
-title: Bird
+id: e14b3219-c8fe-491b-9149-145830844433
+title: Joseph Cushman
 desc: Put a description of this note here...
-updated: 1619516446840
-created: 1618495206850
+updated: 1619190503803
+created: 1619190503803
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
 author: Author name(s) here.
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-The bird is the word
+English content goes here.
 
 :::DE:::
 

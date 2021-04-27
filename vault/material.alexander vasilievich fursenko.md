@@ -1,9 +1,9 @@
 ---
-id: 0a1b5b14-3b4e-437e-8299-2b2b0f3509ff
-title: Bird
+id: 50291cee-27f5-4fdc-a9fc-ee06ca558503
+title: Alexander Vasilievich Fursenko
 desc: Put a description of this note here...
-updated: 1619516446840
-created: 1618495206850
+updated: 1619190957940
+created: 1619190957940
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
 author: Author name(s) here.
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-The bird is the word
+English content goes here.
 
 :::DE:::
 

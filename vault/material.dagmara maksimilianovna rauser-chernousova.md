@@ -1,9 +1,9 @@
 ---
-id: 0a1b5b14-3b4e-437e-8299-2b2b0f3509ff
-title: Bird
+id: 50f7d08c-9ed6-4b47-be5a-433d0cba2c46
+title: Dagmara Maksimilianovna Rauser Chernousova
 desc: Put a description of this note here...
-updated: 1619516446840
-created: 1618495206850
+updated: 1619191035609
+created: 1619191035609
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
 author: Author name(s) here.
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-The bird is the word
+English content goes here.
 
 :::DE:::
 
