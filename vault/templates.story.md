@@ -2,7 +2,7 @@
 id: 98db0135-2087-4fdd-9f42-a14fcb81174e
 title: Story
 desc: 'Put a description of this note here...'
-updated: 1618482738460
+updated: 1619531844750
 created: 1617975606425
 title_de: Add a german title here
 desc_de: 'Put a DE description of this note here...'
@@ -15,7 +15,15 @@ published: false
 
 :::EN:::
 
-English content goes here.
+Like material, here you have the text body. With backlinks: [[theme.test]].
+And footnotes [^footnote1].
+And **bold** and _italics_.
+But as stories are longer, you might need:
+
+##Subheadings
+Where you can say more.
+
+[^footnote1]: here it links.
 
 :::DE:::
 

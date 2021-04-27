@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1618577735839
+updated: 1619532066400
 created: 1618326133707
 ---
 
@@ -13,6 +13,8 @@ I have added the style guide draft by Filippo as a starting point. When this not
 <!-- Easiest way to do this - Hit `Cmd + /` -->
 <!-- On Windows Press Ctrl + / -->
 <!-- On Mac Press Cmd + / -->
+
+See the [[templates]] for the styleguides of each type of input.
 
 ## Material
 
@@ -62,7 +64,7 @@ Date updated
 
 *author(s)*
 
-(**Two-words) title [evoking broader themes]**
+**(Two-words) title [evoking broader themes]**
 
 *Subheading 1*
 

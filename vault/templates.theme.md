@@ -2,7 +2,7 @@
 id: 6bb6d7d7-d7e7-48a6-8649-340aac4d9b24
 title: Theme
 desc: 'Put a description of this note here...'
-updated: 1618482741125
+updated: 1619531973813
 created: 1617975596857
 title_de: Add a german title here
 desc_de: 'Put a DE description of this note here...'
@@ -15,7 +15,15 @@ published: false
 
 :::EN:::
 
-English content goes here.
+Themes are like materials and stories. They also get backlinks: [[theme.test]].
+And footnotes [^footnote1].
+And **bold** and _italics_.
+And:
+
+##Subheadings
+Where more can be said.
+
+[^footnote1]: here it links.
 
 :::DE:::
 
