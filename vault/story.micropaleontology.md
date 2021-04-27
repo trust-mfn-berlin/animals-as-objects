@@ -2,7 +2,7 @@
 id: df37d6fb-33ac-4b34-bc21-3401db3aac52
 title: Micropaleontological Formations
 desc: Micropaleontology is the scientific study of microfossils, fossils that are microscopic in size and are not visible to the naked eye.
-updated: 1619534774906
+updated: 1619541228469
 created: 1618502886244
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -40,7 +40,7 @@ The example of US industrial micropaleontology was quickly followed all over the
 Institute (VNIGRI) in Leningrad. Under the leadership of [[material.alexander vasilievich fursenko]] and later of [[material.nina nicolaevna subbotina]], the institute also developed research on industrial micropaleontology. It also extended its activities to Moscow, where [[material.dagmara maksimilianovna rauser-chernousova]] lead the discovery of more important oilfields in Baku during the second World War [^micropaleontology7]. In this sense, the field of micropaleontology was largely formed not to answer academic and scientific questions, but as an applied instrument to address geological and stratigraphic problems, in particular in relation to the extractive industries' search for [[material.fossil fuels]]. This history of a scientific discipline, then, is also intertwined with the private and national concerns that developed alongside global oil interests, industries, and logistics - in particular in the formative early years of the 20th century. As two World Wars ravaged, fragmented, and reassembled planetary orders, industrial micropaleontology's importance grew alongside with the rise of the use of fossil fuels.
 
 ##Micropaleontology at sea
-[[material.william rex riedel]], [[material.deep sea drilling]], [[story.oceanography]], [[material.radiolaria]]
+As the global conflicts of the first half of the 20th century only increased society's thirst for fossil fuels, industrial micropaleontology continued its rise to fame. But, at least until the end of the second Wold War, the efforts of micropaleontologists had concentrated almost exclusively on foraminifera. As oil became more profitable, a better knowledge of the stratigraphy of the earth was increasingly necessary. [[material.william rex riedel]], [[material.deep sea drilling]], [[story.oceanography]], [[material.radiolaria]]
 
 ##Of microbes and planets
 [[theme.planetary data]], [[story.oceanography]], [[material.NSB]], [[material.cycladophora davisiana]]
