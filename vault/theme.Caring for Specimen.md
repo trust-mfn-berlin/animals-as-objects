@@ -1,13 +1,13 @@
 ---
-id: 0a1b5b14-3b4e-437e-8299-2b2b0f3509ff
-title: Bird
+id: 185638d0-8242-49cc-9a0f-e1294cbb4ceb
+title: Caring for Specimen
 desc: Put a description of this note here...
-updated: 1619516446840
-created: 1618495206850
+updated: 1619521374181
+created: 1619521374181
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
 author: Author name(s) here.
-tao_type: material
+tao_type: theme
 cover_image: null
 license: CC BY-SA
 published: false
@@ -15,10 +15,8 @@ published: false
 
 :::EN:::
 
-The bird is the word
+English content goes here.
 
 :::DE:::
 
 German content goes here.
-
-Testing here
