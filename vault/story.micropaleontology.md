@@ -2,7 +2,7 @@
 id: df37d6fb-33ac-4b34-bc21-3401db3aac52
 title: Micropaleontological Formations
 desc: Micropaleontology is the scientific study of microfossils, fossils that are microscopic in size and are not visible to the naked eye.
-updated: 1619517744792
+updated: 1619530780123
 created: 1618502886244
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -36,8 +36,8 @@ The break that would mark the success of micropaleontology was to come from an u
 
 That is, until a consortium of US oil companies, which had moved to the Gulf coast after the privatization of Californian oil lands, hired three young women just out of college to work on their collection of fossils to solve stratigraphic troubles: [[material.esther applin]], [[material.alva ellisor]], and [[material.hedwig kniker]]. These young scientists were the first to identify, in 1921, the importance of fossil [[material.foraminifera]] in correlating and interpreting stratigraphies [^micropaleontology5]. Within three years from this breakthrough, 300 micropaleontologists were employed in the industry, and by 1931 more than three quarters of all US oil wells used micropaleontology. This discovery single-handedly revolutionized the oil industry and geology, bringing what came to be known as industrial micropaleontology to the fore. Capitalizing on this insight, one of the foremost expert on foraminifera at the time, [[material.joseph cushman]], used the profit of his work as a consultant for oil companies to open the cushman laboratory, still today one of the most important sites for the study of foraminiferal micropaleontology. Others followed in his footsteps, as new generations of micropaleontologists needed to be trained for the needs of the extractive industries.
 
-The example of US industrial micropaleontology was quickly followed all over the world. For instance, in the soviet union, where the exploitation of the Baku oil fields had already stimulated similar work, a micropaleontology institute was established in 1930 as part of the Petroleum Geological Prospecting
-Institute (VNIGRI) in Leningrad. Under the leadership of [[material.alexander vasilievich fursenko]] and later of [[material.nina nicolaevna subbotina]], the institute extended its activities also to Moscow, guided by [[material.dagmara maksimilianovna rauser-chernousova]].
+The example of US industrial micropaleontology was quickly followed all over the world. For instance, in the Soviet Union, where the exploitation of the Baku oil fields had already stimulated similar work, a micropaleontology institute was established in 1930 as part of the Petroleum Geological Prospecting
+Institute (VNIGRI) in Leningrad. Under the leadership of [[material.alexander vasilievich fursenko]] and later of [[material.nina nicolaevna subbotina]], the institute also developed research on industrial micropaleontology. It also extended its activities to Moscow, where [[material.dagmara maksimilianovna rauser-chernousova]] lead the discovery of more important oilfields in Baku during the second World War [^micropaleontology6].
 
 ##Micropaleontology at sea
 [[material.william rex riedel]], [[material.deep sea drilling]], [[story.oceanography]], [[material.radiolaria]]
@@ -47,9 +47,11 @@ Institute (VNIGRI) in Leningrad. Under the leadership of [[material.alexander va
 
 [^micropaleontology1]: This is clear in the title of an important article in this field from the 1980s: Lipps, Jere H. "What, If Anything, Is Micropaleontology?" _Paleobiology_ 7, no. 2 (1981): 167-99. Accessed April 20, 2021. http://www.jstor.org/stable/2400472. And in a more recent reprise: Martin, Ronald E. "What, if anything, is environmental micropaleontology?." _Microbiology_ 1 (2004): 1-10.
 [^micropaleontology2]: The impact of these early descriptions is quantified in Lazarus, David. "The legacy of early radiolarian taxonomists, with a focus on the species published by early German workers." _Journal of Micropalaeontology_ 33, no. 1 (2014): 3-19.
-[^micropaleontology3]: This argument is clearly laid out in Orbigny, Alcide Dessalines d'. 1846. Foraminifères fossiles du bassin tertiaire de Vienne (Autriche). Paris: Gide et Compe. https://doi.org/10.5962/bhl.title.145432
+[^micropaleontology3]: This argument is clearly laid out in Orbigny, Alcide Dessalines d'. _Foraminifères fossiles du bassin tertiaire de Vienne (Autriche)_. Paris: Gide et Compe. (1846). https://doi.org/10.5962/bhl.title.145432
 [^micropaleontology4]: See, for instance, Churchill, Frederick B. "The guts of the matter. Infusoria from Ehrenberg to Bütschli: 1838–1876." _Journal of the History of Biology_ 22, no. 2 (1989): 189-213. https://doi.org/10.1007/BF00139512
 [^micropaleontology5]: This history is told in detail in Gries, Robbie Rice. "How female geologists were written out of history: the micropaleontology breakthrough." _Geological Society of America Memoirs_ 214 (2018): 11-22. https://doi.org/10.1130/2018.1214(02)
+[^micropaleontology6]: For the history of Soviet micropaleonotlogy: Mikhalevich, Valeria & Bugrova, Eleonora & Basov, Valeriy & Zakrevskaya, Elena & Dmitrieva, Tatiana & Barash, Max.  "The Russian School of Foraminiferology." _The Journal of Foraminiferal Research_ 50 (2020): 97-107. https://doi.org/10.2113/gsjfr.50.1.97. And: Yakovleva‐O'Neill, Svetlana P., and Genrieta E. Kolzova. "A history of the first micropalaeontological laboratory in the former Soviet Union." Landmarks in _Foraminiferal Micropalaeontology: History and Development_, The Micropalaeontological Society, Special Publications (2013): 59-66. https://doi.org/10.1144/TMS6.6
+
 
 
 :::DE:::
