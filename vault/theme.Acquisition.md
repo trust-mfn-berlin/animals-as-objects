@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: Acquisition
 desc: Put a description of this note here...
-updated: 1619036735311
+updated: 1619620746290
 created: 1618498026144
 title_de: Tiere sammeln
 desc_de: Tiere und Tierobjekte kommen aus vielen unterschiedlichen Quellen.
@@ -88,3 +88,6 @@ in den Sitzungen des VDZ der 1960er ist der Schutz der Orangs immer wieder Thema
 ## Tiertausch zwischen Zoos
 
 Eng mit der Zucht verbunden, nicht aber stets und immer der Grund dafür, ist der Tiertausch zwischen den Zoos. 
+
+## Footnotes
+
