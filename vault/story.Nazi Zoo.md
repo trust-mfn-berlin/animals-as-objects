@@ -2,7 +2,7 @@
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 title: Nazi Zoo
 desc: ''
-updated: 1619028948403
+updated: 1619622708404
 created: 1619020958263
 title_de: Der Zoo im Nationalsozialismus
 desc_de: >-
@@ -50,7 +50,7 @@ Im August 1935 wurde ihm auf Initiative des Preußischen Ministerpräsidenten He
 
 ## Jüdische Aktionär\*innen und Besucher\*innen
 
-Die zunehmende Entrechtung zwang Jüdinnen und Juden von 1933 an ihre persönliche Habe zu verkaufen, um zu überleben oder zu emigrieren. Dazu gehörten auch Zooaktien. Gewinnausschüttungen waren mit der Zooaktie nie verbunden gewesen. Der freie Eintritt für die Familienangehörigen war die »Dividende«.(Monika Schmidt hat unter anderem in Die jüdischen Aktionäre des Zoologischen Gartens zu Berlin. Namen und Schicksale, Berlin 2014 die Lebenswege der Aufsichtsratsmitglieder und einiger jüdischer Aktionäre nachgezeichnet.) Freilich aber schwankte der Preis einer Zooaktie über die Jahre. Manche hatten bei frühen Verkäufen noch Interessenten zu einem realen Preis gefunden. Laut Statuten des Aktienvereins existierte weder eine rechtliche Kontrolle darüber, wer die Aktien kaufte, noch musste der Zoo einem Verkauf zustimmen. Im Frühjahr 1938 plante der Aufsichtsrat, daher dem Zoo durch eine Statutenänderung ein Zustimmungsrecht für Verkäufe zu übertragen. Die Maßnahme zielte eindeutig auf jüdische Aktienkäufer ab. Aus rechtlichen Gründen sah der Aufsichtsrat aber letzten Endes davon ab, beschloss im Juli 1938 aber, die gesetzlich erlaubten zehn Prozent der eigenen Aktien von jüdischen Aktionären zu erwerben. Nach dem Novemberpogrom 1938 versuchten die letzten verbliebenen jüdischen Aktionäre, ihre Wertpapiere zu verkaufen. Etwa 100 Aktien von jüdischen Besitzer\*innen hat der Zoo erworben und an »arische Besitzer weitergegeben«.(Aufsichtsratsprotokolle, 19.07.1938 u. 16.12.1938, AZGB O 0/2/2.) Die wenigen dokumentierten Zwischenverkäufe aus jenen Monaten zeigen, dass der Zoo versucht hat, an diesen Transaktionen zu verdienen, indem er zu einem Niedrigpreis kaufte, die Aktie aber zu einem höheren Preis verkaufte.(Zessionspapiere im Archiv der Zoologischen Gärten Berlin)  
+Die zunehmende Entrechtung zwang Jüdinnen und Juden von 1933 an ihre persönliche Habe zu verkaufen, um zu überleben oder zu emigrieren. Dazu gehörten auch Zooaktien.[^sharetest] Gewinnausschüttungen waren mit der Zooaktie nie verbunden gewesen. Der freie Eintritt für die Familienangehörigen war die »Dividende«.(Monika Schmidt hat unter anderem in Die jüdischen Aktionäre des Zoologischen Gartens zu Berlin. Namen und Schicksale, Berlin 2014 die Lebenswege der Aufsichtsratsmitglieder und einiger jüdischer Aktionäre nachgezeichnet.) Freilich aber schwankte der Preis einer Zooaktie über die Jahre. Manche hatten bei frühen Verkäufen noch Interessenten zu einem realen Preis gefunden. Laut Statuten des Aktienvereins existierte weder eine rechtliche Kontrolle darüber, wer die Aktien kaufte, noch musste der Zoo einem Verkauf zustimmen. Im Frühjahr 1938 plante der Aufsichtsrat, daher dem Zoo durch eine Statutenänderung ein Zustimmungsrecht für Verkäufe zu übertragen. Die Maßnahme zielte eindeutig auf jüdische Aktienkäufer ab. Aus rechtlichen Gründen sah der Aufsichtsrat aber letzten Endes davon ab, beschloss im Juli 1938 aber, die gesetzlich erlaubten zehn Prozent der eigenen Aktien von jüdischen Aktionären zu erwerben. Nach dem Novemberpogrom 1938 versuchten die letzten verbliebenen jüdischen Aktionäre, ihre Wertpapiere zu verkaufen. Etwa 100 Aktien von jüdischen Besitzer\*innen hat der Zoo erworben und an »arische Besitzer weitergegeben«.[^share1] Die wenigen dokumentierten Zwischenverkäufe aus jenen Monaten zeigen, dass der Zoo versucht hat, an diesen Transaktionen zu verdienen, indem er zu einem Niedrigpreis kaufte, die Aktie aber zu einem höheren Preis verkaufte.(Zessionspapiere im Archiv der Zoologischen Gärten Berlin)  
 Am 8. November 1938 beschloss der Aufsichtsrat, an der Weihnachtskrippe Hinweise anzubringen, dass Juden dort unerwünscht seien. Ab 1. Januar 1939 sollten solche Schilder auch an den Eingängen hängen.(Aufsichtsratsprotokoll, 08.11.1938, AZGB O 0/2/2.) In der folgenden Nacht ermordeten Nationalsozialisten in ganz Deutschland in einem organisierten Pogrom Hunderte jüdische Deutsche und zerstörten Existenzen und Synagogen. Der Berliner Polizeipräsident verbot Juden den Besuch von Vergnügungsstätten. Die von der Zooleitung geplanten Maßnahmen nahmen die offizielle Politik vorweg.
 
 ## Der Zoo im Krieg
@@ -64,7 +64,7 @@ Andere Zoos wurden selbstverständlich nicht geschützt. Laut den Erinnerungen d
 
 ## Zwangsarbeit
 
-Um den durch die Einberufungen von Mitarbeitern bedingten Personalmangel abzufedern beutete der Zoo Zwangsarbeiter aus. Zunächst waren das polnische, dann französische Kriegsgefangene. Hinzu kamen spätestens im Spätsommer 1941 sogenannte Ostarbeiter aus der Sowjetunion. Im letzten Kriegsjahr kamen dann dauerhaft 40 sogenannte Italienische Militärinternierte hinzu. Auch für andere deutsche Zoos ist der Einsatz von Zwangsarbeitern belegt. Der Zoo der Reichshauptstadt genoss einen so hohen Stellenwert, dass ihm wohl eine große Anzahl zugewiesen wurde.[^labour1]
+Um den durch die Einberufungen von Mitarbeitern bedingten Personalmangel abzufedern beutete der Zoo Zwangsarbeiter aus. Zunächst waren das polnische, dann französische Kriegsgefangene.[^labour2] Hinzu kamen spätestens im Spätsommer 1941 sogenannte Ostarbeiter aus der Sowjetunion. Im letzten Kriegsjahr kamen dann dauerhaft 40 sogenannte Italienische Militärinternierte hinzu. Auch für andere deutsche Zoos ist der Einsatz von Zwangsarbeitern belegt. Der Zoo der Reichshauptstadt genoss einen so hohen Stellenwert, dass ihm wohl eine große Anzahl zugewiesen wurde.[^labour1]
 
 ## Futtermittel
 
@@ -73,6 +73,8 @@ Um den durch die Einberufungen von Mitarbeitern bedingten Personalmangel abzufed
 In der Nacht auf den 23. November 1943 wurde der Zoo durch einen alliierten Bombenangriff in ein Flammenmeer verwandelt und 30 Prozent des noch vorhandenen Bestands an Tieren getötet.[^destruction1] In der folgenden nacht wurde dann das Aquarium zerstört. Eine Bombe schlug mitten in die zentrale Krokodilhalle ein. Berstende Aquarienscheiben entließen große Massen an Wasser und schwemmten die Tiere bis auf die Straße und durch den hinteren Ausgang in den Zoo. Die wechselwarmen Reptilien und Schlangen stellten aber keine Gefahr dar, die Tiere erstarrten in der kalten Novembernacht sofort. Einige Kaimane [prüfen] konnten noch lebend im Erdgeschoss geborgen werden. Oskar Heinroth und die verbleibenden Mitarbeiter versuchten sie im Heizungskeller durchzubringen, scheiterten aber. Auch im Zoo selbst waren Tiere durch die Bombenschäden ihren Gehegen entwichen. Nun wirkten die vorbereiteten Schutzmaßnahmen. Fangtrupps fingen die Tiere schnell wieder ein oder töteten sie. Erzählungen von auf den Straßen rund um den Zoo und dem Kurfürstendamm herumstromernden wilden Tieren sind in das Reich der Mythen zu verweisen.
 
 Die herausragende Bedeutung des Zoos für die NS-Propaganda und die persönlichen Verbindungen Hecks sorgten zur Zuweisung von 750 Zwangsarbeitern für schnelle Räumungsarbeiten.[^destruction2] Am 25. Juli 1944 öffnete der Zoo wieder.(L. Heck: Aktennotiz betr. Eröffnung am 25.7.1944, AZGB O 0/1/50; Erinnerungen von Elisabeth Johst, AZGB S 15/27.) Am 22. April 1945 war aber Schluss. Die verbleibenden Zoomänner wurden zum Volkssturm eingezogen und mussten durch ihren Zoo Schützengräben ziehen. Die Geschäftsleitung des Gartens floh kurz vor Einbruch der russischen Truppen am 30. April. (Erinnerungen von Elisabeth Johst, AZGB S 15/27; K. Heinroth an W. Keller, 18.09.1945, AZGB O 0/1/87; K. Heinroth an G. Freytag, 03.01.1946, AZGB O 0/1/86.) Am 2. Mai war die Schlacht um die Stadtmitte und den Zoo zu Ende. Überall lagen Leichen und Tierkadaver, etwa 90 Tiere hatten überlebt.(K. Heinroth: »Kriegszerstörungen und Aufbau von 1945 bis 1956 im Berliner Zoologischen Garten«, maschinenschriftliches Manuskript, AZGB N 4/2.)
+
+## Footnotes
 
 [^family1]: Beispielsweise: Heck, Ludwig. 1938. Heiter-ernste Lebensbeichte. Erinnerungen eines alten Tiergärtners. Berlin: Deutscher Verlag,373, aber auch Heck, Lutz. 1935. Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn. Berlin: Paul Parey.
 
@@ -102,7 +104,7 @@ Die herausragende Bedeutung des Zoos für die NS-Propaganda und die persönliche
 
 [^propa4]: Vgl. u. a. Lutz Heck, Über die Neuzüchtung des Ur oder Auerochs; in: Berichte der Internationalen Gesellschaft zur Erhaltung des Wisents 3/1936, 4: 224–294, 235.
 
-[^propa5]: Heck, Lutz. 1941. Auf Tiersuche in weiter Welt. Berlin: Paul Parey: 195
+[^propa5]: Heck, Lutz. 1941. Auf Tiersuche in weiter Welt. Berlin: Paul Parey: 195.
 
 [^propa6]: Heck. 1941, S. 195, sowie Heck, Lutz. 1932. „Letzte Urwaldtiere aus deutscher Vorzeit“. Atlantis. Länder, Völker, Reisen 4 (10): 577–83; Heck, Lutz. 1939. „Die Neuzüchtung des Auerochsen“. Wild und Hund, Nr. 37 (Dezember): 535–37. Auch auf der internationalen Jagdausstellung 1938 schmückte ein Fries mit einer Strophe des Epos den Stand zum Ur.
 
@@ -116,3 +118,8 @@ Die herausragende Bedeutung des Zoos für die NS-Propaganda und die persönliche
 
 ats«, Januar 1944, AZGB O 0/1/54.
 
+[^labour2]: Testfussnote Labour2
+
+[^share1]: Aufsichtsratsprotokolle, 19.07.1938 u. 16.12.1938, AZGB O 0/2/2.
+
+[^sharetest]: Sharetest
