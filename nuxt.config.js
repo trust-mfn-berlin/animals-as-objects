@@ -1,3 +1,10 @@
+const { $content } = require('@nuxt/content');
+const backlinks = require(__dirname + '/temp/backlinks.json');
+const { wikiLinkRegex, wikiLinkReplacer } = require(__dirname + '/scripts/wiki-link-parser.js');
+const {frontMatterRegex, languageSplitterRegex} = require(__dirname + '/scripts/splitter-regex.js');
+
+var languageSplitterBuffer = '';
+
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -35,7 +42,96 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    '@nuxt/content'
   ],
+
+  content: {
+    liveEdit: false,
+    dir: 'vault',
+    markdown:{
+      remarkPlugins: [
+        ['~plugins/remark-wiki-link.js', {
+        wikiLinkClassName:'dendron-link',
+        hrefTemplate: (permalink) => `/${permalink}`,
+        pageResolver: (name) => {
+          return [name]
+        }
+        }]
+      ],
+    }
+  },
+
+  hooks: {
+    'content:file:beforeParse': (file) => {
+      if (file.extension === '.md') {
+        // Before parsing markdown, modify raw file data here:
+
+        // First, extract frontmatter. We will join this back on later.
+        const frontMatter = file.data.match(frontMatterRegex)[0];
+        // console.log(frontMatter);
+
+        // Second, add vue component markup for wiki links
+        console.log('adding wikilink components...');
+        file.data = file.data.replace(wikiLinkRegex, wikiLinkReplacer);
+
+        
+        // Third, use Regex to split file into multiple languages separated by triple colons :::EN::: ... :::DE::: 
+        console.log('splitting languages...')
+        const langSplit = file.data.match(languageSplitterRegex)
+
+        // Only if the file has these separators, join default language version (English) back together with frontmatter.
+        if(langSplit){
+          file.data = frontMatter + langSplit[2];
+          // Send second language data out of this hook, to be recombined and parsed in next hook. Where does this buffer live in memory? IDK, as long as it doesn't happen on client side.
+          languageSplitterBuffer = frontMatter + langSplit[4];
+        }
+      }
+
+    },
+    'content:file:beforeInsert': async (document, database) => {
+      if(languageSplitterBuffer){
+        console.log('combining languages...')
+        document.body_de = await database.markdown.toJSON(languageSplitterBuffer);
+      }
+
+      // console.log(document)
+
+      for (let i = 0; i < backlinks.length; i++) {
+        const page = backlinks[i];
+
+        if(document.slug == page.slug){
+          console.log('match');
+          document.backlinks = page.backlinks;
+          document.forwardlinks = page.forwardlinks;
+          
+        }
+        
+      }
+    },
+    'content:options': (options) => {
+      // console.log('Content options:', options)
+    }
+  },
+
+  generate: {
+    crawler: false,
+    async routes () {
+      const files = await $content().fetch()
+      const routes = files.map(file => {
+        return {
+          route: file.slug === '/index' ? '/' : file.slug,
+          payload: file
+        }
+      })
+      return routes
+    }
+  },
+
+  vue: {
+    config: {
+      devtools: true
+    }
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {

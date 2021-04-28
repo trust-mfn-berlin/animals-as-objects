@@ -3,14 +3,21 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
+    "dev": "node scripts/copy-images.js && node scripts/link-map.js && nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "node scripts/copy-images.js && node scripts/link-map.js && nuxt generate",
+    "test": "node link-map.js",
+    "local": "node scripts/copy-images.js && node scripts/link-map.js && nuxt generate && npm run start"
   },
   "dependencies": {
+    "@nuxt/content": "^1.14.0",
     "core-js": "^3.9.1",
+    "mdast-util-wiki-link": "0.0.1",
+    "micromark-extension-wiki-link": "0.0.4",
     "nuxt": "^2.15.3"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "fs-extra": "^9.1.0"
+  }
 }
