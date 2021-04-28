@@ -1,14 +1,14 @@
 ---
-id: a2c33165-7498-4a3e-8cb2-7aa775069340
-title: Material
-desc: 'Put a description of this note here...'
-updated: 1619531677799
-created: 1617975584997
+id: be991c43-0667-4c9d-9703-44bb1f244234
+title: Big Data
+desc: Put a description of this note here...
+updated: 1619603270163
+created: 1619603270163
 title_de: Add a german title here
-desc_de: 'Put a DE description of this note here...'
+desc_de: Put a DE description of this note here...
 author: Author name(s) here.
 tao_type: material
-cover_image:
+cover_image: null
 license: CC BY-SA
 published: false
 ---
