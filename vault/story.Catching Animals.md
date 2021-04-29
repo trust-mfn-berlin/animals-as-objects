@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching Animals
 desc: Put a description of this note here...
-updated: 1619426506374
+updated: 1619704743076
 created: 1618492547915
 title_de: Tierfang
 desc_de: Dieser Text bespricht Fangexpeditionen für Zoos
@@ -18,6 +18,7 @@ published: false
 English content goes here.
 
 :::DE:::
+
 
 # Tiere fangen für den ZooFangexpeditionen im Zeitalter des Imperialismus
 
