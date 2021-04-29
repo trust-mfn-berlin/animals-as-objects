@@ -2,7 +2,7 @@
 id: 6bb6d7d7-d7e7-48a6-8649-340aac4d9b24
 title: Theme
 desc: 'Put a description of this note here...'
-updated: 1619684732008
+updated: 1619704685427
 created: 1617975596857
 title_de: Add a german title here
 desc_de: 'Put a DE description of this note here...'
@@ -22,6 +22,8 @@ And:
 
 ##Subheadings
 Where more can be said.
+
+![image description](/images/example/MfN-HBSB-Nr97.png)
 
 <!-- And this allows us to leave notes to the others that are not visible in the preview. -->
 
