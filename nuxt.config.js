@@ -123,7 +123,15 @@ export default {
           payload: file
         }
       })
-      return routes
+      const routes_de = files.map(file => {
+        return {
+          route: file.slug === '/index' ? '/de/' : '/de/' + file.slug,
+          payload: file
+        }
+      })
+      let routesBilingual = [...routes, ...routes_de];
+      // console.log(routesBilingual);
+      return routesBilingual
     }
   },
 
