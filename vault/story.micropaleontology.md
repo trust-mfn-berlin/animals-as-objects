@@ -2,7 +2,7 @@
 id: df37d6fb-33ac-4b34-bc21-3401db3aac52
 title: Micropaleontological Formations
 desc: Micropaleontology is the scientific study of microfossils, fossils that are microscopic in size and are not visible to the naked eye.
-updated: 1619688238097
+updated: 1619690276567
 created: 1618502886244
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -44,10 +44,10 @@ As the global conflicts of the first half of the 20th century only increased soc
 
 After the earlier, less successful, experience of micropaleontology at sea, which by the end of the 19th century had lead scientists to misinterpret the role of microfossils, micropaleontologists were to become more deeply entangled with [[story.oceanography]]. Riedel's work exemplifies well this connection. Spending time in Sweden in 1950, Riedel worked with [[material.borje kullenberg]], who invented the [[material.piston corer]] - a tool to collect deeper cores from the sea floor, and which profoundly impacted [[story.oceanography]]. This and other technological innovations that had been developed in wartime, like the [[material.radar]], the [[material.sonar]], and other novel sounding and sampling techniques, made possible impressive strides in the study, understanding, and exploration of the global ocean. As Riedel moved to the Scripps Institution of Oceanography in California after his return from Sweden, in 1951, he brought with him his interest in [[material.radiolaria]] and micropaleontology more broadly, and helped bringing this field to the forefront of postwar oceanography.
 
-[[material.deep sea drilling]]
+[[material.deep sea drilling]], [[material.cesare emiliani]], [[material.geochemistry]], [[material.isotopes]], [[material.paleothermometer]]
 
 ##Of microbes and planets
-[[theme.planetary data]], [[story.oceanography]], [[material.NSB]], [[material.cycladophora davisiana]], [[material.big science]], [[material.big data]]
+[[theme.planetary data]], [[story.oceanography]], [[material.NSB]], [[material.cycladophora davisiana]], [[material.big science]], [[material.big data]], [[material.gaia theory]]
 
 [^micropaleontology1]: This is clear in the title of an important article in this field from the 1980s: Lipps, Jere H. "What, If Anything, Is Micropaleontology?" _Paleobiology_ 7, no. 2 (1981): 167-99. Accessed April 20, 2021. http://www.jstor.org/stable/2400472. And in a more recent reprise: Martin, Ronald E. "What, if anything, is environmental micropaleontology?." _Microbiology_ 1 (2004): 1-10.
 [^micropaleontology2]: The impact of these early descriptions is quantified in Lazarus, David. "The legacy of early radiolarian taxonomists, with a focus on the species published by early German workers." _Journal of Micropalaeontology_ 33, no. 1 (2014): 3-19.
