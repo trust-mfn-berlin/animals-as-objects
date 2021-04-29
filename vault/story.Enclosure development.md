@@ -2,7 +2,7 @@
 id: 6200cce2-fac1-4eb8-84cf-73c96953e692
 title: Enclosure development
 desc: The development of enclosures and the conditions of husbandry.
-updated: 1619013489854
+updated: 1619711932335
 created: 1619007624176
 title_de: Gehegeentwicklung
 desc_de: Die Entwicklung der Gehegeformen und Haltungsbedingungen.
@@ -19,3 +19,8 @@ English content goes here.
 
 :::DE:::
 
+![description](images\cmw\PK-1900-elephants.jpg)
+
+![description](images\cmw\Gemsenfelsen.jpg)
+
+![description](images\cmw\openenclosure-elephants-1920.jpg)
