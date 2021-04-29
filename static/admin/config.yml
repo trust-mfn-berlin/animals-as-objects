@@ -1,0 +1,36 @@
+backend:
+  name: github
+  base_url: http://daymoon.xyz:3000
+  site_domain: daymoon.xyz
+  repo: trust-mfn-berlin/animals-as-objects
+  branch: master
+
+media_folder: vault/images
+public_folder: /images
+
+collections:
+  - name: "dendron"
+    label: "Dendron"
+    folder: "vault"
+    format: "frontmatter"
+    create: false
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Title DE", name: "title_de", widget: "string" }
+      - { label: "Created", name: "created", widget: "number" }
+      - { label: "Updated", name: "updated", widget: "number" }
+      - { label: "ID", name: "id", widget: "string" }
+      - { label: "Description", name: "desc", widget: "string" }
+      - { label: "Description DE", name: "desc_de", widget: "string" }
+      - {
+          label: "Cover image",
+          name: "cover_image",
+          widget: "image",
+          allow_multiple: false,
+          required: false,
+        }
+      - { label: "Published", name: "published", widget: "boolean" }
+      - { label: "Body", name: "body", widget: "markdown" }
