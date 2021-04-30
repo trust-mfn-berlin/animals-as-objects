@@ -1,7 +1,7 @@
 backend:
   name: github
-  base_url: http://daymoon.xyz:3000
-  site_domain: daymoon.xyz
+  base_url: http://116.203.68.230:3000
+  site_domain: animalsasobjects.org
   repo: trust-mfn-berlin/animals-as-objects
   branch: master
 
