@@ -2,7 +2,7 @@
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 title: Exhibiting
 desc: Put a description of this note here...
-updated: 1619792187326
+updated: 1619792556542
 created: 1618572893774
 title_de: Tiere ausstellen
 desc_de: Wie und warum werden Tiere in Zoos und Museen ausgestellt?
@@ -71,7 +71,8 @@ Hier gab es Überschneidungen mit den traditionellen Zoos. Besucher\*innen des B
 
 ## Von der Dresssur zum Enrichment Training
 
-![desc](images\cmw\Elefanten Dressur 8.JPG)
+![desc](images\cmw\Elefant_Dressur.jpg)
+Etwa 1930 (AZGB)
 
 
 ![desc](images\cmw\Dressur_kaden_1940_Heck.jpg)
@@ -79,6 +80,8 @@ Hier gab es Überschneidungen mit den traditionellen Zoos. Besucher\*innen des B
 
 ![Fünf Kinder reiten auf dem Rücken einer jungen asiatischen Elefantenkuh](images\cmw\Shanti_Kinder_1953_S_3_91.jpg)
 (AZGB, Schenkung durch Hannelore Heinzel)
+
+![Drei asiatische Elefantenkühe bei der Dressur](images\cmw\Elefantendressur.jpg)
 
 ## Museen als Zentren der Diversitätsbildung
 
