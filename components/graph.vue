@@ -11,6 +11,9 @@
 
 <script>
 import * as d3 from 'd3'
+
+import graphdata from '~/temp/graphdata.json';
+
 export default {  
   data () {
     return {
@@ -57,26 +60,26 @@ export default {
         .attr("width", this.attr.width)
         .attr("height", this.attr.height);
 
-      const simulation = d3.forceSimulation(this.nodes)
-        .force("link", d3.forceLink(this.links).id(d => d.id))
+      const simulation = d3.forceSimulation(graphdata.nodes)
+        .force("link", d3.forceLink(graphdata.links).id(d => d.slug))
         .force("charge", d3.forceManyBody())
         .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2));
 
       let colorScale = d3.scaleOrdinal()
-        .domain(d3.range(this.nodes.length))
+        .domain(d3.range(graphdata.nodes.length))
         .range(d3.schemeCategory10)
 
       const link = svg.append("g")
         .attr("stroke", "#999")
         .attr("stroke-opacity", 0.6)
         .selectAll("line")
-        .data(this.links)
+        .data(graphdata.links)
         .join("line")
         .attr("stroke-width", d => Math.sqrt(d.value));
 
       const node = svg.append("g")
         .selectAll("circle")
-        .data(this.nodes)
+        .data(graphdata.nodes)
         .enter()
         .append('g')
         .attr('transform', function (d) {
@@ -97,7 +100,7 @@ export default {
         node.append("text")
           .attr("dx", 12)
           .attr("dy", ".35em")
-          .text(function(d) { return d.id });
+          .text(function(d) { return d.frontmatter.title });
 
 
       simulation.on("tick", () => {

@@ -13,12 +13,13 @@
   "dependencies": {
     "@nuxt/content": "^1.14.0",
     "core-js": "^3.9.1",
+    "d3": "^6.7.0",
     "mdast-util-wiki-link": "0.0.1",
     "micromark-extension-wiki-link": "0.0.4",
     "nuxt": "^2.15.3"
   },
   "devDependencies": {
-    "d3": "^6.7.0",
-    "fs-extra": "^9.1.0"
+    "fs-extra": "^9.1.0",
+    "markdown-yaml-metadata-parser": "^3.0.0"
   }
 }

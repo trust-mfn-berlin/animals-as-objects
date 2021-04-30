@@ -3,6 +3,7 @@
 
 const path = require('path');
 const fs = require('fs-extra');
+const metadataParser = require('markdown-yaml-metadata-parser');
 const contentDir = path.join(__dirname, '..', 'vault');
 
 console.log(contentDir);
@@ -10,6 +11,9 @@ console.log(contentDir);
 const findBetweenDoubleBrackets = /\[\[(.*?)\]\]/g;
 var dendronlinks = [];
 var compiledBacklinks = [];
+
+var graphLinks = [];
+var graphNodes= [];
 
 async function getFileNames(filePath, encoding = "utf-8") {
   let mdFiles = [];
@@ -42,23 +46,31 @@ async function getContent(filePath, encoding = "utf-8") {
 
   for (let i = 0; i < directoryFiles.length; i++) {
     const file = directoryFiles[i];
-    // console.log(file);
     const fileData = await getContent(path.join(__dirname, '..', 'vault', file))
 
+    const frontmatter = metadataParser(fileData).metadata;
+
     var forwardlinks = fileData.match(findBetweenDoubleBrackets); 
-    // console.log(forwardlinks);
     var slug = file.replace('.md','');
+
+    graphNodes.push({slug, frontmatter})
+
     if(forwardlinks){
       for (let l = 0; l < forwardlinks.length; l++) {
-        forwardlinks[l] = forwardlinks[l].slice(2, -2)
+        forwardlinks[l] = forwardlinks[l].slice(2, -2);
+        // this creates links to articles that haven't been made yet.
+        // console.log('SOURCE', slug, 'TARGET', forwardlinks[l]);
+        // graphLinks.push({source: slug, target: forwardlinks[l] });
       }
     }
+    
     var backlinks = [];
-    dendronlinks.push({slug, forwardlinks, backlinks, i});
+    dendronlinks.push({slug, forwardlinks, backlinks, i, frontmatter});
   }
 
+  // console.log(graphNodes);
+
   compiledBacklinks = dendronlinks;
-  // console.log(dendronlinks);
   console.log('Generating backlinks...');
   // Iterate through every page
   for (let x = 0; x < dendronlinks.length; x++) {
@@ -84,6 +96,9 @@ async function getContent(filePath, encoding = "utf-8") {
               console.log('MATCH', 'from index', x, 'to index', u);
               console.log('FROM', from, '-> TO', forwardlink);
               compiledBacklinks[u].backlinks.push(from);
+              
+              // this only links between articles that have been made, by using backlinks instead of forward links.
+              graphLinks.push({source: from, target: forwardlink });
             }
           
           }
@@ -99,12 +114,19 @@ async function getContent(filePath, encoding = "utf-8") {
     
   }
 
-  // console.log(compiledBacklinks);
   console.log('writing backlinks file..');
 
   const writeData = JSON.stringify(compiledBacklinks)
-
   fs.writeFile(path.join(__dirname, '..','temp', 'backlinks.json'), writeData);
+
+  console.log('writing node graph file..');
+  const concatGraphData = {
+    nodes: graphNodes,
+    links: graphLinks
+  }
+  console.log(concatGraphData);
+  const graphData = JSON.stringify(concatGraphData)
+  fs.writeFile(path.join(__dirname, '..','temp', 'graphdata.json'), graphData);
 
   console.log('complete');
 
