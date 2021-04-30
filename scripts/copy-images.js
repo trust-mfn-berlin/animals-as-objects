@@ -10,6 +10,8 @@ const destDir = path.join(__dirname, '..', 'static', 'images');
 // https://github.com/imagemin/imagemin-mozjpeg
 // https://github.com/imagemin/imagemin-optipng
 
+// https://www.npmjs.com/package/imagemin
+
 fs.copySync(srcDir, destDir, {overwrite: true}, function (err) {
   if (err) {                 
     console.error(err);
