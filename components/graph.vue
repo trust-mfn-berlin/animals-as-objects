@@ -3,7 +3,6 @@
 <template>
   <div>
     <div id="d3"></div>
-    <!-- <svg id="d3"></svg> -->
   </div>
 </template>
 <script>
@@ -21,13 +20,6 @@ export default {
           bottom: 0,
         }
       },
-      gdp: [
-        {country: "USA", value: 20.5 },
-        {country: "China", value: 13.4 },
-        {country: "Germany", value: 4.0 },
-        {country: "Japan", value: 4.9 },
-        {country: "France", value: 2.8 }
-      ],
       nodes : [
         { id: 'Lorem' },
         { id: 'Ipsum' },
@@ -40,83 +32,106 @@ export default {
         { id: '123' }
       ],
       links : [
-        { source: 'Lorem', target: 'Sit', relation: '', value: 1.3 },
-        { source: 'Sit', target: 'Amet', relation: '', value: 1 },
-        { source: 'Sit', target: 'Buzz', relation: '', value: 1 },
-        { source: 'Sit', target: '123', relation: '', value: 1 },
-        { source: 'Ipsum', target: 'Buzz', relation: '', value: 2 },
-        { source: 'Wup', target: 'Amet', relation: '', value: 0.9 },
-        { source: 'Testtesttest', target: 'Sit', relation: '', value: 1 },
-        { source: 'Amet', target: 'Testtesttest', relation: '', value: 1.6 },
-        { source: 'Buzz', target: '123', relation: '', value: 0.7 },
-        { source: 'Buzz', target: 'Wup', relation: '', value: 2 }
+        { source: 'Lorem', target: 'Sit', relation: 'a', value: 1.3 },
+        { source: 'Sit', target: 'Amet', relation: 'b', value: 1 },
+        { source: 'Sit', target: 'Buzz', relation: 'c', value: 1 },
+        { source: 'Sit', target: '123', relation: 'd', value: 1 },
+        { source: 'Ipsum', target: 'Buzz', relation: 'e', value: 2 },
+        { source: 'Wup', target: 'Amet', relation: 'f', value: 0.9 },
+        { source: 'Testtesttest', target: 'Sit', relation: 'g', value: 1 },
+        { source: 'Amet', target: 'Testtesttest', relation: 'h', value: 1.6 },
+        { source: 'Dolor', target: '123', relation: 'i', value: 0.7 },
+        { source: 'Buzz', target: 'Wup', relation: 'j', value: 2 }
       ]
     }
   },
   methods:{
     init(){
       const svg = d3
-       .select("#d3")
-       .append("svg")
-         .attr("width", this.attr.width)
-         .attr("height", this.attr.height);
-      
-      const sortedGDP = this.gdp.sort((a, b) => (a.value > b.value ? 1 : -1));
-      const color = d3.scaleOrdinal(d3.schemeDark2);
+        .select("#d3")
+        .append("svg")
+        .attr("width", this.attr.width)
+        .attr("height", this.attr.height);
 
-      const max_gdp = d3.max(sortedGDP, o => o.value);
-      
-      const angleScale = d3
-        .scaleLinear()
-        .domain([0, max_gdp])
-        .range([0, 1.5 * Math.PI]);
+      const simulation = d3.forceSimulation(this.nodes)
+        .force("link", d3.forceLink(this.links).id(d => d.id))
+        .force("charge", d3.forceManyBody())
+        .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2));
 
-      const arc = d3
-        .arc()
-        .innerRadius((d, i) => (i + 1) *25)
-        .outerRadius((d, i) => (i + 2) *25)
-        .startAngle(angleScale(0))
-        .endAngle(d => angleScale(d.value));
+      let colorScale = d3.scaleOrdinal()
+        .domain(d3.range(this.nodes.length))
+        .range(d3.schemeCategory10)
 
-      const g = svg.append("g");
+      const link = svg.append("g")
+        .attr("stroke", "#999")
+        .attr("stroke-opacity", 0.6)
+        .selectAll("line")
+        .data(this.links)
+        .join("line")
+        .attr("stroke-width", d => Math.sqrt(d.value));
 
-      g.selectAll("path")
-        .data(sortedGDP)
+      const node = svg.append("g")
+        .selectAll("circle")
+        .data(this.nodes)
         .enter()
-        .append("path")
-        .attr("d", arc)
-        .attr("fill", (d, i) => color(i))
-        .attr("stroke", "#000")
-        .attr("stroke-width", "1px")
-        .on("mouseenter", function() {
-          d3.select(this)
-            .transition()
-            .duration(200)
-            .attr("opacity", 0.5);
+        .append('g')
+        .attr('transform', function (d) {
+          let cirX = d.x
+          let cirY = d.y
+          return 'translate(' + cirX + ',' + cirY + ')'
         })
-        .on("mouseout", function() {
-          d3.select(this)
-            .transition()
-            .duration(200)
-            .attr("opacity", 1);
-        });
+        .call(this.drag(simulation));
 
-      g.selectAll("text")
-        .data(this.gdp)
-        .enter()
-        .append("text")
-        .text(d => `${d.country} -  ${d.value} Trillion`)
-        .attr("x", -150)
-        .attr("dy", -8)
-        .attr("y", (d, i) => -(i + 1) * 25);
+        node.append("circle")
+          .attr("stroke", "#fff")
+          .attr("stroke-width", 1.5)
+          .attr("r", 4.5)
+          .attr('fill', function (d, i) {
+            return colorScale(i)
+          })
 
-        g.attr("transform", "translate(250,300)")
+        node.append("text")
+          .attr("dx", 12)
+          .attr("dy", ".35em")
+          .text(function(d) { return d.id });
+
+
+      simulation.on("tick", () => {
+        link
+          .attr("x1", d => d.source.x)
+          .attr("y1", d => d.source.y)
+          .attr("x2", d => d.target.x)
+          .attr("y2", d => d.target.y);
+
+        node
+          .attr('transform', function (d) { return 'translate(' + d.x + ',' + d.y + ')' })
+          .attr("cx", d => d.x)
+          .attr("cy", d => d.y);
+      });
     },
-    mouseEnter(t){
-      d3.select(t).transition().duration(200).attr("opacity", 0.5);
-    },
-    mouseOut(t){
-      d3.select(t).transition().duration(200).attr("opacity", 1);
+    drag(simulation){
+      function dragstarted(event) {
+        if (!event.active) simulation.alphaTarget(0.3).restart();
+        event.subject.fx = event.subject.x;
+        event.subject.fy = event.subject.y;
+      }
+      
+      function dragged(event) {
+        event.subject.fx = event.x;
+        event.subject.fy = event.y;
+      }
+      
+      function dragended(event) {
+        if (!event.active) simulation.alphaTarget(0);
+        event.subject.fx = null;
+        event.subject.fy = null;
+      }
+      
+      return d3.drag()
+        .on("start", dragstarted)
+        .on("drag", dragged)
+        .on("end", dragended);
+
     }
   },
   mounted(){
