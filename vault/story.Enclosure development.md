@@ -19,8 +19,8 @@ English content goes here.
 
 :::DE:::
 
-![description](images\cmw\PK-1900-elephants.jpg)
+![description](/images/cmw/PK-1900-elephants.jpg)
 
-![description](images\cmw\Gemsenfelsen.jpg)
+![description](/images/cmw/Gemsenfelsen.jpg)
 
-![description](images\cmw\openenclosure-elephants-1920.jpg)
+![description](/images/cmw/openenclosure-elephants-1920.jpg)

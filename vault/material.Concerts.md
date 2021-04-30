@@ -20,4 +20,4 @@ published: false
 
 # Konzerte im Zoo
 
-![Bild eines open-air Konzerts im Berliner Zoo](images\cmw\concert-1915.jpg)
+![Bild eines open-air Konzerts im Berliner Zoo](/images/cmw/concert-1915.jpg)

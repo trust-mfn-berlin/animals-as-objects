@@ -28,7 +28,7 @@ published: false
 
 ## Ein breiteres Publikum
 
-![Lithografie aus einer Zeitung zeigt dicht gedrängte Besuchermassen am Rabattag](images/cmw/25Pfennigsonntag-1882-DerBazar.jpg)
+![Lithografie aus einer Zeitung zeigt dicht gedrängte Besuchermassen am Rabattag](/images/cmw/25Pfennigsonntag-1882-DerBazar.jpg)
 
 ## "Völkerschauen"
 
@@ -37,7 +37,7 @@ published: false
 
 ## Konzerte
 
-![description](images/cmw/concert-1915.jpg)
+![description](/images/cmw/concert-1915.jpg)
 
 ## Kuren
 
@@ -45,9 +45,9 @@ published: false
 
 ## Bälle und Kongresse
 
-![description](images/cmw/Kaisersaal.jpg)
+![description](/images/cmw/Kaisersaal.jpg)
 
-![description](images/cmw/Marmorsaal-1920.jpg)
+![description](/images/cmw/Marmorsaal-1920.jpg)
 
 ## Flanieren
 

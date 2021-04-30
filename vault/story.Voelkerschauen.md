@@ -27,5 +27,5 @@ English content goes here.
 
 ### Samoa
 
-![Werbebrochüre mit einem samoanischen Mann und der Reichsflagge im Hintergrund](images\cmw\Vschau-Samoa.jpg)
+![Werbebrochüre mit einem samoanischen Mann und der Reichsflagge im Hintergrund](/images/cmw/Vschau-Samoa.jpg)
 ## Museen

@@ -37,4 +37,4 @@ Menges
 
 Auch noch in den 1930er Jahren ging [[material.Lutz Heck]] auf Fangreisen. So fuhr er im Auftrag von [[material.Hermann Göring]] nach Kanada, um dort mit behördlicher Erlaubnis Elche? und Bisons zu fangen. Letztere wollte er im Erhaltungszuchtprogramm für den Wisent einsetzen und bei sich und in anderen Zoos ausstellen. Er reiste auch erneut nach Afrika, diesmal aber eher als Foto- und Jagdtourist. Seine Lebensgefährtin Eva Mac Lean reiste mehrfach nach Kamerun, an den Tschadsee und ins südliche Afrika und brachte auch weiterhin einzelne Tiere für den Berliner Zoo mit zurück.
 
-![Bild des Affenfelsens Mitte der 1930er Jahre](images\cmw\Affenfelsen-Heck.jpg)
+![Bild des Affenfelsens Mitte der 1930er Jahre](/images/cmw/Affenfelsen-Heck.jpg)

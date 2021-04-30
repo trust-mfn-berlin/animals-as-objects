@@ -38,7 +38,7 @@ Außerdem schenkt man dem Zoo der Reichshauptstadt auch Dinge aus den Kolonien [
 
 ## Sozialistische Bruderstaaten und DDR-Außenpolitik
 
-![Elefantenjungtier "Kosko" rennt mit Kindern durch den Tierpark](images/cmw/Kosko-1958-Zimmer.jpg)
+![Elefantenjungtier "Kosko" rennt mit Kindern durch den Tierpark](/images/cmw/Kosko-1958-Zimmer.jpg)
 "Kosko" war nach ihrer Ankunft sehr beliebt, hier rennt sie mit Kindern um die Wette, XXXX. (Fotoarchiv Tierpark Berlin, Foto Zimmer)
 
 

@@ -41,7 +41,7 @@ Seit dem Beginn planmäßiger Zucht in Zoos tauschen sich die Zoologen über ihr
 
 ## Knautschke & Co
 
-![Postkarte mit den Flusspferden "Knautschke" und "Bulette"](images/cmw/Knautschke-Bulette-um1955.jpg)
+![Postkarte mit den Flusspferden "Knautschke" und "Bulette"](/images/cmw/Knautschke-Bulette-um1955.jpg)
 Postkarte mit den Flusspferden "Knautschke" und Bulette" um 19XX. (AZGB)
 
 

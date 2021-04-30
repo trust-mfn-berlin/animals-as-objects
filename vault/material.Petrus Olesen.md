@@ -21,5 +21,5 @@ published: false
 
 # Petrus Olesen
 
-![Zoopfleger Petrus Olesen mit Bärenjungen auf dem Arm](images\cmw\Olesen-bears.jpg)
+![Zoopfleger Petrus Olesen mit Bärenjungen auf dem Arm](/images/cmw/Olesen-bears.jpg)
 

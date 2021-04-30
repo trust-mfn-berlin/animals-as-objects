@@ -19,5 +19,5 @@ English content goes here.
 
 :::DE:::
 
-![Bild von Ludwig Heck mit dem jungen Affen "Bobby" auf dem Arm](images\cmw\Ludwig-Heck-Bobby.jpg)
+![Bild von Ludwig Heck mit dem jungen Affen "Bobby" auf dem Arm](/images/cmw/Ludwig-Heck-Bobby.jpg)
 Zoodirektor Lutz Heck mit dem jungen Gorilla "Bobby" auf dem Arm, um 1928. (Archiv der Zoologischen Gärten Berlin)
