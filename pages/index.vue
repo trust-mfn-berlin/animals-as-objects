@@ -1,14 +1,6 @@
 <template>
   <div>
-    <ul>
-    <li v-for="page of pages" :key="page.slug">
-      <Nuxt-link :to="'/'+ page.slug" class="article-link">
-      <h3>{{ page.title }}</h3>
-      <p>{{ page.slug }}</p>
-      <p>{{ page.tao_type }}</p>
-      </Nuxt-link>
-    </li>
-    </ul>
+    <Graph />
   </div>
 </template>
 
