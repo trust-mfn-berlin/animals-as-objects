@@ -2,7 +2,7 @@
 id: d5bfb12b-0b03-4038-bb71-687153ced047
 title: Gifting Objects
 desc: Put a description of this note here...
-updated: 1619036695354
+updated: 1619730456419
 created: 1619036239804
 title_de: Tiergeschenke
 desc_de: Put a DE description of this note here...
@@ -35,6 +35,12 @@ Außerdem schenkt man dem Zoo der Reichshauptstadt auch Dinge aus den Kolonien [
 
 
 ## Sozialistische Freiwilligkeit
+
+## Sozialistische Bruderstaaten und DDR-Außenpolitik
+
+![Elefantenjungtier "Kosko" rennt mit Kindern durch den Tierpark](images/cmw/Kosko-1958-Zimmer.jpg)
+"Kosko" war nach ihrer Ankunft sehr beliebt, hier rennt sie mit Kindern um die Wette, XXXX. (Fotoarchiv Tierpark Berlin, Foto Zimmer)
+
 
 ## Pandadiplomatie
 

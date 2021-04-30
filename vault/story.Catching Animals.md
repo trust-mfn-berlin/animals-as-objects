@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching Animals
 desc: Put a description of this note here...
-updated: 1619426506374
+updated: 1619705017573
 created: 1618492547915
 title_de: Tierfang
 desc_de: Dieser Text bespricht Fangexpeditionen für Zoos
@@ -19,6 +19,7 @@ English content goes here.
 
 :::DE:::
 
+todomar
 # Tiere fangen für den ZooFangexpeditionen im Zeitalter des Imperialismus
 
 Für die meiste Zeit in den vergangenen etwa 250 Jahren, in denen moderne Zoos existieren, wurden Tiere in allen Zoos weltweit ausschließlich aus der Wildbahn entnommen. Das bedeutete, sie wurden in den Habitaten Habitat in denen sie geboren, oder in die sie migriert sind durch Jäger gefangen, um dann ausgestellt zu werden. Das konnten lokale Amateure oder Profis sein oder aber auch speziell ausgesandte, erfahrene oder trainierte Jäger, die entweder von einer Firma bezahlt wurden oder auf eigene Rechnung die Tiere fingen und sie dann anboten. Auch die Präparate, die wir in Museen sehen wurden entweder zunächst gefangen oder getötet. Wenn sie nicht mit Büchse oder Bogen aus der Entfernung geschossen wurden, wurden diese Tiere in Fallen gefangen und dann je nach Transportart zunächst noch lebend transportiert, damit sie nicht verdarben, oder vor Ort so getötet, dass die Tötung möglichst wenige Spuren an dem Fell, Gefieder, der Haut oder dem Skelet hinterließ. Hier soll aber vor allem der Fang lebender Tiere zur Lebendausstellung in Zoos behandelt werden. Auf die Akquise von Museumspräparaten wird im Abschnitt "Sammeln" [[story.Collecting Specimen]] noch stärker eingegangen werden.

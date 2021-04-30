@@ -2,11 +2,11 @@
 id: df37d6fb-33ac-4b34-bc21-3401db3aac52
 title: Micropaleontological Formations
 desc: Micropaleontology is the scientific study of microfossils, fossils that are microscopic in size and are not visible to the naked eye.
-updated: 1619603922170
+updated: 1619691254940
 created: 1618502886244
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
-author: Author name(s) here.
+author: FB
 tao_type: story
 cover_image: null
 license: CC BY-SA
@@ -40,11 +40,14 @@ The example of US industrial micropaleontology was quickly followed all over the
 Institute (VNIGRI) in Leningrad. Under the leadership of [[material.alexander vasilievich fursenko]] and later of [[material.nina nicolaevna subbotina]], the institute also developed research on industrial micropaleontology. It also extended its activities to Moscow, where [[material.dagmara maksimilianovna rauser-chernousova]] lead the discovery of more important oilfields in Baku during the second World War [^micropaleontology7]. In this sense, the field of micropaleontology was largely formed not to answer academic and scientific questions, but as an applied instrument to address geological and stratigraphic problems, in particular in relation to the extractive industries' search for [[material.fossil fuels]]. This history of a scientific discipline, then, is also intertwined with the private and national concerns that developed alongside global oil interests, industries, and logistics - in particular in the formative early years of the 20th century. As two World Wars ravaged, fragmented, and reassembled planetary orders, industrial micropaleontology's importance grew alongside with the rise of the use of fossil fuels.
 
 ##Micropaleontology at sea
-As the global conflicts of the first half of the 20th century only increased society's thirst for fossil fuels, industrial micropaleontology continued its rise to fame. But, at least until the end of the second Wold War, the efforts of micropaleontologists had concentrated almost exclusively on foraminifera. As oil became more profitable, a better knowledge of the stratigraphy of the earth was increasingly necessary. In this context, the work of [[material.william rex riedel]], and his reassessment of [[material.radiolaria]]'s species ranges, represented a pivotal point in the histoy of micropaleontology. Encouraged by his supervisor, as a graduate student Riedel focused on this group, which had largely been neglected since the end of the 19th century. 
-[[material.piston corer]], [[material.deep sea drilling]], [[story.oceanography]], [[material.biostratigraphy]]
+As the global conflicts of the first half of the 20th century only increased society's thirst for fossil fuels, industrial micropaleontology continued its rise to fame. But, at least until the end of the second Wold War, the efforts of micropaleontologists had concentrated almost exclusively on foraminifera, and the understanding of earth's complex dynamics was still taking shape. As oil became more profitable, a better knowledge of global stratigraphy was increasingly necessary. In this context, the work of [[material.william rex riedel]], and his reassessment of [[material.radiolaria]] species ranges, represented a pivotal point in the histoy of micropaleontology. Encouraged by his supervisor, as a graduate student Riedel started focusing on this group, which had largely been neglected since the end of the 19th century. Analysing more closely the material studied by [[material.ernst haeckel]] from the [[material.hms challenger]] expedition, Riedel noticed that the German naturalist often didn't correctly discriminate between older fossils and more recent materials. Rather than presenting long ranging forms, he realized that radiolarian species could also be used in [[material.biostratigraphy]], since their changes over time could also offer helpful tools to interpret geological formations and their relations.
+
+After the earlier, less successful, experience of micropaleontology at sea, which by the end of the 19th century had lead scientists to misinterpret the role of microfossils, micropaleontologists were to become more deeply entangled with [[story.oceanography]]. Riedel's work exemplifies well this connection. Spending time in Sweden in 1950, Riedel worked with [[material.borje kullenberg]], who invented the [[material.piston corer]] - a tool to collect deeper cores from the sea floor, and which profoundly impacted [[story.oceanography]]. This and other technological innovations that had been developed in wartime, like the [[material.radar]], the [[material.sonar]], and other novel sounding and sampling techniques, made possible impressive strides in the study, understanding, and exploration of the global ocean. As Riedel, in 1951, moved to the Scripps Institution of Oceanography in California, he helped bringing [[material.radiolaria]] and micropalontology to the forefront of postwar oceanography.
+
+[[material.deep sea drilling]], [[material.cesare emiliani]], [[material.geochemistry]], [[material.isotopes]], [[material.paleothermometer]]
 
 ##Of microbes and planets
-[[theme.planetary data]], [[story.oceanography]], [[material.NSB]], [[material.cycladophora davisiana]], [[material.big science]], [[material.big data]]
+[[theme.planetary data]], [[story.oceanography]], [[material.NSB]], [[material.cycladophora davisiana]], [[material.big science]], [[material.big data]], [[material.gaia theory]]
 
 [^micropaleontology1]: This is clear in the title of an important article in this field from the 1980s: Lipps, Jere H. "What, If Anything, Is Micropaleontology?" _Paleobiology_ 7, no. 2 (1981): 167-99. Accessed April 20, 2021. http://www.jstor.org/stable/2400472. And in a more recent reprise: Martin, Ronald E. "What, if anything, is environmental micropaleontology?." _Microbiology_ 1 (2004): 1-10.
 [^micropaleontology2]: The impact of these early descriptions is quantified in Lazarus, David. "The legacy of early radiolarian taxonomists, with a focus on the species published by early German workers." _Journal of Micropalaeontology_ 33, no. 1 (2014): 3-19.
