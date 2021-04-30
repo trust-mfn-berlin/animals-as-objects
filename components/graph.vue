@@ -110,13 +110,14 @@ export default {
           })
 
         node.append("text")
-          .attr("dx", 12)
-          .attr("dy", ".35em")
+          
+          .attr("dy", "14px")
           .attr("font-family", "Optician Sans")
           .style("font-size", "10px")
           .attr("fill", "#ccc")
           .attr("letter-spacing", '0.1em')
           .text(function(d) { return d.frontmatter.title })
+          .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
           .on("mouseenter", function() {
             d3.select(this)
               .transition()
