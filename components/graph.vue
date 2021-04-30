@@ -1,4 +1,6 @@
 // https://github.com/gywgithub/vue-d3-examples/blob/master/src/components/ForceDirectedGraph.vue
+// https://www.d3indepth.com/force-layout/
+// https://observablehq.com/@d3/force-directed-graph
 
 <template>
   <div>
@@ -104,9 +106,7 @@ export default {
           .attr("y2", d => d.target.y);
 
         node
-          .attr('transform', function (d) { return 'translate(' + d.x + ',' + d.y + ')' })
-          .attr("cx", d => d.x)
-          .attr("cy", d => d.y);
+          .attr('transform', function (d) { return 'translate(' + d.x + ',' + d.y + ')' });
       });
     },
     drag(simulation){
