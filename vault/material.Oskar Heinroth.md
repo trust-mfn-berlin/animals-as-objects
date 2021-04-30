@@ -2,7 +2,7 @@
 id: 1a9793b7-746f-4a58-bfa2-54596b72b4bc
 title: Oskar Heinroth
 desc: Put a description of this note here...
-updated: 1618503058952
+updated: 1619798897970
 created: 1618503001471
 title_de: Oskar Heinroth
 desc_de: Put a DE description of this note here...
@@ -21,4 +21,5 @@ English content goes here.
 
 German content goes here.
 
-Testing here
+![Oskar Heinroth mit drei Uralkäuzen](images\cmw\O_Heinroth_Uralkaeuzen_1929.jpg)
+
