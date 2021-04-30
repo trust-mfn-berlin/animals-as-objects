@@ -5,6 +5,8 @@
 // Docs
 // https://github.com/d3/d3-force#simulation_on
 
+// https://github.com/d3/d3-zoom
+
 <template>
   <div id="d3"></div>
 </template>
@@ -53,7 +55,11 @@ export default {
     }
   },
   methods:{
+    navigate(event, d){
+      this.$router.push('/' + d.slug);
+    },
     init(){
+      const that = this;
       const svg = d3
         .select("#d3")
         .append("svg")
@@ -134,6 +140,10 @@ export default {
               }
               });
           });
+
+          node.on('click', function(event, d){
+            that.navigate(event, d)
+          })
 
           // Set the stroke width back to normal when mouse leaves the node.
           node.on('mouseout', function() {
