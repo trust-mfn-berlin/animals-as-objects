@@ -2,7 +2,7 @@
 id: 64f2ee9a-8026-4117-be1d-702f8c599567
 title: Onboarding Therese
 desc: Put a description of this note here...
-updated: 1619789354419
+updated: 1619789941089
 created: 1619789061169
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -20,6 +20,8 @@ If needed you can also add footnotes [^footnote1].
 As necessary, things can be **bold** or _italic_.
 
 Hi this is a dendron link [[story.Gifting Objects]]. 
+
+Hi from Son La
 
 ![image description for accessibility](/images/example/hippo.jpg)
 
