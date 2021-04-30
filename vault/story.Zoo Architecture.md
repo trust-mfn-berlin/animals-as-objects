@@ -2,7 +2,7 @@
 id: e47d02d6-04d0-4cee-9dd9-41600707ed5a
 title: Zoo Architecture
 desc: Put a description of this note here...
-updated: 1619800079879
+updated: 1619800493716
 created: 1619798990411
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -35,3 +35,7 @@ published: false
 ![desc](images\cmw\Straussenhaus_1934_S_7_8.jpg)
 
 ![desc](images\cmw\Blockhaus_Wisente.jpg)
+
+![desc](images\cmw\Affenpalmenhaus.jpg)
+
+![desc](images\cmw\BrehmHaus_Magirus_1965.jpg)
