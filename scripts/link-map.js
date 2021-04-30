@@ -60,25 +60,32 @@ async function getContent(filePath, encoding = "utf-8") {
   compiledBacklinks = dendronlinks;
   // console.log(dendronlinks);
   console.log('Generating backlinks...');
-
+  // Iterate through every page
   for (let x = 0; x < dendronlinks.length; x++) {
     const forwardlinks = dendronlinks[x].forwardlinks;
     const from = dendronlinks[x].slug;
 
+    // Check if this page is linked to anything
     if(forwardlinks){
+      // Go through each forward link and check against other pages to see if this link goes to that page
       for (let f = 0; f < forwardlinks.length; f++) {
-        // const slug = link.dendronlinks[x];
+        
         const forwardlink = forwardlinks[f];
         // console.log('Iterating forwardlinks', f);
         // console.log('FROM', from, '-> TO', forwardlink);
 
         for (let u = 0; u < dendronlinks.length; u++) {
           const page = dendronlinks[u];
+          // If any page matches a forward link from another page, add it as a backlink
           if(page.slug == forwardlink){
-            console.log('MATCH', 'from index', x, 'to index', u);
-            console.log('FROM', from, '-> TO', forwardlink);
-            // console.log('-------------------')
-            compiledBacklinks[u].backlinks.push(from);
+
+            // Check if the backlink already exists. Only add it if it doesn't already exist.            
+            if(!compiledBacklinks[u].backlinks.includes(from)){
+              console.log('MATCH', 'from index', x, 'to index', u);
+              console.log('FROM', from, '-> TO', forwardlink);
+              compiledBacklinks[u].backlinks.push(from);
+            }
+          
           }
           
         }
