@@ -18,8 +18,8 @@ export default {
   data () {
     return {
       attr : {
-        width: 500,
-        height: 500,
+        width: 1000,
+        height: 800,
         margin: {
           top: 0,
           right: 0,
@@ -63,14 +63,16 @@ export default {
       const simulation = d3.forceSimulation(graphdata.nodes)
         .force("link", d3.forceLink(graphdata.links).id(d => d.slug))
         .force("charge", d3.forceManyBody())
-        .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2));
+        .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2))
+        .force("radial", d3.forceRadial(500))
+        .force("collide", d3.forceCollide(20))
 
       let colorScale = d3.scaleOrdinal()
         .domain(d3.range(graphdata.nodes.length))
         .range(d3.schemeCategory10)
 
       const link = svg.append("g")
-        .attr("stroke", "#999")
+        .attr("stroke", "#eee")
         .attr("stroke-opacity", 0.6)
         .selectAll("line")
         .data(graphdata.links)
@@ -78,6 +80,7 @@ export default {
         .attr("stroke-width", d => Math.sqrt(d.value));
 
       const node = svg.append("g")
+        
         .selectAll("circle")
         .data(graphdata.nodes)
         .enter()
@@ -86,6 +89,9 @@ export default {
           let cirX = d.x
           let cirY = d.y
           return 'translate(' + cirX + ',' + cirY + ')'
+        })
+        .attr('id', function(d) {
+          return d.slug
         })
         .call(this.drag(simulation));
 
@@ -100,7 +106,41 @@ export default {
         node.append("text")
           .attr("dx", 12)
           .attr("dy", ".35em")
-          .text(function(d) { return d.frontmatter.title });
+          .attr("font-family", "Optician Sans")
+          .style("font-size", "10px")
+          .attr("fill", "#ccc")
+          .attr("letter-spacing", '0.1em')
+          .text(function(d) { return d.frontmatter.title })
+          .on("mouseenter", function() {
+            d3.select(this)
+              .transition()
+              .duration(200)
+              .attr("fill", "black");
+          })
+          .on("mouseout", function() {
+            d3.select(this)
+              .transition()
+              .duration(200)
+              .attr("fill", "#ccc")
+          });
+
+          node.on('mouseover', function(event, d) {
+            link.style('stroke', function(l) {
+              if (d === l.source || d === l.target){
+                return "black";
+              }
+              else {
+                return "#eee";
+              }
+              });
+          });
+
+          // Set the stroke width back to normal when mouse leaves the node.
+          node.on('mouseout', function() {
+            link.style('stroke', "#eee");
+          });
+
+        
 
 
       simulation.on("tick", () => {
