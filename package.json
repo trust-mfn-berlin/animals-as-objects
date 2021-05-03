@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "node scripts/copy-images.js && node scripts/link-map.js && nuxt",
+    "dev": "node scripts/optimise-images.js && node scripts/link-map.js && nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "node scripts/copy-images.js && node scripts/link-map.js && nuxt generate",
+    "generate": "node scripts/optimise-images.js && node scripts/link-map.js && nuxt generate",
     "test": "node link-map.js",
-    "local": "node scripts/copy-images.js && node scripts/link-map.js && nuxt generate && npm run start"
+    "local": "node scripts/optimise-images.js && node scripts/link-map.js && nuxt generate && npm run start"
   },
   "dependencies": {
     "@nuxt/content": "^1.14.0",

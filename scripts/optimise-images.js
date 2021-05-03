@@ -9,18 +9,16 @@ const destDir = path.join(__dirname, '..', 'static', 'images');
 const maxW = 2000;
 const maxH = 1800;
 
+var existingImages = [];
+
 function getFileNames(dir, encoding = "utf-8", withFileTypes = true) {
   let imageFiles = [];
   var names = [];
   try {
       fs.readdirSync(dir).forEach(File => {
       const absolute = path.join(dir, File);
-      // let stat = fs.statSync(absolute);
-      // console.log(stat);
       if (fs.statSync(absolute).isDirectory()) {
-        console.log('dir')
         const recursive = getFileNames(absolute) 
-        // names.push(recursive)
         for (let i = 0; i < recursive.length; i++) {
           const f = recursive[i];
           names.push(f);
@@ -28,7 +26,6 @@ function getFileNames(dir, encoding = "utf-8", withFileTypes = true) {
       } else {
         names.push(absolute)
       };
-      // return imageFiles.push(absolute)
     });
   } catch (e) {
       console.log("e", e);
@@ -44,10 +41,31 @@ function getFileNames(dir, encoding = "utf-8", withFileTypes = true) {
 }
 
 (async() => {
-  const imageFilePaths = await getFileNames(srcDir)
+  console.log('Beginning image optimisation');
+  existingImages = getFileNames(destDir)
+  const imageFilePaths = getFileNames(srcDir);
 
-  for (let i = 0; i < imageFilePaths.length; i++) {
-    const imageFile = imageFilePaths[i];
+  var imageQueue = [];
+  
+  for (let e = 0; e < imageFilePaths.length; e++) {
+    const newFilePath = imageFilePaths[e];
+    const newFilePathComparable = imageFilePaths[e].replace(srcDir, destDir);
+ 
+    if(existingImages.includes(newFilePathComparable)){
+
+    } else {
+      console.log('Found an image that needs to be resized!');
+      imageQueue.push(newFilePath);
+    }
+    
+  }
+
+  if(imageQueue.length == 0){
+    console.log('No images to resize');
+  }
+
+  for (let i = 0; i < imageQueue.length; i++) {
+    const imageFile = imageQueue[i];
 
     Jimp.read(imageFile, (err, img) => {
       if (err) throw err;
@@ -76,37 +94,10 @@ function getFileNames(dir, encoding = "utf-8", withFileTypes = true) {
         console.log(newPath);
         img.quality(80).write(newPath);
       }
-      // img
-      //   .resize(256, 256) // resize
-      //   .quality(60) // set JPEG quality
-      //   .greyscale() // set greyscale
-      //   .write('lena-small-bw.jpg'); // save
+
     });    
     
   }
 
-  
-  // console.log(b);
+  console.log('Finished optimising images');
 })();
-
-// (async () => {
-//   console.log('Fetching forward links...');
-//   const directoryFiles = await getFileNames(srcDir);
-
-//   for (let i = 0; i < directoryFiles.length; i++) {
-//     const file = directoryFiles[i];
-//     // const fileData = await getContent(path.join(__dirname, '..', 'vault', file))
-    
-//     Jimp.read('lenna.png', (err, lenna) => {
-//       if (err) throw err;
-//       lenna
-//         .resize(256, 256) // resize
-//         .quality(60) // set JPEG quality
-//         .greyscale() // set greyscale
-//         .write('lena-small-bw.jpg'); // save
-//     });
-//   }
-
-  
-
-// })();
