@@ -1,7 +1,6 @@
-var Jimp = require('jimp');
+const Jimp = require('jimp');
 const path = require('path');
 const fs = require('fs-extra');
-const { image } = require('d3-fetch');
 
 const srcDir = path.join(__dirname, '..', 'vault', 'images');
 const destDir = path.join(__dirname, '..', 'static', 'images');
