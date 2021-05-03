@@ -2,7 +2,7 @@
 id: 253a9370-af5d-4925-9287-2d951a99dffb
 title: Albatross Expedition
 desc: Put a description of this note here...
-updated: 1619869430154
+updated: 1620056200539
 created: 1619869430154
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,6 +15,7 @@ published: false
 
 :::EN:::
 
+[[story.oceanography]], [[material.borje kullenberg]], [[material.piston corer]], [[material.william rex riedel]]
 Text body with backlinks like this: [[theme.test]]. The title is already written above.
 If needed you can also add footnotes [^footnote1].
 As necessary, things can be **bold** or _italic_.

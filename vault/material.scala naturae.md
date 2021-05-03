@@ -2,7 +2,7 @@
 id: a229bc24-a9a0-4a4c-aca7-dd15f94bd250
 title: Scala Naturae
 desc: Put a description of this note here...
-updated: 1619086223958
+updated: 1620054926308
 created: 1619086223958
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-English content goes here.
+[[theme.taxonomical orders]]
 
 :::DE:::
 

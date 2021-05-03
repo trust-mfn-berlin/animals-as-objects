@@ -2,7 +2,7 @@
 id: cd75f1a5-4b0e-4693-86c2-888b2df291be
 title: Isotopes
 desc: Put a description of this note here...
-updated: 1619690031944
+updated: 1620055156560
 created: 1619690031944
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,6 +15,7 @@ published: false
 
 :::EN:::
 
+[[material.nuclear physics]], [[story.oceanography]], [[story.micropaleontology]]
 Text body with backlinks like this: [[theme.test]]. The title is already written above.
 If needed you can also add footnotes [^footnote1].
 As necessary, things can be **bold** or _italic_.

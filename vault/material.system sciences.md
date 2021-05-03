@@ -2,7 +2,7 @@
 id: aa5897c8-60b6-4abb-8f1c-d96a8bdb7264
 title: System Sciences
 desc: Put a description of this note here...
-updated: 1619870125266
+updated: 1620054870852
 created: 1619870125266
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,6 +15,7 @@ published: false
 
 :::EN:::
 
+[[theme.planetary data]], [[material.planetary sciences]],
 Text body with backlinks like this: [[theme.test]]. The title is already written above.
 If needed you can also add footnotes [^footnote1].
 As necessary, things can be **bold** or _italic_.

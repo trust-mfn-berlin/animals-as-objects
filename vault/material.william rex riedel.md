@@ -2,7 +2,7 @@
 id: 0b08a452-2cfb-4ce6-83aa-6a67f0430227
 title: William Rex Riedel
 desc: Put a description of this note here...
-updated: 1618493168671
+updated: 1620054709094
 created: 1618493168671
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-English content goes here.
+[[story.micropaleontology]], [[story.oceanography]], [[material.deep sea drilling]], [[material.radiolaria]], [[material.hms challenger]], [[material.borje kullenberg]], [[material.albatross expedition]]
 
 :::DE:::
 

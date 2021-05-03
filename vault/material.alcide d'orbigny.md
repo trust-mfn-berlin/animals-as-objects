@@ -2,7 +2,7 @@
 id: ec790320-5279-4269-a0af-72f7fc013d3d
 title: Alcide D'orbigny
 desc: Put a description of this note here...
-updated: 1619000950705
+updated: 1620056170883
 created: 1619000950706
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-English content goes here.
+[[story.micropaleontology]], [[material.foraminifera]], [[material.infusoria]], [[story.cell theory]], [[material.felix dujardin]]
 
 :::DE:::
 

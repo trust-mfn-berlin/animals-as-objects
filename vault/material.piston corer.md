@@ -2,7 +2,7 @@
 id: 2fd1d4cb-7c82-4b5c-bfe6-d894d382c8eb
 title: Piston Corer
 desc: Put a description of this note here...
-updated: 1619603811603
+updated: 1620054960212
 created: 1619603811603
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,6 +15,7 @@ published: false
 
 :::EN:::
 
+[[story.oceanography]], [[material.borje kullenberg]], [[material.deep sea drilling]]
 Text body with backlinks like this: [[theme.test]]. The title is already written above.
 If needed you can also add footnotes [^footnote1].
 As necessary, things can be **bold** or _italic_.

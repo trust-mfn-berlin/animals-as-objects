@@ -2,7 +2,7 @@
 id: 7617706c-b599-46e0-9aa6-bf3b3f4b1ffe
 title: Felix Dujardin
 desc: Put a description of this note here...
-updated: 1619025860208
+updated: 1620055581907
 created: 1619025860208
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-English content goes here.
+[[story.cell theory]], [[story.micropaleontology]]
 
 :::DE:::
 
