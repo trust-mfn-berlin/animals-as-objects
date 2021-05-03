@@ -11,6 +11,7 @@ const destDir = path.join(__dirname, '..', 'static', 'images');
 // https://github.com/imagemin/imagemin-optipng
 
 // https://www.npmjs.com/package/imagemin
+// https://www.npmjs.com/package/jimp
 
 fs.copySync(srcDir, destDir, {overwrite: true}, function (err) {
   if (err) {                 
