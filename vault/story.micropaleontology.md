@@ -2,7 +2,7 @@
 id: df37d6fb-33ac-4b34-bc21-3401db3aac52
 title: Micropaleontological Formations
 desc: Micropaleontology is the scientific study of microfossils, fossils that are microscopic in size and are not visible to the naked eye.
-updated: 1620049367966
+updated: 1620051438217
 created: 1618502886244
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -47,7 +47,9 @@ After the earlier, less successful, experience of micropaleontology at sea, whic
 As this field began to venture further at sea in the postwar period, it also underwent other important transformations, which reached beyond the simple taxonomical and systematic aspect of microfossils and increased their scientific value by combining [[material.biostratigraphy]] to innovations in [[material.geochemistry]]. This field was booming in their aftermath of the second global conflict: as the study of [[material.nuclear physics]] increasingly converged with the developments in chemistry that continued since the 19th century, the understanding of geological processes radically transformed. This fertile interdisciplinary synergy simultaneously depended on and made possible other technical innovations, like mass [[material.spectrometry]] and the applied use of [[material.isotopes]] boosted by the atomic age. In micropaleontology, the central role of geochemistry and its connection with nuclear physics is well illustrated in the important contributions of [[material.cesare emiliani]]. In the 1950s, Emiliani was working at the Enrico Fermi Institute for Nuclear Science, as a research associate in the geochemical laboratory of [[material.harold urey]] - who was pioneering the study of the relationships between stable isotopes and environmental variables. Applying these insights to [[material.foraminifera]], Emiliani was able to relate changes in oxygen isotopes in the microfossils with changes in ocean temperatures: the microfossil record accumulated on the bottom of the sea, he demonstrated, could work as a [[material.paleothermometer]], since it registered environmental changes withing the microorganisms' biochemistry. Thanks to these technological and conceptual transformations, industrial micropaleontology consolidated its importance not only as an applied aspect of the extractive industries, but also - increasingly - as a foundational tool in the study of the planet's dynamics and history. As illustrated by the examples of both Riedel and Emiliani, this novel role of micropaleontology was especially and increasingly associated with [[story.oceanography]] and its deepening connection with [[material.system sciences]].
 
 ##Of microbes and planets
-[[theme.planetary data]], [[story.oceanography]], [[material.NSB]], [[material.cycladophora davisiana]], [[material.big science]], [[material.big data]], [[material.gaia theory]]
+As already mentioned, postwar micropaleontology developed in close connection with [[story.oceanography]] and climate sciences.
+
+[[theme.planetary data]], [[material.NSB]], [[material.cycladophora davisiana]], [[material.big science]], [[material.big data]], [[material.gaia theory]]
 
 [^micropaleontology1]: This is clear in the title of an important article in this field from the 1980s: Lipps, Jere H. "What, If Anything, Is Micropaleontology?" _Paleobiology_ 7, no. 2 (1981): 167-99. Accessed April 20, 2021. http://www.jstor.org/stable/2400472. And in a more recent reprise: Martin, Ronald E. "What, if anything, is environmental micropaleontology?." _Microbiology_ 1 (2004): 1-10.
 [^micropaleontology2]: The impact of these early descriptions is quantified in Lazarus, David. "The legacy of early radiolarian taxonomists, with a focus on the species published by early German workers." _Journal of Micropalaeontology_ 33, no. 1 (2014): 3-19.
