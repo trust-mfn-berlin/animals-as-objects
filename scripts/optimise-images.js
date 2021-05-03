@@ -7,6 +7,7 @@ const destDir = path.join(__dirname, '..', 'static', 'images');
 
 const maxW = 2000;
 const maxH = 1800;
+const quality = 80;
 
 var existingImages = [];
 
@@ -75,6 +76,7 @@ function getFileNames(dir, encoding = "utf-8", withFileTypes = true) {
       const h = img.bitmap.height;
       const newPath = imageFile.replace(srcDir, destDir);
 
+      // If image is too big, treat it differently for height or width and reduce quality
       if(w > maxW || h > maxH){
         // console.log("big image", imageFile, "W", w, "H", h);
         console.log(newPath);
@@ -83,18 +85,19 @@ function getFileNames(dir, encoding = "utf-8", withFileTypes = true) {
           const newH = Math.round((h/w)*maxW);
           console.log('Old size', "W", w, "H", h);
           console.log('New size', "W", maxW, "H", newH);
-          img.resize(maxW, newH).quality(80).write(newPath)
+          img.resize(maxW, newH).quality(quality).write(newPath)
         }
 
         else if (h > maxH){
           const newW = Math.round((w/h)*maxH);
           console.log('Old size', "W", w, "H", h);
           console.log('New size', "W", maxH, "H", newW);
-          img.resize(newW, maxH).quality(80).write(newPath)
+          img.resize(newW, maxH).quality(quality).write(newPath)
         }
       } else {
+        // If image isn't too big, just reduce quality a bit
         console.log(newPath);
-        img.quality(80).write(newPath);
+        img.quality(quality).write(newPath);
       }
 
     });    
