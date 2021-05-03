@@ -77,6 +77,9 @@ function getFileNames(dir, encoding = "utf-8", withFileTypes = true) {
       const newPath = imageFile.replace(srcDir, destDir);
 
       // If image is too big, treat it differently for height or width and reduce quality
+      // Can probably rewrite this using scaleToFit with a box that's 2000x1800 
+      // https://github.com/oliver-moran/jimp/tree/master/packages/plugin-scale#scaletofit
+      
       if(w > maxW || h > maxH){
         // console.log("big image", imageFile, "W", w, "H", h);
         console.log(newPath);
