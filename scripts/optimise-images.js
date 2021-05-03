@@ -36,17 +36,19 @@ function getFileNames(dir, encoding = "utf-8", withFileTypes = true) {
       imageFiles.push(file);
     }
   }
-  // Should check if images already exist in destination folder. And skip them to speed up process
   return imageFiles;
 }
 
 (async() => {
   console.log('Beginning image optimisation');
+  // Get list of images that have already been put in destination static assets folder
   existingImages = getFileNames(destDir)
+  // Get list of images in Source folder
   const imageFilePaths = getFileNames(srcDir);
 
   var imageQueue = [];
   
+  // Compare them both and only add images that are not in the Destination folder yet.
   for (let e = 0; e < imageFilePaths.length; e++) {
     const newFilePath = imageFilePaths[e];
     const newFilePathComparable = imageFilePaths[e].replace(srcDir, destDir);
@@ -64,6 +66,7 @@ function getFileNames(dir, encoding = "utf-8", withFileTypes = true) {
     console.log('No images to resize');
   }
 
+  // Do the reading and resizing
   for (let i = 0; i < imageQueue.length; i++) {
     const imageFile = imageQueue[i];
 
