@@ -2,7 +2,7 @@
 id: d7853d6a-58f0-40eb-a3a5-3ddc4e1a2cdf
 title: Sonar
 desc: Put a description of this note here...
-updated: 1619623088093
+updated: 1620056273859
 created: 1619623088093
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,6 +15,7 @@ published: false
 
 :::EN:::
 
+[[story.oceanography]]
 Text body with backlinks like this: [[theme.test]]. The title is already written above.
 If needed you can also add footnotes [^footnote1].
 As necessary, things can be **bold** or _italic_.

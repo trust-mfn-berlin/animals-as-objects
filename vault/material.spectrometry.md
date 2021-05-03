@@ -2,7 +2,7 @@
 id: 0749cdf0-ce29-4a61-9ccd-94a3b11632f4
 title: Spectrometry
 desc: Put a description of this note here...
-updated: 1619870545386
+updated: 1620056291118
 created: 1619870545387
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,6 +15,7 @@ published: false
 
 :::EN:::
 
+[[material.geochemistry]], [[material.isotopes]]
 Text body with backlinks like this: [[theme.test]]. The title is already written above.
 If needed you can also add footnotes [^footnote1].
 As necessary, things can be **bold** or _italic_.

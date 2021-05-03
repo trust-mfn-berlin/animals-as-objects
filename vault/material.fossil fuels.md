@@ -2,7 +2,7 @@
 id: 7f5d84e2-6c42-454e-a7c5-f31db9960a70
 title: Fossil Fuels
 desc: Put a description of this note here...
-updated: 1618493147480
+updated: 1620055547833
 created: 1618493147480
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-English content goes here.
+[[story.micropaleontology]]
 
 :::DE:::
 

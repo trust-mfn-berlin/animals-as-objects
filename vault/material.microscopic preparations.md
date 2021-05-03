@@ -2,7 +2,7 @@
 id: fac2eded-a093-4ebf-986e-d94b045f7676
 title: Microscopic Preparations
 desc: Put a description of this note here...
-updated: 1618492963611
+updated: 1620055105372
 created: 1618492963611
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-English content goes here.
+[[story.microscopy]], [[theme.microbial worlds]], [[material.christian gottfried ehrenberg]]
 
 :::DE:::
 

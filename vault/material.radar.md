@@ -2,7 +2,7 @@
 id: 337c67b4-6d74-4628-9973-18003f986dfe
 title: Radar
 desc: Put a description of this note here...
-updated: 1619623078224
+updated: 1620056267235
 created: 1619623078224
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,6 +15,7 @@ published: false
 
 :::EN:::
 
+[[story.oceanography]]
 Text body with backlinks like this: [[theme.test]]. The title is already written above.
 If needed you can also add footnotes [^footnote1].
 As necessary, things can be **bold** or _italic_.

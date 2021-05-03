@@ -2,7 +2,7 @@
 id: f65dff3e-1ec2-4c6e-a787-1aaea3da92c0
 title: Geochemistry
 desc: Put a description of this note here...
-updated: 1619690003244
+updated: 1620055478408
 created: 1619690003244
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,6 +15,7 @@ published: false
 
 :::EN:::
 
+[[material.harold urey]], [[material.isotopes]], [[story.micropaleontology]]
 Text body with backlinks like this: [[theme.test]]. The title is already written above.
 If needed you can also add footnotes [^footnote1].
 As necessary, things can be **bold** or _italic_.

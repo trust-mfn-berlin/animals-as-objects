@@ -2,7 +2,7 @@
 id: 029e1bfc-1cdd-4bcc-9bdf-90ec66e8aced
 title: Clara Ehrenberg
 desc: Put a description of this note here...
-updated: 1618492974915
+updated: 1620055817265
 created: 1618492974915
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-English content goes here.
+[[material.christian gottfried ehrenberg]], [[theme.herstory of science]]
 
 :::DE:::
 

@@ -2,7 +2,7 @@
 id: 87f0cd50-5812-4104-bef5-269b74633325
 title: Big Science
 desc: Put a description of this note here...
-updated: 1619603198177
+updated: 1620056071906
 created: 1619603198177
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,6 +15,7 @@ published: false
 
 :::EN:::
 
+[[theme.planetary data]], [[story.oceanography]]
 Text body with backlinks like this: [[theme.test]]. The title is already written above.
 If needed you can also add footnotes [^footnote1].
 As necessary, things can be **bold** or _italic_.
