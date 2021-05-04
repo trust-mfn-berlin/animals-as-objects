@@ -2,7 +2,7 @@
 id: affb76dc-370a-4e5a-a61a-c5c0339558f0
 title: Spontaneous Generation
 desc: Put a description of this note here...
-updated: 1619024939081
+updated: 1620054913504
 created: 1619024939081
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-English content goes here.
+[[material.christian gottfried ehrenberg]], [[theme.microbial worlds]]
 
 :::DE:::
 

@@ -2,7 +2,7 @@
 id: f0ff8e4e-5bb8-4622-8d51-8da1cb651524
 title: Biostratigraphy
 desc: Put a description of this note here...
-updated: 1618493136974
+updated: 1620056054698
 created: 1618493136975
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-English content goes here.
+[[story.micropaleontology]], [[material.planetary sciences]], [[theme.planetary data]], [[material.fossil fuels]]
 
 :::DE:::
 

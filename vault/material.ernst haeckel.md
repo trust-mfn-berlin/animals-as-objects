@@ -2,7 +2,7 @@
 id: 484ac073-28b5-41d6-82a9-a47b7ba86e85
 title: Ernst Haeckel
 desc: Put a description of this note here...
-updated: 1618493384776
+updated: 1620055630678
 created: 1618493384776
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-English content goes here.
+[[theme.microbial worlds]], [[story.micropaleontology]], [[material.radiolaria]], [[material.hms challenger]], [[material.charles darwin]]
 
 :::DE:::
 
