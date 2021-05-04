@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <h1 class="title">
-        Animals as Objects
+        Animals as Objects?
       </h1>
       <small class="">Content Creation</small>
       <div class="links">
