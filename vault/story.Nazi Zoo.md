@@ -2,11 +2,8 @@
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 title: Nazi Zoo
 desc: ''
-<<<<<<< HEAD
-updated: 1620131303004
-=======
+updated: 1620135819550
 updated: 1620075174598
->>>>>>> 209447caa30039228feb3929b28e4668eca39c67
 created: 1619020958263
 title_de: Der Zoo im Nationalsozialismus
 desc_de: Während der nationalsozialistischen Diktatur stellte die Zooleitung den Berliner Zoo in den Dienst des Regimes.
@@ -29,9 +26,6 @@ English content goes here.
 
 1932 wurde [[material.Lutz Heck]] der Direktor des Zoologischen Gartens Berlin. Er übernahm das Amt von seinem Vater [[material.Ludwig Heck]]. Dieser war seit 1888 Direktor des Berliner Zoos ([[story.Short History Zoo]]) gewesen. Unter Ludwig Hecks Ägide wurde zwischen 1911 und 1913 durch [[material.Oskar Heinroth]] das Aquarium gebaut. Die Familie war deutschnational und kolonialistisch ausgerichtet und pflegten enge Kontakte in das rechtskonservativ-nationalistische Milieu. Es scheint, als hätten Vater und Sohn die Machtübernahme der Nationalsozialisten begrüßt. Beide huldigten in ihren Publikationen dem "Führer", der den Staat "vollbewusst […] auf Blut und Boden abgestellt" habe.[^family1] Bereits im Juni 1933 wurde Lutz Heck ein Fördermitglied der Schutzstaffel (SS).[^family2] Solche Fördermitglieder unterstützten die Parteiorganisation SS der NSDAP unter Heinrich Himmler mit regelmäßigen Spenden. Im Gegenzug bekamen sie Anstecknadeln für das Revers, mit dem sie ihre Loyalität zum Regime bekunden konnten.
 Früh war Lutz Heck zudem auf privater Ebene mit dem preußischen Ministerpräsidenten und Reichsluftfahrtminister, ab 1934 auch "Reichsforstmeister" und "Reichsjägermeister" [[material.Hermann Göring]] bekannt. Seit der ersten Begegnung 1933 im Staatsjagdgebiet Hubertusstock in der [[material.Schorfheide]] schmiedeten Göring und Heck Pläne für die Auswilderung von Wisenten, auch um den Jagddrang des neuen zweiten Mannes im Staate zu befriedigen.[^family3] Gleichzeitig bot sich Heck dem Regime in jeglicher Form an. Seine Bücher und Veröffentlichungen priesen aus der Perspektive des Wildschutzes die Gesetzesbeschlüsse des NS-Staates.[^family4] Auch unternahm er 1935 "im Auftrage des Reichsforst- und Reichsjägermeister[s] Hermann Göring, der deutschen Jägerschaft und des Zoologischen Gartens" eine Expedition nach Kanada.[^family5] Göring wurde auf Hecks Betreiben zum Fachschaftsführer der Fachschaft Deutsche Bracken Olpe, also eines Zuchtvereins für Jagdhunde, ernannt.[^family6] Sicherlich eine Randnotiz, aber dennoch geeignet, den passionierten Jäger Göring für sich einzunehmen. Lutz Heck stellte Göring junge Löwen als Haustiere zur Verfügung, die er zurücknahm, wenn sie dem "Streichelalter" entwachsen waren.[^family7]
-
-![Hermann Göring, Lutz Heck und einige andere Menschen im Berliner Zoo](images\cmw\Göring_March_1942_Zoo_Heck.jpg)
-Hermann Göring (Bildmitte mit hellem Mantel) besucht 1942 den Zoo und spricht mit Lutz Heck (Bildmitte mit dunklem Mantel). (AZGB)
 
 Etwa zur gleichen Zeit begann der Zoodirektor auf Wunsch Hermann Görings mit der Intensivierung der Wisentzucht. Göring hatte im Januar 1934 im Kreise einiger Forstbeamten seine Pläne für die Schorfheide vorgestellt. Hier wollte er ein großes Naturschutzgebiet einrichten, in dem er zugleich das größte Landsäugetier Europas jagen wollte. Vielleicht sah er sich in Gedanken bereits als neuer Siegfried, der wie im Nibelungenlied Wisente stach. Für Lutz Heck war der Wunsch des Ministerpräsidenten Befehl, und er entschied sich, mittels einer 'Verdrängungszucht' mit dem nächsten Verwandten des Wisents, dem nordamerikanischen Bison, seine Herde aus dem Zoo möglichst schnell zu vermehren, um Göring entgegenzukommen.[^family8]
 
@@ -74,8 +68,12 @@ In der folgenden Nacht ermordeten Nationalsozialisten in ganz Deutschland in ein
 
 ## Der Zoo im Krieg
 
-Kurz nach dem deutschen Angriff aus Polen verfügte Hermann Göring am 14. September 1939, dass Zoologische Gärten auch im Krieg zur Erfüllung ihrer volksbildnerischen Aufgaben offen zu bleiben hätten.(Aufsichtsratsprotokoll, 16.12.1939, AZGB O 0/2/2)
-Überall im Zoo wurden Luftschutzräume eingerichtet und Vorkehrungen gegen ausbrechende Tiere getroffen.(Bauzeichnungen und -anträge in LAB A Rep. 032-08, Nr. 293; vgl. auch Lutz Heck, Tiere - mein Abenteuer. Erlebnisse in Wildnis und Zoo, Wien 1954, S. 97-102; Rede L. Heck auf der Hauptversammlung 1940, AZGB O 0/3/13; Notiz zum Geschäftsbericht für das Jahr 1941, AZGB O 0/3/12)
+Die stetige Anpassung und Anbiederung an das nationalsozialistische Regime sollte sich für den Berliner Zoodirektor und seinen Zoo unter den Bedingungen des Krieges auszahlen. Nicht nur im Einsatz von Zwangsarbeitern als Ersatz für die zur Wehrmacht eingezogenen Mitarbeiter profitierte der Zoo von den Netzwerken seines Direktors und der Aufsichtsräte, auch in Sachen Futtermittel half das Regime. 
+Es begann damit, dass der Zoo in Berlin zu Beginn des Krieges als 'kriegswichtig' eingestuft wurde und somit einzelne Mitarbeiter vom Wehrdienst freigestellt werden konnten. Kurz nach dem deutschen Angriff aus Polen verfügte Hermann Göring am 14. September 1939, dass Zoologische Gärten auch im Krieg zur Erfüllung ihrer volksbildnerischen Aufgaben offen zu bleiben hätten.[^war1] Er bot eine vom Regime gewünschte Möglichkeit der Zerstreuung für die Bevölkerung. 
+
+Überall im Zoo wurden nun Luftschutzräume eingerichtet und Vorkehrungen gegen ausbrechende Tiere getroffen.[^war2] Für die Besucher\*innen und Mitarbeiter\*innen wurde am Eingang Elefantentor in der Mitte der Promenade ein Luftschutzraum unter den Rabatten angelegt. Nördlich des Zoos stand zudem ab Frühjahr 1941 der mächtige Flakturm 'Zoobunker' der mehreren Tausen Menschen Schutz bieten konnte.
+
+![Lageplan des Zoos von 1940](images\cmw\Zooplan 1943_0001.jpg)
 
 Andere Zoos wurden selbstverständlich nicht geschützt. Laut den Erinnerungen der Ehefrau des Warschauer Zoodirektors Jan Zabinski, Antonina Zabinska, kam Lutz Heck direkt nach der Besetzung Warschaus in die Stadt und ordnete die Verlegung der schönsten Tiere in andere Zoos im Reichsgebiet an. Dann leitete er im Auftrag des nationalsozialistischen Regimes die Liquidation des Warschauer Zoologischen Gartens ein.(Bruce: Through the Lion Gate, S. 164 mit Berufung auf die Memoiren der Ehefrau des Zoodirektors Antonina Zabinska, S. 164.) Auch anderswo bediente er sich. Die SS überwies dem Zoo in der ersten Jahreshälfte 1940 polnischer »Panjepferde«. Lutz Heck plante, sie mit »Waldpferden« zu kreuzen, wahrscheinlich im Rahmen der Rückzüchtungsversuche des ausgestorbenen Tarpans, die er wie beim Auerochsen mit seinem Bruder Heinz in München unternahm. (Aufsichtsratsprotokoll, 30.07.1940, AZGB O 0/2/2.) Auch bei der von Gewalttaten und Pogromen begleiteten Räumung des letzten verbliebenen europäischen Urwalds von Bialowies im Auftrag des Reichsjägermeister Hermann Göring wirkte Lutz Hecks Behörde mit und ließe er sich Pferde stehlen. (Andreas Gautschi: Der Reichsjägermeister. Fakten und Legenden um Hermann Göring, Melsungen 2010; Heinrich Rubner: Deutsche Forstgeschichte, 1933-1945. Forstwirtschaft, Jagd und Umwelt im NS-Staat, St. Katharinen 21997; Kopie Vereinbarung zwischen dem Reichskommissar für die Festigung deutschen Volkstums - Stabshauptamt und dem Reichsforstmeister als Oberster Naturschutzbehörde über die Ausführung der Besprechung vom 20. März 1942, 11.05.1942, BArch, R 49/2066; Schriftwechsel mit dem Britischen Kommandanten Tiergarten Lt. Col. Nunn im Dezember 1945, AZGB S 15/17; Alte Tierkartei, Karteikarte »Panjepferde«.)
 
@@ -84,6 +82,10 @@ Andere Zoos wurden selbstverständlich nicht geschützt. Laut den Erinnerungen d
 Um den durch die Einberufungen von Mitarbeitern bedingten Personalmangel abzufedern beutete der Zoo Zwangsarbeiter aus. Zunächst waren das polnische, dann französische Kriegsgefangene.  Hinzu kamen spätestens im Spätsommer 1941 sogenannte Ostarbeiter aus der Sowjetunion. Im letzten Kriegsjahr kamen dann dauerhaft 40 sogenannte Italienische Militärinternierte hinzu. Auch für andere deutsche Zoos ist der Einsatz von Zwangsarbeitern belegt. Der Zoo der Reichshauptstadt genoss einen so hohen Stellenwert, dass ihm wohl eine große Anzahl zugewiesen wurde.[^labour1]
 
 ### Futtermittel
+
+![Hermann Göring, Lutz Heck und einige andere Menschen im Berliner Zoo](images\cmw\Göring_March_1942_Zoo_Heck.jpg)
+Hermann Göring (Bildmitte mit hellem Mantel) besucht 1942 den Zoo und spricht mit Lutz Heck (Bildmitte mit dunklem Mantel). (AZGB)
+
 
 ## Zerstörung
 
@@ -158,3 +160,7 @@ Die überlebenden Löwen des Zoos liegen vor der Kulisse des zerstörten Aquariu
 [^share3]: Zessionspapiere im Archiv der Zoologischen Gärten Berlin.
 
 [^share4]: Aufsichtsratsprotokoll, 08.11.1938, AZGB O 0/2/2.
+
+[^war1]: Aufsichtsratsprotokoll, 16.12.1939, AZGB O 0/2/2.
+
+[^war2]: Bauzeichnungen und -anträge in LAB, A Rep. 032-08, Nr. 293; vgl. auch Heck, Lutz. 1954. Tiere - mein Abenteuer. Erlebnisse in Wildnis und Zoo. Wien: Ullstein, S. 97-102; Rede L. Heck auf der Hauptversammlung 1940, AZGB O 0/3/13; Notiz zum Geschäftsbericht für das Jahr 1941, AZGB O 0/3/12.
