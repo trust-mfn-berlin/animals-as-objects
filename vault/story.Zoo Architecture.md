@@ -2,7 +2,7 @@
 id: e47d02d6-04d0-4cee-9dd9-41600707ed5a
 title: Zoo Architecture
 desc: Put a description of this note here...
-updated: 1620073997220
+updated: 1620136037488
 created: 1619798990411
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -40,4 +40,5 @@ published: false
 
 ![desc](images/cmw/BrehmHaus_Magirus_1965.jpg)
 
-![Das innere des Flusspferdhauses](images/cmw/Flussspferdhaus_2019.jpg)
+![Das Innere des Flusspferdhauses](images/cmw/Flussspferdhaus_2019.jpg)
+Dass Innere des Flusspferdhauses, 2019. (Clemens Maier-Wolthausen)

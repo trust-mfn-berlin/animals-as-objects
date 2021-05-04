@@ -2,7 +2,7 @@
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 title: Nazi Zoo
 desc: ''
-updated: 1620135819550
+updated: 1620136766188
 updated: 1620075174598
 created: 1619020958263
 title_de: Der Zoo im Nationalsozialismus
@@ -73,9 +73,17 @@ Es begann damit, dass der Zoo in Berlin zu Beginn des Krieges als 'kriegswichtig
 
 Überall im Zoo wurden nun Luftschutzräume eingerichtet und Vorkehrungen gegen ausbrechende Tiere getroffen.[^war2] Für die Besucher\*innen und Mitarbeiter\*innen wurde am Eingang Elefantentor in der Mitte der Promenade ein Luftschutzraum unter den Rabatten angelegt. Nördlich des Zoos stand zudem ab Frühjahr 1941 der mächtige Flakturm 'Zoobunker' der mehreren Tausen Menschen Schutz bieten konnte.
 
-![Lageplan des Zoos von 1940](images\cmw\Zooplan 1943_0001.jpg)
+![Lageplan des Zoos von 1940](images\cmw\Zooplan_1943_0001.jpg)
+Lageplan des Zoos um 1940. Am südlichen Eingang 'Elefantentor' sowie nordwestlich des Zoos sind die Luftschutzanlagen zu sehen. (AZGB)
 
-Andere Zoos wurden selbstverständlich nicht geschützt. Laut den Erinnerungen der Ehefrau des Warschauer Zoodirektors Jan Zabinski, Antonina Zabinska, kam Lutz Heck direkt nach der Besetzung Warschaus in die Stadt und ordnete die Verlegung der schönsten Tiere in andere Zoos im Reichsgebiet an. Dann leitete er im Auftrag des nationalsozialistischen Regimes die Liquidation des Warschauer Zoologischen Gartens ein.(Bruce: Through the Lion Gate, S. 164 mit Berufung auf die Memoiren der Ehefrau des Zoodirektors Antonina Zabinska, S. 164.) Auch anderswo bediente er sich. Die SS überwies dem Zoo in der ersten Jahreshälfte 1940 polnischer »Panjepferde«. Lutz Heck plante, sie mit »Waldpferden« zu kreuzen, wahrscheinlich im Rahmen der Rückzüchtungsversuche des ausgestorbenen Tarpans, die er wie beim Auerochsen mit seinem Bruder Heinz in München unternahm. (Aufsichtsratsprotokoll, 30.07.1940, AZGB O 0/2/2.) Auch bei der von Gewalttaten und Pogromen begleiteten Räumung des letzten verbliebenen europäischen Urwalds von Bialowies im Auftrag des Reichsjägermeister Hermann Göring wirkte Lutz Hecks Behörde mit und ließe er sich Pferde stehlen. (Andreas Gautschi: Der Reichsjägermeister. Fakten und Legenden um Hermann Göring, Melsungen 2010; Heinrich Rubner: Deutsche Forstgeschichte, 1933-1945. Forstwirtschaft, Jagd und Umwelt im NS-Staat, St. Katharinen 21997; Kopie Vereinbarung zwischen dem Reichskommissar für die Festigung deutschen Volkstums - Stabshauptamt und dem Reichsforstmeister als Oberster Naturschutzbehörde über die Ausführung der Besprechung vom 20. März 1942, 11.05.1942, BArch, R 49/2066; Schriftwechsel mit dem Britischen Kommandanten Tiergarten Lt. Col. Nunn im Dezember 1945, AZGB S 15/17; Alte Tierkartei, Karteikarte »Panjepferde«.)
+Der 1938 fertiggestellte neue Steinbockfelsen war von vornherein so gebaut worden, dass das Innere als Luftschutzraum genutzt werden konnte. Allerdings wurde er als nicht gasdicht angesehen und daher nicht offiziell als solcher genutzt.
+
+![Steinbockfelsen im Zoo um 1940](images\cmw\Steinbockfelsen_um_1940.jpg)
+Unter dem Steinbockfelsen von 1938 war ein Luftschutzraum für 150 Menschen geplant. (AZGB)
+
+Zudem wurden Notfallpläne erarbeitet, wie im Fall eines Bombenangriffs ausbrechende Tiere eingefangen oder getötet werden sollten. Eine Zoofeuerwehr und Beobachtungsposten in Erdbunkern sollten mit Netzen und gewehren bewaffnet bei Bombenangriffen eingreifen. Diese Notfallpläne wurden später auch von anderen Zoos übernommen. In Berlin waren sie der Grund dafür, dass keine Raubtiere oder oder andere als gefährlich angesehene Tiere vorsorglich getötet wurden oder entkamen. Berichte über Zootiere, die über den Kurfürstendamm huschen sind getrost ins reich der Mythen zu verbannen.[^war3]
+
+Andere Zoos wurden selbstverständlich nicht geschützt. Laut den Erinnerungen der Ehefrau des Warschauer Zoodirektors Jan Zabinski, Antonina Zabinska, kam Lutz Heck direkt nach der Besetzung Warschaus in die Stadt und ordnete die Verlegung der schönsten Tiere in andere Zoos im Reichsgebiet an. Dann leitete er im Auftrag des nationalsozialistischen Regimes die Liquidation des Warschauer Zoologischen Gartens ein.[^war4] Auch anderswo bediente er sich. Die SS überwies dem Zoo in der ersten Jahreshälfte 1940 polnischer »Panjepferde«. Lutz Heck plante, sie mit »Waldpferden« zu kreuzen, wahrscheinlich im Rahmen der Rückzüchtungsversuche des ausgestorbenen Tarpans, die er wie beim Auerochsen mit seinem Bruder Heinz in München unternahm. (Aufsichtsratsprotokoll, 30.07.1940, AZGB O 0/2/2.) Auch bei der von Gewalttaten und Pogromen begleiteten Räumung des letzten verbliebenen europäischen Urwalds von Bialowies im Auftrag des Reichsjägermeister Hermann Göring wirkte Lutz Hecks Behörde mit und ließe er sich Pferde stehlen. (Andreas Gautschi: Der Reichsjägermeister. Fakten und Legenden um Hermann Göring, Melsungen 2010; Heinrich Rubner: Deutsche Forstgeschichte, 1933-1945. Forstwirtschaft, Jagd und Umwelt im NS-Staat, St. Katharinen 21997; Kopie Vereinbarung zwischen dem Reichskommissar für die Festigung deutschen Volkstums - Stabshauptamt und dem Reichsforstmeister als Oberster Naturschutzbehörde über die Ausführung der Besprechung vom 20. März 1942, 11.05.1942, BArch, R 49/2066; Schriftwechsel mit dem Britischen Kommandanten Tiergarten Lt. Col. Nunn im Dezember 1945, AZGB S 15/17; Alte Tierkartei, Karteikarte »Panjepferde«.)
 
 ### Zwangsarbeit
 
@@ -164,3 +172,7 @@ Die überlebenden Löwen des Zoos liegen vor der Kulisse des zerstörten Aquariu
 [^war1]: Aufsichtsratsprotokoll, 16.12.1939, AZGB O 0/2/2.
 
 [^war2]: Bauzeichnungen und -anträge in LAB, A Rep. 032-08, Nr. 293; vgl. auch Heck, Lutz. 1954. Tiere - mein Abenteuer. Erlebnisse in Wildnis und Zoo. Wien: Ullstein, S. 97-102; Rede L. Heck auf der Hauptversammlung 1940, AZGB O 0/3/13; Notiz zum Geschäftsbericht für das Jahr 1941, AZGB O 0/3/12.
+
+[^war3]: Vgl. Maier-Wolthausen. Hauptstadt der Tiere, S. 118-129.
+
+[^war4]: Bruce, Gary. 2017. Through the Lion Gate. A History of the Berlin Zoo. Oxford: Oxford University Press, S. 164 mit Berufung auf die Memoiren der Ehefrau des Zoodirektors Antonina Zabinska.
