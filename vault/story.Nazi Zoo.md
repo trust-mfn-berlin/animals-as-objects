@@ -2,7 +2,7 @@
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 title: Nazi Zoo
 desc: ''
-updated: 1620142396648
+updated: 1620144650324
 updated: 1620075174598
 created: 1619020958263
 title_de: Der Zoo im Nationalsozialismus
@@ -71,7 +71,12 @@ Der Aufsichtsrat beschloss im Juli 1938 aber, die gesetzlich erlaubten zehn Proz
 
 Nach dem Novemberpogrom 1938 versuchten die letzten verbliebenen jüdischen Aktionäre, ihre Wertpapiere zu verkaufen. Etwa 100 Aktien von jüdischen Besitzer\*innen hat der Zoo erworben und an »arische Besitzer weitergegeben«.[^share1] Die wenigen dokumentierten Zwischenverkäufe aus jenen Monaten zeigen, dass der Zoo versucht hat, an diesen Transaktionen zu verdienen, indem er zu einem Niedrigpreis kaufte, die Aktie aber zu einem höheren Preis verkaufte.[^share3]
 
-Am 8. November 1938 beschloss der Aufsichtsrat schliesslich, dass zum kommenden Weihnachtsfest an der Weihnachtskrippe Hinweise angebracht werden sollteb, dass Juden dort unerwünscht seien. Ab 1. Januar 1939 sollten solche Schilder auch an den Eingängen hängen.[^share4]
+Am 8. November 1938 beschloss der Aufsichtsrat schliesslich, dass zum kommenden Weihnachtsfest an der Weihnachtskrippe Hinweise angebracht werden sollten, dass Juden dort unerwünscht seien. Jüdische Kinder sollten nach Anregung des Aufsichtsratsmitglieds SS-Brigadeführers Ewald von Massow nicht mehr auf dem allgemeinen Spielplatz spielen dürfen. Ab 1. Januar 1939 sollten solche Schilder auch an den Eingängen hängen.[^share4]
+
+>[...] diese Schilder könne man dann am 1. Januar offiziell an alle Eingänge stellen.
+
+Aus dem Protokoll der Aufsichtsratssitzung vom 8. November 1938. (AZGB, O 0/2/2).
+
 In der folgenden Nacht ermordeten Nationalsozialisten in ganz Deutschland in einem organisierten Pogrom Hunderte jüdische Deutsche und zerstörten Existenzen und Synagogen. Die Schuld für die geplanten und zentral kkordinierten Ausschreitungen gaen die nationalsozialisten den deutschen Juden und Jüdinnen. Der Berliner Polizeipräsident verbot ihnen in den folgenden Tagen den Besuch von Vergnügungsstätten. Die von der Zooleitung geplanten Maßnahmen nahmen die offizielle Politik vorweg.
 
 ## Der Zoo im Krieg
