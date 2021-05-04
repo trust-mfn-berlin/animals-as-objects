@@ -1,11 +1,11 @@
 ---
 id: 1a9793b7-746f-4a58-bfa2-54596b72b4bc
 title: Oskar Heinroth
-desc: Put a description of this note here...
-updated: 1619798897970
+desc: Short biography of Oscar Heinroth
+updated: 1620162076311
 created: 1618503001471
 title_de: Oskar Heinroth
-desc_de: Put a DE description of this note here...
+desc_de: Kurze Biografie von Oskar Heinroth
 author: CMW
 tao_type: material
 cover_image: null
@@ -19,7 +19,18 @@ English content goes here.
 
 :::DE:::
 
-German content goes here.
+![Oskar Heinroth mit drei Uralkäuzen](images/cmw/O_Heinroth_Uralkaeuzen_1929.jpg)
+Oskar Heinroth mit drei von ihm großgezogenen Uralkäuzen, 1929. (AZGB)
 
-![Oskar Heinroth mit drei Uralkäuzen](images\cmw\O_Heinroth_Uralkaeuzen_1929.jpg)
+**Oskar August Heinroth** (1871-1945) beschäftigte sich seit seiner frühen Jugend mit Tieren. Eine Pockenerkrankung im Säuglingsalter hinterließ eine starke Seheinschränkung. Heinroth **studierte Medizin und promovierte 1895 in Kiel** in dem Fach. Dort nutzte er aber seine Freizeit für **Tierbeobachtungen**. Ab 1896 lebte er Berlin und arbeite teils unentgeldlich für den **Zoologischen Garten und in der Vogelabteilung des Zoologischen Museums.** [[story.Short History MfN]] Er bestimmte große Teile von dessen Vogelsammlung neu. Viele seiner dort gemachten Erfahrungen flossen in eine grundlegende Abhandlung über die Mauser der Vögel (1898) ein.
+
+1900 begleitete er Bruno Mencke auf dessen privat finanzierter Expedition in den südlichen Pazifik. Die Expedition scheiterte und Mencke wurde auf der Insel Sankt Matthias nach einem Konflikt mit der Lokalbevölkerung getötet. Heinroth entkam verwundet und brachte die verbliebenen Teilnehmer und die gesammelten Objekte nach Berlin zurück.
+
+**1904 wurde er Assistent am Berliner Zoo** unter dem Direktor [[material.Ludwig Heck]]. Dieser übertrug ihm **1911 die Aufgabe das Aquarium zu bauen**. [[story.Short History Aquarium]] Heinroth gestaltete es nach eigenen Plänen. Bald nach dessen Eröffnung im August 1913 war es bereits das wichtigste Haus seiner Art. 
+
+**In der im Aquarium gelegenen Dienstwohnung zogen Heinroth und seine Frau Magdalena bis 1932 praktisch alle einheimischen Vögel aus Eiern bis ins adulte Stadium groß, dokumentierten ihr Wachstum und beobachteten ihr Verhalten.** Daraus entstand das zwischen 1924 und 1933 in vier Bänden veröffentlichte Werk: Die Vögel Mitteleuropas in allen Lebens- u. Entwicklungsstufen photogr. aufgenommen u. in ihrem Seelenleben bei d. Aufzucht vom Ei ab beobachtet.
+
+**Oskar Heinroth gilt als einer der Begründer der vergleichenden Verhaltensforschung** (Ethologie). Der talentierte Fotograf und humorvolle Wissenschaftler verstand es allgemeinverständlich die Ergebnisse seiner Forschung aufzuarbeiten. Zusammen mit seiner zweiten Ehefrau [[material.Katharina Heinroth]] setzte er seine Forschungen fort.
+
+
 

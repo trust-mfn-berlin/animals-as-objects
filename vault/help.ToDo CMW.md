@@ -2,10 +2,10 @@
 id: 21ac115b-15e0-4af9-a4ed-fdd3d29c313d
 title: ToDo CMW
 desc: ''
-updated: 1619705402597
+updated: 1620164031232
 created: 1618495172862
 ---
-# Empty Backlinks
+## Empty Backlinks
 
 * [[material.habitat]]
 * [[material.German East Afrika]]
@@ -34,37 +34,41 @@ created: 1618495172862
 * [[material.WAZA]]
 * [[material.Tanganjika]]
 * [[story.Zoo Veterinary Medicine]]
+* [[material.Lioness Heinrich]]
+* [[material.German East Afrika]]
 
-# ToDo
+## ToDo
 
-## Fragen
+#### Fertigstellen
 
-* [x] Footnotes
-* [x] Chicago, which one?
-* [x] Archivverzeichnis? Das macht die Footnotes kleiner. Rather stick to the way we do it in print
-* [x] Word count in Dendron
-* [x] always put a backlink when the term pops up in a text? No, only in the first instance and if it is important for us
-
-## Fertigstellen
-
-* [[story.Nazi Zoo]]
-* [[material.Wissmann-Lion]]
+* [[story.Nazi Zoo]] - noch Bilder
 * [[story.Knut]]
 
-## Umarbeiten
+### Umarbeiten
 
 [[story.Zoos and Conservation]] noch zuviel Buchmanuskript drin
 [[story.Enrichment Training]] noch zuviel Buchmanuskript drin
-[[story.Nazi Zoo]] testfussnoten ändern
+
+## Bilder besorgen
+
+### Bilder Zoo
+
+- [ ] Schorfheide mit Göring
+- [ ] Deutscher Zoo
+- [ ] Toter Bobby
+- [ ] Zeitungsausschnitte Gewicht
+
+### Bilder MfN
+
+- [ ] Knut präpariert
+- [ ] Bobby präpariert
 
 ## Todos the others
 
-### Mareike
 
-* [ ]
-* [ ]
+## "Fertig"
 
-### Filo
-
-* [ ]
-* [ ]
+- [[material.Hermann Wissmann]]
+- [[material.Wissmann-Lion]]
+- [[story.Nazi Zoo]]
+- [[material.Oskar Heinroth]]

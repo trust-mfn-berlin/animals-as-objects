@@ -2,7 +2,7 @@
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 title: Exhibiting
 desc: Put a description of this note here...
-updated: 1620074859831
+updated: 1620163759788
 created: 1618572893774
 title_de: Tiere ausstellen
 desc_de: Wie und warum werden Tiere in Zoos und Museen ausgestellt?
@@ -46,6 +46,8 @@ Hier gab es Überschneidungen mit den traditionellen Zoos. Besucher\*innen des B
 [[story.Enclosure development]]
 
 ## Starobjekte
+[[story.Bobby life]]
+[[story.Knut]]
 
 ### Quagga
 

@@ -2,7 +2,7 @@
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 title: Nazi Zoo
 desc: ''
-updated: 1620144650324
+updated: 1620159602659
 updated: 1620075174598
 created: 1619020958263
 title_de: Der Zoo im Nationalsozialismus
@@ -40,7 +40,7 @@ Der Aufsichtrat der Zoologischer Garten Berlin AG zu Besuch im Zoo, 1942. Lutz H
 
 Dem Zoo ging es auch nach 1933 blendend. Dazu trug bei, dass er schon im Mai 1933 Ermäßigungen für Mitglieder nationalsozialistischer Organisationen gab. Kurz zuvor hatte sich der Zooaufsichtsrat noch vehement gegen Preisnachlässe aus sozialen Gründen gesperrt. Ausschließlich  Nun ging er darauf ein, entweder weil man sich bei den neuen Machthabern beliebt machen wollte, oder weil es Sympathien gab. Nun konnten Mitglieder der NSDAP, des Nationalsozialistischen Kraftfahrerkorps, der Sturmabteilung (SA), der Schutzstaffel (SS) und der deutschnationalen Wehrorganisation "Der Stahlhelm" billiger in den Zoo.[^propa1] Im folgenden Jahr senkte die Zooleitung dann die Preise für alle Besucher\*innen, "entsprechend den Zielen der nationalsozialistischen Staatsführung". (Zoologischer Garten Berlin, 1934, Geschäftsbericht für das Jahr 1933) 1935 konnte er wohl auch, dank einer Vereinbarung mit der NS-Freizeitorganisation 'Kraft durch Freude' einen großen Besucheransturm verbuchen
 
-![Eintrittskarte für den Zoo](images\cmw\Kdf_Eintrittskarte.jpg)
+![Eintrittskarte für den Zoo](images/cmw/Kdf_Eintrittskarte.jpg)
 Eintrittskarte für den "Kraft durch Freude"- Tag im Zoo, 1936. (AZGB)
 
 Lutz Hecks koloniale Ambitionen zeigten sich nicht zuletzt in der Unterstützung einer "Kolonial-Kunst-Ausstellung" in den Ausstellungshallen am Zoo 1933 wo er einen Nachbau des Zeltlagers seiner afrikanischen Expeditionen zeigte.[^propa9] Im Sommer 1934 veranstaltete der Zoo zum Kolonialgedenktag einen "Kolonialen Volkstag". In einer Presseführung wurden die Reporter zu "Deutschen
