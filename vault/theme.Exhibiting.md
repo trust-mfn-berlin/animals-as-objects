@@ -2,7 +2,7 @@
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 title: Exhibiting
 desc: Put a description of this note here...
-updated: 1620028109547
+updated: 1620074859831
 created: 1618572893774
 title_de: Tiere ausstellen
 desc_de: Wie und warum werden Tiere in Zoos und Museen ausgestellt?
@@ -51,7 +51,17 @@ Hier gab es Überschneidungen mit den traditionellen Zoos. Besucher\*innen des B
 
 ### Dinosauerier
 
-### Restaurants und Konzerte
+### Restaurants und Konzerte und Sonderschauen
+
+Bereits im Eröffnungsjahr beklagten sich Besucher\*innen darüber, dass es keine Restauration im Zoo gab. Der Gründungsdirektor Martin Lichtenstein beruhigte die Kritiker in einem Brief an die XXXXX Zeitung, dass sich Restaurationen im Bau befänden. Nun lag der Zoo damals noch weit vor den Toren der Stadt und kamen die Gäste möglicherweise durstig an, und dennoch zeigt diese Episode bereits, dass die Berliner\*innen mehr als nur Tiere erwarteten.
+
+<!-- hier die Zeitung eintragen -->
+
+Von Anfang an gehörten Restaurationen, die Möglichkeit, sich zu treffen und Geselligkeit dazu.
+
+- Lästerallee
+- Große Restauration
+- Champagner vs. Bier
 
 
 
