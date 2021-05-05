@@ -2,7 +2,7 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1620232619777
+updated: 1620236142793
 created: 1618576718116
 title_de: Knut
 desc_de: Put a DE description of this note here...
@@ -118,9 +118,6 @@ Letztlich wurde Knut präpariert und ist sein Präparat heute  im Museum für Na
 
 ![desc](images\cmw\130220_Knut_Foyer_03.jpg)
 *Carola Radke, MfN 2013*
-
-
-
 
 ## Knut forever
 
