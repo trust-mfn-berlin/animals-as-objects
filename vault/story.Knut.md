@@ -2,7 +2,7 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1620231890097
+updated: 1620232340589
 created: 1618576718116
 title_de: Knut
 desc_de: Put a DE description of this note here...
@@ -113,6 +113,11 @@ Dem Zoodirektor hatte einige bereits zuvor vorgeworfen, seinen Schützling nicht
 
 Letztlich wurde Knut präpariert und ist sein Präparat heute  im Museum für Naturkunde zu sehen.
 
+![desc](images\cmw\130125_Knut_11.jpg)
+
+![desc](images\cmw\130220_Knut_Foyer_03.jpg)
+
+
 
 
 ## Knut forever
@@ -127,7 +132,9 @@ Die unzähligen Kommentare und Reaktionen auf den Post bewiesen, dass Zoobesuche
 
 ![desc](images\cmw\Dorfleinpost_220920_Komentarspalte.PNG)
 
-Am Beispiel "Knuts" 
+Am Beispiel "Knuts" lässt sich möglicherweise eine erst seit dem Ende des 20. Jahrhunderts wachsende Sichtweise auf Zootiere und Museumsobjekte ausmachen. Es scheint 1935 keinerlei Kritik - auch wenn sich die Quellen zwischen einer funktionierenden Zivilgesellschaft einer Demokratie und der einer Diktatur nicht vergleichen lassen - an einer Ausstellung des damals höchst beliebten Gorilla "Bobby" [[story.Bobby life]] gegeben zu haben. Dessen Totenmaske hing passenderweise im Präparierraum des Naturkundemuseums.
+
+![desc](images\cmw\130114_Knut_06.jpg)
 
 -----
 ## Footnotes
