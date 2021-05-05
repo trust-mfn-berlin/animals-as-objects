@@ -1,13 +1,13 @@
 <template>
   <nav>
     <nuxt-link :to="rootUrl">Home</nuxt-link>
-    <nuxt-link :to="swapUrl + $route.params.slug">{{siteLangSwap}}</nuxt-link>
+    <nuxt-link :to="switchUrlComposed">{{siteLangSwap}}</nuxt-link>
   </nav>
 </template>
 
 <script>
 export default {
-  name:'nav',
+  name:'navigation',
   computed:{
     siteLang(){
       return this.$store.getters.siteLanguage
@@ -26,12 +26,23 @@ export default {
         return '/de/'
       }
     },
-    swapUrl(){
+    switchUrl(){
       if(this.siteLang == 'en' ){
         return '/de/'
       } else {
         return '/'
       }
+    },
+    switchUrlComposed(){
+      // const url = this.$route.fullPath == '/' || this.$route.fullPath == '/de/' ? null : this.$route.params.slug
+      // const url = this.$route.params.slug ? this.$route.params.slug : 
+
+        if(this.$route.params.slug){
+          return this.switchUrl + this.$route.params.slug
+        } else {
+          return this.switchUrl + this.$route.fullPath.replace(this.rootUrl, '')
+        }
+
     }
   }
   
