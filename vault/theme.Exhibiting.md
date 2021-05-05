@@ -2,7 +2,7 @@
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 title: Exhibiting
 desc: Put a description of this note here...
-updated: 1620163759788
+updated: 1620232822997
 created: 1618572893774
 title_de: Tiere ausstellen
 desc_de: Wie und warum werden Tiere in Zoos und Museen ausgestellt?
@@ -67,11 +67,11 @@ Von Anfang an gehörten Restaurationen, die Möglichkeit, sich zu treffen und Ge
 
 
 
-### "Bobby"
-
-### "Knut"
+## Die Stars: "Bobby", "Knut" oder "Viktor"
 
 [[story.Knut]]
+
+
 
 ## Kinderzoo
 
