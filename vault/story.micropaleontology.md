@@ -2,7 +2,7 @@
 id: df37d6fb-33ac-4b34-bc21-3401db3aac52
 title: Micropaleontological Formations
 desc: Micropaleontology is the scientific study of microfossils, fossils that are microscopic in size and are not visible to the naked eye.
-updated: 1620142543727
+updated: 1620218223019
 created: 1618502886244
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -49,7 +49,7 @@ As this field began to venture further at sea in the postwar period, it also und
 ##Of microbes and planets
 Building on the success of industrial micropaleontology, the reorganization of this field in the postwar period was also part of broader changes that had already begun to radically tranform the sciences since the second World War. This transformation, usually characterized as the advent of [[material.big science]], is well examplified by the field of science that was to become a model for all other discipline:  [[material.nuclear physics]]. In fact, the increasingly large investments required for technoscientific projects, combined with the growing involvement of national governments and military funding and administration that characterized the famous Manhattan Project - which developed the atom bomb for the USA - were to become staples of postwar science. 
 
-[[theme.planetary data]], [[material.NSB]], [[material.cycladophora davisiana]], [[material.big science]], [[material.big data]], [[material.gaia theory]]
+[[theme.planetary data]], [[material.NSB]], [[story.cycladophora davisiana]], [[material.big science]], [[material.big data]], [[material.gaia theory]]
 
 [^micropaleontology1]: This is clear in the title of an important article in this field from the 1980s: Lipps, Jere H. "What, If Anything, Is Micropaleontology?" _Paleobiology_ 7, no. 2 (1981): 167-99. Accessed April 20, 2021. http://www.jstor.org/stable/2400472. And in a more recent reprise: Martin, Ronald E. "What, if anything, is environmental micropaleontology?." _Microbiology_ 1 (2004): 1-10.
 [^micropaleontology2]: The impact of these early descriptions is quantified in Lazarus, David. "The legacy of early radiolarian taxonomists, with a focus on the species published by early German workers." _Journal of Micropalaeontology_ 33, no. 1 (2014): 3-19.
