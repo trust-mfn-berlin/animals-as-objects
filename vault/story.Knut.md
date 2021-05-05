@@ -41,7 +41,8 @@ Die beiden waren ein Team wie für die Medien gemacht. Hier die tapsige weiße F
 
 ## Die Marke Knut
 
-Um das rege Interesse an dem Bären zu nutzen, schuf der Zoo bald eine Marke, unter der lizensierte Produkte zum Verkauf angeboten wurden, deren Erlöse auch Artenschutzprojekten zugutekommen sollten.[^trademark1] Bundesumweltminister Sigmar Gabriel wurde offizieller Pate des kleinen Eisbären, um auf den menschengemachten globalen Klimawandels aufmerksam zu machen.[^trademark2] Im Frühjahr 2008 kam sogar ein Film über den jungen Eisbären und andere Tiere in die Kinos.[^trademark3] 
+Der Zoo wollte das rege Interesse an dem Bären nutzen, finanziell und auch für den Artenschutz. Er schuf eine Marke, unter der lizensierte Produkte zum Verkauf angeboten wurden. Die Erlöse kamen auch Artenschutzprojekten zugute.[^trademark1] Der damalige Bundesumweltminister Sigmar Gabriel wurde offizieller Pate des kleinen Eisbären. Das sollte helfen, auf den menschengemachten globalen Klimawandels aufmerksam zu machen.[^trademark2] Im Frühjahr 2008 kam sogar ein Film über den jungen Eisbären und andere Tiere in die Kinos.[^trademark3] Die deutsche Ausgabe des Magazins 'XXXX' hob "Knut" auf ihre Titelseite, die amerikanische zeigte ihn in einer Fotomontage zusammen mit Filmstar Leonardo di Caprio, der in jenem Jahr einen Film über den menschengemachten Klimawandel produziert hatte, auf einer Eisscholle.
+"Knut" zog auch, als er nach einigen Monaten schon ein Eisbär-"Teenager" wurde viele Schaulistige an. Als Zoodirektor Bernhard Blaszkiewitz die Entscheidung traf, Pfleger Thomas Dörflein aus Sicherheitsgründen den Nahkontakt mit dem nun bereits gefährlichen Bären zu untersagen, wurde dieses von Dörflein und den "Knutfans" kritisiert.
 
 ## Knut stirbt
 
