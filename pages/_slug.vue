@@ -25,6 +25,9 @@ export default {
   },
   computed:{
   },
+  created(){
+    this.$store.commit('setSiteLanguage', 'en')
+  },
   mounted(){
     this.$store.commit('addPathway', this.$route.params.slug)
   },

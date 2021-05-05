@@ -17,7 +17,7 @@ const createStore = () => {
         state.loadedPages = pages;
       },
       setSiteLanguage(state, lang) {
-        console.log('set language to: ' + lang);
+        // console.log('set language to: ' + lang);
         state.siteLanguage = lang;
       },
       addPathway(state, path) {

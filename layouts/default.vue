@@ -1,6 +1,6 @@
 <template>
   <div class='layout-container'>
-    <nav><nuxt-link to="/">Home</nuxt-link></nav>
+    <navigation />
     <Nuxt />
     <pathway />
   </div>
@@ -19,13 +19,5 @@ export default {
 <style>
 .layout-container{
   padding-top:3rem;
-}
-
-nav{
-  position: fixed;
-  background-color: #ccc;
-  padding:1rem;
-  top:0;
-  left:0;
 }
 </style>

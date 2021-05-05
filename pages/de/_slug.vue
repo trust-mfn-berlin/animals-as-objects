@@ -22,7 +22,8 @@ export default {
     backlink,
     wikilink
   },
-  computed:{
+  created(){
+    this.$store.commit('setSiteLanguage', 'de')
   },
   async asyncData({ $content, params, error, payload }) {
     var page = {};

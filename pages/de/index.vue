@@ -25,6 +25,9 @@ export default {
       pages,
     };
   },
+  created(){
+    this.$store.commit('setSiteLanguage', 'de')
+  },
   head() {
     return {
       script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }],
