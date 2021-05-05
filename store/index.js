@@ -9,7 +9,8 @@ const createStore = () => {
   return new Vuex.Store({
     state: {
       loadedPages: [],
-      siteLanguage: defaultLanguage
+      siteLanguage: defaultLanguage,
+      currentPathway: []
     },
     mutations: {
       setPages(state, pages) {
@@ -18,6 +19,10 @@ const createStore = () => {
       setSiteLanguage(state, lang) {
         console.log('set language to: ' + lang);
         state.siteLanguage = lang;
+      },
+      addPathway(state, path) {
+        console.log('Path added: ' + path);
+        state.currentPathway.push(path);
       },
     },
     actions: {
@@ -32,6 +37,9 @@ const createStore = () => {
       },
       siteLanguage(state) {
         return state.siteLanguage
+      },
+      currentPathway(state) {
+        return state.currentPathway
       },
     }
   })

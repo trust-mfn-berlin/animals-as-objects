@@ -18,10 +18,10 @@ import wikilink from '@/components/wikilink'
 import backlink from '@/components/backlink';
 export default {
   name:'page',
-  components:[
+  components:{
     backlink,
     wikilink
-  ],
+  },
   computed:{
   },
   async asyncData({ $content, params, error, payload }) {

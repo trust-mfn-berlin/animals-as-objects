@@ -19,11 +19,14 @@ import wikilink from '@/components/wikilink'
 import backlink from '@/components/backlink';
 export default {
   name:'page',
-  components:[
+  components:{
     backlink,
     wikilink
-  ],
+  },
   computed:{
+  },
+  mounted(){
+    this.$store.commit('addPathway', this.$route.params.slug)
   },
   async asyncData({ $content, params, error, payload }) {
     var page = {};
