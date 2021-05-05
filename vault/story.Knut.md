@@ -2,7 +2,7 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1620163643174
+updated: 1620219396050
 created: 1618576718116
 title_de: Knut
 desc_de: Put a DE description of this note here...
@@ -23,15 +23,20 @@ English content goes here.
 
 ## Bilder
 
-- [ ] Knut nach Geburt
-- [ ] Knut mit Dörflein
-- [ ] Knut mit Gabriel und Blaszkiewitz
-- [ ] Demobild
+- [x] Knut nach Geburt
+- [x] Knut mit Dörflein
+- [x] Knut mit Gabriel und Blaszkiewitz
+- [x] Demobild
 - [ ] Knut im Museum
+- [ ] Gedenkstätte in den Kisseln
 
 ## A star is born!
 
-Am 5. Dezember 2006 gegen 15.00 Uhr brachte die Eisbärin "Tosca" zwei Jungtiere zur Welt. Nach kurzer Zeit stellte sich heraus, dass das Muttertier keine Anzeichen einer pflegenden Fürsorge zeigte. Eines der Jungtiere starb. Das andere aber wurde aus dem Gehege entfernt und wurde erfolgreich mit der Flasche versorgt.[^birth1] Eigentlich kein ungewöhnlicher Vorgang in Zoos. Aus verschiedenen Gründen wurde die Geschichte des Eisbärenjungen bald sehr bekannt. Einen großen Anteil hatten daran die Medien, insbesondre die lokale ARD-Anstalt Rundfunk Berlin-Brandenburg (RBB). Diese informierte ihre Hörer\*innen täglich mit Nachrichten aus dem Zoo über den Zustand des kleinen Bären und die Beziehung zu dessen Pfleger Thomas Dörflein.
+Am 5. Dezember 2006 gegen 15.00 Uhr brachte die Eisbärin "Tosca" zwei Jungtiere zur Welt. Nach kurzer Zeit stellte sich heraus, dass das Muttertier keine Anzeichen einer pflegenden Fürsorge zeigte. Eines der Jungtiere starb. Das andere aber wurde aus dem Gehege entfernt und wurde erfolgreich mit der Flasche versorgt.[^birth1]
+
+
+
+Eigentlich kein ungewöhnlicher Vorgang in Zoos. Aus verschiedenen Gründen wurde die Geschichte des Eisbärenjungen bald sehr bekannt. Einen großen Anteil hatten daran die Medien, insbesondre die lokale ARD-Anstalt Rundfunk Berlin-Brandenburg (RBB). Diese informierte ihre Hörer\*innen täglich mit Nachrichten aus dem Zoo über den Zustand des kleinen Bären und die Beziehung zu dessen Pfleger Thomas Dörflein.
 
 ## Botschafter des Klimaschutzes
 
