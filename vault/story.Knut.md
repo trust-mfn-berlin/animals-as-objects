@@ -2,7 +2,7 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1620230377086
+updated: 1620231890097
 created: 1618576718116
 title_de: Knut
 desc_de: Put a DE description of this note here...
@@ -84,7 +84,11 @@ Und drei Wochen später:
 
 >Knut // Erbarmungslos // TODGEMOBBT
 
-Die 'Ts' des letzten Wortes waren in Kreuzform.
+Die 'Ts' des letzten Wortes waren in Kreuzform
+
+Manche Autor\*innen nahmen in ihren Schreiben auch die Position des toten Tieres ein, wandten sich also 'in Person' "Knuts" an den Direktor.
+
+![desc](images\cmw\Brief_Knut_S_19_4.jpg)
 
 ## Knuts Tod und Präparation - Proteste und Vermenschlichung
 
@@ -107,9 +111,25 @@ Dem Zoodirektor hatte einige bereits zuvor vorgeworfen, seinen Schützling nicht
 
 ![Bild eines Protestplakats](images\cmw\Demo_Knut_020411_Broseke.jpg)
 
-- Bild aus dem Museum
-- Bild mit der Totenmaske von Bobby im Hintergrund
+Letztlich wurde Knut präpariert und ist sein Präparat heute  im Museum für Naturkunde zu sehen.
 
+
+
+## Knut forever
+
+Auch 2020 war das Thema "Knut" und Dörflein geeignet, Emotionen auszulösen. Zum 12. Todestag von Thomas Dörflein erinnerte der Förderverein der Freunde der Hauptstadtzoos an den Tod des Pflegers von Knut.
+
+![desc](images\cmw\Dorfleinpost_22920.PNG)
+
+Die unzähligen Kommentare und Reaktionen auf den Post bewiesen, dass Zoobesucher\*nnen durch das Thema auch heute noch emotional angesprochen werden.
+
+![desc](images\cmw\Dorfleinpost_2209.20_Kommentar.PNG)
+
+![desc](images\cmw\Dorfleinpost_220920_Komentarspalte.PNG)
+
+Am Beispiel "Knuts" 
+
+-----
 ## Footnotes
 
 [^birth1]: Zoologischer Garten Berlin AG: Pressemitteilung, 04/07, 22.01.2007 und 15/07, 28.02.2007.
