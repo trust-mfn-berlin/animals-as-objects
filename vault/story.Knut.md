@@ -2,7 +2,7 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1620229845637
+updated: 1620229913278
 created: 1618576718116
 title_de: Knut
 desc_de: Put a DE description of this note here...
@@ -43,12 +43,12 @@ Eigentlich kein ungewöhnlicher Vorgang in Zoos. Aus verschiedenen Gründen wurd
 
 Die beiden waren ein Team wie für die Medien gemacht. Hier die tapsige weiße Fellkugel, dort der kernige, bärtige und stille Pfleger, der bei seinem Pflegling einzog und ihm angeblich auf der Gitarre Lieder von Elvis Presley vorsang. 
 
-![desc](images\cmw\Knut_Dorflein_March07_Broseke.jpg)
+![desc]
 Pfleger Thomas Dörflein und der nur wenige Monate alte "Knut", 2007. (AZGB, Foto Bröseke)
 
 Aber auch das Traumpaar oder die Geschichte der Geburt allein können den folgenden "Hype" um "Knut nicht allein erklären.
 
-![desc](images\cmw\Dorflein_Gabriel_Blaszkiewitz_230307_Broseke.jpg)
+![desc]
 Bundesumweltminister Sigmar Gabriel umrahmt von Thomas Dörflein, "Knut" und Direktor Bernhard Blaszkiewitz, 2007. (AZGB, Foto Bröseke)
 
 Hinzu kam ein besonderes Timing. "Knut" kam zu einem Zeitpunkt, an dem zum ersten Mal eine intensive Debatte um den Klimawandel und die Bedrohung des natürlichen Lebensraums der Eisbären geführt wurde. Das Tier eignete sich als Botschafter in der Klimadebatte. Weltweite Bedeutung konnte der Berliner Eisbär aber gewinnen, weil zudem noch ein Zufal half. Kurz nach der ersten öffentlichen Vorstellung des Tieres Ende März 2007 versammelten sich die die Staats- und Regierungschefs der Europäischen Union zum 50. Jahrestag der Unterzeichnung der Römischen Verträge in Berlin. Mit ihnen waren Vertreter der nationalen und internationalen Presse in die Stadt gekommen. Die waren ebenso begeistert von dem Jungtier wie die lokale Presse schon seit Monaten. "Knut" machte "Headlines" in aller Welt. Die überraschten Zoomitarbeiter gaben an dem Wochenende Hunderte Interviews.[^ambassador1] Zusätzlich sorgten Zehntausende zusätzliche Besucher für eine eindrucksvolle Kulisse. Sicherheitsleute mussten den Andrang vor der Freianlage kontrollieren. Bald war eine Million Gäste gekommen.[^ambassador2] 
@@ -99,7 +99,7 @@ Oder:
 
 >"Erde zu Knut, Asche ins Museum! Gibt Knut endlich die letzte Ruhe, das seid ihr ihm schuldig, denn auch ein Eisbär hat eine Seele!"
 
-![Bild eines Protestplakats](images\cmw\Demo_Knut_020411_Broseke_2.jpg)
+![Bild eines Protestplakats]
 
 Dem Zoodirektor hatte einige bereits zuvor vorgeworfen, seinen Schützling nicht ausreichend versorgt zu haben, nun wurde er erneut persönlich angegriffen:
 
