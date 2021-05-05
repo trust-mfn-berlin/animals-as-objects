@@ -18,6 +18,13 @@ export default {
     ]
   },
 
+  generate: {
+    crawler: false,
+    exclude: [
+      /^\/admin/ // path starts with /admin
+    ]
+  },
+
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
   ],
