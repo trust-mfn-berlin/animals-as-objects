@@ -44,10 +44,6 @@ export default {
   modules: [
   ],
 
-  generate: {
-    crawler: false
-  },
-
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
   }
