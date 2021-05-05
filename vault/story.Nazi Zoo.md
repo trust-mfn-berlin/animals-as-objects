@@ -2,7 +2,7 @@
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 title: Nazi Zoo
 desc: ''
-updated: 1620229704925
+updated: 1620230470351
 created: 1619020958263
 title_de: Der Zoo im Nationalsozialismus
 desc_de: Während der nationalsozialistischen Diktatur stellte die Zooleitung den Berliner Zoo in den Dienst des Regimes.
@@ -37,7 +37,7 @@ Der Aufsichtrat der Zoologischer Garten Berlin AG zu Besuch im Zoo, 1942. Lutz H
 
 Auch die Belegschaft des Zoos war wie die vieler Großbetriebe in Berlin bald schon 'nazifiziert'. Sogar die 'Zoo-Band' trug bald stolz das Hakenkreuz und das Symbol der 'deutschen Arbeitsfront' der nationalsozialistischen Einheits-Organisation, die die früher freien Gewerkschaften ersetzen sollte.
 
-![Bild einer Musikband mit nationalsozialistischen Symbolen](images\cmw\band_1938_Springer.jpg)
+![Bild einer Musikband mit nationalsozialistischen Symbolen](images\cmw\band-1938-Springer.jpg)
 Die 'Zoo-Musikkapelle', 1938. (AZGB, Foto Springer)
 
 ## Zoo und Propaganda
