@@ -2,7 +2,7 @@
 id: 6526be8c-01f6-4c05-a41d-fae91b634ced
 title: Heck Expeditions
 desc: Put a description of this note here...
-updated: 1620318904825
+updated: 1620320328023
 created: 1619426293502
 title_de: Tierfangexpeditionen von Lutz Heck
 desc_de: Put a DE description of this note here...
@@ -37,7 +37,7 @@ Nun ist es aber so, dass Heck durchaus auch Vorbilder in den eigenen Reihen hatt
 
 ## Affenfang in Abessinien
 
-Die erste internationale Tierfang-Expedition des Zoologischen Gartens Berlin startete 1925 in Richtung Abessinien [[material.Abyssinia]]. Nach wochenlangen Vorbereitungen, in denen die Schiffskarten und Erlaubnisse beschafft werden mussten und Ausrüstungsgegenstände gesammelt werden mussten war es endlich soweit. Alles war verpackt nicht nur Zelte Waffen fotomaterial, auch das Material zum Bau von transportkisten, also drahtgitter und Scharniere sowie die Schnuller von Milchflaschen und die notwendige Konservenmilch waren verpackt. Es scheint als ging man davon aus, nichts vor Ort bekommen zu können und alles aus Europa mitnehmen zu müssen. Mitte Januar kreuzte der Dampfer das Mittelmeer und Ende des Monats lag man auf Reede vor Dschibuti.  Mit an Bord und Teil der Expedition waren nicht nur Lutz Heck und der oberwerder [[material.Petrus Olesen]] sondern auch zwei Kameramänner der Ufa. Paul Lieberenz und Ernst Garden sollten die Erlebnisse Film festhalten. Angeblich wurden über 10000 m Film aufgenommen. Lutz Heck schrieb später, dass er sich Abessinien als Reiseziel ausgesucht hatte, zum einen weil es dort gute Transportmöglichkeiten ins Inland gab und zum anderen weil das Land den Deutschen nicht feindlich gesonnen sei. Abessinien war ein unabhängiges Königreich und nicht Teil des englischen Kolonialreiches, dass es umgab. Sicher spielte auch eine Rolle, das über Abessinien auch von deutschen Forschern eine Menge Informationen bereits gesammelt worden waren und damit eine gewisse Vorkenntnis über das Gebiet vorhanden war. Von Dschibuti aus führte der Weg über mit der Eisenbahn nach Diredaua.
+Die erste internationale Tierfang-Expedition des Zoologischen Gartens Berlin startete 1925 in Richtung Abessinien [[material.Abyssinia]]. Nach wochenlangen Vorbereitungen, in denen die Schiffskarten und Erlaubnisse beschafft werden mussten und Ausrüstungsgegenstände gesammelt werden mussten war es endlich soweit. Alles war verpackt nicht nur Zelte Waffen fotomaterial, auch das Material zum Bau von transportkisten, also drahtgitter und Scharniere sowie die Schnuller von Milchflaschen und die notwendige Konservenmilch waren verpackt. Es scheint als ging man davon aus, nichts vor Ort bekommen zu können und alles aus Europa mitnehmen zu müssen. Mitte Januar kreuzte der Dampfer das Mittelmeer und Ende des Monats lag man auf Reede vor Dschibuti.  Mit an Bord und Teil der Expedition waren nicht nur Lutz Heck und der 'Oberwärter' [[material.Petrus Olesen]] sondern auch zwei Kameramänner der Ufa. Paul Lieberenz und Ernst Garden sollten die Erlebnisse Film festhalten. Angeblich wurden über 10000 m Film aufgenommen. Lutz Heck schrieb später, dass er sich Abessinien als Reiseziel ausgesucht hatte, zum einen weil es dort gute Transportmöglichkeiten ins Inland gab und zum anderen weil das Land den Deutschen nicht feindlich gesonnen sei. Abessinien war ein unabhängiges Königreich und nicht Teil des englischen Kolonialreiches, dass es umgab. Sicher spielte auch eine Rolle, das über Abessinien auch von deutschen Forschern eine Menge Informationen bereits gesammelt worden waren und damit eine gewisse Vorkenntnis über das Gebiet vorhanden war. Von Dschibuti aus führte der Weg über mit der Eisenbahn nach Diredaua.
 Diredaua war auch das Basislager für die von hier aus starten den ersten Expeditionen ins Landesinnere. Das Basislager fungierte insbesondere als Sammelstation für die eingesammelten, ernähren oder geschenkte und gekauften Tiere. und schon bald sollten das viele werden. Noch bevor sich die Mannschaft auf die erste Expedition begab hatten bereits die Menschen der Umgebung angefangen Tiere zu fangen und vorbeizubringen. Diese wurden höchstwahrscheinlich dann von Lutz Heck gekauft. Zu diesen Käufen gehörten bereits so exotische und begehrte Tiere wie Leoparden und Geparden oder auch Hyänen. Hinzukamen Nager, Kriechtiere und Vögel. Selbst ging Heck in diesen Tagen nur auf Jagd nach Wildbret. Das erste große Unternehmen war eine Reise zu einer heißen Quelle in der Nähe. Hier ließ er seine Fotoausrüstung von einheimischen Trägern tragen. Er hatte einen eigenen Gewehrträger sowie einen 'Boy', der ihn bediente. Die Beschreibungen seiner einheimischen Gefährten in späteren Veröffentlichungen sind abfällig. Zwar zieht er die christlichen Amharen und einzelne Stämme den muslimischen Somaliern vor, aber alle sind bestenfalls 'edle Wilde'. Seinen Gewehrträger beschreibt er später als eitel und dumm, der 'Boy' bekommt nicht einmal einen Namen in seinen Erinnerungen. Auch das Christentum der Abessinier wird als übertrieben und fast schon schädlich dargestellt.
 
 Die erste große Fangreise war den Mantelpavianen, den Hamadryas gewidmet. An mehreren Tagen fing die Expedition mittels der einheimischen Helfer eine große Gruppe. Besonderes Augenmaß lag dabei auf den Menschen, die mit dem Pelzmantel beeindruckender aussahen. das für eine langfristige Zucht eine höhere Zahl von Weibchen wichtiger gewesen wäre spielte für Lutz Heck augenscheinlich keine Rolle.
@@ -79,31 +79,31 @@ Anschließend begab sich Heck in die Massai Steppe um dort die großen Herdentie
 *Der Fänger Pitt XXXX beim Fang einer der fünf Giraffen der Expedition, 1928. (AZGB)*
 
 ![desc](images\cmw\Heck_Giraffenfang_Auto_Kral.jpg)
+*Die gefangenen Tiere wurden mit einem Lastwagen zu einem Lager gefahren, wo sie gesammelt und an Menschen gewöhnt wurden. (Lutz Heck: Auf Tiersuche)*
 
 Fünf Giraffen, 19 Zebras, vier Straußenvögel und verschiedene Antilopen waren die Ausbeute die Berlin gesund erreichte. In der Gegend von Kilwa wurden drei Nilpferde von Einheimischen in Fallgruben gefangen. Der oberste britische Wildschutzbeamte überließ sie dann dem Zoologischen Garten. Es wurde ein besonderes Gehege für diese eingerichtet. Diese Information gab Lutz Heck in seinen Veröffentlichungen an.[^exp4] Ob die Einheimischen von den britischen Behörden für 'Wilderei' [[material.poaching]] bestraft wurden, ist nicht bekannt - interessierte Lutz heck auch nicht.
  
 Außer den Großtieren fing die Expedition in großen Fallen in der Nähe des Giraffen-Lagers große ostafrikanische Paviane, zudem 16 Grüne Meerkatzen und etwa 200 Nashornvögel, Papageien,Webervögel, Prachtfinken. 
- 
-Sechs Einheimische, darunter "drei Arusha Massai, stolze Krieger mit Schild und Speer des gefürchteten ostafrikanischen Hirtenvolk des begleiteten die Expedition auf allen Fahrten. Sie fassten derartiges zutrauen, dass sie bis nach Berlin mitkamen".[^exp5]
+Lutz Hecks größter Erfolg war aber vielleicht, dass er letztlich doch noch eine 'Völkerschau' zusammenstellte. In seinen Worten: "Sechs Einheimische, darunter "drei Arusha Massai, stolze Krieger mit Schild und Speer des gefürchteten ostafrikanischen Hirtenvolk des begleiteten die Expedition auf allen Fahrten. Sie fassten derartiges zutrauen, dass sie bis nach Berlin mitkamen."[^exp5]
 
-Der Rücktransport gestaltete sich kompliziert. Nachdem die Tiere von Mombasa mit dem Schiff S/S Sumatra abgingen, hatte man Kurs auf Marseille genommen. Letztlich entschied sich Lutz Heck aus unbekannten Gründen für Genua als Ausschiffungshafen. Das führte aber zu einer Kette von Komplikationen. Hatte die Expedition die Erlaubnisse für Frankreich, sowie den Transit durch die Schweiz und den Grenzübertritt bei Kehl auf deutsches Territorium anscheinend schon geregelt, wurden nun neue Erlaubnisse notwendig, die lebenden Tiere nach Italien einzuführen und dann über eine andere Route durch die Schweiz nach in Deutsche Reich zu transportieren. So musste nun zum Beispiel das Badische Innenministerium eine Transitgenehmigung erteilen, nachdem das Preußische Innenministerium die Einfuhr genehmigt hatte. Die Abwicklung der Formalitäten mit den Italienischen und (italienisch-)schweizerischen Behörden überließ man einem Speditionsunternehmen, aus der Region. “Jacky Maeder Co.” bearbeitete diesen Teil des Transports gemeinsam mit der “Holland-Afrika-Lijn". Da sich mit den Giraffen, Zebras und Antilopen als untersuchungspflichtige Wiederkäuer an Bord befanden wurden medizinische Untersuchungen und mögliche Blutproben in Aussicht gestellt. Hierzu reiste der Zootierarzt Dr. Arendsee nach Genua dem Transport entgegen. Insgesamt wurden den deutschen Zoolbehörden in Basel ein Transport angezeigt, bestehend aus nicht weniger Tiere als: “5 Giraffen, 3 Nilpferde, 1 Nashorn, 9 Zebras, 3 Antilopen, 2 jungen Löwen, 2 Geparden, 30 grünen Meerkatzen, 5 Weisskehlmeerkatzen, 9 Pavianen, 4 jungen Straussen, Kleinen Vögeln u.a. Kleintieren.”9
-Aus Suez kabelte Heck die benötigten Transportkapazitäten: drei offene, ein geschlossener Waggon wurden benötigt. 300 Pfund (Sterling) mussten bezahlt werden. Mit auf dem Transport: “3 Massai mit Schild und Speer” sowie “3 andere Neger”.10 Letztere waren sicherlich die zu Beginn eingeplanten Transportbegleiter, die sich um die Tiere auf dem Transport und bei der Eingewöhnung kümmern sollte. Die drei “Massai” aber scheinen zur “Dekoration” mitgenommen worden zu sein. Auf Aufnahmen der an die Rückkehr anschließenden Afrika-Sonderschau im Zoo sieht man diese Menschen zwischen den Kulissen und Tieren sich präsentieren. Durch die Hintertür hatte Lutz Heck also doch noch in Teilen eine “Völkerschau” realisiert.
-Die Ankunft des Transports an einem Sonntag, dem 20. Mai 1928, im Anhalter Bahnhof wurde von Presserummel begleitet, am Bahnhof oder auf sem Sonderschaugelände konnten Journalisten die Ausbeute beäugen. Am folgenden Donnerstag wurde dann die Sonderschau selbst eröffnet. Bereits Ende April hatte der Zoo die Schau angekündigt und den großen Erfolg der Expedition angepriesen.11
-Eine Löwin aus Abessinien wurde im Herbst 1928 an den Zoo in Frankfurt/M. Für 2000 Mark verkauft, das Geld dem Expeditionskonto gutgeschrieben. Aus dem Schriftwechsel geht allerdings hervor, dass das Tier gar nicht aus der Ausbeute der Expedition stammte, sondern bereits 1924 importiert worden war.12
+Der Rücktransport gestaltete sich kompliziert. Nachdem die Tiere von Mombasa mit dem Schiff S/S Sumatra abgingen, hatte man Kurs auf Marseille genommen. Letztlich entschied sich Lutz Heck aus unbekannten Gründen für Genua als Ausschiffungshafen. Das führte aber zu einer Kette von Komplikationen. Hatte die Expedition die Erlaubnisse für Frankreich, sowie den Transit durch die Schweiz und den Grenzübertritt bei Kehl auf deutsches Territorium anscheinend schon geregelt, wurden nun neue Erlaubnisse notwendig, die lebenden Tiere nach Italien einzuführen und dann über eine andere Route durch die Schweiz nach ins Deutsche Reich zu transportieren. So musste nun zum Beispiel das Badische Innenministerium eine Transitgenehmigung erteilen, nachdem das Preußische Innenministerium die Einfuhr genehmigt hatte. Die Abwicklung der Formalitäten mit den Italienischen und (italienisch-)schweizerischen Behörden überließ man einem Speditionsunternehmen, aus der Region. "Jacky Maeder Co." bearbeitete diesen Teil des Transports gemeinsam mit der "Holland-Afrika-Lijn". Da sich mit den Giraffen, Zebras und Antilopen als untersuchungspflichtige Wiederkäuer an Bord befanden wurden medizinische Untersuchungen und mögliche Blutproben in Aussicht gestellt. Hierzu reiste der Zootierarzt Dr. Arendsee nach Genua dem Transport entgegen.[^exp6]
 
-Anschließend wurden weite Strecken mit dem Lastauto zurückgelegt und zwischen Kilimandscharo und Meru ein Basislager aufgeschlagen. große Einzäunungen und Dornkrale wurden gebaut. Die Schau soll ein ungefähres Bild dieses großen Sammellager ergeben. Mit den darin sich da bietenden bewegenden Tieren. Die Zelte, in denen die Expedition Mitglieder über ein Vierteljahr in Busch und Steppe lebten, die Fangnetze, andere Ausrüstungen werden zur Schau gestellt.
+Aus Suez kabelte Heck die benötigten Transportkapazitäten: drei offene, ein geschlossener Waggon wurden benötigt. 300 Pfund (Sterling) mussten bezahlt werden. Mit auf dem Transport: "3 Massai mit Schild und Speer" sowie "3 andere Neger".[^exp7] Letztere waren sicherlich die zu Beginn eingeplanten Transportbegleiter, die sich um die Tiere auf dem Transport und bei der Eingewöhnung kümmern sollte. Die drei "Massai" aber scheinen zur 'Dekoration' mitgenommen worden zu sein. Auf Aufnahmen der an die Rückkehr anschließenden Afrika-Sonderschau im Zoo sieht man diese Menschen zwischen den Kulissen und Tieren sich präsentieren. Durch die Hintertür hatte Lutz Heck also doch noch in Teilen eine 'Völkerschau' realisiert.
+
+## 'Afrikaschau' und Werbeeffekt der Expeditionsbeute
+
+Die Ankunft des Transports an einem Sonntag, dem 20. Mai 1928, im Anhalter Bahnhof wurde von Presserummel begleitet, am Bahnhof oder auf sem Sonderschaugelände konnten Journalisten die Ausbeute beäugen. Am folgenden Donnerstag wurde dann die Sonderschau selbst eröffnet. Bereits Ende April hatte der Zoo die Schau angekündigt und den großen Erfolg der Expedition angepriesen.
+Eine Löwin aus Abessinien wurde im Herbst 1928 an den Zoo in Frankfurt/M. Für 2000 Mark verkauft, das Geld dem Expeditionskonto gutgeschrieben. Aus dem Schriftwechsel geht allerdings hervor, dass das Tier gar nicht aus der Ausbeute der Expedition stammte, sondern bereits 1924 importiert worden war.
+
+Die Schau soll ein ungefähres Bild dieses großen Sammellager ergeben. Mit den darin sich da bietenden bewegenden Tieren. Die Zelte, in denen die Expedition Mitglieder über ein Vierteljahr in Busch und Steppe lebten, die Fangnetze, andere Ausrüstungen werden zur Schau gestellt.
+
 ![desc](images\cmw\Mtoto_Gnu_um1928_Wolter_S_3_69.jpg)
+*Auch das "Mtoto" getaufte Nashorn war Teil der 'Afrikaschau' in der die Tiere und die Ausrüstung der Expedition gezeigt wurden.
 
-## Filmische Propaganda
-
-1935 fuhr [[material.Lutz Heck]] dann im Auftrag des Preußischen Ministerpräsidenten und führenden Nationalsozialisten Hermann Göring nach Kanada. Dort sollte er Bisons fangen, die in Berlin und Deutschland in Zoos ausgestellt und bei der Erhaltungszucht des Wisents [[story.Breeding Animals for the Zoo]] eingesetzt werden sollten.
-Die Spezialisten
-
-Menges
-
-Der Berliner Zoo profitierte dennoch von den Expeditionen - und zwar in Form einer wirksamen Öffentlichkeitsarbeit. Lutz Heck veröffentlichte seine Bilder und seine 'Abenteuer' in unzähligen Zeitschriftenartikeln und einigen Büchern. Noch 1954, nun in der Bundesrepublik, verbreitete Lutz Heck seine Erlebnisse.[^exp2]
+Der Berliner Zoo profitierte letztlich von den Expeditionen - und zwar in Form einer wirksamen Öffentlichkeitsarbeit. Lutz Heck veröffentlichte seine Bilder und seine 'Abenteuer' in unzähligen Zeitschriftenartikeln und einigen Büchern. Noch 1954, nun in der Bundesrepublik, verbreitete Lutz Heck seine Erlebnisse.[^exp2]
 
 ![des](images\cmw\Zeitschrift_Expedition.PNG)
+*zeitschrift mit einer Reportage und den Bildern von Lutz Heck, XXXX.*
 
 Hinzu kam, dass die Tiere selbst im Zoo natürlich zu begehrten Schauobjekten wurden. Die abenteuerliche Herkunft zog weitere Besucher\*innen an.
 
@@ -119,6 +119,8 @@ Die Hauptpersonen in diesen Lutz Hecks Büchern und auch in den Filmen sind imme
 
 Noch 1935 profitierte der Zoologische Garten von der Reise 1928. Damals machte Lutz Heck die Bekanntschaft des Tierhändlers Chr. Kissonerghis. In den folgenden Jahren lieferte dieser nun regelmäßig neue Tiere aus Diredaua über Djibouti. Sie wurden dann ab dem Entladen an einem Mittelmeerhafen von Zooangestllten abgeholt.[^exp1]
 
+## Spätere Expeditionen
+
 Auch noch in den 1930er Jahren ging [[material.Lutz Heck]] auf Fangreisen. So fuhr er im Auftrag von [[material.Hermann Göring]] nach Kanada, um dort mit behördlicher Erlaubnis Elche? und Bisons zu fangen. Letztere wollte er im Erhaltungszuchtprogramm für den Wisent einsetzen und bei sich und in anderen Zoos ausstellen. Er reiste auch erneut nach Afrika, diesmal aber eher als Foto- und Jagdtourist. Seine Lebensgefährtin Eva Mac Lean reiste mehrfach nach Kamerun, an den Tschadsee und ins südliche Afrika und brachte auch weiterhin einzelne Tiere für den Berliner Zoo mit zurück.
 
 ![Bild des Affenfelsens Mitte der 1930er Jahre](images\cmw\Affenfelsen-Heck.jpg)
@@ -131,8 +133,10 @@ Lutz Hecks spätere Ehefrau Eva MacLean brachte 1936 von einer Reise nach Kameru
 -----
 ## Footnotes
 
-[^exp1]: Korrespondenz in AZGB, O 0/1/7.
+[^exp1]: Korrespondenz in AZGB, O 0/1/327.
 [^exp2]: Heck, Lutz. 1955. Grosswild im Etoschaland. Erlebnisse mit Tieren in Südwest-Afrika. Berlin: Ullstein.
 [^exp3]: Die gesamte Korrespondenz findet sich in AZGB, O 0/1/327.
 [^exp4]: Noch recherchieren
 [^exp5]: Zitat suchen
+[^exp6]: Korrespondenz in AZGB, O 0/1/327.
+[^exp7]: Telegramm 08.05.1928, AZGB, O 0/1/327.
