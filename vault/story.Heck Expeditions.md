@@ -2,7 +2,7 @@
 id: 6526be8c-01f6-4c05-a41d-fae91b634ced
 title: Heck Expeditions
 desc: Put a description of this note here...
-updated: 1619712140341
+updated: 1620310820090
 created: 1619426293502
 title_de: Tierfangexpeditionen von Lutz Heck
 desc_de: Put a DE description of this note here...
@@ -38,3 +38,8 @@ Menges
 Auch noch in den 1930er Jahren ging [[material.Lutz Heck]] auf Fangreisen. So fuhr er im Auftrag von [[material.Hermann Göring]] nach Kanada, um dort mit behördlicher Erlaubnis Elche? und Bisons zu fangen. Letztere wollte er im Erhaltungszuchtprogramm für den Wisent einsetzen und bei sich und in anderen Zoos ausstellen. Er reiste auch erneut nach Afrika, diesmal aber eher als Foto- und Jagdtourist. Seine Lebensgefährtin Eva Mac Lean reiste mehrfach nach Kamerun, an den Tschadsee und ins südliche Afrika und brachte auch weiterhin einzelne Tiere für den Berliner Zoo mit zurück.
 
 ![Bild des Affenfelsens Mitte der 1930er Jahre](images\cmw\Affenfelsen-Heck.jpg)
+
+Lutz Hecks spätere Ehefrau Eva MacLean brachte 1936 von einer Reise nach Kamerun 1936 das Gorillaweibchen "Eseka" und einen Schimpansen mit.
+
+![Frau mit einem Schimpansen- und einem Gorillajungtier an Bord eines Schiffs](images\cmw\Gorilla_Schimpansentransport_25061936.jpg)
+*Eva MacLean an Bord eines Schiffs mit einem jungen Schimpansen und einem jungen Gorilla, 1936. (AZGB)*

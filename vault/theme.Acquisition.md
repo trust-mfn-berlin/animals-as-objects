@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: Acquisition
 desc: The various sources of animal objects for museums and zoos.
-updated: 1620296140643
+updated: 1620310494047
 created: 1618498026144
 title_de: Tiere sammeln
 desc_de: Tiere und Tierobjekte kommen aus vielen unterschiedlichen Quellen.
@@ -47,7 +47,7 @@ Da sind vor allem die beiden wichtigsten Quellen des Sammelns [[story.Collecting
 
 Hinzu kommt die über die Jahrhunderte konstant wichtige Quelle der Geschenke. [[story.Gifting Objects]] Insbesondere diese Quelle von Tieren hat in der Mehrheit der Fälle einen politischen Bezug oder ist in der einen oder anderen Form mit einer erwünschten Propagandawirkung verbunden. Auch die politische Geschichte kommt hier also zur Anwendung - genauer die Geschichte der diplomatischen Beziehungen. Denn die meisten Geschenke an Zoos und Naturkundemuseum waren diplomatische Geschenke fremder Herrscher und Regierungen. Hinzu kamen aber durchaus auch Geschenke von Bürgern des eigenen Landes, die selbst gefangene Tiere oder gesammelte Spezimen verschenkten.
 
-Im Museum naturgemäß von geringer Bedeutung, im Zoo seit dem Verbot des Handels mit gefährdeten Tier- und Pflanzenarten durch das Washingtoner Artenschutzabkommen aber um so wichtiger: die Zucht [[story.Breeding Animals for the Zoo]]] eigener Tiere. Weltweite durch Forschung gewonnene Erkenntnisse um die Bedrohung der irdischen Pflanzen- und Tiervielfalt wurden ergänzt durch immer größeres Wissen um die Fortpflanzungsbiologie und die Voraussetzungen für die Aufzucht von Jungtieren gefangen gehaltener Zootiere.
+Im Museum naturgemäß von geringer Bedeutung, im Zoo seit dem Verbot des Handels mit gefährdeten Tier- und Pflanzenarten durch das Washingtoner Artenschutzabkommen aber um so wichtiger: die Zucht [[story.Breeding Animals for the Zoo]] eigener Tiere. Weltweite durch Forschung gewonnene Erkenntnisse um die Bedrohung der irdischen Pflanzen- und Tiervielfalt wurden ergänzt durch immer größeres Wissen um die Fortpflanzungsbiologie und die Voraussetzungen für die Aufzucht von Jungtieren gefangen gehaltener Zootiere.
 
 ## Kosten und Logistik
 
@@ -55,6 +55,12 @@ Mit diesen unterschiedlichen Quellen an Tierobjekten hängen jeweils auch unters
 
 * große und möglichst vollständige Skelette von Dinosauriern oder Walen in Naturkundemuseen
 * Pandas oder andere sehr schauwertige Tiere in Zoos.
+
+![desc](images\cmw\Aqua_Fischtransport_Seitz.jpg)
+*Ankunft von neuen Tieren für das Aquarium Berlin, um 1920. (AZGB)*
+
+![desc](images\cmw\Giraffentransport_1928_S_3_58_Wolter.jpg)
+*Giraffentransport für den Zoo, 1928. (AZGB, Foto Wolter)*
 
 ## Fürstliche Geschenke für die Sammlungen
 
@@ -95,6 +101,9 @@ Das nachweislich älteste Tiere des Berliner Zoos war 2021 der Flamingo „Ingo.
 * Leibniz Institut für Diversitätsforschung
 
 in den Sitzungen des VDZ der 1960er ist der Schutz der Orangs immer wieder Thema und wird widersprüchlich diskutiert - es scheint als wollten einge Direktoren schlicht nicht auf Orangs verzichten.
+
+![Aquariumsbecken mit Quallen](images\cmw\Quallenaufzucht_um1999.jpg)
+*In diesen Becken züchtete das Berliner Aquarium Ende der 1990er Jahre erfolgreich Quallen. (AZGB)*
 
 ## Tiertausch zwischen Zoos
 
