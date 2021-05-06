@@ -2,7 +2,7 @@
 id: 6526be8c-01f6-4c05-a41d-fae91b634ced
 title: Heck Expeditions
 desc: Put a description of this note here...
-updated: 1620320328023
+updated: 1620323468324
 created: 1619426293502
 title_de: Tierfangexpeditionen von Lutz Heck
 desc_de: Put a DE description of this note here...
@@ -98,7 +98,7 @@ Eine Löwin aus Abessinien wurde im Herbst 1928 an den Zoo in Frankfurt/M. Für 
 Die Schau soll ein ungefähres Bild dieses großen Sammellager ergeben. Mit den darin sich da bietenden bewegenden Tieren. Die Zelte, in denen die Expedition Mitglieder über ein Vierteljahr in Busch und Steppe lebten, die Fangnetze, andere Ausrüstungen werden zur Schau gestellt.
 
 ![desc](images\cmw\Mtoto_Gnu_um1928_Wolter_S_3_69.jpg)
-*Auch das "Mtoto" getaufte Nashorn war Teil der 'Afrikaschau' in der die Tiere und die Ausrüstung der Expedition gezeigt wurden.
+*Auch das "Mtoto" getaufte Nashorn war Teil der 'Afrikaschau' in der die Tiere und die Ausrüstung der Expedition gezeigt wurden.*
 
 Der Berliner Zoo profitierte letztlich von den Expeditionen - und zwar in Form einer wirksamen Öffentlichkeitsarbeit. Lutz Heck veröffentlichte seine Bilder und seine 'Abenteuer' in unzähligen Zeitschriftenartikeln und einigen Büchern. Noch 1954, nun in der Bundesrepublik, verbreitete Lutz Heck seine Erlebnisse.[^exp2]
 
