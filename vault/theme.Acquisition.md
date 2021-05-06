@@ -1,8 +1,8 @@
 ---
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: Acquisition
-desc: Put a description of this note here...
-updated: 1620232745269
+desc: The various sources of animal objects for museums and zoos.
+updated: 1620296140643
 created: 1618498026144
 title_de: Tiere sammeln
 desc_de: Tiere und Tierobjekte kommen aus vielen unterschiedlichen Quellen.
@@ -25,27 +25,23 @@ English content goes here.
 
 Zoos, Tierparks, Aquarien, Naturkundemuseen, Zoologische oder Biologische Lehrsammlungen - sie alle sind naturkundliche Sammlungen. Sie enthalten in eingezäunten oder von Gräben umschlossenen Gehegen,  Tierhäusern oder in Vitrinen und auf Podesten ausgestellte lebende Tiere aber auch 'ausgestopfte', in Alkohol aufbewahrte oder nach den neuesten Erkenntnissen der Präparierkunst konservierte Tierhäute, Knochen, Felle, Schädel oder auch Organe von Organismen.
 
-**Das kunstvoll präparierte Schaupräparat, das in den Dioramen der Naturkundemuseen wie lebensecht dargestellte Tier, ist nicht die Regel. Zwar nehmen die Besucherinnen und Besucher dieses am meisten wahr, hinter den Kulissen der Museen aber befinden sich die oft um ein Vielfaches größeren 'wissenschaftlichen Sammlungen' der Häuser.** In diesen finden unzählige Spezimen, die Forscher\*innen aus aller Welt Quelle oder Vergleichsmaterial ihrer wissenschaftlichen Arbeiten sind. Mal sind es vollständige Skelette, mal sind es gar nur fossile Knochenteile. Die wissenschaftlichen Sammlungen des Naturkundemuseums umfassten 2021 mehr als 30 Millionen Objekte. Davon bekommen die Besucherinnen und Besucher selbstverständlich nur einen kleinen Teil zu sehen. **Bei Zoos ist die Trennung in unterschiedliche Sammlungen nicht vorhanden.** Wohl aber gibt es Räumlichkeiten, in denen Tiere aus unterschiedlichen Gründen isoliert werden können, sei es, weil sie tragend sind oder gebären, oder weil sie krank sind und von den Artgenossen isoliert werden. Im Tierpark Berlin lebte der alte China-Alligator "Mao" die letzten Jahre seines langen Lebens von den Besuchern und kampflustigen jüngeren Artgenossen unbehelligt in einem Becken hinter den Kulissen. 
+**Das kunstvoll präparierte Schaupräparat, das in den Dioramen der Naturkundemuseen wie lebensecht dargestellte Tier, ist nicht die Regel. Zwar nehmen die Besucherinnen und Besucher dieses am meisten wahr, hinter den Kulissen der Museen aber befinden sich die oft um ein Vielfaches größeren 'wissenschaftlichen Sammlungen' der Häuser.** In diesen finden unzählige Objekte, die Forscher\*innen aus aller Welt als Quellen oder Vergleichsmaterial ihrer wissenschaftlichen Arbeiten dienen. Mal sind es vollständige Skelette, mal sind es gar nur fossile Knochenteile. Die wissenschaftlichen Sammlungen des Naturkundemuseums umfassten 2021 mehr als 30 Millionen Objekte. Davon bekommen die Besucherinnen und Besucher selbstverständlich nur einen kleinen Teil zu sehen.
+**Bei Zoos ist die Trennung in unterschiedliche Sammlungen nicht vorhanden.** Wohl aber gibt es Räumlichkeiten, in denen Tiere aus unterschiedlichen Gründen isoliert werden können, sei es, weil sie tragend sind oder gebären, oder weil sie krank sind und von den Artgenossen isoliert werden. Im Tierpark Berlin lebte der alte China-Alligator "Mao" die letzten Jahre seines langen Lebens von den Besuchern und kampflustigen jüngeren Artgenossen unbehelligt in einem Becken hinter den Kulissen. Manche Tierarten werden bei zu kaltem Wetter in den Tierhäusern eingesperrt oder aber haben die Möglichkeit sich selbst auszusuchen, wo sie sich aufhalten wollen. In der Regel aber sind die allermeisten Zootiere für die Besucher sichtbar, wenn sie sich nicht entscheiden, sich zu verstecken.
 
 ![Zwei Männer begutachten einen jungen Alligator](images\cmw\Dathe_Petzold_Mao.jpg)
 *China-Alligator "Mao" wird nach seiner Ankunft im Mai 1957 durch Tierparkdirektor Heinrich Dathe und den Oberassistenten untersucht. (AZGB)*
 
-Manche Tierarten werden bei zu kaltem Wetter in den Tierhäusern eingesperrt oder aber haben die Möglichkeit sich selbst auszusuchen, wo sie sich aufhalten wollen. In der Regel aber sind die allermeisten Zootiere für die Besucher sichtbar, wenn sie sich nicht entscheiden, sich zu verstecken.
+Bei jeder naturkundlichen Sammlung lebender oder präparierter Tiere stellt sich die Frage, mit welchen Mitteln sie gefüllt wird. Wie kommen die Tiere oder Spezimen in Zoos oder Naturkundemuseen? Daran schließen sich zwei wesentliche Fragen an:
 
-Bei jeder naturkundlichen Sammlung lebender oder präparierter Tiere stellt sich aber die Frage, mit welchen Mitteln sie gefüllt wird. Wie kommen die Tiere oder Spezimen in Zoos oder Naturkundemuseen? Daran schließen sich zwei wesentliche Fragen an:
-
-* Wer entscheidet, was gesammelt wird?
 * Und wer sammelt, fängt oder transportiert eigentlich die Spezimen, Felle, Gebeine, Präparate und lebenden Tiere in ein Museum oder einen Zoo?
 
-Aber auch daran schließen sich wieder mehrere Teilfragen an.
+und
 
-* Gibt es einheitliche Sammlungsstrategien für die Akquise?
-* Wer bezahlt die Objekte?
-* Woher kommen sie?
+* Wer entscheidet, was gesammelt wird?
 
 ## Tierquellen
 
-Eine Beantwortung dieser vielen Fragen ist zunächst einmal kompliziert. Sie betrifft Forschungszweige wie Wissensgeschichte, Institutionengeschichte der Zoos und Museen, der Wissenschaftsgeschichte der Taxonomie, der Ethologie, der Biologie und Zoologie und der Zoobiologie. Denn Präparate in Museen und Tiere in Zoos kommen aus unterschiedlichsten Quellen und sind mal durch Zufall, mal als Ergebnis langer Vorarbeit in die Institutionen gelangt. **Die Quellen der Tiere oder Tierobjekte unterlagen kontinuierlichen Änderungen und zu mancher Zeit waren die einen wichtiger, zu anderer eben andere.** Es gibt dennoch einige grundsätzliche Beobachtungen, die insbesondere im Abgleich der beiden Institutionen, Zoo und Museum, immer wieder auftauchen.
+Eine Beantwortung dieser Fragen ist kompliziert. Sie betrifft Forschungszweige wie Wissensgeschichte, Institutionengeschichte der Zoos und Museen, der Wissenschaftsgeschichte der Taxonomie, der Ethologie, der Biologie und Zoologie und der Zoobiologie. Denn Präparate in Museen und Tiere in Zoos kommen aus unterschiedlichsten Quellen und sind mal durch Zufall, mal als Ergebnis langer Vorarbeit in die Institutionen gelangt. **Die Quellen der Tiere oder Tierobjekte unterlagen kontinuierlichen Änderungen und zu mancher Zeit waren die einen wichtiger, zu anderer eben andere.** Es gibt dennoch einige grundsätzliche Beobachtungen, die insbesondere im Abgleich der beiden Institutionen, Zoo und Museum, immer wieder auftauchen.
 
 Da sind vor allem die beiden wichtigsten Quellen des Sammelns [[story.Collecting Specimen]] und Jagens [[story.Catching Animals]] im Feld, also in den Habitaten der Tiere. Museen und Zoos konnten sich zum Ende des 19. Jahrhunderts eines umfangreichen Netzwerks von professionellen Händlern ihrer Objekte aber auch engagierten Laiensammlern bedienen. Manchmal organisierten oder finanzierten sie sogar eigenen Expeditionen zur Beschaffung von Sammlungsobjekten - lebendig oder tot. [[story.Heck Expeditions]]
 
