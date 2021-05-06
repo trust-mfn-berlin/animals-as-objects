@@ -2,7 +2,7 @@
 id: e47d02d6-04d0-4cee-9dd9-41600707ed5a
 title: Zoo Architecture
 desc: Put a description of this note here...
-updated: 1620311431214
+updated: 1620311777706
 created: 1619798990411
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -55,6 +55,10 @@ Viel zu viele Tiere auf kleinstem Raum
 
 Hauptsache leicht zu reinigen Zooarchitektur im Badezimmerstil 1950-1960
 ![desc](images\cmw\Elefantenhaus_innen_Heinroth.jpg)
+*Innenansicht des XXXX eröffneten Elefanten hauses des Zoo Berlin. (AZGB)*
+
+![desc](images\cmw\Neues_Raubtierhaus_14061973.jpg)
+*Das Raubtierhaus, 1973. (AZGB)*
 
 ![Das Innere des Flusspferdhauses](images/cmw/Flussspferdhaus_2019.jpg)
 Dass Innere des Flusspferdhauses, 2019. (Clemens Maier-Wolthausen)
