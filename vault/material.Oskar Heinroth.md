@@ -2,7 +2,7 @@
 id: 1a9793b7-746f-4a58-bfa2-54596b72b4bc
 title: Oskar Heinroth
 desc: Short biography of Oscar Heinroth
-updated: 1620162076311
+updated: 1620288938908
 created: 1618503001471
 title_de: Oskar Heinroth
 desc_de: Kurze Biografie von Oskar Heinroth
@@ -28,9 +28,8 @@ Oskar Heinroth mit drei von ihm großgezogenen Uralkäuzen, 1929. (AZGB)
 
 **1904 wurde er Assistent am Berliner Zoo** unter dem Direktor [[material.Ludwig Heck]]. Dieser übertrug ihm **1911 die Aufgabe das Aquarium zu bauen**. [[story.Short History Aquarium]] Heinroth gestaltete es nach eigenen Plänen. Bald nach dessen Eröffnung im August 1913 war es bereits das wichtigste Haus seiner Art. 
 
-**In der im Aquarium gelegenen Dienstwohnung zogen Heinroth und seine Frau Magdalena bis 1932 praktisch alle einheimischen Vögel aus Eiern bis ins adulte Stadium groß, dokumentierten ihr Wachstum und beobachteten ihr Verhalten.** Daraus entstand das zwischen 1924 und 1933 in vier Bänden veröffentlichte Werk: Die Vögel Mitteleuropas in allen Lebens- u. Entwicklungsstufen photogr. aufgenommen u. in ihrem Seelenleben bei d. Aufzucht vom Ei ab beobachtet.
+**In der im Aquarium gelegenen Dienstwohnung zogen Heinroth und seine Frau Magdalena bis 1932 praktisch alle einheimischen Vögel aus Eiern bis ins adulte Stadium groß, dokumentierten ihr Wachstum und beobachteten ihr Verhalten.** Daraus entstand das zwischen 1924 und 1933 in vier Bänden veröffentlichte Werk: Die Vögel Mitteleuropas in allen Lebens- u. Entwicklungsstufen photogr. aufgenommen u. in ihrem Seelenleben bei d. Aufzucht vom Ei ab beobachtet. Oskar Heinroth litt des vielen von den Vögeln verursachten Staubs an einer starken Allergie, die bei ihm nächtliche Luftnot verursachte. Dennoch machte das Ehepaar weiter.[^ohein1]
 
 **Oskar Heinroth gilt als einer der Begründer der vergleichenden Verhaltensforschung** (Ethologie). Der talentierte Fotograf und humorvolle Wissenschaftler verstand es allgemeinverständlich die Ergebnisse seiner Forschung aufzuarbeiten. Zusammen mit seiner zweiten Ehefrau [[material.Katharina Heinroth]] setzte er seine Forschungen fort.
 
-
-
+[^0hein1]: Vgl. Schulze-Hagen, Karl. 2020. Die Vogel-WG: die Heinroths, ihre 1000 Vögel unddie Anfänge der Verhaltensforschung. Deutsche Originalausgabe. Knesebeck Stories. München: Knesebeck: 9.
