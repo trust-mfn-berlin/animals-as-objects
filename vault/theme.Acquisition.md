@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: Acquisition
 desc: The various sources of animal objects for museums and zoos.
-updated: 1620378709075
+updated: 1620387818859
 created: 1618498026144
 title_de: Tiere sammeln
 desc_de: Tiere und Tierobjekte kommen aus vielen unterschiedlichen Quellen.
@@ -64,34 +64,46 @@ Mit diesen unterschiedlichen Quellen an Tierobjekten hängen jeweils auch unters
 
 ## Geschenke von Herrschern und Gönnern
 
-Die Fundamente des Berliner Naturkundemuseums [[story.Short History MfN]] und Zoologischen Gartens [[story.Short History Zoo]] waren Geschenke. Objekte aus dem "Naturalienkabinett" der Königlich Preußischen Akademie der Wissenschaften und der "Königlichen Kunstkammer" waren eine wichtige Sammlungsbasis des Museums, die später ergänzt insbesondere durch Expeditionen ergänzt wurde. Aber nicht nur königliche Herrscher oder Adelige gaben, auch reiche Bürger übergaben ihre privaten Sammlungen dem Zoologischen Museum der 1810 gegründeten Berliner Universität.[^gifts1]
+Die Fundamente des Berliner Naturkundemuseums [[story.Short History MfN]] und Zoologischen Gartens [[story.Short History Zoo]] waren Geschenke. Objekte aus dem "Naturalienkabinett" der Königlich Preußischen Akademie der Wissenschaften und der "Königlichen Kunstkammer" waren eine wichtige Sammlungsbasis des Museums, die später insbesondere durch Expeditionen ergänzt wurde. Aber nicht nur königliche Herrscher oder Adelige gaben, auch reiche Bürger übergaben ihre privaten Sammlungen dem Zoologischen Museum der 1810 gegründeten Berliner Universität.[^gifts1]
 
 Die Basis für den 1844 gegründeten 'Zoologischen Garten bei Berlin' beruhte ausschließlich auf königlichen Geschenken. Sowohl das in Erbpacht für einen nominalen Preis überlassene Gelände im südlichen Teil des Tiergartens als auch Tiere und sogar Materialien für die Umzäunung des Geländes kamen aus königlichem Besitz. Friedrich Wilhelm IV. gestattete dem Gründungsdirektor und erstem Professor für Zoologie der Berliner Universität, Martin Hinrich Lichtenstein, aus den Tieren der königlichen Menagerie auf der Pfaueninsel diejenigen auszusuchen, die er auszustellen beabsichtigte. Die Tierhäuser der Pfaueninsel wurden abgebaut und im Zoo aufgestellt. Hinzu kamen mehrere großzügige zinslose Darlehen.[^gifts2]
 
+![desc](images\cmw\Zooplan_1845.jpg)
+*Plan des Zoologischen Gartens bei Berlin, 1845. (AZGB)*
+
+In beiden Fällen wurden die königlichen Geschenke bald von Privatleuten, Gelehrten und Beamten ergänzt. Im Naturkundemuseum waren unter anderem Sammlungen des Entomologen Johann von Hoffmannsegg und Alexander von Huumboldt, die - möglicherweise auch durch finanzierung des Herrscherhauses - das Museum weiter bereicherten.[^gifts3] Auch der Zoo erhielt fortan Geschenke für seine Sammlung. So bat dessen Leitung Preußische Beamte udn Diplomaten in Übersee um Schenkungen.[^gifts4]
+
 ### Koloniale Beute
 
-von Kolonialbeamten oder sie wurden gar als Kriegsbeute von Truppenteilen nach Berlin gebracht und dem Zoo geschenkt. Dass Tiere Kriegsbeute waren ist seit dem späten Mittelalter überliefert. (Dittrich: Vom Souvenir zum Handelsobjekt, S. 334) Wenn große oder exotische Tiere der Schaustellung der Macht von Fürsten dienten, dann war das Plündern dieser Menagerien nach einem erfolgreichen Kriegszug eben das Gegenstück dazu. Jäger oder „Forschungsreisende“ brachten lebendige Tiere für den Zoo und präparierte Kadaver für das Naturkundemuseum von ihren Reisen und Expeditionen zurück. das Naturkundemuseum erhielt auch vollständige Sammlungen von professionellen Naturkundlern und ambitionierten Laien. [Text Line Collecting] Bei diesen Geschenken war nicht immer eine vorherige Sammlungsabsicht abgesprochen oder das Geschenk planvoll angebahnt worden. Es sind opportunistische Sammlungszugänge, die mal mehr, mal weniger Zufällen unterlagen. Selten wurden die Geschenke auch zuvor aktiv gewünscht, was nicht heißt, dass sie nicht dennoch willkommen waren. Bei der Gründung des Berliner Zoologische Gartens aber waren Geschenke bereits Teil des Fundaments der Sammlung. Die ersten Tiere kamen als Geschenk des preußischen Königs Friedrich Wilhelm IV. aus der Menagerie auf der Pfaueninsel. Diese Sammlung exotischer Tiere war zuvor von Martin Lichtenstein betreut worden. Dieser war der erste Professor für Zoologie an der neugegründeten Friedrich-Wilhelm- Universität und Direktor des Zoologischen Museums. Zusammen mit dem Forschungsreisenden und Höfling des Königs Alexander von Humboldt hatte er bei Friedrich Wilhelm IV. erfolgreich für die Gründung eines Zoos geworben. Als dieser dann eröffnet wurde gingen Teile des Mobiliars und der Tiere der Menagerie auf den Zoo über, der sich auch auf königlichem Grund und Boden, der ehemaligen Fasanerie im Park Tiergarten, befand.
+Von der Expansion des europäischen Kolonialbesitzes profitierten schließlich beide Institutionen. Seit 1891 werden in den Geschäftsberichten des Zoos regelmäßig Geschenke aus den Kolonialgebieten erwähnt. Mitglieder des kaiserlichen Haushaltes, Gouverneure, Kolonialgesellschaften und Kaufleute sandten dem Zoo seltene Tiere. 1907 hatte der Zoo elf Löwen und nur ein Tier war kein Geschenk aus den Kolonien.[^colonial1]
 
-Seit 1891 werden in den Geschäftsberichten des Zoos nun auch regelmäßig Geschenke aus den Kolonialgebieten erwähnt. Mitglieder des kaiserlichen Haushaltes, Gouverneure, Kolonialgesellschaften und Kaufleute sandten dem Zoo seltene Tiere. 1907 hatte der Zoo elf Löwen und nur ein Tier war kein Geschenk aus den Kolonien.(Geschäftsberichte über die Jahre 1891-1914, hier insb. Geschäftsbericht über das Jahr 1907)
+Jäger oder "Forschungsreisende" brachten lebendige Tiere für den Zoo und präparierte Kadaver für das Naturkundemuseum von ihren Reisen und Expeditionen zurück. das Naturkundemuseum erhielt auch vollständige Sammlungen von professionellen Naturkundlern und ambitionierten Laien. Bei diesen Geschenken war nicht immer eine vorherige Sammlungsabsicht abgesprochen oder das Geschenk planvoll angebahnt worden. Es sind opportunistische Sammlungszugänge, die mal mehr, mal weniger Zufällen unterlagen. Selten wurden die Geschenke auch zuvor aktiv gewünscht, was nicht heißt, dass sie nicht dennoch willkommen waren.
 
-Geschenke blieben auch in den nächsten Jahren die wichtigste Quelle für Tiere für den Berliner Zoo. Von den ersten Elefanten des Zoos waren die meisten Geschenke, wie zum Beispiel die indischen Elefantenbullen "Rostom" und "Omar", die der Prinz von Wales seinem deutschen Cousin vermachte, der sie wiederum an den Zoo gab. Auch später als der internationale Tierhandel [ _Text Trade] bereits einen großen Teil der Tiere für die internationalen Tiergärten beschaffte, blieben Geschenke wertvolle Ergänzungen der Sammlungen. Zu den Geschenken deutscher Forschungsreisender gehörte zum Beispiel das "Deutsch-Ostafrikanisches Nashorn“ von Carl Georg Schillings. Auch als  Hans Schomburgk das als ausgestorben angesehene Zwergflusspferd wieder entdeckte, landete durch ihn ein Exemplar [ Zwergflusspferd von Hans Schomburgk] im Berliner Zoo. Er brachte auch die Schimpansin Susi in den Zoo, die viele Besucherinnen und Besucher anzog. Sogar die Deutsche Südpolarexpedition schenkte dem Zoo Tiere. In diesem Fall waren es Schlittenhunde, die die Expedition begleitet hatten. Einen besonderen Platz nehmen ab etwa 1890 die direkt aus den neuen deutschen Kolonien verschickte Geschenke deutscher Kolonialbeamter, Kolonialgesellschaften oder anderer Reisender ein. Der Kolonialbeamte Hermann Wissmann brachte 1897 den sogenannten [[material.Wissmann-Lion]] aus Deutsch-Ost-Afrika in den Berliner Zoo.Tiergeschenke bildeten seit jeher eine besondere Form der kulturellen Diplomatie. Schon Karl der Große unterhielt im 8. Jahrhundert auf seinen Pfalzen Menagerien, in denen die Geschenke anderer Fürsten untergebracht waren. Exotische Tiere waren Ausweis von Macht, sie zu fangen, zu besitzen und am Leben zu erhalten zu können zeigte die eigene Bedeutung. Sie zu verschenken potenzierte dieses Bild. So hatten Tiere als Geschenke neben ihrem reinen finanziellen auch einen kulturellen Wert. Aber auch in den letzten Jahrzehnten des 20. Jahrhunderts wurden lebende Tiere als Objekte einer kulturellen Diplomatie verwendet. Die chinesischen Regierungen versandten seit etwa Mitte der 1970er Jahre Exemplare des stark bedrohten Großen Pandas in Zoos von Ländern, mit denen zu diesem Zeitpunkt besondere Beziehungen wünschten.
+Geschenke blieben auch in den nächsten Jahren die wichtigste Quelle für Tiere für den Berliner Zoo. Von den ersten Elefanten des Zoos waren die meisten Geschenke, wie zum Beispiel die indischen Elefantenbullen "Rostom" und "Omar", die der Prinz von Wales seinem deutschen Cousin vermachte, der sie wiederum an den Zoo gab. Auch später als der internationale Tierhandel [ _Text Trade] bereits einen großen Teil der Tiere für die internationalen Tiergärten beschaffte, blieben Geschenke wertvolle Ergänzungen der Sammlungen. Zu den Geschenken deutscher Forschungsreisender gehörte zum Beispiel das "Deutsch-Ostafrikanisches Nashorn“ von Carl Georg Schillings. Auch als  Hans Schomburgk das als ausgestorben angesehene Zwergflusspferd wieder entdeckte, landete durch ihn ein Exemplar [ Zwergflusspferd von Hans Schomburgk] im Berliner Zoo. Er brachte auch die Schimpansin Susi in den Zoo, die viele Besucherinnen und Besucher anzog. Sogar die Deutsche Südpolarexpedition schenkte dem Zoo Tiere. In diesem Fall waren es Schlittenhunde, die die Expedition begleitet hatten. Einen besonderen Platz nehmen ab etwa 1890 die direkt aus den neuen deutschen Kolonien verschickte Geschenke deutscher Kolonialbeamter, Kolonialgesellschaften oder anderer Reisender ein. Der Kolonialbeamte Hermann Wissmann brachte 1897 den sogenannten [[material.Wissmann-Lion]] aus Deutsch-Ost-Afrika in den Berliner Zoo.
+
+### Kulturelle Diplomatie - Auch heute noch Geschenke
+
+Hinzu kamen und Tiergeschenke bildeten seit jeher eine besondere Form der kulturellen Diplomatie. Schon Karl der Große unterhielt im 8. Jahrhundert auf seinen Pfalzen Menagerien, in denen die Geschenke anderer Fürsten untergebracht waren. Exotische Tiere waren Ausweis von Macht, sie zu fangen, zu besitzen und am Leben zu erhalten zu können zeigte die eigene Bedeutung. Sie zu verschenken potenzierte dieses Bild. So hatten Tiere als Geschenke neben ihrem reinen finanziellen auch einen kulturellen Wert. Aber auch in den letzten Jahrzehnten des 20. Jahrhunderts wurden lebende Tiere als Objekte einer kulturellen Diplomatie verwendet. Die chinesischen Regierungen versandten seit etwa Mitte der 1970er Jahre Exemplare des stark bedrohten Großen Pandas in Zoos von Ländern, mit denen zu diesem Zeitpunkt besondere Beziehungen wünschten.
 [hier mehr zu kolonialen Kontexten auch außerhalb der eigentlichen Geschenke und der deutschen Kolonien]
 [hier mehr zu eben jenen Geschenken und geschenkten Sammlungen an das Museum]
 
-### Auch heute noch Geschenke
-
 Das nachweislich älteste Tiere des Berliner Zoos war 2021 der Flamingo „Ingo. Der Vogel aus der Gattung der Rosaflamingos kam wohl im Juli 1955 aus dem gerade eröffneten Tierpark in Berlin Friedrichsfelde. Ein Ring weist darauf hin, dass das männliche Tier 1948 im Zoo von Kairo geboren wurde.[^1]
-
 
 ## Das Zeitalter der Entdeckunsreisenden
 
+[[story.Collecting Specimen]]
 Burchell Dittrich Vom Souvenir, 338)In den 1830er Jahren begann
 
 ## Tierhandel
 
 ## Eigene Expeditionen
 
-(Schäfer Tibet Museum und Lutz Heck Zoo)
+Eine im Zoo seltener, im naturkundemuseum häufiger genutzte Quelle von Tieren und Objekten waren selbst organisierte oder unterstützte Expeditionen. 
+(Schäfer Tibet Museum
+
+Im Berliner Zoo wurden eigene Fangexpeditionen nur in einem sehr begrenzten Maß durchgeführt. [[material.Oskar Heinroth]], der selbst Expeditionserfahrung aus seiner früheren Karriere hatte, fuhr in der ersten Hälfte des 20. Jahrhunderts regelmäßig in die bei Rovigno an der Adria gelegene Zoologische Station der Kaiser-Wilhelm-Gesellschaft und brachte stets neue Tiere für das Berliner Aquarium [[story.Short History Aquarium]] mit. Noch 1942 stellte er einen Tiertransport dort zusammen.[^expeditions2] Auch im Naturkundemuseum gab es Pläne für eine Zusammenarbeit mit der Forschungsstation.[^expeditions1]
+
+Lutz Heck Zoo)
 
 ### Naturkundemuseen
 
@@ -117,11 +129,19 @@ in den Sitzungen des VDZ der 1960er ist der Schutz der Orangs immer wieder Thema
 Eng mit der Zucht verbunden, nicht aber stets und immer der Grund dafür, ist der Tiertausch zwischen den Zoos. 
 
 ----
-
 ## Footnotes
 
 [^gifts1]: Vgl. Giere, Peter, Peter Bartsch, und Christiane Quaisser. 2018. „Berlin: From Humboldt to HVac - The Zoological Collections of the Museum für Naturkunde Leibniz Institute for Evolution and Biodiversity Science in Berlin“. In Zoological Collections of Germany, herausgegeben von Lothar A. Beck, 89–122. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-44321-8_11 und Damaschun, Ferdinand, und Hannelore Landsberg. 2010. „‚...so bleiben dem materiell Gesammelten und geographisch Geordnetem fast allein ein langdauernder Werth‘ - 200 Jahre Museum für Naturkunde“. In Art, Ordnung, Klasse: 200 Jahre Museum für Naturkunde, herausgegeben von Ferdinand Damaschun, Sabine Hackethal, Hannelore Landsberg, und Reinhold Leinfelder, 13–23. Rangsdorf: Basilisken-Presse.
 
 [^gifts2]: Zur Gründungsgeschichte des Berliner Zoos vgl. Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Berlin: Ch. Links Verlag.
 
+[^gifts3]: Bartsch, und Quaisser (2018): 94-99.
+
+[^gifts4]: Maier-Wolthausen (2019): 33-38.
+
+[^colonial1]: Geschäftsberichte über die Jahre 1891-1914, hier insb. Geschäftsbericht über das Jahr 1907.
+
+[^expeditions1]: Eckert, Carsten. 2010. "Ein U-Boot für die Wissenschaft - Mäzenatentum im Kaiserreich, Aspekte aus dem Nachlass von Walther Arndt". In Art, Ordnung, Klasse: 200 Jahre Museum für Naturkunde, herausgegeben von Ferdinand Damaschun, Sabine Hackethal, Hannelore Landsberg, und Reinhold Leinfelder, 170–75. Rangsdorf: Basilisken-Presse.
+
+[^expeditions2]: Heinroth, Katharina. 1971. Oskar Heinroth. Bd. 35. Große Naturforscher. Stuttgart: Wissenschaftliche Verlagsgesellschaft: 169.
 
