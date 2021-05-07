@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: Acquisition
 desc: The various sources of animal objects for museums and zoos.
-updated: 1620387818859
+updated: 1620401333086
 created: 1618498026144
 title_de: Tiere sammeln
 desc_de: Tiere und Tierobjekte kommen aus vielen unterschiedlichen Quellen.
@@ -19,7 +19,11 @@ English content goes here.
 
 :::DE:::
 
+**Clemens Maier-Wolthausen**
+
 # Wie kommen die Tiere in Zoo und Museum?
+
+>Lebende und tote Tiere für die Sammlungen des Zoologischen Gartens, Aquariums und Tierparks Berlin und des Museums für Naturkunde kamen und kommen aus unterschiedlichen Quellen. Diese haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen für diese Einrichtungen - politische, logistische und moralische.
 
 ## Zoos und Museen sind Tiersammlungen
 
@@ -27,9 +31,6 @@ Zoos, Tierparks, Aquarien, Naturkundemuseen, Zoologische oder Biologische Lehrsa
 
 **Das kunstvoll präparierte Schaupräparat, das in den Dioramen der Naturkundemuseen wie lebensecht dargestellte Tier, ist nicht die Regel. Zwar nehmen die Besucherinnen und Besucher dieses am meisten wahr, hinter den Kulissen der Museen aber befinden sich die oft um ein Vielfaches größeren 'wissenschaftlichen Sammlungen' der Häuser.** In diesen finden unzählige Objekte, die Forscher\*innen aus aller Welt als Quellen oder Vergleichsmaterial ihrer wissenschaftlichen Arbeiten dienen. Mal sind es vollständige Skelette, mal sind es gar nur fossile Knochenteile. Die wissenschaftlichen Sammlungen des Naturkundemuseums umfassten 2021 mehr als 30 Millionen Objekte. Davon bekommen die Besucherinnen und Besucher selbstverständlich nur einen kleinen Teil zu sehen.
 **Bei Zoos ist die Trennung in unterschiedliche Sammlungen nicht vorhanden.** Wohl aber gibt es Räumlichkeiten, in denen Tiere aus unterschiedlichen Gründen isoliert werden können, sei es, weil sie tragend sind oder gebären, oder weil sie krank sind und von den Artgenossen isoliert werden. Im Tierpark Berlin lebte der alte China-Alligator "Mao" die letzten Jahre seines langen Lebens von den Besuchern und kampflustigen jüngeren Artgenossen unbehelligt in einem Becken hinter den Kulissen. Manche Tierarten werden bei zu kaltem Wetter in den Tierhäusern eingesperrt oder aber haben die Möglichkeit sich selbst auszusuchen, wo sie sich aufhalten wollen. In der Regel aber sind die allermeisten Zootiere für die Besucher sichtbar, wenn sie sich nicht entscheiden, sich zu verstecken.
-
-![Zwei Männer begutachten einen jungen Alligator](images\cmw\Dathe_Petzold_Mao.jpg)
-*China-Alligator "Mao" wird nach seiner Ankunft im Mai 1957 durch Tierparkdirektor Heinrich Dathe und den Oberassistenten untersucht. (AZGB)*
 
 Bei jeder naturkundlichen Sammlung lebender oder präparierter Tiere stellt sich die Frage, mit welchen Mitteln sie gefüllt wird. Wie kommen die Tiere oder Spezimen in Zoos oder Naturkundemuseen? Daran schließen sich zwei wesentliche Fragen an:
 
@@ -56,10 +57,10 @@ Mit diesen unterschiedlichen Quellen an Tierobjekten hängen jeweils auch unters
 * große und möglichst vollständige Skelette von Dinosauriern oder Walen in Naturkundemuseen
 * Pandas oder andere sehr schauwertige Tiere in Zoos.
 
-![desc](images\cmw\Aqua_Fischtransport_Seitz.jpg)
+![desc](images/cmw/Aqua_Fischtransport_Seitz.jpg)
 *Ankunft von neuen Tieren für das Aquarium Berlin, um 1920. (AZGB)*
 
-![desc](images\cmw\Giraffentransport_1928_S_3_58_Wolter.jpg)
+![desc](images/cmw/Giraffentransport_1928_S_3_58_Wolter.jpg)
 *Giraffentransport für den Zoo, 1928. (AZGB, Foto Wolter)*
 
 ## Geschenke von Herrschern und Gönnern
@@ -68,7 +69,7 @@ Die Fundamente des Berliner Naturkundemuseums [[story.Short History MfN]] und Zo
 
 Die Basis für den 1844 gegründeten 'Zoologischen Garten bei Berlin' beruhte ausschließlich auf königlichen Geschenken. Sowohl das in Erbpacht für einen nominalen Preis überlassene Gelände im südlichen Teil des Tiergartens als auch Tiere und sogar Materialien für die Umzäunung des Geländes kamen aus königlichem Besitz. Friedrich Wilhelm IV. gestattete dem Gründungsdirektor und erstem Professor für Zoologie der Berliner Universität, Martin Hinrich Lichtenstein, aus den Tieren der königlichen Menagerie auf der Pfaueninsel diejenigen auszusuchen, die er auszustellen beabsichtigte. Die Tierhäuser der Pfaueninsel wurden abgebaut und im Zoo aufgestellt. Hinzu kamen mehrere großzügige zinslose Darlehen.[^gifts2]
 
-![desc](images\cmw\Zooplan_1845.jpg)
+![desc](images/cmw/Zooplan_1845.jpg)
 *Plan des Zoologischen Gartens bei Berlin, 1845. (AZGB)*
 
 In beiden Fällen wurden die königlichen Geschenke bald von Privatleuten, Gelehrten und Beamten ergänzt. Im Naturkundemuseum waren unter anderem Sammlungen des Entomologen Johann von Hoffmannsegg und Alexander von Huumboldt, die - möglicherweise auch durch finanzierung des Herrscherhauses - das Museum weiter bereicherten.[^gifts3] Auch der Zoo erhielt fortan Geschenke für seine Sammlung. So bat dessen Leitung Preußische Beamte udn Diplomaten in Übersee um Schenkungen.[^gifts4]
@@ -86,6 +87,9 @@ Geschenke blieben auch in den nächsten Jahren die wichtigste Quelle für Tiere 
 Hinzu kamen und Tiergeschenke bildeten seit jeher eine besondere Form der kulturellen Diplomatie. Schon Karl der Große unterhielt im 8. Jahrhundert auf seinen Pfalzen Menagerien, in denen die Geschenke anderer Fürsten untergebracht waren. Exotische Tiere waren Ausweis von Macht, sie zu fangen, zu besitzen und am Leben zu erhalten zu können zeigte die eigene Bedeutung. Sie zu verschenken potenzierte dieses Bild. So hatten Tiere als Geschenke neben ihrem reinen finanziellen auch einen kulturellen Wert. Aber auch in den letzten Jahrzehnten des 20. Jahrhunderts wurden lebende Tiere als Objekte einer kulturellen Diplomatie verwendet. Die chinesischen Regierungen versandten seit etwa Mitte der 1970er Jahre Exemplare des stark bedrohten Großen Pandas in Zoos von Ländern, mit denen zu diesem Zeitpunkt besondere Beziehungen wünschten.
 [hier mehr zu kolonialen Kontexten auch außerhalb der eigentlichen Geschenke und der deutschen Kolonien]
 [hier mehr zu eben jenen Geschenken und geschenkten Sammlungen an das Museum]
+
+![Zwei Männer begutachten einen jungen Alligator](images/cmw/Dathe_Petzold_Mao.jpg)
+*China-Alligator "Mao" wird nach seiner Ankunft im Mai 1957 durch Tierparkdirektor Heinrich Dathe und den Oberassistenten untersucht. (AZGB)*
 
 Das nachweislich älteste Tiere des Berliner Zoos war 2021 der Flamingo „Ingo. Der Vogel aus der Gattung der Rosaflamingos kam wohl im Juli 1955 aus dem gerade eröffneten Tierpark in Berlin Friedrichsfelde. Ein Ring weist darauf hin, dass das männliche Tier 1948 im Zoo von Kairo geboren wurde.[^1]
 
@@ -121,11 +125,12 @@ Bridges, William: Zoo expeditions; o. O. 1945.Eine besondere Form der "Expedit
 
 in den Sitzungen des VDZ der 1960er ist der Schutz der Orangs immer wieder Thema und wird widersprüchlich diskutiert - es scheint als wollten einge Direktoren schlicht nicht auf Orangs verzichten.
 
-![Aquariumsbecken mit Quallen](images\cmw\Quallenaufzucht_um1999.jpg)
+![Aquariumsbecken mit Quallen](images/cmw/Quallenaufzucht_um1999.jpg)
 *In diesen Becken züchtete das Berliner Aquarium Ende der 1990er Jahre erfolgreich Quallen. (AZGB)*
 
-## Tiertausch zwischen Zoos
+## Dublettenhandel und Tiertausch zwischen Zoos
 
+Insbesondere das Naturkundemuseum
 Eng mit der Zucht verbunden, nicht aber stets und immer der Grund dafür, ist der Tiertausch zwischen den Zoos. 
 
 ----
