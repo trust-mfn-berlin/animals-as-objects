@@ -2,7 +2,7 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1620411986728
+updated: 1620412193793
 created: 1618576718116
 title_de: Knut
 desc_de: Put a DE description of this note here...
@@ -21,7 +21,7 @@ English content goes here.
 
 **Clemens Maier-Wolthausen**
 
-# Rockstar Knut
+# Rockstar "Knut"
 
 *Summary*
 
@@ -53,7 +53,7 @@ Hinzu kam ein besonderes Timing. "Knut" kam zu einem Zeitpunkt, an dem zum erste
 ![Kinderbild eines Eisbären](images/cmw/Knut_Agatha_CooperStationNY.jpg)
 *Knut wurde weltweit berühmt, sogar Kinder aus Cooper Station, NY in den USA schrieben ihm Briefe mit selbstgemalten Bildern. (AZGB)*
 
-## Die Marke Knut
+## Die Marke "Knut"
 
 Der Zoo wollte das rege Interesse an dem Bären nutzen, finanziell und für den Artenschutz. Er schuf eine Marke, unter der lizensierte Produkte zum Verkauf angeboten wurden. Die **Erlöse kamen auch Artenschutzprojekten** zugute.[^trademark1] Der damalige Bundesumweltminister Sigmar Gabriel wurde offizieller Pate des kleinen Eisbären. Das sollte helfen, auf den menschengemachten globalen Klimawandels aufmerksam zu machen.[^trademark2] Im Frühjahr 2008 kam sogar ein Film über den jungen Eisbären und andere Tiere in die Kinos.[^trademark3] Die deutsche Ausgabe des Magazins 'Vanity Fair' hob "Knut" auf ihre Titelseite, die amerikanische zeigte ihn in einer Fotomontage zusammen mit Filmstar Leonardo di Caprio, der in jenem Jahr einen Film über den menschengemachten Klimawandel produziert hatte, auf einer Eisscholle.
 
@@ -100,7 +100,7 @@ Die benötigten Spenden wurden vom Förderverein 'Stiftung Hauptstadtzoos' gesam
 
 - [ ] Bild der Münze aus dem Archiv?
 
-## Knuts Tod und Präparation - Proteste und Vermenschlichung
+## "Knuts" Tod und Präparation - Proteste und Vermenschlichung
 
 Schon kurz nach dem Tod des Eisbären wurde die Entscheidung getroffen, den Kadaver des Tieres in das **Naturkundemuseum** zu bringen. Dort sollte er präpariert werden und als Objekt weiterhin naturkundlicher Bildung dienen. Gegen diese fortgesetzte Aussstellung entbrandte unter den Knut-Fans ein **wütender Protest**. Hatten diese Besucher\*innen schon zu Knuts Lebzeiten Tendenzen einer starken Anthropomorphisierung/ Vemernschlichung des Eisbären gezeigt, wurden diese nun auch auf das tote Tier übertragen. Wieder erreichten den Zoo zahllose Schreiben, zwar äußerten manche Autor\*innen Verständnis für den Transfer des Tieres in das Naturkundemuseum, ander beklagten diesen aber als 'pietätlos'.
 
@@ -130,7 +130,7 @@ Letztlich wurde Knut präpariert und ist sein Präparat heute  im Museum für Na
 ![desc](images/cmw/130220_Knut_Foyer_03.jpg)
 *"Knut" in der Ausstellung des Naturkundemuseums, 2013. (Carola Radke, MfN 2013)*
 
-## Knut forever
+## "Knut" forever
 
 Noch 2020 war das Thema "Knut" und Dörflein geeignet, Emotionen auszulösen. Zum 12. Todestag von Thomas Dörflein erinnerte der Förderverein der Freunde der Hauptstadtzoos an den Tod des Pflegers von Knut.
 
