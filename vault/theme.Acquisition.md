@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: Acquisition
 desc: The various sources of animal objects for museums and zoos.
-updated: 1620401333086
+updated: 1620402412758
 created: 1618498026144
 title_de: Tiere sammeln
 desc_de: Tiere und Tierobjekte kommen aus vielen unterschiedlichen Quellen.
@@ -23,22 +23,28 @@ English content goes here.
 
 # Wie kommen die Tiere in Zoo und Museum?
 
+*Summary*
 >Lebende und tote Tiere für die Sammlungen des Zoologischen Gartens, Aquariums und Tierparks Berlin und des Museums für Naturkunde kamen und kommen aus unterschiedlichen Quellen. Diese haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen für diese Einrichtungen - politische, logistische und moralische.
 
 ## Zoos und Museen sind Tiersammlungen
 
-Zoos, Tierparks, Aquarien, Naturkundemuseen, Zoologische oder Biologische Lehrsammlungen - sie alle sind naturkundliche Sammlungen. Sie enthalten in eingezäunten oder von Gräben umschlossenen Gehegen,  Tierhäusern oder in Vitrinen und auf Podesten ausgestellte lebende Tiere aber auch 'ausgestopfte', in Alkohol aufbewahrte oder nach den neuesten Erkenntnissen der Präparierkunst konservierte Tierhäute, Knochen, Felle, Schädel oder auch Organe von Organismen.
+Zoos, Tierparks, Aquarien, Naturkundemuseen - sie alle sind naturkundliche Sammlungen. Sie enthalten in eingezäunten oder von Gräben umschlossenen Gehegen,  Tierhäusern oder in Vitrinen und auf Podesten ausgestellte lebende Tiere aber auch 'ausgestopfte', in Alkohol aufbewahrte oder nach den neuesten Erkenntnissen der Präparierkunst konservierte Tierhäute, Knochen, Felle, Schädel oder auch Organe von tierischen Organismen.
 
 **Das kunstvoll präparierte Schaupräparat, das in den Dioramen der Naturkundemuseen wie lebensecht dargestellte Tier, ist nicht die Regel. Zwar nehmen die Besucherinnen und Besucher dieses am meisten wahr, hinter den Kulissen der Museen aber befinden sich die oft um ein Vielfaches größeren 'wissenschaftlichen Sammlungen' der Häuser.** In diesen finden unzählige Objekte, die Forscher\*innen aus aller Welt als Quellen oder Vergleichsmaterial ihrer wissenschaftlichen Arbeiten dienen. Mal sind es vollständige Skelette, mal sind es gar nur fossile Knochenteile. Die wissenschaftlichen Sammlungen des Naturkundemuseums umfassten 2021 mehr als 30 Millionen Objekte. Davon bekommen die Besucherinnen und Besucher selbstverständlich nur einen kleinen Teil zu sehen.
-**Bei Zoos ist die Trennung in unterschiedliche Sammlungen nicht vorhanden.** Wohl aber gibt es Räumlichkeiten, in denen Tiere aus unterschiedlichen Gründen isoliert werden können, sei es, weil sie tragend sind oder gebären, oder weil sie krank sind und von den Artgenossen isoliert werden. Im Tierpark Berlin lebte der alte China-Alligator "Mao" die letzten Jahre seines langen Lebens von den Besuchern und kampflustigen jüngeren Artgenossen unbehelligt in einem Becken hinter den Kulissen. Manche Tierarten werden bei zu kaltem Wetter in den Tierhäusern eingesperrt oder aber haben die Möglichkeit sich selbst auszusuchen, wo sie sich aufhalten wollen. In der Regel aber sind die allermeisten Zootiere für die Besucher sichtbar, wenn sie sich nicht entscheiden, sich zu verstecken.
+**Bei Zoos ist die Trennung in unterschiedliche Sammlungen nicht vorhanden.** Wohl aber gibt es Räumlichkeiten, in denen Tiere aus unterschiedlichen Gründen isoliert werden können, sei es, weil sie tragend sind oder gebären, oder weil sie krank sind und von den Artgenossen isoliert werden. Im Tierpark Berlin lebte der alte China-Alligator "Mao" die letzten Jahre seines langen Lebens von den Besuchern und kampflustigen jüngeren Artgenossen unbehelligt in einem Becken hinter den Kulissen. 
+
+![Zwei Männer begutachten einen jungen Alligator](images/cmw/Dathe_Petzold_Mao.jpg)
+*China-Alligator "Mao" wird nach seiner Ankunft im Mai 1957 durch Tierparkdirektor Heinrich Dathe und den Oberassistenten untersucht. (AZGB)*
+
+Manche Tierarten werden bei zu kaltem Wetter in den Tierhäusern eingesperrt oder aber haben die Möglichkeit sich selbst auszusuchen, wo sie sich aufhalten wollen. In der Regel aber sind die allermeisten Zootiere für die Besucher sichtbar, wenn sie sich nicht entscheiden, sich zu verstecken.
 
 Bei jeder naturkundlichen Sammlung lebender oder präparierter Tiere stellt sich die Frage, mit welchen Mitteln sie gefüllt wird. Wie kommen die Tiere oder Spezimen in Zoos oder Naturkundemuseen? Daran schließen sich zwei wesentliche Fragen an:
 
-* Und wer sammelt, fängt oder transportiert eigentlich die Spezimen, Felle, Gebeine, Präparate und lebenden Tiere in ein Museum oder einen Zoo?
+* **Und wer sammelt, fängt oder transportiert eigentlich die Spezimen, Felle, Gebeine, Präparate und lebenden Tiere in ein Museum oder einen Zoo?**
 
 und
 
-* Wer entscheidet, was gesammelt wird?
+* **Wer entscheidet, was gesammelt wird?**
 
 ## Tierquellen
 
@@ -54,8 +60,8 @@ Im Museum naturgemäß von geringer Bedeutung, im Zoo seit dem Verbot des Handel
 
 Mit diesen unterschiedlichen Quellen an Tierobjekten hängen jeweils auch unterschiedliche Akquisestrategien und Handlungsanforderungen für die Institutionen zusammen. Das betrifft die Vorbereitung, die Logistik  rund um den Erwerb und die benötigten Arbeits- und Finanzmittel. Die Ausstattung einer eigenen Sammlungs- oder Fangexpedition benötigt neben den behördlichen Genehmigungen auch eine größere finanzielle Anfangsinvestition. Ein geschenktes Tierobjekt muss untergebracht und unterhalten werden. Für die Zucht in Zoos muss das notwendige biologische und tiermedizinische Wissen vorhanden sein und vor allem ausreichend Platz. Dieser wird nicht nur für die größere Gruppe benötigt, um mehr Tiere unterzubringen, auch vermehren sich Tiere in menschlicher Obhut seltener auf kleinem Raum. Werden Tierobjekte von Museen und lebende Tiere von Zoos gekauft, müssen die Geldmittel zur Verfügung stehen, es muss wiederum Platz vorhanden sein und das Tierobjekt muss in die eigene Ausstellungs- oder Forschungsstrategie passen. So sind die Objekte entweder interessant, weil sie neue Forschungen im Zusammenhang mit den bereits vorhandenen erlauben, einzigartig und neu sind oder aber großes Interesse seitens der Besucher\*innen erwarten lassen. [[Schauwert]] Klassische Beispiele für letzteres sind:
 
-* große und möglichst vollständige Skelette von Dinosauriern oder Walen in Naturkundemuseen
-* Pandas oder andere sehr schauwertige Tiere in Zoos.
+* große und möglichst vollständige Skelette von **Dinosauriern** oder **Walen** in Naturkundemuseen
+* **Pandas** oder andere sehr **schauwertige Tiere** in Zoos.
 
 ![desc](images/cmw/Aqua_Fischtransport_Seitz.jpg)
 *Ankunft von neuen Tieren für das Aquarium Berlin, um 1920. (AZGB)*
@@ -76,47 +82,58 @@ In beiden Fällen wurden die königlichen Geschenke bald von Privatleuten, Geleh
 
 ### Koloniale Beute
 
-Von der Expansion des europäischen Kolonialbesitzes profitierten schließlich beide Institutionen. Seit 1891 werden in den Geschäftsberichten des Zoos regelmäßig Geschenke aus den Kolonialgebieten erwähnt. Mitglieder des kaiserlichen Haushaltes, Gouverneure, Kolonialgesellschaften und Kaufleute sandten dem Zoo seltene Tiere. 1907 hatte der Zoo elf Löwen und nur ein Tier war kein Geschenk aus den Kolonien.[^colonial1]
+Von der Expansion des europäischen Kolonialbesitzes profitierten schließlich beide Institutionen. Seit 1891 wurden in den Geschäftsberichten des Zoos regelmäßig Geschenke aus den Kolonialgebieten erwähnt. Mitglieder des kaiserlichen Haushaltes, Gouverneure, Kolonialgesellschaften und Kaufleute sandten dem Zoo seltene Tiere. 1907 hatte der Zoo elf Löwen und nur ein Tier war kein Geschenk aus den Kolonien.[^colonial1]
 
-Jäger oder "Forschungsreisende" brachten lebendige Tiere für den Zoo und präparierte Kadaver für das Naturkundemuseum von ihren Reisen und Expeditionen zurück. das Naturkundemuseum erhielt auch vollständige Sammlungen von professionellen Naturkundlern und ambitionierten Laien. Bei diesen Geschenken war nicht immer eine vorherige Sammlungsabsicht abgesprochen oder das Geschenk planvoll angebahnt worden. Es sind opportunistische Sammlungszugänge, die mal mehr, mal weniger Zufällen unterlagen. Selten wurden die Geschenke auch zuvor aktiv gewünscht, was nicht heißt, dass sie nicht dennoch willkommen waren.
+Jäger oder "Forschungsreisende" brachten lebendige Tiere für den Zoo und präparierte Kadaver für das Naturkundemuseum von ihren Reisen und Expeditionen zurück. Zumeist geschahen alle diese Expeditionen unter den Vorzeichen einer europäischen Dominanz, Selbsterhöhung und basierten auf demm Machtungleichgewicht zwischen den Kolonialländern und den zu erforschenden Regionen.
+Das Naturkundemuseum erhielt in dieser Zeit auch vollständige Sammlungen von professionellen Naturkundlern und ambitionierten Laien. Bei diesen Geschenken war nicht immer eine vorherige Sammlungsabsicht abgesprochen oder das Geschenk planvoll angebahnt worden. Es sind opportunistische Sammlungszugänge, die mal mehr, mal weniger Zufällen unterlagen. Selten wurden die Geschenke auch zuvor aktiv gewünscht, was nicht heißt, dass sie nicht dennoch willkommen waren.
 
-Geschenke blieben auch in den nächsten Jahren die wichtigste Quelle für Tiere für den Berliner Zoo. Von den ersten Elefanten des Zoos waren die meisten Geschenke, wie zum Beispiel die indischen Elefantenbullen "Rostom" und "Omar", die der Prinz von Wales seinem deutschen Cousin vermachte, der sie wiederum an den Zoo gab. Auch später als der internationale Tierhandel [ _Text Trade] bereits einen großen Teil der Tiere für die internationalen Tiergärten beschaffte, blieben Geschenke wertvolle Ergänzungen der Sammlungen. Zu den Geschenken deutscher Forschungsreisender gehörte zum Beispiel das "Deutsch-Ostafrikanisches Nashorn“ von Carl Georg Schillings. Auch als  Hans Schomburgk das als ausgestorben angesehene Zwergflusspferd wieder entdeckte, landete durch ihn ein Exemplar [ Zwergflusspferd von Hans Schomburgk] im Berliner Zoo. Er brachte auch die Schimpansin Susi in den Zoo, die viele Besucherinnen und Besucher anzog. Sogar die Deutsche Südpolarexpedition schenkte dem Zoo Tiere. In diesem Fall waren es Schlittenhunde, die die Expedition begleitet hatten. Einen besonderen Platz nehmen ab etwa 1890 die direkt aus den neuen deutschen Kolonien verschickte Geschenke deutscher Kolonialbeamter, Kolonialgesellschaften oder anderer Reisender ein. Der Kolonialbeamte Hermann Wissmann brachte 1897 den sogenannten [[material.Wissmann-Lion]] aus Deutsch-Ost-Afrika in den Berliner Zoo.
+Geschenke blieben auch in den nächsten Jahren die wichtigste Quelle für Tiere für den Berliner Zoo. Von den ersten Elefanten des Zoos waren die meisten Geschenke, wie zum Beispiel die indischen Elefantenbullen "Rostom" und "Omar", die der Prinz von Wales seinem Cousin dem Kronprinzen aus dem indischen Kolonialreich vermachte, der sie wiederum an den Zoo gab.
 
-### Kulturelle Diplomatie - Auch heute noch Geschenke
+- [ ] Bild von Rostom und Omar
+*Die beiden asiatischen Elefantenbullen "Rostom" und "Omar", XXXX. (AZGB)*
 
-Hinzu kamen und Tiergeschenke bildeten seit jeher eine besondere Form der kulturellen Diplomatie. Schon Karl der Große unterhielt im 8. Jahrhundert auf seinen Pfalzen Menagerien, in denen die Geschenke anderer Fürsten untergebracht waren. Exotische Tiere waren Ausweis von Macht, sie zu fangen, zu besitzen und am Leben zu erhalten zu können zeigte die eigene Bedeutung. Sie zu verschenken potenzierte dieses Bild. So hatten Tiere als Geschenke neben ihrem reinen finanziellen auch einen kulturellen Wert. Aber auch in den letzten Jahrzehnten des 20. Jahrhunderts wurden lebende Tiere als Objekte einer kulturellen Diplomatie verwendet. Die chinesischen Regierungen versandten seit etwa Mitte der 1970er Jahre Exemplare des stark bedrohten Großen Pandas in Zoos von Ländern, mit denen zu diesem Zeitpunkt besondere Beziehungen wünschten.
+Auch später als der internationale Tierhandel [[story.Trading Animals]] bereits einen großen Teil der Tiere für die internationalen Tiergärten beschaffte, blieben Geschenke wertvolle Ergänzungen der Sammlungen. Zu den Geschenken deutscher 'Forschungsreisender' gehörte zum Beispiel das "Deutsch-Ostafrikanisches Nashorn“ von Carl Georg Schillings.
+
+- [ ] Bild des Nashorns
+
+Auch als  Hans Schomburgk das als ausgestorben angesehene Zwergflusspferd wieder entdeckte, landete durch ihn ein Exemplar im Berliner Zoo. Er brachte auch die Schimpansin Susi in den Zoo, die viele Besucherinnen und Besucher anzog.
+
+- [ ] Bild Susi?
+
+Sogar die Deutsche Südpolarexpedition schenkte dem Zoo Tiere. In diesem Fall waren es Schlittenhunde, die die Expedition begleitet hatten.
+
+Einen besonderen Platz nehmen ab etwa 1890 die direkt aus den neuen deutschen Kolonien verschickte Geschenke deutscher Kolonialbeamter, Kolonialgesellschaften oder anderer Reisender ein. Der Kolonialbeamte [[material.Hermann Wissmann]] brachte 1897 den sogenannten [[material.Wissmann-Lion]] aus Deutsch-Ost-Afrika in den Berliner Zoo.
+
+- [ ] Materialhinweis oder aber Bild des Löwen? 
+
+## Kulturelle Diplomatie - Auch heute noch Geschenke
+
+Tiergeschenke bildeten seit jeher eine besondere Form der kulturellen Diplomatie. Schon Karl der Große unterhielt im 8. Jahrhundert auf seinen Pfalzen Menagerien, in denen die Geschenke anderer Fürsten untergebracht waren. Exotische Tiere waren Ausweis von Macht, sie zu fangen, zu besitzen und am Leben zu erhalten zu können zeigte die eigene Bedeutung. Sie zu verschenken potenzierte dieses Bild. So hatten Tiere als Geschenke neben ihrem reinen finanziellen auch einen kulturellen Wert.[^culturald1] Aber auch in den letzten Jahrzehnten des 20. Jahrhunderts wurden lebende Tiere als Objekte einer kulturellen Diplomatie verwendet. Die chinesischen Regierungen versandten seit etwa Mitte der 1970er Jahre Exemplare des stark bedrohten Großen Pandas in Zoos von Ländern, mit denen zu diesem Zeitpunkt besondere Beziehungen wünschten.
 [hier mehr zu kolonialen Kontexten auch außerhalb der eigentlichen Geschenke und der deutschen Kolonien]
 [hier mehr zu eben jenen Geschenken und geschenkten Sammlungen an das Museum]
 
-![Zwei Männer begutachten einen jungen Alligator](images/cmw/Dathe_Petzold_Mao.jpg)
-*China-Alligator "Mao" wird nach seiner Ankunft im Mai 1957 durch Tierparkdirektor Heinrich Dathe und den Oberassistenten untersucht. (AZGB)*
-
 Das nachweislich älteste Tiere des Berliner Zoos war 2021 der Flamingo „Ingo. Der Vogel aus der Gattung der Rosaflamingos kam wohl im Juli 1955 aus dem gerade eröffneten Tierpark in Berlin Friedrichsfelde. Ein Ring weist darauf hin, dass das männliche Tier 1948 im Zoo von Kairo geboren wurde.[^1]
-
-## Das Zeitalter der Entdeckunsreisenden
-
-[[story.Collecting Specimen]]
-Burchell Dittrich Vom Souvenir, 338)In den 1830er Jahren begann
 
 ## Tierhandel
 
+- Ursprünge
+- Monopole
+- Professionalisierung
+- Ausbeutung
+
 ## Eigene Expeditionen
 
-Eine im Zoo seltener, im naturkundemuseum häufiger genutzte Quelle von Tieren und Objekten waren selbst organisierte oder unterstützte Expeditionen. 
-(Schäfer Tibet Museum
+Eine im Zoo seltener, im Naturkundemuseum häufiger genutzte Quelle von Tieren und Objekten waren selbst organisierte oder unterstützte Expeditionen.
+
+- Schäfer Tibet Museum
 
 Im Berliner Zoo wurden eigene Fangexpeditionen nur in einem sehr begrenzten Maß durchgeführt. [[material.Oskar Heinroth]], der selbst Expeditionserfahrung aus seiner früheren Karriere hatte, fuhr in der ersten Hälfte des 20. Jahrhunderts regelmäßig in die bei Rovigno an der Adria gelegene Zoologische Station der Kaiser-Wilhelm-Gesellschaft und brachte stets neue Tiere für das Berliner Aquarium [[story.Short History Aquarium]] mit. Noch 1942 stellte er einen Tiertransport dort zusammen.[^expeditions2] Auch im Naturkundemuseum gab es Pläne für eine Zusammenarbeit mit der Forschungsstation.[^expeditions1]
 
-Lutz Heck Zoo)
-
-### Naturkundemuseen
-
-### Zoos
-
-Bridges, William: Zoo expeditions; o. O. 1945.Eine besondere Form der "Expedition" von Zoos können wir in Berlin auch beobachten.Somer 1936 Afrika Reise Eva Mac Lean bringt durch glücklichen Umstand Efeka nach berlin; Heck, Lutz: Karlchen; in: Die Grüne Post (1937), H. 31, S. 13.
-
+- Lutz Heck Zoo [[story.Heck Expeditions]]
 
 ## Zucht
+
+[[story.Breeding Animals for the Zoo]]
 
 * Orangs als frühes Beispiel für Schutz
 * Steinbock und Wisent
@@ -149,4 +166,6 @@ Eng mit der Zucht verbunden, nicht aber stets und immer der Grund dafür, ist de
 [^expeditions1]: Eckert, Carsten. 2010. "Ein U-Boot für die Wissenschaft - Mäzenatentum im Kaiserreich, Aspekte aus dem Nachlass von Walther Arndt". In Art, Ordnung, Klasse: 200 Jahre Museum für Naturkunde, herausgegeben von Ferdinand Damaschun, Sabine Hackethal, Hannelore Landsberg, und Reinhold Leinfelder, 170–75. Rangsdorf: Basilisken-Presse.
 
 [^expeditions2]: Heinroth, Katharina. 1971. Oskar Heinroth. Bd. 35. Große Naturforscher. Stuttgart: Wissenschaftliche Verlagsgesellschaft: 169.
+
+[^culturald1]: Hier Dittrich oder Maier-Wolthausen
 
