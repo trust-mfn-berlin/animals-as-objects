@@ -2,7 +2,7 @@
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 title: The Nazi Zoo
 desc: During 
-updated: 1620405723145
+updated: 1620407377735
 created: 1619020958263
 title_de: Der Zoo im Nationalsozialismus
 desc_de: Während der nationalsozialistischen Diktatur stellte die Zooleitung den Berliner Zoo in den Dienst des Regimes.
