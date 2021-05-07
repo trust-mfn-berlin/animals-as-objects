@@ -1,8 +1,8 @@
 ---
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
-title: Nazi Zoo
-desc: ''
-updated: 1620230470351
+title: The Nazi Zoo
+desc: During 
+updated: 1620405723145
 created: 1619020958263
 title_de: Der Zoo im Nationalsozialismus
 desc_de: Während der nationalsozialistischen Diktatur stellte die Zooleitung den Berliner Zoo in den Dienst des Regimes.
@@ -19,7 +19,13 @@ English content goes here.
 
 :::DE:::
 
+**Clemens Maier-Wolthausen**
+
 # Der Berliner Zoo in der Zeit des Nationalsozialismus
+
+*Summary*
+
+>In der Zeit der nationalsozialistischen Diktatur biederten sich Zooleitung und Aufsichtsrat dem Regime an. Der Zoo wurde zu einem Propagandainstrument der Nationalsozialisten und schloss jüdische Besucher\*innen aus. Der Zoodirektor war mit der Elite des Regimes gut vernetzt. Während des Krieges wurden Zwangsarbeiter ausgebeutet.
 
 ## Die Familie Heck
 
@@ -32,12 +38,12 @@ Etwa zur gleichen Zeit begann der Zoodirektor auf Wunsch Hermann Görings mit de
 
 Auch die judenfeindliche rassistische Politik der NSDAP fand schon 1933 Eingang in den Zoo. Bereits 1933 schieden die zwei langjährigen Aufsichtsratsmitglieder Georg Siegmann und Walter Simon aus ihren Ämtern aus.[^board1] Sie waren ihrer jüdischen Identität wegen, im Aufsichtsrat erniedrigenden Diskussionen ausgesetzt gewesen.[^board2] Freigewordene Plätze wurden nun sogleich mit nationalsozialistischen Kandidaten wie dem  letzten Gouverneur der deutschen Kolonie Togo Adolf Friedrich zu Mecklenburg, SS-Brigadeführer Ewald von Massow oder dem 'Rassenhygieniker' Eugen Fischer besetzt.[^board3] Georg Siegmann und seine Frau Helene wurden über das Lager Theresienstadt nach Auschwitz verschleppt und ermordet.
 
-![Gruppenfoto des Aufsichtsrats im Berliner Zoo 1942](images\cmw\Aufsichtsrat_1942.jpg)
+![Gruppenfoto des Aufsichtsrats im Berliner Zoo 1942](images/cmw/Aufsichtsrat_1942.jpg)
 Der Aufsichtrat der Zoologischer Garten Berlin AG zu Besuch im Zoo, 1942. Lutz Heck (3. v. l.), Eugen Fischer (4. v. l.) und Oskar Heinroth (1. v. r.).
 
 Auch die Belegschaft des Zoos war wie die vieler Großbetriebe in Berlin bald schon 'nazifiziert'. Sogar die 'Zoo-Band' trug bald stolz das Hakenkreuz und das Symbol der 'deutschen Arbeitsfront' der nationalsozialistischen Einheits-Organisation, die die früher freien Gewerkschaften ersetzen sollte.
 
-![Bild einer Musikband mit nationalsozialistischen Symbolen](images\cmw\band-1938-Springer.jpg)
+![Bild einer Musikband mit nationalsozialistischen Symbolen](images/cmw/band-1938-Springer.jpg)
 Die 'Zoo-Musikkapelle', 1938. (AZGB, Foto Springer)
 
 ## Zoo und Propaganda
@@ -52,14 +58,14 @@ Kolonialtieren" geführt - also Tieren aus den eheamligen deutschen Kolonien, un
 
 Rechtzeitig zu den Olympischen Sommerspielen in Berlin, eröffnete der Zoo eine 2000 qm große Löwensteppe. Diese war an das große Raubtierhaus angebaut worden und bot den Tieren beheizte Liegeplätze und den Besucherinnen einen Blick wie auf eine Bühne mit einer großen Anzahl von Raubtieren - ein Publikumsmagnet. Hinzu kamen 1936 die vielen Berlintouristen, die zu den Olympischen Spielen jenes Jahres kamen. Sie bescherten dem Zoo einen Besucherrekord von mehr als zwei Millionen zahlenden Gästen.[^propa2] Der Zoo beteiligte sich an der aufwendigen Propaganda für die Spiele, indem er Tiere für das Olympische Dorf, in dem die Athletinnen und Athleten lebten. Rund um einen zentralen Teich tummelten sich einheimische Wasservögel und Damwild. Und größer war der Zoo auch noch geworden.
 
-Im August 1935 wurde ihm auf Initiative des Preußischen Ministerpräsidenten Hermann Göring eine Grundstückserweiterung am Tiergartenrand zugewiesen. Zunächst hatten Polizei und Reiter-SA Einspruch dagegen erhoben, da es den Reitweg am Tiergartenrand einschränken würde. Aber gegen die Macht Görings hatten sie keine Mittel.[^propa3] Auf dem neuen Geländestreifen, welches an die alten Bärenburg grenzte, siedelte Heck in großen Gehegen "einheimische Tierarten" an. Neben "deutschen" Raubtieren wie dem Wolf und dem Bären wurden "deutsche Raubvögel" wie Adler und Bussard ausgestellt. Dass praktisch alle diese Tiere auch in Nachbarländern des Deutschen Reichs vorkamen, und einige, wie der Bär in Deutschland praktisch gar nicht mehr, spielte für den propagandistischen Effekt keine Rolle. Das Kronjuwel des "Deutschen Zoos" war aber das Gehege für eine besondere Rinderart - den "Auerochsen" oder "Ur". [[story.Reviving the Aurox]] Dieser gilt als Stammvater aller europäischen Hausrinderrassen. Allerdings war das letzte Exemplar seiner Sorte im 17. Jahrhundert gestorben. Lutz Heck und sein Bruder [[material.Heinz Heck]], Direktor des Münchner Tierparks Hellabrunn, versuchten diese Tiere aus Kreuzungen verschiedener Rinderrassen wiedererstehen zu lassen.
+Im August 1935 wurde ihm auf Initiative des Preußischen Ministerpräsidenten Hermann Göring eine Grundstückserweiterung am Tiergartenrand zugewiesen. Zunächst hatten Polizei und Reiter-SA Einspruch dagegen erhoben, da es den Reitweg am Tiergartenrand einschränken würde. Aber gegen die Macht Görings hatten sie keine Mittel.[^propa3] Auf dem neuen Geländestreifen, welches an die alten Bärenburg grenzte, siedelte Heck in großen Gehegen "einheimische Tierarten" an. Neben "deutschen" Raubtieren wie dem Wolf und dem Bären wurden "deutsche Raubvögel" wie Adler und Bussard ausgestellt. Dass praktisch alle diese Tiere auch in Nachbarländern des Deutschen Reichs vorkamen, und einige, wie der Bär in Deutschland praktisch gar nicht mehr, spielte für den propagandistischen Effekt keine Rolle. Das Kronjuwel des "Deutschen Zoos" war aber das Gehege für eine besondere Rinderart - den "Auerochsen" oder "Ur". [[story.Reviving the Aurox]] Dieser gilt als Stammvater aller europäischen Hausrinderrassen. Allerdings war das letzte Exemplar seiner Sorte im 17. Jahrhundert gestorben. Lutz Heck und sein Bruder [[material.Heinz Heck]], Direktor des Münchner Tierparks Hellabrunn, versuchten diese Tiere aus Kreuzungen verschiedener Rinderrassen wiedererstehen zu lassen.[^propa4]
 
-![Bild eines Rinds](images\cmw\aurox.jpg)
+![Bild eines Rinds](images/cmw/aurox.jpg)
 Eines der Rinder, die aus den Rückzüchtungen Lutz Hecks hervorgingen, um 1930. (AZGB)
 
-[^propa4] Lutz Heck ging es darum, ein deutsches Urtier zu erschaffen, das "als echtes Symbol deutscher Kraft und deutschen Mutes" gelten sollte.[^propa5] Er verwies in seinen Veröffentlichungen immer wieder auf das Nibelungenlied, in dem auch Siegfrieds Jagd auf Auerochsen besungen wird.[^propa6] Den Auerochsen aber haben die Brüder Heck nicht wieder zum Leben erwecken. Es fehlte ihnen an genetischem Material, sie versuchten sich in einer sogenannten Abbildzüchtung in der lediglich die äußerlichen Merkmale einer Tierart näherungsweise reproduziert werden. Der Versuch galt vielen Kollegen schon damals und gilt auch heute weithin als unwissenschaftlich. Propagandistisch aber konnte Heck seine "Auerochsen" ausschlachten und sich auch mit den Rindern den Nationalsozialisten anbiedern. Am 1. Mai 1937 wurde Lutz Heck gleich nach Aufhebung des Aufnahmestopps von 1933 Mitglied der NSDAP.[^propa7] Im Sommer 1938 ernannte Reichsforstmeister Göring zum Leiter der Obersten Naturschutzbehörde.[^propa8]
+Lutz Heck ging es darum, ein deutsches Urtier zu erschaffen, das "als echtes Symbol deutscher Kraft und deutschen Mutes" gelten sollte.[^propa5] Er verwies in seinen Veröffentlichungen immer wieder auf das Nibelungenlied, in dem auch Siegfrieds Jagd auf Auerochsen besungen wird.[^propa6] Den Auerochsen aber haben die Brüder Heck nicht wieder zum Leben erwecken. Es fehlte ihnen an genetischem Material, sie versuchten sich in einer sogenannten Abbildzüchtung in der lediglich die äußerlichen Merkmale einer Tierart näherungsweise reproduziert werden. Der Versuch galt vielen Kollegen schon damals und gilt auch heute weithin als unwissenschaftlich. Propagandistisch aber konnte Heck seine "Auerochsen" ausschlachten und sich auch mit den Rindern den Nationalsozialisten anbiedern. Am 1. Mai 1937 wurde Lutz Heck gleich nach Aufhebung des Aufnahmestopps von 1933 Mitglied der NSDAP.[^propa7] Im Sommer 1938 ernannte Reichsforstmeister Göring zum Leiter der Obersten Naturschutzbehörde.[^propa8]
 
-![Lutz Heck und sein Fahrer vor einem Auto](images\cmw\Heck_Auto_1939.jpg)
+![Lutz Heck und sein Fahrer vor einem Auto](images/cmw/Heck_Auto_1939.jpg)
 Lutz Heck und ein Dienstwagen des Reichsjagdamtes, 1939. (AZGB)
 
 ## Jüdische Aktionär\*innen und Besucher\*innen
@@ -90,12 +96,12 @@ Es begann damit, dass der Zoo in Berlin zu Beginn des Krieges als 'kriegswichtig
 
 Überall im Zoo wurden nun Luftschutzräume eingerichtet und Vorkehrungen gegen ausbrechende Tiere getroffen.[^war2] Für die Besucher\*innen und Mitarbeiter\*innen wurde am Eingang Elefantentor in der Mitte der Promenade ein Luftschutzraum unter den Rabatten angelegt. Nördlich des Zoos stand zudem ab Frühjahr 1941 der mächtige Flakturm 'Zoobunker' der mehreren Tausen Menschen Schutz bieten konnte.
 
-![Lageplan des Zoos von 1940](images\cmw\Zooplan_1943_0001.jpg)
+![Lageplan des Zoos von 1940](images/cmw/Zooplan_1943_0001.jpg)
 Lageplan des Zoos um 1940. Am südlichen Eingang 'Elefantentor' sowie nordwestlich des Zoos sind die Luftschutzanlagen zu sehen. (AZGB)
 
 Der 1938 fertiggestellte neue Steinbockfelsen war von vornherein so gebaut worden, dass das Innere als Luftschutzraum genutzt werden konnte. Allerdings wurde er als nicht gasdicht angesehen und daher nicht offiziell als solcher genutzt.
 
-![Steinbockfelsen im Zoo um 1940](images\cmw\Steinbockfelsen_um_1940.jpg)
+![Steinbockfelsen im Zoo um 1940](images/cmw/Steinbockfelsen_um_1940.jpg)
 Unter dem Steinbockfelsen von 1938 war ein Luftschutzraum für 150 Menschen geplant. (AZGB)
 
 Zudem wurden Notfallpläne erarbeitet, wie im Fall eines Bombenangriffs ausbrechende Tiere eingefangen oder getötet werden sollten. Eine Zoofeuerwehr und Beobachtungsposten in Erdbunkern sollten mit Netzen und gewehren bewaffnet bei Bombenangriffen eingreifen. Diese Notfallpläne wurden später auch von anderen Zoos übernommen. In Berlin waren sie der Grund dafür, dass keine Raubtiere oder oder andere als gefährlich angesehene Tiere vorsorglich getötet wurden oder entkamen. Berichte über Zootiere, die über den Kurfürstendamm huschen sind getrost ins reich der Mythen zu verbannen.[^war3]
@@ -108,7 +114,7 @@ Wie alle Zoos war auch der Berliner von den Einberufungen der Mitarbeiter zur We
 
 Aber auch an anderer Stelle profitierte der Zoo von den Netzwerken des Direktors und Aufsichtrat, die den gesamten Krieg hindurch auch gepflegt wurden.
 
-![Hermann Göring, Lutz Heck und einige andere Menschen im Berliner Zoo](images\cmw\Göring_March_1942_Zoo_Heck.jpg)
+![Hermann Göring, Lutz Heck und einige andere Menschen im Berliner Zoo](images/cmw/Göring_March_1942_Zoo_Heck.jpg)
 Hermann Göring (Bildmitte mit hellem Mantel) besucht 1942 den Zoo und spricht mit Lutz Heck (Bildmitte mit dunklem Mantel). (AZGB)
 
 Lutz Heck koordinierte von seinem Arbeitsplatz im Berliner Reichsforstamt auch die Versorgung mit Futtermitteln der Zoos im gesamten Reichsgebiet. Bis in die letzten Kriegsmonate wurden noch Seefische für seltene Seevögel und Robben geliefert.[^war7]
@@ -117,7 +123,7 @@ Lutz Heck koordinierte von seinem Arbeitsplatz im Berliner Reichsforstamt auch d
 
 In der Nacht auf den 23. November 1943 wurde der Zoo durch einen alliierten Bombenangriff in ein Flammenmeer verwandelt und 30 Prozent des noch vorhandenen Bestands an Tieren getötet.[^destruction1] 
 
-![Liste mit Tierverlusten](images\cmw\Liste_tote_Tiere_1943.jpg)
+![Liste mit Tierverlusten](images/cmw/Liste_tote_Tiere_1943.jpg)
 Liste der getöteten Tiere, 1943. (AZGB)
 
 In der folgenden Nacht wurde dann das Aquarium zerstört. Eine Bombe schlug mitten in die zentrale Krokodilhalle ein. Berstende Aquarienscheiben entließen große Massen an Wasser und schwemmten die Tiere bis auf die Straße und durch den hinteren Ausgang in den Zoo. Die wechselwarmen Reptilien und Schlangen stellten aber keine Gefahr dar, die Tiere erstarrten in der kalten Novembernacht sofort. Einige Kaimane [prüfen] konnten noch lebend im Erdgeschoss geborgen werden. Oskar Heinroth und die verbleibenden Mitarbeiter versuchten sie im Heizungskeller durchzubringen, scheiterten aber. Auch im Zoo selbst waren Tiere durch die Bombenschäden ihren Gehegen entwichen. Nun wirkten die vorbereiteten Schutzmaßnahmen. Fangtrupps fingen die Tiere schnell wieder ein oder töteten sie. Erzählungen von auf den Straßen rund um den Zoo und dem Kurfürstendamm herumstromernden wilden Tieren sind in das Reich der Mythen zu verweisen.
@@ -125,7 +131,7 @@ In der folgenden Nacht wurde dann das Aquarium zerstört. Eine Bombe schlug mitt
 Die herausragende Bedeutung des Zoos für die NS-Propaganda und die persönlichen Verbindungen Hecks sorgten wie schon erwähnt für den Einsatz von Hunderten Zwangsarbeitern für schnelle Räumungsarbeiten.[^destruction2] Am 25. Juli 1944 öffnete der Zoo rechtzeitig zu seinem 100jährigen Jubiläum wieder. Bis zu 5 000 Menschen konnten gleichzeitig im Sommer und Herbst 1944 den Zoo besuchen. Insgesamt kamen 250 000 Besucher\*innen um immer noch mehr als 1 500 Tiere zu bestaunen.[^war8] Bei Luftalarm war ihre Evakuierung in den Flakturm geplant.[^war9]
 Am 22. April 1945 war aber endgültig Schluss. Die noch verbliebenen männlichen Mitarbeiter wurden zum Volkssturm eingezogen. Sie mussten durch ihren Zoo, der nun zur Kampfzone wurde, Schützengräben ziehen. Die Geschäftsleitung des Gartens um Lutz Heck floh kurz vor Einbruch der russischen Truppen in das Zoogelände am 30. April.[^war9] Für 48 Stunden tobte der erbitterte Kampf um den Flakturm auch im Zoo. Am 2. Mai war die Schlacht um die Stadtmitte und den Zoo zu Ende. Überall lagen Leichen und Tierkadaver, etwa 90 Tiere hatten überlebt.[^war10]
 
-![Löwinnen liegen vor der zerstörten Fassade des Aquariums im Freigehege](images\cmw\Loewin_Ruine_Aqua_S_60.jpg)
+![Löwinnen liegen vor der zerstörten Fassade des Aquariums im Freigehege](images/cmw/Loewin_Ruine_Aqua_S_60.jpg)
 Die überlebenden Löwen des Zoos liegen vor der Kulisse des zerstörten Aquariums in ihrem Freigehege, 1945. (AZGB)
 
 ---
