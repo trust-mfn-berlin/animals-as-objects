@@ -2,7 +2,7 @@
 id: a2d62ba6-b5d8-4399-9146-78743617b18a
 title: Feeding
 desc: Put a description of this note here...
-updated: 1620397460806
+updated: 1620405491027
 created: 1620395099743
 title_de: Füttern! Verboten?
 desc_de: Put a DE description of this note here...
@@ -20,7 +20,7 @@ published: false
 
 :::DE:::
 
-### Futternot ###
+### Futternot 
 1945, am Ende des Zweiten Weltkriegs, zählte der Berliner Zoologische Garten gerade noch 81 Tiere. 1938 waren es noch über 3000 gewesen und 1944 immerhin noch 1700.[^Futternot1] Eines der überlebenden Tiere war der asiatische Elefant „Siam“. Das Tier, das als Wildfang von der britischen Kolonie Ceylon, dem heutigen Sri Lanka, nach Deutschland gebracht wurde, war eigentlich für den Zirkus Krone bestimmt. Als es dort jedoch bald Verhaltensauffälligkeiten zeigte, sollte das „böse Tier“ [[material.böse Tiere]] wieder entfernt werden, so dass der Berliner Zoo den Elefantenbullen 1933 übernahm. „Siam“ war der Einzige von neun Elefanten im Berliner Zoo, der den Krieg überlebte
 
 ![Elefantenkadaver im Berliner Zoo 1943] ()  
