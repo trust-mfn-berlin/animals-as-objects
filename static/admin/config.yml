@@ -23,6 +23,7 @@ collections:
       - { label: "Created", name: "created", widget: "number" }
       - { label: "Updated", name: "updated", widget: "number" }
       - { label: "ID", name: "id", widget: "string" }
+      - { label: "Author", name: "author", widget: "string" }
       - { label: "Description", name: "desc", widget: "string" }
       - { label: "Description DE", name: "desc_de", widget: "string" }
       - {
@@ -32,5 +33,48 @@ collections:
           allow_multiple: false,
           required: false,
         }
+      - label: "TAO Content type"
+        name: "tao_type"
+        widget: "select"
+        options: ["theme", "material", "story"]
       - { label: "Published", name: "published", widget: "boolean" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "About page"
+        name: "about"
+        file: "vault/netlify/about.yml"
+        fields:
+          - {label: Title EN, name: title_en, widget: string}
+          - {label: Title DE, name: title_de, widget: string}
+          - {label: Text EN, name: text_en, widget: markdown}
+          - {label: Text DE, name: text_de, widget: markdown}
+      - label: "Datenschutz"
+        name: "datenschutz"
+        file: "vault/netlify/datenschutz.yml"
+        fields:
+          - {label: Title EN, name: title_en, widget: string}
+          - {label: Title DE, name: title_de, widget: string}
+          - {label: Text EN, name: text_en, widget: markdown}
+          - {label: Text DE, name: text_de, widget: markdown}
+  - name: "curated_path"
+    label: "Curated pathway"
+    folder: "vault/netlify/pathways"
+    create: true
+    fields:
+      - {label: "Title EN", name: "title", widget: "string"}
+      - {label: "Title DE", name: "title_de", widget: "string"}
+      - label: 'Connected notes'
+        name: 'notes'
+        widget: 'list'
+        fields:
+          - label: 'Connected note'
+            name: 'note'
+            widget: 'relation'
+            collection: 'dendron'
+            display_fields: ['title']
+            search_fields: ['title', 'title_de', 'author', 'tao_type', 'body']
+            value_field: 'title'
+      - {label: Text EN, name: text_en, widget: markdown}
+      - {label: Text DE, name: text_de, widget: markdown}

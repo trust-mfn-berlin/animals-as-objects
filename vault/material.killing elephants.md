@@ -4,7 +4,7 @@ title: Killing Elephants
 desc: Put a description of this note here...
 updated: 1620395344217
 created: 1620395315684
-title_de:Elefanten töten
+title_de: Elefanten töten
 desc_de: Put a DE description of this note here...
 author: mv
 tao_type: material
