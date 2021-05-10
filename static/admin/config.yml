@@ -61,10 +61,28 @@ collections:
   - name: "curated_path"
     label: "Curated pathway"
     folder: "vault/netlify/pathways"
+    editor:
+      preview: false
     create: true
     fields:
-      - {label: "Title EN", name: "title", widget: "string"}
+      - {label: "Pathway Title EN", name: "title", widget: "string"}
       - {label: "Title DE", name: "title_de", widget: "string"}
+      - {label: "Date Published", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "string"}
+      - label: "Author bio"
+        name: "author_bio"
+        widget: "object"
+        collapsed: true
+        fields: 
+          - {label: "Author Bio EN", name: author_bio_en, widget: markdown}
+          - {label: "Author Bio DE", name: author_bio_de, widget: markdown}
+      - label: "Introduction"
+        name: "into_text"
+        widget: "object"
+        collapsed: true
+        fields: 
+          - {label: "Intro Text EN", name: text_en, widget: markdown}
+          - {label: "Intro Text DE", name: text_de, widget: markdown}
       - label: 'Connected notes'
         name: 'notes'
         widget: 'list'
@@ -75,6 +93,5 @@ collections:
             collection: 'dendron'
             display_fields: ['title']
             search_fields: ['title', 'title_de', 'author', 'tao_type', 'body']
-            value_field: 'title'
-      - {label: Text EN, name: text_en, widget: markdown}
-      - {label: Text DE, name: text_de, widget: markdown}
+            value_field: 'id'
+      
