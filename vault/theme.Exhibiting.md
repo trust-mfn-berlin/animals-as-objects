@@ -2,7 +2,7 @@
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 title: Exhibiting
 desc: Put a description of this note here...
-updated: 1619729358616
+updated: 1620236053488
 created: 1618572893774
 title_de: Tiere ausstellen
 desc_de: Wie und warum werden Tiere in Zoos und Museen ausgestellt?
@@ -45,20 +45,25 @@ Hier gab es Überschneidungen mit den traditionellen Zoos. Besucher\*innen des B
 
 [[story.Enclosure development]]
 
-## Starobjekte
-
 ### Quagga
 
 ### Dinosauerier
 
-### Restaurants und Konzerte
+### Restaurants und Konzerte und Sonderschauen
 
+Bereits im Eröffnungsjahr beklagten sich Besucher\*innen darüber, dass es keine Restauration im Zoo gab. Der Gründungsdirektor Martin Lichtenstein beruhigte die Kritiker in einem Brief an die XXXXX Zeitung, dass sich Restaurationen im Bau befänden. Nun lag der Zoo damals noch weit vor den Toren der Stadt und kamen die Gäste möglicherweise durstig an, und dennoch zeigt diese Episode bereits, dass die Berliner\*innen mehr als nur Tiere erwarteten.
 
+<!-- hier die Zeitung eintragen -->
 
-### "Bobby"
+Von Anfang an gehörten Restaurationen, die Möglichkeit, sich zu treffen und Geselligkeit dazu.
 
-### "Knut"
+- Lästerallee
+- Große Restauration
+- Champagner vs. Bier
 
+## Die Stars: "Bobby", "Knut" oder "Viktor"
+
+[[story.Bobby life]]
 [[story.Knut]]
 
 ## Kinderzoo
@@ -69,7 +74,19 @@ Hier gab es Überschneidungen mit den traditionellen Zoos. Besucher\*innen des B
 
 ## Konkurrenz in einer Stadt - Zoo und Tierpark buhlen um Gäste
 
-## Enrichment Training
+## Von der Dresssur zum Enrichment Training
+
+![desc](images/cmw/Elefant_Dressur.jpg)
+Etwa 1930 (AZGB)
+
+
+![desc](images/cmw/Dressur_kaden_1940_Heck.jpg)
+
+
+![Fünf Kinder reiten auf dem Rücken einer jungen asiatischen Elefantenkuh](images/cmw/Shanti_Kinder_1953_S_3_91.jpg)
+(AZGB, Schenkung durch Hannelore Heinzel)
+
+![Drei asiatische Elefantenkühe bei der Dressur](images\cmw\Elefantendressur.jpg)
 
 ## Museen als Zentren der Diversitätsbildung
 

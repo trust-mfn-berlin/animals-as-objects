@@ -2,7 +2,7 @@
 id: 477f6ce3-a8f6-425e-89dc-62c522d7449e
 title: Alfred Russel Wallace
 desc: Put a description of this note here...
-updated: 1619022677719
+updated: 1620056127915
 created: 1619022677719
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-English content goes here.
+[[material.modern evolutionary synthesis]], [[material.charles darwin]]
 
 :::DE:::
 

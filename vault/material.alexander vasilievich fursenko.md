@@ -2,7 +2,7 @@
 id: 50291cee-27f5-4fdc-a9fc-ee06ca558503
 title: Alexander Vasilievich Fursenko
 desc: Put a description of this note here...
-updated: 1619190957940
+updated: 1620056140157
 created: 1619190957940
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-English content goes here.
+[[story.micropaleontology]], 
 
 :::DE:::
 

@@ -4,8 +4,8 @@ title_de: Adding Images
 created: 1618495642535
 updated: 1619704229975
 id: ba7e639c-51d0-499d-a3f0-55ee838d64b3
-desc: xx
-desc_de: xx
+desc: Adding Images
+desc_de: Adding Images
 published: false
 ---
 To add a local image, copy your image file to the *Animals as Objects* repository dendron images folder `/vault/images`. Then put the relative path of the image into the curved brackets `![](here)`. 
@@ -32,4 +32,10 @@ Audio and video should be handled as external URLs for now. Soundcloud / Vimeo.
 
 
 
+<<<<<<< HEAD
 ![](/images/tn-jpl1978-72dpi.jpg)
+=======
+Test
+
+![Test](/images/caspar_david_friedrich_-_the_grosse_gehege_near_dresden_-_google_art_project.jpg "Caspar David Friedrich Dresden")
+>>>>>>> content-creation

@@ -2,7 +2,7 @@
 id: b3062329-9a8d-4231-8f88-55386991743c
 title: Otto Butschli
 desc: Put a description of this note here...
-updated: 1618493348564
+updated: 1620054996533
 created: 1618493348564
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-English content goes here.
+[[story.cell theory]]
 
 :::DE:::
 
