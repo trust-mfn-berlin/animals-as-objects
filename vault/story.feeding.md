@@ -2,7 +2,7 @@
 id: a2d62ba6-b5d8-4399-9146-78743617b18a
 title: Feeding
 desc: Put a description of this note here...
-updated: 1620658731821
+updated: 1620661727224
 created: 1620395099743
 title_de: Füttern! Verboten?
 desc_de: Put a DE description of this note here...
@@ -82,15 +82,82 @@ Daneben gab es aber auch empörte Stimmen, die – in der Annahme, dass der Elef
 
 ## Verfüttern
 
-Konsequenterweise wurden daher die Überreste toter Zootiere maximal verwertet, so auch die von „Siam“.[^Verfüttern1] [[material.Verwertung Siam]]
+Konsequenterweise wurden daher die Überreste toter Zootiere maximal verwertet, so auch die von „Siam“.[^Verfüttern1] [[material.Verwertung Siam]] Nach seinem Tod wurde sein Körper zerlegt und einzelne Teile zu unterschiedlichen Zwecken an verschiedene Orte verteilt. Vom Zoo aus führt der Weg zunächst ins Berliner Naturkundemuseum. Nachdem der Elefant dort seziert worden war, sollte das Zoologische Museum [backlink: Gliederung MfN] den Schädel für seine wissenschaftliche Sammlung erhalten und ein Stück Rückgrat für die Schausammlung, wie der damalige Leiter der Säugetiersammlung Hermann Pohle der Presse berichtete.[^Verfüttern2] Ein privater Präparator namens Kriegerowski, der regelmäßig Tiere vom Zoo übernahm, erhielt die Füße des Dickhäuters, aus denen er „Papierkörbe mit Staniolpapier“ fertigte.[^Verfüttern3] (backlink zu 'koloniale Trophäen'??) Hier verliert sich die Spur des Elefanten, zumindest die materielle. Doch endet die Geschichte von „Siam“ hier nicht. Als die Neue Zeitung titelte: „‘Siam‘“ = 2,5 Millionen Kalorien“[^Verfüttern4], war damit nicht nur der Zentner Heu gemeint, den der Elefant täglich gefressen hatte. Das Fleisch des 70 Zentner schweren Bullen wurde nun selbst verfüttert, an die Löwen im Zoo, „für die das Ableben ihres großen Nachbarn eine kalorienreiche Sonderzuteilung bedeutet“[^Verfüttern5]. Doch gelangte das Elefantenfleisch noch auf andere Weise in den urbanen Metabolismus. Kurz darauf berichtete nämlich der Zoo-Angestellte Karl Wolf jun., ihm sei Elefantenfleisch zum Preis von 65 Reichsmark pro Pfund angeboten worden.[^Verfüttern6] Die Polizei nahm Ermittlungen auf wegen illegalen Verkaufs von 20 Pfund Elefantenfleisch auf dem Schwarzmarkt. Wolf wurde umgehend beauftragt, das Fleisch zu kaufen und dem Zoo zu berichten. Tatsächlich erschien er mit 5 Pfund//2 Kilogramm Fleisch, das ihm eine Bewohnerin seines Hauses, Dorothea Bening, vor dem Restaurant Savarin für 325 Reichsmark übergeben hatte. Einer der Zoo-Wärter wurde angeklagt, das Fleisch entwendet und rund 20 Pfund unter der Hand weiterverkauft zu haben.[^Verfüttern7] Der Elefant war am Ende vom Schautier zum Fleischlieferanten geworden. Als die Presse Wind von der Sache bekam, titelte sie skandalträchtig: „Siam auf der Speisekarte“[^Verfüttern8]
 
+![Zeitungsartikel mit dem Titel "Siam auf der Speisekarte", 20.3.1947]
+(Caption: Abb. Zeitungsartikel zum illegalen Verkauf des Elefantenfleischs, in: xxx)
 
+Aber während die Zeitungen halb ironisch darüber spekulierten, ob sich wohl jeder Zooangestellte „eine Scheibe abschneiden“ konnte und diese zu Kotelett oder Bouletten verarbeitete, war die Weiterverwertung von Tieren zu Ernährungszwecken in Zeiten der Not eine durchaus existentielle Frage. Zwei Jahre zuvor hatte sich die Leitung des Antwerpener Tiergartens wegen Futtermangels zum Abschlachten von drei Damhirschkälbern entschlossen, die dann in den Brüsseler Zentralhallen zum Verkauf angeboten wurden.[^Verfüttern9] 
 
+Wie groß die Not in der Berliner Bevölkerung zu der Zeit war, zeigt auch eine ganze Reihe von Zuschriften an den Zoo, die sich nach „Siams“ Tod nach Möglichkeiten der Weiterverwertung seiner Überreste erkundigten. Ob die Stoßzähne verkäuflich sind und die Haut für das Flicken von Klamotten verwendbar ist, wollte jemand wissen; ob das Elefantenfleisch für den menschlichen Verzehr geeignet sei, fragte ein anderer.[^Verfüttern10] Zudem häuften sich damals im Zoo die Diebstähle: Gemüse wurde heimlich aus den Beeten herausgerissen, Karpfen aus dem Restaurant-Teich gefischt und selbst lebende Tiere wie Esel, Schafe, Rehe und Milchziegen gestohlen.[^Verfüttern11]
 
+>Abschlachtung und Diebstahl eines Wildschweines
+Abschlachtung und Diebstahl einer Ziege und einiger Lämmer
+Abschlachtung und Diebstahle eines Rehes
+Abschlachtung und Diebstahl von Kaninchen und Hühnern (mehrere Fälle)
+Diebstahl von Futtermitteln.[^Verfüttern12]
 
+„Nicht einmal sehr wählerisch sind die nächtlichen Langfinger, nehmen sie doch alles, vom Stachelschwein bis zur Ratte“, bemerkte die Tägliche Rundschau, und Katharina Heinroth fügt hinzu: „Das Stachelschwein wanderte vermutlich in den Kochtopf“.[^Verfüttern13] Auch hier war der Zoo wie ein Miniaturbild von Groß-Berlin, wo zu der Zeit nebenan im Tiergarten und auf den Feldern die Gemüse- und Kartoffeldiebstähle derart zunahmen, dass die Polizei die Versorgung der Bevölkerung bedroht sah. Es drohten harte Gefängnisstrafen.[^Verfüttern14]
 
+Das Verhältnis zwischen Zoo und Stadt war demnach in diesen ersten Nachkriegsjahren ambivalent. Die Stadt – die Bevölkerung wie die Behörden – unterstützten den Zoo in Futterfragen. Stets war etwa „ein Stamm von etwa 20 Kindern“ zur Stelle, die Eicheln für die Zootiere sammelte, was schnell auf 100 Zentner kam.[^Verfüttern15] WANN?? Forderte jedoch das Haupternährungsamt den Zoo auf, keine Eicheln mehr für seine Tiere sammeln zu lassen, weil diese für die menschliche Versorgung benötigt würden und weil menschliche Arbeitskraft eine wichtige Ressource war. QUELLE. Den Besucher\*innen wiederum, die Brot oder Kartoffelschalen für die Tiere brachten, war es verboten, auf dem Zoogelände Eicheln für den eigenen Bedarf zu sammeln. Kontrolleure durchsuchten an den Ausgängen die Taschen und Rucksäcke: „Wir holen zur Zeit an den Kassen täglich einige Zentner solcher den Besuchern wieder abgenommener Eicheln ab“, notierte die Zoodirektorin 1948.[^Verfüttern16] In der Not konkurrierten Mensch und Tier um die gleichen Nahrungsmittel und deren Quellen. Katharina Heinroth war dieses Dilemma bewusst: „Unsere Wärter holen mit rührendem Fleiss Kartoffelschalen aus halb Berlin zusammen. Diese werden aber auch seltener, da viele Menschen die Kartoffelschalen für ihren Eigen-Bedarf zusammensuchen, denn die Not ist gross. Ich kenne einige, die von Kartoffelschalen leben.”[^Verfüttern17] Während die Zurschaustellung von Wildtieren im Stadtraum eigentlich die Hauptfunktion eines Zoos ist, kann sich die Rolle der Institution wie auch Status und Bewertung der Tiere wandeln, besonders in Krisenzeiten/Zeiten der Krise, des Mangels und der Not. Je nach Perspektive war der Zoo nun Umschlagplatz für den Austausch von Tieren und Wissen oder ein Ort illegaler Nahrungsbeschaffung; ein Teil der städtischen Versorgungsinfrastruktur oder eine Belastung für den Ernährungsplan der Stadt. In Punkto Ernährung waren Zoo und Stadt, Mensch und Tier miteinander eng verstrickt; sie leisteten sich gegenseitig Beistand, standen aber auch in Konkurrenz. Damit hängen die Umgangsweisen, Verwertungen und die wechselnden Imaginationen der Tiere zusammen. „Siam“ wurde vom Wildtier zur Zirkus- und Zooattraktion, wurde nach dem Krieg zum Komplizen der notleitendenden Berliner Bevölkerung stilisiert, später zum Teil einer wissenschaftlichen Sammlung und zum Dekorationsobjekt im Stil kolonialer Trophäen verarbeitet und schließlich zum Fleischlieferanten für Tier und Mensch.
 
+## Überfüttern
 
+Während der Zoo und die Stadt Berlin in den 1940er große Probleme hatten, ihre Bewohner\*innen zu ernähren, hatte sich die Situation Ende der 1950er Jahre weitgehend normalisiert.[^Überfüttern1] Ja, in mancher Hinsicht verkehrte sie sich sogar. In der Zeit von Wirtschaftswunder und Wachstumsboom fütterten die Zoobesucher\*innen die Tiere im Berliner Zoo wieder ganz nach Belieben, und zwar so ausgiebig, dass 1960 der afrikanische Elefant „Jambo“ nach oder vielmehr infolge der Fütterung durch Zoobersucher\*innen erkrankte. Die Elefantenkuh erlitt eine schwere Bauchfellentzündung und einen Riss im Dünndarm, der durch eine Verstopfung ausgelöst wurde. [[material. Behandlung Jambo]] Nachdem man vierzehn Tage lang ohne Erfolg versucht hatte „Jambo I“ zu kurieren, entschloss sich der Zoo, das Tier einzuschläfern. Nachdem man vierzehn Tage lang ohne Erfolg versucht hatte „Jambo I“ zu kurieren, entschloss sich der Zoo, das Tier einzuschläfern. 
+
+![Zeitungsartikel mit dem Titel: "Überfüttert! Berlins wertvollster Elefant in Todesgefahr", 1960]
+(Caption: Abb. Xxx: Schlagzeile zur Überfütterungsfrage anlässlich der Erkrankung von „Jambo“, xxx)
+
+Der Vorfall war kein Einzelfall; die Zoologischen Gärten in Antwerpen, Hamburg, Frankfurt, Stuttgart und Gelsenkirchen hatten in den Jahren zuvor durch falsches oder übermäßiges Füttern bereits Elefanten verloren. In Berlin waren allein 1961 bereits ein Pavian, ein Bunttukan, ein wertvoller Kranich und zwei Hirsche an den Folgen von Überfütterung gestorben. In der darauf folgenden Debatte ging es um das Tierwohl ebenso wie um ökonomische Fragen – Elefantenkuh „Jambo“ war 25 000 Mark wert; der Stuttgarter Zoo hatte dem Tagesspiegel zufolge ausgerechnet, dass er seit Einführung eines Fütterungsverbots ein Drittel der Arzneimittelkosten einsparte.[^Überfüttern2] Die Frage des Fütterns durch Besucher reicht weit in die Geschichte zoologischer Gärten zurück. Neben Schaufütterungen (Abb. SCHAUFÜTTERUNG ELEFANTEN??), das die Pflege der Tiere öffentlich in Szene setzte, bot das eigene Füttern für die Besucher\*innen seit der Gründung zoologischer Gärten im 19. Jahrhundert die Möglichkeit zur direkten Kontaktaufnahme mit den Tieren. Das Phänomen der Überfütterung und generell die Problematik, dass das (falsche) Füttern von Zootieren die Tiere krank machte, war entsprechend ebenfalls seit langem bekannt, wurde aber zu unterschiedlichen Zeiten ganz verschieden gehandhabt und gedeutet. 1946 merkte Katharina Heinroth an, dass „den Lieblingen der Berliner Zoobesucher [vor dem Krieg] so viel an Süßigkeiten und Kuchen zugesteckt wurde, daß wir eine Menge Fälle von Darmerkrankungen hatten.“[^Überfüttern3] Für die Zeit nach dem Krieg wünschte sie sich dagegen mehr fütternde Besucher. Während so in den ersten Nachkriegsjahren das Füttern zum solidarischen Akt mit dem Zoo avancierte (Abb. Xxx), kehrte die keine Gefahr der Überfütterung Ende der 1950er Jahre mit voller Macht zurück.
+
+![Zeitungsartikel mit Bild, auf dem eine Frau einem Affen durch die Gitterstäbe Futter reicht]
+
+(Caption: Abb. Xxx: Füttern als Teilen im Zoo nach dem Krieg, Tägliche Rundschau, 3.7. 1946)
+
+## Füttern verboten!
+
+Auf den Tod des Elefanten „Jambo“ folgte eine erhitzte Diskussion, die sich um den richtigen Umgang mit Tieren in Gefangenschaft im Allgemein und ein Fütterungsverbot im Speziellen drehte. Tatsächlich leitete „Jambos“ Ableben am 10. April 1960 ein generelles Fütterungsverbot für alle Tiere im Berliner Zoo ein.
+
+![Zeitungsartikel mit Elefantenfoto, der "mich nicht füttern" auf die Stirn geschrieben hat]
+
+(Caption: Abb. Xxx. Tagesspiegel-Artikel zum Fütterungsverbot im Berliner Zoo anlässlich der fütterungsbedingten Erkrankung von „Jambo“, Tagesspiegel, 31.3.1060.)
+
+Im Hamburger Zoologischen Garten wurden die Besucher\*innen bereits 1879 „ergebenst und dringend ersucht, nur diejenigen Thiere zu füttern, deren Namen auf den Anschlagtafeln bekannt gemacht sind“.[^FütternVerboten1] Mahnungen an den Käfigen bezüglich des Fütterungsverbots werden auch im Zooführer des Tiergartens Schönbrunn schon 1912 erwähnt. Es dauerte jedoch bis in den späten 1950er Jahre, als die Mehrzahl der Zoos komplette Fütterungsverbote einführten; der Leipziger Zoo bereits 1957, der Zoologische Garten zu Münster 1959, nachdem auch dort mehrere Tiere wegen falschen Futters gestorben waren. 
+
+![Zeitungsseite mit abgebildeten Fütterungsverbotsschildern in zoologischen Gärten, 1960]
+
+(Caption: Abb. Xxx: Verbotsschilder in zoologischen Gärten, in: 8-Uhr-Blatt, 13.4.1960.)
+
+In den Zooführern findet man das Fütterungsverbot in der „Gartenordnung“ oder in der einleitenden Ansprache „An unsere Besucher“. Elefant „Jambo“ stand die Warnung vor seiner Erkrankung sogar buchstäblich auf die Stirn geschrieben (vgl. Abb. xxx). In den Gärten wiederum wiesen nicht nur angeschlagene Tafeln auf die neuen Verordnungen hin; sie materialisierten sich auch in Gittern und Bannern, die eine physische Distanzierung zwischen Besuchern und Tieren schufen. 
+
+![Kamelgehege mit Schild „Füttern verboten“, AZGB xxx.]
+
+(Caption: Abb. Xxx: Kamelgehege mit Schild „Füttern verboten“, AZGB xxx.)
+
+![Fütterungsverbotschild im Zoologischen Garten Berlin]
+
+(Caption: Abb. Xxx: Fütterungsverbotschild im Zoologischen Garten Berlin, AZGB xxx.)
+
+Trotzdem wurde das Verbot gerade in der ersten Zeit immer wieder missachtet. Im Fütterungsverbot kristallisiert sich ein Interessenkonflikt zwischen artgerechter Tierhaltung, Bildungsanspruch und dem Bedürfnis nach Unterhaltung und unmittelbarem Kontakt mit den Tieren. Unzählige Mahnungen und Verweise musste der Berliner Zoo aussprechen, so groß war die Zahl von Besucher*innen, die die Tiere trotz Verbot weiter fütterten. In der Fütterungsfrage kristallisiert sich wie bei kaum einem anderen Thema die Frage nach der „Tierliebe“. Während die einen unter einem „Tierfreund“[^FütternVerboten2] diejenigen verstehen, der füttert und darin seine Sorge um die Tiere ausdrückt, tritt mit den Fütterungsverboten eine neue Form hinzu, für die sich die Liebe zum Tier und die Sorge um dieses gerade in der Zurückhaltung/Zurücknahme des eigenen Fütterungsverhaltens/-wunsches ausdrückt: „Auch wir bedauern das traurige Ende von Jambo und begrüßen das Fütterungsverbot. Anders ist ja den Berlinern mit ihrer übertriebenen Tierliebe nicht beizukommen“[^FütternVerboten3], hieß es in einer anonymen Zuschrift an den Zoo ein. Eine andere Besucherin schrieb:
+
+>„…die Liebe zu den Tieren veranlaßt mich, Ihnen zu klagen, was ich bei meinem Zoobesuch am vergangenen Sonnabend erlebt habe. Ein etwa sechsjähriger Junge gab einem Elefanten Poppcornflocken. Meinen Hinweis auf das Fütterungsverbot verstanden er und sein Vater nicht, ich hörte, dass sie englisch sprachen. Aber ich meine, dass auch ein Ausländer wissen sollte, dass man die Tiere nicht füttern soll. […] Ich will diese Dinge zur Kenntnis bringen in der Hoffnung, dass Sie sich vielleicht doch veranlasst sehen, von derartigen unvernünftigen Menschen eine Geldstrafe zu erheben. Ich stehe keineswegs allein mit meiner Ueberzeugung, dass nur eine solche, nicht aber einfaches Bitten und Verbieten, für die Dauer Erfolg hat, zum Wohl unserer geliebten Tiere.“[^FütternVerboten4]
+
+Eine weitere anonymische Schreiberin berichtete von einer Frau, die beim Elefantengehege drei Damen beobachtet hatte. „Eine davon fütterte in einem fort, und als ich wütend sagte, sie soll das unterlassen, denn es steht doch überall angeschrieben, wird sie noch frech, – ich habe ja meinen Bauch voll, aber die Tiere hätten Hunger, und ich sollte mal machen, das ich weiterkomme. Dabei warf sie wieder 1 ganzen gerösteten Zwieback hin.“ Die Schreiberin schloss ihren Brief mit den Worten: „Wenn Sie es für gut befinden, das die Frau füttern darf, dann will ich den Zoo nie wieder besuchen. […] Eine tierliebe Zoobesucherin".[^FütternVerboten5]
+
+Der Zoo griff bisweilen auch zu drastischeren Mitteln, um das Verbot durchzusetzen, so etwa 1961, als sich ein ähnlich spektakulärer und tragischer Fall wie der Tod von „Jambo“ bei den Wassertieren ereignete. Wo die Architektur die Tiere nicht durch Gitter, Glas oder Gräben schützte, warfen die Besucher\*innen trotz Fütterungsverbot weiter Lebensmittel oder Gegenstände in die Gehege. Das wurde 1961 dem See-Elefanten „Roland“ im Berliner Zoo zum Verhängnis. Bei der Obduktion wurden im Magen ein Messer, xxxxxx, gefunden.
+
+![Zeitungsartikel zum Tod des See-Elefanten "Roland", der im Berliner Zoo aufgrund von Überfütterung starb]
+
+(Caption: Abb. Presseecho zum Tod des See-Elefanten „Roland“ durch Überfütterung, xxx.)
+
+Diese Gegenstände stellte der Zoo neben dem Becken ein Hinweisschild in einem Schaukasten aus (Abb. Xxx) – „das informiert die Besucher über dieses traurige Ereignis und hat“, so hoffte der Zoo, „sicherlich eine heilsame, abschreckende Wirkung“[^FütternVerboten6]
+
+![Schautafel mit den Gegenständen, die im Magen des See-Elefanten gefunden wurden, Berliner Zoo 1961]
+
+(Caption: Abb. Schaukasten mit Gegenständen aus dem Magen des See-Elefanten, aufgestellt im Zoologischen Garten 1961.)
+
+Dieser und andere Vorfälle heizten eine Diskussion um die richtigen Maßnahmen zur Umsetzung des Fütterungsverbots an. Die Vorschläger aus der Bevölkerung reichten von der Einführung von Wachpersonal über Geldstrafen bis zum Zooverweis. Andere Vorschläge richteten sich weniger auf die Disziplinierung der Menschen als auf die Wandlung der Architektur: „Wäre es nicht angebracht“, schrieb xxx nach dem Tod des See-Elefanten, „ringsherum u. oben Maschengitter anzubringen, oder die Basins mit Scheiben zu umgeben u. oben mit Drahtgitter zu versehen, sodaß es unmöglich ist, auch nur das Geringste durchzustecken! Fütterungsverbot zwecklos, man muss die Tiere stattdessen „so abschirmen, daß Todes oder Krankheitsfälle nicht mehr vorkommen“[^FütternVerboten7] Damals antwortete der Zoo noch, ein öffentlicher Zoo sei „für die Tiere und die Menschen da“ weshalb man zu Kompromissen gezwungen sei. „Sind die Tiere z.B. allzusehr hinter Glas, Gitter und Absperrungen „verbarrikadiert“, fehlt dem Besucher – vom Füttern jetzt ganz abgesehen – das unmittelbare Erlebnis, der Kontakt. Hinzukommt, daß es gerade im Falle der Robbenanlagen außerordentlich schwierig und sehr kostspielig wäre, eine Glas- und Drahtkonstruktion zu schaffen.“ Am Ende verwies der Direktor die Verantwortung wieder an die Besucher*innen zurück: „Wir können nur immer wieder aufklärend wirkend und an die Einsicht der Besucher appellieren.“[^FütternVerboten8] Tatsächlich wurden aber mit der sukzessiven Umstellung der Gehege-Architekturen, die eine unmittelbare Berührung zwischen Mensch und Tier unterband, wurden zwei separierte Sphären geschaffen, die den Kontakt mit den Tieren auf den Blick reduzierte.
+SCHLUSS FEHLT NOCH…
 
 
 
@@ -130,29 +197,33 @@ Konsequenterweise wurden daher die Überreste toter Zootiere maximal verwertet, 
 [^StadtErnähren12]: Als die Meerschweinchenzucht wieder im Aufbau, blieb der Zoo „öfter gezwungen, aus Futterknappheit Meerschweinchen zu verfüttern“. Katharina Heinroth an Johannes Roscher, 23.2.1947, in: AZGB O 1/2/42 I.
 [^StadtErnähren13]: Zwischen Mai und August 1945 stieg der Tierbestand 194 auf 240 Stück; vor allem durch Aufnahme der Tiere aus dem Zirkus Brumbach.
 [^Verfüttern1]: Solche Verwendungen waren indes nichts Außergewöhnliches. Seit der Gründung zoologischer Gärten führten zahllose Zootiere ein kulturelles Nachleben in Museen oder Wohnzimmern.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[^Verfüttern2]: „‘Siam‘ unter der Bandsäge“, in: Telegraf, 21.3.1947.
+[^Verfüttern3]: „Tierausstopfer filmt als Eisbär. Ein Präparator, der nur lebende Tiere liebt“, in: Der Abend, Berlin, 29.7.1947.
+[^Verfüttern4]: „Siam“ = 2,5 Millionen Kalorien, 22.3.1947, Die Neue Zeitung.
+[^Verfüttern5]: „Siam“ = 2,5 Millionen Kalorien, 22.3.1947, Die Neue Zeitung. Den Löwen wurde daraufhin  umgehend „ihre Ration vom Magistrat gekürzt“, behauptete der Tagesspiegel. „Spinat oder Hirsche. Ein Frühlingsspaziergang durch den Berliner Zoo“, in: Der Tagesspiegel, 3.4.1947.
+[^Verfüttern6]: Die Preisangaben variierten zwischen 20 Pfund für 400 Mark (heute rund 1200 Euro), vgl. „Auf den Spuren des Elefanten“, in: Der Kurier, “, 7.2.1948; Zoologischer Garten Berlin an das Kriminal-Kommissariat Tiergarten, 10.5.1947, in: AZGB O 0/1/143.
+[^Verfüttern7]: Katharina Heinroth an das Kriminal-Kommissariat Tiergarten, 10.5.1947, in: AZGB O 0/1/143. Vgl. auch AZGB O 0/1/44 I. Vgl. zur Presseberichterstattung „Prozeß um Elefantenfleisch“, in: Tagesspiegel, 7.2.1948; "Elefant à la carte", in: Die Tagespost, 10.2.1948. Bereits 1945 hatte die Polizei von Berlin mit dem Hinweis auf Gesundheitsrisiken eine Verordnung zur „Unterlassung des Erwerbs von Fleisch am Schwarzen Markt“ erlassen. Vgl. Unterlassung des Erwerbs von Fleisch am Schwarzen Markt, Berlin, den 17. Juli 1945, in: Verordnungsblatt (VOBl.) der Stadt Berlin 1945, Nr. 5., September 1945, S. 67. 
+[^Verfüttern8]: „Siam auf der Speisekarte. Zoo-Tiere mit Sonderzulage“, in: Der Morgen, 20.3.1947.
+[^Verfüttern9]: Auch hier gab es einen Prozess. Vgl. „Damhirsch-Prozeß“, in: Rhein-Zeitung, 23.4.1947. 
+[^Verfüttern10]: Vgl. Horst Schäfer an die Verwaltung des Zoologischen Gartens Berlin, 11.3.1947, O 0/1/143; Hans-Ulrich Mrozeck an die Verwaltung des Zoologischen Gartens Berlin, 8.3.1947, in: AZGB O 0/1/87; Werner Gronau an die Verwaltung des Zoologischen Gartens Berlin, 10.3.1947, in: AZGB O 0/1/86. 
+[^Verfüttern11]: „In der Nacht vom 12. zum 13. Februar wurde auf dem Gelände des Zoologischen Gartens in einem verschlossenen Tierhaus eine erwachsene Milchziege getötet, an Ort und Stelle ausgeschlachtet und unter Hinterlassung der Eingeweide gestohlen.“ Zoologischer Garten Berlin an das 31. Polizei-Revier, Abt. Kriminalpolizei, 13.2.1947, in: AZGB O 0/1/143. Vgl. auch AZGB O 0/1/274.
+[^Verfüttern12]: Zoo an das Kommando der Schutzpolizei, 1.4.1947, AZGB O 0/1/143. Die kriminalpolizeilichen Ermittlungen blieben in allen Fällen ohne Erfolg.
+[^Verfüttern13]: Daniel de Luce: „Lebensmittelkarte 5 im Berliner Zoo“, in: Tägliche Rundschau, 17.12.1946.
+[^Verfüttern14]: „Gemüse- und Kartoffeldiebstähle“, in: Verordnungsblatt (VOBl.) der Stadt Berlin 1945, Nr. 7, 20. September 1945, S. 93.
+[^Verfüttern15]: „Jeden Morgen sammeln die Frauen unserer Parkabteilung alle Eicheln auf. Ausserdem haben wir einen Stamm von etwa 20 Kindern, die dann später die Eicheln für uns sammeln, denn sie fallen ja den ganzen Tag über herunter. […] Über „Rias und die sammelnden Kinder“ haben wir auch bereits 50 Ztr. Eicheln erhalten.“ Katharina Heinroth an Ernst Schmidt, 13.10.1948, in: AZGB O 0/1/274.
+[^Verfüttern16]: Katharina Heinroth an Ernst Schmidt, 13.10.1948, in: AZGB O 0/1/274.
+[^Verfüttern17]: Katharina Heinroth an Erna Mohr, 22.1.1946, in: AZGB N/4/12.
+[^Überfüttern]: Die Gemüsebeete verschwanden bereits ab 1950 wieder aus dem Zoo: „Wir haben ja allerhand vor für das Frühjahr; die Gärtelei soll jetzt aufhören, denn die Ernährungsverhältnisse hier in Berlin haben sich ja für die Bevölkerung grundlegend gebessert, so dass man jetzt wieder Gemüse auf den Märkten zu kaufen bekommt. Wir können also nun wieder im Garten unsere Anlagen sehr schön herrichten.“ Katharina Heinroth an Ursula Bergman, 7.3.1950, in: AZGB N 4/12. 
+[^Überfüttern2]: „Füttern im Zoo von heute an verboten“, in: Tagesspiegel, 31.3.1960.
+[^Überfüttern3]: Daniel de Luce: „Lebensmittelkarte 5 im Berliner Zoo“, in: Tägliche Rundschau, 17.12.1946.
+[^FütternVerboten1]: Der Zooführer wies auf die Tafeln explizit hin. Vgl. Heinrich Bolau: Führer durch den Zool. Garten zu Hamburg, 29. Aufl, Verl. der Zoologischen Ges. Hamburg, 1879, o.S.
+[^FütternVerboten2]: Die weibliche Form wird hier bewusst nicht verwendet, da es sich damals um einen feststehenden Ausdruck handelte, auf den hier Bezug genommen wird. Zur Figur des "Tierfreunds" vgl. Christina Wessely: Löwenbaby, Berlin 2019.
+[^FütternVerboten3]: Anonymer Brief an die Direktion des Berliner Zoologischen Gartens, 11.4.1960, in: AZGB, O 0/1/112.
+[^FütternVerboten4]: Martha Hingst an den Zoologischen Garten  Berlin, 12.7.1960, in: AZGB [unerschlossen: Tierkorrespondenz 1.10.1959-31.6.1960]
+[^FütternVerboten5]: Anonyme Zuschrift an die Direktion des Zoologischen Gartens Berlin, 8.8.1966, in: AZGB O 0/1/224.
+[^FütternVerboten6]: Zoologischer Garten Berlin an Herrn Schurpfeil, 27.10.1971, in: AZGB O 1/2/105.
+[^FütternVerboten7]: A. Irmler an Heinz-Georg Klös, 21.9.1959, in: [AZGB Tierkorrespondenz 1.1.1959-30.9.1959 (unerschlossen)]
+[^FütternVerboten8]: Heinz-Georg Klös an A. Irmler, 24.9.1959, in: [AZGB Tierkorrespondenz 1.1.1959-30.9.1959 (unerschlossen)]
 
 
 
