@@ -8,6 +8,8 @@ Jimp.decoders['image/jpeg'] = (data) => {
 		maxMemoryUsageInMB: 1024
 	})
 }
+// Better?
+// https://www.npmjs.com/package/sharp 
 
 const srcDir = path.join(__dirname, '..', 'vault', 'images');
 const destDir = path.join(__dirname, '..', 'static', 'images');
