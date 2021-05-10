@@ -42,7 +42,7 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
-      - label: "About page"
+      - label: "About Page"
         name: "about"
         file: "vault/netlify/about.yml"
         fields:
@@ -50,7 +50,15 @@ collections:
           - {label: Title DE, name: title_de, widget: string}
           - {label: Text EN, name: text_en, widget: markdown}
           - {label: Text DE, name: text_de, widget: markdown}
-      - label: "Datenschutz"
+      - label: "Imprint / Colophon"
+        name: "imprint"
+        file: "vault/netlify/imprint.yml"
+        fields:
+          - {label: Title EN, name: title_en, widget: string}
+          - {label: Title DE, name: title_de, widget: string}
+          - {label: Text EN, name: text_en, widget: markdown}
+          - {label: Text DE, name: text_de, widget: markdown}
+      - label: "Data Policy / Datenschutz"
         name: "datenschutz"
         file: "vault/netlify/datenschutz.yml"
         fields:
@@ -86,6 +94,7 @@ collections:
       - label: 'Connected notes'
         name: 'notes'
         widget: 'list'
+        collapsed: false
         fields:
           - label: 'Connected note'
             name: 'note'
