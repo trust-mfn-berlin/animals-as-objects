@@ -70,33 +70,22 @@ function getFileNames(dir, encoding = "utf-8", withFileTypes = true) {
   for (let i = 0; i < imageQueue.length; i++) {
     const imageFile = imageQueue[i];
 
+    // console.log(imageFile);
+
     Jimp.read(imageFile, (err, img) => {
       if (err) throw err;
       const w = img.bitmap.width;
       const h = img.bitmap.height;
       const newPath = imageFile.replace(srcDir, destDir);
-
-      // If image is too big, treat it differently for height or width and reduce quality
-      // Can probably rewrite this using scaleToFit with a box that's 2000x1800 
-      // https://github.com/oliver-moran/jimp/tree/master/packages/plugin-scale#scaletofit
       
       if(w > maxW || h > maxH){
-        // console.log("big image", imageFile, "W", w, "H", h);
         console.log(newPath);
-        
-        if(w > maxW){
-          const newH = Math.round((h/w)*maxW);
-          console.log('Old size', "W", w, "H", h);
-          console.log('New size', "W", maxW, "H", newH);
-          img.resize(maxW, newH).quality(quality).write(newPath)
-        }
 
-        else if (h > maxH){
-          const newW = Math.round((w/h)*maxH);
-          console.log('Old size', "W", w, "H", h);
-          console.log('New size', "W", maxH, "H", newW);
-          img.resize(newW, maxH).quality(quality).write(newPath)
-        }
+        img.scaleToFit(maxW, maxH);
+        console.log('Old size', "W", w, "H", h);
+        console.log('New size', "W", img.bitmap.width, "H", img.bitmap.height);
+  
+
       } else {
         // If image isn't too big, just reduce quality a bit
         console.log(newPath);
