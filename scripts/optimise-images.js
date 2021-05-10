@@ -64,13 +64,15 @@ function getFileNames(dir, encoding = "utf-8", withFileTypes = true) {
 
   if(imageQueue.length == 0){
     console.log('No images to resize');
+  } else {
+    console.log("Images to resize", imageQueue);
   }
 
   // Do the reading and resizing
   for (let i = 0; i < imageQueue.length; i++) {
     const imageFile = imageQueue[i];
 
-    // console.log(imageFile);
+    
 
     Jimp.read(imageFile, (err, img) => {
       if (err) throw err;
@@ -84,7 +86,8 @@ function getFileNames(dir, encoding = "utf-8", withFileTypes = true) {
         img.scaleToFit(maxW, maxH);
         console.log('Old size', "W", w, "H", h);
         console.log('New size', "W", img.bitmap.width, "H", img.bitmap.height);
-  
+        
+        img.quality(quality).write(newPath);
 
       } else {
         // If image isn't too big, just reduce quality a bit
