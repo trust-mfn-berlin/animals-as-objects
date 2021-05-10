@@ -93,5 +93,5 @@ collections:
             collection: 'dendron'
             display_fields: ['title']
             search_fields: ['title', 'title_de', 'author', 'tao_type', 'body']
-            value_field: 'title'
+            value_field: 'id'
       
