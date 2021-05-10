@@ -1,6 +1,13 @@
 const Jimp = require('jimp');
+const JimpJPEG = require('jpeg-js')
 const path = require('path');
 const fs = require('fs-extra');
+
+Jimp.decoders['image/jpeg'] = (data) => {
+	return JimpJPEG.decode(data, {
+		maxMemoryUsageInMB: 1024
+	})
+}
 
 const srcDir = path.join(__dirname, '..', 'vault', 'images');
 const destDir = path.join(__dirname, '..', 'static', 'images');
@@ -65,7 +72,7 @@ function getFileNames(dir, encoding = "utf-8", withFileTypes = true) {
   if(imageQueue.length == 0){
     console.log('No images to resize');
   } else {
-    console.log("Images to resize", imageQueue);
+    console.log("Images to resize", imageQueue.length, imageQueue);
   }
 
   // Do the reading and resizing
@@ -74,8 +81,11 @@ function getFileNames(dir, encoding = "utf-8", withFileTypes = true) {
 
     
 
-    Jimp.read(imageFile, (err, img) => {
-      if (err) throw err;
+    Jimp.read(imageFile, async (err, img) => {
+      if (err) {
+        console.log('error', imageFile)
+        throw err
+      };
       const w = img.bitmap.width;
       const h = img.bitmap.height;
       const newPath = imageFile.replace(srcDir, destDir);
@@ -97,7 +107,7 @@ function getFileNames(dir, encoding = "utf-8", withFileTypes = true) {
 
     });    
     
+    // console.log('Finished optimising images');
   }
 
-  console.log('Finished optimising images');
 })();
