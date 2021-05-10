@@ -22,7 +22,7 @@ export default {
     } else {
       console.log('no payload, fetching fresh data')
     try {
-      const data = await $content('netlify', 'about_de').fetch();
+      const data = await $content('netlify', 'imprint_de').fetch();
       page = data;
     } catch (e) {
       error({ message: e });

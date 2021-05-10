@@ -8,7 +8,7 @@
 <script>
 export default {
   created(){
-    this.$store.commit('setSiteLanguage', 'de')
+    this.$store.commit('setSiteLanguage', 'en')
   },
   async asyncData({ $content, params, error, payload }) {
     var page = {};
@@ -22,7 +22,7 @@ export default {
     } else {
       console.log('no payload, fetching fresh data')
     try {
-      const data = await $content('netlify', 'about_de').fetch();
+      const data = await $content('netlify', 'imprint_en').fetch();
       page = data;
     } catch (e) {
       error({ message: e });
