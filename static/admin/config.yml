@@ -61,6 +61,8 @@ collections:
   - name: "curated_path"
     label: "Curated pathway"
     folder: "vault/netlify/pathways"
+    editor:
+      preview: false
     create: true
     fields:
       - {label: "Pathway Title EN", name: "title", widget: "string"}
