@@ -42,30 +42,48 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
-      - label: "About Page"
-        name: "about"
-        file: "vault/netlify/about.yml"
+      - label: "About Page EN"
+        name: "about_en"
+        file: "vault/netlify/about_en.md"
+        format: "frontmatter"
         fields:
-          - {label: Title EN, name: title_en, widget: string}
-          - {label: Title DE, name: title_de, widget: string}
-          - {label: Text EN, name: text_en, widget: markdown}
-          - {label: Text DE, name: text_de, widget: markdown}
-      - label: "Imprint / Colophon"
-        name: "imprint"
-        file: "vault/netlify/imprint.yml"
+          - {label: Title EN, name: title, widget: string}
+          - {label: body, name: body, widget: markdown}
+      - label: "About Page DE"
+        name: "about_de"
+        file: "vault/netlify/about_de.md"
+        format: "frontmatter"
         fields:
-          - {label: Title EN, name: title_en, widget: string}
-          - {label: Title DE, name: title_de, widget: string}
-          - {label: Text EN, name: text_en, widget: markdown}
-          - {label: Text DE, name: text_de, widget: markdown}
-      - label: "Data Policy / Datenschutz"
-        name: "datenschutz"
-        file: "vault/netlify/datenschutz.yml"
+          - {label: Title DE, name: title, widget: string}
+          - {label: body, name: body, widget: markdown}
+      - label: "Imprint EN"
+        name: "imprint_en"
+        file: "vault/netlify/imprint_en.md"
+        format: "frontmatter"
         fields:
-          - {label: Title EN, name: title_en, widget: string}
-          - {label: Title DE, name: title_de, widget: string}
-          - {label: Text EN, name: text_en, widget: markdown}
-          - {label: Text DE, name: text_de, widget: markdown}
+          - {label: Title EN, name: title, widget: string}
+          - {label: body, name: body, widget: markdown}
+      - label: "Imprint DE"
+        name: "imprint_de"
+        file: "vault/netlify/imprint_de.md"
+        format: "frontmatter"
+        fields:
+          - {label: Title DE, name: title, widget: string}
+          - {label: body, name: body, widget: markdown}
+      - label: "Data Policy EN"
+        name: "datapolicy_en"
+        file: "vault/netlify/datapolicy_en.md"
+        format: "frontmatter"
+        fields:
+          - {label: Title EN, name: title, widget: string}
+          - {label: body, name: body, widget: markdown}
+      - label: "Datenschutz DE"
+        name: "datapolicy_de"
+        file: "vault/netlify/datapolicy_de.md"
+        format: "frontmatter"
+        fields:
+          - {label: Title DE, name: title, widget: string}
+          - {label: body, name: body, widget: markdown}
   - name: "curated_path"
     label: "Curated pathway"
     folder: "vault/netlify/pathways"
@@ -103,4 +121,3 @@ collections:
             display_fields: ['title']
             search_fields: ['title', 'title_de', 'author', 'tao_type', 'body']
             value_field: 'id'
-      
