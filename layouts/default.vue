@@ -2,7 +2,6 @@
   <div class='layout-container'>
     <navigation />
     <Nuxt />
-    <pathway />
   </div>
 </template>
 
