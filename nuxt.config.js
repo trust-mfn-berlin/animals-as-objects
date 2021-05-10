@@ -78,12 +78,12 @@ export default {
         // console.log(frontMatter);
 
         // Second, add vue component markup for wiki links
-        console.log('adding wikilink components...');
+        // console.log('adding wikilink components...');
         file.data = file.data.replace(wikiLinkRegex, wikiLinkReplacer);
 
         
         // Third, use Regex to split file into multiple languages separated by triple colons :::EN::: ... :::DE::: 
-        console.log('splitting languages...')
+        // console.log('splitting languages...')
         const langSplit = file.data.match(languageSplitterRegex)
 
         // Only if the file has these separators, join default language version (English) back together with frontmatter.
@@ -97,7 +97,7 @@ export default {
     },
     'content:file:beforeInsert': async (document, database) => {
       if(languageSplitterBuffer){
-        console.log('combining languages...')
+        // console.log('combining languages...')
         document.body_de = await database.markdown.toJSON(languageSplitterBuffer);
       }
 
@@ -107,7 +107,7 @@ export default {
         const page = backlinks[i];
 
         if(document.slug == page.slug){
-          console.log('match');
+          // console.log('match');
           document.backlinks = page.backlinks;
           document.forwardlinks = page.forwardlinks;
           

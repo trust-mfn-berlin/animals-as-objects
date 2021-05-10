@@ -93,7 +93,7 @@ async function getContent(filePath, encoding = "utf-8") {
 
             // Check if the backlink already exists. Only add it if it doesn't already exist.            
             if(!compiledBacklinks[u].backlinks.includes(from)){
-              console.log('MATCH', 'from index', x, 'to index', u);
+              // console.log('MATCH', 'from index', x, 'to index', u);
               console.log('FROM', from, '-> TO', forwardlink);
               compiledBacklinks[u].backlinks.push(from);
               
@@ -124,7 +124,7 @@ async function getContent(filePath, encoding = "utf-8") {
     nodes: graphNodes,
     links: graphLinks
   }
-  console.log(concatGraphData);
+  // console.log(concatGraphData);
   const graphData = JSON.stringify(concatGraphData)
   fs.writeFile(path.join(__dirname, '..','temp', 'graphdata.json'), graphData);
 
