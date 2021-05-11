@@ -2,7 +2,7 @@
 id: 6526be8c-01f6-4c05-a41d-fae91b634ced
 title: Heck Expeditions
 desc: Put a description of this note here...
-updated: 1620741429603
+updated: 1620747513578
 created: 1619426293502
 title_de: Tierfangexpeditionen von Lutz Heck
 desc_de: Put a DE description of this note here...
@@ -43,18 +43,18 @@ Finanziell waren solche Reisen nämlich eher fragwürdig. Seit den 1880er jahren
 Die erste internationale Tierfang-Expedition des Zoologischen Gartens Berlin startete 1925 in Richtung Abessinien [[material.Abyssinia]]. Nach wochenlangen Vorbereitungen, in denen die Schiffskarten und Erlaubnisse beschafft werden mussten und Ausrüstungsgegenstände gesammelt werden mussten war es endlich soweit. Alles war verpackt nicht nur Zelte Waffen fotomaterial, auch das Material zum Bau von transportkisten, also drahtgitter und Scharniere sowie die Schnuller von Milchflaschen und die notwendige Konservenmilch waren verpackt. Es scheint als ging man davon aus, nichts vor Ort bekommen zu können und alles aus Europa mitnehmen zu müssen. Mitte Januar kreuzte der Dampfer das Mittelmeer und Ende des Monats lag man auf Reede vor Dschibuti.  Mit an Bord und Teil der Expedition waren nicht nur Lutz Heck und der 'Oberwärter' [[material.Petrus Olesen]] sondern auch zwei Kameramänner der Ufa. Paul Lieberenz und Ernst Garden sollten die Erlebnisse Film festhalten. Angeblich wurden über 10000 m Film aufgenommen. Lutz Heck schrieb später, dass er sich Abessinien als Reiseziel ausgesucht hatte, zum einen weil es dort gute Transportmöglichkeiten ins Inland gab und zum anderen weil das Land den Deutschen nicht feindlich gesonnen sei. Abessinien war ein unabhängiges Königreich und nicht Teil des englischen Kolonialreiches, dass es umgab. Sicher spielte auch eine Rolle, das über Abessinien auch von deutschen Forschern eine Menge Informationen bereits gesammelt worden waren und damit eine gewisse Vorkenntnis über das Gebiet vorhanden war. Von Dschibuti aus führte der Weg über mit der Eisenbahn nach Diredaua.
 Diredaua war auch das Basislager für die von hier aus starten den ersten Expeditionen ins Landesinnere. Das Basislager fungierte insbesondere als Sammelstation für die eingesammelten, ernähren oder geschenkte und gekauften Tiere. und schon bald sollten das viele werden. Noch bevor sich die Mannschaft auf die erste Expedition begab hatten bereits die Menschen der Umgebung angefangen Tiere zu fangen und vorbeizubringen. Diese wurden höchstwahrscheinlich dann von Lutz Heck gekauft. Zu diesen Käufen gehörten bereits so exotische und begehrte Tiere wie Leoparden und Geparden oder auch Hyänen. Hinzukamen Nager, Kriechtiere und Vögel. Selbst ging Heck in diesen Tagen nur auf Jagd nach Wildbret. Das erste große Unternehmen war eine Reise zu einer heißen Quelle in der Nähe. Hier ließ er seine Fotoausrüstung von einheimischen Trägern tragen. Er hatte einen eigenen Gewehrträger sowie einen 'Boy', der ihn bediente. Die Beschreibungen seiner einheimischen Gefährten in späteren Veröffentlichungen sind abfällig. Zwar zieht er die christlichen Amharen und einzelne Stämme den muslimischen Somaliern vor, aber alle sind bestenfalls 'edle Wilde'. Seinen Gewehrträger beschreibt er später als eitel und dumm, der 'Boy' bekommt nicht einmal einen Namen in seinen Erinnerungen. Auch das Christentum der Abessinier wird als übertrieben und fast schon schädlich dargestellt.
 
-Die erste große Fangreise war den Mantelpavianen, den Hamadryas gewidmet. An mehreren Tagen fing die Expedition mittels der einheimischen Helfer eine große Gruppe. Besonderes Augenmaß lag dabei auf den Menschen, die mit dem Pelzmantel beeindruckender aussahen. das für eine langfristige Zucht eine höhere Zahl von Weibchen wichtiger gewesen wäre spielte für Lutz Heck augenscheinlich keine Rolle.
-
-![desc](images/cmw/Mantelpavian.JPG)
-_Mantelpavian mit einem der einheimischen Betreuer, 1927. Bilder mit den Fängern und Betreuern sind selten. (AZGB)_
+Die erste große Fangreise war den Mantelpavianen, den Hamadryas gewidmet. An mehreren Tagen fing die Expedition mittels der einheimischen Helfer eine große Gruppe. Besonderes Augenmaß lag dabei auf den Menschen, die mit dem Pelzmantel beeindruckender aussahen. das für eine langfristige Zucht eine höhere Zahl von Weibchen wichtiger gewesen wäre spielte für Lutz Heck augenscheinlich keine Rolle. 
 
 ![desc](images/cmw/Mantelpavian_13.JPG)
-_Mantelpaviane der Expedition, vermutlich auf dem Transport, 1925. (AZGB)_
+*Mantelpaviane der Expedition, vermutlich auf dem Transport, 1925. (AZGB)*
+
+Die Tiere wurden an die Küste verbracht, woraufhin sie auf einen Dampfer verladen wurden, der durch den Suezkanal nach Europa fuhr. Laut Lutz heck war die Überfahrt starken Seegangs wegen sehr beschwehrlich und es kam zu verlusten unter den Tieren. Brecher kamen über die Bordwand und schwemmten Ausrüstungsgegenstände, wvor allem aber auch Tiere ins Meer. Täglich wurde eines der für diesen Zweck mitgebrachten Rinder an Bord geschlachtet, um anderen Tieren als Nahrung zu dienen. 
+Nach der Überfahrt nach Marseille wurden die Tiere sechs Tage lang mit der Bahn nach Berlin transportiert, wo sie von mehreren Zehntausend Menschen in der Sonderschau "Abessinische Tiereinfuhr" gezeigt wurden.[^abess1]
 
 Die Tiere wurden in Berlin später auf einem großen 'Affenfelsen' angesiedelt. Noch heute sind Nachkommen der Expeditionsbeute dort untergebracht.
 
 ![des](images/cmw/Mantelpaviane_Felsen_Heck.jpg)
-_Der Pavianfelsen im Berliner Zoo, um 1930. (AZGB, Foto Heck)_
+*Der Pavianfelsen im Berliner Zoo, um 1930. (AZGB, Foto Heck)*
 
 ## Giraffenfang und 'Völkerschau'
 
@@ -70,12 +70,12 @@ Schnell wurden nun die Vorbereitungen getroffen. Anfang November 1927 waren die 
 Die Ausreise erfolgte über den deutschen Dampfer 'Nyassa', anschließend von der ostafrikanischen Küste mit der Bahn bis Moschi. Von dort brachte ein Lastauto die beiden Tierfänger 500 Kilometer weiter nach Mbulu. Zunächst wurden nun von diesem Basislager aus eine Expedition mit 80 einheimischen Trägern in ein Nashorn-reiches Gebiet unternommen. Und tatsächlich gelang es  auch wirklich bald, ein junges Nashorn zu fangen.
 
 ![desc](images/cmw/Heck_Nashorn.jpg)
-_Das gefangene Nashorn wird von Petrus Olesen mit Milch gefüttert, 1927. (Lutz Heck, Auf Tierfang)_
+_Das gefangene Nashorn wird von Petrus Olesen mit Milch gefüttert, 1927. (Lutz Heck: Auf Tiersuche in weiter Welt)_
 
 Bei dem Fang wurde wie damals üblich das Muttertier zunächst geschossen. Am Fangplatz wurde das Lager aufgeschlagen Punkt denn das Nashorn musste erst in 3 Wochen gezähmt werden, bevor der Rückmarsch zu Fuß angetreten werden konnte. Die Länge des täglichen Marschs richtete sich nach dem Belieben des am Strick mitgeführten Tieres. Wenn in der Nähe kein Wasser war oder das Tier nach einem Kilometer anfing Komma an den Büschen zu fressen konnte nicht weitermarschieren werden.
 
 ![desc](images/cmw/Heck_Nashorn_Kral.jpg)
-_Gehege im Fanglager, 1927 (Lutz Heck, auf Tiersuche)_
+_Gehege im Fanglager, 1927 (Lutz Heck: Auf Tiersuche in weiter Welt)_
 
 Anschließend begab sich Heck in die Massai Steppe um dort die großen Herdentiere zu fangen. Als geländekundigen Helfer und Reiter heuerte Heck den südafrikanischen Buren Pitt Jones an. Er ritt mit Schlinge und Fangstock hinter Zebras oder Giraffen her und fing die jüngeren Tiere.
 
@@ -83,7 +83,7 @@ Anschließend begab sich Heck in die Massai Steppe um dort die großen Herdentie
 _Der Fänger Pitt Jones beim Fang einer der fünf Giraffen der Expedition, 1928. (AZGB)_
 
 ![desc](images/cmw/Heck_Giraffenfang_Auto_Kral.jpg)
-_Die gefangenen Tiere wurden mit einem Lastwagen zu einem Lager gefahren, wo sie gesammelt und an Menschen gewöhnt wurden. (Lutz Heck: Auf Tiersuche)_
+_Die gefangenen Tiere wurden mit einem Lastwagen zu einem Lager gefahren, wo sie gesammelt und an Menschen gewöhnt wurden. (Lutz Heck: Auf Tiersuche in weiter Welt)_
 
 Fünf Giraffen, 19 Zebras, vier Straußenvögel und verschiedene Antilopen waren die Ausbeute die Berlin gesund erreichte. In der Gegend von Kilwa wurden drei Nilpferde von Einheimischen in Fallgruben gefangen. Der oberste britische Wildschutzbeamte überließ sie dann dem Zoologischen Garten. Es wurde ein besonderes Gehege für diese eingerichtet. Diese Information gab Lutz Heck in seinen Veröffentlichungen an.[^exp4] Ob die Einheimischen von den britischen Behörden für 'Wilderei' [[material.poaching]] bestraft wurden, ist nicht bekannt - interessierte Lutz heck auch nicht.
 
@@ -134,13 +134,16 @@ Auch noch in den 1930er Jahren ging [[material.Lutz Heck]] auf Fangreisen. So fu
 ![Bild des Affenfelsens Mitte der 1930er Jahre](images/cmw/Affenfelsen-Heck.jpg)
 
 Lutz Hecks spätere Ehefrau Eva MacLean brachte 1936 von einer Reise nach Kamerun 1936 das Gorillaweibchen "Eseka" und einen Schimpansen mit.
+<!-- Stimmt das?-->
 
 ![Frau mit einem Schimpansen- und einem Gorillajungtier an Bord eines Schiffs](images/cmw/Gorilla_Schimpansentransport_25061936.jpg)
 _Eva MacLean an Bord eines Schiffs mit einem jungen Schimpansen und einem jungen Gorilla, 1936. (AZGB)_ [[story.Colonial Imagery]]
 
-- [ ] noch Bilder von Heinroth und Klös als sie ihre 'bestellten Tiere' abholen
+- Heck erneut 1938 --> noch Journal checken auf Schimpansen und Gorillas
 
-Letztlich haben sich eigene Fangexpeditionen für den Berliner Zoo 
+- noch Bilder von Heinroth und Klös als sie ihre 'bestellten Tiere' abholen
+
+Letztlich haben sich eigene Fangexpeditionen für den Berliner Zoo finanziell wohl nicht gelohnt. Zur Bekanntheit der Tiere, des Zoos und seines Zoodirektors haben sie aber beigertragen und dienten so der Werbung für den Zoo.
 
 * * *
 
@@ -160,3 +163,4 @@ Letztlich haben sich eigene Fangexpeditionen für den Berliner Zoo
 
 [^exp7]: Telegramm 08.05.1928, AZGB, O 0/1/327.
 
+[^abess1]: Heck, Lutz. 1941. Auf Tiersuche in weiter Welt. Berlin: Paul Parey: 68-69.
