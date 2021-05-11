@@ -2,7 +2,7 @@
 id: a2d62ba6-b5d8-4399-9146-78743617b18a
 title: Feeding
 desc: Put a description of this note here...
-updated: 1620752962196
+updated: 1620754099110
 created: 1620395099743
 title_de: Füttern! Verboten?
 desc_de: Put a DE description of this note here...
@@ -19,6 +19,11 @@ published: false
 
 
 :::DE:::
+
+-	Jahres-Bericht über die Verwaltung des Zoologischen Gartens im Jahre 1953, S. 4: „Der andre, unsre Kasse schwer belastende Ausgabe-Titel betrifft die Fütterung und Verpflegung der Thiere“ : durchschnittlich wurde jährlich 5468 Thaler ausgegeben.
+„Eine wesentliche Hülfe haben wir zunächst darin gefunden, daß wir einen großen Theil unsers Bedarfs an Grünfutter, Heu, Kartoffeln, Kohlrüben, Runkelrüben und Mais selbst bauen, indem wir von den ganz in der Nähe des Gartens gelegenen Charlottenburger Aeckern 14 5/6 Morgen für einen jährlichen
+
+
 
 ### Futternot 
 Am Ende des Zweiten Weltkriegs zählte der Berliner Zoologische Garten gerade noch 81 Tiere. 1938 waren es  über 3000 gewesen und 1944 immerhin noch 1700.[^Futternot1] 
