@@ -2,7 +2,7 @@
 id: 1ee4d401-6620-4095-ac94-68837a291b1d
 title: From Dressage to Medical Training
 desc: Put a description of this note here...
-updated: 1619183881767
+updated: 1620740006718
 created: 1619183095486
 title_de: Von der Dressur zum medizinischen Training
 desc_de: Put a DE description of this note here...
@@ -40,3 +40,7 @@ Alle im Berliner Zoo gehaltenen Seelöwen können erlernten Kommandos ausführen
 Das mit den Seelöwen und anderen Tieren zur verbesserten Tierhaltung absolvierte Training basiert auf einer Abwandlung der durch den Psychologen B.F. Skinner populär gemachten Methode der operanten Konditionierung und ist international anerkannt. Zeigt das Tier auf ein bestimmtes Kommando hin ein erwünschtes Verhalten, wird es mit einem beliebten Leckerli belohnt. Mit Bestrafungen arbeitet man im Zoo dagegen nie. Wichtig ist vielmehr, dass in dem Moment, in dem das Tier das gewünschte Verhalten zeigt, ein akustisches Signal zur Verstärkung gegeben wird. Dieses als »Brücke« bezeichnete Signal wird so von dem Tier mit der Handlung verknüpft und erleichtert das Lernen. Ein gutes Beispiel für die erfolgreiche Anwendung dieses Trainings im Zoo ist das »Klickertraining« bei der Bonobo-Gruppe. Diese äußerst intelligenten Menschenaffen werden seit langer Zeit trainiert und können bis zu 30 Übungen absolvieren. Die »Brücke« bildet in ihrem Fall ein bestimmtes Klickgeräusch, dass die Pfleger einsetzen. Mit Hilfe solcher Übungen lassen sich die Tiere durch das Gitter einer Tür nicht nur in aller Ruhe tiermedizinisch untersuchen und behandeln, sondern sogar stressfrei impfen. Auch der Elefantenbulle »Victor« wurde von Anfang an in diesem Sinne trainiert. Und wie viele Tiere, fordert er jeden Morgen sein Training richtiggehend ein – er möchte es durchführen, was den möglichst ungefährlichen Umgang zwischen ihm und den Pflegern insgesamt erheblich erleichtert. 
 
 Natürlich sind die konkreten Erfolge eines solchen Trainings nach dem Schema der klassischen Konditionierung von der Intelligenz der jeweiligen Tierart abhängig. Aber auch bei Straußen, Giraffen und Malaienbären kommt es beispielsweise zum Einsatz. Die Lippenbärin »Kaveri« lässt sich in einer Übung den Bauch rasieren und eine Ultraschalluntersuchung durchführen, was bei Trächtigkeit bereits eine große Hilfe war. Rechtzeitig konnten Tierärzte und Pfleger sie zum eigenen Schutz von dem Männchen trennen. Sogar im Aquarium funktioniert diese Trainingsmethode recht gut. Viele Gäste sind erstaunt, dass hier die Gaviale bei den kommentierten Fütterungen tatsächlich auf ihre Namen Asha und Uma hören und von den Pflegern ganz »persönlich«, wie manch ein Haustier, angesprochen werden können. 
+
+
+Kawata, Ken. 2008. „Zoo Animal Feeding: A Natural History Viewpoint“. Der Zoologische Garten. Neue Folge 78: 17–42.
+
