@@ -2,7 +2,7 @@
 id: 21ac115b-15e0-4af9-a4ed-fdd3d29c313d
 title: ToDo CMW
 desc: ''
-updated: 1620290609059
+updated: 1620747812547
 created: 1618495172862
 ---
 ## Empty Backlinks
@@ -66,6 +66,9 @@ created: 1618495172862
 
 ## Todos the others
 
+## Collection materials from stories
+
+- [ ] Lions and ruins
 
 ## "Fertig"
 
