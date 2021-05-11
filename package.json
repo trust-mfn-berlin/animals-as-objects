@@ -21,6 +21,7 @@
   "devDependencies": {
     "fs-extra": "^9.1.0",
     "jimp": "^0.16.1",
+    "jpeg-js": "^0.4.3",
     "markdown-yaml-metadata-parser": "^3.0.0"
   }
 }
