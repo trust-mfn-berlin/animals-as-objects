@@ -2,7 +2,7 @@
 id: c48260aa-ce2c-4c76-8405-db4311a07923
 title: Re-breeding Aurox
 desc: Put a description of this note here...
-updated: 1619184728828
+updated: 1620831978223
 created: 1619184177993
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -56,6 +56,10 @@ In den Augen der beiden Brüder sollten die Auer aber eine »volksbildende« Fun
 Am 20. April 1938 verlieh Adolf Hitler anlässlich seines Geburtstags unter anderem Lutz Heck den Titel eines Professors ehrenhalber. Heck, der Zeit seines Lebens nie an einer Hochschule gearbeitet hat, führte diesen Titel fortan in allen Dokumenten. Auch in der unmittelbaren Nachkriegszeit ließ er sich so anreden. Im Sommer 1938 ernannte Göring, in seiner Rolle als Reichsforst- und Reichsjägermeister, Lutz Heck zum Leiter der Obersten Naturschutzbehörde.200 Nach dem Krieg behauptete Heck fälschlicherweise, er hätte den Posten abgelehnt.201 
 
 ((Abb 9: Lutz Heck (links) vermutlich mit seinem Dienstwagen mit dem Zeichen des Reichsjägerbundes und Fahrer im Wirtschaftshof des Zoos, um 1941. (AZGB) )) 
+
+
+Noch 1954 hielt Lutz Heck an der Behauptung fest, der Auerochse sei von ihm wiederbelebt worden. Heck, Lutz. 1954. Tiere - mein Abenteuer. Erlebnisse in Wildnis und Zoo. Wien: Ullstein.
+
 
 Noch heute gibt es übrigens »Heck-Rinder«. Die Berliner Linie überlebte den Krieg nicht, aus der Münchener Linie aber gibt es Nachfahren. Der Direktor des Berliner Tierparks Heinrich Dathe richtete 1980 ein Internationales Zuchtbuch für das »Urähnliche Rind« ein. Bereits 1956 hatte er sich einige »Ure« für seinen Tierpark gesichert. Er wollte nicht, dass »eine der bemerkenswertesten tiergärtnerischen Aktivitäten der letzten Jahrzehnte sang- und klanglos« unterging. Freilich nannte er die Tiere nicht Auerochsen, sondern eben »Urähnliche Rinder«.202 
 
