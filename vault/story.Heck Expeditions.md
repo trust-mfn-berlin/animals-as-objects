@@ -2,7 +2,7 @@
 id: 6526be8c-01f6-4c05-a41d-fae91b634ced
 title: Heck Expeditions
 desc: Put a description of this note here...
-updated: 1620747513578
+updated: 1620832966587
 created: 1619426293502
 title_de: Tierfangexpeditionen von Lutz Heck
 desc_de: Put a DE description of this note here...
@@ -129,19 +129,17 @@ Noch 1935 profitierte der Zoologische Garten von der Reise 1928. Damals machte L
 
 ## Spätere Expeditionen
 
-Auch noch in den 1930er Jahren ging [[material.Lutz Heck]] auf Fangreisen. So fuhr er im Auftrag von [[material.Hermann Göring]] nach Kanada, um dort mit behördlicher Erlaubnis Elche? und Bisons zu fangen. Letztere wollte er im Erhaltungszuchtprogramm für den Wisent einsetzen und bei sich und in anderen Zoos ausstellen. Er reiste auch erneut nach Afrika, diesmal aber eher als Foto- und Jagdtourist. Seine Lebensgefährtin Eva Mac Lean reiste mehrfach nach Kamerun, an den Tschadsee und ins südliche Afrika und brachte auch weiterhin einzelne Tiere für den Berliner Zoo mit zurück.
+Auch noch in den 1930er Jahren ging [[material.Lutz Heck]] auf Fangreisen. So fuhr er im Auftrag von [[material.Hermann Göring]] 1936 nach Kanada, um dort mit behördlicher Erlaubnis Elche und Bisons zu fangen.[^late1] Letztere wollte er im Erhaltungszuchtprogramm für den Wisent einsetzen und bei sich und in anderen Zoos ausstellen. Er reiste auch erneut nach Afrika, diesmal aber eher als Foto- und Jagdtourist. Seine Lebensgefährtin Eva Mac Lean reiste mehrfach nach Kamerun, an den Tschadsee und ins südliche Afrika und brachte auch weiterhin einzelne Tiere für den Berliner Zoo mit zurück.
 
 ![Bild des Affenfelsens Mitte der 1930er Jahre](images/cmw/Affenfelsen-Heck.jpg)
+_Auf diesem Felsen stellte Lutz Heck die mantelpaviane seiner Expedition aus. (um 1930, AZGB, Foto Lutz Heck)_
 
-Lutz Hecks spätere Ehefrau Eva MacLean brachte 1936 von einer Reise nach Kamerun 1936 das Gorillaweibchen "Eseka" und einen Schimpansen mit.
-<!-- Stimmt das?-->
+Lutz Hecks spätere Ehefrau Eva MacLean brachte 1936 von einer Reise nach Kamerun 1936 das Gorillaweibchen "Eseka" und einen Schimpansen mit.[^late2]
 
 ![Frau mit einem Schimpansen- und einem Gorillajungtier an Bord eines Schiffs](images/cmw/Gorilla_Schimpansentransport_25061936.jpg)
 _Eva MacLean an Bord eines Schiffs mit einem jungen Schimpansen und einem jungen Gorilla, 1936. (AZGB)_ [[story.Colonial Imagery]]
 
-- Heck erneut 1938 --> noch Journal checken auf Schimpansen und Gorillas
-
-- noch Bilder von Heinroth und Klös als sie ihre 'bestellten Tiere' abholen
+1938 war Heck dann mehrere Monat in Kamerun, angeblich vor allem, um Tiere, insbesondere Gorillas, in ihrem Lebensraum zu beobachten. Und wieder kam er mit einem reichhaltigen Tiertransport zurück. Unter den vielen Tieren alleine mehr als 30 Affen, darunter wiederum drei Schimpansen.[^late3]
 
 Letztlich haben sich eigene Fangexpeditionen für den Berliner Zoo finanziell wohl nicht gelohnt. Zur Bekanntheit der Tiere, des Zoos und seines Zoodirektors haben sie aber beigertragen und dienten so der Werbung für den Zoo.
 
@@ -164,3 +162,9 @@ Letztlich haben sich eigene Fangexpeditionen für den Berliner Zoo finanziell wo
 [^exp7]: Telegramm 08.05.1928, AZGB, O 0/1/327.
 
 [^abess1]: Heck, Lutz. 1941. Auf Tiersuche in weiter Welt. Berlin: Paul Parey: 68-69.
+
+[^late1]: Zoologischer Garten Berlin: Geschäftsbericht für das Jahr 1936.
+
+[^late2]: Zoologischer Garten Berlin: Geschäftsbericht für das Jahr 1936; Karteikarte "Schimpansen" der alten Zookartei.
+
+[^late3]: Zoologischer Garten Berlin: Geschäftsbericht für das Jahr 1936; Karteikarte "Schimpansen" der alten Zookartei; Heck, Lutz. 1941. Auf Tiersuche in weiter Welt. Berlin: Paul Parey: 143-193.
