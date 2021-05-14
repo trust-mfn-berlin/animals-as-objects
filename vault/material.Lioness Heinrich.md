@@ -19,5 +19,5 @@ published: false
 
 # Die Löwin "Heinrich"
 
-![Postkarte mit dem Bild der Löwin namens "Heinrich](images/cmw/S_7_2_Loewin_Heinrich.jpg)
+![Postkarte mit dem Bild der Löwin namens "Heinrich](/images/cmw/S_7_2_Loewin_Heinrich.jpg)
 

@@ -19,9 +19,9 @@ published: false
 
 ## Leben und Reise des Gorilla "Bobby"
 
-![Zoodirektor Ludwig Heck mit einem Gorillajungen auf dem Arm](images/cmw/Ludwig-Heck-Bobby.jpg)
+![Zoodirektor Ludwig Heck mit einem Gorillajungen auf dem Arm](/images/cmw/Ludwig-Heck-Bobby.jpg)
 
-![Bild eines ausgewachsenen männlichen Gorilla](images/cmw/Bobby-old.jpg)
+![Bild eines ausgewachsenen männlichen Gorilla](/images/cmw/Bobby-old.jpg)
 
 <!-- Bild des toten Gorilla >
 

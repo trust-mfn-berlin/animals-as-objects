@@ -33,7 +33,7 @@ Zoos, Tierparks, Aquarien, Naturkundemuseen - sie alle sind naturkundliche Samml
 **Das kunstvoll präparierte Schaupräparat, das in den Dioramen der Naturkundemuseen wie lebensecht dargestellte Tier, ist nicht die Regel. Zwar nehmen die Besucherinnen und Besucher dieses am meisten wahr, hinter den Kulissen der Museen aber befinden sich die oft um ein Vielfaches größeren 'wissenschaftlichen Sammlungen' der Häuser.** In diesen finden unzählige Objekte, die Forscher\*innen aus aller Welt als Quellen oder Vergleichsmaterial ihrer wissenschaftlichen Arbeiten dienen. Mal sind es vollständige Skelette, mal sind es gar nur fossile Knochenteile. Die wissenschaftlichen Sammlungen des Naturkundemuseums umfassten 2021 mehr als 30 Millionen Objekte. Davon bekommen die Besucherinnen und Besucher selbstverständlich nur einen kleinen Teil zu sehen.
 **Bei Zoos ist die Trennung in unterschiedliche Sammlungen nicht vorhanden.** Wohl aber gibt es Räumlichkeiten, in denen Tiere aus unterschiedlichen Gründen isoliert werden können, sei es, weil sie tragend sind oder gebären, oder weil sie krank sind und von den Artgenossen isoliert werden. Im Tierpark Berlin lebte der alte China-Alligator "Mao" die letzten Jahre seines langen Lebens von den Besuchern und kampflustigen jüngeren Artgenossen unbehelligt in einem Becken hinter den Kulissen. 
 
-![Zwei Männer begutachten einen jungen Alligator](images/cmw/Dathe_Petzold_Mao.jpg)
+![Zwei Männer begutachten einen jungen Alligator](/images/cmw/Dathe_Petzold_Mao.jpg)
 *China-Alligator "Mao" wird nach seiner Ankunft im Mai 1957 durch Tierparkdirektor Heinrich Dathe und den Oberassistenten untersucht. (AZGB)*
 
 Manche Tierarten werden bei zu kaltem Wetter in den Tierhäusern eingesperrt oder aber haben die Möglichkeit sich selbst auszusuchen, wo sie sich aufhalten wollen. In der Regel aber sind die allermeisten Zootiere für die Besucher sichtbar, wenn sie sich nicht entscheiden, sich zu verstecken.
@@ -63,10 +63,10 @@ Mit diesen unterschiedlichen Quellen an Tierobjekten hängen jeweils auch unters
 * große und möglichst vollständige Skelette von **Dinosauriern** oder **Walen** in Naturkundemuseen
 * **Pandas** oder andere sehr **schauwertige Tiere** in Zoos.
 
-![desc](images/cmw/Aqua_Fischtransport_Seitz.jpg)
+![desc](/images/cmw/Aqua_Fischtransport_Seitz.jpg)
 *Ankunft von neuen Tieren für das Aquarium Berlin, um 1920. (AZGB)*
 
-![desc](images/cmw/Giraffentransport_1928_S_3_58_Wolter.jpg)
+![desc](/images/cmw/Giraffentransport_1928_S_3_58_Wolter.jpg)
 *Giraffentransport für den Zoo, 1928. (AZGB, Foto Wolter)*
 
 ## Geschenke von Herrschern und Gönnern
@@ -75,7 +75,7 @@ Die Fundamente des Berliner Naturkundemuseums [[story.Short History MfN]] und Zo
 
 Die Basis für den 1844 gegründeten 'Zoologischen Garten bei Berlin' beruhte ausschließlich auf königlichen Geschenken. Sowohl das in Erbpacht für einen nominalen Preis überlassene Gelände im südlichen Teil des Tiergartens als auch Tiere und sogar Materialien für die Umzäunung des Geländes kamen aus königlichem Besitz. Friedrich Wilhelm IV. gestattete dem Gründungsdirektor und erstem Professor für Zoologie der Berliner Universität, Martin Hinrich Lichtenstein, aus den Tieren der königlichen Menagerie auf der Pfaueninsel diejenigen auszusuchen, die er auszustellen beabsichtigte. Die Tierhäuser der Pfaueninsel wurden abgebaut und im Zoo aufgestellt. Hinzu kamen mehrere großzügige zinslose Darlehen.[^gifts2]
 
-![desc](images/cmw/Zooplan_1845.jpg)
+![desc](/images/cmw/Zooplan_1845.jpg)
 *Plan des Zoologischen Gartens bei Berlin, 1845. (AZGB)*
 
 In beiden Fällen wurden die königlichen Geschenke bald von Privatleuten, Gelehrten und Beamten ergänzt. Im Naturkundemuseum waren unter anderem Sammlungen des Entomologen Johann von Hoffmannsegg und Alexander von Huumboldt, die - möglicherweise auch durch finanzierung des Herrscherhauses - das Museum weiter bereicherten.[^gifts3] Auch der Zoo erhielt fortan Geschenke für seine Sammlung. So bat dessen Leitung Preußische Beamte udn Diplomaten in Übersee um Schenkungen.[^gifts4]
@@ -142,7 +142,7 @@ Im Berliner Zoo wurden eigene Fangexpeditionen nur in einem sehr begrenzten Maß
 
 in den Sitzungen des VDZ der 1960er ist der Schutz der Orangs immer wieder Thema und wird widersprüchlich diskutiert - es scheint als wollten einge Direktoren schlicht nicht auf Orangs verzichten.
 
-![Aquariumsbecken mit Quallen](images/cmw/Quallenaufzucht_um1999.jpg)
+![Aquariumsbecken mit Quallen](/images/cmw/Quallenaufzucht_um1999.jpg)
 *In diesen Becken züchtete das Berliner Aquarium Ende der 1990er Jahre erfolgreich Quallen. (AZGB)*
 
 ## Dublettenhandel und Tiertausch zwischen Zoos

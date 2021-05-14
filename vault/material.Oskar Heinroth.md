@@ -19,7 +19,7 @@ English content goes here.
 
 :::DE:::
 
-![Oskar Heinroth mit drei Uralkäuzen](images/cmw/O_Heinroth_Uralkaeuzen_1929.jpg)
+![Oskar Heinroth mit drei Uralkäuzen](/images/cmw/O_Heinroth_Uralkaeuzen_1929.jpg)
 Oskar Heinroth mit drei von ihm großgezogenen Uralkäuzen, 1929. (AZGB)
 
 **Oskar August Heinroth** (1871-1945) beschäftigte sich seit seiner frühen Jugend mit Tieren. Eine Pockenerkrankung im Säuglingsalter hinterließ eine starke Seheinschränkung. Heinroth **studierte Medizin und promovierte 1895 in Kiel** in dem Fach. Dort nutzte er aber seine Freizeit für **Tierbeobachtungen**. Ab 1896 lebte er Berlin und arbeite teils unentgeldlich für den **Zoologischen Garten und in der Vogelabteilung des Zoologischen Museums.** [[story.Short History MfN]] Er bestimmte große Teile von dessen Vogelsammlung neu. Viele seiner dort gemachten Erfahrungen flossen in eine grundlegende Abhandlung über die Mauser der Vögel (1898) ein.

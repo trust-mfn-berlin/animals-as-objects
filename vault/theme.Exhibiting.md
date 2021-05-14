@@ -76,14 +76,14 @@ Von Anfang an gehörten Restaurationen, die Möglichkeit, sich zu treffen und Ge
 
 ## Von der Dresssur zum Enrichment Training
 
-![desc](images/cmw/Elefant_Dressur.jpg)
+![desc](/images/cmw/Elefant_Dressur.jpg)
 Etwa 1930 (AZGB)
 
 
-![desc](images/cmw/Dressur_kaden_1940_Heck.jpg)
+![desc](/images/cmw/Dressur_kaden_1940_Heck.jpg)
 
 
-![Fünf Kinder reiten auf dem Rücken einer jungen asiatischen Elefantenkuh](images/cmw/Shanti_Kinder_1953_S_3_91.jpg)
+![Fünf Kinder reiten auf dem Rücken einer jungen asiatischen Elefantenkuh](/images/cmw/Shanti_Kinder_1953_S_3_91.jpg)
 (AZGB, Schenkung durch Hannelore Heinzel)
 
 ![Drei asiatische Elefantenkühe bei der Dressur](images\cmw\Elefantendressur.jpg)
