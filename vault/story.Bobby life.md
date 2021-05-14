@@ -2,7 +2,7 @@
 id: f02cb0e0-9512-4a0f-8012-02969e9f97d0
 title: Bobby life
 desc: Put a description of this note here...
-updated: 1620988313887
+updated: 1621007295544
 created: 1620163729182
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -22,6 +22,12 @@ published: false
 ![Zoodirektor Ludwig Heck mit einem Gorillajungen auf dem Arm](images/cmw/Ludwig-Heck-Bobby.jpg)
 
 ![Bild eines ausgewachsenen männlichen Gorilla](images/cmw/Bobby-old.jpg)
+
+![description](images\cmw\bobby-young.jpg)
+
+![description](images\cmw\Liebetreu_Bobby.jpg)
+
+![description](images\cmw\Wegweiser_1935_Bobby.jpg)
 
 <!-- Bild des toten Gorilla >
 
@@ -53,7 +59,5 @@ published: false
 
 -	Nachkriegszeit bis heute
 
-
-
-
-
+---
+## Footnotes
