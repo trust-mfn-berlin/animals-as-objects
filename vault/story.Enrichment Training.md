@@ -2,7 +2,7 @@
 id: 1ee4d401-6620-4095-ac94-68837a291b1d
 title: From Dressage to Medical Training
 desc: Put a description of this note here...
-updated: 1620740006718
+updated: 1621006755427
 created: 1619183095486
 title_de: Von der Dressur zum medizinischen Training
 desc_de: Put a DE description of this note here...
@@ -21,9 +21,10 @@ English content goes here.
 
 Im September 2000 kam der asiatische Elefantenbulle "Victor" aus dem Zoo von Ramat Gan in Israel nach Berlin. Der Plan war, hier Nachwuchs zu zeugen. Nachdem zwei Jungtiere starben gebar "Pang Pha" schließlich das Kalb "Anchali". Diese lebt seitdem mit ihrer Mutter und den Tanten »Drumbo« und »Carla« auf der Anlage für die Elefantenkühe und -Kälber. Wie in den meisten Zoos weltweit wird auch in Berlin der Elefantenbulle nicht zusammen mit den Herden der Kühe und Jungtiere gehalten. Er bekommt aber täglich Besuch von einer Kuh. Hinzu kommt, dass im Zoo die Pfleger nicht auf die Bullenanlagen und in die Innengehege der Bullen gehen. "Geschützter Kontakt" wird diese Haltungsform genannt. Bei dieser haben die Pfleger keinen direkten körperlichenUmgang mit den männlichen Tieren, immer ist eine sichere Barriere zwischen Mensch und Tier. Dennoch ist es nötig, dass die Elefanten bestimmte Verhaltensweisen ausführen und einige Kommandos befolgen. Diese werden – nicht nur bei Elefanten, sondern auch bei einer großen Anzahl weiterer Zootiere – über ein besonderes Training erlernt, bei dem man den Tieren beibringt, auf besondere Kommandos mit bestimmten Handlungsmustern zu reagieren. Diese Konditionierung dient pflegerischen und medizinischen Zwecken und erlaubt es beispielsweise den Tieren mitzuteilen, wann sie sich in den Außenkäfig bewegen sollen oder wann sie ihr Ohr oder ihren Fuß an die Barriere halten sollen, damit tierärztliche Kontrollen oder auch Fußpflege erfolgen können. Nebenbei bereichert dieses »Medical-Training« den Tieren den Alltag. Eine Dressur zu reinen Unterhaltungszwecken, wie früher im Zoo mit den Elefanten und auch den Löwen auf der Freianlage, erfolgt nicht. In den 1930er Jahren gab es im Zoo regelrechte Dressurvorführungen mit 13 Löwen durch den Dompteur Kaden.  
 
-((Abb 275: Elefantendressur, 1936. (AZGB) )) 
+![desc](images/cmw/Dressur_kaden_1940_Heck.jpg)
+_Löwendressur durch Dompteur Kaden, 1940. (AZGB)_
 
-((Abb 276: Löwendressur durch Dompteur Kaden, 1938. (AZGB) )) 
+((AbbElefantendressur, 1936. (AZGB) )) 
 
 Eine für die Tiere sehr schöne Bereicherung des Alltags – »Enrichment Training« - ist das mit den öffentlichen Fütterungen verbundene Tiertraining. Es bietet aber auch den Besucherinnen und Besuchern ein schönes Erlebnis, wie man tagtäglich besonders an der großzügigen Seelöwen-Außenanlage beobachten kann. Diese Außenanlage schließt sich an das Pinguinhaus an, das zur selben Zeit errichtet wurde. Schon Anfang der 1990er Jahre hatte es Überlegungen gegeben, ein neues Pinguinhaus zu bauen, da das alte zwar eine erfolgreiche Zucht beheimatete aber langsam zu eng wurde. Und auch in der Robbenanlage wünschten sich Zoo und Besucher großzügigere Becken. 1957 und 1959 hatten die Becken hellere Kacheln erhalten, damit sich die tauchenden Tiere stärker vom Beckenboden abhoben und so besser beobachtet werden konnten. Anfang der 1970er Jahre wurde an der Nordseite ein zusätzliches Becken für Kegelrobben und Südafrikanische Seebären angelegt. Hier sollte nun ein weiteres Großprojekt vorangetrieben werden.  
 
@@ -44,3 +45,16 @@ Natürlich sind die konkreten Erfolge eines solchen Trainings nach dem Schema de
 
 Kawata, Ken. 2008. „Zoo Animal Feeding: A Natural History Viewpoint“. Der Zoologische Garten. Neue Folge 78: 17–42.
 
+![desc](images\cmw\Zooplakat_Schimpanse_Missi_1909.jpg)
+
+![desc](images/cmw/Elefant_Dressur.jpg)
+Etwa 1930 (AZGB)
+
+![des](images\cmw\Schimpansin_Lore_Fahrrad.jpg)
+
+![desc](images\cmw\Schimpanse_Suse.jpg)
+
+![Fünf Kinder reiten auf dem Rücken einer jungen asiatischen Elefantenkuh](images/cmw/Shanti_Kinder_1953_S_3_91.jpg)
+(AZGB, Schenkung durch Hannelore Heinzel)
+
+![Drei asiatische Elefantenkühe bei der Dressur](images\cmw\Elefantendressur.jpg)

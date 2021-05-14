@@ -2,7 +2,7 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1620412193793
+updated: 1621001931189
 created: 1618576718116
 title_de: Knut
 desc_de: Put a DE description of this note here...
@@ -93,8 +93,8 @@ Manche Autor\*innen nahmen in ihren Schreiben die Position des toten Tieres ein,
 
 Im Zoo wird 2012 die Skulptur "Knut der Träumer" nach einem Entwurf des Künstlers Josef Tabachnyk errichtet. Die etwa 1,5 m lange und etwas über einen Meter breite Figur am Eisbärengehege besteht aus einem in Bronze gegossenen Eisbären, der auf zwei aus weissen Granit geformten Eisschollen liegt.[^tod1]
 
-- [ ] Bild der Skulptur?
-*Skulptur 'Knut der Träumer, 2021 (Clemens Maier-Wolthausen)*
+![Skulptur eines liegenden Eisbärenjungen](images\cmw\Knut_der_Traeumer.jpg)
+*Skulptur 'Knut der Träumer', 2021 (Clemens Maier-Wolthausen)*
 
 Die benötigten Spenden wurden vom Förderverein 'Stiftung Hauptstadtzoos' gesammelt. Zudem werden 2012  Repliken des Denkmals als Souvenir verkauft. Die als 'denkmal' bezeichnete Skulptur ist 2012 auch das Motiv einer Gedenkmünze aus versilberter Bronze der Staatlichen Münze Berlin.[^tod2]
 

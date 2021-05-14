@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: Acquisition
 desc: The various sources of animal objects for museums and zoos.
-updated: 1620402412758
+updated: 1621005850377
 created: 1618498026144
 title_de: Tiere sammeln
 desc_de: Tiere und Tierobjekte kommen aus vielen unterschiedlichen Quellen.
@@ -26,21 +26,9 @@ English content goes here.
 *Summary*
 >Lebende und tote Tiere für die Sammlungen des Zoologischen Gartens, Aquariums und Tierparks Berlin und des Museums für Naturkunde kamen und kommen aus unterschiedlichen Quellen. Diese haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen für diese Einrichtungen - politische, logistische und moralische.
 
-## Zoos und Museen sind Tiersammlungen
-
-Zoos, Tierparks, Aquarien, Naturkundemuseen - sie alle sind naturkundliche Sammlungen. Sie enthalten in eingezäunten oder von Gräben umschlossenen Gehegen,  Tierhäusern oder in Vitrinen und auf Podesten ausgestellte lebende Tiere aber auch 'ausgestopfte', in Alkohol aufbewahrte oder nach den neuesten Erkenntnissen der Präparierkunst konservierte Tierhäute, Knochen, Felle, Schädel oder auch Organe von tierischen Organismen.
-
-**Das kunstvoll präparierte Schaupräparat, das in den Dioramen der Naturkundemuseen wie lebensecht dargestellte Tier, ist nicht die Regel. Zwar nehmen die Besucherinnen und Besucher dieses am meisten wahr, hinter den Kulissen der Museen aber befinden sich die oft um ein Vielfaches größeren 'wissenschaftlichen Sammlungen' der Häuser.** In diesen finden unzählige Objekte, die Forscher\*innen aus aller Welt als Quellen oder Vergleichsmaterial ihrer wissenschaftlichen Arbeiten dienen. Mal sind es vollständige Skelette, mal sind es gar nur fossile Knochenteile. Die wissenschaftlichen Sammlungen des Naturkundemuseums umfassten 2021 mehr als 30 Millionen Objekte. Davon bekommen die Besucherinnen und Besucher selbstverständlich nur einen kleinen Teil zu sehen.
-**Bei Zoos ist die Trennung in unterschiedliche Sammlungen nicht vorhanden.** Wohl aber gibt es Räumlichkeiten, in denen Tiere aus unterschiedlichen Gründen isoliert werden können, sei es, weil sie tragend sind oder gebären, oder weil sie krank sind und von den Artgenossen isoliert werden. Im Tierpark Berlin lebte der alte China-Alligator "Mao" die letzten Jahre seines langen Lebens von den Besuchern und kampflustigen jüngeren Artgenossen unbehelligt in einem Becken hinter den Kulissen. 
-
-![Zwei Männer begutachten einen jungen Alligator](images/cmw/Dathe_Petzold_Mao.jpg)
-*China-Alligator "Mao" wird nach seiner Ankunft im Mai 1957 durch Tierparkdirektor Heinrich Dathe und den Oberassistenten untersucht. (AZGB)*
-
-Manche Tierarten werden bei zu kaltem Wetter in den Tierhäusern eingesperrt oder aber haben die Möglichkeit sich selbst auszusuchen, wo sie sich aufhalten wollen. In der Regel aber sind die allermeisten Zootiere für die Besucher sichtbar, wenn sie sich nicht entscheiden, sich zu verstecken.
-
 Bei jeder naturkundlichen Sammlung lebender oder präparierter Tiere stellt sich die Frage, mit welchen Mitteln sie gefüllt wird. Wie kommen die Tiere oder Spezimen in Zoos oder Naturkundemuseen? Daran schließen sich zwei wesentliche Fragen an:
 
-* **Und wer sammelt, fängt oder transportiert eigentlich die Spezimen, Felle, Gebeine, Präparate und lebenden Tiere in ein Museum oder einen Zoo?**
+* **Wer sammelt, fängt oder transportiert eigentlich die Spezimen, Felle, Gebeine, Präparate und lebenden Tiere in ein Museum oder einen Zoo?**
 
 und
 
@@ -48,17 +36,16 @@ und
 
 ## Tierquellen
 
-Eine Beantwortung dieser Fragen ist kompliziert. Sie betrifft Forschungszweige wie Wissensgeschichte, Institutionengeschichte der Zoos und Museen, der Wissenschaftsgeschichte der Taxonomie, der Ethologie, der Biologie und Zoologie und der Zoobiologie. Denn Präparate in Museen und Tiere in Zoos kommen aus unterschiedlichsten Quellen und sind mal durch Zufall, mal als Ergebnis langer Vorarbeit in die Institutionen gelangt. **Die Quellen der Tiere oder Tierobjekte unterlagen kontinuierlichen Änderungen und zu mancher Zeit waren die einen wichtiger, zu anderer eben andere.** Es gibt dennoch einige grundsätzliche Beobachtungen, die insbesondere im Abgleich der beiden Institutionen, Zoo und Museum, immer wieder auftauchen.
+Eine Beantwortung dieser Fragen ist kompliziert. Sie betrifft Forschungszweige wie Wissensgeschichte, Institutionengeschichte der Zoos und Museen, die Wissenschaftsgeschichte der Taxonomie, der Ethologie, der Biologie und Zoologie sowie der Zoobiologie. Denn Präparate in Museen und Tiere in Zoos kommen aus unterschiedlichsten Quellen und sind mal durch Zufall, mal als Ergebnis langer Vorarbeit in die Institutionen gelangt. **Die Quellen der Tiere oder Tierobjekte unterlagen kontinuierlichen Änderungen und zu mancher Zeit waren die einen wichtiger, zu anderer eben andere.** Es gibt dennoch einige grundsätzliche Beobachtungen, die insbesondere im Abgleich der beiden Institutionen, Zoo und Museum, immer wieder auftauchen.
 
 Da sind vor allem die beiden wichtigsten Quellen des Sammelns [[story.Collecting Specimen]] und Jagens [[story.Catching Animals]] im Feld, also in den Habitaten der Tiere. Museen und Zoos konnten sich zum Ende des 19. Jahrhunderts eines umfangreichen Netzwerks von professionellen Händlern ihrer Objekte aber auch engagierten Laiensammlern bedienen. Manchmal organisierten oder finanzierten sie sogar eigenen Expeditionen zur Beschaffung von Sammlungsobjekten - lebendig oder tot. [[story.Heck Expeditions]]
 
-Hinzu kommt die über die Jahrhunderte konstant wichtige Quelle der Geschenke. [[story.Gifting Objects]] Insbesondere diese Quelle von Tieren hat in der Mehrheit der Fälle einen politischen Bezug oder ist in der einen oder anderen Form mit einer erwünschten Propagandawirkung verbunden. Auch die politische Geschichte kommt hier also zur Anwendung - genauer die Geschichte der diplomatischen Beziehungen. Denn die meisten Geschenke an Zoos und Naturkundemuseum waren diplomatische Geschenke fremder Herrscher und Regierungen. Hinzu kamen aber durchaus auch Geschenke von Bürgern des eigenen Landes, die selbst gefangene Tiere oder gesammelte Spezimen verschenkten.
-
+Hinzu kommt die über die Jahrhunderte konstant wichtige Quelle der Geschenke. [[story.Gifting Objects]] Insbesondere diese Quelle von Tieren hat in der Mehrheit der Fälle einen politischen Bezug oder ist in der einen oder anderen Form mit einer erwünschten Propagandawirkung verbunden. Auch die politische Geschichte - genauer die Geschichte der diplomatischen Beziehungen - kann daher die Fragen nach dem Ursprung der Tiere in Museen und Zoos beantworten. Denn die meisten Geschenke an Zoos und Naturkundemuseum waren nämlich diplomatische Geschenke fremder Herrscher und Regierungen. Hinzu kamen aber durchaus auch Geschenke von Bürgern des eigenen Landes, die selbst gefangene Tiere oder gesammelte Spezimen verschenkten.
 Im Museum naturgemäß von geringer Bedeutung, im Zoo seit dem Verbot des Handels mit gefährdeten Tier- und Pflanzenarten durch das Washingtoner Artenschutzabkommen aber um so wichtiger: die Zucht [[story.Breeding Animals for the Zoo]] eigener Tiere. Weltweite durch Forschung gewonnene Erkenntnisse um die Bedrohung der irdischen Pflanzen- und Tiervielfalt wurden ergänzt durch immer größeres Wissen um die Fortpflanzungsbiologie und die Voraussetzungen für die Aufzucht von Jungtieren gefangen gehaltener Zootiere.
 
 ## Kosten und Logistik
 
-Mit diesen unterschiedlichen Quellen an Tierobjekten hängen jeweils auch unterschiedliche Akquisestrategien und Handlungsanforderungen für die Institutionen zusammen. Das betrifft die Vorbereitung, die Logistik  rund um den Erwerb und die benötigten Arbeits- und Finanzmittel. Die Ausstattung einer eigenen Sammlungs- oder Fangexpedition benötigt neben den behördlichen Genehmigungen auch eine größere finanzielle Anfangsinvestition. Ein geschenktes Tierobjekt muss untergebracht und unterhalten werden. Für die Zucht in Zoos muss das notwendige biologische und tiermedizinische Wissen vorhanden sein und vor allem ausreichend Platz. Dieser wird nicht nur für die größere Gruppe benötigt, um mehr Tiere unterzubringen, auch vermehren sich Tiere in menschlicher Obhut seltener auf kleinem Raum. Werden Tierobjekte von Museen und lebende Tiere von Zoos gekauft, müssen die Geldmittel zur Verfügung stehen, es muss wiederum Platz vorhanden sein und das Tierobjekt muss in die eigene Ausstellungs- oder Forschungsstrategie passen. So sind die Objekte entweder interessant, weil sie neue Forschungen im Zusammenhang mit den bereits vorhandenen erlauben, einzigartig und neu sind oder aber großes Interesse seitens der Besucher\*innen erwarten lassen. [[Schauwert]] Klassische Beispiele für letzteres sind:
+Mit diesen unterschiedlichen Quellen an Tierobjekten hängen jeweils unterschiedliche Akquisestrategien und Handlungsanforderungen für die Institutionen zusammen. Das betrifft die Vorbereitung, die Logistik  rund um den Erwerb und die benötigten Arbeits- und Finanzmittel. Die Ausstattung einer eigenen Sammlungs- oder Fangexpedition benötigt neben den behördlichen Genehmigungen auch eine größere finanzielle Anfangsinvestition. Ein geschenktes Tierobjekt muss untergebracht und unterhalten werden. Für die Zucht in Zoos muss das notwendige biologische und tiermedizinische Wissen vorhanden sein und vor allem ausreichend Platz. Dieser wird nicht nur für die größere Gruppe benötigt, um mehr Tiere unterzubringen, auch vermehren sich Tiere in menschlicher Obhut seltener auf kleinem Raum. Werden Tierobjekte von Museen und lebende Tiere von Zoos gekauft, müssen die Geldmittel zur Verfügung stehen, es muss wiederum Platz vorhanden sein und das Tierobjekt muss in die eigene Ausstellungs- oder Forschungsstrategie passen. So sind die Objekte entweder interessant, weil sie neue Forschungen im Zusammenhang mit den bereits vorhandenen erlauben, einzigartig und neu sind oder aber großes Interesse seitens der Besucher\*innen erwarten lassen. [[Schauwert]] Klassische Beispiele für letzteres sind:
 
 * große und möglichst vollständige Skelette von **Dinosauriern** oder **Walen** in Naturkundemuseen
 * **Pandas** oder andere sehr **schauwertige Tiere** in Zoos.
@@ -80,6 +67,8 @@ Die Basis für den 1844 gegründeten 'Zoologischen Garten bei Berlin' beruhte au
 
 In beiden Fällen wurden die königlichen Geschenke bald von Privatleuten, Gelehrten und Beamten ergänzt. Im Naturkundemuseum waren unter anderem Sammlungen des Entomologen Johann von Hoffmannsegg und Alexander von Huumboldt, die - möglicherweise auch durch finanzierung des Herrscherhauses - das Museum weiter bereicherten.[^gifts3] Auch der Zoo erhielt fortan Geschenke für seine Sammlung. So bat dessen Leitung Preußische Beamte udn Diplomaten in Übersee um Schenkungen.[^gifts4]
 
+Heute schenken treue Freunde von Zoos aus Gründen des Artenschutzes keine lebenden Tiere mehr, Philanthropie spielt aber nach wie vor eine bedeutende Rolle, kamen doch zum Beispiel im letzten Geschäftsjahr vor der Pandemie 2019 fast 20 Prozent der Einnahmen des Berliner Zoos und etwa 10 Prozent der Einnahmen des Tierparks Berlin aus Spenden und Nachlässen. Zudem steigen die Zahlen an Patenschaften, die Besucher\*innen für Tiere eingehen. Damit unterstützen sie heute zwar nicht mehr den Erwerb, wohl aber den Erhalt der Tiere in den Einrichtungen.[^donations] Das gilt zum Beispiel auch, wenn indirekt durch Patenschaften für Jungtiere die Zucht einer Tierart in einem Zoo unterstützt wird.
+
 ### Koloniale Beute
 
 Von der Expansion des europäischen Kolonialbesitzes profitierten schließlich beide Institutionen. Seit 1891 wurden in den Geschäftsberichten des Zoos regelmäßig Geschenke aus den Kolonialgebieten erwähnt. Mitglieder des kaiserlichen Haushaltes, Gouverneure, Kolonialgesellschaften und Kaufleute sandten dem Zoo seltene Tiere. 1907 hatte der Zoo elf Löwen und nur ein Tier war kein Geschenk aus den Kolonien.[^colonial1]
@@ -89,14 +78,14 @@ Das Naturkundemuseum erhielt in dieser Zeit auch vollständige Sammlungen von pr
 
 Geschenke blieben auch in den nächsten Jahren die wichtigste Quelle für Tiere für den Berliner Zoo. Von den ersten Elefanten des Zoos waren die meisten Geschenke, wie zum Beispiel die indischen Elefantenbullen "Rostom" und "Omar", die der Prinz von Wales seinem Cousin dem Kronprinzen aus dem indischen Kolonialreich vermachte, der sie wiederum an den Zoo gab.
 
-- [ ] Bild von Rostom und Omar
-*Die beiden asiatischen Elefantenbullen "Rostom" und "Omar", XXXX. (AZGB)*
+![Zwei Elefanten und drei Pfleger](images\cmw\Elefant_Omar.jpg)
+*Die beiden asiatischen Elefantenbullen "Rostom" und "Omar", um 1885. "Rostom" hatte untypischerweise keine Stoßzähne. (AZGB)*
 
-Auch später als der internationale Tierhandel [[story.Trading Animals]] bereits einen großen Teil der Tiere für die internationalen Tiergärten beschaffte, blieben Geschenke wertvolle Ergänzungen der Sammlungen. Zu den Geschenken deutscher 'Forschungsreisender' gehörte zum Beispiel das "Deutsch-Ostafrikanisches Nashorn“ von Carl Georg Schillings.
+Auch später als der internationale Tierhandel [[story.Trading Animals]] bereits einen großen Teil der Tiere für die internationalen Tiergärten beschaffte, blieben Geschenke wertvolle Ergänzungen der Sammlungen. Zu den Geschenken deutscher 'Forschungsreisender' gehörte zum Beispiel das "Deutsch-Ostafrikanische Nashorn“ von Carl Georg Schillings, das dieser 1904 dem Zoo gab.
 
-- [ ] Bild des Nashorns
+- [ ] Bild des Nashorns S 7/35
 
-Auch als  Hans Schomburgk das als ausgestorben angesehene Zwergflusspferd wieder entdeckte, landete durch ihn ein Exemplar im Berliner Zoo. Er brachte auch die Schimpansin Susi in den Zoo, die viele Besucherinnen und Besucher anzog.
+Auch als  Hans Schomburgk das als ausgestorben angesehene Zwergflusspferd wieder entdeckte, kam durch ihn ein Exemplar im Berliner Zoo. Er brachte auch die Schimpansin Susi in den Zoo, die viele Besucherinnen und Besucher anzog.
 
 - [ ] Bild Susi?
 
@@ -153,7 +142,7 @@ Eng mit der Zucht verbunden, nicht aber stets und immer der Grund dafür, ist de
 ----
 ## Footnotes
 
-[^gifts1]: Vgl. Giere, Peter, Peter Bartsch, und Christiane Quaisser. 2018. „Berlin: From Humboldt to HVac - The Zoological Collections of the Museum für Naturkunde Leibniz Institute for Evolution and Biodiversity Science in Berlin“. In Zoological Collections of Germany, herausgegeben von Lothar A. Beck, 89–122. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-44321-8_11 und Damaschun, Ferdinand, und Hannelore Landsberg. 2010. „‚...so bleiben dem materiell Gesammelten und geographisch Geordnetem fast allein ein langdauernder Werth‘ - 200 Jahre Museum für Naturkunde“. In Art, Ordnung, Klasse: 200 Jahre Museum für Naturkunde, herausgegeben von Ferdinand Damaschun, Sabine Hackethal, Hannelore Landsberg, und Reinhold Leinfelder, 13–23. Rangsdorf: Basilisken-Presse.
+[^gifts1]: Vgl. Giere, Peter, Peter Bartsch, und Christiane Quaisser. 2018. „Berlin: From Humboldt to HVac - The Zoological Collections of the Museum für Naturkunde Leibniz Institute for Evolution and Biodiversity Science in Berlin“. In Zoological Collections of Germany, herausgegeben von Lothar A. Beck, 89–122. Cham: Springer International Publishing und Damaschun, Ferdinand, und Hannelore Landsberg. 2010. „‚...so bleiben dem materiell Gesammelten und geographisch Geordnetem fast allein ein langdauernder Werth‘ - 200 Jahre Museum für Naturkunde“. In Art, Ordnung, Klasse: 200 Jahre Museum für Naturkunde, herausgegeben von Ferdinand Damaschun, Sabine Hackethal, Hannelore Landsberg, und Reinhold Leinfelder, 13–23. Rangsdorf: Basilisken-Presse.
 
 [^gifts2]: Zur Gründungsgeschichte des Berliner Zoos vgl. Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Berlin: Ch. Links Verlag.
 
@@ -169,3 +158,4 @@ Eng mit der Zucht verbunden, nicht aber stets und immer der Grund dafür, ist de
 
 [^culturald1]: Hier Dittrich oder Maier-Wolthausen
 
+[^donations]: Zoologische Gärten Berlin: Geschäftsbericht 2019 (https://www.zoo-berlin.de/fileadmin/zoo-berlin/downloads/Investor_Relations/Geschaeftsberichte/Geschaeftsbericht_AG_2019.pdf)
