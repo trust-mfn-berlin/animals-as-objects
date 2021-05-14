@@ -37,8 +37,8 @@ collections:
         name: "tao_type"
         widget: "select"
         options: ["theme", "material", "story"]
-      - { label: "Date start", name: "date_start", widget: "datetime", required: false }
-      - { label: "Date end (if applicable)", name: "date_end", widget: "datetime", required: false }
+      - { label: "Date start", name: "date_start", widget: "datetime", default: "", required: false }
+      - { label: "Date end (if applicable)", name: "date_end", widget: "datetime", default: "", required: false }
       - { label: "Published", name: "published", widget: "boolean", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
