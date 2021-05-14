@@ -2,7 +2,7 @@
 id: 5277f2fa-42b1-4bfa-8a6c-8f8c2117784e
 title: Domestic and Exotic
 desc: Put a description of this note here...
-updated: 1621016799911
+updated: 1621025579778
 created: 1620997389421
 title_de: Heimisch und Exotisch
 desc_de: Put a DE description of this note here...
@@ -20,6 +20,7 @@ published: false
 :::DE:::
 
 # Heimisch oder exotisch?
+[[material.Landwirtschaftlicher Tierpark]] 
 
 In der Denkschrift über einen in Berlin zu gründenden Zoologische Garten legte Martin Hinrich Lichtenstein, Zoologieprofessor der Berliner Universität, seine Ziele für einen zukünftigen Zoo fest. Neben der Bildung breiter Bevölkerungsschichten lag für ihn ein wichtiger Zweck eines Zoos auch in der "Vermehrung und Verbreitung schöner und nützlicher Tiere, die Veredlung unserer haustiere, Rassen durch kreuzung mit reinen ursprünglichen Arten".[^lichten]
 
