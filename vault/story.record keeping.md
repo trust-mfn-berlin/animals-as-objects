@@ -2,7 +2,7 @@
 id: c8af1959-fa09-44e7-9bff-b21971c68205
 title: Record Keeping
 desc: Put a description of this note here...
-updated: 1620899695286
+updated: 1621001343225
 created: 1620395501349
 title_de: Record Keeping MfN
 desc_de: Put a DE description of this note here...
@@ -77,7 +77,9 @@ Was das Zoologische Museum betraf, so wurde die unvollständige Datenlage von Ti
 
 WEITER...
 
-
+[[material.species360]]
+[[material.Journale Zoo]]
+[[material.Steinmetzkartei]]
 
 
 ## Fußnoten
