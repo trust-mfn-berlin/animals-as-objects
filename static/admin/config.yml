@@ -100,15 +100,15 @@ collections:
         widget: "object"
         collapsed: true
         fields: 
-          - {label: "Author Bio EN", name: author_bio_en, widget: markdown}
-          - {label: "Author Bio DE", name: author_bio_de, widget: markdown}
+          - {label: "Author Bio EN", name: author_bio_en, widget: string}
+          - {label: "Author Bio DE", name: author_bio_de, widget: string}
       - label: "Introduction"
         name: "into_text"
         widget: "object"
         collapsed: true
         fields: 
-          - {label: "Intro Text EN", name: text_en, widget: markdown}
-          - {label: "Intro Text DE", name: text_de, widget: markdown}
+          - {label: "Intro Text EN", name: text_en, widget: string}
+          - {label: "Intro Text DE", name: text_de, widget: string}
       - label: 'Connected notes'
         name: 'notes'
         widget: 'list'
