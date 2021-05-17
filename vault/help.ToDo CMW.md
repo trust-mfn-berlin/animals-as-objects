@@ -2,7 +2,7 @@
 id: 21ac115b-15e0-4af9-a4ed-fdd3d29c313d
 title: ToDo CMW
 desc: ''
-updated: 1620747812547
+updated: 1621265449117
 created: 1618495172862
 ---
 ## Empty Backlinks
@@ -72,7 +72,20 @@ created: 1618495172862
 
 ## "Fertig"
 
+### theme
+
+- [[theme.Acquisition]]
+### story
+
+- [[story.Nazi Zoo]]
+- [[story.Heck Expeditions]]
+
+### material
+
 - [[material.Hermann Wissmann]]
 - [[material.Wissmann-Lion]]
-- [[story.Nazi Zoo]]
 - [[material.Oskar Heinroth]]
+- [[material.Lutz Heck]]
+- [[material.Magdalena Heinroth]]
+- [[material.Katharina Heinroth]]
+

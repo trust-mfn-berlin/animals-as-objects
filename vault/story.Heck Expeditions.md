@@ -2,7 +2,7 @@
 id: 6526be8c-01f6-4c05-a41d-fae91b634ced
 title: Heck Expeditions
 desc: Put a description of this note here...
-updated: 1621241733745
+updated: 1621265381036
 created: 1619426293502
 title_de: Tierfangexpeditionen von Lutz Heck
 desc_de: Put a DE description of this note here...
@@ -80,10 +80,10 @@ _Gehege im Fanglager, 1927 (Lutz Heck: Auf Tiersuche in weiter Welt)_
 Anschließend begab sich Heck in die Massai Steppe um dort die großen Herdentiere zu fangen. Als geländekundigen Helfer und Reiter heuerte Heck den südafrikanischen Buren Pitt Jones an. Er ritt mit Schlinge und Fangstock hinter Zebras oder Giraffen her und fing die jüngeren Tiere.
 
 ![Mann fängt Giraffe mit einem Lasso](images/cmw/Ostafrika_1927_Giraffe.jpg)
-_Der Fänger Pitt Jones beim Fang einer der fünf Giraffen der Expedition, 1928. (AZGB)_
+_Der Fänger Pitt Jones beim Fang einer der fünf Giraffen der Expedition, 1928. (AZGB, Foto Lutz Heck)_
 
-![desc](images/cmw/Heck_Giraffenfang_Auto_Kral.jpg)
-_Die gefangenen Tiere wurden mit einem Lastwagen zu einem Lager gefahren, wo sie gesammelt und an Menschen gewöhnt wurden. (Lutz Heck: Auf Tiersuche in weiter Welt)_
+![desc](images\cmw\S_3_82_Giraffentransport.jpg)
+_Die gefangenen Tiere wurden mit einem Lastwagen zu einem Lager gefahren, wo sie gesammelt und an Menschen gewöhnt wurden. (AZGB, Foto Lutz Heck)_
 
 Fünf Giraffen, 19 Zebras, vier Straußenvögel und verschiedene Antilopen waren die Ausbeute die Berlin gesund erreichte. In der Gegend von Kilwa wurden drei Nilpferde von Einheimischen in Fallgruben gefangen. Der oberste britische Wildschutzbeamte überließ sie dann dem Zoologischen Garten. Es wurde ein besonderes Gehege für diese eingerichtet. Diese Information gab Lutz Heck in seinen Veröffentlichungen an.[^exp4] Ob die Einheimischen von den britischen Behörden für 'Wilderei' [[material.poaching]] bestraft wurden, ist nicht bekannt - interessierte Lutz heck auch nicht.
 
