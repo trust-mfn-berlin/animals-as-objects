@@ -2,7 +2,7 @@
 id: 6526be8c-01f6-4c05-a41d-fae91b634ced
 title: Heck Expeditions
 desc: Put a description of this note here...
-updated: 1620832966587
+updated: 1621241733745
 created: 1619426293502
 title_de: Tierfangexpeditionen von Lutz Heck
 desc_de: Put a DE description of this note here...
@@ -119,9 +119,6 @@ Hinzu kam, dass die Tiere selbst im Zoo natürlich zu begehrten Schauobjekten wu
 _Auf der Postkarte des Zoo mit dem in Ostafrika gefangenen Nashorn wurde auf die Expedition hingewiesen, um 1928. (AZGB)_
 
 Sowohl das von den professionellen Filmemacher auf der ersten Reise gewonnene Bildmaterial als auch Lutz Hecks eigene Bilder der zweiten Reise wurden in Filmen verarbeitet. Diese trugen weiter zum Bekanntheitsgrad des Zoos, vor allem wohl aber Lutz Hecks selbst, bei. Ihre mit rassistischen Klischees gefüllten Darstellungen afrikanischer Menschen trafen den Zeitgeist.
-
-![desc](images/cmw/Buchse_Lasso_Afrika.PNG)
-_Titel der Zeitschrift Film-Kurier mit Ankündigung des Films'Mit Büchse und Lasso durch Afrika, XXXX._
 
 Die Hauptpersonen in diesen Lutz Hecks Büchern und auch in den Filmen sind immer die weißen Expeditionsleiter. Das Thema ist die Gefahr, der sie sich aussetzen um uns, dem weißen Publikum ansprechende Tiere aus dem Innersten geheimnisvoller Kontinente, dem tiefen Dschungel oder der heißen Wüste zu bringen. Und doch konnten diese Bücher den Widerspruch  nicht  auflösen, dass die Arbeit praktisch immer und ausschließlich von Einheimischen Fängern geleistet wurde. Diese werden praktisch niemals mit Namen identifiziert. Lutz Heck benennt die beiden südafrikanischen Buren, die mit den Lassos die Giraffen fangen, die Mehrheit seiner Helfer aber bleibt unerwähnt. Gelegentlich gibt es abwertende Bemerkungen über ihren Alkoholkonsum oder ihre Spielsucht oder die schlechten Tischmanieren. Auch werden sie als "verschlagen" bezeichnet. Ausnahmen gelten nur für die christlichen Abessinier, die als "edle Wilde" durchgehen.
 
