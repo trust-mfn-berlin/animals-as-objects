@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching Animals
 desc: Put a description of this note here...
-updated: 1619705017573
+updated: 1621257130512
 created: 1618492547915
 title_de: Tierfang
 desc_de: Dieser Text bespricht Fangexpeditionen für Zoos
@@ -19,12 +19,24 @@ English content goes here.
 
 :::DE:::
 
-todomar
-# Tiere fangen für den ZooFangexpeditionen im Zeitalter des Imperialismus
+# Tiere fangen für den Zoo - Handel mit wilden Tieren
 
 Für die meiste Zeit in den vergangenen etwa 250 Jahren, in denen moderne Zoos existieren, wurden Tiere in allen Zoos weltweit ausschließlich aus der Wildbahn entnommen. Das bedeutete, sie wurden in den Habitaten Habitat in denen sie geboren, oder in die sie migriert sind durch Jäger gefangen, um dann ausgestellt zu werden. Das konnten lokale Amateure oder Profis sein oder aber auch speziell ausgesandte, erfahrene oder trainierte Jäger, die entweder von einer Firma bezahlt wurden oder auf eigene Rechnung die Tiere fingen und sie dann anboten. Auch die Präparate, die wir in Museen sehen wurden entweder zunächst gefangen oder getötet. Wenn sie nicht mit Büchse oder Bogen aus der Entfernung geschossen wurden, wurden diese Tiere in Fallen gefangen und dann je nach Transportart zunächst noch lebend transportiert, damit sie nicht verdarben, oder vor Ort so getötet, dass die Tötung möglichst wenige Spuren an dem Fell, Gefieder, der Haut oder dem Skelet hinterließ. Hier soll aber vor allem der Fang lebender Tiere zur Lebendausstellung in Zoos behandelt werden. Auf die Akquise von Museumspräparaten wird im Abschnitt "Sammeln" [[story.Collecting Specimen]] noch stärker eingegangen werden.
 
 Viele der ersten in Europa in den sogenannten Wandermenagerien oder den fürstlichen Menagerien ausgestellten Tiere waren einzelne Fänge. Exotische Tiere wurden in den Herkunftsregionen von lokalen Herrschern als Statussymbole geschätzt und mit der Ankunft der Europäer auch diesen verkauft oder geschenkt. Matrosen, Kapitäne und reisende Händler brachten Gelegenheitskäufe aus außereuropäischen Gebieten auf der Rückfahrt in die Häfen West- und Südeuropas mit und verkauften sie dort. Das wachsende Interesse führte dann auch zur organisiertem Fang aber oft waren die exotischsten Tiere noch "Beifang" geografischer oder naturkundlicher Expeditionen. Nach und nach entwickelten sich Handelsagenturen, die mit Hilfe lokaler Agenten und Akteure Tiere auf Bestellung fingen oder Transporte begehrter Tiere zusammenstellten.
+
+Die Wurzeln des Tierhandels und des Handels mit naturkundlichen Objekten für Museen liegen in den "Mitbringseln" der Seeleute. Einheimische Tiere konnten von Jägern oder Hobbysammlern stets selbst gefangen oder aber über kürzere Distanzen von anderen gekauft und transportiert werden. Anders war das mit den Tieren, die in Europa als Exoten galten, also Tieren aus anderen Kontinenten und Klimazonen. Ihre Ausstellung in Europa ist eng mit der Entwicklung eines Welthandels verknüpft, dessen Entwicklung eben auch zumeist unter den Bedingungen europäischer Hegemonie und europäischen Imperialismus verlief. Seine Wurzeln gehen einige Jahrzehnte oder gar Jahrhunderte zurück. Kapitäne, Matrosen der Handelsschifffahrt oder auch Handelsreisende brachten von ihren Reisen in fremde Länder dort erworbene oder selbst gefangene Tiere mit und verkauften sie in den europäischen Häfen. Naturgemäß waren es eher kleine "transportfähige" Tiere, die auf diese Weise ihren Weg nach Europa fanden. Große Säugetiere blieben nach wie vor die Domäne der Staatsgeschenke.
+
+## Matrosen und Häfen als erste Zwischenhändler
+
+* kleiner Raubtiere und kleinere Säugetiere
+* Jungtiere an Menschen gewöhnt und von Lokalgemeinschaften gefangen
+* papageien und Körnerfresser
+* verschiedene Affenarten
+* alle mussten wenig anspruchsfoll sein
+* Spektrum der Arten eingeschränkt und zumeist Einzeltiere (Dittrich: Vom Souvenir zum Handelsobjekt, S. 332)
+
+Mit einer wachsenden Zahl in gewisser Regelmäßigkeit in den großen Häfen Europas ankommender Tiere entwickelten sich in einigen Hafenstädten kleiner und von Kaufleuten eingerichtete Menagerien, die sich die ankommenden Tiere sicherten und sie bis zu einem möglichen Verkauf auch ausstellten. Das war insbesondere in Amsterdam und London der Fall. Zum Ende des 19. Jahrhunderts entwickelte sich mit der steigenden Zahl von Zoos ein neues Geschäftsfeld - der professionelle Handel mit exotischen Tieren. Wieviele Tiere auf dem langen Seeweg starben, geschlachtet wurden oder als das Futter ausging über Bord geworfen wurden, bleibt unbekannt. Es ist aber anzunehmen, dass der mögliche Verdienst im Heimathafen bei steigender Nachfrage das Interesse an der Erhaltung und Pflege der Ware Tier erhöhte. Vente publique der Societe Royale d'Anvers in Antwerpen jährlich für zwei Tage (123) Auktion.- (Heck, Ludwig: Heiter-ernste Lebensbeichte. Erinnerungen eines alten Tiergärtners; Berlin 1938, 125f)
 
 ## Kolonialismus als Voraussetzung
 
@@ -53,7 +65,7 @@ Der Assistent am Zoo Berlin und Direktor des Aquariums,  Oskar Heinroth, fuhr re
 Ruhe bei Dire Daua und bei Nizza zusammen mit Basilewsky in Cros de Gagnes
 Bobby - aber auch vor Ort musste das geschehen. Eingewöhnung, Ernährungsumstellungen
 
-## Eigene Expeditionen des Berliner Zoos
+### Eigene Expeditionen des Berliner Zoos
 
 Der spätere Direktor des Zoologischen Gartens Berlin [[material.Lutz Heck]] (1892-1983) war seit 1924 bei seinem Vater, dem Berliner Zoodirektor [[material.Ludwig Heck]] als Assistent angestellt. Auf seine Initiative sind die größeren Freigehege zurückzuführen. 
 
@@ -98,7 +110,13 @@ Was für lange Zeit noch möglich war, waren was ich Gelegenheitskäufe nennen w
 
 Mit dem enormen Aufschwung, den der Tierhandel in den 1950er Jahren durch den Wiederaufbau auch der kriegszerstörten deutschen Zoos nahm, ergaben sich nach Ansicht der Behörden allerdings auch neue Probleme. Viele der nun nach Europa und Deutschland importierten Tiere kamen nun nicht mehr nach langem Transit auf Schiffen an, sondern wurden, was für die Tiere sicher besser war, mit dem Flugzeug verschickt. So wurde die Zeit in beengten Transportkisten minimiert, allerdings wurde die Gefahr des Einschleppens von Tierseuchen aus den Ursprungsgebieten möglicherweise erhöht. Eine Lösungsmöglichkeit in der Diskussion zwischen bundesdeutschen Behörden und den Zoos war die Einrichtung von Quarantäneställen in den Zoos selbst oder in bei den Händlern. Bernhard Grzimek lehnte letzteres rundheraus für die deutschen Zoos ab, da er die Gefahr sah, dass so die Händler ein absolutes Monopol auf den Import von Widltieren habbekämen en und die Zoos keine Möglichkeit mehr hätten, selbst Tiere zu fangen oder fangen zu lassen. Die Zoodirektoren schlossen sich dem bei ihrer Verbandssitzung an und vertraten die Ansicht, dass es keinen Regelelungsbedarf gab und die vorhandenen Vorschriften ausreichen würden. Es wäre in den vergangenen Jahren zu keinem Seuchenausbruch durch Zootiere gekommen.[^import]
 
+____
+## Footnotes
+
 [^africanrhino]: Schillings, Carl Georg: Mit Blitzlicht und Büchse; Leipzig 1905, S. 186ff.
+
 [^1950s1]: Dittrich, Lothar. 2007. „Der Import von Wildtieren nach Europa - Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts“. In Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte, herausgegeben von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl, 3:1–64. Tiergarten Schönbrunn - Geschichte. Wien: Braumüller.
+
 [^lateexp1]: Vgl. Grzimek, Bernhard: Flug ins Schimpansenland. Reise durch ein Stück Afrika von heute; Stuttgart 1955.
+
 [^import]: Korrespondenz B. Grzimek und Bundesministerium für Ernährung und Landwirtschaft u. a., Protokoll der VDZ-Tagung 1962 in: ATGS, Nachlass W. Fiedler, Ordner VDZ + WAZA, Nr.1.
