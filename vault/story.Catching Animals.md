@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching Animals
 desc: Put a description of this note here...
-updated: 1621267617592
+updated: 1621268146598
 created: 1618492547915
 title_de: Tierfang
 desc_de: Dieser Text bespricht Fangexpeditionen für Zoos
@@ -38,7 +38,7 @@ Mit einer wachsenden Zahl in gewisser Regelmäßigkeit in den großen Häfen Eur
 
 ## Kolonialismus als Voraussetzung
 
-Dass diese Verkaufsstellen in den Häfen und die Auktionen immer gut "gefüllt" waren hing eng mit der europäischen, kolonialen Expansion zusammen. Denn auch bei der Jagd nach Tieren, ihrem Transport nach Europa und der anschließenden Ausstellung wirkten die hierarchische Strukturen  des Kolonialismus. Oft genug entnahmen die kolonialen Herrscher und Beamten direkt ein Tier, um es zu verschenkten. Das wird beim Wissmann-Löwen für den Berliner Zoo der Fall gewesen sein. Dieser wurde ihm durch den Gouverneur von Deutsch-Ost-Afrika Hermann Wissmann geschenkt. Wissmann hatte zunächst Expeditionen auf dem afrikanischen Kontinent vorgenommen und dann die Ausbeutung des Kongo durch den belgischen König mit vorbereitet.
+Dass diese Verkaufsstellen in den Häfen und die Auktionen immer gut "gefüllt" waren hing eng mit der europäischen, kolonialen Expansion zusammen. Denn auch bei der Jagd nach Tieren, ihrem Transport nach Europa und der anschließenden Ausstellung wirkten die hierarchische Strukturen  des Kolonialismus. Oft genug entnahmen die kolonialen Herrscher und Beamten direkt ein Tier, um es zu verschenkten. Das wird beim [[material.Wissmann-Lion]] Wissmann-Löwen für den Berliner Zoo der Fall gewesen sein. Dieser wurde ihm durch den Gouverneur von Deutsch-Ost-Afrika [[material.Hermann Wissmann]] Hermann Wissmann geschenkt. Wissmann hatte zunächst Expeditionen auf dem afrikanischen Kontinent vorgenommen und dann die Ausbeutung des Kongo durch den belgischen König mit vorbereitet.
 Zwischen etwa 1890 und 1914 kamen jedes Jahr regelmäßig Geschenke aus den deutschen Kolonien in den Berliner Zoo und andere deutsche Zoos.
 Natürlich profitierten alle Zoos der Kolonialstaaten von der leichten Ausbeutbarkeit der jeweiligen Kolonien. Hinzu kommt aber, dass durch die koloniale Besatzung insgesamt eine Situation geschaffen worden war, die es auch beispielsweise deutschen Tierhandelshäusern leicht möglich machte die Fauna in Afrika, Asien und Ozeanien für europäische Zoos auszubeuten. Die besetzten und durch Kolonialbeamte verwalteten Landstriche und ihre Bevölkerung besaßen keinerlei Autonomie über die Entscheidungen oder die Nutzung der eigenen Ressourcen. Oft wurden lokale Bevölkerungen durch Jagdbestimmungen der Kolonialverwaltungen unter dem Vorzeichen des Naturschutzes der Nutzung der Ressourcen beraubt. Der Aufbau einer kolonialen Infrastruktur erleichterte den Handelshäusern zudem den Transport von erjagten Tieren und die Kommunkiation mit Auftraggebern. Wirtschaftliche Hierarchien und Machtverhältnisse vor Ort sorgten zudem dafür, dass Tierhändlern und Tierfängern vor Ort ein Reservoir von Arbeitskräften für die schweren Aufgaben und die eigentlichen Jagdexpeditionen zur Verfügung stand. 
 
@@ -46,10 +46,6 @@ Es ist wichtig, sich in Erinnerung zu rufen, dass die Fänger bei einigen in Her
 
 Eine wesentliches Hindernis der Tierhändler aber auch aller Akteure, die Tiere aus den Ursprungsgebieten nach Europa brachten war die Gefahr, dass diese auf dem Transport sterben könnten. Wir haben keine akkuraten Zahlen über die Verluste, können aber davon ausgehen, dass diese insbesondere zu beginn noch groß waren. Die gefangenen Tiere mussten an Ort und Stelle mittels Käfigen, Gehegen, Grupen oder Schlingen und Ketten zunächst fixiert und gefangen gehalten werden, bis die Expedition beendet oder die gewünschte Anzahl Tiere gesammelt wurde.
  
-* Umschlagplätze
-* Eingewöhnung an andere Diäten und Klimazonen
-* Akklimatisationszentrum von Bobby
-
 ### Deutsch-Ostafrikanisches Nashorn
 
 Es ist bis dato noch nicht gelungen Fauna Afrikas nach Europa zu transportieren - nur aus dem Somaliland hat Menges regelmäßige Transporte; auch neue Infrastrukturen und Eisenbahnen nicht geholfen; alleine die Kuhherden für die Milch am Leben zu halten ist fast unmögliches Unterfangen; er schießt dann das Muttertier; er lässt das Jungtier nachts marschienen der Hitze wegen; in Neapel nimmt es Ludwig Heck entgegen.[^africanrhino]
@@ -98,15 +94,21 @@ ungeahnte Ausmaße; kriegszerstörte Gärten füllen wieder auf.[^1950s1]
 Die Zoodirektorin Katharina Heinroth fuhr XXXX nach Borneo und Sumatra. Es handelte sich dabei nicht um eine klassische Fangfahrt, Heinroth hatte zuvor Angebote bekommen und bei lokalen Behörden und Fängern um Fangerlaubnisse angesucht. Sie kam vor allem, um die Tiere in der Wildbahn zu sehen und dann Exemplare auszusuchen und auf dem Transport in den Berliner Zoo zu begleiten.
 Sogar noch XXXX fuhr der Berliner Zoodirektor Heinz-Georg Klös in den Hluhluwe-Umfolozi-Park in Südafrika, um ein XXXX zu fangen und in den Zoologischer Garten Berlin zu bringen. Die Fangerlaubnis hatte er zuvor durch die südafrikanischen Behörden erhalten. 
 
-Wolfgang Gewalt fuhr auf Walfang Dittrich, Lothar. 2007. „Der Import von Wildtieren nach Europa - Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts“. In Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte, herausgegeben von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl, 3:1–64. Tiergarten Schönbrunn - Geschichte. Wien: Braumüller.
-Tierhandel im Zeichen internationaler Zuchtprogramme
 Seit den 1960er Jahren sind zunehmend Züchtungen [[story.Breeding Animals for the Zoo]], also in Zoos gezeugte Nachkommen, an die Stelle der Wildfänge [Wildfang) getreten. Im Rahmen des Artenschutzes werden von Zoos in der Regel keine Individuen gefährdeter Arten mehr aus der Natur entnommen. 
 
 Was für lange Zeit noch möglich war, waren was ich Gelegenheitskäufe nennen würde. Der Frankfurter Zoodirektor und spätere Fernsehpersönlichkeit berichtete, dass er mit seinem Sohn am Ende einer Reise durch  Guinea, Sierra Leone, Elfenbeinküste und Liberia zwei Schimpansen angeboten bekam. Obwohl er nicht auf einer Tierhandels- Tierfangreise befand, kaufte er die beiden Tiere und liess sie durch seinen Sohn nach Frankfurt begleiten.[^lateexp1]
 
+@mareike <!--deine Schildkröten aus den 1950ern?-->
+
 ## Importe und Seuchenkontrolle
 
 Mit dem enormen Aufschwung, den der Tierhandel in den 1950er Jahren durch den Wiederaufbau auch der kriegszerstörten deutschen Zoos nahm, ergaben sich nach Ansicht der Behörden allerdings auch neue Probleme. Viele der nun nach Europa und Deutschland importierten Tiere kamen nun nicht mehr nach langem Transit auf Schiffen an, sondern wurden, was für die Tiere sicher besser war, mit dem Flugzeug verschickt. So wurde die Zeit in beengten Transportkisten minimiert, allerdings wurde die Gefahr des Einschleppens von Tierseuchen aus den Ursprungsgebieten möglicherweise erhöht. Eine Lösungsmöglichkeit in der Diskussion zwischen bundesdeutschen Behörden und den Zoos war die Einrichtung von Quarantäneställen in den Zoos selbst oder in bei den Händlern. Bernhard Grzimek lehnte letzteres rundheraus für die deutschen Zoos ab, da er die Gefahr sah, dass so die Händler ein absolutes Monopol auf den Import von Widltieren habbekämen en und die Zoos keine Möglichkeit mehr hätten, selbst Tiere zu fangen oder fangen zu lassen. Die Zoodirektoren schlossen sich dem bei ihrer Verbandssitzung an und vertraten die Ansicht, dass es keinen Regelelungsbedarf gab und die vorhandenen Vorschriften ausreichen würden. Es wäre in den vergangenen Jahren zu keinem Seuchenausbruch durch Zootiere gekommen.[^import]
+
+## Das Washingtoner Abkommen
+
+Ende Gelände
+
+
 
 ____
 ## Footnotes

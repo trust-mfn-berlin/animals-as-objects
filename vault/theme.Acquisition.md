@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: Acquisition
 desc: The various sources of animal objects for museums and zoos.
-updated: 1621005850377
+updated: 1621268293726
 created: 1618498026144
 title_de: Tiere sammeln
 desc_de: Tiere und Tierobjekte kommen aus vielen unterschiedlichen Quellen.
@@ -137,7 +137,7 @@ in den Sitzungen des VDZ der 1960er ist der Schutz der Orangs immer wieder Thema
 ## Dublettenhandel und Tiertausch zwischen Zoos
 
 Insbesondere das Naturkundemuseum
-Eng mit der Zucht verbunden, nicht aber stets und immer der Grund dafür, ist der Tiertausch zwischen den Zoos. 
+Eng mit der Zucht verbunden, nicht aber stets und immer der Grund dafür, ist der Tiertausch zwischen den Zoos. Spätestens seit der Gründung des Verbandes Deutscher Zoodirektoren haben Zoos im deutschen Sprachraum regelmäßig individuelle Tiere oder auch Tiergruppen getauscht. Der Hintergrund wird stets eine 
 
 ----
 ## Footnotes
