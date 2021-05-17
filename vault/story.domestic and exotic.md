@@ -2,7 +2,7 @@
 id: 5277f2fa-42b1-4bfa-8a6c-8f8c2117784e
 title: Domestic and Exotic
 desc: Put a description of this note here...
-updated: 1621064196287
+updated: 1621263574431
 created: 1620997389421
 title_de: Heimisch und Exotisch
 desc_de: Put a DE description of this note here...
@@ -29,6 +29,9 @@ In der Denkschrift über einen in Berlin zu gründenden Zoologischen Garten legt
 
 * entweder hier noch der "Landwirtschaftliche Tierpark" oder den als eigenes Material...
 * irgendwie ist es dann schräg, von 1900 nach 1945 zu springen, oder? 
+
+
+## Der Deutsche Zoo
 
 ## Katharina Heinroth und die Tiere des Spandauer Forstes
 
@@ -80,6 +83,9 @@ Daß man im Bezirk Neubrandenburg keine Raubtiere fangen wird, ist bekannt. Daf�
 Soweit bekannt ist, musste Dathe die Tiere aber nicht annehmen.
 
 WEITER??
+
+## Aufteilung TP : Zoo
+
 
 ---
 ## Footnotes
