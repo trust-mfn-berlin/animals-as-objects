@@ -2,7 +2,7 @@
 id: 6ec66c87-7008-405c-b223-7c14558b78d7
 title: Landwirtschaftliche Tiere
 desc: Put a description of this note here...
-updated: 1621277157678
+updated: 1621278017913
 created: 1621274646014
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -40,8 +40,10 @@ Bereits 18xxx, in der Denkschrift über einen in Berlin zu gründenden Zoologisc
 Nachdem zunächst xxxx angeschafft wurden, verhandelte im Jahr 1900 der nachfolgende Zoodirektor Ludwig Heck mit dem Landwirtschaftsministerium über einen landwirtschaftlichen genutzten Zweig des Zoos. Es ging um die Bewilligung eines Staatsbeitrages zu den Futterkosten für die Haltung und Anschaffung landwirtschaftlich wichtiger Nutztiere im Zoo zu Unterrichts- und Studienzwecken der Landwirtschaftlichen Hochschule und der Tierärztlichen Hochschule. Geplant war „eine Collection moderner Hausthierrassen, speziell Rindvieh und Schafe sowie vereinzelte Schweine und Pferde und Geflügel“[^LandwirtschTierpark1], die die beiden Hochschulen mit auswählten und die der Zoo gewissermaßen als Pensions-Tiere halten und verpflegen sollte. Die Tiere sollten den Hochschullehrer*innen und ihren Studierenden als Anschauungsmaterial für die Demonstrationskurse des zoologischen und tierzüchterischen Unterrichts und als Material für Züchtungs-, Kreuzungs- und Fütterungsversuche dienen. Die Umsetzung zog sich durch verschiedene Komplikationen hin, doch konnte der Zoo 1904 tatsächlich einen staatlichen Futterzuschuss von 6.000 Mark verbuchen, der bis 1912 gewährt wurde.[^LandwirtschTierpark2] Zwischenzeitlich waren aber im Zoo immerhin 45 Rinder, 24 Pferde, 18 Schweine sowie 52 Hausziegen- und Schafe zu sehen. Obwohl sogenannte exotische Tiere schon damals die Attraktionen der Zoos ausmachten, konnte der Berliner Garten durch das Abkommen mit dem königlichen Ministerium seinen Bestand steigern. Zugleich konnte er sich als wissenschaftliche Einrichtung profilieren - Ludwig Heck vergaß nicht die „wissenschaftlichen Leistungen unseres Instituts“ hervorzuheben.[^LandwirtschTierpark3]
 
 
+* Verbindung zur Landwirtschaftlichen Hochschule:
 
-
+Renate Angermann: Die Säugetierkollektion des Museums für Naturkunde der Humboldt-Universität zu Berlin, in: Säugetierkundliche Informationen 3, 13 (1989), S. 47-68, hier S. 56:
+>Ein  beträchtlicher  Zuwachs  an  osteologischem  Material  ergab  sich  aus  der  Aufnahme  derSammlung   des   ehemaligen   Institutes   für   Zoologie   der   Landwirtschaftlich-GärtnerischenFakultät  (vormals  Landwirtschaftliche  Hochschule),  die  nach  der  3.  Hochschulreform  „her­renlos“  geworden  war;  leider  erfolgte  keine  planmäßige  Übergabe.   Beim  Tode  von  NEH-RING  (1904),  dem  der  Aufbau  dieser  bedeutenden  Sammlung  im  wesentlichen  zu  danken  ist,umfaßte  diese  nach  HERBST  (1985)   ca.   11  000  Nummern.   Schon  ab  1909  hatte  ein  Material­tausch  zwischen  dieser  Sammlung  (durch  HESSE)  und  der  Säugetier-Abteilung  des  Zoolo­gischen  Museums  begonnen,  dergestalt,  daß  seitens  des  Museums  Haustiermaterial  abgege­ben  und  dafür  Wildsäugermaterial  eingetauscht  wurde.  Man  hat  diesen  Tausch  offenbar  niezuende  geführt,  denn  bei  Übernahme  des  Gesamtbestandes  waren  darin  immer  noch  sehrviele   Wildsäuger   enthalten.   Diese  wurden   nunmehr   von  uns   separiert,   in   die   Säugetier-Kollektion  des  Museums  für  Naturkunde  eingegliedert  und  hier  auch  inventarisiert.  Fossil­material   (einschließlich   des   Auerochsen-Skelettes)   ging   an   den   Bereich  PaläontologischesMuseum  des  MfN.  Das  Haustiermaterial  (einschließlich  aufgestellter  Bälge  von  Hausgeflügelund  Haussäugetieren)  bildet  den  Grundstock  der  separat  bestehenden  Haustiersammlung  imBereich  Zoologisches  Museum
 
 
 
