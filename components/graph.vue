@@ -30,7 +30,8 @@ export default {
           right: 0,
           left: 0,
           bottom: 0,
-        }
+        },
+        nodeSize: 75
       },
       nodes : [
         { slug: 'Lorem', frontmatter:{ tao_type: 'material', title: 'Lorem' }, radius: 'big' },
@@ -158,15 +159,21 @@ export default {
           //     return 37.5
           //   }
           // })
-          .attr('x', -37.5)
-          .attr('y', -37.5)
+          .attr('x', function(d , i){
+            if(d.letter && d.width){
+              return that.attr.nodeSize*d.width/2 * -1
+            } else {
+              return that.attr.nodeSize/2 * -1
+            }
+          })
+          .attr('y', that.attr.nodeSize/2 * -1)
           .attr('width', function (d, i) {
             if(d.letter && d.width){
               return 80 * d.width
             } else if(d.radius == 'big') {
               return 120
             } else {
-              return 75
+              return that.attr.nodeSize
             }
           })
           .attr('height', function (d, i) {
@@ -175,7 +182,7 @@ export default {
             } else if(d.radius == 'big') {
               return 120
             } else {
-              return 75
+              return that.attr.nodeSize
             }
           })
           .attr('fill', function (d, i) {
