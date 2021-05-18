@@ -23,8 +23,8 @@ export default {
   data () {
     return {
       attr : {
-        width: 1000,
-        height: 800,
+        width: 1400,
+        height: 1000,
         margin: {
           top: 0,
           right: 0,
@@ -33,15 +33,33 @@ export default {
         }
       },
       nodes : [
-        { slug: 'Lorem', frontmatter:{ title: 'Lorem' } },
-        { slug: 'Ipsum', frontmatter:{ title: 'Ipsum' } },
-        { slug: 'Dolor', frontmatter:{ title: 'Dolor' } },
-        { slug: 'Sit', frontmatter:{ title: 'Sit' } },
-        { slug: 'Amet', frontmatter:{ title: 'Amet' } },
-        { slug: 'Buzz', frontmatter:{ title: 'Buzz' } },
-        { slug: 'Wup', frontmatter:{ title: 'Wup' } },
-        { slug: 'Testtesttest', frontmatter:{ title: 'Testtesttest' } },
-        { slug: '123', frontmatter:{ title: '123' } }
+        { slug: 'Lorem', frontmatter:{ tao_type: 'material', title: 'Lorem' }, radius: 'big' },
+        { slug: 'Ipsum', frontmatter:{ tao_type: 'material', title: 'Ipsum' } },
+        { slug: 'Dolor', frontmatter:{ tao_type: 'story', title: 'Dolor' } },
+        { slug: 'Sit', frontmatter:{ tao_type: 'material', title: 'Sit' } },
+        { slug: 'Amet', frontmatter:{ tao_type: 'theme', title: 'Amet' } },
+        { slug: 'Buzz', frontmatter:{ tao_type: 'material', title: 'Buzz' } },
+        { slug: 'Wup', frontmatter:{ tao_type: 'story', title: 'Wup' } },
+        { slug: '123', frontmatter:{ tao_type: 'material', title: '123' } },
+        { slug: 'Testtesttest', frontmatter:{ tao_type: 'material', title: 'Testtesttest' } },
+        { slug: 'Animals-A', frontmatter:{ title: 'A' }, letter: true, width: 0.9 },
+        { slug: 'Animals-n', frontmatter:{ title: 'n' }, letter: true, width: 0.8 },
+        { slug: 'Animals-i', frontmatter:{ title: 'i' }, letter: true, width: 0.6 },
+        { slug: 'Animals-m', frontmatter:{ title: 'm' }, letter: true, width: 0.9 },
+        { slug: 'Animals-a', frontmatter:{ title: 'a' }, letter: true, width: 0.8 },
+        { slug: 'Animals-l', frontmatter:{ title: 'l' }, letter: true, width: 0.6 },
+        { slug: 'Animals-s', frontmatter:{ title: 's' }, letter: true, width: 0.7 },
+        { slug: 'as-a', frontmatter:{ title: 'a' }, letter: true, width: 0.9 },
+        { slug: 'as-s', frontmatter:{ title: 's' }, letter: true, width: 0.9 },
+        { slug: 'Objects-O', frontmatter:{ title: 'O' }, letter: true, width: 1 },
+        { slug: 'Objects-b', frontmatter:{ title: 'b' }, letter: true, width: 0.9 },
+        { slug: 'Objects-j', frontmatter:{ title: 'j' }, letter: true, width: 0.6 },
+        { slug: 'Objects-e', frontmatter:{ title: 'e' }, letter: true, width: 0.9 },
+        { slug: 'Objects-c', frontmatter:{ title: 'c' }, letter: true, width: 0.9 },
+        { slug: 'Objects-t', frontmatter:{ title: 't' }, letter: true, width: 0.9 },
+        { slug: 'Objects-s', frontmatter:{ title: 's' }, letter: true, width: 0.9 },
+        { slug: 'Objects-?', frontmatter:{ title: '?' }, letter: true, width: 0.9 }
+
       ],
       links : [
         { source: 'Lorem', target: 'Sit', relation: 'a', value: 4 },
@@ -53,7 +71,32 @@ export default {
         { source: 'Testtesttest', target: 'Sit', relation: 'g', value: 1 },
         { source: 'Amet', target: 'Testtesttest', relation: 'h', value: 1.6 },
         { source: 'Dolor', target: '123', relation: 'i', value: 0.7 },
-        { source: 'Buzz', target: 'Wup', relation: 'j', value: 3 }
+        { source: 'Buzz', target: 'Wup', relation: 'j', value: 3 },
+        { source: 'Lorem', target: 'Wup', relation: 'x', value: 1 },
+        { source: 'Lorem', target: 'Animals-n', relation: 'x', value: 1 },
+        { source: 'Animals-A', target: 'Animals-n', relation: 'text', value: 1 },
+        { source: 'Animals-n', target: 'Animals-i', relation: 'text', value: 1 },
+        { source: 'Animals-i', target: 'Animals-m', relation: 'text', value: 1 },
+        { source: 'Animals-m', target: 'Animals-a', relation: 'text', value: 1 },
+        { source: 'Animals-a', target: 'Animals-l', relation: 'text', value: 1 },
+        { source: 'Animals-l', target: 'Animals-s', relation: 'text', value: 1 },
+        { source: 'Wup', target: 'as-a', relation: 'a', value: 1 },
+        { source: 'as-a', target: 'as-s', relation: 'text', value: 1 },
+        { source: 'as-a', target: 'as-s', relation: 'text', value: 1 },
+        { source: 'Testtesttest', target: 'Objects-O', relation: 'xx', value: 1 },
+        { source: 'Objects-O', target: 'Objects-b', relation: 'text', value: 1 },
+        { source: 'Objects-b', target: 'Objects-j', relation: 'text', value: 1 },
+        { source: 'Objects-j', target: 'Objects-e', relation: 'text', value: 1 },
+        { source: 'Objects-e', target: 'Objects-c', relation: 'text', value: 1 },
+        { source: 'Objects-c', target: 'Objects-t', relation: 'text', value: 1 },
+        { source: 'Objects-t', target: 'Objects-s', relation: 'text', value: 1 },
+        { source: 'Objects-s', target: 'Objects-?', relation: 'text', value: 1 },
+        // { source: 'Objects-?', target: 'Objects-j', relation: 'text', value: 1 },
+        // { source: 'Objects-t', target: 'Objects-O', relation: 'text', value: 1 },
+        // { source: 'Objects-b', target: 'Objects-s', relation: 'text', value: 1 },
+        // { source: 'Objects-e', target: 'Objects-O', relation: 'text', value: 1 },
+        // { source: 'Objects-j', target: 'Objects-O', relation: 'text', value: 1 },
+        // { source: 'Objects-?', target: 'Objects-e', relation: 'text', value: 1 },
       ],
     }
   },
@@ -70,11 +113,11 @@ export default {
         .attr("height", this.attr.height);
 
       const simulation = d3.forceSimulation(this.nodes)
-        .force("link", d3.forceLink(this.links).id(d => d.slug).distance(100))
-        .force("charge", d3.forceManyBody().strength(-1200).distanceMin(1).distanceMax(2000))
+        .force("link", d3.forceLink(this.links).id(d => d.slug).distance(function(d) {if(d.relation == 'text'){console.log(d.relation); return 1} else {return 200}}))
+        .force("charge", d3.forceManyBody().strength(-600).distanceMin(1).distanceMax(500))
         .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2))
-        // .force("radial", d3.forceRadial(500))
-        .force("collide", d3.forceCollide(80).strength(0.2))
+        .force("radial", d3.forceRadial(750))
+        .force("collide", d3.forceCollide(40).strength(0.2))
 
       let colorScale = d3.scaleOrdinal()
         .domain(d3.range(this.nodes.length))
@@ -90,47 +133,84 @@ export default {
 
       const node = svg.append("g")
         
-        .selectAll("circle")
+        .selectAll("rect")
         .data(this.nodes)
         .enter()
         .append('g')
         .attr('transform', function (d) {
-          let cirX = d.x
-          let cirY = d.y
-          return 'translate(' + cirX + ',' + cirY + ')'
+          // let cirX = d.x
+          // let cirY = d.y
+          // return 'translate(' + cirX + ',' + cirY + ')'
         })
         .attr('id', function(d) {
           return d.slug
         })
         .call(this.drag(simulation));
 
-        node.append("circle")
-          .attr("r", 45)
+        node.append("rect")
+          // .attr("r", function(d) {
+          //   if(d.radius == 'big'){
+          //     return 70
+          //   } else {
+          //     return 37.5
+          //   }
+          // })
+          .attr('x', -37.5)
+          .attr('y', -37.5)
+          .attr('width', function (d, i) {
+            if(d.letter && d.width){
+              return 80 * d.width
+            } else {
+              return 75
+            }
+          })
+          .attr('height', function (d, i) {
+            if(d.letter){
+              return 80
+            } else {
+              return 75
+            }
+          })
           .attr('fill', function (d, i) {
-            return colorScale(i)
+            if(d.letter == true){
+              return '#000'
+            } else {
+              return colorScale(i)
+            }
+            
+          })
+          .attr('rx', function (d, i) {
+            if(d.letter == true){
+              return 25
+            } else if (d.frontmatter.tao_type == 'material'){
+              return 50
+            } else if (d.frontmatter.tao_type == 'story'){
+              return 20
+            } else if (d.frontmatter.tao_type == 'theme'){
+              return 0
+            }
           })
 
         node.append("text")
           
-          .attr("dy", "5px")
-          .attr("font-family", "Optician Sans")
-          .style("font-size", "10px")
-          .attr("fill", "#fff")
+          .attr("dy", "15px")
+          .attr("font-family", "Arial")
+          .attr('font-size', function (d, i) {
+            if(d.letter == true){
+              return '56px'
+            }
+            return '24px'
+          })
+          .attr('fill', function (d, i) {
+            if(d.letter == true){
+              return '#fff'
+            }
+            return '#fff'
+          })
           .attr("letter-spacing", '0.1em')
           .text(function(d) { return d.frontmatter.title })
           .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
-          .on("mouseenter", function() {
-            d3.select(this)
-              .transition()
-              .duration(200)
-              .attr("fill", "black");
-          })
-          .on("mouseout", function() {
-            d3.select(this)
-              .transition()
-              .duration(200)
-              .attr("fill", "#fff")
-          });
+
 
           node.on('mouseover', function(event, d) {
             link.style('stroke', function(l) {
