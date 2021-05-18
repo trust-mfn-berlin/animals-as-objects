@@ -223,6 +223,7 @@ export default {
             d3.select(this).selectAll('rect')
               .transition()
               .duration(150)
+              .ease(d3.easeQuadOut)
               .attr("transform", "scale(2)")
 
             // d3.select(this)
@@ -252,6 +253,7 @@ export default {
             d3.select(this).selectAll('rect')
               .transition()
               .duration(100)
+              .ease(d3.easeQuadOut)
               .attr("transform", "scale(1)")
             link.style('stroke', "#fff");
 
