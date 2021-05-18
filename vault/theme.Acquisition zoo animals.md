@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: How animals get into the zoo?
 desc: The various sources of animal objects for museums and zoos.
-updated: 1621351795929
+updated: 1621352999749
 created: 1618498026144
 title_de: Wie gelangen Tiere in den zoo?
 desc_de: Tiere und Tierobjekte kommen aus vielen unterschiedlichen Quellen.
@@ -32,7 +32,7 @@ Bei jeder Sammlung lebender Tiere, ob nun Tierpark, Wildgehege oder Zoologischer
 
 und
 
-* **Wer entscheidet, was gesammelt und ausgestellt wird?**
+* **Wer entscheidet, welche Tiere gesammelt und ausgestellt werden?**
 
 Die Beantwortung dieser Fragen bündelt eine ganze Reihe wichtiger Themen rund um die Fragen von Wissenschaft, Haltungsbedingungen und Politik in allen Tiergärten und sie betrifft Forschungszweige wie Wissensgeschichte, Institutionengeschichte der Zoos, die Wissenschaftsgeschichte der Taxonomie, der Ethologie, der Biologie und Zoologie sowie der Zoobiologie. Denn Tiere in Zoos kommen aus unterschiedlichsten Quellen und sind mal durch Zufall, mal als Ergebnis langer Vorarbeit in die Institutionen gelangt. **Die Quellen der Tiere unterlagen Änderungen und zu mancher Zeit waren die einen wichtiger, zu anderer Zeit eben andere.** Manche Formen des Tiererwerbs oder der Tierakquise kamen erst spät in der mehr als 250jährigen Geschichte der modernen Zoos hinzu. Es gibt aber auch einige grundsätzliche Tierquellen, die kontinuierlich eine wichtige Rolle einnehmen. Es geht also um **Veränderungen und Kontinuitäten**.
 
@@ -73,7 +73,8 @@ Die sicher größte im Zoo seit dem Verbot des Handels mit gefährdeten Tier- un
 
 [[story.Breeding Animals for the Zoo]]
 
-* Orangs als frühes Beispiel für Schutz
+[[story.Zoo Veterinary Medicine]]
+
 * Steinbock und Wisent
 * Artenschutzzentrum Zoo
 * Leibniz Institut für Diversitätsforschung
@@ -83,19 +84,25 @@ in den Sitzungen des VDZ der 1960er ist der Schutz der Orangs immer wieder Thema
 ![Aquariumsbecken mit Quallen](images/cmw/Quallenaufzucht_um1999.jpg)
 *In diesen Becken züchtete das Berliner Aquarium Ende der 1990er Jahre erfolgreich Quallen. (AZGB)*
 
-## Tiertausch zwischen Zoos
+Zooleitungen waren zum einen unter den ersten, die auf die zunehmende Gefährdung der in ihren Einrichtungen gehaltenen Tiere aufmerksam wurden, manche von ihnen befanden sich aber in einem Dilemma. Auf die gefährdeten aber hoch schauwertigen Tiere zu verzichten bedeutete für einige, dass sie Angst hatten, ihnen würden die Besucher\*innen abhanden kommen, wenn sie einige der exotischen Tiere nicht mehr ausstellten, deren Schau bislang mit einem besonderen Prestige verbunden war. 
+Den 'artenreichsten' Zoo Deutschlands, Europas oder gar der Welt zu haben, galt ihnen als Aushängeschild.
+An der Frage der Haltung von Orang-Utans teilten sich die Meinungen schon Anfang der 1960er Jahre. Manche Zoodirektoren wollten die Einfuhr dieser schon damals stark gefährdeten Art strikt einschränken, andere vertraten die Ansicht, dass die 'wissenschaftlichen Zoos' die Funktion einer Arche Noah übernehmen könnten und es nicht den vielen weniger regulierten Tiergärten überlassen sollten, Orang-Utans auszustellen. Es ist aber möglich, dass es vor allem darum ging, sich noch einige Tiere aus Wildfängen zu sichern, da diese Tierart bei den Besucher\*innen sehr beliebt war. [[story.Zoos and Conservation]]
+
+## Zuchtbücher und Tiertausch zwischen Zoos
 
 Insbesondere das Naturkundemuseum
 Eng mit der Zucht verbunden, nicht aber stets und immer der Grund dafür, ist der Tiertausch zwischen den Zoos. Spätestens seit der Gründung des Verbandes Deutscher Zoodirektoren haben Zoos im deutschen Sprachraum regelmäßig individuelle Tiere oder auch Tiergruppen getauscht. Der Hintergrund wird stets eine 
 
 ## Kosten und Logistik
 
-Mit den erwähnten unterschiedlichen Quellen an Tierobjekten hingen und hängen jeweils unterschiedliche Akquisestrategien und Handlungsanforderungen für die Institutionen zusammen. Das betrifft die Vorbereitung, die Logistik  rund um den Erwerb und die benötigten Arbeits- und Finanzmittel. Die Ausstattung einer eigenen Sammlungs- oder Fangexpedition benötigt neben den behördlichen Genehmigungen auch eine größere finanzielle Anfangsinvestition. Ein geschenktes Tierobjekt muss untergebracht und unterhalten werden. Für die Zucht in Zoos muss das notwendige biologische und tiermedizinische Wissen vorhanden sein und vor allem ausreichend Platz. Dieser wird nicht nur für die größere Gruppe benötigt, um mehr Tiere unterzubringen, auch vermehren sich Tiere in menschlicher Obhut seltener auf kleinem Raum. Werden Tierobjekte von Museen und lebende Tiere von Zoos gekauft, müssen die Geldmittel zur Verfügung stehen, es muss wiederum Platz vorhanden sein und das Tierobjekt muss in die eigene Ausstellungs- oder Forschungsstrategie passen. So sind die Objekte entweder interessant, weil sie neue Forschungen im Zusammenhang mit den bereits vorhandenen erlauben, einzigartig und neu sind oder aber großes Interesse seitens der Besucher\*innen erwarten lassen. Klassische Beispiele für letzteres sind:
+## Zoos und Tierparks als Pragmatiker
+
+Mit den erwähnten unterschiedlichen Quellen an Tierobjekten hingen und hängen jeweils unterschiedliche Akquisestrategien und Handlungsanforderungen für die Institutionen zusammen. Das betrifft die Vorbereitung, die Logistik  rund um den Erwerb und die benötigten Arbeits- und Finanzmittel. Die Ausstattung einer eigenen Sammlungs- oder Fangexpedition benötigt neben den behördlichen Genehmigungen auch eine größere finanzielle Anfangsinvestition. Ein geschenktes Tierobjekt muss untergebracht und unterhalten werden. Für die Zucht in Zoos muss das notwendige biologische und tiermedizinische Wissen vorhanden sein und vor allem ausreichend Platz. Dieser wird nicht nur für die größere Gruppe benötigt, um mehr Tiere unterzubringen, auch vermehren sich Tiere in menschlicher Obhut seltener auf kleinem Raum. Werden Tierobjekte von Museen und lebende Tiere von Zoos gekauft, müssen die Geldmittel zur Verfügung stehen, es muss wiederum Platz vorhanden sein und die in menschlicher Obhut gehaltenen Tierarten aber auch individuelle Gruppen mit unterschiedlicher Zusammensetzung müssen in die eigene haltungs-, Bildungs-, Ausstellungs- oder Forschungsstrategie passen. So sind die Tiere entweder interessant, weil sie neue Forschungen im Zusammenhang mit den bereits vorhandenen erlauben, einzigartig und neu sind oder aber großes Interesse seitens der Besucher\*innen erwarten lassen. Klassische Beispiele für letzteres sind:
 
 * große und möglichst vollständige Skelette von **Dinosauriern** oder **Walen** in Naturkundemuseen
 * **Pandas** oder andere sehr **schauwertige Tiere** in Zoos.
 
-## Zoos und Tierparks als Pragmatiker
+Letztlich scheint es, als seien Zoos - darunter auch der Berliner Zoo, sein Aquarium und auch der Tierpark vor allem lange Zeit ihres Bestehens Pragmatiker gewesen, was die Quellen ihrer gehaltenen Tierarten aber auch einzelner Tiere angeht. Tiere zu 'haben' und diese den Besucher\*innen zugänglich zu machen war ein wesentliches Ziel. Im Ost-Berliner Tierpark stand eine riesigen Fläche von mehr als 100 Hektar zur Verfügung, die mit Tiergehegen oder größeren Herden gefüllt werden sollte und der West-Berliner Zoo bemühte sich, seinen Ruf als artenreichster Zoo der Welt zu behaupten. Letzteres hing in der von Subventionen aus der Bundesrepublik abhängigen Stadt auch damit zusammen, dass alles in West-Berlin letztlich einem Legitimationszwang unterlag. Der artenreichste Zoo der Welt war ein Tourismusmagnet in der 'Frontstadt' des Kalten Kriegs.
 
 vom 'systematischen Zoo' zum 'Geozoo' und zum 'Artenschutzzentrum'
 
