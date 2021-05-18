@@ -2,11 +2,11 @@
 id: 791eba95-8a67-455b-98b0-2b2406a3430f
 title: Werner Schröder
 desc: Put a description of this note here...
-updated: 1620290582762
+updated: 1621342815330
 created: 1620290582762
-title_de: Add a german title here
+title_de: Werner Schröder
 desc_de: Put a DE description of this note here...
-author: Author name(s) here.
+author: CMW
 tao_type: material
 cover_image: null
 license: CC BY-SA
@@ -33,10 +33,4 @@ Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp.
 
 :::DE:::
 
-#German title (DE)
-
-(DE) Text body with backlinks like this: [[theme.test]]. The title is already written above.
-If needed you can also add footnotes [^footnoteDE1].
-As necessary, things can be **bold** or _italic_.
-
-[^footnoteDE1]: here it links.
+@empty

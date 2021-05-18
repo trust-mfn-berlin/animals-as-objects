@@ -2,9 +2,9 @@
 id: 95af7c71-90df-4d53-8581-e19c8051698c
 title: Paul Matschie
 desc: Put a description of this note here...
-updated: 1618831653738
+updated: 1621342090715
 created: 1618826195990
-title_de: Add a german title here
+title_de: Paul Matschie
 desc_de: Put a DE description of this note here...
 author: Author name(s) here.
 tao_type: material
@@ -19,6 +19,4 @@ English content goes here.
 
 :::DE:::
 
-German content goes here.
-
-[[theme.Exhibiting]]
+@empty

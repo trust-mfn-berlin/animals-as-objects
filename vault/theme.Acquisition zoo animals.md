@@ -1,10 +1,10 @@
 ---
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
-title: Acquisition
+title: How animals get into the zoo?
 desc: The various sources of animal objects for museums and zoos.
-updated: 1621268293726
+updated: 1621342948233
 created: 1618498026144
-title_de: Tiere sammeln
+title_de: Wie gelangen Tiere in den zoo?
 desc_de: Tiere und Tierobjekte kommen aus vielen unterschiedlichen Quellen.
 author: CMW
 tao_type: theme
