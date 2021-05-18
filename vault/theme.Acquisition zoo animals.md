@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: How animals get into the zoo?
 desc: The various sources of animal objects for museums and zoos.
-updated: 1621349493061
+updated: 1621351795929
 created: 1618498026144
 title_de: Wie gelangen Tiere in den zoo?
 desc_de: Tiere und Tierobjekte kommen aus vielen unterschiedlichen Quellen.
@@ -40,36 +40,36 @@ Die Beantwortung dieser Fragen bündelt eine ganze Reihe wichtiger Themen rund u
 
 Zur Zeit der Gründung der ersten - 'modern' oder wissenschaftlich' genannten - Zoologischen Gärten in Europa waren quasi alle dort ausgestellten und nicht einheimischen Tiere sogenannte Wildfänge [[material.animals caught in the wild]] . Sie waren also in ihren Habitaten gejagt, gefangen und aus ihnen entfernt worden. Mehr dazu in der Story 'Tiere fangen' [[story.Catching Animals]] In die Zoos selbst waren sie aber häufig nicht direkt gebracht worden und eine planvolle Sammlungsstrategie war in der Regel auch nicht veorhanden. Einheimische Tierarten waren auch nicht selten aus den Wäldern, Steppen, Wiesenlandschaften, Auen oder von den Küsten des eigenen Territoriums entnommen, oft aber dominierten hier bereits Zuchten aus den früher angelegten Menagerien der herrschaftlichen Anwesen oder frühen Tiersammlungen von Städten. [[story.early zoo history]]
 
-Viele der nicht einhemischen Tiere waren Geschenke an die Zoos durch . [[story.Gifting Objects]] Diese wiederum hatten sie von 'Entdeckunsgreisenden' oder ihren Kolonialbeamten übersandt bekommen oder Hofmitglieder oder Adelige hatten sie selbst gefangen oder angeboten bekommen. Insbesondere diese Quelle von Tieren hat in der Mehrheit der Fälle einen politischen Bezug oder ist in der einen oder anderen Form mit einer erwünschten Propagandawirkung verbunden. Hier kann die politische Geschichte - genauer die Geschichte der diplomatischen Beziehungen - daher helfen, die Fragen nach dem Ursprung der Tiere in Museen und Zoos beantworten. Hier wurde dem Besitz der Tiere ein emotionaler und diplomatischer Wert zugeschrieben. Je seltener, größer, schwerer, gefährlicher oder neuer ein Tier entdeckt war, desto größer dieser Wert
+Viele der nicht einhemischen Tiere waren Geschenke an die Zoos durch . [[story.Gifting Objects]] Diese wiederum hatten sie von 'Entdeckunsgreisenden' oder ihren Kolonialbeamten übersandt bekommen oder Hofmitglieder oder Adelige hatten sie selbst gefangen oder angeboten bekommen. Insbesondere diese Quelle von Tieren hat in der Mehrheit der Fälle einen politischen Bezug oder ist in der einen oder anderen Form mit einer erwünschten Propagandawirkung verbunden. Hier kann die politische Geschichte - genauer die Geschichte der diplomatischen Beziehungen - daher helfen, die Fragen nach dem Ursprung der Tiere in Museen und Zoos beantworten. Hier wurde dem Besitz der Tiere ein emotionaler und diplomatischer Wert zugeschrieben. Je seltener, größer, schwerer, gefährlicher oder neuer ein Tier entdeckt war, desto größer dieser Wert.
+
+![Two elephants and three keepers](images\cmw\Elefant_Omar.jpg)
 
 Das setzte sich mit der Expansion der europäischen Kolonien fort, von der alle Zoos und auch der Berliner Zoologische Garten profitierten. Seit 1891 wurden in den Geschäftsberichten des Zoos regelmäßig Geschenke aus den Kolonialgebieten erwähnt. Mitglieder des kaiserlichen Haushaltes, Gouverneure, Kolonialgesellschaften und Kaufleute sandten dem Zoo seltene Tiere. 1907 hatte der Zoo elf Löwen und nur ein Tier war kein Geschenk aus den Kolonien.[^colonial1]
 
-
-Geschenke blieben auch in den ersten Jahrzehnten seiner Existenz die wichtigste Quelle für Tiere für den Berliner Zoo. Das galt auch für den Tierpark Berlin [[story.Short History Tierpark]]. Hinzu kam aber in den letzten drei Jahrzehnten des 19. Jahrhunderts eine weitere wichtige Tierquelle, die aber auch weitgehend auf der Ausbeutung der in den natürlichen Lebensräumen lebenden Tierppopulationen - der Tierhandel.
-
+Geschenke blieben auch in den ersten Jahrzehnten seiner Existenz die wichtigste Quelle für Tiere für den Berliner Zoo. Das galt auch für den Tierpark Berlin [[story.Short History Tierpark]]. Hinzu kam aber in den letzten drei Jahrzehnten des 19. Jahrhunderts eine weitere wichtige Tierquelle, die aber auch weitgehend auf der Ausbeutung der in den natürlichen Lebensräumen lebenden Tierppopulationen - der Tierhandel.[^entnahme1]
 
 ### Tierhandel
+
+Ausführlich wird in der Story 'Tierhandel' [[story.Animal trade]] darüber berichtet. An dieser Stelle reicht es kurz auf dessen Ursprünge einzugehen.
 
 - Ursprünge
 - Monopole
 - Professionalisierung
 - Ausbeutung
 
-### Eigene Expeditionen
+![desc](images/cmw/Aqua_Fischtransport_Seitz.jpg)
+*Ankunft von neuen Tieren für das Aquarium Berlin, um 1920. (AZGB)*
 
-Museen und Zoos konnten sich zum Ende des 19. Jahrhunderts eines umfangreichen Netzwerks von professionellen Händlern ihrer Objekte aber auch engagierten Laiensammlern bedienen. Manchmal organisierten oder finanzierten sie sogar eigenen Expeditionen zur Beschaffung von Sammlungsobjekten - lebendig oder tot. [[story.Heck Expeditions]]
-
-Eine im Zoo seltener, im Naturkundemuseum häufiger genutzte Quelle von Tieren und Objekten waren selbst organisierte oder unterstützte Expeditionen.
-
-- Schäfer Tibet Museum
-
-Im Berliner Zoo wurden eigene Fangexpeditionen nur in einem sehr begrenzten Maß durchgeführt. [[material.Oskar Heinroth]], der selbst Expeditionserfahrung aus seiner früheren Karriere hatte, fuhr in der ersten Hälfte des 20. Jahrhunderts regelmäßig in die bei Rovigno an der Adria gelegene Zoologische Station der Kaiser-Wilhelm-Gesellschaft und brachte stets neue Tiere für das Berliner Aquarium [[story.Short History Aquarium]] mit. Noch 1942 stellte er einen Tiertransport dort zusammen.[^expeditions2] Auch im Naturkundemuseum gab es Pläne für eine Zusammenarbeit mit der Forschungsstation.[^expeditions1]
+Museen und Zoos konnten sich also zum Ende des 19. Jahrhunderts eines umfangreichen Netzwerks von professionellen Händlern bedienen. Manchmal organisierten oder finanzierten sie sogar eigenen Expeditionen zur Beschaffung von Tieren. [[story.Heck Expeditions]] Im Berliner Zoo wurden eigene Fangexpeditionen nur in einem sehr begrenzten Maß durchgeführt. [[material.Oskar Heinroth]], der selbst Expeditionserfahrung aus seiner früheren Karriere hatte, fuhr in der ersten Hälfte des 20. Jahrhunderts regelmäßig in die bei Rovigno an der Adria gelegene Zoologische Station der Kaiser-Wilhelm-Gesellschaft und brachte stets neue Tiere für das Berliner Aquarium [[story.Short History Aquarium]] mit. Noch 1942 stellte er einen Tiertransport dort zusammen.[^expeditions2] 
 
 - Lutz Heck Zoo [[story.Heck Expeditions]]
 
-## Zucht
+![desc](images/cmw/Giraffentransport_1928_S_3_58_Wolter.jpg)
+*Giraffentransport für den Zoo, 1928. (AZGB, Foto Wolter)*
 
-Im Museum naturgemäß von geringer Bedeutung, im Zoo seit dem Verbot des Handels mit gefährdeten Tier- und Pflanzenarten durch das Washingtoner Artenschutzabkommen aber um so wichtiger: die Zucht [[story.Breeding Animals for the Zoo]] eigener Tiere. Weltweite durch Forschung gewonnene Erkenntnisse um die Bedrohung der irdischen Pflanzen- und Tiervielfalt wurden ergänzt durch immer größeres Wissen um die Fortpflanzungsbiologie und die Voraussetzungen für die Aufzucht von Jungtieren gefangen gehaltener Zootiere.
+## Die Zucht von Zootieren und das Ende des Tierhandels
+
+Die sicher größte im Zoo seit dem Verbot des Handels mit gefährdeten Tier- und Pflanzenarten durch das Washingtoner Artenschutzabkommen aber um so wichtiger: die Zucht [[story.Breeding Animals for the Zoo]] eigener Tiere. Weltweite durch Forschung gewonnene Erkenntnisse um die Bedrohung der irdischen Pflanzen- und Tiervielfalt wurden ergänzt durch immer größeres Wissen um die Fortpflanzungsbiologie und die Voraussetzungen für die Aufzucht von Jungtieren gefangen gehaltener Zootiere.
 
 [[story.Breeding Animals for the Zoo]]
 
@@ -90,16 +90,14 @@ Eng mit der Zucht verbunden, nicht aber stets und immer der Grund dafür, ist de
 
 ## Kosten und Logistik
 
-Mit diesen unterschiedlichen Quellen an Tierobjekten hängen jeweils unterschiedliche Akquisestrategien und Handlungsanforderungen für die Institutionen zusammen. Das betrifft die Vorbereitung, die Logistik  rund um den Erwerb und die benötigten Arbeits- und Finanzmittel. Die Ausstattung einer eigenen Sammlungs- oder Fangexpedition benötigt neben den behördlichen Genehmigungen auch eine größere finanzielle Anfangsinvestition. Ein geschenktes Tierobjekt muss untergebracht und unterhalten werden. Für die Zucht in Zoos muss das notwendige biologische und tiermedizinische Wissen vorhanden sein und vor allem ausreichend Platz. Dieser wird nicht nur für die größere Gruppe benötigt, um mehr Tiere unterzubringen, auch vermehren sich Tiere in menschlicher Obhut seltener auf kleinem Raum. Werden Tierobjekte von Museen und lebende Tiere von Zoos gekauft, müssen die Geldmittel zur Verfügung stehen, es muss wiederum Platz vorhanden sein und das Tierobjekt muss in die eigene Ausstellungs- oder Forschungsstrategie passen. So sind die Objekte entweder interessant, weil sie neue Forschungen im Zusammenhang mit den bereits vorhandenen erlauben, einzigartig und neu sind oder aber großes Interesse seitens der Besucher\*innen erwarten lassen. [[Schauwert]] Klassische Beispiele für letzteres sind:
+Mit den erwähnten unterschiedlichen Quellen an Tierobjekten hingen und hängen jeweils unterschiedliche Akquisestrategien und Handlungsanforderungen für die Institutionen zusammen. Das betrifft die Vorbereitung, die Logistik  rund um den Erwerb und die benötigten Arbeits- und Finanzmittel. Die Ausstattung einer eigenen Sammlungs- oder Fangexpedition benötigt neben den behördlichen Genehmigungen auch eine größere finanzielle Anfangsinvestition. Ein geschenktes Tierobjekt muss untergebracht und unterhalten werden. Für die Zucht in Zoos muss das notwendige biologische und tiermedizinische Wissen vorhanden sein und vor allem ausreichend Platz. Dieser wird nicht nur für die größere Gruppe benötigt, um mehr Tiere unterzubringen, auch vermehren sich Tiere in menschlicher Obhut seltener auf kleinem Raum. Werden Tierobjekte von Museen und lebende Tiere von Zoos gekauft, müssen die Geldmittel zur Verfügung stehen, es muss wiederum Platz vorhanden sein und das Tierobjekt muss in die eigene Ausstellungs- oder Forschungsstrategie passen. So sind die Objekte entweder interessant, weil sie neue Forschungen im Zusammenhang mit den bereits vorhandenen erlauben, einzigartig und neu sind oder aber großes Interesse seitens der Besucher\*innen erwarten lassen. Klassische Beispiele für letzteres sind:
 
 * große und möglichst vollständige Skelette von **Dinosauriern** oder **Walen** in Naturkundemuseen
 * **Pandas** oder andere sehr **schauwertige Tiere** in Zoos.
 
-![desc](images/cmw/Aqua_Fischtransport_Seitz.jpg)
-*Ankunft von neuen Tieren für das Aquarium Berlin, um 1920. (AZGB)*
+## Zoos und Tierparks als Pragmatiker
 
-![desc](images/cmw/Giraffentransport_1928_S_3_58_Wolter.jpg)
-*Giraffentransport für den Zoo, 1928. (AZGB, Foto Wolter)*
+vom 'systematischen Zoo' zum 'Geozoo' und zum 'Artenschutzzentrum'
 
 ----
 ## Footnotes
@@ -114,10 +112,11 @@ Mit diesen unterschiedlichen Quellen an Tierobjekten hängen jeweils unterschied
 
 [^colonial1]: Geschäftsberichte über die Jahre 1891-1914, hier insb. Geschäftsbericht über das Jahr 1907.
 
-[^expeditions1]: Eckert, Carsten. 2010. "Ein U-Boot für die Wissenschaft - Mäzenatentum im Kaiserreich, Aspekte aus dem Nachlass von Walther Arndt". In Art, Ordnung, Klasse: 200 Jahre Museum für Naturkunde, herausgegeben von Ferdinand Damaschun, Sabine Hackethal, Hannelore Landsberg, und Reinhold Leinfelder, 170–75. Rangsdorf: Basilisken-Presse.
-
 [^expeditions2]: Heinroth, Katharina. 1971. Oskar Heinroth. Bd. 35. Große Naturforscher. Stuttgart: Wissenschaftliche Verlagsgesellschaft: 169.
 
 [^culturald1]: Hier Dittrich oder Maier-Wolthausen
 
 [^donations]: Zoologische Gärten Berlin: Geschäftsbericht 2019 (https://www.zoo-berlin.de/fileadmin/zoo-berlin/downloads/Investor_Relations/Geschaeftsberichte/Geschaeftsbericht_AG_2019.pdf)
+
+[^entnahme1]: Dittrich, Lothar. 2007. „Der Import von Wildtieren nach Europa - Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts“. In Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte, herausgegeben von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl, 3:1–64. Tiergarten Schönbrunn - Geschichte. Wien: Braumüller.
+
