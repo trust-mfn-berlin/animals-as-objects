@@ -2,9 +2,9 @@
 id: 95617cbe-704d-46c1-b0b5-05d178ec363d
 title: Magdalena Heinroth
 desc: Put a description of this note here...
-updated: 1620412869052
+updated: 1621342034797
 created: 1619797161333
-title_de: Add a german title here
+title_de: Magdalena Heinroth
 desc_de: Put a DE description of this note here...
 author: Author name(s) here.
 tao_type: material

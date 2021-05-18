@@ -2,7 +2,7 @@
 id: ef068026-9899-4435-ab70-3df0d8a495fa
 title: Collecting Specimen
 desc: Put a description of this note here...
-updated: 1620987231279
+updated: 1621350074310
 created: 1618493084572
 title_de: Objekte sammeln
 desc_de: Hier geht es um das Sammeln von toten Tierobjekten für das Museum.
@@ -64,4 +64,12 @@ Mit dem Beginn eines kolonialen Imperialismus im Deutschen Reich eröffnete sich
 
 Blauschaf Expeditionsausbeute und Schautier, Bestimmungs-Typusexemplar?
 Hans Schäfer (Damaschun)
+
+Auch im Naturkundemuseum gab es Pläne für eine Zusammenarbeit mit der Forschungsstation.[^expeditions1]
+
+---
+
+## Footnotes
+
+[^expeditions1]: Eckert, Carsten. 2010. "Ein U-Boot für die Wissenschaft - Mäzenatentum im Kaiserreich, Aspekte aus dem Nachlass von Walther Arndt". In Art, Ordnung, Klasse: 200 Jahre Museum für Naturkunde, herausgegeben von Ferdinand Damaschun, Sabine Hackethal, Hannelore Landsberg, und Reinhold Leinfelder, 170–75. Rangsdorf: Basilisken-Presse.
 

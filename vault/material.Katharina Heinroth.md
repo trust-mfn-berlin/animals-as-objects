@@ -2,9 +2,9 @@
 id: f2e04dbc-1209-40b6-baf5-599fd36e63c7
 title: Katharina Heinroth
 desc: Put a description of this note here...
-updated: 1620412834331
+updated: 1621339525901
 created: 1619797579886
-title_de: Add a german title here
+title_de: Katharina Heinroth
 desc_de: Put a DE description of this note here...
 author: CMW
 tao_type: material

@@ -1,8 +1,8 @@
 ---
 id: cdaa8a05-6456-4b87-a663-c755790440d3
-title: Journal Der Zoologische Garten
+title: Journal "Der Zoologische Garten"
 desc: Put a description of this note here...
-updated: 1618496718995
+updated: 1621339441533
 created: 1618496596303
 title_de: Zeitschrift "Der Zoologische Garten"
 desc_de: Put a DE description of this note here...

@@ -2,9 +2,9 @@
 id: 41dcbc58-4f45-457f-a286-4cf4773dda3d
 title: Lioness Heinrich
 desc: Image of the lioness "Heinrich
-updated: 1620162758628
+updated: 1621339559647
 created: 1620162574913
-title_de: Add a german title here
+title_de: Die Löwin "Heinrich"
 desc_de: Bild der Löwin "Heinrich"
 author: CMW
 tao_type: material

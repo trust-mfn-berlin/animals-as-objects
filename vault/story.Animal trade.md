@@ -1,30 +1,34 @@
 ---
-id: 791eba95-8a67-455b-98b0-2b2406a3430f
-title: Werner Schröder
+id: 81f4c03c-74e3-4293-b155-d94496d3c4bd
+title: Trading Animals
 desc: Put a description of this note here...
-updated: 1621342815330
-created: 1620290582762
-title_de: Werner Schröder
+updated: 1621349477198
+created: 1621349435326
+title_de: Tierhandel
 desc_de: Put a DE description of this note here...
 author: CMW
-tao_type: material
+tao_type: story
 cover_image: null
 license: CC BY-SA
 published: false
 ---
 
+
 :::EN:::
 
-Text body with backlinks like this: [[theme.test]]. The title is already written above.
-If needed you can also add footnotes [^footnote1].
-As necessary, things can be **bold** or _italic_. 50 - 500 words max.
+Like material, here you have the text body. With backlinks: [[theme.test]].
+And footnotes [^footnote1].
+And **bold** and _italics_. Stories have 2000 - 4000 words max.
+But as stories are longer, you might need:
+
+##Subheadings
+Where you can say more.
 They can also include:
 >Longer quotes from other sources, like this one...
 
-![image description for accessibility](/images/example/hippo.jpg)
+![image description](/images/example/MfN-HBSB-Nr97.png)
 
 _Image caption (less than 200 characters) and source._
-
 
 [^footnote1]: here REF: Surname, Name. _Book title_. Place: Press, YYYY
 Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp.
@@ -34,3 +38,4 @@ Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp.
 :::DE:::
 
 @empty
+@clemens

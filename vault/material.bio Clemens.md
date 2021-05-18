@@ -1,17 +1,18 @@
 ---
-id: 791eba95-8a67-455b-98b0-2b2406a3430f
-title: Werner Schröder
+id: cdcf11b1-e260-48a4-a4f3-0ae102cdf8ad
+title: bio Clemens
 desc: Put a description of this note here...
-updated: 1621342815330
-created: 1620290582762
-title_de: Werner Schröder
+updated: 1621338869862
+created: 1621338741193
+title_de: Add a german title here
 desc_de: Put a DE description of this note here...
-author: CMW
+author: Author name(s) here.
 tao_type: material
 cover_image: null
 license: CC BY-SA
 published: false
 ---
+
 
 :::EN:::
 
@@ -33,4 +34,4 @@ Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp.
 
 :::DE:::
 
-@empty
+@clemens
