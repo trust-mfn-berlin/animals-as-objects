@@ -2,11 +2,11 @@
 id: 7e30f358-c740-4dd9-8075-40f04387dae4
 title: Bernhard Grzimek
 desc: Put a description of this note here...
-updated: 1619082053174
+updated: 1621339189729
 created: 1619081131485
-title_de: Add a german title here
+title_de: Bernhard Grzimek
 desc_de: Put a DE description of this note here...
-author: Author name(s) here.
+author: CMW
 tao_type: material
 cover_image: null
 license: CC BY-SA

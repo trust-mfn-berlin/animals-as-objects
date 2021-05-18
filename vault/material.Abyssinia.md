@@ -2,9 +2,9 @@
 id: c7fee9e1-1604-4355-8558-f05dedd4d680
 title: Abyssinia
 desc: Put a description of this note here...
-updated: 1618496877193
+updated: 1621339156664
 created: 1618496877193
-title_de: Add a german title here
+title_de: Abessinien
 desc_de: Put a DE description of this note here...
 author: Author name(s) here.
 tao_type: material
