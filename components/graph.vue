@@ -147,6 +147,7 @@ export default {
           return d.slug
         })
         .call(this.drag(simulation))
+      
         
 
         node.append("rect")
@@ -162,6 +163,8 @@ export default {
           .attr('width', function (d, i) {
             if(d.letter && d.width){
               return 80 * d.width
+            } else if(d.radius == 'big') {
+              return 120
             } else {
               return 75
             }
@@ -169,6 +172,8 @@ export default {
           .attr('height', function (d, i) {
             if(d.letter){
               return 80
+            } else if(d.radius == 'big') {
+              return 120
             } else {
               return 75
             }
@@ -215,7 +220,16 @@ export default {
 
 
           node.on('mouseover', function(event, d) {
-           
+            d3.select(this).selectAll('rect')
+              .transition()
+              .duration(150)
+              .attr("transform", "scale(2)")
+
+            // d3.select(this)
+            //   .transition()
+            //   .duration(200)
+            //   .attr("transform", "scale(2)");
+
             link.style('stroke', function(l) {
               if (d === l.source || d === l.target){
                 return "black";
@@ -230,9 +244,17 @@ export default {
             that.navigate(event, d)
           })
 
+          
+
           // Set the stroke width back to normal when mouse leaves the node.
           node.on('mouseout', function() {
+            
+            d3.select(this).selectAll('rect')
+              .transition()
+              .duration(100)
+              .attr("transform", "scale(1)")
             link.style('stroke', "#fff");
+
           });
 
         
