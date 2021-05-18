@@ -80,6 +80,7 @@ export default {
         { source: 'Animals-m', target: 'Animals-a', relation: 'text', value: 1 },
         { source: 'Animals-a', target: 'Animals-l', relation: 'text', value: 1 },
         { source: 'Animals-l', target: 'Animals-s', relation: 'text', value: 1 },
+        { source: 'Animals-s', target: 'Animals-A', relation: 'text', value: 1 },
         { source: 'Wup', target: 'as-a', relation: 'a', value: 1 },
         { source: 'as-a', target: 'as-s', relation: 'text', value: 1 },
         { source: 'as-a', target: 'as-s', relation: 'text', value: 1 },
@@ -91,12 +92,12 @@ export default {
         { source: 'Objects-c', target: 'Objects-t', relation: 'text', value: 1 },
         { source: 'Objects-t', target: 'Objects-s', relation: 'text', value: 1 },
         { source: 'Objects-s', target: 'Objects-?', relation: 'text', value: 1 },
-        // { source: 'Objects-?', target: 'Objects-j', relation: 'text', value: 1 },
-        // { source: 'Objects-t', target: 'Objects-O', relation: 'text', value: 1 },
-        // { source: 'Objects-b', target: 'Objects-s', relation: 'text', value: 1 },
-        // { source: 'Objects-e', target: 'Objects-O', relation: 'text', value: 1 },
-        // { source: 'Objects-j', target: 'Objects-O', relation: 'text', value: 1 },
-        // { source: 'Objects-?', target: 'Objects-e', relation: 'text', value: 1 },
+        { source: 'Objects-?', target: 'Objects-j', relation: 'text', value: 1 },
+        { source: 'Objects-t', target: 'Objects-O', relation: 'text', value: 1 },
+        { source: 'Objects-b', target: 'Objects-s', relation: 'text', value: 1 },
+        { source: 'Objects-e', target: 'Objects-O', relation: 'text', value: 1 },
+        { source: 'Objects-j', target: 'Objects-O', relation: 'text', value: 1 },
+        { source: 'Objects-?', target: 'Objects-e', relation: 'text', value: 1 },
       ],
     }
   },
@@ -145,7 +146,8 @@ export default {
         .attr('id', function(d) {
           return d.slug
         })
-        .call(this.drag(simulation));
+        .call(this.drag(simulation))
+        
 
         node.append("rect")
           // .attr("r", function(d) {
@@ -213,6 +215,7 @@ export default {
 
 
           node.on('mouseover', function(event, d) {
+           
             link.style('stroke', function(l) {
               if (d === l.source || d === l.target){
                 return "black";
@@ -220,7 +223,7 @@ export default {
               else {
                 return "#fff";
               }
-              });
+            });
           });
 
           node.on('click', function(event, d){
