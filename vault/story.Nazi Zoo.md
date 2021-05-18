@@ -1,11 +1,11 @@
 ---
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
-title: The Nazi Zoo
+title: Zoo and National Socialism
 desc: During 
-updated: 1620407377735
+updated: 1621369208956
 created: 1619020958263
 title_de: Der Zoo im Nationalsozialismus
-desc_de: Während der nationalsozialistischen Diktatur stellte die Zooleitung den Berliner Zoo in den Dienst des Regimes.
+desc_de: In der Zeit der nationalsozialistischen Diktatur biederten sich Zooleitung und Aufsichtsrat dem Regime an. Der Zoo wurde zu einem Propagandainstrument der Nationalsozialisten und schloss jüdische Besucher\*innen aus. Der Zoodirektor war mit der Elite des Regimes gut vernetzt. Während des Krieges wurden Zwangsarbeiter ausgebeutet.
 author: CMW
 tao_type: story
 cover_image: null
@@ -21,11 +21,7 @@ English content goes here.
 
 **Clemens Maier-Wolthausen**
 
-# Der Berliner Zoo in der Zeit des Nationalsozialismus
-
-*Summary*
-
->In der Zeit der nationalsozialistischen Diktatur biederten sich Zooleitung und Aufsichtsrat dem Regime an. Der Zoo wurde zu einem Propagandainstrument der Nationalsozialisten und schloss jüdische Besucher\*innen aus. Der Zoodirektor war mit der Elite des Regimes gut vernetzt. Während des Krieges wurden Zwangsarbeiter ausgebeutet.
+Nachdem Adolf Hitler am 30. Januar 1933 zum neuen Reichskanzler ernannt worden war, versuchte das neue Regime mit aller Macht sämtliche Gesellschaftsbereiche zu Durchdringen. Es ging ihm dabei um die Kontrolle im arbeitsrechtlichen, insbesondere aber im kulturellen und propagandistischen Sinn. Von dem Anspruch dieser umfassenden Kontrolle war auch der besucherstärkste Bildungs- und Freizeitbetrieb Berlins, der Zoologische Garten und sein Aquarium, nicht verschont. Dort trafen die Ansprüche der Nationalsozialisten und ihrer lokalen Vertreter, des Gauleiters der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP) Joseph Göbbels und des nationalsozialistischen preußischen Ministerpräsidenten [[material.Hermann Göring]] auf geöffnete Arme. Das lag nicht zuletzt an der Zooleitung und Mitgleidern des Aufsichtsrats.
 
 ## Die Familie Heck
 

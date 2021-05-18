@@ -2,10 +2,10 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching Animals
 desc: Put a description of this note here...
-updated: 1621268146598
+updated: 1621369712005
 created: 1618492547915
 title_de: Tierfang
-desc_de: Dieser Text bespricht Fangexpeditionen für Zoos
+desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen. Hinzu kamen von Zoos organisierte eigene Expeditionen und die Gelegenheitsgeschenke von Großwildjägern und Kolonialbeamten.
 author: CMW
 tao_type: story
 cover_image: null
@@ -18,10 +18,6 @@ published: false
 English content goes here.
 
 :::DE:::
-
-# Tiere fangen für den Zoo
-
-## Handel mit wilden Tieren
 
 Für den größten Teil der etwas mehr als 250 Jahre, in denen moderne Zoos existieren, wurden Tiere in allen Zoos weltweit vor allem direkt aus der Wildbahn entnommen. Das bedeutete, sie wurden in den Habitaten in denen sie geboren, oder in die sie migriert waren, durch Jäger gefangen, um dann in Europa ausgestellt zu werden.
 Die Jäger waren lokale Amateure oder Profis  oder aber auch speziell ausgesandte Jäger, die entweder von einer Firma bezahlt wurden oder auf eigene Rechnung die Tiere fingen und sie dann anboten.

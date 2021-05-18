@@ -2,10 +2,10 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1621001931189
+updated: 1621370113089
 created: 1618576718116
 title_de: Knut
-desc_de: Put a DE description of this note here...
+desc_de: Der 2006 geborene Eisbär "Knut" entwickelte einen bis dahin ungekannten Popularität eines einzelnen Zootiers. Medien und Zooleitung machten ihn zu einem 'Botschafter' der Klimakrise, die das Habitat der Eisbären bedrohte. Die starke Übertragung von Emotionen von Besucher\*innen und Fans in aller Welt auf das Tier wirkte über seinen Tod hinaus.
 author: CMW
 tao_type: story
 cover_image: null
@@ -21,22 +21,14 @@ English content goes here.
 
 **Clemens Maier-Wolthausen**
 
-# Rockstar "Knut"
-
-*Summary*
-
->Der im Winter 2006 geborene Eisbär "Knut" entwickelte eine bis dahin selten gesehenen Hype um Zootiere. Medien und Zooleitung machten ihn zu einem 'Botschafter' der Klimakrise, die das Habitat der Eisbären bedrohte. Mit diesem Status ging eine starke Übertragung von Emotionen von Besucher\*innen und Fans in aller Welt auf das Tier einher, die über seinen Tod hinaus wirkte.
-
-## A star is born!
-
 Am **5. Dezember 2006** gegen 15.00 Uhr brachte die Eisbärin "Tosca" zwei Jungtiere zur Welt. Nach kurzer Zeit stellte sich heraus, dass das Muttertier **keine Anzeichen einer pflegenden Fürsorge** zeigte. Eines der Jungtiere starb. Das andere aber wurde aus dem Gehege entfernt und wurde **erfolgreich mit der Flasche** versorgt.[^birth1]
 
 ![desc](images/cmw/Knut_March07_Griesbach.jpg)
 *Der junge "Knut" bei ersten Erkundungen eines Außengeheges, 2007. (AZGB, Foto Griesbach)*
 
-Eigentlich kein ungewöhnlicher Vorgang in Zoos. Aus verschiedenen Gründen wurde die Geschichte des Eisbärenjungen bald sehr bekannt. Einen großen Anteil hatten daran die Medien, insbesondre die lokale ARD-Anstalt **Rundfunk Berlin-Brandenburg** (RBB). **Diese informierte ihre Hörer\*innen täglich mit Nachrichten aus dem Zoo über den Zustand des kleinen Bären und die Beziehung zu dessen Pfleger Thomas Dörflein.** Dazu nutzte der RBB unter 'www.rbb-online.de/knut' das damals noch relativ neue Medium weines weblog/blog, um die Berliner\*innen über die Entwicklung des Eisbärenjungen zu informieren. Dieser hatte maßgeblichen Anteil an "Knuts" Popularität.[^star1]
+## A star is born!
 
-## Botschafter des Klimaschutzes
+Eigentlich kein ungewöhnlicher Vorgang in Zoos. Aus verschiedenen Gründen wurde die Geschichte des Eisbärenjungen bald sehr bekannt. Einen großen Anteil hatten daran die Medien, insbesondre die lokale ARD-Anstalt **Rundfunk Berlin-Brandenburg** (RBB). **Diese informierte ihre Hörer\*innen täglich mit Nachrichten aus dem Zoo über den Zustand des kleinen Bären und die Beziehung zu dessen Pfleger Thomas Dörflein.** Dazu nutzte der RBB unter 'www.rbb-online.de/knut' das damals noch relativ neue Medium weines weblog/blog, um die Berliner\*innen über die Entwicklung des Eisbärenjungen zu informieren. Dieser hatte maßgeblichen Anteil an "Knuts" Popularität.[^star1]
 
 Die beiden waren ein Team wie für die Medien gemacht. Hier die tapsige weiße Fellkugel, dort der kernige, bärtige und stille Pfleger, der bei seinem Pflegling einzog und ihm angeblich auf der Gitarre Lieder von Elvis Presley vorsang. 
 
@@ -44,6 +36,8 @@ Die beiden waren ein Team wie für die Medien gemacht. Hier die tapsige weiße F
 *Pfleger Thomas Dörflein und der nur wenige Monate alte "Knut", 2007. (AZGB, Foto Bröseke)*
 
 Aber weder dieses Traumpaar, noch die Geschichte der Geburt allein können den folgenden **"Hype" um "Knut"** nicht allein erklären.
+
+## Botschafter des Klimaschutzes
 
 ![desc](images/cmw/Dorflein_Gabriel_Blaszkiewitz_230307_Broseke.jpg)
 *Bundesumweltminister Sigmar Gabriel umrahmt von Thomas Dörflein, "Knut" und Direktor Bernhard Blaszkiewitz, 2007. (AZGB, Foto Bröseke)*

@@ -2,10 +2,10 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: How animals get into the zoo?
 desc: The various sources of animal objects for museums and zoos.
-updated: 1621358382501
+updated: 1621368497166
 created: 1618498026144
-title_de: Wie gelangen Tiere in den zoo?
-desc_de: Tiere und Tierobjekte kommen aus vielen unterschiedlichen Quellen.
+title_de: Wie gelangen Tiere in den Zoo?
+desc_de: Lebende Tiere für die Sammlungen des Zoologischen Gartens, Aquariums und Tierparks Berlin kamen und kommen aus unterschiedlichen Quellen. Diese haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen für diese Einrichtungen - politische, logistische und moralische.
 author: CMW
 tao_type: theme
 cover_image: null
@@ -20,11 +20,6 @@ English content goes here.
 :::DE:::
 
 **Clemens Maier-Wolthausen**
-
-# Wie kommen die Tiere in den Zoo?
-
-*Summary*
->Lebende und tote Tiere für die Sammlungen des Zoologischen Gartens, Aquariums und Tierparks Berlin kamen und kommen aus unterschiedlichen Quellen. Diese haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen für diese Einrichtungen - politische, logistische und moralische.
 
 Bei jeder Sammlung lebender Tiere, ob nun Tierpark, Wildgehege oder Zoologischer Garten, stellt sich die Frage, mit welchen Mitteln sie gefüllt wird. Wie kommen die Tiere in die Zoos? Daran schließen sich zwei wesentliche Fragen an:
 
