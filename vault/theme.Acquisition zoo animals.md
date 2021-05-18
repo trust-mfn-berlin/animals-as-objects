@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: How animals get into the zoo?
 desc: The various sources of animal objects for museums and zoos.
-updated: 1621342948233
+updated: 1621347113459
 created: 1618498026144
 title_de: Wie gelangen Tiere in den zoo?
 desc_de: Tiere und Tierobjekte kommen aus vielen unterschiedlichen Quellen.
@@ -21,27 +21,33 @@ English content goes here.
 
 **Clemens Maier-Wolthausen**
 
-# Wie kommen die Tiere in Zoo und Museum?
+# Wie kommen die Tiere in den Zoo?
 
 *Summary*
->Lebende und tote Tiere für die Sammlungen des Zoologischen Gartens, Aquariums und Tierparks Berlin und des Museums für Naturkunde kamen und kommen aus unterschiedlichen Quellen. Diese haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen für diese Einrichtungen - politische, logistische und moralische.
+>Lebende und tote Tiere für die Sammlungen des Zoologischen Gartens, Aquariums und Tierparks Berlin kamen und kommen aus unterschiedlichen Quellen. Diese haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen für diese Einrichtungen - politische, logistische und moralische.
 
-Bei jeder naturkundlichen Sammlung lebender oder präparierter Tiere stellt sich die Frage, mit welchen Mitteln sie gefüllt wird. Wie kommen die Tiere oder Spezimen in Zoos oder Naturkundemuseen? Daran schließen sich zwei wesentliche Fragen an:
+Bei jeder Sammlung lebender Tiere, ob nun Tierpark, Wildgehege oder Zoologischer Garten, stellt sich die Frage, mit welchen Mitteln sie gefüllt wird. Wie kommen die Tiere in die Zoos? Daran schließen sich zwei wesentliche Fragen an:
 
-* **Wer sammelt, fängt oder transportiert eigentlich die Spezimen, Felle, Gebeine, Präparate und lebenden Tiere in ein Museum oder einen Zoo?**
+* **Wer sammelt, fängt oder transportiert eigentlich die lebenden Tiere in einen Zoo?**
 
 und
 
-* **Wer entscheidet, was gesammelt wird?**
+* **Wer entscheidet, was gesammelt und ausgestellt wird?**
+
+Die Beantwortung dieser Fragen bündelt eine ganze Reihe wichtiger Themen rund um die Fragen von Wissenschaft, Haltungsbedingungen und Politik in allen Tiergärten.
 
 ## Tierquellen
 
-Eine Beantwortung dieser Fragen ist kompliziert. Sie betrifft Forschungszweige wie Wissensgeschichte, Institutionengeschichte der Zoos und Museen, die Wissenschaftsgeschichte der Taxonomie, der Ethologie, der Biologie und Zoologie sowie der Zoobiologie. Denn Präparate in Museen und Tiere in Zoos kommen aus unterschiedlichsten Quellen und sind mal durch Zufall, mal als Ergebnis langer Vorarbeit in die Institutionen gelangt. **Die Quellen der Tiere oder Tierobjekte unterlagen kontinuierlichen Änderungen und zu mancher Zeit waren die einen wichtiger, zu anderer eben andere.** Es gibt dennoch einige grundsätzliche Beobachtungen, die insbesondere im Abgleich der beiden Institutionen, Zoo und Museum, immer wieder auftauchen.
+Eine Beantwortung der oben aufgeworfenen Fragen ist kompliziert. Sie betrifft Forschungszweige wie Wissensgeschichte, Institutionengeschichte der Zoos, die Wissenschaftsgeschichte der Taxonomie, der Ethologie, der Biologie und Zoologie sowie der Zoobiologie. Denn Tiere in Zoos kommen aus unterschiedlichsten Quellen und sind mal durch Zufall, mal als Ergebnis langer Vorarbeit in die Institutionen gelangt. **Die Quellen der Tiere unterlagen Änderungen und zu mancher Zeit waren die einen wichtiger, zu anderer Zeit eben andere.** Manche Formen des Tiererwerbs oder der Tierakquise kamen erst spät in der mehr als 250jährigen Geschichte der modernen Zoos hinzu. Es gibt aber auch einige grundsätzliche Tierquellen, die kontinuierlich eine wichtige Rolle einnehmen. Es geht also um **Veränderungen und Kontinuitäten**.
 
-Da sind vor allem die beiden wichtigsten Quellen des Sammelns [[story.Collecting Specimen]] und Jagens [[story.Catching Animals]] im Feld, also in den Habitaten der Tiere. Museen und Zoos konnten sich zum Ende des 19. Jahrhunderts eines umfangreichen Netzwerks von professionellen Händlern ihrer Objekte aber auch engagierten Laiensammlern bedienen. Manchmal organisierten oder finanzierten sie sogar eigenen Expeditionen zur Beschaffung von Sammlungsobjekten - lebendig oder tot. [[story.Heck Expeditions]]
+Zur Zeit der Gründung der ersten - 'modern' oder wissenschaftlich' genannten - Zoologischen Gärten in Europa waren quasi alle dort ausgestellten Tiere sogenannte Wildfänge [[material.animals caught in the wild]] . Sie waren also in ihren Habitaten gejagt, gefangen und aus ihnen entfernt worden. 
 
 Hinzu kommt die über die Jahrhunderte konstant wichtige Quelle der Geschenke. [[story.Gifting Objects]] Insbesondere diese Quelle von Tieren hat in der Mehrheit der Fälle einen politischen Bezug oder ist in der einen oder anderen Form mit einer erwünschten Propagandawirkung verbunden. Auch die politische Geschichte - genauer die Geschichte der diplomatischen Beziehungen - kann daher die Fragen nach dem Ursprung der Tiere in Museen und Zoos beantworten. Denn die meisten Geschenke an Zoos und Naturkundemuseum waren nämlich diplomatische Geschenke fremder Herrscher und Regierungen. Hinzu kamen aber durchaus auch Geschenke von Bürgern des eigenen Landes, die selbst gefangene Tiere oder gesammelte Spezimen verschenkten.
 Im Museum naturgemäß von geringer Bedeutung, im Zoo seit dem Verbot des Handels mit gefährdeten Tier- und Pflanzenarten durch das Washingtoner Artenschutzabkommen aber um so wichtiger: die Zucht [[story.Breeding Animals for the Zoo]] eigener Tiere. Weltweite durch Forschung gewonnene Erkenntnisse um die Bedrohung der irdischen Pflanzen- und Tiervielfalt wurden ergänzt durch immer größeres Wissen um die Fortpflanzungsbiologie und die Voraussetzungen für die Aufzucht von Jungtieren gefangen gehaltener Zootiere.
+
+Museen und Zoos konnten sich zum Ende des 19. Jahrhunderts eines umfangreichen Netzwerks von professionellen Händlern ihrer Objekte aber auch engagierten Laiensammlern bedienen. Manchmal organisierten oder finanzierten sie sogar eigenen Expeditionen zur Beschaffung von Sammlungsobjekten - lebendig oder tot. [[story.Heck Expeditions]]
+
+
 
 ## Kosten und Logistik
 
