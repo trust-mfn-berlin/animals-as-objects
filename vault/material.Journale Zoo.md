@@ -1,10 +1,10 @@
 ---
 id: 4a663958-cb98-4cdd-967d-9b277f45cdc4
-title: "Journal" of the Zoo
+title: Journal of the Zoo
 desc: Journale register of the zoo stock for every year
-updated: 1621343522279
+updated: 1621346420345
 created: 1620987289214
-title_de: "Journale" des Zoos
+title_de: Journale des Zoos
 desc_de: In Journalen wird jedes Jahr festgehalten, welche Tiere in den Zoo kommen oder ihn verließen.
 author: CMW
 tao_type: material
