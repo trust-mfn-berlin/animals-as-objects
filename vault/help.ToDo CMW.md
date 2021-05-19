@@ -2,7 +2,7 @@
 id: 21ac115b-15e0-4af9-a4ed-fdd3d29c313d
 title: ToDo CMW
 desc: ''
-updated: 1621265449117
+updated: 1621373751791
 created: 1618495172862
 ---
 ## Empty Backlinks
@@ -13,7 +13,6 @@ created: 1618495172862
 * [[material.Lutz Heck]]
 * [[theme.Exhibiting]]
 * [[material.Heinrich Dathe]]
-* [[material.Heinz Heck]]
 * [[material.Heinz-Georg Klös]]
 * [[material.Paul Matschie]]
 * [[material.Hermann Pohle]]
@@ -61,8 +60,8 @@ created: 1618495172862
 
 ### Bilder MfN
 
-- [ ] Knut präpariert
-- [ ] Bobby präpariert
+- [x] Knut präpariert
+- [x] Bobby präpariert
 
 ## Todos the others
 
@@ -74,7 +73,8 @@ created: 1618495172862
 
 ### theme
 
-- [[theme.Acquisition]]
+
+
 ### story
 
 - [[story.Nazi Zoo]]
@@ -88,4 +88,7 @@ created: 1618495172862
 - [[material.Lutz Heck]]
 - [[material.Magdalena Heinroth]]
 - [[material.Katharina Heinroth]]
+- [[material.Bernhard Grzimek]]
+- [[material.Journale Zoo]]
+
 

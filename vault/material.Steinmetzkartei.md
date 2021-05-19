@@ -2,10 +2,10 @@
 id: 2a309087-f165-4def-9c60-d835c7218077
 title: The Steinmetz-index
 desc: Put a description of this note here...
-updated: 1620995842312
+updated: 1621373491301
 created: 1620987472118
 title_de: Die Steinmetz-Kartei
-desc_de: Put a DE description of this note here...
+desc_de: In dieser Kartei fasste ein ehemaliger Tierarzt zwischen 1930 und 1945 die Bestände des Berliner Zoos zusammen.
 author: CMW
 tao_type: material
 cover_image: null
@@ -17,8 +17,6 @@ published: false
 :::EN:::
 
 :::DE:::
-
-# Die "Steinmetz-Kartei"
 
 ![Karteikarte mit handschriftlichen Eintragungen](images\cmw\Kartei_Flusspferd1.jpg)
 _Karteikarte der 'Steinmetz-Kartei' zu Zwergflusspferden, um 1935. (AZGB)_

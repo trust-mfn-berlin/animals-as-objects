@@ -1,11 +1,11 @@
 ---
 id: 6526be8c-01f6-4c05-a41d-fae91b634ced
-title: Heck Expeditions
+title: Lutz Heck's Catching Expeditions
 desc: Put a description of this note here...
-updated: 1621348014481
+updated: 1621369943730
 created: 1619426293502
 title_de: Tierfangexpeditionen von Lutz Heck
-desc_de: Put a DE description of this note here...
+desc_de: Der spätere Zoodirektor Lutz Heck unternahm in den 1920er und 1930er Jahren Tierfang-Expeditionen für den Zoologischen Garten in Ostafrika und Kanada. Bei ersteren verknüpfte er das Ziel des Tierfangs mit kolonialromantischer Propaganda und nutzte die Expeditionen als Werbung für den Zoo und die eigene Person.
 author: CMW
 tao_type: story
 cover_image: null
@@ -19,14 +19,6 @@ English content goes here.
 :::DE:::
 
 **Clemens Maier-Wolthausen**
-
-# 'Heia Safari' - Lutz Heck auf Tierfang
-
-_Summary_
-
-> Der spätere Zoodirektor Lutz Heck unternahm in den 1920er und 1930er Jahren Tierfang-Expeditionen für den Zoologischen Garten in Ostafrika und Kanada. Bei ersteren verknüpfte er das Ziel des Tierfangs mit kolonialromantischer Propaganda und nutzte die Expeditionen als Werbung für den Zoo und die eigene Person.
-
-## Vorbilder
 
 Der spätere Direktor des Zoologischen Gartens Berlin [[material.Lutz Heck]] (1892-1983) war seit 1924 bei seinem Vater, dem Berliner Zoodirektor [[material.Ludwig Heck]] als Assistent angestellt. Auf seine Initiative sind die größeren Freigehege zurückzuführen. Um diese mit den bei den Besucher\*innen beliebten exotischen Wildtieren zu füllen unternahm er mehrfach Tierfangexpeditionen. Vorbilder für eine solche Reise fand er in den Erzählungen amerikanischer Kollegen, wie William Beebe oder William Mann, die für die Zoos in New York und Washington erfolgreich auf Tierfang gingen und diesen vor  allem sehr gut anschließend vermarkteten. Denn es ist wahrscheinlich, dass es Heck insbesondere darum ging, auch wenn er stets den eigentlichn Fangertrag und die Möglichkeit in der Wildbahn Beobachtungen machen zu können, die die Haltung zuhause fördern würden, als Gründe für die Reisen angab.
 Aber auch in Deutschland gab es literarische Vorbilder. Insbesondere der Jäger und Fotograf Carl Schillings, der auch schon für den Berliner Zoo Tiere gefangen hatte, war mit Lutz Heck persönlich bekannt und hatte mit seinen Reiserzählungen viel Erfolg.
