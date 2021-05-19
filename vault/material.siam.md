@@ -2,7 +2,7 @@
 id: 47ccdab9-37bd-4bc0-97ee-e342b66299f4
 title: Siam
 desc: Put a description of this note here...
-updated: 1621407093462
+updated: 1621411286782
 created: 1621324111928
 title_de: Stationen eines Elefanten
 desc_de: Put a DE description of this note here...
@@ -22,7 +22,7 @@ published: false
 #Stationen eines Elefanten 
 
 
-![Zeitungsartikel mit dem Titel Siam unter der Bandsäge, 1947](images\mv\Siam unter der Bandsäge-Telegraf 21.3.1947.jpg) 
+![Zeitungsartikel mit dem Titel Siam unter der Bandsäge, 1947]() 
 
 Abb. Zeitungsartikel „Siam unter der Bandsäge“, Telegraf, 21.3.1947.
 
