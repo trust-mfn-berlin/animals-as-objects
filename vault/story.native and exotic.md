@@ -2,7 +2,7 @@
 id: 5277f2fa-42b1-4bfa-8a6c-8f8c2117784e
 title: Native and Exotic
 desc: Put a description of this note here...
-updated: 1621439000491
+updated: 1621440905001
 created: 1620997389421
 title_de: Heimisch und Exotisch
 desc_de: Put a DE description of this note here...
@@ -32,98 +32,48 @@ In den folgenden Jahrzehnten bleiben die
 * was noch fehlt: Bezug zum Diskurs um einheimische vs. exotische Tiere; historischer Bezug 
 * @clemens Weimarer Republik: Tierhandel nimmt Fahrt auf, Elefantenpagode, nach dem Krieg: Tiergeschenke...
 
+* Neudefinition des Deutsch-Ostafrikanischen Nashorns? Fließende Definition dessen was 'deutsch' war? Nicht an den Tiergeografischen Gegebenheiten festgemacht?
+
 ## Tierkinder aus aller Welt
 
 Im Sommer 1931 organisierte der Berliner Zoo zum ersten Mal einen Tierkinderzoo - also eine Sonderschau mit Jungtieren verschiedener Tierarten, die durch Erwachsene aber auch Kinder gefüttert und gestreichelt werden konnten. Dieser wurde ein großer Erfolg. Gefüllt worden war er mit Jungtieren einheimischer
-Haustierrassen aber auch 'exotischeren' kleinen Raubtieren wie Bären- und Löwenjungen. Ziel der Zooleitung war offiziell, das Interesse der Kinder an Tieren insgesamt zu wecken. Stadtkinder sollten dadurch einen Teil der Natur, der ihnen mit der Urbanisierung entzogen worden war, zurückgewinnen. Dass diese Begegnungen zwischen Mensch und Tier heute nicht mehr dem Verständnis einer angemessenen Raubtierpflege entsprechen, spielte damals keine Rolle. Die Tiere kamen auch nicht aus dem Zoo selst. Dieser hätte gar nicht ausreichend Jungtiere gehabt. Sie wurden von der Tierhandelsfirma Ruhe zur geliefert gestellt, die sich dann mit dem Zoo die Einnahmen teilte. Es ist augenscheinlich, dass es vor allem um die Attraktion ging. Es scheint fast so, als hätte der Tierkinderzoo als eine Art Ersatz für die nun weniger populären und nicht mehr gewinnbringenden "Völkerschauen" gedient. Und in der Tat war der 'Tierkinderzoo' so erfolgreich, dass er in den folgenden Jahren mehrfach wiederholt wurde. [^tierkinder]
+Haustierrassen aber auch 'exotischeren' kleinen Raubtieren wie Bären- und Löwenjungen. 
 
-![desc](images\cmw\Tierkindergarten_1930er.jpg)
+![Junges Raubtier und junge Hausschweine und Schafe](images\cmw\Tierkindergarten_1930er.jpg)
+_Bild aus dem 'Tierkinderzoo', um 1933. (AZGB)_
 
-![desc](images\cmw\Tierkinderzoo_1936.jpg)
+Ziel der Zooleitung war offiziell, das Interesse der Kinder an Tieren insgesamt zu wecken. Stadtkinder sollten dadurch einen Teil der Natur, der ihnen mit der Urbanisierung entzogen worden war, zurückgewinnen. Dass diese Begegnungen zwischen Mensch und Tier heute nicht mehr dem Verständnis einer angemessenen Raubtierpflege entsprechen, spielte damals keine Rolle. Die Tiere kamen auch nicht aus dem Zoo selst. Dieser hätte gar nicht ausreichend Jungtiere gehabt. Sie wurden von der Tierhandelsfirma Ruhe zur geliefert gestellt, die sich dann mit dem Zoo die Einnahmen teilte. Es ist augenscheinlich, dass es vor allem um die Attraktion ging. Es scheint fast so, als hätte der Tierkinderzoo als eine Art Ersatz für die nun weniger populären und nicht mehr gewinnbringenden "Völkerschauen" gedient. Und in der Tat war der 'Tierkinderzoo' so erfolgreich, dass er in den folgenden Jahren mehrfach wiederholt wurde. [^tierkinder]
 
-Heute werden weder im Berliner Zoo noch in anderen deutschen Zoos Raubtiere in dieser Form ausgestellt. Möglicherweise standen aber die zwischen den 1950er und 1990er Jahren weit verbreiteten 'Löwenbaby-Fotografen' in der Tradition dieser Tierkinderzoos. [[story.lion babies]] Auch hier mussten 'exotische' Raubtiere und nicht einheimische Zicklein für die gestellten Fotografien herhalten. nach wie vor ist der Streichelzoo mit Haustieren wie Ziegen, Ponys und Schafen dennoch eine große Attraktion für junge Besucher\*innen.
+![Kleinkinder spilen in einem Kinderwagen mit jungen Raubkatzen](images\cmw\Tierkinderzoo_1936.jpg)
+_Bild des 'Tierkinderzoos' von 1936. (AZGB)_
+
+Heute werden weder im Berliner Zoo noch in anderen deutschen Zoos Raubtiere in dieser Form ausgestellt. Möglicherweise standen aber die zwischen den 1950er und 1990er Jahren weit verbreiteten 'Löwenbaby-Fotografen' in der Tradition dieser Tierkinderzoos. [[story.lion babies]] Auch hier mussten 'exotische' Raubtiere und nicht einheimische Zicklein für die gestellten Fotografien herhalten. nach wie vor ist der Streichelzoo mit Haustieren wie Ziegen, Ponys und Schafen dennoch eine große Attraktion für junge Besucher\*innen. Heute also nur noch einheimische und domestizierte Tierarten.
 
 ## Der Deutsche Zoo
 
 1888 hatte Ludwig Heck bereits eine »Vaterländische
 Sammlung« von einheimischen Tieren
 angelegt. Diese Tiere blieben aber über den gesamten
-Park hinweg verstreut. Schon 1901 gab es deshalb Pläne, die Sammlung an einem Ort
-zu vereinen. Im Juni 1934 gab Lutz Heck dem
-»Völkischen Beobachter«, der Parteizeitung der
-NSDAP, ein Interview. Darin rechtfertigte er die
-rassenbiologische Politik der Nationalsozialisten
-und lobte die neue »naturwissenschaftliche
-Regierung«, die mit ihrem »Führer« die Naturgesetze
-»staatspolitisch« umsetze. Und er plädierte
-für die Einrichtung eines »Deutschen Zoos«.
-Zunächst aber wolle er sich damit begnügen,
+Park hinweg verstreut. Schon 1901 gab es deshalb Pläne, die Sammlung an einem Ort zu vereinen. Im Juni 1934 gab Lutz Heck dem »Völkischen Beobachter«, der Parteizeitung der NSDAP, ein Interview. Darin applaudierte er der neuen nationalsozialistischen Regierung zu einer Politik, die "die Naturgesetze
+»staatspolitisch" umsetze. Und er warb
+für die Einrichtung eines "Deutschen Zoos". Also einer nach Herkunftsregion geordneten Zooabschnitts, der nur einheimische Tiere enthalten würde. Der Zoologische Garten Berlin war zu diesem Zeitpunkt als der 'systematische Zoo' schlechthin bekannt. Seine Bestände waren weitgehend nach taxonomischen Kriterien geordnet und folgten keiner geografischen Ordnung. Das neue Teilstück wäre also eine Abkehr von der bislang praktizierten Ordnung des ältesten deutschen Zoos gewesen.
+Zunächst aber wollte Lutz Heck sich damit begnügen,
 die Gehege einheimischer Tiere mit den Farben
 Schwarz-Weiß-Rot sowie der Hakenkreuzflagge
-zu kennzeichnen.33
-Im April 1935 trug Heck den Wunsch an das
-preußische Finanzministerium heran, ein mehr
-als zwei Hektar großes Erweiterungsgrundstück
-
-Im August 1935 erhielt der Berliner Zoo auf Initiative des Preußischen Ministerpräsidenten Hermann Göring eine Grundstückserweiterung an seinem nördlichen Rand.[^propa3] 
-
-Bereits im Jahr zuvor hatte der natiuonalsozialistische Zoodirektor [[material.Lutz Heck]] in einem Interview mit der nationalsozialistischen Zeitung 'Völkischer Beobachter' seine Idee eines nur einheimischen Tierarten gewidmeten Zooteils entwickelt.
+zu kennzeichnen.[^deutscherzoo1]
 
 ![Zeitungsartikel](images\cmw\Ztg_Deutscher_Zoo.jpg)
 _Artikel im 'Völkischen Beobachter' mit einem Interveiw von Lutz Heck, 09.06.1934_
 
+Noch fehlte es aber an Platz. Im August 1935 erhielt der Berliner Zoo auf Initiative des Preußischen Ministerpräsidenten Hermann Göring eine Grundstückserweiterung an seinem nördlichen Rand.[^propa3] 
 
-Zwischen
-und neben den bereits bestehenden Gehegen für
-Gämsen, Büffel, Robben und Adler wurden Gehege
-geschaffen, die ausschließlich mit »einheimischen
-Tieren« besetzt wurden. Der »Deutsche
-Zoo« brach mit dem ansonsten sorgsam gehüteten
-systematischen Aufbau des Zoologischen
-Gartens. Als einheitliche Landschaft geplant,
-war er dessen erster rein geografisch geordneter
-Bereich. Die schon bestehenden Rinderanlagen
-und das Schweinehaus wurden einbezogen.
-Auf der Rückseite des kleinen Adlerfelsens siedelte
-Heck in großen Gehegen Luchse,
-Wildkatzen
-und Füchse an. Dazu kamen ein Biber- und
-ein Fischotterbecken. Anlagen für Auerhühner
-und Birkhühner sowie ein Felsengehege für
+Zwischen und neben den bereits bestehenden Gehegen für Gämsen, Büffel, Robben und Adler wurden Gehege eschaffen, die ausschließlich mit 'einheimischen
+Tieren' besetzt wurden. Als einheitliche Landschaft geplant, war er dessen erster rein geografisch geordneter Bereich. Die schon bestehenden Rinderanlagen
+und das Schweinehaus wurden auch einbezogen. Auf der Rückseite des kleinen Adlerfelsens siedelte Heck in großen Gehegen Luchse, Wildkatzen und Füchse an. Dazu kamen ein Biber- und ein Fischotterbecken. Anlagen für Auerhühner und Birkhühner sowie ein Felsengehege für
 Bären und Wölfe an der nordwestlichen Seite
-vervollständigten den »Deutschen Zoo«.
-Am 14. Mai 1937 wurde mit dem Haustierstall und
-dem niederdeutschen Bauernhaus der erste
-Höhepunkt
-des »Deutschen Zoos« eröffnet. Hier
-sollte demonstriert werden, wie »innig« angeblich
-Mensch und Tier auf den »älteren deutschen
-Gehöften miteinander
-« gelebt hätten.
-Ihre Gehege
-waren wohl mit kleinen Hakenkreuzen gekennzeichnet.
-37 Ihnen wurden »primitive Rassen« aus
-dem Ausland gegenübergestellt.
-Neben den Braunbären wurde eine
-Anlage für ein weiteres »deutsches Raubtier«,
-den Wolf, angelegt. Beide neuen Freigehege waren
-wichtige Bestandteile des »Deutschen Zoos«.
-Südlich des »Deutschen Zoos« lag der alte,
-1899 eingeweihte Gämsenberg, der um ein künstliches
-Gebirgsgehege erweitert wurde. Dieses
-wurde 1939 mit Steinböcken eröffnet. An seinem
-Fuß lagen Steingärten mit mitteleuropäischer Gebirgsflora, versehen mit kleinen Freianlagen
-für Murmeltiere, Steinhühner und Salamander.
-Ein Forellenbach komplettierte das Ensemble.
-Das kleine Gebirge war raffiniert angelegt. Durch
-die vorgelagerten Gehege und die Bepflanzung
-war der umgebende Graben für Besucher nicht
-zu sehen, was das Gefühl verstärkte, die Tiere
-tatsächlich in einer echten Gebirgslandschaft zu
-beobachten.
-
-
-Neben "deutschen" Raubtieren wie dem Wolf und dem Bären wurden "deutsche Raubvögel" wie Adler und Bussard ausgestellt. Dass praktisch alle diese Tiere auch in Nachbarländern des Deutschen Reichs vorkamen, und einige, wie der Bär in Deutschland praktisch gar nicht mehr, spielte für den propagandistischen Effekt keine Rolle. 
+vervollständigten den 'Deutschen Zoo'.
+Hierzu gehörte auch eine besonders typisch empfundende Zooarchitektur. Diese war analog zu den exotisierenden Anlagen der Elefantenpagode, des Antilopen- und Giraffenhauses nun 'typisch deutsch'. Am 14. Mai 1937 wurde mit dem Haustierstall und einem 'niederdeutschen Bauernhaus' ein erster Abschnitt eröffnet. In diesem sollte auch propagandistisch verzerrt demonstriert werden, wie »innig« angeblich Mensch und Tier auf den "älteren deutschen Gehöften" miteinander gelebt hätten.[^deutscherzoo2]
+Hinzu kamen neue Anlagen für Braunbären und Wölfe. Ein Jahr später wurde südlich des 'Deutschen Zoos' im folgenden Jahr der alte, 1899 eingeweihte, Gämsenberg mit einem weiteren künstlichen Gebirgsgehege erweitert. Dieses wurde 1939 mit Steinböcken bestückt. Um dieses lagen kleine Steingärten mit mitteleuropäischer Gebirgsflora und Anlagen für unter anderem Murmeltiere oder Steinhühner und einem künstlichen Forellenbach. Dass praktisch alle diese Tiere auch in Nachbarländern des Deutschen Reichs vorkamen, und einige, wie der Bär in Deutschland praktisch gar nicht mehr, spielte für den propagandistischen Effekt keine Rolle. 
 
 ![Plan des Zoologischen Gartens](images\cmw\Zooplan_1937.jpg)
 _Plan des Zoologischen Gartens aus dem Wegweiser für 1937._
@@ -210,6 +160,10 @@ WEITER??
 [^lichtenstein2]: Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag: 29-31.
 
 [^tierkinder]: Schriftwechsel und Werbematerialien zum Tierkinderzoo in den Jahren 1931-1934 in AZGB, O 0/1/61, 138 und 201.
+
+[^deutscherzoo1]: »ch«: Der Wunschtraum: ein deutscher Zoo. Ein Gespräch mit Dr. Lutz Heck, in: Völkischer Beobachter, Berliner Ausgabe, 08. 06. 1934.
+
+[^deutscherzoo2]: Presseführung Haustierhof Pfingsten 1937, AZGB, O 0/1/15.
 
 [^propa3]: Schriftwechsel zur Übergabe der Fläche und der Fläche in: GStA PK I. HA, Rep 151, 2500; Niederschrift der Aufsichtsratssitzung 24.08.1935, in: GStA PK I. HA, Rep 151, 2496, Bl. 93-94.
 
