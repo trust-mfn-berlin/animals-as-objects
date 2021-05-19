@@ -2,11 +2,7 @@
 id: 6ec66c87-7008-405c-b223-7c14558b78d7
 title: Landwirtschaftliche Tiere
 desc: Put a description of this note here...
-<<<<<<< HEAD
-updated: 1621411981664
-=======
-updated: 1621411985896
->>>>>>> 5b55365b43d4c36fe3ae67d0d58b864000a2d0d0
+updated: 1621429720191
 created: 1621274646014
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -29,7 +25,11 @@ published: false
 
 Wer an Zoos denkt, dem fallen vermutlich zuerst Elefanten, Löwen oder Giraffen ein, aber Kühe, Schweine und Schafe? Obwohl Zoologische Gärten von Anfang an untrennbar mit exotischen Tieren verknüpft waren - häufig entstanden sie im 19. Jahrhundert aus fürstlichen oder königlichen Menagerien [[Pfaueninsel]] -, hatten sie in ihrer Geschichte doch immer wieder mit Nutztieren zu tun, nicht nur im Streichelzoo. Die Haltung und Zucht von Nutztieren rückt den Zoo näher an die Landwirtschaft - eine Verbindung, die sich mal als fruchtbare Verbindung, mal als Spannungsfeld erweisen konnte. Das Verhältnis von Zoos und/zu Nutztieren trifft daher mitten ins Herz der Frage, was einen Zoo eigentlich ausmacht und welche Tierarten auszustellen er als seine Aufgabe ansieht. 
 
-In Berlin geht die Praxis, Nutztiere im Zoo zu halten, zu züchten oder auszustellen, bis in der Gründungszeit des Zoologischen Gartens zurück.Bereits 18xxx, in der Denkschrift über einen in Berlin zu gründenden Zoologischen Garten, in der Martin Hinrich Lichtenstein, Zoologieprofessor der Berliner Universität, seine Ziele für einen zukünftigen Zoo formulierte, spielten Nutztiere eine Rolle. Neben der Bildung breiter Bevölkerungsschichten lag für ihn ein wichtiger Zweck eines Zoos auch in der "Vermehrung und Verbreitung schöner und nützlicher Tiere, die Veredlung unserer Haustiere, Rassen durch Kreuzung mit reinen ursprünglichen Arten".[^lichten] Diese Verbindung zur Landwirtschaft verschaffte dem Zoo einen Legitimationsgrund und machte ihn zum Teil jener Wissens- und Praxisfelder, die "nützliches Wissen" erzeugten und damit nicht zuletzt mehr von staatlichen Zuschüssen profitierten.
+In Berlin geht die Praxis, Nutztiere im Zoo zu halten, zu züchten oder auszustellen, bis in der Gründungszeit des Zoologischen Gartens zurück. Der Gründungsdirektor des Berliner Zoologischen Gartens Martin Hinrich Lichtenstein verfasste 1840  eine Denkschrift, die den damaligen preußischen Monarchen Friedrich Wilhelm IV. überzeugte, die Anlage eines Zoos bei Berlin anzuordnen. In dieser von Alexander von Humboldt dem König vorgelegten Schrift argumentierte Lichtenstein, dass der anzulegenden Garten nicht nur der 'Belustigung' und zur Bildung dienen sollte, sondern "die eigentliche Aufgabe solcher Anstalten [...] die Vermehrung und Verbreitung schöner und nützlicher Tiere, die Veredlung unserer Haustiere" sein würde. Diese könne zum Beispiel durch die "Kreuzung mit reinen ursprünglichen Arten" erfolgen.[^lichtenstein1] Es scheint, als habe Lichtenstein, Professor für Zoologie der noch jungen Berliner Universität, die Zucht von Nutztieren als eine wichtige Aufgabe des zu gründenden Zoos ansah. Auch möglich ist, dass Lichtenstein diesen Aspekt von der Schaulust, die er für andere Zoos konstatierte, geschickt abtrennte um einen potentiell skeptischen König von der Finanzierung eines kostspieligen Projekts zu überzeugen.
+
+<!-- Ich habe in AZGB, O 0/1/135 einen Entwurf der Gedanken gefunden. Ich kann Lichtenstein unmöglich lesen. Magst du draufgucken?-->
+
+Diese Verbindung zur Landwirtschaft verschaffte dem Zoo einen Legitimationsgrund und machte ihn zum Teil jener Wissens- und Praxisfelder, die "nützliches Wissen" erzeugten und damit nicht zuletzt mehr von staatlichen Zuschüssen profitierten.
  
 * wann wurde die Landwirtschaftliche Hochschule gegründet? Verbindungen zwischen Lichtenstein/der Friedrich-Wilhlems-Universität und der Landwirt. Hochschule?
 @clemens: haben wir von der Denkschrift nicht das Original? Liegt in der HAS. Und im Text sollte erwähnt werden, von wann die Denkschrift ist.
@@ -65,7 +65,7 @@ Renate Angermann: Die Säugetierkollektion des Museums für Naturkunde der Humbo
 
 ## Fußnoten
 
-[^lichten]: Zitiert nach Klös, Heinz-Georg. 1969. Von der Menagerie zum Tierparadies. 125 Jahre Zoo Berlin. Berlin: Haude & Spenersche Verlagsbuchhandlung: 28.
+[^lichtenstein1]: Martin Lichtenstein: Gedanken über die Errrichtung zoologischer Gärten bei Berlin, zitiert nach Klös, Heinz-Georg. 1969. Von der Menagerie zum Tierparadies. 125 Jahre Zoo Berlin. Berlin: Haude & Spenersche Verlagsbuchhandlung: 28.
 
 [^SpandauerForst11]: Katharina Heinroth an den Magistrat der Stadt Berlin, Abteilung für Ernährung, 20.3.1946, in: AZGB O 1/1/2.
 
