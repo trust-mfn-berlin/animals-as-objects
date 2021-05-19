@@ -2,7 +2,7 @@
 id: 5277f2fa-42b1-4bfa-8a6c-8f8c2117784e
 title: Native and Exotic
 desc: Put a description of this note here...
-updated: 1621440905001
+updated: 1621443214818
 created: 1620997389421
 title_de: Heimisch und Exotisch
 desc_de: Put a DE description of this note here...
@@ -33,6 +33,81 @@ In den folgenden Jahrzehnten bleiben die
 * @clemens Weimarer Republik: Tierhandel nimmt Fahrt auf, Elefantenpagode, nach dem Krieg: Tiergeschenke...
 
 * Neudefinition des Deutsch-Ostafrikanischen Nashorns? Fließende Definition dessen was 'deutsch' war? Nicht an den Tiergeografischen Gegebenheiten festgemacht?
+
+## Konkurrenz?
+
+Eine Reihe prominenter Berlinerinnen und Berliner, unter ihnen der Schriftsteller Alfred Döblin und die
+Künstlerin Käthe Kollwitz, riefen 1928 einen Verein zur Schaffung und Förderung eines "Volkstierparks" ins Leben und wandten sich mit einem Aufruf an die Öffentlichkeit.40 
+Antrieb für diese Initiative war neben einem persönlichen Interesse einzelner Akteuer und auch des Hamburger Zoo-Unternehmens Hagenbeck wohl vor allem der Anspruch dem 'elitären' und vor allem teuren Zoo in den Wohngebieten der Charlottenburgeer und Wilmersdorfer Bourgeoisie einen erschwinglichen Gegenentwurf gegenüber zu stellen. Der geplante Tierpark sollte im Osten Berlins mit einer vielfach größeren Fläche geschaffen werden und eher ein Wildgehege, besetzt mit Rot- und Damwild, Wildschweinen, Rehen und Fasanen, werden. Diese waren auch erschwinglich und hätten zumindest eine Besetzung der geplanten Gehege dargestellt.
+
+Nun war aber zumindest einigen Initiator\*innen klar, dass auf diese Weise keine große Sogwirkung auf die berliner\*innen erzielt werden würde. Ganz konnte man auf die Publikumslieblinge nicht verzichten. Aus diesem Grund sollten doch Robben, Eisbären, Pinguine gehalten und eine afrikanische Steppe für Gnus, Antilopen, Zebras sowie eine Vogelwiese für Kraniche, Flamingos, Störche gebaut werden. Hinzu sollten auch Freiflächen für Affen und eine Bärengrotte kommen.[^volkstierpark1]
+
+
+Die ersten Reaktionen in der Presse waren positiv. Nicht nur linksliberale, sondern auch konservative Zeitungen kommentierten die Pläne wohlwollend. Die »Deutsche Tageszeitung« vertrat die Ansicht, dass der Volkstierpark keine Konkurrenz werden
+müsse, sondern vor allem lokale Bedeutung im Ostteil der Stadt haben und eine Ergänzung zum Zoo bilden würde, weshalb eine Zusammenarbeit beider Institutionen eigentlich auf der Hand läge.42 Dann jedoch kursierten auf einmal Gerüchte, dass auch die Firma Hagenbeck wieder ihre Finger im Spiel habe und im Westen, südlich der Wilhelmstadt in der Nähe der S-Bahn an der einen Park wie bei
+Hamburg, aber noch größer (!), plane.43 Angeblich
+sollten dort Freiflächen für allein 120 Eisbären
+entstehen. Als ob das alles nicht genug wäre,
+wurde noch kolportiert, dass der Zoo selbst Pläne
+habe, sein Gelände an den westlichen Stadtrand
+zu verlegen.44 Dadurch würde er mehr Fläche und
+bessere Möglichkeiten zur weiteren Entwicklung
+bekommen, und der stetig wachsende Verkehr in
+der westlichen Innenstadt könnte so bald breitere
+Straßen rund um den Tiergarten nutzen.
+Tatsächlich war die Zahl der Autofahrer in den
+letzten Jahren stark gestiegen. Manch einer forderte,
+neue Straßen unmittelbar durch den Zoo
+zu ziehen.45 Spandauer Lokalpolitiker streuten
+diese Gerüchte eines neuen Zoos im Westen der
+Stadt.46 Womöglich wollten sie Ludwig Heck unter
+Druck setzen und die begehrte Freizeiteinrichtung
+in ihren Bezirk ziehen. Der Haus- und
+Grundbesitzverein Berlin Schmargendorf e. V.
+wandte sich seinerseits an die Zoodirektion und
+bot ihr das Gelände der ehemaligen Gasanstalt
+in Schmargendorf an, wohl in der Hoffnung, die
+Attraktivität des Ortsteils zu steigern.47 Auch
+das Bezirksamt Treptow beabsichtigte, mehrere
+Hektar Land zur Verfügung zu stellen.48 Das anvisierte
+Gelände wäre viermal so groß wie der
+damalige
+Zoo gewesen.
+Eine mögliche Beteiligung der Hamburger Kollegen
+des Tierparks Hagenbeck musste den Zoo
+beunruhigen. Lutz Heck und der Verwaltungsdirektor
+Ammon gingen auf geheime Mission
+nach Norden. Offiziell in Stellingen, um neue Tiere
+für die Freianlagen auszuwählen, sollten sie die
+Pläne der Hagenbecks ausspionieren. Während
+Lutz Heck die Tiere begutachtete, sprach Ammon
+mit Heinrich Hagenbeck. Dieser versicherte
+Ammon,
+dass die Presseberichte nicht wahr wären.
+Ammon wies ihn sicherheitshalber darauf hin,
+dass so ein Projekt die Geschäftsbeziehungen mit
+dem Zoo ernsthaft schädigen würde.49
+Ludwig Heck startete unterdessen eine
+Kampagne mit Zeitungsartikeln, in denen er
+seine
+Idee seines Zoologischen Gartens vertrat.
+Pressevertretern
+gegenüber hob er Ende 1929 die
+Zuchterfolge des Zoos hervor, verteidigte die systematische
+Sammlung und betonte den künstlerisch-
+architektonischen Wert der Zoobauten.
+Als wichtigstes Argument aber wies er auf die immensen
+Kosten der Errichtung und Unterhaltung
+eines so großen Tierparks hin, die am Ende zu den
+gleichen Eintrittspreisen wie beim existierenden
+Zoo führen würden. Auch habe die Stadt Berlin
+nicht genügend Besucher für gleich zwei zoologische
+Institutionen.50 Allerdings musste der Zoo
+seinen Kritikern auch entgegenkommen und bot
+an, dabei behilflich zu sein, in öffentlichen Parks
+und Forsten Gehege für einheimisches Wild einzurichten.
+So könne die Naturverbundenheit
+breiter Bevölkerungsschichten gefördert werden.
 
 ## Tierkinder aus aller Welt
 
@@ -151,13 +226,19 @@ Soweit bekannt ist, musste Dathe die Tiere aber nicht annehmen.
 
 WEITER??
 
-## Aufteilung TP : Zoo
+## Tierpark und Zoo nach der Wende - Hirschpark und Exotenmenagerie?
 
+Als 1990/91 die Zukunft des Tierparks im vereinten Berlin diskutiert wurde gab es Befürchtungen auf Seiten der vielen Freund\*innen des Tierparks, dass der West-Berliner zoologische Garten sich an den 'exotischen' Tieren des Tierparks bereichern und diesen in einen 'Hierschpark' mit ausschließlich einheimischen Huftieren verwandeln wollen würde. Grund für diese Ängste waren die Vorschläge, die Zoomitarbeiter und -Leitung dem Senat von Berlin über eine zukünftige Zusammenarbeit der beiden Gärten machten. Angesicts des teilweise desaströßen Zustands einiger der Gehege und Gebäude schlugen sie vor, die in Ost-Berlin mit Stolz betrachtete 'Schlangenfarm' des Tierparks zu schließen und die Tiere in das Zoo-Aquarium zu überführen, auch sollten die meisten Menschenaffen umgesiedelt werden.[^zootp1] Die Ängste mögen begründet gewesen sein, interessant aber ist, dass man sich auch im West-Berliner Zoo im klaren war, dass der Tierpark, nicht ohne 'exotische' Tiere bestehen würde und die Politik hatte sehr schnell klar gestellt, dass eine Schließung des Tierparks nicht zur Debatte stand. 
+Zookurator Bernhard Blaszkiewitz entwarf in seinen "Überlegungen zur Beziehung Zoologischer Garten Berlin / Tierpark Berlin" ein aus Sicht des Zoos sinnvolles Konzept. Beide Parks sollten unterscheidbar und individuell sein, sich aber auch sich gegenseitig er-gänzen. Aber er schrieb auch, dass "Muß-Tiere", also Tiere, die Zoobesucherinnen und -besucher immer erwarten, - wie Elefanten, Giraffen, Zebras, Löwen oder Tiger in beiden Zoos Besucherinnen und Besucher anziehen sollten. Um dennoch Synergien aus dem Vorhandensein zweier Zoos zu ziehen, sollten diese 'Stars' in den beiden Tiergärten in verschiedenen Unterarten gezeigt werden. Der Zoo konnte, so die Überlegung, zum Beispiel nur noch asiatische Elefanten zeigen, der Tierpark dann afrikanische. Die Unterarten der Bären, Giraffen oder Hirsche könnten aufgeteilt werden wie die der Nashörner sollten. Im Tierpark sollte man sich auf Breitmaulnashörner konzentrieren, der Zoo könnte dann Spitzmaul oder Panzernashörner halten.[^zootp2]
+Es ist fraglich ob 'Nashorn-Enthusiast\*innen' dann beide Tiergärten besucht hätten, um beide Arten zu sehen, die Episode verdeutlicht aber, dass allen Beteiligten klar war, dass der Tierpark ohne die von den Besucher\*innen als besonders schauwertig angesehenen 'Exoten' auskommen würde.
 
 ---
 ## Footnotes
 
 [^lichtenstein2]: Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag: 29-31.
+
+[^volkstierpark1]: Aufruf und Korrespondenz in AZGB O 0/1/81 und LAB A Rep. 001-002, Nr. 899. Vgl. auch Franz Schirner: Sind zwei Berliner Zoologische Gärten
+das Richtige?, in: Neue Zeit, 11. 09. 1929.
 
 [^tierkinder]: Schriftwechsel und Werbematerialien zum Tierkinderzoo in den Jahren 1931-1934 in AZGB, O 0/1/61, 138 und 201.
 
@@ -199,7 +280,7 @@ WEITER??
 
 [^SpandauerForst13]: ~~19.3.1946... . xxx~~
 
-[^SpandauerForst14]: Katharina Heinroth an den Magistrat der Stadt Berlin, 28.6.1946, in: AZGB O 1/1/2. 
+[^SpandauerForst14]: Katharina Heinroth an den Magistrat der Stadt Berlin, 28.6.1946, in: AZGB O 1/1/2.
 
 [^SpandauerForst15]: Aktien-Verein des Zool. Gartens zu Berlin: Geschäftsbericht für 1947, erstattet in der 75. ordentlichen Hauptversammlung am 35.4.1949, in: AZGB N/4/2.
 
@@ -208,3 +289,7 @@ WEITER??
 [^SpandauerForst17]: Tier-Inventur am 31. Dezember 1951, in: AZGB O 0/2/29.
 
 [^SpandauerForst18]: Vgl. Geschäftsbericht des Actien-Vereins des Zoologischen Gartens 1951, in: AZGB N/4/2.
+
+[^zootp1]: Vgl. Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag: 220-228.
+
+[^zootp2]: B. Blaszkiewitz: Überlegungen zur Beziehung Zoologischer Garten Berlin / Tierpark Berlin, 07.10.1990 AZGB O 0/1/375.
