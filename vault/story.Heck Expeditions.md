@@ -2,7 +2,7 @@
 id: 6526be8c-01f6-4c05-a41d-fae91b634ced
 title: Lutz Heck's Catching Expeditions
 desc: Put a description of this note here...
-updated: 1621436943074
+updated: 1621437085944
 created: 1619426293502
 title_de: Tierfangexpeditionen von Lutz Heck
 desc_de: Der spätere Zoodirektor Lutz Heck unternahm in den 1920er und 1930er Jahren Tierfang-Expeditionen für den Zoologischen Garten in Ostafrika und Kanada. Bei ersteren verknüpfte er das Ziel des Tierfangs mit kolonialromantischer Propaganda und nutzte die Expeditionen als Werbung für den Zoo und die eigene Person.

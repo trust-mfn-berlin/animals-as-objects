@@ -2,7 +2,7 @@
 id: 5277f2fa-42b1-4bfa-8a6c-8f8c2117784e
 title: Native and Exotic
 desc: Put a description of this note here...
-updated: 1621436032973
+updated: 1621439000491
 created: 1620997389421
 title_de: Heimisch und Exotisch
 desc_de: Put a DE description of this note here...
@@ -34,11 +34,14 @@ In den folgenden Jahrzehnten bleiben die
 
 ## Tierkinder aus aller Welt
 
-Im Sommer 1931 organisierte der Berliner Zoo zum ersten Mal einen Tierkinderzoo, der bald zur Attraktion wurde. Von Jungtieren einheimischer
-Haustierrassen bis hin zu exotischeren kleinen Raubtieren wie die Bären- und Löwenjungen konnten Kinder diese berühren und füttern. So wollte die Zooleitung zum einen das Interesse der Kinder an Tieren wecken, zum anderen erwartete sie sich hierdurch auch höhere Besucherzahlen und damit Mehreinnahmen. Es scheint fast so, als hätte der Tierkinderzoo als eine Art Ersatz für die nun weniger populären und nicht mehr gewinnbringenden "Völkerschauen" gedient. 
-Vor allem aber sollten
-Kinder ihre Distanz zu den Tieren überbrücken, und insbesondere Stadtkinder sollten dadurch einen Teil der Natur, der ihnen mit der Urbanisierung entzogen worden war, zurückgewinnen. Dass diese Begegnungen zwischen Mensch und Tier heute nicht mehr dem Verständnis einer angemessenen Raubtierpflege entsprechen, spielte damals keine Rolle. Die Tiere hierzu kamen offensichtlich nicht aus dem Zoo; dieser hatte gar nicht ausreichend Jungtiere. Sie wurden von der Tierhandelsfirma Ruhe zur Verfügung gestellt, die sich dann mit dem Zoo die Einnahmen teilte. Diese waren so hoch, dass der Tierkinderzoo mehrfach verlängert wurde.53 Auch in anderen deutschen Zoos wurden zu dieser Zeit Tierkinder-Schauen gezeigt. Heute
-werden weder im Berliner Zoo noch in anderen deutschen Zoos Raubtiere in dieser Form ausgestellt. Wohl aber ist der Streichelzoo mit Haustieren wie Ziegen, Ponys und Schafen weiterhin eine große Attraktion für kleine Zoogäste, die hier Tiere ganz nah erleben und nebenbei die heimische Fauna spielerisch kennenlernen können.
+Im Sommer 1931 organisierte der Berliner Zoo zum ersten Mal einen Tierkinderzoo - also eine Sonderschau mit Jungtieren verschiedener Tierarten, die durch Erwachsene aber auch Kinder gefüttert und gestreichelt werden konnten. Dieser wurde ein großer Erfolg. Gefüllt worden war er mit Jungtieren einheimischer
+Haustierrassen aber auch 'exotischeren' kleinen Raubtieren wie Bären- und Löwenjungen. Ziel der Zooleitung war offiziell, das Interesse der Kinder an Tieren insgesamt zu wecken. Stadtkinder sollten dadurch einen Teil der Natur, der ihnen mit der Urbanisierung entzogen worden war, zurückgewinnen. Dass diese Begegnungen zwischen Mensch und Tier heute nicht mehr dem Verständnis einer angemessenen Raubtierpflege entsprechen, spielte damals keine Rolle. Die Tiere kamen auch nicht aus dem Zoo selst. Dieser hätte gar nicht ausreichend Jungtiere gehabt. Sie wurden von der Tierhandelsfirma Ruhe zur geliefert gestellt, die sich dann mit dem Zoo die Einnahmen teilte. Es ist augenscheinlich, dass es vor allem um die Attraktion ging. Es scheint fast so, als hätte der Tierkinderzoo als eine Art Ersatz für die nun weniger populären und nicht mehr gewinnbringenden "Völkerschauen" gedient. Und in der Tat war der 'Tierkinderzoo' so erfolgreich, dass er in den folgenden Jahren mehrfach wiederholt wurde. [^tierkinder]
+
+![desc](images\cmw\Tierkindergarten_1930er.jpg)
+
+![desc](images\cmw\Tierkinderzoo_1936.jpg)
+
+Heute werden weder im Berliner Zoo noch in anderen deutschen Zoos Raubtiere in dieser Form ausgestellt. Möglicherweise standen aber die zwischen den 1950er und 1990er Jahren weit verbreiteten 'Löwenbaby-Fotografen' in der Tradition dieser Tierkinderzoos. [[story.lion babies]] Auch hier mussten 'exotische' Raubtiere und nicht einheimische Zicklein für die gestellten Fotografien herhalten. nach wie vor ist der Streichelzoo mit Haustieren wie Ziegen, Ponys und Schafen dennoch eine große Attraktion für junge Besucher\*innen.
 
 ## Der Deutsche Zoo
 
@@ -205,6 +208,8 @@ WEITER??
 ## Footnotes
 
 [^lichtenstein2]: Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag: 29-31.
+
+[^tierkinder]: Schriftwechsel und Werbematerialien zum Tierkinderzoo in den Jahren 1931-1934 in AZGB, O 0/1/61, 138 und 201.
 
 [^propa3]: Schriftwechsel zur Übergabe der Fläche und der Fläche in: GStA PK I. HA, Rep 151, 2500; Niederschrift der Aufsichtsratssitzung 24.08.1935, in: GStA PK I. HA, Rep 151, 2496, Bl. 93-94.
 
