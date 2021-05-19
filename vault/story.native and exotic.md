@@ -2,7 +2,7 @@
 id: 5277f2fa-42b1-4bfa-8a6c-8f8c2117784e
 title: Native and Exotic
 desc: Put a description of this note here...
-updated: 1621443214818
+updated: 1621443623442
 created: 1620997389421
 title_de: Heimisch und Exotisch
 desc_de: Put a DE description of this note here...
@@ -37,77 +37,8 @@ In den folgenden Jahrzehnten bleiben die
 ## Konkurrenz?
 
 Eine Reihe prominenter Berlinerinnen und Berliner, unter ihnen der Schriftsteller Alfred Döblin und die
-Künstlerin Käthe Kollwitz, riefen 1928 einen Verein zur Schaffung und Förderung eines "Volkstierparks" ins Leben und wandten sich mit einem Aufruf an die Öffentlichkeit.40 
-Antrieb für diese Initiative war neben einem persönlichen Interesse einzelner Akteuer und auch des Hamburger Zoo-Unternehmens Hagenbeck wohl vor allem der Anspruch dem 'elitären' und vor allem teuren Zoo in den Wohngebieten der Charlottenburgeer und Wilmersdorfer Bourgeoisie einen erschwinglichen Gegenentwurf gegenüber zu stellen. Der geplante Tierpark sollte im Osten Berlins mit einer vielfach größeren Fläche geschaffen werden und eher ein Wildgehege, besetzt mit Rot- und Damwild, Wildschweinen, Rehen und Fasanen, werden. Diese waren auch erschwinglich und hätten zumindest eine Besetzung der geplanten Gehege dargestellt.
-
-Nun war aber zumindest einigen Initiator\*innen klar, dass auf diese Weise keine große Sogwirkung auf die berliner\*innen erzielt werden würde. Ganz konnte man auf die Publikumslieblinge nicht verzichten. Aus diesem Grund sollten doch Robben, Eisbären, Pinguine gehalten und eine afrikanische Steppe für Gnus, Antilopen, Zebras sowie eine Vogelwiese für Kraniche, Flamingos, Störche gebaut werden. Hinzu sollten auch Freiflächen für Affen und eine Bärengrotte kommen.[^volkstierpark1]
-
-
-Die ersten Reaktionen in der Presse waren positiv. Nicht nur linksliberale, sondern auch konservative Zeitungen kommentierten die Pläne wohlwollend. Die »Deutsche Tageszeitung« vertrat die Ansicht, dass der Volkstierpark keine Konkurrenz werden
-müsse, sondern vor allem lokale Bedeutung im Ostteil der Stadt haben und eine Ergänzung zum Zoo bilden würde, weshalb eine Zusammenarbeit beider Institutionen eigentlich auf der Hand läge.42 Dann jedoch kursierten auf einmal Gerüchte, dass auch die Firma Hagenbeck wieder ihre Finger im Spiel habe und im Westen, südlich der Wilhelmstadt in der Nähe der S-Bahn an der einen Park wie bei
-Hamburg, aber noch größer (!), plane.43 Angeblich
-sollten dort Freiflächen für allein 120 Eisbären
-entstehen. Als ob das alles nicht genug wäre,
-wurde noch kolportiert, dass der Zoo selbst Pläne
-habe, sein Gelände an den westlichen Stadtrand
-zu verlegen.44 Dadurch würde er mehr Fläche und
-bessere Möglichkeiten zur weiteren Entwicklung
-bekommen, und der stetig wachsende Verkehr in
-der westlichen Innenstadt könnte so bald breitere
-Straßen rund um den Tiergarten nutzen.
-Tatsächlich war die Zahl der Autofahrer in den
-letzten Jahren stark gestiegen. Manch einer forderte,
-neue Straßen unmittelbar durch den Zoo
-zu ziehen.45 Spandauer Lokalpolitiker streuten
-diese Gerüchte eines neuen Zoos im Westen der
-Stadt.46 Womöglich wollten sie Ludwig Heck unter
-Druck setzen und die begehrte Freizeiteinrichtung
-in ihren Bezirk ziehen. Der Haus- und
-Grundbesitzverein Berlin Schmargendorf e. V.
-wandte sich seinerseits an die Zoodirektion und
-bot ihr das Gelände der ehemaligen Gasanstalt
-in Schmargendorf an, wohl in der Hoffnung, die
-Attraktivität des Ortsteils zu steigern.47 Auch
-das Bezirksamt Treptow beabsichtigte, mehrere
-Hektar Land zur Verfügung zu stellen.48 Das anvisierte
-Gelände wäre viermal so groß wie der
-damalige
-Zoo gewesen.
-Eine mögliche Beteiligung der Hamburger Kollegen
-des Tierparks Hagenbeck musste den Zoo
-beunruhigen. Lutz Heck und der Verwaltungsdirektor
-Ammon gingen auf geheime Mission
-nach Norden. Offiziell in Stellingen, um neue Tiere
-für die Freianlagen auszuwählen, sollten sie die
-Pläne der Hagenbecks ausspionieren. Während
-Lutz Heck die Tiere begutachtete, sprach Ammon
-mit Heinrich Hagenbeck. Dieser versicherte
-Ammon,
-dass die Presseberichte nicht wahr wären.
-Ammon wies ihn sicherheitshalber darauf hin,
-dass so ein Projekt die Geschäftsbeziehungen mit
-dem Zoo ernsthaft schädigen würde.49
-Ludwig Heck startete unterdessen eine
-Kampagne mit Zeitungsartikeln, in denen er
-seine
-Idee seines Zoologischen Gartens vertrat.
-Pressevertretern
-gegenüber hob er Ende 1929 die
-Zuchterfolge des Zoos hervor, verteidigte die systematische
-Sammlung und betonte den künstlerisch-
-architektonischen Wert der Zoobauten.
-Als wichtigstes Argument aber wies er auf die immensen
-Kosten der Errichtung und Unterhaltung
-eines so großen Tierparks hin, die am Ende zu den
-gleichen Eintrittspreisen wie beim existierenden
-Zoo führen würden. Auch habe die Stadt Berlin
-nicht genügend Besucher für gleich zwei zoologische
-Institutionen.50 Allerdings musste der Zoo
-seinen Kritikern auch entgegenkommen und bot
-an, dabei behilflich zu sein, in öffentlichen Parks
-und Forsten Gehege für einheimisches Wild einzurichten.
-So könne die Naturverbundenheit
-breiter Bevölkerungsschichten gefördert werden.
+Künstlerin Käthe Kollwitz, riefen 1928 einen Verein zur Schaffung und Förderung eines "Volkstierparks" ins Leben und wandten sich mit einem Aufruf an die Öffentlichkeit. Antrieb für diese Initiative war neben einem persönlichen Interesse einzelner Akteuer und auch des Hamburger Zoo-Unternehmens Hagenbeck wohl vor allem der Anspruch dem 'elitären' und vor allem teuren Zoo in den Wohngebieten der Charlottenburgeer und Wilmersdorfer Bourgeoisie einen erschwinglichen Gegenentwurf gegenüber zu stellen. Der geplante Tierpark sollte im Osten Berlins mit einer vielfach größeren Fläche geschaffen werden und eher ein Wildgehege, besetzt mit Rot- und Damwild, Wildschweinen, Rehen und Fasanen, werden. Diese waren auch erschwinglich und hätten zumindest eine Besetzung der geplanten Gehege dargestellt. Nun war aber zumindest einigen Initiator\*innen klar, dass auf diese Weise keine große Sogwirkung auf die berliner\*innen erzielt werden würde. Ganz konnte man auf die Publikumslieblinge nicht verzichten. Aus diesem Grund sollten doch Robben, Eisbären, Pinguine gehalten und eine afrikanische Steppe für Gnus, Antilopen, Zebras sowie eine Vogelwiese für Kraniche, Flamingos, Störche gebaut werden. Hinzu sollten auch Freiflächen für Affen und eine Bärengrotte kommen.[^volkstierpark1]
+Aus dem geplanten zweiten Zoo wurde nichts. Zum einen arbeitete Zoodirektor [[material.Ludwig Heck]] energisch öffentlich und unter der hand gegen das Projekt, möglicherweise aber war vor allem der Anspruch an die  Vielzahl der zu zeigenden Arten finaziell in dieser wirtschaftlich angespannten Zeit nicht zu schaffen. Ein Wildpark aus ausschließlich einheimischen Huftieren, ergänzt durch einige andere beliebte - auch exotische - Tierarten hätte sich möglicherweise realisieren lassen. das Beispiel zeigt aber auch, dass die geplante Zoogründung mit einer bereits sehr etablierten Erwartungshaltung des Publikums rechnete, welches sich in der Großstadt mit einer langen Zootradition nicht mit 'weniger' als den 'exotischen' Stars begnügt hätte.
 
 ## Tierkinder aus aller Welt
 
