@@ -2,7 +2,7 @@
 id: 5277f2fa-42b1-4bfa-8a6c-8f8c2117784e
 title: Native and Exotic
 desc: Put a description of this note here...
-updated: 1621430590831
+updated: 1621433734839
 created: 1620997389421
 title_de: Heimisch und Exotisch
 desc_de: Put a DE description of this note here...
@@ -53,6 +53,15 @@ Das Kronjuwel des "Deutschen Zoos" war aber das Gehege für eine besondere Rinde
 Eines der Rinder, die aus den Rückzüchtungen Lutz Hecks hervorgingen, um 1930. (AZGB)
 
 Lutz Heck ging es darum, ein deutsches Urtier zu erschaffen, das "als echtes Symbol deutscher Kraft und deutschen Mutes" gelten sollte.[^propa5] Er verwies in seinen Veröffentlichungen immer wieder auf das Nibelungenlied, in dem auch Siegfrieds Jagd auf Auerochsen besungen wird.[^propa6] Den Auerochsen aber haben die Brüder Heck nicht wieder zum Leben erwecken. Es fehlte ihnen an genetischem Material, sie versuchten sich in einer sogenannten Abbildzüchtung in der lediglich die äußerlichen Merkmale einer Tierart näherungsweise reproduziert werden. Der Versuch galt vielen Kollegen schon damals und gilt auch heute weithin als unwissenschaftlich. Propagandistisch aber konnte Heck seine "Auerochsen" ausschlachten und sich auch mit den Rindern den Nationalsozialisten anbiedern.
+
+Interessant ist, dass bis auf die Ausgabe von XXXX kein einziges einheimisches Tier die Titelseite des 'Wegweisers durch den Zoologischen Garten' schmückte und dieser war schon seit mehr als 100 Jahren in Deutschland und Österreich ausgestorben.
+
+@clemens cover prüfen
+
+Eine kursorische Durchsicht der Titelseiten der 'Wegweiser' über die Nachkriegsjahre bis etwa 2010 ergibt, ... Zwischen 1985 und 2010 erschien nicht ein einheimisches Tier als Werbung für den Garten und mit dem Eisbären nur ein in Europa heimisches Tier.[^wegweiser]
+
+Diente der 'Deutsche Zoo' womöglich nur als eine mit den tiergärtnerischen Ambitionen des Zoodirektors leicht zu vereinbarende Propagandaschau aber war man sich in der Zooleitung eigentlich bewusst, dass bis auf Adler, Wolf und Bär die einheimischen Arten die besucher\*innen nicht begeistern würden? 
+Die umfangreiche Hirschsammlung mochte der Stolz der Zoodleitungen sein, die Besucher\*innen wurden vor allem durch die 'wilden' und 'exotischen' Tiere angezogen. Dam- und Rotwild, Wildschweine und Biber kannten sie aus der Umgebung  oder aber aus den zahlreichen Gehegen in Parks.
 
 Im besetzten Warschau hingegen sollten die Menschen nach Ansicht der deutschen Besatzer keinen Zoo mehr haben. Die begehrten und schauwertigen Tiere wie Elefanten oder auch Wisente wurden unter Leitung des Berliner Zoodirektors Lutz Heck in deutsche Zoos überführt. Den Restbestand töteten Einheiten der SS im Rahmen eines großen Trinkgelages in ihren Gehegen. Dem
 Zoodirektor Han Zabinski wurde befohlen, auf dem Gelände des Tiergartens Futtermittel anzubauen und eine Schweinezucht einzurichten.[^warschau1]
@@ -120,6 +129,8 @@ WEITER??
 [^lichtenstein2]: Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag: 29-31.
 
 [^propa3]: Schriftwechsel zur Übergabe der Fläche und der Fläche in: GStA PK I. HA, Rep 151, 2500; Niederschrift der Aufsichtsratssitzung 24.08.1935, in: GStA PK I. HA, Rep 151, 2496, Bl. 93-94.
+
+[^wegweiser]: Blaszkiewitz, Bernhard. 2011. „Die Titel der Zooführer des Zoologischen Gartens Berlin 1985-2010“. Bongo 41: 5–16.
 
 [^warschau1]: Gary Bruce: Through the Lion Gate. A History of the Berlin Zoo, Oxford 2017, S. 164 mit Berufung auf die Memoiren der Ehefrau des Zoodirektors Antonina Zabinska, S. 164.
 
