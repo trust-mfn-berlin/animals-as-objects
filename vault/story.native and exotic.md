@@ -2,7 +2,7 @@
 id: 5277f2fa-42b1-4bfa-8a6c-8f8c2117784e
 title: Native and Exotic
 desc: Put a description of this note here...
-updated: 1621433734839
+updated: 1621436032973
 created: 1620997389421
 title_de: Heimisch und Exotisch
 desc_de: Put a DE description of this note here...
@@ -32,7 +32,35 @@ In den folgenden Jahrzehnten bleiben die
 * was noch fehlt: Bezug zum Diskurs um einheimische vs. exotische Tiere; historischer Bezug 
 * @clemens Weimarer Republik: Tierhandel nimmt Fahrt auf, Elefantenpagode, nach dem Krieg: Tiergeschenke...
 
+## Tierkinder aus aller Welt
+
+Im Sommer 1931 organisierte der Berliner Zoo zum ersten Mal einen Tierkinderzoo, der bald zur Attraktion wurde. Von Jungtieren einheimischer
+Haustierrassen bis hin zu exotischeren kleinen Raubtieren wie die Bären- und Löwenjungen konnten Kinder diese berühren und füttern. So wollte die Zooleitung zum einen das Interesse der Kinder an Tieren wecken, zum anderen erwartete sie sich hierdurch auch höhere Besucherzahlen und damit Mehreinnahmen. Es scheint fast so, als hätte der Tierkinderzoo als eine Art Ersatz für die nun weniger populären und nicht mehr gewinnbringenden "Völkerschauen" gedient. 
+Vor allem aber sollten
+Kinder ihre Distanz zu den Tieren überbrücken, und insbesondere Stadtkinder sollten dadurch einen Teil der Natur, der ihnen mit der Urbanisierung entzogen worden war, zurückgewinnen. Dass diese Begegnungen zwischen Mensch und Tier heute nicht mehr dem Verständnis einer angemessenen Raubtierpflege entsprechen, spielte damals keine Rolle. Die Tiere hierzu kamen offensichtlich nicht aus dem Zoo; dieser hatte gar nicht ausreichend Jungtiere. Sie wurden von der Tierhandelsfirma Ruhe zur Verfügung gestellt, die sich dann mit dem Zoo die Einnahmen teilte. Diese waren so hoch, dass der Tierkinderzoo mehrfach verlängert wurde.53 Auch in anderen deutschen Zoos wurden zu dieser Zeit Tierkinder-Schauen gezeigt. Heute
+werden weder im Berliner Zoo noch in anderen deutschen Zoos Raubtiere in dieser Form ausgestellt. Wohl aber ist der Streichelzoo mit Haustieren wie Ziegen, Ponys und Schafen weiterhin eine große Attraktion für kleine Zoogäste, die hier Tiere ganz nah erleben und nebenbei die heimische Fauna spielerisch kennenlernen können.
+
 ## Der Deutsche Zoo
+
+1888 hatte Ludwig Heck bereits eine »Vaterländische
+Sammlung« von einheimischen Tieren
+angelegt. Diese Tiere blieben aber über den gesamten
+Park hinweg verstreut. Schon 1901 gab es deshalb Pläne, die Sammlung an einem Ort
+zu vereinen. Im Juni 1934 gab Lutz Heck dem
+»Völkischen Beobachter«, der Parteizeitung der
+NSDAP, ein Interview. Darin rechtfertigte er die
+rassenbiologische Politik der Nationalsozialisten
+und lobte die neue »naturwissenschaftliche
+Regierung«, die mit ihrem »Führer« die Naturgesetze
+»staatspolitisch« umsetze. Und er plädierte
+für die Einrichtung eines »Deutschen Zoos«.
+Zunächst aber wolle er sich damit begnügen,
+die Gehege einheimischer Tiere mit den Farben
+Schwarz-Weiß-Rot sowie der Hakenkreuzflagge
+zu kennzeichnen.33
+Im April 1935 trug Heck den Wunsch an das
+preußische Finanzministerium heran, ein mehr
+als zwei Hektar großes Erweiterungsgrundstück
 
 Im August 1935 erhielt der Berliner Zoo auf Initiative des Preußischen Ministerpräsidenten Hermann Göring eine Grundstückserweiterung an seinem nördlichen Rand.[^propa3] 
 
@@ -42,7 +70,57 @@ Bereits im Jahr zuvor hatte der natiuonalsozialistische Zoodirektor [[material.L
 _Artikel im 'Völkischen Beobachter' mit einem Interveiw von Lutz Heck, 09.06.1934_
 
 
-Die neue Fläche grenzte an die alte Bärenburg und die Voliere für die Adler, siedelte Heck in großen Gehegen "einheimische Tierarten" an. Neben "deutschen" Raubtieren wie dem Wolf und dem Bären wurden "deutsche Raubvögel" wie Adler und Bussard ausgestellt. Dass praktisch alle diese Tiere auch in Nachbarländern des Deutschen Reichs vorkamen, und einige, wie der Bär in Deutschland praktisch gar nicht mehr, spielte für den propagandistischen Effekt keine Rolle. 
+Zwischen
+und neben den bereits bestehenden Gehegen für
+Gämsen, Büffel, Robben und Adler wurden Gehege
+geschaffen, die ausschließlich mit »einheimischen
+Tieren« besetzt wurden. Der »Deutsche
+Zoo« brach mit dem ansonsten sorgsam gehüteten
+systematischen Aufbau des Zoologischen
+Gartens. Als einheitliche Landschaft geplant,
+war er dessen erster rein geografisch geordneter
+Bereich. Die schon bestehenden Rinderanlagen
+und das Schweinehaus wurden einbezogen.
+Auf der Rückseite des kleinen Adlerfelsens siedelte
+Heck in großen Gehegen Luchse,
+Wildkatzen
+und Füchse an. Dazu kamen ein Biber- und
+ein Fischotterbecken. Anlagen für Auerhühner
+und Birkhühner sowie ein Felsengehege für
+Bären und Wölfe an der nordwestlichen Seite
+vervollständigten den »Deutschen Zoo«.
+Am 14. Mai 1937 wurde mit dem Haustierstall und
+dem niederdeutschen Bauernhaus der erste
+Höhepunkt
+des »Deutschen Zoos« eröffnet. Hier
+sollte demonstriert werden, wie »innig« angeblich
+Mensch und Tier auf den »älteren deutschen
+Gehöften miteinander
+« gelebt hätten.
+Ihre Gehege
+waren wohl mit kleinen Hakenkreuzen gekennzeichnet.
+37 Ihnen wurden »primitive Rassen« aus
+dem Ausland gegenübergestellt.
+Neben den Braunbären wurde eine
+Anlage für ein weiteres »deutsches Raubtier«,
+den Wolf, angelegt. Beide neuen Freigehege waren
+wichtige Bestandteile des »Deutschen Zoos«.
+Südlich des »Deutschen Zoos« lag der alte,
+1899 eingeweihte Gämsenberg, der um ein künstliches
+Gebirgsgehege erweitert wurde. Dieses
+wurde 1939 mit Steinböcken eröffnet. An seinem
+Fuß lagen Steingärten mit mitteleuropäischer Gebirgsflora, versehen mit kleinen Freianlagen
+für Murmeltiere, Steinhühner und Salamander.
+Ein Forellenbach komplettierte das Ensemble.
+Das kleine Gebirge war raffiniert angelegt. Durch
+die vorgelagerten Gehege und die Bepflanzung
+war der umgebende Graben für Besucher nicht
+zu sehen, was das Gefühl verstärkte, die Tiere
+tatsächlich in einer echten Gebirgslandschaft zu
+beobachten.
+
+
+Neben "deutschen" Raubtieren wie dem Wolf und dem Bären wurden "deutsche Raubvögel" wie Adler und Bussard ausgestellt. Dass praktisch alle diese Tiere auch in Nachbarländern des Deutschen Reichs vorkamen, und einige, wie der Bär in Deutschland praktisch gar nicht mehr, spielte für den propagandistischen Effekt keine Rolle. 
 
 ![Plan des Zoologischen Gartens](images\cmw\Zooplan_1937.jpg)
 _Plan des Zoologischen Gartens aus dem Wegweiser für 1937._

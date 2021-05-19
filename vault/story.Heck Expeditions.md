@@ -2,7 +2,7 @@
 id: 6526be8c-01f6-4c05-a41d-fae91b634ced
 title: Lutz Heck's Catching Expeditions
 desc: Put a description of this note here...
-updated: 1621369943730
+updated: 1621436943074
 created: 1619426293502
 title_de: Tierfangexpeditionen von Lutz Heck
 desc_de: Der spätere Zoodirektor Lutz Heck unternahm in den 1920er und 1930er Jahren Tierfang-Expeditionen für den Zoologischen Garten in Ostafrika und Kanada. Bei ersteren verknüpfte er das Ziel des Tierfangs mit kolonialromantischer Propaganda und nutzte die Expeditionen als Werbung für den Zoo und die eigene Person.
@@ -92,6 +92,9 @@ Aus Suez kabelte Heck die benötigten Transportkapazitäten: drei offene, ein ge
 
 Die Ankunft des Transports an einem Sonntag, dem 20. Mai 1928, im Anhalter Bahnhof wurde von Presserummel begleitet, am Bahnhof oder auf sem Sonderschaugelände konnten Journalisten die Ausbeute beäugen. Am folgenden Donnerstag wurde dann die Sonderschau selbst eröffnet. Bereits Ende April hatte der Zoo die Schau angekündigt und den großen Erfolg der Expedition angepriesen.
 Eine Löwin aus Abessinien wurde im Herbst 1928 an den Zoo in Frankfurt/M. Für 2000 Mark verkauft, das Geld dem Expeditionskonto gutgeschrieben. Aus dem Schriftwechsel geht allerdings hervor, dass das Tier gar nicht aus der Ausbeute der Expedition stammte, sondern bereits 1924 importiert worden war.
+
+![Werbebroschüre für die 'Ostafrika-schau](images\cmw\Ostafrika_Schau_1928.jpg)
+_Werbebroschüre des Zoos für die Sonderschau mit den Tieren der Expedition 1928. (AZGB)_
 
 Die Schau soll ein ungefähres Bild dieses großen Sammellager ergeben. Mit den darin sich da bietenden bewegenden Tieren. Die Zelte, in denen die Expedition Mitglieder über ein Vierteljahr in Busch und Steppe lebten, die Fangnetze, andere Ausrüstungen werden zur Schau gestellt.
 
