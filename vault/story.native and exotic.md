@@ -1,12 +1,12 @@
 ---
 id: 5277f2fa-42b1-4bfa-8a6c-8f8c2117784e
-title: Domestic and Exotic
+title: Native and Exotic
 desc: Put a description of this note here...
-updated: 1621274578692
+updated: 1621430590831
 created: 1620997389421
 title_de: Heimisch und Exotisch
 desc_de: Put a DE description of this note here...
-author: CMW
+author: CMW, MV
 tao_type: story
 cover_image: null
 license: CC BY-SA
@@ -19,24 +19,43 @@ published: false
 
 :::DE:::
 
-# Heimisch oder exotisch?
 [[material.Landwirtschaftlicher Tierpark]] 
 
-* @clemens einfügen: Lichtenstein über exotische Tiere 
+Lorem ipsum Einleitung
+
+## Anfänge
+
+Bei seiner Eröffnung war der Zoologische Garten noch nicht fertiggestellt und die Anzahl der gezeigten Tiere im Verhältnis zur beträchtlichen Fläche eher gering. Der "Wegweiser" durch den Zoo wies im Juni 1845
+weniger als 100 Tiere aus. Viele waren entweder im deutschsprachigen Raum oder auch Europa heimisch, etwa die Hälfte stammte aus anderen Kontinente. Die exotischsten Tiere waren ein Leopard und eine kleine Gruppe Kängurus. Fast alle Tiere kamen aus der aufgelösten Menagerie des Königs auf der Pfaueninsel und waren pragmatische Eingänge in den Zoo aus Ermangelung anderer Quellen und einer festen Sammlungsstrategie.[^lichtenstein2]
+In den folgenden Jahrzehnten bleiben die 
 
 * was noch fehlt: Bezug zum Diskurs um einheimische vs. exotische Tiere; historischer Bezug 
-* eher einheimische vs. exotische Tiere oder nützliche vs. exotische Tiere?
-
-~~In der Denkschrift über einen in Berlin zu gründenden Zoologischen Garten legte Martin Hinrich Lichtenstein, Zoologieprofessor der Berliner Universität, seine Ziele für einen zukünftigen Zoo fest. Neben der Bildung breiter Bevölkerungsschichten lag für ihn ein wichtiger Zweck eines Zoos auch in der "Vermehrung und Verbreitung schöner und nützlicher Tiere, die Veredlung unserer Haustiere, Rassen durch Kreuzung mit reinen ursprünglichen Arten".[^lichten]~~
-
- 
-
 * @clemens Weimarer Republik: Tierhandel nimmt Fahrt auf, Elefantenpagode, nach dem Krieg: Tiergeschenke...
-
 
 ## Der Deutsche Zoo
 
-* @clemens
+Im August 1935 erhielt der Berliner Zoo auf Initiative des Preußischen Ministerpräsidenten Hermann Göring eine Grundstückserweiterung an seinem nördlichen Rand.[^propa3] 
+
+Bereits im Jahr zuvor hatte der natiuonalsozialistische Zoodirektor [[material.Lutz Heck]] in einem Interview mit der nationalsozialistischen Zeitung 'Völkischer Beobachter' seine Idee eines nur einheimischen Tierarten gewidmeten Zooteils entwickelt.
+
+![Zeitungsartikel](images\cmw\Ztg_Deutscher_Zoo.jpg)
+_Artikel im 'Völkischen Beobachter' mit einem Interveiw von Lutz Heck, 09.06.1934_
+
+
+Die neue Fläche grenzte an die alte Bärenburg und die Voliere für die Adler, siedelte Heck in großen Gehegen "einheimische Tierarten" an. Neben "deutschen" Raubtieren wie dem Wolf und dem Bären wurden "deutsche Raubvögel" wie Adler und Bussard ausgestellt. Dass praktisch alle diese Tiere auch in Nachbarländern des Deutschen Reichs vorkamen, und einige, wie der Bär in Deutschland praktisch gar nicht mehr, spielte für den propagandistischen Effekt keine Rolle. 
+
+![Plan des Zoologischen Gartens](images\cmw\Zooplan_1937.jpg)
+_Plan des Zoologischen Gartens aus dem Wegweiser für 1937._
+
+Das Kronjuwel des "Deutschen Zoos" war aber das Gehege für eine besondere Rinderart - den "Auerochsen" oder "Ur". [[story.Reviving the Aurox]] Dieser gilt als Stammvater aller europäischen Hausrinderrassen. Allerdings war das letzte Exemplar seiner Sorte im 17. Jahrhundert gestorben. Lutz Heck und sein Bruder [[material.Heinz Heck]], Direktor des Münchner Tierparks Hellabrunn, versuchten diese Tiere aus Kreuzungen verschiedener Rinderrassen wiedererstehen zu lassen.[^propa4]
+
+![Bild eines Rinds](images/cmw/aurox.jpg)
+Eines der Rinder, die aus den Rückzüchtungen Lutz Hecks hervorgingen, um 1930. (AZGB)
+
+Lutz Heck ging es darum, ein deutsches Urtier zu erschaffen, das "als echtes Symbol deutscher Kraft und deutschen Mutes" gelten sollte.[^propa5] Er verwies in seinen Veröffentlichungen immer wieder auf das Nibelungenlied, in dem auch Siegfrieds Jagd auf Auerochsen besungen wird.[^propa6] Den Auerochsen aber haben die Brüder Heck nicht wieder zum Leben erwecken. Es fehlte ihnen an genetischem Material, sie versuchten sich in einer sogenannten Abbildzüchtung in der lediglich die äußerlichen Merkmale einer Tierart näherungsweise reproduziert werden. Der Versuch galt vielen Kollegen schon damals und gilt auch heute weithin als unwissenschaftlich. Propagandistisch aber konnte Heck seine "Auerochsen" ausschlachten und sich auch mit den Rindern den Nationalsozialisten anbiedern.
+
+Im besetzten Warschau hingegen sollten die Menschen nach Ansicht der deutschen Besatzer keinen Zoo mehr haben. Die begehrten und schauwertigen Tiere wie Elefanten oder auch Wisente wurden unter Leitung des Berliner Zoodirektors Lutz Heck in deutsche Zoos überführt. Den Restbestand töteten Einheiten der SS im Rahmen eines großen Trinkgelages in ihren Gehegen. Dem
+Zoodirektor Han Zabinski wurde befohlen, auf dem Gelände des Tiergartens Futtermittel anzubauen und eine Schweinezucht einzurichten.[^warschau1]
 
 ## Katharina Heinroth und die Tiere des Spandauer Forstes
 
@@ -98,7 +117,11 @@ WEITER??
 ---
 ## Footnotes
 
-~~[^lichten]: Zitiert nach Klös, Heinz-Georg. 1969. Von der Menagerie zum Tierparadies. 125 Jahre Zoo Berlin. Berlin: Haude & Spenersche Verlagsbuchhandlung: 28.~~
+[^lichtenstein2]: Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag: 29-31.
+
+[^propa3]: Schriftwechsel zur Übergabe der Fläche und der Fläche in: GStA PK I. HA, Rep 151, 2500; Niederschrift der Aufsichtsratssitzung 24.08.1935, in: GStA PK I. HA, Rep 151, 2496, Bl. 93-94.
+
+[^warschau1]: Gary Bruce: Through the Lion Gate. A History of the Berlin Zoo, Oxford 2017, S. 164 mit Berufung auf die Memoiren der Ehefrau des Zoodirektors Antonina Zabinska, S. 164.
 
 [^tierpark]: Vorsitzender des Rats des Bezirks Neubrandenburg an H. Dathe, hier die Durchschrift an Stellv. OB Waldemar Schmidt, 23.12.1955 sowie  Notiz W. Schmidt an H. Fechner, 27.12.1955, LAB, C Rep. 120, Nr. 1538.
 
