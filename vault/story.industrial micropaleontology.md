@@ -1,8 +1,8 @@
 ---
 id: 2df514da-8df2-4278-8534-28e1034c7adf
 title: Industrial Micropaleontology
-desc: Put a description of this note here...
-updated: 1621522414881
+desc: In the 1920s a group of young women scientists employed by oil companies revolutionized micropaleontology, by showing its important applications to stratigraphy and petroleum geology.
+updated: 1621533612273
 created: 1621521087155
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
