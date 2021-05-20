@@ -2,7 +2,7 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1621370113089
+updated: 1621521930428
 created: 1618576718116
 title_de: Knut
 desc_de: Der 2006 geborene Eisbär "Knut" entwickelte einen bis dahin ungekannten Popularität eines einzelnen Zootiers. Medien und Zooleitung machten ihn zu einem 'Botschafter' der Klimakrise, die das Habitat der Eisbären bedrohte. Die starke Übertragung von Emotionen von Besucher\*innen und Fans in aller Welt auf das Tier wirkte über seinen Tod hinaus.
@@ -21,21 +21,21 @@ English content goes here.
 
 **Clemens Maier-Wolthausen**
 
-Am **5. Dezember 2006** gegen 15.00 Uhr brachte die Eisbärin "Tosca" zwei Jungtiere zur Welt. Nach kurzer Zeit stellte sich heraus, dass das Muttertier **keine Anzeichen einer pflegenden Fürsorge** zeigte. Eines der Jungtiere starb. Das andere aber wurde aus dem Gehege entfernt und wurde **erfolgreich mit der Flasche** versorgt.[^birth1]
+Am **5. Dezember 2006** gegen 15.00 Uhr brachte die Eisbärin "Tosca" zwei Jungtiere zur Welt. Nach kurzer Zeit stellte sich heraus, dass das Muttertier keine Anzeichen einer pflegenden Fürsorge zeigte. **Eines der Jungtiere starb.** Das andere aber wurde aus dem Gehege entfernt und wurde **erfolgreich mit der Flasche** versorgt.[^birth1]
 
 ![desc](images/cmw/Knut_March07_Griesbach.jpg)
 *Der junge "Knut" bei ersten Erkundungen eines Außengeheges, 2007. (AZGB, Foto Griesbach)*
 
 ## A star is born!
 
-Eigentlich kein ungewöhnlicher Vorgang in Zoos. Aus verschiedenen Gründen wurde die Geschichte des Eisbärenjungen bald sehr bekannt. Einen großen Anteil hatten daran die Medien, insbesondre die lokale ARD-Anstalt **Rundfunk Berlin-Brandenburg** (RBB). **Diese informierte ihre Hörer\*innen täglich mit Nachrichten aus dem Zoo über den Zustand des kleinen Bären und die Beziehung zu dessen Pfleger Thomas Dörflein.** Dazu nutzte der RBB unter 'www.rbb-online.de/knut' das damals noch relativ neue Medium weines weblog/blog, um die Berliner\*innen über die Entwicklung des Eisbärenjungen zu informieren. Dieser hatte maßgeblichen Anteil an "Knuts" Popularität.[^star1]
+Eigentlich kein ungewöhnlicher Vorgang in Zoos. Aus verschiedenen Gründen wurde die Geschichte des Eisbärenjungen bald sehr bekannt. Einen großen Anteil hatten daran die Medien, insbesondre die lokale ARD-Anstalt **Rundfunk Berlin-Brandenburg** (RBB). Diese informierte ihre Hörer\*innen **täglich mit Nachrichten aus dem Zoo über den Zustand des kleinen Bären und die Beziehung zu dessen Pfleger Thomas Dörflein.** Dazu nutzte der RBB unter 'www.rbb-online.de/knut' das damals noch relativ neue Medium weines weblog/blog, um die Berliner\*innen über die Entwicklung des Eisbärenjungen zu informieren. Dieser hatte maßgeblichen Anteil an "Knuts" Popularität.[^star1]
 
-Die beiden waren ein Team wie für die Medien gemacht. Hier die tapsige weiße Fellkugel, dort der kernige, bärtige und stille Pfleger, der bei seinem Pflegling einzog und ihm angeblich auf der Gitarre Lieder von Elvis Presley vorsang. 
+Die beiden waren ein Team wie für die Medien gemacht. Hier die tapsige weiße Fellkugel, dort der kernige, bärtige und stille Pfleger, der bei seinem Pflegling einzog und ihm angeblich auf der Gitarre Lieder von Elvis Presley vorsang.
 
 ![desc](images/cmw/Knut_Dorflein_March07_Broseke.jpg)
 *Pfleger Thomas Dörflein und der nur wenige Monate alte "Knut", 2007. (AZGB, Foto Bröseke)*
 
-Aber weder dieses Traumpaar, noch die Geschichte der Geburt allein können den folgenden **"Hype" um "Knut"** nicht allein erklären.
+Aber weder dieses Traumpaar, noch die Geschichte der Geburt allein können den folgenden **'Hype' um "Knut"** nicht allein erklären.
 
 ## Botschafter des Klimaschutzes
 
@@ -49,11 +49,10 @@ Hinzu kam ein besonderes Timing. "Knut" kam zu einem Zeitpunkt, an dem zum erste
 
 ## Die Marke "Knut"
 
-Der Zoo wollte das rege Interesse an dem Bären nutzen, finanziell und für den Artenschutz. Er schuf eine Marke, unter der lizensierte Produkte zum Verkauf angeboten wurden. Die **Erlöse kamen auch Artenschutzprojekten** zugute.[^trademark1] Der damalige Bundesumweltminister Sigmar Gabriel wurde offizieller Pate des kleinen Eisbären. Das sollte helfen, auf den menschengemachten globalen Klimawandels aufmerksam zu machen.[^trademark2] Im Frühjahr 2008 kam sogar ein Film über den jungen Eisbären und andere Tiere in die Kinos.[^trademark3] Die deutsche Ausgabe des Magazins 'Vanity Fair' hob "Knut" auf ihre Titelseite, die amerikanische zeigte ihn in einer Fotomontage zusammen mit Filmstar Leonardo di Caprio, der in jenem Jahr einen Film über den menschengemachten Klimawandel produziert hatte, auf einer Eisscholle.
+Der Zoo wollte das rege Interesse an dem Bären nutzen, finanziell und für den Artenschutz. Er schuf eine Marke, unter der lizensierte Produkte zum Verkauf angeboten wurden. Die **Erlöse kamen auch Artenschutzprojekten zugute**.[^trademark1] Der damalige Bundesumweltminister Sigmar Gabriel wurde offizieller Pate des kleinen Eisbären. Das sollte helfen, auf den menschengemachten globalen Klimawandels aufmerksam zu machen.[^trademark2] Im Frühjahr 2008 kam sogar ein Film über den jungen Eisbären und andere Tiere in die Kinos.[^trademark3] Die deutsche Ausgabe des Magazins 'Vanity Fair' hob "Knut" auf ihre Titelseite, die amerikanische zeigte ihn in einer Fotomontage zusammen mit Filmstar Leonardo di Caprio, der in jenem Jahr einen Film über den menschengemachten Klimawandel produziert hatte, auf einer Eisscholle.
 
-- [ ] noch besorgen
-
-*Cover der deutschen Ausgabe der Zeitschrift Vanity Fair, Nr 14 von 2007*
+![Titelseite einer Zeitschrift](images\cmw\Knut.JPG)
+*Titelseite der deutschen Ausgabe der Zeitschrift Vanity Fair, Nr 14 von 2007*
 
 "Knut" zog, als er nach einigen Monaten schon ein Eisbär-"Teenager" wurde viele Schaulistige an. Als Zoodirektor Bernhard Blaszkiewitz die Entscheidung traf, Pfleger Thomas Dörflein aus Sicherheitsgründen den Nahkontakt mit dem nun bereits gefährlichen Bären zu untersagen, wurde dieses von Dörflein und den "Knutfans" kritisiert.
 Der Pfleger Thomas Dörflein starb 2008 an einem Herzinfarkt. In den Fan-Kreisen wurde Dörfleins Tod so interpretiert, dass er an gebrochenem Herzen nach der erzwungenen Trennung von "Knut" starb.
@@ -88,7 +87,7 @@ Manche Autor\*innen nahmen in ihren Schreiben die Position des toten Tieres ein,
 Im Zoo wird 2012 die Skulptur "Knut der Träumer" nach einem Entwurf des Künstlers Josef Tabachnyk errichtet. Die etwa 1,5 m lange und etwas über einen Meter breite Figur am Eisbärengehege besteht aus einem in Bronze gegossenen Eisbären, der auf zwei aus weissen Granit geformten Eisschollen liegt.[^tod1]
 
 ![Skulptur eines liegenden Eisbärenjungen](images\cmw\Knut_der_Traeumer.jpg)
-*Skulptur 'Knut der Träumer', 2021 (Clemens Maier-Wolthausen)*
+*Skulptur 'Knut der Träumer', 2021. (Clemens Maier-Wolthausen)*
 
 Die benötigten Spenden wurden vom Förderverein 'Stiftung Hauptstadtzoos' gesammelt. Zudem werden 2012  Repliken des Denkmals als Souvenir verkauft. Die als 'denkmal' bezeichnete Skulptur ist 2012 auch das Motiv einer Gedenkmünze aus versilberter Bronze der Staatlichen Münze Berlin.[^tod2]
 
