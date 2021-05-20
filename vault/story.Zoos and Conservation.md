@@ -2,7 +2,7 @@
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 title: Zoos and Conservation
 desc: Since only a relatively short time zoos intensify their conservation eforts.
-updated: 1619182903709
+updated: 1621541050926
 created: 1618994200982
 title_de: Zoos und Artenschutz
 desc_de: Seit relativ kurzer Zeit engagieren sich Zoos auch im Artenschutz.
@@ -83,8 +83,13 @@ Auf der Tagung des deutschen Verbandes 1966 wurde aus denselben Gründen das Kau
 ### Footnotes
 
 [^orang1]: Protokoll der Tagung des Verbands Deutscher Zoodirektoren 1962, Archiv Tiergarten Schönbrunn (ATGS), Nachlass W. Fiedler, Ordner Verband Deutscher Zoodirektoren, Nr. 2.
+
 [^orang2]: Protokoll der Jahrestagung 1965 des IUDZG (deutsche Ausfertigung), o. D., ATGS, Nachlass W. Fiedler, Ord-ner VDZ + WAZA, Nr.1.
+
 [^studbookscolombo]: Z. Veselovsky an Mitglieder IUDZG, o. D., ATGS, Nachlass W. Fiedler, Ordner VDZ und WAZA, Nr. 1.
+
 [^firsttrials1]: Kisling, Vernon N. Jr. 2018. „Historic and Cultural Foundations of Zoo Conservation: A Narrative Timeline“. In The ark and beyond: the evolution of zoo and aquarium conservation, herausgegeben von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb, 41–50. Convening science: discovery at the marine biological laboratory. Chicago: The University of Chicago Press, 41.
+
 [^firsttrials2]: Vgl. Barrow, Mark V. Jr. 2018. „Teetering on the Brink of Extinction: The Passenger Pigeon, the Bison, and American Zoo Culture in the Late Nineteenth and Early Twentieth Centuries“. In The ark and beyond: the evolution of zoo and aquarium conservation, herausgegeben von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb, 51–64. Convening science: discovery at the marine biological laboratory. Chicago: The University of Chicago Press.
+
 [^hunter]: Vgl. Barrow, Mark V. Jr. 2018. „Teetering on the Brink of Extinction: The Passenger Pigeon, the Bison, and American Zoo Culture in the Late Nineteenth and Early Twentieth Centuries“. In The ark and beyond: the evolution of zoo and aquarium conservation, herausgegeben von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb, 51–64. Convening science: discovery at the marine biological laboratory. Chicago: The University of Chicago Press, 51.
