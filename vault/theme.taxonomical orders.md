@@ -1,8 +1,8 @@
 ---
 id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
 title: Taxonomical orders
-desc: In biology, taxonomy is a formal system to name, define, and classify organisms, regulated and governed by agreed upon rules
-updated: 1619624555595
+desc: In biology, taxonomy is a formal system to name, define, and classify organisms, regulated and governed by agreed upon rules. Since its beginning biological taxonomy was neither stable nor universal, since controversies emerged, and classifications continue to change still today. From an order based on explicitly artificial categories, taxonomy increasingly became understood as a natural system, grounded in evolutionary change. As a practical tool for scientists, taxonomy continues to include a number of different approaches, traditions, and concerns. More than a conceptual synthesis, what seems to be effective in bringing together diverging taxonomical orders and resolving (or by-passing) ongoing controversies have been pragmatic tools, like digital databases. Yet, taxonomical orders are never neutral and purely technical classifications, but they have significant real-life consequences.
+updated: 1621440626630
 created: 1618491191119
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...

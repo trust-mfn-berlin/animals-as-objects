@@ -1,12 +1,12 @@
 ---
 id: 5277f2fa-42b1-4bfa-8a6c-8f8c2117784e
-title: Domestic and Exotic
+title: Native and Exotic
 desc: Put a description of this note here...
-updated: 1621274578692
+updated: 1621443623442
 created: 1620997389421
 title_de: Heimisch und Exotisch
 desc_de: Put a DE description of this note here...
-author: CMW
+author: CMW, MV
 tao_type: story
 cover_image: null
 license: CC BY-SA
@@ -19,24 +19,89 @@ published: false
 
 :::DE:::
 
-# Heimisch oder exotisch?
 [[material.Landwirtschaftlicher Tierpark]] 
 
-* @clemens einfügen: Lichtenstein über exotische Tiere 
+Lorem ipsum Einleitung
+
+## Anfänge
+
+Bei seiner Eröffnung war der Zoologische Garten noch nicht fertiggestellt und die Anzahl der gezeigten Tiere im Verhältnis zur beträchtlichen Fläche eher gering. Der "Wegweiser" durch den Zoo wies im Juni 1845
+weniger als 100 Tiere aus. Viele waren entweder im deutschsprachigen Raum oder auch Europa heimisch, etwa die Hälfte stammte aus anderen Kontinente. Die exotischsten Tiere waren ein Leopard und eine kleine Gruppe Kängurus. Fast alle Tiere kamen aus der aufgelösten Menagerie des Königs auf der Pfaueninsel und waren pragmatische Eingänge in den Zoo aus Ermangelung anderer Quellen und einer festen Sammlungsstrategie.[^lichtenstein2]
+In den folgenden Jahrzehnten bleiben die 
 
 * was noch fehlt: Bezug zum Diskurs um einheimische vs. exotische Tiere; historischer Bezug 
-* eher einheimische vs. exotische Tiere oder nützliche vs. exotische Tiere?
-
-~~In der Denkschrift über einen in Berlin zu gründenden Zoologischen Garten legte Martin Hinrich Lichtenstein, Zoologieprofessor der Berliner Universität, seine Ziele für einen zukünftigen Zoo fest. Neben der Bildung breiter Bevölkerungsschichten lag für ihn ein wichtiger Zweck eines Zoos auch in der "Vermehrung und Verbreitung schöner und nützlicher Tiere, die Veredlung unserer Haustiere, Rassen durch Kreuzung mit reinen ursprünglichen Arten".[^lichten]~~
-
- 
-
 * @clemens Weimarer Republik: Tierhandel nimmt Fahrt auf, Elefantenpagode, nach dem Krieg: Tiergeschenke...
 
+* Neudefinition des Deutsch-Ostafrikanischen Nashorns? Fließende Definition dessen was 'deutsch' war? Nicht an den Tiergeografischen Gegebenheiten festgemacht?
+
+## Konkurrenz?
+
+Eine Reihe prominenter Berlinerinnen und Berliner, unter ihnen der Schriftsteller Alfred Döblin und die
+Künstlerin Käthe Kollwitz, riefen 1928 einen Verein zur Schaffung und Förderung eines "Volkstierparks" ins Leben und wandten sich mit einem Aufruf an die Öffentlichkeit. Antrieb für diese Initiative war neben einem persönlichen Interesse einzelner Akteuer und auch des Hamburger Zoo-Unternehmens Hagenbeck wohl vor allem der Anspruch dem 'elitären' und vor allem teuren Zoo in den Wohngebieten der Charlottenburgeer und Wilmersdorfer Bourgeoisie einen erschwinglichen Gegenentwurf gegenüber zu stellen. Der geplante Tierpark sollte im Osten Berlins mit einer vielfach größeren Fläche geschaffen werden und eher ein Wildgehege, besetzt mit Rot- und Damwild, Wildschweinen, Rehen und Fasanen, werden. Diese waren auch erschwinglich und hätten zumindest eine Besetzung der geplanten Gehege dargestellt. Nun war aber zumindest einigen Initiator\*innen klar, dass auf diese Weise keine große Sogwirkung auf die berliner\*innen erzielt werden würde. Ganz konnte man auf die Publikumslieblinge nicht verzichten. Aus diesem Grund sollten doch Robben, Eisbären, Pinguine gehalten und eine afrikanische Steppe für Gnus, Antilopen, Zebras sowie eine Vogelwiese für Kraniche, Flamingos, Störche gebaut werden. Hinzu sollten auch Freiflächen für Affen und eine Bärengrotte kommen.[^volkstierpark1]
+Aus dem geplanten zweiten Zoo wurde nichts. Zum einen arbeitete Zoodirektor [[material.Ludwig Heck]] energisch öffentlich und unter der hand gegen das Projekt, möglicherweise aber war vor allem der Anspruch an die  Vielzahl der zu zeigenden Arten finaziell in dieser wirtschaftlich angespannten Zeit nicht zu schaffen. Ein Wildpark aus ausschließlich einheimischen Huftieren, ergänzt durch einige andere beliebte - auch exotische - Tierarten hätte sich möglicherweise realisieren lassen. das Beispiel zeigt aber auch, dass die geplante Zoogründung mit einer bereits sehr etablierten Erwartungshaltung des Publikums rechnete, welches sich in der Großstadt mit einer langen Zootradition nicht mit 'weniger' als den 'exotischen' Stars begnügt hätte.
+
+## Tierkinder aus aller Welt
+
+Im Sommer 1931 organisierte der Berliner Zoo zum ersten Mal einen Tierkinderzoo - also eine Sonderschau mit Jungtieren verschiedener Tierarten, die durch Erwachsene aber auch Kinder gefüttert und gestreichelt werden konnten. Dieser wurde ein großer Erfolg. Gefüllt worden war er mit Jungtieren einheimischer
+Haustierrassen aber auch 'exotischeren' kleinen Raubtieren wie Bären- und Löwenjungen. 
+
+![Junges Raubtier und junge Hausschweine und Schafe](images\cmw\Tierkindergarten_1930er.jpg)
+_Bild aus dem 'Tierkinderzoo', um 1933. (AZGB)_
+
+Ziel der Zooleitung war offiziell, das Interesse der Kinder an Tieren insgesamt zu wecken. Stadtkinder sollten dadurch einen Teil der Natur, der ihnen mit der Urbanisierung entzogen worden war, zurückgewinnen. Dass diese Begegnungen zwischen Mensch und Tier heute nicht mehr dem Verständnis einer angemessenen Raubtierpflege entsprechen, spielte damals keine Rolle. Die Tiere kamen auch nicht aus dem Zoo selst. Dieser hätte gar nicht ausreichend Jungtiere gehabt. Sie wurden von der Tierhandelsfirma Ruhe zur geliefert gestellt, die sich dann mit dem Zoo die Einnahmen teilte. Es ist augenscheinlich, dass es vor allem um die Attraktion ging. Es scheint fast so, als hätte der Tierkinderzoo als eine Art Ersatz für die nun weniger populären und nicht mehr gewinnbringenden "Völkerschauen" gedient. Und in der Tat war der 'Tierkinderzoo' so erfolgreich, dass er in den folgenden Jahren mehrfach wiederholt wurde. [^tierkinder]
+
+![Kleinkinder spilen in einem Kinderwagen mit jungen Raubkatzen](images\cmw\Tierkinderzoo_1936.jpg)
+_Bild des 'Tierkinderzoos' von 1936. (AZGB)_
+
+Heute werden weder im Berliner Zoo noch in anderen deutschen Zoos Raubtiere in dieser Form ausgestellt. Möglicherweise standen aber die zwischen den 1950er und 1990er Jahren weit verbreiteten 'Löwenbaby-Fotografen' in der Tradition dieser Tierkinderzoos. [[story.lion babies]] Auch hier mussten 'exotische' Raubtiere und nicht einheimische Zicklein für die gestellten Fotografien herhalten. nach wie vor ist der Streichelzoo mit Haustieren wie Ziegen, Ponys und Schafen dennoch eine große Attraktion für junge Besucher\*innen. Heute also nur noch einheimische und domestizierte Tierarten.
 
 ## Der Deutsche Zoo
 
-* @clemens
+1888 hatte Ludwig Heck bereits eine »Vaterländische
+Sammlung« von einheimischen Tieren
+angelegt. Diese Tiere blieben aber über den gesamten
+Park hinweg verstreut. Schon 1901 gab es deshalb Pläne, die Sammlung an einem Ort zu vereinen. Im Juni 1934 gab Lutz Heck dem »Völkischen Beobachter«, der Parteizeitung der NSDAP, ein Interview. Darin applaudierte er der neuen nationalsozialistischen Regierung zu einer Politik, die "die Naturgesetze
+»staatspolitisch" umsetze. Und er warb
+für die Einrichtung eines "Deutschen Zoos". Also einer nach Herkunftsregion geordneten Zooabschnitts, der nur einheimische Tiere enthalten würde. Der Zoologische Garten Berlin war zu diesem Zeitpunkt als der 'systematische Zoo' schlechthin bekannt. Seine Bestände waren weitgehend nach taxonomischen Kriterien geordnet und folgten keiner geografischen Ordnung. Das neue Teilstück wäre also eine Abkehr von der bislang praktizierten Ordnung des ältesten deutschen Zoos gewesen.
+Zunächst aber wollte Lutz Heck sich damit begnügen,
+die Gehege einheimischer Tiere mit den Farben
+Schwarz-Weiß-Rot sowie der Hakenkreuzflagge
+zu kennzeichnen.[^deutscherzoo1]
+
+![Zeitungsartikel](images\cmw\Ztg_Deutscher_Zoo.jpg)
+_Artikel im 'Völkischen Beobachter' mit einem Interveiw von Lutz Heck, 09.06.1934_
+
+Noch fehlte es aber an Platz. Im August 1935 erhielt der Berliner Zoo auf Initiative des Preußischen Ministerpräsidenten Hermann Göring eine Grundstückserweiterung an seinem nördlichen Rand.[^propa3] 
+
+Zwischen und neben den bereits bestehenden Gehegen für Gämsen, Büffel, Robben und Adler wurden Gehege eschaffen, die ausschließlich mit 'einheimischen
+Tieren' besetzt wurden. Als einheitliche Landschaft geplant, war er dessen erster rein geografisch geordneter Bereich. Die schon bestehenden Rinderanlagen
+und das Schweinehaus wurden auch einbezogen. Auf der Rückseite des kleinen Adlerfelsens siedelte Heck in großen Gehegen Luchse, Wildkatzen und Füchse an. Dazu kamen ein Biber- und ein Fischotterbecken. Anlagen für Auerhühner und Birkhühner sowie ein Felsengehege für
+Bären und Wölfe an der nordwestlichen Seite
+vervollständigten den 'Deutschen Zoo'.
+Hierzu gehörte auch eine besonders typisch empfundende Zooarchitektur. Diese war analog zu den exotisierenden Anlagen der Elefantenpagode, des Antilopen- und Giraffenhauses nun 'typisch deutsch'. Am 14. Mai 1937 wurde mit dem Haustierstall und einem 'niederdeutschen Bauernhaus' ein erster Abschnitt eröffnet. In diesem sollte auch propagandistisch verzerrt demonstriert werden, wie »innig« angeblich Mensch und Tier auf den "älteren deutschen Gehöften" miteinander gelebt hätten.[^deutscherzoo2]
+Hinzu kamen neue Anlagen für Braunbären und Wölfe. Ein Jahr später wurde südlich des 'Deutschen Zoos' im folgenden Jahr der alte, 1899 eingeweihte, Gämsenberg mit einem weiteren künstlichen Gebirgsgehege erweitert. Dieses wurde 1939 mit Steinböcken bestückt. Um dieses lagen kleine Steingärten mit mitteleuropäischer Gebirgsflora und Anlagen für unter anderem Murmeltiere oder Steinhühner und einem künstlichen Forellenbach. Dass praktisch alle diese Tiere auch in Nachbarländern des Deutschen Reichs vorkamen, und einige, wie der Bär in Deutschland praktisch gar nicht mehr, spielte für den propagandistischen Effekt keine Rolle. 
+
+![Plan des Zoologischen Gartens](images\cmw\Zooplan_1937.jpg)
+_Plan des Zoologischen Gartens aus dem Wegweiser für 1937._
+
+Das Kronjuwel des "Deutschen Zoos" war aber das Gehege für eine besondere Rinderart - den "Auerochsen" oder "Ur". [[story.Reviving the Aurox]] Dieser gilt als Stammvater aller europäischen Hausrinderrassen. Allerdings war das letzte Exemplar seiner Sorte im 17. Jahrhundert gestorben. Lutz Heck und sein Bruder [[material.Heinz Heck]], Direktor des Münchner Tierparks Hellabrunn, versuchten diese Tiere aus Kreuzungen verschiedener Rinderrassen wiedererstehen zu lassen.[^propa4]
+
+![Bild eines Rinds](images/cmw/aurox.jpg)
+Eines der Rinder, die aus den Rückzüchtungen Lutz Hecks hervorgingen, um 1930. (AZGB)
+
+Lutz Heck ging es darum, ein deutsches Urtier zu erschaffen, das "als echtes Symbol deutscher Kraft und deutschen Mutes" gelten sollte.[^propa5] Er verwies in seinen Veröffentlichungen immer wieder auf das Nibelungenlied, in dem auch Siegfrieds Jagd auf Auerochsen besungen wird.[^propa6] Den Auerochsen aber haben die Brüder Heck nicht wieder zum Leben erwecken. Es fehlte ihnen an genetischem Material, sie versuchten sich in einer sogenannten Abbildzüchtung in der lediglich die äußerlichen Merkmale einer Tierart näherungsweise reproduziert werden. Der Versuch galt vielen Kollegen schon damals und gilt auch heute weithin als unwissenschaftlich. Propagandistisch aber konnte Heck seine "Auerochsen" ausschlachten und sich auch mit den Rindern den Nationalsozialisten anbiedern.
+
+Interessant ist, dass bis auf die Ausgabe von XXXX kein einziges einheimisches Tier die Titelseite des 'Wegweisers durch den Zoologischen Garten' schmückte und dieser war schon seit mehr als 100 Jahren in Deutschland und Österreich ausgestorben.
+
+@clemens cover prüfen
+
+Eine kursorische Durchsicht der Titelseiten der 'Wegweiser' über die Nachkriegsjahre bis etwa 2010 ergibt, ... Zwischen 1985 und 2010 erschien nicht ein einheimisches Tier als Werbung für den Garten und mit dem Eisbären nur ein in Europa heimisches Tier.[^wegweiser]
+
+Diente der 'Deutsche Zoo' womöglich nur als eine mit den tiergärtnerischen Ambitionen des Zoodirektors leicht zu vereinbarende Propagandaschau aber war man sich in der Zooleitung eigentlich bewusst, dass bis auf Adler, Wolf und Bär die einheimischen Arten die besucher\*innen nicht begeistern würden? 
+Die umfangreiche Hirschsammlung mochte der Stolz der Zoodleitungen sein, die Besucher\*innen wurden vor allem durch die 'wilden' und 'exotischen' Tiere angezogen. Dam- und Rotwild, Wildschweine und Biber kannten sie aus der Umgebung  oder aber aus den zahlreichen Gehegen in Parks.
+
+Im besetzten Warschau hingegen sollten die Menschen nach Ansicht der deutschen Besatzer keinen Zoo mehr haben. Die begehrten und schauwertigen Tiere wie Elefanten oder auch Wisente wurden unter Leitung des Berliner Zoodirektors Lutz Heck in deutsche Zoos überführt. Den Restbestand töteten Einheiten der SS im Rahmen eines großen Trinkgelages in ihren Gehegen. Dem
+Zoodirektor Han Zabinski wurde befohlen, auf dem Gelände des Tiergartens Futtermittel anzubauen und eine Schweinezucht einzurichten.[^warschau1]
 
 ## Katharina Heinroth und die Tiere des Spandauer Forstes
 
@@ -92,13 +157,31 @@ Soweit bekannt ist, musste Dathe die Tiere aber nicht annehmen.
 
 WEITER??
 
-## Aufteilung TP : Zoo
+## Tierpark und Zoo nach der Wende - Hirschpark und Exotenmenagerie?
 
+Als 1990/91 die Zukunft des Tierparks im vereinten Berlin diskutiert wurde gab es Befürchtungen auf Seiten der vielen Freund\*innen des Tierparks, dass der West-Berliner zoologische Garten sich an den 'exotischen' Tieren des Tierparks bereichern und diesen in einen 'Hierschpark' mit ausschließlich einheimischen Huftieren verwandeln wollen würde. Grund für diese Ängste waren die Vorschläge, die Zoomitarbeiter und -Leitung dem Senat von Berlin über eine zukünftige Zusammenarbeit der beiden Gärten machten. Angesicts des teilweise desaströßen Zustands einiger der Gehege und Gebäude schlugen sie vor, die in Ost-Berlin mit Stolz betrachtete 'Schlangenfarm' des Tierparks zu schließen und die Tiere in das Zoo-Aquarium zu überführen, auch sollten die meisten Menschenaffen umgesiedelt werden.[^zootp1] Die Ängste mögen begründet gewesen sein, interessant aber ist, dass man sich auch im West-Berliner Zoo im klaren war, dass der Tierpark, nicht ohne 'exotische' Tiere bestehen würde und die Politik hatte sehr schnell klar gestellt, dass eine Schließung des Tierparks nicht zur Debatte stand. 
+Zookurator Bernhard Blaszkiewitz entwarf in seinen "Überlegungen zur Beziehung Zoologischer Garten Berlin / Tierpark Berlin" ein aus Sicht des Zoos sinnvolles Konzept. Beide Parks sollten unterscheidbar und individuell sein, sich aber auch sich gegenseitig er-gänzen. Aber er schrieb auch, dass "Muß-Tiere", also Tiere, die Zoobesucherinnen und -besucher immer erwarten, - wie Elefanten, Giraffen, Zebras, Löwen oder Tiger in beiden Zoos Besucherinnen und Besucher anziehen sollten. Um dennoch Synergien aus dem Vorhandensein zweier Zoos zu ziehen, sollten diese 'Stars' in den beiden Tiergärten in verschiedenen Unterarten gezeigt werden. Der Zoo konnte, so die Überlegung, zum Beispiel nur noch asiatische Elefanten zeigen, der Tierpark dann afrikanische. Die Unterarten der Bären, Giraffen oder Hirsche könnten aufgeteilt werden wie die der Nashörner sollten. Im Tierpark sollte man sich auf Breitmaulnashörner konzentrieren, der Zoo könnte dann Spitzmaul oder Panzernashörner halten.[^zootp2]
+Es ist fraglich ob 'Nashorn-Enthusiast\*innen' dann beide Tiergärten besucht hätten, um beide Arten zu sehen, die Episode verdeutlicht aber, dass allen Beteiligten klar war, dass der Tierpark ohne die von den Besucher\*innen als besonders schauwertig angesehenen 'Exoten' auskommen würde.
 
 ---
 ## Footnotes
 
-~~[^lichten]: Zitiert nach Klös, Heinz-Georg. 1969. Von der Menagerie zum Tierparadies. 125 Jahre Zoo Berlin. Berlin: Haude & Spenersche Verlagsbuchhandlung: 28.~~
+[^lichtenstein2]: Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag: 29-31.
+
+[^volkstierpark1]: Aufruf und Korrespondenz in AZGB O 0/1/81 und LAB A Rep. 001-002, Nr. 899. Vgl. auch Franz Schirner: Sind zwei Berliner Zoologische Gärten
+das Richtige?, in: Neue Zeit, 11. 09. 1929.
+
+[^tierkinder]: Schriftwechsel und Werbematerialien zum Tierkinderzoo in den Jahren 1931-1934 in AZGB, O 0/1/61, 138 und 201.
+
+[^deutscherzoo1]: »ch«: Der Wunschtraum: ein deutscher Zoo. Ein Gespräch mit Dr. Lutz Heck, in: Völkischer Beobachter, Berliner Ausgabe, 08. 06. 1934.
+
+[^deutscherzoo2]: Presseführung Haustierhof Pfingsten 1937, AZGB, O 0/1/15.
+
+[^propa3]: Schriftwechsel zur Übergabe der Fläche und der Fläche in: GStA PK I. HA, Rep 151, 2500; Niederschrift der Aufsichtsratssitzung 24.08.1935, in: GStA PK I. HA, Rep 151, 2496, Bl. 93-94.
+
+[^wegweiser]: Blaszkiewitz, Bernhard. 2011. „Die Titel der Zooführer des Zoologischen Gartens Berlin 1985-2010“. Bongo 41: 5–16.
+
+[^warschau1]: Gary Bruce: Through the Lion Gate. A History of the Berlin Zoo, Oxford 2017, S. 164 mit Berufung auf die Memoiren der Ehefrau des Zoodirektors Antonina Zabinska, S. 164.
 
 [^tierpark]: Vorsitzender des Rats des Bezirks Neubrandenburg an H. Dathe, hier die Durchschrift an Stellv. OB Waldemar Schmidt, 23.12.1955 sowie  Notiz W. Schmidt an H. Fechner, 27.12.1955, LAB, C Rep. 120, Nr. 1538.
 
@@ -128,7 +211,7 @@ WEITER??
 
 [^SpandauerForst13]: ~~19.3.1946... . xxx~~
 
-[^SpandauerForst14]: Katharina Heinroth an den Magistrat der Stadt Berlin, 28.6.1946, in: AZGB O 1/1/2. 
+[^SpandauerForst14]: Katharina Heinroth an den Magistrat der Stadt Berlin, 28.6.1946, in: AZGB O 1/1/2.
 
 [^SpandauerForst15]: Aktien-Verein des Zool. Gartens zu Berlin: Geschäftsbericht für 1947, erstattet in der 75. ordentlichen Hauptversammlung am 35.4.1949, in: AZGB N/4/2.
 
@@ -137,3 +220,7 @@ WEITER??
 [^SpandauerForst17]: Tier-Inventur am 31. Dezember 1951, in: AZGB O 0/2/29.
 
 [^SpandauerForst18]: Vgl. Geschäftsbericht des Actien-Vereins des Zoologischen Gartens 1951, in: AZGB N/4/2.
+
+[^zootp1]: Vgl. Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag: 220-228.
+
+[^zootp2]: B. Blaszkiewitz: Überlegungen zur Beziehung Zoologischer Garten Berlin / Tierpark Berlin, 07.10.1990 AZGB O 0/1/375.
