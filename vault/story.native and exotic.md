@@ -2,7 +2,7 @@
 id: 5277f2fa-42b1-4bfa-8a6c-8f8c2117784e
 title: Native and Exotic
 desc: Put a description of this note here...
-updated: 1621443623442
+updated: 1621520183455
 created: 1620997389421
 title_de: Heimisch und Exotisch
 desc_de: Put a DE description of this note here...
@@ -69,7 +69,7 @@ Schwarz-Weiß-Rot sowie der Hakenkreuzflagge
 zu kennzeichnen.[^deutscherzoo1]
 
 ![Zeitungsartikel](images\cmw\Ztg_Deutscher_Zoo.jpg)
-_Artikel im 'Völkischen Beobachter' mit einem Interveiw von Lutz Heck, 09.06.1934_
+_Artikel im 'Völkischen Beobachter' mit einem Interview von Lutz Heck, 09.06.1934._
 
 Noch fehlte es aber an Platz. Im August 1935 erhielt der Berliner Zoo auf Initiative des Preußischen Ministerpräsidenten Hermann Göring eine Grundstückserweiterung an seinem nördlichen Rand.[^propa3] 
 
