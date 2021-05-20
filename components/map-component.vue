@@ -1,8 +1,8 @@
 <template>
   <div id="map-wrap">
   <client-only>
-    <l-map ref="myMap" :zoom=4 :center="[points[activePoint].geometry.coordinates[1],points[activePoint].geometry.coordinates[0]]">
-      <l-tile-layer url="http://{s}.tile.osm.org/{z}/{x}/{y}.png"></l-tile-layer>
+    <l-map ref="myMap" :zoom="zoomDefault" :center="[points[activePoint].geometry.coordinates[1],points[activePoint].geometry.coordinates[0]]">
+      <l-tile-layer :url="tileSource"></l-tile-layer>
       <!-- <l-marker :lat-lng="[points[activePoint].geometry.coordinates[0],points[activePoint].geometry.coordinates[1]]"></l-marker> -->
     </l-map>
   </client-only>
@@ -41,17 +41,32 @@ export default {
           }
         }
       ],
-      activePoint:0
+      activePoint:0,
+      zoomDefault:6,
+      tileSource:"http://{s}.tile.osm.org/{z}/{x}/{y}.png",
+      panOptions:{
+        animate: true,
+        duration: 1,
+        easeLinearity: 0.1
+      },
+      zoomOptions:{
+        animate:true
+      }
     }
   },
   methods:{
     moveMap(){
       this.activePoint ++
       this.$refs.myMap.mapObject.flyTo(
-      [
-        this.points[this.activePoint].geometry.coordinates[1],
-        this.points[this.activePoint].geometry.coordinates[0]
-      ], 6
+        {
+          lat: this.points[this.activePoint].geometry.coordinates[1], 
+          lon: this.points[this.activePoint].geometry.coordinates[0]
+        },
+        this.zoomDefault,
+        {
+          animate:true, 
+          duration:1.5
+        }
       )
     }
   },
