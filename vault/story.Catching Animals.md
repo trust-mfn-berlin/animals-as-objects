@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching 'Exotic' Animals
 desc: Put a description of this note here...
-updated: 1621544631294
+updated: 1621545245046
 created: 1618492547915
 title_de: Fang 'exotischer' Tiere
 desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen. Hinzu kamen von Zoos organisierte eigene Expeditionen und die Gelegenheitsgeschenke von Großwildjägern und Kolonialbeamten.
@@ -126,13 +126,13 @@ Aber insgesamt verlängerten sich nicht nur die Lebensdauern in Zoos, die gehalt
 ![Das Innere des Raubtierhauses](images/cmw/Neues_Raubtierhaus_14061973.jpg)
 *Das Raubtierhaus des Berliner Zoos war nur ein Beispiel für die 'Badezimmerarchitektur, 1973. (AZGB)*
 
-Seit den 1960er Jahren sind zunehmend Züchtungen [[story.Breeding Animals for the Zoo]], also in Zoos gezeugte Nachkommen, an die Stelle der Wildfänge [Wildfang) getreten. Heute werden im Rahmen des Artenschutzes werden von Zoos in der Regel keine Individuen gefährdeter Arten mehr aus der Natur entnommen.
+Seit den 1960er Jahren sind zunehmend Züchtungen [[story.Breeding Animals for the Zoo]], also in Zoos gezeugte Nachkommen, an die Stelle der Wildfänge [Wildfang) getreten. Heute werden im Rahmen des Artenschutzes werden von Zoos in der Regel keine Individuen gefährdeter Arten mehr aus der Natur entnommen. Das Übereinkommen über den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen (Convention on International Trade in Endangered Species of Wild Fauna and Flora (kurz [[story.Cites]]) beendete letztlich den Fang von Tieren in ihren Lebensräumen für Zoos weitgehend.
 
 @mareike <!--deine Schildkröten aus den 1950ern?-->
 
 ## Das Washingtoner Abkommen
 
-Ende Gelände
+
 
 
 
