@@ -2,7 +2,7 @@
 id: d54394f6-1188-4ec3-b590-da329e657560
 title: Futternot
 desc: Put a description of this note here...
-updated: 1621499799496
+updated: 1621501093584
 created: 1621497485660
 title_de: Futternot
 desc_de: Put a DE description of this note here...
@@ -26,7 +26,6 @@ Eines der überlebenden Tiere war der asiatische Elefantenbulle „Siam“. Als 
 ![Ein Artikel des Life-Magazine, der den letzten Elefanten im Berliner Zoo zeigte, 1945](images\mv\Berlins last elephant-Life Magazine Oct 15 1945 p 42.jpg) 
 
 _Der einzige überlebende Berliner Zoo-Elefant nach Kriegsende, Life-Magazine Oktober 1945._
-
 
 Im Zoo fehlte es damals an allem, vom Futter über Brennholz bis zu Baumaterialien. Die Zoologin Katharina Heinroth [[material.Katharina Heinroth]], die am 3. August 1945 die Leitung des großenteils zerstörten Zoologischen Gartens übernahm, hatte größte Mühe mit ihren wenigen Mitarbeiter\*innen und nahezu ohne finanzielle Mittel die verbliebenen Tiere durchzubringen. Obwohl der russische Kommandant (der Zoo lag zuerst in der russischen Zone) einen Schein für Futtermittel ausstellte, so dass einstweilen wieder Fleisch für die Raubtiere, Heu, Hafer und Kartoffeln gekauft werden konnten [^Futternot2], war die Situation angespannt. Die Beschaffung von Futter blieb die kommenden Jahre ein brennendes Thema: „[D]ie Futtermittelnot ist furchtbar, am meisten fehlen Kartoffeln, Rüben, Heu und Stroh. [...] Wir haben seit 4 Monaten keine Kartoffeln für den Betrieb bekommen“ [^Futternot3], schreibt Katharina Heinroth ein knappes Jahr später über die Ernährungslage im Zoo. Wie sollte man da einen Elefanten ernähren? 
 
@@ -83,7 +82,7 @@ Tatsächlich war „Siam“ nicht verhungert, sondern an einer chronischen Darme
 
 _Beleids-Postkarte vom vierjährigen Hello Keller an den Berliner Zoo zum Tod von „Siam“, AZGB O 0/1/87._
 
-Daneben gab es aber auch empörte Stimmen, die – in der Annahme, dass der Elefant verhungert war – wissen wollten, warum der Zoo seine Tiere nicht fortgab, wenn er sie nicht mehr ernähren könne.[^StadtErnähren11] Tatsächlich stand in diesen Jahren beständig die Frage im Raum, ob der Zoo gezwungen war, einen Teil seiner wertvollen Bestände wegen Futtermangels notzuschlachten oder Tiere wegzugeben.[^StadtErnähren12] Die Alliierte Kommandantur hatte dem Zoo bereits 1945 ein Anschaffungsverbot für neue Tiere auferlegt [backlink]: Beschluss Alliierte Kommandantur, da für mehr als die inzwischen wieder vorhandenen 240 Tiere kein Futter bereitgestellt werden konnte und die schlechte Ernährungslage von Berlin nicht noch mehr belastet werden sollte.[^StadtErnähren13] Mehrmals drohte der englische Kommandant an, den Zoo zu schließen und die Tiere in den Westen zu evakuieren. 
+Daneben gab es aber auch empörte Stimmen, die – in der Annahme, dass der Elefant verhungert war – wissen wollten, warum der Zoo seine Tiere nicht fortgab, wenn er sie nicht mehr ernähren könne.[^StadtErnähren11] Tatsächlich stand in diesen Jahren beständig die Frage im Raum, ob der Zoo gezwungen war, einen Teil seiner wertvollen Bestände wegen Futtermangels notzuschlachten oder Tiere wegzugeben.[^StadtErnähren12] Die Alliierte Kommandantur hatte dem Zoo bereits 1945 ein Anschaffungsverbot für neue Tiere auferlegt [backlink]: Beschluss Alliierte Kommandantur, da für mehr als die inzwischen wieder vorhandenen 240 Tiere kein Futter bereitgestellt werden konnte und die schlechte Ernährungslage von Berlin nicht noch mehr belastet werden sollte.[^StadtErnähren13] Mehrmals drohte der englische Kommandant an, den Zoo zu schließen und die Tiere in den Westen zu evakuieren.[^StadtErnähren14] 
 
 ## Fußnoten ##
 
@@ -122,7 +121,7 @@ Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp.
 [StadtErnähren11]: Vgl. u.a. "Charlotte Gutschmidt an Katharina Heinroth, 26.3.1947, in: AZGB O 1/2/37: „Nun lasen wir aber im selben Artikel, Sie wollen sich jetzt schon wieder um einen neuen Elefanten bemühen. Ja, liebe Frau Direktor, können Sie denn dies mit Ihrem Herzen verantworten! Der erleidet doch dann in einigen Wochen, vielleicht Monaten dasselbe Schicksal wie der Siam. Bloß auf die Reklame hin, wieder einen Elefanten zu haben, würde ich das nicht tun. Wir wissen, warum wir hungern müssen, aber ein Tier doch nicht. Wir müssen jetzt auf soviel Liebes und Schönes verzichten, also wollen wir augenblicklich lieber keinen Elefanten haben. Denn wenn wir hinkommen und ihn ansehen, haben wir bestimmt immer noch den Gedanken: „Es hat Hunger wie wir alle.“
 [^StadtErnähren12]: Als die Meerschweinchenzucht wieder im Aufbau, blieb der Zoo „öfter gezwungen, aus Futterknappheit Meerschweinchen zu verfüttern“. "Katharina Heinroth an Johannes Roscher, 23.2.1947, in: AZGB O 1/2/42 I.
 [^StadtErnähren13]: Zwischen Mai und August 1945 stieg der Tierbestand 194 auf 240 Stück; vor allem durch Aufnahme der Tiere aus dem Zirkus Brumbach.
-
+[^StadtErnähren14]: Dabei darf nicht vergessen werden, dass es der Zweite Weltkrieg war, der in ganz Europa viele Zoos mehr oder weniger schwer zerstört hatte; zudem waren deutsche Zoodirektoren wie Lutz Heck an Plünderungen (??) in Zoos wie dem Warschauer und Posener Zoo beteilgt. Vgl. Szczygielska, Marianna. "Elephant Empire: Zoos and Colonial Encounters in Eastern Europe." _Cultural Studies_(2020): 1-22. https://doi.org/10.1080/09502386.2020.1780280. 
 
 
 
