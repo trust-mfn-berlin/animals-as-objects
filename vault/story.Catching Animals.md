@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching 'Exotic' Animals
 desc: Put a description of this note here...
-updated: 1621526129979
+updated: 1621530319573
 created: 1618492547915
 title_de: Fang 'exotischer' Tiere
 desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen. Hinzu kamen von Zoos organisierte eigene Expeditionen und die Gelegenheitsgeschenke von Großwildjägern und Kolonialbeamten.
@@ -44,42 +44,29 @@ Zwischen etwa 1890 und 1914 kamen jedes Jahr regelmäßig Geschenke aus den deut
 Es ist wichtig, sich in Erinnerung zu rufen, dass die Fänger bei einigen in Herden lebenden und gefährlichen Säugetieren, Herdenmitglieder oder Muttertiere für den Fang von Jungtieren töteten, um gefahrlos an die begehrten Jungtiere zu kommen. Tierhändler hatten in der Regel Interesse an Jungtieren, da deren zu erwartende längere Lebensdauer einen höheren Preis erzielen würden. Auch waren jüngere und damit kleinere Tiere besser zu transportieren. Oft erwarteten die Händler und die Zoodirektoren, dass mit der Flasche aufgezogene oder zumindest im Kontakt mit Menschen aufwachsende Tiere leichter zu pflegen sein würden im Zwangssystem eines Zoos.
 
 Eine wesentliches Hindernis der Tierhändler aber auch aller Akteure, die Tiere aus den Ursprungsgebieten nach Europa brachten war die Gefahr, dass diese auf dem Transport sterben könnten. Wir haben keine akkuraten Zahlen über die Verluste, können aber davon ausgehen, dass diese insbesondere zu beginn noch groß waren. Die gefangenen Tiere mussten an Ort und Stelle mittels Käfigen, Gehegen, Grupen oder Schlingen und Ketten zunächst fixiert und gefangen gehalten werden, bis die Expedition beendet oder die gewünschte Anzahl Tiere gesammelt wurde.
- 
-### Deutsch-Ostafrikanisches Nashorn
 
-Es ist bis dato noch nicht gelungen Fauna Afrikas nach Europa zu transportieren - nur aus dem Somaliland hat Menges regelmäßige Transporte; auch neue Infrastrukturen und Eisenbahnen nicht geholfen; alleine die Kuhherden für die Milch am Leben zu halten ist fast unmögliches Unterfangen; er schießt dann das Muttertier; er lässt das Jungtier nachts marschienen der Hitze wegen; in Neapel nimmt es Ludwig Heck entgegen.[^africanrhino]
+Carl Georg Schillings, selbst Jäger und Tierfänger, schilderte 1905 die Lage:
+>"Es ist bis dato noch nicht gelungen Fauna Afrikas nach Europa zu transportieren - nur aus dem Somaliland hat Menges regelmäßige Transporte; auch neue Infrastrukturen und Eisenbahnen nicht geholfen; alleine die Kuhherden für die Milch am Leben zu halten ist fast unmögliches Unterfangen; er schießt dann das Muttertier; er lässt das Jungtier nachts marschienen der Hitze wegen; in Neapel nimmt es Ludwig Heck entgegen."[^africanrhino]
 
 ## Die Großen Spieler - Hagenbeck, Ruhe und Co.
 
-Der Assistent am Zoo Berlin und Direktor des Aquariums,  Oskar Heinroth, fuhr regelmäßig in eine Forschungsstation an der Adria, um dort Tiere für sein Aquarium mitzunehmen. Insbesondere das Aquarium verwendete lange Zeit Wildfänge [[material.animals caught in the wild]].
+>"The international traffic in wild animals, perhaps the only area of colonial trade that was dominated by Germans, created an imprtant context for the emergence of Hagenbeck's ethnographic enterprise."[^hagenb1]
 
-### Fangstationen und Akklimatisierung
+So beschrieb es Eric Ames in seinem Bericht über die Entwicklung des Geschäftes der über Jahrzehnte den internationalen Tierfang dominierenden Firma von Carl Hagenbeck. Und in der Tat waren es Hagenbeck und andere Firmen, die ,lange bevor das Deutsche Reich eigene Kolonien eroberte, bereits in den Kolonialreichen der Briten, Franzosen, Niederländer und Belgier afrikanische und asiatische Tiere für den internationalen Handel fingen. 1864 verband sich Hagenbeck im britisch beherrschten Sudan mit dem österreichischen Tierfänger Lorenzo Casanova. Dieser baute für Hagenbeck eine Famgstation bei Kassala - auf halbem Weg zwischen Khartum und der Küste des Roten Meeres.Nach dessen Tod behielt Hagenbeck dieses Model bei und engagierte feste 'Agenten' und Fänger wie den oben von C. G. Schillings erwähnten Joseph Menges. Dieser beschrieb die in Kassala vorherrschende Arbeitsteilung in der Form, dass der (weiße) Händler in Kassala recht komfortabel lebe und die lokalen Arbeiter die Tiere bis vor die "Haustür" brächten.[^hagenb2] Selten oder nie waren die Händler oder 'Fänger' selber aktiv, wie bei fossilien Ausgrabungen verließen sie sich auf ein Heer von Arbeiter\*innen aus der lokalen Bevölkerung oder nomadisch lebender Jäger. Die verrichteten in der Regel die physische Arbeit des Fangens und auch der Pflege im Sammel- oder Fanglager. Auch begleiteten sie die Transporte bis zu den Häfen und einige manchmal darüber hinaus bis an das Bestimmungsziel. In den Erinnerungen der Händler oder Tierfänger haben sie selten oder nie Namen, ihre Arbeit wird nicht wertgeschätzt. [[story.Colonial Imagery]] [[story.Heck Expeditions]]
+Auch die Firmen Reiche und Ruhe aus Alfeld waren bestimmende Größen im internationalen Tierhandel. Die Firma Ruhe betrieb bei Dire Daua im heutigen Äthiopien und und bei Nizza Sammel- und Akklimatisationsstationen. Über Nizza kam auch der Gorilla "Bobby" [[story.Bobby life]] nach Berlin.[^hagenbeck3]
 
-Ruhe bei Dire Daua und bei Nizza zusammen mit Basilewsky in Cros de Gagnes
-Bobby - aber auch vor Ort musste das geschehen. Eingewöhnung, Ernährungsumstellungen
+Einzelne Zoos unternahmen zu Beginn des 20. Jahrhunderts eigene Fangexpeditionen. Insbesondere amerikanische Zoos begannen diesen Trend.[^exped1] Der Assistent am Zoo Berlin und Direktor des Aquariums, [[material.Oskar Heinroth]], fuhr regelmäßig in eine Forschungsstation an der Adria, um dort Tiere für sein Aquarium mitzunehmen. Insbesondere das Aquarium verwendete lange Zeit Wildfänge [[material.animals caught in the wild]]. Der spätere Direktor des Zoologischen Gartens Berlin [[material.Lutz Heck]] (1892-1983) war seit 1924 bei seinem Vater, dem Berliner Zoodirektor [[material.Ludwig Heck]] als Assistent angestellt. 
+1925 fuhr er zusammen mit dem Raubtierpfleger Petrus Olesen nach [[material.Abyssinia]] um dort afrikanische Wildtiere zu fangen. Dabei begleiteten ihn auch ein Produzent und ein Kameramann der DEFA. Der aus der Expedition hervorgegangene Film strotzte in der Darstellung der Bevölkerung Ostafrikas vor rassistischen und aus der Kolonialzeit übernommenen Stereotypen. 1927/28 fuhr er in das Gebiet des heutigen Tansania um Giraffen zu fangen.
 
-### Eigene Expeditionen des Berliner Zoos
+![Zwei Giraffen auf dem Heck eines Lastwagens](images\cmw\S_3_82_Giraffentransport.jpg)
+_Transport zwei gefangener junger Giraffen, 1928. (AZGB, Foto Lutz Heck)_
 
-Der spätere Direktor des Zoologischen Gartens Berlin [[material.Lutz Heck]] (1892-1983) war seit 1924 bei seinem Vater, dem Berliner Zoodirektor [[material.Ludwig Heck]] als Assistent angestellt. Auf seine Initiative sind die größeren Freigehege zurückzuführen. 
-
-* Vorbilder USA
-
-1925 fuhr er zusammen mit dem Raubtierpfleger Petrus Olesen nach [[material.Abyssinia]] um dort afrikanische Wildtiere zu fangen. Dabei begleiteten ihn auch ein Produzent und ein Kameramann der DEFA. Der aus der Expedition hervorgegangene Film strotzte in der Darstellung der Bevölkerung Ostafrikas vor rassistischen und aus der Kolonialzeit übernommenen Stereotypen
-
-Der Erfolg der ersten Expedition ließ [[material.Lutz Heck]] 1927 erneut eine Expedition ins Auge fassen. Dieses mal wollte er zudem Einheimische mit nach Berlin bringen, um sie dort zusammen mit den gefangenen Tieren auszustellen
-
-1927/28 in das Gebiet des heutigen Tansania. Die ehemalige deutsche Kolonie Deutsch-Ost-Afrika war zu diesem Zeitpunkt den Briten unterstellt. Beide Male begleitete ihn der Tierpfleger Petrus Olesen.
-1935 fuhr [[material.Lutz Heck]] dann im Auftrag des Preußischen Ministerpräsidenten und führenden Nationalsozialisten Hermann Göring nach Kanada. Dort sollte er Bisons fangen, die in Berlin und Deutschland in Zoos ausgestellt und bei der Erhaltungszucht des Wisents [[story.Breeding Animals for the Zoo]] eingesetzt werden sollten.
-Die Spezialisten
-Menges
-
-Auch noch in den 1930er Jahren ging [[material.Lutz Heck]] auf Fangreisen. So fuhr er im Auftrag von [[material.Hermann Göring]] nach Kanada, um dort mit behördlicher Erlaubnis Elche? und Bisons zu fangen. Letztere wollte er im Erhaltungszuchtprogramm für den Wisent einsetzen und bei sich und in anderen Zoos ausstellen. Er reiste auch erneut nach Afrika, diesmal aber eher als Foto- und Jagdtourist. Seine Lebensgefährtin Eva Mac Lean reiste mehrfach nach Kamerun, an den Tschadsee und ins südliche Afrika und brachte auch weiterhin einzelne Tiere für den Berliner Zoo mit zurück.
+Die ehemalige deutsche Kolonie Deutsch-Ost-Afrika war zu diesem Zeitpunkt den Briten unterstellt. Beide Male begleitete ihn der Tierpfleger Petrus Olesen. Mehr ist in der story zu seinen Expeditionen zu erfahren [[story.Heck Expeditions]]
 
 ## Kriegsbeute
 
-Während des Ersten und Zweiten Weltkrieges haben Truppenverbände der Reichswehr und der Wehrmacht Tiere in den eroberten Gebieten Europas gefangen und dem Zoologischen Garten der Reichshauptstadt übergeben.
-Im Winter 1939 begab sich Lutz Heck in das gerade eroberte Warschau. Dort teilte er wohl im Auftrag des Reichsforstmeisters [[material.Hermann Göring]] dem Warschauer Zoodirektor Jan Zabinski mit, dass der Zoo geschlossen sei. Wertvolle Schautiere, darunter einen Elefanten, stahl heck für deutsche Zoos. Die restlichen Tiere wurden getötet.
-Wolf der Legion Condor
+Aber nicht nur Tierfänger und Zoodirektoren und ihre lokalen Helfer\*innen fingen Tiere in der Wildnis". Während des Ersten und Zweiten Weltkrieges haben Truppenverbände der Reichswehr und der Wehrmacht Tiere in den eroberten Gebieten Europas gefangen und dem Zoologischen Garten der Reichshauptstadt übergeben. Im Winter 1939 begab sich Lutz Heck in das gerade eroberte Warschau. Dort teilte er wohl im Auftrag des Reichsforstmeisters [[material.Hermann Göring]] dem Warschauer Zoodirektor Jan Zabinski mit, dass der Zoo geschlossen sei. Wertvolle Schautiere, darunter einen Elefanten, stahl Heck für deutsche Zoos. Die restlichen Tiere wurden getötet.[^exped2] Der Geschäftsbericht des Zoos vermerkte nur lakonisch, dass Tiere aus Warschau "zu treuen Händen 
+
 
 ## Letztes Aufbäumen - die 1950er
 
@@ -87,8 +74,6 @@ Bereits auf den Tagungen der IUDZG 1958 und 1959 wurden durch die Zoodirektoren 
 Dathe berichtete vom Panda und Silver Pheasant
 Antibiotika, Kreislaufmittel und neue Kenntnisse zur Ernährung
 ungeahnte Ausmaße; kriegszerstörte Gärten füllen wieder auf.[^1950s1]
-
-## Tiere holen - späte Expeditionen
 
 Die Zoodirektorin Katharina Heinroth fuhr XXXX nach Borneo und Sumatra. Es handelte sich dabei nicht um eine klassische Fangfahrt, Heinroth hatte zuvor Angebote bekommen und bei lokalen Behörden und Fängern um Fangerlaubnisse angesucht. Sie kam vor allem, um die Tiere in der Wildbahn zu sehen und dann Exemplare auszusuchen und auf dem Transport in den Berliner Zoo zu begleiten.
 Sogar noch XXXX fuhr der Berliner Zoodirektor Heinz-Georg Klös in den Hluhluwe-Umfolozi-Park in Südafrika, um ein XXXX zu fangen und in den Zoologischer Garten Berlin zu bringen. Die Fangerlaubnis hatte er zuvor durch die südafrikanischen Behörden erhalten. 
@@ -128,6 +113,12 @@ ____
 
 [^colonial1]: Vgl. unter anderem Gissibl, Bernhard. The nature of German imperialism: conservation and the politics of wildlife in colonial East Africa. The environment in history : international perspectives, Volume 9. New York: Berghahn Books, 2016; Domínguez, Lara, und Colin Luoma. „Decolonising Conservation Policy: How Colonial Land and Conservation Ideologies Persist and Perpetuate Indigenous Injustices at the Expense of the Environment“. Land 9, Nr. 3 (2020). https://doi.org/10.3390/land9030065; Prendergast, David. „Colonial wildlife conservation and the origins of the Society for the Preservation of the Wild Fauna of the Empire (1903–1914)“. Oryx 37 (1. April 2003): 251–60. https://doi.org/10.1017/S0030605303000425; MacKenzie, John M. The Empire of Nature: Hunting, Conservation, and British Imperialism. Studies in Imperialism. Manchester, UK New York New York: Distributed exclusively in the USA by St. Martin’s Press, 1997; Thompsell, Angela. Hunting Africa: British Sport, African Knowledge and the Nature of Empire, 2015.
 
+[^hagenb1]: Ames, Eric. Carl Hagenbeck’s Empire of Entertainments. A McLellan Book. Seattle: University of Washington Press, 2008: 27.
 
+[^hagenb2]: Ames, 2008: 28-29.
 
+[^hagenbeck3]: Eipper, Paul. Freund aller Tiere. Ein Fahrtenbuch voll bunter Abenteuer. Berlin: Ullstein, 1937: 94-95.
 
+[^exped1]: Vgl. Hanson, Elizabeth. Animal attractions: nature on display in American zoos. Princeton, N.J: Princeton University Press, 2002: 100-130; Bridges, William. Zoo expeditions. William Morrow, 1945.
+
+[^exped2]: Maier-Wolthausen, Clemens. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 83, 121-122.
