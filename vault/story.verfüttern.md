@@ -2,7 +2,7 @@
 id: ca3795e2-a339-4574-97cc-e2c265233376
 title: VerfüTtern
 desc: Put a description of this note here...
-updated: 1621489637157
+updated: 1621500107290
 created: 1620752425372
 title_de: Verfüttern
 desc_de: Put a DE description of this note here...
@@ -24,8 +24,9 @@ published: false
 
 Nach ihrem Tod wurden die Überreste toter Tiere aus Zoologischen Gärten häufig nicht einfach entsorgt, sondern Teile davon auf verschiedene Weise möglichst vollständig weiterverwertet. Das galt auch für den Elefanten "Siam", der 1947 im Berliner Zoo starb.[^Verfüttern1] [[material.Siam]] Nach seinem Tod wurde sein Körper zerlegt und einzelne Teile zu unterschiedlichen Zwecken an verschiedene Orte verteilt. Vom Zoo aus führt der Weg zunächst ins Berliner Naturkundemuseum. Nachdem der Elefant dort seziert worden war, sollte das Zoologische Museum [backlink: Gliederung MfN] den Schädel für seine wissenschaftliche Sammlung erhalten und ein Stück Rückgrat für die Schausammlung, wie der damalige Leiter der Säugetiersammlung Hermann Pohle der Presse berichtete.[^Verfüttern2] Ein privater Präparator, der regelmäßig Tiere vom Zoo übernahm, erhielt die Füße des Dickhäuters, aus denen er „Papierkörbe mit Staniolpapier“ fertigte.[^Verfüttern3] Doch endet die Geschichte von „Siam“ hier nicht. Als die _Neue Zeitung_ titelte: „‘Siam‘“ = 2,5 Millionen Kalorien“[^Verfüttern4], war damit nicht nur der Zentner Heu gemeint, den der Elefant täglich gefressen hatte. Das Fleisch des 70 Zentner schweren Bullen wurde nun selbst verfüttert, an die Löwen im Zoo, „für die das Ableben ihres großen Nachbarn eine kalorienreiche Sonderzuteilung bedeutet“[^Verfüttern5]. Doch gelangte das Elefantenfleisch auch in menschliche Versorgungskreisläufe. Kurz darauf berichtete nämlich der Zoo-Angestellte Karl Wolf jun., ihm sei Elefantenfleisch zum Preis von 65 Reichsmark pro Pfund angeboten worden.[^Verfüttern6] Die Polizei nahm wegen illegalen Verkaufs von 20 Pfund Elefantenfleisch auf dem Schwarzmarkt Ermittlungen auf. Wolf wurde umgehend beauftragt, das Fleisch zu kaufen und dem Zoo zu berichten. Tatsächlich erschien er mit 5 Pfund Fleisch, das ihm eine Bewohnerin seines Hauses, Dorothea Bening, vor dem Restaurant Savarin für 325 Reichsmark übergeben hatte. Einer der Zoo-Wärter wurde angeklagt, das Fleisch entwendet und rund 20 Pfund unter der Hand weiterverkauft zu haben.[^Verfüttern7] Der Elefant war am Ende vom Schautier zum Fleischlieferanten geworden. Als die Presse Wind von der Sache bekam, titelte sie skandalträchtig: „Siam auf der Speisekarte“[^Verfüttern8]
 
-![Zeitungsartikel mit dem Titel "Siam auf der Speisekarte", 20.3.1947]
-(Caption: Abb. Zeitungsartikel zum illegalen Verkauf des Elefantenfleischs, in: xxx)
+![Zeitungsartikel in _Der Morgen_ vom 20.3.1947](images\mv\Siam auf der Speisekarte-Der Morgen 20-3-1947.jpg) 
+
+_Zeitungsartikel zum illegalen Verkauf des Elefantenfleischs, Der Morgen 20.3.1947._
 
 Aber während die Zeitungen halb ironisch darüber spekulierten, ob sich wohl jeder Zooangestellte „eine Scheibe abschneiden“ konnte und diese zu Kotelett oder Bouletten verarbeitete, war die Weiterverwertung von Tieren zu Ernährungszwecken in Zeiten der Not eine durchaus existentielle Frage. Zwei Jahre zuvor hatte sich die Leitung des Antwerpener Tiergartens wegen Futtermangels zum Abschlachten von drei Damhirschkälbern entschlossen, die dann in den Brüsseler Zentralhallen zum Verkauf angeboten wurden.[^Verfüttern9] 
 
