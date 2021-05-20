@@ -1,6 +1,6 @@
 <template>
   <div>
-    <map />
+    <map-component />
   </div>
 </template>
 

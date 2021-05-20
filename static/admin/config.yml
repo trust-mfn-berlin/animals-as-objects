@@ -39,6 +39,17 @@ collections:
         options: ["theme", "material", "story"]
       - { label: "Published", name: "published", widget: "boolean" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - label: 'Map slide'
+        name: 'map_slide'
+        widget: 'list'
+        collapsed: false
+        fields:
+          - label: 'Map data caption'
+            name: 'caption'
+            widget: 'string'
+          - label: 'Map data point'
+            name: 'geometry'
+            widget: 'map'
   - name: "pages"
     label: "Pages"
     files:
