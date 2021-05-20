@@ -2,7 +2,7 @@
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 title: fütternVerboten
 desc: Put a description of this note here...
-updated: 1621489824862
+updated: 1621525321347
 created: 1620752897039
 title_de: Füttern Verboten
 desc_de: Put a DE description of this note here...
@@ -25,23 +25,23 @@ Auf den Tod des Elefanten „Jambo“, der 1960 im Zoo Berlin eingeschläfert we
 
 ![Zeitungsartikel mit Elefantenfoto, der "mich nicht füttern" auf die Stirn geschrieben hat]
 
-(Caption: Abb. Xxx. Tagesspiegel-Artikel zum Fütterungsverbot im Berliner Zoo anlässlich der fütterungsbedingten Erkrankung von „Jambo“, Tagesspiegel, 31.3.1060.)
+_Tagesspiegel-Artikel zum Fütterungsverbot im Berliner Zoo anlässlich der fütterungsbedingten Erkrankung von „Jambo“, 31.03.1960._
 
 Im Hamburger Zoologischen Garten wurden die Besucher\*innen bereits 1879 „ergebenst und dringend ersucht, nur diejenigen Thiere zu füttern, deren Namen auf den Anschlagtafeln bekannt gemacht sind“.[^FütternVerboten1] Mahnungen an den Käfigen bezüglich des Fütterungsverbots werden auch im Zooführer des Tiergartens Schönbrunn schon 1912 erwähnt. Es dauerte jedoch bis in den späten 1950er Jahre, als die Mehrzahl der Zoos komplette Fütterungsverbote einführten; der Leipziger Zoo bereits 1957, der Zoologische Garten zu Münster 1959, nachdem auch dort mehrere Tiere wegen falschen Futters gestorben waren. TIERPARK SCHILDER UND WEGWEISER
 
 ![Zeitungsseite mit abgebildeten Fütterungsverbotsschildern in zoologischen Gärten, 1960]
 
-(Caption: Abb. Xxx: Verbotsschilder in zoologischen Gärten, in: 8-Uhr-Blatt, 13.4.1960.)
+_Verbotsschilder in zoologischen Gärten, abgedruckt im 8-Uhr-Blatt, 13.4.1960._
 
 In den Zooführern findet man das Fütterungsverbot in der „Gartenordnung“ oder in der einleitenden Ansprache „An unsere Besucher“. Elefant „Jambo“ stand die Warnung vor seiner Erkrankung sogar buchstäblich auf die Stirn geschrieben (vgl. Abb. xxx). In den Gärten wiederum wiesen nicht nur angeschlagene Tafeln auf die neuen Verordnungen hin; sie materialisierten sich auch in Gittern und Bannern, die eine physische Distanzierung zwischen Besuchern und Tieren schufen. 
 
 ![Kamelgehege mit Schild „Füttern verboten“, AZGB xxx.]
 
-(Caption: Abb. Xxx: Kamelgehege mit Schild „Füttern verboten“, AZGB xxx.)
+_Kamelanlage im Berliner Zoo mit Verbotsschild. (AZGB)_
 
 ![Fütterungsverbotschild im Zoologischen Garten Berlin]
 
-(Caption: Abb. Xxx: Fütterungsverbotschild im Zoologischen Garten Berlin, AZGB xxx.)
+_Fütterungsverbotschild im Zoologischen Garten Berlin. (AZGB)_
 
 Trotzdem wurde das Verbot gerade in der ersten Zeit immer wieder missachtet. Im Fütterungsverbot kristallisiert sich ein Interessenkonflikt zwischen artgerechter Tierhaltung, Bildungsanspruch und dem Bedürfnis nach Unterhaltung und unmittelbarem Kontakt mit den Tieren. Unzählige Mahnungen und Verweise musste der Berliner Zoo aussprechen, so groß war die Zahl von Besucher*innen, die die Tiere trotz Verbot weiter fütterten. In der Fütterungsfrage kristallisiert sich wie bei kaum einem anderen Thema die Frage nach der „Tierliebe“. Während die einen unter einem „Tierfreund“[^FütternVerboten2] diejenigen verstehen, der füttert und darin seine Sorge um die Tiere ausdrückt, tritt mit den Fütterungsverboten eine neue Form hinzu, für die sich die Liebe zum Tier und die Sorge um dieses gerade in der Zurückhaltung/Zurücknahme des eigenen Fütterungsverhaltens/-wunsches ausdrückt: „Auch wir bedauern das traurige Ende von Jambo und begrüßen das Fütterungsverbot. Anders ist ja den Berlinern mit ihrer übertriebenen Tierliebe nicht beizukommen“[^FütternVerboten3], hieß es in einer anonymen Zuschrift an den Zoo ein. Eine andere Besucherin schrieb:
 

@@ -2,7 +2,7 @@
 id: ca3795e2-a339-4574-97cc-e2c265233376
 title: VerfüTtern
 desc: Put a description of this note here...
-updated: 1621500107290
+updated: 1621525528656
 created: 1620752425372
 title_de: Verfüttern
 desc_de: Put a DE description of this note here...
@@ -26,7 +26,7 @@ Nach ihrem Tod wurden die Überreste toter Tiere aus Zoologischen Gärten häufi
 
 ![Zeitungsartikel in _Der Morgen_ vom 20.3.1947](images\mv\Siam auf der Speisekarte-Der Morgen 20-3-1947.jpg) 
 
-_Zeitungsartikel zum illegalen Verkauf des Elefantenfleischs, Der Morgen 20.3.1947._
+_Die Tageszeitung 'Der Morgen' berichtet über den illegalen Verkauf des Elefantenfleischs,20.03.1947._
 
 Aber während die Zeitungen halb ironisch darüber spekulierten, ob sich wohl jeder Zooangestellte „eine Scheibe abschneiden“ konnte und diese zu Kotelett oder Bouletten verarbeitete, war die Weiterverwertung von Tieren zu Ernährungszwecken in Zeiten der Not eine durchaus existentielle Frage. Zwei Jahre zuvor hatte sich die Leitung des Antwerpener Tiergartens wegen Futtermangels zum Abschlachten von drei Damhirschkälbern entschlossen, die dann in den Brüsseler Zentralhallen zum Verkauf angeboten wurden.[^Verfüttern9] 
 
