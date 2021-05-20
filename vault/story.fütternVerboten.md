@@ -2,7 +2,7 @@
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 title: fütternVerboten
 desc: Put a description of this note here...
-updated: 1620752995860
+updated: 1621489824862
 created: 1620752897039
 title_de: Füttern Verboten
 desc_de: Put a DE description of this note here...
@@ -21,7 +21,7 @@ published: false
 
 ## Füttern verboten!
 
-Auf den Tod des Elefanten „Jambo“ folgte eine erhitzte Diskussion, die sich um den richtigen Umgang mit Tieren in Gefangenschaft im Allgemein und ein Fütterungsverbot im Speziellen drehte. Tatsächlich leitete „Jambos“ Ableben am 10. April 1960 ein generelles Fütterungsverbot für alle Tiere im Berliner Zoo ein.
+Auf den Tod des Elefanten „Jambo“, der 1960 im Zoo Berlin eingeschläfert werden musste, nachdem er durch Besucher\*innen überfüttert worden war, folgte eine erhitzte Diskussion, die sich um den richtigen Umgang mit Tieren in Gefangenschaft im Allgemein und ein Fütterungsverbot im Speziellen drehte. Tatsächlich leitete „Jambos“ Tod am 10. April 1960 ein generelles Fütterungsverbot für alle Tiere im Berliner Zoo ein.
 
 ![Zeitungsartikel mit Elefantenfoto, der "mich nicht füttern" auf die Stirn geschrieben hat]
 
@@ -49,7 +49,7 @@ Trotzdem wurde das Verbot gerade in der ersten Zeit immer wieder missachtet. Im 
 
 Eine weitere anonymische Schreiberin berichtete von einer Frau, die beim Elefantengehege drei Damen beobachtet hatte. „Eine davon fütterte in einem fort, und als ich wütend sagte, sie soll das unterlassen, denn es steht doch überall angeschrieben, wird sie noch frech, – ich habe ja meinen Bauch voll, aber die Tiere hätten Hunger, und ich sollte mal machen, das ich weiterkomme. Dabei warf sie wieder 1 ganzen gerösteten Zwieback hin.“ Die Schreiberin schloss ihren Brief mit den Worten: „Wenn Sie es für gut befinden, das die Frau füttern darf, dann will ich den Zoo nie wieder besuchen. […] Eine tierliebe Zoobesucherin".[^FütternVerboten5] [[material.roland]] 
 
-Dieser und andere Vorfälle heizten eine Diskussion um die richtigen Maßnahmen zur Umsetzung des Fütterungsverbots an. Die Vorschläger aus der Bevölkerung reichten von der Einführung von Wachpersonal über Geldstrafen bis zum Zooverweis. Andere Vorschläge richteten sich weniger auf die Disziplinierung der Menschen als auf die Wandlung der Architektur: „Wäre es nicht angebracht“, schrieb xxx nach dem Tod des See-Elefanten, „ringsherum u. oben Maschengitter anzubringen, oder die Basins mit Scheiben zu umgeben u. oben mit Drahtgitter zu versehen, sodaß es unmöglich ist, auch nur das Geringste durchzustecken! Fütterungsverbot zwecklos, man muss die Tiere stattdessen „so abschirmen, daß Todes oder Krankheitsfälle nicht mehr vorkommen“[^FütternVerboten7] Damals antwortete der Zoo noch, ein öffentlicher Zoo sei „für die Tiere und die Menschen da“ weshalb man zu Kompromissen gezwungen sei. „Sind die Tiere z.B. allzusehr hinter Glas, Gitter und Absperrungen „verbarrikadiert“, fehlt dem Besucher – vom Füttern jetzt ganz abgesehen – das unmittelbare Erlebnis, der Kontakt. Hinzukommt, daß es gerade im Falle der Robbenanlagen außerordentlich schwierig und sehr kostspielig wäre, eine Glas- und Drahtkonstruktion zu schaffen.“ Am Ende verwies der Direktor die Verantwortung wieder an die Besucher*innen zurück: „Wir können nur immer wieder aufklärend wirkend und an die Einsicht der Besucher appellieren.“[^FütternVerboten8] Tatsächlich wurden aber mit der sukzessiven Umstellung der Gehege-Architekturen, die eine unmittelbare Berührung zwischen Mensch und Tier unterband, wurden zwei separierte Sphären geschaffen, die den Kontakt mit den Tieren auf den Blick reduzierte.
+Dieser und andere Vorfälle heizten eine Diskussion um die richtigen Maßnahmen zur Umsetzung des Fütterungsverbots an. Die Vorschläge aus der Bevölkerung reichten von der Einführung von Wachpersonal über Geldstrafen bis zum Zooverweis. Andere Vorschläge richteten sich weniger auf die Disziplinierung der Menschen als auf die Wandlung der Architektur: „Wäre es nicht angebracht“, schrieb xxx nach dem Tod des See-Elefanten, „ringsherum u. oben Maschengitter anzubringen, oder die Basins mit Scheiben zu umgeben u. oben mit Drahtgitter zu versehen, sodaß es unmöglich ist, auch nur das Geringste durchzustecken! Fütterungsverbot zwecklos, man muss die Tiere stattdessen „so abschirmen, daß Todes oder Krankheitsfälle nicht mehr vorkommen“[^FütternVerboten7] Damals antwortete der Zoo noch, ein öffentlicher Zoo sei „für die Tiere und die Menschen da“ weshalb man zu Kompromissen gezwungen sei. „Sind die Tiere z.B. allzusehr hinter Glas, Gitter und Absperrungen „verbarrikadiert“, fehlt dem Besucher – vom Füttern jetzt ganz abgesehen – das unmittelbare Erlebnis, der Kontakt. Hinzukommt, daß es gerade im Falle der Robbenanlagen außerordentlich schwierig und sehr kostspielig wäre, eine Glas- und Drahtkonstruktion zu schaffen.“ Am Ende verwies der Direktor die Verantwortung wieder an die Besucher*innen zurück: „Wir können nur immer wieder aufklärend wirkend und an die Einsicht der Besucher appellieren.“[^FütternVerboten8] Tatsächlich wurden aber mit der sukzessiven Umstellung der Gehege-Architekturen, die eine unmittelbare Berührung zwischen Mensch und Tier unterband, wurden zwei separierte Sphären geschaffen, die den Kontakt mit den Tieren auf den Blick reduzierte.
 SCHLUSS FEHLT NOCH…
 
 
