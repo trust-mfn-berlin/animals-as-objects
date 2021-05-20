@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching 'Exotic' Animals
 desc: Put a description of this note here...
-updated: 1621540869309
+updated: 1621545418886
 created: 1618492547915
 title_de: Fang 'exotischer' Tiere
 desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen. Hinzu kamen von Zoos organisierte eigene Expeditionen und die Gelegenheitsgeschenke von Großwildjägern und Kolonialbeamten.
@@ -47,8 +47,8 @@ Eine wesentliches Hindernis der Tierhändler aber auch aller Akteure, die Tiere 
 
 Auch konnte es vorkommen, dass die Strapazen langer Transporte zum schnellen Tod des Tieres im Zoo selbst führten. Eine Meldung des Zoologischen Gartens an das Naturkundemuseum zu Tierkadavern, die man übergeben hatte zeigt dieses.
 
-![Brief der Zooleitung an das Naturkundemuseum](images/cmw/MfN-HBSB-Nr97.png)
-_Lutz Heck an H. Pohle, 07.06.1934. (MfN XXXX)_
+![Brief der Zooleitung an das Naturkundemuseum](images/cmw/MfN_HBSB_S004_02_05_Nr97.jpg)
+_Lutz Heck an H. Pohle, 07.06.1934. (MfN HBSB S004-02-05 Nr. 97)_
 
 - @clemens - Signatur finden
 
@@ -88,35 +88,51 @@ Im Winter 1939 begab sich Lutz Heck in das gerade eroberte Warschau. Dort teilte
 ## Letztes Aufbäumen - die 1950er
 
 Nach dem Ende des Zweiten Weltkriegs lag Berlin in Trümmern, ein Kauf 'wilder', 'exotischer' Tiere kam zunächst nicht in Frage. Die Jagd musste also auf heimischem Boden stattfinden. Die Zoodirektorin der Jahres des Wiederaufbaus, [[material.Katharina Heinroth]] bezog nicht nur Tiere aus einem aufgelösten Zirkus, sie bekam zum 'Füllen' der leeren Gehege einheimische Tiere, gefangen in den Wäldern in und um Berlin. [[story.native and exotic]]
-Erst zur Mitte der 1950er Jahre wurde der internationale Tierhandel noch einmal ein florierendes Geschäft. Zwar erreichten die Handelsfirmen Hagenbeck und Ruhe das lange Jahrzehnte bestehende quasi-Monopol im Tierhandel nicht mehr, aber noch lohnte es sich. 
+Erst zur Mitte der 1950er Jahre wurde der internationale Tierhandel noch einmal ein florierendes Geschäft. Zwar erreichten die Handelsfirmen Hagenbeck und Ruhe das lange Jahrzehnte bestehende quasi-Monopol im Tierhandel nicht mehr, aber noch lohnte es sich.Die kriegszerstörten Tiergärten in Europa 'füllten' ihre leeren Gehege wieder auf.[^1950s1]
 
-Im neu eröffneten Tierpark in Ost-Berlin 
+Noch waren viele Regierungen bereit, Fanglizenzen zu vergeben. Die Zoodirektorin Katharina Heinroth fuhr 1955 nach Borneo und Sumatra. Es handelte sich dabei nicht um eine klassische Fangfahrt, Heinroth hatte zuvor Angebote bekommen und bei lokalen Behörden und Fängern um Fangerlaubnisse angesucht. Sie kam vor allem, um die Tiere in der Wildbahn zu sehen und dann Exemplare auszusuchen und auf dem Transport in den Berliner Zoo zu begleiten.[^heinr1]
 
+![Katharina Heinroth mit einem Affen auf der Schulter](images/cmw/Heinroth_Putzi_1955.jpg)
+_Katharina Heinroth bei ihrer Rückkehr mit dem XXXX "Putzi" auf der Schulter, 1955. (AZGB)_
 
-Allerdings zeigten sich nun Brüche, die sein Ende kündeten. Bereits auf den Tagungen der Internationalen Union der Zoodirektoren [[material.WAZA]] 1958 und 1959 wurden durch die Zoodirektoren auf aussterbende Arten hingewiesen. Tierparkdirektor [[material.Heinrich Dathe]] berichtete vom Panda und Silver Pheasant, Bernhard Grzimek engagierte sich Anfang der 1960er für einen Importstopp von Gorillas. Mehr dazu in der Story [[story.Zoos and Conservation]]. Hinzu kam, dass die Tiermedizin neue Erkenntnisse sammelte und diese auch von den Verantwortlichen in den Zoos rezipiert wurde. Antibiotika, und Kreislaufmittel kamen zur Anwendung und insbesondere neue Kenntnisse zur Ernährung sowie wachsende Gehegegrößen bewirkten längere Lebensdauern von Tieren in menschlicher Obhut. Zwar hieß es noch 1983 unter Berufung auf den Zoo in Philadelphia:
+Sogar noch XXXX fuhr der Berliner Zoodirektor Heinz-Georg Klös in den Hluhluwe-Umfolozi-Park in Südafrika, um ein XXXX zu fangen und in den Zoologischer Garten Berlin zu bringen. Die Fangerlaubnis hatte er zuvor durch die südafrikanischen Behörden erhalten.[^klös1]
 
->"Although one might assume that our nutritional knowledge of captive animals is complete because of our long history of captive animal efforts, 60 to 70% of the animals dying in captivity die because of poor mnagement and husbandry , with nearly 25% dying from nutritional problems."[^1950s2]
+- @clemens hier Bild von dem Nashorn mit Klös
 
-Aber insgesamt verlängerten sich nicht nur die Lebensdauern in Zoos, die gehaltenen Tiere vermehrten sich auch durch Nachzuchten.
+Auch gab es in jenen Jahren noch etwas, was man 'Gelegenheitskäufe' nennen könnte. Der Frankfurter Zoodirektor und spätere Fernsehpersönlichkeit [[material.Bernhard Grzimek]] berichtete, dass er mit seinem Sohn am Ende einer Reise durch Guinea, Sierra Leone, Elfenbeinküste und Liberia Mitte der 1950er Jahre zwei Schimpansen angeboten bekam. Obwohl er nicht auf einer Tierhandels- Tierfangreise befand, kaufte er die beiden Tiere und liess sie durch seinen Sohn nach Frankfurt begleiten.[^lateexp1]
 
-ungeahnte Ausmaße; kriegszerstörte Gärten füllen wieder auf.[^1950s1]
+Im neu eröffneten Tierpark in Ost-Berlin konnte man sich die 'Waren' dieses Handelsgeschäfts mit wildgefangenen Tieren aber nicht leisten. Devisenmangel und allgemeiner Ressourcenmangel machte dem riesigen neuen Berliner Zoo zu schaffen. Zwar hatte es wohlwollende Geschenke anderer Zoos der DDR und auch der Bundesrepublik gegeben, 'exotische' Tiere, die die Besucher\*innen erwarteten waren aber noch nur wenige vorhanden. Dennoch musste [[material.Heinrich Dathe]] nicht ganz auf sie verzichten. 
+Im Juli 1956 empfing der vietnamesische Staatschef Ho Chi Minh in Hanoi eine Delegation des Solidaritätsausschusses der DDR für Korea und Vietnam und des Nationalrates der Nationalen Front, der Zwangsorganisation unter der sich die zugelassenen, sogenannten Blockparteien mit der SED zusammenschließen mussten. Der Delegation sollten vietnamesische Tiere als Staatsgeschenk übereignet werden, der Transport war aber noch nicht fertig vorbereitet, bevor die Delegation das Land wieder verließ.[^kosko1] Die vietnameischen 'Freunde' hatten Bären, Pythonschlangen, Affen und gar einen Tiger fangen lassen, die im Hafen von Hanoi auf den Abtransport warteten.
 
-Die Zoodirektorin Katharina Heinroth fuhr XXXX nach Borneo und Sumatra. Es handelte sich dabei nicht um eine klassische Fangfahrt, Heinroth hatte zuvor Angebote bekommen und bei lokalen Behörden und Fängern um Fangerlaubnisse angesucht. Sie kam vor allem, um die Tiere in der Wildbahn zu sehen und dann Exemplare auszusuchen und auf dem Transport in den Berliner Zoo zu begleiten.
-Sogar noch XXXX fuhr der Berliner Zoodirektor Heinz-Georg Klös in den Hluhluwe-Umfolozi-Park in Südafrika, um ein XXXX zu fangen und in den Zoologischer Garten Berlin zu bringen. Die Fangerlaubnis hatte er zuvor durch die südafrikanischen Behörden erhalten. 
+Was nun folgte war ein über ein Jahr dauerndes Drama um die Tiere. Die noch junge DDR fand kein eigenes Schiff, welches zeitnah die Region anlaufen würde. Tiere des Transports starben daraufhin in Hanoi. Das Stadtkomitee der Vaterländischen Front in Hanoi hatte gar einen Elefanten "beschafft", dieser überstand den Winter 1956/57 aber nicht nicht. daraufhin bemühte sich die vietnamesische Seite einen weiteren zu fangen. Man fragte aber, ob denn wenigstens die Hirsche und Affen, die bereitstünden, schon vorher transportiert werden könnten.[^kosko2] Immer wieder wurden Schiffstransporte avisiert und wieder abgesagt, die Listen der bereitgestellten Tiere, die die Botschaft der DDR in Hanoi meldete, änderte sich ständig. Als letztlich ein polnisches Schiff, die Tiere in die DDR brachte waren mindestens ein Elefant, einige Raubkatzen und Affen, sowie Huftiere verstorben. dennoch wurde der 'Vietnamesische Tiertransport' für den Tierpark ein großer Werbeerfolg, was sicher auch an dem Elefantenkalb "Kosko" lag.
 
-Seit den 1960er Jahren sind zunehmend Züchtungen [[story.Breeding Animals for the Zoo]], also in Zoos gezeugte Nachkommen, an die Stelle der Wildfänge [Wildfang) getreten. Im Rahmen des Artenschutzes werden von Zoos in der Regel keine Individuen gefährdeter Arten mehr aus der Natur entnommen. 
+![Elefantenkalb läuft mit Kindern durch den Tierpark](images/cmw/Kosko-1958-Zimmer.jpg)
+_"Kosko" rennt mit begeisterten Kindern um die Wette, 1958. (Tierpark Berlin, Foto Zimmer)_
 
-Was für lange Zeit noch möglich war, waren was ich Gelegenheitskäufe nennen würde. Der Frankfurter Zoodirektor und spätere Fernsehpersönlichkeit berichtete, dass er mit seinem Sohn am Ende einer Reise durch  Guinea, Sierra Leone, Elfenbeinküste und Liberia zwei Schimpansen angeboten bekam. Obwohl er nicht auf einer Tierhandels- Tierfangreise befand, kaufte er die beiden Tiere und liess sie durch seinen Sohn nach Frankfurt begleiten.[^lateexp1]
-
-@mareike <!--deine Schildkröten aus den 1950ern?-->
+Letztlich in heutigem Verständnis war dieser Erfolg zu dem hohem Preis des Todes der 'Wildfänge' erlangt worden.
 
 ## Importe und Seuchenkontrolle
 
 Mit dem enormen Aufschwung, den der Tierhandel in den 1950er Jahren durch den Wiederaufbau auch der kriegszerstörten deutschen Zoos nahm, ergaben sich nach Ansicht der Behörden allerdings auch neue Probleme. Viele der nun nach Europa und Deutschland importierten Tiere kamen nun nicht mehr nach langem Transit auf Schiffen an, sondern wurden, was für die Tiere sicher besser war, mit dem Flugzeug verschickt. So wurde die Zeit in beengten Transportkisten minimiert, allerdings wurde die Gefahr des Einschleppens von Tierseuchen aus den Ursprungsgebieten möglicherweise erhöht. Eine Lösungsmöglichkeit in der Diskussion zwischen bundesdeutschen Behörden und den Zoos war die Einrichtung von Quarantäneställen in den Zoos selbst oder in bei den Händlern. Bernhard Grzimek lehnte letzteres rundheraus für die deutschen Zoos ab, da er die Gefahr sah, dass so die Händler ein absolutes Monopol auf den Import von Widltieren habbekämen en und die Zoos keine Möglichkeit mehr hätten, selbst Tiere zu fangen oder fangen zu lassen. Die Zoodirektoren schlossen sich dem bei ihrer Verbandssitzung an und vertraten die Ansicht, dass es keinen Regelelungsbedarf gab und die vorhandenen Vorschriften ausreichen würden. Es wäre in den vergangenen Jahren zu keinem Seuchenausbruch durch Zootiere gekommen.[^import]
 
+## Bessere Haltungsbedingungen und Zuchterfolge
+
+Allerdings zeigten sich nun auch Brüche, die von einem möglichen Ende des Tierhandels kündeten. Bereits auf den Tagungen der Internationalen Union der Zoodirektoren [[material.WAZA]] 1958 und 1959 wurden durch die Zoodirektoren auf aussterbende Arten hingewiesen. Tierparkdirektor [[material.Heinrich Dathe]] berichtete vom Panda und Silver Pheasant, Bernhard Grzimek engagierte sich Anfang der 1960er für einen Importstopp von Gorillas. Mehr dazu in der Story [[story.Zoos and Conservation]]. Hinzu kam, dass die Tiermedizin neue Erkenntnisse sammelte und diese auch von den Verantwortlichen in den Zoos rezipiert wurde. Antibiotika, und Kreislaufmittel kamen zur Anwendung und insbesondere neue Kenntnisse zur Ernährung sowie wachsende Gehegegrößen bewirkten längere Lebensdauern von Tieren in menschlicher Obhut. Zwar hieß es noch 1983 unter Berufung auf den Zoo in Philadelphia:
+
+>"Although one might assume that our nutritional knowledge of captive animals is complete because of our long history of captive animal efforts, 60 to 70% of the animals dying in captivity die because of poor mnagement and husbandry , with nearly 25% dying from nutritional problems."[^1950s2]
+
+Aber insgesamt verlängerten sich nicht nur die Lebensdauern in Zoos, die gehaltenen Tiere vermehrten sich auch durch Nachzuchten. Eine zwar nach heutigem Verständnis ungeeignete neue Form der Zooarchitektur, die 'Badezimmerarchitektur' der gefließten Ställe hielt Einzug. Gefließte Innenställe ließen sich leicht reinigen und beseitigten damit den Einfluss von Bakterien und Glasfronten verhinderten, zum Beispiel, dass sich Menschenaffen an den menschlichen Besuchern mit Keimen ansteckten oder ungeeignetes Futter verabricht wurde. Mehr dazu sowohl bei [[story.Zoo Architecture]] als auch [[story.feeding]] und [[story.fütternVerboten]].
+
+![Das Innere des Raubtierhauses](images/cmw/Neues_Raubtierhaus_14061973.jpg)
+*Das Raubtierhaus des Berliner Zoos war nur ein Beispiel für die 'Badezimmerarchitektur, 1973. (AZGB)*
+
+Seit den 1960er Jahren sind zunehmend Züchtungen [[story.Breeding Animals for the Zoo]], also in Zoos gezeugte Nachkommen, an die Stelle der Wildfänge [Wildfang) getreten. Heute werden im Rahmen des Artenschutzes werden von Zoos in der Regel keine Individuen gefährdeter Arten mehr aus der Natur entnommen. Das Übereinkommen über den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen (Convention on International Trade in Endangered Species of Wild Fauna and Flora (kurz [[story.Cites]]) beendete letztlich den Fang von Tieren in ihren Lebensräumen für Zoos weitgehend.
+
+@mareike <!--deine Schildkröten aus den 1950ern?-->
+
 ## Das Washingtoner Abkommen
 
-Ende Gelände
+
 
 
 
@@ -154,3 +170,11 @@ ____
 [^hagenb5]: Kawata, Ken. „Zoo Animal Feeding: A Natural History Viewpoint“. Der Zoologische Garten. Neue Folge 78 (2008): 17–42.
 
 [^1950s2]: Robbins, C. T. Wildlife Feeding and Nutrition, New York, 1983 zitiert nach Kawata, 2008: 23.
+
+[^kosko1]: Durchschrift Ministerium für Auswärtige Angelegenheiten der DDR an Solidaritätsausschuss für Korea und Vietnam, 12.10.1956, dieses und die gesamte Korrespondenz zu dem Vorgang mit dem MfAA in: Politisches Archiv des Auswärtigen Amtes (PA AA), M 01/A 8367.
+
+[^kosko2]: Botschaft der DDR in Hanoi: Aktenvermerk, 19.03.1957, PA AA, M 01/A 8367.
+
+[^heinr1]: @clemens noch Stelle bei K Heinroth finden.
+
+[^klös1]: 
