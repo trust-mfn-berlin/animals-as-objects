@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching 'Exotic' Animals
 desc: Put a description of this note here...
-updated: 1621538023135
+updated: 1621540869309
 created: 1618492547915
 title_de: Fang 'exotischer' Tiere
 desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen. Hinzu kamen von Zoos organisierte eigene Expeditionen und die Gelegenheitsgeschenke von Großwildjägern und Kolonialbeamten.
@@ -45,6 +45,15 @@ Es ist wichtig, sich in Erinnerung zu rufen, dass die Fänger bei einigen in Her
 
 Eine wesentliches Hindernis der Tierhändler aber auch aller Akteure, die Tiere aus den Ursprungsgebieten nach Europa brachten war die Gefahr, dass diese auf dem Transport sterben könnten. Wir haben keine akkuraten Zahlen über die Verluste, können aber davon ausgehen, dass diese insbesondere zu beginn noch groß waren. Die gefangenen Tiere mussten an Ort und Stelle mittels Käfigen, Gehegen, Grupen oder Schlingen und Ketten zunächst fixiert und gefangen gehalten werden, bis die Expedition beendet oder die gewünschte Anzahl Tiere gesammelt wurde.
 
+Auch konnte es vorkommen, dass die Strapazen langer Transporte zum schnellen Tod des Tieres im Zoo selbst führten. Eine Meldung des Zoologischen Gartens an das Naturkundemuseum zu Tierkadavern, die man übergeben hatte zeigt dieses.
+
+![Brief der Zooleitung an das Naturkundemuseum](images/cmw/MfN-HBSB-Nr97.png)
+_Lutz Heck an H. Pohle, 07.06.1934. (MfN XXXX)_
+
+- @clemens - Signatur finden
+
+Zwei der vier aufgeführten Tiere waren erst kurz zuvor von Tierhändlern geliefert worden.
+
 Carl Georg Schillings, selbst Jäger und Tierfänger, schilderte 1905 die Lage:
 >"Es ist bis dato noch nicht gelungen Fauna Afrikas nach Europa zu transportieren - nur aus dem Somaliland hat Menges regelmäßige Transporte; auch neue Infrastrukturen und Eisenbahnen nicht geholfen; alleine die Kuhherden für die Milch am Leben zu halten ist fast unmögliches Unterfangen; er schießt dann das Muttertier; er lässt das Jungtier nachts marschienen der Hitze wegen; in Neapel nimmt es Ludwig Heck entgegen."[^africanrhino]
 
@@ -56,6 +65,7 @@ Carl Georg Schillings, selbst Jäger und Tierfänger, schilderte 1905 die Lage:
 
 So beschrieb es Eric Ames in seinem Bericht über die Entwicklung des Geschäftes der über Jahrzehnte den internationalen Tierfang dominierenden Firma von Carl Hagenbeck. Und in der Tat waren es Hagenbeck und andere Firmen, die ,lange bevor das Deutsche Reich eigene Kolonien eroberte, bereits in den Kolonialreichen der Briten, Franzosen, Niederländer und Belgier afrikanische und asiatische Tiere für den internationalen Handel fingen. 1864 verband sich Hagenbeck im britisch beherrschten Sudan mit dem österreichischen Tierfänger Lorenzo Casanova. Dieser baute für Hagenbeck eine Fangstation bei Kassala - auf halbem Weg zwischen Khartum und der Küste des Roten Meeres. Auch nach dessen Tod behielt Hagenbeck dieses Model bei und engagierte feste 'Agenten' und Fänger wie den oben von C. G. Schillings erwähnten Joseph Menges. Dieser beschrieb die in Kassala vorherrschende Arbeitsteilung in der Form, dass der (weiße) Händler in Kassala recht komfortabel lebe und die lokalen Arbeiter die Tiere bis vor die "Haustür" brächten.[^hagenb2] Selten oder nie waren die Händler oder 'Fänger' selber aktiv, wie bei fossilien Ausgrabungen verließen sie sich auf ein Heer von Arbeiter\*innen aus der lokalen Bevölkerung oder nomadisch lebender Jäger. Die verrichteten in der Regel die physische Arbeit des Fangens und auch der Pflege im Sammel- oder Fanglager. Auch begleiteten sie die Transporte bis zu den Häfen und einige manchmal darüber hinaus bis an das Bestimmungsziel. In den Erinnerungen der Händler oder Tierfänger haben sie selten oder nie Namen, ihre Arbeit wird nicht wertgeschätzt. Bilder von ihnen gibt es selten und wenn es sie gibt, dann sind es auch hier oft anonyme Trägerkarawanen.[^hagenb4] [[story.Colonial Imagery]] [[story.Heck Expeditions]]
 Auch die Firmen Reiche und Ruhe aus Alfeld waren bestimmende Größen im internationalen Tierhandel. Die Firma Ruhe betrieb bei Dire Daua im heutigen Äthiopien und und bei Nizza Sammel- und Akklimatisationsstationen. Über Nizza kam auch der Gorilla "Bobby" [[story.Bobby life]] nach Berlin.[^hagenbeck3]
+Das sich das Geschäft mit dem Tierfang und Handel sehr lohnte lag unter anderem am Zustand der Tiergärten selbst. Mangelndes tiermedizinisches und ethologisches Wissen führten in den oft viel zu kleinen Gehegen zu ständigen und großen Verlusten in den Zoopopulationen. Kaum ein Tier das auch nur annähernd sein angeborenes Verhalten zeigen konnte, die Nahrung war oft grundfalsch. So wurden gar fleischfressenden Tieren nur vegetarische Nahrung gegeben, Herbivore erhielten hingegen auch schon mal Fleisch.[^hagenb5] Zucht war nicht möglich, da manchmal nur einzelne Individuen einer Art gehalten wurden und vielleicht auch gar nicht nötig, denn es gab ja ständigen Nachschub durch den Tierhandel. Die Lebenszeit von Zootieren war in der Regel kurz.
 
 Einzelne Zoos unternahmen zu Beginn des 20. Jahrhunderts eigene Fangexpeditionen. Insbesondere amerikanische Zoos begannen diesen Trend.[^exped1] Der Assistent am Zoo Berlin und Direktor des Aquariums, [[material.Oskar Heinroth]], fuhr regelmäßig in eine Forschungsstation an der Adria, um dort Tiere für sein Aquarium mitzunehmen. Insbesondere das Aquarium verwendete lange Zeit Wildfänge [[material.animals caught in the wild]]. Der spätere Direktor des Zoologischen Gartens Berlin [[material.Lutz Heck]] (1892-1983) war seit 1924 bei seinem Vater, dem Berliner Zoodirektor [[material.Ludwig Heck]] als Assistent angestellt. 
 1925 fuhr er zusammen mit dem Raubtierpfleger Petrus Olesen nach [[material.Abyssinia]] um dort afrikanische Wildtiere zu fangen. Dabei begleiteten ihn auch ein Produzent und ein Kameramann der DEFA. Der aus der Expedition hervorgegangene Film strotzte in der Darstellung der Bevölkerung Ostafrikas vor rassistischen und aus der Kolonialzeit übernommenen Stereotypen. 1927/28 fuhr er in das Gebiet des heutigen Tansania um Giraffen zu fangen.
@@ -77,10 +87,18 @@ Im Winter 1939 begab sich Lutz Heck in das gerade eroberte Warschau. Dort teilte
 
 ## Letztes Aufbäumen - die 1950er
 
-Nach dem Ende des Zweiten Weltkriegs lag Berlin in Trümmern, ein 
-Bereits auf den Tagungen der IUDZG 1958 und 1959 wurden durch die Zoodirektoren auf aussterbende Arten hingewiesen.
-Dathe berichtete vom Panda und Silver Pheasant
-Antibiotika, Kreislaufmittel und neue Kenntnisse zur Ernährung
+Nach dem Ende des Zweiten Weltkriegs lag Berlin in Trümmern, ein Kauf 'wilder', 'exotischer' Tiere kam zunächst nicht in Frage. Die Jagd musste also auf heimischem Boden stattfinden. Die Zoodirektorin der Jahres des Wiederaufbaus, [[material.Katharina Heinroth]] bezog nicht nur Tiere aus einem aufgelösten Zirkus, sie bekam zum 'Füllen' der leeren Gehege einheimische Tiere, gefangen in den Wäldern in und um Berlin. [[story.native and exotic]]
+Erst zur Mitte der 1950er Jahre wurde der internationale Tierhandel noch einmal ein florierendes Geschäft. Zwar erreichten die Handelsfirmen Hagenbeck und Ruhe das lange Jahrzehnte bestehende quasi-Monopol im Tierhandel nicht mehr, aber noch lohnte es sich. 
+
+Im neu eröffneten Tierpark in Ost-Berlin 
+
+
+Allerdings zeigten sich nun Brüche, die sein Ende kündeten. Bereits auf den Tagungen der Internationalen Union der Zoodirektoren [[material.WAZA]] 1958 und 1959 wurden durch die Zoodirektoren auf aussterbende Arten hingewiesen. Tierparkdirektor [[material.Heinrich Dathe]] berichtete vom Panda und Silver Pheasant, Bernhard Grzimek engagierte sich Anfang der 1960er für einen Importstopp von Gorillas. Mehr dazu in der Story [[story.Zoos and Conservation]]. Hinzu kam, dass die Tiermedizin neue Erkenntnisse sammelte und diese auch von den Verantwortlichen in den Zoos rezipiert wurde. Antibiotika, und Kreislaufmittel kamen zur Anwendung und insbesondere neue Kenntnisse zur Ernährung sowie wachsende Gehegegrößen bewirkten längere Lebensdauern von Tieren in menschlicher Obhut. Zwar hieß es noch 1983 unter Berufung auf den Zoo in Philadelphia:
+
+>"Although one might assume that our nutritional knowledge of captive animals is complete because of our long history of captive animal efforts, 60 to 70% of the animals dying in captivity die because of poor mnagement and husbandry , with nearly 25% dying from nutritional problems."[^1950s2]
+
+Aber insgesamt verlängerten sich nicht nur die Lebensdauern in Zoos, die gehaltenen Tiere vermehrten sich auch durch Nachzuchten.
+
 ungeahnte Ausmaße; kriegszerstörte Gärten füllen wieder auf.[^1950s1]
 
 Die Zoodirektorin Katharina Heinroth fuhr XXXX nach Borneo und Sumatra. Es handelte sich dabei nicht um eine klassische Fangfahrt, Heinroth hatte zuvor Angebote bekommen und bei lokalen Behörden und Fängern um Fangerlaubnisse angesucht. Sie kam vor allem, um die Tiere in der Wildbahn zu sehen und dann Exemplare auszusuchen und auf dem Transport in den Berliner Zoo zu begleiten.
@@ -132,3 +150,7 @@ ____
 [^exped2]: Maier-Wolthausen, Clemens. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 83, 121-122.
 
 [^hagenb4]: Vennen, Mareike. „Arbeitsbilder - Bilderarbeit. Die Herstellung und Zirkulation von Fotografien der Tendaguru-Expedition“. In Dinosaurierfragmente. Zur Geschichte der Tendaguru-Expedition und ihrer Objekte - 1906-2018, von Ina Heumann, Holger Stoecker, Marco Tamborini, und Mareike Vennen, 56–75. Göttingen: Wallstein, 2018, insbesondere 64.
+
+[^hagenb5]: Kawata, Ken. „Zoo Animal Feeding: A Natural History Viewpoint“. Der Zoologische Garten. Neue Folge 78 (2008): 17–42.
+
+[^1950s2]: Robbins, C. T. Wildlife Feeding and Nutrition, New York, 1983 zitiert nach Kawata, 2008: 23.

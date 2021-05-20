@@ -2,7 +2,7 @@
 id: 21ac115b-15e0-4af9-a4ed-fdd3d29c313d
 title: ToDo CMW
 desc: ''
-updated: 1621373751791
+updated: 1621540981062
 created: 1618495172862
 ---
 ## Empty Backlinks
@@ -41,8 +41,7 @@ created: 1618495172862
 
 #### Fertigstellen
 
-* [[story.Nazi Zoo]] - noch Bilder
-* [[story.Knut]]
++ [[story.Catching Animals]] Dokumentensignatur HBSB
 
 ### Umarbeiten
 
@@ -79,6 +78,7 @@ created: 1618495172862
 
 - [[story.Nazi Zoo]]
 - [[story.Heck Expeditions]]
+* [[story.Knut]]
 
 ### material
 
