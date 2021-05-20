@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching 'Exotic' Animals
 desc: Put a description of this note here...
-updated: 1621545245046
+updated: 1621545418886
 created: 1618492547915
 title_de: Fang 'exotischer' Tiere
 desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen. Hinzu kamen von Zoos organisierte eigene Expeditionen und die Gelegenheitsgeschenke von Großwildjägern und Kolonialbeamten.
@@ -47,8 +47,8 @@ Eine wesentliches Hindernis der Tierhändler aber auch aller Akteure, die Tiere 
 
 Auch konnte es vorkommen, dass die Strapazen langer Transporte zum schnellen Tod des Tieres im Zoo selbst führten. Eine Meldung des Zoologischen Gartens an das Naturkundemuseum zu Tierkadavern, die man übergeben hatte zeigt dieses.
 
-![Brief der Zooleitung an das Naturkundemuseum](images/cmw/MfN-HBSB-Nr97.png)
-_Lutz Heck an H. Pohle, 07.06.1934. (MfN XXXX)_
+![Brief der Zooleitung an das Naturkundemuseum](images/cmw/MfN_HBSB_S004_02_05_Nr97.jpg)
+_Lutz Heck an H. Pohle, 07.06.1934. (MfN HBSB S004-02-05 Nr. 97)_
 
 - @clemens - Signatur finden
 
