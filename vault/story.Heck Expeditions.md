@@ -2,7 +2,7 @@
 id: 6526be8c-01f6-4c05-a41d-fae91b634ced
 title: Lutz Heck's Catching Expeditions
 desc: Put a description of this note here...
-updated: 1621437085944
+updated: 1621521130986
 created: 1619426293502
 title_de: Tierfangexpeditionen von Lutz Heck
 desc_de: Der spätere Zoodirektor Lutz Heck unternahm in den 1920er und 1930er Jahren Tierfang-Expeditionen für den Zoologischen Garten in Ostafrika und Kanada. Bei ersteren verknüpfte er das Ziel des Tierfangs mit kolonialromantischer Propaganda und nutzte die Expeditionen als Werbung für den Zoo und die eigene Person.
@@ -86,8 +86,6 @@ Der Rücktransport gestaltete sich kompliziert. Nachdem die Tiere von Mombasa mi
 
 Aus Suez kabelte Heck die benötigten Transportkapazitäten: drei offene, ein geschlossener Waggon wurden benötigt. 300 Pfund (Sterling) mussten bezahlt werden. Mit auf dem Transport: "3 Massai mit Schild und Speer" sowie "3 andere Neger".[^exp7] Letztere waren sicherlich die zu Beginn eingeplanten Transportbegleiter, die sich um die Tiere auf dem Transport und bei der Eingewöhnung kümmern sollte. Die drei "Massai" aber scheinen zur 'Dekoration' mitgenommen worden zu sein. Auf Aufnahmen der an die Rückkehr anschließenden Afrika-Sonderschau im Zoo sieht man diese Menschen zwischen den Kulissen und Tieren sich präsentieren. Durch die Hintertür hatte Lutz Heck also doch noch in Teilen eine 'Völkerschau' realisiert.
 
-- [ ] Bild der Gruppe in der Schau?
-
 ## 'Afrikaschau' und Werbeeffekt der Expeditionsbeute
 
 Die Ankunft des Transports an einem Sonntag, dem 20. Mai 1928, im Anhalter Bahnhof wurde von Presserummel begleitet, am Bahnhof oder auf sem Sonderschaugelände konnten Journalisten die Ausbeute beäugen. Am folgenden Donnerstag wurde dann die Sonderschau selbst eröffnet. Bereits Ende April hatte der Zoo die Schau angekündigt und den großen Erfolg der Expedition angepriesen.
@@ -104,7 +102,7 @@ _Auch das "Mtoto" getaufte Nashorn war Teil der 'Afrikaschau' in der die Tiere u
 Der Berliner Zoo profitierte letztlich von den Expeditionen - und zwar in Form einer wirksamen Öffentlichkeitsarbeit. Lutz Heck veröffentlichte seine Bilder und seine 'Abenteuer' in unzähligen Zeitschriftenartikeln und einigen Büchern. Noch 1954, nun in der Bundesrepublik, verbreitete Lutz Heck seine Erlebnisse.[^exp2]
 
 ![des](images/cmw/Zeitschrift_Expedition.PNG)
-_zeitschrift mit einer Reportage und den Bildern von Lutz Heck, XXXX._
+_Zeitschrift mit einer Reportage und den Bildern von Lutz Heck, XXXX._
 
 - [ ] Besseren scan besorgen
 
