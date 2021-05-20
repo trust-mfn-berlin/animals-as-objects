@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching 'Exotic' Animals
 desc: Put a description of this note here...
-updated: 1621530319573
+updated: 1621538023135
 created: 1618492547915
 title_de: Fang 'exotischer' Tiere
 desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen. Hinzu kamen von Zoos organisierte eigene Expeditionen und die Gelegenheitsgeschenke von Großwildjägern und Kolonialbeamten.
@@ -48,11 +48,13 @@ Eine wesentliches Hindernis der Tierhändler aber auch aller Akteure, die Tiere 
 Carl Georg Schillings, selbst Jäger und Tierfänger, schilderte 1905 die Lage:
 >"Es ist bis dato noch nicht gelungen Fauna Afrikas nach Europa zu transportieren - nur aus dem Somaliland hat Menges regelmäßige Transporte; auch neue Infrastrukturen und Eisenbahnen nicht geholfen; alleine die Kuhherden für die Milch am Leben zu halten ist fast unmögliches Unterfangen; er schießt dann das Muttertier; er lässt das Jungtier nachts marschienen der Hitze wegen; in Neapel nimmt es Ludwig Heck entgegen."[^africanrhino]
 
+- @clemens Zitat überprüfen.
+
 ## Die Großen Spieler - Hagenbeck, Ruhe und Co.
 
 >"The international traffic in wild animals, perhaps the only area of colonial trade that was dominated by Germans, created an imprtant context for the emergence of Hagenbeck's ethnographic enterprise."[^hagenb1]
 
-So beschrieb es Eric Ames in seinem Bericht über die Entwicklung des Geschäftes der über Jahrzehnte den internationalen Tierfang dominierenden Firma von Carl Hagenbeck. Und in der Tat waren es Hagenbeck und andere Firmen, die ,lange bevor das Deutsche Reich eigene Kolonien eroberte, bereits in den Kolonialreichen der Briten, Franzosen, Niederländer und Belgier afrikanische und asiatische Tiere für den internationalen Handel fingen. 1864 verband sich Hagenbeck im britisch beherrschten Sudan mit dem österreichischen Tierfänger Lorenzo Casanova. Dieser baute für Hagenbeck eine Famgstation bei Kassala - auf halbem Weg zwischen Khartum und der Küste des Roten Meeres.Nach dessen Tod behielt Hagenbeck dieses Model bei und engagierte feste 'Agenten' und Fänger wie den oben von C. G. Schillings erwähnten Joseph Menges. Dieser beschrieb die in Kassala vorherrschende Arbeitsteilung in der Form, dass der (weiße) Händler in Kassala recht komfortabel lebe und die lokalen Arbeiter die Tiere bis vor die "Haustür" brächten.[^hagenb2] Selten oder nie waren die Händler oder 'Fänger' selber aktiv, wie bei fossilien Ausgrabungen verließen sie sich auf ein Heer von Arbeiter\*innen aus der lokalen Bevölkerung oder nomadisch lebender Jäger. Die verrichteten in der Regel die physische Arbeit des Fangens und auch der Pflege im Sammel- oder Fanglager. Auch begleiteten sie die Transporte bis zu den Häfen und einige manchmal darüber hinaus bis an das Bestimmungsziel. In den Erinnerungen der Händler oder Tierfänger haben sie selten oder nie Namen, ihre Arbeit wird nicht wertgeschätzt. [[story.Colonial Imagery]] [[story.Heck Expeditions]]
+So beschrieb es Eric Ames in seinem Bericht über die Entwicklung des Geschäftes der über Jahrzehnte den internationalen Tierfang dominierenden Firma von Carl Hagenbeck. Und in der Tat waren es Hagenbeck und andere Firmen, die ,lange bevor das Deutsche Reich eigene Kolonien eroberte, bereits in den Kolonialreichen der Briten, Franzosen, Niederländer und Belgier afrikanische und asiatische Tiere für den internationalen Handel fingen. 1864 verband sich Hagenbeck im britisch beherrschten Sudan mit dem österreichischen Tierfänger Lorenzo Casanova. Dieser baute für Hagenbeck eine Fangstation bei Kassala - auf halbem Weg zwischen Khartum und der Küste des Roten Meeres. Auch nach dessen Tod behielt Hagenbeck dieses Model bei und engagierte feste 'Agenten' und Fänger wie den oben von C. G. Schillings erwähnten Joseph Menges. Dieser beschrieb die in Kassala vorherrschende Arbeitsteilung in der Form, dass der (weiße) Händler in Kassala recht komfortabel lebe und die lokalen Arbeiter die Tiere bis vor die "Haustür" brächten.[^hagenb2] Selten oder nie waren die Händler oder 'Fänger' selber aktiv, wie bei fossilien Ausgrabungen verließen sie sich auf ein Heer von Arbeiter\*innen aus der lokalen Bevölkerung oder nomadisch lebender Jäger. Die verrichteten in der Regel die physische Arbeit des Fangens und auch der Pflege im Sammel- oder Fanglager. Auch begleiteten sie die Transporte bis zu den Häfen und einige manchmal darüber hinaus bis an das Bestimmungsziel. In den Erinnerungen der Händler oder Tierfänger haben sie selten oder nie Namen, ihre Arbeit wird nicht wertgeschätzt. Bilder von ihnen gibt es selten und wenn es sie gibt, dann sind es auch hier oft anonyme Trägerkarawanen.[^hagenb4] [[story.Colonial Imagery]] [[story.Heck Expeditions]]
 Auch die Firmen Reiche und Ruhe aus Alfeld waren bestimmende Größen im internationalen Tierhandel. Die Firma Ruhe betrieb bei Dire Daua im heutigen Äthiopien und und bei Nizza Sammel- und Akklimatisationsstationen. Über Nizza kam auch der Gorilla "Bobby" [[story.Bobby life]] nach Berlin.[^hagenbeck3]
 
 Einzelne Zoos unternahmen zu Beginn des 20. Jahrhunderts eigene Fangexpeditionen. Insbesondere amerikanische Zoos begannen diesen Trend.[^exped1] Der Assistent am Zoo Berlin und Direktor des Aquariums, [[material.Oskar Heinroth]], fuhr regelmäßig in eine Forschungsstation an der Adria, um dort Tiere für sein Aquarium mitzunehmen. Insbesondere das Aquarium verwendete lange Zeit Wildfänge [[material.animals caught in the wild]]. Der spätere Direktor des Zoologischen Gartens Berlin [[material.Lutz Heck]] (1892-1983) war seit 1924 bei seinem Vater, dem Berliner Zoodirektor [[material.Ludwig Heck]] als Assistent angestellt. 
@@ -65,11 +67,17 @@ Die ehemalige deutsche Kolonie Deutsch-Ost-Afrika war zu diesem Zeitpunkt den Br
 
 ## Kriegsbeute
 
-Aber nicht nur Tierfänger und Zoodirektoren und ihre lokalen Helfer\*innen fingen Tiere in der Wildnis". Während des Ersten und Zweiten Weltkrieges haben Truppenverbände der Reichswehr und der Wehrmacht Tiere in den eroberten Gebieten Europas gefangen und dem Zoologischen Garten der Reichshauptstadt übergeben. Im Winter 1939 begab sich Lutz Heck in das gerade eroberte Warschau. Dort teilte er wohl im Auftrag des Reichsforstmeisters [[material.Hermann Göring]] dem Warschauer Zoodirektor Jan Zabinski mit, dass der Zoo geschlossen sei. Wertvolle Schautiere, darunter einen Elefanten, stahl Heck für deutsche Zoos. Die restlichen Tiere wurden getötet.[^exped2] Der Geschäftsbericht des Zoos vermerkte nur lakonisch, dass Tiere aus Warschau "zu treuen Händen 
+Aber nicht nur Tierfänger und Zoodirektoren und ihre lokalen Helfer\*innen fingen Tiere in der Wildnis". Während des Ersten und Zweiten Weltkrieges haben Truppenverbände der Reichswehr und der Wehrmacht Tiere in den eroberten Gebieten Europas gefangen und dem Zoologischen Garten der Reichshauptstadt übergeben. 
 
+- Bild des GB 1941
+
+Im Winter 1939 begab sich Lutz Heck in das gerade eroberte Warschau. Dort teilte er wohl im Auftrag des Reichsforstmeisters [[material.Hermann Göring]] dem Warschauer Zoodirektor Jan Zabinski mit, dass der Zoo geschlossen sei. Wertvolle Schautiere, darunter einen Elefanten, stahl Heck für deutsche Zoos. Die restlichen Tiere wurden getötet.[^exped2] Der Geschäftsbericht des Zoos vermerkte nur lakonisch, dass Tiere aus Warschau "zu treuen Händen" in den Zoo gekommen seien.
+
+- Bild GB 1939
 
 ## Letztes Aufbäumen - die 1950er
 
+Nach dem Ende des Zweiten Weltkriegs lag Berlin in Trümmern, ein 
 Bereits auf den Tagungen der IUDZG 1958 und 1959 wurden durch die Zoodirektoren auf aussterbende Arten hingewiesen.
 Dathe berichtete vom Panda und Silver Pheasant
 Antibiotika, Kreislaufmittel und neue Kenntnisse zur Ernährung
@@ -122,3 +130,5 @@ ____
 [^exped1]: Vgl. Hanson, Elizabeth. Animal attractions: nature on display in American zoos. Princeton, N.J: Princeton University Press, 2002: 100-130; Bridges, William. Zoo expeditions. William Morrow, 1945.
 
 [^exped2]: Maier-Wolthausen, Clemens. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 83, 121-122.
+
+[^hagenb4]: Vennen, Mareike. „Arbeitsbilder - Bilderarbeit. Die Herstellung und Zirkulation von Fotografien der Tendaguru-Expedition“. In Dinosaurierfragmente. Zur Geschichte der Tendaguru-Expedition und ihrer Objekte - 1906-2018, von Ina Heumann, Holger Stoecker, Marco Tamborini, und Mareike Vennen, 56–75. Göttingen: Wallstein, 2018, insbesondere 64.
