@@ -1,8 +1,8 @@
 ---
 id: df37d6fb-33ac-4b34-bc21-3401db3aac52
 title: Micropaleontological Formations
-desc: Micropaleontology is the scientific study of microfossils, fossils that are microscopic in size and are not visible to the naked eye. As the nature of this object of study suggests, the field is extremely diverse; tracing its history is akin to the work of micropaleontologists, as they study geological strata and formations to understand the dynamics of the deep history of our planet. 
-updated: 1621522688362
+desc: Micropaleontology is the scientific study of microfossils, fossils that are microscopic in size and therefore are not visible to the naked eye. As the nature of this object of study suggests, the field is extremely diverse and dynamic; tracing its history is akin to the work of micropaleontologists. Like these scientists as they study seemingly static geological strata and formations to understand the complex dynamics constantly shaping and reshaping our planet, to understand the history of this discipline, we need to grasp the dynamics of its stratifications over time. 
+updated: 1621526808496
 created: 1618502886244
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
