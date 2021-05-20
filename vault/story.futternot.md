@@ -2,7 +2,7 @@
 id: d54394f6-1188-4ec3-b590-da329e657560
 title: Futternot
 desc: Put a description of this note here...
-updated: 1621539256164
+updated: 1621551085577
 created: 1621497485660
 title_de: Futternot
 desc_de: Put a DE description of this note here...
@@ -15,6 +15,14 @@ published: false
 
 
 
+* Der Nahrungsmittelmangel war bereits im 1. Weltkrieg ein zentrales Thema für die Menschen wie auch für die Zootiere. Besonders im sogenannten „Steckrübenwinter“  gestaltete es sich schwierig, Getreide und Kartoffelprodukte zu erhalten, was für Unruhen und Plünderungen sorgte. Die Vorstellung, Tiere seien ein Nahrungskonkurrent des Menschen, führte dazu, dass Massenschlachtungen veranlasst wurden, die letztendlich die Situation aber eher verschlechterten.
+
+* Im Zuge dessen wurden auch Zootiere geschlachtet, die den Menschen wie auch der Nahrung wertvoller Zootiere dienten. „Weniger wertvolle Stücke mussten geschlachtet werden, um für die besseren Tiere Futterfleisch zu gewinnen.“ Johannes Gebbing (Hg.): 50 Jahre Leipziger Zoo, S. 36. Vgl.: 3.11.3 Zoo und Krieg. 
+
+* Zur Massenschlachtung siehe: Anne Roerkohl: Die Lebensmittelversorgung während des Ersten Weltkrieges im Spannungsfeld kommunaler und staatlicher Maßnahmen, in: Hans Jürgen Teuteberg (Hg.): Durchbruch zum modernen Massenkonsum. Lebensmittelmärkte und Lebensmittelqualität im Städtewachstum des Industriezeitalters, Münster 1987 (= Hans Jürgen Teuteberg u. Peter Borscheid (Hg.): Studien zur Geschichte des Alltags, Bd. 8), S. 309-370, hier S. 309-367, bes. S. 325.
+
+
+* Im 19. und beginnenden 20. Jahrhundert war es den Besuchern der deutschen Tiergärten grundsätzlich erlaubt, die tierischen Bewohner mit mitgebrachten oder auf dem Tierparkgelände erworbenen Speisen zu füttern. In Zeiten der Lebensmittelarmut hatten die zoologischen Gärten sogar die Menschen dazu aufgerufen, Nahrungsmittel zu sammeln und zu spenden. > Ludwig Heck: Die Teuerung im Zoologischen Garten, in: Die Gartenlaube, Nr. 30, (1920), S. 499ff., StA B.
 
 ## Futternot (oder lieber: Futtermangel?)
 
