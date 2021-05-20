@@ -6,7 +6,8 @@
       <!-- <l-marker :lat-lng="[points[activePoint].geometry.coordinates[0],points[activePoint].geometry.coordinates[1]]"></l-marker> -->
     </l-map>
   </client-only>
-  <button @click='moveMap'>Press me</button>
+  <button @click='prevSlide' :disabled="activePoint == 0">Prev</button>
+  <button @click='nextSlide'>Next</button>
   {{points[activePoint].caption}}
   </div>
 </template>
@@ -55,8 +56,26 @@ export default {
     }
   },
   methods:{
+    nextSlide(){
+      if(this.activePoint < this.points.length - 1){
+        this.activePoint ++
+        this.moveMap()
+      } else {
+        this.activePoint = 0
+        this.moveMap()
+      }
+    },
+    prevSlide(){
+      if(this.activePoint == 0){
+        // this.activePoint = this.points.length - 1
+        // this.moveMap()
+      } else {
+        this.activePoint --
+        this.moveMap()
+      }
+    },
     moveMap(){
-      this.activePoint ++
+      // this.activePoint = slideNumber
       this.$refs.myMap.mapObject.flyTo(
         {
           lat: this.points[this.activePoint].geometry.coordinates[1], 
