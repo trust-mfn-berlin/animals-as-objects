@@ -2,7 +2,7 @@
 id: 47ccdab9-37bd-4bc0-97ee-e342b66299f4
 title: Siam
 desc: Put a description of this note here...
-updated: 1621577769722
+updated: 1621591483431
 created: 1621324111928
 title_de: Stationen eines Elefanten
 desc_de: Put a DE description of this note here...
@@ -24,7 +24,7 @@ published: false
 
 ![Zeitungsartikel mit dem Titel Siam unter der Bandsäge, 1947](images\mv\Bandsaege.jpg) 
 
-Abb. Zeitungsartikel „Siam unter der Bandsäge“, Telegraf, 21.3.1947.
+_Zeitungsartikel im 'Telegraf' über "Siams" Verwertung, 21.03.1947._
 
 In einem Zeitungsartikel von 1947, gefunden im Archiv des Zoologischen Gartens Berlin, ist über den Tod von „Siam“ zu lesen. Der Artikel aus dem _Telegraf_ berichtet über das „letzte Kapitel“ des indischen Elefantenbullen im Keller des Berliner Naturkundemuseums, wo das Tier zerlegt und obduziert wurde. Ich beschäftigte mich gerade mit Elefantentransporten, als ich auf die bewegte Geschichte von „Siam“ stieß. Anfang der 1930er Jahre aus Ceylon (dem heutigen Sri Lanka) nach Berlin verschifft, war der Elefant eigentlich für den Zirkus Krone bestimmt. Da „Siam“ aber Verhaltensauffälligkeiten zeigte und damit als Zirkustier nicht zu gebrauchen war, gab der Zirkus ihn an den Berliner Zoologischen Garten ab, wo das Tier von 1933 bis zu seinem Tod 1947 lebte. Wie bei allen Zootieren, die nach ihrem Tod ein Nachleben führen, blieb sein Körper nicht als Ganzes erhalten. Sich auf die Spuren dieser Elefantengeschichte zu begeben, bedeutet ab hier also eine Suche nach einzelnen Körperteilen, die an unterschiedliche Orte der Verwertung und Entsorgung führt. 
 
