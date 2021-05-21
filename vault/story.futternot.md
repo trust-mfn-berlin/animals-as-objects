@@ -2,7 +2,7 @@
 id: d54394f6-1188-4ec3-b590-da329e657560
 title: Futternot
 desc: Put a description of this note here...
-updated: 1621578720885
+updated: 1621591715844
 created: 1621497485660
 title_de: Futternot
 desc_de: Put a DE description of this note here...
@@ -100,7 +100,7 @@ Anfang der 1950er Jahre normalisierte sich Stück für Stück die Situation in B
 
 (@all critcal readers: bin unsicher mit dem Schluss - es geht ja in der "nächsten" story noch mit "Tiere verfüttern" in Notzeiten weiter, aber es braucht ja hier eine Art Ende; also die story mit dem Vorgriff auf die Normalisierung der Situation beschließen oder lieber Cliffhanger einbauen?)
 
-## Fußnoten ##
+## Fußnoten
 
 [^Futternot1]: Im Jahr 1938 waren es 3715 Tiere; 1944 waren es noch 1700 Tiere. Vgl. Halbjahresbericht für Aufsichtsratssitzung am 10.08.1955, AZGB N 4/2. 
 
