@@ -2,7 +2,7 @@
 id: 47ccdab9-37bd-4bc0-97ee-e342b66299f4
 title: Siam
 desc: Put a description of this note here...
-updated: 1621576846470
+updated: 1621577019617
 created: 1621324111928
 title_de: Stationen eines Elefanten
 desc_de: Put a DE description of this note here...
@@ -22,7 +22,7 @@ published: false
 #Stationen eines Elefanten 
 
 
-![Zeitungsartikel mit dem Titel Siam unter der Bandsäge, 1947]() 
+![Zeitungsartikel mit dem Titel Siam unter der Bandsäge, 1947](images\mv\Bandsaege.jpg) 
 
 Abb. Zeitungsartikel „Siam unter der Bandsäge“, Telegraf, 21.3.1947.
 
@@ -30,7 +30,9 @@ In einem Zeitungsartikel von 1947, gefunden im Archiv des Zoologischen Gartens B
 
 Eine der Spuren führt zurück in die Sammlungen des Berliner Naturkundemuseums, das den Schädel für die wissenschaftliche Sammlung und ein Stück Rückgrat für seine Schausammlung erhalten sollte, wie es in besagtem Zeitungsartikel heißt.[^siam1] Ein privater Präparator namens Kriegerowski wiederum, der regelmäßig Tiere vom Zoo übernahm, fertigte aus den Füßen des Dickhäuters Papierkörbe mit Staniolpapier, wie weiter zu lesen ist.[^siam2] Hier verliert sich die Spur. Was in private Hände gelangte, ist selten oder zumindest seltener wieder auffindbar als das, was in öffentlichen Sammlungen lagert. Wobei sich auch die Suche im Museum für Naturkunde Berlin als schwierig herausgestellt hat. Mein Kollege und ich haben in der Säugetiersammlung viele Kisten, Schränke und Regale nach dem Schädel durchsucht, bislang ohne Erfolg.[^siam3]
 
-![Elefantenknochen in der Säugetiersammlung des MfN, 2020](images\mv\20201103-Säugetiersammlung MfN-Elefanten-1.jpg) 
+![Elefantenknochen in der Säugetiersammlung des MfN, 2020]() 
+
+_Suche in der Säugetiersammlung des Museums für Naturkunde Berlin, November 2020 (Foto: Mareike Vennen)._
 
 Sind die Elefantenknochen am Ende doch nicht in die Sammlung gekommen? Oder liegt es nur daran, dass das Zoologischen Museum nicht zu jeder Zeit detailliert Buch über die eintreffenden Objekte führte und daher nicht alle historischen Elefantenknochen systematisch in den Eingangskatalogen verzeichnet und wieder auffindbar sind? [[story.record keeping]]. Manche Objektgeschichten scheinen nur (noch) als _papertrail_ zu existieren, als Papierspuren, die die Tiere in Archiven, Korrespondenzen oder Zeitungsberichten hinterlassen. In „Siams“ Fall führen diese tief in die Kolonialgeschichte. Die Stationen seines Lebens lenken den Blick auf die lange und problematische Geschichte sogenannter „exotischer“ Zoo- und Zirkustiere aus kolonialen Kontexten – Tiere, die aus den Kolonien als Handels- und Tauschobjekte oder als Geschenke nach Europa gebracht wurden (Verweis Marianna) – wie hier aus der britischen Kolonie Ceylon, wohin Tierhändler wie John Hagenback regelmäßig reisten, um Tiere für Zoologische Gärten und Zirkusse zu fangen und indigene Menschen für Völkerschauen zu rekrutieren.[^siam4] Elefantenfüße als Papierkörbe gehören dabei zweifellos zu den ikonischen Trophäen, in denen sich stereotypisierte koloniale Natur-Bilder um Aneignung und Beherrschung materialisieren. Auch wenn wir über den tatsächlich Verbleib von „Siams“ Füßen nichts wissen, stehen diese Objekte für viele andere [[material.Blausäureelefant]], die einmal mehr zeigen, dass die materielle Kultur des Kolonialismus in Sammlungen ebenso wie in Wohnzimmern zu suchen und sowohl Teil der Berliner Museums- wie auch Alltagsgeschichte ist. 
 
