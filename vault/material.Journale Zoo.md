@@ -2,7 +2,7 @@
 id: 4a663958-cb98-4cdd-967d-9b277f45cdc4
 title: Journals - the zoo directory
 desc: Journale register of the zoo stock for every year
-updated: 1621373221227
+updated: 1621616836014
 created: 1620987289214
 title_de: Journale - Register der Tiere
 desc_de: In Journalen wird jedes Jahr seit 1888 festgehalten, welche Tiere in den Zoo kamen oder ihn verließen.
@@ -18,8 +18,6 @@ published: false
 
 
 :::DE:::
-
-# Journale - Inventur im Zoo
 
 ![Linke Seite des Journals](images\cmw\Journal_1936_l.jpg)
 

@@ -2,7 +2,7 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1621521930428
+updated: 1621615740177
 created: 1618576718116
 title_de: Knut
 desc_de: Der 2006 geborene Eisbär "Knut" entwickelte einen bis dahin ungekannten Popularität eines einzelnen Zootiers. Medien und Zooleitung machten ihn zu einem 'Botschafter' der Klimakrise, die das Habitat der Eisbären bedrohte. Die starke Übertragung von Emotionen von Besucher\*innen und Fans in aller Welt auf das Tier wirkte über seinen Tod hinaus.
@@ -113,7 +113,7 @@ Dem Zoodirektor hatte einige bereits zuvor vorgeworfen, seinen Schützling nicht
 >"HR: BLASZKIEWITZ // SIE SIND EIN WITZ //STOPFEN SIE IHR // HERZ + HIRN AUS"
 
 ![Bild eines Protestplakats](images/cmw/Demo_Knut_020411_Broseke.jpg)
-*Protestplakat gegen die Praparation "Knuts", 2011. (AZGB)*
+*Protestplakat gegen die Präparation "Knuts", 2011. (AZGB)*
 
 Letztlich wurde Knut präpariert und ist sein Präparat heute  im Museum für Naturkunde zu sehen.
 
