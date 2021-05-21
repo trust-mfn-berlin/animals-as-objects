@@ -2,7 +2,7 @@
 id: 5277f2fa-42b1-4bfa-8a6c-8f8c2117784e
 title: Native and Exotic
 desc: Put a description of this note here...
-updated: 1621550549754
+updated: 1621593478220
 created: 1620997389421
 title_de: Heimisch und Exotisch
 desc_de: Put a DE description of this note here...
@@ -47,7 +47,7 @@ Aus dem geplanten zweiten Zoo wurde nichts. Zum einen arbeitete Zoodirektor [[ma
 Im Sommer 1931 organisierte der Berliner Zoo zum ersten Mal einen Tierkinderzoo - also eine Sonderschau mit Jungtieren verschiedener Tierarten, die durch Erwachsene aber auch Kinder gefüttert und gestreichelt werden konnten. Dieser wurde ein großer Erfolg. Gefüllt worden war er mit Jungtieren einheimischer
 Haustierrassen aber auch 'exotischeren' kleinen Raubtieren wie Bären- und Löwenjungen. 
 
-![Junges Raubtier und junge Hausschweine und Schafe](images\cmw\Tierkindergarten_1930er.jpg)
+![Gepardenjunges und junge Hausschweine und Schafe](images\cmw\Tierkindergarten_1930er.jpg)
 _Bild aus dem 'Tierkinderzoo', um 1933. (AZGB)_
 
 Ziel der Zooleitung war offiziell, das Interesse der Kinder an Tieren insgesamt zu wecken. Stadtkinder sollten dadurch einen Teil der Natur, der ihnen mit der Urbanisierung entzogen worden war, zurückgewinnen. Dass diese Begegnungen zwischen Mensch und Tier heute nicht mehr dem Verständnis einer angemessenen Raubtierpflege entsprechen, spielte damals keine Rolle. Die Tiere kamen auch nicht aus dem Zoo selst. Dieser hätte gar nicht ausreichend Jungtiere gehabt. Sie wurden von der Tierhandelsfirma Ruhe zur geliefert gestellt, die sich dann mit dem Zoo die Einnahmen teilte. Es ist augenscheinlich, dass es vor allem um die Attraktion ging. Es scheint fast so, als hätte der Tierkinderzoo als eine Art Ersatz für die nun weniger populären und nicht mehr gewinnbringenden "Völkerschauen" gedient. Und in der Tat war der 'Tierkinderzoo' so erfolgreich, dass er in den folgenden Jahren mehrfach wiederholt wurde. [^tierkinder]

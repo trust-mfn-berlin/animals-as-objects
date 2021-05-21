@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching 'Exotic' Animals
 desc: Put a description of this note here...
-updated: 1621545418886
+updated: 1621593887575
 created: 1618492547915
 title_de: Fang 'exotischer' Tiere
 desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen. Hinzu kamen von Zoos organisierte eigene Expeditionen und die Gelegenheitsgeschenke von Großwildjägern und Kolonialbeamten.
@@ -90,14 +90,21 @@ Im Winter 1939 begab sich Lutz Heck in das gerade eroberte Warschau. Dort teilte
 Nach dem Ende des Zweiten Weltkriegs lag Berlin in Trümmern, ein Kauf 'wilder', 'exotischer' Tiere kam zunächst nicht in Frage. Die Jagd musste also auf heimischem Boden stattfinden. Die Zoodirektorin der Jahres des Wiederaufbaus, [[material.Katharina Heinroth]] bezog nicht nur Tiere aus einem aufgelösten Zirkus, sie bekam zum 'Füllen' der leeren Gehege einheimische Tiere, gefangen in den Wäldern in und um Berlin. [[story.native and exotic]]
 Erst zur Mitte der 1950er Jahre wurde der internationale Tierhandel noch einmal ein florierendes Geschäft. Zwar erreichten die Handelsfirmen Hagenbeck und Ruhe das lange Jahrzehnte bestehende quasi-Monopol im Tierhandel nicht mehr, aber noch lohnte es sich.Die kriegszerstörten Tiergärten in Europa 'füllten' ihre leeren Gehege wieder auf.[^1950s1]
 
-Noch waren viele Regierungen bereit, Fanglizenzen zu vergeben. Die Zoodirektorin Katharina Heinroth fuhr 1955 nach Borneo und Sumatra. Es handelte sich dabei nicht um eine klassische Fangfahrt, Heinroth hatte zuvor Angebote bekommen und bei lokalen Behörden und Fängern um Fangerlaubnisse angesucht. Sie kam vor allem, um die Tiere in der Wildbahn zu sehen und dann Exemplare auszusuchen und auf dem Transport in den Berliner Zoo zu begleiten.[^heinr1]
+Noch waren viele Regierungen bereit, Fanglizenzen zu vergeben. Die Zoodirektorin Katharina Heinroth flog 1955 nach Borneo und Sumatra. Es handelte sich dabei nicht um eine klassische Fangfahrt, Heinroth hatte zuvor von Privatleuten Angebote bekommen und bei lokalen Behörden um die Fanger- und Ausfuhrerlaubnisse laubnisse angesucht. Sie kam vor allem, um die Tiere in der Wildbahn zu sehen und dann Exemplare auszusuchen und auf dem Transport in den Berliner Zoo zu begleiten. Katharina Heinroth opferte dafür ihren Urlaub und brachte einen kleinen Tiertransport mit nach Berlin.[^heinr1]
 
 ![Katharina Heinroth mit einem Affen auf der Schulter](images/cmw/Heinroth_Putzi_1955.jpg)
-_Katharina Heinroth bei ihrer Rückkehr mit dem XXXX "Putzi" auf der Schulter, 1955. (AZGB)_
+_Katharina Heinroth bei ihrer Rückkehr mit dem Rhesusaffen "Putzi" auf der Schulter, 1955. (AZGB)_
 
-Sogar noch XXXX fuhr der Berliner Zoodirektor Heinz-Georg Klös in den Hluhluwe-Umfolozi-Park in Südafrika, um ein XXXX zu fangen und in den Zoologischer Garten Berlin zu bringen. Die Fangerlaubnis hatte er zuvor durch die südafrikanischen Behörden erhalten.[^klös1]
+Für die Besucher\*innen waren die beiden männlichen Orang-Utan-Jungtiere "Bubi" und "Nakal" sicher die große Attraktion dieser Fangreise. Es ist nicht überliefert, wie die Bekannten katharina Heinroths an diese an Menschen gewöhnten Jungtiere gekommen waren. Im Zoo selbst wurden sie, wie damals üblich im Nahkontakt mit den Pfleger\*innen gehalten und bermenschlichende Aufnahmen wie diese mit einem 'Mensch-ärgere-dich-nicht-Spiel' gehörten zu den Verkaufsschlagern unter den Postkarten.
 
-- @clemens hier Bild von dem Nashorn mit Klös
+![Postkarte mit zwei jungen Orang-Utans](images\cmw\Orangs_Bubi_Nakal_1959.jpg)
+_Postkarte des Zoo Berlin mit den beiden Orang-Utans "Bubi" und "Nakal", 1959._
+_
+
+1963 fuhr der Berliner Zoodirektor Heinz-Georg Klös in den Hluhluwe-Umfolozi-Park in Südafrika, um ein Paar Südliche Breitmaulnashörner zu fangen und in den Zoologischen Garten Berlin zu bringen. Die Fangerlaubnis hatte er zuvor durch die südafrikanischen Behörden erhalten. Schon 1957 hatte sich Klös in Südafrika um eine Fangerlaubnis bemüht aber keine bekommen. 1962 meldeten sich die naturschutzbehörden in der Provinz Natal und gestatteten den Fang. Der Preis der beiden Nashörner wurde als Werbemaßnahme von der Firma 'Leineweber', einem Bekleidungshaus, bezahlt.[^klös1]
+
+![Zwei Breitmaulnashörner](images\cmw\Breitmaul_Hlambamans_Kuababa_rechts_64_Kleinschmidt.jpg)
+_Breitmaulnashörner "Hlambamans" und "Kuababa" im Zoo Berlin, 1964 (AZGB, Foto Kleinschmidt)_
 
 Auch gab es in jenen Jahren noch etwas, was man 'Gelegenheitskäufe' nennen könnte. Der Frankfurter Zoodirektor und spätere Fernsehpersönlichkeit [[material.Bernhard Grzimek]] berichtete, dass er mit seinem Sohn am Ende einer Reise durch Guinea, Sierra Leone, Elfenbeinküste und Liberia Mitte der 1950er Jahre zwei Schimpansen angeboten bekam. Obwohl er nicht auf einer Tierhandels- Tierfangreise befand, kaufte er die beiden Tiere und liess sie durch seinen Sohn nach Frankfurt begleiten.[^lateexp1]
 
@@ -175,6 +182,6 @@ ____
 
 [^kosko2]: Botschaft der DDR in Hanoi: Aktenvermerk, 19.03.1957, PA AA, M 01/A 8367.
 
-[^heinr1]: @clemens noch Stelle bei K Heinroth finden.
+[^heinr1]: Heinroth, Katharina. Mit Faltern begann’s. Mein Leben mit Tieren in Breslau, München und Berlin. München: Kindler, 1979: 203-212.
 
-[^klös1]: 
+[^klös1]: Klös, Heinz-Georg. Freundschaft mit Tieren: der Altdirektor des Zoologischen Gartens Berlin erzählt. Berlin: Edition Q, 1997: 167-178.
