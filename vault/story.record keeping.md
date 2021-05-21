@@ -2,7 +2,7 @@
 id: c8af1959-fa09-44e7-9bff-b21971c68205
 title: Record Keeping
 desc: Put a description of this note here...
-updated: 1621584773664
+updated: 1621591321002
 created: 1620395501349
 title_de: Record Keeping MfN
 desc_de: Put a DE description of this note here...
@@ -22,7 +22,7 @@ published: false
 ## Objektverkehr - Listenverkehr 
 
 Listen. Größtenteils handschriftlich, bisweilen maschinengeschrieben. Fein säuberlich in Vordrucke eingetragene Werte und Tiernamen oder hastig notierte Aufzählungen mit durchgestrichenen Zahlen und verschmierten Randnotizen. Auf der Suche nach Dokumenten, die Aufschluss über den Objektverkehr zwischen dem Berliner Zoo und dem Museum für Naturkunde Berlin geben, stößt man in den Archiven beider Institutionen immer wieder auf unzählige Listen. Sie reichen zurück bis in die Mitte des 19. Jahrhunderts, als der Zoologische Garten in Berlin gegründet wurde, nehmen aber in der Zeit um 1900 noch merklich zu. Zoo und Naturkundemuseum in Berlin waren seit ihren Anfängen institutionell und personell eng verbunden, verkörpert in der Person des Zoologen Martin Hinrich Lichtensteins, seit 1813 Direktor der Sammlungen des Naturkundemuseums und ab 1844 auch Leiter des neu eröffneten Zoos. [[Pfaueninsel]] Ein Blick in die Archive beider Institutionen lässt erahnen, dass in der Zeit um 1900 immer mehr Objekte eintrafen. Beide Institutionen profitierten damals stark vom Kolonialhandel und kolonialen Sammel- und Fangexpeditionen, die ihnen eine regelrechte Flut von Tier-Objekten bescherten – lebende in den Zoo, tote ins Museum. Kein Wunder also, dass sich gerade aus dieser Zeit im Museum auch viele Objekte aus dem Zoo finden. Aber wie genau funktionierte der Transfer von Tieren? Hier kommen die „Papiertechnologien“ ins Spiel. Mit ihnen lässt sich der Objektverkehr und der institutionelle Austausch nachvollziehen. Sie organisierten, dokumentierten und regelten die Abgabe von Material und den Austausch von Informationen zwischen Zoo und Museum. Tierlisten, Etiketten und Inventarbücher waren damit unmittelbar an der naturkundlichen Produktion und Organisation von Wissen beteiligt. Hin und her geschickte Tierlisten, Preisangebote und Rechnungen kamen aber auch zum Einsatz, um Preise auszuhandeln Wertigkeiten eines Tieres oder einer Information zu bestimmen. Sie sind damit selbst Teil der Sammlungsökonomie. 
-Um 1900 kann man sich den Austausch zwischen dem Zoo und dem Naturkundemuseum in Berlin ungefähr so vorstellen: Der Zoologische Garten schickte dem Museum regelmäßig Listen von Tieren, die dort kürzlich gestorben waren (Abb. Xxx). 
+Um 1900 kann man sich den Austausch zwischen dem Zoo und dem Naturkundemuseum in Berlin ungefähr so vorstellen: Der Zoologische Garten schickte dem Museum regelmäßig Listen von Tieren, die dort kürzlich gestorben waren. 
 Im Gegensatz zu den öffentlich zirkulierenden Verkaufskatalogen, die das Museum im Rahmen des Dublettenhandels herausbrachte[^FN-Objektverkehr1], waren die fraglichen Angebotslisten nur für den internen Gebrauch bestimmt. Da das Berliner Naturkundemuseum in der Zeit um 1900 eine möglichst vollständige Erfassung der Weltfauna anstrebte, übernahm es Vögel, Reptilien, Fische und Säugetiere und vieles andere aus dem Zoo. Je nachdem, ob es sich um wertvolle, seltene, schwer zu bekommende oder im Museum noch nicht (oder in geringer Zahl) vorhandene Arten oder Exemplare handelte, wählten die verschiedenen Sammlungen aus, was sie gebrauchen konnten. 
 
 ## Preise und Werte aushandeln
