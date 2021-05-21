@@ -2,7 +2,7 @@
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 title: üBerfüTtern
 desc: Put a description of this note here...
-updated: 1621525469263
+updated: 1621610076531
 created: 1620752738850
 title_de: Überfüttern
 desc_de: Put a DE description of this note here...
@@ -22,7 +22,7 @@ published: false
 
 ## Überfüttern
 
-Während der Zoo und die Stadt Berlin in den 1940er große Probleme hatten, ihre Bewohner\*innen zu ernähren, hatte sich die Situation Ende der 1950er Jahre weitgehend normalisiert.[^Überfüttern1] Ja, in mancher Hinsicht verkehrte sie sich sogar. In der Zeit von Wirtschaftswunder und Wachstumsboom fütterten die Zoobesucher\*innen die Tiere im Berliner Zoo wieder ganz nach Belieben, und zwar so ausgiebig, dass 1960 der afrikanische Elefant „Jambo“ nach oder vielmehr infolge der Fütterung durch Zoobersucher\*innen erkrankte. Die Elefantenkuh erlitt eine schwere Bauchfellentzündung und einen Riss im Dünndarm, der durch eine Verstopfung ausgelöst wurde. [[material. Behandlung Jambo]] Nachdem man vierzehn Tage lang ohne Erfolg versucht hatte „Jambo I“ zu kurieren, entschloss sich der Zoo, das Tier einzuschläfern. Nachdem man vierzehn Tage lang ohne Erfolg versucht hatte „Jambo I“ zu kurieren, entschloss sich der Zoo, das Tier einzuschläfern. 
+Während der Zoo und die Stadt Berlin in den 1940er große Probleme hatten, ihre Bewohner\*innen zu ernähren, hatte sich die Situation Ende der 1950er Jahre weitgehend normalisiert.[^Überfüttern1] Ja, in mancher Hinsicht verkehrte sie sich sogar. In der Zeit von Wirtschaftswunder und Wachstumsboom fütterten die Zoobesucher\*innen die Tiere im Berliner Zoo wieder ganz nach Belieben, und zwar so ausgiebig, dass 1960 der afrikanische Elefant „Jambo“ nach oder vielmehr infolge der Fütterung durch Zoobersucher\*innen erkrankte. Die Elefantenkuh erlitt eine schwere Bauchfellentzündung und einen Riss im Dünndarm, der durch eine Verstopfung ausgelöst wurde. [[Behandlung Jambo]] Nachdem man vierzehn Tage lang ohne Erfolg versucht hatte „Jambo I“ zu kurieren, entschloss sich der Zoo, das Tier einzuschläfern. 
 
 ![Zeitungsartikel mit dem Titel: "Überfüttert! Berlins wertvollster Elefant in Todesgefahr", 1960]
 
