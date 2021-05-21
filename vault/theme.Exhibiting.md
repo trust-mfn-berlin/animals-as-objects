@@ -2,7 +2,7 @@
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 title: Exhibiting
 desc: Put a description of this note here...
-updated: 1621002891627
+updated: 1621609663784
 created: 1618572893774
 title_de: Tiere ausstellen
 desc_de: Wie und warum werden Tiere in Zoos und Museen ausgestellt?
@@ -55,6 +55,9 @@ Hier gab es Überschneidungen mit den traditionellen Zoos. Besucher\*innen des B
 
 ### Quagga
 
+![desc](images\cmw\Quagga_1873.jpg)
+
+
 ### Dinosauerier
 
 ### Restaurants und Konzerte und Sonderschauen
@@ -81,6 +84,8 @@ Von Anfang an gehörten Restaurationen, die Möglichkeit, sich zu treffen und Ge
 "How to exhibit a bullfrog?" fragte der Direktor des Bronx Zoos 1968.[^3]
 
 ## Konkurrenz in einer Stadt - Zoo und Tierpark buhlen um Gäste
+
+Muss-Arten
 
 ## Von der Dresssur zum Enrichment Training
 
