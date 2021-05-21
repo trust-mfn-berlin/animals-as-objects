@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: How animals get into the zoo?
 desc: The various sources of animal objects for museums and zoos.
-updated: 1621601349468
+updated: 1621608438356
 created: 1618498026144
 title_de: Wie gelangen Tiere in den Zoo?
 desc_de: Lebende Tiere für die Sammlungen des Zoologischen Gartens, Aquariums und Tierparks Berlin kamen und kommen aus unterschiedlichen Quellen. Diese haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen für diese Einrichtungen - politische, logistische und moralische.
@@ -64,44 +64,39 @@ Nach dem Ende des Zweiten Weltkriegs blühte der durch das weltweite Morden unte
 
 ## Die Zucht von Zootieren und das Ende des Tierhandels
 
-Bot die Zerstörung in Europa den Tierhändlern in den 1940ern und 1950ern noch einmal ein gutes Geschäft, da alle Zoos nun wieder ihre Gehege reparierten und wieder besetzen wollten, so war doch klar, dass immer mehr Regierungen oder Kolonialmächte nun die Ausfuhr von Tieren regulierten. Zwar hatten wohl nicht die Tierfänger sondern die gewerbliche Jagd und die Verkleinerung der Habitate für den massiven Rückgang vieler Tierarten überall auf der Welt gesorgt, 
+Bot die Zerstörung in Europa den Tierhändlern Ende der 1940er und in den 1950er Jahren noch einmal ein gutes Geschäft, da alle Zoos nun wieder ihre Gehege reparierten und wieder besetzen wollten, so war doch klar, dass immer mehr Regierungen oder Kolonialmächte nun die Ausfuhr von Tieren regulierten. Zwar hatten wohl nicht die Tierfänger sondern die gewerbliche Jagd und die Verkleinerung der Habitate für den massiven Rückgang vieler Tierarten überall auf der Welt gesorgt, von den zunehmenden Regulierungen waren sie aber auch betroffen.
 
-seit dem Verbot des Handels mit gefährdeten Tier- und Pflanzenarten durch das Washingtoner Artenschutzabkommen aber um so wichtiger: die Zucht [[story.Breeding Animals for the Zoo]] eigener Tiere. Weltweite durch Forschung gewonnene Erkenntnisse um die Bedrohung der irdischen Pflanzen- und Tiervielfalt wurden ergänzt durch immer größeres Wissen um die Fortpflanzungsbiologie und die Voraussetzungen für die Aufzucht von Jungtieren gefangen gehaltener Zootiere.
+Zoodirektoren gehörten zu den ersten, die beruflich das Ausmaß des Artenrückgangs spürten. Sie standen aber vor einem Dilemma. Auf die gefährdeten aber hoch schauwertigen Tiere zu verzichten bedeutete für einige, dass sie Angst hatten, ihnen würden die Besucher\*innen abhanden kommen, wenn sie diese 'exotischen' Tiere nicht mehr ausstellten, deren Schau bislang mit einem besonderen Prestige verbunden war. Den 'artenreichsten' Zoo Deutschlands, Europas oder gar der Welt zu haben, galt ihnen als Aushängeschild. Nicht alle waren sich über die zu treffenden Maßnahmen einig. Einige zögerten, der Zooindustrie Restriktionen für die Einfuhr bedrohter Tierarten aufdrücken. Sie sahen ihre Tiergärten als mögliche Auffang- und Zuchtstationen für die gefährdeten Arten, andere sahen Zoos direkt in der Verantwortung und befürworteten strenge Regeln für die Einfuhr und Haltung von gefährdeten Spezies. Mehr dazu in der Story [[story.Zoos and Conservation]].
 
-[[story.Breeding Animals for the Zoo]]
+Letztlich setzte das Übereinkommen über den internationalen Handel mit gefährdeten frei lebenden Tieren und Pflanzen (Convention on International Trade in Endangered Species of Wild Fauna and Flora, [[story.Cites]]) den allermeisten strenge Grenzen für den Kauf oder Tausch mit gefährdeten Tierarten. Das sogenannte Washingtoner Artenschutzabkommen war für Zoos daher auch ein Anlass die Zucht eigener Tiernachkommen zu intensivieren.
 
-[[story.Zoo Veterinary Medicine]]
+Zwar gab es seit dem ersten erfolgreichen Beispiel einer Erhaltungszucht durch Zoos, der des Wisents, weitere wie die Zucht und letztlich erfolgreiche Wiedereinbürgerung des Alpensteinbocks, die durch gemeinsame Anstrengungen internationaler Zoos zustandekamen, eine planvolle und breite Initiative für gemeinsame Zuchtgruppen hing aber wesentlich auch mit den Restriktionen für den Handel durch das Washingtoner Abkommen zusammen. Zoos waren bei einigen der bei den Besucher\*innen begehrtesten Tierarten darauf angewiesen, die in menschlicher Obhut gehaltenen Populationen durch gemeinsame Zuchtanstrengungen - genetisch divers - zu erhalten. Mehr dazu und der Frage, ob diese Programme eine Säule in der Erhaltung gefährdeter Arten weltweit sein könnten in der Story zu Zucht in Zoos[[story.Breeding Animals for the Zoo]].
 
-* Steinbock und Wisent
-* Artenschutzzentrum Zoo
-* Leibniz Institut für Diversitätsforschung
-
-in den Sitzungen des VDZ der 1960er ist der Schutz der Orangs immer wieder Thema und wird widersprüchlich diskutiert - es scheint als wollten einge Direktoren schlicht nicht auf Orangs verzichten.
+Mit dem wachsenden Erfolg von Zuchtprogrammen versuchten sich Zoos und Aquarien zunehmend an der Zucht bis dahin nur selten oder selten erfolgreich - also mit langer Lebensdauer und regelmäßigem Nachwuchs - gezüchteter Spezies. Im Berliner Aquarium [[story.Short History Aquarium]] gelang es in den 1990er Jahren zum ersten Mal dauerhaft verschiedene Quallenspezies zu züchten und so den Besucher\*innen zu zeigen.
 
 ![Aquariumsbecken mit Quallen](images/cmw/Quallenaufzucht_um1999.jpg)
 *In diesen Becken züchtete das Berliner Aquarium Ende der 1990er Jahre erfolgreich Quallen. (AZGB)*
 
-Zooleitungen waren zum einen unter den ersten, die auf die zunehmende Gefährdung der in ihren Einrichtungen gehaltenen Tiere aufmerksam wurden, manche von ihnen befanden sich aber in einem Dilemma. Auf die gefährdeten aber hoch schauwertigen Tiere zu verzichten bedeutete für einige, dass sie Angst hatten, ihnen würden die Besucher\*innen abhanden kommen, wenn sie einige der exotischen Tiere nicht mehr ausstellten, deren Schau bislang mit einem besonderen Prestige verbunden war. 
-Den 'artenreichsten' Zoo Deutschlands, Europas oder gar der Welt zu haben, galt ihnen als Aushängeschild.
-An der Frage der Haltung von Orang-Utans teilten sich die Meinungen schon Anfang der 1960er Jahre. Manche Zoodirektoren wollten die Einfuhr dieser schon damals stark gefährdeten Art strikt einschränken, andere vertraten die Ansicht, dass die 'wissenschaftlichen Zoos' die Funktion einer Arche Noah übernehmen könnten und es nicht den vielen weniger regulierten Tiergärten überlassen sollten, Orang-Utans auszustellen. Es ist aber möglich, dass es vor allem darum ging, sich noch einige Tiere aus Wildfängen zu sichern, da diese Tierart bei den Besucher\*innen sehr beliebt war. [[story.Zoos and Conservation]]
-
 ## Zuchtbücher und Tiertausch zwischen Zoos
 
-Insbesondere das Naturkundemuseum
 Eng mit der Zucht verbunden, nicht aber stets und immer der Grund dafür, ist der Tiertausch zwischen den Zoos. Spätestens seit der Gründung des Verbandes Deutscher Zoodirektoren haben Zoos im deutschen Sprachraum regelmäßig individuelle Tiere oder auch Tiergruppen getauscht. Der Hintergrund wird stets eine 
-
-## Kosten und Logistik
 
 ## Zoos und Tierparks als Pragmatiker
 
-Mit den erwähnten unterschiedlichen Quellen an Tierobjekten hingen und hängen jeweils unterschiedliche Akquisestrategien und Handlungsanforderungen für die Institutionen zusammen. Das betrifft die Vorbereitung, die Logistik  rund um den Erwerb und die benötigten Arbeits- und Finanzmittel. Die Ausstattung einer eigenen Sammlungs- oder Fangexpedition benötigt neben den behördlichen Genehmigungen auch eine größere finanzielle Anfangsinvestition. Ein geschenktes Tierobjekt muss untergebracht und unterhalten werden. Für die Zucht in Zoos muss das notwendige biologische und tiermedizinische Wissen vorhanden sein und vor allem ausreichend Platz. Dieser wird nicht nur für die größere Gruppe benötigt, um mehr Tiere unterzubringen, auch vermehren sich Tiere in menschlicher Obhut seltener auf kleinem Raum. Werden Tierobjekte von Museen und lebende Tiere von Zoos gekauft, müssen die Geldmittel zur Verfügung stehen, es muss wiederum Platz vorhanden sein und die in menschlicher Obhut gehaltenen Tierarten aber auch individuelle Gruppen mit unterschiedlicher Zusammensetzung müssen in die eigene haltungs-, Bildungs-, Ausstellungs- oder Forschungsstrategie passen. So sind die Tiere entweder interessant, weil sie neue Forschungen im Zusammenhang mit den bereits vorhandenen erlauben, einzigartig und neu sind oder aber großes Interesse seitens der Besucher\*innen erwarten lassen. Klassische Beispiele für letzteres sind:
+Mit den erwähnten unterschiedlichen Quellen an Tierobjekten hingen und hängen jeweils unterschiedliche Akquisestrategien und Handlungsanforderungen für die Institutionen zusammen. Das betrifft die Vorbereitung, die Logistik  rund um den Erwerb und die benötigten Arbeits- und Finanzmittel. Die Ausstattung einer eigenen Sammlungs- oder Fangexpedition benötigt neben den behördlichen Genehmigungen auch eine größere finanzielle Anfangsinvestition. Ein geschenktes Tierobjekt muss untergebracht und unterhalten werden. Für die Zucht in Zoos muss das notwendige biologische und tiermedizinische Wissen vorhanden sein und vor allem ausreichend Platz. Dieser wird nicht nur für die größere Gruppe benötigt, um mehr Tiere unterzubringen, auch vermehren sich Tiere in menschlicher Obhut seltener auf kleinem Raum.
 
-* große und möglichst vollständige Skelette von **Dinosauriern** oder **Walen** in Naturkundemuseen
-* **Pandas** oder andere sehr **schauwertige Tiere** in Zoos.
+Wurden lebende Tiere von Zoos gekauft, mussten die Geldmittel zur Verfügung stehen, es musste ausreichend Platz vorhanden sein und die in menschlicher Obhut gehaltenen Tierarten aber auch individuelle Gruppen mit unterschiedlicher Zusammensetzung müssen in die eigene Haltungs-, Bildungs-, Ausstellungs- oder Forschungsstrategie passen. So sind die Tiere entweder interessant, weil sie neue Forschungen im Zusammenhang mit den bereits vorhandenen erlauben, einzigartig und neu sind oder aber großes Interesse seitens der Besucher\*innen erwarten lassen. Klassische Beispiele für letzteres sind **Pandas** oder die **'Big Five''** in Zoos:
+- Menschenaffen
+- Elefanten
+- Raubtiere, insbesondere Raubkatzen
+- 'niedliche Tiere' wie Pinguine oder Erdmännchen
+- 'außergewöhnliche Tiere' wie Giraffen oder Tapire.
 
-Letztlich scheint es, als seien Zoos - darunter auch der Berliner Zoo, sein Aquarium und auch der Tierpark vor allem lange Zeit ihres Bestehens Pragmatiker gewesen, was die Quellen ihrer gehaltenen Tierarten aber auch einzelner Tiere angeht. Tiere zu 'haben' und diese den Besucher\*innen zugänglich zu machen war ein wesentliches Ziel. Im Ost-Berliner Tierpark stand eine riesigen Fläche von mehr als 100 Hektar zur Verfügung, die mit Tiergehegen oder größeren Herden gefüllt werden sollte und der West-Berliner Zoo bemühte sich, seinen Ruf als artenreichster Zoo der Welt zu behaupten. Letzteres hing in der von Subventionen aus der Bundesrepublik abhängigen Stadt auch damit zusammen, dass alles in West-Berlin letztlich einem Legitimationszwang unterlag. Der artenreichste Zoo der Welt war ein Tourismusmagnet in der 'Frontstadt' des Kalten Kriegs.
+Ihre Anziehungskraft beruht darauf, dass sie uns ähnlich, riesig, gefährlich, 'süß' und aufrecht stehend sind oder besondere merkmale aufweisen.[^big5] Mehr zu diesen 'Schauwerttieren' auch in der Story [[story.native and exotic]].
 
-vom 'systematischen Zoo' zum 'Geozoo' und zum 'Artenschutzzentrum'
+Letztlich scheint es, als seien Zoos - darunter auch der Berliner Zoo, sein Aquarium und auch der Tierpark was die Quellen ihrer gehaltenen Tierarten aber auch einzelner Tiere angeht vor allem lange Zeit ihres Bestehens Pragmatiker gewesen. Tiere zu 'haben' und diese den Besucher\*innen zugänglich zu machen war ein wesentliches Ziel. Im Ost-Berliner Tierpark stand eine riesigen Fläche von mehr als 100 Hektar zur Verfügung, die mit Tiergehegen oder größeren Herden gefüllt werden sollte und der West-Berliner Zoo bemühte sich, seinen Ruf als artenreichster Zoo der Welt zu behaupten. Letzteres hing in der von Subventionen aus der Bundesrepublik abhängigen Stadt auch damit zusammen, dass alles in West-Berlin letztlich einem Legitimationszwang unterlag. Der artenreichste Zoo der Welt war ein Tourismusmagnet in der 'Frontstadt' des Kalten Kriegs.
+
+Seit einigen Jahren lassen sich neue Tendenzen wahrnehmen, die international und auch in der Bundesrepublik und Berlin Tiergärten verändern. Zwar finden sich die begehrtesten vom 'systematischen Zoo' zum 'Geozoo' und zum 'Artenschutzzentrum'
 
 ----
 ## Footnotes
@@ -124,3 +119,4 @@ vom 'systematischen Zoo' zum 'Geozoo' und zum 'Artenschutzzentrum'
 
 [^entnahme1]: Vgl. für eine Übersicht der Einfuhren nicht-heimischer Tierarten: Dittrich, Lothar. 2007. „Der Import von Wildtieren nach Europa - Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts“. In Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte, herausgegeben von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl, 3:1–64. Tiergarten Schönbrunn - Geschichte. Wien: Braumüller.
 
+[^big5]: Meier, Jürg. Handbuch Zoo: moderne Tiergartenbiologie. 1. Auflage. Bern Stuttgart Wien: Haupt Verlag, 2009: 115-120.
