@@ -2,7 +2,7 @@
 id: 7a6f20a3-d602-46e2-b08d-6818a8aefd54
 title: Kriegsopfer und Delikatesse
 desc: Put a description of this note here...
-updated: 1621606175260
+updated: 1621610477396
 created: 1621605393109
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -52,3 +52,10 @@ Von den geschlachteten Zootieren werden nur die beiden Elefanten Castor und Poll
 Indem Juliette Lamber ihren Kauf von Elefantenfleisch als "Eroberung" bezeichnete, positionierte sie sich unter den Siegern.  Wie homerische Krieger demonstrieren die belagerten Pariser ihren Charakter, indem sie ihr eigenes Fleisch braten. "Alles ist dramatisch: die Zeit, der Ort, die Handlung. Wir können an diesem Punkt in unseren Briefen und in unseren Zeitungen die Sprache der großen historischen Situationen sprechen."  Mit dem Dinnergast Louis Blanc ging Lamber ausführlich auf die besonderen Qualitäten des Fleisches ein: "Mein Stück Elefant war Teil eines Ganzen, das Castor genannt wurde."
 
 In den frühen 1880er Jahren überlegte ein Kommentator, ob das Essen von Elefanten vielleicht weniger weit verbreitet war als sich die belagerten Bewohner von Paris vorstellten. Diesem Bericht zufolge hatte ein ungenannter Gastwirt fünf Portionen Elefantenfleisch gekauft. In dreißig Minuten Verkauf hatte der Gastronom 600 F verdient und hatte nur noch eine Portion übrig. "Angesichts eines so guten Ergebnisses zögerte der Besitzer des Etablissements nicht einen Augenblick lang. Er befahl seinem Koch, schnell ein paar Elefantenschnitzel aus erstklassigem Pferdefleisch zu fabrizieren. Seine Kunden schlemmten wochenlang vom 'Elefanten', und das zu einem exorbitanten Preis." Das fast kannibalistische Kunststück, das ansehnlichste aller Tiere zu verspeisen, ist auf eine halbe Stunde begrenzt. Im ständigen Prozess von Argumenten und Anekdoten werden die scheherazadischen Erzählungen von der Belagerung, neu aufgearbeitet, zu weiteren Beweisen für die Doppelzüngigkeit der Gastronomen.  
+
+
+* das Motiv von Zootieren als Nahrung/des Verzehrens/Verspeisens von Zootieren taucht zu unterschiedlichen Zeiten und unterschiedlichen Kontexten auf - meist in gewaltsamen Konflikten/kriegerischen Auseinandersetzungen, Besatzungen, Belagerungen, ... . 
+* Politiken: als Zeichen für das Leiden der Pariser während der Preußischen Besatzung. 
+* Verspeiste Zootiere
+* Die Belagerung kulminiert/totemisiert sich im Ausdruck "Sie haben den Zoo gegessen"
+* sowohl in der Literatur wie auch der Historiografie und Wissenschaft kommt vor/taucht auf das Motiv in unterschiedlichen Varianten und wird mit unterschiedlichen Bedeutungen belegt/aufgeladen. Die Tiere als Agressoren, Märtyrer, als Kriegsopfer, Verbündete (auf welcher Seite stehen sie/ welcher Seite werden sie zugeschlagen?)
