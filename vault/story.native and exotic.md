@@ -2,7 +2,7 @@
 id: 5277f2fa-42b1-4bfa-8a6c-8f8c2117784e
 title: Native and Exotic
 desc: Put a description of this note here...
-updated: 1621520183455
+updated: 1621550549754
 created: 1620997389421
 title_de: Heimisch und Exotisch
 desc_de: Put a DE description of this note here...
@@ -22,6 +22,8 @@ published: false
 [[material.Landwirtschaftlicher Tierpark]] 
 
 Lorem ipsum Einleitung
+
+* „Heute sind die Tiergärten viel mehr als in der ersten Zeit bestrebt, ihren Besuchern die heimische Tierwelt, die so manchem Städter viel weniger bekannt ist als seltene Tiere fremder Länder, vor Augen zu führen. Damit trägt der Tiergarten dazu bei, den Sinn für das Vaterländische zu vertiefen.“ > Friedrich Knauer: Der Bildungswert der zoologischen Gärten, S. 397.
 
 ## Anfänge
 
