@@ -2,7 +2,7 @@
 id: 5277f2fa-42b1-4bfa-8a6c-8f8c2117784e
 title: Native and Exotic
 desc: Put a description of this note here...
-updated: 1621550549754
+updated: 1621598305388
 created: 1620997389421
 title_de: Heimisch und Exotisch
 desc_de: Put a DE description of this note here...
@@ -47,7 +47,7 @@ Aus dem geplanten zweiten Zoo wurde nichts. Zum einen arbeitete Zoodirektor [[ma
 Im Sommer 1931 organisierte der Berliner Zoo zum ersten Mal einen Tierkinderzoo - also eine Sonderschau mit Jungtieren verschiedener Tierarten, die durch Erwachsene aber auch Kinder gefüttert und gestreichelt werden konnten. Dieser wurde ein großer Erfolg. Gefüllt worden war er mit Jungtieren einheimischer
 Haustierrassen aber auch 'exotischeren' kleinen Raubtieren wie Bären- und Löwenjungen. 
 
-![Junges Raubtier und junge Hausschweine und Schafe](images\cmw\Tierkindergarten_1930er.jpg)
+![Gepardenjunges und junge Hausschweine und Schafe](images\cmw\Tierkindergarten_1930er.jpg)
 _Bild aus dem 'Tierkinderzoo', um 1933. (AZGB)_
 
 Ziel der Zooleitung war offiziell, das Interesse der Kinder an Tieren insgesamt zu wecken. Stadtkinder sollten dadurch einen Teil der Natur, der ihnen mit der Urbanisierung entzogen worden war, zurückgewinnen. Dass diese Begegnungen zwischen Mensch und Tier heute nicht mehr dem Verständnis einer angemessenen Raubtierpflege entsprechen, spielte damals keine Rolle. Die Tiere kamen auch nicht aus dem Zoo selst. Dieser hätte gar nicht ausreichend Jungtiere gehabt. Sie wurden von der Tierhandelsfirma Ruhe zur geliefert gestellt, die sich dann mit dem Zoo die Einnahmen teilte. Es ist augenscheinlich, dass es vor allem um die Attraktion ging. Es scheint fast so, als hätte der Tierkinderzoo als eine Art Ersatz für die nun weniger populären und nicht mehr gewinnbringenden "Völkerschauen" gedient. Und in der Tat war der 'Tierkinderzoo' so erfolgreich, dass er in den folgenden Jahren mehrfach wiederholt wurde. [^tierkinder]
@@ -93,11 +93,7 @@ Eines der Rinder, die aus den Rückzüchtungen Lutz Hecks hervorgingen, um 1930.
 
 Lutz Heck ging es darum, ein deutsches Urtier zu erschaffen, das "als echtes Symbol deutscher Kraft und deutschen Mutes" gelten sollte.[^propa5] Er verwies in seinen Veröffentlichungen immer wieder auf das Nibelungenlied, in dem auch Siegfrieds Jagd auf Auerochsen besungen wird.[^propa6] Den Auerochsen aber haben die Brüder Heck nicht wieder zum Leben erwecken. Es fehlte ihnen an genetischem Material, sie versuchten sich in einer sogenannten Abbildzüchtung in der lediglich die äußerlichen Merkmale einer Tierart näherungsweise reproduziert werden. Der Versuch galt vielen Kollegen schon damals und gilt auch heute weithin als unwissenschaftlich. Propagandistisch aber konnte Heck seine "Auerochsen" ausschlachten und sich auch mit den Rindern den Nationalsozialisten anbiedern.
 
-Interessant ist, dass bis auf die Ausgabe von XXXX kein einziges einheimisches Tier die Titelseite des 'Wegweisers durch den Zoologischen Garten' schmückte und dieser war schon seit mehr als 100 Jahren in Deutschland und Österreich ausgestorben.
-
-@clemens cover prüfen
-
-Eine kursorische Durchsicht der Titelseiten der 'Wegweiser' über die Nachkriegsjahre bis etwa 2010 ergibt, ... Zwischen 1985 und 2010 erschien nicht ein einheimisches Tier als Werbung für den Garten und mit dem Eisbären nur ein in Europa heimisches Tier.[^wegweiser]
+Interessant ist, dass bis auf die Ausgabe von 1941 kein einziges einheimisches Tier die Titelseite des 'Wegweisers durch den Zoologischen Garten' schmückte und dieser war schon seit mehr als 100 Jahren in Deutschland und Österreich ausgestorben. Eine kursorische Durchsicht der Titelseiten der 'Wegweiser' über die Nachkriegsjahre bis etwa 2010 ergibt, Zwischen Mitte der 1960er Jahre und 2010 erschien nicht ein einheimisches Tier als Werbung für den Garten und mit dem Eisbären nur ein in Europa heimisches Tier. Auch bei den Tierpark Wegweisern sieht es nicht besser aus. Nur XXXX @clemens
 
 Diente der 'Deutsche Zoo' womöglich nur als eine mit den tiergärtnerischen Ambitionen des Zoodirektors leicht zu vereinbarende Propagandaschau aber war man sich in der Zooleitung eigentlich bewusst, dass bis auf Adler, Wolf und Bär die einheimischen Arten die besucher\*innen nicht begeistern würden? 
 Die umfangreiche Hirschsammlung mochte der Stolz der Zoodleitungen sein, die Besucher\*innen wurden vor allem durch die 'wilden' und 'exotischen' Tiere angezogen. Dam- und Rotwild, Wildschweine und Biber kannten sie aus der Umgebung  oder aber aus den zahlreichen Gehegen in Parks.
