@@ -2,7 +2,7 @@
 id: 01cac1d4-fb54-4c20-b2a1-c642f6fb1886
 title: Colonial Imagery
 desc: Put a description of this note here...
-updated: 1621241820345
+updated: 1621610560785
 created: 1620739516049
 title_de: Koloniale Bildwelten
 desc_de: Put a DE description of this note here...
@@ -39,3 +39,6 @@ Das weit verbreitete und auch hier gezeigte Bild von Zoodirektor Ludwig Heck zei
 
 ![Bild von Ludwig Heck mit dem jungen Affen "Bobby" auf dem Arm](images\cmw\Ludwig-Heck-Bobby.jpg)
 Zoodirektor Lutz Heck mit dem jungen Gorilla "Bobby" auf dem Arm, um 1928. (Archiv der Zoologischen Gärten Berlin)
+
+![desc](images/cmw/Heck_Nashorn_Kral.jpg)
+_Gehege im Fanglager, 1927 (Lutz Heck: Auf Tiersuche in weiter Welt)_

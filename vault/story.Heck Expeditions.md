@@ -2,7 +2,7 @@
 id: 6526be8c-01f6-4c05-a41d-fae91b634ced
 title: Lutz Heck's Catching Expeditions
 desc: Put a description of this note here...
-updated: 1621521130986
+updated: 1621611533353
 created: 1619426293502
 title_de: Tierfangexpeditionen von Lutz Heck
 desc_de: Der spätere Zoodirektor Lutz Heck unternahm in den 1920er und 1930er Jahren Tierfang-Expeditionen für den Zoologischen Garten in Ostafrika und Kanada. Bei ersteren verknüpfte er das Ziel des Tierfangs mit kolonialromantischer Propaganda und nutzte die Expeditionen als Werbung für den Zoo und die eigene Person.
@@ -57,7 +57,7 @@ _Illustration aus einer Zeitschrift, 1904. (AZGB)_
 
 Allerdings musste der Zoo, vertreten durch seinen Kaufmännischen Direktor Clemens Freyer, mit einem wirtschaftlichen Verlust in dem Geschäftsjahr rechnen. Freyer trug die Angelegenheit an den Aufsichtsrat heran. Die von Lutz Heck kalkulierte Summe war sehr hoch für einige Tiere, die zumal im handel zu kriegen waren.Allein der Rücktransport konnte wohl leicht 40 000 Reichsmark kosten und ein "Menschentransport und andere Unkosten" standen ja auch zur Diskussion.[^exp3]  Was war hiermit gemeint? Eine Durchsicht der Korrespondenz zu dieser Expedition zeigt, dass Lutz Heck plante, eine eigenen 'Völkerschau' mit Menschen, die er zusammen mit den zu fangenden Tieren nach Berlin bringen wollte. Freyer schlug angesichts der hohen Kosten vor, sich "lediglich auf eine Forschungs- und Expeditionsreise" zu beschränken.  Und in der Tat, nur vier Tage später konnte er dem Aufsichtsrat mitteilen, dass man mit den Hecks übereingekommen sei, eine "Fangreise" "ohne die Veranstaltung einer besonderen Menschenschau" zu veranstalten. Dieses würde das Risiko deutlich mindern, da nur noch die Tiere transportiert würden. Außerdem hoffte man, die Kosten durch einen gesonderten Eintritt für eine Sonderschau der gefangenen Tiere zu mindern. Diese würden dann zu den Aktiva der Zoo Aktiengesellschaft gezählt werden können.
 
-Schnell wurden nun die Vorbereitungen getroffen. Anfang November 1927 waren die Reisen organisiert und bezahlt, die Erlaubnisse zum Betreten des Gebiets für die beiden "Forschungsreisenden" waren durch die lokalen Kolonialbehörden erteilt. Nun bat man noch die "obersten Kolonialbehörden" des "Tanganjika- & Kenya Territory", dass einige "Eingeborene" mit den Tieren nach Deutschland bringen zu können, an die die tierische Beute gewöhnt sei und die nach einigen Monaten dann wieder zurückkehren sollten. Eine Entlohnung und der kostenlose Rücktransport wurden garantiert. Augenscheinlich hatte man eine Reise ins Innere Afrikas vom britischen Mandatsgebiet aus geplant und augenscheinlich sollten nun doch "Eingeborene" nach Deutschland kommen.
+Schnell wurden nun die Vorbereitungen getroffen. Anfang November 1927 waren die Reisen organisiert und bezahlt, die Erlaubnisse zum Betreten des Gebiets für die beiden "Forschungsreisenden" waren durch die lokalen Kolonialbehörden erteilt. Nun bat man noch die "obersten Kolonialbehörden" des "Tanganjika- & Kenya Territory", einige "Eingeborene" mit den Tieren nach Deutschland bringen zu können. Die zu fangenden Tiere würden sich an diese gewöhnen, warum sie auf dem Rücktransport und bei der Eingewöhnung in wichtig seien. Sie würden nach einigen Monaten dann wieder zurückkehren. Eine Entlohnung und der kostenlose Rücktransport wurden garantiert. Augenscheinlich hatte man eine Reise ins Innere Afrikas vom britischen Mandatsgebiet aus geplant und augenscheinlich sollten nun doch "Eingeborene" nach Deutschland kommen.
 
 Die Ausreise erfolgte über den deutschen Dampfer 'Nyassa', anschließend von der ostafrikanischen Küste mit der Bahn bis Moschi. Von dort brachte ein Lastauto die beiden Tierfänger 500 Kilometer weiter nach Mbulu. Zunächst wurden nun von diesem Basislager aus eine Expedition mit 80 einheimischen Trägern in ein Nashorn-reiches Gebiet unternommen. Und tatsächlich gelang es  auch wirklich bald, ein junges Nashorn zu fangen.
 
@@ -66,25 +66,21 @@ _Das gefangene Nashorn wird von Petrus Olesen mit Milch gefüttert, 1927. (Lutz 
 
 Bei dem Fang wurde wie damals üblich das Muttertier zunächst geschossen. Am Fangplatz wurde das Lager aufgeschlagen Punkt denn das Nashorn musste erst in 3 Wochen gezähmt werden, bevor der Rückmarsch zu Fuß angetreten werden konnte. Die Länge des täglichen Marschs richtete sich nach dem Belieben des am Strick mitgeführten Tieres. Wenn in der Nähe kein Wasser war oder das Tier nach einem Kilometer anfing Komma an den Büschen zu fressen konnte nicht weitermarschieren werden.
 
-![desc](images/cmw/Heck_Nashorn_Kral.jpg)
-_Gehege im Fanglager, 1927 (Lutz Heck: Auf Tiersuche in weiter Welt)_
-
 Anschließend begab sich Heck in die Massai Steppe um dort die großen Herdentiere zu fangen. Als geländekundigen Helfer und Reiter heuerte Heck den südafrikanischen Buren Pitt Jones an. Er ritt mit Schlinge und Fangstock hinter Zebras oder Giraffen her und fing die jüngeren Tiere.
 
 ![Mann fängt Giraffe mit einem Lasso](images/cmw/Ostafrika_1927_Giraffe.jpg)
-_Der Fänger Pitt Jones beim Fang einer der fünf Giraffen der Expedition, 1928. (AZGB, Foto Lutz Heck)_
+_Ein Fänger beim Fang einer der fünf Giraffen der Expedition, 1928. (AZGB, Foto Lutz Heck)_
 
 ![desc](images\cmw\S_3_82_Giraffentransport.jpg)
 _Die gefangenen Tiere wurden mit einem Lastwagen zu einem Lager gefahren, wo sie gesammelt und an Menschen gewöhnt wurden. (AZGB, Foto Lutz Heck)_
 
-Fünf Giraffen, 19 Zebras, vier Straußenvögel und verschiedene Antilopen waren die Ausbeute die Berlin gesund erreichte. In der Gegend von Kilwa wurden drei Nilpferde von Einheimischen in Fallgruben gefangen. Der oberste britische Wildschutzbeamte überließ sie dann dem Zoologischen Garten. Es wurde ein besonderes Gehege für diese eingerichtet. Diese Information gab Lutz Heck in seinen Veröffentlichungen an.[^exp4] Ob die Einheimischen von den britischen Behörden für 'Wilderei' [[material.poaching]] bestraft wurden, ist nicht bekannt - interessierte Lutz heck auch nicht.
+Fünf Giraffen, 19 Zebras, vier Straußenvögel und verschiedene Antilopen waren die Ausbeute die Berlin gesund erreichte. In der Gegend von Kilwa wurden drei Nilpferde von Einheimischen in Fallgruben gefangen. Der oberste britische Wildschutzbeamte überließ sie dann dem Zoologischen Garten. Ob die Einheimischen von den britischen Behörden für 'Wilderei' [[material.poaching]] bestraft wurden, ist nicht bekannt - interessierte Lutz heck auch nicht.
 
-Außer den Großtieren fing die Expedition in großen Fallen in der Nähe des Giraffen-Lagers große ostafrikanische Paviane, zudem 16 Grüne Meerkatzen und etwa 200 Nashornvögel, Papageien,Webervögel, Prachtfinken. 
-Lutz Hecks größter Erfolg war aber vielleicht, dass er letztlich doch noch eine 'Völkerschau' zusammenstellte. In seinen Worten: "Sechs Einheimische, darunter "drei Arusha Massai, stolze Krieger mit Schild und Speer des gefürchteten ostafrikanischen Hirtenvolk des begleiteten die Expedition auf allen Fahrten. Sie fassten derartiges zutrauen, dass sie bis nach Berlin mitkamen."[^exp5]
+Außer den Großtieren fing die Expedition in Fallen in der Nähe des Giraffen-Lagers große ostafrikanische Paviane, zudem 16 Grüne Meerkatzen und etwa 200 Nashornvögel, Papageien,Webervögel, Prachtfinken. Lutz Hecks größter 'Erfolg' war aber vielleicht, dass er letztlich doch noch eine 'Völkerschau' zusammenstellte. In seinen Worten: "Sechs Einheimische, darunter "drei Arusha Massai, stolze Krieger mit Schild und Speer des gefürchteten ostafrikanischen Hirtenvolk des begleiteten die Expedition auf allen Fahrten. Sie fassten derartiges zutrauen, dass sie bis nach Berlin mitkamen."[^exp5]
 
 Der Rücktransport gestaltete sich kompliziert. Nachdem die Tiere von Mombasa mit dem Schiff S/S Sumatra abgingen, hatte man Kurs auf Marseille genommen. Letztlich entschied sich Lutz Heck aus unbekannten Gründen für Genua als Ausschiffungshafen. Das führte aber zu einer Kette von Komplikationen. Hatte die Expedition die Erlaubnisse für Frankreich, sowie den Transit durch die Schweiz und den Grenzübertritt bei Kehl auf deutsches Territorium anscheinend schon geregelt, wurden nun neue Erlaubnisse notwendig, die lebenden Tiere nach Italien einzuführen und dann über eine andere Route durch die Schweiz nach ins Deutsche Reich zu transportieren. So musste nun zum Beispiel das Badische Innenministerium eine Transitgenehmigung erteilen, nachdem das Preußische Innenministerium die Einfuhr genehmigt hatte. Die Abwicklung der Formalitäten mit den Italienischen und (italienisch-)schweizerischen Behörden überließ man einem Speditionsunternehmen, aus der Region. "Jacky Maeder Co." bearbeitete diesen Teil des Transports gemeinsam mit der "Holland-Afrika-Lijn". Da sich mit den Giraffen, Zebras und Antilopen als untersuchungspflichtige Wiederkäuer an Bord befanden wurden medizinische Untersuchungen und mögliche Blutproben in Aussicht gestellt. Hierzu reiste der Zootierarzt Dr. Arendsee nach Genua dem Transport entgegen.[^exp6]
 
-Aus Suez kabelte Heck die benötigten Transportkapazitäten: drei offene, ein geschlossener Waggon wurden benötigt. 300 Pfund (Sterling) mussten bezahlt werden. Mit auf dem Transport: "3 Massai mit Schild und Speer" sowie "3 andere Neger".[^exp7] Letztere waren sicherlich die zu Beginn eingeplanten Transportbegleiter, die sich um die Tiere auf dem Transport und bei der Eingewöhnung kümmern sollte. Die drei "Massai" aber scheinen zur 'Dekoration' mitgenommen worden zu sein. Auf Aufnahmen der an die Rückkehr anschließenden Afrika-Sonderschau im Zoo sieht man diese Menschen zwischen den Kulissen und Tieren sich präsentieren. Durch die Hintertür hatte Lutz Heck also doch noch in Teilen eine 'Völkerschau' realisiert.
+Aus Suez kabelte Heck die benötigten Transportkapazitäten: drei offene, ein geschlossener Waggon wurden benötigt. 300 Pfund (Sterling) mussten bezahlt werden. Mit auf dem Transport: "3 Massai mit Schild und Speer" sowie drei weitere Männer.[^exp7] Letztere waren sicherlich die zu Beginn eingeplanten Transportbegleiter, die sich um die Tiere auf dem Transport und bei der Eingewöhnung kümmern sollte. Die drei "Massai" aber scheinen zur 'Dekoration' mitgenommen worden zu sein. Auf Aufnahmen der an die Rückkehr anschließenden Afrika-Sonderschau im Zoo sieht man diese Menschen zwischen den Kulissen und Tieren sich präsentieren. Durch die Hintertür hatte Lutz Heck also doch noch in Teilen eine 'Völkerschau' realisiert.
 
 ## 'Afrikaschau' und Werbeeffekt der Expeditionsbeute
 
@@ -104,7 +100,7 @@ Der Berliner Zoo profitierte letztlich von den Expeditionen - und zwar in Form e
 ![des](images/cmw/Zeitschrift_Expedition.PNG)
 _Zeitschrift mit einer Reportage und den Bildern von Lutz Heck, XXXX._
 
-- [ ] Besseren scan besorgen
+- [ ] Besseren scan besorgen @clemens
 
 Hinzu kam, dass die Tiere selbst im Zoo natürlich zu begehrten Schauobjekten wurden. Die abenteuerliche Herkunft zog weitere Besucher\*innen an.
 
@@ -113,25 +109,23 @@ _Auf der Postkarte des Zoo mit dem in Ostafrika gefangenen Nashorn wurde auf die
 
 Sowohl das von den professionellen Filmemacher auf der ersten Reise gewonnene Bildmaterial als auch Lutz Hecks eigene Bilder der zweiten Reise wurden in Filmen verarbeitet. Diese trugen weiter zum Bekanntheitsgrad des Zoos, vor allem wohl aber Lutz Hecks selbst, bei. Ihre mit rassistischen Klischees gefüllten Darstellungen afrikanischer Menschen trafen den Zeitgeist.
 
-Die Hauptpersonen in diesen Lutz Hecks Büchern und auch in den Filmen sind immer die weißen Expeditionsleiter. Das Thema ist die Gefahr, der sie sich aussetzen um uns, dem weißen Publikum ansprechende Tiere aus dem Innersten geheimnisvoller Kontinente, dem tiefen Dschungel oder der heißen Wüste zu bringen. Und doch konnten diese Bücher den Widerspruch  nicht  auflösen, dass die Arbeit praktisch immer und ausschließlich von Einheimischen Fängern geleistet wurde. Diese werden praktisch niemals mit Namen identifiziert. Lutz Heck benennt die beiden südafrikanischen Buren, die mit den Lassos die Giraffen fangen, die Mehrheit seiner Helfer aber bleibt unerwähnt. Gelegentlich gibt es abwertende Bemerkungen über ihren Alkoholkonsum oder ihre Spielsucht oder die schlechten Tischmanieren. Auch werden sie als "verschlagen" bezeichnet. Ausnahmen gelten nur für die christlichen Abessinier, die als "edle Wilde" durchgehen.
+Die Hauptpersonen in diesen Lutz Hecks Büchern und auch in den Filmen sind immer die weißen Expeditionsleiter. Das Thema ist die Gefahr, der sie sich aussetzen um uns, dem weißen Publikum ansprechende Tiere aus dem Innersten geheimnisvoller Kontinente, dem tiefen Dschungel oder der heißen Wüste zu bringen. Und doch konnten diese Bücher den Widerspruch  nicht  auflösen, dass die Arbeit praktisch immer und ausschließlich von Einheimischen Fängern geleistet wurde. Diese werden praktisch niemals mit Namen identifiziert. Lutz Heck benennt die beiden südafrikanischen Buren, die mit den Lassos die Giraffen fangen, die Mehrheit seiner Helfer aber bleibt unerwähnt. Immer wieder macht er abwertende Bemerkungen über ihren Alkoholkonsum oder ihre angebliche Spielsucht oder die seiner Ansicht nach schlechten Tischmanieren. Auch verunglimpft er sie als "verschlagen". Ausnahmen gelten nur für die christlichen Abessinier, die als "edle Wilde" durchgehen.[^insult]
 
-Noch 1935 profitierte der Zoologische Garten von der Reise 1928. Damals machte Lutz Heck die Bekanntschaft des Tierhändlers Chr. Kissonerghis. In den folgenden Jahren lieferte dieser nun regelmäßig neue Tiere aus Diredaua über Djibouti. Sie wurden dann ab dem Entladen an einem Mittelmeerhafen von Zooangestllten abgeholt.[^exp1]
-
-## Spätere Expeditionen
-
-Auch noch in den 1930er Jahren ging [[material.Lutz Heck]] auf Fangreisen. So fuhr er im Auftrag von [[material.Hermann Göring]] 1936 nach Kanada, um dort mit behördlicher Erlaubnis Elche und Bisons zu fangen.[^late1] Letztere wollte er im Erhaltungszuchtprogramm für den Wisent einsetzen und bei sich und in anderen Zoos ausstellen. Er reiste auch erneut nach Afrika, diesmal aber eher als Foto- und Jagdtourist. Seine Lebensgefährtin Eva Mac Lean reiste mehrfach nach Kamerun, an den Tschadsee und ins südliche Afrika und brachte auch weiterhin einzelne Tiere für den Berliner Zoo mit zurück.
+Noch 1935 profitierte der Zoologische Garten von der Reise 1928. Damals machte Lutz Heck die Bekanntschaft des Tierhändlers Chr. Kissonerghis. In den folgenden Jahren lieferte dieser nun regelmäßig neue Tiere aus Diredaua über Djibouti. Sie wurden dann ab dem Entladen an einem Mittelmeerhafen von Zooangestllten abgeholt.[^exp1
 
 ![Bild des Affenfelsens Mitte der 1930er Jahre](images/cmw/Affenfelsen-Heck.jpg)
 _Auf diesem Felsen stellte Lutz Heck die mantelpaviane seiner Expedition aus. (um 1930, AZGB, Foto Lutz Heck)_
 
-Lutz Hecks spätere Ehefrau Eva MacLean brachte 1936 von einer Reise nach Kamerun 1936 das Gorillaweibchen "Eseka" und einen Schimpansen mit.[^late2]
+## Spätere Expeditionen
+
+Auch noch in den 1930er Jahren ging [[material.Lutz Heck]] auf Fangreisen. So fuhr er im Auftrag von [[material.Hermann Göring]] 1936 nach Kanada, um dort mit behördlicher Erlaubnis Elche und Bisons zu fangen.[^late1] Letztere wollte er im Erhaltungszuchtprogramm für den Wisent einsetzen und bei sich und in anderen Zoos ausstellen. Er reiste auch erneut nach Afrika, diesmal aber eher als Foto- und Jagdtourist. Seine Lebensgefährtin Eva Mac Lean reiste mehrfach nach Kamerun, an den Tschadsee und ins südliche Afrika und brachte von dort einzelne Tiere für den Berliner Zoo mit zurück. So kam 1936 das Gorillaweibchen "Eseka" und einige durch sie in den Zoo.[^late2]
 
 ![Frau mit einem Schimpansen- und einem Gorillajungtier an Bord eines Schiffs](images/cmw/Gorilla_Schimpansentransport_25061936.jpg)
 _Eva MacLean an Bord eines Schiffs mit einem jungen Schimpansen und einem jungen Gorilla, 1936. (AZGB)_ [[story.Colonial Imagery]]
 
 1938 war Heck dann mehrere Monat in Kamerun, angeblich vor allem, um Tiere, insbesondere Gorillas, in ihrem Lebensraum zu beobachten. Und wieder kam er mit einem reichhaltigen Tiertransport zurück. Unter den vielen Tieren alleine mehr als 30 Affen, darunter wiederum drei Schimpansen.[^late3]
 
-Letztlich haben sich eigene Fangexpeditionen für den Berliner Zoo finanziell wohl nicht gelohnt. Zur Bekanntheit der Tiere, des Zoos und seines Zoodirektors haben sie aber beigertragen und dienten so der Werbung für den Zoo.
+Letztlich haben sich eigene Fangexpeditionen für den Berliner Zoo finanziell wohl nicht gelohnt. Zur Bekanntheit der Tiere, des Zoos und seines Zoodirektors haben sie aber beigetragen und dienten so der Werbung für den Zoo. Diese beruhte auf den eingespielten und breit rezipierten Narrativen des 'weißen Jägers' die seit den frühen Erzählungen Hans Schomburgks, Carl Schillings und anderer 'Afrikareisender' breit rezipiert worden waren.
 
 * * *
 
@@ -141,11 +135,11 @@ Letztlich haben sich eigene Fangexpeditionen für den Berliner Zoo finanziell wo
 
 [^exp2]: Heck, Lutz. 1955. Grosswild im Etoschaland. Erlebnisse mit Tieren in Südwest-Afrika. Berlin: Ullstein.
 
-[^exp3]: Die gesamte Korrespondenz findet sich in AZGB, O 0/1/327.
+[^exp3]: Dieses und folgende Zitate aus der Korrespondenz in AZGB, O 0/1/327.
 
 [^exp4]: Noch recherchieren
 
-[^exp5]: Zitat suchen
+[^exp5]: Zoologischer Garten Berlin. Ost-Afrika Tier-Schau 1928 des Berliner Zoologischen Gartens. Berlin, 1928.
 
 [^exp6]: Korrespondenz in AZGB, O 0/1/327.
 
@@ -158,3 +152,11 @@ Letztlich haben sich eigene Fangexpeditionen für den Berliner Zoo finanziell wo
 [^late2]: Zoologischer Garten Berlin: Geschäftsbericht für das Jahr 1936; Karteikarte "Schimpansen" der alten Zookartei.
 
 [^late3]: Zoologischer Garten Berlin: Geschäftsbericht für das Jahr 1936; Karteikarte "Schimpansen" der alten Zookartei; Heck, Lutz. 1941. Auf Tiersuche in weiter Welt. Berlin: Paul Parey: 143-193.
+
+[^insult]: Solche Zitate finden sich nicht ausschließlich aber auch in: Heck, Lutz. „Auf Giraffenfang in Ostafrika“. Die Koralle 4, Nr. 10 (1928): 456–60; ders. „Als Tierfänger in Ostafrika. Die Tierfangexpedition des Zoologischen Gartens in Berlin“. Die Koralle 5, Nr. 2 (1929): 82–86; ders. „Als Tierfänger in Ostarfrika“. Die Kunst und ihre Welt, Nr. Januar (1930): 8–11; ders. Aus der Wildnis in den Zoo. Auf Tierfang in Ostafrika. Berlin: Ullstein, 1930; Heck, Lutz. „Über Giraffen und Giraffenfang“. Atlantis. Länder, Völker, Reisen 3, Nr. 8 (1931): 458–66; ders. „Pavian-Fang in Abessinien“. Das Tier und wir, Nr. 6 (1934): 1–6; ders. Auf Tiersuche in weiter Welt. Berlin: Paul Parey, 1941.
+
+
+
+
+
+
