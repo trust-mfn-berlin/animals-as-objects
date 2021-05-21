@@ -2,7 +2,7 @@
 id: d54394f6-1188-4ec3-b590-da329e657560
 title: Futternot
 desc: Put a description of this note here...
-updated: 1621578071007
+updated: 1621578720885
 created: 1621497485660
 title_de: Futternot
 desc_de: Put a DE description of this note here...
@@ -15,30 +15,26 @@ published: false
 
 
 
-* Der Nahrungsmittelmangel war bereits im 1. Weltkrieg ein zentrales Thema für die Menschen wie auch für die Zootiere. Besonders im sogenannten „Steckrübenwinter“  gestaltete es sich schwierig, Getreide und Kartoffelprodukte zu erhalten, was für Unruhen und Plünderungen sorgte. Die Vorstellung, Tiere seien ein Nahrungskonkurrent des Menschen, führte dazu, dass Massenschlachtungen veranlasst wurden, die letztendlich die Situation aber eher verschlechterten.
 
-* Im Zuge dessen wurden auch Zootiere geschlachtet, die den Menschen wie auch der Nahrung wertvoller Zootiere dienten. „Weniger wertvolle Stücke mussten geschlachtet werden, um für die besseren Tiere Futterfleisch zu gewinnen.“ Johannes Gebbing (Hg.): 50 Jahre Leipziger Zoo, S. 36. Vgl.: 3.11.3 Zoo und Krieg. 
-
-* Zur Massenschlachtung siehe: Anne Roerkohl: Die Lebensmittelversorgung während des Ersten Weltkrieges im Spannungsfeld kommunaler und staatlicher Maßnahmen, in: Hans Jürgen Teuteberg (Hg.): Durchbruch zum modernen Massenkonsum. Lebensmittelmärkte und Lebensmittelqualität im Städtewachstum des Industriezeitalters, Münster 1987 (= Hans Jürgen Teuteberg u. Peter Borscheid (Hg.): Studien zur Geschichte des Alltags, Bd. 8), S. 309-370, hier S. 309-367, bes. S. 325.
 
 
 * Im 19. und beginnenden 20. Jahrhundert war es den Besuchern der deutschen Tiergärten grundsätzlich erlaubt, die tierischen Bewohner mit mitgebrachten oder auf dem Tierparkgelände erworbenen Speisen zu füttern. In Zeiten der Lebensmittelarmut hatten die zoologischen Gärten sogar die Menschen dazu aufgerufen, Nahrungsmittel zu sammeln und zu spenden. > Ludwig Heck: Die Teuerung im Zoologischen Garten, in: Die Gartenlaube, Nr. 30, (1920), S. 499ff., StA B.
 
 ## Futternot (oder lieber: Futtermangel?)
 
-![Gedicht eines Zoobesuchers über die Wintersnot im Zoo, 1948]() 
+![Gedicht eines Zoobesuchers über die Wintersnot im Zoo, 1948](images\mv\Wintersnot.jpg) 
 
 _Gedicht des Zoobesuchers K. Ferber über die Wintersnot im Zoo, 06.10.1948 (AZGB)._
 
 Am Ende des Zweiten Weltkriegs zählte der Berliner Zoologische Garten gerade noch 81 Tiere. 1938 waren es über 3000 gewesen und 1944 immerhin noch 1700.[^Futternot1] 
 
-![Elefantenkadaver im Berliner Zoo 1943]()
+![Elefantenkadaver im Berliner Zoo 1943](images\mv\Elefantenkadaver.jpg)
 
 _Elefantenkadaver im Berliner Zoo nach einem Bombenangriff 1943 (AZGB)._ 
 
 Zu den verbliebenen Tiere gehörte der asiatische Elefantenbulle „Siam“. Als Wildfang von der britischen Kolonie Ceylon, dem heutigen Sri Lanka, nach Deutschland gebracht, war er eigentlich für den Zirkus Krone bestimmt. Als "Siam" dort jedoch  Verhaltensauffälligkeiten zeigte, sollte das „böse Tier“ [[material.böse Tiere]] wieder entfernt werden, so dass der Berliner Zoo ihn 1933 übernahm. „Siam“ war der Einzige von neun Elefanten im Berliner Zoo, der den Krieg überlebte.
 
-![Ein Artikel des Life-Magazine, der den letzten Elefanten im Berliner Zoo zeigte, 1945]() 
+![Ein Artikel des Life-Magazine, der den letzten Elefanten im Berliner Zoo zeigte, 1945](images\mv\LifeMagazine.jpg) 
 
 _Das 'Life Magazine' berichtet über den einzigen überlebenden Berliner Zoo-Elefant nach Kriegsende, Oktober 1945._
 
@@ -46,11 +42,11 @@ Im Zoo fehlte es damals an allem, vom Futter über Brennholz bis zu Baumateriali
 
 Nachdem der gröbste Schutt entfernt worden war, machte sich der Zoo daran, möglichst viel Nahrung selbst zu produzieren. Eigentlich sollte der Zoo bei Wiedereröffnung im Juli 1945 einen Ort der Erholung und des Vergnügens jenseits des Nachkriegsalltags bieten. „Ich träumte dabei auch von schönen Blumenbeeten in den Alleen“, sagt Katharina Heinroth in einem Interview, „aber es kommt anders. Jede freie Ecke muß mit Gemüse bepflanzt werden. Die Freigehege werden unter unsere Angestellten für den eigenen Bedarf aufgeteilt“[^Futternot3-4]. Ausser der Gärtnerei, die bereits voll bestellt war, sollten nun "alle durch den Kampf im Zoo entstandenen Freiflächen mit Futtermitteln bebaut werden“[^Futternot4]. Das Hirschgehege wurde zum Gemüsegarten, auf den freien Rasenflächen wuchsen schon bald Rüben, Kartoffeln und Salat [^Futternot5], kurz: Der Zoo wurde beackert. 
 
-![Pferdeflug dem Gelände des Zoologischen Gartens Berlin 1946](images\mv\Zoo Mai 1946 in-AZGB Zeitungsarchiv 1945-.jpeg) 
+![Pferdeflug dem Gelände des Zoologischen Gartens Berlin 1946](images\mv\LandwirtschaftZoo.jpg) 
 
 _Gemüse- und Salatanbau auf dem Gelände des Zoologischen Gartens Berlin, abgedruckt im Vorwärts, 18.04.1946._
 
-![Gemüse- und Salatanbau auf dem Gelände des Zoologischen Gartens Berlin 1946]()  
+![Gemüse- und Salatanbau auf dem Gelände des Zoologischen Gartens Berlin 1946](images\mv\Zoo1946.jpeg)  
 
 _Über den Gemüse- und Salatanbau im Zoologischen Garten Berlin berichtet die illustrierte Zeitschrift 'Die Frau von heute', 07.05.1946._
 
@@ -58,26 +54,27 @@ Allerdings reichte diese Ernte zur Versorgung der Pflanzenfresser bei weitem nic
 
 Die eigenen Bemühungen reichten für die Versorgung der Tiere jedoch nicht aus. Der Zoo war auf die Stadt angewiesen – auf die Verkehrsinfrastrukturen und die Schlachthöfe ebenso wie auf die Besucher\*innen und Behörden. In Zeitungsartikeln rief Katharina Heinroth die Berliner Bevölkerung dazu auf, die Tiere durch Lebensmittelspenden zu unterstützen.
 
-![Zeitungsartikel mit dem Titel: Berliner, Rettet Euren Zoo!](images\mv\Illustrierter Telegraf AZGB Zeitungsarchiv 9-1948-10-1949.jpg) 
+![Zeitungsartikel mit dem Titel: Berliner, Rettet Euren Zoo!](images\mv\RettetZoo.jpg) 
 
 _Zeitungsaufruf im 'Illustrierten Telegraf' zur Rettung des Zoos, März 1949._ 
 
 Wenn es den Berliner*\innen auch nicht gelang, dem Zoo "Sorgenfreiheit rasch zu schenken", wie es im eingeschickten Gedicht eines Besuchers über die "Wintersnot im Zoo" heißt, spendeten die Menschen Lebensmittelmarken, brachten altes Brot und Kartoffelschalen und sammelten Eicheln für die Tiere. „‘Siam‘ verzehrt ganze Körbe davon und auch die meisten anderen Tiere scheinen mit diesen Ersatz recht zufrieden zu sein.“[^Fußnote13-14] Während früher das Füttern eher geduldet war, „wäre man heute dankbar, wenn sich recht viele Besucher dieses Vergnügen machen würden“, schrieb die _Neuen Zeitung_ 1949. [^Futternot10] Auch die illustrierte Frauenzeitschrift _Die Frau von heute_, die ab 1946 als Organ der Kommunalen Frauenausschüsse der sowjetischen Besatzungszone erschien[^Futternot10-11] wies ihre Leser\*innen ermunternd darauf hin, dass alle Zootiere „für Gemüseabfälle, Mohrrüben und dergleichen sehr empfänglich [sind]. Und wer über Kartoffelschalen verfügt, wird dafür im Zoo immer dankbare Abnehmer finden!“ [^Futternot11] Der Zoo verwertete die Reste der städtischen Versorgung, die für den menschlichen Verzehr nicht (mehr) geeignet war. Doch auch die Unterstützung der Bevölkerung reichte nicht aus. Aber wer war eigentlich für den Zoo offiziell zuständig? Die Futtermittelbeschaffung musste nach dem Krieg erst neu geregelt werden. Am 6. August 1945, nur drei Tage nachdem sie zur Leiterin des Zoos ernannt worden war, wandte sich Katharina Heinroth an das Haupternährungsamt der Stadt Berlin, um die Futterbeschaffung zu klären. Heu, Stroh, Kartoffeln, Rüben, Pferdefleisch und Schlachthofabfälle brauche der Zoo laufend. [^Futternot12]
 
-![Auflistung des Tierbestands und der benötigten monatlichen Futtermittel des Berliner Zoos für September 1945]()
+![Auflistung des Tierbestands und der benötigten monatlichen Futtermittel des Berliner Zoos für September 1945](images\mv\Futtermittelbedarf.jpg)
 
 _Auflistung des Futtermittelbedarfs für die Großtiere des Berliner Zoos vom 18.09.1945. (AZGB)_
 
 Durch einen Beschluss des Alliierten Kontrollrates vom 10. November 1945 erhielt der Zoo die Zusicherung, dass er für seine 250 Tiere das nötige Futter regelmäßig durch den Magistrat der Stadt Berlin erhalten würden [[material. Beschluss vom 10. November 1945]]. Die Futterbeschaffung lag damit in den Händen des Haupternährungsamtes. Nachdem der Zoo eine Liste seiner Großtiere und deren Futterbedarf eingereicht hatte (Abb. Xxx), teilte dieses die notwendigen Rationen zu, auch hier „möglichst solche, die für den menschlichen Gebrauch ungeeignet sind.“ [^Futternot13] Schlachthäuser wurden angewiesen, Kadaver von Pferden und Rindern zur Verfütterung an die Fleischfresser im Zoo abzugeben; Krankenhäuser lieferten Restmüll aus ihren Kantinen. Der Zoo war somit auch im größeren Maßstab als Verwertungsmaschine organischer Abfälle in den urbanen Metabolismus eingebunden. Da die Tiere, Heu und Stroh ausgenommen, jeden Monat immerhin fast 4500 kg Futtermittel, vom Mischfutter, Hafer und Hanf über Brotabfälle, Kartoffeln und Gemüse bis zu Fleischabfällen und Pferdefleisch brauchten, kam es immer wieder zu Engpässen.[^Futternot14] Dann musste improvisiert werden. Hanf und Hirse sowie Haferflocken waren anfangs nirgends zu bekommen, dafür gab es Gerste. Fehlende Kartoffeln ersetzte man durch Futterrüben oder Abfall-Brot, die Zoo-Wärter sammelten regelmäßig Kartoffelschalen „aus halb Berlin zusammen” [^Futternot15] und die Fleischfresser erhielten Abfälle aus dem Schlachthof. Die täglichen Portionen waren stark rationiert, „der alte Elefant Siam mit seinen ausgefransten Ohren, dem noch immer der Schrecken der Bombenangriffe in den Knochen sitzt […] erhält 100 Pfund Futter am Tag vom Berliner Magistrat zur Verfügung gestellt. Die listige Schimpansin „Susi“ muß sich dagegen mit [Lebensmittel]Karte 5 begnügen.“[^Futternot16] Der _Tagesspiegel_ bemerkte dazu: "Der Magistrat teilt den Tieren ihre Rationen genau so streng zu wie den Menschen. Jede Gattung hat ihr vorgeschriebenes Quantum.“ [^Futternot17]
 
+
 ## Die Stadt ernähren
 In der Tat spiegelte die Futterknappheit im Zoo die damalige Ernährungslage der Stadt wider. Auch für die Menschen setzte die Stadtverwaltung die Lebensmittelrationen pro Person und Tag fest. Vom Brot übers Fleisch bis zu Kartoffeln und Bohnenkaffee – alles war in Grammzahlen abgemessen.[^StadtErnähren1] Für Nutztiere wie Pferde, Kühe und Schweine gab es ebenfalls Futtermittelkarten.[^StadtErnähren2] Trotzdem fehlte es überall an Nahrung ebenso wie an Heizmaterial. Im langen und besonders kalten Winter 1946/47 wurde daher der Große Tiergarten, der an den Zoo grenzte, fast komplett abgeholzt. Hunderte alte Bäume wurden zu Feuerholz und die entstandenen Freiflächen umgehend zum Anbau von Gemüse umgenutzt. Die britischen Besatzungstruppen hatten diese Nutzung vorübergehend genehmigt: Auf etwa 2550 Parzellen wuchsen Nahrungsmittel, Pferde und Ochsen zogen Pflüge durch den einstigen Parkboden. Einige Flächen ließ der Senat als Felder für Grünfutter bewirtschaften.
 
-![Gemüseanbau im abgeholzten Großen Tiergarten in Berlin, im Hintergrund der Reichstag, 1946](images\mv\Bundesarchiv-Bild-183-M1015-314.jpg)
+![Gemüseanbau im abgeholzten Großen Tiergarten in Berlin, im Hintergrund der Reichstag, 1946](images\mv\Tiergartenb.jpg)
 
 _Gemüseanbau im abgeholzten Großen Tiergarten in Berlin 1946, im Hintergrund der Reichstag, Bundesarchiv Bild 183-M1015-314._
 
-![Parzelle mit Gemüsebeet im abgeholzten Großen Tiergarten in Berlin, 1945](images\mv\Bundesarchiv-183-H0813-0600-009 Berlin-Tiergarten Gemuesebeet.jpg)
+![Parzelle mit Gemüsebeet im abgeholzten Großen Tiergarten in Berlin, 1945](images\mv\Tiergartena.jpg)
 
 _Parzelle mit Gemüsebeet im abgeholzten Großen Tiergarten in Berlin im Jahr 1945, Bundesarchiv Bild 183-H0813-0600-009._
 
@@ -87,21 +84,21 @@ Während sich die Menschen vor dem Krieg vor allem an den Zoo gewandt hatten, um
 
 Die Futterlage im Zoo blieb indessen angespannt und nur zwei Jahre nach Kriegsende, im März 1947, starb Elefant „Siam“. Die Berliner Zeitungen schrieben, „halb erfroren“ ist nun "unser Zoo-Dickhäuter auch verhungert"[^StadtErnähren10]
 
-![Zeitungsartikel im Telegraf mit dem Titel "Siam' unter der Bandsäge", 1947](images\mv\Siam unter der Bandsaege-Telegraf 21-3-1947.jpg)
+![Zeitungsartikel im Telegraf mit dem Titel "Siam' unter der Bandsäge", 1947](images\mv\Bandsaege.jpg)
 
 _Zeitungsartikel im 'Telegraf' über die Weiterverwertung des Elefanten "Siam", 21.03.1947._
 
 Tatsächlich war „Siam“ aber nicht verhungert, sondern an einer chronischen Darmentzündung und der starken Veränderung des Herzmuskels gestorben. Das ergab die Sektion, die die Tierärztliche Hochschule und das Zoologische Museum (Teil des Naturkundemuseums) gemeinsam durchführten. Vielleicht aber schien die Vorstellung, dass „unser Zoo-Elefant“ ebenso Hunger litt wie die Berliner Bevölkerung tröstend? Es finden sich viele Beispiele von (Zoo-)Tieren, die in schweren Zeiten als Identifikations- und Projektionsfiguren dienten. Es ging um die Vorstellung, dass Tier und Mensch in Zeiten des Mangels das gleiche Schicksal teilten, ein Wir-Gefühl. Es mag daher nicht verwundern, dass der Zoo eine Menge Zuschriften aus der Bevölkerung erhielt, die ihr Mitgefühl und Bedauern über den Tod des letzten Berliner Zoo-Elefanten ausdrückten. Viele wollten wissen, wann es einen neuen Elefanten zu sehen gebe. Darauf aber konnte Katharina Heinroth wieder nur antworten: „Wir werden vorläufig des Futtermangels wegen keinen neuen Elefanten anschaffen.“
 
-![Postkarte eines Kindes an den Zoo Berlin zum Tod des Elefanten "Siam"](images\mv\Postkarte zu Siam AZGB 9 O-0-1-87.jpg) 
+![Postkarte eines Kindes an den Zoo Berlin zum Tod des Elefanten "Siam"](images\mv\BeileidSiam.jpg) 
 
 _Beleids-Postkarte vom vierjährigen Hello Keller an den Berliner Zoo zum Tod von „Siam“, (AZGB)._
 
 Daneben gab es aber auch empörte Stimmen, die – in der Annahme, dass der Elefant verhungert war – wissen wollten, warum der Zoo seine Tiere nicht fortgab, wenn er sie nicht mehr ernähren könne.[^StadtErnähren11] Tatsächlich stand in diesen Jahren beständig die Frage im Raum, ob der Zoo gezwungen war, einen Teil seiner Bestände wegen Futtermangels notzuschlachten oder Tiere wegzugeben.[^StadtErnähren12] Die Alliierte Kommandantur hatte dem Zoo bereits 1945 ein Anschaffungsverbot für neue Tiere auferlegt [[story.landwirtschaftliche Tiere]], da für mehr als die inzwischen wieder vorhandenen 240 Tiere kein Futter bereitgestellt werden konnte und die schlechte Ernährungslage von Berlin nicht noch mehr belastet werden sollte.[^StadtErnähren13] Mehrmals drohte der englische Kommandant an, den Zoo zu schließen und die Tiere in den Westen zu evakuieren.[^StadtErnähren14] 
 
-Anfang der 1950er Jahre normalisierte sich die Situation in Berlin und auch im Zoo wieder Stück für Stück. Die Gemüsebeet verschwanden wieder aus dem Zoo, der Tierhandel befand sich wieder im Aufbau und Aufschwung und es konnte wieder über eine Vergrößerung des Tierbestands nachgedacht werden.[^StadtErnähren15]
+Anfang der 1950er Jahre normalisierte sich Stück für Stück die Situation in Berlin und damit auch im Zoo. Die Gemüsebeet verschwanden wieder, der Tierhandel nahm an Fahrt auf und man konnte wieder über eine Vergrößerung des Tierbestands nachdenken.[^StadtErnähren15]
 
-(@all critcal readers: bin unsicher mit dem Schluss - es geht ja in der "nächsten" story noch mit "Tiere verfüttern" in Notzeiten weiter, aber es braucht ja hier eine Art Ende; also die story mit dem Vorgriff auf die Normalisierung der Situation beschließen oder lieber einen Cliffhanger einbauen?)
+(@all critcal readers: bin unsicher mit dem Schluss - es geht ja in der "nächsten" story noch mit "Tiere verfüttern" in Notzeiten weiter, aber es braucht ja hier eine Art Ende; also die story mit dem Vorgriff auf die Normalisierung der Situation beschließen oder lieber Cliffhanger einbauen?)
 
 ## Fußnoten ##
 
