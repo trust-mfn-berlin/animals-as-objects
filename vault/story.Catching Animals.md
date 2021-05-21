@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching 'Exotic' Animals
 desc: Put a description of this note here...
-updated: 1621598333481
+updated: 1621600552236
 created: 1618492547915
 title_de: Fang 'exotischer' Tiere
 desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen. Hinzu kamen von Zoos organisierte eigene Expeditionen und die Gelegenheitsgeschenke von Großwildjägern und Kolonialbeamten.
@@ -44,7 +44,12 @@ _Der sogenannte Wissmann-Löwe aus der deutschen Kolonie 'Deutsch-Ostafrika', um
 
 Zwischen etwa 1890 und 1914 kamen jedes Jahr regelmäßig Geschenke aus den deutschen Kolonien in den Berliner Zoo. Natürlich profitierten alle Zoos der Kolonialstaaten von der leichten Ausbeutbarkeit der jeweiligen Kolonien. Hinzu kommt aber, dass durch die koloniale Besatzung insgesamt eine Situation geschaffen worden war, die es auch beispielsweise deutschen Tierhandelshäusern leicht möglich machte, die Fauna in Afrika, Asien und Ozeanien für europäische Zoos auszubeuten. Die besetzten und durch Kolonialbeamte verwalteten Landstriche und ihre Bevölkerung besaßen keinerlei Autonomie über die Nutzung der eigenen Ressourcen. Oft wurden lokale Bevölkerungen durch Jagdbestimmungen der Kolonialverwaltungen unter dem Vorzeichen des Naturschutzes der Nutzung der Ressourcen beraubt. Den Tierhandelshäusern wurden aber Lizenzen vergeben. Der Aufbau einer kolonialen Infrastruktur erleichterte den Handelshäusern zudem den Transport von erjagten Tieren und die Kommunkiation mit Auftraggebern. Wirtschaftliche Hierarchien und Machtverhältnisse vor Ort sorgten zudem dafür, dass Tierhändlern und Tierfängern vor Ort ein Reservoir von Arbeitskräften für die schweren Aufgaben und die eigentlichen Jagdexpeditionen zur Verfügung stand.[^colonial1]
 
-Es ist wichtig, sich in Erinnerung zu rufen, dass die Fänger bei einigen in Herden lebenden und gefährlichen Säugetieren, Herdenmitglieder oder Muttertiere für den Fang von Jungtieren töteten, um gefahrlos an die begehrten Jungtiere zu kommen. Tierhändler hatten in der Regel Interesse an Jungtieren, da deren zu erwartende längere Lebensdauer einen höheren Preis erzielen würden. Auch waren jüngere und damit kleinere Tiere besser zu transportieren. Oft erwarteten die Händler und die Zoodirektoren, dass mit der Flasche aufgezogene oder zumindest im Kontakt mit Menschen aufwachsende Tiere leichter zu pflegen sein würden im Zwangssystem eines Zoos.
+Zunächst aber kam der Tierfang in den deutschen Kolonien nur wenig in Schwung, was nach Ansicht des 'Afrikaforschers' [[material.Carl Georg Schillings]], selbst Jäger und Tierfänger, an den mangelhaften Verkehrsrouten und dem insgesamt schlechten Klima der deutschen Kolonien lag. Er schilderte 1905 die Lage:
+>"Weder aus Deutsch-Ost-, noch aus -Südwest- oder -Westafrika ist es überhaupt bis zum heutigen Tage gelungen, irgendwelche regelmäßige Einfuhr von lebenden Tieren in Schwung zu bringen.  Was der Initiative des bekannten Tierimporteurs Menges häufig im Somal-Lande, alleine die Kuhherden für die Milch am Leben zu halten ist fast unmögliches Unterfangen; er schießt dann das Muttertier; er lässt das Jungtier nachts marschienen der Hitze wegen; in Neapel nimmt es Ludwig Heck entgegen."[^africanrhino]
+
+
+Es ist wichtig, sich in Erinnerung zu rufen, dass die Fänger bei einigen in Herden lebenden und gefährlichen Säugetieren, Herdenmitglieder oder Muttertiere für den Fang von Jungtieren töteten, um gefahrlos an die begehrten Jungtiere zu kommen. Schillings' Nashorn für den Berliner Zoo wurde eben auf diese Weise gefangen. Schillings hatte das Muttertier erschossen. Die Tötung einer Nashornkuh musste aber nicht zwingend zum Erfolg führen, denn die Jungtiere konnten durchaus fliehen. Sie verendeten dann sicher und der Jäger schoss ein anderes Tier bei der nächsten Gelegenheit.[^schillings2]
+Tierhändler hatten in der Regel Interesse an Jungtieren, da deren zu erwartende längere Lebensdauer einen höheren Preis erzielen würden. Auch waren jüngere und damit kleinere Tiere besser zu transportieren. Oft erwarteten die Händler und die Zoodirektoren, dass mit der Flasche aufgezogene oder zumindest im Kontakt mit Menschen aufwachsende Tiere leichter zu pflegen sein würden im Zwangssystem eines Zoos.
 
 Eine wesentliches Hindernis der Tierhändler aber auch aller Akteure, die Tiere aus den Ursprungsgebieten nach Europa brachten war die Gefahr, dass diese auf dem Transport sterben könnten. Wir haben keine akkuraten Zahlen über die Verluste, können aber davon ausgehen, dass diese insbesondere zu beginn noch groß waren. Die gefangenen Tiere mussten an Ort und Stelle mittels Käfigen, Gehegen, Grupen oder Schlingen und Ketten zunächst fixiert und gefangen gehalten werden, bis die Expedition beendet oder die gewünschte Anzahl Tiere gesammelt wurde.
 
@@ -53,18 +58,15 @@ Auch konnte es vorkommen, dass die Strapazen langer Transporte zum schnellen Tod
 ![Brief der Zooleitung an das Naturkundemuseum](images/cmw/MfN_HBSB_S004_02_05_Nr97.jpg)
 _Lutz Heck an H. Pohle, 07.06.1934. (MfN HBSB S004-02-05 Nr. 97)_
 
-- @clemens - Signatur finden
-
 Zwei der vier aufgeführten Tiere waren erst kurz zuvor von Tierhändlern geliefert worden.
 
-Carl Georg Schillings, selbst Jäger und Tierfänger, schilderte 1905 die Lage:
->"Es ist bis dato noch nicht gelungen Fauna Afrikas nach Europa zu transportieren - nur aus dem Somaliland hat Menges regelmäßige Transporte; auch neue Infrastrukturen und Eisenbahnen nicht geholfen; alleine die Kuhherden für die Milch am Leben zu halten ist fast unmögliches Unterfangen; er schießt dann das Muttertier; er lässt das Jungtier nachts marschienen der Hitze wegen; in Neapel nimmt es Ludwig Heck entgegen."[^africanrhino]
+## Die Großen Spieler - Hagenbeck und Co.
 
-- @clemens Zitat überprüfen.
-
-## Die Großen Spieler - Hagenbeck, Ruhe und Co.
+Geschenke von Kolonialbeamte und einzelne Fänge bereicherten sicher die Zoos, es musste aber zu einer weiteren Entwicklung kommen, um die gierigen Tiergärten Europas und Nordamerikas zu füllen. Diese war die Entstehung des professionellen Tierhandels mit den Firmen Hagenbeck, Reiche, Ruhe und Jamrach an der Spitze. Erst sie ermöglichten den Zoos die große Zahl an 'exotischen' Tieren, die sie in den Augen der Besucher\*innen so attraktiv machte.
 
 >"Although some animals came to zoological parks through donations, trades, or loans, zoos could not have come into existence, and their collections could not have taken the shape that they did, without a commercial trade in wild animals that provided a reliable supply of polar bears in San Antonio, for example, prairie dogs in Philadelphia, or zebra in Denver. Without animal trade few zoos could have displayed more than deer and birds - they would never have become 'real' zoos with elephants."[^hanson]
+
+Natürlich beruhte dieser auf der kolonialen Beherrschung der Lebensräume der Tierarten selbst. Und obwohl das Deutsche Reich erst relativ spät in den Kreis der Kolonialmächte eintrat war es eine Hamburger Firma, die hier eine Vorreiterrolle hatte - Carl Hagenbeck.
 
 >"The international traffic in wild animals, perhaps the only area of colonial trade that was dominated by Germans, created an imprtant context for the emergence of Hagenbeck's ethnographic enterprise."[^hagenb1]
 
@@ -189,3 +191,5 @@ ____
 [^klös1]: Klös, Heinz-Georg. Freundschaft mit Tieren: der Altdirektor des Zoologischen Gartens Berlin erzählt. Berlin: Edition Q, 1997: 167-178.
 
 [^hanson]: Hanson, Elizabeth. Animal attractions: nature on display in American zoos. Princeton, N.J: Princeton University Press, 2002: 71, 73.
+
+[^schillings2]: Schillings, 1905, 190-197.

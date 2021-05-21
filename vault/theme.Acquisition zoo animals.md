@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: How animals get into the zoo?
 desc: The various sources of animal objects for museums and zoos.
-updated: 1621368497166
+updated: 1621601349468
 created: 1618498026144
 title_de: Wie gelangen Tiere in den Zoo?
 desc_de: Lebende Tiere für die Sammlungen des Zoologischen Gartens, Aquariums und Tierparks Berlin kamen und kommen aus unterschiedlichen Quellen. Diese haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen für diese Einrichtungen - politische, logistische und moralische.
@@ -33,8 +33,7 @@ Die Beantwortung dieser Fragen bündelt eine ganze Reihe wichtiger Themen rund u
 
 ## Entnahmen aus ihren Lebensräumen
 
-Zur Zeit der Gründung der ersten - 'modern' oder wissenschaftlich' genannten - Zoologischen Gärten in Europa waren quasi **alle dort ausgestellten und nicht einheimischen Tiere sogenannte Wildfänge** [[material.animals caught in the wild]] . Sie waren also in ihren Habitaten gejagt, gefangen und aus ihnen entfernt worden. Mehr dazu in der Story 'Tiere fangen' [[story.Catching Animals]]. In die Zoos selbst wurden sie aber häufig nicht direkt gebracht. Auch war eine planvolle Sammlungsstrategie in der Regel noch nicht zu erkennen.
-Einheimische Tierarten stammten ebenso nicht selten aus den Wäldern, Steppen, Wiesenlandschaften, Auen oder von den Küsten des eigenen Territoriums und waren dort zuvor gefangen und entnommen worden. Oft aber dominierten hier bereits Zuchten aus den früher angelegten Menagerien der herrschaftlichen Anwesen oder frühen Tiersammlungen von Städten. [[story.early zoo history]] Das betraf insbesondere Huftierarten, Fasane oder heimische Nagetiere.
+Zur Zeit der Gründung der ersten - 'modern' oder wissenschaftlich' genannten - Zoologischen Gärten in Europa waren quasi **alle dort ausgestellten und nicht einheimischen Tiere sogenannte Wildfänge** [[material.animals caught in the wild]] . Sie waren also in ihren Habitaten gejagt, gefangen und aus ihnen entfernt worden. Mehr dazu in der Story 'Tiere fangen' [[story.Catching Animals]]. Einheimische Tierarten stammten ebenso nicht selten aus den Wäldern, Steppen, Wiesenlandschaften, Auen oder von den Küsten des eigenen Territoriums und waren dort zuvor gefangen und entnommen worden. Oft aber dominierten hier bereits Zuchten aus den früher angelegten Menagerien der herrschaftlichen Anwesen oder frühen Tiersammlungen von Städten. [[story.early zoo history]] Das betraf insbesondere Huftierarten, Fasane oder heimische Nagetiere.
 
 Viele der nicht einhemischen Tiere waren Geschenke an die Zoos durch die jeweils herrschenden Territorialfürsten. [[story.Gifting Objects]] Diese wiederum hatten sie von 'Entdeckunsgreisenden' oder ihren Kolonialbeamten übersandt bekommen oder Hofmitglieder sowie Adelige hatten sie selbst gefangen oder angeboten bekommen. Insbesondere diese Quelle von Tieren hat in der Mehrheit der Fälle einen politischen Bezug oder war in der einen oder anderen Form mit einer erwünschten Propagandawirkung verbunden. Hier kann die politische Geschichte - genauer die Geschichte der diplomatischen Beziehungen - daher helfen, die Fragen nach dem Ursprung der Tiere in Zoos zu beantworten. Dem Besitz dieser Tiere wurde ein emotionaler und diplomatischer Wert zugeschrieben. Je seltener, größer, schwerer, gefährlicher oder neuer ein Tier entdeckt war, desto größer dieser Wert.
 
@@ -43,34 +42,31 @@ _Die beiden asiatischen Elefanten "Omar" und "Rostom" waren Geschenke des mit de
 
 Diese Geschenkpraxis setzte sich mit der Expansion der europäischen Kolonien fort, von der alle Zoos und auch der Berliner Zoologische Garten profitierten. Seit 1891 wurden in den Geschäftsberichten des Zoos regelmäßig Geschenke aus den Kolonialgebieten erwähnt. Mitglieder des kaiserlichen Haushaltes, Gouverneure, Kolonialgesellschaften und Kaufleute sandten dem Zoo seltene Tiere. 1907 hatte der Zoo elf Löwen und nur ein Tier war kein Geschenk aus den Kolonien.[^colonial1]
 
-Geschenke waren in den ersten Jahrzehnten seiner Existenz die wichtigste Quelle für Tiere für den Berliner Zoo. Das galt auch für den Tierpark Berlin [[story.Short History Tierpark]]. Dieser erhielt Unterstützung durch Geschenke an die junge DDR und ihren noch jüngeren 'hauptstadt-Tierpark' aus sozialistischen Ländern.
-In den letzten drei Jahrzehnten des 19. Jahrhunderts kam aber bereits eine weitere wichtige Tierquelle, die ebenso weitgehend auf der Ausbeutung der in den natürlichen Lebensräumen lebenden Tierppopulationen beruhte, auf - der Tierhandel.[^entnahme1]
+Geschenke waren in den ersten Jahrzehnten seiner Existenz die wichtigste Quelle für Tiere für den Berliner Zoo. Das galt auch für den Tierpark Berlin [[story.Short History Tierpark]]. Dieser erhielt Unterstützung durch Geschenke an die junge DDR und ihren noch jüngeren 'Hauptstadt-Tierpark' aus sozialistischen Ländern. In den letzten drei Jahrzehnten des 19. Jahrhunderts kam aber bereits eine weitere wichtige Tierquelle, die ebenso weitgehend auf der Ausbeutung der in den natürlichen Lebensräumen lebenden Tierppopulationen beruhte, auf - der Tierhandel.[^entnahme1]
 
 ### Tierhandel
 
-Ausführlich wird in der Story 'Tierhandel' [[story.Animal trade]] über den wachsenden und immer professioneller organisierten Tierhandel berichtet. An dieser Stelle reicht es kurz auf dessen Ursprünge einzugehen.
-
-- Ursprünge
-- Monopole
-- Professionalisierung
-- Ausbeutung
+Ausführlich wird in der Story [[story.Catching Animals]] über den wachsenden und immer professioneller organisierten Tierhandel berichtet. Von seinen Anfängen mit Gelegenheitskäufen kleinerer Tiere, die von Reisenden oder Matrosen an Bord der Schiffe aus den sich ausweitenden kolonialen Handelsstützpunkten in europäische Häfen kamen, entwickelten Tierhandelsfirmen ausgeprägte Netzwerke von Fängern und Agenten in den Kolonien.
 
 ![desc](images/cmw/Aqua_Fischtransport_Seitz.jpg)
 *Ankunft von neuen Tieren für das Aquarium Berlin, um 1920. (AZGB)*
 
-Zoos konnten sich also zum Ende des 19. Jahrhunderts eines umfangreichen Netzwerks von professionellen Händlern bedienen. Auch Museen boten berufsmäßige Händler naturwissenschaftlicher Spezimen nun eine scheinbar unerschöpfliche und in Katalogen angebotene Vielfalt von Objekten an. [[story.Collecting Specimen]]
+Zoos konnten sich zum Ende des 19. Jahrhunderts aus umfangreichen Angeboten mehrerer professioneller Händler bedienen. Auch den Museen boten berufsmäßige Händler naturwissenschaftlicher Spezimen nun eine scheinbar unerschöpfliche und in Katalogen angebotene Vielfalt von Objekten an. [[story.Collecting Specimen]] Die großen Händler bündelten oft ihre Transporte im Ursprungsgebiet und versorgten dann mehrere Zoos aus den den Transport überlebenden Tieren.
+
 Manchmal organisierten oder finanzierten Zoos sogar eigenen Expeditionen zur Beschaffung von Tieren. Zunächst im Zoo von London und besonders in amerikanischen Zoos waren diese Expeditionen nicht nur eine Quelle neuer Tiere, sie boten vor allem eine 'Beigleitmusik' aus Veröffentlichungen, Zeitungsberichten, die sich zur Werbung eigneten. Im Berliner Zoo wurden eigene Fangexpeditionen nur in einem sehr begrenzten Maß durchgeführt. [[material.Oskar Heinroth]], der selbst Expeditionserfahrung aus seiner früheren Karriere hatte, fuhr in der ersten Hälfte des 20. Jahrhunderts regelmäßig in die bei Rovigno an der Adria gelegene Zoologische Station der Kaiser-Wilhelm-Gesellschaft und brachte stets neue Tiere für das Berliner Aquarium [[story.Short History Aquarium]] mit. Noch 1942 stellte er einen Tiertransport dort zusammen. [^expeditions2] Aber insbesondere der spätere Zoodirektor [[material.Lutz Heck]] organisierte in den 1920er und 1930er Jahren mindestens drei Tierfangexpeditionen, die neben dem Tiernachschub vor allem der eigenen Werbung dienten. [[story.Heck Expeditions]]
 
 ![desc](images/cmw/Giraffentransport_1928_S_3_58_Wolter.jpg)
 *Giraffentransport für den Zoo, 1928. (AZGB, Foto Wolter)*
 
-Die begleitenden veröffentlichungen in zeitungen, Büchern und als abenfüllende Kinofilme bedienten dabei die vorherrschenden Stereotypen über die Menschen in den Erdregionen, in denen die Tiere gefangen wurden. [[story.Colonial Imagery]]
+Die begleitenden veröffentlichungen in Zeitungen, Büchern und als abenfüllende Kinofilme bedienten dabei die vorherrschenden Stereotypen über die Menschen in den Erdregionen, in denen die Tiere gefangen wurden. [[story.Colonial Imagery]]
 
 Nach dem Ende des Zweiten Weltkriegs blühte der durch das weltweite Morden unterbrochene Tierhandel kurzfristig wieder auf aber es deutete sich bereits auch dessen baldiges Ende an. Immer mehr Regierungen der sich die Unabhängigkeit erkämpfenden Länder in Afrika und Asien und auch die verbleibenden Kolonialregierungen verhängten stärkere Kontrollen über die Entnahme lebender Tiere. 
 
 ## Die Zucht von Zootieren und das Ende des Tierhandels
 
-Die sicher größte im Zoo seit dem Verbot des Handels mit gefährdeten Tier- und Pflanzenarten durch das Washingtoner Artenschutzabkommen aber um so wichtiger: die Zucht [[story.Breeding Animals for the Zoo]] eigener Tiere. Weltweite durch Forschung gewonnene Erkenntnisse um die Bedrohung der irdischen Pflanzen- und Tiervielfalt wurden ergänzt durch immer größeres Wissen um die Fortpflanzungsbiologie und die Voraussetzungen für die Aufzucht von Jungtieren gefangen gehaltener Zootiere.
+Bot die Zerstörung in Europa den Tierhändlern in den 1940ern und 1950ern noch einmal ein gutes Geschäft, da alle Zoos nun wieder ihre Gehege reparierten und wieder besetzen wollten, so war doch klar, dass immer mehr Regierungen oder Kolonialmächte nun die Ausfuhr von Tieren regulierten. Zwar hatten wohl nicht die Tierfänger sondern die gewerbliche Jagd und die Verkleinerung der Habitate für den massiven Rückgang vieler Tierarten überall auf der Welt gesorgt, 
+
+seit dem Verbot des Handels mit gefährdeten Tier- und Pflanzenarten durch das Washingtoner Artenschutzabkommen aber um so wichtiger: die Zucht [[story.Breeding Animals for the Zoo]] eigener Tiere. Weltweite durch Forschung gewonnene Erkenntnisse um die Bedrohung der irdischen Pflanzen- und Tiervielfalt wurden ergänzt durch immer größeres Wissen um die Fortpflanzungsbiologie und die Voraussetzungen für die Aufzucht von Jungtieren gefangen gehaltener Zootiere.
 
 [[story.Breeding Animals for the Zoo]]
 
