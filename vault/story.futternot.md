@@ -2,7 +2,7 @@
 id: d54394f6-1188-4ec3-b590-da329e657560
 title: Futternot
 desc: Put a description of this note here...
-updated: 1621551085577
+updated: 1621578071007
 created: 1621497485660
 title_de: Futternot
 desc_de: Put a DE description of this note here...
@@ -26,19 +26,19 @@ published: false
 
 ## Futternot (oder lieber: Futtermangel?)
 
-![Gedicht eines Zoobesuchers über die Wintersnot im Zoo, 1948](images\mv\Gedicht Wintersnot im Zoo AZGB O-0-1-60.jpg) 
+![Gedicht eines Zoobesuchers über die Wintersnot im Zoo, 1948]() 
 
 _Gedicht des Zoobesuchers K. Ferber über die Wintersnot im Zoo, 06.10.1948 (AZGB)._
 
 Am Ende des Zweiten Weltkriegs zählte der Berliner Zoologische Garten gerade noch 81 Tiere. 1938 waren es über 3000 gewesen und 1944 immerhin noch 1700.[^Futternot1] 
 
-![Elefantenkadaver im Berliner Zoo 1943](images\mv\Elefantenkadaver 1943 AZGB S-3-60.jpg)
+![Elefantenkadaver im Berliner Zoo 1943]()
 
-_Die zerstörte Elefantenpagode mit Kadavern im Berliner Zoo nach einem Bombenangriff 1943._ 
+_Elefantenkadaver im Berliner Zoo nach einem Bombenangriff 1943 (AZGB)._ 
 
 Zu den verbliebenen Tiere gehörte der asiatische Elefantenbulle „Siam“. Als Wildfang von der britischen Kolonie Ceylon, dem heutigen Sri Lanka, nach Deutschland gebracht, war er eigentlich für den Zirkus Krone bestimmt. Als "Siam" dort jedoch  Verhaltensauffälligkeiten zeigte, sollte das „böse Tier“ [[material.böse Tiere]] wieder entfernt werden, so dass der Berliner Zoo ihn 1933 übernahm. „Siam“ war der Einzige von neun Elefanten im Berliner Zoo, der den Krieg überlebte.
 
-![Ein Artikel des Life-Magazine, der den letzten Elefanten im Berliner Zoo zeigte, 1945](images\mv\Berlins last elephant-Life Magazine Oct 15 1945 p 42.jpg) 
+![Ein Artikel des Life-Magazine, der den letzten Elefanten im Berliner Zoo zeigte, 1945]() 
 
 _Das 'Life Magazine' berichtet über den einzigen überlebenden Berliner Zoo-Elefant nach Kriegsende, Oktober 1945._
 
@@ -50,7 +50,7 @@ Nachdem der gröbste Schutt entfernt worden war, machte sich der Zoo daran, mög
 
 _Gemüse- und Salatanbau auf dem Gelände des Zoologischen Gartens Berlin, abgedruckt im Vorwärts, 18.04.1946._
 
-![Gemüse- und Salatanbau auf dem Gelände des Zoologischen Gartens Berlin 1946](images\mv\Landwirtschaft im Zoo-in-Vorwaerts 18-4-1946-Ausschnitt.jpg)  
+![Gemüse- und Salatanbau auf dem Gelände des Zoologischen Gartens Berlin 1946]()  
 
 _Über den Gemüse- und Salatanbau im Zoologischen Garten Berlin berichtet die illustrierte Zeitschrift 'Die Frau von heute', 07.05.1946._
 
