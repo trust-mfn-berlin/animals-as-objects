@@ -2,7 +2,7 @@
 id: c8af1959-fa09-44e7-9bff-b21971c68205
 title: Record Keeping
 desc: Put a description of this note here...
-updated: 1621583205737
+updated: 1621583317971
 created: 1620395501349
 title_de: Record Keeping MfN
 desc_de: Put a DE description of this note here...
@@ -31,7 +31,7 @@ Die aufgelisteten Tiere bot der Zoo dem Museum als Geschenk, Tausch- oder Kaufob
 
 Zwar wurden manchmal die Tierkörper erst zur Inspektion ins Museum geschickt, über die meisten Tiere wurde aber qua Liste entschieden. Wenn der Zoo mit dem Preisangebot des Museums einverstanden war– was häufig der Fall war –, brachte ein Wagen die Tierkadaver einzeln oder zu mehreren ins Museum, wo sie inventarisiert wurden. Lichtenstein übertrug die mitgelieferten Informationen über jedes Tier in Eingangsverzeichnissen ein und teilte jedem Gegenstand einen Taxwert zu, über den er dem Kultusministerium regelmäßig Bericht erstatten musste. Und im Zoo wurde der Erlös der verkauften Tiere zu den Aktiva der Zoo Aktiengesellschaft gezählt und seinem Kapitalvermögen angerechnet. Lehnte der Zoo einen Preisvorschlag des Museums hingegen ab, musste die Liste erneut hin und hergeschickt werden, bis man sich für oder gegen eine Übernahme entschied. Manche der heute im Archiv überlieferten Listen tragen sichtbare Spuren der Preisverhandlungen (Abb. Xxx). 
 
-![Handschriftliche Liste mit den Tieren, die 1914 bis 1915 vom Zoo-Aquariums an das Zoologische Museum geliefert wurden]()
+![Handschriftliche Liste mit den Tieren, die 1914 bis 1915 vom Zoo-Aquariums an das Zoologische Museum geliefert wurden](images\mv\VerzeichnisAquarium.jpg)
 
 _Verzeichnis der vom Zoo-Aquarium an das Zoologische Museum gelieferten Tiere von 1914/1915 (MfN, HBSB S III, Zoolog. Garten)._
 
@@ -40,7 +40,7 @@ In den Jahresabrechnungen sind dagegen Tiernamen und Werte akkurater eingetragen
 
 ![Handgeschriebene Rechnung des Zoologischen Gartens an das Zoologische Museum, 1892]
 
-(Caption: Abb. xxx: Die Jahresabrechnungen enthalten die Preise oder dem Vermerk „unbr[auchbar]“. MfN, HBSB, Zool. Mus. S III, Zoolog. Garten, I, Bl. 47.)
+_Die Jahresabrechnungen enthalten die Preise oder den Vermerk „unbr[auchbar]“ (MfN, HBSB, Zool. Mus. S III, Zoolog. Garten, I, Bl. 47.)._
 
 ## Im Museum. Verzeichnen… //Verzeichnen im Museum
 
