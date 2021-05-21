@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching 'Exotic' Animals
 desc: Put a description of this note here...
-updated: 1621593887575
+updated: 1621598333481
 created: 1618492547915
 title_de: Fang 'exotischer' Tiere
 desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen. Hinzu kamen von Zoos organisierte eigene Expeditionen und die Gelegenheitsgeschenke von Großwildjägern und Kolonialbeamten.
@@ -25,7 +25,10 @@ Auch Museumspräparate wurden entweder zunächst gefangen oder getötet. Wenn si
 
 ## Frühe Tierimporte
 
-Einheimische Tiere konnten von Jägern selbst gefangen oder aber von anderen gekauft und über kürzere Distanzen transportiert werden. Anders war das mit den Tieren, die in Europa als Exoten galten, also Tieren aus anderen Kontinenten und Klimazonen. Ihre Ausstellung in Europa ist eng mit der Entwicklung eines **Welthandels** verknüpft, die unter den Bedingungen europäischer Hegemonie und **europäischen Imperialismus** verlief. Seine Wurzeln gehen einige  Jahrhunderte zurück. Viele der ersten in Europa in den sogenannten Wandermenagerien oder den fürstlichen Menagerien ausgestellten Tiere waren 'Einzelfänge'. 'Exotische' Tiere wurden in den Herkunftsregionen von lokalen Herrschern als **Statussymbole** geschätzt und Europäern verkauft oder geschenkt.[^earlytrade1] Mehr dazu kann in der story zu Tieren oder Tierobjekten als Geschenke gelesen werden. [[story.Gifting Objects]
+Einheimische Tiere konnten von Jägern selbst gefangen oder aber von anderen gekauft und über kürzere Distanzen transportiert werden. Anders war das mit den Tieren, die in Europa als Exoten galten, also Tieren aus anderen Kontinenten und Klimazonen. Ihre Ausstellung in Europa ist eng mit der Entwicklung eines **Welthandels** verknüpft, die unter den Bedingungen europäischer Hegemonie und **europäischen Imperialismus** verlief. Seine Wurzeln gehen einige  Jahrhunderte zurück. Viele der ersten in Europa in den sogenannten Wandermenagerien oder den fürstlichen Menagerien ausgestellten Tiere waren 'Einzelfänge'. 'Exotische' Tiere wurden in den Herkunftsregionen von lokalen Herrschern als **Statussymbole** geschätzt und Europäern verkauft oder geschenkt.[^earlytrade1] Mehr dazu kann in der story zu Tieren oder Tierobjekten als Geschenke gelesen werden. [[story.Gifting Objects] Die beiden Elefantenbullen "Rostom" und "Omar" waren Geschenke des Prince of Wales und späteren König Edwar VII. für seinen Neffen Kaiser Wilhelm II. 1881 aus dem britisch beherrschten Indien.
+
+![Zwei Elefanten und drei Pfleger](images\cmw\Elefant_Omar.jpg)
+*Die beiden asiatischen Elefantenbullen "Rostom" und "Omar", um 1885. "Rostom" hatte untypischerweise keine Stoßzähne. (AZGB)*
 
 Auch **Matrosen, Kapitäne und reisende Händler brachten Gelegenheitskäufe** aus außereuropäischen Gebieten auf der Rückfahrt in die Häfen West- und Südeuropas mit und verkauften sie dort. Naturgemäß waren es eher kleine 'transportfähige' Tiere, die auf diese Weise ihren Weg nach Europa fanden. Papageien und Körner fressende Vögel, verschiedene Meerkatzenarten und Affenarten, kleinere Raubtiere und Säugetiere, die als Jungtiere gefangen und an Menschen gewöhnt worden waren, boten sich hier an. Es handelte sich um **Tiere, deren Pflege wenig anspruchsfoll war und in Teilzeit über Monate an Bord eines Schiffes geleistet werden konnte**. Das Spektrum der Arten war also zwangsläufig eingeschränkt und zumeist handelte es sich um Einzeltiere. [^earlytrade2]
 **Große Säugetiere blieben lange Zeit die Domäne der Staatsgeschenke**. Das wachsende Interesse führte  erst später zu organisiertem Fang. Zunächst waren die exotischsten Tiere oft noch 'Beifang' geografischer oder naturkundlicher Expeditionen. Nach und nach entwickelten sich Handelsagenturen, die mit Hilfe lokaler Agenten und Akteure Tiere auf Bestellung fingen oder Transporte begehrter Tiere zusammenstellten.
@@ -60,6 +63,8 @@ Carl Georg Schillings, selbst Jäger und Tierfänger, schilderte 1905 die Lage:
 - @clemens Zitat überprüfen.
 
 ## Die Großen Spieler - Hagenbeck, Ruhe und Co.
+
+>"Although some animals came to zoological parks through donations, trades, or loans, zoos could not have come into existence, and their collections could not have taken the shape that they did, without a commercial trade in wild animals that provided a reliable supply of polar bears in San Antonio, for example, prairie dogs in Philadelphia, or zebra in Denver. Without animal trade few zoos could have displayed more than deer and birds - they would never have become 'real' zoos with elephants."[^hanson]
 
 >"The international traffic in wild animals, perhaps the only area of colonial trade that was dominated by Germans, created an imprtant context for the emergence of Hagenbeck's ethnographic enterprise."[^hagenb1]
 
@@ -135,12 +140,9 @@ Aber insgesamt verlängerten sich nicht nur die Lebensdauern in Zoos, die gehalt
 
 Seit den 1960er Jahren sind zunehmend Züchtungen [[story.Breeding Animals for the Zoo]], also in Zoos gezeugte Nachkommen, an die Stelle der Wildfänge [Wildfang) getreten. Heute werden im Rahmen des Artenschutzes werden von Zoos in der Regel keine Individuen gefährdeter Arten mehr aus der Natur entnommen. Das Übereinkommen über den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen (Convention on International Trade in Endangered Species of Wild Fauna and Flora (kurz [[story.Cites]]) beendete letztlich den Fang von Tieren in ihren Lebensräumen für Zoos weitgehend.
 
-@mareike <!--deine Schildkröten aus den 1950ern?-->
+@mareike deine Schildkröten aus den 1950ern?
 
 ## Das Washingtoner Abkommen
-
-
-
 
 
 ____
@@ -185,3 +187,5 @@ ____
 [^heinr1]: Heinroth, Katharina. Mit Faltern begann’s. Mein Leben mit Tieren in Breslau, München und Berlin. München: Kindler, 1979: 203-212.
 
 [^klös1]: Klös, Heinz-Georg. Freundschaft mit Tieren: der Altdirektor des Zoologischen Gartens Berlin erzählt. Berlin: Edition Q, 1997: 167-178.
+
+[^hanson]: Hanson, Elizabeth. Animal attractions: nature on display in American zoos. Princeton, N.J: Princeton University Press, 2002: 71, 73.
