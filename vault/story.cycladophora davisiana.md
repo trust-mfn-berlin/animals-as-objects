@@ -2,7 +2,7 @@
 id: 6b86b681-8157-4bd4-acb1-167b98547122
 title: Cycladophora Davisiana
 desc: A radiolarian species first described in 1861, this microfossil has been used as an important tool in scientific research, and continues to help in the ongoing study of our planet and its deep history.
-updated: 1621590643869
+updated: 1621592169399
 created: 1620218024936
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -17,7 +17,7 @@ published: false
 
 _A screenshot from the digital radiolaria database radiolaria.org, describing and illustrating C. davisiana._ [^image1]
 
-Intro: [[material.radiolaria]], [[material.christian gottfried ehrenberg]], [[story.micropaleontology]], [[theme.microbial worlds]], [[material.microscopic preparations]], [[theme.planetary data]], [[material.planetary sciences]], [[story.oceanography]], [[material.NSB]]
+_Cycladophora davisiana_ is a species of [[material.radiolaria]], a group of unicellular microorganism widespread in the world's oceans whose body is supported by siliceous structures resembling shells, called tests. In particular, _C. davisiana_ is characteristic of high latitude waters (as the Latin name suggests, by recalling its original collection from the Davis strait, off the coast of Greenland). This species thrives in subglacial mesopelagic (of intermediate depth) waters, like the present-day Sea of Okhotsk, between the North of Japan and the Kamchatka peninsula [^image6]. The original specimen on which the first description, in 1862, was based is still preserved in the Museum fur Naturkunde's micropaleontology collection in Berlin. This particular species is tightly intertwined in the history of [[story.micropaleontology]], as it became an important tool in the complex apparatus of [[theme.planetary data]].
 
 ##Finding _Cycladophora_
 ![a map of the North Atlantic Ocean, marking the various surveys for the different telegraph lines](/images/filo/monatsberichtede18611knig_0293.jpg)
@@ -33,6 +33,8 @@ At the time, Professor Ehrenberg was one of the foremost expert in the world on 
 Also because of Haeckel's interpretation, radiolaria remained at the margins of natural sciences until the 1950s. But, when a young graduate student - [[material.william rex riedel]] - reassessed Haeckel's report on this neglected group, he realized the German naturalist had mixed together current radiolarians and more ancient ones. As the exploration of the ocean floor had rapidly developed during wartime, it was now possible to more clearly resolve the evolution of radiolarian species along the stratigraphic record. Thanks to Riedel, radiolarians had a front row sit to this return of [[story.micropaleontology at sea]]. As the study of microfossils grew closer to [[story.oceanography]], radiolarians revealed their potential for shedding light on the deep history and dynamics of our planet. Thanks to its distribution in glacial waters at high latitudes, _Cycladophora davisiana_ was going to have a particularly important role in these stories [[story.of microbes and planets]]. This is because [[material.foraminifera]], which had been used in [[material.biostratigraphy]] since the advent of [[story.industrial micropaleontology]] in the 1920s, are not as well preserved in high latitude sediments because of their carbonate biochemistry. Radiolarians, instead, thanks to their siliceous tests, are more widespread in these sediments, and better preserved. Furthermore, _Cycladophora_'s abundances have been shown to be tightly connected to glacial and interglacial variations in temperatures, thanks to their climatic preferences. For these reasons _Cycladophora davisiana_ quickly became an important stratigraphic tool, especially thanks to the success of [[material.JOIDES]] and [[material.deep sea drilling]], as they collected an ever-increasing number of oceanic sediment cores. This convergence of oceanographic exploration, sociotechnical changes, and geopolitical concerns brough this modest microorganism from the margins of scientific attention all the way to the spotlights: in 1976 a landmark paper published in _Science_ used abundances of _Cycladophora davisiana_ from two oceanic cores (along with oxygen isotope fractionation in foraminiferal shells) to demonstrate the hypothesized relation between ice-age cycles and planetary orbital dynamics [^image4]. As the fossil record of this microorganism continues to grow in accuracy and resolution, _Cycladophora davisiana_ continues its scientific afterlife as an important gear in the "vast machine" that subtends current climate sciences [^image5].
 
 [^image1]: from https://www.radiolaria.org/species.htm?division=13&sp_id=1.
+
+[^image6]: See Matul, Alexander. "The Recent and Quaternary Distribution of the Radiolarian Species Cycladophora davisiana: A Biostratigraphic and Paleoceanographic Tool." _Oceanology_ 51 (2011): 335-346. https://doi.org/10.1134/S0001437011020111. 
 
 [^image2]: Published in Ehrenberg, Christian Gottfried. "Übersicht die Tiefgrund-Verhältnisse des Oceans am Eingange der Davisstrasse und bei Island." _Monatsberichte der Königlichen Preussische Akademie des Wissenschaften zu Berlin_. (1862): 275–315. Retrieved from the BHL digital collection at https://www.biodiversitylibrary.org/item/111883#page/293/mode/1up.
 
