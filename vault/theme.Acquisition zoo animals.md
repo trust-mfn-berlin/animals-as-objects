@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: How animals get into the zoo?
 desc: The various sources of animal objects for museums and zoos.
-updated: 1621613971970
+updated: 1621614227609
 created: 1618498026144
 title_de: Wie gelangen Tiere in den Zoo?
 desc_de: Lebende Tiere für die Sammlungen des Zoologischen Gartens, Aquariums und Tierparks Berlin kamen und kommen aus unterschiedlichen Quellen. Diese haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen für diese Einrichtungen - politische, logistische und moralische.
@@ -92,7 +92,7 @@ Ihre Anziehungskraft beruht darauf, dass sie uns ähnlich, riesig, gefährlich, 
 
 Letztlich scheint es, als seien Zoos - darunter auch der Berliner Zoo, sein Aquarium und auch der Tierpark was die Quellen ihrer gehaltenen Tierarten aber auch einzelner Tiere angeht vor allem lange Zeit ihres Bestehens Pragmatiker gewesen. Tiere zu 'haben' und diese den Besucher\*innen zugänglich zu machen war ein wesentliches Ziel. Im Ost-Berliner Tierpark stand eine riesigen Fläche von mehr als 100 Hektar zur Verfügung, die mit Tiergehegen oder größeren Herden gefüllt werden sollte und der West-Berliner Zoo bemühte sich, seinen Ruf als artenreichster Zoo der Welt zu behaupten. Letzteres hing in der von Subventionen aus der Bundesrepublik abhängigen Stadt auch damit zusammen, dass alles in West-Berlin letztlich einem Legitimationszwang unterlag. Der artenreichste Zoo der Welt war ein Tourismusmagnet in der 'Frontstadt' des Kalten Kriegs.
 
-Seit einigen Jahren lassen sich neue Tendenzen wahrnehmen, die international und auch in der Bundesrepublik und Berlin Tiergärten verändern. Stärker als bislang treten strategische Überlegungen an die Stelle des Pragmatismus. Wachsende Kritik der Haltungsbedingungen in Zoos und Fragen nach der zukünftigen Rolle von Zoos in naturkundlicher Bildung und Artenschutz ex situ (also in den Zoos durch Zucht) und in situ (in den ursprünglichen Lebensräumen der Tiere) haben zu einer Umkehr von der 'pragmatischen Sammelleidenschaft' früherer Zoodirektoren geführt. Allenthalben sehen Beobachter\*innen nun eine zahlenmäßige Verkleinerung der gehaltenen Tierarten zugunsten größerer Gehege und die Konzentration auf sogenannte Flaggschiffarten - also "gefährdete Tierarten mit einem hohen Schauwert, über deren Schutz man gleichzeitig den Schutz vieler anderer Tierarten erreicht, die den Lebensraum mit ihnen teilen."[^flagship] Solch eine Strategie entspricht der 2015 vom Weltverband der Zoos udn Aquarien verabschiedeten "Conservation Strategy".[^waza]
+Seit einigen Jahren lassen sich neue Tendenzen wahrnehmen, die international und auch in der Bundesrepublik und Berlin Tiergärten verändern. Stärker als bislang treten strategische Überlegungen an die Stelle des Pragmatismus. Wachsende Kritik der Haltungsbedingungen in Zoos und Fragen nach der zukünftigen Rolle von Zoos in naturkundlicher Bildung und Artenschutz ex situ (also in den Zoos durch Zucht) und in situ (in den ursprünglichen Lebensräumen der Tiere) haben zu einer Umkehr von der 'pragmatischen Sammelleidenschaft' früherer Zoodirektoren geführt. Allenthalben sehen Beobachter\*innen nun eine zahlenmäßige Verkleinerung der gehaltenen Tierarten zugunsten größerer Gehege und die Konzentration auf sogenannte Flaggschiffarten - also "gefährdete Tierarten mit einem hohen Schauwert, über deren Schutz man gleichzeitig den Schutz vieler anderer Tierarten erreicht, die den Lebensraum mit ihnen teilen."[^flagship] Solch eine Strategie entspricht der 2015 vom Weltverband der Zoos udn Aquarien verabschiedeten "Conservation Strategy".[^waza] Ob das eine wirksame Neuausrichtung der Zoos bedingen kann, ist umstritten.[^apuz] Denn ganz hat der Pragmatismus noch keinen Zoo verlassen: Zuchtprogramme bleiben weiterhin wichtig, um die 'Lieblinge' der nach wie vor zahlreichen Besucher\*innen in den Zoos zu erhalten. Vielleicht erwirtschaften diese ja die Einnahmen zur Erzielung neuer strategischer Ziele?
 
 
 ----
@@ -120,5 +120,4 @@ Seit einigen Jahren lassen sich neue Tendenzen wahrnehmen, die international und
 
 [^waza]: Grajal, Alejandro, Jerry F. Luebke, und Lisa-Anne DeGregoria Kelly. „Why Zoos Have Animals: Exploring the Complex Pathway from Experiencing Animals to Pro-environmental Behaviors“. In The ark and beyond: the evolution of zoo and aquarium conservation, herausgegeben von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb, 192–203. Convening science: discovery at the marine biological laboratory. Chicago: The University of Chicago Press, 2018.
 
-Vgl. Niekisch, Manfred, und Volker Sommer. „Artenschutz durch Zoos. Zwei Perspektiven“. Aus Politik und Zeitgeschichte 71, Nr. 9 (2021): 31–38.
-
+[^apuz]: Vgl. Niekisch, Manfred, und Volker Sommer. „Artenschutz durch Zoos. Zwei Perspektiven“. Aus Politik und Zeitgeschichte 71, Nr. 9 (2021): 31–38.
