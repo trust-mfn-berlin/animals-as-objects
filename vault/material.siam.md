@@ -2,7 +2,7 @@
 id: 47ccdab9-37bd-4bc0-97ee-e342b66299f4
 title: Siam
 desc: Put a description of this note here...
-updated: 1621577019617
+updated: 1621577217277
 created: 1621324111928
 title_de: Stationen eines Elefanten
 desc_de: Put a DE description of this note here...
@@ -30,7 +30,13 @@ In einem Zeitungsartikel von 1947, gefunden im Archiv des Zoologischen Gartens B
 
 Eine der Spuren führt zurück in die Sammlungen des Berliner Naturkundemuseums, das den Schädel für die wissenschaftliche Sammlung und ein Stück Rückgrat für seine Schausammlung erhalten sollte, wie es in besagtem Zeitungsartikel heißt.[^siam1] Ein privater Präparator namens Kriegerowski wiederum, der regelmäßig Tiere vom Zoo übernahm, fertigte aus den Füßen des Dickhäuters Papierkörbe mit Staniolpapier, wie weiter zu lesen ist.[^siam2] Hier verliert sich die Spur. Was in private Hände gelangte, ist selten oder zumindest seltener wieder auffindbar als das, was in öffentlichen Sammlungen lagert. Wobei sich auch die Suche im Museum für Naturkunde Berlin als schwierig herausgestellt hat. Mein Kollege und ich haben in der Säugetiersammlung viele Kisten, Schränke und Regale nach dem Schädel durchsucht, bislang ohne Erfolg.[^siam3]
 
-![Elefantenknochen in der Säugetiersammlung des MfN, 2020]() 
+![Elefantenknochen in der Säugetiersammlung des MfN, 2020](images\mv\Saeugetiersammlung.jpg) 
+
+![Elefantenknochen in der Säugetiersammlung des MfN, 2020]()
+
+![Elefantenknochen in der Säugetiersammlung des MfN, 2020]
+
+![Elefantenknochen in der Säugetiersammlung des MfN, 2020]
 
 _Suche in der Säugetiersammlung des Museums für Naturkunde Berlin, November 2020 (Foto: Mareike Vennen)._
 
