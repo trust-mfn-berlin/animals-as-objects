@@ -2,7 +2,7 @@
 id: 690683a5-6845-4c80-bb3b-5771881bdca6
 title: Species360
 desc: Put a description of this note here...
-updated: 1620997128237
+updated: 1621616972389
 created: 1620987484846
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -18,8 +18,6 @@ published: false
 
 
 :::DE:::
-
-#German title (DE)
 
 ![Logo der Website species360](images\cmw\species360.JPG)
 

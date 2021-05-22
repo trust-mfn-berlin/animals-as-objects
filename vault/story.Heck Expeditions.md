@@ -2,7 +2,7 @@
 id: 6526be8c-01f6-4c05-a41d-fae91b634ced
 title: Lutz Heck's Catching Expeditions
 desc: Put a description of this note here...
-updated: 1621611533353
+updated: 1621615437251
 created: 1619426293502
 title_de: Tierfangexpeditionen von Lutz Heck
 desc_de: Der spätere Zoodirektor Lutz Heck unternahm in den 1920er und 1930er Jahren Tierfang-Expeditionen für den Zoologischen Garten in Ostafrika und Kanada. Bei ersteren verknüpfte er das Ziel des Tierfangs mit kolonialromantischer Propaganda und nutzte die Expeditionen als Werbung für den Zoo und die eigene Person.
@@ -54,6 +54,8 @@ Vom Erfolg seiner ersten Reise inspiriert, plante Lutz Heck bereits zwei jahre s
 
 ![desc](images/cmw/nashorn1904.PNG)
 _Illustration aus einer Zeitschrift, 1904. (AZGB)_
+
+@clemens
 
 Allerdings musste der Zoo, vertreten durch seinen Kaufmännischen Direktor Clemens Freyer, mit einem wirtschaftlichen Verlust in dem Geschäftsjahr rechnen. Freyer trug die Angelegenheit an den Aufsichtsrat heran. Die von Lutz Heck kalkulierte Summe war sehr hoch für einige Tiere, die zumal im handel zu kriegen waren.Allein der Rücktransport konnte wohl leicht 40 000 Reichsmark kosten und ein "Menschentransport und andere Unkosten" standen ja auch zur Diskussion.[^exp3]  Was war hiermit gemeint? Eine Durchsicht der Korrespondenz zu dieser Expedition zeigt, dass Lutz Heck plante, eine eigenen 'Völkerschau' mit Menschen, die er zusammen mit den zu fangenden Tieren nach Berlin bringen wollte. Freyer schlug angesichts der hohen Kosten vor, sich "lediglich auf eine Forschungs- und Expeditionsreise" zu beschränken.  Und in der Tat, nur vier Tage später konnte er dem Aufsichtsrat mitteilen, dass man mit den Hecks übereingekommen sei, eine "Fangreise" "ohne die Veranstaltung einer besonderen Menschenschau" zu veranstalten. Dieses würde das Risiko deutlich mindern, da nur noch die Tiere transportiert würden. Außerdem hoffte man, die Kosten durch einen gesonderten Eintritt für eine Sonderschau der gefangenen Tiere zu mindern. Diese würden dann zu den Aktiva der Zoo Aktiengesellschaft gezählt werden können.
 

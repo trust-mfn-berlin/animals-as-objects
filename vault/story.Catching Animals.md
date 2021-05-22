@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching 'Exotic' Animals
 desc: Put a description of this note here...
-updated: 1621614870957
+updated: 1621615152730
 created: 1618492547915
 title_de: Fang 'exotischer' Tiere
 desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen. Hinzu kamen von Zoos organisierte eigene Expeditionen und die Gelegenheitsgeschenke von Großwildjägern und Kolonialbeamten.
@@ -18,6 +18,8 @@ published: false
 English content goes here.
 
 :::DE:::
+
+**Clemens Maier-Wolthausen**
 
 Für den **größten Teil** der etwas mehr als **250 Jahre**, in denen moderne Zoos existieren, wurden **Tiere in allen Zoos weltweit vor allem direkt aus der Wildbahn entnommen**. Das bedeutete, sie wurden in den Habitaten in denen sie geboren, oder in die sie migriert waren, durch Jäger gefangen, um dann ausgestellt zu werden.
 **Die Jäger waren lokale Amateure oder Profis  oder aber auch speziell ausgesandte Jäger, die entweder von einer Firma bezahlt wurden oder auf eigene Rechnung die Tiere fingen und sie dann anboten.**
