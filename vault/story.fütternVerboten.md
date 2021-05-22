@@ -2,7 +2,7 @@
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 title: fütternVerboten
 desc: Put a description of this note here...
-updated: 1621701957246
+updated: 1621702850716
 created: 1620752897039
 title_de: Füttern Verboten
 desc_de: Put a DE description of this note here...
@@ -24,7 +24,7 @@ published: false
 
 Auf den Tod des Elefanten „Jambo“, der 1960 im Zoo Berlin eingeschläfert werden musste, nachdem er durch Besucher\*innen übermäßig gefüttert worden und erkrankt war, folgte eine erhitzte Diskussion über den richtigen Umgang mit Tieren in Gefangenschaft im Allgemein und ein Fütterungsverbot im Speziellen. Tatsächlich leitete „Jambos“ Tod am 10. April 1960 ein generelles Fütterungsverbot für alle Tiere im Berliner Zoo ein.
 
-![Zeitungsartikel mit Elefantenfoto, der "mich nicht füttern" auf die Stirn geschrieben hat]
+![Zeitungsartikel mit Elefantenfoto, der "mich nicht füttern" auf die Stirn geschrieben hat]()
 
 _Tagesspiegel-Artikel zum Fütterungsverbot im Berliner Zoo anlässlich der fütterungsbedingten Erkrankung von „Jambo“, 31.03.1960._
 
