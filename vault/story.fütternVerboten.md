@@ -2,7 +2,7 @@
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 title: fütternVerboten
 desc: Put a description of this note here...
-updated: 1621702850716
+updated: 1621703046995
 created: 1620752897039
 title_de: Füttern Verboten
 desc_de: Put a DE description of this note here...
@@ -24,9 +24,9 @@ published: false
 
 Auf den Tod des Elefanten „Jambo“, der 1960 im Zoo Berlin eingeschläfert werden musste, nachdem er durch Besucher\*innen übermäßig gefüttert worden und erkrankt war, folgte eine erhitzte Diskussion über den richtigen Umgang mit Tieren in Gefangenschaft im Allgemein und ein Fütterungsverbot im Speziellen. Tatsächlich leitete „Jambos“ Tod am 10. April 1960 ein generelles Fütterungsverbot für alle Tiere im Berliner Zoo ein.
 
-![Zeitungsartikel mit Elefantenfoto, der "mich nicht füttern" auf die Stirn geschrieben hat]()
+![Zeitungsartikel mit Elefantenfoto, der "mich nicht füttern" auf die Stirn geschrieben hat](images\mv\JamboFuetternVerboten.jpg)
 
-_Tagesspiegel-Artikel zum Fütterungsverbot im Berliner Zoo anlässlich der fütterungsbedingten Erkrankung von „Jambo“, 31.03.1960._
+_'Tagesspiegel'-Artikel zum Fütterungsverbot im Berliner Zoo anlässlich der Erkrankung von „Jambo“, 31.03.1960._
 
 Der Tod des Elefanten war nicht der erste Fall [[story.überfüttern]]. Diskussionen um Fütterungsrechte oder -verbote begleiten die Zoologischen Gärten innerhalb und außerhalb Deutschland seit dem im 19. Jahrhundert. Die Zooführer luden die Besucher\*innen zum eigenen Füttern ein, allerdings schon damals mit Einschränkungen. Im Hamburger Zoologischen Garten wurden die Besucher\*innen bereits 1879 „ergebenst und dringend ersucht, nur diejenigen Thiere zu füttern, deren Namen auf den Anschlagtafeln bekannt gemacht sind“.[^FütternVerboten1] Mahnungen an den Käfigen bezüglich des Fütterungsverbots werden auch im Zooführer des Tiergartens Schönbrunn schon 1912 erwähnt und in Nürnberg hatte die Zoodirektion bereits bei der Gründung 1912 das Mitbringen von Nahrungsmitteln verboten.[^Mitbringen1] Besonders empfindliche Tierarten wie die Menschenaffen, Raubtiere und Seelöwen durften nicht gefüttert werden. Auch darüber, _was_ gefüttert werde durfte, machten die Zoowegweiser und im Garten aufgestellte Schilder Vorgaben. Elefanten, neben den Affen besonders beliebt bei den Besucher\*innen durften in Berlin xxxx mit Brot, Möhren, Apfelsinen, Bananen und Zitronen gefüttert werden. AFFENß
 
@@ -42,7 +42,7 @@ Nicht nur steigende Besuchszahlen wurden hier ins Feld geführt. Es ging um eine
 
 Auf das Verbot wiesen die Zoo-Wegweiser von nun an gleich am Anfang in der „Gartenordnung“ oder in der einleitenden Ansprache „An unsere Besucher“ hin. Außerdem waren Schilder an den Gehegen angebracht. Elefant „Jambo“ stand die Warnung vor seiner Erkrankung sogar buchstäblich auf die Stirn geschrieben. 
 
-![Zeitungsseite mit abgebildeten Fütterungsverbotsschildern in zoologischen Gärten, 1960]
+![Zeitungsseite mit abgebildeten Fütterungsverbotsschildern in zoologischen Gärten, 1960](images\mv\ZeitungVerbotsschilder.jpg)
 
 _Verbotsschilder in zoologischen Gärten, abgedruckt im 8-Uhr-Blatt, 13.4.1960._
 
@@ -53,9 +53,11 @@ _Kamelanlage im Berliner Zoo mit Verbotsschild. (AZGB)_
 
 ![Fütterungsverbotschild im Zoologischen Garten Berlin]
 
+![Verbotsschild am Elefantengehege](images\mv\FuetternVerbotenSchild.jpg)
+
 _Fütterungsverbotschild im Zoologischen Garten Berlin. (AZGB)_
 
- Damit das Fütterungsverbot eingehalten wurde, stellte man in Frankfurter überall im Zoo mehrsprachige Tafeln auf: „Füttern 25,- DM und Gartenverbot“. Im Ostberliner Tierpark drohte ebenfalls eine Geldstrafe. Trotzdem wurde das Verbot gerade in der ersten Zeit immer wieder missachtet. Das Fütterungsverbot offenbart einen Interessenkonflikt zwischen artgerechter Tierhaltung, Bildungsanspruch und dem Bedürfnis nach Unterhaltung und einem unmittelbaren Kontakt zu/mit den Tieren. Für den Zoo stand das Tierwohl auf dem Spiel und nicht zuletzt auch um ökonomische Fragen - der Verlust der Elefantenkuh „Jambo“ kam den Zoo teuer zu stehen, da sie 25 000 Mark wert war. der Stuttgarter Zoo hatte dem _Tagesspiegel_ zufolge ausgerechnet, dass er seit Einführung eines Fütterungsverbots ein Drittel der Arzneimittelkosten einsparte.[^Überfüttern2] 
+Damit das Fütterungsverbot eingehalten wurde, stellte man in Frankfurter überall im Zoo mehrsprachige Tafeln auf: „Füttern 25,- DM und Gartenverbot“. Im Ostberliner Tierpark drohte ebenfalls eine Geldstrafe. Trotzdem wurde das Verbot gerade in der ersten Zeit immer wieder missachtet. Das Fütterungsverbot offenbart einen Interessenkonflikt zwischen artgerechter Tierhaltung, Bildungsanspruch und dem Bedürfnis nach Unterhaltung und einem unmittelbaren Kontakt zu/mit den Tieren. Für den Zoo stand das Tierwohl auf dem Spiel und nicht zuletzt auch um ökonomische Fragen - der Verlust der Elefantenkuh „Jambo“ kam den Zoo teuer zu stehen, da sie 25 000 Mark wert war. der Stuttgarter Zoo hatte dem _Tagesspiegel_ zufolge ausgerechnet, dass er seit Einführung eines Fütterungsverbots ein Drittel der Arzneimittelkosten einsparte.[^Überfüttern2] 
 [^Überfüttern2]: „Füttern im Zoo von heute an verboten“, in: Tagesspiegel, 31.3.1960.
 Für die Zoogäste veränderte sich mit dem Verbot wiederum das Verhältnis zum Tier. Unzählige Mahnungen und Verweise musste auch der Berliner Zoo aussprechen, so groß war die Zahl von Besucher\*innen, die die Tiere trotz Verbot weiter fütterten. Die Debatte drehte sich vor allem um Emotionen, denn in der Fütterungsfrage kristallisierte sich damals wie bei kaum einem anderen Thema um die Frage nach der „Tierliebe“. 
 
