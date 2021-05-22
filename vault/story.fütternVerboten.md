@@ -2,7 +2,7 @@
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 title: fütternVerboten
 desc: Put a description of this note here...
-updated: 1621549925801
+updated: 1621673212749
 created: 1620752897039
 title_de: Füttern Verboten
 desc_de: Put a DE description of this note here...
@@ -18,6 +18,10 @@ published: false
 
 
 :::DE:::
+
+
+* In der darauf folgenden Debatte ging es um das Tierwohl ebenso wie um ökonomische Fragen – Elefantenkuh „Jambo“ war 25 000 Mark wert; der Stuttgarter Zoo hatte dem _Tagesspiegel_ zufolge ausgerechnet, dass er seit Einführung eines Fütterungsverbots ein Drittel der Arzneimittelkosten einsparte.[^Überfüttern2] 
+[^Überfüttern2]: „Füttern im Zoo von heute an verboten“, in: Tagesspiegel, 31.3.1960.
 
 ## Füttern verboten!
 
