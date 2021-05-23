@@ -2,7 +2,7 @@
 id: d54394f6-1188-4ec3-b590-da329e657560
 title: Futternot
 desc: Put a description of this note here...
-updated: 1621606747903
+updated: 1621795620479
 created: 1621497485660
 title_de: Futternot
 desc_de: Put a DE description of this note here...
@@ -17,13 +17,16 @@ published: false
 
 
 
-## Futternot (oder lieber: Futtermangel?)
+## Futternot 
 
 ![Gedicht eines Zoobesuchers über die Wintersnot im Zoo, 1948](images\mv\Wintersnot.jpg) 
 
 _Gedicht des Zoobesuchers K. Ferber über die Wintersnot im Zoo, 06.10.1948 (AZGB)._
 
-Am Ende des Zweiten Weltkriegs zählte der Berliner Zoologische Garten gerade noch 81 Tiere. 1938 waren es über 3000 gewesen und 1944 immerhin noch 1700.[^Futternot1] Im Mai 1945 war das Gelände des Gartens, darunter auch die Elefantenpagode, zu großen Teilen zerstört.
+
+
+
+Am Ende des Zweiten Weltkriegs zählte der Berliner Zoologische Garten nur noch rund 80 Tiere. 1938 waren es über 3000 gewesen und 1944 immerhin 1700.[^Futternot1] Im Mai 1945 war das Gelände des Gartens, darunter auch die Elefantenpagode, zu großen Teilen zerstört.
 
 ![Elefantenkadaver im Berliner Zoo 1943](images\mv\Elefantenkadaver.jpg)
 
@@ -35,9 +38,9 @@ Zu den wenigen verbliebenen Tiere gehörte der asiatische Elefantenbulle „Siam
 
 _Das 'Life Magazine' berichtet über den einzigen überlebenden Berliner Zoo-Elefant nach Kriegsende, Oktober 1945._
 
-Im Zoo fehlte es damals an allem, vom Futter über Brennholz bis zu Baumaterialien. Die Zoologin Katharina Heinroth [[Katharina Heinroth]], die am 3. August 1945 die Leitung des großenteils zerstörten Zoologischen Gartens übernahm, hatte größte Mühe mit ihren wenigen Mitarbeiter\*innen und nahezu ohne finanzielle Mittel die verbliebenen Tiere durchzubringen. Obwohl der russische Kommandant (der Zoo lag zuerst in der russischen Zone) einen Schein für Futtermittel ausstellte, so dass einstweilen wieder Fleisch für die Raubtiere sowie Heu, Hafer und Kartoffeln gekauft werden konnten [^Futternot2], war die Situation angespannt. Die Beschaffung von Futter blieb die kommenden Jahre ein brennendes Thema: „[D]ie Futtermittelnot ist furchtbar, am meisten fehlen Kartoffeln, Rüben, Heu und Stroh. [...] Wir haben seit 4 Monaten keine Kartoffeln für den Betrieb bekommen“ [^Futternot3], schreibt Katharina Heinroth ein knappes Jahr später über die Ernährungslage im Zoo. Wie sollte man da einen Elefanten ernähren? 
+Im Zoo fehlte es damals an allem, vom Futter über Brennholz bis zu Baumaterialien. Die Zoologin Katharina Heinroth [[Katharina Heinroth]], die am 3. August 1945 die Leitung des größtenteils zerstörten Zoologischen Gartens übernahm, hatte größte Mühe mit ihren wenigen Mitarbeiter\*innen und nahezu ohne finanzielle Mittel die verbliebenen Tiere durchzubringen. Obwohl der russische Kommandant (Berlin war damals durch sowjetische Truppen besetzt und verwaltet) eine Genehmigung für den Erwerb von Futtermitteln ausstellte, so dass einstweilen wieder Fleisch für die Raubtiere sowie Heu, Hafer und Kartoffeln gekauft werden konnten [^Futternot2], war die Situation angespannt. Die Beschaffung von Futter blieb die kommenden Jahre ein brennendes Thema: „[D]ie Futtermittelnot ist furchtbar, am meisten fehlen Kartoffeln, Rüben, Heu und Stroh. [...] Wir haben seit 4 Monaten keine Kartoffeln für den Betrieb bekommen“ [^Futternot3], schreibt Katharina Heinroth ein knappes Jahr später über die Ernährungslage im Zoo. Wie sollte man da einen Elefanten ernähren? 
 
-Nachdem der gröbste Schutt entfernt worden war, machte sich der Zoo daran, möglichst viel Nahrung selbst zu produzieren. Eigentlich sollte der Zoo bei Wiedereröffnung im Juli 1945 einen Ort der Erholung und des Vergnügens jenseits des Nachkriegsalltags bieten. „Ich träumte dabei auch von schönen Blumenbeeten in den Alleen“, sagt Katharina Heinroth in einem Interview, „aber es kommt anders. Jede freie Ecke muß mit Gemüse bepflanzt werden. Die Freigehege werden unter unsere Angestellten für den eigenen Bedarf aufgeteilt“[^Futternot4]. Ausser der Gärtnerei, die bereits voll bestellt war, sollten nun "alle durch den Kampf im Zoo entstandenen Freiflächen mit Futtermitteln bebaut werden“[^Futternot5]. Das Hirschgehege wurde zum Gemüsegarten, auf den freien Rasenflächen wuchsen schon bald Rüben, Kartoffeln und Salat [^Futternot6], kurz: Der Zoo wurde beackert. 
+Nachdem der gröbste Schutt entfernt worden war, machte sich der Zoo daran, möglichst viel Nahrung selbst zu produzieren. Eigentlich sollte der Zoo bei Wiedereröffnung im Juli 1945 einen Ort der Erholung und des Vergnügens jenseits des Nachkriegsalltags bieten. „Ich träumte dabei auch von schönen Blumenbeeten in den Alleen“, sagt Katharina Heinroth in einem Interview, „aber es kommt anders. Jede freie Ecke muß mit Gemüse bepflanzt werden. Die leeren Freigehege werden unter unsere Angestellten für den eigenen Bedarf aufgeteilt“[^Futternot4]. Ausser der Gärtnerei, die bereits voll bestellt war, sollten nun "alle durch den Kampf im Zoo entstandenen Freiflächen mit Futtermitteln bebaut werden“[^Futternot5]. Das Hirschgehege wurde zum Gemüsegarten, auf den freien Rasenflächen wuchsen schon bald Rüben, Kartoffeln und Salat [^Futternot6], kurz: Der Zoo wurde beackert. 
 
 ![Pferdeflug dem Gelände des Zoologischen Gartens Berlin 1946](images\mv\LandwirtschaftZoo.jpg) 
 
@@ -101,7 +104,9 @@ Anfang der 1950er Jahre normalisierte sich Stück für Stück die Situation in B
 
 [^Futternot3]: Katharina Heinroth an Paula, 01.03.1946, AZGB N 4/12.
 [^Futternot4]: „Siam erhält Stubenarrest. Wintervorbereitungen im Zoo.“ _Das Volk_, 04.11.1945. Die Umnutzung von Freiflächen zum Anbau von Gemüse und Kartoffeln war, wie man sich vorstellen kann, weit verbreitet. Auch der Garten des Museums für Naturkunde war bis 1949 für den Gemüseanbau für die Mitarbeiter reserviert.
-[^Futternot5]: Tätigkeitsbericht des Zoologischen Gartens vom 3.5. bis 23.5.1945, AZGB O 0/1/75.
+
+[^Futternot5]: Tätigkeitsbericht des Zoologischen Gartens vom 3.5. bis 23.5.1945, AZGB O 0/1/75. Als Folgen des Krieges waren ein Großteil der Tiere tot und große Teile der Bebauung im Zoo zerstört, weshalb nach der Enttrümmerung viele Freiflächen entstanden.
+
 [^Futternot6]: Katharina Heinroth an Liselotte Rüppell, o.D. [vermutlich April/Mai 1946], AZGB N 4/12.
 [^Futternot7]: „Die meisten Rasenflächen werden mit Rüben und Futtermitteln bestellt werden, die Futtermittelnot ist furchtbar.“ Katharina Heinroth an Paula, 01.03.1946, AZGB N 4/12 I. Vgl. auch Katharina Heinroth an Liselotte Rüppell, o.D. [vermutlich April/Mai 1946], AZGB N 4/12. "Ein Teil der Gefolgschaft nutzt die freien Gehege als Schrebergärten.” Tätigkeitsbericht von Katharina Heinroth, 18.09.1945, AZGB N 4/2. 
 [^Futternot8]: Geschäftsbericht vom 01.04.-31.12.1949, AZGB N/4/2.
