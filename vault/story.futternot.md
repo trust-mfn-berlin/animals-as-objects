@@ -2,7 +2,7 @@
 id: d54394f6-1188-4ec3-b590-da329e657560
 title: Futternot
 desc: Put a description of this note here...
-updated: 1621858156106
+updated: 1621886637698
 created: 1621497485660
 title_de: Futternot
 desc_de: Put a DE description of this note here...
@@ -104,50 +104,63 @@ Anfang der 1950er Jahre normalisierte sich Stück für Stück die Situation in B
 
 ## Fußnoten
 
-[^Futternot1]: Im Jahr 1938 waren es 3715 Tiere; 1944 waren es noch 1700 Tiere. Vgl. Halbjahresbericht für Aufsichtsratssitzung am 10.08.1955, AZGB N 4/2. 
+[^Futternot1]: Im Jahr 1938 waren es 3715 Tiere; 1944 waren es noch 1700 Tiere. Vgl. Halbjahresbericht für Aufsichtsratssitzung vom 10.08.1955, AZGB N 4/2. 
 
-[^Futternot2]: Tätigkeitsbericht des Zoologischen Gartens vom 3.5. bis 23.5.1945, AZGB O 0/1/75.  
+[^Futternot2]: Tätigkeitsbericht des Zoologischen Gartens vom 03.05. bis 23.05.1945, AZGB O 0/1/75.  
 
-[^Futternot3]: Katharina Heinroth an Paula, 01.03.1946, AZGB N 4/12.
+[^Futternot3]: K. Heinroth an Paula, 01.03.1946, AZGB N 4/12.
+
 [^Futternot4]: „Siam erhält Stubenarrest. Wintervorbereitungen im Zoo.“ _Das Volk_, 04.11.1945. Die Umnutzung von Freiflächen zum Anbau von Gemüse und Kartoffeln war, wie man sich vorstellen kann, weit verbreitet. Auch der Garten des Museums für Naturkunde war bis 1949 für den Gemüseanbau für die Mitarbeiter reserviert.
 
-[^Futternot5]: Tätigkeitsbericht des Zoologischen Gartens vom 3.5. bis 23.5.1945, AZGB O 0/1/75. Als Folgen des Krieges waren ein Großteil der Tiere tot und große Teile der Bebauung im Zoo zerstört, weshalb nach der Enttrümmerung viele Freiflächen entstanden.
+[^Futternot5]: Tätigkeitsbericht des Zoologischen Gartens vom 03.05. bis 23.05.1945, AZGB O 0/1/75. Als Folgen des Krieges waren ein Großteil der Tiere tot und große Teile der Bebauung im Zoo zerstört, weshalb nach der Enttrümmerung viele Freiflächen entstanden.
 
-[^Futternot6]: Katharina Heinroth an Liselotte Rüppell, o.D. [vermutlich April/Mai 1946], AZGB N 4/12.
-[^Futternot7]: „Die meisten Rasenflächen werden mit Rüben und Futtermitteln bestellt werden, die Futtermittelnot ist furchtbar.“ Katharina Heinroth an Paula, 01.03.1946, AZGB N 4/12 I. Vgl. auch Katharina Heinroth an Liselotte Rüppell, o.D. [vermutlich April/Mai 1946], AZGB N 4/12. "Ein Teil der Gefolgschaft nutzt die freien Gehege als Schrebergärten.” Tätigkeitsbericht von Katharina Heinroth, 18.09.1945, AZGB N 4/2. 
+[^Futternot6]: K. Heinroth an L. Rüppell, o.D. [vermutlich April/Mai 1946], AZGB N 4/12.
+
+[^Futternot7]: „Die meisten Rasenflächen werden mit Rüben und Futtermitteln bestellt werden, die Futtermittelnot ist furchtbar.“ K. Heinroth an Paula, 01.03.1946, AZGB N 4/12 I. Vgl. auch K. Heinroth an L. Rüppell, o.D. [vermutlich April/Mai 1946], AZGB N 4/12. "Ein Teil der Gefolgschaft nutzt die freien Gehege als Schrebergärten." Tätigkeitsbericht von Katharina Heinroth, 18.09.1945, AZGB N 4/2. 
+
 [^Futternot8]: Geschäftsbericht vom 01.04.-31.12.1949, AZGB N/4/2.
-[^Futternot9]: Katharina Heinroth an Herrn Chudy, 17.07.1948, AZGB O 0/1/60.
 
-[^Futternot10]: Katharina Heinroth an Werner Börner, 19.07.1947, AZGB O 1/2/37. Zur Futtermittelknappheit und der Tatsache, dass keine neue Tiere erworben werden konnten, trugen nicht zuletzt die finanziellen Probleme des Zoos bei; seit dem Zusammenbruch des Finanzsystems befanden sich seine Konten bei Banken im Ostteil der Stadt; außerdem konnte der Zoo zunächst wenig Einnahmen verzeichnen.
+[^Futternot9]: K. Heinroth an Herrn Chudy, 17.07.1948, AZGB O 0/1/60.
+
+[^Futternot10]: K. Heinroth an W. Börner, 19.07.1947, AZGB O 1/2/37. Zur Futtermittelknappheit und der Tatsache, dass keine neuen Tiere erworben werden konnten, trugen nicht zuletzt die finanziellen Probleme des Zoos bei; seit dem Zusammenbruch des Finanzsystems befanden sich seine Konten bei Banken im Ostteil der Stadt; außerdem konnte der Zoo zunächst wenig Einnahmen verzeichnen.
 
 [^Futternot11]: "Sorgen im Berliner Zoo." _Neue Zeit_, 18.09.1948.
+
 [^Futternot12]: "Der Zoo braucht dringend Hilfe" _Die Neue Zeitung_[München], 07.04.1949.
+
 [^Futternot13]: Die Zeitschrift erschien zunächst im Allgemeinen Deutschen Verlag in Ost-Berlin, bis 1948  der Demokratische Frauenbund Deutschlands (DFD) die Herausgeberschaft bis zur Einstellung der Zeitschrift Ende 1962 übernahm, woraufhin die Zeitschrift auf Beschluss des SED-Sekretariats im Deutschen Frauenverlag GmbH Berlin erschien und ab 1953 im Verlag für die Frau, Leipzig. 1963 wurde die Illustrierte _Für Dich_ Nachfolgerin der _Frau von heute_.
-[^Futternot14]: "xxx." _Die Frau von heute_, 7.5.1946.
-[^Futternot15]: "Katharina Heinroth an das Haupternährungsamt der Stadt Berlin, 06.08.1945, AZGB N 4/2.
+
+[^Futternot14]: "Zpp. Junge Tiere, junge Pflanzen, junge Menschen." _Die Frau von heute_, 07.o5.1946.
+[^Futternot15]: K. Heinroth an das Haupternährungsamt der Stadt Berlin, 06.08.1945, AZGB N 4/2.
 [^Futternot16]: Vgl. AZGB O 1/1/2. 
 [^Futternot17]: Vgl. Magistrat der Stadt Berlin, Abteilung für Ernährung an den Zoologischen Garten Berlin, 17.11.1945, AZGB O 1/1/2.
-[^Futternot18]: Katharina Heinroth an Erna Mohr, 22.1.1946, AZGB N 4/12.
+[^Futternot18]: K. Heinroth an E. Mohr, 22.01.1946, AZGB N 4/12.
 [^Futternot19]: de Luce, Daniel. "Lebensmittelkarte 5 im Berliner Zoo." _Tägliche Rundschau_, 17.12.1946. 
 [^Futternot20]: "Spinat oder Hirsche. Ein Frühlingsspaziergang durch den Berliner Zoo." _Der Tagesspiegel_, 03.04.1947.
 
-
-[^StadtErnähren1]: Vgl. _Verordnungsblatt (VOBl.) der Stadt Berlin 1945_, Ausgabe Nr. 1, Juli 1945: 5. 
-[^StadtErnähren2]: "Einführung von Futtermittelkarten." _Verordnungsblatt (VOBl.) der Stadt Berlin 1945_: 81; _Verordnungsblatt der Stadt Berlin_ Nr. 7. 20. September 1943; "Der Magistrat der Stadt Berlin Abt. für Ernährung, Berlin, den 23. August 1945. 
+[^StadtErnähren1]: Vgl. _Verordnungsblatt (VOBl.) der Stadt Berlin 1945_, Nr. 1, Juli 1945: 5. 
+[^StadtErnähren2]: "Einführung von Futtermittelkarten." _Verordnungsblatt (VOBl.) der Stadt Berlin 1945_, Nr. 7, 20.09.1945: 81.
 [^StadtErnähren3]: Vgl. AZGB  O 1/2/42.
-[^StadtErnähren4]: Gartenbau Fritz Rauhut an Katharina Heinroth, 14.01.1947, AZGB O 1/2/42 .
-[^StadtErnähren5]: Max Metzner an Katharina Heinroth, 09.04.1947, AZGB O 1/2/42.
-[^StadtErnähren6]: Helmut Binck an den Zoologischen Garten Berlin, 16.11.1947, AZGB O 1/2/42.
+[^StadtErnähren4]: Gartenbau F. Rauhut an K. Heinroth, 14.01.1947, AZGB O 1/2/42 .
+[^StadtErnähren5]: M. Metzner an K. Heinroth, 09.04.1947, AZGB O 1/2/42.
+[^StadtErnähren6]: H. Binck an den Zoologischen Garten Berlin, 16.11.1947, AZGB O 1/2/42.
 [^StadtErnähren7]: Tätigkeitsbericht von Katharina Heinroth, 18.09.1945, AZGB N 4/2.
-[^StadtErnähren8]: 19.3.1946... . ???.
-[^StadtErnähren9]: Katharina Heinroth an den Magistrat der Stadt Berlin, Abteilung für Ernährung, 20.03.1946, AZGB O 1/1/2. Vgl. auch Katharina Heinroth an die Alliierte Kommandantur der Stadt Berlin, 15.05.1946, AZGB O 1/1/2. 
-[^StadtErnähren10]: "Auf den Spuren des Elefanten." _Der Kurier_, 07.02.1948: „Verhungert und halb erfroren war im März vergangenen Jahres „Siam“, der letzte der Berliner Dickhäuter – unter den Tieren.“; sowie "'Siam' unter der Bandsäge." _Telegraf_, 21.03.1947.
-[^StadtErnähren11]: Vgl. etwa "Charlotte Gutschmidt an Katharina Heinroth, 26.03.1947, AZGB O 1/2/37: „Nun lasen wir aber im selben Artikel, Sie wollen sich jetzt schon wieder um einen neuen Elefanten bemühen. Ja, liebe Frau Direktor, können Sie denn dies mit Ihrem Herzen verantworten! Der erleidet doch dann in einigen Wochen, vielleicht Monaten dasselbe Schicksal wie der Siam. Bloß auf die Reklame hin, wieder einen Elefanten zu haben, würde ich das nicht tun. Wir wissen, warum wir hungern müssen, aber ein Tier doch nicht. Wir müssen jetzt auf soviel Liebes und Schönes verzichten, also wollen wir augenblicklich lieber keinen Elefanten haben. Denn wenn wir hinkommen und ihn ansehen, haben wir bestimmt immer noch den Gedanken: „Es hat Hunger wie wir alle.“
-[^StadtErnähren12]: Als die Meerschweinchenzucht wieder im Aufbau, blieb der Zoo „öfter gezwungen, aus Futterknappheit Meerschweinchen zu verfüttern“. Katharina Heinroth an Johannes Roscher, 23.02.1947, AZGB O 1/2/42.
+
+[^StadtErnähren8]: Aktennotiz Katharina Heinroth, 19.03.1946, AZGB O 0/1/75.
+
+[^StadtErnähren9]: K. Heinroth an den Magistrat der Stadt Berlin, Abteilung für Ernährung, 20.03.1946, AZGB O 1/1/2. Vgl. auch K. Heinroth an die Alliierte Kommandantur der Stadt Berlin, 15.05.1946, AZGB O 1/1/2. 
+
+[^StadtErnähren10]: "Auf den Spuren des Elefanten." _Der Kurier_, 07.02.1948: „Verhungert und halb erfroren war im März vergangenen Jahres 'Siam', der letzte der Berliner Dickhäuter.“ Vgl. auch "'Siam' unter der Bandsäge." _Telegraf_, 21.03.1947.
+
+[^StadtErnähren11]: Vgl. etwa C. Gutschmidt an K. Heinroth, 26.03.1947, AZGB O 1/2/37: „Nun lasen wir aber im selben Artikel, Sie wollen sich jetzt schon wieder um einen neuen Elefanten bemühen. Ja, liebe Frau Direktor, können Sie denn dies mit Ihrem Herzen verantworten! Der erleidet doch dann in einigen Wochen, vielleicht Monaten dasselbe Schicksal wie der Siam. Bloß auf die Reklame hin, wieder einen Elefanten zu haben, würde ich das nicht tun. Wir wissen, warum wir hungern müssen, aber ein Tier doch nicht. Wir müssen jetzt auf soviel Liebes und Schönes verzichten, also wollen wir augenblicklich lieber keinen Elefanten haben. Denn wenn wir hinkommen und ihn ansehen, haben wir bestimmt immer noch den Gedanken: „Es hat Hunger wie wir alle.“
+
+[^StadtErnähren12]: Als die Meerschweinchenzucht wieder im Aufbau war, blieb der Zoo „öfter gezwungen, aus Futterknappheit Meerschweinchen zu verfüttern“. K. Heinroth an J. Roscher, 23.02.1947, AZGB O 1/2/42.
+
 [^StadtErnähren13]: Zwischen Mai und August 1945 stieg der Tierbestand von 194 auf 240 Stück; vor allem durch die Aufnahme von Tieren aus dem Zirkus Brumbach.
+
 [^StadtErnähren14]: Dabei darf nicht vergessen werden, dass es der Zweite Weltkrieg war, der in ganz Europa viele Zoos mehr oder weniger schwer zerstört hatte; zudem waren deutsche Zoodirektoren wie Lutz Heck an Plünderungen (??) in Zoos wie dem Warschauer und Posener Zoo beteilgt. Vgl. Szczygielska, Marianna. "Elephant Empire: Zoos and Colonial Encounters in Eastern Europe." _Cultural Studies_(2020): 1-22. https://doi.org/10.1080/09502386.2020.1780280. 
 
-[^StadtErnähren15]: Vgl. Heinroth: „Wir haben ja allerhand vor für das Frühjahr; die Gärtelei soll jetzt aufhören, denn die Ernährungsverhältnisse hier in Berlin haben sich ja für die Bevölkerung grundlegend gebessert, so dass man jetzt wieder Gemüse auf den Märkten zu kaufen bekommt. Wir können also nun wieder im Garten unsere Anlagen sehr schön herrichten.“ Katharina Heinroth an Ursula Bergman, 07.03.1950, AZGB N 4/12.
+[^StadtErnähren15]: Vgl. Katharina Heinroth: „Wir haben ja allerhand vor für das Frühjahr; die Gärtelei soll jetzt aufhören, denn die Ernährungsverhältnisse hier in Berlin haben sich ja für die Bevölkerung grundlegend gebessert, so dass man jetzt wieder Gemüse auf den Märkten zu kaufen bekommt. Wir können also nun wieder im Garten unsere Anlagen sehr schön herrichten.“ K. Heinroth an U. Bergman, 07.03.1950, AZGB N 4/12.
 
 
 
