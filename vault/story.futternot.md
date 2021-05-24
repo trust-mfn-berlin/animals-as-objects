@@ -2,7 +2,7 @@
 id: d54394f6-1188-4ec3-b590-da329e657560
 title: Futternot
 desc: Put a description of this note here...
-updated: 1621886637698
+updated: 1621886679610
 created: 1621497485660
 title_de: Futternot
 desc_de: Put a DE description of this note here...
@@ -100,7 +100,8 @@ Daneben gab es aber auch empörte Stimmen, die – in der Annahme, dass der Elef
 
 Anfang der 1950er Jahre normalisierte sich Stück für Stück die Situation in Berlin und damit auch im Zoo. Die Gemüsebeet verschwanden wieder, der Tierhandel nahm an Fahrt auf und man konnte wieder über eine Vergrößerung des Tierbestands nachdenken.[^StadtErnähren15]
 
-(@all critcal readers: bin unsicher mit dem Schluss - es geht ja in der "nächsten" story noch mit "Tiere verfüttern" in Notzeiten weiter, aber es braucht ja hier eine Art Ende; also die story mit dem Vorgriff auf die Normalisierung der Situation beschließen oder lieber Cliffhanger einbauen?)
+
+
 
 ## Fußnoten
 
