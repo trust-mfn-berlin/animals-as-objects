@@ -2,7 +2,7 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1621615740177
+updated: 1621952086529
 created: 1618576718116
 title_de: Knut
 desc_de: Der 2006 geborene Eisbär "Knut" entwickelte einen bis dahin ungekannten Popularität eines einzelnen Zootiers. Medien und Zooleitung machten ihn zu einem 'Botschafter' der Klimakrise, die das Habitat der Eisbären bedrohte. Die starke Übertragung von Emotionen von Besucher\*innen und Fans in aller Welt auf das Tier wirkte über seinen Tod hinaus.
@@ -143,7 +143,7 @@ Am Beispiel "Knuts" lässt sich möglicherweise eine erst seit dem Ende des 20. 
 ![desc](images/cmw/130114_Knut_06.jpg)
 *"Knut in der Präparationswerkstatt des Naturkundemuseums. Im Hintergrund die Totenmaske von "Bobby", 2013.(Carola Radke, MfN 2013)*
 
-"Knuts" Geschichte und der 'Starrummel', der sich um ihn bildete sind ungewöhnlich, zumal es sich bei dem Eisbären nicht um ein bislang unbekanntes Tier handelte, welches wie das erste Nashorn in Europa oder die erste in Wien ausgestellte Giraffe eine Sensation darstellte.[^forever1] 2012 inspirierte dieser 'hype' um "Knut" auch über dessen Tod hinaus akademisches Interesse.[^forever2] Und wiederholt hat sich solch eine Begeisterung für ein Zootier bisher nicht. Die 2010 in Nürnberg geborene und ebenso mit der Flasche aufgezogene Eisbärin "Flocke" oder die 2018 im Tierpark geborene "Hertha" haben annähernd die Popularität "Knuts" gewonnen. Es scheint als habe das Eisbärenjunge - und sein Pfleger - 2007 eine Nische gefüllt, ein besonderes Verlangen gestillt.
+"Knuts" Geschichte und der 'Starrummel', der sich um ihn bildete sind ungewöhnlich, zumal es sich bei dem Eisbären nicht um ein bislang unbekanntes Tier handelte, welches wie das erste Nashorn in Europa oder die erste in Wien ausgestellte Giraffe eine Sensation darstellte. 2012 inspirierte dieser 'hype' um "Knut" auch über dessen Tod hinaus akademisches Interesse.[^forever2] Und wiederholt hat sich solch eine Begeisterung für ein Zootier bisher nicht. Die 2010 in Nürnberg geborene und ebenso mit der Flasche aufgezogene Eisbärin "Flocke" oder die 2018 im Tierpark geborene "Hertha" haben annähernd die Popularität "Knuts" gewonnen. Es scheint als habe das Eisbärenjunge - und sein Pfleger - 2007 eine Nische gefüllt, ein besonderes Verlangen gestillt.
 
 -----
 ## Footnotes
@@ -156,16 +156,13 @@ Am Beispiel "Knuts" lässt sich möglicherweise eine erst seit dem Ende des 20. 
 
 [^trademark1]: Zoologischer Garten Berlin AG und Universal Music: Pressemitteilung, 25/07, 17.04.2007.
 
-[^trademark2]: Sigmar Gabriel: Kann Knut den Klimawandel bremsen?, in: B.Z. extra: Das große Knut-Album, Berlin 2007, S. 49.
+[^trademark2]: Gabriel, Sigmar. „Kann Knut den Klimawandel bremsen?“ In _Das große Knut-Album_, herausgegeben von B.Z. extra, 49. Berlin: B.Z., 2007. S. 49.
 
 [^trademark3]: "Knut und seine Freunde", Regie: Michael G. Johnson, Produktion: DOKfilm Fernsehproduktion GmbH, Norddeutscher Rundfunk, Rundfunk Berlin Brandenburg, 2008.
 
-[^forever1]: Dittrich, Lothar, Dietrich von Engelhardt, und Annelore Rieke-Müller, Hrsg. 2001. Die Kulturgeschichte des Zoos. Bd. 3. Ernst-Haeckel-Haus-Studien. Monographien zur Geschichte der Biowissenschaften und Medizin. Berlin: Verlag für Wissenschaft und Bildung.
-<!-- Noch kapitel raussuchen -->
+[^forever2]: RBB: "Presseinformation 072/2007 vom 23.03.2007: Neu im Programm: „Knut!“, https://www.rbb-online.de/unternehmen/presse/presseinformationen/pressearchiv/2007/neu_im_programm_0.html (07.05.2021); Flinterud, Guro. „A Polyphonic Polar Bear. Animal and Celebrity in Twenty-first Century Popular Culture“. University of Oslo, Faculty of Humanities, 2012.; dies. „Child Stars at the Zoo: The Rise and Fall of Polar Bear Knut“. In _Zoo-Studies. A New Humanities_, herausgegeben von Tracy McDonald und Daniel Vandersommers, 191–210. Montreal & Kingston, London, Chicago: McGill-Queen’s University Press, 2019.
 
-[^forever2]: RBB: "Presseinformation 072/2007 vom 23.03.2007: Neu im Programm: „Knut!“, https://www.rbb-online.de/unternehmen/presse/presseinformationen/pressearchiv/2007/neu_im_programm_0.html (07.05.2021); Flinterud, Guro. 2012. „A Polyphonic Polar Bear. Animal and Celebrity in Twenty-first Century Popular Culture“. Oslo: University of Oslo, Faculty of Humanities; dies. 2019. „Child Stars at the Zoo: The Rise and Fall of Polar Bear Knut“. In Zoo-Studies. A New Humanities, herausgegeben von Tracy McDonald und Daniel Vandersommers, 191–210. Montreal & Kingston, London, Chicago: McGill-Queen’s University Press.
-
-[^star1]: Flinterud, Guro, und Adam Dodd. 2013. „Polar Bear Knut and his Blog“. In Animals on Display. The Creaturely in Museums, Zoos and Natural History, herausgegeben von Liv Emma Thorsen und Karen A. Rader. University Park, PA: The Pennsylvania State University Press.
+[^star1]: Flinterud, Guro, und Adam Dodd. „Polar Bear Knut and his Blog“. In _Animals on Display. The Creaturely in Museums, Zoos and Natural History_, herausgegeben von Liv Emma Thorsen und Karen A. Rader. University Park, PA: The Pennsylvania State University Press, 2013.
 
 [^tod1]: Vgl. Berlin.de: "Denkmal für Eisbär Knut im Zoo", https://www.berlin.de/tourismus/zoos-und-tierparks/eisbaer-knut/2315669-1694342.gallery.html?page=4 (07.05.2021).
 

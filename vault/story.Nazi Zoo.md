@@ -2,7 +2,7 @@
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 title: Zoo and National Socialism
 desc: During 
-updated: 1621616158155
+updated: 1621952657200
 created: 1619020958263
 title_de: Der Zoo im Nationalsozialismus
 desc_de: In der Zeit der nationalsozialistischen Diktatur biederten sich Zooleitung und Aufsichtsrat dem Regime an. Der Zoo wurde zu einem Propagandainstrument der Nationalsozialisten und schloss jüdische Besucher\*innen aus. Der Zoodirektor war mit der Elite des Regimes gut vernetzt. Während des Krieges wurden Zwangsarbeiter ausgebeutet.
@@ -133,21 +133,21 @@ Die überlebenden Löwen des Zoos liegen vor der Kulisse des zerstörten Aquariu
 
 ## Footnotes
 
-[^family1]: Beispielsweise: Heck, Ludwig. 1938. Heiter-ernste Lebensbeichte. Erinnerungen eines alten Tiergärtners. Berlin: Deutscher Verlag,373, aber auch Heck, Lutz. 1935. Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn. Berlin: Paul Parey.
+[^family1]: Beispielsweise: Heck, Ludwig. _Heiter-ernste Lebensbeichte. Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag, 1938: 373; Heck, Lutz. _Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn_. Berlin: Paul Parey, 1935.
 
 [^family2]: Lebenslauf Lutz Heck für die Reichsschriftumskammer, Bundesarchiv Berlin (BArch), R 9361, V, 5953.
 
-[^family3]: Heck, Lutz. 1968. Waidwerk mit bunter Strecke. Jagd in heimischen Revieren. Hamburg, Berlin: Parey: 67.
+[^family3]: Heck, Lutz. _Waidwerk mit bunter Strecke. Jagd in heimischen Revieren_. Hamburg, Berlin: Parey, 1968: 67.
 
-[^family4]: Z. B. Lutz Heck, Der deutsche Edelhirsch. Ein Lebensbild, Berlin 1935.
+[^family4]: Z. B. Heck, Lutz. _Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn_. Berlin: Paul Parey, 1935.
 
-[^family5]: Vgl. Lutz Heck, Auf Urwild in Kanada, Berlin 1937.
+[^family5]: Vgl. Lutz Heck. _Auf Urwild in Kanada_. Berlin 1937.
 
 [^family6]: Jahrbuch der Fachschaft Deutsche Bracken, 1935/36.
 
 [^family7]: Zoologischer Garten Berlin, "Alte Tierkartei" sowie Liste der Löwen Hermann Görings mit Nachzuchten, AZGB N 5/13.
 
-[^family8]: Vgl. Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Berlin: Ch. Links Verlag: 111-113.
+[^family8]: Vgl. Maier-Wolthausen, Clemens. _Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos_. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 111-113.
 
 [^board1]: Geschäftsbericht für das Jahr 1933.
 
@@ -159,15 +159,15 @@ Die überlebenden Löwen des Zoos liegen vor der Kulisse des zerstörten Aquariu
 
 [^propa3]: Schriftwechsel zwischen allen Parteien in GStA PK I. HA, Rep 151, 2500 und Niederschrift der Aufsichtsratssitzung 24.08.1935, in: GStA PK I. HA, Rep 151, 2496, Bl. 93-94.
 
-[^propa4]: Vgl. u. a. Lutz Heck, Über die Neuzüchtung des Ur oder Auerochs; in: Berichte der Internationalen Gesellschaft zur Erhaltung des Wisents 3/1936, 4: 224–294, 235.
+[^propa4]: Vgl. u. a. Heck, Lutz. „Über die Neuzüchtung des Ur oder Auerochs“. _Berichte der Internationalen Gesellschaft zur Erhaltung des Wisents_ 3, Nr. 4 (1936): 224–94: 224–294, 235.
 
-[^propa5]: Heck, Lutz. 1941. Auf Tiersuche in weiter Welt. Berlin: Paul Parey: 195.
+[^propa5]: Heck, Lutz. _Auf Tiersuche in weiter Welt_. Berlin: Paul Parey, 1941: 195.
 
-[^propa6]: Heck. 1941: S. 195, sowie Heck, Lutz. 1932. „Letzte Urwaldtiere aus deutscher Vorzeit“. Atlantis. Länder, Völker, Reisen 4 (10): 577–83; Heck, Lutz. 1939. „Die Neuzüchtung des Auerochsen“. Wild und Hund, Nr. 37 (Dezember): 535–37. Auch auf der internationalen Jagdausstellung 1938 schmückte ein Fries mit einer Strophe des Epos den Stand zum Ur.
+[^propa6]: Heck. 1941: 195, sowie Heck, Lutz. „Letzte Urwaldtiere aus deutscher Vorzeit“. _Atlantis. Länder, Völker, Reisen_ 4, Nr. 10 (1932): 577–83: 577–83; Heck, Lutz. „Die Neuzüchtung des Auerochsen“. _Wild und Hund_, Nr. 37 (15. Dezember 1939): 535–37. Auch auf der internationalen Jagdausstellung 1938 schmückte ein Fries mit einer Strophe des Epos den Stand zum Ur.
 
 [^propa2]: Geschäftsberichte für die Jahre 1935 u. 1936.
 
-[^labour1]: Vgl. Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag: 126-127.
+[^labour1]: Vgl. Maier-Wolthausen, Clemens. _Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos_. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 126-127.
 
 [^destruction1]: Liste in AZGB O 0/1/54.
 
@@ -191,18 +191,17 @@ Die überlebenden Löwen des Zoos liegen vor der Kulisse des zerstörten Aquariu
 
 [^war1]: Aufsichtsratsprotokoll, 16.12.1939, AZGB O 0/2/2.
 
-[^war2]: Bauzeichnungen und -anträge in LAB, A Rep. 032-08, Nr. 293; vgl. auch Heck, Lutz. 1954. Tiere - mein Abenteuer. Erlebnisse in Wildnis und Zoo. Wien: Ullstein: 97-102; Rede L. Heck auf der Hauptversammlung 1940, AZGB O 0/3/13; Notiz zum Geschäftsbericht für das Jahr 1941, AZGB O 0/3/12.
+[^war2]: Bauzeichnungen und -anträge in LAB, A Rep. 032-08, Nr. 293; vgl. auch Heck, Lutz. _Tiere - mein Abenteuer. Erlebnisse in Wildnis und Zoo_. Wien: Ullstein, 1954: 97-102; Rede L. Heck auf der Hauptversammlung 1940, AZGB O 0/3/13; Notiz zum Geschäftsbericht für das Jahr 1941, AZGB O 0/3/12.
 
-[^war3]: Vgl. Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Ch. Links Verlag: 118-129.
+[^war3]: Vgl. Maier-Wolthausen, Clemens. _Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos_. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 118-129.
 
-[^war4]: Bruce, Gary. 2017. Through the Lion Gate. A History of the Berlin Zoo. Oxford: Oxford University Press: 164 mit Berufung auf die Memoiren der Ehefrau des Zoodirektors Antonina Zabinska.
+[^war4]: Bruce, Gary. _Through the Lion Gate. A History of the Berlin Zoo_. Oxford: Oxford University Press, 2017: 164 mit Berufung auf die Memoiren der Ehefrau des Zoodirektors Antonina Zabinska.
 
 [^war5]: Aufsichtsratsprotokoll, 30.07.1940, AZGB O 0/2/2.
 
-[^war6]: Vgl. Gautschi, Andreas. 2010. Der Reichsjägermeister. Fakten und Legenden um Hermann Göring. Melsungen: Nimrod; Rubner, Heinrich. 1997. Deutsche Forstgeschichte, 1933-1945. Forstwirtschaft, Jagd und Umwelt im NS-Staat. St. Katharinen: Scripta Mercaturae; Kopie Vereinbarung zwischen dem Reichskommissar für die Festigung deutschen Volkstums - Stabshauptamt und dem Reichsforstmeister als Oberster Naturschutzbehörde über die Ausführung der Besprechung vom 20. März 1942, 11.05.1942, BArch, R 49/2066; Schriftwechsel mit dem Britischen Kommandanten Tiergarten Lt. Col. Nunn im Dezember 1945, AZGB S 15/17; Alte Tierkartei, Karteikarte "Panjepferde". 
+[^war6]: Vgl. Gautschi, Andreas. Der Reichsjägermeister. Fakten und Legenden um Hermann Göring. Melsungen: Nimrod, 2010; Rubner, Heinrich. Deutsche Forstgeschichte, 1933-1945. Forstwirtschaft, Jagd und Umwelt im NS-Staat. St. Katharinen: Scripta Mercaturae, 1997; Kopie Vereinbarung zwischen dem Reichskommissar für die Festigung deutschen Volkstums - Stabshauptamt und dem Reichsforstmeister als Oberster Naturschutzbehörde über die Ausführung der Besprechung vom 20. März 1942, 11.05.1942, BArch, R 49/2066; Schriftwechsel mit dem Britischen Kommandanten Tiergarten Lt. Col. Nunn im Dezember 1945, AZGB S 15/17; Alte Tierkartei, Karteikarte "Panjepferde". 
 
-[^war7]: Rundschreiben L. Heck an die zoologischen Gärten, 22 02.1945, und Fisch-Grosshandel H. D. Petersen an
-L. Heck, 08.03.1945, AZGB O 0/1/88.
+[^war7]: Rundschreiben L. Heck an die zoologischen Gärten, 22 02.1945, und Fisch-Grosshandel H. D. Petersen an L. Heck, 08.03.1945, AZGB O 0/1/88.
 
 [^war8]: L. Heck: Aktennotiz betr. Eröffnung am 25.7.1944, AZGB O 0/1/50; Erinnerungen von Elisabeth Johst, AZGB S 15/27.
 

@@ -2,7 +2,7 @@
 id: d5bfb12b-0b03-4038-bb71-687153ced047
 title: Gifting Objects
 desc: Put a description of this note here...
-updated: 1621350082935
+updated: 1621951247484
 created: 1619036239804
 title_de: Tiergeschenke
 desc_de: Put a DE description of this note here...
@@ -92,9 +92,10 @@ Außerdem schenkt man dem Zoo der Reichshauptstadt auch Dinge aus den Kolonien [
 
 ## Footnotes
 
-[^gifts1]: Vgl. Giere, Peter, Peter Bartsch, und Christiane Quaisser. 2018. „Berlin: From Humboldt to HVac - The Zoological Collections of the Museum für Naturkunde Leibniz Institute for Evolution and Biodiversity Science in Berlin“. In Zoological Collections of Germany, herausgegeben von Lothar A. Beck, 89–122. Cham: Springer International Publishing und Damaschun, Ferdinand, und Hannelore Landsberg. 2010. „‚...so bleiben dem materiell Gesammelten und geographisch Geordnetem fast allein ein langdauernder Werth‘ - 200 Jahre Museum für Naturkunde“. In Art, Ordnung, Klasse: 200 Jahre Museum für Naturkunde, herausgegeben von Ferdinand Damaschun, Sabine Hackethal, Hannelore Landsberg, und Reinhold Leinfelder, 13–23. Rangsdorf: Basilisken-Presse.
+[^gifts1]: Vgl. Giere, Peter, Peter Bartsch, und Christiane Quaisser. „Berlin: From Humboldt to HVac - The Zoological Collections of the Museum für Naturkunde Leibniz Institute for Evolution and Biodiversity Science in Berlin“. In _Zoological Collections of Germany_, herausgegeben von Lothar A. Beck, 89–122. Cham: Springer International Publishing, 2018. https://doi.org/10.1007/978-3-319-44321-8_11.
+und Damaschun, Ferdinand, und Hannelore Landsberg. „‚...so bleiben dem materiell Gesammelten und geographisch Geordnetem fast allein ein langdauernder Werth‘ - 200 Jahre Museum für Naturkunde“. In _Art, Ordnung, Klasse: 200 Jahre Museum für Naturkunde_, herausgegeben von Ferdinand Damaschun, Sabine Hackethal, Hannelore Landsberg, und Reinhold Leinfelder, 13–23. Rangsdorf: Basilisken-Presse, 2010.
 
-[^gifts2]: Zur Gründungsgeschichte des Berliner Zoos vgl. Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Berlin: Ch. Links Verlag.
+[^gifts2]: Zur Gründungsgeschichte des Berliner Zoos vgl. Maier-Wolthausen, Clemens. _Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos_. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag, 2019.
 
 [^gifts3]: Bartsch, und Quaisser (2018): 94-99.
 
@@ -102,11 +103,11 @@ Außerdem schenkt man dem Zoo der Reichshauptstadt auch Dinge aus den Kolonien [
 
 [^colonial1]: Geschäftsberichte über die Jahre 1891-1914, hier insb. Geschäftsbericht über das Jahr 1907.
 
-[^expeditions1]: Eckert, Carsten. 2010. "Ein U-Boot für die Wissenschaft - Mäzenatentum im Kaiserreich, Aspekte aus dem Nachlass von Walther Arndt". In Art, Ordnung, Klasse: 200 Jahre Museum für Naturkunde, herausgegeben von Ferdinand Damaschun, Sabine Hackethal, Hannelore Landsberg, und Reinhold Leinfelder, 170–75. Rangsdorf: Basilisken-Presse.
+[^expeditions1]: Eckert, Carsten. „Ein U-Boot für die Wissenschaft - Mäzenatentum im Kaiserreich, Aspekte aus dem Nachlass von Walther Arndt“. In _Art, Ordnung, Klasse: 200 Jahre Museum für Naturkunde_, herausgegeben von Ferdinand Damaschun, Sabine Hackethal, Hannelore Landsberg, und Reinhold Leinfelder, 170–75. Rangsdorf: Basilisken-Presse, 2010.
 
-[^expeditions2]: Heinroth, Katharina. 1971. Oskar Heinroth. Bd. 35. Große Naturforscher. Stuttgart: Wissenschaftliche Verlagsgesellschaft: 169.
+[^expeditions2]: Heinroth, Katharina. _Oskar Heinroth_. Bd. 35. Große Naturforscher. Stuttgart: Wissenschaftliche Verlagsgesellschaft, 1971: 169.
 
-[^culturald1]: Hier Dittrich oder Maier-Wolthausen
+[^culturald1]: @clemens Hier Dittrich oder Maier-Wolthausen
 
 [^donations]: Zoologische Gärten Berlin: Geschäftsbericht 2019 (https://www.zoo-berlin.de/fileadmin/zoo-berlin/downloads/Investor_Relations/Geschaeftsberichte/Geschaeftsbericht_AG_2019.pdf)
 
