@@ -2,7 +2,7 @@
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 title: fütternVerboten
 desc: Put a description of this note here...
-updated: 1621934493356
+updated: 1621935217506
 created: 1620752897039
 title_de: Füttern Verboten
 desc_de: Put a DE description of this note here...
@@ -52,7 +52,7 @@ Auf das Verbot wiesen die Zoo-Wegweiser von nun an gleich am Anfang in der „Ga
 _Verbotsschilder in zoologischen Gärten, abgedruckt im 8-Uhr-Blatt, 13.4.1960._
 
 
-![Kamelgehege mit Schild „Füttern verboten“, AZGB xxx.] FEHLT NOCH
+![Kamelgehege mit Schild „Füttern verboten“, AZGB S 3/58.] FEHLT NOCH
 
 _Kamelanlage im Berliner Zoo mit Verbotsschild. (AZGB)_
 
@@ -118,7 +118,7 @@ Im Falle des neuen Affenhauses, das xxx eröffnet wurde, entschied man sich für
 
 [^FütternVerboten10]: A. Irmler an Heinz-Georg Klös, 21.09.1959, AZGB [Tierkorrespondenz 1.1.1959-30.9.1959 (unerschlossen) MUSS NICHT ÜBERSETZT WERDEN]
 
-[^FütternVerboten11]: E. von Bongardt, 01.10.1959, AZGB [01.10.1959-31.6.1960...]
+[^FütternVerboten11]: E. von Bongardt and die Direktion des Zoologischen Gartens Berlin, 01.10.1959, AZGB [01.10.1959-31.6.1960...MUSS NICHT ÜBERSETZT WERDEN]
 
 [^FütternVerboten12]: Beatz, H. "Der Zoo wird entgittert." _Morgenpost Berlin_, 22.02.1930.
 
