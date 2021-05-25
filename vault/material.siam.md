@@ -2,7 +2,7 @@
 id: 47ccdab9-37bd-4bc0-97ee-e342b66299f4
 title: Siam
 desc: Put a description of this note here...
-updated: 1621963786850
+updated: 1621971906367
 created: 1621324111928
 title_de: Papierspuren eines Elefanten
 desc_de: Put a DE description of this note here...
@@ -39,7 +39,7 @@ Eine der Spuren führt zurück in die Sammlungen des Zoologischen Museums, das d
 
 _Suche in der Säugetiersammlung des Museums für Naturkunde Berlin, November 2020 (Foto: Mareike Vennen)._
 
-Sind die Elefantenknochen am Ende gar nicht in die Sammlung gekommen? Oder liegt es nur daran, dass das Zoologischen Museum nicht zu jeder Zeit detailliert Buch über die eintreffenden Objekte führte und daher nicht alle historischen Elefantenknochen systematisch in den Eingangskatalogen verzeichnet und wieder auffindbar sind? (siehe dazu auch [[story.record keeping]]). Manche Objektgeschichten scheinen nur (noch)  als Papierspuren zu existieren, die die Tiere in Archiven, Korrespondenzen oder Zeitungsberichten hinterlassen. 
+Sind die Elefantenknochen am Ende gar nicht in die Sammlung gekommen? Oder liegt es nur daran, dass das Zoologischen Museum nicht zu jeder Zeit detailliert Buch über die eintreffenden Objekte führte und daher nicht alle historischen Elefantenknochen systematisch in den Eingangskatalogen verzeichnet und wieder auffindbar sind? (siehe dazu auch [[story.record keeping]]). Manche Objektgeschichten scheinen nur (noch) als Papierspuren zu existieren, die die Tiere in Archiven, Korrespondenzen oder Zeitungsberichten hinterlassen. 
 
 In "Siams" Fall führen diese tief in die europäische Kolonialgeschichte. Die Stationen seines Lebens lenken den Blick auf die lange und problematische Geschichte sogenannter "exotischer" Zoo- und Zirkustiere aus kolonialen Kontexten – Tiere, die aus den Kolonien als Handels- und Tauschobjekte oder als Geschenke nach Europa gebracht wurden (**Verweis Marianna**) – wie hier aus der britischen Kolonie Ceylon, wohin Tierhändler wie John Hagenbeck regelmäßig reisten, um Tiere für Zoologische Gärten und Zirkusse zu fangen und  Menschen für Völkerschauen zu rekrutieren.[^siam4] [[Völkerschauen]] [[story.Catching Animals]] [[story.Gifting Objects]] [[theme.Acquisition zoo animals]] Elefantenfüße als Papierkörbe gehören dabei zweifellos zu den ikonischen Trophäen, in denen sich stereotypisierte koloniale Natur-Bilder um Aneignung und Beherrschung materialisieren. Auch wenn wir über den tatsächlich Verbleib von "Siams" Füßen nichts wissen, verweist die Präparation von Elefantenfüßen zum Papierkorb darauf, dass die materielle Kultur des Kolonialismus in Sammlungen ebenso wie in Wohnzimmern zu suchen und sowohl Teil der Berliner Museums- wie auch Alltagsgeschichte ist. 
 
@@ -47,7 +47,9 @@ Eine weitere Spur führt mich unterdessen ins Berlin der Nachkriegszeit. "Siams"
 
 Die schlechte Versorgungslage der Stadt war auch der Grund für eine ganz andere Art der Weiterverwertung des Zoo-Elefanten. "Siam auf der Speisekarte" titelte am 20. März 1947 _Der Morgen_.[^siam6] Damit war nicht nur gemeint, dass ein Teil des Fleisches des 70 Zentner schweren Tieres an die Löwen verfüttert wurde – in Zeiten der Not ein durchaus übliches Vorgehen in Zoos. Gemeint war hier, dass ein Anteil des Elefantenfleisches auf dem Schwarzmarkt und am Ende angeblich auf der Speisekarte eines Berliner Restaurants landete. Die Berliner Polizei ermittelte, die Berliner Presse berichtete.[^siam7] 
 
-Der Elefant war damit vom Wildtier zu "Siam" der Zirkus- und Zooattraktion geworden, dann womöglich zum Teil einer wissenschaftlichen Sammlung, vermutlich zum Dekorationsobjekt im Stil kolonialer Trophäen und schließlich zum Fleischlieferanten für Tier und Mensch. Die Geschichte von "Siam", rekonstruiert aus Papierspuren, ist eine zugleich lokale und globale Geschichte; ein Kapitel Berliner Nachkriegsgeschichte, ein Stück lokale Sammlungsgeschichte und Teil einer globalen Geschichte des Kolonialismus. Das Leben und Nachleben von "Siam" ist aber auch ein loses Ende, das die Lücken in der Überlieferung sichtbar macht, die buchstäblichen Leer-Stellen der materiellen Sammlungskultur. Gerade sie stoßen viele Fragen an – über die materiellen und medialen Spuren, die ein Tier hinterlässt und über meine eigene Forschung, ihre Quellen und die Grenzen historischer Rekonstruktion. 
+Der Elefant war damit vom Wildtier zu "Siam" der Zirkus- und Zooattraktion geworden, dann womöglich zum Teil einer wissenschaftlichen Sammlung, vermutlich zum Dekorationsobjekt im Stil kolonialer Trophäen und schließlich zum Fleischlieferanten für Tier und Mensch. Die Geschichte von "Siam", rekonstruiert aus Papierspuren, ist eine zugleich lokale und globale Geschichte; ein Kapitel Berliner Nachkriegsgeschichte, ein Stück lokale Sammlungsgeschichte und Teil einer globalen Geschichte des Kolonialismus. 
+
+Das Leben und Nachleben von "Siam" ist aber auch ein loses Ende, das die Lücken in der Überlieferung sichtbar macht, die buchstäblichen Leer-Stellen der materiellen Sammlungskultur. Gerade sie stoßen viele Fragen an – über die materiellen und medialen Spuren, die ein Tier hinterlässt und über meine eigene Forschung, ihre Quellen und die Grenzen historischer Rekonstruktion. 
 
 
 
