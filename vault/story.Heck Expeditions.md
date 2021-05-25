@@ -2,7 +2,7 @@
 id: 6526be8c-01f6-4c05-a41d-fae91b634ced
 title: Lutz Heck's Catching Expeditions
 desc: Put a description of this note here...
-updated: 1621615437251
+updated: 1621951674915
 created: 1619426293502
 title_de: Tierfangexpeditionen von Lutz Heck
 desc_de: Der spätere Zoodirektor Lutz Heck unternahm in den 1920er und 1930er Jahren Tierfang-Expeditionen für den Zoologischen Garten in Ostafrika und Kanada. Bei ersteren verknüpfte er das Ziel des Tierfangs mit kolonialromantischer Propaganda und nutzte die Expeditionen als Werbung für den Zoo und die eigene Person.
@@ -135,7 +135,7 @@ Letztlich haben sich eigene Fangexpeditionen für den Berliner Zoo finanziell wo
 
 [^exp1]: Korrespondenz in AZGB, O 0/1/327.
 
-[^exp2]: Heck, Lutz. 1955. Grosswild im Etoschaland. Erlebnisse mit Tieren in Südwest-Afrika. Berlin: Ullstein.
+[^exp2]: Heck, Lutz. _Grosswild im Etoschaland. Erlebnisse mit Tieren in Südwest-Afrika_. Berlin: Ullstein, 1955.
 
 [^exp3]: Dieses und folgende Zitate aus der Korrespondenz in AZGB, O 0/1/327.
 
@@ -147,15 +147,15 @@ Letztlich haben sich eigene Fangexpeditionen für den Berliner Zoo finanziell wo
 
 [^exp7]: Telegramm 08.05.1928, AZGB, O 0/1/327.
 
-[^abess1]: Heck, Lutz. 1941. Auf Tiersuche in weiter Welt. Berlin: Paul Parey: 68-69.
+[^abess1]: Heck, Lutz. _A_uf Tiersuche in weiter Welt_. Berlin: Paul Parey, 1941: 68-69.
 
 [^late1]: Zoologischer Garten Berlin: Geschäftsbericht für das Jahr 1936.
 
 [^late2]: Zoologischer Garten Berlin: Geschäftsbericht für das Jahr 1936; Karteikarte "Schimpansen" der alten Zookartei.
 
-[^late3]: Zoologischer Garten Berlin: Geschäftsbericht für das Jahr 1936; Karteikarte "Schimpansen" der alten Zookartei; Heck, Lutz. 1941. Auf Tiersuche in weiter Welt. Berlin: Paul Parey: 143-193.
+[^late3]: Zoologischer Garten Berlin: Geschäftsbericht für das Jahr 1936; Karteikarte "Schimpansen" der alten Zookartei; Heck, Lutz. _Auf Tiersuche in weiter Welt_. Berlin: Paul Parey, 1941: 143-193.
 
-[^insult]: Solche Zitate finden sich nicht ausschließlich aber auch in: Heck, Lutz. „Auf Giraffenfang in Ostafrika“. Die Koralle 4, Nr. 10 (1928): 456–60; ders. „Als Tierfänger in Ostafrika. Die Tierfangexpedition des Zoologischen Gartens in Berlin“. Die Koralle 5, Nr. 2 (1929): 82–86; ders. „Als Tierfänger in Ostarfrika“. Die Kunst und ihre Welt, Nr. Januar (1930): 8–11; ders. Aus der Wildnis in den Zoo. Auf Tierfang in Ostafrika. Berlin: Ullstein, 1930; Heck, Lutz. „Über Giraffen und Giraffenfang“. Atlantis. Länder, Völker, Reisen 3, Nr. 8 (1931): 458–66; ders. „Pavian-Fang in Abessinien“. Das Tier und wir, Nr. 6 (1934): 1–6; ders. Auf Tiersuche in weiter Welt. Berlin: Paul Parey, 1941.
+[^insult]: Solche Zitate finden sich nicht ausschließlich aber auch in: Heck, Lutz. „Auf Giraffenfang in Ostafrika“. In _Die Koralle_ 4, Nr. 10 (1928): 456–60; ders. „Als Tierfänger in Ostafrika. Die Tierfangexpedition des Zoologischen Gartens in Berlin“. In _Die Koralle_ 5, Nr. 2 (1929): 82–86; ders. „Als Tierfänger in Ostarfrika“. In _Die Kunst und ihre Welt_, Nr. Januar (1930): 8–11; ders. _Aus der Wildnis in den Zoo. Auf Tierfang in Ostafrika_. Berlin: Ullstein, 1930; Heck, Lutz. „Über Giraffen und Giraffenfang“. In _Atlantis. Länder, Völker, Reisen_ 3, Nr. 8 (1931): 458–66; ders. „Pavian-Fang in Abessinien“. In _Das Tier und wir_, Nr. 6 (1934): 1–6; ders. _Auf Tiersuche in weiter Welt_. Berlin: Paul Parey, 1941.
 
 
 

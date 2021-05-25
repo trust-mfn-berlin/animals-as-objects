@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching 'Exotic' Animals
 desc: Put a description of this note here...
-updated: 1621615152730
+updated: 1621951004575
 created: 1618492547915
 title_de: Fang 'exotischer' Tiere
 desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen. Hinzu kamen von Zoos organisierte eigene Expeditionen und die Gelegenheitsgeschenke von Großwildjägern und Kolonialbeamten.
@@ -155,35 +155,35 @@ Seit den 1960er Jahren sind zunehmend Züchtungen [[story.Breeding Animals for t
 ____
 ## Footnotes
 
-[^earlytrade1]: Wertvolle Hinweise auf die geschichte des Tierhandels findet sich: Dittrich, Lothar. 2002. „Vom Souvenir zum Handelsobjekt. Handel und Import fremdländischer Tiere“. In Menagerie des Kaisers - Zoo der Wiener. 250 Jahre Tiergarten Schönbrunn, herausgegeben von Mitchell G. Ash und Lothar Dittrich, 331–43. Wien: Pichler und ders.: 2007. „Der Import von Wildtieren nach Europa - Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts“. In Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte, herausgegeben von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl, 3:1–64. Tiergarten Schönbrunn - Geschichte. Wien: Braumüller.
+[^earlytrade1]: Wertvolle Hinweise auf die Geschichte des Tierhandels findet sich: Dittrich, Lothar. 2002. „Vom Souvenir zum Handelsobjekt. Handel und Import fremdländischer Tiere“. In _Menagerie des Kaisers - Zoo der Wiener. 250 Jahre Tiergarten Schönbrunn_, herausgegeben von Mitchell G. Ash und Lothar Dittrich, 331–43. Wien: Pichler und ders.: 2007. „Der Import von Wildtieren nach Europa - Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts“. In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, herausgegeben von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl, 3:1–64. Tiergarten Schönbrunn - Geschichte. Wien: Braumüller.
 
 [^earlytrade2]: Dittrich. 2002: 332.
 
-[^earlytrade3]: Heck, Ludwig. 1938. Heiter-ernste Lebensbeichte. Erinnerungen eines alten Tiergärtners. Berlin: Deutscher Verlag: 123ff.
+[^earlytrade3]: Heck, Ludwig. 1938. _Heiter-ernste Lebensbeichte. Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag: 123ff.
 
-[^africanrhino]: Schillings, Carl Georg: Mit Blitzlicht und Büchse; Leipzig 1905, S. 188.
+[^africanrhino]: Schillings, Carl Georg: _Mit Blitzlicht und Büchse_; Leipzig 1905, S. 188.
 
 [^1950s1]: Vgl. Dittrich. 2007.
 
-[^lateexp1]: Vgl. Grzimek, Bernhard: Flug ins Schimpansenland. Reise durch ein Stück Afrika von heute; Stuttgart 1955.
+[^lateexp1]: Vgl. Grzimek, Bernhard: _Flug ins Schimpansenland. Reise durch ein Stück Afrika von heute_; Stuttgart 1955.
 
 [^import]: Korrespondenz B. Grzimek und Bundesministerium für Ernährung und Landwirtschaft u. a., Protokoll der VDZ-Tagung 1962 in: ATGS, Nachlass W. Fiedler, Ordner VDZ + WAZA, Nr.1.
 
-[^colonial1]: Vgl. unter anderem Gissibl, Bernhard. The nature of German imperialism: conservation and the politics of wildlife in colonial East Africa. The environment in history : international perspectives, Volume 9. New York: Berghahn Books, 2016; Domínguez, Lara, und Colin Luoma. „Decolonising Conservation Policy: How Colonial Land and Conservation Ideologies Persist and Perpetuate Indigenous Injustices at the Expense of the Environment“. Land 9, Nr. 3 (2020). https://doi.org/10.3390/land9030065; Prendergast, David. „Colonial wildlife conservation and the origins of the Society for the Preservation of the Wild Fauna of the Empire (1903–1914)“. Oryx 37 (1. April 2003): 251–60. https://doi.org/10.1017/S0030605303000425; MacKenzie, John M. The Empire of Nature: Hunting, Conservation, and British Imperialism. Studies in Imperialism. Manchester, UK New York New York: Distributed exclusively in the USA by St. Martin’s Press, 1997; Thompsell, Angela. Hunting Africa: British Sport, African Knowledge and the Nature of Empire, 2015.
+[^colonial1]: Vgl. unter anderem Gissibl, Bernhard. _The nature of German imperialism: conservation and the politics of wildlife in colonial East Africa_. The environment in history : international perspectives, Volume 9. New York: Berghahn Books, 2016; Domínguez, Lara, und Colin Luoma. „Decolonising Conservation Policy: How Colonial Land and Conservation Ideologies Persist and Perpetuate Indigenous Injustices at the Expense of the Environment“. _Land_ 9, Nr. 3 (2020). https://doi.org/10.3390/land9030065; Prendergast, David. „Colonial wildlife conservation and the origins of the Society for the Preservation of the Wild Fauna of the Empire (1903–1914)“. _Oryx_ 37 (1. April 2003): 251–60. https://doi.org/10.1017/S0030605303000425; MacKenzie, John M. _The Empire of Nature: Hunting, Conservation, and British Imperialism_. Studies in Imperialism. Manchester, UK New York New York: St. Martin’s Press, 1997; Thompsell, Angela. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_, 2015.
 
-[^hagenb1]: Ames, Eric. Carl Hagenbeck’s Empire of Entertainments. A McLellan Book. Seattle: University of Washington Press, 2008: 27.
+[^hagenb1]: Ames, Eric. _Carl Hagenbeck’s Empire of Entertainments_. Seattle: University of Washington Press, 2008: 27.
 
 [^hagenb2]: Ames, 2008: 28-29.
 
-[^hagenbeck3]: Eipper, Paul. Freund aller Tiere. Ein Fahrtenbuch voll bunter Abenteuer. Berlin: Ullstein, 1937: 94-95.
+[^hagenbeck3]: Eipper, Paul. _Freund aller Tiere. Ein Fahrtenbuch voll bunter Abenteuer_. Berlin: Ullstein, 1937: 94-95.
 
-[^exped1]: Vgl. Hanson, Elizabeth. Animal attractions: nature on display in American zoos. Princeton, N.J: Princeton University Press, 2002: 100-130; Bridges, William. Zoo expeditions. William Morrow, 1945.
+[^exped1]: Vgl. Hanson, Elizabeth. _Animal attractions: nature on display in American zoos_. Princeton, N.J: Princeton University Press, 2002: 100-130; Bridges, William. _Zoo expeditions_. William Morrow, 1945.
 
-[^exped2]: Maier-Wolthausen, Clemens. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 83, 121-122.
+[^exped2]: Maier-Wolthausen, Clemens. _Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos_. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 83, 121-122.
 
-[^hagenb4]: Vennen, Mareike. „Arbeitsbilder - Bilderarbeit. Die Herstellung und Zirkulation von Fotografien der Tendaguru-Expedition“. In Dinosaurierfragmente. Zur Geschichte der Tendaguru-Expedition und ihrer Objekte - 1906-2018, von Ina Heumann, Holger Stoecker, Marco Tamborini, und Mareike Vennen, 56–75. Göttingen: Wallstein, 2018, insbesondere 64.
+[^hagenb4]: Vennen, Mareike. „Arbeitsbilder - Bilderarbeit. Die Herstellung und Zirkulation von Fotografien der Tendaguru-Expedition“. In _Dinosaurierfragmente. Zur Geschichte der Tendaguru-Expedition und ihrer Objekte - 1906-2018_, von Ina Heumann, Holger Stoecker, Marco Tamborini, und Mareike Vennen, 56–75. Göttingen: Wallstein, 2018, insbesondere 64.
 
-[^hagenb5]: Kawata, Ken. „Zoo Animal Feeding: A Natural History Viewpoint“. Der Zoologische Garten. Neue Folge 78 (2008): 17–42.
+[^hagenb5]: Kawata, Ken. „Zoo Animal Feeding: A Natural History Viewpoint“. In _Der Zoologische Garten. Neue Folge_ 78 (2008): 17–42.
 
 [^1950s2]: Robbins, C. T. Wildlife Feeding and Nutrition, New York, 1983 zitiert nach Kawata, 2008: 23.
 
@@ -195,6 +195,6 @@ ____
 
 [^klös1]: Klös, Heinz-Georg. Freundschaft mit Tieren: der Altdirektor des Zoologischen Gartens Berlin erzählt. Berlin: Edition Q, 1997: 167-178.
 
-[^hanson]: Hanson, Elizabeth. Animal attractions: nature on display in American zoos. Princeton, N.J: Princeton University Press, 2002: 71, 73.
+[^hanson]: Hanson, Elizabeth. _Animal attractions: nature on display in American zoos_. Princeton, N.J: Princeton University Press, 2002: 71, 73.
 
 [^schillings2]: Schillings, 1905, 190-197.

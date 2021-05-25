@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: How animals get into the zoo?
 desc: The various sources of animal objects for museums and zoos.
-updated: 1621614227609
+updated: 1621953018785
 created: 1618498026144
 title_de: Wie gelangen Tiere in den Zoo?
 desc_de: Lebende Tiere für die Sammlungen des Zoologischen Gartens, Aquariums und Tierparks Berlin kamen und kommen aus unterschiedlichen Quellen. Diese haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen für diese Einrichtungen - politische, logistische und moralische.
@@ -98,9 +98,9 @@ Seit einigen Jahren lassen sich neue Tendenzen wahrnehmen, die international und
 ----
 ## Footnotes
 
-[^gifts1]: Vgl. Giere, Peter, Peter Bartsch, und Christiane Quaisser. 2018. „Berlin: From Humboldt to HVac - The Zoological Collections of the Museum für Naturkunde Leibniz Institute for Evolution and Biodiversity Science in Berlin“. In Zoological Collections of Germany, herausgegeben von Lothar A. Beck, 89–122. Cham: Springer International Publishing und Damaschun, Ferdinand, und Hannelore Landsberg. 2010. „‚...so bleiben dem materiell Gesammelten und geographisch Geordnetem fast allein ein langdauernder Werth‘ - 200 Jahre Museum für Naturkunde“. In Art, Ordnung, Klasse: 200 Jahre Museum für Naturkunde, herausgegeben von Ferdinand Damaschun, Sabine Hackethal, Hannelore Landsberg, und Reinhold Leinfelder, 13–23. Rangsdorf: Basilisken-Presse.
+[^gifts1]: Vgl. Giere, Peter, Peter Bartsch, und Christiane Quaisser. „Berlin: From Humboldt to HVac - The Zoological Collections of the Museum für Naturkunde Leibniz Institute for Evolution and Biodiversity Science in Berlin“. In _Zoological Collections of Germany_, herausgegeben von Lothar A. Beck, 89–122. Cham: Springer International Publishing, 2018. https://doi.org/10.1007/978-3-319-44321-8_11 und Damaschun, Ferdinand, und Hannelore Landsberg. „‚...so bleiben dem materiell Gesammelten und geographisch Geordnetem fast allein ein langdauernder Werth‘ - 200 Jahre Museum für Naturkunde“. In _Art, Ordnung, Klasse: 200 Jahre Museum für Naturkunde_, herausgegeben von Ferdinand Damaschun, Sabine Hackethal, Hannelore Landsberg, und Reinhold Leinfelder, 13–23. Rangsdorf: Basilisken-Presse, 2010.
 
-[^gifts2]: Zur Gründungsgeschichte des Berliner Zoos vgl. Maier-Wolthausen, Clemens. 2019. Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos. Berlin: Ch. Links Verlag.
+[^gifts2]: Zur Gründungsgeschichte des Berliner Zoos vgl. Maier-Wolthausen, Clemens. _Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos_. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag, 2019.
 
 [^gifts3]: Bartsch, und Quaisser (2018): 94-99.
 
@@ -108,16 +108,14 @@ Seit einigen Jahren lassen sich neue Tendenzen wahrnehmen, die international und
 
 [^colonial1]: Geschäftsberichte über die Jahre 1891-1914, hier insb. Geschäftsbericht über das Jahr 1907.
 
-[^culturald1]: Hier Dittrich oder Maier-Wolthausen
-
 [^donations]: Zoologische Gärten Berlin: Geschäftsbericht 2019 (https://www.zoo-berlin.de/fileadmin/zoo-berlin/downloads/Investor_Relations/Geschaeftsberichte/Geschaeftsbericht_AG_2019.pdf)
 
-[^entnahme1]: Vgl. für eine Übersicht der Einfuhren nicht-heimischer Tierarten: Dittrich, Lothar. 2007. „Der Import von Wildtieren nach Europa - Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts“. In Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte, herausgegeben von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl, 3:1–64. Tiergarten Schönbrunn - Geschichte. Wien: Braumüller.
+[^entnahme1]: Vgl. für eine Übersicht der Einfuhren nicht-heimischer Tierarten: Dittrich, Lothar. „Der Import von Wildtieren nach Europa - Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts“. In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, herausgegeben von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl, 3:1–64. Tiergarten Schönbrunn - Geschichte. Wien: Braumüller, 2007.
 
-[^big5]: Meier, Jürg. Handbuch Zoo: moderne Tiergartenbiologie. 1. Auflage. Bern Stuttgart Wien: Haupt Verlag, 2009: 115-120.
+[^big5]: Meier, Jürg. _Handbuch Zoo: moderne Tiergartenbiologie_. 1. Auflage. Bern Stuttgart Wien: Haupt Verlag, 2009: 115-120.
 
-[^flagship]: Meier, 2009: 121.
+[^flagship]: Meier (2009): 121.
 
-[^waza]: Grajal, Alejandro, Jerry F. Luebke, und Lisa-Anne DeGregoria Kelly. „Why Zoos Have Animals: Exploring the Complex Pathway from Experiencing Animals to Pro-environmental Behaviors“. In The ark and beyond: the evolution of zoo and aquarium conservation, herausgegeben von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb, 192–203. Convening science: discovery at the marine biological laboratory. Chicago: The University of Chicago Press, 2018.
+[^waza]: Grajal, Alejandro, Jerry F. Luebke, und Lisa-Anne DeGregoria Kelly. „Why Zoos Have Animals: Exploring the Complex Pathway from Experiencing Animals to Pro-environmental Behaviors“. In _The ark and beyond: the evolution of zoo and aquarium conservation_, herausgegeben von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb, 192–203. Convening science: discovery at the marine biological laboratory. Chicago: The University of Chicago Press, 2018.
 
-[^apuz]: Vgl. Niekisch, Manfred, und Volker Sommer. „Artenschutz durch Zoos. Zwei Perspektiven“. Aus Politik und Zeitgeschichte 71, Nr. 9 (2021): 31–38.
+[^apuz]: Vgl. Niekisch, Manfred, und Volker Sommer. „Artenschutz durch Zoos. Zwei Perspektiven“. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 31–38.
