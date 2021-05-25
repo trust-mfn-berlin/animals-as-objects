@@ -2,7 +2,7 @@
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 title: fütternVerboten
 desc: Put a description of this note here...
-updated: 1621935217506
+updated: 1621935740916
 created: 1620752897039
 title_de: Füttern Verboten
 desc_de: Put a DE description of this note here...
@@ -49,14 +49,21 @@ Auf das Verbot wiesen die Zoo-Wegweiser von nun an gleich am Anfang in der „Ga
 
 ![Zeitungsseite mit abgebildeten Fütterungsverbotsschildern in zoologischen Gärten, 1960](images\mv\ZeitungVerbotsschilder.jpg)
 
-_Verbotsschilder in zoologischen Gärten, abgedruckt im 8-Uhr-Blatt, 13.4.1960._
+_Verbotsschilder in zoologischen Gärten, abgedruckt im 8-Uhr-Blatt, 13.04.1960._
 
 
-![Kamelgehege mit Schild „Füttern verboten“, AZGB S 3/58.] FEHLT NOCH
+![Kamelanlage im Berliner Zoo mit Fütterungsverbotschild](images\mv\KamelNichtFuettern.jpg) 
 
 _Kamelanlage im Berliner Zoo mit Verbotsschild. (AZGB)_
 
-![Fütterungsverbotschild im Zoologischen Garten Berlin]
+![Fütterungsverbotschild am Emugehege im Berliner Zoo]()
+
+_Hinweisschild am Gehege der Emus im Berliner Zoo 1980. (AZGB, Foto Kühn)_
+
+![Fütterungsverbotschild für Eisbärenjungtier im Zoologischen Garten Berlin]
+
+_Hinweisschild für ein Eisbärenjungtier 19xx. (AZGB)_
+
 
 ![Verbotsschild am Elefantengehege](images\mv\FuetternVerbotenSchild.jpg)
 
