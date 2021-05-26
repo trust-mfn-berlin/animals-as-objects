@@ -2,11 +2,7 @@
 id: d54394f6-1188-4ec3-b590-da329e657560
 title: Futternot
 desc: Put a description of this note here...
-<<<<<<< HEAD
-updated: 1622012712201
-=======
-updated: 1622011078137
->>>>>>> 753d16e4f26fe66259fe3dd44df555bb5005b3ca
+updated: 1622026903203
 created: 1621497485660
 title_de: Futternot
 desc_de: Put a DE description of this note here...
@@ -89,19 +85,16 @@ Für den Zoo aber waren die 'exotischen' Tiere das wirtschaftliche und symbolisc
 
 Die Futterlage im Zoo blieb indessen angespannt und nur zwei Jahre nach Kriegsende, im März 1947, starb Elefant "Siam". Sein Tod 1947 machte damals Schlagzeilen in der Berliner Presse. Die Tageszeitungen schrieben, "halb erfroren" ist nun "unser Zoo-Dickhäuter auch verhungert"[^StadtErnährenDE10] Tatsächlich war "Siam" aber nicht verhungert, sondern an einer chronischen Darmentzündung und der starken Veränderung des Herzmuskels gestorben. Das ergab die Sektion, die die Tierärztliche Hochschule und das Zoologische Museum (Teil des Naturkundemuseums) gemeinsam durchführten. Falsch informiert oder bewusste Finte? Darüber kann nur spekuliert werden; auf jeden Fall war im _Telegraf_ die schwierige Versorgungslage in Berlin immer wieder Thema. Und vielleicht schien die Vorstellung, dass "unser Zoo-Elefant" ebenso Hunger litt wie die Berliner Bevölkerung tröstend? Es finden sich viele Beispiele von (Zoo-)Tieren, die in schweren Zeiten als Identifikations- und Projektionsfiguren dienten. Tiere, denen als [[Kriegsopfer|material.Kriegsopfer und Delikatesse]] gedacht wurde, finden sich bereits im 19. Jahrhundert – am Eingang zum Jardin des Plantes in Paris etwa erinnert eine Gedenktafel an die Elefanten und Kängurus der dortigen Menagerie, die zu den Kriegstoten der Belagerung von Paris 1870 gezählt wurden. Es ging nicht zuletzt um die Vorstellung, dass Tier und Mensch das gleiche Schicksal teilten, ein Wir-Gefühl. Es mag daher auch nicht verwundern, dass der Berliner Zoo eine Menge Zuschriften aus der Bevölkerung erhielt, die ihr Mitgefühl und Bedauern über den Tod des letzten Berliner Zoo-Elefanten ausdrückten. Viele wollten wissen, wann es einen neuen Elefanten zu sehen gebe. Darauf aber konnte Katharina Heinroth wieder nur antworten: "Wir werden vorläufig des Futtermangels wegen keinen neuen Elefanten anschaffen."
 
-<<<<<<< HEAD
 ## Zoo und Stadt
 Das Verhältnis zwischen Zoo und Stadt war in diesen ersten Nachkriegsjahren ambivalent. Die Stadt – die Bevölkerung wie die Behörden – unterstützten den Zoo in Futterfragen. Stets war etwa „ein Stamm von etwa 20 Kindern“ zur Stelle, die Kastanien und Eicheln für die Zootiere sammelte, was schnell auf 100 Zentner kam.[^Stadternähren15] 1948 forderte jedoch die Zentrale für Drogen und Wildfrüchte den Zoo auf, keine Kastanien mehr zu Fütterungszwecken sammeln zu lassen, weil diese für die Versorgung der Bevölkerung benötigt würden und weil menschliche Arbeitskraft eine wichtige Ressource war. Den Besucher\*innen wiederum, die Brot oder Kartoffelschalen für die Tiere brachten, war es verboten, auf dem Zoogelände Eicheln für den eigenen Bedarf zu sammeln. Kontrolleure durchsuchten an den Ausgängen die Taschen und Rucksäcke: „Wir holen zur Zeit an den Kassen täglich einige Zentner solcher den Besuchern wieder abgenommener Eicheln ab“, notierte die Zoodirektorin 1948.[^Stadternähren16] 
 
 In Punkto Ernährung waren Zoo und Stadt, Mensch und Tier miteinander eng verstrickt; sie leisteten sich gegenseitig Beistand, standen aber auch in Konkurrenz. Gerade in Zeiten der Not konkurrierten Mensch und Tier um die gleichen Ressourcen. Katharina Heinroth war dieses Dilemma bewusst: „Unsere Wärter holen mit rührendem Fleiss Kartoffelschalen aus halb Berlin zusammen. Diese werden aber auch seltener, da viele Menschen die Kartoffelschalen für ihren Eigen-Bedarf zusammensuchen, denn die Not ist gross. Ich kenne einige, die von Kartoffelschalen leben.”[^Stadternähren17] Je nach Perspektive war der Zoo also Umschlagplatz für den Austausch von Tieren und Wissen oder ein Ort illegaler Nahrungsbeschaffung; ein Teil der städtischen Versorgungsinfrastruktur oder eine Belastung für den Ernährungsplan der Stadt - eine Lage, die sich erst Anfang der 1950er Jahre Stück für Stück normalisierte.[^StadtErnähren18] Während die Zurschaustellung von Wildtieren im Stadtraum eigentlich die Hauptfunktion eines Zoos ist, kann sich, so zeigt sich hier, die Rolle der Institution wie auch Status und Bewertung der Tiere wandeln. Damit stellt sich auch die Frage, was für einen Zoo wir in Zukunft wollen. 
 
-=======
 ![Gelochte, handgeschriebene Postkarte: "16. März 1947. Liebe Tante Zoodirektor! Grossvater hat mir erzählt, dass der gute Elefant tot ist. Das ist aber sehr traurig! Ich bitte dich, recht bald für einen neuen Elefanten zu sorgen. Ich grüsse dich sehr! Dein Hello Kellner (4 Jahre alt)."](/images/mv/BeileidSiam.jpg) 
 
 _Beleids-Postkarte vom vierjährigen Hello Kellner an den Berliner Zoo zum Tod von "Siam", (AZGB)._
 
 Daneben gab es aber auch empörte Stimmen, die – in der Annahme, dass der Elefant verhungert war – wissen wollten, warum der Zoo seine Tiere nicht fortgab, wenn er sie nicht mehr ernähren könne.[^StadtErnährenDE11] Tatsächlich stand in diesen Jahren beständig die Frage im Raum, ob der Zoo gezwungen sein würde, einen Teil seiner Bestände wegen Futtermangels notzuschlachten oder Tiere wegzugeben.[^StadtErnährenDE12] Die Alliierte Kommandantur hatte dem Zoo bereits 1945 ein Anschaffungsverbot für neue Tiere auferlegt, da für mehr als die inzwischen wieder vorhandenen 240 Tiere kein Futter bereitgestellt werden konnte und die schlechte Ernährungslage von Berlin nicht noch mehr belastet werden sollte, siehe auch [[story.landwirtschaftliche Tiere]].[^StadtErnährenDE13] Mehrmals drohte der britische Kommandant an, den Zoo zu schließen und die Tiere in den Westen zu evakuieren.[^StadtErnährenDE14] 
->>>>>>> 753d16e4f26fe66259fe3dd44df555bb5005b3ca
 
 Das Verhältnis zwischen Zoo und Stadt war demnach in diesen ersten Nachkriegsjahren ambivalent. Die Stadt – die Bevölkerung wie die Behörden – unterstützten den Zoo in Futterfragen. Stets war etwa „ein Stamm von etwa 20 Kindern“ zur Stelle, die Kastanien und Eicheln für die Zootiere sammelte, was schnell auf 100 Zentner kam.[^StadtErnährenDE15] 1948 forderte jedoch die Zentrale für Drogen und Wildfrüchte den Zoo auf, keine Kastanien mehr zu Fütterungszwecken sammeln zu lassen, weil diese für die Versorgung der Bevölkerung benötigt würden und weil menschliche Arbeitskraft eine wichtige Ressource war. Den Besucher\*innen wiederum, die Brot oder Kartoffelschalen für die Tiere brachten, war es verboten, auf dem Zoogelände Eicheln für den eigenen Bedarf zu sammeln. Kontrolleur\*innen durchsuchten an den Ausgängen die Taschen und Rucksäcke: „Wir holen zur Zeit an den Kassen täglich einige Zentner solcher den Besuchern wieder abgenommener Eicheln ab“, notierte die Zoodirektorin 1948.[^StadtErnährenDE16] 
 In Punkto Ernährung waren Zoo und Stadt, Mensch und Tier miteinander eng verstrickt; sie leisteten sich gegenseitig Beistand, standen aber auch in Konkurrenz. Gerade in Zeiten der Not konkurrierten Mensch und Tier um die gleichen Ressourcen. Katharina Heinroth war dieses Dilemma bewusst: „Unsere Wärter holen mit rührendem Fleiss Kartoffelschalen aus halb Berlin zusammen. Diese werden aber auch seltener, da viele Menschen die Kartoffelschalen für ihren Eigen-Bedarf zusammensuchen, denn die Not ist gross. Ich kenne einige, die von Kartoffelschalen leben.”[^StadtErnährenDE17]
@@ -112,7 +105,6 @@ Die Gemüsebeet verschwanden wieder, in Deutschland nahmen das Wirtschaftswunder
 
 ## Fußnoten
 
-<<<<<<< HEAD
 [^Futternot1]: Im Jahr 1938 waren es 3715 Tiere; 1944 waren es noch 1700 Tiere. Vgl. Halbjahresbericht für Aufsichtsratssitzung vom 10.08.1955, AZGB N 4/2. 
 
 [^Futternot2]: Tätigkeitsbericht des Zoologischen Gartens vom 03.05. bis 23.05.1945, AZGB O 0/1/75.  
@@ -179,7 +171,6 @@ Die Gemüsebeet verschwanden wieder, in Deutschland nahmen das Wirtschaftswunder
 [^StadtErnähren17]: K. Heinroth an E. Mohr, 22.01.1946, AZGB N/4/12.
 
 [^Stadternähren18] Vgl. Katharina Heinroth: "Wir haben ja allerhand vor für das Frühjahr; die Gärtelei soll jetzt aufhören, denn die Ernährungsverhältnisse hier in Berlin haben sich ja für die Bevölkerung grundlegend gebessert, so dass man jetzt wieder Gemüse auf den Märkten zu kaufen bekommt. Wir können also nun wieder im Garten unsere Anlagen sehr schön herrichten." K. Heinroth an U. Bergman, 07.03.1950, AZGB N 4/12.
-=======
 [^FutternotDE1]: Im Jahr 1938 waren es 3.715 Tiere; 1944 waren es noch 1.700 Tiere. Vgl. Halbjahresbericht für Aufsichtsratssitzung vom 10.08.1955, AZGB N 4/2.
 
 [^FutternotDE2]: Tätigkeitsbericht des Zoologischen Gartens vom 03.05. bis 23.05.1945, AZGB O 0/1/75.  
@@ -189,7 +180,6 @@ Die Gemüsebeet verschwanden wieder, in Deutschland nahmen das Wirtschaftswunder
 [^FutternotDE4]: "Siam erhält Stubenarrest. Wintervorbereitungen im Zoo." _Das Volk_, 04.11.1945. Die Umnutzung von Freiflächen zum Anbau von Gemüse und Kartoffeln war, wie man sich vorstellen kann, weit verbreitet. Auch der Garten des Museums für Naturkunde war bis 1949 für den Gemüseanbau für die Mitarbeiter reserviert.
 
 [^FutternotDE5]: Tätigkeitsbericht des Zoologischen Gartens vom 03.05. bis 23.05.1945, AZGB O 0/1/75. Als Folgen des Krieges waren ein Großteil der Tiere tot und große Teile der Bebauung im Zoo zerstört, weshalb nach der Enttrümmerung viele Freiflächen entstanden.
->>>>>>> 753d16e4f26fe66259fe3dd44df555bb5005b3ca
 
 [^FutternotDE6]: K. Heinroth an L. Rüppell, o.D. [vermutlich April/Mai 1946], AZGB N 4/12.
 
