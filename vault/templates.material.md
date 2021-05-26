@@ -2,7 +2,7 @@
 id: a2c33165-7498-4a3e-8cb2-7aa775069340
 title: Material
 desc: 'Put a description of this note here...'
-updated: 1622033684630
+updated: 1622033769385
 created: 1617975584997
 title_de: Add a german title here
 desc_de: 'Put a DE description of this note here...'
@@ -56,7 +56,7 @@ Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp.
 
 # German title (DE)
 
-(DE) Text body (up to 500 words) with backlinks like this: [[theme.test]]. 
+(DE) Text body (up to 500 words) with backlinks like this: [[theme.test]].
 
 If needed you can also add footnotes [^footnoteDE1]. The word does not need to be footnote
 As necessary, things can be **bold** or _italic_.
