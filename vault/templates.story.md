@@ -2,7 +2,7 @@
 id: 98db0135-2087-4fdd-9f42-a14fcb81174e
 title: Story
 desc: 'Put a description of this note here...'
-updated: 1622032137410
+updated: 1622033188223
 created: 1617975606425
 title_de: Add a german title here
 desc_de: 'Put a DE description of this note here...'
@@ -40,7 +40,8 @@ More text here.
 
 More text here. If you need to backlink a word that is different from the actual title, use [[themes|templates.theme]]. It should never be a word like "here", used like a normal hyperlink. It should always be a close variation of the actual title. 
 
-If you need to reference another text at the end of a sentence, see [[templates.story]]. (In German: ..., siehe auch [[templates.story]].)
+If you need to reference another text at the end of a sentence, it looks like this: Here is a sentence, see [[templates.story]].
+Hier ist ein Satz, siehe auch [[templates.story]].
 
 [^footnote1]: here REF: Surname, Name. _Book title_. Place: Press, YYYY
 Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp.
