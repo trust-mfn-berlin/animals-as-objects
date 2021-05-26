@@ -2,7 +2,7 @@
 id: 6bb6d7d7-d7e7-48a6-8649-340aac4d9b24
 title: Theme
 desc: 'Put a description of this note here...'
-updated: 1620133889086
+updated: 1622031130229
 created: 1617975596857
 title_de: Add a german title here
 desc_de: 'Put a DE description of this note here...'
@@ -20,7 +20,7 @@ And footnotes [^footnote1].
 And **bold** and _italics_.
 And:
 
-##Subheadings
+## Subheadings
 Where more can be said.
 They can also include:
 >Longer quotes from other sources, like this one...
