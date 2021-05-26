@@ -2,7 +2,7 @@
 id: f02cb0e0-9512-4a0f-8012-02969e9f97d0
 title: Bobby life
 desc: Put a description of this note here...
-updated: 1621007295544
+updated: 1622045762918
 created: 1620163729182
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -36,6 +36,11 @@ published: false
     Quellen: Bericht der Zugfahrt??
     - die Akklimatisationsstation von Ruhe bei Marseille
 	Themen: Kolonialimus, Gorillas ausstellen (Umlauff, Naturkundemuseen, Zoos), Evolutionstheorie
+
+
+* 1928 etwa zweijährig durch die Tierhandlung Ruhe, Alfeld, nach Berlin
+
+
 -	Care im Zoo 
 	Gewicht
 - Bild der Gewichtstafel am Gehege - immer wieder die Erwähnung, dass er der erste Gorilla war, der in einem Zoo erwachsen wurde
