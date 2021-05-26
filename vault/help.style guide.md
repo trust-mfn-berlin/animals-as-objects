@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1619532066400
+updated: 1622035078514
 created: 1618326133707
 ---
 
@@ -14,74 +14,74 @@ I have added the style guide draft by Filippo as a starting point. When this not
 <!-- On Windows Press Ctrl + / -->
 <!-- On Mac Press Cmd + / -->
 
-See the [[templates]] for the styleguides of each type of input.
+See the [[templates]] for the styleguides of each type of input. Titles should be concise, ideally one-two words. All notes need an EN title, even when you are writing in DE.
 
 ## Material
 
-*author(s)*
+See [[templates.material]]
 
-**Concise title** 
+## Theme
 
-Here is the main text. [50-500 words]
+See [[templates.theme]]
 
-image.jpg
+## Stories
 
-*image caption and rights [max. 50 words]*
+See [[templates.story]]
 
-Footnotes 
+## Style notes
 
-Text license statement
+Dates of life only in material.person, not everywhere
 
-Date published
+For every document where you care about what's written in it, there should be a material.document
 
-Date updated
+Numbers are written as 165.000 with a dot
 
-##Story
+Dates in the text are 12 December 1967 in EN, but 12. Dezember 1967 auf DE
 
-*author(s)*
+Full dates in footnotes are 30.07.1985
 
-**Title**
+Terminology: Zweiter Weltkrieg, Second World War
 
-*Subheading* 
-<!-- We should consider the issue of subheadings in the text. I had not thought we would much use them, since the max lenght is 4000 words, but it looks like they might be handy, so we should add them! -->
-Summary Box
+Use Oxford comma
 
-Here is the main text. [max. 4000 words] Some passages in the text **may be bold**. [the bold texts, together, form the summary of the text, 100-300 words - and the summary can allow for a quicker reading of the storylines]
+Use the longer dashes with spaces around it in texts – like this.
 
-image1.jpg
+Only use "these quotation marks" in DE and EN, not „these quotation marks”
 
-*image caption and rights [max. 50 words]*
+## Footnotes: Suggestion of a modified "Chicago Manual, 17th edition (note)"
 
-Footnotes
+### Monography
+Grzimek, Bernhard. Flug ins Schimpansenland. Reise durch ein Stück Afrika von heute. Stuttgart: Kosmos 1955. [pages = : 98]
 
-Text license statement
+### Anthology
+Gregory Kohlstedt, Sally. „Reflections on Zoo History“. In New Worlds, New Animals. From Menagerie to Zoological Park in the Nineteenth Century, hg. [ed.] von Robert J. Hoage und William A. Deiss. Baltimore: Johns Hopkins Univ. Press, 1996: 3-7.
 
-Date published
+### Journal
+Grincheva, Natalia. „U.S. Arts and Cultural Diplomacy: Post-Cold War Decline and the Twenty-First Century Debate“. The Journal of Arts Management, Law, and Society 40 (1. März 2010): 169–83. https://doi.org/10.1080/10632921.2010.504509.
 
-Date updated
+Chua, Charmaine, Martin Danyluk, Deborah Cowen, und Laleh Khalili. „Introduction: Turbulent Circulation: Building a Critical Engagement with Logistics“. Environment and Planning D: Society and Space 36, Nr. 4 (August 2018): 617–29. https://doi.org/10.1177/0263775818783101.
 
-##Theme
+### Newspaper
 
-*author(s)*
+Müller, Christian. „Ankunft der neuen Zoo-Bewohner“. Berliner Morgenpost, 21.05.1928. [no page required]
 
-**(Two-words) title [evoking broader themes]**
+### Letter (Archive)
 
-*Subheading 1*
+K. Heinroth an L. Heck, 19.05.1933, AZGB O 0/1/2.
 
-Abstract box
+Protokoll der Vorstandssitzung vom 22.05.1938, 23.05.1938, AZGB O 2/2/12.
 
-Here is the main text. [2000-3000 words] Some passages in the text **may be bold**. [the bold texts, together, form the summary of the text, 100-300 words - and the summary can allow for a quicker reading of the storylines]
+K. Heinroth an C. Hagenbeck, 12.09.1934, MfN, HBSB, S004-02-05 134. [pagina, if given]
+... or oldcall no. style MfN, HBSB, Zool. Mus. S III, Heinroth, K.
 
-image2.jpg
+## Image captions
 
-*image caption and rights [max. 50 words]*
+### Zoo archive material (example)
 
-Footnotes
+Die asiatischen Elefanten “Omar” und “Rostom“ nach ihrer Ankunft im Zoo Berlin, 1936. (AZGB, Foto L. Heck) [AZGB: no call number required]
 
-Text license statement
+Staatspräsident Ulbricht übergibt den goldenen Schlüssel, 22.10.1965. (LAB C Rep. 121, Nr. 235)
 
-Date published
+### Caption newspaper (example)
 
-Date updated
-
-##Reference style
+[article title is visible, and written in the accessibility description] Artikel aus dem ‘Völkischen Beobachter‘ vom 12.04.1938 mit einem Interview mit Lutz Heck.
