@@ -2,7 +2,7 @@
 id: a2c33165-7498-4a3e-8cb2-7aa775069340
 title: Material
 desc: 'Put a description of this note here...'
-updated: 1622031474894
+updated: 1622031723987
 created: 1617975584997
 title_de: Add a german title here
 desc_de: 'Put a DE description of this note here...'
@@ -25,7 +25,7 @@ They can also include:
 
 _Image caption (less than 200 characters) and source._
 
-If you need to backlink a word that is different from the actual title, use [[themes|templates.theme]]. 
+If you need to backlink a word that is different from the actual title, use [[themes|templates.theme]].  It should never be a word like "here", used as a hyperlink. It should always be a close variation of the actual title.
 
 [^footnote1]: here REF: Surname, Name. _Book title_. Place: Press, YYYY
 Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp.
@@ -34,9 +34,10 @@ Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp.
 
 :::DE:::
 
-#German title (DE)
+# German title (DE)
 
-(DE) Text body (up to 500 words) with backlinks like this: [[theme.test]]. The title is already written above.
+(DE) Text body (up to 500 words) with backlinks like this: [[theme.test]]. 
+
 If needed you can also add footnotes [^footnoteDE1]. The word does not need to be footnote
 As necessary, things can be **bold** or _italic_.
 They can also include:
@@ -46,7 +47,6 @@ They can also include:
 
 _Image caption (less than 200 characters) and source._
 
-If you need to backlink a word that is different from the actual title, use [[themes|templates.theme]]. 
 
 [^footnote1]: here REF: Surname, Name. _Book title_. Place: Press, YYYY
 Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp.

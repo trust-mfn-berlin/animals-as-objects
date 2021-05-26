@@ -2,7 +2,7 @@
 id: 6bb6d7d7-d7e7-48a6-8649-340aac4d9b24
 title: Theme
 desc: 'Put a description of this note here...'
-updated: 1622031130229
+updated: 1622031699023
 created: 1617975596857
 title_de: Add a german title here
 desc_de: 'Put a DE description of this note here...'
@@ -15,21 +15,29 @@ published: false
 
 :::EN:::
 
-Themes are like materials and stories. They also get backlinks: [[theme.test]]. Themes have 2000 - 3000 words max.
-And footnotes [^footnote1].
+Themes are like materials and stories. They also get backlinks like [[theme.test]]. Themes have 2000 - 3000 words max.
+And footnotes [^footnote1]. The foonote-words can be different each time, or refer to a paragraph and be numbered conscutively.
 And **bold** and _italics_.
-And:
+
 
 ## Subheadings
 Where more can be said.
 They can also include:
 >Longer quotes from other sources, like this one...
 
-![image description](/images/example/MfN-HBSB-Nr97.png)
+![image description for accessibility](/images/example/MfN-HBSB-Nr97.png)
 
 _Image caption (less than 200 characters) and source._
 
 <!-- Notes for us -->
+
+### Subsubheadings are the lowest level
+
+More text here.
+
+## Another subheading
+
+More text here. If you need to backlink a word that is different from the actual title, use [[themes|templates.theme]]. It should never be a word like "here", used as a hyperlink. It should always be a close variation of the actual title.
 
 [^footnote1]: here REF: Surname, Name. _Book title_. Place: Press, YYYY
 Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp.
