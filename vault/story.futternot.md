@@ -2,7 +2,7 @@
 id: d54394f6-1188-4ec3-b590-da329e657560
 title: Futternot
 desc: Put a description of this note here...
-updated: 1621969157143
+updated: 1622012712201
 created: 1621497485660
 title_de: Futternot
 desc_de: Put a DE description of this note here...
@@ -95,12 +95,11 @@ _Beleids-Postkarte vom vierjährigen Hello Keller an den Berliner Zoo zum Tod vo
 
 Daneben gab es aber auch empörte Stimmen, die – in der Annahme, dass der Elefant verhungert war – wissen wollten, warum der Zoo seine Tiere nicht fortgab, wenn er sie nicht mehr ernähren könne.[^StadtErnähren11] Tatsächlich stand in diesen Jahren beständig die Frage im Raum, ob der Zoo gezwungen sein würde, einen Teil seiner Bestände wegen Futtermangels notzuschlachten oder Tiere wegzugeben.[^StadtErnähren12] Die Alliierte Kommandantur hatte dem Zoo bereits 1945 ein Anschaffungsverbot für neue Tiere auferlegt [[story.landwirtschaftliche Tiere]], da für mehr als die inzwischen wieder vorhandenen 240 Tiere kein Futter bereitgestellt werden konnte und die schlechte Ernährungslage von Berlin nicht noch mehr belastet werden sollte.[^StadtErnähren13] Mehrmals drohte der britische Kommandant an, den Zoo zu schließen und die Tiere in den Westen zu evakuieren.[^StadtErnähren14] 
 
-xxxxxxxxxxxxxxxxxxxxxDas Verhältnis zwischen Zoo und Stadt war demnach in diesen ersten Nachkriegsjahren ambivalent. Die Stadt – die Bevölkerung wie die Behörden – unterstützten den Zoo in Futterfragen. Stets war etwa „ein Stamm von etwa 20 Kindern“ zur Stelle, die Kastanien und Eicheln für die Zootiere sammelte, was schnell auf 100 Zentner kam.[15] 1948 forderte jedoch die Zentrale für Drogen und Wildfrüchte den Zoo auf, keine Kastanien mehr zu Fütterungszwecken sammeln zu lassen, weil diese für die Versorgung der Bevölkerung benötigt würden und weil menschliche Arbeitskraft eine wichtige Ressource war. Den Besucher*innen wiederum, die Brot oder Kartoffelschalen für die Tiere brachten, war es verboten, auf dem Zoogelände Eicheln für den eigenen Bedarf zu sammeln. Kontrolleure durchsuchten an den Ausgängen die Taschen und Rucksäcke: „Wir holen zur Zeit an den Kassen täglich einige Zentner solcher den Besuchern wieder abgenommener Eicheln ab“, notierte die Zoodirektorin 1948.[16] 
-In Punkto Ernährung waren Zoo und Stadt, Mensch und Tier miteinander eng verstrickt; sie leisteten sich gegenseitig Beistand, standen aber auch in Konkurrenz. Gerade in Zeiten der Not konkurrierten Mensch und Tier um die gleichen Ressourcen. Katharina Heinroth war dieses Dilemma bewusst: „Unsere Wärter holen mit rührendem Fleiss Kartoffelschalen aus halb Berlin zusammen. Diese werden aber auch seltener, da viele Menschen die Kartoffelschalen für ihren Eigen-Bedarf zusammensuchen, denn die Not ist gross. Ich kenne einige, die von Kartoffelschalen leben.”[17]xxxxxxxxxxxxxxxxx 
+## Zoo und Stadt
+Das Verhältnis zwischen Zoo und Stadt war in diesen ersten Nachkriegsjahren ambivalent. Die Stadt – die Bevölkerung wie die Behörden – unterstützten den Zoo in Futterfragen. Stets war etwa „ein Stamm von etwa 20 Kindern“ zur Stelle, die Kastanien und Eicheln für die Zootiere sammelte, was schnell auf 100 Zentner kam.[^Stadternähren15] 1948 forderte jedoch die Zentrale für Drogen und Wildfrüchte den Zoo auf, keine Kastanien mehr zu Fütterungszwecken sammeln zu lassen, weil diese für die Versorgung der Bevölkerung benötigt würden und weil menschliche Arbeitskraft eine wichtige Ressource war. Den Besucher\*innen wiederum, die Brot oder Kartoffelschalen für die Tiere brachten, war es verboten, auf dem Zoogelände Eicheln für den eigenen Bedarf zu sammeln. Kontrolleure durchsuchten an den Ausgängen die Taschen und Rucksäcke: „Wir holen zur Zeit an den Kassen täglich einige Zentner solcher den Besuchern wieder abgenommener Eicheln ab“, notierte die Zoodirektorin 1948.[^Stadternähren16] 
 
-xxxxxxxxxxxxxxxxJe nach Perspektive war der Zoo nun Umschlagplatz für den Austausch von Tieren und Wissen oder ein Ort illegaler Nahrungsbeschaffung; ein Teil der städtischen Versorgungsinfrastruktur oder eine Belastung für den Ernährungsplan der Stadt - eine Lage, die sich erst Anfang der 1950er Jahre Stück für Stück normalisierte. xxxxxxxxxxxxxxxxxxxxx
+In Punkto Ernährung waren Zoo und Stadt, Mensch und Tier miteinander eng verstrickt; sie leisteten sich gegenseitig Beistand, standen aber auch in Konkurrenz. Gerade in Zeiten der Not konkurrierten Mensch und Tier um die gleichen Ressourcen. Katharina Heinroth war dieses Dilemma bewusst: „Unsere Wärter holen mit rührendem Fleiss Kartoffelschalen aus halb Berlin zusammen. Diese werden aber auch seltener, da viele Menschen die Kartoffelschalen für ihren Eigen-Bedarf zusammensuchen, denn die Not ist gross. Ich kenne einige, die von Kartoffelschalen leben.”[^Stadternähren17] Je nach Perspektive war der Zoo also Umschlagplatz für den Austausch von Tieren und Wissen oder ein Ort illegaler Nahrungsbeschaffung; ein Teil der städtischen Versorgungsinfrastruktur oder eine Belastung für den Ernährungsplan der Stadt - eine Lage, die sich erst Anfang der 1950er Jahre Stück für Stück normalisierte.[^StadtErnähren18] Während die Zurschaustellung von Wildtieren im Stadtraum eigentlich die Hauptfunktion eines Zoos ist, kann sich, so zeigt sich hier, die Rolle der Institution wie auch Status und Bewertung der Tiere wandeln. Damit stellt sich auch die Frage, was für einen Zoo wir in Zukunft wollen. 
 
-Die Gemüsebeet verschwanden wieder, in Deutschland nahmen das Wirtschaftswunder und der Tierhandel an Fahrt auf und Katharina Heinroth konnte wieder über eine Vergrößerung des Tierbestands nachdenken[^StadtErnähren15] - im Sommer 1951 erhielt der Zoo einen neuen Elefanten. 
 
 
 
@@ -166,13 +165,13 @@ Die Gemüsebeet verschwanden wieder, in Deutschland nahmen das Wirtschaftswunder
 
 [^StadtErnähren14]: Dabei darf nicht vergessen werden, dass es der Zweite Weltkrieg war, der in ganz Europa viele Zoos mehr oder weniger schwer zerstört hatte. Während des Ersten und Zweiten Weltkrieges haben außerdem Truppenverbände der Reichswehr und der Wehrmacht Tiere in den eroberten Gebieten Europas gefangen und dem Zoologischen Garten der Reichshauptstadt übergeben. 1939 brachte Lutz Heck außerdem wertvolle Schautiere, darunter einen Elefanten, aus dem Warschauer Zoo für deutsche Zoos. Vgl. Szczygielska, Marianna. "Elephant Empire: Zoos and Colonial Encounters in Eastern Europe." _Cultural Studies_(2020): 1-22. https://doi.org/10.1080/09502386.2020.1780280; siehe auch [[story.Catching Animals]].
 
-[^StadtErnähren15]: Vgl. Katharina Heinroth: "Wir haben ja allerhand vor für das Frühjahr; die Gärtelei soll jetzt aufhören, denn die Ernährungsverhältnisse hier in Berlin haben sich ja für die Bevölkerung grundlegend gebessert, so dass man jetzt wieder Gemüse auf den Märkten zu kaufen bekommt. Wir können also nun wieder im Garten unsere Anlagen sehr schön herrichten." K. Heinroth an U. Bergman, 07.03.1950, AZGB N 4/12.
+[^StadtErnähren15]: Vgl. K. Heinroth an E. Schmidt, 13.10.1948, AZGB O 0/1/274. Der Nahrungsmittelmangel war bereits im Ersten Weltkrieg ein zentrales Thema für die Menschen wie auch für die Zootiere. Besonders im sogenannten „Steckrübenwinter“ 1916/17 gestaltete es sich schwierig, Getreide und Kartoffelprodukte zu erhalten, was für Unruhen und Plünderungen sorgte. Die Vorstellung, Tiere seien ein Nahrungskonkurrent des Menschen, führte dazu, dass Massenschlachtungen veranlasst wurden, die letztendlich die Situation aber eher verschlechterten. Vgl. Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript 2015.
 
+[^StadtErnähren16]: K. Heinroth an E. Schmidt, 13.10.1948, AZGB O 0/1/274.
 
+[^StadtErnähren17]: K. Heinroth an E. Mohr, 22.01.1946, AZGB N/4/12.
 
-
-
-
+[^Stadternähren18] Vgl. Katharina Heinroth: "Wir haben ja allerhand vor für das Frühjahr; die Gärtelei soll jetzt aufhören, denn die Ernährungsverhältnisse hier in Berlin haben sich ja für die Bevölkerung grundlegend gebessert, so dass man jetzt wieder Gemüse auf den Märkten zu kaufen bekommt. Wir können also nun wieder im Garten unsere Anlagen sehr schön herrichten." K. Heinroth an U. Bergman, 07.03.1950, AZGB N 4/12.
 
 
 
