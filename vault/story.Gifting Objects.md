@@ -2,7 +2,7 @@
 id: d5bfb12b-0b03-4038-bb71-687153ced047
 title: Gifting Objects
 desc: Put a description of this note here...
-updated: 1621951247484
+updated: 1622117438546
 created: 1619036239804
 title_de: Tiergeschenke
 desc_de: Put a DE description of this note here...
@@ -70,8 +70,6 @@ Das nachweislich älteste Tiere des Berliner Zoos war 2021 der Flamingo „Ingo.
 ## Beweise der Freundschaft und der Allianz
 
 ## Kollegiale Gaben
-
-Gönner mit Verbundenheit wie [[material.Hans Schomburgk]] oder Schillings
 
 manchmal freiwillig wie westdeutsche Geschenke an den Tierpark aber auch mal einfach, weil man sie nicht loswird [[material.Ernst Schäfer]]
 
