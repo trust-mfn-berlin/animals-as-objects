@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching 'Exotic' Animals
 desc: Put a description of this note here...
-updated: 1621951004575
+updated: 1622129707339
 created: 1618492547915
 title_de: Fang 'exotischer' Tiere
 desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen. Hinzu kamen von Zoos organisierte eigene Expeditionen und die Gelegenheitsgeschenke von Großwildjägern und Kolonialbeamten.
@@ -54,6 +54,11 @@ Zunächst aber kam der Tierfang in den deutschen Kolonien nur wenig in Schwung, 
 Für Schillings eine Begründung für die Forderung nach Kapital und Engagement, denn solch ein regelmäßiger Export aus den deutschen Kolonien sei im Interesse der Wissenschaft und von "nationalem Interesse".
 
 Es ist wichtig, sich in Erinnerung zu rufen, dass die Fänger bei einigen in Herden lebenden und gefährlichen Säugetieren, Herdenmitglieder oder Muttertiere für den Fang von Jungtieren töteten, um gefahrlos an die begehrten Jungtiere zu kommen. Schillings' Nashorn für den Berliner Zoo wurde eben auf diese Weise gefangen. Schillings hatte das Muttertier erschossen. Die Tötung einer Nashornkuh musste aber nicht zwingend zum Erfolg führen, denn die Jungtiere konnten durchaus fliehen. Sie verendeten dann sicher und der Jäger schoss ein anderes Tier bei der nächsten Gelegenheit.[^schillings2]
+
+Der Zoo kaufte für einen Extraetat von 20.000 Reichsmark das Tier (GB1904)
+1908 GB Blutvergiftung nach Pockenerkrankung
+
+
 Tierhändler hatten in der Regel Interesse an Jungtieren, da deren zu erwartende längere Lebensdauer einen höheren Preis erzielen würden. Auch waren jüngere und damit kleinere Tiere besser zu transportieren. Oft erwarteten die Händler und die Zoodirektoren, dass mit der Flasche aufgezogene oder zumindest im Kontakt mit Menschen aufwachsende Tiere leichter zu pflegen sein würden im Zwangssystem eines Zoos.
 
 Eine wesentliches Hindernis der Tierhändler aber auch aller Akteure, die Tiere aus den Ursprungsgebieten nach Europa brachten war die Gefahr, dass diese auf dem Transport sterben könnten. Wir haben keine akkuraten Zahlen über die Verluste, können aber davon ausgehen, dass diese insbesondere zu beginn noch groß waren. Die gefangenen Tiere mussten an Ort und Stelle mittels Käfigen, Gehegen, Grupen oder Schlingen und Ketten zunächst fixiert und gefangen gehalten werden, bis die Expedition beendet oder die gewünschte Anzahl Tiere gesammelt wurde.
