@@ -2,7 +2,7 @@
 id: f02cb0e0-9512-4a0f-8012-02969e9f97d0
 title: Bobby life
 desc: Put a description of this note here...
-updated: 1622120422213
+updated: 1622213065764
 created: 1620163729182
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -29,8 +29,9 @@ published: false
 
 ![description](images\cmw\Wegweiser_1935_Bobby.jpg)
 
-<!-- Bild des toten Gorilla >
+<!-- Bild des toten Gorilla -->
 
+## Fang
 
 -	Von Kamerun über Marseille nach Berlin
     Quellen: Bericht der Zugfahrt??
@@ -55,32 +56,49 @@ Schimpanse hatte beginnende Lungenentzündung.- Wiedervereinigung im Außenkäfi
 
 ernsthaftes "Wesen". 130
 
-**Mein Bobby ist tot**
 
-Bobby starb am 1. August 1935, Toto ging ihm einige Monate voran.- Eippe habe ihn am 29. März 1928 in Menschenaffenhaus gesetzt.- damals 15 Kg.- in den letzten Wochen Probleme, linke Hand nicht mehr aufgestützt.- 139
-
-er muss Kopfschmerzen gehabt haben, er presste immer seine Fäuste gegen die Schläfen.- verweigert Nahrung.- Liebetreu kann als einziger zu ihm herein.- Schwellungen an Hals und Rachen.- Mutter Liebetreu bringt Leckerbissen und trauert.- bewegt sich kaum noch.- 140
-
-Krämpfe , schaumiges Erbrechen.- Titine kommt zum "Trösten".- Folgen einer Angina.- Bobby erschreckte und begeisterte.- 141
-
-weitere Beschreibungen von Bobbys Körper und Verhalten.- 
-
-Angriff auf Wärter Stellvertreter Wilke als Schreckreaktion.- er sei aber nicht bösartig gewesen.- 144f
-
+Brandes über Aufzucht von Gorillas (104)
+"Für den Tiergärtner ist es von größtem Interesse, möglichst zuverlässige Anhaltspunkte über die normale Entwicklung der verschiedensten Tiere hinsichtlich Größe Gewicht, Zahndurchbruch, Zahnwechsel usw. zu haben. Ganz besonders gilt dieses für die wertvollsten Tiere, deren glückliche Aufzucht natürlich ein ungemein wichtiges, auch wirtschaftlich wichtige Problem ist, zumal wir gerade von solchen Tieren ur sehr lückenhafte Kenntnisse aus ihrem Freileben haben können. Hier sind in erster Linie zu nennen die Menschenaffen und von ihnen die am seltensten in Europa zur Pflege gelangten Gorillas. Jeder Gorilla, der - sei es in seiner Heimat Afrika, sei es in Europa oder Amerika gepflegt wurde und zur Zeit gepflegt wird- war entweder der erschossenen Mutter von der Brust genommen oder oder bei sonst einer günstigen Gelegenheit als Kind gefangen worden. Nur ganz wenige haben von diesen haben bisher längere Zeit in der Gefangenschaftausgehalten, ... [^brandes1]
 
 
 * 1928 etwa zweijährig durch die Tierhandlung Ruhe, Alfeld, nach Berlin
 
-
--	Care im Zoo 
+## Leben im Zoo 
 	Gewicht
-- Bild der Gewichtstafel am Gehege - immer wieder die Erwähnung, dass er der erste Gorilla war, der in einem Zoo erwachsen wurde
+- Bild der Gewichtstafel am Gehege - immer wieder die Erwähnung, dass er der erste Gorilla war, der in einem Zoo erwachsen wurde --> Eipper, Paul. „Der Gorilla Bobby“. _Kölnische Illustrierte Zeitung_, 13. Juli 1935. In AZGB mit Bild des Gewichtsschildes am Käfig
+
+"Wollen wir Tiergärtner eine Lehre aus diesem Ergebnis ziehen, so ist es die, daß der Gorilla sehr reichlich gefüttert werden muß; denn ein so rapides Wachstum, wie es sich hier findet erfordert natürlich auch reichliches Heiz- und Baumaterial."[^brandes2] (Brandes, 116) Liegt hier der Grund für die Verfettung?
 	…
--	Tod
-    - Geschäftsberichte zeigen den Verlust - Extraerwähnung - Zeitungsarchiv checken
+
+
+## Tod
+
+**Eipper Mein Bobby ist tot**
+
+Bobby starb am 1. August 1935, Toto ging ihm einige Monate voran.- Eippe habe ihn am 29. März 1928 in Menschenaffenhaus gesetzt.- damals 15 Kg.- in den letzten Wochen Probleme, linke Hand nicht mehr aufgestützt.- 139
+er muss Kopfschmerzen gehabt haben, er presste immer seine Fäuste gegen die Schläfen.- verweigert Nahrung.- Liebetreu kann als einziger zu ihm herein.- Schwellungen an Hals und Rachen.- Mutter Liebetreu bringt Leckerbissen und trauert.- bewegt sich kaum noch.- 140
+Krämpfe , schaumiges Erbrechen.- Titine kommt zum "Trösten".- Folgen einer Angina.- Bobby erschreckte und begeisterte.- 141
+weitere Beschreibungen von Bobbys Körper und Verhalten.- 
+Angriff auf Wärter Stellvertreter Wilke als Schreckreaktion.- er sei aber nicht bösartig gewesen.- 144f
+
+## Bedeutung für den Zoo
+
+   - Geschäftsberichte zeigen den Verlust - Extraerwähnung - Zeitungsarchiv checken
 	Quellen: Fotografien im Zoo
 -	Obduktion
 	Quellen: Bericht + Fotografien
+
+
+## Pathologie
+
+Koch, Walter. Bericht über das Ergebnis der Obduktion des Gorilla Bobby des Zoologischen Gartens zu Berlin. Ein Beitrag zur vergleichenden Konstitutionspathologie. Jena: Gustav Fischer Verlag, 1937.
+
+Rümmler, Hans. „2. Niederschriften der wissenschaftlichen Sitzungen im Jahre 1935“. Herausgegeben von Deutsche Gesellschaft für Säugetierkunde. Zeitschrift für Säugetierkunde 12 (1937): 24–37.
+———. „3. Führungen usw. im Jahre 1935“. Herausgegeben von Deutsche Gesellschaft für Säugetierkunde. Zeitschrift für Säugetierkunde 12 (1937).
+———. „Bericht über die 10. Hauptversammlung“. Herausgegeben von Deutsche Gesellschaft für Säugetierkunde. Zeitschrift für Säugetierkunde 12 (1937).
+
+## "Spreading"
+
 -	Spreading: 
 -	Dermoplastik MfN
 	Quellen: Bericht?? Fotos Präparation
@@ -90,28 +108,23 @@ Angriff auf Wärter Stellvertreter Wilke als Schreckreaktion.- er sei aber nicht
 	Hand- und Fuß in Naßsammlung
 -	Abgüsse
 	Anatomische Sammlung Charité
-	Totenmasken > wo überall?? (in meinem Büro ;-)
+
+## Erinnerung
+
+	Totenmasken > wo überall?? (in meinem Büro ;-) Würde diese aus dem "Spreading" herausnehmen, die meisten zumindest, sie sind vielleicht eher Erinnerungen und nicht naturkundliche Objekte in anderen Zusammenhängen, außer natürlich einige wie die im Affenhaus heute
 -	Statuen, Logos…
-
 -	Nachkriegszeit bis heute
-
-## Literatur
-
-Brandes, Gustav. „Wichtige Daten über das Heranwachsen des Gorilla“. _Der Zoologische Garte_n_ 3, Nr. 4/8 (1930): 104–16.
-
-Eipper, Paul. „Der Gorilla Bobby“. _Kölnische Illustrierte Zeitung_, 13. Juli 1935. In AZGB mit Bild des Gewichtsschildes am Käfig
-
-Koch, Walter. Bericht über das Ergebnis der Obduktion des Gorilla Bobby des Zoologischen Gartens zu Berlin. Ein Beitrag zur vergleichenden Konstitutionspathologie. Jena: Gustav Fischer Verlag, 1937.
-
-Newman, James L. Encountering Gorillas: A Chronicle of Discovery, Exploitation, Understanding, and Survival. Lanham, Boulder, New York, Toronto, Plymouth: Rowman & Littlefield, 2013.
 
 Das Berliner Zoo-Album. Fotos Friedrich Seidenstücker. Berlin: Nicolai, 1984. Bilder mit Bobby (36f)
 
-Rümmler, Hans. „2. Niederschriften der wissenschaftlichen Sitzungen im Jahre 1935“. Herausgegeben von Deutsche Gesellschaft für Säugetierkunde. Zeitschrift für Säugetierkunde 12 (1937): 24–37.
-———. „3. Führungen usw. im Jahre 1935“. Herausgegeben von Deutsche Gesellschaft für Säugetierkunde. Zeitschrift für Säugetierkunde 12 (1937).
-———. „Bericht über die 10. Hauptversammlung“. Herausgegeben von Deutsche Gesellschaft für Säugetierkunde. Zeitschrift für Säugetierkunde 12 (1937).
-
 Welzbacher, Christian. Bobby. Requiem für einen Gorilla. Berlin: MSB Matthes & Seitz Berlin Verlagsgesellschaft, 2019.
+
+
+Newman, James L. Encountering Gorillas: A Chronicle of Discovery, Exploitation, Understanding, and Survival. Lanham, Boulder, New York, Toronto, Plymouth: Rowman & Littlefield, 2013.
+
+
+
+
 
 „‚Bobby‘ trinkt Malzbier“. Neue Zeit, 18. Juli 1935.
 
@@ -119,3 +132,7 @@ Welzbacher, Christian. Bobby. Requiem für einen Gorilla. Berlin: MSB Matthes & 
 
 ---
 ## Footnotes
+
+[^brandes1]: Brandes, Gustav. „Wichtige Daten über das Heranwachsen des Gorilla“. _Der Zoologische Garten_ 3, Nr. 4/8 (1930): 104–16, 104.
+
+[^brandes2]: Brandes, Gustav. „Wichtige Daten über das Heranwachsen des Gorilla“. _Der Zoologische Garten_ 3, Nr. 4/8 (1930): 104–16, 116.
