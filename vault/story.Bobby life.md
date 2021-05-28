@@ -2,7 +2,7 @@
 id: f02cb0e0-9512-4a0f-8012-02969e9f97d0
 title: Bobby life
 desc: Put a description of this note here...
-updated: 1622213065764
+updated: 1622213743392
 created: 1620163729182
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -87,6 +87,8 @@ Angriff auf Wärter Stellvertreter Wilke als Schreckreaktion.- er sei aber nicht
 	Quellen: Fotografien im Zoo
 -	Obduktion
 	Quellen: Bericht + Fotografien
+
+"Bobby" war nicht der einzige und auch nicht der erfolgreichste: Bamboo wurde im August 1927 in den Zoo in Philadelphia gebracht und lebte dort länger als die "zehn" Jahre von Bobby (Author ist also misinformiert), bis dahin hätten Gorillas in den USA immer nur ein jahr gelebt. Bobby hätte einen "mean streak" gehabt. (leider keine Quelle) Newman, James L. Encountering Gorillas: A Chronicle of Discovery, Exploitation, Understanding, and Survival. Lanham, Boulder, New York, Toronto, Plymouth: Rowman & Littlefield, 2013: 120.
 
 
 ## Pathologie
