@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching 'Exotic' Animals
 desc: Put a description of this note here...
-updated: 1622566650322
+updated: 1622568469850
 created: 1618492547915
 title_de: Fang 'exotischer' Tiere
 desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen.
@@ -23,11 +23,18 @@ English content goes here.
  
 Für den **größten Teil** der etwas mehr als **250 Jahre**, in denen moderne Zoos existieren, wurde die Mehrheit der **Tiere in allen Zoos weltweit direkt aus der Wildbahn entnommen**. Das bedeutete, sie wurden in den Habitaten in denen sie geboren, oder in die sie migriert waren, durch Jäger gefangen, um dann ausgestellt zu werden.
 **Die Jäger waren lokale Amateure oder Profis  oder aber auch speziell ausgesandte Jäger, die entweder von einer Firma bezahlt wurden oder auf eigene Rechnung die Tiere fingen und sie dann anboten.**
-Auch Museumspräparate wurden entweder zunächst gefangen oder getötet. Wenn sie nicht mit Büchse oder Bogen aus der Entfernung geschossen wurden, wurden diese Tiere in Fallen gefangen und dann zumeist vor Ort so getötet, dass die Tötung möglichst wenige Spuren an dem Fell, Gefieder, der Haut oder dem Skelet hinterließ. Auf die Akquise von Museumspräparaten wird im Abschnitt "Sammeln" [[story.Collecting Specimen]] noch stärker eingegangen werden.
+Auch Museumspräparate wurden entweder zunächst gefangen oder getötet. Wenn sie nicht mit Büchse oder Bogen aus der Entfernung geschossen wurden, wurden diese Tiere in Fallen gefangen und dann zumeist vor Ort so getötet, dass die Tötung möglichst wenige Spuren an dem Fell, Gefieder, der Haut oder dem Skelet hinterließ. Auf die Akquise von Museumspräparaten wird im Abschnitt [[Spezimen|story.Collecting Specimen]] noch stärker eingegangen werden.
  
 ## Frühe Tierimporte
  
-Einheimische Tiere konnten von Jägern selbst gefangen oder aber von anderen gekauft und über kürzere Distanzen transportiert werden. Anders war das mit den Tieren, die in Europa als Exoten galten, also Tieren aus anderen Kontinenten und Klimazonen. Ihre Ausstellung in Europa ist eng mit der Entwicklung eines **Welthandels** verknüpft, die unter den Bedingungen europäischer Hegemonie und **europäischen Imperialismus** verlief. Seine Wurzeln gehen einige  Jahrhunderte zurück. Viele der ersten in Europa in den sogenannten Wandermenagerien oder den fürstlichen Menagerien ausgestellten Tiere waren 'Einzelfänge'. 'Exotische' Tiere wurden in den Herkunftsregionen von lokalen Herrschern als **Statussymbole** geschätzt und Europäern verkauft oder geschenkt.[^earlytrade1] Mehr dazu kann in der story zu Tieren oder Tierobjekten als Geschenke gelesen werden. [[story.Gifting Objects] Die beiden Elefantenbullen "Rostom" und "Omar" waren Geschenke des Prince of Wales und späteren König Edwar VII. für seinen Neffen Kaiser Wilhelm II. 1881 aus dem britisch beherrschten Indien.
+Einheimische Tiere konnten von Jägern selbst gefangen oder aber von anderen gekauft und über kürzere Distanzen transportiert werden. Anders verhielt sich das mit den Tieren, die in Europa als Exoten galten, also Tieren aus anderen Kontinenten und Klimazonen. Ihre Ausstellung in Europa ist eng mit der Entwicklung eines **Welthandels** verknüpft, die unter den Bedingungen europäischer Hegemonie und **europäischen Imperialismus** verlief.
+Viele der ersten in Europa in den sogenannten Wandermenagerien oder den fürstlichen Menagerien ausgestellten Tiere waren 'Einzelfänge'. 'Exotische' Tiere wurden in den Herkunftsregionen von lokalen Herrschern als **Statussymbole** geschätzt und Europäern verkauft oder geschenkt.[^earlytrade1] Mehr dazu bei [[Tiergeschenke|story.Gifting Objects]]. Frühe Beispiele in Berlin hierfür 
+
+Um kostengünstig an dringend benötigte 'exotische' Tiere zu kommen, beschloss der Vorstand im Sommer 1845 angesichts seiner Geldknappheit, die Königlich Preußischen Konsuln in den wichtigsten auswärtigen Handels- und Küstenstädten zur Schenkung von Tieren aufzufordern.[^konsuln1] Das Ergebnis ist leider nicht überliefert aber der Zoo hatte sich so in Erinnerung gebracht und 1852 kamen 35 Tiere, größtenteils Geschenke, in einem großen Transport. Die Transport- und Futterkosten sowie die notwendigen neuen Käfige kosteten den Zoo dennoch mehrere Tausend Taler. Der Transport wurde vom
+preußischen Generalkonsul in Kairo Baron von
+Pentz organisiert.[^konsuln2]
+
+Die beiden Elefantenbullen des Berliner Zoologischen Gartens in den 1880er Jahren, "Rostom" und "Omar", waren Geschenke des Prince of Wales und späteren König Edwar VII. für seinen Neffen Kaiser Wilhelm II. 1881 aus dem britisch beherrschten Indien.
  
 ![Zwei Elefanten und drei Pfleger](images\cmw\Elefant_Omar.jpg)
 *Die beiden asiatischen Elefantenbullen "Rostom" und "Omar", um 1885. "Rostom" hatte untypischerweise keine Stoßzähne. (AZGB)*
@@ -203,3 +210,7 @@ ____
 [^hanson]: Hanson, Elizabeth. _Animal attractions: nature on display in American zoos_. Princeton, N.J: Princeton University Press, 2002: 71, 73.
  
 [^schillings2]: Schillings, 1905, 190-197.
+
+[^konsuln1]: Vorstandsprotokoll, 28. 08. 1845, AZGB O 0/1/76.
+
+[^konsuln2]: Protokoll der Generalversammlung, 01. 06. 1852, AZGB O 0/1/62.

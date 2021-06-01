@@ -2,7 +2,7 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1622565681054
+updated: 1622567677217
 created: 1618576718116
 title_de: Knut
 desc_de: Der 2006 geborene Eisbär "Knut" entwickelte eine bis dahin für ein einzelnes Zootier ungekannte Popularität. Medien und Zooleitung machten ihn zu einem 'Botschafter' der Klimakrise, die das Habitat der Eisbären bedrohte. Die starke Übertragung von Emotionen von Besucher\*innen und Fans in aller Welt auf das Tier wirkte über seinen Tod hinaus.
@@ -55,6 +55,8 @@ Hinzu kam nun aber auch ein besonderes Timing. "Knuts" Geburt geschah zu einem Z
 
 ![Kinderbild eines Eisbären](images/cmw/Knut_Agatha_CooperStationNY.jpg)
 *Knut wurde weltweit berühmt, sogar Kinder aus Cooper Station, NY in den USA schrieben ihm Briefe mit selbstgemalten Bildern. (AZGB)*
+
+Der Lichtkünstler Gerry Hofstetter nahm Motive von Knut in seine Installation "Light Art Expedition 'Knut' 2007" auf und projezierte sie an Eisformationen in der Arktis.[^light1]
 
 ## Die Marke "Knut"
 
@@ -196,3 +198,5 @@ Und wiederholt hat sich solch eine anhaltende Begeisterung für ein Zootier bish
 [^leipzig4]: Krögel, Anette. "Wird Knut ein Problembär?", Der Tagesspiegel online, 20.03.2007, https://www.tagesspiegel.de/berlin/wird-knut-ein-problembaer/824706.html (01.06.2021).
 
 [^leipzig5]: "Eisbärbaby Knut entkommt der Todesspritze", Welt online, 19.03.2007, https://www.welt.de/vermischtes/article768024/Eisbaerbaby-Knut-entkommt-der-Todesspritze.html (01.06.2021).
+
+[^light]: Bilder hiervon unter Gerry Hofstetter. Hofstetter-Marketing, http://www.hofstetter-marketing.com/lightart_expeditions_galerie_8.html (01.06.2007).
