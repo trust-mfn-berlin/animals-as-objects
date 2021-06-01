@@ -5,7 +5,9 @@
       <li>
         <text-button :linkto="rootUrl">Animals as Objects?</text-button>
       </li>
-      <li class="flex-spacer"></li>
+    </ul>
+      <!-- <li class="flex-spacer"></li> -->
+    <ul>
       <li>
         <Searchbar />
       </li>
@@ -84,6 +86,9 @@ nav{
   left:@space-s;
   width: calc(100vw - @space-s*2);
   z-index: @z-nav;
+
+  display: flex;
+  justify-content: space-between;
 
   li{
     list-style-type: none;

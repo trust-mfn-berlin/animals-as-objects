@@ -1,12 +1,13 @@
 <template>
-  <div role="search" aria-label="Find articles on this website">
+  <div class="searchbar-container" role="search" aria-label="Find articles on this website">
     <input
+      class="f-mono subheading"
       v-model="searchQuery"
       type="search"
       autocomplete="off"
       placeholder="Search Articles"
     />
-    <ul v-if="articles.length">
+    <ul class="searchbar-results" v-if="articles.length">
       <li v-for="article of articles" :key="article.slug">
         <NuxtLink :to="article.slug">
           {{ article.title }}
@@ -42,4 +43,59 @@ export default {
 
 <style lang="less" scoped>
 
+.searchbar-container{
+  width: 1000px;
+  background-color: @white;
+  box-shadow: @shadow;
+  border-radius: @radius-s;
+
+  position: relative;
+  border: none;
+  margin: 0;
+  
+  &:hover{
+    box-shadow: @shadow-hover;
+  }
+  
+  &:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: -1px;
+    bottom: -1px;
+    left: -1px;
+    right: -1px;
+    border-radius: calc(@radius-s + 1px);
+    border: @border-button;
+    pointer-events: none;
+  }
+
+  &:focus{
+    box-shadow: @shadow-focus;
+  }
+
+  &:focus:after{
+    border: @border-button-focus;
+  }
+}
+
+input[type='search']{
+  padding: 0.625rem 0.8rem 0.7rem;
+  border: none;
+  border-radius: @radius-s;
+  // padding: 0;
+  margin: 0;
+  width:100%
+}
+
+.searchbar-results{
+  padding: 0.625rem 0.8rem 0.7rem;
+
+  li{
+    list-style-type: none;
+    &:hover{
+      text-decoration: underline;
+    }
+  }
+}
 </style>

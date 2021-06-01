@@ -20,18 +20,19 @@ export default {
 
 <style lang="less" scoped>
 .text-button{
+  display: block;
   padding: 0.625rem 0.8rem 0.7rem;
   background-color: @white;
-  // border: @border-button;
   box-shadow: @shadow;
   border-radius: @radius-s;
 
   position: relative;
   
   &:hover{
-    box-shadow: @shadow-focus;
+    box-shadow: @shadow-hover;
   }
-  
+
+
   &:after {
     content: '';
     display: block;
@@ -42,6 +43,14 @@ export default {
     right: -1px;
     border-radius: calc(@radius-s + 1px);
     border: @border-button;
+  }
+
+  &:focus{
+    box-shadow: @shadow-focus;
+  }
+
+  &:focus:after{
+    border: @border-button-focus
   }
 }
 </style>
