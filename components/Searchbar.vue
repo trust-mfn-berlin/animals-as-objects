@@ -9,7 +9,7 @@
     />
     <ul class="searchbar-results" v-if="articles.length">
       <li v-for="article of articles" :key="article.slug">
-        <NuxtLink :to="article.slug">
+        <NuxtLink :to="article.slug" @click.native="closeSearchBar">
           {{ article.title }}
         </NuxtLink>
       </li>
@@ -29,6 +29,11 @@ export default {
   methods:{
     expandSearchBar(){
       this.$store.commit('toggleSearchBar', true)
+    },
+    closeSearchBar(){
+      console.log('alert');
+      this.$store.commit('toggleSearchBar', false)
+      this.articles = []
     }
   },
   watch: {
@@ -38,7 +43,7 @@ export default {
         return
       }
       this.articles = await this.$content()
-        .limit(6)
+        .limit(12)
         .search(searchQuery)
         .fetch()
     }
