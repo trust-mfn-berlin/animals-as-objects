@@ -1,5 +1,5 @@
 <template>
-  <div class="searchbar-container" role="search" aria-label="Find articles on this website">
+  <div class="searchbar-container" role="search" aria-label="Find articles on this website" @click="expandSearchBar">
     <input
       class="f-mono subheading"
       v-model="searchQuery"
@@ -24,6 +24,11 @@ export default {
     return{
       searchQuery:'',
       articles: []
+    }
+  },
+  methods:{
+    expandSearchBar(){
+      this.$store.commit('toggleSearchBar', true)
     }
   },
   watch: {

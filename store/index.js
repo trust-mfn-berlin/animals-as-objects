@@ -10,7 +10,8 @@ const createStore = () => {
     state: {
       loadedPages: [],
       siteLanguage: defaultLanguage,
-      currentPathway: []
+      currentPathway: [],
+      searchBarIsOpen: false
     },
     mutations: {
       setPages(state, pages) {
@@ -24,6 +25,9 @@ const createStore = () => {
         console.log('Path added: ' + path);
         state.currentPathway.push(path);
       },
+      toggleSearchBar(state, isOpen){
+        state.searchBarIsOpen = isOpen
+      }
     },
     actions: {
       async nuxtServerInit(vuexContext, context) {
@@ -41,6 +45,9 @@ const createStore = () => {
       currentPathway(state) {
         return state.currentPathway
       },
+      isSearchBarOpen(state){
+        return state.searchBarIsOpen
+      }
     }
   })
 }

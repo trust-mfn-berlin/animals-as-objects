@@ -1,13 +1,13 @@
 <template>
   <header>
   <nav aria-label="Main">
-    <ul>
+    <ul class="secondary">
       <li>
         <text-button :linkto="rootUrl">Animals as Objects?</text-button>
       </li>
     </ul>
-    <ul>
-      <li>
+    <ul class="primary" :class="{open : isSearchBarOpen}">
+      <li :class="{open : isSearchBarOpen}">
         <Searchbar />
       </li>
       <li>
@@ -33,6 +33,9 @@ export default {
     textButton
   },
   computed:{
+    isSearchBarOpen(){
+      return this.$store.getters.isSearchBarOpen
+    },
     siteLang(){
       return this.$store.getters.siteLanguage
     },
@@ -85,6 +88,7 @@ nav{
   left:@space-s;
   width: calc(100vw - @space-s*2);
   z-index: @z-nav;
+  gap: @space-xs;
 
   display: flex;
   justify-content: space-between;
@@ -100,5 +104,11 @@ nav{
     gap: @space-xs;
 
   }
+
+
+}
+
+.open{
+  flex-grow: 1;
 }
 </style>
