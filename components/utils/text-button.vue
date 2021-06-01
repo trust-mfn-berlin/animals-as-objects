@@ -32,6 +32,10 @@ export default {
     box-shadow: @shadow-hover;
   }
 
+  &:hover:after{
+    border: @border-button-focus
+  }
+
 
   &:after {
     content: '';

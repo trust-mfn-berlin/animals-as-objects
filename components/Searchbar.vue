@@ -44,7 +44,7 @@ export default {
 <style lang="less" scoped>
 
 .searchbar-container{
-  width: 1000px;
+  width: 100%;
   background-color: @white;
   box-shadow: @shadow;
   border-radius: @radius-s;
@@ -55,6 +55,10 @@ export default {
   
   &:hover{
     box-shadow: @shadow-hover;
+  }
+
+  &:hover:after{
+    border: @border-button-focus;
   }
   
   &:after {

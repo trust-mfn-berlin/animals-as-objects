@@ -6,7 +6,6 @@
         <text-button :linkto="rootUrl">Animals as Objects?</text-button>
       </li>
     </ul>
-      <!-- <li class="flex-spacer"></li> -->
     <ul>
       <li>
         <Searchbar />
