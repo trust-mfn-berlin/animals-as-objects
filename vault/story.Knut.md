@@ -2,10 +2,10 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1621969167998
+updated: 1622562181600
 created: 1618576718116
 title_de: Knut
-desc_de: Der 2006 geborene Eisbär "Knut" entwickelte einen bis dahin ungekannten Popularität eines einzelnen Zootiers. Medien und Zooleitung machten ihn zu einem 'Botschafter' der Klimakrise, die das Habitat der Eisbären bedrohte. Die starke Übertragung von Emotionen von Besucher\*innen und Fans in aller Welt auf das Tier wirkte über seinen Tod hinaus.
+desc_de: Der 2006 geborene Eisbär "Knut" entwickelte eine bis dahin für ein einzelnes Zootier ungekannte Popularität. Medien und Zooleitung machten ihn zu einem 'Botschafter' der Klimakrise, die das Habitat der Eisbären bedrohte. Die starke Übertragung von Emotionen von Besucher\*innen und Fans in aller Welt auf das Tier wirkte über seinen Tod hinaus.
 author: CMW
 tao_type: story
 cover_image: null
@@ -21,22 +21,26 @@ English content goes here.
 
 **Clemens Maier-Wolthausen**
 
-Am **5. Dezember 2006** gegen 15.00 Uhr brachte die Eisbärin "Tosca" zwei Jungtiere zur Welt. Nach kurzer Zeit stellte sich heraus, dass das Muttertier keine Anzeichen einer pflegenden Fürsorge zeigte. **Eines der Jungtiere starb.** Das andere aber wurde aus dem Gehege entfernt und wurde **erfolgreich mit der Flasche** versorgt.[^birth1]
+Am **5. Dezember 2006** gegen 15.00 Uhr brachte die Eisbärin "Tosca" zwei Jungtiere zur Welt. Nach kurzer Zeit stellte sich heraus, dass das Muttertier keine Anzeichen einer pflegenden Fürsorge zeigte. **Eines der Jungtiere starb.** Das andere aber wurde aus dem Gehege entfernt und wurde **erfolgreich mit der Flasche** versorgt.[^birth1] Die Pfleger und Kuratoren gaben ihm den Namen "Knut". 
+Damals war so eine Geschichte einer Tiergeburt und die Versorgung mit der Flasche kein ungewöhnlicher Vorgang in Zoos. Aber aus verschiedenen Gründen wurde das Eisbärenjunge bald sehr bekannt. An "Knut" lassen sich verschieden mit Zoos verbundene Phänomene beschreiben.
 
 ![desc](images/cmw/Knut_March07_Griesbach.jpg)
 *Der junge "Knut" bei ersten Erkundungen eines Außengeheges, 2007. (AZGB, Foto Griesbach)*
 
 ## A star is born!
 
-Eigentlich kein ungewöhnlicher Vorgang in Zoos. Aber aus verschiedenen Gründen wurde die Geschichte des Eisbärenjungen bald sehr bekannt. Einen großen Anteil hatten daran die Medien, insbesondere die lokale ARD-Anstalt **Rundfunk Berlin-Brandenburg** (RBB). Diese informierte ihre Hörer\*innen **täglich mit Nachrichten aus dem Zoo über den Zustand des kleinen Bären und die Beziehung zu dessen Pfleger Thomas Dörflein.** Dazu nutzte der RBB unter 'www.rbb-online.de/knut' das damals noch relativ neue Medium eines weblog/blog, um die Berliner\*innen über die Entwicklung des Eisbärenjungen zu informieren. Dieser hatte maßgeblichen Anteil an "Knuts" Popularität.[^star1]
+Einen großen Anteil an der sich entwickelnden Popularität des Tieres hatten die Medien, insbesondere die lokale ARD-Anstalt **Rundfunk Berlin-Brandenburg** (RBB). Schon als das Tier noch gar nicht offiziell vorgestellt worden war und noch hinter den Kulissen versorgt wurde informierte der RBB seine Hörer\*innen **täglich mit Nachrichten aus dem Zoo über den Zustand des kleinen Bären und die Beziehung zu dessen Pfleger Thomas Dörflein.** Dazu nutzte der RBB unter 'www.rbb-online.de/knut' das damals noch relativ neue Medium eines weblog/blog, um die Berliner\*innen über die Entwicklung des Eisbärenjungen zu informieren. Diese täglichen updates auf einer 'eigenen Website' hatten maßgeblichen Anteil an "Knuts" wachsender Berühmtheit.[^star1]
 
-Die beiden waren ein Team wie für die Medien gemacht. Hier die tapsige weiße Fellkugel, dort der kernige, bärtige und stille Pfleger, der bei seinem Pflegling einzog und ihm angeblich auf der Gitarre Lieder von Elvis Presley vorspielte.
+Das Tier "Knut" und sein Pfleger Thomas Dörflein waren ein Team wie für die Medien gemacht. Hier die tapsige weiße Fellkugel, dort der kernige, bärtige und stille Pfleger, der bei seinem Pflegling einzog und ihm angeblich auf der Gitarre Lieder von Elvis Presley vorspielte.
 
 ![desc](images/cmw/Knut_Dorflein_March07_Broseke.jpg)
 *Pfleger Thomas Dörflein und der nur wenige Monate alte "Knut", 2007. (AZGB, Foto Bröseke)*
 
 Aber weder dieses 'Traumpaar' aus medialer Sicht, noch die Geschichte der Geburt allein können den folgenden **'Hype' um "Knut"** nicht allein erklären.
 
+## Diskussionen um die Handaufzucht
+
+Eine weitere Komponente für den 'Hype' um Knut war die durch eine Tötung Lippenbärenjungen im Leipziger Zoo ausgelöste Diskussion um Haltungspraktiken in Zoos und die Tötung von Jungtieren. In Leipzig gebar eine Lippenbärin nur wenige Wochen nach "Knuts" Geburt ein Jungtier, welches sie nicht annahm. Der Zoodirektor und sein Team entschlossen sich aber anders als in Berlin für die Tötung des Jungtiers, nachdem einige Versuche, die Mutter zur Pflege zu motivieren und mittels Muttermild einer Hündindas Jungtier zu ernähren fehlschlugen. Nach Ansicht der Zooleitung in Leipzig wäre das Jungtier in wenigen Stunden unter Qualen gestorben und sie entschloss sich zur Tötung des Tieres mittels 'Einschläferung'.[^leipzig1] Daraufhin stellten Tierschützer Strafanzeige gegen den Zoo Leipzig und die 
 ## Botschafter des Klimaschutzes
 
 ![desc](images/cmw/Dorflein_Gabriel_Blaszkiewitz_230307_Broseke.jpg)
@@ -55,6 +59,8 @@ Der Zoo wollte das rege Interesse an dem Bären nutzen, finanziell und für den 
 *Titelseite der deutschen Ausgabe der Zeitschrift Vanity Fair, Nr 14 von 2007*
 
 "Knut" zog, als er nach einigen Monaten schon ein Eisbär-"Teenager" wurde viele Schaulistige an. Als Zoodirektor Bernhard Blaszkiewitz die Entscheidung traf, Pfleger Thomas Dörflein aus Sicherheitsgründen den Nahkontakt mit dem nun bereits gefährlichen Bären zu untersagen, wurde dieser Entschluss von den "Knutfans" und Dörflein kritisiert.
+
+Dem Wert der 'marke Knut' tat das keinen Abbruch. Im März 2007 schätzte ein Experte den Wert der marke auf sieben bis 13 Millionen Euro.[^trademark4] Das landesweite Medienecho und die hohen Besucherzahlen verdoppelten den Kaufpreis der in jener Zeit gehandelten Zoo-Aktien.[^trademark5]
 
 ## "Knut" stirbt
 
@@ -160,6 +166,10 @@ Und wiederholt hat sich solch eine anhaltende Begeisterung für ein Zootier bish
 
 [^trademark3]: "Knut und seine Freunde", Regie: Michael G. Johnson, Produktion: DOKfilm Fernsehproduktion GmbH, Norddeutscher Rundfunk, Rundfunk Berlin Brandenburg, 2008.
 
+[^trademark4]: "Als Marke ist Knut Millionen wert". Spiegel online, 31.03.2007, https://www.spiegel.de/panorama/gesellschaft/berliner-eisbaerenbaby-als-marke-ist-knut-millionen-wert-a-475021.html (01.06.2021).
+
+[^trademark5]: "Knut begeistert Aktionäre", Spiegel online, 03.04.2021, https://www.spiegel.de/wirtschaft/berliner-zoo-knut-begeistert-aktionaere-a-475415.html (01.06.2021).
+
 [^forever2]: RBB: "Presseinformation 072/2007 vom 23.03.2007: Neu im Programm: „Knut!“, https://www.rbb-online.de/unternehmen/presse/presseinformationen/pressearchiv/2007/neu_im_programm_0.html (07.05.2021); Flinterud, Guro. „A Polyphonic Polar Bear. Animal and Celebrity in Twenty-first Century Popular Culture“. University of Oslo, Faculty of Humanities, 2012.; dies. „Child Stars at the Zoo: The Rise and Fall of Polar Bear Knut“. In _Zoo-Studies. A New Humanities_, herausgegeben von Tracy McDonald und Daniel Vandersommers, 191–210. Montreal & Kingston, London, Chicago: McGill-Queen’s University Press, 2019.
 
 [^star1]: Flinterud, Guro, und Adam Dodd. „Polar Bear Knut and his Blog“. In _Animals on Display. The Creaturely in Museums, Zoos and Natural History_, herausgegeben von Liv Emma Thorsen und Karen A. Rader. University Park, PA: The Pennsylvania State University Press, 2013.
@@ -172,3 +182,4 @@ Und wiederholt hat sich solch eine anhaltende Begeisterung für ein Zootier bish
 
 [^wessely]: Vgl. Wessely, Christina. _Künstliche Tiere. Zoologische Gärten und urbane Moderne_. Kaleidogramme. Berlin: Kadmos, 2008: 53-74 u. 93-113.
 
+[^leipzig1]: "Leipziger Zoo: Tötung eines kleinen Lippenbären löst Empörung aus", Zeit online, 29.12.2006, https://www.zeit.de/news/artikel/2006/12/29/86326.xml (01.06.2021).
