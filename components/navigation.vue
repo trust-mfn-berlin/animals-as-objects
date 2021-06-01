@@ -7,7 +7,7 @@
       </li>
       <li class="flex-spacer"></li>
       <li>
-        <text-button :linkto="rootUrl">Search</text-button>
+        <Searchbar />
       </li>
       <li>
         <text-button linkto="/index">Index</text-button>
@@ -25,9 +25,12 @@
 
 <script>
 import textButton from './utils/text-button.vue'
+
 export default {
-  components: { textButton },
   name:'navigation',
+  components:{
+    textButton
+  },
   computed:{
     siteLang(){
       return this.$store.getters.siteLanguage
