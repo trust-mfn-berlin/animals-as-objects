@@ -14,6 +14,9 @@ h2{
   font-size: @fs-l;
 }
 
+p{
+  margin-bottom: 1rem;
+}
 
 .quote{
   font-size: @fs-s;
@@ -28,4 +31,27 @@ h2{
 .subheading{
   font-size: @fs-s;
   line-height: @lh-short;
+}
+
+sup{
+  top:0rem;
+  background-color: @white;
+  padding: 0.4rem 0.5rem 0.3rem;
+  font-size: @fs-s;
+  margin: 0 @space-xs;
+  box-shadow: @small-shadow;
+
+  .footnote-ref{
+    width: 0px;
+    height: 0px;
+    overflow: hidden; 
+    display: inline-block;
+  }
+  &::after{
+    // border:1px solid blue;
+    display: inline-block;
+    width: auto;
+    height: auto;
+    overflow: visible;
+  }
 }

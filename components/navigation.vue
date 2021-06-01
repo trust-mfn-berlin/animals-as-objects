@@ -1,4 +1,5 @@
 <template>
+  <header>
   <nav aria-label="Main">
     <ul>
       <li>
@@ -19,6 +20,7 @@
       </li>
     </ul>
   </nav>
+  </header>
 </template>
 
 <script>
@@ -68,6 +70,10 @@ export default {
 </script>
 
 <style lang="less" scoped>
+
+header{
+  margin-bottom: 3rem;
+}
 
 nav{
   position: fixed;

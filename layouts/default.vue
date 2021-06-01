@@ -1,7 +1,9 @@
 <template>
   <div class='layout-container'>
     <navigation />
+    
     <Nuxt />
+    
   </div>
 </template>
 

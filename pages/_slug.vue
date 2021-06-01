@@ -1,5 +1,5 @@
 <template>
-  <div v-if="page">
+  <main v-if="page">
     <h2>{{page.title}}</h2>
     <nuxt-content :document="page" />
     <nuxt-content :document="page.body_de" />
@@ -11,7 +11,7 @@
       </li>
     </ul>
     </template>
-  </div>
+  </main>
 </template>
 
 <script>
@@ -57,5 +57,13 @@ export default {
 };
 </script>
 
-<style scoped>
+<style lang="less" scoped>
+main{
+  counter-reset: footnote; 
+}
+
+::v-deep sup::after{
+  counter-increment: footnote +1;
+  content:counter(footnote);
+}
 </style>
