@@ -24,8 +24,10 @@ collections:
       - { label: "Updated", name: "updated", widget: "number" }
       - { label: "ID", name: "id", widget: "string" }
       - { label: "Author", name: "author", widget: "string" }
-      - { label: "Description", name: "desc", widget: "string" }
-      - { label: "Description DE", name: "desc_de", widget: "string" }
+      - { label: "Description", name: "desc", widget: "string", hint: "30-50 words" }
+      - { label: "Description DE", name: "desc_de", widget: "string", hint: "30-50 words" }
+      - { label: "Short Description", name: "short_desc", widget: "string", hint: "3-10 words" }
+      - { label: "Short Description DE", name: "short_desc_de", widget: "string", hint: "3-10 words" }
       - {
           label: "Cover image",
           name: "cover_image",
@@ -37,7 +39,9 @@ collections:
         name: "tao_type"
         widget: "select"
         options: ["theme", "material", "story"]
-      - { label: "Published", name: "published", widget: "boolean" }
+      - { label: "Date start", name: "date_start", widget: "datetime", default: "", required: false }
+      - { label: "Date end (if applicable)", name: "date_end", widget: "datetime", default: "", required: false }
+      - { label: "Published", name: "published", widget: "boolean", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Pages"
@@ -84,8 +88,21 @@ collections:
         fields:
           - {label: Title DE, name: title, widget: string}
           - {label: body, name: body, widget: markdown}
+      - label: "Route introduction text EN"
+        name: "route_intro_en"
+        file: "vault/netlify/route_intro_en.md"
+        format: "frontmatter" 
+        fields:
+          - {label: body, name: body, widget: markdown}
+      - label: "Route introduction text DE"
+        name: "route_intro_de"
+        file: "vault/netlify/route_intro_de.md"
+        format: "frontmatter"
+        fields:
+          - {label: body, name: body, widget: markdown}
+
   - name: "curated_path"
-    label: "Curated pathway"
+    label: "Curated route"
     folder: "vault/netlify/pathways"
     editor:
       preview: false
@@ -100,15 +117,15 @@ collections:
         widget: "object"
         collapsed: true
         fields: 
-          - {label: "Author Bio EN", name: author_bio_en, widget: markdown}
-          - {label: "Author Bio DE", name: author_bio_de, widget: markdown}
+          - {label: "Author Bio EN", name: author_bio_en, widget: string}
+          - {label: "Author Bio DE", name: author_bio_de, widget: string}
       - label: "Introduction"
         name: "into_text"
         widget: "object"
         collapsed: true
         fields: 
-          - {label: "Intro Text EN", name: text_en, widget: markdown}
-          - {label: "Intro Text DE", name: text_de, widget: markdown}
+          - {label: "Intro Text EN", name: text_en, widget: string}
+          - {label: "Intro Text DE", name: text_de, widget: string}
       - label: 'Connected notes'
         name: 'notes'
         widget: 'list'
@@ -121,4 +138,3 @@ collections:
             display_fields: ['title']
             search_fields: ['title', 'title_de', 'author', 'tao_type', 'body']
             value_field: 'id'
-      

@@ -2,7 +2,7 @@
 id: e47d02d6-04d0-4cee-9dd9-41600707ed5a
 title: Zoo Architecture
 desc: Put a description of this note here...
-updated: 1620401114399
+updated: 1621429653759
 created: 1619798990411
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -34,6 +34,9 @@ nach und nach die ersten Steinbauten, diese sind meist für einzelne Indivuen ei
 
 Auch in den Außengehegen setzt sich das fort
 ![Postkarte des ehemaligen Gemsenfelsens](/images/cmw/Gemsenfelsen.jpg)
+
+![das Innere des Vogelhauses](images\cmw\Vogelhaus_innen_um_1930.jpg)
+_Das Innere des Vogelhauses glich einem 'Supermarktregal' mit endlosen Reihen kleiner Käfige übereinander. In den meisten lebte nur ein Individuum einer Art, um 1930. (AZGB)_
 
 Ab etwa 1871 dann exotisierende Architektur, erste wirkliche Freianlagen vor den Häusern sehr klein
 ![desc](/images/cmw/S_3_68_Elefantenpagode.jpg)

@@ -2,9 +2,37 @@
 id: 21ac115b-15e0-4af9-a4ed-fdd3d29c313d
 title: ToDo CMW
 desc: ''
-updated: 1620290609059
+updated: 1621977713172
 created: 1618495172862
 ---
+
+## "Fertig" 1. Batch
+
+### theme
+
+[[theme.Acquisition zoo animals]]
+
+### stories
+
+- [[story.Nazi Zoo]]
+- [[story.Heck Expeditions]]
+* [[story.Knut]]
+
+- [[story.Catching Animals]] noch auslassen
+
+### materials
+
+- [[material.Hermann Wissmann]]
+- [[material.Wissmann-Lion]]
+- [[material.Oskar Heinroth]]
+- [[material.Magdalena Heinroth]]
+- [[material.Katharina Heinroth]]
+- [[material.Bernhard Grzimek]]
+- [[material.Journale Zoo]]
+- [[material.Journal Der Zoologische Garten]]
+- [[material.Steinmetzkartei]]
+- [[material.species360]]
+
 ## Empty Backlinks
 
 * [[material.habitat]]
@@ -13,11 +41,9 @@ created: 1618495172862
 * [[material.Lutz Heck]]
 * [[theme.Exhibiting]]
 * [[material.Heinrich Dathe]]
-* [[material.Heinz Heck]]
 * [[material.Heinz-Georg Klös]]
 * [[material.Paul Matschie]]
 * [[material.Hermann Pohle]]
-* [[story.Trading Animals]]
 * [[story.Short History Aquarium]]
 * [[story.Short History Lehrsammlung]]
 * [[story.Short History MfN]]
@@ -42,8 +68,7 @@ created: 1618495172862
 
 #### Fertigstellen
 
-* [[story.Nazi Zoo]] - noch Bilder
-* [[story.Knut]]
++ [[story.Catching Animals]] Dokumentensignatur HBSB
 
 ### Umarbeiten
 
@@ -61,15 +86,11 @@ created: 1618495172862
 
 ### Bilder MfN
 
-- [ ] Knut präpariert
-- [ ] Bobby präpariert
+- [x] Knut präpariert
+- [x] Bobby präpariert
 
 ## Todos the others
 
+## Collection materials from stories
 
-## "Fertig"
-
-- [[material.Hermann Wissmann]]
-- [[material.Wissmann-Lion]]
-- [[story.Nazi Zoo]]
-- [[material.Oskar Heinroth]]
+- [ ] Lions and ruins

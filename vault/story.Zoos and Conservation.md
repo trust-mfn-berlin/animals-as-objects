@@ -2,7 +2,7 @@
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 title: Zoos and Conservation
 desc: Since only a relatively short time zoos intensify their conservation eforts.
-updated: 1619182903709
+updated: 1622209594697
 created: 1618994200982
 title_de: Zoos und Artenschutz
 desc_de: Seit relativ kurzer Zeit engagieren sich Zoos auch im Artenschutz.
@@ -77,14 +77,23 @@ Sein West-Berliner Kollege Heinz-Georg Klös stimmte mittelbar zu indem er
 
 Andere Teilnehmer verwiesen auf eine regelrechte Preistreiberei, wenn Zoos solche Tiere nachfragten. Letztlich beauftragte das Plenum Bernhardt Grzimek und eine Kommission mit der Ausarbeitung einer Resolution. Dathe und Klös waren Mitte der 1960er Jahre mit ihrer Position zum Umgang mit gefährdeten Arten nicht allein. Es sollte jedoch gefragt werden, ob denn die beiden in diesem Moment nicht möglicherweise einen Zielkonflikt hatten. Die Haltung von Menschenaffen brachte und bringt für Zoos ein großes Prestige unter den Kol-leginnen und Kollegen mit sich und viele Besucherinnen und Besucher sind von ihnen, ins-besondere den Orang-Utans angezogen. In der Konkurrenz der beiden Tiergärten in der ge-teilten Stadt spielten diese attraktiven Schautiere sicher eine Rolle. Sowohl der Zoo als auch der Tierpark hatten in den vorangegangenen Jahren Wildfänge dieser Art gekauft und be-mühten sich um eine eigene Zucht. Obwohl beide sich dem Artenschutz verschrieben hatten, könnten hier egoistische Motive des »Wettkamps« um diese populären Tiere eine Rolle ge-spielt haben. Heinrich Dathe war es endlich geglückt ein Menschenaffenhaus zu bauen, wel-ches 1964 eröffnet wurde, darin die drei Orang-Utans, die 1960 und 1961 gekommen wa-ren.   Sicher erhoffte sich Heinrich Dathe mit dem einen Weibchen und den zwei Männ-chen, eine Zucht aufzubauen, muss sich aber im Klaren gewesen sein, dass er weitere Indivi-duen der Art brauchen würde. Sein Kollege in West-Berlin konnte bereits 1963 erste Nach-zuchten erzielen, aber ein Junges verstarb und der deutlich im Geschäftsbericht artikulierte Wunsch des Aufbaus einer Zucht und des Anknüpfens an Erfolge der 1920er Jahre in der Orang-Utan-Zucht würde weitere Importe bedingen. Der Bericht sprach direkt von der Ge-fährdung der Art und formulierte eine Erhaltungszuchtpolitik in Zoos. 
 Nun ist es auch möglich, dass sich vor allem die Zoodirektoren für ein Verbot einsetzten, die entweder bereits eine Gruppe der Tiere hatten und somit selbst »Konkurrenz« ausschalten wollten – möglicherweise auch, um eigene Nachzuchten dann legal gewinnbringend verkau-fen oder tauschen zu können oder aber, die ohnehin diese Tierart nicht hielten und nicht zu halten beabsichtigten und den »Konkurrenten« der Zunft die Publikumsmagneten nicht gönnten und daher ihren Tierschutz ohne Gewissenskonflikte den Vorrang geben konnten.
-Auf der Tagung des deutschen Verbandes 1966 wurde aus denselben Gründen das Kaufver-bot von Orangs wieder aufgehoben.  Aber bereits im Folgejahr waren die Orang-Utans wieder auf der Tagesordnung. Nun wurde wiederum beschlossen, dass die Mitglieder fortan keine Orang-Utans ohne Exportlizenz kaufen sollten und Bernhard Grzimek wurde zum Obmann mit weitreichenden Vollmachten ernannt. So sollte er bei einer Verfehlung den Ausschluss des betreffenden Mitglieds verlangen können.  1969 fragte Bernhard Grzimek dann zumindest auch in Wien an, wie viele Orang-Utans seit dem 13. Juni 1967 erworben worden waren, woher diese stammten, und bat um die Übersendung einer Kopie der Export-lizenz der indonesischen Regierung.  
+Auf der Tagung des deutschen Verbandes 1966 wurde aus denselben Gründen das Kaufver-bot von Orangs wieder aufgehoben.  Aber bereits im Folgejahr waren die Orang-Utans wieder auf der Tagesordnung. Nun wurde wiederum beschlossen, dass die Mitglieder fortan keine Orang-Utans ohne Exportlizenz kaufen sollten und Bernhard Grzimek wurde zum Obmann mit weitreichenden Vollmachten ernannt. So sollte er bei einer Verfehlung den Ausschluss des betreffenden Mitglieds verlangen können.  1969 fragte Bernhard Grzimek dann zumindest auch in Wien an, wie viele Orang-Utans seit dem 13. Juni 1967 erworben worden waren, woher diese stammten, und bat um die Übersendung einer Kopie der Exportlizenz der indonesischen Regierung.  
+
+## Immer wieder die sechs
+
+Przewalskipferd, Bartgeier, Lear-Ara, Europäische Sumpfschuldkröte, Habichtskauz, Alpensteinbock und der Feldhamster...
 
 
 ### Footnotes
 
 [^orang1]: Protokoll der Tagung des Verbands Deutscher Zoodirektoren 1962, Archiv Tiergarten Schönbrunn (ATGS), Nachlass W. Fiedler, Ordner Verband Deutscher Zoodirektoren, Nr. 2.
+
 [^orang2]: Protokoll der Jahrestagung 1965 des IUDZG (deutsche Ausfertigung), o. D., ATGS, Nachlass W. Fiedler, Ord-ner VDZ + WAZA, Nr.1.
+
 [^studbookscolombo]: Z. Veselovsky an Mitglieder IUDZG, o. D., ATGS, Nachlass W. Fiedler, Ordner VDZ und WAZA, Nr. 1.
+
 [^firsttrials1]: Kisling, Vernon N. Jr. 2018. „Historic and Cultural Foundations of Zoo Conservation: A Narrative Timeline“. In The ark and beyond: the evolution of zoo and aquarium conservation, herausgegeben von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb, 41–50. Convening science: discovery at the marine biological laboratory. Chicago: The University of Chicago Press, 41.
+
 [^firsttrials2]: Vgl. Barrow, Mark V. Jr. 2018. „Teetering on the Brink of Extinction: The Passenger Pigeon, the Bison, and American Zoo Culture in the Late Nineteenth and Early Twentieth Centuries“. In The ark and beyond: the evolution of zoo and aquarium conservation, herausgegeben von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb, 51–64. Convening science: discovery at the marine biological laboratory. Chicago: The University of Chicago Press.
+
 [^hunter]: Vgl. Barrow, Mark V. Jr. 2018. „Teetering on the Brink of Extinction: The Passenger Pigeon, the Bison, and American Zoo Culture in the Late Nineteenth and Early Twentieth Centuries“. In The ark and beyond: the evolution of zoo and aquarium conservation, herausgegeben von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb, 51–64. Convening science: discovery at the marine biological laboratory. Chicago: The University of Chicago Press, 51.

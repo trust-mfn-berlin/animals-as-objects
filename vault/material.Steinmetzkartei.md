@@ -1,0 +1,29 @@
+---
+id: 2a309087-f165-4def-9c60-d835c7218077
+title: The Steinmetz-index
+desc: Put a description of this note here...
+updated: 1621976451680
+created: 1620987472118
+title_de: Die Steinmetz-Kartei
+desc_de: In dieser Kartei fasste ein ehemaliger Tierarzt zwischen 1930 und 1945 die Bestände des Berliner Zoos zusammen.
+author: CMW
+tao_type: material
+cover_image: null
+license: CC BY-SA
+published: false
+---
+
+
+:::EN:::
+
+:::DE:::
+
+![Karteikarte mit handschriftlichen Eintragungen](images\cmw\Kartei_Flusspferd1.jpg)
+_Karteikarte der 'Steinmetz-Kartei' zu Zwergflusspferden, um 1935. (AZGB)_
+
+In den 1930er Jahren arbeitete der promovierte Zoologe **Hermann Steinmet**z (1898-1954) als Oberassistent im Berliner Zoo. Gemeinsam mit [[material.Lutz Heck]] floh er in den letzten Tagen des Kampfes um Berlin aus dem Zoo und der Stadt. Ab 1948 war Steinmetz der erste Direktor des Ruhr-Zoos in Gelsenkirchen.
+Während seiner Zeit im Berliner Zoo führte er eine Zettelkartei, die anschließend zoointern die Steinmetz-Kartei genannt wurde. In dieser finden sich manchmal ausführlichere Angaben zu den einzelnen Tieren, den Abgängen durch Tausch, Verkauf oder Tod und Zugängen durch Geschenke, Käufe oder Geburten an als die seit den 1880er Jahren geführten 'Journale' [[material.Journale Zoo]] der jährlichen Zooinventur.
+Der Vorteil für die Zoolog\*innen des Zoos und externe Forscher\*innen liegt aber vor allem darin, dass die Informationen aus verschiedenen Jahrgängen auf einer Karte zusammengefasst wurden. Dadurch kann manchmal die Haltungsdauer oder Lebensdauer einzelner Tiere nachvollzogen werden. Die Kartei ist nach der Flucht von Hermann Steinmetz nicht fortgeführt worden und bildet damit nur einen Ausschnitt aus der 175jährigen Geschichte des Berliner Zoos ab.
+Heute nutzen die meisten deutschen Zoos die Software 'Zoological Information Management System', kurz 'ZIMS' [[material.species360]] um Ein- und Abgänge und Informationen zu Geburten zu verzeichnen. Allerdings führt der Berliner Zoo die physischen Journale parallel als Referenzsystem weiter.
+
+Auf der abgebildeten Karte zu Zwergflusspferden (Choeropsis liberiensis) ist das erste Berliner Zwergflusspferd, ein Kauf von [[material.Hans Schomburgk]] verzeichnet. '1,0' bezeichnet in der Zoologie ein männliches '0,1' ein weibliches Tier, 'iuv.' steht für 'iuvenil' oder Jungtier, 'K' für 'Kauf' und 'E.Z.' für 'Eigene Zucht' - also ein im Zoo geborenes Tier. Aus der Karteikarte geht auch hervor, welche Tierhändler - in diesem Fall die Firma Ruhe in Alfeld - und zu welchem Preis sie das Tier geliefert haben. Bei den Abgängen fällt auf, dass einzelne Tiere mit anderen Zoos getauscht wurden. Die Karteikarte zeigt auch, dass während des Krieges ein Männchen im vermeintlich vor Bomben sichereren Leipziger Zoo eingestellt wurde. Das Wort 'Angriff' bedeutet wiederum, dass eins der Tiere am 24. November 1943 im großen Bombenangriff auf Berlin starb.
