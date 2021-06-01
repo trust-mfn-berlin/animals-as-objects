@@ -2,7 +2,7 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1622563614686
+updated: 1622565681054
 created: 1618576718116
 title_de: Knut
 desc_de: Der 2006 geborene Eisbär "Knut" entwickelte eine bis dahin für ein einzelnes Zootier ungekannte Popularität. Medien und Zooleitung machten ihn zu einem 'Botschafter' der Klimakrise, die das Habitat der Eisbären bedrohte. Die starke Übertragung von Emotionen von Besucher\*innen und Fans in aller Welt auf das Tier wirkte über seinen Tod hinaus.
@@ -42,9 +42,9 @@ Aber weder dieses 'Traumpaar' aus medialer Sicht, noch die Geschichte der Geburt
 
 Eine weitere Komponente für den 'Hype' um Knut war die durch eine Tötung Lippenbärenjungen im Leipziger Zoo ausgelöste Diskussion um Haltungspraktiken in Zoos und die Tötung von Jungtieren. In Leipzig gebar eine Lippenbärin nur wenige Wochen nach "Knuts" Geburt ein Jungtier, welches sie nicht annahm. Der Zoodirektor und sein Team entschlossen sich für die Tötung des Jungtiers, nachdem einige Versuche, die Mutter zur Pflege zu motivieren und mittels Muttermilch einer Hündin das Jungtier zu ernähren fehlschlugen. Nach Ansicht der Zooleitung in Leipzig wäre das Jungtier in wenigen Stunden unter Qualen gestorben und sie entschloss sich zur Tötung des Tieres mittels 'Einschläferung'.[^leipzig1] Daraufhin drohte ein Tierschützer öffentlich mit einer Strafanzeige gegen den Zoo Leipzig und der Deutsche Tierschutzbund verurteilte die Tötung - auch mit Verweis auf den Berliner Fall.
 
-Ein Vorwurf des anzeigenden Tierschutzaktivisten: "Die Handaufzucht ist nicht artgerecht, sondern ein grober Verstoß gegen das Tierschutzgesetz." da man in Leipzig argumentiert hatte, dass das Lippenbärenjunge weder gesund noch psychisch gesund aufwachsen könne, lasse es nun der Berliner Zoo zu, dass der Eisbär für den Rest seines Lebens verhaltensgestört sein werde. Bereits in der Überschrift eines Zeitungsartikels wurde die XXXX deutlich. Dieser lautete: "Tierschützer: Knuddel-Knut hätte sterben müssen!"[^leipzig3]
+Ein Vorwurf des anzeigenden Tierschutzaktivisten: "Die Handaufzucht ist nicht artgerecht, sondern ein grober Verstoß gegen das Tierschutzgesetz." da man in Leipzig argumentiert hatte, dass das Lippenbärenjunge weder gesund noch psychisch gesund aufwachsen könne, lasse es nun der Berliner Zoo zu, dass der Eisbär für den Rest seines Lebens verhaltensgestört sein werde. Bereits in der Überschrift eines Zeitungsartikels wurden die skandalisierende und die vermenschlichende Tendenz deutlich. Dieser lautete: "Tierschützer: Knuddel-Knut hätte sterben müssen!"[^leipzig3] Das in menschlicher Obhut geborene Raubtier wurde zu einem 'Kuscheltier'.
 
-Zwar verwiesen die Zoos in Leipzig und Berlin auf die unterschiedlichen Aspekte der Fälle, in der Presse aber und in den Augen vieler Beobachter\*innen wurden die beiden Ereignisse in einen ethischen und juristischen Zusammenhang gestellt.[^leipzig2] "Wird Knut ein Problembär?" fragte der Berliner Tagesspiegel.[^leipzig4] Das bezog sich auf die Frage, ob die irgendwann unweigerlich notwendige Trennung von dem menschlichen Pfleger für ein Tier, welches in der Wildbahn lange Jahre intensiv vom Muttertier begleitet würden traumatisch sein würde.
+Zwar verwiesen die Zoos in Leipzig und Berlin auf die unterschiedlichen Aspekte der Fälle, in der Presse aber und in den Augen vieler Beobachter\*innen wurden die beiden Ereignisse in einen ethischen und juristischen Zusammenhang gestellt. "Wird Knut ein Problembär?" fragte der Berliner Tagesspiegel.[^leipzig4] Das bezog sich auf die Frage, ob die irgendwann unweigerlich notwendige Trennung von dem menschlichen Pfleger für ein Tier, welches in der Wildbahn lange Jahre intensiv vom Muttertier begleitet würden traumatisch sein würde. Das nun sich gut entwickelnde Jungtier wurde nicht getötet und die Presse konnte titeln: "Eisbärbaby Knut entkommt der Todesspritze"[^leipzig5] oder "Eisbär Knut darf leben!"[^leipzig2]
 Zwar sah man im Berliner Zoo solche Diskussionen mit Skepsis, dem Bekanntheitsgrad des Tieres aber nützten sie - möglicherweise addierten sie gar einen besonderen Mitleidsfaktor für das nun scheinbar zweimal 'dem Tod entronnene' Eisbärenjunge.
 ## Botschafter des Klimaschutzes
 
@@ -191,6 +191,8 @@ Und wiederholt hat sich solch eine anhaltende Begeisterung für ein Zootier bish
 
 [^leipzig2]: "Eisbär Knut darf leben", Merkur.de, 01.07.2007, https://www.merkur.de/welt/eisbaer-knut-darf-leben-377265.html (01.06.2007).
 
-[^leipzig3]: "Tierschützer: Knuddel-Knut hätte sterben müssen!", Rheinische Post online, https://rp-online.de/panorama/deutschland/tierschuetzer-knuddel-knut-haette-sterben-muessen_aid-11295343?output=amp (01.06.2021).
+[^leipzig3]: "Tierschützer: Knuddel-Knut hätte sterben müssen!", Rheinische Post online, 19.03.2021, https://rp-online.de/panorama/deutschland/tierschuetzer-knuddel-knut-haette-sterben-muessen_aid-11295343?output=amp (01.06.2021).
 
 [^leipzig4]: Krögel, Anette. "Wird Knut ein Problembär?", Der Tagesspiegel online, 20.03.2007, https://www.tagesspiegel.de/berlin/wird-knut-ein-problembaer/824706.html (01.06.2021).
+
+[^leipzig5]: "Eisbärbaby Knut entkommt der Todesspritze", Welt online, 19.03.2007, https://www.welt.de/vermischtes/article768024/Eisbaerbaby-Knut-entkommt-der-Todesspritze.html (01.06.2021).
