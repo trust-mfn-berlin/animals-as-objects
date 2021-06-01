@@ -34,7 +34,17 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+    { src: 'normalize.css' }, 
+    '@/assets/less/global.less'
   ],
+
+  styleResources: {
+    less: [
+      './assets/less/media-queries.less',
+      './assets/less/variables.less',
+      './assets/less/typography.less'
+    ],
+  },
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
@@ -45,12 +55,19 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
+    '@nuxtjs/style-resources',
+    '@nuxt/image'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     '@nuxt/content'
   ],
+
+  image: {
+    // Nuxt Image Options
+    // https://image.nuxtjs.org/components/nuxt-img
+  },
 
   content: {
     liveEdit: false,
