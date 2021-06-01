@@ -18,7 +18,7 @@ published: false
 
 :::DE:::
 
-![Vier Männer, eine Frau und ein Hund](images\cmw\Heinroth_Morgenrunde_1946_LiselotteOrgel_S_3_63.jpg)
+![Vier Männer, eine Frau und ein Hund](/images/cmw/Heinroth_Morgenrunde_1946_LiselotteOrgel_S_3_63.jpg)
 _Katharina Heinroth mit ihrem Neufundländer "Ajax" und vier ihrer Mitarbeiter auf der Morgenrunde, 1946. (AZGB; Foto Liselotte Orgel)_
 
 **Katharina Bertha Charlotte Heinroth** (1897-1989) war die **erste und bisher einzige Direktorin des Zoologischen Gartens Berlin** [[story.Short History Zoo]]. Schon als Kind begeisterte sie sich für die Natur und hielt in der elterlichen Wohnung Frösche und weiße Mäuse. Auf Wunsch des Vaters absolvierte sie erst ein pädagogisches Studium, ehe sie Zoologie, Botanik, Geographie und Geologie in Breslau studierte. Sie promovierte 1923 mit summa cum laude über das Hörvermögen von Reptilien. Von ihrem ersten Ehemann liess sie sich scheiden, was damals selten war. Katharina Berger heiratete 1933 den Leiter des Berliner Aquariums [[material.Oskar Heinroth]]. Zusammen mit ihm erforschte sie die Lebenszyklen und das Verhalten von Vögeln.

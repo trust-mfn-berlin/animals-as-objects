@@ -16,7 +16,7 @@ Every time you start a work session in Dendron you need to make sure you are wor
 
 Check the bottom left hand corner of VSCode and make sure you're in the `content-creation` branch. In Git, branches are alternate versions of the same repository. If we aren't working in the same branch, our work will not be synced.
 
-![](images/help/interface/branch.png)
+![](/images/help/interface/branch.png)
 
 If it says `master` or something else, click it and select `content-creation` from the dropdown.
 
@@ -24,7 +24,7 @@ If it says `master` or something else, click it and select `content-creation` fr
 
 After making sure you're in `content-creation`, you will need to `pull` the latest files by clicking the sync icon in the bottom left corner of VSCode.
 
-![](images/help/interface/sync.png)
+![](/images/help/interface/sync.png)
 
 #### 3. Reload index
 
@@ -49,23 +49,23 @@ In Git, new changes must be grouped together with a short message to descibe wha
 
 To make a commit in VSCode, look to the activity bar and you can see the number of outgoing changes (number of files you've worked on). Click this to take you to the version control menu.
 
-![Version control](images/help/interface/version-control-icon.png)
+![Version control](/images/help/interface/version-control-icon.png)
 
 **You should now see something like this in the sidebar:**
 
-![Version control](images/help/interface/version-control-staging.png)
+![Version control](/images/help/interface/version-control-staging.png)
 
 This shows all the files that have been added, modified or deleted since you started your session.
 
 When hovering ovr `Changes` click the `+` to "stage" all of them. This means they are now ready to be committed.
 
-![Stage changes](images/help/interface/stage.png)
+![Stage changes](/images/help/interface/stage.png)
 
 It should now read `Staged Chages` showing a list of files that you have changed. 
 
 To commit we just have to type a short message describing what we have done, and then click the `tick` icon.
 
-![Commit changes](images/help/interface/commit-new-changes.png)
+![Commit changes](/images/help/interface/commit-new-changes.png)
 
 We're not done yet though, we still need to "push" these changes to our remote repository that everyone will share.
 
@@ -73,5 +73,5 @@ We're not done yet though, we still need to "push" these changes to our remote r
 
 It's easy to push once you've commited your changes. Just click the sync button in the bottom left corner of VSCode.
 
-![Push changes](images/help/interface/push.png)
+![Push changes](/images/help/interface/push.png)
 

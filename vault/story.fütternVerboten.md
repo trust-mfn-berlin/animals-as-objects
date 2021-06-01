@@ -26,7 +26,7 @@ published: false
 
 Auf den Tod des Elefanten "Jambo", der 1960 im Zoo Berlin eingeschläfert werden musste, nachdem er durch Besucher\*innen übermäßig gefüttert worden und daraufhin erkrankt war, folgte eine erhitzte Diskussion über den richtigen Umgang mit Tieren in Gefangenschaft im Allgemein und ein Fütterungsverbot im Speziellen. Tatsächlich leitete "Jambos" Tod am 10. April 1960 ein generelles Fütterungsverbot für alle Tiere im Berliner Zoo ein.
 
-![Zeitungsartikel mit Elefantenfoto, der "mich nicht füttern" auf die Stirn geschrieben hat](images\mv\JamboFuetternVerboten.jpg)
+![Zeitungsartikel mit Elefantenfoto, der "mich nicht füttern" auf die Stirn geschrieben hat](/images/mv/JamboFuetternVerboten.jpg)
 
 
 _Als im Berliner Zoo ein generelles Fütterungsverbot beschlossen wurde, mussten die nun überholten Regeln im Zooführer von 1960 zuerst per Stempelaufdruck überschrieben werden._ 
@@ -35,7 +35,7 @@ Der Tod des Elefanten war nicht der erste Fall [[story.überfüttern]]. Diskussi
 
 Erst in den 1950er Jahren führte jedoch die Mehrzahl der Zoos generelle Fütterungsverbote ein, nachdem sich die Erkrankungen und Tode, die auf Überfütterung zurückgingen, gerade in den gut besuchten Sommermonaten häuften. Als am 1. Juni 1953 ein gerade neu erworbener Elefant im Frankfurter Zoo an den Folgen der Überfütterung durch die Besucher verendete, beschloss der damalige Direktor Bernhard Grzimek, das Füttern der Zootiere durch Besucher\*innen komplett zu verbieten. 1957 folgte der Leipziger Zoo und der Zoologische Garten zu Münster 1959, nachdem auch dort mehrere Tiere gestorben waren.[^FütternVerboten2] 
 
-![Zeitungsseite mit abgebildeten Fütterungsverbotsschildern in zoologischen Gärten, 1960](images\mv\ZeitungVerbotsschilder.jpg)
+![Zeitungsseite mit abgebildeten Fütterungsverbotsschildern in zoologischen Gärten, 1960](/images/mv/ZeitungVerbotsschilder.jpg)
 
 _Verbotsschilder in zoologischen Gärten, abgedruckt im '8-Uhr-Blatt', 13.04.1960._
 
@@ -54,27 +54,27 @@ Nicht nur steigende Besuchszahlen wurden hier ins Feld geführt. Es ging um eine
  Im Zooführer von 1960 wurden den nun veralteten Fütterungsregeln noch behelfsmäßig ein roter Stempel aufgedrückt. 
  
 
-![Zooführer von 1960 mit rotem Stempelaufdruck, der auf das neue Fütterungsverbot hinweist](images\mv\Zoowegweiser1960.jpg)
+![Zooführer von 1960 mit rotem Stempelaufdruck, der auf das neue Fütterungsverbot hinweist](/images/mv/Zoowegweiser1960.jpg)
 
 _Die neuen Richtlinien überschreiben die alten im Berlin Zooführer von 1960._  
 
 Im nächsten Jähr war das Regelwerk dann komplett überarbeitet. Auf das Verbot wies der Wegweiser von nun an gleich am Anfang in der 'Gartenordnung' oder in der einleitenden Ansprache 'An unsere Besucher' hin. Im Garten selbst waren Schilder an den Gehegen angebracht.  
 
-![Kamelanlage im Berliner Zoo mit Fütterungsverbotschild](images\mv\KamelNichtFuettern.jpg) 
+![Kamelanlage im Berliner Zoo mit Fütterungsverbotschild](/images/mv/KamelNichtFuettern.jpg) 
 
 _Kamelanlage im Berliner Zoo mit Verbotsschild. (AZGB)_
 
-![Fütterungsverbotschild für Eisbärenjungtier im Zoologischen Garten Berlin](images\mv\EisbaerenjungtierNichtFuettern.jpg)
+![Fütterungsverbotschild für Eisbärenjungtier im Zoologischen Garten Berlin](/images/mv/EisbaerenjungtierNichtFuettern.jpg)
 
 _Hinweisschild für ein Eisbärenjungtier 19xx. (AZGB)_
 
 
-![Verbotsschild am Elefantengehege im Berliner Zoo 1969](images\mv\FuetternVerbotenSchild.jpg)
+![Verbotsschild am Elefantengehege im Berliner Zoo 1969](/images/mv/FuetternVerbotenSchild.jpg)
 
 _Fütterungsverbotschild im Zoologischen Garten Berlin 1969. (AZGB)_
 
 
-![Fütterungsverbotschild am Emugehege im Berliner Zoo 1980](images\mv\HinweisschildEmus1980.jpg)
+![Fütterungsverbotschild am Emugehege im Berliner Zoo 1980](/images/mv/HinweisschildEmus1980.jpg)
 
 _Hinweisschild am Emugehege im Berliner Zoo 1980. (AZGB, Foto Kühn)_
 
@@ -89,7 +89,7 @@ Der Berliner Zoo griff selbst die Rhetorik der "Tierfreundschaft" auf und setzte
 
 Auf die "Tierliebe" berief sich der Zoo darüber hinaus, wenn er seine Besucher\*innen dazu aufrief, aktiv zur Durchsetzung der Zooregeln beizutragen. Das galt bereits, als es noch um Teilverbote ging:
 
-![Auszug aus dem Zoo-Wegweiser von 1956](images\mv\FütterungsverbotWegweiser.jpg)
+![Auszug aus dem Zoo-Wegweiser von 1956](/images/mv/FütterungsverbotWegweiser.jpg)
 
 _Im Zooführer von 1956 abgedruckte Aufforderung an die Zoobesucher\*innen._
 

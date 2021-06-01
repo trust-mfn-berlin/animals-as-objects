@@ -11,7 +11,7 @@ The filename will determine the URL on the live site. So it's important to choos
 
 ## Frontmatter
 
-![Frontmatter](images/help/interface/editor-frontmatter.jpg)
+![Frontmatter](/images/help/interface/editor-frontmatter.jpg)
 
 At the beginning of the file, we have a collection of fields that contain meta-information about our file. This "Frontmatter" is wrapped inside the `---` dividers present at the top and bottom of this section. The contents of these fields can be edited later in the CMS. **Important: Do not insert any new line breaks or move the dividers `---` here, or the file won't be readable by the CMS**
 
@@ -30,7 +30,7 @@ The other fields shouldn't be changed.
 
 ## Body
 
-![Body](images/help/interface/editor-body.jpg)
+![Body](/images/help/interface/editor-body.jpg)
 
 Everything after the frontmatter of the file is considered the body of the file. This is where we will write the content. We have special separators to split the content of the page into english and german.
 

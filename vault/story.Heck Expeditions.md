@@ -24,7 +24,7 @@ Der spätere Direktor des Zoologischen Gartens Berlin [[material.Lutz Heck]] (18
 Aber auch in Deutschland gab es literarische Vorbilder. Insbesondere der Jäger und Fotograf Carl Schillings, der auch schon für den Berliner Zoo Tiere gefangen hatte, war mit Lutz Heck persönlich bekannt und hatte mit seinen Reiserzählungen viel Erfolg.
 Nun ist es aber so, dass Heck durchaus auch Vorbilder in den eigenen Reihen hatte. [[material.Oskar Heinroth]], der Leiter des Aquariums [[story.Short History Aquarium]] hatte vor seiner Beschäftigung im Zoo als Naturforscher und Arzt an der 'Ersten Deutschen Südsee-Expedition' – der Mencke-Expedition – teilgenommen. Regelmäßig fuhr Heinroth zum Forschen und Sammeln von Tieren an die Adria in die Zoologische Station Rovigno in Istrien. Auch hatten dieser, wie auch viele Zoodirektoren schon Reisen gemacht und sich so Tiere besorgt. Zudem kamen ja, wie zu sehen war viele der kolonialen Tiere als Ausbeute Reisender Majestäten in den Zoo.
 
-![desc](images/cmw/Schillings.jpg)
+![desc](/images/cmw/Schillings.jpg)
 _Frontseite des Buchs von Carl Schillings 'Mit Blitzlich und Büchse' von 1905._
 
 Finanziell waren solche Reisen nämlich eher fragwürdig. Seit den 1880er Jahren existierte bereits ein großes Netz professioneller Tierhändler. [[story.Trading Animals]] Im deutschsprachigen Raum dominierten insbesondere die Handelshäuser Hagenbeck, Reiche und Ruhe. Mit ihren Fangstationen und Agenten vor Ort konnten sie größere Gruppen zusammenstellen, die den Stückpreis nach dem langen und kostenintensiven Transport verringerten.
@@ -37,7 +37,7 @@ Diredaua war auch das Basislager für die von hier aus startenden ersten Expedit
 
 Die erste große Fangreise war den Mantelpavianen, den Hamadryas gewidmet. An mehreren Tagen fing die Expedition mit Hilfe der einheimischen Helfer eine große Gruppe. Besonderes Augenmaß lag dabei auf den Männchen, die mit ihrem dichten 'Pelzmantel' beeindruckender aussahen. Die Tatsache, dass für eine langfristige Zucht eine höhere Zahl von Weibchen wichtiger gewesen wäre spielte für Lutz Heck augenscheinlich keine Rolle.
 
-![desc](images/cmw/Mantelpavian_13.JPG)
+![desc](/images/cmw/Mantelpavian_13.JPG)
 *Mantelpaviane der Expedition, vermutlich auf dem Transport, 1925. (AZGB, Foto L. Heck)*
 
 Die Tiere wurden an die Küste verbracht, woraufhin sie auf einen Dampfer verladen wurden, der durch den Suezkanal nach Europa fuhr. Laut Lutz heck war die Überfahrt starken Seegangs wegen sehr beschwehrlich und es kam zu verlusten unter den Tieren. Brecher kamen über die Bordwand und schwemmten Ausrüstungsgegenstände, wvor allem aber auch Tiere ins Meer. Täglich wurde eines der für diesen Zweck mitgebrachten Rinder an Bord geschlachtet, um anderen Tieren als Nahrung zu dienen. 
@@ -52,13 +52,13 @@ Die Tiere wurden in Berlin später auf einem großen 'Affenfelsen' angesiedelt. 
 
 Vom Erfolg seiner ersten Reise inspiriert, plante Lutz Heck bereits zwei jahre später eine erneute Reise. Dieses Mal wollte er in die ehemalige deutsche Kolonie 'Deutsch-Ostafrika' [[material.German East Afrika]] fahren. Diese wurde seit dem Ende des Ersten Weltkriegs als Tanganjika-Territory von den Briten verwaltet. De facto, hatte nur der Kolonialherr gewechselt. Es ist mehr als wahrscheinlich, dass sich Lutz Heck einen zusätzlichen Werbeeffekt davon versprach, dass er ehemalige 'Kolonialtiere' fangen würde. Bereits 1904 hatte das "erste deutsch-ostafrikanische Nashorn" im Zoo Aufmerksamkeit erregt.
 
-![desc](images/cmw/nashorn1904.PNG)
+![desc](/images/cmw/nashorn1904.PNG)
 _Illustration aus einer Zeitschrift, 1904. (AZGB)_
 
 @clemens
 
 oder 
-![Postkarte mit einem Nashorn](images\cmw\PK_Nashorn_1908.jpg)
+![Postkarte mit einem Nashorn](/images/cmw/PK_Nashorn_1908.jpg)
 
 
 Allerdings musste der Zoo, vertreten durch seinen Kaufmännischen Direktor Clemens Freyer, mit einem wirtschaftlichen Verlust in dem Geschäftsjahr rechnen. Freyer trug die Angelegenheit an den Aufsichtsrat heran. Die von Lutz Heck kalkulierte Summe war sehr hoch für einige Tiere, die zumal im handel zu kriegen waren.Allein der Rücktransport konnte wohl leicht 40 000 Reichsmark kosten und ein "Menschentransport und andere Unkosten" standen ja auch zur Diskussion.[^exp3]  Was war hiermit gemeint? Eine Durchsicht der Korrespondenz zu dieser Expedition zeigt, dass Lutz Heck plante, eine eigenen 'Völkerschau' mit Menschen, die er zusammen mit den zu fangenden Tieren nach Berlin bringen wollte. Freyer schlug angesichts der hohen Kosten vor, sich "lediglich auf eine Forschungs- und Expeditionsreise" zu beschränken.  Und in der Tat, nur vier Tage später konnte er dem Aufsichtsrat mitteilen, dass man mit den Hecks übereingekommen sei, eine "Fangreise" "ohne die Veranstaltung einer besonderen Menschenschau" zu veranstalten. Dieses würde das Risiko deutlich mindern, da nur noch die Tiere transportiert würden. Außerdem hoffte man, die Kosten durch einen gesonderten Eintritt für eine Sonderschau der gefangenen Tiere zu mindern. Diese würden dann zu den Aktiva der Zoo Aktiengesellschaft gezählt werden können.
@@ -67,17 +67,17 @@ Schnell wurden nun die Vorbereitungen getroffen. Anfang November 1927 waren die 
 
 Die Ausreise erfolgte über den deutschen Dampfer 'Nyassa', anschließend von der ostafrikanischen Küste mit der Bahn bis Moschi. Von dort brachte ein Lastauto die beiden Tierfänger 500 Kilometer weiter nach Mbulu. Zunächst wurden nun von diesem Basislager aus eine Expedition mit 80 einheimischen Trägern in ein Nashorn-reiches Gebiet unternommen. Und tatsächlich gelang es  auch wirklich bald, ein junges Nashorn zu fangen.
 
-![desc](images/cmw/Heck_Nashorn.jpg)
+![desc](/images/cmw/Heck_Nashorn.jpg)
 _Das gefangene Nashorn wird von Petrus Olesen mit Milch gefüttert, 1927. (Lutz Heck: Auf Tiersuche in weiter Welt)_
 
 Bei dem Fang wurde wie damals üblich das Muttertier zunächst geschossen. Am Fangplatz wurde das Lager aufgeschlagen Punkt denn das Nashorn musste erst in 3 Wochen gezähmt werden, bevor der Rückmarsch zu Fuß angetreten werden konnte. Die Länge des täglichen Marschs richtete sich nach dem Belieben des am Strick mitgeführten Tieres. Wenn in der Nähe kein Wasser war oder das Tier nach einem Kilometer anfing Komma an den Büschen zu fressen konnte nicht weitermarschieren werden.
 
 Anschließend begab sich Heck in die Massai Steppe um dort die großen Herdentiere zu fangen. Als geländekundigen Helfer und Reiter heuerte Heck den südafrikanischen Buren Pitt Jones an. Er ritt mit Schlinge und Fangstock hinter Zebras oder Giraffen her und fing die jüngeren Tiere.
 
-![Mann fängt Giraffe mit einem Lasso](images/cmw/Ostafrika_1927_Giraffe.jpg)
+![Mann fängt Giraffe mit einem Lasso](/images/cmw/Ostafrika_1927_Giraffe.jpg)
 _Ein Fänger beim Fang einer der fünf Giraffen der Expedition, 1928. (AZGB, Foto Lutz Heck)_
 
-![desc](images\cmw\S_3_82_Giraffentransport.jpg)
+![desc](/images/cmw/S_3_82_Giraffentransport.jpg)
 _Die gefangenen Tiere wurden mit einem Lastwagen zu einem Lager gefahren, wo sie gesammelt und an Menschen gewöhnt wurden. (AZGB, Foto Lutz Heck)_
 
 Fünf Giraffen, 19 Zebras, vier Straußenvögel und verschiedene Antilopen waren die Ausbeute die Berlin gesund erreichte. In der Gegend von Kilwa wurden drei Nilpferde von Einheimischen in Fallgruben gefangen. Der oberste britische Wildschutzbeamte überließ sie dann dem Zoologischen Garten. Ob die Einheimischen von den britischen Behörden für 'Wilderei' [[material.poaching]] bestraft wurden, ist nicht bekannt - interessierte Lutz heck auch nicht.
@@ -93,24 +93,24 @@ Aus Suez kabelte Heck die benötigten Transportkapazitäten: drei offene, ein ge
 Die Ankunft des Transports an einem Sonntag, dem 20. Mai 1928, im Anhalter Bahnhof wurde von Presserummel begleitet, am Bahnhof oder auf sem Sonderschaugelände konnten Journalisten die Ausbeute beäugen. Am folgenden Donnerstag wurde dann die Sonderschau selbst eröffnet. Bereits Ende April hatte der Zoo die Schau angekündigt und den großen Erfolg der Expedition angepriesen.
 Eine Löwin aus Abessinien wurde im Herbst 1928 an den Zoo in Frankfurt/M. Für 2000 Mark verkauft, das Geld dem Expeditionskonto gutgeschrieben. Aus dem Schriftwechsel geht allerdings hervor, dass das Tier gar nicht aus der Ausbeute der Expedition stammte, sondern bereits 1924 importiert worden war.
 
-![Werbebroschüre für die 'Ostafrika-schau](images\cmw\Ostafrika_Schau_1928.jpg)
+![Werbebroschüre für die 'Ostafrika-schau](/images/cmw/Ostafrika_Schau_1928.jpg)
 _Werbebroschüre des Zoos für die Sonderschau mit den Tieren der Expedition 1928. (AZGB)_
 
 Die Schau soll ein ungefähres Bild dieses großen Sammellager ergeben. Mit den darin sich da bietenden bewegenden Tieren. Die Zelte, in denen die Expedition Mitglieder über ein Vierteljahr in Busch und Steppe lebten, die Fangnetze, andere Ausrüstungen werden zur Schau gestellt.
 
-![desc](images/cmw/Mtoto_Gnu_um1928_Wolter_S_3_69.jpg)
+![desc](/images/cmw/Mtoto_Gnu_um1928_Wolter_S_3_69.jpg)
 _Auch das "Mtoto" getaufte Nashorn war Teil der 'Afrikaschau' in der die Tiere und die Ausrüstung der Expedition gezeigt wurden._
 
 Der Berliner Zoo profitierte letztlich von den Expeditionen - und zwar in Form einer wirksamen Öffentlichkeitsarbeit. Lutz Heck veröffentlichte seine Bilder und seine 'Abenteuer' in unzähligen Zeitschriftenartikeln und einigen Büchern. Noch 1954, nun in der Bundesrepublik, verbreitete Lutz Heck seine Erlebnisse.[^exp2]
 
-![des](images/cmw/Zeitschrift_Expedition.PNG)
+![des](/images/cmw/Zeitschrift_Expedition.PNG)
 _Zeitschrift mit einer Reportage und den Bildern von Lutz Heck, XXXX._
 
 - [ ] Besseren scan besorgen @clemens
 
 Hinzu kam, dass die Tiere selbst im Zoo natürlich zu begehrten Schauobjekten wurden. Die abenteuerliche Herkunft zog weitere Besucher\*innen an.
 
-![Postkarte mit einem Nashorn](images/cmw/Postkarte_Mtoto.jpg)
+![Postkarte mit einem Nashorn](/images/cmw/Postkarte_Mtoto.jpg)
 _Auf der Postkarte des Zoo mit dem in Ostafrika gefangenen Nashorn wurde auf die Expedition hingewiesen, um 1928. (AZGB)_
 
 Sowohl das von den professionellen Filmemacher auf der ersten Reise gewonnene Bildmaterial als auch Lutz Hecks eigene Bilder der zweiten Reise wurden in Filmen verarbeitet. Diese trugen weiter zum Bekanntheitsgrad des Zoos, vor allem wohl aber Lutz Hecks selbst, bei. Ihre mit rassistischen Klischees gefüllten Darstellungen afrikanischer Menschen trafen den Zeitgeist.
@@ -119,14 +119,14 @@ Die Hauptpersonen in diesen Lutz Hecks Büchern und auch in den Filmen sind imme
 
 Noch 1935 profitierte der Zoologische Garten von der Reise 1928. Damals machte Lutz Heck die Bekanntschaft des Tierhändlers Chr. Kissonerghis. In den folgenden Jahren lieferte dieser nun regelmäßig neue Tiere aus Diredaua über Djibouti. Sie wurden dann ab dem Entladen an einem Mittelmeerhafen von Zooangestllten abgeholt.[^exp1
 
-![Bild des Affenfelsens Mitte der 1930er Jahre](images/cmw/Affenfelsen-Heck.jpg)
+![Bild des Affenfelsens Mitte der 1930er Jahre](/images/cmw/Affenfelsen-Heck.jpg)
 _Auf diesem Felsen stellte Lutz Heck die mantelpaviane seiner Expedition aus. (um 1930, AZGB, Foto Lutz Heck)_
 
 ## Spätere Expeditionen
 
 Auch noch in den 1930er Jahren ging [[material.Lutz Heck]] auf Fangreisen. So fuhr er im Auftrag von [[material.Hermann Göring]] 1936 nach Kanada, um dort mit behördlicher Erlaubnis Elche und Bisons zu fangen.[^late1] Letztere wollte er im Erhaltungszuchtprogramm für den Wisent einsetzen und bei sich und in anderen Zoos ausstellen. Er reiste auch erneut nach Afrika, diesmal aber eher als Foto- und Jagdtourist. Seine Lebensgefährtin Eva Mac Lean reiste mehrfach nach Kamerun, an den Tschadsee und ins südliche Afrika und brachte von dort einzelne Tiere für den Berliner Zoo mit zurück. So kam 1936 das Gorillaweibchen "Eseka" und einige durch sie in den Zoo.[^late2]
 
-![Frau mit einem Schimpansen- und einem Gorillajungtier an Bord eines Schiffs](images/cmw/Gorilla_Schimpansentransport_25061936.jpg)
+![Frau mit einem Schimpansen- und einem Gorillajungtier an Bord eines Schiffs](/images/cmw/Gorilla_Schimpansentransport_25061936.jpg)
 _Eva MacLean an Bord eines Schiffs mit einem jungen Schimpansen und einem jungen Gorilla, 1936. (AZGB)_ [[story.Colonial Imagery]]
 
 1938 war Heck dann mehrere Monat in Kamerun, angeblich vor allem, um Tiere, insbesondere Gorillas, in ihrem Lebensraum zu beobachten. Und wieder kam er mit einem reichhaltigen Tiertransport zurück. Unter den vielen Tieren alleine mehr als 30 Affen, darunter wiederum drei Schimpansen.[^late3]

@@ -29,7 +29,7 @@ Auch Museumspräparate wurden entweder zunächst gefangen oder getötet. Wenn si
 
 Einheimische Tiere konnten von Jägern selbst gefangen oder aber von anderen gekauft und über kürzere Distanzen transportiert werden. Anders war das mit den Tieren, die in Europa als Exoten galten, also Tieren aus anderen Kontinenten und Klimazonen. Ihre Ausstellung in Europa ist eng mit der Entwicklung eines **Welthandels** verknüpft, die unter den Bedingungen europäischer Hegemonie und **europäischen Imperialismus** verlief. Seine Wurzeln gehen einige  Jahrhunderte zurück. Viele der ersten in Europa in den sogenannten Wandermenagerien oder den fürstlichen Menagerien ausgestellten Tiere waren 'Einzelfänge'. 'Exotische' Tiere wurden in den Herkunftsregionen von lokalen Herrschern als **Statussymbole** geschätzt und Europäern verkauft oder geschenkt.[^earlytrade1] Mehr dazu kann in der story zu Tieren oder Tierobjekten als Geschenke gelesen werden. [[story.Gifting Objects] Die beiden Elefantenbullen "Rostom" und "Omar" waren Geschenke des Prince of Wales und späteren König Edwar VII. für seinen Neffen Kaiser Wilhelm II. 1881 aus dem britisch beherrschten Indien.
 
-![Zwei Elefanten und drei Pfleger](images\cmw\Elefant_Omar.jpg)
+![Zwei Elefanten und drei Pfleger](/images/cmw/Elefant_Omar.jpg)
 *Die beiden asiatischen Elefantenbullen "Rostom" und "Omar", um 1885. "Rostom" hatte untypischerweise keine Stoßzähne. (AZGB)*
 
 Auch **Matrosen, Kapitäne und reisende Händler brachten Gelegenheitskäufe** aus außereuropäischen Gebieten auf der Rückfahrt in die Häfen West- und Südeuropas mit und verkauften sie dort. Naturgemäß waren es eher kleine 'transportfähige' Tiere, die auf diese Weise ihren Weg nach Europa fanden. Papageien und Körner fressende Vögel, verschiedene Meerkatzenarten und Affenarten, kleinere Raubtiere und Säugetiere, die als Jungtiere gefangen und an Menschen gewöhnt worden waren, boten sich hier an. Es handelte sich um **Tiere, deren Pflege wenig anspruchsfoll war und in Teilzeit über Monate an Bord eines Schiffes geleistet werden konnte**. Das Spektrum der Arten war also zwangsläufig eingeschränkt und zumeist handelte es sich um Einzeltiere. [^earlytrade2]
@@ -41,7 +41,7 @@ Zum **Ende des 19. Jahrhunderts** entwickelte sich mit der steigenden Zahl von Z
 
 Dass diese Verkaufsstellen in den Häfen und die Auktionen immer gut 'gefüllt' waren, hing eng mit der europäischen kolonialen Expansion zusammen. Denn bei der Jagd nach Tieren, ihrem Transport nach Europa und der anschließenden Ausstellung wirkten die hierarchische Strukturen  des Kolonialismus. Oft genug entnahmen die kolonialen Herrscher und Beamten direkt ein Tier, um es zu verschenkten. Das wird beim [[material.Wissmann-Lion]] Wissmann-Löwen für den Berliner Zoo der Fall gewesen sein. Dieser wurde ihm durch den Gouverneur von Deutsch-Ost-Afrika [[material.Hermann Wissmann]] Hermann Wissmann geschenkt. Wissmann hatte zunächst Expeditionen auf dem afrikanischen Kontinent vorgenommen und dann die Ausbeutung des Kongo durch den belgischen König mit vorbereitet.
 
-![Löwe](images\cmw\Wissmann-lion.jpg)
+![Löwe](/images/cmw/Wissmann-lion.jpg)
 _Der sogenannte Wissmann-Löwe aus der deutschen Kolonie 'Deutsch-Ostafrika', um 1900._
 
 Zwischen etwa 1890 und 1914 kamen jedes Jahr regelmäßig Geschenke aus den deutschen Kolonien in den Berliner Zoo. Natürlich profitierten alle Zoos der Kolonialstaaten von der leichten Ausbeutbarkeit der jeweiligen Kolonien. Hinzu kommt aber, dass durch die koloniale Besatzung insgesamt eine Situation geschaffen worden war, die es auch beispielsweise deutschen Tierhandelshäusern leicht möglich machte, die Fauna in Afrika, Asien und Ozeanien für europäische Zoos auszubeuten.
@@ -65,7 +65,7 @@ Eine wesentliches Hindernis der Tierhändler aber auch aller Akteure, die Tiere 
 
 Auch konnte es vorkommen, dass die Strapazen langer Transporte zum schnellen Tod des Tieres im Zoo selbst führten. Eine Meldung des Zoologischen Gartens an das Naturkundemuseum zu Tierkadavern, die man übergeben hatte zeigt dieses.
 
-![Brief der Zooleitung an das Naturkundemuseum](images/cmw/MfN_HBSB_S004_02_05_Nr97.jpg)
+![Brief der Zooleitung an das Naturkundemuseum](/images/cmw/MfN_HBSB_S004_02_05_Nr97.jpg)
 _Lutz Heck an H. Pohle, 07.06.1934. (MfN HBSB S004-02-05 Nr. 97)_
 
 Zwei der vier aufgeführten Tiere waren erst kurz zuvor von Tierhändlern geliefert worden.
@@ -87,7 +87,7 @@ Das sich das Geschäft mit dem Tierfang und Handel sehr lohnte lag unter anderem
 Einzelne Zoos unternahmen zu Beginn des 20. Jahrhunderts eigene Fangexpeditionen. Insbesondere amerikanische Zoos begannen diesen Trend.[^exped1] Der Assistent am Zoo Berlin und Direktor des Aquariums, [[material.Oskar Heinroth]], fuhr regelmäßig in eine Forschungsstation an der Adria, um dort Tiere für sein Aquarium mitzunehmen. Insbesondere das Aquarium verwendete lange Zeit Wildfänge [[material.animals caught in the wild]]. Der spätere Direktor des Zoologischen Gartens Berlin [[material.Lutz Heck]] (1892-1983) war seit 1924 bei seinem Vater, dem Berliner Zoodirektor [[material.Ludwig Heck]] als Assistent angestellt. 
 1925 fuhr er zusammen mit dem Raubtierpfleger Petrus Olesen nach [[material.Abyssinia]] um dort afrikanische Wildtiere zu fangen. Dabei begleiteten ihn auch ein Produzent und ein Kameramann der DEFA. Der aus der Expedition hervorgegangene Film strotzte in der Darstellung der Bevölkerung Ostafrikas vor rassistischen und aus der Kolonialzeit übernommenen Stereotypen. 1927/28 fuhr er in das Gebiet des heutigen Tansania um Giraffen zu fangen.
 
-![Zwei Giraffen auf dem Heck eines Lastwagens](images\cmw\S_3_82_Giraffentransport.jpg)
+![Zwei Giraffen auf dem Heck eines Lastwagens](/images/cmw/S_3_82_Giraffentransport.jpg)
 _Transport zwei gefangener junger Giraffen, 1928. (AZGB, Foto Lutz Heck)_
 
 Die ehemalige deutsche Kolonie Deutsch-Ost-Afrika war zu diesem Zeitpunkt den Briten unterstellt. Beide Male begleitete ihn der Tierpfleger Petrus Olesen. Mehr ist in der story zu seinen Expeditionen zu erfahren [[story.Heck Expeditions]]
@@ -109,18 +109,18 @@ Erst zur Mitte der 1950er Jahre wurde der internationale Tierhandel noch einmal 
 
 Noch waren viele Regierungen bereit, Fanglizenzen zu vergeben. Die Zoodirektorin Katharina Heinroth flog 1955 nach Borneo und Sumatra. Es handelte sich dabei nicht um eine klassische Fangfahrt, Heinroth hatte zuvor von Privatleuten Angebote bekommen und bei lokalen Behörden um die Fanger- und Ausfuhrerlaubnisse laubnisse angesucht. Sie kam vor allem, um die Tiere in der Wildbahn zu sehen und dann Exemplare auszusuchen und auf dem Transport in den Berliner Zoo zu begleiten. Katharina Heinroth opferte dafür ihren Urlaub und brachte einen kleinen Tiertransport mit nach Berlin.[^heinr1]
 
-![Katharina Heinroth mit einem Affen auf der Schulter](images/cmw/Heinroth_Putzi_1955.jpg)
+![Katharina Heinroth mit einem Affen auf der Schulter](/images/cmw/Heinroth_Putzi_1955.jpg)
 _Katharina Heinroth bei ihrer Rückkehr mit dem Rhesusaffen "Putzi" auf der Schulter, 1955. (AZGB)_
 
 Für die Besucher\*innen waren die beiden männlichen Orang-Utan-Jungtiere "Bubi" und "Nakal" sicher die große Attraktion dieser Fangreise. Es ist nicht überliefert, wie die Bekannten katharina Heinroths an diese an Menschen gewöhnten Jungtiere gekommen waren. Im Zoo selbst wurden sie, wie damals üblich im Nahkontakt mit den Pfleger\*innen gehalten und bermenschlichende Aufnahmen wie diese mit einem 'Mensch-ärgere-dich-nicht-Spiel' gehörten zu den Verkaufsschlagern unter den Postkarten.
 
-![Postkarte mit zwei jungen Orang-Utans](images\cmw\Orangs_Bubi_Nakal_1959.jpg)
+![Postkarte mit zwei jungen Orang-Utans](/images/cmw/Orangs_Bubi_Nakal_1959.jpg)
 _Postkarte des Zoo Berlin mit den beiden Orang-Utans "Bubi" und "Nakal", 1959._
 _
 
 1963 fuhr der Berliner Zoodirektor Heinz-Georg Klös in den Hluhluwe-Umfolozi-Park in Südafrika, um ein Paar Südliche Breitmaulnashörner zu fangen und in den Zoologischen Garten Berlin zu bringen. Die Fangerlaubnis hatte er zuvor durch die südafrikanischen Behörden erhalten. Schon 1957 hatte sich Klös in Südafrika um eine Fangerlaubnis bemüht aber keine bekommen. 1962 meldeten sich die naturschutzbehörden in der Provinz Natal und gestatteten den Fang. Der Preis der beiden Nashörner wurde als Werbemaßnahme von der Firma 'Leineweber', einem Bekleidungshaus, bezahlt.[^klös1]
 
-![Zwei Breitmaulnashörner](images\cmw\Breitmaul_Hlambamans_Kuababa_rechts_64_Kleinschmidt.jpg)
+![Zwei Breitmaulnashörner](/images/cmw/Breitmaul_Hlambamans_Kuababa_rechts_64_Kleinschmidt.jpg)
 _Breitmaulnashörner "Hlambamans" und "Kuababa" im Zoo Berlin, 1964 (AZGB, Foto Kleinschmidt)_
 
 Auch gab es in jenen Jahren noch etwas, was man 'Gelegenheitskäufe' nennen könnte. Der Frankfurter Zoodirektor und spätere Fernsehpersönlichkeit [[material.Bernhard Grzimek]] berichtete, dass er mit seinem Sohn am Ende einer Reise durch Guinea, Sierra Leone, Elfenbeinküste und Liberia Mitte der 1950er Jahre zwei Schimpansen angeboten bekam. Obwohl er nicht auf einer Tierhandels- Tierfangreise befand, kaufte er die beiden Tiere und liess sie durch seinen Sohn nach Frankfurt begleiten.[^lateexp1]
@@ -130,7 +130,7 @@ Im Juli 1956 empfing der vietnamesische Staatschef Ho Chi Minh in Hanoi eine Del
 
 Was nun folgte war ein über ein Jahr dauerndes Drama um die Tiere. Die noch junge DDR fand kein eigenes Schiff, welches zeitnah die Region anlaufen würde. Tiere des Transports starben daraufhin in Hanoi. Das Stadtkomitee der Vaterländischen Front in Hanoi hatte gar einen Elefanten "beschafft", dieser überstand den Winter 1956/57 aber nicht nicht. daraufhin bemühte sich die vietnamesische Seite einen weiteren zu fangen. Man fragte aber, ob denn wenigstens die Hirsche und Affen, die bereitstünden, schon vorher transportiert werden könnten.[^kosko2] Immer wieder wurden Schiffstransporte avisiert und wieder abgesagt, die Listen der bereitgestellten Tiere, die die Botschaft der DDR in Hanoi meldete, änderte sich ständig. Als letztlich ein polnisches Schiff, die Tiere in die DDR brachte waren mindestens ein Elefant, einige Raubkatzen und Affen, sowie Huftiere verstorben. dennoch wurde der 'Vietnamesische Tiertransport' für den Tierpark ein großer Werbeerfolg, was sicher auch an dem Elefantenkalb "Kosko" lag.
 
-![Elefantenkalb läuft mit Kindern durch den Tierpark](images/cmw/Kosko-1958-Zimmer.jpg)
+![Elefantenkalb läuft mit Kindern durch den Tierpark](/images/cmw/Kosko-1958-Zimmer.jpg)
 _"Kosko" rennt mit begeisterten Kindern um die Wette, 1958. (Tierpark Berlin, Foto Zimmer)_
 
 Letztlich in heutigem Verständnis war dieser Erfolg zu dem hohem Preis des Todes der 'Wildfänge' erlangt worden.
@@ -147,7 +147,7 @@ Allerdings zeigten sich nun auch Brüche, die von einem möglichen Ende des Tier
 
 Aber insgesamt verlängerten sich nicht nur die Lebensdauern in Zoos, die gehaltenen Tiere vermehrten sich auch durch Nachzuchten. Eine zwar nach heutigem Verständnis ungeeignete neue Form der Zooarchitektur, die 'Badezimmerarchitektur' der gefließten Ställe hielt Einzug. Gefließte Innenställe ließen sich leicht reinigen und beseitigten damit den Einfluss von Bakterien und Glasfronten verhinderten, zum Beispiel, dass sich Menschenaffen an den menschlichen Besuchern mit Keimen ansteckten oder ungeeignetes Futter verabricht wurde. Mehr dazu sowohl bei [[story.Zoo Architecture]] als auch [[story.feeding]] und [[story.fütternVerboten]].
 
-![Das Innere des Raubtierhauses](images/cmw/Neues_Raubtierhaus_14061973.jpg)
+![Das Innere des Raubtierhauses](/images/cmw/Neues_Raubtierhaus_14061973.jpg)
 *Das Raubtierhaus des Berliner Zoos war nur ein Beispiel für die 'Badezimmerarchitektur, 1973. (AZGB)*
 
 Seit den 1960er Jahren sind zunehmend Züchtungen [[story.Breeding Animals for the Zoo]], also in Zoos gezeugte Nachkommen, an die Stelle der Wildfänge [Wildfang) getreten. Heute werden im Rahmen des Artenschutzes werden von Zoos in der Regel keine Individuen gefährdeter Arten mehr aus der Natur entnommen. Das Übereinkommen über den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen (Convention on International Trade in Endangered Species of Wild Fauna and Flora (kurz [[story.Cites]]) beendete letztlich den Fang von Tieren in ihren Lebensräumen für Zoos weitgehend.

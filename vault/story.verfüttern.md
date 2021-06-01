@@ -30,7 +30,7 @@ Ein zusätzliches Problem bestand darin, dass das in den Westsektoren anfallende
 
 Die Löwen im Berliner Zoo erhielten indes nur einen Teil des Elefantenfleisches. Ein anderer Teil gelangte in menschliche Versorgungskreisläufe. Kurz darauf berichtete nämlich der Zoo-Angestellte Karl Wolf jun., ihm sei Elefantenfleisch zum Preis von 65 Reichsmark pro Pfund angeboten worden.[^Verfüttern6] Die Polizei nahm Ermittlungen wegen illegalen Verkaufs von 20 Pfund Elefantenfleisch auf dem Schwarzmarkt auf. Wolf wurde umgehend beauftragt, das Fleisch zu kaufen und dem Zoo zu berichten. Tatsächlich erschien er mit 5 Pfund Fleisch, das ihm eine Bewohnerin seines Hauses, Dorothea Bening, vor dem Restaurant Savarin für 325 Reichsmark übergeben hatte. Einer der Zoo-Wärter wurde angeklagt, das Fleisch entwendet und rund 20 Pfund unter der Hand weiterverkauft zu haben.[^Verfüttern7] Der Elefant war am Ende vom Schautier zum Fleischlieferanten geworden. Als die Presse Wind von der Sache bekam, hieß es dort "Elefant à la carte" und „Siam auf der Speisekarte“[^Verfüttern8] [[Kriegsopfer und Delikatesse]]
 
-![Zeitungsartikel in _Der Morgen_ vom 20.3.1947](images\mv\Speisekarte.jpg) 
+![Zeitungsartikel in _Der Morgen_ vom 20.3.1947](/images/mv/Speisekarte.jpg) 
 
 _Die Tageszeitung 'Der Morgen' berichtet über den illegalen Verkauf des Elefantenfleischs,20.03.1947._
 

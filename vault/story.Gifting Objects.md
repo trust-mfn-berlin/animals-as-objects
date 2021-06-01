@@ -27,7 +27,7 @@ Die Fundamente des Berliner Naturkundemuseums [[story.Short History MfN]] und Zo
 
 Die Basis für den 1844 gegründeten 'Zoologischen Garten bei Berlin' beruhte ausschließlich auf königlichen Geschenken. Sowohl das in Erbpacht für einen nominalen Preis überlassene Gelände im südlichen Teil des Tiergartens als auch Tiere und sogar Materialien für die Umzäunung des Geländes kamen aus königlichem Besitz. Friedrich Wilhelm IV. gestattete dem Gründungsdirektor und erstem Professor für Zoologie der Berliner Universität, Martin Hinrich Lichtenstein, aus den Tieren der königlichen Menagerie auf der Pfaueninsel diejenigen auszusuchen, die er auszustellen beabsichtigte. Die Tierhäuser der Pfaueninsel wurden abgebaut und im Zoo aufgestellt. Hinzu kamen mehrere großzügige zinslose Darlehen.[^gifts2]
 
-![desc](images/cmw/Zooplan_1845.jpg)
+![desc](/images/cmw/Zooplan_1845.jpg)
 *Plan des Zoologischen Gartens bei Berlin, 1845. (AZGB)*
 
 In beiden Fällen wurden die königlichen Geschenke bald von Privatleuten, Gelehrten und Beamten ergänzt. Im Naturkundemuseum waren unter anderem Sammlungen des Entomologen Johann von Hoffmannsegg und Alexander von Huumboldt, die - möglicherweise auch durch finanzierung des Herrscherhauses - das Museum weiter bereicherten.[^gifts3] Auch der Zoo erhielt fortan Geschenke für seine Sammlung. So bat dessen Leitung Preußische Beamte udn Diplomaten in Übersee um Schenkungen.[^gifts4]
@@ -41,7 +41,7 @@ Das Naturkundemuseum erhielt in dieser Zeit auch vollständige Sammlungen von pr
 
 Von den ersten Elefanten des Zoos waren die meisten Geschenke, wie zum Beispiel die indischen Elefantenbullen "Rostom" und "Omar", die der Prinz von Wales seinem Cousin dem Kronprinzen aus dem indischen Kolonialreich vermachte, der sie wiederum an den Zoo gab.
 
-![Zwei Elefanten und drei Pfleger](images\cmw\Elefant_Omar.jpg)
+![Zwei Elefanten und drei Pfleger](/images/cmw/Elefant_Omar.jpg)
 *Die beiden asiatischen Elefantenbullen "Rostom" und "Omar", um 1885. "Rostom" hatte untypischerweise keine Stoßzähne. (AZGB)*
 
 Auch später als der internationale Tierhandel [[story.Trading Animals]] bereits einen großen Teil der Tiere für die internationalen Tiergärten beschaffte, blieben Geschenke wertvolle Ergänzungen der Sammlungen. Zu den Geschenken deutscher 'Forschungsreisender' gehörte zum Beispiel das "Deutsch-Ostafrikanische Nashorn“ von Carl Georg Schillings, das dieser 1904 dem Zoo gab.

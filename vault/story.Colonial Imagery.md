@@ -23,13 +23,13 @@ published: false
 
 [[material.Lutz Heck]] ging als Assistent seines Vaters, des Zoodirektors, [[material.Ludwig Heck]] auf Fangreisen im östlichen Afrika. Der ambitionierte Fotograf und ihn begleitende Flimproduzenten nahmen unzählige Bilder auf, um die Reise zu dokumentieren. Dabei reproduzierten sie rassistische Steretypen. Auch noch nach 1945 war manches Bildmaterial aus den Zooarchiven und der Presseberichterstattung dazu angetan, diese zu verfestigen und zu erhalten.
 
-![desc](images/cmw/Mantelpavian.JPG)
+![desc](/images/cmw/Mantelpavian.JPG)
 *Mantelpavian mit einem der einheimischen Betreuer, 1927. (AZGB)*
 
 Dieses ist eines der wenigen Bilder aus der Überlieferung von [[material.Lutz Heck]] im Archiv der Zoologischen Gärten Berlin, die einen der vielen Fänger, Träger oder Tierpfleger zeigen, die vor Ort bei seinen Fangreisen fast alle körperliche Arbeit verrichteten. Die später veröffentlichten Bilder zeigen fast ausnahmslos die europäischen Mitglieder der Expeditionsteams. Diese sind in Positionen der Macht, als Beherscher der Tiere und aber auch der einheimischen Träger und XXXX
 Bilder mit den Fängern und Betreuern allein sind selten und praktisch nie ohne den Wunsch einer Zuschaustellung überliefert.
 
-![Frau mit einem Schimpansenjungtier und einem Gorillajungtier an Bord eines Schiffs](images\cmw\Gorilla_Schimpansentransport_25061936.jpg)
+![Frau mit einem Schimpansenjungtier und einem Gorillajungtier an Bord eines Schiffs](/images/cmw/Gorilla_Schimpansentransport_25061936.jpg)
 
 *Eva MacLean an Bord eines Schiffs mit einem jungen Schimpansen und einem jungen Gorilla, 1936. (AZGB)*
 
@@ -37,8 +37,8 @@ Der Transport von lebenden Wildtieren auf Schiffen aus ihren Herkunftsgebieten n
 
 Das weit verbreitete und auch hier gezeigte Bild von Zoodirektor Ludwig Heck zeigt ihn mit dem jungen Gorilla "Bobby" auf dem Arm. Quasi alle Zoodirektor\*innen gestern und heute lassen sich mit ihnen anvertrauten Tieren abbilden und diese Art Foto erfüllt oft einen gewünschten Wiedererkennungswert. In dem Kontext einer kolonialen Verklärung eingeschrieben aber lassen sich die Bilder eben auch als Zeichen einer europäischen Dominanz über die Fauna des gesamten Planeten lesen. 
 
-![Bild von Ludwig Heck mit dem jungen Affen "Bobby" auf dem Arm](images\cmw\Ludwig-Heck-Bobby.jpg)
+![Bild von Ludwig Heck mit dem jungen Affen "Bobby" auf dem Arm](/images/cmw/Ludwig-Heck-Bobby.jpg)
 Zoodirektor Lutz Heck mit dem jungen Gorilla "Bobby" auf dem Arm, um 1928. (Archiv der Zoologischen Gärten Berlin)
 
-![desc](images/cmw/Heck_Nashorn_Kral.jpg)
+![desc](/images/cmw/Heck_Nashorn_Kral.jpg)
 _Gehege im Fanglager, 1927 (Lutz Heck: Auf Tiersuche in weiter Welt)_

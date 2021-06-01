@@ -51,7 +51,7 @@ Hinzu kam ein besonderes Timing. "Knut" kam zu einem Zeitpunkt, an dem zum erste
 
 Der Zoo wollte das rege Interesse an dem Bären nutzen, finanziell und für den Artenschutz. Er schuf eine Marke, unter der lizensierte Produkte zum Verkauf angeboten wurden. Die **Erlöse kamen auch Artenschutzprojekten zugute**.[^trademark1] Der damalige Bundesumweltminister Sigmar Gabriel wurde offizieller Pate des kleinen Eisbären. Das sollte helfen, auf den menschengemachten globalen Klimawandels aufmerksam zu machen.[^trademark2] Im Frühjahr 2008 kam sogar ein Film über den jungen Eisbären und andere Tiere in die Kinos.[^trademark3] Die deutsche Ausgabe des Magazins 'Vanity Fair' hob "Knut" auf ihre Titelseite, die amerikanische zeigte ihn in einer Fotomontage zusammen mit Filmstar Leonardo di Caprio, der in jenem Jahr einen Film über den menschengemachten Klimawandel produziert hatte, auf einer Eisscholle.
 
-![Titelseite einer Zeitschrift](images\cmw\Knut.JPG)
+![Titelseite einer Zeitschrift](/images/cmw/Knut.JPG)
 *Titelseite der deutschen Ausgabe der Zeitschrift Vanity Fair, Nr 14 von 2007*
 
 "Knut" zog, als er nach einigen Monaten schon ein Eisbär-"Teenager" wurde viele Schaulistige an. Als Zoodirektor Bernhard Blaszkiewitz die Entscheidung traf, Pfleger Thomas Dörflein aus Sicherheitsgründen den Nahkontakt mit dem nun bereits gefährlichen Bären zu untersagen, wurde dieser Entschluss von den "Knutfans" und Dörflein kritisiert.
@@ -83,7 +83,7 @@ Manche Autor\*innen nahmen in ihren Schreiben die Position des toten Tieres ein,
 
 Im Zoo wird 2012 die Skulptur "Knut der Träumer" nach einem Entwurf des Künstlers Josef Tabachnyk errichtet. Die etwa 1,5 m lange und etwas über einen Meter breite Figur am Eisbärengehege besteht aus einem in Bronze gegossenen Eisbären, der auf zwei aus weißem Granit geformten Eisschollen liegt.[^tod1]
 
-![Skulptur eines liegenden Eisbärenjungen](images\cmw\Knut_der_Traeumer.jpg)
+![Skulptur eines liegenden Eisbärenjungen](/images/cmw/Knut_der_Traeumer.jpg)
 *Skulptur 'Knut der Träumer', 2021. (Clemens Maier-Wolthausen)*
 
 Die benötigten Spenden wurden vom Förderverein 'Stiftung Hauptstadtzoos' gesammelt. Zudem werden 2012  Repliken des Denkmals als Souvenir verkauft. Die als 'denkmal' bezeichnete Skulptur ist 2012 auch das Motiv einer Gedenkmünze aus versilberter Bronze der Staatlichen Münze Berlin.[^tod2]
@@ -109,15 +109,15 @@ Dem Zoodirektor hatte einige bereits zuvor vorgeworfen, seinen Schützling nicht
 
 >"HR: BLASZKIEWITZ // SIE SIND EIN WITZ //STOPFEN SIE IHR // HERZ + HIRN AUS"
 
-![Bild eines Protestplakats](images/cmw/Demo_Knut_020411_Broseke.jpg)
+![Bild eines Protestplakats](/images/cmw/Demo_Knut_020411_Broseke.jpg)
 *Protestplakat gegen die Präparation "Knuts", 2011. (AZGB)*
 
 Letztlich wurde Knut präpariert und sein Präparat ist heute  im Museum für Naturkunde zu sehen.
 
-![desc](images/cmw/130125_Knut_11.jpg)
+![desc](/images/cmw/130125_Knut_11.jpg)
 *"Knut" in der Prapärationswerkstatt des Berliner Naturkundemuseums, 2013. (Carola Radke, MfN 2013)*
 
-![desc](images/cmw/130220_Knut_Foyer_03.jpg)
+![desc](/images/cmw/130220_Knut_Foyer_03.jpg)
 *"Knut" in der Ausstellung des Naturkundemuseums, 2013. (Foto Carola Radke, MfN 2013)*
 
 ## "Knut" forever

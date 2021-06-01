@@ -19,7 +19,7 @@ English content goes here.
 
 :::DE:::
 
-![Bernhard Grzimek gibt ein Autogramm](images\cmw\10101970_Grzimek_TP_Barz.jpg)
+![Bernhard Grzimek gibt ein Autogramm](/images/cmw/10101970_Grzimek_TP_Barz.jpg)
 _Bernhard Grzimek gibt einem jungen Fan ein Autogramm auf der Tagung der Zoodirektoren 1970 im Tierpark Berlin, 10.10.1970. (AZGB, Foto Barz)_
 
 Bernhard Grzimek (1909-1987) studierte in Leipzig und Berlin Tiermedizin und arbeitete seit etwa 1933 nebenberuflich als Tierarzt im Berliner Zoo. Als Berlin durch die Alliierten bombadiert wurde, evakuierte der Zoo einige Menschenaffen in die Wohnung von Bernhard Grzimek und seiner Frau Hildegard als Berlin unter den alliierten Bomben litt. Grzimek wurde sowohl 1933 SA- als auch 1937 NSDAP-Mitglied, was er später verschwieg.

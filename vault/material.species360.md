@@ -19,7 +19,7 @@ published: false
 
 :::DE:::
 
-![Logo der Website species360](images\cmw\species360.JPG)
+![Logo der Website species360](/images/cmw/species360.JPG)
 
 **1974** wurde eine Nichtregierungsorganisation namens **ISIS (International Species Inventory System, oder deutsch Internationales Arten-Informationssystem)** gegründet. Ihr Ziel war es, **eine Datenbank aller Wildtiere in menschlicher Obhut** aufzubauen. Diese sollte helfen, Zuchtprogramme zu koordinieren und Inzucht bei einem Tausch von Tieren zwischen Zoos zu vermeiden und so die Zoopopulationen genetisch divers und gesund zu erhalten.
 

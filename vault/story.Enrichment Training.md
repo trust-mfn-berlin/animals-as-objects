@@ -21,7 +21,7 @@ English content goes here.
 
 Im September 2000 kam der asiatische Elefantenbulle "Victor" aus dem Zoo von Ramat Gan in Israel nach Berlin. Der Plan war, hier Nachwuchs zu zeugen. Nachdem zwei Jungtiere starben gebar "Pang Pha" schließlich das Kalb "Anchali". Diese lebt seitdem mit ihrer Mutter und den Tanten »Drumbo« und »Carla« auf der Anlage für die Elefantenkühe und -Kälber. Wie in den meisten Zoos weltweit wird auch in Berlin der Elefantenbulle nicht zusammen mit den Herden der Kühe und Jungtiere gehalten. Er bekommt aber täglich Besuch von einer Kuh. Hinzu kommt, dass im Zoo die Pfleger nicht auf die Bullenanlagen und in die Innengehege der Bullen gehen. "Geschützter Kontakt" wird diese Haltungsform genannt. Bei dieser haben die Pfleger keinen direkten körperlichenUmgang mit den männlichen Tieren, immer ist eine sichere Barriere zwischen Mensch und Tier. Dennoch ist es nötig, dass die Elefanten bestimmte Verhaltensweisen ausführen und einige Kommandos befolgen. Diese werden – nicht nur bei Elefanten, sondern auch bei einer großen Anzahl weiterer Zootiere – über ein besonderes Training erlernt, bei dem man den Tieren beibringt, auf besondere Kommandos mit bestimmten Handlungsmustern zu reagieren. Diese Konditionierung dient pflegerischen und medizinischen Zwecken und erlaubt es beispielsweise den Tieren mitzuteilen, wann sie sich in den Außenkäfig bewegen sollen oder wann sie ihr Ohr oder ihren Fuß an die Barriere halten sollen, damit tierärztliche Kontrollen oder auch Fußpflege erfolgen können. Nebenbei bereichert dieses »Medical-Training« den Tieren den Alltag. Eine Dressur zu reinen Unterhaltungszwecken, wie früher im Zoo mit den Elefanten und auch den Löwen auf der Freianlage, erfolgt nicht. In den 1930er Jahren gab es im Zoo regelrechte Dressurvorführungen mit 13 Löwen durch den Dompteur Kaden.  
 
-![desc](images/cmw/Dressur_kaden_1940_Heck.jpg)
+![desc](/images/cmw/Dressur_kaden_1940_Heck.jpg)
 _Löwendressur durch Dompteur Kaden, 1940. (AZGB)_
 
 ((AbbElefantendressur, 1936. (AZGB) )) 
@@ -45,16 +45,16 @@ Natürlich sind die konkreten Erfolge eines solchen Trainings nach dem Schema de
 
 Kawata, Ken. 2008. „Zoo Animal Feeding: A Natural History Viewpoint“. Der Zoologische Garten. Neue Folge 78: 17–42.
 
-![desc](images\cmw\Zooplakat_Schimpanse_Missi_1909.jpg)
+![desc](/images/cmw/Zooplakat_Schimpanse_Missi_1909.jpg)
 
-![desc](images/cmw/Elefant_Dressur.jpg)
+![desc](/images/cmw/Elefant_Dressur.jpg)
 Etwa 1930 (AZGB)
 
-![des](images\cmw\Schimpansin_Lore_Fahrrad.jpg)
+![des](/images/cmw/Schimpansin_Lore_Fahrrad.jpg)
 
-![desc](images\cmw\Schimpanse_Suse.jpg)
+![desc](/images/cmw/Schimpanse_Suse.jpg)
 
-![Fünf Kinder reiten auf dem Rücken einer jungen asiatischen Elefantenkuh](images/cmw/Shanti_Kinder_1953_S_3_91.jpg)
+![Fünf Kinder reiten auf dem Rücken einer jungen asiatischen Elefantenkuh](/images/cmw/Shanti_Kinder_1953_S_3_91.jpg)
 (AZGB, Schenkung durch Hannelore Heinzel)
 
-![Drei asiatische Elefantenkühe bei der Dressur](images\cmw\Elefantendressur.jpg)
+![Drei asiatische Elefantenkühe bei der Dressur](/images/cmw/Elefantendressur.jpg)

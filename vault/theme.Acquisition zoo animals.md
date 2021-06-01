@@ -27,7 +27,7 @@ Zur Zeit der Gründung der ersten - 'modern' oder 'wissenschaftlich' genannten -
 
 Viele der nicht einhemischen Tiere waren [[Geschenke|story.Gifting Objects]] an die Zoos durch die jeweils herrschenden Territorialfürsten. Diese wiederum hatten sie von 'Entdeckunsgreisenden' oder ihren Kolonialbeamten übersandt bekommen oder Hofmitglieder sowie Adelige hatten sie selbst gefangen oder angeboten bekommen. Insbesondere diese Quelle von Tieren hat in der Mehrheit der Fälle einen politischen Bezug oder war in der einen oder anderen Form mit einer erwünschten Propagandawirkung verbunden. Hier kann die politische Geschichte – genauer die Geschichte der diplomatischen Beziehungen – daher helfen, die Fragen nach den Quellen der Tiere in Zoos zu beantworten. Dem Besitz dieser Tiere wurde ein diplomatischer Wert zugeschrieben. Je seltener, größer, schwerer, gefährlicher oder neuer ein Tier entdeckt war, desto größer war dieser. Das hing damit zusammen, dass die Beschaffung jener Tiere oft hohe Kosten verursachte und die Tiere daher auch einen finanziellen Marktwert hatten, der durch den Akt des Schenkens in einen diplomatischen Wert übersetzt wurde.
 
-![Schwarz-weiß Foto eines liegenden und eines stehenden Elefanten mit drei Zoowärtern vor einem hohen Zaun](images/cmw/Elefant_Omar.jpg)
+![Schwarz-weiß Foto eines liegenden und eines stehenden Elefanten mit drei Zoowärtern vor einem hohen Zaun](/images/cmw/Elefant_Omar.jpg)
 _Die beiden asiatischen Elefanten "Omar" und "Rostom" waren 1881 Geschenke des mit dem preußischen Königshaus verwandten britischen Hofs. (AZGB)_
 
 Diese Geschenkpraxis setzte sich mit der Expansion der europäischen Kolonien fort, von der alle Zoos und auch der Berliner Zoologische Garten profitierten. Seit 1891 wurden in dessen Geschäftsberichten regelmäßig Geschenke aus den Kolonialgebieten erwähnt. Mitglieder des kaiserlichen Haushaltes, Gouverneure, Kolonialgesellschaften und Kaufleute sandten dem Zoo seltene Tiere. 1907 besaß er elf Löwen und nur ein einziges Tier war kein Geschenk aus den Kolonien.[^colonialDE1]
@@ -42,12 +42,12 @@ Ausführlich wird in [[story.Catching Animals]] über den wachsenden und immer p
 
 Zoos konnten sich zum Ende des 19. Jahrhunderts aus umfangreichen Angeboten mehrerer professioneller Händler bedienen. Auch den Museen boten berufsmäßige Händler naturwissenschaftlicher [[Spezimen|story.Collecting Specimen]] nun eine scheinbar unerschöpfliche und in Katalogen angebotene Vielfalt von Objekten an. Die großen Händler bündelten oft ihre Transporte im Ursprungsgebiet und versorgten dann mehrere Zoos aus den überlebenden Tieren eines Transports.
 
-![Schwarz-weiß Foto vieler verschieden großer Körbe, Kisten und Behälter mit Abdeckungen auf einem gepflasterten Weg. Eine Person mit Schiffermütze sitzt links daneben und hält einen zylinderförmigen, halb mit Wasser gefüllten Glasbehälter.](images/cmw/Aqua_Fischtransport_Seitz.jpg)
+![Schwarz-weiß Foto vieler verschieden großer Körbe, Kisten und Behälter mit Abdeckungen auf einem gepflasterten Weg. Eine Person mit Schiffermütze sitzt links daneben und hält einen zylinderförmigen, halb mit Wasser gefüllten Glasbehälter.](/images/cmw/Aqua_Fischtransport_Seitz.jpg)
 _Ankunft von neuen Tieren für das Aquarium Berlin, um 1920. (AZGB)_
 
 Manchmal organisierten oder finanzierten Zoos sogar eigene Expeditionen zur Beschaffung von Tieren. Zunächst im Zoo von London und besonders in amerikanischen Zoos waren diese Expeditionen nicht nur eine Bezugsquelle neuer Tiere, sie boten vor allem eine 'Begleitmusik' aus Veröffentlichungen und Zeitungsberichten, die sich zur Werbung eigneten. Im Berliner Zoo wurden eigene Fangexpeditionen nur in einem sehr begrenzten Maß durchgeführt. Der spätere Zoodirektor [[material.Lutz Heck]] organisierte in den 1920er und 1930er Jahren mindestens drei [[Tierfangexpeditionen|story.Heck Expeditions]], die neben dem Tiernachschub vor allem der eigenen Werbung dienten.
 
-![Schwarz-weiß Foto von fünf Giraffen, die aus ihren aneinandergereihten Transportkisten herausgucken. Eine Person mit Tropenhelm und hohen Stiefeln steht auf einer an der rechten Transportkisten angebrachten Stufe und guckt oben hinein.](images/cmw/Giraffentransport_1928_S_3_58_Wolter.jpg)
+![Schwarz-weiß Foto von fünf Giraffen, die aus ihren aneinandergereihten Transportkisten herausgucken. Eine Person mit Tropenhelm und hohen Stiefeln steht auf einer an der rechten Transportkisten angebrachten Stufe und guckt oben hinein.](/images/cmw/Giraffentransport_1928_S_3_58_Wolter.jpg)
 *Giraffentransport für den Zoo, 1928. (AZGB, Foto Wolter)*
 
 Die begleitenden Veröffentlichungen in Zeitungen, Büchern und als abendfüllende Kinofilme bedienten dabei die vorherrschenden Stereotypen über die Menschen in den Erdregionen, in denen die Tiere gefangen wurden, siehe auch [[story.Colonial Imagery]].
@@ -66,7 +66,7 @@ Zwar gab es seit dem ersten erfolgreichen Beispiel einer Erhaltungszucht durch Z
 
 Mit dem wachsenden Erfolg von Zuchtprogrammen versuchten sich Zoos und Aquarien zunehmend an der Zucht bis dahin nur selten oder selten erfolgreich – also mit langer Lebensdauer und regelmäßigem Nachwuchs – gezüchteter Spezies. Im [[Berliner Aquarium|story.Short History Aquarium]] gelang es in den 1990er Jahren zum ersten Mal dauerhaft verschiedene Quallenspezies zu züchten und so den Besucher\*innen zu zeigen.
 
-![Farbfoto eines Aquariumbeckens mit vielen, kleinen Quallen](images/cmw/Quallenaufzucht_um1999.jpg)
+![Farbfoto eines Aquariumbeckens mit vielen, kleinen Quallen](/images/cmw/Quallenaufzucht_um1999.jpg)
 _In diesen Becken züchtete das Berliner Aquarium Ende der 1990er Jahre erfolgreich Quallen. (AZGB)_
 
 ## Zoos und Tierparks zwischen Pragmatik, Freizeitunternehmen und Artenschutzstrategien

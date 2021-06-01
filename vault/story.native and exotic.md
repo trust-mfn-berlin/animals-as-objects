@@ -47,12 +47,12 @@ Aus dem geplanten zweiten Zoo wurde nichts. Zum einen arbeitete Zoodirektor [[ma
 Im Sommer 1931 organisierte der Berliner Zoo zum ersten Mal einen Tierkinderzoo - also eine Sonderschau mit Jungtieren verschiedener Tierarten, die durch Erwachsene aber auch Kinder gefüttert und gestreichelt werden konnten. Dieser wurde ein großer Erfolg. Gefüllt worden war er mit Jungtieren einheimischer
 Haustierrassen aber auch 'exotischeren' kleinen Raubtieren wie Bären- und Löwenjungen. 
 
-![Gepardenjunges und junge Hausschweine und Schafe](images\cmw\Tierkindergarten_1930er.jpg)
+![Gepardenjunges und junge Hausschweine und Schafe](/images/cmw/Tierkindergarten_1930er.jpg)
 _Bild aus dem 'Tierkinderzoo', um 1933. (AZGB)_
 
 Ziel der Zooleitung war offiziell, das Interesse der Kinder an Tieren insgesamt zu wecken. Stadtkinder sollten dadurch einen Teil der Natur, der ihnen mit der Urbanisierung entzogen worden war, zurückgewinnen. Dass diese Begegnungen zwischen Mensch und Tier heute nicht mehr dem Verständnis einer angemessenen Raubtierpflege entsprechen, spielte damals keine Rolle. Die Tiere kamen auch nicht aus dem Zoo selst. Dieser hätte gar nicht ausreichend Jungtiere gehabt. Sie wurden von der Tierhandelsfirma Ruhe zur geliefert gestellt, die sich dann mit dem Zoo die Einnahmen teilte. Es ist augenscheinlich, dass es vor allem um die Attraktion ging. Es scheint fast so, als hätte der Tierkinderzoo als eine Art Ersatz für die nun weniger populären und nicht mehr gewinnbringenden "Völkerschauen" gedient. Und in der Tat war der 'Tierkinderzoo' so erfolgreich, dass er in den folgenden Jahren mehrfach wiederholt wurde. [^tierkinder]
 
-![Kleinkinder spilen in einem Kinderwagen mit jungen Raubkatzen](images\cmw\Tierkinderzoo_1936.jpg)
+![Kleinkinder spilen in einem Kinderwagen mit jungen Raubkatzen](/images/cmw/Tierkinderzoo_1936.jpg)
 _Bild des 'Tierkinderzoos' von 1936. (AZGB)_
 
 Heute werden weder im Berliner Zoo noch in anderen deutschen Zoos Raubtiere in dieser Form ausgestellt. Möglicherweise standen aber die zwischen den 1950er und 1990er Jahren weit verbreiteten 'Löwenbaby-Fotografen' in der Tradition dieser Tierkinderzoos. [[story.lion babies]] Auch hier mussten 'exotische' Raubtiere und nicht einheimische Zicklein für die gestellten Fotografien herhalten. nach wie vor ist der Streichelzoo mit Haustieren wie Ziegen, Ponys und Schafen dennoch eine große Attraktion für junge Besucher\*innen. Heute also nur noch einheimische und domestizierte Tierarten.
@@ -70,7 +70,7 @@ die Gehege einheimischer Tiere mit den Farben
 Schwarz-Weiß-Rot sowie der Hakenkreuzflagge
 zu kennzeichnen.[^deutscherzoo1]
 
-![Zeitungsartikel](images\cmw\Ztg_Deutscher_Zoo.jpg)
+![Zeitungsartikel](/images/cmw/Ztg_Deutscher_Zoo.jpg)
 _Artikel im 'Völkischen Beobachter' mit einem Interview von Lutz Heck, 09.06.1934._
 
 Noch fehlte es aber an Platz. Im August 1935 erhielt der Berliner Zoo auf Initiative des Preußischen Ministerpräsidenten Hermann Göring eine Grundstückserweiterung an seinem nördlichen Rand.[^propa3] 
@@ -83,12 +83,12 @@ vervollständigten den 'Deutschen Zoo'.
 Hierzu gehörte auch eine besonders typisch empfundende Zooarchitektur. Diese war analog zu den exotisierenden Anlagen der Elefantenpagode, des Antilopen- und Giraffenhauses nun 'typisch deutsch'. Am 14. Mai 1937 wurde mit dem Haustierstall und einem 'niederdeutschen Bauernhaus' ein erster Abschnitt eröffnet. In diesem sollte auch propagandistisch verzerrt demonstriert werden, wie »innig« angeblich Mensch und Tier auf den "älteren deutschen Gehöften" miteinander gelebt hätten.[^deutscherzoo2]
 Hinzu kamen neue Anlagen für Braunbären und Wölfe. Ein Jahr später wurde südlich des 'Deutschen Zoos' im folgenden Jahr der alte, 1899 eingeweihte, Gämsenberg mit einem weiteren künstlichen Gebirgsgehege erweitert. Dieses wurde 1939 mit Steinböcken bestückt. Um dieses lagen kleine Steingärten mit mitteleuropäischer Gebirgsflora und Anlagen für unter anderem Murmeltiere oder Steinhühner und einem künstlichen Forellenbach. Dass praktisch alle diese Tiere auch in Nachbarländern des Deutschen Reichs vorkamen, und einige, wie der Bär in Deutschland praktisch gar nicht mehr, spielte für den propagandistischen Effekt keine Rolle. 
 
-![Plan des Zoologischen Gartens](images\cmw\Zooplan_1937.jpg)
+![Plan des Zoologischen Gartens](/images/cmw/Zooplan_1937.jpg)
 _Plan des Zoologischen Gartens aus dem Wegweiser für 1937._
 
 Das Kronjuwel des "Deutschen Zoos" war aber das Gehege für eine besondere Rinderart - den "Auerochsen" oder "Ur". [[story.Reviving the Aurox]] Dieser gilt als Stammvater aller europäischen Hausrinderrassen. Allerdings war das letzte Exemplar seiner Sorte im 17. Jahrhundert gestorben. Lutz Heck und sein Bruder [[material.Heinz Heck]], Direktor des Münchner Tierparks Hellabrunn, versuchten diese Tiere aus Kreuzungen verschiedener Rinderrassen wiedererstehen zu lassen.[^propa4]
 
-![Bild eines Rinds](images/cmw/aurox.jpg)
+![Bild eines Rinds](/images/cmw/aurox.jpg)
 Eines der Rinder, die aus den Rückzüchtungen Lutz Hecks hervorgingen, um 1930. (AZGB)
 
 Lutz Heck ging es darum, ein deutsches Urtier zu erschaffen, das "als echtes Symbol deutscher Kraft und deutschen Mutes" gelten sollte.[^propa5] Er verwies in seinen Veröffentlichungen immer wieder auf das Nibelungenlied, in dem auch Siegfrieds Jagd auf Auerochsen besungen wird.[^propa6] Den Auerochsen aber haben die Brüder Heck nicht wieder zum Leben erwecken. Es fehlte ihnen an genetischem Material, sie versuchten sich in einer sogenannten Abbildzüchtung in der lediglich die äußerlichen Merkmale einer Tierart näherungsweise reproduziert werden. Der Versuch galt vielen Kollegen schon damals und gilt auch heute weithin als unwissenschaftlich. Propagandistisch aber konnte Heck seine "Auerochsen" ausschlachten und sich auch mit den Rindern den Nationalsozialisten anbiedern.

@@ -22,7 +22,7 @@ published: false
 #Stationen eines Elefanten 
 
 
-![Zeitungsartikel mit dem Titel Siam unter der Bandsäge, 1947](images\mv\BandsaegeQuali.jpg) 
+![Zeitungsartikel mit dem Titel Siam unter der Bandsäge, 1947](/images/mv/BandsaegeQuali.jpg) 
 
 _Zeitungsartikel im 'Telegraf' über "Siams" Verwertung, 21.03.1947._
 
@@ -30,11 +30,11 @@ In einem Zeitungsartikel von 1947 ist über den Tod von "Siam" zu lesen. Der Art
 
 Eine der Spuren führt zurück in die Sammlungen des Zoologischen Museums, das den Schädel für die wissenschaftliche Sammlung und ein Stück Rückgrat für die Ausstellung erhalten sollte, wie es in besagtem Zeitungsartikel heißt.[^siam1] Ein privater Präparator namens Kriegerowski wiederum, der regelmäßig Tiere vom Zoo übernahm, erhielt die Füße des Tieres, aus denen er Papierkörbe mit Staniolpapier fertigte, wie weiter zu lesen ist.[^siam2] Hier verliert sich die Spur. Was in private Hände gelangte, ist selten oder zumindest seltener wieder auffindbar als das, was in öffentlichen Sammlungen lagert. Wobei sich auch die Suche im Museum für Naturkunde Berlin als schwierig herausgestellt hat. Mein Kollege und ich haben in der Säugetiersammlung viele Kisten, Schränke und Regale nach dem Schädel durchsucht, bislang ohne Erfolg.[^siam3]
 
-![Elefantenknochen in der Säugetiersammlung des MfN, 2020](images\mv\Saeugetiersammlungb.jpg) 
+![Elefantenknochen in der Säugetiersammlung des MfN, 2020](/images/mv/Saeugetiersammlungb.jpg) 
 
-![Elefantenknochen in der Säugetiersammlung des MfN, 2020](images\mv\Saeugetiersammlungc.jpg)
+![Elefantenknochen in der Säugetiersammlung des MfN, 2020](/images/mv/Saeugetiersammlungc.jpg)
 
-![Elefantenknochen in der Säugetiersammlung des MfN, 2020](images\mv\Saeugetiersammlunga.jpg)
+![Elefantenknochen in der Säugetiersammlung des MfN, 2020](/images/mv/Saeugetiersammlunga.jpg)
 
 
 _Suche in der Säugetiersammlung des Museums für Naturkunde Berlin, November 2020 (Foto: Mareike Vennen)._

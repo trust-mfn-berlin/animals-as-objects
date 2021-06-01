@@ -20,7 +20,7 @@ published: false
 
 ## Verwerten
 
-![Zeitungsartikel mit dem Titel Siam unter der Bandsäge, 1947](images\mv\BandsaegeQuali.jpg) 
+![Zeitungsartikel mit dem Titel Siam unter der Bandsäge, 1947](/images/mv/BandsaegeQuali.jpg) 
 
 _Zeitungsartikel im 'Telegraf' über "Siams" Verwertung, 21.03.1947._
 
@@ -32,11 +32,11 @@ Nach ihrem Tod werden die Kadaver von Zootieren, zumal Großsäugern, meist nich
 
 Eine der Spuren führt zurück in das Zoologischen Museum. Nachdem der Körper des Elefanten zerteilt, seziert worden war, sollte das Museum den Schädel für seine wissenschaftliche Sammlung und ein Stück Rückgrat für seine Ausstellung erhalten, wie es in besagtem Zeitungsartikel heißt.[^Verfüttern1] Ein privater Präparator namens Kriegerowski wiederum, der regelmäßig Tiere vom Zoo übernahm, sollte die Füße zu Präparationszwecken erhalten, aus denen er Papierkörbe mit Staniolpapier fertigte, wie weiter zu lesen ist.[^Verfüttern2] Hier verliert sich die Spur, oder ich komme zumindest in der Recherche nicht weiter. Was in private Hände gelangte, ist selten oder zumindest seltener wieder auffindbar als das, was in öffentlichen Sammlungen lagert. Wobei sich auch die Suche im Museum für Naturkunde Berlin als schwierig herausgestellt hat. Mein Kollege und ich haben in der Säugetiersammlung viele Kisten, Schränke und Regale nach dem Schädel durchsucht, bislang ohne Erfolg.[^Verfüttern3]
 
-![Elefantenknochen in der Säugetiersammlung des MfN, 2020](images\mv\Saeugetiersammlungb.jpg) 
+![Elefantenknochen in der Säugetiersammlung des MfN, 2020](/images/mv/Saeugetiersammlungb.jpg) 
 
-![Elefantenknochen in der Säugetiersammlung des MfN, 2020](images\mv\Saeugetiersammlungc.jpg)
+![Elefantenknochen in der Säugetiersammlung des MfN, 2020](/images/mv/Saeugetiersammlungc.jpg)
 
-![Elefantenknochen in der Säugetiersammlung des MfN, 2020](images\mv\Saeugetiersammlunga.jpg)
+![Elefantenknochen in der Säugetiersammlung des MfN, 2020](/images/mv/Saeugetiersammlunga.jpg)
 
 
 _Suche in der Säugetiersammlung des Museums für Naturkunde Berlin, November 2020 (Foto: Mareike Vennen)._
@@ -55,7 +55,7 @@ Ein zusätzliches Problem bestand darin, dass das in den Westsektoren anfallende
 
 Die Löwen im Berliner Zoo erhielten indes nur einen Teil des Elefantenfleisches. Ein anderer gelangte in menschliche Versorgungskreisläufe, genauer gesagt landete es auf dem Schwarzmarkt und von dort angeblich auf der Speisekarte eines Berliner Restaurants. Als der Zoo-Angestellte Karl Wolf jun. berichtete, ihm sei Elefantenfleisch zum Preis von 65 Reichsmark pro Pfund angeboten worden[^Verfüttern10], nahm die Polizei umgehend Ermittlungen  auf. Wolf wurde beauftragt, das Fleisch zu kaufen und dem Zoo zu berichten. Tatsächlich erschien er mit 5 Pfund Fleisch, das ihm eine Bewohnerin seines Hauses vor dem Restaurant Savarin für 325 Reichsmark übergeben hatte. Einer der Zoowärter wurde angeklagt, das Fleisch entwendet und rund 20 Pfund unter der Hand weiterverkauft zu haben.[^Verfüttern11] Der Elefant war am Ende vom Schautier zum Fleischlieferanten geworden. Als die Presse Wind von der Sache bekam, hieß es dort "Elefant à la carte" und "Siam auf der Speisekarte".[^Verfüttern12] [[Kriegsopfer und Delikatesse]]
 
-![Zeitungsartikel in _Der Morgen_ vom 20.3.1947](images\mv\Speisekarte.jpg) 
+![Zeitungsartikel in _Der Morgen_ vom 20.3.1947](/images/mv/Speisekarte.jpg) 
 
 _Die Tageszeitung 'Der Morgen' berichtet über den illegalen Verkauf des Elefantenfleischs,20.03.1947._
 

@@ -23,11 +23,11 @@ published: false
 
 ![Bild eines ausgewachsenen männlichen Gorilla](/images/cmw/Bobby-old.jpg)
 
-![description](images\cmw\bobby-young.jpg)
+![description](/images/cmw/bobby-young.jpg)
 
-![description](images\cmw\Liebetreu_Bobby.jpg)
+![description](/images/cmw/Liebetreu_Bobby.jpg)
 
-![description](images\cmw\Wegweiser_1935_Bobby.jpg)
+![description](/images/cmw/Wegweiser_1935_Bobby.jpg)
 
 <!-- Bild des toten Gorilla -->
 

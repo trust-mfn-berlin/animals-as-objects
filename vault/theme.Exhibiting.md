@@ -26,7 +26,7 @@ Zoos, Tierparks, Aquarien, Naturkundemuseen - sie alle sind naturkundliche Samml
 **Das kunstvoll präparierte Schaupräparat, das in den Dioramen der Naturkundemuseen wie lebensecht dargestellte Tier, ist nicht die Regel. Zwar nehmen die Besucherinnen und Besucher dieses am meisten wahr, hinter den Kulissen der Museen aber befinden sich die oft um ein Vielfaches größeren 'wissenschaftlichen Sammlungen' der Häuser.** In diesen finden unzählige Objekte, die Forscher\*innen aus aller Welt als Quellen oder Vergleichsmaterial ihrer wissenschaftlichen Arbeiten dienen. Mal sind es vollständige Skelette, mal sind es gar nur fossile Knochenteile. Die wissenschaftlichen Sammlungen des Naturkundemuseums umfassten 2021 mehr als 30 Millionen Objekte. Davon bekommen die Besucherinnen und Besucher selbstverständlich nur einen kleinen Teil in den öffentlich zugänglichen Räumen des Museums zu sehen.
 **Bei Zoos ist die Trennung in unterschiedliche Sammlungen nicht vorhanden.** Wohl aber gibt es Räumlichkeiten, in denen Tiere aus unterschiedlichen Gründen isoliert werden können, sei es, weil sie tragend sind oder gebären, oder weil sie krank sind und von den Artgenossen isoliert werden. Im Tierpark Berlin lebte der alte China-Alligator "Mao" die letzten Jahre seines langen Lebens von den Besuchern und kampflustigen jüngeren Artgenossen unbehelligt in einem Becken hinter den Kulissen. 
 
-![Zwei Männer begutachten einen jungen Alligator](images/cmw/Dathe_Petzold_Mao.jpg)
+![Zwei Männer begutachten einen jungen Alligator](/images/cmw/Dathe_Petzold_Mao.jpg)
 *China-Alligator "Mao" wird nach seiner Ankunft im Mai 1957 durch Tierparkdirektor Heinrich Dathe und den Oberassistenten untersucht. (AZGB)*
 
 Manche Tierarten werden bei zu kaltem Wetter in den Tierhäusern eingesperrt oder aber haben die Möglichkeit sich selbst auszusuchen, wo sie sich aufhalten wollen. In der Regel aber sind die allermeisten Zootiere für die Besucher sichtbar, wenn sie sich nicht entscheiden, sich zu verstecken.
@@ -55,7 +55,7 @@ Hier gab es Überschneidungen mit den traditionellen Zoos. Besucher\*innen des B
 
 ### Quagga
 
-![desc](images\cmw\Quagga_1873.jpg)
+![desc](/images/cmw/Quagga_1873.jpg)
 
 
 ### Dinosauerier
@@ -92,7 +92,7 @@ Muss-Arten
 ![desc](/images/cmw/Elefant_Dressur.jpg)
 Etwa 1930 (AZGB)
 
-![Drei asiatische Elefantenkühe bei der Dressur](images\cmw\Elefantendressur.jpg)
+![Drei asiatische Elefantenkühe bei der Dressur](/images/cmw/Elefantendressur.jpg)
 
 ## Museen als Zentren der Diversitätsbildung
 

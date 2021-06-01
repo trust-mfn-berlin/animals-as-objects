@@ -21,6 +21,6 @@ published: false
 
 # Löwen und Ruinen
 
-![Löwin und Löwe vor der Fassade des kriegszerstörten Aquariums](images\cmw\Loewin_Ruine_Aqua_S_60.jpg)
+![Löwin und Löwe vor der Fassade des kriegszerstörten Aquariums](/images/cmw/Loewin_Ruine_Aqua_S_60.jpg)
 Diese beiden jungen Löwen haben den Krieg überlebt. In den letzten Tagen der Schlacht und Belrin und den ersten nach der Befreiung der Stadt wurden sie in dem Luftschutzraum unter dem Gemsenfelsen versteckt. Hier sollten sie vor den Geschossen der Kämpfe und vor marodierenden Soldaten der Roten Armee geschützt und versteckt werden. gehörten zu den ersten Zootieren, die im Mai/ Juni 1945 wieder in den Außengehegen lebten.
 

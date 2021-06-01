@@ -35,7 +35,7 @@ nach und nach die ersten Steinbauten, diese sind meist für einzelne Indivuen ei
 Auch in den Außengehegen setzt sich das fort
 ![Postkarte des ehemaligen Gemsenfelsens](/images/cmw/Gemsenfelsen.jpg)
 
-![das Innere des Vogelhauses](images\cmw\Vogelhaus_innen_um_1930.jpg)
+![das Innere des Vogelhauses](/images/cmw/Vogelhaus_innen_um_1930.jpg)
 _Das Innere des Vogelhauses glich einem 'Supermarktregal' mit endlosen Reihen kleiner Käfige übereinander. In den meisten lebte nur ein Individuum einer Art, um 1930. (AZGB)_
 
 Ab etwa 1871 dann exotisierende Architektur, erste wirkliche Freianlagen vor den Häusern sehr klein

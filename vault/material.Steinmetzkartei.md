@@ -18,7 +18,7 @@ published: false
 
 :::DE:::
 
-![Karteikarte mit handschriftlichen Eintragungen](images\cmw\Kartei_Flusspferd1.jpg)
+![Karteikarte mit handschriftlichen Eintragungen](/images/cmw/Kartei_Flusspferd1.jpg)
 _Karteikarte der 'Steinmetz-Kartei' zu Zwergflusspferden, um 1935. (AZGB)_
 
 In den 1930er Jahren arbeitete der promovierte Zoologe **Hermann Steinmet**z (1898-1954) als Oberassistent im Berliner Zoo. Gemeinsam mit [[material.Lutz Heck]] floh er in den letzten Tagen des Kampfes um Berlin aus dem Zoo und der Stadt. Ab 1948 war Steinmetz der erste Direktor des Ruhr-Zoos in Gelsenkirchen.
