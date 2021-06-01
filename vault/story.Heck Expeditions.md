@@ -2,7 +2,7 @@
 id: 6526be8c-01f6-4c05-a41d-fae91b634ced
 title: Catching Expeditions of the Berlin Zoo
 desc: Put a description of this note here...
-updated: 1622126207388
+updated: 1622581415524
 created: 1619426293502
 title_de: Tierfangexpeditionen des Berliner Zoos
 desc_de: Der spätere Zoodirektor Lutz Heck unternahm in den 1920er und 1930er Jahren Tierfang-Expeditionen für den Zoologischen Garten in Ostafrika und Kanada. Bei ersteren verknüpfte er das Ziel des Tierfangs mit kolonialromantischer Propaganda und nutzte die Expeditionen als Werbung für den Zoo und die eigene Person.
@@ -45,7 +45,7 @@ Im Anschluss an die Überfahrt nach Marseille wurden die Tiere weitere sechs Tag
 
 Die Tiere wurden in Berlin später auf einem großen 'Affenfelsen' angesiedelt. Noch heute sind Nachkommen der Expeditionsbeute dort untergebracht.
 
-![des](images/cmw/Mantelpaviane_Felsen_Heck.jpg)
+![des](images\cmw\Mantelpaviane_Felsen_Heck.jpg)
 *Der Pavianfelsen im Berliner Zoo, um 1930. (AZGB, Foto Heck)*
 
 ## Giraffenfang und 'Völkerschau'
