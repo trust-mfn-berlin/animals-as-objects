@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1622035078514
+updated: 1622545457715
 created: 1618326133707
 ---
 
@@ -48,13 +48,17 @@ Use the longer dashes with spaces around it in texts – like this.
 
 Only use "these quotation marks" in DE and EN, not „these quotation marks”
 
+- Bullet points like this
+* or like this
+- always leave a blank line above and below the list
+
 ## Footnotes: Suggestion of a modified "Chicago Manual, 17th edition (note)"
 
 ### Monography
 Grzimek, Bernhard. Flug ins Schimpansenland. Reise durch ein Stück Afrika von heute. Stuttgart: Kosmos 1955. [pages = : 98]
 
 ### Anthology
-Gregory Kohlstedt, Sally. „Reflections on Zoo History“. In New Worlds, New Animals. From Menagerie to Zoological Park in the Nineteenth Century, hg. [ed.] von Robert J. Hoage und William A. Deiss. Baltimore: Johns Hopkins Univ. Press, 1996: 3-7.
+Gregory Kohlstedt, Sally. "Reflections on Zoo History". In New Worlds, New Animals. From Menagerie to Zoological Park in the Nineteenth Century, hg. [ed.] von Robert J. Hoage und William A. Deiss. Baltimore: Johns Hopkins Univ. Press, 1996: 3-7.
 
 ### Journal
 Grincheva, Natalia. „U.S. Arts and Cultural Diplomacy: Post-Cold War Decline and the Twenty-First Century Debate“. The Journal of Arts Management, Law, and Society 40 (1. März 2010): 169–83. https://doi.org/10.1080/10632921.2010.504509.
