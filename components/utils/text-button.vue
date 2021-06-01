@@ -20,7 +20,7 @@ export default {
 
 <style lang="less" scoped>
 .text-button{
-  padding: 0.5rem @space-s;
+  padding: 0.625rem 0.8rem 0.7rem;
   background-color: @white;
   // border: @border-button;
   box-shadow: @shadow;
