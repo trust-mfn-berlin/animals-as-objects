@@ -1,12 +1,30 @@
 <template>
-  <nav>
-    <nuxt-link :to="rootUrl">Home</nuxt-link>
-    <nuxt-link :to="switchUrlComposed">{{siteLangSwap}}</nuxt-link>
+  <nav aria-label="Main">
+    <ul>
+      <li>
+        <text-button :linkto="rootUrl">Animals as Objects?</text-button>
+      </li>
+      <li class="flex-spacer"></li>
+      <li>
+        <text-button :linkto="rootUrl">Search</text-button>
+      </li>
+      <li>
+        <text-button linkto="/index">Index</text-button>
+      </li>
+      <li>
+        <text-button linkto="/about">About</text-button>
+      </li>
+      <li>
+        <text-button :linkto="switchUrlComposed">{{siteLangSwap}}</text-button>
+      </li>
+    </ul>
   </nav>
 </template>
 
 <script>
+import textButton from './utils/text-button.vue'
 export default {
+  components: { textButton },
   name:'navigation',
   computed:{
     siteLang(){
@@ -14,9 +32,9 @@ export default {
     },
     siteLangSwap(){
       if(this.siteLang == 'en' ){
-        return 'de'
+        return 'Deutsch'
       } else {
-        return 'en'
+        return 'English'
       }
     },
     rootUrl(){
@@ -49,12 +67,25 @@ export default {
 }
 </script>
 
-<style scoped>
+<style lang="less" scoped>
+
 nav{
   position: fixed;
-  background-color: #ccc;
-  padding:1rem;
-  top:0;
-  left:0;
+  top:@space-s;
+  left:@space-s;
+  width: calc(100% - @space-s*2);
+  z-index: @z-nav;
+
+  li{
+    list-style-type: none;
+  }
+
+  ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: @space-xs;
+
+  }
 }
 </style>

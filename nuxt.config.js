@@ -42,6 +42,7 @@ export default {
     less: [
       './assets/less/media-queries.less',
       './assets/less/variables.less',
+      './assets/less/z-index.less',
       './assets/less/typography.less'
     ],
   },

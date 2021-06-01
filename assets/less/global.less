@@ -1,7 +1,10 @@
+@import 'reset.less';
 @import 'fonts.less';
 @import 'variables.less';
+@import 'z-index.less';
 @import 'media-queries.less';
 @import 'typography.less';
+@import 'layout.less';
 
 html{
   font-size:24px;
@@ -25,13 +28,20 @@ html{
 }
 
 body{
-  
+  // background-color: #fff;
   font-size: 1rem;
-  margin:1rem;
+  margin:@space-s;
 
 }
 
 ::selection{
   background: rgba(0,0,0,0.8);
   color:grey;
+}
+
+:focus{
+  border: 1px solid @focus-blue;
+  box-shadow: @focus-glow;
+  outline: none;
+  // color: @focus-blue;
 }

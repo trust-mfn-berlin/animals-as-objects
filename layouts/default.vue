@@ -16,7 +16,5 @@ export default {
 </script>
 
 <style>
-.layout-container{
-  padding-top:3rem;
-}
+
 </style>

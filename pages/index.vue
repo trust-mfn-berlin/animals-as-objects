@@ -1,6 +1,6 @@
 <template>
   <div>
-    <graph />
+    <!-- <graph /> -->
     <ul>
       <li v-for="page of pages" :key="page.slug">
         <Nuxt-link :to="'/'+ page.slug" class="article-link">
