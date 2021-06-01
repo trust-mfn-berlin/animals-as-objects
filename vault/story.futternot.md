@@ -42,7 +42,7 @@ Nachdem der gröbste Schutt entfernt worden war, machten sich Katharina Heinroth
 
 _Gemüse- und Salatanbau auf dem Gelände des Zoologischen Gartens Berlin, abgedruckt im "Vorwärts", 18.04.1946._
 
-![Zeitungsauschnitt mit der Überschrift "Zoo: junge Tiere, junge Pflanzen, junge Menschen". Das Foto zeigt eine Person mit Pflug vor den ein ein dunkles und ein helles Pferd gespannt sind von hinten. Seitlich steht ein kleines Huftier in einem engen Käfig.](/images\mv\Zoo1946.jpeg)  
+![Zeitungsauschnitt mit der Überschrift "Zoo: junge Tiere, junge Pflanzen, junge Menschen". Das Foto zeigt eine Person mit Pflug vor den ein ein dunkles und ein helles Pferd gespannt sind von hinten. Seitlich steht ein kleines Huftier in einem engen Käfig.](/images/mv/Zoo1946.jpeg)  
 
 _Über den Gemüse- und Salatanbau im Zoologischen Garten Berlin berichtet die illustrierte Zeitschrift "Die Frau von heute", 07.05.1946._
 
