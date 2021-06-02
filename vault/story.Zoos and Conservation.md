@@ -2,7 +2,7 @@
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 title: Zoos and Conservation
 desc: Since only a relatively short time zoos intensify their conservation eforts.
-updated: 1622209594697
+updated: 1622642026072
 created: 1618994200982
 title_de: Zoos und Artenschutz
 desc_de: Seit relativ kurzer Zeit engagieren sich Zoos auch im Artenschutz.
@@ -18,8 +18,6 @@ published: false
 English content goes here.
 
 :::DE:::
-
-# Zoos als Artenschützer?!
 
 Zoos bewegen sich in einem Spannungsfeld zwischen einem oft sehr treuen und kenntnisreichen Publikum und einer berechtigten und lautstarken Kritik. Besucher\*innen, die 'ihre' Lieblinge ganz genau kennen und über viele Jahre beobachten, für die der Zoo eine Art erweitertes Wohnzimmer darstellt und die nicht selten dazu neigen, die ausgestellten Tiere stark zu vermenschlichen bilden das eine Extrem. Das andere sind lautstarke Gegner\*innen von Zoos, die deren sofortige Schließung und die 'Freilassung' der gehaltenen Tiere fordern. Zoos müssen ihre Legitimitätsbasis dauernd verteidigen und bauen. Die frühen Zoos bauten auf ihren Ruf als Bildungsstätten. Sie seien lebende Museen und wie diese Stätten der naturkundlichen Bildung.
 
