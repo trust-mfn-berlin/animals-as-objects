@@ -1,25 +1,38 @@
 <template>
   <div>
     <!-- <graph /> -->
-    <ul>
-      <li v-for="page of pages" :key="page.slug">
-        <Nuxt-link :to="'/'+ page.slug" class="article-link">
-        <h3>{{ page.title }}</h3>
-        <p>{{ page.slug }}</p>
-        <p>{{ page.tao_type }}</p>
-        </Nuxt-link>
-      </li>
-    </ul>
+    <Cascade :articles="pages" />
+    <textButton linkto="/index">View All Articles</textButton>
   </div>
 </template>
 
 <script>
+import textButton from '../components/utils/text-button.vue';
 export default {
+  components:{
+    textButton
+  },
   async asyncData({ $content }) {
-    const results = await $content().sortBy('tao_type').fetch();
-    var pages = []
+    const results = await $content().fetch();
+    var pages = [];
+    const max = 5;
+    var t = 0;
+    var m = 0;
+    var s = 0;
+    
     results.forEach(page => {
-      pages.push(page);
+      if(page.tao_type == "theme" && t < max){
+        pages.push(page);
+        t++
+      } else 
+      if(page.tao_type == "material" && m < max){
+        pages.push(page);
+        m++
+      } else
+      if(page.tao_type == "story" && s < max){
+        pages.push(page);
+        s++
+      }
     });
 
     return {

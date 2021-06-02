@@ -8,6 +8,7 @@ export default {
   props:{
     linkto:{
       type: String,
+      required: true
     },
     text:{
       type: String,
@@ -25,7 +26,7 @@ export default {
   background-color: @white;
   box-shadow: @shadow;
   border-radius: @radius-s;
-
+  width: auto;
   position: relative;
   
   &:hover{
