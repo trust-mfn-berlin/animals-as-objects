@@ -75,7 +75,7 @@ export default {
 <style lang="less" scoped>
 
 header{
-  margin-bottom: 3rem;
+  margin-bottom: 8rem;
 }
 
 nav{
@@ -89,8 +89,11 @@ nav{
   display: flex;
   justify-content: space-between;
 
+  pointer-events: none;
+
   li{
     list-style-type: none;
+    pointer-events: all;
   }
 
   ul{
