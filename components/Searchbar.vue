@@ -5,6 +5,7 @@
       v-model="searchQuery"
       type="search"
       autocomplete="off"
+      spellcheck="false"
       placeholder="Search Articles"
       
     />
