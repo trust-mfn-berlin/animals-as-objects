@@ -33,5 +33,12 @@ export default {
     };
     }
   },
+  head() {
+    return {
+      htmlAttrs: {
+        lang: 'de'
+      },
+    };
+  },
 }
 </script>
