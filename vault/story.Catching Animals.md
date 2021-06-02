@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching 'Exotic' Animals
 desc: Put a description of this note here...
-updated: 1622584657550
+updated: 1622650512864
 created: 1618492547915
 title_de: Fang 'exotischer' Tiere
 desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen.
@@ -131,12 +131,12 @@ Allerdings zeigten sich nun auch Brüche, die von einem möglichen Ende des Tier
  
 >"Although one might assume that our nutritional knowledge of captive animals is complete because of our long history of captive animal efforts, 60 to 70% of the animals dying in captivity die because of poor mnagement and husbandry , with nearly 25% dying from nutritional problems."[^1950s2]
  
-Aber insgesamt verlängerten sich nicht nur die Lebensdauern in Zoos, die gehaltenen Tiere vermehrten sich auch durch Nachzuchten. Eine zwar nach heutigem Verständnis ungeeignete neue Form der Zooarchitektur, die 'Badezimmerarchitektur' der gefließten Ställe hielt Einzug. Gefließte Innenställe ließen sich leicht reinigen und beseitigten damit den Einfluss von Bakterien und Glasfronten verhinderten, zum Beispiel, dass sich Menschenaffen an den menschlichen Besuchern mit Keimen ansteckten oder ungeeignetes Futter verabricht wurde. Mehr dazu sowohl bei [[story.Zoo Architecture]] als auch [[story.feeding]] und [[story.fütternVerboten]].
+Aber insgesamt verlängerten sich nicht nur die Lebensdauern in Zoos, die gehaltenen Tiere vermehrten sich auch durch Nachzuchten. Eine zwar nach heutigem Verständnis ungeeignete neue Form der Zooarchitektur, die 'Badezimmerarchitektur' der gefließten Ställe hielt Einzug. Gefließte Innenställe ließen sich leicht reinigen und beseitigten damit den Einfluss von Bakterien. Der Wunsch, die von Besucher\*innen als störend empfundenen Gitterstäbe zu beseitigen führte zu Glasfronten, die wiederum verhinderten, dass sich Menschenaffen an den menschlichen Besuchern mit Keimen ansteckten oder die ihnen ungeeignetes Futter verabreichten. Auch wurde die Schallbelastung für die Tiere gemindert. Mehr dazu sowohl bei [[story.Zoo Architecture]] als auch [[story.feeding]] und [[story.fütternVerboten]].
  
 ![Das Innere des Raubtierhauses](images\cmw\Neues_Raubtierhaus_14061973.jpg)
 *Das Raubtierhaus des Berliner Zoos war nur ein Beispiel für die 'Badezimmerarchitektur, 1973. (AZGB)*
  
-Seit den 1960er Jahren sind zunehmend Züchtungen [[story.Breeding Animals for the Zoo]], also in Zoos gezeugte Nachkommen, an die Stelle der Wildfänge [Wildfang) getreten. Heute werden im Rahmen des Artenschutzes werden von Zoos in der Regel keine Individuen gefährdeter Arten mehr aus der Natur entnommen. Das Übereinkommen über den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen (Convention on International Trade in Endangered Species of Wild Fauna and Flora (kurz [[story.Cites]]) beendete letztlich den Fang von Tieren in ihren Lebensräumen für Zoos weitgehend.
+Seit den 1960er Jahren sind zunehmend Züchtungen [[story.Breeding Animals for the Zoo]], also in Zoos gezeugte Nachkommen, an die Stelle der Wildfänge [Wildfang) getreten. Heute werden von Zoos in der Regel keine Individuen gefährdeter Arten mehr aus der Natur entnommen. Das Übereinkommen über den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen (Convention on International Trade in Endangered Species of Wild Fauna and Flora (kurz [[story.Cites]]) beendete letztlich den Fang von Tieren in ihren Lebensräumen für Zoos weitgehend. Für die im Anhang I des Abkommens aufgeführten Arten besteht ein generelles kommerzielles Handelsverbot für Individuen, die aus der Wildnis entnommen wurden. Handel mit Nachzuchten oder nicht-kommerzieller Handel sind möglich, wenn der Fortbestand der Art nicht gefährdet wird und nationale Gesetze eingehalten werden, sowie Ausfuhr- und Einfuhrgenehmigungen vorliegen. Allein im Anhang I, sind bereits viele der in Zoos besonders beliebten Schautiere aufgeführt, diejenigen die sich hier nicht finden, sind aber durch die Aufnahme in Anhang II strengen Regelungen unterworfen. Da einheimische Arten in Zoos oft Nachkommen zeugen, besteht für Zoos wenig Interesse an weiteren Wildfängen. Die Aquarien bilden hier aber oft noch eine Ausnahme, da sie nach wie vor Abnehmer von Fischen - Reptilien und Amphibien sind häufiger von der IUCN als gefährdet eingeschätzt - aus dem Meer sind.
  
 ____
 ## Footnotes
