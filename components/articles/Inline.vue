@@ -36,6 +36,9 @@ a{
     
     h6{
       white-space: nowrap;
+      text-overflow: ellipsis;
+      max-width: 15rem;
+      overflow:hidden;
     }
   }
 

@@ -1,17 +1,18 @@
 <template>
-  <div class="searchbar-container" role="search" aria-label="Find articles on this website" @click="expandSearchBar">
+  <div class="searchbar-container" role="search" aria-label="Find articles on this website">
     <input
       class="f-mono subheading"
       v-model="searchQuery"
       type="search"
       autocomplete="off"
       placeholder="Search Articles"
+      
     />
     <ul class="searchbar-results" v-if="articles.length">
       <li v-for="article of articles" :key="article.slug">
         <Inline 
           :article="article"
-          @click.native="closeSearchBar" 
+          @click.native="closeSearchBar"
         />
       </li>
     </ul>
@@ -32,9 +33,9 @@ export default {
       this.$store.commit('toggleSearchBar', true)
     },
     closeSearchBar(){
-      console.log('alert');
-      this.$store.commit('toggleSearchBar', false)
-      this.articles = []
+      // console.log('alert');
+      // this.$store.commit('toggleSearchBar', false);
+      this.articles = [];
     }
   },
   watch: {
@@ -66,7 +67,7 @@ export default {
 
   background-color: rgba(255,255,255,0.1);
   backdrop-filter: blur(15px);
-  
+
   &:hover{
     box-shadow: @shadow-hover;
   }
@@ -90,6 +91,7 @@ export default {
 
   &:focus{
     box-shadow: @shadow-focus;
+  
   }
 
   &:focus:after{
@@ -103,7 +105,28 @@ input[type='search']{
   border-radius: @radius-s;
   // padding: 0;
   margin: 0;
-  width:100%
+  // width:100%;
+  width:5rem;
+
+  transition: 250ms all ease;
+
+  &:focus{
+    width:20rem;
+  }
+
+  &::-webkit-search-cancel-button{
+    position:relative;
+    right:-@space-xs;  
+    -webkit-appearance: none;
+    height: 20px;
+    width: 20px;
+    // border-radius:10px;
+    // background: red;
+    cursor: pointer;
+    background-image: url('~assets/icons/cross-small.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+  }
 }
 
 .searchbar-results{

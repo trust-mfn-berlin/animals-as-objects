@@ -26,6 +26,7 @@ const createStore = () => {
         state.currentPathway.push(path);
       },
       toggleSearchBar(state, isOpen){
+        console.log('Is search open:', isOpen)
         state.searchBarIsOpen = isOpen
       }
     },
