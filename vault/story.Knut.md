@@ -2,7 +2,7 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1622579385452
+updated: 1622650724956
 created: 1618576718116
 title_de: Knut
 desc_de: Der 2006 geborene Eisbär "Knut" entwickelte eine bis dahin für ein einzelnes Zootier ungekannte Popularität. Medien und Zooleitung machten ihn zu einem 'Botschafter' der Klimakrise, die das Habitat der Eisbären bedrohte. Die starke Übertragung von Emotionen von Besucher\*innen und Fans in aller Welt auf das Tier wirkte über seinen Tod hinaus.
@@ -46,6 +46,7 @@ Ein Vorwurf des anzeigenden Tierschutzaktivisten: "Die Handaufzucht ist nicht ar
 
 Zwar verwiesen die Zoos in Leipzig und Berlin auf die unterschiedlichen Aspekte der Fälle, in der Presse aber und in den Augen vieler Beobachter\*innen wurden die beiden Ereignisse in einen ethischen und juristischen Zusammenhang gestellt. "Wird Knut ein Problembär?" fragte der Berliner Tagesspiegel.[^leipzig4] Das bezog sich auf die Frage, ob die irgendwann unweigerlich notwendige Trennung von dem menschlichen Pfleger für ein Tier, welches in der Wildbahn lange Jahre intensiv vom Muttertier begleitet würden traumatisch sein würde. Das nun sich gut entwickelnde Jungtier wurde nicht getötet und die Presse konnte titeln: "Eisbärbaby Knut entkommt der Todesspritze"[^leipzig5] oder "Eisbär Knut darf leben!"[^leipzig2]
 Zwar sah man im Berliner Zoo solche Diskussionen mit Skepsis, dem Bekanntheitsgrad des Tieres aber nützten sie - möglicherweise addierten sie gar einen besonderen Mitleidsfaktor für das nun scheinbar zweimal 'dem Tod entronnene' Eisbärenjunge.
+
 ## Botschafter des Klimaschutzes
 
 ![desc](images\cmw\Dorflein_Gabriel_Blaszkiewitz_230307_Broseke.jpg)
