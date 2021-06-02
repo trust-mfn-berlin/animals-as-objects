@@ -1,13 +1,19 @@
 <template>
   <div>
     <!-- <graph /> -->
-    <Cascade :articles="pages" />
-    <text-button linkto="/index">View All Articles</text-button>
+    <!-- <Cascade :articles="pages" /> -->
+    <!-- <text-button linkto="/index">View All Articles</text-button> -->
+    <timeline />
   </div>
 </template>
 
 <script>
+import timeline from '../components/graphs/timeline'
+
 export default {
+  components:{
+    timeline
+  },
   async asyncData({ $content }) {
     const results = await $content().fetch();
     var pages = [];
