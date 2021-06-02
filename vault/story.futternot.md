@@ -2,7 +2,7 @@
 id: d54394f6-1188-4ec3-b590-da329e657560
 title: Futternot
 desc: Put a description of this note here...
-updated: 1622040778537
+updated: 1622623550500
 created: 1621497485660
 title_de: Futternot
 desc_de: Put a DE description of this note here...
@@ -38,11 +38,11 @@ Im Zoo fehlte es damals an allem, von Futter über Brennholz bis zu Baumateriali
 
 Nachdem der gröbste Schutt entfernt worden war, machten sich Katharina Heinroth und die Zoomitarbeiter\*innen daran, möglichst viel Nahrung selbst zu produzieren. Eigentlich sollte der Zoo bei Wiedereröffnung im Juli 1945 Erholung und  Vergnügen jenseits des Nachkriegsalltags bieten. "Ich träumte dabei auch von schönen Blumenbeeten in den Alleen", sagt Katharina Heinroth in einem Interview, "aber es kommt anders. Jede freie Ecke muß mit Gemüse bepflanzt werden. Die leeren Freigehege werden unter unsere Angestellten für den eigenen Bedarf aufgeteilt."[^FutternotDE4] Außer der Gärtnerei, die bereits voll bestellt war, sollten nun "alle durch den Kampf im Zoo entstandenen Freiflächen mit Futtermitteln bebaut werden."[^FutternotDE5] Das Hirschgehege wurde zum Gemüsegarten, auf den freien Rasenflächen wuchsen schon bald Rüben, Kartoffeln und Salat[^FutternotDE6], kurz: Der Zoo wurde beackert.
 
-![Zeitungsausschnitt eines Fotos, auf dem zwei Personen mit Hut hinter einem Pflug stehen vor den ein dunkles und ein helles Pferd gespannt sind](/images/mv/LandwirtschaftZoo.jpg) 
+![Zeitungsausschnitt eines Fotos, auf dem zwei Personen mit Hut hinter einem Pflug stehen vor den ein dunkles und ein helles Pferd gespannt sind](images\mv\Vorwaerts1946AusschnittJPG.jpg) 
 
 _Gemüse- und Salatanbau auf dem Gelände des Zoologischen Gartens Berlin, abgedruckt im "Vorwärts", 18.04.1946._
 
-![Zeitungsauschnitt mit der Überschrift "Zoo: junge Tiere, junge Pflanzen, junge Menschen". Das Foto zeigt eine Person mit Pflug vor den ein ein dunkles und ein helles Pferd gespannt sind von hinten. Seitlich steht ein kleines Huftier in einem engen Käfig.](/images\mv\Zoo1946.jpeg)  
+![Zeitungsauschnitt mit der Überschrift "Zoo: junge Tiere, junge Pflanzen, junge Menschen". Das Foto zeigt eine Person mit Pflug, vor den ein dunkles und ein helles Pferd gespannt ist, von hinten. Seitlich steht ein kleines Huftier in einem Gitterkäfig.](images\mv\FrauVonHeute07051946AusschnittJPG.jpg)  
 
 _Über den Gemüse- und Salatanbau im Zoologischen Garten Berlin berichtet die illustrierte Zeitschrift "Die Frau von heute", 07.05.1946._
 
@@ -50,7 +50,7 @@ Allerdings reichte diese Ernte zur Versorgung der Pflanzenfresser bei weitem nic
 
 Die eigenen Bemühungen reichten für die Versorgung der Tiere jedoch nicht aus. Der Zoo war auf die Stadt angewiesen – auf die Verkehrsinfrastrukturen und die Schlachthöfe ebenso wie auf die Besucher\*innen und Behörden. In Zeitungsartikeln rief Katharina Heinroth die Berliner Bevölkerung dazu auf, die Tiere durch Lebensmittelspenden zu unterstützen.
 
-![Zeitungsausschnitt mit der Überschrift " Berliner, Rettet Euren Zoo!" Vier Fotos zeigen Menschen mit Hunden, Vögeln und einem Igel.](/images/mv/RettetZoo.jpg) 
+![Zeitungsausschnitt mit der Überschrift " Berliner, Rettet Euren Zoo!" Vier Fotos zeigen Menschen mit Hunden, Vögeln und einem Igel.](images\mv\TelegrafMaerzApril1949AusschnittJPG.jpg) 
 
 _Zeitungsaufruf im "Illustrierten Telegraf" zur Rettung des Zoos, März 1949._ 
 
