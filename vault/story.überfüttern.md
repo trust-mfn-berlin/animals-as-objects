@@ -2,7 +2,7 @@
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 title: üBerfüTtern
 desc: Put a description of this note here...
-updated: 1621959417531
+updated: 1622623762405
 created: 1620752738850
 title_de: Überfüttern
 desc_de: Put a DE description of this note here...
@@ -24,7 +24,7 @@ published: false
 
 Während der Zoo und die Stadt Berlin in den 1940er große Probleme hatten, ihre Bewohner\*innen zu ernähren, hatte sich die Situation Ende der 1950er Jahre weitgehend normalisiert.[^Überfüttern1] Ja, in mancher Hinsicht verkehrte sie sich sogar. In der Zeit von Wirtschaftswunder und Wachstumsboom fütterten die Zoobesucher\*innen die Tiere im Berliner Zoo wieder ganz nach Belieben, und zwar so ausgiebig, dass 1960 der afrikanische Elefant "Jambo" nach oder vielmehr infolge der Fütterung durch Zoobersucher\*innen erkrankte. 
 
-![Zeitungsartikel mit dem Titel: "Überfüttert! Berlins wertvollster Elefant in Todesgefahr", 1960]()
+![Zeitungsartikel mit dem Titel: "Überfüttert! Berlins wertvollster Elefant in Todesgefahr", 1960](images\mv\JamboUeberfuettertBildZeitungAusschnittJPG.jpg)
 
 _Schlagzeile der 'Bildzeitung' zur Überfütterungsfrage anlässlich der Erkrankung von "Jambo", 31.03.1960._ 
 
