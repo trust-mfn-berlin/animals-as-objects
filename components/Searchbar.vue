@@ -34,7 +34,7 @@ export default {
       this.$store.commit('toggleSearchBar', true)
     },
     closeSearchBar(){
-      // console.log('alert');
+      console.log('emptying searchbar...');
       // this.$store.commit('toggleSearchBar', false);
       this.articles = [];
     }
