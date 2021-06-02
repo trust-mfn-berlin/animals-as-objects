@@ -53,9 +53,6 @@ article{
     p{
       margin-top: @space-s;
       max-width: calc(30vw - 4rem);
-      // max-width: calc(50vw - 25.25rem);
-
-      // padding-right:15%;
     }
 
     &:hover{
