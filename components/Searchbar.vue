@@ -1,6 +1,7 @@
 <template>
   <div class="searchbar-container" role="search" aria-label="Find articles on this website">
     <input
+      ref="searchbar"
       class="f-mono subheading"
       v-model="searchQuery"
       type="search"
@@ -30,6 +31,9 @@ export default {
     }
   },
   methods:{
+    focusSearchBar(){
+      this.$refs.searchbar.focus();
+    },
     expandSearchBar(){
       this.$store.commit('toggleSearchBar', true)
     },
@@ -92,8 +96,8 @@ export default {
 
   &:focus{
     box-shadow: @shadow-focus;
-  
   }
+
 
   &:focus:after{
     border: @border-button-focus;
@@ -137,5 +141,6 @@ input[type='search']{
   li{
     margin-bottom: @space-xs;
   }
+
 }
 </style>
