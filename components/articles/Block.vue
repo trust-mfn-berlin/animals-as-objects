@@ -1,5 +1,5 @@
 <template>
-  <article :class="article.tao_type">
+  <article class="block" :class="article.tao_type">
     <nuxt-link :to="'/'+article.slug">
     <img src='https://via.placeholder.com/300' />
     <div class="text">

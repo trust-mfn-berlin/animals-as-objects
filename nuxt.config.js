@@ -56,7 +56,8 @@ export default {
   components: {
     dirs: [
       '~/components',
-      '~/components/base'
+      '~/components/base',
+      '~/components/articles'
     ]
   },
 

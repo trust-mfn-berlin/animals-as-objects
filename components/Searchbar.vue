@@ -9,9 +9,10 @@
     />
     <ul class="searchbar-results" v-if="articles.length">
       <li v-for="article of articles" :key="article.slug">
-        <NuxtLink :to="article.slug" @click.native="closeSearchBar">
-          {{ article.title }}
-        </NuxtLink>
+        <Inline 
+          :article="article"
+          @click.native="closeSearchBar" 
+        />
       </li>
     </ul>
   </div>
@@ -62,6 +63,9 @@ export default {
   position: relative;
   border: none;
   margin: 0;
+
+  background-color: rgba(255,255,255,0.1);
+  backdrop-filter: blur(15px);
   
   &:hover{
     box-shadow: @shadow-hover;
@@ -104,12 +108,10 @@ input[type='search']{
 
 .searchbar-results{
   padding: 0.625rem 0.8rem 0.7rem;
+  // display: flex;
 
   li{
-    list-style-type: none;
-    &:hover{
-      text-decoration: underline;
-    }
+    margin-bottom: @space-xs;
   }
 }
 </style>
