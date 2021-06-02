@@ -25,13 +25,9 @@
 </template>
 
 <script>
-import textButton from './utils/text-button.vue'
 
 export default {
   name:'navigation',
-  components:{
-    textButton
-  },
   computed:{
     isSearchBarOpen(){
       return this.$store.getters.isSearchBarOpen

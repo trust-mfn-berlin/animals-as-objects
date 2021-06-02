@@ -2,16 +2,12 @@
   <div>
     <!-- <graph /> -->
     <Cascade :articles="pages" />
-    <textButton linkto="/index">View All Articles</textButton>
+    <text-button linkto="/index">View All Articles</text-button>
   </div>
 </template>
 
 <script>
-import textButton from '../components/utils/text-button.vue';
 export default {
-  components:{
-    textButton
-  },
   async asyncData({ $content }) {
     const results = await $content().fetch();
     var pages = [];
