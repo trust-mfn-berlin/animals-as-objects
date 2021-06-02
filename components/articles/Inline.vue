@@ -1,8 +1,8 @@
 <template>
-  <nuxt-link class="inline" :class="article.tao_type" :to="'/'+article.slug">
+  <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual">
     <img src='https://via.placeholder.com/32' />
     <div class="text">
-      <h6 class="f-serif subheading">{{article.title}}</h6>
+      <h6 class="f-serif subheading">{{titleBilingual}}</h6>
     </div>
   </nuxt-link>
 </template>
@@ -14,6 +14,22 @@ export default {
     article:{
       type:Object,
       required: true
+    }
+  },
+  computed:{
+    urlBilingual(){
+      if(this.$store.getters.siteLanguage == 'de'){
+        return '/de/' + this.article.slug
+      } else {
+        return '/' + this.article.slug
+      }
+    },
+    titleBilingual(){
+      if(this.$store.getters.siteLanguage == 'de' && this.article.title_de){
+        return this.article.title_de
+      } else {
+        return this.article.title
+      }
     }
   }
 }
