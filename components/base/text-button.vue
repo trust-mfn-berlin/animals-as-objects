@@ -42,6 +42,7 @@ export default {
   border-radius: @radius-s;
   width: auto;
   position: relative;
+  height: 2rem;
   
   &:hover{
     box-shadow: @shadow-hover;

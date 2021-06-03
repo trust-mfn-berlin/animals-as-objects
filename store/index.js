@@ -12,7 +12,8 @@ const createStore = () => {
       siteLanguage: defaultLanguage,
       currentPathway: [],
       searchBarIsOpen: false,
-      activeFilter: 'type'
+      activeFilter: 'type',
+      sidebarIsOpen: true
     },
     mutations: {
       setPages(state, pages) {
@@ -32,6 +33,10 @@ const createStore = () => {
       },
       setActiveFilter(state, filter){
         state.activeFilter = filter
+      },
+      toggleSidebar(state, isOpen){
+        console.log('sidebar open', isOpen)
+        state.sidebarIsOpen = isOpen
       }
     },
     actions: {
@@ -50,11 +55,14 @@ const createStore = () => {
       currentPathway(state) {
         return state.currentPathway
       },
-      isSearchBarOpen(state){
+      isSearchbarOpen(state){
         return state.searchBarIsOpen
       },
       activeFilter(state){
         return state.activeFilter
+      },
+      isSidebarOpen(state){
+        return state.sidebarIsOpen
       }
     }
   })

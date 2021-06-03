@@ -1,15 +1,16 @@
 <template>
   <header>
   <nav aria-label="Main">
-    <ul class="secondary">
+    <!-- <ul class="secondary">
       <li>
         <text-button :linkto="rootUrl">Animals as Objects?</text-button>
       </li>
-    </ul>
-    <ul class="primary" :class="{open : isSearchBarOpen}">
-      <li :class="{open : isSearchBarOpen}">
-        <Searchbar />
+    </ul> -->
+    <ul class="primary" :class="{open : isSearchbarOpen}">
+      <li>
+        <text-button :linkto="rootUrl">Animals as Objects?</text-button>
       </li>
+      
       <li>
         <text-button linkto="/articles">Index</text-button>
       </li>
@@ -19,7 +20,14 @@
       <li>
         <text-button :linkto="switchUrlComposed">{{siteLangSwap}}</text-button>
       </li>
+      <li :class="{open : isSearchbarOpen}">
+        <Searchbar />
+      </li>
     </ul>
+      <li v-if="showSidebarToggle">
+        <icon-button @click.native="toggleSidebar" :icon="toggleIcon"/>
+      </li>
+    
   </nav>
   </header>
 </template>
@@ -28,9 +36,24 @@
 
 export default {
   name:'navigation',
+  props:{
+    showSidebarToggle:{
+      type: Boolean
+    }
+  },
   computed:{
-    isSearchBarOpen(){
-      return this.$store.getters.isSearchBarOpen
+    toggleIcon(){
+      if(this.$store.getters.isSidebarOpen){
+        return "arrow-right"
+      } else {
+        return "i"
+      }
+    },
+    isSearchbarOpen(){
+      return this.$store.getters.isSearchbarOpen
+    },
+    isSidebarOpen(){
+      return this.$store.getters.isSidebarOpen
     },
     siteLang(){
       return this.$store.getters.siteLanguage
@@ -66,6 +89,18 @@ export default {
           return this.switchUrl + this.$route.fullPath.replace(this.rootUrl, '')
         }
 
+    }
+  },
+  methods:{
+    toggleSidebar(){
+      
+      if(this.$store.getters.isSidebarOpen != true){
+        this.$store.commit('toggleSidebar', true)
+      } else {
+        this.$store.commit('toggleSidebar', false)
+      }
+
+      console.log(this.$store.getters.isSidebarOpen)
     }
   }
   

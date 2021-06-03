@@ -1,5 +1,5 @@
 <template>
-  <aside>
+  <aside :class="{open:isSidebarOpen}" :aria-hidden="isSidebarOpen ? false : true">
     <section id="section-details">
       <h3 class="f-mono subheading">Details</h3>
       <ul>
@@ -26,7 +26,7 @@
       <h3 class="f-mono subheading">Pages that link here</h3>  
       <ol>
         <li v-for="link in article.backlinks" :key="link.id">
-          <a :href="'/'+link">{{link}}</a>
+          <nuxt-link :to="'/'+link">{{link}}</nuxt-link>
         </li>
       </ol>
     </section>
@@ -47,6 +47,11 @@ export default {
       type: Object,
       required: true
     }
+  },
+  computed:{
+    isSidebarOpen(){
+      return this.$store.getters.isSidebarOpen
+    }
   }
 }
 </script>
@@ -64,9 +69,16 @@ aside{
   z-index: @z-sidebar;
 
   overflow:auto;
+  transform: translateX(100%);
+  transition: 250ms transform ease-out;
+
+  &.open{
+    // right:0;
+    transform: translateX(0);
+  }
 
   section{
-    border-bottom: 1px solid grey;
+    border-bottom: 2px solid rgba(0,0,0,0.05);
     padding: @space-m;
 
     &#section-details{

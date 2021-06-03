@@ -25,7 +25,6 @@ export default {
 <style lang="less" scoped>
 article{
   height: 12rem;
-
   a{
     display: flex;
     height: 100%;
@@ -33,6 +32,7 @@ article{
 
   img{
     height: 100%;
+    width: 12rem;
   }
 
   .text{

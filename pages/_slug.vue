@@ -1,6 +1,6 @@
 <template>
   <div class="article-container">
-  <main v-if="article">
+  <main v-if="article" :class="{open : isSidebarOpen}">
     <h1>{{article.title}}</h1 >
     <nuxt-content :document="article" />    
   </main>
@@ -12,7 +12,11 @@
 
 export default {
   name:'article-page',
+  layout:'article',
   computed:{
+    isSidebarOpen(){
+      return this.$store.getters.isSidebarOpen
+    }
   },
   created(){
     this.$store.commit('setSiteLanguage', 'en')
@@ -54,6 +58,10 @@ export default {
 main{
   counter-reset: footnote; 
   width: 60%;
+  margin: 0 auto;
+  &.open{
+    margin: 0;
+  }
 }
 
 ::v-deep sup::after{
