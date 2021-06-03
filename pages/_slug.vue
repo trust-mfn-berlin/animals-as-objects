@@ -1,8 +1,13 @@
 <template>
   <div class="article-container">
   <main v-if="article" :class="{open : isSidebarOpen}">
-    <h1>{{article.title}}</h1 >
-    <nuxt-content :document="article" />    
+    <section class="heading">
+    <h1>{{article.title}}</h1>
+    <h3 class="lead subheading f-mono"><span class="type" :class="article.tao_type">{{article.tao_type}}</span> Lorem ipsum dolor sit amet</h3>
+    </section>
+    <section>
+    <nuxt-content :document="article" />
+    </section>    
   </main>
   <sidebar :article="article"/>
   </div>
@@ -69,7 +74,53 @@ main{
   content:counter(footnote);
 }
 
+section.heading{
+  text-align: center;
+}
+
+h1{
+  margin-bottom: 1rem;
+  line-height: @lh-short;
+
+  background-size: 1px 1em;
+  box-shadow:
+    inset 0 -0.175em @bg,
+    inset 0 -0.2em #000;
+  display: inline;
+
+  text-shadow:
+    -2px -2px @bg,
+    -2px 2px @bg,
+    2px -2px @bg,
+    2px 2px @bg;
+}
+
 img{
   max-width: 100%;
+  margin: 0 auto;
+  display: block;
 }
+
+.lead.subheading{
+  text-align: center;
+
+  margin:2rem 0 3rem;
+
+  .type{
+    background-color: @black;
+    color: @white;
+    padding:@space-xs 10px;
+    &.theme{
+
+    }
+    &.material{
+      border-radius: @radius-max;
+    }
+    &.story{
+      border-radius: @radius-s;
+    }
+  }
+
+}
+
 </style>
