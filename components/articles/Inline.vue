@@ -8,6 +8,8 @@
 </template>
 
 <script>
+// can we lazy load thumbnails? or fade in?
+
 export default {
   name:"inline",
   props:{
@@ -41,6 +43,7 @@ a{
   
   img{
     height: 1.33333rem;
+    width: 1.33333rem;
   }
   
   .text{
