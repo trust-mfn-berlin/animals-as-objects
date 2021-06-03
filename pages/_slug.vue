@@ -95,6 +95,10 @@ h1{
     2px 2px @bg;
 }
 
+p{
+  line-height: @lh-long;
+}
+
 img{
   max-width: 100%;
   margin: 0 auto;
