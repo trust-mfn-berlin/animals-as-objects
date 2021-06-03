@@ -2,7 +2,7 @@
   <div>
     <!-- <graph /> -->
     <Cascade :articles="pages" />
-    <text-button linkto="/index">View All Articles</text-button>
+    <text-button linkto="/articles">View All Articles</text-button>
   </div>
 </template>
 
