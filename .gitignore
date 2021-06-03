@@ -4,3 +4,9 @@ build
 .nuxt
 dist
 .DS_Store
+
+static/audio/*
+
+static/images/*
+
+temp
