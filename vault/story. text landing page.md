@@ -1,6 +1,6 @@
 ---
 id: 7602cc2e-679a-48cd-858d-47e7f906b79f
-title: ' Text Landing Page'
+title: 'Text Landing Page'
 desc: Put a description of this note here...
 updated: 1621338793750
 created: 1621338760854

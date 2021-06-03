@@ -11,7 +11,8 @@ const createStore = () => {
       loadedPages: [],
       siteLanguage: defaultLanguage,
       currentPathway: [],
-      searchBarIsOpen: false
+      searchBarIsOpen: false,
+      activeFilter: 'type'
     },
     mutations: {
       setPages(state, pages) {
@@ -28,6 +29,9 @@ const createStore = () => {
       toggleSearchBar(state, isOpen){
         console.log('Is search open:', isOpen)
         state.searchBarIsOpen = isOpen
+      },
+      setActiveFilter(state, filter){
+        state.activeFilter = filter
       }
     },
     actions: {
@@ -48,6 +52,9 @@ const createStore = () => {
       },
       isSearchBarOpen(state){
         return state.searchBarIsOpen
+      },
+      activeFilter(state){
+        return state.activeFilter
       }
     }
   })
