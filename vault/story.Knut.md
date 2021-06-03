@@ -2,7 +2,7 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1622720813367
+updated: 1622724070296
 created: 1618576718116
 title_de: Knut
 desc_de: Der 2006 geborene Eisbär "Knut" entwickelte eine bis dahin für ein einzelnes Zootier ungekannte Popularität. Medien und Zooleitung machten ihn zu einem 'Botschafter' der Klimakrise, die das Habitat der Eisbären bedrohte. Die starke Übertragung von Emotionen von Besucher\*innen und Fans in aller Welt auf das Tier wirkte über seinen Tod hinaus.
@@ -52,7 +52,7 @@ Zwar sah man im Berliner Zoo solche Diskussionen mit Skepsis, dem Bekanntheitsgr
 ![desc](images\cmw\Dorflein_Gabriel_Blaszkiewitz_230307_Broseke.jpg)
 *Bundesumweltminister Sigmar Gabriel umrahmt von Thomas Dörflein, "Knut" und Direktor Bernhard Blaszkiewitz, 2007. (AZGB, Foto Bröseke)*
 
-Hinzu kam nun aber auch ein besonderes Timing. "Knuts" Geburt geschah zu einem Zeitpunkt, an dem zum ersten Mal eine intensive Diskussion um die Klimakrise und die Bedrohung des natürlichen Lebensraums der Eisbären geführt wurde. **Das Tier eignete sich als Botschafter in der Klimadebatte.** Auch deshalb, weil angesichts wissenschaftlicher Prognosen zum Rückgang des arktischen Eises die Tierart just im Geburtsjahr "Knuts" auf die Liste gefährdeter Arten der Weltnaturschutzunion (International Union for Conservation of Nature; offiziell International Union for Conservation of Nature and Natural Resources, IUCN) gesetzt wurde.
+Hinzu kam nun aber auch ein besonderes Timing. "Knuts" Geburt geschah zu einem Zeitpunkt, an dem zum ersten Mal eine intensive Diskussion um die Klimakrise und die Bedrohung des natürlichen Lebensraums der Eisbären geführt wurde. **Das Tier eignete sich als Botschafter in der Klimadebatte.** Auch deshalb, weil angesichts wissenschaftlicher Prognosen zum Rückgang des arktischen Eises die Tierart just im Geburtsjahr "Knuts" auf die Liste gefährdeter Arten der Weltnaturschutzunion (International Union for Conservation of Nature; offiziell International Union for Conservation of Nature and Natural Resources, IUCN) gesetzt wurde.[^iucn]
 Weltweite Bedeutung konnte der Berliner Eisbär aber gewinnen, weil zudem noch ein Zufall half. Kurz nach der ersten öffentlichen Vorstellung des Tieres Ende März 2007 versammelten sich die Staats- und Regierungschef\*innen der Europäischen Union zum 50. Jahrestag der Unterzeichnung der Römischen Verträge in Berlin. Mit ihnen waren Vertreter der nationalen und internationalen Presse in die Stadt gekommen. Die waren ebenso begeistert von dem Jungtier wie die lokale Presse schon seit Monaten. **"Knut" machte "Headlines" in aller Welt.** Die überraschten Kuratoren und die Zooleitung gaben an dem Wochenende Hunderte Interviews.[^ambassador1] Zusätzlich sorgten Zehntausende zusätzliche Besucher\*innen für eine eindrucksvolle Kulisse. Sicherheitsleute mussten den Andrang vor der Freianlage kontrollieren. Bald war die Marke von einer Million Gäste erreicht.[^ambassador2] 
 
 ![Kinderbild eines Eisbären](images\cmw\Knut_Agatha_CooperStationNY.jpg)
@@ -158,7 +158,7 @@ Anders als bei "Knut" 2013 gab es 1935 - selbst wenn sich die Quellen zwischen e
 Zoos und Zootiere haben es seit ihrer Gründung verstanden, bei den Besuchern starke positive Emotionen hervorzurufen. Das war in Berlin wie auch andernorts allerdings gar nicht das ursprüngliche Ziel, der Gründungsdirektor hatte sich ganz bildungsbürgerlichen Idealen verschrieben. Freude am Zoobesuch sollte aus der Freude an der naturkundlichen Erkenntnis kommen und eine 'Freundschaft' mit den Zootieren war nicht vorgesehen. Aber schon bald wurde Martin Hinrich Lichtenstein und anderen Zooleitern klar, dass die Besucher\*innen immer auch einen Unterhaltungsaspekt einforderten.[^wessely] Zoos lernten, dass wiederholte Zoobesuche und die Darstellung von Jungtieren durchaus Bindungen von Besucher\*innen zu einzelnen Zootieren festigten, die erstere als Freundschaften interpretierten. Sie suchten gezielt, diese für die eigene Attraktivität oder die Vermittlungsarbeit zu nutzen.[^emotion]
 "Knuts" Geschichte und der 'Starrummel', der sich um ihn bildete sind dennoch ungewöhnlich, zumal es sich bei dem Eisbären nicht um ein bislang unbekanntes Tier handelte, welches wie das erste Nashorn in Europa oder die erste in Wien ausgestellte Giraffe eine Sensation darstellte. 2012 inspirierte dieser 'hype' um "Knut" auch über dessen Tod hinaus akademisches Interesse.[^forever2]
 
-Und wiederholt hat sich solch eine anhaltende Begeisterung für ein Zootier bisher auch nicht in diesem Ausmaß. Die 2010 in Nürnberg geborene und ebenso mit der Flasche aufgezogene Eisbärin "Flocke" oder die 2018 im Tierpark geborene "Hertha" haben annähernd die Popularität "Knuts" gewonnen. Es scheint als habe das Eisbärenjunge - und sein Pfleger - 2007 eine Nische gefüllt, ein besonderes Verlangen gestillt. Eisbären gelten ausweislich der Weltnaturschutzunion nun trotz der dramatischen Veränderungen in ihrem Lebensraum nicht mehr als gefährdet.
+Und wiederholt hat sich solch eine anhaltende Begeisterung für ein Zootier bisher auch nicht in diesem Ausmaß. Die 2010 in Nürnberg geborene und ebenso mit der Flasche aufgezogene Eisbärin "Flocke" oder die 2018 im Tierpark geborene "Hertha" haben annähernd die Popularität "Knuts" gewonnen. Es scheint als habe das Eisbärenjunge - und sein Pfleger - 2007 eine Nische gefüllt, ein besonderes Verlangen gestillt. Eisbären gelten 2021 ausweislich der Weltnaturschutzunion nun wie alle Bären trotz wachsender Population der dramatischen Veränderungen in ihrem Lebensraum wegen weiterhin als gefährdet. Das Bundesnaturschutzgesetz
 
 -----
 ## Footnotes
@@ -202,3 +202,5 @@ Und wiederholt hat sich solch eine anhaltende Begeisterung für ein Zootier bish
 [^leipzig5]: "Eisbärbaby Knut entkommt der Todesspritze", Welt online, 19.03.2007, https://www.welt.de/vermischtes/article768024/Eisbaerbaby-Knut-entkommt-der-Todesspritze.html (01.06.2021).
 
 [^light]: Bilder hiervon unter Gerry Hofstetter. Hofstetter-Marketing, http://www.hofstetter-marketing.com/lightart_expeditions_galerie_8.html (01.06.2007).
+
+[^iucn]: "Flußpferd und Eisbär Neuzugänge auf Roter Liste", Frankfurter Allgemeine Zeitung online, 02.05.2006, https://www.faz.net/aktuell/wissen/natur/artensterben-flusspferd-und-eisbaer-neuzugaenge-auf-roter-liste-1330020.html (03.06.2021).
