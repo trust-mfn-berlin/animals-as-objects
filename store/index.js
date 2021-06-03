@@ -36,7 +36,7 @@ const createStore = () => {
     },
     actions: {
       async nuxtServerInit(vuexContext, context) {
-        const pages = await context.app.$content().only(['slug', 'title', 'title_de', 'id']).fetch();
+        const pages = await context.app.$content().only(['slug', 'title', 'title_de', 'id', 'tao_type']).fetch();
         vuexContext.commit('setPages', pages)
       }
     },
