@@ -2,7 +2,7 @@
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 title: Catching 'Exotic' Animals
 desc: Put a description of this note here...
-updated: 1622650660248
+updated: 1622712283830
 created: 1618492547915
 title_de: Fang 'exotischer' Tiere
 desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen.
@@ -128,7 +128,7 @@ Allerdings zeigten sich nun auch Brüche, die von einem möglichen Ende des Tier
  
 >"Although one might assume that our nutritional knowledge of captive animals is complete because of our long history of captive animal efforts, 60 to 70% of the animals dying in captivity die because of poor mnagement and husbandry , with nearly 25% dying from nutritional problems."[^1950s2]
  
-Aber insgesamt verlängerten sich nicht nur die Lebensdauern in Zoos, die gehaltenen Tiere vermehrten sich nun auch häufiger durch Nachzuchten. Eine zwar nach heutigem Verständnis ungeeignete neue Form der Zooarchitektur, die 'Badezimmerarchitektur' hielt Einzug. Gefließte Innenställe ließen sich leicht reinigen und beseitigten damit den Einfluss von Bakterien und Glasfronten verhinderten, zum Beispiel, dass sich Menschenaffen an den menschlichen Besuchern mit Keimen ansteckten oder ihnen ungeeignetes Futter verabricht wurde. Mehr dazu sowohl bei [[Zooarchitektur|story.Zoo Architecture]] als auch [[Tiere füttern|story.feeding]] und [[Fütterverbote|story.fütternVerboten]].
+Aber insgesamt verlängerten sich nicht nur die Lebensdauern in Zoos, die gehaltenen Tiere vermehrten sich nun auch häufiger durch Nachzuchten. Eine zwar nach heutigem Verständnis ungeeignete neue Form der Zooarchitektur, die 'Badezimmerarchitektur' hielt Einzug. Gefließte Innenställe ließen sich leicht reinigen und beseitigten damit den Einfluss von Bakterien. Ein Bewusstsein dafür, dass das ausschließlich die Lebensdauer, nicht aber das Wohlbefinden der Tiere verbesserte, war damals nicht ausgeprägt. Eine andere architektonische Verbesserung der Haltungsbedingungen bildeten die sich ab Ende der 1970er verbreitenden Glasfronten. Sie verhinderten, zum Beispiel, dass sich Menschenaffen an den menschlichen Besuchern mit Keimen ansteckten oder ihnen ungeeignetes Futter verabreicht wurde.  Mehr dazu sowohl bei [[Zooarchitektur|story.Zoo Architecture]] als auch [[Tiere füttern|story.feeding]] und [[Fütterverbote|story.fütternVerboten]].
  
 ![Das Innere des Raubtierhauses](images\cmw\Neues_Raubtierhaus_14061973.jpg)
 *Das Raubtierhaus des Berliner Zoos war nur ein Beispiel für die 'Badezimmerarchitektur, 1973. (AZGB)*
