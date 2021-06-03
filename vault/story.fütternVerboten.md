@@ -2,7 +2,7 @@
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 title: fütternVerboten
 desc: Put a description of this note here...
-updated: 1622624472132
+updated: 1622742459485
 created: 1620752897039
 title_de: Füttern Verboten
 desc_de: Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo selbstverständlich erscheint, war lange Zeit ein direkter Kontakt beim Füttern durch die Besucher\*innen üblich. Wie, wann und weshalb führten Zoos ein Fütterungsverbot ein? 
@@ -24,18 +24,22 @@ published: false
 
 
 
-Auf den Tod des Elefanten "Jambo", der 1960 im Zoo Berlin eingeschläfert werden musste, nachdem er durch Besucher\*innen übermäßig gefüttert worden und daraufhin erkrankt war, folgte eine erhitzte Diskussion über den richtigen Umgang mit Tieren in Gefangenschaft im Allgemein und ein Fütterungsverbot im Speziellen. Tatsächlich leitete "Jambos" Tod am 10. April 1960 ein generelles Fütterungsverbot für alle Tiere im Berliner Zoo ein.
+Auf den Tod der Elefantenkuh "Jambo", die 1960 im Zoo Berlin eingeschläfert werden musste, nachdem sie durch Besucher\*innen übermäßig gefüttert worden und daraufhin erkrankt war, folgte eine erhitzte Diskussion. Sie drehte sich um den richtigen Umgang mit Tieren in Gefangenschaft und konkret um die Einführung eines Fütterungsverbots. **Tatsächlich leitete "Jambos" Tod am 10. April 1960 ein generelles Fütterungsverbot für alle Tiere im Berliner Zoo ein.**
 
 ![Zeitungsartikel mit Elefantenfoto, der "mich nicht füttern" auf die Stirn geschrieben hat](images\mv\JamboFuetternVerboten.jpg)
 
 
 _Als im Berliner Zoo ein generelles Fütterungsverbot beschlossen wurde, mussten die nun überholten Regeln im Zooführer von 1960 zuerst per Stempelaufdruck überschrieben werden._ 
 
-Der Tod des Elefanten war nicht der erste Fall [[story.überfüttern]]. 
+Der Tod des Elefanten war nicht der erste Fall[[story.überfüttern]]. Zootiere mit mitgebrachten Lebensmitteln zu füttern hat eine lange Tradition und entsprechend lang ist die Geschichte falscher oder übermäßiger Fütterung. Seit ihren Anfängen im 19. Jahrhundert war das Füttern durch die Besucher\*innen in zoologischen Gärten grundsätzlich erlaubt. Die damalige Gehegearchitektur rückte den Menschen meist noch nah ans Tier, ermöglichte eine direkte Tuchfühlung und erleichterte damit das Füttern. 
 
-Zootiere zu füttern hat eine lange Tradition. Seit ihren Anfängen im 19. Jahrhundert war das Füttern durch die Besucher\*innen in zoologischen Gärten grundsätzlich erlaubt. Die damaligen Zooführer luden die Besucher\*innen zum eigenen Füttern ein, allerdings schon damals mit Einschränkungen. Im Hamburger Zoologischen Garten etwa wurden die Besucher\*innen bereits 1879 "ergebenst und dringend ersucht, nur diejenigen Thiere zu füttern, deren Namen auf den Anschlagtafeln bekannt gemacht sind".[^FütternVerboten1] Mahnungen an den Käfigen bezüglich des Fütterungsverbots werden auch im Zooführer des Tiergartens Schönbrunn schon 1912 erwähnt. Besonders empfindliche Tierarten wie die Menschenaffen, Raubtiere und Seelöwen durften überhaupt nicht gefüttert werden. Darüber, _was_ den Tieren angeboten werden durfte, wiesen die Zoowegweiser und im Garten aufgestellte Schilder ebenfalls schon damals hin. Elefanten, neben den Affen besonders beliebt bei den Zoogästen, konnten die Berliner*innen mit Brot, Möhren, Apfelsinen, Bananen und Zitronen füttern. 
+![Titelbild der Zeitschrift "Die Woche im Bild", wo ein schwarz-weiß Foto eine Schar Kinder zeigt, die am Rande des Nildpferdbeckens stehen und auf das Tier blicken, dem ein Junge in der vorderen Reihe etwas ins aufgerissene Maul wird.]()
 
-Diskussionen um Fütterungsrechte oder -verbote begleiten zoologische Gärten innerhalb und außerhalb Deutschland somit Erst in den 1950er Jahren führte jedoch die Mehrzahl der Zoos generelle Fütterungsverbote ein, nachdem sich die Erkrankungen und Tode, die auf Überfütterung zurückgingen, gerade in den gut besuchten Sommermonaten häuften. Als am 1. Juni 1953 ein gerade neu erworbener Elefant im Frankfurter Zoo an den Folgen der Überfütterung durch die Besucher verendete, beschloss der damalige Direktor Bernhard Grzimek, das Füttern der Zootiere durch Besucher\*innen komplett zu verbieten. 1957 folgte der Leipziger Zoo und der Zoologische Garten zu Münster 1959, nachdem auch dort mehrere Tiere gestorben waren.[^FütternVerboten2] 
+_Das Cover der "Woche im Bild" vom Nildpferdbecken zeigt, dass Füttern  lange zu den Attraktionen zoologischer Gärten gehörte, unterstützt durch eine Architektur, die Nähe schafft, 07.08.1930._
+
+Die damaligen Zooführer luden die Besucher\*innen zum eigenen Füttern ein, allerdings schon damals mit Einschränkungen. Im Hamburger Zoologischen Garten etwa wurden die Besucher\*innen bereits 1879 "ergebenst und dringend ersucht, nur diejenigen Thiere zu füttern, deren Namen auf den Anschlagtafeln bekannt gemacht sind".[^FütternVerboten1] Mahnungen an den Käfigen bezüglich des Fütterungsverbots sind auch im Zooführer des Tiergartens Schönbrunn bereits 1912 erwähnt. Besonders empfindliche Tierarten wie die Menschenaffen, Raubtiere und Seelöwen durften überhaupt nicht gefüttert werden. Darüber, _was_ den Tieren angeboten werden durfte, wiesen die Zoowegweiser und im Garten aufgestellte Schilder ebenfalls schon damals hin. Elefanten, neben den Affen besonders beliebt bei den Zoogästen, konnten die Berliner*innen mit Brot, Möhren, Apfelsinen, Bananen und Zitronen füttern. 
+
+Obwohl Diskussionen um Fütterungsrechte oder -verbote zoologische Gärten innerhalb und außerhalb Deutschland schon lange begleiten, führte die Mehrzahl der Zoos erst in den 1950er Jahren generelle Fütterungsverbote ein - nachdem sich die Erkrankungen und Tode, die auf Überfütterung zurückgingen, gerade in den gut besuchten Sommermonaten häuften. Als am 1. Juni 1953 ein gerade neu erworbener Elefant im Frankfurter Zoo an den Folgen der Überfütterung durch die Besucher verendete, beschloss der damalige Direktor Bernhard Grzimek, das Füttern der Zootiere durch Besucher\*innen komplett zu verbieten. 1957 folgte der Leipziger Zoo und der Zoologische Garten zu Münster 1959, nachdem auch dort mehrere Tiere gestorben waren.[^FütternVerboten2] 
 
 ![Zeitungsseite mit abgebildeten Fütterungsverbotsschildern in zoologischen Gärten, 1960](images\mv\8UhrBlattVerbotsschilerJPG.jpg)
 
