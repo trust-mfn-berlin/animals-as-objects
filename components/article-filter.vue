@@ -23,20 +23,22 @@ export default {
           name: 'type',
           label: 'Type',
           label_de: 'Typ',
-          
         },
         {
           name: 'alphabetical',
           label: 'A-Z',
-          label_de: 'A-Z',
-          
+          label_de: 'A-Z',       
         },
         {
           name: 'date',
           label: 'Date',
           label_de: 'Datum',
-          
         },
+        {
+          name: 'network',
+          label: 'Network',
+          label_de: 'Network',
+        }
       ]
     }
   },
