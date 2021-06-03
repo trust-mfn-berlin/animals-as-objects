@@ -2,7 +2,7 @@
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 title: fütternVerboten
 desc: Put a description of this note here...
-updated: 1622746285654
+updated: 1622750831683
 created: 1620752897039
 title_de: Füttern Verboten
 desc_de: Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo selbstverständlich erscheint, war lange Zeit ein direkter Kontakt beim Füttern durch die Besucher\*innen üblich. Wie, wann und weshalb führten Zoos ein Fütterungsverbot ein? 
@@ -28,8 +28,7 @@ Auf den Tod der Elefantenkuh "Jambo", die 1960 im Zoo Berlin eingeschläfert wer
 
 ![Zeitungsartikel mit Elefantenfoto, der "mich nicht füttern" auf die Stirn geschrieben hat](images\mv\JamboFuetternVerboten.jpg)
 
-
-_Als im Berliner Zoo ein generelles Fütterungsverbot beschlossen wurde, mussten die nun überholten Regeln im Zooführer von 1960 zuerst per Stempelaufdruck überschrieben werden._ 
+_"Tagesspiegel"-Artikel zum Fütterungsverbot im Berliner Zoo anlässlich der Erkrankung von „Jambo“, 31.03.1960._
 
 Der Tod des Elefanten war nicht der erste Fall[[story.überfüttern]]. Zootiere mit mitgebrachten Lebensmitteln zu füttern hat eine lange Tradition und entsprechend lang ist die Geschichte falscher oder übermäßiger Fütterung. **Seit ihren Anfängen im 19. Jahrhundert war das Füttern durch die Besucher\*innen in zoologischen Gärten grundsätzlich erlaubt.** 
 
@@ -56,7 +55,8 @@ Nicht nur steigende Besuchszahlen wurden hier ins Feld geführt. **Es ging um ei
  
 ![Zooführer von 1960 mit rotem Stempelaufdruck, der auf das neue Fütterungsverbot hinweist](images\mv\FuetternStempel1960WegweiserAusschnittJPG.jpg)
 
-_Die neuen Richtlinien überschreiben die alten im Berlin Zooführer von 1960._  
+_Per Stempel überschreiben die neuen die alten Richtlinien zum Füttern im Berlin Zooführer von 1960._  
+
 
 Im Zooführer von 1960 wurde nach dem Beschluss des Verbots den nun veralteten Fütterungsregeln zuerst behelfsmäßig ein roter Stempel aufgedrückt. Im nächsten Jähr war das Regelwerk dann komplett überarbeitet. Auf das Verbot wies der Wegweiser von nun an gleich am Anfang in der 'Gartenordnung' oder in der einleitenden Ansprache 'An unsere Besucher' hin. Im Garten selbst waren außerdem Schilder direkt an den Gehegen angebracht.  
 
@@ -110,13 +110,13 @@ Andere Vorschläge richteten sich statt auf die Disziplinierung der Menschen auf
 _Das Cover der "Woche im Bild" vom Nildpferdbecken zeigt, dass Füttern  lange zu den Attraktionen zoologischer Gärten gehörte, unterstützt durch eine Architektur, die Nähe schafft, 07.08.1930._
 
 
-Ende der 1950er Jahre kam das nicht mehr in Frage. 
+Ende der 1950er Jahre kam das nicht mehr in Frage. Bei den Elefanten wurden nun die mitgebrachten Lebensmittel der Besucher\*innen eingesammelt. 
 
 ![Ein Zoopfleger sammelt im Graben der Elefanten-Außenanlage von den Besucher\*innen mitgebrachtes Brot und andere Lebensmittel ein.](images\mv\BildZeitung02041960FutterAbgeben.jpg)
 
 _Nach "Jambos" Erkrankung mussten Besucher\*innen ihre mitgebrachten Lebensmittel beim Zoopfleger abliefern, wie die "Bild-Zeitung" berichtete, 02.04.1960._
 
-Während man bei den Elefanten nun versuchte, die mitgebrachten Lebensmittel der Besucher\*innen einzusammeln, kamen bei der Planung des neuen Affenhaus Glasscheiben nun zum Einsatz. Die Affen durfte man (außer die Menschenaffen) vorher mit allem Möglichem füttern, darunter Brot, Südfrüchte, verschiedenes Gemüse, Nüsse, Haferflocken und Linsen.[^FütternVerboten17] Zwischenzeitlich war sogar Popcorn erlaubt - just in dem Jahr, als ein Popcornstand im zoologischen Garten eröffnete.[^FütternVerboten18]
+Bei der Planung des neuen Affenhaus kamen nun sogar Glasscheiben zum Einsatz. Die Affen durfte man (außer die Menschenaffen) vorher mit allem Möglichem füttern, darunter Brot, Südfrüchte, verschiedenes Gemüse, Nüsse, Haferflocken und Linsen.[^FütternVerboten17] Zwischenzeitlich war sogar Popcorn erlaubt - just in dem Jahr, als ein Popcornstand im zoologischen Garten eröffnete.[^FütternVerboten18]
 
 Mit dem allgemeinen Fütterungsverbot 1960 änderten sich auch für die Affen die Richtlinien und zugleich die Architektur der Anlage - aus Hygiene- und Sicherheitsgründen. Das befürworteten manche Besucher\*innen in ihren Zuschriften, doch gab es ebenso die gegenteilige Meinung. Zoobesucherin Erna von Bongart etwa schrieb, ihrem Empfinden nach sollte man die Affen, 
 >"die seit langen Jahren mit langjährigen Abonnenten in engem Kontakt stehen, wie z.B. der kl. Bubi, nicht so völlig absperren. […] ich finde es doch nicht richtig bei den Tieren, die an menschlichen Kontakt all die Jahre gewöhnt, diese strikten Absperrungsmassnahmen vorzunehmen. Auch darf man nicht vergessen, wieviel einsame Menschen es gibt, man nimmt auch ihnen einen Teil ihres Lebensinhalts, ihrer Freuden."[^FütternVerboten19]
