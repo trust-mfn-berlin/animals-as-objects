@@ -2,7 +2,7 @@
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 title: Zoo and National Socialism
 desc: During 
-updated: 1621972110694
+updated: 1622651354787
 created: 1619020958263
 title_de: Der Zoo im Nationalsozialismus
 desc_de: In der Zeit der nationalsozialistischen Diktatur biederten sich Zooleitung und Aufsichtsrat dem Regime an. Der Zoo wurde zu einem Propagandainstrument der Nationalsozialisten und schloss jüdische Besucher\*innen aus. Der Zoodirektor war mit der Elite des Regimes gut vernetzt. Während des Krieges wurden Zwangsarbeiter ausgebeutet.
@@ -21,7 +21,7 @@ English content goes here.
 
 **Clemens Maier-Wolthausen**
 
-Nachdem Adolf Hitler am 30. Januar 1933 zum neuen Reichskanzler ernannt worden war, versuchte das neue Regime mit aller Macht sämtliche Gesellschaftsbereiche zu Durchdringen. Es ging ihm dabei um die Kontrolle im arbeitsrechtlichen, insbesondere aber im kulturellen und propagandistischen Sinn. Von dem Anspruch dieser umfassenden Kontrolle war auch der besucherstärkste Bildungs- und Freizeitbetrieb Berlins, der Zoologische Garten und sein Aquarium, nicht verschont. Die Anpassung an die Politik der Nationalsozialisten und ihrer lokalen Vertreter, des Gauleiters der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP) Joseph Göbbels und des nationalsozialistischen preußischen Ministerpräsidenten [[material.Hermann Göring]] ging im Zoo rasch voran. Das lag nicht zuletzt an der Zooleitung und Mitgliedern des Aufsichtsrats.
+Nachdem Adolf Hitler am 30. Januar 1933 zum Reichskanzler ernannt worden war, versuchte das neue Regime mit aller Macht sämtliche Gesellschaftsbereiche zu Durchdringen. Es ging ihm dabei um die Kontrolle im arbeitsrechtlichen, insbesondere aber im kulturellen und propagandistischen Sinn. Von dem Anspruch dieser umfassenden Kontrolle war auch der besucherstärkste Bildungs- und Freizeitbetrieb Berlins, der Zoologische Garten und sein Aquarium, nicht verschont. Die Anpassung an die Politik der Nationalsozialisten und ihrer lokalen Vertreter, des Gauleiters der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP) Joseph Göbbels und des nationalsozialistischen preußischen Ministerpräsidenten [[material.Hermann Göring]] ging im Zoo rasch voran. Das lag nicht zuletzt an der Zooleitung und Mitgliedern des Aufsichtsrats. Wie zu sehen sein wird hatte dieses Auswirkungen auf alle Bereiche des Zoobetriebs - die Leitungsebene und das Publikum wurde in die antisemitische Politik einbezogen, der deutsche Angriffs- und Vernichtungskrieg brachte neue Tierquellen, die Ausstellungspraxis und das 'Programm' der ausgestellten Tiere änderten sich, Arbeitsabläufe wurden durch den Krieg verändert. Die Ausbeutung von Zwangsarbeitern wurde auch im Zoo Alltag.
 
 ## Die Familie Heck
 
@@ -63,6 +63,8 @@ Lutz Heck ging es darum, ein deutsches Urtier zu erschaffen, das "als echtes Sym
 ![Lutz Heck und sein Fahrer vor einem Auto](images/cmw/Heck_Auto_1939.jpg)
 _Lutz Heck und wahrscheinlich ein Fahrer und ein Dienstwagen des Reichsjagdamtes, 1939. (AZGB)_
 
+Im bislang streng nach taxonomischen Gesichtspunkten [[theme.taxonomical orders]] geordneten Zoo entstand nun zum ersten mal im Grunde genommen ein Zooteil der der bis dahin abgelehnten Idee eines 'Geozoos' entsprach. Statt der Ordnung nach, auch äußerlich erkennbaren Verwandtschaftsbeziehungen wurden geografisch Gesichtspunkte hier zum ordnenden Prinzip erhoben. Diese bis dato als "Hagenbeckereien" verschriehenen Sammlungen von Tieren eines Naturraums wurden im Zoo zugunsten der nationalsozialistischen Propaganda eingeführt.
+
 ## Jüdische Aktionär\*innen und Besucher\*innen
 
 Die ab 1933 einsetzende und schnell zunehmende Entrechtung von Jüd\*innen zwang diese dazu, nach und nach ihre persönliche Habe zu verkaufen. Einkommensverluste, Berufsverbote, Enteignungen zwangen viele, zum nackten Überleben ihre Anlagen zu liquidieren. Die Flucht aus Deutschland war oft nur unter dem Einsatz großer Finanzmittel möglich. Auch die Zooaktien wurden verkauft.
@@ -80,7 +82,7 @@ Am 8. November 1938 beschloss der Aufsichtsrat schließlich, dass zum kommenden 
 
 >[...] diese Schilder könne man dann am 1. Januar offiziell an alle Eingänge stellen.
 
-In der folgenden Nacht ermordeten Nationalsozialisten in ganz Deutschland in einem organisierten Pogrom Hunderte jüdische Deutsche und zerstörten Existenzen und Synagogen. Die Schuld für die geplanten und zentral koordinierten Ausschreitungen gaben die Nationalsozialisten den deutschen Juden und Jüdinnen. Der Berliner Polizeipräsident verbot ihnen in den folgenden Tagen den Besuch von Vergnügungsstätten. Die von der Zooleitung geplanten Maßnahmen nahmen die offizielle Politik vorweg.
+In der folgenden Nacht ermordeten Nationalsozialisten in ganz Deutschland in einem organisierten Pogrom Hunderte jüdische Deutsche und zerstörten Existenzen und Synagogen. Die Schuld für die geplanten und zentral koordinierten Ausschreitungen gaben die Nationalsozialisten den deutschen Juden und Jüdinnen. Der Berliner Polizeipräsident verbot ihnen in den folgenden Tagen den Besuch von Vergnügungsstätten. Die von der Zooleitung geplanten Maßnahmen nahmen die offizielle Politik vorweg. Die Institution, die sich immer als eine volksbildnerische identifiziert hatte, schloss folglich, die durch rassistische Ideologie und Verfolgung aus dem 'Volk' herausdefinierte Besucher\*innengruppe aus.
 
 ## Der Zoo im Krieg
 
@@ -126,6 +128,8 @@ Am 22. April 1945 war aber endgültig Schluss. Die noch verbliebenen männlichen
 
 ![Löwinnen liegen vor der zerstörten Fassade des Aquariums im Freigehege](images/cmw/Loewin_Ruine_Aqua_S_60.jpg)
 Die überlebenden Löwen des Zoos liegen vor der Kulisse des zerstörten Aquariums in ihrem Freigehege, 1945. (AZGB)
+
+Der Zoo am Ende der nationalsozialistischen Herrschaft war materiell aber auch in seiner inneren Verfasstheit nicht mehr der Zoo, der sich bis 1933 aus seinen Ursprüngen entwickelt hat. Das Beispiel des Berliner Zoos zeigt, wie sehr sich die Institution Zoo unter dem Druck ...
 
 ---
 

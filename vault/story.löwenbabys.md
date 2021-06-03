@@ -2,7 +2,7 @@
 id: fa206cd6-fda4-46ec-83e7-206cb1306e78
 title: LöWenbabys
 desc: Put a description of this note here...
-updated: 1622626319909
+updated: 1622649658062
 created: 1622624578996
 title_de: Löwenbabys
 desc_de: Put a DE description of this note here...
@@ -36,6 +36,6 @@ _Auf den Stand des Zoofotografen wies der "Zooführer" in den 1970er Jahren mit 
 
 ![Werbeanzeige des Zoofotografien im Berliner "Zooführer" von 1992. Auf drei Farbfotografien sind oben links der Stand mit Band abgebildet, unten links ein Löwenbaby in einem Reifen hineinmontiert und rechts ein stehender Mann, der einen jungen Löwen auf dem Arm trägt.](images\mv\LoewenbabyWegweiser1992AusschnittJPG.jpg)
 
-_1992 findet sich im Zooführer noch eine Werbeanzeige des Zoofotografen für die Löwenbaby-Erinnerungsfotos, nun in Farbe, bevor der Stand 1994 schließt._
+_1992 findet sich im Zooführer noch eine Werbeanzeige für Erinnerungsfotos mit Löwenbaby, diesmal eine Farbfotografie, bevor die Löwenbabys ab 1994 nicht mehr auftauchen._
 
 
