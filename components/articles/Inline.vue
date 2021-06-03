@@ -1,9 +1,9 @@
 <template>
   <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual">
     <img :src="'https://loremflickr.com/64/64/butterfly?random=' + article.id" />
-    <div class="text">
-      <h6 class="f-serif subheading">{{titleBilingual}}</h6>
-    </div>
+    <span class="text">
+      <span class="f-serif subheading">{{titleBilingual}}</span>
+    </span>
   </nuxt-link>
 </template>
 
@@ -46,15 +46,17 @@ a{
   .text{
     background-color: @white;
     height: 1.33333rem;
-    padding:0.37rem 0.4rem 0;
+    padding:0.25rem 0.4rem 0;
     box-shadow: @shadow-small;
     margin-left: @space-xs;
-    
-    h6{
+    display: inline-block;
+
+    .subheading{
       white-space: nowrap;
       text-overflow: ellipsis;
       max-width: 15rem;
       overflow:hidden;
+      display: inline-block;
     }
   }
 
