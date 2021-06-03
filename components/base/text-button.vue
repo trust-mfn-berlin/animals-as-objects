@@ -21,7 +21,7 @@ export default {
 
 <style lang="less" scoped>
 .text-button{
-  display: block;
+  display: inline-block;
   padding: 0.625rem 0.8rem 0.7rem;
   background-color: @white;
   box-shadow: @shadow;
