@@ -11,7 +11,7 @@
         <Searchbar />
       </li>
       <li>
-        <text-button linkto="/index">Index</text-button>
+        <text-button linkto="/articles">Index</text-button>
       </li>
       <li>
         <text-button linkto="/about">About</text-button>
