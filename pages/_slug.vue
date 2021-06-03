@@ -1,28 +1,17 @@
 <template>
-  <main v-if="page">
-    <h2>{{page.title}}</h2>
-    <nuxt-content :document="page" />
-    <nuxt-content :document="page.body_de" />
-    <template v-if="page.backlinks">
-    <ul v-if="page.backlinks.length >= 1" class='backlinks'>
-      <li><small>Pages that link to this page</small></li>
-      <li class='backlink' v-for="(link, index) in page.backlinks" :key="index">
-        <backlink :to="link"> </backlink>
-      </li>
-    </ul>
-    </template>
+  <div class="article-container">
+  <main v-if="article">
+    <h1>{{article.title}}</h1 >
+    <nuxt-content :document="article" />    
   </main>
+  <sidebar :article="article"/>
+  </div>
 </template>
 
 <script>
-import wikilink from '@/components/wikilink'
-import backlink from '@/components/backlink';
+
 export default {
-  name:'page',
-  components:{
-    backlink,
-    wikilink
-  },
+  name:'article-page',
   computed:{
   },
   created(){
@@ -32,25 +21,25 @@ export default {
     this.$store.commit('addPathway', this.$route.params.slug)
   },
   async asyncData({ $content, params, error, payload }) {
-    var page = {};
+    var article = {};
 
     // console.log(payload);
 
     if(payload){
-      page = await payload
-      // console.log('PAYLOAD', page);
-      return { page }
+      article = await payload
+      // console.log('PAYLOAD', article);
+      return { article }
     } else {
       console.log('no payload, fetching fresh data')
     try {
       const data = await $content(params.slug).fetch();
-      page = data;
+      article = data;
     } catch (e) {
       error({ message: e });
     }
 
     return {
-      page,
+      article,
     };
     }
   },
@@ -58,12 +47,21 @@ export default {
 </script>
 
 <style lang="less" scoped>
+.article-container{
+
+}
+
 main{
   counter-reset: footnote; 
+  width: 60%;
 }
 
 ::v-deep sup::after{
   counter-increment: footnote +1;
   content:counter(footnote);
+}
+
+img{
+  max-width: 100%;
 }
 </style>
