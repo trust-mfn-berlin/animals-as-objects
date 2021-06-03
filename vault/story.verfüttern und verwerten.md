@@ -2,7 +2,7 @@
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 title: VerfüTtern Und Verwerten
 desc: Put a description of this note here...
-updated: 1622740310390
+updated: 1622740417351
 created: 1621970259942
 title_de: Verfüttern und Verwerten
 desc_de: Put a DE description of this note here...
@@ -17,6 +17,7 @@ published: false
 :::EN:::
 
 :::DE:::
+
 
 ## Verwerten
 
