@@ -1,7 +1,7 @@
 <template>
   <article class="block" :class="article.tao_type">
     <nuxt-link :to="'/'+article.slug">
-    <img :src="'https://loremflickr.com/300/300?random=' + article.id" />
+    <img :src="'https://loremflickr.com/600/600/butterfly?random=' + article.id" />
     <div class="text">
       <h2 class="f-serif">{{article.title}}</h2>
       <p class="f-serif description" v-if="article.tao_type != 'material'">In biology, taxonomy is a formal system to name, define, and classify organisms, regulated and governed by agreed upon rules. Since its beginning biological taxonomy was neither stable nor universal, since controversies emerged, and classifications continue to change still today.</p>

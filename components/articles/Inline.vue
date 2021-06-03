@@ -1,6 +1,6 @@
 <template>
   <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual">
-    <img :src="'https://loremflickr.com/32/32?random=' + article.id" />
+    <img :src="'https://loremflickr.com/64/64/butterfly?random=' + article.id" />
     <div class="text">
       <h6 class="f-serif subheading">{{titleBilingual}}</h6>
     </div>
