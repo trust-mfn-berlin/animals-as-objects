@@ -81,10 +81,8 @@ aside{
     border-bottom: 2px solid rgba(0,0,0,0.05);
     padding: @space-m;
 
-    &#section-details{
-      ul{
-        margin: 1rem 0;
-      }
+    h3{
+      margin-bottom: 1rem;
     }
   }
 }
