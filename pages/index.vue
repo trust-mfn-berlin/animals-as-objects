@@ -46,6 +46,9 @@ export default {
   created(){
     this.$store.commit('setSiteLanguage', 'en')
   },
+  mounted(){
+    document.documentElement.style.setProperty("--selection-bg", "#ccc");
+  },
   head() {
     return {
       script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }],

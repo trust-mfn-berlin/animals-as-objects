@@ -35,6 +35,8 @@ export default {
   },
   mounted(){
     this.$store.commit('addPathway', this.$route.params.slug);
+
+    document.documentElement.style.setProperty("--selection-bg", "var(--scheme-"+this.schemeNumber+"-bg)");
   },
   async asyncData({ $content, params, error, payload }) {
     var article = {};
