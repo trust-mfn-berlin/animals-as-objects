@@ -2,8 +2,11 @@
   <div class="article-container">
   <main v-if="article" :class="{open : isSidebarOpen}">
     <section class="heading">
-    <h1>{{article.title}}</h1>
-    <h3 class="lead subheading f-mono"><span class="type" :class="article.tao_type">{{article.tao_type}}</span> Lorem ipsum dolor sit amet</h3>
+    <h1 :style="{boxShadow:'inset 0 -0.175em var(--background-1), inset 0 -0.2em var(--scheme-'+schemeNumber+'-bg)'}">{{article.title}}</h1>
+    <h3 class="lead subheading f-mono">
+      <span class="type" :class="article.tao_type" :style="{backgroundColor:'var(--scheme-'+schemeNumber+'-bg)', color:'var(--scheme-'+schemeNumber+'-fg)'}">{{article.tao_type}}</span>
+      Lorem ipsum dolor sit amet
+    </h3>
     </section>
     <section>
     <nuxt-content :document="article" />
@@ -21,6 +24,9 @@ export default {
   computed:{
     isSidebarOpen(){
       return this.$store.getters.isSidebarOpen
+    },
+    schemeNumber(){
+      return Math.floor(Math.random() * 15)
     }
   },
   created(){
@@ -83,9 +89,9 @@ h1{
   line-height: @lh-short;
 
   background-size: 1px 1em;
-  box-shadow:
-    inset 0 -0.175em @bg,
-    inset 0 -0.2em #000;
+  // box-shadow:
+  //   inset 0 -0.175em @bg,
+  //   inset 0 -0.2em #000;
   display: inline;
 
   text-shadow:
