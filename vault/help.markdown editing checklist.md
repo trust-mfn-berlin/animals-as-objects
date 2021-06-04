@@ -22,4 +22,4 @@ Here is what I noted so far, where the postdocs potentially have some inconsiste
 * Backlinks (insert title variations where needed)
 * `…\*innen` in DE gendered terms
 * Splitting :::EN::: :::DE::: correctly
-*
+* Cover image in backend
