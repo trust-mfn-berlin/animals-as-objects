@@ -24,10 +24,7 @@ export default {
     try {
       const results = await $content('netlify/pathways/' + params.slug).fetch();
       route = results;
-
-      // console.log(results);
       results.articles.forEach(async article => {
-        console.log(article.article)
         const a = await $content(article.article).fetch();
         articles.push(a);
       });
