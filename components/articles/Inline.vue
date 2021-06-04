@@ -1,7 +1,7 @@
 <template>
   <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual">
     <img :src="'https://loremflickr.com/64/64/butterfly?random=' + article.id" />
-    <span class="text">
+    <span class="text" :style="{backgroundColor:'var(--scheme-'+schemeNumber+'-bg)', color:'var(--scheme-'+schemeNumber+'-fg)'}">
       <span class="f-serif subheading">{{titleBilingual}}</span>
     </span>
   </nuxt-link>
@@ -32,7 +32,11 @@ export default {
       } else {
         return this.article.title
       }
+    },
+    schemeNumber(){
+      return Math.floor(Math.random() * 15)
     }
+  
   }
 }
 </script>

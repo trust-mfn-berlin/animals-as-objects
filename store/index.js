@@ -1,7 +1,6 @@
 import Vuex from 'vuex';
 
-// If we have animalsasobjects.com/de/.... 
-// Then we do not need language in the store.
+import importColours from '../assets/colours.json'
 
 const defaultLanguage = 'en';
 
@@ -13,7 +12,8 @@ const createStore = () => {
       currentPathway: [],
       searchBarIsOpen: false,
       activeFilter: 'type',
-      sidebarIsOpen: true
+      sidebarIsOpen: true,
+      colours: importColours
     },
     mutations: {
       setPages(state, pages) {
@@ -63,6 +63,9 @@ const createStore = () => {
       },
       isSidebarOpen(state){
         return state.sidebarIsOpen
+      },
+      siteColours(state){
+        return state.colours
       }
     }
   })
