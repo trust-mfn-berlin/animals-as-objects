@@ -31,9 +31,10 @@ export default {
   },
   created(){
     this.$store.commit('setSiteLanguage', 'en')
+    this.$store.commit('setArticleTaoType', this.article.tao_type);
   },
   mounted(){
-    this.$store.commit('addPathway', this.$route.params.slug)
+    this.$store.commit('addPathway', this.$route.params.slug);
   },
   async asyncData({ $content, params, error, payload }) {
     var article = {};

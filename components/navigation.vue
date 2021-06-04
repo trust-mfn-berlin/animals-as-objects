@@ -24,9 +24,16 @@
         <Searchbar />
       </li>
     </ul>
+    <transition name="fade">
       <li v-if="showSidebarToggle">
-        <icon-button @click.native="toggleSidebar" :icon="toggleIcon"/>
+        <icon-button 
+          @click.native="toggleSidebar"
+          :icon="toggleIcon"
+          :tao_type="this.$store.getters.articleTaoType"
+          :aria-haspopup="isSidebarOpen"
+        />
       </li>
+    </transition>
     
   </nav>
   </header>

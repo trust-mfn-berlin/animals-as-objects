@@ -1,5 +1,5 @@
 <template>
-  <button>
+  <button :class="tao_type">
     <svg v-if="icon == 'close'" width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M25.1003 25.1L13.0003 13M13.0003 13L25.1003 0.899963M13.0003 13L0.900146 0.899963M13.0003 13L0.900146 25.1" stroke="white"/>
     </svg>
@@ -34,6 +34,9 @@ export default {
     colourScheme:{
       type: Number
     },
+    tao_type:{
+      type: String
+    }
     
   }
 }
@@ -44,7 +47,6 @@ button{
   display: inline-block;
   background-color: @black;
   box-shadow: @shadow;
-  border-radius: @radius-s;
   width: auto;
   position: relative;
   height: 2rem;
@@ -55,9 +57,20 @@ button{
   flex-direction: row;
   cursor: pointer;
 
+  border-radius: 0px;
+
+  transition:250ms all ease-out;
+
   svg{
     margin:auto;
     // fill:@white;
+  }
+
+  &.material{
+    border-radius: 1rem;
+  }
+  &.story{
+    border-radius: @radius-m;
   }
 }
 </style>

@@ -13,7 +13,8 @@ const createStore = () => {
       searchBarIsOpen: false,
       activeFilter: 'type',
       sidebarIsOpen: true,
-      colours: importColours
+      colours: importColours,
+      articleTaoType: ''
     },
     mutations: {
       setPages(state, pages) {
@@ -37,6 +38,9 @@ const createStore = () => {
       toggleSidebar(state, isOpen){
         console.log('sidebar open', isOpen)
         state.sidebarIsOpen = isOpen
+      },
+      setArticleTaoType(state, type){
+        state.articleTaoType = type
       }
     },
     actions: {
@@ -66,6 +70,9 @@ const createStore = () => {
       },
       siteColours(state){
         return state.colours
+      },
+      articleTaoType(state){
+        return state.articleTaoType
       }
     }
   })
