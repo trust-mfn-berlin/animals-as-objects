@@ -3,6 +3,8 @@
     <Navigation :showSidebarToggle="true" />
     
     <Nuxt />
+
+    <Footer />
     
   </div>
 </template>

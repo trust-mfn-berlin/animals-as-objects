@@ -18,6 +18,9 @@
       <line x1="5.36377" y1="17.0501" x2="5.36377" y2="6.17857" stroke="white"/>
       <line x1="5.36377" y1="3.11841" x2="5.36377" y2="0.144485" stroke="white"/>
     </svg> -->
+    <svg v-if="icon == 'arrow-up'" width="26" height="18" viewBox="0 0 26 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0.875 13.4489L12.975 1.34888L25.0751 13.4489" stroke="white"/>
+    </svg>
   </button>
 </template>
 
