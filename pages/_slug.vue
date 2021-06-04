@@ -91,11 +91,11 @@ section.heading{
     background-size: 1px 1em;
     display: inline;
 
-    text-shadow:
-      -2px -2px @bg,
-      -2px 2px @bg,
-      2px -2px @bg,
-      2px 2px @bg;
+    // text-shadow:
+    //   -2px -2px @bg,
+    //   -2px 2px @bg,
+    //   2px -2px @bg,
+    //   2px 2px @bg;
   }
 
   .lead.subheading{
