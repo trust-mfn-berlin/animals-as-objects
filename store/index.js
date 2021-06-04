@@ -7,7 +7,7 @@ const defaultLanguage = 'en';
 const createStore = () => {
   return new Vuex.Store({
     state: {
-      loadedPages: [],
+      loadedArticles: [],
       siteLanguage: defaultLanguage,
       currentPathway: [],
       searchBarIsOpen: false,
@@ -17,8 +17,8 @@ const createStore = () => {
       articleTaoType: ''
     },
     mutations: {
-      setPages(state, pages) {
-        state.loadedPages = pages;
+      setLoadedArticles(state, articles) {
+        state.loadedArticles = articles;
       },
       setSiteLanguage(state, lang) {
         // console.log('set language to: ' + lang);
@@ -45,13 +45,13 @@ const createStore = () => {
     },
     actions: {
       async nuxtServerInit(vuexContext, context) {
-        const pages = await context.app.$content().only(['slug', 'title', 'title_de', 'id', 'tao_type']).fetch();
-        vuexContext.commit('setPages', pages)
+        const articles = await context.app.$content().only(['slug', 'title', 'title_de', 'id', 'tao_type']).fetch();
+        vuexContext.commit('setLoadedArticles', articles)
       }
     },
     getters: {
-      loadedPages(state) {
-        return state.loadedPages
+      loadedArticles(state) {
+        return state.loadedArticles
       },
       siteLanguage(state) {
         return state.siteLanguage

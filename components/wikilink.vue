@@ -1,6 +1,6 @@
 <template>
   <span class='wiki-link-component' >
-      <Inline v-if="match(storePages, linkTitle)" :article="storePage" />  
+      <Inline v-if="match(storeArticles, linkTitle)" :article="storeArticle" />  
       <slot v-else></slot>
   </span>
 </template>
@@ -10,18 +10,18 @@
     data() {
       return {
         href: '',
-        storePage: {}
+        storeArticle: {}
       }
     },
     methods:{
       match(store, link){
         for (let i = 0; i < store.length; i++) {
-          const storePage = store[i];
-          const s = storePage.slug.toLowerCase();
+          const storeArticle = store[i];
+          const s = storeArticle.slug.toLowerCase();
           const l = link.toLowerCase();
           if(s === l){
-            this.storePage = storePage;
-            this.href = storePage.slug;
+            this.storeArticle = storeArticle;
+            this.href = storeArticle.slug;
             return true;
           }
         }
@@ -38,8 +38,8 @@
           }
         }
       },
-      storePages(){
-        return this.$store.getters.loadedPages;
+      storeArticles(){
+        return this.$store.getters.loadedArticles;
       },
     },
   }

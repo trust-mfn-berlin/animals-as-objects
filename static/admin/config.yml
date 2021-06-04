@@ -126,15 +126,15 @@ collections:
         fields: 
           - {label: "Intro Text EN", name: text_en, widget: string}
           - {label: "Intro Text DE", name: text_de, widget: string}
-      - label: 'Connected notes'
-        name: 'notes'
+      - label: 'Connected articles'
+        name: 'articles'
         widget: 'list'
         collapsed: false
         fields:
           - label: 'Connected note'
-            name: 'note'
+            name: 'article'
             widget: 'relation'
             collection: 'dendron'
             display_fields: ['title']
             search_fields: ['title', 'title_de', 'author', 'tao_type', 'body']
-            value_field: 'id'
+            value_field: '{{slug}}'

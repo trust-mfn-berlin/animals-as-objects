@@ -1,8 +1,14 @@
 <template>
   <div>
     <!-- <graph /> -->
-    <Cascade :articles="pages" />
-    <text-button linkto="/articles">View All Articles</text-button>
+    <section>
+      <Cascade :articles="articles" />
+      <text-button linkto="/articles">View All Articles</text-button>
+    </section>
+
+    <section>
+      <routes-list :routes="routes" />
+    </section>
   </div>
 </template>
 
@@ -10,29 +16,31 @@
 export default {
   async asyncData({ $content }) {
     const results = await $content().fetch();
-    var pages = [];
+    const routes = await $content('/netlify/pathways').fetch();
+    // console.log(routes);
+    var articles = [];
     const max = 5;
     var t = 0;
     var m = 0;
     var s = 0;
     
-    results.forEach(page => {
-      if(page.tao_type == "theme" && t < max){
-        pages.push(page);
+    results.forEach(article => {
+      if(article.tao_type == "theme" && t < max){
+        articles.push(article);
         t++
       } else 
-      if(page.tao_type == "material" && m < max){
-        pages.push(page);
+      if(article.tao_type == "material" && m < max){
+        articles.push(article);
         m++
       } else
-      if(page.tao_type == "story" && s < max){
-        pages.push(page);
+      if(article.tao_type == "story" && s < max){
+        articles.push(article);
         s++
       }
     });
 
     return {
-      pages,
+      articles, routes
     };
   },
   created(){
