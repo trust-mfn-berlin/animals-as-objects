@@ -1,8 +1,8 @@
 <template>
   <article>
-    <div class="text">
+    <nuxt-link class="text" :to="'/routes/'+route.slug">
       <h2 class="f-serif">{{route.title}}</h2>
-    </div>
+    </nuxt-link>
     <div class="route-images" >
       <img 
         v-for="article in route.articles" 
