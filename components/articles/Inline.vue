@@ -53,17 +53,18 @@ a{
   .text{
     background-color: @white;
     height: 1.33333rem;
-    padding:0.25rem 0.4rem 0;
+    padding:0.37rem 0.4rem 0;
     box-shadow: @shadow-small;
     margin-left: @space-xs;
     display: inline-block;
+    line-height: unset;
 
     .subheading{
       white-space: nowrap;
       text-overflow: ellipsis;
       max-width: 15rem;
       overflow:hidden;
-      display: inline-block;
+      display: block;
     }
   }
 
