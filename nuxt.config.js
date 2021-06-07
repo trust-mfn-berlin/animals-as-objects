@@ -86,6 +86,13 @@ export default {
       remarkPlugins: [
 
       ],
+      rehypePlugins: [
+        ['~plugins/img-to-nuxt-img.js',{
+          width:"",
+          fit:"",
+          quality:"90"
+        }]
+      ]
     }
   },
 
