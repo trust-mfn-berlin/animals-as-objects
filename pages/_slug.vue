@@ -209,6 +209,15 @@ figure{
   margin: 5rem auto;
 }
 
+// Video
+
+iframe{
+  display: block;
+  width: 100%;
+  min-height: 20rem;
+  margin: 5rem auto;
+}
+
 
 
 
