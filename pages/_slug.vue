@@ -37,6 +37,7 @@ export default {
     this.$store.commit('addPathway', this.$route.params.slug);
 
     document.documentElement.style.setProperty("--selection-bg", "var(--scheme-"+this.schemeNumber+"-bg)");
+    document.documentElement.style.setProperty("--selection-fg", "var(--scheme-"+this.schemeNumber+"-fg)");
   },
   async asyncData({ $content, params, error, payload }) {
     var article = {};
