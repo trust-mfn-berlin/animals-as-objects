@@ -142,6 +142,11 @@ p{
   line-height: @lh-long;
 }
 
+blockquote{
+  margin: 2.5rem auto;
+  width: 90%;
+}
+
 // Footnotes
 
 .nuxt-content{
