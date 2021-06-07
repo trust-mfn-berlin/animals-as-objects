@@ -9,7 +9,7 @@
     </h3>
     </section>
     <section>
-    <nuxt-content :document="article" />
+    <nuxt-content :document="article" :class="article.tao_type" />
     </section>    
   </main>
   <sidebar :article="article"/>
@@ -32,6 +32,7 @@ export default {
   created(){
     this.$store.commit('setSiteLanguage', 'en')
     this.$store.commit('setArticleTaoType', this.article.tao_type);
+
   },
   mounted(){
     this.$store.commit('addPathway', this.$route.params.slug);
@@ -66,6 +67,9 @@ export default {
 </script>
 
 <style lang="less" scoped>
+
+// Primary Layout
+
 .article-container{
 
 }
@@ -79,10 +83,7 @@ main{
   }
 }
 
-::v-deep sup::after{
-  counter-increment: footnote +1;
-  content:counter(footnote);
-}
+// Typography
 
 section.heading{
   text-align: center;
@@ -127,11 +128,58 @@ p{
   line-height: @lh-long;
 }
 
+// Footnotes
+
+.nuxt-content{
+  &.story{
+    a.footnote-ref{
+      border-radius: @radius-m;
+    } 
+  }
+
+  &.theme{
+
+  }
+
+  &.material{
+    a.footnote-ref{
+      border-radius: @radius-max;
+    }
+  }
+}
+
+sup{
+
+  display: inline-block;
+  margin: 0 @space-xs;
+  font-family: @f-mono;
+  top:-@space-xs;
+  
+  a.footnote-ref{
+    background-color: @white;
+    padding: 0.4rem 0.5rem 0.3rem;
+    font-size: @fs-s;
+    box-shadow: @shadow-small;
+
+    &:hover{
+      box-shadow: @shadow-small-hover;
+    }
+  }
+
+}
+
+// Images
+
+figure{
+  margin: 5rem 0;
+}
+
 img{
   max-width: 100%;
   margin: 0 auto;
   display: block;
 }
+
 
 
 
