@@ -34,8 +34,8 @@
       <h3 class="f-mono subheading">This page appears in these Curated Routes</h3>  
     </section>
     <section id="section-footnotes" v-if="footnotesParsed">
-      <h3 class="f-mono subheading">Footnotes</h3>
-      <div class="footnotes-inner" v-html="footnotesParsed"></div>
+      <h3 class="f-mono subheading ">Footnotes</h3>
+      <div class="footnotes-inner text-links" v-html="footnotesParsed"></div>
     </section>
   </aside>
 </template>
@@ -107,7 +107,7 @@ aside{
     ::v-deep hr{
       display:none
     }
-    font-size: @fs-s;
+    // font-size: @fs-s;
 
     ::v-deep ol{
       list-style-type: decimal;
