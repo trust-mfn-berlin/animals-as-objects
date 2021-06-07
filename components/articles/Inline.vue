@@ -1,6 +1,6 @@
 <template>
   <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual">
-    <img :src="'https://loremflickr.com/64/64/butterfly?random=' + article.id" />
+    <img :src="'https://loremflickr.com/64/64/butterfly?random=' + article.id" alt="" />
     <span class="text" :style="{backgroundColor:'var(--scheme-'+schemeNumber+'-bg)', color:'var(--scheme-'+schemeNumber+'-fg)'}">
       <span class="f-serif subheading" v-html="alias ? alias : titleBilingual"></span>
     </span>
