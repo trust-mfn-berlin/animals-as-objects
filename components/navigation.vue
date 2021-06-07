@@ -124,7 +124,7 @@ nav{
   position: fixed;
   top:@space-s;
   left:@space-s;
-  width: calc(100vw - @space-s*2);
+  width: calc(100% - @space-s*2);
   z-index: @z-nav;
   gap: @space-xs;
 
