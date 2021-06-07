@@ -33,8 +33,9 @@
     <section id="section-routes">
       <h3 class="f-mono subheading">This page appears in these Curated Routes</h3>  
     </section>
-    <section id="section-footnotes">
-      <h3 class="f-mono subheading">Footnotes</h3>  
+    <section id="section-footnotes" v-if="footnotesParsed">
+      <h3 class="f-mono subheading">Footnotes</h3>
+      <div class="footnotes-inner" v-html="footnotesParsed"></div>
     </section>
   </aside>
 </template>
@@ -46,12 +47,26 @@ export default {
     article:{
       type: Object,
       required: true
+    },
+    footnotes:{
+      type: String,
+      required: false
+    }
+  },
+  data(){
+    return{
+      footnotesParsed:''
     }
   },
   computed:{
     isSidebarOpen(){
       return this.$store.getters.isSidebarOpen
     }
+  },
+  mounted(){
+    this.$nextTick(function(){
+      this.footnotesParsed = this.footnotes.replaceAll('id="fn-', 'id="sidebar-fn-');
+    })
   }
 }
 </script>
@@ -61,9 +76,11 @@ aside{
   display: block;
   position: fixed;
   width: 33vw;
-  height: 100%;
+  max-width: 20rem;
+  // height: 100%;
   background-color: @white;
   top:0;
+  bottom: 0;
   right: 0;
   // padding: @space-m 0;
   z-index: @z-sidebar;
@@ -83,6 +100,21 @@ aside{
 
     h3{
       margin-bottom: 1rem;
+    }
+  }
+
+  .footnotes-inner{
+    ::v-deep hr{
+      display:none
+    }
+    font-size: @fs-s;
+
+    ::v-deep ol{
+      list-style-type: decimal;
+
+      li{
+        margin: 0 0 @space-s @space-s;
+      }
     }
   }
 }

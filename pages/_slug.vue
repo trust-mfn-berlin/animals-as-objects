@@ -13,7 +13,7 @@
       <nuxt-content :document="article" :class="article.tao_type" />
     </section>    
   </main>
-  <sidebar :article="article"/>
+  <sidebar :article="article" :footnotes="footnotes"/>
   </div>
 </template>
 
@@ -22,6 +22,11 @@
 export default {
   name:'article-page',
   layout:'article',
+  data(){
+    return{
+      footnotes:""
+    }
+  },
   computed:{
     isSidebarOpen(){
       return this.$store.getters.isSidebarOpen
@@ -40,6 +45,10 @@ export default {
 
     document.documentElement.style.setProperty("--selection-bg", "var(--scheme-"+this.schemeNumber+"-bg)");
     document.documentElement.style.setProperty("--selection-fg", "var(--scheme-"+this.schemeNumber+"-fg)");
+
+    this.footnotes = document.getElementsByClassName('footnotes')[0].innerHTML;
+
+    // document.getElementsByClassName('footnotes')[0].remove()
   },
   async asyncData({ $content, params, error, payload }) {
     var article = {};
@@ -149,6 +158,10 @@ p{
     a.footnote-ref{
       border-radius: @radius-max;
     }
+  }
+
+  .footnotes{
+    display: none;
   }
 }
 
