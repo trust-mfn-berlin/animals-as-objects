@@ -8,7 +8,7 @@ function wikiLinkReplacer(match) {
   if(!hasAlias){
     return `<${wikiLinkComponentName} link="${match.slice(2, -2)}"></${wikiLinkComponentName}>`
   } else {
-    return `<${wikiLinkComponentName} link="${hasAlias[1]}" alias="${hasAlias[2]}"></${wikiLinkComponentName}>`
+    return `<${wikiLinkComponentName} link="${hasAlias[2]}" alias="${hasAlias[1]}"></${wikiLinkComponentName}>`
   }
 }
 
