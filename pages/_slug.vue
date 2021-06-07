@@ -1,15 +1,16 @@
 <template>
   <div class="article-container">
   <main v-if="article" :class="{open : isSidebarOpen}">
-    <section class="heading">
-    <h1 :style="{boxShadow:'inset 0 -0.175em var(--background-1), inset 0 -0.2em var(--scheme-'+schemeNumber+'-bg)'}">{{article.title}}</h1>
-    <h3 class="lead subheading f-mono">
-      <span class="type" :class="article.tao_type" :style="{backgroundColor:'var(--scheme-'+schemeNumber+'-bg)', color:'var(--scheme-'+schemeNumber+'-fg)'}">{{article.tao_type}}</span>
-      Lorem ipsum dolor sit amet
-    </h3>
-    </section>
+    <hgroup class="heading">
+      <h1 :style="{boxShadow:'inset 0 -0.175em var(--background-1), inset 0 -0.2em var(--scheme-'+schemeNumber+'-bg)'}">{{article.title}}</h1>
+      <h3 class="lead subheading f-mono">
+        <span class="type" :class="article.tao_type" :style="{backgroundColor:'var(--scheme-'+schemeNumber+'-bg)', color:'var(--scheme-'+schemeNumber+'-fg)'}">{{article.tao_type}}</span>
+        Lorem ipsum dolor sit amet
+      </h3>
+    </hgroup>
+
     <section>
-    <nuxt-content :document="article" :class="article.tao_type" />
+      <nuxt-content :document="article" :class="article.tao_type" />
     </section>    
   </main>
   <sidebar :article="article"/>
