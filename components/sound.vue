@@ -29,8 +29,11 @@ export default {
   audio{
     border-radius: @radius-max;
     width: 100%;
-    background-color: @white;
-    // box-shadow: @shadow;
+    
+  // only works for chrome 
+    &::-webkit-media-controls-panel{
+      background-color: @white;
+    }
   }
 
   figcaption{
