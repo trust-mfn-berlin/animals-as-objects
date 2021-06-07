@@ -142,6 +142,11 @@ p{
   line-height: @lh-long;
 }
 
+h2{
+  margin-bottom: @space-s;
+  margin-top: 4rem;
+}
+
 blockquote{
   margin: 2.5rem auto;
   width: 90%;
