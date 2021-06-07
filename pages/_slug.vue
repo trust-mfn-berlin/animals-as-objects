@@ -69,6 +69,10 @@ export default {
 
 <style lang="less" scoped>
 
+// Vars
+
+@article-width:60vw;
+
 // Primary Layout
 
 .article-container{
@@ -76,8 +80,7 @@ export default {
 }
 
 main{
-  counter-reset: footnote; 
-  width: 60%;
+  width: @article-width;
   margin: 0 auto;
   &.open{
     margin: 0;
@@ -172,13 +175,30 @@ sup{
 // Images
 
 figure{
-  margin: 5rem 0;
-}
-
-img{
+  margin: 5rem auto;
   max-width: 100%;
-  margin: 0 auto;
-  display: block;
+  width: fit-content;
+
+  img{
+    max-width: @article-width;
+    max-height: 800px;
+  }
+
+  p{
+    width: max-content;
+    margin: 0;
+    line-height: 1;
+  }
+
+  figcaption{
+    // max-width: max-content;
+    margin-top:@space-s;
+    display: flex;
+    p{
+      flex-grow: 1;
+      width: 0;
+    }
+  }
 }
 
 
