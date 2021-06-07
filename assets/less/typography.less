@@ -50,9 +50,12 @@ p{
 
 figcaption{
   font-family: @f-mono;
-  line-height: @lh-default;
+  // line-height: @lh-default !important;
   .caption();
   .text-links();
+  p{
+    // line-height: @lh-default !important;
+  }
 }
 
 em{

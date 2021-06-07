@@ -186,6 +186,20 @@ sup{
 
 }
 
+figcaption{
+  sup{
+    display: inline;
+    top:unset;
+    margin:0;
+    a.footnote-ref{
+      border-bottom: 0;
+      padding: 0.2rem;
+
+      font-size: inherit;
+    }
+  }
+}
+
 // Images
 
 figure{
@@ -195,13 +209,13 @@ figure{
 
   img{
     max-width: @article-width;
-    max-height: 800px;
+    max-height: 900px;
   }
 
   p{
     width: max-content;
     margin: 0;
-    line-height: 1;
+    line-height: 1.2;
   }
 
   figcaption{

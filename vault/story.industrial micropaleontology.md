@@ -54,7 +54,7 @@ Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie co
 
 <figcaption>
 
-Cesare Emiliani, Image is short but caption is long. So long..  Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis
+Cesare Emiliani, Image is short but caption is long. So long..  Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis [^4]
 
 </figcaption>
 </figure>
@@ -68,6 +68,8 @@ Cesare Emiliani, Image is short but caption is long. So long..  Duis autem vel e
 [^1]: This history is told in detail in Gries, Robbie Rice. "How female geologists were written out of history: the micropaleontology breakthrough." _Geological Society of America Memoirs_ 214 (2018): 11-22. https://doi.org/10.1130/2018.1214(02)
 [^2]: Some important aspects of the history of this laboratory are narrated on the Smithsonian National Museum of Natural History's website: https://naturalhistory.si.edu/research/paleobiology/collections-overview/foraminifera-collections/joseph-cushman.
 [^3]: For the history of Soviet micropaleonotlogy: Mikhalevich, Valeria & Bugrova, Eleonora & Basov, Valeriy & Zakrevskaya, Elena & Dmitrieva, Tatiana & Barash, Max.  "The Russian School of Foraminiferology." _The Journal of Foraminiferal Research_ 50 (2020): 97-107. https://doi.org/10.2113/gsjfr.50.1.97. And: Yakovleva‐O'Neill, Svetlana P., and Genrieta E. Kolzova. "A history of the first micropalaeontological laboratory in the former Soviet Union." Landmarks in _Foraminiferal Micropalaeontology: History and Development_, The Micropalaeontological Society, Special Publications (2013): 59-66. https://doi.org/10.1144/TMS6.6
+
+[^4]: For the history of Soviet micropaleonotlogy: Mikhalevich, Valeria & Bugrova, Eleonora & Basov, Valeriy & Zakrevskaya, Elena & Dmitrieva, Tatiana & Barash, Max.  "The Russian School of Foraminiferology." _The Journal of Foraminiferal Research_ 50 (2020): 97-107. https://doi.org/10.2113/gsjfr.50.1.97. And: Yakovleva‐O'Neill, Svetlana P., and Genrieta E. Kolzova. "A history of the first micropalaeontological laboratory in the former Soviet Union." Landmarks in _Foraminiferal Micropalaeontology: History and Development_, The Micropalaeontological Society, Special Publications (2013): 59-66. https://doi.org/10.1144/TMS6.6
 
 <!-- And this allows us to leave notes to the others that are not visible in the preview. -->
 
