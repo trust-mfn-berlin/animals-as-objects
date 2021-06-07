@@ -43,11 +43,12 @@ export default {
   mounted(){
     this.$store.commit('addPathway', this.$route.params.slug);
 
-    document.documentElement.style.setProperty("--selection-bg", "var(--scheme-"+this.schemeNumber+"-bg)");
-    document.documentElement.style.setProperty("--selection-fg", "var(--scheme-"+this.schemeNumber+"-fg)");
+    document.documentElement.style.setProperty("--current-scheme-bg", "var(--scheme-"+this.schemeNumber+"-bg)");
+    document.documentElement.style.setProperty("--current-scheme-fg", "var(--scheme-"+this.schemeNumber+"-fg)");
 
-    this.footnotes = document.getElementsByClassName('footnotes')[0].innerHTML;
-
+    if(document.getElementsByClassName('footnotes')[0]){
+      this.footnotes = document.getElementsByClassName('footnotes')[0].innerHTML;
+    }
     // document.getElementsByClassName('footnotes')[0].remove()
   },
   async asyncData({ $content, params, error, payload }) {
