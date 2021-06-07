@@ -9,7 +9,7 @@ module.exports = options => tree => {
     node =>
       node.tagName === 'img' ,
     node => {
-      console.log(node)
+      // console.log(node)
       node.tagName = 'nuxt-img'
       // node.properties.width = options.width
       // node.properties.fit = options.fit
