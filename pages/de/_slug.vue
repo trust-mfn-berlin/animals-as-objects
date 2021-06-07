@@ -3,12 +3,12 @@
     <h2>{{page.title_de}}</h2>
     <nuxt-content :document="page.body_de" />
     <template v-if="page.backlinks">
-    <ul v-if="page.backlinks.length >= 1" class='backlinks'>
+    <!-- <ul v-if="page.backlinks.length >= 1" class='backlinks'>
       <li><small>Pages that link to this page</small></li>
       <li class='backlink' v-for="(link, index) in page.backlinks" :key="index">
         <backlink :to="link"> </backlink>
       </li>
-    </ul>
+    </ul> -->
     </template>
   </div>
 </template>

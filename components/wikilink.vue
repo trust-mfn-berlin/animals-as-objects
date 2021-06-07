@@ -1,7 +1,6 @@
 <template>
   <span class='wiki-link-component' >
-      <Inline v-if="match(storeArticles, linkTitle)" :article="storeArticle" />  
-      <slot v-else></slot>
+    <Inline v-if="match(storeArticles, link)" :article="storeArticle" :alias="alias"/>  
   </span>
 </template>
 
@@ -10,7 +9,16 @@
     data() {
       return {
         href: '',
-        storeArticle: {}
+        storeArticle: {},
+      }
+    },
+    props:{
+      link:{
+        type:String,
+        required: true
+      },
+      alias:{
+        type:String
       }
     },
     methods:{
@@ -32,6 +40,7 @@
         for (let i = 0; i < this.$slots.default.length; i++) {
           const el = this.$slots.default[i];
           if(el.componentOptions){
+            // console.log(el.componentOptions);
             if(el.componentOptions.children[0].text){
               return el.componentOptions.children[0].text;
             }
@@ -60,7 +69,7 @@
 // }
 
 ::v-deep .dendron-link{
-  display: none;
+  // display: none;
 }
 
 span{

@@ -84,13 +84,7 @@ export default {
     dir: 'vault',
     markdown:{
       remarkPlugins: [
-        ['~plugins/remark-wiki-link.js', {
-        wikiLinkClassName:'dendron-link',
-        hrefTemplate: (permalink) => `/${permalink}`,
-        pageResolver: (name) => {
-          return [name]
-        }
-        }]
+
       ],
     }
   },
