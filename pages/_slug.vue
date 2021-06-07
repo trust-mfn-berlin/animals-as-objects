@@ -86,7 +86,7 @@ main{
 
 // Typography
 
-section.heading{
+hgroup.heading{
   text-align: center;
 
   h1{
