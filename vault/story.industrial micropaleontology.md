@@ -59,7 +59,7 @@ Cesare Emiliani, Image is short but caption is long. So long..  Duis autem vel e
 </figcaption>
 </figure>
 
-<sound file="/audio/Sample_audio_elefant.mp3">Audio caption</sound>
+<sound file="/audio/Sample_audio_elefant.mp3">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna</sound>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mdrWbd1F9Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,8 +1,11 @@
 <template>
-  <audio controls="controls">
+  <div class="audio-container">
+    <audio controls="controls">
     <source type="audio/mp3" :src="file">
     Your browser does not support the audio element.
-  </audio>
+    </audio>
+    <figcaption><slot></slot></figcaption>
+  </div>
 </template>
 
 <script>
@@ -16,3 +19,23 @@ export default {
   }
 }
 </script>
+
+<style lang="less" scoped>
+.audio-container{
+  display: flex;
+  flex-direction: column;
+  // background-color: @white;
+
+  audio{
+    border-radius: @radius-max;
+    width: 100%;
+    background-color: @white;
+    // box-shadow: @shadow;
+  }
+
+  figcaption{
+    margin-top:@space-s;
+    text-align: center;
+  }
+}
+</style>

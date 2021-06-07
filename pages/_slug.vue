@@ -201,6 +201,14 @@ figure{
   }
 }
 
+// Audio
+
+.audio-container{
+  display: block;
+  width: 50%;
+  margin: 5rem auto;
+}
+
 
 
 
