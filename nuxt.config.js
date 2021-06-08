@@ -26,13 +26,6 @@ export default {
     ]
   },
 
-  generate: {
-    crawler: false,
-    exclude: [
-      /^\/admin/ // path starts with /admin
-    ]
-  },
-
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     { src: 'normalize.css' }, 
@@ -177,7 +170,10 @@ export default {
       let routesBilingual = [...routes, ...routes_de];
       // console.log(routesBilingual);
       return routesBilingual
-    }
+    },
+    exclude: [
+      /^\/admin/ // path starts with /admin
+    ]
   },
 
   vue: {
