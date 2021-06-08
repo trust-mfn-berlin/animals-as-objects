@@ -93,7 +93,9 @@ export default {
   }
 
 
-  &.active{
+
+
+  &.active, &.primary-nav-item.nuxt-link-exact-active{
     background-color: @black;
     color:@white;
 
@@ -101,5 +103,6 @@ export default {
       border-color: @black;
     }
   }
+  
 }
 </style>

@@ -8,14 +8,14 @@
     </ul> -->
     <ul class="primary" :class="{open : isSearchbarOpen}">
       <li>
-        <text-button :linkto="rootUrl">Animals as Objects?</text-button>
+        <text-button class="primary-nav-item" :linkto="rootUrl">Animals as Objects?</text-button>
       </li>
       
       <li>
-        <text-button linkto="/articles">Index</text-button>
+        <text-button class="primary-nav-item" linkto="/articles">Index</text-button>
       </li>
       <li>
-        <text-button linkto="/about">About</text-button>
+        <text-button class="primary-nav-item" linkto="/about">About</text-button>
       </li>
       <li>
         <text-button :linkto="switchUrlComposed">{{siteLangSwap}}</text-button>
