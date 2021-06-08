@@ -70,7 +70,7 @@ article{
 
     z-index: 9;
   
-    transition: 100ms transform cubic-bezier(1,1.76,.52,.92);
+    .animatepop(all);
 
     h2{
       max-width: 100%;

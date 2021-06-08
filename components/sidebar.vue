@@ -118,7 +118,8 @@ aside{
 
   overflow:auto;
   transform: translateX(100%);
-  transition: 250ms transform ease-out;
+  
+  .animateslow(transform);
 
   &.open{
     // right:0;

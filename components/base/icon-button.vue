@@ -63,7 +63,7 @@ button{
 
   border-radius: 0px;
 
-  transition:250ms all ease-out;
+  .animatemedium(all);
 
   svg{
     margin:auto;

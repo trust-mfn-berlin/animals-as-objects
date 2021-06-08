@@ -1,15 +1,19 @@
 .animatefast(@property){
-  transition: @property 250ms ease;
+  transition: @property 150ms cubic-bezier(0.25, 1, 0.5, 1);
 }
 
 .animatemedium(@property){
-  transition: @property .5s cubic-bezier(0.25, 1, 0.5, 1);
+  transition: @property 250ms cubic-bezier(0.25, 1, 0.5, 1);
 }
 
 .animateslow(@property){
-  transition: @property .7s cubic-bezier(0.25, 1, 0.5, 1);
+  transition: @property .5s cubic-bezier(0.25, 1, 0.5, 1);
 }
 
 .animateslowest(@property){
   transition: @property 1s ease;
+}
+
+.animatepop(@property){
+  transition: 100ms transform cubic-bezier(1,1.76,.52,.92);
 }

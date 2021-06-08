@@ -54,7 +54,7 @@ article{
     box-shadow: @shadow;
     padding: @space-l;
 
-    transition: 100ms transform cubic-bezier(1,1.76,.52,.92);
+    .animatepop(transform);
 
     h2{
       max-width: 100%;
