@@ -232,7 +232,7 @@ figure{
 
   img{
     max-width: @article-width;
-    max-height: 900px;
+    // max-height: 1200px;
   }
 
   p{
