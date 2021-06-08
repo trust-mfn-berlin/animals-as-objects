@@ -2,7 +2,7 @@
 id: f02cb0e0-9512-4a0f-8012-02969e9f97d0
 title: Bobby life
 desc: Put a description of this note here...
-updated: 1622213743392
+updated: 1623077104782
 created: 1620163729182
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -110,6 +110,14 @@ Rümmler, Hans. „2. Niederschriften der wissenschaftlichen Sitzungen im Jahre 
 	Hand- und Fuß in Naßsammlung
 -	Abgüsse
 	Anatomische Sammlung Charité
+
+
+Bobby:
+Körper zerlegt 
+Körper in Publikationen 'seziert' und verteilt; der geschriebene Korpus / Textkorpus
+Zerteilung des Körpers auch in verschiedenen Publikationen verwertet > nochmal ‚Zerlegung‘ / Zerteilung
+Affenköpfe in Denkerposen 
+
 
 ## Erinnerung
 
