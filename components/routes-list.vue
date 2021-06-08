@@ -1,6 +1,5 @@
 <template>
     <div>
-      <h2>Curated routes</h2>
       <ul>
         <li v-for="(route, index) in routes" :key="index">
           <Route :route="route" />
