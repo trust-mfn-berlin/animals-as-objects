@@ -128,6 +128,9 @@ export default {
 
     },
     'content:file:beforeInsert': async (document, database) => {
+
+      if(document.dir == '/netlify'){return}
+
       if(languageSplitterBuffer){
         // console.log('combining languages...')
         document.body_de = await database.markdown.toJSON(languageSplitterBuffer);
