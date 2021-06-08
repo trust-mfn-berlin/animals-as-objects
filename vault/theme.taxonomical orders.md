@@ -23,9 +23,16 @@ Despite the success of the Linnaean system, **biological taxonomy has never been
 
 Despite their early divergence, both plants and animal systematics underwent a significant transformation over the course of the 19th century, which radically changed taxonomy. Taxonomical orders developed into powerful systems for naturalizing difference. In fact, as ranks were often presented graphically as trees (dendrograms), the idea of taxonomical differences as evidence of the natural transmutation of species became increasingly popular. By the end of the 1850s, as [[material.charles darwin]] and [[material.alfred russel wallace]] presented their theories about the origin of species, the classification of organisms started representing relations of descent within the scope of the emerging theory of evolution by natural selection. **From an order based on explicitly artificial categories, taxonomy increasingly became understood as a natural system, grounded in evolutionary change.**
 
+<figure>
+
 ![Old illustration of a branching tree with scientific labels, representing various orders of organisms.](/images/filo/Haeckel_arbol_bn.png)
 
+<figcaption>
+
 _One of the earliest representations of a phylogenetic tree, indicating the evolutionary relations between different classes of organisms, according to [[material.ernst haeckel]]. Published in Haeckel, Ernst. Generelle Morphologie der Organismen: allgemeine Grundzüge der organischen Formen-Wissenschaft, mechanisch begründet durch die von C. Darwin reformirte Decendenz-Theorie. Berlin. (1866)._
+
+</figcaption>
+</figure>
 
 This transformation of taxonomy is well represented in [[material.ernst haeckel]]’s illustration of the evolutionary relations of descent connecting all of life, published in his _Generelle Morphologie der Organismen_ from 1866. With it, Haeckel also introduced a successful new rank, that of phylum, an intermediary between kingdom and class. However, the tension between a purely morphological or descriptive concern with taxonomy, and an evolutionary and phylogenetic interest for natural classes, was never solved. This tension is somewhat reflected in the distinction between alpha and beta taxonomy that emerged in the beginning of the 20th century – the first supposedly concerned with the description of taxa, and the latter with higher ranks and broader questions. This distinction continues to highlight an implicit strain between natural history’s systematic effort to catalog all of nature, and evolutionary biology’s desire to characterize the relation of descent of all living things. Even the [[material.modern evolutionary synthesis]], that began surfacing in the 1950s to reconcile Darwinian evolutionary theory and Mendelian [[material.genetics]], did not manage to stabilize a universal approach to taxonomy.
 
