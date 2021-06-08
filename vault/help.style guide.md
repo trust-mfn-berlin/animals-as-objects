@@ -2,12 +2,9 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1622545457715
+updated: 1623138595341
 created: 1618326133707
 ---
-
-<!-- >**Note from Arthur**
-I have added the style guide draft by Filippo as a starting point. When this note is finalised, it will be integrated into the [[templates]] and will then autofill with fitting fields for each category as you create a new material, theme or story. See [[help.file structure]] for more information regarding the existing fields and their functions. Dot dot dot-->
 
 <!-- Notes should be in comments like this -->
 <!-- Easiest way to do this - Hit `Cmd + /` -->
@@ -46,11 +43,13 @@ Use Oxford comma
 
 Use the longer dashes with spaces around it in texts – like this.
 
-Only use "these quotation marks" in DE and EN, not „these quotation marks”
+Only use "these quotation marks" in both DE and EN, not „these quotation marks”
 
 - Bullet points like this
 * or like this
 - always leave a blank line above and below the list
+
+Footnotes come after the "." at the end of a sentence but before the "," if in the middle of a sentence.
 
 ## Footnotes: Suggestion of a modified "Chicago Manual, 17th edition (note)"
 
@@ -89,3 +88,13 @@ Staatspräsident Ulbricht übergibt den goldenen Schlüssel, 22.10.1965. (LAB C 
 ### Caption newspaper (example)
 
 [article title is visible, and written in the accessibility description] Artikel aus dem ‘Völkischen Beobachter‘ vom 12.04.1938 mit einem Interview mit Lutz Heck.
+
+## Image descriptions, AltText
+
+* Do start with general details, followed by specifics.
+* Do be clear and concise. It is important not to be too wordy or over describe a panel, since this can be confusing to a reader.
+* Do be objective. You do not want to put your opinions of what is happening into the description, just what is literally in the panel. The reader should have the freedom for their own interpretation given all the necessary details.
+*Do state the type of image if it is unusual or out of context, like a newspaper cut-out among photographs.
+* Do pay attention to the context of the image. Is it well-described within the text? Then the alt-text can be simple. 
+
+Source: https://www.accessiblepublishing.ca/a-guide-to-image-description/
