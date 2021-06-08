@@ -8,6 +8,7 @@ const contentDir = path.join(__dirname, '..', 'vault');
 
 console.log(contentDir);
 
+// need to accomodate aliases here
 const findBetweenDoubleBrackets = /\[\[(.*?)\]\]/g;
 var dendronlinks = [];
 var compiledBacklinks = [];
