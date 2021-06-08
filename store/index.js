@@ -14,7 +14,8 @@ const createStore = () => {
       activeFilter: 'type',
       sidebarIsOpen: true,
       colours: importColours,
-      articleTaoType: ''
+      articleTaoType: '',
+      citationModal: {isOpen:false, article:{}}
     },
     mutations: {
       setLoadedArticles(state, articles) {
@@ -41,6 +42,9 @@ const createStore = () => {
       },
       setArticleTaoType(state, type){
         state.articleTaoType = type
+      },
+      toggleCitationModal(state, citation){
+        state.citationModal = citation
       }
     },
     actions: {
@@ -73,6 +77,9 @@ const createStore = () => {
       },
       articleTaoType(state){
         return state.articleTaoType
+      },
+      isCitationModal(state){
+        return state.citationModal
       }
     }
   })

@@ -11,7 +11,7 @@
       </ul>
       <div class="button-array">
         <text-button linkto="">Download PDF</text-button>
-        <text-button linkto="">Cite this Article</text-button>
+        <text-button linkto="" @click.native="openCitationModal">Cite this Article</text-button>
       </div>
     </section>
     <section id="section-toc" v-if="article.toc.length > 0">
@@ -61,6 +61,11 @@ export default {
   computed:{
     isSidebarOpen(){
       return this.$store.getters.isSidebarOpen
+    }
+  },
+  methods:{
+    openCitationModal(){
+      this.$store.commit('toggleCitationModal', {isOpen: true, article: this.article});
     }
   },
   mounted(){
