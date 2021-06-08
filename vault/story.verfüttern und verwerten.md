@@ -12,12 +12,9 @@ cover_image: null
 license: CC BY-SA
 published: false
 ---
-
-
 :::EN:::
 
 :::DE:::
-
 
 ## Verwerten
 
@@ -43,7 +40,7 @@ _Suche in der Säugetiersammlung des Museums für Naturkunde Berlin, November 20
 
 Sind die Elefantenknochen am Ende gar nicht in die Sammlung gekommen? Oder liegt es daran, dass das Zoologischen Museum nicht zu jeder Zeit detailliert Buch über die eintreffenden Objekte führte und daher nicht alle historischen Elefantenknochen systematisch in den Eingangskatalogen verzeichnet und wieder auffindbar sind? (siehe dazu auch [[story.record keeping]]). Manche Objektgeschichten scheinen nur (noch) als Papierspuren zu existieren, die die Tiere in Archiven, Korrespondenzen oder Zeitungsberichten hinterlassen.
 
-In "Siams" Fall führen diese in die europäische Kolonialgeschichte. Die Stationen seines Lebens lenken den Blick auf die lange und problematische Geschichte sogenannter "exotischer" Zoo- und Zirkustiere aus kolonialen Kontexten – Tiere, die aus den Kolonien als Handels- und Tauschobjekte oder als Geschenke nach Europa gebracht wurden.[^Verfüttern18] – wie hier aus der britischen Kolonie Ceylon, wohin Tierhändler wie John Hagenbeck regelmäßig reisten, um Tiere für Zoologische Gärten und Zirkusse zu fangen und  Menschen für Völkerschauen zu rekrutieren.[^Verfüttern19] [[Völkerschauen]] [[story.Catching Animals]] [[story.Gifting Objects]] [[theme.Acquisition zoo animals]] Elefantenfüße als Papierkörbe gehören dabei zweifellos zu den ikonischen Trophäen, in denen sich Verwertungsweisen wie auch stereotypisierte imperiale Bilder um Aneignung und Beherrschung materialisieren. Auch wenn wir über den tatsächlich Verbleib von "Siams" Füßen nichts wissen, verweist die Umwandlung von Elefantenfüßen zum Papierkorb darauf, dass die materielle Kultur des Kolonialismus in Sammlungen ebenso wie in Wohnzimmern zu suchen und sowohl Teil der Berliner Museums- wie auch Alltagsgeschichte ist. 
+In "Siams" Fall führen diese in die europäische Kolonialgeschichte. Die Stationen seines Lebens lenken den Blick auf die lange und problematische Geschichte sogenannter "exotischer" Zoo- und Zirkustiere aus kolonialen Kontexten – Tiere, die aus den Kolonien als Handels- und Tauschobjekte oder als Geschenke nach Europa gebracht wurden.[^Verfüttern18] – wie hier aus der britischen Kolonie Ceylon, wohin Tierhändler wie John Hagenbeck regelmäßig reisten, um Tiere für Zoologische Gärten und Zirkusse zu fangen und  Menschen für Völkerschauen zu rekrutieren.[^Verfüttern19] [[Völkerschauen]] [[story.Catching Animals]] [[story.Gifting Objects]] [[theme.Getting Zoo Animals]] Elefantenfüße als Papierkörbe gehören dabei zweifellos zu den ikonischen Trophäen, in denen sich Verwertungsweisen wie auch stereotypisierte imperiale Bilder um Aneignung und Beherrschung materialisieren. Auch wenn wir über den tatsächlich Verbleib von "Siams" Füßen nichts wissen, verweist die Umwandlung von Elefantenfüßen zum Papierkorb darauf, dass die materielle Kultur des Kolonialismus in Sammlungen ebenso wie in Wohnzimmern zu suchen und sowohl Teil der Berliner Museums- wie auch Alltagsgeschichte ist. 
 
 ## Verfüttern und Verspeisen
 
@@ -55,7 +52,7 @@ Ein zusätzliches Problem bestand darin, dass das in den Westsektoren anfallende
 
 Die Löwen im Berliner Zoo erhielten indes nur einen Teil des Elefantenfleisches. Ein anderer gelangte in menschliche Versorgungskreisläufe, genauer gesagt landete es auf dem Schwarzmarkt und von dort angeblich auf der Speisekarte eines Berliner Restaurants. Als der Zoo-Angestellte Karl Wolf jun. berichtete, ihm sei Elefantenfleisch zum Preis von 65 Reichsmark pro Pfund angeboten worden[^Verfüttern10], nahm die Polizei umgehend Ermittlungen auf. Wolf wurde beauftragt, das Fleisch zu kaufen und dem Zoo zu berichten. Tatsächlich erschien er mit 5 Pfund Fleisch, das ihm eine Bewohnerin seines Hauses vor dem Restaurant Savarin für 325 Reichsmark übergeben hatte. Einer der Zoowärter wurde angeklagt, das Fleisch entwendet und rund 20 Pfund unter der Hand weiterverkauft zu haben.[^Verfüttern11] Der Elefant war somit am Ende vom Schautier zum Fleischlieferanten geworden. Als die Presse Wind von der Sache bekam, hieß es dort "Elefant à la carte" und "Siam auf der Speisekarte".[^Verfüttern12] [[Kriegsopfer und Delikatesse]]
 
-![Zeitungsartikel in _Der Morgen_ vom 20.3.1947](images\mv\Speisekarte.jpg) 
+![Zeitungsartikel in \_Der Morgen\_ vom 20.3.1947](images\mv\Speisekarte.jpg) 
 
 _Die Tageszeitung 'Der Morgen' berichtet über den illegalen Verkauf des Elefantenfleischs,20.03.1947._
 
@@ -63,11 +60,11 @@ Aber während die Zeitungen halb ironisch darüber spekulierten, ob sich wohl je
 
 Wie groß die Not in der Berliner Bevölkerung zu der Zeit war, zeigt auch eine ganze Reihe von Zuschriften an den Zoo kurz nach „Siams“ Tod, die sich nach Möglichkeiten der Weiterverwertung seiner Überreste erkundigten. Ob die Stoßzähne verkäuflich seien und die Haut für das Flicken von Kleidung verwendbar sei, wollte jemand wissen; ob das Elefantenfleisch für den menschlichen Verzehr geeignet sei, fragte ein anderer.[^Verfüttern14] Zudem häuften sich damals im Zoo die Diebstähle: Gemüse wurde heimlich aus den Beeten herausgerissen, Karpfen aus dem Restaurant-Teich gefischt und selbst lebende Tiere wie Esel, Schafe, Rehe und Milchziegen gestohlen:
 
->Abschlachtung und Diebstahl eines Wildschweines
-Abschlachtung und Diebstahl einer Ziege und einiger Lämmer
-Abschlachtung und Diebstahl eines Rehes
-Abschlachtung und Diebstahl von Kaninchen und Hühnern (mehrere Fälle)
-Diebstahl von Futtermitteln.[^Verfüttern15]
+> Abschlachtung und Diebstahl eines Wildschweines
+> Abschlachtung und Diebstahl einer Ziege und einiger Lämmer
+> Abschlachtung und Diebstahl eines Rehes
+> Abschlachtung und Diebstahl von Kaninchen und Hühnern (mehrere Fälle)
+> Diebstahl von Futtermitteln.[^Verfüttern15]
 
 „Nicht einmal sehr wählerisch sind die nächtlichen Langfinger, nehmen sie doch alles, vom Stachelschwein bis zur Ratte“, bemerkte die _Tägliche Rundschau_, und Katharina Heinroth fügte hinzu: „Das Stachelschwein wanderte vermutlich in den Kochtopf“.[^Verfüttern16] Auch hier war der Zoo wie ein Miniaturbild von Groß-Berlin, wo zu der Zeit nebenan im Tiergarten und auf den Feldern die Gemüse- und Kartoffeldiebstähle derart zunahmen, dass die Polizei die Versorgung der Bevölkerung in Gefahr sah. Wer gefasst wurde, dem drohten daher harte Gefängnisstrafen.[^Verfüttern17]
 
@@ -76,7 +73,6 @@ Diebstahl von Futtermitteln.[^Verfüttern15]
 Die Geschichte von "Siam" ist eine Geschichte unterschiedlicher Verwertungen. Der Elefant war vom Wildtier zu "Siam" der Zirkus- und Zooattraktion geworden, dann womöglich zum Teil einer wissenschaftlichen Sammlung, vermutlich zum Dekorationsobjekt im Stil kolonialer Trophäen und schließlich zum Fleischlieferanten für Tier und Mensch. Die Geschichte seines Lebens und Nachlebens, rekonstruiert aus Papierspuren, ist eine zugleich lokale und globale Geschichte; ein Kapitel Berliner Nachkriegsgeschichte und Teil einer globalen Geschichte des Kolonialismus. 
 
 Gleichzeitig ist das Nachleben von "Siam" aber auch ein loses Ende, das die Lücken in der Überlieferung sichtbar macht, die buchstäblichen Leer-Stellen der materiellen Kultur. Gerade sie stoßen viele Fragen an – nicht nur über die Verwertung von Tierkörpern als wissenschaftliche Objekte, als Ausstellungsstücke, als Trophäen und Fleischlieferanten; sondern auch über die Spuren, die ein Tier hinterlässt und über meine eigene Forschung, ihre Quellen und die Grenzen historischer Rekonstruktion. 
-
 
 ## Fußnoten
 
@@ -114,6 +110,7 @@ Gleichzeitig ist das Nachleben von "Siam" aber auch ein loses Ende, das die Lüc
 
 [^Verfüttern17]: "Gemüse- und Kartoffeldiebstähle." _Verordnungsblatt (VOBl.) der Stadt Berlin 1945_, Nr. 7, 20.9.1945: 93.
 
-[^Verfüttern18]: Vgl. Szczygielska, Marianna. "Elephant Empire: Zoos and Colonial Encounters in Eastern Europe." _Cultural Studies_(2020): 1-22. https://doi.org/10.1080/09502386.2020.1780280; siehe auch [[story.Catching Animals]].
+[^Verfüttern18]: Vgl. Szczygielska, Marianna. "Elephant Empire: Zoos and Colonial Encounters in Eastern Europe." _Cultural Studies_(2020): 1-22. <https://doi.org/10.1080/09502386.2020.1780280>; siehe auch [[story.Catching Animals]].
 
 [^Verfüttern19]: Vgl. Hagenbeck, John. _John Hagenbecks abenteuerliche Flucht aus Ceylon_, Leipzig: Deutsche Buchwerkstätten 1917.
+
