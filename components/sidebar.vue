@@ -72,23 +72,20 @@ export default {
   methods:{
      matchRoutes(link){
 
-       for (let i = 0; i < this.$store.getters.loadedRoutes.length; i++) {
-         const storeRoute = this.$store.getters.loadedRoutes[i];
+      for (let i = 0; i < this.$store.getters.loadedRoutes.length; i++) {
+        const storeRoute = this.$store.getters.loadedRoutes[i];
          
-          for (let a = 0; a < storeRoute.articles.length; a++) {
-            const storeRouteArticle = storeRoute.articles[a].article;
+        for (let a = 0; a < storeRoute.articles.length; a++) {
+          const storeRouteArticle = storeRoute.articles[a].article;
 
-            const s = storeRouteArticle.toLowerCase();
-            const l = link.toLowerCase();
-            if(s === l){
-              this.matchedRoutes.push(storeRoute);
-            }
-            
+          const s = storeRouteArticle.toLowerCase();
+          const l = link.toLowerCase();
+          if(s === l){
+            this.matchedRoutes.push(storeRoute);
           }
-       }
-        
-
-      
+          
+        }
+      }
     },
     openCitationModal(){
       this.$store.commit('toggleCitationModal', {isOpen: true, article: this.article});
