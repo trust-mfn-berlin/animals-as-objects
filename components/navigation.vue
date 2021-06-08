@@ -31,6 +31,7 @@
           :icon="toggleIcon"
           :tao_type="this.$store.getters.articleTaoType"
           :aria-haspopup="isSidebarOpen"
+          :useColourScheme="true"
         />
       </li>
     </transition>
