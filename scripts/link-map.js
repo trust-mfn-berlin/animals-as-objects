@@ -9,6 +9,7 @@ const contentDir = path.join(__dirname, '..', 'vault');
 console.log(contentDir);
 
 // need to accomodate aliases here
+const aliasSplitterRegex = /\[\[(.*)\|(.*)\]\]/;
 const findBetweenDoubleBrackets = /\[\[(.*?)\]\]/g;
 var dendronlinks = [];
 var compiledBacklinks = [];
@@ -58,7 +59,16 @@ async function getContent(filePath, encoding = "utf-8") {
 
     if(forwardlinks){
       for (let l = 0; l < forwardlinks.length; l++) {
-        forwardlinks[l] = forwardlinks[l].slice(2, -2);
+        const flink = forwardlinks[l];
+        
+        // check for aliases
+        if(flink.match(aliasSplitterRegex)){
+          console.log('ALIAS FOUND', flink.match(aliasSplitterRegex)[2]);
+          forwardlinks[l] = flink.match(aliasSplitterRegex)[2]
+        } else {
+          forwardlinks[l] = flink.slice(2, -2);
+        }
+
         // this creates links to articles that haven't been made yet.
         // console.log('SOURCE', slug, 'TARGET', forwardlinks[l]);
         // graphLinks.push({source: slug, target: forwardlinks[l] });
