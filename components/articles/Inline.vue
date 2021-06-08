@@ -48,7 +48,7 @@ export default {
 <style lang="less" scoped>
 a{
   display: flex;
-  
+  .animatemedium(transform);
   img{
     height: 1.33333rem;
     width: 1.33333rem;
@@ -75,6 +75,7 @@ a{
   }
 
   &:hover{
+    // transform: translateY(-4px);
     .text{
       box-shadow: @shadow-small-hover;
       background-color: @white !important;

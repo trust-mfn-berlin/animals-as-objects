@@ -193,12 +193,16 @@ sup{
   top:-@space-xs;
   
   a.footnote-ref{
-    background-color: @white;
+    background-color: @bg;
     padding: 0.4rem 0.5rem 0.3rem;
     font-size: @fs-s;
+    border:1px solid @bg-2;
     box-shadow: @shadow-small;
 
+    .animatefast(all);
     &:hover{
+      border:1px solid @white;
+      background-color: @white;
       box-shadow: @shadow-small-hover;
     }
   }
