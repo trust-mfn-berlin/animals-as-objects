@@ -98,6 +98,10 @@ export default {
 
   hooks: {
     'content:file:beforeParse': (file) => {
+
+      const pathPartial = file.path.replace(__dirname, '').slice(0,15)
+      if (pathPartial == '/vault/netlify/'){ return }
+
       if (file.extension === '.md') {
         // Before parsing markdown, modify raw file data here:
 
