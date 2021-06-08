@@ -8,6 +8,7 @@ const createStore = () => {
   return new Vuex.Store({
     state: {
       loadedArticles: [],
+      loadedRoutes: [],
       siteLanguage: defaultLanguage,
       currentPathway: [],
       searchBarIsOpen: false,
@@ -20,6 +21,9 @@ const createStore = () => {
     mutations: {
       setLoadedArticles(state, articles) {
         state.loadedArticles = articles;
+      },
+      setLoadedRoutes(state, routes){
+        state.loadedRoutes = routes;
       },
       setSiteLanguage(state, lang) {
         // console.log('set language to: ' + lang);
@@ -50,12 +54,17 @@ const createStore = () => {
     actions: {
       async nuxtServerInit(vuexContext, context) {
         const articles = await context.app.$content().only(['slug', 'title', 'title_de', 'id', 'tao_type']).fetch();
-        vuexContext.commit('setLoadedArticles', articles)
+        vuexContext.commit('setLoadedArticles', articles);
+        const routes = await context.app.$content('/netlify/pathways').only(['slug', 'title', 'title_de', 'articles']).fetch();
+        vuexContext.commit('setLoadedRoutes', routes);
       }
     },
     getters: {
       loadedArticles(state) {
         return state.loadedArticles
+      },
+      loadedRoutes(state) {
+        return state.loadedRoutes
       },
       siteLanguage(state) {
         return state.siteLanguage

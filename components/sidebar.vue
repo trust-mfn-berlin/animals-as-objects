@@ -30,8 +30,13 @@
         </li>
       </ol>
     </section>
-    <section id="section-routes">
+    <section id="section-routes" v-if="matchedRoutes.length > 0">
       <h3 class="f-mono subheading">This page appears in these Curated Routes</h3>  
+      <ul>
+        <li v-for="route in matchedRoutes" :key="route.slug">
+          <nuxt-link :to="'/routes/' + route.slug">{{route.title}}</nuxt-link>
+        </li>
+      </ul>
     </section>
     <section id="section-footnotes" v-if="footnotesParsed">
       <h3 class="f-mono subheading ">Footnotes</h3>
@@ -55,7 +60,8 @@ export default {
   },
   data(){
     return{
-      footnotesParsed:''
+      footnotesParsed:'',
+      matchedRoutes:[]
     }
   },
   computed:{
@@ -64,6 +70,26 @@ export default {
     }
   },
   methods:{
+     matchRoutes(link){
+
+       for (let i = 0; i < this.$store.getters.loadedRoutes.length; i++) {
+         const storeRoute = this.$store.getters.loadedRoutes[i];
+         
+          for (let a = 0; a < storeRoute.articles.length; a++) {
+            const storeRouteArticle = storeRoute.articles[a].article;
+
+            const s = storeRouteArticle.toLowerCase();
+            const l = link.toLowerCase();
+            if(s === l){
+              this.matchedRoutes.push(storeRoute);
+            }
+            
+          }
+       }
+        
+
+      
+    },
     openCitationModal(){
       this.$store.commit('toggleCitationModal', {isOpen: true, article: this.article});
     }
@@ -72,6 +98,7 @@ export default {
     this.$nextTick(function(){
       this.footnotesParsed = this.footnotes.replaceAll('id="fn-', 'id="sidebar-fn-');
     })
+    this.matchRoutes(this.article.slug);
   }
 }
 </script>

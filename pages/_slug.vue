@@ -27,6 +27,9 @@ export default {
       footnotes:""
     }
   },
+  methods:{
+   
+  },
   computed:{
     isSidebarOpen(){
       return this.$store.getters.isSidebarOpen
@@ -36,19 +39,25 @@ export default {
     }
   },
   created(){
+    // make sure correct language
     this.$store.commit('setSiteLanguage', 'en')
+    // set current tao-type in store
     this.$store.commit('setArticleTaoType', this.article.tao_type);
-
   },
   mounted(){
+    // add to pathway
     this.$store.commit('addPathway', this.$route.params.slug);
 
+    // update colour scheme
     document.documentElement.style.setProperty("--current-scheme-bg", "var(--scheme-"+this.schemeNumber+"-bg)");
     document.documentElement.style.setProperty("--current-scheme-fg", "var(--scheme-"+this.schemeNumber+"-fg)");
 
+    // copy footnotes into sidebar
     if(document.getElementsByClassName('footnotes')[0]){
       this.footnotes = document.getElementsByClassName('footnotes')[0].innerHTML;
     }
+
+    // remove footnotes from dom(?) 
     // document.getElementsByClassName('footnotes')[0].remove()
   },
   async asyncData({ $content, params, error, payload }) {
