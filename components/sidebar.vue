@@ -114,6 +114,8 @@ aside{
   // padding: @space-m 0;
   z-index: @z-sidebar;
 
+  font-size: 0.83333rem;
+
   overflow:auto;
   transform: translateX(100%);
   transition: 250ms transform ease-out;
@@ -146,7 +148,8 @@ aside{
       list-style-type: decimal;
 
       li{
-        margin: 0 0 @space-s @space-s;
+        margin: 0 0 @space-s 1rem;
+        padding:0rem;
       }
     }
   }
