@@ -4,7 +4,7 @@
     <hgroup class="heading">
       <h1 :style="{boxShadow:'inset 0 -0.175em var(--background-1), inset 0 -0.2em var(--scheme-'+schemeNumber+'-bg)'}">{{article.title}}</h1>
       <h3 class="lead subheading f-mono">
-        <span class="type" :class="article.tao_type" :style="{backgroundColor:'var(--scheme-'+schemeNumber+'-bg)', color:'var(--scheme-'+schemeNumber+'-fg)'}">{{article.tao_type}}</span>
+        <span class="type" :class="article.tao_type" >{{article.tao_type}}</span>
         Lorem ipsum dolor sit amet
       </h3>
     </hgroup>
@@ -128,11 +128,12 @@ hgroup.heading{
   .lead.subheading{
   text-align: center;
   margin:2rem 0 3rem;
-
     .type{
-      background-color: @black;
-      color: @white;
+      background-color: var(--current-scheme-bg);
+      color: var(--current-scheme-fg);
       padding:@space-xs 10px;
+      // background-color: @black;
+      // color: @white;
       &.theme{
 
       }
