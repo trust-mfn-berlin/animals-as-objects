@@ -1,5 +1,5 @@
 <template>
-  <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual">
+  <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual" @mouseover.native="onMouseover" @mouseleave.native="onMouseleave">
     <img :src="'https://loremflickr.com/64/64/butterfly?random=' + article.id" alt="" />
     <span class="text" :style="{border:'1px solid var(--scheme-'+schemeNumber+'-bg)', backgroundColor:'var(--scheme-'+schemeNumber+'-bg)', color:'var(--scheme-'+schemeNumber+'-fg)'}">
       <span class="f-serif subheading" v-html="alias ? alias : titleBilingual"></span>
@@ -20,6 +20,14 @@ export default {
     alias:{
       type:String,
       required: false
+    }
+  },
+  methods:{
+    onMouseover(){
+      console.log('mouseenter')
+    },
+    onMouseleave(){
+
     }
   },
   computed:{
