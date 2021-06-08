@@ -98,6 +98,10 @@ aside{
     border-bottom: 2px solid rgba(0,0,0,0.05);
     padding: @space-m;
 
+    ul{
+      margin-bottom: @space-s;
+    }
+
     h3{
       margin-bottom: 1rem;
     }
