@@ -32,7 +32,7 @@
           :tao_type="this.$store.getters.articleTaoType"
           :aria-haspopup="isSidebarOpen"
           :useColourScheme="true"
-        />
+        >{{toggleButtonText}}</icon-button>
       </li>
     </transition>
     
@@ -55,6 +55,13 @@ export default {
         return "arrow-right"
       } else {
         return "i"
+      }
+    },
+    toggleButtonText(){
+      if(this.$store.getters.isSidebarOpen){
+        return "Hide Sidebar"
+      } else {
+        return "Open Sidebar"
       }
     },
     isSearchbarOpen(){
