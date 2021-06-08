@@ -32,6 +32,13 @@ blockquote{
       border-bottom: 1px solid transparent;
     }
   }
+  // styling for external links
+  a[href^="https://"], a[href^="http://"], a[href^="www."]{
+    // color: blue;
+    &::after{
+      content:'↗'
+    }
+  }
 }
 
 .quote{
