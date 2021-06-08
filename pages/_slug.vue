@@ -249,6 +249,26 @@ figure{
       flex-grow: 1;
       width: 0;
     }
+
+    ::v-deep span.wiki-link-component{
+      bottom:0;
+      a{
+        border-bottom: none;
+        img{
+          display: none;
+        }
+        .text{
+          box-shadow: none;
+          border-radius: 0;
+          margin: 0;
+          height: auto !important;
+          padding: 0 !important;
+          .subheading{
+            font-size:@fs-xs;
+          }
+        }
+      }
+    }
   }
 }
 
@@ -268,7 +288,6 @@ iframe{
   min-height: 20rem;
   margin: 5rem auto;
 }
-
 
 
 
