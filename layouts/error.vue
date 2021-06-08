@@ -10,3 +10,7 @@
     props: ['error'],
   }
 </script>
+
+<style lang="less" scoped>
+
+</style>
