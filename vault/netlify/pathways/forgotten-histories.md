@@ -42,6 +42,7 @@ into_text:
     clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
     amet.
 articles:
+  - article: story.industrial micropaleontology
   - article: theme.Acquisition zoo animals
   - article: material.Carl Georg Schillings
   - article: material.radiolaria
