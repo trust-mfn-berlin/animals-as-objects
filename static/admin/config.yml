@@ -43,8 +43,8 @@ collections:
         allow_multiple: false
         required: false
         fields:
-          - { label: "Image", name: "image", widget: "image"}
-          - { label: "Description", hint: "for SEO and accessibility purposes", name: "alt", widget: "string"}
+          - { label: "Image", name: "image", required: false, widget: "image"}
+          - { label: "Description", hint: "for SEO and accessibility purposes", name: "alt", required: false, widget: "string"}
       - label: "TAO Content type"
         name: "tao_type"
         widget: "select"
