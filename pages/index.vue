@@ -8,6 +8,7 @@
 
     <section>
       <routes-list :routes="routes" />
+      <text-button linkto="/routes">View more routes</text-button>
     </section>
   </div>
 </template>
