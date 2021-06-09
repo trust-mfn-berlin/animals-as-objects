@@ -170,6 +170,9 @@ aside{
       list-style-type: decimal;
 
       li{
+        .quote();
+        // .f-mono();
+
         margin: 0 0 @space-s 1rem;
         padding:0rem;
 
