@@ -2,7 +2,7 @@
 id: 19c92258-91ba-4560-81de-4d8d5ea5f98b
 title: Audio and Video
 desc: ''
-updated: 1621508007300
+updated: 1623242753891
 created: 1621507235329
 ---
 
@@ -10,12 +10,13 @@ created: 1621507235329
 
 Enter this in your markdown file.
 
-`<sound file="/audio/Sample_audio_elefant.mp3"></sound>
-_Audio caption Elephant doing it's thing 1994_`
+`<sound file="/audio/Sample_audio_elefant.mp3">_Audio caption Elephant doing it's thing 1994_</sound>`
 
 Where the the text `"/audio/Sample_audio_elefant.mp3"` will be the path to your audio file that you copied into the audio folder. Don't forget to put it in between quotes `"`
 
 This will not show in the Dendron preview unfortunately.
+
+Captions for audio should live between `<sound file="/audio/..."> Caption </sound>` tags
 
 ## How to embed video
 
