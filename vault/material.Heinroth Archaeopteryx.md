@@ -6,6 +6,9 @@ created: 1619176202508
 updated: 1621339319395
 id: 9c8c68ea-6005-4561-9132-c7bb09759e10
 author: CMW
+translators:
+  translator_de_en: Testing DE EN
+  translator_en_de: Testing EN DE
 desc: Put a description of this note here...
 desc_de: Put a DE description of this note here...
 short_desc: xx
