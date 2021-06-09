@@ -36,7 +36,7 @@ methods:{
   * this function is using the scrollToY function
   */
   scrollToTop(duration = 0) {
-    scrollToY(0, duration, document.scrollingElement);
+    this.scrollToY(0, duration, document.scrollingElement);
   },
 
   /*
@@ -46,7 +46,7 @@ methods:{
   */
   scrollToId(id, duration = 0) {
     const offset = Math.round(document.getElementById(id).getBoundingClientRect().top);
-    scrollToY(document.scrollingElement.scrollTop + offset, duration);
+    this.scrollToY(document.scrollingElement.scrollTop + offset, duration);
   },
 
   /*
@@ -54,10 +54,14 @@ methods:{
   * duration: scroll duration in milliseconds; default is 0 (no transition)
   * this function is using the scrollToY function on the main scrolling element
   */
-  scrollToElement(element, duration = 0) {
+  scrollToElement(element, duration = 0, scrollElement) {
     const offset = Math.round(element.getBoundingClientRect().top);
-    scrollToY(document.scrollingElement.scrollTop + offset, duration);
-  }
+    if(scrollElement){
+      this.scrollToY(scrollElement.scrollTop + offset, duration, scrollElement);
+    } else {
+      this.scrollToY(document.scrollingElement.scrollTop + offset, duration, scrollElement);
+    }
+  } 
 }
 })
 }

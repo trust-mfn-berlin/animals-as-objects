@@ -1,5 +1,5 @@
 <template>
-  <aside :class="{open:isSidebarOpen}" :aria-hidden="isSidebarOpen ? false : true">
+  <aside :class="{open:isSidebarOpen}" :aria-hidden="isSidebarOpen ? false : true" ref="sidebar">
     <section id="section-details">
       <h3 class="f-mono subheading">Details</h3>
       <ul>
@@ -105,7 +105,8 @@ export default {
   watch:{
     activeFootnote(activeFootnote){
       if(activeFootnote){
-        console.log(activeFootnote);
+
+        this.scrollToElement(document.getElementById(activeFootnote), 800, this.$refs.sidebar);
 
         document.getElementById(activeFootnote).classList.add('focus');
 
