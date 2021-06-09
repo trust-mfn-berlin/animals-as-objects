@@ -41,7 +41,7 @@ const createStore = () => {
         state.activeFilter = filter
       },
       toggleSidebar(state, isOpen){
-        console.log('sidebar open', isOpen)
+        // console.log('sidebar open', isOpen)
         state.sidebarIsOpen = isOpen
       },
       setArticleTaoType(state, type){

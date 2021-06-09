@@ -10,10 +10,10 @@
     </hgroup>
 
     <section>
-      <nuxt-content :document="article" :class="article.tao_type" />
+      <nuxt-content id="articlebody" :document="article" :class="article.tao_type" ref="articlebody"/>
     </section>    
   </main>
-  <sidebar :article="article" :footnotes="footnotes"/>
+  <sidebar :article="article" :footnotes="footnotes" :activeFootnote="activeFootnote"/>
   </div>
 </template>
 
@@ -24,11 +24,47 @@ export default {
   layout:'article',
   data(){
     return{
-      footnotes:""
+      footnotes:"",
+      activeFootnote:""
     }
   },
   methods:{
-   
+    addFootnoteListener(){
+      // const articlebody = this.$refs.articlebody
+      // console.log(articlebody);
+      // articlebody.addEventListener("click", this.onArticleClick)
+
+      const footnotes = document.getElementsByClassName('footnote-ref');
+      // console.log(document.getElementsByClassName('footnote-ref'))
+      const that = this;
+
+      for (let i = 0; i < footnotes.length; i++) {
+        const footnote = footnotes[i];
+
+        footnote.addEventListener("click", function(){
+          that.onFootnoteClick(footnote.hash)
+        })
+        
+      }
+
+    },
+    removeEventListeners(){
+      console.log('destroy');
+      const footnotes = document.getElementsByClassName('footnote-ref');
+      const that = this;
+      for (let i = 0; i < footnotes.length; i++) {
+        const footnote = footnotes[i];
+        footnote.removeEventListener("click", function(){
+          that.onFootnoteClick(footnote.hash)
+        })
+      }
+    },
+    onFootnoteClick(hash){
+      this.$store.commit('toggleSidebar', true)
+      this.activeFootnote = hash.replace('#','sidebar-')
+      // console.log(hash)
+    }
+
   },
   computed:{
     isSidebarOpen(){
@@ -59,6 +95,13 @@ export default {
 
     // remove footnotes from dom(?) 
     // document.getElementsByClassName('footnotes')[0].remove()
+
+    this.addFootnoteListener();
+    
+    
+  },
+  beforeDestroy(){
+    this.removeEventListeners();
   },
   async asyncData({ $content, params, error, payload }) {
     var article = {};

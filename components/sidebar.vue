@@ -56,6 +56,10 @@ export default {
     footnotes:{
       type: String,
       required: false
+    },
+    activeFootnote:{
+      type: String,
+      required: false
     }
   },
   data(){
@@ -67,7 +71,8 @@ export default {
   computed:{
     isSidebarOpen(){
       return this.$store.getters.isSidebarOpen
-    }
+    },
+
   },
   methods:{
      matchRoutes(link){
@@ -96,6 +101,21 @@ export default {
       this.footnotesParsed = this.footnotes.replaceAll('id="fn-', 'id="sidebar-fn-');
     })
     this.matchRoutes(this.article.slug);
+  },
+  watch:{
+    activeFootnote(activeFootnote){
+      if(activeFootnote){
+        console.log(activeFootnote);
+
+        document.getElementById(activeFootnote).classList.add('focus');
+
+        setTimeout(function(){ 
+          document.getElementById(activeFootnote).classList.remove('focus');
+        }, 500);
+
+
+      }
+    }
   }
 }
 </script>
@@ -151,8 +171,26 @@ aside{
       li{
         margin: 0 0 @space-s 1rem;
         padding:0rem;
+
+        &.focus{
+          animation: splash 250ms normal forwards ease-in-out;
+          // color:red;
+          // box-shadow: @shadow;
+        }
       }
     }
   }
+}
+
+@keyframes splash {
+    0% {
+      transform: scale(1, 1);
+    }
+    50% {
+      transform: scale(1.1, 1.1);
+    }
+    100% {
+      transform: scale(1, 1);
+    }
 }
 </style>
