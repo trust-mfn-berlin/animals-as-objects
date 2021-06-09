@@ -8,7 +8,7 @@
 // https://github.com/d3/d3-zoom
 
 <template>
-  <div id="d3"></div>
+  <div id="d3-backlinks"></div>
 </template>
 
 <script>
@@ -50,26 +50,31 @@ export default {
     createLinks(){
 
       this.nodes = [];
-      this.nodes = this.backlinks;
-      this.nodes.push(this.article);
+      this.nodes = this.backlinks.concat([this.article]); //not sure why but concat seems to avoid errors when clicking footnotes.
 
-      this.links = []
+      this.links = [];
 
       for (let i = 0; i < this.backlinks.length; i++) {
         const backlink = this.backlinks[i];
+
+        if(backlink.slug != this.article.slug){
 
         this.links.push({
           source:this.article.slug,
           target:backlink.slug
         })
+
+        }
         
       }
     },
     init(){
 
+      console.log('init D3');
+
       const that = this;
       const svg = d3
-        .select("#d3")
+        .select("#d3-backlinks")
         .append("svg")
         .attr("width", this.attr.width)
         .attr("height", this.attr.height);
@@ -99,11 +104,6 @@ export default {
         .data(this.nodes)
         .enter()
         .append('g')
-        .attr('transform', function (d) {
-          // let cirX = d.width * -0.5
-          // let cirY = 0
-          // return 'translate(' + -50 + ',' + -5 + ')'
-        })
         .attr('id', function(d) {
           return d.slug
         })
@@ -133,6 +133,7 @@ export default {
           .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
 
           node.on('mouseover', function(event, d) {
+            link.attr('stroke-width', '2');
             link.style('stroke', function(l) {
               if (d === l.source || d === l.target){
                 return "black";
@@ -149,6 +150,7 @@ export default {
 
           // Set the stroke width back to normal when mouse leaves the node.
           node.on('mouseout', function() {
+            link.attr('stroke-width', '1');
             link.style('stroke', "#eee");
           });
 

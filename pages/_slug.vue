@@ -60,7 +60,7 @@ export default {
       }
     },
     onFootnoteClick(hash){
-      this.$store.commit('toggleSidebar', true)
+      if(!this.$store.getters.isSidebarOpen) this.$store.commit('toggleSidebar', true)
       this.activeFootnote = hash.replace('#','sidebar-')
       // console.log(hash)
     }
