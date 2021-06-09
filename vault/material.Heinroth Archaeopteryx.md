@@ -12,6 +12,7 @@ short_desc: xx
 short_desc_de: xx
 cover_image:
   image: /images/jupiter.jpg
+  alt: Test tes Jupiter images
 tao_type: material
 date_start: ""
 date_end: ""
