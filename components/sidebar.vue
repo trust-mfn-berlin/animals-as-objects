@@ -149,7 +149,7 @@ aside{
   }
 
   section{
-    border-bottom: 2px solid rgba(0,0,0,0.05);
+    border-bottom: 2px solid @bg;
     padding: @space-m;
 
     ul{
