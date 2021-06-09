@@ -107,14 +107,17 @@ async function getContent(filePath, encoding = "utf-8") {
           // If any page matches a forward link from another page, add it as a backlink
           if(page.slug == forwardlink){
 
-            // Check if the backlink already exists (duplicated). Only add it if it doesn't already exist.            
-            if(!compiledBacklinks[u].backlinks.includes(from.slug)){
+            // Check if the backlink already exists (duplicated). Only add it if it doesn't already exist.
+            // console.log(compiledBacklinks[u].backlinks); 
+            if(!compiledBacklinks[u].backlinks.includes(from)){
               // console.log('MATCH', 'from index', x, 'to index', u);
               console.log('FROM', from.slug, '-> TO', forwardlink);
               compiledBacklinks[u].backlinks.push(from);
               
               // this only links between articles that have been made, by using backlinks instead of forward links.
               graphLinks.push({source: from.slug, target: forwardlink });
+            } else {
+              console.log('DUPE');
             }
           
           }
