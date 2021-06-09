@@ -1,6 +1,6 @@
 ---
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
-title: Exhibiting
+title: Showing Animals
 desc: Put a description of this note here...
 updated: 1621609663784
 created: 1618572893774

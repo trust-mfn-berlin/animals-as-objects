@@ -12,15 +12,11 @@ cover_image: null
 license: CC BY-SA
 published: false
 ---
-
-
 :::EN:::
-
 
 :::DE:::
 
-#Stationen eines Elefanten 
-
+\#Stationen eines Elefanten 
 
 ![Zeitungsartikel mit dem Titel Siam unter der Bandsäge, 1947](images\mv\BandsaegeQuali.jpg) 
 
@@ -36,12 +32,11 @@ Eine der Spuren führt zurück in die Sammlungen des Zoologischen Museums, das d
 
 ![Elefantenknochen in der Säugetiersammlung des MfN, 2020](images\mv\Saeugetiersammlunga.jpg)
 
-
 _Suche in der Säugetiersammlung des Museums für Naturkunde Berlin, November 2020 (Foto: Mareike Vennen)._
 
 Sind die Elefantenknochen am Ende gar nicht in die Sammlung gekommen? Oder liegt es nur daran, dass das Zoologischen Museum nicht zu jeder Zeit detailliert Buch über die eintreffenden Objekte führte und daher nicht alle historischen Elefantenknochen systematisch in den Eingangskatalogen verzeichnet und wieder auffindbar sind? (siehe dazu auch [[story.record keeping]]). Manche Objektgeschichten scheinen nur (noch) als Papierspuren zu existieren, die die Tiere in Archiven, Korrespondenzen oder Zeitungsberichten hinterlassen. 
 
-In "Siams" Fall führen diese tief in die europäische Kolonialgeschichte. Die Stationen seines Lebens lenken den Blick auf die lange und problematische Geschichte sogenannter "exotischer" Zoo- und Zirkustiere aus kolonialen Kontexten – Tiere, die aus den Kolonien als Handels- und Tauschobjekte oder als Geschenke nach Europa gebracht wurden (**Verweis Marianna**) – wie hier aus der britischen Kolonie Ceylon, wohin Tierhändler wie John Hagenbeck regelmäßig reisten, um Tiere für Zoologische Gärten und Zirkusse zu fangen und  Menschen für Völkerschauen zu rekrutieren.[^siam4] [[Völkerschauen]] [[story.Catching Animals]] [[story.Gifting Objects]] [[theme.Acquisition zoo animals]] Elefantenfüße als Papierkörbe gehören dabei zweifellos zu den ikonischen Trophäen, in denen sich stereotypisierte koloniale Natur-Bilder um Aneignung und Beherrschung materialisieren. Auch wenn wir über den tatsächlich Verbleib von "Siams" Füßen nichts wissen, verweist die Präparation von Elefantenfüßen zum Papierkorb darauf, dass die materielle Kultur des Kolonialismus in Sammlungen ebenso wie in Wohnzimmern zu suchen und sowohl Teil der Berliner Museums- wie auch Alltagsgeschichte ist. 
+In "Siams" Fall führen diese tief in die europäische Kolonialgeschichte. Die Stationen seines Lebens lenken den Blick auf die lange und problematische Geschichte sogenannter "exotischer" Zoo- und Zirkustiere aus kolonialen Kontexten – Tiere, die aus den Kolonien als Handels- und Tauschobjekte oder als Geschenke nach Europa gebracht wurden (**Verweis Marianna**) – wie hier aus der britischen Kolonie Ceylon, wohin Tierhändler wie John Hagenbeck regelmäßig reisten, um Tiere für Zoologische Gärten und Zirkusse zu fangen und  Menschen für Völkerschauen zu rekrutieren.[^siam4] [[Völkerschauen]] [[story.Catching Animals]] [[story.Gifting Objects]] [[theme.Getting Zoo Animals]] Elefantenfüße als Papierkörbe gehören dabei zweifellos zu den ikonischen Trophäen, in denen sich stereotypisierte koloniale Natur-Bilder um Aneignung und Beherrschung materialisieren. Auch wenn wir über den tatsächlich Verbleib von "Siams" Füßen nichts wissen, verweist die Präparation von Elefantenfüßen zum Papierkorb darauf, dass die materielle Kultur des Kolonialismus in Sammlungen ebenso wie in Wohnzimmern zu suchen und sowohl Teil der Berliner Museums- wie auch Alltagsgeschichte ist. 
 
 Eine weitere Spur führt mich unterdessen ins Berlin der Nachkriegszeit. "Siams" Tod 1947 machte damals Schlagzeilen in der Berliner Presse. Als aber die frisch gegründete Berliner Tageszeitung _Telegraf_ titelte: "Unser Zoo-Dickhäuter auch verhungert – ohne Fett und ohne Mark", setzte sie mit dieser Meldung ihre Leser\*innen auf eine falsche Fährte. Denn "Siam" war gar nicht verhungert, sondern an den Folgen einer Darmentzündung gestorben [[feeding]]. Falsch informiert oder bewusste Finte? Auch hierüber kann nur spekuliert werden; auf jeden Fall war im _Telegraf_ die schwierige Versorgungslage in Berlin immer wieder Thema.[^siam5]
 
@@ -51,12 +46,7 @@ Der Elefant war damit vom Wildtier zu "Siam" der Zirkus- und Zooattraktion gewor
 
 Das Leben und Nachleben von "Siam" ist aber auch ein loses Ende, das die Lücken in der Überlieferung sichtbar macht, die buchstäblichen Leer-Stellen der materiellen Sammlungskultur. Gerade sie stoßen viele Fragen an – über die materiellen und medialen Spuren, die ein Tier hinterlässt und über meine eigene Forschung, ihre Quellen und die Grenzen historischer Rekonstruktion. 
 
-
-
-
-
-
-##Fußnoten
+\##Fußnoten
 
 [^siam1]: "'Siam'unter der Bandsäge", _Telegraf_, 21.03.1947.
 
@@ -71,3 +61,4 @@ Das Leben und Nachleben von "Siam" ist aber auch ein loses Ende, das die Lücken
 [^siam6]: "Siam auf der Speisekarte. Zoo-Tiere mit Sonderzulage.", _Der Morgen_, 20.03.1947.
 
 [^siam7]: Das Presseecho war groß, vgl. u.a. "Elefant à la carte." _Die Tagespost_ [Potsdam], 10.2.1948; "Auf den Spuren des Elefanten." _Der Kurier_ [Berlin], 07.02.1948; "Nachlaß: 70 Zentner." _Die Welt_ [Hamburg], 07.02.1948; "Was es in Deutschland gibt: Elefantenfleisch." _Aachener Volks-Zeitung_, 18.02.1948 "Stoppreis für Elefantenfleisch." _Wirtschaftszeitung_ [Stuttgart], 05.03.1948. Zu den Polizeiermittlungen vgl. AZGB O 0/1/143; AZGB O 0/1/44.
+

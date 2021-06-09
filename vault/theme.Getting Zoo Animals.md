@@ -1,18 +1,21 @@
 ---
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: How do animals get into the zoo?
-desc: 
+desc: null
 updated: 1622557411279
 created: 1618498026144
 title_de: Wie kommen Tiere in den Zoo?
-desc_de: Lebende Tiere für die Sammlungen des Zoologischen Gartens, Aquariums und Tierparks Berlin kamen und kommen aus unterschiedlichen Quellen. Diese haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen für diese Einrichtungen - politische, logistische und moralische.
+desc_de: >-
+  Lebende Tiere für die Sammlungen des Zoologischen Gartens, Aquariums und
+  Tierparks Berlin kamen und kommen aus unterschiedlichen Quellen. Diese haben
+  ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen für
+  diese Einrichtungen - politische, logistische und moralische.
 author: CMW
 tao_type: theme
 cover_image: null
 license: CC BY-SA
 published: false
 ---
-
 :::EN:::
 
 English content goes here.
@@ -48,7 +51,7 @@ _Ankunft von neuen Tieren für das Aquarium Berlin, um 1920. (AZGB)_
 Manchmal organisierten oder finanzierten Zoos sogar eigene Expeditionen zur Beschaffung von Tieren. Zunächst im Zoo von London und besonders in amerikanischen Zoos waren diese Expeditionen nicht nur eine Bezugsquelle neuer Tiere, sie boten vor allem eine 'Begleitmusik' aus Veröffentlichungen und Zeitungsberichten, die sich zur Werbung eigneten. Im Berliner Zoo wurden eigene Fangexpeditionen nur in einem sehr begrenzten Maß durchgeführt. Der spätere Zoodirektor [[material.Lutz Heck]] organisierte in den 1920er und 1930er Jahren drei [[Tierfangexpeditionen|story.Heck Expeditions]], die neben dem Tiernachschub vor allem der eigenen Werbung dienten.
 
 ![Schwarz-weiß Foto von fünf Giraffen, die aus ihren aneinandergereihten Transportkisten herausgucken. Eine Person mit Tropenhelm und hohen Stiefeln steht auf einer an der rechten Transportkisten angebrachten Stufe und guckt oben hinein.](images/cmw/Giraffentransport_1928_S_3_58_Wolter.jpg)
-*Giraffentransport für den Zoo, 1928. (AZGB, Foto Wolter)*
+_Giraffentransport für den Zoo, 1928. (AZGB, Foto Wolter)_
 
 Die begleitenden Veröffentlichungen in Zeitungen, Büchern und als abendfüllende Kinofilme bedienten dabei die vorherrschenden Stereotypen über die Menschen in den Erdregionen, in denen die Tiere gefangen wurden.
 
@@ -76,22 +79,22 @@ Mit den unterschiedlichen Bezugsquellen von Tieren hingen und hängen jeweils un
 Wurden lebende Tiere von Zoos gekauft, mussten die Geldmittel zur Verfügung stehen. Die gehaltenen Tierarten aber auch individuelle Gruppen einer Art sollten in die eigene Haltungs-, Bildungs-, Ausstellungs- oder Forschungsstrategie passen.
 
 Ein Blick auf die Geschichte nicht nur der Berliner Tiergärten zeigt, dass diese Strategien zwar vorhanden sind, ein wesentlicher Anteil der Bemühungen um Tiere aber damit zusammenhing, dass diese einzigartig und neu waren oder aber großes Interesse seitens der Besucher\*innen erwarten ließen. Klassische Beispiele für letzteres sind **Pandas** oder die **'Big Five'** in Zoos:
+
 - Menschenaffen
 - Elefanten
 - Raubtiere, insbesondere Raubkatzen
 - 'niedliche Tiere' wie Pinguine oder Erdmännchen
 - 'außergewöhnliche Tiere' wie Giraffen oder Tapire.
 
-Ihre Anziehungskraft beruht darauf, dass sie uns ähnlich, riesig, gefährlich, 'süß' und aufrecht stehend sind oder besondere Merkmale aufweisen.[^bigDE1] Mehr zu diesen 'Schauwerttieren' auch in [[einheimische und 'exotische' Tiere|story.native and exotic]] und bei [[Tiere ausstellen|theme.Exhibiting]].
+Ihre Anziehungskraft beruht darauf, dass sie uns ähnlich, riesig, gefährlich, 'süß' und aufrecht stehend sind oder besondere Merkmale aufweisen.[^bigDE1] Mehr zu diesen 'Schauwerttieren' auch in [[einheimische und 'exotische' Tiere|story.native and exotic]] und bei [[Tiere ausstellen|theme.Showing Animals]].
 
 Letztlich scheint es, als seien Zoos – darunter auch der Berliner Zoo, sein Aquarium und der Tierpark – was die Bezugsquellen ihrer gehaltenen Tierarten aber auch einzelner Tiere angeht lange Zeit ihres Bestehens vor allem Pragmatiker gewesen. Viele Tiere zu 'haben' und diese den Besucher\*innen zugänglich zu machen war ein wesentliches Ziel. Im Ost-Berliner Tierpark stand eine riesigen Fläche von mehr als 100 Hektar zur Verfügung, die mit Tiergehegen oder größeren Herden gefüllt werden sollte während sich der West-Berliner Zoo bemühte, seinen Ruf als artenreichster Zoo der Welt zu behaupten. Letzteres hing in der von Subventionen aus der Bundesrepublik abhängigen Stadt auch damit zusammen, dass alles in West-Berlin letztlich einem Legitimationszwang unterlag. Der Zoo der Welt war ein Tourismusmagnet in der 'Frontstadt' des Kalten Kriegs.
 
 Seit einigen Jahren lassen sich neue Tendenzen wahrnehmen, die international, in der Bundesrepublik und in Berlin Tiergärten verändern. Stärker als bislang treten strategische Überlegungen an die Stelle des Pragmatismus. Wachsende Kritik der Haltungsbedingungen in Zoos und Fragen nach ihrer zukünftigen Rolle in naturkundlicher Bildung und Artenschutz ex situ (also in den Zoos durch Zucht) und in situ (in den ursprünglichen Lebensräumen der Tiere) haben zu einer Umkehr von der 'pragmatischen Sammelleidenschaft' früherer Zoodirektoren geführt. Allenthalben sehen Beobachter\*innen nun eine zahlenmäßige Verkleinerung der gehaltenen Tierarten zugunsten größerer Gehege und die Konzentration auf sogenannte Flaggschiff-Arten – also "gefährdete Tierarten mit einem hohen Schauwert, über deren Schutz man gleichzeitig den Schutz vieler anderer Tierarten erreicht, die den Lebensraum mit ihnen teilen."[^flagshipDE1] Solch eine Strategie entspricht der 2015 vom Weltverband der Zoos und Aquarien verabschiedeten "Conservation Strategy".[^wazaDE1] Ob das eine wirksame Neuausrichtung der Zoos bedingen kann, ist umstritten.[^apuzDE1] Denn ganz hat der Pragmatismus noch keinen Zoo verlassen: Zuchtprogramme bleiben weiterhin wichtig, um die 'Lieblinge' der nach wie vor zahlreichen Besucher\*innen in den Zoos zu erhalten. Vielleicht erwirtschaften diese ja die Einnahmen zur Erzielung der neuen strategischen Ziele?
 
-
 ## Footnotes
 
-[^giftsDE1]: Vgl. Giere, Peter, Peter Bartsch, und Christiane Quaisser. „Berlin: From Humboldt to HVac - The Zoological Collections of the Museum für Naturkunde Leibniz Institute for Evolution and Biodiversity Science in Berlin“. In _Zoological Collections of Germany_, herausgegeben von Lothar A. Beck, 89–122. Cham: Springer International Publishing, 2018. https://doi.org/10.1007/978-3-319-44321-8_11 und Damaschun, Ferdinand, und Hannelore Landsberg. „‚...so bleiben dem materiell Gesammelten und geographisch Geordnetem fast allein ein langdauernder Werth‘ - 200 Jahre Museum für Naturkunde“. In _Klasse, Ordnung, Art: 200 Jahre Museum für Naturkunde_, herausgegeben von Ferdinand Damaschun, Sabine Hackethal, Hannelore Landsberg, und Reinhold Leinfelder, 13–23. Rangsdorf: Basilisken-Presse, 2010.
+[^giftsDE1]: Vgl. Giere, Peter, Peter Bartsch, und Christiane Quaisser. „Berlin: From Humboldt to HVac - The Zoological Collections of the Museum für Naturkunde Leibniz Institute for Evolution and Biodiversity Science in Berlin“. In _Zoological Collections of Germany_, herausgegeben von Lothar A. Beck, 89–122. Cham: Springer International Publishing, 2018. <https://doi.org/10.1007/978-3-319-44321-8_11> und Damaschun, Ferdinand, und Hannelore Landsberg. „‚...so bleiben dem materiell Gesammelten und geographisch Geordnetem fast allein ein langdauernder Werth‘ - 200 Jahre Museum für Naturkunde“. In _Klasse, Ordnung, Art: 200 Jahre Museum für Naturkunde_, herausgegeben von Ferdinand Damaschun, Sabine Hackethal, Hannelore Landsberg, und Reinhold Leinfelder, 13–23. Rangsdorf: Basilisken-Presse, 2010.
 
 [^giftsDE2]: Zur Gründungsgeschichte des Berliner Zoos vgl. Maier-Wolthausen, Clemens. _Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos_. Herausgegeben von Andreas Knieriem. Berlin: Ch. Links Verlag, 2019.
 
@@ -101,7 +104,7 @@ Seit einigen Jahren lassen sich neue Tendenzen wahrnehmen, die international, in
 
 [^colonialDE1]: Geschäftsberichte über die Jahre 1891-1914, hier insb. Geschäftsbericht über das Jahr 1907.
 
-[^donationsDE1]: Zoologische Gärten Berlin: Geschäftsbericht 2019 (https://www.zoo-berlin.de/fileadmin/zoo-berlin/downloads/Investor_Relations/Geschaeftsberichte/Geschaeftsbericht_AG_2019.pdf)
+[^donationsDE1]: Zoologische Gärten Berlin: Geschäftsbericht 2019 (<https://www.zoo-berlin.de/fileadmin/zoo-berlin/downloads/Investor_Relations/Geschaeftsberichte/Geschaeftsbericht_AG_2019.pdf>)
 
 [^entnahmeDE1]: Vgl. für eine Übersicht der Einfuhren nicht-heimischer Tierarten: Dittrich, Lothar. „Der Import von Wildtieren nach Europa - Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts“. In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, herausgegeben von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl, 3:1–64. Tiergarten Schönbrunn - Geschichte. Wien: Braumüller, 2007.
 
@@ -112,3 +115,4 @@ Seit einigen Jahren lassen sich neue Tendenzen wahrnehmen, die international, in
 [^wazaDE1]: Grajal, Alejandro, Jerry F. Luebke, und Lisa-Anne DeGregoria Kelly. „Why Zoos Have Animals: Exploring the Complex Pathway from Experiencing Animals to Pro-environmental Behaviors“. In _The ark and beyond: the evolution of zoo and aquarium conservation_, herausgegeben von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb, 192–203. Convening science: discovery at the marine biological laboratory. Chicago: The University of Chicago Press, 2018.
 
 [^apuzDE1]: Vgl. Niekisch, Manfred, und Volker Sommer. „Artenschutz durch Zoos. Zwei Perspektiven“. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 31–38.
+

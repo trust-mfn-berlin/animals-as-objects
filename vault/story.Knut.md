@@ -2,7 +2,7 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1622720813367
+updated: 1622728802538
 created: 1618576718116
 title_de: Knut
 desc_de: Der 2006 geborene Eisbär "Knut" entwickelte eine bis dahin für ein einzelnes Zootier ungekannte Popularität. Medien und Zooleitung machten ihn zu einem 'Botschafter' der Klimakrise, die das Habitat der Eisbären bedrohte. Die starke Übertragung von Emotionen von Besucher\*innen und Fans in aller Welt auf das Tier wirkte über seinen Tod hinaus.
@@ -21,17 +21,22 @@ English content goes here.
 
 **Clemens Maier-Wolthausen**
 
-Am **5. Dezember 2006** gegen 15.00 Uhr brachte die Eisbärin "Tosca" zwei Jungtiere zur Welt. Nach kurzer Zeit stellte sich heraus, dass das Muttertier keine Anzeichen einer pflegenden Fürsorge zeigte. **Eines der Jungtiere starb.** Das andere aber wurde aus dem Gehege entfernt und wurde **erfolgreich mit der Flasche** versorgt.[^birth1] Die Pfleger und Kuratoren gaben ihm den Namen "Knut". 
-Damals war so eine Geschichte einer Tiergeburt und die Versorgung mit der Flasche kein ungewöhnlicher Vorgang in Zoos. Aber aus verschiedenen Gründen wurde das Eisbärenjunge bald sehr bekannt. An "Knut" lassen sich verschieden mit Zoos verbundene Phänomene beschreiben.
 
-![desc](images/cmw/Knut_March07_Griesbach.jpg)
-*Der junge "Knut" bei ersten Erkundungen eines Außengeheges, 2007. (AZGB, Foto Griesbach)*
+Zoos und Zootiere haben es seit ihrer Gründung verstanden, bei den Besuchern starke positive Emotionen hervorzurufen. Das war in Berlin wie auch andernorts allerdings gar nicht das ursprüngliche Ziel; der Gründungsdirektor hatte sich ganz bildungsbürgerlichen Idealen verschrieben. Freude am Zoobesuch sollte aus der Freude an der naturkundlichen Erkenntnis kommen und eine 'Freundschaft' mit den Zootieren war nicht vorgesehen. Aber schon bald wurde Martin Hinrich Lichtenstein und anderen Zooleitern klar, dass die Besucher\*innen immer auch einen Unterhaltungsaspekt einforderten.[^wessely] Zoos lernten, dass wiederholte Zoobesuche und die Darstellung von Jungtieren durchaus Bindungen von Besucher\*innen zu einzelnen Zootieren festigten, die erstere als Freundschaften interpretierten. Sie suchten schließlich gezielt, diese für die eigene Attraktivität oder die Vermittlungsarbeit zu nutzen.[^emotion] Im Berliner Zoo gibt es Patenschaften von Besucherin\*innen für einzelne Tiere. Die Spender\*innen bekommen oftmals als Dankeschön für ihr finazielles Engagement die Chance, 'ihr' Tier auch zu besuchen.
+
+All dieses verblasst aber gegenüber der Popularität die 2007 ein Eisbärenjunges namens "Knut" erreichte. An "Knuts" Geschichte lassen sich verschieden mit mit der Ausstellung von Tieren verbundene Phänomene beschreiben.
 
 ## A star is born!
 
-Einen großen Anteil an der sich entwickelnden Popularität des Tieres hatten die Medien, insbesondere die lokale ARD-Anstalt **Rundfunk Berlin-Brandenburg** (RBB). Schon als das Tier noch gar nicht offiziell vorgestellt worden war und noch hinter den Kulissen versorgt wurde informierte der RBB seine Hörer\*innen **täglich mit Nachrichten aus dem Zoo über den Zustand des kleinen Bären und die Beziehung zu dessen Pfleger Thomas Dörflein.** Dazu nutzte der RBB unter 'www.rbb-online.de/knut' das damals noch relativ neue Medium eines weblog/blog, um die Berliner\*innen über die Entwicklung des Eisbärenjungen zu informieren. Diese täglichen updates auf einer 'eigenen Website' hatten maßgeblichen Anteil an "Knuts" wachsender Berühmtheit.[^star1]
+Am **5. Dezember 2006** gegen 15.00 Uhr brachte die Eisbärin "Tosca" zwei Jungtiere zur Welt. Nach kurzer Zeit stellte sich heraus, dass das Muttertier keine Anzeichen einer pflegenden Fürsorge zeigte. **Eines der Jungtiere starb.** Das andere aber wurde aus dem Gehege entfernt und wurde **erfolgreich mit der Flasche** versorgt.[^birth1] Die Pfleger und Kuratoren gaben ihm den Namen "Knut". 
+Damals war so eine Geschichte einer Tiergeburt und die Versorgung mit der Flasche kein ungewöhnlicher Vorgang in Zoos. Aber aus verschiedenen Gründen wurde das Eisbärenjunge bald sehr bekannt. 
 
-Das Tier "Knut" und sein Pfleger Thomas Dörflein waren ein Team wie für die Medien gemacht. Hier die tapsige weiße Fellkugel, dort der kernige, bärtige und stille Pfleger, der bei seinem Pflegling einzog und ihm angeblich auf der Gitarre Lieder von Elvis Presley vorspielte.
+![desc](images\cmw\Knut_March07_Griesbach.jpg)
+*Der junge "Knut" bei ersten Erkundungen eines Außengeheges, 2007. (AZGB, Foto Griesbach)*
+
+Einen großen Anteil an der sich entwickelnden Popularität des Tieres hatten die Medien, insbesondere die lokale ARD-Anstalt **Rundfunk Berlin-Brandenburg** (RBB). Schon als das Tier noch gar nicht offiziell vorgestellt worden war und noch hinter den Kulissen versorgt wurde informierte der RBB seine Hörer\*innen **täglich mit Nachrichten aus dem Zoo über den Zustand des kleinen Bären und die Beziehung zu dessen Pfleger Thomas Dörflein.** Dazu nutzte der RBB unter 'www.rbb-online.de/knut' das damals noch relativ neue Medium eines weblog/blog, um die Berliner\*innen über die Entwicklung des Eisbärenjungen zu informieren. Diese täglichen Updates auf einer 'eigenen Website' hatten maßgeblichen Anteil an "Knuts" wachsender Berühmtheit.[^star1]
+
+Das Tier "Knut" und sein Pfleger Thomas Dörflein waren ein Team wie für die Medien gemacht. Hier die tapsige weiße 'Fellkugel', dort der bärtige und stille Pfleger, der bei seinem Pflegling einzog und ihm angeblich auf der Gitarre Lieder von Elvis Presley vorspielte.
 
 ![desc](images/cmw/Knut_Dorflein_March07_Broseke.jpg)
 *Pfleger Thomas Dörflein und der nur wenige Monate alte "Knut", 2007. (AZGB, Foto Bröseke)*
@@ -40,11 +45,12 @@ Aber weder dieses 'Traumpaar' aus medialer Sicht, noch die Geschichte der Geburt
 
 ## Diskussionen um die Handaufzucht
 
-Eine weitere Komponente für den 'Hype' um Knut war die durch eine Tötung eines Lippenbärenjungen im Leipziger Zoo ausgelöste **Diskussion um Haltungspraktiken in Zoos und die Tötung von Jungtieren**. In Leipzig gebar eine Lippenbärin nur wenige Wochen nach "Knuts" Geburt ein Jungtier, welches sie nicht annahm. Der Zoodirektor und sein Team entschlossen sich für die Tötung des Jungtiers, nachdem einige Versuche, die Mutter zur Pflege zu motivieren und mittels Muttermilch einer Hündin das Jungtier zu ernähren fehlschlugen. Nach Ansicht der Zooleitung in Leipzig wäre das Jungtier in wenigen Stunden unter Qualen gestorben und sie entschloss sich zur Tötung des Tieres mittels 'Einschläferung'.[^leipzig1] Daraufhin drohte ein Tierschützer öffentlich mit einer Strafanzeige gegen den Zoo Leipzig und der Deutsche Tierschutzbund verurteilte die Tötung - auch mit Verweis auf den Berliner Fall.
+Eine weitere Komponente für den 'Hype' um Knut war die durch eine Tötung eines Lippenbärenjungen im Leipziger Zoo ausgelöste **Diskussion um Haltungspraktiken in Zoos und die Tötung von Jungtieren**. In Leipzig gebar eine Lippenbärin nur wenige Wochen nach "Knuts" Geburt ein Jungtier, welches sie nicht annahm. Der Zoodirektor und sein Team entschlossen sich für die Tötung des Jungtiers, nachdem einige Versuche, die Mutter zur Pflege zu motivieren und mittels Muttermilch einer Hündin das Jungtier zu ernähren fehlschlugen. Nach Ansicht der Zooleitung in Leipzig wäre das Jungtier in wenigen Stunden unter Qualen gestorben und sie entschloss sich zur Tötung des Tieres mittels 'Einschläferung'. Daraufhin drohte ein Tierschützer öffentlich mit einer Strafanzeige gegen den Zoo Leipzig und der Deutsche Tierschutzbund verurteilte die Tötung - auch mit Verweis auf den Berliner Fall.[^leipzig1]
 
-Ein Vorwurf des anzeigenden Tierschutzaktivisten: "Die Handaufzucht ist nicht artgerecht, sondern ein grober Verstoß gegen das Tierschutzgesetz." da man in Leipzig argumentiert hatte, dass das Lippenbärenjunge weder gesund noch psychisch gesund aufwachsen könne, lasse es nun der Berliner Zoo zu, dass der Eisbär für den Rest seines Lebens verhaltensgestört sein werde. Bereits in der Überschrift eines Zeitungsartikels wurden die skandalisierende und die vermenschlichende Tendenz deutlich. Dieser lautete: "Tierschützer: Knuddel-Knut hätte sterben müssen!"[^leipzig3] Das in menschlicher Obhut geborene Raubtier wurde zu einem 'Kuscheltier'.
+Umgekehrt argumentierte nun der Tierschutzaktivist unter Verweis auf die Leipziger Entscheidung: "Die Handaufzucht ist nicht artgerecht, sondern ein grober Verstoß gegen das Tierschutzgesetz." Denn in Leipzig hatte die Zooleitung ja eben argumentiert, dass das Lippenbärenjunge weder gesund noch psychisch gesund aufwachsen könne. Der Berliner Zoo lasse also zu, dass der Eisbär für den Rest seines Lebens verhaltensgestört sein werde. Bereits in der Überschrift eines Zeitungsartikels wurden die skandalisierende und die vermenschlichende Tendenz deutlich. Dieser lautete: "Tierschützer: Knuddel-Knut hätte sterben müssen!"[^leipzig3] Das in menschlicher Obhut geborene Raubtier wurde zu einem 'Kuscheltier'.
 
-Zwar verwiesen die Zoos in Leipzig und Berlin auf die unterschiedlichen Aspekte der Fälle, in der Presse aber und in den Augen vieler Beobachter\*innen wurden die beiden Ereignisse in einen ethischen und juristischen Zusammenhang gestellt. "Wird Knut ein Problembär?" fragte der Berliner Tagesspiegel.[^leipzig4] Das bezog sich auf die Frage, ob die irgendwann unweigerlich notwendige Trennung von dem menschlichen Pfleger für ein Tier, welches in der Wildbahn lange Jahre intensiv vom Muttertier begleitet würden traumatisch sein würde. Das nun sich gut entwickelnde Jungtier wurde nicht getötet und die Presse konnte titeln: "Eisbärbaby Knut entkommt der Todesspritze"[^leipzig5] oder "Eisbär Knut darf leben!"[^leipzig2]
+Zwar verwiesen die Zoos in Leipzig und Berlin auf die unterschiedlichen Aspekte der Fälle, in der Presse aber und in den Augen vieler Beobachter\*innen wurden die beiden Ereignisse in einen ethischen und juristischen Zusammenhang gestellt. "Wird Knut ein Problembär?" fragte der Berliner 'Tagesspiegel'.[^leipzig4] Das bezog sich auf die Frage, ob die irgendwann unweigerlich notwendige Trennung von dem menschlichen Pfleger für ein Tier, welches in der Wildbahn lange Jahre intensiv vom Muttertier begleitet würden traumatisch sein würde.
+Das nun sich gut entwickelnde Jungtier wurde nicht getötet und die Presse konnte dann titeln: "Eisbärbaby Knut entkommt der Todesspritze"[^leipzig5] oder "Eisbär Knut darf leben!"[^leipzig2]
 Zwar sah man im Berliner Zoo solche Diskussionen mit Skepsis, dem Bekanntheitsgrad des Tieres aber nützten sie - möglicherweise addierten sie gar einen besonderen Mitleidsfaktor für das nun scheinbar zweimal 'dem Tod entronnene' Eisbärenjunge.
 
 ## Botschafter des Klimaschutzes
@@ -52,7 +58,7 @@ Zwar sah man im Berliner Zoo solche Diskussionen mit Skepsis, dem Bekanntheitsgr
 ![desc](images\cmw\Dorflein_Gabriel_Blaszkiewitz_230307_Broseke.jpg)
 *Bundesumweltminister Sigmar Gabriel umrahmt von Thomas Dörflein, "Knut" und Direktor Bernhard Blaszkiewitz, 2007. (AZGB, Foto Bröseke)*
 
-Hinzu kam nun aber auch ein besonderes Timing. "Knuts" Geburt geschah zu einem Zeitpunkt, an dem zum ersten Mal eine intensive Diskussion um die Klimakrise und die Bedrohung des natürlichen Lebensraums der Eisbären geführt wurde. **Das Tier eignete sich als Botschafter in der Klimadebatte.** Auch deshalb, weil angesichts wissenschaftlicher Prognosen zum Rückgang des arktischen Eises die Tierart just im Geburtsjahr "Knuts" auf die Liste gefährdeter Arten der Weltnaturschutzunion (International Union for Conservation of Nature; offiziell International Union for Conservation of Nature and Natural Resources, IUCN) gesetzt wurde.
+Zur Popularität "Knuts" trug aber wohl auch ein besonderes Timing bei. "Knuts" Geburt geschah zu einem Zeitpunkt, an dem zum ersten Mal eine intensive Diskussion um die Klimakrise und die Bedrohung des natürlichen Lebensraums der Eisbären geführt wurde. **Das Tier eignete sich als Botschafter in der Klimadebatte.** Auch deshalb, weil angesichts wissenschaftlicher Prognosen zum Rückgang des arktischen Meereises die Tierart just im Geburtsjahr "Knuts" auf die Liste gefährdeter Arten der Weltnaturschutzunion (International Union for Conservation of Nature and Natural Resources, IUCN) gesetzt wurde.[^iucn]
 Weltweite Bedeutung konnte der Berliner Eisbär aber gewinnen, weil zudem noch ein Zufall half. Kurz nach der ersten öffentlichen Vorstellung des Tieres Ende März 2007 versammelten sich die Staats- und Regierungschef\*innen der Europäischen Union zum 50. Jahrestag der Unterzeichnung der Römischen Verträge in Berlin. Mit ihnen waren Vertreter der nationalen und internationalen Presse in die Stadt gekommen. Die waren ebenso begeistert von dem Jungtier wie die lokale Presse schon seit Monaten. **"Knut" machte "Headlines" in aller Welt.** Die überraschten Kuratoren und die Zooleitung gaben an dem Wochenende Hunderte Interviews.[^ambassador1] Zusätzlich sorgten Zehntausende zusätzliche Besucher\*innen für eine eindrucksvolle Kulisse. Sicherheitsleute mussten den Andrang vor der Freianlage kontrollieren. Bald war die Marke von einer Million Gäste erreicht.[^ambassador2] 
 
 ![Kinderbild eines Eisbären](images\cmw\Knut_Agatha_CooperStationNY.jpg)
@@ -67,9 +73,9 @@ Der Zoo wollte das rege Interesse an dem Bären nutzen, finanziell und für den 
 ![Titelseite einer Zeitschrift](images\cmw\Knut.JPG)
 *Titelseite der deutschen Ausgabe der Zeitschrift Vanity Fair, Nr 14 von 2007*
 
-"Knut" zog, als er nach einigen Monaten schon ein Eisbär-"Teenager" wurde, viele Schaulistige an. Als Zoodirektor Bernhard Blaszkiewitz die Entscheidung traf, Pfleger Thomas Dörflein aus Sicherheitsgründen den Nahkontakt mit dem nun bereits gefährlichen Bären zu untersagen, wurde dieser Entschluss von den "Knutfans" und Dörflein kritisiert.
+Im März 2007 schätzte ein Experte den **Wert der Marke auf sieben bis 13 Millionen Euro**.[^trademark4] Das landesweite Medienecho und die hohen Besucherzahlen **verdoppelten den Kaufpreis der in jener Zeit gehandelten Zoo-Aktien**.[^trademark5]
 
-Dem Wert der 'Marke Knut' tat das keinen Abbruch. Im März 2007 schätzte ein Experte den **Wert der Marke auf sieben bis 13 Millionen Euro**.[^trademark4] Das landesweite Medienecho und die hohen Besucherzahlen **verdoppelten den Kaufpreis der in jener Zeit gehandelten Zoo-Aktien**.[^trademark5]
+"Knut" zog, als er nach einigen Monaten schon ein Eisbär-"Teenager" wurde, viele Schaulistige an. Als Zoodirektor Bernhard Blaszkiewitz die Entscheidung traf, Pfleger Thomas Dörflein aus Sicherheitsgründen den Nahkontakt mit dem nun bereits gefährlichen Bären zu untersagen, wurde dieser Entschluss von den "Knutfans" und Dörflein kritisiert. Dem Wert der 'Marke Knut' tat das keinen Abbruch.
 
 ## "Knut" stirbt
 
@@ -96,14 +102,15 @@ Manche Autor\*innen nahmen in ihren Schreiben die Position des toten Tieres ein,
 ![desc](images/cmw/Brief_Knut_S_19_4.jpg)
 *Bildunterschrift noch formulieren*
 
-Im Zoo wird 2012 die Skulptur "Knut der Träumer" nach einem Entwurf des Künstlers Josef Tabachnyk errichtet. Die etwa 1,5 m lange und etwas über einen Meter breite Figur am Eisbärengehege besteht aus einem in Bronze gegossenen Eisbären, der auf zwei aus weißem Granit geformten Eisschollen liegt.[^tod1]
+Im Zoo wurde 2012 die Skulptur "Knut der Träumer" nach einem Entwurf des Künstlers Josef Tabachnyk errichtet. Die etwa 1,5 m lange und etwas über einen Meter breite Figur am Eisbärengehege besteht aus einem in Bronze gegossenen Eisbären, der auf zwei aus weißem Granit geformten Eisschollen liegt.[^tod1]
 
 ![Skulptur eines liegenden Eisbärenjungen](images\cmw\Knut_der_Traeumer.jpg)
-*Skulptur 'Knut der Träumer', 2021. (Clemens Maier-Wolthausen)*
+*Skulptur 'Knut der Träumer', 2021.*
 
-Die benötigten Spenden wurden vom Förderverein 'Stiftung Hauptstadtzoos' gesammelt. Zudem werden 2012  Repliken des Denkmals als Souvenir verkauft. Die als 'denkmal' bezeichnete Skulptur ist 2012 auch das Motiv einer **Gedenkmünze aus versilberter Bronze der Staatlichen Münze Berlin**.[^tod2]
+Die benötigten Spenden wurden vom Förderverein 'Stiftung Hauptstadtzoos' gesammelt. Zudem wurden 2012  Repliken des Denkmals als Souvenir verkauft. Die als 'Denkmal' bezeichnete Skulptur war 2012 auch das Motiv einer **Gedenkmünze aus versilberter Bronze der Staatlichen Münze Berlin**.[^tod2]
 
 - [ ] Bild der Münze aus dem Archiv?
+_Gedenkmünze der Staatlichen Münze Berlin, 2012. (AZGB)_
 
 ## "Knuts" Tod und Präparation - Proteste und Vermenschlichung
 
@@ -137,7 +144,7 @@ Letztlich wurde Knut präpariert und sein Präparat ist heute  im Museum für Na
 
 ## "Knut" forever
 
-Noch 2020 war das Thema "Knut" und Dörflein geeignet, Emotionen auszulösen. Zum 12. Todestag von Thomas Dörflein erinnerte der Förderverein der Freunde der Hauptstadtzoos an den Tod des Pflegers von Knut.
+Aber noch 2020 war das Thema "Knut" und Dörflein geeignet, Emotionen auszulösen. Zum 12. Todestag von Thomas Dörflein erinnerte der Förderverein der Freunde der Hauptstadtzoos an den Tod des Pflegers von Knut.
 
 ![desc](images/cmw/Dorfleinpost_22920.PNG)
 *Post des Fördervereins Freunde der Hauptsstadtzoos auf Facebook, 22.09.2020*
@@ -150,15 +157,18 @@ Die unzähligen Kommentare und Reaktionen auf den facebook-Post zeigen, dass Zoo
 ![desc](images/cmw/Dorfleinpost_220920_Komentarspalte.PNG)
 *Kommentare auf den Post des Fördervereins Freunde der Hauptsstadtzoos auf Facebook vom 22.09.2020*
 
-Anders als bei "Knut" 2013 gab es 1935 - selbst wenn sich die Quellen zwischen einer funktionierenden Zivilgesellschaft einer Demokratie und der einer Diktatur nicht vergleichen lassen - keine Diskussion über die Ausstellung des damals höchst beliebten Gorilla "Bobby" [[story.Bobby life]]. Dessen Totenmaske hing passenderweise im Präparierraum des Naturkundemuseums.
+Anders als bei "Knut" 2013 gab es 1935 - selbst wenn sich die Quellen einer funktionierenden Zivilgesellschaft einer Demokratie und denen einer Diktatur nicht vergleichen lassen - keine Diskussion über die Ausstellung des damals höchst beliebten Gorilla "Bobby" [[story.Bobby life]]. Dessen Totenmaske hing passenderweise im Präparierraum des Naturkundemuseums.
 
 ![desc](images/cmw/130114_Knut_06.jpg)
 *"Knut in der Präparationswerkstatt des Naturkundemuseums. Im Hintergrund die Totenmaske von "Bobby", 2013.(Carola Radke, MfN 2013)*
 
-Zoos und Zootiere haben es seit ihrer Gründung verstanden, bei den Besuchern starke positive Emotionen hervorzurufen. Das war in Berlin wie auch andernorts allerdings gar nicht das ursprüngliche Ziel, der Gründungsdirektor hatte sich ganz bildungsbürgerlichen Idealen verschrieben. Freude am Zoobesuch sollte aus der Freude an der naturkundlichen Erkenntnis kommen und eine 'Freundschaft' mit den Zootieren war nicht vorgesehen. Aber schon bald wurde Martin Hinrich Lichtenstein und anderen Zooleitern klar, dass die Besucher\*innen immer auch einen Unterhaltungsaspekt einforderten.[^wessely] Zoos lernten, dass wiederholte Zoobesuche und die Darstellung von Jungtieren durchaus Bindungen von Besucher\*innen zu einzelnen Zootieren festigten, die erstere als Freundschaften interpretierten. Sie suchten gezielt, diese für die eigene Attraktivität oder die Vermittlungsarbeit zu nutzen.[^emotion]
-"Knuts" Geschichte und der 'Starrummel', der sich um ihn bildete sind dennoch ungewöhnlich, zumal es sich bei dem Eisbären nicht um ein bislang unbekanntes Tier handelte, welches wie das erste Nashorn in Europa oder die erste in Wien ausgestellte Giraffe eine Sensation darstellte. 2012 inspirierte dieser 'hype' um "Knut" auch über dessen Tod hinaus akademisches Interesse.[^forever2]
+Aber auch die Präparation "Bao Baos" - des 34 Jahre alten Pandas aus dem Zoologischen Garten im Naturkundemuseum hat keine emotionalen Reaktionen hervorgerufen, dabei war der Große Panda der eigentliche 'Star' des Berliner Zoos.
 
-Und wiederholt hat sich solch eine anhaltende Begeisterung für ein Zootier bisher auch nicht in diesem Ausmaß. Die 2010 in Nürnberg geborene und ebenso mit der Flasche aufgezogene Eisbärin "Flocke" oder die 2018 im Tierpark geborene "Hertha" haben annähernd die Popularität "Knuts" gewonnen. Es scheint als habe das Eisbärenjunge - und sein Pfleger - 2007 eine Nische gefüllt, ein besonderes Verlangen gestillt. Eisbären gelten ausweislich der Weltnaturschutzunion nun trotz der dramatischen Veränderungen in ihrem Lebensraum nicht mehr als gefährdet.
+"Knuts" Geschichte und der 'Starrummel', der sich um ihn bildete sind bleiben ungewöhnlich, zumal es sich bei dem Eisbären nicht um ein bislang unbekanntes Tier handelte, welches wie das erste Nashorn in Europa oder die erste in Wien ausgestellte Giraffe eine Sensation darstellte. 2012 inspirierte dieser 'hype' um "Knut" auch über dessen Tod hinaus akademisches Interesse.[^forever2]
+
+Und wiederholt hat sich solch eine anhaltende Begeisterung für ein Zootier bisher auch nicht in diesem Ausmaß. Die 2010 in Nürnberg geborene und ebenso mit der Flasche aufgezogene Eisbärin "Flocke" oder die 2018 im Tierpark geborene "Hertha" haben annähernd die Popularität "Knuts" gewonnen. Es scheint als habe das Eisbärenjunge - und sein Pfleger - 2007 eine Nische gefüllt, ein besonderes Verlangen gestillt.
+
+Eisbären gelten 2021 ausweislich der Weltnaturschutzunion wie alle Bären trotz wachsender Populationen der dramatischen Veränderungen in ihrem Lebensraum wegen weiterhin als gefährdet. Die Aufgabe von "Knut" als Botschafter ist noch nicht beendet.
 
 -----
 ## Footnotes
@@ -202,3 +212,5 @@ Und wiederholt hat sich solch eine anhaltende Begeisterung für ein Zootier bish
 [^leipzig5]: "Eisbärbaby Knut entkommt der Todesspritze", Welt online, 19.03.2007, https://www.welt.de/vermischtes/article768024/Eisbaerbaby-Knut-entkommt-der-Todesspritze.html (01.06.2021).
 
 [^light]: Bilder hiervon unter Gerry Hofstetter. Hofstetter-Marketing, http://www.hofstetter-marketing.com/lightart_expeditions_galerie_8.html (01.06.2007).
+
+[^iucn]: "Flußpferd und Eisbär Neuzugänge auf Roter Liste", Frankfurter Allgemeine Zeitung online, 02.05.2006, https://www.faz.net/aktuell/wissen/natur/artensterben-flusspferd-und-eisbaer-neuzugaenge-auf-roter-liste-1330020.html (03.06.2021).
