@@ -49,9 +49,11 @@ export default {
     },
     createLinks(){
 
+      this.nodes = [];
       this.nodes = this.backlinks;
-      
       this.nodes.push(this.article);
+
+      this.links = []
 
       for (let i = 0; i < this.backlinks.length; i++) {
         const backlink = this.backlinks[i];
