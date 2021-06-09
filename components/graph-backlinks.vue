@@ -20,27 +20,51 @@ export default {
   props:{
     backlinks:{
       type: Array
+    },
+    article:{
+      type: Object
     }
   },
   data () {
     return {
       attr : {
-        width: 1000,
-        height: 800,
+        width: 340,
+        height: 340,
         margin: {
           top: 0,
           right: 0,
           left: 0,
           bottom: 0,
-        }
+        },
+        nodeSize: 25,
+        labelSpacing: 0
       },
+      nodes:[],
+      links:[]
     }
   },
   methods:{
     navigate(event, d){
       this.$router.push('/' + d.slug);
     },
+    createLinks(){
+
+      this.nodes = this.backlinks;
+      
+      this.nodes.push(this.article);
+
+      for (let i = 0; i < this.backlinks.length; i++) {
+        const backlink = this.backlinks[i];
+
+        this.links.push({
+          source:this.article.slug,
+          target:backlink.slug
+        })
+        
+      }
+    },
     init(){
+
       const that = this;
       const svg = d3
         .select("#d3")
@@ -48,70 +72,63 @@ export default {
         .attr("width", this.attr.width)
         .attr("height", this.attr.height);
 
-      const simulation = d3.forceSimulation(graphdata.nodes)
-        .force("link", d3.forceLink(graphdata.links).id(d => d.slug))
-        .force("charge", d3.forceManyBody())
+      const simulation = d3.forceSimulation(this.nodes)
+        .force("link", d3.forceLink(this.links).id(d => d.slug))
+        .force("charge", d3.forceManyBody().strength(-600).distanceMin(1).distanceMax(500))
         .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2))
-        .force("radial", d3.forceRadial(500))
-        .force("collide", d3.forceCollide(20))
+        .force("radial", d3.forceRadial(200))
+        .force("collide", d3.forceCollide(50).strength(0.2))
+        
 
       let colorScale = d3.scaleOrdinal()
-        .domain(d3.range(graphdata.nodes.length))
+        .domain(d3.range(this.nodes.length))
         .range(d3.schemeCategory10)
 
       const link = svg.append("g")
-        .attr("stroke", "#eee")
+        .attr("stroke", "#000")
         .attr("stroke-opacity", 0.6)
         .selectAll("line")
-        .data(graphdata.links)
+        .data(this.links)
         .join("line")
-        .attr("stroke-width", d => Math.sqrt(d.value));
+        .attr("stroke-width", '1');
 
       const node = svg.append("g")
-        
-        .selectAll("circle")
-        .data(graphdata.nodes)
+        .selectAll("rect")
+        .data(this.nodes)
         .enter()
         .append('g')
         .attr('transform', function (d) {
-          let cirX = d.x
-          let cirY = d.y
-          return 'translate(' + cirX + ',' + cirY + ')'
+          // let cirX = d.width * -0.5
+          // let cirY = 0
+          // return 'translate(' + -50 + ',' + -5 + ')'
         })
         .attr('id', function(d) {
           return d.slug
         })
         .call(this.drag(simulation));
 
-        node.append("circle")
-          .attr("stroke", "#fff")
-          .attr("stroke-width", 1.5)
-          .attr("r", 4.5)
+        node.append("rect")
+          // .attr("r", this.attr.nodeSize)
+          .attr("x", this.attr.nodeSize*-0.5)
+          .attr("y", this.attr.nodeSize*-0.5)
+          .attr("width", this.attr.nodeSize)
+          .attr("height", this.attr.nodeSize)
+          .attr("rx", function(d){ 
+            if(d.tao_type == 'material') return 15
+            if(d.tao_type == 'story') return 5
+          })
           .attr('fill', function (d, i) {
             return colorScale(i)
           })
 
         node.append("text")
           
-          .attr("dy", "14px")
-          .attr("font-family", "Optician Sans")
-          .style("font-size", "10px")
-          .attr("fill", "#ccc")
-          .attr("letter-spacing", '0.1em')
-          .text(function(d) { return d.frontmatter.title })
+          .attr("dy", this.attr.nodeSize + this.attr.labelSpacing + "px")
+          .attr("font-family", "CentSchbook Mono BT")
+          .style("font-size", "0.5rem")
+          .attr("fill", "#000")
+          .text(function(d) { return d.title })
           .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
-          .on("mouseenter", function() {
-            d3.select(this)
-              .transition()
-              .duration(200)
-              .attr("fill", "black");
-          })
-          .on("mouseout", function() {
-            d3.select(this)
-              .transition()
-              .duration(200)
-              .attr("fill", "#ccc")
-          });
 
           node.on('mouseover', function(event, d) {
             link.style('stroke', function(l) {
@@ -144,7 +161,9 @@ export default {
           .attr("y2", d => d.target.y);
 
         node
-          .attr('transform', function (d) { return 'translate(' + d.x + ',' + d.y + ')' });
+          .attr('transform', function (d) { 
+            return 'translate(' + d.x + ',' + d.y + ')' 
+          });
       });
     },
     drag(simulation){
@@ -173,8 +192,8 @@ export default {
     }
   },
   mounted(){
+    this.createLinks();
     this.init();
-    
   }
 }
 </script>

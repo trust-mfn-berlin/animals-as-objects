@@ -89,7 +89,8 @@ async function getContent(filePath, encoding = "utf-8") {
     const from = {
       slug: dendronlinks[x].slug,
       title: dendronlinks[x].frontmatter.title,
-      title_de: dendronlinks[x].frontmatter.title_de
+      title_de: dendronlinks[x].frontmatter.title_de,
+      tao_type: dendronlinks[x].frontmatter.tao_type
     };
 
     // Check if this page is linked to anything
@@ -106,7 +107,7 @@ async function getContent(filePath, encoding = "utf-8") {
           // If any page matches a forward link from another page, add it as a backlink
           if(page.slug == forwardlink){
 
-            // Check if the backlink already exists. Only add it if it doesn't already exist.            
+            // Check if the backlink already exists (duplicated). Only add it if it doesn't already exist.            
             if(!compiledBacklinks[u].backlinks.includes(from.slug)){
               // console.log('MATCH', 'from index', x, 'to index', u);
               console.log('FROM', from.slug, '-> TO', forwardlink);
