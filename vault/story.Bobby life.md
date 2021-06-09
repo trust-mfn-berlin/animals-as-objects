@@ -2,7 +2,7 @@
 id: f02cb0e0-9512-4a0f-8012-02969e9f97d0
 title: Bobby life
 desc: Put a description of this note here...
-updated: 1623077104782
+updated: 1623235002309
 created: 1620163729182
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -111,6 +111,9 @@ Rümmler, Hans. „2. Niederschriften der wissenschaftlichen Sitzungen im Jahre 
 -	Abgüsse
 	Anatomische Sammlung Charité
 
+
+Abgüsse:
+auch vom Kadaver von "M'Pungu" wurden Gipsabgüsse genommen und Statuen daraus hergestellt.
 
 Bobby:
 Körper zerlegt 
