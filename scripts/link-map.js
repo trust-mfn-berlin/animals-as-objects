@@ -1,5 +1,5 @@
 // This script iterates through every file in the vault and finds forward and back links.
-// The output is moved into a Json array `backlinks.json`
+// The output is moved into a Json array `backlinks.json`, and a file called graph-data.json where it is shaped for a D3 graph.
 
 const path = require('path');
 const fs = require('fs-extra');
@@ -86,7 +86,11 @@ async function getContent(filePath, encoding = "utf-8") {
   // Iterate through every page
   for (let x = 0; x < dendronlinks.length; x++) {
     const forwardlinks = dendronlinks[x].forwardlinks;
-    const from = dendronlinks[x].slug;
+    const from = {
+      slug: dendronlinks[x].slug,
+      title: dendronlinks[x].frontmatter.title,
+      title_de: dendronlinks[x].frontmatter.title_de
+    };
 
     // Check if this page is linked to anything
     if(forwardlinks){
@@ -103,13 +107,13 @@ async function getContent(filePath, encoding = "utf-8") {
           if(page.slug == forwardlink){
 
             // Check if the backlink already exists. Only add it if it doesn't already exist.            
-            if(!compiledBacklinks[u].backlinks.includes(from)){
+            if(!compiledBacklinks[u].backlinks.includes(from.slug)){
               // console.log('MATCH', 'from index', x, 'to index', u);
-              console.log('FROM', from, '-> TO', forwardlink);
+              console.log('FROM', from.slug, '-> TO', forwardlink);
               compiledBacklinks[u].backlinks.push(from);
               
               // this only links between articles that have been made, by using backlinks instead of forward links.
-              graphLinks.push({source: from, target: forwardlink });
+              graphLinks.push({source: from.slug, target: forwardlink });
             }
           
           }
