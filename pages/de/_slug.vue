@@ -14,12 +14,10 @@
 </template>
 
 <script>
-import wikilink from '@/components/wikilink'
-import backlink from '@/components/backlink';
+import wikilink from '@/components/base/wikilink'
 export default {
   name:'page',
   components:{
-    backlink,
     wikilink
   },
   created(){
