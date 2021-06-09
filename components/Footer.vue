@@ -1,7 +1,7 @@
 <template>
   <footer>
     <small class="f-mono">Animals as Objects: a project by the Museum für Naturkunde and Zoo Berlin</small>
-    <icon-button icon="arrow-up" tao_type="material" @click.native="scrollToTop(800)"></icon-button>
+    <icon-button icon="arrow-up" tao_type="material" @click.native="scrollToY(0, 800)"></icon-button>
   </footer>
 </template>
 
