@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1623319254154
+updated: 1623322110636
 created: 1618326133707
 ---
 
@@ -60,13 +60,13 @@ Grzimek, Bernhard. _Flug ins Schimpansenland. Reise durch ein Stück Afrika von 
 Gregory Kohlstedt, Sally. "Reflections on Zoo History". In _New Worlds, New Animals. From Menagerie to Zoological Park in the Nineteenth Century_, hg. [ed.] von Robert J. Hoage und William A. Deiss. Baltimore: Johns Hopkins Univ. Press, 1996: 3-7.
 
 ### Journal
-Grincheva, Natalia. „U.S. Arts and Cultural Diplomacy: Post-Cold War Decline and the Twenty-First Century Debate“. _The Journal of Arts Management, Law, and Society_ 40 (1. März 2010): 169–83. https://doi.org/10.1080/10632921.2010.504509.
+Grincheva, Natalia. "U.S. Arts and Cultural Diplomacy: Post-Cold War Decline and the Twenty-First Century Debate". _The Journal of Arts Management, Law, and Society_ 40 (1. März 2010): 169–83. https://doi.org/10.1080/10632921.2010.504509.
 
-Chua, Charmaine, Martin Danyluk, Deborah Cowen, und Laleh Khalili. „Introduction: Turbulent Circulation: Building a Critical Engagement with Logistics“. _Environment and Planning D: Society and Space_ 36, Nr. 4 (August 2018): 617–29. https://doi.org/10.1177/0263775818783101.
+Chua, Charmaine, Martin Danyluk, Deborah Cowen, und Laleh Khalili. "Introduction: Turbulent Circulation: Building a Critical Engagement with Logistics". _Environment and Planning D: Society and Space_ 36, Nr. 4 (August 2018): 617–29. https://doi.org/10.1177/0263775818783101.
 
 ### Newspaper
 
-Müller, Christian. „Ankunft der neuen Zoo-Bewohner“. _Berliner Morgenpost_, 21.05.1928. [no page required]
+Müller, Christian. "Ankunft der neuen Zoo-Bewohner". _Berliner Morgenpost_, 21.05.1928. [no page required]
 
 ### Letter (Archive)
 
@@ -81,13 +81,13 @@ K. Heinroth an C. Hagenbeck, 12.09.1934, MfN, HBSB, S004-02-05 134. [pagina, if 
 
 ### Zoo archive material (example)
 
-_Die asiatischen Elefanten “Omar” und “Rostom“ nach ihrer Ankunft im Zoo Berlin, 1936. (AZGB, Foto L. Heck)_ [AZGB: no call number required]
+_Die asiatischen Elefanten "Omar" und "Rostom" nach ihrer Ankunft im Zoo Berlin, 1936. (AZGB, Foto L. Heck. All rights reserved.)_ [AZGB: no call number required]
 
-_Staatspräsident Ulbricht übergibt den goldenen Schlüssel, 22.10.1965. (LAB C Rep. 121, Nr. 235)_
+_Staatspräsident Ulbricht übergibt den goldenen Schlüssel, 22.10.1965. (LAB C Rep. 121, Nr. 235. All rights reserved.)_
 
 ### Caption newspaper (example)
 
-[article title is visible, and written in the accessibility description] _Artikel aus dem ‘Völkischen Beobachter‘ vom 12.04.1938 mit einem Interview mit Lutz Heck._
+[article title is visible, and written in the accessibility description] _Artikel aus dem_ Völkischen Beobachter _vom 12.04.1938 mit einem Interview mit Lutz Heck. (Source. All rights reserved._
 
 ## Image descriptions, AltText
 
