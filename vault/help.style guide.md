@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1623323462490
+updated: 1623324142536
 created: 1618326133707
 ---
 
@@ -42,14 +42,16 @@ See [[templates.story]]
 * Only use "these quotation marks" in both DE and EN, not „these quotation marks”
 * Always leave a blank line above and below a bullet point list
 * Footnotes come after the "." at the end of a sentence but before the "," if in the middle of a sentence
-* Titles of publications, newspapers etc. are in _cursive_, so if used in a caption: _In an image caption, a name of a newspaper, for example_ Newspaper title, _is the only thing not in cursive_
+* Titles of publications, newspapers etc. are in _cursive_, so if used in a caption: _In an image caption, a name of a newspaper, for example_ Newspaper title, _is the only thing not in cursive_. Also italicize laws, regulations, and names of journals, etc.
 
 ### Structure and Terminology
 
 * For every document where you care about what's written in it, there should be a material.document
-* Terminology: Zweiter Weltkrieg, Second World War
+* Zweiter Weltkrieg, Second World War
+* DE: zoologigal garden (zoologischer Garten) without capitalization for zoos in general, but Zoological Garden (Zoologischer Garten) when talking about the Berlin zoo specifically
 * When including a link to a material or theme or story, either you use the exact word, or an [[Alternative Title|material.NSB]]. The Alternative Title should never be "here" or "in a different article", it should always be very close to the original title.
 * Alternatively, you can use: ..., for more on this topic, see [[Alternative Title|material.NSB]]. Auf deutsch: ..., siehe auch [[Alternative Title|material.NSB]]. Internal backlinks have a special design, so they stand out nicely.
+* Avoid quotation marks that distance you as the author from the words you use, but if you must, use 'single' ones, as the "doubles" are reserved for quotations and for animal-names like "Knut". Another option is adding the term so-called (sogenannte) in front of a word. However, be aware that neither single quotation marks nor the term so-called undoes the colonial order transported by a word like exotic, for example.
 
 ## Footnotes: Modified "Chicago Manual, 17th edition (note)"
 
@@ -94,7 +96,7 @@ _Staatspräsident Ulbricht übergibt den goldenen Schlüssel, 22.10.1965. (LAB C
 * Do start with general details, followed by specifics.
 * Do be clear and concise. It is important not to be too wordy or over describe a panel, since this can be confusing to a reader.
 * Do be objective. You do not want to put your opinions of what is happening into the description, just what is literally in the panel. The reader should have the freedom for their own interpretation given all the necessary details.
-*Do state the type of image if it is unusual or out of context, like a newspaper cut-out among photographs.
+* Do state the type of image if it is unusual or out of context, like a newspaper cut-out among photographs.
 * Do pay attention to the context of the image. Is it well-described within the text? Then the alt-text can be simple. 
 
 Source: https://www.accessiblepublishing.ca/a-guide-to-image-description/
