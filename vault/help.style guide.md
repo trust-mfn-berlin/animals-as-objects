@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1623322110636
+updated: 1623322485117
 created: 1618326133707
 ---
 
@@ -27,29 +27,18 @@ See [[templates.story]]
 
 ## Style notes
 
-Dates of life only in material.person, not everywhere
-
-For every document where you care about what's written in it, there should be a material.document
-
-Numbers are written as 165.000 with a dot
-
-Dates in the text are 12 December 1967 in EN, but 12. Dezember 1967 auf DE
-
-Full dates in footnotes are 30.07.1985
-
-Terminology: Zweiter Weltkrieg, Second World War
-
-Use Oxford comma
-
-Use the longer dashes with spaces around it in texts – like this.
-
-Only use "these quotation marks" in both DE and EN, not „these quotation marks”
-
-- Bullet points like this
-* or like this
-- always leave a blank line above and below the list
-
-Footnotes come after the "." at the end of a sentence but before the "," if in the middle of a sentence.
+* Dates of life only in material.person, not everywhere
+* For every document where you care about what's written in it, there should be a material.document
+* Numbers are written as 165.000 with a dot
+* Dates in the text are 12 December 1967 in EN, but 12. Dezember 1967 auf DE
+* Full dates in footnotes are 30.07.1985
+* Terminology: Zweiter Weltkrieg, Second World War
+* Use Oxford comma
+* Use the longer dashes with spaces around it in texts – like this.
+* Only use "these quotation marks" in both DE and EN, not „these quotation marks”
+* Always leave a blank line above and below a bullet point list
+* Footnotes come after the "." at the end of a sentence but before the "," if in the middle of a sentence
+* Titles of publications, newspapers etc. are in _cursive_, so if used in a caption: _In an image caption, a name of a newspaper, for example_ Newspaper title, _is the only thing not in cursive_
 
 ## Footnotes: Suggestion of a modified "Chicago Manual, 17th edition (note)"
 
