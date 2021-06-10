@@ -11,7 +11,7 @@
 // https://bl.ocks.org/steveharoz/8c3e2524079a8c440df60c1ab72b5d03
 
 <template>
-  <div id="d3" :style="{height: attr.height + 'px'}"></div>
+  <div id="d3-main" :style="{height: attr.height + 'px'}"></div>
 </template>
 
 <script>
@@ -23,8 +23,8 @@ export default {
   data () {
     return {
       attr : {
-        width: 1400,
-        height: 1000,
+        width: 1000,
+        height: 900,
         margin: {
           top: 0,
           right: 0,
@@ -109,7 +109,7 @@ export default {
     init(){
       const that = this;
       const svg = d3
-        .select("#d3")
+        .select("#d3-main")
         .append("svg")
         .attr("width", this.attr.width)
         .attr("height", this.attr.height);
@@ -118,7 +118,7 @@ export default {
         .force("link", d3.forceLink(this.links).id(d => d.slug).distance(function(d) {if(d.relation == 'text'){console.log(d.relation); return 1} else {return 200}}))
         .force("charge", d3.forceManyBody().strength(-600).distanceMin(1).distanceMax(500))
         .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2))
-        .force("radial", d3.forceRadial(750))
+        .force("radial", d3.forceRadial(this.attr.height / 2))
         .force("collide", d3.forceCollide(40).strength(0.2))
 
       let colorScale = d3.scaleOrdinal()
@@ -306,10 +306,19 @@ export default {
     }
   },
   mounted(){
+
+    if(window){
+      // console.log(window.innerWidth);
+      this.attr.width = window.innerWidth
+    }
     this.init();
     
   }
 }
 </script>
-<style scoped>
+<style lang="less" scoped>
+#d3-main{
+  margin-top: -8rem;
+}
+
 </style>
