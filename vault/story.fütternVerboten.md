@@ -2,7 +2,7 @@
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 title: fütternVerboten
 desc: Put a description of this note here...
-updated: 1622750831683
+updated: 1623327697751
 created: 1620752897039
 title_de: Füttern Verboten
 desc_de: Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo selbstverständlich erscheint, war lange Zeit ein direkter Kontakt beim Füttern durch die Besucher\*innen üblich. Wie, wann und weshalb führten Zoos ein Fütterungsverbot ein? 
@@ -60,9 +60,10 @@ _Per Stempel überschreiben die neuen die alten Richtlinien zum Füttern im Berl
 
 Im Zooführer von 1960 wurde nach dem Beschluss des Verbots den nun veralteten Fütterungsregeln zuerst behelfsmäßig ein roter Stempel aufgedrückt. Im nächsten Jähr war das Regelwerk dann komplett überarbeitet. Auf das Verbot wies der Wegweiser von nun an gleich am Anfang in der 'Gartenordnung' oder in der einleitenden Ansprache 'An unsere Besucher' hin. Im Garten selbst waren außerdem Schilder direkt an den Gehegen angebracht.  
 
-![Kamelanlage im Berliner Zoo mit Fütterungsverbotschild](images\mv\KamelNichtFuettern.jpg) 
+![Giraffenanlage im Berliner Zoo mit Fütterungsverbotschild und Metallbarriere. Eine Giraffe neigt den Kopf über das Gitter des Geheges zu den Besucher\*innen]() 
 
-_Kamelanlage im Berliner Zoo mit Verbotsschild. (AZGB)_
+_Giraffen durften 1954 im Berliner Zoo bereits nicht mehr gefüttert werden. Ein Schild und eine Absperrung sollten die Besucher\*innen auf Abstand halten (AZGB, Ottmar Kränzlein. All rights reserved)._
+
 
 ![Fütterungsverbotschild für Eisbärenjungtier im Zoologischen Garten Berlin](images\mv\EisbaerenjungtierNichtFuettern.jpg)
 
