@@ -1,6 +1,6 @@
 <template>
   <div>
-    <!-- <graph /> -->
+    <graph />
     <section>
       <Cascade :articles="articles" />
       <text-button linkto="/articles">View All Articles</text-button>
