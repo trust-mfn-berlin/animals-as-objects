@@ -117,70 +117,97 @@ export default {
         })
         .call(this.drag(simulation));
 
-        node.append("rect")
-          // .attr("r", this.attr.nodeSize)
-          .attr("x", this.attr.nodeSize*-0.5)
-          .attr("y", this.attr.nodeSize*-0.5)
-          .attr("width", this.attr.nodeSize)
-          .attr("height", this.attr.nodeSize)
-          .attr("rx", function(d){ 
-            if(d.tao_type == 'material') return that.attr.nodeSize
-            if(d.tao_type == 'story') return 5
-          })
-          .attr('fill', function (d, i) {
-            return colorScale(i)
-          })
+      const defs = svg.append("defs");
+      defs.append("clipPath")
+        .attr("id", "material-clip")
+        .append("rect")
+        .attr("x", this.attr.nodeSize*-0.5)
+        .attr("y", this.attr.nodeSize*-0.5)
+        .attr("width", this.attr.nodeSize)
+        .attr("height", this.attr.nodeSize)
+        .attr("rx", this.attr.nodeSize)
+      
+      defs.append("clipPath")
+        .attr("id", "story-clip")
+        .append("rect")
+        .attr("x", this.attr.nodeSize*-0.5)
+        .attr("y", this.attr.nodeSize*-0.5)
+        .attr("width", this.attr.nodeSize)
+        .attr("height", this.attr.nodeSize)
+        .attr("rx", 5)
 
-        node.append("text")
-          
-          .attr("dy", this.attr.nodeSize + this.attr.labelSpacing + "px")
-          .attr("font-family", "CentSchbook Mono BT")
-          .style("font-size", this.attr.fontSize)
-          .attr("fill", "rgba(0,0,0,0.2)")
-          .text(function(d) { return d.title })
-          .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
+      node.append("rect")
+        // .attr("r", this.attr.nodeSize)
+        .attr("x", this.attr.nodeSize*-0.5)
+        .attr("y", this.attr.nodeSize*-0.5)
+        .attr("width", this.attr.nodeSize)
+        .attr("height", this.attr.nodeSize)
+        .attr("rx", function(d){ 
+          if(d.tao_type == 'material') return that.attr.nodeSize
+          if(d.tao_type == 'story') return 5
+        })
+        .attr('fill', function (d, i) {
+          return colorScale(i)
+        })
 
-          node.on('mouseover', function(event, d) {
-            // text colour
-            d3.select(this).select('text')
-            .attr('fill', 'black');
+      node.append("text")
+        
+        .attr("dy", this.attr.nodeSize + this.attr.labelSpacing + "px")
+        .attr("font-family", "CentSchbook Mono BT")
+        .style("font-size", this.attr.fontSize)
+        .attr("fill", "rgba(0,0,0,0.2)")
+        .text(function(d) { return d.title })
+        .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
 
-            // order / z-index
-            console.log(svg.selectAll('.nodeparent g'));
-            svg.selectAll('.nodeparent g').sort(function (a, b) { // select the parent and sort the path's
-              
-              if (a.slug != d.slug) {
-                // console.log(a.slug, 'back');
-                return -1; // a is not the hovered element, send "a" to the back
-              }
-              else {
-                // console.log(a.slug, 'forward');
-                return 1; // a is the hovered element, bring "a" to the front
-              }
-            });
+        node.on('mouseover', function(event, d) {
+          // text colour
+          d3.select(this).select('text')
+          .attr('fill', 'black');
+
+          // order / z-index
+          svg.selectAll('.nodeparent g').sort(function (a, b) { // select the parent and sort the path's
             
-            link.attr('stroke-width', '1');
-            link.style('stroke', function(l) {
-              if (d === l.source || d === l.target){
-                return "black";
-              }
-              else {
-                return "#eee";
-              }
-              });
+            if (a.slug != d.slug) {
+              return -1; // a is not the hovered element, send "a" to the back
+            }
+            else {
+              return 1; // a is the hovered element, bring "a" to the front
+            }
           });
+          
+          link.attr('stroke-width', '1');
+          link.style('stroke', function(l) {
+            if (d === l.source || d === l.target){
+              return "black";
+            }
+            else {
+              return "#eee";
+            }
+            });
+        });
 
-          node.on('click', function(event, d){
-            that.navigate(event, d)
+        node.on('click', function(event, d){
+          that.navigate(event, d)
+        })
+
+        // Set the stroke width back to normal when mouse leaves the node.
+        node.on('mouseout', function() {
+          link.attr('stroke-width', '1');
+          link.style('stroke', "#eee");
+          d3.select(this).select('text')
+          .attr('fill', 'rgba(0,0,0,0.2)')
+        });
+
+      node.append("image")
+        .attr("xlink:href", "https://loremflickr.com/64/64/butterfly")
+        .attr("x", this.attr.nodeSize*-0.5)
+        .attr("y", this.attr.nodeSize*-0.5)
+        .attr("width", this.attr.nodeSize)
+        .attr("height", this.attr.nodeSize)
+        .attr("clip-path", function(d){
+          if(d.tao_type == 'story') return "url(#story-clip)"
+          if(d.tao_type == 'material') return "url(#material-clip)"
           })
-
-          // Set the stroke width back to normal when mouse leaves the node.
-          node.on('mouseout', function() {
-            link.attr('stroke-width', '1');
-            link.style('stroke', "#eee");
-            d3.select(this).select('text')
-            .attr('fill', 'rgba(0,0,0,0.2)')
-          });
 
         
 
@@ -196,6 +223,8 @@ export default {
           .attr('transform', function (d) { 
             return 'translate(' + d.x + ',' + d.y + ')' 
           });
+          
+          
       });
     },
     drag(simulation){
