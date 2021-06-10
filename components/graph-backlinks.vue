@@ -38,7 +38,8 @@ export default {
         },
         nodeSize: 32,
         labelSpacing: 4,
-        fontSize: '0.5rem'
+        fontSize: '0.5rem',
+        storyRadius: 7
       },
       nodes:[],
       links:[]
@@ -134,7 +135,7 @@ export default {
         .attr("y", this.attr.nodeSize*-0.5)
         .attr("width", this.attr.nodeSize)
         .attr("height", this.attr.nodeSize)
-        .attr("rx", 5)
+        .attr("rx", this.attr.storyRadius)
 
       node.append("rect")
         // .attr("r", this.attr.nodeSize)
@@ -144,7 +145,7 @@ export default {
         .attr("height", this.attr.nodeSize)
         .attr("rx", function(d){ 
           if(d.tao_type == 'material') return that.attr.nodeSize
-          if(d.tao_type == 'story') return 5
+          if(d.tao_type == 'story') return that.attr.storyRadius
         })
         .attr('fill', function (d, i) {
           if(d.slug == that.article.slug) return 'var(--current-scheme-bg)'
@@ -179,6 +180,20 @@ export default {
               return 1; // a is the hovered element, bring "a" to the front
             }
           });
+
+          
+
+          d3.select(this).selectAll('rect')
+            .transition()
+            .duration(150)
+            .ease(d3.easeQuadOut)
+            .attr("transform", "scale(1.5)")
+
+          // d3.select(this).selectAll('image')
+          //   .transition()
+          //   .duration(150)
+          //   .ease(d3.easeQuadOut)
+          //   .attr("transform", "scale(1.5)")
           
           link.attr('stroke-width', '1');
           link.style('stroke', function(l) {
@@ -198,8 +213,22 @@ export default {
 
         // Set the stroke width back to normal when mouse leaves the node.
         node.on('mouseout', function() {
+
           link.attr('stroke-width', '1');
           link.style('stroke', "#eee");
+          
+          d3.select(this).selectAll('rect')
+            .transition()
+            .duration(150)
+            .ease(d3.easeQuadOut)
+            .attr("transform", "scale(1)")
+
+          // d3.select(this).selectAll('image')
+          //   .transition()
+          //   .duration(150)
+          //   .ease(d3.easeQuadOut)
+          //   .attr("transform", "scale(1)")
+
           d3.select(this).select('text')
           .attr('fill', 'rgba(0,0,0,0.2)')
         });
