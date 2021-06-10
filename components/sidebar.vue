@@ -23,7 +23,7 @@
       </ol>
     </section>
     <section id="section-backlinks" v-if="article.backlinks.length > 0">
-      <h3 class="f-mono subheading">Pages that link to {{article.title}}</h3>
+      <h3 class="f-mono subheading">Pages that link here</h3>
       <graph-backlinks  :article="{slug: article.slug, title: article.title, tao_type: article.tao_type}" :backlinks="article.backlinks"/>
     </section>
     <section id="section-routes" v-if="matchedRoutes.length > 0">
