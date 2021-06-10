@@ -61,7 +61,7 @@ export default {
 
 <style lang="less" scoped>
 body{
-  background-color: #F3EEE9;
+  /* background-color: #F3EEE9; */
 }
 
 section{

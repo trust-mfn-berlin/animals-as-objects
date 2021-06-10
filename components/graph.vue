@@ -17,7 +17,9 @@
 <script>
 import * as d3 from 'd3'
 
-import graphdata from '~/temp/graphdata.json';
+import featuredGraphData from '~/temp/graphdata.json';
+
+const graphData = featuredGraphData[0];
 
 export default {  
   data () {
@@ -114,29 +116,29 @@ export default {
         .attr("width", this.attr.width)
         .attr("height", this.attr.height);
 
-      const simulation = d3.forceSimulation(this.nodes)
-        .force("link", d3.forceLink(this.links).id(d => d.slug).distance(function(d) {if(d.relation == 'text'){console.log(d.relation); return 1} else {return 200}}))
+      const simulation = d3.forceSimulation(graphData.nodes)
+        .force("link", d3.forceLink(graphData.links).id(d => d.slug).distance(function(d) {if(d.relation == 'text'){console.log(d.relation); return 1} else {return 200}}))
         .force("charge", d3.forceManyBody().strength(-600).distanceMin(1).distanceMax(500))
         .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2))
         .force("radial", d3.forceRadial(this.attr.height / 2))
-        .force("collide", d3.forceCollide(40).strength(0.2))
+        .force("collide", d3.forceCollide(80).strength(0.2))
 
       let colorScale = d3.scaleOrdinal()
-        .domain(d3.range(this.nodes.length))
+        .domain(d3.range(graphData.nodes.length))
         .range(["#84E3B0","#FA9129","#C64C4C","#EE9389","#9A7051","#0047FF","#DD3821","#6E2E60","#F5C721"])
 
       const link = svg.append("g")
         .attr("stroke", "#fff")
         .attr("stroke-opacity", 1)
         .selectAll("line")
-        .data(this.links)
+        .data(graphData.links)
         .join("line")
         .attr("stroke-width", d => d.value);
 
       const node = svg.append("g")
         
         .selectAll("rect")
-        .data(this.nodes)
+        .data(graphData.nodes)
         .enter()
         .append('g')
         .attr('transform', function (d) {
@@ -196,33 +198,32 @@ export default {
           .attr('rx', function (d, i) {
             if(d.letter == true){
               return 25
-            } else if (d.frontmatter.tao_type == 'material'){
+            } else if (d.tao_type == 'material'){
               return 50
-            } else if (d.frontmatter.tao_type == 'story'){
+            } else if (d.tao_type == 'story'){
               return 20
-            } else if (d.frontmatter.tao_type == 'theme'){
+            } else if (d.tao_type == 'theme'){
               return 0
             }
           })
 
         node.append("text")
           
-          .attr("dy", "15px")
-          .attr("font-family", "Arial")
+          .attr("dy", this.attr.nodeSize + 'px')
+          .attr("font-family", "CentSchbook Mono BT")
           .attr('font-size', function (d, i) {
             if(d.letter == true){
               return '56px'
             }
-            return '24px'
+            return '0.5rem'
           })
           .attr('fill', function (d, i) {
             if(d.letter == true){
-              return '#fff'
+              return '#000'
             }
-            return '#fff'
+            return '#000'
           })
-          .attr("letter-spacing", '0.1em')
-          .text(function(d) { return d.frontmatter.title })
+          .text(function(d) { return d.title })
           .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
 
 
