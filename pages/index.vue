@@ -2,6 +2,7 @@
   <div>
     <graph />
     <section>
+      <p class="intro f-mono">Animals as Objects? is an online publication produced by the Museum für Naturkunde Berlin and Zoo-Berlin. Learn more about the unique connections between some of Berlin’s most beloved animals by viewing articles: Themes are large topics that contain many Stories, and Materials are focused explorations into these emergent connections.</p>
       <Cascade :articles="articles" />
       <text-button linkto="/articles">View All Articles</text-button>
     </section>
@@ -58,8 +59,16 @@ export default {
 }
 </script>
 
-<style>
+<style lang="less" scoped>
 body{
   background-color: #F3EEE9;
+}
+
+section{
+  background-color: @bg-2;
+}
+
+p.intro{
+  padding: @space-s;
 }
 </style>
