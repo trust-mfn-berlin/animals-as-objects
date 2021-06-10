@@ -209,21 +209,20 @@ export default {
 
         node.append("text")
           
-          .attr("dy", "15px")
-          .attr("font-family", "Arial")
+          .attr("dy", this.attr.nodeSize + 'px')
+          .attr("font-family", "CentSchbook Mono BT")
           .attr('font-size', function (d, i) {
             if(d.letter == true){
               return '56px'
             }
-            return '24px'
+            return '0.5rem'
           })
           .attr('fill', function (d, i) {
             if(d.letter == true){
-              return '#fff'
+              return '#000'
             }
-            return '#fff'
+            return '#000'
           })
-          .attr("letter-spacing", '0.1em')
           .text(function(d) { return d.title })
           .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
 
