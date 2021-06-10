@@ -28,7 +28,7 @@ export default {
   data () {
     return {
       attr : {
-        width: 340,
+        width: 470,
         height: 340,
         margin: {
           top: 0,
@@ -36,8 +36,9 @@ export default {
           left: 0,
           bottom: 0,
         },
-        nodeSize: 25,
-        labelSpacing: 0
+        nodeSize: 32,
+        labelSpacing: 4,
+        fontSize: '0.5rem'
       },
       nodes:[],
       links:[]
@@ -67,6 +68,11 @@ export default {
         }
         
       }
+
+      if(this.backlinks.length > 18){
+        this.attr.nodeSize = 20;
+        this.attr.fontSize = '0.4rem';
+      }
     },
     init(){
 
@@ -83,8 +89,8 @@ export default {
         .force("link", d3.forceLink(this.links).id(d => d.slug))
         .force("charge", d3.forceManyBody().strength(-600).distanceMin(1).distanceMax(500))
         .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2))
-        .force("radial", d3.forceRadial(200))
-        .force("collide", d3.forceCollide(50).strength(0.2))
+        .force("radial", d3.forceRadial(this.attr.width / 2))
+        .force("collide", d3.forceCollide(this.attr.nodeSize + 10).strength(0.2))
         
 
       let colorScale = d3.scaleOrdinal()
@@ -93,17 +99,19 @@ export default {
 
       const link = svg.append("g")
         .attr("stroke", "#000")
-        .attr("stroke-opacity", 0.6)
+        .attr("stroke-opacity", 1)
         .selectAll("line")
         .data(this.links)
         .join("line")
         .attr("stroke-width", '1');
 
       const node = svg.append("g")
+        .attr('class', 'nodeparent')
         .selectAll("rect")
         .data(this.nodes)
         .enter()
         .append('g')
+        .attr('class', 'node')
         .attr('id', function(d) {
           return d.slug
         })
@@ -116,7 +124,7 @@ export default {
           .attr("width", this.attr.nodeSize)
           .attr("height", this.attr.nodeSize)
           .attr("rx", function(d){ 
-            if(d.tao_type == 'material') return 15
+            if(d.tao_type == 'material') return that.attr.nodeSize
             if(d.tao_type == 'story') return 5
           })
           .attr('fill', function (d, i) {
@@ -127,13 +135,31 @@ export default {
           
           .attr("dy", this.attr.nodeSize + this.attr.labelSpacing + "px")
           .attr("font-family", "CentSchbook Mono BT")
-          .style("font-size", "0.5rem")
-          .attr("fill", "#000")
+          .style("font-size", this.attr.fontSize)
+          .attr("fill", "rgba(0,0,0,0.2)")
           .text(function(d) { return d.title })
           .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
 
           node.on('mouseover', function(event, d) {
-            link.attr('stroke-width', '2');
+            // text colour
+            d3.select(this).select('text')
+            .attr('fill', 'black');
+
+            // order / z-index
+            console.log(svg.selectAll('.nodeparent g'));
+            svg.selectAll('.nodeparent g').sort(function (a, b) { // select the parent and sort the path's
+              
+              if (a.slug != d.slug) {
+                // console.log(a.slug, 'back');
+                return -1; // a is not the hovered element, send "a" to the back
+              }
+              else {
+                // console.log(a.slug, 'forward');
+                return 1; // a is the hovered element, bring "a" to the front
+              }
+            });
+            
+            link.attr('stroke-width', '1');
             link.style('stroke', function(l) {
               if (d === l.source || d === l.target){
                 return "black";
@@ -152,6 +178,8 @@ export default {
           node.on('mouseout', function() {
             link.attr('stroke-width', '1');
             link.style('stroke', "#eee");
+            d3.select(this).select('text')
+            .attr('fill', 'rgba(0,0,0,0.2)')
           });
 
         
@@ -201,5 +229,13 @@ export default {
   }
 }
 </script>
-<style scoped>
+<style lang="less" scoped>
+#d3-backlinks{
+  height: 340px;
+}
+
+::v-deep g.node{
+  cursor: pointer;
+}
+
 </style>
