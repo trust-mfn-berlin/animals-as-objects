@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1623322485117
+updated: 1623323462490
 created: 1618326133707
 ---
 
@@ -27,20 +27,31 @@ See [[templates.story]]
 
 ## Style notes
 
+### Numbers and Dates
+
 * Dates of life only in material.person, not everywhere
-* For every document where you care about what's written in it, there should be a material.document
-* Numbers are written as 165.000 with a dot
+* Large numbers are written as 63, 7.478, 165.000 with a dot, except for zero through twelve (null bis zwölf), which are spelled out as a word
+* 19th century, 19. Jahrhundert
 * Dates in the text are 12 December 1967 in EN, but 12. Dezember 1967 auf DE
 * Full dates in footnotes are 30.07.1985
-* Terminology: Zweiter Weltkrieg, Second World War
+
+### Grammar and Style
+
 * Use Oxford comma
-* Use the longer dashes with spaces around it in texts – like this.
+* Use the longer dashes with spaces around it in texts – like this. Not this one: -
 * Only use "these quotation marks" in both DE and EN, not „these quotation marks”
 * Always leave a blank line above and below a bullet point list
 * Footnotes come after the "." at the end of a sentence but before the "," if in the middle of a sentence
 * Titles of publications, newspapers etc. are in _cursive_, so if used in a caption: _In an image caption, a name of a newspaper, for example_ Newspaper title, _is the only thing not in cursive_
 
-## Footnotes: Suggestion of a modified "Chicago Manual, 17th edition (note)"
+### Structure and Terminology
+
+* For every document where you care about what's written in it, there should be a material.document
+* Terminology: Zweiter Weltkrieg, Second World War
+* When including a link to a material or theme or story, either you use the exact word, or an [[Alternative Title|material.NSB]]. The Alternative Title should never be "here" or "in a different article", it should always be very close to the original title.
+* Alternatively, you can use: ..., for more on this topic, see [[Alternative Title|material.NSB]]. Auf deutsch: ..., siehe auch [[Alternative Title|material.NSB]]. Internal backlinks have a special design, so they stand out nicely.
+
+## Footnotes: Modified "Chicago Manual, 17th edition (note)"
 
 ### Monography
 Grzimek, Bernhard. _Flug ins Schimpansenland. Reise durch ein Stück Afrika von heute._ Stuttgart: Kosmos 1955. [pages = : 98]
