@@ -23,13 +23,8 @@
       </ol>
     </section>
     <section id="section-backlinks" v-if="article.backlinks.length > 0">
-      <h3 class="f-mono subheading">Pages that link to {{article.title}}</h3>  
+      <h3 class="f-mono subheading">Pages that link to {{article.title}}</h3>
       <graph-backlinks  :article="{slug: article.slug, title: article.title, tao_type: article.tao_type}" :backlinks="article.backlinks"/>
-      <!-- <ol>
-        <li v-for="link in article.backlinks" :key="link.id">
-          <nuxt-link :to="'/'+link">{{link}}</nuxt-link>
-        </li>
-      </ol> -->
     </section>
     <section id="section-routes" v-if="matchedRoutes.length > 0">
       <h3 class="f-mono subheading">This page appears in these Curated Routes</h3>  
@@ -158,6 +153,22 @@ aside{
 
     h3{
       margin-bottom: 1rem;
+    }
+
+    &#section-backlinks{
+      position: relative;
+      h3{
+        // position:absolute;
+        // background-color: rgba(255,255,0,0.1);
+        // box-shadow: 0px 5px 5px red;
+        // backdrop-filter: blur(5px);
+        // top:0;
+        // left:0;
+        padding: @space-m @space-m @space-s @space-m;
+        margin: 0;
+      }
+      background-color: transparent;
+      padding: 0;
     }
   }
 
