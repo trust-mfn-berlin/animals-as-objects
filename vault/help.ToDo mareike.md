@@ -2,7 +2,9 @@
 id: 2d11d41b-705d-4114-81a8-4638b238be3c
 title: ToDo mareike 
 desc: ''
-updated: 1619624121375
+updated: 1621596200556
 created: 1619622895180
 ---
 
+@clemens: schau mal story.domestic und story.landwirtschaft rein
+- [x] done

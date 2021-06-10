@@ -1,0 +1,77 @@
+.f-serif{
+  font-family: @f-serif;
+}
+
+.f-mono{
+  font-family: @f-mono;
+}
+
+h1{
+  font-size: @fs-xl;
+}
+
+h2{
+  font-size: @fs-l;
+}
+
+p{
+  margin-bottom: 1rem;
+}
+
+blockquote{
+  .quote();
+  padding-left: 1rem;
+  border-left: 1px solid @black;
+  .f-mono();
+}
+
+.text-links{
+  a{
+    word-break: break-all;
+    border-bottom: 1px solid var(--current-scheme-bg);
+    &:hover{
+      border-bottom: 1px solid transparent;
+    }
+  }
+  // styling for external links
+  a[href^="https://"], a[href^="http://"], a[href^="www."]{
+    // color: blue;
+    &::after{
+      content:'↗'
+    }
+  }
+}
+
+.quote{
+  font-size: @fs-s;
+  line-height: @lh-long;
+}
+
+.caption{
+  font-size: @fs-xxs;
+  line-height: @lh-short;
+}
+
+.subheading{
+  font-size: @fs-s;
+  line-height: @lh-short;
+}
+
+.description{
+  font-size: @fs-xs;
+  line-height: @lh-long;
+}
+
+figcaption{
+  font-family: @f-mono;
+  // line-height: @lh-default !important;
+  .caption();
+  .text-links();
+  p{
+    // line-height: @lh-default !important;
+  }
+}
+
+em{
+  font-style: italic;
+}

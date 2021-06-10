@@ -2,7 +2,7 @@
 id: 1ee4d401-6620-4095-ac94-68837a291b1d
 title: From Dressage to Medical Training
 desc: Put a description of this note here...
-updated: 1619183881767
+updated: 1621006755427
 created: 1619183095486
 title_de: Von der Dressur zum medizinischen Training
 desc_de: Put a DE description of this note here...
@@ -21,9 +21,10 @@ English content goes here.
 
 Im September 2000 kam der asiatische Elefantenbulle "Victor" aus dem Zoo von Ramat Gan in Israel nach Berlin. Der Plan war, hier Nachwuchs zu zeugen. Nachdem zwei Jungtiere starben gebar "Pang Pha" schließlich das Kalb "Anchali". Diese lebt seitdem mit ihrer Mutter und den Tanten »Drumbo« und »Carla« auf der Anlage für die Elefantenkühe und -Kälber. Wie in den meisten Zoos weltweit wird auch in Berlin der Elefantenbulle nicht zusammen mit den Herden der Kühe und Jungtiere gehalten. Er bekommt aber täglich Besuch von einer Kuh. Hinzu kommt, dass im Zoo die Pfleger nicht auf die Bullenanlagen und in die Innengehege der Bullen gehen. "Geschützter Kontakt" wird diese Haltungsform genannt. Bei dieser haben die Pfleger keinen direkten körperlichenUmgang mit den männlichen Tieren, immer ist eine sichere Barriere zwischen Mensch und Tier. Dennoch ist es nötig, dass die Elefanten bestimmte Verhaltensweisen ausführen und einige Kommandos befolgen. Diese werden – nicht nur bei Elefanten, sondern auch bei einer großen Anzahl weiterer Zootiere – über ein besonderes Training erlernt, bei dem man den Tieren beibringt, auf besondere Kommandos mit bestimmten Handlungsmustern zu reagieren. Diese Konditionierung dient pflegerischen und medizinischen Zwecken und erlaubt es beispielsweise den Tieren mitzuteilen, wann sie sich in den Außenkäfig bewegen sollen oder wann sie ihr Ohr oder ihren Fuß an die Barriere halten sollen, damit tierärztliche Kontrollen oder auch Fußpflege erfolgen können. Nebenbei bereichert dieses »Medical-Training« den Tieren den Alltag. Eine Dressur zu reinen Unterhaltungszwecken, wie früher im Zoo mit den Elefanten und auch den Löwen auf der Freianlage, erfolgt nicht. In den 1930er Jahren gab es im Zoo regelrechte Dressurvorführungen mit 13 Löwen durch den Dompteur Kaden.  
 
-((Abb 275: Elefantendressur, 1936. (AZGB) )) 
+![desc](/images/cmw/Dressur_kaden_1940_Heck.jpg)
+_Löwendressur durch Dompteur Kaden, 1940. (AZGB)_
 
-((Abb 276: Löwendressur durch Dompteur Kaden, 1938. (AZGB) )) 
+((AbbElefantendressur, 1936. (AZGB) )) 
 
 Eine für die Tiere sehr schöne Bereicherung des Alltags – »Enrichment Training« - ist das mit den öffentlichen Fütterungen verbundene Tiertraining. Es bietet aber auch den Besucherinnen und Besuchern ein schönes Erlebnis, wie man tagtäglich besonders an der großzügigen Seelöwen-Außenanlage beobachten kann. Diese Außenanlage schließt sich an das Pinguinhaus an, das zur selben Zeit errichtet wurde. Schon Anfang der 1990er Jahre hatte es Überlegungen gegeben, ein neues Pinguinhaus zu bauen, da das alte zwar eine erfolgreiche Zucht beheimatete aber langsam zu eng wurde. Und auch in der Robbenanlage wünschten sich Zoo und Besucher großzügigere Becken. 1957 und 1959 hatten die Becken hellere Kacheln erhalten, damit sich die tauchenden Tiere stärker vom Beckenboden abhoben und so besser beobachtet werden konnten. Anfang der 1970er Jahre wurde an der Nordseite ein zusätzliches Becken für Kegelrobben und Südafrikanische Seebären angelegt. Hier sollte nun ein weiteres Großprojekt vorangetrieben werden.  
 
@@ -40,3 +41,20 @@ Alle im Berliner Zoo gehaltenen Seelöwen können erlernten Kommandos ausführen
 Das mit den Seelöwen und anderen Tieren zur verbesserten Tierhaltung absolvierte Training basiert auf einer Abwandlung der durch den Psychologen B.F. Skinner populär gemachten Methode der operanten Konditionierung und ist international anerkannt. Zeigt das Tier auf ein bestimmtes Kommando hin ein erwünschtes Verhalten, wird es mit einem beliebten Leckerli belohnt. Mit Bestrafungen arbeitet man im Zoo dagegen nie. Wichtig ist vielmehr, dass in dem Moment, in dem das Tier das gewünschte Verhalten zeigt, ein akustisches Signal zur Verstärkung gegeben wird. Dieses als »Brücke« bezeichnete Signal wird so von dem Tier mit der Handlung verknüpft und erleichtert das Lernen. Ein gutes Beispiel für die erfolgreiche Anwendung dieses Trainings im Zoo ist das »Klickertraining« bei der Bonobo-Gruppe. Diese äußerst intelligenten Menschenaffen werden seit langer Zeit trainiert und können bis zu 30 Übungen absolvieren. Die »Brücke« bildet in ihrem Fall ein bestimmtes Klickgeräusch, dass die Pfleger einsetzen. Mit Hilfe solcher Übungen lassen sich die Tiere durch das Gitter einer Tür nicht nur in aller Ruhe tiermedizinisch untersuchen und behandeln, sondern sogar stressfrei impfen. Auch der Elefantenbulle »Victor« wurde von Anfang an in diesem Sinne trainiert. Und wie viele Tiere, fordert er jeden Morgen sein Training richtiggehend ein – er möchte es durchführen, was den möglichst ungefährlichen Umgang zwischen ihm und den Pflegern insgesamt erheblich erleichtert. 
 
 Natürlich sind die konkreten Erfolge eines solchen Trainings nach dem Schema der klassischen Konditionierung von der Intelligenz der jeweiligen Tierart abhängig. Aber auch bei Straußen, Giraffen und Malaienbären kommt es beispielsweise zum Einsatz. Die Lippenbärin »Kaveri« lässt sich in einer Übung den Bauch rasieren und eine Ultraschalluntersuchung durchführen, was bei Trächtigkeit bereits eine große Hilfe war. Rechtzeitig konnten Tierärzte und Pfleger sie zum eigenen Schutz von dem Männchen trennen. Sogar im Aquarium funktioniert diese Trainingsmethode recht gut. Viele Gäste sind erstaunt, dass hier die Gaviale bei den kommentierten Fütterungen tatsächlich auf ihre Namen Asha und Uma hören und von den Pflegern ganz »persönlich«, wie manch ein Haustier, angesprochen werden können. 
+
+
+Kawata, Ken. 2008. „Zoo Animal Feeding: A Natural History Viewpoint“. Der Zoologische Garten. Neue Folge 78: 17–42.
+
+![desc](/images/cmw/Zooplakat_Schimpanse_Missi_1909.jpg)
+
+![desc](/images/cmw/Elefant_Dressur.jpg)
+Etwa 1930 (AZGB)
+
+![des](/images/cmw/Schimpansin_Lore_Fahrrad.jpg)
+
+![desc](/images/cmw/Schimpanse_Suse.jpg)
+
+![Fünf Kinder reiten auf dem Rücken einer jungen asiatischen Elefantenkuh](/images/cmw/Shanti_Kinder_1953_S_3_91.jpg)
+(AZGB, Schenkung durch Hannelore Heinzel)
+
+![Drei asiatische Elefantenkühe bei der Dressur](/images/cmw/Elefantendressur.jpg)

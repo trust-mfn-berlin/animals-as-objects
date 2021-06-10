@@ -2,7 +2,7 @@
 id: 384f2259-ec40-482d-bacc-c0876ae280aa
 title: NSB
 desc: Put a description of this note here...
-updated: 1619187736766
+updated: 1620218784829
 created: 1619187736766
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-English content goes here.
+[[theme.planetary data]], [[story.micropaleontology]], [[material.databases]], [[material.planetary sciences]], [[material.big data]], [[material.big science]], [[material.biostratigraphy]], [[story.cycladophora davisiana]]
 
 :::DE:::
 

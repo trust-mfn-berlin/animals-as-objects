@@ -3,23 +3,28 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "node scripts/copy-images.js && node scripts/link-map.js && nuxt",
+    "dev": "node scripts/copy-audio.js && node scripts/copy-images.js && node scripts/link-map.js && nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "node scripts/copy-images.js && node scripts/link-map.js && nuxt generate",
+    "generate": "node scripts/copy-audio.js && node scripts/copy-images.js && node scripts/link-map.js && nuxt generate",
     "test": "node link-map.js",
-    "local": "node scripts/copy-images.js && node scripts/link-map.js && nuxt generate && npm run start"
+    "local": "node scripts/copy-audio.js && node scripts/copy-images.js && node scripts/link-map.js && nuxt generate && npm run start"
   },
   "dependencies": {
     "@nuxt/content": "^1.14.0",
     "core-js": "^3.9.1",
     "d3": "^6.7.0",
-    "mdast-util-wiki-link": "0.0.1",
-    "micromark-extension-wiki-link": "0.0.4",
     "nuxt": "^2.15.3"
   },
   "devDependencies": {
+    "@nuxt/image": "^0.4.13",
+    "@nuxtjs/style-resources": "^1.0.0",
     "fs-extra": "^9.1.0",
-    "markdown-yaml-metadata-parser": "^3.0.0"
+    "jimp": "^0.16.1",
+    "jpeg-js": "^0.4.3",
+    "less": "^4.1.1",
+    "less-loader": "^7.1.0",
+    "markdown-yaml-metadata-parser": "^3.0.0",
+    "normalize.css": "^8.0.1"
   }
 }

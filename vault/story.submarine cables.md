@@ -2,7 +2,7 @@
 id: ea6369d2-4ccd-4735-8a75-2227e466d1f8
 title: Submarine Cables
 desc: Put a description of this note here...
-updated: 1618503081815
+updated: 1620218266332
 created: 1618503070184
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-English content goes here.
+[[story.cycladophora davisiana]], [[material.werner siemens]], [[material.gutta-percha]], [[theme.planetary data]]
 
 :::DE:::
 

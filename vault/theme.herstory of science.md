@@ -2,7 +2,7 @@
 id: b46a0be5-3865-42c6-812f-8f1c03e16cda
 title: Herstory of Science
 desc: Put a description of this note here...
-updated: 1619538411882
+updated: 1621514197580
 created: 1618737991503
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -14,6 +14,8 @@ published: false
 ---
 
 :::EN:::
+
+<!-- Hey Filo, I wrote about Magdalena and Katharina Heinroth. Magda is totally forgotten. What about you backlink [[material.Magdalena Heinroth]] and [[material.Katharina Heinroth]] somewhere?>
 
 Intro explaining the term and its use in current media to highlight and address the patriarchal exclusion of women's contributions to scientific history.
 

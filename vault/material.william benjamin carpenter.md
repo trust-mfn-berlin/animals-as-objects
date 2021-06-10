@@ -2,7 +2,7 @@
 id: 352a474c-152e-490f-a2e9-18efd0726be0
 title: William Benjamin Carpenter
 desc: Put a description of this note here...
-updated: 1619107096814
+updated: 1620054674108
 created: 1619107096814
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-English content goes here.
+[[material.foraminifera]], [[material.hms challenger]]
 
 :::DE:::
 

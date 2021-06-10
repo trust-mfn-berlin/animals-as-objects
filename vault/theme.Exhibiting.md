@@ -2,7 +2,7 @@
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 title: Exhibiting
 desc: Put a description of this note here...
-updated: 1619729358616
+updated: 1621609663784
 created: 1618572893774
 title_de: Tiere ausstellen
 desc_de: Wie und warum werden Tiere in Zoos und Museen ausgestellt?
@@ -19,11 +19,19 @@ English content goes here.
 
 :::DE:::
 
-# Tiere ausstellen in Berlin
+## Zoos und Museen sind Tiersammlungen
+
+Zoos, Tierparks, Aquarien, Naturkundemuseen - sie alle sind naturkundliche Sammlungen. Sie enthalten in eingezäunten oder von Gräben umschlossenen Gehegen,  Tierhäusern oder in Vitrinen und auf Podesten ausgestellte lebende Tiere aber auch 'ausgestopfte', in Alkohol aufbewahrte oder nach den neuesten Erkenntnissen der Präparierkunst konservierte Tierhäute, Knochen, Felle, Schädel oder auch Organe von tierischen Organismen.
+
+**Das kunstvoll präparierte Schaupräparat, das in den Dioramen der Naturkundemuseen wie lebensecht dargestellte Tier, ist nicht die Regel. Zwar nehmen die Besucherinnen und Besucher dieses am meisten wahr, hinter den Kulissen der Museen aber befinden sich die oft um ein Vielfaches größeren 'wissenschaftlichen Sammlungen' der Häuser.** In diesen finden unzählige Objekte, die Forscher\*innen aus aller Welt als Quellen oder Vergleichsmaterial ihrer wissenschaftlichen Arbeiten dienen. Mal sind es vollständige Skelette, mal sind es gar nur fossile Knochenteile. Die wissenschaftlichen Sammlungen des Naturkundemuseums umfassten 2021 mehr als 30 Millionen Objekte. Davon bekommen die Besucherinnen und Besucher selbstverständlich nur einen kleinen Teil in den öffentlich zugänglichen Räumen des Museums zu sehen.
+**Bei Zoos ist die Trennung in unterschiedliche Sammlungen nicht vorhanden.** Wohl aber gibt es Räumlichkeiten, in denen Tiere aus unterschiedlichen Gründen isoliert werden können, sei es, weil sie tragend sind oder gebären, oder weil sie krank sind und von den Artgenossen isoliert werden. Im Tierpark Berlin lebte der alte China-Alligator "Mao" die letzten Jahre seines langen Lebens von den Besuchern und kampflustigen jüngeren Artgenossen unbehelligt in einem Becken hinter den Kulissen. 
+
+![Zwei Männer begutachten einen jungen Alligator](/images/cmw/Dathe_Petzold_Mao.jpg)
+*China-Alligator "Mao" wird nach seiner Ankunft im Mai 1957 durch Tierparkdirektor Heinrich Dathe und den Oberassistenten untersucht. (AZGB)*
+
+Manche Tierarten werden bei zu kaltem Wetter in den Tierhäusern eingesperrt oder aber haben die Möglichkeit sich selbst auszusuchen, wo sie sich aufhalten wollen. In der Regel aber sind die allermeisten Zootiere für die Besucher sichtbar, wenn sie sich nicht entscheiden, sich zu verstecken.
 
 ## Taxonomie oder Geozoo?
-
-Das Berliner Naturkundemuseum [[story.Short History MfN]] und der Zoologische Garten Berlin [[story.Short History Zoo]]
 
 ### Das Diorama und die Familiengruppe
 
@@ -45,20 +53,28 @@ Hier gab es Überschneidungen mit den traditionellen Zoos. Besucher\*innen des B
 
 [[story.Enclosure development]]
 
-## Starobjekte
-
 ### Quagga
+
+![desc](/images/cmw/Quagga_1873.jpg)
+
 
 ### Dinosauerier
 
-### Restaurants und Konzerte
+### Restaurants und Konzerte und Sonderschauen
 
+Bereits im Eröffnungsjahr beklagten sich Besucher\*innen darüber, dass es keine Restauration im Zoo gab. Der Gründungsdirektor Martin Lichtenstein beruhigte die Kritiker in einem Brief an die XXXXX Zeitung, dass sich Restaurationen im Bau befänden. Nun lag der Zoo damals noch weit vor den Toren der Stadt und kamen die Gäste möglicherweise durstig an, und dennoch zeigt diese Episode bereits, dass die Berliner\*innen mehr als nur Tiere erwarteten.
 
+<!-- hier die Zeitung eintragen -->
 
-### "Bobby"
+Von Anfang an gehörten Restaurationen, die Möglichkeit, sich zu treffen und Geselligkeit dazu.
 
-### "Knut"
+- Lästerallee
+- Große Restauration
+- Champagner vs. Bier
 
+## Die Stars: "Bobby", "Knut" oder "Viktor"
+
+[[story.Bobby life]]
 [[story.Knut]]
 
 ## Kinderzoo
@@ -69,7 +85,14 @@ Hier gab es Überschneidungen mit den traditionellen Zoos. Besucher\*innen des B
 
 ## Konkurrenz in einer Stadt - Zoo und Tierpark buhlen um Gäste
 
-## Enrichment Training
+Muss-Arten
+
+## Von der Dresssur zum Enrichment Training
+
+![desc](/images/cmw/Elefant_Dressur.jpg)
+Etwa 1930 (AZGB)
+
+![Drei asiatische Elefantenkühe bei der Dressur](/images/cmw/Elefantendressur.jpg)
 
 ## Museen als Zentren der Diversitätsbildung
 

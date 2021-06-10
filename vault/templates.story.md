@@ -2,7 +2,7 @@
 id: 98db0135-2087-4fdd-9f42-a14fcb81174e
 title: Story
 desc: 'Put a description of this note here...'
-updated: 1619706253256
+updated: 1622033316567
 created: 1617975606425
 title_de: Add a german title here
 desc_de: 'Put a DE description of this note here...'
@@ -15,21 +15,36 @@ published: false
 
 :::EN:::
 
-Like material, here you have the text body. With backlinks: [[theme.test]].
-And footnotes [^footnote1].
+Stories are like materials and themes. They also get backlinks like [[theme.test]]. Themes have 2000 - 4000 words max.
+And footnotes [^footnote1]. The foonote-words can be different each time, or refer to a paragraph and be numbered conscutively.
 And **bold** and _italics_.
-But as stories are longer, you might need:
 
-##Subheadings
-Where you can say more.
+## Subheadings
 
-![image description](/images/example/MfN-HBSB-Nr97.png)
+Where more can be said.
+
+They can also include:
+>Longer quotes from other sources, like this one...
+
+![image description for accessibility](/images/example/MfN-HBSB-Nr97.png)
 
 _Image caption (less than 200 characters) and source._
 
-[^footnote1]: here it links.
+<!-- Notes for us -->
 
-<!-- And this allows us to leave notes to the others that are not visible in the preview. -->
+### Subsubheadings are the lowest level
+
+More text here.
+
+## Another subheading
+
+More text here. If you need to backlink a word that is different from the actual title, use [[themes|templates.theme]]. It should never be a word like "here", used like a normal hyperlink. It should always be a close variation of the actual title. 
+
+If you need to reference another text at the end of a sentence, it looks like this: Here is a sentence, see [[templates.story]].
+Hier ist ein Satz, siehe auch [[templates.story]].
+
+[^footnote1]: here REF: Surname, Name. _Book title_. Place: Press, YYYY
+Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp.
 
 :::DE:::
 

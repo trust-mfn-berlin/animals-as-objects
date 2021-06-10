@@ -5,4 +5,7 @@ build
 dist
 .DS_Store
 
+/temp/*
+
 /static/images/*
+/static/audio/*

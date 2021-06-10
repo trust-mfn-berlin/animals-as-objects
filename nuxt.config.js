@@ -18,7 +18,8 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' }
+      { hid: 'description', name: 'description', content: '' },
+      { name: 'robots', content: 'noindex' } //Just Temporarily Don't Allow SEO
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
@@ -27,17 +28,39 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+    { src: 'normalize.css' }, 
+    '@/assets/less/global.less'
   ],
+
+  styleResources: {
+    less: [
+      './assets/less/media-queries.less',
+      './assets/less/variables.less',
+      './assets/less/animations.less',
+      './assets/less/transitions.less',
+      './assets/less/z-index.less',
+      './assets/less/typography.less'
+    ],
+  },
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    '~/plugins/scrolltop-animate-mixin.js'
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
-  components: true,
+  components: {
+    dirs: [
+      '~/components',
+      '~/components/base',
+      '~/components/articles'
+    ]
+  },
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
+    '@nuxtjs/style-resources',
+    '@nuxt/image'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -45,24 +68,34 @@ export default {
     '@nuxt/content'
   ],
 
+  image: {
+    // Nuxt Image Options
+    // https://image.nuxtjs.org/components/nuxt-img
+  },
+
   content: {
     liveEdit: false,
     dir: 'vault',
     markdown:{
       remarkPlugins: [
-        ['~plugins/remark-wiki-link.js', {
-        wikiLinkClassName:'dendron-link',
-        hrefTemplate: (permalink) => `/${permalink}`,
-        pageResolver: (name) => {
-          return [name]
-        }
-        }]
+
       ],
+      rehypePlugins: [
+        ['~plugins/img-to-nuxt-img.js',{
+          width:"",
+          fit:"",
+          quality:"90"
+        }]
+      ]
     }
   },
 
   hooks: {
     'content:file:beforeParse': (file) => {
+
+      const pathPartial = file.path.replace(__dirname, '').slice(0,15)
+      if (pathPartial == '/vault/netlify/'){ return }
+
       if (file.extension === '.md') {
         // Before parsing markdown, modify raw file data here:
 
@@ -71,12 +104,12 @@ export default {
         // console.log(frontMatter);
 
         // Second, add vue component markup for wiki links
-        console.log('adding wikilink components...');
+        // console.log('adding wikilink components...');
         file.data = file.data.replace(wikiLinkRegex, wikiLinkReplacer);
 
         
         // Third, use Regex to split file into multiple languages separated by triple colons :::EN::: ... :::DE::: 
-        console.log('splitting languages...')
+        // console.log('splitting languages...')
         const langSplit = file.data.match(languageSplitterRegex)
 
         // Only if the file has these separators, join default language version (English) back together with frontmatter.
@@ -89,18 +122,24 @@ export default {
 
     },
     'content:file:beforeInsert': async (document, database) => {
+
+      if(document.dir == '/netlify'){return}
+
       if(languageSplitterBuffer){
-        console.log('combining languages...')
+        // console.log('combining languages...')
         document.body_de = await database.markdown.toJSON(languageSplitterBuffer);
       }
 
       // console.log(document)
+      if(document.id == '2df514da-8df2-4278-8534-28e1034c7adf'){
+        // console.log(document.body)
+      }
 
       for (let i = 0; i < backlinks.length; i++) {
         const page = backlinks[i];
 
         if(document.slug == page.slug){
-          console.log('match');
+          // console.log('match');
           document.backlinks = page.backlinks;
           document.forwardlinks = page.forwardlinks;
           
@@ -132,7 +171,10 @@ export default {
       let routesBilingual = [...routes, ...routes_de];
       // console.log(routesBilingual);
       return routesBilingual
-    }
+    },
+    exclude: [
+      /^\/admin/ // path starts with /admin
+    ]
   },
 
   vue: {

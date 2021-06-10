@@ -3,26 +3,25 @@
     <h2>{{page.title_de}}</h2>
     <nuxt-content :document="page.body_de" />
     <template v-if="page.backlinks">
-    <ul v-if="page.backlinks.length >= 1" class='backlinks'>
+    <!-- <ul v-if="page.backlinks.length >= 1" class='backlinks'>
       <li><small>Pages that link to this page</small></li>
       <li class='backlink' v-for="(link, index) in page.backlinks" :key="index">
         <backlink :to="link"> </backlink>
       </li>
-    </ul>
+    </ul> -->
     </template>
   </div>
 </template>
 
 <script>
-import wikilink from '@/components/wikilink'
-import backlink from '@/components/backlink';
+import wikilink from '@/components/base/wikilink'
 export default {
   name:'page',
-  components:[
-    backlink,
+  components:{
     wikilink
-  ],
-  computed:{
+  },
+  created(){
+    this.$store.commit('setSiteLanguage', 'de')
   },
   async asyncData({ $content, params, error, payload }) {
     var page = {};
@@ -46,6 +45,13 @@ export default {
       page,
     };
     }
+  },
+  head() {
+    return {
+      htmlAttrs: {
+        lang: 'de'
+      },
+    };
   },
 };
 </script>

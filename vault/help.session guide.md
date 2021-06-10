@@ -14,11 +14,11 @@ Here is the process you should complete every time you start and finish a work s
 
 2. Pull new changes from the remote repository. Make sure that you are in the `content-creation` branch.
 
-![Sync](images/help/interface/sync.png)
+![Sync](/images/help/interface/sync.png)
 
 3. Reload the index by pressing `Ctrl + Shift + P` on Windows or `Cmd + Shift + P` on Mac and typing `Dendron: Reload Index` and hit `Enter`
 
-![Reload index](images/help/interface/reload.png)
+![Reload index](/images/help/interface/reload.png)
 
 You are now ready to work with the latest files!
 
@@ -28,15 +28,15 @@ You are now ready to work with the latest files!
 
 1. Open the Source Control panel
 
-![Version control](images/help/interface/version-control-icon.png)
+![Version control](/images/help/interface/version-control-icon.png)
 
 2. Commit your changes with a short message in the Source Control tab.
 
-![Commit changes](images/help/interface/commit-new-changes.png)
+![Commit changes](/images/help/interface/commit-new-changes.png)
 
 3. Push your changes by clicking the sync button.
 
-![Push changes](images/help/interface/push.png)
+![Push changes](/images/help/interface/push.png)
 
 Now everyone can see the work you've done!
 

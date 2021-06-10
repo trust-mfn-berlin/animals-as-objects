@@ -1,0 +1,116 @@
+<template>
+  <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual" @mouseover.native="onMouseover" @mouseleave.native="onMouseleave">
+    <img :src="'https://loremflickr.com/64/64/butterfly?random=' + article.id" alt="" />
+    <span class="text" :style="{border:'1px solid var(--scheme-'+schemeNumber+'-bg)', backgroundColor:'var(--scheme-'+schemeNumber+'-bg)', color:'var(--scheme-'+schemeNumber+'-fg)'}">
+      <span class="f-serif subheading" v-html="alias ? alias : titleBilingual"></span>
+    </span>
+  </nuxt-link>
+</template>
+
+<script>
+// can we lazy load thumbnails? or fade in?
+
+export default {
+  name:"inline",
+  props:{
+    article:{
+      type:Object,
+      required: true
+    },
+    alias:{
+      type:String,
+      required: false
+    }
+  },
+  methods:{
+    onMouseover(){
+      console.log('mouseenter')
+    },
+    onMouseleave(){
+
+    }
+  },
+  computed:{
+    urlBilingual(){
+      if(this.$store.getters.siteLanguage == 'de'){
+        return '/de/' + this.article.slug
+      } else {
+        return '/' + this.article.slug
+      }
+    },
+    titleBilingual(){
+      if(this.$store.getters.siteLanguage == 'de' && this.article.title_de){
+        return this.article.title_de
+      } else {
+        return this.article.title
+      }
+    },
+    schemeNumber(){
+      return Math.floor(Math.random() * 15)
+    }
+  
+  }
+}
+</script>
+
+<style lang="less" scoped>
+a{
+  display: flex;
+  .animatemedium(transform);
+  img{
+    height: 1.33333rem;
+    width: 1.33333rem;
+  }
+  
+  .text{
+    background-color: @white;
+    height: 1.33333rem;
+    padding:0.37rem 0.4rem 0;
+    box-shadow: @shadow-small;
+    margin-left: @space-xs;
+    display: inline-block;
+    line-height: unset;
+
+    .subheading{
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      max-width: 15rem;
+      overflow:hidden;
+      display: block;
+    }
+
+    .animatefast(all);
+  }
+
+  &:hover{
+    // transform: translateY(-4px);
+    .text{
+      box-shadow: @shadow-small-hover;
+      background-color: @white !important;
+      color: @black !important;
+    }
+  }
+
+  &.theme{
+
+  }
+
+  &.material{
+    img{
+      border-radius: @radius-max;
+    }
+    .text{
+      border-radius: @radius-max;
+    }
+  }
+
+  &.story{
+    img{
+      border-radius: @radius-m;
+    }
+    .text{
+      border-radius: @radius-m;
+    }
+  }
+}
+</style>

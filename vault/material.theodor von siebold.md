@@ -2,7 +2,7 @@
 id: aa5e3ff3-197b-4980-9a82-fb3fefa42bf8
 title: Theodor Von Siebold
 desc: Put a description of this note here...
-updated: 1619025913974
+updated: 1620055270611
 created: 1619025913974
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-English content goes here.
+[[story.cell theory]], [[theme.microbial worlds]], [[story.microscopy]], [[material.microscopic preparations]]
 
 :::DE:::
 

@@ -2,7 +2,7 @@
 id: 6f49a4c5-3f39-4dd3-aac3-4b0a9564d505
 title: Genetics
 desc: Put a description of this note here...
-updated: 1619624145678
+updated: 1620055516421
 created: 1619624145678
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -13,4 +13,4 @@ license: CC BY-SA
 published: false
 ---
 
-genetics
+[[material.modern evolutionary synthesis]], [[material.charles darwin]], [[theme.microbial worlds]]
