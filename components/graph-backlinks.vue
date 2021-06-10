@@ -147,6 +147,7 @@ export default {
           if(d.tao_type == 'story') return 5
         })
         .attr('fill', function (d, i) {
+          if(d.slug == that.article.slug) return 'var(--current-scheme-bg)'
           return colorScale(i)
         })
 
@@ -156,7 +157,11 @@ export default {
         .attr("font-family", "CentSchbook Mono BT")
         .style("font-size", this.attr.fontSize)
         .attr("fill", "rgba(0,0,0,0.2)")
-        .text(function(d) { return d.title })
+        .text(function(d) { 
+          // if(d.slug == that.article.slug) return null
+          if(that.$store.getters.siteLanguage == 'en') return d.title 
+          else return d.title_de
+        })
         .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
 
         node.on('mouseover', function(event, d) {
@@ -187,7 +192,8 @@ export default {
         });
 
         node.on('click', function(event, d){
-          that.navigate(event, d)
+          if(d.slug == that.article.slug) return
+          else that.navigate(event, d)
         })
 
         // Set the stroke width back to normal when mouse leaves the node.
@@ -207,23 +213,33 @@ export default {
         .attr("clip-path", function(d){
           if(d.tao_type == 'story') return "url(#story-clip)"
           if(d.tao_type == 'material') return "url(#material-clip)"
-          })
+        })
+        .style("opacity", function(d){
+          if(d.slug == that.article.slug) return '0'
+        })
 
         
 
 
       simulation.on("tick", () => {
+        node
+          
+          .attr('transform', function (d) { 
+            if(d.slug == that.article.slug) {
+              d.x = that.attr.width/2;
+              d.y = that.attr.height/2 - 20;
+              return 'translate(' + d.x + ',' + d.y + ')' 
+            }
+            return 'translate(' + d.x + ',' + d.y + ')' 
+          });
+          
         link
           .attr("x1", d => d.source.x)
           .attr("y1", d => d.source.y)
           .attr("x2", d => d.target.x)
           .attr("y2", d => d.target.y);
 
-        node
-          .attr('transform', function (d) { 
-            return 'translate(' + d.x + ',' + d.y + ')' 
-          });
-          
+        
           
       });
     },
