@@ -17,9 +17,9 @@
 <script>
 import * as d3 from 'd3'
 
-import datacollection from '~/temp/graphdata.json';
+import featuredGraphData from '~/temp/graphdata.json';
 
-const graphData = datacollection[1];
+const graphData = featuredGraphData[0];
 
 export default {  
   data () {
@@ -198,11 +198,11 @@ export default {
           .attr('rx', function (d, i) {
             if(d.letter == true){
               return 25
-            } else if (d.frontmatter.tao_type == 'material'){
+            } else if (d.tao_type == 'material'){
               return 50
-            } else if (d.frontmatter.tao_type == 'story'){
+            } else if (d.tao_type == 'story'){
               return 20
-            } else if (d.frontmatter.tao_type == 'theme'){
+            } else if (d.tao_type == 'theme'){
               return 0
             }
           })
@@ -224,7 +224,7 @@ export default {
             return '#fff'
           })
           .attr("letter-spacing", '0.1em')
-          .text(function(d) { return d.frontmatter.title })
+          .text(function(d) { return d.title })
           .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
 
 

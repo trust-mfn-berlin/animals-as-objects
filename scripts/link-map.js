@@ -69,7 +69,7 @@ async function getContent(filePath, encoding = "utf-8") {
         
         // check for aliases
         if(flink.match(aliasSplitterRegex)){
-          console.log('ALIAS FOUND', flink.match(aliasSplitterRegex)[2]);
+          // console.log('ALIAS FOUND', flink.match(aliasSplitterRegex)[2]);
           forwardlinks[l] = flink.match(aliasSplitterRegex)[2]
         } else {
           forwardlinks[l] = flink.slice(2, -2);
@@ -109,7 +109,8 @@ async function getContent(filePath, encoding = "utf-8") {
       slug: dendronlinks[x].slug,
       title: dendronlinks[x].frontmatter.title,
       title_de: dendronlinks[x].frontmatter.title_de,
-      tao_type: dendronlinks[x].frontmatter.tao_type
+      tao_type: dendronlinks[x].frontmatter.tao_type,
+      cover_image: dendronlinks[x].frontmatter.cover_image
     };
 
     // Check if this page is linked to anything
@@ -130,13 +131,13 @@ async function getContent(filePath, encoding = "utf-8") {
             // console.log(compiledBacklinks[u].backlinks); 
             if(!compiledBacklinks[u].backlinks.includes(from)){
               // console.log('MATCH', 'from index', x, 'to index', u);
-              console.log('FROM', from.slug, '-> TO', forwardlink);
+              // console.log('FROM', from.slug, '-> TO', forwardlink);
               compiledBacklinks[u].backlinks.push(from);
               
               // this only links between articles that have been made, by using backlinks instead of forward links.
               graphLinks.push({source: from.slug, target: forwardlink });
             } else {
-              console.log('DUPE');
+              // console.log('DUPE');
             }
           
           }
@@ -144,7 +145,7 @@ async function getContent(filePath, encoding = "utf-8") {
         }
         
       }
-      console.log('-----------------------------------------------------------------------------------------------');
+      // console.log('-----------------------------------------------------------------------------------------------');
 
     }
     
@@ -165,22 +166,34 @@ async function getContent(filePath, encoding = "utf-8") {
     if(article.frontmatter.feature){
       
       // immediately add first node
-      nodes.push(article);
+      nodes.push({
+        slug: article.slug,
+        title: article.frontmatter.title,
+        title_de: article.frontmatter.title_de,
+        tao_type: article.frontmatter.tao_type,
+        cover_image: article.frontmatter.cover_image
+      });
 
       for (let f = 0; f < article.forwardlinks.length; f++) {
         const forwardlink = compiledBacklinks.find(entry => entry.slug == article.forwardlinks[f]);
-
+        // console.log(forwardlink);
         // immediately add primary links
         links.push({source: article.slug, target: forwardlink.slug, value:2});
         // add primary nodes
-        nodes.push(forwardlink);
+        nodes.push({
+          slug: forwardlink.slug,
+          title: forwardlink.frontmatter.title,
+          title_de: forwardlink.frontmatter.title_de,
+          tao_type: forwardlink.frontmatter.tao_type,
+          cover_image: forwardlink.frontmatter.cover_image
+        });
         
         // now we need to find secondary connections
         if(forwardlink.forwardlinks){
           for (let s = 0; s < forwardlink.forwardlinks.length; s++) {
             const ff = forwardlink.forwardlinks[s];
             if(nodes.find(entry => entry.slug == ff)){
-              console.log('secondary link found', ff);
+              // console.log('secondary link found', ff);
               // if(links.includes({source: forwardlink.slug, target: ff})) console.log('dupe link')
               links.push({source: forwardlink.slug, target: ff, value:1})
             }
@@ -189,13 +202,29 @@ async function getContent(filePath, encoding = "utf-8") {
 
 
       }
+
+
+      for (let b = 0; b < article.backlinks.length; b++) {
+        const backlink = article.backlinks[b];
+
+        // immediately add primary links
+        if(!links.includes({source: backlink.slug, target: article.slug, value:2})) links.push({source: backlink.slug, target: article.slug, value:2})
+        // add primary nodes
+        // console.log(nodes[0].slug, backlink.slug);
+        // console.log(nodes.find(entry => entry.slug == backlink.slug));
+
+        if(!nodes.find(entry => entry.slug == backlink.slug)) nodes.push(backlink)
+        
+        
+      }
+
       const slug = article.slug;
       graphArticles.push({slug, nodes, links})
     }
     
   }
 
-  console.log(graphArticles);
+  // console.log(graphArticles);
 
 
 
