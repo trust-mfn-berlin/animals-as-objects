@@ -1,5 +1,6 @@
 // This script iterates through every file in the vault and finds forward and back links.
-// The output is moved into a Json array `backlinks.json`, and a file called graph-data.json where it is shaped for a D3 graph.
+// The data is then shaped in two ways - one for recombining in the front-end content (see nuxt.config.js) and the other for graph views.
+// The output is moved into a Json array `backlinks.json` && `graphdata.json`
 
 const path = require('path');
 const fs = require('fs-extra');
@@ -16,6 +17,8 @@ var compiledBacklinks = [];
 
 var graphLinks = [];
 var graphNodes= [];
+var graphArticles=[];
+
 
 async function getFileNames(filePath, encoding = "utf-8") {
   let mdFiles = [];
@@ -53,9 +56,12 @@ async function getContent(filePath, encoding = "utf-8") {
     const frontmatter = metadataParser(fileData).metadata;
 
     var forwardlinks = fileData.match(findBetweenDoubleBrackets); 
+    var forwardlinksNoDupe = [];
     var slug = file.replace('.md','');
 
     graphNodes.push({slug, frontmatter})
+    
+    
 
     if(forwardlinks){
       for (let l = 0; l < forwardlinks.length; l++) {
@@ -68,15 +74,28 @@ async function getContent(filePath, encoding = "utf-8") {
         } else {
           forwardlinks[l] = flink.slice(2, -2);
         }
+        
 
         // this creates links to articles that haven't been made yet.
         // console.log('SOURCE', slug, 'TARGET', forwardlinks[l]);
         // graphLinks.push({source: slug, target: forwardlinks[l] });
       }
+
+      // remove dupes
+      for (let a = 0; a < forwardlinks.length; a++) {
+        const f = forwardlinks[a];
+        // console.log(forwardlinksNoDupe.includes(f));
+        if(!forwardlinksNoDupe.includes(f)) {
+          forwardlinksNoDupe.push(f)
+        } else {
+          // console.log('dupe')
+        }
+      }
+
     }
     
     var backlinks = [];
-    dendronlinks.push({slug, forwardlinks, backlinks, i, frontmatter});
+    dendronlinks.push({slug, forwardlinks:forwardlinksNoDupe, backlinks, i, frontmatter});
   }
 
   // console.log(graphNodes);
@@ -133,18 +152,71 @@ async function getContent(filePath, encoding = "utf-8") {
     
   }
 
+  // Make a file with ONLY featured pages sorted by page.
+
+  // Iterate through our compiled pages.
+  for (let i = 0; i < compiledBacklinks.length; i++) {
+    const article = compiledBacklinks[i];
+
+    var nodes = [];
+    var links = [];
+
+    // Only act on featured pages.
+    if(article.frontmatter.feature){
+      
+      // immediately add first node
+      nodes.push(article);
+
+      for (let f = 0; f < article.forwardlinks.length; f++) {
+        const forwardlink = compiledBacklinks.find(entry => entry.slug == article.forwardlinks[f]);
+
+        // immediately add primary links
+        links.push({source: article.slug, target: forwardlink.slug, value:2});
+        // add primary nodes
+        nodes.push(forwardlink);
+        
+        // now we need to find secondary connections
+        if(forwardlink.forwardlinks){
+          for (let s = 0; s < forwardlink.forwardlinks.length; s++) {
+            const ff = forwardlink.forwardlinks[s];
+            if(nodes.find(entry => entry.slug == ff)){
+              console.log('secondary link found', ff);
+              // if(links.includes({source: forwardlink.slug, target: ff})) console.log('dupe link')
+              links.push({source: forwardlink.slug, target: ff, value:1})
+            }
+          }
+        }
+
+
+      }
+      const slug = article.slug;
+      graphArticles.push({slug, nodes, links})
+    }
+    
+  }
+
+  console.log(graphArticles);
+
+
+
+
+
+
+
+
+
   console.log('writing backlinks file..');
 
   const writeData = JSON.stringify(compiledBacklinks)
   fs.writeFile(path.join(__dirname, '..','temp', 'backlinks.json'), writeData);
 
   console.log('writing node graph file..');
-  const concatGraphData = {
-    nodes: graphNodes,
-    links: graphLinks
-  }
+  // const concatGraphData = {
+  //   nodes: graphNodes,
+  //   links: graphLinks
+  // }
   // console.log(concatGraphData);
-  const graphData = JSON.stringify(concatGraphData)
+  const graphData = JSON.stringify(graphArticles)
   fs.writeFile(path.join(__dirname, '..','temp', 'graphdata.json'), graphData);
 
   console.log('complete');
