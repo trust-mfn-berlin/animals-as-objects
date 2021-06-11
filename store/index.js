@@ -16,7 +16,8 @@ const createStore = () => {
       sidebarIsOpen: true,
       colours: importColours,
       articleTaoType: '',
-      citationModal: {isOpen:false, article:{}}
+      citationModal: {isOpen:false, article:{}},
+      trackingEnabled: false
     },
     mutations: {
       setLoadedArticles(state, articles) {
@@ -49,6 +50,9 @@ const createStore = () => {
       },
       toggleCitationModal(state, citation){
         state.citationModal = citation
+      },
+      enableTracking(state){
+        state.trackingEnabled = true
       }
     },
     actions: {
@@ -89,6 +93,9 @@ const createStore = () => {
       },
       isCitationModal(state){
         return state.citationModal
+      },
+      isTrackingEnabled(state){
+        return state.trackingEnabled
       }
     }
   })

@@ -49,7 +49,7 @@ export default {
 
     },
     removeEventListeners(){
-      console.log('destroy');
+      // console.log('destroy');
       const footnotes = document.getElementsByClassName('footnote-ref');
       const that = this;
       for (let i = 0; i < footnotes.length; i++) {
@@ -82,7 +82,7 @@ export default {
   },
   mounted(){
     // add to pathway
-    this.$store.commit('addPathway', this.$route.params.slug);
+    // this.$store.commit('addPathway', this.$route.params.slug);
 
     // update colour scheme
     document.documentElement.style.setProperty("--current-scheme-bg", "var(--scheme-"+this.schemeNumber+"-bg)");
@@ -113,7 +113,7 @@ export default {
       // console.log('PAYLOAD', article);
       return { article }
     } else {
-      console.log('no payload, fetching fresh data')
+      // console.log('no payload, fetching fresh data')
     try {
       const data = await $content(params.slug).fetch();
       article = data;

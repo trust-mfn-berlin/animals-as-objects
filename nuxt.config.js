@@ -48,6 +48,10 @@ export default {
     '~/plugins/scrolltop-animate-mixin.js'
   ],
 
+  router:{
+    middleware: 'route-middleware'
+  },
+
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: {
     dirs: [
@@ -65,7 +69,8 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-    '@nuxt/content'
+    '@nuxt/content',
+    'cookie-universal-nuxt',
   ],
 
   image: {

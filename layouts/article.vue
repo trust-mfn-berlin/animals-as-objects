@@ -9,13 +9,26 @@
     <Nuxt />
 
     <Footer />
+
+    <cookie-bar />
     
   </div>
 </template>
 
 <script>
 export default {
-
+  computed:{
+    trackingEnabled(){
+      this.$store.getters.isTrackingEnabled;
+    }
+  },
+  mounted(){
+    if(this.$cookies.get('tao-uid') && !this.$store.getters.isTrackingEnabled){
+      console.log('cookie present');
+      // this.enableTracking();
+      this.$store.commit('enableTracking')
+    }
+  }
 }
 </script>
 

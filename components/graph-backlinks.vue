@@ -77,7 +77,7 @@ export default {
     },
     init(){
 
-      console.log('init D3');
+      // console.log('init D3');
 
       const that = this;
       const svg = d3
