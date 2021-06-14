@@ -2,7 +2,7 @@
 title: Content Management
 title_de: Content Management
 created: 1620129568099
-updated: 1623329962789
+updated: 1623665241485
 id: 55fcb7a1-c62e-4485-9c53-cec9c0094c94
 desc: test
 desc_de: test
@@ -32,11 +32,12 @@ published: true
 1. WE does pre-translation check on the finalized google docs
     - check markdown and style guide
     - check footnote style, and edit them to be consecutively numbered
-    - check image descriptions
+    - check image descriptions and captions
     - check 'desc' for summary box
+    - check for 2-5 word desc
     - check titles for length and changes
         - if titles changed, potentially change note title in Dendron as well to match
-    - check backlinks: 
+    - check backlinks:
         - take out backlinks to notes that will not be written
         - change titles of backlinks where the title has changes
     - check attached dates
@@ -44,21 +45,48 @@ published: true
     - add in any necessary comments for the translators
     - send docs to translators in Word
 
-2. WE applies for DOI for each individual text on intranet survey
-
-3. Receive corrected and translated texts
-    - WE adds in nec. markdown notation
+2. Receive corrected and translated texts
+    - WE adds in nec. markdown notation, and checks for completeness of all dendron fields and image descriptions, etc.
+    - match new language to style guide
     - Then send to authors and editors for review and release of the corrected and translated texts
+        - ask authors to designate title image
 
-4. WE enters corrected and translated texts into Dendron
-    - go via online markdown editor first
+3. WE applies for DOI for each individual text on intranet survey at https://survey.naturkundemuseum-berlin.de/en/doi-application-form
+    - 1 application for each DE + EN text together, so they have the same doi
+    - Put both EN and DE descriptions in the Abstract fields
+    - Once doi gets issued, enter into Netlify field
+    - Once available on the frontend, download and send EN and DE as separate PDFs to doi@mfn.berlin
+
+4. WE enters corrected and translated texts into Dendron once okayed by authors
+    - go via online markdown editor https://stackedit.io/app# first, then enter into Dendron
+    - for German notes that have EN title for the first time, change note title, and then check for any alt-name-backlink synchronization issues
     - check preview for any problems
+    - keep authors out of the texts in dendron, to avoid synchronization problems
+    - enter Netlify fields:
+        - doi
+        - translator name (pick correct direction)
+        - 2-5 word short descriptions
+        - optional start and end dates
+    - select title images with description
     - check frontend for problems last
         - desktop: check newest version of Safari, Firefox, Chrome
         - mobile: check Android and iOS
-    - keep authors out of the texts in dendron, to avoid synchronization problems
+    - collect any bugs or questions for Trust to send in one go after CM for the batch of texts is complete, to minimize hours
 
 5. Send frontend view to authors for final okay
 
-## Editing in the CMS versus Dendron
+## Editing in the Netlify (CMS) versus Dendron
 
+1. Netlify
+    - these fields only exist in Netlify:
+      - doi
+      - translator
+    - 2-5 word short description
+    - start and end date
+    - images are easier to edit in Netlify in general
+    - title images have to be selected in Netlify
+
+2. Dendron
+    - new notes should always be created in Dendron
+    - note name changes should take place in Dendron, so it can auto-update
+    - backlinks are more elegantly managed in Dendron, but _can_ be managed in Netlify too, just with extra frontend check precautions that the edit was successful
