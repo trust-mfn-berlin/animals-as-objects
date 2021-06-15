@@ -2,7 +2,7 @@
 title: Content Management
 title_de: Content Management
 created: 1620129568099
-updated: 1623665241485
+updated: 1623742320747
 id: 55fcb7a1-c62e-4485-9c53-cec9c0094c94
 desc: test
 desc_de: test
@@ -27,7 +27,7 @@ published: true
 5. Reviewers read and comment on edited texts to give feedback on the changes
 6. Authors deliver finalized google docs
 
-## Translations
+## Translations, DOIs, CM
 
 1. WE does pre-translation check on the finalized google docs
     - check markdown and style guide
@@ -90,3 +90,4 @@ published: true
     - new notes should always be created in Dendron
     - note name changes should take place in Dendron, so it can auto-update
     - backlinks are more elegantly managed in Dendron, but _can_ be managed in Netlify too, just with extra frontend check precautions that the edit was successful
+    - notes should be renamed and deleted in Dendron

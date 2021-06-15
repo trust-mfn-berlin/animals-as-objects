@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1623324423564
+updated: 1623742451328
 created: 1618326133707
 ---
 
@@ -89,7 +89,7 @@ _Staatspräsident Ulbricht übergibt den goldenen Schlüssel, 22.10.1965. (LAB C
 
 ### Caption newspaper (example)
 
-[article title is visible, and written in the accessibility description] _Artikel aus dem_ Völkischen Beobachter _vom 12.04.1938 mit einem Interview mit Lutz Heck. (Source. All rights reserved._
+[article title is visible, and written in the accessibility description] _Artikel aus dem_ Völkischen Beobachter _vom 12.04.1938 mit einem Interview mit Lutz Heck._ [No need for archival source or license info since newspapers are mass reproduced.]
 
 ## Image descriptions, AltText
 
@@ -97,6 +97,6 @@ _Staatspräsident Ulbricht übergibt den goldenen Schlüssel, 22.10.1965. (LAB C
 * Do be clear and concise. It is important not to be too wordy or over describe a panel, since this can be confusing to a reader.
 * Do be objective. You do not want to put your opinions of what is happening into the description, just what is literally in the panel. The reader should have the freedom for their own interpretation given all the necessary details.
 * Do state the type of image if it is unusual or out of context, like a newspaper cut-out among photographs.
-* Do pay attention to the context of the image. Is it well-described within the text? Then the alt-text can be simple. 
+* Do pay attention to the context of the image. Is it well-described within the text? Then the alt-text can be simple.
 
 Source: https://www.accessiblepublishing.ca/a-guide-to-image-description/
