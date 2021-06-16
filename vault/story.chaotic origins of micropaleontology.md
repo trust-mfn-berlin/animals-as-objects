@@ -15,9 +15,16 @@ published: false
 
 :::EN:::
 
+<figure>
+
 ![a page from the 1766 edition of Linnaeus' Systema Naturae, describing in Latin the Class "chaos infusorium"](/images/filo/Linnaeus-chaos-infusorium.jpg)
 
+<figcaption>
+
 _The final page of Linnaeus' 12th edition of the Systema Naturae, published in 1766, presenting the official description of the "chaos infusorium", placed in the class Vermes, "worms"._ [^micropaleontology1]
+
+</figcaption>
+</figure>
 
 Ever since the earliest microscopic observations in the 17th and 18th centuries, novel instruments and techniques enabled glimpses of unexpected and complex [[theme.microbial worlds]]. At first, the diversity of microbial life appeared chaotic and undefined, so much so that in 1767 [[material.carl linnaeus]] defined all microscopic organisms as the _chaos infusorium_. But as the taxonomical ordering of the natural world proceeded, especially during the 19th century, naturalists were faced with the task of making sense of this surprising diversity. By the end of the century, this diversity no longer appeared so chaotic: recurring forms stimulated the imagination of scientists and suggested an order to these microorganisms. In this period, many attempted to describe and classify microbial organisms, collectively known as [[material.infusoria]], in ways that ran parallel to the taxonomic ordering of larger and more familiar life forms. Yet, the tools and frameworks of early taxonomy proved ill-suited to the task: as the nature of microorganisms underwent significant transformations most early classifications were rapidly replaced and overturned. To this day, they continue to surprise and confound us.
 

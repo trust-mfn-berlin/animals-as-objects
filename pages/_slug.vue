@@ -2,11 +2,12 @@
   <div class="article-container">
   <main v-if="article" :class="{open : isSidebarOpen}">
     <hgroup class="heading">
-      <h1 :style="{boxShadow:'inset 0 -0.175em var(--background-1), inset 0 -0.2em var(--scheme-'+schemeNumber+'-bg)'}">{{article.title}}</h1>
+      <div class="heading-inner"><h1>{{article.title}}</h1>
       <h3 class="lead subheading f-mono">
         <span class="type" :class="article.tao_type" >{{article.tao_type}}</span>
         Lorem ipsum dolor sit amet
       </h3>
+      </div>
     </hgroup>
 
     <section>
@@ -128,7 +129,7 @@ export default {
 
 // Vars
 
-@article-width:60vw;
+@article-width:66vw;
 
 // Primary Layout
 
@@ -137,18 +138,34 @@ export default {
 }
 
 main{
-  width: @article-width;
-  margin: 0 auto;
+  
+  section{
+    width: @article-width;
+    margin: 0 auto;
+  }
   &.open{
-    margin: 0;
+    
+    hgroup{
+      .heading-inner{
+        padding-left:2rem;
+        width: @article-width;
+        margin-right: auto;
+      }
+    }
+    section{
+      padding-left:2rem;
+      margin: 0;
+    }
   }
 }
 
 // Typography
 
 hgroup.heading{
+  background-color: var(--current-scheme-bg);
+  color: var(--current-scheme-fg);
   text-align: center;
-
+  padding: 10rem 0 8rem;
   h1{
     margin-bottom: 1rem;
     line-height: @lh-short;
@@ -165,10 +182,10 @@ hgroup.heading{
 
   .lead.subheading{
   text-align: center;
-  margin:2rem 0 3rem;
+  margin:2rem 0 0 0;
     .type{
-      background-color: var(--current-scheme-bg);
-      color: var(--current-scheme-fg);
+      background-color: var(--current-scheme-fg);
+      color: var(--current-scheme-bg);
       padding:@space-xs 10px;
       // background-color: @black;
       // color: @white;
@@ -264,6 +281,55 @@ figcaption{
 
 // Images
 
+::v-deep figure:first-child{
+  position: relative;
+  // border: 1px solid red;
+  // background-color: var(--current-scheme-bg);
+
+  figcaption{
+    // color: var(--current-scheme-fg);
+  }
+  margin-top:0;
+  // width: 100vw;
+  // max-width: unset;
+  // display: flex;
+  // flex-direction: column;
+  // align-items: center;
+  p{
+    position: relative;
+    line-height: 0;
+  }
+  p::before{
+    content:'';
+    position: absolute;
+    background-color: var(--current-scheme-bg);
+    // background-color: inherit;
+    // background-color: red;
+    height: 100%;
+    top:0;
+    left:-50vw;
+    width: 150vw;
+    z-index: -99;
+  }
+
+  figcaption p::before{
+    content: unset;
+    background-color: blue;
+  }
+
+  &::before{
+    // content:'';
+    // position: absolute;
+    // background-color: var(--current-scheme-bg);
+    // background-color: red;
+    // height: 100%;
+    // top:-5rem;
+    // left:-50vw;
+    // width: 150vw;
+    // z-index: -99;
+  }
+}
+
 figure{
   margin: 5rem auto;
   max-width: 100%;
@@ -285,6 +351,7 @@ figure{
     margin-top:@space-s;
     display: flex;
     p{
+      line-height: @lh-short !important;
       flex-grow: 1;
       width: 0;
     }

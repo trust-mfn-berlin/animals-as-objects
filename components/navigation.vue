@@ -125,7 +125,7 @@ export default {
 <style lang="less" scoped>
 
 header{
-  margin-bottom: 8rem;
+  // margin-bottom: 8rem;
 }
 
 nav{
