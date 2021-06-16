@@ -41,8 +41,10 @@ export default {
       for (let i = 0; i < footnotes.length; i++) {
         const footnote = footnotes[i];
 
-        footnote.addEventListener("click", function(){
-          that.onFootnoteClick(footnote.hash)
+        footnote.addEventListener("click", function(e){
+          // console.log(e);
+          e.preventDefault();
+          that.onFootnoteClick(footnote.hash);
         })
         
       }
