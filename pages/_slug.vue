@@ -30,12 +30,7 @@ export default {
   },
   methods:{
     addFootnoteListener(){
-      // const articlebody = this.$refs.articlebody
-      // console.log(articlebody);
-      // articlebody.addEventListener("click", this.onArticleClick)
-
       const footnotes = document.getElementsByClassName('footnote-ref');
-      // console.log(document.getElementsByClassName('footnote-ref'))
       const that = this;
 
       for (let i = 0; i < footnotes.length; i++) {
