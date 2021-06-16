@@ -125,8 +125,8 @@ export default {
   },
   mounted(){
     this.$nextTick(function(){
-      this.footnotesParsed = this.footnotes.replaceAll('id="fn-', 'id="sidebar-fn-');
-      this.footnotesParsed = this.footnotes.replaceAll('class="footnote-backref"', 'class="sidebar-footnote-backref"');
+      this.footnotesParsed = this.footnotes.replaceAll('id="fn-', 'id="sidebar-fn-').replaceAll('class="footnote-backref"', 'class="sidebar-footnote-backref"')
+      // this.footnotesParsed = this.footnotes;
     })
     this.$nextTick(function(){
       this.addFootnoteBacklinkListener();
@@ -138,6 +138,7 @@ export default {
   },
   watch:{
     activeFootnote(activeFootnote){
+      console.log(activeFootnote);
       if(activeFootnote){
 
         this.scrollToElement(document.getElementById(activeFootnote), 800, 0, this.$refs.sidebar);
