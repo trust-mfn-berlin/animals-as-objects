@@ -12,6 +12,8 @@
     <section>
       <nuxt-content id="articlebody" :document="article" :class="article.tao_type" ref="articlebody"/>
     </section>    
+    
+    <article-routes :routes="$store.getters.currentRoute"/>
   </main>
   <sidebar :article="article" :footnotes="footnotes" :activeFootnote="activeFootnote"/>
   </div>
