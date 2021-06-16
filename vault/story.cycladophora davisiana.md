@@ -12,17 +12,32 @@ cover_image: null
 license: CC BY-SA
 published: false
 ---
+<figure>
 
 ![screenshot of an illustration and a description of the radiolarian species C. davisiana](/images/filo/Cycladophora-davisiana-rads.png)
 
+<figcaption>
+
 _A screenshot from the digital radiolaria database radiolaria.org, describing and illustrating C. davisiana._ [^image1]
+
+</figcaption>
+</figure>
 
 _Cycladophora davisiana_ is a species of [[material.radiolaria]], a group of unicellular microorganism widespread in the world's oceans whose body is supported by siliceous structures resembling shells, called tests. In particular, _C. davisiana_ is characteristic of high latitude waters (as the Latin name suggests, by recalling its original collection from the Davis strait, off the coast of Greenland). This species thrives in subglacial mesopelagic (of intermediate depth) waters, like the present-day Sea of Okhotsk, between the North of Japan and the Kamchatka peninsula [^image6]. The original specimen, on which the organism's first description, in 1862, was based, remains preserved in the Museum fur Naturkunde's micropaleontology collection in Berlin. This particular species is tightly intertwined with the history of [[story.micropaleontology]], because it became an important tool in the complex apparatus of [[theme.planetary data]].
 
 ## Finding _Cycladophora_
+
+<figure>
+
 ![a map of the North Atlantic Ocean, marking the various surveys for the different telegraph lines](/images/filo/monatsberichtede18611knig_0293.jpg)
 
+<figcaption>
+
 _A map of the surveys for transatlantic telegraph lines in 1861, published by [[material.christian gottfried ehrenberg]]._ [^image2]
+
+</figcaption>
+
+</figure>
 
 Like many other species, _Cycladophora davisiana_ was not "discovered" during a scientific expedition, but it was the by-product from a venture of a different nature. On the 29th of August 1859, the _Wiman_, a small sailing bark of 197 tons, set sail from the harbour of Boston, headed to London. Chartered by Colonel [[material.taliaferro preston schaffner]], the ship was carrying him, along with his wife and their entire household, to Denmark, by way of England. This move was part of Schaffner's venture to establish a [[story.north atlantic telegraph line]] that would connect Europe to North America. While a direct line between Newfoundland and Ireland had already been laid at great cost only the year before, that first transatlantic connection had been marred by a weak signal, and eventually failed after only a few weeks of transmissions. This failure only strengthened Schaffner's resolve, who had forseen this problem. To overcome it, his line was to proceed on land across Greenland, Iceland, and the Faer Oer islands, promising a much more consistent signal. So, as "Tal" Schaffner moved to Europe to find backing for his proposal, he instructed the crew to survey this alternative route. Along the way, he had them collect samples, data, and observations to support his proposal, confirm its feasibility, and add a more scientific character to the whole enterprise. It was in one of these samples, collected from the ocean floor in the Davis strait off the coast of Greenland, that the first specimen of _Cycladophora davisiana_ to bear this name was found. As he arrived in the UK, Schaffner arranged - through his fellow telegraphy expert, businessman, and inventor [[material.werner siemens]] - for his samples to be sent to Berlin to be analysed by [[material.christian gottfried ehrenberg]].
 
