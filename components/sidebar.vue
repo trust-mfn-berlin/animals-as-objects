@@ -18,7 +18,7 @@
       <h3 class="f-mono subheading">Table of Contents</h3>  
       <ol>
         <li v-for="link in article.toc" :key="link.id">
-          <a :href="'#'+link.id">{{link.text}}</a>
+          <a @click="tocScroll(link.id)">{{link.text}}</a>
         </li>
       </ol>
     </section>
@@ -90,19 +90,57 @@ export default {
     },
     openCitationModal(){
       this.$store.commit('toggleCitationModal', {isOpen: true, article: this.article});
+    },
+    tocScroll(el){
+      this.scrollToElement(document.getElementById(el), 700, -90);
+      history.pushState({},null, this.article.slug + '#' + el);
+    },
+    async addFootnoteBacklinkListener(){
+      const backrefs = await document.getElementsByClassName('sidebar-footnote-backref');
+      const that = this;
+      for (let i = 0; i < backrefs.length; i++) {
+        const backref = backrefs[i];
+        backref.addEventListener("click", function(e){
+          e.preventDefault();
+          that.onBackrefClick(backref.hash);
+        })
+      }
+    },
+    removeEventListeners(){
+      // console.log('destroy');
+      const backrefs = document.getElementsByClassName('sidebar-footnote-backref');
+      const that = this;
+      for (let i = 0; i < backrefs.length; i++) {
+        const backref = backrefs[i];
+        backref.removeEventListener("click", function(){
+          that.onBackrefClick(backref.hash)
+        })
+      }
+    },
+    onBackrefClick(hash){
+      console.log('backref', hash);
+      var h = hash.replace('#', '');
+      this.scrollToElement(document.getElementById(h), 700, -90);
     }
   },
   mounted(){
     this.$nextTick(function(){
       this.footnotesParsed = this.footnotes.replaceAll('id="fn-', 'id="sidebar-fn-');
+      this.footnotesParsed = this.footnotes.replaceAll('class="footnote-backref"', 'class="sidebar-footnote-backref"');
+    })
+    this.$nextTick(function(){
+      this.addFootnoteBacklinkListener();
     })
     this.matchRoutes(this.article.slug);
+  },
+  beforeDestroy(){
+    this.removeEventListeners();
   },
   watch:{
     activeFootnote(activeFootnote){
       if(activeFootnote){
 
-        this.scrollToElement(document.getElementById(activeFootnote), 800, this.$refs.sidebar);
+        this.scrollToElement(document.getElementById(activeFootnote), 800, 0, this.$refs.sidebar);
 
         document.getElementById(activeFootnote).classList.add('focus');
 

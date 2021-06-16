@@ -54,8 +54,8 @@ methods:{
   * duration: scroll duration in milliseconds; default is 0 (no transition)
   * this function is using the scrollToY function on the main scrolling element
   */
-  scrollToElement(element, duration = 0, scrollElement) {
-    const offset = Math.round(element.getBoundingClientRect().top);
+  scrollToElement(element, duration = 0, paddingOffset = 0, scrollElement) {
+    const offset = Math.round(element.getBoundingClientRect().top) + paddingOffset;
     if(scrollElement){
       this.scrollToY(scrollElement.scrollTop + offset, duration, scrollElement);
     } else {
