@@ -26,7 +26,9 @@ export default {
     if(this.$cookies.get('tao-uid') && !this.$store.getters.isTrackingEnabled){
       console.log('cookie present');
       // this.enableTracking();
-      this.$store.commit('enableTracking')
+      this.$store.commit('enableTracking');
+
+      console.log('added route', this.$route.params.slug);
     }
   }
 }
