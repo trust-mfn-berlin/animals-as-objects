@@ -56,13 +56,13 @@ li.excess{
 
 }
 
-li a::after{
+li a::before{
   display: inline-block;
   // content:'\a0,'
-  content:'\a0→'
+  content:'→\a0'
 }
 
-li:last-of-type a::after{
+li:first-of-type a::before{
   content:''
 }
 </style>
