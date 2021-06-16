@@ -78,8 +78,6 @@ export default {
     this.$store.commit('setArticleTaoType', this.article.tao_type);
   },
   mounted(){
-    // add to pathway
-    // this.$store.commit('addPathway', this.$route.params.slug);
 
     // update colour scheme
     document.documentElement.style.setProperty("--current-scheme-bg", "var(--scheme-"+this.schemeNumber+"-bg)");
