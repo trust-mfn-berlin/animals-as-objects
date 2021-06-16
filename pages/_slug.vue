@@ -318,6 +318,12 @@ figure{
   }
 }
 
+// Remove margin for images following headings
+
+h2+figure {
+  margin-top: 0rem;
+}
+
 // Audio
 
 .audio-container{
