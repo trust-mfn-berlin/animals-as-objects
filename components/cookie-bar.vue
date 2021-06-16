@@ -20,7 +20,7 @@ export default {
     setCookie(name, value){
       this.$cookies.set(name, value, {
         path: '/',
-        maxAge: 60 * 60 * 24 * 7 // 7 Days
+        maxAge: 60 * 60 * 24 * 1 // 1 day
       })
     }
   }
