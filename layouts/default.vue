@@ -26,7 +26,9 @@ export default {
       this.$store.commit('enableTracking');
 
       // console.log('added route', this.$route.params.slug);
-      this.$store.commit('addRoute', this.$route.params.slug);
+      if(this.$route.params.slug){
+        this.$store.commit('addRoute', this.$route.params.slug);
+      }
     }
   },
   watch:{
