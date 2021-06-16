@@ -161,6 +161,8 @@ main{
 
 // Typography
 
+// There are pop-in issues because scheme-bg is set on mounted hook.
+// Maybe it could be set during Generate somehow? 
 hgroup.heading{
   background-color: var(--current-scheme-bg);
   color: var(--current-scheme-fg);
