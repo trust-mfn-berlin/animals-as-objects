@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1623742451328
+updated: 1623926251584
 created: 1618326133707
 ---
 
@@ -78,6 +78,10 @@ Protokoll der Vorstandssitzung vom 22.05.1938, 23.05.1938, AZGB O 2/2/12.
 
 K. Heinroth an C. Hagenbeck, 12.09.1934, MfN, HBSB, S004-02-05 134. [pagina, if given]
 ... or oldcall no. style MfN, HBSB, Zool. Mus. S III, Heinroth, K.
+
+### Websites
+
+"Knut begeistert Aktionäre", _Spiegel online_, 03.04.2021, https://www.spiegel.de/wirtschaft/berliner-zoo-knut-begeistert-aktionaere-a-475415.html (01.06.2021).
 
 ## Image captions
 
