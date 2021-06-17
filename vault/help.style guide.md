@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1623324423564
+updated: 1623927363821
 created: 1618326133707
 ---
 
@@ -59,7 +59,7 @@ See [[templates.story]]
 Grzimek, Bernhard. _Flug ins Schimpansenland. Reise durch ein Stück Afrika von heute._ Stuttgart: Kosmos 1955. [pages = : 98]
 
 ### Anthology
-Gregory Kohlstedt, Sally. "Reflections on Zoo History". In _New Worlds, New Animals. From Menagerie to Zoological Park in the Nineteenth Century_, hg. [ed.] von Robert J. Hoage und William A. Deiss. Baltimore: Johns Hopkins Univ. Press, 1996: 3-7.
+Gregory Kohlstedt, Sally. "Reflections on Zoo History". In _New Worlds, New Animals. From Menagerie to Zoological Park in the Nineteenth Century_, hg. von [ed. by] Robert J. Hoage und William A. Deiss. Baltimore: Johns Hopkins Univ. Press, 1996: 3-7.
 
 ### Journal
 Grincheva, Natalia. "U.S. Arts and Cultural Diplomacy: Post-Cold War Decline and the Twenty-First Century Debate". _The Journal of Arts Management, Law, and Society_ 40 (1. März 2010): 169–83. https://doi.org/10.1080/10632921.2010.504509.
@@ -79,6 +79,10 @@ Protokoll der Vorstandssitzung vom 22.05.1938, 23.05.1938, AZGB O 2/2/12.
 K. Heinroth an C. Hagenbeck, 12.09.1934, MfN, HBSB, S004-02-05 134. [pagina, if given]
 ... or oldcall no. style MfN, HBSB, Zool. Mus. S III, Heinroth, K.
 
+### Websites
+
+Autor\*in. "Presseinformation 072/2007. Neu im Programm: 'Knut!'", _RBB_, 23.03.2007, https://www.rbb-online.de/unternehmen/presse/presseinformationen/pressearchiv/2007/neu_im_programm_0.html (07.05.2021).
+
 ## Image captions
 
 ### Zoo archive material (example)
@@ -89,7 +93,7 @@ _Staatspräsident Ulbricht übergibt den goldenen Schlüssel, 22.10.1965. (LAB C
 
 ### Caption newspaper (example)
 
-[article title is visible, and written in the accessibility description] _Artikel aus dem_ Völkischen Beobachter _vom 12.04.1938 mit einem Interview mit Lutz Heck. (Source. All rights reserved._
+[article title is visible, and written in the accessibility description] _Artikel aus dem_ Völkischen Beobachter _vom 12.04.1938 mit einem Interview mit Lutz Heck._ [No need for archival source or license info since newspapers are mass reproduced.]
 
 ## Image descriptions, AltText
 
@@ -97,6 +101,6 @@ _Staatspräsident Ulbricht übergibt den goldenen Schlüssel, 22.10.1965. (LAB C
 * Do be clear and concise. It is important not to be too wordy or over describe a panel, since this can be confusing to a reader.
 * Do be objective. You do not want to put your opinions of what is happening into the description, just what is literally in the panel. The reader should have the freedom for their own interpretation given all the necessary details.
 * Do state the type of image if it is unusual or out of context, like a newspaper cut-out among photographs.
-* Do pay attention to the context of the image. Is it well-described within the text? Then the alt-text can be simple. 
+* Do pay attention to the context of the image. Is it well-described within the text? Then the alt-text can be simple.
 
 Source: https://www.accessiblepublishing.ca/a-guide-to-image-description/
