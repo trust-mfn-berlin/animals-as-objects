@@ -2,7 +2,7 @@
 id: fa206cd6-fda4-46ec-83e7-206cb1306e78
 title: LöWenbabys
 desc: Put a description of this note here...
-updated: 1622649658062
+updated: 1623347243508
 created: 1622624578996
 title_de: Löwenbabys
 desc_de: Put a DE description of this note here...
@@ -21,6 +21,8 @@ published: false
 Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp.
 
 :::DE:::
+
+* 1932 wurden Jahres-Photokarten für RM 5 eingeführt
 
 ## Löwenbabys. Vom Anfassen, Fotografieren und xxx
 

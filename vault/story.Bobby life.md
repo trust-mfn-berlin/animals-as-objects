@@ -2,7 +2,7 @@
 id: f02cb0e0-9512-4a0f-8012-02969e9f97d0
 title: Bobby life
 desc: Put a description of this note here...
-updated: 1623341256731
+updated: 1623347984502
 created: 1620163729182
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -65,6 +65,8 @@ Brandes über Aufzucht von Gorillas (104)
 
 * 1928 etwa zweijährig durch die Tierhandlung Ruhe, Alfeld, nach Berlin
 
+ Das Gewicht ihrer Tiere war für Zoologische Gärten immer schon ein wichtiges Kriterium für den Schauwert der Tiere und wurde als Ausweis für Gesundheit und Wohlbefinden öffentlich in Szene gesetzt [backlink: Bobby]. Dazu gehörte auch, nach dem Tod Organe oder Knochen zu wiegen und die Zahlen bekanntzugeben. 
+
 ## Leben im Zoo 
 	Gewicht
 - Bild der Gewichtstafel am Gehege - immer wieder die Erwähnung, dass er der erste Gorilla war, der in einem Zoo erwachsen wurde --> Eipper, Paul. „Der Gorilla Bobby“. _Kölnische Illustrierte Zeitung_, 13. Juli 1935. In AZGB mit Bild des Gewichtsschildes am Käfig
@@ -75,7 +77,11 @@ Brandes über Aufzucht von Gorillas (104)
 Veterinärmedizinies Wissen über Ernährung von Affen im Zoo: 
 "Überhaupt dürfen wir mit den Gesundheits- und sonstigen Verhältnissen in unserem Affenpalmenhause sehr zufrieden sein. Während man wohl sagen darf, daß man früher froh war, Affen einigermaßen am Leben erhalten zu können, Zuchterfolge aber, zumal befriedigende Entwicklung der Jungen, wenig zu verzeichnen waren, haben wir jetzt von nicht weniger als 9 Affenarten Junge, d.h. beinahe von allen, die wir überhaupt in zuchtfähigem Alter und familienweise besitzen. Diesen Erfolg dürfen wir der Einrichtung des Hauses zuschreiben und unserer jetzigen Affenhaltung, in der wir einen großen Fortschritt gemacht haben, seit die Kenntnis der Vitamine einigermaßen Allgemeingut geworden ist." Actien-Verein des zoologischen Gartens zu Berlin: Geschäftsbericht über das Jahr 1928, Berlin 1929, o.S.
 
+Actien-Verein des zoologischen Gartens zu Berlin: Geschäftsbericht über das Jahr 1932, Berlin 1933, o.S.: "Der Gorilla 'Bobby' ist jetzt 7-8 Jahre alt, hat ein Gewicht von 133,5 kg und ist somit der größte Menschenaffe, der jemals irgendwo in Gefangenschaft gewesen ist."
 
+Actien-Verein des zoologischen Gartens zu Berlin: Geschäftsbericht über das Jahr 1933, Berlin 1934, o.S.: "Der Gorilla 'Bobby' hat ein Gewicht von 190 kg bei einem Alter von ungefähr 10 Jahren erreicht und ist somit das einzigartigste und wertvollste Schaustück."
+
+Actien-Verein des zoologischen Gartens zu Berlin: Geschäftsbericht über das Jahr 1934, Berlin 1935, o.S.: "Von den wertvollsten Tieren, dem See-Elefanten "Roland" und dem Gorilla "Bobby" ist nur Gutes zu melden. Letzterer hat ein Gewicht von ca. 250 kg (letzte Wägung am 7.1.1935 ergab 252,5 kg) bei einem jetzigen Alter von ungefähr 11 Jahren. Er ist nach wie vor unser wertvollstes und eigenartigstes Schaustück."
 
 ## Tod
 
