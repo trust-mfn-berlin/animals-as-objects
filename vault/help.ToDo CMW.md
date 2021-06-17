@@ -2,7 +2,7 @@
 id: 21ac115b-15e0-4af9-a4ed-fdd3d29c313d
 title: ToDo CMW
 desc: ''
-updated: 1621977713172
+updated: 1623930594783
 created: 1618495172862
 ---
 ## "Fertig" 1. Batch
@@ -65,6 +65,7 @@ created: 1618495172862
 - [[material.Lioness Heinrich]]
 - [[material.German East Afrika]]
 - [[material.Werner Schröder]]
+- [[material.list dead animals]]
 
 ## ToDo
 
