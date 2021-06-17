@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1623926969411
+updated: 1623927363821
 created: 1618326133707
 ---
 
@@ -81,7 +81,7 @@ K. Heinroth an C. Hagenbeck, 12.09.1934, MfN, HBSB, S004-02-05 134. [pagina, if 
 
 ### Websites
 
-RBB. "Presseinformation 072/2007. Neu im Programm: 'Knut!'", 23.03.2007, https://www.rbb-online.de/unternehmen/presse/presseinformationen/pressearchiv/2007/neu_im_programm_0.html (07.05.2021).
+Autor\*in. "Presseinformation 072/2007. Neu im Programm: 'Knut!'", _RBB_, 23.03.2007, https://www.rbb-online.de/unternehmen/presse/presseinformationen/pressearchiv/2007/neu_im_programm_0.html (07.05.2021).
 
 ## Image captions
 
