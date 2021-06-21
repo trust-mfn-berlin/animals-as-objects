@@ -2,7 +2,7 @@
 id: 6cba37e4-c072-4140-bdfb-3d562bbef228
 title: outtakes CMW
 desc: Put a description of this note here...
-updated: 1623162745174
+updated: 1624305701842
 created: 1622582239405
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -45,6 +45,17 @@ gewildert und mit 15 Schrotkugeln im Körper nur noch tot aufgefunden werden kon
 Bild
 Wisent-Nachwuchs Tian kurz nach
 seiner Geburt im Tierpark Berlin
+
+## Literatur Geschenke
+
+[^giftsDE1]: Vgl. Giere, Peter, Peter Bartsch, und Christiane Quaisser. "Berlin: From Humboldt to HVac - The Zoological Collections of the Museum für Naturkunde Leibniz Institute for Evolution and Biodiversity Science in Berlin". In _Zoological Collections of Germany_, hg. von Lothar A. Beck. Cham: Springer International Publishing, 2018: 89–122.https://doi.org/10.1007/978-3-319-44321-8_11; Damaschun, Ferdinand, und Hannelore Landsberg. "‚...so bleiben dem materiell Gesammelten und geographisch Geordnetem fast allein ein langdauernder Werth‘ - 200 Jahre Museum für Naturkunde". In _Klasse, Ordnung, Art: 200 Jahre Museum für Naturkunde_, hg. von Ferdinand Damaschun, Sabine Hackethal, Hannelore Landsberg, und Reinhold Leinfelder. Rangsdorf: Basilisken-Presse, 2010: 13–23.
+ 
+[^giftsDE2]: Zur Gründungsgeschichte des Berliner Zoos vgl. Maier-Wolthausen, Clemens. _Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos_,hg. von Andreas Knieriem. Berlin: Ch. Links Verlag, 2019.
+ 
+[^giftsDE3]: Bartsch, und Quaisser (2018): 94-99.
+ 
+[^giftsDE4]: Maier-Wolthausen (2019): 33-38.
+
 
 ---
 
