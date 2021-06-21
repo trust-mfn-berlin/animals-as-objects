@@ -2,7 +2,7 @@
 id: 6cba37e4-c072-4140-bdfb-3d562bbef228
 title: outtakes CMW
 desc: Put a description of this note here...
-updated: 1624305701842
+updated: 1624305759757
 created: 1622582239405
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -55,6 +55,8 @@ seiner Geburt im Tierpark Berlin
 [^giftsDE3]: Bartsch, und Quaisser (2018): 94-99.
  
 [^giftsDE4]: Maier-Wolthausen (2019): 33-38.
+
+[^donationsDE1]: Zoologische Gärten Berlin. "Geschäftsbericht 2019",  https://www.zoo-berlin.de/fileadmin/zoo-berlin/downloads/Investor_Relations/Geschaeftsberichte/Geschaeftsbericht_AG_2019.pdf (17.06.2021).
 
 
 ---
