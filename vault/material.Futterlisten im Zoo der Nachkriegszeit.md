@@ -2,9 +2,9 @@
 id: R4t_2F3NY3xIuAnRoDG0T
 title: Futterlisten im Zoo der Nachkriegszeit
 desc: Put a description of this note here...
-updated: 1624186534130
+updated: 1624267871249
 created: 1624185750239
-title_de: Add a german title here
+title_de: Futterlisten im Zoo der Nachkriegszeit
 desc_de: Put a DE description of this note here...
 author: Mareike Vennen
 tao_type: material
