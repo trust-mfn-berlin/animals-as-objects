@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1623927363821
+updated: 1624260628957
 created: 1618326133707
 ---
 
@@ -62,9 +62,9 @@ Grzimek, Bernhard. _Flug ins Schimpansenland. Reise durch ein Stück Afrika von 
 Gregory Kohlstedt, Sally. "Reflections on Zoo History". In _New Worlds, New Animals. From Menagerie to Zoological Park in the Nineteenth Century_, hg. von [ed. by] Robert J. Hoage und William A. Deiss. Baltimore: Johns Hopkins Univ. Press, 1996: 3-7.
 
 ### Journal
-Grincheva, Natalia. "U.S. Arts and Cultural Diplomacy: Post-Cold War Decline and the Twenty-First Century Debate". _The Journal of Arts Management, Law, and Society_ 40 (1. März 2010): 169–83. https://doi.org/10.1080/10632921.2010.504509.
+Grincheva, Natalia. "U.S. Arts and Cultural Diplomacy: Post-Cold War Decline and the Twenty-First Century Debate". _The Journal of Arts Management, Law, and Society_ 40 (1. März 2010): 169–183. https://doi.org/10.1080/10632921.2010.504509.
 
-Chua, Charmaine, Martin Danyluk, Deborah Cowen, und Laleh Khalili. "Introduction: Turbulent Circulation: Building a Critical Engagement with Logistics". _Environment and Planning D: Society and Space_ 36, Nr. 4 (August 2018): 617–29. https://doi.org/10.1177/0263775818783101.
+Chua, Charmaine, Martin Danyluk, Deborah Cowen, und Laleh Khalili. "Introduction: Turbulent Circulation: Building a Critical Engagement with Logistics". _Environment and Planning D: Society and Space_ 36, Nr. 4 (August 2018): 617–629. https://doi.org/10.1177/0263775818783101.
 
 ### Newspaper
 
