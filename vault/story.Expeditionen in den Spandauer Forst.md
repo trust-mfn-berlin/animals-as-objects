@@ -17,12 +17,6 @@ published: false
 :::EN:::
 
 
-More text here. If you need to backlink a word that is different from the actual title, use [[themes|templates.theme]]. It should never be a word like "here", used like a normal hyperlink. It should always be a close variation of the actual title. 
-
-
-[^footnote1]: here REF: Surname, Name. _Book title_. Place: Press, YYYY
-Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp.
-
 :::DE:::
 
 
