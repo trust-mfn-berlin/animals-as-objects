@@ -2,10 +2,10 @@
 id: R4t_2F3NY3xIuAnRoDG0T
 title: Futterlisten im Zoo der Nachkriegszeit
 desc: Put a description of this note here...
-updated: 1624267871249
+updated: 1624364436656
 created: 1624185750239
 title_de: Futterlisten im Zoo der Nachkriegszeit
-desc_de: Put a DE description of this note here...
+desc_de: Listen, die den jeweiligen Futtermittelbedarf für die Tiere eines Zoos zusammenfassen, sind nicht nur Teil der täglichen Routine eines Zoos. Sie können zugleich Einblicke in die Geschichte zoologischer Gärten geben, in die Entwicklung von Tierbeständen in die Konjunkturen und Krisenzeiten und . 
 author: Mareike Vennen
 tao_type: material
 cover_image: null
