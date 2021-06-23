@@ -51,19 +51,13 @@ published: true
     - Then send to authors and editors for review and release of the corrected and translated texts
         - ask authors to designate title image
 
-3. WE applies for DOI for each individual text on intranet survey at https://survey.naturkundemuseum-berlin.de/en/doi-application-form
-    - 1 application for each DE + EN text together, so they have the same doi
-    - Put both EN and DE descriptions in the Abstract fields
-    - Once doi gets issued, enter into Netlify field
-    - Once available on the frontend, download and send EN and DE as separate PDFs to doi@mfn.berlin
-
-4. WE enters corrected and translated texts into Dendron once okayed by authors
+3. WE enters corrected and translated texts into Dendron once okayed by authors
     - go via online markdown editor https://stackedit.io/app# first, then enter into Dendron
     - for German notes that have EN title for the first time, change note title, and then check for any alt-name-backlink synchronization issues
     - check preview for any problems
-    - keep authors out of the texts in dendron, to avoid synchronization problems
+    - keep authors out of dendron, to avoid synchronization problems
     - enter Netlify fields:
-        - doi
+        - doi (see below)
         - translator name (pick correct direction)
         - 2-5 word short descriptions
         - optional start and end dates
@@ -72,6 +66,12 @@ published: true
         - desktop: check newest version of Safari, Firefox, Chrome
         - mobile: check Android and iOS
     - collect any bugs or questions for Trust to send in one go after CM for the batch of texts is complete, to minimize hours
+
+4. WE applies for DOI for each individual text on intranet survey at https://survey.naturkundemuseum-berlin.de/en/doi-application-form
+    - 1 application for each DE + EN text together, so they have the same doi
+    - Put both EN and DE descriptions in the Abstract fields
+    - Once doi gets issued, enter into Netlify field
+    - Once available on the frontend, download and send EN and DE as separate PDFs to doi@mfn.berlin
 
 5. Send frontend view to authors for final okay
 
