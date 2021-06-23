@@ -2,7 +2,7 @@
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 title: How do animals get into the zoo?
 desc: null
-updated: 1624280844226
+updated: 1624434226969
 created: 1618498026144
 title_de: Wie kommen Tiere in den Zoo?
 desc_de: Lebende Tiere für die Sammlungen des Zoologischen Gartens, Aquariums und Tierparks Berlin kamen und kommen aus unterschiedlichen Quellen. Diese haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen für diese Einrichtungen - politische, logistische und moralische.
@@ -27,7 +27,7 @@ Wie kommen Tiere in den Zoo? Bei jeder Sammlung lebender Tiere, ob Tierpark, Wil
 
 ## Jagen und Schenken
 
-Zur Zeit der Gründung der ersten 'modern' oder 'wissenschaftlich' genannten Zoologischen Gärten insbesondere in Europa und Nordamerika um die Mitte des 19. Jahrhunderts waren **alle dort ausgestellten und nicht einheimischen Tiere Wildfänge**. Sie waren also in ihren natürlichen Lebensräumen gejagt, gefangen und aus ihnen entfernt worden, siehe auch [[|story.Catching Animals]]. Zwar stammten auch Tiere einheimischer Arten aus Wildfängen, oft aber dominierten hier bereits Zuchten aus den früher angelegten Menagerien der herrschaftlichen Anwesen oder frühen Tiersammlungen von Städten. Das betraf insbesondere Huftierarten, Fasane und einheimische Nagetiere.
+Zur Zeit der Gründung der ersten 'modern' oder 'wissenschaftlich' genannten Zoologischen Gärten insbesondere in Europa und Nordamerika um die Mitte des 19. Jahrhunderts waren **alle dort ausgestellten und nicht einheimischen Tiere Wildfänge**. Sie waren also in ihren natürlichen Lebensräumen gejagt, gefangen und aus ihnen entfernt worden, siehe auch [[must put something here|story.Catching Animals]]. Zwar stammten auch Tiere einheimischer Arten aus Wildfängen, oft aber dominierten hier bereits Zuchten aus den früher angelegten Menagerien der herrschaftlichen Anwesen oder frühen Tiersammlungen von Städten. Das betraf insbesondere Huftierarten, Fasane und einheimische Nagetiere.
 
 Viele der nicht einheimischen Tiere in der Frühzeit der Zoos waren [[Geschenke|story.Gifting Objects]] durch die jeweils herrschenden Territorialfürsten. Diese wiederum hatten sie selbst von anderen Herrschern oder Staatsoberhäuptern geschenkt bekommen oder sie waren ihnen von Forschungsreisenden oder Adeligen überreicht worden. Jene hatten sie selbst gefangen oder gekauft. Insbesondere Schenkungen von Tieren waren stets mit politischen Gesten verbunden. Dem Besitz dieser Tiere wurde ein diplomatischer Wert zugeschrieben. Dieser Wert hing davon ab, wie selten oder gefährlich, wie groß oder schwer ein Tier war und ob es sich um eine neu entdeckte Art handelte. Das hing damit zusammen, dass die Beschaffung jener Tiere oft hohe Kosten verursachte und die Tiere daher auch einen finanziellen Marktwert hatten, der durch den Akt des Schenkens in einen diplomatischen Wert übersetzt wurde.
 
