@@ -12,7 +12,7 @@ export default {
     return {
       attr : {
         width: 1200,
-        height: 800,
+        height: 600,
         nodeRadius: 15,
         padding:5,
         ticks: 20,
@@ -26,59 +26,73 @@ export default {
       data : [
         {
           name:'Finding Cycladophora',
-          value:1859
+          value:1859,
+          scheme:0
         },
         {
           name:'Using Cycladophora start',
-          value:1950
+          value:1950,
+          scheme:1
         },
         {
           name:'Using Cycladophora end',
-          value:2021
+          value:2021,
+          scheme:3
         },
         {
           name:'Industrial Micropaleontology start',
-          value:1921
+          value:1921,
+          scheme:4
         },
         {
           name:'Industrial Micropaleontology end',
-          value:1950
+          value:1950,
+          scheme:5
         },
         {
           name:'Taxonomical Orders start',
-          value:1753
+          value:1753,
+          scheme:6
         },
         {
           name:'Taxonomical Orders end',
-          value:2021
+          value:2021,
+          scheme:7
         },
         {
           name:'Chaotic origins start',
-          value:1766
+          value:1766,
+          scheme:8
         },
         {
           name:'Cycladophora davisiana start',
-          value:1859
+          value:1859,
+          scheme:9
         },
         {
           name:'Cycladophora davisiana end',
-          value:2021
+          value:2021,
+          scheme:10
         },
         {
           name:'Knut born',
-          value:2006
+          value:2006,
+          scheme:11
         },
         {
           name:'Knut died',
-          value:2011
+          value:2011,
+          scheme:12
         },
         {
           name:'Steinmetz-index start',
-          value:1930
+          value:1930,
+          scheme:13
         },
         {
           name:'Steinmetz-index end',
-          value:1945
+          value:1945,
+          scheme:14
         }
       ]
     }
@@ -111,6 +125,9 @@ export default {
             .attr("cx", d => d.x)
             .attr("cy", d => this.attr.height - this.attr.margin.bottom - this.attr.nodeRadius - this.attr.padding - d.y)
             .attr("r", this.attr.nodeRadius)
+            .attr("style", function(d){
+              return 'fill: var(--scheme-' + d.data.scheme + '-bg)'
+              })
           .append("title")
             .text(d => d.data.name);
     },
@@ -177,7 +194,8 @@ export default {
 
 <style lang="less" scoped>
 ::v-deep svg{
-  // background-color: white;
+  background-color: @bg-2;
+
   .domain{
     // stroke:none;
   }
