@@ -1,6 +1,6 @@
 <template>
   <div>
-    <graph />
+    <!-- <graph />
     <section>
       <p class="intro f-mono">Animals as Objects? is an online publication produced by the Museum für Naturkunde Berlin and Zoo-Berlin. Learn more about the unique connections between some of Berlin’s most beloved animals by viewing articles: Themes are large topics that contain many Stories, and Materials are focused explorations into these emergent connections.</p>
       <Cascade :articles="articles" />
@@ -10,7 +10,7 @@
     <section>
       <routes-list :routes="routes" />
       <text-button linkto="/routes">View more routes</text-button>
-    </section>
+    </section> -->
 
     <timeline />
   </div>
