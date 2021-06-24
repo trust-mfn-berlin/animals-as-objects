@@ -2,7 +2,7 @@
 title: Markdown Editing Checklist
 title_de: Markdown Editing Checklist
 created: 1622627917398
-updated: 1623242516688
+updated: 1624524387946
 id: 59e1cb96-c297-425b-8a8a-1979955cf849
 author: SLP
 desc: xx
@@ -25,7 +25,7 @@ Here is what I noted so far, where the postdocs potentially have some inconsiste
 
 <figcaption>
 
-Lorem ipsum whatever caption you want. Can include footnotes and backlinks.
+_Lorem ipsum whatever caption you want. Can include footnotes and backlinks._
 
 </figcaption>
 

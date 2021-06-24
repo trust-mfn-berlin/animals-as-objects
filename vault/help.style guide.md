@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1624267197940
+updated: 1624528374796
 created: 1618326133707
 ---
 
@@ -51,12 +51,12 @@ See [[templates.story]]
 - DE: zoologigal garden (zoologischer Garten) without capitalization for zoos in general, but Zoological -arden (Zoologischer Garten) when talking about the Berlin zoo specifically
 - When including a link to a material or theme or story, either you use the exact word, or an [[Alternative Title|material.NSB]]. The Alternative Title should never be "here" or "in a different article", it should always be very close to the original title.
 - Alternatively, you can use: ..., for more on this topic, see [[Alternative Title|material.NSB]]. Auf deutsch: ..., siehe auch [[Alternative Title|material.NSB]]. Internal backlinks have a special design, so they stand out nicely.
-- Avoid quotation marks that distance you as the author from the words you use, but if you must, use 'single' ones, as the "doubles" are reserved for quotations and for animal-names like "Knut". Another option is adding the term so-called (sogenannte) in front of a word. However, be aware that neither single quotation marks nor the term so-called undoes the colonial order transported by a word like exotic, for example.
+- Avoid quotation marks that distance you as the author from the words you use, but if you must, use 'single' ones, as the "doubles" are reserved for quotations and for animal-names like "Knut". It’s best practice to explain why, i.e. what’s not accurate about that specific word.  Then you can go on to use the single quotation marks for that specific word in that text. Another option is adding the term so-called (sogenannte) in front of a word. However, be aware that neither single quotation marks nor the term so-called undoes the colonial order transported by a word like exotic, for example. Single quotation marks are not an option for historical terminology from sources, esp. with NS or colonial connotations.
 
 ## Footnotes: Modified "Chicago Manual, 17th edition (note)"
 
 ### Monography
-Grzimek, Bernhard. _Flug ins Schimpansenland. Reise durch ein Stück Afrika von heute._ Stuttgart: Kosmos 1955. [pages = : 98]
+Grzimek, Bernhard. _Flug ins Schimpansenland. Reise durch ein Stück Afrika von heute._ Stuttgart: Kosmos 1955. [For pages, add colon after the year, e.g....1955: 98]
 
 ### Anthology
 Gregory Kohlstedt, Sally. "Reflections on Zoo History". In _New Worlds, New Animals. From Menagerie to Zoological Park in the Nineteenth Century_, hg. von [ed. by] Robert J. Hoage und William A. Deiss. Baltimore: Johns Hopkins Univ. Press, 1996: 3-7.
