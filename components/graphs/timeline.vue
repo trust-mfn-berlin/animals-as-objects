@@ -24,26 +24,67 @@ export default {
       },
       data : [
         {
-          name:'testxx',
-          value:100
+          name:'Finding Cycladophora',
+          value:1859
         },
         {
-          name:'testaa',
-          value:100
+          name:'Using Cycladophora start',
+          value:1950
         },
         {
-          name:'testbb',
-          value:150
+          name:'Using Cycladophora end',
+          value:2021
         },
         {
-          name:'testfawf',
-          value:200
+          name:'Industrial Micropaleontology start',
+          value:1921
+        },
+        {
+          name:'Industrial Micropaleontology end',
+          value:1950
+        },
+        {
+          name:'Taxonomical Orders start',
+          value:1753
+        },
+        {
+          name:'Taxonomical Orders end',
+          value:2021
+        },
+        {
+          name:'Chaotic origins start',
+          value:1766
+        },
+        {
+          name:'Cycladophora davisiana start',
+          value:1859
+        },
+        {
+          name:'Cycladophora davisiana end',
+          value:2021
+        },
+        {
+          name:'Knut born',
+          value:2006
+        },
+        {
+          name:'Knut died',
+          value:2011
+        },
+        {
+          name:'Steinmetz-index start',
+          value:1930
+        },
+        {
+          name:'Steinmetz-index end',
+          value:1945
         }
       ]
     }
   },
   computed:{
     x(gg){
+      console.log(this.data);
       return d3.scaleLinear()
         .domain(d3.extent(this.data, d => d.value))
         .range([this.attr.margin.left, this.attr.canvasWidth - this.attr.margin.right])
@@ -52,7 +93,7 @@ export default {
   methods:{
     init(){
 
-
+      
       const that = this;
       const svg = d3
         .select("#d3-timeline")
@@ -75,7 +116,7 @@ export default {
     dodge(data, {radius = 1, x = d => d} = {}) {
 
       const radius2 = radius ** 2;
-      const circles = data.map((d, i, data) => ({x: +this.x(d, i, data), data: d})).sort((a, b) => a.x - b.x);
+      const circles = data.map((d, i, data) => ({x: + x(d, i, data), data: d})).sort((a, b) => a.x - b.x);
       const epsilon = 1e-3;
       let head = null, tail = null;
 
@@ -93,7 +134,7 @@ export default {
 
       // Place each circle sequentially.
       for (const b of circles) {
-
+        console.log(b);
         // Remove circles from the queue that can’t intersect the new circle b.
         while (head && head.x < b.x - radius2) head = head.next;
 
@@ -113,10 +154,11 @@ export default {
         if (head === null) head = tail = b;
         else tail = tail.next = b;
       }
-
+      
       return circles;
     },
     xAxis(g){
+      console.log(this.x);
       g.attr("transform", `translate(0,${this.attr.canvasHeight - this.attr.margin.bottom})`)
       .call(d3.axisBottom(this.x).tickSizeOuter(0))
     },
