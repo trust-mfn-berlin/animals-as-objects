@@ -11,15 +11,16 @@ export default {
   data () {
     return {
       attr : {
-        canvasWidth: 1200,
-        canvasHeight: 800,
+        width: 1200,
+        height: 800,
         nodeRadius: 15,
-        padding:1.5,
+        padding:5,
+        ticks: 20,
         margin: {
           top: 20,
-          right: 20,
-          left: 20,
-          bottom: 20,
+          right: 40,
+          left: 40,
+          bottom: 40,
         }
       },
       data : [
@@ -87,19 +88,19 @@ export default {
       console.log(this.data);
       return d3.scaleLinear()
         .domain(d3.extent(this.data, d => d.value))
-        .range([this.attr.margin.left, this.attr.canvasWidth - this.attr.margin.right])
+        .range([this.attr.margin.left, this.attr.width - this.attr.margin.right])
     }
   },
   methods:{
     init(){
 
-      
-      const that = this;
-      const svg = d3
+      var svg;
+
+      svg = d3
         .select("#d3-timeline")
         .append("svg")
-        .attr("width", this.attr.canvasWidth)
-        .attr("height", this.attr.canvasHeight);
+        .attr("width", this.attr.width)
+        .attr("height", this.attr.height);
 
         svg.append("g").call(this.xAxis);
 
@@ -108,7 +109,7 @@ export default {
           .data(this.dodge(this.data, {radius: this.attr.nodeRadius * 2 + this.attr.padding, x: d => this.x(d.value)}))
           .join("circle")
             .attr("cx", d => d.x)
-            .attr("cy", d => this.attr.canvasHeight - this.attr.margin.bottom - this.attr.nodeRadius - this.attr.padding - d.y)
+            .attr("cy", d => this.attr.height - this.attr.margin.bottom - this.attr.nodeRadius - this.attr.padding - d.y)
             .attr("r", this.attr.nodeRadius)
           .append("title")
             .text(d => d.data.name);
@@ -134,7 +135,6 @@ export default {
 
       // Place each circle sequentially.
       for (const b of circles) {
-        console.log(b);
         // Remove circles from the queue that can’t intersect the new circle b.
         while (head && head.x < b.x - radius2) head = head.next;
 
@@ -158,17 +158,37 @@ export default {
       return circles;
     },
     xAxis(g){
-      console.log(this.x);
-      g.attr("transform", `translate(0,${this.attr.canvasHeight - this.attr.margin.bottom})`)
-      .call(d3.axisBottom(this.x).tickSizeOuter(0))
+      g.attr("transform", `translate(0,${this.attr.height - this.attr.margin.bottom + 5})`)
+      .call(d3.axisBottom(this.x).tickSizeOuter(0).tickSizeInner(0).tickPadding(5).ticks(this.attr.ticks, "f"))
     },
   },
   mounted(){
+    if(window){
+      this.attr.width = window.innerWidth - 48;
+      this.attr.ticks = Math.floor(window.innerWidth / 80)
+    }
     this.init(); 
-  }
+
+    // Responsive Guide
+    // https://stackoverflow.com/questions/16265123/resize-svg-when-window-is-resized-in-d3-js
+  },
 }
 </script>
 
 <style lang="less" scoped>
-
+::v-deep svg{
+  // background-color: white;
+  .domain{
+    // stroke:none;
+  }
+  .tick{
+    line{
+      // stroke: none;
+    }
+    text{
+      font-family: @f-mono;
+      font-size: @fs-s;
+    }
+  }
+}
 </style>
