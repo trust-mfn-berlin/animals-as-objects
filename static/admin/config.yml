@@ -24,7 +24,7 @@ collections:
       - { label: "Updated", name: "updated", widget: "number" }
       - { label: "ID", name: "id", widget: "string" }
       - { label: "Author", name: "author", widget: "string" }
-      - { label: "DOI", name: "doi", widget: "string" }
+      - { label: "DOI", name: "doi", widget: "string", required: false }
       - label: "Translator(s)"
         name: "translators"
         widget: "object"
