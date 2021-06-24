@@ -282,6 +282,27 @@ figure{
     line-height: 1.2;
   }
 
+  div.series{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    // width: calc(60vw + 4rem);
+    width: 100%;
+    // transform: translateX(-2rem);
+    p{
+      flex-grow: 1;
+      margin: 0 0.25rem;
+    }
+    img{
+      // width: 30%;
+      width: 100%;
+    }
+
+    @media screen  and (min-width: @mq-xs) and (max-width: @mq-m) /* Tablet Portrait */ {
+      flex-direction: column;
+    }
+  }
+
   figcaption{
     // max-width: max-content;
     margin-top:@space-s;

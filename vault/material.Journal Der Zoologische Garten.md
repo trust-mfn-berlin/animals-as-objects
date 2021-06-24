@@ -19,11 +19,15 @@ English content goes here.
 
 <figure>
 
+<div class="series">
+
 ![Titelseite von Der Zoologische Garten mit Foto von Tier XYZ](/images/cmw/ZG_1933.jpg)
 
 ![Titelseite von Der Zoologische Garten mit Foto von Nashorn](/images/cmw/ZG_1961.jpg)
 
 ![Titelseite von Der Zoologische Garten mit Foto von Gleitbeutler](/images/cmw/ZG_2015.jpg)
+
+</div>
 
 <figcaption>
 
@@ -39,11 +43,15 @@ More content.
 
 <figure>
 
+<div class="series">
+
 ![Titelseite von Der Zoologische Garten mit Foto von Tier XYZ](/images/cmw/ZG_1933.jpg)
 
 ![Titelseite von Der Zoologische Garten mit Foto von Nashorn](/images/cmw/ZG_1961.jpg)
 
 ![Titelseite von Der Zoologische Garten mit Foto von Gleitbeutler](/images/cmw/ZG_2015.jpg)
+
+</div>
 
 <figcaption>
 
