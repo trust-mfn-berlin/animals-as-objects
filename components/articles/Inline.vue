@@ -1,19 +1,33 @@
 <template>
-  <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual">
-    <img src='https://via.placeholder.com/32' />
-    <div class="text">
-      <h6 class="f-serif subheading">{{titleBilingual}}</h6>
-    </div>
+  <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual" @mouseover.native="onMouseover" @mouseleave.native="onMouseleave">
+    <img :src="'https://loremflickr.com/64/64/butterfly?random=' + article.id" alt="" />
+    <span class="text" :style="{border:'1px solid var(--scheme-'+schemeNumber+'-bg)', backgroundColor:'var(--scheme-'+schemeNumber+'-bg)', color:'var(--scheme-'+schemeNumber+'-fg)'}">
+      <span class="f-serif subheading" v-html="alias ? alias : titleBilingual"></span>
+    </span>
   </nuxt-link>
 </template>
 
 <script>
+// can we lazy load thumbnails? or fade in?
+
 export default {
   name:"inline",
   props:{
     article:{
       type:Object,
       required: true
+    },
+    alias:{
+      type:String,
+      required: false
+    }
+  },
+  methods:{
+    onMouseover(){
+      console.log('mouseenter')
+    },
+    onMouseleave(){
+
     }
   },
   computed:{
@@ -30,7 +44,11 @@ export default {
       } else {
         return this.article.title
       }
+    },
+    schemeNumber(){
+      return Math.floor(Math.random() * 15)
     }
+  
   }
 }
 </script>
@@ -38,9 +56,10 @@ export default {
 <style lang="less" scoped>
 a{
   display: flex;
-  
+  .animatemedium(transform);
   img{
     height: 1.33333rem;
+    width: 1.33333rem;
   }
   
   .text{
@@ -49,18 +68,26 @@ a{
     padding:0.37rem 0.4rem 0;
     box-shadow: @shadow-small;
     margin-left: @space-xs;
-    
-    h6{
+    display: inline-block;
+    line-height: unset;
+
+    .subheading{
       white-space: nowrap;
       text-overflow: ellipsis;
       max-width: 15rem;
       overflow:hidden;
+      display: block;
     }
+
+    .animatefast(all);
   }
 
   &:hover{
+    // transform: translateY(-4px);
     .text{
       box-shadow: @shadow-small-hover;
+      background-color: @white !important;
+      color: @black !important;
     }
   }
 

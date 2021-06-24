@@ -22,6 +22,7 @@ export default {
 
 <style lang="less" scoped>
 .cascade-container{
+  margin-bottom: 1rem;
   ul{
     display: flex;
     flex-wrap: wrap;

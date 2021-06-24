@@ -1,5 +1,13 @@
 <template>
-  <nuxt-link :to="linkto" class="text-button f-mono subheading"><slot></slot></nuxt-link>
+  <nuxt-link 
+    :to="linkto" 
+    :aria-disabled="isDisabled"
+    :active="isActive"
+    :class="{active : isActive, disabled : isDisabled}"
+    class="text-button f-mono subheading"
+  >
+    <slot></slot>
+  </nuxt-link>
 </template>
 
 <script>
@@ -13,7 +21,13 @@ export default {
     text:{
       type: String,
     },
-    
+    isDisabled:{
+      type: Boolean,
+      default: false
+    },
+    isActive:{
+      type: Boolean,
+    }
 
   }
 }
@@ -21,13 +35,14 @@ export default {
 
 <style lang="less" scoped>
 .text-button{
-  display: block;
+  display: inline-block;
   padding: 0.625rem 0.8rem 0.7rem;
   background-color: @white;
   box-shadow: @shadow;
   border-radius: @radius-s;
   width: auto;
   position: relative;
+  height: 2rem;
   
   &:hover{
     box-shadow: @shadow-hover;
@@ -57,5 +72,37 @@ export default {
   &:focus:after{
     border: @border-button-focus
   }
+
+  &.disabled{
+    background-color: @bg;
+    &::after{
+      cursor: default;
+    }
+    &:hover{
+      box-shadow: @shadow;
+      &::after{
+        border: @border-button;
+      }
+    }
+    &:focus{
+      box-shadow: @shadow;
+      &::after{
+        border: @border-button;
+      }
+    }
+  }
+
+
+
+
+  &.active, &.primary-nav-item.nuxt-link-exact-active{
+    background-color: @black;
+    color:@white;
+
+    &::after{
+      border-color: @black;
+    }
+  }
+  
 }
 </style>

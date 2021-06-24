@@ -113,7 +113,7 @@ input[type='search']{
   // width:100%;
   width:5rem;
 
-  transition: 250ms all ease;
+  .animatemedium(all);
 
   &:focus{
     width:20rem;

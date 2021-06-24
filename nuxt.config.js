@@ -26,13 +26,6 @@ export default {
     ]
   },
 
-  generate: {
-    crawler: false,
-    exclude: [
-      /^\/admin/ // path starts with /admin
-    ]
-  },
-
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     { src: 'normalize.css' }, 
@@ -43,6 +36,8 @@ export default {
     less: [
       './assets/less/media-queries.less',
       './assets/less/variables.less',
+      './assets/less/animations.less',
+      './assets/less/transitions.less',
       './assets/less/z-index.less',
       './assets/less/typography.less'
     ],
@@ -50,7 +45,12 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    '~/plugins/scrolltop-animate-mixin.js'
   ],
+
+  router:{
+    middleware: 'route-middleware'
+  },
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: {
@@ -69,7 +69,8 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-    '@nuxt/content'
+    '@nuxt/content',
+    'cookie-universal-nuxt',
   ],
 
   image: {
@@ -82,19 +83,24 @@ export default {
     dir: 'vault',
     markdown:{
       remarkPlugins: [
-        ['~plugins/remark-wiki-link.js', {
-        wikiLinkClassName:'dendron-link',
-        hrefTemplate: (permalink) => `/${permalink}`,
-        pageResolver: (name) => {
-          return [name]
-        }
-        }]
+
       ],
+      rehypePlugins: [
+        ['~plugins/img-to-nuxt-img.js',{
+          width:"",
+          fit:"",
+          quality:"90"
+        }]
+      ]
     }
   },
 
   hooks: {
     'content:file:beforeParse': (file) => {
+
+      const pathPartial = file.path.replace(__dirname, '').slice(0,15)
+      if (pathPartial == '/vault/netlify/'){ return }
+
       if (file.extension === '.md') {
         // Before parsing markdown, modify raw file data here:
 
@@ -121,12 +127,18 @@ export default {
 
     },
     'content:file:beforeInsert': async (document, database) => {
+
+      if(document.dir == '/netlify'){return}
+
       if(languageSplitterBuffer){
         // console.log('combining languages...')
         document.body_de = await database.markdown.toJSON(languageSplitterBuffer);
       }
 
       // console.log(document)
+      if(document.id == '2df514da-8df2-4278-8534-28e1034c7adf'){
+        // console.log(document.body)
+      }
 
       for (let i = 0; i < backlinks.length; i++) {
         const page = backlinks[i];
@@ -164,7 +176,10 @@ export default {
       let routesBilingual = [...routes, ...routes_de];
       // console.log(routesBilingual);
       return routesBilingual
-    }
+    },
+    exclude: [
+      /^\/admin/ // path starts with /admin
+    ]
   },
 
   vue: {

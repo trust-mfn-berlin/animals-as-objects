@@ -1,53 +1,101 @@
 import Vuex from 'vuex';
 
-// If we have animalsasobjects.com/de/.... 
-// Then we do not need language in the store.
+import importColours from '../assets/colours.json'
 
 const defaultLanguage = 'en';
 
 const createStore = () => {
   return new Vuex.Store({
     state: {
-      loadedPages: [],
+      loadedArticles: [],
+      loadedRoutes: [],
       siteLanguage: defaultLanguage,
-      currentPathway: [],
-      searchBarIsOpen: false
+      currentRoute: ['story.industrial micropaleontology','material.foraminifera','theme.microbial worlds','material.radiolaria','story.micropaleontology'],
+      searchBarIsOpen: false,
+      activeFilter: 'type',
+      sidebarIsOpen: true,
+      colours: importColours,
+      articleTaoType: '',
+      citationModal: {isOpen:false, article:{}},
+      trackingEnabled: false
     },
     mutations: {
-      setPages(state, pages) {
-        state.loadedPages = pages;
+      setLoadedArticles(state, articles) {
+        state.loadedArticles = articles;
+      },
+      setLoadedRoutes(state, routes){
+        state.loadedRoutes = routes;
       },
       setSiteLanguage(state, lang) {
         // console.log('set language to: ' + lang);
         state.siteLanguage = lang;
       },
-      addPathway(state, path) {
+      addRoute(state, path) {
         console.log('Path added: ' + path);
-        state.currentPathway.push(path);
+        state.currentRoute.push(path);
       },
       toggleSearchBar(state, isOpen){
         console.log('Is search open:', isOpen)
         state.searchBarIsOpen = isOpen
+      },
+      setActiveFilter(state, filter){
+        state.activeFilter = filter
+      },
+      toggleSidebar(state, isOpen){
+        // console.log('sidebar open', isOpen)
+        state.sidebarIsOpen = isOpen
+      },
+      setArticleTaoType(state, type){
+        state.articleTaoType = type
+      },
+      toggleCitationModal(state, citation){
+        state.citationModal = citation
+      },
+      enableTracking(state){
+        state.trackingEnabled = true
       }
     },
     actions: {
       async nuxtServerInit(vuexContext, context) {
-        const pages = await context.app.$content().only(['slug', 'title', 'title_de', 'id']).fetch();
-        vuexContext.commit('setPages', pages)
+        const articles = await context.app.$content().only(['slug', 'title', 'title_de', 'id', 'tao_type']).fetch();
+        vuexContext.commit('setLoadedArticles', articles);
+        const routes = await context.app.$content('/netlify/pathways').only(['slug', 'title', 'title_de', 'articles']).fetch();
+        vuexContext.commit('setLoadedRoutes', routes);
       }
     },
     getters: {
-      loadedPages(state) {
-        return state.loadedPages
+      loadedArticles(state) {
+        return state.loadedArticles
+      },
+      loadedRoutes(state) {
+        return state.loadedRoutes
       },
       siteLanguage(state) {
         return state.siteLanguage
       },
-      currentPathway(state) {
-        return state.currentPathway
+      currentRoute(state) {
+        return state.currentRoute
       },
-      isSearchBarOpen(state){
+      isSearchbarOpen(state){
         return state.searchBarIsOpen
+      },
+      activeFilter(state){
+        return state.activeFilter
+      },
+      isSidebarOpen(state){
+        return state.sidebarIsOpen
+      },
+      siteColours(state){
+        return state.colours
+      },
+      articleTaoType(state){
+        return state.articleTaoType
+      },
+      isCitationModal(state){
+        return state.citationModal
+      },
+      isTrackingEnabled(state){
+        return state.trackingEnabled
       }
     }
   })

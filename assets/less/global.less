@@ -1,6 +1,9 @@
 @import 'reset.less';
 @import 'fonts.less';
 @import 'variables.less';
+@import 'animations.less';
+@import 'transitions.less';
+@import 'colours.less';
 @import 'z-index.less';
 @import 'media-queries.less';
 @import 'typography.less';
@@ -9,6 +12,7 @@
 html{
   font-size:24px;
   -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing: grayscale; 
 
   @media screen and (max-width: @mq-s) /* Mobile */ {
     font-size: 18px;
@@ -36,8 +40,8 @@ body{
 }
 
 ::selection{
-  background: rgba(0,0,0,0.8);
-  color:grey;
+  background:var(--current-scheme-bg);
+  color:var(--current-scheme-fg);
 }
 
 :focus{
