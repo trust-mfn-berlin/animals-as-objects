@@ -2,7 +2,7 @@
 title: Content Management
 title_de: Content Management
 created: 1620129568099
-updated: 1623742320747
+updated: 1624529078646
 id: 55fcb7a1-c62e-4485-9c53-cec9c0094c94
 desc: test
 desc_de: test
@@ -41,6 +41,7 @@ published: true
         - take out backlinks to notes that will not be written
         - change titles of backlinks where the title has changes
     - check attached dates
+    - ask authors to designate title image
     - take out any comments to each other
     - add in any necessary comments for the translators
     - send docs to translators in Word
@@ -48,8 +49,8 @@ published: true
 2. Receive corrected and translated texts
     - WE adds in nec. markdown notation, and checks for completeness of all dendron fields and image descriptions, etc.
     - match new language to style guide
+    - rename German notes in Dendron to English titles, and update the bidirectional links where necessary.
     - Then send to authors and editors for review and release of the corrected and translated texts
-        - ask authors to designate title image
 
 3. WE enters corrected and translated texts into Dendron once okayed by authors
     - go via online markdown editor https://stackedit.io/app# first, then enter into Dendron
