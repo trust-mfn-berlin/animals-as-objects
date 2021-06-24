@@ -14,9 +14,21 @@ collections:
     folder: "vault"
     format: "frontmatter"
     create: false
+    view_filters:
+      - label: themes
+        field: tao_type
+        pattern: 'theme'
+      - label: materials
+        field: tao_type
+        pattern: 'material'
+      - label: stories
+        field: tao_type
+        pattern: 'story'
     view_groups:
       - label: type
         field: tao_type
+      - label: author
+        field: author
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: false
