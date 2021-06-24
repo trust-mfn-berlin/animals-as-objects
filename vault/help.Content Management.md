@@ -2,12 +2,16 @@
 title: Content Management
 title_de: Content Management
 created: 1620129568099
-updated: 1624529078646
+updated: 1624532197485
 id: 55fcb7a1-c62e-4485-9c53-cec9c0094c94
 desc: test
 desc_de: test
 published: true
 ---
+## Content Mgmt Overview
+
+The overview is in this Google Doc: https://docs.google.com/spreadsheets/d/12-i8ZtjfxpH2Yr9yN4n8P_BvH6yiad9oudAL51-LXH8/edit?usp=sharing
+
 ## Reviews
 
 1. Authors copy their own markdown texts into a google doc
