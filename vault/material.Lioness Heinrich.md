@@ -2,7 +2,7 @@
 id: 41dcbc58-4f45-457f-a286-4cf4773dda3d
 title: Lioness Heinrich
 desc: Image of the lioness "Heinrich
-updated: 1624526875173
+updated: 1624527634073
 created: 1620162574913
 title_de: Die Löwin "Heinrich"
 desc_de: Bild der Löwin "Heinrich"
@@ -17,5 +17,5 @@ published: false
 
 :::DE:::
 
-![Postkarte mit dem Bild der Löwin namens "Heinrich](images/cmw/S_7_2_Loewin_Heinrich.jpg)
+![Postkarte mit dem Bild der Löwin namens "Heinrich](/images/cmw/S_7_2_Loewin_Heinrich.jpg)
 

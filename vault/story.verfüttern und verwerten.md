@@ -2,7 +2,7 @@
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 title: VerfüTtern Und Verwerten
 desc: Put a description of this note here...
-updated: 1624527366826
+updated: 1624527579168
 created: 1621970259942
 title_de: Verfüttern und Verwerten
 desc_de: Put a DE description of this note here...
@@ -52,7 +52,7 @@ Ein zusätzliches Problem bestand darin, dass das in den Westsektoren anfallende
 
 Die Löwen im Berliner Zoo erhielten indes nur einen Teil des Elefantenfleisches. Ein anderer gelangte in menschliche Versorgungskreisläufe, genauer gesagt landete es auf dem Schwarzmarkt und von dort angeblich auf der Speisekarte eines Berliner Restaurants. Als der Zoo-Angestellte Karl Wolf jun. berichtete, ihm sei Elefantenfleisch zum Preis von 65 Reichsmark pro Pfund angeboten worden[^Verfüttern10], nahm die Polizei umgehend Ermittlungen auf. Wolf wurde beauftragt, das Fleisch zu kaufen und dem Zoo zu berichten. Tatsächlich erschien er mit 5 Pfund Fleisch, das ihm eine Bewohnerin seines Hauses vor dem Restaurant Savarin für 325 Reichsmark übergeben hatte. Einer der Zoowärter wurde angeklagt, das Fleisch entwendet und rund 20 Pfund unter der Hand weiterverkauft zu haben.[^Verfüttern11] Der Elefant war somit am Ende vom Schautier zum Fleischlieferanten geworden. Als die Presse Wind von der Sache bekam, hieß es dort "Elefant à la carte" und "Siam auf der Speisekarte".[^Verfüttern12] [[Kriegsopfer und Delikatesse]]
 
-![Zeitungsartikel in \_Der Morgen\_ vom 20.3.1947](images\mv\Speisekarte.jpg) 
+![Zeitungsartikel in \_Der Morgen\_ vom 20.3.1947](/images/mv/Speisekarte.jpg) 
 
 _Die Tageszeitung 'Der Morgen' berichtet über den illegalen Verkauf des Elefantenfleischs,20.03.1947._
 

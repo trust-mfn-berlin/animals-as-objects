@@ -2,7 +2,7 @@
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 title: Zoo and National Socialism
 desc: During 
-updated: 1624527377575
+updated: 1624527634074
 created: 1619020958263
 title_de: Der Zoo im Nationalsozialismus
 desc_de: In der Zeit der nationalsozialistischen Diktatur biederten sich Zooleitung und Aufsichtsrat dem Regime an. Der Zoo wurde zu einem Propagandainstrument der Nationalsozialisten und schloss jüdische Besucher\*innen aus. Der Zoodirektor war mit der Elite des Regimes gut vernetzt. Während des Krieges wurden Zwangsarbeiter ausgebeutet.
@@ -60,7 +60,7 @@ Rechtzeitig zu den Olympischen Sommerspielen in Berlin, eröffnete der Zoo eine 
 
 Im August 1935 wurde ihm auf Initiative des Preußischen Ministerpräsidenten Hermann Göring eine Grundstückserweiterung am Tiergartenrand zugewiesen. Zunächst hatten Polizei und Reiter-SA Einspruch dagegen erhoben, da es den Reitweg am Tiergartenrand einschränken würde. Aber gegen die Macht Görings hatten sie keine Mittel.[^propa3] Auf dem neuen Geländestreifen siedelte Heck in großen Gehegen "einheimische Tierarten" an. Neben "deutschen" Raubtieren wie dem Wolf und dem Bären wurden "deutsche Raubvögel" wie Adler und Bussard ausgestellt. Dass praktisch alle diese Tiere auch in Nachbarländern des Deutschen Reichs vorkamen, und einige, wie der Bär in Deutschland praktisch gar nicht mehr, spielte für den propagandistischen Effekt keine Rolle. (Siehe [[story.native and exotic]]) In einem 'niedersächsischen Bauernstall' wurden einheimische Nutztiere gezeigt. Auch diese wurden propagandistisch instrumentalisiert: die Präsentation sollte zeigen, dass Mensch und Tier auf den "älteren deutschen Gehöften miteinander" angeblich "inniglich" miteinander gelebt hätten.[^haustierhof] gelebt hätten. 
 
-![desc](images/cmw/farmhouse-1937.jpg)
+![desc](/images/cmw/farmhouse-1937.jpg)
 _"Niedersächsisches bauernhaus mit Stall" im 'deutschen Zoo', 1937. (AZGB)_
 
 Im Zentrum des "Deutschen Zoos" stand das Gehege für eine besondere Rinderart - den "Auerochsen" oder "Ur". [[story.Reviving the Aurox]] Diese Art gilt als Stammvater aller europäischen Hausrinderrassen. Allerdings war das letzte Exemplar seiner Sorte im 17. Jahrhundert gestorben. Lutz Heck und sein Bruder [[material.Heinz Heck]], Direktor des Münchner Tierparks Hellabrunn, versuchten diese Tiere aus Kreuzungen verschiedener Rinderrassen wiedererstehen zu lassen.[^propa4]
@@ -110,17 +110,17 @@ Zudem wurden Notfallpläne erarbeitet, um im Fall eines Bombenangriffs ausbreche
 
 Andere Zoos wurden allerdings nicht geschützt. Laut den Erinnerungen Antonina Zabinskas der Ehefrau des Warschauer Zoodirektors Jan Zabinski, kam Lutz Heck direkt nach der Besetzung Warschaus in die Stadt und ordnete die Verlegung der schönsten Tiere in andere Zoos im Reichsgebiet an. Dann leitete er im Auftrag des nationalsozialistischen Regimes die Liquidation des Warschauer Zoologischen Gartens ein.[^war4] 
 
-![Auszug aus dem Geschäftbericht für 1939](images/cmw/Beute_Warschau_GB.jpg)
+![Auszug aus dem Geschäftbericht für 1939](/images/cmw/Beute_Warschau_GB.jpg)
 _Auszug aus dem Geschäftbericht für 1939. (AZGB)_
 
 Auch aus anderen Quellen erhielt der Zoo ab 1939 Kriegsbeute. Von der Schutzstaffel (SS) kamen 1940 polnische "Panjepferde".  Lutz Heck versuchte sich zusammen mit seinem Bruder Heinz Heck, dem Zoodirektor in München, wie beim Auerochsen an Kreuzungsversuchen im Rahmen einer Rückzüchtung der ausgestorbenen Pferdegattung der Tarpane.[^war5]
 
-![desc](images/cmw/Kriegsbeute_GB.jpg)
+![desc](/images/cmw/Kriegsbeute_GB.jpg)
 _Auszug aus dem Geschäftsbericht für 1942. (AZGB)_
 
 Die Behörde des inzwischen zum Leiter der Naturschutzabteilung im Reichsforstamt aufgestiegenen Lutz Heck beteiligte sich koordinierend an der von Pogromen begleiteten Räumung des letzten verbliebenen europäischen Urwalds von Bialowieza. Reichsjägermeister Hermann Göring plante dort ein großes Jagdgebiet für den Wisent und die dort noch auszuwildernden 'Auerochsen'. Hunderte Juden und Jüdinnen wurden im Verlauf dieser Räumung ermordet, Tausende nichtjüdische Pol\*innen vertrieben. Auch dort ließ sich Lutz Heck vermutlich Pferde stehlen. Nach dem Kriegsende kamen polnische Wissenschaftler auf der Suche nach gestohlenen Pferden/ Koniks nach Berlin.[^war6]
 
-![Lutz Heck und sein Fahrer vor einem Auto](images/cmw/Heck_Auto_1939.jpg)
+![Lutz Heck und sein Fahrer vor einem Auto](/images/cmw/Heck_Auto_1939.jpg)
 _Lutz Heck und wahrscheinlich ein Fahrer und ein Dienstwagen des Reichsjagdamtes, 1939. (AZGB)_
 
 Wie alle Zoos war auch der Zoologische Garten obwohl er ausdrücklich geöffnet bleiben sollte von den Einberufungen der Mitarbeiter zur Wehrmacht betroffen. Um die Arbeitskraft zu ersetzen, beutete der Zoo ab 1940 zunächst polnische und französische, dann wohl auch sowjetische Kriegsgefangene und Zivilisten als Zwangsarbeiter aus. Aktenfunde legen nah, dass Lutz Heck selbst bei einem einem Besuch in Bialowieza sechs junge Männer zur Zwangsarbeit nach Berlin verschleppen ließ.  Spätestens im Spätsommer 1941 wurde eine unbekannte Anzahl sogenannter Ostarbeiter im Zoo ausgebeutet. Es handelte sich dabei um mit falschen Versprechen aus der besetzten Sowjetunion nach Berlin gelockte oder entführte Menschen. Mindestens ein niederländischer Häftling leistete im Aquarium Zwangsarbeit. Und im letzten Kriegsjahr kamen dauerhaft 40 sogenannte Italienische Militärinternierte - nach der italienischen Kapitulation internierte italienische Soldaten - hinzu. Im Zoo selbst war der Bau einer Baracke für etwa zwölf Zwangsarbeiter geplant. Bei den Aufräumarbeiten nach den Bombenangriffen im Winter 1943/44 wurden wohl mehrere Hundert sowjetische Kriegsgefangene vom Gau Berlin im Zoo eingesetzt. Wir wissen wenig über die Lebensbedingungen der im Zoo zur Arbeit gezwungenen Menschen. Auch für andere deutsche Zoos ist der Einsatz von Zwangsarbeitern belegt. Es ist aber anzunehmen, dass der Zoo der Reichshauptstadt einen so hohen Stellenwert genoss, dass er auf zahlreiche Zwangsarbeiter zurückgreifen konnte.[^labour1]
@@ -141,7 +141,7 @@ Liste der getöteten Tiere, 1943. (AZGB)
 
 In der folgenden Nacht wurde das Aquarium zerstört. Eine Bombe schlug mitten in die zentrale Krokodilhalle ein. Berstende Aquarienscheiben entließen große Wassermassen und schwemmten die Tiere bis auf die Straße und in den Zoo. Die wechselwarmen Reptilien und Schlangen erstarrten in der kalten Novembernacht sofort. Einige Kaimane konnten noch lebend im Erdgeschoss geborgen werden. Oskar Heinroth und die verbleibenden Mitarbeiter versuchten sie im Heizungskeller durchzubringen, scheiterten aber. Auch im Zoo selbst waren Tiere durch die Bombenschäden ihren Gehegen entwichen. Nun wirkten die vorbereiteten Schutzmaßnahmen. Fangtrupps fingen die Tiere schnell wieder ein oder töteten sie.
 
-![desc](images/cmw/Ruine_Elefantenhaus_Heck.jpg)
+![desc](/images/cmw/Ruine_Elefantenhaus_Heck.jpg)
 _Inneres des zerstörten Elefantenhauses in dem sieben Elefanten starben, 1943. (AZGB)_
 
 Hunderte Zwangsarbeitern räumten den Zoo von Trümmern.[^destruction2] Ein halbes Jahr später öffnete der Zoo rechtzeitig zu seinem 100jährigen Jubiläum am 25. Juli 1944 wieder. Bis zu 5 000 Menschen wurden im Sommer und Herbst 1944 gleichzeitig zu den Öffnungszeiten in den Zoo gelassen. Insgesamt kamen 250 000 Besucher\*innen um immer noch mehr als 1 500 Tiere zu bestaunen.[^war8] Bei Luftalarm sollten sie in den riesigen Flakturm am nördlichen Zoorand evakuiert werden.[^war9]

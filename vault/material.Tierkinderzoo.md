@@ -2,7 +2,7 @@
 id: ZG0tbfOCtvAdL9l9uR1cl
 title: Tierkinderzoo
 desc: Put a description of this note here...
-updated: 1624399929826
+updated: 1624527602765
 created: 1624397695001
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -22,7 +22,7 @@ published: false
 
 # Tierkinder aus aller Welt
 
-![Gepardenjunges und junge Hausschweine und Schafe](images\cmw\Tierkindergarten_1930er.jpg)
+![Gepardenjunges und junge Hausschweine und Schafe](/images/cmw/Tierkindergarten_1930er.jpg)
 _Bild aus dem 'Tierkinderzoo', um 1933. (AZGB)_
 
 ODER ANDERER EINSTIEG > MERH AUF FOTO EINGEHEN??
@@ -35,7 +35,7 @@ Die Tiere kamen nicht aus dem Zoo selst. Dieser hätte gar nicht ausreichend Jun
 
 In der Tat war der 'Tierkinderzoo' so erfolgreich, dass er in den folgenden Jahren mehrfach wiederholt wurde. xxxx ein Phänomen, das heute wie xx erscheint. ...
 
-![Kleinkinder spielen in einem Kinderwagen mit jungen Raubkatzen](images\cmw\Tierkinderzoo_1936.jpg)
+![Kleinkinder spielen in einem Kinderwagen mit jungen Raubkatzen](/images/cmw/Tierkinderzoo_1936.jpg)
 _Bild des 'Tierkinderzoos' von 1936. (AZGB)_ [[story.löwenbabys]]
 
 Heute werden weder im Berliner Zoo noch in anderen deutschen Zoos Raubtiere in dieser Form ausgestellt. 

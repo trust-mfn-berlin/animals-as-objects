@@ -2,7 +2,7 @@
 id: e47d02d6-04d0-4cee-9dd9-41600707ed5a
 title: Zoo Architecture
 desc: Put a description of this note here...
-updated: 1624527354418
+updated: 1624527634073
 created: 1619798990411
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -75,7 +75,7 @@ Hauptsache leicht zu reinigen Zooarchitektur im Badezimmerstil 1950-1960
 
 ## Neues Bauen?
 
-![Das Innere des Flusspferdhauses](images/cmw/Flussspferdhaus_2019.jpg)
+![Das Innere des Flusspferdhauses](/images/cmw/Flussspferdhaus_2019.jpg)
 Dass Innere des Flusspferdhauses, 2019. (Clemens Maier-Wolthausen)
 
 Hauck, Thomas E., Stefanie Hennecke, André Krebber, Wiebke Reinert, und Mieke Roscher. „Über die (Un-)Sichtbarkeit der Tiere im Zoo und die ‚Zoofizierung‘ des urbanen Raums“. In Urbane Tier-Räume, herausgegeben von Thomas E. Hauck, Stefanie Hennecke, André Krebber, Wiebke Reinert, und Mieke Roscher, 135–38. Berlinb: Dietrich Reimer Verlag, 2017.

@@ -2,7 +2,7 @@
 id: d54394f6-1188-4ec3-b590-da329e657560
 title: Futternot
 desc: Put a description of this note here...
-updated: 1624527500800
+updated: 1624527579170
 created: 1621497485660
 title_de: Futternot
 desc_de: Put a DE description of this note here...
@@ -71,7 +71,7 @@ Nachdem der gröbste Schutt entfernt worden war, machten sich Katharina Heinroth
 
 <figure>
 
-![Zeitungsausschnitt mit Foto: zwei Personen mit Hüten stehen hinter einem Pflug vor den ein dunkles und ein helles Pferd gespannt sind. Text: Auch im Berliner Zoo wird jedes Stückchen Land zur Frühjahrsbestellung umgepflügt. Nicht nur der Bedarf des Zoos an Futtermitteln ist groß, auch die Berliner Speisekarte wird dabei bereichert.](images\mv\Vorwaerts1946AusschnittJPG.jpg)
+![Zeitungsausschnitt mit Foto: zwei Personen mit Hüten stehen hinter einem Pflug vor den ein dunkles und ein helles Pferd gespannt sind. Text: Auch im Berliner Zoo wird jedes Stückchen Land zur Frühjahrsbestellung umgepflügt. Nicht nur der Bedarf des Zoos an Futtermitteln ist groß, auch die Berliner Speisekarte wird dabei bereichert.](/images/mv/Vorwaerts1946AusschnittJPG.jpg)
 
 <figcaption>
 
@@ -83,7 +83,7 @@ _Gemüse- und Salatanbau auf dem Gelände des Zoologischen Gartens Berlin, abged
 
 <figure>
 
-![Zeitungsauschnitt mit Überschrift "Zoo: junge Tiere, junge Pflanzen, junge Menschen". Foto zeigt Person mit Pflug, vor den ein dunkles und ein helles Pferd gespannt sind. Seitlich steht kleines Huftier in Gitterkäfig.](images\mv\FrauVonHeute07051946AusschnittJPG.jpg)
+![Zeitungsauschnitt mit Überschrift "Zoo: junge Tiere, junge Pflanzen, junge Menschen". Foto zeigt Person mit Pflug, vor den ein dunkles und ein helles Pferd gespannt sind. Seitlich steht kleines Huftier in Gitterkäfig.](/images/mv/FrauVonHeute07051946AusschnittJPG.jpg)
 
 <figcaption>
 
@@ -99,7 +99,7 @@ Während im Berliner Zoo nur knapp zehn Jahre später der Tod von Tieren durch �
 
 <figure>
 
-![Zeitungsausschnitt mit Überschrift: Berliner, Rettet Euren Zoo! Vier Fotos zeigen Menschen mit Hunden, Vögeln und einem Igel.](images\mv\TelegrafMaerzApril1949AusschnittJPG.jpg)
+![Zeitungsausschnitt mit Überschrift: Berliner, Rettet Euren Zoo! Vier Fotos zeigen Menschen mit Hunden, Vögeln und einem Igel.](/images/mv/TelegrafMaerzApril1949AusschnittJPG.jpg)
 
 <figcaption>
 

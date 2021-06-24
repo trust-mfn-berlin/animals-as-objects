@@ -33,7 +33,7 @@ Viele der nicht einheimischen Tiere in der Frühzeit der Zoos waren [[Geschenke|
 
 <figure>
 
-![Schwarz-weiß Foto eines liegenden und eines stehenden Elefanten mit drei Zoowärtern vor einem hohen Zaun](images/cmw/Elefant_Omar.jpg)
+![Schwarz-weiß Foto eines liegenden und eines stehenden Elefanten mit drei Zoowärtern vor einem hohen Zaun](/images/cmw/Elefant_Omar.jpg)
 
 <figcaption>
 
@@ -57,7 +57,7 @@ Zoos konnten Ende des 19. Jahrhunderts auf umfangreiche Angebote mehrerer profes
 
 <figure>
 
-![Schwarz-weiß Foto verschieden großer Körbe, Kisten und Behälter mit Abdeckungen auf gepflastertem Weg. Eine Person sitzt links daneben und hält zylinderförmigen, halb mit Wasser gefüllten Glasbehälter.](images/cmw/Aqua_Fischtransport_Seitz.jpg)
+![Schwarz-weiß Foto verschieden großer Körbe, Kisten und Behälter mit Abdeckungen auf gepflastertem Weg. Eine Person sitzt links daneben und hält zylinderförmigen, halb mit Wasser gefüllten Glasbehälter.](/images/cmw/Aqua_Fischtransport_Seitz.jpg)
 
 <figcaption>
 
@@ -73,7 +73,7 @@ Im Berliner Zoo wurden, wenn auch nur in einem sehr begrenzten Maß, eigene Fang
 
 <figure>
 
-![Schwarz-weiß Foto: fünf Giraffen, die aus Transportkisten herausgucken. Person mit Tropenhelm und hohen Stiefeln steht auf einer an der rechten Transportkisten angebrachten Stufe und guckt neben dem Giraffenkopf oben hinein.](images/cmw/Giraffentransport_1928_S_3_58_Wolter.jpg)
+![Schwarz-weiß Foto: fünf Giraffen, die aus Transportkisten herausgucken. Person mit Tropenhelm und hohen Stiefeln steht auf einer an der rechten Transportkisten angebrachten Stufe und guckt neben dem Giraffenkopf oben hinein.](/images/cmw/Giraffentransport_1928_S_3_58_Wolter.jpg)
 
 <figcaption>
 
@@ -99,7 +99,7 @@ Mit dem wachsenden Erfolg von Zuchtprogrammen versuchten sich Zoos und Aquarien 
 
 <figure>
 
-![Zwei hohe, von oben stark beleuchtete Glasbecken mit kleinen, hellen Quallen in dunklem Wasser. Gefliester Boden und weitere Becken im Hintergrund.](images/cmw/Quallenaufzucht_um1999.jpg)
+![Zwei hohe, von oben stark beleuchtete Glasbecken mit kleinen, hellen Quallen in dunklem Wasser. Gefliester Boden und weitere Becken im Hintergrund.](/images/cmw/Quallenaufzucht_um1999.jpg)
 
 <figcaption>
 

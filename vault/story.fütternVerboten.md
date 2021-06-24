@@ -2,7 +2,7 @@
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 title: fütternVerboten
 desc: Put a description of this note here...
-updated: 1624527455574
+updated: 1624527579169
 created: 1620752897039
 title_de: Füttern Verboten
 desc_de: Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo selbstverständlich erscheint, war lange Zeit ein direkter Kontakt beim Füttern durch die Besucher\*innen üblich. Wie, wann und weshalb führten Zoos ein Fütterungsverbot ein? 
@@ -36,7 +36,7 @@ Die damaligen Zooführer luden die Besucher\*innen zum eigenen Füttern ein, all
 
 Obwohl Diskussionen um die Besucherfütterung und Teilverbote in zoologischen Gärten innerhalb und außerhalb Deutschland schon lange präsent waren, **führte die Mehrzahl der Zoos erst in den 1950er Jahren ein generelles Fütterungsverbot ein** - nachdem sich die Erkrankungen und Tode, die auf Überfütterung zurückgingen, gerade in den gut besuchten Sommermonaten häuften. Als am 1. Juni 1953 ein gerade neu erworbener Elefant im Frankfurter Zoo an den Folgen der Überfütterung durch die Besucher verendete, beschloss der damalige Direktor Bernhard Grzimek, das Füttern der Zootiere durch Besucher\*innen komplett zu verbieten. 1957 folgte der Leipziger Zoo und der Zoologische Garten zu Münster 1959, nachdem auch dort mehrere Tiere gestorben waren.[^FütternVerboten2] 
 
-![Zeitungsseite mit abgebildeten Fütterungsverbotsschildern in zoologischen Gärten, 1960](images\mv\8UhrBlattVerbotsschilerJPG.jpg)
+![Zeitungsseite mit abgebildeten Fütterungsverbotsschildern in zoologischen Gärten, 1960](/images/mv/8UhrBlattVerbotsschilerJPG.jpg)
 
 _Verbotsschilder in zoologischen Gärten, abgedruckt im '8-Uhr-Blatt', 13.04.1960._
 
@@ -53,14 +53,14 @@ Nicht nur steigende Besuchszahlen wurden hier ins Feld geführt. **Es ging um ei
 >"Auch wenn Ihr Futter Ihnen einwandfrei erscheint, würden doch immer wieder schwere Erkrankungen und Todesfälle dadurch eintreten, daß zu viele Menschen füttern; auch wenn nur jeder zehnte Besucher eine Kleinigkeit reicht, käme im Laufe des Tages eine gewaltige Menge zusammen! Ein Tier, das z.B. normalerweise mit Heu und Hafer ernährt wird, gerät in Lebensgefahr, wenn es bei starkem Zoobesuch auf einmal pfundweise Brot, Obst oder Küchenabfälle erhält! Die Ansicht: 'Jedes Tier weiß, was und wieviel ihm bekommt', ist leider falsch, und manches Zootier hat deswegen schon ein qualvolles Ende nehmen müssen."[^FütternVerboten5] (siehe auch [[story.überfüttern]])
 
  
-![Zooführer von 1960 mit rotem Stempelaufdruck, der auf das neue Fütterungsverbot hinweist](images\mv\FuetternStempel1960WegweiserAusschnittJPG.jpg)
+![Zooführer von 1960 mit rotem Stempelaufdruck, der auf das neue Fütterungsverbot hinweist](/images/mv/FuetternStempel1960WegweiserAusschnittJPG.jpg)
 
 _Per Stempel überschreiben die neuen die alten Richtlinien zum Füttern im Berlin Zooführer von 1960._  
 
 
 Im Zooführer von 1960 wurde nach dem Beschluss des Verbots den nun veralteten Fütterungsregeln zuerst behelfsmäßig ein roter Stempel aufgedrückt. Im nächsten Jähr war das Regelwerk dann komplett überarbeitet. Auf das Verbot wies der Wegweiser von nun an gleich am Anfang in der 'Gartenordnung' oder in der einleitenden Ansprache 'An unsere Besucher' hin. Im Garten selbst waren außerdem Schilder direkt an den Gehegen angebracht.  
 
-![Giraffenanlage im Berliner Zoo mit Fütterungsverbotschild und Metallbarriere. Eine Giraffe neigt den Kopf über das Gitter des Geheges zu den Besucher\*innen](images\mv\Giraffe_Fuetterverbot_1954_OttmarKraenzlein.jpg) 
+![Giraffenanlage im Berliner Zoo mit Fütterungsverbotschild und Metallbarriere. Eine Giraffe neigt den Kopf über das Gitter des Geheges zu den Besucher\*innen](/images/mv/Giraffe_Fuetterverbot_1954_OttmarKraenzlein.jpg) 
 
 _Giraffen durften im Berliner Zoo bereits 1954 nicht mehr gefüttert werden. Das Schild und eine Absperrung sollten die Besucher\*innen auf Abstand halten (AZGB, Ottmar Kränzlein. All rights reserved)._
 
@@ -70,7 +70,7 @@ _Giraffen durften im Berliner Zoo bereits 1954 nicht mehr gefüttert werden. Das
 _Hinweisschild für ein Eisbärenjungtier 19xx. (AZGB)_
 
 
-![Verbotsschild am Elefantengehege im Berliner Zoo 1969](images\mv\BZ26071969AusschnittJPG.jpg)
+![Verbotsschild am Elefantengehege im Berliner Zoo 1969](/images/mv/BZ26071969AusschnittJPG.jpg)
 
 _Fütterungsverbotschild im Zoologischen Garten Berlin 1969. (AZGB)_
 
@@ -93,7 +93,7 @@ In der Tat waren gerade die besonders zahmen, an Mensch und Futter gewöhnten Ti
 
 Auf die "Tierliebe" berief sich der Zoo zudem, wenn er seine Besucher\*innen mit einer "besonderen Bitte" dazu aufforderte, aktiv zur Durchsetzung der Zooregeln beizutragen. Auch dies galt bereits, als es noch um Teilverbote ging:
 
-![Auszug aus dem Zoo-Wegweiser von 1956](images\mv\FuetterregelnWegweiser1956AusschnittJPG.jpg)
+![Auszug aus dem Zoo-Wegweiser von 1956](/images/mv/FuetterregelnWegweiser1956AusschnittJPG.jpg)
 
 _Im Zooführer von 1956 abgedruckte Aufforderung an die Zoobesucher\*innen._
 
@@ -106,14 +106,14 @@ Andere Vorschläge richteten sich statt auf die Disziplinierung der Menschen auf
 
 **In der Tat spielte die Ausstellungsarchitektur der Gehege eine wichtige Rolle für das Verhältnis von Nähe und Distanz**. (siehe auch [[story.Zoo Architecture]]) In den frühen 1930er Jahren waren im Gefolge der Hagenbeckschen Freigehege die Gitterstäbe vieler Ausläufe durch Gräben ersetzt worden. Vorbild war die Eröffnung des Stellinger Tierparks im Jahre 1907, mit dem Carl Hagenbeck neue Akzente setzte. Viele Institutionen folgten dem Modell und 1930 rühmte sich auch der Zoologische Garten Berlin, seine Anlagen zu "entgittern".[^FütternVerboten15] Der so geschaffene Abstand schuf aber noch nicht unbedingt Kontaktlosigkeit - und das war auch nicht intendiert. Vielmehr war der Graben in der Elefantenanlage in Berlin extra schmal genug gehalten, so Zoodirektor Lutz Heck, "daß die Tiere mit dem Rüssel dem Besucher Brot aus der Hand abnehmen können."[^FütternVerboten16] Und auch das Nilpferdbecken rückte den Menschen noch nah ans Tier, erlaubte dadurch eine direkte Tuchfühlung und erleichterte das Füttern. 
 
-![Titelbild der Zeitschrift "Die Woche im Bild", wo ein schwarz-weiß Foto eine Schar Kinder zeigt, die am Rande des Nildpferdbeckens stehen und auf das Tier blicken, dem ein Junge in der vorderen Reihe etwas ins aufgerissene Maul wird.](images\mv\DieWocheImBild.jpg)
+![Titelbild der Zeitschrift "Die Woche im Bild", wo ein schwarz-weiß Foto eine Schar Kinder zeigt, die am Rande des Nildpferdbeckens stehen und auf das Tier blicken, dem ein Junge in der vorderen Reihe etwas ins aufgerissene Maul wird.](/images/mv/DieWocheImBild.jpg)
 
 _Das Cover der "Woche im Bild" vom Nildpferdbecken zeigt, dass Füttern  lange zu den Attraktionen zoologischer Gärten gehörte, unterstützt durch eine Architektur, die Nähe schafft, 07.08.1930._
 
 
 Ende der 1950er Jahre kam das nicht mehr in Frage. Bei den Elefanten wurden nun die mitgebrachten Lebensmittel der Besucher\*innen eingesammelt. 
 
-![Ein Zoopfleger sammelt im Graben der Elefanten-Außenanlage von den Besucher\*innen mitgebrachtes Brot und andere Lebensmittel ein.](images\mv\BildZeitung02041960FutterAbgeben.jpg)
+![Ein Zoopfleger sammelt im Graben der Elefanten-Außenanlage von den Besucher\*innen mitgebrachtes Brot und andere Lebensmittel ein.](/images/mv/BildZeitung02041960FutterAbgeben.jpg)
 
 _Nach "Jambos" Erkrankung mussten Besucher\*innen ihre mitgebrachten Lebensmittel beim Zoopfleger abliefern, wie die "Bild-Zeitung" berichtete, 02.04.1960._
 

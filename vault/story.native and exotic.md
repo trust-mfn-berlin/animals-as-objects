@@ -2,7 +2,7 @@
 id: 5277f2fa-42b1-4bfa-8a6c-8f8c2117784e
 title: Native and Exotic
 desc: Put a description of this note here...
-updated: 1624527385448
+updated: 1624527602762
 created: 1620997389421
 title_de: Heimisch und Exotisch
 desc_de: Put a DE description of this note here...
@@ -52,7 +52,7 @@ _Bild aus dem 'Tierkinderzoo', um 1933. (AZGB)_
 
 Ziel der Zooleitung war offiziell, das Interesse der Kinder an Tieren insgesamt zu wecken. Stadtkinder sollten dadurch einen Teil der Natur, der ihnen mit der Urbanisierung entzogen worden war, zurückgewinnen. Dass diese Begegnungen zwischen Mensch und Tier heute nicht mehr dem Verständnis einer angemessenen Raubtierpflege entsprechen, spielte damals keine Rolle. Die Tiere kamen auch nicht aus dem Zoo selst. Dieser hätte gar nicht ausreichend Jungtiere gehabt. Sie wurden von der Tierhandelsfirma Ruhe zur geliefert gestellt, die sich dann mit dem Zoo die Einnahmen teilte. Es ist augenscheinlich, dass es vor allem um die Attraktion ging. Es scheint fast so, als hätte der Tierkinderzoo als eine Art Ersatz für die nun weniger populären und nicht mehr gewinnbringenden "Völkerschauen" gedient. Und in der Tat war der 'Tierkinderzoo' so erfolgreich, dass er in den folgenden Jahren mehrfach wiederholt wurde. [^tierkinder]
 
-![Kleinkinder spielen in einem Kinderwagen mit jungen Raubkatzen](images\cmw\Tierkinderzoo_1936.jpg)
+![Kleinkinder spielen in einem Kinderwagen mit jungen Raubkatzen](/images/cmw/Tierkinderzoo_1936.jpg)
 _Bild des 'Tierkinderzoos' von 1936. (AZGB)_
 
 Heute werden weder im Berliner Zoo noch in anderen deutschen Zoos Raubtiere in dieser Form ausgestellt. Möglicherweise standen aber die zwischen den 1950er und 1990er Jahren weit verbreiteten 'Löwenbaby-Fotografen' in der Tradition dieser Tierkinderzoos. [[story.lion babies]] Auch hier mussten 'exotische' Raubtiere und nicht einheimische Zicklein für die gestellten Fotografien herhalten. Nach wie vor ist der Streichelzoo mit Haustieren wie Ziegen, Ponys und Schafen dennoch eine große Attraktion für junge Besucher\*innen. Heute also nur noch einheimische und domestizierte Tierarten.

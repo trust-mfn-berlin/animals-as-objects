@@ -2,7 +2,7 @@
 id: cdaa8a05-6456-4b87-a663-c755790440d3
 title: Journal Der Zoologische Garten
 desc: Put a description of this note here...
-updated: 1624526871598
+updated: 1624527602760
 created: 1618496596303
 title_de: Zeitschrift Der Zoologische Garten
 desc_de: Put a DE description of this note here...
@@ -19,11 +19,11 @@ English content goes here.
 
 <figure>
 
-![Titelseite von Der Zoologische Garten mit Foto von Tier XYZ](images\cmw\ZG_1933.jpg)
+![Titelseite von Der Zoologische Garten mit Foto von Tier XYZ](/images/cmw/ZG_1933.jpg)
 
-![Titelseite von Der Zoologische Garten mit Foto von Nashorn](images\cmw\ZG_1961.jpg)
+![Titelseite von Der Zoologische Garten mit Foto von Nashorn](/images/cmw/ZG_1961.jpg)
 
-![Titelseite von Der Zoologische Garten mit Foto von Gleitbeutler](images\cmw\ZG_2015.jpg)
+![Titelseite von Der Zoologische Garten mit Foto von Gleitbeutler](/images/cmw/ZG_2015.jpg)
 
 <figcaption>
 
@@ -39,11 +39,11 @@ More content.
 
 <figure>
 
-![Titelseite von Der Zoologische Garten mit Foto von Tier XYZ](images\cmw\ZG_1933.jpg)
+![Titelseite von Der Zoologische Garten mit Foto von Tier XYZ](/images/cmw/ZG_1933.jpg)
 
-![Titelseite von Der Zoologische Garten mit Foto von Nashorn](images\cmw\ZG_1961.jpg)
+![Titelseite von Der Zoologische Garten mit Foto von Nashorn](/images/cmw/ZG_1961.jpg)
 
-![Titelseite von Der Zoologische Garten mit Foto von Gleitbeutler](images\cmw\ZG_2015.jpg)
+![Titelseite von Der Zoologische Garten mit Foto von Gleitbeutler](/images/cmw/ZG_2015.jpg)
 
 <figcaption>
 

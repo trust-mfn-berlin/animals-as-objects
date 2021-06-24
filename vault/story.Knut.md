@@ -2,7 +2,7 @@
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
 desc: Put a description of this note here...
-updated: 1624527517625
+updated: 1624527602763
 created: 1618576718116
 title_de: Knut
 desc_de: Der 2006 geborene Eisbär "Knut" entwickelte eine bis dahin für ein einzelnes Zootier ungekannte Popularität. Medien und Zooleitung machten ihn zu einem 'Botschafter' der Klimakrise, die das Habitat der Eisbären bedrohte. Die starke Übertragung von Emotionen von Besucher\*innen und Fans in aller Welt auf das Tier wirkte über seinen Tod hinaus.
@@ -31,7 +31,7 @@ All dieses verblasst aber gegenüber der Popularität die 2007 ein Eisbärenjung
 Am **5. Dezember 2006** gegen 15.00 Uhr brachte die Eisbärin "Tosca" zwei Jungtiere zur Welt. Nach kurzer Zeit stellte sich heraus, dass das Muttertier keine Anzeichen einer pflegenden Fürsorge zeigte. **Eines der Jungtiere starb.** Das andere aber wurde aus dem Gehege entfernt und wurde **erfolgreich mit der Flasche** versorgt.[^birth1] Die Pfleger und Kuratoren gaben ihm den Namen "Knut". 
 Damals war so eine Geschichte einer Tiergeburt und die Versorgung mit der Flasche kein ungewöhnlicher Vorgang in Zoos. Aber aus verschiedenen Gründen wurde das Eisbärenjunge bald sehr bekannt. 
 
-![desc](images\cmw\Knut_March07_Griesbach.jpg)
+![desc](/images/cmw/Knut_March07_Griesbach.jpg)
 *Der junge "Knut" bei ersten Erkundungen eines Außengeheges, 2007. (AZGB, Foto Griesbach)*
 
 Einen großen Anteil an der sich entwickelnden Popularität des Tieres hatten die Medien, insbesondere die lokale ARD-Anstalt **Rundfunk Berlin-Brandenburg** (RBB). Schon als das Tier noch gar nicht offiziell vorgestellt worden war und noch hinter den Kulissen versorgt wurde informierte der RBB seine Hörer\*innen **täglich mit Nachrichten aus dem Zoo über den Zustand des kleinen Bären und die Beziehung zu dessen Pfleger Thomas Dörflein.** Dazu nutzte der RBB unter 'www.rbb-online.de/knut' das damals noch relativ neue Medium eines weblog/blog, um die Berliner\*innen über die Entwicklung des Eisbärenjungen zu informieren. Diese täglichen Updates auf einer 'eigenen Website' hatten maßgeblichen Anteil an "Knuts" wachsender Berühmtheit.[^star1]
@@ -55,13 +55,13 @@ Zwar sah man im Berliner Zoo solche Diskussionen mit Skepsis, dem Bekanntheitsgr
 
 ## Botschafter des Klimaschutzes
 
-![desc](images\cmw\Dorflein_Gabriel_Blaszkiewitz_230307_Broseke.jpg)
+![desc](/images/cmw/Dorflein_Gabriel_Blaszkiewitz_230307_Broseke.jpg)
 *Bundesumweltminister Sigmar Gabriel umrahmt von Thomas Dörflein, "Knut" und Direktor Bernhard Blaszkiewitz, 2007. (AZGB, Foto Bröseke)*
 
 Zur Popularität "Knuts" trug aber wohl auch ein besonderes Timing bei. "Knuts" Geburt geschah zu einem Zeitpunkt, an dem zum ersten Mal eine intensive Diskussion um die Klimakrise und die Bedrohung des natürlichen Lebensraums der Eisbären geführt wurde. **Das Tier eignete sich als Botschafter in der Klimadebatte.** Auch deshalb, weil angesichts wissenschaftlicher Prognosen zum Rückgang des arktischen Meereises die Tierart just im Geburtsjahr "Knuts" auf die Liste gefährdeter Arten der Weltnaturschutzunion (International Union for Conservation of Nature and Natural Resources, IUCN) gesetzt wurde.[^iucn]
 Weltweite Bedeutung konnte der Berliner Eisbär aber gewinnen, weil zudem noch ein Zufall half. Kurz nach der ersten öffentlichen Vorstellung des Tieres Ende März 2007 versammelten sich die Staats- und Regierungschef\*innen der Europäischen Union zum 50. Jahrestag der Unterzeichnung der Römischen Verträge in Berlin. Mit ihnen waren Vertreter der nationalen und internationalen Presse in die Stadt gekommen. Die waren ebenso begeistert von dem Jungtier wie die lokale Presse schon seit Monaten. **"Knut" machte "Headlines" in aller Welt.** Die überraschten Kuratoren und die Zooleitung gaben an dem Wochenende Hunderte Interviews.[^ambassador1] Zusätzlich sorgten Zehntausende zusätzliche Besucher\*innen für eine eindrucksvolle Kulisse. Sicherheitsleute mussten den Andrang vor der Freianlage kontrollieren. Bald war die Marke von einer Million Gäste erreicht.[^ambassador2] 
 
-![Kinderbild eines Eisbären](images\cmw\Knut_Agatha_CooperStationNY.jpg)
+![Kinderbild eines Eisbären](/images/cmw/Knut_Agatha_CooperStationNY.jpg)
 *Knut wurde weltweit berühmt, sogar Kinder aus Cooper Station, NY in den USA schrieben ihm Briefe mit selbstgemalten Bildern. (AZGB)*
 
 Der Lichtkünstler Gerry Hofstetter nahm Motive von Knut in seine Installation "Light Art Expedition 'Knut' 2007" auf und projezierte sie an Eisformationen in der Arktis.[^light1]
@@ -104,7 +104,7 @@ Manche Autor\*innen nahmen in ihren Schreiben die Position des toten Tieres ein,
 
 Im Zoo wurde 2012 die Skulptur "Knut der Träumer" nach einem Entwurf des Künstlers Josef Tabachnyk errichtet. Die etwa 1,5 m lange und etwas über einen Meter breite Figur am Eisbärengehege besteht aus einem in Bronze gegossenen Eisbären, der auf zwei aus weißem Granit geformten Eisschollen liegt.[^tod1]
 
-![Skulptur eines liegenden Eisbärenjungen](images\cmw\Knut_der_Traeumer.jpg)
+![Skulptur eines liegenden Eisbärenjungen](/images/cmw/Knut_der_Traeumer.jpg)
 *Skulptur 'Knut der Träumer', 2021.*
 
 Die benötigten Spenden wurden vom Förderverein 'Stiftung Hauptstadtzoos' gesammelt. Zudem wurden 2012  Repliken des Denkmals als Souvenir verkauft. Die als 'Denkmal' bezeichnete Skulptur war 2012 auch das Motiv einer **Gedenkmünze aus versilberter Bronze der Staatlichen Münze Berlin**.[^tod2]

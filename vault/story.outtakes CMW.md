@@ -2,7 +2,7 @@
 id: 6cba37e4-c072-4140-bdfb-3d562bbef228
 title: outtakes CMW
 desc: Put a description of this note here...
-updated: 1624527372141
+updated: 1624527602762
 created: 1622582239405
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -110,7 +110,7 @@ Im Anschluss an die Überfahrt nach Marseille wurden die Tiere weitere sechs Tag
 
 Die Tiere wurden in Berlin später auf einem großen 'Affenfelsen' angesiedelt. Noch heute sind Nachkommen der Expeditionsbeute dort untergebracht.
 
-![des](images\cmw\Mantelpaviane_Felsen_Heck.jpg)
+![des](/images/cmw/Mantelpaviane_Felsen_Heck.jpg)
 *Der Pavianfelsen im Berliner Zoo, um 1930. (AZGB, Foto Heck)*
 
 ## Giraffenfang und 'Völkerschau'

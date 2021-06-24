@@ -2,7 +2,7 @@
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 title: üBerfüTtern
 desc: Put a description of this note here...
-updated: 1622738388459
+updated: 1624527579172
 created: 1620752738850
 title_de: Überfüttern
 desc_de: Put a DE description of this note here...
@@ -24,7 +24,7 @@ published: false
 
 Während der Zoo und die Stadt Berlin in den 1940er große Probleme hatten, ihre Bewohner\*innen zu ernähren, hatte sich die Situation Ende der 1950er Jahre weitgehend normalisiert.[^Überfüttern1] (siehe auch [[story.futternot]]) Ja, in mancher Hinsicht verkehrte sie sich sogar. In der Zeit von Wirtschaftswunder und Wachstumsboom fütterten die Zoobesucher\*innen die Tiere im Berliner Zoo wieder ganz nach Belieben, und zwar so ausgiebig, dass **1960 der afrikanische Elefant "Jambo" nach oder vielmehr infolge der Fütterung durch Zoobersucher\*innen erkrankte.** 
 
-![Zeitungsartikel mit dem Titel: "Überfüttert! Berlins wertvollster Elefant in Todesgefahr", 1960](images\mv\JamboUeberfuettertBildZeitungAusschnittJPG.jpg)
+![Zeitungsartikel mit dem Titel: "Überfüttert! Berlins wertvollster Elefant in Todesgefahr", 1960](/images/mv/JamboUeberfuettertBildZeitungAusschnittJPG.jpg)
 
 _Schlagzeile der "Bildzeitung" zur Überfütterungsfrage anlässlich der Erkrankung von "Jambo", 31.03.1960._ 
 
@@ -41,7 +41,7 @@ Tatsächlich blieb getrocknetes Brot bis zum Ersten Weltkrieg eines der wichtigs
 
 Zu unterschiedlichen Zeiten wurde das Füttern durch die Besucher\*innen indes verschieden gehandhabt und gedeutet. 1946 merkte Katharina Heinroth an, dass "den Lieblingen der Berliner Zoobesucher [vor dem Krieg] so viel an Süßigkeiten und Kuchen zugesteckt wurde, daß wir eine Menge Fälle von Darmerkrankungen hatten."[^Überfüttern7] Für die Zeit nach dem Krieg wünschte sie sich dagegen mehr fütternde Besucher\*innen. In diesen Jahren wurde das Füttern in der Presse häufig als symbolische Geste des Teilens in Wort und Bild gesetzt. 
 
-![Zeitungsartikel mit Bild, auf dem eine Frau einem Affen durch die Gitterstäbe Futter reicht](images\mv\TaeglRundschau1945AusschnittJPG.jpg)
+![Zeitungsartikel mit Bild, auf dem eine Frau einem Affen durch die Gitterstäbe Futter reicht](/images/mv/TaeglRundschau1945AusschnittJPG.jpg)
 
 _Die 'Tägliche Rundschau' präsentiert das Füttern der Tiere als Akt des Teilens im Zoo der Nachkriegszeit, 03.07.1946._
 
