@@ -7,6 +7,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "node scripts/copy-audio.js && node scripts/copy-images.js && node scripts/link-map.js && nuxt generate",
+    "pdf": "node scripts/copy-audio.js && node scripts/copy-images.js && node scripts/link-map.js && nuxt generate && node scripts/print-pdf.js",
     "test": "node link-map.js",
     "local": "node scripts/copy-audio.js && node scripts/copy-images.js && node scripts/link-map.js && nuxt generate && npm run start"
   },
@@ -27,6 +28,7 @@
     "less": "^4.1.1",
     "less-loader": "^7.1.0",
     "markdown-yaml-metadata-parser": "^3.0.0",
-    "normalize.css": "^8.0.1"
+    "normalize.css": "^8.0.1",
+    "puppeteer": "^10.0.0"
   }
 }
