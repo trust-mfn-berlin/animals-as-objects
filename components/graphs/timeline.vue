@@ -37,7 +37,7 @@ export default {
         {
           name:'Using Cycladophora end',
           value:2021,
-          scheme:3
+          scheme:1
         },
         {
           name:'Industrial Micropaleontology start',
@@ -47,32 +47,32 @@ export default {
         {
           name:'Industrial Micropaleontology end',
           value:1950,
-          scheme:5
+          scheme:4
         },
         {
           name:'Taxonomical Orders start',
           value:1753,
-          scheme:6
+          scheme:5
         },
         {
           name:'Taxonomical Orders end',
           value:2021,
-          scheme:7
+          scheme:5
         },
         {
           name:'Chaotic origins start',
           value:1766,
-          scheme:8
+          scheme:6
         },
         {
           name:'Cycladophora davisiana start',
           value:1859,
-          scheme:9
+          scheme:7
         },
         {
           name:'Cycladophora davisiana end',
           value:2021,
-          scheme:10
+          scheme:7
         },
         {
           name:'Knut born',
@@ -82,7 +82,7 @@ export default {
         {
           name:'Knut died',
           value:2011,
-          scheme:12
+          scheme:11
         },
         {
           name:'Steinmetz-index start',
@@ -92,7 +92,7 @@ export default {
         {
           name:'Steinmetz-index end',
           value:1945,
-          scheme:14
+          scheme:13
         }
       ]
     }
