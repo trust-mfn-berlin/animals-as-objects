@@ -16,24 +16,10 @@
     </section>
 
     <template v-if="siteLang == 'en'">
-    <section id="section-toc" v-if="article.toc.length > 0">
-      <h3 class="f-mono subheading">Table of Contents</h3>  
-      <ol>
-        <li v-for="link in article.toc" :key="link.id">
-          <a @click="tocScroll(link.id)">{{link.text}}</a>
-        </li>
-      </ol>
-    </section>
+      <contents :toc="article.toc" label="table of contents" />
     </template>
     <template v-if="siteLang == 'de'">
-    <section id="section-toc" v-if="article.body_de.toc.length > 0">
-      <h3 class="f-mono subheading">Inhaltsverzeichnis</h3>  
-      <ol>
-        <li v-for="link in article.body_de.toc" :key="link.id">
-          <a @click="tocScroll(link.id)">{{link.text}}</a>
-        </li>
-      </ol>
-    </section>
+      <contents :toc="article.body_de.toc" label="Inhaltsverzeichnis" />
     </template>
 
     <section id="section-backlinks" v-if="article.backlinks.length > 0">
@@ -54,12 +40,18 @@
       <h3 class="f-mono subheading ">Footnotes</h3>
       <div class="footnotes-inner text-links" v-html="footnotesParsed"></div>
     </section>
+
+    
   </aside>
 </template>
 
 <script>
+import contents from './sidebar/contents.vue'
+
+
 export default {
   name:'sidebar',
+  components: { contents },
   props:{
     article:{
       type: Object,
@@ -116,10 +108,6 @@ export default {
     },
     openCitationModal(){
       this.$store.commit('toggleCitationModal', {isOpen: true, article: this.article});
-    },
-    tocScroll(el){
-      this.scrollToElement(document.getElementById(el), 700, -90);
-      history.pushState({},null, this.article.slug + '#' + el);
     },
     async addFootnoteBacklinkListener(){
       const backrefs = await document.getElementsByClassName('sidebar-footnote-backref');
