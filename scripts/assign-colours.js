@@ -62,6 +62,10 @@ async function getContent(filePath, encoding = "utf-8") {
       const writeData = frontMatterReformed + fileDataRaw;
       console.log('writing..')
       fs.writeFile(path.join(__dirname, '..','vault', file), writeData);
+    } else {
+      // do nothing
+      // add reroll here
+      // replace(/colour_scheme: \d+/gs, 'colour_scheme: ' + colourCode)
     }
   }
 
