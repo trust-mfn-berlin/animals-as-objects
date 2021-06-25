@@ -1,6 +1,7 @@
 <template>
   <span class='wiki-link-component' >
     <Inline v-if="match(storeArticles, link)" :article="storeArticle" :alias="alias"/>  
+    <a v-else class="error">MISSING: {{link}}</a>
   </span>
 </template>
 
@@ -76,6 +77,12 @@ span{
   display: inline-block;
   position: relative;
   bottom: -0.33333rem;
+}
+
+.error{
+  color:red;
+  // text-decoration: underline;
+  border-bottom: 1px dotted red ;
 }
 
 </style>
