@@ -2,7 +2,7 @@
   <div class="article-container">
   <main v-if="article" :class="{open : isSidebarOpen}">
     <hgroup class="heading">
-      <h1 :style="{boxShadow:'inset 0 -0.175em var(--background-1), inset 0 -0.2em var(--scheme-'+schemeNumber+'-bg)'}">{{article.title}}</h1>
+      <h1 :style="{boxShadow:'inset 0 -0.175em var(--background-1), inset 0 -0.2em var(--scheme-'+article.colour_scheme+'-bg)'}">{{article.title}}</h1>
       <h3 class="lead subheading f-mono">
         <span class="type" :class="article.tao_type" >{{article.tao_type}}</span>
         Lorem ipsum dolor sit amet
@@ -69,9 +69,6 @@ export default {
     isSidebarOpen(){
       return this.$store.getters.isSidebarOpen
     },
-    schemeNumber(){
-      return Math.floor(Math.random() * 15)
-    }
   },
   created(){
     // make sure correct language
@@ -82,8 +79,8 @@ export default {
   mounted(){
 
     // update colour scheme
-    document.documentElement.style.setProperty("--current-scheme-bg", "var(--scheme-"+this.schemeNumber+"-bg)");
-    document.documentElement.style.setProperty("--current-scheme-fg", "var(--scheme-"+this.schemeNumber+"-fg)");
+    document.documentElement.style.setProperty("--current-scheme-bg", "var(--scheme-"+this.article.colour_scheme+"-bg)");
+    document.documentElement.style.setProperty("--current-scheme-fg", "var(--scheme-"+this.article.colour_scheme+"-fg)");
 
     // copy footnotes into sidebar
     if(document.getElementsByClassName('footnotes')[0]){

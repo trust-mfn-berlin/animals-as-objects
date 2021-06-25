@@ -1,7 +1,7 @@
 <template>
   <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual" @mouseover.native="onMouseover" @mouseleave.native="onMouseleave">
     <img :src="'https://loremflickr.com/64/64/butterfly?random=' + article.id" alt="" />
-    <span class="text" :style="{border:'1px solid var(--scheme-'+schemeNumber+'-bg)', backgroundColor:'var(--scheme-'+schemeNumber+'-bg)', color:'var(--scheme-'+schemeNumber+'-fg)'}">
+    <span class="text" :style="{border:'1px solid var(--scheme-'+article.colour_scheme+'-bg)', backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
       <span class="f-serif subheading" v-html="alias ? alias : titleBilingual"></span>
     </span>
   </nuxt-link>
@@ -45,10 +45,6 @@ export default {
         return this.article.title
       }
     },
-    schemeNumber(){
-      return Math.floor(Math.random() * 15)
-    }
-  
   }
 }
 </script>
