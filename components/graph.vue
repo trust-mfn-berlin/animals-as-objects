@@ -35,73 +35,7 @@ export default {
         },
         nodeSize: 75
       },
-      nodes : [
-        { slug: 'Radiolaria', frontmatter:{ tao_type: 'material', title: 'Radiolaria' }, radius: 'big' },
-        { slug: 'Biostratigraphy', frontmatter:{ tao_type: 'material', title: 'Biostratigraphy' } },
-        { slug: 'Ernst Haeckel', frontmatter:{ tao_type: 'story', title: 'Ernst Haeckel' } },
-        { slug: 'Planetary Sciences', frontmatter:{ tao_type: 'material', title: 'Planetary Sciences' } },
-        { slug: 'Cell Theory', frontmatter:{ tao_type: 'theme', title: 'Cell Theory' } },
-        { slug: 'Microbial Worlds', frontmatter:{ tao_type: 'material', title: 'Microbial Worlds' } },
-        { slug: 'Cycladophora Davisiana', frontmatter:{ tao_type: 'story', title: 'Cycladophora Davisiana' } },
-        { slug: 'Oceanography', frontmatter:{ tao_type: 'material', title: 'Oceanography' } },
-        { slug: 'Micropaleontological Formations', frontmatter:{ tao_type: 'material', title: 'Micropaleontological Formations' } },
-        { slug: 'Animals-A', frontmatter:{ title: 'A' }, letter: true, width: 0.9 },
-        { slug: 'Animals-n', frontmatter:{ title: 'n' }, letter: true, width: 0.8 },
-        { slug: 'Animals-i', frontmatter:{ title: 'i' }, letter: true, width: 0.6 },
-        { slug: 'Animals-m', frontmatter:{ title: 'm' }, letter: true, width: 0.9 },
-        { slug: 'Animals-a', frontmatter:{ title: 'a' }, letter: true, width: 0.8 },
-        { slug: 'Animals-l', frontmatter:{ title: 'l' }, letter: true, width: 0.6 },
-        { slug: 'Animals-s', frontmatter:{ title: 's' }, letter: true, width: 0.7 },
-        { slug: 'as-a', frontmatter:{ title: 'a' }, letter: true, width: 0.9 },
-        { slug: 'as-s', frontmatter:{ title: 's' }, letter: true, width: 0.9 },
-        { slug: 'Objects-O', frontmatter:{ title: 'O' }, letter: true, width: 1 },
-        { slug: 'Objects-b', frontmatter:{ title: 'b' }, letter: true, width: 0.9 },
-        { slug: 'Objects-j', frontmatter:{ title: 'j' }, letter: true, width: 0.6 },
-        { slug: 'Objects-e', frontmatter:{ title: 'e' }, letter: true, width: 0.9 },
-        { slug: 'Objects-c', frontmatter:{ title: 'c' }, letter: true, width: 0.9 },
-        { slug: 'Objects-t', frontmatter:{ title: 't' }, letter: true, width: 0.9 },
-        { slug: 'Objects-s', frontmatter:{ title: 's' }, letter: true, width: 0.9 },
-        { slug: 'Objects-?', frontmatter:{ title: '?' }, letter: true, width: 0.9 }
-
-      ],
-      links : [
-        { source: 'Radiolaria', target: 'Planetary Sciences', relation: 'a', value: 4 },
-        { source: 'Planetary Sciences', target: 'Cell Theory', relation: 'b', value: 1 },
-        { source: 'Planetary Sciences', target: 'Microbial Worlds', relation: 'c', value: 1 },
-        { source: 'Planetary Sciences', target: 'Oceanography', relation: 'd', value: 1 },
-        { source: 'Biostratigraphy', target: 'Microbial Worlds', relation: 'e', value: 1 },
-        { source: 'Cycladophora Davisiana', target: 'Cell Theory', relation: 'f', value: 2 },
-        { source: 'Micropaleontological Formations', target: 'Planetary Sciences', relation: 'g', value: 1 },
-        { source: 'Cell Theory', target: 'Micropaleontological Formations', relation: 'h', value: 1.6 },
-        { source: 'Ernst Haeckel', target: 'Oceanography', relation: 'i', value: 0.7 },
-        { source: 'Microbial Worlds', target: 'Cycladophora Davisiana', relation: 'j', value: 3 },
-        { source: 'Radiolaria', target: 'Cycladophora Davisiana', relation: 'x', value: 1 },
-        { source: 'Radiolaria', target: 'Animals-n', relation: 'x', value: 1 },
-        { source: 'Animals-A', target: 'Animals-n', relation: 'text', value: 1 },
-        { source: 'Animals-n', target: 'Animals-i', relation: 'text', value: 1 },
-        { source: 'Animals-i', target: 'Animals-m', relation: 'text', value: 1 },
-        { source: 'Animals-m', target: 'Animals-a', relation: 'text', value: 1 },
-        { source: 'Animals-a', target: 'Animals-l', relation: 'text', value: 1 },
-        { source: 'Animals-l', target: 'Animals-s', relation: 'text', value: 1 },
-        { source: 'Animals-s', target: 'Animals-A', relation: 'text', value: 1 },
-        { source: 'Cycladophora Davisiana', target: 'as-a', relation: 'a', value: 1 },
-        { source: 'as-a', target: 'as-s', relation: 'text', value: 1 },
-        { source: 'as-a', target: 'as-s', relation: 'text', value: 1 },
-        { source: 'Micropaleontological Formations', target: 'Objects-O', relation: 'xx', value: 1 },
-        { source: 'Objects-O', target: 'Objects-b', relation: 'text', value: 1 },
-        { source: 'Objects-b', target: 'Objects-j', relation: 'text', value: 1 },
-        { source: 'Objects-j', target: 'Objects-e', relation: 'text', value: 1 },
-        { source: 'Objects-e', target: 'Objects-c', relation: 'text', value: 1 },
-        { source: 'Objects-c', target: 'Objects-t', relation: 'text', value: 1 },
-        { source: 'Objects-t', target: 'Objects-s', relation: 'text', value: 1 },
-        { source: 'Objects-s', target: 'Objects-?', relation: 'text', value: 1 },
-        { source: 'Objects-?', target: 'Objects-j', relation: 'text', value: 1 },
-        { source: 'Objects-t', target: 'Objects-O', relation: 'text', value: 1 },
-        { source: 'Objects-b', target: 'Objects-s', relation: 'text', value: 1 },
-        { source: 'Objects-e', target: 'Objects-O', relation: 'text', value: 1 },
-        { source: 'Objects-j', target: 'Objects-O', relation: 'text', value: 1 },
-        { source: 'Objects-?', target: 'Objects-e', relation: 'text', value: 1 },
-      ],
+      
     }
   },
   methods:{
@@ -191,7 +125,9 @@ export default {
             if(d.letter == true){
               return '#000'
             } else {
-              return colorScale(i)
+              // return colorScale(i)
+              console.log(d.colour_scheme);
+              return 'var(--scheme-'+ d.colour_scheme +'-bg)'
             }
             
           })

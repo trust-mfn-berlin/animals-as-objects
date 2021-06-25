@@ -77,6 +77,27 @@ export default {
     },
     init(){
 
+      let colorScale = d3.scaleOrdinal()
+        .domain(d3.range(this.nodes.length))
+        .range([
+          "#000000",
+          "#FA9129",
+          "#214913",
+          "#A2E5D3",
+          "#C55F59",
+          "#0047FF",
+          "#DD3821",
+          "#6E2E60",
+          "#FF7B7B",
+          "#959730",
+          "#322822",
+          "#9A7051",
+          "#F5C721",
+          "#F5C721",
+          "#E6E94B",
+          "#59BD36",
+        ])
+
       // console.log('init D3');
 
       const that = this;
@@ -94,9 +115,9 @@ export default {
         .force("collide", d3.forceCollide(this.attr.nodeSize + 10).strength(0.2))
         
 
-      let colorScale = d3.scaleOrdinal()
-        .domain(d3.range(this.nodes.length))
-        .range(d3.schemeCategory10)
+      // let colorScale = d3.scaleOrdinal()
+      //   .domain(d3.range(this.nodes.length))
+      //   .range(d3.schemeCategory10)
 
       const link = svg.append("g")
         .attr("stroke", "#000")
@@ -149,7 +170,8 @@ export default {
         })
         .attr('fill', function (d, i) {
           if(d.slug == that.article.slug) return 'var(--current-scheme-bg)'
-          return colorScale(i)
+          if(d.colour_scheme) return 'var(--scheme-'+ d.colour_scheme +'-bg)'
+          // return colorScale(i)
         })
 
       node.append("text")
