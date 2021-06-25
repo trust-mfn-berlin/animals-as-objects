@@ -45,6 +45,7 @@ collections:
         fields:
           - { label: "Image", name: "image", required: false, widget: "image"}
           - { label: "Description", hint: "for SEO and accessibility purposes", name: "alt", required: false, widget: "string"}
+      - { label: "Colour Scheme", name: "colour_scheme", widget: "number", required: false, min: 0, max: 15, value_type: "int", hint: "number refers to colour scheme. https://dev.animalsasobjects.org/colours/" }
       - label: "TAO Content type"
         name: "tao_type"
         widget: "select"
@@ -52,7 +53,6 @@ collections:
       - { label: "Date start", name: "date_start", widget: "datetime", default: "", required: false }
       - { label: "Date end (if applicable)", name: "date_end", widget: "datetime", default: "", required: false }
       - { label: "Published", name: "published", widget: "boolean", required: false }
-      - { label: "Colour Scheme", name: "colour_scheme", widget: "number", required: false, hint: "number refers to colour scheme. https://dev.animalsasobjects.org/colours/" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Pages"
