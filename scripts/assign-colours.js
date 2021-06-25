@@ -54,9 +54,10 @@ async function getContent(filePath, encoding = "utf-8") {
     
 
     if(!frontmatter.colour_scheme){
+      console.log('adding random colour...')
       const frontMatterRaw = fileData.match(frontMatterRegex)[0];
       const frontMatterStripped = frontMatterRaw.replace(/---/g,'') + 'colour_scheme: ' + colourCode + '\n';
-      const frontMatterReformed = '---\n' + frontMatterStripped + '---\n'
+      const frontMatterReformed = '---' + frontMatterStripped + '---\n'
       // console.log(frontMatterReformed);
       const writeData = frontMatterReformed + fileDataRaw;
       console.log('writing..')
