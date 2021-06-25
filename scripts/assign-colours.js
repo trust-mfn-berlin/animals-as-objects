@@ -62,8 +62,6 @@ async function getContent(filePath, encoding = "utf-8") {
       const writeData = frontMatterReformed + fileDataRaw;
       console.log('writing..')
       fs.writeFile(path.join(__dirname, '..','vault', file), writeData);
-
-      // console.log(writeData)
     }
   }
 
