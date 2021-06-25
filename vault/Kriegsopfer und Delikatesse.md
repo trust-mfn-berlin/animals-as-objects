@@ -4,5 +4,6 @@ title: Kriegsopfer und Delikatesse
 desc: ''
 updated: 1621605434879
 created: 1621605434879
+colour_scheme: 6
 ---
 

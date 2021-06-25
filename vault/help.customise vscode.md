@@ -4,6 +4,7 @@ title: Customising VSCode
 desc: ''
 updated: 1618495444353
 created: 1618411275436
+colour_scheme: 6
 ---
 
 ## Changing colour theme

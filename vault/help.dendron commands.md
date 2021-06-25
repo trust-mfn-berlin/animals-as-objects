@@ -4,6 +4,7 @@ title: Dendron Commands
 desc: ''
 updated: 1618495530090
 created: 1618399704580
+colour_scheme: 7
 ---
 
 ## The Lookup Bar

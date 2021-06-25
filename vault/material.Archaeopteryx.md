@@ -19,6 +19,7 @@ map_slide:
 map:
   - mapdata_caption: "Lorem ipsum dolor sit amet "
     mapdata: '{"type":"Point","coordinates":[9.7189522,52.3694682]}'
+colour_scheme: 12
 ---
 
 :::EN:::
