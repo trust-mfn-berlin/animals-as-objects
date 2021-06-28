@@ -22,10 +22,7 @@ export default function ({store, app, context, route}) {
 
       app.$axios.post('', postObject);
 
-      
-      
-      // console.log('added route', route.path);
-      store.commit('addRoute', route.path.substring(1));
+      store.commit('addRoute', {route:route.path.substring(1)});
     } else {
       console.log('tracking not enabled yet')
     }

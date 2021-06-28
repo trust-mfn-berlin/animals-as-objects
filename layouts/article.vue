@@ -30,13 +30,11 @@ export default {
 
       console.log(sortedRoutes);
       this.$store.commit('setRoutes', sortedRoutes)
-      // console.log('test');
     }
   },
   mounted(){
     if(this.$cookies.get('tao-uid') && !this.$store.getters.isTrackingEnabled){
       console.log('cookie present');
-      // this.enableTracking();
       this.$store.commit('enableTracking');
 
       const getObject = {
@@ -45,9 +43,6 @@ export default {
 
       this.getRoutes('', JSON.stringify(getObject));
 
-    
-
-      // console.log('added route', this.$route.params.slug);
       if(this.$route.params.slug){
         this.$store.commit('addRoute', {route:this.$route.params.slug});
       }

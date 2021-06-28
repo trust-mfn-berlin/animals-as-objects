@@ -17,17 +17,25 @@ export default {
 
   },
   methods:{
+    async getRoutes(){
+      const res = await this.$axios.get('');
+      console.log(res);
+      var sortedRoutes = res.data.sort((a, b) => (a.timestamp > b.timestamp) ? 1 : -1)
 
+      console.log(sortedRoutes);
+      this.$store.commit('setRoutes', sortedRoutes)
+    }
   },
   mounted(){
     if(this.$cookies.get('tao-uid') && !this.$store.getters.isTrackingEnabled){
+
       console.log('cookie present');
-      // this.enableTracking();
       this.$store.commit('enableTracking');
 
-      // console.log('added route', this.$route.params.slug);
+      this.getRoutes('',{uniqueid:this.$cookies.get('tao-uid')});
+
       if(this.$route.params.slug){
-        this.$store.commit('addRoute', this.$route.params.slug);
+        this.$store.commit('addRoute', {route:this.$route.params.slug});
       }
     }
   },
