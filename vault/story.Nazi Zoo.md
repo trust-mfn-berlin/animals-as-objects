@@ -15,7 +15,7 @@ desc_de: In der Zeit der nationalsozialistischen Diktatur biederten sich
 short_desc: EN short desc
 short_desc_de: DE short desc
 cover_image:
-  image: /images/heck_auto_1939.jpg
+  image: /images/cover-zoo-in-nazi-regime.jpg
   alt: ""
 tao_type: story
 date_start: ""
