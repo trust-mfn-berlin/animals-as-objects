@@ -174,7 +174,7 @@ export default {
 aside{
   display: block;
   position: fixed;
-  width: 33vw;
+  // width: 33vw;
   max-width: 20rem;
   // height: 100%;
   background-color: @white;

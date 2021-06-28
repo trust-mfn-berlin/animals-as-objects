@@ -133,7 +133,8 @@ export default {
 
 // Vars
 
-@article-width:66vw;
+@article-padding: 3rem;
+@article-width:calc(100vw - 20rem - @space-s);
 
 // Primary Layout
 
@@ -154,14 +155,20 @@ main{
     
     hgroup{
       .heading-inner{
-        padding-left:2rem;
+        padding: 0 @article-padding;
         width: @article-width;
         margin-right: auto;
       }
     }
     section{
-      padding-left:2rem;
+      padding: 0 @article-padding;
       margin: 0;
+    }
+
+    figure{
+      img{
+        max-width: calc(100vw - 20rem - @space-s - @article-padding*2);
+      }
     }
   }
 }
