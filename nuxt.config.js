@@ -70,8 +70,13 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     '@nuxt/content',
+    '@nuxtjs/axios',
     'cookie-universal-nuxt',
   ],
+
+  axios:{
+    baseUrl: 'https://log.animalsasobjects.org'
+  },
 
   image: {
     // Nuxt Image Options

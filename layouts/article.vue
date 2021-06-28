@@ -22,11 +22,20 @@ export default {
       this.$store.getters.isTrackingEnabled;
     }
   },
+  methods:{
+    async getRoutes(){
+      const res = await this.$axios.get('');
+      console.log(res);
+      console.log('test');
+    }
+  },
   mounted(){
     if(this.$cookies.get('tao-uid') && !this.$store.getters.isTrackingEnabled){
       console.log('cookie present');
       // this.enableTracking();
       this.$store.commit('enableTracking');
+
+      this.getRoutes();
 
       // console.log('added route', this.$route.params.slug);
       if(this.$route.params.slug){
