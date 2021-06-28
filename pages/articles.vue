@@ -55,8 +55,7 @@ export default {
     };
 
     results.forEach(article => {
-      if(article.tao_type){
-        // articlesAlphabetical.push(article);
+      if(article.tao_type == 'material' || article.tao_type == 'theme' || article.tao_type == 'story'){
         const firstLetter = article.title.charAt(0);
         if(!articlesAlphabetical[firstLetter]){
           articlesAlphabetical[firstLetter] = []
