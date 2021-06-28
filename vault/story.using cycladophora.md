@@ -1,15 +1,20 @@
 ---
-id: TBi8fH-OIQRAoB-tG9ZY1
-title: Using Cycladophora
-desc: Put a description of this note here...
-updated: 1624875405779
-created: 1624875395326
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Filippo Bertoni
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title: Using Cycladophora
+title_de: Add a german title here
+created: 1624875395326
+updated: 1624875405779
+id: TBi8fH-OIQRAoB-tG9ZY1
+author: Filippo Bertoni
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+short_desc_de: DE short desc
+cover_image:
+  image: /images/cover-using-cycladophora.jpg
+tao_type: story
+date_start: ""
+date_end: ""
 published: false
 ---
 
