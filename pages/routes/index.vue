@@ -9,7 +9,7 @@
       <nuxt-content :document="page"/>
     </section>
     <section>
-      <routes-list :routes="routes" />
+      <curated-routes-list :routes="routes" />
     </section>
   </div>
 </template>

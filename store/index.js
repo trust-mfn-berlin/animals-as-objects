@@ -10,7 +10,7 @@ const createStore = () => {
       loadedArticles: [],
       loadedRoutes: [],
       siteLanguage: defaultLanguage,
-      currentRoute: ['story.industrial micropaleontology','material.foraminifera','theme.microbial worlds','material.radiolaria','story.micropaleontology'],
+      currentRoute: [],
       searchBarIsOpen: false,
       activeFilter: 'type',
       sidebarIsOpen: true,
@@ -30,9 +30,12 @@ const createStore = () => {
         // console.log('set language to: ' + lang);
         state.siteLanguage = lang;
       },
-      addRoute(state, path) {
-        console.log('Path added: ' + path);
-        state.currentRoute.push(path);
+      addRoute(state, route) {
+        console.log('Route added: ' + route.route);
+        state.currentRoute.push(route);
+      },
+      setRoutes(state, routes) {
+        state.currentRoute = routes
       },
       toggleSearchBar(state, isOpen){
         console.log('Is search open:', isOpen)
