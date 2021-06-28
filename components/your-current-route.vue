@@ -1,8 +1,9 @@
 <template>
-  <ol>
+  <ol class="current-route" v-if="routes">
     <li v-if="routes.length > max" class="excess">+{{indexStart}}</li>
     <li v-for="(route, index) in routes.slice(indexStart,routes.length)" :key="index">
       <Inline :article="route" />
+      <!-- {{route}} -->
       <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path d="M12.7988 24.9829L24.8989 12.8829L12.7988 0.782849" stroke="black"/>
         <line x1="24.6113" y1="12.8901" x2="1.86801" y2="12.8901" stroke="black"/>

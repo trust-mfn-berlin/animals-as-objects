@@ -11,10 +11,7 @@
 export default {
 name:'article-routes',
   props:{
-    routes:{
-      type: Array,
-      required: true
-    }
+    
   },
   data(){
     return{
@@ -28,26 +25,34 @@ name:'article-routes',
     currentRoute(){
       return this.$store.getters.currentRoute;
     },
+    
   },
   methods:{
-    matchRoutes(){
+    async matchRoutes(){
 
-      for (let i = 0; i < this.currentRoute.length; i++) {
-        const storeRouteSingle = this.currentRoute[i];
-         
-        for (let a = 0; a < this.storeArticles.length; a++) {
-          const storeArticle = this.storeArticles[a];
+        for (let i = 0; i < this.currentRoute.length; i++) {
+          const storeRouteSingle = this.currentRoute[i].route;
 
-          const s = storeArticle.slug.toLowerCase();
-          const l = storeRouteSingle.toLowerCase();
-          if(s === l){
-            this.matchedRoutes.push(storeArticle);
+
+          if(storeRouteSingle){
+
+            // console.log(storeRouteSingle)
+
+            const article = await this.$content(storeRouteSingle).only(['slug', 'title', 'title_de', 'id', 'tao_type', 'colour_scheme']).fetch()
+            .catch((err) => {
+              console.warn('page not found', err)
+            })
+            
+            // console.log(article);
+            if(article){
+              this.matchedRoutes.push(article)
+            }
+
           }
-          
         }
-      }
+
+      },
     },
-  },
   mounted(){
     this.matchRoutes();
   }

@@ -26,7 +26,11 @@ export default {
     async getRoutes(){
       const res = await this.$axios.get('');
       console.log(res);
-      console.log('test');
+      var sortedRoutes = res.data.sort((a, b) => (a.timestamp > b.timestamp) ? 1 : -1)
+
+      console.log(sortedRoutes);
+      this.$store.commit('setRoutes', sortedRoutes)
+      // console.log('test');
     }
   },
   mounted(){
@@ -35,11 +39,17 @@ export default {
       // this.enableTracking();
       this.$store.commit('enableTracking');
 
-      this.getRoutes();
+      const getObject = {
+        uniqueid: this.$cookies.get('tao-uid')
+      }
+
+      this.getRoutes('', JSON.stringify(getObject));
+
+    
 
       // console.log('added route', this.$route.params.slug);
       if(this.$route.params.slug){
-        this.$store.commit('addRoute', this.$route.params.slug);
+        this.$store.commit('addRoute', {route:this.$route.params.slug});
       }
     }
   }
