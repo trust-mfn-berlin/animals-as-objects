@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="page-container">
     <article-filter />
 
     <main>
@@ -89,6 +89,11 @@ export default {
 </script>
 
 <style lang="less" scoped>
+
+.page-container{
+  padding: 0 @space-s;
+}
+
 ul, ol{
   margin:@space-s 0 2rem;
   display: flex;
