@@ -9,7 +9,7 @@ desc: xx
 desc_de: xx
 short_desc: xx
 short_desc_de: xx
-tao_type: theme
+tao_type: xx
 date_start: ""
 date_end: ""
 colour_scheme: 15

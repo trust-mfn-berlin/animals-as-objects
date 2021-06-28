@@ -13,6 +13,7 @@
 
 <script>
 export default {
+  name:'layout-default',
   methods:{
     addCurrentRoute(){
       if(this.$route.params.slug){

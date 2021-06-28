@@ -2,7 +2,7 @@
   <div>
     <graph />
     <section>
-      <p class="intro f-mono">Animals as Objects? is an online publication produced by the Museum für Naturkunde Berlin and Zoo-Berlin. Learn more about the unique connections between some of Berlin’s most beloved animals by viewing articles: Themes are large topics that contain many Stories, and Materials are focused explorations into these emergent connections.</p>
+      <p class="intro f-mono">Animals as Objects? is an online publication produced by the Museum für Naturkunde Berlin and Zoo-Berlin. Learn more about the unique connections between some of Berlin’s most beloved animals by viewing articles: <span class="theme">Themes</span> are large topics that contain many <span class="story">Stories</span>, and <span class="material">Materials</span> are focused explorations into these emergent connections.</p>
       <Cascade :articles="articles" />
       <text-button linkto="/articles">View All Articles</text-button>
     </section>
@@ -18,16 +18,17 @@
 <script>
 export default {
   async asyncData({ $content }) {
-    const results = await $content().fetch();
+    const content = await $content().fetch();
     const routes = await $content('/netlify/pathways').fetch();
     // console.log(routes);
     var articles = [];
+
     const max = 5;
     var t = 0;
     var m = 0;
     var s = 0;
     
-    results.forEach(article => {
+    content.forEach(article => {
       if(article.tao_type == "theme" && t < max){
         articles.push(article);
         t++
@@ -73,5 +74,21 @@ section{
 
 p.intro{
   margin-bottom: 1rem;
+
+  span::before{
+    content:'';
+    display: inline-block;
+    width: 0.7rem;
+    height: 0.7rem;
+    background-color: @black;
+    margin-right: @space-xs;
+  }
+  span.material::before{
+    border-radius: @radius-max;
+  }
+  span.story::before{
+    border-radius: @radius-s;
+  }
 }
+
 </style>
