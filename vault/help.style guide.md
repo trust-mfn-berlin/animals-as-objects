@@ -4,7 +4,7 @@ title: Style Guide
 desc: ''
 updated: 1624267197940
 created: 1618326133707
-colour_scheme: 14
+colour_scheme: 3
 ---
 
 <!-- Notes should be in comments like this -->

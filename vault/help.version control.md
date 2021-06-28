@@ -4,7 +4,7 @@ title: Using Version Control
 desc: ''
 updated: 1618409219686
 created: 1618398668006
-colour_scheme: 10
+colour_scheme: 16
 ---
 
 We are using Git as a collaboration tool for this project. It's a way to make sure every file is kept in sync across the team and allows us to track changes.

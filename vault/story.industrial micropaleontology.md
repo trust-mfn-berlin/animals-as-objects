@@ -12,7 +12,7 @@ cover_image: null
 license: CC BY-SA
 published: false
 feature: false
-colour_scheme: 0
+colour_scheme: 16
 ---
 
 :::EN:::

@@ -10,7 +10,7 @@ const frontMatterRegex = /---(.*?)---/sg;
 
 console.log(contentDir);
 
-maxColours = 16;
+maxColours = 18;
 
 async function getFileNames(filePath, encoding = "utf-8") {
   let mdFiles = [];
