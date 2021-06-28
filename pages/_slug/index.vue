@@ -130,8 +130,9 @@ export default {
 
 // Vars
 
-@article-padding: 3rem;
-@article-width:calc(100vw - 20rem - @space-s);
+@article-padding: 0;
+@article-width:calc(80vw - 20rem - @space-s);
+@container-width-open: calc(100vw - 20rem);
 
 // Primary Layout
 
@@ -141,25 +142,32 @@ export default {
 
 main{
 
-  max-width: 100vw;
+  // max-width: 100vw;
+  // width: calc(100% - @space-s);
+  width: 100%;
   overflow-x:hidden;
+
+  .animateslow(width);
+  
   
   section{
     width: @article-width;
     margin: 0 auto;
   }
   &.open{
+
+    width: @container-width-open;
+    // margin: 0 auto;
     
     hgroup{
       .heading-inner{
         padding: 0 @article-padding;
-        width: @article-width;
+        // width: @article-width;
         margin-right: auto;
       }
     }
     section{
       padding: 0 @article-padding;
-      margin: 0;
     }
 
     figure{
@@ -424,7 +432,5 @@ iframe{
   min-height: 20rem;
   margin: 5rem auto;
 }
-
-
 
 </style>

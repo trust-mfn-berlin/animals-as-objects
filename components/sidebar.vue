@@ -174,10 +174,9 @@ export default {
 aside{
   display: block;
   position: fixed;
-  // width: 33vw;
-  max-width: 20rem;
-  // height: 100%;
+  width: 20rem;
   background-color: @white;
+  overflow-y: auto;
   top:0;
   bottom: 0;
   right: 0;
@@ -197,6 +196,8 @@ aside{
   }
 
   section{
+
+    overflow-x:hidden;
     border-bottom: 2px solid @bg;
     padding: @space-m;
 

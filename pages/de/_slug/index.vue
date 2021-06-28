@@ -130,7 +130,9 @@ export default {
 
 // Vars
 
-@article-width:66vw;
+@article-padding: 0;
+@article-width:calc(80vw - 20rem - @space-s);
+@container-width-open: calc(100vw - 20rem);
 
 // Primary Layout
 
@@ -140,25 +142,38 @@ export default {
 
 main{
 
-  max-width: 100vw;
+  // max-width: 100vw;
+  // width: calc(100% - @space-s);
+  width: 100%;
   overflow-x:hidden;
+
+  .animateslow(width);
+  
   
   section{
     width: @article-width;
     margin: 0 auto;
   }
   &.open{
+
+    width: @container-width-open;
+    // margin: 0 auto;
     
     hgroup{
       .heading-inner{
-        padding-left:2rem;
-        width: @article-width;
+        padding: 0 @article-padding;
+        // width: @article-width;
         margin-right: auto;
       }
     }
     section{
-      padding-left:2rem;
-      margin: 0;
+      padding: 0 @article-padding;
+    }
+
+    figure{
+      img{
+        max-width: calc(100vw - 20rem - @space-s - @article-padding*2);
+      }
     }
   }
 }
@@ -333,7 +348,7 @@ figure{
 
   img{
     max-width: @article-width;
-    // max-height: 1200px;
+    max-height: 1000px;
   }
 
   p{
@@ -417,7 +432,5 @@ iframe{
   min-height: 20rem;
   margin: 5rem auto;
 }
-
-
 
 </style>
