@@ -1,7 +1,7 @@
 <template>
   <div class="article-container">
   <main v-if="article" :class="{open : isSidebarOpen}">
-    <hgroup class="heading">
+    <hgroup class="heading" :style="{background:'var(--scheme-'+schemeNumber+'-bg)', color:'var(--scheme-'+schemeNumber+'-fg)'}">
       <div class="heading-inner"><h1>{{article.title}}</h1>
       <h3 class="lead subheading f-mono">
         <span class="type" :class="article.tao_type" >{{article.tao_type}}</span>
@@ -14,7 +14,9 @@
       <nuxt-content id="articlebody" :document="article" :class="article.tao_type" ref="articlebody"/>
     </section>    
     
-    <article-routes/>
+    <section id="article-routes">
+      <article-routes/>
+    </section>
   </main>
   <sidebar :article="article" :footnotes="footnotes" :activeFootnote="activeFootnote"/>
   </div>
@@ -140,6 +142,9 @@ export default {
 }
 
 main{
+
+  max-width: 100vw;
+  overflow-x:hidden;
   
   section{
     width: @article-width;
@@ -163,11 +168,13 @@ main{
 
 // Typography
 
+
+
 // There are pop-in issues because scheme-bg is set on mounted hook.
 // Maybe it could be set during Generate somehow? 
 hgroup.heading{
-  background-color: var(--current-scheme-bg);
-  color: var(--current-scheme-fg);
+  // background-color: var(--current-scheme-bg);
+  // color: var(--current-scheme-fg);
   text-align: center;
   padding: 10rem 0 8rem;
   h1{
@@ -285,23 +292,22 @@ figcaption{
 
 // Images
 
-::v-deep figure:first-child{
-  position: relative;
-  // border: 1px solid red;
-  // background-color: var(--current-scheme-bg);
-
-  figcaption{
-    // color: var(--current-scheme-fg);
+::v-deep #articlebody {
+  p:first-child{
+    margin-top: 2rem;
   }
+}
+
+::v-deep #articlebody figure:first-child{
+  position: relative;
+
+  
   margin-top:0;
-  // width: 100vw;
-  // max-width: unset;
-  // display: flex;
-  // flex-direction: column;
-  // align-items: center;
+
   p{
     position: relative;
     line-height: 0;
+    margin-top: 0;  
   }
   p::before{
     content:'';
@@ -321,17 +327,6 @@ figcaption{
     background-color: blue;
   }
 
-  &::before{
-    // content:'';
-    // position: absolute;
-    // background-color: var(--current-scheme-bg);
-    // background-color: red;
-    // height: 100%;
-    // top:-5rem;
-    // left:-50vw;
-    // width: 150vw;
-    // z-index: -99;
-  }
 }
 
 figure{
@@ -341,7 +336,7 @@ figure{
 
   img{
     max-width: @article-width;
-    // max-height: 1200px;
+    max-height: 1000px;
   }
 
   p{
@@ -352,7 +347,7 @@ figure{
 
   div.series{
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     justify-content: center;
     // width: calc(60vw + 4rem);
     width: 100%;

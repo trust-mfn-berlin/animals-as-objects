@@ -56,6 +56,8 @@ export default {
 }
 </script>
 
-<style>
-
+<style lang="less" scoped>
+.layout-container{
+  padding-top: 6rem;
+}
 </style>

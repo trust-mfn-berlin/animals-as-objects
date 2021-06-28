@@ -8,6 +8,7 @@
     </section>
 
     <section>
+      <h2>Curated routes</h2>
       <curated-routes-list :routes="routes" />
       <text-button linkto="/routes">View more routes</text-button>
     </section>
@@ -66,9 +67,11 @@ body{
 
 section{
   background-color: @bg-2;
+  padding:@space-s;
+  margin-bottom: 2rem;
 }
 
 p.intro{
-  padding: @space-s;
+  margin-bottom: 1rem;
 }
 </style>
