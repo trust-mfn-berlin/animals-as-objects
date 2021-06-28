@@ -8,7 +8,7 @@
     </section>
 
     <section>
-      <routes-list :routes="routes" />
+      <curated-routes-list :routes="routes" />
       <text-button linkto="/routes">View more routes</text-button>
     </section>
   </div>
