@@ -1,15 +1,22 @@
 ---
-id: cdaa8a05-6456-4b87-a663-c755790440d3
-title: Journal Der Zoologische Garten
-desc: Put a description of this note here...
-updated: 1624280546248
-created: 1618496596303
-title_de: Zeitschrift Der Zoologische Garten
-desc_de: Put a DE description of this note here...
-author: CMW
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title: Journal Der Zoologische Garten
+title_de: Zeitschrift Der Zoologische Garten
+created: 1618496596303
+updated: 1624280546248
+id: cdaa8a05-6456-4b87-a663-c755790440d3
+author: Clemens Maier-Wolthausen
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+short_desc_de: DE short desc
+cover_image:
+  image: /images/cover-journal-der-zoologische-garten.jpg
+  alt: 1933 cover of the journal Der Zoologische Garten, showing a harpy eagle.
+    The journal covered, for example, breeding and keeping practices in zoos.
+tao_type: material
+date_start: ""
+date_end: ""
 published: false
 ---
 
