@@ -30,7 +30,7 @@ name:'article-routes',
         for (let i = 0; i < this.currentRoute.length; i++) {
           const storeRouteSingle = this.currentRoute[i].route;
 
-          console.log(storeRouteSingle)
+          // console.log(storeRouteSingle)
 
           if(storeRouteSingle){
 
