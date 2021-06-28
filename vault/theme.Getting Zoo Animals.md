@@ -14,7 +14,7 @@ desc_de: Lebende Tiere für die Sammlungen des Zoologischen Gartens, Aquariums
 short_desc: EN short desc
 short_desc_de: DE short desc
 cover_image:
-  image: /images/knautschke_bulette_jette_foto_kurt_hoppe.jpg
+  image: /images/cover-getting-animals.jpg
   alt: Hippos "Knautschke", "Jette", and "Bulette" in the Berlin Zoo, around 1959.
     (AZGB, photo Hoppe. All rights reserved.)
 tao_type: theme
