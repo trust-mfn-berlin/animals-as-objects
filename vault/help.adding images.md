@@ -8,6 +8,9 @@ desc: Adding Images
 desc_de: Adding Images
 published: false
 ---
+
+## Images inside articles
+
 To add a local image, copy your image file to the *Animals as Objects* repository dendron images folder `/vault/images`. Then put the relative path of the image into the curved brackets `![](here)`. 
 
 The format is as follows:
@@ -25,6 +28,12 @@ You can also enter a remote URL instead of a local image. This maybe be useful t
 *Note: An easy way to get image paths in VSCode is to right-click the image and select `Copy Relative Path`. You can then paste that into the curved brackets `![](here)`.*
 
 *Note: Text descriptions are optional, but they are very useful for accessibility so should be added whenever possible.*
+
+## Cover image
+
+Should be done in the Netlify CMS. 
+https://content-creation.animalsasobjects.org/admin
+
 
 ## Adding audio and video
 

@@ -10,7 +10,7 @@ const createStore = () => {
       loadedArticles: [],
       loadedRoutes: [],
       siteLanguage: defaultLanguage,
-      currentPathway: [],
+      currentRoute: [],
       searchBarIsOpen: false,
       activeFilter: 'type',
       sidebarIsOpen: true,
@@ -30,9 +30,12 @@ const createStore = () => {
         // console.log('set language to: ' + lang);
         state.siteLanguage = lang;
       },
-      addPathway(state, path) {
-        console.log('Path added: ' + path);
-        state.currentPathway.push(path);
+      addRoute(state, route) {
+        console.log('Route added: ' + route.route);
+        state.currentRoute.push(route);
+      },
+      setRoutes(state, routes) {
+        state.currentRoute = routes
       },
       toggleSearchBar(state, isOpen){
         console.log('Is search open:', isOpen)
@@ -73,8 +76,8 @@ const createStore = () => {
       siteLanguage(state) {
         return state.siteLanguage
       },
-      currentPathway(state) {
-        return state.currentPathway
+      currentRoute(state) {
+        return state.currentRoute
       },
       isSearchbarOpen(state){
         return state.searchBarIsOpen

@@ -104,6 +104,7 @@ async function getContent(filePath, encoding = "utf-8") {
   console.log('Generating backlinks...');
   // Iterate through every page
   for (let x = 0; x < dendronlinks.length; x++) {
+    // console.log(x, dendronlinks[x].frontmatter.title);
     const forwardlinks = dendronlinks[x].forwardlinks;
     const from = {
       slug: dendronlinks[x].slug,
@@ -126,7 +127,8 @@ async function getContent(filePath, encoding = "utf-8") {
           const page = dendronlinks[u];
           // If any page matches a forward link from another page, add it as a backlink
           if(page.slug == forwardlink){
-
+            
+            
             // Check if the backlink already exists (duplicated). Only add it if it doesn't already exist.
             // console.log(compiledBacklinks[u].backlinks); 
             if(!compiledBacklinks[u].backlinks.includes(from)){
@@ -175,9 +177,13 @@ async function getContent(filePath, encoding = "utf-8") {
       });
 
       for (let f = 0; f < article.forwardlinks.length; f++) {
+
         const forwardlink = compiledBacklinks.find(entry => entry.slug == article.forwardlinks[f]);
         // console.log(forwardlink);
         // immediately add primary links
+
+        // What if Forward link isn't there?
+        if(forwardlink){
         links.push({source: article.slug, target: forwardlink.slug, value:2});
         // add primary nodes
         nodes.push({
@@ -187,6 +193,7 @@ async function getContent(filePath, encoding = "utf-8") {
           tao_type: forwardlink.frontmatter.tao_type,
           cover_image: forwardlink.frontmatter.cover_image
         });
+        
         
         // now we need to find secondary connections
         if(forwardlink.forwardlinks){
@@ -199,6 +206,7 @@ async function getContent(filePath, encoding = "utf-8") {
             }
           }
         }
+      }
 
 
       }

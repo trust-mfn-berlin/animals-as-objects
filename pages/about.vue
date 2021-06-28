@@ -1,7 +1,18 @@
 <template>
-  <div v-if="page">
-    <h2>{{page.title}}</h2>
-    <nuxt-content :document="page" />
+  <div v-if="page" class="container">
+    <hgroup>
+      <h1>{{page.title}}</h1>
+    </hgroup>
+    <div class="container-inner">
+      <main >
+        <nuxt-content :document="page" />
+      </main>
+      <aside class="f-mono quote">
+        <ol v-if="page.toc.length > 0">
+          <li v-for="subheading in page.toc" :key="subheading.id" @click="tocScroll(subheading.id)">{{subheading.text}}</li>
+        </ol>
+      </aside>
+    </div>
   </div>
 </template>
 
@@ -33,5 +44,32 @@ export default {
     };
     }
   },
+  methods:{
+    tocScroll(el){
+      this.scrollToElement(document.getElementById(el), 700, -90);
+      history.pushState({},null, this.$route.path + '#' + el);
+    },
+  }
 }
 </script>
+
+<style lang="less" scoped>
+.container-inner{
+  display: flex;
+}
+
+main{
+  width: 60vw;
+}
+
+aside{
+  width: 30vw;
+  margin-left: @space-m;
+  ol{
+    position: sticky;
+    top:1rem;
+    border-left: 1px solid @black;
+    padding-left: @space-s;
+  }
+}
+</style>

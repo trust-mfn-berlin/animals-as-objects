@@ -6,7 +6,7 @@
         <li>Article type: <span>{{article.tao_type}}</span></li>
         <li>Author: <span>{{article.author}}</span></li>
         <li>Text License: <span>{{article.license}}</span></li>
-        <li>DOI: <span>{{article.id}}</span></li>
+        <li v-if="article.doi">DOI: <span>{{article.doi}}</span></li>
         <li>Last updated: <span>{{article.updatedAt}}</span></li>
       </ul>
       <div class="button-array">
@@ -14,18 +14,19 @@
         <text-button linkto="" @click.native="openCitationModal">Cite this Article</text-button>
       </div>
     </section>
-    <section id="section-toc" v-if="article.toc.length > 0">
-      <h3 class="f-mono subheading">Table of Contents</h3>  
-      <ol>
-        <li v-for="link in article.toc" :key="link.id">
-          <a @click="tocScroll(link.id)">{{link.text}}</a>
-        </li>
-      </ol>
-    </section>
+
+    <template v-if="siteLang == 'en'">
+      <contents :toc="article.toc" label="table of contents" />
+    </template>
+    <template v-if="siteLang == 'de'">
+      <contents :toc="article.body_de.toc" label="Inhaltsverzeichnis" />
+    </template>
+
     <section id="section-backlinks" v-if="article.backlinks.length > 0">
       <h3 class="f-mono subheading">Pages that link here</h3>
       <graph-backlinks  :article="{slug: article.slug, title: article.title, tao_type: article.tao_type}" :backlinks="article.backlinks"/>
     </section>
+
     <section id="section-routes" v-if="matchedRoutes.length > 0">
       <h3 class="f-mono subheading">This page appears in these Curated Routes</h3>  
       <ul>
@@ -34,16 +35,23 @@
         </li>
       </ul>
     </section>
+
     <section id="section-footnotes" v-if="footnotesParsed">
       <h3 class="f-mono subheading ">Footnotes</h3>
       <div class="footnotes-inner text-links" v-html="footnotesParsed"></div>
     </section>
+
+    
   </aside>
 </template>
 
 <script>
+import contents from './sidebar/contents.vue'
+
+
 export default {
   name:'sidebar',
+  components: { contents },
   props:{
     article:{
       type: Object,
@@ -68,6 +76,16 @@ export default {
     isSidebarOpen(){
       return this.$store.getters.isSidebarOpen
     },
+    siteLang(){
+      return this.$store.getters.siteLanguage
+    },
+    tocBilingual(){
+      if(this.siteLang == 'de'){
+        return this.storePage.title_de
+      } else {
+        return this.storePage.title
+      }
+    }
 
   },
   methods:{
@@ -90,10 +108,6 @@ export default {
     },
     openCitationModal(){
       this.$store.commit('toggleCitationModal', {isOpen: true, article: this.article});
-    },
-    tocScroll(el){
-      this.scrollToElement(document.getElementById(el), 700, -90);
-      history.pushState({},null, this.article.slug + '#' + el);
     },
     async addFootnoteBacklinkListener(){
       const backrefs = await document.getElementsByClassName('sidebar-footnote-backref');

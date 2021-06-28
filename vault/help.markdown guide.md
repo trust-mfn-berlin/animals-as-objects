@@ -2,7 +2,7 @@
 id: 8e923c6e-cfee-4c70-9f52-646f66dc05e4
 title: Markdown Guide
 desc: ''
-updated: 1619010990205
+updated: 1623324345134
 created: 1618396638023
 ---
 
@@ -10,7 +10,7 @@ Derived from: https://www.markdownguide.org/basic-syntax/
 
 # Headings
 
-# Heading level 1
+# Heading level 1 (Do not use in main text)
 ## Heading level 2
 ### Heading level 3
 #### Heading level 4
@@ -18,12 +18,12 @@ Derived from: https://www.markdownguide.org/basic-syntax/
 ###### Heading level 6
 
 Don't do: 
-#Heading 
+##Heading 
 
 Do: 
-# Heading
+## Heading
 
-# Paragraphs
+## Paragraphs
 
 Paragraphs are just normal text, like so.
 

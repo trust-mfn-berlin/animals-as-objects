@@ -1,0 +1,68 @@
+<template>
+  <div class="article-routes">
+    <h3>Your current route</h3>
+    <your-current-route :max="9"/>
+    <h3>Least visited from here</h3>
+    <h3>Most visited from here</h3>
+  </div>
+</template>
+
+<script>
+export default {
+name:'article-routes',
+  props:{
+    
+  },
+  data(){
+    return{
+    }
+  },
+  // computed:{
+  //   currentRoute(){
+  //     return this.$store.getters.currentRoute;
+  //   },
+  // },
+  // methods:{
+  //   async matchRoutes(){
+
+  //       for (let i = 0; i < this.currentRoute.length; i++) {
+  //         const storeRouteSingle = this.currentRoute[i].route;
+
+  //         // console.log(storeRouteSingle)
+
+  //         if(storeRouteSingle){
+
+  //           const article = await this.$content(storeRouteSingle).only(['slug', 'title', 'title_de', 'id', 'tao_type', 'colour_scheme']).fetch()
+  //           .catch((err) => {
+  //             console.warn('page not found', err)
+  //           })
+            
+  //           // console.log(article);
+  //           if(article){
+  //             this.matchedRoutes.push(article)
+  //           }
+
+  //         }
+  //       }
+
+  //     },
+  //   },
+  // mounted(){
+  //   this.$nextTick(function(){
+  //     this.matchRoutes();
+  //   })
+  // },
+  // watch: {
+  //   async currentRoute(currentRoute) {
+  //     this.matchRoutes();
+  //   }
+  // }
+
+}
+</script>
+
+<style lang="less" scoped>
+.article-routes{
+  margin-top:5rem;
+}
+</style>

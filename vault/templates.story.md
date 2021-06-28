@@ -2,7 +2,7 @@
 id: 98db0135-2087-4fdd-9f42-a14fcb81174e
 title: Story
 desc: 'Put a description of this note here...'
-updated: 1622033316567
+updated: 1623144469227
 created: 1617975606425
 title_de: Add a german title here
 desc_de: 'Put a DE description of this note here...'
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-Stories are like materials and themes. They also get backlinks like [[theme.test]]. Themes have 2000 - 4000 words max.
+Stories are like materials and themes. They also get backlinks like [[theme.test]]. Stories have 2000 - 4000 words max.
 And footnotes [^footnote1]. The foonote-words can be different each time, or refer to a paragraph and be numbered conscutively.
 And **bold** and _italics_.
 

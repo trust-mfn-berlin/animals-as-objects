@@ -24,17 +24,27 @@ collections:
       - { label: "Updated", name: "updated", widget: "number" }
       - { label: "ID", name: "id", widget: "string" }
       - { label: "Author", name: "author", widget: "string" }
+      - label: "Translator(s)"
+        name: "translators"
+        widget: "object"
+        collapsed: true
+        required: false
+        fields:
+          - {label: "Translator DE to EN", name: "translator_de_en", hint: "translated from German into English by...", required: false, widget: "string"}
+          - {label: "Translator EN to DE", name: "translator_en_de", hint: "translated from English into German by...", required: false, widget: "string"}
       - { label: "Description", name: "desc", widget: "string", hint: "30-50 words" }
       - { label: "Description DE", name: "desc_de", widget: "string", hint: "30-50 words" }
       - { label: "Short Description", name: "short_desc", widget: "string", hint: "3-10 words" }
       - { label: "Short Description DE", name: "short_desc_de", widget: "string", hint: "3-10 words" }
-      - {
-          label: "Cover image",
-          name: "cover_image",
-          widget: "image",
-          allow_multiple: false,
-          required: false,
-        }
+      - label: "Cover image"
+        name: "cover_image"
+        widget: "object"
+        collapsed: true
+        allow_multiple: false
+        required: false
+        fields:
+          - { label: "Image", name: "image", required: false, widget: "image"}
+          - { label: "Description", hint: "for SEO and accessibility purposes", name: "alt", required: false, widget: "string"}
       - label: "TAO Content type"
         name: "tao_type"
         widget: "select"

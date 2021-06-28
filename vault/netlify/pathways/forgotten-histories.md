@@ -43,7 +43,7 @@ into_text:
     amet.
 articles:
   - article: story.industrial micropaleontology
-  - article: theme.Acquisition zoo animals
+  - article: theme.Acquisition
   - article: material.Carl Georg Schillings
   - article: material.radiolaria
 ---

@@ -2,7 +2,7 @@
 id: f02cb0e0-9512-4a0f-8012-02969e9f97d0
 title: Bobby life
 desc: Put a description of this note here...
-updated: 1622213743392
+updated: 1623347984502
 created: 1620163729182
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -38,6 +38,8 @@ published: false
     - die Akklimatisationsstation von Ruhe bei Marseille
 	Themen: Kolonialimus, Gorillas ausstellen (Umlauff, Naturkundemuseen, Zoos), Evolutionstheorie
 
+Actien-Verein des zoologischen Gartens zu Berlin: Geschäftsbericht über das Jahr 1928, Berlin 1929, o.S.: "Das Glanzstück unter den Ankäufen des Jahres 1928 war aber der junge männliche Gorilla, den wir uns nur durch umgehende telegraphische Bestellung sichern konnten, es war ein allgemeiner Wettbewerb um ihn. Er ist inzwischen schon merklich gewachsen und läßt auch für die Zukunft günstige Weiterentwicklung erhoffen." 
+
 Eipper, Paul. _Tiere sehen dich an_. München: Piper & Co, 1952.:
 **"Bobby" Ankunft**
 Gerücht, nach Marseille komme ein Gorilla, Ruhe ist im Akklimatisationsgarten bei Nizza und als erster zur Stelle.- Zahnbestand lässt vermuten, dass er drei Jahre alt war.- kam aber als Säugling in menschliche Obhut bei Pflanzer-Paar.- die meisten Gorillas starben bald, Bobby aber war an Milchbrei, Kindermehl, gesüßten Tee, Obst und Gemüse schon gewöhnt.- mit dem Gorilla auch ein junger Schimpanse, der die letzten Monat in Kamerun bei ihm gewesen war.- 124
@@ -58,10 +60,12 @@ ernsthaftes "Wesen". 130
 
 
 Brandes über Aufzucht von Gorillas (104)
-"Für den Tiergärtner ist es von größtem Interesse, möglichst zuverlässige Anhaltspunkte über die normale Entwicklung der verschiedensten Tiere hinsichtlich Größe Gewicht, Zahndurchbruch, Zahnwechsel usw. zu haben. Ganz besonders gilt dieses für die wertvollsten Tiere, deren glückliche Aufzucht natürlich ein ungemein wichtiges, auch wirtschaftlich wichtige Problem ist, zumal wir gerade von solchen Tieren ur sehr lückenhafte Kenntnisse aus ihrem Freileben haben können. Hier sind in erster Linie zu nennen die Menschenaffen und von ihnen die am seltensten in Europa zur Pflege gelangten Gorillas. Jeder Gorilla, der - sei es in seiner Heimat Afrika, sei es in Europa oder Amerika gepflegt wurde und zur Zeit gepflegt wird- war entweder der erschossenen Mutter von der Brust genommen oder oder bei sonst einer günstigen Gelegenheit als Kind gefangen worden. Nur ganz wenige haben von diesen haben bisher längere Zeit in der Gefangenschaftausgehalten, ... [^brandes1]
+"Für den Tiergärtner ist es von größtem Interesse, möglichst zuverlässige Anhaltspunkte über die normale Entwicklung der verschiedensten Tiere hinsichtlich Größe Gewicht, Zahndurchbruch, Zahnwechsel usw. zu haben. Ganz besonders gilt dieses für die wertvollsten Tiere, deren glückliche Aufzucht natürlich ein ungemein wichtiges, auch wirtschaftlich wichtige Problem ist, zumal wir gerade von solchen Tieren nur sehr lückenhafte Kenntnisse aus ihrem Freileben haben können. Hier sind in erster Linie zu nennen die Menschenaffen und von ihnen die am seltensten in Europa zur Pflege gelangten Gorillas. Jeder Gorilla, der - sei es in seiner Heimat Afrika, sei es in Europa oder Amerika gepflegt wurde und zur Zeit gepflegt wird- war entweder der erschossenen Mutter von der Brust genommen oder oder bei sonst einer günstigen Gelegenheit als Kind gefangen worden. Nur ganz wenige haben von diesen haben bisher längere Zeit in der Gefangenschaftausgehalten, ... [^brandes1]
 
 
 * 1928 etwa zweijährig durch die Tierhandlung Ruhe, Alfeld, nach Berlin
+
+ Das Gewicht ihrer Tiere war für Zoologische Gärten immer schon ein wichtiges Kriterium für den Schauwert der Tiere und wurde als Ausweis für Gesundheit und Wohlbefinden öffentlich in Szene gesetzt [backlink: Bobby]. Dazu gehörte auch, nach dem Tod Organe oder Knochen zu wiegen und die Zahlen bekanntzugeben. 
 
 ## Leben im Zoo 
 	Gewicht
@@ -70,6 +74,14 @@ Brandes über Aufzucht von Gorillas (104)
 "Wollen wir Tiergärtner eine Lehre aus diesem Ergebnis ziehen, so ist es die, daß der Gorilla sehr reichlich gefüttert werden muß; denn ein so rapides Wachstum, wie es sich hier findet erfordert natürlich auch reichliches Heiz- und Baumaterial."[^brandes2] (Brandes, 116) Liegt hier der Grund für die Verfettung?
 	…
 
+Veterinärmedizinies Wissen über Ernährung von Affen im Zoo: 
+"Überhaupt dürfen wir mit den Gesundheits- und sonstigen Verhältnissen in unserem Affenpalmenhause sehr zufrieden sein. Während man wohl sagen darf, daß man früher froh war, Affen einigermaßen am Leben erhalten zu können, Zuchterfolge aber, zumal befriedigende Entwicklung der Jungen, wenig zu verzeichnen waren, haben wir jetzt von nicht weniger als 9 Affenarten Junge, d.h. beinahe von allen, die wir überhaupt in zuchtfähigem Alter und familienweise besitzen. Diesen Erfolg dürfen wir der Einrichtung des Hauses zuschreiben und unserer jetzigen Affenhaltung, in der wir einen großen Fortschritt gemacht haben, seit die Kenntnis der Vitamine einigermaßen Allgemeingut geworden ist." Actien-Verein des zoologischen Gartens zu Berlin: Geschäftsbericht über das Jahr 1928, Berlin 1929, o.S.
+
+Actien-Verein des zoologischen Gartens zu Berlin: Geschäftsbericht über das Jahr 1932, Berlin 1933, o.S.: "Der Gorilla 'Bobby' ist jetzt 7-8 Jahre alt, hat ein Gewicht von 133,5 kg und ist somit der größte Menschenaffe, der jemals irgendwo in Gefangenschaft gewesen ist."
+
+Actien-Verein des zoologischen Gartens zu Berlin: Geschäftsbericht über das Jahr 1933, Berlin 1934, o.S.: "Der Gorilla 'Bobby' hat ein Gewicht von 190 kg bei einem Alter von ungefähr 10 Jahren erreicht und ist somit das einzigartigste und wertvollste Schaustück."
+
+Actien-Verein des zoologischen Gartens zu Berlin: Geschäftsbericht über das Jahr 1934, Berlin 1935, o.S.: "Von den wertvollsten Tieren, dem See-Elefanten "Roland" und dem Gorilla "Bobby" ist nur Gutes zu melden. Letzterer hat ein Gewicht von ca. 250 kg (letzte Wägung am 7.1.1935 ergab 252,5 kg) bei einem jetzigen Alter von ungefähr 11 Jahren. Er ist nach wie vor unser wertvollstes und eigenartigstes Schaustück."
 
 ## Tod
 
@@ -110,6 +122,17 @@ Rümmler, Hans. „2. Niederschriften der wissenschaftlichen Sitzungen im Jahre 
 	Hand- und Fuß in Naßsammlung
 -	Abgüsse
 	Anatomische Sammlung Charité
+
+
+Abgüsse:
+auch vom Kadaver von "M'Pungu" wurden Gipsabgüsse genommen und Statuen daraus hergestellt.
+
+Bobby:
+Körper zerlegt 
+Körper in Publikationen 'seziert' und verteilt; der geschriebene Korpus / Textkorpus
+Zerteilung des Körpers auch in verschiedenen Publikationen verwertet > nochmal ‚Zerlegung‘ / Zerteilung
+Affenköpfe in Denkerposen 
+
 
 ## Erinnerung
 
