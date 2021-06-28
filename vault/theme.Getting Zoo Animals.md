@@ -1,15 +1,25 @@
 ---
-id: 9c7d8895-4d13-4929-8292-4704bb9b0881
-title: How do animals get into the zoo?
-desc: null
-updated: 1624434226969
-created: 1618498026144
-title_de: Wie kommen Tiere in den Zoo?
-desc_de: Lebende Tiere für die Sammlungen des Zoologischen Gartens, Aquariums und Tierparks Berlin kamen und kommen aus unterschiedlichen Quellen. Diese haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen für diese Einrichtungen - politische, logistische und moralische.
-author: Clemens Maier-Wolthausen
-tao_type: theme
-cover_image: null
 license: CC BY-SA
+title: How do animals get into the zoo?
+title_de: Wie kommen Tiere in den Zoo?
+created: 1618498026144
+updated: 1624434226969
+id: 9c7d8895-4d13-4929-8292-4704bb9b0881
+author: Clemens Maier-Wolthausen
+desc: EN desc
+desc_de: Lebende Tiere für die Sammlungen des Zoologischen Gartens, Aquariums
+  und Tierparks Berlin kamen und kommen aus unterschiedlichen Quellen. Diese
+  haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen
+  für diese Einrichtungen - politische, logistische und moralische.
+short_desc: EN short desc
+short_desc_de: DE short desc
+cover_image:
+  image: /images/knautschke_bulette_jette_foto_kurt_hoppe.jpg
+  alt: Hippos "Knautschke", "Jette", and "Bulette" in the Berlin Zoo, around 1959.
+    (AZGB, photo Hoppe. All rights reserved.)
+tao_type: theme
+date_start: ""
+date_end: ""
 published: false
 ---
 
