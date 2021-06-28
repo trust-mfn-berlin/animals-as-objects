@@ -1,15 +1,21 @@
 ---
-id: 4kJJB2pX-g7lq6q7GUt0W
-title: Finding Cycladophora
-desc: Put a description of this note here...
-updated: 1624875335228
-created: 1624875316911
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Filippo Bertoni
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title: Finding Cycladophora
+title_de: Add a german title here
+created: 1624875316911
+updated: 1624875335228
+id: 4kJJB2pX-g7lq6q7GUt0W
+author: Filippo Bertoni
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+short_desc_de: DE short desc
+cover_image:
+  image: /images/cover-finding-cycladophora.jpg
+  alt: Map of telegraph cables in the North Atlantic, YYYY
+tao_type: story
+date_start: ""
+date_end: ""
 published: false
 ---
 
