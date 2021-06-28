@@ -10,7 +10,7 @@ const frontMatterRegex = /---(.*?)---/sg;
 
 console.log(contentDir);
 
-maxColours = 15;
+maxColours = 16;
 
 async function getFileNames(filePath, encoding = "utf-8") {
   let mdFiles = [];
@@ -53,7 +53,7 @@ async function getContent(filePath, encoding = "utf-8") {
     colourCode = Math.floor(Math.random() * maxColours);
     
 
-    if(!frontmatter.colour_scheme){
+    if(frontmatter.colour_scheme == undefined){
       console.log('adding random colour...')
       const frontMatterRaw = fileData.match(frontMatterRegex)[0];
       const frontMatterStripped = frontMatterRaw.replace(/---/g,'') + 'colour_scheme: ' + colourCode + '\n';
@@ -63,9 +63,12 @@ async function getContent(filePath, encoding = "utf-8") {
       console.log('writing..')
       fs.writeFile(path.join(__dirname, '..','vault', file), writeData);
     } else {
-      // do nothing
       // add reroll here
-      // replace(/colour_scheme: \d+/gs, 'colour_scheme: ' + colourCode)
+      const reRolled = fileData.replace(/colour_scheme: \d+/g, 'colour_scheme: ' + colourCode);
+      console.log('rerolling..')
+      fs.writeFile(path.join(__dirname, '..','vault', file), reRolled);
+
+      
     }
   }
 
