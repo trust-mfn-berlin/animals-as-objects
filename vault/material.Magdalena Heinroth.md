@@ -1,15 +1,22 @@
 ---
-id: 95617cbe-704d-46c1-b0b5-05d178ec363d
-title: Magdalena Heinroth
-desc: Put a description of this note here...
-updated: 1621964996289
-created: 1619797161333
-title_de: Magdalena Heinroth
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title: Magdalena Heinroth
+title_de: Magdalena Heinroth
+created: 1619797161333
+updated: 1621964996289
+id: 95617cbe-704d-46c1-b0b5-05d178ec363d
+author: Author name(s) here.
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+short_desc_de: DE short desc
+cover_image:
+  image: /images/cover-magdalena-heinroth.jpg
+  alt: Berlin zoologist Magdalena Heinroth with three jackdaws, 1919. (AZGB, photo
+    O. Heinroth. All rights reserved.)
+tao_type: material
+date_start: ""
+date_end: ""
 published: false
 ---
 
