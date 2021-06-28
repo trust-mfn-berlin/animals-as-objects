@@ -31,7 +31,7 @@
           :icon="toggleIcon"
           :tao_type="this.$store.getters.articleTaoType"
           :aria-haspopup="isSidebarOpen"
-          :useColourScheme="true"
+          :useColourScheme="this.$store.getters.isSidebarOpen"
         >{{toggleButtonText}}</icon-button>
       </li>
     </transition>
