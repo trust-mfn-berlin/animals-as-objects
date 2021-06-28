@@ -14,7 +14,7 @@ short_desc: EN short desc
 short_desc_de: DE short desc
 cover_image:
   image: /images/s_3_82_giraffentransport.jpg
-  alt: Transporting two giraffes, captured on colonized land in 1928. (AZGB, photo
+  alt: Transporting two giraffes, captured on colonised land in 1928. (AZGB, photo
     Lutz Heck. All rights reserved.)
 tao_type: story
 date_start: ""
