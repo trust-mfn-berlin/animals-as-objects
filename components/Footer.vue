@@ -19,6 +19,7 @@ footer{
   align-items: flex-end;
   width: calc(100vw - @space-s*2);
   justify-content: space-between;
+  padding: @space-s;
 }
 small{
   font-size: @fs-xxs;

@@ -16,9 +16,17 @@ colour_scheme: 7
 
 :::EN:::
 
+<figure>
+
 ![a litographic illustration representing the gelatinous substance interpreted as Bathybius](/images/filo/Bathybius_haeckelii_Haeckel_1870.png)
 
+<figcaption>
+
 _An image of_ Bathybius haeckelii, _which was believed to be a primordial protoplasm from the ocean floor and to offer evidence of the connection between inorganic matter and organic life. When the substance was proven to be an inorganic artifact caused by the alcohol used to preserve the samples, the controversy surrounding it contributed to slowing down early advances in micropaleontology._ [^micropaleontology1]
+
+</figcaption>
+
+</figure>
 
 By the second half of the century, better observations -revolutionized the scientific understanding of nature. Significant improvements in [[story.microscopy]] after the 1830s (which led to the formulation of current [[story.cell theory]]) and the mounting evidence for the transmutation of organisms, which culminated in the 1850s with [[material.charles darwin]]'s and [[material.alfred russel wallace]]'s evolutionary theories, aided these observations. However, despite these innovations, the characterization of microbial life and its role in the functioning of the planet and its history was still only beginning to take shape. Many naturalists continued the efforts of d'Orbigny and Ehrenberg to describe and classify microbial diversity. They were driven also by the intent to overcome the creationist positions of these 'founding fathers', who still considered evolution to be unfounded. Nevertheless, these early attempts to connect microorganisms and the evolution of life on the planet met with what seemed to be a dead end. 
 

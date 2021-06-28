@@ -42,3 +42,9 @@ export default {
   },
 }
 </script>
+
+<style lang="less" scoped>
+.page-container{
+  padding: 0 @space-s;
+}
+</style>
