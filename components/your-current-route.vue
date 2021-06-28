@@ -1,5 +1,7 @@
 <template>
-  <ol class="current-route" v-if="matchedRoutes">
+<div class="current-route-outer">
+  <transition name="fade">
+  <ol class="current-route-inner" v-if="matchedRoutes" v-show="displayed && matched">
     <li v-if="matchedRoutes.length > max" class="excess">+{{indexStart}}</li>
     <li v-for="(route, index) in matchedRoutes.slice(indexStart,matchedRoutes.length)" :key="index">
       <Inline :article="route" />
@@ -9,6 +11,8 @@
       </svg>
     </li>
   </ol>
+  </transition>
+</div>
 </template>
 
 <script>
@@ -23,7 +27,9 @@ props:{
 }, 
 data(){
   return{
-    matchedRoutes:[]
+    matchedRoutes:[],
+    matched: false,
+    displayed: false
   }
 },
 computed:{
@@ -40,6 +46,8 @@ computed:{
 },
 methods:{
   async matchRoutes(){
+
+      this.matched = false;
 
       for (let i = 0; i < this.currentRoute.length; i++) {
         const storeRouteSingle = this.currentRoute[i].route;
@@ -60,30 +68,40 @@ methods:{
 
         }
       }
+      console.log('test');
+      this.matched = true;
 
     },
   },
 mounted(){
-  this.$nextTick(function(){
-    this.matchRoutes();
-  })
+  this.matchRoutes();
+
+  const that = this;
+
+  setTimeout(function(){ that.displayed = true }, 50);
+
 },
 watch: {
   async currentRoute(currentRoute) {
     this.matchRoutes();
+    
   }
 }
 }
 </script>
 
 <style lang="less" scoped>
+
+.current-route-outer{
+  background-color: @bg-2;
+  padding: @space-m;
+  border-radius: @radius-l;
+} 
+
 ol{
   display: flex;
   flex-wrap: wrap;
   gap: @space-s;
-  background-color: @bg-2;
-  padding: @space-m;
-  border-radius: @radius-l;
 }
 
 li{
