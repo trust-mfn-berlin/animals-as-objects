@@ -19,9 +19,6 @@ name:'article-routes',
     }
   },
   computed:{
-    storeArticles(){
-      return this.$store.getters.loadedArticles;
-    },
     currentRoute(){
       return this.$store.getters.currentRoute;
     },
@@ -33,10 +30,9 @@ name:'article-routes',
         for (let i = 0; i < this.currentRoute.length; i++) {
           const storeRouteSingle = this.currentRoute[i].route;
 
+          console.log(storeRouteSingle)
 
           if(storeRouteSingle){
-
-            // console.log(storeRouteSingle)
 
             const article = await this.$content(storeRouteSingle).only(['slug', 'title', 'title_de', 'id', 'tao_type', 'colour_scheme']).fetch()
             .catch((err) => {
@@ -54,7 +50,14 @@ name:'article-routes',
       },
     },
   mounted(){
-    this.matchRoutes();
+    this.$nextTick(function(){
+      this.matchRoutes();
+    })
+  },
+  watch: {
+    async currentRoute(currentRoute) {
+      this.matchRoutes();
+    }
   }
 
 }
