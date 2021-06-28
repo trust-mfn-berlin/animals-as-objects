@@ -1,15 +1,20 @@
 ---
-id: 947c29be-240a-4adb-93c7-9026f80aaa89
-title: Radiolaria
-desc: Microscopic unicellular organisms living in the oceans
-updated: 1624281157182
-created: 1618492811498
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Filippo Bertoni
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title: Radiolaria
+title_de: Add a german title here
+created: 1618492811498
+updated: 1624281157182
+id: 947c29be-240a-4adb-93c7-9026f80aaa89
+author: Filippo Bertoni
+desc: Microscopic unicellular organisms living in the oceans
+desc_de: Put a DE description of this note here...
+short_desc: Microscopic unicellular organisms living in the oceans
+short_desc_de: DE short desc
+cover_image:
+  image: /images/cover-radiolaria.jpg
+tao_type: material
+date_start: ""
+date_end: ""
 published: false
 ---
 
