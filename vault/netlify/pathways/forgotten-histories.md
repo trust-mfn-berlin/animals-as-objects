@@ -44,6 +44,5 @@ into_text:
 articles:
   - article: story.industrial micropaleontology
   - article: theme.Acquisition
-  - article: material.Carl Georg Schillings
   - article: material.radiolaria
 ---
