@@ -7,7 +7,7 @@
         <li>Author: <span>{{article.author}}</span></li>
         <li>Text License: <span>{{article.license}}</span></li>
         <li v-if="article.doi">DOI: <span>{{article.doi}}</span></li>
-        <li>Last updated: <span>{{article.updatedAt}}</span></li>
+        <li>Last updated: <span>{{article.updatedAt | formatDate}}</span></li>
       </ul>
       <div class="button-array">
         <text-button linkto="">Download PDF</text-button>
