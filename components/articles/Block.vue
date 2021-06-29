@@ -1,14 +1,26 @@
 <template>
   <article class="block" :class="article.tao_type">
     <nuxt-link :to="'/'+article.slug">
-    <nuxt-img v-if="article.cover_image" quality="80" :src="article.cover_image.image" :alt="article.cover_image.alt" />
-    <img v-else :src="'https://loremflickr.com/600/600/butterfly?random=' + article.id" />
+    <figure>
+      <nuxt-img v-if="article.cover_image" quality="80" width="600" height="600" fit="cover" :src="article.cover_image.image" :alt="article.cover_image.alt" />
+      <img v-else :src="'https://loremflickr.com/600/600/leaf?random=' + article.id" />
+    </figure>
+
     <div class="text" :style="{backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
       <hgroup>
         <h2 class="f-serif">{{article.title}}</h2>
-        <h3 class="f-mono caption" v-if="article.tao_type == 'material'">1900–1990</h3>
+        <h3 class="f-mono caption" 
+          v-if="article.tao_type == 'material' && article.date_start || article.date_end">
+          <span v-if="article.date_start">
+            {{article.date_start}}
+          </span>
+          <span v-if="article.date_start && article.date_end">–</span>
+          <span v-if="article.date_end">
+            {{article.date_start}}
+          </span>
+        </h3>
       </hgroup>
-      <p class="f-serif description" v-if="article.tao_type != 'material'">In biology, taxonomy is a formal system to name, define, and classify organisms, regulated and governed by agreed upon rules. Since its beginning biological taxonomy was neither stable nor universal, since controversies emerged, and classifications continue to change still today.</p>
+      <p class="f-serif description" v-if="article.tao_type != 'material' && article.desc">{{article.desc}}</p>
     </div>
     </nuxt-link>
   </article>
@@ -39,11 +51,18 @@ article{
     height: 100%;
   }
 
-  img{
+  figure{
     height: 100%;
     width: 12rem;
-    // filter:grayscale(0.9);
-    // z-index: -1;
+    min-width: 12rem;
+    max-width: 12rem;
+    overflow: hidden; 
+    flex-grow: 1;
+    img{
+      width: 100%;
+      height: 100%;
+      // object-fit: cover;
+    }
   }
 
   .text{
@@ -83,7 +102,7 @@ article{
   }
 
   &.material{
-    img{
+    figure{
       border-radius: 500px;
     }
 
@@ -111,7 +130,7 @@ article{
   }
 
   &.story{
-    img{
+    figure{
       border-radius: @radius-l;
     }
     .text{
