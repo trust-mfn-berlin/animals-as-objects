@@ -1,9 +1,12 @@
 <template>
   <article class="block" :class="article.tao_type">
     <nuxt-link :to="'/'+article.slug">
-    <figure>
-      <nuxt-img v-if="article.cover_image" quality="80" width="600" height="600" fit="cover" :src="article.cover_image.image" :alt="article.cover_image.alt" />
-      <img v-else :src="'https://loremflickr.com/600/600/leaf?random=' + article.id" />
+    <figure v-if="article.cover_image">
+      <nuxt-img quality="80" width="600" height="600" fit="cover" :src="article.cover_image.image" :alt="article.cover_image.alt" />
+    </figure>
+
+    <figure v-else>
+      <img :src="'https://loremflickr.com/600/600/leaf?random=' + article.id" />
     </figure>
 
     <div class="text" :style="{backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
@@ -61,8 +64,11 @@ article{
     }
   }
 
-  .text{
+  figure + .text {
     margin-left:-3.5rem;
+  }
+
+  .text{
     background-color: @white;
     width: 100%;
     box-shadow: @shadow;
