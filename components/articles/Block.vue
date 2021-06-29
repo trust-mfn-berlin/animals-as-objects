@@ -19,7 +19,9 @@
           <span v-if="article.date_end">{{article.date_end | formatDateYear}}</span>
         </h3>
       </hgroup>
-      <p class="f-serif description" v-if="article.tao_type != 'material' && article.desc">{{article.desc}}</p>
+      <div class="description-wrap">
+        <p class="f-serif description" v-if="article.tao_type != 'material' && article.desc">{{article.desc}}</p>
+      </div>
     </div>
     </nuxt-link>
   </article>
@@ -73,6 +75,7 @@ article{
     width: 100%;
     box-shadow: @shadow;
     padding: @space-l;
+    display: inline-block;
 
     .animatepop(transform);
 
@@ -90,12 +93,15 @@ article{
       transform: translateY(0.4rem);
     }
 
-    p.description{
+    .description-wrap{
       margin-top: @space-s;
-      max-width: calc(30vw - 4rem);
+      display: flex;
+    }
+
+    p.description{
       max-height: 7rem;
-      overflow: hidden;
-      text-overflow: ellipsis;
+      flex-grow: 1;
+      width: 0;
     }
 
     &:hover{
