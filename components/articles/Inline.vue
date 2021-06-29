@@ -1,6 +1,6 @@
 <template>
   <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual" @mouseover.native="onMouseover" @mouseleave.native="onMouseleave">
-    <nuxt-img v-if="article.cover_image" quality="80" width="64" height="64" :src="article.cover_image.image" :alt="article.cover_image.alt" />
+    <nuxt-img v-if="article.cover_image" quality="80" width="64" height="64" :src="article.cover_image.image"  />
     <span class="text" :style="{border:'1px solid var(--scheme-'+article.colour_scheme+'-bg)', backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
       <span class="f-serif subheading" v-html="alias ? alias : titleBilingual"></span>
     </span>
