@@ -23,7 +23,7 @@ export default {
     // console.log(routes);
     var articles = [];
 
-    const max = 5;
+    const max = 50;
     var t = 0;
     var m = 0;
     var s = 0;
