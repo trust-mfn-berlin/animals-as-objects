@@ -1,6 +1,6 @@
 <template>
   <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual" @mouseover.native="onMouseover" @mouseleave.native="onMouseleave">
-    <img :src="'https://loremflickr.com/64/64/butterfly?random=' + article.id" alt="" />
+    <nuxt-img v-if="article.cover_image" quality="80" width="64" height="64" :src="article.cover_image.image" :alt="article.cover_image.alt" />
     <span class="text" :style="{border:'1px solid var(--scheme-'+article.colour_scheme+'-bg)', backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
       <span class="f-serif subheading" v-html="alias ? alias : titleBilingual"></span>
     </span>
@@ -56,6 +56,8 @@ a{
   img{
     height: 1.33333rem;
     width: 1.33333rem;
+    box-shadow: @shadow-small;
+    margin-right: @space-xs;
   }
   
   .text{
@@ -63,7 +65,7 @@ a{
     height: 1.33333rem;
     padding:0.37rem 0.4rem 0;
     box-shadow: @shadow-small;
-    margin-left: @space-xs;
+    // margin-left: @space-xs;
     display: inline-block;
     line-height: unset;
 
