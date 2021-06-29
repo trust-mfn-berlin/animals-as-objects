@@ -65,6 +65,11 @@ button{
 
   .animatemedium(all);
 
+  &:hover{
+    box-shadow: @shadow-focus !important;
+    // background-color: red !important;
+  }
+
   svg{
     margin:auto;
     // fill:@white;

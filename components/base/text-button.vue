@@ -43,6 +43,8 @@ export default {
   width: auto;
   position: relative;
   height: 2rem;
+
+  .animatemedium(all);
   
   &:hover{
     box-shadow: @shadow-hover;
