@@ -3,7 +3,10 @@
     <nuxt-link :to="'/'+article.slug">
     <img :src="'https://loremflickr.com/600/600/butterfly?random=' + article.id" />
     <div class="text" :style="{backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
-      <h2 class="f-serif">{{article.title}}</h2>
+      <hgroup>
+        <h2 class="f-serif">{{article.title}}</h2>
+        <h3 class="f-mono caption" v-if="article.tao_type == 'material'">1900–1990</h3>
+      </hgroup>
       <p class="f-serif description" v-if="article.tao_type != 'material'">In biology, taxonomy is a formal system to name, define, and classify organisms, regulated and governed by agreed upon rules. Since its beginning biological taxonomy was neither stable nor universal, since controversies emerged, and classifications continue to change still today.</p>
     </div>
     </nuxt-link>
@@ -51,15 +54,26 @@ article{
 
     .animatepop(transform);
 
+    hgroup{
+      max-width: 100%;
+    }
     h2{
       max-width: 100%;
       overflow: hidden;
       text-overflow: ellipsis;
     }
 
-    p{
+    h3{
+      margin-top:@space-xs;
+      transform: translateY(0.4rem);
+    }
+
+    p.description{
       margin-top: @space-s;
       max-width: calc(30vw - 4rem);
+      max-height: 7rem;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
 
     &:hover{
@@ -80,7 +94,7 @@ article{
       align-items: center;
       flex-direction: row;
 
-      h2{
+      hgroup{
         margin: auto;
       }
     }
