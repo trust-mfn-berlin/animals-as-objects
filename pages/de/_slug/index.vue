@@ -5,7 +5,8 @@
       <div class="heading-inner"><h1>{{article.title_de}}</h1>
       <h3 class="lead subheading f-mono">
         <span class="type" :class="article.tao_type" >{{article.tao_type}}</span>
-        Lorem ipsum dolor sit amet
+        <span v-if="article.short_desc_de">{{article.short_desc_de}}</span>
+        <span v-else>I need a short description!</span>
       </h3>
       </div>
     </hgroup>
