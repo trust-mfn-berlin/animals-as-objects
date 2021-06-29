@@ -1,11 +1,11 @@
 <template>
-  <div class="citation-modal" role="dialog" aria-labelledby="citation_label" aria-modal="true">
+  <div class="citation-modal" role="dialog" aria-labelledby="citation_label" aria-modal="true" :class="$store.getters.articleTaoType">
     <h3 id="citation_label" class="f-mono subheading" v-if="siteLang == 'en'">Cite this article</h3>
     <h3 id="citation_label" class="f-mono subheading" v-else>zitiere diesen Artikel</h3>
-    <p class="f-mono" ref="citation" v-if="siteLang == 'en'">{{article.author}}, "{{article.title}}", <em>Animals as Objects?</em>, <span v-if="article.translator">, trans. {{article.translator}},</span> 15 Nov. 2021, Last updated {{article.updatedAt | formatDate}}, animalsasobjects.org/{{article.slug}} <span v-if="article.doi">DOI: {{article.doi}}</span></p>
-    <p class="f-mono" ref="citation" v-else>{{article.author}}, "{{article.title_de}}", <em>Animals as Objects?</em>, <span v-if="article.translator">, trans. {{article.translator}},</span> 15 Nov. 2021, letzte Aktualisierung {{article.updatedAt | formatDate}}, animalsasobjects.org/de/{{article.slug}} <span v-if="article.doi">DOI: {{article.doi}}</span></p>
+    <p class="f-mono citation" ref="citation" v-if="siteLang == 'en'">{{article.author}}, "{{article.title}}", <em>Animals as Objects?</em>, <span v-if="article.translator">, trans. {{article.translator}},</span> 15 Nov. 2021, Last updated {{article.updatedAt | formatDate}}, animalsasobjects.org/{{article.slug}} <span v-if="article.doi">DOI: {{article.doi}}</span></p>
+    <p class="f-mono citation" ref="citation" v-else>{{article.author}}, "{{article.title_de}}", <em>Animals as Objects?</em>, <span v-if="article.translator">, trans. {{article.translator}},</span> 15 Nov. 2021, letzte Aktualisierung {{article.updatedAt | formatDate}}, animalsasobjects.org/de/{{article.slug}} <span v-if="article.doi">DOI: {{article.doi}}</span></p>
     <text-button linkto='' @click.native="copyCitation()">{{copyButtonText}}</text-button>
-    <icon-button icon="close" @click.native="$store.commit('toggleCitationModal', {isOpen:false, article:''})">Close</icon-button>
+    <icon-button class="close" :tao_type="$store.getters.articleTaoType" icon="close" @click.native="$store.commit('toggleCitationModal', {isOpen:false, article:''})">Close</icon-button>
   </div>
 </template>
 
@@ -65,5 +65,24 @@ export default {
   margin: 0 auto;
   background-color: @white;
   padding:@space-l;
+  position: relative;
+
+  &.material{
+    border-radius: @radius-l;
+  }
+
+  &.story{
+    border-radius: @radius-m;
+  }
+
+  p.citation{
+    margin: @space-m 0;
+  }
+  
+  .close{
+    position: absolute;
+    top:@space-m;
+    right: @space-m;
+  }
 }
 </style>
