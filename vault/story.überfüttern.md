@@ -1,15 +1,23 @@
 ---
-id: dfe31be6-b21f-496f-af23-70f225c0616c
-title: üBerfüTtern
-desc: Put a description of this note here...
-updated: 1622738388459
-created: 1620752738850
-title_de: Überfüttern
-desc_de: Put a DE description of this note here...
-author: mv
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title: üBerfüTtern
+title_de: Überfüttern
+created: 1620752738850
+updated: 1622738388459
+id: dfe31be6-b21f-496f-af23-70f225c0616c
+author: mv
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+short_desc_de: DE short desc
+cover_image:
+  image: /images/cover-overfeeding.jpg
+  alt: Bild newspaper headline on the elephant "Jambo's" illness due to
+    overfeeding, Berlin 1960. Schlagzeile der Bild-Zeitung zu Elefant "Jambos"
+    Erkrankung durch Überfütterung, Berlin 1960.
+tao_type: story
+date_start: ""
+date_end: ""
 published: false
 ---
 
