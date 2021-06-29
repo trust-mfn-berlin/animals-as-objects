@@ -1,15 +1,23 @@
 ---
-id: f2e04dbc-1209-40b6-baf5-599fd36e63c7
-title: Katharina Heinroth
-desc: Put a description of this note here...
-updated: 1621977156848
-created: 1619797579886
-title_de: Katharina Heinroth
-desc_de: Put a DE description of this note here...
-author: CMW
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title: Katharina Heinroth
+title_de: Katharina Heinroth
+created: 1619797579886
+updated: 1621977156848
+id: f2e04dbc-1209-40b6-baf5-599fd36e63c7
+author: CMW
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+short_desc_de: DE short desc
+cover_image:
+  image: /images/cover-katharina-heinroth.jpg
+  alt: Berlin zoo director Katharina Heinroth on her morning rounds with four
+    employees and Newfoundland dog "Ajax", 1946. (AZGB, photo Liselotte Orgel.
+    All rights reserved.)
+tao_type: material
+date_start: ""
+date_end: ""
 published: false
 colour_scheme: 14
 ---

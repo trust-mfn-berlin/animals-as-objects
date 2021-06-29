@@ -1,15 +1,23 @@
 ---
-id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
-title: Taxonomical orders
-desc: In biology, taxonomy is a formal system to name, define, and classify organisms, regulated and governed by agreed upon rules. Since its beginning biological taxonomy was neither stable nor universal, since controversies emerged, and classifications continue to change still today. 
-updated: 1622012064395
-created: 1618491191119
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Filippo Bertoni
-tao_type: theme
-cover_image: null
 license: CC BY-SA
+title: Taxonomical orders
+title_de: Add a german title here
+created: 1618491191119
+updated: 1622012064395
+id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
+author: Filippo Bertoni
+desc: In biology, taxonomy is a formal system to name, define, and classify
+  organisms, regulated and governed by agreed upon rules. Since its beginning
+  biological taxonomy was neither stable nor universal, since controversies
+  emerged, and classifications continue to change still today.
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+short_desc_de: DE short desc
+cover_image:
+  image: /images/cover-taxonomical-orders.jpg
+tao_type: theme
+date_start: ""
+date_end: ""
 published: false
 colour_scheme: 15
 ---

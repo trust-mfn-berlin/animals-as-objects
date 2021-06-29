@@ -1,15 +1,22 @@
 ---
-id: 2df514da-8df2-4278-8534-28e1034c7adf
-title: Industrial Micropaleontology
-desc: In the 1920s a group of young women scientists employed by oil companies revolutionized micropaleontology, by showing its important applications to stratigraphy and petroleum geology.
-updated: 1621868648303
-created: 1621521087155
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Filippo Bertoni.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title: Industrial Micropaleontology
+title_de: Add a german title here
+created: 1621521087155
+updated: 1621868648303
+id: 2df514da-8df2-4278-8534-28e1034c7adf
+author: Filippo Bertoni.
+desc: In the 1920s a group of young women scientists employed by oil companies
+  revolutionized micropaleontology, by showing its important applications to
+  stratigraphy and petroleum geology.
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+short_desc_de: DE short desc
+cover_image:
+  image: /images/cover-industrial-micropaleo.jpg
+tao_type: story
+date_start: ""
+date_end: ""
 published: false
 feature: false
 colour_scheme: 16

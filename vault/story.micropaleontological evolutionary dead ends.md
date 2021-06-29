@@ -1,15 +1,22 @@
 ---
-id: 3494384f-3283-4c05-afda-b3d90e748325
-title: Micropaleontological Evolutionary Dead Ends
-desc: As micropaleontolgy started to take shape in the 19th century, it seemed to encounter a dead-end, as microfossil were interpreted to have changed little over geological times.
-updated: 1621867247554
-created: 1621516485888
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Filippo Bertoni.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title: Micropaleontological Evolutionary Dead Ends
+title_de: Add a german title here
+created: 1621516485888
+updated: 1621867247554
+id: 3494384f-3283-4c05-afda-b3d90e748325
+author: Filippo Bertoni
+desc: As micropaleontolgy started to take shape in the 19th century, it seemed
+  to encounter a dead-end, as microfossil were interpreted to have changed
+  little over geological times.
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+short_desc_de: DE short desc
+cover_image:
+  image: /images/cover-micropaleo-evo-dead-ends.png
+tao_type: story
+date_start: ""
+date_end: ""
 published: false
 colour_scheme: 0
 ---
