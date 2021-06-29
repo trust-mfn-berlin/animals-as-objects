@@ -2,7 +2,7 @@
 id: 6bb6d7d7-d7e7-48a6-8649-340aac4d9b24
 title: Theme
 desc: 'Put a description of this note here...'
-updated: 1622033196913
+updated: 1624528712404
 created: 1617975596857
 title_de: Add a german title here
 desc_de: 'Put a DE description of this note here...'
@@ -17,7 +17,7 @@ colour_scheme: 16
 :::EN:::
 
 Themes are like materials and stories. They also get backlinks like [[theme.test]]. Themes have 2000 - 3000 words max.
-And footnotes [^footnote1]. The foonote-words can be different each time, or refer to a paragraph and be numbered conscutively.
+And footnotes [^footnote1]. The foonote-words can be different each time, or refer to a paragraph and be numbered conscutively. Before publishing, however, they need to be changed to consecutive numbers, see [[help.markdown guide]].
 And **bold** and _italics_.
 
 ## Subheadings

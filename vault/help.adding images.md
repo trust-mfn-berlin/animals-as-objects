@@ -2,7 +2,7 @@
 title: Adding Images
 title_de: Adding Images
 created: 1618495642535
-updated: 1619704229975
+updated: 1624529491831
 id: ba7e639c-51d0-499d-a3f0-55ee838d64b3
 desc: Adding Images
 desc_de: Adding Images
@@ -38,7 +38,7 @@ https://content-creation.animalsasobjects.org/admin
 
 ## Adding audio and video
 
-Audio and video should be handled as external URLs for now. Soundcloud / Vimeo.
+Video should be handled as external URLs. Youtube / Vimeo. Audio files hosted here. See [[help.audio and video]].
 
 
 
