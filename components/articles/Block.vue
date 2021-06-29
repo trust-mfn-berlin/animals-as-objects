@@ -1,7 +1,8 @@
 <template>
   <article class="block" :class="article.tao_type">
     <nuxt-link :to="'/'+article.slug">
-    <img :src="'https://loremflickr.com/600/600/butterfly?random=' + article.id" />
+    <nuxt-img v-if="article.cover_image" quality="80" :src="article.cover_image.image" :alt="article.cover_image.alt" />
+    <img v-else :src="'https://loremflickr.com/600/600/butterfly?random=' + article.id" />
     <div class="text" :style="{backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
       <hgroup>
         <h2 class="f-serif">{{article.title}}</h2>
