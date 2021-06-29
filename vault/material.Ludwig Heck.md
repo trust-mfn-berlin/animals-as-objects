@@ -15,15 +15,30 @@ date_end: 1951-07-16T23:00:00.000Z
 published: false
 colour_scheme: 5
 ---
-![]()
-
 :::EN:::
 
-Therese is testing CMS
+<figure>
+
+![Bild von Ludwig Heck mit dem jungen Affen "Bobby" auf dem Arm](/images/cmw/Ludwig-Heck-Bobby.jpg)
+
+<figcaption>
+
+Zoodirektor Lutz Heck mit dem jungen Gorilla "Bobby" auf dem Arm, um 1928. (Archiv der Zoologischen Gärten Berlin)
+
+</figcaption>
+
+</figure>
 
 :::DE:::
 
-@clemens
+<figure>
 
 ![Bild von Ludwig Heck mit dem jungen Affen "Bobby" auf dem Arm](/images/cmw/Ludwig-Heck-Bobby.jpg)
+
+<figcaption>
+
 Zoodirektor Lutz Heck mit dem jungen Gorilla "Bobby" auf dem Arm, um 1928. (Archiv der Zoologischen Gärten Berlin)
+
+</figcaption>
+
+</figure>
