@@ -11,6 +11,7 @@ translators:
 desc: EN Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren
   Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle
   Tierhandelsfirmen.
+doi: test 1239
 desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren
   Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle
   Tierhandelsfirmen.
