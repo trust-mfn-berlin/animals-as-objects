@@ -1,15 +1,24 @@
 <template>
   <article>
     <nuxt-link class="text" :to="'/routes/'+route.slug">
-      <h2 class="f-serif">{{route.title}}</h2>
+      <hgroup>
+        <h2 class="f-serif">{{titleBilingual}}</h2>
+        <h3 class="f-mono caption">{{route.author}}</h3>
+      </hgroup>
     </nuxt-link>
     <div class="route-images" >
-      <img 
-        v-for="article in route.articles" 
-        :key="article.article"
-        :src="'https://loremflickr.com/600/600/butterfly?random=' + article.article"
-        :class="getFromStore(article.article).tao_type"
-      />
+      <figure 
+        v-for="(article, i) in articles" 
+        :key="i" 
+        :style="{zIndex : 100-i, backgroundColor :'var(--scheme-' + article.colour_scheme + '-bg)'}"
+        :class="article.tao_type"
+      >
+        <nuxt-img 
+          quality="80" width="600" height="600" fit="cover"
+          :src="article.cover_image.image"
+          :alt="article.cover_image.alt"
+        />
+      </figure>
       
     </div>
   </article>
@@ -30,17 +39,34 @@ export default {
       articles: []
     }
   },
+  computed:{
+    titleBilingual(){
+      if(this.$store.getters.siteLanguage == 'de' && this.route.title_de){
+        return this.route.title_de
+      } else {
+        return this.route.title
+      }
+    },
+
+  },
   methods:{
-    getFromStore(article){
-      for (let i = 0; i < this.$store.getters.loadedArticles.length; i++) {
-        const storePage = this.$store.getters.loadedArticles[i];
-        const s = storePage.slug.toLowerCase();
-        const l = article.toLowerCase();
-        if(s === l){
-          return storePage;
-        }
+    async fetchArticle(slug){
+      const article = await this.$content(slug).only(['cover_image','tao_type','colour_scheme']).fetch()
+      return article
+    },
+    async fetchArticles(){
+      for (let i = 0; i < this.route.articles.length; i++) {
+        const a = this.route.articles[i].article;
+        console.log(this.fetchArticle(a));   
+        const fa = await this.fetchArticle(a);
+        if(fa.cover_image){
+          this.articles.push(fa)
+        }     
       }
     }
+  },
+  mounted(){
+    this.fetchArticles()
   }
  
 }
@@ -51,16 +77,13 @@ article{
   height: 12rem;
   display: flex;
 
-  a{
-    display: flex;
-    height: 100%;
-  }
-
   .text{
-    // margin-left:-3.5rem;
+    height: 100%;
+    display: flex;
     background-color: @white;
     width: 12rem;
     height: 12rem;
+    min-width: 12rem;
     text-align: center;
     display: flex;
     align-items: center;
@@ -68,16 +91,25 @@ article{
     box-shadow: @shadow;
     padding: @space-l;
 
-    z-index: 9;
+    z-index: 101;
   
     .animatepop(all);
 
+    hgroup{
+      max-width: 100%;
+      margin:0 auto;
+    }
     h2{
       max-width: 100%;
       overflow: hidden;
       text-overflow: ellipsis;
-      margin: auto;
     }
+
+    h3{
+      margin-top:@space-xs;
+      transform: translateY(0.4rem);
+    }
+    
 
     p{
       margin-top: @space-s;
@@ -91,19 +123,30 @@ article{
 
   .route-images{
     height: 12rem;
-    img{
+    display: flex;
+    flex-wrap: nowrap;
+
+    figure{
       height: 12rem;
+      width: 12rem;
       margin-left: -3.5rem;
-      // z-index: -1;
-      &:hover{
-        z-index: 99;
-      }
+      overflow: hidden;
+      box-shadow: @shadow;
       &.story{
         border-radius: @radius-l;
       }
       &.material{
         border-radius: 600px;
       }
+    }
+    img{
+      height: 12rem;
+      width: 12rem;
+      &:hover{
+        // z-index: 99;
+        // transform: scale(1.2);
+      }
+      
       
     }
   }
