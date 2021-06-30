@@ -1,6 +1,6 @@
 <template>
   <div v-if="page" class="container">
-    <hgroup>
+    <hgroup class="page-header">
       <h1>{{page.title}}</h1>
     </hgroup>
     <div class="container-inner">
@@ -65,6 +65,7 @@ export default {
 
 main{
   width: 60vw;
+  line-height: @lh-long;
 }
 
 aside{
