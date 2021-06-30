@@ -1,15 +1,25 @@
 ---
-id: 690683a5-6845-4c80-bb3b-5771881bdca6
-title: Species360
-desc: Put a description of this note here...
-updated: 1621976857427
-created: 1620987484846
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title: Species360
+title_de: Species360
+created: 1620987484846
+updated: 1621976857427
+id: 690683a5-6845-4c80-bb3b-5771881bdca6
+author: Clemens Maier-Wolthausen
+translators:
+  translator_de_en: Lucy Gasser
+desc: EN Software zur Koordination von Zootierhaltungen
+desc_de: Software zur Koordination von Zootierhaltungen
+short_desc: EN Software zur Koordination von Zootierhaltungen
+short_desc_de: Software zur Koordination von Zootierhaltungen
+cover_image:
+  image: /images/cover-species-360-logo.jpg
+  alt: "Species360 logo with stylised globe in the zero, and claim below: Global
+    information serving conservation. Species360 Logo mit stilisiertem Globus in
+    der Null, darunter Claim: Global information serving conservation."
+tao_type: material
+date_start: ""
+date_end: 2021-06-30T11:58:21.273Z
 published: false
 ---
 
