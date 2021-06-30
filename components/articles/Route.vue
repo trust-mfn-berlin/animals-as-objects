@@ -57,7 +57,7 @@ export default {
     async fetchArticles(){
       for (let i = 0; i < this.route.articles.length; i++) {
         const a = this.route.articles[i].article;
-        console.log(this.fetchArticle(a));   
+        // console.log(this.fetchArticle(a));   
         const fa = await this.fetchArticle(a);
         if(fa.cover_image){
           this.articles.push(fa)

@@ -17,6 +17,9 @@ export default {
   methods:{
     addCurrentRoute(){
       if(this.$route.params.slug){
+        if(this.$route.name == 'routes-slug'){
+          return
+        }
         this.$store.commit('addRoute', {route:this.$route.params.slug});
       }
     },

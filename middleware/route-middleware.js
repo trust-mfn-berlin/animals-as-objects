@@ -11,18 +11,21 @@ export default function ({store, app, context, route}) {
     console.log('middleware on client');
     if(app.$cookies.get('tao-uid') && store.getters.isTrackingEnabled && route.params.slug){
 
-      var raw = JSON.stringify({"uniqueid":"XXX","route":"YYY"});
+      // Don't add Curated Routes 
+      if(route.name != 'routes-slug'){
+
+      console.log(route.name);
+        
       const postObject = {
         uniqueid: app.$cookies.get('tao-uid'),
         route: route.params.slug
       }
-      
-      console.log(raw, JSON.stringify(postObject));
-
 
       app.$axios.post('', postObject);
-
       store.commit('addRoute', {route:route.path.substring(1)});
+
+      }
+
     } else {
       console.log('tracking not enabled yet')
     }
