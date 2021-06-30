@@ -2,8 +2,10 @@
   <article :style="{minHeight: calcHeight + 'px'}">
     <div class="slide" v-for="(slide, index) in slides" :key="index" @click="nextSlide">
       <transition name="fade">
-      <figure v-show="currentSlide == index">
-        <nuxt-img width="1000" :height="height" :src="slide.map_image" /> 
+      <figure v-show="currentSlide == index" >
+        <div class="img-wrap" :style="{height: height + 'px'}">
+          <nuxt-img width="1000" :height="height" :src="slide.map_image" /> 
+        </div>
         <figcaption ref="caption" class="quote">
         {{slide.caption}}
         </figcaption>
@@ -67,8 +69,14 @@ article{
 
     figure{
       position: absolute;
+      overflow: hidden;
+      .img-wrap{
+        width: 100%;
+      }
       img{
         width: 100%;
+        object-fit: cover;
+        object-position: center;
       }
       figcaption{
         // background-color: rgba(255,255,255,0.9);
