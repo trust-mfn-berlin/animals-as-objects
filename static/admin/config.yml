@@ -165,3 +165,7 @@ collections:
             display_fields: ['title']
             search_fields: ['title', 'title_de', 'author', 'tao_type', 'body']
             value_field: '{{slug}}'
+      - label: "PDF collection"
+        name: "pdf"
+        hint: ".zip file with PDFs"
+        widget: "file"
