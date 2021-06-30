@@ -6,6 +6,7 @@ created: 1618492547915
 updated: 1624871700382
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 author: Clemens Maier-Wolthausen
+doi: test 1239
 desc: Put a description of this note here...
 desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren
   Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle
@@ -16,11 +17,11 @@ cover_image:
   image: /images/cover-catching-animals.jpg
   alt: Transporting two giraffes, captured on colonised land in 1928. (AZGB, photo
     Lutz Heck. All rights reserved.)
+colour_scheme: 11
 tao_type: story
 date_start: ""
 date_end: ""
 published: false
-colour_scheme: 11
 ---
 
 :::EN:::
