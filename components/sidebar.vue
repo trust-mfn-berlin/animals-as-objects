@@ -209,6 +209,12 @@ aside{
       margin-bottom: 1rem;
     }
 
+    &#section-details{
+      li{
+        margin-bottom: 0.4rem;
+      }
+    }
+
     &#section-backlinks{
       position: relative;
       h3{
