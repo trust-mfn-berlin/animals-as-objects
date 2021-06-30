@@ -23,7 +23,7 @@ map_slide:
     caption: Animal traders, zoo employees and museum staff brought Bobby to Berlin
       in 1928, and distributed his remains between different institutions after
       his death in 1935.
-  - caption: Lorem ipsum dolor sit amet
+  - caption: The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[here is a very long alias, about fossil fuels!|material.fossil fuels]] had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century
     map_image: /images/cover-catching-animals.jpg
 published: false
 feature: false
@@ -94,7 +94,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-<article-map></article-map>
+<article-map :slides="map_slide" ></article-map>
 
 [^1]: This history is told in detail in Gries, Robbie Rice. "How female geologists were written out of history: the micropaleontology breakthrough." _Geological Society of America Memoirs_ 214 (2018): 11-22. https://doi.org/10.1130/2018.1214(02)
 [^2]: Some important aspects of the history of this laboratory are narrated on the Smithsonian National Museum of Natural History's website: https://naturalhistory.si.edu/research/paleobiology/collections-overview/foraminifera-collections/joseph-cushman.
