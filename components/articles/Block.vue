@@ -1,6 +1,6 @@
 <template>
   <article class="block" :class="article.tao_type">
-    <nuxt-link :to="'/'+article.slug">
+    <nuxt-link :to="urlBilingual">
     <figure v-if="article.cover_image">
       <nuxt-img quality="80" width="600" height="600" fit="cover" :src="article.cover_image.image" :alt="article.cover_image.alt" />
     </figure>
@@ -11,7 +11,7 @@
 
     <div class="text" :style="{backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
       <hgroup>
-        <h2 class="f-serif">{{article.title}}</h2>
+        <h2 class="f-serif">{{titleBilingual}}</h2>
         <h3 class="f-mono caption" 
           v-if="article.tao_type == 'material' && article.date_start || article.date_end">
           <span v-if="article.date_start">{{article.date_start | formatDateYear}}</span>
@@ -20,7 +20,7 @@
         </h3>
       </hgroup>
       <div class="description-wrap">
-        <p class="f-serif description" v-if="article.tao_type != 'material' && article.desc">{{article.desc}}</p>
+        <p class="f-serif description" v-if="article.tao_type != 'material' && article.desc">{{descBilingual}}</p>
       </div>
     </div>
     </nuxt-link>
@@ -41,6 +41,29 @@ export default {
 
     }
   },
+  computed:{
+    urlBilingual(){
+      if(this.$store.getters.siteLanguage == 'de'){
+        return '/de/' + this.article.slug
+      } else {
+        return '/' + this.article.slug
+      }
+    },
+    titleBilingual(){
+      if(this.$store.getters.siteLanguage == 'de' && this.article.title_de){
+        return this.article.title_de
+      } else {
+        return this.article.title
+      }
+    },
+    descBilingual(){
+      if(this.$store.getters.siteLanguage == 'de' && this.article.desc_de){
+        return this.article.desc_de
+      } else {
+        return this.article.desc
+      }
+    },
+  }
 }
 </script>
 
