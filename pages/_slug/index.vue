@@ -186,30 +186,13 @@ main{
 // There are pop-in issues because scheme-bg is set on mounted hook.
 // Maybe it could be set during Generate somehow? 
 hgroup.heading{
-  // background-color: var(--current-scheme-bg);
-  // color: var(--current-scheme-fg);
-
-  h1{
-
-    // text-shadow:
-    //   -2px -2px @bg,
-    //   -2px 2px @bg,
-    //   2px -2px @bg,
-    //   2px 2px @bg;
-  }
 
   .lead.subheading{
-  text-align: center;
-  margin:1rem 0 0 0;
     .type{
       background-color: var(--current-scheme-fg);
       color: var(--current-scheme-bg);
       padding:@space-xs 10px;
-      // background-color: @black;
-      // color: @white;
-      &.theme{
 
-      }
       &.material{
         border-radius: @radius-max;
       }

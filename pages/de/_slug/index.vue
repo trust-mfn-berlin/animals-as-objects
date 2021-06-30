@@ -1,7 +1,7 @@
 <template>
   <div class="article-container">
   <main v-if="article" :class="{open : isSidebarOpen}">
-    <hgroup class="heading" :style="{background:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
+    <hgroup class="heading article-header" :style="{background:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
       <div class="heading-inner"><h1>{{article.title_de}}</h1>
       <h3 class="lead subheading f-mono">
         <span class="type" :class="article.tao_type" >{{article.tao_type}}</span>
@@ -186,36 +186,15 @@ main{
 // There are pop-in issues because scheme-bg is set on mounted hook.
 // Maybe it could be set during Generate somehow? 
 hgroup.heading{
-  // background-color: var(--current-scheme-bg);
-  // color: var(--current-scheme-fg);
   text-align: center;
-  padding: 10rem 0 8rem;
-  h1{
-    margin-bottom: 1rem;
-    line-height: @lh-short;
-
-    background-size: 1px 1em;
-    display: inline;
-
-    // text-shadow:
-    //   -2px -2px @bg,
-    //   -2px 2px @bg,
-    //   2px -2px @bg,
-    //   2px 2px @bg;
-  }
 
   .lead.subheading{
-  text-align: center;
-  margin:2rem 0 0 0;
+
     .type{
       background-color: var(--current-scheme-fg);
       color: var(--current-scheme-bg);
       padding:@space-xs 10px;
-      // background-color: @black;
-      // color: @white;
-      &.theme{
 
-      }
       &.material{
         border-radius: @radius-max;
       }
