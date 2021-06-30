@@ -13,6 +13,10 @@
 
     <section>
       <nuxt-content id="articlebody" :document="article.body_de" :class="article.tao_type" ref="articlebody"/>
+    </section>  
+
+    <section id="license">
+      <article-license-footer :license="article.license"/>
     </section>    
     
     <section id="article-routes">

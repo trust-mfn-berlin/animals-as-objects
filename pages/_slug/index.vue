@@ -13,11 +13,17 @@
 
     <section>
       <nuxt-content id="articlebody" :document="article" :class="article.tao_type" ref="articlebody"/>
-    </section>    
+    </section>  
+
+    <section id="license">
+      <article-license-footer :license="article.license"/>
+    </section>  
     
     <section id="article-routes">
       <article-routes/>
     </section>
+
+    
   </main>
   <sidebar :article="article" :footnotes="footnotes" :activeFootnote="activeFootnote"/>
   </div>
