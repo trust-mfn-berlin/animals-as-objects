@@ -70,6 +70,17 @@ collections:
       - { label: "Date end (if applicable)", name: "date_end", widget: "datetime", default: "", required: false }
       - { label: "Archived", name: "archived", widget: "boolean", hint: "Don't show this article", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
+      - label: 'Map slide'
+        name: 'map_slide'
+        widget: 'list'
+        collapsed: false
+        fields:
+          - label: 'Map data caption'
+            name: 'caption'
+            widget: 'string'
+          - label: 'Map image'
+            name: 'map_image'
+            widget: 'image'
   - name: "pages"
     label: "Pages"
     files:
