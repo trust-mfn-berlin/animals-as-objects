@@ -45,4 +45,5 @@ articles:
   - article: story.industrial micropaleontology
   - article: theme.Acquisition
   - article: material.radiolaria
+pdf: /images/route-zip-test.zip
 ---
