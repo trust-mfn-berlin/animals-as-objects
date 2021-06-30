@@ -35,5 +35,6 @@ export default {
   background: @white;
   padding:@space-s;
   z-index: @z-cookie;
+  box-shadow: @shadow;
 }
 </style>
