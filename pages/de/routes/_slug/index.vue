@@ -1,7 +1,7 @@
 <template>
   <div class="route-container">
     <hgroup class="page-header">
-      <h1 class="f-serif">{{route.title}}</h1>
+      <h1 class="f-serif">{{route.title_de}}</h1>
       <h3 class="subheading f-mono">
         <span class="type" >{{route.articles.length}} articles</span>
         <span v-if="route.author">Curated by: {{route.author}}</span>
@@ -12,12 +12,12 @@
 
     <section class="introduction">  
       <div class="introduction-inner">
-        <p class="f-serif">{{route.into_text.text_en}}</p>
+        <p class="f-serif">{{route.into_text.text_de}}</p>
       </div>
       <aside class="bio">
         <div class="bio-inner">
         <h3 class="subheading f-mono">About {{route.author}}</h3>
-        <p class="f-mono quote">{{route.author_bio.author_bio_en}}</p>
+        <p class="f-mono quote">{{route.author_bio.author_bio_de}}</p>
         </div>
       </aside>
     </section>
@@ -32,6 +32,9 @@
 
 <script>
 export default {
+  created(){
+    this.$store.commit('setSiteLanguage', 'de')
+  },
   async asyncData({ $content, params, error, payload }) {
     var route = {};
     var articles = [];
