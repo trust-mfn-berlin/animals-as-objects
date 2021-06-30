@@ -85,6 +85,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mdrWbd1F9Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+<article-map></article-map>
+
 [^1]: This history is told in detail in Gries, Robbie Rice. "How female geologists were written out of history: the micropaleontology breakthrough." _Geological Society of America Memoirs_ 214 (2018): 11-22. https://doi.org/10.1130/2018.1214(02)
 [^2]: Some important aspects of the history of this laboratory are narrated on the Smithsonian National Museum of Natural History's website: https://naturalhistory.si.edu/research/paleobiology/collections-overview/foraminifera-collections/joseph-cushman.
 [^3]: For the history of Soviet micropaleonotlogy: Mikhalevich, Valeria & Bugrova, Eleonora & Basov, Valeriy & Zakrevskaya, Elena & Dmitrieva, Tatiana & Barash, Max.  "The Russian School of Foraminiferology." _The Journal of Foraminiferal Research_ 50 (2020): 97-107. https://doi.org/10.2113/gsjfr.50.1.97. And: Yakovleva‐O'Neill, Svetlana P., and Genrieta E. Kolzova. "A history of the first micropalaeontological laboratory in the former Soviet Union." Landmarks in _Foraminiferal Micropalaeontology: History and Development_, The Micropalaeontological Society, Special Publications (2013): 59-66. https://doi.org/10.1144/TMS6.6
