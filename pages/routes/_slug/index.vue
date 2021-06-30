@@ -109,5 +109,6 @@ main{
 .articles{
   padding: @space-s;
   background-color: @bg-2;
+  margin-bottom: @space-s;
 }
 </style>
