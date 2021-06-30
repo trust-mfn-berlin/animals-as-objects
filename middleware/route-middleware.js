@@ -11,6 +11,12 @@ export default function ({store, app, context, route}) {
     console.log('middleware on client');
     if(app.$cookies.get('tao-uid') && store.getters.isTrackingEnabled && route.params.slug){
 
+      // Dont add Duplicate Routes
+      if(route.params.slug == store.getters.currentRouteLastPage){
+        console.log("dupe!!!, skipping");
+        return
+      }
+
       // Don't add Curated Routes 
       if(route.name != 'routes-slug'){
 

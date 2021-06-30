@@ -79,6 +79,10 @@ const createStore = () => {
       currentRoute(state) {
         return state.currentRoute
       },
+      currentRouteLastPage(state){
+        const l = state.currentRoute.length;
+        return state.currentRoute[l -1].route
+      },
       isSearchbarOpen(state){
         return state.searchBarIsOpen
       },
