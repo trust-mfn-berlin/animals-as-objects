@@ -95,15 +95,12 @@ export default {
       }
     },
     switchUrlComposed(){
-      // const url = this.$route.fullPath == '/' || this.$route.fullPath == '/de/' ? null : this.$route.params.slug
-      // const url = this.$route.params.slug ? this.$route.params.slug : 
-
-        if(this.$route.params.slug){
-          return this.switchUrl + this.$route.params.slug
-        } else {
-          return this.switchUrl + this.$route.fullPath.replace(this.rootUrl, '')
-        }
-
+      if(this.$route.fullPath.substring(0,4) == '/de/')
+      {
+        return this.$route.fullPath.replace('/de/', '/');
+      } else {
+        return '/de' + this.$route.fullPath
+      }
     }
   },
   methods:{
