@@ -5,18 +5,24 @@ title_de: Der Zoo im Nationalsozialismus
 created: 1619020958263
 updated: 1622732314334
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
-author: CMW
-desc: EN desc
-desc_de: In der Zeit der nationalsozialistischen Diktatur biederten sich
-  Zooleitung und Aufsichtsrat dem Regime an. Der Zoo wurde zu einem
-  Propagandainstrument der Nationalsozialisten und schloss jüdische
-  Besucher\*innen aus. Der Zoodirektor war mit der Elite des Regimes gut
-  vernetzt. Während des Krieges wurden Zwangsarbeiter ausgebeutet.
-short_desc: EN short desc
-short_desc_de: DE short desc
+author: Clemens Maier-Wolthausen
+translators:
+  translator_de_en: Lucy Gasser
+desc: EN In der Zeit der nationalsozialistischen Diktatur boten sich Zooleitung
+  und Aufsichtsrat dem Regime an. Der Zoo wurde zu einem Propagandainstrument
+  der Nationalsozialisten und schloss jüdische Besucher\*innen aus. Der
+  Zoodirektor war mit der Elite des Regimes gut vernetzt. Während des Krieges
+  wurden Zwangsarbeiter ausgebeutet.
+desc_de: In der Zeit der nationalsozialistischen Diktatur boten sich Zooleitung
+  und Aufsichtsrat dem Regime an. Der Zoo wurde zu einem Propagandainstrument
+  der Nationalsozialisten und schloss jüdische Besucher\*innen aus. Der
+  Zoodirektor war mit der Elite des Regimes gut vernetzt. Während des Krieges
+  wurden Zwangsarbeiter ausgebeutet.
+short_desc: EN Propagandainstrument und Zwangsarbeit
+short_desc_de: Propagandainstrument und Zwangsarbeit
 cover_image:
   image: /images/cover-zoo-in-nazi-regime.jpg
-  alt: ""
+  alt: EN and DE description cover image
 tao_type: story
 date_start: ""
 date_end: ""

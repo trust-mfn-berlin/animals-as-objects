@@ -6,20 +6,26 @@ created: 1618498026144
 updated: 1624434226969
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 author: Clemens Maier-Wolthausen
-desc: EN desc
+translators:
+  translator_de_en: Lucy Gasser
+desc: EN Lebende Tiere für die Sammlungen des Zoologischen Gartens, Aquariums
+  und Tierparks Berlin kamen und kommen aus unterschiedlichen Quellen. Diese
+  haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen
+  für diese Einrichtungen - politische, logistische und moralische.
 desc_de: Lebende Tiere für die Sammlungen des Zoologischen Gartens, Aquariums
   und Tierparks Berlin kamen und kommen aus unterschiedlichen Quellen. Diese
   haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen
   für diese Einrichtungen - politische, logistische und moralische.
-short_desc: EN short desc
-short_desc_de: DE short desc
+short_desc: Political, logistical, and moral challenges
+short_desc_de: Politische, logistische und moralische Herausforderungen
 cover_image:
   image: /images/cover-getting-animals.jpg
-  alt: Hippos "Knautschke", "Jette", and "Bulette" in the Berlin Zoo, around 1959.
-    (AZGB, photo Hoppe. All rights reserved.)
+  alt: 'Hippos "Knautschke", "Jette", and "Bulette" in the Berlin Zoo, around
+    1959. Flusspferde "Knautschke", "Jette" und "Bulette" im Berliner Zoo, um
+    1959. Source: AZGB, photo Hoppe. All rights reserved.'
 tao_type: theme
 date_start: ""
-date_end: ""
+date_end: 2021-06-30T12:23:39.196Z
 published: false
 colour_scheme: 16
 ---
