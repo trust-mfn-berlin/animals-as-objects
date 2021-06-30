@@ -14,11 +14,11 @@ short_desc: EN Foto von Katharina Heinroth auf der morgendlichen Runde durch den
 short_desc_de: Foto von Katharina Heinroth auf der morgendlichen Runde durch den Zoo
 cover_image:
   image: /images/cover-katharina-heinroth.jpg
-  alt: Berlin zoo director Katharina Heinroth on her morning rounds with four
+  alt: 'Berlin zoo director Katharina Heinroth on her morning rounds with four
     employees and Newfoundland dog "Ajax", 1946. Berliner Zoodirektorin
     Katharina Heinroth auf ihrer morgendlichen Runde mit vier Mitarbeitern und
-    dem Neufundländer "Ajax", 1946. (AZGB, photo Liselotte Orgel. All rights
-    reserved.)
+    dem Neufundländer "Ajax", 1946. Source: AZGB, photo Liselotte Orgel. All
+    rights reserved.'
 tao_type: material
 date_start: ""
 date_end: ""
