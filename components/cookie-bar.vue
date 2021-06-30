@@ -34,5 +34,6 @@ export default {
   left:@space-s;
   background: @white;
   padding:@space-s;
+  z-index: @z-cookie;
 }
 </style>
