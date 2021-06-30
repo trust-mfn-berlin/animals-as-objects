@@ -1,21 +1,16 @@
 <template>
   <header>
   <nav aria-label="Main">
-    <!-- <ul class="secondary">
-      <li>
-        <text-button :linkto="rootUrl">Animals as Objects?</text-button>
-      </li>
-    </ul> -->
     <ul class="primary" :class="{open : isSearchbarOpen}">
       <li>
         <text-button class="primary-nav-item" :linkto="rootUrl">Animals as Objects?</text-button>
       </li>
       
       <li>
-        <text-button class="primary-nav-item" linkto="/articles">Index</text-button>
+        <text-button class="primary-nav-item" :linkto="sameUrl + 'articles'">Index</text-button>
       </li>
       <li>
-        <text-button class="primary-nav-item" linkto="/about">About</text-button>
+        <text-button class="primary-nav-item" :linkto="sameUrl + 'about'">About</text-button>
       </li>
       <li>
         <text-button :linkto="switchUrlComposed">{{siteLangSwap}}</text-button>
@@ -89,6 +84,13 @@ export default {
     },
     switchUrl(){
       if(this.siteLang == 'en' ){
+        return '/de/'
+      } else {
+        return '/'
+      }
+    },
+    sameUrl(){
+      if(this.siteLang == 'de' ){
         return '/de/'
       } else {
         return '/'
