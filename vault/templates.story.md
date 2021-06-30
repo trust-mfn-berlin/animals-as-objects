@@ -11,7 +11,7 @@ tao_type: story
 cover_image: 
 license: CC BY-SA
 published: false
-colour_scheme: 15
+colour_scheme: 8
 ---
 
 :::EN:::

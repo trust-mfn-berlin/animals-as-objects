@@ -22,7 +22,7 @@ tao_type: story
 date_start: ""
 date_end: ""
 published: false
-colour_scheme: 2
+colour_scheme: 1
 ---
 
 

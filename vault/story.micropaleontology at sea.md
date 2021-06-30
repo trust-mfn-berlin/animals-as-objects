@@ -16,7 +16,7 @@ tao_type: story
 date_start: ""
 date_end: ""
 published: false
-colour_scheme: 7
+colour_scheme: 6
 ---
 
 :::EN:::

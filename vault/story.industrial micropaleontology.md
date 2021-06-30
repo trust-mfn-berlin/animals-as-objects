@@ -19,7 +19,7 @@ date_start: ""
 date_end: ""
 published: false
 feature: false
-colour_scheme: 16
+colour_scheme: 3
 ---
 
 :::EN:::

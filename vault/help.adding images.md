@@ -7,7 +7,7 @@ id: ba7e639c-51d0-499d-a3f0-55ee838d64b3
 desc: Adding Images
 desc_de: Adding Images
 published: false
-colour_scheme: 14
+colour_scheme: 13
 ---
 
 ## Images inside articles

@@ -21,7 +21,7 @@ tao_type: theme
 date_start: ""
 date_end: ""
 published: false
-colour_scheme: 10
+colour_scheme: 16
 ---
 
 :::EN:::

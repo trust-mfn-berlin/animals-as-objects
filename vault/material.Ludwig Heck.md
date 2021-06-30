@@ -13,7 +13,7 @@ tao_type: material
 date_start: 1860-08-10T23:06:32.000Z
 date_end: 1951-07-16T23:00:00.000Z
 published: false
-colour_scheme: 5
+colour_scheme: 9
 ---
 :::EN:::
 

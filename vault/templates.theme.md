@@ -11,7 +11,7 @@ tao_type: theme
 cover_image: 
 license: CC BY-SA
 published: false
-colour_scheme: 16
+colour_scheme: 5
 ---
 
 :::EN:::
