@@ -14,12 +14,19 @@ short_desc: EN short desc
 short_desc_de: DE short desc
 cover_image:
   image: /images/cover-industrial-micropaleo.jpg
+colour_scheme: 3
 tao_type: story
 date_start: ""
 date_end: ""
+map_slide:
+  - map_image: /images/cover-finding-cycladophora.jpg
+    caption: Animal traders, zoo employees and museum staff brought Bobby to Berlin
+      in 1928, and distributed his remains between different institutions after
+      his death in 1935.
+  - caption: Lorem ipsum dolor sit amet
+    map_image: /images/cover-catching-animals.jpg
 published: false
 feature: false
-colour_scheme: 3
 ---
 
 :::EN:::
