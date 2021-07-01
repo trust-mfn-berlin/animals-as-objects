@@ -4,16 +4,17 @@
       <transition name="fade">
       <figure v-show="currentSlide == index" >
         <div class="img-wrap" >
-          <nuxt-img width="1600" height="1400" :src="slide.map_image" alt="Map Image"/> 
+          <nuxt-img v-if="siteLang == 'de' && slide.map_image_de" width="1600" height="1400" :src="slide.map_image_de" alt="Map Image"/> 
+          <nuxt-img v-else width="1600" height="1400" :src="slide.map_image" alt="Map Image"/>
         </div>
         <figcaption ref="caption">
           <div class="heading-wrap">
-            <h3 class="subheading">{{slide.title}}</h3>
+            <h3 class="subheading">{{siteLang == 'en' ? slide.title : slide.title_de}}</h3>
             <div class="caption-img-wrap">
               <nuxt-img v-if="slide.caption_image" width="250" height="250" :src="slide.caption_image.src" :alt="slide.caption_image.alt" /> 
             </div>
           </div>
-          <p class="f-serif quote">{{slide.caption}}</p>
+          <p class="f-serif quote">{{siteLang == 'en' ? slide.caption : slide.caption_de}}</p>
           <nav class="slider-nav">
             <icon-button icon="arrow-left" class="slider-navigate-back" @click.native="prevSlide" :tao_type="$store.getters.articleTaoType"/>
             <span class="counter">{{currentSlide + 1}}/{{slides.length}}</span>
@@ -50,7 +51,9 @@ export default {
     }
   },
   computed:{
-
+    siteLang(){
+      return this.$store.getters.siteLanguage
+    },
   },
   methods:{
     prevSlide(){
