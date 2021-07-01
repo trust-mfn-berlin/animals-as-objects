@@ -1,21 +1,34 @@
 ---
 license: CC BY-SA
-title: Using Cycladophora
-title_de: Add a german title here
+title_de: DE Using Cycladophora
 created: 1624875395326
+author: Filippo Bertoni
+short_desc_de: DE From microfossils to planetary sciences
+date_end: 2021-07-01T08:14:18.148Z
+published: false
+title: Using Cycladophora
 updated: 1624875405779
 id: TBi8fH-OIQRAoB-tG9ZY1
-author: Filippo Bertoni
-desc: Put a description of this note here...
-desc_de: Put a DE description of this note here...
-short_desc: EN short desc
-short_desc_de: DE short desc
+translators:
+  translator_en_de: Anna von Rath
+desc: Thanks to complex technoscientific networks, Cycladophora has become an
+  important tool in the study of planetary systems and climate. This story
+  follows the microorganism’s trajectory, to trace how these networks formed,
+  and how they continue to shape how we know the planet - and its microbial
+  inhabitants.
+desc_de: DE Thanks to complex technoscientific networks, Cycladophora has become
+  an important tool in the study of planetary systems and climate. This story
+  follows the microorganism’s trajectory, to trace how these networks formed,
+  and how they continue to shape how we know the planet - and its microbial
+  inhabitants.
+short_desc: From microfossils to planetary sciences
 cover_image:
   image: /images/cover-using-cycladophora.jpg
+  alt: "Cycladophora abundances demonstrate the planetary dynamics of glaciations.
+    Häufigkeiten von Cycladophora zeigen die planetaren Dynamiken von Vereisung.
+    Source: Hays, Imbrie & Shackleton 1976."
 tao_type: story
 date_start: ""
-date_end: ""
-published: false
 ---
 
 
