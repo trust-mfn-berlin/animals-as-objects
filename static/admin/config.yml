@@ -75,12 +75,25 @@ collections:
         widget: 'list'
         collapsed: false
         fields:
-          - label: 'Map data caption'
+          - label: 'Slide Title'
+            name: 'title'
+            widget: 'string'
+          - label: 'Slide Title DE'
+            name: 'title_de'
+            widget: 'string'
+          - label: 'Map slide caption'
             name: 'caption'
+            widget: 'string'
+          - label: 'Map slide caption DE'
+            name: 'caption_de'
             widget: 'string'
           - label: 'Map image'
             name: 'map_image'
             widget: 'image'
+          - label: 'Map image'
+            name: 'map_image_de'
+            widget: 'image'
+            hint: 'if labels are needed in DE use this field'
   - name: "pages"
     label: "Pages"
     files:

@@ -6,8 +6,9 @@
         <div class="img-wrap" :style="{height: height + 'px'}">
           <nuxt-img width="1000" :height="height" :src="slide.map_image" /> 
         </div>
-        <figcaption ref="caption" class="quote">
-        {{slide.caption}}
+        <figcaption ref="caption">
+          <h3 class="subheading">{{slide.title}}</h3>
+          <p class="f-serif quote">{{slide.caption}}</p>
         </figcaption>
       </figure>
       </transition>
@@ -26,7 +27,7 @@ export default {
   },
   data(){
     return{
-      height:700,
+      height:600,
       calcHeight: this.height,
       currentSlide:0
     }
@@ -79,9 +80,16 @@ article{
         object-position: center;
       }
       figcaption{
-        // background-color: rgba(255,255,255,0.9);
+        h3{
+          margin-bottom: @space-s;
+        } 
+
+        p{
+
+        }
         margin: 0;
-        background-color: @bg-2;
+        background-color: @white;
+        // background-color: @bg-2;
         padding: @space-m;
         width:100%;
       }
