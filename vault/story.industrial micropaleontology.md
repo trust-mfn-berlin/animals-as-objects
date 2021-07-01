@@ -34,7 +34,9 @@ map_slide:
     title_de: DE Bobby born
   - caption: The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[here is a very long alias, about fossil fuels!|material.fossil fuels]] had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century
     caption_de: DE The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[here is a very long alias, about fossil fuels!|material.fossil fuels]] had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century
-    caption_image: /images/cover-katharina-heinroth.jpg
+    caption_image: 
+      src: /images/cover-getting-animals.jpg
+      alt: alt tag here
     map_image: /images/mapexample2.jpg
     map_image_de: /images/mapexample2.jpg
     title: Bobby lorem ipsum 
