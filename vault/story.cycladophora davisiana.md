@@ -1,27 +1,32 @@
 ---
 license: CC BY-SA
-title: Cycladophora Davisiana
-title_de: Add a german title here
+title_de: Cycladophora Davisiana
 created: 1620218024936
+author: Filippo Bertoni
+short_desc_de: DE Microscopic radiolarian species
+date_end: 2021-07-01T08:05:07.353Z
+published: false
+title: Cycladophora Davisiana
 updated: 1624279723655
 id: 6b86b681-8157-4bd4-acb1-167b98547122
-author: Filippo Bertoni
+translators:
+  translator_en_de: Anna von Rath
 desc: A radiolarian species first described in 1862, this microfossil has been
   used as an important tool in scientific research, and continues to help in the
   ongoing study of our planet and its deep history.
-desc_de: Put a DE description of this note here...
-short_desc: Short desc EN
-short_desc_de: Short desc DE
-cover_image: null
+desc_de: DE A radiolarian species first described in 1862, this microfossil has
+  been used as an important tool in scientific research, and continues to help
+  in the ongoing study of our planet and its deep history.
+short_desc: Microscopic radiolarian species
+cover_image:
+  image: /images/cover-cycladophora.jpg
+  alt: "Microphotograph of Cycladophora fossilized test. Mikrofotografie von
+    fossilem Cycladophora-Test. Source:
+    https://www.radiolaria.org/image.htm?sp_id=1&division=13"
 tao_type: story
 date_start: ""
-date_end: ""
-published: false
 ---
-
 :::EN:::
-
-<!-- 1859-2021 -->
 
 <figure>
 
