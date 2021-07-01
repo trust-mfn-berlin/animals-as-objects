@@ -10,7 +10,7 @@
           <div class="heading-wrap">
             <h3 class="subheading">{{slide.title}}</h3>
             <div class="caption-img-wrap">
-              <nuxt-img v-if="slide.caption_image" width="250" height="250" :src="slide.caption_image" /> 
+              <nuxt-img v-if="slide.caption_image" width="250" height="250" :src="slide.caption_image.src" :alt="slide.caption_image.alt" /> 
             </div>
           </div>
           <p class="f-serif quote">{{slide.caption}}</p>
