@@ -4,7 +4,7 @@
       <transition name="fade">
       <figure v-show="currentSlide == index" >
         <div class="img-wrap" >
-          <nuxt-img width="1600" height="1400" :src="slide.map_image" /> 
+          <nuxt-img width="1600" height="1400" :src="slide.map_image" alt="Map Image"/> 
         </div>
         <figcaption ref="caption">
           <div class="heading-wrap">
