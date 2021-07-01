@@ -84,6 +84,10 @@ collections:
           - label: 'Map slide caption'
             name: 'caption'
             widget: 'string'
+          - label: 'Caption image'
+            name: 'caption_image'
+            widget: 'image'
+            required: false
           - label: 'Map slide caption DE'
             name: 'caption_de'
             widget: 'string'
@@ -94,6 +98,7 @@ collections:
             name: 'map_image_de'
             widget: 'image'
             hint: 'if labels are needed in DE use this field'
+            required: false
   - name: "pages"
     label: "Pages"
     files:
