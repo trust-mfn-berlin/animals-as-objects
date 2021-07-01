@@ -138,7 +138,8 @@ export default {
 // Vars
 
 @article-padding: 0;
-@article-width:calc(80vw - 20rem - @space-s);
+@article-width:calc(90vw - 20rem - @space-s);
+@article-max-width: 1000px;
 @container-width-open: calc(100vw - 20rem);
 
 // Primary Layout
@@ -159,6 +160,7 @@ main{
   
   section{
     width: @article-width;
+    max-width: @article-max-width;
     margin: 0 auto;
   }
   &.open{

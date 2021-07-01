@@ -1,14 +1,20 @@
 <template>
-  <article :style="{minHeight: calcHeight + 'px'}">
+  <article>
     <div class="slide" v-for="(slide, index) in slides" :key="index" @click="nextSlide">
       <transition name="fade">
       <figure v-show="currentSlide == index" >
-        <div class="img-wrap" :style="{height: height + 'px'}">
-          <nuxt-img width="1000" :height="height" :src="slide.map_image" /> 
+        <div class="img-wrap" >
+          <nuxt-img width="1600" height="1400" :src="slide.map_image" /> 
         </div>
         <figcaption ref="caption">
-          <h3 class="subheading">{{slide.title}}</h3>
+          <div class="heading-wrap">
+            <h3 class="subheading">{{slide.title}}</h3>
+            <div class="caption-img-wrap">
+              <nuxt-img v-if="slide.caption_image" width="250" height="250" :src="slide.caption_image" /> 
+            </div>
+          </div>
           <p class="f-serif quote">{{slide.caption}}</p>
+          {{currentSlide + 1}}/{{slides.length}}
         </figcaption>
       </figure>
       </transition>
@@ -27,8 +33,6 @@ export default {
   },
   data(){
     return{
-      height:600,
-      calcHeight: this.height,
       currentSlide:0
     }
   },
@@ -43,55 +47,99 @@ export default {
         this.currentSlide = 0
       }
     },
-    calculateHeight(){
-      this.calcHeight = this.height + this.$refs.caption[this.currentSlide].offsetHeight
-    }
   },
   mounted(){
-    this.calculateHeight();    
   },
   updated(){
-    this.calculateHeight(); 
   }
 }
 </script>
 
 <style lang="less" scoped>
 article{
+  height: 700px;
   width: 100%;
   position: relative;
   margin: 4rem 0;
 
-  .animatemedium(all);
+  // .animatemedium(all);
 
   div.slide{
     width: 100%;
     position: absolute;
 
     figure{
+      height: 700px;
       position: absolute;
       overflow: hidden;
+      display: flex;
+      // flex-direction: row-reverse;
       .img-wrap{
         width: 100%;
-      }
-      img{
-        width: 100%;
-        object-fit: cover;
-        object-position: center;
+        height: 100%;
+        img{
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          object-position: center;
+        }
       }
       figcaption{
-        h3{
-          margin-bottom: @space-s;
-        } 
-
-        p{
-
-        }
+        width: 25rem;
+        height: 100%;
+        overflow-y: auto;
         margin: 0;
         background-color: @white;
         // background-color: @bg-2;
         padding: @space-m;
-        width:100%;
+        
+
+        .caption-img-wrap{
+          margin:@space-m auto;
+
+          img{
+            border-radius: @radius-max;
+            margin:0 auto;
+            display: block;
+          }
+        }
+        h3{
+          margin-bottom: @space-s;
+          text-align: center;
+        } 
+
+        p{
+          line-height: @lh-default !important;
+        }
+
+      }
+      @media screen and (max-width: @mq-l) /* Mobile */ {
+        flex-direction: column;
+        height: 700px;
+
+        figure{
+          height: 300px;
+        }
+
+        figcaption{
+          height: 400px;
+          width: 100%;
+
+          display: flex;
+          
+        }
+
+        .heading-wrap{
+          min-width: 30%;
+          margin-right: @space-m;
+        }
+
+        .caption-img-wrap{
+          img{
+            width: 100%;
+            height: 100%;
+          }
+        }
       }
     }
 
