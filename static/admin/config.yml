@@ -94,7 +94,7 @@ collections:
           - label: 'Map image'
             name: 'map_image'
             widget: 'image'
-          - label: 'Map image'
+          - label: 'Map image DE'
             name: 'map_image_de'
             widget: 'image'
             hint: 'if labels are needed in DE use this field'
