@@ -85,7 +85,7 @@ article{
         }
       }
       figcaption{
-        width: 25rem;
+        width: 20rem;
         height: 100%;
         overflow-y: auto;
         margin: 0;
