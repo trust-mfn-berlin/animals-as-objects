@@ -1,22 +1,35 @@
 ---
 license: CC BY-SA
-title: Finding Cycladophora
-title_de: Add a german title here
+title_de: DE Finding Cycladophora
 created: 1624875316911
-updated: 1624875335228
-id: 4kJJB2pX-g7lq6q7GUt0W
 author: Filippo Bertoni
-desc: Put a description of this note here...
-desc_de: Put a DE description of this note here...
-short_desc: EN short desc
-short_desc_de: DE short desc
-cover_image:
-  image: /images/cover-finding-cycladophora.jpg
-  alt: Map of telegraph cables in the North Atlantic, YYYY
-tao_type: story
-date_start: ""
+short_desc_de: DE From telegraphs to samples
 date_end: ""
 published: false
+title: Finding Cycladophora
+updated: 1624875335228
+id: 4kJJB2pX-g7lq6q7GUt0W
+translators:
+  translator_en_de: Anna von Rath
+desc: In 1859 a survey trip for a planned North Atlantic submarine telegraph
+  line recovers the sample from which the radiolarian species Cycladophora has
+  been originally described. The story of this journey unfolds the complex and
+  extensive networks that allow Cycladophora to be what it is today - and their
+  connections with the sociotechnical infrastructures of modernity.
+desc_de: DE In 1859 a survey trip for a planned North Atlantic submarine
+  telegraph line recovers the sample from which the radiolarian species
+  Cycladophora has been originally described. The story of this journey unfolds
+  the complex and extensive networks that allow Cycladophora to be what it is
+  today - and their connections with the sociotechnical infrastructures of
+  modernity.
+short_desc: From telegraphs to samples
+cover_image:
+  image: /images/cover-finding-cycladophora.jpg
+  alt: "Map of telegraph cables in the North Atlantic, 1865. Karte von
+    Telegrafenkabeln im Nordatlantik, 1865. Source:
+    https://atlantic-cable.com/Maps/index.htm"
+tao_type: story
+date_start: ""
 ---
 
 
