@@ -1,16 +1,34 @@
 ---
-id: aIG4TDxqQbsrl43uiSyGE
-title: Classifying Cycladophora
-desc: Put a description of this note here...
-updated: 1624875370467
-created: 1624875357621
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Filippo Bertoni
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: DE Classifying Cycladophora
+created: 1624875357621
+author: Filippo Bertoni
+short_desc_de: DE Taxonomy beyond animals
+date_end: ""
 published: false
+title: Classifying Cycladophora
+updated: 1624875370467
+id: aIG4TDxqQbsrl43uiSyGE
+translators:
+  translator_en_de: Anna von Rath
+desc: The classification of this radiolarian species in the 19th century
+  inscribed it in a forming taxonomic order of nature. Following the contrast
+  between two renowned German naturalists and their interpretations of
+  radiolaria, this story shows the early fortunes of Cycladophora davisiana -
+  and of our understanding of microorganisms.
+desc_de: DE The classification of this radiolarian species in the 19th century
+  inscribed it in a forming taxonomic order of nature. Following the contrast
+  between two renowned German naturalists and their interpretations of
+  radiolaria, this story shows the early fortunes of Cycladophora davisiana -
+  and of our understanding of microorganisms.
+short_desc: Taxonomy beyond animals
+cover_image:
+  alt: "Clara Ehrenberg’s index, 1860s. Clara Ehrenbergs Index, 1860er Jahre.
+    Source: Museum für Naturkunde,
+    http://download.naturkundemuseum-berlin.de/Ehrenberg/"
+  image: /images/cover-classifying-cycladophora-index-ehrenberg.png
+tao_type: story
+date_start: ""
 ---
 
 
