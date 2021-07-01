@@ -14,13 +14,21 @@
             </div>
           </div>
           <p class="f-serif quote">{{slide.caption}}</p>
-          <nav class="">
-            <icon-button icon="arrow-left" id="slider-navigate-back" @click.native="prevSlide" :tao_type="$store.getters.articleTaoType"/>
+          <nav class="slider-nav">
+            <icon-button icon="arrow-left" class="slider-navigate-back" @click.native="prevSlide" :tao_type="$store.getters.articleTaoType"/>
             <span class="counter">{{currentSlide + 1}}/{{slides.length}}</span>
-            <icon-button icon="arrow-right" id="slider-navigate-forward" @click.native="nextSlide" :tao_type="$store.getters.articleTaoType"/>
+            <icon-button icon="arrow-right" class="slider-navigate-forward" @click.native="nextSlide" :tao_type="$store.getters.articleTaoType"/>
           </nav>
           
         </figcaption>
+
+        <nav class="mobile-slider-nav">
+          <div class="mobile-slider-nav-wrap">
+            <icon-button icon="arrow-left" class="slider-navigate-back" @click.native="prevSlide" :tao_type="$store.getters.articleTaoType"/>
+              <span class="counter">{{currentSlide + 1}}/{{slides.length}}</span>
+            <icon-button icon="arrow-right" class="slider-navigate-forward" @click.native="nextSlide" :tao_type="$store.getters.articleTaoType"/>
+          </div>
+        </nav>
       </figure>
       </transition>
     </div>
@@ -83,7 +91,6 @@ article{
     figure{
       height: 700px;
       position: absolute;
-      overflow: hidden;
       display: flex;
       // flex-direction: row-reverse;
       .img-wrap{
@@ -128,7 +135,7 @@ article{
           flex-grow: 1;
         }
 
-        nav{
+        nav.slider-nav{
           display: flex;
           width: 100%;
           flex-wrap: nowrap;
@@ -144,17 +151,21 @@ article{
             // display: none;
           }
 
-          #slider-navigate-back{
+          .slider-navigate-back{
             // margin-right: @space-xs;
             margin-left: auto;
           }
 
-          #slider-navigate-forward{
+          .slider-navigate-forward{
             // margin-left: @space-xs;
             margin-right: auto;
           }
         }
 
+      }
+
+      .mobile-slider-nav{
+        display: none;
       }
       @media screen and (max-width: @mq-l) /* Mobile */ {
         flex-direction: column;
@@ -164,16 +175,49 @@ article{
           height: 300px;
         }
 
+        .mobile-slider-nav{
+          bottom: -1rem;
+          position: absolute;
+          display: block;
+          display: flex;
+          flex-wrap: nowrap;
+          justify-content: space-around;
+          width: 100%;
+          .mobile-slider-nav-wrap{
+          display: flex;
+          flex-wrap: nowrap;
+          align-items: center;
+
+            .counter{
+              display: none;
+              .f-mono();
+              margin: 0 @space-m;
+            }
+            .slider-navigate-back{
+              margin-right: @space-xs;
+            }
+
+            .slider-navigate-forward{
+              margin-left: @space-xs;
+            }
+          }
+        }
+
         figcaption{
           height: 400px;
           width: 100%;
 
           display: flex;
+          flex-direction: row;
+
+          nav.slider-nav{
+            display: none;
+          }
           
         }
 
         .heading-wrap{
-          min-width: 30%;
+          min-width: 25%;
           margin-right: @space-m;
         }
 
@@ -183,6 +227,8 @@ article{
             height: 100%;
           }
         }
+
+        
       }
     }
 
