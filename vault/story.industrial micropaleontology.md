@@ -3,7 +3,7 @@ license: CC BY-SA
 title_de: Industrielle Mikropaleontologie
 created: 1621521087155
 author: Filippo Bertoni.
-short_desc_de: DE short desc
+short_desc_de: DE Microfossils revolutionised oil extraction
 date_end: ""
 published: false
 title: Industrial Micropaleontology
@@ -13,9 +13,11 @@ desc: In the 1920s a group of young women scientists employed by oil companies
   revolutionized micropaleontology, by showing its important applications to
   stratigraphy and petroleum geology.
 desc_de: Put a DE description of this note here...
-short_desc: EN short desc
+short_desc: Microfossils revolutionised oil extraction
 cover_image:
   image: /images/cover-industrial-micropaleo.jpg
+  alt: "Oil well, 1908. Erdölquelle, 1908. Source:
+    https://commons.wikimedia.org/wiki/File:Salt_Creek_Oil_Field_well.jpg"
 tao_type: story
 date_start: ""
 ---
