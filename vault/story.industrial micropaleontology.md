@@ -41,7 +41,7 @@ map_slide:
     map_image_de: /images/mapexample2.jpg
     title: Bobby lorem ipsum 
     title_de: DE Bobby lorem ipsum
-  - caption: The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[here is a very long alias, about fossil fuels!|material.fossil fuels]] had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century
+  - caption: The gorilla's group in country x was likely killed to capture "Bobby". Person y brought him to Berlin by ship and train in 1928. Once dead, parts of "Bobby" were sent to different institutions via transport z in 1935.
     caption_de: DE The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[here is a very long alias, about fossil fuels!|material.fossil fuels]] had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century
     map_image: /images/mapexample1.jpg
     map_image_de: /images/mapexample1.jpg
