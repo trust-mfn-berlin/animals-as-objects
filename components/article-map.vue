@@ -1,6 +1,6 @@
 <template>
   <article>
-    <div class="slide" v-for="(slide, index) in slides" :key="index" @click="nextSlide">
+    <div class="slide" v-for="(slide, index) in slides" :key="index" >
       <transition name="fade">
       <figure v-show="currentSlide == index" >
         <div class="img-wrap" >
@@ -14,7 +14,12 @@
             </div>
           </div>
           <p class="f-serif quote">{{slide.caption}}</p>
-          {{currentSlide + 1}}/{{slides.length}}
+          <nav class="">
+            <icon-button icon="arrow-left" id="slider-navigate-back" @click.native="prevSlide" :tao_type="$store.getters.articleTaoType"/>
+            <span class="counter">{{currentSlide + 1}}/{{slides.length}}</span>
+            <icon-button icon="arrow-right" id="slider-navigate-forward" @click.native="nextSlide" :tao_type="$store.getters.articleTaoType"/>
+          </nav>
+          
         </figcaption>
       </figure>
       </transition>
@@ -40,6 +45,13 @@ export default {
 
   },
   methods:{
+    prevSlide(){
+      if(this.currentSlide > 0){
+        this.currentSlide --
+      } else {
+        this.currentSlide = this.slides.length - 1
+      }
+    },
     nextSlide(){
       if(this.currentSlide < this.slides.length - 1){
         this.currentSlide ++
@@ -85,6 +97,7 @@ article{
         }
       }
       figcaption{
+        position: relative;
         width: 20rem;
         height: 100%;
         overflow-y: auto;
@@ -92,6 +105,8 @@ article{
         background-color: @white;
         // background-color: @bg-2;
         padding: @space-m;
+        display: flex;
+        flex-direction: column;
         
 
         .caption-img-wrap{
@@ -110,6 +125,34 @@ article{
 
         p{
           line-height: @lh-default !important;
+          flex-grow: 1;
+        }
+
+        nav{
+          display: flex;
+          width: 100%;
+          flex-wrap: nowrap;
+          // justify-content: space-around;
+          align-items: center;
+          position:sticky;
+          bottom: 0;
+          padding-top: @space-m;
+          left:0;
+
+          .counter{
+            margin: 0 @space-m;
+            // display: none;
+          }
+
+          #slider-navigate-back{
+            // margin-right: @space-xs;
+            margin-left: auto;
+          }
+
+          #slider-navigate-forward{
+            // margin-left: @space-xs;
+            margin-right: auto;
+          }
         }
 
       }
