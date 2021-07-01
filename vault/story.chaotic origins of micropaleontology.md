@@ -1,26 +1,33 @@
 ---
 license: CC BY-SA
-title: Chaotic Origins of Micropaleontology
-title_de: Add a german title here
+title_de: DE Chaotic Origins of Micropaleontology
 created: 1621514713008
+author: Filippo Bertoni
+short_desc_de: DE Naturalists struggled to understand microorganisms
+date_end: ""
+published: false
+title: Chaotic Origins of Micropaleontology
 updated: 1621866533155
 id: fee46412-5135-463a-8019-d002f5b513ea
-author: Filippo Bertoni
+translators:
+  translator_en_de: Anna von Rath
 desc: As microorganisms began to enter our field of vision, naturalists
   struggled to understand their relations to the rest of nature. The story of
   these struggles, especially how they took shape around the MfN, can show how
   much microorganisms transformed over time, and how they keep challenging what
-  animals are.Put a description of this note here...
-desc_de: Put a DE description of this note here...
+  animals are.
+desc_de: DE As microorganisms began to enter our field of vision, naturalists
+  struggled to understand their relations to the rest of nature. The story of
+  these struggles, especially how they took shape around the MfN, can show how
+  much microorganisms transformed over time, and how they keep challenging what
+  animals are.
 short_desc: Naturalists struggled to understand microorganisms
-short_desc_de: short desc DE
 cover_image:
   image: /images/cover-chaotic-origins.jpg
-  alt: ""
+  alt: "Illustrations of microorganisms. Illustrationen von Mikroorganismen.
+    Source: Leeuwenhoek, 1677."
 tao_type: story
 date_start: ""
-date_end: ""
-published: false
 ---
 
 :::EN:::
