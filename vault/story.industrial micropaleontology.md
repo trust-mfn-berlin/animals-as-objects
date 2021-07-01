@@ -27,7 +27,9 @@ map_slide:
     caption_de: DE Animal traders, zoo employees and museum staff brought Bobby to Berlin
       in 1928, and distributed his remains between different institutions after
       his death in 1935.
-    caption_image: /images/cover-industrial-micropaleo.jpg
+    caption_image: 
+      src: /images/cover-industrial-micropaleo.jpg
+      alt: alt tag here
     title: Bobby born
     title_de: DE Bobby born
   - caption: The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[here is a very long alias, about fossil fuels!|material.fossil fuels]] had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century

@@ -87,10 +87,15 @@ collections:
           - label: 'Map slide caption DE'
             name: 'caption_de'
             widget: 'string'
-          - label: 'Caption image'
-            name: 'caption_image'
-            widget: 'image'
+          - label: "Caption image"
+            name: "caption_image"
+            widget: "object"
+            collapsed: true
+            allow_multiple: false
             required: false
+            fields:
+              - { label: "Image", name: "src", required: false, widget: "image"}
+              - { label: "Description", hint: "for SEO and accessibility purposes", name: "alt", required: false, widget: "string"}
           - label: 'Map image'
             name: 'map_image'
             widget: 'image'
