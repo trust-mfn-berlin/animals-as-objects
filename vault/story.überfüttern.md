@@ -71,14 +71,3 @@ Und auch die damaligen Briefe von Besucher\*innen an den Zoo zeigen, dass das ei
 [^Überfüttern6]: Kallmann, E. "Die Krankheiten der Tiere im Zoologischen Garten in Berlin." _Tierärztliche Rundschau_ 28 (12.07.1925): 482-484.
 
 [^Überfüttern7]: de Luce, Daniel. "Lebensmittelkarte 5 im Berliner Zoo." _Tägliche Rundschau_, 17.12.1946.
-
-
-
-
-
-
-
-
-
-
-
