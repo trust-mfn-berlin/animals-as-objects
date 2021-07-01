@@ -1,24 +1,34 @@
 ---
 license: CC BY-SA
-title: Taxonomical orders
-title_de: Add a german title here
+title_de: DE Taxonomical orders
 created: 1618491191119
+author: Filippo Bertoni
+short_desc_de: DE Organising nature is political
+date_end: 2021-07-01T10:07:42.710Z
+published: false
+title: Taxonomical orders
 updated: 1622012064395
 id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
-author: Filippo Bertoni
+translators:
+  translator_en_de: Anna von Rath
 desc: In biology, taxonomy is a formal system to name, define, and classify
   organisms, regulated and governed by agreed upon rules. Since its beginning
   biological taxonomy was neither stable nor universal, since controversies
-  emerged, and classifications continue to change still today.
-desc_de: Put a DE description of this note here...
-short_desc: EN short desc
-short_desc_de: DE short desc
+  emerged, and classifications continue to change still today - and have lasting
+  impacts on our world.
+desc_de: DE In biology, taxonomy is a formal system to name, define, and
+  classify organisms, regulated and governed by agreed upon rules. Since its
+  beginning biological taxonomy was neither stable nor universal, since
+  controversies emerged, and classifications continue to change still today -
+  and have lasting impacts on our world.
+short_desc: Organising nature is political
 cover_image:
   image: /images/cover-taxonomical-orders.jpg
+  alt: "Plate 2 from Linnaeus’ Systema Naturae, 6th edition, 1748. Tafel 2 aus
+    Linnaeus' Systema Naturae, 6. Auflage, 1748. Source:
+    https://commons.wikimedia.org/wiki/File:Systema_Naturae_Plate_II.jpg"
 tao_type: theme
 date_start: ""
-date_end: ""
-published: false
 ---
 
 :::EN:::
