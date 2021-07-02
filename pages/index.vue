@@ -23,33 +23,58 @@ export default {
     // console.log(routes);
     var articles = [];
 
-    const max = 50;
-    var t = 0;
-    var m = 0;
-    var s = 0;
+    const max = 6;
+    var t = [];
+    var m = [];
+    var s = [];
     
     content.forEach(article => {
       if(article.archived != true){
-
-        if(article.tao_type == "theme" && t < max){
-          articles.push(article);
-          t++
+        if(article.tao_type == "theme"){
+          t.push(article);
         } else 
-        if(article.tao_type == "material" && m < max){
-          articles.push(article);
-          m++
+        if(article.tao_type == "material"){
+          m.push(article);
         } else
-        if(article.tao_type == "story" && s < max){
-          articles.push(article);
-          s++
+        if(article.tao_type == "story"){
+          s.push(article);
         }
-
       }
     });
+
+    for (let index = 0; index < max; index++) {
+      const rngT = Math.floor(Math.random() * (t.length -1))
+      const randomTheme = t[rngT]
+      articles.push(randomTheme)
+
+      const rngM = Math.floor(Math.random() * (m.length -1))
+      const randomMaterial = m[rngM]
+      articles.push(randomMaterial)
+
+      const rngS = Math.floor(Math.random() * (s.length -1))
+      const randomStory = s[rngS]
+      articles.push(randomStory)
+    }
+
+    var currentIndex = articles.length,  randomIndex;
+
+    // While there remain elements to shuffle...
+    while (0 !== currentIndex) {
+
+      // Pick a remaining element...
+      randomIndex = Math.floor(Math.random() * currentIndex);
+      currentIndex--;
+
+      // And swap it with the current element.
+      [articles[currentIndex], articles[randomIndex]] = [
+        articles[randomIndex], articles[currentIndex]];
+    }
 
     return {
       articles, routes
     };
+  },
+  methods:{
   },
   created(){
     this.$store.commit('setSiteLanguage', 'en')
