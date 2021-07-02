@@ -64,9 +64,9 @@ span{
 }
 
 .error{
-  // color:red;
+  color:#ccc;
   // text-decoration: underline;
-  border-bottom: 1px dotted red ;
+  // border-bottom: 1px dotted red ;
   bottom: 0.3333rem;
   position: relative;
   // .f-mono();

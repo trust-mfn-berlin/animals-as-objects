@@ -1,6 +1,6 @@
 <template>
   <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual" @mouseover.native="onMouseover" @mouseleave.native="onMouseleave">
-    <span>
+    <span class="thumbnail-wrap">
     <nuxt-img v-if="article.cover_image && article.cover_image.image" quality="80" width="64" height="64" :src="article.cover_image.image"  />
     </span>
     <span class="text" :style="{backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
@@ -55,12 +55,19 @@ export default {
 a{
   display: flex;
   .animatemedium(transform);
+
+  .thumbnail-wrap{
+    height: 1.33333rem;
+  }
+
   img{
     height: 1.33333rem;
     width: 1.33333rem;
     box-shadow: @shadow-small;
     margin-right: @space-xs;
   }
+
+  
   
   .text{
     border: 1px solid transparent;
@@ -87,9 +94,11 @@ a{
   &:hover{
     transform: translateY(-2px);
     .text{
+      // transform: scale(1.1);
       box-shadow: @shadow-small-hover;
       background-color: @white !important;
       color: @black !important;
+      z-index: 9;
     }
   }
 

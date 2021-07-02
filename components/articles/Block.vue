@@ -100,7 +100,8 @@ article{
     padding: @space-l;
     display: inline-block;
 
-    .animatepop(transform);
+    // .animatepop(transform);
+    .animatefast(all);
 
     hgroup{
       max-width: 100%;
@@ -127,8 +128,16 @@ article{
       width: 0;
     }
 
-    &:hover{
-      transform: scale(1.15);
+    
+  }
+
+  &:hover{
+    .text{
+    transform: scale(1.05);
+    // transform: translateY(-5px);
+    background-color: @white !important;
+    color: @black !important;
+    box-shadow: @shadow-hover;
     }
   }
 
