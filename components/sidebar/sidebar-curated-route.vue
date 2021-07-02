@@ -76,7 +76,7 @@ export default {
     .animatefast(all);
 
     &:hover{
-      transform: translateY(-2px);
+      // transform: translateY(-2px);
       h4{
         box-shadow: @shadow-hover;
       }
