@@ -7,7 +7,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "node scripts/copy-audio.js && node scripts/copy-images.js && node scripts/link-map.js && nuxt generate",
-    "pdf": "node scripts/copy-audio.js && node scripts/copy-images.js && node scripts/link-map.js && nuxt generate && node scripts/print-pdf.js",
+    "pdf": "node scripts/export-pdf.js",
     "test": "node link-map.js",
     "local": "node scripts/copy-audio.js && node scripts/copy-images.js && node scripts/link-map.js && nuxt generate && npm run start"
   },

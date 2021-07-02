@@ -14,7 +14,11 @@ const fs = require('fs-extra');
 
 const contentDir = path.join(__dirname, '..', 'vault');
 const htmlDir = path.join(__dirname, '..', 'dist');
-const exportDir = path.join(__dirname, '..', 'temp/pdfs');
+const exportDir = path.join(__dirname, '..', 'static/pdf');
+
+const liveUrl = 'https://dev.animalsasobjects.org/';
+const prefix = 'animals_as_objects-'
+const prefixDE = 'tiere_als_objekte-'
 
 async function getFileNames(filePath, encoding = "utf-8") {
   let mdFiles = [];
@@ -36,17 +40,13 @@ async function getFileNames(filePath, encoding = "utf-8") {
 
 async function printPDF (filePath, browser, page) {
 
-  const relative = path.join(htmlDir, '/', filePath, '/print/index.html');
+  const formattedUrl = path.join(liveUrl, filePath, '/print');
+  const formattedUrlDE = path.join(liveUrl, 'de/' ,filePath, '/print');
 
-   fs.access(relative, fs.F_OK, (err) => {
-    if (err) {
-      console.error(err)
-      return
-    }
-  })
+  const filePathEN = prefix + filePath
+  const filePathDE = prefixDE + filePath
 
-  // const formatted = 'file://' + relative.replace(/\s/g, '%20');
-  const formatted = 'file://' + relative;
+  console.log('Accessing URL: ', formattedUrl);
 
   // await page.goto('https://dev.animalsasobjects.org/material.radiolaria/print/', {
   // try{
@@ -57,18 +57,37 @@ async function printPDF (filePath, browser, page) {
   //   console.log('fail', err)
   // }
 
-  await page.goto(formatted, {
+  await page.goto(formattedUrl, {
     waitUntil: 'networkidle2',
   })
 
+  console.log('Exporting EN: ', exportDir + '/' + filePathEN + '.pdf');
+
   await page.pdf({ 
-    path: exportDir + '/' + filePath + '.pdf', 
+    path: exportDir + '/' + filePathEN + '.pdf', 
     format: 'a4',
     margin: {
         bottom: '6mm',
         left: '4mm',
         right: '4mm',
         top: '6mm'
+    }
+  });
+
+  await page.goto(formattedUrlDE, {
+    waitUntil: 'networkidle2',
+  })
+
+  console.log('Exporting DE: ', exportDir + '/' + filePathDE + '.pdf');
+
+  await page.pdf({ 
+    path: exportDir + '/' + filePathDE + '.pdf', 
+    format: 'a4',
+    margin: {
+      bottom: '6mm',
+      left: '4mm',
+      right: '4mm',
+      top: '6mm'
     }
   });
   
@@ -84,9 +103,12 @@ async function printPDF (filePath, browser, page) {
 
   for (let i = 0; i < directoryFiles.length; i++) {
     const path = directoryFiles[i].replace('.md', '');
-    console.log(path)
-    printPDF(path, browser, page);
+    // console.log(path)
+    await printPDF(path, browser, page);
   }
+
+  // await printPDF('story.industrial%20micropaleontology', browser, page);
+  
 
   await browser.close();
 
