@@ -22,11 +22,24 @@ export default {
     const routes = await $content('/netlify/pathways').fetch();
     // console.log(routes);
     var articles = [];
-
-    const max = 4;
+    
     var t = [];
     var m = [];
     var s = [];
+
+    var max = {
+      total: 21,
+      t: 3,
+      m: 8,
+      s: 3
+    };
+
+
+    var counters = {
+      t:0,
+      m:0,
+      s:0
+    }
     
     content.forEach(article => {
       if(article.archived != true){
@@ -42,27 +55,32 @@ export default {
       }
     });
 
-    for (let index = 0; index < max; index++) {
+    for (let index = 0; index < max.total; index = index+3) {
       const rngT = Math.floor(Math.random() * (t.length -1))
       const randomTheme = t[rngT]
 
-      if(!articles.includes(randomTheme)){
+      if(!articles.includes(randomTheme) && counters.t <= max.t){
         articles.push(randomTheme)
+        counters.t++
       }
 
       const rngM = Math.floor(Math.random() * (m.length -1))
       const randomMaterial = m[rngM]
 
-      if(!articles.includes(randomMaterial)){
+      if(!articles.includes(randomMaterial) && counters.m <= max.m){
         articles.push(randomMaterial)
+        counters.m++
       }
 
       const rngS = Math.floor(Math.random() * (s.length -1))
       const randomStory = s[rngS]
 
-      if(!articles.includes(randomStory)){
+      if(!articles.includes(randomStory) && counters.s <= max.s){
         articles.push(randomStory)
+        counters.s++
       }
+
+      console.log(counters)
     }
 
     var currentIndex = articles.length,  randomIndex;
