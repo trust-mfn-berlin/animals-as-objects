@@ -15,8 +15,8 @@ const fs = require('fs-extra');
 const contentDir = path.join(__dirname, '..', 'vault');
 const exportDir = path.join(__dirname, '..', 'static/pdf');
 
-// const liveUrl = 'https://dev.animalsasobjects.org/';
-const liveUrl = 'http://localhost:3000/';
+const liveUrl = 'https://dev.animalsasobjects.org/';
+// const liveUrl = 'http://localhost:3000/';
 
 const prefix = 'animals_as_objects-'
 const prefixDE = 'tiere_als_objekte-'
@@ -93,13 +93,13 @@ async function printPDF (filePath, browser, page) {
 
   
 
-  // for (let i = 0; i < directoryFiles.length; i++) {
-  //   const path = directoryFiles[i].replace('.md', '');
-  //   // console.log(path)
-  //   await printPDF(path, browser, page);
-  // }
+  for (let i = 0; i < directoryFiles.length; i++) {
+    const path = directoryFiles[i].replace('.md', '');
+    // console.log(path)
+    await printPDF(path, browser, page);
+  }
 
-  await printPDF('story.industrial micropaleontology', browser, page);
+  // await printPDF('story.industrial micropaleontology', browser, page);
   
 
   await browser.close();
