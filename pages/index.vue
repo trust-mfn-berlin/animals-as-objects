@@ -18,7 +18,7 @@
 <script>
 export default {
   async asyncData({ $content }) {
-    const content = await $content().fetch();
+    const content = await $content().without(['body', 'body_de']).fetch();
     const routes = await $content('/netlify/pathways').fetch();
     // console.log(routes);
     var articles = [];
@@ -29,17 +29,21 @@ export default {
     var s = 0;
     
     content.forEach(article => {
-      if(article.tao_type == "theme" && t < max){
-        articles.push(article);
-        t++
-      } else 
-      if(article.tao_type == "material" && m < max){
-        articles.push(article);
-        m++
-      } else
-      if(article.tao_type == "story" && s < max){
-        articles.push(article);
-        s++
+      if(article.archived != true){
+
+        if(article.tao_type == "theme" && t < max){
+          articles.push(article);
+          t++
+        } else 
+        if(article.tao_type == "material" && m < max){
+          articles.push(article);
+          m++
+        } else
+        if(article.tao_type == "story" && s < max){
+          articles.push(article);
+          s++
+        }
+
       }
     });
 

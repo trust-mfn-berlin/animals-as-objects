@@ -11,15 +11,8 @@ desc_de: Put a DE description of this note here...
 cover_image: null
 tao_type: material
 published: false
-map_slide:
-  - caption: "Lorem ipsum dolor sit amet "
-    coordinates: '{"type":"Point","coordinates":[15.9789276,40.4485147]}'
-  - caption: Lorem ipsum dolor sit aaaaa
-    coordinates: '{"type":"Point","coordinates":[25.6283569,41.8818314]}'
-map:
-  - mapdata_caption: "Lorem ipsum dolor sit amet "
-    mapdata: '{"type":"Point","coordinates":[9.7189522,52.3694682]}'
 colour_scheme: 17
+archived: false
 ---
 
 :::EN:::

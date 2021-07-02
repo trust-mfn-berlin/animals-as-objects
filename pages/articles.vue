@@ -55,15 +55,17 @@ export default {
     };
 
     results.forEach(article => {
-      if(article.tao_type == 'material' || article.tao_type == 'theme' || article.tao_type == 'story'){
-        const firstLetter = article.title.charAt(0);
-        if(!articlesAlphabetical[firstLetter]){
-          articlesAlphabetical[firstLetter] = []
-          articlesAlphabetical[firstLetter].push(article)
-        } else {
-          articlesAlphabetical[firstLetter].push(article)
+      if(article.archived != true){
+        if(article.tao_type == 'material' || article.tao_type == 'theme' || article.tao_type == 'story'){
+          const firstLetter = article.title.charAt(0);
+          if(!articlesAlphabetical[firstLetter]){
+            articlesAlphabetical[firstLetter] = []
+            articlesAlphabetical[firstLetter].push(article)
+          } else {
+            articlesAlphabetical[firstLetter].push(article)
+          }
+          articlesType[article.tao_type].push(article);
         }
-        articlesType[article.tao_type].push(article);
       }
     });
 
