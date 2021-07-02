@@ -6,7 +6,7 @@ created: 1620752738850
 updated: 1624957226907
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 author: Mareike Vennen
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 desc_de: "Als 1960 im Berliner Zoo ein Elefant starb, lautete die Diagnose: Überfütterung durch Zoobesucher*innen. Das löste eine kontroverse Debatte um die richtige Ernährung von Zootieren aus – eine Frage, die bis zu den Anfängen zoologischer Gärten im 19. Jahrhundert zurückreicht. Wer darf füttern und vor allem was und wieviel?"
 short_desc: EN short desc
 short_desc_de: Wer (über)füttert im Zoo?

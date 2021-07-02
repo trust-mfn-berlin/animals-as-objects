@@ -1,7 +1,7 @@
 ---
 id: 7e30f358-c740-4dd9-8075-40f04387dae4
 title: Bernhard Grzimek
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1623335443919
 created: 1619081131485
 title_de: Bernhard Grzimek

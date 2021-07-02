@@ -1,7 +1,7 @@
 ---
 id: cd6a6afd-d27d-4871-9bd1-0949c612a901
 title: Zoo Events
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1624456185250
 created: 1619729376946
 title_de: Add a german title here

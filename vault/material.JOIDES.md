@@ -1,7 +1,7 @@
 ---
 id: 901ccca0-feb9-4462-9e8a-c4abf985f3f2
 title: JOIDES
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1620398949986
 created: 1620398949986
 title_de: Add a german title here

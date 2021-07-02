@@ -1,7 +1,7 @@
 ---
 id: 4de80070-5ee6-4c12-a8ca-963b767cd8f7
 title: Quagga
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1623162912499
 created: 1623162900389
 title_de: Add a german title here

@@ -1,7 +1,7 @@
 ---
 id: 6cba37e4-c072-4140-bdfb-3d562bbef228
 title: outtakes CMW
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1624527602762
 created: 1622582239405
 title_de: Add a german title here
@@ -66,7 +66,7 @@ seiner Geburt im Tierpark Berlin
 ---
 id: 6526be8c-01f6-4c05-a41d-fae91b634ced
 title: Catching Expeditions of the Berlin Zoo
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1622581415524
 created: 1619426293502
 title_de: Tierfangexpeditionen des Berliner Zoos

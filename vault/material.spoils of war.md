@@ -1,7 +1,7 @@
 ---
 id: zlUDl1xMawpgMy4HLEMWj
 title: Spoils of War
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1624539133284
 created: 1624539133284
 title_de: Add a german title here

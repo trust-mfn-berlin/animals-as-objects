@@ -1,7 +1,7 @@
 ---
 id: c916b84f-3b10-4d37-9702-330961dc3aef
 title: Wilma von Düring
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1619685440706
 created: 1619684420216
 title_de: Wilma von Düring

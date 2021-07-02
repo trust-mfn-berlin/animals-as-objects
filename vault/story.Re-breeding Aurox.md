@@ -1,7 +1,7 @@
 ---
 id: c48260aa-ce2c-4c76-8405-db4311a07923
 title: Re-breeding Aurox
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1620831978223
 created: 1619184177993
 title_de: Add a german title here

@@ -1,7 +1,7 @@
 ---
 id: c8af1959-fa09-44e7-9bff-b21971c68205
 title: Record Keeping
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1621591321002
 created: 1620395501349
 title_de: Record Keeping MfN

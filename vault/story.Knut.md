@@ -1,7 +1,7 @@
 ---
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 title: Knut
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1624527602763
 created: 1618576718116
 title_de: Knut
