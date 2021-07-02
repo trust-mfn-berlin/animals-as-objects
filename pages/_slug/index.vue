@@ -278,29 +278,15 @@ blockquote{
 sup{
 
   display: inline-block;
-  // margin: 0 @space-xs;
   font-family: @f-mono;
-  // color: var(--current-scheme-fg);
-  // background-color: var(--current-scheme-bg);
-  // position: relative;
-  // top:1.33333rem;
   
   a.footnote-ref{
-    // padding:0.37rem 0.4rem 0;
-    // height: 1.33333rem;
-    // background-color: @bg;
     padding: 0.1rem;
     border-bottom: 1px solid grey;
     font-size: @fs-s;
-    // background-color: white;
-    // border:1px solid @bg-2;
-    // box-shadow: @shadow-small;
-
     .animatefast(all);
     &:hover{
-      // border:1px solid @white;
-      // background-color: @white;
-      // box-shadow: @shadow-small-hover;
+
     }
   }
 

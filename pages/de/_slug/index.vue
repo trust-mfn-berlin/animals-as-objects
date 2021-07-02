@@ -135,9 +135,11 @@ export default {
 
 // Vars
 
-@article-padding: 0;
-@article-width:calc(80vw - 20rem - @space-s);
+@article-width:calc(90vw - 20rem - @space-s);
+@article-width-mobile:calc(100% - @space-s*2);
 @container-width-open: calc(100vw - 20rem);
+
+@article-max-width: 1000px;
 
 // Primary Layout
 
@@ -157,7 +159,12 @@ main{
   
   section{
     width: @article-width;
+    max-width: @article-max-width;
     margin: 0 auto;
+
+    @media screen and (max-width: @mq-s) /* Mobile */ {
+      width: @article-width-mobile;
+    }
   }
   &.open{
 
@@ -166,20 +173,33 @@ main{
     
     hgroup{
       .heading-inner{
-        padding: 0 @article-padding;
         // width: @article-width;
         margin-right: auto;
       }
     }
-    section{
-      padding: 0 @article-padding;
-    }
+
 
     figure{
       img{
-        max-width: calc(100vw - 20rem - @space-s - @article-padding*2);
+        max-width: calc(90vw - 20rem - @space-s);
+
+        @media screen and (max-width: @mq-s) /* Mobile */ {
+          max-width: @article-width-mobile;
+        }
       }
     }
+    
+    #articlebody figure:first-child{
+
+      width: @article-max-width;
+      img{
+        max-width: 100% !important;
+      }
+      
+    }
+    
+
+    
   }
 }
 
@@ -190,10 +210,8 @@ main{
 // There are pop-in issues because scheme-bg is set on mounted hook.
 // Maybe it could be set during Generate somehow? 
 hgroup.heading{
-  text-align: center;
 
   .lead.subheading{
-
     .type{
       background-color: var(--current-scheme-fg);
       color: var(--current-scheme-bg);
@@ -209,6 +227,13 @@ hgroup.heading{
 
   }
 }
+
+#articlebody {
+  p:first-child{
+    margin-top: 2rem;
+  }
+}
+
 
 p{
   line-height: @lh-long;
@@ -229,7 +254,7 @@ blockquote{
 .nuxt-content{
   &.story{
     a.footnote-ref{
-      border-radius: @radius-m;
+      // border-radius: @radius-m;
     } 
   }
 
@@ -239,7 +264,7 @@ blockquote{
 
   &.material{
     a.footnote-ref{
-      border-radius: @radius-max;
+      // border-radius: @radius-max;
     }
   }
 
@@ -251,22 +276,15 @@ blockquote{
 sup{
 
   display: inline-block;
-  margin: 0 @space-xs;
   font-family: @f-mono;
-  top:-@space-xs;
   
   a.footnote-ref{
-    background-color: @bg;
-    padding: 0.4rem 0.5rem 0.3rem;
+    padding: 0.1rem;
+    border-bottom: 1px solid grey;
     font-size: @fs-s;
-    border:1px solid @bg-2;
-    box-shadow: @shadow-small;
-
     .animatefast(all);
     &:hover{
-      border:1px solid @white;
-      background-color: @white;
-      box-shadow: @shadow-small-hover;
+
     }
   }
 
@@ -278,9 +296,8 @@ figcaption{
     top:unset;
     margin:0;
     a.footnote-ref{
-      border-bottom: 0;
-      padding: 0.2rem;
-
+      margin: 0;
+      padding: 0 4px;
       font-size: inherit;
     }
   }
@@ -288,16 +305,12 @@ figcaption{
 
 // Images
 
-::v-deep #articlebody {
-  p:first-child{
-    margin-top: 2rem;
-  }
-}
 
-::v-deep #articlebody figure:first-child{
+
+#articlebody figure:first-child{
   position: relative;
 
-  
+  width: @article-max-width;
   margin-top:0;
 
   p{
@@ -313,8 +326,8 @@ figcaption{
     // background-color: red;
     height: 100%;
     top:0;
-    left:-50vw;
-    width: 150vw;
+    left:-100vw;
+    width: 200vw;
     z-index: -99;
   }
 
@@ -327,13 +340,21 @@ figcaption{
 
 figure{
   margin: 5rem auto;
-  max-width: 100%;
+  max-width: @article-width;
   width: fit-content;
 
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    max-width: @article-width-mobile;
+  }
+  // Fucking.. markdown wraps everything in a P tag!
+  p{
+    max-width: 100%;
+  }
   img{
-    max-width: @article-width;
+    max-width: 100%;
     max-height: 1000px;
   }
+
 
   p{
     width: max-content;
@@ -367,6 +388,7 @@ figure{
     margin-top:@space-s;
     display: flex;
     p{
+      margin-top:0 !important;
       line-height: @lh-short !important;
       flex-grow: 1;
       width: 0;
