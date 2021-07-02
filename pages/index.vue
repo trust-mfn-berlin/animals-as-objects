@@ -23,7 +23,7 @@ export default {
     // console.log(routes);
     var articles = [];
 
-    const max = 6;
+    const max = 4;
     var t = [];
     var m = [];
     var s = [];
@@ -45,15 +45,24 @@ export default {
     for (let index = 0; index < max; index++) {
       const rngT = Math.floor(Math.random() * (t.length -1))
       const randomTheme = t[rngT]
-      articles.push(randomTheme)
+
+      if(!articles.includes(randomTheme)){
+        articles.push(randomTheme)
+      }
 
       const rngM = Math.floor(Math.random() * (m.length -1))
       const randomMaterial = m[rngM]
-      articles.push(randomMaterial)
+
+      if(!articles.includes(randomMaterial)){
+        articles.push(randomMaterial)
+      }
 
       const rngS = Math.floor(Math.random() * (s.length -1))
       const randomStory = s[rngS]
-      articles.push(randomStory)
+
+      if(!articles.includes(randomStory)){
+        articles.push(randomStory)
+      }
     }
 
     var currentIndex = articles.length,  randomIndex;
