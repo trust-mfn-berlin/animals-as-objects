@@ -45,6 +45,10 @@ export default {
   height: 2rem;
 
   .animatemedium(all);
+
+  &.subheading{
+    line-height: @lh-xs;
+  }
   
   &:hover{
     box-shadow: @shadow-hover;
