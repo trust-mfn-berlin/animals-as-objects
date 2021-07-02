@@ -1,11 +1,11 @@
 <template>
   <span>
 
-  <a v-if="type == 'anchor'" class="text-button f-mono subheading" :href="linkto">
+  <a v-if="type == 'anchor'" class="text-button f-mono subheading" :href="linkto" :class="{active : isActive, disabled : isDisabled}">
     <slot></slot>
   </a>
 
-  <button v-else-if="type == 'button'" class="text-button f-mono subheading" >
+  <button v-else-if="type == 'button'" class="text-button f-mono subheading" :class="{active : isActive, disabled : isDisabled}">
     <slot></slot>
   </button>
 
