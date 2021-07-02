@@ -1,28 +1,30 @@
 ---
 license: CC BY-SA
-title: fütternVerboten
 title_de: Füttern Verboten
 created: 1620752897039
+author: Mareike Vennen
+short_desc_de: Neue Regeln zu Nähe und Distanz
+date_end: ""
+published: false
+title: fütternVerboten
 updated: 1623327846520
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
-author: Mareike Vennen
-desc: Put a description of this note here...
+desc: EN Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
+  selbstverständlich erscheint, war lange Zeit ein direkter Kontakt beim Füttern
+  durch die Besucher\*innen üblich. Wie, wann und weshalb führten Zoos ein
+  Fütterungsverbot ein?
 desc_de: Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
   selbstverständlich erscheint, war lange Zeit ein direkter Kontakt beim Füttern
   durch die Besucher\*innen üblich. Wie, wann und weshalb führten Zoos ein
   Fütterungsverbot ein?
-short_desc: EN short desc
-short_desc_de: Neue Regeln zu Nähe und Distanz
+short_desc: EN Neue Regeln zu Nähe und Distanz
 cover_image:
   image: /images/cover-do-not-feed-the-animals.jpg
   alt: '"Do not feed the animals!" at the emu enclosure in the Berlin zoo, 1980.
     "Jedes Füttern unserer Tiere ist verboten!" am Emugehege im Berliner Zoo,
-    1980. (AZGB, photo Kühn. All rights reserved.)'
+    1980. Source: AZGB, photo Kühn. All rights reserved.'
 tao_type: story
 date_start: ""
-date_end: ""
-published: false
-colour_scheme: 1
 ---
 
 

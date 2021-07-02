@@ -1,24 +1,31 @@
 ---
 license: CC BY-SA
-title: Micropaleontological Evolutionary Dead Ends
-title_de: Add a german title here
+title_de: DE Micropaleontological Evolutionary Dead Ends
 created: 1621516485888
-updated: 1621867247554
-id: 3494384f-3283-4c05-afda-b3d90e748325
 author: Filippo Bertoni
-desc: As micropaleontolgy started to take shape in the 19th century, it seemed
-  to encounter a dead-end, as microfossil were interpreted to have changed
-  little over geological times.
-desc_de: Put a DE description of this note here...
-short_desc: EN short desc
-short_desc_de: DE short desc
-cover_image:
-  image: /images/cover-micropaleo-evo-dead-ends.png
-tao_type: story
-date_start: ""
+short_desc_de: DE Interest in microfossils seemed to fade
 date_end: ""
 published: false
-colour_scheme: 11
+title: Micropaleontological Evolutionary Dead Ends
+updated: 1621867247554
+id: 3494384f-3283-4c05-afda-b3d90e748325
+translators:
+  translator_en_de: Anna von Rath
+desc: As micropaleontology started to take shape in the 19th century, it seemed
+  to encounter a dead end, as microfossils were interpreted to have changed
+  little over geological times.
+desc_de: DE As micropaleontology started to take shape in the 19th century, it
+  seemed to encounter a dead end, as microfossils were interpreted to have
+  changed little over geological times.
+short_desc: Interest in microfossils seemed to fade
+cover_image:
+  image: /images/cover-micropaleo-evo-dead-ends.png
+  alt: 'Caricature of Thomas Huxley from "Ballad of Bathybius" in Punch magazine,
+    1888. Karikatur von Thomas Huxley aus "Ballad of Bathybius" in Punch
+    Magazine, 1888. Source:
+    https://heidicon.ub.uni-heidelberg.de/api/v1/objects/uuid/5333ea03-1eea-4335-a9f4-7035bd9a2fb7/format/xslt/detail'
+tao_type: story
+date_start: ""
 ---
 
 :::EN:::

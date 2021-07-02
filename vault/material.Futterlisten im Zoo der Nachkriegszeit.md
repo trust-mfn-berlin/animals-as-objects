@@ -1,17 +1,21 @@
 ---
-id: R4t_2F3NY3xIuAnRoDG0T
-title: Futterliste 1945 EN title
-desc: Put a description of this note here...
-updated: 1624957042868
-created: 1624185750239
-title_de: Futterliste 1945
-desc_de: Listen, die den jeweiligen Futtermittelbedarf für die Tiere eines Zoos zusammenfassen, sind nicht nur Teil der täglichen Routine eines Zoos. Sie können zugleich Einblicke in die Geschichte zoologischer Gärten geben, in die Entwicklung von Tierbeständen in die Konjunkturen und Krisenzeiten und . 
-author: Mareike Vennen
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Futterliste 1945
+created: 1624185750239
+author: Mareike Vennen
+short_desc_de: EN Futterlisten im Zoo der Nachkriegszeit
+date_end: ""
 published: false
-colour_scheme: 4
+title: Futterliste 1945 EN title
+updated: 1624957042868
+id: R4t_2F3NY3xIuAnRoDG0T
+desc: EN Futterlisten im Zoo der Nachkriegszeit
+desc_de: Futterlisten im Zoo der Nachkriegszeit
+short_desc: Futterlisten im Zoo der Nachkriegszeit
+cover_image:
+  alt: EN and DE cover image description.
+tao_type: material
+date_start: ""
 ---
 
 
