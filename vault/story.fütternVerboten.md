@@ -25,6 +25,7 @@ cover_image:
     1980. Source: AZGB, photo Kühn. All rights reserved.'
 tao_type: story
 date_start: ""
+colour_scheme: 0
 ---
 
 

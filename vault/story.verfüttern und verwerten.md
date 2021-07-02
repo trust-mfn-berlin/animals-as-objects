@@ -22,6 +22,7 @@ cover_image:
     Vennen. All rights reserved."
 tao_type: story
 date_start: ""
+colour_scheme: 7
 ---
 :::EN:::
 

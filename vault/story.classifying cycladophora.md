@@ -29,6 +29,7 @@ cover_image:
   image: /images/cover-classifying-cycladophora-index-ehrenberg.png
 tao_type: story
 date_start: ""
+colour_scheme: 7
 ---
 
 

@@ -7,7 +7,7 @@ id: 55fcb7a1-c62e-4485-9c53-cec9c0094c94
 desc: test
 desc_de: test
 published: true
-colour_scheme: 8
+colour_scheme: 10
 ---
 ## Content Mgmt Overview
 

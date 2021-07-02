@@ -26,6 +26,7 @@ cover_image:
     https://heidicon.ub.uni-heidelberg.de/api/v1/objects/uuid/5333ea03-1eea-4335-a9f4-7035bd9a2fb7/format/xslt/detail'
 tao_type: story
 date_start: ""
+colour_scheme: 0
 ---
 
 :::EN:::

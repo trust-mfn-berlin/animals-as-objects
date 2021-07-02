@@ -30,6 +30,7 @@ cover_image:
     https://atlantic-cable.com/Maps/index.htm"
 tao_type: story
 date_start: ""
+colour_scheme: 5
 ---
 
 

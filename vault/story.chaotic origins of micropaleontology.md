@@ -28,9 +28,7 @@ cover_image:
     Source: Leeuwenhoek, 1677."
 tao_type: story
 date_start: ""
-date_end: ""
-published: false
-colour_scheme: 15
+colour_scheme: 4
 ---
 
 :::EN:::

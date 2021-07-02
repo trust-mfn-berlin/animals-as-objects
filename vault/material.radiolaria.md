@@ -17,7 +17,7 @@ date_start: ""
 date_end: ""
 published: false
 feature: true
-colour_scheme: 15
+colour_scheme: 2
 ---
 
 :::EN:::

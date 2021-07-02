@@ -4,8 +4,6 @@ title_de: Industrielle Mikropaleontologie
 created: 1621521087155
 author: Filippo Bertoni.
 short_desc_de: DE short desc
-date_end: ""
-published: false
 title: Industrial Micropaleontology
 updated: 1621868648303
 id: 2df514da-8df2-4278-8534-28e1034c7adf
@@ -16,7 +14,7 @@ desc_de: Put a DE description of this note here...
 short_desc: EN short desc
 cover_image:
   image: /images/cover-industrial-micropaleo.jpg
-colour_scheme: 3
+colour_scheme: 6
 tao_type: story
 date_start: ""
 date_end: ""

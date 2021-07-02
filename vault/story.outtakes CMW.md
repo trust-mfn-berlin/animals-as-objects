@@ -10,8 +10,7 @@ author: Author name(s) here.
 tao_type: story
 cover_image: null
 license: CC BY-SA
-published: false
-colour_scheme: 10
+colour_scheme: 2
 ---
 
 ## Importe und Seuchenkontrolle

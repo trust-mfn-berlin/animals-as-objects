@@ -19,7 +19,7 @@ tao_type: theme
 date_start: ""
 date_end: ""
 published: false
-colour_scheme: 13
+colour_scheme: 7
 ---
 
 :::EN:::

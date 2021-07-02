@@ -16,6 +16,7 @@ cover_image:
   alt: EN and DE cover image description.
 tao_type: material
 date_start: ""
+colour_scheme: 8
 ---
 
 

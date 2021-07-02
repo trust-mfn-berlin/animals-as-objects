@@ -25,6 +25,7 @@ cover_image:
     https://www.radiolaria.org/image.htm?sp_id=1&division=13"
 tao_type: story
 date_start: ""
+colour_scheme: 5
 ---
 :::EN:::
 

@@ -20,7 +20,7 @@ tao_type: material
 date_start: ""
 date_end: 2021-06-30T12:08:52.253Z
 published: false
-colour_scheme: 0
+colour_scheme: 16
 ---
 
 :::EN:::

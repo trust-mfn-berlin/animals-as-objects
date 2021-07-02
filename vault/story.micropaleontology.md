@@ -27,6 +27,7 @@ cover_image:
     https://commons.wikimedia.org/wiki/File:Faunal_sucession.jpg"
 tao_type: story
 date_start: ""
+colour_scheme: 7
 ---
 
 :::EN:::
