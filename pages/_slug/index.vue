@@ -137,10 +137,10 @@ export default {
 
 // Vars
 
-@article-padding: 0;
 @article-width:calc(90vw - 20rem - @space-s);
-@article-max-width: 1000px;
+@article-width-mobile:calc(100% - @space-s*2);
 @container-width-open: calc(100vw - 20rem);
+
 
 // Primary Layout
 
@@ -160,8 +160,12 @@ main{
   
   section{
     width: @article-width;
-    max-width: @article-max-width;
+    // max-width: @article-max-width;
     margin: 0 auto;
+
+    @media screen and (max-width: @mq-s) /* Mobile */ {
+      width: @article-width-mobile;
+    }
   }
   &.open{
 
@@ -170,18 +174,19 @@ main{
     
     hgroup{
       .heading-inner{
-        padding: 0 @article-padding;
         // width: @article-width;
         margin-right: auto;
       }
     }
-    section{
-      padding: 0 @article-padding;
-    }
+
 
     figure{
       img{
-        max-width: calc(100vw - 20rem - @space-s - @article-padding*2);
+        max-width: calc(100vw - 20rem - @space-s);
+
+        @media screen and (max-width: @mq-s) /* Mobile */ {
+          max-width: @article-width-mobile;
+        }
       }
     }
   }
@@ -211,6 +216,18 @@ hgroup.heading{
 
   }
 }
+
+::v-deep #articlebody {
+  p:first-child{
+    // color:blue;
+    margin-top: 2rem;
+  }
+}
+
+// p:first-of-type {
+//   color:red;
+//   margin-top: 2rem;
+// }
 
 p{
   line-height: @lh-long;
@@ -290,11 +307,7 @@ figcaption{
 
 // Images
 
-::v-deep #articlebody {
-  p:first-child{
-    margin-top: 2rem;
-  }
-}
+
 
 ::v-deep #articlebody figure:first-child{
   position: relative;
@@ -329,13 +342,21 @@ figcaption{
 
 figure{
   margin: 5rem auto;
-  max-width: 100%;
+  max-width: @article-width;
   width: fit-content;
 
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    max-width: @article-width-mobile;
+  }
+  // Fucking.. markdown wraps everything in a P tag!
+  p{
+    max-width: 100%;
+  }
   img{
-    max-width: @article-width;
+    max-width: 100%;
     max-height: 1000px;
   }
+
 
   p{
     width: max-content;
@@ -369,6 +390,7 @@ figure{
     margin-top:@space-s;
     display: flex;
     p{
+      margin-top:0 !important;
       line-height: @lh-short !important;
       flex-grow: 1;
       width: 0;
