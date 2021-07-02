@@ -6,18 +6,22 @@
     </figure>
 
     <figure v-else>
-      <img :src="'https://loremflickr.com/600/600/leaf?random=' + article.id" />
+      <img :src="'https://loremflickr.com/600/600/butterfly?random=' + article.id" />
     </figure>
 
     <div class="text" :style="{backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
       <hgroup>
         <h2 class="f-serif">{{titleBilingual}}</h2>
         <h3 class="f-mono caption" 
-          v-if="article.tao_type == 'material' && article.date_start || article.date_end">
+          v-if="article.tao_type == 'material' && article.date_start || article.tao_type == 'material' && article.date_end">
           <span v-if="article.date_start">{{article.date_start | formatDateYear}}</span>
           <span v-if="article.date_start && article.date_end">–</span>
           <span v-if="article.date_end">{{article.date_end | formatDateYear}}</span>
         </h3>
+        <!-- <h3 class="f-mono caption" 
+          v-else-if="article.tao_type == 'material' && article.short_desc">
+          {{article.short_desc}}
+        </h3> -->
       </hgroup>
       <div class="description-wrap">
         <p class="f-serif description" v-if="article.tao_type != 'material' && article.desc">{{descBilingual}}</p>
@@ -164,7 +168,7 @@ article{
 
     .text{
       min-width: calc(30vw - 1rem);
-      max-width: 1000px;
+      max-width: 750px;
       flex-grow: 1;
     }
   }

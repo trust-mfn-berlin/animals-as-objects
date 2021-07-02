@@ -93,7 +93,8 @@ article{
 
     z-index: 101;
   
-    .animatepop(all);
+    // .animatepop(all);
+    .animatefast(all);
 
     hgroup{
       max-width: 100%;
@@ -117,7 +118,8 @@ article{
     }
 
     &:hover{
-      transform: scale(1.15);
+      transform: scale(1.05);
+      box-shadow: @shadow-hover;    
     }
   }
 
