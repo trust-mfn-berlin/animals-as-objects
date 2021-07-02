@@ -1,5 +1,8 @@
 <template>
   <div class="article-container">
+    <div id="header">
+      <h1>Header</h1>
+    </div>
     <hgroup class="heading">
       <h1>{{article.title}}</h1>
     </hgroup>
@@ -17,6 +20,9 @@
         <li v-if="article.updatedAt">Last updated: {{article.updatedAt}}</li>
       </ul>
     </aside>
+    </div>
+    <div id="footer">
+      <h1>Footer</h1>
     </div>
   </div>
 </template>

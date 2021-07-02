@@ -30,6 +30,7 @@
     "less-loader": "^7.1.0",
     "markdown-yaml-metadata-parser": "^3.0.0",
     "normalize.css": "^8.0.1",
-    "puppeteer": "^10.0.0"
+    "puppeteer": "^10.0.0",
+    "puppeteer-report": "^3.0.1"
   }
 }

@@ -1,4 +1,5 @@
 const path = require('path')
+const report = require('puppeteer-report');
 const puppeteer = require('puppeteer');
 const fs = require('fs-extra');
 
@@ -14,7 +15,9 @@ const fs = require('fs-extra');
 const contentDir = path.join(__dirname, '..', 'vault');
 const exportDir = path.join(__dirname, '..', 'static/pdf');
 
-const liveUrl = 'https://dev.animalsasobjects.org/';
+// const liveUrl = 'https://dev.animalsasobjects.org/';
+const liveUrl = 'http://localhost:3000/';
+
 const prefix = 'animals_as_objects-'
 const prefixDE = 'tiere_als_objekte-'
 
@@ -52,7 +55,7 @@ async function printPDF (filePath, browser, page) {
 
   console.log('Exporting EN: ', exportDir + '/' + filePathEN + '.pdf');
 
-  await page.pdf({ 
+  await report.pdfPage(page, { 
     path: exportDir + '/' + filePathEN + '.pdf', 
     format: 'a4',
     margin: {
@@ -63,22 +66,22 @@ async function printPDF (filePath, browser, page) {
     }
   });
 
-  await page.goto(formattedUrlDE, {
-    waitUntil: 'networkidle2',
-  })
+  // await page.goto(formattedUrlDE, {
+  //   waitUntil: 'networkidle2',
+  // })
 
-  console.log('Exporting DE: ', exportDir + '/' + filePathDE + '.pdf');
+  // console.log('Exporting DE: ', exportDir + '/' + filePathDE + '.pdf');
 
-  await page.pdf({ 
-    path: exportDir + '/' + filePathDE + '.pdf', 
-    format: 'a4',
-    margin: {
-      bottom: '6mm',
-      left: '4mm',
-      right: '4mm',
-      top: '6mm'
-    }
-  });
+  // await page.pdf({ 
+  //   path: exportDir + '/' + filePathDE + '.pdf', 
+  //   format: 'a4',
+  //   margin: {
+  //     bottom: '6mm',
+  //     left: '4mm',
+  //     right: '4mm',
+  //     top: '6mm'
+  //   }
+  // });
   
 }
 
@@ -90,13 +93,13 @@ async function printPDF (filePath, browser, page) {
 
   
 
-  for (let i = 0; i < directoryFiles.length; i++) {
-    const path = directoryFiles[i].replace('.md', '');
-    // console.log(path)
-    await printPDF(path, browser, page);
-  }
+  // for (let i = 0; i < directoryFiles.length; i++) {
+  //   const path = directoryFiles[i].replace('.md', '');
+  //   // console.log(path)
+  //   await printPDF(path, browser, page);
+  // }
 
-  // await printPDF('story.industrial micropaleontology', browser, page);
+  await printPDF('story.industrial micropaleontology', browser, page);
   
 
   await browser.close();
