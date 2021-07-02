@@ -13,6 +13,8 @@
     <section class="introduction">  
       <div class="introduction-inner">
         <p class="f-serif">{{route.into_text.text_en}}</p>
+        <text-button v-if="route.pdf" type="anchor" :linkto="route.pdf">Download this Route as a PDF</text-button>
+        <!-- <a v-if="route.pdf" :href="route.pdf">Download this Route as a PDF</a> -->
       </div>
       <aside class="bio">
         <div class="bio-inner">
@@ -31,7 +33,9 @@
 </template>
 
 <script>
+import textButton from '../../../components/base/text-button.vue';
 export default {
+  components: { textButton },
   created(){
     this.$store.commit('setSiteLanguage', 'en')
   },

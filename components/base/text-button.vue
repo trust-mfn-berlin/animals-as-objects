@@ -1,5 +1,16 @@
 <template>
+  <span>
+
+  <a v-if="type == 'anchor'" class="text-button f-mono subheading" :href="linkto">
+    <slot></slot>
+  </a>
+
+  <button v-else-if="type == 'button'" class="text-button f-mono subheading" >
+    <slot></slot>
+  </button>
+
   <nuxt-link 
+    v-else
     :to="linkto" 
     :aria-disabled="isDisabled"
     :active="isActive"
@@ -8,15 +19,22 @@
   >
     <slot></slot>
   </nuxt-link>
+
+  
+  </span>
 </template>
 
 <script>
 export default {
   name:'text-button',
   props:{
+    type:{
+      type: String,
+      required: false
+    },
     linkto:{
       type: String,
-      required: true
+      required: false
     },
     text:{
       type: String,
@@ -110,5 +128,10 @@ export default {
     }
   }
   
+}
+
+button.text-button{
+  border-style: none;
+  cursor: pointer;
 }
 </style>

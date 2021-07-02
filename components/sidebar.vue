@@ -10,8 +10,8 @@
         <li>Last updated: <span>{{article.updatedAt | formatDate}}</span></li>
       </ul>
       <div class="button-array">
-        <text-button linkto="">Download PDF</text-button>
-        <text-button linkto="" @click.native="openCitationModal">Cite this Article</text-button>
+        <text-button type="button" >Download PDF</text-button>
+        <text-button type="button" @click.native="openCitationModal">Cite this Article</text-button>
       </div>
     </section>
 
