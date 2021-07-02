@@ -1,7 +1,7 @@
 <template>
   <article class="block" :class="article.tao_type">
     <nuxt-link :to="urlBilingual">
-    <figure v-if="article.cover_image">
+    <figure v-if="article.cover_image && article.cover_image.image">
       <nuxt-img quality="80" width="600" height="600" fit="cover" :src="article.cover_image.image" :alt="article.cover_image.alt" />
     </figure>
 
