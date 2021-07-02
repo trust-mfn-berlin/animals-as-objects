@@ -2,18 +2,16 @@ const path = require('path')
 const puppeteer = require('puppeteer');
 const fs = require('fs-extra');
 
-// 1. Launch Puppeteer
-// 2. Visit Print Version of Article (animals-as-objects/de/theme.taxonomical orders/print)
-// 3. Wait until everything is loaded
-// 4. Export PDF in A4
-// 5. Send back link to Generated PDF to User
+
+// Post-build on server:
+// 1. Get list of every Article to export.
+// 2. Launch Puppeteer
+// 3. Visit Print Version of every Article (animals-as-objects/de/theme.taxonomical orders/print)
+// 4. Wait until everything is loaded
+// 5. Export PDF in A4 with Headers and Footers to static folder
 // 6. Close Browser
 
-// Hey Big Brain. Why dont you just make this PDF at Generate Time. You already make the template. Smart or Dumb? Might make generate slow
-
-
 const contentDir = path.join(__dirname, '..', 'vault');
-const htmlDir = path.join(__dirname, '..', 'dist');
 const exportDir = path.join(__dirname, '..', 'static/pdf');
 
 const liveUrl = 'https://dev.animalsasobjects.org/';
@@ -98,7 +96,7 @@ async function printPDF (filePath, browser, page) {
     await printPDF(path, browser, page);
   }
 
-  // await printPDF('story.industrial%20micropaleontology', browser, page);
+  // await printPDF('story.industrial micropaleontology', browser, page);
   
 
   await browser.close();
