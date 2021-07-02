@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1625264280242
+updated: 1625264902886
 created: 1618326133707
 ---
 
@@ -43,7 +43,7 @@ See [[templates.story]]
 - Always leave a blank line above and below a bullet point list
 - Footnotes come after the "." at the end of a sentence but before the "," if in the middle of a sentence
 - Titles of publications, newspapers etc. are in _cursive_, so if used in a caption: _In an image caption, a name of a newspaper, for example_ Newspaper title, _is the only thing not in cursive_. Also italicize laws, regulations, and names of journals, etc.
-- A few sentences per text/section should be in **bold**. On its own, a sentence should generate interest, and make the scrolling reader curious. Altogether with the title and the summary, they should allow the reader a brief glimpse into the topic, without reading the text. Don't make individual words **bold**, minimum is a phrase. They additionally function to visually break up longer texts.
+- A few sentences per text/section should be in **bold**. On its own, a sentence should generate interest, and make the scrolling reader curious. Altogether with the title and the summary, they should allow the reader a brief glimpse into the topic, without reading the text. Don't make individual words **bold**, minimum is a phrase. Together with long quotes and images, they additionally function to visually break up longer texts.
 
 ### Structure and Terminology
 
