@@ -48,15 +48,6 @@ async function printPDF (filePath, browser, page) {
 
   console.log('Accessing URL: ', formattedUrl);
 
-  // await page.goto('https://dev.animalsasobjects.org/material.radiolaria/print/', {
-  // try{
-  
-    
-
-  // } catch(err) {
-  //   console.log('fail', err)
-  // }
-
   await page.goto(formattedUrl, {
     waitUntil: 'networkidle2',
   })
