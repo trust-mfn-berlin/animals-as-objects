@@ -66,7 +66,7 @@ button{
   .animatemedium(all);
 
   &:hover{
-    box-shadow: @shadow-focus !important;
+    box-shadow: @shadow-hover !important;
     // background-color: red !important;
   }
 

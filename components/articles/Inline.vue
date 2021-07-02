@@ -1,7 +1,9 @@
 <template>
   <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual" @mouseover.native="onMouseover" @mouseleave.native="onMouseleave">
+    <span>
     <nuxt-img v-if="article.cover_image && article.cover_image.image" quality="80" width="64" height="64" :src="article.cover_image.image"  />
-    <span class="text" :style="{border:'1px solid var(--scheme-'+article.colour_scheme+'-bg)', backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
+    </span>
+    <span class="text" :style="{backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
       <span class="f-serif subheading" v-html="alias ? alias : titleBilingual"></span>
     </span>
   </nuxt-link>
@@ -61,6 +63,7 @@ a{
   }
   
   .text{
+    border: 1px solid transparent;
     background-color: @white;
     height: 1.33333rem;
     padding:0.37rem 0.4rem 0;
@@ -82,7 +85,7 @@ a{
   }
 
   &:hover{
-    // transform: translateY(-4px);
+    transform: translateY(-2px);
     .text{
       box-shadow: @shadow-small-hover;
       background-color: @white !important;

@@ -56,22 +56,6 @@
 </script>
 
 <style lang="less" scoped>
-// .wiki-link-component{
-//   border:1px solid #ccc;
-//   display: inline-block;
-//   padding:4px 6px;
-//   border-radius: 5px;
-//   font-size: 0.9rem;
-//   background-color: white;
-// }
-
-// .wiki-link-component:hover{
-//   box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
-// }
-
-::v-deep .dendron-link{
-  // display: none;
-}
 
 span{
   display: inline-block;
@@ -80,9 +64,16 @@ span{
 }
 
 .error{
-  color:red;
+  // color:red;
   // text-decoration: underline;
   border-bottom: 1px dotted red ;
+  bottom: 0.3333rem;
+  position: relative;
+  // .f-mono();
+}
+
+a{
+  border-color: transparent !important;
 }
 
 </style>

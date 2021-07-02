@@ -60,7 +60,7 @@ const createStore = () => {
     },
     actions: {
       async nuxtServerInit(vuexContext, context) {
-        const articles = await context.app.$content().only(['slug', 'title', 'title_de', 'id', 'tao_type', 'colour_scheme']).fetch();
+        const articles = await context.app.$content().only(['slug', 'title', 'title_de', 'id', 'tao_type', 'colour_scheme', 'cover_image']).fetch();
         vuexContext.commit('setLoadedArticles', articles);
         const routes = await context.app.$content('/netlify/pathways').only(['slug', 'title', 'title_de', 'articles']).fetch();
         vuexContext.commit('setLoadedRoutes', routes);
