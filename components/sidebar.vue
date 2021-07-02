@@ -10,7 +10,7 @@
         <li>Last updated: <span>{{article.updatedAt | formatDate}}</span></li>
       </ul>
       <div class="button-array">
-        <text-button type="button" >Download PDF</text-button>
+        <text-button type="anchor" :linkto="'/pdf/' + pdfNameBilingual + article.slug + '.pdf'">Download PDF</text-button>
         <text-button type="button" @click.native="openCitationModal">Cite this Article</text-button>
       </div>
     </section>
@@ -87,6 +87,13 @@ export default {
         return this.storePage.title_de
       } else {
         return this.storePage.title
+      }
+    },
+    pdfNameBilingual(){
+      if(this.siteLang == 'de'){
+        return 'tiere_als_objekte-'
+      } else {
+        return 'animals_as_objects-'
       }
     }
 
