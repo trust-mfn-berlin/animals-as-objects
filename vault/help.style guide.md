@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1625223665630
+updated: 1625224598008
 created: 1618326133707
 ---
 
@@ -57,6 +57,10 @@ See [[templates.story]]
 
 ### Monography
 Grzimek, Bernhard. _Flug ins Schimpansenland. Reise durch ein Stück Afrika von heute._ Stuttgart: Kosmos, 1955. [For pages, add colon after the year, e.g....1955: 98-99.]
+
+If repeated in very next footnote:
+
+Grzimek, 1955: 67.
 
 ### Anthology
 Gregory Kohlstedt, Sally. "Reflections on Zoo History". In _New Worlds, New Animals. From Menagerie to Zoological Park in the Nineteenth Century_, hg. von [ed. by] Robert J. Hoage, und [and] William A. Deiss. Baltimore: Johns Hopkins University Press, 1996: 3-7.
