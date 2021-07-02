@@ -29,8 +29,8 @@ export default {
 
     var max = {
       total: 21,
-      t: 3,
-      m: 8,
+      t: 2,
+      m: 10,
       s: 3
     };
 
@@ -59,7 +59,7 @@ export default {
       const rngT = Math.floor(Math.random() * (t.length -1))
       const randomTheme = t[rngT]
 
-      if(!articles.includes(randomTheme) && counters.t <= max.t){
+      if(!articles.includes(randomTheme) && counters.t < max.t){
         articles.push(randomTheme)
         counters.t++
       }
@@ -67,7 +67,7 @@ export default {
       const rngM = Math.floor(Math.random() * (m.length -1))
       const randomMaterial = m[rngM]
 
-      if(!articles.includes(randomMaterial) && counters.m <= max.m){
+      if(!articles.includes(randomMaterial) && counters.m < max.m){
         articles.push(randomMaterial)
         counters.m++
       }
@@ -75,12 +75,11 @@ export default {
       const rngS = Math.floor(Math.random() * (s.length -1))
       const randomStory = s[rngS]
 
-      if(!articles.includes(randomStory) && counters.s <= max.s){
+      if(!articles.includes(randomStory) && counters.s < max.s){
         articles.push(randomStory)
         counters.s++
       }
 
-      console.log(counters)
     }
 
     var currentIndex = articles.length,  randomIndex;
