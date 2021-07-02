@@ -75,6 +75,7 @@ a{
       max-width: 15rem;
       overflow:hidden;
       display: block;
+      line-height: @lh-xs;
     }
 
     .animatefast(all);
