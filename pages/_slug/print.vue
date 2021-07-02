@@ -1,7 +1,7 @@
 <template>
   <div class="article-container">
     <div id="header">
-      <h1>Header</h1>
+      <h5 class="headcol left">Animals as Objects?</h5><h5 class="headcol mid"><span class="type">{{article.tao_type}}</span> {{article.title}} by {{article.author}}</h5><h5 class="headcol right">P.<span class="pageNumber"></span></h5>
     </div>
     <hgroup class="heading">
       <h1>{{article.title}}</h1>
@@ -14,15 +14,15 @@
       <ul>
         <li v-if="article.tao_type">Article type: {{article.tao_type}}</li>
         <li v-if="article.author">Author: {{article.author}}</li>
-        <li v-if="article.translator">Translated by: {{article.translator}}</li>
+        <li v-if="article.translators && article.translators.translator_de_en">Translated by: {{article.translators.translator_de_en}}</li>
         <li v-if="article.license">Text license: {{article.license}}</li>
         <li v-if="article.doi">DOI: {{article.doi}}</li>
-        <li v-if="article.updatedAt">Last updated: {{article.updatedAt}}</li>
+        <li v-if="article.updatedAt">Last updated: {{article.updatedAt | formatDate}}</li>
       </ul>
     </aside>
     </div>
     <div id="footer">
-      <h1>Footer</h1>
+      <h5 class="footcol left"><a href="animalsasobjects.org">animalsasobjects.org/{{article.slug}}</a></h5><h5 class="footcol right">Created: {{ new Date() | formatDate}}</h5> 
     </div>
   </div>
 </template>
@@ -76,18 +76,21 @@ export default {
 // Vars
 
 @article-width:132mm;
-@fs-print: 14px;
+@fs-print: 10pt;
+@fs-print-small: 6pt;
 
 // Components
 
 ::v-deep .wiki-link-component{
-  bottom:0;
-  
+  bottom:-1mm;
+  .thumbnail-wrap{
+    height: unset;
+  }
   img{
     display: none;
   }
   span.text{
-    height: auto ;
+    height: 4mm;
     padding: 3px 5px 2px 5px;
     border:1px solid black !important;
     color:@black !important;
@@ -95,12 +98,63 @@ export default {
     box-shadow: none ;
     margin:0 2px;
     span{
-      font-size: @fs-print * 0.75;
+      font-size: @fs-print-small;
     }
   }
 }
 
 // Primary Layout
+#header, #footer{
+  width: 100%;
+
+  span.type{
+    border-bottom: 1px solid black;
+  }
+
+  .headcol{
+    &.left{
+      width: 20%;
+      text-align: left;
+      margin-right: auto;
+    }
+    &.mid{
+      width: 60%;
+      text-align: center;
+    }
+    &.right{
+      width: 20%;
+      margin-left: auto;
+      text-align: right;
+    }
+  }
+
+  .footcol{
+    width: 50%;
+    &.left{
+      text-align: left;
+      margin-right: auto;
+    }
+    &.right{
+      margin-left: auto;
+      text-align: right;
+    }
+  }
+
+  h5{
+    .f-mono();
+    font-size: @fs-print-small;
+    // width: 33%;
+    display: inline-block;
+  }
+}
+
+#header{
+  margin-bottom: 5mm;
+}
+
+#footer{
+  margin-top: 5mm;
+}
 
 .article-container{
 
@@ -123,7 +177,7 @@ main{
 
 aside{
   .f-mono();
-  font-size: @fs-print * 0.75;
+  font-size: @fs-print-small;
   margin-left: 5mm;
   ul{
     padding-left: 0.5rem;
@@ -139,11 +193,11 @@ aside{
 
 hgroup.heading{
   text-align: center;
-  margin: 2rem auto;
+  margin: 18mm auto 25mm auto;
 
   h1{
     font-size: @fs-print * 2.5;
-    margin-bottom: 1rem;
+    margin-bottom: 25mm;
     line-height: @lh-short;
 
     background-size: 1px 1em;
@@ -188,13 +242,14 @@ p{
 
 
 h2{
-  font-size: @fs-print * 1.5;
+  font-size: @fs-print * 1.2;
   margin-bottom: @space-s;
   margin-top: 2rem;
 }
 
 blockquote{
-  margin: 2.5rem auto;
+  font-size: @fs-print-small;
+  margin: 15mm auto;
   width: 90%;
 }
 
@@ -230,7 +285,7 @@ blockquote{
     }
     li{
       // .f-mono();
-      font-size: @fs-print * 0.75;
+      font-size: @fs-print-small;
       list-style-type: decimal;
       margin-left: 10px;
       padding-left: 5px;
@@ -246,14 +301,14 @@ blockquote{
 
 sup{
 
-  font-size: @fs-print * 0.75;
+  font-size: @fs-print-small;
   border-bottom: 1px solid @black;
 
 
 }
 
 figcaption{
-  font-size: @fs-print * 0.6;
+  font-size: @fs-print-small;
   sup{
     
   }
@@ -308,8 +363,9 @@ figure{
     }
 
     ::v-deep span.wiki-link-component{
-      bottom:0;
+      // bottom:0;
       a{
+        line-height: 0;
         border-bottom: none;
         img{
           display: none;
@@ -318,11 +374,11 @@ figure{
           box-shadow: none;
           border-radius: 0;
           margin: 0;
-          height: auto !important;
+          height: 5mm !important;
           padding: 0 !important;
           color: @black !important;
           .subheading{
-            font-size:@fs-print * 0.6;
+            font-size:@fs-print-small;
           }
         }
       }
@@ -341,7 +397,7 @@ h2+figure {
 .audio-container{
   display: block;
   width: 50%;
-  margin: 5rem auto;
+  margin: 15mm auto;
 }
 
 // Video
@@ -350,7 +406,7 @@ iframe{
   display: block;
   width: 100%;
   min-height: 20rem;
-  margin: 5rem auto;
+  margin: 15mm auto;
 }
 
 

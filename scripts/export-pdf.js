@@ -62,26 +62,26 @@ async function printPDF (filePath, browser, page) {
         bottom: '6mm',
         left: '4mm',
         right: '4mm',
-        top: '6mm'
+        top: '2mm'
     }
   });
 
-  // await page.goto(formattedUrlDE, {
-  //   waitUntil: 'networkidle2',
-  // })
+  await page.goto(formattedUrlDE, {
+    waitUntil: 'networkidle2',
+  })
 
-  // console.log('Exporting DE: ', exportDir + '/' + filePathDE + '.pdf');
+  console.log('Exporting DE: ', exportDir + '/' + filePathDE + '.pdf');
 
-  // await page.pdf({ 
-  //   path: exportDir + '/' + filePathDE + '.pdf', 
-  //   format: 'a4',
-  //   margin: {
-  //     bottom: '6mm',
-  //     left: '4mm',
-  //     right: '4mm',
-  //     top: '6mm'
-  //   }
-  // });
+  await report.pdfPage(page, { 
+    path: exportDir + '/' + filePathDE + '.pdf', 
+    format: 'a4',
+    margin: {
+      bottom: '6mm',
+      left: '4mm',
+      right: '4mm',
+      top: '2mm'
+  }
+  });
   
 }
 
