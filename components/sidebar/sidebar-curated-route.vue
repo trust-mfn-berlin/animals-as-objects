@@ -1,14 +1,14 @@
 <template>
   <nuxt-link :to="'/routes/' + route.slug" class="curated-route">
     <h4 class="subheading">{{titleBilingual}}</h4>
-    <template v-for="(article, index) in fetchedArticles" >
+    <div class="thumbnail-wrapper" v-for="(article, index) in fetchedArticles" :key="index" :class="article.tao_type" >
       <nuxt-img  
         v-if="article.cover_image && article.cover_image.image" 
-        :key="index" 
+        
         width="64" height="64" :src="article.cover_image.image"
-        :class="article.tao_type"
+        
       ></nuxt-img>
-    </template>
+    </div>
   </nuxt-link>
 </template>
 
@@ -92,10 +92,12 @@ export default {
       box-shadow: @shadow;
     }
 
-    img{
+    .thumbnail-wrapper{
       height: 1.33333rem;
-      width: 1.33333rem;
+      width:  1.33333rem;
+      background-color: @black;
       margin-right: @space-xs;
+      overflow:hidden;
 
       &.story{
         border-radius: @radius-s;
@@ -104,6 +106,14 @@ export default {
       &.material{
         border-radius: @radius-max;
       }
+    }
+
+    img{
+      opacity: 0.97;
+      height: 1.33333rem;
+      width: 1.33333rem;
+
+      
     }
 
     
