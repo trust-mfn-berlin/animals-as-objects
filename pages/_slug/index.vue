@@ -141,6 +141,7 @@ export default {
 @article-width-mobile:calc(100% - @space-s*2);
 @container-width-open: calc(100vw - 20rem);
 
+@article-max-width: 1000px;
 
 // Primary Layout
 
@@ -160,7 +161,7 @@ main{
   
   section{
     width: @article-width;
-    // max-width: @article-max-width;
+    max-width: @article-max-width;
     margin: 0 auto;
 
     @media screen and (max-width: @mq-s) /* Mobile */ {
@@ -182,13 +183,25 @@ main{
 
     figure{
       img{
-        max-width: calc(100vw - 20rem - @space-s);
+        max-width: calc(90vw - 20rem - @space-s);
 
         @media screen and (max-width: @mq-s) /* Mobile */ {
           max-width: @article-width-mobile;
         }
       }
     }
+    
+    #articlebody figure:first-child{
+
+      width: @article-max-width;
+      img{
+        max-width: 100% !important;
+      }
+      
+    }
+    
+
+    
   }
 }
 
@@ -217,17 +230,12 @@ hgroup.heading{
   }
 }
 
-::v-deep #articlebody {
+#articlebody {
   p:first-child{
-    // color:blue;
     margin-top: 2rem;
   }
 }
 
-// p:first-of-type {
-//   color:red;
-//   margin-top: 2rem;
-// }
 
 p{
   line-height: @lh-long;
@@ -297,9 +305,8 @@ figcaption{
     top:unset;
     margin:0;
     a.footnote-ref{
-      border-bottom: 0;
-      padding: 0.2rem;
-
+      margin: 0;
+      padding: 0 4px;
       font-size: inherit;
     }
   }
@@ -309,10 +316,10 @@ figcaption{
 
 
 
-::v-deep #articlebody figure:first-child{
+#articlebody figure:first-child{
   position: relative;
 
-  
+  width: @article-max-width;
   margin-top:0;
 
   p{
@@ -328,8 +335,8 @@ figcaption{
     // background-color: red;
     height: 100%;
     top:0;
-    left:-50vw;
-    width: 150vw;
+    left:-100vw;
+    width: 200vw;
     z-index: -99;
   }
 
