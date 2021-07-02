@@ -1,5 +1,5 @@
 ---
-title: About
+title: Animals as Objects?
 ---
 ## About the website
 

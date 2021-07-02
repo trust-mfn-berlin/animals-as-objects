@@ -39,7 +39,7 @@ h3{
 
 li{
   // .f-mono();
-  margin-bottom: @space-s;
+  margin-bottom: 0.4rem;
   .animatefast(transform);
   cursor: pointer;
   &:hover{

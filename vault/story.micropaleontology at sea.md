@@ -1,16 +1,22 @@
 ---
-id: b30fb33b-adc1-4c3e-963a-e2467c2fbb21
-title: Micropaleontology at Sea
-desc: Put a description of this note here...
-updated: 1621875066503
-created: 1621522440708
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Filippo Bertoni.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title: Micropaleontology at Sea
+title_de: Add a german title here
+created: 1621522440708
+updated: 1621875066503
+id: b30fb33b-adc1-4c3e-963a-e2467c2fbb21
+author: Filippo Bertoni
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+short_desc_de: DE short desc
+cover_image:
+  image: /images/cover-micropaleo-at-sea.jpg
+tao_type: story
+date_start: ""
+date_end: ""
 published: false
+colour_scheme: 6
 ---
 
 :::EN:::

@@ -1,6 +1,6 @@
 <template>
   <form id='cookie-disclaimer' v-show="!this.$store.getters.isTrackingEnabled">
-    <label class='text-links f-mono'>Accept Cookies? read our <nuxt-link to="datenschutz">privacy policy</nuxt-link></label>
+    <label class='text-links f-mono'>Accept Cookies? read our <nuxt-link to="/datenschutz">privacy policy</nuxt-link></label>
     <button @click="onAccept">Yes</button>
   </form>
 </template>
@@ -34,5 +34,7 @@ export default {
   left:@space-s;
   background: @white;
   padding:@space-s;
+  z-index: @z-cookie;
+  box-shadow: @shadow;
 }
 </style>

@@ -9,7 +9,7 @@ author: CMW
 translators:
   translator_de_en: Testing DE EN
   translator_en_de: Testing EN DE
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 desc_de: Put a DE description of this note here...
 short_desc: xx
 short_desc_de: xx
@@ -20,6 +20,7 @@ tao_type: material
 date_start: ""
 date_end: ""
 published: false
+colour_scheme: 6
 ---
 
 :::EN:::

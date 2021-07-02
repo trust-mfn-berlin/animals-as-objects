@@ -45,6 +45,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    '~/plugins/date-filter.js',
     '~/plugins/scrolltop-animate-mixin.js'
   ],
 
@@ -70,8 +71,13 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     '@nuxt/content',
+    '@nuxtjs/axios',
     'cookie-universal-nuxt',
   ],
+
+  axios:{
+    baseUrl: 'https://log.animalsasobjects.org'
+  },
 
   image: {
     // Nuxt Image Options

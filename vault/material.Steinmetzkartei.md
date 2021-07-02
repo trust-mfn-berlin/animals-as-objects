@@ -1,16 +1,27 @@
 ---
-id: 2a309087-f165-4def-9c60-d835c7218077
-title: The Steinmetz-index
-desc: Put a description of this note here...
-updated: 1621976451680
-created: 1620987472118
-title_de: Die Steinmetz-Kartei
-desc_de: In dieser Kartei fasste ein ehemaliger Tierarzt zwischen 1930 und 1945 die Bestände des Berliner Zoos zusammen.
-author: CMW
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title: The Steinmetz-index
+title_de: Die Steinmetz-Kartei
+created: 1620987472118
+updated: 1621976451680
+id: 2a309087-f165-4def-9c60-d835c7218077
+author: Clemens Maier-Wolthausen
+translators:
+  translator_de_en: Lucy Gasser
+desc: EN Tiere im Besitz des Berliner Zoos 1920-1945
+desc_de: Tiere im Besitz des Berliner Zoos 1920-1945
+short_desc: EN Tiere im Besitz des Berliner Zoos 1920-1945
+short_desc_de: Tiere im Besitz des Berliner Zoos 1920-1945
+cover_image:
+  image: /images/cover-steinmetz-kartei-index.jpg
+  alt: "Steinmetz index card for the Berlin zoo's pygmy hippos, around 1935.
+    Steinmetz-Karteikarte für die Zwergflusspferde des Berliner Zoos, um 1935.
+    Source: AZGB. All rights reserved."
+tao_type: material
+date_start: ""
+date_end: ""
 published: false
+colour_scheme: 12
 ---
 
 

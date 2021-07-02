@@ -1,6 +1,6 @@
 <template>
   <div v-if="page" class="container">
-    <hgroup>
+    <hgroup class="page-header">
       <h1>{{page.title}}</h1>
     </hgroup>
     <div class="container-inner">
@@ -54,12 +54,18 @@ export default {
 </script>
 
 <style lang="less" scoped>
+
+.container{
+  padding: 0 @space-s;
+}
+
 .container-inner{
   display: flex;
 }
 
 main{
   width: 60vw;
+  line-height: @lh-long;
 }
 
 aside{

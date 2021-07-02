@@ -1,7 +1,7 @@
 ---
 id: f02cb0e0-9512-4a0f-8012-02969e9f97d0
 title: Bobby life
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1623347984502
 created: 1620163729182
 title_de: Add a german title here
@@ -11,6 +11,7 @@ tao_type: story
 cover_image: null
 license: CC BY-SA
 published: false
+colour_scheme: 5
 ---
 
 :::EN:::

@@ -1,23 +1,41 @@
 ---
-id: d54394f6-1188-4ec3-b590-da329e657560
-title: Futternot
-desc: Put a description of this note here...
-updated: 1624527579170
-created: 1621497485660
-title_de: Futternot
-desc_de: Put a DE description of this note here...
-author: mv
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Futternot
+created: 1621497485660
+author: Mareike Vennen
+short_desc_de: "1945: Krise in Zoo und Stadt"
+date_end: ""
 published: false
+title: Futternot
+updated: 1624280329673
+id: d54394f6-1188-4ec3-b590-da329e657560
+translators:
+  translator_de_en: Lucy Gasser
+desc: EN Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten
+  nach dem Zweiten Weltkrieg, seine Tiere durchzubringen? Welche Rolle spielte
+  dabei die Ernährungslage Berlins? Zoo und Stadtgesellschaft gingen in dieser
+  Krise neue Verbindungen ein – zwischen Unterstützung und Konkurrenz, was die
+  Rolle und Funktion des Zoos zeitweise veränderte.
+desc_de: Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten
+  nach dem Zweiten Weltkrieg, seine Tiere durchzubringen? Welche Rolle spielte
+  dabei die Ernährungslage Berlins? Zoo und Stadtgesellschaft gingen in dieser
+  Krise neue Verbindungen ein – zwischen Unterstützung und Konkurrenz, was die
+  Rolle und Funktion des Zoos zeitweise veränderte.
+short_desc: "EN 1945: Krise in Zoo und Stadt"
+cover_image:
+  image: /images/cover-food-shortage.jpg
+  alt: "Vegetable cultivation in the treeless Großer Tiergarten in Berlin in 1946,
+    with Reichstag building in the background. Gemüseanbau im abgeholzten Großen
+    Tiergarten in Berlin 1946, im Hintergrund das Reichstagsgebäude. Source:
+    Bundesarchiv image 183-M1015-314, photo Otto Donath."
+tao_type: story
+date_start: ""
+colour_scheme: 16
 ---
 
 :::EN:::
 
 English content goes here.[^1]
-
-<!-- Hier Daten einfügen für Timeline, falls gewünscht-->
 
 More English content here.[^2] And more.
 

@@ -1,19 +1,29 @@
 <template>
   <div class="article-container">
   <main v-if="article" :class="{open : isSidebarOpen}">
-    <hgroup class="heading">
-      <h1 :style="{boxShadow:'inset 0 -0.175em var(--background-1), inset 0 -0.2em var(--scheme-'+schemeNumber+'-bg)'}">{{article.title}}</h1>
+    <hgroup class="heading article-header" :style="{background:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
+      <div class="heading-inner"><h1>{{article.title}}</h1>
       <h3 class="lead subheading f-mono">
         <span class="type" :class="article.tao_type" >{{article.tao_type}}</span>
-        Lorem ipsum dolor sit amet
+        <span v-if="article.short_desc">{{article.short_desc}}</span>
+        <span v-else>I need a short description!</span>
       </h3>
+      </div>
     </hgroup>
 
     <section>
       <nuxt-content id="articlebody" :document="article" :class="article.tao_type" ref="articlebody"/>
-    </section>    
+    </section>  
+
+    <section id="license">
+      <article-license-footer :license="article.license"/>
+    </section>  
     
-    <article-routes :routes="$store.getters.currentRoute"/>
+    <section id="article-routes">
+      <article-routes/>
+    </section>
+
+    
   </main>
   <sidebar :article="article" :footnotes="footnotes" :activeFootnote="activeFootnote"/>
   </div>
@@ -69,9 +79,6 @@ export default {
     isSidebarOpen(){
       return this.$store.getters.isSidebarOpen
     },
-    schemeNumber(){
-      return Math.floor(Math.random() * 15)
-    }
   },
   created(){
     // make sure correct language
@@ -82,8 +89,8 @@ export default {
   mounted(){
 
     // update colour scheme
-    document.documentElement.style.setProperty("--current-scheme-bg", "var(--scheme-"+this.schemeNumber+"-bg)");
-    document.documentElement.style.setProperty("--current-scheme-fg", "var(--scheme-"+this.schemeNumber+"-fg)");
+    document.documentElement.style.setProperty("--current-scheme-bg", "var(--scheme-"+this.article.colour_scheme+"-bg)");
+    document.documentElement.style.setProperty("--current-scheme-fg", "var(--scheme-"+this.article.colour_scheme+"-fg)");
 
     // copy footnotes into sidebar
     if(document.getElementsByClassName('footnotes')[0]){
@@ -130,7 +137,11 @@ export default {
 
 // Vars
 
-@article-width:60vw;
+@article-width:calc(90vw - 20rem - @space-s);
+@article-width-mobile:calc(100% - @space-s*2);
+@container-width-open: calc(100vw - 20rem);
+
+@article-max-width: 1000px;
 
 // Primary Layout
 
@@ -139,44 +150,75 @@ export default {
 }
 
 main{
-  width: @article-width;
-  margin: 0 auto;
+
+  // max-width: 100vw;
+  // width: calc(100% - @space-s);
+  width: 100%;
+  overflow-x:hidden;
+
+  .animateslow(width);
+  
+  
+  section{
+    width: @article-width;
+    max-width: @article-max-width;
+    margin: 0 auto;
+
+    @media screen and (max-width: @mq-s) /* Mobile */ {
+      width: @article-width-mobile;
+    }
+  }
   &.open{
-    margin: 0;
+
+    width: @container-width-open;
+    // margin: 0 auto;
+    
+    hgroup{
+      .heading-inner{
+        // width: @article-width;
+        margin-right: auto;
+      }
+    }
+
+
+    figure{
+      img{
+        max-width: calc(90vw - 20rem - @space-s);
+
+        @media screen and (max-width: @mq-s) /* Mobile */ {
+          max-width: @article-width-mobile;
+        }
+      }
+    }
+    
+    #articlebody figure:first-child{
+
+      width: @article-max-width;
+      img{
+        max-width: 100% !important;
+      }
+      
+    }
+    
+
+    
   }
 }
 
 // Typography
 
+
+
+// There are pop-in issues because scheme-bg is set on mounted hook.
+// Maybe it could be set during Generate somehow? 
 hgroup.heading{
-  text-align: center;
-
-  h1{
-    margin-bottom: 1rem;
-    line-height: @lh-short;
-
-    background-size: 1px 1em;
-    display: inline;
-
-    // text-shadow:
-    //   -2px -2px @bg,
-    //   -2px 2px @bg,
-    //   2px -2px @bg,
-    //   2px 2px @bg;
-  }
 
   .lead.subheading{
-  text-align: center;
-  margin:2rem 0 3rem;
     .type{
-      background-color: var(--current-scheme-bg);
-      color: var(--current-scheme-fg);
+      background-color: var(--current-scheme-fg);
+      color: var(--current-scheme-bg);
       padding:@space-xs 10px;
-      // background-color: @black;
-      // color: @white;
-      &.theme{
 
-      }
       &.material{
         border-radius: @radius-max;
       }
@@ -187,6 +229,13 @@ hgroup.heading{
 
   }
 }
+
+#articlebody {
+  p:first-child{
+    margin-top: 2rem;
+  }
+}
+
 
 p{
   line-height: @lh-long;
@@ -207,7 +256,7 @@ blockquote{
 .nuxt-content{
   &.story{
     a.footnote-ref{
-      border-radius: @radius-m;
+      // border-radius: @radius-m;
     } 
   }
 
@@ -217,7 +266,7 @@ blockquote{
 
   &.material{
     a.footnote-ref{
-      border-radius: @radius-max;
+      // border-radius: @radius-max;
     }
   }
 
@@ -229,22 +278,15 @@ blockquote{
 sup{
 
   display: inline-block;
-  margin: 0 @space-xs;
   font-family: @f-mono;
-  top:-@space-xs;
   
   a.footnote-ref{
-    background-color: @bg;
-    padding: 0.4rem 0.5rem 0.3rem;
+    padding: 0.1rem;
+    border-bottom: 1px solid grey;
     font-size: @fs-s;
-    border:1px solid @bg-2;
-    box-shadow: @shadow-small;
-
     .animatefast(all);
     &:hover{
-      border:1px solid @white;
-      background-color: @white;
-      box-shadow: @shadow-small-hover;
+
     }
   }
 
@@ -256,9 +298,8 @@ figcaption{
     top:unset;
     margin:0;
     a.footnote-ref{
-      border-bottom: 0;
-      padding: 0.2rem;
-
+      margin: 0;
+      padding: 0 4px;
       font-size: inherit;
     }
   }
@@ -266,15 +307,56 @@ figcaption{
 
 // Images
 
+
+
+#articlebody figure:first-child{
+  position: relative;
+
+  width: @article-max-width;
+  margin-top:0;
+
+  p{
+    position: relative;
+    line-height: 0;
+    margin-top: 0;  
+  }
+  p::before{
+    content:'';
+    position: absolute;
+    background-color: var(--current-scheme-bg);
+    // background-color: inherit;
+    // background-color: red;
+    height: 100%;
+    top:0;
+    left:-100vw;
+    width: 200vw;
+    z-index: -99;
+  }
+
+  figcaption p::before{
+    content: unset;
+    background-color: blue;
+  }
+
+}
+
 figure{
   margin: 5rem auto;
-  max-width: 100%;
+  max-width: @article-width;
   width: fit-content;
 
-  img{
-    max-width: @article-width;
-    // max-height: 1200px;
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    max-width: @article-width-mobile;
   }
+  // Fucking.. markdown wraps everything in a P tag!
+  p{
+    max-width: 100%;
+  }
+  img{
+    max-width: 100%;
+    max-height: 1000px;
+  }
+
 
   p{
     width: max-content;
@@ -284,7 +366,7 @@ figure{
 
   div.series{
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     justify-content: center;
     // width: calc(60vw + 4rem);
     width: 100%;
@@ -308,6 +390,8 @@ figure{
     margin-top:@space-s;
     display: flex;
     p{
+      margin-top:0 !important;
+      line-height: @lh-short !important;
       flex-grow: 1;
       width: 0;
     }
@@ -356,7 +440,5 @@ iframe{
   min-height: 20rem;
   margin: 5rem auto;
 }
-
-
 
 </style>

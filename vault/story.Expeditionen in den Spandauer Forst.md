@@ -1,7 +1,7 @@
 ---
 id: YkEtLAjd1wc2jvv_NBJbx
 title: Der Berliner Zoo und die Tiere des Spandauer Forstes
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1624397390930
 created: 1624395902427
 title_de: Der Berliner Zoo und die Tiere des Spandauer Forstes
@@ -11,6 +11,7 @@ tao_type: story
 cover_image: null
 license: CC BY-SA
 published: false
+colour_scheme: 12
 ---
 
 

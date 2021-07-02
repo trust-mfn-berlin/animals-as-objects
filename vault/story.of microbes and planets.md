@@ -1,7 +1,7 @@
 ---
 id: 796e4da7-c573-401f-a165-7bd9c3a503c6
 title: Of Microbes and Planets
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1621604224896
 created: 1621522603135
 title_de: Add a german title here
@@ -11,6 +11,7 @@ tao_type: story
 cover_image: null
 license: CC BY-SA
 published: false
+colour_scheme: 11
 ---
 
 :::EN:::

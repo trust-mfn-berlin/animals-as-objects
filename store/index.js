@@ -10,7 +10,7 @@ const createStore = () => {
       loadedArticles: [],
       loadedRoutes: [],
       siteLanguage: defaultLanguage,
-      currentRoute: ['story.industrial micropaleontology','material.foraminifera','theme.microbial worlds','material.radiolaria','story.micropaleontology'],
+      currentRoute: [],
       searchBarIsOpen: false,
       activeFilter: 'type',
       sidebarIsOpen: true,
@@ -30,9 +30,12 @@ const createStore = () => {
         // console.log('set language to: ' + lang);
         state.siteLanguage = lang;
       },
-      addRoute(state, path) {
-        console.log('Path added: ' + path);
-        state.currentRoute.push(path);
+      addRoute(state, route) {
+        console.log('Route added: ' + route.route);
+        state.currentRoute.push(route);
+      },
+      setRoutes(state, routes) {
+        state.currentRoute = routes
       },
       toggleSearchBar(state, isOpen){
         console.log('Is search open:', isOpen)
@@ -57,7 +60,7 @@ const createStore = () => {
     },
     actions: {
       async nuxtServerInit(vuexContext, context) {
-        const articles = await context.app.$content().only(['slug', 'title', 'title_de', 'id', 'tao_type']).fetch();
+        const articles = await context.app.$content().only(['slug', 'title', 'title_de', 'id', 'tao_type', 'colour_scheme', 'cover_image']).fetch();
         vuexContext.commit('setLoadedArticles', articles);
         const routes = await context.app.$content('/netlify/pathways').only(['slug', 'title', 'title_de', 'articles']).fetch();
         vuexContext.commit('setLoadedRoutes', routes);
@@ -75,6 +78,10 @@ const createStore = () => {
       },
       currentRoute(state) {
         return state.currentRoute
+      },
+      currentRouteLastPage(state){
+        const l = state.currentRoute.length;
+        return state.currentRoute[l -1].route
       },
       isSearchbarOpen(state){
         return state.searchBarIsOpen

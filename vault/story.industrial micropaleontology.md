@@ -1,15 +1,52 @@
 ---
-id: 2df514da-8df2-4278-8534-28e1034c7adf
-title: Industrial Micropaleontology
-desc: In the 1920s a group of young women scientists employed by oil companies revolutionized micropaleontology, by showing its important applications to stratigraphy and petroleum geology.
-updated: 1621868648303
-created: 1621521087155
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Filippo Bertoni.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Industrielle Mikropaleontologie
+created: 1621521087155
+author: Filippo Bertoni.
+short_desc_de: DE short desc
+title: Industrial Micropaleontology
+updated: 1621868648303
+id: 2df514da-8df2-4278-8534-28e1034c7adf
+desc: In the 1920s a group of young women scientists employed by oil companies
+  revolutionized micropaleontology, by showing its important applications to
+  stratigraphy and petroleum geology.
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image:
+  image: /images/cover-industrial-micropaleo.jpg
+colour_scheme: 6
+tao_type: story
+date_start: ""
+date_end: ""
+map_slide:
+  - map_image: /images/mapexample1.jpg
+    map_image_de: /images/mapexample2.jpg
+    caption: Animal traders, zoo employees and museum staff brought Bobby to Berlin
+      in 1928, and distributed his remains between different institutions after
+      his death in 1935.
+    caption_de: DE Animal traders, zoo employees and museum staff brought Bobby to Berlin
+      in 1928, and distributed his remains between different institutions after
+      his death in 1935.
+    caption_image: 
+      src: /images/cover-industrial-micropaleo.jpg
+      alt: alt tag here
+    title: Bobby born
+    title_de: DE Bobby born
+  - caption: The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[here is a very long alias, about fossil fuels!|material.fossil fuels]] had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century
+    caption_de: DE The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[here is a very long alias, about fossil fuels!|material.fossil fuels]] had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century
+    caption_image: 
+      src: /images/cover-getting-animals.jpg
+      alt: alt tag here
+    map_image: /images/mapexample2.jpg
+    map_image_de: /images/mapexample2.jpg
+    title: Bobby lorem ipsum 
+    title_de: DE Bobby lorem ipsum
+  - caption: The gorilla's group in country x was likely killed to capture "Bobby". Person y brought him to Berlin by ship and train in 1928. Once dead, parts of "Bobby" were sent to different institutions via transport z in 1935.
+    caption_de: DE The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[here is a very long alias, about fossil fuels!|material.fossil fuels]] had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century
+    map_image: /images/mapexample1.jpg
+    map_image_de: /images/mapexample1.jpg
+    title: Bobby split up
+    title_de: DE Bobby split up
 published: false
 feature: false
 ---
@@ -29,7 +66,9 @@ _An article in the March 1932 issue of_ Popular Mechanics _magazine, titled "'Bu
 
 ## Introduction
 
-The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[here is a very long alias, about fossil fuels!|material.fossil fuels]] had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century the methods for prospecting for oil were still rudimental and could not keep up with the increasing demand. To overcome this problem, oil companies had already been employing geologists since the end of the 19th century. It was geologists who had successfully mobilized the 'anticlinal' theory to discover new wells: as petroleum and natural gas migrate to the most elevated portions of permeable beds they can usually be found in anticlines. But after the first World War, faced with ever-growing demand, oil companies started exploring regions with more complex stratigraphies that presented obstacles to geologists - like the Gulf of Mexico. Seeking a solution to their geological problems, the extractive industries hired paleontologists in the hope that they could help geologists trace oil fields more effectively. As we saw earlier, though, microfossils had been effectively declared useless for these types of problems, because of their assumed long evolutionary ranges. Instead, early researchers focused on macrofossils to resolve these stratigraphical issues - with poor results.
+The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[here is a very long alias, about fossil fuels!|material.radiolaria]] [[material.fossil fuels]] [^6] had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century the methods for prospecting for oil were still rudimental and could not keep up with the increasing demand. To overcome this problem, oil companies had already been employing geologists since the end of the 19th century. It was geologists who had successfully mobilized the 'anticlinal' theory to discover new wells: as petroleum and natural gas migrate to the most elevated portions of permeable beds they can usually be found in anticlines. But after the first World War, faced with ever-growing demand, oil companies started exploring regions with more complex stratigraphies that presented obstacles to geologists - like the Gulf of Mexico. Seeking a solution to their geological problems, the extractive industries hired paleontologists in the hope that they could help geologists trace oil fields more effectively. As we saw earlier, though, microfossils had been effectively declared useless for these types of problems, because of their assumed long evolutionary ranges. Instead, early researchers focused on macrofossils to resolve these stratigraphical issues - with poor results.
+
+<article-map :slides="map_slide" ></article-map>
 
 That is, until a consortium of US oil companies, which had moved to the Gulf coast after the privatization of Californian oil lands, hired three young women just out of college to work on their collection of fossils: [[material.esther applin]], [[material.alva ellisor]], and [[material.hedwig kniker]]. These young scientists were the first to identify, in 1921, the importance of fossil [[material.foraminifera]] in correlating and interpreting stratigraphies [^1]. Within three years from this breakthrough, 300 micropaleontologists were employed in the industry. By 1931 more than three quarters of all US oil wells used micropaleontologists. This discovery single-handedly revolutionized the oil industry and geology, bringing  what came to be known as _industrial micropaleontology_: micropaleontology came to be identified with the new tool of [[material.biostratigraphy]]. Capitalizing on this technoscientific development, one of the foremost experts on foraminifera at the time, [[material.joseph cushman]], used the profit of his work as a consultant for oil companies to open the Cushman laboratory. To this day, it remains one of the most important sites for the study of foraminiferal micropaleontology [^2]. Others followed in his footsteps as new generations of micropaleontologists needed to be trained for the needs of the extractive industries.
 
@@ -73,9 +112,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 >The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of fossil fuels had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century the methods for prospecting for oil were still rudimental and could not keep up with the increasing demand. To overcome this problem, oil companies had already been employing geologists since the end of the 19th century. It was geologists who had successfully mobilized the 'anticlinal' theory to discover new wells: as petroleum and natural gas migrate to the most elevated portions of permeable beds they can usually be found in anticlines. But after the first World War, faced with ever-growing demand, oil companies started exploring regions with more complex stratigraphies that presented obstacles to geologists - like the Gulf of Mexico. Seeking a solution to their geological problems, the extractive industries hired paleontologists in the hope that they could help geologists trace oil fields more effectively. As we saw earlier, though, microfossils had been effectively declared useless for these types of problems, because of their assumed long evolutionary ranges. Instead, early researchers focused on macrofossils to resolve these stratigraphical issues - with poor results.[^5]
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.[^6] [^7]
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.[^7]
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mdrWbd1F9Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
 
 [^1]: This history is told in detail in Gries, Robbie Rice. "How female geologists were written out of history: the micropaleontology breakthrough." _Geological Society of America Memoirs_ 214 (2018): 11-22. https://doi.org/10.1130/2018.1214(02)
 [^2]: Some important aspects of the history of this laboratory are narrated on the Smithsonian National Museum of Natural History's website: https://naturalhistory.si.edu/research/paleobiology/collections-overview/foraminifera-collections/joseph-cushman.
@@ -90,3 +132,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 :::DE:::
 
 The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[alias|material.fossil fuels]] had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century the methods for prospecting for oil were still rudimental and could not keep up with the increasing demand. To overcome this problem, oil companies had already been employing geologists since the end of the 19th century. It was geologists who had successfully mobilized the 'anticlinal' theory to discover new wells: as petroleum and natural gas migrate to the most elevated portions of permeable beds they can usually be found in anticlines. But after the first World War, faced with ever-growing demand, oil companies started exploring regions with more complex stratigraphies that presented obstacles to geologists - like the Gulf of Mexico. Seeking a solution to their geological problems, the extractive industries hired paleontologists in the hope that they could help geologists trace oil fields more effectively. As we saw earlier, though, microfossils had been effectively declared useless for these types of problems, because of their assumed long evolutionary ranges. Instead, early researchers focused on macrofossils to resolve these stratigraphical issues - with poor results.
+
+<article-map :slides="map_slide" ></article-map>
+
+stratigraphical

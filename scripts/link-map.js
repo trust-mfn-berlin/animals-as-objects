@@ -111,7 +111,8 @@ async function getContent(filePath, encoding = "utf-8") {
       title: dendronlinks[x].frontmatter.title,
       title_de: dendronlinks[x].frontmatter.title_de,
       tao_type: dendronlinks[x].frontmatter.tao_type,
-      cover_image: dendronlinks[x].frontmatter.cover_image
+      cover_image: dendronlinks[x].frontmatter.cover_image,
+      colour_scheme: dendronlinks[x].frontmatter.colour_scheme
     };
 
     // Check if this page is linked to anything
@@ -173,7 +174,8 @@ async function getContent(filePath, encoding = "utf-8") {
         title: article.frontmatter.title,
         title_de: article.frontmatter.title_de,
         tao_type: article.frontmatter.tao_type,
-        cover_image: article.frontmatter.cover_image
+        cover_image: article.frontmatter.cover_image,
+        colour_scheme: article.frontmatter.colour_scheme
       });
 
       for (let f = 0; f < article.forwardlinks.length; f++) {
@@ -191,7 +193,8 @@ async function getContent(filePath, encoding = "utf-8") {
           title: forwardlink.frontmatter.title,
           title_de: forwardlink.frontmatter.title_de,
           tao_type: forwardlink.frontmatter.tao_type,
-          cover_image: forwardlink.frontmatter.cover_image
+          cover_image: forwardlink.frontmatter.cover_image,
+          colour_scheme: forwardlink.frontmatter.colour_scheme
         });
         
         

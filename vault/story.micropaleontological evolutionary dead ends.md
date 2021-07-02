@@ -1,23 +1,47 @@
 ---
-id: 3494384f-3283-4c05-afda-b3d90e748325
-title: Micropaleontological Evolutionary Dead Ends
-desc: As micropaleontolgy started to take shape in the 19th century, it seemed to encounter a dead-end, as microfossil were interpreted to have changed little over geological times.
-updated: 1621867247554
-created: 1621516485888
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Filippo Bertoni.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: DE Micropaleontological Evolutionary Dead Ends
+created: 1621516485888
+author: Filippo Bertoni
+short_desc_de: DE Interest in microfossils seemed to fade
+date_end: ""
 published: false
+title: Micropaleontological Evolutionary Dead Ends
+updated: 1621867247554
+id: 3494384f-3283-4c05-afda-b3d90e748325
+translators:
+  translator_en_de: Anna von Rath
+desc: As micropaleontology started to take shape in the 19th century, it seemed
+  to encounter a dead end, as microfossils were interpreted to have changed
+  little over geological times.
+desc_de: DE As micropaleontology started to take shape in the 19th century, it
+  seemed to encounter a dead end, as microfossils were interpreted to have
+  changed little over geological times.
+short_desc: Interest in microfossils seemed to fade
+cover_image:
+  image: /images/cover-micropaleo-evo-dead-ends.png
+  alt: 'Caricature of Thomas Huxley from "Ballad of Bathybius" in Punch magazine,
+    1888. Karikatur von Thomas Huxley aus "Ballad of Bathybius" in Punch
+    Magazine, 1888. Source:
+    https://heidicon.ub.uni-heidelberg.de/api/v1/objects/uuid/5333ea03-1eea-4335-a9f4-7035bd9a2fb7/format/xslt/detail'
+tao_type: story
+date_start: ""
+colour_scheme: 0
 ---
 
 :::EN:::
 
+<figure>
+
 ![a litographic illustration representing the gelatinous substance interpreted as Bathybius](/images/filo/Bathybius_haeckelii_Haeckel_1870.png)
 
+<figcaption>
+
 _An image of_ Bathybius haeckelii, _which was believed to be a primordial protoplasm from the ocean floor and to offer evidence of the connection between inorganic matter and organic life. When the substance was proven to be an inorganic artifact caused by the alcohol used to preserve the samples, the controversy surrounding it contributed to slowing down early advances in micropaleontology._ [^micropaleontology1]
+
+</figcaption>
+
+</figure>
 
 By the second half of the century, better observations -revolutionized the scientific understanding of nature. Significant improvements in [[story.microscopy]] after the 1830s (which led to the formulation of current [[story.cell theory]]) and the mounting evidence for the transmutation of organisms, which culminated in the 1850s with [[material.charles darwin]]'s and [[material.alfred russel wallace]]'s evolutionary theories, aided these observations. However, despite these innovations, the characterization of microbial life and its role in the functioning of the planet and its history was still only beginning to take shape. Many naturalists continued the efforts of d'Orbigny and Ehrenberg to describe and classify microbial diversity. They were driven also by the intent to overcome the creationist positions of these 'founding fathers', who still considered evolution to be unfounded. Nevertheless, these early attempts to connect microorganisms and the evolution of life on the planet met with what seemed to be a dead end. 
 

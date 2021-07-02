@@ -1,7 +1,7 @@
 ---
 id: 41436ef8-914f-47ee-b88d-bdb0c6e9e8f6
 title: Landwirtschaftlicher Tierpark
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1621025456717
 created: 1619682127842
 title_de: Landwirtschaftlicher Tierpark
@@ -11,6 +11,7 @@ tao_type: material
 cover_image: null
 license: CC BY-SA
 published: false
+colour_scheme: 16
 ---
 
 :::EN:::

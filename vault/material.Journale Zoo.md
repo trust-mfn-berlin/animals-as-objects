@@ -1,16 +1,27 @@
 ---
-id: 4a663958-cb98-4cdd-967d-9b277f45cdc4
-title: Journals - the zoo directory
-desc: The so-called Journale is the register of the zoo stock for every year
-updated: 1621975035323
-created: 1620987289214
-title_de: Journale - Register der Tiere
-desc_de: In Journalen wird jedes Jahr seit 1888 festgehalten, welche Tiere in den Zoo kamen oder ihn verließen.
-author: CMW
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title: Journals - the zoo directory
+title_de: Journale - Register der Tiere
+created: 1620987289214
+updated: 1621975035323
+id: 4a663958-cb98-4cdd-967d-9b277f45cdc4
+author: Clemens Maier-Wolthausen
+translators:
+  translator_de_en: Lucy Gasser
+desc: EN Übersicht der Berliner Zoobestände seit 1888
+desc_de: Übersicht der Berliner Zoobestände seit 1888
+short_desc: EN Übersicht der Berliner Zoobestände seit 1888
+short_desc_de: Übersicht der Berliner Zoobestände seit 1888
+cover_image:
+  image: /images/cover-zoo-journal-stock-1936-example.jpg
+  alt: "Entries into the Berlin zoo directory, called Journale, 1936. Eintrag in
+    das Tierregister des Berliner Zoos, genannt Journale, 1936. Source: AZGB.
+    All rights reserved."
+tao_type: material
+date_start: ""
+date_end: 2021-06-30T12:21:00.358Z
 published: false
+colour_scheme: 11
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 id: c1507555-3a6f-412a-b030-449853551343
 title: Breeding Animals for the Zoo
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1619730266505
 created: 1618493542087
 title_de: Tiere züchten für den Zoo
@@ -11,6 +11,7 @@ tao_type: story
 cover_image: null
 license: CC BY-SA
 published: false
+colour_scheme: 7
 ---
 
 :::EN:::

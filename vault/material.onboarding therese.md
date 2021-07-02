@@ -1,7 +1,7 @@
 ---
 id: 64f2ee9a-8026-4117-be1d-702f8c599567
 title: Onboarding Therese
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1619789941089
 created: 1619789061169
 title_de: Add a german title here
@@ -11,6 +11,7 @@ tao_type: material
 cover_image: null
 license: CC BY-SA
 published: false
+colour_scheme: 5
 ---
 
 :::EN:::

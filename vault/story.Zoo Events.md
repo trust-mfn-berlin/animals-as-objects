@@ -1,8 +1,8 @@
 ---
 id: cd6a6afd-d27d-4871-9bd1-0949c612a901
 title: Zoo Events
-desc: Put a description of this note here...
-updated: 1619729905731
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+updated: 1624456185250
 created: 1619729376946
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -11,6 +11,7 @@ tao_type: story
 cover_image: null
 license: CC BY-SA
 published: false
+colour_scheme: 17
 ---
 
 :::EN:::
@@ -18,7 +19,7 @@ published: false
 
 :::DE:::
 
-# Nicht nur die Tiere - Zoobesuche als Events
+## Nicht nur die Tiere - Zoobesuche als Events
 
 ## Das erwünschte Publikum des Berliner Zoos zur Gründung
 
@@ -54,5 +55,7 @@ published: false
 ## Zirkus, Boxzelt und Oktoberfeste
 
 ## Tierpark als Familientagesausflug
+
+## Tierpark als politische Bühne
 
 

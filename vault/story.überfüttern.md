@@ -1,16 +1,25 @@
 ---
-id: dfe31be6-b21f-496f-af23-70f225c0616c
-title: üBerfüTtern
-desc: Put a description of this note here...
-updated: 1624527579172
-created: 1620752738850
-title_de: Überfüttern
-desc_de: Put a DE description of this note here...
-author: mv
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title: üBerfüTtern
+title_de: Füttern und Überfüttern
+created: 1620752738850
+updated: 1624957226907
+id: dfe31be6-b21f-496f-af23-70f225c0616c
+author: Mareike Vennen
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+desc_de: "Als 1960 im Berliner Zoo ein Elefant starb, lautete die Diagnose: Überfütterung durch Zoobesucher*innen. Das löste eine kontroverse Debatte um die richtige Ernährung von Zootieren aus – eine Frage, die bis zu den Anfängen zoologischer Gärten im 19. Jahrhundert zurückreicht. Wer darf füttern und vor allem was und wieviel?"
+short_desc: EN short desc
+short_desc_de: Wer (über)füttert im Zoo?
+cover_image:
+  image: /images/cover-overfeeding.jpg
+  alt: Bild newspaper headline on the elephant "Jambo's" illness due to
+    overfeeding, Berlin 1960. Schlagzeile der Bild-Zeitung zu Elefant "Jambos"
+    Erkrankung durch Überfütterung, Berlin 1960.
+tao_type: story
+date_start: ""
+date_end: ""
 published: false
+colour_scheme: 16
 ---
 
 
@@ -63,14 +72,3 @@ Und auch die damaligen Briefe von Besucher\*innen an den Zoo zeigen, dass das ei
 [^Überfüttern6]: Kallmann, E. "Die Krankheiten der Tiere im Zoologischen Garten in Berlin." _Tierärztliche Rundschau_ 28 (12.07.1925): 482-484.
 
 [^Überfüttern7]: de Luce, Daniel. "Lebensmittelkarte 5 im Berliner Zoo." _Tägliche Rundschau_, 17.12.1946.
-
-
-
-
-
-
-
-
-
-
-

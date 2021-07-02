@@ -1,7 +1,7 @@
 ---
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 title: Showing Animals
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1621609663784
 created: 1618572893774
 title_de: Tiere ausstellen
@@ -11,6 +11,7 @@ tao_type: theme
 cover_image: null
 license: CC BY-SA
 published: false
+colour_scheme: 14
 ---
 
 :::EN:::

@@ -7,18 +7,18 @@
         <li>Author: <span>{{article.author}}</span></li>
         <li>Text License: <span>{{article.license}}</span></li>
         <li v-if="article.doi">DOI: <span>{{article.doi}}</span></li>
-        <li>Last updated: <span>{{article.updatedAt}}</span></li>
+        <li>Last updated: <span>{{article.updatedAt | formatDate}}</span></li>
       </ul>
       <div class="button-array">
-        <text-button linkto="">Download PDF</text-button>
-        <text-button linkto="" @click.native="openCitationModal">Cite this Article</text-button>
+        <text-button type="button" >Download PDF</text-button>
+        <text-button type="button" @click.native="openCitationModal">Cite this Article</text-button>
       </div>
     </section>
 
-    <template v-if="siteLang == 'en'">
+    <template v-if="siteLang == 'en' && article.toc">
       <contents :toc="article.toc" label="table of contents" />
     </template>
-    <template v-if="siteLang == 'de'">
+    <template v-if="siteLang == 'de' && article.body_de.toc">
       <contents :toc="article.body_de.toc" label="Inhaltsverzeichnis" />
     </template>
 
@@ -27,14 +27,16 @@
       <graph-backlinks  :article="{slug: article.slug, title: article.title, tao_type: article.tao_type}" :backlinks="article.backlinks"/>
     </section>
 
-    <section id="section-routes" v-if="matchedRoutes.length > 0">
+    <!-- <section id="section-routes" v-if="matchedCuratedRoutes.length > 0">
       <h3 class="f-mono subheading">This page appears in these Curated Routes</h3>  
       <ul>
-        <li v-for="route in matchedRoutes" :key="route.slug">
+        <li v-for="route in matchedCuratedRoutes" :key="route.slug">
           <nuxt-link :to="'/routes/' + route.slug">{{route.title}}</nuxt-link>
         </li>
       </ul>
-    </section>
+    </section> -->
+
+    <curatedRoutes :slug="article.slug"/>
 
     <section id="section-footnotes" v-if="footnotesParsed">
       <h3 class="f-mono subheading ">Footnotes</h3>
@@ -47,11 +49,12 @@
 
 <script>
 import contents from './sidebar/contents.vue'
+import curatedRoutes from './sidebar/sidebar-curated-routes.vue'
 
 
 export default {
   name:'sidebar',
-  components: { contents },
+  components: { contents, curatedRoutes },
   props:{
     article:{
       type: Object,
@@ -69,7 +72,7 @@ export default {
   data(){
     return{
       footnotesParsed:'',
-      matchedRoutes:[]
+      matchedCuratedRoutes:[]
     }
   },
   computed:{
@@ -89,23 +92,6 @@ export default {
 
   },
   methods:{
-     matchRoutes(link){
-
-      for (let i = 0; i < this.$store.getters.loadedRoutes.length; i++) {
-        const storeRoute = this.$store.getters.loadedRoutes[i];
-         
-        for (let a = 0; a < storeRoute.articles.length; a++) {
-          const storeRouteArticle = storeRoute.articles[a].article;
-
-          const s = storeRouteArticle.toLowerCase();
-          const l = link.toLowerCase();
-          if(s === l){
-            this.matchedRoutes.push(storeRoute);
-          }
-          
-        }
-      }
-    },
     openCitationModal(){
       this.$store.commit('toggleCitationModal', {isOpen: true, article: this.article});
     },
@@ -145,7 +131,6 @@ export default {
     this.$nextTick(function(){
       this.addFootnoteBacklinkListener();
     })
-    this.matchRoutes(this.article.slug);
   },
   beforeDestroy(){
     this.removeEventListeners();
@@ -174,10 +159,9 @@ export default {
 aside{
   display: block;
   position: fixed;
-  width: 33vw;
-  max-width: 20rem;
-  // height: 100%;
+  width: 20rem;
   background-color: @white;
+  overflow-y: auto;
   top:0;
   bottom: 0;
   right: 0;
@@ -197,6 +181,8 @@ aside{
   }
 
   section{
+
+    overflow-x:hidden;
     border-bottom: 2px solid @bg;
     padding: @space-m;
 
@@ -206,6 +192,12 @@ aside{
 
     h3{
       margin-bottom: 1rem;
+    }
+
+    &#section-details{
+      li{
+        margin-bottom: 0.4rem;
+      }
     }
 
     &#section-backlinks{

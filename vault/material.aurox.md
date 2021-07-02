@@ -1,7 +1,7 @@
 ---
 id: a183cdad-6536-4c57-88fb-0ee206c09905
 title: Aurox
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1623162786305
 created: 1623162786305
 title_de: Add a german title here
@@ -11,6 +11,7 @@ tao_type: material
 cover_image: null
 license: CC BY-SA
 published: false
+colour_scheme: 3
 ---
 
 

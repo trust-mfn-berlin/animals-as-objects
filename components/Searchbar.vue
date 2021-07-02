@@ -11,8 +11,9 @@
       
     />
     <ul class="searchbar-results" v-if="articles.length">
-      <li v-for="article of articles" :key="article.slug">
+      <li v-for="article of articles" :key="article.slug" >
         <Inline 
+          v-if="article.archived != true"
           :article="article"
           @click.native="closeSearchBar"
         />

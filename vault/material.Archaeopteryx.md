@@ -6,19 +6,13 @@ created: 1619176107292
 updated: 1619176171211
 id: ebf000e1-5848-4d8b-b778-63de961b7392
 author: CMW
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 desc_de: Put a DE description of this note here...
 cover_image: null
 tao_type: material
 published: false
-map_slide:
-  - caption: "Lorem ipsum dolor sit amet "
-    coordinates: '{"type":"Point","coordinates":[15.9789276,40.4485147]}'
-  - caption: Lorem ipsum dolor sit aaaaa
-    coordinates: '{"type":"Point","coordinates":[25.6283569,41.8818314]}'
-map:
-  - mapdata_caption: "Lorem ipsum dolor sit amet "
-    mapdata: '{"type":"Point","coordinates":[9.7189522,52.3694682]}'
+colour_scheme: 17
+archived: false
 ---
 
 :::EN:::

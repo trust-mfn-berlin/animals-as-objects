@@ -14,6 +14,21 @@ collections:
     folder: "vault"
     format: "frontmatter"
     create: false
+    view_filters:
+      - label: themes
+        field: tao_type
+        pattern: 'theme'
+      - label: materials
+        field: tao_type
+        pattern: 'material'
+      - label: stories
+        field: tao_type
+        pattern: 'story'
+    view_groups:
+      - label: type
+        field: tao_type
+      - label: author
+        field: author
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: false
@@ -24,6 +39,7 @@ collections:
       - { label: "Updated", name: "updated", widget: "number" }
       - { label: "ID", name: "id", widget: "string" }
       - { label: "Author", name: "author", widget: "string" }
+      - { label: "DOI", name: "doi", widget: "string", required: false, hint: "DOI number only z.B. 10.7479/qv3p-3619" }
       - label: "Translator(s)"
         name: "translators"
         widget: "object"
@@ -45,14 +61,49 @@ collections:
         fields:
           - { label: "Image", name: "image", required: false, widget: "image"}
           - { label: "Description", hint: "for SEO and accessibility purposes", name: "alt", required: false, widget: "string"}
+      - { label: "Colour Scheme", name: "colour_scheme", widget: "number", required: false, min: 0, max: 18, value_type: "int", hint: "number refers to colour scheme. https://dev.animalsasobjects.org/colours/" }
       - label: "TAO Content type"
         name: "tao_type"
         widget: "select"
         options: ["theme", "material", "story"]
       - { label: "Date start", name: "date_start", widget: "datetime", default: "", required: false }
       - { label: "Date end (if applicable)", name: "date_end", widget: "datetime", default: "", required: false }
-      - { label: "Published", name: "published", widget: "boolean", required: false }
+      - { label: "Archived", name: "archived", widget: "boolean", hint: "Don't show this article", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
+      - label: 'Map slide'
+        name: 'map_slide'
+        widget: 'list'
+        collapsed: false
+        fields:
+          - label: 'Slide Title'
+            name: 'title'
+            widget: 'string'
+          - label: 'Slide Title DE'
+            name: 'title_de'
+            widget: 'string'
+          - label: 'Map slide caption'
+            name: 'caption'
+            widget: 'string'
+          - label: 'Map slide caption DE'
+            name: 'caption_de'
+            widget: 'string'
+          - label: "Caption image"
+            name: "caption_image"
+            widget: "object"
+            collapsed: true
+            allow_multiple: false
+            required: false
+            fields:
+              - { label: "Image", name: "src", required: false, widget: "image"}
+              - { label: "Description", hint: "for SEO and accessibility purposes", name: "alt", required: false, widget: "string"}
+          - label: 'Map image'
+            name: 'map_image'
+            widget: 'image'
+          - label: 'Map image DE'
+            name: 'map_image_de'
+            widget: 'image'
+            hint: 'if labels are needed in DE use this field'
+            required: false
   - name: "pages"
     label: "Pages"
     files:
@@ -148,3 +199,7 @@ collections:
             display_fields: ['title']
             search_fields: ['title', 'title_de', 'author', 'tao_type', 'body']
             value_field: '{{slug}}'
+      - label: "PDF collection"
+        name: "pdf"
+        hint: ".zip file with PDFs"
+        widget: "file"

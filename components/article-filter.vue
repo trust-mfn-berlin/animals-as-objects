@@ -1,7 +1,8 @@
 <template>
-  <div role="radiogroup" aria-labelledby="filter-label">
+  <div class="subnav-filter" role="radiogroup" aria-labelledby="filter-label">
     <text-button role="radio" aria-checked="false" linkto="" id="filter-label" :isDisabled="true">Sort By</text-button>
     <text-button 
+      class="filter"
       v-for="(filter, i) in filterOptions"
       :key="filter.name"
       role="radio" 
@@ -56,5 +57,12 @@ export default {
 </script>
 
 <style lang="less" scoped>
-
+.subnav-filter{
+  position: fixed;
+  top:3rem;
+  
+  .filter{
+    margin-right: @space-xs;
+  }
+}
 </style>
