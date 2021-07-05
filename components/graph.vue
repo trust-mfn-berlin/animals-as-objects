@@ -24,24 +24,24 @@ const title_nodes = [
     slug:"title_animals",
     title:"Animals",
     title_de:"Tiere",
-    isText: true
+    isText: true,
   },{
     slug:"title_as",
     title:"as",
     title_de:"als",
-    isText: true
+    isText: true,
   },{
     slug:"title_objects",
     title:"Objects",
     title_de:"Objekte",
-    isText: true
+    isText: true,
   }
 ]
 
 const title_links = [
-  {source:"title_animals", target: graphData.nodes[0].slug,"value":1},
-  {source:"title_as", target: graphData.nodes[0].slug,"value":1},
-  {source:"title_objects", target: graphData.nodes[0].slug,"value":1},
+  {source:"title_animals", target: graphData.nodes[0].slug, value:1, titleLink:true},
+  {source:"title_as", target: graphData.nodes[0].slug, value:1, titleLink:true},
+  {source:"title_objects", target: graphData.nodes[0].slug, value:1, titleLink:true},
 ]
 
 graphData.nodes.push(...title_nodes)
@@ -61,7 +61,8 @@ export default {
         },
         nodeSize: 75,
         rootNodeSize: 180,
-        storyRadius: 15
+        storyRadius: 15,
+        titleTextWidthValue: 40
       },
       
     }
@@ -79,11 +80,17 @@ export default {
         .attr("height", this.attr.height);
 
       const simulation = d3.forceSimulation(graphData.nodes)
-        .force("link", d3.forceLink(graphData.links).id(d => d.slug).distance(function(d) {if(d.relation == 'text'){console.log(d.relation); return 1} else {return 200}}))
+        .force("link", d3.forceLink(graphData.links).id(d => d.slug).distance(function(d) {if(d.titleLink){ return 300} else {return 250}}))
         .force("charge", d3.forceManyBody().strength(function(d){if (d.index === 0){ return -6000 } else { return -600}}).distanceMin(1).distanceMax(500))
         .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2))
         // .force("radial", d3.forceRadial(this.attr.height * 1))
-        .force("collide", d3.forceCollide(80).strength(0.2))
+        .force("collide", d3.forceCollide(function(d){
+          if(d.isText){
+            return 120
+          } else {
+            return 90
+          }
+        }).strength(0.2))
 
       const link = svg.append("g")
         .attr("stroke", "#fff")
@@ -99,7 +106,13 @@ export default {
         .data(graphData.nodes)
         .enter()
         .append('g')
-        .attr('class', 'nodechild')
+        .attr('class', function(d){
+          if(d.isText) {
+            return 'nodechild title'
+          } else {
+            return 'nodechild'
+          }
+        })
         .attr('id', function(d) {
           return d.slug
         })
@@ -110,21 +123,25 @@ export default {
         node.append("rect")
           .attr('x', function(d , i){
             if(d.index === 0){
-              return that.attr.rootNodeSize/2 * -1
+              return that.attr.rootNodeSize*-0.5
+            } else if(d.isText){
+              return (d.title.length * that.attr.titleTextWidthValue)* -0.5
             } else {
-              return that.attr.nodeSize/2 * -1
+              return that.attr.nodeSize*-0.5
             }
           })
           .attr('y', function(d , i){
             if(d.index === 0){
-              return that.attr.rootNodeSize/2 * -1
+              return that.attr.rootNodeSize*-0.5
             } else {
-              return that.attr.nodeSize/2 * -1
+              return that.attr.nodeSize*-0.5
             }
           })
           .attr('width', function (d, i) {
             if(d.index === 0){
               return that.attr.rootNodeSize
+            } else if(d.isText) {
+              return d.title.length * that.attr.titleTextWidthValue 
             } else {
               return that.attr.nodeSize
             }
@@ -137,7 +154,7 @@ export default {
             }
           })
           .attr('fill', function (d, i) {
-            if(d.letter == true){
+            if(d.isText == true){
               return '#000'
             } else {
               // return colorScale(i)
@@ -147,7 +164,7 @@ export default {
             
           })
           .attr('rx', function (d, i) {
-            if(d.letter == true){
+            if(d.isText == true){
               return 25
             } else if (d.tao_type == 'material'){
               return 500
@@ -209,20 +226,22 @@ export default {
           .attr("dy", function(d){
             if(d.index === 0){
               return that.attr.rootNodeSize*0.8 + 'px'
+            } else if(d.isText){
+              return '20px'
             } else {
               return that.attr.nodeSize + 'px'
             }
           })
           .attr("font-family", "CentSchbook Mono BT")
           .attr('font-size', function (d, i) {
-            if(d.letter == true){
+            if(d.isText == true){
               return '56px'
             }
             return '0.5rem'
           })
           .attr('fill', function (d, i) {
-            if(d.letter == true){
-              return '#000'
+            if(d.isText == true){
+              return '#fff'
             }
             return '#000'
           })
@@ -322,6 +341,8 @@ export default {
         });
 
         node.on('click', function(event, d){
+
+          if(d.isText){return}
 
           // link.style('stroke', "transparent");
 
@@ -456,6 +477,10 @@ export default {
 ::v-deep svg{
   .nodechild{
     cursor: pointer;
+
+    &.title{
+
+    }
   }
 }
 
