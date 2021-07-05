@@ -10,7 +10,7 @@ const fs = require('fs-extra');
 // 3. Visit Print Version of every Article (animals-as-objects/de/theme.taxonomical orders/print)
 // 4. Wait until everything is loaded
 // 5. Export PDF in A4 with Headers and Footers to static folder
-// 6. Close Browser
+// 6. Close Browser.
 
 const contentDir = path.join(__dirname, '..', 'vault');
 const exportDir = path.join(__dirname, '..', 'static/pdf');
