@@ -1,9 +1,0 @@
-version: 1
-schemas:
-- id: material
-  title: material
-  namespace: true
-  parent: root
-  template:
-    id: templates.material
-    type: note
