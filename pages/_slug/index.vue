@@ -4,7 +4,7 @@
     <hgroup class="heading article-header" :style="{background:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
       <div class="heading-inner"><h1>{{article.title}}</h1>
       <h3 class="lead subheading f-mono">
-        <span class="type" :class="article.tao_type" >{{article.tao_type}}</span>
+        <span class="type" v-if="article.tao_type" :class="article.tao_type" >{{article.tao_type}}</span>
         <span v-if="article.short_desc">{{article.short_desc}}</span>
         <span v-else>I need a short description!</span>
       </h3>
@@ -25,7 +25,9 @@
 
     
   </main>
-  <sidebar :article="article" :footnotes="footnotes" :activeFootnote="activeFootnote"/>
+
+  <!-- <sidebar :article="article" :footnotes="footnotes" :activeFootnote="activeFootnote"/> -->
+
   </div>
 </template>
 
@@ -72,6 +74,13 @@ export default {
       if(!this.$store.getters.isSidebarOpen) this.$store.commit('toggleSidebar', true)
       this.activeFootnote = hash.replace('#','sidebar-')
       // console.log(hash)
+    },
+    initPage(){
+      // await this.article;
+      if(this.article){
+        document.documentElement.style.setProperty("--current-scheme-bg", "var(--scheme-"+this.article.colour_scheme+"-bg)");
+        document.documentElement.style.setProperty("--current-scheme-fg", "var(--scheme-"+this.article.colour_scheme+"-fg)");
+      }
     }
 
   },
@@ -84,13 +93,15 @@ export default {
     // make sure correct language
     this.$store.commit('setSiteLanguage', 'en')
     // set current tao-type in store
-    this.$store.commit('setArticleTaoType', this.article.tao_type);
+    // this.$store.commit('setArticleTaoType', this.article.tao_type);
   },
   mounted(){
 
+    console.log('Mounted', this.article);
+
     // update colour scheme
-    document.documentElement.style.setProperty("--current-scheme-bg", "var(--scheme-"+this.article.colour_scheme+"-bg)");
-    document.documentElement.style.setProperty("--current-scheme-fg", "var(--scheme-"+this.article.colour_scheme+"-fg)");
+    
+    this.initPage();
 
     // copy footnotes into sidebar
     if(document.getElementsByClassName('footnotes')[0]){
@@ -107,27 +118,32 @@ export default {
   beforeDestroy(){
     this.removeEventListeners();
   },
-  async asyncData({ $content, params, error, payload }) {
+  async asyncData({ $content, params, error, payload, store }) {
     var article = {};
 
     // console.log(payload);
 
     if(payload){
-      article = await payload
-      // console.log('PAYLOAD', article);
-      return { article }
+      console.log('PAYLOAD');
+      article = await payload;
+      store.commit('setArticleTaoType', article.tao_type);
+      return { 
+        article
+      }
     } else {
       // console.log('no payload, fetching fresh data')
-    try {
-      const data = await $content(params.slug).fetch();
-      article = data;
-    } catch (e) {
-      error({ message: e });
-    }
+      try {
+        const data = await $content(params.slug).fetch();
+        article = data;
+        store.commit('setArticleTaoType', article.tao_type);
+        console.log(article);
+      } catch (e) {
+        error({ message: e });
+      }
 
-    return {
-      article,
-    };
+      return {
+        article,
+      };
     }
   },
 };
