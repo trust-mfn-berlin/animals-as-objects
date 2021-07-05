@@ -4,7 +4,7 @@ export default function ({store, app, context, route}) {
   // https://www.npmjs.com/package/uuid
 
   if(process.server){
-    console.log('yo server');
+    // console.log('yo server');
   }
 
   if(process.client){
