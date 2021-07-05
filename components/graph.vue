@@ -446,7 +446,7 @@ export default {
       }
       
       function dragended(event) {
-        if (!event.active) simulation.alphaTarget(0.0001);
+        if (!event.active) simulation.alphaTarget(0.00005);
         event.subject.fx = null;
         event.subject.fy = null;
       }
@@ -480,6 +480,7 @@ export default {
     cursor: pointer;
     // -webkit-filter: drop-shadow( 0px 4px 10px rgba(0, 0, 0, 0.05));
     &.title{
+      cursor: grab;
       // -webkit-filter: drop-shadow( 0px 4px 10px rgba(0, 0, 0, 0.05));
     }
     // &:hover{
