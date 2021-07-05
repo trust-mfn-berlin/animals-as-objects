@@ -26,7 +26,7 @@
     
   </main>
 
-  <!-- <sidebar :article="article" :footnotes="footnotes" :activeFootnote="activeFootnote"/> -->
+  <sidebar :article="article" :footnotes="footnotes" :activeFootnote="activeFootnote"/>
 
   </div>
 </template>
@@ -97,7 +97,7 @@ export default {
   },
   mounted(){
 
-    console.log('Mounted', this.article);
+    // console.log('Mounted', this.article);
 
     // update colour scheme
     
