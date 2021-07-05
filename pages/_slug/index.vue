@@ -136,7 +136,7 @@ export default {
         const data = await $content(params.slug).fetch();
         article = data;
         store.commit('setArticleTaoType', article.tao_type);
-        console.log(article);
+        // console.log(article);
       } catch (e) {
         error({ message: e });
       }
