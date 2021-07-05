@@ -132,6 +132,14 @@ export default {
         .attr("height", this.attr.nodeSize)
         .attr("rx", this.attr.storyRadius)
 
+      defs.append("clipPath")
+        .attr("id", "theme-clip")
+        .append("rect")
+        .attr("x", this.attr.nodeSize*-0.5)
+        .attr("y", this.attr.nodeSize*-0.5)
+        .attr("width", this.attr.nodeSize)
+        .attr("height", this.attr.nodeSize)
+
       node.append("rect")
         // .attr("r", this.attr.nodeSize)
         .attr("x", this.attr.nodeSize*-0.5)
@@ -242,6 +250,7 @@ export default {
         .attr("clip-path", function(d){
           if(d.tao_type == 'story') return "url(#story-clip)"
           if(d.tao_type == 'material') return "url(#material-clip)"
+          if(d.tao_type == 'theme') return "url(#theme-clip)"
         })
         .style("opacity", function(d){
           if(d.slug == that.article.slug) return '0'
