@@ -6,9 +6,9 @@
       <citation-modal  :article="this.$store.getters.isCitationModal.article"/>
     </div>
 
-    <Nuxt />
+    <Nuxt @click.native="closeSearchBar"/>
 
-    <Footer />
+    <Footer @click.native="closeSearchBar"/>
 
     <cookie-bar />
     
@@ -23,6 +23,11 @@ export default {
     }
   },
   methods:{
+    closeSearchBar(){
+      if(this.$store.getters.isSearchbarOpen){
+        this.$store.commit('toggleSearchBar', false);
+      }
+    },
     addCurrentRoute(){
       if(this.$route.params.slug){
         if(this.$route.params.slug == this.$store.getters.currentRouteLastPage){

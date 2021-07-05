@@ -1,16 +1,17 @@
-<template>
+<template>  
   <div class="searchbar-container" role="search" aria-label="Find articles on this website">
     <input
       ref="searchbar"
+      id="thesearchbar"
       class="f-mono subheading"
       v-model="searchQuery"
       type="search"
       autocomplete="off"
       spellcheck="false"
       placeholder="Search Articles"
-      
+      @click="activateSearchBar"
     />
-    <ul class="searchbar-results" v-if="articles.length">
+    <ul class="searchbar-results" id="the-searchbar-results" v-if="articles.length && isSearchbarOpen">
       <li v-for="article of articles" :key="article.slug" >
         <Inline 
           v-if="article.archived != true"
@@ -28,21 +29,28 @@ export default {
   data(){
     return{
       searchQuery:'',
-      articles: []
+      articles: [],
     }
   },
+  computed:{
+    isSearchbarOpen(){
+      return this.$store.getters.isSearchbarOpen;
+    },
+  },
   methods:{
+    activateSearchBar(){
+      this.$store.commit('toggleSearchBar', true);
+    },
     focusSearchBar(){
       this.$refs.searchbar.focus();
     },
-    expandSearchBar(){
-      this.$store.commit('toggleSearchBar', true)
-    },
     closeSearchBar(){
+
       console.log('emptying searchbar...');
-      // this.$store.commit('toggleSearchBar', false);
       this.articles = [];
-    }
+      this.$store.commit('toggleSearchBar', false);
+
+    },
   },
   watch: {
     async searchQuery(searchQuery) {
@@ -71,8 +79,10 @@ export default {
   border: none;
   margin: 0;
 
-  background-color: rgba(255,255,255,0.1);
+  // background-color: rgba(255,255,255,0.2);
+  background-color: rgba(255,255,255,0.7);
   backdrop-filter: blur(15px);
+  // height: 2rem;
 
   &:hover{
     box-shadow: @shadow-hover;
@@ -113,6 +123,7 @@ input[type='search']{
   margin: 0;
   // width:100%;
   width:5rem;
+  height: 2rem;
 
   .animatemedium(all);
 
@@ -135,9 +146,13 @@ input[type='search']{
   }
 }
 
+input[type='search']:focus + .searchbar-results{
+  // display: block;
+}
+
 .searchbar-results{
+  // display: none;
   padding: 0.625rem 0.8rem 0.7rem;
-  // display: flex;
 
   li{
     margin-bottom: @space-xs;

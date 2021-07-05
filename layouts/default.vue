@@ -2,9 +2,9 @@
   <div class='layout-container'>
     <Navigation />
     
-    <Nuxt />
+    <Nuxt @click.native="closeSearchBar"/>
 
-    <Footer />
+    <Footer @click.native="closeSearchBar"/>
 
     <cookie-bar />
     
@@ -15,6 +15,11 @@
 export default {
   name:'layout-default',
   methods:{
+    closeSearchBar(){
+      if(this.$store.getters.isSearchbarOpen){
+        this.$store.commit('toggleSearchBar', false);
+      }
+    },
     addCurrentRoute(){
       if(this.$route.params.slug){
         if(this.$route.name == 'routes-slug'){

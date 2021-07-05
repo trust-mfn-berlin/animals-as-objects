@@ -1,7 +1,7 @@
 <template>
   <header>
   <nav aria-label="Main">
-    <ul class="primary" :class="{open : isSearchbarOpen}">
+    <ul class="primary">
       <li>
         <text-button class="primary-nav-item" :linkto="rootUrl">Animals as Objects?</text-button>
       </li>
@@ -15,7 +15,7 @@
       <li>
         <text-button :linkto="switchUrlComposed">{{siteLangSwap}}</text-button>
       </li>
-      <li :class="{open : isSearchbarOpen}">
+      <li>
         <Searchbar />
       </li>
     </ul>
@@ -58,9 +58,6 @@ export default {
       } else {
         return "Open Sidebar"
       }
-    },
-    isSearchbarOpen(){
-      return this.$store.getters.isSearchbarOpen
     },
     isSidebarOpen(){
       return this.$store.getters.isSidebarOpen
