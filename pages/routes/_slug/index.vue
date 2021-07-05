@@ -1,5 +1,6 @@
 <template>
   <div class="route-container">
+    
     <hgroup class="page-header">
       <h1 class="f-serif">{{route.title}}</h1>
       <h3 class="subheading f-mono">
@@ -27,6 +28,8 @@
       <Cascade :articles="articles"/>
       <text-button v-if="route.pdf" type="anchor" :linkto="route.pdf">Download this Route as a PDF</text-button>
     </section>
+
+    <route-breadcrumb :route="route"/>
 
     </main>
   </div>
