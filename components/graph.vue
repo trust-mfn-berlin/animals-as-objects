@@ -16,10 +16,36 @@
 
 <script>
 import * as d3 from 'd3'
-
 import featuredGraphData from '~/temp/graphdata.json';
+var graphData = featuredGraphData[0];
 
-const graphData = featuredGraphData[0];
+const title_nodes = [
+  {
+    slug:"title_animals",
+    title:"Animals",
+    title_de:"Tiere",
+    isText: true
+  },{
+    slug:"title_as",
+    title:"as",
+    title_de:"als",
+    isText: true
+  },{
+    slug:"title_objects",
+    title:"Objects",
+    title_de:"Objekte",
+    isText: true
+  }
+]
+
+const title_links = [
+  {source:"title_animals", target: graphData.nodes[0].slug,"value":1},
+  {source:"title_as", target: graphData.nodes[0].slug,"value":1},
+  {source:"title_objects", target: graphData.nodes[0].slug,"value":1},
+]
+
+graphData.nodes.push(...title_nodes)
+graphData.links.push(...title_links)
 
 export default {  
   data () {
@@ -33,7 +59,9 @@ export default {
           left: 0,
           bottom: 0,
         },
-        nodeSize: 75
+        nodeSize: 75,
+        rootNodeSize: 180,
+        storyRadius: 15
       },
       
     }
@@ -52,14 +80,10 @@ export default {
 
       const simulation = d3.forceSimulation(graphData.nodes)
         .force("link", d3.forceLink(graphData.links).id(d => d.slug).distance(function(d) {if(d.relation == 'text'){console.log(d.relation); return 1} else {return 200}}))
-        .force("charge", d3.forceManyBody().strength(-600).distanceMin(1).distanceMax(500))
+        .force("charge", d3.forceManyBody().strength(function(d){if (d.index === 0){ return -6000 } else { return -600}}).distanceMin(1).distanceMax(500))
         .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2))
-        .force("radial", d3.forceRadial(this.attr.height / 2))
+        // .force("radial", d3.forceRadial(this.attr.height * 1))
         .force("collide", d3.forceCollide(80).strength(0.2))
-
-      let colorScale = d3.scaleOrdinal()
-        .domain(d3.range(graphData.nodes.length))
-        .range(["#84E3B0","#FA9129","#C64C4C","#EE9389","#9A7051","#0047FF","#DD3821","#6E2E60","#F5C721"])
 
       const link = svg.append("g")
         .attr("stroke", "#fff")
@@ -70,16 +94,12 @@ export default {
         .attr("stroke-width", d => d.value);
 
       const node = svg.append("g")
-        
+        .attr('class', 'nodeparent')
         .selectAll("rect")
         .data(graphData.nodes)
         .enter()
         .append('g')
-        .attr('transform', function (d) {
-          // let cirX = d.x
-          // let cirY = d.y
-          // return 'translate(' + cirX + ',' + cirY + ')'
-        })
+        .attr('class', 'nodechild')
         .attr('id', function(d) {
           return d.slug
         })
@@ -88,35 +108,30 @@ export default {
         
 
         node.append("rect")
-          // .attr("r", function(d) {
-          //   if(d.radius == 'big'){
-          //     return 70
-          //   } else {
-          //     return 37.5
-          //   }
-          // })
           .attr('x', function(d , i){
-            if(d.letter && d.width){
-              return that.attr.nodeSize*d.width/2 * -1
+            if(d.index === 0){
+              return that.attr.rootNodeSize/2 * -1
             } else {
               return that.attr.nodeSize/2 * -1
             }
           })
-          .attr('y', that.attr.nodeSize/2 * -1)
+          .attr('y', function(d , i){
+            if(d.index === 0){
+              return that.attr.rootNodeSize/2 * -1
+            } else {
+              return that.attr.nodeSize/2 * -1
+            }
+          })
           .attr('width', function (d, i) {
-            if(d.letter && d.width){
-              return 80 * d.width
-            } else if(d.radius == 'big') {
-              return 120
+            if(d.index === 0){
+              return that.attr.rootNodeSize
             } else {
               return that.attr.nodeSize
             }
           })
           .attr('height', function (d, i) {
-            if(d.letter){
-              return 80
-            } else if(d.radius == 'big') {
-              return 120
+            if(d.index === 0){
+              return that.attr.rootNodeSize
             } else {
               return that.attr.nodeSize
             }
@@ -135,7 +150,7 @@ export default {
             if(d.letter == true){
               return 25
             } else if (d.tao_type == 'material'){
-              return 50
+              return 500
             } else if (d.tao_type == 'story'){
               return 20
             } else if (d.tao_type == 'theme'){
@@ -143,9 +158,61 @@ export default {
             }
           })
 
+        node.append("image")
+          .attr("xlink:href", function(d){
+            if (d.cover_image && d.cover_image.image){
+              return d.cover_image.image 
+            }
+          })
+          .attr('x', function(d , i){
+            if(d.index === 0){
+              return that.attr.rootNodeSize * -1
+            } else {
+              return that.attr.nodeSize * -1
+            }
+          })
+          .attr('y', function(d , i){
+            if(d.index === 0){
+              return that.attr.rootNodeSize * -1
+            } else {
+              return that.attr.nodeSize * -1
+            }
+          })
+          .attr('width', function(d , i){
+            if(d.index === 0){
+              return that.attr.rootNodeSize * 2
+            } else {
+              return that.attr.nodeSize * 2
+            }
+          })
+          .attr('height', function(d , i){
+            if(d.index === 0){
+              return that.attr.rootNodeSize * 2
+            } else {
+              return that.attr.nodeSize * 2
+            }
+          })
+          .attr("clip-path", function(d){
+            if(d.index === 0){
+              if(d.tao_type == 'story') return "url(#story-clip-big)"
+              if(d.tao_type == 'material') return "url(#material-clip-big)"
+              if(d.tao_type == 'theme') return "url(#theme-clip-big)"
+            } else {
+              if(d.tao_type == 'story') return "url(#story-clip)"
+              if(d.tao_type == 'material') return "url(#material-clip)"
+              if(d.tao_type == 'theme') return "url(#theme-clip)"
+            }
+          })
+
         node.append("text")
           
-          .attr("dy", this.attr.nodeSize + 'px')
+          .attr("dy", function(d){
+            if(d.index === 0){
+              return that.attr.rootNodeSize*0.8 + 'px'
+            } else {
+              return that.attr.nodeSize + 'px'
+            }
+          })
           .attr("font-family", "CentSchbook Mono BT")
           .attr('font-size', function (d, i) {
             if(d.letter == true){
@@ -162,46 +229,174 @@ export default {
           .text(function(d) { return d.title })
           .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
 
+        const defs = svg.append("defs");
+        defs.append("clipPath")
+          .attr("id", "material-clip")
+          .append("rect")
+          .attr("x", this.attr.nodeSize*-0.5)
+          .attr("y", this.attr.nodeSize*-0.5)
+          .attr("width", this.attr.nodeSize)
+          .attr("height", this.attr.nodeSize)
+          .attr("rx", this.attr.nodeSize)
+        
+        defs.append("clipPath")
+          .attr("id", "story-clip")
+          .append("rect")
+          .attr("x", this.attr.nodeSize*-0.5)
+          .attr("y", this.attr.nodeSize*-0.5)
+          .attr("width", this.attr.nodeSize)
+          .attr("height", this.attr.nodeSize)
+          .attr("rx", this.attr.storyRadius)
 
-          node.on('mouseover', function(event, d) {
-            d3.select(this).selectAll('rect')
-              .transition()
-              .duration(150)
-              .ease(d3.easeQuadOut)
-              .attr("transform", "scale(2)")
+        defs.append("clipPath")
+          .attr("id", "theme-clip")
+          .append("rect")
+          .attr("x", this.attr.nodeSize*-0.5)
+          .attr("y", this.attr.nodeSize*-0.5)
+          .attr("width", this.attr.nodeSize)
+          .attr("height", this.attr.nodeSize)
 
-            // d3.select(this)
-            //   .transition()
-            //   .duration(200)
-            //   .attr("transform", "scale(2)");
+        defs.append("clipPath")
+          .attr("id", "material-clip-big")
+          .append("rect")
+          .attr("x", this.attr.rootNodeSize*-0.5)
+          .attr("y", this.attr.rootNodeSize*-0.5)
+          .attr("width", this.attr.rootNodeSize)
+          .attr("height", this.attr.rootNodeSize)
+          .attr("rx", this.attr.rootNodeSize)
+        
+        defs.append("clipPath")
+          .attr("id", "story-clip-big")
+          .append("rect")
+          .attr("x", this.attr.rootNodeSize*-0.5)
+          .attr("y", this.attr.rootNodeSize*-0.5)
+          .attr("width", this.attr.rootNodeSize)
+          .attr("height", this.attr.rootNodeSize)
+          .attr("rx", this.attr.storyRadius)
 
-            link.style('stroke', function(l) {
-              if (d === l.source || d === l.target){
-                return "black";
-              }
-              else {
-                return "#fff";
-              }
-            });
+        defs.append("clipPath")
+          .attr("id", "theme-clip-big")
+          .append("rect")
+          .attr("x", this.attr.rootNodeSize*-0.5)
+          .attr("y", this.attr.rootNodeSize*-0.5)
+          .attr("width", this.attr.rootNodeSize)
+          .attr("height", this.attr.rootNodeSize)
+
+        node.on('mouseover', function(event, d) {
+
+          svg.selectAll('.nodeparent g').sort(function (a, b) { // select the parent and sort the path's
+            
+            if (a.slug != d.slug) {
+              return -1; // a is not the hovered element, send "a" to the back
+            }
+            else {
+              return 1; // a is the hovered element, bring "a" to the front
+            }
           });
 
-          node.on('click', function(event, d){
-            that.navigate(event, d)
-          })
+          d3.select(this).selectAll('rect')
+            .transition()
+            .duration(150)
+            .ease(d3.easeQuadOut)
+            .attr("transform", "scale(1.5)")
+
+          d3.select(this).selectAll('image')
+            .transition()
+            .duration(150)
+            .ease(d3.easeQuadOut)
+            .attr("transform", "scale(1.5)")
+
+          // d3.select(this)
+          //   .transition()
+          //   .duration(200)
+          //   .attr("transform", "scale(2)");
+
+          link.style('stroke', function(l) {
+            if (d === l.source || d === l.target){
+              return "black";
+            }
+            else {
+              return "#fff";
+            }
+          });
+        });
+
+        node.on('click', function(event, d){
+
+          // link.style('stroke', "transparent");
+
+          d3.select(this).selectAll('rect')
+            .classed("active", true)
+          
+          d3.select(this).selectAll('image')
+            .classed("active", true)
+
+          d3.select(this).selectAll('text')
+            .classed("active", true)
+
+          // d3.selectAll('rect')
+          //   .filter(function() {
+          //     return !this.classList.contains('active')
+          //   })
+          //   .transition()
+          //   .duration(100)
+          //   .ease(d3.easeQuadOut)
+          //   .style("opacity", "0")
+
+          d3.selectAll('rect')
+            .filter(function() {
+              return !this.classList.contains('active')
+            })
+            .transition()
+            .duration(100)
+            .ease(d3.easeQuadOut)
+            .attr("fill", "#FFFFFF")
+
+
+          d3.selectAll('image')
+            .filter(function() {
+              return !this.classList.contains('active')
+            })
+            .transition()
+            .duration(400)
+            .ease(d3.easeQuadOut)
+            .style("opacity", "0")
+
+          d3.selectAll('text')
+            .filter(function() {
+              return !this.classList.contains('active')
+            })
+            .transition()
+            .duration(400)
+            .ease(d3.easeQuadOut)
+            .style("opacity", "0")
 
           
 
-          // Set the stroke width back to normal when mouse leaves the node.
-          node.on('mouseout', function() {
-            
-            d3.select(this).selectAll('rect')
-              .transition()
-              .duration(100)
-              .ease(d3.easeQuadOut)
-              .attr("transform", "scale(1)")
-            link.style('stroke', "#fff");
+          setTimeout(function(){ that.navigate(event, d) }, 700);
+          
+        })
 
-          });
+        
+
+        // Set the stroke width back to normal when mouse leaves the node.
+        node.on('mouseout', function() {
+          
+          d3.select(this).selectAll('rect')
+            .transition()
+            .duration(100)
+            .ease(d3.easeQuadOut)
+            .attr("transform", "scale(1)")
+          
+          d3.select(this).selectAll('image')
+            .transition()
+            .duration(100)
+            .ease(d3.easeQuadOut)
+            .attr("transform", "scale(1)")
+
+          link.style('stroke', "#fff");
+
+        });
 
         
 
@@ -256,6 +451,12 @@ export default {
 <style lang="less" scoped>
 #d3-main{
   margin-top: -8rem;
+}
+
+::v-deep svg{
+  .nodechild{
+    cursor: pointer;
+  }
 }
 
 </style>
