@@ -1,11 +1,11 @@
 <template>
-  <aside :class="{open:isSidebarOpen}" :aria-hidden="isSidebarOpen ? false : true" ref="sidebar">
+  <aside :class="{open:isSidebarOpen}" :aria-hidden="isSidebarOpen ? false : true" ref="sidebar"  v-if="article">
     <section id="section-details">
       <h3 class="f-mono subheading">Details</h3>
       <ul>
-        <li>Article type: <span>{{article.tao_type}}</span></li>
-        <li>Author: <span>{{article.author}}</span></li>
-        <li>Text License: <span>{{article.license}}</span></li>
+        <li v-if="article.tao_type">Article type: <span>{{article.tao_type}}</span></li>
+        <li v-if="article.author">Author: <span>{{article.author}}</span></li>
+        <li v-if="article.license">Text License: <span>{{article.license}}</span></li>
         <li v-if="article.doi">DOI: <span>{{article.doi}}</span></li>
         <li>Last updated: <span>{{article.updatedAt | formatDate}}</span></li>
       </ul>
