@@ -16,7 +16,7 @@
     </section>
 
     <template v-if="siteLang == 'en' && article.toc">
-      <contents :toc="article.toc" label="table of contents" />
+      <contents :toc="article.toc" label="Table of contents" />
     </template>
     <template v-if="siteLang == 'de' && article.body_de.toc">
       <contents :toc="article.body_de.toc" label="Inhaltsverzeichnis" />
@@ -26,15 +26,6 @@
       <h3 class="f-mono subheading">Pages that link here</h3>
       <graph-backlinks  :article="{slug: article.slug, title: article.title, tao_type: article.tao_type}" :backlinks="article.backlinks"/>
     </section>
-
-    <!-- <section id="section-routes" v-if="matchedCuratedRoutes.length > 0">
-      <h3 class="f-mono subheading">This page appears in these Curated Routes</h3>  
-      <ul>
-        <li v-for="route in matchedCuratedRoutes" :key="route.slug">
-          <nuxt-link :to="'/routes/' + route.slug">{{route.title}}</nuxt-link>
-        </li>
-      </ul>
-    </section> -->
 
     <curatedRoutes :slug="article.slug"/>
 
