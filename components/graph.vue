@@ -21,21 +21,23 @@ var graphData = featuredGraphData[1];
 
 const title_nodes = [
   {
-    slug:"title_animals",
-    title:"Animals",
-    title_de:"Tiere",
-    isText: true,
-  },{
     slug:"title_as",
     title:"as",
     title_de:"als",
     isText: true,
-  },{
+  },
+  {
     slug:"title_objects",
     title:"Objects",
     title_de:"Objekte",
     isText: true,
-  }
+  },
+  {
+    slug:"title_animals",
+    title:"Animals",
+    title_de:"Tiere",
+    isText: true,
+  },
 ]
 
 const title_links = [
