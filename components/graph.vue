@@ -20,7 +20,6 @@ import featuredGraphData from '~/temp/graphdata.json';
 var graphData = featuredGraphData[1];
 
 const title_nodes = [
-  
   {
     slug:"title_as",
     title:"as",
