@@ -91,7 +91,14 @@ export default {
         .force("charge", d3.forceManyBody().strength(-600).distanceMin(1).distanceMax(500))
         .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2))
         .force("radial", d3.forceRadial(this.attr.width / 2))
-        .force("collide", d3.forceCollide(this.attr.nodeSize + 10).strength(0.2))
+        .force("collide", d3.forceCollide(function(d){
+          if(that.nodes.length < 3){
+            return that.attr.nodeSize + 90
+          } else {
+            return that.attr.nodeSize + 10
+          }
+        }).strength(0.9))
+        // .force("collide", d3.forceCollide(this.attr.nodeSize + 10).strength(0.2))
 
       const link = svg.append("g")
         .attr("stroke", "#000")
@@ -193,11 +200,11 @@ export default {
             .ease(d3.easeQuadOut)
             .attr("transform", "scale(1.5)")
 
-          // d3.select(this).selectAll('image')
-          //   .transition()
-          //   .duration(150)
-          //   .ease(d3.easeQuadOut)
-          //   .attr("transform", "scale(1.5)")
+          d3.select(this).selectAll('image')
+            .transition()
+            .duration(150)
+            .ease(d3.easeQuadOut)
+            .attr("transform", "scale(1.5)")
           
           link.attr('stroke-width', '1');
           link.style('stroke', function(l) {
@@ -227,11 +234,11 @@ export default {
             .ease(d3.easeQuadOut)
             .attr("transform", "scale(1)")
 
-          // d3.select(this).selectAll('image')
-          //   .transition()
-          //   .duration(150)
-          //   .ease(d3.easeQuadOut)
-          //   .attr("transform", "scale(1)")
+          d3.select(this).selectAll('image')
+            .transition()
+            .duration(150)
+            .ease(d3.easeQuadOut)
+            .attr("transform", "scale(1)")
 
           d3.select(this).select('text')
           .attr('fill', 'rgba(0,0,0,0.2)')
@@ -240,7 +247,7 @@ export default {
       node.append("image")
         .attr("xlink:href", function(d){
           if (d.cover_image && d.cover_image.image){
-            return d.cover_image.image
+            return d.cover_image.image 
           }
         })
         .attr("x", this.attr.nodeSize*-1)
