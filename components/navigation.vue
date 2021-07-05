@@ -114,7 +114,7 @@ export default {
         this.$store.commit('toggleSidebar', false)
       }
 
-      console.log(this.$store.getters.isSidebarOpen)
+      // console.log(this.$store.getters.isSidebarOpen)
     }
   }
   
