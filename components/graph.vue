@@ -17,7 +17,7 @@
 <script>
 import * as d3 from 'd3'
 import featuredGraphData from '~/temp/graphdata.json';
-var graphData = featuredGraphData[0];
+var graphData = featuredGraphData[1];
 
 const title_nodes = [
   {
@@ -227,7 +227,7 @@ export default {
             if(d.index === 0){
               return that.attr.rootNodeSize*0.8 + 'px'
             } else if(d.isText){
-              return '20px'
+              return '18px'
             } else {
               return that.attr.nodeSize + 'px'
             }
@@ -235,7 +235,7 @@ export default {
           .attr("font-family", "CentSchbook Mono BT")
           .attr('font-size', function (d, i) {
             if(d.isText == true){
-              return '56px'
+              return '54px'
             }
             return '0.5rem'
           })
@@ -475,12 +475,16 @@ export default {
 }
 
 ::v-deep svg{
+  -webkit-filter: drop-shadow( 0px 4px 10px rgba(0, 0, 0, 0.05));
   .nodechild{
     cursor: pointer;
-
+    // -webkit-filter: drop-shadow( 0px 4px 10px rgba(0, 0, 0, 0.05));
     &.title{
-
+      // -webkit-filter: drop-shadow( 0px 4px 10px rgba(0, 0, 0, 0.05));
     }
+    // &:hover{
+    //   -webkit-filter: drop-shadow( 0px 4px 10px rgba(0, 0, 0, 0.5));
+    // }
   }
 }
 
