@@ -1,17 +1,19 @@
 ---
 license: CC BY-SA
-title: Katharina Heinroth
 title_de: Katharina Heinroth
 created: 1619797579886
+author: Clemens Maier-Wolthausen
+short_desc_de: Foto von Katharina Heinroth auf der morgendlichen Runde durch den Zoo
+date_end: 1955-12-31T11:00:00.000Z
+published: false
+title: Katharina Heinroth
 updated: 1621977156848
 id: f2e04dbc-1209-40b6-baf5-599fd36e63c7
-author: Clemens Maier-Wolthausen
 translators:
   translator_de_en: Lucy Gasser
 desc: EN Foto von Katharina Heinroth auf der morgendlichen Runde durch den Zoo
 desc_de: Foto von Katharina Heinroth auf der morgendlichen Runde durch den Zoo
 short_desc: EN Foto von Katharina Heinroth auf der morgendlichen Runde durch den Zoo
-short_desc_de: Foto von Katharina Heinroth auf der morgendlichen Runde durch den Zoo
 cover_image:
   image: /images/cover-katharina-heinroth.jpg
   alt: 'Berlin zoo director Katharina Heinroth on her morning rounds with four
@@ -20,9 +22,7 @@ cover_image:
     dem Neufundländer "Ajax", 1946. Source: AZGB, photo Liselotte Orgel. All
     rights reserved.'
 tao_type: material
-date_start: ""
-date_end: ""
-published: false
+date_start: 1944-12-31T23:00:00.000Z
 ---
 
 :::EN:::
