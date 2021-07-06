@@ -4,7 +4,7 @@ title_de: Cycladophora Davisiana
 created: 1620218024936
 author: Filippo Bertoni
 short_desc_de: DE Microscopic radiolarian species
-date_end: 2021-07-01T08:05:07.353Z
+date_end: 2021-07-06T11:35:52.482Z
 published: false
 title: Cycladophora Davisiana
 updated: 1624279723655
@@ -24,9 +24,7 @@ cover_image:
     fossilem Cycladophora-Test. Source:
     https://www.radiolaria.org/image.htm?sp_id=1&division=13"
 tao_type: story
-date_start: ""
-colour_scheme: 5
-feature: true
+date_start: 1858-12-31T23:06:32.000Z
 ---
 :::EN:::
 

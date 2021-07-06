@@ -4,7 +4,7 @@ title_de: DE Micropaleontological Evolutionary Dead Ends
 created: 1621516485888
 author: Filippo Bertoni
 short_desc_de: DE Interest in microfossils seemed to fade
-date_end: ""
+date_end: 1921-12-31T11:00:00.000Z
 published: false
 title: Micropaleontological Evolutionary Dead Ends
 updated: 1621867247554
@@ -25,8 +25,7 @@ cover_image:
     Magazine, 1888. Source:
     https://heidicon.ub.uni-heidelberg.de/api/v1/objects/uuid/5333ea03-1eea-4335-a9f4-7035bd9a2fb7/format/xslt/detail'
 tao_type: story
-date_start: ""
-colour_scheme: 0
+date_start: 1849-12-31T23:06:32.000Z
 ---
 
 :::EN:::

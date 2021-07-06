@@ -4,7 +4,7 @@ title_de: DE Micropaleontological Formations
 created: 1618502886244
 author: Filippo Bertoni
 short_desc_de: DE Paleontology with a microscope
-date_end: 2021-07-01T08:18:05.899Z
+date_end: 2021-07-06T11:40:11.857Z
 published: false
 title: Micropaleontological Formations
 updated: 1621864868195
@@ -26,8 +26,7 @@ cover_image:
     biostratigraphischer Formationen. Source:
     https://commons.wikimedia.org/wiki/File:Faunal_sucession.jpg"
 tao_type: story
-date_start: ""
-colour_scheme: 7
+date_start: 1853-12-31T23:06:32.000Z
 ---
 
 :::EN:::

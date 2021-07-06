@@ -3,8 +3,8 @@ license: CC BY-SA
 title_de: Futternot
 created: 1621497485660
 author: Mareike Vennen
-short_desc_de: "1945: Krise in Zoo und Stadt"
-date_end: ""
+short_desc_de: 1945 – Krise in Zoo und Stadt
+date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Futternot
 updated: 1624280329673
@@ -21,7 +21,7 @@ desc_de: Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten
   dabei die Ernährungslage Berlins? Zoo und Stadtgesellschaft gingen in dieser
   Krise neue Verbindungen ein – zwischen Unterstützung und Konkurrenz, was die
   Rolle und Funktion des Zoos zeitweise veränderte.
-short_desc: "EN 1945: Krise in Zoo und Stadt"
+short_desc: EN 1945 – Krise in Zoo und Stadt
 cover_image:
   image: /images/cover-food-shortage.jpg
   alt: "Vegetable cultivation in the treeless Großer Tiergarten in Berlin in 1946,
@@ -29,8 +29,7 @@ cover_image:
     Tiergarten in Berlin 1946, im Hintergrund das Reichstagsgebäude. Source:
     Bundesarchiv image 183-M1015-314, photo Otto Donath."
 tao_type: story
-date_start: ""
-colour_scheme: 16
+date_start: 1944-12-31T23:00:00.000Z
 ---
 
 :::EN:::

@@ -1,25 +1,32 @@
 ---
 license: CC BY-SA
-title: üBerfüTtern
 title_de: Füttern und Überfüttern
 created: 1620752738850
+author: Mareike Vennen
+short_desc_de: Wer (über)füttert im Zoo?
+date_end: 1960-12-31T11:00:00.000Z
+published: false
+title: üBerfüTtern
 updated: 1624957226907
 id: dfe31be6-b21f-496f-af23-70f225c0616c
-author: Mareike Vennen
-desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-desc_de: "Als 1960 im Berliner Zoo ein Elefant starb, lautete die Diagnose: Überfütterung durch Zoobesucher*innen. Das löste eine kontroverse Debatte um die richtige Ernährung von Zootieren aus – eine Frage, die bis zu den Anfängen zoologischer Gärten im 19. Jahrhundert zurückreicht. Wer darf füttern und vor allem was und wieviel?"
-short_desc: EN short desc
-short_desc_de: Wer (über)füttert im Zoo?
+desc: EN Als 1960 im Berliner Zoo ein Elefant starb, lautete die Diagnose
+  Überfütterung durch Zoobesucher*innen. Das löste eine kontroverse Debatte um
+  die richtige Ernährung von Zootieren aus – eine Frage, die bis zu den Anfängen
+  zoologischer Gärten im 19. Jahrhundert zurückreicht. Wer darf füttern und vor
+  allem was und wieviel?
+desc_de: Als 1960 im Berliner Zoo ein Elefant starb, lautete die Diagnose
+  Überfütterung durch Zoobesucher*innen. Das löste eine kontroverse Debatte um
+  die richtige Ernährung von Zootieren aus – eine Frage, die bis zu den Anfängen
+  zoologischer Gärten im 19. Jahrhundert zurückreicht. Wer darf füttern und vor
+  allem was und wieviel?
+short_desc: EN Wer (über)füttert im Zoo?
 cover_image:
   image: /images/cover-overfeeding.jpg
   alt: Bild newspaper headline on the elephant "Jambo's" illness due to
     overfeeding, Berlin 1960. Schlagzeile der Bild-Zeitung zu Elefant "Jambos"
     Erkrankung durch Überfütterung, Berlin 1960.
 tao_type: story
-date_start: ""
-date_end: ""
-published: false
-colour_scheme: 16
+date_start: 1871-12-31T23:06:32.000Z
 ---
 
 
@@ -29,7 +36,6 @@ colour_scheme: 16
 
 :::DE:::
 
-## Überfüttern
 
 Während der Zoo und die Stadt Berlin in den 1940er große Probleme hatten, ihre Bewohner\*innen zu ernähren, hatte sich die Situation Ende der 1950er Jahre weitgehend normalisiert.[^Überfüttern1] (siehe auch [[story.futternot]]) Ja, in mancher Hinsicht verkehrte sie sich sogar. In der Zeit von Wirtschaftswunder und Wachstumsboom fütterten die Zoobesucher\*innen die Tiere im Berliner Zoo wieder ganz nach Belieben, und zwar so ausgiebig, dass **1960 der afrikanische Elefant "Jambo" nach oder vielmehr infolge der Fütterung durch Zoobersucher\*innen erkrankte.** 
 

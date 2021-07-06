@@ -1,27 +1,26 @@
 ---
 license: CC BY-SA
-title: Journals - the zoo directory
 title_de: Journale - Register der Tiere
 created: 1620987289214
+author: Clemens Maier-Wolthausen
+short_desc_de: Übersicht der Berliner Zoobestände seit 1888
+date_end: 2021-06-30T12:21:00.358Z
+published: false
+title: Journals - the zoo directory
 updated: 1621975035323
 id: 4a663958-cb98-4cdd-967d-9b277f45cdc4
-author: Clemens Maier-Wolthausen
 translators:
   translator_de_en: Lucy Gasser
 desc: EN Übersicht der Berliner Zoobestände seit 1888
 desc_de: Übersicht der Berliner Zoobestände seit 1888
 short_desc: EN Übersicht der Berliner Zoobestände seit 1888
-short_desc_de: Übersicht der Berliner Zoobestände seit 1888
 cover_image:
   image: /images/cover-zoo-journal-stock-1936-example.jpg
   alt: "Entries into the Berlin zoo directory, called Journale, 1936. Eintrag in
     das Tierregister des Berliner Zoos, genannt Journale, 1936. Source: AZGB.
     All rights reserved."
 tao_type: material
-date_start: ""
-date_end: 2021-06-30T12:21:00.358Z
-published: false
-colour_scheme: 11
+date_start: 1887-12-31T23:06:32.000Z
 ---
 
 

@@ -1,26 +1,25 @@
 ---
 license: CC BY-SA
-title: Journal Der Zoologische Garten
 title_de: Zeitschrift Der Zoologische Garten
 created: 1618496596303
+author: Clemens Maier-Wolthausen
+short_desc_de: Wissenschaftlicher Austausch zwischen Zoos
+date_end: 2021-07-06T11:19:57.448Z
+published: false
+title: Journal Der Zoologische Garten
 updated: 1624280546248
 id: cdaa8a05-6456-4b87-a663-c755790440d3
-author: Clemens Maier-Wolthausen
 translators:
   translator_de_en: Lucy Gasser
 desc: EN Wissenschaftlicher Austausch zwischen Zoos
 desc_de: Wissenschaftlicher Austausch zwischen Zoos
 short_desc: EN Wissenschaftlicher Austausch zwischen Zoos
-short_desc_de: Wissenschaftlicher Austausch zwischen Zoos
 cover_image:
   image: /images/cover-journal-der-zoologische-garten.jpg
   alt: Cover of the journal Der Zoologische Garten, showing a harpy eagle, 1933.
     Cover der Zeitschrift Der Zoologische Garten, das eine Harpyie zeigt, 1933.
 tao_type: material
-date_start: ""
-date_end: 2021-06-30T12:08:52.253Z
-published: false
-colour_scheme: 16
+date_start: 1858-12-31T23:06:32.000Z
 ---
 
 :::EN:::

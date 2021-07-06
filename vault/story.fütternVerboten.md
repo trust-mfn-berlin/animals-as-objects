@@ -4,7 +4,7 @@ title_de: Füttern Verboten
 created: 1620752897039
 author: Mareike Vennen
 short_desc_de: Neue Regeln zu Nähe und Distanz
-date_end: ""
+date_end: 1961-12-31T11:00:00.000Z
 published: false
 title: fütternVerboten
 updated: 1623327846520
@@ -24,8 +24,7 @@ cover_image:
     "Jedes Füttern unserer Tiere ist verboten!" am Emugehege im Berliner Zoo,
     1980. Source: AZGB, photo Kühn. All rights reserved.'
 tao_type: story
-date_start: ""
-colour_scheme: 0
+date_start: 1958-12-31T23:00:00.000Z
 ---
 
 

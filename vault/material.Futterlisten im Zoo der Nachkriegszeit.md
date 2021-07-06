@@ -4,19 +4,23 @@ title_de: Futterliste 1945
 created: 1624185750239
 author: Mareike Vennen
 short_desc_de: EN Futterlisten im Zoo der Nachkriegszeit
-date_end: ""
+date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Futterliste 1945 EN title
-updated: 1624957042868
+updated: 1625305679541
 id: R4t_2F3NY3xIuAnRoDG0T
+translators:
+  translator_de_en: Lucy Gasser
 desc: EN Futterlisten im Zoo der Nachkriegszeit
 desc_de: Futterlisten im Zoo der Nachkriegszeit
 short_desc: Futterlisten im Zoo der Nachkriegszeit
 cover_image:
-  alt: EN and DE cover image description.
+  alt: "Feed requirements for large animals in the Berlin Zoo, 18 September 1945.
+    Futtermittelbedarf für die Großtiere des Berliner Zoos, 18. September 1945.
+    Source: AZGB. All rights reserved."
+  image: /images/feed-requirements-futtermittelbedarf.jpg
 tao_type: material
-date_start: ""
-colour_scheme: 8
+date_start: 1944-12-31T23:00:00.000Z
 ---
 
 
@@ -26,7 +30,7 @@ EN content goes here.
 
 :::DE:::
 
-![Schreibmaschinenabschrift mit den Überschriften "Tierbestand" und "Futtermittel des Zoos für einen Monat".](/images/mv/Futtermittelbedarf.jpg)
+![Schreibmaschinenabschrift mit den Überschriften "Tierbestand" und "Futtermittel des Zoos für einen Monat".](/images/mv/feed-requirements-futtermittelbedarf.jpg)
 
 _Auflistung des Futtermittelbedarfs für die Großtiere des Berliner Zoos vom 18.09.1945. (AZGB. Alle Rechte vorbehalten.)_
 

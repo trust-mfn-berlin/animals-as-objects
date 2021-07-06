@@ -4,7 +4,7 @@ title_de: DE Classifying Cycladophora
 created: 1624875357621
 author: Filippo Bertoni
 short_desc_de: DE Taxonomy beyond animals
-date_end: ""
+date_end: 1887-12-31T11:06:32.000Z
 published: false
 title: Classifying Cycladophora
 updated: 1624875370467
@@ -28,8 +28,7 @@ cover_image:
     http://download.naturkundemuseum-berlin.de/Ehrenberg/"
   image: /images/cover-classifying-cycladophora-index-ehrenberg.png
 tao_type: story
-date_start: ""
-colour_scheme: 7
+date_start: 1858-12-31T23:06:32.000Z
 ---
 
 

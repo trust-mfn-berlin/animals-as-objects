@@ -2,53 +2,26 @@
 license: CC BY-SA
 title_de: Industrielle Mikropaleontologie
 created: 1621521087155
-author: Filippo Bertoni.
-short_desc_de: DE short desc
+author: Filippo Bertoni
+short_desc_de: DE Microfossils revolutionised oil extraction
+date_end: 1950-12-31T11:00:00.000Z
+published: false
 title: Industrial Micropaleontology
 updated: 1621868648303
 id: 2df514da-8df2-4278-8534-28e1034c7adf
+translators:
+  translator_en_de: Anna von Rath
 desc: In the 1920s a group of young women scientists employed by oil companies
   revolutionized micropaleontology, by showing its important applications to
   stratigraphy and petroleum geology.
 desc_de: Put a DE description of this note here...
-short_desc: EN short desc
+short_desc: Microfossils revolutionised oil extraction
 cover_image:
   image: /images/cover-industrial-micropaleo.jpg
-colour_scheme: 6
+  alt: "Oil well, 1908. Erdölquelle, 1908. Source:
+    https://commons.wikimedia.org/wiki/File:Salt_Creek_Oil_Field_well.jpg"
 tao_type: story
-date_start: ""
-date_end: ""
-map_slide:
-  - map_image: /images/mapexample1.jpg
-    map_image_de: /images/mapexample2.jpg
-    caption: Animal traders, zoo employees and museum staff brought Bobby to Berlin
-      in 1928, and distributed his remains between different institutions after
-      his death in 1935.
-    caption_de: DE Animal traders, zoo employees and museum staff brought Bobby to Berlin
-      in 1928, and distributed his remains between different institutions after
-      his death in 1935.
-    caption_image: 
-      src: /images/cover-industrial-micropaleo.jpg
-      alt: alt tag here
-    title: Bobby born
-    title_de: DE Bobby born
-  - caption: The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[here is a very long alias, about fossil fuels!|material.fossil fuels]] had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century
-    caption_de: DE The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[here is a very long alias, about fossil fuels!|material.fossil fuels]] had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century
-    caption_image: 
-      src: /images/cover-getting-animals.jpg
-      alt: alt tag here
-    map_image: /images/mapexample2.jpg
-    map_image_de: /images/mapexample2.jpg
-    title: Bobby lorem ipsum 
-    title_de: DE Bobby lorem ipsum
-  - caption: The gorilla's group in country x was likely killed to capture "Bobby". Person y brought him to Berlin by ship and train in 1928. Once dead, parts of "Bobby" were sent to different institutions via transport z in 1935.
-    caption_de: DE The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[here is a very long alias, about fossil fuels!|material.fossil fuels]] had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century
-    map_image: /images/mapexample1.jpg
-    map_image_de: /images/mapexample1.jpg
-    title: Bobby split up
-    title_de: DE Bobby split up
-published: false
-feature: false
+date_start: 1920-12-31T23:00:00.000Z
 ---
 
 :::EN:::
