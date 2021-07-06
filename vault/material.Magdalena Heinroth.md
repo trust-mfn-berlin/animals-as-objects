@@ -1,26 +1,26 @@
 ---
 license: CC BY-SA
-title: Magdalena Heinroth
 title_de: Magdalena Heinroth
 created: 1619797161333
+author: Clemens Maier-Wolthausen
+short_desc_de: Foto von Magdalena Heinroth mit drei Dohlen
+date_end: 1945-12-31T11:00:00.000Z
+published: false
+title: Magdalena Heinroth
 updated: 1621964996289
 id: 95617cbe-704d-46c1-b0b5-05d178ec363d
-author: Clemens Maier-Wolthausen
 translators:
   translator_de_en: Lucy Gasser
 desc: EN Foto von Magdalena Heinroth mit drei Dohlen
 desc_de: Foto von Magdalena Heinroth mit drei Dohlen
 short_desc: EN Foto von Magdalena Heinroth mit drei Dohlen
-short_desc_de: Foto von Magdalena Heinroth mit drei Dohlen
 cover_image:
   image: /images/cover-magdalena-heinroth.jpg
   alt: "Berlin zoologist Magdalena Heinroth with three jackdaws, 1919. Berliner
     Zoologin Magdalena Heinroth mit drei Dohlen, 1919. Source: AZGB, photo O.
     Heinroth. All rights reserved."
 tao_type: material
-date_start: ""
-date_end: ""
-published: false
+date_start: 1919-12-31T23:00:00.000Z
 ---
 
 :::EN:::
