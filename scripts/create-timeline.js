@@ -58,7 +58,7 @@ async function getContent(filePath, encoding = "utf-8") {
         title_de: frontmatter.title_de,
         date_start: dateStart,
         date_end: dateEnd,
-        cover_image: frontmatter.cover_image,
+        cover_image: frontmatter.cover_image ? frontmatter.cover_image.image : undefined,
         colour_scheme: frontmatter.colour_scheme
       }
       dates.push(dataObject)

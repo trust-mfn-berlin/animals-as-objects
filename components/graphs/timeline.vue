@@ -6,6 +6,8 @@
 // https://observablehq.com/@d3/beeswarm
 
 import * as d3 from 'd3'
+import timelineData from '~/temp/dates.json';
+
 
 export default {  
   data () {
@@ -25,83 +27,83 @@ export default {
       },
       data : [
         {
-          name:'Finding Cycladophora',
+          title:'Finding Cycladophora',
           value:1859,
-          scheme:0
+          colour_scheme:0
         },
         {
-          name:'Using Cycladophora start',
+          title:'Using Cycladophora start',
           value:1950,
-          scheme:1
+          colour_scheme:1
         },
         {
-          name:'Using Cycladophora end',
+          title:'Using Cycladophora end',
           value:2021,
-          scheme:1
+          colour_scheme:1
         },
         {
-          name:'Industrial Micropaleontology start',
+          title:'Industrial Micropaleontology start',
           value:1921,
-          scheme:4
+          colour_scheme:4
         },
         {
-          name:'Industrial Micropaleontology end',
+          title:'Industrial Micropaleontology end',
           value:1950,
-          scheme:4
+          colour_scheme:4
         },
         {
-          name:'Taxonomical Orders start',
+          title:'Taxonomical Orders start',
           value:1753,
-          scheme:5
+          colour_scheme:5
         },
         {
-          name:'Taxonomical Orders end',
+          title:'Taxonomical Orders end',
           value:2021,
-          scheme:5
+          colour_scheme:5
         },
         {
-          name:'Chaotic origins start',
+          title:'Chaotic origins start',
           value:1766,
-          scheme:6
+          colour_scheme:6
         },
         {
-          name:'Cycladophora davisiana start',
+          title:'Cycladophora davisiana start',
           value:1859,
-          scheme:7
+          colour_scheme:7
         },
         {
-          name:'Cycladophora davisiana end',
+          title:'Cycladophora davisiana end',
           value:2021,
-          scheme:7
+          colour_scheme:7
         },
         {
-          name:'Knut born',
+          title:'Knut born',
           value:2006,
-          scheme:11
+          colour_scheme:11
         },
         {
-          name:'Knut died',
+          title:'Knut died',
           value:2011,
-          scheme:11
+          colour_scheme:11
         },
         {
-          name:'Steinmetz-index start',
+          title:'Steinmetz-index start',
           value:1930,
-          scheme:13
+          colour_scheme:13
         },
         {
-          name:'Steinmetz-index end',
+          title:'Steinmetz-index end',
           value:1945,
-          scheme:13
+          colour_scheme:13
         }
       ]
     }
   },
   computed:{
-    x(gg){
-      console.log(this.data);
-      return d3.scaleLinear()
-        .domain(d3.extent(this.data, d => d.value))
+    x(){
+      // console.log(timelineData);
+      return d3.scaleTime()
+        .domain(d3.extent(timelineData, d => d.date_start))
         .range([this.attr.margin.left, this.attr.width - this.attr.margin.right])
     }
   },
@@ -120,18 +122,27 @@ export default {
 
         svg.append("g")
           .selectAll("circle")
-          .data(this.dodge(this.data, {radius: this.attr.nodeRadius * 2 + this.attr.padding, x: d => this.x(d.value)}))
+          .data(this.dodge(timelineData, {radius: this.attr.nodeRadius * 2 + this.attr.padding, x: d => this.x(d.date_start)}))
           .join("circle")
             .attr("cx", d => d.x)
             .attr("cy", d => this.attr.height - this.attr.margin.bottom - this.attr.nodeRadius - this.attr.padding - d.y)
             .attr("r", this.attr.nodeRadius)
             .attr("style", function(d){
-              return 'fill: var(--scheme-' + d.data.scheme + '-bg)'
+              return 'fill: var(--scheme-' + d.data.colour_scheme + '-bg)'
               })
           .append("title")
-            .text(d => d.data.name);
+            .text(d => d.data.title);
     },
     dodge(data, {radius = 1, x = d => d} = {}) {
+
+      // console.log(data.map((d, i, data) => ({
+      //   x: +x(d, i, data), 
+      //   data: d
+      // }
+      // )));
+
+      console.log(x())
+
 
       const radius2 = radius ** 2;
       const circles = data.map((d, i, data) => ({x: + x(d, i, data), data: d})).sort((a, b) => a.x - b.x);
@@ -171,12 +182,14 @@ export default {
         if (head === null) head = tail = b;
         else tail = tail.next = b;
       }
+
+      // console.log(circles);
       
       return circles;
     },
     xAxis(g){
       g.attr("transform", `translate(0,${this.attr.height - this.attr.margin.bottom + 5})`)
-      .call(d3.axisBottom(this.x).tickSizeOuter(0).tickSizeInner(0).tickPadding(5).ticks(this.attr.ticks, "f"))
+      .call(d3.axisBottom(this.x))
     },
   },
   mounted(){
