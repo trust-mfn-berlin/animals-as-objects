@@ -4,7 +4,7 @@ title_de: Steinmetz-Kartei
 created: 1620987472118
 author: Clemens Maier-Wolthausen
 short_desc_de: Tiere im Besitz des Berliner Zoos 1920-1945
-date_end: ""
+date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Steinmetz-index
 updated: 1621976451680
@@ -20,7 +20,7 @@ cover_image:
     Steinmetz-Karteikarte für die Zwergflusspferde des Berliner Zoos, um 1935.
     Source: AZGB. All rights reserved."
 tao_type: material
-date_start: ""
+date_start: 1919-12-31T23:00:00.000Z
 ---
 
 
