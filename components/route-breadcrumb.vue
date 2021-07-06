@@ -31,6 +31,7 @@ export default {
   // position: fixed;
   // top:3rem;
   // left:@space-s;
+  // 
 
   .breadcrumb-link{
     margin-right: @space-xs;
