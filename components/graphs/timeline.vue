@@ -24,7 +24,7 @@ export default {
           left: 40,
           bottom: 40,
         },
-        spaceMultiplier: 30
+        spaceMultiplier: 35
       },
     }
   },
@@ -73,10 +73,10 @@ export default {
 
         d3.selectAll('.timeline')
           .append("text")
-            .text(d => d.data.title)
+            .text(d => d.index)
             .attr('font-size', '12px')
             .attr("font-family", "CentSchbook Mono BT")
-            .attr("dy", function(d, i) { return that.attr.height - that.attr.margin.bottom - i*that.attr.spaceMultiplier})
+            .attr("dy", function(d, i) { return d.y})
             .attr("dx", function(d) { return (d.x0 + (d.x1 - d.x0)/2) - this.getBoundingClientRect().width*0.5})
             // .attr("fill", function(d){
             //   return 'var(--scheme-' + d.data.colour_scheme + '-fg)'
@@ -90,8 +90,62 @@ export default {
       const lines = data.map((d, i, data) => ({
         x0: x0(d, i, data), 
         x1: x1(d, i, data), 
-        y: this.attr.height - this.attr.margin.bottom - 5 - i*this.attr.spaceMultiplier,
+        index: i,
+        // y: this.attr.height - this.attr.margin.bottom - 5 - i*this.attr.spaceMultiplier,
         data: d}))
+
+      var head = null, tail = null;
+
+      var space = 0;
+
+      function intersects(start, end, itemToCompare) {
+        let a = itemToCompare;
+        while (a) {
+          if (a.x0 < end && a.x1 > start) {
+            console.log('intersect')
+            return true;
+          } else {
+            console.log('no intersect')
+          }
+          a = a.next;
+        }
+        return false;
+      }
+      
+      for (let l = 0; l < lines.length; l++) {
+        const b = lines[l];
+        
+        // Remove circles from the queue that can’t intersect the new circle b.
+        // while (head && head.x < b.x - radius2) head = head.next;
+
+        // Choose the minimum non-intersecting tangent.
+        if(lines[l+1]){
+        
+          if (intersects(b.x0, b.x1, lines[l+1])) {
+
+            space++;
+            b.y = this.attr.height - this.attr.margin.bottom - space*this.attr.spaceMultiplier            
+
+          } else if (intersects(b.x0, b.x1, lines[l-1])){
+            space++;
+            b.y = this.attr.height - this.attr.margin.bottom - space*this.attr.spaceMultiplier            
+          }
+          else {
+            b.y = this.attr.height - this.attr.margin.bottom - space*this.attr.spaceMultiplier
+          }
+
+        } else {
+          space++;
+          b.y = this.attr.height - this.attr.margin.bottom - space*this.attr.spaceMultiplier            
+        }
+
+        // console.log(space);
+
+        // // Add b to the queue.
+        // b.next = null;
+        // if (head === null) head = tail = b;
+        // else tail = tail.next = b;
+      }
 
       console.log(lines);
       
