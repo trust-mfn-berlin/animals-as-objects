@@ -1,6 +1,6 @@
 <template>
   <div>
-    <!-- <graph />
+    <graph />
     <section>
       <p class="intro f-mono">Animals as Objects? is an online publication produced by the Museum für Naturkunde Berlin and Zoo-Berlin. Learn more about the unique connections between some of Berlin’s most beloved animals by viewing articles: <span class="theme">Themes</span> are large topics that contain many <span class="story">Stories</span>, and <span class="material">Materials</span> are focused explorations into these emergent connections.</p>
       <Cascade :articles="articles" />
@@ -11,7 +11,7 @@
       <h2>Curated routes</h2>
       <curated-routes-list :routes="routes" />
       <text-button linkto="/routes">View more routes</text-button>
-    </section> -->
+    </section>
 
     <timeline />
   </div>
@@ -19,9 +19,11 @@
 
 <script>
 import timeline from '../components/graphs/timeline'
+import graph from '../components/graphs/graph'
 
 export default {
   components:{
+    graph,
     timeline
   },
   async asyncData({ $content }) {
