@@ -73,7 +73,7 @@ export default {
 
         d3.selectAll('.timeline')
           .append("text")
-            .text(d => d.index)
+            .text(d => d.data.title)
             .attr('font-size', '12px')
             .attr("font-family", "CentSchbook Mono BT")
             .attr("dy", function(d, i) { return d.y})
