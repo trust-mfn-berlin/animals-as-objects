@@ -4,7 +4,7 @@ title_de: DE Using Cycladophora
 created: 1624875395326
 author: Filippo Bertoni
 short_desc_de: DE From microfossils to planetary sciences
-date_end: 2021-07-01T08:14:18.148Z
+date_end: 2021-07-06T11:38:39.090Z
 published: false
 title: Using Cycladophora
 updated: 1624875405779
@@ -28,7 +28,7 @@ cover_image:
     Häufigkeiten von Cycladophora zeigen die planetaren Dynamiken von Vereisung.
     Source: Hays, Imbrie & Shackleton 1976."
 tao_type: story
-date_start: ""
+date_start: 1949-12-31T23:00:00.000Z
 ---
 
 
