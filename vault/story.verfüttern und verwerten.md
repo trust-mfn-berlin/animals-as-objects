@@ -4,15 +4,23 @@ title_de: Verfüttern und Verwerten
 created: 1621970259942
 author: Mareike Vennen
 short_desc_de: Auf den Spuren eines Elefanten
-date_end: ""
+date_end: 1947-12-31T11:00:00.000Z
 published: false
 title: VerfüTtern Und Verwerten
 updated: 1622740417351
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 translators:
   translator_de_en: Lucy Gasser
-desc: Put a description of this note here...
-desc_de: Put a DE description of this note here...
+desc: EN Was passiert mit Zootieren nach ihrem Tod, wie werden ihre
+  Körper(teile) weiterverwertet – als koloniale Trophäen, Museumsobjekte oder
+  Fleischlieferanten? Die Geschichte des Berliner Zoo-Elefanten "Siam" aus den
+  1940er Jahren führt ins Berlin der Nachkriegszeit und tief in die Geschichte
+  des europäischen Kolonialismus.
+desc_de: Was passiert mit Zootieren nach ihrem Tod, wie werden ihre
+  Körper(teile) weiterverwertet – als koloniale Trophäen, Museumsobjekte oder
+  Fleischlieferanten? Die Geschichte des Berliner Zoo-Elefanten "Siam" aus den
+  1940er Jahren führt ins Berlin der Nachkriegszeit und tief in die Geschichte
+  des europäischen Kolonialismus.
 short_desc: EN Auf den Spuren eines Elefanten
 cover_image:
   image: /images/cover-feeding-and-use-elephant.jpg
@@ -21,7 +29,7 @@ cover_image:
     Naturkundemuseums. Source: Museum für Naturkunde Berlin, photo Mareike
     Vennen. All rights reserved."
 tao_type: story
-date_start: ""
+date_start: 1932-12-31T23:00:00.000Z
 ---
 :::EN:::
 
