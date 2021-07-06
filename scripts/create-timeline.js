@@ -48,12 +48,16 @@ async function getContent(filePath, encoding = "utf-8") {
     var slug = file.replace('.md','');
 
     if(frontmatter.date_start || frontmatter.date_end){
+
+      const dateStart = frontmatter.date_start ? frontmatter.date_start : undefined;
+      const dateEnd = frontmatter.date_end ? frontmatter.date_end : undefined;
+
       var dataObject = {
         slug: slug,
         title: frontmatter.title,
         title_de: frontmatter.title_de,
-        date_start: frontmatter.date_start ? frontmatter.date_start : undefined,
-        date_end: frontmatter.date_end ? frontmatter.date_end : undefined,
+        date_start: dateStart,
+        date_end: dateEnd,
         cover_image: frontmatter.cover_image,
         colour_scheme: frontmatter.colour_scheme
       }
