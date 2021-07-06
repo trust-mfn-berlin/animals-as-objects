@@ -25,6 +25,7 @@ const title_nodes = [
     title:"as",
     title_de:"als",
     isText: true,
+    lessSpace: true,
   },
   {
     slug:"title_objects",
@@ -42,6 +43,8 @@ const title_nodes = [
 
 const title_links = [
   {source:"title_animals", target: graphData.nodes[0].slug, value:1, titleLink:true},
+  {source:"title_animals", target: "title_as", value:1, titleLink:true, interTitleLink: true},
+  // {source:"title_as", target: "title_objects", value:1, titleLink:true, interTitleLink: true},
   {source:"title_as", target: graphData.nodes[0].slug, value:1, titleLink:true},
   {source:"title_objects", target: graphData.nodes[0].slug, value:1, titleLink:true},
 ]
@@ -54,7 +57,7 @@ export default {
     return {
       attr : {
         width: 1000,
-        height: 900,
+        height: 1200,
         margin: {
           top: 0,
           right: 0,
@@ -82,15 +85,17 @@ export default {
         .attr("height", this.attr.height);
 
       const simulation = d3.forceSimulation(graphData.nodes)
-        .force("link", d3.forceLink(graphData.links).id(d => d.slug).distance(function(d) {if(d.titleLink){ return 300} else {return 250}}))
+        .force("link", d3.forceLink(graphData.links).id(d => d.slug).distance(function(d) {if(d.interTitleLink){ return 100} else if(d.titleLink){ return 310 }else {return 280}}))
         .force("charge", d3.forceManyBody().strength(function(d){if (d.index === 0){ return -6000 } else { return -600}}).distanceMin(1).distanceMax(500))
         .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2))
-        // .force("radial", d3.forceRadial(this.attr.height * 1))
+        .force("radial", d3.forceRadial(this.attr.width * 0.5))
         .force("collide", d3.forceCollide(function(d){
-          if(d.isText){
+          if(d.lessSpace){
+            return 80
+          } else if(d.isText){
             return 120
           } else {
-            return 90
+            return 100
           }
         }).strength(0.2))
 
@@ -464,7 +469,8 @@ export default {
 
     if(window){
       // console.log(window.innerWidth);
-      this.attr.width = window.innerWidth
+      this.attr.width = window.innerWidth;
+      this.attr.height = window.innerHeight;
     }
     this.init();
     
@@ -474,6 +480,8 @@ export default {
 <style lang="less" scoped>
 #d3-main{
   margin-top: -8rem;
+  max-width: 100vw;
+  overflow: hidden;
 }
 
 ::v-deep svg{
