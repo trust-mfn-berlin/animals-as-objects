@@ -4,7 +4,7 @@ title_de: Futterliste 1945
 created: 1624185750239
 author: Mareike Vennen
 short_desc_de: EN Futterlisten im Zoo der Nachkriegszeit
-date_end: ""
+date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Futterliste 1945 EN title
 updated: 1625305679541
@@ -20,7 +20,7 @@ cover_image:
     Source: AZGB. All rights reserved."
   image: /images/feed-requirements-futtermittelbedarf.jpg
 tao_type: material
-date_start: ""
+date_start: 1944-12-31T23:00:00.000Z
 ---
 
 
