@@ -235,6 +235,47 @@ article{
       }
     }
 
+
+  }
+  @media print {
+
+    height: auto;
+    
+    div.slide{
+      width: 100%;
+      position: relative;
+
+      figure{
+        height: auto;
+        display: block !important;
+        position: relative;
+      
+        figcaption{
+          border: 1px solid @black;
+          margin: 4mm 0;
+          padding: 4mm;
+          width: 100%;
+          .caption-img-wrap{
+            img{
+              width: 25mm;
+              height: 25mm;
+            }
+          }
+          nav.slider-nav{
+            display: none;
+          }
+
+          p{
+            font-size: 10pt;
+            margin-bottom: 0;
+          }
+        
+        }
+
+      }
+
+    }
+    
   }
 }
 </style>
