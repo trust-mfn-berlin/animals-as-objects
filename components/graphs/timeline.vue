@@ -15,7 +15,7 @@ export default {
       attr : {
         width: 1200,
         height: 900,
-        lineWidth: 30,
+        lineWidth: 32,
         padding:5,
         ticks: 20,
         margin: {
@@ -24,7 +24,7 @@ export default {
           left: 40,
           bottom: 40,
         },
-        spaceMultiplier: 35
+        spaceMultiplier: 37
       },
     }
   },
