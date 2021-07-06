@@ -2,7 +2,7 @@
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 title: Zoos and Conservation
 desc: Since only a relatively short time zoos intensify their conservation eforts.
-updated: 1622642026072
+updated: 1625578921315
 created: 1618994200982
 title_de: Zoos und Artenschutz
 desc_de: Seit relativ kurzer Zeit engagieren sich Zoos auch im Artenschutz.
@@ -31,6 +31,12 @@ Der Direktor des New York Zoological Parks und ehemalige Taxidermist des Nationa
 Ähnliches kann in etwas vermindertem Umfang auch für die Geschichte der Rettung des europäischen Gegenstücks des Bisons angenommen werden - des Wisents.
 
 ## Studbooks
+
+Als 2021 herauskam, dass durch eine Verwechslung im Moskauer Zoo vor Jahren übersehen worden war, dass “Herthas” Elterntiere verwandt waren und daher eine Zucht zwischen ihnen durch das Europäische Erhaltungszuchtprogramm für Eisbären verhindert hätte werden müssen, war die offensichtliche Inzest im Tierpark nur einen Tag lang ein Thema in den lokalen Medien.[^tonja]
+
+
+## ZIMS
+
 
 ### Weitere
 
@@ -95,3 +101,6 @@ Przewalskipferd, Bartgeier, Lear-Ara, Europäische Sumpfschuldkröte, Habichtska
 [^firsttrials2]: Vgl. Barrow, Mark V. Jr. 2018. „Teetering on the Brink of Extinction: The Passenger Pigeon, the Bison, and American Zoo Culture in the Late Nineteenth and Early Twentieth Centuries“. In The ark and beyond: the evolution of zoo and aquarium conservation, herausgegeben von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb, 51–64. Convening science: discovery at the marine biological laboratory. Chicago: The University of Chicago Press.
 
 [^hunter]: Vgl. Barrow, Mark V. Jr. 2018. „Teetering on the Brink of Extinction: The Passenger Pigeon, the Bison, and American Zoo Culture in the Late Nineteenth and Early Twentieth Centuries“. In The ark and beyond: the evolution of zoo and aquarium conservation, herausgegeben von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb, 51–64. Convening science: discovery at the marine biological laboratory. Chicago: The University of Chicago Press, 51.
+
+[^tonja]: Tierpark Berlin: “Eisbärin Tonja wurde als junge Bärin in Russland vertauscht”, https://www.tierpark-berlin.de/de/aktuelles/alle-news/artikel/eisbaerin-tonja-wurde-als-junge-baerin-in-russland-vertauscht (05.07.2021).
+
