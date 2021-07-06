@@ -1,7 +1,7 @@
 ---
 id: ca3795e2-a339-4574-97cc-e2c265233376
 title: VerfüTtern
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1622012471443
 created: 1620752425372
 title_de: Verfüttern
@@ -11,6 +11,7 @@ tao_type: story
 cover_image: null
 license: CC BY-SA
 published: false
+colour_scheme: 0
 ---
 
 

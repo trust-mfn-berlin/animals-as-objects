@@ -1,18 +1,34 @@
------
-id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
-title: Catching 'Exotic' Animals
-desc: Put a description of this note here...
-updated: 1624527602761
-created: 1618492547915
-title_de: Fang 'exotischer' Tiere
-desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen.
-author: CMW
-tao_type: story
-cover_image: null
-license: CC BY-SA
-published: false
 ---
- 
+license: CC BY-SA
+title_de: Fang 'exotischer' Tiere
+created: 1618492547915
+author: Clemens Maier-Wolthausen
+short_desc_de: Habitate und Tierhandelsfirmen
+date_end: 1973-12-31T11:00:00.000Z
+published: false
+title: Catching 'Exotic' Animals
+updated: 1624871700382
+id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
+translators:
+  translator_de_en: Lucy Gasser
+desc: EN Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren
+  Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle
+  Tierhandelsfirmen.
+doi: test 1239
+desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren
+  Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle
+  Tierhandelsfirmen.
+short_desc: EN Habitate und Tierhandelsfirmen
+cover_image:
+  image: /images/cover-catching-animals.jpg
+  alt: "Transporting two giraffes, captured on colonised land in 1928. Transport
+    von zwei Giraffen, 1928 auf kolonisiertem Gebiet gefangen. Source: AZGB,
+    photo Lutz Heck. All rights reserved."
+tao_type: story
+date_start: 1844-12-31T23:06:32.000Z
+colour_scheme: 13
+---
+
 :::EN:::
  
 English content goes here.

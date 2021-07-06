@@ -1,29 +1,42 @@
 ---
-id: 6b86b681-8157-4bd4-acb1-167b98547122
-title: Cycladophora Davisiana
-desc: A radiolarian species first described in 1862, this microfossil has been used as an important tool in scientific research, and continues to help in the ongoing study of our planet and its deep history.
-updated: 1624526947006
-created: 1620218024936
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Filippo Bertoni.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Cycladophora Davisiana
+created: 1620218024936
+author: Filippo Bertoni
+short_desc_de: DE Microscopic radiolarian species
+date_end: 2021-07-06T11:35:52.482Z
 published: false
+title: Cycladophora Davisiana
+updated: 1624279723655
+id: 6b86b681-8157-4bd4-acb1-167b98547122
+translators:
+  translator_en_de: Anna von Rath
+desc: A radiolarian species first described in 1862, this microfossil has been
+  used as an important tool in scientific research, and continues to help in the
+  ongoing study of our planet and its deep history.
+desc_de: DE A radiolarian species first described in 1862, this microfossil has
+  been used as an important tool in scientific research, and continues to help
+  in the ongoing study of our planet and its deep history.
+short_desc: Microscopic radiolarian species
+cover_image:
+  image: /images/cover-cycladophora.jpg
+  alt: "Microphotograph of Cycladophora fossilized test. Mikrofotografie von
+    fossilem Cycladophora-Test. Source:
+    https://www.radiolaria.org/image.htm?sp_id=1&division=13"
+tao_type: story
+date_start: 1858-12-31T23:06:32.000Z
+colour_scheme: 15
+feature: true
 ---
-<figure>
-
 :::EN:::
 
-<!-- 1859-2021 -->
-
 <figure>
 
-![Microscopic image of a conical shape with irregular geometric surface pattern. Text: Radiolaria.org, Cenozoic, Holocene (Recent), Sea of Japan. List species, Cycladophora davisiana, Ehrenberg 1862. Shell conical-campanulate, of moderately heavy structure, consisting of two, three or four segments. Cephalis subglobose, with small, sparse pores, and bearing two short, acicular spines - one vertical, approximately apical, and the other lateral, oblique. Collar stricture slight. Subsequent part of shell, comprising its main bulk, will be termed the thorax, though in some specimens it appears to be divided by an ill-defined internal transverse ridge into an upper and a lower (text cut off). ](/images/filo/Cycladophora-davisiana-rads.png)
+![Titelseite von Der Zoologische Garten mit Foto von Nashorn](/images/cmw/ZG_1961.jpg)
+
 <figcaption>
 
-_A screenshot from the digital radiolaria database radiolaria.org, describing and illustrating C. davisiana.[^1]_
+_Titelseiten der Zeitschrift_ Der Zoologische Garten _von 1933, 1961 und 2015._ Hi Son La, we figured, we’d see how long image descriptions can actually be?! Some screenreaders cut them off after a certain nr of words. Most images are not just decorative, so a long description would make more sense than a supershort AltText, but I can cut them all down, if needed.
 
 </figcaption>
 

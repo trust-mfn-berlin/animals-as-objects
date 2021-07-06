@@ -1,26 +1,21 @@
 <template>
   <header>
   <nav aria-label="Main">
-    <!-- <ul class="secondary">
-      <li>
-        <text-button :linkto="rootUrl">Animals as Objects?</text-button>
-      </li>
-    </ul> -->
-    <ul class="primary" :class="{open : isSearchbarOpen}">
+    <ul class="primary">
       <li>
         <text-button class="primary-nav-item" :linkto="rootUrl">Animals as Objects?</text-button>
       </li>
       
       <li>
-        <text-button class="primary-nav-item" linkto="/articles">Index</text-button>
+        <text-button class="primary-nav-item" :linkto="sameUrl + 'articles'">Index</text-button>
       </li>
       <li>
-        <text-button class="primary-nav-item" linkto="/about">About</text-button>
+        <text-button class="primary-nav-item" :linkto="sameUrl + 'about'">About</text-button>
       </li>
       <li>
         <text-button :linkto="switchUrlComposed">{{siteLangSwap}}</text-button>
       </li>
-      <li :class="{open : isSearchbarOpen}">
+      <li>
         <Searchbar />
       </li>
     </ul>
@@ -31,7 +26,7 @@
           :icon="toggleIcon"
           :tao_type="this.$store.getters.articleTaoType"
           :aria-haspopup="isSidebarOpen"
-          :useColourScheme="true"
+          :useColourScheme="this.$store.getters.isSidebarOpen"
         >{{toggleButtonText}}</icon-button>
       </li>
     </transition>
@@ -64,9 +59,6 @@ export default {
         return "Open Sidebar"
       }
     },
-    isSearchbarOpen(){
-      return this.$store.getters.isSearchbarOpen
-    },
     isSidebarOpen(){
       return this.$store.getters.isSidebarOpen
     },
@@ -94,16 +86,20 @@ export default {
         return '/'
       }
     },
+    sameUrl(){
+      if(this.siteLang == 'de' ){
+        return '/de/'
+      } else {
+        return '/'
+      }
+    },
     switchUrlComposed(){
-      // const url = this.$route.fullPath == '/' || this.$route.fullPath == '/de/' ? null : this.$route.params.slug
-      // const url = this.$route.params.slug ? this.$route.params.slug : 
-
-        if(this.$route.params.slug){
-          return this.switchUrl + this.$route.params.slug
-        } else {
-          return this.switchUrl + this.$route.fullPath.replace(this.rootUrl, '')
-        }
-
+      if(this.$route.fullPath.substring(0,4) == '/de/')
+      {
+        return this.$route.fullPath.replace('/de/', '/');
+      } else {
+        return '/de' + this.$route.fullPath
+      }
     }
   },
   methods:{
@@ -115,7 +111,7 @@ export default {
         this.$store.commit('toggleSidebar', false)
       }
 
-      console.log(this.$store.getters.isSidebarOpen)
+      // console.log(this.$store.getters.isSidebarOpen)
     }
   }
   
@@ -125,7 +121,7 @@ export default {
 <style lang="less" scoped>
 
 header{
-  margin-bottom: 8rem;
+  // margin-bottom: 8rem;
 }
 
 nav{

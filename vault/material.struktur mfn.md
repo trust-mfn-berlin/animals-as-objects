@@ -1,7 +1,7 @@
 ---
 id: da13dc0e-052d-419f-b090-524059a8452b
 title: Struktur Mfn
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1620395436097
 created: 1620395424745
 title_de: Struktur MfN
@@ -11,6 +11,7 @@ tao_type: material
 cover_image: null
 license: CC BY-SA
 published: false
+colour_scheme: 8
 ---
 
 

@@ -2,7 +2,7 @@
 title: Test test
 title_de: Test Test
 date: 2021-06-04T13:42:16.253Z
-author: dd
+author: Dr. Ipsum Amet Lorem
 author_bio:
   author_bio_en: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
     nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed

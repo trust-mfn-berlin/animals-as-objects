@@ -2,9 +2,9 @@
   <div class='layout-container'>
     <Navigation />
     
-    <Nuxt />
+    <Nuxt @click.native="closeSearchBar"/>
 
-    <Footer />
+    <Footer @click.native="closeSearchBar"/>
 
     <cookie-bar />
     
@@ -13,32 +13,60 @@
 
 <script>
 export default {
-  computed:{
-
-  },
+  name:'layout-default',
   methods:{
+    closeSearchBar(){
+      if(this.$store.getters.isSearchbarOpen){
+        this.$store.commit('toggleSearchBar', false);
+      }
+    },
+    addCurrentRoute(){
+      if(this.$route.params.slug){
+        if(this.$route.name == 'routes-slug'){
+          return
+        }
+        this.$store.commit('addRoute', {route:this.$route.params.slug});
+      }
+    },
+    async getRoutes(){
 
+      var uid = this.$cookies.get('tao-uid');
+
+      const getObject = {
+        uniqueid: uid
+      };
+
+      try {
+        const res = await this.$axios.get('', {params: {uniqueid: uid}})
+
+        console.log(res);
+        var sortedRoutes = res.data.sort((a, b) => (a.timestamp > b.timestamp) ? 1 : -1)
+
+        console.log(sortedRoutes);
+        this.$store.commit('setRoutes', sortedRoutes);
+
+        this.addCurrentRoute();
+      }
+      catch (error) {
+        console.log(error)
+      }
+      
+      
+    }
   },
   mounted(){
     if(this.$cookies.get('tao-uid') && !this.$store.getters.isTrackingEnabled){
       console.log('cookie present');
-      // this.enableTracking();
       this.$store.commit('enableTracking');
+      this.getRoutes();
 
-      // console.log('added route', this.$route.params.slug);
-      if(this.$route.params.slug){
-        this.$store.commit('addRoute', this.$route.params.slug);
-      }
     }
-  },
-  watch:{
-    $route (to, from){
-      // console.log(to.path);        
-    }
-  },
+  }
 }
 </script>
 
-<style>
-
+<style lang="less" scoped>
+.layout-container{
+  padding-top: 6rem;
+}
 </style>

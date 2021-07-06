@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="page-container">
     <article-filter />
 
     <main>
@@ -55,16 +55,17 @@ export default {
     };
 
     results.forEach(article => {
-      if(article.tao_type){
-        // articlesAlphabetical.push(article);
-        const firstLetter = article.title.charAt(0);
-        if(!articlesAlphabetical[firstLetter]){
-          articlesAlphabetical[firstLetter] = []
-          articlesAlphabetical[firstLetter].push(article)
-        } else {
-          articlesAlphabetical[firstLetter].push(article)
+      if(article.archived != true){
+        if(article.tao_type == 'material' || article.tao_type == 'theme' || article.tao_type == 'story'){
+          const firstLetter = article.title.charAt(0);
+          if(!articlesAlphabetical[firstLetter]){
+            articlesAlphabetical[firstLetter] = []
+            articlesAlphabetical[firstLetter].push(article)
+          } else {
+            articlesAlphabetical[firstLetter].push(article)
+          }
+          articlesType[article.tao_type].push(article);
         }
-        articlesType[article.tao_type].push(article);
       }
     });
 
@@ -89,6 +90,11 @@ export default {
 </script>
 
 <style lang="less" scoped>
+
+.page-container{
+  padding: 0 @space-s;
+}
+
 ul, ol{
   margin:@space-s 0 2rem;
   display: flex;

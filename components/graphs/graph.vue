@@ -16,10 +16,38 @@
 
 <script>
 import * as d3 from 'd3'
-
 import featuredGraphData from '~/temp/graphdata.json';
+var graphData = featuredGraphData[0];
 
-const graphData = featuredGraphData[0];
+const title_nodes = [
+  {
+    slug:"title_as",
+    title:"as",
+    title_de:"als",
+    isText: true,
+  },
+  {
+    slug:"title_objects",
+    title:"Objects",
+    title_de:"Objekte",
+    isText: true,
+  },
+  {
+    slug:"title_animals",
+    title:"Animals",
+    title_de:"Tiere",
+    isText: true,
+  },
+]
+
+const title_links = [
+  {source:"title_animals", target: graphData.nodes[0].slug, value:1, titleLink:true},
+  {source:"title_as", target: graphData.nodes[0].slug, value:1, titleLink:true},
+  {source:"title_objects", target: graphData.nodes[0].slug, value:1, titleLink:true},
+]
+
+graphData.nodes.push(...title_nodes)
+graphData.links.push(...title_links)
 
 export default {  
   data () {
@@ -33,75 +61,12 @@ export default {
           left: 0,
           bottom: 0,
         },
-        nodeSize: 75
+        nodeSize: 75,
+        rootNodeSize: 180,
+        storyRadius: 15,
+        titleTextWidthValue: 40
       },
-      nodes : [
-        { slug: 'Radiolaria', frontmatter:{ tao_type: 'material', title: 'Radiolaria' }, radius: 'big' },
-        { slug: 'Biostratigraphy', frontmatter:{ tao_type: 'material', title: 'Biostratigraphy' } },
-        { slug: 'Ernst Haeckel', frontmatter:{ tao_type: 'story', title: 'Ernst Haeckel' } },
-        { slug: 'Planetary Sciences', frontmatter:{ tao_type: 'material', title: 'Planetary Sciences' } },
-        { slug: 'Cell Theory', frontmatter:{ tao_type: 'theme', title: 'Cell Theory' } },
-        { slug: 'Microbial Worlds', frontmatter:{ tao_type: 'material', title: 'Microbial Worlds' } },
-        { slug: 'Cycladophora Davisiana', frontmatter:{ tao_type: 'story', title: 'Cycladophora Davisiana' } },
-        { slug: 'Oceanography', frontmatter:{ tao_type: 'material', title: 'Oceanography' } },
-        { slug: 'Micropaleontological Formations', frontmatter:{ tao_type: 'material', title: 'Micropaleontological Formations' } },
-        { slug: 'Animals-A', frontmatter:{ title: 'A' }, letter: true, width: 0.9 },
-        { slug: 'Animals-n', frontmatter:{ title: 'n' }, letter: true, width: 0.8 },
-        { slug: 'Animals-i', frontmatter:{ title: 'i' }, letter: true, width: 0.6 },
-        { slug: 'Animals-m', frontmatter:{ title: 'm' }, letter: true, width: 0.9 },
-        { slug: 'Animals-a', frontmatter:{ title: 'a' }, letter: true, width: 0.8 },
-        { slug: 'Animals-l', frontmatter:{ title: 'l' }, letter: true, width: 0.6 },
-        { slug: 'Animals-s', frontmatter:{ title: 's' }, letter: true, width: 0.7 },
-        { slug: 'as-a', frontmatter:{ title: 'a' }, letter: true, width: 0.9 },
-        { slug: 'as-s', frontmatter:{ title: 's' }, letter: true, width: 0.9 },
-        { slug: 'Objects-O', frontmatter:{ title: 'O' }, letter: true, width: 1 },
-        { slug: 'Objects-b', frontmatter:{ title: 'b' }, letter: true, width: 0.9 },
-        { slug: 'Objects-j', frontmatter:{ title: 'j' }, letter: true, width: 0.6 },
-        { slug: 'Objects-e', frontmatter:{ title: 'e' }, letter: true, width: 0.9 },
-        { slug: 'Objects-c', frontmatter:{ title: 'c' }, letter: true, width: 0.9 },
-        { slug: 'Objects-t', frontmatter:{ title: 't' }, letter: true, width: 0.9 },
-        { slug: 'Objects-s', frontmatter:{ title: 's' }, letter: true, width: 0.9 },
-        { slug: 'Objects-?', frontmatter:{ title: '?' }, letter: true, width: 0.9 }
-
-      ],
-      links : [
-        { source: 'Radiolaria', target: 'Planetary Sciences', relation: 'a', value: 4 },
-        { source: 'Planetary Sciences', target: 'Cell Theory', relation: 'b', value: 1 },
-        { source: 'Planetary Sciences', target: 'Microbial Worlds', relation: 'c', value: 1 },
-        { source: 'Planetary Sciences', target: 'Oceanography', relation: 'd', value: 1 },
-        { source: 'Biostratigraphy', target: 'Microbial Worlds', relation: 'e', value: 1 },
-        { source: 'Cycladophora Davisiana', target: 'Cell Theory', relation: 'f', value: 2 },
-        { source: 'Micropaleontological Formations', target: 'Planetary Sciences', relation: 'g', value: 1 },
-        { source: 'Cell Theory', target: 'Micropaleontological Formations', relation: 'h', value: 1.6 },
-        { source: 'Ernst Haeckel', target: 'Oceanography', relation: 'i', value: 0.7 },
-        { source: 'Microbial Worlds', target: 'Cycladophora Davisiana', relation: 'j', value: 3 },
-        { source: 'Radiolaria', target: 'Cycladophora Davisiana', relation: 'x', value: 1 },
-        { source: 'Radiolaria', target: 'Animals-n', relation: 'x', value: 1 },
-        { source: 'Animals-A', target: 'Animals-n', relation: 'text', value: 1 },
-        { source: 'Animals-n', target: 'Animals-i', relation: 'text', value: 1 },
-        { source: 'Animals-i', target: 'Animals-m', relation: 'text', value: 1 },
-        { source: 'Animals-m', target: 'Animals-a', relation: 'text', value: 1 },
-        { source: 'Animals-a', target: 'Animals-l', relation: 'text', value: 1 },
-        { source: 'Animals-l', target: 'Animals-s', relation: 'text', value: 1 },
-        { source: 'Animals-s', target: 'Animals-A', relation: 'text', value: 1 },
-        { source: 'Cycladophora Davisiana', target: 'as-a', relation: 'a', value: 1 },
-        { source: 'as-a', target: 'as-s', relation: 'text', value: 1 },
-        { source: 'as-a', target: 'as-s', relation: 'text', value: 1 },
-        { source: 'Micropaleontological Formations', target: 'Objects-O', relation: 'xx', value: 1 },
-        { source: 'Objects-O', target: 'Objects-b', relation: 'text', value: 1 },
-        { source: 'Objects-b', target: 'Objects-j', relation: 'text', value: 1 },
-        { source: 'Objects-j', target: 'Objects-e', relation: 'text', value: 1 },
-        { source: 'Objects-e', target: 'Objects-c', relation: 'text', value: 1 },
-        { source: 'Objects-c', target: 'Objects-t', relation: 'text', value: 1 },
-        { source: 'Objects-t', target: 'Objects-s', relation: 'text', value: 1 },
-        { source: 'Objects-s', target: 'Objects-?', relation: 'text', value: 1 },
-        { source: 'Objects-?', target: 'Objects-j', relation: 'text', value: 1 },
-        { source: 'Objects-t', target: 'Objects-O', relation: 'text', value: 1 },
-        { source: 'Objects-b', target: 'Objects-s', relation: 'text', value: 1 },
-        { source: 'Objects-e', target: 'Objects-O', relation: 'text', value: 1 },
-        { source: 'Objects-j', target: 'Objects-O', relation: 'text', value: 1 },
-        { source: 'Objects-?', target: 'Objects-e', relation: 'text', value: 1 },
-      ],
+      
     }
   },
   methods:{
@@ -117,15 +82,17 @@ export default {
         .attr("height", this.attr.height);
 
       const simulation = d3.forceSimulation(graphData.nodes)
-        .force("link", d3.forceLink(graphData.links).id(d => d.slug).distance(function(d) {if(d.relation == 'text'){console.log(d.relation); return 1} else {return 200}}))
-        .force("charge", d3.forceManyBody().strength(-600).distanceMin(1).distanceMax(500))
+        .force("link", d3.forceLink(graphData.links).id(d => d.slug).distance(function(d) {if(d.titleLink){ return 300} else {return 250}}))
+        .force("charge", d3.forceManyBody().strength(function(d){if (d.index === 0){ return -6000 } else { return -600}}).distanceMin(1).distanceMax(500))
         .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2))
-        .force("radial", d3.forceRadial(this.attr.height / 2))
-        .force("collide", d3.forceCollide(80).strength(0.2))
-
-      let colorScale = d3.scaleOrdinal()
-        .domain(d3.range(graphData.nodes.length))
-        .range(["#84E3B0","#FA9129","#C64C4C","#EE9389","#9A7051","#0047FF","#DD3821","#6E2E60","#F5C721"])
+        // .force("radial", d3.forceRadial(this.attr.height * 1))
+        .force("collide", d3.forceCollide(function(d){
+          if(d.isText){
+            return 120
+          } else {
+            return 90
+          }
+        }).strength(0.2))
 
       const link = svg.append("g")
         .attr("stroke", "#fff")
@@ -136,15 +103,17 @@ export default {
         .attr("stroke-width", d => d.value);
 
       const node = svg.append("g")
-        
+        .attr('class', 'nodeparent')
         .selectAll("rect")
         .data(graphData.nodes)
         .enter()
         .append('g')
-        .attr('transform', function (d) {
-          // let cirX = d.x
-          // let cirY = d.y
-          // return 'translate(' + cirX + ',' + cirY + ')'
+        .attr('class', function(d){
+          if(d.isText) {
+            return 'nodechild title'
+          } else {
+            return 'nodechild'
+          }
         })
         .attr('id', function(d) {
           return d.slug
@@ -154,52 +123,53 @@ export default {
         
 
         node.append("rect")
-          // .attr("r", function(d) {
-          //   if(d.radius == 'big'){
-          //     return 70
-          //   } else {
-          //     return 37.5
-          //   }
-          // })
           .attr('x', function(d , i){
-            if(d.letter && d.width){
-              return that.attr.nodeSize*d.width/2 * -1
+            if(d.index === 0){
+              return that.attr.rootNodeSize*-0.5
+            } else if(d.isText){
+              return (d.title.length * that.attr.titleTextWidthValue)* -0.5
             } else {
-              return that.attr.nodeSize/2 * -1
+              return that.attr.nodeSize*-0.5
             }
           })
-          .attr('y', that.attr.nodeSize/2 * -1)
+          .attr('y', function(d , i){
+            if(d.index === 0){
+              return that.attr.rootNodeSize*-0.5
+            } else {
+              return that.attr.nodeSize*-0.5
+            }
+          })
           .attr('width', function (d, i) {
-            if(d.letter && d.width){
-              return 80 * d.width
-            } else if(d.radius == 'big') {
-              return 120
+            if(d.index === 0){
+              return that.attr.rootNodeSize
+            } else if(d.isText) {
+              return d.title.length * that.attr.titleTextWidthValue 
             } else {
               return that.attr.nodeSize
             }
           })
           .attr('height', function (d, i) {
-            if(d.letter){
-              return 80
-            } else if(d.radius == 'big') {
-              return 120
+            if(d.index === 0){
+              return that.attr.rootNodeSize
             } else {
               return that.attr.nodeSize
             }
           })
           .attr('fill', function (d, i) {
-            if(d.letter == true){
+            if(d.isText == true){
               return '#000'
             } else {
-              return colorScale(i)
+              // return colorScale(i)
+              console.log(d.colour_scheme);
+              return 'var(--scheme-'+ d.colour_scheme +'-bg)'
             }
             
           })
           .attr('rx', function (d, i) {
-            if(d.letter == true){
+            if(d.isText == true){
               return 25
             } else if (d.tao_type == 'material'){
-              return 50
+              return 500
             } else if (d.tao_type == 'story'){
               return 20
             } else if (d.tao_type == 'theme'){
@@ -207,65 +177,249 @@ export default {
             }
           })
 
+        node.append("image")
+          .attr("xlink:href", function(d){
+            if (d.cover_image && d.cover_image.image){
+              return d.cover_image.image 
+            }
+          })
+          .attr('x', function(d , i){
+            if(d.index === 0){
+              return that.attr.rootNodeSize * -1
+            } else {
+              return that.attr.nodeSize * -1
+            }
+          })
+          .attr('y', function(d , i){
+            if(d.index === 0){
+              return that.attr.rootNodeSize * -1
+            } else {
+              return that.attr.nodeSize * -1
+            }
+          })
+          .attr('width', function(d , i){
+            if(d.index === 0){
+              return that.attr.rootNodeSize * 2
+            } else {
+              return that.attr.nodeSize * 2
+            }
+          })
+          .attr('height', function(d , i){
+            if(d.index === 0){
+              return that.attr.rootNodeSize * 2
+            } else {
+              return that.attr.nodeSize * 2
+            }
+          })
+          .attr("clip-path", function(d){
+            if(d.index === 0){
+              if(d.tao_type == 'story') return "url(#story-clip-big)"
+              if(d.tao_type == 'material') return "url(#material-clip-big)"
+              if(d.tao_type == 'theme') return "url(#theme-clip-big)"
+            } else {
+              if(d.tao_type == 'story') return "url(#story-clip)"
+              if(d.tao_type == 'material') return "url(#material-clip)"
+              if(d.tao_type == 'theme') return "url(#theme-clip)"
+            }
+          })
+
         node.append("text")
           
-          .attr("dy", this.attr.nodeSize + 'px')
+          .attr("dy", function(d){
+            if(d.index === 0){
+              return that.attr.rootNodeSize*0.8 + 'px'
+            } else if(d.isText){
+              return '18px'
+            } else {
+              return that.attr.nodeSize + 'px'
+            }
+          })
           .attr("font-family", "CentSchbook Mono BT")
           .attr('font-size', function (d, i) {
-            if(d.letter == true){
-              return '56px'
+            if(d.isText == true){
+              return '54px'
             }
             return '0.5rem'
           })
           .attr('fill', function (d, i) {
-            if(d.letter == true){
-              return '#000'
+            if(d.isText == true){
+              return '#fff'
             }
             return '#000'
           })
           .text(function(d) { return d.title })
           .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
 
+        const defs = svg.append("defs");
+        defs.append("clipPath")
+          .attr("id", "material-clip")
+          .append("rect")
+          .attr("x", this.attr.nodeSize*-0.5)
+          .attr("y", this.attr.nodeSize*-0.5)
+          .attr("width", this.attr.nodeSize)
+          .attr("height", this.attr.nodeSize)
+          .attr("rx", this.attr.nodeSize)
+        
+        defs.append("clipPath")
+          .attr("id", "story-clip")
+          .append("rect")
+          .attr("x", this.attr.nodeSize*-0.5)
+          .attr("y", this.attr.nodeSize*-0.5)
+          .attr("width", this.attr.nodeSize)
+          .attr("height", this.attr.nodeSize)
+          .attr("rx", this.attr.storyRadius)
 
-          node.on('mouseover', function(event, d) {
-            d3.select(this).selectAll('rect')
-              .transition()
-              .duration(150)
-              .ease(d3.easeQuadOut)
-              .attr("transform", "scale(2)")
+        defs.append("clipPath")
+          .attr("id", "theme-clip")
+          .append("rect")
+          .attr("x", this.attr.nodeSize*-0.5)
+          .attr("y", this.attr.nodeSize*-0.5)
+          .attr("width", this.attr.nodeSize)
+          .attr("height", this.attr.nodeSize)
 
-            // d3.select(this)
-            //   .transition()
-            //   .duration(200)
-            //   .attr("transform", "scale(2)");
+        defs.append("clipPath")
+          .attr("id", "material-clip-big")
+          .append("rect")
+          .attr("x", this.attr.rootNodeSize*-0.5)
+          .attr("y", this.attr.rootNodeSize*-0.5)
+          .attr("width", this.attr.rootNodeSize)
+          .attr("height", this.attr.rootNodeSize)
+          .attr("rx", this.attr.rootNodeSize)
+        
+        defs.append("clipPath")
+          .attr("id", "story-clip-big")
+          .append("rect")
+          .attr("x", this.attr.rootNodeSize*-0.5)
+          .attr("y", this.attr.rootNodeSize*-0.5)
+          .attr("width", this.attr.rootNodeSize)
+          .attr("height", this.attr.rootNodeSize)
+          .attr("rx", this.attr.storyRadius)
 
-            link.style('stroke', function(l) {
-              if (d === l.source || d === l.target){
-                return "black";
-              }
-              else {
-                return "#fff";
-              }
-            });
+        defs.append("clipPath")
+          .attr("id", "theme-clip-big")
+          .append("rect")
+          .attr("x", this.attr.rootNodeSize*-0.5)
+          .attr("y", this.attr.rootNodeSize*-0.5)
+          .attr("width", this.attr.rootNodeSize)
+          .attr("height", this.attr.rootNodeSize)
+
+        node.on('mouseover', function(event, d) {
+
+          svg.selectAll('.nodeparent g').sort(function (a, b) { // select the parent and sort the path's
+            
+            if (a.slug != d.slug) {
+              return -1; // a is not the hovered element, send "a" to the back
+            }
+            else {
+              return 1; // a is the hovered element, bring "a" to the front
+            }
           });
 
-          node.on('click', function(event, d){
-            that.navigate(event, d)
-          })
+          d3.select(this).selectAll('rect')
+            .transition()
+            .duration(150)
+            .ease(d3.easeQuadOut)
+            .attr("transform", "scale(1.5)")
+
+          d3.select(this).selectAll('image')
+            .transition()
+            .duration(150)
+            .ease(d3.easeQuadOut)
+            .attr("transform", "scale(1.5)")
+
+          // d3.select(this)
+          //   .transition()
+          //   .duration(200)
+          //   .attr("transform", "scale(2)");
+
+          link.style('stroke', function(l) {
+            if (d === l.source || d === l.target){
+              return "black";
+            }
+            else {
+              return "#fff";
+            }
+          });
+        });
+
+        node.on('click', function(event, d){
+
+          if(d.isText){return}
+
+          // link.style('stroke', "transparent");
+
+          d3.select(this).selectAll('rect')
+            .classed("active", true)
+          
+          d3.select(this).selectAll('image')
+            .classed("active", true)
+
+          d3.select(this).selectAll('text')
+            .classed("active", true)
+
+          // d3.selectAll('rect')
+          //   .filter(function() {
+          //     return !this.classList.contains('active')
+          //   })
+          //   .transition()
+          //   .duration(100)
+          //   .ease(d3.easeQuadOut)
+          //   .style("opacity", "0")
+
+          d3.selectAll('rect')
+            .filter(function() {
+              return !this.classList.contains('active')
+            })
+            .transition()
+            .duration(100)
+            .ease(d3.easeQuadOut)
+            .attr("fill", "#FFFFFF")
+
+
+          d3.selectAll('image')
+            .filter(function() {
+              return !this.classList.contains('active')
+            })
+            .transition()
+            .duration(400)
+            .ease(d3.easeQuadOut)
+            .style("opacity", "0")
+
+          d3.selectAll('text')
+            .filter(function() {
+              return !this.classList.contains('active')
+            })
+            .transition()
+            .duration(400)
+            .ease(d3.easeQuadOut)
+            .style("opacity", "0")
 
           
 
-          // Set the stroke width back to normal when mouse leaves the node.
-          node.on('mouseout', function() {
-            
-            d3.select(this).selectAll('rect')
-              .transition()
-              .duration(100)
-              .ease(d3.easeQuadOut)
-              .attr("transform", "scale(1)")
-            link.style('stroke', "#fff");
+          setTimeout(function(){ that.navigate(event, d) }, 700);
+          
+        })
 
-          });
+        
+
+        // Set the stroke width back to normal when mouse leaves the node.
+        node.on('mouseout', function() {
+          
+          d3.select(this).selectAll('rect')
+            .transition()
+            .duration(100)
+            .ease(d3.easeQuadOut)
+            .attr("transform", "scale(1)")
+          
+          d3.select(this).selectAll('image')
+            .transition()
+            .duration(100)
+            .ease(d3.easeQuadOut)
+            .attr("transform", "scale(1)")
+
+          link.style('stroke', "#fff");
+
+        });
 
         
 
@@ -294,7 +448,7 @@ export default {
       }
       
       function dragended(event) {
-        if (!event.active) simulation.alphaTarget(0.0001);
+        if (!event.active) simulation.alphaTarget(0.00005);
         event.subject.fx = null;
         event.subject.fy = null;
       }
@@ -320,6 +474,21 @@ export default {
 <style lang="less" scoped>
 #d3-main{
   margin-top: -8rem;
+}
+
+::v-deep svg{
+  -webkit-filter: drop-shadow( 0px 4px 10px rgba(0, 0, 0, 0.05));
+  .nodechild{
+    cursor: pointer;
+    // -webkit-filter: drop-shadow( 0px 4px 10px rgba(0, 0, 0, 0.05));
+    &.title{
+      cursor: grab;
+      // -webkit-filter: drop-shadow( 0px 4px 10px rgba(0, 0, 0, 0.05));
+    }
+    // &:hover{
+    //   -webkit-filter: drop-shadow( 0px 4px 10px rgba(0, 0, 0, 0.5));
+    // }
+  }
 }
 
 </style>

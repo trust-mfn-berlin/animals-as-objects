@@ -1,23 +1,48 @@
 ---
-id: fee46412-5135-463a-8019-d002f5b513ea
-title: Chaotic Origins of Micropaleontology
-desc: Put a description of this note here...
-updated: 1621866533155
-created: 1621514713008
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Filippo Bertoni.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: DE Chaotic Origins of Micropaleontology
+created: 1621514713008
+author: Filippo Bertoni
+short_desc_de: DE Naturalists struggled to understand microorganisms
+date_end: 1850-12-31T11:06:32.000Z
 published: false
+title: Chaotic Origins of Micropaleontology
+updated: 1621866533155
+id: fee46412-5135-463a-8019-d002f5b513ea
+translators:
+  translator_en_de: Anna von Rath
+desc: As microorganisms began to enter our field of vision, naturalists
+  struggled to understand their relations to the rest of nature. The story of
+  these struggles, especially how they took shape around the MfN, can show how
+  much microorganisms transformed over time, and how they keep challenging what
+  animals are.
+desc_de: DE As microorganisms began to enter our field of vision, naturalists
+  struggled to understand their relations to the rest of nature. The story of
+  these struggles, especially how they took shape around the MfN, can show how
+  much microorganisms transformed over time, and how they keep challenging what
+  animals are.
+short_desc: Naturalists struggled to understand microorganisms
+cover_image:
+  image: /images/cover-chaotic-origins.jpg
+  alt: "Illustrations of microorganisms. Illustrationen von Mikroorganismen.
+    Source: Leeuwenhoek, 1677."
+tao_type: story
+date_start: 1765-12-31T23:06:32.000Z
+colour_scheme: 17
 ---
 
 :::EN:::
 
+<figure>
+
 ![a page from the 1766 edition of Linnaeus' Systema Naturae, describing in Latin the Class "chaos infusorium"](/images/filo/Linnaeus-chaos-infusorium.jpg)
 
+<figcaption>
+
 _The final page of Linnaeus' 12th edition of the Systema Naturae, published in 1766, presenting the official description of the "chaos infusorium", placed in the class Vermes, "worms"._ [^micropaleontology1]
+
+</figcaption>
+</figure>
 
 Ever since the earliest microscopic observations in the 17th and 18th centuries, novel instruments and techniques enabled glimpses of unexpected and complex [[theme.microbial worlds]]. At first, the diversity of microbial life appeared chaotic and undefined, so much so that in 1767 [[material.carl linnaeus]] defined all microscopic organisms as the _chaos infusorium_. But as the taxonomical ordering of the natural world proceeded, especially during the 19th century, naturalists were faced with the task of making sense of this surprising diversity. By the end of the century, this diversity no longer appeared so chaotic: recurring forms stimulated the imagination of scientists and suggested an order to these microorganisms. In this period, many attempted to describe and classify microbial organisms, collectively known as [[material.infusoria]], in ways that ran parallel to the taxonomic ordering of larger and more familiar life forms. Yet, the tools and frameworks of early taxonomy proved ill-suited to the task: as the nature of microorganisms underwent significant transformations most early classifications were rapidly replaced and overturned. To this day, they continue to surprise and confound us.
 
@@ -29,9 +54,6 @@ In his desire to refute these dominant understandings of life, which were common
 [^micropaleontology2]: The impact of these early descriptions is quantified in Lazarus, David. "The legacy of early radiolarian taxonomists, with a focus on the species published by early German workers." _Journal of Micropalaeontology_ 33, no. 1 (2014): 3-19.
 [^micropaleontology3]: This argument is clearly laid out in Orbigny, Alcide Dessalines d'. _Foraminifères fossiles du bassin tertiaire de Vienne (Autriche)_. Paris: Gide et Compe. (1846). https://doi.org/10.5962/bhl.title.145432
 [^micropaleontology4]: See, for instance, Churchill, Frederick B. "The guts of the matter. Infusoria from Ehrenberg to Bütschli: 1838–1876." _Journal of the History of Biology_ 22, no. 2 (1989): 189-213. https://doi.org/10.1007/BF00139512
-
-
-<!-- And this allows us to leave notes to the others that are not visible in the preview. -->
 
 :::DE:::
 

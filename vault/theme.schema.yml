@@ -1,9 +1,0 @@
-version: 1
-schemas:
-- id: story
-  title: story
-  namespace: true
-  parent: root
-  template:
-    id: templates.story
-    type: note

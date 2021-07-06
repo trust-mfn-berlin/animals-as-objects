@@ -1,10 +1,31 @@
 <template>
   <article class="block" :class="article.tao_type">
-    <nuxt-link :to="'/'+article.slug">
-    <img :src="'https://loremflickr.com/600/600/butterfly?random=' + article.id" />
-    <div class="text" :style="{backgroundColor:'var(--scheme-'+schemeNumber+'-bg)', color:'var(--scheme-'+schemeNumber+'-fg)'}">
-      <h2 class="f-serif">{{article.title}}</h2>
-      <p class="f-serif description" v-if="article.tao_type != 'material'">In biology, taxonomy is a formal system to name, define, and classify organisms, regulated and governed by agreed upon rules. Since its beginning biological taxonomy was neither stable nor universal, since controversies emerged, and classifications continue to change still today.</p>
+    <nuxt-link :to="urlBilingual">
+    <figure v-if="article.cover_image && article.cover_image.image">
+      <nuxt-img quality="80" width="600" height="600" fit="cover" :src="article.cover_image.image" :alt="article.cover_image.alt" />
+    </figure>
+
+    <figure v-else>
+      <img :src="'https://loremflickr.com/600/600/butterfly?random=' + article.id" />
+    </figure>
+
+    <div class="text" :style="{backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
+      <hgroup>
+        <h2 class="f-serif">{{titleBilingual}}</h2>
+        <h3 class="f-mono caption" 
+          v-if="article.tao_type == 'material' && article.date_start || article.tao_type == 'material' && article.date_end">
+          <span v-if="article.date_start">{{article.date_start | formatDateYear}}</span>
+          <span v-if="article.date_start && article.date_end">–</span>
+          <span v-if="article.date_end">{{isToday}}</span>
+        </h3>
+        <!-- <h3 class="f-mono caption" 
+          v-else-if="article.tao_type == 'material' && article.short_desc">
+          {{article.short_desc}}
+        </h3> -->
+      </hgroup>
+      <div class="description-wrap">
+        <p class="f-serif description" v-if="article.tao_type != 'material' && article.desc">{{descBilingual}}</p>
+      </div>
     </div>
     </nuxt-link>
   </article>
@@ -25,9 +46,39 @@ export default {
     }
   },
   computed:{
-    schemeNumber(){
-      return Math.floor(Math.random() * 15)
-    }
+    isToday(){
+      const endDate = this.$options.filters.formatDateYear(this.article.date_end)
+      if(endDate == '2021' || endDate == 2021 || endDate == '2022' || endDate == 2022 || endDate == '2023' || endDate == 2023){
+        if(this.$store.getters.siteLanguage == 'de'){
+          return "Heute"
+        } else {
+          return "Today"
+        }
+      } else {
+        return endDate
+      }
+    },
+    urlBilingual(){
+      if(this.$store.getters.siteLanguage == 'de'){
+        return '/de/' + this.article.slug
+      } else {
+        return '/' + this.article.slug
+      }
+    },
+    titleBilingual(){
+      if(this.$store.getters.siteLanguage == 'de' && this.article.title_de){
+        return this.article.title_de
+      } else {
+        return this.article.title
+      }
+    },
+    descBilingual(){
+      if(this.$store.getters.siteLanguage == 'de' && this.article.desc_de){
+        return this.article.desc_de
+      } else {
+        return this.article.desc
+      }
+    },
   }
 }
 </script>
@@ -40,40 +91,74 @@ article{
     height: 100%;
   }
 
-  img{
+  figure{
     height: 100%;
     width: 12rem;
-    // filter:grayscale(0.9);
-    // z-index: -1;
+    min-width: 12rem;
+    max-width: 12rem;
+    overflow: hidden; 
+    flex-grow: 1;
+    img{
+      width: 100%;
+      height: 100%;
+      // object-fit: cover;
+    }
+  }
+
+  figure + .text {
+    margin-left:-3.5rem;
   }
 
   .text{
-    margin-left:-3.5rem;
     background-color: @white;
     width: 100%;
     box-shadow: @shadow;
     padding: @space-l;
+    display: inline-block;
 
-    .animatepop(transform);
+    // .animatepop(transform);
+    .animatefast(all);
 
+    hgroup{
+      max-width: 100%;
+    }
     h2{
       max-width: 100%;
       overflow: hidden;
       text-overflow: ellipsis;
     }
 
-    p{
-      margin-top: @space-s;
-      max-width: calc(30vw - 4rem);
+    h3{
+      margin-top:@space-xs;
+      transform: translateY(0.4rem);
     }
 
-    &:hover{
-      transform: scale(1.15);
+    .description-wrap{
+      margin-top: @space-s;
+      display: flex;
+    }
+
+    p.description{
+      max-height: 7rem;
+      flex-grow: 1;
+      width: 0;
+    }
+
+    
+  }
+
+  &:hover{
+    .text{
+    transform: scale(1.05);
+    // transform: translateY(-5px);
+    background-color: @white !important;
+    color: @black !important;
+    box-shadow: @shadow-hover;
     }
   }
 
   &.material{
-    img{
+    figure{
       border-radius: 500px;
     }
 
@@ -85,7 +170,7 @@ article{
       align-items: center;
       flex-direction: row;
 
-      h2{
+      hgroup{
         margin: auto;
       }
     }
@@ -95,13 +180,13 @@ article{
 
     .text{
       min-width: calc(30vw - 1rem);
-      max-width: 1000px;
+      max-width: 750px;
       flex-grow: 1;
     }
   }
 
   &.story{
-    img{
+    figure{
       border-radius: @radius-l;
     }
     .text{

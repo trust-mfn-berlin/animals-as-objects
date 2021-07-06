@@ -1,11 +1,12 @@
 <template>
-  <div role="radiogroup" aria-labelledby="filter-label">
-    <text-button role="radio" aria-checked="false" linkto="" id="filter-label" :isDisabled="true">Sort By</text-button>
+  <div class="subnav-filter" role="radiogroup" aria-labelledby="filter-label">
+    <text-button role="radio" type="button" aria-checked="false" id="filter-label" :isDisabled="true">Sort By</text-button>
     <text-button 
+      type="button"
+      class="filter"
       v-for="(filter, i) in filterOptions"
       :key="filter.name"
-      role="radio" 
-      linkto=""
+      role="radio"
       :isActive="activeFilter == filter.name ? true : false"
       :aria-checked="activeFilter == filter.name ? true : false"
       @click.native="selectFilter(i)"
@@ -56,5 +57,12 @@ export default {
 </script>
 
 <style lang="less" scoped>
-
+.subnav-filter{
+  position: fixed;
+  top:3rem;
+  
+  .filter{
+    margin-right: @space-xs;
+  }
+}
 </style>

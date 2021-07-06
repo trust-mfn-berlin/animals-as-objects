@@ -1,16 +1,29 @@
 ---
-id: f2e04dbc-1209-40b6-baf5-599fd36e63c7
-title: Katharina Heinroth
-desc: Put a description of this note here...
-updated: 1621977156848
-created: 1619797579886
-title_de: Katharina Heinroth
-desc_de: Put a DE description of this note here...
-author: CMW
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Katharina Heinroth
+created: 1619797579886
+author: Clemens Maier-Wolthausen
+short_desc_de: Foto von Katharina Heinroth auf der morgendlichen Runde durch den Zoo
+date_end: 1955-12-31T11:00:00.000Z
 published: false
+title: Katharina Heinroth
+updated: 1621977156848
+id: f2e04dbc-1209-40b6-baf5-599fd36e63c7
+translators:
+  translator_de_en: Lucy Gasser
+desc: EN Foto von Katharina Heinroth auf der morgendlichen Runde durch den Zoo
+desc_de: Foto von Katharina Heinroth auf der morgendlichen Runde durch den Zoo
+short_desc: EN Foto von Katharina Heinroth auf der morgendlichen Runde durch den Zoo
+cover_image:
+  image: /images/cover-katharina-heinroth.jpg
+  alt: 'Berlin zoo director Katharina Heinroth on her morning rounds with four
+    employees and Newfoundland dog "Ajax", 1946. Berliner Zoodirektorin
+    Katharina Heinroth auf ihrer morgendlichen Runde mit vier Mitarbeitern und
+    dem Neufundländer "Ajax", 1946. Source: AZGB, photo Liselotte Orgel. All
+    rights reserved.'
+tao_type: material
+date_start: 1944-12-31T23:00:00.000Z
+colour_scheme: 2
 ---
 
 :::EN:::

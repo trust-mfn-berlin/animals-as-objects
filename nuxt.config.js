@@ -45,6 +45,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    '~/plugins/date-filter.js',
     '~/plugins/scrolltop-animate-mixin.js'
   ],
 
@@ -70,8 +71,13 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     '@nuxt/content',
+    '@nuxtjs/axios',
     'cookie-universal-nuxt',
   ],
+
+  axios:{
+    baseUrl: 'https://log.animalsasobjects.org'
+  },
 
   image: {
     // Nuxt Image Options
@@ -161,21 +167,45 @@ export default {
     crawler: false,
     async routes () {
       const files = await $content().fetch()
-      const routes = files.map(file => {
-        return {
-          route: file.slug === '/index' ? '/' : file.slug,
-          payload: file
+
+      var routeArray = [];
+
+      files.forEach(file => {
+        if(file.tao_type){
+          // articles
+          routeArray.push({
+            route: file.slug,
+            payload: file
+          });
+          // articles PDF ready
+          routeArray.push({
+            route: file.slug + '/print',
+            payload: file
+          });
+          // articles DE
+          routeArray.push({
+            route: '/de/' + file.slug,
+            payload: file
+          })
+          // articles DE PDF ready
+          routeArray.push({
+            route: '/de/' + file.slug + '/print',
+            payload: file
+          })
+        } else {
+          // Other Pages
+          routeArray.push({
+            route: file.slug === '/index' ? '/' : file.slug,
+            payload: file
+          })
+          routeArray.push({
+            route: file.slug === '/index' ? '/de/' : '/de/' + file.slug,
+            payload: file
+          })
         }
-      })
-      const routes_de = files.map(file => {
-        return {
-          route: file.slug === '/index' ? '/de/' : '/de/' + file.slug,
-          payload: file
-        }
-      })
-      let routesBilingual = [...routes, ...routes_de];
-      // console.log(routesBilingual);
-      return routesBilingual
+      });
+
+      return routeArray
     },
     exclude: [
       /^\/admin/ // path starts with /admin

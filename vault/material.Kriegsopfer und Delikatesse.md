@@ -1,7 +1,7 @@
 ---
 id: 7a6f20a3-d602-46e2-b08d-6818a8aefd54
 title: Kriegsopfer und Delikatesse
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1621610477396
 created: 1621605393109
 title_de: Add a german title here
@@ -11,6 +11,7 @@ tao_type: material
 cover_image: null
 license: CC BY-SA
 published: false
+colour_scheme: 6
 ---
 
 

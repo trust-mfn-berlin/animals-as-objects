@@ -1,7 +1,7 @@
 ---
 id: fad77e63-8f00-4a06-902d-a74005ab083d
 title: Lions and Ruins
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1620744274807
 created: 1620742838337
 title_de: Add a german title here
@@ -11,6 +11,7 @@ tao_type: material
 cover_image: null
 license: CC BY-SA
 published: false
+colour_scheme: 12
 ---
 
 

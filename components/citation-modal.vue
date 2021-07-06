@@ -1,9 +1,11 @@
 <template>
-  <div class="citation-modal" role="dialog" aria-labelledby="citation_label" aria-modal="true">
-    <h3 id="citation_label" class="f-mono subheading">Cite this article</h3>
-    <p class="f-mono" ref="citation">{{article.author}}, "{{article.title}}", <em>Animals as Objects?</em>, <span v-if="article.translator">, trans. {{article.translator}},</span> 15 Nov. 2021, Last updated {{article.updatedAt}}, animalsasobjects.org/{{article.slug}} <span v-if="article.doi">DOI: {{article.doi}}</span></p>
+  <div class="citation-modal" role="dialog" aria-labelledby="citation_label" aria-modal="true" :class="$store.getters.articleTaoType">
+    <h3 id="citation_label" class="f-mono subheading" v-if="siteLang == 'en'">Cite this article</h3>
+    <h3 id="citation_label" class="f-mono subheading" v-else>zitiere diesen Artikel</h3>
+    <p class="f-mono citation text-links" ref="citation" v-if="siteLang == 'en'">{{article.author}}, "{{article.title}}", <em>Animals as Objects?</em>, <span v-if="article.translators"> trans. {{article.translators.translator_de_en}},</span> 15 November 2021, Last updated {{article.updatedAt | formatDate}}, <a>https://animalsasobjects.org/{{article.slug}}</a> <span v-if="article.doi">DOI: <a>https://doi.naturkundemuseum.berlin/data/{{article.doi}}</a></span></p>
+    <p class="f-mono citation text-links" ref="citation" v-else>{{article.author}}, "{{article.title_de}}", <em>Tiere als Objekte?</em>, <span v-if="article.translators">, Übers. {{article.translators.translator_en_de}},</span> 15. November 2021, letzte Aktualisierung {{article.updatedAt | formatDate}}, <a>https://animalsasobjects.org/de/{{article.slug}}</a> <span v-if="article.doi">DOI: <a>https://doi.naturkundemuseum.berlin/data/{{article.doi}}</a></span></p>
     <text-button linkto='' @click.native="copyCitation()">{{copyButtonText}}</text-button>
-    <icon-button icon="close" @click.native="$store.commit('toggleCitationModal', {isOpen:false, article:''})">Close</icon-button>
+    <icon-button class="close" :tao_type="$store.getters.articleTaoType" icon="close" @click.native="$store.commit('toggleCitationModal', {isOpen:false, article:''})">Close</icon-button>
   </div>
 </template>
 
@@ -25,7 +27,9 @@ export default {
     }
   },
   computed:{
-
+    siteLang(){
+      return this.$store.getters.siteLanguage
+    },
   },
   methods:{
     copyCitation(){
@@ -35,11 +39,21 @@ export default {
 
       navigator.clipboard.writeText(copyText).then(function() {
         console.log('copied!')
-        that.copyButtonText = 'Copied!'
+        if(that.siteLang == 'de'){
+          that.copyButtonText = 'kopiert'
+        } else {
+          that.copyButtonText = 'Copied!'
+        }
+        
       }, function(){
         console.log('error while copying!')
         that.copyButtonText = 'Copy failed....'
       });
+    }
+  },
+  mounted(){
+    if(this.siteLang == 'de'){
+      this.copyButtonText = 'in die Zwischenablage kopieren'
     }
   }
 }
@@ -51,5 +65,24 @@ export default {
   margin: 0 auto;
   background-color: @white;
   padding:@space-l;
+  position: relative;
+
+  &.material{
+    border-radius: @radius-l;
+  }
+
+  &.story{
+    border-radius: @radius-m;
+  }
+
+  p.citation{
+    margin: @space-m 0;
+  }
+  
+  .close{
+    position: absolute;
+    top:@space-m;
+    right: @space-m;
+  }
 }
 </style>

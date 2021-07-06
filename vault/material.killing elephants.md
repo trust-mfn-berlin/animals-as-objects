@@ -1,7 +1,7 @@
 ---
 id: 0445dc89-ecf0-440f-9e0e-c61291bd869f
 title: Killing Elephants
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1620395344217
 created: 1620395315684
 title_de: Elefanten töten
@@ -11,6 +11,7 @@ tao_type: material
 cover_image: null
 license: CC BY-SA
 published: false
+colour_scheme: 3
 ---
 
 

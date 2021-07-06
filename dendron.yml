@@ -25,4 +25,4 @@ journal:
     dateFormat: y.MM.dd
     addBehavior: childOfDomain
     firstDayOfWeek: 1
-dendronVersion: 0.47.0
+dendronVersion: 0.48.1

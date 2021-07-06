@@ -9,3 +9,5 @@ dist
 
 /static/images/*
 /static/audio/*
+/static/pdfs/*
+/static/pdf/*

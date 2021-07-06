@@ -1,7 +1,9 @@
 <template>
   <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual" @mouseover.native="onMouseover" @mouseleave.native="onMouseleave">
-    <img :src="'https://loremflickr.com/64/64/butterfly?random=' + article.id" alt="" />
-    <span class="text" :style="{border:'1px solid var(--scheme-'+schemeNumber+'-bg)', backgroundColor:'var(--scheme-'+schemeNumber+'-bg)', color:'var(--scheme-'+schemeNumber+'-fg)'}">
+    <span class="thumbnail-wrap">
+    <nuxt-img v-if="article.cover_image && article.cover_image.image" quality="80" width="64" height="64" fit="cover" :src="article.cover_image.image"  />
+    </span>
+    <span class="text" :style="{backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
       <span class="f-serif subheading" v-html="alias ? alias : titleBilingual"></span>
     </span>
   </nuxt-link>
@@ -45,10 +47,6 @@ export default {
         return this.article.title
       }
     },
-    schemeNumber(){
-      return Math.floor(Math.random() * 15)
-    }
-  
   }
 }
 </script>
@@ -57,17 +55,27 @@ export default {
 a{
   display: flex;
   .animatemedium(transform);
+
+  .thumbnail-wrap{
+    height: 1.33333rem;
+  }
+
   img{
     height: 1.33333rem;
     width: 1.33333rem;
+    box-shadow: @shadow-small;
+    margin-right: @space-xs;
   }
+
+  
   
   .text{
+    border: 1px solid transparent;
     background-color: @white;
     height: 1.33333rem;
     padding:0.37rem 0.4rem 0;
     box-shadow: @shadow-small;
-    margin-left: @space-xs;
+    // margin-left: @space-xs;
     display: inline-block;
     line-height: unset;
 
@@ -77,17 +85,20 @@ a{
       max-width: 15rem;
       overflow:hidden;
       display: block;
+      line-height: @lh-xs;
     }
 
     .animatefast(all);
   }
 
   &:hover{
-    // transform: translateY(-4px);
+    transform: translateY(-2px);
     .text{
+      // transform: scale(1.1);
       box-shadow: @shadow-small-hover;
       background-color: @white !important;
       color: @black !important;
+      z-index: 9;
     }
   }
 

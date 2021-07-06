@@ -1,16 +1,33 @@
 ---
-id: df37d6fb-33ac-4b34-bc21-3401db3aac52
-title: Micropaleontological Formations
-desc: Micropaleontology is the scientific study of microfossils, fossils that are microscopic in size and therefore are not visible to the naked eye. As the nature of this object of study suggests, the field is extremely diverse and dynamic; tracing its history is akin to the work of micropaleontologists. Like these scientists as they study seemingly static geological strata and formations to understand the complex dynamics constantly shaping and reshaping our planet, to understand the history of this discipline, we need to grasp the dynamics of its stratifications over time. 
-updated: 1621864868195
-created: 1618502886244
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Filippo Bertoni.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: DE Micropaleontological Formations
+created: 1618502886244
+author: Filippo Bertoni
+short_desc_de: DE Paleontology with a microscope
+date_end: 2021-07-06T11:40:11.857Z
 published: false
+title: Micropaleontological Formations
+updated: 1621864868195
+id: df37d6fb-33ac-4b34-bc21-3401db3aac52
+translators:
+  translator_en_de: Anna von Rath
+desc: Micropaleontology is the scientific study of microfossils, fossils that
+  are microscopic in size and therefore not visible to the naked eye. This story
+  retraces the history of this field by presenting - and appropriating -
+  micropaleontological methodological approaches.
+desc_de: DE Micropaleontology is the scientific study of microfossils, fossils
+  that are microscopic in size and therefore not visible to the naked eye. This
+  story retraces the history of this field by presenting - and appropriating -
+  micropaleontological methodological approaches.
+short_desc: Paleontology with a microscope
+cover_image:
+  image: /images/cover-micropaleo-formations.jpg
+  alt: "Illustration of biostratigraphic formations. Illustration
+    biostratigraphischer Formationen. Source:
+    https://commons.wikimedia.org/wiki/File:Faunal_sucession.jpg"
+tao_type: story
+date_start: 1853-12-31T23:06:32.000Z
+colour_scheme: 1
 ---
 
 :::EN:::

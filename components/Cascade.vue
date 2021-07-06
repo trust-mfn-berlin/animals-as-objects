@@ -1,7 +1,7 @@
 <template>
   <div class="cascade-container">
     <ul>
-      <li v-for="article of articles" :key="article.id">
+      <li v-for="(article, index) of articles" :key="article.id + index">
         <Block :article="article"/>
       </li>
     </ul>

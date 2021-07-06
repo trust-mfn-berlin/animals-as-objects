@@ -1,7 +1,7 @@
 ---
 id: 53a02181-3788-44e1-ade5-463d27a31533
 title: Lutz Heck
-desc: Put a description of this note here...
+desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 updated: 1618503057248
 created: 1618503035375
 title_de: Lutz Heck
@@ -11,6 +11,7 @@ tao_type: material
 cover_image: null
 license: CC BY-SA
 published: false
+colour_scheme: 11
 ---
 
 :::EN:::

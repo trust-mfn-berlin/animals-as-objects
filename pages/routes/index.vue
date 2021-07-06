@@ -1,16 +1,19 @@
 <template>
   <div v-if="page">
-    <section>
+    <main>
+    <section class="current-route">
       <h2>Your current route</h2>
       <your-current-route :routes="matchedRoutes" :max="9"/>
+      <small class="f-mono caption">This is your current route through the content. Don’t worry, all information is anonymous.</small>
     </section>
-    <section>
+    <section class="routes-intro">
       <h2>Curated Routes</h2>
       <nuxt-content :document="page"/>
     </section>
-    <section>
-      <routes-list :routes="routes" />
+    <section class="routes">
+      <curated-routes-list :routes="routes" />
     </section>
+    </main>
   </div>
 </template>
 
@@ -69,5 +72,32 @@ export default {
 </script>
 
 <style lang="less" scoped>
+main{
+
+}
+
+section{ 
+  padding: 0 @space-s;
+  h2{
+    margin: 1rem 0;
+  }
+}
+
+section.current-route{
+  margin-bottom: 4rem;
+}
+
+section.routes-intro{
+  width: 60vw;
+
+  p{
+    line-height: @lh-long;
+  }
+}
+
+section.routes{
+  padding :@space-s;
+  background-color: @bg-2;
+}
 
 </style>

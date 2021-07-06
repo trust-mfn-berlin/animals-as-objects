@@ -87,16 +87,18 @@ export default {
         .attr("height", this.attr.height);
 
       const simulation = d3.forceSimulation(this.nodes)
-        .force("link", d3.forceLink(this.links).id(d => d.slug))
+        .force("link", d3.forceLink(this.links).id(d => d.slug).distance(100))
         .force("charge", d3.forceManyBody().strength(-600).distanceMin(1).distanceMax(500))
         .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2))
         .force("radial", d3.forceRadial(this.attr.width / 2))
-        .force("collide", d3.forceCollide(this.attr.nodeSize + 10).strength(0.2))
-        
-
-      let colorScale = d3.scaleOrdinal()
-        .domain(d3.range(this.nodes.length))
-        .range(d3.schemeCategory10)
+        .force("collide", d3.forceCollide(function(d){
+          if(that.nodes.length < 3){
+            return that.attr.nodeSize + 90
+          } else {
+            return that.attr.nodeSize + 10
+          }
+        }).strength(0.9))
+        // .force("collide", d3.forceCollide(this.attr.nodeSize + 10).strength(0.2))
 
       const link = svg.append("g")
         .attr("stroke", "#000")
@@ -137,6 +139,14 @@ export default {
         .attr("height", this.attr.nodeSize)
         .attr("rx", this.attr.storyRadius)
 
+      defs.append("clipPath")
+        .attr("id", "theme-clip")
+        .append("rect")
+        .attr("x", this.attr.nodeSize*-0.5)
+        .attr("y", this.attr.nodeSize*-0.5)
+        .attr("width", this.attr.nodeSize)
+        .attr("height", this.attr.nodeSize)
+
       node.append("rect")
         // .attr("r", this.attr.nodeSize)
         .attr("x", this.attr.nodeSize*-0.5)
@@ -149,7 +159,8 @@ export default {
         })
         .attr('fill', function (d, i) {
           if(d.slug == that.article.slug) return 'var(--current-scheme-bg)'
-          return colorScale(i)
+          if(d.colour_scheme) return 'var(--scheme-'+ d.colour_scheme +'-bg)'
+          // return colorScale(i)
         })
 
       node.append("text")
@@ -189,11 +200,11 @@ export default {
             .ease(d3.easeQuadOut)
             .attr("transform", "scale(1.5)")
 
-          // d3.select(this).selectAll('image')
-          //   .transition()
-          //   .duration(150)
-          //   .ease(d3.easeQuadOut)
-          //   .attr("transform", "scale(1.5)")
+          d3.select(this).selectAll('image')
+            .transition()
+            .duration(150)
+            .ease(d3.easeQuadOut)
+            .attr("transform", "scale(1.5)")
           
           link.attr('stroke-width', '1');
           link.style('stroke', function(l) {
@@ -223,25 +234,30 @@ export default {
             .ease(d3.easeQuadOut)
             .attr("transform", "scale(1)")
 
-          // d3.select(this).selectAll('image')
-          //   .transition()
-          //   .duration(150)
-          //   .ease(d3.easeQuadOut)
-          //   .attr("transform", "scale(1)")
+          d3.select(this).selectAll('image')
+            .transition()
+            .duration(150)
+            .ease(d3.easeQuadOut)
+            .attr("transform", "scale(1)")
 
           d3.select(this).select('text')
           .attr('fill', 'rgba(0,0,0,0.2)')
         });
 
       node.append("image")
-        .attr("xlink:href", "https://loremflickr.com/64/64/butterfly")
-        .attr("x", this.attr.nodeSize*-0.5)
-        .attr("y", this.attr.nodeSize*-0.5)
-        .attr("width", this.attr.nodeSize)
-        .attr("height", this.attr.nodeSize)
+        .attr("xlink:href", function(d){
+          if (d.cover_image && d.cover_image.image){
+            return d.cover_image.image 
+          }
+        })
+        .attr("x", this.attr.nodeSize*-1)
+        .attr("y", this.attr.nodeSize*-1)
+        .attr("width", this.attr.nodeSize*2)
+        .attr("height", this.attr.nodeSize*2)
         .attr("clip-path", function(d){
           if(d.tao_type == 'story') return "url(#story-clip)"
           if(d.tao_type == 'material') return "url(#material-clip)"
+          if(d.tao_type == 'theme') return "url(#theme-clip)"
         })
         .style("opacity", function(d){
           if(d.slug == that.article.slug) return '0'
