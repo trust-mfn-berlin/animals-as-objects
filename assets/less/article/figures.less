@@ -1,0 +1,146 @@
+
+// Images
+
+main.open{
+
+  figure{
+    img{
+      max-width: calc(90vw - 20rem - @space-s);
+
+      @media screen and (max-width: @mq-s) /* Mobile */ {
+        max-width: @article-width-mobile;
+      }
+    }
+  }
+  #articlebody figure:first-child{
+
+    max-width: @article-max-width;
+    
+    img{
+      // max-width: 100% !important;
+    }
+    
+  }
+}
+
+
+#articlebody figure:first-child{
+  position: relative;
+
+  max-width: @article-max-width;
+  width: @article-width;;
+  margin-top:0;
+
+  p{
+    position: relative;
+    line-height: 0;
+    margin-top: 0;  
+  }
+  p::before{
+    content:'';
+    position: absolute;
+    background-color: var(--current-scheme-bg);
+    // background-color: inherit;
+    // background-color: red;
+    height: 100%;
+    top:0;
+    left:-100vw;
+    width: 200vw;
+    z-index: -99;
+  }
+
+  figcaption p::before{
+    content: unset;
+    background-color: blue;
+  }
+
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    width: @article-width-mobile;
+    max-width: 100%;
+  }
+
+}
+
+figure{
+  margin: 5rem auto;
+  max-width: @article-width;
+  width: fit-content;
+
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    max-width: @article-width-mobile;
+  }
+  // Fucking.. markdown wraps everything in a P tag!
+  p{
+    max-width: 100%;
+  }
+  img{
+    max-width: 100%;
+    max-height: 1000px;
+  }
+
+
+  p{
+    width: max-content;
+    margin: 0;
+    line-height: 1.2;
+  }
+
+  div.series{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    // width: calc(60vw + 4rem);
+    width: 100%;
+    // transform: translateX(-2rem);
+    p{
+      flex-grow: 1;
+      margin: 0 0.25rem;
+    }
+    img{
+      // width: 30%;
+      width: 100%;
+    }
+
+    @media screen  and (min-width: @mq-xs) and (max-width: @mq-m) /* Tablet Portrait */ {
+      flex-direction: column;
+    }
+  }
+
+  figcaption{
+    // max-width: max-content;
+    margin-top:@space-s;
+    display: flex;
+    p{
+      margin-top:0 !important;
+      line-height: @lh-short !important;
+      flex-grow: 1;
+      width: 0;
+    }
+
+    ::v-deep span.wiki-link-component{
+      bottom:0;
+      a{
+        border-bottom: none;
+        img{
+          display: none;
+        }
+        .text{
+          box-shadow: none;
+          border-radius: 0;
+          margin: 0;
+          height: auto !important;
+          padding: 0 !important;
+          .subheading{
+            font-size:@fs-xs;
+          }
+        }
+      }
+    }
+  }
+}
+
+// Remove margin for images following headings
+
+h2+figure {
+  margin-top: 0rem;
+}

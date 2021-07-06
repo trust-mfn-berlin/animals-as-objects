@@ -32,19 +32,11 @@ feature: true
 
 <figure>
 
-<div class="series">
-
-![Titelseite von Der Zoologische Garten mit Foto von Tier XYZ](/images/cmw/ZG_1933.jpg)
-
 ![Titelseite von Der Zoologische Garten mit Foto von Nashorn](/images/cmw/ZG_1961.jpg)
-
-![Titelseite von Der Zoologische Garten mit Foto von Gleitbeutler](/images/cmw/ZG_2015.jpg)
-
-</div>
 
 <figcaption>
 
-_Titelseiten der Zeitschrift_ Der Zoologische Garten _von 1933, 1961 und 2015._
+_Titelseiten der Zeitschrift_ Der Zoologische Garten _von 1933, 1961 und 2015._ Hi Son La, we figured, we’d see how long image descriptions can actually be?! Some screenreaders cut them off after a certain nr of words. Most images are not just decorative, so a long description would make more sense than a supershort AltText, but I can cut them all down, if needed.
 
 </figcaption>
 
