@@ -4,7 +4,7 @@ title_de: DE Micropaleontology at Sea
 created: 1621522440708
 author: Filippo Bertoni
 short_desc_de: DE Microfossils and ocean exploration
-date_end: ""
+date_end: 1960-12-31T11:00:00.000Z
 published: false
 title: Micropaleontology at Sea
 updated: 1621875066503
@@ -24,7 +24,7 @@ cover_image:
     Tiefseebohrschiff Glomar Challenger, 1968. Source:
     https://commons.wikimedia.org/wiki/File:GlomarChallengerBW.JPG"
 tao_type: story
-date_start: ""
+date_start: 1949-12-31T23:00:00.000Z
 ---
 
 :::EN:::
