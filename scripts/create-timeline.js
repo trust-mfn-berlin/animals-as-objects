@@ -50,8 +50,12 @@ async function getContent(filePath, encoding = "utf-8") {
     if(frontmatter.date_start || frontmatter.date_end){
       var dataObject = {
         slug: slug,
+        title: frontmatter.title,
+        title_de: frontmatter.title_de,
         date_start: frontmatter.date_start ? frontmatter.date_start : undefined,
-        date_end: frontmatter.date_end ? frontmatter.date_end : undefined
+        date_end: frontmatter.date_end ? frontmatter.date_end : undefined,
+        cover_image: frontmatter.cover_image,
+        colour_scheme: frontmatter.colour_scheme
       }
       dates.push(dataObject)
     }
