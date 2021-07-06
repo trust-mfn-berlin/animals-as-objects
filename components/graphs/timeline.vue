@@ -14,8 +14,8 @@ export default {
     return {
       attr : {
         width: 1200,
-        height: 600,
-        nodeRadius: 15,
+        height: 900,
+        lineWidth: 30,
         padding:5,
         ticks: 20,
         margin: {
@@ -23,87 +23,16 @@ export default {
           right: 40,
           left: 40,
           bottom: 40,
-        }
+        },
+        spaceMultiplier: 30
       },
-      data : [
-        {
-          title:'Finding Cycladophora',
-          value:1859,
-          colour_scheme:0
-        },
-        {
-          title:'Using Cycladophora start',
-          value:1950,
-          colour_scheme:1
-        },
-        {
-          title:'Using Cycladophora end',
-          value:2021,
-          colour_scheme:1
-        },
-        {
-          title:'Industrial Micropaleontology start',
-          value:1921,
-          colour_scheme:4
-        },
-        {
-          title:'Industrial Micropaleontology end',
-          value:1950,
-          colour_scheme:4
-        },
-        {
-          title:'Taxonomical Orders start',
-          value:1753,
-          colour_scheme:5
-        },
-        {
-          title:'Taxonomical Orders end',
-          value:2021,
-          colour_scheme:5
-        },
-        {
-          title:'Chaotic origins start',
-          value:1766,
-          colour_scheme:6
-        },
-        {
-          title:'Cycladophora davisiana start',
-          value:1859,
-          colour_scheme:7
-        },
-        {
-          title:'Cycladophora davisiana end',
-          value:2021,
-          colour_scheme:7
-        },
-        {
-          title:'Knut born',
-          value:2006,
-          colour_scheme:11
-        },
-        {
-          title:'Knut died',
-          value:2011,
-          colour_scheme:11
-        },
-        {
-          title:'Steinmetz-index start',
-          value:1930,
-          colour_scheme:13
-        },
-        {
-          title:'Steinmetz-index end',
-          value:1945,
-          colour_scheme:13
-        }
-      ]
     }
   },
   computed:{
     x(){
       // console.log(timelineData);
       return d3.scaleTime()
-        .domain(d3.extent(timelineData, d => new Date(d.date_start)))
+        .domain([d3.min(timelineData, d => new Date(d.date_start)), d3.max(timelineData, d => new Date(d.date_end))])
         .range([this.attr.margin.left, this.attr.width - this.attr.margin.right])
     }
   },
@@ -111,6 +40,8 @@ export default {
     init(){
 
       var svg;
+
+      const that = this;
 
       svg = d3
         .select("#d3-timeline")
@@ -121,72 +52,50 @@ export default {
         svg.append("g").call(this.xAxis);
 
         svg.append("g")
-          .selectAll("circle")
-          .data(this.dodge(timelineData, {radius: this.attr.nodeRadius * 2 + this.attr.padding, x: d => this.x(new Date(d.date_start))}))
-          .join("circle")
-            .attr("cx", d => d.x)
-            .attr("cy", d => this.attr.height - this.attr.margin.bottom - this.attr.nodeRadius - this.attr.padding - d.y)
-            .attr("r", this.attr.nodeRadius)
-            .attr("style", function(d){
-              return 'fill: var(--scheme-' + d.data.colour_scheme + '-bg)'
-              })
+          .selectAll("line")
+          .data(this.dodge(timelineData, {x0: d => this.x(new Date(d.date_start)), x1: d => this.x(new Date(d.date_end))}))
+          .join("g")
+            .classed("timeline", true)
+            .append("line")
+              .attr("x1", d => d.x0)
+              .attr("x2", d => d.x1)
+              .attr("y1", d => d.y)
+              .attr("y2", d => d.y)
+              .attr("stroke", function(d){
+                return 'var(--scheme-' + d.data.colour_scheme + '-bg)'
+                })
+              .attr('stroke-width', this.attr.lineWidth)
+              .attr('stroke-linecap', 'round')
+        
+        d3.selectAll('.timeline')
           .append("title")
             .text(d => d.data.title);
+
+        d3.selectAll('.timeline')
+          .append("text")
+            .text(d => d.data.title)
+            .attr('font-size', '12px')
+            .attr("font-family", "CentSchbook Mono BT")
+            .attr("dy", function(d, i) { return that.attr.height - that.attr.margin.bottom - i*that.attr.spaceMultiplier})
+            .attr("dx", function(d) { return (d.x0 + (d.x1 - d.x0)/2) - this.getBoundingClientRect().width*0.5})
+            // .attr("fill", function(d){
+            //   return 'var(--scheme-' + d.data.colour_scheme + '-fg)'
+            // })
+          
+          
     },
-    dodge(data, {radius = 1, x = d => d} = {}) {
-
-      // console.log(data.map((d, i, data) => ({
-      //   x: +x(d, i, data), 
-      //   data: d
-      // }
-      // )));
-
-      // console.log(x(data[0]))
-      // console.log(this.x(data[0]));
+    dodge(data, {x0 = d => d, x1 = d => d} = {}) {
 
 
-      const radius2 = radius ** 2;
-      const circles = data.map((d, i, data) => ({x: + x(d, i, data), data: d})).sort((a, b) => a.x - b.x);
-      const epsilon = 1e-3;
-      let head = null, tail = null;
+      const lines = data.map((d, i, data) => ({
+        x0: x0(d, i, data), 
+        x1: x1(d, i, data), 
+        y: this.attr.height - this.attr.margin.bottom - 5 - i*this.attr.spaceMultiplier,
+        data: d}))
 
-      // Returns true if circle ⟨x,y⟩ intersects with any circle in the queue.
-      function intersects(x, y) {
-        let a = head;
-        while (a) {
-          if (radius2 - epsilon > (a.x - x) ** 2 + (a.y - y) ** 2) {
-            return true;
-          }
-          a = a.next;
-        }
-        return false;
-      }
-
-      // Place each circle sequentially.
-      for (const b of circles) {
-        // Remove circles from the queue that can’t intersect the new circle b.
-        while (head && head.x < b.x - radius2) head = head.next;
-
-        // Choose the minimum non-intersecting tangent.
-        if (intersects(b.x, b.y = 0)) {
-          let a = head;
-          b.y = Infinity;
-          do {
-            let y = a.y + Math.sqrt(radius2 - (a.x - b.x) ** 2);
-            if (y < b.y && !intersects(b.x, y)) b.y = y;
-            a = a.next;
-          } while (a);
-        }
-
-        // Add b to the queue.
-        b.next = null;
-        if (head === null) head = tail = b;
-        else tail = tail.next = b;
-      }
-
-      // console.log(circles);
+      console.log(lines);
       
-      return circles;
+      return lines;
     },
     xAxis(g){
       g.attr("transform", `translate(0,${this.attr.height - this.attr.margin.bottom + 5})`)
