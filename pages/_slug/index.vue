@@ -209,9 +209,10 @@ main{
     
     #articlebody figure:first-child{
 
-      width: @article-max-width;
+      max-width: @article-max-width;
+      
       img{
-        max-width: 100% !important;
+        // max-width: 100% !important;
       }
       
     }
@@ -328,7 +329,8 @@ figcaption{
 #articlebody figure:first-child{
   position: relative;
 
-  width: @article-max-width;
+  max-width: @article-max-width;
+  width: @article-width;;
   margin-top:0;
 
   p{
@@ -352,6 +354,11 @@ figcaption{
   figcaption p::before{
     content: unset;
     background-color: blue;
+  }
+
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    width: @article-width-mobile;
+    max-width: 100%;
   }
 
 }
