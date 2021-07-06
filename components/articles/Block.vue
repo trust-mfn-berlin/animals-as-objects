@@ -16,7 +16,7 @@
           v-if="article.tao_type == 'material' && article.date_start || article.tao_type == 'material' && article.date_end">
           <span v-if="article.date_start">{{article.date_start | formatDateYear}}</span>
           <span v-if="article.date_start && article.date_end">–</span>
-          <span v-if="article.date_end">{{article.date_end | formatDateYear}}</span>
+          <span v-if="article.date_end">{{isToday}}</span>
         </h3>
         <!-- <h3 class="f-mono caption" 
           v-else-if="article.tao_type == 'material' && article.short_desc">
@@ -46,6 +46,18 @@ export default {
     }
   },
   computed:{
+    isToday(){
+      const endDate = this.$options.filters.formatDateYear(this.article.date_end)
+      if(endDate == '2021' || endDate == 2021 || endDate == '2022' || endDate == 2022 || endDate == '2023' || endDate == 2023){
+        if(this.$store.getters.siteLanguage == 'de'){
+          return "Heute"
+        } else {
+          return "Today"
+        }
+      } else {
+        return endDate
+      }
+    },
     urlBilingual(){
       if(this.$store.getters.siteLanguage == 'de'){
         return '/de/' + this.article.slug
