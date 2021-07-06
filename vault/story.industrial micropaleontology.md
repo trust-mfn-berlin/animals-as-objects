@@ -4,7 +4,7 @@ title_de: Industrielle Mikropaleontologie
 created: 1621521087155
 author: Filippo Bertoni
 short_desc_de: DE Microfossils revolutionised oil extraction
-date_end: ""
+date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Industrial Micropaleontology
 updated: 1621868648303
@@ -21,7 +21,7 @@ cover_image:
   alt: "Oil well, 1908. Erdölquelle, 1908. Source:
     https://commons.wikimedia.org/wiki/File:Salt_Creek_Oil_Field_well.jpg"
 tao_type: story
-date_start: ""
+date_start: 1920-12-31T23:00:00.000Z
 ---
 
 :::EN:::
