@@ -4,7 +4,7 @@ title_de: DE Chaotic Origins of Micropaleontology
 created: 1621514713008
 author: Filippo Bertoni
 short_desc_de: DE Naturalists struggled to understand microorganisms
-date_end: ""
+date_end: 1850-12-31T11:06:32.000Z
 published: false
 title: Chaotic Origins of Micropaleontology
 updated: 1621866533155
@@ -27,7 +27,7 @@ cover_image:
   alt: "Illustrations of microorganisms. Illustrationen von Mikroorganismen.
     Source: Leeuwenhoek, 1677."
 tao_type: story
-date_start: ""
+date_start: 1765-12-31T23:06:32.000Z
 ---
 
 :::EN:::
