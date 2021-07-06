@@ -4,7 +4,7 @@ title_de: DE Finding Cycladophora
 created: 1624875316911
 author: Filippo Bertoni
 short_desc_de: DE From telegraphs to samples
-date_end: ""
+date_end: 1859-12-31T11:06:32.000Z
 published: false
 title: Finding Cycladophora
 updated: 1624875335228
@@ -29,7 +29,7 @@ cover_image:
     Telegrafenkabeln im Nordatlantik, 1865. Source:
     https://atlantic-cable.com/Maps/index.htm"
 tao_type: story
-date_start: ""
+date_start: 1858-12-31T23:06:32.000Z
 ---
 
 
