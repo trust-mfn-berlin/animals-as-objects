@@ -4,17 +4,20 @@
 main.open{
 
   figure{
-    img{
-      max-width: calc(90vw - 20rem - @space-s);
-
-      @media screen and (max-width: @mq-s) /* Mobile */ {
-        max-width: @article-width-mobile;
+    p{
+      // max-width: @article-max-width;
+      img{
+        // max-width: calc(90vw - 20rem - @space-s);
+    
+        @media screen and (max-width: @mq-s) /* Mobile */ {
+          max-width: @article-width-mobile;
+        }
       }
     }
   }
   #articlebody figure:first-child{
 
-    max-width: @article-max-width;
+    // max-width: @article-max-width;
     
     img{
       // max-width: 100% !important;
@@ -27,8 +30,8 @@ main.open{
 #articlebody figure:first-child{
   position: relative;
 
-  max-width: @article-max-width;
-  width: @article-width;;
+  // max-width: @article-max-width;
+  // width: @article-width;;
   margin-top:0;
 
   p{
@@ -62,8 +65,12 @@ main.open{
 }
 
 figure{
+
+  // Debug
+  // border:1px solid green;
+
   margin: 5rem auto;
-  max-width: @article-width;
+  max-width: 100%;
   width: fit-content;
 
   @media screen and (max-width: @mq-s) /* Mobile */ {
