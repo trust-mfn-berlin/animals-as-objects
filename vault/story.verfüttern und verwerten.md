@@ -30,6 +30,7 @@ cover_image:
     Vennen. All rights reserved."
 tao_type: story
 date_start: 1932-12-31T23:00:00.000Z
+colour_scheme: 8
 ---
 :::EN:::
 

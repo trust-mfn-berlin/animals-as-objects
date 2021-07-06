@@ -17,7 +17,7 @@
 <script>
 import * as d3 from 'd3'
 import featuredGraphData from '~/temp/graphdata.json';
-var graphData = featuredGraphData[1];
+var graphData = featuredGraphData[0];
 
 const title_nodes = [
   {

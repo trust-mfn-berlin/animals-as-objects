@@ -27,6 +27,7 @@ cover_image:
   alt: EN and DE description cover image
 tao_type: story
 date_start: 1932-12-31T23:00:00.000Z
+colour_scheme: 10
 ---
 
 :::EN:::

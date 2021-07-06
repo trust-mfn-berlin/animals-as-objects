@@ -21,6 +21,7 @@ cover_image:
     Heinroth. All rights reserved."
 tao_type: material
 date_start: 1919-12-31T23:00:00.000Z
+colour_scheme: 6
 ---
 
 :::EN:::

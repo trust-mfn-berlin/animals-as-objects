@@ -26,6 +26,7 @@ cover_image:
     photo Lutz Heck. All rights reserved."
 tao_type: story
 date_start: 1844-12-31T23:06:32.000Z
+colour_scheme: 13
 ---
 
 :::EN:::

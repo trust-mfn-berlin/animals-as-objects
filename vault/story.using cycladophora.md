@@ -29,6 +29,7 @@ cover_image:
     Source: Hays, Imbrie & Shackleton 1976."
 tao_type: story
 date_start: 1949-12-31T23:00:00.000Z
+colour_scheme: 3
 ---
 
 
