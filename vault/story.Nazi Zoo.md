@@ -1,11 +1,14 @@
 ---
 license: CC BY-SA
-title: Zoo and National Socialism
 title_de: Der Zoo im Nationalsozialismus
 created: 1619020958263
+author: Clemens Maier-Wolthausen
+short_desc_de: Propagandainstrument und Zwangsarbeit
+date_end: 1945-12-31T11:00:00.000Z
+published: false
+title: Zoo and National Socialism
 updated: 1622732314334
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
-author: Clemens Maier-Wolthausen
 translators:
   translator_de_en: Lucy Gasser
 desc: EN In der Zeit der nationalsozialistischen Diktatur boten sich Zooleitung
@@ -19,14 +22,11 @@ desc_de: In der Zeit der nationalsozialistischen Diktatur boten sich Zooleitung
   Zoodirektor war mit der Elite des Regimes gut vernetzt. Während des Krieges
   wurden Zwangsarbeiter ausgebeutet.
 short_desc: EN Propagandainstrument und Zwangsarbeit
-short_desc_de: Propagandainstrument und Zwangsarbeit
 cover_image:
   image: /images/cover-zoo-in-nazi-regime.jpg
   alt: EN and DE description cover image
 tao_type: story
-date_start: ""
-date_end: ""
-published: false
+date_start: 1932-12-31T23:00:00.000Z
 ---
 
 :::EN:::
