@@ -103,7 +103,7 @@ export default {
     x(){
       // console.log(timelineData);
       return d3.scaleTime()
-        .domain(d3.extent(timelineData, d => d.date_start))
+        .domain(d3.extent(timelineData, d => new Date(d.date_start)))
         .range([this.attr.margin.left, this.attr.width - this.attr.margin.right])
     }
   },
@@ -122,7 +122,7 @@ export default {
 
         svg.append("g")
           .selectAll("circle")
-          .data(this.dodge(timelineData, {radius: this.attr.nodeRadius * 2 + this.attr.padding, x: d => this.x(d.date_start)}))
+          .data(this.dodge(timelineData, {radius: this.attr.nodeRadius * 2 + this.attr.padding, x: d => this.x(new Date(d.date_start))}))
           .join("circle")
             .attr("cx", d => d.x)
             .attr("cy", d => this.attr.height - this.attr.margin.bottom - this.attr.nodeRadius - this.attr.padding - d.y)
@@ -141,7 +141,8 @@ export default {
       // }
       // )));
 
-      console.log(x())
+      // console.log(x(data[0]))
+      // console.log(this.x(data[0]));
 
 
       const radius2 = radius ** 2;
