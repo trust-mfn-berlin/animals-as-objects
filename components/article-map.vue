@@ -1,5 +1,5 @@
 <template>
-  <article>
+  <article v-if="slides">
     <div class="slide" v-for="(slide, index) in slides" :key="index" >
       <transition name="fade">
       <figure v-show="currentSlide == index" >

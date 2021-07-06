@@ -23,6 +23,35 @@ cover_image:
 tao_type: story
 date_start: 1920-12-31T23:00:00.000Z
 colour_scheme: 8
+map_slide:
+  - map_image: /images/mapexample1.jpg
+    map_image_de: /images/mapexample2.jpg
+    caption: Animal traders, zoo employees and museum staff brought Bobby to Berlin
+      in 1928, and distributed his remains between different institutions after
+      his death in 1935.
+    caption_de: DE Animal traders, zoo employees and museum staff brought Bobby to Berlin
+      in 1928, and distributed his remains between different institutions after
+      his death in 1935.
+    caption_image: 
+      src: /images/cover-industrial-micropaleo.jpg
+      alt: alt tag here
+    title: Bobby born
+    title_de: DE Bobby born
+  - caption: The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[here is a very long alias, about fossil fuels!|material.fossil fuels]] had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century
+    caption_de: DE The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[here is a very long alias, about fossil fuels!|material.fossil fuels]] had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century
+    caption_image: 
+      src: /images/cover-getting-animals.jpg
+      alt: alt tag here
+    map_image: /images/mapexample2.jpg
+    map_image_de: /images/mapexample2.jpg
+    title: Bobby lorem ipsum 
+    title_de: DE Bobby lorem ipsum
+  - caption: The gorilla's group in country x was likely killed to capture "Bobby". Person y brought him to Berlin by ship and train in 1928. Once dead, parts of "Bobby" were sent to different institutions via transport z in 1935.
+    caption_de: DE The success of micropaleontology was to come from an unexpected field of research, petroleum geosciences. Since the beginning of the 20th century, the use of [[here is a very long alias, about fossil fuels!|material.fossil fuels]] had been growing exponentially. This was due to the success of the internal combustion engine, developments in transport, and oil's significant advantages over coal and steam (being lighter, easier to transport, and cheaper, with a better calorific value). Yet, at the beginning of the century
+    map_image: /images/mapexample1.jpg
+    map_image_de: /images/mapexample1.jpg
+    title: Bobby split up
+    title_de: DE Bobby split up
 ---
 
 :::EN:::
