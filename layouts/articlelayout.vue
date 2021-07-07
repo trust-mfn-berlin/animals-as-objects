@@ -17,6 +17,7 @@
 
 <script>
 export default {
+  name:'article-layout',
   computed:{
     trackingEnabled(){
       this.$store.getters.isTrackingEnabled;

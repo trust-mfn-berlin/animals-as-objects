@@ -35,7 +35,7 @@
 
 export default {
   name:'article-page',
-  layout:'article',
+  layout:'articlelayout',
   data(){
     return{
       footnotes:"",
@@ -98,7 +98,6 @@ export default {
   mounted(){
 
     // console.log('Mounted', this.article);
-
     // update colour scheme
     
     this.initPage();
@@ -110,9 +109,8 @@ export default {
 
     // remove footnotes from dom(?) 
     // document.getElementsByClassName('footnotes')[0].remove()
-
-    this.addFootnoteListener();
     
+      this.addFootnoteListener();
     
   },
   beforeDestroy(){
@@ -120,6 +118,8 @@ export default {
   },
   async asyncData({ $content, params, error, payload, store }) {
     var article = {};
+
+    // console.log('helllo');
 
     // console.log(payload);
 

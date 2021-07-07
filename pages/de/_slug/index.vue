@@ -31,7 +31,7 @@
 
 export default {
   name:'article-page',
-  layout:'article',
+  layout:'articlelayout',
   data(){
     return{
       footnotes:"",
