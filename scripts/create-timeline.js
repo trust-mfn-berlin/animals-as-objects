@@ -6,7 +6,7 @@ const fs = require('fs-extra');
 const metadataParser = require('markdown-yaml-metadata-parser');
 const contentDir = path.join(__dirname, '..', 'vault');
 
-console.log(contentDir);
+// console.log(contentDir);
 
 var dates = [];
 
@@ -69,7 +69,7 @@ async function getContent(filePath, encoding = "utf-8") {
   }
 
 
-  console.log(dates);
+  // console.log(dates);
 
   console.log('writing dates file..');
 
