@@ -47,7 +47,11 @@ export default {
   },
   methods:{
     navigate(event, d){
-      this.$router.push('/' + d.slug);
+      if (this.$store.getters.siteLanguage == 'de'){
+        this.$router.push('/de/' + d.slug);
+      } else {
+        this.$router.push('/' + d.slug);
+      }
     },
     createLinks(){
 
