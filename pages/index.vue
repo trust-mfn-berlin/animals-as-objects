@@ -1,19 +1,23 @@
 <template>
   <div>
     <graph />
-    <section>
+    <section class="cascade">
       <p class="intro">Animals as Objects? is an online publication produced by the Museum für Naturkunde Berlin and Zoo-Berlin. Learn more about the unique connections between some of Berlin’s most beloved animals by viewing articles: <span class="theme">Themes</span> are large topics that contain many <span class="story">Stories</span>, and <span class="material">Materials</span> are focused explorations into these emergent connections.</p>
       <Cascade :articles="articles" />
       <text-button linkto="/articles">View All Articles</text-button>
     </section>
 
-    <section>
+    <section class="routes">
       <h2>Curated routes</h2>
       <curated-routes-list :routes="routes" />
-      <text-button linkto="/routes">View more routes</text-button>
+      <text-button linkto="/routes">Explore more Curated routes</text-button>
     </section>
 
-    <timeline />
+    <section class="timeline">
+      <h2>Timeline</h2>
+      <timeline />
+      <text-button linkto="/articles">View All Articles</text-button>
+    </section>
   </div>
 </template>
 
@@ -131,9 +135,21 @@ body{
 }
 
 section{
-  background-color: @bg-2;
+  
   padding:@space-s;
   margin-bottom: 2rem;
+
+  &.cascade{
+    background-color: @bg-2;
+  }
+
+  &.routes{
+
+  }
+
+  &.timeline{
+    background-color: @bg-2;
+  }
 }
 
 p.intro{

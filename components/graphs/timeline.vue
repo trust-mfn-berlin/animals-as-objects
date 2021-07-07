@@ -55,7 +55,7 @@ export default {
           .selectAll("line")
           .data(this.dodge(timelineData, {x0: d => this.x(new Date(d.date_start)), x1: d => this.x(new Date(d.date_end))}))
           .join("g")
-            .classed("timeline", true)
+            .classed("d3-timeline-line", true)
             .append("line")
               .attr("x1", d => d.x0)
               .attr("x2", d => d.x1)
@@ -67,11 +67,11 @@ export default {
               .attr('stroke-width', this.attr.lineWidth)
               .attr('stroke-linecap', 'round')
         
-        d3.selectAll('.timeline')
+        d3.selectAll('.d3-timeline-line')
           .append("title")
             .text(d => d.data.title);
 
-        d3.selectAll('.timeline')
+        d3.selectAll('.d3-timeline-line')
           .append("text")
             .text(d => d.data.title)
             .attr('font-size', '12px')
