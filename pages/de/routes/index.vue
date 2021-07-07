@@ -19,6 +19,9 @@
 
 <script>
 export default {
+  created(){
+    this.$store.commit('setSiteLanguage', 'de')
+  },
   async asyncData({ $content, params, error, payload }) {
     var page = {};
     var routes = [];

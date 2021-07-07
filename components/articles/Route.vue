@@ -1,6 +1,6 @@
 <template>
   <article>
-    <nuxt-link class="text" :to="'/routes/'+route.slug">
+    <nuxt-link class="text" :to="urlBilingual">
       <hgroup>
         <h2 class="f-serif">{{titleBilingual}}</h2>
         <h3 class="f-mono caption">{{route.author}}</h3>
@@ -40,6 +40,13 @@ export default {
     }
   },
   computed:{
+    urlBilingual(){
+      if(this.$store.getters.siteLanguage == 'de'){
+        return '/de/routes/' + this.route.slug
+      } else {
+        return '/routes/' + this.route.slug
+      }
+    },
     titleBilingual(){
       if(this.$store.getters.siteLanguage == 'de' && this.route.title_de){
         return this.route.title_de
