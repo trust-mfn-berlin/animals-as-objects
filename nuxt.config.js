@@ -166,9 +166,21 @@ export default {
   generate: {
     crawler: false,
     async routes () {
-      const files = await $content().fetch()
+      const files = await $content().fetch();
+      const curatedRoutes = await $content('/netlify/pathways').fetch();
 
       var routeArray = [];
+
+      curatedRoutes.forEach(file => {
+        routeArray.push({
+          route: '/routes/' +file.slug,
+          payload: file
+        });
+        routeArray.push({
+          route: '/de/routes/' + file.slug,
+          payload: file
+        });
+      });
 
       files.forEach(file => {
         if(file.tao_type){
@@ -204,6 +216,7 @@ export default {
           })
         }
       });
+
 
       return routeArray
     },

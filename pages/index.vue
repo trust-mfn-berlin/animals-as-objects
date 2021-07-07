@@ -29,7 +29,7 @@ export default {
   async asyncData({ $content }) {
     const content = await $content().without(['body', 'body_de']).fetch();
     const routes = await $content('/netlify/pathways').fetch();
-    // console.log(routes);
+
     var articles = [];
     
     var t = [];
