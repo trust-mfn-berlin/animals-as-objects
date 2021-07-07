@@ -81,6 +81,7 @@ export default {
 
   // background-color: rgba(255,255,255,0.2);
   background-color: rgba(255,255,255,0.7);
+  // background-color: @white;
   backdrop-filter: blur(15px);
   // height: 2rem;
 

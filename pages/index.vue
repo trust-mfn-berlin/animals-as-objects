@@ -1,13 +1,19 @@
 <template>
-  <div>
+  <div style="postion: relative">
+
     <graph />
+    
+    <div class="spacer"></div>
     <section class="cascade">
-      <p class="intro">Animals as Objects? is an online publication produced by the Museum für Naturkunde Berlin and Zoo-Berlin. Learn more about the unique connections between some of Berlin’s most beloved animals by viewing articles: <span class="theme">Themes</span> are large topics that contain many <span class="story">Stories</span>, and <span class="material">Materials</span> are focused explorations into these emergent connections.</p>
+      <p class="intro"><span class="f-mono">Animals as Objects?</span> is an online publication produced by the Museum für Naturkunde Berlin and Zoo-Berlin. Learn more about the unique connections between some of Berlin’s most beloved animals by viewing articles: <span class="theme tao_type">Themes</span> are large topics that contain many <span class="story tao_type">Stories</span>, and <span class="material tao_type">Materials</span> are focused explorations into these emergent connections.</p>
       <Cascade :articles="articles" />
       <text-button linkto="/articles">View All Articles</text-button>
     </section>
 
-    <section class="routes">
+    
+    
+
+    <!-- <section class="routes">
       <h2>Curated routes</h2>
       <curated-routes-list :routes="routes" />
       <text-button linkto="/routes">Explore more Curated routes</text-button>
@@ -17,7 +23,7 @@
       <h2>Timeline</h2>
       <timeline />
       <text-button linkto="/articles">View All Articles</text-button>
-    </section>
+    </section> -->
   </div>
 </template>
 
@@ -134,13 +140,26 @@ body{
   /* background-color: #F3EEE9; */
 }
 
+.spacer{
+  height: calc(100vh);
+  pointer-events: none;
+}
+
 section{
+
+  h2{
+    margin-bottom: @space-s;
+  }
   
   padding:@space-s;
   margin-bottom: 2rem;
 
   &.cascade{
-    background-color: @bg-2;
+    position: relative;
+    // z-index: 1;
+    // background-color: @bg-2;
+    background: rgba(243, 236, 229, 0.8);
+    backdrop-filter: blur(10px);
   }
 
   &.routes{
@@ -155,7 +174,7 @@ section{
 p.intro{
   margin-bottom: 1rem;
 
-  span::before{
+  span.tao_type::before{
     content:'';
     display: inline-block;
     width: 0.7rem;

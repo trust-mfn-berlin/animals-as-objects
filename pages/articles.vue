@@ -34,12 +34,22 @@
         </li>
       </ul>
       </section>
+
+      <section v-show="activeFilter == 'date'">
+        <h2>Timeline</h2>
+        <timeline />
+      </section>
     </main>
   </div>
 </template>
 
 <script>
+import timeline from '../components/graphs/timeline'
+
 export default {
+  components:{
+    timeline
+  },
   data(){
     return{
 
@@ -95,8 +105,15 @@ export default {
   padding: 0 @space-s;
 }
 
-ul, ol{
+ul{
   margin:@space-s 0 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap:@space-s;
+}
+
+ol{
+  margin:0 0 2rem;
   display: flex;
   flex-wrap: wrap;
   gap:@space-s;

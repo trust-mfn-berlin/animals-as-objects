@@ -479,7 +479,9 @@ export default {
 </script>
 <style lang="less" scoped>
 #d3-main{
-  margin-top: -8rem;
+  position: fixed;
+  top:0;
+  // margin-top: -8rem;
   max-width: 100vw;
   overflow: hidden;
 }

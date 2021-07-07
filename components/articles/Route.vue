@@ -10,7 +10,7 @@
       <figure 
         v-for="(article, i) in articles" 
         :key="i" 
-        :style="{zIndex : 100-i, backgroundColor :'var(--scheme-' + article.colour_scheme + '-bg)'}"
+        :style="{zIndex : 100-i}"
         :class="article.tao_type"
       >
         <nuxt-img 
@@ -138,7 +138,7 @@ article{
     figure{
       height: 12rem;
       width: 12rem;
-      margin-left: -3.5rem;
+      margin-left: -2.5rem;
       overflow: hidden;
       box-shadow: @shadow;
       &.story{
