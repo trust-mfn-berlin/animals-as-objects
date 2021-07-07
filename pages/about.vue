@@ -55,27 +55,6 @@ export default {
 
 <style lang="less" scoped>
 
-.container{
-  padding: 0 @space-s;
-}
+@import '~assets/less/singleton';
 
-.container-inner{
-  display: flex;
-}
-
-main{
-  width: 60vw;
-  line-height: @lh-long;
-}
-
-aside{
-  width: 30vw;
-  margin-left: @space-m;
-  ol{
-    position: sticky;
-    top:1rem;
-    border-left: 1px solid @black;
-    padding-left: @space-s;
-  }
-}
 </style>

@@ -1,7 +1,18 @@
 <template>
-  <div v-if="page">
-    <h2>{{page.title}}</h2>
-    <nuxt-content :document="page" />
+  <div v-if="page" class="container">
+    <hgroup class="page-header">
+      <h1>{{page.title}}</h1>
+    </hgroup>
+    <div class="container-inner">
+      <main >
+        <nuxt-content :document="page" />
+      </main>
+      <aside class="f-mono quote">
+        <ol v-if="page.toc.length > 0">
+          <li v-for="subheading in page.toc" :key="subheading.id" @click="tocScroll(subheading.id)">{{subheading.text}}</li>
+        </ol>
+      </aside>
+    </div>
   </div>
 </template>
 
@@ -33,18 +44,17 @@ export default {
     };
     }
   },
-  head() {
-    return {
-      htmlAttrs: {
-        lang: 'de'
-      },
-    };
-  },
+  methods:{
+    tocScroll(el){
+      this.scrollToElement(document.getElementById(el), 700, -90);
+      history.pushState({},null, this.$route.path + '#' + el);
+    },
+  }
 }
 </script>
 
 <style lang="less" scoped>
-.page-container{
-  padding: 0 @space-s;
-}
+
+@import '~assets/less/singleton';
+
 </style>

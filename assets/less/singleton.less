@@ -1,0 +1,38 @@
+.container{
+  padding: 0 @space-s;
+}
+
+.container-inner{
+  display: flex;
+}
+
+main{
+  width: 60vw;
+  line-height: @lh-long;
+
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    width: 100%
+  }
+}
+
+aside{
+  width: 30vw;
+  margin-left: @space-m;
+  ol{
+    position: sticky;
+    top:1rem;
+    border-left: 1px solid @black;
+    padding-left: @space-s;
+  }
+
+  li{
+    .animatefast(transform);
+    cursor: pointer;
+    &:hover{
+      transform: translateX(5px);
+    }
+  }
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    display: none;
+  }
+}
