@@ -12,11 +12,11 @@ Jimp.decoders['image/jpeg'] = (data) => {
 // https://www.npmjs.com/package/sharp 
 
 const srcDir = path.join(__dirname, '..', 'vault', 'images');
-const destDir = path.join(__dirname, '..', 'static', 'images');
+const destDir = path.join(__dirname, '..', 'vault', 'images');
 
 const maxW = 2000;
 const maxH = 1800;
-const quality = 80;
+const quality = 100;
 
 var existingImages = [];
 
@@ -55,21 +55,21 @@ function getFileNames(dir, encoding = "utf-8", withFileTypes = true) {
   // Get list of images in Source folder
   const imageFilePaths = getFileNames(srcDir);
 
-  var imageQueue = [];
+  var imageQueue = getFileNames(destDir);
   
   // Compare them both and only add images that are not in the Destination folder yet.
-  for (let e = 0; e < imageFilePaths.length; e++) {
-    const newFilePath = imageFilePaths[e];
-    const newFilePathComparable = imageFilePaths[e].replace(srcDir, destDir);
+  // for (let e = 0; e < imageFilePaths.length; e++) {
+  //   const newFilePath = imageFilePaths[e];
+  //   const newFilePathComparable = imageFilePaths[e].replace(srcDir, destDir);
  
-    if(existingImages.includes(newFilePathComparable)){
+  //   if(existingImages.includes(newFilePathComparable)){
 
-    } else {
-      console.log('Found an image that needs to be resized!');
-      imageQueue.push(newFilePath);
-    }
+  //   } else {
+  //     console.log('Found an image that needs to be resized!');
+  //     imageQueue.push(newFilePath);
+  //   }
     
-  }
+  // }
 
   if(imageQueue.length == 0){
     console.log('No images to resize');
