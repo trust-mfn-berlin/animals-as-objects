@@ -84,5 +84,9 @@ export default {
     top:@space-m;
     right: @space-m;
   }
+
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    width: calc(100% - @space-s*2)
+  }
 }
 </style>
