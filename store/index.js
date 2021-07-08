@@ -13,7 +13,7 @@ const createStore = () => {
       currentRoute: [],
       searchBarIsOpen: false,
       activeFilter: 'type',
-      sidebarIsOpen: true,
+      sidebarIsOpen: false,
       mobileMenuIsOpen: false,
       colours: importColours,
       articleTaoType: '',
