@@ -82,7 +82,11 @@ export default {
         document.documentElement.style.setProperty("--current-scheme-bg", "var(--scheme-"+this.article.colour_scheme+"-bg)");
         document.documentElement.style.setProperty("--current-scheme-fg", "var(--scheme-"+this.article.colour_scheme+"-fg)");
       }
-      
+
+      if(window){
+        if(window.innerWidth < 501) this.$store.commit('toggleSidebar', false);
+      }
+
     }
 
   },

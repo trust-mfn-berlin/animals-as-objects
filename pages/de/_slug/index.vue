@@ -90,7 +90,9 @@ export default {
     document.documentElement.style.setProperty("--current-scheme-bg", "var(--scheme-"+this.article.colour_scheme+"-bg)");
     document.documentElement.style.setProperty("--current-scheme-fg", "var(--scheme-"+this.article.colour_scheme+"-fg)");
     this.$store.commit('toggleMobileMenu', false);
-  
+    if(window){
+      if(window.innerWidth < 501) this.$store.commit('toggleSidebar', false);
+    }
     // copy footnotes into sidebar
     if(document.getElementsByClassName('footnotes')[0]){
       this.footnotes = document.getElementsByClassName('footnotes')[0].innerHTML;
