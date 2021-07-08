@@ -61,6 +61,9 @@ export default {
     };
     }
   },
+  mounted(){
+    this.$store.commit('toggleMobileMenu', false);
+  }
 }
 </script>
 

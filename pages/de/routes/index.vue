@@ -70,6 +70,7 @@ export default {
   },
   mounted(){
     this.matchRoutes();
+    this.$store.commit('toggleMobileMenu', false);
   }
 }
 </script>

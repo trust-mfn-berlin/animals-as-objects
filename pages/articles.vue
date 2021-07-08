@@ -93,6 +93,9 @@ export default {
       console.log(e);
     }
   },
+  mounted(){
+    this.$store.commit('toggleMobileMenu', false);
+  },
   created(){
     this.$store.commit('setSiteLanguage', 'en')
     this.$store.commit('setActiveFilter', 'date')

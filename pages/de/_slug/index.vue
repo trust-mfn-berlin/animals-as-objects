@@ -89,7 +89,8 @@ export default {
     // update colour scheme
     document.documentElement.style.setProperty("--current-scheme-bg", "var(--scheme-"+this.article.colour_scheme+"-bg)");
     document.documentElement.style.setProperty("--current-scheme-fg", "var(--scheme-"+this.article.colour_scheme+"-fg)");
-
+    this.$store.commit('toggleMobileMenu', false);
+  
     // copy footnotes into sidebar
     if(document.getElementsByClassName('footnotes')[0]){
       this.footnotes = document.getElementsByClassName('footnotes')[0].innerHTML;

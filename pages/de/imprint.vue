@@ -49,7 +49,10 @@ export default {
       this.scrollToElement(document.getElementById(el), 700, -90);
       history.pushState({},null, this.$route.path + '#' + el);
     },
-  }
+  },
+  mounted(){
+    this.$store.commit('toggleMobileMenu', false);
+  },
 }
 </script>
 

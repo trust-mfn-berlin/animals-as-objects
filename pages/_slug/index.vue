@@ -73,14 +73,16 @@ export default {
     onFootnoteClick(hash){
       if(!this.$store.getters.isSidebarOpen) this.$store.commit('toggleSidebar', true)
       this.activeFootnote = hash.replace('#','sidebar-')
-      // console.log(hash)
     },
     initPage(){
-      // await this.article;
+
+      this.$store.commit('toggleMobileMenu', false);
+      
       if(this.article){
         document.documentElement.style.setProperty("--current-scheme-bg", "var(--scheme-"+this.article.colour_scheme+"-bg)");
         document.documentElement.style.setProperty("--current-scheme-fg", "var(--scheme-"+this.article.colour_scheme+"-fg)");
       }
+      
     }
 
   },
@@ -96,9 +98,6 @@ export default {
     // this.$store.commit('setArticleTaoType', this.article.tao_type);
   },
   mounted(){
-
-    // console.log('Mounted', this.article);
-    // update colour scheme
     
     this.initPage();
 
@@ -106,11 +105,8 @@ export default {
     if(document.getElementsByClassName('footnotes')[0]){
       this.footnotes = document.getElementsByClassName('footnotes')[0].innerHTML;
     }
-
-    // remove footnotes from dom(?) 
-    // document.getElementsByClassName('footnotes')[0].remove()
     
-      this.addFootnoteListener();
+    this.addFootnoteListener();
     
   },
   beforeDestroy(){

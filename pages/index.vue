@@ -128,6 +128,7 @@ export default {
   },
   mounted(){
     document.documentElement.style.setProperty("--selection-bg", "#ccc");
+    this.$store.commit('toggleMobileMenu', false);
   },
   head() {
     return {

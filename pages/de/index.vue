@@ -28,6 +28,9 @@ export default {
   created(){
     this.$store.commit('setSiteLanguage', 'de')
   },
+  mounted(){
+    this.$store.commit('toggleMobileMenu', false);
+  },
   head() {
     return {
       script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }],
