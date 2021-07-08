@@ -98,7 +98,6 @@ export default {
   },
   created(){
     this.$store.commit('setSiteLanguage', 'en')
-    this.$store.commit('setActiveFilter', 'date')
   },
 }
 </script>
