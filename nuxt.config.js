@@ -186,12 +186,12 @@ export default {
         if(file.tao_type){
           // articles
           routeArray.push({
-            route: file.slug,
+            route: '/' + file.slug,
             payload: file
           });
           // articles PDF ready
           routeArray.push({
-            route: file.slug + '/print',
+            route: '/' + file.slug + '/print',
             payload: file
           });
           // articles DE
