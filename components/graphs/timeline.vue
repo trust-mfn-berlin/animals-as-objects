@@ -37,6 +37,9 @@ export default {
     }
   },
   methods:{
+    navigate(event, d){
+      this.$router.push('/' + d.data.slug);
+    },
     init(){
 
       var svg;
@@ -83,10 +86,30 @@ export default {
             //   return 'var(--scheme-' + d.data.colour_scheme + '-fg)'
             // })
 
-        const tooltip = svg.append("text")
+        // const defs = svg.append("defs");
+        // defs.append("filter")
+        //   .attr("id", "solid")
+        //   .attr("x", 0)
+        //   .attr("y", 0)
+        //   .attr("width", 1)
+        //   .attr("height", 1)
+        //   .append("feFlood")
+        //     .attr("flood-color", "white")
+
+        // d3.selectAll('#solid')
+        //   .append("feComposite")
+        //     .attr("in", "SourceGraphic")
+        //     .attr("operator", "xand")
+          
+
+        const tooltip = svg.append("g")
           .attr("class", "tooltip")
-          .style("pointer-events", "none")
-          .attr("dy", -20)
+            .append("text")
+              .style("pointer-events", "none")
+              .attr('font-size', '14px')
+              .attr("font-family", "CentSchbook Mono BT")
+              .attr("dy", 0)
+              // .attr("filter", "url(#solid)")
 
         d3.selectAll('.d3-timeline-line').on('mouseover', function(event, d) {
           tooltip.text(d.data.title)
@@ -94,15 +117,33 @@ export default {
           .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
           .style("visibility", "visible")
 
-          // d3.select(this).selectAll('text').style("visibility", "hidden")
+          d3.select(this).selectAll('rect')
+            .classed("active", true)
+          
+          d3.select(this).selectAll('image')
+            .classed("active", true)
+
+          d3.select(this).selectAll('text')
+            .classed("active", true)
+
+          // d3.selectAll('rect')
+          //   .filter(function() {
+          //     return !this.classList.contains('active')
+          //   })
+          //   .transition()
+          //   .duration(100)
+          //   .ease(d3.easeQuadOut)
+          //   .style("opacity", "0")
 
         }).on('mousemove', function(event, d) {
-          tooltip.text(d.data.title)
+          tooltip.text(d.data.title + '\n' + that.$options.filters.formatDateYear(d.data.date_start) + '–' + that.$options.filters.formatDateYear(d.data.date_end))
           .attr('transform', `translate(${event.offsetX},${event.offsetY})`)
           .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
         }).on('mouseout', function(event, d){
           tooltip.style("visibility", "hidden")
           // d3.select(this).selectAll('text').style("visibility", "visible")
+        }).on('click', function(event, d) {
+          that.navigate(event, d)
         })
           
           
@@ -197,6 +238,26 @@ export default {
 ::v-deep svg{
   background-color: @bg-2;
   // border-radius: @radius-l;
+
+  .tooltip{
+    // background-color: @white;
+    pointer-events: none;
+  }
+
+  .d3-timeline-line{
+    line{
+      cursor: pointer;
+      .animatefast(all);
+    }
+    line:hover{
+      stroke: white !important;
+      stroke-width: 32;
+    }
+    // &:hover{
+    //   transform: scale(1.2);
+    // }
+  }
+
 
   .domain{
     stroke:none;
