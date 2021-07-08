@@ -141,7 +141,7 @@ body{
 }
 
 .spacer{
-  height: calc(100vh);
+  height: calc(100vh - 11rem);
   pointer-events: none;
 }
 
