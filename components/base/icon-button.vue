@@ -1,8 +1,8 @@
 <template>
   <button :class="tao_type" :style="{backgroundColor: useColourScheme ? 'var(--current-scheme-bg)' : 'black'}">
     <span class="hidden-button-text"><slot></slot></span>
-    <svg v-if="icon == 'close'" :stroke="useColourScheme ? 'var(--current-scheme-fg)' : 'white'" width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M25.1003 25.1L13.0003 13M13.0003 13L25.1003 0.899963M13.0003 13L0.900146 0.899963M13.0003 13L0.900146 25.1" />
+    <svg v-if="icon == 'close'" :stroke="useColourScheme ? 'var(--current-scheme-fg)' : 'white'" width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M23.2023 22.3555L12.2023 11.3555M12.2023 11.3555L23.2023 0.355469M12.2023 11.3555L1.20215 0.355469M12.2023 11.3555L1.20215 22.3555" stroke="white"/>
     </svg>
     <svg v-if="icon == 'arrow-left'" :stroke="useColourScheme ? 'var(--current-scheme-fg)' : 'white'" width="22" height="25" viewBox="0 0 22 25" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M13.8627 24.5555L1.7627 12.4554L13.8627 0.355408" />
@@ -15,6 +15,11 @@
     </svg>
     <svg v-if="icon == 'arrow-up'" :stroke="useColourScheme ? 'var(--current-scheme-fg)' : 'white'" width="26" height="18" viewBox="0 0 26 18" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M0.875 13.4489L12.975 1.34888L25.0751 13.4489" />
+    </svg>
+    <svg v-if="icon == 'ham'" :stroke="useColourScheme ? 'var(--current-scheme-fg)' : 'white'" width="20" height="18" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <line x1="19.5391" y1="0.676758" x2="0.98118" y2="0.676756" stroke="white"/>
+      <line x1="19.5391" y1="8.67676" x2="0.98118" y2="8.67676" stroke="white"/>
+      <line x1="19.5391" y1="16.6768" x2="0.98118" y2="16.6768" stroke="white"/>
     </svg>
   </button>
 </template>

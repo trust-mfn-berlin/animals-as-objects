@@ -5,7 +5,7 @@
     <li class="mob-only" v-if="mobileMenuToggleVisible">
       <icon-button 
         @click.native="toggleMobileMenu"
-        icon="arrow-left"
+        :icon="toggleMobileMenuIcon"
         :tao_type="this.$store.getters.articleTaoType"
         :aria-haspopup="isMobileMenuOpen"
       ></icon-button>
@@ -81,6 +81,13 @@ export default {
     },
     isSidebarOpen(){
       return this.$store.getters.isSidebarOpen
+    },
+    toggleMobileMenuIcon(){
+      if(this.$store.getters.isMobileMenuOpen){
+        return "close"
+      } else {
+        return "ham"
+      }
     },
     mobileMenuToggleVisible(){
       if (!this.$store.getters.isSidebarOpen){
