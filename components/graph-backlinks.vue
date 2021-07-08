@@ -318,6 +318,13 @@ export default {
     }
   },
   mounted(){
+    
+    if(window){
+      if(window.innerWidth < 501){
+        this.attr.width = window.innerWidth
+      }
+    }
+
     this.createLinks();
     this.init();
   }
