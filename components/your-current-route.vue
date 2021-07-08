@@ -96,12 +96,21 @@ watch: {
   background-color: @bg-2;
   padding: @space-m;
   border-radius: @radius-l;
+
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    padding: 0;
+    background-color: transparent;
+  }
 } 
 
 ol{
   display: flex;
   flex-wrap: wrap;
   gap: @space-s;
+
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    flex-direction: column;
+  }
 }
 
 li{
@@ -112,6 +121,12 @@ li{
       display: none;
     }
     .dots{
+      display: none;
+    }
+  }
+
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    svg{
       display: none;
     }
   }
@@ -141,6 +156,8 @@ li.excess{
   // margin-left: @space-xs;
   display: inline-block;
   line-height: unset;
+
+  width: fit-content;
 
 }
 
