@@ -14,7 +14,7 @@
 
     <div class="flex-spacer mob-only" aria-hidden="true" ></div>
 
-    <ul class="primary">
+    <ul class="primary mob-hidden">
       <li>
         <text-button class="primary-nav-item" :linkto="rootUrl">Animals as Objects?</text-button>
       </li>
@@ -157,14 +157,6 @@ export default {
 </script>
 
 <style lang="less" scoped>
-
-header{
-  // margin-bottom: 8rem;
-}
-
-.primary{
-  display: none;
-}
 
 nav{
   position: fixed;
