@@ -71,16 +71,39 @@ export default {
           .append("title")
             .text(d => d.data.title);
 
-        d3.selectAll('.d3-timeline-line')
-          .append("text")
-            .text(d => d.data.title)
-            .attr('font-size', '12px')
-            .attr("font-family", "CentSchbook Mono BT")
-            .attr("dy", function(d, i) { return d.y})
-            .attr("dx", function(d) { return (d.x0 + (d.x1 - d.x0)/2) - (d.data.title.length*7)/2})
+
+        // d3.selectAll('.d3-timeline-line')
+        //   .append("text")
+        //     .text(d => d.data.title)
+        //     .attr('font-size', '12px')
+        //     .attr("font-family", "CentSchbook Mono BT")
+        //     .attr("dy", function(d, i) { return d.y + 3})
+        //     .attr("dx", function(d) { return (d.x0 + (d.x1 - d.x0)/2) - (d.data.title.length*7)/2})
             // .attr("fill", function(d){
             //   return 'var(--scheme-' + d.data.colour_scheme + '-fg)'
             // })
+
+        const tooltip = svg.append("text")
+          .attr("class", "tooltip")
+          .style("pointer-events", "none")
+          .attr("dy", -20)
+
+        d3.selectAll('.d3-timeline-line').on('mouseover', function(event, d) {
+          tooltip.text(d.data.title)
+          .attr('transform', `translate(${event.offsetX},${event.offsetY})`)
+          .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
+          .style("visibility", "visible")
+
+          // d3.select(this).selectAll('text').style("visibility", "hidden")
+
+        }).on('mousemove', function(event, d) {
+          tooltip.text(d.data.title)
+          .attr('transform', `translate(${event.offsetX},${event.offsetY})`)
+          .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
+        }).on('mouseout', function(event, d){
+          tooltip.style("visibility", "hidden")
+          // d3.select(this).selectAll('text').style("visibility", "visible")
+        })
           
           
     },
@@ -147,7 +170,7 @@ export default {
         // else tail = tail.next = b;
       }
 
-      console.log(lines);
+      // console.log(lines);
       
       return lines;
     },
@@ -173,13 +196,14 @@ export default {
 <style lang="less" scoped>
 ::v-deep svg{
   background-color: @bg-2;
+  // border-radius: @radius-l;
 
   .domain{
-    // stroke:none;
+    stroke:none;
   }
   .tick{
     line{
-      // stroke: none;
+      stroke: none;
     }
     text{
       font-family: @f-mono;
