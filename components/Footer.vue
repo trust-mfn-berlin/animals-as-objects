@@ -15,9 +15,11 @@ export default {
 
 <style lang="less" scoped>
 footer{
+  // background-color: @bg;
   display: flex;
   align-items: flex-end;
-  width: calc(100vw - @space-s*2);
+  // width: calc(100vw - @space-s*2);
+  width: 100%;
   justify-content: space-between;
   padding: @space-s;
   margin-top:@space-l;
