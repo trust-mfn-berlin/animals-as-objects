@@ -221,7 +221,7 @@ article{
         width: 100%;
         max-width: 100%;
         min-width: none;
-        height: 50vw;
+        height: calc(50vw + 1rem);
 
         img{
           object-fit: cover;
@@ -231,7 +231,7 @@ article{
 
       figure + .text {
         margin-left:0;
-        margin-top: -1rem;
+        margin-top: -3rem;
       }
 
       .text{
@@ -240,7 +240,9 @@ article{
         min-width: 100%;
 
         .description-wrap{
-          p{
+          p.description{
+            max-height: none;
+            font-size: @fs-s;
             margin-bottom: 0;
           }
         }
