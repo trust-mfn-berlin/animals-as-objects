@@ -7,7 +7,7 @@
       </li>
 
       <li>
-        <h2 class="title">Animals as Objects?</h2>
+        <h2 class="title f-mono">Animals as Objects?</h2>
       </li>
       
       <li>
