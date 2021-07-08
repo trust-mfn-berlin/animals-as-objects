@@ -193,5 +193,60 @@ article{
       border-radius: @radius-l;
     }
   }
+
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    height: 50vw;
+    figure{
+      width: 50vw;
+      min-width: 50vw;
+      max-width: 50vw;
+    }
+
+    &.material{
+      .text{
+        width: calc(50vw + 3.5rem - @space-s*2);  
+      } 
+    }
+      
+
+    &.theme , &.story{
+      height: auto;
+      width: 100%;
+
+      a{
+        flex-direction: column;
+      }
+
+      figure{
+        width: 100%;
+        max-width: 100%;
+        min-width: none;
+        height: 50vw;
+
+        img{
+          object-fit: cover;
+          object-position: center;
+        }
+      }
+
+      figure + .text {
+        margin-left:0;
+        margin-top: -1rem;
+      }
+
+      .text{
+        width: 100%;
+        max-width: 100%;
+        min-width: 100%;
+
+        .description-wrap{
+          p{
+            margin-bottom: 0;
+          }
+        }
+      }
+    }
+
+  }
 }
 </style>
