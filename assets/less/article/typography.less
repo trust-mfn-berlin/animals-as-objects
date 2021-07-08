@@ -25,6 +25,12 @@ hgroup.heading{
       color: var(--current-scheme-bg);
       padding:@space-xs 10px;
 
+      @media screen and (max-width: @mq-s) /* Mobile */ {
+        display: block;
+        margin:@space-s auto;
+        width: fit-content;
+      }
+
       &.material{
         border-radius: @radius-max;
       }
@@ -42,6 +48,9 @@ hgroup.heading{
   }
 }
 
+h1{
+  line-height: @lh-xs;
+}
 
 p{
   line-height: @lh-long;
