@@ -15,7 +15,7 @@ export default {
       attr : {
         width: 1200,
         height: 900,
-        lineWidth: 32,
+        lineWidth: 16,
         padding:5,
         ticks: 20,
         margin: {
@@ -24,7 +24,7 @@ export default {
           left: 40,
           bottom: 40,
         },
-        spaceMultiplier: 37
+        spaceMultiplier: 25
       },
     }
   },
@@ -77,7 +77,7 @@ export default {
             .attr('font-size', '12px')
             .attr("font-family", "CentSchbook Mono BT")
             .attr("dy", function(d, i) { return d.y})
-            .attr("dx", function(d) { return (d.x0 + (d.x1 - d.x0)/2) - this.getBoundingClientRect().width*0.5})
+            .attr("dx", function(d) { return (d.x0 + (d.x1 - d.x0)/2) - (d.data.title.length*7)/2})
             // .attr("fill", function(d){
             //   return 'var(--scheme-' + d.data.colour_scheme + '-fg)'
             // })
@@ -158,6 +158,7 @@ export default {
   },
   mounted(){
     if(window){
+      this.attr.height = timelineData.length * this.attr.spaceMultiplier - this.attr.margin.top;
       this.attr.width = window.innerWidth - 48;
       this.attr.ticks = Math.floor(window.innerWidth / 80)
     }
