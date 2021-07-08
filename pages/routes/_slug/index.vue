@@ -95,10 +95,19 @@ main{
   padding:0 @space-s;
   display: flex;
 
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    flex-direction: column;
+  }
+
   .introduction-inner{
     line-height: @lh-long;
     width: 60vw;
     padding-bottom: 2rem;
+
+    @media screen and (max-width: @mq-s) /* Mobile */ {
+      width:100%;
+      padding-bottom: 0;
+    }
   }
 
   aside.bio{
@@ -113,6 +122,11 @@ main{
       h3{
         margin-bottom: @space-s;
       }
+    }
+
+    @media screen and (max-width: @mq-s) /* Mobile */ {
+      width:100%;
+      margin-left:0;
     }
   }
 }

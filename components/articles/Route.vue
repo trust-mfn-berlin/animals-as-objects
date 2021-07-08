@@ -160,6 +160,54 @@ article{
     }
   }
 
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    height: 18rem;
+    position: relative;
+
+    .text{
+      margin:3rem auto;
+      box-shadow: @shadow-focus;
+    }
+    .route-images{
+      position: absolute;
+      height: 18rem;
+      top:0;
+      left:0;
+      right:0;
+      bottom:0;
+
+      figure{
+        margin-left:0;
+        box-shadow: 0px 2px 5px 3px rbga(0,0,0,0.5);
+
+        &:nth-of-type(1){
+        //  border: 1px solid green; 
+         position: absolute;
+         left:0;
+         top:0;
+        }
+        &:nth-of-type(2){
+        //  border: 1px solid blue; 
+         position: absolute;
+         right:0;
+         top:0;
+        }
+        &:nth-of-type(3){
+        //  border: 1px solid red; 
+         position: absolute;
+         left:0;
+         bottom:0;
+        }
+        &:nth-of-type(4){
+        //  border: 1px solid red; 
+         position: absolute;
+         right:0;
+         bottom:0;
+        }
+      }
+    }
+  }
+
   
 }
 </style>

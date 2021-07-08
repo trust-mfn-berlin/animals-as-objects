@@ -94,6 +94,10 @@ section.current-route{
 section.routes-intro{
   width: 60vw;
 
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    width:100%;
+  }
+
   p{
     line-height: @lh-long;
   }
