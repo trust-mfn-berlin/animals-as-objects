@@ -87,7 +87,7 @@ export default {
       const simulation = d3.forceSimulation(graphData.nodes)
         .force("link", d3.forceLink(graphData.links).id(d => d.slug).distance(function(d) {if(d.interTitleLink){ return 100} else if(d.titleLink){ return 310 }else {return 280}}))
         .force("charge", d3.forceManyBody().strength(function(d){if (d.index === 0){ return -6000 } else { return -600}}).distanceMin(1).distanceMax(500))
-        .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2))
+        .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2 - 40))
         .force("radial", d3.forceRadial(this.attr.width * 0.5))
         .force("collide", d3.forceCollide(function(d){
           if(d.lessSpace){
