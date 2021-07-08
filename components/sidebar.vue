@@ -172,6 +172,10 @@ aside{
   transform: translateX(100%);
   
   .animateslow(transform);
+  
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    width: 100%;
+  }
 
   &.open{
     // right:0;

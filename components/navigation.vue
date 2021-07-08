@@ -1,7 +1,8 @@
 <template>
   <header>
   <nav aria-label="Main">
-    <li class="mob-only">
+    <transition name="fade">
+    <li class="mob-only" v-if="mobileMenuToggleVisible">
       <icon-button 
         @click.native="toggleMobileMenu"
         icon="arrow-left"
@@ -9,6 +10,9 @@
         :aria-haspopup="isMobileMenuOpen"
       ></icon-button>
     </li>
+    </transition>
+
+    <div class="flex-spacer mob-only" aria-hidden="true" ></div>
 
     <ul class="primary">
       <li>
@@ -29,10 +33,10 @@
       </li>
     </ul>
     <transition name="fade">
-      <li v-if="showSidebarToggle">
+      <li v-if="sidebarToggleVisible">
         <icon-button 
           @click.native="toggleSidebar"
-          :icon="toggleIcon"
+          :icon="toggleSidebarIcon"
           :tao_type="this.$store.getters.articleTaoType"
           :aria-haspopup="isSidebarOpen"
           :useColourScheme="this.$store.getters.isSidebarOpen"
@@ -54,7 +58,14 @@ export default {
     }
   },
   computed:{
-    toggleIcon(){
+    sidebarToggleVisible(){
+      if (this.showSidebarToggle && !this.$store.getters.isMobileMenuOpen){
+        return true
+      } else {
+        return false
+      }
+    },
+    toggleSidebarIcon(){
       if(this.$store.getters.isSidebarOpen){
         return "arrow-right"
       } else {
@@ -70,6 +81,13 @@ export default {
     },
     isSidebarOpen(){
       return this.$store.getters.isSidebarOpen
+    },
+    mobileMenuToggleVisible(){
+      if (!this.$store.getters.isSidebarOpen){
+        return true
+      } else {
+        return false
+      }
     },
     isMobileMenuOpen(){
       return this.$store.getters.isMobileMenuOpen
@@ -175,6 +193,10 @@ nav{
   }
 
 
+}
+
+.flex-spacer{
+  flex-grow: 1;
 }
 
 .open{

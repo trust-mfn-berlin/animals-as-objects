@@ -126,6 +126,8 @@ input[type='search']{
   width:5rem;
   height: 2rem;
 
+  min-height: 44px;
+
   .animatemedium(all);
 
   &:focus{

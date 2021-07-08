@@ -1,5 +1,5 @@
 <template>
-  <aside id="themobilemenu">
+  <aside id="themobilemenu" role="navigation">
     
     <ul class="primary">
       <li>
@@ -22,7 +22,7 @@
         <text-button class="primary-nav-item" :linkto="sameUrl + 'datenschutz'">Datenschutz</text-button>
       </li>
       <li>
-        <text-button class="primary-nav-item" :linkto="sameUrl + 'impressum'">Imprint</text-button>
+        <text-button class="primary-nav-item" :linkto="sameUrl + 'imprint'">Imprint</text-button>
       </li>
       
     </ul>
@@ -95,7 +95,7 @@ export default {
   background-color: @white;
   overflow-x: hidden;
   overflow-y: auto;
-  padding:5rem @space-s;
+  padding:@space-s;
   z-index: @z-mobilemenu;
 }
 
@@ -103,6 +103,10 @@ ul{
   li{
     width: 100%;
     margin-bottom: @space-s;
+
+    &:first-of-type{
+      padding-left: calc(44px + @space-s);
+    }
 
     ::v-deep{
       .text-button{
