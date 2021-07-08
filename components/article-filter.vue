@@ -34,11 +34,6 @@ export default {
           name: 'date',
           label: 'Date',
           label_de: 'Datum',
-        },
-        {
-          name: 'network',
-          label: 'Network',
-          label_de: 'Network',
         }
       ]
     }
@@ -60,6 +55,11 @@ export default {
 .subnav-filter{
   position: fixed;
   top:3rem;
+
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    right:@space-s;
+    top:@space-s;
+  }
   
   .filter{
     margin-right: @space-xs;
