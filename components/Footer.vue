@@ -15,14 +15,14 @@ export default {
 
 <style lang="less" scoped>
 footer{
-  // background-color: @bg;
+  position: relative;
+  background-color: @bg;
   display: flex;
   align-items: flex-end;
   // width: calc(100vw - @space-s*2);
   width: 100%;
   justify-content: space-between;
-  padding: @space-s;
-  margin-top:@space-l;
+  padding: @space-l @space-s @space-s @space-s;
 }
 small{
   font-size: @fs-xxs;

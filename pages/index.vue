@@ -24,6 +24,8 @@
       <timeline />
       <text-button linkto="/articles">View All Articles</text-button>
     </section> -->
+
+    <!-- <Footer /> -->
   </div>
 </template>
 
@@ -155,7 +157,7 @@ section{
   }
   
   padding:@space-s;
-  margin-bottom: 2rem;
+  // margin-bottom: 2rem;
 
   &.cascade{
     position: relative;
