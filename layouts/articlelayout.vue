@@ -2,6 +2,10 @@
   <div class='layout-container'>
     <Navigation :showSidebarToggle="true" />
 
+    <transition name="slideleft">
+      <mobile-menu v-if="this.$store.getters.isMobileMenuOpen" />
+    </transition>
+
     <div class="citation-modal-wrapper" v-if="this.$store.getters.isCitationModal.isOpen">
       <citation-modal  :article="this.$store.getters.isCitationModal.article"/>
     </div>

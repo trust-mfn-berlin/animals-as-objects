@@ -14,6 +14,7 @@ const createStore = () => {
       searchBarIsOpen: false,
       activeFilter: 'type',
       sidebarIsOpen: true,
+      mobileMenuIsOpen: false,
       colours: importColours,
       articleTaoType: '',
       citationModal: {isOpen:false, article:{}},
@@ -47,6 +48,9 @@ const createStore = () => {
       toggleSidebar(state, isOpen){
         // console.log('sidebar open', isOpen)
         state.sidebarIsOpen = isOpen
+      },
+      toggleMobileMenu(state, isOpen){
+        state.mobileMenuIsOpen = isOpen
       },
       setArticleTaoType(state, type){
         state.articleTaoType = type
@@ -92,6 +96,9 @@ const createStore = () => {
       },
       isSidebarOpen(state){
         return state.sidebarIsOpen
+      },
+      isMobileMenuOpen(state){
+        return state.mobileMenuIsOpen
       },
       siteColours(state){
         return state.colours

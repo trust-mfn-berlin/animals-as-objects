@@ -1,6 +1,15 @@
 <template>
   <header>
   <nav aria-label="Main">
+    <li class="mob-only">
+      <icon-button 
+        @click.native="toggleMobileMenu"
+        icon="arrow-left"
+        :tao_type="this.$store.getters.articleTaoType"
+        :aria-haspopup="isMobileMenuOpen"
+      ></icon-button>
+    </li>
+
     <ul class="primary">
       <li>
         <text-button class="primary-nav-item" :linkto="rootUrl">Animals as Objects?</text-button>
@@ -62,6 +71,9 @@ export default {
     isSidebarOpen(){
       return this.$store.getters.isSidebarOpen
     },
+    isMobileMenuOpen(){
+      return this.$store.getters.isMobileMenuOpen
+    },
     siteLang(){
       return this.$store.getters.siteLanguage
     },
@@ -103,6 +115,14 @@ export default {
     }
   },
   methods:{
+    toggleMobileMenu(){
+      if(this.$store.getters.isMobileMenuOpen != true){
+        this.$store.commit('toggleMobileMenu', true)
+      } else {
+        this.$store.commit('toggleMobileMenu', false)
+      }
+      
+    },
     toggleSidebar(){
       
       if(this.$store.getters.isSidebarOpen != true){
@@ -111,7 +131,7 @@ export default {
         this.$store.commit('toggleSidebar', false)
       }
 
-      // console.log(this.$store.getters.isSidebarOpen)
+      console.log('Sidebar is open', this.$store.getters.isSidebarOpen)
     }
   }
   
@@ -122,6 +142,10 @@ export default {
 
 header{
   // margin-bottom: 8rem;
+}
+
+.primary{
+  display: none;
 }
 
 nav{

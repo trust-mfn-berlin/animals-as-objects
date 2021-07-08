@@ -145,6 +145,14 @@ input[type='search']{
     background-position: center;
     background-repeat: no-repeat;
   }
+
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    width: 100%;
+
+    &:focus{
+      width: 100%;
+    }
+  }
 }
 
 input[type='search']:focus + .searchbar-results{
