@@ -8,6 +8,15 @@
 
 h1{
   font-size: @fs-xl;
+
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    font-size: 10.5vw;
+  }
+
+  @media screen and (min-width: @mq-xl) /* Desktop HD */ {
+    // font-size: 6.5vw;
+    font-size: 5rem;
+  }
 }
 
 h2{
