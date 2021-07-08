@@ -82,7 +82,7 @@ main{
 section{ 
   padding: 0 @space-s;
   h2{
-    margin: 1rem 0;
+    margin: @space-s 0;
   }
 }
 
