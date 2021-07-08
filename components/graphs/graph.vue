@@ -484,7 +484,7 @@ export default {
 
       // For mobile
       if(window.innerWidth < 501){
-        this.attr.height = window.innerHeight;
+        this.attr.height = window.innerHeight - 10;
         
         this.attr.linkDistance.inter = this.attr.linkDistance.inter*0.5;
         this.attr.linkDistance.title = this.attr.linkDistance.title*0.5;
