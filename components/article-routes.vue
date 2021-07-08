@@ -1,9 +1,19 @@
 <template>
   <div class="article-routes">
-    <h3>Your current route</h3>
+    <h2>Your current route</h2>
     <your-current-route :max="9"/>
-    <h3>Least visited from here</h3>
-    <h3>Most visited from here</h3>
+    <!-- <small class="f-mono caption">This is your current route through the content. Don’t worry, all information is anonymous.</small> -->
+
+    <div class="recommended-articles">
+      <article>
+        <h2>Least visited from here</h2>
+        <your-current-route :max="2"/>
+      </article>
+      <article>
+        <h2>Most visited from here</h2>
+        <your-current-route :max="2"/>
+      </article>
+    </div>
   </div>
 </template>
 
@@ -17,52 +27,24 @@ name:'article-routes',
     return{
     }
   },
-  // computed:{
-  //   currentRoute(){
-  //     return this.$store.getters.currentRoute;
-  //   },
-  // },
-  // methods:{
-  //   async matchRoutes(){
-
-  //       for (let i = 0; i < this.currentRoute.length; i++) {
-  //         const storeRouteSingle = this.currentRoute[i].route;
-
-  //         // console.log(storeRouteSingle)
-
-  //         if(storeRouteSingle){
-
-  //           const article = await this.$content(storeRouteSingle).only(['slug', 'title', 'title_de', 'id', 'tao_type', 'colour_scheme']).fetch()
-  //           .catch((err) => {
-  //             console.warn('page not found', err)
-  //           })
-            
-  //           // console.log(article);
-  //           if(article){
-  //             this.matchedRoutes.push(article)
-  //           }
-
-  //         }
-  //       }
-
-  //     },
-  //   },
-  // mounted(){
-  //   this.$nextTick(function(){
-  //     this.matchRoutes();
-  //   })
-  // },
-  // watch: {
-  //   async currentRoute(currentRoute) {
-  //     this.matchRoutes();
-  //   }
-  // }
-
 }
 </script>
 
 <style lang="less" scoped>
 .article-routes{
   margin-top:5rem;
+}
+
+h2{
+  margin-bottom: @space-s;
+}
+
+.recommended-articles{
+  margin-top:@space-m;
+  display: flex;
+  gap:@space-s;
+  article{
+    width: 50%;
+  }
 }
 </style>
