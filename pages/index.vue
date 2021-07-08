@@ -11,7 +11,7 @@
     </section>
 
     
-    
+  
 
     <!-- <section class="routes">
       <h2>Curated routes</h2>
@@ -146,6 +146,9 @@ body{
 }
 
 section{
+
+  // background-color: @bg;
+  position: relative;
 
   h2{
     margin-bottom: @space-s;
