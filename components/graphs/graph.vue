@@ -64,10 +64,21 @@ export default {
           left: 0,
           bottom: 0,
         },
+        linkDistance:{
+          inter: 100,
+          title: 310,
+          node: 280
+        },
+        collisionSize:{
+          s: 80,
+          m: 100,
+          l: 120
+        },
         nodeSize: 75,
         rootNodeSize: 180,
         storyRadius: 15,
-        titleTextWidthValue: 40
+        titleTextWidthValue: 40,
+        
       },
       
     }
@@ -85,17 +96,17 @@ export default {
         .attr("height", this.attr.height);
 
       const simulation = d3.forceSimulation(graphData.nodes)
-        .force("link", d3.forceLink(graphData.links).id(d => d.slug).distance(function(d) {if(d.interTitleLink){ return 100} else if(d.titleLink){ return 310 }else {return 280}}))
+        .force("link", d3.forceLink(graphData.links).id(d => d.slug).distance(function(d) {if(d.interTitleLink){ return that.attr.linkDistance.inter} else if(d.titleLink){ return that.attr.linkDistance.title }else {return that.attr.linkDistance.node}}))
         .force("charge", d3.forceManyBody().strength(function(d){if (d.index === 0){ return -6000 } else { return -600}}).distanceMin(1).distanceMax(500))
         .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2 - 40))
         .force("radial", d3.forceRadial(this.attr.width * 0.5))
         .force("collide", d3.forceCollide(function(d){
           if(d.lessSpace){
-            return 80
+            return that.attr.collisionSize.s
           } else if(d.isText){
-            return 120
+            return that.attr.collisionSize.l
           } else {
-            return 100
+            return that.attr.collisionSize.m
           }
         }).strength(0.2))
 
@@ -470,7 +481,23 @@ export default {
     if(window){
       // console.log(window.innerWidth);
       this.attr.width = window.innerWidth;
-      this.attr.height = window.innerHeight;
+
+      // For mobile
+      if(window.innerWidth < 501){
+        this.attr.height = window.innerHeight;
+        
+        this.attr.linkDistance.inter = this.attr.linkDistance.inter*0.5;
+        this.attr.linkDistance.title = this.attr.linkDistance.title*0.5;
+        this.attr.linkDistance.node = this.attr.linkDistance.node*0.4;
+        this.attr.nodeSize = this.attr.nodeSize*0.7;
+        this.attr.rootNodeSize = this.attr.rootNodeSize*0.5;
+        this.attr.collisionSize.s = this.attr.collisionSize.s*0.6;
+        this.attr.collisionSize.m = this.attr.collisionSize.m*0.5;
+        this.attr.collisionSize.l = this.attr.collisionSize.l*0.6;
+
+      } else {
+        this.attr.height = window.innerHeight;
+      }
     }
     this.init();
     
