@@ -5,9 +5,13 @@
       <li>
         <Searchbar />
       </li>
+
+      <li>
+        <h2 class="title">Animals as Objects?</h2>
+      </li>
       
       <li>
-        <text-button class="primary-nav-item" :linkto="rootUrl">Animals as Objects?</text-button>
+        <text-button class="primary-nav-item" :linkto="rootUrl">Home</text-button>
       </li>
       <li>
         <text-button class="primary-nav-item" :linkto="sameUrl + 'articles'">Index</text-button>
@@ -101,6 +105,14 @@ export default {
 
 ul{
   li{
+
+    h2{
+      text-align: center;
+      margin: 5rem 1rem;
+      // margin: 7rem 0 5rem;
+      font-size: 10.5vw;
+      line-height: @lh-xs;
+    }
     width: 100%;
     margin-bottom: @space-s;
 
