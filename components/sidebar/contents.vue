@@ -25,6 +25,12 @@ export default {
   },
   methods:{
     tocScroll(el){
+
+      // Mobile hide sidebar
+      if(window){
+        if(window.innerWidth < 501) this.$store.commit('toggleSidebar', false);
+      }
+    
       this.scrollToElement(document.getElementById(el), 700, -90);
       history.pushState({},null, this.$route.path + '#' + el);
     },

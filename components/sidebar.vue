@@ -118,6 +118,12 @@ export default {
     onBackrefClick(hash){
       console.log('backref', hash);
       var h = hash.replace('#', '');
+      
+      // Mobile hide sidebar
+      if(window){
+        if(window.innerWidth < 501) this.$store.commit('toggleSidebar', false);
+      }
+
       this.scrollToElement(document.getElementById(h), 700, -90);
     }
   },
