@@ -19,13 +19,12 @@ English content goes here.
 
 :::DE:::
 
-Das Freigehege scheint leer zu sein, in der Ecke liegt ein Sack, vermutlich zum Spielen. Er hat die gleiche Farbe wie die Hängematte, die unter dem Dach des Freigeheges der Orang-Utans aufgehängt ist. Wahrscheinlich haben sich die Tiere in ihr Innengehege verzogen. Schade eigentlich, denn die rothaarigen Menschenaffen zählen zu den interessantesten Säugetieren, die der Zoo Berlin zu bieten hat. das Außengehege bietet Klettermöglichkeiten und ist begrünt. Ein 'Futterautomat' bietet den Primaten die Möglichkeit, sich die Zeit zu vertreiben, indem sie mit Stöckchen, die sie durch Löcher in den Plexiglasscheiben stecken, Futterpellets durch ein Labyrint von Öffnungen dirigieren bis diese unten herausfallen. Es ist interessant den uns so ähnlichen Tieren dabei zuzusehen. Nun, es scheint, als müsste ich doch in das Affenhaus hineingehen, um die Tiere zu sehen. Dort aber herrscht noch die "Badezimmerarchitektur" der XXXX vor. 
-Doch, hat sich der Sack nicht bewegt? Und schaukelt die Hängematte nicht mehr als eben? Plötzlich tauchen zwei rote Köpfe auf. Das müssen XXX und XXX sein.  
+Das Freigehege scheint leer zu sein, in der Ecke liegt ein Sack, vermutlich zum Spielen. Er hat die gleiche Farbe wie die Hängematte, die unter dem Dach des Freigeheges der Orang-Utans aufgehängt ist. Wahrscheinlich haben sich die Tiere in ihr Innengehege verzogen. Schade eigentlich, denn die rothaarigen Menschenaffen zählen zu den interessantesten Säugetieren, die der Zoo Berlin zu bieten hat. Das Außengehege bietet Klettermöglichkeiten und ist begrünt. Ein 'Futterautomat' bietet den Primaten die Möglichkeit, sich die Zeit zu vertreiben, indem sie mit Stöckchen, die sie durch Löcher in den Plexiglasscheiben stecken, Futterpellets durch ein Labyrint von Öffnungen dirigieren bis diese unten herausfallen. Es ist interessant den uns so ähnlichen Tieren dabei zuzusehen. Nun, es scheint, als müsste ich doch in das Affenhaus hineingehen, um die Tiere zu sehen. Dort aber herrscht noch die "Badezimmerarchitektur" der XXXX vor. 
+Doch, hat sich der Sack nicht bewegt? Und schaukelt die Hängematte nicht mehr als eben? Plötzlich tauchen zwei rote Köpfe auf. Das müssen XXX und XXX sein. Orang-Utans haben europäische Besucher\*innen seit ihrer Erstausstellung XXXX in XXX stets fasziniert. Alle Primaten gehören in den mordernen Zoos zu den Tieren mit der höchsten Anziehungskraft. Ihre Ähnlichkeit im Aussehen und Verhalten hat den menschlichen Blick stets herausgefordert. (in Euuropa?) 
+Anhand der Geschichte der Haltung dieser attraktiven Art lassen sich einige wichtige Entwicklungen der Natur- und Habitatschutzidee in Zoos illustrieren.
 ## Zoos und ihre Legitimitätsgrundlage
 
-Zoos bewegen sich in einem Spannungsfeld zwischen einem oft sehr treuen und kenntnisreichen Publikum und einer berechtigten und lautstarken Kritik. Besucher\*innen, die 'ihre' Lieblinge ganz genau kennen und über viele Jahre beobachten, für die der Zoo eine Art erweitertes Wohnzimmer darstellt und die nicht selten dazu neigen, die ausgestellten Tiere stark zu vermenschlichen bilden das eine Extrem. Das andere sind lautstarke Gegner\*innen von Zoos, die deren sofortige Schließung und die 'Freilassung' der gehaltenen Tiere fordern. Zoos müssen ihre Legitimitätsbasis dauernd verteidigen und bauen. Die frühen Zoos bauten auf ihren Ruf als Bildungsstätten. Sie seien lebende Museen und wie diese Stätten der naturkundlichen Bildung.
-
-Unter den Zoodirektoren des ausgehenden 19. Jahrhunderts finden sich beachtlich viele Jäger. Und Jäger waren es auch, denen oft zuerst auffiel, dass bestimmte Tierspezien gefährlich dezimiert waren.[^hunter] das galt für die USA ebenso wie für den afrikanischen Kontinent.
+Zoos bewegen sich in einem Spannungsfeld zwischen einem oft sehr treuen und kenntnisreichen Publikum und einer berechtigten und lautstarken Kritik. Besucher\*innen, die 'ihre' Lieblinge ganz genau kennen und über viele Jahre beobachten, für die der Zoo eine Art erweitertes Wohnzimmer darstellt und die nicht selten dazu neigen, in den ausgestellten Tieren echte Freund\*innen zu sehen bilden einen Pol des Spektrums an Zugängen zu Zoos. Das andere sind lautstarke Gegner\*innen von Zoos, die deren sofortige Schließung und die 'Freilassung' der gehaltenen Tiere fordern. Zoos müssen ihre Legitimitätsbasis dauernd verteidigen und bauen. Die frühen Zoos bauten auf ihren Ruf als Bildungsstätten. Sie seien lebende Museen und Stätten der naturkundlichen Bildung. Im XXX Jahrhundert setzte sich eine Lesart von Zoos als Archen der Vielfalt durch und heute bevorzugen manche Tiergärten das Label des Naturschutzzentrums.
 
 ## Das Problem mit den Orang-Utans
 
@@ -77,6 +76,10 @@ Auf der Sitzung des Internationalen Verbands der Zoodirektoren, dem Vorgänger d
 * San Diego übernahm die Mendesantilope
 * Washington den Orang-Utan und
 * Whipsnade wollte das Zuchtbuch für den Davidshirsch führen.[^studbookscolombo]
+
+## EEP
+
+https://www.karlsruhe.de/b3/freizeit/zoo/profil/natur_artenschutz/zuchtprogramme.de
 
 ## Bullfrog
 
