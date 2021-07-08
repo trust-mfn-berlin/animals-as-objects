@@ -13,8 +13,12 @@ html{
   font-size:24px;
   -webkit-font-smoothing:antialiased;
   -moz-osx-font-smoothing: grayscale; 
+  
+  @media screen and (max-width: @mq-xs) /* Mobile */ {
+    font-size: 16px;
+  }
 
-  @media screen and (max-width: @mq-s) /* Mobile */ {
+  @media screen and (min-width: @mq-xs) and (max-width: @mq-s) /* Mobile */ {
     font-size: 20px;
   }
   @media screen and (min-width: @mq-s) and (max-width: @mq-m) /* Tablet */ {
