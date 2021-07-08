@@ -146,6 +146,10 @@ body{
 .spacer{
   height: calc(100vh - 11rem);
   pointer-events: none;
+
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    height: 70vh;
+  }
 }
 
 section{

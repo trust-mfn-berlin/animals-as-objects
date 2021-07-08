@@ -72,5 +72,6 @@ export default {
 <style lang="less" scoped>
 .layout-container{
   padding-top: 6rem;
+  overflow:hidden;
 }
 </style>
