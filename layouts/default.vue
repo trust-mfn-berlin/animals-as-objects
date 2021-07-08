@@ -1,6 +1,10 @@
 <template>
   <div class='layout-container'>
     <Navigation />
+
+    <transition name="slideleft">
+      <mobile-menu v-if="this.$store.getters.isMobileMenuOpen" />
+    </transition>
     
     <Nuxt @click.native="closeSearchBar"/>
 
