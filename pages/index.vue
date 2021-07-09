@@ -168,9 +168,12 @@ section{
   &.cascade{
     position: relative;
     // z-index: 1;
-    // background-color: @bg-2;
-    background: rgba(243, 236, 229, 0.8);
-    backdrop-filter: blur(10px);
+    background-color: @bg-2;
+
+    @supports (backdrop-filter: blur()) {
+      background: rgba(243, 236, 229, 0.8);
+      backdrop-filter: blur(10px);
+    }
   }
 
   &.routes{
