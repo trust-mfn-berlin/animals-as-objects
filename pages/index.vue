@@ -1,5 +1,5 @@
 <template>
-  <div style="postion: relative">
+  <div class="homepage-container">
 
     <graph />
     
@@ -139,8 +139,9 @@ export default {
 </script>
 
 <style lang="less" scoped>
-body{
-  /* background-color: #F3EEE9; */
+
+.homepage-wrapper{
+  position: relative;
 }
 
 .spacer{
