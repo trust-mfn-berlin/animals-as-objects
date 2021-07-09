@@ -4,7 +4,6 @@ title_de: Wie kommen Tiere in den Zoo?
 created: 1618498026144
 author: Clemens Maier-Wolthausen
 short_desc_de: Politische, logistische und moralische Herausforderungen
-date_end: 2021-07-06T11:21:38.457Z
 published: false
 title: How do animals get into the zoo?
 updated: 1624434226969
@@ -26,7 +25,6 @@ cover_image:
     1959. Flusspferde "Knautschke", "Jette" und "Bulette" im Berliner Zoo, um
     1959. Source: AZGB, photo Hoppe. All rights reserved.'
 tao_type: theme
-date_start: 1499-12-31T23:06:32.000Z
 colour_scheme: 16
 ---
 

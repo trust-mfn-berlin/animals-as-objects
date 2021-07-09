@@ -24,7 +24,7 @@ export default {
           left: 40,
           bottom: 40,
         },
-        spaceMultiplier: 25
+        spaceMultiplier: 25,
       },
     }
   },
@@ -75,16 +75,30 @@ export default {
             .text(d => d.data.title);
 
 
-        // d3.selectAll('.d3-timeline-line')
-        //   .append("text")
-        //     .text(d => d.data.title)
-        //     .attr('font-size', '12px')
-        //     .attr("font-family", "CentSchbook Mono BT")
-        //     .attr("dy", function(d, i) { return d.y + 3})
-        //     .attr("dx", function(d) { return (d.x0 + (d.x1 - d.x0)/2) - (d.data.title.length*7)/2})
-            // .attr("fill", function(d){
-            //   return 'var(--scheme-' + d.data.colour_scheme + '-fg)'
-            // })
+        d3.selectAll('.d3-timeline-line')
+          .append("text")
+            .text(d => d.data.title)
+            .text(function(d){
+              if((d.data.title.length*7) > d.x1 - d.x0){
+                return d.data.title.substring(0,5) + '...'
+              } else {
+                return d.data.title
+              }
+            })
+            .attr('font-size', '12px')
+            .attr("font-family", "century-mono")
+            .attr("dy", function(d, i) { return d.y + 3})
+            .attr("dx", function(d) { 
+              if((d.data.title.length*7) > d.x1 - d.x0){
+                return (d.x0 + (d.x1 - d.x0)/2) - (8*7)/2
+              } else {
+                return (d.x0 + (d.x1 - d.x0)/2) - (d.data.title.length*7)/2
+              }
+            })
+            .attr("fill", function(d){
+              return 'var(--scheme-' + d.data.colour_scheme + '-fg)'
+            })
+            .style("pointer-events", "none");
 
         // const defs = svg.append("defs");
         // defs.append("filter")
@@ -106,9 +120,9 @@ export default {
           .attr("class", "tooltip")
             .append("text")
               .style("pointer-events", "none")
-              .attr('font-size', '14px')
-              .attr("font-family", "CentSchbook Mono BT")
-              .attr("dy", 0)
+              .attr('font-size', '1rem')
+              .attr("font-family", "century-mono")
+              .attr("dy", -10)
               // .attr("filter", "url(#solid)")
 
         d3.selectAll('.d3-timeline-line').on('mouseover', function(event, d) {
@@ -136,7 +150,7 @@ export default {
           //   .style("opacity", "0")
 
         }).on('mousemove', function(event, d) {
-          tooltip.text(d.data.title + '\n' + that.$options.filters.formatDateYear(d.data.date_start) + '–' + that.$options.filters.formatDateYear(d.data.date_end))
+          tooltip.text(d.data.title + ': ' + that.$options.filters.formatDateYear(d.data.date_start) + '–' + that.$options.filters.formatDateYear(d.data.date_end))
           .attr('transform', `translate(${event.offsetX},${event.offsetY})`)
           .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
         }).on('mouseout', function(event, d){
@@ -217,14 +231,24 @@ export default {
     },
     xAxis(g){
       g.attr("transform", `translate(0,${this.attr.height - this.attr.margin.bottom + 5})`)
-      .call(d3.axisBottom(this.x))
+      .call(d3.axisBottom(this.x).ticks(this.attr.ticks))
     },
   },
   mounted(){
     if(window){
+
+      if(window.innerWidth < 501){
+        this.attr.width = window.innerWidth*2;
+        this.attr.lineWidth = 20;
+        this.attr.spaceMultiplier = 25;
+      } else {
+        this.attr.width = window.innerWidth;
+      }
+
       this.attr.height = timelineData.length * this.attr.spaceMultiplier - this.attr.margin.top;
-      this.attr.width = window.innerWidth - 48;
       this.attr.ticks = Math.floor(window.innerWidth / 80)
+
+      
     }
     this.init(); 
 
@@ -235,7 +259,17 @@ export default {
 </script>
 
 <style lang="less" scoped>
+
+#d3-timeline{
+  margin-left: -@space-s;
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    overflow-x:scroll;
+  margin-right: -@space-s;
+  }
+}
+
 ::v-deep svg{
+  
   background-color: @bg-2;
   // border-radius: @radius-l;
 
@@ -245,6 +279,7 @@ export default {
   }
 
   .d3-timeline-line{
+    
     line{
       cursor: pointer;
       .animatefast(all);
@@ -253,14 +288,24 @@ export default {
       stroke: white !important;
       stroke-width: 32;
     }
-    // &:hover{
-    //   transform: scale(1.2);
-    // }
+    &:hover{
+      text{
+        fill: transparent;
+      }
+    }
+
+    @media screen and (max-width: @mq-s) /* Mobile */ {
+      text{
+        // display: none;
+        max-width: 10px;
+        overflow: hidden;
+      }
+    }
   }
 
 
   .domain{
-    stroke:none;
+    // stroke:none;
   }
   .tick{
     line{
