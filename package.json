@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "node scripts/copy-audio.js && node scripts/copy-images.js && node scripts/link-map.js && node scripts/create-timeline.js && nuxt",
+    "dev": "node scripts/copy-audio.js && node scripts/copy-images.js && node scripts/link-map.js && node scripts/create-timeline.js && nuxt --hostname '0'",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "node scripts/copy-audio.js && node scripts/copy-images.js && node scripts/link-map.js && node scripts/create-timeline.js && nuxt generate",
