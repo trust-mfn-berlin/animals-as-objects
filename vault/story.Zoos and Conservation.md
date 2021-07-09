@@ -120,7 +120,13 @@ Der Weltzooverband _World Association of Zoos and Aquariums (WAZA) vertritt 2021
 
 Daraus folge dann eben der Zweck des Verbands:
 
->"WAZA is the voice of a global community of high standard, conservation-based zoos and aquariums and a catalyst for their joint conservation action."
+>"WAZA is the voice of a global community of high standard, conservation-based zoos and aquariums and a catalyst for their joint conservation action."[^waza1]
+
+Auf der Webpage zur derzeitigen Artenschutzstrategie des Verbandes "lauerte" im Sommer 2021 passend ein Orang-Utan.
+
+![desc](images\cmw\Orang_Conservation_WAZA.JPG)
+
+Das Tier eignete sich in den Augen des Verbandes also als Botschafter des Artenschutzes - so wie eins [["Knut"|story.Knut]] als Botschafter für den Schutz seines arktischen Habitats galt.
 
 
 
@@ -140,6 +146,8 @@ Przewalskipferd, Bartgeier, Lear-Ara, Europäische Sumpfschuldkröte, Habichtska
 ## Fehler im System
 
 Als 2021 herauskam, dass durch eine Verwechslung im Moskauer Zoo vor Jahren übersehen worden war, dass “Herthas” Elterntiere verwandt waren und daher eine Zucht zwischen ihnen durch das Europäische Erhaltungszuchtprogramm für Eisbären verhindert hätte werden müssen, war die offensichtliche Inzest im Tierpark nur einen Tag lang ein Thema in den lokalen Medien.[^tonja]
+
+
 
 ### Footnotes
 
@@ -162,3 +170,5 @@ Als 2021 herauskam, dass durch eine Verwechslung im Moskauer Zoo vor Jahren übe
 [^djakarta]: Durchschrift Bericht H. Dathe über die Indonesienreise im Herbst 1972 an das MfK, 21.3.1973, AZGB, O 0/1/206. Hier auch die folgenden Zitate.
 
 [^conway1]: Conway, William G. 1968. „How to Exhibit a Bullfrog: A Bed‐Time Story for Zoo Men“. Curator: The Museum Journal 11 (4): 310–18, 318.
+
+[^waza1]: WAZA: "About WAZA": https://www.waza.org/about-waza/ (07.07.2021).
