@@ -74,11 +74,15 @@ export default {
           m: 100,
           l: 120
         },
+        verticalOffset: 100,
         nodeSize: 75,
         rootNodeSize: 180,
         storyRadius: 15,
         titleTextSize: 72,
-        
+        alphaTarget:{
+          drag: 0.3,
+          rest: 0.00005
+        }
       },
       
     }
@@ -98,8 +102,8 @@ export default {
       const simulation = d3.forceSimulation(graphData.nodes)
         .force("link", d3.forceLink(graphData.links).id(d => d.slug).distance(function(d) {if(d.interTitleLink){ return that.attr.linkDistance.inter} else if(d.titleLink){ return that.attr.linkDistance.title }else {return that.attr.linkDistance.node}}))
         .force("charge", d3.forceManyBody().strength(function(d){if (d.index === 0){ return -6000 } else { return -600}}).distanceMin(1).distanceMax(500))
-        .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2 - 40))
-        .force("radial", d3.forceRadial(this.attr.width * 0.5))
+        .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2 - this.attr.verticalOffset))
+        // .force("radial", d3.forceRadial(this.attr.height * 0.5))
         .force("collide", d3.forceCollide(function(d){
           if(d.lessSpace){
             return that.attr.collisionSize.s
@@ -108,7 +112,9 @@ export default {
           } else {
             return that.attr.collisionSize.m
           }
-        }).strength(0.2))
+        }).strength(0.3))
+        .force("y0", d3.forceY(this.attr.height + 20).strength(0.2)) //bounds bottom
+        .force("y1", d3.forceY(-20).strength(0.2)); //bounds bottom
 
       const link = svg.append("g")
         .attr("stroke", "#fff")
@@ -178,7 +184,7 @@ export default {
               return '#000'
             } else {
               // return colorScale(i)
-              console.log(d.colour_scheme);
+              // console.log(d.colour_scheme);
               return 'var(--scheme-'+ d.colour_scheme +'-bg)'
             }
             
@@ -458,8 +464,9 @@ export default {
       });
     },
     drag(simulation){
+      const that = this;
       function dragstarted(event) {
-        if (!event.active) simulation.alphaTarget(0.3).restart();
+        if (!event.active) simulation.alphaTarget(that.attr.alphaTarget.drag).restart();
         event.subject.fx = event.subject.x;
         event.subject.fy = event.subject.y;
       }
@@ -470,7 +477,7 @@ export default {
       }
       
       function dragended(event) {
-        if (!event.active) simulation.alphaTarget(0.00005);
+        if (!event.active) simulation.alphaTarget(that.attr.alphaTarget.rest);
         event.subject.fx = null;
         event.subject.fy = null;
       }

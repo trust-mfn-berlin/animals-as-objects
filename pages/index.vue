@@ -145,7 +145,7 @@ export default {
 }
 
 .spacer{
-  height: calc(100vh - 11rem);
+  height: calc(100vh - 14rem);
   pointer-events: none;
 
   @media screen and (max-width: @mq-s) /* Mobile */ {
