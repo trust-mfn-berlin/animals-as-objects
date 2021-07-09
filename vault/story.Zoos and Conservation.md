@@ -22,6 +22,9 @@ English content goes here.
 Ich arbeite jetzt seit sechs Jahren mit vollem Zugang zum Berliner Zoo und seinen Archiven - und häufig auch seinen Tieren. Und immer noch zieht es mich oft bei meinen Wegen durch den Zoo zum Außengehege der Orang-Utans. Ich verstehe die Faszination, die von diesen Primaten mit ihrem roten Fell und ihren merkwürdig anmutenden Wangenwülsten für viele Menschen ausgeht. Orang-Utans haben europäische Besucher\*innen seit ihrer Erstausstellung XXXX in XXX stets fasziniert. Alle Primaten gehören in den mordernen Zoos zu den Tieren mit der höchsten Anziehungskraft. Ihre Ähnlichkeit im Aussehen und Verhalten hat den menschlichen Blick stets herausgefordert. (in Europa?) 
 Anhand der Geschichte der Haltung dieser attraktiven Art lassen sich einige wichtige Entwicklungen der Natur- und Habitatschutzidee in Zoos illustrieren.
 
+![desc](images\cmw\Orang_Utan_Enche.jpg)
+_Männlicher Orang-Utan "Enche", 2016. (Zoologischer Garten Berlin, Alle Rechte vorbehalten.)_
+
 ## Legitimitätsgrundlage
 
 Zoos bewegen sich in einem Spannungsfeld zwischen einem oft sehr treuen und kenntnisreichen Publikum und einer berechtigten und lautstarken Kritik. Besucher\*innen, die 'ihre' Lieblinge ganz genau kennen und über viele Jahre beobachten, für die der Zoo eine Art erweitertes Wohnzimmer darstellt und die nicht selten dazu neigen, in den ausgestellten Tieren echte Freund\*innen zu sehen bilden einen Pol des Spektrums an Zugängen zu Zoos. Das andere sind lautstarke Gegner\*innen von Zoos, die deren sofortige Schließung und die 'Freilassung' der gehaltenen Tiere fordern. Zoos müssen ihre Legitimitätsbasis dauernd verteidigen und bauen. Die frühen Zoos bauten auf ihren Ruf als Bildungsstätten. Sie seien lebende Museen und Stätten der naturkundlichen Bildung. Im XXX Jahrhundert setzte sich eine Lesart von Zoos als Archen der Vielfalt durch und heute bevorzugen manche Tiergärten das Label des Naturschutzzentrums.
@@ -30,6 +33,9 @@ Zoos bewegen sich in einem Spannungsfeld zwischen einem oft sehr treuen und kenn
 
 Heute stammt die Mehrzahl der in Europa und Nordamerika in Zoos lebenden Orang-Utans aus den Erhaltungszuchtprogrammen der Zooverbände. Das war nicht immer so und am Orang Utan lassen sich die Interessenskonflikte von Zoos sehr gut ablesen. In den beiden deutschen Staaten wurde diese gefährdete Tierart sogar zu einem Politikum.
 Auf der Tagung des Verbands Deutscher Zoodirektoren 1962 auf der die ostdeutschen Kollegen ein Jahr nach dem Bau der Berliner Mauer nicht anwesend waren, wurde zum ersten Mal intensiv über den Kauf von importierten Orang-Utans, also Wildfängen, diskutiert. Der Frankfurter Zoodirektor [[material.Bernhard Grzimek]] wies auf die große Gefährdung der Art in Borneo und Sumatra hin. Grzimek war der früheste Vertreter eines aktiven Artenschutzes unter den deutschen Zoodirektoren. Er forderte einen freiwilligen Verzicht der versammelten Zoodirektoren[^heinrothgender] auf den Import der Spezies.
+
+![desc](XXX)
+_Bild der Zoodirektorentagung von XYZ_
 
 Wie um die Kollegen auf seine Seite zu ziehen fügte er hinzu, dass diese bei weiterem Import von Orang-Utans mit Angriffen aus der Öffentlichkeit zu rechnen hätten, da diese durch die Presse über die Gefährdung gut informiert sei. Die anwesenden Zoodirektoren fassten - allerdings nicht einstimmig - für sich den Beschluss:
 
@@ -46,6 +52,9 @@ Sein West-Berliner Kollege Heinz-Georg Klös stimmte mittelbar zu indem er
 Andere Teilnehmer verwiesen auf der Tagung auf eine mögliche Preistreiberei, wenn Zoos solche Tiere nachfragten. Letztlich beauftragte das Plenum Bernhardt Grzimek und eine Kommission mit der Ausarbeitung einer Resolution.
 
 Dathe und Klös waren Mitte der 1960er Jahre mit ihrer Position zum Umgang mit gefährdeten Arten nicht allein. Es sollte jedoch gefragt werden, ob denn die beiden in diesem Moment nicht möglicherweise einen Zielkonflikt hatten. Die Haltung von Menschenaffen brachte und bringt für Zoos ein großes Prestige unter den Kolleginnen und Kollegen mit sich und viele Besucher\*innen sind von ihnen, insbesondere den Orang-Utans angezogen. In der Konkurrenz der beiden Tiergärten in der geteilten Stadt spielten diese attraktiven Schautiere sicher eine Rolle. Sowohl der Zoo als auch der Tierpark hatten in den vorangegangenen Jahren Wildfänge dieser Art gekauft und bemühten sich um eine eigene Zucht. Obwohl beide sich dem Artenschutz verschrieben hatten, könnten hier egoistische Motive eines Wettkampfs um diese populären Tiere eine Rolle gespielt haben. Heinrich Dathe war es endlich geglückt ein Menschenaffenhaus zu bauen, welches 1964 eröffnet wurde. Darin befanden sich auch drei Orang-Utans, die 1960 und 1961 gekommen waren. Sicher erhoffte sich Heinrich Dathe mit dem einen Weibchen und den zwei Männchen, eine Zucht aufzubauen, muss sich aber im Klaren gewesen sein, dass er weitere Individuen der Art brauchen würde.
+
+![desc](images\cmw\Orangs_Bubi_Nakal_1959.jpg)
+_Postkarte des Zoologischen Gartens mit den beiden Orang-Utan-Jungtieren "Nakal" und "Bubi", 1959._
 
 Sein Kollege in West-Berlin konnte bereits 1963 erste Nachzuchten erzielen, aber ein Junges verstarb und der deutlich im Geschäftsbericht artikulierte Wunsch des Aufbaus einer Zucht und des Anknüpfens an Erfolge der 1920er Jahre in der Orang-Utan-Zucht würde weitere Importe bedingen. Der Geschäftsbericht sprach auch deutlich von der Gefährdung der Art und formulierte eine Erhaltungszuchtpolitik für Zoos.
 
@@ -70,14 +79,6 @@ Der Direktor des New York Zoological Parks und ehemalige Taxidermist des Nationa
 
 ## Studbooks
 
-Als 2021 herauskam, dass durch eine Verwechslung im Moskauer Zoo vor Jahren übersehen worden war, dass “Herthas” Elterntiere verwandt waren und daher eine Zucht zwischen ihnen durch das Europäische Erhaltungszuchtprogramm für Eisbären verhindert hätte werden müssen, war die offensichtliche Inzest im Tierpark nur einen Tag lang ein Thema in den lokalen Medien.[^tonja]
-
-
-## ZIMS
-
-
-### Weitere
-
 Auf der Sitzung des Internationalen Verbands der Zoodirektoren, dem Vorgänger der [[material.WAZA]] in Colombo 1966 verpflichteten sich weiter Zoos zur Haltung von Zuchtbüchern für gefährdete Arten. Es waren:
 
 * Antwerpen für Okapis und Bonobos
@@ -92,9 +93,16 @@ Auf der Sitzung des Internationalen Verbands der Zoodirektoren, dem Vorgänger d
 * Washington den Orang-Utan und
 * Whipsnade wollte das Zuchtbuch für den Davidshirsch führen.[^studbookscolombo]
 
+## ZIMS/ species360
+
+[[material.species360]]
+
 ## EEP
 
 https://www.karlsruhe.de/b3/freizeit/zoo/profil/natur_artenschutz/zuchtprogramme.de
+
+![desc](images\cmw\Orang_Utan_Jung_Rieke_Wiegen.JPG)
+_Orang-Utan-Jungtier "Rieke" beim Wiegen, 2020. (Zoologischer Garten Berlin, Alle Rechte vorbehalten)_
 
 ## Bullfrog
 
@@ -104,18 +112,34 @@ Die Zuchtbücher stellten bereits eine im Rahmen von Zoos bewährte Form des Art
 
 Dies sagte William Conway, Direktor des Bronx-Zoo schon 1968 gesagt.[^conway1] Allerdings war er sich nicht sicher, welche Form diese Artenschutzzentren haben sollten und vor allem machte er auf ein grundsätzliches Dilemma aufmerksam, nämlich: Welche Tiere sollen in Zoos gezüchtet werden?
 
-
-
 ## Immer wieder die gleichen sechs Tiere - WAZAs Conservation Strategy
 
-2015 verabschiedete der Weltzooverband WAZA 
+Der Weltzooverband _World Association of Zoos and Aquariums (WAZA) vertritt 2021 laut eigener Aussage mehr als 400 Tiergärten und Aquarien weltweit. Die Website gibt Auskunft über die den Verband tragende Vision und Aufgabe:
+
+>"WAZA’s vision is a world where zoos and aquariums maximise their conservation impact. Zoos and aquariums are at the fore‑front of conservation efforts and comprise the largest global conservation network."
+
+Daraus folge dann eben der Zweck des Verbands:
+
+>"WAZA is the voice of a global community of high standard, conservation-based zoos and aquariums and a catalyst for their joint conservation action."
+
+
+
+WAZA (2005): Building a Future for Wildlife - The World Zoo and Aquarium Conservation Strategy.
+https://www.waza.org/wp-content/uploads/2019/03/wzacs-en.pdf
+
+
+2015 verabschiedete der Weltzooverband WAZA erneute eine Artenschutzstrategy: Barongi, R., Fisken, F. A ., Parker, M. & Gusset, M. (eds) (2015) Committing to Conservation: The World Zoo and Aquarium Conservation Strategy. Gland: WAZA Executive Office
+
+https://www.waza.org/wp-content/uploads/2019/03/WAZA-Conservation-Strategy-2015_Portrait.pdf
 
 Przewalskipferd, Bartgeier, Lear-Ara, Europäische Sumpfschuldkröte, Habichtskauz, Alpensteinbock und der Feldhamster...
 
 >"Diese Strategie bietet eine Fülle von Best-Practice-Beispielen, die Ihnen helfen, proaktiv mit den äußeren und inneren Veränderungen unserer Welt umzugehen und die gefährdeten Wildtiere, um die wir uns sorgen, zu schützen. Mehr Ressourcen für Tiere in freier Wildbahn bereitzustellen, ist nicht nur das Richtige, sondern auch das, was die lokale und globale Öffentlichkeit von uns erwartet."
 
 
+## Fehler im System
 
+Als 2021 herauskam, dass durch eine Verwechslung im Moskauer Zoo vor Jahren übersehen worden war, dass “Herthas” Elterntiere verwandt waren und daher eine Zucht zwischen ihnen durch das Europäische Erhaltungszuchtprogramm für Eisbären verhindert hätte werden müssen, war die offensichtliche Inzest im Tierpark nur einen Tag lang ein Thema in den lokalen Medien.[^tonja]
 
 ### Footnotes
 
