@@ -1,7 +1,7 @@
 <template>
   <form id='cookie-disclaimer' v-show="!this.$store.getters.isTrackingEnabled">
-    <label class='text-links f-mono subheading'>Allow Cookies? read our <nuxt-link to="/datenschutz">privacy policy</nuxt-link></label>
-    <text-button type="button" @click.native="onAccept">Accept</text-button>
+    <label class='text-links f-mono subheading'>Allow Cookies? <nuxt-link to="/datenschutz">What they do</nuxt-link></label>
+    <text-button type="button" @click.native="onAccept">OK</text-button>
   </form>
 </template>
 
@@ -39,7 +39,8 @@ export default{
   // box-shadow: @shadow;
 
   label{
-    background-color: @white;
+    background-color: @black;
+    color:@white;
     box-shadow: @shadow;
     // display: inline-block;
     padding: 0.625rem 0.8rem 0.7rem;
@@ -47,6 +48,31 @@ export default{
     width: auto;
     position: relative;
     height: 2rem;
+    min-height: 44px;
+    
+    
+    a{
+      border-color: @white;
+      &:hover{
+        border-color: transparent;
+      }
+    }
+  }
+  
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    bottom:0;
+    left:0;
+    right:0;
+    // background-color: @white;
+    display: flex;
+    // justify-content: space-between;
+    padding:@space-s;
+    label{
+      margin-right: @space-xs;
+      // padding:0;
+      // background-color: transparent;
+      // box-shadow: none;
+    }
   }
 }
 </style>
