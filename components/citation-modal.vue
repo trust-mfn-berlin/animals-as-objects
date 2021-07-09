@@ -4,7 +4,7 @@
     <h3 id="citation_label" class="f-mono subheading" v-else>zitiere diesen Artikel</h3>
     <p class="f-mono citation text-links" ref="citation" v-if="siteLang == 'en'">{{article.author}}, "{{article.title}}", <em>Animals as Objects?</em>, <span v-if="article.translators"> trans. {{article.translators.translator_de_en}},</span> 15 November 2021, Last updated {{article.updatedAt | formatDate}}, <a>https://animalsasobjects.org/{{article.slug}}</a> <span v-if="article.doi">DOI: <a>https://doi.naturkundemuseum.berlin/data/{{article.doi}}</a></span></p>
     <p class="f-mono citation text-links" ref="citation" v-else>{{article.author}}, "{{article.title_de}}", <em>Tiere als Objekte?</em>, <span v-if="article.translators">, Übers. {{article.translators.translator_en_de}},</span> 15. November 2021, letzte Aktualisierung {{article.updatedAt | formatDate}}, <a>https://animalsasobjects.org/de/{{article.slug}}</a> <span v-if="article.doi">DOI: <a>https://doi.naturkundemuseum.berlin/data/{{article.doi}}</a></span></p>
-    <text-button linkto='' @click.native="copyCitation()">{{copyButtonText}}</text-button>
+    <text-button type="button" @click.native="copyCitation()">{{copyButtonText}}</text-button>
     <icon-button class="close" :tao_type="$store.getters.articleTaoType" icon="close" @click.native="$store.commit('toggleCitationModal', {isOpen:false, article:''})">Close</icon-button>
   </div>
 </template>
