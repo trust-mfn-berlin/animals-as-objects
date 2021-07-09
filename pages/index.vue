@@ -149,7 +149,7 @@ export default {
   pointer-events: none;
 
   @media screen and (max-width: @mq-s) /* Mobile */ {
-    height: 40vh;
+    height: calc(60vh - 6rem);
   }
 }
 

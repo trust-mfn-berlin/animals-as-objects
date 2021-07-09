@@ -82,7 +82,9 @@ export default {
         alphaTarget:{
           drag: 0.3,
           rest: 0.00005
-        }
+        },
+        radialForceStrength: 0,
+        yForceStrength: 0.2
       },
       
     }
@@ -103,7 +105,7 @@ export default {
         .force("link", d3.forceLink(graphData.links).id(d => d.slug).distance(function(d) {if(d.interTitleLink){ return that.attr.linkDistance.inter} else if(d.titleLink){ return that.attr.linkDistance.title }else {return that.attr.linkDistance.node}}))
         .force("charge", d3.forceManyBody().strength(function(d){if (d.index === 0){ return -6000 } else { return -600}}).distanceMin(1).distanceMax(500))
         .force("center", d3.forceCenter(this.attr.width / 2, this.attr.height / 2 - this.attr.verticalOffset))
-        // .force("radial", d3.forceRadial(this.attr.height * 0.5))
+        .force("radial", d3.forceRadial(this.attr.width * 0.5).strength(0))
         .force("collide", d3.forceCollide(function(d){
           if(d.lessSpace){
             return that.attr.collisionSize.s
@@ -113,8 +115,8 @@ export default {
             return that.attr.collisionSize.m
           }
         }).strength(0.3))
-        .force("y0", d3.forceY(this.attr.height + 20).strength(0.2)) //bounds bottom
-        .force("y1", d3.forceY(-20).strength(0.2)); //bounds bottom
+        .force("y0", d3.forceY(this.attr.height + 20).strength(this.attr.yForceStrength)) //bounds bottom
+        .force("y1", d3.forceY(-20).strength(this.attr.yForceStrength)); //bounds bottom
 
       const link = svg.append("g")
         .attr("stroke", "#fff")
@@ -508,11 +510,20 @@ export default {
 
         this.attr.collisionSize.s = this.attr.collisionSize.s*0.6;
         this.attr.collisionSize.m = this.attr.collisionSize.m*0.4;
-        this.attr.collisionSize.l = this.attr.collisionSize.l*0.6;
-
+        this.attr.collisionSize.l = this.attr.collisionSize.l*0.4;
+        
+        // Rounded corners
         this.attr.storyRadius = 9;
 
+        // Font size
         this.attr.titleTextSize = 30;
+
+        // Don't squish
+        this.attr.radialForceStrength = 0.8;
+        this.attr.yForceStrength = 0;
+
+        // Center force vertical offset
+        this.attr.verticalOffset = (window.innerHeight*0.4)/2 - 20;
 
       } else {
         this.attr.height = window.innerHeight;
