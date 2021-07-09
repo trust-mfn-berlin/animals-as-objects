@@ -178,6 +178,10 @@ nav{
 
   pointer-events: none;
 
+  // set height so that searchbar results don't expand hittable area
+  height: 2rem;
+  min-height: 44px;
+
   li{
     list-style-type: none;
     pointer-events: all;
