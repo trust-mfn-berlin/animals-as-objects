@@ -16,18 +16,18 @@
           </div>
           <p class="f-serif quote">{{siteLang == 'en' ? slide.caption : slide.caption_de}}</p>
           <nav class="slider-nav">
-            <icon-button icon="arrow-left" class="slider-navigate-back" @click.native="prevSlide" :tao_type="$store.getters.articleTaoType"/>
+            <icon-button icon="arrow-left" class="slider-navigate-back" @click.native="prevSlide" :tao_type="$store.getters.articleTaoType">Previous</icon-button>
             <span class="counter">{{currentSlide + 1}}/{{slides.length}}</span>
-            <icon-button icon="arrow-right" class="slider-navigate-forward" @click.native="nextSlide" :tao_type="$store.getters.articleTaoType"/>
+            <icon-button icon="arrow-right" class="slider-navigate-forward" @click.native="nextSlide" :tao_type="$store.getters.articleTaoType">Next</icon-button>
           </nav>
           
         </figcaption>
 
         <nav class="mobile-slider-nav">
           <div class="mobile-slider-nav-wrap">
-            <icon-button icon="arrow-left" class="slider-navigate-back" @click.native="prevSlide" :tao_type="$store.getters.articleTaoType"/>
+            <icon-button icon="arrow-left" class="slider-navigate-back" @click.native="prevSlide" :tao_type="$store.getters.articleTaoType">Previous</icon-button>
               <span class="counter">{{currentSlide + 1}}/{{slides.length}}</span>
-            <icon-button icon="arrow-right" class="slider-navigate-forward" @click.native="nextSlide" :tao_type="$store.getters.articleTaoType"/>
+            <icon-button icon="arrow-right" class="slider-navigate-forward" @click.native="nextSlide" :tao_type="$store.getters.articleTaoType">Next</icon-button>
           </div>
         </nav>
       </figure>

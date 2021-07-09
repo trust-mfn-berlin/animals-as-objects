@@ -8,7 +8,7 @@
         :icon="toggleMobileMenuIcon"
         :tao_type="this.$store.getters.articleTaoType"
         :aria-haspopup="isMobileMenuOpen"
-      ></icon-button>
+      >{{toggleMobileMenuButtonText}}</icon-button>
     </li>
     </transition>
 
@@ -40,7 +40,7 @@
           :tao_type="this.$store.getters.articleTaoType"
           :aria-haspopup="isSidebarOpen"
           :useColourScheme="this.$store.getters.isSidebarOpen"
-        >{{toggleButtonText}}</icon-button>
+        >{{toggleSidebarButtonText}}</icon-button>
       </li>
     </transition>
     
@@ -72,7 +72,14 @@ export default {
         return "i"
       }
     },
-    toggleButtonText(){
+    toggleMobileMenuButtonText(){
+      if(this.$store.getters.isMobileMenuOpen){
+        return "Open Menu"
+      } else {
+        return "Close Menu"
+      }
+    },
+    toggleSidebarButtonText(){
       if(this.$store.getters.isSidebarOpen){
         return "Hide Sidebar"
       } else {
