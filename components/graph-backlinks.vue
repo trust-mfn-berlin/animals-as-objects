@@ -170,7 +170,7 @@ export default {
       node.append("text")
         
         .attr("dy", this.attr.nodeSize + this.attr.labelSpacing + "px")
-        .attr("font-family", "CentSchbook Mono BT")
+        .attr("font-family", "century-mono")
         .style("font-size", this.attr.fontSize)
         .attr("fill", "rgba(0,0,0,0.2)")
         .text(function(d) { 
