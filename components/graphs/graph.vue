@@ -250,7 +250,7 @@ export default {
               return that.attr.nodeSize + 'px'
             }
           })
-          .attr("font-family", "CentSchbook Mono BT")
+          .attr("font-family", "century-mono")
           .attr('font-size', function (d, i) {
             if(d.isText == true){
               return '54px'
@@ -514,7 +514,8 @@ export default {
 }
 
 ::v-deep svg{
-  -webkit-filter: drop-shadow( 0px 4px 10px rgba(0, 0, 0, 0.05));
+  // Fucks up performance
+  // -webkit-filter: drop-shadow( 0px 4px 10px rgba(0, 0, 0, 0.05));
   .nodechild{
     cursor: pointer;
     // -webkit-filter: drop-shadow( 0px 4px 10px rgba(0, 0, 0, 0.05));
