@@ -26,7 +26,12 @@ export default {
   ul{
     display: flex;
     flex-wrap: wrap;
-    gap: @space-s;
+    gap: @space-s; 
+
+    // Bigger gap on mobile to avoid misclicking when scrolling
+    @media screen and (max-width: @mq-s) /* Mobile */ {
+      gap: @space-m;
+    }
   }
 }
 </style>
