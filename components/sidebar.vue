@@ -210,6 +210,7 @@ aside{
 
     &#section-backlinks{
       position: relative;
+      overflow: hidden;
       h3{
         // position:absolute;
         // background-color: rgba(255,255,0,0.1);
