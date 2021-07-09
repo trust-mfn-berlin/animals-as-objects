@@ -43,7 +43,7 @@ const title_nodes = [
 
 const title_links = [
   {source:"title_animals", target: graphData.nodes[0].slug, value:1, titleLink:true},
-  {source:"title_animals", target: "title_as", value:1, titleLink:true, interTitleLink: true},
+  // {source:"title_animals", target: "title_as", value:1, titleLink:true, interTitleLink: true},
   // {source:"title_as", target: "title_objects", value:1, titleLink:true, interTitleLink: true},
   {source:"title_as", target: graphData.nodes[0].slug, value:1, titleLink:true},
   {source:"title_objects", target: graphData.nodes[0].slug, value:1, titleLink:true},
@@ -77,7 +77,7 @@ export default {
         nodeSize: 75,
         rootNodeSize: 180,
         storyRadius: 15,
-        titleTextWidthValue: 40,
+        titleTextSize: 72,
         
       },
       
@@ -143,7 +143,7 @@ export default {
             if(d.index === 0){
               return that.attr.rootNodeSize*-0.5
             } else if(d.isText){
-              return (d.title.length * that.attr.titleTextWidthValue)* -0.5
+              return (d.title.length * that.attr.titleTextSize*0.74)* -0.5
             } else {
               return that.attr.nodeSize*-0.5
             }
@@ -159,7 +159,7 @@ export default {
             if(d.index === 0){
               return that.attr.rootNodeSize
             } else if(d.isText) {
-              return d.title.length * that.attr.titleTextWidthValue 
+              return d.title.length * that.attr.titleTextSize*0.74
             } else {
               return that.attr.nodeSize
             }
@@ -167,6 +167,8 @@ export default {
           .attr('height', function (d, i) {
             if(d.index === 0){
               return that.attr.rootNodeSize
+            } else if(d.isText){
+              return that.attr.titleTextSize*1.4
             } else {
               return that.attr.nodeSize
             }
@@ -245,7 +247,7 @@ export default {
             if(d.index === 0){
               return that.attr.rootNodeSize*0.8 + 'px'
             } else if(d.isText){
-              return '18px'
+              return that.attr.titleTextSize*0.555 - 5 + 'px'
             } else {
               return that.attr.nodeSize + 'px'
             }
@@ -253,7 +255,7 @@ export default {
           .attr("font-family", "century-mono")
           .attr('font-size', function (d, i) {
             if(d.isText == true){
-              return '54px'
+              return that.attr.titleTextSize + 'px'
             }
             return '0.5rem'
           })
@@ -335,13 +337,17 @@ export default {
             .transition()
             .duration(150)
             .ease(d3.easeQuadOut)
-            .attr("transform", "scale(1.5)")
+            .attr("transform", function(d){
+              if(!d.isText) return "scale(1.5)"
+            })
 
           d3.select(this).selectAll('image')
             .transition()
             .duration(150)
             .ease(d3.easeQuadOut)
-            .attr("transform", "scale(1.5)")
+            .attr("transform", function(d){
+              if(!d.isText) return "scale(1.5)"
+            })
 
           // d3.select(this)
           //   .transition()
@@ -486,14 +492,20 @@ export default {
       if(window.innerWidth < 501){
         this.attr.height = window.innerHeight - 10;
         
-        this.attr.linkDistance.inter = this.attr.linkDistance.inter*0.5;
-        this.attr.linkDistance.title = this.attr.linkDistance.title*0.5;
-        this.attr.linkDistance.node = this.attr.linkDistance.node*0.4;
-        this.attr.nodeSize = this.attr.nodeSize*0.7;
-        this.attr.rootNodeSize = this.attr.rootNodeSize*0.5;
+        this.attr.linkDistance.inter = this.attr.linkDistance.inter*0.3;
+        this.attr.linkDistance.title = this.attr.linkDistance.title*0.3;
+        this.attr.linkDistance.node = this.attr.linkDistance.node*0.3;
+
+        this.attr.nodeSize = this.attr.nodeSize*0.5;
+        this.attr.rootNodeSize = this.attr.rootNodeSize*0.4;
+
         this.attr.collisionSize.s = this.attr.collisionSize.s*0.6;
-        this.attr.collisionSize.m = this.attr.collisionSize.m*0.5;
+        this.attr.collisionSize.m = this.attr.collisionSize.m*0.4;
         this.attr.collisionSize.l = this.attr.collisionSize.l*0.6;
+
+        this.attr.storyRadius = 9;
+
+        this.attr.titleTextSize = 30;
 
       } else {
         this.attr.height = window.innerHeight;
