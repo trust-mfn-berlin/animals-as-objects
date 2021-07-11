@@ -14,6 +14,21 @@ collections:
     folder: "vault"
     format: "frontmatter"
     create: false
+    view_filters:
+      - label: themes
+        field: tao_type
+        pattern: 'theme'
+      - label: materials
+        field: tao_type
+        pattern: 'material'
+      - label: stories
+        field: tao_type
+        pattern: 'story'
+    view_groups:
+      - label: type
+        field: tao_type
+      - label: author
+        field: author
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: false
@@ -24,6 +39,7 @@ collections:
       - { label: "Updated", name: "updated", widget: "number" }
       - { label: "ID", name: "id", widget: "string" }
       - { label: "Author", name: "author", widget: "string" }
+      - { label: "DOI", name: "doi", widget: "string", required: false, hint: "DOI number only z.B. 10.7479/qv3p-3619" }
       - label: "Translator(s)"
         name: "translators"
         widget: "object"
@@ -51,7 +67,7 @@ collections:
         options: ["theme", "material", "story"]
       - { label: "Date start", name: "date_start", widget: "datetime", default: "", required: false }
       - { label: "Date end (if applicable)", name: "date_end", widget: "datetime", default: "", required: false }
-      - { label: "Published", name: "published", widget: "boolean", required: false }
+      - { label: "Archived", name: "archived", widget: "boolean", hint: "Don't show this article", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Pages"

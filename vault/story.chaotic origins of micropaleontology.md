@@ -1,16 +1,33 @@
 ---
-id: fee46412-5135-463a-8019-d002f5b513ea
-title: Chaotic Origins of Micropaleontology
-desc: Put a description of this note here...
-updated: 1621866533155
-created: 1621514713008
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Filippo Bertoni.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: DE Chaotic Origins of Micropaleontology
+created: 1621514713008
+author: Filippo Bertoni
+short_desc_de: DE Naturalists struggled to understand microorganisms
+date_end: 1850-12-31T11:06:32.000Z
 published: false
+title: Chaotic Origins of Micropaleontology
+updated: 1621866533155
+id: fee46412-5135-463a-8019-d002f5b513ea
+translators:
+  translator_en_de: Anna von Rath
+desc: As microorganisms began to enter our field of vision, naturalists
+  struggled to understand their relations to the rest of nature. The story of
+  these struggles, especially how they took shape around the MfN, can show how
+  much microorganisms transformed over time, and how they keep challenging what
+  animals are.
+desc_de: DE As microorganisms began to enter our field of vision, naturalists
+  struggled to understand their relations to the rest of nature. The story of
+  these struggles, especially how they took shape around the MfN, can show how
+  much microorganisms transformed over time, and how they keep challenging what
+  animals are.
+short_desc: Naturalists struggled to understand microorganisms
+cover_image:
+  image: /images/cover-chaotic-origins.jpg
+  alt: "Illustrations of microorganisms. Illustrationen von Mikroorganismen.
+    Source: Leeuwenhoek, 1677."
+tao_type: story
+date_start: 1765-12-31T23:06:32.000Z
 ---
 
 :::EN:::
@@ -29,9 +46,6 @@ In his desire to refute these dominant understandings of life, which were common
 [^micropaleontology2]: The impact of these early descriptions is quantified in Lazarus, David. "The legacy of early radiolarian taxonomists, with a focus on the species published by early German workers." _Journal of Micropalaeontology_ 33, no. 1 (2014): 3-19.
 [^micropaleontology3]: This argument is clearly laid out in Orbigny, Alcide Dessalines d'. _Foraminifères fossiles du bassin tertiaire de Vienne (Autriche)_. Paris: Gide et Compe. (1846). https://doi.org/10.5962/bhl.title.145432
 [^micropaleontology4]: See, for instance, Churchill, Frederick B. "The guts of the matter. Infusoria from Ehrenberg to Bütschli: 1838–1876." _Journal of the History of Biology_ 22, no. 2 (1989): 189-213. https://doi.org/10.1007/BF00139512
-
-
-<!-- And this allows us to leave notes to the others that are not visible in the preview. -->
 
 :::DE:::
 

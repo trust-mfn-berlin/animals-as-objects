@@ -1,16 +1,27 @@
 ---
-id: 2df514da-8df2-4278-8534-28e1034c7adf
-title: Industrial Micropaleontology
-desc: In the 1920s a group of young women scientists employed by oil companies revolutionized micropaleontology, by showing its important applications to stratigraphy and petroleum geology.
-updated: 1621868648303
-created: 1621521087155
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Filippo Bertoni.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Industrielle Mikropaleontologie
+created: 1621521087155
+author: Filippo Bertoni
+short_desc_de: DE Microfossils revolutionised oil extraction
+date_end: 1950-12-31T11:00:00.000Z
 published: false
+title: Industrial Micropaleontology
+updated: 1621868648303
+id: 2df514da-8df2-4278-8534-28e1034c7adf
+translators:
+  translator_en_de: Anna von Rath
+desc: In the 1920s a group of young women scientists employed by oil companies
+  revolutionized micropaleontology, by showing its important applications to
+  stratigraphy and petroleum geology.
+desc_de: Put a DE description of this note here...
+short_desc: Microfossils revolutionised oil extraction
+cover_image:
+  image: /images/cover-industrial-micropaleo.jpg
+  alt: "Oil well, 1908. Erdölquelle, 1908. Source:
+    https://commons.wikimedia.org/wiki/File:Salt_Creek_Oil_Field_well.jpg"
+tao_type: story
+date_start: 1920-12-31T23:00:00.000Z
 ---
 
 :::EN:::

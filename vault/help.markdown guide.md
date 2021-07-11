@@ -2,7 +2,7 @@
 id: 8e923c6e-cfee-4c70-9f52-646f66dc05e4
 title: Markdown Guide
 desc: ''
-updated: 1623324345134
+updated: 1624524539340
 created: 1618396638023
 ---
 
@@ -57,7 +57,8 @@ What **about _both?_**
 
 >Multi paragraph quotes just need another '>' with a space between then. Jemand musste Josef K. verleumdet haben, denn ohne dass er etwas Böses getan hätte, wurde er eines Morgens verhaftet. »Wie ein Hund!« sagte er, es war, als sollte die Scham ihn überleben. Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu einem ungeheueren Ungeziefer verwandelt. 
 >
->Und es war ihnen wie eine Bestätigung ihrer neuen Träume und guten Absichten, als am Ziele ihrer Fahrt die Tochter als erste sich erhob und ihren jungen Körper dehnte. »Es ist ein eigentümlicher Apparat«, sagte der Offizier zu dem Forschungsreisenden und überblickte mit einem gewissermaßen bewundernden Blick den ihm doch wohlbekannten Apparat.
+>"Und es war ihnen wie eine Bestätigung ihrer neuen Träume und guten Absichten, als am Ziele ihrer Fahrt die Tochter als erste sich erhob und ihren jungen Körper dehnte. 'Es ist ein eigentümlicher Apparat', sagte der Offizier zu dem Forschungsreisenden und überblickte mit einem gewissermaßen bewundernden Blick den ihm doch wohlbekannten Apparat."[^1]
+
 
 # URLS / external links
 
@@ -68,14 +69,15 @@ I love [Wikipedia Germany](https://wikipedia.de), they taught me so much in scho
 
 # Footnotes
 
-You can add footnotes like so [^1].
+You can add footnotes like so [^2].
 
-You can add more footnotes like so [^2].
+You can add more footnotes like so [^3].
 
 You can add more footnotes that have text as a reference [^example]. It will still show a numbered reference in the rendered text (see the markdown preview).
 
-[^1]: Somewhere in the Doc, just add `[^1]:`
+[^1]: Here is the footnote for the long quote.
 [^2]: Somewhere in the Doc, just add `[^2]:`
+[^3]: Somewhere in the Doc, just add `[^3]:`
 [^example]: This is a different footnote `[^example]:`
 
 

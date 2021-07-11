@@ -1,16 +1,30 @@
 ---
-id: b30fb33b-adc1-4c3e-963a-e2467c2fbb21
-title: Micropaleontology at Sea
-desc: Put a description of this note here...
-updated: 1621875066503
-created: 1621522440708
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Filippo Bertoni.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: DE Micropaleontology at Sea
+created: 1621522440708
+author: Filippo Bertoni
+short_desc_de: DE Microfossils and ocean exploration
+date_end: 1960-12-31T11:00:00.000Z
 published: false
+title: Micropaleontology at Sea
+updated: 1621875066503
+id: b30fb33b-adc1-4c3e-963a-e2467c2fbb21
+translators:
+  translator_en_de: Anna von Rath
+desc: Joining in the postwar exploration of the oceans, micropaleontology
+  accumulated vast amounts of data, which contributed to the development of
+  climate and planetary sciences.
+desc_de: DE Joining in the postwar exploration of the oceans, micropaleontology
+  accumulated vast amounts of data, which contributed to the development of
+  climate and planetary sciences.
+short_desc: Microfossils and ocean exploration
+cover_image:
+  image: /images/cover-micropaleo-at-sea.jpg
+  alt: "JOIDES deep sea drilling vessel Glomar Challenger, 1968. JOIDES
+    Tiefseebohrschiff Glomar Challenger, 1968. Source:
+    https://commons.wikimedia.org/wiki/File:GlomarChallengerBW.JPG"
+tao_type: story
+date_start: 1949-12-31T23:00:00.000Z
 ---
 
 :::EN:::

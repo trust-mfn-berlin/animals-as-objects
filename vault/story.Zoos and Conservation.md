@@ -2,7 +2,7 @@
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 title: Zoos and Conservation
 desc: Since only a relatively short time zoos intensify their conservation eforts.
-updated: 1622642026072
+updated: 1625578921315
 created: 1618994200982
 title_de: Zoos und Artenschutz
 desc_de: Seit relativ kurzer Zeit engagieren sich Zoos auch im Artenschutz.
@@ -19,44 +19,12 @@ English content goes here.
 
 :::DE:::
 
-Zoos bewegen sich in einem Spannungsfeld zwischen einem oft sehr treuen und kenntnisreichen Publikum und einer berechtigten und lautstarken Kritik. Besucher\*innen, die 'ihre' Lieblinge ganz genau kennen und über viele Jahre beobachten, für die der Zoo eine Art erweitertes Wohnzimmer darstellt und die nicht selten dazu neigen, die ausgestellten Tiere stark zu vermenschlichen bilden das eine Extrem. Das andere sind lautstarke Gegner\*innen von Zoos, die deren sofortige Schließung und die 'Freilassung' der gehaltenen Tiere fordern. Zoos müssen ihre Legitimitätsbasis dauernd verteidigen und bauen. Die frühen Zoos bauten auf ihren Ruf als Bildungsstätten. Sie seien lebende Museen und wie diese Stätten der naturkundlichen Bildung.
+Das Freigehege scheint leer zu sein, in der Ecke liegt ein Sack, vermutlich zum Spielen. Er hat die gleiche Farbe wie die Hängematte, die unter dem Dach des Freigeheges der Orang-Utans aufgehängt ist. Wahrscheinlich haben sich die Tiere in ihr Innengehege verzogen. Schade eigentlich, denn die rothaarigen Menschenaffen zählen zu den interessantesten Säugetieren, die der Zoo Berlin zu bieten hat. Das Außengehege bietet Klettermöglichkeiten und ist begrünt. Ein 'Futterautomat' bietet den Primaten die Möglichkeit, sich die Zeit zu vertreiben, indem sie mit Stöckchen, die sie durch Löcher in den Plexiglasscheiben stecken, Futterpellets durch ein Labyrint von Öffnungen dirigieren bis diese unten herausfallen. Es ist interessant den uns so ähnlichen Tieren dabei zuzusehen. Nun, es scheint, als müsste ich doch in das Affenhaus hineingehen, um die Tiere zu sehen. Dort aber herrscht noch die "Badezimmerarchitektur" der XXXX vor. 
+Doch, hat sich der Sack nicht bewegt? Und schaukelt die Hängematte nicht mehr als eben? Plötzlich tauchen zwei rote Köpfe auf. Das müssen XXX und XXX sein. Orang-Utans haben europäische Besucher\*innen seit ihrer Erstausstellung XXXX in XXX stets fasziniert. Alle Primaten gehören in den mordernen Zoos zu den Tieren mit der höchsten Anziehungskraft. Ihre Ähnlichkeit im Aussehen und Verhalten hat den menschlichen Blick stets herausgefordert. (in Euuropa?) 
+Anhand der Geschichte der Haltung dieser attraktiven Art lassen sich einige wichtige Entwicklungen der Natur- und Habitatschutzidee in Zoos illustrieren.
+## Zoos und ihre Legitimitätsgrundlage
 
-Unter den Zoodirektoren des ausgehenden 19. Jahrhunderts finden sich beachtlich viele Jäger. Und Jäger waren es auch, denen oft zuerst auffiel, dass bestimmte Tierspezien gefährlich dezimiert waren.[^hunter] das galt für die USA ebenso wie für den afrikanischen Kontinent.
-
-## Davidshirsch, Bison, Wisent und Przwalskipferd
-
-In den 1890er Jahren wurde der Davidshirsch vor dem Aussterben bewahrt. Der Duke of Bedford brachte eine Gruppe von 18 Tieren in seinen Privatzoo in Woburn, um sie dort in einem Zuchtprogramm zu vermehren.[^firsttrials1] 1905 wurde die 'American Bison Society' gegründet. Das Ziel: die Erhaltung des beinahe ausgestrobenen Amerikanischen Bison. Dieser Megaherbivore hatte einst in riesigen Herden die weiten Ebenen der USA bevölkert. Diese waren nun durch intensive Bejagung auf wenige kleine Gruppen dezimiert worden. Die Wandertaube, deren Schwärme, ähnlich wie die Bisons die Prärie beherrschten, den Himmel über den USA einst verdunkelten hingegen bekam keine Aufmerksamkeit und starb wohl um die Jahrhundertwende zum 20. Jahrhundert aus. Anschließend lebten noch einige Exemplare in Zoos, doch niemand machte nenneswerte Versuche, sie zu züchten und die Art zu erhalten.[^firsttrials2] Erst im 21. Jahrhundert wurden Versuche gestartet, die Art mit Hilfe überlieferter genetischer Informationen wiederzubeleben. Beide Arten waren einst ähnlich zahslreich und omnipräsent in Amerika, die Antworten, die auf ihr Aussterben gefunden wurden, konnten aber unterschiedlicher nicht sein.
-Der Direktor des New York Zoological Parks und ehemalige Taxidermist des National Museum, William Hornaday, stellte  eine Zuchtgruppe aus Bisons verschiedener amerikanischer Zoos zusammen und bald gelang es ihm, nachwuchs zu zeugen. Als dann ab etwa 1905 durch US-Präsident theodore Roosevelt erste Nationalparks entstanden, begannen Hornaday und seine Mitstreiter die Tiere auszuwildern. Zum ersten Mal wurde eine in Zoos gezüchtete gefährdete Tierart ausgewildert. Der große Bison war nicht nur leicht zu züchten und vermehrte sich auch in menschlicher Obhut gut, er zog anscheindend genug Aufmerksamkeit, was mit seiner Größe, seiner Gefährlichkeit, wohl aber auch mit seiner ikonischen Figur in der Geschichte des amerikanischen Westens zu tun hatte.
-
-Ähnliches kann in etwas vermindertem Umfang auch für die Geschichte der Rettung des europäischen Gegenstücks des Bisons angenommen werden - des Wisents.
-
-## Studbooks
-
-### Weitere
-
-Auf der Sitzung des Internationalen Verbands der Zoodirektoren, dem Vorgänger der [[material.WAZA]] in Colombo 1966 verpflichteten sich weiter Zoos zur Haltung von Zuchtbüchern für gefährdete Arten. Es waren:
-
-* Antwerpen für Okapis und Bonobos
-* Basel für das Panzernashorn und Zwergflusspferde
-* Zoo Berlin für Spitz- und Breitmaulnashörner
-* Tierpark Berlin für Wildesel
-* Colombo für den Schwarzschnabelstorch
-* Frankfurt für Gorillas
-* Paris für Leierhirsche
-* Prag verpflichtete sich das Przwalskipferd zu übernehmen und gefährdete Unterarten des Tigers
-* San Diego übernahm die Mendesantilope
-* Washington den Orang-Utan und
-* Whipsnade wollte das Zuchtbuch für den Davidshirsch führen.[^studbookscolombo]
-
-## Bullfrog
-
-Die Zuchtbücher stellten bereits eine im Rahmen von Zoos bewährte Form des Artenschutzes dar.
-
-Praktisch alle durch die frühen Zuchtbücher gedeckten Arten waren aber entweder Säugetiere oder groß genug, dass sie Zoobesucher\*innen durchaus auffallen konnten und als Ausstellungsstücke taugten, entweder ihrer Größe und ihres Aussehens wegen oder weil ihr Gefährdungsstatus vermittelbar war. Was aber mit den Arten, die im Verborgenen leben, unscheinbar sind, in Zoos schlecht ausgestellt werden können, für ihre Lebensräume aber große Bedeutung haben?
-
-"Zoos must be natural history and conservation centres for the future.", hat William Conway schon 1968 gesagt.[^conway1]
-
-[^conway1]: Conway, William G. 1968. „How to Exhibit a Bullfrog: A Bed‐Time Story for Zoo Men“. Curator: The Museum Journal 11 (4): 310–18, 318.
+Zoos bewegen sich in einem Spannungsfeld zwischen einem oft sehr treuen und kenntnisreichen Publikum und einer berechtigten und lautstarken Kritik. Besucher\*innen, die 'ihre' Lieblinge ganz genau kennen und über viele Jahre beobachten, für die der Zoo eine Art erweitertes Wohnzimmer darstellt und die nicht selten dazu neigen, in den ausgestellten Tieren echte Freund\*innen zu sehen bilden einen Pol des Spektrums an Zugängen zu Zoos. Das andere sind lautstarke Gegner\*innen von Zoos, die deren sofortige Schließung und die 'Freilassung' der gehaltenen Tiere fordern. Zoos müssen ihre Legitimitätsbasis dauernd verteidigen und bauen. Die frühen Zoos bauten auf ihren Ruf als Bildungsstätten. Sie seien lebende Museen und Stätten der naturkundlichen Bildung. Im XXX Jahrhundert setzte sich eine Lesart von Zoos als Archen der Vielfalt durch und heute bevorzugen manche Tiergärten das Label des Naturschutzzentrums.
 
 ## Das Problem mit den Orang-Utans
 
@@ -77,7 +45,54 @@ Andere Teilnehmer verwiesen auf eine regelrechte Preistreiberei, wenn Zoos solch
 Nun ist es auch möglich, dass sich vor allem die Zoodirektoren für ein Verbot einsetzten, die entweder bereits eine Gruppe der Tiere hatten und somit selbst »Konkurrenz« ausschalten wollten – möglicherweise auch, um eigene Nachzuchten dann legal gewinnbringend verkau-fen oder tauschen zu können oder aber, die ohnehin diese Tierart nicht hielten und nicht zu halten beabsichtigten und den »Konkurrenten« der Zunft die Publikumsmagneten nicht gönnten und daher ihren Tierschutz ohne Gewissenskonflikte den Vorrang geben konnten.
 Auf der Tagung des deutschen Verbandes 1966 wurde aus denselben Gründen das Kaufver-bot von Orangs wieder aufgehoben.  Aber bereits im Folgejahr waren die Orang-Utans wieder auf der Tagesordnung. Nun wurde wiederum beschlossen, dass die Mitglieder fortan keine Orang-Utans ohne Exportlizenz kaufen sollten und Bernhard Grzimek wurde zum Obmann mit weitreichenden Vollmachten ernannt. So sollte er bei einer Verfehlung den Ausschluss des betreffenden Mitglieds verlangen können.  1969 fragte Bernhard Grzimek dann zumindest auch in Wien an, wie viele Orang-Utans seit dem 13. Juni 1967 erworben worden waren, woher diese stammten, und bat um die Übersendung einer Kopie der Exportlizenz der indonesischen Regierung.  
 
-## Immer wieder die sechs
+
+## Davidshirsch, Bison, Wisent und Przwalskipferd
+
+In den 1890er Jahren wurde der Davidshirsch vor dem Aussterben bewahrt. Der Duke of Bedford brachte eine Gruppe von 18 Tieren in seinen Privatzoo in Woburn, um sie dort in einem Zuchtprogramm zu vermehren.[^firsttrials1] 1905 wurde die 'American Bison Society' gegründet. Das Ziel: die Erhaltung des beinahe ausgestrobenen Amerikanischen Bison. Dieser Megaherbivore hatte einst in riesigen Herden die weiten Ebenen der USA bevölkert. Diese waren nun durch intensive Bejagung auf wenige kleine Gruppen dezimiert worden. Die Wandertaube, deren Schwärme, ähnlich wie die Bisons die Prärie beherrschten, den Himmel über den USA einst verdunkelten hingegen bekam keine Aufmerksamkeit und starb wohl um die Jahrhundertwende zum 20. Jahrhundert aus. Anschließend lebten noch einige Exemplare in Zoos, doch niemand machte nenneswerte Versuche, sie zu züchten und die Art zu erhalten.[^firsttrials2] Erst im 21. Jahrhundert wurden Versuche gestartet, die Art mit Hilfe überlieferter genetischer Informationen wiederzubeleben. Beide Arten waren einst ähnlich zahslreich und omnipräsent in Amerika, die Antworten, die auf ihr Aussterben gefunden wurden, konnten aber unterschiedlicher nicht sein.
+Der Direktor des New York Zoological Parks und ehemalige Taxidermist des National Museum, William Hornaday, stellte  eine Zuchtgruppe aus Bisons verschiedener amerikanischer Zoos zusammen und bald gelang es ihm, nachwuchs zu zeugen. Als dann ab etwa 1905 durch US-Präsident theodore Roosevelt erste Nationalparks entstanden, begannen Hornaday und seine Mitstreiter die Tiere auszuwildern. Zum ersten Mal wurde eine in Zoos gezüchtete gefährdete Tierart ausgewildert. Der große Bison war nicht nur leicht zu züchten und vermehrte sich auch in menschlicher Obhut gut, er zog anscheindend genug Aufmerksamkeit, was mit seiner Größe, seiner Gefährlichkeit, wohl aber auch mit seiner ikonischen Figur in der Geschichte des amerikanischen Westens zu tun hatte.
+
+Ähnliches kann in etwas vermindertem Umfang auch für die Geschichte der Rettung des europäischen Gegenstücks des Bisons angenommen werden - des Wisents.
+
+## Studbooks
+
+Als 2021 herauskam, dass durch eine Verwechslung im Moskauer Zoo vor Jahren übersehen worden war, dass “Herthas” Elterntiere verwandt waren und daher eine Zucht zwischen ihnen durch das Europäische Erhaltungszuchtprogramm für Eisbären verhindert hätte werden müssen, war die offensichtliche Inzest im Tierpark nur einen Tag lang ein Thema in den lokalen Medien.[^tonja]
+
+
+## ZIMS
+
+
+### Weitere
+
+Auf der Sitzung des Internationalen Verbands der Zoodirektoren, dem Vorgänger der [[material.WAZA]] in Colombo 1966 verpflichteten sich weiter Zoos zur Haltung von Zuchtbüchern für gefährdete Arten. Es waren:
+
+* Antwerpen für Okapis und Bonobos
+* Basel für das Panzernashorn und Zwergflusspferde
+* Zoo Berlin für Spitz- und Breitmaulnashörner
+* Tierpark Berlin für Wildesel
+* Colombo für den Schwarzschnabelstorch
+* Frankfurt für Gorillas
+* Paris für Leierhirsche
+* Prag verpflichtete sich das Przwalskipferd zu übernehmen und gefährdete Unterarten des Tigers
+* San Diego übernahm die Mendesantilope
+* Washington den Orang-Utan und
+* Whipsnade wollte das Zuchtbuch für den Davidshirsch führen.[^studbookscolombo]
+
+## EEP
+
+https://www.karlsruhe.de/b3/freizeit/zoo/profil/natur_artenschutz/zuchtprogramme.de
+
+## Bullfrog
+
+Die Zuchtbücher stellten bereits eine im Rahmen von Zoos bewährte Form des Artenschutzes dar.
+
+Praktisch alle durch die frühen Zuchtbücher gedeckten Arten waren aber entweder Säugetiere oder groß genug, dass sie Zoobesucher\*innen durchaus auffallen konnten und als Ausstellungsstücke taugten, entweder ihrer Größe und ihres Aussehens wegen oder weil ihr Gefährdungsstatus vermittelbar war. Was aber mit den Arten, die im Verborgenen leben, unscheinbar sind, in Zoos schlecht ausgestellt werden können, für ihre Lebensräume aber große Bedeutung haben?
+
+"Zoos must be natural history and conservation centres for the future.", hat William Conway schon 1968 gesagt.[^conway1]
+
+[^conway1]: Conway, William G. 1968. „How to Exhibit a Bullfrog: A Bed‐Time Story for Zoo Men“. Curator: The Museum Journal 11 (4): 310–18, 318.
+
+
+## Immer wieder die gleichen sechs Tiere - WAZAs Conservation Strategy
 
 Przewalskipferd, Bartgeier, Lear-Ara, Europäische Sumpfschuldkröte, Habichtskauz, Alpensteinbock und der Feldhamster...
 
@@ -95,3 +110,6 @@ Przewalskipferd, Bartgeier, Lear-Ara, Europäische Sumpfschuldkröte, Habichtska
 [^firsttrials2]: Vgl. Barrow, Mark V. Jr. 2018. „Teetering on the Brink of Extinction: The Passenger Pigeon, the Bison, and American Zoo Culture in the Late Nineteenth and Early Twentieth Centuries“. In The ark and beyond: the evolution of zoo and aquarium conservation, herausgegeben von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb, 51–64. Convening science: discovery at the marine biological laboratory. Chicago: The University of Chicago Press.
 
 [^hunter]: Vgl. Barrow, Mark V. Jr. 2018. „Teetering on the Brink of Extinction: The Passenger Pigeon, the Bison, and American Zoo Culture in the Late Nineteenth and Early Twentieth Centuries“. In The ark and beyond: the evolution of zoo and aquarium conservation, herausgegeben von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb, 51–64. Convening science: discovery at the marine biological laboratory. Chicago: The University of Chicago Press, 51.
+
+[^tonja]: Tierpark Berlin: “Eisbärin Tonja wurde als junge Bärin in Russland vertauscht”, https://www.tierpark-berlin.de/de/aktuelles/alle-news/artikel/eisbaerin-tonja-wurde-als-junge-baerin-in-russland-vertauscht (05.07.2021).
+
