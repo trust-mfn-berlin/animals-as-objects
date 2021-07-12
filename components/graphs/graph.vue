@@ -11,7 +11,7 @@
 // https://bl.ocks.org/steveharoz/8c3e2524079a8c440df60c1ab72b5d03
 
 <template>
-  <div id="d3-main" :style="{height: attr.height + 'px'}"></div>
+  <div id="d3-main" :style="{height: attr.height + 'px'}" :class="{cssfade : fadein}"></div>
 </template>
 
 <script>
@@ -55,6 +55,7 @@ graphData.links.push(...title_links)
 export default {  
   data () {
     return {
+      fadein: false,
       attr : {
         width: 1000,
         height: 1200,
@@ -530,6 +531,7 @@ export default {
       }
     }
     this.init();
+    this.fadein = true;
     
   }
 }
@@ -541,6 +543,13 @@ export default {
   // margin-top: -8rem;
   max-width: 100vw;
   overflow: hidden;
+
+  opacity:0;
+  .animateslowest(opacity);
+
+  &.cssfade{
+    opacity: 1;
+  }
 }
 
 ::v-deep svg{
