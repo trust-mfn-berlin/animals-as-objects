@@ -1,5 +1,5 @@
 <template>
-  <div class="article-routes">
+  <div class="article-routes" v-show="$store.getters.isTrackingEnabled">
     <h2>Your current route</h2>
     <your-current-route :max="9"/>
     <!-- <small class="f-mono caption">This is your current route through the content. Don’t worry, all information is anonymous.</small> -->
