@@ -83,6 +83,7 @@ export default {
 article{
   height: 12rem;
   display: flex;
+  
 
   .text{
     height: 100%;
@@ -135,6 +136,9 @@ article{
     display: flex;
     flex-wrap: nowrap;
 
+    max-width: 100%;
+    overflow-x:hidden;
+
     figure{
       height: 12rem;
       width: 12rem;
@@ -175,8 +179,9 @@ article{
       left:0;
       right:0;
       bottom:0;
-
-      figure{
+      overflow-x:unset;
+  
+    figure{
         margin-left:0;
         box-shadow: 0px 2px 5px 3px rbga(0,0,0,0.5);
 
