@@ -29,8 +29,8 @@ const title_nodes = [
   },
   {
     slug:"title_objects",
-    title:"Objects",
-    title_de:"Objekte",
+    title:"Objects?",
+    title_de:"Objekte?",
     isText: true,
   },
   {
@@ -90,9 +90,18 @@ export default {
       
     }
   },
+  computed:{
+    isDe(){
+      if(this.$store.getters.siteLanguage == 'de') return true
+    },
+  },
   methods:{
     navigate(event, d){
-      this.$router.push('/' + d.slug);
+      if(this.isDe) {
+      this.$router.push('/de/' + d.slug);
+      } else {
+        this.$router.push('/' + d.slug);
+      }
     },
     init(){
       const that = this;
@@ -152,6 +161,9 @@ export default {
             if(d.index === 0){
               return that.attr.rootNodeSize*-0.5
             } else if(d.isText){
+              if(that.isDe){
+                return (d.title_de.length * that.attr.titleTextSize*0.74)* -0.5
+              }
               return (d.title.length * that.attr.titleTextSize*0.74)* -0.5
             } else {
               return that.attr.nodeSize*-0.5
@@ -168,6 +180,9 @@ export default {
             if(d.index === 0){
               return that.attr.rootNodeSize
             } else if(d.isText) {
+              if(that.isDe){
+                return d.title_de.length * that.attr.titleTextSize*0.74
+              }
               return d.title.length * that.attr.titleTextSize*0.74
             } else {
               return that.attr.nodeSize
@@ -274,7 +289,12 @@ export default {
             }
             return '#000'
           })
-          .text(function(d) { return d.title })
+          .text(function(d) { 
+            if(that.isDe){
+              return d.title_de
+            }
+            return d.title 
+            })
           .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
 
         const defs = svg.append("defs");
