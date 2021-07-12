@@ -13,13 +13,13 @@
     
   
 
-    <!-- <section class="routes">
+    <section class="routes">
       <h2>Curated routes</h2>
       <curated-routes-list :routes="routes" />
       <text-button linkto="/routes">Explore more Curated routes</text-button>
     </section>
 
-    <section class="timeline">
+     <!-- <section class="timeline">
       <h2>Timeline</h2>
       <timeline />
       <text-button linkto="/articles">View All Articles</text-button>
@@ -129,6 +129,12 @@ export default {
   mounted(){
     document.documentElement.style.setProperty("--selection-bg", "#ccc");
     this.$store.commit('toggleMobileMenu', false);
+
+    if(window){
+      if(window.innerWidth > 501){
+        this.$store.commit('toggleSidebar', true)
+      }
+    }
   },
   head() {
     return {
@@ -177,7 +183,14 @@ section{
   }
 
   &.routes{
+    padding:@space-l @space-s;
+    background-color: @bg;
+    // background-color: @bg;
 
+    // @supports (backdrop-filter: blur()) {
+    //   background: rgba(243, 236, 229, 0.8);
+    //   backdrop-filter: blur(10px);
+    // }
   }
 
   &.timeline{
