@@ -29,6 +29,9 @@ export default {
     }
   },
   computed:{
+    isDe(){
+      if(this.$store.getters.siteLanguage == 'de') return true
+    },
     x(){
       // console.log(timelineData);
       return d3.scaleTime()
@@ -72,27 +75,27 @@ export default {
         
         d3.selectAll('.d3-timeline-line')
           .append("title")
-            .text(d => d.data.title);
+            .text(d => d.title);
 
 
         d3.selectAll('.d3-timeline-line')
           .append("text")
-            .text(d => d.data.title)
+            .text(d => d.title)
             .text(function(d){
-              if((d.data.title.length*7) > d.x1 - d.x0){
-                return d.data.title.substring(0,5) + '...'
+              if((d.title.length*7) > d.x1 - d.x0){
+                return d.title.substring(0,5) + '...'
               } else {
-                return d.data.title
+                return d.title
               }
             })
             .attr('font-size', '12px')
             .attr("font-family", "century-mono")
             .attr("dy", function(d, i) { return d.y + 3})
             .attr("dx", function(d) { 
-              if((d.data.title.length*7) > d.x1 - d.x0){
+              if((d.title.length*7) > d.x1 - d.x0){
                 return (d.x0 + (d.x1 - d.x0)/2) - (8*7)/2
               } else {
-                return (d.x0 + (d.x1 - d.x0)/2) - (d.data.title.length*7)/2
+                return (d.x0 + (d.x1 - d.x0)/2) - (d.title.length*7)/2
               }
             })
             .attr("fill", function(d){
@@ -126,7 +129,7 @@ export default {
               // .attr("filter", "url(#solid)")
 
         d3.selectAll('.d3-timeline-line').on('mouseover', function(event, d) {
-          tooltip.text(d.data.title)
+          tooltip.text(d.title)
           .attr('transform', `translate(${event.offsetX},${event.offsetY})`)
           .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
           .style("visibility", "visible")
@@ -150,7 +153,7 @@ export default {
           //   .style("opacity", "0")
 
         }).on('mousemove', function(event, d) {
-          tooltip.text(d.data.title + ': ' + that.$options.filters.formatDateYear(d.data.date_start) + '–' + that.$options.filters.formatDateYear(d.data.date_end))
+          tooltip.text(d.title + ': ' + that.$options.filters.formatDateYear(d.data.date_start) + '–' + that.$options.filters.formatDateYear(d.data.date_end))
           .attr('transform', `translate(${event.offsetX},${event.offsetY})`)
           .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
         }).on('mouseout', function(event, d){
@@ -164,11 +167,14 @@ export default {
     },
     dodge(data, {x0 = d => d, x1 = d => d} = {}) {
 
+      const that = this;
+
 
       const lines = data.map((d, i, data) => ({
         x0: x0(d, i, data), 
         x1: x1(d, i, data), 
         index: i,
+        title: that.isDe ? d.title_de : d.title,
         // y: this.attr.height - this.attr.margin.bottom - 5 - i*this.attr.spaceMultiplier,
         data: d}))
 

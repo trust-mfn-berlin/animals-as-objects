@@ -1,6 +1,6 @@
 <template>
   <div class="subnav-filter" role="radiogroup" aria-labelledby="filter-label">
-    <text-button role="radio" type="button" aria-checked="false" id="filter-label" :isDisabled="true">Sort By</text-button>
+    <text-button role="radio" type="button" aria-checked="false" id="filter-label" :isDisabled="true">{{labelText}}</text-button>
     <text-button 
       type="button"
       class="filter"
@@ -10,7 +10,15 @@
       :isActive="activeFilter == filter.name ? true : false"
       :aria-checked="activeFilter == filter.name ? true : false"
       @click.native="selectFilter(i)"
-    >{{filter.label}}</text-button>
+    >
+    <template v-if="isDe">
+      {{filter.label_de}}
+    </template>
+    <template v-else>
+      {{filter.label}}
+    </template>
+    
+    </text-button>
   </div>
 </template>
 
@@ -39,8 +47,15 @@ export default {
     }
   },
   computed:{
+    labelText(){
+      if(this.isDe) return 'Sortieren nach'
+      return 'Sort by'
+    },
     activeFilter(){
       return this.$store.getters.activeFilter
+    },
+    isDe(){
+      if(this.$store.getters.siteLanguage == 'de') return true
     }
   },
   methods:{
