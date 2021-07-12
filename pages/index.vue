@@ -10,22 +10,12 @@
       <text-button linkto="/articles">View All Articles</text-button>
     </section>
 
-    
-  
-
     <section class="routes">
       <h2>Curated routes</h2>
       <curated-routes-list :routes="routes" />
       <text-button linkto="/routes">Explore more Curated routes</text-button>
     </section>
 
-     <!-- <section class="timeline">
-      <h2>Timeline</h2>
-      <timeline />
-      <text-button linkto="/articles">View All Articles</text-button>
-    </section> -->
-
-    <!-- <Footer /> -->
   </div>
 </template>
 
