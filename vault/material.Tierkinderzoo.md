@@ -26,13 +26,16 @@ published: false
 _Bild aus dem 'Tierkinderzoo', um 1933. (AZGB)_
 
 
-Ein ungewöhnliches Bild. Ein Leopard (??) halb umringt von einer Herde junger Schafe, Ziegen und Schweine in einem Außengehege. Das Foto aus dem Zoologischen Garten Berlin zeigt ein Phänomen, das es dort schon lange nicht mehr gibt: Den "Tierkinderzoo". Der war Anfang der 1930er Jahre eine neue und äußerst populäre Attraktion.
+Ein ungewöhnliches Bild. Ein Leopard (??) umringt von jungen Ziegen, Lämmern und Ferkeln. Das Foto aus dem Zoo Berlin zeigt ein Phänomen, das es dort schon lange nicht mehr gibt, aber in den 1930er Jahren äußerst populär war: der "Tierkinderzoo". 
  
-Im Sommer 1931 organisierte der Berliner Zoo zum ersten Mal einen "Tierkinderzoo" - eine Sonderschau mit Jungtieren verschiedener Tierarten, die nicht nur bei den Kindern beliebt war//gut ankam. Das Besondere: Besetzt war er mit Jungtieren einheimischer Haustierrassen, aber auch kleinen Raubtieren wie Bären- und Löwenjungen, die man alle füttern, streicheln, auf den Schoß nehmen und sogar mit der Flasche füttern konnte [[story.löwenbabys]].  
- 
-Was für unseren Blick heute ungewohnt, ja geradezu abenteuerlich und gefährlich für die Menschen und wenig artgerecht für die Tiere erscheint, war damals ein großer Erfolg[^Tierkinderzoo1]; so groß, das es anfangs  sogar zu Engpässen bei der Bestellung kam. Die Tiere kamen nämlich nicht aus dem Zoo selbst, der gar nicht ausreichend Jungtiere gehabt hätte. Sie wurden von der Tierhandelsfirma Ruhe geliefert, die sich dann mit dem Zoo die Einnahmen teilte. Da junge Löwen, Tiger und Leoparden in Zoos aber besonders beliebt waren, waren sie auf dem Markt entsprechend begehrt und teuer. Nun, man nahm, was man bekommen konnte: "Wie mit [dem Berliner Zoodirektor]] Heck schon besprochen, könnten anstatt der jungen Raubtiere vorläufig exotische Bären genommen und diese evtl. später gegen junge Raubtiere ausgetauscht werden."[^Tierkinderzoo2]
+Im Sommer 1931 organisierte der Zoo zum ersten Mal eine Sonderschau mit Jungtieren, die nicht nur bei Kindern beliebt war. Das Besondere: Besetzt war die eingezäunte Anlage, für die man Eintritt bezahlen musste, mit Jungtieren einheimischer Haustierrassen, aber auch kleinen Raubtieren, die man alle füttern, streicheln, auf den Schoß nehmen und sogar mit der Flasche füttern konnte [[story.löwenbabys]].  
 
-Der Tierkinderzoo war so erfolgreich, dass er in den folgenden Jahren mehrfach wiederholt wurde; allerdings zwangsläufig jedes Jahr mit neuen Tieren, da die Tierjungen im nächsten Sommer längst zu groß waren. Heute werden weder im Berliner Zoo noch in anderen deutschen Zoos Raubtiere in dieser Form ausgestellt. Was geblieben ist, sind die Streichelzoos, in die jede\*r, der Ziegen, Ponys oder Schaffe füttern oder streicheln will, kennt. Aber wer weiß heute noch, dass sich dort anfangs auch Bärenjunge und Löwenbabys tummelten? 
+![xxx](images\TierkinderzooFunkwocheBerlin15Mai1933.jpg)
+_Früh übt sich - Fütterungsübung mit Löwenbaby. Funkwoche Berlin, 19.05.1933._
+
+Was heute mitunter abenteuerlich, ja gefährlich und für die Tiere wenig artgerecht erscheint, war damals ein großer Erfolg[^Tierkinderzoo1]; so groß, dass es anfangs sogar zu Engpässen bei der Bestellung kam. Junge Löwen, Tiger und Leoparden, eigens angeliefert von der Tierhandelsfirma Ruhe, waren in Zoos besonders beliebt und daher auf dem Markt entsprechend begehrt und teuer.[^Tierkinderzoo2] Nun, man nahm, was man bekommen konnte: "Wie schon besprochen, könnten anstatt der jungen Raubtiere vorläufig exotische Bären genommen und diese evtl. später gegen junge Raubtiere ausgetauscht werden."[^Tierkinderzoo3]
+
+Der Tierkinderzoo war so erfolgreich, dass er mehrfach wiederholt wurde; allerdings zwangsläufig jedes Jahr mit neuen Tieren, da die Jungen im nächsten Sommer längst zu groß waren. Heute werden weder im Berliner Zoo noch in anderen deutschen Zoos Raubtiere in dieser Form ausgestellt oder mit Haustieren wie Schafen oder Ziegen zusammen gehalten. Geblieben sind die Streichelzoos mit Haustieren. Aber wer weiß heute noch, dass sich dort anfangs auch Bärenjunge und Löwenbabys tummelten? 
 
 
 
@@ -40,12 +43,13 @@ Der Tierkinderzoo war so erfolgreich, dass er in den folgenden Jahren mehrfach w
 ![Kleinkinder spielen in einem Kinderwagen mit jungen Raubkatzen](images\cmw\Tierkinderzoo_1936.jpg)
 _Bild des 'Tierkinderzoos' von 1936. (AZGB)_ [[story.löwenbabys]]
 
-![xxx]()
-_Funkwoche Berlin, 19.05.1933.
 
 
-
+![xxx](images\TierkinderzooHeidelbergerTageblatt10Juli1932.jpg) 
+_Innerhalb dem eingezäunten Gelände des Tierkinderzoos gab es kaum Berührungsängste zwischen Menschenkind und Raubtier. Heidelberger Tage 10.07.1932._
 
 [^Tierkinderzoo1]: Schriftwechsel und Werbematerialien zum Tierkinderzoo in den Jahren 1931-1934 in AZGB, O 0/1/61, 138 und 201.
 
-[^Tierkinderzoo2]: L. Ruhe an den Zoo Berlin, 03.02.1931, AZGB O 3/2/1.
+[^Tierkinderzoo2]: Der Zoo selbst hätte gar nicht ausreichend Jungtiere gehabt, um den Kinderzoo zu bestücken. Der Zoo teilte sich die Einnahmen mit der Tierhandelsfirma. 
+
+[^Tierkinderzoo3]: L. Ruhe an den Zoo Berlin, 03.02.1931, AZGB O 3/2/1.
