@@ -46,7 +46,7 @@ _Bild des 'Tierkinderzoos' von 1936. (AZGB)_ [[story.löwenbabys]]
 
 
 ![xxx](images\TierkinderzooHeidelbergerTageblatt10Juli1932.jpg) 
-_Innerhalb dem eingezäunten Gelände des Tierkinderzoos gab es kaum Berührungsängste zwischen Menschenkind und Raubtier. Heidelberger Tage 10.07.1932._
+_Keine Berührungsängste zwischen Menschenkind und Raubtierjungen. Heidelberger Tage 10.07.1932._
 
 [^Tierkinderzoo1]: Schriftwechsel und Werbematerialien zum Tierkinderzoo in den Jahren 1931-1934 in AZGB, O 0/1/61, 138 und 201.
 
