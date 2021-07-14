@@ -1,11 +1,13 @@
 <template>
   <article>
-    <nuxt-link class="text" :to="urlBilingual">
+    <nuxt-link :to="urlBilingual">
+    <div class="text">
       <hgroup>
         <h2 class="f-serif">{{titleBilingual}}</h2>
         <h3 class="f-mono caption">{{route.author}}</h3>
       </hgroup>
-    </nuxt-link>
+    </div>
+    
     <div class="route-images" >
       <figure 
         v-for="(article, i) in articles" 
@@ -21,6 +23,7 @@
       </figure>
       
     </div>
+    </nuxt-link>
   </article>
 </template>
 
@@ -84,6 +87,9 @@ article{
   height: 12rem;
   display: flex;
   
+  a{
+    display: flex;
+  }
 
   .text{
     height: 100%;
@@ -136,8 +142,8 @@ article{
     display: flex;
     flex-wrap: nowrap;
 
-    max-width: 100%;
-    overflow-x:hidden;
+    max-width: calc(100vw - 12rem - @space-s - @space-s );
+    // overflow-x: hidden;
 
     figure{
       height: 12rem;
@@ -150,6 +156,13 @@ article{
       }
       &.material{
         border-radius: 600px;
+      }
+
+      transform: translateX(0px);
+      .animatemedium(transform);
+
+      &:hover{
+        transform: translateX(1rem);
       }
     }
     img{
@@ -180,6 +193,7 @@ article{
       right:0;
       bottom:0;
       overflow-x:unset;
+      max-width: unset;
   
     figure{
         margin-left:0;
