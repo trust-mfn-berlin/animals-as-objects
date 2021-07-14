@@ -7,13 +7,20 @@
     <section class="cascade">
       <p class="intro"><span class="f-mono">Tiere als Objekte?</span> ist eine Online-Publikation des Museums für Naturkunde Berlin und des Zoo-Berlin. Erfahren Sie mehr über die einzigartigen Verbindungen zwischen einigen der beliebtesten Berliner Tiere, indem Sie sich Artikel ansehen: <span class="theme tao_type">Themes</span> sind große Themen, die viele <span class="story tao_type">Stories</span> enthalten, und <span class="material tao_type">Materials</span> sind fokussierte Erkundungen dieser aufstrebenden Verbindungen.</p>
       <Cascade :articles="articles" />
-      <text-button linkto="/articles">View All Articles</text-button>
+      <text-button linkto="/de/articles">View All Articles</text-button>
     </section>
 
     <section class="routes">
       <h2>Curated routes</h2>
       <curated-routes-list :routes="routes" />
-      <text-button linkto="/routes">Explore more Curated routes</text-button>
+      <text-button linkto="/de/routes">Explore more Curated routes</text-button>
+    </section>
+
+    <section class="outro">
+      <p class="outro-text">
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+      </p>
+      <text-button linkto="/de/about">More about the project</text-button>
     </section>
 
   </div>
@@ -172,6 +179,16 @@ section{
   &.timeline{
     background-color: @bg-2;
   }
+
+  &.outro{
+    padding:@space-l @space-l @space-l @space-s;
+    background-color: @bg-2;
+
+    @supports (backdrop-filter: blur()) {
+      background: rgba(243, 236, 229, 0.8);
+      backdrop-filter: blur(10px);
+    }
+  }
 }
 
 p.intro{
@@ -189,8 +206,13 @@ p.intro{
     border-radius: @radius-max;
   }
   span.story::before{
-    border-radius: @radius-s;
+    border-radius: 0.2em;
   }
 }
 
+p.outro-text{
+  // .f-mono();
+  font-size: @fs-l;
+  margin-bottom: 1rem;
+}
 </style>
