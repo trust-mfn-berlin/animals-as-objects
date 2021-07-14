@@ -33,7 +33,7 @@
       </li>
     </ul>
     <transition name="fade">
-      <li v-if="sidebarToggleVisible">
+      <div class="sidebar-toggle-wrapper" v-if="sidebarToggleVisible">
         <icon-button 
           @click.native="toggleSidebar"
           :icon="toggleSidebarIcon"
@@ -41,7 +41,7 @@
           :aria-haspopup="isSidebarOpen"
           :useColourScheme="this.$store.getters.isSidebarOpen"
         >{{toggleSidebarButtonText}}</icon-button>
-      </li>
+      </div>
     </transition>
     
   </nav>
@@ -191,6 +191,10 @@ nav{
 
   li{
     list-style-type: none;
+    pointer-events: all;
+  }
+
+  div.sidebar-toggle-wrapper{
     pointer-events: all;
   }
 
