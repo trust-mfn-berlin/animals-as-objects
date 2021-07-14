@@ -180,6 +180,9 @@ article{
   @media screen and (max-width: @mq-s) /* Mobile */ {
     height: 18rem;
     position: relative;
+    a{
+      width: 100%;  
+    }
 
     .text{
       margin:3rem auto;
