@@ -4,6 +4,8 @@
 
 .container-inner{
   display: flex;
+
+  .text-links();
 }
 
 main{
@@ -35,4 +37,27 @@ aside{
   @media screen and (max-width: @mq-s) /* Mobile */ {
     display: none;
   }
+}
+
+h2{
+  margin-bottom: @space-s;
+  margin-top: 4rem;
+
+  &:first-of-type{
+    margin-top: 0;
+  }
+}
+
+
+
+h3{
+  margin: 2rem 0 @space-s 0;
+  font-size: @fs-l;
+  // font-weight: bold;
+}
+
+h4{
+  display: inline-block;
+  border-bottom: 1px dotted @black;
+  margin: @space-s 0;
 }
