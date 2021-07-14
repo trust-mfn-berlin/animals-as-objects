@@ -3,11 +3,11 @@
   <main v-if="article" :class="{open : isSidebarOpen}">
     <hgroup class="heading article-header" :style="{background:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
       <div class="heading-inner"><h1>{{article.title}}</h1>
-      <h3 class="lead subheading f-mono">
+      <h2 class="lead subheading f-mono">
         <span class="type" v-if="article.tao_type" :class="article.tao_type" >{{article.tao_type}}</span>
         <span v-if="article.short_desc">{{article.short_desc}}</span>
         <span v-else>I need a short description!</span>
-      </h3>
+      </h2>
       </div>
     </hgroup>
 
