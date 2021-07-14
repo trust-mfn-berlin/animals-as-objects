@@ -1,5 +1,6 @@
 <template>
   <div class="route-container">
+    
     <hgroup class="page-header">
       <h1 class="f-serif">{{route.title_de}}</h1>
       <h3 class="subheading f-mono">
@@ -13,6 +14,7 @@
     <section class="introduction">  
       <div class="introduction-inner">
         <p class="f-serif">{{route.into_text.text_de}}</p>
+        <text-button v-if="route.pdf" type="anchor" :linkto="route.pdf">Download this Route as a PDF</text-button>
       </div>
       <aside class="bio">
         <div class="bio-inner">
@@ -26,12 +28,16 @@
       <Cascade :articles="articles"/>
     </section>
 
+    <text-button class="back-button" linkto="/de/routes">View all curated routes</text-button>
+
     </main>
   </div>
 </template>
 
 <script>
+import textButton from '@/components/base/text-button.vue';
 export default {
+  components: { textButton },
   created(){
     this.$store.commit('setSiteLanguage', 'de')
   },
@@ -81,16 +87,26 @@ h3{
 }
 
 main{
-  
+  padding-bottom: @space-s;
 }
 
 .introduction{
   padding:0 @space-s;
   display: flex;
 
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    flex-direction: column;
+  }
+
   .introduction-inner{
     line-height: @lh-long;
     width: 60vw;
+    padding-bottom: @space-l;
+
+    @media screen and (max-width: @mq-s) /* Mobile */ {
+      width:100%;
+      padding-bottom: 0;
+    }
   }
 
   aside.bio{
@@ -106,11 +122,21 @@ main{
         margin-bottom: @space-s;
       }
     }
+
+    @media screen and (max-width: @mq-s) /* Mobile */ {
+      width:100%;
+      margin-left:0;
+    }
   }
 }
 
 .articles{
   padding: @space-s;
   background-color: @bg-2;
+  margin-bottom: @space-s;
+}
+
+.back-button{
+  margin-left: @space-s;
 }
 </style>

@@ -14,7 +14,7 @@
     <section class="introduction">  
       <div class="introduction-inner">
         <p class="f-serif">{{route.into_text.text_en}}</p>
-        
+        <text-button v-if="route.pdf" type="anchor" :linkto="route.pdf">Download this Route as a PDF</text-button>
       </div>
       <aside class="bio">
         <div class="bio-inner">
@@ -26,17 +26,16 @@
 
     <section class="articles">
       <Cascade :articles="articles"/>
-      <text-button v-if="route.pdf" type="anchor" :linkto="route.pdf">Download this Route as a PDF</text-button>
     </section>
 
-    <route-breadcrumb :route="route"/>
+    <text-button class="back-button" linkto="/routes">View all curated routes</text-button>
 
     </main>
   </div>
 </template>
 
 <script>
-import textButton from '../../../components/base/text-button.vue';
+import textButton from '@/components/base/text-button.vue';
 export default {
   components: { textButton },
   created(){
@@ -88,7 +87,7 @@ h3{
 }
 
 main{
-  
+  padding-bottom: @space-s;
 }
 
 .introduction{
@@ -102,7 +101,7 @@ main{
   .introduction-inner{
     line-height: @lh-long;
     width: 60vw;
-    padding-bottom: 2rem;
+    padding-bottom: @space-l;
 
     @media screen and (max-width: @mq-s) /* Mobile */ {
       width:100%;
@@ -135,5 +134,9 @@ main{
   padding: @space-s;
   background-color: @bg-2;
   margin-bottom: @space-s;
+}
+
+.back-button{
+  margin-left: @space-s;
 }
 </style>
