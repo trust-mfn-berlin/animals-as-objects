@@ -32,7 +32,7 @@ _ Liste der im November 1943 im Berliner Zoo getöteten Tiere. (AZGB. Alle Recht
 </figure>
 
 Text suggestions from Therese:
-- repeat info about bomb attacks from Clemens' [[story.Nazi Zoo]]
+- repeat info about bomb attacks from Clemens' [[story.the-zoo-under-national-socialism]]
 -Dead animals - rarely learn about animals _leaving_ the zoo. Raises questions about waste management, not just during war. Link zu Mareikes story abt waste management
 - Surviving animals - zoo still operating during war, maintenance still a big undertaking
 - in general: document is example for recording and managing stock. questions of logistical natures. Link to recording worlds.
