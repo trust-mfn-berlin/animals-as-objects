@@ -98,4 +98,4 @@ You do this by using a backslash `\*`.
 
 For example: Besucher\*innen, Besucher\*innen 
 
-Test for alias [[does this change|material.deep sea drilling]]
+Test for alias [[does this change|material.deep-sea-drilling]]
