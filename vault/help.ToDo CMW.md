@@ -9,7 +9,7 @@ created: 1618495172862
 
 ### theme
 
-[[theme.Getting Zoo Animals]]
+[[theme.how-do-animals-get-into-the-zoo]]
 
 ### stories
 
