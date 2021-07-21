@@ -1,30 +1,33 @@
 ---
+id: 6b86b681-8157-4bd4-acb1-167b98547122
+title: Cycladophora Davisiana
+desc: >-
+  A radiolarian species first described in 1862, this microfossil has been used
+  as an important tool in scientific research, and continues to help in the
+  ongoing study of our planet and its deep history.
+updated: 1624279723655
+created: 1620218024936
 license: CC BY-SA
 title_de: Cycladophora Davisiana
-created: 1620218024936
 author: Filippo Bertoni
 short_desc_de: DE Microscopic radiolarian species
-date_end: 2021-07-06T11:35:52.482Z
+date_end: '2021-07-06T11:35:52.482Z'
 published: false
-title: Cycladophora Davisiana
-updated: 1624279723655
-id: 6b86b681-8157-4bd4-acb1-167b98547122
 translators:
   translator_en_de: Anna von Rath
-desc: A radiolarian species first described in 1862, this microfossil has been
+desc_de: >-
+  DE A radiolarian species first described in 1862, this microfossil has been
   used as an important tool in scientific research, and continues to help in the
   ongoing study of our planet and its deep history.
-desc_de: DE A radiolarian species first described in 1862, this microfossil has
-  been used as an important tool in scientific research, and continues to help
-  in the ongoing study of our planet and its deep history.
 short_desc: Microscopic radiolarian species
 cover_image:
   image: /images/cover-cycladophora.jpg
-  alt: "Microphotograph of Cycladophora fossilized test. Mikrofotografie von
+  alt: >-
+    Microphotograph of Cycladophora fossilized test. Mikrofotografie von
     fossilem Cycladophora-Test. Source:
-    https://www.radiolaria.org/image.htm?sp_id=1&division=13"
+    https://www.radiolaria.org/image.htm?sp_id=1&division=13
 tao_type: story
-date_start: 1858-12-31T23:06:32.000Z
+date_start: '1858-12-31T23:06:32.000Z'
 ---
 :::EN:::
 
@@ -70,7 +73,7 @@ After sharing his results with Schaffner, who passed by the Prussian capital on 
 
 Partly because of Haeckel's interpretation, radiolaria remained at the margins of natural sciences until the 1950s. But when the young graduate student [[material.william rex riedel]] reassessed Haeckel's report on this neglected group, he realized that the German naturalist had mixed together current radiolarians and more ancient ones. Furthermore, during wartime the exploration of the ocean floor had rapidly developed; it was now possible to more clearly resolve the evolution of radiolarian species along the stratigraphic record. Thanks to Riedel, radiolarians had a front row seat to this return of [[story.micropaleontology at sea]]. As the study of microfossils grew closer to [[story.oceanography]], radiolarians revealed their potential for shedding light on the deep history and dynamics of our planet. Given its distribution in glacial waters at high latitudes, _Cycladophora davisiana_ was going to have a particularly important role in these stories [[story.of microbes and planets]].
 
-This is because [[material.foraminifera]], which had been used in [[material.biostratigraphy]] since the advent of [[story.industrial micropaleontology]] in the 1920s, are not as well preserved in high latitude sediments because of their carbonate biochemistry. In contrast, radiolarians are more widespread and better preserved in these sediments because of their siliceous tests. Furthermore, _Cycladophora_'s climatic preferences connect their abundance to glacial and interglacial variations in temperatures. For these reasons _Cycladophora davisiana_ quickly became an important stratigraphic tool. This career was furthered by the success of [[material.JOIDES]] and [[material.deep sea drilling]], which were endeavouring to collect an ever-increasing number of oceanic sediment cores. This convergence of oceanographic exploration, sociotechnical changes, and geopolitical concerns placed this modest microorganism center stage: in 1976 a landmark paper published in _Science_ used abundances of _Cycladophora davisiana_ from two oceanic cores (along with oxygen isotope fractionation in foraminiferal shells) to demonstrate the hypothesized relation between ice-age cycles and planetary orbital dynamics.[^5] While the fossil record of this microorganism continues to grow in accuracy and resolution, _Cycladophora davisiana_ continues its scientific afterlife as an important gear in the "vast machine" that subtends current climate sciences.[^6]
+This is because [[material.foraminifera]], which had been used in [[material.biostratigraphy]] since the advent of [[story.industrial micropaleontology]] in the 1920s, are not as well preserved in high latitude sediments because of their carbonate biochemistry. In contrast, radiolarians are more widespread and better preserved in these sediments because of their siliceous tests. Furthermore, _Cycladophora_'s climatic preferences connect their abundance to glacial and interglacial variations in temperatures. For these reasons _Cycladophora davisiana_ quickly became an important stratigraphic tool. This career was furthered by the success of [[material.JOIDES]] and [[material.deep-sea-drilling]], which were endeavouring to collect an ever-increasing number of oceanic sediment cores. This convergence of oceanographic exploration, sociotechnical changes, and geopolitical concerns placed this modest microorganism center stage: in 1976 a landmark paper published in _Science_ used abundances of _Cycladophora davisiana_ from two oceanic cores (along with oxygen isotope fractionation in foraminiferal shells) to demonstrate the hypothesized relation between ice-age cycles and planetary orbital dynamics.[^5] While the fossil record of this microorganism continues to grow in accuracy and resolution, _Cycladophora davisiana_ continues its scientific afterlife as an important gear in the "vast machine" that subtends current climate sciences.[^6]
 
 [^1]: from https://www.radiolaria.org/species.htm?division=13&sp_id=1.
 
