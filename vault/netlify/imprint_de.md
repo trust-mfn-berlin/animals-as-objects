@@ -69,6 +69,8 @@ Als Diensteanbieter sind wir gemäß § 6 Abs.1 MDStV und § 7 Abs.1 TMG für ei
 
 Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese Seite verwiesen wurde. Sollten einzelne Begriffe oder Abschnitte dieser Erklärung nicht rechtmäßig oder korrekt sein, bleiben die Gültigkeit und der Inhalt der anderen Teile davon unberührt.
 
+
+
 © Museum für Naturkunde Berlin
 
 Dieses Impressum gilt auch für [Vimeo](https://vimeo.com/user139444102).
