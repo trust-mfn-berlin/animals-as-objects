@@ -3,7 +3,8 @@ title: Impressum
 ---
 ## Project
 
-The website „Animals as Objects?“ was created as part of the BMBF-funded joint research project Animals as Objects. Zoological Gardens and Natural History Museum in Berlin, 1810 to 2020.
+The website "Animals as Objects?" was created as part of the BMBF-funded joint research project [Animals as Objects. Zoological Gardens and Natural History Museum in Berlin, 1810 to 2020](https://www.museumfuernaturkunde.berlin/en/science/animals-objects).
+
 Contact: humanities(at)mfn.berlin
 
 ## Impressum
@@ -20,7 +21,7 @@ Fax: +49 (0)30 2093-8814
 
 Email: info(at)mfn.berlin 
 
-Website: http://www.naturkundemuseum-berlin.de
+Website: [http://www.naturkundemuseum-berlin.de](http://www.naturkundemuseum-berlin.de)
 
 ### Authorized representative person
 
@@ -73,7 +74,7 @@ Use of the material provided is bound by the following agreement: The Museum fü
 The Museum für Naturkunde Berlin reserves the right to change, supplement, or delete some or all of the information on its Internet web site without notice. Similarly, the Museum für Naturkunde Berlin also reserves the right to temporarily or permanently discontinue the Internet web site.
 Any claims relating to the content or the WWW site will be governed by German law.
 
-The general disclaimer is part of this disclaimer.
+The general [disclaimer](https://www.disclaimer.de/disclaimer.htm) is part of this disclaimer.
 
 This disclaimer is to be considered as part of the internet publication from which you were referred. If individual terms or sections of this statement are not legal or correct, the validity and content of the other parts remain uninfluenced by this fact.
 
@@ -81,4 +82,4 @@ Source: www.datenschutzbeauftragter-info.de
 
 © Museum für Naturkunde Berlin
 
-This imprint is also valid for Vimeo.
+This imprint is also valid for [Vimeo](https://vimeo.com/user139444102).
