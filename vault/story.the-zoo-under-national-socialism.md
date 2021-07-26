@@ -6,8 +6,8 @@ author: Clemens Maier-Wolthausen
 short_desc_de: Propagandainstrument und Zwangsarbeit
 date_end: 1945-12-31T11:00:00.000Z
 published: false
-title: Zoo and National Socialism
-updated: 1627294641700
+title: The Zoo under National Socialism
+updated: 1627294837338
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 translators:
   translator_de_en: Lucy Gasser
@@ -31,9 +31,8 @@ date_start: 1932-12-31T23:00:00.000Z
 
 :::EN:::
 
-Could a nearly 100-year-old educational and recreational institution whose function was to exhibit live animals for the purposes of education and entertainment serve National Socialist aims? Are zoos not global phenomena in their fundamental constitution, and open to all those seeking to learn?
+Could a nearly 100-year-old educational and recreational institution whose function was to exhibit live animals for the purposes of education and entertainment serve National Socialist aims? Are zoos not global phenomena in their fundamental constitution, and open to all those seeking to learn? As will become evident, from 1933 onward, the Berlin Zoo became a colonial stage and a site of racist exclusion, as well as an instrument of National Socialist propaganda.
 
-As will become evident, from 1933 onward, the Berlin Zoo became a colonial stage and a site of racist exclusion, as well as an instrument of National Socialist propaganda. 
 After Adolf Hitler was appointed Chancellor of the German Reich on 30 January 1933, the new regime endeavoured by all means available to it to penetrate into all areas of society. This entailed control in the sense of monitoring labour, and also particularly in exercising checks in culture and propaganda. Berlin's most well-visited educational and recreational institution, the Zoological Garden and its aquarium, were not spared. Adaptation to the policies of the National Socialists and their local representatives – Gauleiter of the National Socialist German Workers' Party (NSDAP) Joseph Goebbels and National Socialist Prussian Prime Minister Hermann Göring – proceeded rapidly at the zoo. This was mainly thanks to the zoo management and the members of the supervisory board. Nazi policies affected every aspect of the zoo's operation: management and the public became involved in antisemitic policies; the German war of aggression and extermination brought new sources of animals; exhibition practices and the 'program' of animals on display changed; work procedures were altered by the war. The exploitation of forced labourers also became an everyday practice in the zoo.
 
 How could this happen and what were the determining factors?
@@ -44,7 +43,7 @@ In 1932, [[material.Lutz Heck]] became director of the Berlin Zoological Garden.
 
 Soon Lutz Heck also became privately acquainted with the Prussian Prime Minister and Reich Minister of Aviation, from 1934 also "Reichsforstmeister", head of the Reich’s forestry ministry, and "Reichsjägermeister", chief huntsman of the Reich, Hermann Göring . At his request, Heck stepped up his breeding of European bison. 
 
-In January 1934, Göring had presented his plans for the Schorfheide to some forestry officials. He wanted to establish a large nature reserve there, where he also wished to hunt the largest land mammal in Europe.[^ 3] Lutz Heck decided to multiply his herd from the zoo as quickly as possible by means of so-called displacement breeding with the closest relative of the European bison, the North American bison, in order to make Göring's plans a reality. [^4] In 1935, he undertook an expedition to Canada "on behalf of the Reichsforst- und Reichsjägermeister Hermann Göring, the German hunting community, and the zoo."[^5] The goal was, among other things, to procure bison to reinforce his breeding efforts.
+In January 1934, Göring had presented his plans for the Schorfheide to some forestry officials. He wanted to establish a large nature reserve there, where he also wished to hunt the largest land mammal in Europe.[^3] Lutz Heck decided to multiply his herd from the zoo as quickly as possible by means of so-called displacement breeding with the closest relative of the European bison, the North American bison, in order to make Göring's plans a reality. [^4] In 1935, he undertook an expedition to Canada "on behalf of the Reichsforst- und Reichsjägermeister Hermann Göring, the German hunting community, and the zoo."[^5] The goal was, among other things, to procure bison to reinforce his breeding efforts.
 
 **Lutz Heck offered himself to the regime however he could. His books and publications praised the Nazi state’s legislation regarding game conservation.[^6]** At Heck's instigation, Göring was appointed leader of the Fachschaft Deutsche Bracken Olpe, a club for breeders of hunting dogs[^7] – certainly a minor honour, but nevertheless apt for winning over the passionate hunter Göring. In addition, Lutz Heck provided Göring with young lions as pets, which he took back when they had outgrown the "petting age."[^8]
 
@@ -416,9 +415,8 @@ Zoos certainly allow themselves to be adapted for other kinds of regimes and soc
 
 :::DE:::
 
-Konnte eine beinahe 100 Jahre alte Bildungs- und Freizeiteinrichtung, deren Funktion die Ausstellung lebender Tiere zur Bildung und Unterhaltung war, nationalsozialistischen Zielen dienen? Sind Zoos in ihrer grundsätzlichen Verfasstheit nicht globale Phänomene und offen für alle Bildungssuchenden?
+Konnte eine beinahe 100 Jahre alte Bildungs- und Freizeiteinrichtung, deren Funktion die Ausstellung lebender Tiere zur Bildung und Unterhaltung war, nationalsozialistischen Zielen dienen? Sind Zoos in ihrer grundsätzlichen Verfasstheit nicht globale Phänomene und offen für alle Bildungssuchenden? Wie zu sehen sein wird, wurde der Berliner Zoo ab 1933 koloniale Bühne und Ort rassistischer Exklusion sowie Instrument nationalsozialistischer Propaganda.
 
-Wie zu sehen sein wird, wurde der Berliner Zoo ab 1933 koloniale Bühne und Ort rassistischer Exklusion sowie Instrument nationalsozialistischer Propaganda. 
 Nachdem Adolf Hitler am 30. Januar 1933 zum Reichskanzler ernannt worden war, versuchte das neue Regime mit aller Macht sämtliche Gesellschaftsbereiche zu durchdringen. Dabei ging es um die Kontrolle im arbeitsrechtlichen, insbesondere aber im kulturellen und propagandistischen Sinn. Davon war auch der besucherstärkste Bildungs- und Freizeitbetrieb Berlins, der Zoologische Garten und sein Aquarium, nicht verschont. Die Anpassung an die Politik der Nationalsozialisten und ihrer lokalen Vertreter, Gauleiter der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP) Joseph Goebbels und der nationalsozialistische preußische Ministerpräsident Hermann Göring, ging im Zoo rasch voran. Das lag vor allem an der Zooleitung und den Mitgliedern des Aufsichtsrats. Die nationalsozialistische Politik wirkte sich auf alle Bereiche des Zoobetriebs aus - die Leitungsebene und das Publikum wurden in die antisemitische Politik einbezogen, der deutsche Angriffs- und Vernichtungskrieg brachte neue Tierquellen, die Ausstellungspraxis und das 'Programm' der ausgestellten Tiere änderten sich, Arbeitsabläufe wurden durch den Krieg verändert. Die Ausbeutung von Zwangsarbeitern wurde auch im Zoo Alltag.
 
 Wie konnte das geschehen und was waren die bestimmenden Faktoren?
