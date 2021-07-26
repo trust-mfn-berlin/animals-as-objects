@@ -21,7 +21,7 @@ Fax: +49 (0)30 2093-8814
 
 Email: info(at)mfn.berlin 
 
-Website: [http://www.naturkundemuseum-berlin.de](http://www.naturkundemuseum-berlin.de)
+Website: <http://www.naturkundemuseum-berlin.de>
 
 ### Authorized representative person
 
@@ -53,9 +53,7 @@ IBAN: DE40 1007 0848 051 2087 800
 
 BIC/SWIFT: DEUTDEDB110
 
-
-
-### Additional regulations 
+### Additional regulations
 
 #### Copyright
 
@@ -79,6 +77,8 @@ The general [disclaimer](https://www.disclaimer.de/disclaimer.htm) is part of th
 This disclaimer is to be considered as part of the internet publication from which you were referred. If individual terms or sections of this statement are not legal or correct, the validity and content of the other parts remain uninfluenced by this fact.
 
 Source: www.datenschutzbeauftragter-info.de
+
+
 
 © Museum für Naturkunde Berlin
 
