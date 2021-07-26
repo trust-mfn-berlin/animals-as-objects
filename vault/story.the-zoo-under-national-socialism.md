@@ -1,34 +1,32 @@
 ---
-id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
-title: Zoo and National Socialism
-desc: >-
-  EN In der Zeit der nationalsozialistischen Diktatur boten sich Zooleitung und
-  Aufsichtsrat dem Regime an. Der Zoo wurde zu einem Propagandainstrument der
-  Nationalsozialisten und schloss jüdische Besucher\*innen aus. Der Zoodirektor
-  war mit der Elite des Regimes gut vernetzt. Während des Krieges wurden
-  Zwangsarbeiter ausgebeutet.
-updated: 1622732314334
-created: 1619020958263
 license: CC BY-SA
 title_de: Der Zoo im Nationalsozialismus
+created: 1619020958263
 author: Clemens Maier-Wolthausen
 short_desc_de: Propagandainstrument und Zwangsarbeit
-date_end: '1945-12-31T11:00:00.000Z'
+date_end: 1945-12-31T11:00:00.000Z
 published: false
+title: Zoo and National Socialism
+updated: 1622732314334
+id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 translators:
   translator_de_en: Lucy Gasser
-desc_de: >-
-  In der Zeit der nationalsozialistischen Diktatur boten sich Zooleitung und
-  Aufsichtsrat dem Regime an. Der Zoo wurde zu einem Propagandainstrument der
-  Nationalsozialisten und schloss jüdische Besucher\*innen aus. Der Zoodirektor
-  war mit der Elite des Regimes gut vernetzt. Während des Krieges wurden
-  Zwangsarbeiter ausgebeutet.
-short_desc: EN Propagandainstrument und Zwangsarbeit
+desc: Under the National Socialist dictatorship, the zoo management and
+  supervisory board offered themselves up to the regime. The zoo became an
+  instrument of propaganda for the National Socialists and excluded Jewish
+  visitors. The zoo director was well connected to the regime's elite. During
+  the war, forced labourers were exploited.
+desc_de: In der Zeit der nationalsozialistischen Diktatur boten sich Zooleitung
+  und Aufsichtsrat dem Regime an. Der Zoo wurde zu einem Propagandainstrument
+  der Nationalsozialisten und schloss jüdische Besucher\*innen aus. Der
+  Zoodirektor war mit der Elite des Regimes gut vernetzt. Während des Krieges
+  wurden Zwangsarbeiter ausgebeutet.
+short_desc: Propaganda instrument and forced labour
 cover_image:
   image: /images/cover-zoo-in-nazi-regime.jpg
   alt: EN and DE description cover image
 tao_type: story
-date_start: '1932-12-31T23:00:00.000Z'
+date_start: 1932-12-31T23:00:00.000Z
 ---
 
 :::EN:::
