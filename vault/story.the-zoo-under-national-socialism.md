@@ -7,7 +7,7 @@ short_desc_de: Propagandainstrument und Zwangsarbeit
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: The Zoo under National Socialism
-updated: 1627294837338
+updated: 1627295137646
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 translators:
   translator_de_en: Lucy Gasser
@@ -742,7 +742,7 @@ Zwar sind Zoos auch in anderen Regimen und Gesellschaftsformen anschlussfähig �
 
 [^20]: Artinger, Kai. "Lutz Heck: Der 'Vater der Rominter Ure'. Einige Bemerkungen zum wissenschaftlichen Leiter des Berliner Zoos im Nationalsozialismus". _Der Bär von Berlin – Jahrbuch des Vereins für die Geschichte Berlins_ 23 (1994): 125-139. https://www.diegeschichteberlins.de/geschichteberlins/persoenlichkeiten/persoenlichkeitenhn/491-heck.html (24.06.2021).
 
-[^21]: Vgl. u. a. Heck, Lutz. "Über die Neuzüchtung des Ur oder Auerochs". _Berichte der Internationalen Gesellschaft zur Erhaltung des Wisents_ 3, Nr. 4 (1936):  224-294, 235.
+[^21]: Vgl. u. a. Heck, Lutz. "Über die Neuzüchtung des Ur oder Auerochs". _Berichte der Internationalen Gesellschaft zur Erhaltung des Wisents_ 3, Nr. 4 (1936): 224-294, 235.
 
 [^22]: Heck, Lutz. _Auf Tiersuche in weiter Welt_. Berlin: Paul Parey, 1941: 195.
 
