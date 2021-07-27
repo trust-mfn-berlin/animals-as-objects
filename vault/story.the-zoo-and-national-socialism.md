@@ -282,7 +282,7 @@ On the night of 23 November 1943, an Allied bombing raid turned the zoo into a s
 
 <figcaption>
 
-*[[material.list-of-dead-animals]], 1943. (AZGB. All rights reserved.)*
+*[[material.list-of-dead-zoo-animals]], 1943. (AZGB. All rights reserved.)*
 
 </figcaption>
 
