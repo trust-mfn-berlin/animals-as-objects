@@ -644,7 +644,7 @@ Auch an anderer Stelle profitierte der Zoo von den Netzwerken des Direktors und 
 
 <figure>
 
-![Schwarz-weiß Foto: Zwei Männer in Mantel und Hut, umgeben von Familien mit Kindern sowie Personen in nationalsozialistischen Uniformen. Backsteinmauer mit Fensterbögen im Hintergrund. ](images/cmw/Göring_March_1942_Zoo_Heck.jpg)
+![Schwarz-weiß Foto: Zwei Männer in Mantel und Hut, umgeben von Familien mit Kindern sowie Personen in nationalsozialistischen Uniformen. Backsteinmauer mit Fensterbögen im Hintergrund.](images/cmw/Göring_March_1942_Zoo_Heck.jpg)
 
 <figcaption>
 
