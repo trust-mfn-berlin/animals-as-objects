@@ -19,4 +19,4 @@ English content goes here.
 
 :::DE:::
 
-Unter "Wildfängen" versteht man Tiere, die aus ihrem natürlichen Lebensraum mit Hilfe von Fallen, Schlingen oder Immobilisationstechniken wie Betäubungspfeilen entnommen werden. Sie stellten lange Zeit die größte Quelle [[story.Catching Animals]] von Tieren für Zoos und Naturkundemuseen dar. Oft wurden zum Fang eines Jungtieres andere erwachsene Tiere getötet.
+Unter "Wildfängen" versteht man Tiere, die aus ihrem natürlichen Lebensraum mit Hilfe von Fallen, Schlingen oder Immobilisationstechniken wie Betäubungspfeilen entnommen werden. Sie stellten lange Zeit die größte Quelle [[story.catching-animals]] von Tieren für Zoos und Naturkundemuseen dar. Oft wurden zum Fang eines Jungtieres andere erwachsene Tiere getötet.

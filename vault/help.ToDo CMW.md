@@ -15,7 +15,7 @@ created: 1618495172862
 
 - [[story.the-zoo-and-national-socialism]]
 - [[story.Knut]]
-- [[story.Catching Animals]] noch auslassen
+- [[story.catching-animals]] noch auslassen
 
 ### materials
 

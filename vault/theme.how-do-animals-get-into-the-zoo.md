@@ -1,32 +1,35 @@
 ---
+id: 9c7d8895-4d13-4929-8292-4704bb9b0881
+title: How do Animals get into the Zoo?
+desc: >-
+  Live animals for the collections of the Berlin Zoological Garden, Aquariums
+  and Tierpark have come, and continue to come, from a variety of sources. These
+  have their own histories, and create challenges for these institutions that
+  are political, logistical and moral.
+updated: 1627389339617
+created: 1618498026144
 license: CC BY-SA
 title_de: Wie kommen Tiere in den Zoo?
-created: 1618498026144
 author: Clemens Maier-Wolthausen
-short_desc_de: Politische, logistische und moralische Herausforderungen
-date_end: 2021-07-06T11:21:38.457Z
+short_desc_de: 'Politische, logistische und moralische Herausforderungen'
+date_end: '2021-07-06T11:21:38.457Z'
 published: false
-title: How do Animals get into the Zoo?
-updated: 1627389339617
-id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 translators:
   translator_de_en: Lucy Gasser
-desc: Live animals for the collections of the Berlin Zoological Garden,
-  Aquariums and Tierpark have come, and continue to come, from a variety of
-  sources. These have their own histories, and create challenges for these
-  institutions that are political, logistical and moral.
-desc_de: Lebende Tiere für die Sammlungen des Zoologischen Gartens, Aquariums
-  und Tierparks Berlin kamen und kommen aus unterschiedlichen Quellen. Diese
-  haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen
-  für diese Einrichtungen - politische, logistische und moralische.
-short_desc: Political, logistical and moral challenges
+desc_de: >-
+  Lebende Tiere für die Sammlungen des Zoologischen Gartens, Aquariums und
+  Tierparks Berlin kamen und kommen aus unterschiedlichen Quellen. Diese haben
+  ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen für
+  diese Einrichtungen - politische, logistische und moralische.
+short_desc: 'Political, logistical and moral challenges'
 cover_image:
   image: /images/cover-getting-animals.jpg
-  alt: 'Hippos "Knautschke", "Jette", and "Bulette" in the Berlin Zoo, around
-    1959. Flusspferde "Knautschke", "Jette" und "Bulette" im Berliner Zoo, um
-    1959. Source: AZGB, photo Hoppe. All rights reserved.'
+  alt: >-
+    Hippos "Knautschke", "Jette", and "Bulette" in the Berlin Zoo, around 1959.
+    Flusspferde "Knautschke", "Jette" und "Bulette" im Berliner Zoo, um 1959.
+    Source: AZGB, photo Hoppe. All rights reserved.
 tao_type: theme
-date_start: 1499-12-31T23:06:32.000Z
+date_start: '1499-12-31T23:06:32.000Z'
 ---
 
 :::EN:::
@@ -37,7 +40,7 @@ To the present day, the provenance of zoo animals varies widely. Sometimes they 
 
 ## Hunting and Gifting
 
-At the time of the establishment of the first zoological gardens dubbed 'modern' or 'scientific', especially in Europe and North America around the middle of the 19th century, all the animals exhibited there and not native to the area were captured in the wild, see also [[story.Catching Animals]]. The hunters were local amateurs or professionals, or specially dispatched trappers who were either paid by a company, or who caught the animals at their own expense and then offered them up for sale. Although animals of native species were also caught wild, collections of these were often dominated by those bred in the former menageries of manorial estates or in the early animal collections of particular cities. This was especially the case for hoofed animal species, pheasants, and indigenous rodents.
+At the time of the establishment of the first zoological gardens dubbed 'modern' or 'scientific', especially in Europe and North America around the middle of the 19th century, all the animals exhibited there and not native to the area were captured in the wild, see also [[story.catching-animals]]. The hunters were local amateurs or professionals, or specially dispatched trappers who were either paid by a company, or who caught the animals at their own expense and then offered them up for sale. Although animals of native species were also caught wild, collections of these were often dominated by those bred in the former menageries of manorial estates or in the early animal collections of particular cities. This was especially the case for hoofed animal species, pheasants, and indigenous rodents.
 
 Many of the non-native animals in the early days of European zoos were [[Gifts|story.Gifting Objects]] from the ruling prince of a given territory. These, in turn, might have received them as gifts themselves from other rulers or heads of state, or been presented with them by explorers or nobles. The latter might have caught or bought the animal themselves. Gifts of animals were always especially valent as political gestures. A diplomatic value was attributed to the possession of these animals. This value depended on how rare or dangerous, how large or heavy an animal was, and whether it was a species previously unknown in the context of European gift-giving. This was related to the fact that the acquisition of these animals often involved great expense and therefore the animals also had financial market value, which was translated into diplomatic value through the act of gift-giving.
 
@@ -59,7 +62,7 @@ As described in [[Animal Gifts|story.Gifting Objects]], in some particular cases
 
 ## The International Animal Trade
 
-Starting from opportunistic purchases of smaller animals brought by travellers or sailors aboard ships from colonial trading posts to European ports, companies specialising in animal trade began to develop. Gradually, these expanded extensive networks of trappers and commercial agents throughout the European colonies and beyond, for a detailed account of which see [[story.Catching Animals]]. Their business model was founded on the system of colonial exploitation that was a necessary condition of European power over cheap local labour and the environment of other regions of the world. It was driven economically by the demand provided by European zoos.
+Starting from opportunistic purchases of smaller animals brought by travellers or sailors aboard ships from colonial trading posts to European ports, companies specialising in animal trade began to develop. Gradually, these expanded extensive networks of trappers and commercial agents throughout the European colonies and beyond, for a detailed account of which see [[story.catching-animals]]. Their business model was founded on the system of colonial exploitation that was a necessary condition of European power over cheap local labour and the environment of other regions of the world. It was driven economically by the demand provided by European zoos.
 
 By the end of the 19th century, zoos could draw on a wide range of offerings from several professional dealers. Animals were auctioned off at annual sales fairs and in dealers' warehouses in ports. Some dealers informed zoo directors of their trapping plans ahead of time, or even took requests. The large trading houses such as Jamrach in London, Hagenbeck in Hamburg, or Reiche in Alfeld would often bundle their shipments in the area of origin and then supply several zoos – with a large number of animals dying in transit. This risk applied for charismatic mammals and marine animals alike.[^3]
 
@@ -211,7 +214,7 @@ Zootiere haben bis heute unterschiedlichste Provenienzen. Sie gelangen mal durch
 
 ## Jagen und Schenken
 
-Zur Zeit der Gründung der ersten 'modern' oder 'wissenschaftlich' genannten Zoologischen Gärten insbesondere in Europa und Nordamerika um die Mitte des 19. Jahrhunderts waren alle dort ausgestellten und nicht einheimischen Tiere [[Wildfänge|story.Catching Animals]]. Die Jäger waren lokale Amateure oder Profis oder aber auch speziell ausgesandte Jäger, die entweder von einer Firma bezahlt wurden oder auf eigene Rechnung die Tiere fingen und sie dann anboten. Zwar stammten auch Tiere einheimischer Arten aus Wildfängen, oft aber dominierten hier bereits Zuchten aus den früher angelegten Menagerien der herrschaftlichen Anwesen oder frühen Tiersammlungen von Städten. Das betraf insbesondere Huftierarten, Fasane und einheimische Nagetiere.
+Zur Zeit der Gründung der ersten 'modern' oder 'wissenschaftlich' genannten Zoologischen Gärten insbesondere in Europa und Nordamerika um die Mitte des 19. Jahrhunderts waren alle dort ausgestellten und nicht einheimischen Tiere [[Wildfänge|story.catching-animals]]. Die Jäger waren lokale Amateure oder Profis oder aber auch speziell ausgesandte Jäger, die entweder von einer Firma bezahlt wurden oder auf eigene Rechnung die Tiere fingen und sie dann anboten. Zwar stammten auch Tiere einheimischer Arten aus Wildfängen, oft aber dominierten hier bereits Zuchten aus den früher angelegten Menagerien der herrschaftlichen Anwesen oder frühen Tiersammlungen von Städten. Das betraf insbesondere Huftierarten, Fasane und einheimische Nagetiere.
 
 Viele der nicht einheimischen Tiere in der Frühzeit der europäischen Zoos waren [[Geschenke|story.Gifting Objects]] durch die jeweils herrschenden Territorialfürsten. Diese wiederum hatten sie selbst von anderen Herrschern oder Staatsoberhäuptern geschenkt bekommen oder sie waren ihnen von Forschungsreisenden oder Adeligen überreicht worden. Jene hatten sie selbst gefangen oder gekauft. Insbesondere Schenkungen von Tieren waren stets mit politischen Gesten verbunden. Dem Besitz dieser Tiere wurde ein diplomatischer Wert zugeschrieben. Dieser Wert hing davon ab, wie selten oder gefährlich, wie groß oder schwer ein Tier war und ob es sich um eine Art handelte, die im Kontext europäischer Tiergeschenke bis dahin unbekannt gewesen war. Das hing damit zusammen, dass die Beschaffung jener Tiere oft hohe Kosten verursachte und die Tiere daher auch einen finanziellen Marktwert hatten, der durch den Akt des Schenkens in einen diplomatischen Wert übersetzt wurde.
 
@@ -233,7 +236,7 @@ Wie in [[story.Gifting Objects]] beschrieben wird, haben diese politischen Gesch
 
 ## Internationaler Tierhandel
 
-Ausgehend von Gelegenheitskäufen kleinerer Tiere, die Reisende oder Matrosen an Bord von Schiffen aus kolonialen Handelsstützpunkten in europäische Häfen brachten, entwickelten sich Tierhandelsfirmen. Nach und nach bauten diese ausgeprägte Netzwerke von Fängern und Handelsvertretern in allen europäischen Kolonien und darüber hinaus aus, siehe dazu ausführlich [[story.Catching Animals]]. Das Geschäftsmodell beruhte auf dem System kolonialer Ausbeutung, das die Verfügungsgewalt über billige lokale Arbeitskraft und die Umwelt anderer Erdregionen durch Europäer\*innen bedingte. Die Nachfrage in den europäischen Zoos trieb es wirtschaftlich an.
+Ausgehend von Gelegenheitskäufen kleinerer Tiere, die Reisende oder Matrosen an Bord von Schiffen aus kolonialen Handelsstützpunkten in europäische Häfen brachten, entwickelten sich Tierhandelsfirmen. Nach und nach bauten diese ausgeprägte Netzwerke von Fängern und Handelsvertretern in allen europäischen Kolonien und darüber hinaus aus, siehe dazu ausführlich [[story.catching-animals]]. Das Geschäftsmodell beruhte auf dem System kolonialer Ausbeutung, das die Verfügungsgewalt über billige lokale Arbeitskraft und die Umwelt anderer Erdregionen durch Europäer\*innen bedingte. Die Nachfrage in den europäischen Zoos trieb es wirtschaftlich an.
 
 Zoos konnten Ende des 19. Jahrhunderts auf umfangreiche Angebote mehrerer professioneller Händler zurückgreifen. Auf jährlichen Verkaufsmessen und in den Lagerhallen der Händler in den Häfen wurden die Tiere versteigert. Manche Händler informierten Zoodirektoren über ihre Fangpläne im Voraus oder nahmen gar Wünsche entgegen. Die großen Handelshäuser wie Jamrach in London, Hagenbeck in Hamburg oder Reiche in Alfeld bündelten oft ihre Transporte im Ursprungsgebiet und versorgten dann mehrere Zoos, wobei eine Vielzahl an Tieren auf dem Transport verendete. Dieses Risiko galt für die charismatischen Säugetiere ebenso wie für Meerestiere.[^3]
 
