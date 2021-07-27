@@ -7,7 +7,7 @@ desc: >-
   propaganda for the National Socialists and excluded Jewish visitors. The zoo
   director was well connected to the regime's elite. During the war, forced
   labourers were exploited.
-updated: 1627296618823
+updated: 1627377089694
 created: 1619020958263
 license: CC BY-SA
 title_de: Der Zoo im Nationalsozialismus
@@ -46,7 +46,7 @@ How could this happen and what were the determining factors?
 
 In 1932, \[[material.Lutz Heck]] became director of the Berlin Zoological Garden. He took over the post from his father Ludwig Heck, who had held it since 1888. The Heck family was German nationalist and colonial revisionist in orientation, and maintained close contacts in the right-wing conservative nationalist milieu. Lutz and Ludwig Heck clearly expressed their enthusiasm for National Socialist politics in their publications of 1935 and 1938. Both paid homage in their writings to the "Führer", who had "fully consciously \[...] based the state on blood and soil."[^1] As early as June 1933, Lutz Heck became a sponsoring member of the Schutzstaffel (SS)[^2], and supported the party organization SS of the NSDAP with regular donations. In return, like all sponsors, he received lapel pins that made his loyalty to the regime apparent.
 
-Soon Lutz Heck also became privately acquainted with the Prussian Prime Minister and Reich Minister of Aviation, from 1934 also "Reichsforstmeister", head of the Reich’s forestry ministry, and "Reichsjägermeister", chief huntsman of the Reich, Hermann Göring . At his request, Heck stepped up his breeding of European bison. 
+Soon Lutz Heck also became privately acquainted with the Prussian Prime Minister and Reich Minister of Aviation, from 1934 also "Reichsforstmeister", head of the Reich’s forestry ministry, and "Reichsjägermeister", chief huntsman of the Reich, Hermann Göring . At his request, Heck stepped up his breeding of European bison.
 
 In January 1934, Göring had presented his plans for the Schorfheide to some forestry officials. He wanted to establish a large nature reserve there, where he also wished to hunt the largest land mammal in Europe.[^3] Lutz Heck decided to multiply his herd from the zoo as quickly as possible by means of so-called displacement breeding with the closest relative of the European bison, the North American bison, in order to make Göring's plans a reality. [^4] In 1935, he undertook an expedition to Canada "on behalf of the Reichsforst- und Reichsjägermeister Hermann Göring, the German hunting community, and the zoo."[^5] The goal was, among other things, to procure bison to reinforce his breeding efforts.
 
@@ -102,7 +102,7 @@ The zoo's staff, like that of many large companies in Berlin, was also 'Nazified
 
 <figcaption>
 
-*The zoo band, 1938. (AZGB, Photo Springer. All rights reserved.)*
+*The zoo band, 1938. (AZGB, photo Springer. All rights reserved.)*
 
 </figcaption>
 
@@ -126,7 +126,7 @@ Financially, the zoo flourished with the rise of National Socialism. This was fa
 
 For his part, Lutz Heck put the political climate to use for his colonial revisionist ambitions. He sponsored a "Colonial Art Exhibition" in the exhibition halls at the zoo in 1933, where he displayed a replica of his trapping expedition encampments in eastern Africa.[^14] In 1927/28, his trappings for the zoo had included giraffes from the former German colony of German East Africa, the territory of Tanganyika subsequently ruled by the British. In the summer of 1934, the zoo held a "Kolonialer Volkstag", a "Colonial Day for the People", to commemorate colonialism. In a tour for the press, reporters were taken to see "German Colonial Animals" – meaning animals from former German colonies. In 1937, the zoo celebrated a "Colonial Festival" under a slogan proclaiming "Everyone in Africa once."[^15]
 
-In time for the 1936 Summer Olympics in Berlin, the zoo opened a 2000-square-metre lion steppe - a crowd magnet. In 1936 there were also the many additional tourists who had travelled to Berlin for the Games. They brought the zoo a record attendance of more than two million paying guests.[^16] <!Insert sentence about the zoo’s narrative of financial recovery from „Bobby“ death, once ready!--> **The zoo participated in the elaborate propaganda for the Games and provided animals for the Olympic Village where the athletes lived.** Native waterfowl and fallow deer from the zoo frolicked around a central pond there.
+In time for the 1936 Summer Olympics in Berlin, the zoo opened a 2000-square-metre lion steppe - a crowd magnet. In 1936 there were also the many additional tourists who had travelled to Berlin for the Games. They brought the zoo a record attendance of more than two million paying guests.[^16] <!Insert sentence about the zoo’s narrative of financial recovery from "Bobby" death, once ready!--> **The zoo participated in the elaborate propaganda for the Games and provided animals for the Olympic Village where the athletes lived.** Native waterfowl and fallow deer from the zoo frolicked around a central pond there.
 
 In August 1935, the zoo was finally granted an extension to its grounds on the edge of the Tiergarten park, at the behest of Prussian Prime Minister Hermann Göring. The police and the Reiter-SA (Sturmabteilung) had objected at first, as the extension would restrict a bridle path, but in the end, Goering's wish was fulfilled.[^17] On the new strip of land, Heck settled "native animal species" in large enclosures. In addition to "German" predators such as the wolf and the bear, "German birds of prey" such as the eagle and the buzzard were exhibited. The fact that all of these animals were also to be found in neighbouring countries of the German Reich, and that some, like the bear, were no longer extant in Germany at all, was irrelevant for propaganda purposes. Rather, this framing as "German animals" allows itself to be read as legitimisation of the expansionist policies of the National Socialists.[^18] Native livestock were displayed in a replica farm barn. These, too, were instrumentalised for propaganda purposes: the presentation was intended to show that humans and animals had supposedly lived "intimately" with each other on the "older German homesteads."[^19] The rustic architecture in the style of northern German farmhouses was a "propagandistic sign of a connection to the peasant class and the native soil. The gable \[of a barn] honoured the 'Führer's' concern for the German farmer in a carved banderole. The blood-and-soil ideology \[was] unmistakable here."[^20]
 
@@ -168,13 +168,13 @@ However, the zoo shares had never been speculative stocks. Profit distributions 
 
 According to the statutes of the shareholders’ association, there were no legal controls over who bought the shares, nor did the zoo have to consent to a sale. Although the zoo shares were registered shares, since they were associated with a right of admission, registration in the zoo's share register always took place only after the sale. This was a thorn in the side of the supervisory board. In the spring of 1938, it therefore planned to give the zoo a right of approval for all sales by amending the statutes. This would have allowed the zoo to exclude Jewish buyers, or to exert pressure on both sides to lower the sales price. The board ultimately refrained from doing so for legal reasons, since the amendment to the statutes would also have affected non-Jewish shareholders, who in turn would have had to give their consent.[^27] In the minutes of the meeting, this was articulated as follows:
 
-> "The proposal of the board of directors to amend § 3 to the effect that the transfer of shares be made dependent on the consent of the company, in order in this way to gradually eliminate the non-Aryans among the shareholders, is, in the opinion of our legal counsel, unfortunately impracticable, because \[...] in the case of already existing companies, the consent of all shareholders concerned is required."
+>"The proposal of the board of directors to amend § 3 to the effect that the transfer of shares be made dependent on the consent of the company, in order in this way to gradually eliminate the non-Aryans among the shareholders, is, in the opinion of our legal counsel, unfortunately impracticable, because \[...] in the case of already existing companies, the consent of all shareholders concerned is required."
 
 In July 1938, however, the supervisory board decided to acquire the legally permitted ten percent of its own shares from Jewish shareholders. After the November pogrom of 1938, the last remaining Jewish shareholders tried to sell their shares. The zoo itself acquired about 100 shares from Jewish owners and passed them on to "Aryan owners."[^28] The few documented interim sales from those months show that the zoo tried to make a profit on these transactions by buying at low cost and selling at a higher price.[^29]
 
 Once Jewish people were virtually excluded from the zoo as shareholders, the supervisory board sought to make them disappear from the zoo as visitors too. At the board meeting of 8 November 1938, SS-Brigadeführer Ewald von Massow, a member of the supervisory board, proposed that Jewish children be banned from playing in the common playground. In addition, the board decided that for the coming Christmas celebrations, notices should be placed on the nativity scene set up in the zoo indicating that Jews were not welcome there.[^30] The minutes of the meeting noted:
 
-> "\[...] these signs could then be officially placed at all entrances on 1 January."
+>"\[...] these signs could then be officially placed at all entrances on 1 January."
 
 The following night, Nazis across Germany murdered hundreds of Jewish Germans and destroyed livelihoods and synagogues in an organized pogrom. The Nazis blamed German Jews for this planned and centrally coordinated violence. The Berlin police chief banned them from visiting places of entertainment in the days that followed. The measures planned by the zoo management anticipated official governmental policy. The zoo, which had always identified itself as an educational institution, excluded this group of visitors, defined by racist ideology and persecution as not belonging to the 'Volk'.
 
@@ -270,7 +270,7 @@ The zoo benefited variously from the networks of the director and supervisory bo
 
 </figure>
 
-The zoo was also supported by the regime in matters concerning animal feed. From his workplace at the Reichsforstamt in Berlin, Lutz Heck coordinated the supply of feed to zoos throughout the Reich. He was extremely successful in this endeavour: up until the last months of the war, ocean fish were still being supplied for rare seabirds and seals.[^41] 
+The zoo was also supported by the regime in matters concerning animal feed. From his workplace at the Reichsforstamt in Berlin, Lutz Heck coordinated the supply of feed to zoos throughout the Reich. He was extremely successful in this endeavour: up until the last months of the war, ocean fish were still being supplied for rare seabirds and seals.[^41]
 
 ## Destruction
 
@@ -282,7 +282,7 @@ On the night of 23 November 1943, an Allied bombing raid turned the zoo into a s
 
 <figcaption>
 
-*\[[Liste der getöteten Tiere|material.list dead animals]], 1943. (AZGB. All rights reserved.)*
+*\[[List of dead animals|material.list dead animals]], 1943. (AZGB. All rights reserved.)*
 
 </figcaption>
 

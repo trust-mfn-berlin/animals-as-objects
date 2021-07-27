@@ -43,7 +43,7 @@ created: 1618495172862
 - [[material.VDZ]]
 - [[material.WAZA]]
 - [[material.Lioness Heinrich]]
-- [[material.list dead animals]]
+- [[material.list-of-dead-animals]]
 
 ## ToDo
 

@@ -1,6 +1,6 @@
 ---
 id: 5uQChdHATgh_dE94AE5fX
-title: List Dead Animals
+title: List of Dead Animals
 desc: Put a description of this note here...
 updated: 1624538591667
 created: 1623930479492
