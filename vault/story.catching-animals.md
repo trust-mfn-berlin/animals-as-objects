@@ -1,13 +1,13 @@
 ---
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
-title: Catching 'Exotic' Animals
+title: Catching Animals
 desc: >-
   EN Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten
   entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen.
 updated: 1624871700382
 created: 1618492547915
 license: CC BY-SA
-title_de: Fang 'exotischer' Tiere
+title_de: Tiere fangen
 author: Clemens Maier-Wolthausen
 short_desc_de: Habitate und Tierhandelsfirmen
 date_end: '1973-12-31T11:00:00.000Z'
