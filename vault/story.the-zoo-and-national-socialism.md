@@ -7,7 +7,7 @@ desc: >-
   propaganda for the National Socialists and excluded Jewish visitors. The zoo
   director was well connected to the regime's elite. During the war, forced
   labourers were exploited.
-updated: 1627377089694
+updated: 1627377228298
 created: 1619020958263
 license: CC BY-SA
 title_de: Der Zoo im Nationalsozialismus
@@ -282,7 +282,7 @@ On the night of 23 November 1943, an Allied bombing raid turned the zoo into a s
 
 <figcaption>
 
-*\[[List of dead animals|material.list dead animals]], 1943. (AZGB. All rights reserved.)*
+*[[material.list-of-dead-animals]], 1943. (AZGB. All rights reserved.)*
 
 </figcaption>
 
