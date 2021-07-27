@@ -7,7 +7,7 @@ desc: >-
   propaganda for the National Socialists and excluded Jewish visitors. The zoo
   director was well connected to the regime's elite. During the war, forced
   labourers were exploited.
-updated: 1627377228298
+updated: 1627378573538
 created: 1619020958263
 license: CC BY-SA
 title_de: Der Zoo im Nationalsozialismus
@@ -44,7 +44,7 @@ How could this happen and what were the determining factors?
 
 ## The Heck Family
 
-In 1932, \[[material.Lutz Heck]] became director of the Berlin Zoological Garden. He took over the post from his father Ludwig Heck, who had held it since 1888. The Heck family was German nationalist and colonial revisionist in orientation, and maintained close contacts in the right-wing conservative nationalist milieu. Lutz and Ludwig Heck clearly expressed their enthusiasm for National Socialist politics in their publications of 1935 and 1938. Both paid homage in their writings to the "Führer", who had "fully consciously \[...] based the state on blood and soil."[^1] As early as June 1933, Lutz Heck became a sponsoring member of the Schutzstaffel (SS)[^2], and supported the party organization SS of the NSDAP with regular donations. In return, like all sponsors, he received lapel pins that made his loyalty to the regime apparent.
+In 1932, [[material.Lutz Heck]] became director of the Berlin Zoological Garden. He took over the post from his father Ludwig Heck, who had held it since 1888. The Heck family was German nationalist and colonial revisionist in orientation, and maintained close contacts in the right-wing conservative nationalist milieu. Lutz and Ludwig Heck clearly expressed their enthusiasm for National Socialist politics in their publications of 1935 and 1938. Both paid homage in their writings to the "Führer", who had "fully consciously \[...] based the state on blood and soil."[^1] As early as June 1933, Lutz Heck became a sponsoring member of the Schutzstaffel (SS)[^2], and supported the party organization SS of the NSDAP with regular donations. In return, like all sponsors, he received lapel pins that made his loyalty to the regime apparent.
 
 Soon Lutz Heck also became privately acquainted with the Prussian Prime Minister and Reich Minister of Aviation, from 1934 also "Reichsforstmeister", head of the Reich’s forestry ministry, and "Reichsjägermeister", chief huntsman of the Reich, Hermann Göring . At his request, Heck stepped up his breeding of European bison.
 
@@ -54,7 +54,7 @@ In January 1934, Göring had presented his plans for the Schorfheide to some for
 
 <figure>
 
-![Black and white photograph: Entrance gate of Berlin Zoo supported by two elephant sculptures. Three men are standing in front of the entrance. Two of them wear zoo staff uniforms.](images/cmw/Elefantentor_1938 S_12_1.jpg)
+![Black and white photograph: Entrance gate of Berlin Zoo supported by two elephant sculptures. Three men are standing in front of the entrance. Two of them wear zoo staff uniforms.](images\cmw\elephant-gate-berlin-zoo-1938.jpg)
 
 <figcaption>
 
@@ -126,7 +126,7 @@ Financially, the zoo flourished with the rise of National Socialism. This was fa
 
 For his part, Lutz Heck put the political climate to use for his colonial revisionist ambitions. He sponsored a "Colonial Art Exhibition" in the exhibition halls at the zoo in 1933, where he displayed a replica of his trapping expedition encampments in eastern Africa.[^14] In 1927/28, his trappings for the zoo had included giraffes from the former German colony of German East Africa, the territory of Tanganyika subsequently ruled by the British. In the summer of 1934, the zoo held a "Kolonialer Volkstag", a "Colonial Day for the People", to commemorate colonialism. In a tour for the press, reporters were taken to see "German Colonial Animals" – meaning animals from former German colonies. In 1937, the zoo celebrated a "Colonial Festival" under a slogan proclaiming "Everyone in Africa once."[^15]
 
-In time for the 1936 Summer Olympics in Berlin, the zoo opened a 2000-square-metre lion steppe - a crowd magnet. In 1936 there were also the many additional tourists who had travelled to Berlin for the Games. They brought the zoo a record attendance of more than two million paying guests.[^16] <!Insert sentence about the zoo’s narrative of financial recovery from "Bobby" death, once ready!--> **The zoo participated in the elaborate propaganda for the Games and provided animals for the Olympic Village where the athletes lived.** Native waterfowl and fallow deer from the zoo frolicked around a central pond there.
+In time for the 1936 Summer Olympics in Berlin, the zoo opened a 2000-square-metre lion steppe - a crowd magnet. In 1936 there were also the many additional tourists who had travelled to Berlin for the Games. They brought the zoo a record attendance of more than two million paying guests.[^16] <!--Insert sentence about the zoo’s narrative of financial recovery from "Bobby" death, once ready!--> **The zoo participated in the elaborate propaganda for the Games and provided animals for the Olympic Village where the athletes lived.** Native waterfowl and fallow deer from the zoo frolicked around a central pond there.
 
 In August 1935, the zoo was finally granted an extension to its grounds on the edge of the Tiergarten park, at the behest of Prussian Prime Minister Hermann Göring. The police and the Reiter-SA (Sturmabteilung) had objected at first, as the extension would restrict a bridle path, but in the end, Goering's wish was fulfilled.[^17] On the new strip of land, Heck settled "native animal species" in large enclosures. In addition to "German" predators such as the wolf and the bear, "German birds of prey" such as the eagle and the buzzard were exhibited. The fact that all of these animals were also to be found in neighbouring countries of the German Reich, and that some, like the bear, were no longer extant in Germany at all, was irrelevant for propaganda purposes. Rather, this framing as "German animals" allows itself to be read as legitimisation of the expansionist policies of the National Socialists.[^18] Native livestock were displayed in a replica farm barn. These, too, were instrumentalised for propaganda purposes: the presentation was intended to show that humans and animals had supposedly lived "intimately" with each other on the "older German homesteads."[^19] The rustic architecture in the style of northern German farmhouses was a "propagandistic sign of a connection to the peasant class and the native soil. The gable \[of a barn] honoured the 'Führer's' concern for the German farmer in a carved banderole. The blood-and-soil ideology \[was] unmistakable here."[^20]
 
@@ -142,7 +142,7 @@ In August 1935, the zoo was finally granted an extension to its grounds on the e
 
 </figure>
 
-The zoo had previously been organized strictly according to taxonomic principles, see also \[[theme.taxonomical orders]]. For the first time, now, an area was created in the zoo grounds that corresponded to the previously rejected idea of a 'geozoo'. Instead of being arranged according to outwardly recognizable relationships, the geographical perspective became a guiding principle. These collections of animals that shared a natural space, which had been rejected in Berlin until that point, were introduced in the zoo in the course of National Socialist propaganda. At the centre of the "German Zoo", as this section was henceforth dubbed in the zoo's publications, stood the enclosure for a special species of cattle - the so-called aurochs. This species is considered the progenitor of all European breeds of domestic cattle. However, the last specimen of this species had already died out in the 17th century. Lutz Heck and his brother Heinz, director of the Munich Zoo Hellabrunn, tried to resurrect these animals by cross-breeding different species of cattle.[^21]
+The zoo had previously been organized strictly according to taxonomic principles, see also [[theme.taxonomical orders]]. For the first time, now, an area was created in the zoo grounds that corresponded to the previously rejected idea of a 'geozoo'. Instead of being arranged according to outwardly recognizable relationships, the geographical perspective became a guiding principle. These collections of animals that shared a natural space, which had been rejected in Berlin until that point, were introduced in the zoo in the course of National Socialist propaganda. At the centre of the "German Zoo", as this section was henceforth dubbed in the zoo's publications, stood the enclosure for a special species of cattle - the so-called aurochs. This species is considered the progenitor of all European breeds of domestic cattle. However, the last specimen of this species had already died out in the 17th century. Lutz Heck and his brother Heinz, director of the Munich Zoo Hellabrunn, tried to resurrect these animals by cross-breeding different species of cattle.[^21]
 
 <figure>
 
@@ -312,7 +312,7 @@ Nevertheless, on 22 April 1945, it all finally came to an end. All male employee
 
 <figcaption>
 
- *The zoo's surviving lions lie in their outdoor enclosure against the backdrop of the destroyed aquarium, 1945. (AZGB. All rights reserved.)*
+*The zoo's surviving lions lie in their outdoor enclosure against the backdrop of the destroyed aquarium, 1945. (AZGB. All rights reserved.)*
 
 </figcaption>
 
@@ -332,7 +332,7 @@ Zoos certainly allow themselves to be adapted for other kinds of regimes and soc
 
 [^5]: Cf. Lutz Heck. *Auf Urwild in Kanada*. Berlin: Paul Parey, 1937. Direct quotes have been translated into English for clarity’s sake.
 
-[^6]: Cf., inter alia, Heck, Lutz. *Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn*. Berlin: Paul Parey, 1935.
+[^6]: Cf., for instance, Heck, Lutz. *Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn*. Berlin: Paul Parey, 1935.
 
 [^7]: *Jahrbuch der Fachschaft Deutsche Bracken*, 1935/36.
 
@@ -396,7 +396,7 @@ Zoos certainly allow themselves to be adapted for other kinds of regimes and soc
 
 [^37]: Cf. Gautschi, Andreas. *Der Reichsjägermeister. Fakten und Legenden um Hermann Göring*. Melsungen: Nimrod, 2010; Rubner, Heinrich. *Deutsche Forstgeschichte, 1933-1945. Forstwirtschaft, Jagd und Umwelt im NS-Staat*. St. Katharinen: Scripta Mercaturae, 1997; copy of the agreement between the headquarters of the Reichskommissar für die Festigung deutschen Volkstums, the Reich Commissioner for the consolidation of German nationalism, and the Reichsforstmeister as Oberster Naturschutzbehörde, head of the highest nature conservation authority, on the implementation of the discussion of 20 March 1942, 11.05.1942, BArch, R 49/2066; correspondence with the British Commandant Tiergarten Lt. Col. Nunn in December 1945, AZGB S 15/17; old animal index card, index card "Panjepferde".
 
-[^38]: There is no evidence that women were also exploited as forced labourers at the zoo, so what follows speaks only to what is known of male forced labourers .
+[^38]: There is no evidence that women were also exploited as forced labourers at the zoo, so what follows speaks only to what is known of male forced labourers.
 
 [^39]: Minutes of general assembly, 1942, AZGB O 0/3/12.
 
@@ -412,11 +412,11 @@ Zoos certainly allow themselves to be adapted for other kinds of regimes and soc
 
 [^45]: Recollections of Elisabeth Johst, AZGB S 15/27; K. Heinroth to W. Keller, 18.09.1945, AZGB O 0/1/87; K. Heinroth to G. Freytag, 03.01.1946, AZGB O 0/1/86.
 
-[^46]: Recollections of Elisabeth Johst, AZGB S 15/27; K. Heinroth to W. Keller, 18.09.1945, AZGB O 0/1/87; K. Heinroth to G. Freytag, 03.01.1946, AZGB O 0/1/86. 
+[^46]: Recollections of Elisabeth Johst, AZGB S 15/27; K. Heinroth to W. Keller, 18.09.1945, AZGB O 0/1/87; K. Heinroth to G. Freytag, 03.01.1946, AZGB O 0/1/86.
 
 [^47]: K. Heinroth: "Kriegszerstörungen und Aufbau von 1945 bis 1956 im Berliner Zoologischen Garten", typewritten manuscript, AZGB N 4/2.
 
-[^48]: Cf. to this Maier-Wolthausen, Clemens. *Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos*. Ed. by Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 162-169, 206-211; Maier-Wolthausen, Clemens. "Ein Zoo für die Hauptstadt". *Aus Politik und Zeitgeschichte* 71, Nr. 9 (2021): 11-17, 14-15; Mohnhaupt, Jan. *Der Zoo der anderen. Als die Stasi ihr Herz für Brillenbären entdeckte & Helmut Schmidt mit Pandas nachrüstete*. München: Carl Hanser, 2017; and Maier-Wolthausen, Clemens. *Alphamännchen und Herdentiere. Deutsch-deutsche Beziehungen in Tierpark und Zoo Berlin*. Vorauss. Berlin: Reimer, 2022.
+[^48]: Cf. to this Maier-Wolthausen, Clemens. *Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos*. Ed. by Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 162-169, 206-211; Maier-Wolthausen, Clemens. "Ein Zoo für die Hauptstadt". *Aus Politik und Zeitgeschichte* 71, Nr. 9 (2021): 11-17, 14-15; Mohnhaupt, Jan. *Der Zoo der anderen. Als die Stasi ihr Herz für Brillenbären entdeckte & Helmut Schmidt mit Pandas nachrüstete*. München: Carl Hanser, 2017; and Maier-Wolthausen, Clemens. *Alphamännchen und Herdentiere. Deutsch-deutsche Beziehungen in Tierpark und Zoo Berlin*. Berlin: Reimer, forthcoming 2022.
 
 :::DE:::
 
@@ -428,17 +428,17 @@ Wie konnte das geschehen und was waren die bestimmenden Faktoren?
 
 ## Die Familie Heck
 
-1932 wurde \[[material.Lutz Heck]] Direktor des Zoologischen Gartens Berlin. Er übernahm das Amt von seinem Vater Ludwig Heck, der dieses seit 1888 innegehabt hatte. Die Familie Heck war deutschnational und kolonialrevisionistisch ausgerichtet und pflegte enge Kontakte in das rechtskonservativ-nationalistische Milieu. Lutz und Ludwig Heck brachten in ihren Publikationen von 1935 und 1938 ihre Begeisterung für die nationalsozialistische Politik deutlich zum Ausdruck. Beide huldigten in ihren Publikationen dem "Führer", der den Staat "vollbewusst \[…] auf Blut und Boden abgestellt" habe.[^1]  Bereits im Juni 1933 wurde Lutz Heck Fördermitglied der Schutzstaffel (SS)[^2] und unterstützte die Parteiorganisation SS der NSDAP mit regelmäßigen Spenden. Im Gegenzug bekam er wie alle Fördermitglieder Anstecknadeln, die die Loyalität zum Regime deutlich machten.
+1932 wurde [[material.Lutz Heck]] Direktor des Zoologischen Gartens Berlin. Er übernahm das Amt von seinem Vater Ludwig Heck, der dieses seit 1888 innegehabt hatte. Die Familie Heck war deutschnational und kolonialrevisionistisch ausgerichtet und pflegte enge Kontakte in das rechtskonservativ-nationalistische Milieu. Lutz und Ludwig Heck brachten in ihren Publikationen von 1935 und 1938 ihre Begeisterung für die nationalsozialistische Politik deutlich zum Ausdruck. Beide huldigten in ihren Publikationen dem "Führer", der den Staat "vollbewusst \[…] auf Blut und Boden abgestellt" habe.[^1]  Bereits im Juni 1933 wurde Lutz Heck Fördermitglied der Schutzstaffel (SS)[^2] und unterstützte die Parteiorganisation SS der NSDAP mit regelmäßigen Spenden. Im Gegenzug bekam er wie alle Fördermitglieder Anstecknadeln, die die Loyalität zum Regime deutlich machten.
 
-Schon bald machte Lutz Heck zudem auf privater Ebene mit dem preußischen Ministerpräsidenten und Reichsluftfahrtminister, ab 1934 auch "Reichsforstmeister" und "Reichsjägermeister" Hermann Göring Bekanntschaft. Auf dessen Wunsch intensivierte Heck seine Wisentzucht. 
+Schon bald machte Lutz Heck zudem auf privater Ebene mit dem preußischen Ministerpräsidenten und Reichsluftfahrtminister, ab 1934 auch "Reichsforstmeister" und "Reichsjägermeister" Hermann Göring Bekanntschaft. Auf dessen Wunsch intensivierte Heck seine Wisentzucht.
 
-Göring hatte im Januar 1934 im Kreise einiger Forstbeamte seine Pläne für die Schorfheide vorgestellt. Hier wollte er ein großes Naturschutzgebiet einrichten, in dem er zugleich das größte Landsäugetier Europas jagen wollte.[^ 3] Lutz Heck entschied sich, mittels einer sogenannten Verdrängungszucht mit dem nächsten Verwandten des Wisents, dem nordamerikanischen Bison, seine Herde aus dem Zoo möglichst schnell zu vermehren, um Görings Pläne Wirklichkeit werden zu lassen.[^4] 1935 unternahm er "im Auftrage des Reichsforst- und Reichsjägermeister\[s] Hermann Göring, der deutschen Jägerschaft und des Zoologischen Gartens" eine Expedition nach Kanada.[^5] Das Ziel war unter anderem die Beschaffung von Bisons, um die Wisentzucht zu stärken.
+Göring hatte im Januar 1934 im Kreise einiger Forstbeamte seine Pläne für die Schorfheide vorgestellt. Hier wollte er ein großes Naturschutzgebiet einrichten, in dem er zugleich das größte Landsäugetier Europas jagen wollte.[^3] Lutz Heck entschied sich, mittels einer sogenannten Verdrängungszucht mit dem nächsten Verwandten des Wisents, dem nordamerikanischen Bison, seine Herde aus dem Zoo möglichst schnell zu vermehren, um Görings Pläne Wirklichkeit werden zu lassen.[^4] 1935 unternahm er "im Auftrage des Reichsforst- und Reichsjägermeister\[s] Hermann Göring, der deutschen Jägerschaft und des Zoologischen Gartens" eine Expedition nach Kanada.[^5] Das Ziel war unter anderem die Beschaffung von Bisons, um die Wisentzucht zu stärken.
 
 **Lutz Heck bot sich dem Regime in jeglicher Form an. Seine Bücher und Veröffentlichungen priesen die Gesetzesbeschlüsse des NS-Staates in Bezug auf den Wildschutz.[^6]** Göring wurde auf Hecks Betreiben zum Führer der Fachschaft Deutsche Bracken Olpe, eines Zuchtvereins für Jagdhunde, ernannt[^7] – sicherlich eine Randnotiz, aber dennoch geeignet, den passionierten Jäger Göring für sich einzunehmen. Zudem stellte Lutz Heck Göring junge Löwen als Haustiere zur Verfügung, die er zurücknahm, wenn sie dem "Streichelalter" entwachsen waren.[^8]
 
 <figure>
 
-![Schwarz-weiß Foto: Eingangstor des Berliner Zoos gestützt durch zwei Elefantenskulpturen. Drei Männer stehen vor dem Eingang. Zwei von ihnen tragen Zoouniformen.](images/cmw/Elefantentor_1938 S_12_1.jpg)
+![Schwarz-weiß Foto: Eingangstor des Berliner Zoos gestützt durch zwei Elefantenskulpturen. Drei Männer stehen vor dem Eingang. Zwei von ihnen tragen Zoouniformen.](images\cmw\elephant-gate-berlin-zoo-1938.jpg)
 
 <figcaption>
 
@@ -450,7 +450,7 @@ Göring hatte im Januar 1934 im Kreise einiger Forstbeamte seine Pläne für die
 
 ## Der Aufsichtsrat
 
-Auch die judenfeindliche rassistische Politik der NSDAP wurde ab 1933 im Zoo umgesetzt. Die zwei langjährigen Aufsichtsratsmitglieder Georg Siegmann und Walter Simon wurden ihrer jüdischen Identität wegen im Aufsichtsrat erniedrigenden Diskussionen ausgesetzt.[^9] Sie legten noch 1933 unter diesem Druck ihre Ämter nieder.[^10] 
+Auch die judenfeindliche rassistische Politik der NSDAP wurde ab 1933 im Zoo umgesetzt. Die zwei langjährigen Aufsichtsratsmitglieder Georg Siegmann und Walter Simon wurden ihrer jüdischen Identität wegen im Aufsichtsrat erniedrigenden Diskussionen ausgesetzt.[^9] Sie legten noch 1933 unter diesem Druck ihre Ämter nieder.[^10]
 
 <figure>
 
@@ -498,7 +498,7 @@ Der Zoo florierte finanziell nach der Machtübernahme der Nationalsozialisten. D
 
 <figure>
 
-![Rötliches Papier-Ticket mit Hakenkreuz. Text: Die Deutsche Arbeitsfront NS-Gemeinschaft "Kraft durch Freude" Gau Gross-Berlin; Inhaber dieser Anweisung erhält am Freitag, dem 3., 10., 17., 24., od. 31.7.1936 gegen Nachzahlung von RM 0,40 an den Tageskassen des Zoo eine Eintrittskarte für den "Kraft durch Freude"-Tag im Zoo; Die Anweisung gilt wahlweise auch für das Aquarium (...). ](images/cmw/Kdf_Eintrittskarte.jpg)
+![Rötliches Papier-Ticket mit Hakenkreuz. Text: Die Deutsche Arbeitsfront NS-Gemeinschaft "Kraft durch Freude" Gau Gross-Berlin; Inhaber dieser Anweisung erhält am Freitag, dem 3., 10., 17., 24., od. 31.7.1936 gegen Nachzahlung von RM 0,40 an den Tageskassen des Zoo eine Eintrittskarte für den "Kraft durch Freude"-Tag im Zoo; Die Anweisung gilt wahlweise auch für das Aquarium (...).](images/cmw/Kdf_Eintrittskarte.jpg)
 
 <figcaption>
 
@@ -510,7 +510,7 @@ Der Zoo florierte finanziell nach der Machtübernahme der Nationalsozialisten. D
 
 Lutz Heck nutzte seinerseits das politische Klima für seine kolonialrevisionistischen Ambitionen. Er unterstützte eine "Kolonial-Kunst-Ausstellung" in den Ausstellungshallen am Zoo 1933, wo er einen Nachbau des Zeltlagers seiner Fangexpeditionen ins östliche Afrika zeigte.[^14] 1927/28 hatte er unter anderem Giraffen in der ehemaligen deutschen Kolonie Deutsch-Ostafrika, dem nun durch die Briten beherrschten Tanganyika-Territory für den Zoo gefangen. Im Sommer 1934 veranstaltete der Zoo zum Kolonialgedenktag einen "Kolonialen Volkstag". In einer Presseführung wurden die Reporter zu "Deutschen Kolonialtieren" geführt - also Tieren aus den ehemaligen deutschen Kolonien. 1937 feierte der Zoo ein "Kolonialfest" unter dem Motto "Jeder mal in Afrika".[^15]
 
-Rechtzeitig zu den Olympischen Sommerspielen in Berlin 1936 eröffnete der Zoo eine 2000 Quadratmeter große Löwensteppe – ein Publikumsmagnet. Hinzu kamen 1936 die vielen Berlintourist*innen, die zu den Olympischen Spielen angereist waren. Sie bescherten dem Zoo einen Besucherrekord von mehr als zwei Millionen zahlenden Gästen.[^16] <!— Dear Lucy, please ignore/just copy over this reminder: Insert sentence about the zoo’s narrative of financial recovery from „Bobby“ death, once ready!--> **Der Zoo beteiligte sich an der aufwendigen Propaganda für die Spiele und stellte Tiere für das Olympische Dorf, in dem die Athletinnen und Athleten lebten, zur Verfügung.** Rund um einen zentralen Teich tummelten sich dort einheimische Wasservögel und Damwild aus dem Zoo.
+Rechtzeitig zu den Olympischen Sommerspielen in Berlin 1936 eröffnete der Zoo eine 2000 Quadratmeter große Löwensteppe – ein Publikumsmagnet. Hinzu kamen 1936 die vielen Berlintourist*innen, die zu den Olympischen Spielen angereist waren. Sie bescherten dem Zoo einen Besucherrekord von mehr als zwei Millionen zahlenden Gästen.[^16] <!--Insert sentence about the zoo’s narrative of financial recovery from "Bobby" death, once ready!--> **Der Zoo beteiligte sich an der aufwendigen Propaganda für die Spiele und stellte Tiere für das Olympische Dorf, in dem die Athletinnen und Athleten lebten, zur Verfügung.** Rund um einen zentralen Teich tummelten sich dort einheimische Wasservögel und Damwild aus dem Zoo.
 
 Im August 1935 wurde dem Zoo schließlich auf Initiative des Preußischen Ministerpräsidenten Hermann Göring eine Grundstückserweiterung am Tiergartenrand zugewiesen. Zunächst hatten Polizei und Reiter-SA (Sturmabteilung) Einspruch dagegen erhoben, da die Erweiterung einen Reitweg einschränken würde. Aber am Ende wurde dem Wunsch Görings entsprochen.[^17] Auf dem neuen Geländestreifen siedelte Heck in großen Gehegen "einheimische Tierarten" an. Neben "deutschen" Raubtieren wie dem Wolf und dem Bären wurden "deutsche Raubvögel" wie Adler und Bussard ausgestellt. Dass alle diese Tiere auch in Nachbarländern des Deutschen Reichs vorkamen, und einige, wie der Bär, in Deutschland gar nicht mehr, spielte für den propagandistischen Effekt keine Rolle. Vielmehr lässt sich diese Kontextualisierung als "deutsche Tiere" auch als eine Legitimierung der Expansionspolitik der Nationalsozialisten lesen.[^18] In einem nachgebauten Bauernstall wurden einheimische Nutztiere gezeigt. Auch diese wurden propagandistisch instrumentalisiert: die Präsentation sollte zeigen, dass Mensch und Tier auf den "älteren deutschen Gehöften" angeblich "innig" miteinander gelebt hätten.[^19] Die rustikale Architektur im Stil norddeutscher Bauernhäuser war ein "propagandistisches Zeichen der Verbundenheit mit dem bäuerlichen Stand und der heimischen Scholle. Der Giebel \[eines Tierhauses] würdigte in einem geschnitzten Spruchband die Sorge des 'Führers' um den deutschen Bauern. Die Blut-und-Boden-Ideologie \[war] hier unübersehbar."[^20]
 
@@ -526,7 +526,7 @@ Im August 1935 wurde dem Zoo schließlich auf Initiative des Preußischen Minist
 
 </figure>
 
-Im bislang streng nach taxonomischen Gesichtspunkten, siehe dazu auch \[[theme.taxonomical orders]], geordneten Zoo entstand nun zum ersten Mal ein Areal im Zoo, das der bis dahin abgelehnten Idee eines 'Geozoos' entsprach. Statt der Ordnung nach äußerlich erkennbaren Verwandtschaftsbeziehungen wurden geografische Gesichtspunkte zum Prinzip erhoben. Diese bis dato in Berlin abgelehnten Sammlungen von Tieren eines Naturraums wurden im Zoo im Zuge der nationalsozialistischen Propaganda eingeführt. Im Zentrum des "Deutschen Zoos", wie dieser Abschnitt fortan in den Publikationen des Zoos genannt wurde, stand das Gehege für eine besondere Rinderart – den sogenannten Auerochsen oder Ur. Diese Art gilt als Stammvater aller europäischen Hausrinderrassen. Allerdings war das letzte Exemplar dieser Art bereits im 17. Jahrhundert gestorben. Lutz Heck und sein Bruder Heinz, Direktor des Münchner Tierparks Hellabrunn, versuchten diese Tiere aus Kreuzungen verschiedener Rinderrassen wiedererstehen zu lassen.[^21]
+Im bislang streng nach taxonomischen Gesichtspunkten, siehe dazu auch [[theme.taxonomical orders]], geordneten Zoo entstand nun zum ersten Mal ein Areal im Zoo, das der bis dahin abgelehnten Idee eines 'Geozoos' entsprach. Statt der Ordnung nach äußerlich erkennbaren Verwandtschaftsbeziehungen wurden geografische Gesichtspunkte zum Prinzip erhoben. Diese bis dato in Berlin abgelehnten Sammlungen von Tieren eines Naturraums wurden im Zoo im Zuge der nationalsozialistischen Propaganda eingeführt. Im Zentrum des "Deutschen Zoos", wie dieser Abschnitt fortan in den Publikationen des Zoos genannt wurde, stand das Gehege für eine besondere Rinderart – den sogenannten Auerochsen oder Ur. Diese Art gilt als Stammvater aller europäischen Hausrinderrassen. Allerdings war das letzte Exemplar dieser Art bereits im 17. Jahrhundert gestorben. Lutz Heck und sein Bruder Heinz, Direktor des Münchner Tierparks Hellabrunn, versuchten diese Tiere aus Kreuzungen verschiedener Rinderrassen wiedererstehen zu lassen.[^21]
 
 <figure>
 
@@ -540,7 +540,7 @@ Im bislang streng nach taxonomischen Gesichtspunkten, siehe dazu auch \[[theme.t
 
 </figure>
 
-Ziel war es, ein deutsches Urtier zu erschaffen, das "als echtes Symbol deutscher Kraft und deutschen Mutes" gelten sollte.[^22] Er verwies in seinen Veröffentlichungen immer wieder auf das Nibelungenlied, in dem auch Siegfrieds Jagd auf Auerochsen besungen wird.[^23] Die Brüder Heck scheiterten. Es fehlte ihnen an genetischem Material, so dass sie lediglich eine sogenannte Abbildzüchtung erreichten, in der die äußerlichen Merkmale einer Tierart näherungsweise reproduziert werden. Der Versuch galt vielen ihrer Kollegen schon damals und gilt auch heute weithin als unwissenschaftlich. **Propagandistisch konnte Lutz Heck seine "Auerochsen" jedoch nicht zuletzt dazu nutzen, um auch mit Rindern nationalsozialistische Ideen zu bedienen.** 
+Ziel war es, ein deutsches Urtier zu erschaffen, das "als echtes Symbol deutscher Kraft und deutschen Mutes" gelten sollte.[^22] Er verwies in seinen Veröffentlichungen immer wieder auf das Nibelungenlied, in dem auch Siegfrieds Jagd auf Auerochsen besungen wird.[^23] Die Brüder Heck scheiterten. Es fehlte ihnen an genetischem Material, so dass sie lediglich eine sogenannte Abbildzüchtung erreichten, in der die äußerlichen Merkmale einer Tierart näherungsweise reproduziert werden. Der Versuch galt vielen ihrer Kollegen schon damals und gilt auch heute weithin als unwissenschaftlich. **Propagandistisch konnte Lutz Heck seine "Auerochsen" jedoch nicht zuletzt dazu nutzen, um auch mit Rindern nationalsozialistische Ideen zu bedienen.**
 
 Die Angleichung an die nationalsozialistische Propaganda lohnte sich für Lutz Heck. Am 1. Mai 1937, gleich nach Aufhebung des Aufnahmestopps von 1933, wurde Lutz Heck Mitglied der NSDAP.[^24] Das war nur für die Anwärter*innen möglich, die sich trotz fehlender Mitgliedschaft um die Partei verdient gemacht hatten. Im Sommer 1938 ernannte ihn Reichsforstmeister Göring zudem zum Leiter der Obersten Naturschutzbehörde.[^25]
 
@@ -552,15 +552,15 @@ Allerdings waren die Zooaktien nie Spekulationspapiere gewesen. Gewinnausschütt
 
 Laut Statuten des Aktienvereins existierte weder eine rechtliche Kontrolle darüber, wer die Aktien kaufte, noch musste der Zoo einem Verkauf zustimmen. Zwar waren die Zooaktien sogenannte Namensaktien, da mit ihnen ein Eintrittsrecht verbunden war, aber die Eintragung in das Aktienverzeichnis im Zoo erfolgte stets erst nach dem Verkauf. Das war dem Aufsichtsrat ein Dorn im Auge. Im Frühjahr 1938 plante er daher, dem Zoo durch eine Statutenänderung ein Zustimmungsrecht für alle Verkäufe zu übertragen. Damit hätte der Zoo jüdische Käufer\*innen ausschließen oder aber Druck auf beide Seiten zur Herabsetzung des Verkaufspreises ausüben können. Aus rechtlichen Gründen sah der Aufsichtsrat letzten Endes davon ab, da die Statutenänderung auch die nichtjüdischen Aktionär\*innen betroffen hätte, die wiederum hätten zustimmen müssen.[^27] Im Protokoll der Sitzung hörte sich das dann folgendermaßen an:
 
-> "Der Vorschlag des Vorstandes, den § 3 dahingehend zu verändern, dass die Umschreibung der Aktien von der Zustimmung der Gesellschaft abhängig gemacht wird, um auf diese Weise die Nichtarier unter den Aktionären allmählich auszuschalten, ist nach Ansicht unseres Rechtsbeistandes leider undurchführbar, weil \[...] bei bereits bestehenden Gesellschaften die Zustimmung aller betroffenen Aktionäre erforderlich ist."
+>"Der Vorschlag des Vorstandes, den § 3 dahingehend zu verändern, dass die Umschreibung der Aktien von der Zustimmung der Gesellschaft abhängig gemacht wird, um auf diese Weise die Nichtarier unter den Aktionären allmählich auszuschalten, ist nach Ansicht unseres Rechtsbeistandes leider undurchführbar, weil \[...] bei bereits bestehenden Gesellschaften die Zustimmung aller betroffenen Aktionäre erforderlich ist."
 
 Der Aufsichtsrat beschloss im Juli 1938 aber, die gesetzlich erlaubten zehn Prozent der eigenen Aktien von jüdischen Aktionären zu erwerben. Nach dem Novemberpogrom 1938 versuchten die letzten verbliebenen jüdischen Aktionär\*innen, ihre Wertpapiere zu verkaufen. Etwa 100 Aktien von jüdischen Besitzer\*innen erwarb der Zoo selbst und gab sie an "arische Besitzer" weiter.[^28] Die wenigen dokumentierten Zwischenverkäufe aus jenen Monaten zeigen, dass der Zoo versuchte, an diesen Transaktionen zu verdienen, indem er zu einem Niedrigpreis kaufte, die Aktie aber zu einem höheren Preis verkaufte.[^29]
 
 Nachdem Jüdinnen und Juden als Aktionär\*innen quasi aus dem Zoo ausgeschlossen waren, sollten sie nach Ansicht des Aufsichtsrates auch als Besucher\*innen aus dem Zoo verschwinden. Auf der Aufsichtsratssitzung vom 8. November 1938 schlug das Aufsichtsratsmitglied SS-Brigadeführers Ewald von Massow vor, jüdischen Kindern das Spielen auf dem allgemeinen Spielplatz zu verbieten. Zudem beschloss der Aufsichtsrat, dass zum kommenden Weihnachtsfest an der im Zoo aufgestellten Weihnachtskrippe Hinweise angebracht werden sollten, dass Juden dort unerwünscht seien.[^30] Das Protokoll der Sitzung vermerkte:
 
-> "\[...] diese Schilder könne man dann am 1. Januar offiziell an alle Eingänge stellen."
+>"\[...] diese Schilder könne man dann am 1. Januar offiziell an alle Eingänge stellen."
 
-In der folgenden Nacht ermordeten Nationalsozialisten in ganz Deutschland in einem organisierten Pogrom hunderte jüdische Deutsche und zerstörten Existenzen und Synagogen. Die Schuld für die geplanten und zentral koordinierten Ausschreitungen gaben die Nationalsozialisten den deutschen Juden und Jüdinnen. Der Berliner Polizeipräsident verbot ihnen in den folgenden Tagen den Besuch von Vergnügungsstätten. Die von der Zooleitung geplanten Maßnahmen nahmen die offizielle Politik vorweg. Die Institution, die sich immer als eine Bildungseinrichtung identifiziert hatte, schloss die durch rassistische Ideologie und Verfolgung aus dem 'Volk' herausdefinierte Besucher*innengruppe aus.
+In der folgenden Nacht ermordeten Nationalsozialisten in ganz Deutschland in einem organisierten Pogrom hunderte jüdische Deutsche und zerstörten Existenzen und Synagogen. Die Schuld für die geplanten und zentral koordinierten Ausschreitungen gaben die Nationalsozialisten den deutschen Juden und Jüdinnen. Der Berliner Polizeipräsident verbot ihnen in den folgenden Tagen den Besuch von Vergnügungsstätten. Die von der Zooleitung geplanten Maßnahmen nahmen die offizielle Politik vorweg. Die Institution, die sich immer als eine Bildungseinrichtung identifiziert hatte, schloss die durch rassistische Ideologie und Verfolgung aus dem 'Volk' herausdefinierte Besucher\*innengruppe aus.
 
 ## Der Zoo im Krieg
 
@@ -594,7 +594,7 @@ Der 1938 fertiggestellte neue Steinbockfelsen war von vornherein so gebaut worde
 
 </figure>
 
-Zudem wurden Notfallpläne erarbeitet, um im Fall eines Bombenangriffs ausbrechende Tiere einzufangen oder zu töten. Aus Mitarbeitern wurde eine Zoofeuerwehr aufgestellt. Beobachtungsposten in Erdbunkern sollten mit Netzen und Gewehren bewaffnet eingreifen, falls Tiere während eines Bombenangriffs entwichen. Diese Notfallpläne wurden später auch von anderen Zoos übernommen. In Berlin waren sie der Grund dafür, dass keine Raubtiere oder andere als gefährlich angesehene Tiere vorsorglich getötet wurden oder entkamen. Berichte über Zootiere, die über den Kurfürstendamm liefen, sind getrost ins Reich der Mythen zu verbannen.[^33] Im Zoo von London, deren Bevölkerung unter den deutschen Bombern im sogenannten Blitz litt, wurden vorsorglich Giftschlangen und Giftspinnen getötet und ähnliche Maßnahmen beschlossen. Hier sollten die Raubtiere im Falle eines Ausbruchs erschossen werden. Insofern bedeutete der Luftkrieg gegen die Zivilbevölkerung nicht nur, dass aus den als sicher wahrgenommenen Zootieren wieder potentiell wilde und gefährliche Tiere wurden.[^34] Der Krieg führten vor allem zu einer paradoxen Funktionsumkehr oder -erweiterung auf Seiten der Pfleger: zum kurativen Aspekt ihrer Arbeit kam unter den Bedingungen des Krieges ein potentiell tödlicher hinzu. Der ideologische Krieg drang in das Verhältnis zwischen Pflegern und Pfleglingen ein. <!-- Dear Lucy, please ignore/just copy over: Insert link to theme.care once ready! -->
+Zudem wurden Notfallpläne erarbeitet, um im Fall eines Bombenangriffs ausbrechende Tiere einzufangen oder zu töten. Aus Mitarbeitern wurde eine Zoofeuerwehr aufgestellt. Beobachtungsposten in Erdbunkern sollten mit Netzen und Gewehren bewaffnet eingreifen, falls Tiere während eines Bombenangriffs entwichen. Diese Notfallpläne wurden später auch von anderen Zoos übernommen. In Berlin waren sie der Grund dafür, dass keine Raubtiere oder andere als gefährlich angesehene Tiere vorsorglich getötet wurden oder entkamen. Berichte über Zootiere, die über den Kurfürstendamm liefen, sind getrost ins Reich der Mythen zu verbannen.[^33] Im Zoo von London, deren Bevölkerung unter den deutschen Bombern im sogenannten Blitz litt, wurden vorsorglich Giftschlangen und Giftspinnen getötet und ähnliche Maßnahmen beschlossen. Hier sollten die Raubtiere im Falle eines Ausbruchs erschossen werden. Insofern bedeutete der Luftkrieg gegen die Zivilbevölkerung nicht nur, dass aus den als sicher wahrgenommenen Zootieren wieder potentiell wilde und gefährliche Tiere wurden.[^34] Der Krieg führten vor allem zu einer paradoxen Funktionsumkehr oder -erweiterung auf Seiten der Pfleger: zum kurativen Aspekt ihrer Arbeit kam unter den Bedingungen des Krieges ein potentiell tödlicher hinzu. Der ideologische Krieg drang in das Verhältnis zwischen Pflegern und Pfleglingen ein. <!--Insert link to theme.care once ready! -->
 
 Andere Zoos wurden allerdings nicht geschützt. **Laut den Erinnerungen Antonina Zabinskas, der Ehefrau des Warschauer Zoodirektors Jan Zabinski, kam Lutz Heck direkt nach der Besetzung Warschaus in die Stadt und ordnete die Verlegung der schönsten Tiere in andere Zoos im Reichsgebiet an.** Dann leitete er im Auftrag des nationalsozialistischen Regimes die Liquidation des Warschauer Zoologischen Gartens ein.[^35]
 
@@ -666,13 +666,13 @@ In der Nacht auf den 23. November 1943 wurde der Zoo dann durch einen alliierten
 
 <figcaption>
 
-*\[[Liste der getöteten Tiere|material.list dead animals]], 1943. (AZGB. Alle Rechte vorbehalten.)*
+*[[material.list-of-dead-zoo-animals]], 1943. (AZGB. Alle Rechte vorbehalten.)*
 
 </figcaption>
 
 </figure>
 
-In der folgenden Nacht wurde das Aquarium zerstört. Eine Bombe schlug mitten in die zentrale Krokodilhalle ein. Durch geborstene Aquarienscheiben schwemmten große Wassermassen die Tiere bis auf die Straße und das angrenzende Zoogelände. Die wechselwarmen Reptilien und Schlangen erstarrten in der kalten Novembernacht sofort. Einige Kaimane konnten noch lebend im Erdgeschoss geborgen werden. Oskar Heinroth und die verbliebenen Mitarbeiter*innen versuchten, sie im Heizungskeller durchzubringen, scheiterten jedoch. Auch im Zoo selbst waren Tiere durch die Bombenschäden ihren Gehegen entwichen. Nun wirkten die vorbereiteten Schutzmaßnahmen. Fangtrupps griffen die Tiere auf oder töteten sie.
+In der folgenden Nacht wurde das Aquarium zerstört. Eine Bombe schlug mitten in die zentrale Krokodilhalle ein. Durch geborstene Aquarienscheiben schwemmten große Wassermassen die Tiere bis auf die Straße und das angrenzende Zoogelände. Die wechselwarmen Reptilien und Schlangen erstarrten in der kalten Novembernacht sofort. Einige Kaimane konnten noch lebend im Erdgeschoss geborgen werden. Oskar Heinroth und die verbliebenen Mitarbeiter\*innen versuchten, sie im Heizungskeller durchzubringen, scheiterten jedoch. Auch im Zoo selbst waren Tiere durch die Bombenschäden ihren Gehegen entwichen. Nun wirkten die vorbereiteten Schutzmaßnahmen. Fangtrupps griffen die Tiere auf oder töteten sie.
 
 <figure>
 
@@ -756,7 +756,7 @@ Zwar sind Zoos auch in anderen Regimen und Gesellschaftsformen anschlussfähig �
 
 [^25]: Vgl. Abschrift Ministerialdirektor Eberts Reichsforstamt an Bundesleiter des Reichsbundes für Biologie Dr. W. Greite, 05.02.1941, BArch, NS 21/1543; Aufsichtsratsprotokoll, 19.07.1938, AZGB O 0/2/2.
 
-[^26]: Monika Schmidt hat die Familien- und Verfolgungsgeschichten vieler jüdischer Zooaktionär*innen zusammengetragen. Immer wieder traf sie auf diese Spuren des bürgerlichen Stolzes auf den Besitz der Zooaktie. Schmidt, Monika. *Die jüdischen Aktionäre des Zoologischen Gartens zu Berlin: Namen und Schicksale*. Berlin: Metropol, 2014.
+[^26]: Monika Schmidt hat die Familien- und Verfolgungsgeschichten vieler jüdischer Zooaktionär\*innen zusammengetragen. Immer wieder traf sie auf diese Spuren des bürgerlichen Stolzes auf den Besitz der Zooaktie. Schmidt, Monika. *Die jüdischen Aktionäre des Zoologischen Gartens zu Berlin: Namen und Schicksale*. Berlin: Metropol, 2014.
 
 [^27]: Aufsichtsratsprotokoll 29.03.1938, AZGB, O 0/2/2.
 
