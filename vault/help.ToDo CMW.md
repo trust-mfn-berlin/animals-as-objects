@@ -13,7 +13,7 @@ created: 1618495172862
 
 ### stories
 
-- [[story.the-zoo-under-national-socialism]]
+- [[story.the-zoo-and-national-socialism]]
 - [[story.Knut]]
 - [[story.Catching Animals]] noch auslassen
 
