@@ -7,7 +7,7 @@ short_desc_de: Habitate und Tierhandelsfirmen
 date_end: 1973-12-31T11:00:00.000Z
 published: false
 title: Catching Animals
-updated: 1627473380689
+updated: 1627474023824
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 translators:
   translator_de_en: Lucy Gasser
@@ -28,10 +28,10 @@ date_start: 1844-12-31T23:06:32.000Z
 ---
  
 :::EN:::
- 
+
 In the summer of 1845, the board of the newly founded "Actien-Verein des Zoologischen Gartens bei Berlin" – the stock association of the Zoological Garden of Berlin – decided to ask Royal Prussian Consuls in the most important foreign trading and coastal cities to donate animals to the zoo. This was the result of a need to obtain urgently needed animals at low cost – especially those not native to Europe coveted by the public – in the face of a shortage of funds.
 
->"It would be very expedient in general to issue the same notificatorium  to the Royal Prussian Consuls in the most important commercial and coastal places, and at the same time to request them to send inexpensively-purchased live animals, possibly to donate them for the coming summer. This proposal was duly acknowledged, and its execution decided."[^1] 
+>"It would be very expedient in general to issue the same notificatorium  to the Royal Prussian Consuls in the most important commercial and coastal places, and at the same time to request them to send inexpensively-purchased live animals, possibly to donate them for the coming summer. This proposal was duly acknowledged, and its execution decided."[^1]
 
 It is no longer possible to reconstruct what immediate effect this call had, but in 1852, 35 animals – most of them gifts – arrived in Berlin. The shipment had been organized by the Prussian Consul General in Cairo, Baron von Pentz.[^2] These animals and virtually all animal objects in the zoos of the time had one thing in common: **For most of the over 250 years that modern zoos have existed, the majority of animals in all zoos worldwide were taken directly from the wild.** The establishment of dozens of new zoological gardens in Europe in the second half of the 19th century created a hitherto unseen desire for live animals – particularly those that were not native to Europe, since these, zoo founders expected, would be most captivating to the public. But the animals had to be captured first. In the first decades after 1850, two modes of animal acquisition emerged in particular: Gifts and status symbols, and purchases from opportunistic traders.
 
@@ -58,7 +58,7 @@ Like the animals exhibited in so-called travelling and manorial menageries that 
 For a long time, large mammals were rather the exception in zoos, and remained the domain of state gifts. The history of the animal trade probably began with sailors, captains and travelling merchants who, from about the end of the 18th century, brought chance purchases from non-European areas with them upon their return to the ports of Western and Southern Europe and sold them there. Since small animals were easier to transport, it was predominantly these that arrived in Europe. Amongst them were parrots and other birds, as well as various species of guenons and monkeys. Smaller predators and mammals that had been captured as young animals and were accustomed to humans were also common cargo. These were animals whose care did not make high demands of the traveller, and so could be taken care of in the spare time available on ship journeys of several months. This form of trade inevitably resulted in a limited range of species, and for the most part it was also a matter of individual animals.[^4] It is unknown how many animals died on the long sea voyages, were slaughtered or – when they could no longer be cared for – thrown overboard. However, it is fair to assume that growing demand and the expectation of profit led to an increased interest in the preservation and care of the animal commodity . Stables sprang up in ports where the incoming animals could be sold. Early examples were to be found in London and Amsterdam, two cities that became essential to acquiring new animals for the directors of the newly established European zoos. After 1870, moreover, the _Vente publique_ of the Societe Royale d'Anvers in Antwerp became a regular yearly event to which many directors travelled in order to obtain animals for their zoos. Here, animals were auctioned over the course of two days.[^5]
 
 ## Colonialism as a Precondition
- 
+
 The fact that these sales points in the ports and the auctions were always well 'filled', and state gifts were on the increase was closely connected to European colonial expansion. The exhibition of non-European wildlife in significant numbers in the newly established zoos was inextricably entangled with European expansion and imperialism. **The military infrastructures and violent foundations of colonialism were necessary preconditions for the chance purchases, the hunting of animals, their transportation to Europe, and their subsequent exhibition** Often colonial officials themselves hunted animals in order to make gifts of them. This is illustrated by the example of the lion that the governor of German East Africa Hermann v. Wissmann donated to the Berlin Zoo in 1896.
  
 <figure>
@@ -98,7 +98,7 @@ A major risk for the animal traders was transportation, during which the animals
 <figcaption>
 
 _Zoo director Lutz Heck to Hermann Pohle, the curator for mammalian inventory of the National History Museum of Berlin, 07.06.1934. (MfN HBSB S004-02-05 Nr. 97. All rights reserved.)_
- 
+
 </figcaption>
 
 </figure>
@@ -106,7 +106,7 @@ _Zoo director Lutz Heck to Hermann Pohle, the curator for mammalian inventory of
 Two of the four animal carcasses listed for the Natural History Museum had been delivered by animal traders just a short time before.
 
 ## The Big Players – Hagenbeck and Co.
- 
+
 Bundling large shipments could mitigate risk. Although gifts from colonial officials, individual catches, and imports by seafarers enriched the zoos, a further development was necessary to satisfy the demand of the zoos of Europe and North America in the long term. The emergence of professional animal trading companies was central to this, with the firms of Hagenbeck, Reiche, Ruhe and Jamrach at the forefront. It was these commercial animal traders who, by means of large animal transports, facilitated a steady supply of animals for the exhibition of a large number of different species.
 
 >"Although some animals came to zoological parks through donations, trades, or loans, zoos could not have come into existence, and their collections could not have taken the shape that they did, without a commercial trade in wild animals that provided a reliable supply of polar bears in San Antonio, for example, prairie dogs in Philadelphia, or zebra in Denver. Without animal trade few zoos could have displayed more than deer and birds – they would never have become 'real' zoos with elephants."[^12]
@@ -137,7 +137,7 @@ _Shipment of two young captured giraffes, 1928. (AZGB, photo Lutz Heck. All righ
 
 ## Last Stand – The 1950s
 
-After the end of the Second World War, Berlin lay in ruins. Buying the big cats and large mammals from Africa and Asia that were popular with the public was initially out of the question. So the hunt had to take place on home soil. The zoo director of the reconstruction years, [[material.Katharina Heinroth]] not only obtained animals from a disbanded circus, she also acquired native animals, caught in the forests in and around Berlin, to fill the empty enclosures – see [[story.native and exotic]]. It was not until the mid-1950s that the international animal trade once again became a thriving business. Although the trading companies Hagenbeck and Ruhe did not reattain the near monopoly on the animal trade they had enjoyed in the previous long decades, Europe’s war-battered zoos did turn to them to fill their empty enclosures once more.[^20] According to former zoo director Bernhard Blaszkiewitz, around 1960, there was a real rush on gorillas – and not only at the Berlin Zoo, where they had just built the ape house.[^21]  Between 1957 and 1968, the Berlin Zoological Garden received four male and four female animals captured in the wild.[^22] 
+After the end of the Second World War, Berlin lay in ruins. Buying the big cats and large mammals from Africa and Asia that were popular with the public was initially out of the question. So the hunt had to take place on home soil. The zoo director of the reconstruction years, [[material.Katharina Heinroth]] not only obtained animals from a disbanded circus, she also acquired native animals, caught in the forests in and around Berlin, to fill the empty enclosures – see [[story.native and exotic]]. It was not until the mid-1950s that the international animal trade once again became a thriving business. Although the trading companies Hagenbeck and Ruhe did not reattain the near monopoly on the animal trade they had enjoyed in the previous long decades, Europe’s war-battered zoos did turn to them to fill their empty enclosures once more.[^20] According to former zoo director Bernhard Blaszkiewitz, around 1960, there was a real rush on gorillas – and not only at the Berlin Zoo, where they had just built the ape house.[^21]  Between 1957 and 1968, the Berlin Zoological Garden received four male and four female animals captured in the wild.[^22]
 
 Colonial authorities and the governments of now independent former colonies were at this point still willing to issue capturing licenses. Zoo director [[material.Katharina Heinroth]] flew to Borneo and Sumatra in 1955. This was not a classic trapping expedition; Heinroth had previously received quotes from private individuals and applied to local authorities for capturing and export permits. She came primarily to see the animals in the wild and then select specimens that she would accompany on their journey to the Berlin Zoo. Katharina Heinroth used her vacation for this purpose and brought a shipment of animals back to Berlin.[^23]
 
@@ -207,7 +207,7 @@ Fractures were now appearing that signalled a possible end to the animal trade. 
 
 >"Although one might assume that our nutritional knowledge of captive animals is complete because of our long history of captive animal efforts, 60 to 70% of the animals dying in captivity die because of poor management and husbandry, with nearly 25% dying from nutritional problems."[^26]
 
-Overall, not only did the lifespan of animals in zoos increase, but the animals kept now also successfully reproduced more frequently. **So-called "Badezimmerarchitektur" – relatively spartan "bathroom architecture" – was introduced: an unsuitable form of zoo architecture by today's standards, but new at the time.** Tiled indoor stalls were easy to clean and thus reduced threats produced by unwanted bacteria. In the 1960s, there was little sensitivity for the fact that while this improved the animals’ lifespan, it did little for their wellbeing. Glass fronts, which became widespread from the late 1970s onward, constituted another architectural improvement in housing conditions. They prevented, for example, apes from contracting germs from human visitors and being fed unsuitable food. Read more on this in [[story.Zoo Architecture]], [[story.feeding]] and [[story.fütternVerboten ]].
+Overall, not only did the lifespan of animals in zoos increase, but the animals kept now also successfully reproduced more frequently. **So-called "Badezimmerarchitektur" – relatively spartan "bathroom architecture" – was introduced: an unsuitable form of zoo architecture by today's standards, but new at the time.** Tiled indoor stalls were easy to clean and thus reduced threats produced by unwanted bacteria. In the 1960s, there was little sensitivity for the fact that while this improved the animals’ lifespan, it did little for their wellbeing. Glass fronts, which became widespread from the late 1970s onward, constituted another architectural improvement in housing conditions. They prevented, for example, apes from contracting germs from human visitors and being fed unsuitable food. Read more on this in [[story.Zoo Architecture]], [[story.feeding]] and [[story.fütternVerboten]].
 
 <figure>
 
@@ -334,8 +334,8 @@ Der Aufbau einer kolonialen Infrastruktur erleichterte den Jägern und später d
 In den deutschen Kolonien waren zunächst kaum professionelle Tierhändler aktiv, was nach Ansicht Carl Georg Schillings, selbst Jäger und Tierfänger, an den mangelhaften Verkehrsrouten und dem insgesamt schlechten Klima der deutschen Kolonien lag. Er schilderte 1905 die Lage:
 
 >"Weder aus Deutsch-Ost-, noch aus -Südwest- oder -Westafrika ist es überhaupt bis zum heutigen Tage gelungen, irgendwelche regelmäßige Einfuhr von lebenden Tieren in Schwung zu bringen. Was der Initiative des bekannten Tierimporteurs Menges häufig im Somali-Lande, – einem allerdings ganz unvergleichlich gesünderen Lande, in dem Kamele und Pferde leben können – gelungen ist: die Organisation regelmäßiger Exporte fremdländischer Tiere ist für irgend eine unserer kolonialen Besitzungen immer noch nicht in die Wege geleitet."[^9]
- 
-Für Schillings begründete dieser Befund die Forderung nach Kapital und Engagement auf deutscher Seite, denn solch ein regelmäßiger Export aus den deutschen Kolonien sei im Interesse der Wissenschaft, ein "nationale[s] Interesse".
+
+Für Schillings begründete dieser Befund die Forderung nach Kapital und Engagement auf deutscher Seite, denn solch ein regelmäßiger Export aus den deutschen Kolonien sei im Interesse der Wissenschaft, ein "nationale\[s] Interesse".
 
 ## Ein hoher Preis und hohe Risiken
 
@@ -345,7 +345,7 @@ Ein wesentliches Risiko für die Tierhändler war der Transportweg, auf dem die 
 
 <figure>
 
-![Maschinengeschriebener Brief: (...) Der am 5.10.1925 eingegangene männliche Löwe wurde am 29. Februar 1912 aus Rhodesien importiert. Das am 16.8.1927 eingegangene Wasserschwein wurde am 28.7.1927 von der Firma Ruhe geliefert. Den am 7.3.1925 eingegangenen braunen Fuchskusu erhielten wir am 7.3.1925 von der Firma Hagenbeck, den am 12.7.1926 eingegangenen grauen Fuchskusu am 3.6.1912 von Jamrach, den am 23.5.1926 eingegangenen Greifstachler am 12.3.24 von Eimecke, Hamburg (...) ](images/cmw/MfN_HBSB_S004_02_05_Nr97.jpg)
+![Maschinengeschriebener Brief: (...) Der am 5.10.1925 eingegangene männliche Löwe wurde am 29. Februar 1912 aus Rhodesien importiert. Das am 16.8.1927 eingegangene Wasserschwein wurde am 28.7.1927 von der Firma Ruhe geliefert. Den am 7.3.1925 eingegangenen braunen Fuchskusu erhielten wir am 7.3.1925 von der Firma Hagenbeck, den am 12.7.1926 eingegangenen grauen Fuchskusu am 3.6.1912 von Jamrach, den am 23.5.1926 eingegangenen Greifstachler am 12.3.24 von Eimecke, Hamburg (...)](images/cmw/MfN_HBSB_S004_02_05_Nr97.jpg)
 
 <figcaption>
 
@@ -377,7 +377,7 @@ Zu Beginn des 20. Jahrhunderts organisierten oder finanzierten einige wenige Zoo
 
 <figure>
 
-![Schwarz-weiß Foto: Zwei kleine Giraffen in Holzkäfig auf dem Heck eines Lastwagens. Die Person am Steuer ist nicht gut zu sehen. Auf dem Dach über dem Steuer sitzt ein weißer Mensch mit Schnauzer und Tropenhut in hohen Stiefeln, die Beine baumeln vom Dach. Hinter ihm sitzt noch eine nicht erkennbare Person. ](images/cmw/S_3_82_Giraffentransport.jpg)
+![Schwarz-weiß Foto: Zwei kleine Giraffen in Holzkäfig auf dem Heck eines Lastwagens. Die Person am Steuer ist nicht gut zu sehen. Auf dem Dach über dem Steuer sitzt ein weißer Mensch mit Schnauzer und Tropenhut in hohen Stiefeln, die Beine baumeln vom Dach. Hinter ihm sitzt noch eine nicht erkennbare Person.](images/cmw/S_3_82_Giraffentransport.jpg)
 
 <figcaption>
 
@@ -395,7 +395,7 @@ Noch waren sowohl Kolonialbehörden als auch die Regierungen nun unabhängiger e
 
 <figure>
 
-![Schwarz-weiß Porträt: Lachende Frau mit Hut,  mit einem Affen auf der Schulter. Im Vordergrund Blumengestecke.](images/cmw/Heinroth_Putzi_1955.jpg)
+![Schwarz-weiß Porträt: Lachende Frau mit Hut, mit einem Affen auf der Schulter. Im Vordergrund Blumengestecke.](images/cmw/Heinroth_Putzi_1955.jpg)
 
 <figcaption>
 
@@ -449,17 +449,17 @@ _"Kosko" rennt mit begeisterten Kindern um die Wette, 1958. (Tierpark Berlin, Fo
 </figcaption>
 
 </figure>
- 
+
 In heutigem Verständnis war dieser Erfolg letztlich zu dem hohen Preis des Todes der anderen Tiere während der langen Wartezeit erlangt worden.
- 
+
 ## Bessere Haltungsbedingungen, Zuchterfolge und das Ende des professionellen Tierfangs
- 
+
 Es zeigten sich nun auch Brüche, die von einem möglichen Ende des Tierhandels kündeten. Bereits auf den Tagungen der [[Internationalen Union der Zoodirektoren|material.WAZA]] 1958 und 1959 wurde durch die amtierenden Zoodirektoren auf aussterbende Arten hingewiesen. Tierparkdirektor Heinrich Dathe berichtete vom Panda und Silberfasan, Bernhard Grzimek engagierte sich Anfang der 1960er für einen Importstopp von Orang-Utans. Mehr dazu in [[story.Zoos and Conservation]]. Hinzu kam, dass sich die Tiermedizin, insbesondere die reproduktive Medizin, und die Verhaltensbiologie weiterentwickelten und diese Erkenntnisse auch von den Verantwortlichen in den Zoos rezipiert wurden. Antibiotika und Kreislaufmittel kamen zur Anwendung und insbesondere neue Erkenntnisse zur Ernährung sowie wachsende Gehegegrößen bewirkten längere Lebensdauern von Tieren in menschlicher Obhut. Zwar hieß es noch 1983 unter Berufung auf den Zoo in Philadelphia:
- 
+
 >"Obwohl man annehmen könnte, dass unser Wissen über die Ernährung von Tieren in Gefangenschaft aufgrund unserer langjährigen Bemühungen um Tiere in Gefangenschaft vollständig ist, sterben 60 bis 70 % der Tiere, die in Gefangenschaft sterben, aufgrund von schlechtem Management und schlechter Haltung, wobei fast 25 % aufgrund von Ernährungsproblemen sterben."[^26]
- 
+
 Aber insgesamt verlängerten sich nicht nur die Lebensdauer in Zoos, die gehaltenen Tiere vermehrten sich nun auch häufiger durch Nachzuchten. **Eine nach heutigem Verständnis ungeeignete, aber damals neue Form der Zooarchitektur, die sogenannte Badezimmerarchitektur hielt Einzug.** Geflieste Innenställe ließen sich leicht reinigen und reduzierten damit den Einfluss von Bakterien. Ein Bewusstsein dafür, dass das ausschließlich die Lebensdauer, nicht aber das Wohlbefinden der Tiere verbesserte, war in den 1960er Jahren nicht ausgeprägt. Eine andere architektonische Verbesserung der Haltungsbedingungen bildeten die sich ab Ende der 1970er verbreitenden Glasfronten. Sie verhinderten zum Beispiel, dass sich Menschenaffen an den menschlichen Besucher\*innen mit Keimen ansteckten oder ihnen ungeeignetes Futter verabreicht wurde. Mehr dazu bei [[story.Zoo Architecture]], [[story.feeding]] und [[story.fütternVerboten]].
- 
+
 <figure>
 
 ![Person lehnt sich gegen Geländer vor einem vergitterten und in mehrere Räume unterteilten Käfig, in dem ein Löwe ohne Mähne auf dem Boden und ein Löwe mit Mähne auf einem Vorsprung an der Wand liegen. Von der Mitte des Käfigs bis zur Wand lehnt ein großer Baumstamm.](images/cmw/Neues_Raubtierhaus_14061973.jpg)
@@ -471,7 +471,7 @@ _Das Raubtierhaus des Berliner Zoos war nur ein Beispiel für die 'Badezimmerarc
 </figcaption>
 
 </figure>
- 
+
 Seit den 1960er Jahren traten zunehmend [[Züchtungen|story.Breeding Animals for the Zoo]], also in Zoos gezeugte Nachkommen, und der Tausch von Tieren zwischen den Zoos an die Stelle der Wildfänge. Hierzu mehr in [[theme.Getting Zoo Animals]]. Heute werden im Rahmen des Artenschutzes von Zoos in der Regel keine Individuen gefährdeter Arten mehr aus der Natur entnommen.
 
 1975 gab es ein Übereinkommen über den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen: Convention on International Trade in Endangered Species of Wild Fauna and Flora, kurz [[material.cites]]. Es beendete letztlich den Fang von gefährdeten Tieren in ihren Lebensräumen für Zoos weitgehend. Für Tiere, die von der Weltnaturschutzunion (International Union for Conservation of Nature, IUCN), einer internationalen Nichtregierungsorganisation, als gefährdet eingeschätzt werden, ist der kommerzielle Handel mit Wildfängen verboten. Der Handel mit Nachzuchten und nicht-kommerzieller Handel sind aber möglich, sofern keine Gefährdung für den Fortbestand der Art besteht und nationale Gesetze eingehalten werden. Unter die besonders geschützten Arten fallen bereits viele der bei den Zoobesucher\*innen beliebtesten Schautiere.[^27] Weitere unterliegen strengen Regelungen. Hinzu kommen veterinärmedizinische Regelungen zur Vermeidung von Seuchen und Krankheiten. Für Zoos bietet sich bei den Säugetieren kaum noch ein Anreiz, in ihren Lebensräumen gefangene Wildtiere zu erwerben. Einzig Aquarien beziehen nach wie vor – mit Ausnahme vieler Reptilien – Entnahmen aus den Meeren.
