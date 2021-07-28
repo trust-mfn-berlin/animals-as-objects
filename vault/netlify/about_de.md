@@ -47,7 +47,7 @@ Lorem ipsum.
 
 #### Therese Kienemund
 
-Therese Kienemund erwarb nach einem Bachelor-Abschluss und einem Teaching Science Fellowship in Biologie am Dartmouth College, USA, einen Master-Abschluss in Wissenschaftsgeschichte an der Technischen Universität Berlin. Therese forschte zur Ausstellungsgeschichte von Insektenmodellen im Museum für Naturkunde Berlin und zu gerechtigkeitsorientierten Ansätzen für die Beteiligung der Öffentlichkeit an wissenschaftlicher Forschung. Weitere Forschungsinteressen von Therese sind die vergeschlechtlichten und rassifizierten Geschichten der Hebammen*kunde. Im Projekt "Animals as Objects" war Therese verantwortlich für die Webredaktion und konzentrierte sich auf das Copy-Editing, das Content-Management und die offene Kommunikation mit allen Mitarbeitenden.
+Therese Kienemund erwarb nach einem Bachelor-Abschluss und einem Teaching Science Fellowship in Biologie am Dartmouth College, USA, einen Master-Abschluss in Wissenschaftsgeschichte an der Technischen Universität Berlin. Therese forschte zur Ausstellungsgeschichte von Insektenmodellen im Museum für Naturkunde Berlin und zu gerechtigkeitsorientierten Ansätzen für die Beteiligung der Öffentlichkeit an wissenschaftlicher Forschung. Weitere Forschungsinteressen von Therese sind die vergeschlechtlichten und rassifizierten Geschichten der Hebammen*kunde. Im Projekt "Tiere als Objekte" war Therese verantwortlich für die Webredaktion und konzentrierte sich auf das Copy-Editing, das Content-Management und die offene Kommunikation mit allen Mitarbeitenden.
 
 #### Britta Lange
 
