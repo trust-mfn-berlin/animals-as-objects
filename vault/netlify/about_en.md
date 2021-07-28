@@ -17,11 +17,13 @@ _Routes_ are curated sets of articles, selected to raise new questions beyond th
 
 All technical components are open source. We worked collaboratively on [Dendron](https://www.dendron.so/), synchronised via [git](https://git-scm.com/), and published directly from git through a self-hosted version of the content management system [Netlify](https://www.netlify.com/). [Arthur and Son La will provide one more sentence on the technical components.]
 
+**Contact**: humanities(at)mfn.berlin
+
 ## About the project
 
 The research project [Animals as Objects. Zoological Gardens and Natural History Museum Berlin, 1810 to 2020](https://www.museumfuernaturkunde.berlin/en/science/animals-objects) was funded by the German Federal Ministry of Education and Research (BMBF). The joint project of the Museum für Naturkunde Berlin, the Humboldt-University of Berlin and the Zoologischer Garten Berlin AG ran from 01 September 2018 until 31 December 2021.
 
-Contact: humanities(at)mfn.berlin
+[link to other publications]
 
 ## About the people
 
