@@ -6,7 +6,7 @@ desc: >-
   and Tierpark have come, and continue to come, from a variety of sources. These
   have their own histories, and create challenges for these institutions that
   are political, logistical and moral.
-updated: 1628070170203
+updated: 1628083600807
 created: 1618498026144
 license: CC BY-SA
 title_de: Wie kommen Tiere in den Zoo?
@@ -58,7 +58,9 @@ _The two Asian elephants "Omar" and "Rostom" were gifts of the British court to 
 
 The practice of gift-giving continued with colonial expansion, from which all zoos benefitted, including the Berlin Zoological Garden. Members of the imperial household, governors, colonial societies, as well as merchants and colonial officials involved in the exploitation of conquered territories donated animals from the colonies to the zoo in the imperial capital. Beginning in 1891, the zoo’s annual reports regularly mention gifts from German colonial territories. In 1907, the Zoological Garden had eleven lions in its possession, and only one of these animals had not been a gift from the colonies.[^1]
 
-As described in [[Animal Gifts|story.Gifting Objects]], in some particular cases, these political gifts or loans still carry significant weight in Berlin zoos today. This was also true of the Tierpark Berlin, located in the east of the divided city, which was supported by donations from socialist countries. In the last three decades of the 19th century, however, another important provenance of animals, which was also largely based on the exploitation of animal populations living in their natural habitats, had already become a major feature – the trade in animals.[^2]
+In some particular cases, political gifts or loans still carry significant weight in Berlin zoos today. During the Cold War, this was true of the Zoological Garden in West Berlin as well as the Tierpark Berlin, located in the east of the divided city, which was supported by donations from socialist countries. A well-known example of political gifts were the pandas "Bao Bao" and "Tien Tien", which came to the Berlin Zoo in 1980 as a gift from Chinese Prime Minister Hua Guofeng to the West German head of government, Helmut Schmidt.
+
+In the last three decades of the 19th century, however, another important provenance of animals, which was also largely based on the exploitation of animal populations living in their natural habitats, had already become a major feature – the trade in animals.[^2]
 
 ## The International Animal Trade
 
@@ -232,7 +234,9 @@ _Die beiden asiatischen Elefanten "Omar" und "Rostom" waren 1881 Geschenke des m
 
 Diese Praxis des Schenkens setzte sich mit der kolonialen Expansion fort, von der alle Zoos – auch der Berliner Zoologische Garten – profitierten. Mitglieder des kaiserlichen Haushaltes, Gouverneure, Kolonialgesellschaften und an der Ausbeutung der eroberten Länder beteiligte Kaufleute oder Kolonialbeamte schenkten dem Zoo der Reichshauptstadt Tiere aus den Kolonien. <!-- Hallo Clemens - da es Gifting Objects nicht geben wird, brauchen wir hier einen Satz dazu, auf welche Art sich die Kolonialgesellschaften etc. die Tiere aneigneten und wie sie in die Lage kamen, diese zu verschenken.--> Seit 1891 wurden in den Zoo-Geschäftsberichten regelmäßig Geschenke aus den deutschen Kolonialgebieten erwähnt. 1907 besaß der Zoologische Garten elf Löwen und nur ein einziges dieser Tiere war kein Geschenk aus den Kolonien gewesen.[^1]
 
-Wie in [[story.Gifting Objects]] beschrieben wird, haben diese politischen Geschenke oder Leihgaben in Einzelfällen bis heute ein großes Gewicht in den Berliner Tiergärten. Das galt auch für den im Osten der geteilten Stadt gelegenen Tierpark Berlin, der durch Schenkungen aus sozialistischen Ländern unterstützt wurde. In den letzten drei Jahrzehnten des 19. Jahrhunderts kam aber bereits eine weitere wichtige Provenienz von Tieren, die ebenso weitgehend auf der Ausbeutung der in den natürlichen Lebensräumen lebenden Tierpopulationen beruhte, hinzu – der Tierhandel.[^2]
+Politische Geschenke oder Leihgaben haben in Einzelfällen bis heute ein großes Gewicht in den Berliner Tiergärten. Während des Kalten Krieges galt das sowohl für den Zoologischen Garten im Westen Berlins als auch für den im Osten der geteilten Stadt gelegenen Tierpark Berlin, der durch Schenkungen aus sozialistischen Ländern unterstützt wurde. Ein bekanntes Beispiel für politische Tiergeschenke waren die Pandas "Bao Bao" und "Tien Tien", die 1980 als Geschenk des chinesischen Ministerpräsidenten Hua Guofeng an den westdeutschen Regierungschef Helmut Schmidt in den Berliner Zoo kamen.
+
+In den letzten drei Jahrzehnten des 19. Jahrhunderts war aber bereits eine weitere wichtige Provenienz von Tieren hinzugekommen, die ebenso weitgehend auf der Ausbeutung der in den natürlichen Lebensräumen lebenden Tierpopulationen beruhte – der Tierhandel.[^2]
 
 ## Internationaler Tierhandel
 
