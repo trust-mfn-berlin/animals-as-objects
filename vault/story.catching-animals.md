@@ -1,30 +1,32 @@
 ---
+id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
+title: Catching Animals
+desc: >-
+  For a long time, animals for zoos were almost exclusively acquired by being
+  taken from their habitats. Trappers mostly worked for commercial animal trade
+  companies. 
+updated: 1628072349691
+created: 1618492547915
 license: CC BY-SA
 title_de: Tiere fangen
-created: 1618492547915
 author: Clemens Maier-Wolthausen
 short_desc_de: Habitate und Tierhandelsfirmen
-date_end: 1973-12-31T11:00:00.000Z
+date_end: '1973-12-31T11:00:00.000Z'
 published: false
-title: Catching Animals
-updated: 1628072349691
-id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 translators:
   translator_de_en: Lucy Gasser
-desc: "For a long time, animals for zoos were almost exclusively acquired by
-  being taken from their habitats. Trappers mostly worked for commercial animal
-  trade companies. "
-desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren
-  Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle
-  Tierhandelsfirmen.
+desc_de: >-
+  Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten
+  entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen.
 short_desc: Habitats and animal trade companies
 cover_image:
   image: /images/cover-catching-animals.jpg
-  alt: "Transporting two giraffes, captured on colonised land in 1928. Transport
-    von zwei Giraffen, 1928 auf kolonisiertem Gebiet gefangen. Source: AZGB,
-    photo Lutz Heck. All rights reserved."
+  alt: >-
+    Transporting two giraffes, captured on colonised land in 1928. Transport von
+    zwei Giraffen, 1928 auf kolonisiertem Gebiet gefangen. Source: AZGB, photo
+    Lutz Heck. All rights reserved.
 tao_type: story
-date_start: 1844-12-31T23:06:32.000Z
+date_start: '1844-12-31T23:06:32.000Z'
 ---
  
 :::EN:::
@@ -137,9 +139,9 @@ _Shipment of two young captured giraffes, 1928. (AZGB, photo Lutz Heck. All righ
 
 ## Last Stand – The 1950s
 
-After the end of the Second World War, Berlin lay in ruins. Buying the big cats and large mammals from Africa and Asia that were popular with the public was initially out of the question. So the hunt had to take place on home soil. The zoo director of the reconstruction years, [[material.Katharina Heinroth]] not only obtained animals from a disbanded circus, she also acquired native animals, caught in the forests in and around Berlin, to fill the empty enclosures – see [[story.native and exotic]]. It was not until the mid-1950s that the international animal trade once again became a thriving business. Although the trading companies Hagenbeck and Ruhe did not reattain the near monopoly on the animal trade they had enjoyed in the previous long decades, Europe’s war-battered zoos did turn to them to fill their empty enclosures once more.[^20] According to former zoo director Bernhard Blaszkiewitz, around 1960, there was a real rush on gorillas – and not only at the Berlin Zoo, where they had just built the ape house.[^21]  Between 1957 and 1968, the Berlin Zoological Garden received four male and four female animals captured in the wild.[^22]
+After the end of the Second World War, Berlin lay in ruins. Buying the big cats and large mammals from Africa and Asia that were popular with the public was initially out of the question. So the hunt had to take place on home soil. The zoo director of the reconstruction years, [[material.katharina-heinroth]] not only obtained animals from a disbanded circus, she also acquired native animals, caught in the forests in and around Berlin, to fill the empty enclosures – see [[story.native and exotic]]. It was not until the mid-1950s that the international animal trade once again became a thriving business. Although the trading companies Hagenbeck and Ruhe did not reattain the near monopoly on the animal trade they had enjoyed in the previous long decades, Europe’s war-battered zoos did turn to them to fill their empty enclosures once more.[^20] According to former zoo director Bernhard Blaszkiewitz, around 1960, there was a real rush on gorillas – and not only at the Berlin Zoo, where they had just built the ape house.[^21]  Between 1957 and 1968, the Berlin Zoological Garden received four male and four female animals captured in the wild.[^22]
 
-Colonial authorities and the governments of now independent former colonies were at this point still willing to issue capturing licenses. Zoo director [[material.Katharina Heinroth]] flew to Borneo and Sumatra in 1955. This was not a classic trapping expedition; Heinroth had previously received quotes from private individuals and applied to local authorities for capturing and export permits. She came primarily to see the animals in the wild and then select specimens that she would accompany on their journey to the Berlin Zoo. Katharina Heinroth used her vacation for this purpose and brought a shipment of animals back to Berlin.[^23]
+Colonial authorities and the governments of now independent former colonies were at this point still willing to issue capturing licenses. Zoo director [[material.katharina-heinroth]] flew to Borneo and Sumatra in 1955. This was not a classic trapping expedition; Heinroth had previously received quotes from private individuals and applied to local authorities for capturing and export permits. She came primarily to see the animals in the wild and then select specimens that she would accompany on their journey to the Berlin Zoo. Katharina Heinroth used her vacation for this purpose and brought a shipment of animals back to Berlin.[^23]
 
 <figure>
 
@@ -389,9 +391,9 @@ _Transport zwei gefangener junger Giraffen, 1928. (AZGB, Foto Lutz Heck. Alle Re
 
 ## Letztes Aufbäumen – die 1950er Jahre
 
-Nach dem Ende des Zweiten Weltkriegs lag Berlin in Trümmern, ein Kauf der beim Publikum beliebten Raubkatzen oder Großsäuger aus Afrika und Asien kam zunächst nicht in Frage. Die Jagd musste also auf heimischem Boden stattfinden. Die Zoodirektorin der Jahre des Wiederaufbaus, [[material.Katharina Heinroth]] bezog nicht nur Tiere aus einem aufgelösten Zirkus, sie bekam zum Füllen der leeren Gehege auch einheimische Tiere, gefangen in den Wäldern in und um Berlin, siehe  [[story.native and exotic]]. Erst zur Mitte der 1950er Jahre wurde der internationale Tierhandel noch einmal ein florierendes Geschäft. Zwar erreichten die Handelsfirmen Hagenbeck und Ruhe das lange Jahrzehnte bestehende quasi-Monopol im Tierhandel nicht mehr, aber die kriegszerstörten Tiergärten in Europa füllten ihre leeren Gehege mit ihrer Hilfe wieder auf.[^20] Laut dem ehemaligen Zoodirektor Bernhard Blaszkiewitz begann nicht nur im Berliner Zoo um 1960 ein regelrechter Ansturm auf Gorillas.[^21] In Berlin hatte man gerade das Menschenaffenhaus gebaut. Zwischen 1957 und 1968 erhielt der Berliner Zoologische Garten vier männliche und vier weibliche Wildfänge.[^22]
+Nach dem Ende des Zweiten Weltkriegs lag Berlin in Trümmern, ein Kauf der beim Publikum beliebten Raubkatzen oder Großsäuger aus Afrika und Asien kam zunächst nicht in Frage. Die Jagd musste also auf heimischem Boden stattfinden. Die Zoodirektorin der Jahre des Wiederaufbaus, [[material.katharina-heinroth]] bezog nicht nur Tiere aus einem aufgelösten Zirkus, sie bekam zum Füllen der leeren Gehege auch einheimische Tiere, gefangen in den Wäldern in und um Berlin, siehe  [[story.native and exotic]]. Erst zur Mitte der 1950er Jahre wurde der internationale Tierhandel noch einmal ein florierendes Geschäft. Zwar erreichten die Handelsfirmen Hagenbeck und Ruhe das lange Jahrzehnte bestehende quasi-Monopol im Tierhandel nicht mehr, aber die kriegszerstörten Tiergärten in Europa füllten ihre leeren Gehege mit ihrer Hilfe wieder auf.[^20] Laut dem ehemaligen Zoodirektor Bernhard Blaszkiewitz begann nicht nur im Berliner Zoo um 1960 ein regelrechter Ansturm auf Gorillas.[^21] In Berlin hatte man gerade das Menschenaffenhaus gebaut. Zwischen 1957 und 1968 erhielt der Berliner Zoologische Garten vier männliche und vier weibliche Wildfänge.[^22]
 
-Noch waren sowohl Kolonialbehörden als auch die Regierungen nun unabhängiger ehemaliger Kolonien bereit, Fanglizenzen zu vergeben. Die Zoodirektorin [[material.Katharina Heinroth]] flog 1955 nach Borneo und Sumatra. Es handelte sich dabei nicht um eine klassische Fangfahrt, Heinroth hatte zuvor von Privatleuten Angebote bekommen und bei lokalen Behörden um die Fang- und Ausfuhrerlaubnisse angesucht. Sie kam vor allem, um die Tiere in der Wildbahn zu sehen und dann Exemplare auszusuchen und auf dem Transport in den Berliner Zoo zu begleiten. Katharina Heinroth nutzte dafür ihren Urlaub und brachte einen Tiertransport mit nach Berlin.[^23]
+Noch waren sowohl Kolonialbehörden als auch die Regierungen nun unabhängiger ehemaliger Kolonien bereit, Fanglizenzen zu vergeben. Die Zoodirektorin [[material.katharina-heinroth]] flog 1955 nach Borneo und Sumatra. Es handelte sich dabei nicht um eine klassische Fangfahrt, Heinroth hatte zuvor von Privatleuten Angebote bekommen und bei lokalen Behörden um die Fang- und Ausfuhrerlaubnisse angesucht. Sie kam vor allem, um die Tiere in der Wildbahn zu sehen und dann Exemplare auszusuchen und auf dem Transport in den Berliner Zoo zu begleiten. Katharina Heinroth nutzte dafür ihren Urlaub und brachte einen Tiertransport mit nach Berlin.[^23]
 
 <figure>
 

@@ -1,26 +1,27 @@
 ---
+id: 1a9793b7-746f-4a58-bfa2-54596b72b4bc
+title: Oskar Heinroth
+desc: EN desc
+updated: 1620288938908
+created: 1618503001471
 license: CC BY-SA
 title_de: Oskar Heinroth
-created: 1618503001471
 author: Clemens Maier-Wolthausen
 short_desc_de: Foto von Oskar Heinroth mit drei Uralkäuzen
-date_end: 1945-12-31T11:00:00.000Z
+date_end: '1945-12-31T11:00:00.000Z'
 published: false
-title: Oskar Heinroth
-updated: 1620288938908
-id: 1a9793b7-746f-4a58-bfa2-54596b72b4bc
 translators:
   translator_de_en: Lucy Gasser
-desc: EN desc
 desc_de: Foto von Oskar Heinroth mit drei Uralkäuzen
 short_desc: EN short desc
 cover_image:
   image: /images/cover-oskar-heinroth.jpg
-  alt: "Berlin aquarium director Oskar Heinroth with three Ural owls, 1929.
-    Direktor des Berliner Aquariums Oskar Heinroth mit drei Uralkäuzen, 1929.
-    Source: AZGB. All rights reserved."
+  alt: >-
+    Berlin aquarium director Oskar Heinroth with three Ural owls, 1929. Direktor
+    des Berliner Aquariums Oskar Heinroth mit drei Uralkäuzen, 1929. Source:
+    AZGB. All rights reserved.
 tao_type: material
-date_start: 1903-12-31T23:00:00.000Z
+date_start: '1903-12-31T23:00:00.000Z'
 ---
 
 :::EN:::
@@ -40,6 +41,6 @@ Oskar Heinroth mit drei von ihm großgezogenen Uralkäuzen, 1929. (AZGB)
 
 **In der im Aquarium gelegenen Dienstwohnung zogen Heinroth und seine Frau Magdalena bis 1932 praktisch alle einheimischen Vögel aus Eiern bis ins adulte Stadium groß, dokumentierten ihr Wachstum und beobachteten ihr Verhalten.** Daraus entstand das zwischen 1924 und 1933 in vier Bänden veröffentlichte Werk: Die Vögel Mitteleuropas in allen Lebens- u. Entwicklungsstufen photogr. aufgenommen u. in ihrem Seelenleben bei d. Aufzucht vom Ei ab beobachtet. Oskar Heinroth litt des vielen von den Vögeln verursachten Staubs an einer starken Allergie, die bei ihm nächtliche Luftnot verursachte. Dennoch machte das Ehepaar weiter.[^ohein1]
 
-**Oskar Heinroth gilt als einer der Begründer der vergleichenden Verhaltensforschung** (Ethologie). Der talentierte Fotograf und humorvolle Wissenschaftler verstand es allgemeinverständlich die Ergebnisse seiner Forschung aufzuarbeiten. Zusammen mit seiner zweiten Ehefrau [[material.Katharina Heinroth]] setzte er seine Forschungen fort.
+**Oskar Heinroth gilt als einer der Begründer der vergleichenden Verhaltensforschung** (Ethologie). Der talentierte Fotograf und humorvolle Wissenschaftler verstand es allgemeinverständlich die Ergebnisse seiner Forschung aufzuarbeiten. Zusammen mit seiner zweiten Ehefrau [[material.katharina-heinroth]] setzte er seine Forschungen fort.
 
 [^0hein1]: Vgl. Schulze-Hagen, Karl. 2020. Die Vogel-WG: die Heinroths, ihre 1000 Vögel unddie Anfänge der Verhaltensforschung. Deutsche Originalausgabe. Knesebeck Stories. München: Knesebeck: 9.

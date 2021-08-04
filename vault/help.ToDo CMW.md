@@ -19,9 +19,9 @@ created: 1618495172862
 
 ### materials
 
-- [[material.Oskar Heinroth]]
-- [[material.Magdalena Heinroth]]
-- [[material.Katharina Heinroth]]
+- [[material.oskar-heinroth]]
+- [[material.magdalena-heinroth]]
+- [[material.katharina-heinroth]]
 - [[material.Bernhard Grzimek]]
 - [[material.Journale Zoo]]
 - [[material.Journal Der Zoologische Garten]]
