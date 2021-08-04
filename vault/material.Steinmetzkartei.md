@@ -6,14 +6,14 @@ author: Clemens Maier-Wolthausen
 short_desc_de: Tiere im Besitz des Berliner Zoos 1920-1945
 date_end: 1945-12-31T11:00:00.000Z
 published: false
-title: Steinmetz-index
+title: Steinmetz-Index
 updated: 1621976451680
 id: 2a309087-f165-4def-9c60-d835c7218077
 translators:
   translator_de_en: Lucy Gasser
-desc: EN Tiere im Besitz des Berliner Zoos 1920-1945
+desc: Animals in possession of the Berlin zoo 1920-1945
 desc_de: Tiere im Besitz des Berliner Zoos 1920-1945
-short_desc: EN Tiere im Besitz des Berliner Zoos 1920-1945
+short_desc: Animals in possession of the Berlin zoo 1920-1945
 cover_image:
   image: /images/cover-steinmetz-kartei-index.jpg
   alt: "Steinmetz index card for the Berlin zoo's pygmy hippos, around 1935.
