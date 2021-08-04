@@ -11,9 +11,9 @@ updated: 1621976857427
 id: 690683a5-6845-4c80-bb3b-5771881bdca6
 translators:
   translator_de_en: Lucy Gasser
-desc: EN Software zur Koordination von Zootierhaltungen
+desc: Software for coordinating zoo animal keeping
 desc_de: Software zur Koordination von Zootierhaltungen
-short_desc: EN Software zur Koordination von Zootierhaltungen
+short_desc: Software for coordinating zoo animal keeping
 cover_image:
   image: /images/cover-species-360-logo.jpg
   alt: "Species360 logo with stylised globe in the zero, and claim below: Global
