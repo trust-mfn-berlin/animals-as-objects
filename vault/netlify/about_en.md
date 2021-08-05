@@ -9,7 +9,7 @@ Relational databases, the very databases that are often used to record and manag
 
 -   _Materials_ focus on specific photos, objects, documents, events, etc.
 -   _Stories_ answer big and small research questions through _materials_ and other sources.
--   _Themes_ address the big picture that links many different _stories_ and _materials._
+-   _Themes_ address the bigger picture that links many different _stories_ and _materials._
 
 They are interconnected in many different and sometimes surprising ways, emerging from the authors’ situatedness (in a discipline, institution, subject position) and interests.
 
