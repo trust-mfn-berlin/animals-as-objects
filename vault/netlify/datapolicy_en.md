@@ -132,7 +132,7 @@ Making personal data available is neither a legal nor a contractual obligation a
 
 For further information go to [privacy policy of YouTube and Google](https://policies.google.com/privacy?hl=en). Guidance on privacy settings in Google can be found [here](https://safety.google/privacy/privacy-controls/).
 
-## 5.7 Using Vimeo
+### 5.7 Using Vimeo
 
 We use Vimeo videos and Vimeo plug-ins on our website. Vimeo is a service of Vimeo.com, Inc. ("Vimeo"), 555 West 18th Street, New York, NY 10011, USA, and is provided by this company.
 
