@@ -7,7 +7,7 @@ desc: >-
   propaganda for the National Socialists and excluded Jewish visitors. The zoo
   director was well connected to the regime's elite. During the war, forced
   labourers were exploited.
-updated: 1628084226916
+updated: 1628164508854
 created: 1619020958263
 license: CC BY-SA
 title_de: Der Zoo im Nationalsozialismus
@@ -394,7 +394,7 @@ Zoos certainly allow themselves to be adapted for other kinds of regimes and soc
 
 [^36]: Minutes of supervisory board meeting, 30.07.1940, AZGB O 0/2/2.
 
-[^37]: Cf. Gautschi, Andreas. *Der Reichsjägermeister. Fakten und Legenden um Hermann Göring*. Melsungen: Nimrod, 2010; Rubner, Heinrich. *Deutsche Forstgeschichte, 1933-1945. Forstwirtschaft, Jagd und Umwelt im NS-Staat*. St. Katharinen: Scripta Mercaturae, 1997; copy of the agreement between the headquarters of the Reichskommissar für die Festigung deutschen Volkstums, the Reich Commissioner for the consolidation of German nationalism, and the Reichsforstmeister as Oberster Naturschutzbehörde, head of the highest nature conservation authority, on the implementation of the discussion of 20 March 1942, 11.05.1942, BArch, R 49/2066; correspondence with the British Commandant Tiergarten Lt. Col. Nunn in December 1945, AZGB S 15/17; old animal index card, index card "Panjepferde".
+[^37]: Cf. Gautschi, Andreas. *Der Reichsjägermeister. Fakten und Legenden um Hermann Göring*. Melsungen: Nimrod, 2010; Rubner, Heinrich. *Deutsche Forstgeschichte, 1933-1945. Forstwirtschaft, Jagd und Umwelt im NS-Staat*. St. Katharinen: Scripta Mercaturae, 1997; copy of the agreement between the headquarters of the Reichskommissar für die Festigung deutschen Volkstums, the Reich Commissioner for the consolidation of German nationalism, and the Reichsforstmeister as Oberster Naturschutzbehörde, head of the highest nature conservation authority, on the implementation of the discussion of 20 March 1942, 11.05.1942, BArch, R 49/2066; correspondence with the British Commandant Tiergarten Lt. Col. Nunn in December 1945, AZGB S 15/17; old animal index card, index card "Panjepferde". (The gendered German word for "scientists" in the original of this article indicates that both scientists were men.)
 
 [^38]: There is no evidence that women were also exploited as forced labourers at the zoo, so what follows speaks only to what is known of male forced labourers.
 
