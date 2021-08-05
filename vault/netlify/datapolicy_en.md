@@ -251,6 +251,6 @@ To exercise their right relating to withdraw their consent, the data subject can
 
 ## 9 Scope and update of the privacy policy note
 
-The privacy policy note was updated on 19 July 2021 and is currently valid. With further developments in technology and changes of legal requirements, the privacy policy note may need to be adapted at any time and take effect for the future. We therefore recommend that you check the privacy note for updates at regular intervals.
+The privacy policy note was updated on 5 August 2021 and is currently valid. With further developments in technology and changes of legal requirements, the privacy policy note may need to be adapted at any time and take effect for the future. We therefore recommend that you check the privacy note for updates at regular intervals.
 
 This privacy policy note has been written using some templates by the privacy note generator (Datenschutzerklärungs-Generator) of DGD Deutsche Gesellschaft für Datenschutz GmbH,which carries out the [privacy audit](https://dg-datenschutz.de/services/data-protection-audits/?lang=en), in collaboration with the media law firm [WILDE BEUGER SOLMECKE](https://www.wbs-law.de/)
