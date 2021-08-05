@@ -7,8 +7,8 @@ _Tiere als Objekte?_ ist eine Publikation des Forschungsprojekts [Tiere als Obje
 
 Relationale Datenbanken, genau die Datenbanken, die häufig zur Erfassung und Verwaltung von naturkundlichen Sammlungen verwendet werden, dienten als Ausgangspunkt für die konzeptionelle und visuelle Gestaltung. Es gibt drei verschiedene Arten von Artikeln:
 
--   _Materien_ legen den Fokus auf spezifische Fotos, Objekte, Dokumente, Veranstaltungen, usw.
--   _Storys_ liefern mithilfe von Materialien und anderen Quellen Antworten für kleine und große Forschungsfragen.
+-   _Materien_ legen den Fokus auf spezifische Fotos, Objekte, Dokumente, Ereignisse, usw.
+-   _Storys_ liefern mithilfe von _Materien_ und anderen Quellen Antworten auf kleine und große Forschungsfragen.
 -   _Themen_ öffnen den Blick für den thematischen Rahmen und verbinden die vielen verschiedenen _Storys_ und _Materien_.
 
 Sie sind in vielfältiger und manchmal überraschender Weise miteinander verbunden und ergeben sich aus der Situiertheit (in einer Disziplin, Institution, Fachposition) und den Interessen der Autor\*innen.
