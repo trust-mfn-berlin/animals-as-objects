@@ -1,11 +1,11 @@
 ---
 title: Datenschutzerklärung
 ---
-## 1 Einleitung
+## 1. Einleitung
 
 Bei der Nutzung unserer Internetangebote werden personenbezogene Daten erhoben und in Datenbanken, Protokolldateien oder anderen Systemen gespeichert. Bei der Verarbeitung der erfassten Daten werden die Datenschutzvorschriften von uns konsequent eingehalten.
 
-## 2 Name und Anschrift des für die Verarbeitung Verantwortlichen
+## 2. Name und Anschrift des für die Verarbeitung Verantwortlichen
 
 Verantwortlich für die Verarbeitung personenbezogener Daten ist:
 
@@ -22,18 +22,18 @@ Datenschutzbeauftragter des Museums für Naturkunde:
 Tel.: 030/889140-8440  
 E-Mail: [datenschutz@mfn.berlin](mailto:datenschutz@mfn.berlin)
 
-## 3 Nutzung und Weitergabe personenbezogener Daten
+## 3. Nutzung und Weitergabe personenbezogener Daten
 
 Die von uns erfassten Daten werden ausschließlich zu den genannten Zwecken genutzt. Eine Weitergabe der Daten erfolgt ausschließlich in explizit genannten Fällen (z.B. um Anliegen per E-Mail zu bearbeiten). Es erfolgt keine unberechtigte Weitergabe der Daten an unbeteiligte Dritte. Externe Dienstleister, die für uns im Auftrag Daten verarbeiten, sind keine Dritten im Sinne der Datenschutzvorschriften; sie sind vertraglich zur Einhaltung der Datenschutzvorschriften verpflichtet und unterliegen unserer Kontrolle.  
 Eine Weitergabe an staatliche Stellen erfolgt nur im Rahmen von zwingenden Rechtsvorschriften oder in Fällen von Angriffen auf unsere Systeme zum Zweck der Strafverfolgung.  
 Sobald die Daten nicht mehr benötigt werden, werden diese gelöscht.  
 Die Daten werden nicht für eine automatische Entscheidungsfindung (Profiling) genutzt.
 
-## 4 Einwilligung in weitergehende Nutzung
+## 4. Einwilligung in weitergehende Nutzung
 
 Die Nutzung einiger unserer Angebote kann eine über die unter Punkt 5 beschriebenen Fälle hinausgehende Speicherung und Nutzung Ihrer Daten nötig machen. In diesen Fällen werden wir Sie darüber informieren und vorher Ihre Einwilligung einholen.
 
-## 5 Folgende Daten werden bei der Nutzung unserer Internetangebote verarbeitet:
+## 5. Folgende Daten werden bei der Nutzung unserer Internetangebote verarbeitet:
 
 ### 5.1 Protokollierung des Besuchs der Internetseiten und des Zugriffs auf Daten und Webdienste
 
@@ -63,7 +63,7 @@ Beim ersten Besuch der Webseite “Tiere als Objekte?“ mit einem neuen Gerät 
 
 Die betroffene Person kann die Setzung von Cookies durch unsere Internetseite jederzeit mittels einer entsprechenden Einstellung des genutzten Internetbrowsers verhindern und damit der Setzung von Cookies dauerhaft widersprechen. Ferner können bereits gesetzte Cookies jederzeit über einen Internetbrowser oder andere Softwareprogramme gelöscht werden. Dies ist in allen gängigen Internetbrowsern möglich. Deaktiviert die betroffene Person die Setzung von Cookies in dem genutzten Internetbrowser, sind unter Umständen nicht alle Funktionen unserer Internetseite vollumfänglich nutzbar.
 
-**5.3 Web-Analyse**
+### 5.3 Web-Analyse
 
 Das Museum für Naturkunde Berlin setzt nur auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs 1 lit. a, Art. 7 DSGVO eine Lösung zur Webanalyse ein. Die Einwilligung wird im Rahmen eines eingeblendeten "Cookie-Banners" (siehe 5.2 Cookies, 5. Absatz) erhoben und kann durch Löschen der gesetzten Cookies wiederrufen werden: “tao_uid” and [insert Matomo cookie name]. Nach 1 Tag werden die Cookies automatisch gelöscht.
 
@@ -149,11 +149,11 @@ Vimeo gibt an, die DSGVO für jene Benutzer einzuhalten, die auf ihre Dienste au
 
 Nähere Informationen finden Sie in den [Datenschutzhinweisen von Vimeo](https://vimeo.com/privacy).
 
-## 6 Links zu anderen Anbietern
+## 6. Links zu anderen Anbietern
 
 Diese Datenschutzerklärung gilt für die Internet-Angebote der Website "Tiere als Objekte?". Soweit diese auf die Webangebote Dritter verweisen oder verlinken, übernimmt das Museum für Naturkunde Berlin weder Gewähr noch Haftung für Richtigkeit oder Vollständigkeit verlinkter Inhalte und Datensicherheit der verlinkten Webpräsenzen. Die verlinkten Inhalte werden zum Zeitpunkt der Verlinkung auf offensichtliche Rechtsverletzungen geprüft. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Sollten verlinkte Inhalte gegen geltendes Recht verstoßen oder sonst unangemessene Inhalte enthalten, sind wir für einen Hinweis dankbar. Das Museum für Naturkunde Berlin hat keinen Einfluss auf die Einhaltung datenschutzrechtlicher Bestimmungen durch Dritte. Um diese zu überprüfen sollten Sie die Datenschutzerklärung des jeweiligen Angebotes aufsuchen.
 
-## 7 Datensicherheit
+## 7. Datensicherheit
 
 Die Speicherung Ihrer persönlichen Daten erfolgt auf geschützten Rechnern. Um die von uns erhobenen Daten vor Verlust, Manipulation oder Zugriff durch unberechtigte Personen zu schützen, werden durch das Museum für Naturkunde Berlin technisch-organisatorische Maßnahmen eingesetzt, die dem aktuellen Stand der Technik entsprechen. Zugriffe auf Daten sind durch Berechtigungsverfahren geregelt, so dass nur die mit der Verarbeitung betrauten Personen auf die Daten Zugriff haben. Alle Mitarbeiter, die personenbezogene Daten erheben, verarbeiten oder nutzen, sind auf das Datengeheimnis nach §8 Berliner Datenschutzgesetz verpflichtet.
 
@@ -163,7 +163,7 @@ Im Rahmen unterschiedlicher Tätigkeiten erfolgt eine Verarbeitung von personenb
 -   Google Ireland Limited ("Google"):  5.5.1 YouTube
 -   Vimeo.com Inc. ("Vimeo"): 5.6 Vimeo
 
-## 8 Betroffenenrechte
+## 8. Betroffenenrechte
 
 ### a) Recht auf Bestätigung
 
@@ -250,7 +250,7 @@ Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom 
 
 Möchte die betroffene Person ihr Recht auf Widerruf einer Einwilligung geltend machen, kann sie sich hierzu jederzeit an den für die Verarbeitung Verantwortlichen wenden; siehe Punkt 2. Name und Anschrift des für die Verarbeitung Verantwortlichen.
 
-## 9 Gültigkeit und Aktualität der Datenschutzerklärung
+## 9. Gültigkeit und Aktualität der Datenschutzerklärung
 
 Die Datenschutzerklärung wurde am 5. August 2021 auf den neuesten Stand gebracht und ist aktuell gültig. Durch die Weiterentwicklung der Technik und Änderungen der gesetzlichen Anforderungen kann jederzeit eine Anpassung der Datenschutzerklärung mit Wirkung für die Zukunft notwendig werden. Wir empfehlen Ihnen daher, die Datenschutzerklärung regelmäßig auf Aktualisierungen zu prüfen.
 
