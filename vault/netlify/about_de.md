@@ -3,12 +3,12 @@ title: Über uns
 ---
 ## Über diese Website
 
-Tiere als Objekte? ist eine Publikation des Forschungsprojekts Tiere als Objekte. Zoologische Gärten und Naturkundemuseum Berlin, 1810 bis 2020. Diese Website macht unsere Forschungsergebnisse zu ausgewählten Objekten, Geschichten und Tierarten für eine deutsch- und englischsprachige Öffentlichkeit zugänglich. Wir bieten historische, archivarische und ethnographische Antworten auf die Frage an, wie Tiere zu naturhistorischen Objekten und Daten gemacht wurden.
+_Tiere als Objekte?_ ist eine Publikation des Forschungsprojekts [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte). Diese Website macht unsere Forschungsergebnisse zu ausgewählten Objekten, Geschichten und Tierarten für eine deutsch- und englischsprachige Öffentlichkeit zugänglich. Wir bieten historische, archivarische und ethnographische Antworten auf die Frage an, wie Tiere zu naturhistorischen Objekten und Daten gemacht wurden.
 
 Relationale Datenbanken, genau die Datenbanken, die häufig zur Erfassung und Verwaltung von naturkundlichen Sammlungen verwendet werden, dienten als Ausgangspunkt für die konzeptionelle und visuelle Gestaltung. Es gibt drei verschiedene Arten von Artikeln:
 
--   _Materien_ legen den Fokus auf spezifische Fotos, Objekte, Dokumente, Veranstaltungen, usw.
--   _Storys_ liefern mithilfe von Materialien und anderen Quellen Antworten für kleine und große Forschungsfragen.
+-   _Materien_ legen den Fokus auf spezifische Fotos, Objekte, Dokumente, Ereignisse, usw.
+-   _Storys_ liefern mithilfe von _Materien_ und anderen Quellen Antworten auf kleine und große Forschungsfragen.
 -   _Themen_ öffnen den Blick für den thematischen Rahmen und verbinden die vielen verschiedenen _Storys_ und _Materien_.
 
 Sie sind in vielfältiger und manchmal überraschender Weise miteinander verbunden und ergeben sich aus der Situiertheit (in einer Disziplin, Institution, Fachposition) und den Interessen der Autor\*innen.
