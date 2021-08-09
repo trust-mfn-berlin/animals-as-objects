@@ -1,9 +1,9 @@
 ---
 license: CC BY-SA
-title_de: DE Using Cycladophora
+title_de: Nutzung von Cycladophora
 created: 1624875395326
 author: Filippo Bertoni
-short_desc_de: DE From microfossils to planetary sciences
+short_desc_de: Von Mikrofossilien zur Planetologie
 date_end: 2021-07-06T11:38:39.090Z
 published: false
 title: Using Cycladophora
@@ -16,11 +16,11 @@ desc: Thanks to complex technoscientific networks, Cycladophora has become an
   follows the microorganism’s trajectory, to trace how these networks formed,
   and how they continue to shape how we know the planet - and its microbial
   inhabitants.
-desc_de: DE Thanks to complex technoscientific networks, Cycladophora has become
-  an important tool in the study of planetary systems and climate. This story
-  follows the microorganism’s trajectory, to trace how these networks formed,
-  and how they continue to shape how we know the planet - and its microbial
-  inhabitants.
+desc_de: Cycladophora ist dank komplexer technowissenschaftlicher Netzwerke zu
+  einem wichtigen Werkzeug in der Erforschung von Planetensystemen und vom Klima
+  geworden. Diese Story folgt dem Weg des Mikroorganismus, um nachzuvollziehen,
+  wie diese Netzwerke entstanden sind und wie sie weiterhin unser Wissen über
+  den Planeten – und seine mikrobiellen Bewohner – prägen.
 short_desc: From microfossils to planetary sciences
 cover_image:
   image: /images/cover-using-cycladophora.jpg

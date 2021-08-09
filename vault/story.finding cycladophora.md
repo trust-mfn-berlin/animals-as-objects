@@ -1,9 +1,9 @@
 ---
 license: CC BY-SA
-title_de: DE Finding Cycladophora
+title_de: Auf der Suche nach Cycladophora
 created: 1624875316911
 author: Filippo Bertoni
-short_desc_de: DE From telegraphs to samples
+short_desc_de: Von Telegrafen zu Proben
 date_end: 1859-12-31T11:06:32.000Z
 published: false
 title: Finding Cycladophora
@@ -11,17 +11,18 @@ updated: 1624875335228
 id: 4kJJB2pX-g7lq6q7GUt0W
 translators:
   translator_en_de: Anna von Rath
-desc: In 1859 a survey trip for a planned North Atlantic submarine telegraph
-  line recovers the sample from which the radiolarian species Cycladophora has
-  been originally described. The story of this journey unfolds the complex and
-  extensive networks that allow Cycladophora to be what it is today - and their
-  connections with the sociotechnical infrastructures of modernity.
-desc_de: DE In 1859 a survey trip for a planned North Atlantic submarine
-  telegraph line recovers the sample from which the radiolarian species
-  Cycladophora has been originally described. The story of this journey unfolds
-  the complex and extensive networks that allow Cycladophora to be what it is
-  today - and their connections with the sociotechnical infrastructures of
-  modernity.
+desc: In 1859, during a survey trip for a planned North Atlantic submarine
+  telegraph line, the sample from which the radiolarian species Cycladophora has
+  been originally described is recovered. The story of this journey unfolds the
+  complex and extensive networks that allow Cycladophora to be what it is today
+  – and their  connections with the sociotechnical infrastructures of modernity.
+desc_de: Bei einer Vermessungsreise für den geplanten Bau einer
+  Unterwassertelegrafenleitung im Nordatlantik wird im Jahr 1859 die Probe
+  entnommen, anhand derer die Radiolarienart Cycladophora ursprünglich
+  beschrieben wurde. Die Geschichte dieser Reise veranschaulicht die komplexen
+  und weitreichenden Netzwerke, die Cycladophora zu dem machen, was es heute ist
+  – und zeigt Verbindungen zu den soziotechnischen Infrastrukturen der Moderne
+  auf.
 short_desc: From telegraphs to samples
 cover_image:
   image: /images/cover-finding-cycladophora.jpg

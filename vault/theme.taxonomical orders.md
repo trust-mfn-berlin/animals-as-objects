@@ -1,9 +1,9 @@
 ---
 license: CC BY-SA
-title_de: DE Taxonomical orders
+title_de: Taxonomische Ordnung
 created: 1618491191119
 author: Filippo Bertoni
-short_desc_de: DE Organizing nature is political
+short_desc_de: Die Natur zu kategorisieren, ist politisch
 date_end: 2021-07-06T11:43:53.791Z
 published: false
 title: Taxonomical orders
@@ -12,16 +12,17 @@ id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
 translators:
   translator_en_de: Anna von Rath
 desc: In biology, taxonomy is a formal system to name, define, and classify
-  organisms, regulated and governed by agreed upon rules. Since its beginning
-  biological taxonomy was neither stable nor universal, since controversies
-  emerged, and classifications continue to change still today - and have lasting
-  impacts on our world.
-desc_de: DE In biology, taxonomy is a formal system to name, define, and
-  classify organisms, regulated and governed by agreed upon rules. Since its
-  beginning biological taxonomy was neither stable nor universal, since
-  controversies emerged, and classifications continue to change still today -
-  and have lasting impacts on our world.
-short_desc: Organizing nature is political
+  organisms, regulated and governed by a set of rules. Since its beginning
+  biological taxonomy was neither stable nor universal, controversies frequently
+  emerged. Classifications still continue to change today – and they have
+  lasting impacts on our world.
+desc_de: In der Biologie ist die Taxonomie ein formales System zur Benennung,
+  Definition und Klassifizierung von Organismen, das mit Hilfe einer Reihe von
+  Regeln gesteuert wird. Seit ihren Anfängen war die biologische Taxonomie weder
+  stabil noch allgemeingültig und es kamen wiederholt Kontroversen auf. Die
+  Klassifizierungen ändern sich auch heute noch – und beeinflussen unsere Welt
+  nachhaltig.
+short_desc: Organising nature is political
 cover_image:
   image: /images/cover-taxonomical-orders.jpg
   alt: "Plate 2 from Linnaeus’ Systema Naturae, 6th edition, 1748. Tafel 2 aus

@@ -5,6 +5,32 @@ desc: ''
 updated: 1628071686741
 created: 1618495172862
 ---
+<<<<<<< HEAD
+=======
+## "Fertig" 1. Batch
+
+### theme
+
+[[theme.how-do-animals-get-into-the-zoo]]
+
+### stories
+
+- [[story.the-zoo-and-national-socialism]]
+- [[story.Knut]]
+- [[story.catching-animals]] noch auslassen
+
+### materials
+
+- [[material.oskar-heinroth]]
+- [[material.magdalena-heinroth]]
+- [[material.katharina-heinroth]]
+- [[material.Bernhard Grzimek]]
+- [[material.Journale Zoo]]
+- [[material.Journal Der Zoologische Garten]]
+- [[material.Steinmetzkartei]]
+- [[material.species360]]
+
+>>>>>>> 7cba222319c428697a43bc36938f29e55f146462
 ## Empty Backlinks
 
 - [[material.habitat]]

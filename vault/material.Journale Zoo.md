@@ -6,14 +6,14 @@ author: Clemens Maier-Wolthausen
 short_desc_de: Übersicht der Berliner Zoobestände seit 1888
 date_end: 2021-06-30T12:21:00.358Z
 published: false
-title: Journals - the zoo directory
+title: Journale - The Zoo Directory
 updated: 1621975035323
 id: 4a663958-cb98-4cdd-967d-9b277f45cdc4
 translators:
   translator_de_en: Lucy Gasser
-desc: EN Übersicht der Berliner Zoobestände seit 1888
+desc: Overview of the Berlin zoo's holdings since 1888
 desc_de: Übersicht der Berliner Zoobestände seit 1888
-short_desc: EN Übersicht der Berliner Zoobestände seit 1888
+short_desc: Overview of the Berlin zoo's holdings since 1888
 cover_image:
   image: /images/cover-zoo-journal-stock-1936-example.jpg
   alt: "Entries into the Berlin zoo directory, called Journale, 1936. Eintrag in
