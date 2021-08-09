@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-[[story.microscopy]], [[theme.microbial worlds]], [[material.christian gottfried ehrenberg]], [[story.cycladophora davisiana]]
+[[story.microscopy]], [[theme.microbial worlds]], [[material.christian gottfried ehrenberg]], [[story.cycladophora-davisiana]]
 
 :::DE:::
 

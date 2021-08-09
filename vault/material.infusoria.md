@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-[[material.radiolaria]], [[material.foraminifera]], [[theme.microbial worlds]], [[material.christian gottfried ehrenberg]], [[story.cycladophora davisiana]]
+[[material.radiolaria]], [[material.foraminifera]], [[theme.microbial worlds]], [[material.christian gottfried ehrenberg]], [[story.cycladophora-davisiana]]
 
 :::DE:::
 

@@ -1,22 +1,24 @@
 ---
-license: CC BY-SA
-title_de: Auf der Suche nach Cycladophora
-created: 1624875316911
-author: Filippo Bertoni
-short_desc_de: Von Telegrafen zu Proben
-date_end: 1859-12-31T11:06:32.000Z
-published: false
-title: Finding Cycladophora
-updated: 1628519988532
 id: 4kJJB2pX-g7lq6q7GUt0W
-translators:
-  translator_en_de: Anna von Rath
-desc: In 1859, during a survey trip for a planned North Atlantic submarine
-  telegraph line, the sample from which the radiolarian species Cycladophora has
-  been originally described is recovered. The story of this journey unfolds the
+title: Finding Cycladophora
+desc: >-
+  In 1859, during a survey trip for a planned North Atlantic submarine telegraph
+  line, the sample from which the radiolarian species Cycladophora has been
+  originally described is recovered. The story of this journey unfolds the
   complex and extensive networks that allow Cycladophora to be what it is today
   – and their  connections with the sociotechnical infrastructures of modernity.
-desc_de: Bei einer Vermessungsreise für den geplanten Bau einer
+updated: 1628519988532
+created: 1624875316911
+license: CC BY-SA
+title_de: Auf der Suche nach Cycladophora
+author: Filippo Bertoni
+short_desc_de: Von Telegrafen zu Proben
+date_end: '1859-12-31T11:06:32.000Z'
+published: false
+translators:
+  translator_en_de: Anna von Rath
+desc_de: >-
+  Bei einer Vermessungsreise für den geplanten Bau einer
   Unterwassertelegrafenleitung im Nordatlantik wird im Jahr 1859 die Probe
   entnommen, anhand derer die Radiolarienart Cycladophora ursprünglich
   beschrieben wurde. Die Geschichte dieser Reise veranschaulicht die komplexen
@@ -26,11 +28,12 @@ desc_de: Bei einer Vermessungsreise für den geplanten Bau einer
 short_desc: From telegraphs to samples
 cover_image:
   image: /images/cover-finding-cycladophora.jpg
-  alt: "Map of telegraph cables in the North Atlantic, 1865. Karte von
+  alt: >-
+    Map of telegraph cables in the North Atlantic, 1865. Karte von
     Telegrafenkabeln im Nordatlantik, 1865. Source:
-    https://atlantic-cable.com/Maps/index.htm"
+    https://atlantic-cable.com/Maps/index.htm
 tao_type: story
-date_start: 1858-12-31T23:06:32.000Z
+date_start: '1858-12-31T23:06:32.000Z'
 ---
 
 :::EN:::
@@ -49,7 +52,7 @@ _A map of the surveys for transatlantic telegraph lines in 1861, published by [[
 
 Like many other species, scientists did not become aware of _Cycladophora davisiana_ during a scientific expedition, but its scientific description was the by-product of a different kind of venture. On 29 August 1859, the Wiman, a small sailing bark of 197 tons, set sail in the harbour of Boston and headed to London. Chartered by Colonel Taliaferro Preston Schaffner – a lawyer, entrepreneur, and engineer from Kentucky, the ship was carrying him, along with his wife, their entire household and staff, to Denmark, by way of England. This move was part of Schaffner's venture to establish a North Atlantic telegraph line that would connect Europe to North America.[^2] While a direct line between Newfoundland and Ireland had already been laid at great cost only the year before, that first transatlantic connection had been marred by a weak signal, and eventually failed after only a few weeks of transmissions.[^3] This failure only strengthened Schaffner's resolve, who had foreseen this problem. To overcome it, his telegraph line was to proceed on land across Greenland, Iceland, and the Faeroes Islands, promising a much more consistent signal. So, as "Tal" Schaffner moved to Europe to find backing for his proposal, he instructed the crew to survey this alternative route. Along the way, he had them observe and collect samples and data to support his proposed route, confirm its feasibility, and add a more scientific character to the whole enterprise. **It was in one of these samples, collected from the ocean floor in the Davis Strait off the coast of Greenland, that the first specimen of _Cycladophora davisiana_ to bear this name was found.**
 
-This story is merely a marginal episode in the 19th century history of how the planet grew (and continues to grow), wrapped in complex networks of communication and exchange.[^4] Telegraphy was only one of the forms of communication; over the course of the 19th century,  railways, steamships, and roads raced all over the world next to telegraph lines. In turn, these infrastructures and channels also facilitated and influenced professional, financial, political, and scientific international networks.[^5] _C. davisiana_ travelled along some of these routes, for instance, when Schaffner arranged for his samples to be sent to the Zoological Museum in Berlin – with the help of the German industrialist Werner Siemens[^6], a fellow telegraphy expert and inventor, –  to be analysed by the famous naturalist Christian Gottfried Ehrenberg. Some other networks had already contributed to Ehrenberg’s success, who had built his reputation on scientific expeditions in his youth, and relied already on a global network of correspondents – including some of the most celebrated naturalists of the time, from Humboldt to Darwin. **So, even if the North Atlantic line envisioned by Schaffner was never laid, the survey trip of the Wiman was going to continue to play a role in this broader history of planetary interconnectedness** – albeit an unexpected and inconspicuous one. It inaugurated and shaped the history of [[story.cycladophora davisiana]], partaking in turning a shapeless lump of oceanic sediment into a sample for scientific analysis. [[story.classifying cycladophora]] was the next step in this story, and it was going to take place, largely, in what was to become the Natural History Museum Berlin.
+This story is merely a marginal episode in the 19th century history of how the planet grew (and continues to grow), wrapped in complex networks of communication and exchange.[^4] Telegraphy was only one of the forms of communication; over the course of the 19th century,  railways, steamships, and roads raced all over the world next to telegraph lines. In turn, these infrastructures and channels also facilitated and influenced professional, financial, political, and scientific international networks.[^5] _C. davisiana_ travelled along some of these routes, for instance, when Schaffner arranged for his samples to be sent to the Zoological Museum in Berlin – with the help of the German industrialist Werner Siemens[^6], a fellow telegraphy expert and inventor, –  to be analysed by the famous naturalist Christian Gottfried Ehrenberg. Some other networks had already contributed to Ehrenberg’s success, who had built his reputation on scientific expeditions in his youth, and relied already on a global network of correspondents – including some of the most celebrated naturalists of the time, from Humboldt to Darwin. **So, even if the North Atlantic line envisioned by Schaffner was never laid, the survey trip of the Wiman was going to continue to play a role in this broader history of planetary interconnectedness** – albeit an unexpected and inconspicuous one. It inaugurated and shaped the history of [[story.cycladophora-davisiana]], partaking in turning a shapeless lump of oceanic sediment into a sample for scientific analysis. [[story.classifying-cycladophora]] was the next step in this story, and it was going to take place, largely, in what was to become the Natural History Museum Berlin.
 
 [^1]: Ehrenberg, Christian Gottfried. "Übersicht über die Tiefgrund-Verhältnisse des Oceans am Eingange der Davisstrasse und bei Island". _Monatsberichte der Königlichen Preussischen Akademie der Wissenschaften zu Berlin_ (1862): 293. https://www.biodiversitylibrary.org/item/111883#page/293/mode/1up (01.07.2021).
 
@@ -79,7 +82,7 @@ _Karte, die Vermessungen für transatlantische Telegrafenlinien im Jahr 1861 zei
 
 _Cycladophora davisiana_ wurde, wie viele andere Arten, nicht während einer wissenschaftlichen Expedition zum ersten Mal von Wissenschaftler\*innen wahrgenommen, vielmehr entstand die wissenschaftliche Beschreibung dieser Art als Nebenprodukt eines anderen Vorhabens. Am 29. August 1859 lief die Wiman, eine 197 Tonnen schwere kleine Segelbarke, aus dem Hafen von Boston in Richtung London aus. Das von Oberst Taliaferro Preston Schaffner gecharterte Schiff brachte den aus Kentucky stammenden Anwalt, Ingenieur und Unternehmer, seine Frau, seinen gesamten Haushalt und sein Personal über England nach Dänemark. Diese Reise war Teil von Schaffners Vorhaben, eine nordatlantische Telegrafenlinie zu errichten, die Europa mit Nordamerika verbinden sollte.[^2] Im Jahr zuvor war unter großem Aufwand bereits eine Leitung zwischen Neufundland und Irland verlegt worden. Doch ein schwaches Signal beeinträchtige diese erste transatlantische Verbindung, die schlussendlich nach nur wenigen Wochen ausfiel.[^3] Dieser Misserfolg stärkte die Entschlossenheit Schaffners, der dieses Problem vorausgesehen hatte. Seine Telegrafenlinie sollte auf dem Landweg über Grönland, Island und die Färöer-Inseln verlaufen, wodurch er sich ein konsistenteres Signal erhoffte. Während "Tal" Schaffner also nach Europa reiste, um Unterstützer für sein Vorhaben zu finden, war seine Crew angewiesen, diese alternative Route zu vermessen. Unterwegs erfasste Proben, Daten und Beobachtungen sollten die Eignung der von ihm vorgeschlagenen Route sowie die Durchführbarkeit des Vorhabens bestätigen und dem Ganzen einen wissenschaftlicheren Charakter verleihen. **In einer dieser vom Meeresboden der Davisstraße vor der Küste Grönlands entnommen Proben wurde das erste Exemplar gefunden, das den Namen _Cycladophora davisiana_ trägt.**
 
-In der Geschichte des 19. Jahrhunderts und eines sich (bis heute) in immer komplexeren Netzwerken von Kommunikation und Austausch wiederfindenden Planeten ist diese Episode marginal.[^4] Neben Telegrafenleitungen sorgten im Verlauf des 19. Jahrhunderts weltweit Eisenbahnen, Dampfschiffe und Straßen für Beschleunigung. Diese Infrastrukturen und (Kommunikations)kanäle wiederum ermöglichten und beeinflussten auch professionelle, finanzielle, politische und internationale wissenschaftliche Netzwerke.[^5] _C. davisiana_ profitierte von einigen von ihnen: Beispielsweise arrangierte Schaffner mithilfe eines Erfinders und Kollegen auf dem Gebiet der Telegrafie, dem deutschen Industriellen Werner Siemens[^6], dass seine Proben an das Zoologische Museum in Berlin geschickt wurden, um dort vom berühmten Naturforscher Christian Gottfried Ehrenberg analysiert zu werden. Der Erfolg Ehrenbergs, der sich schon in seiner Jugend auf wissenschaftlichen Expeditionen einen Namen gemacht hatte, gründete auch auf anderen Verbindungen: Er war weltweit vernetzt und stand mit den berühmtesten Naturforscher\*innen seiner Zeit von Humboldt bis Darwin in Korrespondenz. **Obwohl die Nordatlantikleitung von Schaffner schlussendlich nie verlegt wurde, sollte die Vermessungsfahrt der Wiman auch weiterhin eine Rolle in der Geschichte planetarischer Verflechtungen spielen** – wenn auch eine unerwartete und unauffällige. Mit ihr begann die Geschichte von [[story.cycladophora davisiana]] und sie trug dazu bei, einen formlosen Klumpen ozeanischen Sediments, in eine Probe für wissenschaftliche Analysen zu verwandeln. Die [[story.classifying cycladophora]] war der nächste Schritt in dieser Geschichte, die größtenteils im späteren Naturkundemuseum Berlin stattfinden sollte.
+In der Geschichte des 19. Jahrhunderts und eines sich (bis heute) in immer komplexeren Netzwerken von Kommunikation und Austausch wiederfindenden Planeten ist diese Episode marginal.[^4] Neben Telegrafenleitungen sorgten im Verlauf des 19. Jahrhunderts weltweit Eisenbahnen, Dampfschiffe und Straßen für Beschleunigung. Diese Infrastrukturen und (Kommunikations)kanäle wiederum ermöglichten und beeinflussten auch professionelle, finanzielle, politische und internationale wissenschaftliche Netzwerke.[^5] _C. davisiana_ profitierte von einigen von ihnen: Beispielsweise arrangierte Schaffner mithilfe eines Erfinders und Kollegen auf dem Gebiet der Telegrafie, dem deutschen Industriellen Werner Siemens[^6], dass seine Proben an das Zoologische Museum in Berlin geschickt wurden, um dort vom berühmten Naturforscher Christian Gottfried Ehrenberg analysiert zu werden. Der Erfolg Ehrenbergs, der sich schon in seiner Jugend auf wissenschaftlichen Expeditionen einen Namen gemacht hatte, gründete auch auf anderen Verbindungen: Er war weltweit vernetzt und stand mit den berühmtesten Naturforscher\*innen seiner Zeit von Humboldt bis Darwin in Korrespondenz. **Obwohl die Nordatlantikleitung von Schaffner schlussendlich nie verlegt wurde, sollte die Vermessungsfahrt der Wiman auch weiterhin eine Rolle in der Geschichte planetarischer Verflechtungen spielen** – wenn auch eine unerwartete und unauffällige. Mit ihr begann die Geschichte von [[story.cycladophora-davisiana]] und sie trug dazu bei, einen formlosen Klumpen ozeanischen Sediments, in eine Probe für wissenschaftliche Analysen zu verwandeln. Die [[story.classifying-cycladophora]] war der nächste Schritt in dieser Geschichte, die größtenteils im späteren Naturkundemuseum Berlin stattfinden sollte.
 
 [^1]: Ehrenberg, Christian Gottfried. "Übersicht über die Tiefgrund-Verhältnisse des Oceans am Eingange der Davisstrasse und bei Island". _Monatsberichte der Königlichen Preussischen Akademie der Wissenschaften zu Berlin_ (1862): 293. https://www.biodiversitylibrary.org/item/111883#page/293/mode/1up (01.07.2021).
 

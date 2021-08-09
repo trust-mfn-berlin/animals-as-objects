@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-[[story.micropaleontology]], [[material.planetary sciences]], [[theme.planetary data]], [[material.fossil fuels]]
+[[story.micropaleontological-formations]], [[material.planetary sciences]], [[theme.planetary data]], [[material.fossil fuels]]
 
 :::DE:::
 

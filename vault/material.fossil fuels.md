@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-[[story.micropaleontology]]
+[[story.micropaleontological-formations]]
 
 :::DE:::
 

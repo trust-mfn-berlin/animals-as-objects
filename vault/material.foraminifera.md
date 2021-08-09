@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-[[story.micropaleontology]], [[theme.microbial worlds]]
+[[story.micropaleontological-formations]], [[theme.microbial worlds]]
 
 :::DE:::
 

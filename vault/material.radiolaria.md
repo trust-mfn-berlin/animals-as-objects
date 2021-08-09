@@ -1,26 +1,27 @@
 ---
+id: 947c29be-240a-4adb-93c7-9026f80aaa89
+title: Radiolaria
+desc: Microscopic unicellular organisms living in the oceans
+updated: 1628522897491
+created: 1618492811498
 license: CC BY-SA
 title_de: Radiolarien
-created: 1618492811498
 author: Filippo Bertoni
-short_desc_de: Mikroskopische einzellige Organismen, die in den Ozeanen leben
-date_end: ""
+short_desc_de: 'Mikroskopische einzellige Organismen, die in den Ozeanen leben'
+date_end: ''
 published: false
-title: Radiolaria
-updated: 1628522897491
-id: 947c29be-240a-4adb-93c7-9026f80aaa89
 translators:
   translator_en_de: Anna von Rath
-desc: Microscopic unicellular organisms living in the oceans
-desc_de: Mikroskopische einzellige Organismen, die in den Ozeanen leben
+desc_de: 'Mikroskopische einzellige Organismen, die in den Ozeanen leben'
 short_desc: Microscopic unicellular organisms living in the oceans
 cover_image:
   image: /images/cover-radiolaria.jpg
-  alt: "Plate 59 from Haeckel’s Challenger report, 1887. Tafel 59 aus Haeckels
+  alt: >-
+    Plate 59 from Haeckel’s Challenger report, 1887. Tafel 59 aus Haeckels
     Challenger-Bericht, 1887. Source:
-    http://www.biolib.de/haeckel/challenger/Nassellaria/100dpi/p059.jpg"
+    http://www.biolib.de/haeckel/challenger/Nassellaria/100dpi/p059.jpg
 tao_type: material
-date_start: ""
+date_start: ''
 ---
 
 :::EN:::
@@ -29,7 +30,7 @@ Radiolarians are unicellular microorganisms constituted by a soft, amoeba-like b
 
 In addition, their tests, with their complex, delicate, and geometrical translucent structures, have captured not only scientists' interest, but also the imagination of artists, architects, and mathematicians. Tracing the transformations of their geometries in the fossil record, radiolarians have been one of the first microbial groups to be organised in a natural system that attempted to see evolutionary change in their diversity of forms by German naturalist Ernst Haeckel. 
 
-**Because of their small size, resistance, and abundance, as well as their variety, radiolarian tests have been used extensively, in particular after the 1950s, to study geology and oceanography: their impressive fossil record (reaching back to the Cambrian, 500 million years ago) makes them important diagnostic fossils.** As such they are used in [[material.biostratigraphy]], to date geological samples. Some species, in particular, can provide important environmental data, and are used in planetary sciences as proxies and markers of ancient climates, like in the case of [[story.cycladophora davisiana]]. Furthermore, thanks to their small size, they can be extracted and analyzed from the cutting of a geological drill, making them easy to use, cheap, and efficient. **For these reasons they are not only central in paleoclimatology and paleo-oceanography, but also in applied geological sciences, being used, for example, in prospecting for [[material.fossil fuels]] and the extractive industry writ large.**
+**Because of their small size, resistance, and abundance, as well as their variety, radiolarian tests have been used extensively, in particular after the 1950s, to study geology and oceanography: their impressive fossil record (reaching back to the Cambrian, 500 million years ago) makes them important diagnostic fossils.** As such they are used in [[material.biostratigraphy]], to date geological samples. Some species, in particular, can provide important environmental data, and are used in planetary sciences as proxies and markers of ancient climates, like in the case of [[story.cycladophora-davisiana]]. Furthermore, thanks to their small size, they can be extracted and analyzed from the cutting of a geological drill, making them easy to use, cheap, and efficient. **For these reasons they are not only central in paleoclimatology and paleo-oceanography, but also in applied geological sciences, being used, for example, in prospecting for [[material.fossil fuels]] and the extractive industry writ large.**
 
 :::DE:::
 
@@ -37,4 +38,4 @@ Radiolarien sind einzellige Mikroorganismen, die aus einem weichen, amöbenähnl
 
 Darüber hinaus haben sie mit ihren Tests, ihren komplexen, filigranen und geometrisch durchscheinenden Strukturen nicht nur das Interesse der Wissenschaftler\*innen, sondern auch die Fantasie von Künstler\*innen, Architekt\*innen und Mathematiker\*innen geweckt. Bei der Rückverfolgung der Transformationen ihrer Geometrien im Fossilienbestand waren Radiolarien eine der ersten mikrobiellen Gruppen, die der deutsche Naturforscher Ernst Haeckel in einem natürlichen System organisierte, das versuchte, den evolutionären Wandel in ihrer Formenvielfalt zu sehen.
 
-**Aufgrund ihrer geringen Größe, Widerstandsfähigkeit und Häufigkeit sowie ihrer Vielfalt wurden Radiolarien vor allem nach den 1950er Jahren ausgiebig für geologische und ozeanographische Untersuchungen genutzt: Ihr beeindruckender Fossilienbestand (der bis ins Kambrium, vor 500 Millionen Jahren, zurückreicht) macht sie zu wichtigen diagnostischen Fossilien.** Als solche werden sie in der [[material.biostratigraphy]] verwendet, um geologische Proben zu datieren. Spezielle Arten können wichtige Umweltdaten liefern und werden in den Planetenwissenschaften als Proxys und Marker für alte Klimata verwendet, wie im Fall von [[story.cycladophora davisiana]]. Außerdem können sie dank ihrer geringen Größe aus dem Schnitt eines geologischen Bohrers extrahiert und analysiert werden, was sie einfach, billig und effizient macht. **Aus diesen Gründen sind sie nicht nur in der Paläoklimatologie und der Paläo-Ozeanographie von zentraler Bedeutung, sondern auch in den angewandten geologischen Wissenschaften, wo sie z.B. bei der Prospektion von [[material.fossil fuels]] und in der mineralgewinnenden Industrie im großen Stil eingesetzt werden.**
+**Aufgrund ihrer geringen Größe, Widerstandsfähigkeit und Häufigkeit sowie ihrer Vielfalt wurden Radiolarien vor allem nach den 1950er Jahren ausgiebig für geologische und ozeanographische Untersuchungen genutzt: Ihr beeindruckender Fossilienbestand (der bis ins Kambrium, vor 500 Millionen Jahren, zurückreicht) macht sie zu wichtigen diagnostischen Fossilien.** Als solche werden sie in der [[material.biostratigraphy]] verwendet, um geologische Proben zu datieren. Spezielle Arten können wichtige Umweltdaten liefern und werden in den Planetenwissenschaften als Proxys und Marker für alte Klimata verwendet, wie im Fall von [[story.cycladophora-davisiana]]. Außerdem können sie dank ihrer geringen Größe aus dem Schnitt eines geologischen Bohrers extrahiert und analysiert werden, was sie einfach, billig und effizient macht. **Aus diesen Gründen sind sie nicht nur in der Paläoklimatologie und der Paläo-Ozeanographie von zentraler Bedeutung, sondern auch in den angewandten geologischen Wissenschaften, wo sie z.B. bei der Prospektion von [[material.fossil fuels]] und in der mineralgewinnenden Industrie im großen Stil eingesetzt werden.**
