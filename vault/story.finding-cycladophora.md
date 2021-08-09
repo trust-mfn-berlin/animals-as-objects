@@ -5,8 +5,7 @@ desc: >-
   In 1859, during a survey trip for a planned North Atlantic submarine telegraph
   line, the sample from which the radiolarian species Cycladophora has been
   originally described is recovered. The story of this journey unfolds the
-  complex and extensive networks that allow Cycladophora to be what it is today
-  – and their  connections with the sociotechnical infrastructures of modernity.
+  complex and extensive networks that allow Cycladophora to be what it is today. It also highlights the networks’ connections with the sociotechnical infrastructures of modernity.
 updated: 1628519988532
 created: 1624875316911
 license: CC BY-SA
@@ -22,9 +21,7 @@ desc_de: >-
   Unterwassertelegrafenleitung im Nordatlantik wird im Jahr 1859 die Probe
   entnommen, anhand derer die Radiolarienart Cycladophora ursprünglich
   beschrieben wurde. Die Geschichte dieser Reise veranschaulicht die komplexen
-  und weitreichenden Netzwerke, die Cycladophora zu dem machen, was es heute ist
-  – und zeigt Verbindungen zu den soziotechnischen Infrastrukturen der Moderne
-  auf.
+  und weitreichenden Netzwerke, die Cycladophora zu dem machen, was es heute ist. Sie zeigt auch die Verbindungen dieser Netzwerke zu den soziotechnischen Infrastrukturen der Moderne auf.
 short_desc: From telegraphs to samples
 cover_image:
   image: /images/cover-finding-cycladophora.jpg
