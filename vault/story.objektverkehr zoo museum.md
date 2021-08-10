@@ -2,7 +2,7 @@
 id: 0804b4a3-f918-4466-8b09-6bf4bf914cb3
 title: Objektverkehr Zoo Museum
 desc: Put a description of this note here...
-updated: 1623258869606
+updated: 1628615424251
 created: 1623058110086
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -26,7 +26,7 @@ Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp.
 
 ## Vom Zoo ins Museum - Transportfragen
 
-Wohin kommen Zootiere nach ihrem Tod? Die Suche nach einer Antwort führt mich ins Archiv des Berliner Zoologischen Gartens und von dort an ganz unterschiedliche Orte innerhalb und außerhalb Berlins. Einer davon ist das Museum für Naturkunde Berlin. Nicht nur in der Ausstellung begegnet man ehemaligen Zootieren wie Eisbär “Knut” und Gorilla “Bobby”. Die Suche führt noch weiter in die Tiefen des Museums, in Kellerräume, Dachböden, Präparationswerkstätten, Sammlungsschränke. Denn hinter den Kulissen, in den weitaus größeren wissenschaftlichen Sammlungen des Museums, werden viele hunderte Tiere aus dem Berliner Zoo aufbewahrt – von Fischen über Vogelbälge bis zu großen Säugetieren.
+Wohin kommen Zootiere nach ihrem Tod? Die Suche nach einer Antwort führt an ganz unterschiedliche Orte innerhalb und außerhalb Berlins. Einer davon ist das Museum für Naturkunde Berlin. Nicht nur in der Ausstellung begegnet man ehemaligen Zootieren wie Eisbär “Knut” und Gorilla “Bobby”. Die Suche führt noch weiter in die Tiefen des Museums, in Kellerräume, Dachböden, Präparationswerkstätten, Sammlungsschränke. Denn hinter den Kulissen, in den weitaus größeren wissenschaftlichen Sammlungen des Museums, werden viele hunderte Tiere aus dem Berliner Zoo aufbewahrt – von Fischen über Vogelbälge bis zu großen Säugetieren.
 
 * Abb. Regale mit Etiketten mit Tieren aus dem Zoo. Z.B. Vogelsammlung o. Schädelsammlung. MUSS NOCH AUFGENOMMEN WERDEN.
 
