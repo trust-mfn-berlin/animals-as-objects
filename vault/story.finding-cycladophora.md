@@ -1,36 +1,37 @@
 ---
-id: 4kJJB2pX-g7lq6q7GUt0W
-title: Finding Cycladophora
-desc: >-
-  In 1859, during a survey trip for a planned North Atlantic submarine telegraph
-  line, the sample from which the radiolarian species Cycladophora has been
-  originally described is recovered. The story of this journey unfolds the
-  complex and extensive networks that allow Cycladophora to be what it is today. It also highlights the networks’ connections with the sociotechnical infrastructures of modernity.
-updated: 1628519988532
-created: 1624875316911
 license: CC BY-SA
 title_de: Auf der Suche nach Cycladophora
+created: 1624875316911
 author: Filippo Bertoni
 short_desc_de: Von Telegrafen zu Proben
-date_end: '1859-12-31T11:06:32.000Z'
+date_end: 1859-12-31T11:06:32.000Z
 published: false
+title: Finding Cycladophora
+updated: 1628519988532
+id: 4kJJB2pX-g7lq6q7GUt0W
 translators:
   translator_en_de: Anna von Rath
-desc_de: >-
-  Bei einer Vermessungsreise für den geplanten Bau einer
+desc: In 1859, during a survey trip for a planned North Atlantic submarine
+  telegraph line, the sample from which the radiolarian species Cycladophora has
+  been originally described is recovered. The story of this journey unfolds the
+  complex and extensive networks that allow Cycladophora to be what it is today.
+  It also highlights the networks' connections with the sociotechnical
+  infrastructures of modernity.
+desc_de: Bei einer Vermessungsreise für den geplanten Bau einer
   Unterwassertelegrafenleitung im Nordatlantik wird im Jahr 1859 die Probe
   entnommen, anhand derer die Radiolarienart Cycladophora ursprünglich
   beschrieben wurde. Die Geschichte dieser Reise veranschaulicht die komplexen
-  und weitreichenden Netzwerke, die Cycladophora zu dem machen, was es heute ist. Sie zeigt auch die Verbindungen dieser Netzwerke zu den soziotechnischen Infrastrukturen der Moderne auf.
+  und weitreichenden Netzwerke, die Cycladophora zu dem machen, was es heute
+  ist. Sie zeigt auch die Verbindungen dieser Netzwerke zu den soziotechnischen
+  Infrastrukturen der Moderne auf.
 short_desc: From telegraphs to samples
 cover_image:
   image: /images/cover-finding-cycladophora.jpg
-  alt: >-
-    Map of telegraph cables in the North Atlantic, 1865. Karte von
+  alt: "Map of telegraph cables in the North Atlantic, 1865. Karte von
     Telegrafenkabeln im Nordatlantik, 1865. Source:
-    https://atlantic-cable.com/Maps/index.htm
+    https://atlantic-cable.com/Maps/index.htm"
 tao_type: story
-date_start: '1858-12-31T23:06:32.000Z'
+date_start: 1858-12-31T23:06:32.000Z
 ---
 
 :::EN:::
