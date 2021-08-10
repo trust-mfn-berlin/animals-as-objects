@@ -2,9 +2,11 @@
 id: 21ac115b-15e0-4af9-a4ed-fdd3d29c313d
 title: ToDo CMW
 desc: ''
-updated: 1624456323200
+updated: 1628071686741
 created: 1618495172862
 ---
+<<<<<<< HEAD
+=======
 ## "Fertig" 1. Batch
 
 ### theme
@@ -28,6 +30,7 @@ created: 1618495172862
 - [[material.Steinmetzkartei]]
 - [[material.species360]]
 
+>>>>>>> 7cba222319c428697a43bc36938f29e55f146462
 ## Empty Backlinks
 
 - [[material.habitat]]
@@ -47,8 +50,6 @@ created: 1618495172862
 
 ## ToDo
 
-#### Fertigstellen
-
 ### Umarbeiten
 
 [[story.Zoos and Conservation]] noch zuviel Buchmanuskript drin
@@ -58,15 +59,8 @@ created: 1618495172862
 
 ### Bilder Zoo
 
-- [ ] Schorfheide mit Göring
-- [ ] Deutscher Zoo
-- [ ] Toter Bobby
-- [ ] Zeitungsausschnitte Gewicht
-
 ### Bilder MfN
 
-- [x] Knut präpariert
-- [x] Bobby präpariert
 
 ## Todos the others
 

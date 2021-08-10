@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-[[theme.planetary data]], [[story.micropaleontology]], [[material.databases]], [[material.planetary sciences]], [[material.big data]], [[material.big science]], [[material.biostratigraphy]], [[story.cycladophora davisiana]]
+[[theme.planetary data]], [[story.micropaleontological-formations]], [[material.databases]], [[material.planetary sciences]], [[material.big data]], [[material.big science]], [[material.biostratigraphy]], [[story.cycladophora-davisiana]]
 
 :::DE:::
 

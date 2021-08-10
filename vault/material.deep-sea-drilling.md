@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-[[story.oceanography]], [[material.william rex riedel]], [[material.cesare emiliani]], [[material.planetary sciences]], [[theme.planetary data]], [[story.cycladophora davisiana]]
+[[story.oceanography]], [[material.william rex riedel]], [[material.cesare emiliani]], [[material.planetary sciences]], [[theme.planetary data]], [[story.cycladophora-davisiana]]
 
 :::DE:::
 
