@@ -1,38 +1,36 @@
 ---
-id: aIG4TDxqQbsrl43uiSyGE
-title: Classifying Cycladophora
-desc: >-
-  The classification of this radiolarian species in the 19th century inscribed
-  it in a forming taxonomic order of nature. This story uses the contrasting
-  approaches of two renowned German naturalists – and their respective
-  interpretations of radiolaria – to show the early fate of Cycladophora
-  davisiana and of our understanding of microorganisms.
-updated: 1624875370467
-created: 1624875357621
 license: CC BY-SA
 title_de: Klassifizierung von Cycladophora
+created: 1624875357621
 author: Filippo Bertoni
 short_desc_de: Über Tiere hinausgehende Taxonomien
-date_end: '1887-12-31T11:06:32.000Z'
+date_end: 1887-12-31T11:06:32.000Z
 published: false
+title: Classifying Cycladophora
+updated: 1624875370467
+id: aIG4TDxqQbsrl43uiSyGE
+doi: 10.7479/64y2-m311/1
 translators:
   translator_en_de: Anna von Rath
-desc_de: >-
-  Die Klassifizierung dieser Radiolarienart im 19. Jahrhundert schrieb sie in
-  eine sich entwickelnde taxonomische Ordnung der Natur ein. Diese Geschichte
-  zeigt anhand der gegensätzlichen Herangehensweisen zweier renommierter
-  deutscher Naturforscher – und ihrer jeweiligen Interpretationen der
-  Radiolarien – das frühe Schicksal von Cycladophora davisiana und unseres
+desc: The classification of this radiolarian species in the 19th century
+  inscribed it in a forming taxonomic order of nature. This story uses the
+  contrasting approaches of two renowned German naturalists – and their
+  respective interpretations of radiolaria – to show the early fate of
+  Cycladophora davisiana and of our understanding of microorganisms.
+desc_de: Die Klassifizierung dieser Radiolarienart im 19. Jahrhundert schrieb
+  sie in eine sich entwickelnde taxonomische Ordnung der Natur ein. Diese
+  Geschichte zeigt anhand der gegensätzlichen Herangehensweisen zweier
+  renommierter deutscher Naturforscher – und ihrer jeweiligen Interpretationen
+  der Radiolarien – das frühe Schicksal von Cycladophora davisiana und unseres
   Verständnisses von Mikroorganismen.
 short_desc: Taxonomy beyond animals
 cover_image:
-  alt: >-
-    Clara Ehrenberg’s index, 1860s. Clara Ehrenbergs Index, 1860er Jahre.
+  alt: "Clara Ehrenberg’s index, 1860s. Clara Ehrenbergs Index, 1860er Jahre.
     Source: Museum für Naturkunde,
-    http://download.naturkundemuseum-berlin.de/Ehrenberg/
+    http://download.naturkundemuseum-berlin.de/Ehrenberg/"
   image: /images/cover-classifying-cycladophora-index-ehrenberg.png
 tao_type: story
-date_start: '1858-12-31T23:06:32.000Z'
+date_start: 1858-12-31T23:06:32.000Z
 ---
 
 :::EN:::
