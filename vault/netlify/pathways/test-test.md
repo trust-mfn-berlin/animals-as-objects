@@ -45,5 +45,4 @@ articles:
   - article: story.industrial-micropaleontology
   - article: story.chaotic-origins-of-micropaleontology
   - article: story.micropaleontology-at-sea
-  - article: story.micropaleontology
 ---
