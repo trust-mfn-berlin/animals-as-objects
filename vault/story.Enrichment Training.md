@@ -2,7 +2,7 @@
 id: 1ee4d401-6620-4095-ac94-68837a291b1d
 title: From Dressage to Medical Training
 desc: Put a description of this note here...
-updated: 1628790033861
+updated: 1628792054241
 created: 1619183095486
 title_de: Von der Dressur zum medizinischen Training
 desc_de: Put a DE description of this note here...
@@ -43,6 +43,17 @@ Das mit den Seelöwen und anderen Tieren zur verbesserten Tierhaltung absolviert
 Natürlich sind die konkreten Erfolge eines solchen Trainings nach dem Schema der klassischen Konditionierung von der Intelligenz der jeweiligen Tierart abhängig. Aber auch bei Straußen, Giraffen und Malaienbären kommt es beispielsweise zum Einsatz. Die Lippenbärin »Kaveri« lässt sich in einer Übung den Bauch rasieren und eine Ultraschalluntersuchung durchführen, was bei Trächtigkeit bereits eine große Hilfe war. Rechtzeitig konnten Tierärzte und Pfleger sie zum eigenen Schutz von dem Männchen trennen. Sogar im Aquarium funktioniert diese Trainingsmethode recht gut. Viele Gäste sind erstaunt, dass hier die Gaviale bei den kommentierten Fütterungen tatsächlich auf ihre Namen Asha und Uma hören und von den Pflegern ganz »persönlich«, wie manch ein Haustier, angesprochen werden können. 
 
 
+Ein gänzlich eigenes Kapitel, was mit diesem Phänomen zusammenhängt ist die Frage des Fütterns von Tieren durch Besucher\*innen [[story.Überfüttern; story.fütternverboten]] Dieses wurde im Berliner Zoo in den 1960er Jahren untersagt und war im Tierpark Berlin immer schon verboten. Sehr zum Leidwesen der Besucher\*innen. Diese übertreten noch heute gelegentlich das Fütterungsverbot. Sie suchen nach dem persönlichen Kontakt mit dem Tier. Dabei spielt es keine Rolle, dass dieses in diesem Moment kein natürliches Verhalten zeigt. Mit den Zielen des Artenschutzes, der Bildung, oder der Forschung sind diese Verhaltensweisen nicht zu vereinen. 
+
+Ziel der Zooleitung war offiziell, das Interesse der Kinder an Tieren insgesamt zu wecken. Stadtkinder sollten dadurch einen Teil der Natur, der ihnen mit der Urbanisierung entzogen worden war, zurückgewinnen. Dass diese Begegnungen zwischen Mensch und Tier heute nicht mehr dem Verständnis einer angemessenen Raubtierpflege entsprechen, spielte damals keine Rolle. Die Tiere kamen auch nicht aus dem Zoo selst. Dieser hätte gar nicht ausreichend Jungtiere gehabt. Sie wurden von der Tierhandelsfirma Ruhe zur geliefert gestellt, die sich dann mit dem Zoo die Einnahmen teilte. Es ist augenscheinlich, dass es vor allem um die Attraktion ging. Es scheint fast so, als hätte der Tierkinderzoo als eine Art Ersatz für die nun weniger populären und nicht mehr gewinnbringenden "Völkerschauen" gedient. Und in der Tat war der 'Tierkinderzoo' so erfolgreich, dass er in den folgenden Jahren mehrfach wiederholt wurde. [^tierkinder]
+In den 1980 er Jahren war dieses Argument so weit verbreitet, dass auch Behörden in West-Berlin den Zoo bei Volksfesten baten, Tiere zum Streicheln für die Kinder zur Verfügung zu stellen. Das Argument: die Stadtkinder, insbesondere in der eingeschlossenen Stadt Teilstadt, seien so sehr von der Natur entfremdet, dass sie die Gelegenheit Tiere zu sehen wichtig wäre.
+ 
+![Kleinkinder spielen in einem Kinderwagen mit jungen Raubkatzen](images\cmw\Tierkinderzoo_1936.jpg)
+_Bild des 'Tierkinderzoos' von 1936. (AZGB)_
+Der Zoo stellte wohl bis Mitte der 1980er Jahre Tiere zur Verfügung - wohl ausschließlich domestizierte Haustiere 
+
+
+
 Kawata, Ken. 2008. „Zoo Animal Feeding: A Natural History Viewpoint“. Der Zoologische Garten. Neue Folge 78: 17–42.
 
 ![desc](images\cmw\Zooplakat_Schimpanse_Missi_1909.jpg)
@@ -75,6 +86,10 @@ Etwa 1930 (AZGB)
 ![Drei asiatische Elefantenkühe bei der Dressur](images\cmw\Elefantendressur.jpg)
  
 Im Hamburger Tierpark Hagenbeck können einige Tierarten noch ganz offiziell mit dem vor Ort käuflichen Futter durch Besuchende gefüttert werden. Hagenbeck wirbt dafür auch auf seiner Website.[^hagenbeck] Wie zahlreiche Filme von Besucher\*innen auf Videoplattformen und Rezensionen auf Reiseportalen zeigen, ist das Füttern sehr beliebt.
+
+Dazu gehörten lange Zeit auch noch andere Spektakel. Schon früh finden wir im Zoo Klagen über Gäste, die die Tiere mit Zigaretten, Schirmen oder Spazierstöcke reizten. Dass sich bewegende, wehrende oder flüchtende Tier machte einen höheren Reiz aus, als das ausgestellte, schlafende oder ruhende. Gegen Ende des 19 Jahrhunderts waren in praktisch allen Zoos Tierdressuren üblich. Entweder wurden die Tiere durch die eigenen Pflegerinnen abgerichtet, Kunststücke vorzuführen oder aber wie am Beispiel des Berliner Zoos in den 1920 er und 1930 er Jahren wurden international bekannte Dressur-Artisten eingeladen, mit eigenen Tieren und den Tieren des Zoos Vorstellungen zu geben.[^reizen]
+
+[^reizen]: Clemens Maier-Wolthausen, _Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos_, hg. von Andreas Knieriem (Berlin: Ch. Links Verlag, 2019): 192 u. 238.
 
 
 [^zolli1]: Zoo Basel: _Der Pinguinspaziergang lädt zum Laufen ein_, 27.11.2019, https://www.zoobasel.ch/de/aktuelles/news/1257/der-pinguinspaziergang-laedt-zum-laufen-ein/ (09.08.2021).
