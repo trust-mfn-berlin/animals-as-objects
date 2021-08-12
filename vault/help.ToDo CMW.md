@@ -6,8 +6,6 @@ updated: 1628071686741
 created: 1618495172862
 colour_scheme: 11
 ---
-<<<<<<< HEAD
-=======
 ## "Fertig" 1. Batch
 
 ### theme
@@ -31,7 +29,6 @@ colour_scheme: 11
 - [[material.Steinmetzkartei]]
 - [[material.species360]]
 
->>>>>>> 7cba222319c428697a43bc36938f29e55f146462
 ## Empty Backlinks
 
 - [[material.habitat]]
