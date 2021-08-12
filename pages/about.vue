@@ -6,6 +6,7 @@
     <div class="container-inner">
       <main >
         <nuxt-content :document="page" />
+        <logo-block />
       </main>
       <aside class="f-mono quote">
         <ol v-if="page.toc.length > 0">
