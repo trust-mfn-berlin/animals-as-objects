@@ -45,11 +45,33 @@ export default {
     navigate(event, d){
       this.$router.push('/' + d.data.slug);
     },
+    mediaQuery(){
+      if(window){
+
+        if(window.innerWidth < 501){
+          this.attr.width = window.innerWidth*2;
+          this.attr.lineWidth = 20;
+          this.attr.spaceMultiplier = 25;
+        } else {
+          this.attr.width = window.innerWidth - 32;
+          this.attr.lineWidth = 32;
+          this.attr.spaceMultiplier = 40;
+        }
+
+        this.attr.height = timelineData.length * this.attr.spaceMultiplier - this.attr.margin.top;
+        this.attr.ticks = Math.floor(window.innerWidth / 80)
+
+      }
+    },
     init(){
+
+      this.mediaQuery();
 
       var svg;
 
       const that = this;
+
+      d3.selectAll("svg > *").remove();
 
       svg = d3
         .select("#d3-timeline")
@@ -165,7 +187,8 @@ export default {
           that.navigate(event, d)
         })
           
-          
+        this.attr.containerHeight = this.attr.computedLines * this.attr.spaceMultiplier - this.attr.margin.top + this.attr.margin.bottom;
+
     },
     dodge(data, {x0 = d => d, x1 = d => d} = {}) {
 
@@ -188,10 +211,10 @@ export default {
         let a = itemToCompare;
         while (a) {
           if (a.x0 < end && a.x1 > start) {
-            console.log('intersect')
+            // console.log('intersect')
             return true;
           } else {
-            console.log('no intersect')
+            // console.log('no intersect')
           }
           a = a.next;
         }
@@ -221,7 +244,7 @@ export default {
           b.y = this.attr.height - this.attr.margin.bottom - space*this.attr.spaceMultiplier            
         }
 
-        console.log(space);
+        // console.log(space);
 
         this.attr.computedLines = space+1;
 
@@ -241,29 +264,15 @@ export default {
     },
   },
   mounted(){
-    if(window){
 
-      if(window.innerWidth < 501){
-        this.attr.width = window.innerWidth*2;
-        this.attr.lineWidth = 20;
-        this.attr.spaceMultiplier = 25;
-      } else {
-        this.attr.width = window.innerWidth - 32;
-      }
-
-      this.attr.height = timelineData.length * this.attr.spaceMultiplier - this.attr.margin.top;
-      this.attr.ticks = Math.floor(window.innerWidth / 80)
-
-      
-    }
     this.init(); 
 
-    
-    this.attr.containerHeight = this.attr.computedLines * this.attr.spaceMultiplier - this.attr.margin.top + this.attr.margin.bottom;
+    // this.attr.containerHeight = this.attr.computedLines * this.attr.spaceMultiplier - this.attr.margin.top + this.attr.margin.bottom;
   
-    console.log(this.attr.computedLines,  this.attr.spaceMultiplier, this.attr.margin.top);
+    window.addEventListener('resize', this.init);
     // Responsive Guide
     // https://stackoverflow.com/questions/16265123/resize-svg-when-window-is-resized-in-d3-js
+
   },
 }
 </script>
