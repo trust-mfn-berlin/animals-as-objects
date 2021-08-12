@@ -11,12 +11,12 @@ tao_type: material
 cover_image: null
 license: CC BY-SA
 published: false
-colour_scheme: 17
+colour_scheme: 12
 ---
 
 :::EN:::
 
-[[story.microscopy]], [[theme.microbial worlds]], [[material.christian gottfried ehrenberg]], [[story.cycladophora davisiana]]
+[[story.microscopy]], [[theme.microbial worlds]], [[material.christian gottfried ehrenberg]], [[story.cycladophora-davisiana]]
 
 :::DE:::
 

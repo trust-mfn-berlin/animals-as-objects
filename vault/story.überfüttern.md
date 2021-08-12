@@ -27,7 +27,7 @@ cover_image:
     Erkrankung durch Überfütterung, Berlin 1960.
 tao_type: story
 date_start: 1871-12-31T23:06:32.000Z
-colour_scheme: 4
+colour_scheme: 11
 ---
 
 

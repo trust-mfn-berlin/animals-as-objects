@@ -11,12 +11,12 @@ tao_type: material
 cover_image: null
 license: CC BY-SA
 published: false
-colour_scheme: 10
+colour_scheme: 5
 ---
 
 :::EN:::
 
-[[material.radiolaria]], [[material.foraminifera]], [[theme.microbial worlds]], [[material.christian gottfried ehrenberg]], [[story.cycladophora davisiana]]
+[[material.radiolaria]], [[material.foraminifera]], [[theme.microbial worlds]], [[material.christian gottfried ehrenberg]], [[story.cycladophora-davisiana]]
 
 :::DE:::
 

@@ -10,6 +10,7 @@
     "pdf": "node scripts/export-pdf.js",
     "test": "node link-map.js",
     "images": "node scripts/optimise-images.js",
+    "colours": "node scripts/assign-colours.js",
     "local": "node scripts/copy-audio.js && node scripts/copy-images.js && node scripts/link-map.js && node scripts/create-timeline.js && nuxt generate && npm run start"
   },
   "dependencies": {

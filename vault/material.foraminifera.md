@@ -11,12 +11,12 @@ tao_type: material
 cover_image: null
 license: CC BY-SA
 published: false
-colour_scheme: 14
+colour_scheme: 11
 ---
 
 :::EN:::
 
-[[story.micropaleontology]], [[theme.microbial worlds]]
+[[story.micropaleontological-formations]], [[theme.microbial worlds]]
 
 :::DE:::
 

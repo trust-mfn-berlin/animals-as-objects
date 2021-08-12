@@ -17,7 +17,13 @@
 <script>
 import * as d3 from 'd3'
 import featuredGraphData from '~/temp/graphdata.json';
-var graphData = featuredGraphData[0];
+var graphData
+
+if(featuredGraphData){
+  graphData = featuredGraphData[0];
+} else {
+  console.log('NO FEATURED GRAPH');
+}
 
 const title_nodes = [
   {

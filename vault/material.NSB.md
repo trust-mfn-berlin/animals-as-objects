@@ -11,12 +11,12 @@ tao_type: material
 cover_image: null
 license: CC BY-SA
 published: false
-colour_scheme: 1
+colour_scheme: 14
 ---
 
 :::EN:::
 
-[[theme.planetary data]], [[story.micropaleontology]], [[material.databases]], [[material.planetary sciences]], [[material.big data]], [[material.big science]], [[material.biostratigraphy]], [[story.cycladophora davisiana]]
+[[theme.planetary data]], [[story.micropaleontological-formations]], [[material.databases]], [[material.planetary sciences]], [[material.big data]], [[material.big science]], [[material.biostratigraphy]], [[story.cycladophora-davisiana]]
 
 :::DE:::
 

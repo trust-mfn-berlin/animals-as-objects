@@ -1,8 +1,8 @@
 ---
 id: 5277f2fa-42b1-4bfa-8a6c-8f8c2117784e
 title: Native and Exotic
-desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-updated: 1624527602762
+desc: Put a description of this note here...
+updated: 1628714678430
 created: 1620997389421
 title_de: Heimisch und Exotisch
 desc_de: Put a DE description of this note here...
@@ -11,7 +11,7 @@ tao_type: story
 cover_image: null
 license: CC BY-SA
 published: false
-colour_scheme: 2
+colour_scheme: 3
 ---
 
 
@@ -49,12 +49,6 @@ Im Sommer 1931 organisierte der Berliner Zoo zum ersten Mal einen Tierkinderzoo 
 _Bild aus dem 'Tierkinderzoo', um 1933. (AZGB)_
 
 * anfangs sogar Engpass: L. Ruhe an Zoo Berlin, 3.02.1931, AZGB O 3/2/1: „"Ich bestätige den Besuch Ihres sehr geehrten Geheimrat Heck und gestatte mir zu dem Vertrage wegen des Tier-Kindergartens und der Tierschule zu bemerken, daß es wahrscheinlich schwer sein wird, junge Löwen, junge Tiger und junge Leoparden zu bekommen. Diese sind im Frühjahr immer sehr teuer, da die Zoologischen Gärten sie zu Attraktionen selber benutzen. Vielleicht werden bei Ihnen bis dahin junge Löwen geboren, so daß wir diese Tiere dann nehmen würden, wie es von Ihnen ja auch ursprünglich in Aussicht gestellt war. Auf jeden Fall werde ich auch in dieser Hinsicht versuchen, die Schau interessant zu gestalten, damit wir den Ansprüchen des Berliner Publikums gerecht werden. Wie mit Herrn Geheimrat Heck schon besprochen, könnten anstatt der jungen Raubtiere vorläufig exotische Bären genommen und diese evtl. später gegen junge Raubtiere ausgetauscht werden."
-
-
-Ziel der Zooleitung war offiziell, das Interesse der Kinder an Tieren insgesamt zu wecken. Stadtkinder sollten dadurch einen Teil der Natur, der ihnen mit der Urbanisierung entzogen worden war, zurückgewinnen. Dass diese Begegnungen zwischen Mensch und Tier heute nicht mehr dem Verständnis einer angemessenen Raubtierpflege entsprechen, spielte damals keine Rolle. Die Tiere kamen auch nicht aus dem Zoo selst. Dieser hätte gar nicht ausreichend Jungtiere gehabt. Sie wurden von der Tierhandelsfirma Ruhe zur geliefert gestellt, die sich dann mit dem Zoo die Einnahmen teilte. Es ist augenscheinlich, dass es vor allem um die Attraktion ging. Es scheint fast so, als hätte der Tierkinderzoo als eine Art Ersatz für die nun weniger populären und nicht mehr gewinnbringenden "Völkerschauen" gedient. Und in der Tat war der 'Tierkinderzoo' so erfolgreich, dass er in den folgenden Jahren mehrfach wiederholt wurde. [^tierkinder]
-
-![Kleinkinder spielen in einem Kinderwagen mit jungen Raubkatzen](/images/cmw/Tierkinderzoo_1936.jpg)
-_Bild des 'Tierkinderzoos' von 1936. (AZGB)_
 
 Heute werden weder im Berliner Zoo noch in anderen deutschen Zoos Raubtiere in dieser Form ausgestellt. Möglicherweise standen aber die zwischen den 1950er und 1990er Jahren weit verbreiteten 'Löwenbaby-Fotografen' in der Tradition dieser Tierkinderzoos. [[story.lion babies]] Auch hier mussten 'exotische' Raubtiere und nicht einheimische Zicklein für die gestellten Fotografien herhalten. Nach wie vor ist der Streichelzoo mit Haustieren wie Ziegen, Ponys und Schafen dennoch eine große Attraktion für junge Besucher\*innen. Heute also nur noch einheimische und domestizierte Tierarten.
 

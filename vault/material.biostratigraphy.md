@@ -11,12 +11,12 @@ tao_type: material
 cover_image: null
 license: CC BY-SA
 published: false
-colour_scheme: 2
+colour_scheme: 1
 ---
 
 :::EN:::
 
-[[story.micropaleontology]], [[material.planetary sciences]], [[theme.planetary data]], [[material.fossil fuels]]
+[[story.micropaleontological-formations]], [[material.planetary sciences]], [[theme.planetary data]], [[material.fossil fuels]]
 
 :::DE:::
 

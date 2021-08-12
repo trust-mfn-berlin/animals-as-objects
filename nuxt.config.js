@@ -109,7 +109,7 @@ export default {
 
       if (file.extension === '.md') {
         // Before parsing markdown, modify raw file data here:
-
+        // console.log(file.path);
         // First, extract frontmatter. We will join this back on later.
         const frontMatter = file.data.match(frontMatterRegex)[0];
         // console.log(frontMatter);

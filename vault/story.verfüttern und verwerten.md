@@ -1,35 +1,38 @@
 ---
-license: CC BY-SA
-title_de: Verfüttern und Verwerten
-created: 1621970259942
-author: Mareike Vennen
-short_desc_de: Auf den Spuren eines Elefanten
-date_end: 1947-12-31T11:00:00.000Z
-published: false
-title: VerfüTtern Und Verwerten
-updated: 1622740417351
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
-translators:
-  translator_de_en: Lucy Gasser
-desc: EN Was passiert mit Zootieren nach ihrem Tod, wie werden ihre
-  Körper(teile) weiterverwertet – als koloniale Trophäen, Museumsobjekte oder
+title: VerfüTtern Und Verwerten
+desc: >-
+  EN Was passiert mit Zootieren nach ihrem Tod, wie werden ihre Körper(teile)
+  weiterverwertet – als koloniale Trophäen, Museumsobjekte oder
   Fleischlieferanten? Die Geschichte des Berliner Zoo-Elefanten "Siam" aus den
   1940er Jahren führt ins Berlin der Nachkriegszeit und tief in die Geschichte
   des europäischen Kolonialismus.
-desc_de: Was passiert mit Zootieren nach ihrem Tod, wie werden ihre
-  Körper(teile) weiterverwertet – als koloniale Trophäen, Museumsobjekte oder
+updated: 1622740417351
+created: 1621970259942
+license: CC BY-SA
+title_de: Verfüttern und Verwerten
+author: Mareike Vennen
+short_desc_de: Auf den Spuren eines Elefanten
+date_end: '1947-12-31T11:00:00.000Z'
+published: false
+translators:
+  translator_de_en: Lucy Gasser
+desc_de: >-
+  Was passiert mit Zootieren nach ihrem Tod, wie werden ihre Körper(teile)
+  weiterverwertet – als koloniale Trophäen, Museumsobjekte oder
   Fleischlieferanten? Die Geschichte des Berliner Zoo-Elefanten "Siam" aus den
   1940er Jahren führt ins Berlin der Nachkriegszeit und tief in die Geschichte
   des europäischen Kolonialismus.
 short_desc: EN Auf den Spuren eines Elefanten
 cover_image:
   image: /images/cover-feeding-and-use-elephant.jpg
-  alt: "Elephant skulls in the mammal collection of Berlin's natural history
-    museum. Elefantenschädel in der Säugetiersammlung des Berliner
-    Naturkundemuseums. Source: Museum für Naturkunde Berlin, photo Mareike
-    Vennen. All rights reserved."
+  alt: >-
+    Elephant skulls in the mammal collection of Berlin's natural history museum.
+    Elefantenschädel in der Säugetiersammlung des Berliner Naturkundemuseums.
+    Source: Museum für Naturkunde Berlin, photo Mareike Vennen. All rights
+    reserved.
 tao_type: story
-date_start: 1932-12-31T23:00:00.000Z
+date_start: '1932-12-31T23:00:00.000Z'
 colour_scheme: 8
 ---
 :::EN:::
@@ -62,7 +65,7 @@ _Suche in der Säugetiersammlung des Museums für Naturkunde Berlin, November 20
 
 Sind die Elefantenknochen am Ende gar nicht in die Sammlung gekommen? Oder liegt es daran, dass das Zoologischen Museum nicht zu jeder Zeit detailliert Buch über die eintreffenden Objekte führte und daher nicht alle historischen Elefantenknochen systematisch in den Eingangskatalogen verzeichnet und wieder auffindbar sind? (siehe dazu auch [[story.record keeping]]). Manche Objektgeschichten scheinen nur (noch) als Papierspuren zu existieren, die die Tiere in Archiven, Korrespondenzen oder Zeitungsberichten hinterlassen.
 
-In "Siams" Fall führen diese in die europäische Kolonialgeschichte. Die Stationen seines Lebens lenken den Blick auf die lange und problematische Geschichte sogenannter "exotischer" Zoo- und Zirkustiere aus kolonialen Kontexten – Tiere, die aus den Kolonien als Handels- und Tauschobjekte oder als Geschenke nach Europa gebracht wurden.[^Verfüttern18] – wie hier aus der britischen Kolonie Ceylon, wohin Tierhändler wie John Hagenbeck regelmäßig reisten, um Tiere für Zoologische Gärten und Zirkusse zu fangen und  Menschen für Völkerschauen zu rekrutieren.[^Verfüttern19] [[Völkerschauen]] [[story.Catching Animals]] [[story.Gifting Objects]] [[theme.Getting Zoo Animals]] Elefantenfüße als Papierkörbe gehören dabei zweifellos zu den ikonischen Trophäen, in denen sich Verwertungsweisen wie auch stereotypisierte imperiale Bilder um Aneignung und Beherrschung materialisieren. Auch wenn wir über den tatsächlich Verbleib von "Siams" Füßen nichts wissen, verweist die Umwandlung von Elefantenfüßen zum Papierkorb darauf, dass die materielle Kultur des Kolonialismus in Sammlungen ebenso wie in Wohnzimmern zu suchen und sowohl Teil der Berliner Museums- wie auch Alltagsgeschichte ist. 
+In "Siams" Fall führen diese in die europäische Kolonialgeschichte. Die Stationen seines Lebens lenken den Blick auf die lange und problematische Geschichte sogenannter "exotischer" Zoo- und Zirkustiere aus kolonialen Kontexten – Tiere, die aus den Kolonien als Handels- und Tauschobjekte oder als Geschenke nach Europa gebracht wurden.[^Verfüttern18] – wie hier aus der britischen Kolonie Ceylon, wohin Tierhändler wie John Hagenbeck regelmäßig reisten, um Tiere für Zoologische Gärten und Zirkusse zu fangen und  Menschen für Völkerschauen zu rekrutieren.[^Verfüttern19] [[Völkerschauen]] [[story.catching-animals]] [[story.Gifting Objects]] [[theme.how-do-animals-get-into-the-zoo]] Elefantenfüße als Papierkörbe gehören dabei zweifellos zu den ikonischen Trophäen, in denen sich Verwertungsweisen wie auch stereotypisierte imperiale Bilder um Aneignung und Beherrschung materialisieren. Auch wenn wir über den tatsächlich Verbleib von "Siams" Füßen nichts wissen, verweist die Umwandlung von Elefantenfüßen zum Papierkorb darauf, dass die materielle Kultur des Kolonialismus in Sammlungen ebenso wie in Wohnzimmern zu suchen und sowohl Teil der Berliner Museums- wie auch Alltagsgeschichte ist. 
 
 ## Verfüttern und Verspeisen
 
@@ -132,7 +135,7 @@ Gleichzeitig ist das Nachleben von "Siam" aber auch ein loses Ende, das die Lüc
 
 [^Verfüttern17]: "Gemüse- und Kartoffeldiebstähle." _Verordnungsblatt (VOBl.) der Stadt Berlin 1945_, Nr. 7, 20.9.1945: 93.
 
-[^Verfüttern18]: Vgl. Szczygielska, Marianna. "Elephant Empire: Zoos and Colonial Encounters in Eastern Europe." _Cultural Studies_(2020): 1-22. <https://doi.org/10.1080/09502386.2020.1780280>; siehe auch [[story.Catching Animals]].
+[^Verfüttern18]: Vgl. Szczygielska, Marianna. "Elephant Empire: Zoos and Colonial Encounters in Eastern Europe." _Cultural Studies_(2020): 1-22. <https://doi.org/10.1080/09502386.2020.1780280>; siehe auch [[story.catching-animals]].
 
 [^Verfüttern19]: Vgl. Hagenbeck, John. _John Hagenbecks abenteuerliche Flucht aus Ceylon_, Leipzig: Deutsche Buchwerkstätten 1917.
 

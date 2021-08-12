@@ -25,4 +25,10 @@ journal:
     dateFormat: y.MM.dd
     addBehavior: childOfDomain
     firstDayOfWeek: 1
-dendronVersion: 0.48.1
+dendronVersion: 0.53.0
+dev:
+    previewV2Enabled: false
+scratch:
+    name: scratch
+    dateFormat: y.MM.dd.HHmmss
+    addBehavior: asOwnDomain

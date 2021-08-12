@@ -1,36 +1,39 @@
 ---
+id: d54394f6-1188-4ec3-b590-da329e657560
+title: Futternot
+desc: >-
+  EN Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten nach
+  dem Zweiten Weltkrieg, seine Tiere durchzubringen? Welche Rolle spielte dabei
+  die Ernährungslage Berlins? Zoo und Stadtgesellschaft gingen in dieser Krise
+  neue Verbindungen ein – zwischen Unterstützung und Konkurrenz, was die Rolle
+  und Funktion des Zoos zeitweise veränderte.
+updated: 1624280329673
+created: 1621497485660
 license: CC BY-SA
 title_de: Futternot
-created: 1621497485660
 author: Mareike Vennen
 short_desc_de: 1945 – Krise in Zoo und Stadt
-date_end: 1950-12-31T11:00:00.000Z
+date_end: '1950-12-31T11:00:00.000Z'
 published: false
-title: Futternot
-updated: 1624280329673
-id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: Lucy Gasser
-desc: EN Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten
-  nach dem Zweiten Weltkrieg, seine Tiere durchzubringen? Welche Rolle spielte
-  dabei die Ernährungslage Berlins? Zoo und Stadtgesellschaft gingen in dieser
-  Krise neue Verbindungen ein – zwischen Unterstützung und Konkurrenz, was die
-  Rolle und Funktion des Zoos zeitweise veränderte.
-desc_de: Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten
-  nach dem Zweiten Weltkrieg, seine Tiere durchzubringen? Welche Rolle spielte
-  dabei die Ernährungslage Berlins? Zoo und Stadtgesellschaft gingen in dieser
-  Krise neue Verbindungen ein – zwischen Unterstützung und Konkurrenz, was die
-  Rolle und Funktion des Zoos zeitweise veränderte.
+desc_de: >-
+  Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten nach dem
+  Zweiten Weltkrieg, seine Tiere durchzubringen? Welche Rolle spielte dabei die
+  Ernährungslage Berlins? Zoo und Stadtgesellschaft gingen in dieser Krise neue
+  Verbindungen ein – zwischen Unterstützung und Konkurrenz, was die Rolle und
+  Funktion des Zoos zeitweise veränderte.
 short_desc: EN 1945 – Krise in Zoo und Stadt
 cover_image:
   image: /images/cover-food-shortage.jpg
-  alt: "Vegetable cultivation in the treeless Großer Tiergarten in Berlin in 1946,
+  alt: >-
+    Vegetable cultivation in the treeless Großer Tiergarten in Berlin in 1946,
     with Reichstag building in the background. Gemüseanbau im abgeholzten Großen
     Tiergarten in Berlin 1946, im Hintergrund das Reichstagsgebäude. Source:
-    Bundesarchiv image 183-M1015-314, photo Otto Donath."
+    Bundesarchiv image 183-M1015-314, photo Otto Donath.
 tao_type: story
-date_start: 1944-12-31T23:00:00.000Z
-colour_scheme: 14
+date_start: '1944-12-31T23:00:00.000Z'
+colour_scheme: 6
 ---
 
 :::EN:::
@@ -83,7 +86,7 @@ _Das_ Life Magazine _berichtet über den einzigen überlebenden Berliner Zoo-Ele
 
 </figure>
 
-Im Zoo fehlte es damals an allem, von Futter über Brennholz bis zu Baumaterialien. Die Zoologin [[material.Katharina Heinroth]], die am 3. August 1945 auch offiziell die Leitung des weitgehend zerstörten Zoologischen Gartens übernahm, hatte größte Mühe die verbliebenen Tiere mit ihren wenigen Mitarbeiter\*innen und nahezu ohne finanzielle Mittel durchzubringen. Bereits im Mai hatte der sowjetische Kommandant (Berlin war damals durch sowjetische Truppen besetzt und verwaltet) eine Genehmigung für den Erwerb von Futtermitteln ausgestellt, so dass einstweilen wieder Fleisch für die Raubtiere sowie Heu, Hafer und Kartoffeln gekauft werden konnten.[^2] Dennoch war die Situation angespannt und **die Beschaffung von Futter blieb die kommenden Jahre ein brennendes Thema**: "[D]ie Futtermittelnot ist furchtbar, am meisten fehlen Kartoffeln, Rüben, Heu und Stroh. [...] Wir haben seit 4 Monaten keine Kartoffeln für den Betrieb bekommen" [^3], schrieb Katharina Heinroth im März 1946 über die Ernährungslage im Zoo. Wie sollte man da einen Elefanten ernähren?
+Im Zoo fehlte es damals an allem, von Futter über Brennholz bis zu Baumaterialien. Die Zoologin [[material.katharina-heinroth]], die am 3. August 1945 auch offiziell die Leitung des weitgehend zerstörten Zoologischen Gartens übernahm, hatte größte Mühe die verbliebenen Tiere mit ihren wenigen Mitarbeiter\*innen und nahezu ohne finanzielle Mittel durchzubringen. Bereits im Mai hatte der sowjetische Kommandant (Berlin war damals durch sowjetische Truppen besetzt und verwaltet) eine Genehmigung für den Erwerb von Futtermitteln ausgestellt, so dass einstweilen wieder Fleisch für die Raubtiere sowie Heu, Hafer und Kartoffeln gekauft werden konnten.[^2] Dennoch war die Situation angespannt und **die Beschaffung von Futter blieb die kommenden Jahre ein brennendes Thema**: "[D]ie Futtermittelnot ist furchtbar, am meisten fehlen Kartoffeln, Rüben, Heu und Stroh. [...] Wir haben seit 4 Monaten keine Kartoffeln für den Betrieb bekommen" [^3], schrieb Katharina Heinroth im März 1946 über die Ernährungslage im Zoo. Wie sollte man da einen Elefanten ernähren?
 
 Nachdem der gröbste Schutt entfernt worden war, machten sich Katharina Heinroth und die Zoomitarbeiter\*innen daran, Futter für die Tiere selbst zu produzieren. Eigentlich sollte der Zoo bei Wiedereröffnung im Juli 1945 Erholung und Vergnügen jenseits des Nachkriegsalltags bieten. "Ich träumte dabei auch von schönen Blumenbeeten in den Alleen", sagte Katharina Heinroth in einem Interview, "aber es kommt anders. Jede freie Ecke muß mit Gemüse bepflanzt werden. Die leeren Freigehege werden unter unsere Angestellten für den eigenen Bedarf aufgeteilt."[^4] Außer der Gärtnerei, die bereits voll bestellt war, sollten nun "alle durch den Kampf im Zoo entstandenen Freiflächen mit Futtermitteln bebaut werden".[^5] **Das Hirschgehege wurde zum Gemüsegarten, auf den freien Rasenflächen und im Elefantengehege wuchsen schon bald Rüben, Kartoffeln und Salat[^6], kurz: Der Zoo wurde beackert.**
 
@@ -242,7 +245,7 @@ Je nach Perspektive **war der Zoo Umschlagplatz für den Austausch von Tieren un
 [^29]: Aktennotiz Katharina Heinroth, 19.03.1946, AZGB O 0/1/75.
 [^30]: Als die Meerschweinchenzucht wieder im Aufbau war, blieb der Zoo "öfter gezwungen, aus Futterknappheit Meerschweinchen zu verfüttern". K. Heinroth an J. Roscher, 23.02.1947, AZGB O 1/2/42.
 [^31]: Zwischen Mai und August 1945 stieg der Tierbestand von 194 auf 240 Stück; vor allem durch die Aufnahme von Tieren aus dem Zirkus Brumbach.
-[^32]: Der Zweite Weltkrieg hatte in ganz Europa viele Zoos mehr oder weniger schwer zerstört. Während des Ersten und Zweiten Weltkrieges haben außerdem Truppenverbände der Reichswehr und der Wehrmacht Tiere in den eroberten Gebieten Europas gefangen und dem Zoologischen Garten der Reichshauptstadt übergeben. 1939 brachte Lutz Heck außerdem wertvolle Schautiere, darunter einen Elefanten, aus dem Warschauer Zoo für deutsche Zoos. Vgl. Szczygielska, Marianna. "Elephant Empire: Zoos and Colonial Encounters in Eastern Europe." _Cultural Studies_(2020): 1-22. https://doi.org/10.1080/09502386.2020.1780280; siehe auch [[story.Catching Animals]].
+[^32]: Der Zweite Weltkrieg hatte in ganz Europa viele Zoos mehr oder weniger schwer zerstört. Während des Ersten und Zweiten Weltkrieges haben außerdem Truppenverbände der Reichswehr und der Wehrmacht Tiere in den eroberten Gebieten Europas gefangen und dem Zoologischen Garten der Reichshauptstadt übergeben. 1939 brachte Lutz Heck außerdem wertvolle Schautiere, darunter einen Elefanten, aus dem Warschauer Zoo für deutsche Zoos. Vgl. Szczygielska, Marianna. "Elephant Empire: Zoos and Colonial Encounters in Eastern Europe." _Cultural Studies_(2020): 1-22. https://doi.org/10.1080/09502386.2020.1780280; siehe auch [[story.catching-animals]].
 [^33]: K. Heinroth an den Magistrat der Stadt Berlin, Abteilung für Ernährung, 20.03.1946, AZGB O 1/1/2. Vgl. auch K. Heinroth an die Alliierte Kommandantur der Stadt Berlin, 15.05.1946, AZGB O 1/1/2.
 [^34]: "Auf den Spuren des Elefanten." _Der Kurier_, 07.02.1948: "Verhungert und halb erfroren war im März vergangenen Jahres 'Siam', der letzte der Berliner Dickhäuter." Vgl. auch "'Siam' unter der Bandsäge." _Telegraf_, 21.03.1947.
 [^35]: K. Heinroth an W. Börner, 14.10.1947, AZGB O 1/2/42.

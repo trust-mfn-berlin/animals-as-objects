@@ -11,7 +11,7 @@ tao_type: story
 cover_image: null
 license: CC BY-SA
 published: false
-colour_scheme: 11
+colour_scheme: 4
 ---
 
 :::EN:::
@@ -30,7 +30,7 @@ The cover of a reprint of the 1976 landmark paper by Hays, Imbrie, and Shackleto
 
 another product of wartime science, cybernetics and [[material.system sciences]], impact on the objects of science, but also its tools and methods. [[material.planetary sciences]], and the planet as earth systems, and climate science. [[material.gaia theory]]. Modeling and [[material.big data]], [[material.databases]]
 
-[[theme.planetary data]], [[material.NSB]], [[story.cycladophora davisiana]], [[material.big science]], [[material.big data]], [[material.gaia theory]] 
+[[theme.planetary data]], [[material.NSB]], [[story.cycladophora-davisiana]], [[material.big science]], [[material.big data]], [[material.gaia theory]] 
 
 [^1]: See: Hays, James D., John Imbrie, and Nicholas J. Shackleton. "Variations in the earth's orbit: Pacemaker of the ice ages". _Science_ 194, (1976): 1121-1132. https://doi.org/10.1126/science.194.4270.1121
 
