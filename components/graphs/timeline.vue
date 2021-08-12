@@ -1,5 +1,5 @@
 <template>
-  <div id="d3-timeline"></div>
+  <div id="d3-timeline" :style="{'height': attr.containerHeight + 'px'}"></div>
 </template>
 
 <script>
@@ -15,16 +15,18 @@ export default {
       attr : {
         width: 1200,
         height: 900,
-        lineWidth: 16,
+        lineWidth: 32, //Thickness of timelines
         padding:5,
         ticks: 20,
         margin: {
-          top: 20,
+          top: 1,
           right: 40,
           left: 40,
           bottom: 40,
         },
-        spaceMultiplier: 25,
+        spaceMultiplier: 40,
+        computedLines: 0,
+        containerHeight: 900
       },
     }
   },
@@ -199,10 +201,6 @@ export default {
       for (let l = 0; l < lines.length; l++) {
         const b = lines[l];
         
-        // Remove circles from the queue that can’t intersect the new circle b.
-        // while (head && head.x < b.x - radius2) head = head.next;
-
-        // Choose the minimum non-intersecting tangent.
         if(lines[l+1]){
         
           if (intersects(b.x0, b.x1, lines[l+1])) {
@@ -223,7 +221,9 @@ export default {
           b.y = this.attr.height - this.attr.margin.bottom - space*this.attr.spaceMultiplier            
         }
 
-        // console.log(space);
+        console.log(space);
+
+        this.attr.computedLines = space+1;
 
         // // Add b to the queue.
         // b.next = null;
@@ -248,7 +248,7 @@ export default {
         this.attr.lineWidth = 20;
         this.attr.spaceMultiplier = 25;
       } else {
-        this.attr.width = window.innerWidth;
+        this.attr.width = window.innerWidth - 32;
       }
 
       this.attr.height = timelineData.length * this.attr.spaceMultiplier - this.attr.margin.top;
@@ -258,6 +258,10 @@ export default {
     }
     this.init(); 
 
+    
+    this.attr.containerHeight = this.attr.computedLines * this.attr.spaceMultiplier - this.attr.margin.top + this.attr.margin.bottom;
+  
+    console.log(this.attr.computedLines,  this.attr.spaceMultiplier, this.attr.margin.top);
     // Responsive Guide
     // https://stackoverflow.com/questions/16265123/resize-svg-when-window-is-resized-in-d3-js
   },
@@ -268,15 +272,23 @@ export default {
 
 #d3-timeline{
   margin-left: -@space-s;
+  overflow: hidden;
+  position: relative;
+
   @media screen and (max-width: @mq-s) /* Mobile */ {
     overflow-x:scroll;
-  margin-right: -@space-s;
+    margin-right: -@space-s;
   }
 }
 
 ::v-deep svg{
+
+  position: absolute;
+  bottom:0;
+  z-index: 0;
   
-  background-color: @bg-2;
+  // background-color: @bg-2;
+  // background-color: red;
   // border-radius: @radius-l;
 
   .tooltip{
