@@ -281,7 +281,7 @@ export default {
 
 #d3-timeline{
   margin-left: -@space-s;
-  overflow: hidden;
+  // overflow: hidden;
   position: relative;
 
   @media screen and (max-width: @mq-s) /* Mobile */ {
