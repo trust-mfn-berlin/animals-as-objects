@@ -24,11 +24,19 @@ collections:
       - label: stories
         field: tao_type
         pattern: 'story'
+      - label: Is Archived
+        field: archived
+        pattern: true
+      - label: Is Not Archived
+        field: archived
+        pattern: false|undefined
     view_groups:
       - label: type
         field: tao_type
       - label: author
         field: author
+      - label: Archived
+        field: archived
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: false
