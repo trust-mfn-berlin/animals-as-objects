@@ -42,8 +42,8 @@ into_text:
     clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
     amet.
 articles:
-  - article: story.industrial micropaleontology
-  - article: story.chaotic origins of micropaleontology
-  - article: story.micropaleontology at sea
+  - article: story.industrial-micropaleontology
+  - article: story.chaotic-origins-of-micropaleontology
+  - article: story.micropaleontology-at-sea
   - article: story.micropaleontology
 ---
