@@ -2,7 +2,7 @@
 id: 1ee4d401-6620-4095-ac94-68837a291b1d
 title: From Dressage to Medical Training
 desc: Put a description of this note here...
-updated: 1621006755427
+updated: 1628790033861
 created: 1619183095486
 title_de: Von der Dressur zum medizinischen Training
 desc_de: Put a DE description of this note here...
@@ -58,3 +58,29 @@ Etwa 1930 (AZGB)
 (AZGB, Schenkung durch Hannelore Heinzel)
 
 ![Drei asiatische Elefantenkühe bei der Dressur](images\cmw\Elefantendressur.jpg)
+
+Noch bis in die 1960er Jahre waren in den Berliner Zoologischen Gärten auch das Reiten auf Tieren (oft Elefanten) oder der persönlichen Kontakt mit Tierkindern möglich. Ein besonderes Beispiel hierfür ist die bis etwa Anfang der 1990er Jahre gängige Praxis im Berliner Zoo und Tierpark, das professionelle Fotograf\*innen Löwen oder andere Raubtierjunge auf dem Schoß von jungen Besucher\*innen fotografierten. Gegen Geld konnte hier ein besonderes Erinnerungsfoto aus dem Zoobesuch mit nach Hause genommen werden. Die Tiere gehörten im allgemeinen nicht zum Bestand der Tiergärten sondern waren im Besitz der Fotograf\*innen. [[story.Lionbabies o.ä.]]
+ 
+![desc](images\cmw\Reiterkarawane_um_1925.jpg)
+
+Moderne Formen dieser Nahbegegnungen das Elefantenreiten und die Löwenbabies existieren heute mit nennenswerten Ausnahmen nicht mehr. Im Baseler Zoo “Zolli” allerdings “spazieren” seit den 1950er Jahren die Königs- und Eselspinguine während der Kalten Jahreszeit täglich über die Brücke vor dem Vivarium.[^zolli1] In Berlin bieten Zoo und Tierpark die “Lieblingstier-Besuche” an. Bei diesen können beispielsweise, Elefanten, Erdmännchen, Okapis, Flusspferde, Capybaras, Giraffen oder Riesenschildkröten besucht werden.[^lieblichstier] Dabei sind neben besonderen Informationen durch die Pfleger durchaus auch Fütterungen mit geeignetem Futter eingeschlossen.
+
+![desc](images/cmw/Dressur_kaden_1940_Heck.jpg)
+_Löwendressur durch Dompteur Kaden, 1940. (AZGB)_
+ 
+ 
+![desc](images/cmw/Elefant_Dressur.jpg)
+Etwa 1930 (AZGB)
+
+![Drei asiatische Elefantenkühe bei der Dressur](images\cmw\Elefantendressur.jpg)
+ 
+Im Hamburger Tierpark Hagenbeck können einige Tierarten noch ganz offiziell mit dem vor Ort käuflichen Futter durch Besuchende gefüttert werden. Hagenbeck wirbt dafür auch auf seiner Website.[^hagenbeck] Wie zahlreiche Filme von Besucher\*innen auf Videoplattformen und Rezensionen auf Reiseportalen zeigen, ist das Füttern sehr beliebt.
+
+
+[^zolli1]: Zoo Basel: _Der Pinguinspaziergang lädt zum Laufen ein_, 27.11.2019, https://www.zoobasel.ch/de/aktuelles/news/1257/der-pinguinspaziergang-laedt-zum-laufen-ein/ (09.08.2021).
+
+ 
+[^lieblichstier]: Zoo Berlin, Lieblingstier-Besuche, https://www.zoo-berlin.de/de/zoo-erleben/fuehrungen-erlebnisse/angebote-fuer-erwachsene#lieblingstier-besuch; Tierpark Berlin, Lieblingstier-Besuche,https://www.tierpark-berlin.de/de/tierpark-erleben/fuehrungen-erlebnisse/angebote-fuer-erwachsene; Aquarium Berlin, Lieblingstier-Besuche,https://www.aquarium-berlin.de/de/aquarium-erleben/fuehrungen-erlebnisse/angebote-fuer-erwachsene (09.08.2021).
+
+ 
+[^hagenbeck]: Hagenbeck: Fütterungen, https://www.hagenbeck.de/de/tierpark/tiere/fuetterungen.php (09.08.2021)
