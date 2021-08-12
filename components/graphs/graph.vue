@@ -17,12 +17,43 @@
 <script>
 import * as d3 from 'd3'
 import featuredGraphData from '~/temp/graphdata.json';
-var graphData
+var graphData;
 
-if(featuredGraphData){
-  graphData = featuredGraphData[0];
+if(featuredGraphData.length > 1){
+
+// Change feature based on day of the month
+var today = new Date(); //Get todays date
+var month = today.getMonth();
+var year = today.getUTCFullYear();
+var date = today.getDate(); //Get it as a number of the month
+var thisMonth = new Date(year, month, 0); //Zero is last day in month
+var maxDays = thisMonth.getDate(); //Get the max number of days in this month
+
+// console.log( 'day:', date, 'maxDays:', maxDays, 'num features:', featuredGraphData.length);
+
+var daymap = [];
+var daytick = 0;
+
+// Assign a feature to every day this month
+for (let d = 1; d <= maxDays; d++) {
+  if(daytick < featuredGraphData.length - 1){
+    daymap.push(daytick)
+    daytick++
+  } else {
+    daymap.push(daytick)
+    daytick = 0;
+  }
+}
+
+// Make todays date compatible with a zero-based index
+const dateZeroed = date-1;
+
+// console.log(daymap, dateZeroed);
+
+graphData = featuredGraphData[daymap[dateZeroed]]; //Select the feature based on the day of the month
+
 } else {
-  console.log('NO FEATURED GRAPH');
+  graphData = featuredGraphData[0]; //If there's only one feature just skip the whole process
 }
 
 const title_nodes = [
