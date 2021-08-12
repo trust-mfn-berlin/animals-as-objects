@@ -59,12 +59,15 @@ export default {
       img{
         max-height: none;
         display: block;
-        height: 4rem ;
+        height: 4.5rem;
+        max-width: 100%;
         margin: 0 auto 2rem auto !important;
       }
 
       img.bmbf{
-        height: 5rem;
+        height: 6rem;
+        top:0;
+        padding-right: 2rem;
       }
     }
   }
