@@ -70,7 +70,7 @@ export default {
 .subnav-filter{
   position: fixed;
   top:3rem;
-
+  z-index: @z-filter;
   @media screen and (max-width: @mq-s) /* Mobile */ {
     right:@space-s;
     top:@space-s;
@@ -78,6 +78,12 @@ export default {
   
   .filter{
     margin-right: @space-xs;
+  }
+}
+
+#filter-label{
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    display:none;
   }
 }
 </style>
