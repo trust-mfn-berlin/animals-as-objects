@@ -1,16 +1,21 @@
 ---
-id: 6ec66c87-7008-405c-b223-7c14558b78d7
-title: Landwirtschaftliche Tiere
-desc: Put a description of this note here...
-updated: 1621504602490
-created: 1621274646014
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: mv 
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Add a german title here
+created: 1621274646014
+author: mv
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Landwirtschaftliche Tiere
+updated: 1621504602490
+id: 6ec66c87-7008-405c-b223-7c14558b78d7
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN  short desc
+cover_image: null
+tao_type: story
+date_start: ""
 ---
 
 
