@@ -1,16 +1,21 @@
 ---
-id: 7a6f20a3-d602-46e2-b08d-6818a8aefd54
-title: Kriegsopfer und Delikatesse
-desc: Put a description of this note here...
-updated: 1621610477396
-created: 1621605393109
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: mv
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Add a german title here
+created: 1621605393109
+author: mv
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Kriegsopfer und Delikatesse
+updated: 1621610477396
+id: 7a6f20a3-d602-46e2-b08d-6818a8aefd54
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: material
+date_start: ""
 ---
 
 
