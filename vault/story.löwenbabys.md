@@ -1,16 +1,21 @@
 ---
-id: fa206cd6-fda4-46ec-83e7-206cb1306e78
-title: LöWenbabys
-desc: Put a description of this note here...
-updated: 1623347243508
-created: 1622624578996
-title_de: Löwenbabys
-desc_de: Put a DE description of this note here...
-author: mv
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Löwenbabys
+created: 1622624578996
+author: mv
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: LöWenbabys
+updated: 1623347243508
+id: fa206cd6-fda4-46ec-83e7-206cb1306e78
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: story
+date_start: ""
 ---
 
 
