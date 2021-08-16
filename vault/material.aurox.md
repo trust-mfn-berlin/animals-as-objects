@@ -1,16 +1,21 @@
 ---
-id: a183cdad-6536-4c57-88fb-0ee206c09905
-title: Aurox
-desc: Put a description of this note here...
-updated: 1623162786305
-created: 1623162786305
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Add a german title here
+created: 1623162786305
+author: Author name(s) here.
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Aurox
+updated: 1623162786305
+id: a183cdad-6536-4c57-88fb-0ee206c09905
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: material
+date_start: ""
 ---
 
 
