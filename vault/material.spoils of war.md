@@ -1,16 +1,21 @@
 ---
-id: zlUDl1xMawpgMy4HLEMWj
-title: Spoils of War
-desc: Put a description of this note here...
-updated: 1624539133284
-created: 1624539133284
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Add a german title here
+created: 1624539133284
+author: Author name(s) here.
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Spoils of War
+updated: 1624539133284
+id: zlUDl1xMawpgMy4HLEMWj
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: material
+date_start: ""
 ---
 
 :::EN:::
