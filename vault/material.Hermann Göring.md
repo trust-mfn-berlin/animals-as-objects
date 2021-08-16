@@ -1,16 +1,21 @@
 ---
-id: 143b2b22-c42f-4919-ad25-a9e6aaf9481f
-title: Hermann Göring
-desc: Short bio of Hermann Göring
-updated: 1623162853465
-created: 1618496059009
-title_de: Hermann Göring
-desc_de: Biografische Angaben zu Hermann Göring
-author: CMW
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Hermann Göring
+created: 1618496059009
+author: CMW
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Hermann Göring
+updated: 1623162853465
+id: 143b2b22-c42f-4919-ad25-a9e6aaf9481f
+desc: Short bio of Hermann Göring
+desc_de: Biografische Angaben zu Hermann Göring
+short_desc: EN short desc
+cover_image: null
+tao_type: material
+date_start: ""
 ---
 
 :::EN:::
