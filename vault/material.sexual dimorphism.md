@@ -1,16 +1,21 @@
 ---
-id: c8132d0c-1c98-4656-a3d2-97b72a2e7b11
-title: Sexual Dimorphism
-desc: Put a description of this note here...
-updated: 1618495702744
-created: 1618495656311
-title_de: Geschlechtsdimorphismus
-desc_de: Put a DE description of this note here...
-author: CMW
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Geschlechtsdimorphismus
+created: 1618495656311
+author: CMW
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Sexual Dimorphism
+updated: 1618495702744
+id: c8132d0c-1c98-4656-a3d2-97b72a2e7b11
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: material
+date_start: ""
 ---
 
 :::EN:::
