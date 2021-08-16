@@ -1,24 +1,22 @@
 ---
+license: CC BY-SA
+title_de: Taxonomische Ordnung
+created: 1618491191119
+author: Filippo Bertoni
+short_desc_de: Die Natur zu kategorisieren, ist politisch
+date_end: 2021-07-06T11:43:53.791Z
+published: false
+title: Taxonomical Orders
+updated: 1628523014939
 id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
-title: Taxonomical orders
-desc: >-
-  In biology, taxonomy is a formal system to name, define, and classify
+translators:
+  translator_en_de: Anna von Rath
+desc: In biology, taxonomy is a formal system to name, define, and classify
   organisms, regulated and governed by a set of rules. Since its beginning
   biological taxonomy was neither stable nor universal, controversies frequently
   emerged. Classifications still continue to change today – and they have
   lasting impacts on our world.
-updated: 1628523014939
-created: 1618491191119
-license: CC BY-SA
-title_de: Taxonomische Ordnung
-author: Filippo Bertoni
-short_desc_de: 'Die Natur zu kategorisieren, ist politisch'
-date_end: '2021-07-06T11:43:53.791Z'
-published: false
-translators:
-  translator_en_de: Anna von Rath
-desc_de: >-
-  In der Biologie ist die Taxonomie ein formales System zur Benennung,
+desc_de: In der Biologie ist die Taxonomie ein formales System zur Benennung,
   Definition und Klassifizierung von Organismen, das mit Hilfe einer Reihe von
   Regeln gesteuert wird. Seit ihren Anfängen war die biologische Taxonomie weder
   stabil noch allgemeingültig und es kamen wiederholt Kontroversen auf. Die
@@ -27,12 +25,11 @@ desc_de: >-
 short_desc: Organising nature is political
 cover_image:
   image: /images/cover-taxonomical-orders.jpg
-  alt: >-
-    Plate 2 from Linnaeus’ Systema Naturae, 6th edition, 1748. Tafel 2 aus
+  alt: "Plate 2 from Linnaeus’ Systema Naturae, 6th edition, 1748. Tafel 2 aus
     Linnaeus' Systema Naturae, 6. Auflage, 1748. Source:
-    https://commons.wikimedia.org/wiki/File:Systema_Naturae_Plate_II.jpg
+    https://commons.wikimedia.org/wiki/File:Systema_Naturae_Plate_II.jpg"
 tao_type: theme
-date_start: '1752-12-31T23:06:32.000Z'
+date_start: 1752-12-31T23:06:32.000Z
 ---
 
 :::EN:::
