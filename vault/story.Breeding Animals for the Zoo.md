@@ -1,16 +1,21 @@
 ---
-id: c1507555-3a6f-412a-b030-449853551343
-title: Breeding Animals for the Zoo
-desc: Put a description of this note here...
-updated: 1619730266505
-created: 1618493542087
-title_de: Tiere züchten für den Zoo
-desc_de: Put a DE description of this note here...
-author: CMW
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Tiere züchten für den Zoo
+created: 1618493542087
+author: CMW
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Breeding Animals for the Zoo
+updated: 1619730266505
+id: c1507555-3a6f-412a-b030-449853551343
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: story
+date_start: ""
 ---
 
 :::EN:::
