@@ -1,16 +1,21 @@
 ---
-id: 41436ef8-914f-47ee-b88d-bdb0c6e9e8f6
-title: Landwirtschaftlicher Tierpark
-desc: Put a description of this note here...
-updated: 1621025456717
-created: 1619682127842
-title_de: Landwirtschaftlicher Tierpark
-desc_de: Put a DE description of this note here...
-author: mv
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Landwirtschaftlicher Tierpark
+created: 1619682127842
+author: mv
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Landwirtschaftlicher Tierpark
+updated: 1621025456717
+id: 41436ef8-914f-47ee-b88d-bdb0c6e9e8f6
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: material
+date_start: ""
 ---
 
 :::EN:::
