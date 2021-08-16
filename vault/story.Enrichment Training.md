@@ -1,16 +1,21 @@
 ---
-id: 1ee4d401-6620-4095-ac94-68837a291b1d
-title: From Dressage to Medical Training
-desc: Put a description of this note here...
-updated: 1628792054241
-created: 1619183095486
-title_de: Von der Dressur zum medizinischen Training
-desc_de: Put a DE description of this note here...
-author: CMW
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Von der Dressur zum medizinischen Training
+created: 1619183095486
+author: CMW
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: From Dressage to Medical Training
+updated: 1628792054241
+id: 1ee4d401-6620-4095-ac94-68837a291b1d
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: story
+date_start: ""
 ---
 
 :::EN:::
