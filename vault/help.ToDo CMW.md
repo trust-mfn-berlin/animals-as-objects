@@ -1,17 +1,17 @@
 ---
-title: ToDo CMW
-title_de: ToDos
-created: 1618495172862
-updated: 1628071686741
 id: 21ac115b-15e0-4af9-a4ed-fdd3d29c313d
-author: CMW
+title: ToDo CMW
 desc: EN desc
+updated: 1628071686741
+created: 1618495172862
+title_de: ToDos
+author: CMW
 desc_de: DE desc
 short_desc: EN short desc
 short_desc_de: DE short desc
 tao_type: story
-date_start: ""
-date_end: ""
+date_start: ''
+date_end: ''
 archived: true
 ---
 <<<<<<< HEAD
@@ -48,7 +48,7 @@ archived: true
 - [[material.Paul Matschie]]
 - [[material.Hermann Pohle]]
 - [[story.Reviving the Aurox]]
-- [[story.Zoos and Conservation]]
+- [[story.zoos-and-conservation]]
 - [[story.Zoo Bookkeeping]]
 - [[story.Gifting Objects]]
 - [[material.EAZA]]
@@ -61,7 +61,7 @@ archived: true
 
 ### Umarbeiten
 
-[[story.Zoos and Conservation]] noch zuviel Buchmanuskript drin
+[[story.zoos-and-conservation]] noch zuviel Buchmanuskript drin
 [[story.Enrichment Training]] noch zuviel Buchmanuskript drin
 
 ## Bilder besorgen
