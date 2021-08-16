@@ -1,16 +1,21 @@
 ---
-id: 93ad9139-7a18-4381-95ff-edd883de0b28
-title: Böse Tiere
-desc: Put a description of this note here...
-updated: 1620397798160
-created: 1619681270870
-title_de: Böse Tiere - Elefanten
-desc_de: Put a DE description of this note here...
-author: mv
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Böse Tiere - Elefanten
+created: 1619681270870
+author: mv
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Böse Tiere
+updated: 1620397798160
+id: 93ad9139-7a18-4381-95ff-edd883de0b28
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: material
+date_start: ""
 ---
 
 :::EN:::
