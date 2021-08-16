@@ -1,16 +1,21 @@
 ---
-id: f02cb0e0-9512-4a0f-8012-02969e9f97d0
-title: Bobby life
-desc: Put a description of this note here...
-updated: 1623347984502
-created: 1620163729182
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: CMW
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Add a german title here
+created: 1620163729182
+author: CMW
+short_desc_de: DE  short desc
+date_end: ""
+archived: true
 published: false
+title: Bobby life
+updated: 1623347984502
+id: f02cb0e0-9512-4a0f-8012-02969e9f97d0
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN  short desc
+cover_image: null
+tao_type: story
+date_start: ""
 ---
 
 :::EN:::
