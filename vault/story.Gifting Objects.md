@@ -1,16 +1,21 @@
 ---
-id: d5bfb12b-0b03-4038-bb71-687153ced047
-title: Gifting Objects
-desc: Put a description of this note here...
-updated: 1622584711083
-created: 1619036239804
-title_de: Tiergeschenke
-desc_de: Put a DE description of this note here...
-author: CMW
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Tiergeschenke
+created: 1619036239804
+author: CMW
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Gifting Objects
+updated: 1622584711083
+id: d5bfb12b-0b03-4038-bb71-687153ced047
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: story
+date_start: ""
 ---
 
 :::EN:::
