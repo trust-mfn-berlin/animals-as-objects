@@ -1,9 +1,18 @@
 ---
-id: 21ac115b-15e0-4af9-a4ed-fdd3d29c313d
 title: ToDo CMW
-desc: ''
-updated: 1628071686741
+title_de: ToDos
 created: 1618495172862
+updated: 1628071686741
+id: 21ac115b-15e0-4af9-a4ed-fdd3d29c313d
+author: CMW
+desc: EN desc
+desc_de: DE desc
+short_desc: EN short desc
+short_desc_de: DE short desc
+tao_type: story
+date_start: ""
+date_end: ""
+archived: true
 ---
 <<<<<<< HEAD
 =======
