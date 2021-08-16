@@ -5,7 +5,7 @@ desc: >-
   For a long time, animals for zoos were almost exclusively acquired by being
   taken from their habitats. Trappers mostly worked for commercial animal trade
   companies. 
-updated: 1628165483219
+updated: 1629108211592
 created: 1618492547915
 license: CC BY-SA
 title_de: Tiere fangen
@@ -237,7 +237,7 @@ In 1975, there was a Convention on International Trade in Endangered Species of 
 
 [^5]: Heck, Ludwig. _Heiter-ernste Lebensbeichte. Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag, 1938: 123ff.
 
-[^6]: Zoo 'Inventory' for 1897, Zoological Garden Berlin. On this, see also [[material.Journale Zoo]].
+[^6]: Zoo 'Inventory' for 1897, Zoological Garden Berlin. On this, see also [[material.journale-the-zoo-directory]].
 
 [^7]: Cf. Diallo, Oumar, and Joachim Zeller. "Zoologischer Garten, Hardenbergplatz 8". In _Berlin – Eine (post-)koloniale Metropole. Ein historisch-kritischer Stadtrundgang im Bezirk Mitte_, ed. by Farafina e. V. Berlin-Moabit. Berlin: Metropol-Verlag, 2021: 168-175. This is also shown by a systematic review of the annual reports between 1890 and 1914.
 
@@ -489,7 +489,7 @@ Seit den 1960er Jahren traten zunehmend [[Züchtungen|story.Breeding Animals for
 
 [^5]: Heck, Ludwig. _Heiter-ernste Lebensbeichte. Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag, 1938: 123ff.
 
-[^6]: 'Inventur' des Zoos für 1897, Zoologischer Garten Berlin. Hierzu siehe auch [[material.Journale Zoo]].
+[^6]: 'Inventur' des Zoos für 1897, Zoologischer Garten Berlin. Hierzu siehe auch [[material.journale-the-zoo-directory]].
 
 [^7]: Vgl. Diallo, Oumar, und Joachim Zeller. "Zoologischer Garten, Hardenbergplatz 8". In _Berlin – Eine (post-)koloniale Metropole. Ein historisch-kritischer Stadtrundgang im Bezirk Mitte_, hg. von Farafina e. V. Berlin-Moabit. Berlin: Metropol-Verlag, 2021: 168-175. Das ergibt auch eine systematische Durchsicht der Geschäftsberichte zwischen 1890 und 1914.
 
