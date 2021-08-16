@@ -1,16 +1,21 @@
 ---
-id: ZG0tbfOCtvAdL9l9uR1cl
-title: Tierkinderzoo
-desc: Put a description of this note here...
-updated: 1624399929826
-created: 1624397695001
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Mareike Vennen u Clemens Maier-Wolthausn
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Add a german title here
+created: 1624397695001
+author: Mareike Vennen u Clemens Maier-Wolthausn
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Tierkinderzoo
+updated: 1624399929826
+id: ZG0tbfOCtvAdL9l9uR1cl
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: material
+date_start: ""
 ---
 
 
