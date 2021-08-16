@@ -1,16 +1,21 @@
 ---
-id: b46a0be5-3865-42c6-812f-8f1c03e16cda
-title: Herstory of Science
-desc: Put a description of this note here...
-updated: 1621514197580
-created: 1618737991503
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: theme
-cover_image: null
 license: CC BY-SA
+title_de: Add a german title here
+created: 1618737991503
+author: Author name(s) here.
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Herstory of Science
+updated: 1621514197580
+id: b46a0be5-3865-42c6-812f-8f1c03e16cda
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: theme
+date_start: ""
 ---
 
 :::EN:::
