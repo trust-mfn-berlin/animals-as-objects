@@ -1,16 +1,21 @@
 ---
-id: c916b84f-3b10-4d37-9702-330961dc3aef
-title: Wilma von Düring
-desc: Put a description of this note here...
-updated: 1619685440706
-created: 1619684420216
-title_de: Wilma von Düring
-desc_de: Put a DE description of this note here...
-author: mv
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Wilma von Düring
+created: 1619684420216
+author: mv
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Wilma von Düring
+updated: 1619685440706
+id: c916b84f-3b10-4d37-9702-330961dc3aef
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: material
+date_start: ""
 ---
 
 :::EN:::
