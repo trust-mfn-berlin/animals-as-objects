@@ -44,7 +44,7 @@ _Front pages of the journal_ Der Zoologische Garten _from 1933, 1961 and 2015._
 
 </figure>
 
-Zoos managers in Germany and all over the world were and are dependent on the exchange of information between one another. Much of the information that is important for keeping animals in human care could not and still cannot be obtained from the general zoological and biological literature.
+Zoo managers in Germany and all over the world were and are dependent on the exchange of information between one another. Much of the information that is important for keeping animals in human care could not and still cannot be obtained from the general zoological and biological literature.
 
 This was very much the case in the second half of the 19th century, when many zoos were being founded. At that time, knowledge concerning proper housing conditions and appropriate feeding of zoo animals was very limited. Often, the first thing that had to be done was determining the species of the incoming animal. **It was very important that the small circle of zoo directors – at the time all of them still male – had the benefit of exchanging observations and tips on successful, i.e. long-standing, housing conditions and practices.**
 
