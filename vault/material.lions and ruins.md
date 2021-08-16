@@ -1,16 +1,21 @@
 ---
-id: fad77e63-8f00-4a06-902d-a74005ab083d
-title: Lions and Ruins
-desc: Put a description of this note here...
-updated: 1620744274807
-created: 1620742838337
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Add a german title here
+created: 1620742838337
+author: Author name(s) here.
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Lions and Ruins
+updated: 1620744274807
+id: fad77e63-8f00-4a06-902d-a74005ab083d
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: material
+date_start: ""
 ---
 
 
