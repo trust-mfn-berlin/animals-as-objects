@@ -44,7 +44,7 @@ archived: true
 
 - [[material.habitat]]
 - [[material.Lutz Heck]]
-- [[theme.Showing Animals]]
+- [[theme.showing-animals]]
 - [[material.Paul Matschie]]
 - [[material.Hermann Pohle]]
 - [[story.Reviving the Aurox]]
