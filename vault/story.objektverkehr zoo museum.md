@@ -1,16 +1,20 @@
 ---
-id: 0804b4a3-f918-4466-8b09-6bf4bf914cb3
-title: Objektverkehr Zoo Museum
-desc: Put a description of this note here...
-updated: 1628615424251
-created: 1623058110086
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Fließender Verkehr?
+created: 1623058110086
+author: Author name(s) here.
+short_desc_de: DE short desc
+date_end: ""
 published: false
+title: Objektverkehr Zoo Museum
+updated: 1628615424251
+id: 0804b4a3-f918-4466-8b09-6bf4bf914cb3
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: story
+date_start: ""
 ---
 
 
