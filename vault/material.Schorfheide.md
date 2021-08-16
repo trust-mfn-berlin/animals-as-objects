@@ -1,16 +1,21 @@
 ---
-id: 931939ce-34e5-442f-9627-dd3eb4631993
-title: Schorfheide
-desc: Put a description of this note here...
-updated: 1621342570341
-created: 1618497011148
-title_de: Schorfheide
-desc_de: Put a DE description of this note here...
-author: CMW
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Schorfheide
+created: 1618497011148
+author: CMW
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Schorfheide
+updated: 1621342570341
+id: 931939ce-34e5-442f-9627-dd3eb4631993
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: material
+date_start: ""
 ---
 
 :::EN:::
