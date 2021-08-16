@@ -1,16 +1,21 @@
 ---
-id: 7e30f358-c740-4dd9-8075-40f04387dae4
-title: Bernhard Grzimek
-desc: Put a description of this note here...
-updated: 1623335443919
-created: 1619081131485
-title_de: Bernhard Grzimek
-desc_de: Kurzbiographie von Bernhard Grzimek
-author: CMW
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Bernhard Grzimek
+created: 1619081131485
+author: CMW
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Bernhard Grzimek
+updated: 1623335443919
+id: 7e30f358-c740-4dd9-8075-40f04387dae4
+desc: Put a description of this note here...
+desc_de: Kurzbiographie von Bernhard Grzimek
+short_desc: EN short desc
+cover_image: null
+tao_type: material
+date_start: ""
 ---
 
 :::EN:::
