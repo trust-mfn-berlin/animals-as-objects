@@ -1,16 +1,21 @@
 ---
-id: e47d02d6-04d0-4cee-9dd9-41600707ed5a
-title: Zoo Architecture
-desc: Put a description of this note here...
-updated: 1628860608515
-created: 1619798990411
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: CMW
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Add a german title here
+created: 1619798990411
+author: CMW
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Zoo Architecture
+updated: 1628860608515
+id: e47d02d6-04d0-4cee-9dd9-41600707ed5a
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: story
+date_start: ""
 ---
 
 :::EN:::
