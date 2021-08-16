@@ -1,16 +1,21 @@
 ---
-id: 9083dfa1-b5d3-4243-af81-ff86436e933b
-title: Exhibition Value
-desc: Put a description of this note here...
-updated: 1618495927863
-created: 1618495897285
-title_de: Schauwert
-desc_de: Put a DE description of this note here...
-author: CMW
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Schauwert
+created: 1618495897285
+author: CMW
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Exhibition Value
+updated: 1618495927863
+id: 9083dfa1-b5d3-4243-af81-ff86436e933b
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: material
+date_start: ""
 ---
 
 :::EN:::
