@@ -1,16 +1,21 @@
 ---
-id: ef068026-9899-4435-ab70-3df0d8a495fa
-title: Collecting Specimen
-desc: Put a description of this note here...
-updated: 1621350074310
-created: 1618493084572
-title_de: Objekte sammeln
-desc_de: Hier geht es um das Sammeln von toten Tierobjekten für das Museum.
-author: CMW
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Objekte sammeln
+created: 1618493084572
+author: CMW
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Collecting Specimen
+updated: 1621350074310
+id: ef068026-9899-4435-ab70-3df0d8a495fa
+desc: Put a description of this note here...
+desc_de: Hier geht es um das Sammeln von toten Tierobjekten für das Museum.
+short_desc: EN short desc
+cover_image: null
+tao_type: story
+date_start: ""
 ---
 
 :::EN:::
