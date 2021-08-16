@@ -1,16 +1,21 @@
 ---
-id: c48260aa-ce2c-4c76-8405-db4311a07923
-title: Re-breeding Aurox
-desc: Put a description of this note here...
-updated: 1620831978223
-created: 1619184177993
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Add a german title here
+created: 1619184177993
+author: Author name(s) here.
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Re-breeding Aurox
+updated: 1620831978223
+id: c48260aa-ce2c-4c76-8405-db4311a07923
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: story
+date_start: ""
 ---
 
 :::EN:::
