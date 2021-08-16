@@ -1,16 +1,21 @@
 ---
-id: 549fc1c9-ba92-4327-bc10-2480c01c746e
-title: Roland
-desc: Put a description of this note here...
-updated: 1620750905158
-created: 1620395597315
-title_de: Roland
-desc_de: Put a DE description of this note here...
-author: mv
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Roland
+created: 1620395597315
+author: mv
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Roland
+updated: 1620750905158
+id: 549fc1c9-ba92-4327-bc10-2480c01c746e
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: material
+date_start: ""
 ---
 
 
