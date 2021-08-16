@@ -1,16 +1,21 @@
 ---
-id: 5277f2fa-42b1-4bfa-8a6c-8f8c2117784e
-title: Native and Exotic
-desc: Put a description of this note here...
-updated: 1628714678430
-created: 1620997389421
-title_de: Heimisch und Exotisch
-desc_de: Put a DE description of this note here...
-author: CMW, MV
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Heimisch und Exotisch
+created: 1620997389421
+author: CMW, MV
+short_desc_de: DE short desc
+date_end: ""
+archived: true
 published: false
+title: Native and Exotic
+updated: 1628714678430
+id: 5277f2fa-42b1-4bfa-8a6c-8f8c2117784e
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: story
+date_start: ""
 ---
 
 
