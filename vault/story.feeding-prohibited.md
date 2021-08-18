@@ -1,30 +1,33 @@
 ---
-license: CC BY-SA
-title_de: Füttern Verboten
-created: 1620752897039
-author: Mareike Vennen
-short_desc_de: Neue Regeln zu Nähe und Distanz
-date_end: 1961-12-31T11:00:00.000Z
-published: false
-title: fütternVerboten
-updated: 1629290856142
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
-desc: EN Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
+title: Feeding Prohibited
+desc: >-
+  EN Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
   selbstverständlich erscheint, war lange Zeit ein direkter Kontakt beim Füttern
   durch die Besucher\*innen üblich. Wie, wann und weshalb führten Zoos ein
   Fütterungsverbot ein?
-desc_de: Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
+updated: 1629290856142
+created: 1620752897039
+license: CC BY-SA
+title_de: Füttern Verboten
+author: Mareike Vennen
+short_desc_de: Neue Regeln zu Nähe und Distanz
+date_end: '1961-12-31T11:00:00.000Z'
+published: false
+desc_de: >-
+  Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
   selbstverständlich erscheint, war lange Zeit ein direkter Kontakt beim Füttern
   durch die Besucher\*innen üblich. Wie, wann und weshalb führten Zoos ein
   Fütterungsverbot ein?
 short_desc: EN Neue Regeln zu Nähe und Distanz
 cover_image:
   image: /images/cover-do-not-feed-the-animals.jpg
-  alt: '"Do not feed the animals!" at the emu enclosure in the Berlin zoo, 1980.
+  alt: >-
+    "Do not feed the animals!" at the emu enclosure in the Berlin zoo, 1980.
     "Jedes Füttern unserer Tiere ist verboten!" am Emugehege im Berliner Zoo,
-    1980. Source: AZGB, photo Kühn. All rights reserved.'
+    1980. Source: AZGB, photo Kühn. All rights reserved.
 tao_type: story
-date_start: 1958-12-31T23:00:00.000Z
+date_start: '1958-12-31T23:00:00.000Z'
 ---
 
 :::EN:::
@@ -43,11 +46,11 @@ _Article in the_ Tagesspiegel _on the feeding ban at the Berlin Zoo, on the occa
 
 </figure>
 
-The elephant's death was not the first case of a zoo animal dying as a result of overfeeding – see also [[story.überfüttern]]. Visitors feeding zoo animals with foodstuffs they’ve brought with them into the zoo is part of a long history of incorrect and excessive feeding. **From the founding of zoological gardens in the 19th century, feeding by visitors was generally permitted.** The zoo guide booklets of the time invited visitors to feed the animals – but even then, the zoo imposed some restrictions. As early as 1873, the Berlin Zoo guide booklets advised visitors not to feed some animals, and in the Hamburg Zoological Garden, visitors were also "most humbly and urgently requested to feed only those animals whose names are displayed on the notice boards" as early as 1879.[^1] Just a few days after the opening of the Frankfurt Zoological Garden in 1858, reports came through: "After the zoological garden was opened on Sunday, most of the animals suffered from an upset stomach as a result of the excessive feeding by visitors". The feeding of various animals thus had to be prohibited altogether. Warnings on the cages regarding the feeding prohibition are also mentioned in the zoo guide of Schönbrunn Zoo in 1912. In most zoos, particularly sensitive animal species such as apes, predators and sea lions were not allowed to be fed at all.[^2]
+The elephant's death was not the first case of a zoo animal dying as a result of overfeeding – see also [[story.feeding-and-overfeeding]]. Visitors feeding zoo animals with foodstuffs they’ve brought with them into the zoo is part of a long history of incorrect and excessive feeding. **From the founding of zoological gardens in the 19th century, feeding by visitors was generally permitted.** The zoo guide booklets of the time invited visitors to feed the animals – but even then, the zoo imposed some restrictions. As early as 1873, the Berlin Zoo guide booklets advised visitors not to feed some animals, and in the Hamburg Zoological Garden, visitors were also "most humbly and urgently requested to feed only those animals whose names are displayed on the notice boards" as early as 1879.[^1] Just a few days after the opening of the Frankfurt Zoological Garden in 1858, reports came through: "After the zoological garden was opened on Sunday, most of the animals suffered from an upset stomach as a result of the excessive feeding by visitors". The feeding of various animals thus had to be prohibited altogether. Warnings on the cages regarding the feeding prohibition are also mentioned in the zoo guide of Schönbrunn Zoo in 1912. In most zoos, particularly sensitive animal species such as apes, predators and sea lions were not allowed to be fed at all.[^2]
 
 _What_ could be given to the animals was also indicated in zoo guides and on signs in the gardens from early on. **Elephants, like monkeys, were particularly popular with zoo visitors and Berliners could feed them bread, carrots, oranges, bananas and lemons.** In order to "steer the public's inclination to feed the animals into certain channels", red-marked mechanisms into which food could be placed were installed when the monkey house was extended in 1925. The monkeys "had to use some intelligence" to get at the food. At the same time, a feed shed was placed nearby, where "suitable food" could be purchased – an idea that, according to the zoo's annual report, was well received and simultaneously regulated feeding, at least to some extent.[^3]
 
-Both inside and outside of Germany, discussions about visitor feeding and partial prohibitions in zoological gardens had been going on for a long time – see also [[story.überfüttern]]. Yet the majority of zoos did not introduce a general feeding ban until the 1950s, after illnesses and deaths caused by overfeeding became more frequent, especially in the well-attended summer months. When a newly acquired elephant at the Frankfurt Zoo died on 1 June 1953 as a result of overfeeding by visitors, the director at the time Bernhard Grzimek decided to impose a complete prohibition on the feeding of zoo animals by visitors. In 1957, the Leipzig Zoo followed suit, as did the Münster Zoological Garden in 1959, after several animals had died there as well.[^4] In the same year, the issue was also discussed at the annual meeting of the Verband Deutscher Zoodirektoren, the Association of German Zoo Directors, which called for a general prohibition on visitor feeding.
+Both inside and outside of Germany, discussions about visitor feeding and partial prohibitions in zoological gardens had been going on for a long time – see also [[story.feeding-and-overfeeding]]. Yet the majority of zoos did not introduce a general feeding ban until the 1950s, after illnesses and deaths caused by overfeeding became more frequent, especially in the well-attended summer months. When a newly acquired elephant at the Frankfurt Zoo died on 1 June 1953 as a result of overfeeding by visitors, the director at the time Bernhard Grzimek decided to impose a complete prohibition on the feeding of zoo animals by visitors. In 1957, the Leipzig Zoo followed suit, as did the Münster Zoological Garden in 1959, after several animals had died there as well.[^4] In the same year, the issue was also discussed at the annual meeting of the Verband Deutscher Zoodirektoren, the Association of German Zoo Directors, which called for a general prohibition on visitor feeding.
 
 <figure>
 
@@ -287,11 +290,11 @@ _Artikel im_ Tagesspiegel _zum Fütterungsverbot im Berliner Zoo anlässlich der
 
 </figure>
 
-Der Tod des Elefanten war nicht der erste Fall, bei dem Zootier an den Folgen von Überfütterung starb, siehe auch [[story.überfüttern]]. Zootiere mit mitgebrachten Lebensmitteln zu füttern, ist Teil einer langen Geschichte falscher oder übermäßiger Fütterung. **Seit ihren Anfängen im 19. Jahrhundert war das Füttern durch die Besucher\*innen in zoologischen Gärten grundsätzlich erlaubt.** Die damaligen Zooführer – kleine, gedruckte Informationshefte – luden die Besucher\*innen zum Füttern ein, allerdings schon damals mit Einschränkungen. Der Berliner Zooführer wies bereits 1873 darauf hin, manche Tiere nicht zu füttern und im Hamburger Zoologischen Garten wurden die Besucher\*innen ebenfalls schon 1879 "ergebenst und dringend ersucht, nur diejenigen Thiere zu füttern, deren Namen auf den Anschlagtafeln bekannt gemacht sind".[^1] Über den Zoologischen Garten Frankfurt hieß es nur wenige Tage nach der Eröffnung 1858: "Nachdem am Sonntage der zoologische Garten eröffnet worden, haben in Folge der von den Besuchern übermäßig gereichten Fütterung die meisten Thiere an verdorbenem Magen gelitten." So musste das Füttern verschiedener Tiere ganz untersagt werden. Mahnungen an den Käfigen bezüglich des Fütterungsverbots sind auch im Zooführer des Tiergartens Schönbrunn 1912 erwähnt. Besonders empfindliche Tierarten wie Menschenaffen, Raubtiere und Seelöwen durften in den meisten Zoos überhaupt nicht gefüttert werden.[^2] 
+Der Tod des Elefanten war nicht der erste Fall, bei dem Zootier an den Folgen von Überfütterung starb, siehe auch [[story.feeding-and-overfeeding]]. Zootiere mit mitgebrachten Lebensmitteln zu füttern, ist Teil einer langen Geschichte falscher oder übermäßiger Fütterung. **Seit ihren Anfängen im 19. Jahrhundert war das Füttern durch die Besucher\*innen in zoologischen Gärten grundsätzlich erlaubt.** Die damaligen Zooführer – kleine, gedruckte Informationshefte – luden die Besucher\*innen zum Füttern ein, allerdings schon damals mit Einschränkungen. Der Berliner Zooführer wies bereits 1873 darauf hin, manche Tiere nicht zu füttern und im Hamburger Zoologischen Garten wurden die Besucher\*innen ebenfalls schon 1879 "ergebenst und dringend ersucht, nur diejenigen Thiere zu füttern, deren Namen auf den Anschlagtafeln bekannt gemacht sind".[^1] Über den Zoologischen Garten Frankfurt hieß es nur wenige Tage nach der Eröffnung 1858: "Nachdem am Sonntage der zoologische Garten eröffnet worden, haben in Folge der von den Besuchern übermäßig gereichten Fütterung die meisten Thiere an verdorbenem Magen gelitten." So musste das Füttern verschiedener Tiere ganz untersagt werden. Mahnungen an den Käfigen bezüglich des Fütterungsverbots sind auch im Zooführer des Tiergartens Schönbrunn 1912 erwähnt. Besonders empfindliche Tierarten wie Menschenaffen, Raubtiere und Seelöwen durften in den meisten Zoos überhaupt nicht gefüttert werden.[^2] 
 
 Darüber, _was_ den Tieren angeboten werden durfte, wiesen die Zoowegweiser und im Garten aufgestellte Schilder ebenfalls schon früh hin. **Elefanten, ebenso wie die Affen bei den Zoogästen besonders beliebt, konnten die Berliner\*innen mit Brot, Möhren, Apfelsinen, Bananen und Zitronen füttern.** Um die "Neigung des Publikums, die Tiere zu füttern, [...] in bestimmte Bahnen [zu lenken]", wurden bei der Erweiterung des Affenhauses 1925 rot gekennzeichnete Vorrichtungen angebracht, wo das Futter hineingelegt werden konnte und die Affen "etwas Intelligenz anwenden müssen", um es zu ergreifen. Gleichzeitig war in der Nähe ein Futterhäuschen aufgestellt, wo man "geeignetes Futter" kaufen konnte – eine Idee, die laut Geschäftsbericht des Zoos gut ankam und das Füttern zumindest in gewissem Maße regulierte.[^3]
 
-Diskussionen über die Fütterung durch Besucher\*innen und Teilverbote in zoologischen Gärten innerhalb und außerhalb von Deutschland waren schon lange präsent, siehe auch [[story.überfüttern]], doch führte die Mehrzahl der Zoos erst in den 1950er Jahren ein generelles Fütterungsverbot ein – nachdem sich die Erkrankungen und Tode, die auf Überfütterung zurückgingen, gerade in den gut besuchten Sommermonaten häuften. Als am 1. Juni 1953 ein erst kürzlich neu erworbener Elefant im Frankfurter Zoo an den Folgen der Überfütterung durch die Besucher\*innen verendete, beschloss der damalige Direktor Bernhard Grzimek, das Füttern der Zootiere durch Besucher\*innen komplett zu verbieten. 1957 folgte der Leipziger Zoo und 1959 der Zoologische Garten zu Münster, nachdem auch dort mehrere Tiere gestorben waren.[^4] Im gleichen Jahr wurde die Frage auf jährlichen Tagung des Verbands Deutscher Zoodirektoren diskutiert, der ein generelles Fütterungsverbot   beschloss.
+Diskussionen über die Fütterung durch Besucher\*innen und Teilverbote in zoologischen Gärten innerhalb und außerhalb von Deutschland waren schon lange präsent, siehe auch [[story.feeding-and-overfeeding]], doch führte die Mehrzahl der Zoos erst in den 1950er Jahren ein generelles Fütterungsverbot ein – nachdem sich die Erkrankungen und Tode, die auf Überfütterung zurückgingen, gerade in den gut besuchten Sommermonaten häuften. Als am 1. Juni 1953 ein erst kürzlich neu erworbener Elefant im Frankfurter Zoo an den Folgen der Überfütterung durch die Besucher\*innen verendete, beschloss der damalige Direktor Bernhard Grzimek, das Füttern der Zootiere durch Besucher\*innen komplett zu verbieten. 1957 folgte der Leipziger Zoo und 1959 der Zoologische Garten zu Münster, nachdem auch dort mehrere Tiere gestorben waren.[^4] Im gleichen Jahr wurde die Frage auf jährlichen Tagung des Verbands Deutscher Zoodirektoren diskutiert, der ein generelles Fütterungsverbot   beschloss.
 
 <figure>
 

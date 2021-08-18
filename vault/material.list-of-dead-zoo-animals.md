@@ -38,7 +38,7 @@ Text suggestions from Therese:
 - in general: document is example for recording and managing stock. questions of logistical natures. Link to recording worlds.
 - Link to the material on animals stolen by Wehrmacht, brought to Berlin
 - Link to material where Clemens explains 1,3 notation style for zoo animals
-- Link to Mareike's [[story.futternot]]: that 1 surviving elephant is "Siam"
+- Link to Mareike's [[story.feed-scarcity]]: that 1 surviving elephant is "Siam"
 - (use this in the route on war)
 
 ## Transkript
