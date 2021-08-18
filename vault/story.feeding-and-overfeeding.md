@@ -1,17 +1,4 @@
 ---
-<<<<<<< HEAD
-id: dfe31be6-b21f-496f-af23-70f225c0616c
-title: Feeding and Overfeeding
-desc: >-
-  EN Als 1960 im Berliner Zoo ein Elefant starb, lautete die Diagnose
-  Überfütterung durch Zoobesucher*innen. Das löste eine kontroverse Debatte um
-  die richtige Ernährung von Zootieren aus – eine Frage, die bis zu den Anfängen
-  zoologischer Gärten im 19. Jahrhundert zurückreicht. Wer darf füttern und vor
-  allem was und wieviel?
-updated: 1629292369425
-created: 1620752738850
-=======
->>>>>>> 9b41c22e94354197ead7fed63c0b13a801b43297
 license: CC BY-SA
 title_de: Füttern und Überfüttern
 created: 1620752738850
