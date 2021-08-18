@@ -9,6 +9,8 @@ published: false
 title: Feeding and Overfeeding
 updated: 1629290143136
 id: dfe31be6-b21f-496f-af23-70f225c0616c
+translators:
+  translator_de_en: Lucy Gasser
 desc: When an elephant died at the Berlin Zoo in 1960, the cause of death was
   determined as overfeeding by zoo visitors. This triggered a controversial
   debate about the proper feeding of zoo animals – a question that goes back to
