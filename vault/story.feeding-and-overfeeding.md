@@ -7,7 +7,7 @@ desc: >-
   die richtige Ernährung von Zootieren aus – eine Frage, die bis zu den Anfängen
   zoologischer Gärten im 19. Jahrhundert zurückreicht. Wer darf füttern und vor
   allem was und wieviel?
-updated: 1629290143136
+updated: 1629292369425
 created: 1620752738850
 license: CC BY-SA
 title_de: Füttern und Überfüttern
@@ -31,6 +31,8 @@ cover_image:
 tao_type: story
 date_start: '1871-12-31T23:06:32.000Z'
 ---
+
+:::EN:::
 
 While the zoo and the city of Berlin had serious problems feeding their inhabitants in the 1940s – see also [[story.feed-scarcity]] – by the end of the 1950s, the situation had largely normalised.[^1] In fact, in some ways, it had done a complete turnaround. The years of the economic boom saw visitors to the zoo once more feeding the animals at the Berlin Zoo as they pleased – to the extent that in 1960 the African elephant "Jambo" fell ill after, or rather as a result of, being fed by zoo visitors.
 
