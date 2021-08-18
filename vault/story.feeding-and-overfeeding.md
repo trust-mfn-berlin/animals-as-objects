@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 title: Feeding and Overfeeding
 desc: >-
@@ -9,27 +10,36 @@ desc: >-
   allem was und wieviel?
 updated: 1629292369425
 created: 1620752738850
+=======
+>>>>>>> 9b41c22e94354197ead7fed63c0b13a801b43297
 license: CC BY-SA
 title_de: Füttern und Überfüttern
+created: 1620752738850
 author: Mareike Vennen
 short_desc_de: Wer (über)füttert im Zoo?
-date_end: '1960-12-31T11:00:00.000Z'
+date_end: 1960-12-31T11:00:00.000Z
 published: false
-desc_de: >-
-  Als 1960 im Berliner Zoo ein Elefant starb, lautete die Diagnose Überfütterung
-  durch Zoobesucher*innen. Das löste eine kontroverse Debatte um die richtige
-  Ernährung von Zootieren aus – eine Frage, die bis zu den Anfängen zoologischer
-  Gärten im 19. Jahrhundert zurückreicht. Wer darf füttern und vor allem was und
-  wieviel?
-short_desc: EN Wer (über)füttert im Zoo?
+title: Feeding and Overfeeding
+updated: 1629290143136
+id: dfe31be6-b21f-496f-af23-70f225c0616c
+desc: When an elephant died at the Berlin Zoo in 1960, the cause of death was
+  determined as overfeeding by zoo visitors. This triggered a controversial
+  debate about the proper feeding of zoo animals – a question that goes back to
+  the founding of zoological gardens in the 19th century. Who should be
+  permitted to feed? What should be fed and how much of it?
+desc_de: Als 1960 im Berliner Zoo ein Elefant starb, lautete die Diagnose
+  Überfütterung durch Zoobesucher*innen. Das löste eine kontroverse Debatte um
+  die richtige Ernährung von Zootieren aus – eine Frage, die bis zu den Anfängen
+  zoologischer Gärten im 19. Jahrhundert zurückreicht. Wer darf füttern und vor
+  allem was und wieviel?
+short_desc: Who (over)feeds zoo animals?
 cover_image:
   image: /images/cover-overfeeding.jpg
-  alt: >-
-    Bild newspaper headline on the elephant "Jambo's" illness due to
+  alt: Bild newspaper headline on the elephant "Jambo's" illness due to
     overfeeding, Berlin 1960. Schlagzeile der Bild-Zeitung zu Elefant "Jambos"
     Erkrankung durch Überfütterung, Berlin 1960.
 tao_type: story
-date_start: '1871-12-31T23:06:32.000Z'
+date_start: 1871-12-31T23:06:32.000Z
 ---
 
 :::EN:::

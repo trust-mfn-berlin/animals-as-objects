@@ -1,38 +1,35 @@
 ---
-id: d54394f6-1188-4ec3-b590-da329e657560
-title: Feed Scarcity
-desc: >-
-  EN Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten nach
-  dem Zweiten Weltkrieg, seine Tiere durchzubringen? Welche Rolle spielte dabei
-  die Ernährungslage Berlins? Zoo und Stadtgesellschaft gingen in dieser Krise
-  neue Verbindungen ein – zwischen Unterstützung und Konkurrenz, was die Rolle
-  und Funktion des Zoos zeitweise veränderte.
-updated: 1629289074805
-created: 1621497485660
 license: CC BY-SA
 title_de: Futternot
+created: 1621497485660
 author: Mareike Vennen
 short_desc_de: 1945 – Krise in Zoo und Stadt
-date_end: '1950-12-31T11:00:00.000Z'
+date_end: 1950-12-31T11:00:00.000Z
 published: false
+title: Feed Scarcity
+updated: 1629289074805
+id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: Lucy Gasser
-desc_de: >-
-  Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten nach dem
-  Zweiten Weltkrieg, seine Tiere durchzubringen? Welche Rolle spielte dabei die
-  Ernährungslage Berlins? Zoo und Stadtgesellschaft gingen in dieser Krise neue
-  Verbindungen ein – zwischen Unterstützung und Konkurrenz, was die Rolle und
-  Funktion des Zoos zeitweise veränderte.
-short_desc: EN 1945 – Krise in Zoo und Stadt
+desc: How did the largely destroyed Berlin Zoological Garden manage to keep its
+  animals alive after the Second World War? What role did food insecurity in the
+  city play in this? Zoo and urban society entered into new relations during
+  this crisis – between support and competition – which temporarily changed the
+  role and function of the zoo.
+desc_de: Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten
+  nach dem Zweiten Weltkrieg, seine Tiere durchzubringen? Welche Rolle spielte
+  dabei die Ernährungslage Berlins? Zoo und Stadtgesellschaft gingen in dieser
+  Krise neue Verbindungen ein – zwischen Unterstützung und Konkurrenz, was die
+  Rolle und Funktion des Zoos zeitweise veränderte.
+short_desc: 1945 – crisis in zoo and city
 cover_image:
   image: /images/cover-food-shortage.jpg
-  alt: >-
-    Vegetable cultivation in the treeless Großer Tiergarten in Berlin in 1946,
+  alt: "Vegetable cultivation in the treeless Großer Tiergarten in Berlin in 1946,
     with Reichstag building in the background. Gemüseanbau im abgeholzten Großen
     Tiergarten in Berlin 1946, im Hintergrund das Reichstagsgebäude. Source:
-    Bundesarchiv image 183-M1015-314, photo Otto Donath.
+    Bundesarchiv image 183-M1015-314, photo Otto Donath."
 tao_type: story
-date_start: '1944-12-31T23:00:00.000Z'
+date_start: 1944-12-31T23:00:00.000Z
 ---
 
 :::EN:::

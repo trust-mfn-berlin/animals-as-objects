@@ -1,38 +1,34 @@
 ---
-id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
-title: The Afterlife of Zoo Animals
-desc: >-
-  EN Was passiert mit Zootieren nach ihrem Tod, wie werden ihre Körper(teile)
-  weiterverwertet – als koloniale Trophäen, Museumsobjekte oder
-  Fleischlieferanten? Die Geschichte des Berliner Zoo-Elefanten "Siam" aus den
-  1940er Jahren führt ins Berlin der Nachkriegszeit und tief in die Geschichte
-  des europäischen Kolonialismus.
-updated: 1629289731167
-created: 1621970259942
 license: CC BY-SA
 title_de: Verfüttern und Verwerten
+created: 1621970259942
 author: Mareike Vennen
 short_desc_de: Auf den Spuren eines Elefanten
-date_end: '1947-12-31T11:00:00.000Z'
+date_end: 1947-12-31T11:00:00.000Z
 published: false
+title: The Afterlife of Zoo Animals
+updated: 1629289731167
+id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 translators:
   translator_de_en: Lucy Gasser
-desc_de: >-
-  Was passiert mit Zootieren nach ihrem Tod, wie werden ihre Körper(teile)
-  weiterverwertet – als koloniale Trophäen, Museumsobjekte oder
+desc: What happens to a zoo animal after death; how are the body or its parts
+  utilised – as colonial trophies, museum objects, meat? The story of the Berlin
+  Zoo elephant "Siam" from the 1940s is a journey into post-war Berlin and deep
+  into the history of European colonialism.
+desc_de: Was passiert mit Zootieren nach ihrem Tod, wie werden ihre
+  Körper(teile) weiterverwertet – als koloniale Trophäen, Museumsobjekte oder
   Fleischlieferanten? Die Geschichte des Berliner Zoo-Elefanten "Siam" aus den
   1940er Jahren führt ins Berlin der Nachkriegszeit und tief in die Geschichte
   des europäischen Kolonialismus.
-short_desc: EN Auf den Spuren eines Elefanten
+short_desc: On the trail of an elephant
 cover_image:
   image: /images/cover-feeding-and-use-elephant.jpg
-  alt: >-
-    Elephant skulls in the mammal collection of Berlin's natural history museum.
-    Elefantenschädel in der Säugetiersammlung des Berliner Naturkundemuseums.
-    Source: Museum für Naturkunde Berlin, photo Mareike Vennen. All rights
-    reserved.
+  alt: "Elephant skulls in the mammal collection of Berlin's natural history
+    museum. Elefantenschädel in der Säugetiersammlung des Berliner
+    Naturkundemuseums. Source: Museum für Naturkunde Berlin, photo Mareike
+    Vennen. All rights reserved."
 tao_type: story
-date_start: '1932-12-31T23:00:00.000Z'
+date_start: 1932-12-31T23:00:00.000Z
 ---
 
 :::EN:::
