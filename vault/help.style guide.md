@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1625264902886
+updated: 1629275655011
 created: 1618326133707
 ---
 
@@ -30,10 +30,12 @@ See [[templates.story]]
 ### Numbers and Dates
 
 * Dates of life only in material.person, not everywhere
-* Large numbers are written as 63, 7.478, 165.000 with a dot, except for zero through twelve (null bis zwölf), which are spelled out as a word
+* Large numbers are written as 63, 7.478, 165.000 with a dot (but the dot can be left out in EN, if it's too confusing within a text that also has smaller numbers with decimal points like sums of money), except for zero through twelve (null bis zwölf), which are spelled out as a word
 * 19th century, 19. Jahrhundert
 * Dates in the text are 12 December 1967 in EN, but 12. Dezember 1967 auf DE
 * Full dates in footnotes are 30.07.1985
+* Currency comes before the amount in EN but after the amount in DE
+* Sums of money are 1,88 DM (West) in DE with a comma but DM (West) 1.88 in EN with a dot
 
 ### Grammar and Style
 
