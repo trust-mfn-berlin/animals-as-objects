@@ -1,33 +1,31 @@
 ---
-id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
-title: Feeding Prohibited
-desc: >-
-  EN Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
-  selbstverständlich erscheint, war lange Zeit ein direkter Kontakt beim Füttern
-  durch die Besucher\*innen üblich. Wie, wann und weshalb führten Zoos ein
-  Fütterungsverbot ein?
-updated: 1629290856142
-created: 1620752897039
 license: CC BY-SA
 title_de: Füttern Verboten
+created: 1620752897039
 author: Mareike Vennen
 short_desc_de: Neue Regeln zu Nähe und Distanz
-date_end: '1961-12-31T11:00:00.000Z'
+date_end: 1961-12-31T11:00:00.000Z
 published: false
-desc_de: >-
-  Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
+title: Feeding Prohibited
+updated: 1629290856142
+id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
+translators:
+  translator_de_en: Lucy Gasser
+desc: While today, enclosures impose an obvious divide between animals and
+  humans at the zoo, for a long time, direct contact through visitor feeding was
+  commonplace. How, when and why did zoos introduce a general feeding ban?
+desc_de: Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
   selbstverständlich erscheint, war lange Zeit ein direkter Kontakt beim Füttern
   durch die Besucher\*innen üblich. Wie, wann und weshalb führten Zoos ein
   Fütterungsverbot ein?
-short_desc: EN Neue Regeln zu Nähe und Distanz
+short_desc: New rules on proximity and distance
 cover_image:
   image: /images/cover-do-not-feed-the-animals.jpg
-  alt: >-
-    "Do not feed the animals!" at the emu enclosure in the Berlin zoo, 1980.
+  alt: '"Do not feed the animals!" at the emu enclosure in the Berlin zoo, 1980.
     "Jedes Füttern unserer Tiere ist verboten!" am Emugehege im Berliner Zoo,
-    1980. Source: AZGB, photo Kühn. All rights reserved.
+    1980. Source: AZGB, photo Kühn. All rights reserved.'
 tao_type: story
-date_start: '1958-12-31T23:00:00.000Z'
+date_start: 1958-12-31T23:00:00.000Z
 ---
 
 :::EN:::
