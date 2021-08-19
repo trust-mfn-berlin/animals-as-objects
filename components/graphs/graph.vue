@@ -435,12 +435,13 @@ export default {
         node.on('mouseover', function(event, d) {
 
           svg.selectAll('.nodeparent g').sort(function (a, b) { // select the parent and sort the path's
+            if(a.isText) return 1;
             
             if (a.slug != d.slug) {
               return -1; // a is not the hovered element, send "a" to the back
             }
             else {
-              return 1; // a is the hovered element, bring "a" to the front
+              return 2; // a is the hovered element, bring "a" to the front
             }
           });
 
