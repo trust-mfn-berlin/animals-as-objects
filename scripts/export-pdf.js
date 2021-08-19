@@ -88,10 +88,11 @@ async function printPDF (filePath, browser, page) {
 (async () => {
 
   const directoryFiles = await getFileNames(contentDir);
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({
+    args:["--no-sandbox", "--disable-gpu", "--disabled-setupid-sandbox"]
+  });
   const page = await browser.newPage();
-
-  
+  console.log('Browser is online and connected:', browser.isConnected());
 
   for (let i = 0; i < directoryFiles.length; i++) {
     const path = directoryFiles[i].replace('.md', '');
