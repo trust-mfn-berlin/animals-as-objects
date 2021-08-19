@@ -40,6 +40,8 @@ export default {
         uniqueid: uid
       };
 
+      // CAN WE JUST STORE ROUTES ON LOCALSTORAGE AND ONLY 'GET' ROUTE RELATIONSHIPS from SERVER?
+
       try {
         const res = await this.$axios.get('', {params: {uniqueid: uid}})
 
