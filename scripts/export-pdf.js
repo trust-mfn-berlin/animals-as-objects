@@ -13,7 +13,7 @@ const fs = require('fs-extra');
 // 6. Close Browser.
 
 const contentDir = path.join(__dirname, '..', 'vault');
-const exportDir = path.join(__dirname, '..', 'static/pdf');
+const exportDir = path.join(__dirname, '..', 'dist/pdf');
 
 const liveUrl = 'https://dev.animalsasobjects.org/';
 // const liveUrl = 'http://localhost:3000/';
