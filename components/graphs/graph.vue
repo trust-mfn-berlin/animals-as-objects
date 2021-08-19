@@ -140,13 +140,58 @@ export default {
         this.$router.push('/' + d.slug);
       }
     },
+    mediaQuery(){
+      if(window){
+        console.log(window.innerWidth);
+        this.attr.width = window.innerWidth;
+
+        // For mobile
+        if(window.innerWidth < 501){
+          this.attr.height = window.innerHeight - 10;
+          
+          this.attr.linkDistance.inter = this.attr.linkDistance.inter*0.3;
+          this.attr.linkDistance.title = this.attr.linkDistance.title*0.3;
+          this.attr.linkDistance.node = this.attr.linkDistance.node*0.3;
+
+          this.attr.nodeSize = this.attr.nodeSize*0.5;
+          this.attr.rootNodeSize = this.attr.rootNodeSize*0.4;
+
+          this.attr.collisionSize.s = this.attr.collisionSize.s*0.6;
+          this.attr.collisionSize.m = this.attr.collisionSize.m*0.4;
+          this.attr.collisionSize.l = this.attr.collisionSize.l*0.4;
+          
+          // Rounded corners
+          this.attr.storyRadius = 9;
+
+          // Font size
+          this.attr.titleTextSize = 30;
+
+          // Don't squish
+          this.attr.radialForceStrength = 0.8;
+          this.attr.yForceStrength = 0;
+
+          // Center force vertical offset
+          this.attr.verticalOffset = (window.innerHeight*0.4)/2 - 20;
+
+        } else {
+          this.attr.height = window.innerHeight;
+        }
+      }
+    },
+    resize(){
+      d3.select("#d3-main").select("svg").remove();
+      this.init();
+    },
     init(){
+      
+      this.mediaQuery();
+
       const that = this;
       const svg = d3
         .select("#d3-main")
         .append("svg")
         .attr("width", this.attr.width)
-        .attr("height", this.attr.height);
+        .attr("height", this.attr.height); 
 
       const simulation = d3.forceSimulation(graphData.nodes)
         .force("link", d3.forceLink(graphData.links).id(d => d.slug).distance(function(d) {if(d.interTitleLink){ return that.attr.linkDistance.inter} else if(d.titleLink){ return that.attr.linkDistance.title }else {return that.attr.linkDistance.node}}))
@@ -550,46 +595,12 @@ export default {
     }
   },
   mounted(){
-
-    if(window){
-      // console.log(window.innerWidth);
-      this.attr.width = window.innerWidth;
-
-      // For mobile
-      if(window.innerWidth < 501){
-        this.attr.height = window.innerHeight - 10;
-        
-        this.attr.linkDistance.inter = this.attr.linkDistance.inter*0.3;
-        this.attr.linkDistance.title = this.attr.linkDistance.title*0.3;
-        this.attr.linkDistance.node = this.attr.linkDistance.node*0.3;
-
-        this.attr.nodeSize = this.attr.nodeSize*0.5;
-        this.attr.rootNodeSize = this.attr.rootNodeSize*0.4;
-
-        this.attr.collisionSize.s = this.attr.collisionSize.s*0.6;
-        this.attr.collisionSize.m = this.attr.collisionSize.m*0.4;
-        this.attr.collisionSize.l = this.attr.collisionSize.l*0.4;
-        
-        // Rounded corners
-        this.attr.storyRadius = 9;
-
-        // Font size
-        this.attr.titleTextSize = 30;
-
-        // Don't squish
-        this.attr.radialForceStrength = 0.8;
-        this.attr.yForceStrength = 0;
-
-        // Center force vertical offset
-        this.attr.verticalOffset = (window.innerHeight*0.4)/2 - 20;
-
-      } else {
-        this.attr.height = window.innerHeight;
-      }
-    }
     this.init();
     this.fadein = true;
-    
+    window.addEventListener('resize', this.resize);
+  },
+  beforeDestroy(){
+    window.removeEventListener('resize', this.resize);
   }
 }
 </script>
@@ -607,9 +618,11 @@ export default {
   &.cssfade{
     opacity: 1;
   }
+
 }
 
 ::v-deep svg{
+  // background-color: red;
   // Fucks up performance
   // -webkit-filter: drop-shadow( 0px 4px 10px rgba(0, 0, 0, 0.05));
   .nodechild{

@@ -266,14 +266,13 @@ export default {
   mounted(){
 
     this.init(); 
-
     // this.attr.containerHeight = this.attr.computedLines * this.attr.spaceMultiplier - this.attr.margin.top + this.attr.margin.bottom;
-  
     window.addEventListener('resize', this.init);
-    // Responsive Guide
-    // https://stackoverflow.com/questions/16265123/resize-svg-when-window-is-resized-in-d3-js
 
   },
+  beforeDestroy(){
+    window.removeEventListener('resize', this.init);
+  }
 }
 </script>
 
