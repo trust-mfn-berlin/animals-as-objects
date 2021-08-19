@@ -2,12 +2,12 @@
   <div v-if="page">
     <main>
     <section class="current-route">
-      <h2>Your current route</h2>
+      <h2>Ihre aktuelle Route</h2>
       <your-current-route :routes="matchedRoutes" :max="9"/>
-      <small class="f-mono caption">This is your current route through the content. Don’t worry, all information is anonymous.</small>
+      <small class="f-mono caption">Das ist Ihre aktuelle Route durch den Seiteninhalt. Keine Sorge, alle Informationen sind anonym.</small>
     </section>
     <section class="routes-intro">
-      <h2>Curated Routes</h2>
+      <h2>Kuratierte Routen</h2>
       <nuxt-content :document="page"/>
     </section>
     <section class="routes">
