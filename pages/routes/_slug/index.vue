@@ -28,7 +28,7 @@
       <Cascade :articles="articles"/>
     </section>
 
-    <text-button class="back-button" linkto="/routes">Alle kuratierten Routen ansehen</text-button>
+    <text-button class="back-button" linkto="/routes">View all curated routes</text-button>
 
     </main>
   </div>
