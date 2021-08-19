@@ -10,7 +10,7 @@
       </main>
       <aside class="f-mono quote">
         <ol v-if="page.toc.length > 0">
-          <li v-for="subheading in page.toc" :key="subheading.id" @click="tocScroll(subheading.id)">{{subheading.text}}</li>
+          <li v-for="subheading in page.toc" :key="subheading.id" @click="tocScroll(subheading.id)" :class="'depth-' + subheading.depth">{{subheading.text}}</li>
         </ol>
       </aside>
     </div>
