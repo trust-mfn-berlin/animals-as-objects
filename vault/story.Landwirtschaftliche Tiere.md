@@ -8,7 +8,7 @@ date_end: ""
 archived: true
 published: false
 title: Landwirtschaftliche Tiere
-updated: 1621504602490
+updated: 1629362944972
 id: 6ec66c87-7008-405c-b223-7c14558b78d7
 desc: Put a description of this note here...
 desc_de: Put a DE description of this note here...
@@ -28,22 +28,25 @@ date_start: ""
 [[story.feeding]]
 [[story.domestic]] 
 
-Wer an Zoos denkt, dem fallen vermutlich zuerst Elefanten, Löwen oder Giraffen ein, aber Kühe, Schweine und Schafe? Obwohl Zoologische Gärten von Anfang an untrennbar mit exotischen Tieren verknüpft waren - häufig entstanden sie im 19. Jahrhundert aus fürstlichen oder königlichen Menagerien -, ist ihre Geschichte ebenso mit Nutztieren verknüpft. Das Beziehung Zoologischer Gärten zu Wild- und Nutztieren trifft mitten ins Herz der Frage, was einen Zoo eigentlich ausmacht und welche Tierarten auszustellen er als seine Aufgabe ansieht. 
+Wer an Zoos denkt, dem fallen vermutlich zuerst Elefanten, Löwen oder Giraffen ein, aber Kühe, Schweine und Schafe? Obwohl Zoologische Gärten von Anfang an untrennbar mit exotischen Tieren verknüpft waren - häufig entstanden sie im 19. Jahrhundert aus fürstlichen oder königlichen Menagerien -, ist ihre Geschichte ebenso mit Nutztieren verknüpft. 
 
-In Berlin geht die Praxis, Nutztiere im Zoo zu halten, zu züchten oder auszustellen, bis in der Gründungszeit des Zoologischen Gartens zurück. Der Gründungsdirektor des Berliner Zoologischen Gartens Martin Hinrich Lichtenstein verfasste 1840 eine Denkschrift, die den damaligen preußischen Monarchen Friedrich Wilhelm IV. überzeugte, die Anlage eines Zoos bei Berlin anzuordnen. In dieser von Alexander von Humboldt dem König vorgelegten Schrift argumentierte Lichtenstein, dass der anzulegenden Garten nicht nur der 'Belustigung' und zur Bildung dienen sollte, sondern "die eigentliche Aufgabe solcher Anstalten [...] die Vermehrung und Verbreitung schöner und nützlicher Tiere, die Veredlung unserer Haustiere" sein würde. Diese könne zum Beispiel durch die "Kreuzung mit reinen ursprünglichen Arten" erfolgen.[^lichtenstein1] Es scheint, als habe Lichtenstein, Professor für Zoologie der noch jungen Berliner Universität, die Zucht von Nutztieren als eine wichtige Aufgabe des zu gründenden Zoos ansah. Kurz vor Eröffnung des Zoo bekräftigte er noch einmal die zu erwartende "Beförderung landwirtschaftlicher Betriebe".[^lichtenstein1-2] Auch möglich ist, dass Lichtenstein diesen Aspekt von der Schaulust, die er für andere Zoos konstatierte, geschickt abtrennte um einen potentiell skeptischen König von der Finanzierung eines kostspieligen Projekts zu überzeugen.
+SHORT DESCRIPTION? Die Beziehung Zoologischer Gärten zu Wild- und Nutztieren trifft mitten ins Herz der Frage, was einen Zoo eigentlich ausmacht und welche Tierarten auszustellen er als seine Aufgabe ansieht.
 
-<!-- Ich habe in AZGB, O 0/1/135 einen Entwurf der Gedanken gefunden. Ich kann Lichtenstein unmöglich lesen. Magst du draufgucken?-->
-<!-- I can try, schickst du mir oder nächste Woche dann im Archiv? Hab es auch noch mal Sandra geschrieben, ggf. für nächsten Dienstag für unseren HAS-Termin-->
+SHORT DESCRIPTION? Obwohl Zoologische Gärten von Anfang an untrennbar mit der Zurschaustellung sogenannter exotischen Tieren verknüpft waren, ist ihre Geschichte ebenso mit Landwirtschaft, Nutztieren und "nützlichem Wissen" verknüpft. 
 
-Diese Verbindung zur Landwirtschaft verschaffte dem Zoo einen Legitimationsgrund und machte ihn zum Teil jener Wissens- und Praxisfelder, die "nützliches Wissen" erzeugten und damit nicht zuletzt mehr von staatlichen Zuschüssen profitierten. Umgesetzt wurden diese VOrstellungen im tatsächlichen Zoobetrieb dann allerdings kaum. 
+In Berlin geht die Praxis, Nutztiere im Zoo zu halten, zu züchten oder auszustellen, bis in die Gründungszeit des Zoologischen Gartens zurück. Der Gründungsdirektor Martin Hinrich Lichtenstein, gleichzeitig Professor für Zoologie an der noch jungen Berliner Universität, verfasste 1840 eine Denkschrift, die den damaligen preußischen Monarchen Friedrich Wilhelm IV. überzeugte, die Anlage eines Zoos bei Berlin anzuordnen. In dieser von Alexander von Humboldt dem König vorgelegten Schrift argumentierte Lichtenstein, dass der anzulegenden Garten nicht nur der 'Belustigung' und zur Bildung dienen sollte, sondern "die eigentliche Aufgabe solcher Anstalten [...] die Vermehrung und Verbreitung schöner und nützlicher Tiere, die Veredlung unserer Haustiere" sein würde. Diese könne zum Beispiel durch die "Kreuzung mit reinen ursprünglichen Arten" erfolgen.[^lichtenstein1] Damit zählte die Zucht von Nutztieren von Anfang an zu den Kernaufgaben des zu gründenden Zoos. Kurz vor Eröffnung des Zoo bekräftigte er noch einmal die zu erwartende "Beförderung landwirtschaftlicher Betriebe".[^lichtenstein1-2] 
+
+Diese Verbindung zur Landwirtschaft rückte den Zoo näher an jene Wissens- und Praxisfelder, bei denen es um "nützliches Wissen" (FN: Klein, Ursula. _Nützliches Wissen: die Erfindung der Technikwissenschaften_. Göttingen: Wallstein 2016.) ging und die nicht zuletzt mehr von staatlichen Zuschüssen profitierten.  
+
+Der Berliner Zoo war hier kein Einzelfall. Im Gegenteil, die Gründung zoologischer Gärten in Europa war eng mit der Zucht und Haltung von Nutztieren verbunden. AKKLIMATISIERUNG. Die Menagerie des Jardin des Plantes im Bois de Boulogne, auf Initiative von Bernardin de Saint Pierre gegründet und seit 1793 Teil des neu gegründeten Nationalmuseums für Naturgeschichte (Muséum national d'histoire naturelle), war der älteste wissenschaftlich geleitete Zoo überhaupt, der zum Vorbild für Zoos weltweit wurde. Neben sogenannten exotischen Tieren sollte die Menagerie auch als Zentrum der "Zootechnologie" dienen. Frédéric Cuvier arbeitete Pläne aus zur Züchtung neuer Haustierrassen aus. Die Menagerie zeigte "nützliche" Tiere, die potentiell in die französischen Agrarlandschaften und die nationale Wirtschaft integriert werden könnten. (PRÜFEN...)
+
+In Berlin eingebunden in ein Netzwerk verschiedener Institutionen, zu denen die Tierärztliche Hochschule und die Landwirtschaftliche Fakultät xxx gehörte. Diese besaß eine Haustiersammlung einschließlich  aufgestellter  Bälge  von  Hausgeflügel und Haussäugetieren. 
+
+
+
+Ob diese Ausrichtung, die Wissenschaft und Praxis verband, auch dem Zoologischen Garten den ausschlaggebenden Legitimationsgrund und die finanzielle Unterstützung des Königs für das kostspielige Projekt sicherte? Umgesetzt jedenfalls wurden diese Vorstellungen im tatsächlichen Zoobetrieb nur teilweise. 
  
-* wann wurde die Landwirtschaftliche Hochschule gegründet? Verbindungen zwischen Lichtenstein/der Friedrich-Wilhlems-Universität und der Landwirt. Hochschule?
-@clemens: haben wir von der Denkschrift nicht das Original? Liegt in der HAS. Und im Text sollte erwähnt werden, von wann die Denkschrift ist.
-
-* Die Menagerie des Jardin des Plantes im Bois de Boulogne, auf Initiative von Bernardin de Saint Pierre gegründet und seit 1793 Teil des neu gegründeten Nationalmuseums für Naturgeschichte (Muséum national d'histoire naturelle), war der älteste wissenschaftlich geleitete Zoo überhauppt, der zum Vorbild für Zoos weltweit wurde. Neben sogenannten exotischen Tieren sollte die Menagerie auch als Zentrum der "Zootechnologie" dienen. Frédéric Cuvier arbeitete Pläne aus zur Züchtung neuer Haustierrassen aus.
-* zeigte "nützliche" Tiere, die potentiell in die französischen Agrarlandschaften und die nationale Wirtschaft integriert werden könnten. Wenn einige der Pläne der Société d'Acclimatation zur Erweiterung der französischen Viehzuchtkompetenz - wie der Vorschlag, den Bois de Boulogne mit Kängurus zu bevölkern - weit hergeholt klingen, so sind andere Prototypen der Massentierhaltung. Bereits 1873 gab es im Jardin einen Modell-Geflügelfütterungskäfig, der es einem Mann mit einem Gummischlauch ermöglichte, vierhundert Vögel pro Stunde zu füttern. "Die Besucher können in demselben Etablissement Masthühner kaufen, die für den Spieß bereit sind." vgl. "And they Ate the Zoo"
-
-
+Eine Episode: 
 Die Verbindungen zwischen Zoo und Wissenschaft/Universität waren auch um 1900 der Grund für die Anschaffung und Zucht von Nutztieren im Berliner Zoo. Nachdem zunächst xxxx angeschafft wurden, verhandelte im Jahr 1900 der nachfolgende Zoodirektor Ludwig Heck mit dem Landwirtschaftsministerium über einen landwirtschaftlichen genutzten Zweig des Zoos. Es ging um die Bewilligung eines Staatsbeitrages zu den Futterkosten für die Haltung und Anschaffung landwirtschaftlich wichtiger Nutztiere im Zoo zu Unterrichts- und Studienzwecken der Landwirtschaftlichen Hochschule und der Tierärztlichen Hochschule. Geplant war „eine Collection moderner Hausthierrassen, speziell Rindvieh und Schafe sowie vereinzelte Schweine und Pferde und Geflügel“[^LandwirtschTierpark1], die die beiden Hochschulen mit auswählten und die der Zoo gewissermaßen als Pensions-Tiere halten und verpflegen sollte. Die Tiere sollten den Hochschullehrer\*innen und ihren Studierenden als Anschauungsmaterial für die Demonstrationskurse des zoologischen und tierzüchterischen Unterrichts und als Material für Züchtungs-, Kreuzungs- und Fütterungsversuche dienen. Die Umsetzung zog sich durch verschiedene Komplikationen hin, doch konnte der Zoo 1904 tatsächlich einen staatlichen Futterzuschuss von 6.000 Mark verbuchen, der bis 1912 gewährt wurde.[^LandwirtschTierpark2] Zwischenzeitlich waren aber im Zoo immerhin 45 Rinder, 24 Pferde, 18 Schweine sowie 52 Hausziegen- und Schafe zu sehen. Obwohl sogenannte exotische Tiere schon damals die Attraktionen der Zoos ausmachten, konnte der Berliner Garten durch das Abkommen mit dem königlichen Ministerium seinen Bestand steigern. Zugleich konnte er sich als wissenschaftliche Einrichtung profilieren - Ludwig Heck vergaß nicht die „wissenschaftlichen Leistungen unseres Instituts“ hervorzuheben.[^LandwirtschTierpark3]
 
 @Clemens: Weimarer Republik; Deutscher Zoo: nationalistischer turn hier auch rein??
@@ -69,10 +72,16 @@ Renate Angermann: Die Säugetierkollektion des Museums für Naturkunde der Humbo
 >Ein  beträchtlicher  Zuwachs  an  osteologischem  Material  ergab  sich  aus  der  Aufnahme  der Sammlung   des   ehemaligen   Institutes   für   Zoologie   der   Landwirtschaftlich-GärtnerischenFakultät  (vormals  Landwirtschaftliche  Hochschule),  die  nach  der  3.  Hochschulreform  „her­renlos“  geworden  war;  leider  erfolgte  keine  planmäßige  Übergabe.   Beim  Tode  von  NEH-RING  (1904),  dem  der  Aufbau  dieser  bedeutenden  Sammlung  im  wesentlichen  zu  danken  ist,umfaßte  diese  nach  HERBST  (1985)   ca.   11  000  Nummern.   Schon  ab  1909  hatte  ein  Material­tausch  zwischen  dieser  Sammlung  (durch  HESSE)  und  der  Säugetier-Abteilung  des  Zoolo­gischen  Museums  begonnen,  dergestalt,  daß  seitens  des  Museums  Haustiermaterial  abgege­ben  und  dafür  Wildsäugermaterial  eingetauscht  wurde.  Man  hat  diesen  Tausch  offenbar  niezuende  geführt,  denn  bei  Übernahme  des  Gesamtbestandes  waren  darin  immer  noch  sehrviele   Wildsäuger   enthalten.   Diese  wurden   nunmehr   von  uns   separiert,   in   die   Säugetier-Kollektion  des  Museums  für  Naturkunde  eingegliedert  und  hier  auch  inventarisiert.  Fossil­material   (einschließlich   des   Auerochsen-Skelettes)   ging   an   den   Bereich  PaläontologischesMuseum  des  MfN.  Das  Haustiermaterial  (einschließlich  aufgestellter  Bälge  von  Hausgeflügelund  Haussäugetieren)  bildet  den  Grundstock  der  separat  bestehenden  Haustiersammlung  imBereich  Zoologisches  Museum
 
 
+* wann wurde die Landwirtschaftliche Hochschule gegründet? Verbindungen zwischen Lichtenstein/der Friedrich-Wilhlems-Universität und der Landwirt. Hochschule?
+@clemens: haben wir von der Denkschrift nicht das Original? Liegt in der HAS. Und im Text sollte erwähnt werden, von wann die Denkschrift ist.
+
+* 
+*  Wenn einige der Pläne der Société d'Acclimatation zur Erweiterung der französischen Viehzuchtkompetenz - wie der Vorschlag, den Bois de Boulogne mit Kängurus zu bevölkern - weit hergeholt klingen, so sind andere Prototypen der Massentierhaltung. Bereits 1873 gab es im Jardin einen Modell-Geflügelfütterungskäfig, der es einem Mann mit einem Gummischlauch ermöglichte, vierhundert Vögel pro Stunde zu füttern. "Die Besucher können in demselben Etablissement Masthühner kaufen, die für den Spieß bereit sind." vgl. "And they Ate the Zoo"
 
 
 
-
+<!-- Ich habe in AZGB, O 0/1/135 einen Entwurf der Gedanken gefunden. Ich kann Lichtenstein unmöglich lesen. Magst du draufgucken?-->
+<!-- I can try, schickst du mir oder nächste Woche dann im Archiv? Hab es auch noch mal Sandra geschrieben, ggf. für nächsten Dienstag für unseren HAS-Termin-->
 
 ## Fußnoten
 
