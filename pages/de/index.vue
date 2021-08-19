@@ -5,22 +5,23 @@
     
     <div class="spacer"></div>
     <section class="cascade">
-      <p class="intro"><span class="f-mono">Tiere als Objekte?</span> ist eine Online-Publikation des Museums für Naturkunde Berlin und des Zoo-Berlin. Erfahren Sie mehr über die einzigartigen Verbindungen zwischen einigen der beliebtesten Berliner Tiere, indem Sie sich Artikel ansehen: <span class="theme tao_type">Themes</span> sind große Themen, die viele <span class="story tao_type">Stories</span> enthalten, und <span class="material tao_type">Materials</span> sind fokussierte Erkundungen dieser aufstrebenden Verbindungen.</p>
+      <p class="intro">
+        Erfahren Sie mehr über unerwartete Verbindungen zwischen einigen der beliebtesten Berliner Tiere und zahlreichen weniger charismatischen oder berühmten Exemplaren, indem Sie sich durch unsere <span class="theme tao_type"><em>Themen</em></span>, <span class="story tao_type"><em>Storys</em></span> und <span class="material tao_type"><em>Materien</em></span> klicken. <em>Themen</em> zeigen größere Zusammenhänge auf und verbinden verschiedene <em>Storys</em>, die wiederum Anekdoten, Praktiken und <em>Materien</em> miteinander verweben – eben die spezifischen Dinge, Dokumente und Momente, die die Verwandlung von Tieren in Objekte markieren.
+      </p>
       <Cascade :articles="articles" />
-      <text-button linkto="/de/articles">View All Articles</text-button>
+      <text-button linkto="/de/articles">Alle Artikel ansehen</text-button>
     </section>
 
     <section class="routes">
-      <h2>Curated routes</h2>
+      <h2>Kuratierte Routen</h2>
       <curated-routes-list :routes="routes" />
-      <text-button linkto="/de/routes">Explore more Curated routes</text-button>
+      <text-button linkto="/de/routes">Alle kuratierten Routen ansehen</text-button>
     </section>
 
     <section class="outro">
       <p class="outro-text">
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-      </p>
-      <text-button linkto="/de/about">More about the project</text-button>
+        <span class="f-mono">Tiere als Objekte?</span> ist eine Online-Publikation von Wissenschaftler*innen des Museums für Naturkunde Berlin, des Berliner Zoos und der Humboldt-Universität zu Berlin. Wir sind Wissenschaftshistoriker*innen, Forscher*innen in den Science Studies, Kulturwissenschaftler*innen und Anthropolog*innen. Das Projekt wurde vom Bundesministerium für Bildung und Forschung (BMBF) gefördert und läuft von September 2018 bis Dezember 2021.      </p>
+      <text-button linkto="/de/about">Mehr über das Projekt</text-button>
     </section>
 
   </div>

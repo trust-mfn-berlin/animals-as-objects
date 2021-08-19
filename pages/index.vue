@@ -5,7 +5,9 @@
     
     <div class="spacer"></div>
     <section class="cascade">
-      <p class="intro"><span class="f-mono">Animals as Objects?</span> is an online publication produced by the Museum für Naturkunde Berlin and Zoo-Berlin. Learn more about the unique connections between some of Berlin’s most beloved animals by viewing articles: <span class="theme tao_type">Themes</span> are large topics that contain many <span class="story tao_type">Stories</span>, and <span class="material tao_type">Materials</span> are focused explorations into these emergent connections.</p>
+      <p class="intro">
+        Learn more about the unexpected connections between some of Berlin’s most beloved animals as well as less charismatic and famous specimens by browsing through our <span class="theme tao_type">Themes</span>, <span class="story tao_type">Stories</span> and <span class="material tao_type">Materials</span>. Themes are big-picture topics that bring together many stories, which in turn weave together anecdotes, practices, and materials – the specific things, documents, and moments that mark the transformations of animals into objects.
+      </p>
       <Cascade :articles="articles" />
       <text-button linkto="/articles">View All Articles</text-button>
     </section>
@@ -18,8 +20,7 @@
 
     <section class="outro">
       <p class="outro-text">
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-      </p>
+        <span class="f-mono">Animals as Objects?</span> is an online publication by researchers from the Museum für Naturkunde Berlin, the Zoo Berlin, and the Humboldt University Berlin. We are historians of science, science studies scholars,  cultural studies scholars, and anthropologists. The project was funded by the German Federal Ministry for Education and Research (BMBF), and runs from September 2018 until December 2021.      </p>
       <text-button linkto="/about">More about the project</text-button>
     </section>
 
