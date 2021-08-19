@@ -135,6 +135,7 @@ export default {
       }
     },
     switchUrlComposed(){
+      if(this.$route.fullPath == '/de' || this.$route.fullPath == '/de/') return '/'
       if(this.$route.fullPath.substring(0,4) == '/de/')
       {
         return this.$route.fullPath.replace('/de/', '/');

@@ -11,7 +11,7 @@
       </li>
       
       <li>
-        <text-button class="primary-nav-item" :linkto="rootUrl">{{siteLang == "de" ? 'Startseite' : 'About'}}</text-button>
+        <text-button class="primary-nav-item" :linkto="rootUrl">{{siteLang == "de" ? 'Startseite' : 'Home'}}</text-button>
       </li>
       <li>
         <text-button class="primary-nav-item" :linkto="sameUrl + 'articles'">Index</text-button>
@@ -76,6 +76,7 @@ export default {
       }
     },
     switchUrlComposed(){
+      if(this.$route.fullPath == '/de' || this.$route.fullPath == '/de/') return '/'
       if(this.$route.fullPath.substring(0,4) == '/de/')
       {
         return this.$route.fullPath.replace('/de/', '/');
