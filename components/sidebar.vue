@@ -10,7 +10,7 @@
         <li>Last updated: <span>{{article.updatedAt | formatDate}}</span></li>
       </ul>
       <div class="button-array">
-        <text-button type="anchor" :linkto="'/pdf/' + pdfNameBilingual + article.slug + '.pdf'">Download PDF</text-button>
+        <text-button type="anchor" :linkto="'/pdf/' + pdfNameBilingual + '.pdf'">Download PDF</text-button>
         <text-button type="button" @click.native="openCitationModal">Cite this Article</text-button>
       </div>
     </section>
@@ -81,10 +81,11 @@ export default {
       }
     },
     pdfNameBilingual(){
+      var slug = this.article.slug.replace('.','-');
       if(this.siteLang == 'de'){
-        return 'tiere_als_objekte-'
+        return 'tiere_als_objekte-' + slug
       } else {
-        return 'animals_as_objects-'
+        return 'animals_as_objects-' + slug
       }
     }
 

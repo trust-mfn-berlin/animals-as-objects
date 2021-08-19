@@ -44,9 +44,11 @@ async function printPDF (filePath, browser, page) {
   const formattedUrl = path.join(liveUrl, filePath, '/print');
   const formattedUrlDE = path.join(liveUrl, 'de/' ,filePath, '/print');
 
-  const filePathEN = prefix + filePath
-  const filePathDE = prefixDE + filePath
-
+  const fileName = filePath.replace('.','-');
+  
+  const filePathEN = prefix + fileName
+  const filePathDE = prefixDE + fileName
+  
   console.log('Accessing URL: ', formattedUrl);
 
   await page.goto(formattedUrl, {
