@@ -1,6 +1,6 @@
 <template>
   <form id='cookie-disclaimer' v-show="!this.$store.getters.isTrackingEnabled">
-    <label class='text-links f-mono subheading'>Allow Cookies? <nuxt-link to="/datenschutz">What they do</nuxt-link></label>
+    <label class='text-links f-mono subheading'>{{siteLang == 'de' ? 'Cookies erlauben?' : 'Allow Cookies?'}} <nuxt-link :to="siteLang == 'de' ? '/de/datenschutz' : '/datenschutz'">{{siteLang == 'de' ? 'Was sie tun' : 'What they do'}}</nuxt-link></label>
     <text-button type="button" @click.native="onAccept">OK</text-button>
   </form>
 </template>
@@ -11,6 +11,11 @@ import { v4 as uuidv4 } from 'uuid';
 
 export default{
   name:'cookie-bar',
+  computed:{
+    siteLang(){
+      return this.$store.getters.siteLanguage
+    }
+  },
   methods:{
     onAccept(e){
       e.preventDefault();
