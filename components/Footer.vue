@@ -6,7 +6,10 @@
     <small class="f-mono" v-else>
       <em>Animals as Objects?</em> <span class="mob-hidden">A website by the research project "Animals as Objects. Zoological Gardens and Natural History Museum Berlin, 1810 to 2020"</span>
     </small>
-    <small class="f-mono"><nuxt-link to='/datenschutz'>{{$store.getters.siteLanguage == "de" ? 'Datenschutzerklärung' : 'Data privacy policy'}}</nuxt-link> <nuxt-link to='/imprint'>Imprint</nuxt-link></small>
+    <small class="f-mono">
+      <nuxt-link :to="$store.getters.siteLanguage == 'de' ? '/de/datenschutz' : '/datenschutz'">{{$store.getters.siteLanguage == "de" ? 'Datenschutzerklärung' : 'Data privacy policy'}}</nuxt-link> |
+      <nuxt-link :to="$store.getters.siteLanguage == 'de' ? '/de/imprint' : '/imprint'">Imprint</nuxt-link>
+      </small>
     
     <!-- <icon-button icon="arrow-up" tao_type="material" @click.native="scrollToY(0, 800)"></icon-button> -->
   </footer>
