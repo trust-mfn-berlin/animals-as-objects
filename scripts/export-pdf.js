@@ -12,6 +12,10 @@ const fs = require('fs-extra');
 // 5. Export PDF in A4 with Headers and Footers to static folder
 // 6. Close Browser.
 
+// Issue with Ubuntu 20.04 ... 
+// https://github.com/puppeteer/puppeteer/issues/1409
+// Fix by adding "--disable-gpu" arg to launch.
+
 const contentDir = path.join(__dirname, '..', 'vault');
 const exportDir = path.join(__dirname, '..', 'dist/pdf');
 
