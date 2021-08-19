@@ -2,7 +2,7 @@
   <header>
   <nav aria-label="Main">
     <transition name="fade">
-    <li class="mob-only" v-if="mobileMenuToggleVisible">
+    <li class="mob-only" v-show="mobileMenuToggleVisible">
       <icon-button 
         @click.native="toggleMobileMenu"
         :icon="toggleMobileMenuIcon"
@@ -11,14 +11,11 @@
       >{{toggleMobileMenuButtonText}}</icon-button>
     </li>
     </transition>
-
     <div class="flex-spacer mob-only" aria-hidden="true" ></div>
-
     <ul class="primary mob-hidden">
       <li>
         <text-button class="primary-nav-item" :linkto="rootUrl">Animals as Objects?</text-button>
       </li>
-      
       <li>
         <text-button class="primary-nav-item" :linkto="sameUrl + 'articles'">Index</text-button>
       </li>
