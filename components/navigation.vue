@@ -14,13 +14,13 @@
     <div class="flex-spacer mob-only" aria-hidden="true" ></div>
     <ul class="primary mob-hidden">
       <li>
-        <text-button class="primary-nav-item" :linkto="rootUrl">Animals as Objects?</text-button>
+        <text-button class="primary-nav-item" :linkto="rootUrl">{{siteLang == "de" ? 'Tiere als Objekte?' : 'Animals as Objects?'}}</text-button>
       </li>
       <li>
         <text-button class="primary-nav-item" :linkto="sameUrl + 'articles'">Index</text-button>
       </li>
       <li>
-        <text-button class="primary-nav-item" :linkto="sameUrl + 'about'">About</text-button>
+        <text-button class="primary-nav-item" :linkto="sameUrl + 'about'">{{siteLang == "de" ? 'Über uns' : 'About'}}</text-button>
       </li>
       <li>
         <text-button :linkto="switchUrlComposed">{{siteLangSwap}}</text-button>

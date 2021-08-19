@@ -7,23 +7,23 @@
       </li>
 
       <li>
-        <h2 class="title f-mono">Animals as Objects?</h2>
+        <h2 class="title f-mono">{{siteLang == "de" ? 'Tiere als Objekte?' : 'Animals as Objects?'}}</h2>
       </li>
       
       <li>
-        <text-button class="primary-nav-item" :linkto="rootUrl">Home</text-button>
+        <text-button class="primary-nav-item" :linkto="rootUrl">{{siteLang == "de" ? 'Startseite' : 'About'}}</text-button>
       </li>
       <li>
         <text-button class="primary-nav-item" :linkto="sameUrl + 'articles'">Index</text-button>
       </li>
       <li>
-        <text-button class="primary-nav-item" :linkto="sameUrl + 'about'">About</text-button>
+        <text-button class="primary-nav-item" :linkto="sameUrl + 'about'">{{siteLang == "de" ? 'Über uns' : 'About'}}</text-button>
       </li>
       <li>
         <text-button :linkto="switchUrlComposed">{{siteLangSwap}}</text-button>
       </li>
       <li>
-        <text-button class="primary-nav-item" :linkto="sameUrl + 'datenschutz'">Datenschutz</text-button>
+        <text-button class="primary-nav-item" :linkto="sameUrl + 'datenschutz'">{{siteLang == "de" ? 'Datenschutzerklärung' : 'Data privacy policy'}}</text-button>
       </li>
       <li>
         <text-button class="primary-nav-item" :linkto="sameUrl + 'imprint'">Imprint</text-button>
@@ -82,7 +82,7 @@ export default {
       } else {
         return '/de' + this.$route.fullPath
       }
-    }
+    },
   }
 
 }

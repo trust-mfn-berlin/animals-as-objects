@@ -8,7 +8,7 @@
       type="search"
       autocomplete="off"
       spellcheck="false"
-      placeholder="Search Articles"
+      :placeholder="siteLang == 'de' ? 'Suche' : 'Search'"
       @click="activateSearchBar"
     />
     <ul class="searchbar-results" id="the-searchbar-results" v-if="articles.length && isSearchbarOpen">
@@ -33,6 +33,9 @@ export default {
     }
   },
   computed:{
+    siteLang(){
+      return this.$store.getters.siteLanguage
+    },
     isSearchbarOpen(){
       return this.$store.getters.isSearchbarOpen;
     },
