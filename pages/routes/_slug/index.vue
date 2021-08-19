@@ -14,7 +14,7 @@
     <section class="introduction">  
       <div class="introduction-inner">
         <p class="f-serif">{{route.into_text.text_en}}</p>
-        <text-button v-if="route.pdf" type="anchor" :linkto="route.pdf">Download this Route as a PDF</text-button>
+        <text-button v-if="route.pdf" type="anchor" :linkto="route.pdf">Download PDFs</text-button>
       </div>
       <aside class="bio">
         <div class="bio-inner">
@@ -28,7 +28,7 @@
       <Cascade :articles="articles"/>
     </section>
 
-    <text-button class="back-button" linkto="/routes">View all curated routes</text-button>
+    <text-button class="back-button" linkto="/routes">Alle kuratierten Routen ansehen</text-button>
 
     </main>
   </div>

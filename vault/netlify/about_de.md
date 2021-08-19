@@ -1,5 +1,5 @@
 ---
-title: Über uns
+title: Tiere als Objekte?
 ---
 ## Über diese Website
 

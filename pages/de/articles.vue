@@ -13,7 +13,7 @@
       </section>
 
       <section v-show="activeFilter == 'type'">
-      <h2>Theme</h2>
+      <h2>Thema</h2>
       <ul>
         <li v-for="article in articlesType.theme" :key="article.slug">
           <Inline :article="article"/>
@@ -27,7 +27,7 @@
         </li>
       </ul>
 
-      <h2>Material</h2>
+      <h2>Materie</h2>
       <ul>
         <li v-for="article in articlesType.material" :key="article.slug">
           <Inline :article="article"/>
@@ -36,7 +36,7 @@
       </section>
 
       <section v-show="activeFilter == 'date'">
-        <h2>Timeline</h2>
+        <h2>Zeitstrahl</h2>
         <timeline />
       </section>
     </main>

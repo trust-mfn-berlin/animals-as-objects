@@ -4,8 +4,8 @@
     <hgroup class="page-header">
       <h1 class="f-serif">{{route.title_de}}</h1>
       <h3 class="subheading f-mono">
-        <span class="type" >{{route.articles.length}} articles</span>
-        <span v-if="route.author">Curated by: {{route.author}}</span>
+        <span class="type" >{{route.articles.length}} Artikel</span>
+        <span v-if="route.author">Kuratiert von: {{route.author}}</span>
       </h3>
     </hgroup>
 
@@ -14,11 +14,11 @@
     <section class="introduction">  
       <div class="introduction-inner">
         <p class="f-serif">{{route.into_text.text_de}}</p>
-        <text-button v-if="route.pdf" type="anchor" :linkto="route.pdf">Download this Route as a PDF</text-button>
+        <text-button v-if="route.pdf" type="anchor" :linkto="route.pdf">PDFs runterladen</text-button>
       </div>
       <aside class="bio">
         <div class="bio-inner">
-        <h3 class="subheading f-mono">About {{route.author}}</h3>
+        <h3 class="subheading f-mono">Über {{route.author}}</h3>
         <p class="f-mono quote">{{route.author_bio.author_bio_de}}</p>
         </div>
       </aside>
