@@ -3,15 +3,17 @@
     <section id="section-details">
       <h3 class="f-mono subheading">Details</h3>
       <ul>
-        <li v-if="article.tao_type">Article type: <span>{{article.tao_type}}</span></li>
-        <li v-if="article.author">Author: <span>{{article.author}}</span></li>
-        <li v-if="article.license">Text License: <span>{{article.license}}</span></li>
+        <li v-if="article.tao_type" class="tao-type">{{siteLang == 'de' ? labels.type.de : labels.type.en}}: <span>{{siteLang == 'de' ? article.tao_type_de : article.tao_type }}</span></li>
+        <li v-if="article.author">{{siteLang == 'de' ? labels.author.de : labels.author.en}}: <span>{{article.author}}</span></li>
+        <li v-if="article.translators && article.translators.translator_de_en && siteLang != 'de'">{{labels.translator.en}}: <span>{{article.translators.translator_de_en}}</span></li>
+        <li v-if="article.translators && article.translators.translator_en_de && siteLang =='de'">{{labels.translator.de}}: <span>{{article.translators.translator_en_de}}</span></li>
+        <li v-if="article.license">{{siteLang == 'de' ? labels.license.de : labels.license.en}}: <span>{{article.license}}</span></li>
         <li v-if="article.doi">DOI: <span>{{article.doi}}</span></li>
-        <li>Last updated: <span>{{article.updatedAt | formatDate}}</span></li>
+        <li>{{siteLang == 'de' ? labels.updated.de : labels.updated.en}}: <span>{{article.updatedAt | formatDate}}</span></li>
       </ul>
       <div class="button-array">
-        <text-button type="anchor" :linkto="'/pdf/' + pdfNameBilingual + '.pdf'">Download PDF</text-button>
-        <text-button type="button" @click.native="openCitationModal">Cite this Article</text-button>
+        <text-button type="anchor" :linkto="'/pdf/' + pdfNameBilingual + '.pdf'">{{siteLang == 'de' ? labels.download.de : labels.download.en}}</text-button>
+        <text-button type="button" @click.native="openCitationModal">{{siteLang == 'de' ? labels.cite.de : labels.cite.en}}</text-button>
       </div>
     </section>
 
@@ -23,14 +25,14 @@
     </template>
 
     <section id="section-backlinks" v-if="article.backlinks.length > 0">
-      <h3 class="f-mono subheading">Pages that link here</h3>
+      <h3 class="f-mono subheading">{{siteLang == 'de' ? labels.backlink.de : labels.backlink.en}}</h3>
       <graph-backlinks  :article="{slug: article.slug, title: article.title, tao_type: article.tao_type}" :backlinks="article.backlinks"/>
     </section>
 
     <curatedRoutes :slug="article.slug"/>
 
     <section id="section-footnotes" v-if="footnotesParsed">
-      <h3 class="f-mono subheading ">Footnotes</h3>
+      <h3 class="f-mono subheading ">{{siteLang == 'de' ? labels.footnotes.de : labels.footnotes.en}}</h3>
       <div class="footnotes-inner text-links" v-html="footnotesParsed"></div>
     </section>
 
@@ -63,7 +65,49 @@ export default {
   data(){
     return{
       footnotesParsed:'',
-      matchedCuratedRoutes:[]
+      matchedCuratedRoutes:[],
+      labels:{
+        type:{
+          en:'Article type',
+          de:'Artikeltyp'
+        },
+        author:{
+          en:'Author',
+          de:'Autor*in'
+        },
+        translator:{
+          en:'Translator',
+          de:'Übersetzer*in'
+        },
+        license:{
+          en:'Text License',
+          de:'Textlizenz'
+        },
+        published:{
+          en:'Published',
+          de:'Veröffentlicht'
+        },
+        updated:{
+          en:'Last updated',
+          de:'Zuletzt aktualisiert'
+        },
+        footnotes:{
+          en:'Footnotes',
+          de:'Fußnoten'
+        },
+        cite:{
+          en:'Cite this article',
+          de:'Diesen Artikel zitieren'
+        },
+        download:{
+          en:'Download PDF ',
+          de:'PDF runterladen'
+        },
+        backlink:{
+          en:'Pages that link here',
+          de:'Seiten, die hierher verweisen'
+        }
+      }
     }
   },
   computed:{
@@ -189,6 +233,18 @@ aside{
     transform: translateX(0);
   }
 
+  .tao-type span{
+    text-transform: capitalize;
+  }
+
+  .button-array{
+    ::v-deep{
+      a{
+        margin-bottom: @space-xs;
+      }
+    }
+  }
+
   section{
 
     overflow-x:hidden;
@@ -204,6 +260,7 @@ aside{
     }
 
     &#section-details{
+      // padding-bottom: @space-s;
       li{
         margin-bottom: 0.4rem;
       }

@@ -42,6 +42,9 @@ computed:{
   },
   currentRoute(){
     return this.$store.getters.currentRoute;
+  },
+  siteLang(){
+    return this.$store.getters.siteLanguage;
   }
 },
 methods:{

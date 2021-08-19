@@ -142,9 +142,14 @@ export default {
       }
 
       // console.log(document)
-      if(document.id == '2df514da-8df2-4278-8534-28e1034c7adf'){
+      // if(document.id == '2df514da-8df2-4278-8534-28e1034c7adf'){
         // console.log(document.body)
-      }
+      // }
+
+      if(document.tao_type == 'theme') document.tao_type_de = 'Thema';
+      if(document.tao_type == 'story') document.tao_type_de = 'Story';
+      if(document.tao_type == 'material') document.tao_type_de = 'Materie';
+
 
       for (let i = 0; i < backlinks.length; i++) {
         const page = backlinks[i];

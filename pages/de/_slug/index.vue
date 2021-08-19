@@ -4,7 +4,7 @@
     <hgroup class="heading article-header" :style="{background:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
       <div class="heading-inner"><h1>{{article.title_de}}</h1>
       <h2 class="lead subheading f-mono">
-        <span class="type" :class="article.tao_type" >{{tao_type_de}}</span>
+        <span class="type" :class="article.tao_type" >{{article.tao_type_de ? article.tao_type_de : article.tao_type}}</span>
         <span v-if="article.short_desc_de">{{article.short_desc_de}}</span>
         <span v-else>I need a short description!</span>
       </h2>
@@ -77,11 +77,6 @@ export default {
     isSidebarOpen(){
       return this.$store.getters.isSidebarOpen
     },
-    tao_type_de(){
-      if(this.article.tao_type == 'theme') return 'Thema'
-      if(this.article.tao_type == 'story') return 'Story'
-      if(this.article.tao_type == 'material') return 'Materie'
-    }
   },
   created(){
     // make sure correct language
