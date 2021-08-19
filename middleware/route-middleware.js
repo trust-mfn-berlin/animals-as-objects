@@ -24,7 +24,8 @@ export default function ({store, app, context, route}) {
         
       const postObject = {
         uniqueid: app.$cookies.get('tao-uid'),
-        route: route.params.slug
+        route: route.params.slug,
+        prevRoute: store.getters.currentRouteLastPage ? store.getters.currentRouteLastPage : null 
       }
 
       app.$axios.post('', postObject);
