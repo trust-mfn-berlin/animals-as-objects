@@ -99,6 +99,14 @@ export default {
   created(){
     this.$store.commit('setSiteLanguage', 'en')
   },
+  head() {
+    return {
+      htmlAttrs: {
+        lang: 'en'
+      },
+      title: 'Animals as Objects? Index'
+    };
+  },
 }
 </script>
 

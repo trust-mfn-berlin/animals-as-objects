@@ -58,9 +58,9 @@ export default {
   head() {
     return {
       htmlAttrs: {
-        lang: 'en'
+        lang: 'de'
       },
-      title: 'Animals as Objects? ' + this.article.title + ' by ' + this.article.author
+      title: 'Tiere als Objekte? ' + this.article.title_de + ' von ' + this.article.author
     };
   },
 };

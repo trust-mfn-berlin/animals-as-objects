@@ -131,6 +131,14 @@ export default {
     };
     }
   },
+  head() {
+    return {
+      htmlAttrs: {
+        lang: 'de'
+      },
+      title: 'Tiere als Objekte? ' + this.article.title_de + ' von ' + this.article.author
+    };
+  },
 };
 </script>
 

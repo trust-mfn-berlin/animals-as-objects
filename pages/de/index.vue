@@ -128,7 +128,10 @@ export default {
   },
   head() {
     return {
-      // script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }],
+      htmlAttrs: {
+        lang: 'de'
+      },
+      title: 'Tiere als Objekte?'
     };
   },
 }

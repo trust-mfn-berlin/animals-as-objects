@@ -53,6 +53,14 @@ export default {
   mounted(){
     this.$store.commit('toggleMobileMenu', false);
   },
+  head() {
+    return {
+      htmlAttrs: {
+        lang: 'de'
+      },
+      title: 'Tiere als Objekte? Impressum'
+    };
+  },
 }
 </script>
 

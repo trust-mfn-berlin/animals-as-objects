@@ -71,7 +71,15 @@ export default {
   mounted(){
     this.matchRoutes();
     this.$store.commit('toggleMobileMenu', false);
-  }
+  },
+  head() {
+    return {
+      htmlAttrs: {
+        lang: 'en'
+      },
+      title: 'Animals as Objects? Routes'
+    };
+  },
 }
 </script>
 

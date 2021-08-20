@@ -69,7 +69,15 @@ export default {
   },
   mounted(){
     this.$store.commit('toggleMobileMenu', false);
-  }
+  },
+  head() {
+    return {
+      htmlAttrs: {
+        lang: 'de'
+      },
+      title: 'Tiere als Objekte? ' + this.route.title_de + ' von ' + this.route.author
+    };
+  },
 }
 </script>
 

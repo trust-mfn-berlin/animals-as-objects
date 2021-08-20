@@ -53,7 +53,15 @@ export default {
   },
   mounted(){
     this.$store.commit('toggleMobileMenu', false);
-  }
+  },
+  head() {
+    return {
+      htmlAttrs: {
+        lang: 'en'
+      },
+      title: 'Animals as Objects? About'
+    };
+  },
 }
 </script>
 
