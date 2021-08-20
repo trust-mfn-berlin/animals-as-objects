@@ -1,9 +1,9 @@
 <template>
   <footer>
-    <small class="f-mono" v-if="$store.getters.siteLanguage == 'de'">
+    <small class="f-mono spiel" v-if="$store.getters.siteLanguage == 'de'">
       <em>Tiere als Objekte?</em> <span class="mob-hidden">Eine Website des Forschungsprojekts "Tiere als Objekte. Zoologische Gärten und Naturkundemuseum Berlin, 1810 bis 2020"</span>
     </small>
-    <small class="f-mono" v-else>
+    <small class="f-mono spiel" v-else>
       <em>Animals as Objects?</em> <span class="mob-hidden">A website by the research project "Animals as Objects. Zoological Gardens and Natural History Museum Berlin, 1810 to 2020"</span>
     </small>
     <small class="f-mono">
@@ -35,5 +35,9 @@ footer{
 small{
   font-size: @fs-xxs;
   line-height: @lh-short;
+}
+
+.spiel{
+  max-width: 60%;
 }
 </style>
