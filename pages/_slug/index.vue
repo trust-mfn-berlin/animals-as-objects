@@ -94,6 +94,14 @@ export default {
     isSidebarOpen(){
       return this.$store.getters.isSidebarOpen
     },
+    seoImageUrl(){
+      if(this.article.cover_image){
+        if(this.article.cover_image.image){
+          return  'https://dev.animalsasobjects.org' + this.article.cover_image.image
+        }
+      }
+      return 'https://dev.animalsasobjects.org/seo.jpg'
+    }
   },
   created(){
     // make sure correct language
@@ -155,7 +163,8 @@ export default {
         { rel: 'icon', type: 'image/png', href: '/favis/'+ this.article.tao_type +'.png?'+this.article.id }
       ],
       meta:[
-        { hid: 'description', name: 'description', content: this.article.desc ? this.article.desc : ''},
+        { hid: 'description', name: 'description', content: this.article.author + ' | ' + this.article.desc },
+        { property:'og:image', 'content': this.seoImageUrl, hid: 'og:image'},
       ],
       title: 'Animals as Objects? ' + this.article.title + ' by ' + this.article.author
       
