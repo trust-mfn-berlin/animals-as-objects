@@ -146,6 +146,14 @@ export default {
       };
     }
   },
+  head() {
+    return {
+      htmlAttrs: {
+        lang: 'en'
+      },
+      title: 'Animals as Objects? ' + this.article.title + ' by ' + this.article.author
+    };
+  },
 };
 </script>
 
