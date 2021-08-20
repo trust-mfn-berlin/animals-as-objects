@@ -136,6 +136,9 @@ export default {
       htmlAttrs: {
         lang: 'de'
       },
+      link: [
+        { rel: 'icon', type: 'image/png', href: '/favis/'+ this.article.tao_type +'.png?r='+Math.random() }
+      ],
       title: 'Tiere als Objekte? ' + this.article.title_de + ' von ' + this.article.author
     };
   },
