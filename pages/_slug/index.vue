@@ -151,7 +151,11 @@ export default {
       htmlAttrs: {
         lang: 'en'
       },
+      link: [
+        { rel: 'icon', type: 'image/png', href: '/favis/'+ this.article.tao_type +'.png?r='+Math.random() }
+      ],
       title: 'Animals as Objects? ' + this.article.title + ' by ' + this.article.author
+      
     };
   },
 };
