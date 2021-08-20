@@ -58,6 +58,9 @@ export default {
       htmlAttrs: {
         lang: 'en'
       },
+      link:[
+        { rel: 'icon', type: 'image/png', href: '/favicon.png' }
+      ],
       title: 'Animals as Objects? Impressum'
     };
   },

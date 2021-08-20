@@ -131,6 +131,9 @@ export default {
       htmlAttrs: {
         lang: 'de'
       },
+      link:[
+        { rel: 'icon', type: 'image/png', href: '/favicon.png' }
+      ],
       title: 'Tiere als Objekte?'
     };
   },

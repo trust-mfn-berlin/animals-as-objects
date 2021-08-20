@@ -22,7 +22,7 @@ export default {
       { name: 'robots', content: 'noindex' } //Just Temporarily Don't Allow SEO
     ],
     link: [
-      { rel: 'icon', type: 'image/png', href: '/favicon.png' }
+      // { rel: 'icon', type: 'image/png', href: '/favicon.png' }
     ]
   },
 
