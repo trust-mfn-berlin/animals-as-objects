@@ -7,7 +7,7 @@ short_desc_de: Neue Regeln zu Nähe und Distanz
 date_end: 1961-12-31T11:00:00.000Z
 published: false
 title: Feeding Prohibited
-updated: 1629290856142
+updated: 1629746142631
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 translators:
   translator_de_en: Lucy Gasser
@@ -34,7 +34,7 @@ The death of the elephant cow "Jambo", who fell ill at the Berlin Zoo in 1960 du
 
 <figure>
 
-![Newspaper cutting. Title above: Feeding prohibited at zoo from today. Title below: "Illiterates" continue to feed, despite prohibition at zoo – elephant cow’s condition worsens. Photograph: Elephant from the front, with "don't feed me" written in white on forehead.](images/mv/feeding-prohibited-elephant.jpg)
+![Newspaper cutting. Title above: Feeding prohibited at zoo from today. Title below: "Illiterates" continue to feed, despite prohibition at zoo – elephant cow's condition worsens. Photograph: Elephant from the front, with "don't feed me" written in white on forehead.](images/mv/feeding-prohibited-elephant.jpg)
 
 <figcaption>
 
@@ -44,7 +44,7 @@ _Article in the_ Tagesspiegel _on the feeding ban at the Berlin Zoo, on the occa
 
 </figure>
 
-The elephant's death was not the first case of a zoo animal dying as a result of overfeeding – see also [[story.feeding-and-overfeeding]]. Visitors feeding zoo animals with foodstuffs they’ve brought with them into the zoo is part of a long history of incorrect and excessive feeding. **From the founding of zoological gardens in the 19th century, feeding by visitors was generally permitted.** The zoo guide booklets of the time invited visitors to feed the animals – but even then, the zoo imposed some restrictions. As early as 1873, the Berlin Zoo guide booklets advised visitors not to feed some animals, and in the Hamburg Zoological Garden, visitors were also "most humbly and urgently requested to feed only those animals whose names are displayed on the notice boards" as early as 1879.[^1] Just a few days after the opening of the Frankfurt Zoological Garden in 1858, reports came through: "After the zoological garden was opened on Sunday, most of the animals suffered from an upset stomach as a result of the excessive feeding by visitors". The feeding of various animals thus had to be prohibited altogether. Warnings on the cages regarding the feeding prohibition are also mentioned in the zoo guide of Schönbrunn Zoo in 1912. In most zoos, particularly sensitive animal species such as apes, predators and sea lions were not allowed to be fed at all.[^2]
+The elephant's death was not the first case of a zoo animal dying as a result of overfeeding – see also [[story.feeding-and-overfeeding]]. Visitors feeding zoo animals with foodstuffs they've brought with them into the zoo is part of a long history of incorrect and excessive feeding. **From the founding of zoological gardens in the 19th century, feeding by visitors was generally permitted.** The zoo guide booklets of the time invited visitors to feed the animals – but even then, the zoo imposed some restrictions. As early as 1873, the Berlin Zoo guide booklets advised visitors not to feed some animals, and in the Hamburg Zoological Garden, visitors were also "most humbly and urgently requested to feed only those animals whose names are displayed on the notice boards" as early as 1879.[^1] Just a few days after the opening of the Frankfurt Zoological Garden in 1858, reports came through: "After the zoological garden was opened on Sunday, most of the animals suffered from an upset stomach as a result of the excessive feeding by visitors". The feeding of various animals thus had to be prohibited altogether. Warnings on the cages regarding the feeding prohibition are also mentioned in the zoo guide of Schönbrunn Zoo in 1912. In most zoos, particularly sensitive animal species such as apes, predators and sea lions were not allowed to be fed at all.[^2]
 
 _What_ could be given to the animals was also indicated in zoo guides and on signs in the gardens from early on. **Elephants, like monkeys, were particularly popular with zoo visitors and Berliners could feed them bread, carrots, oranges, bananas and lemons.** In order to "steer the public's inclination to feed the animals into certain channels", red-marked mechanisms into which food could be placed were installed when the monkey house was extended in 1925. The monkeys "had to use some intelligence" to get at the food. At the same time, a feed shed was placed nearby, where "suitable food" could be purchased – an idea that, according to the zoo's annual report, was well received and simultaneously regulated feeding, at least to some extent.[^3]
 
@@ -78,7 +78,7 @@ _As early as 1954, visitors were no longer allowed to feed giraffes at the Berli
 
 </figure>
 
-The _General Guidelines for the Feeding of Animals by Visitors_ for the Berlin Zoo in 1960 still state:
+The _General Guidelines for the Feeding of Animals by Visitors_ for the Berlin Zoo in 1960 still stated:
 
 >"It is, however, absolutely necessary that at least these partial prohibitions, which only affect particularly sensitive animal species, or only prohibit the use of harmful types of feed, are strictly adhered to. Wrong or excessive feeding has already led to severe health problems, to problems with breeding, and often enough to an agonising end for many animals. We therefore urgently request that our visitors observe the following guidelines."[^7]
 
@@ -132,11 +132,11 @@ To ensure that the feeding ban was observed, handouts were distributed at the Fr
 
 **For zoo visitors, the prohibition in turn changed their relationship to the animals.** The Berlin Zoo had to issue countless warnings and reprimands because visitors continued to feed the animals despite the ban. The debate always revolved around emotions, because the issue of feeding, like hardly any other topic at the time, came to a head in the question of the "love of animals".
 
-For a long time, and especially in the post-war years, those who fed and expressed their concern for the animals were considered "Tierfreunde", or "animal lovers "[^12]. **With the prohibition on feeding, a different understanding of "animal friendship" entered the scene. This also changed, for example, the way [[material.Löwenbabys]] were handled, and at the same time manifested in a changed attitude towards one's own feeding behaviour.** 
+For a long time, and especially in the post-war years, those who fed and expressed their concern for the animals were considered "Tierfreunde", or "animal lovers"[^12]. **With the prohibition on feeding, a different understanding of "animal friendship" entered the scene. This also changed, for example, the way lion cubs were handled, and at the same time manifested in a changed attitude towards one's own feeding behaviour.**
 
 For many, the love of animals, and concern for them, were best expressed by restraint – in the subordination of one's own desire to feed them: "We also regret the sad end of Jambo and welcome the feeding ban. There is no other way to deal with Berliners and their exaggerated love of animals"[^13], as an anonymous supporter of the ban put it in a letter to the zoo. Whereas previously giving readily had been one of the central virtues of the "animal lover" at the zoo, now it was self-control – on which the health of the animals was dependent. **Feeding – especially excessive feeding – was now judged to be "false animal love."**[^14] This was part of a broader change, as noted by cultural studies scholar Christina Wessely, who writes that the "rather intrusive animal lover" was increasingly being replaced by a view in which humans were quite deliberately relegated to the background – a process that was only largely completed around the turn of the millennium.[^15]
 
-The Berlin Zoo also made use of the rhetoric of "animal friendship" to implement its feeding prohibition in the 1960s. It relied not only on disciplinary measures in the form of prohibition signs, but also on visitors’ moral conscience:
+The Berlin Zoo also made use of the rhetoric of "animal friendship" to implement its feeding prohibition in the 1960s. It relied not only on disciplinary measures in the form of prohibition signs, but also on visitors' moral conscience:
 
 >"The real animal lover stays in contact with their favourites even without a sugar cone, and is happy when the animals no longer just stand begging at the bars all day, but lead a healthy and carefree life in harmony with nature."[^16]
 
@@ -148,7 +148,7 @@ The zoo also invoked the "love of animals" when it called on its visitors with a
 
 <figure>
 
-![Page 8 from an old zoo guide. Text: Whom and what visitors may feed. (...) Please do not feed any spoiled food; it is absolutely harmful! Also, unripe fruit. Please do not feed any sugar or sweets; almost all animals like them, but if each visitor gives just a bit of sugar, it will amount to so much that the animals will become ill. We have suffered many a loss in this way. Prohibited from being fed: Large and small predators, apes, seals, penguins, birds of prey and owls, antelopes and giraffes, some deer species and ostriches. Framed at the very bottom is the aforementioned "special request".]
+![Page 8 from an old zoo guide. Text: Whom and what visitors may feed. (...) Please do not feed any spoiled food; it is absolutely harmful! Also, unripe fruit. Please do not feed any sugar or sweets; almost all animals like them, but if each visitor gives just a bit of sugar, it will amount to so much that the animals will become ill. We have suffered many a loss in this way. Prohibited from being fed: Large and small predators, apes, seals, penguins, birds of prey and owls, antelopes and giraffes, some deer species and ostriches. Framed at the very bottom is the aforementioned "special request".](images\mv\FuetterregelnWegweiser1956AusschnittJPG.jpg)
 
 <figcaption>
 
@@ -168,7 +168,7 @@ These and other incidents further fuelled the discussion about which were the ri
 
 Other suggestions were directed at altering the architecture, rather than disciplining people: "Wouldn't it be appropriate," wrote one visitor after the death of an elephant seal, "to put mesh screens all around and on top, or to surround the basins with glass and put wire mesh on top, so that it is impossible to stick even the smallest thing through! Feeding prohibitions are pointless; the animals must rather be shielded in such a way that deaths or illnesses no longer occur."[^20]
 
-**The [[Architektur der Gehege|story.Zoo Architecture]] did indeed play an important role in the relationship between visitors and animals**. In the early 1930s, following Hagenbeck's open-air enclosures, the fences of many pens had been replaced by trenches. In 1930, the Berlin Zoological Garden also boasted that it had "de-fenced" its enclosures.[^21] However, the distance thus created did not necessarily completely cut off contact – nor was it the intention that it should do so. Rather, the trench in the elephant enclosure in Berlin was kept so narrow "that the animals could take bread from the visitors’ hands with their trunks," as zoo director Lutz Heck described it.[^22] The hippopotamus pool also still allowed direct contact, and facilitated feeding by visitors, as a photograph from the illustrated magazine _Die Woche im Bild_ shows.
+**The [[Architektur der Gehege|story.Zoo Architecture]] did indeed play an important role in the relationship between visitors and animals**. In the early 1930s, following Hagenbeck's open-air enclosures, the fences of many pens had been replaced by trenches. In 1930, the Berlin Zoological Garden also boasted that it had "de-fenced" its enclosures.[^21] However, the distance thus created did not necessarily completely cut off contact – nor was it the intention that it should do so. Rather, the trench in the elephant enclosure in Berlin was kept so narrow "that the animals could take bread from the visitors' hands with their trunks," as zoo director Lutz Heck described it.[^22] The hippopotamus pool also still allowed direct contact, and facilitated feeding by visitors, as a photograph from the illustrated magazine _Die Woche im Bild_ shows.
 
 <figure>
 
@@ -206,11 +206,11 @@ The zoo itself at first also seemed torn between views. According to director He
 
 The issue had been discussed amongst zoo directors for some time. Yet in 1928, at the 40th Conference of Central European Zoological Gardens, "[e]very discussion on the separation of the monkeys from the public by glass walls" still led to "no unanimous response."[^27] **Animals and visitors were separated by the gradual conversion to enclosure architecture that prevented direct contact**. The change reduced contact with the animals to eye contact and put a definitive end to feeding by visitors.[^28] This proved beneficial to the health of many animals, as within a few years of introducing the general feeding prohibition, not least the need for medication and treatment decreased noticeably.[^29] Separating glass panels were used in the ape house as early as the early 1960s – a practice that is now widespread.[^30] At the same time, the workings of the feeding kitchen were made transparent: "Through large panes of glass, the public can see into the feeding kitchen and watch the keepers prepare [...]."[^31] In the mid-1970s, when the monkey house was renovated after the ape house, glass panes instead of iron bars were implemented to separate the animals from the public there too – simultaneously allowing a clearer view, and direct eye contact. The behaviour of many animals began to normalise; they no longer begged for food when a human approached. Zoo directors reported that fewer animals suffered, or died, from digestive disorders.[^32] "It is a pleasure to observe the animals in their natural way of life and playfulness after the introduction of the feeding prohibition"[^33], as one anonymous letter to the Berlin Zoo put it. There were many approving voices like this one, which, interestingly, due to the newly imposed distance identified the zoo as a place of the natural, and no longer regarded the begging of the animals as natural behaviour. This shows how notions of the "natural" are historically variable.
 
-[^1]: Hennings, Edwin. _Katalogirter Führer durch den Berliner Zoologischen Garten_, 6. Ed. Berlin: A. Seidel, 1873: 2. The Hamburg Zoo guide pointed to the notice boards explicitly. Cf. Bolau, Heinrich. _Führer durch den Zoologischen Garten zu Hamburg_, 29. Ed. Hamburg: Verlag der Zoologischen Gesellschaft Hamburg, 1879: n.p. Direct quotes have been translated into English for clarity’s sake.
+[^1]: Hennings, Edwin. _Katalogirter Führer durch den Berliner Zoologischen Garten_, 6. Ed. Berlin: A. Seidel, 1873: 2. The Hamburg Zoo guide pointed to the notice boards explicitly. Cf. Bolau, Heinrich. _Führer durch den Zoologischen Garten zu Hamburg_, 29. Ed. Hamburg: Verlag der Zoologischen Gesellschaft Hamburg, 1879: n.p. Direct quotes have been translated into English for clarity's sake.
 
-[^2]: Backhaus, D. "Die Eröffnung des Gartens im Jahre 1858". In _Hundertjähriger Zoo in Frankfurt am Main_, ed. by the Zoological Garden of the City of Frankfurt am Main. Frankfurt a.M.: 1957. Direct quotes have been translated into English for clarity’s sake.
+[^2]: Backhaus, D. "Die Eröffnung des Gartens im Jahre 1858". In _Hundertjähriger Zoo in Frankfurt am Main_, ed. by the Zoological Garden of the City of Frankfurt am Main. Frankfurt a.M.: 1957. Direct quotes have been translated into English for clarity's sake.
 
-[^3]: Zoological Garden Berlin. _Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin_ for the year 1925. Direct quotes have been translated into English for clarity’s sake.
+[^3]: Zoological Garden Berlin. _Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin_ for the year 1925. Direct quotes have been translated into English for clarity's sake.
 
 [^4]: At the beginning of 1956, a report in the _Leipziger Volkszeitung_ informed of the introduction of a general prohibition on feeding: "Most of the treats brought by the public for their favourites are unsuitable for the animals, in many cases even harmful. [...] Often, nausea and intestinal diseases set in and medical treatment has to cure the spoilt stomachs. Unfortunately, it does not always go 'well', and we have already lost valuable animals in this way. In the interest of keeping our wards healthy, improper feeding must therefore be avoided." Dittrich, Lothar. "Nicht mehr füttern!" _Leipziger Volkszeitung_, January 1956, cited in: Haikal, Mustafa, and Jörg Junhold. _Auf der Spur des Löwen: 125 Jahre Zoo Leipzig_. Leipzig: Pro Leipzig e.V., 2003: 181.
 
@@ -218,7 +218,7 @@ The issue had been discussed amongst zoo directors for some time. Yet in 1928, a
 
 [^6]: In the Berlin Zoo guide, giraffes first appear in the feeding guidelines in 1956, with the instruction that it is generally forbidden to feed them.
 
-[^7]: Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1960_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1960. Direct quotes have been translated into English for clarity’s sake.
+[^7]: Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1960_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1960. Direct quotes have been translated into English for clarity's sake.
 
 [^8]: Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1961_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1961.
 
@@ -230,35 +230,35 @@ The issue had been discussed amongst zoo directors for some time. Yet in 1928, a
 
 [^12]:  On the figure of the "Tierfreund", cf. Wessely, Christina. _Löwenbaby._ Berlin: Matthes & Seitz, 2019; Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 201-220.
 
-[^13]: Anonymous letter to the Management of the Zoological Garden Berlin, 11.04.1960, AZGB O 0/1/112. Direct quotes have been translated into English for clarity’s sake.
+[^13]: Anonymous letter to the Management of the Zoological Garden Berlin, 11.04.1960, AZGB O 0/1/112. Direct quotes have been translated into English for clarity's sake.
 
-[^14]: Cf. "Falsche Tierliebe". _Gießener Anzeiger_, 16.04.1960. Direct quotes have been translated into English for clarity’s sake.
+[^14]: Cf. "Falsche Tierliebe". _Gießener Anzeiger_, 16.04.1960. Direct quotes have been translated into English for clarity's sake.
 
-[^15]: Wessely, Christina. _Löwenbaby._ Berlin: Matthes & Seitz, 2019: 59. Direct quotes have been translated into English for clarity’s sake.
+[^15]: Wessely, Christina. _Löwenbaby._ Berlin: Matthes & Seitz, 2019: 59. Direct quotes have been translated into English for clarity's sake.
 
-[^16]: Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1961_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin 1961: 8. Direct quotes have been translated into English for clarity’s sake.
+[^16]: Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1961_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin 1961: 8. Direct quotes have been translated into English for clarity's sake.
 
-[^17]: Zoological Garden Berlin to M. Günther, 06.04.1959, AZGB Tierkorrespondenz 1.1.1959-30.9.1959 (unerschlossen). Direct quotes have been translated into English for clarity’s sake.
+[^17]: Zoological Garden Berlin to M. Günther, 06.04.1959, AZGB Tierkorrespondenz 1.1.1959-30.9.1959 (unerschlossen). Direct quotes have been translated into English for clarity's sake.
 
-[^18]: M. Hingst to the Zoological Garden Berlin, 12.07.1960, AZGB O 1/2/81. Direct quotes have been translated into English for clarity’s sake.
+[^18]: M. Hingst to the Zoological Garden Berlin, 12.07.1960, AZGB O 1/2/81. Direct quotes have been translated into English for clarity's sake.
 
-[^19]: Anonymous letter to the Management of the Zoological Garden Berlin, 08.08.1966, AZGB O 0/1/224. Direct quotes have been translated into English for clarity’s sake.
+[^19]: Anonymous letter to the Management of the Zoological Garden Berlin, 08.08.1966, AZGB O 0/1/224. Direct quotes have been translated into English for clarity's sake.
 
-[^20]: A. Irmler to Heinz-Georg Klös, 21.09.1959, AZGB O 1/2/80. Direct quotes have been translated into English for clarity’s sake.
+[^20]: A. Irmler to Heinz-Georg Klös, 21.09.1959, AZGB O 1/2/80. Direct quotes have been translated into English for clarity's sake.
 
-[^21]: Beatz, H. "Der Zoo wird entgittert". _Morgenpost Berlin_, 22.02.1930. The shift was an international phenomenon. In the London Zoo, for instance, the biologist Julian Huxley, who became zoo director in 1936, advocated the dismantling of fences. Direct quotes have been translated into English for clarity’s sake.
+[^21]: Beatz, H. "Der Zoo wird entgittert". _Morgenpost Berlin_, 22.02.1930. The shift was an international phenomenon. In the London Zoo, for instance, the biologist Julian Huxley, who became zoo director in 1936, advocated the dismantling of fences. Direct quotes have been translated into English for clarity's sake.
 
-[^22]: Heck, Lutz. _Führer durch den Zoologischen Garten zu Berlin 1931_, Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1931: 5. Direct quotes have been translated into English for clarity’s sake.
+[^22]: Heck, Lutz. _Führer durch den Zoologischen Garten zu Berlin 1931_, Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1931: 5. Direct quotes have been translated into English for clarity's sake.
 
 [^23]: Heck, Lutz. _Wegweiser durch den Zoologischen Garten Berlin_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1936.
 
 [^24]: Cf. Heinroth, Katharina. _Der Zoologische Garten Berlin. Zweiter Bericht und Wegweiser nach dem Kriege 1956._ Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1956: 8.
 
-[^25]: E. von Bongardt to the Management of the Zoological Garden Berlin, 01.10.1959, AZGB O 1/2/81. Direct quotes have been translated into English for clarity’s sake.
+[^25]: E. von Bongardt to the Management of the Zoological Garden Berlin, 01.10.1959, AZGB O 1/2/81. Direct quotes have been translated into English for clarity's sake.
 
-[^26]: H.-G. Klös to C. Hübner, 13.05.1959, AZGB O 1/2/80. Direct quotes have been translated into English for clarity’s sake.
+[^26]: H.-G. Klös to C. Hübner, 13.05.1959, AZGB O 1/2/80. Direct quotes have been translated into English for clarity's sake.
 
-[^27]: 40th Conference of Central European Zoological Gardens in Breslau from 23 to 25 August 1928, AZGB V 1/10. Direct quotes have been translated into English for clarity’s sake.
+[^27]: 40th Conference of Central European Zoological Gardens in Breslau from 23 to 25 August 1928, AZGB V 1/10. Direct quotes have been translated into English for clarity's sake.
 
 [^28]: Exceptions today are petting zoos. Formerly, this was done by "Tierkinderzoos", "animal children's zoos".
 
@@ -266,7 +266,7 @@ The issue had been discussed amongst zoo directors for some time. Yet in 1928, a
 
 [^30]: Cf. May, Christina. _Die Szenografie der Wildnis: immersive Techniken in zoologischen Gärten im 20. und 21. Jahrhundert_. Berlin: Neofelis Verlag, 2020.
 
-[^31]: Klös, Heinz-Georg, and Ursula Klös. _Der Berliner Zoo im Spiegel seiner Bauten, 1841-1989. Eine baugeschichtliche und denkmalpflegerische Dokumentation über den Zoologischen Garten Berlin_. Berlin: Heenemann, 1990: 237. Direct quotes have been translated into English for clarity’s sake.
+[^31]: Klös, Heinz-Georg, and Ursula Klös. _Der Berliner Zoo im Spiegel seiner Bauten, 1841-1989. Eine baugeschichtliche und denkmalpflegerische Dokumentation über den Zoologischen Garten Berlin_. Berlin: Heenemann, 1990: 237. Direct quotes have been translated into English for clarity's sake.
 
 [^32]: Conference of the Association of German Zoo Directors from 18 to 20 June 1959. Minutes of the business sessions, AZGB V 1/4.
 
@@ -278,7 +278,7 @@ Auf den Tod der Elefantenkuh "Jambo", die 1960 im Zoo Berlin wegen Überfütteru
 
 <figure>
 
-![Zeitungsschnitt. Titel oben: Füttern im Zoo von heute an verboten. Titel unten: "Analphabeten" füttern weiter, trotz des Verbotes im Zoo – Zustand der Elefantenkuh verschlimmert. Foto: Elefant von vorne, mit "mich nicht füttern" in weiß auf die Stirn geschrieben.]( images/mv/feeding-prohibited-elephant.jpg)
+![Zeitungsschnitt. Titel oben: Füttern im Zoo von heute an verboten. Titel unten: "Analphabeten" füttern weiter, trotz des Verbotes im Zoo – Zustand der Elefantenkuh verschlimmert. Foto: Elefant von vorne, mit "mich nicht füttern" in weiß auf die Stirn geschrieben.](images/mv/feeding-prohibited-elephant.jpg)
 
 <figcaption>
 
@@ -288,7 +288,7 @@ _Artikel im_ Tagesspiegel _zum Fütterungsverbot im Berliner Zoo anlässlich der
 
 </figure>
 
-Der Tod des Elefanten war nicht der erste Fall, bei dem Zootier an den Folgen von Überfütterung starb, siehe auch [[story.feeding-and-overfeeding]]. Zootiere mit mitgebrachten Lebensmitteln zu füttern, ist Teil einer langen Geschichte falscher oder übermäßiger Fütterung. **Seit ihren Anfängen im 19. Jahrhundert war das Füttern durch die Besucher\*innen in zoologischen Gärten grundsätzlich erlaubt.** Die damaligen Zooführer – kleine, gedruckte Informationshefte – luden die Besucher\*innen zum Füttern ein, allerdings schon damals mit Einschränkungen. Der Berliner Zooführer wies bereits 1873 darauf hin, manche Tiere nicht zu füttern und im Hamburger Zoologischen Garten wurden die Besucher\*innen ebenfalls schon 1879 "ergebenst und dringend ersucht, nur diejenigen Thiere zu füttern, deren Namen auf den Anschlagtafeln bekannt gemacht sind".[^1] Über den Zoologischen Garten Frankfurt hieß es nur wenige Tage nach der Eröffnung 1858: "Nachdem am Sonntage der zoologische Garten eröffnet worden, haben in Folge der von den Besuchern übermäßig gereichten Fütterung die meisten Thiere an verdorbenem Magen gelitten." So musste das Füttern verschiedener Tiere ganz untersagt werden. Mahnungen an den Käfigen bezüglich des Fütterungsverbots sind auch im Zooführer des Tiergartens Schönbrunn 1912 erwähnt. Besonders empfindliche Tierarten wie Menschenaffen, Raubtiere und Seelöwen durften in den meisten Zoos überhaupt nicht gefüttert werden.[^2] 
+Der Tod des Elefanten war nicht der erste Fall, bei dem Zootier an den Folgen von Überfütterung starb, siehe auch [[story.feeding-and-overfeeding]]. Zootiere mit mitgebrachten Lebensmitteln zu füttern, ist Teil einer langen Geschichte falscher oder übermäßiger Fütterung. **Seit ihren Anfängen im 19. Jahrhundert war das Füttern durch die Besucher\*innen in zoologischen Gärten grundsätzlich erlaubt.** Die damaligen Zooführer – kleine, gedruckte Informationshefte – luden die Besucher\*innen zum Füttern ein, allerdings schon damals mit Einschränkungen. Der Berliner Zooführer wies bereits 1873 darauf hin, manche Tiere nicht zu füttern und im Hamburger Zoologischen Garten wurden die Besucher\*innen ebenfalls schon 1879 "ergebenst und dringend ersucht, nur diejenigen Thiere zu füttern, deren Namen auf den Anschlagtafeln bekannt gemacht sind".[^1] Über den Zoologischen Garten Frankfurt hieß es nur wenige Tage nach der Eröffnung 1858: "Nachdem am Sonntage der zoologische Garten eröffnet worden, haben in Folge der von den Besuchern übermäßig gereichten Fütterung die meisten Thiere an verdorbenem Magen gelitten." So musste das Füttern verschiedener Tiere ganz untersagt werden. Mahnungen an den Käfigen bezüglich des Fütterungsverbots sind auch im Zooführer des Tiergartens Schönbrunn 1912 erwähnt. Besonders empfindliche Tierarten wie Menschenaffen, Raubtiere und Seelöwen durften in den meisten Zoos überhaupt nicht gefüttert werden.[^2]
 
 Darüber, _was_ den Tieren angeboten werden durfte, wiesen die Zoowegweiser und im Garten aufgestellte Schilder ebenfalls schon früh hin. **Elefanten, ebenso wie die Affen bei den Zoogästen besonders beliebt, konnten die Berliner\*innen mit Brot, Möhren, Apfelsinen, Bananen und Zitronen füttern.** Um die "Neigung des Publikums, die Tiere zu füttern, [...] in bestimmte Bahnen [zu lenken]", wurden bei der Erweiterung des Affenhauses 1925 rot gekennzeichnete Vorrichtungen angebracht, wo das Futter hineingelegt werden konnte und die Affen "etwas Intelligenz anwenden müssen", um es zu ergreifen. Gleichzeitig war in der Nähe ein Futterhäuschen aufgestellt, wo man "geeignetes Futter" kaufen konnte – eine Idee, die laut Geschäftsbericht des Zoos gut ankam und das Füttern zumindest in gewissem Maße regulierte.[^3]
 
@@ -306,13 +306,13 @@ _Verbotsschilder in zoologischen Gärten, abgedruckt im_ 8-Uhr-Blatt, _13.04.196
 
 </figure>
 
-Die Einführung eines generellen Fütterungsverbots war jedoch nicht unumstritten, wie Pressemeldungen und Zuschriften an die Zoos belegen. **Da viele Zoobesucher\*innen seit Jahren daran gewöhnt waren und die Tiere ihrerseits Futter erwarteten, stießen die Forderungen der Zoos vielerorts, von Frankfurt über Leipzig bis Berlin, zunächst auf Widerstand.**[^5] Das Beispiel Berlin zeigt, wie langwierig und schwierig die Durchsetzung eines solchen Verbots war. 
+Die Einführung eines generellen Fütterungsverbots war jedoch nicht unumstritten, wie Pressemeldungen und Zuschriften an die Zoos belegen. **Da viele Zoobesucher\*innen seit Jahren daran gewöhnt waren und die Tiere ihrerseits Futter erwarteten, stießen die Forderungen der Zoos vielerorts, von Frankfurt über Leipzig bis Berlin, zunächst auf Widerstand.**[^5] Das Beispiel Berlin zeigt, wie langwierig und schwierig die Durchsetzung eines solchen Verbots war.
 
-Zunächst hoffte der Zoo, mit Teilverboten auszukommen. 
+Zunächst hoffte der Zoo, mit Teilverboten auszukommen.
 
 <figure>
 
-![Giraffenanlage mit Schild "Bitte nicht füttern" und Metallbarriere. Eine Giraffe neigt den Kopf über das Gitter des Geheges zu den Besucher\*innen](images/mv/Giraffe_Fuetterverbot_1954_OttmarKraenzlein.jpg) 
+![Giraffenanlage mit Schild "Bitte nicht füttern" und Metallbarriere. Eine Giraffe neigt den Kopf über das Gitter des Geheges zu den Besucher\*innen](images/mv/Giraffe_Fuetterverbot_1954_OttmarKraenzlein.jpg)
 
 <figcaption>
 
@@ -376,7 +376,7 @@ Damit das Fütterungsverbot eingehalten wurde, verteilte man im Frankfurter und 
 
 **Für die Zoogäste veränderte sich mit dem Verbot wiederum die Beziehung zum Tier.** Der Berliner Zoo musste unzählige Mahnungen und Verweise aussprechen, da Besucher\*innen die Tiere trotz des Verbots weiter fütterten. Die Debatte drehte sich immer wieder um Emotionen, denn in der Fütterungsfrage kulminierte damals wie bei kaum einem anderen Thema die Frage nach der "Tierliebe".
 
-Lange Zeit und insbesondere in den Nachkriegsjahren galt als "Tierfreund"[^12] vor allem, wer fütterte und darin seine Sorge um die Tiere bekundete. **Mit den Fütterungsverboten tritt ein anderes Verständnis der "Tierfreundschaft  " auf den Plan, das beispielsweise auch den Umgang mit [[material.Löwenbabys]] veränderte und sich zugleich in einer gewandelten Einstellung zum eigenen Fütterungsverhalten äußert.** 
+Lange Zeit und insbesondere in den Nachkriegsjahren galt als "Tierfreund"[^12] vor allem, wer fütterte und darin seine Sorge um die Tiere bekundete. **Mit den Fütterungsverboten tritt ein anderes Verständnis der "Tierfreundschaft" auf den Plan, das beispielsweise auch den Umgang mit Löwenbabys veränderte und sich zugleich in einer gewandelten Einstellung zum eigenen Fütterungsverhalten äußert.**
 
 Für viele drückte sich nun die Liebe zum Tier und die Sorge um dieses gerade in Zurückhaltung aus, in der Zurückstellung des eigenen Fütterungswunsches: "Auch wir bedauern das traurige Ende von Jambo und begrüßen das Fütterungsverbot. Anders ist ja den Berlinern mit ihrer übertriebenen Tierliebe nicht beizukommen"[^13], hieß es in einer anonymen Zuschrift an den Zoo. Gehörte zuvor das bereitwillige Geben zu den zentralen Tugenden des "Tierfreunds" im Zoo, war es nun die Selbstbeherrschung, von der die Gesundheit der Tiere abhängig gemacht wurde. **Das Füttern – zumal das übermäßige – wurde nun als "falsche Tierliebe" bewertet.**[^14] Das war Teil eines umfassenderen Wandels, den die Kulturwissenschaftlerin Christina Wessely so erklärt, dass der  zuweilen recht aufdringliche "Tierfreund" sich zunehmend eine Auffassung aneignet, bei der der Mensch ganz bewusst in den Hintergrund rückt – ein Prozess, der erst um die Jahrtausendwende weitestgehend vollzogen ist.[^15]  
 
@@ -391,7 +391,7 @@ Auf die "Tierliebe" berief sich der Zoo zudem, wenn er seine Besucher\*innen mit
 
 <figure>
 
-![Seite 8 aus einem alten Zooführer. Text: Wen und womit dürfen die Besucher füttern. (...) Bitte keine verdorbenen Nahrungsmittel füttern, sie sind unbedingt schädlich! Ebenso unreifes Obst. Bitte keinen Zucker und keine Süßigkeiten füttern; fast alle Tiere nehmen sie zwar gern, aber wenn jeder Besucher nur ein Stückchen Zucker gibt, kommt bei großer Besucherzahl so viel zusammen, daß die Tiere krank werden. Schon mancher Verlust wurde uns auf diese Weise zugefügt. Nicht gefüttert werden dürfen: Große und kleine Raubtiere, Menschenaffen, Robben, Pinguine, Raubvögel und Eulen, Antilopen und Giraffen, manche Hirscharten und Strauße. Ganz unten steht mit Einrahmung die erwähnte "besondere Bitte".]
+![Seite 8 aus einem alten Zooführer. Text: Wen und womit dürfen die Besucher füttern. (...) Bitte keine verdorbenen Nahrungsmittel füttern, sie sind unbedingt schädlich! Ebenso unreifes Obst. Bitte keinen Zucker und keine Süßigkeiten füttern; fast alle Tiere nehmen sie zwar gern, aber wenn jeder Besucher nur ein Stückchen Zucker gibt, kommt bei großer Besucherzahl so viel zusammen, daß die Tiere krank werden. Schon mancher Verlust wurde uns auf diese Weise zugefügt. Nicht gefüttert werden dürfen: Große und kleine Raubtiere, Menschenaffen, Robben, Pinguine, Raubvögel und Eulen, Antilopen und Giraffen, manche Hirscharten und Strauße. Ganz unten steht mit Einrahmung die erwähnte "besondere Bitte".](images\mv\FuetterregelnWegweiser1956AusschnittJPG.jpg)
 
 <figcaption>
 
@@ -401,23 +401,23 @@ _Dieser Appell im Zooführer 1956 war jedoch noch kein generelles Fütterungsver
 
 </figure>
 
-Das nahmen viele Menschen beim Wort und so erhielt der Zoo in den ersten Monaten nach Einführung des Verbots zahlreiche Zuschriften wie diese: 
+Das nahmen viele Menschen beim Wort und so erhielt der Zoo in den ersten Monaten nach Einführung des Verbots zahlreiche Zuschriften wie diese:
 
->"…die Liebe zu den Tieren veranlaßt mich, Ihnen zu klagen, was ich bei meinem Zoobesuch am vergangenen Sonnabend erlebt habe. Ein etwa sechsjähriger Junge gab einem Elefanten Poppcornflocken [sic]. Meinen Hinweis auf das Fütterungsverbot verstanden er und sein Vater nicht, ich hörte, dass sie englisch sprachen. Aber ich meine, dass auch ein Ausländer wissen sollte, dass man die Tiere nicht füttern soll. […] Ich will diese Dinge zur Kenntnis bringen in der Hoffnung, dass Sie sich vielleicht doch veranlasst sehen, von derartigen unvernünftigen Menschen eine Geldstrafe zu erheben. Ich stehe keineswegs allein mit meiner Ueberzeugung, dass nur eine solche, nicht aber einfaches Bitten und Verbieten, für die Dauer Erfolg hat, zum Wohl unserer geliebten Tiere."[^18]
+>"…die Liebe zu den Tieren veranlaßt mich, Ihnen zu klagen, was ich bei meinem Zoobesuch am vergangenen Sonnabend erlebt habe. Ein etwa sechsjähriger Junge gab einem Elefanten Poppcornflocken \[sic]. Meinen Hinweis auf das Fütterungsverbot verstanden er und sein Vater nicht, ich hörte, dass sie englisch sprachen. Aber ich meine, dass auch ein Ausländer wissen sollte, dass man die Tiere nicht füttern soll. \[…] Ich will diese Dinge zur Kenntnis bringen in der Hoffnung, dass Sie sich vielleicht doch veranlasst sehen, von derartigen unvernünftigen Menschen eine Geldstrafe zu erheben. Ich stehe keineswegs allein mit meiner Ueberzeugung, dass nur eine solche, nicht aber einfaches Bitten und Verbieten, für die Dauer Erfolg hat, zum Wohl unserer geliebten Tiere."[^18]
 
-Eine weitere anonyme Schreiberin berichtete von drei Damen, die sie beim Elefantengehege beobachtet hatte. "Eine davon fütterte in einem fort, und als ich wütend sagte, sie soll das unterlassen, denn es steht doch überall angeschrieben, wird sie noch frech, – ich habe ja meinen Bauch voll, aber die Tiere hätten Hunger, und ich sollte mal machen, das [sic] ich weiterkomme. Dabei warf sie wieder 1 ganzen gerösteten Zwieback hin." Die Schreiberin schloss ihren Brief mit den Worten: "Wenn Sie es für gut befinden, das die Frau füttern darf, dann will ich den Zoo nie wieder besuchen. […] Eine tierliebe Zoobesucherin".[^19]
+Eine weitere anonyme Schreiberin berichtete von drei Damen, die sie beim Elefantengehege beobachtet hatte. "Eine davon fütterte in einem fort, und als ich wütend sagte, sie soll das unterlassen, denn es steht doch überall angeschrieben, wird sie noch frech, – ich habe ja meinen Bauch voll, aber die Tiere hätten Hunger, und ich sollte mal machen, das [sic] ich weiterkomme. Dabei warf sie wieder 1 ganzen gerösteten Zwieback hin." Die Schreiberin schloss ihren Brief mit den Worten: "Wenn Sie es für gut befinden, das die Frau füttern darf, dann will ich den Zoo nie wieder besuchen. \[…] Eine tierliebe Zoobesucherin".[^19]
 
 Diese und andere Vorfälle heizten die Diskussion um die richtigen Maßnahmen zur Umsetzung des Fütterungsverbots weiter an. **Die Vorschläge aus der Bevölkerung reichten von der Einführung von Wachpersonal über Geldstrafen bis zum Zooverweis.**
 
 Andere Vorschläge richteten sich statt auf die Disziplinierung der Menschen auf die Wandlung der Architektur: "Wäre es nicht angebracht", schrieb eine Besucherin nach dem Tod eines See-Elefanten, "ringsherum u. oben Maschengitter anzubringen, oder die Basins mit Scheiben zu umgeben u. oben mit Drahtgitter zu versehen, sodaß es unmöglich ist, auch nur das Geringste durchzustecken! Fütterungsverbot zwecklos, man muss die Tiere stattdessen so abschirmen, daß Todes oder Krankheitsfälle nicht mehr vorkommen."[^20]
 
-**In der Tat spielte die [[Architektur der Gehege|story.Zoo Architecture]] eine wichtige Rolle für das Verhältnis zwischen Besucher\*innen und Tieren.** In den frühen 1930er Jahren waren im Gefolge der Hagenbeckschen Freigehege die Gitterstäbe vieler Ausläufe durch Gräben ersetzt worden. 1930 rühmte sich auch der Zoologische Garten Berlin, seine Anlagen zu "entgittern".[^21] Der so geschaffene Abstand schuf aber noch nicht unbedingt Kontaktlosigkeit – und das war auch nicht intendiert. Vielmehr war der Graben in der Elefantenanlage in Berlin so schmal gehalten, "daß die Tiere mit dem Rüssel dem Besucher Brot aus der Hand abnehmen können," wie es Zoodirektor Lutz Heck beschrieb.[^22] Auch das Nilpferdbecken erlaubte noch eine direkte Tuchfühlung und erleichterte das Füttern durch die Besucher\*innen, wie eine Fotografie aus der illustrierten Zeitschrift _Die Woche im Bild_ zeigt.
+**In der Tat spielte die Architektur der Gehege eine wichtige Rolle für das Verhältnis zwischen Besucher\*innen und Tieren.** In den frühen 1930er Jahren waren im Gefolge der Hagenbeckschen Freigehege die Gitterstäbe vieler Ausläufe durch Gräben ersetzt worden. 1930 rühmte sich auch der Zoologische Garten Berlin, seine Anlagen zu "entgittern".[^21] Der so geschaffene Abstand schuf aber noch nicht unbedingt Kontaktlosigkeit – und das war auch nicht intendiert. Vielmehr war der Graben in der Elefantenanlage in Berlin so schmal gehalten, "daß die Tiere mit dem Rüssel dem Besucher Brot aus der Hand abnehmen können," wie es Zoodirektor Lutz Heck beschrieb.[^22] Auch das Nilpferdbecken erlaubte noch eine direkte Tuchfühlung und erleichterte das Füttern durch die Besucher\*innen, wie eine Fotografie aus der illustrierten Zeitschrift _Die Woche im Bild_ zeigt.
 
 <figure>
 
-<figcaption>
+![Schwarz-weiß Foto: Eine Schar Kinder steht am Rande des Nilpferdbeckens und blickt auf das Tier, dem ein Junge in der vorderen Reihe etwas ins aufgerissene Maul wirft.](images/mv/woche-im-bild-feeding-hippos.jpg)
 
-![Schwarz-weiß Foto: Eine Schar Kinder steht am Rande des Nilpferdbeckens und blickt auf das Tier, dem ein Junge in der vorderen Reihe etwas ins aufgerissene Maul wirft.]( images/mv/woche-im-bild-feeding-hippos.jpg)
+<figcaption>
 
 _Das Titelbild der_ Woche im Bild _vom Nildpferdbecken zeigt, dass Füttern lange zu den Attraktionen zoologischer Gärten gehörte, unterstützt durch eine Architektur, die Nähe schafft, 07.08.1930._
 
@@ -441,12 +441,13 @@ _Nach "Jambos" Erkrankung mussten Besucher\*innen ihre mitgebrachten Lebensmitte
 
 Bei der Planung des neuen Affenhauses kamen in den frühen 1960er Jahren sogar Glasscheiben zum Einsatz. Mit Ausnahme der Menschenaffen konnten die Affen bis dahin mit Brot, Südfrüchten, verschiedenen Gemüsesorten, Nüssen, Haferflocken und Linsen gefüttert werden.[^23] Zwischenzeitlich war sogar Popcorn erlaubt – just in dem Jahr, als ein Popcornstand im zoologischen Garten eröffnete.[^24]
 
-Mit dem allgemeinen Fütterungsverbot von 1960 änderten sich auch die Richtlinien für die Affen und später die Architektur der Anlage – aus Hygiene- und Sicherheitsgründen. Damit veränderte sich das Verhältnis von Nähe und Distanz. Das befürworteten manche Besucher\*innen in ihren Zuschriften, doch gab es ebenso die gegenteilige Meinung. Zoobesucherin Erna von Bongart etwa schrieb, ihrem Empfinden nach sollte man die Affen, 
->"die seit langen Jahren mit langjährigen Abonnenten in engem Kontakt stehen, wie z.B. der kl. Bubi, nicht so völlig absperren. […] ich finde es doch nicht richtig bei den Tieren, die an menschlichen Kontakt all die Jahre gewöhnt, diese strikten Absperrungsmassnahmen vorzunehmen. Auch darf man nicht vergessen, wieviel einsame Menschen es gibt, man nimmt auch ihnen einen Teil ihres Lebensinhalts, ihrer Freuden."[^25]
+Mit dem allgemeinen Fütterungsverbot von 1960 änderten sich auch die Richtlinien für die Affen und später die Architektur der Anlage – aus Hygiene- und Sicherheitsgründen. Damit veränderte sich das Verhältnis von Nähe und Distanz. Das befürworteten manche Besucher\*innen in ihren Zuschriften, doch gab es ebenso die gegenteilige Meinung. Zoobesucherin Erna von Bongart etwa schrieb, ihrem Empfinden nach sollten Affen nicht isoliert werden:
+
+>"[Man sollte die Affen,] die seit langen Jahren mit langjährigen Abonnenten in engem Kontakt stehen, wie z.B. der kl. Bubi, nicht so völlig absperren. […] ich finde es doch nicht richtig bei den Tieren, die an menschlichen Kontakt all die Jahre gewöhnt, diese strikten Absperrungsmassnahmen vorzunehmen. Auch darf man nicht vergessen, wieviel einsame Menschen es gibt, man nimmt auch ihnen einen Teil ihres Lebensinhalts, ihrer Freuden."[^25]
 
 Im Zoo selbst schienen Direktion und Mitarbeiter\*innen zunächst ebenfalls hin- und hergerissen. Ein öffentlicher Zoo sei Direktor Heinz-Georg Klös zufolge "für die Tiere und die Menschen da", weshalb man zu Kompromissen gezwungen sei. "Sind die Tiere z.B. allzusehr hinter Glas, Gitter und Absperrungen 'verbarrikadiert', fehlt dem Besucher – vom Füttern jetzt ganz abgesehen – das unmittelbare Erlebnis, der Kontakt." Gleichzeitig schrieb Klös in seiner Antwort auf den Brief einer Zoobesucherin: "[W]ir werden nach und nach unsere wertvollsten Tiere hinter Glas halten. Dann kann unerlaubtes Füttern nicht mehr vorkommen noch den Tieren von Besuchern irgendwelche Seuchen übertragen werden."[^26] Wird die Verantwortung den Menschen übertragen oder an Dinge delegiert, die Grenzen zu ziehen, Kontakte zu beschränken und Nähe zu verhindern?
 
-Unter Zoodirektor\*innen wurde über das Thema schon länger beratschlagt. 1928 führte "[e]ine Diskussion über die Absperrung der Affen vom Publikum durch Glaswände" auf der 40. Konferenz mitteleuropäischer Zoologischer Gärten indes noch zu "keinem einheitlichen Ergebnis."[^27] **Mit der sukzessiven Umstellung der Gehege-Architekturen, die eine unmittelbare Berührung unterbanden, wurden Tiere und Besucher\*innen getrennt**. Die Umstellung reduzierte den Kontakt mit den Tieren auf den Blick und setzte dem Füttern durch die Besucher\*innen endgültig ein Ende[^28], was sich für viele Tiere als gesundheitsfördernd erwies, denn bereits wenige Jahre nach Einführung des generellen Fütterungsverbots sank der Medikamenten- und Behandlungsbedarf spürbar.[^29] Im Menschenaffenhaus kamen schon in den frühen 1960er Jahren trennende Glasscheiben zum Einsatz – eine Praxis, die heute weit verbreitet ist.[^30] Gleichzeitig wurde die Futterküche offengelegt: "Durch große Scheiben kann das Publikum in die Futterküche hineinsehen und die Tierpfleger bei der Zubereitung [...] beobachten."[^31] Mitte der 1970er Jahre, als nach dem Menschenaffenhaus das Affenhaus renoviert wurde, trennten auch dort Glasscheiben statt Eisengitter die Tiere vom Publikum, die zugleich eine freiere Sicht und unmittelbaren Blickkontakt ermöglichten. Das Verhalten vieler Tiere begann sich zu normalisieren; sie bettelten nicht mehr nach Futter, wenn sich ein Mensch näherte. Die Zoodirektor\*innen berichteten davon, dass weniger Tiere an Verdauungsstörungen litten oder sogar daran eingingen.[^32] "Es ist eine Freude, die Tiere nach Einführung des Fütterungsverbotes in ihrer natürlichen Lebensweise und Verspieltheit zu beobachten"[^33], hieß es in einer anonymen Zuschrift an den Berliner Zoo. Wie diese gab es viele positive Stimmen, die interessanterweise durch die neue Distanz den Zoo wieder als Ort des Natürlichen auswiesen und das Betteln der Tiere eben nicht mehr als natürliches Verhalten ansahen. Hier zeigt sich, wie sich Vorstellungen des "Natürlichen" historisch wandeln können.
+Unter Zoodirektor\*innen wurde über das Thema schon länger beratschlagt. 1928 führte "[e]ine Diskussion über die Absperrung der Affen vom Publikum durch Glaswände" auf der 40. Konferenz mitteleuropäischer Zoologischer Gärten indes noch zu "keinem einheitlichen Ergebnis."[^27] **Mit der sukzessiven Umstellung der Gehege-Architekturen, die eine unmittelbare Berührung unterbanden, wurden Tiere und Besucher\*innen getrennt**. Die Umstellung reduzierte den Kontakt mit den Tieren auf den Blick und setzte dem Füttern durch die Besucher\*innen endgültig ein Ende[^28], was sich für viele Tiere als gesundheitsfördernd erwies, denn bereits wenige Jahre nach Einführung des generellen Fütterungsverbots sank der Medikamenten- und Behandlungsbedarf spürbar.[^29] Im Menschenaffenhaus kamen schon in den frühen 1960er Jahren trennende Glasscheiben zum Einsatz – eine Praxis, die heute weit verbreitet ist.[^30] Gleichzeitig wurde die Futterküche offengelegt: "Durch große Scheiben kann das Publikum in die Futterküche hineinsehen und die Tierpfleger bei der Zubereitung \[...] beobachten."[^31] Mitte der 1970er Jahre, als nach dem Menschenaffenhaus das Affenhaus renoviert wurde, trennten auch dort Glasscheiben statt Eisengitter die Tiere vom Publikum, die zugleich eine freiere Sicht und unmittelbaren Blickkontakt ermöglichten. Das Verhalten vieler Tiere begann sich zu normalisieren; sie bettelten nicht mehr nach Futter, wenn sich ein Mensch näherte. Die Zoodirektor\*innen berichteten davon, dass weniger Tiere an Verdauungsstörungen litten oder sogar daran eingingen.[^32] "Es ist eine Freude, die Tiere nach Einführung des Fütterungsverbotes in ihrer natürlichen Lebensweise und Verspieltheit zu beobachten"[^33], hieß es in einer anonymen Zuschrift an den Berliner Zoo. Wie diese gab es viele positive Stimmen, die interessanterweise durch die neue Distanz den Zoo wieder als Ort des Natürlichen auswiesen und das Betteln der Tiere eben nicht mehr als natürliches Verhalten ansahen. Hier zeigt sich, wie sich Vorstellungen des "Natürlichen" historisch wandeln können.
 
 [^1]: Hennings, Edwin. _Katalogirter Führer durch den Berliner Zoologischen Garten_, 6. Aufl. Berlin: A. Seidel, 1873: 2. Der Hamburger Zooführer wies auf die Tafeln explizit hin. Vgl. Bolau, Heinrich. _Führer durch den Zoologischen Garten zu Hamburg_, 29. Aufl. Hamburg: Verlag der Zoologischen Gesellschaft Hamburg, 1879: o.S.
 
