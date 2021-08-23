@@ -7,7 +7,7 @@ short_desc_de: Futterlisten im Zoo der Nachkriegszeit
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Feeding List 1945
-updated: 1629288351018
+updated: 1629743058652
 id: R4t_2F3NY3xIuAnRoDG0T
 translators:
   translator_de_en: Lucy Gasser
@@ -31,7 +31,7 @@ date_start: 1944-12-31T23:00:00.000Z
 
 <figcaption>
 
-_ List of feed requirements for the large animals of the Berlin Zoo from 18.09.1945. (AZGB. All rights reserved.)_
+_List of feed requirements for the large animals of the Berlin Zoo from 18.09.1945. (AZGB. All rights reserved.)_
 
 </figcaption>
 
@@ -80,14 +80,14 @@ At the beginning of the 1950s, when not only the animal trade took off again, bu
 ![Maschinenabschrift mit Überschriften: Tierbestand; Futtermittel des Zoos für einen Monat.](/images/mv/feed-requirements-futtermittelbedarf.jpg)
 
 <figcaption>
- 
+
 _Auflistung des Futtermittelbedarfs für die Großtiere des Berliner Zoos vom 18.09.1945. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
 </figure>
 
-Listen, die den jeweiligen Bedarf an Futtermitteln von Zootieren abbilden, gehören nicht nur zur Praxis und Routine in zoologischen Gärten. Sie geben auch Einblicke in die Geschichte eines Zoos – wie hier in die Tierbestände und die Ernährungslage des Berliner Zoos in den Nachkriegsjahren. Um die Futtermittelversorgung nach dem Ende des Zweiten Weltkriegs zu sichern und neu zu regeln, musste zuerst einmal der Bedarf festgestellt werden. **Jeden Monat reichte die damalige Zoodirektorin [[material.katharina-heinroth]]   daher beim Haupternährungsamt, das für die Futtermittelbeschaffung zuständig war, eine Auflistung des Futtermittelbedarfs für ihre Tiere ein.** Diese Listen waren für die Zootiere existentiell, da Katharina Heinroth und ihre Mitarbeiter\*innen die Tiere allein nicht ernähren konnten. Sie verweisen damit auf die administrativen Verbindungen zu den Berliner Behörden und verraten zugleich etwas über die Entwicklung des Tierbestands im Garten.   Nach Ende des Krieges zählte der Zoo nur noch rund 80 Tiere. Durch den Tausch von Tieren und zahlreiche Tiergeschenke aus der Berliner Bevölkerung und von einem Zirkus stieg diese Zahl im Herbst 1945 aber bereits wieder auf 240. Nachdem die Alliierte Kommandantur dem Zoo aber im November 1945 wegen der schlechten Ernährungslage der Stadt ein Anschaffungsverbot für Großtiere auferlegt hatte, blieb der Futtermittelbedarf in den folgenden Jahren relativ stabil.
+Listen, die den jeweiligen Bedarf an Futtermitteln von Zootieren abbilden, gehören nicht nur zur Praxis und Routine in zoologischen Gärten. Sie geben auch Einblicke in die Geschichte eines Zoos – wie hier in die Tierbestände und die Ernährungslage des Berliner Zoos in den Nachkriegsjahren. Um die Futtermittelversorgung nach dem Ende des Zweiten Weltkriegs zu sichern und neu zu regeln, musste zuerst einmal der Bedarf festgestellt werden. **Jeden Monat reichte die damalige Zoodirektorin [[material.katharina-heinroth]] daher beim Haupternährungsamt, das für die Futtermittelbeschaffung zuständig war, eine Auflistung des Futtermittelbedarfs für ihre Tiere ein.** Diese Listen waren für die Zootiere existentiell, da Katharina Heinroth und ihre Mitarbeiter\*innen die Tiere allein nicht ernähren konnten. Sie verweisen damit auf die administrativen Verbindungen zu den Berliner Behörden und verraten zugleich etwas über die Entwicklung des Tierbestands im Garten. Nach Ende des Krieges zählte der Zoo nur noch rund 80 Tiere. Durch den Tausch von Tieren und zahlreiche Tiergeschenke aus der Berliner Bevölkerung und von einem Zirkus stieg diese Zahl im Herbst 1945 aber bereits wieder auf 240. Nachdem die Alliierte Kommandantur dem Zoo aber im November 1945 wegen der schlechten Ernährungslage der Stadt ein Anschaffungsverbot für Großtiere auferlegt hatte, blieb der Futtermittelbedarf in den folgenden Jahren relativ stabil.
 
 Die Futterfrage verschärfte sich erneut während der Berlin-Blockade von Juni 1948 bis Mai 1949, als es zu großen Engpässen in der Lebensmittel- und Futterbeschaffung kam. Der aufgelistete Bedarf konnte nicht mehr gedeckt werden. **Obwohl der zuständige Ernährungssenator dem Zoo unbrauchbar gewordene Nahrungsmittel zu Futterzwecken zuwies, hatten Heinroth und ihre Mitarbeiter\*innen weder ausreichend Futtermittel, noch konnten sie Heu, Futterrüben und Möhren von den Pachtflächen des Zoos im Umland einfahren, die nun im russischen Sektor lagen.** Hafer, Kleie und Sämereien mussten daher während der Blockade eingeflogen werden. Ein Forstdirektor wiederum verpachtete dem Zoo zwölf Hektar Land im Grunewald, auf dem die Zoomitarbeiter\*innen, nachdem sie die zerschossenen Baumstubben gerodet hatten, Grünfutter anbauen konnten.[^1]
 

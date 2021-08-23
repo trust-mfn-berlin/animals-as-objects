@@ -7,7 +7,7 @@ short_desc_de: 1945 – Krise in Zoo und Stadt
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1629289074805
+updated: 1629742878319
 id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: Lucy Gasser
@@ -60,31 +60,31 @@ _Elephant carcass at Berlin Zoo after a bombing raid in 1943. (AZGB. All rights 
 
 </figure>
 
-**One of the few surviving animals was the Asian elephant bull "Siam".** Brought to Germany from the British colony of Ceylon, now Sri Lanka, as a so-called [[wild catch|story.catching animals]], he had actually been intended for the Krone circus. However, when "Siam" showed behavioural problems there, the circus sought a way rid itself of the [["bad" animal|material.böse Tiere]], and gave "Siam" to the Berlin Zoo in 1933. He was the only one of nine elephants at the Berlin Zoo to survive the war. Seven had been killed in the bombing raids of November 1943 – see [[material.list dead animals]].
+**One of the few surviving animals was the Asian elephant bull "Siam".** Brought to Germany from the British colony of Ceylon, now Sri Lanka, as a so-called [[wild catch|story.catching-animals]], he had actually been intended for the Krone circus. However, when "Siam" showed behavioural problems there, the circus sought a way rid itself of the "bad" animal, and gave "Siam" to the Berlin Zoo in 1933. He was the only one of nine elephants at the Berlin Zoo to survive the war. Seven had been killed in the bombing raids of November 1943 – see [[material.list-of-dead-zoo-animals]].
 
 <figure>
 
-![Black and white page from a magazine. Large photo shows two children in front of an elephant. Small photo shows adult surrounded by many children. Headline: Berlin's Last Elephant. A few of the famous zoo's animals survive the war.](/images/mv/LifeMagazine.jpg)
+![Black and white page from a magazine. Large photo shows two children in front of an elephant. Small photo shows adult surrounded by many children. Headline: Berlin's Last Elephant. A few of the famous zoo's animals survive the war.](images/mv/LifeMagazine.jpg)
 
 <figcaption>
 
-_After the end of the war, _Life Magazine _reported on the only surviving elephant in the Berlin Zoo, October 1945._
+_After the end of the war,_ Life Magazine _reported on the only surviving elephant in the Berlin Zoo, October 1945._
 
 </figcaption>
 
 </figure>
 
-At the time, the zoo was suffering from a lack of everything, from feed to firewood to building materials. The zoologist [[material.Katharina Heinroth]], who also officially became director of the largely destroyed zoological garden on 3 August 1945, had great difficulty keeping the remaining animals alive, with few employees and almost no financial means. As early as May, the Soviet commander (Berlin was occupied and administered by Soviet troops at the time) had issued permission for the purchase of feed, so that meat for the carnivores as well as hay, oats and potatoes could for the time being be bought once more.[^2] **Nevertheless, the situation was tense and the procurement of feed remained a burning issue for the next few years.** As Katharina Heinroth wrote in March 1946 about the food situation at the zoo: "The scarcity of feed is terrible; potatoes, beets, hay and straw are most lacking. [...] We haven't had any potatoes in four months."[^3] How was she supposed to feed an elephant in these conditions?
+At the time, the zoo was suffering from a lack of everything, from feed to firewood to building materials. The zoologist [[material.katharina-heinroth]], who also officially became director of the largely destroyed zoological garden on 3 August 1945, had great difficulty keeping the remaining animals alive, with few employees and almost no financial means. As early as May, the Soviet commander (Berlin was occupied and administered by Soviet troops at the time) had issued permission for the purchase of feed, so that meat for the carnivores as well as hay, oats and potatoes could for the time being be bought once more.[^2] **Nevertheless, the situation was tense and the procurement of feed remained a burning issue for the next few years.** As Katharina Heinroth wrote in March 1946 about the food situation at the zoo: "The scarcity of feed is terrible; potatoes, beets, hay and straw are most lacking. [...] We haven't had any potatoes in four months."[^3] How was she supposed to feed an elephant in these conditions?
 
 After the biggest pieces of rubble had been cleared, Katharina Heinroth and the zoo staff set about producing feed for the animals themselves. Katharina Heinroth's initial desire with the reopening of the zoo in July 1945 had been to offer a place of recovery and recreation beyond the daily post-war routine. "I also dreamed of beautiful flowerbeds in the avenues," said Katharina Heinroth in an interview, "but things turn out differently. Every free corner has to be planted with vegetables. The remaining empty outdoor enclosures are divided amongst staff for personal use."[^4] Apart from the nursery, whose beds were already fully cultivated, "all the open spaces created by the battle in the zoo were now to be cultivated with feedstuff."[^5] **The deer enclosure became a vegetable garden; beets, potatoes and lettuce were soon growing on the open lawns and in the elephant enclosure[^6]. In short: the zoo was being tilled.**
 
 <figure>
 
-![Newspaper clipping with photograph: Two people in hats stand behind a plough to which a dark and a light horse are harnessed. Text: Auch im Berliner Zoo wird jedes Stückchen Land zur Frühjahrsbestellung umgepflügt. Nicht nur der Bedarf des Zoos an Futtermitteln ist groß, auch die Berliner Speisekarte wird dabei bereichert.](images/mv/Vorwaerts1946AusschnittJPG.jpg)
+![Newspaper clipping with photograph: Two people in hats stand behind a plough to which a dark and a light horse are harnessed. German text: Auch im Berliner Zoo wird jedes Stückchen Land zur Frühjahrsbestellung umgepflügt. Nicht nur der Bedarf des Zoos an Futtermitteln ist groß, auch die Berliner Speisekarte wird dabei bereichert.](images/mv/Vorwaerts1946AusschnittJPG.jpg)
 
 <figcaption>
 
-_Vegetable and lettuce cultivation on the grounds of the Berlin Zoological Garden, reprinted in_ Vorwärts_, 18.04.1946._
+_Vegetable and lettuce cultivation on the grounds of the Berlin Zoological Garden, reprinted in_ Vorwärts, _18.04.1946._
 
 </figcaption>
 
@@ -96,15 +96,15 @@ _Vegetable and lettuce cultivation on the grounds of the Berlin Zoological Garde
 
 <figcaption>
 
-_ The illustrated magazine _ Die Frau von heute_ reports on the cultivation of vegetables and lettuce in the Berlin Zoological Garden, 07.05.1946._
+_The illustrated magazine_ Die Frau von heute _reports on the cultivation of vegetables and lettuce in the Berlin Zoological Garden, 07.05.1946._
 
 </figcaption>
 
 </figure>
 
-However, this harvest was not nearly enough to feed even the few herbivores. Moreover, as already mentioned, the animals had to share the yield of these beds with zoo staff.[^7] The zoo therefore leased additional plots on the outskirts of Berlin - "expanses in comparison to which the few small gardens in the enclosures dwindle."[^8] In Spandauer Forst and Grunewald, for example, nine hectares were sown with green fodder, and grass for making hay. But "even all this is merely supplementary fodder"[^9], Katharina Heinroth replied to a zoo visitor's letter. The feed shortage had a direct impact on the rebuilding of the zoo's animal holdings. Growth in any of the animal population, let alone large mammals from the other side of the world, was out of the question for the time being – see also [[story.native and exotic]]. In the summer of 1947, Heinroth had to reply to letters from Berliners asking for a new herd of elephants: "Unfortunately, it will not be possible to acquire another herd of elephants in the next few years, as the food difficulties in the city are far too great. At the moment, we only have our old elephant 'Siam' and have our hands full trying to get him enough hay and straw, grass and turnips."[^10]
+However, this harvest was not nearly enough to feed even the few herbivores. Moreover, as already mentioned, the animals had to share the yield of these beds with zoo staff.[^7] The zoo therefore leased additional plots on the outskirts of Berlin - "expanses in comparison to which the few small gardens in the enclosures dwindle."[^8] In Spandauer Forst and Grunewald, for example, nine hectares were sown with green fodder, and grass for making hay. But "even all this is merely supplementary fodder"[^9], Katharina Heinroth replied to a zoo visitor's letter. The feed shortage had a direct impact on the rebuilding of the zoo's animal holdings. Growth in any of the animal population, let alone large mammals from the other side of the world, was out of the question for the time being. In the summer of 1947, Heinroth had to reply to letters from Berliners asking for a new herd of elephants: "Unfortunately, it will not be possible to acquire another herd of elephants in the next few years, as the food difficulties in the city are far too great. At the moment, we only have our old elephant 'Siam' and have our hands full trying to get him enough hay and straw, grass and turnips."[^10]
 
-Though the death of animals due to [[story.feeding-and-overfeeding]] by visitors led to a general ban on feeding at the Berlin Zoo just ten years later, things were quite different in the late 1940s. The zoo staff's efforts alone did not suffice to provide for the animals. **The zoo was dependent on the city: on the transport infrastructure and the slaughterhouses, as well as on the visitors and governing bodies.** In newspaper articles, Katharina Heinroth called on the people of Berlin to support the animals by donating food.
+Though the death of animals due to [[overfeeding|story.feeding-and-overfeeding]] by visitors led to a general ban on feeding at the Berlin Zoo just ten years later, things were quite different in the late 1940s. The zoo staff's efforts alone did not suffice to provide for the animals. **The zoo was dependent on the city: on the transport infrastructure and the slaughterhouses, as well as on the visitors and governing bodies.** In newspaper articles, Katharina Heinroth called on the people of Berlin to support the animals by donating food.
 
 <figure>
 
@@ -112,7 +112,7 @@ Though the death of animals due to [[story.feeding-and-overfeeding]] by visitors
 
 <figcaption>
 
-_ Appeal printed in the _ Illustrated Telegraph _to save the zoo, March 1949._
+_Appeal printed in the_ Illustrated Telegraph _to save the zoo, March 1949._
 
 <figcaption>
 
@@ -175,17 +175,17 @@ Even before the war, people had turned to the zoo for advice on keeping their pe
 **The Berlin Zoological Garden was not just sought out to provide expertise in animal keeping and breeding; it was integrated into the very supply infrastructure of the city.** In 1945, at the request of the district authority for the Tiergarten neighbourhood, it took 250 dairy goats into its care "in order to make a contribution to securing the people's food supply."[^28] We do not know exactly how this cooperation worked, or how long it lasted. It is known that such arrangements could lead to conflicts over animal feed. When the British military government asked the zoo to take on more domestic animals for the Tiergarten district, Katharina Heinroth replied that the zoo did not have enough feed to do so. The British commander in charge replied that the elephant and other animals would then have to be given to other zoos to provide resources for the farm animals.
 For the zoo, however, animals coveted by the public were their economic and symbolic capital: "As a zoological garden we would have no interest at all in offering our visitors goats or sheep instead of animals from elsewhere. People don't come to the zoo to look at chickens or goats, and since we have to live on our income, we could soon have to close the zoo."[^29] This crystallises the question of what is constitutive of a zoo and its purpose, and which animal species it should primarily exhibit.
 
-During these years, the question of whether the zoo would be forced to slaughter some of its holdings or give animals away due to feed shortages was, in fact, constantly in the room.[^30] After only 80 animals had survived at the end of the war, by September 1945, the zoo had 240 animals again – many of which it had taken over from a circus. **But on 10 November 1945, the Allied command imposed a ban on the zoo acquiring large animals**, as no feed could be provided for more animals, especially large animals that required good meat or large quantities of green fodder, and the struggling supply infrastructure in Berlin was not to be further burdened, see also [[story. landwirtschaftliche Tiere]].[^31] Several times, the British commander threatened to close the zoo and evacuate the animals to the West. Katharina Heinroth was always able to ward this off.[^32]
+During these years, the question of whether the zoo would be forced to slaughter some of its holdings or give animals away due to feed shortages was, in fact, constantly in the room.[^30] After only 80 animals had survived at the end of the war, by September 1945, the zoo had 240 animals again – many of which it had taken over from a circus. **But on 10 November 1945, the Allied command imposed a ban on the zoo acquiring large animals**, as no feed could be provided for more animals, especially large animals that required good meat or large quantities of green fodder, and the struggling supply infrastructure in Berlin was not to be further burdened, see also [[story.Landwirtschaftliche Tiere]].[^31] Several times, the British commander threatened to close the zoo and evacuate the animals to the West. Katharina Heinroth was always able to ward this off.[^32]
 
 **The British commander rather had in mind a display model for keeping domestic animals.** A strain of Leghorn chicks, a few sheep and goat lambs, breeding pairs of rabbits and ducklings that the zoo had reared or bred were to "provide an incentive for the population to keep animals simply, and could serve to produce breeding material to help gradually replenish the livestock in and around Berlin."[^33] **In times of need, the functions of the zoo as institution, and the views of what its tasks were thus underwent change.** Different expectations were placed on it by the Allies, the magistrate and the population, and new tasks were set for it. Although, in the end, the display model for farm animal keeping and breeding was not realised, the zoo became – sometimes against the will of its director – a place for the production of food for animals and humans. It emerged as a hub where, via correspondence, animals and knowledge were exchanged, and nutritional issues were discussed. At the same time, the zoo continued to adhere with great perseverance to the programmatic and not least financially motivated aspiration of exhibiting animals with popular appeal from all over the world.
 
 In the meantime, the feed situation at the zoo remained tense, and just two years after the end of the war, in March 1947, the elephant "Siam" died. The daily newspapers wrote: "half frozen to death […] our zoo pachyderm has now died of starvation."[^34] "Siam" had not in fact starved to death, but died of a chronic intestinal inflammation, and complications in the heart muscle. This was the finding of the autopsy carried out jointly by the Veterinary School and the Zoological Museum (a part of the Natural History Museum). Misinformation or deliberate feint? We can only speculate. Certainly, the troubles with shortages in Berlin were a recurring theme in the _Telegraf_. And perhaps the idea that "our zoo elephant" was suffering from hunger just like the people of Berlin seemed comforting?
 
-There are many examples of (zoo) animals that served as figures for identification and projection in hard times. Mieke Roscher and Anna-Katharina Wöbse have studied the function of zoo animals as providing support and the zoo as a place of social rapprochement between humans and animals in times of crisis – with a focus on Berlin and London during the Second World War.[^35] Something similar can be said of the post-war period. **It was not least about the idea that animals and humans shared the same fate, a sense of belonging to the same 'we', a community of suffering.** Animals commemorated as war victims can be found as early as the 19th century: At the entrance to the Jardin des Plantes in Paris, for example, is a plaque commemorating the elephants and kangaroos of the menagerie there, which were counted among the victims of war after the siege of Paris in 1870. It may therefore come as no surprise that the Berlin Zoo received many letters expressing sympathy and regret over the death of the last Berlin Zoo elephant. At the same time, many wanted to know when there would be a new elephant to come and see.
+There are many examples of (zoo) animals that served as figures for identification and projection in hard times. Mieke Roscher and Anna-Katharina Wöbse have studied the function of zoo animals as providing support and the zoo as a place of social rapprochement between humans and animals in times of crisis – with a focus on Berlin and London during the Second World War.[^35] Something similar can be said of the post-war period. **It was not least about the idea that animals and humans shared the same fate, a sense of belonging to the same "we", a community of suffering.** Animals commemorated as war victims can be found as early as the 19th century: At the entrance to the Jardin des Plantes in Paris, for example, is a plaque commemorating the elephants and kangaroos of the menagerie there, which were counted among the victims of war after the siege of Paris in 1870. It may therefore come as no surprise that the Berlin Zoo received many letters expressing sympathy and regret over the death of the last Berlin Zoo elephant. At the same time, many wanted to know when there would be a new elephant to come and see.
 
 <figure>
 
-![Perforated, handwritten postcard. Text:: 16. März 1947. Liebe Tante Zoodirektor! Grossvater hat mir erzählt, dass der gute Elefant tot ist. Das ist aber sehr traurig! Ich bitte dich, recht bald für einen neuen Elefanten zu sorgen. Ich grüsse dich sehr! Dein Hello Kellner (4 Jahre alt).](/images/mv/BeileidSiam.jpg)
+![Perforated, handwritten postcard. German text: 16. März 1947. Liebe Tante Zoodirektor! Grossvater hat mir erzählt, dass der gute Elefant tot ist. Das ist aber sehr traurig! Ich bitte dich, recht bald für einen neuen Elefanten zu sorgen. Ich grüsse dich sehr! Dein Hello Kellner (4 Jahre alt).](/images/mv/BeileidSiam.jpg)
 
 <figcaption>
 
@@ -293,7 +293,7 @@ In the first post-war years, the relationship between the zoo and the people of 
 
 <figcaption>
 
-_Gedicht des Zoobesuchers K. Ferber über die [[material.Wintersnot im Zoo]], 06.10.1948. (AZGB. Alle Rechte vorbehalten.)_ 
+_Gedicht des Zoobesuchers K. Ferber über die [[material.Wintersnot im Zoo]], 06.10.1948. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -303,7 +303,7 @@ Am Ende des Zweiten Weltkriegs zählte der Berliner Zoologische Garten nur noch 
 
 <figure>
 
-![Schwarz-weiß Foto: seitlich liegender, abgemagerter Elefant zwischen Trümmern.](/images/mv/Elefantenkadaver.jpg)
+![Schwarz-weiß Foto: seitlich liegender, abgemagerter Elefant zwischen Trümmern.](images/mv/Elefantenkadaver.jpg)
 
 <figcaption>
 
@@ -313,7 +313,7 @@ _Elefantenkadaver im Berliner Zoo nach einem Bombenangriff 1943. (AZGB. Alle Rec
 
 </figure>
 
-**Zu den wenigen überlebenden Tieren gehörte der asiatische Elefantenbulle "Siam"  .** Als sogenannter [[Wildfang|story.catching-animals]] von der britischen Kolonie Ceylon, dem heutigen Sri Lanka, nach Deutschland gebracht, war er eigentlich für den Zirkus Krone bestimmt gewesen. Als "Siam" dort jedoch Verhaltensauffälligkeiten zeigte, suchte der Zirkus einen Weg, das [["böse" Tier|material.böse Tiere]] wieder loszuwerden und gab "Siam" 1933 an den Berliner Zoo ab. Er war der Einzige von neun Elefanten im Berliner Zoo, der den Krieg überlebte. Sieben waren bei den Bombenangriffen im November 1943 getötet worden, siehe [[material.list dead animals]].
+**Zu den wenigen überlebenden Tieren gehörte der asiatische Elefantenbulle "Siam"  .** Als sogenannter [[Wildfang|story.catching-animals]] von der britischen Kolonie Ceylon, dem heutigen Sri Lanka, nach Deutschland gebracht, war er eigentlich für den Zirkus Krone bestimmt gewesen. Als "Siam" dort jedoch Verhaltensauffälligkeiten zeigte, suchte der Zirkus einen Weg, das "böse" Tier wieder loszuwerden und gab "Siam" 1933 an den Berliner Zoo ab. Er war der Einzige von neun Elefanten im Berliner Zoo, der den Krieg überlebte. Sieben waren bei den Bombenangriffen im November 1943 getötet worden, siehe [[material.list-of-dead-zoo-animals]].
 
 <figure>
 
@@ -327,7 +327,7 @@ _Das_ Life Magazine _berichtete über den einzigen überlebenden Berliner Zoo-El
 
 </figure>
 
-Im Zoo fehlte es damals an allem, von Futter über Brennholz bis zu Baumaterialien. Die Zoologin [[material.katharina-heinroth]], die am 3. August 1945 auch offiziell die Leitung des weitgehend zerstörten Zoologischen Gartens übernahm, hatte größte Mühe die verbliebenen Tiere mit ihren wenigen Mitarbeiter\*innen und nahezu ohne finanzielle Mittel durchzubringen. Bereits im Mai hatte der sowjetische Kommandant (Berlin war damals durch sowjetische Truppen besetzt und verwaltet) eine Genehmigung für den Erwerb von Futtermitteln ausgestellt, so dass einstweilen wieder Fleisch für die Raubtiere sowie Heu, Hafer und Kartoffeln gekauft werden konnten.[^2] **Dennoch war die Situation angespannt und die Beschaffung von Futter blieb die kommenden Jahre ein brennendes Thema**: "[D]ie Futtermittelnot ist furchtbar, am meisten fehlen Kartoffeln, Rüben, Heu und Stroh. [...] Wir haben seit 4 Monaten keine Kartoffeln für den Betrieb bekommen" [^3], schrieb Katharina Heinroth im März 1946 über die Ernährungslage im Zoo. Wie sollte sie da einen Elefanten ernähren?
+Im Zoo fehlte es damals an allem, von Futter über Brennholz bis zu Baumaterialien. Die Zoologin [[material.katharina-heinroth]], die am 3. August 1945 auch offiziell die Leitung des weitgehend zerstörten Zoologischen Gartens übernahm, hatte größte Mühe die verbliebenen Tiere mit ihren wenigen Mitarbeiter\*innen und nahezu ohne finanzielle Mittel durchzubringen. Bereits im Mai hatte der sowjetische Kommandant (Berlin war damals durch sowjetische Truppen besetzt und verwaltet) eine Genehmigung für den Erwerb von Futtermitteln ausgestellt, so dass einstweilen wieder Fleisch für die Raubtiere sowie Heu, Hafer und Kartoffeln gekauft werden konnten.[^2] **Dennoch war die Situation angespannt und die Beschaffung von Futter blieb die kommenden Jahre ein brennendes Thema**: "[D]ie Futtermittelnot ist furchtbar, am meisten fehlen Kartoffeln, Rüben, Heu und Stroh. \[...] Wir haben seit 4 Monaten keine Kartoffeln für den Betrieb bekommen" [^3], schrieb Katharina Heinroth im März 1946 über die Ernährungslage im Zoo. Wie sollte sie da einen Elefanten ernähren?
 
 Nachdem der gröbste Schutt entfernt worden war, machten sich Katharina Heinroth und die Zoomitarbeiter\*innen daran, Futter für die Tiere selbst zu produzieren. Eigentlich war es Katharina Heinroths Ziel, mit der Wiedereröffnung des Zoos im Juli 1945 einen Ort der Erholung und des Vergnügens jenseits des Nachkriegsalltags zu bieten. "Ich träumte dabei auch von schönen Blumenbeeten in den Alleen", sagte Katharina Heinroth in einem Interview, "aber es kommt anders. Jede freie Ecke muß mit Gemüse bepflanzt werden. Die leeren Freigehege werden unter unsere Angestellten für den eigenen Bedarf aufgeteilt."[^4] Außer der Gärtnerei, deren Beete bereits voll bestellt waren, sollten nun "alle durch den Kampf im Zoo entstandenen Freiflächen mit Futtermitteln bebaut werden".[^5] **Das Hirschgehege wurde zum Gemüsegarten, auf den freien Rasenflächen und im Elefantengehege wuchsen schon bald Rüben, Kartoffeln und Salat[^6], kurz: Der Zoo wurde beackert.**
 
@@ -349,13 +349,13 @@ _Gemüse- und Salatanbau auf dem Gelände des Zoologischen Gartens Berlin, abged
 
 <figcaption>
 
-_Über den Gemüse- und Salatanbau im Zoologischen Garten Berlin berichtet die illustrierte Zeitschrift_ Die Frau von heute_, 07.05.1946._
+_Über den Gemüse- und Salatanbau im Zoologischen Garten Berlin berichtet die illustrierte Zeitschrift_ Die Frau von heute, _07.05.1946._
 
 </figcaption>
 
 </figure>
 
-Allerdings reichte diese Ernte zur Versorgung auch der wenigen der Pflanzenfresser bei weitem nicht aus. Außerdem mussten sich die Tiere den Ertrag der Beete – wie bereits erwähnt – mit den Zoomitarbeiter\*innen teilen.[^7] Der Zoo pachtete daher zusätzliche Flächen am Rande von Berlin – "Flächen, gegen die die paar kleinen Gärten in den Gehegen verschwinden".[^8] Im Spandauer Forst und im Grunewald etwa wurden auf neun Hektar Grünfutter ausgesät und Wiesen zur Heuernte angelegt. Doch "auch das ist alles lediglich Beifutter"[^9], antwortete Katharina Heinroth auf die Zuschrift einer Person, die den Zoo besucht hatte. Die Futtermittelknappheit wirkte sich unmittelbar auf den Wiederaufbau des Tierbestands im Zoo aus. An einen erneuten Zuwachs an Tieren, zumal Großsäugern vom anderen Ende der Welt, war einstweilen nicht zu denken, siehe auch [[story.native and exotic]]. Auf die Zuschriften von Berliner\*innen mit der Bitte, eine neue Elefantenherde anzuschaffen, musste Heinroth daher im Sommer 1947 noch erwidern: "Leider wird es in den nächsten Jahren nicht möglich sein, wieder eine Elefantenherde zu beschaffen, da die Ernährungsschwierigkeiten in der Stadt viel zu gross sind. Wir haben zur Zeit nur noch unseren alten Elefanten 'Siam'   und haben vollauf zu tun, um ihm genügend Heu und Stroh, Gras und Rüben heranzuschaffen."[^10]
+Allerdings reichte diese Ernte zur Versorgung auch der wenigen der Pflanzenfresser bei weitem nicht aus. Außerdem mussten sich die Tiere den Ertrag der Beete – wie bereits erwähnt – mit den Zoomitarbeiter\*innen teilen.[^7] Der Zoo pachtete daher zusätzliche Flächen am Rande von Berlin – "Flächen, gegen die die paar kleinen Gärten in den Gehegen verschwinden".[^8] Im Spandauer Forst und im Grunewald etwa wurden auf neun Hektar Grünfutter ausgesät und Wiesen zur Heuernte angelegt. Doch "auch das ist alles lediglich Beifutter"[^9], antwortete Katharina Heinroth auf die Zuschrift einer Person, die den Zoo besucht hatte. Die Futtermittelknappheit wirkte sich unmittelbar auf den Wiederaufbau des Tierbestands im Zoo aus. An einen erneuten Zuwachs an Tieren, zumal Großsäugern vom anderen Ende der Welt, war einstweilen nicht zu denken. Auf die Zuschriften von Berliner\*innen mit der Bitte, eine neue Elefantenherde anzuschaffen, musste Heinroth daher im Sommer 1947 noch erwidern: "Leider wird es in den nächsten Jahren nicht möglich sein, wieder eine Elefantenherde zu beschaffen, da die Ernährungsschwierigkeiten in der Stadt viel zu gross sind. Wir haben zur Zeit nur noch unseren alten Elefanten 'Siam'   und haben vollauf zu tun, um ihm genügend Heu und Stroh, Gras und Rüben heranzuschaffen."[^10]
 
 Während im Berliner Zoo nur knapp zehn Jahre später der Tod von Tieren durch [[Überfütterung|story.feeding-and-overfeeding]] durch Besucher\*innen zu einem generellen Fütterungsverbot führte, sah dies in den späten 1940er Jahren noch ganz anders aus. Die eigenen Bemühungen der Zoomitarbeiter\*innen reichten für die Versorgung der Tiere nicht aus. **Der Zoo war auf die Stadt angewiesen – auf die Verkehrsinfrastrukturen und die Schlachthöfe ebenso wie auf die Besucher\*innen und Behörden.** In Zeitungsartikeln rief Katharina Heinroth die Berliner Bevölkerung dazu auf, die Tiere durch Lebensmittelspenden zu unterstützen.
 
@@ -365,7 +365,7 @@ Während im Berliner Zoo nur knapp zehn Jahre später der Tod von Tieren durch [
 
 <figcaption>
 
-_Zeitungsaufruf im_ Illustrierten Telegraf _zur Rettung des Zoos, März 1949._ 
+_Zeitungsaufruf im_ Illustrierten Telegraf _zur Rettung des Zoos, März 1949._
 
 <figcaption>
 
@@ -389,7 +389,7 @@ _Auflistung des [[Futtermittelbedarfs|material.feeding-list-1945]] für die Gro�
 
 Nachdem Katharina Heinroth eine Liste der Großtiere mit deren Futterbedarfen eingereicht hatte, teilte das Amt die notwendigen Rationen zu, auch hier "möglichst solche, die für den menschlichen Gebrauch ungeeignet sind."[^17] Schlachthäuser wurden angewiesen, Kadaver von Pferden und Rindern zur Verfütterung an die Fleischfresser im Zoo abzugeben; Krankenhäuser lieferten Speisereste aus ihren Kantinen, siehe auch [[story.the-afterlife-of-zoo-animals]]. Der Zoo war somit teilweise als Verwertungsmaschine organischer Abfälle in den urbanen Metabolismus eingebunden.
 
-Da die Tiere zusätzlich zu Heu und Stroh jeden Monat fast 4.500 kg Futtermittel – Mischfutter, Hafer und Hanf, Brotabfälle, Kartoffeln und Gemüse, Fleischabfälle und Pferdefleisch – verbrauchten, kam es dennoch immer wieder zu Engpässen.[^18] Dann musste improvisiert werden. Hanf und Hirse sowie Haferflocken waren anfangs nirgends zu bekommen, dafür gab es Gerste. Fehlende Kartoffeln ersetzten Katharina Heinroth und ihre Mitarbeiter\*innen durch Futterrüben oder Brotabfälle, die Zoopfleger\*innen sammelten regelmäßig Kartoffelschalen "aus halb Berlin zusammen".[^19] Die täglichen Portionen waren stark rationiert, "der alte Elefant 'Siam  ' mit seinen ausgefransten Ohren, dem noch immer der Schrecken der Bombenangriffe in den Knochen sitzt […] erhält 100 Pfund Futter am Tag vom Berliner Magistrat zur Verfügung gestellt. Die listige Schimpansin 'Susi'  muß sich dagegen mit [Lebensmittel]Karte 5 begnügen"[^20], also der niedrigsten Kategorie wie sie auch Kinder und Rentner erhielten. Der _Tagesspiegel_ bemerkte dazu: "Der Magistrat teilt den Tieren ihre Rationen genau so streng zu wie den Menschen. Jede Gattung hat ihr vorgeschriebenes Quantum."[^21]
+Da die Tiere zusätzlich zu Heu und Stroh jeden Monat fast 4.500 kg Futtermittel – Mischfutter, Hafer und Hanf, Brotabfälle, Kartoffeln und Gemüse, Fleischabfälle und Pferdefleisch – verbrauchten, kam es dennoch immer wieder zu Engpässen.[^18] Dann musste improvisiert werden. Hanf und Hirse sowie Haferflocken waren anfangs nirgends zu bekommen, dafür gab es Gerste. Fehlende Kartoffeln ersetzten Katharina Heinroth und ihre Mitarbeiter\*innen durch Futterrüben oder Brotabfälle, die Zoopfleger\*innen sammelten regelmäßig Kartoffelschalen "aus halb Berlin zusammen".[^19] Die täglichen Portionen waren stark rationiert, "der alte Elefant 'Siam  ' mit seinen ausgefransten Ohren, dem noch immer der Schrecken der Bombenangriffe in den Knochen sitzt […] erhält 100 Pfund Futter am Tag vom Berliner Magistrat zur Verfügung gestellt. Die listige Schimpansin 'Susi'  muß sich dagegen mit \[Lebensmittel]Karte 5 begnügen"[^20], also der niedrigsten Kategorie wie sie auch Kinder und Rentner erhielten. Der _Tagesspiegel_ bemerkte dazu: "Der Magistrat teilt den Tieren ihre Rationen genau so streng zu wie den Menschen. Jede Gattung hat ihr vorgeschriebenes Quantum."[^21]
 
 ## Die Stadt ernähren
 
@@ -464,7 +464,7 @@ Das Verhältnis zwischen Zoo und Stadtgesellschaft bewegte sich in den ersten Na
 
 [^4]: "Siam erhält Stubenarrest. Wintervorbereitungen im Zoo". _Das Volk_, 04.11.1945. Die Umnutzung von Freiflächen zum Anbau von Gemüse und Kartoffeln war, wie man sich vorstellen kann, weit verbreitet. Auch der Garten des Museums für Naturkunde war bis 1949 für den Gemüseanbau für die Mitarbeiter\*innen reserviert.
 
-[^5]: Vgl. Tätigkeitsbericht des Zoologischen Gartens vom 03.05. bis 23.05.1945, AZGB O 0/1/75. Als Folgen des Krieges waren ein Großteil der Tiere tot und große Teile der Bebauung im Zoo zerstört, weshalb nach der Enttrümmerung viele Freiflächen entstanden. 
+[^5]: Vgl. Tätigkeitsbericht des Zoologischen Gartens vom 03.05. bis 23.05.1945, AZGB O 0/1/75. Als Folgen des Krieges waren ein Großteil der Tiere tot und große Teile der Bebauung im Zoo zerstört, weshalb nach der Enttrümmerung viele Freiflächen entstanden.
 
 [^6]: K. Heinroth an L. Rüppell, o.D. [vermutlich April/Mai 1946], AZGB N 4/12. Vgl. auch Jahresbericht der Parkabteilung des Zoologischen Gartens Berlin 1945: "Das grosse Elefantengehege und die unbesetzten Gehege im Straussenhaus und vor der Fasanerie mit Topinambur und Futterrüben bebaut. Die beiden Hauptpromenaden mit Kartoffen bebaut."
 
@@ -478,7 +478,7 @@ Das Verhältnis zwischen Zoo und Stadtgesellschaft bewegte sich in den ersten Na
 
 [^11]: "Sorgen im Berliner Zoo". _Neue Zeit_, 18.09.1948.
 
-[^12]: "Der Zoo braucht dringend Hilfe". _Die Neue Zeitung_[München], 07.04.1949.
+[^12]: "Der Zoo braucht dringend Hilfe". _Die Neue Zeitung_\[München], 07.04.1949.
 
 [^13]: Die Zeitschrift erschien zunächst im Allgemeinen Deutschen Verlag in Ost-Berlin, bis 1948 der Demokratische Frauenbund Deutschlands (DFD) die Herausgeberschaft bis zur Einstellung der Zeitschrift Ende 1962 übernahm. Danach erschien die Zeitschrift auf Beschluss des SED-Sekretariats im Deutschen Frauenverlag GmbH Berlin und ab 1953 im Verlag für die Frau, Leipzig. 1963 wurde die Illustrierte _Für Dich_ Nachfolgerin der _Frau von heute_.
 
@@ -488,7 +488,7 @@ Das Verhältnis zwischen Zoo und Stadtgesellschaft bewegte sich in den ersten Na
 
 [^16]: K. Heinroth an das Haupternährungsamt der Stadt Berlin, 06.08.1945, AZGB N 4/2.
 
-[^17]: Vgl. AZGB O 1/1/2. 
+[^17]: Vgl. AZGB O 1/1/2.
 
 [^18]: Vgl. Magistrat der Stadt Berlin, Abteilung für Ernährung an den Zoologischen Garten Berlin, 17.11.1945, AZGB O 1/1/2.
 
@@ -518,13 +518,13 @@ Das Verhältnis zwischen Zoo und Stadtgesellschaft bewegte sich in den ersten Na
 
 [^31]: Zwischen Mai und August 1945 stieg der Tierbestand von 194 auf 240 Stück, vor allem durch die Aufnahme von Tieren aus dem Zirkus Brumbach.
 
-[^32]: Vgl. Heinroth, Katharina. _Mit Faltern begann's. Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 154-157. Der Zweite Weltkrieg hatte in ganz Europa viele Gebäude und Gehege in Zoos mehr oder weniger schwer zerstört. Während des Ersten und Zweiten Weltkrieges haben außerdem Truppenverbände der Reichswehr und der Wehrmacht Tiere in den eroberten Gebieten Europas gefangen und dem Zoologischen Garten der Reichshauptstadt übergeben. 1939 brachte Lutz Heck außerdem wertvolle Schautiere, darunter einen Elefanten, aus dem Warschauer Zoo für deutsche Zoos. Vgl. Szczygielska, Marianna. "Elephant Empire: Zoos and Colonial Encounters in Eastern Europe". _Cultural Studies_(2020): 1-22. https://doi.org/10.1080/09502386.2020.1780280; siehe auch [[story.Catching Animals]].
+[^32]: Vgl. Heinroth, Katharina. _Mit Faltern begann's. Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 154-157. Der Zweite Weltkrieg hatte in ganz Europa viele Gebäude und Gehege in Zoos mehr oder weniger schwer zerstört. Während des Ersten und Zweiten Weltkrieges haben außerdem Truppenverbände der Reichswehr und der Wehrmacht Tiere in den eroberten Gebieten Europas gefangen und dem Zoologischen Garten der Reichshauptstadt übergeben. 1939 brachte Lutz Heck außerdem wertvolle Schautiere, darunter einen Elefanten, aus dem Warschauer Zoo für deutsche Zoos. Vgl. Szczygielska, Marianna. "Elephant Empire: Zoos and Colonial Encounters in Eastern Europe". _Cultural Studies_(2020): 1-22. https://doi.org/10.1080/09502386.2020.1780280; siehe auch [[story.catching-animals]].
 
-[^33]: K. Heinroth an den Magistrat der Stadt Berlin, Abteilung für Ernährung, 20.03.1946, AZGB O 1/1/2. Vgl. auch K. Heinroth an die Alliierte Kommandantur der Stadt Berlin, 15.05.1946, AZGB O 1/1/2. 
+[^33]: K. Heinroth an den Magistrat der Stadt Berlin, Abteilung für Ernährung, 20.03.1946, AZGB O 1/1/2. Vgl. auch K. Heinroth an die Alliierte Kommandantur der Stadt Berlin, 15.05.1946, AZGB O 1/1/2.
 
 [^34]: "Verhungert und halb erfroren war im März vergangenen Jahres 'Siam', der letzte der Berliner Dickhäuter." Vgl. "Auf den Spuren des Elefanten". _Der Kurier_, 07.02.1948;  sowie "'Siam' unter der Bandsäge." _Telegraf_, 21.03.1947.
 
-[^35]: Wöbse, Anna-Katharina, und Mieke Roscher. "Zootiere während des Zweiten Weltkrieges: London und Berlin 1939-1945". _WerkstattGeschichte_ 56 (2010): 44-62)
+[^35]: Wöbse, Anna-Katharina, und Mieke Roscher. "Zootiere während des Zweiten Weltkrieges: London und Berlin 1939-1945". _WerkstattGeschichte_ 56 (2010): 44-62.
 
 [^36]: K. Heinroth an W. Börner, 14.10.1947, AZGB O 1/2/42.
 
