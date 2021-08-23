@@ -2,7 +2,7 @@
 id: cdaa8a05-6456-4b87-a663-c755790440d3
 title: Der Zoologische Garten (journal)
 desc: Scientific research exchange between zoos
-updated: 1628166538224
+updated: 1629737556961
 created: 1618496596303
 license: CC BY-SA
 title_de: Der Zoologische Garten (Zeitschrift)
@@ -29,17 +29,17 @@ date_start: '1858-12-31T23:06:32.000Z'
 
 <div class="series">
 
-![Front page of Der Zoologische Garten with photograph of a harpy](images/cmw/ZG_1933.jpg)
+![Cover page of Der Zoologische Garten with photograph of a harpy](images/cmw/ZG_1933.jpg)
 
-![Front page of Der Zoologische Garten with photograph of a rhinoceros](images/cmw/ZG_1961.jpg)
+![Cover page of Der Zoologische Garten with photograph of a rhinoceros](images/cmw/ZG_1961.jpg)
 
-![Front page of Der Zoologische Garten with photograph of a possum](images/cmw/ZG_2015.jpg)
+![Cover page of Der Zoologische Garten with photograph of a possum](images/cmw/ZG_2015.jpg)
 
 </div>
 
 <figcaption>
 
-_Front pages of the journal_ Der Zoologische Garten _from 1933, 1961 and 2015._
+_Cover pages of the journal_ Der Zoologische Garten _from 1933, 1961 and 2015._
 
 </figcaption>
 
