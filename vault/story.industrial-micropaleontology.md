@@ -5,7 +5,7 @@ desc: >-
   In the 1920s, scientists Esther Applin, Alva Ellisor, and Hedwig Knikerwere
   revolutionized micropaleontology. They were employed by oil companies, and
   showed important applications to stratigraphy and petroleum geology.
-updated: 1629110760845
+updated: 1629749290652
 created: 1621521087155
 license: CC BY-SA
 title_de: Industrielle Mikropaleontologie
@@ -34,7 +34,7 @@ date_start: '1920-12-31T23:00:00.000Z'
 
 <figure>
 
-![Magazine page spread from Popular Mechanics magazine March 1932 issue, titled "'Bug-Men' lead hunt for Black Gold", with images of micropaleontologists and microscopic shell](/images/filo/bugmen.jpg)
+![Magazine pages. Images: micropaleontologists and magnified shells](/images/filo/bugmen.jpg)
 
 <figcaption>
 
@@ -56,19 +56,19 @@ The example of US industrial micropaleontology was quickly followed by researche
 
 [^3]: This history is told in detail in Gries, Robbie Rice. "How female geologists were written out of history: the micropaleontology breakthrough." _Geological Society of America. Memoirs_ 214 (2018): 11-22. https://doi.org/10.1130/2018.1214(02).
 
-[^4]: For more on Cushman and the laboratory, see "Joseph Cushman: Life and Legacy". _Smithsonian National Museum of Natural History_, no date, https://naturalhistory.si.edu/research/paleobiology/collections-overview/foraminifera-collections/joseph-cushman (01.07.2021). 
+[^4]: For more on Cushman and the laboratory, see "Joseph Cushman: Life and Legacy". _Smithsonian National Museum of Natural History_, no date, https://naturalhistory.si.edu/research/paleobiology/collections-overview/foraminifera-collections/joseph-cushman (01.07.2021).
 
-[^5]: For the history of Soviet micropaleontology, see Mikhalevich, Valeria, Eleonora Bugrova, Valeriy Basov _et al_.  "The Russian School of Foraminiferology". _The Journal of Foraminiferal Research_ 50 (2020): 97-107. https://doi.org/10.2113/gsjfr.50.1.97; Yakovleva‐O'Neill, Svetlana P., and Genrieta E. Kolzova. "A history of the first micropalaeontological laboratory in the former Soviet Union". In _Landmarks in Foraminiferal Micropalaeontology: History and Development_, ed. by A. J. Bowden, F. J. Gregory, and A. S. Henderson. London: The Micropalaeontological Society, 2013: 59-66. https://doi.org/10.1144/TMS6.6. 
+[^5]: For the history of Soviet micropaleontology, see Mikhalevich, Valeria, Eleonora Bugrova, Valeriy Basov _et al_.  "The Russian School of Foraminiferology". _The Journal of Foraminiferal Research_ 50 (2020): 97-107. https://doi.org/10.2113/gsjfr.50.1.97; Yakovleva‐O'Neill, Svetlana P., and Genrieta E. Kolzova. "A history of the first micropalaeontological laboratory in the former Soviet Union". In _Landmarks in Foraminiferal Micropalaeontology: History and Development_, ed. by A. J. Bowden, F. J. Gregory, and A. S. Henderson. London: The Micropalaeontological Society, 2013: 59-66. https://doi.org/10.1144/TMS6.6.
 
 :::DE:::
 
 <figure>
 
-![Doppelseite des Magazins Popular Mechanics aus der Ausgabe vom März 1932 mit dem Titel "'Bug-Men' lead hunt for Black Gold", mit Bildern von Micropaleontologen und mikroskopischen Muscheln](/images/filo/bugmen.jpg)
+![Magazin-Doppelseite. Bilder: Mikropaläontologen und vergrößerte Muschelschalen](/images/filo/bugmen.jpg)
 
 <figcaption>
 
-_Ein Artikel des Magazins _ Popular Mechanics _ aus der Ausgabe vom März 1932 mit dem Titel "'Bug-Men' lead hunt for Black Gold: Searching for oil with a microscope", der einem breiten Publikum die Arbeit von Mikropaleontolog\*innen vorstellt.[^1]_
+_Ein Artikel des Magazins_ Popular Mechanics _aus der Ausgabe vom März 1932 mit dem Titel "'Bug-Men' lead hunt for Black Gold: Searching for oil with a microscope". Der Artikel stellt einem breiten Publikum die Arbeit von Mikropaleontolog\*innen vor.[^1]_
 
 </figcaption>
 

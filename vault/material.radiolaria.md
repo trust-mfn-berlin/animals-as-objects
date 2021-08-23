@@ -2,7 +2,7 @@
 id: 947c29be-240a-4adb-93c7-9026f80aaa89
 title: Radiolaria
 desc: Microscopic unicellular organisms living in the oceans
-updated: 1629747690924
+updated: 1629748179678
 created: 1618492811498
 license: CC BY-SA
 title_de: Radiolarien
@@ -32,7 +32,7 @@ date_start: ''
 
 <figcaption>
 
-_Radiolaria on plate 59 from Ernst Haeckel's report about the H.M.S. Challenger expedition, 1887. (http://www.biolib.de/haeckel/challenger/Nassellaria/100dpi/p059.jpg)_
+_Radiolaria on plate 59 from Ernst Haeckel's report about the H.M.S. Challenger expedition, 1887._
 
 </figcaption>
 
@@ -52,12 +52,11 @@ In addition, their tests, with their complex, delicate, and geometrical transluc
 
 <figcaption>
 
-_Radiolarien auf Tafel 59 in Ernst Haeckels Bericht über die H.M.S. Challenger Expedition, 1887. (http://www.biolib.de/haeckel/challenger/Nassellaria/100dpi/p059.jpg)_
+_Radiolarien auf Tafel 59 in Ernst Haeckels Bericht über die H.M.S. Challenger Expedition, 1887._
 
 </figcaption>
 
 </figure>
-
 
 Radiolarien sind einzellige Mikroorganismen, die aus einem weichen, amöbenähnlichen Körper mit einem oft aufwendigen, muschelähnlichen, "kieseligen" Skelett bestehen, das als Test bezeichnet wird. Als Heterotrophe ernähren sie sich in erster Linie von anderen mikroskopischen Organismen, die um sie herum treiben; die meisten Radiolarien haben jedoch photosynthetische Endosymbionten – mikroskopische Organismen, die in den Radiolarien-Organismus eingebettet sind und Licht in Energie umwandeln, die das Radiolarium dann nutzen kann. Sobald die Zelle abstirbt, sinken ihre harten kieselhaltigen Tests zu Boden und bedecken den Meeresboden mit einem kieseligen Schlamm. **Dank ihrer Struktur und Zusammensetzung können diese Überreste überleben und versteinern, da sie in Sedimenten und geologischen Schichten eingeschlossen werden. Aufgrund dieses Prozesses können die Mikrofossilien von Radiolarien in verschiedenen Arten von geologischen Formationen gefunden werden. Radiolarien bieten wichtige und oft leicht zugängliche fossile Überlieferungen.** Tatsächlich konzentriert sich bis heute ein Großteil der Radiolarienstudien auf die [[story.micropaleontological-formations]] dieser Organismen - auch weil sich Radiolarien als ozeanische Lebensformen, die in symbiotische Beziehungen verstrickt sind und ein komplexes Fortpflanzungsstadium haben, als schwierig im Labor zu kultivieren erwiesen haben.
 
