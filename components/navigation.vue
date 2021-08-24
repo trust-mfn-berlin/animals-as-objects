@@ -185,7 +185,10 @@ nav{
 
   // set height so that searchbar results don't expand hittable area
   height: 2rem;
-  min-height: 44px;
+  
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    min-height: 44px;
+  }
 
   li{
     list-style-type: none;

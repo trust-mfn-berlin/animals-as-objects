@@ -41,8 +41,9 @@ export default {
         fontSize: '0.5rem',
         storyRadius: 7
       },
+      backlinksTransformed:[],
       nodes:[],
-      links:[]
+      links:[],
     }
   },
   methods:{
@@ -56,12 +57,12 @@ export default {
     createLinks(){
 
       this.nodes = [];
-      this.nodes = this.backlinks.concat([this.article]); //not sure why but concat seems to avoid errors when clicking footnotes.
+      this.nodes = this.backlinksTransformed.concat([this.article]); //not sure why but concat seems to avoid errors when clicking footnotes.
 
       this.links = [];
 
-      for (let i = 0; i < this.backlinks.length; i++) {
-        const backlink = this.backlinks[i];
+      for (let i = 0; i < this.backlinksTransformed.length; i++) {
+        const backlink = this.backlinksTransformed[i];
 
         if(backlink.slug != this.article.slug){
 
@@ -74,7 +75,7 @@ export default {
         
       }
 
-      if(this.backlinks.length > 18){
+      if(this.backlinksTransformed.length > 18){
         this.attr.nodeSize = 20;
         this.attr.fontSize = '0.4rem';
       }
@@ -250,14 +251,14 @@ export default {
 
       node.append("image")
         .attr("xlink:href", function(d){
-          if (d.cover_image && d.cover_image.image){
-            return d.cover_image.image 
+          if (d.thumbnail){
+            return d.thumbnail
           }
         })
-        .attr("x", this.attr.nodeSize*-1)
-        .attr("y", this.attr.nodeSize*-1)
-        .attr("width", this.attr.nodeSize*2)
-        .attr("height", this.attr.nodeSize*2)
+        .attr("x", this.attr.nodeSize*-0.6)
+        .attr("y", this.attr.nodeSize*-0.6)
+        .attr("width", this.attr.nodeSize*1.2)
+        .attr("height", this.attr.nodeSize*1.2)
         .attr("clip-path", function(d){
           if(d.tao_type == 'story') return "url(#story-clip)"
           if(d.tao_type == 'material') return "url(#material-clip)"
@@ -316,6 +317,26 @@ export default {
         .on("end", dragended);
 
     }
+  },
+  created(){
+    for (let bl = 0; bl < this.backlinks.length; bl++) {
+      const b = this.backlinks[bl];
+      
+      
+      if(b.cover_image){
+        if(b.cover_image.image){
+            b.thumbnail = this.$img(b.cover_image.image, { 
+              width: 64,
+              height: 64,
+              quality: 80,
+              fit: 'cover'
+            })
+          }
+      }
+
+      this.backlinksTransformed.push(b);
+    }
+
   },
   mounted(){
     

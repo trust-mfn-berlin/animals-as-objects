@@ -53,8 +53,7 @@ export default{
     width: auto;
     position: relative;
     height: 2rem;
-    min-height: 44px;
-    
+
     
     a{
       border-color: @white;
@@ -65,6 +64,8 @@ export default{
   }
   
   @media screen and (max-width: @mq-s) /* Mobile */ {
+    min-height: 44px;
+
     bottom:0;
     left:0;
     right:0;

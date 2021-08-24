@@ -66,8 +66,10 @@ button{
   .animatemedium(all);
 
   // accessible standard
-  min-height: 44px;
-  min-width: 44px;
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    min-height: 44px;
+    min-width: 44px;
+  }
 
   &:hover{
     box-shadow: @shadow-hover !important;

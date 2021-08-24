@@ -129,7 +129,7 @@ input[type='search']{
   width:5rem;
   height: 2rem;
 
-  min-height: 44px;
+  
 
   .animatemedium(all);
 
@@ -152,6 +152,7 @@ input[type='search']{
   }
 
   @media screen and (max-width: @mq-s) /* Mobile */ {
+    min-height: 44px;
     width: 100%;
 
     &:focus{
