@@ -151,7 +151,7 @@ export default {
         { hid: 'description', name: 'description', content: this.article.author + ' | ' + this.article.desc_de},
         { property:'og:image', 'content': this.seoImageUrl, hid: 'og:image'}, 
       ],
-      title: 'Tiere als Objekte? ' + this.article.title_de
+      title: this.article.title_de
     };
   },
 };
