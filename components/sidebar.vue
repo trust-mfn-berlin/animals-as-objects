@@ -292,6 +292,7 @@ aside{
 
     ::v-deep ol{
       list-style-type: decimal;
+      
 
       li{
         .quote();
@@ -304,6 +305,10 @@ aside{
           animation: splash 250ms normal forwards ease-in-out;
           // color:red;
           // box-shadow: @shadow;
+        }
+        .sidebar-footnote-backref{
+          margin-left: 2px;
+          font-family: @f-mono;
         }
       }
     }
