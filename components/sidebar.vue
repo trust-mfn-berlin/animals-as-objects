@@ -31,7 +31,7 @@
 
     <curatedRoutes :slug="article.slug"/>
 
-    <section id="section-footnotes" v-if="footnotes">
+    <section id="section-footnotes" v-if="footnotes.body.children">
       <h3 class="f-mono subheading ">{{siteLang == 'de' ? labels.footnotes.de : labels.footnotes.en}}</h3>
       <!-- <div class="footnotes-inner text-links" v-html="footnotesParsed"></div> -->
       <nuxt-content class="footnotes-inner text-links" :document="footnotes" />
