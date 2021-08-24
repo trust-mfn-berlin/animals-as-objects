@@ -2,7 +2,7 @@
 id: 4TOAlxsuxdlxsQcZI2vRT
 title: Common Seadragon
 desc: 28.8.5.7-4 in a collection of codes
-updated: 1629794803104
+updated: 1629798605847
 created: 1629793516079
 title_de: Kleiner Fetzenfisch
 desc_de: 28.8.5.7-4 in einer Sammlung von Codes
@@ -25,7 +25,7 @@ EN content
 
 <figcaption>
 
-_Das Verzeichnis zweier Nasspräparate des kleinen Fetzenfisches in der Zoologischen Lehrsammlung der Humboldt-Universität Berlin. (ZI 2385, 2764)_
+_Verzeichnis eines Nasspräparats des kleinen Fetzenfisches in der Zoologischen Lehrsammlung der Humboldt-Universität Berlin. (ZI 2385, 2764)_
 
 </figcaption>
 
