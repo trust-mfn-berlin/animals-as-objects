@@ -1,12 +1,8 @@
 <template>
   <article class="block" :class="article.tao_type">
     <nuxt-link :to="urlBilingual">
-    <figure v-if="article.cover_image && article.cover_image.image">
-      <nuxt-img quality="80" width="600" height="600" fit="cover" :src="article.cover_image.image" :alt="article.cover_image.alt" />
-    </figure>
-
-    <figure v-else>
-      <img :src="'https://loremflickr.com/600/600/butterfly?random=' + article.id" />
+    <figure v-if="thumbImgUrl">
+      <img width="600" height="600" :src="thumbImgUrl" :alt="article.cover_image.alt" />
     </figure>
 
     <div class="text" :style="{backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
@@ -18,10 +14,7 @@
           <span v-if="article.date_start && article.date_end">–</span>
           <span v-if="article.date_end">{{isToday}}</span>
         </h3>
-        <!-- <h3 class="f-mono caption" 
-          v-else-if="article.tao_type == 'material' && article.short_desc">
-          {{article.short_desc}}
-        </h3> -->
+
       </hgroup>
       <div class="description-wrap">
         <p class="f-serif description" v-if="article.tao_type != 'material' && article.desc">{{descBilingual}}</p>
@@ -46,6 +39,17 @@ export default {
     }
   },
   computed:{
+    thumbImgUrl(){
+      if(!this.article.cover_image) return
+      if(!this.article.cover_image.image) return
+      const imgUrl = this.$img(this.article.cover_image.image, { 
+        width: 600,
+        height: 600,
+        quality: 80,
+        fit: 'cover'
+      })
+      return imgUrl
+    },
     isToday(){
       const endDate = this.$options.filters.formatDateYear(this.article.date_end)
       if(endDate == '2021' || endDate == 2021 || endDate == '2022' || endDate == 2022 || endDate == '2023' || endDate == 2023){
