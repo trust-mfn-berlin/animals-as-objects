@@ -148,24 +148,40 @@ export default {
 
       // console.log(document)
       // if(document.id == '2df514da-8df2-4278-8534-28e1034c7adf'){
-        // console.log(document.body)
-      // }
-
-      if(document.tao_type == 'theme') document.tao_type_de = 'Thema';
-      if(document.tao_type == 'story') document.tao_type_de = 'Story';
-      if(document.tao_type == 'material') document.tao_type_de = 'Materie';
-
-
-      for (let i = 0; i < backlinks.length; i++) {
-        const page = backlinks[i];
-
-        if(document.slug == page.slug){
-          // console.log('match');
-          document.backlinks = page.backlinks;
-          document.forwardlinks = page.forwardlinks;
-          
-        }
+        // }
         
+        if(document.tao_type == 'theme') document.tao_type_de = 'Thema';
+        if(document.tao_type == 'story') document.tao_type_de = 'Story';
+        if(document.tao_type == 'material') document.tao_type_de = 'Materie';
+        
+        
+        for (let i = 0; i < backlinks.length; i++) {
+          const page = backlinks[i];
+          
+          if(document.slug == page.slug){
+            // console.log('match');
+            document.backlinks = page.backlinks;
+            document.forwardlinks = page.forwardlinks;
+            
+          }
+        }
+      
+      const lastNode = document.body.children[document.body.children.length - 1]
+      // console.log(lastNode);
+      console.log(document.slug);
+      if(lastNode){
+        if(lastNode.props){
+          if(lastNode.props.className == 'footnotes'){
+            console.log('Has footnotes');
+            document.fn = {
+              en:{
+                body:{}
+              }
+            };
+            document.fn.en.body = lastNode;
+            document.fn.en.body.type = "root";
+          }
+        }
       }
     },
     'content:options': (options) => {

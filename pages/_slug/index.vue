@@ -11,6 +11,7 @@
       </div>
     </hgroup>
 
+    <!-- <nuxt-content  :document="fn.en"/> -->
     <section>
       <nuxt-content id="articlebody" :document="article" :class="article.tao_type" ref="articlebody"/>
     </section>  
@@ -26,7 +27,7 @@
     
   </main>
 
-  <sidebar :article="article" :footnotes="footnotes" :activeFootnote="activeFootnote"/>
+  <sidebar :article="article" :footnotes="fn.en" :activeFootnote="activeFootnote"/>
 
   </div>
 </template>
@@ -72,7 +73,7 @@ export default {
     },
     onFootnoteClick(hash){
       if(!this.$store.getters.isSidebarOpen) this.$store.commit('toggleSidebar', true)
-      this.activeFootnote = hash.replace('#','sidebar-')
+      this.activeFootnote = hash
     },
     initPage(){
 
@@ -126,7 +127,7 @@ export default {
   },
   async asyncData({ $content, params, error, payload, store }) {
     var article = {};
-
+    var fn = {};
     // console.log('helllo');
 
     // console.log(payload);
@@ -134,6 +135,7 @@ export default {
     if(payload){
       console.log('PAYLOAD');
       article = await payload;
+      fn = article.fn;
       store.commit('setArticleTaoType', article.tao_type);
       return { 
         article
@@ -143,6 +145,7 @@ export default {
       try {
         const data = await $content(params.slug).fetch();
         article = data;
+        fn = article.fn;
         store.commit('setArticleTaoType', article.tao_type);
         // console.log(article);
       } catch (e) {
@@ -151,6 +154,7 @@ export default {
 
       return {
         article,
+        fn
       };
     }
   },

@@ -31,9 +31,10 @@
 
     <curatedRoutes :slug="article.slug"/>
 
-    <section id="section-footnotes" v-if="footnotesParsed">
+    <section id="section-footnotes" v-if="footnotes">
       <h3 class="f-mono subheading ">{{siteLang == 'de' ? labels.footnotes.de : labels.footnotes.en}}</h3>
-      <div class="footnotes-inner text-links" v-html="footnotesParsed"></div>
+      <!-- <div class="footnotes-inner text-links" v-html="footnotesParsed"></div> -->
+      <nuxt-content class="footnotes-inner text-links" :document="footnotes" />
     </section>
 
     
@@ -54,7 +55,7 @@ export default {
       required: true
     },
     footnotes:{
-      type: String,
+      type: Object,
       required: false
     },
     activeFootnote:{
@@ -173,13 +174,13 @@ export default {
     }
   },
   mounted(){
-    this.$nextTick(function(){
-      this.footnotesParsed = this.footnotes.replaceAll('id="fn-', 'id="sidebar-fn-').replaceAll('class="footnote-backref"', 'class="sidebar-footnote-backref"')
-      // this.footnotesParsed = this.footnotes;
-    })
-    this.$nextTick(function(){
-      this.addFootnoteBacklinkListener();
-    })
+    // this.$nextTick(function(){
+    //   this.footnotesParsed = this.footnotes.replaceAll('id="fn-', 'id="sidebar-fn-').replaceAll('class="footnote-backref"', 'class="sidebar-footnote-backref"')
+    //   // this.footnotesParsed = this.footnotes;
+    // })
+    // this.$nextTick(function(){
+    //   this.addFootnoteBacklinkListener();
+    // })
   },
   beforeDestroy(){
     this.removeEventListeners();
