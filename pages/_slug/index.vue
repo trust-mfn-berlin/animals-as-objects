@@ -73,7 +73,7 @@ export default {
     },
     onFootnoteClick(hash){
       if(!this.$store.getters.isSidebarOpen) this.$store.commit('toggleSidebar', true)
-      this.activeFootnote = hash
+      this.activeFootnote = hash.replace('#','sidebar-')
     },
     initPage(){
 
@@ -113,11 +113,6 @@ export default {
   mounted(){
     
     this.initPage();
-
-    // copy footnotes into sidebar
-    if(document.getElementsByClassName('footnotes')[0]){
-      this.footnotes = document.getElementsByClassName('footnotes')[0].innerHTML;
-    }
     
     this.addFootnoteListener();
     
@@ -138,7 +133,8 @@ export default {
       fn = article.fn;
       store.commit('setArticleTaoType', article.tao_type);
       return { 
-        article
+        article,
+        fn
       }
     } else {
       // console.log('no payload, fetching fresh data')
@@ -147,7 +143,6 @@ export default {
         article = data;
         fn = article.fn;
         store.commit('setArticleTaoType', article.tao_type);
-        // console.log(article);
       } catch (e) {
         error({ message: e });
       }

@@ -166,20 +166,31 @@ export default {
           }
         }
       
-      const lastNode = document.body.children[document.body.children.length - 1]
-      // console.log(lastNode);
-      console.log(document.slug);
+      // SEPARATE FOOTNOTES INTO SEPARATE AST TREE
+      var lastNode = document.body.children[document.body.children.length - 1];
+
       if(lastNode){
         if(lastNode.props){
           if(lastNode.props.className == 'footnotes'){
-            console.log('Has footnotes');
+            document.hasFootnotes = true;
             document.fn = {
               en:{
-                body:{}
+                body: lastNode
               }
             };
-            document.fn.en.body = lastNode;
-            document.fn.en.body.type = "root";
+
+            for (let i = 0; i < document.fn.en.body.children[3].children.length; i++) {
+              const element = document.fn.en.body.children[3].children[i];
+              if(element.props){
+                if(element.props.id){
+                  document.fn.en.body.children[3].children[i].props.id = "sidebar-" + element.props.id;
+                }
+              }
+              
+            }
+
+
+            
           }
         }
       }

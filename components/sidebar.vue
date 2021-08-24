@@ -140,7 +140,7 @@ export default {
       this.$store.commit('toggleCitationModal', {isOpen: true, article: this.article});
     },
     async addFootnoteBacklinkListener(){
-      const backrefs = await document.getElementsByClassName('sidebar-footnote-backref');
+      const backrefs = await document.getElementsByClassName('footnote-backref');
       const that = this;
       for (let i = 0; i < backrefs.length; i++) {
         const backref = backrefs[i];
@@ -152,7 +152,7 @@ export default {
     },
     removeEventListeners(){
       // console.log('destroy');
-      const backrefs = document.getElementsByClassName('sidebar-footnote-backref');
+      const backrefs = document.getElementsByClassName('footnote-backref');
       const that = this;
       for (let i = 0; i < backrefs.length; i++) {
         const backref = backrefs[i];
@@ -179,7 +179,7 @@ export default {
     //   // this.footnotesParsed = this.footnotes;
     // })
     // this.$nextTick(function(){
-    //   this.addFootnoteBacklinkListener();
+      this.addFootnoteBacklinkListener();
     // })
   },
   beforeDestroy(){
@@ -187,8 +187,9 @@ export default {
   },
   watch:{
     activeFootnote(activeFootnote){
-      console.log(activeFootnote);
       if(activeFootnote){
+
+        console.log(document.getElementById(activeFootnote));
 
         this.scrollToElement(document.getElementById(activeFootnote), 800, 0, this.$refs.sidebar);
 
