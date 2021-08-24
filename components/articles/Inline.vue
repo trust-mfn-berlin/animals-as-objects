@@ -1,7 +1,7 @@
 <template>
   <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual" @mouseover.native="onMouseover" @mouseleave.native="onMouseleave">
     <span class="thumbnail-wrap">
-    <nuxt-img v-if="article.cover_image && article.cover_image.image" quality="80" width="64" height="64" fit="cover" :src="article.cover_image.image" role="presentation" />
+    <img v-if="article.cover_image && article.cover_image.image" quality="80" width="64" height="64" fit="cover" :src="thumbImgUrl" role="presentation" />
     </span>
     <span class="text" :style="{backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
       <span class="f-serif subheading" v-html="alias ? alias : titleBilingual"></span>
@@ -47,6 +47,16 @@ export default {
         return this.article.title
       }
     },
+    thumbImgUrl(){
+      if(!this.article.cover_image.image) return
+      const imgUrl = this.$img(this.article.cover_image.image, { 
+        width: 64,
+        height: 64,
+        quality: 80,
+        fit: 'cover'
+      })
+      return imgUrl
+    }
   }
 }
 </script>
