@@ -79,3 +79,13 @@ blockquote{
   margin: 2.5rem auto;
   width: 90%;
 }
+
+// Mobile specific styles
+
+.nuxt-content{
+  p, ul, h2, h3, h4{
+    @media screen and (max-width: @mq-s) /* Mobile */ {
+      font-size: 83.333%;
+    }
+  }
+}
