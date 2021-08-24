@@ -44,7 +44,7 @@ The two elephant bulls living at the Berlin Zoological Garden in the 1880s, "Ros
 
 <figure>
 
-![Black and white photograph: Two elephants and three caretakers in peaked caps, in front of a high fence](images\cmw\Elefant_Omar.jpg)
+![Black and white photograph: Two elephants and three caretakers in peaked caps, in front of a high fence](images/cmw/Elefant_Omar.jpg)
 
 <figcaption>
 
@@ -296,7 +296,7 @@ Die beiden Elefantenbullen des Berliner Zoologischen Gartens in den 1880er Jahre
 
 <figure>
 
-![Schwarz-weiß Foto: Zwei Elefanten und drei Pfleger mit Schirmmützen vor hohem Zaun](images\cmw\Elefant_Omar.jpg)
+![Schwarz-weiß Foto: Zwei Elefanten und drei Pfleger mit Schirmmützen vor hohem Zaun](images/cmw/Elefant_Omar.jpg)
 
 <figcaption>
 

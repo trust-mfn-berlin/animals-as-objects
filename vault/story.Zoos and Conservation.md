@@ -23,7 +23,7 @@ English content goes here.
 Ich arbeite jetzt seit sechs Jahren mit vollem Zugang zum Berliner Zoo und seinen Archiven - und häufig auch seinen Tieren. Und immer noch zieht es mich oft bei meinen Wegen durch den Zoo zum Außengehege der Orang-Utans. Ich verstehe die Faszination, die von diesen Primaten mit ihrem roten Fell und ihren merkwürdig anmutenden Wangenwülsten für viele Menschen ausgeht. Orang-Utans haben europäische Besucher\*innen seit ihrer Erstausstellung XXXX in XXX stets fasziniert. Wie alle Primaten gehören siw in den mordernen Zoos zu den Tieren mit der höchsten Anziehungskraft. Ihre Ähnlichkeit im Aussehen und Verhalten hat den menschlichen Blick in Zoos stets herausgefordert.
 Anhand der Geschichte der Haltung dieser Art lassen sich zudem einige wichtige Entwicklungen der Natur- und Habitatschutzidee in Zoos illustrieren.
 
-![desc](images\cmw\Orang_Utan_Enche.jpg)
+![desc](images/cmw/Orang_Utan_Enche.jpg)
 _Männlicher Orang-Utan "Enche", 2016. (Zoologischer Garten Berlin, Alle Rechte vorbehalten.)_
 
 ## Sich ändernde Legitimitätsgrundlagen
@@ -54,7 +54,7 @@ Andere Teilnehmer verwiesen auf der Tagung auf eine mögliche Preistreiberei, we
 
 Dathe und Klös waren Mitte der 1960er Jahre mit ihrer Position zum Umgang mit gefährdeten Arten nicht allein. Es sollte jedoch gefragt werden, ob denn die beiden in diesem Moment nicht möglicherweise einen Zielkonflikt hatten. Die Haltung von Menschenaffen brachte und bringt für Zoos ein großes Prestige unter den Kolleginnen und Kollegen mit sich und viele Besucher\*innen sind von ihnen, insbesondere den Orang-Utans angezogen. In der Konkurrenz der beiden Tiergärten in der geteilten Stadt spielten diese attraktiven Schautiere sicher eine Rolle. Sowohl der Zoo als auch der Tierpark hatten in den vorangegangenen Jahren Wildfänge dieser Art gekauft und bemühten sich um eine eigene Zucht. Obwohl beide sich dem Artenschutz verschrieben hatten, könnten hier egoistische Motive eines Wettkampfs um diese populären Tiere eine Rolle gespielt haben. Heinrich Dathe war es endlich geglückt ein Menschenaffenhaus zu bauen, welches 1964 eröffnet wurde. Darin befanden sich auch drei Orang-Utans, die 1960 und 1961 gekommen waren. Sicher erhoffte sich Heinrich Dathe mit dem einen Weibchen und den zwei Männchen, eine Zucht aufzubauen, muss sich aber im Klaren gewesen sein, dass er weitere Individuen der Art brauchen würde.
 
-![desc](images\cmw\Orangs_Bubi_Nakal_1959.jpg)
+![desc](images/cmw/Orangs_Bubi_Nakal_1959.jpg)
 _Postkarte des Zoologischen Gartens mit den beiden Orang-Utan-Jungtieren "Nakal" und "Bubi", 1959._
 
 Sein Kollege in West-Berlin konnte bereits 1963 erste Nachzuchten erzielen, aber ein Junges verstarb und der deutlich im Geschäftsbericht artikulierte Wunsch des Aufbaus einer Zucht und des Anknüpfens an Erfolge der 1920er Jahre in der Orang-Utan-Zucht würde weitere Importe bedingen. Der Geschäftsbericht sprach auch deutlich von der Gefährdung der Art und formulierte eine Erhaltungszuchtpolitik für Zoos.
@@ -102,7 +102,7 @@ Auf der Sitzung des Internationalen Verbands der Zoodirektoren, dem Vorgänger d
 
 https://www.karlsruhe.de/b3/freizeit/zoo/profil/natur_artenschutz/zuchtprogramme.de
 
-![desc](images\cmw\Orang_Utan_Jung_Rieke_Wiegen.JPG)
+![desc](images/cmw/Orang_Utan_Jung_Rieke_Wiegen.JPG)
 _Orang-Utan-Jungtier "Rieke" beim Wiegen, 2020. (Zoologischer Garten Berlin, Alle Rechte vorbehalten)_
 
 ## Bullfrog
@@ -125,7 +125,7 @@ Daraus folge dann eben der Zweck des Verbands:
 
 Auf der Webpage zur derzeitigen Artenschutzstrategie des Verbandes "lauerte" im Sommer 2021 passend ein Orang-Utan.
 
-![desc](images\cmw\Orang_Conservation_WAZA.JPG)
+![desc](images/cmw/Orang_Conservation_WAZA.JPG)
 
 Das Tier eignete sich in den Augen des Verbandes also als Botschafter des Artenschutzes - so wie eins [["Knut"|story.Knut]] als Botschafter für den Schutz seines arktischen Habitats galt.
 

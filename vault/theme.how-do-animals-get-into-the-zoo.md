@@ -113,7 +113,7 @@ Such movements of animals between zoos could serve, on the one hand, to introduc
 
 First, however, awareness for this problem had to emerge. Between 1950 and 1952, hippopotamus calves were twice bred successfully at the Berlin Zoo with the only surviving Berlin hippopotamus, a bull named "Knautschke". Zoo director Katharina Heinroth and her Leipzig colleague Karl Max Schneider had arranged a breeding exchange. The Leipzig hippopotamus cow "Grete" came to Berlin for the purpose of breeding. The first male offspring went to Leipzig, the second, female hippo calf "Bulette" stayed in Berlin. Together they bred further young, among others the calf "Jette".[^10] That this constituted a clear case of inbreeding does not seem to have posed a problem for the directors at the time.
 
-![Black and white photograph: three hippos half submerged in water. The animal in the middle is smaller, all look to the left to the edge of the pool.](images\cmw\Knautschke_Bulette_Jette_Foto_Kurt_Hoppe.jpg)
+![Black and white photograph: three hippos half submerged in water. The animal in the middle is smaller, all look to the left to the edge of the pool.](images/cmw/Knautschke_Bulette_Jette_Foto_Kurt_Hoppe.jpg)
 
 _The hippos "Knautschke" (bottom), the young animal "Jette" (middle) and "Bulette" (top), around 1959. (AZGB, photo Hoppe. All rights reserved.)_
 
@@ -289,7 +289,7 @@ Solche Verschiebungen von Tieren zwischen Zoos konnten zum einen dazu dienen, ne
 
 Das Bewusstsein für diese Problematik musste aber erst noch entstehen. Im Berliner Zoo kam es zwischen 1950 und 1952 zweimal zu erfolgreichen Nachzuchten von Flussspferdkälbern mit dem einzig überlebenden Berliner Flusspferd, einem Bullen namens "Knautschke". Die Zoodirektorin Katharina Heinroth und ihr Leipziger Kollege Karl Max Schneider hatten einen Zuchttausch vereinbart. Die Leipziger Flusspferdkuh "Grete" kam zur Fortpflanzung nach Berlin. Der erste männliche Nachwuchs ging nach Leipzig, das zweite, weibliche Flusspferdkalb "Bulette" blieb in Berlin. Zusammen züchteten sie Nachkommen, unter anderem das Kalb "Jette".[^10] Die ausgeprägte Inzucht scheint in diesem Fall für die Zeitgenoss\*innen nicht problematisch gewesen zu sein.
 
-![Schwarz-weiß Foto: drei halb im Wasser untergetauchte Flusspferden. Das Tier in der Mitte ist ein Jungtier, alle schauen nach links zum Beckenrand.](images\cmw\Knautschke_Bulette_Jette_Foto_Kurt_Hoppe.jpg)
+![Schwarz-weiß Foto: drei halb im Wasser untergetauchte Flusspferden. Das Tier in der Mitte ist ein Jungtier, alle schauen nach links zum Beckenrand.](images/cmw/Knautschke_Bulette_Jette_Foto_Kurt_Hoppe.jpg)
 
 _Die Flusspferde "Knautschke" (unten), Jungtier "Jette" (mittig) und "Bulette" (oben), um 1959. (AZGB, Foto Hoppe. Alle Rechte vorbehalten.)_
 

@@ -40,7 +40,7 @@ Heute werden weder im Berliner Zoo noch in anderen deutschen Zoos Raubtiere in d
 
 
 
-![Kleinkinder spielen in einem Kinderwagen mit jungen Raubkatzen](images\cmw\Tierkinderzoo_1936.jpg)
+![Kleinkinder spielen in einem Kinderwagen mit jungen Raubkatzen](images/cmw/Tierkinderzoo_1936.jpg)
 _Bild des 'Tierkinderzoos' von 1936. (AZGB)_ [[story.löwenbabys]]
 
 

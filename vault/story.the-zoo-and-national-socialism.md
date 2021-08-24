@@ -55,7 +55,7 @@ In January 1934, Göring had presented his plans for the Schorfheide to some for
 
 <figure>
 
-![Black and white photograph: Entrance gate of Berlin Zoo supported by two elephant sculptures. Three men are standing in front of the entrance. Two of them wear zoo staff uniforms.](images\cmw\elephant-gate-berlin-zoo-1938.jpg)
+![Black and white photograph: Entrance gate of Berlin Zoo supported by two elephant sculptures. Three men are standing in front of the entrance. Two of them wear zoo staff uniforms.](images/cmw/elephant-gate-berlin-zoo-1938.jpg)
 
 <figcaption>
 
@@ -439,7 +439,7 @@ Göring hatte im Januar 1934 im Kreise einiger Forstbeamter seine Pläne für di
 
 <figure>
 
-![Schwarz-weiß Foto: Eingangstor des Berliner Zoos gestützt durch zwei Elefantenskulpturen. Drei Männer stehen vor dem Eingang. Zwei von ihnen tragen Zoouniformen.](images\cmw\elephant-gate-berlin-zoo-1938.jpg)
+![Schwarz-weiß Foto: Eingangstor des Berliner Zoos gestützt durch zwei Elefantenskulpturen. Drei Männer stehen vor dem Eingang. Zwei von ihnen tragen Zoouniformen.](images/cmw/elephant-gate-berlin-zoo-1938.jpg)
 
 <figcaption>
 
