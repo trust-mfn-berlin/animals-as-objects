@@ -23,6 +23,7 @@ export default {
 
 <style lang="less" scoped>
 footer{
+  flex-grow: 1;
   position: relative;
   background-color: @bg;
   display: flex;

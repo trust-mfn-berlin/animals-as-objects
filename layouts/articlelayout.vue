@@ -91,4 +91,15 @@ export default {
   flex-direction: column;
   justify-content: center;
 }
+
+.layout-container{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    min-height: unset;
+    display:unset;
+  }
+}
 </style>

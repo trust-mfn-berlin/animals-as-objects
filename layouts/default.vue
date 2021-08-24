@@ -74,5 +74,13 @@ export default {
 <style lang="less" scoped>
 .layout-container{
   padding-top: 6rem;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    min-height: unset;
+    display:unset;
+  }
 }
 </style>
