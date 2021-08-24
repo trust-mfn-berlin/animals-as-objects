@@ -8,7 +8,7 @@
     </section>
     <section class="routes-intro">
       <h2>Curated Routes</h2>
-      <nuxt-content :document="page"/>
+      <nuxt-content id="articlebody" :document="page"/>
     </section>
     <section class="routes">
       <curated-routes-list :routes="routes" />

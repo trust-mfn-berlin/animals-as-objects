@@ -93,3 +93,14 @@ figcaption{
 em{
   font-style: italic;
 }
+
+
+// Mobile specific styles
+
+#articlebody{
+  p, ul, h4{
+    @media screen and (max-width: @mq-s) /* Mobile */ {
+      font-size: 83.333%;
+    }
+  }
+}

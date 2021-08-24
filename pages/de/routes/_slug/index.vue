@@ -12,7 +12,7 @@
     <main>
 
     <section class="introduction">  
-      <div class="introduction-inner">
+      <div class="introduction-inner" id="articlebody">
         <p class="f-serif">{{route.into_text.text_de}}</p>
         <text-button v-if="route.pdf" type="anchor" :linkto="route.pdf">PDFs runterladen</text-button>
       </div>

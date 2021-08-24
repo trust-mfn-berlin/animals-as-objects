@@ -5,7 +5,7 @@
     </hgroup>
     <div class="container-inner">
       <main >
-        <nuxt-content :document="page" />
+        <nuxt-content id="articlebody" :document="page" />
         <logo-block />
       </main>
       <aside class="f-mono quote">

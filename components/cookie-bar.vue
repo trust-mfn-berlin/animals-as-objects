@@ -74,6 +74,7 @@ export default{
     // justify-content: space-between;
     padding:@space-s;
     label{
+      min-height: 44px;
       margin-right: @space-xs;
       // padding:0;
       // background-color: transparent;
