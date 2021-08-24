@@ -166,7 +166,7 @@ export default {
         { hid: 'description', name: 'description', content: this.article.author + ' | ' + this.article.desc },
         { property:'og:image', 'content': this.seoImageUrl, hid: 'og:image'},
       ],
-      title: 'Animals as Objects? ' + this.article.title + ' by ' + this.article.author
+      title: 'Animals as Objects? ' + this.article.title
       
     };
   },
