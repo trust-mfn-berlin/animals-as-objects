@@ -1,5 +1,5 @@
 <template>
-  <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual" @mouseover.native="onMouseover" @mouseleave.native="onMouseleave">
+  <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual">
     <span class="thumbnail-wrap">
     <img v-if="thumbImgUrl" quality="80" width="64" height="64" fit="cover" :src="thumbImgUrl" role="presentation" />
     </span>
