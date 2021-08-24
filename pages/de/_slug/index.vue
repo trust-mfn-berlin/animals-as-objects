@@ -23,7 +23,7 @@
       <article-routes/>
     </section>
   </main>
-  <sidebar :article="article" :footnotes="footnotes" :activeFootnote="activeFootnote"/>
+  <sidebar :article="article" :footnotes="fn.de" :activeFootnote="activeFootnote"/>
   </div>
 </template>
 
@@ -102,9 +102,9 @@ export default {
       if(window.innerWidth < 501) this.$store.commit('toggleSidebar', false);
     }
     // copy footnotes into sidebar
-    if(document.getElementsByClassName('footnotes')[0]){
-      this.footnotes = document.getElementsByClassName('footnotes')[0].innerHTML;
-    }
+    // if(document.getElementsByClassName('footnotes')[0]){
+    //   this.footnotes = document.getElementsByClassName('footnotes')[0].innerHTML;
+    // }
 
     // remove footnotes from dom(?) 
     // document.getElementsByClassName('footnotes')[0].remove()
@@ -118,24 +118,48 @@ export default {
   },
   async asyncData({ $content, params, error, payload }) {
     var article = {};
-
-    // console.log(payload);
+    var fn = {};
 
     if(payload){
       article = await payload
-      // console.log('PAYLOAD', article);
-      return { article }
+      fn = article.fn;
+      if(article.hasFootnotes){
+        for (let i = 0; i < fn.de.body.children[3].children.length; i++) {
+        const element = fn.de.body.children[3].children[i];
+          if(element.props){
+            if(element.props.id){
+              fn.de.body.children[3].children[i].props.id = "sidebar-" + element.props.id;
+            }
+          }
+        }
+      }
+      return { 
+        article, 
+        fn 
+      }
     } else {
       // console.log('no payload, fetching fresh data')
     try {
       const data = await $content(params.slug).fetch();
       article = data;
+      fn = article.fn;
+      if(article.hasFootnotes){
+        for (let i = 0; i < fn.de.body.children[3].children.length; i++) {
+        const element = fn.de.body.children[3].children[i];
+          if(element.props){
+            if(element.props.id){
+              fn.de.body.children[3].children[i].props.id = "sidebar-" + element.props.id;
+            }
+          }
+        }
+      }
     } catch (e) {
       error({ message: e });
     }
 
     return {
       article,
+      fn
     };
     }
   },

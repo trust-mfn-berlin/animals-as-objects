@@ -167,30 +167,31 @@ export default {
         }
       
       // SEPARATE FOOTNOTES INTO SEPARATE AST TREE
-      var lastNode = document.body.children[document.body.children.length - 1];
+      const lastNodeEn = document.body.children[document.body.children.length - 1];
+      const lastNodeDe = document.body.children[document.body.children.length - 1];
 
-      if(lastNode){
-        if(lastNode.props){
-          if(lastNode.props.className == 'footnotes'){
+      document.fn = {
+        en:{
+          body: {}
+        },
+        de:{
+          body: {}
+        }
+      };
+
+      if(lastNodeEn){
+        if(lastNodeEn.props){
+          if(lastNodeEn.props.className == 'footnotes'){
             document.hasFootnotes = true;
-            document.fn = {
-              en:{
-                body: lastNode
-              }
-            };
-
-            for (let i = 0; i < document.fn.en.body.children[3].children.length; i++) {
-              const element = document.fn.en.body.children[3].children[i];
-              if(element.props){
-                if(element.props.id){
-                  document.fn.en.body.children[3].children[i].props.id = "sidebar-" + element.props.id;
-                }
-              }
-              
-            }
-
-
-            
+            document.fn.en.body = lastNodeEn
+          }
+        }
+      }
+      if(lastNodeDe){
+        if(lastNodeDe.props){
+          if(lastNodeDe.props.className == 'footnotes'){
+            document.hasFootnotes = true;
+            document.fn.de.body = lastNodeDe
           }
         }
       }

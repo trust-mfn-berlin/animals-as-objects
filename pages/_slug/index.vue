@@ -132,6 +132,17 @@ export default {
       article = await payload;
       fn = article.fn;
       store.commit('setArticleTaoType', article.tao_type);
+      if(article.hasFootnotes){
+        for (let i = 0; i < fn.en.body.children[3].children.length; i++) {
+          const element = fn.en.body.children[3].children[i];
+          if(element.props){
+            if(element.props.id){
+              fn.en.body.children[3].children[i].props.id = "sidebar-" + element.props.id;
+            }
+          }
+        }
+      }
+
       return { 
         article,
         fn
@@ -143,6 +154,18 @@ export default {
         article = data;
         fn = article.fn;
         store.commit('setArticleTaoType', article.tao_type);
+        // Change ID for separate footnotes
+        if(article.hasFootnotes){
+        for (let i = 0; i < fn.en.body.children[3].children.length; i++) {
+          const element = fn.en.body.children[3].children[i];
+            if(element.props){
+              if(element.props.id){
+                fn.en.body.children[3].children[i].props.id = "sidebar-" + element.props.id;
+              }
+            }
+          }
+        }
+
       } catch (e) {
         error({ message: e });
       }
