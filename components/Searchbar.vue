@@ -88,6 +88,8 @@ export default {
   backdrop-filter: blur(15px);
   // height: 2rem;
 
+  .animatemedium(box-shadow);
+  
   &:hover{
     box-shadow: @shadow-hover;
   }
