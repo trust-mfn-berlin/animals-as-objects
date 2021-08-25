@@ -15,9 +15,8 @@
         :style="{zIndex : 100-i}"
         :class="article.tao_type"
       >
-        <nuxt-img 
-          quality="80" width="600" height="600" fit="cover"
-          :src="article.cover_image.image"
+        <img 
+          :src="article.cover_image.image.replace('/images/','/thumbnails/l/')"
           :alt="article.cover_image.alt"
         />
       </figure>
