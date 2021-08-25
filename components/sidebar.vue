@@ -295,6 +295,11 @@ aside{
     ::v-deep ol{
       list-style-type: decimal;
       
+      .inline{
+        .subheading{
+          max-width: 10rem;
+        }
+      }
 
       li{
         .quote();
