@@ -26,6 +26,8 @@ colour_scheme: 9
 
 :::EN:::
 
+<figure>
+
 ![Black and white photograph: A young woman with dark hair in a light blouse, looks down at three jackdaws that sit on her arms and face towards her.](images/cmw/Magdalena_Heinroth_Dohlen_1919.jpg)
 
 <figcaption>
