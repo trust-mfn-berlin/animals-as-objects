@@ -7,7 +7,7 @@ short_desc_de: 1945 – Krise in Zoo und Stadt
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1629742878319
+updated: 1629889144665
 id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: Lucy Gasser
@@ -124,7 +124,7 @@ Yet even the support of the population was not enough. Who was actually official
 
 <figure>
 
-![Typescript. Headings: Animal holdings; Zoo feed for one month. For transcript, see link in caption.](/images/mv/feed-requirements-futtermittelbedarf.jpg)
+![Typescript. Headings: Animal holdings; Zoo feed for one month. For transcript, see link in caption.](images/feed-requirements-futtermittelbedarf.jpg)
 
 <figcaption>
 
