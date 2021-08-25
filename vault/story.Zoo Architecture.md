@@ -8,7 +8,7 @@ date_end: ""
 archived: true
 published: false
 title: Zoo Architecture
-updated: 1628860608515
+updated: 1629885874801
 id: e47d02d6-04d0-4cee-9dd9-41600707ed5a
 desc: Put a description of this note here...
 desc_de: Put a DE description of this note here...
@@ -22,8 +22,6 @@ date_start: ""
 
 
 :::DE:::
-
-**Clemens Maier-Wolthausen**
 
 # Entwurf Stichworte Architektur
 
