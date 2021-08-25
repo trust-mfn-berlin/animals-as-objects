@@ -23,10 +23,10 @@ desc_de: Als 1960 im Berliner Zoo ein Elefant starb, lautete die Diagnose
   allem was und wieviel?
 short_desc: Who (over)feeds zoo animals?
 cover_image:
-  image: /images/cover-overfeeding.jpg
-  alt: Bild newspaper headline on the elephant "Jambo's" illness due to
-    overfeeding, Berlin 1960. Schlagzeile der Bild-Zeitung zu Elefant "Jambos"
-    Erkrankung durch Überfütterung, Berlin 1960.
+  image: /images/cover-overfeeding-newspaper-taegliche-rundschau.jpg
+  alt: "Feeding as an act of sharing in the Berlin postwar zoo. Füttern als ein
+    Akt des Teilens im Berliner Nachkriegszoo. Source: Tägliche Rundschau,
+    03.07.1946."
 tao_type: story
 date_start: 1871-12-31T23:06:32.000Z
 ---
