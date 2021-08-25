@@ -7,7 +7,7 @@ short_desc_de: Auf den Spuren eines Elefanten
 date_end: 1947-12-31T11:00:00.000Z
 published: false
 title: The Afterlife of Zoo Animals
-updated: 1629743667918
+updated: 1629888310600
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 translators:
   translator_de_en: Lucy Gasser
@@ -71,7 +71,7 @@ One of the trails leads to the Zoological Museum Berlin, which was a part of the
 
 ![Shelf with three boards on which several elephant skulls are stored](images/mv/elephant-skulls-mammal-collection.png)
 
-![Open wooden box of lengthy bones lies on a table. A chair stands next to the table; antlers hang in the background.](images/mv/box-with-bones-mammal-collection.png)
+![Open wooden box of lengthy bones lies on a table. A chair stands next to the table; antlers hang in the background.](images/mv/bones-mammal-collection.png)
 
 </div>
 
