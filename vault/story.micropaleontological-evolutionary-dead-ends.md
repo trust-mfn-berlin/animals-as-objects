@@ -1,34 +1,30 @@
 ---
-id: 3494384f-3283-4c05-afda-b3d90e748325
-title: Micropaleontological Evolutionary Dead Ends
-desc: >-
-  As micropaleontology started to take shape in the 19th century, it seemed to
-  encounter a dead end because microfossils were interpreted to have changed
-  little over geological times.
-updated: 1628521879443
-created: 1621516485888
 license: CC BY-SA
 title_de: Mikropaläontologische evolutionäre Sackgassen
+created: 1621516485888
 author: Filippo Bertoni
 short_desc_de: Das Interesse an Mikrofossilien schien zu schwinden
-date_end: '1921-12-31T11:00:00.000Z'
+date_end: 1921-12-31T11:00:00.000Z
 published: false
+title: Micropaleontological Evolutionary Dead Ends
+updated: 1628521879443
+id: 3494384f-3283-4c05-afda-b3d90e748325
 translators:
   translator_en_de: Anna von Rath
-desc_de: >-
-  Als die Mikropaläontologie im 19. Jahrhundert Gestalt annahm, schien sie in
-  eine Sackgasse zu geraten, da Wissenschaftler*innen davon ausgingen, dass sich
-  die Mikrofossilien im Laufe der geologischen Zeit kaum verändert hatten.
+desc: As micropaleontology started to take shape in the 19th century, it seemed
+  to encounter a dead end because microfossils were interpreted to have changed
+  little over geological times.
+desc_de: Als die Mikropaläontologie im 19. Jahrhundert Gestalt annahm, schien
+  sie in eine Sackgasse zu geraten, da Wissenschaftler*innen davon ausgingen,
+  dass sich die Mikrofossilien im Laufe der geologischen Zeit kaum verändert
+  hatten.
 short_desc: Interest in microfossils seemed to fade
 cover_image:
-  image: /images/cover-micropaleo-evo-dead-ends.png
-  alt: >-
-    Caricature of Thomas Huxley from "Ballad of Bathybius" in Punch magazine,
-    1888. Karikatur von Thomas Huxley aus "Ballad of Bathybius" in Punch
-    Magazine, 1888. Source:
-    https://heidicon.ub.uni-heidelberg.de/api/v1/objects/uuid/5333ea03-1eea-4335-a9f4-7035bd9a2fb7/format/xslt/detail
+  image: /images/cover-dead-ends-bathybius_haeckelii_haeckel_1870.png
+  alt: "A lithographic illustration of Bathybius haeckelii. Lithographische
+    Illustration von Bathybius haeckelii. Source: Ernst Haeckel, 1870."
 tao_type: story
-date_start: '1849-12-31T23:06:32.000Z'
+date_start: 1849-12-31T23:06:32.000Z
 ---
 
 :::EN:::
