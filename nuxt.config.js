@@ -76,8 +76,7 @@ export default {
   modules: [
     '@nuxt/content',
     '@nuxtjs/axios',
-    'cookie-universal-nuxt',
-    '@nuxt/image'
+    'cookie-universal-nuxt'
   ],
 
   axios:{
@@ -97,11 +96,7 @@ export default {
 
       ],
       rehypePlugins: [
-        ['~plugins/img-to-nuxt-img.js',{
-          width:"",
-          fit:"",
-          quality:"90"
-        }]
+        
       ]
     }
   },
