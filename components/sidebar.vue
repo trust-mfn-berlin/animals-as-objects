@@ -290,6 +290,10 @@ aside{
     ::v-deep hr{
       display:none
     }
+
+    ::v-deep .wiki-link-component{
+      bottom: 0;
+    }
     // font-size: @fs-s;
 
     ::v-deep ol{

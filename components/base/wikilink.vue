@@ -60,7 +60,8 @@
 span{
   display: inline-block;
   position: relative;
-  bottom: -0.33333rem;
+  vertical-align: bottom;
+  bottom: 0.3rem;
 }
 
 .error{

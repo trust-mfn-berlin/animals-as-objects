@@ -10,7 +10,8 @@
 // Components
 
 ::v-deep .wiki-link-component{
-  bottom:-1mm;
+  // bottom:-1mm;
+  bottom:0.2rem;
   .thumbnail-wrap{
     height: unset;
   }
@@ -225,6 +226,13 @@ blockquote{
       }
     }
     // display: none;
+
+    ::v-deep .wiki-link-component{
+      bottom: 0;
+      .text{
+        padding: 1mm;
+      }
+    }
   }
 }
 
