@@ -286,6 +286,12 @@ aside{
     }
   }
 
+  .text-links{
+    a{
+      word-break: break-all;
+    }
+  }
+
   .footnotes-inner{
     ::v-deep hr{
       display:none
@@ -304,6 +310,8 @@ aside{
           max-width: 10rem;
         }
       }
+
+      
 
       li{
         .quote();
