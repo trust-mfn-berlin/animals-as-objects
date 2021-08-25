@@ -8,7 +8,7 @@
       <p class="intro">
         Erfahren Sie mehr über unerwartete Verbindungen zwischen einigen der beliebtesten Berliner Tiere und zahlreichen weniger charismatischen oder berühmten Exemplaren, indem Sie sich durch unsere <span class="theme tao_type"><em>Themen</em></span>, <span class="story tao_type"><em>Storys</em></span> und <span class="material tao_type"><em>Materien</em></span> klicken. <em>Themen</em> zeigen größere Zusammenhänge auf und verbinden verschiedene <em>Storys</em>, die wiederum Anekdoten, Praktiken und <em>Materien</em> miteinander verweben – eben die spezifischen Dinge, Dokumente und Momente, die die Verwandlung von Tieren in Objekte markieren.
       </p>
-      <Cascade :articles="articles" />
+      <Cascade :articles="rngArticles" />
       <text-button linkto="/de/articles">Alle Artikel ansehen</text-button>
     </section>
 
@@ -34,29 +34,24 @@ export default {
   components:{
     graph
   },
+  data(){
+    return{
+      max:{
+        total:21, //Total maximum articles in the homepage cascade
+        t: 2, //Themes
+        m: 10, //Materials
+        s: 3 //Stories
+      },
+      rngArticles:[]
+    }
+  },
   async asyncData({ $content }) {
     const content = await $content().without(['body', 'body_de']).fetch();
     const routes = await $content('/netlify/pathways').fetch();
 
-    var articles = [];
-    
     var t = [];
     var m = [];
     var s = [];
-
-    var max = {
-      total: 21,
-      t: 2,
-      m: 10,
-      s: 3
-    };
-
-
-    var counters = {
-      t:0,
-      m:0,
-      s:0
-    }
     
     content.forEach(article => {
       if(article.archived != true){
@@ -72,59 +67,83 @@ export default {
       }
     });
 
-    for (let index = 0; index < max.total; index = index+3) {
-      const rngT = Math.floor(Math.random() * (t.length -1))
-      const randomTheme = t[rngT]
+    return {
+      t, m, s, routes
+    };
+  },
+  methods:{
+    randomiseArticles(){
+      
+      var counters = {
+        t:0,
+        m:0,
+        s:0
+      }
 
-      if(!articles.includes(randomTheme) && counters.t < max.t){
-        articles.push(randomTheme)
+      for (let index = 0; index < this.max.total; index = index+3) {
+      const rngT = Math.floor(Math.random() * (this.t.length -1))
+      const randomTheme = this.t[rngT]
+
+      if(!this.rngArticles.includes(randomTheme) && counters.t < this.max.t){
+        this.rngArticles.push(randomTheme)
         counters.t++
       }
 
-      const rngM = Math.floor(Math.random() * (m.length -1))
-      const randomMaterial = m[rngM]
+      const rngM = Math.floor(Math.random() * (this.m.length -1))
+      const randomMaterial = this.m[rngM]
 
-      if(!articles.includes(randomMaterial) && counters.m < max.m){
-        articles.push(randomMaterial)
+      if(!this.rngArticles.includes(randomMaterial) && counters.m < this.max.m){
+        this.rngArticles.push(randomMaterial)
         counters.m++
       }
 
-      const rngS = Math.floor(Math.random() * (s.length -1))
-      const randomStory = s[rngS]
+      const rngS = Math.floor(Math.random() * (this.s.length -1))
+      const randomStory = this.s[rngS]
 
-      if(!articles.includes(randomStory) && counters.s < max.s){
-        articles.push(randomStory)
+      if(!this.rngArticles.includes(randomStory) && counters.s < this.max.s){
+        this.rngArticles.push(randomStory)
         counters.s++
       }
 
     }
 
-    var currentIndex = articles.length,  randomIndex;
+      var currentIndex = this.rngArticles.length,  randomIndex;
 
-    // While there remain elements to shuffle...
-    while (0 !== currentIndex) {
+      // While there remain elements to shuffle...
+      while (0 !== currentIndex) {
 
-      // Pick a remaining element...
-      randomIndex = Math.floor(Math.random() * currentIndex);
-      currentIndex--;
+        // Pick a remaining element...
+        randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex--;
 
-      // And swap it with the current element.
-      [articles[currentIndex], articles[randomIndex]] = [
-        articles[randomIndex], articles[currentIndex]];
+        // And swap it with the current element.
+        [this.rngArticles[currentIndex], this.rngArticles[randomIndex]] = [
+          this.rngArticles[randomIndex], this.rngArticles[currentIndex]];
+      }
+
+      // console.log('randomised');
+      this.$store.commit('setRngArticles', this.rngArticles);
     }
-
-    return {
-      articles, routes
-    };
-  },
-  methods:{
   },
   created(){
-    this.$store.commit('setSiteLanguage', 'de')
+    this.$store.commit('setSiteLanguage', 'de');
   },
   mounted(){
     document.documentElement.style.setProperty("--selection-bg", "#ccc");
     this.$store.commit('toggleMobileMenu', false);
+
+    if(this.$store.getters.rngArticles.length != 0){
+      this.rngArticles = this.$store.getters.rngArticles;
+    } else {
+      this.randomiseArticles();
+    }
+
+    if(window){
+      if(window.innerWidth > 501){
+        this.$store.commit('toggleSidebar', true)
+      }
+    }
+
   },
   head() {
     return {

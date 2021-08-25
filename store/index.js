@@ -18,7 +18,8 @@ const createStore = () => {
       colours: importColours,
       articleTaoType: '',
       citationModal: {isOpen:false, article:{}},
-      trackingEnabled: false
+      trackingEnabled: false,
+      rngArticles:[]
     },
     mutations: {
       setLoadedArticles(state, articles) {
@@ -60,6 +61,9 @@ const createStore = () => {
       },
       enableTracking(state){
         state.trackingEnabled = true
+      },
+      setRngArticles(state, articles){
+        state.rngArticles = articles
       }
     },
     actions: {
@@ -111,6 +115,9 @@ const createStore = () => {
       },
       isTrackingEnabled(state){
         return state.trackingEnabled
+      },
+      rngArticles(state){
+        return state.rngArticles
       }
     }
   })
