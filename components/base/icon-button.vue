@@ -17,9 +17,11 @@
       <path d="M0.875 13.4489L12.975 1.34888L25.0751 13.4489" />
     </svg>
     <svg v-if="icon == 'ham'" :stroke="useColourScheme ? 'var(--current-scheme-fg)' : 'white'"  viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <line x1="19.5391" y1="0.676758" x2="0.98118" y2="0.676756" stroke="white"/>
-      <line x1="19.5391" y1="8.67676" x2="0.98118" y2="8.67676" stroke="white"/>
-      <line x1="19.5391" y1="16.6768" x2="0.98118" y2="16.6768" stroke="white"/>
+      <g>
+        <line x1="19.5391" y1="0.676758" x2="0.98118" y2="0.676756" stroke="white"/>
+        <line x1="19.5391" y1="8.67676" x2="0.98118" y2="8.67676" stroke="white"/>
+        <line x1="19.5391" y1="16.6768" x2="0.98118" y2="16.6768" stroke="white"/>
+      </g>
     </svg>
   </button>
 </template>
