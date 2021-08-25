@@ -322,18 +322,6 @@ export default {
     for (let bl = 0; bl < this.backlinks.length; bl++) {
       const b = this.backlinks[bl];
       
-      
-      if(b.cover_image){
-        if(b.cover_image.image){
-          b.thumbnail = this.$img(b.cover_image.image, { 
-            width: 64,
-            height: 64,
-            quality: 80,
-            fit: 'cover'
-          })
-        }
-      }
-
       this.backlinksTransformed.push(b);
     }
 

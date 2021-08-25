@@ -39,17 +39,6 @@ export default {
     }
   },
   computed:{
-    thumbImgUrl(){
-      if(!this.article.cover_image) return
-      if(!this.article.cover_image.image) return
-      const imgUrl = this.$img(this.article.cover_image.image, { 
-        width: 600,
-        height: 600,
-        quality: 80,
-        fit: 'cover'
-      })
-      return imgUrl
-    },
     isToday(){
       const endDate = this.$options.filters.formatDateYear(this.article.date_end)
       if(endDate == '2021' || endDate == 2021 || endDate == '2022' || endDate == 2022 || endDate == '2023' || endDate == 2023){

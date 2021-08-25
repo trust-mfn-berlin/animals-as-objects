@@ -2,12 +2,12 @@
   <nuxt-link :to="'/routes/' + route.slug" class="curated-route">
     <h4 class="subheading">{{titleBilingual}}</h4>
     <div class="thumbnail-wrapper" v-for="(article, index) in fetchedArticles" :key="index" :class="article.tao_type" >
-      <nuxt-img  
+      <img  
         v-if="article.cover_image && article.cover_image.image" 
         
-        width="64" height="64" :src="article.cover_image.image"
+        width="64" height="64" :src="article.cover_image.image.replace('/images/','/thumbnails/s/')"
         
-      ></nuxt-img>
+      />
     </div>
   </nuxt-link>
 </template>

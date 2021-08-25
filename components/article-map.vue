@@ -4,14 +4,14 @@
       <transition name="fade">
       <figure v-show="currentSlide == index" >
         <div class="img-wrap" >
-          <nuxt-img v-if="siteLang == 'de' && slide.map_image_de" width="1600" height="1400" :src="slide.map_image_de" alt="Map Image"/> 
-          <nuxt-img v-else width="1600" height="1400" :src="slide.map_image" alt="Map Image"/>
+          <img v-if="siteLang == 'de' && slide.map_image_de" width="1600" height="1400" :src="slide.map_image_de" alt="Map Image"/> 
+          <img v-else width="1600" height="1400" :src="slide.map_image" alt="Map Image"/>
         </div>
         <figcaption ref="caption">
           <div class="heading-wrap">
             <h3 class="subheading">{{siteLang == 'en' ? slide.title : slide.title_de}}</h3>
             <div class="caption-img-wrap">
-              <nuxt-img v-if="slide.caption_image" width="250" height="250" :src="slide.caption_image.src" :alt="slide.caption_image.alt" /> 
+              <img v-if="slide.caption_image" width="250" height="250" :src="slide.caption_image.src" :alt="slide.caption_image.alt" /> 
             </div>
           </div>
           <p class="f-serif quote">{{siteLang == 'en' ? slide.caption : slide.caption_de}}</p>

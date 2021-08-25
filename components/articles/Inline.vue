@@ -47,17 +47,6 @@ export default {
         return this.article.title
       }
     },
-    thumbImgUrl(){
-      if(!this.article.cover_image) return
-      if(!this.article.cover_image.image) return
-      const imgUrl = this.$img(this.article.cover_image.image, { 
-        width: 64,
-        height: 64,
-        quality: 80,
-        fit: 'cover'
-      })
-      return imgUrl
-    }
   }
 }
 </script>
