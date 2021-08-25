@@ -99,7 +99,7 @@ export default {
 
   @media screen and (max-width: @mq-s) /* Mobile */ {
     min-height: unset;
-    display:unset;
+    display:block;
   }
 }
 </style>
