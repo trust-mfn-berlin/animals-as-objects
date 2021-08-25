@@ -69,8 +69,7 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
-    '@nuxtjs/style-resources',
-    '@nuxt/image'
+    '@nuxtjs/style-resources'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -78,6 +77,7 @@ export default {
     '@nuxt/content',
     '@nuxtjs/axios',
     'cookie-universal-nuxt',
+    '@nuxt/image'
   ],
 
   axios:{

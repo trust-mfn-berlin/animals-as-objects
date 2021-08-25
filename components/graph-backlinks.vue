@@ -251,8 +251,8 @@ export default {
 
       node.append("image")
         .attr("xlink:href", function(d){
-          if (d.thumbnail){
-            return d.thumbnail
+          if (d.cover_image && d.cover_image.image){
+            return d.cover_image.image.replace('/images/','/thumbnails/s/')
           }
         })
         .attr("x", this.attr.nodeSize*-0.6)
@@ -325,13 +325,13 @@ export default {
       
       if(b.cover_image){
         if(b.cover_image.image){
-            b.thumbnail = this.$img(b.cover_image.image, { 
-              width: 64,
-              height: 64,
-              quality: 80,
-              fit: 'cover'
-            })
-          }
+          b.thumbnail = this.$img(b.cover_image.image, { 
+            width: 64,
+            height: 64,
+            quality: 80,
+            fit: 'cover'
+          })
+        }
       }
 
       this.backlinksTransformed.push(b);

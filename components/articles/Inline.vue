@@ -1,7 +1,7 @@
 <template>
   <nuxt-link class="inline" :class="article.tao_type" :to="urlBilingual">
     <span class="thumbnail-wrap">
-    <img v-if="thumbImgUrl" quality="80" width="64" height="64" fit="cover" :src="thumbImgUrl" role="presentation" />
+      <img v-if="article.cover_image && article.cover_image.image" :src="article.cover_image.image.replace('/images/','/thumbnails/s/')" role="presentation" />
     </span>
     <span class="text" :style="{backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
       <span class="f-serif subheading" v-html="alias ? alias : titleBilingual"></span>

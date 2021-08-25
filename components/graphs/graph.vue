@@ -304,35 +304,35 @@ export default {
         node.append("image")
           .attr("xlink:href", function(d){
             if (d.cover_image && d.cover_image.image){
-              return d.cover_image.image 
+              return d.cover_image.image.replace('/images/','/thumbnails/l/');
             }
           })
           .attr('x', function(d , i){
             if(d.index === 0){
-              return that.attr.rootNodeSize * -1
+              return that.attr.rootNodeSize * -0.5
             } else {
-              return that.attr.nodeSize * -1
+              return that.attr.nodeSize * -0.5
             }
           })
           .attr('y', function(d , i){
             if(d.index === 0){
-              return that.attr.rootNodeSize * -1
+              return that.attr.rootNodeSize * -0.5
             } else {
-              return that.attr.nodeSize * -1
+              return that.attr.nodeSize * -0.5
             }
           })
           .attr('width', function(d , i){
             if(d.index === 0){
-              return that.attr.rootNodeSize * 2
+              return that.attr.rootNodeSize
             } else {
-              return that.attr.nodeSize * 2
+              return that.attr.nodeSize
             }
           })
           .attr('height', function(d , i){
             if(d.index === 0){
-              return that.attr.rootNodeSize * 2
+              return that.attr.rootNodeSize
             } else {
-              return that.attr.nodeSize * 2
+              return that.attr.nodeSize
             }
           })
           .attr("clip-path", function(d){
