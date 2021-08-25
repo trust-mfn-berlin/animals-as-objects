@@ -22,7 +22,7 @@ desc_de: Was passiert mit Zootieren nach ihrem Tod, wie werden ihre
   des europäischen Kolonialismus.
 short_desc: On the trail of an elephant
 cover_image:
-  image: /images/cover-feeding-and-use-elephant.jpg
+  image: /images/cover-elephant-skulls-mammal-collection.png
   alt: "Elephant skulls in the mammal collection of Berlin's natural history
     museum. Elefantenschädel in der Säugetiersammlung des Berliner
     Naturkundemuseums. Source: Museum für Naturkunde Berlin, photo Mareike
