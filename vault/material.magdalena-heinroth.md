@@ -1,19 +1,17 @@
 ---
 license: CC BY-SA
+title: Magdalena Heinroth
 title_de: Magdalena Heinroth
 created: 1619797161333
-author: Clemens Maier-Wolthausen
-short_desc_de: Foto von Magdalena Heinroth mit drei Dohlen
-date_end: 1945-12-31T11:00:00.000Z
-published: false
-title: Magdalena Heinroth
 updated: 1629736360827
 id: 95617cbe-704d-46c1-b0b5-05d178ec363d
+author: Clemens Maier-Wolthausen
 translators:
   translator_de_en: Lucy Gasser
 desc: Photograph of Magdalena Heinroth with three jackdaws
 desc_de: Foto von Magdalena Heinroth mit drei Dohlen
 short_desc: Photograph of Magdalena Heinroth with three jackdaws
+short_desc_de: Foto von Magdalena Heinroth mit drei Dohlen
 cover_image:
   image: /images/cover-magdalena-heinroth.jpg
   alt: "Berlin zoologist Magdalena Heinroth with three jackdaws, 1919. Berliner
@@ -21,9 +19,13 @@ cover_image:
     Heinroth. All rights reserved."
 tao_type: material
 date_start: 1919-12-31T23:00:00.000Z
+date_end: 1945-12-31T11:00:00.000Z
+published: false
 ---
 
 :::EN:::
+
+<figure>
 
 ![Black and white photograph: A young woman with dark hair in a light blouse, looks down at three jackdaws that sit on her arms and face towards her.](images/cmw/Magdalena_Heinroth_Dohlen_1919.jpg)
 
