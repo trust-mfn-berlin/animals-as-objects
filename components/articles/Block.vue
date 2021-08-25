@@ -108,6 +108,7 @@ article{
     box-shadow: @shadow;
     padding: @space-l;
     display: inline-block;
+    overflow-y: hidden;
 
     // .animatepop(transform);
     .animatefast(all);
@@ -135,6 +136,8 @@ article{
       max-height: 7rem;
       flex-grow: 1;
       width: 0;
+      // overflow-y:hidden;
+      // text-overflow: ellipsis;
     }
 
     
