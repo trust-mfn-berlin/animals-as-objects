@@ -1,16 +1,36 @@
 ---
-id: kZTLAIf7pRRgEPPJbtGqA
-title: Inventory Books
-desc: Put a description of this note here...
-updated: 1629792912565
-created: 1629792912565
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Inventarbücher
+created: 1629792912565
+author: Theresa Schatt
+short_desc_de: Wie werden die Objekte einer Lehrsammlung verzeichnet?
+date_end: 1968-12-31T11:00:00.000Z
 published: false
+title: Inventory Books
+updated: 1629792912565
+id: kZTLAIf7pRRgEPPJbtGqA
+translators:
+  translator_de_en: Lydia J. White
+desc: EN Die Inventarbücher der Zoologischen Lehrsammlung der Berliner
+  Universität zeigen, dass die wandelbaren Verzeichnungsformen durch praktische
+  Ansprüche der Lehrtätigkeit, Krieg, Verluste und wissenschaftliche Neuerungen
+  geprägt wurden. Die detektivische Suche nach einem präparierten Dornhai-Embryo
+  ergibt, dass das Präparat in der Lehrsammlung zu verschiedenen Zeiten unter
+  den Nummern 1888, 1208 und 2488 verzeichnet worden war.
+desc_de: Die Inventarbücher der Zoologischen Lehrsammlung der Berliner
+  Universität zeigen, dass die wandelbaren Verzeichnungsformen durch praktische
+  Ansprüche der Lehrtätigkeit, Krieg, Verluste und wissenschaftliche Neuerungen
+  geprägt wurden. Die detektivische Suche nach einem präparierten Dornhai-Embryo
+  ergibt, dass das Präparat in der Lehrsammlung zu verschiedenen Zeiten unter
+  den Nummern 1888, 1208 und 2488 verzeichnet worden war.
+short_desc: EN Wie werden die Objekte einer Lehrsammlung verzeichnet?
+cover_image:
+  image: /images/cover-inventory-books-inventarbuecher-zoologische-lehrsammlung-zoological-teaching-collection-berlin.png
+  alt: "Inventory V(1) of the Berlin university's Zoological Teaching Collection.
+    Inventar V(1) der Zoologischen Lehrsammlung der Berliner Universität.
+    Source: Zoologische Lehrsammlung. All rights reserved."
+tao_type: story
+date_start: 2021-08-26T20:01:38.589Z
 ---
 
 
