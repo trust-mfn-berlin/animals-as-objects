@@ -4,7 +4,7 @@ title_de: Maulbeerspinner in Papiermaché
 created: 1629796212936
 author: Britta Lange
 short_desc_de: Clastique-Modell einer Seidenraupe
-date_end: ""
+date_end: 1900-12-31T11:00:00.000Z
 published: false
 title: Silkworm in Papier-Maché
 updated: 1629798056217
@@ -16,7 +16,7 @@ desc_de: Clastique-Modell einer Seidenraupe
 short_desc: EN Clastique-Modell einer Seidenraupe
 cover_image: null
 tao_type: material
-date_start: ""
+date_start: 1819-12-31T23:06:32.000Z
 ---
 
 :::EN:::
