@@ -4,7 +4,7 @@ title_de: Seidenraupen
 created: 1629986374819
 author: Britta Lange
 short_desc_de: Spuren von Bäumen und Tieren in Berlin
-date_end: 2021-08-26T14:34:05.158Z
+date_end: 2021-08-26T14:37:08.305Z
 published: false
 title: Silkworms
 updated: 1629987994818
@@ -29,7 +29,7 @@ cover_image:
   alt: "Mulberry tree at the Museum of Natural History Berlin, 2021. Maulbeerbaum
     am Museum für Naturkunde Berlin, 2021. Source: Foto Britta Lange."
 tao_type: story
-date_start: ""
+date_start: 1702-12-31T23:07:09.241Z
 ---
 
 <figure>
