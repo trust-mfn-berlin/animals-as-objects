@@ -2,7 +2,7 @@
 id: EjCkhWUz4D4DXc9ANY8bc
 title: Somsoplast – Plastic Animal Models
 desc: EN Materialien des Modellbaus
-updated: 1629799930054
+updated: 1629982467648
 created: 1629799783441
 title_de: Somsoplast – Tiermodelle aus Plastik
 desc_de: Materialien des Modellbaus
@@ -25,7 +25,19 @@ EN content
 
 <figcaption>
 
-_Image caption (less than 200 characters) and source._
+_Modell eines Kartoffelkäfers aus Plastik von der Firma Somso, Datierung unbekannt. (Zoologische Lehrsammlung)_
+
+</figcaption>
+
+</figure>
+
+<figure>
+
+![image description for accessibility](/images/example/hippo.jpg)
+
+<figcaption>
+
+_Modell eines Kartoffelkäfers aus Papiermaché von Alfred Keller, ca. 1940-1941. (Zoologische Lehrsammlung)_
 
 </figcaption>
 
