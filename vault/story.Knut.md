@@ -5,7 +5,12 @@ desc: Put a description of this note here...
 updated: 1622728802538
 created: 1618576718116
 title_de: Knut
-desc_de: Der 2006 geborene Eisbär "Knut" entwickelte eine bis dahin für ein einzelnes Zootier ungekannte Popularität. Medien und Zooleitung machten ihn zu einem 'Botschafter' der Klimakrise, die das Habitat der Eisbären bedrohte. Die starke Übertragung von Emotionen von Besucher\*innen und Fans in aller Welt auf das Tier wirkte über seinen Tod hinaus.
+desc_de: >-
+  Der 2006 geborene Eisbär "Knut" entwickelte eine bis dahin für ein einzelnes
+  Zootier ungekannte Popularität. Medien und Zooleitung machten ihn zu einem
+  'Botschafter' der Klimakrise, die das Habitat der Eisbären bedrohte. Die
+  starke Übertragung von Emotionen von Besucher\*innen und Fans in aller Welt
+  auf das Tier wirkte über seinen Tod hinaus.
 author: CMW
 tao_type: story
 cover_image: null
@@ -157,7 +162,7 @@ Die unzähligen Kommentare und Reaktionen auf den facebook-Post zeigen, dass Zoo
 ![desc](images/cmw/Dorfleinpost_220920_Komentarspalte.PNG)
 *Kommentare auf den Post des Fördervereins Freunde der Hauptsstadtzoos auf Facebook vom 22.09.2020*
 
-Anders als bei "Knut" 2013 gab es 1935 - selbst wenn sich die Quellen einer funktionierenden Zivilgesellschaft einer Demokratie und denen einer Diktatur nicht vergleichen lassen - keine Diskussion über die Ausstellung des damals höchst beliebten Gorilla "Bobby" [[story.Bobby life]]. Dessen Totenmaske hing passenderweise im Präparierraum des Naturkundemuseums.
+Anders als bei "Knut" 2013 gab es 1935 - selbst wenn sich die Quellen einer funktionierenden Zivilgesellschaft einer Demokratie und denen einer Diktatur nicht vergleichen lassen - keine Diskussion über die Ausstellung des damals höchst beliebten Gorilla "Bobby" [[story.bobby]]. Dessen Totenmaske hing passenderweise im Präparierraum des Naturkundemuseums.
 
 ![desc](images/cmw/130114_Knut_06.jpg)
 *"Knut in der Präparationswerkstatt des Naturkundemuseums. Im Hintergrund die Totenmaske von "Bobby", 2013.(Carola Radke, MfN 2013)*

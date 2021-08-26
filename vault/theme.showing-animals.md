@@ -67,7 +67,7 @@ Von Anfang an gehörten Restaurationen, die Möglichkeit, sich zu treffen und Ge
 
 ## Die Stars: "Bobby", "Knut" oder "Viktor"
 
-[[story.Bobby life]]
+[[story.bobby]]
 [[story.Knut]]
 
 ## Kinderzoo

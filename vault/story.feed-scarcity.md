@@ -1,35 +1,38 @@
 ---
-license: CC BY-SA
-title_de: Futternot
-created: 1621497485660
-author: Mareike Vennen
-short_desc_de: 1945 – Krise in Zoo und Stadt
-date_end: 1950-12-31T11:00:00.000Z
-published: false
-title: Feed Scarcity
-updated: 1629889144665
 id: d54394f6-1188-4ec3-b590-da329e657560
-translators:
-  translator_de_en: Lucy Gasser
-desc: How did the largely destroyed Berlin Zoological Garden manage to keep its
+title: Feed Scarcity
+desc: >-
+  How did the largely destroyed Berlin Zoological Garden manage to keep its
   animals alive after the Second World War? What role did food insecurity in the
   city play in this? Zoo and urban society entered into new relations during
   this crisis – between support and competition – which temporarily changed the
   role and function of the zoo.
-desc_de: Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten
-  nach dem Zweiten Weltkrieg, seine Tiere durchzubringen? Welche Rolle spielte
-  dabei die Ernährungslage Berlins? Zoo und Stadtgesellschaft gingen in dieser
-  Krise neue Verbindungen ein – zwischen Unterstützung und Konkurrenz, was die
-  Rolle und Funktion des Zoos zeitweise veränderte.
+updated: 1629889144665
+created: 1621497485660
+license: CC BY-SA
+title_de: Futternot
+author: Mareike Vennen
+short_desc_de: 1945 – Krise in Zoo und Stadt
+date_end: '1950-12-31T11:00:00.000Z'
+published: false
+translators:
+  translator_de_en: Lucy Gasser
+desc_de: >-
+  Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten nach dem
+  Zweiten Weltkrieg, seine Tiere durchzubringen? Welche Rolle spielte dabei die
+  Ernährungslage Berlins? Zoo und Stadtgesellschaft gingen in dieser Krise neue
+  Verbindungen ein – zwischen Unterstützung und Konkurrenz, was die Rolle und
+  Funktion des Zoos zeitweise veränderte.
 short_desc: 1945 – crisis in zoo and city
 cover_image:
   image: /images/cover-food-shortage.jpg
-  alt: "Vegetable cultivation in the treeless Großer Tiergarten in Berlin in 1946,
+  alt: >-
+    Vegetable cultivation in the treeless Großer Tiergarten in Berlin in 1946,
     with Reichstag building in the background. Gemüseanbau im abgeholzten Großen
     Tiergarten in Berlin 1946, im Hintergrund das Reichstagsgebäude. Source:
-    Bundesarchiv image 183-M1015-314, photo Otto Donath."
+    Bundesarchiv image 183-M1015-314, photo Otto Donath.
 tao_type: story
-date_start: 1944-12-31T23:00:00.000Z
+date_start: '1944-12-31T23:00:00.000Z'
 ---
 
 :::EN:::
@@ -175,7 +178,7 @@ Even before the war, people had turned to the zoo for advice on keeping their pe
 **The Berlin Zoological Garden was not just sought out to provide expertise in animal keeping and breeding; it was integrated into the very supply infrastructure of the city.** In 1945, at the request of the district authority for the Tiergarten neighbourhood, it took 250 dairy goats into its care "in order to make a contribution to securing the people's food supply."[^28] We do not know exactly how this cooperation worked, or how long it lasted. It is known that such arrangements could lead to conflicts over animal feed. When the British military government asked the zoo to take on more domestic animals for the Tiergarten district, Katharina Heinroth replied that the zoo did not have enough feed to do so. The British commander in charge replied that the elephant and other animals would then have to be given to other zoos to provide resources for the farm animals.
 For the zoo, however, animals coveted by the public were their economic and symbolic capital: "As a zoological garden we would have no interest at all in offering our visitors goats or sheep instead of animals from elsewhere. People don't come to the zoo to look at chickens or goats, and since we have to live on our income, we could soon have to close the zoo."[^29] This crystallises the question of what is constitutive of a zoo and its purpose, and which animal species it should primarily exhibit.
 
-During these years, the question of whether the zoo would be forced to slaughter some of its holdings or give animals away due to feed shortages was, in fact, constantly in the room.[^30] After only 80 animals had survived at the end of the war, by September 1945, the zoo had 240 animals again – many of which it had taken over from a circus. **But on 10 November 1945, the Allied command imposed a ban on the zoo acquiring large animals**, as no feed could be provided for more animals, especially large animals that required good meat or large quantities of green fodder, and the struggling supply infrastructure in Berlin was not to be further burdened, see also [[story.Landwirtschaftliche Tiere]].[^31] Several times, the British commander threatened to close the zoo and evacuate the animals to the West. Katharina Heinroth was always able to ward this off.[^32]
+During these years, the question of whether the zoo would be forced to slaughter some of its holdings or give animals away due to feed shortages was, in fact, constantly in the room.[^30] After only 80 animals had survived at the end of the war, by September 1945, the zoo had 240 animals again – many of which it had taken over from a circus. **But on 10 November 1945, the Allied command imposed a ban on the zoo acquiring large animals**, as no feed could be provided for more animals, especially large animals that required good meat or large quantities of green fodder, and the struggling supply infrastructure in Berlin was not to be further burdened, see also [[story.farm-animals]].[^31] Several times, the British commander threatened to close the zoo and evacuate the animals to the West. Katharina Heinroth was always able to ward this off.[^32]
 
 **The British commander rather had in mind a display model for keeping domestic animals.** A strain of Leghorn chicks, a few sheep and goat lambs, breeding pairs of rabbits and ducklings that the zoo had reared or bred were to "provide an incentive for the population to keep animals simply, and could serve to produce breeding material to help gradually replenish the livestock in and around Berlin."[^33] **In times of need, the functions of the zoo as institution, and the views of what its tasks were thus underwent change.** Different expectations were placed on it by the Allies, the magistrate and the population, and new tasks were set for it. Although, in the end, the display model for farm animal keeping and breeding was not realised, the zoo became – sometimes against the will of its director – a place for the production of food for animals and humans. It emerged as a hub where, via correspondence, animals and knowledge were exchanged, and nutritional issues were discussed. At the same time, the zoo continued to adhere with great perseverance to the programmatic and not least financially motivated aspiration of exhibiting animals with popular appeal from all over the world.
 
