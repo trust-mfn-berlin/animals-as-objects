@@ -30,7 +30,7 @@ cover_image:
     Inventar V(1) der Zoologischen Lehrsammlung der Berliner Universität.
     Source: Zoologische Lehrsammlung. All rights reserved."
 tao_type: story
-date_start: 2021-08-26T20:01:38.589Z
+date_start: 1883-12-31T23:06:32.000Z
 ---
 
 
