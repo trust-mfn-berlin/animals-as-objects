@@ -7,7 +7,7 @@ short_desc_de: 28.8.5.7-4 in einer Sammlung von Codes
 date_end: 1892-12-31T11:06:32.000Z
 published: false
 title: Common Seadragon
-updated: 1629798605847
+updated: 1630021659854
 id: 4TOAlxsuxdlxsQcZI2vRT
 translators:
   translator_de_en: Lydia J. White
@@ -31,11 +31,11 @@ EN content
 
 <figure>
 
-![Leicht vergilbte Karteikarte mit maschinen- und handschriftlichen Eintragungen. Für Transkript, siehe unten.](/images/example/hippo.jpg)
+![Leicht vergilbte Karteikarte mit maschinen- und handschriftlichen Eintragungen. Für Transkript, siehe unten.](images/common-seadragon-index-card-kleiner-fetzenfisch-karteikarte.jpg)
 
 <figcaption>
 
-_Verzeichnis eines Nasspräparats des kleinen Fetzenfisches in der Zoologischen Lehrsammlung der Humboldt-Universität Berlin. (ZI 2385, 2764)_
+_Verzeichnis eines Nasspräparats des kleinen Fetzenfisches in der Zoologischen Lehrsammlung der Humboldt-Universität Berlin. (Zoologische Lehrsammlung. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -45,13 +45,13 @@ _Verzeichnis eines Nasspräparats des kleinen Fetzenfisches in der Zoologischen 
 
 Die Nummer "28.8.5.7-4" für das Präparat eines Kleinen Fetzenfisches (_Phyllopteryx taeniolatus LACEPEDE_), auch Seedrache genannt, setzt sich zusammen aus der Bestimmung der taxonomischen Ränge Stamm, Klasse, Ordnung und Art, die dieses präparierte Tier damit als "Seenadelfisch" identifizieren. Die abgebildete Zettelkarte zeigt eine Legende, die diese Ableitung nachvollzieht. Von der größten Einheit, des Stamms (28), der hier die Gruppe der Chordatiere (Chordata) bestimmt bis zur kleinsten Kategorie, der Art (4), die in diesem Fall einen Kleinen Fetzenfisch beschreibt. Tiere, die dieser Art zugeordnet werden können, sind demzufolge Wirbeltiere (Vertebrata – ein Unterstamm der Chordatiere), gehören der Klasse (8) der Fische (Pisces) mit der Teilklasse (5) der Echten Knochenfische (Teleostei) an und sind seenadelartig (Syngnathiformes) entsprechend der Rangstufe der Ordnung (7).
 
-Das Prinzip der Zahlencodes in der Lehrsammlung ist komplex und dennoch instabil, vor allem wenn es darum geht, die stetige Entwicklung des taxonomischen Systems nachzuvollziehen. Neue Spezies werden entdeckt, Abgrenzungen bestimmter Rangstufen werden aufgelöst oder neue Zwischenkategorien setzen sich durch. Hinzu kommt, dass in der Lehrsammlung einige Objekte eine zusätzliche Ziffer erhalten und zusammen gruppiert bzw. aufgestellt werden, aufgrund ihrer Objektart. Grund dafür ist die zweckmäßig geprägte Aufbewahrung für den Lehrbetrieb. Es ist dann Aufgabe der [[Sammlungsmitarbeiter\*innen|story.interview-ines-drescher]] die Nummerierungen anzupassen, Etiketten umzukleben und die Karteikarten sowie Objekte neu zu ordnen.
+**Das Prinzip der Zahlencodes in der Lehrsammlung ist komplex und dennoch instabil, vor allem wenn es darum geht, die stetige Entwicklung des taxonomischen Systems nachzuvollziehen. Neue Spezies werden entdeckt, Abgrenzungen bestimmter Rangstufen werden aufgelöst oder neue Zwischenkategorien setzen sich durch.** Hinzu kommt, dass in der Lehrsammlung einige Objekte eine zusätzliche Ziffer erhalten und zusammen gruppiert bzw. aufgestellt werden, aufgrund ihrer Objektart. Grund dafür ist die zweckmäßig geprägte Aufbewahrung für den Lehrbetrieb. Es ist dann Aufgabe der [[Sammlungsmitarbeiter\*innen|story.interview-ines-drescher]] die Nummerierungen anzupassen, Etiketten umzukleben und die Karteikarten sowie Objekte neu zu ordnen.
 
 ## Transkript
 
 >28.8.5.7-4
 >
->28.Ph CHORDATA / 3.sPh VERTEBRATA / 8.C1 PISCES / 2.sC1 Osteichthyes / 1.S0 Actinopterygii / 5.0 Teleostei / 7.s0 Syngnathiformes Seenadelfische
+>28.Ph CHORDATA / 3.sPh VERTEBRATA / 8.C1 PISCES / 2.sC1 Osteichthyes / 1.S0 Actinopterygii / 5.0 Teleostei / 7.s0 Syngnathiformes / Seenadelfische
 >
 >Phyllopteryx (elongatus CAST.) [handschriftlich über den Klammern:] taeniolatus LACEPEDE / kleiner Fetzenfisch
 >
