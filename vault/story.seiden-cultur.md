@@ -2,7 +2,7 @@
 id: isUsK2mnx8uIqaTJ60nYR
 title: EN Seiden-Cultur
 desc: Put a description of this note here...
-updated: 1629996899286
+updated: 1629997538686
 created: 1629996091814
 title_de: Seiden-Cultur
 desc_de: Put a DE description of this note here...
@@ -13,6 +13,11 @@ license: CC BY-SA
 published: false
 ---
 
+:::EN:::
+
+EN content goes here.
+
+:::DE:::
 
 Hinweise zur Geschichte des Seidenbaus ins Preußen finden sich in den Forschungsarbeiten der Preußischen Akademie der Wissenschaften. Sie befasste sich in den 1880er und 1890er-Jahren umfassend mit dem merkantilistischen Wirtschaftssystem unter der Regierung Friedrichs des Großen und publizierte umfangreiche Quellen aus dem 18. Jahrhundert sowie entsprechende historische Analysen zu verschiedenen Industrieformen in der Reihe _Acta Borussica_. Als Erstes erschienen im Jahr 1882 drei Bände zur "Preußischen Seidenindustrie"[^1], die sie als Erfolgsmodell darstellten.
 
