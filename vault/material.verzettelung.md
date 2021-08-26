@@ -1,16 +1,25 @@
 ---
-id: A8Dh5fk6b52EJQRaw3Qe4
-title: Verzettelung
-desc: Put a description of this note here...
-updated: 1629792930385
-created: 1629792930385
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: DE Verzettelung
+created: 1629792930385
+author: Theresa Schatt
+short_desc_de: Wissensorganisation dank loser Zettel
+date_end: 2021-08-26T23:55:43.591Z
 published: false
+title: Verzettelung
+updated: 1629792930385
+id: A8Dh5fk6b52EJQRaw3Qe4
+translators:
+  translator_de_en: Lydia J. White
+desc: EN Wissensorganisation dank loser Zettel
+desc_de: Wissensorganisation dank loser Zettel
+short_desc: EN Wissensorganisation dank loser Zettel
+cover_image:
+  image: /images/cover-karteikarten-index-card-system-zoological-teaching-collection-zoologische-lehrsammlung.png
+  alt: "Index card inventory. Zettelkasten-Inventar. Source: Zoological Teaching
+    Collection Berlin, photo Theresa Schatt."
+tao_type: material
+date_start: 1967-12-31T23:00:00.000Z
 ---
 
 
