@@ -1,12 +1,12 @@
 ---
 id: isUsK2mnx8uIqaTJ60nYR
-title: Seiden Cultur
+title: EN Seiden-Cultur
 desc: Put a description of this note here...
 updated: 1629996899286
 created: 1629996091814
-title_de: Add a german title here
+title_de: Seiden-Cultur
 desc_de: Put a DE description of this note here...
-author: Author name(s) here.
+author: Britta Lange
 tao_type: story
 cover_image: null
 license: CC BY-SA
