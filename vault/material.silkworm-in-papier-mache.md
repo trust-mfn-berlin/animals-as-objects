@@ -14,7 +14,12 @@ translators:
 desc: EN Clastique-Modell einer Seidenraupe
 desc_de: Clastique-Modell einer Seidenraupe
 short_desc: EN Clastique-Modell einer Seidenraupe
-cover_image: null
+cover_image:
+  image: /images/cover-silkworm-papier-mache-auzoux-zoological-teaching-collection.jpg
+  alt: "Silkworm model by Louis Auzoux in the Zoological Teaching Collection,
+    Berlin. Seidenraupenmodell von Louis Auzoux in der Zoologischen
+    Lehrsammlung, Berlin. Source: Zoologische Lehrsammlung, photo Kerstin
+    Stoll."
 tao_type: material
 date_start: 1819-12-31T23:06:32.000Z
 ---
