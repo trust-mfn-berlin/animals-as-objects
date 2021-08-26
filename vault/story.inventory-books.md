@@ -43,7 +43,7 @@ Die Objekte einer Lehrsammlung erfüllen vor allem eine Funktion: Sie sollen Wis
 
 <figure>
 
-![Schwarz-weiß Foto: Unterrichtsraum mit 15 Personen im Hintergrund, viele mit Schnurrbart. Im Vordergrund li. Mann in weißem Kittel, re. Mann mit weißem Vollbart in schwarzem Mantel. Vorne stehen schwer erkennbare Objekte auf einem Tisch. Hinten hängen 5 Poster mit großen Abbildungen.]( images/guests/classroom-zoological-institute-unterricht-zoologisches-institut-berlin-franz-eilhard-schulze.png)
+![Schwarz-weiß Foto: Unterrichtsraum mit 15 Personen im Hintergrund, viele mit Schnurrbart. Im Vordergrund li. Mann in weißem Kittel, re. Mann mit weißem Vollbart in schwarzem Mantel. Vorne stehen schwer erkennbare Objekte auf einem Tisch. Hinten hängen 5 Poster mit großen Abbildungen.](images/guests/classroom-zoological-institute-unterricht-zoologisches-institut-berlin-franz-eilhard-schulze.png)
 
 <figcaption>
 
