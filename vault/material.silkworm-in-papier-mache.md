@@ -1,16 +1,22 @@
 ---
-id: kaVI1pTyKCM8SvVsrYrSJ
-title: Silkworm in Papier-Maché
-desc: Put a description of this note here...
-updated: 1629798056217
-created: 1629796212936
-title_de: Maulbeerspinner in Papiermaché
-desc_de: Clastique-Modell einer Seidenraupe
-author: Britta Lange
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Maulbeerspinner in Papiermaché
+created: 1629796212936
+author: Britta Lange
+short_desc_de: Clastique-Modell einer Seidenraupe
+date_end: ""
 published: false
+title: Silkworm in Papier-Maché
+updated: 1629798056217
+id: kaVI1pTyKCM8SvVsrYrSJ
+translators:
+  translator_de_en: Lydia J. White
+desc: EN Clastique-Modell einer Seidenraupe
+desc_de: Clastique-Modell einer Seidenraupe
+short_desc: EN Clastique-Modell einer Seidenraupe
+cover_image: null
+tao_type: material
+date_start: ""
 ---
 
 :::EN:::
