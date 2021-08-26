@@ -26,7 +26,7 @@ cover_image:
   image: /images/cover-seide-maulbeerspinner-silk-silkworm-museum-naturkunde-natural-history-berlin.jpg
   alt: "Showcase with silkworms and silk in the Natural History Museum Berlin.
     Schaukasten mit Seidenraupen und Seide im Museum für Naturkunde Berlin.
-    Source: Museum für Naturkunde. Alle Rechte vorbehalten."
+    Source: Museum für Naturkunde. All rights reserved."
 tao_type: story
 date_start: ""
 ---
