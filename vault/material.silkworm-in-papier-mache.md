@@ -18,8 +18,8 @@ cover_image:
   image: /images/cover-silkworm-papier-mache-auzoux-zoological-teaching-collection.jpg
   alt: "Silkworm model by Louis Auzoux in the Zoological Teaching Collection,
     Berlin. Seidenraupenmodell von Louis Auzoux in der Zoologischen
-    Lehrsammlung, Berlin. Source: Zoologische Lehrsammlung, photo Kerstin
-    Stoll."
+    Lehrsammlung, Berlin. Source: Zoologische Lehrsammlung, photo Kerstin Stoll.
+    All rights reserved."
 tao_type: material
 date_start: 1819-12-31T23:06:32.000Z
 ---
