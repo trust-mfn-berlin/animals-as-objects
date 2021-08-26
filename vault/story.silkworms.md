@@ -1,16 +1,35 @@
 ---
-id: GDcruELihUsAdF7btC6KD
-title: Silkworms
-desc: Put a description of this note here...
-updated: 1629987994818
-created: 1629986374819
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Seidenraupen
+created: 1629986374819
+author: Britta Lange
+short_desc_de: Spuren von Bäumen und Tieren in Berlin
+date_end: 2021-08-26T14:34:05.158Z
 published: false
+title: Silkworms
+updated: 1629987994818
+id: GDcruELihUsAdF7btC6KD
+translators:
+  translator_de_en: Lydia J. White
+desc: EN Warum gibt es in Berlin Maulbeerbäume? Ihre Geschichte ist heute fast
+  vergessen. Dabei waren sie einst unverzichtbar für den Seidenbau, der im 18.
+  und 19. Jahrhundert in Berlin und Brandenburg betrieben wurde. Was können die
+  Bäume heute noch erzählen – über die Verbindungen von _Morus alba_ und
+  Seidenraupe, von Philosophie und Ökonomie, von königlichen Dekreten und
+  Alltagswissen?
+desc_de: Warum gibt es in Berlin Maulbeerbäume? Ihre Geschichte ist heute fast
+  vergessen. Dabei waren sie einst unverzichtbar für den Seidenbau, der im 18.
+  und 19. Jahrhundert in Berlin und Brandenburg betrieben wurde. Was können die
+  Bäume heute noch erzählen – über die Verbindungen von _Morus alba_ und
+  Seidenraupe, von Philosophie und Ökonomie, von königlichen Dekreten und
+  Alltagswissen?
+short_desc: EN Spuren von Bäumen und Tieren in Berlin
+cover_image:
+  image: /images/old-mulberry-tree-alter-maulbeerbaum-berlin-museum-fuer-naturkunde-natural-history-museum.jpg
+  alt: "Mulberry tree at the Museum of Natural History Berlin, 2021. Maulbeerbaum
+    am Museum für Naturkunde Berlin, 2021. Source: Foto Britta Lange."
+tao_type: story
+date_start: ""
 ---
 
 <figure>
