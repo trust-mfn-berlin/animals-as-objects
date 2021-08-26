@@ -4,7 +4,7 @@ title_de: Seiden-Cultur
 created: 1629996091814
 author: Britta Lange
 short_desc_de: Zur Geschichte des Seidenbaus in Preußen
-date_end: ""
+date_end: 1885-12-31T11:06:32.000Z
 published: false
 title: EN Seiden-Cultur
 updated: 1629996899286
@@ -28,7 +28,7 @@ cover_image:
     Schaukasten mit Seidenraupen und Seide im Museum für Naturkunde Berlin.
     Source: Museum für Naturkunde. All rights reserved."
 tao_type: story
-date_start: ""
+date_start: 1679-12-31T23:06:32.000Z
 ---
 
 :::EN:::
