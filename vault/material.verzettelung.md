@@ -1,12 +1,12 @@
 ---
 license: CC BY-SA
-title_de: DE Verzettelung
+title_de: Verzettelung
 created: 1629792930385
 author: Theresa Schatt
 short_desc_de: Wissensorganisation dank loser Zettel
 date_end: 2021-08-26T23:55:43.591Z
 published: false
-title: Verzettelung
+title: EN Verzettelung
 updated: 1630023341271
 id: A8Dh5fk6b52EJQRaw3Qe4
 translators:
