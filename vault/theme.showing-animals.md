@@ -2,7 +2,7 @@
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 title: Showing Animals
 desc: Put a description of this note here...
-updated: 1630100669174
+updated: 1630104358987
 created: 1618572893774
 title_de: Tiere zurschaustellen
 desc_de: Wie und warum werden Tiere in Zoos und Museen ausgestellt?
@@ -62,27 +62,27 @@ Und dieses Spektakel wurde nicht mit einheimischen Rindern erzeugt. Der französ
 
 In Berlin bemühten sich die ersten Zoodirektoren trotz knapper Mittel intensiv, Tiere anderer Kontinente zu bekommen, die den Erwartungen der Zuschauer\*innen an "Exotik" entsprachen, mehr dazu in [[story.catching-animals]]. **Zudem gesellte sich von Anfang an eine weitere Facette zum Erlebnis- und Erholungscharakter des Zoos hinzu, bei der das Zeigen der Tiere eher in den Hintergrund trat: "Restaurationen", die Möglichkeit, sich zu treffen, zu essen und Geselligkeit zu pflegen.** Die gezeigten Tiere bildeten für einige, so könnte man meinen, eine Kulisse, ein Alibi des eigentlichen Vergnügens. Im Berliner Zoo wurden auf Wunsch des Publikums die Restaurationen stetig ausgebaut, so dass 1911 das größte Restaurant nicht nur der Stadt, sondern wohl auch Europas mit mehr als 10.000 Sitzplätzen im Zoo stand.[^9] Es war auch Schauplatz von Militärmusik-Konzerten und großen Bällen.
 
-![Desc](images\cmw\Kaisersaal.jpg)
+![Großer, prächtig gestalteter Saal mit vielen kleinen weiß gedeckten Tischen und Stühlen. Verschiedene Stilrichtungen, inkl. schnörkeliger Decken- und Wanddekoration, aber auch klassizistischen Elementen wie kannelierten Säulen, runden Fenstern und figürlichem Dekor. Unter riesigem Gemälde am Ende des Saals ist eine Bühne mit kleinem Geländer.](images/cmw/Kaisersaal.jpg)
 
 _Der Kaisersaal der Zoo-Restauration, um 1910. (AZGB. Alle Rechte vorbehalten.)_
 
-![desc](images\cmw\Opernball_1914.jpg)
+![Gelbe Karte mit schwarzer Fanstasie-Drachen-Kreatur, die von kleiner Figur in weiß gepunktetem Rock an Zügeln gejalten wird. Text: Opernball im Zoo. Zum Besten der Pensionskasse des Deutschen Opernhauses. Montag d. 26. Januar 1914. Eintrittskarten zu 10 M. Mitternachts-Revue Cabaret Tombola usw. (...)](images\cmw\Opernball_1914.jpg)
 
 _Ankündigung des Opern-Balls in der Zoo-Restauration, 1914. (AZGB, Alle Rechte vorbehalten.)_
 
 **Sehen und gesehen werden wurde auf Seiten des Publikums ebenso zu einem Ziel des Zoobesuchs wie die Beobachtung von Tieren und die Aneignung naturkundlichen Wissens.** Auf den zentralen Wegeachsen zwischen dem Elefantentor und dem Eingang am Bahnhof Zoologischer Garten konnten sich die bürgerlichen Zooaktionär\*innen, das Bildungsbürgertum und die Klasse der Beamten des preußischen Staates ihren Status und ihre Netzwerke durch einen Zoobesuch festigen. **Für die Arbeiter\*innen aus den Vorstädten im Osten Berlins wurden kurz nach der Gründung sogenannte "Billige Sonntage" eingeführt, an denen der Eintrittspreis um die Hälfte reduziert war.** Laut zeitgenössischen Zeitungsberichten war der Zoo an diesen Tagen voll und das weniger betuchte Publikum labte sich an den preiswerteren gastronomischen Einrichtungen mit Bier statt Champagner und Brezel statt Kaviar.[^10] Das Ziel aller dieser Besucher\*innen war Erholung, der Schritt aus dem Alltag heraus in eine andere Welt.
 
-![desc](images\cmw\Billiger_Sonntag_1929.jpg)
+![Zeitungsblatt. Titel: Billiger Sonntag im Zoo. Links oben kleine Illustration: Fotograf macht Aufnahme einer Familie mit drei Löwenjungen auf dem Schoß. Große Illustration unten: Lachende Menschenmasse vor einem Geländer.](images\cmw\Billiger_Sonntag_1929.jpg)
 
 _Artikel zum "Billigen Sonntag" im Zoo Berlin in der Berliner Illustrierten Zeitung Nr. 38 aus dem Jahr 1929._
 
 Zum Zweck der Unterhaltung diente auch eine exotisierende Zooarchitektur, die sich seit den 1850er-Jahren in vielen europäischen Zoos einbürgerte. !<-- insert zoo architecture --> Diese Stilbauten bildeten und bilden noch heute die Kulisse für Tiere. **Das erste Berliner Großprojekt der exotisierenden Architektur war das Antilopen- und Giraffenhaus im sogenannten maurischen Stil.** Es folgten die sogenannte Elefantenpagode, die einen indischen Tempelstil nachahmte und das Straußenhaus in Anlehnung an altägyptische Tempel. Sie vermittelten stereotype Bilder von den Europäern fremden Regionen und hatten manchmal keinerlei Bezug zu den ausgestellten Tieren. So wurden in der 'indischen' Pagode neben indischen auch afrikanische Nashörner und Elefanten und im ägyptischen Tempel australische Strauße ausgestellt.
 
-![desc](images\cmw\Antilopenhaus_um_1920.jpg)
+![Gebäude mit arabischem bzw. neomaurischem Formenrepertoire, inklusive Zwillingsfenstern, geometrischem Dekor, Hufeisenbögen und schlanken Säulen und Türmen. Davor stehen zwei Giraffen hinter einem Zaun.](images\cmw\Antilopenhaus_um_1920.jpg)
 
 _Das Antilopenhaus im Berliner Zoo um 1920. (AZGB. Alle Rechte vorbehalten.)_
 
-![desc](images\cmw\PK_Elefantenpagode_1912_S_7_3.jpg)
+![Bunte Zeichnung: Elefant scheint mit seinem Rüssel die Zeichnung auf der Postkarte abzureißen und zusammenzurollen. Die untere rechte Ecke ist also leer. Hinter dem Elefant steht links ein bunter, orientalistisch anmutender Bau, rechts hinter Wasser und Bäumen steht schloss-ähnliches Gebäude mit Türmen. Unten links steht ein bärtiger Zoowärter in grüner Uniform.](images\cmw\PK_Elefantenpagode_1912_S_7_3.jpg)
 
 _Postkarte des Zoologischen Gartens Berlin mit der sogenannten Elefantenpagode, 1912. (AZGB)_
 
@@ -92,9 +92,9 @@ Für die Historikerin Christina Wessely waren diese Bauten "auf geradezu ideale 
 
 ## Bildung – Schautiere und Sammlungspraktiken
 
-Mit der erwähnten exotisierenden Architektur wurden im 19. Jahrhundert oft sehr kleine Ställe verbunden. **Auch wenn es nie Wirklichkeit wurde, Zoodirektor Ludwig Heck (Amtszeit 1888 bis 1932) hatte theoretisch das Ziel, die Fauna der Welt komplett abzubilden. Der systematische Zoo, also [[taxonomisch geordnet|theme.taxonomic-orders]], mit seinen (oft einzelnen) Exemplaren einer Gattung aus unterschiedlichen geografischen Regionen nebeneinander bot aber weder den sozial lebenden Tieren noch dem Publikum aus heutiger Sicht Vorteile. Die Tiere konnten in ihren kleinen Ställen natürliches Verhalten nicht ausleben. Das 1872 Antilopenhaus mit seinen im Oval angelegten mehr als 20 Käfigen, der Hirschpark mit seinen um 1900 mehr als 60 Gehegen oder das 1895 eröffnete Vogelhaus waren Beispiele für diese Sammlungspraxis, deren Ansprüche an Vollständigkeit gegenüber Haltungsbedingungen überwogen. In letzterem waren die Käfige dreistöckig übereinander angeordnet.[^12] Trotz ihrer exotisierenden Kulisse glichen sie "Warenhäusern”. Ihre Sammlungen aber "suggerierten die Überschaubarkeit der Welt, die keine Leerstellen, keine Unvollständigkeiten” aufwies.[^13] Im Vorbeigehen sollten die Besucher\*innen die Gemeinsamkeiten und Unterschiede erkennen und so an der Ordnung teilhaben.
+Mit der erwähnten exotisierenden Architektur wurden im 19. Jahrhundert oft sehr kleine Ställe verbunden. **Auch wenn es nie Wirklichkeit wurde, Zoodirektor Ludwig Heck (Amtszeit 1888 bis 1932) hatte theoretisch das Ziel, die Fauna der Welt komplett abzubilden. Der systematische Zoo, also [[taxonomisch geordnet|theme.taxonomical-orders]], mit seinen (oft einzelnen) Exemplaren einer Gattung aus unterschiedlichen geografischen Regionen nebeneinander bot aber weder den sozial lebenden Tieren noch dem Publikum aus heutiger Sicht Vorteile. Die Tiere konnten in ihren kleinen Ställen natürliches Verhalten nicht ausleben. Das 1872 Antilopenhaus mit seinen im Oval angelegten mehr als 20 Käfigen, der Hirschpark mit seinen um 1900 mehr als 60 Gehegen oder das 1895 eröffnete Vogelhaus waren Beispiele für diese Sammlungspraxis, deren Ansprüche an Vollständigkeit gegenüber Haltungsbedingungen überwogen. In letzterem waren die Käfige dreistöckig übereinander angeordnet.[^12] Trotz ihrer exotisierenden Kulisse glichen sie "Warenhäusern”. Ihre Sammlungen aber "suggerierten die Überschaubarkeit der Welt, die keine Leerstellen, keine Unvollständigkeiten” aufwies.[^13] Im Vorbeigehen sollten die Besucher\*innen die Gemeinsamkeiten und Unterschiede erkennen und so an der Ordnung teilhaben.
 
-![desc](images\cmw\Vogelhaus_innen.jpg)
+![Schmales, hohes Gebäude mit Deckenlichtern und großen Fensterbögen und dekorativen Säulen. Linke Wand vollständig mit reihenweise Vogelkäfigen bebaut. Sechs-eckiges Häuschen rechts im Bild mit großem Schild "Rechts gehen!" Eine einzelne Person steht vor der Käfigwand, mit einer Hand auf der Stange, die als Absperrung dient.](images\cmw\Vogelhaus_innen.jpg)
 
 _Das Innere des Vogelhauses des Berliner Zoos, um 1930. (AZGB. Alle Rechte vorbehalten)_
 
@@ -108,7 +108,7 @@ Auf einer Tagung des 1935 gegründeten internationalen Verbandes der Zoodirektor
 
 In den Anfangsjahrzehnten der meisten in der zweiten Hälfte des 18. Jahrhunderts gegründeten Zoos stand – zumindest in den Augen der Leitungen – vor allem der wissenschaftliche Mehrwert der Tiersammlungen im Vordergrund. **Zoos waren Orte, an denen die Tierwelt klassifiziert und inventarisiert wurde, also die Fauna der Welt nicht nur gezeigt, sondern erstmals erfasst wurde.** Tiere aus allen Weltteilen wurden zum ersten Mal im Berliner Zoo gehalten und dort oder nach ihrem Ableben im Museum für Naturkunde als Spezies zum ersten Mal beschrieben.[^17] Museumskurator Paul Matschie beschrieb beispielsweise die ostafrikanische Zibetkatze aus dem Vergleich eines Zootieres und Museumspräparaten. Die letzten im Berliner Zoo lebenden Exemplare des Quagga, Beutelwolfs und des Schomburgkhirschs wurden zu Typusexemplaren im Naturkundemuseum.[^18]
 
-![desc](images\cmw\Quagga_MfN.jpg)
+![Länglicher Schädel in Beigetönen mit grauen und schwarzen Verfärbungen. Schneidezähne sehr weit vorne in Schnauze, restliche Zähne weiter hinten in den Backen. Schwarze Schrift auf dem Oberkiefer: 4832 Equus quagga L. weiblich quagga Süd-Afrika Z.S. Auf dem Unterkiefer: 4832.](images\cmw\Quagga_MfN.jpg)
 
 _Schädel eines Quagga im Museum für Naturkunde, 2020. (Foto Clemens Maier-Wolthausen/MfN. Alle Rechte vorbehalten.)_
 
@@ -122,15 +122,15 @@ Kommen wir nun zum letzten Punkt auf Hedigers Liste: dem Natur oder Artenschutz.
 
 ## Artenschutz – Anpassung und Zielsetzung
 
-Der Bronx Zoo wurde 1899 wie erwähnt gegründet, um gefährdete amerikanische Tiere zu züchten, wandelte sich aber bald vor allem in ein Freizeitangebot.[^23] Nachzuchten waren in menschlicher Obhut lange sehr selten und wurden in Berlin dann vor allem als Erfolge der Tierhaltung oder preiswerte Bereicherung der Tiersammlung angesehen. 1923 gründeten europäische Zoos dann mit der _Gesellschaft zur Erhaltung des Wisents_ zum ersten Mal eine Zuchtgemeinschaft. Mit dem Zuchtbuch für den Wisent konnte die Tierart tatsächlich vor dem [[Aussterben|story.zoos-and-conservation]] bewahrt werden. In den 1960er Jahren wurden dann einige weitere solcher Zuchtbücher in Nordamerika und Europa eingeführt. 
+Der Bronx Zoo wurde 1899 wie erwähnt gegründet, um gefährdete amerikanische Tiere zu züchten, wandelte sich aber bald vor allem in ein Freizeitangebot.[^23] Nachzuchten waren in menschlicher Obhut lange sehr selten und wurden in Berlin dann vor allem als Erfolge der Tierhaltung oder preiswerte Bereicherung der Tiersammlung angesehen. 1923 gründeten europäische Zoos dann mit der _Gesellschaft zur Erhaltung des Wisents_ zum ersten Mal eine Zuchtgemeinschaft. Mit dem Zuchtbuch für den Wisent konnte die Tierart tatsächlich vor dem [[Aussterben|story.zoos-and-conservation]] bewahrt werden. In den 1960er Jahren wurden dann einige weitere solcher Zuchtbücher in Nordamerika und Europa eingeführt.
 
-!<-- noch Bild Wisentgesellschaft einfügen -->
+<!-- noch Bild Wisentgesellschaft einfügen -->
 
 War laut Hediger die Zucht für den Arterhalt einer von vier Zoozwecken, rückte 1980 ein Vortrag des Direktors des Rotterdamer Zoos Dick van Dam auf einer Jahreskonferenz des internationalen Verbandes der Zoodirektoren die Ausstellung und Zucht bedrohter Arten erstmals in das Zentrum zukünftiger Zoostrategien. **In dem Vortrag "The Future of Zoological Gardens" führte van Dam aus, dass die Zucht bedrohter Tierarten in menschlicher Obhut zu einem zentralen Zweck von Zoos geraten müsse.** Als wichtigsten Grund hierfür sah er die finanziellen und legalen Schwierigkeiten nach dem Washingtoner Artenschutzabkommen von 1973 noch Tiernachschub für die eigenen Sammlungen zu bekommen. **Die Zucht in Zoos sollte in dieser Lesart vor allem die Attraktivität der eigenen Sammlung sichern.**[^24] Auch der Kölner Zoodirektor Gunther Nogge beschrieb noch 1993 das Artenschutzabkommen als den Grund, dass die Zoos zu "Selbstversorgern" werden mussten, was die schauwertigen aber bedrohten Tiere anbelangte.[^25] Tatsächlich aber nahm ab Ende der 1980er Jahren die Bedeutung, die Zoos dem Artenschutz in ihrem Selbstverständnis aber auch ihrer Kommunikation gaben, zu. 1994 erschien das Jubiläumsbuch des Berliner Zoos mit dem Titel _Die Arche Noah an der Spree_.
 
-![desc](images\cmw\Arche_Buch.jpg)
+![Buchcover. Oberes Drittel Illustration von zwei Wildkatzen, eine stehend, eine liegend. Unten rechts rundes Logo: Pandagesicht mit Bambuszweig, rundum gelber Ring, in dem steht "150 Jahre Zoo Berlin".](images\cmw\Arche_Buch.jpg)
 
-_Heinz-Georg Klös_, Die Arche Noah an der Spree, _Berlin 1994._
+_Heinz-Georg Klös_, Die Arche Noah an der Spree, _Berlin: FAB Verlag, 1994._
 
 Eine Möglichkeit, Themen des Arten- und Habitatschutzes in Tiergärten für ein breites Publikum umzusetzen, ist die Bezugnahme auf die sogenannten Schauwerttiere, also die Tiere, die viele Besucher\*innen anziehen. An ihren Gehegen können große Mengen von Besucher\*innen angesprochen werden. Es handelt sich in der Regel um die großen Dickhäuter, die Raubkatzen oder die 'niedlichen' Tiere.[^26] Das Interesse für diese Tiere soll, so die Hoffnung, verbunden mit entsprechenden Informationen das Interesse an ihren Lebensräumen und deren Erhaltung wecken. Zudem es soll die Einnahmen generieren, die auch das Zeigen weniger schauwertiger aber gefährdeter Arten ermöglichen. **Ideal sind aus Sicht der Zoos die Flaggschiff-Arten. Diese sind tiergartenbiologisch gesehen gefährdete Tierarten mit hohem Schauwert, über deren Schutz man gleichzeitig den Schutz vieler anderer Tierarten erreicht, die den Lebensraum mit ihnen teilen.**[^27] Kritiker\*innen von Zoos verweisen aber auf die an Zahl wenigen erfolgreichen Auswilderungen von Zootieren und die ihrer Meinung nach kleinen Summen, die Zoos heute noch in Artenschutzprogramme vor Ort stecken. Auch bezweifeln sie, dass die Bildungsangebote der Zoos zu bedrohten Tierarten einen Effekt auf die Besucher\*innen haben.[^28] Einrichtungen wie die von deutschen Tiergärten getragene [Stiftung Artenschutz](https://www.stiftung-artenschutz.de/) widersprechen dem und verweisen auf ihre Erfolge. 
 
