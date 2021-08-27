@@ -1,16 +1,23 @@
 ---
-id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
-title: Showing Animals
-desc: Put a description of this note here...
-updated: 1630104358987
-created: 1618572893774
-title_de: Tiere zurschaustellen
-desc_de: Wie und warum werden Tiere in Zoos und Museen ausgestellt?
-author: CMW
-tao_type: theme
-cover_image: null
 license: CC BY-SA
+title_de: Tiere zurschaustellen
+created: 1618572893774
+author: Clemens Maier-Wolthausen
+short_desc_de: DE short desc
+date_end: 2021-08-27T23:01:33.091Z
 published: false
+title: Showing Animals
+updated: 1630100669174
+id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
+desc: EN Put a description of this note here...
+desc_de: DE description 10-30 words
+short_desc: EN short desc
+cover_image:
+  image: /images/showing-animals-berlin-zoo-antilopenhaus-around-1920.jpg
+  alt: "Antilopenhaus um 1920 im Berliner Zoo. Antelope building around 1920 in
+    the Berlin zoo. Source: AZGB. All rights reserved."
+tao_type: theme
+date_start: 1843-12-31T23:06:32.000Z
 ---
 
 :::EN:::
