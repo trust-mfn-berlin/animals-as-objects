@@ -9,6 +9,8 @@ published: false
 title: Showing Animals
 updated: 1630100669174
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
+translators:
+  translator_de_en: Lydia J. White
 desc: EN Put a description of this note here...
 desc_de: DE description 10-30 words
 short_desc: EN short desc
