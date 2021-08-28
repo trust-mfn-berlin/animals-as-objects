@@ -1,21 +1,29 @@
 ---
-id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
-title: Knut
-desc: Put a description of this note here...
-updated: 1622728802538
-created: 1618576718116
-title_de: Knut
-desc_de: >-
-  Der 2006 geborene Eisbär "Knut" entwickelte eine bis dahin für ein einzelnes
-  Zootier ungekannte Popularität. Medien und Zooleitung machten ihn zu einem
-  'Botschafter' der Klimakrise, die das Habitat der Eisbären bedrohte. Die
-  starke Übertragung von Emotionen von Besucher\*innen und Fans in aller Welt
-  auf das Tier wirkte über seinen Tod hinaus.
-author: CMW
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Knut
+created: 1618576718116
+author: Clemens Maier-Wolthausen
+short_desc_de: '"Knuts" ökonomische und emotionale Bedeutung in Zeiten des Klimawandels'
+date_end: ""
 published: false
+title: Knut
+updated: 1622728802538
+id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
+translators:
+  translator_de_en: Lydia J. White
+desc: EN Der 2006 geborene Eisbär "Knut" entwickelte eine bis dahin für ein
+  einzelnes Zootier ungekannte Popularität. Welche Mechanismen haben diese
+  starke Wirkung eines Zootiers über seinen Tod hinaus bedingt?
+desc_de: Der 2006 geborene Eisbär "Knut" entwickelte eine bis dahin für ein
+  einzelnes Zootier ungekannte Popularität. Welche Mechanismen haben diese
+  starke Wirkung eines Zootiers über seinen Tod hinaus bedingt?
+short_desc: EN "Knuts" ökonomische und emotionale Bedeutung in Zeiten des Klimawandels
+cover_image:
+  image: /images/cover-knut-polar-bear-eisbaer-berlin-2006.jpg
+  alt: '"Knut" at the Berlin zoo in 2007. "Knut" 2007 im Berliner Zoo. Source:
+    AZGB, photo Griesbach. All rights reserved.'
+tao_type: story
+date_start: ""
 ---
 
 :::EN:::
