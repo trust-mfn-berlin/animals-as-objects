@@ -1,22 +1,24 @@
 ---
-license: CC BY-SA
-title_de: Taxonomische Ordnung
-created: 1618491191119
-author: Filippo Bertoni
-short_desc_de: Die Natur zu kategorisieren, ist politisch
-date_end: 2021-07-06T11:43:53.791Z
-published: false
-title: Taxonomical Orders
-updated: 1629748561765
 id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
-translators:
-  translator_en_de: Anna von Rath
-desc: In biology, taxonomy is a formal system to name, define, and classify
+title: Taxonomical Orders
+desc: >-
+  In biology, taxonomy is a formal system to name, define, and classify
   organisms, regulated and governed by a set of rules. Since its beginning
   biological taxonomy was neither stable nor universal, controversies frequently
   emerged. Classifications still continue to change today – and they have
   lasting impacts on our world.
-desc_de: In der Biologie ist die Taxonomie ein formales System zur Benennung,
+updated: 1629748561765
+created: 1618491191119
+license: CC BY-SA
+title_de: Taxonomische Ordnung
+author: Filippo Bertoni
+short_desc_de: 'Die Natur zu kategorisieren, ist politisch'
+date_end: '2021-07-06T11:43:53.791Z'
+published: false
+translators:
+  translator_en_de: Anna von Rath
+desc_de: >-
+  In der Biologie ist die Taxonomie ein formales System zur Benennung,
   Definition und Klassifizierung von Organismen, das mit Hilfe einer Reihe von
   Regeln gesteuert wird. Seit ihren Anfängen war die biologische Taxonomie weder
   stabil noch allgemeingültig und es kamen wiederholt Kontroversen auf. Die
@@ -25,11 +27,12 @@ desc_de: In der Biologie ist die Taxonomie ein formales System zur Benennung,
 short_desc: Organising nature is political
 cover_image:
   image: /images/cover-taxonomical-orders.jpg
-  alt: "Plate 2 from Linnaeus’ Systema Naturae, 6th edition, 1748. Tafel 2 aus
+  alt: >-
+    Plate 2 from Linnaeus’ Systema Naturae, 6th edition, 1748. Tafel 2 aus
     Linnaeus' Systema Naturae, 6. Auflage, 1748. Source:
-    https://commons.wikimedia.org/wiki/File:Systema_Naturae_Plate_II.jpg"
+    https://commons.wikimedia.org/wiki/File:Systema_Naturae_Plate_II.jpg
 tao_type: theme
-date_start: 1752-12-31T23:06:32.000Z
+date_start: '1752-12-31T23:06:32.000Z'
 ---
 
 :::EN:::
@@ -87,7 +90,7 @@ https://www.darwinproject.ac.uk (01.07.2021); Stober, Alexandra. "Evolutionsfors
 
 [^9]: More on the importance of databases, digitization, and data in [[theme.recording worlds]]. Also see Leonelli, Sabina, and Niccolò Tempini. _Data journeys in the sciences_. Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-37177-7.
 
-[^10]: An example of this digitization of taxonomical expertise can be found in the [[Neptune Sandbox Berlin database|material.NSB]].
+[^10]: An example of this digitization of taxonomical expertise can be found in the [[Neptune Sandbox Berlin database|material.nsb-database]].
 
 [^11]: This can be seen in other stories on this website, like that of [[story.archeopteryx]], of [[story.limulus]], of [[story.cycladophora-davisiana]], but also of the [[story.zoological teaching collection]].
 
@@ -148,7 +151,7 @@ https://www.darwinproject.ac.uk (01.07.2021); Stober, Alexandra. "Evolutionsfors
 
 [^9]: Weitere Informationen über die Wichtigkeit von Datenbanken, Digitalisierung und Daten gibt es hier: [[theme.recording worlds]]. Oder siehe Leonelli, Sabina, and Niccolò Tempini. _Data journeys in the sciences_. Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-37177-7.
 
-[^10]: Ein Beispiel für diese Digitalisierung von taxonomischem Fachwissen findet sich in der [[Neptune Sandbox Berlin Datenbank|material.NSB]].
+[^10]: Ein Beispiel für diese Digitalisierung von taxonomischem Fachwissen findet sich in der [[Neptune Sandbox Berlin Datenbank|material.nsb-database]].
 
 [^11]: Dies ist in anderen Storys auf dieser Website zu sehen, siehe [[story.archeopteryx]], [[story.limulus]], [[story.cycladophora-davisiana]] oder auch [[story. zoological teaching collection]].
 
