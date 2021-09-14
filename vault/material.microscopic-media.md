@@ -1,6 +1,6 @@
 ---
 id: fac2eded-a093-4ebf-986e-d94b045f7676
-title: Microscopic Preparations
+title: Microscopic Media
 desc: Put a description of this note here...
 updated: 1620218632256
 created: 1618492963611
@@ -15,7 +15,7 @@ published: false
 
 :::EN:::
 
-[[story.microscopy]], [[theme.microbial worlds]], [[material.christian gottfried ehrenberg]], [[story.cycladophora-davisiana]]
+[[story.microscopy]], [[theme.microbial-worlds]], [[material.christian gottfried ehrenberg]], [[story.cycladophora-davisiana]]
 
 :::DE:::
 
