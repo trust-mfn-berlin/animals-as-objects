@@ -25,6 +25,7 @@ cover_image:
     Illustration von Bathybius haeckelii. Source: Ernst Haeckel, 1870."
 tao_type: story
 date_start: 1849-12-31T23:06:32.000Z
+colour_scheme: 0
 ---
 
 :::EN:::

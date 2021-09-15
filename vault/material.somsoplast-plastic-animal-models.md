@@ -17,6 +17,7 @@ short_desc: EN Materialien des Modellbaus
 cover_image: null
 tao_type: material
 date_start: 1929-12-31T23:00:00.000Z
+colour_scheme: 15
 ---
 
 :::EN:::

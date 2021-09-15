@@ -28,6 +28,7 @@ cover_image:
     Stefan Richter (2000). All rights reserved."
 tao_type: story
 date_start: 1883-12-31T23:06:32.000Z
+colour_scheme: 2
 ---
 
 :::EN:::

@@ -21,6 +21,7 @@ cover_image:
     reserved."
 tao_type: material
 date_start: 1890-12-31T23:06:32.000Z
+colour_scheme: 9
 ---
 
 :::EN:::

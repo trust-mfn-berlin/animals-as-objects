@@ -24,6 +24,7 @@ cover_image:
     AZGB, photo Griesbach. All rights reserved.'
 tao_type: story
 date_start: ""
+colour_scheme: 11
 ---
 
 :::EN:::

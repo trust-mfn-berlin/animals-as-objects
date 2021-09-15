@@ -33,6 +33,7 @@ cover_image:
     Bundesarchiv image 183-M1015-314, photo Otto Donath.
 tao_type: story
 date_start: '1944-12-31T23:00:00.000Z'
+colour_scheme: 8
 ---
 
 :::EN:::

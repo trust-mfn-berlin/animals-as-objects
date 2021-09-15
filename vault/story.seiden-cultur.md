@@ -29,6 +29,7 @@ cover_image:
     Source: Museum für Naturkunde. All rights reserved."
 tao_type: story
 date_start: 1679-12-31T23:06:32.000Z
+colour_scheme: 0
 ---
 
 :::EN:::

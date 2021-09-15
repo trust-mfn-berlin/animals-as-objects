@@ -20,6 +20,7 @@ cover_image:
     Collection Berlin, photo Theresa Schatt."
 tao_type: material
 date_start: 1967-12-31T23:00:00.000Z
+colour_scheme: 11
 ---
 
 :::EN:::

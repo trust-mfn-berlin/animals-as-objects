@@ -30,6 +30,7 @@ cover_image:
     am Museum für Naturkunde Berlin, 2021. Source: Foto Britta Lange."
 tao_type: story
 date_start: 1702-12-31T23:07:09.241Z
+colour_scheme: 7
 ---
 
 <figure>
