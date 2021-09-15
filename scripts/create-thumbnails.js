@@ -35,9 +35,9 @@ function getFileNames(dir, encoding = "utf-8", withFileTypes = true) {
     const filename = names[i].relative;
     if(path.extname(file) == ".jpg" || path.extname(file) == ".png" || path.extname(file) == ".jpeg"){
 
-      if(filename.slice(0,5) == "cover"){ //Speed up generation by only converting files starting with cover-
+      // if(filename.slice(0,5) == "cover"){ //Speed up generation by only converting files starting with cover-
         imageFiles.push(file);
-      }
+      // }
       
     }
   }
