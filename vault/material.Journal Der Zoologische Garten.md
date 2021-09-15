@@ -29,11 +29,11 @@ colour_scheme: 3
 
 <div class="series">
 
-![Front page of Der Zoologische Garten with photograph of a harpy](images/cmw/ZG_1933.jpg)
+![Front page of Der Zoologische Garten with photograph of a harpy](/images/cmw/ZG_1933.jpg)
 
-![Front page of Der Zoologische Garten with photograph of a rhinoceros](images/cmw/ZG_1961.jpg)
+![Front page of Der Zoologische Garten with photograph of a rhinoceros](/images/cmw/ZG_1961.jpg)
 
-![Front page of Der Zoologische Garten with photograph of a possum](images/cmw/ZG_2015.jpg)
+![Front page of Der Zoologische Garten with photograph of a possum](/images/cmw/ZG_2015.jpg)
 
 </div>
 
@@ -61,11 +61,11 @@ Contributions for the most part cover topics such as the breeding of animals in 
 
 <div class="series">
 
-![Titelseite von Der Zoologische Garten mit Foto einer Harpyie](images/cmw/ZG_1933.jpg)
+![Titelseite von Der Zoologische Garten mit Foto einer Harpyie](/images/cmw/ZG_1933.jpg)
 
-![Titelseite von Der Zoologische Garten mit Foto von Nashorn](images/cmw/ZG_1961.jpg)
+![Titelseite von Der Zoologische Garten mit Foto von Nashorn](/images/cmw/ZG_1961.jpg)
 
-![Titelseite von Der Zoologische Garten mit Foto von Gleitbeutler](images/cmw/ZG_2015.jpg)
+![Titelseite von Der Zoologische Garten mit Foto von Gleitbeutler](/images/cmw/ZG_2015.jpg)
 
 </div>
 

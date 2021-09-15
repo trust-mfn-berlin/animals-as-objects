@@ -42,7 +42,7 @@ Die Art und Weise wie Museen Tierobjekte ausstellten und austellen war in den le
 Zum Inbegriff friedvoller sozialer Beziehungen und somit zum eingängigen Identifikationsangebot wurde die Familie. Die Tierfamilie repräsentierte das Modell der bürgerlichen Kleinfamilie und stellte das Familien Leben als Hort der Verlässlichkeit und des Friedens dar. Wo darüber hinaus Einstiegsmöglichkeiten, um auch ‘Heimat’ und ‘Nation’ als geschützte Innenräume zu imaginieren (Naturschutz, Heimatschutz, Verteidigung der Nation). […] Der politische Raum wurde seinerseits neu artikuliert. Denn im Zuge der Reform naturkundlicher Schausammlungen ‘vernaturwissenschaftlichte’ sich die Darstellung politischer Gebiete. An die Stelle von ‘Vaterland’ und ‘Nation’ trat ‘Heimat’ im Sinne eines Naturraums. Das wissenschaftliche Rüstzeug dafür entstammte der Tiergeographie. Ihre erkenntnisleitenden Kategorien “tiergeografische Region” und “charakteristisches Tier” wurden zu Stützpfeilern biologisch-ökologischer Darstellungen von Heimat.[^1] 
 ### Quagga
 
-![desc](images/cmw/Quagga_1873.jpg)
+![desc](/images/cmw/Quagga_1873.jpg)
 
 ### Zoomonotonie
 

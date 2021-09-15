@@ -30,7 +30,7 @@ colour_scheme: 13
 
 <figure>
 
-![Black and white photograph: Four men, a woman, and a dog standing next to a woven basket, in front of partially destroyed building façades.](images/cmw/Heinroth_Morgenrunde_1946_LiselotteOrgel_S_3_63.jpg)
+![Black and white photograph: Four men, a woman, and a dog standing next to a woven basket, in front of partially destroyed building façades.](/images/cmw/Heinroth_Morgenrunde_1946_LiselotteOrgel_S_3_63.jpg)
 
 <figcaption>
 
@@ -50,7 +50,7 @@ After zoo director Lutz Heck fled at the end of May 1945, Katharina Heinroth and
 
 <figure>
 
-![Schwarz-weiß Foto: Vier Männer, eine Frau und ein Hund stehen neben einem geflochtenen Korb, vor teilweise zerstörten Hausfassaden.](images/cmw/Heinroth_Morgenrunde_1946_LiselotteOrgel_S_3_63.jpg)
+![Schwarz-weiß Foto: Vier Männer, eine Frau und ein Hund stehen neben einem geflochtenen Korb, vor teilweise zerstörten Hausfassaden.](/images/cmw/Heinroth_Morgenrunde_1946_LiselotteOrgel_S_3_63.jpg)
 
 <figcaption>
 

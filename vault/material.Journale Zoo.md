@@ -31,9 +31,9 @@ colour_scheme: 9
 
 <div class="series">
 
-![Left page from handwritten journal with heading: Change in animal holdings. Columns on left side: Animal species, Holdings, Purchased, Purchase price, Born.](images/cmw/Journal_1936_l.jpg)
+![Left page from handwritten journal with heading: Change in animal holdings. Columns on left side: Animal species, Holdings, Purchased, Purchase price, Born.](/images/cmw/Journal_1936_l.jpg)
 
-![Right page from handwritten journal with heading: Change in animal holdings. Columns on right side: Gifted, Died, Sold, Holdings, Inventory value. ](images/cmw/Journal_1936_r.jpg)
+![Right page from handwritten journal with heading: Change in animal holdings. Columns on right side: Gifted, Died, Sold, Holdings, Inventory value. ](/images/cmw/Journal_1936_r.jpg)
 
 </div>
 
@@ -57,9 +57,9 @@ Until about 1925, the journals did not include information on monetary value. Th
 
 <div class="series">
 
-![Linke Seite aus handschriftlich geführtem Journal mit Überschrift: Veränderung im Tierbestande. Spalten auf linker Seite: Tierart, Bestand, Gekauft, Kaufpreis, Geboren.](images/cmw/Journal_1936_l.jpg)
+![Linke Seite aus handschriftlich geführtem Journal mit Überschrift: Veränderung im Tierbestande. Spalten auf linker Seite: Tierart, Bestand, Gekauft, Kaufpreis, Geboren.](/images/cmw/Journal_1936_l.jpg)
 
-![Rechte Seite aus handschriftlich geführtem Journal mit der Überschrift: Veränderung im Tierbestande. Spalten auf rechter Seite: Geschenkt, Gestorben, Verkauft, Bestand, Inventur-Wert. ](images/cmw/Journal_1936_r.jpg)
+![Rechte Seite aus handschriftlich geführtem Journal mit der Überschrift: Veränderung im Tierbestande. Spalten auf rechter Seite: Geschenkt, Gestorben, Verkauft, Bestand, Inventur-Wert. ](/images/cmw/Journal_1936_r.jpg)
 
 </div>
 

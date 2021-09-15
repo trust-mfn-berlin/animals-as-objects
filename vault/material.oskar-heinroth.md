@@ -27,7 +27,7 @@ colour_scheme: 6
 
 <figure>
 
-![Black and white photograph: Bald older man with moustache, wearing pince-nez and a suit, looks down at three Ural owls sitting on his arms and one bent leg. Two of the owls look into the camera, one to the side.](images/cmw/O_Heinroth_Uralkaeuzen_1929.jpg)
+![Black and white photograph: Bald older man with moustache, wearing pince-nez and a suit, looks down at three Ural owls sitting on his arms and one bent leg. Two of the owls look into the camera, one to the side.](/images/cmw/O_Heinroth_Uralkaeuzen_1929.jpg)
 
 <figcaption>
 
@@ -46,7 +46,7 @@ They gathered the observations in their apartment at the Berlin Aquarium. In 190
 :::DE:::
 <figure>
 
-![Schwarz-weiß Foto: Älterer Mann im Anzug mit Schnauzer, Glatze und Zwicker, blickt herunter auf drei Uralkäuze, die auf seinen Armen und einem angewinkelten Bein sitzen. Zwei der Käuze schauen in die Kamera, einer blickt zur Seite.](images/cmw/O_Heinroth_Uralkaeuzen_1929.jpg)
+![Schwarz-weiß Foto: Älterer Mann im Anzug mit Schnauzer, Glatze und Zwicker, blickt herunter auf drei Uralkäuze, die auf seinen Armen und einem angewinkelten Bein sitzen. Zwei der Käuze schauen in die Kamera, einer blickt zur Seite.](/images/cmw/O_Heinroth_Uralkaeuzen_1929.jpg)
 
 <figcaption>
 

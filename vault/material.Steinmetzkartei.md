@@ -28,7 +28,7 @@ colour_scheme: 5
 
 <figure>
 
-![Index card with handwritten entries on arrival and departure. Columns under arrival: Date of arrival, No., Sex., Age, Place found, Origin, Type of arrival, Price Mk. Columns under departure: Date of departure, No., Sex, Type of departure, Cause of death, Delivered to, Price Mk.](images/cmw/Kartei_Flusspferd1.jpg)
+![Index card with handwritten entries on arrival and departure. Columns under arrival: Date of arrival, No., Sex., Age, Place found, Origin, Type of arrival, Price Mk. Columns under departure: Date of departure, No., Sex, Type of departure, Cause of death, Delivered to, Price Mk.](/images/cmw/Kartei_Flusspferd1.jpg)
 
 <figcaption>
 
@@ -53,7 +53,7 @@ Today, most German zoos use the Zoological Information Management System softwar
 
 <figure>
 
-![Karteikarte mit handschriftlichen Eintragungen zu Zugang und Abgang. Spalten unter Zugang: Datum der Ankunft, Nr., Geschl., Alter, Fundort, Herkunft, Art des Zugangs, Preis Mk. Spalten unter Abgang: Datum des Abgangs, Nr., Geschl., Art des Abgangs, Todesursache, Wohin abgegeben, Preis Mk.](images/cmw/Kartei_Flusspferd1.jpg)
+![Karteikarte mit handschriftlichen Eintragungen zu Zugang und Abgang. Spalten unter Zugang: Datum der Ankunft, Nr., Geschl., Alter, Fundort, Herkunft, Art des Zugangs, Preis Mk. Spalten unter Abgang: Datum des Abgangs, Nr., Geschl., Art des Abgangs, Todesursache, Wohin abgegeben, Preis Mk.](/images/cmw/Kartei_Flusspferd1.jpg)
 
 <figcaption>
 

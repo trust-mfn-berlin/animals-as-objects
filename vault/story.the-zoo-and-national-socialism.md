@@ -55,7 +55,7 @@ In January 1934, Göring had presented his plans for the Schorfheide to some for
 
 <figure>
 
-![Black and white photograph: Entrance gate of Berlin Zoo supported by two elephant sculptures. Three men are standing in front of the entrance. Two of them wear zoo staff uniforms.](images/cmw/elephant-gate-berlin-zoo-1938.jpg)
+![Black and white photograph: Entrance gate of Berlin Zoo supported by two elephant sculptures. Three men are standing in front of the entrance. Two of them wear zoo staff uniforms.](/images/cmw/elephant-gate-berlin-zoo-1938.jpg)
 
 <figcaption>
 
@@ -71,7 +71,7 @@ The NSDAP's anti-Jewish and racist policies were also implemented at the zoo fro
 
 <figure>
 
-![Sketch of a male portrait](images/cmw/ENTERIMAGEPATHWAY.jpg)
+![Sketch of a male portrait](/images/cmw/ENTERIMAGEPATHWAY.jpg)
 
 <figcaption>
 
@@ -85,7 +85,7 @@ During these years, vacancies on the supervisory board were immediately filled b
 
 <figure>
 
-![Black and white photograph: ten men in suits](images/cmw/Aufsichtsrat_1942.jpg)
+![Black and white photograph: ten men in suits](/images/cmw/Aufsichtsrat_1942.jpg)
 
 <figcaption>
 
@@ -99,7 +99,7 @@ The zoo's staff, like that of many large companies in Berlin, was also 'Nazified
 
 <figure>
 
-![Black and white photograph: eleven people with string instruments, accordions and percussion. In the background two large flags with swastikas and a painting. The bass drum displays an image of the face of a gorilla.](images/cmw/band-1938-Springer.jpg)
+![Black and white photograph: eleven people with string instruments, accordions and percussion. In the background two large flags with swastikas and a painting. The bass drum displays an image of the face of a gorilla.](/images/cmw/band-1938-Springer.jpg)
 
 <figcaption>
 
@@ -115,7 +115,7 @@ Financially, the zoo flourished with the rise of National Socialism. This was fa
 
 <figure>
 
-![Reddish paper ticket with swastika. Text: Die Deutsche Arbeitsfront NS-Gemeinschaft "Kraft durch Freude" Gau Gross-Berlin; Inhaber dieser Anweisung erhält am Freitag, dem 3., 10., 17., 24., od. 31.7.1936 gegen Nachzahlung von RM 0,40 an den Tageskassen des Zoo eine Eintrittskarte für den "Kraft durch Freude"-Tag im Zoo; Die Anweisung gilt wahlweise auch für das Aquarium (...). ](images/cmw/Kdf_Eintrittskarte.jpg)
+![Reddish paper ticket with swastika. Text: Die Deutsche Arbeitsfront NS-Gemeinschaft "Kraft durch Freude" Gau Gross-Berlin; Inhaber dieser Anweisung erhält am Freitag, dem 3., 10., 17., 24., od. 31.7.1936 gegen Nachzahlung von RM 0,40 an den Tageskassen des Zoo eine Eintrittskarte für den "Kraft durch Freude"-Tag im Zoo; Die Anweisung gilt wahlweise auch für das Aquarium (...). ](/images/cmw/Kdf_Eintrittskarte.jpg)
 
 <figcaption>
 
@@ -133,7 +133,7 @@ In August 1935, the zoo was finally granted an extension to its grounds on the e
 
 <figure>
 
-![Black and white photograph: Replica of farmhouse with thatched roof](images/cmw/farmhouse-1937.jpg)
+![Black and white photograph: Replica of farmhouse with thatched roof](/images/cmw/farmhouse-1937.jpg)
 
 <figcaption>
 
@@ -147,7 +147,7 @@ The zoo had previously been organized strictly according to taxonomic principles
 
 <figure>
 
-![Black and white photograph: Cattle on sandy ground, with wall and wooden structure in the background. The fur is shorter on the back, shaggy on the legs, head and tail. The horns grow horizontally, curving up and forward only at the tips.](images/cmw/aurox.jpg)
+![Black and white photograph: Cattle on sandy ground, with wall and wooden structure in the background. The fur is shorter on the back, shaggy on the legs, head and tail. The horns grow horizontally, curving up and forward only at the tips.](/images/cmw/aurox.jpg)
 
 <figcaption>
 
@@ -187,7 +187,7 @@ An air-raid shelter for visitors and employees was built under the borders at th
 
 <figure>
 
-![Colourful site plan. Enclosures, lakes, buildings, facilities, two air raid shelters, entrances and surrounding streets are marked. Title: Zoological Garden Berlin.](images/cmw/Zooplan_1943_0001.jpg)
+![Colourful site plan. Enclosures, lakes, buildings, facilities, two air raid shelters, entrances and surrounding streets are marked. Title: Zoological Garden Berlin.](/images/cmw/Zooplan_1943_0001.jpg)
 
 <figcaption>
 
@@ -201,7 +201,7 @@ The new Steinbockfelsen, or Ibex Boulder, completed in 1938, had been constructe
 
 <figure>
 
-![Black and white photograph: Large boulder with wooden hut and four ibexes. Fence and trees in the foreground.](images/cmw/Steinbockfelsen_um_1940.jpg)
+![Black and white photograph: Large boulder with wooden hut and four ibexes. Fence and trees in the foreground.](/images/cmw/Steinbockfelsen_um_1940.jpg)
 
 <figcaption>
 
@@ -217,7 +217,7 @@ Many zoos in the countries conquered by Germany fared differently than the prote
 
 <figure>
 
-![Print in Gothic lettering: … Ferner wurden eine Anzahl Tiere des Zoologischen Gartens Warschau zu treuen Händen eingestellt, nämlich: 1 indischer Elefant, 1 Wisent, 1 Verdrängungszuchtwisent, 1 Wildpferd, 1 Weißschwanzgnu, 1 Hartmannzebra, 3 Kamele, 1 Strauß, 4 Luchse, 7 Stachelschweine, 1 Lama, 2 Shetland-Ponies, 2 Flamingos, 2 Pelikane, 1 schwarzer Schwan. ](images/cmw/Beute_Warschau_GB.jpg)
+![Print in Gothic lettering: … Ferner wurden eine Anzahl Tiere des Zoologischen Gartens Warschau zu treuen Händen eingestellt, nämlich: 1 indischer Elefant, 1 Wisent, 1 Verdrängungszuchtwisent, 1 Wildpferd, 1 Weißschwanzgnu, 1 Hartmannzebra, 3 Kamele, 1 Strauß, 4 Luchse, 7 Stachelschweine, 1 Lama, 2 Shetland-Ponies, 2 Flamingos, 2 Pelikane, 1 schwarzer Schwan. ](/images/cmw/Beute_Warschau_GB.jpg)
 
 <figcaption>
 
@@ -231,7 +231,7 @@ The zoo also looted the spoils of war from other sources from 1939 onward. Polis
 
 <figure>
 
-![Print in Gothic lettering: … Wir erhielten an wertvollen Geschenken von der Wehrmacht: 1 Wildziege, 1 Dachs und 1 Gänsegeier von der Insel Kreta durch den General der Flieger Andrae, aus der Gegend von Smolensk 13 Marderhunde und von einem Transportgeschwader 1 Karpathenbär. Vom Forstamt Nieswicz wurden uns 2 Wölfe und 1 Kolkrabe überbracht. Außerdem überließ uns die Wehrmacht Rehe, Waschbären, verschiedene Affen, Raubvögel und Hauspfauen. Aus privater Hand wurden uns 1 Weißohräffchen, Burunduks und einige Papageien überlassen.](images/cmw/Kriegsbeute_GB.jpg)
+![Print in Gothic lettering: … Wir erhielten an wertvollen Geschenken von der Wehrmacht: 1 Wildziege, 1 Dachs und 1 Gänsegeier von der Insel Kreta durch den General der Flieger Andrae, aus der Gegend von Smolensk 13 Marderhunde und von einem Transportgeschwader 1 Karpathenbär. Vom Forstamt Nieswicz wurden uns 2 Wölfe und 1 Kolkrabe überbracht. Außerdem überließ uns die Wehrmacht Rehe, Waschbären, verschiedene Affen, Raubvögel und Hauspfauen. Aus privater Hand wurden uns 1 Weißohräffchen, Burunduks und einige Papageien überlassen.](/images/cmw/Kriegsbeute_GB.jpg)
 
 <figcaption>
 
@@ -245,7 +245,7 @@ By 1941, Lutz Heck had risen to the position of head of the nature conservation 
 
 <figure>
 
-![Black and white photograph: Man in suit and hat (left), and man in National Socialist uniform (right) stand smiling in front of a parked car.](images/cmw/Heck_Auto_1939.jpg)
+![Black and white photograph: Man in suit and hat (left), and man in National Socialist uniform (right) stand smiling in front of a parked car.](/images/cmw/Heck_Auto_1939.jpg)
 
 <figcaption>
 
@@ -261,7 +261,7 @@ The zoo benefited variously from the networks of the director and supervisory bo
 
 <figure>
 
-![Black and white photograph: Two men in coats and hats surrounded by families with children and people in National Socialist uniforms. Brick wall with window arches in the background.](images/cmw/Göring_March_1942_Zoo_Heck.jpg)
+![Black and white photograph: Two men in coats and hats surrounded by families with children and people in National Socialist uniforms. Brick wall with window arches in the background.](/images/cmw/Göring_March_1942_Zoo_Heck.jpg)
 
 <figcaption>
 
@@ -279,7 +279,7 @@ On the night of 23 November 1943, an Allied bombing raid turned the zoo into a s
 
 <figure>
 
-![Punched typewritten sheet with two columns: dead; still present. Handwritten note in the centre: 30%+. For transcript, see link in caption.](images/cmw/Liste_tote_Tiere_1943.jpg)
+![Punched typewritten sheet with two columns: dead; still present. Handwritten note in the centre: 30%+. For transcript, see link in caption.](/images/cmw/Liste_tote_Tiere_1943.jpg)
 
 <figcaption>
 
@@ -293,7 +293,7 @@ The aquarium was destroyed the following night. A bomb struck in the middle of t
 
 <figure>
 
-![Black and white photograph: Stone and metal debris, and fences and barriers next to massive columns.](images/cmw/Ruine_Elefantenhaus_Heck.jpg)
+![Black and white photograph: Stone and metal debris, and fences and barriers next to massive columns.](/images/cmw/Ruine_Elefantenhaus_Heck.jpg)
 
 <figcaption>
 
@@ -309,7 +309,7 @@ Nevertheless, on 22 April 1945, it all finally came to an end. All male employee
 
 <figure>
 
-![Black and white photograph: A pair of lions lie on boulders in the open air in front of a broken façade.](images/cmw/Loewin_Ruine_Aqua_S_60.jpg)
+![Black and white photograph: A pair of lions lie on boulders in the open air in front of a broken façade.](/images/cmw/Loewin_Ruine_Aqua_S_60.jpg)
 
 <figcaption>
 
@@ -439,7 +439,7 @@ Göring hatte im Januar 1934 im Kreise einiger Forstbeamter seine Pläne für di
 
 <figure>
 
-![Schwarz-weiß Foto: Eingangstor des Berliner Zoos gestützt durch zwei Elefantenskulpturen. Drei Männer stehen vor dem Eingang. Zwei von ihnen tragen Zoouniformen.](images/cmw/elephant-gate-berlin-zoo-1938.jpg)
+![Schwarz-weiß Foto: Eingangstor des Berliner Zoos gestützt durch zwei Elefantenskulpturen. Drei Männer stehen vor dem Eingang. Zwei von ihnen tragen Zoouniformen.](/images/cmw/elephant-gate-berlin-zoo-1938.jpg)
 
 <figcaption>
 
@@ -455,7 +455,7 @@ Auch die judenfeindliche und rassistische Politik der NSDAP wurde ab 1933 im Zoo
 
 <figure>
 
-![Skizze eines männlichen Porträts](images/cmw/ENTERIMAGEPATHWAY.jpg)
+![Skizze eines männlichen Porträts](/images/cmw/ENTERIMAGEPATHWAY.jpg)
 
 <figcaption>
 
@@ -469,7 +469,7 @@ Freigewordene Plätze im Aufsichtsrat wurden in diesen Jahren sogleich mit natio
 
 <figure>
 
-![Schwarz-weiß Foto: zehn Männer in Anzügen](images/cmw/Aufsichtsrat_1942.jpg)
+![Schwarz-weiß Foto: zehn Männer in Anzügen](/images/cmw/Aufsichtsrat_1942.jpg)
 
 <figcaption>
 
@@ -483,7 +483,7 @@ Auch die Belegschaft des Zoos war wie die vieler Großbetriebe in Berlin binnen 
 
 <figure>
 
-![Schwarz-weiß Foto: elf Personen mit Streich-, und Zupfinstrumenten, Akkordeons und Schlagzeug. Im Hintergrund zwei große Fahnen mit Hakenkreuzen und ein Gemälde. Auf der Bass Drum ist das Gesicht eines Gorillas abgebildet.](images/cmw/band-1938-Springer.jpg)
+![Schwarz-weiß Foto: elf Personen mit Streich-, und Zupfinstrumenten, Akkordeons und Schlagzeug. Im Hintergrund zwei große Fahnen mit Hakenkreuzen und ein Gemälde. Auf der Bass Drum ist das Gesicht eines Gorillas abgebildet.](/images/cmw/band-1938-Springer.jpg)
 
 <figcaption>
 
@@ -499,7 +499,7 @@ Der Zoo florierte finanziell nach der Machtübernahme der Nationalsozialisten. D
 
 <figure>
 
-![Rötliches Papier-Ticket mit Hakenkreuz. Text: Die Deutsche Arbeitsfront NS-Gemeinschaft "Kraft durch Freude" Gau Gross-Berlin; Inhaber dieser Anweisung erhält am Freitag, dem 3., 10., 17., 24., od. 31.7.1936 gegen Nachzahlung von RM 0,40 an den Tageskassen des Zoo eine Eintrittskarte für den "Kraft durch Freude"-Tag im Zoo; Die Anweisung gilt wahlweise auch für das Aquarium (...).](images/cmw/Kdf_Eintrittskarte.jpg)
+![Rötliches Papier-Ticket mit Hakenkreuz. Text: Die Deutsche Arbeitsfront NS-Gemeinschaft "Kraft durch Freude" Gau Gross-Berlin; Inhaber dieser Anweisung erhält am Freitag, dem 3., 10., 17., 24., od. 31.7.1936 gegen Nachzahlung von RM 0,40 an den Tageskassen des Zoo eine Eintrittskarte für den "Kraft durch Freude"-Tag im Zoo; Die Anweisung gilt wahlweise auch für das Aquarium (...).](/images/cmw/Kdf_Eintrittskarte.jpg)
 
 <figcaption>
 
@@ -517,7 +517,7 @@ Im August 1935 wurde dem Zoo schließlich auf Initiative des Preußischen Minist
 
 <figure>
 
-![Schwarz-weiß Foto: Nachbau eines Bauernhauses mit Reetdach](images/cmw/farmhouse-1937.jpg)
+![Schwarz-weiß Foto: Nachbau eines Bauernhauses mit Reetdach](/images/cmw/farmhouse-1937.jpg)
 
 <figcaption>
 
@@ -531,7 +531,7 @@ Im bislang streng nach taxonomischen Gesichtspunkten geordneten Zoo, siehe dazu 
 
 <figure>
 
-![Schwarz-weiß Foto: Rind auf sandigem Boden, mit Mauer und Holzbau im Hintergrund. Das Fell ist am Rücken kürzer, an Beinen, Kopf und Schwanz zottelig. Die Hörner wachsen horizontal, sind nur an den Spitzen leicht nach oben-vorne geschwungen.](images/cmw/aurox.jpg)
+![Schwarz-weiß Foto: Rind auf sandigem Boden, mit Mauer und Holzbau im Hintergrund. Das Fell ist am Rücken kürzer, an Beinen, Kopf und Schwanz zottelig. Die Hörner wachsen horizontal, sind nur an den Spitzen leicht nach oben-vorne geschwungen.](/images/cmw/aurox.jpg)
 
 <figcaption>
 
@@ -571,7 +571,7 @@ Für die Besucher\*innen und Mitarbeiter\*innen wurde am Eingang Elefantentor in
 
 <figure>
 
-![Bunter Lageplan. Gehege, Seen, Gebäude, Anlagen, zwei Luftschutzräume, Eingänge und umliegende Straßen sind verzeichnet. Titel: Zoologischer Garten Berlin.](images/cmw/Zooplan_1943_0001.jpg)
+![Bunter Lageplan. Gehege, Seen, Gebäude, Anlagen, zwei Luftschutzräume, Eingänge und umliegende Straßen sind verzeichnet. Titel: Zoologischer Garten Berlin.](/images/cmw/Zooplan_1943_0001.jpg)
 
 <figcaption>
 
@@ -585,7 +585,7 @@ Der 1938 fertiggestellte neue Steinbockfelsen war von vornherein so gebaut worde
 
 <figure>
 
-![Schwarz-weiß Foto: Hoher Steinfelsen mit Holzhütte und vier Steinböcken. Zaun und Bäume im Vordergrund.](images/cmw/Steinbockfelsen_um_1940.jpg)
+![Schwarz-weiß Foto: Hoher Steinfelsen mit Holzhütte und vier Steinböcken. Zaun und Bäume im Vordergrund.](/images/cmw/Steinbockfelsen_um_1940.jpg)
 
 <figcaption>
 
@@ -601,7 +601,7 @@ Vielen Zoos in den von Deutschland eroberten Ländern erging es anders als dem g
 
 <figure>
 
-![Druck in Frakturschrift: … Ferner wurden eine Anzahl Tiere des Zoologischen Gartens Warschau zu treuen Händen eingestellt, nämlich: 1 indischer Elefant, 1 Wisent, 1 Verdrängungszuchtwisent, 1 Wildpferd, 1 Weißschwanzgnu, 1 Hartmannzebra, 3 Kamele, 1 Strauß, 4 Luchse, 7 Stachelschweine, 1 Lama, 2 Shetland-Ponies, 2 Flamingos, 2 Pelikane, 1 schwarzer Schwan.](images/cmw/Beute_Warschau_GB.jpg)
+![Druck in Frakturschrift: … Ferner wurden eine Anzahl Tiere des Zoologischen Gartens Warschau zu treuen Händen eingestellt, nämlich: 1 indischer Elefant, 1 Wisent, 1 Verdrängungszuchtwisent, 1 Wildpferd, 1 Weißschwanzgnu, 1 Hartmannzebra, 3 Kamele, 1 Strauß, 4 Luchse, 7 Stachelschweine, 1 Lama, 2 Shetland-Ponies, 2 Flamingos, 2 Pelikane, 1 schwarzer Schwan.](/images/cmw/Beute_Warschau_GB.jpg)
 
 <figcaption>
 
@@ -615,7 +615,7 @@ Auch aus anderen Quellen erhielt der Zoo ab 1939 Kriegsbeute. Von der SS (Schutz
 
 <figure>
 
-![Druck in Frakturschrift: … Wir erhielten an wertvollen Geschenken von der Wehrmacht: 1 Wildziege, 1 Dachs und 1 Gänsegeier von der Insel Kreta durch den General der Flieger Andrae, aus der Gegend von Smolensk 13 Marderhunde und von einem Transportgeschwader 1 Karpathenbär. Vom Forstamt Nieswicz wurden uns 2 Wölfe und 1 Kolkrabe überbracht. Außerdem überließ uns die Wehrmacht Rehe, Waschbären, verschiedene Affen, Raubvögel und Hauspfauen. Aus privater Hand wurden uns 1 Weißohräffchen, Burunduks und einige Papageien überlassen.](images/cmw/Kriegsbeute_GB.jpg)
+![Druck in Frakturschrift: … Wir erhielten an wertvollen Geschenken von der Wehrmacht: 1 Wildziege, 1 Dachs und 1 Gänsegeier von der Insel Kreta durch den General der Flieger Andrae, aus der Gegend von Smolensk 13 Marderhunde und von einem Transportgeschwader 1 Karpathenbär. Vom Forstamt Nieswicz wurden uns 2 Wölfe und 1 Kolkrabe überbracht. Außerdem überließ uns die Wehrmacht Rehe, Waschbären, verschiedene Affen, Raubvögel und Hauspfauen. Aus privater Hand wurden uns 1 Weißohräffchen, Burunduks und einige Papageien überlassen.](/images/cmw/Kriegsbeute_GB.jpg)
 
 <figcaption>
 
@@ -629,7 +629,7 @@ Die Behörde des inzwischen zum Leiter der Naturschutzabteilung im Reichsforstam
 
 <figure>
 
-![Schwarz-weiß Foto: Mann in Anzug und Hut (li.) sowie Mann in nationalsozialistischer Uniform (re.) stehen lächelnd vor einem geparkten Auto.](images/cmw/Heck_Auto_1939.jpg)
+![Schwarz-weiß Foto: Mann in Anzug und Hut (li.) sowie Mann in nationalsozialistischer Uniform (re.) stehen lächelnd vor einem geparkten Auto.](/images/cmw/Heck_Auto_1939.jpg)
 
 <figcaption>
 
@@ -645,7 +645,7 @@ Auch an anderer Stelle profitierte der Zoo von den Netzwerken des Direktors und 
 
 <figure>
 
-![Schwarz-weiß Foto: Zwei Männer in Mantel und Hut, umgeben von Familien mit Kindern sowie Personen in nationalsozialistischen Uniformen. Backsteinmauer mit Fensterbögen im Hintergrund.](images/cmw/Göring_March_1942_Zoo_Heck.jpg)
+![Schwarz-weiß Foto: Zwei Männer in Mantel und Hut, umgeben von Familien mit Kindern sowie Personen in nationalsozialistischen Uniformen. Backsteinmauer mit Fensterbögen im Hintergrund.](/images/cmw/Göring_March_1942_Zoo_Heck.jpg)
 
 <figcaption>
 
@@ -663,7 +663,7 @@ In der Nacht auf den 23. November 1943 wurde der Zoo dann durch einen alliierten
 
 <figure>
 
-![Gelochtes schreibmaschinengeschriebenes Blatt mit zwei Spalten: tot; noch vorhanden. Mittig handschriftliche Notiz: 30%+. Für Transkript, siehe Link in Bildunterschrift.](images/cmw/Liste_tote_Tiere_1943.jpg)
+![Gelochtes schreibmaschinengeschriebenes Blatt mit zwei Spalten: tot; noch vorhanden. Mittig handschriftliche Notiz: 30%+. Für Transkript, siehe Link in Bildunterschrift.](/images/cmw/Liste_tote_Tiere_1943.jpg)
 
 <figcaption>
 
@@ -677,7 +677,7 @@ In der folgenden Nacht wurde das Aquarium zerstört. Eine Bombe schlug mitten in
 
 <figure>
 
-![Schwarz-weiß Foto: Stein- und Metalltrümmer sowie Zäune und Absperrungen neben massiven Säulen.](images/cmw/Ruine_Elefantenhaus_Heck.jpg)
+![Schwarz-weiß Foto: Stein- und Metalltrümmer sowie Zäune und Absperrungen neben massiven Säulen.](/images/cmw/Ruine_Elefantenhaus_Heck.jpg)
 
 <figcaption>
 
@@ -693,7 +693,7 @@ Am 22. April 1945 war aber endgültig Schluss. Alle männlichen Mitarbeiter wurd
 
 <figure>
 
-![Schwarz-weiß Foto: Ein Löwenpaar liegt unter freiem Himmel auf Steinfelsen vor einer kaputten Fassade.](images/cmw/Loewin_Ruine_Aqua_S_60.jpg)
+![Schwarz-weiß Foto: Ein Löwenpaar liegt unter freiem Himmel auf Steinfelsen vor einer kaputten Fassade.](/images/cmw/Loewin_Ruine_Aqua_S_60.jpg)
 
 <figcaption>
 
