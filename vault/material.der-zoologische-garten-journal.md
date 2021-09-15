@@ -30,11 +30,11 @@ colour_scheme: 1
 
 <div class="series">
 
-![Cover page of Der Zoologische Garten with photograph of a harpy](images/cmw/ZG_1933.jpg)
+![Cover page of Der Zoologische Garten with photograph of a harpy](/images/cmw/ZG_1933.jpg)
 
-![Cover page of Der Zoologische Garten with photograph of a rhinoceros](images/cmw/ZG_1961.jpg)
+![Cover page of Der Zoologische Garten with photograph of a rhinoceros](/images/cmw/ZG_1961.jpg)
 
-![Cover page of Der Zoologische Garten with photograph of a possum](images/cmw/ZG_2015.jpg)
+![Cover page of Der Zoologische Garten with photograph of a possum](/images/cmw/ZG_2015.jpg)
 
 </div>
 

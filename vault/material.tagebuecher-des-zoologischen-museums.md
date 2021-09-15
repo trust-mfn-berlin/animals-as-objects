@@ -33,7 +33,7 @@ EN content
 
 <figure>
 
-![Drei leicht zerfledderte Hefte, eins davon aufgeschlagen, liegen auf Untergrund aus Holz. Die beiden Cover haben handschriftliche Titel in Schreibschrift: Tagebuch der Zoologischen Sammlung, gefolgt von Jahreszahlen 1844 und 1849. Das aufgeschlagene Heft zeigt eine Doppelseite für Juni 1843, die per Hand in mehrere Spalten unterschiedlicher Breite geteilt ist. Etwa ein Drittel der Seite ist beschrieben.](images/tagebuch-beyer-zoologische-sammlung-museum.jpg)
+![Drei leicht zerfledderte Hefte, eins davon aufgeschlagen, liegen auf Untergrund aus Holz. Die beiden Cover haben handschriftliche Titel in Schreibschrift: Tagebuch der Zoologischen Sammlung, gefolgt von Jahreszahlen 1844 und 1849. Das aufgeschlagene Heft zeigt eine Doppelseite für Juni 1843, die per Hand in mehrere Spalten unterschiedlicher Breite geteilt ist. Etwa ein Drittel der Seite ist beschrieben.](/images/tagebuch-beyer-zoologische-sammlung-museum.jpg)
 
 <figcaption>
 

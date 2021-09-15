@@ -44,7 +44,7 @@ Die Objekte einer Lehrsammlung erfüllen vor allem eine Funktion: Sie sollen Wis
 
 <figure>
 
-![Schwarz-weiß Foto: Unterrichtsraum mit 15 Personen im Hintergrund, viele mit Schnurrbart. Im Vordergrund li. Mann in weißem Kittel, re. Mann mit weißem Vollbart in schwarzem Mantel. Vorne stehen schwer erkennbare Objekte auf einem Tisch. Hinten hängen 5 Poster mit großen Abbildungen.](images/guests/classroom-zoological-institute-unterricht-zoologisches-institut-berlin-franz-eilhard-schulze.png)
+![Schwarz-weiß Foto: Unterrichtsraum mit 15 Personen im Hintergrund, viele mit Schnurrbart. Im Vordergrund li. Mann in weißem Kittel, re. Mann mit weißem Vollbart in schwarzem Mantel. Vorne stehen schwer erkennbare Objekte auf einem Tisch. Hinten hängen 5 Poster mit großen Abbildungen.](/images/guests/classroom-zoological-institute-unterricht-zoologisches-institut-berlin-franz-eilhard-schulze.png)
 
 <figcaption>
 
@@ -64,7 +64,7 @@ In insgesamt acht Inventaren, denen jeweils eine römische Ziffer zugeordnet ist
 
 <figure>
 
-![Doppelseite aus Inventarbuch aus gelblichem Papier, mit vorgedruckten Spalten. Handschriftliche Eintragungen auf beiden Seiten in jeder zweiten Spalte. Das untere Drittel jeweils mit einem großen blauen Kreuz durchgestrichen. Ganz links ist ein kleines rotes Kreuze oder ein Punkt neben jeder Nummer.](images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-v-1-crossed-out-durchgestrichen.png)
+![Doppelseite aus Inventarbuch aus gelblichem Papier, mit vorgedruckten Spalten. Handschriftliche Eintragungen auf beiden Seiten in jeder zweiten Spalte. Das untere Drittel jeweils mit einem großen blauen Kreuz durchgestrichen. Ganz links ist ein kleines rotes Kreuze oder ein Punkt neben jeder Nummer.](/images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-v-1-crossed-out-durchgestrichen.png)
 
 <figcaption>
 
@@ -82,7 +82,7 @@ Zusätzlich zu ihrer Katalogisierung in den Inventarbüchern wurden um 1900 Etik
 
 <figure>
 
-![Kleines Etikett in roter Schrift: X J14/52m. Größeres, stark vergilbtes oder verschmutztes Etikett mit kleinem Aufdruck "Zoolog. Institut": Carcinus maenas Kiemen F0 59m 3070.](images/guests/etiketten-labels-carcinus-maenas.jpg)
+![Kleines Etikett in roter Schrift: X J14/52m. Größeres, stark vergilbtes oder verschmutztes Etikett mit kleinem Aufdruck "Zoolog. Institut": Carcinus maenas Kiemen F0 59m 3070.](/images/guests/etiketten-labels-carcinus-maenas.jpg)
 
 <figcaption>
 
@@ -100,7 +100,7 @@ Während des Zweiten Weltkriegs nahm die Sammlung großen Schaden. Als Folge ein
 
 <figure>
 
-![Doppelseite aus Inventarbuch mit vorgedruckten Spalten. Nur Nummer und Bezeichnung auf der linken Seite sind dicht beschrieben, der Rest ist leer.](images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-v-2-missing-sections-leerstellen.png)
+![Doppelseite aus Inventarbuch mit vorgedruckten Spalten. Nur Nummer und Bezeichnung auf der linken Seite sind dicht beschrieben, der Rest ist leer.](/images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-v-2-missing-sections-leerstellen.png)
 
 <figcaption>
 
@@ -114,7 +114,7 @@ Vermutlich auch aus diesem Grund wurde die vorgedruckte Tabellenstruktur dabei n
 
 <figure>
 
-![Ausschnitt aus Inventarbuch: 2486 Spinax niger; 2488 Acanthias vulgaris, masc., reifer Embryo; 2489 Acanthias vulgaris, fem., reifer Embryo; 2490 Acanthias vulgaris, Embryo; 2491 Acanthias vulgaris, Skelett; 2429a Squalus acanthias (Acanthias vulgaris) Gehirn.](images/guests/new-inventory-acanthias-entry-number-2488.png)
+![Ausschnitt aus Inventarbuch: 2486 Spinax niger; 2488 Acanthias vulgaris, masc., reifer Embryo; 2489 Acanthias vulgaris, fem., reifer Embryo; 2490 Acanthias vulgaris, Embryo; 2491 Acanthias vulgaris, Skelett; 2429a Squalus acanthias (Acanthias vulgaris) Gehirn.](/images/guests/new-inventory-acanthias-entry-number-2488.png)
 
 <figcaption>
 
@@ -130,9 +130,9 @@ Dass es sich dabei um ein und dasselbe Präparat handelt, verrät das Inventarbu
 
 <div class="series">
 
-![Doppelseite aus Inventarbuch mit vorgedruckten Spalten. Geclusterte Einträge auf beiden Seiten, die nicht den vorgegebenen Spalteninhalten folgen. Rotes Quadrat kennzeichnet Bereich unten links.](images/guests/new-inventory-acanthias-1.png)
+![Doppelseite aus Inventarbuch mit vorgedruckten Spalten. Geclusterte Einträge auf beiden Seiten, die nicht den vorgegebenen Spalteninhalten folgen. Rotes Quadrat kennzeichnet Bereich unten links.](/images/guests/new-inventory-acanthias-1.png)
 
-![Rotes Quadrat um den kleineren Ausschnitt der linken Seite: Bleistifteintrag: Acanthias – Squalus. uyatus 1086-2487. 863 – vulg = Squ.ac. 1208-2488. vulg = Squ.ac. 1209-2489. vulg = Squ.ac.1664-2490. vulg = Squ.ac. 2630-2491. vulg = Squ.ac. 3483-2492.](images/guests/new-inventory-acanthias-2.png)
+![Rotes Quadrat um den kleineren Ausschnitt der linken Seite: Bleistifteintrag: Acanthias – Squalus. uyatus 1086-2487. 863 – vulg = Squ.ac. 1208-2488. vulg = Squ.ac. 1209-2489. vulg = Squ.ac.1664-2490. vulg = Squ.ac. 2630-2491. vulg = Squ.ac. 3483-2492.](/images/guests/new-inventory-acanthias-2.png)
 
 </div>
 
@@ -148,7 +148,7 @@ Das Präparat des Dornhai-Embryos fand sich nun unter der Nummer 863 und dem Gat
 
 <figure>
 
-![Schmaler Ausschnitt aus Inventarbuch. Eintrag 1208-1209. Links stehen rote Kreuze. Alles wird durch lange blaue Diagonalen durchgestrichen.](images/guests/inventory-1208-squalus-acanthias-renaming.png)
+![Schmaler Ausschnitt aus Inventarbuch. Eintrag 1208-1209. Links stehen rote Kreuze. Alles wird durch lange blaue Diagonalen durchgestrichen.](/images/guests/inventory-1208-squalus-acanthias-renaming.png)
 
 <figcaption>
 
@@ -164,7 +164,7 @@ Inventarbuch VII zeugt von dieser Entwicklung und ist von weiteren Wechseln des 
 
 <figure>
 
-![Doppelseite aus Inventarbuch mit vorgedruckten Spalten. Bis auf die ersten beiden Zeilen, die in anderer Handschrift notiert wurden, gibt es nur auf der linken Seite Eintragungen. Ganz oben steht 1948-1949.](images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-vii-classification-klassifizierung.png)
+![Doppelseite aus Inventarbuch mit vorgedruckten Spalten. Bis auf die ersten beiden Zeilen, die in anderer Handschrift notiert wurden, gibt es nur auf der linken Seite Eintragungen. Ganz oben steht 1948-1949.](/images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-vii-classification-klassifizierung.png)
 
 <figcaption>
 
@@ -180,7 +180,7 @@ Markierungen mit Kreuzen, Kreisen und Punkten neben Einträgen des Inventarbuchs
 
 <figure>
 
-![Doppelseite aus Inventarbuch mit vorgedruckten Spalten. Handschriftliche Eintragungen auf beiden Seiten. Linke Spalten sehr eng beschrieben. Wenigen Nummern folgt gar kein Eintrag. Einige Felder sind leer oder durch horizontalen Strich gefüllt.](images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-v-1-position-stellplatz.png)
+![Doppelseite aus Inventarbuch mit vorgedruckten Spalten. Handschriftliche Eintragungen auf beiden Seiten. Linke Spalten sehr eng beschrieben. Wenigen Nummern folgt gar kein Eintrag. Einige Felder sind leer oder durch horizontalen Strich gefüllt.](/images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-v-1-position-stellplatz.png)
 
 <figcaption>
 
@@ -192,7 +192,7 @@ _Diese Seite aus dem Inventarbuch VII zeigt die Übertragung der Einträge 1185 
 
 <figure>
 
-![Doppelseite aus Inventarbuch mit vorgedruckten Spalten. Handschriftliche Eintragungen auf beiden Seiten, das untere Drittel jeweils mit großen blauen Kreuzen durchgestrichen. Oben weitere drei Einträge horizontal durchgestrichen, sodass nur zwei gültige Einträge verbleiben.](images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-v-1-crossed-out-durchgestrichen.png)
+![Doppelseite aus Inventarbuch mit vorgedruckten Spalten. Handschriftliche Eintragungen auf beiden Seiten, das untere Drittel jeweils mit großen blauen Kreuzen durchgestrichen. Oben weitere drei Einträge horizontal durchgestrichen, sodass nur zwei gültige Einträge verbleiben.](/images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-v-1-crossed-out-durchgestrichen.png)
 
 <figcaption>
 

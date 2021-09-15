@@ -68,7 +68,7 @@ The fact that these sales points in the ports and the auctions were always fille
 
 <figure>
 
-![Postcard with black and white photograph and red writing: Text: Gruss aus dem zoologischen Garten zu Berlin. Wissmann-Löwe aus Deutsch-Ostafrika. Verlag des Actien-Vereins des zoologischen Gartens zu Berlin – Photographie von Ludwig Bab, Berlin W. Image: Reclining lion with mane leans on cage bars and looks at camera.](images/cmw/Wissmann-lion.jpg)
+![Postcard with black and white photograph and red writing: Text: Gruss aus dem zoologischen Garten zu Berlin. Wissmann-Löwe aus Deutsch-Ostafrika. Verlag des Actien-Vereins des zoologischen Gartens zu Berlin – Photographie von Ludwig Bab, Berlin W. Image: Reclining lion with mane leans on cage bars and looks at camera.](/images/cmw/Wissmann-lion.jpg)
 
 <figcaption>
 
@@ -98,7 +98,7 @@ A major risk for the animal traders was transportation, during which the animals
 
 <figure>
 
-![Typewritten letter: (...) Der am 5.10.1925 eingegangene männliche Löwe wurde am 29. Februar 1912 aus Rhodesien importiert. Das am 16.8.1927 eingegangene Wasserschwein wurde am 28.7.1927 von der Firma Ruhe geliefert. Den am 7.3.1925 eingegangenen braunen Fuchskusu erhielten wir am 7.3.1925 von der Firma Hagenbeck, den am 12.7.1926 eingegangenen grauen Fuchskusu am 3.6.1912 von Jamrach, den am 23.5.1926 eingegangenen Greifstachler am 12.3.24 von Eimecke, Hamburg (...)](images/cmw/MfN_HBSB_S004_02_05_Nr97.jpg)
+![Typewritten letter: (...) Der am 5.10.1925 eingegangene männliche Löwe wurde am 29. Februar 1912 aus Rhodesien importiert. Das am 16.8.1927 eingegangene Wasserschwein wurde am 28.7.1927 von der Firma Ruhe geliefert. Den am 7.3.1925 eingegangenen braunen Fuchskusu erhielten wir am 7.3.1925 von der Firma Hagenbeck, den am 12.7.1926 eingegangenen grauen Fuchskusu am 3.6.1912 von Jamrach, den am 23.5.1926 eingegangenen Greifstachler am 12.3.24 von Eimecke, Hamburg (...)](/images/cmw/MfN_HBSB_S004_02_05_Nr97.jpg)
 
 <figcaption>
 

@@ -38,7 +38,7 @@ While the zoo and the city of Berlin had serious problems feeding their inhabita
 
 <figure>
 
-![Newspaper clipping. Photograph: Elephant with tusks in enclosure, with keeper, who touches him by the ear. Title: Overfed! Berlin's most valuable elephant in mortal danger. As of today: Visitors are prohibited from feeding the animals at the zoo.](images/mv/JamboUeberfuettertBildZeitungAusschnittJPG.jpg)
+![Newspaper clipping. Photograph: Elephant with tusks in enclosure, with keeper, who touches him by the ear. Title: Overfed! Berlin's most valuable elephant in mortal danger. As of today: Visitors are prohibited from feeding the animals at the zoo.](/images/mv/JamboUeberfuettertBildZeitungAusschnittJPG.jpg)
 
 <figcaption>
 
@@ -58,7 +58,7 @@ From the 19th century onwards, zoos in Germany and elsewhere set up feeding kitc
 
 <figure>
 
-![Black and white photograph: Wide paved path, buildings to the left and right, trees in the background. On the path, a man is standing next to a carriage on the left. On the right and further back, carts and equipment.](images/mv/wirtschaftshof-zoo-berlin.png)
+![Black and white photograph: Wide paved path, buildings to the left and right, trees in the background. On the path, a man is standing next to a carriage on the left. On the right and further back, carts and equipment.](/images/mv/wirtschaftshof-zoo-berlin.png)
 
 <figcaption>
 
@@ -84,7 +84,7 @@ How and what the visitors fed was dependent not only on personal preferences, bu
 
 <figure>
 
-![Newspaper clipping. Title: You can go to the zoo again! Illustration: Five people in front of an enclosure. One of them puts something on the outstretched hand of a monkey.](images/mv/TaeglRundschau1945AusschnittJPG.jpg)
+![Newspaper clipping. Title: You can go to the zoo again! Illustration: Five people in front of an enclosure. One of them puts something on the outstretched hand of a monkey.](/images/mv/TaeglRundschau1945AusschnittJPG.jpg)
 
 <figcaption>
 
@@ -124,7 +124,7 @@ Während der Zoo und die Stadt Berlin in den 1940er Jahren große Probleme hatte
 
 <figure>
 
-![Zeitungsausschnitt. Foto: Elefant mit Stoßzähnen im Gehege, der von Pfleger am Ohr berührt wird. Titel: Überfüttert! Berlins wertvollster Elefant in Todesgefahr. Ab heute: Besuchern ist das Füttern im Zoo verboten.](images/mv/JamboUeberfuettertBildZeitungAusschnittJPG.jpg)
+![Zeitungsausschnitt. Foto: Elefant mit Stoßzähnen im Gehege, der von Pfleger am Ohr berührt wird. Titel: Überfüttert! Berlins wertvollster Elefant in Todesgefahr. Ab heute: Besuchern ist das Füttern im Zoo verboten.](/images/mv/JamboUeberfuettertBildZeitungAusschnittJPG.jpg)
 
 <figcaption>
 
@@ -144,7 +144,7 @@ Für die Ernährung der Tiere wurden in den Zoos in Deutschland und anderswo ab 
 
 <figure>
 
-![Schwarz-weiß Foto: Gepflasterter, breiter Weg, links und rechts Gebäude, im Hintergrund Bäume. Auf dem Weg steht links ein Mann neben einer Kutsche, rechts und weiter hinten stehen Karren und Arbeitsgeräte.](images/mv/wirtschaftshof-zoo-berlin.png)
+![Schwarz-weiß Foto: Gepflasterter, breiter Weg, links und rechts Gebäude, im Hintergrund Bäume. Auf dem Weg steht links ein Mann neben einer Kutsche, rechts und weiter hinten stehen Karren und Arbeitsgeräte.](/images/mv/wirtschaftshof-zoo-berlin.png)
 
 <figcaption>
 
@@ -170,7 +170,7 @@ Wie und was die Besucher\*innen fütterten, war dabei nicht nur von persönliche
 
 <figure>
 
-![Zeitungsausschnitt. Titel: Man kann wieder in den Zoo! Illustration: fünf Personen vor Gehege. Eine legt etwas auf die ausgestreckte Hand eines Affen.](images/mv/TaeglRundschau1945AusschnittJPG.jpg)
+![Zeitungsausschnitt. Titel: Man kann wieder in den Zoo! Illustration: fünf Personen vor Gehege. Eine legt etwas auf die ausgestreckte Hand eines Affen.](/images/mv/TaeglRundschau1945AusschnittJPG.jpg)
 
 <figcaption>
 

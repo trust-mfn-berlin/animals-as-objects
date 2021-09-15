@@ -28,7 +28,7 @@ colour_scheme: 0
 
 <figure>
 
-![Species360 logo with stylized globe in the zero. Text below: Global information serving conservation.](images/cover-species-360-logo.jpg)
+![Species360 logo with stylized globe in the zero. Text below: Global information serving conservation.](/images/cover-species-360-logo.jpg)
 
 <figcaption>
 
@@ -52,7 +52,7 @@ The web-based Zoological Information Management System (ZIMS) has existed since 
 
 <figure>
 
-![Species360 Logo mit stilisiertem Globus in der Null, darunter Claim: Global information serving conservation.](images/cover-species-360-logo.jpg)
+![Species360 Logo mit stilisiertem Globus in der Null, darunter Claim: Global information serving conservation.](/images/cover-species-360-logo.jpg)
 
 <figcaption>
 

@@ -36,7 +36,7 @@ colour_scheme: 1
 
 <figure>
 
-![Newspaper clipping. Title: "Siam" under the band saw. Our zoo pachyderm also starved – without fat and without marrow.](images/mv/BandsaegeQuali.jpg)
+![Newspaper clipping. Title: "Siam" under the band saw. Our zoo pachyderm also starved – without fat and without marrow.](/images/mv/BandsaegeQuali.jpg)
 
 <figcaption>
 
@@ -50,7 +50,7 @@ In 1947, the Berlin daily newspaper _Telegraf_ reported on the death of "Siam". 
 
 <figure>
 
-![Newspaper clipping. Photograph: Man in white coat and hat holds the tip of the trunk of a standing elephant with a blanket on its back. Six other people with hats and walking sticks or whips stand by.](images/mv/animal-exchange-circus-and-zoo-Berlin-Neue-Berliner-12-Uhr-Zeitung.jpg)
+![Newspaper clipping. Photograph: Man in white coat and hat holds the tip of the trunk of a standing elephant with a blanket on its back. Six other people with hats and walking sticks or whips stand by.](/images/mv/animal-exchange-circus-and-zoo-Berlin-Neue-Berliner-12-Uhr-Zeitung.jpg)
 
 <figcaption>
 
@@ -70,9 +70,9 @@ One of the trails leads to the Zoological Museum Berlin, which was a part of the
 
 <div class="series">
 
-![Shelf with three boards on which several elephant skulls are stored](images/mv/elephant-skulls-mammal-collection.png)
+![Shelf with three boards on which several elephant skulls are stored](/images/mv/elephant-skulls-mammal-collection.png)
 
-![Open wooden box of lengthy bones lies on a table. A chair stands next to the table; antlers hang in the background.](images/mv/bones-mammal-collection.png)
+![Open wooden box of lengthy bones lies on a table. A chair stands next to the table; antlers hang in the background.](/images/mv/bones-mammal-collection.png)
 
 </div>
 
@@ -100,7 +100,7 @@ The lions at the Berlin Zoo received some of the elephant meat. About 20 pounds 
 
 <figure>
 
-![Newspaper clipping. Title: Siam on the menu. Zoo animals with special allowance.](images/mv/Speisekarte.jpg)
+![Newspaper clipping. Title: Siam on the menu. Zoo animals with special allowance.](/images/mv/Speisekarte.jpg)
 
 <figcaption>
 
@@ -166,7 +166,7 @@ At the same time, the afterlife of "Siam" reveals the gaps in the record, the li
 
 <figure>
 
-![Zeitungsausschnitt. Titel: "Siam" unter der Bandsäge. Unser Zoo-Dickhäuter auch verhungert - ohne Fett und ohne Mark.](images/mv/BandsaegeQuali.jpg)
+![Zeitungsausschnitt. Titel: "Siam" unter der Bandsäge. Unser Zoo-Dickhäuter auch verhungert - ohne Fett und ohne Mark.](/images/mv/BandsaegeQuali.jpg)
 
 <figcaption>
 
@@ -180,7 +180,7 @@ _Zeitungsartikel im_ Telegraf _über "Siams" Verwertung, 21.03.1947._
 
 <figure>
 
-![Zeitungsausschnitt. Foto: Mann in weißem Kittel und mit Hut hält Rüsselspitze eines stehenden Elefanten mit Decke auf dem Rücken. Sechs weitere Personen mit Hüten und Gehstöcken oder Gerten stehen dabei.](images/mv/animal-exchange-circus-and-zoo-Berlin-Neue-Berliner-12-Uhr-Zeitung.jpg)
+![Zeitungsausschnitt. Foto: Mann in weißem Kittel und mit Hut hält Rüsselspitze eines stehenden Elefanten mit Decke auf dem Rücken. Sechs weitere Personen mit Hüten und Gehstöcken oder Gerten stehen dabei.](/images/mv/animal-exchange-circus-and-zoo-Berlin-Neue-Berliner-12-Uhr-Zeitung.jpg)
 
 <figcaption>
 
@@ -200,9 +200,9 @@ Eine der Spuren führt in das Zoologische Museum Berlin, das Teil des Naturkunde
 
 <div class="series">
 
-![Regal mit drei Brettern, auf denen mehrere Elefantenschädel lagern.](images/mv/elephant-skulls-mammal-collection.png)
+![Regal mit drei Brettern, auf denen mehrere Elefantenschädel lagern.](/images/mv/elephant-skulls-mammal-collection.png)
 
-![Offene Holzkiste auf einem Tisch, in der längliche Knochen liegen. Neben dem Tisch steht ein Stuhl, im Hintergrund hängen Geweihe.](images/mv/box-with-bones-mammal-collection.png)
+![Offene Holzkiste auf einem Tisch, in der längliche Knochen liegen. Neben dem Tisch steht ein Stuhl, im Hintergrund hängen Geweihe.](/images/mv/box-with-bones-mammal-collection.png)
 
 </div>
 
@@ -230,7 +230,7 @@ Die Löwen im Berliner Zoo erhielten einen Teil des Elefantenfleisches. Rund 20 
 
 <figure>
 
-![Zeitungsauschnitt. Titel: Siam auf der Speisenkarte. Zoo-Tiere mit Sonderzulage.](images/mv/Speisekarte.jpg)
+![Zeitungsauschnitt. Titel: Siam auf der Speisenkarte. Zoo-Tiere mit Sonderzulage.](/images/mv/Speisekarte.jpg)
 
 <figcaption>
 

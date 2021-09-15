@@ -32,7 +32,7 @@ EN content
 
 <figure>
 
-![Leicht vergilbte Karteikarte mit maschinen- und handschriftlichen Eintragungen. Für Transkript, siehe unten.](images/common-seadragon-index-card-kleiner-fetzenfisch-karteikarte.jpg)
+![Leicht vergilbte Karteikarte mit maschinen- und handschriftlichen Eintragungen. Für Transkript, siehe unten.](/images/common-seadragon-index-card-kleiner-fetzenfisch-karteikarte.jpg)
 
 <figcaption>
 

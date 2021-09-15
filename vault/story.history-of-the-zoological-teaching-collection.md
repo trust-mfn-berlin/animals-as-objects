@@ -47,7 +47,7 @@ Zunächst als drei Teilsammlungen unter dem Dach des Universitätsgebäudes vero
 
 <figure>
 
-![Schwarz-weiß Foto: Acht Erwachsene und drei Kinder stehen vor dem Eingangstor eines Backsteingebäudes über dem ein großes Wandgemälde prangt.](images/guests/history-zoological-teaching-collection-geschichte-zoologische-lehrsammlung-1888-berlin.png)
+![Schwarz-weiß Foto: Acht Erwachsene und drei Kinder stehen vor dem Eingangstor eines Backsteingebäudes über dem ein großes Wandgemälde prangt.](/images/guests/history-zoological-teaching-collection-geschichte-zoologische-lehrsammlung-1888-berlin.png)
 
 <figcaption>
 
@@ -71,7 +71,7 @@ Nachdem die Sammlung bis zum Zweiten Weltkrieg beinah stetig weitergewachsen war
 
 <figure>
 
-![Doppelseite eines Inventarbuchs mit vorgedruckten Spalten und Überschriften: No., Bezeichnung, Fundort, Conservirung, Erwerbung, Stückzahl, Preis, Belag, Bemerkungen. Etwa die halbe Doppelseite ist gefüllt mit Einträgen in grün, schwarz und blau.](images/guests/few-entries-wenig-eintraege-zoological-teaching-collection-zoologische-lehrsammlung-berlin-1937-1943.png)
+![Doppelseite eines Inventarbuchs mit vorgedruckten Spalten und Überschriften: No., Bezeichnung, Fundort, Conservirung, Erwerbung, Stückzahl, Preis, Belag, Bemerkungen. Etwa die halbe Doppelseite ist gefüllt mit Einträgen in grün, schwarz und blau.](/images/guests/few-entries-wenig-eintraege-zoological-teaching-collection-zoologische-lehrsammlung-berlin-1937-1943.png)
 
 <figcaption>
 
@@ -87,7 +87,7 @@ Die Nachkriegszeit war geprägt von Wiederaufbauarbeiten. Die Sammlungs- und Unt
 
 <figure>
 
-![Doppelseite des Inventarbuchs, in gleicher Handschrift etwa zur Hälfte beschrieben. Ganz oben in Bleistift: Vermerk zur Zerstörung durch Bomben. Links unten: Eintragung des Datums der Neuinventarisierung. Rechts unten: Grüner Werbeaufkleber der Produktionsfirma des Buchs.](images\guests\postwar-cataloguing-nachkriegszeit-inventarisierung-zoological-teaching-collection-zoologische-lehrsammlung-berlin.png)
+![Doppelseite des Inventarbuchs, in gleicher Handschrift etwa zur Hälfte beschrieben. Ganz oben in Bleistift: Vermerk zur Zerstörung durch Bomben. Links unten: Eintragung des Datums der Neuinventarisierung. Rechts unten: Grüner Werbeaufkleber der Produktionsfirma des Buchs.](/images/guests\postwar-cataloguing-nachkriegszeit-inventarisierung-zoological-teaching-collection-zoologische-lehrsammlung-berlin.png)
 
 <figcaption>
 

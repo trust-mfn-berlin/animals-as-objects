@@ -35,11 +35,11 @@ EN content
 
 <div class="series">
 
-![Zwei längliche Modellteile in Grau- und Beige-Tönen liegen auf hellem Untergrund.](images/guests/silkworm-seidenraupe-maulbeerspinner-model-top-view-louis-auzoux.jpeg)
+![Zwei längliche Modellteile in Grau- und Beige-Tönen liegen auf hellem Untergrund.](/images/guests/silkworm-seidenraupe-maulbeerspinner-model-top-view-louis-auzoux.jpeg)
 
-![Untere Hälfte eines großen Raupenmodells bei dem die Oberseite (Deckel) abgenommen wurde. Im Inneren sind die Innreien durch verschlängelte, dicke Fäden dargestellt. Die Seite des Modells ist sehr fein bemalt mit augen-ähnlicher Musterung in regelmäßigen Abständen Mehrere nach unten stehende Metallhaken sind an der Seite des Modells befestigt..](images/guests/silkworm-seidenraupe-maulbeerspinner-model-opened-top-view-louis-auzoux.jpeg)
+![Untere Hälfte eines großen Raupenmodells bei dem die Oberseite (Deckel) abgenommen wurde. Im Inneren sind die Innreien durch verschlängelte, dicke Fäden dargestellt. Die Seite des Modells ist sehr fein bemalt mit augen-ähnlicher Musterung in regelmäßigen Abständen Mehrere nach unten stehende Metallhaken sind an der Seite des Modells befestigt..](/images/guests/silkworm-seidenraupe-maulbeerspinner-model-opened-top-view-louis-auzoux.jpeg)
 
-![Kopf des Raupenmodells ohne Deckel. Drei Beinpaare in Kopfnähe. Jeweils zwei längliche Borsten stehen von den Beinen ab. Ein nach oben geklappter Metallhaken ist an der Seite des Modells befestigt. Kopf ist braun, mit kleinen Mundwerkzeugen.](images/guests/silkworm-seidenraupe-maulbeerspinner-model-detail-louis-auzoux.jpeg)
+![Kopf des Raupenmodells ohne Deckel. Drei Beinpaare in Kopfnähe. Jeweils zwei längliche Borsten stehen von den Beinen ab. Ein nach oben geklappter Metallhaken ist an der Seite des Modells befestigt. Kopf ist braun, mit kleinen Mundwerkzeugen.](/images/guests/silkworm-seidenraupe-maulbeerspinner-model-detail-louis-auzoux.jpeg)
 
 </div>
 
@@ -57,7 +57,7 @@ Während das Atelier von Adolf Ziegler (1820-1889) und seinem Sohn Friedrich (18
 
 <figure>
 
-![Seitliche Ansicht des Modells eines Maulbeerspinners. Trotz des geschlossenen Deckels bleibt seitlich ein Spalt offen durch den die modellierten Innereien erkennbar sind.](images/guests/silkworm-seidenraupe-maulbeerspinner-model-side-view-louis-auzoux.jpeg)
+![Seitliche Ansicht des Modells eines Maulbeerspinners. Trotz des geschlossenen Deckels bleibt seitlich ein Spalt offen durch den die modellierten Innereien erkennbar sind.](/images/guests/silkworm-seidenraupe-maulbeerspinner-model-side-view-louis-auzoux.jpeg)
 
 <figcaption>
 

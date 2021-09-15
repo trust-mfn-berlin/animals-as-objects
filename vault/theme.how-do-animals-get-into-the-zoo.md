@@ -115,7 +115,7 @@ First, however, awareness for this problem had to emerge. Between 1950 and 1952,
 
 <figure>
 
-![Black and white photograph: three hippos half submerged in water. The animal in the middle is smaller, all look to the left to the edge of the pool.](images\cmw\Knautschke_Bulette_Jette_Foto_Kurt_Hoppe.jpg)
+![Black and white photograph: three hippos half submerged in water. The animal in the middle is smaller, all look to the left to the edge of the pool.](/images/cmw/Knautschke_Bulette_Jette_Foto_Kurt_Hoppe.jpg)
 
 <figcaption>
 
@@ -299,7 +299,7 @@ Das Bewusstsein für diese Problematik musste aber erst noch entstehen. Im Berli
 
 <figure>
 
-![Schwarz-weiß Foto: drei halb im Wasser untergetauchte Flusspferden. Das Tier in der Mitte ist ein Jungtier, alle schauen nach links zum Beckenrand.](images\cmw\Knautschke_Bulette_Jette_Foto_Kurt_Hoppe.jpg)
+![Schwarz-weiß Foto: drei halb im Wasser untergetauchte Flusspferden. Das Tier in der Mitte ist ein Jungtier, alle schauen nach links zum Beckenrand.](/images/cmw/Knautschke_Bulette_Jette_Foto_Kurt_Hoppe.jpg)
 
 <figcaption>
 

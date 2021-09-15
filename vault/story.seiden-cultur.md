@@ -60,7 +60,7 @@ Mit diesem Züchtungsvorgang verbanden sich in Preußen, Südeuropa und China be
 
 <figure>
 
-![Flacher Schaukasten mit Holzrahmen. In drei Reihen sind Raupenfäden, Eier, Puppen und ausgewachsene Schmetterlinge befestigt, mit kleinen maschinen- und handgeschriebenen Beschriftungen.](images/guests/bekleidung-seide-maulbeerspinner-clothing-silk-silkworm-museum-naturkunde-natural-history-berlin.JPG)
+![Flacher Schaukasten mit Holzrahmen. In drei Reihen sind Raupenfäden, Eier, Puppen und ausgewachsene Schmetterlinge befestigt, mit kleinen maschinen- und handgeschriebenen Beschriftungen.](/images/guests/bekleidung-seide-maulbeerspinner-clothing-silk-silkworm-museum-naturkunde-natural-history-berlin.JPG)
 
 <figcaption>
 
@@ -76,7 +76,7 @@ Ein weiterer Schaukasten im Museum für Naturkunde unklaren Herstellungsdatums t
 
 <figure>
 
-![Bunte Illustrationen von Eiern, Raupen, Puppen und zerfressenen Blättern auf einer alten Buchseite.](images/guests/silkworm-seidenraupe-development-entwicklung-bertuch-bilderbuch-1790.jpg)
+![Bunte Illustrationen von Eiern, Raupen, Puppen und zerfressenen Blättern auf einer alten Buchseite.](/images/guests/silkworm-seidenraupe-development-entwicklung-bertuch-bilderbuch-1790.jpg)
 
 <figcaption>
 

@@ -33,9 +33,9 @@ EN content
 
 <div class="series">
 
-![Schmaler Holzkasten mit bedruckten Zetteln in Postkartengröße. An manchen Zetteln sind oben Tabs angebracht, manche stehen schräg heraus, manche sind mit kleinen gelben oder roten Klebezetteln gekennzeichnet. Der Holzkasten ist einer von vielen, die sich aus einem Regal wie Schubladen herausziehen lassen.](images/guests/zettelkasten-zoologische-lehrsammlung-index-card-catalogue-zoological-teaching-collection-berlin.jpg)
+![Schmaler Holzkasten mit bedruckten Zetteln in Postkartengröße. An manchen Zetteln sind oben Tabs angebracht, manche stehen schräg heraus, manche sind mit kleinen gelben oder roten Klebezetteln gekennzeichnet. Der Holzkasten ist einer von vielen, die sich aus einem Regal wie Schubladen herausziehen lassen.](/images/guests/zettelkasten-zoologische-lehrsammlung-index-card-catalogue-zoological-teaching-collection-berlin.jpg)
 
-![Zwei mit Klebeband aneinander geklebte Zettel in Postkartengröße. Der obere Zettel ist eine vergilbte Karteikarte, kopfüber zu sehen, und wurde in schwarz und rot mit Schreibmaschine beschrieben. Der untere Zettel ist aus weniger verfärbt und in schwarz bedruckt. Er wurde zusätzlich mit zwei alten, vergilbten Aufklebern, mit einem Post-It und mit zahlreichen Wörtern und Markierungen versehen, die von mindestens vier verschiedenen Stiften stammen.](images/guests/old-and-new-index-cards-zoological-teaching-collection-alte-und-neue-karteikarte-zoologische-lehrsammlung-berlin.jpg)
+![Zwei mit Klebeband aneinander geklebte Zettel in Postkartengröße. Der obere Zettel ist eine vergilbte Karteikarte, kopfüber zu sehen, und wurde in schwarz und rot mit Schreibmaschine beschrieben. Der untere Zettel ist aus weniger verfärbt und in schwarz bedruckt. Er wurde zusätzlich mit zwei alten, vergilbten Aufklebern, mit einem Post-It und mit zahlreichen Wörtern und Markierungen versehen, die von mindestens vier verschiedenen Stiften stammen.](/images/guests/old-and-new-index-cards-zoological-teaching-collection-alte-und-neue-karteikarte-zoologische-lehrsammlung-berlin.jpg)
 
 </div>
 
@@ -53,7 +53,7 @@ Als Papiertechnologie werden die abgebildeten Karteikarten noch heute zur Organi
 
 <figure>
 
-![Leicht vergilbte Karteikarte mit maschinen- und handschriftlichen Eintragungen. Für Transkript, siehe Link in Bildunterschrift.](images/common-seadragon-index-card-kleiner-fetzenfisch-karteikarte.jpg)
+![Leicht vergilbte Karteikarte mit maschinen- und handschriftlichen Eintragungen. Für Transkript, siehe Link in Bildunterschrift.](/images/common-seadragon-index-card-kleiner-fetzenfisch-karteikarte.jpg)
 
 <figcaption>
 

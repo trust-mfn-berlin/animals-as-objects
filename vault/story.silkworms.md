@@ -35,7 +35,7 @@ colour_scheme: 7
 
 <figure>
 
-![Großer Laubbaum mit runder Krone an einer Ecke zwischen zwei mehrstöckigen Gebäuden mit heller Steinfassade und hohen Fenstern. Der Baum ist etwa zwei Stockwerke hoch. Daneben stehen geparkte Autos.](images/guests/maulbeerbaum-mulberry-tree-silkworm-maulbeerspinner-history-berlin.JPG)
+![Großer Laubbaum mit runder Krone an einer Ecke zwischen zwei mehrstöckigen Gebäuden mit heller Steinfassade und hohen Fenstern. Der Baum ist etwa zwei Stockwerke hoch. Daneben stehen geparkte Autos.](/images/guests/maulbeerbaum-mulberry-tree-silkworm-maulbeerspinner-history-berlin.JPG)
 
 <figcaption>
 
@@ -53,7 +53,7 @@ Die Kuratorin der Sammlung Lepidoptera (Schmetterlinge), Viola Richter, weist mi
 
 <figure>
 
-![Flacher Schaukasten mit Holzrahmen und weißem Hintergrund. Linke Seite: 66 Motten in verschiedenen Beige- und Brauntönen. Rechte Seite: zahlreiche Eier, Raupen, Puppen. Fixierung durch feine Nadeln. Der Kasten wird von einer Person in weißem Kittel gehalten.](images/guests/museum-of-natural-history-naturkundemuseum-berlin-maulbeerspinner-silkworm-display-schaukasten.JPG)
+![Flacher Schaukasten mit Holzrahmen und weißem Hintergrund. Linke Seite: 66 Motten in verschiedenen Beige- und Brauntönen. Rechte Seite: zahlreiche Eier, Raupen, Puppen. Fixierung durch feine Nadeln. Der Kasten wird von einer Person in weißem Kittel gehalten.](/images/guests/museum-of-natural-history-naturkundemuseum-berlin-maulbeerspinner-silkworm-display-schaukasten.JPG)
 
 <figcaption>
 
@@ -79,7 +79,7 @@ Um die Geschichte des aus Brandenburg und Berlin verschwundenen Tiers nachzuzeic
   
 <figure>
 
-![Buchseite mit elf Illustrationen von Insekten in verschiedenen Entwicklungsstadien. Oben: Ei, Raupe und Motte; mittig: Bienenarten, Wabenformen und Larven; unten: Schaf auf grünem Gras.](images/guests/silkworm-honeybee-seidenraupe-honigbiene-neue-bilder-gallerie-oehmigcke.jpg)
+![Buchseite mit elf Illustrationen von Insekten in verschiedenen Entwicklungsstadien. Oben: Ei, Raupe und Motte; mittig: Bienenarten, Wabenformen und Larven; unten: Schaf auf grünem Gras.](/images/guests/silkworm-honeybee-seidenraupe-honigbiene-neue-bilder-gallerie-oehmigcke.jpg)
 
 <figcaption>
 
@@ -99,7 +99,7 @@ Der Zoologe Carl von Linné prägte im 18. Jahrhundert für die Gestaltwandlung 
 
 <figure>
 
-![Buchtitelseite mit Illustration eines oval geschwungenen Zweigs, an dem rote Beeren und zerfressene grüne Blätter wachsen. Auf den Blättern sitzen Raupen, Fliegen, Käfer u.ä. Titel steht mittig.](images/guests/silkworm-honeybee-seidenraupe-honigbiene-neue-bilder-gallerie-oehmigcke.jpg)
+![Buchtitelseite mit Illustration eines oval geschwungenen Zweigs, an dem rote Beeren und zerfressene grüne Blätter wachsen. Auf den Blättern sitzen Raupen, Fliegen, Käfer u.ä. Titel steht mittig.](/images/guests/silkworm-honeybee-seidenraupe-honigbiene-neue-bilder-gallerie-oehmigcke.jpg)
 
 <figcaption>
 
@@ -115,7 +115,7 @@ Nachdem im 17. und 18. Jahrhundert die [[story.seiden-cultur]] in Preußen einen
   
 <figure>
 
-![Karte mit Umriss von Berlin. Bezirksgrenzen, Wasser und Grünflächen sind markiert. Acht rote Punkte sind über ganz Berlin verteilt.](images/guests/old-mulberry-trees-alte-maulbeerbaeume-berlin-stadtgruen.jpg)
+![Karte mit Umriss von Berlin. Bezirksgrenzen, Wasser und Grünflächen sind markiert. Acht rote Punkte sind über ganz Berlin verteilt.](/images/guests/old-mulberry-trees-alte-maulbeerbaeume-berlin-stadtgruen.jpg)
 
 <figcaption>
 
@@ -129,7 +129,7 @@ Vielleicht am spektakulärsten ist jener alte Maulbeerbaum, der heute noch in ei
 
 <figure>
 
-![Blick von unten in die lichte Krone eines großen Laubbaums, dessen schiefer Stamm von einer im Boden verankerten Metallstütze mit rot-weißer Sicherheitsmarkierung gehalten wird. Herbstlaub liegt rundum.](images/guests/old-mulberry-tree-alter-maulbeerbaum-charite-berlin.jpeg)
+![Blick von unten in die lichte Krone eines großen Laubbaums, dessen schiefer Stamm von einer im Boden verankerten Metallstütze mit rot-weißer Sicherheitsmarkierung gehalten wird. Herbstlaub liegt rundum.](/images/guests/old-mulberry-tree-alter-maulbeerbaum-charite-berlin.jpeg)
 
 <figcaption>
 
@@ -143,7 +143,7 @@ Seine Pflanzung und Bewahrung stehen in Zusammenhang mit einer Siedlung für die
 
 <figure>
 
-![Friedhofsweg, an dem links eine blaue Schautafel steht. Rechts steht eine Reihe junger Laubbäume an einer Mauer.](images/guests/mulberry-trees-maulbeerbaeume-berlin-friedhof-cemetary.JPG)
+![Friedhofsweg, an dem links eine blaue Schautafel steht. Rechts steht eine Reihe junger Laubbäume an einer Mauer.](/images/guests/mulberry-trees-maulbeerbaeume-berlin-friedhof-cemetary.JPG)
 
 <figcaption>
 

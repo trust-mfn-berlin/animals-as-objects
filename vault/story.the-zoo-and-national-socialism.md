@@ -116,7 +116,7 @@ Financially, the zoo flourished with the rise of National Socialism. This was fa
 
 <figure>
 
-![Reddish paper ticket with swastika. Text: Die Deutsche Arbeitsfront NS-Gemeinschaft "Kraft durch Freude" Gau Gross-Berlin; Inhaber dieser Anweisung erhält am Freitag, dem 3., 10., 17., 24., od. 31.7.1936 gegen Nachzahlung von RM 0,40 an den Tageskassen des Zoo eine Eintrittskarte für den "Kraft durch Freude"-Tag im Zoo; Die Anweisung gilt wahlweise auch für das Aquarium (...).](images/cmw/Kdf_Eintrittskarte.jpg)
+![Reddish paper ticket with swastika. Text: Die Deutsche Arbeitsfront NS-Gemeinschaft "Kraft durch Freude" Gau Gross-Berlin; Inhaber dieser Anweisung erhält am Freitag, dem 3., 10., 17., 24., od. 31.7.1936 gegen Nachzahlung von RM 0,40 an den Tageskassen des Zoo eine Eintrittskarte für den "Kraft durch Freude"-Tag im Zoo; Die Anweisung gilt wahlweise auch für das Aquarium (...).](/images/cmw/Kdf_Eintrittskarte.jpg)
 
 <figcaption>
 
@@ -218,7 +218,7 @@ Many zoos in the countries conquered by Germany fared differently than the prote
 
 <figure>
 
-![Print in Gothic lettering: … Ferner wurden eine Anzahl Tiere des Zoologischen Gartens Warschau zu treuen Händen eingestellt, nämlich: 1 indischer Elefant, 1 Wisent, 1 Verdrängungszuchtwisent, 1 Wildpferd, 1 Weißschwanzgnu, 1 Hartmannzebra, 3 Kamele, 1 Strauß, 4 Luchse, 7 Stachelschweine, 1 Lama, 2 Shetland-Ponies, 2 Flamingos, 2 Pelikane, 1 schwarzer Schwan.](images/cmw/Beute_Warschau_GB.jpg)
+![Print in Gothic lettering: … Ferner wurden eine Anzahl Tiere des Zoologischen Gartens Warschau zu treuen Händen eingestellt, nämlich: 1 indischer Elefant, 1 Wisent, 1 Verdrängungszuchtwisent, 1 Wildpferd, 1 Weißschwanzgnu, 1 Hartmannzebra, 3 Kamele, 1 Strauß, 4 Luchse, 7 Stachelschweine, 1 Lama, 2 Shetland-Ponies, 2 Flamingos, 2 Pelikane, 1 schwarzer Schwan.](/images/cmw/Beute_Warschau_GB.jpg)
 
 <figcaption>
 

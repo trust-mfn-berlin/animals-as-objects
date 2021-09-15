@@ -59,7 +59,7 @@ Until about 1925, the journals did not include information on monetary value. Th
 
 ![Linke Seite aus handschriftlich geführtem Journal mit Überschrift: Veränderung im Tierbestande. Spalten auf linker Seite: Tierart, Bestand, Gekauft, Kaufpreis, Geboren.](/images/cmw/Journal_1936_l.jpg)
 
-![Rechte Seite aus handschriftlich geführtem Journal mit der Überschrift: Veränderung im Tierbestande. Spalten auf rechter Seite: Geschenkt, Gestorben, Verkauft, Bestand, Inventur-Wert.](images/cmw/Journal_1936_r.jpg)
+![Rechte Seite aus handschriftlich geführtem Journal mit der Überschrift: Veränderung im Tierbestande. Spalten auf rechter Seite: Geschenkt, Gestorben, Verkauft, Bestand, Inventur-Wert.](/images/cmw/Journal_1936_r.jpg)
 
 </div>
 
