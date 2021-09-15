@@ -6,6 +6,26 @@ useFMTitle: true
 useNoteTitleForLink: true
 noAutoCreateOnDefinition: true
 noLegacyNoteRef: true
+noXVaultWikiLink: true
+lookupConfirmVaultOnCreate: false
+mermaid: true
+useKatex: true
+autoFoldFrontmatter: true
+dev:
+    previewV2Enabled: false
+lookup:
+    note:
+        selectionType: selectionExtract
+journal:
+    dailyDomain: daily
+    name: journal
+    dateFormat: y.MM.dd
+    addBehavior: childOfDomain
+    firstDayOfWeek: 1
+scratch:
+    name: scratch
+    dateFormat: y.MM.dd.HHmmss
+    addBehavior: asOwnDomain
 site:
     copyAssets: true
     siteHierarchies:
@@ -19,16 +39,4 @@ site:
         payload:
             - vault
 initializeRemoteVaults: false
-journal:
-    dailyDomain: daily
-    name: journal
-    dateFormat: y.MM.dd
-    addBehavior: childOfDomain
-    firstDayOfWeek: 1
-dendronVersion: 0.53.0
-dev:
-    previewV2Enabled: false
-scratch:
-    name: scratch
-    dateFormat: y.MM.dd.HHmmss
-    addBehavior: asOwnDomain
+dendronVersion: 0.56.0

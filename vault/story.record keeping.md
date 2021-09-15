@@ -1,17 +1,20 @@
 ---
-id: c8af1959-fa09-44e7-9bff-b21971c68205
-title: Record Keeping
-desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-updated: 1621591321002
-created: 1620395501349
-title_de: Record Keeping MfN
-desc_de: Put a DE description of this note here...
-author: mv
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Record Keeping MfN
+created: 1620395501349
+author: mv
+short_desc_de: DE short desc
+date_end: ""
 published: false
-colour_scheme: 5
+title: Record Keeping
+updated: 1621591321002
+id: c8af1959-fa09-44e7-9bff-b21971c68205
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: EN short desc
+cover_image: null
+tao_type: story
+date_start: ""
 ---
 
 

@@ -16,7 +16,7 @@ colour_scheme: 11
 
 :::EN:::
 
-[[story.micropaleontological-formations]], [[theme.microbial worlds]]
+[[story.micropaleontological-formations]], [[theme.microbial-worlds]]
 
 :::DE:::
 

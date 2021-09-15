@@ -7,7 +7,7 @@ short_desc_de: Von Telegrafen zu Proben
 date_end: 1859-12-31T11:06:32.000Z
 published: false
 title: Finding Cycladophora
-updated: 1628519988532
+updated: 1629750833333
 id: 4kJJB2pX-g7lq6q7GUt0W
 translators:
   translator_en_de: Anna von Rath
@@ -43,7 +43,7 @@ colour_scheme: 12
 
 <figcaption>
 
-_A map of the surveys for transatlantic telegraph lines in 1861, published by [[material.christian gottfried ehrenberg]].[^1]_
+_A map of the surveys for transatlantic telegraph lines in 1861, published by Christian Gottfried Ehrenberg]].[^1]_
 
 </figcaption>
 

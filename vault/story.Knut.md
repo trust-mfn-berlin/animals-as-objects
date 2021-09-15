@@ -1,18 +1,29 @@
 ---
-id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
-title: Knut
-desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-updated: 1624527602763
-created: 1618576718116
-title_de: Knut
-desc_de: Der 2006 geborene Eisbär "Knut" entwickelte eine bis dahin für ein einzelnes Zootier ungekannte Popularität. Medien und Zooleitung machten ihn zu einem 'Botschafter' der Klimakrise, die das Habitat der Eisbären bedrohte. Die starke Übertragung von Emotionen von Besucher\*innen und Fans in aller Welt auf das Tier wirkte über seinen Tod hinaus.
-author: CMW
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Knut
+created: 1618576718116
+author: Clemens Maier-Wolthausen
+short_desc_de: '"Knuts" ökonomische und emotionale Bedeutung in Zeiten des Klimawandels'
+date_end: ""
 published: false
-colour_scheme: 2
-feature: true
+title: Knut
+updated: 1622728802538
+id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
+translators:
+  translator_de_en: Lydia J. White
+desc: EN Der 2006 geborene Eisbär "Knut" entwickelte eine bis dahin für ein
+  einzelnes Zootier ungekannte Popularität. Welche Mechanismen haben diese
+  starke Wirkung eines Zootiers über seinen Tod hinaus bedingt?
+desc_de: Der 2006 geborene Eisbär "Knut" entwickelte eine bis dahin für ein
+  einzelnes Zootier ungekannte Popularität. Welche Mechanismen haben diese
+  starke Wirkung eines Zootiers über seinen Tod hinaus bedingt?
+short_desc: EN "Knuts" ökonomische und emotionale Bedeutung in Zeiten des Klimawandels
+cover_image:
+  image: /images/cover-knut-polar-bear-eisbaer-berlin-2006.jpg
+  alt: '"Knut" at the Berlin zoo in 2007. "Knut" 2007 im Berliner Zoo. Source:
+    AZGB, photo Griesbach. All rights reserved.'
+tao_type: story
+date_start: ""
 ---
 
 :::EN:::
@@ -159,7 +170,7 @@ Die unzähligen Kommentare und Reaktionen auf den facebook-Post zeigen, dass Zoo
 ![desc](/images/cmw/Dorfleinpost_220920_Komentarspalte.PNG)
 *Kommentare auf den Post des Fördervereins Freunde der Hauptsstadtzoos auf Facebook vom 22.09.2020*
 
-Anders als bei "Knut" 2013 gab es 1935 - selbst wenn sich die Quellen einer funktionierenden Zivilgesellschaft einer Demokratie und denen einer Diktatur nicht vergleichen lassen - keine Diskussion über die Ausstellung des damals höchst beliebten Gorilla "Bobby" [[story.Bobby life]]. Dessen Totenmaske hing passenderweise im Präparierraum des Naturkundemuseums.
+Anders als bei "Knut" 2013 gab es 1935 - selbst wenn sich die Quellen einer funktionierenden Zivilgesellschaft einer Demokratie und denen einer Diktatur nicht vergleichen lassen - keine Diskussion über die Ausstellung des damals höchst beliebten Gorilla "Bobby" [[story.bobby]]. Dessen Totenmaske hing passenderweise im Präparierraum des Naturkundemuseums.
 
 ![desc](/images/cmw/130114_Knut_06.jpg)
 *"Knut in der Präparationswerkstatt des Naturkundemuseums. Im Hintergrund die Totenmaske von "Bobby", 2013.(Carola Radke, MfN 2013)*

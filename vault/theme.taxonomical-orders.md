@@ -1,13 +1,13 @@
 ---
 id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
-title: Taxonomical orders
+title: Taxonomical Orders
 desc: >-
   In biology, taxonomy is a formal system to name, define, and classify
   organisms, regulated and governed by a set of rules. Since its beginning
   biological taxonomy was neither stable nor universal, controversies frequently
   emerged. Classifications still continue to change today – and they have
   lasting impacts on our world.
-updated: 1628523014939
+updated: 1629748561765
 created: 1618491191119
 license: CC BY-SA
 title_de: Taxonomische Ordnung
@@ -70,15 +70,14 @@ Even as molecular and computational biology came to revolutionise the life scien
 
 Digital databases have proliferated and they allow easier access, more democratic community participation, and most importantly, more standardisation, precision, and computational power.  The _Encyclopedia of Life_, the _Global Biodiversity Information Facility_, the _NCBI taxonomy database_, the _Open Tree of Life_, the _Catalogue of Life_, and even [[material.species360]] are only some of the most significant databases; the more they are used, the more successful and established they become – in a positive feedback loop that is transforming taxonomy's practices. These digital resources for biological taxonomy help scientists who might not always have the opportunity to keep up with ever-expanding and changing classifications. They have, in a way, revolutionized taxonomy. Yet, privileging computational and statistical approaches, databases have also been criticised for further endangering an already threatened taxonomical expertise: fewer and fewer biologists study detailed, complex, changing, and historically muddy taxonomical classifications, as molecular techniques are often more readily accessible, and maintain an aura of being scientific. To counter this tendency, taxonomers collaborate and experiment with methods to preserve taxonomical knowledge, for instance through initiatives like the _European Distributed Institute of Taxonomy_, which aims to defend taxonomic knowledge by teaching it to new generations of scientists, but also by engaging in the design and management of data infrastructures – in particular in conjunction with scientific collections in museums and research institutes.[^10]
 
-Like all sorts of classifications, biological taxonomies are entangled with power: the power to define categories, to include and exclude, as well as the power to enforce these orders. These orders are clearly made visible and tangible in their effects on the architectures of displays and collections, like in the cases of the Museum für Naturkunde and the Berlin Zoo. Changes in taxonomical orders often result in changes in the display and organisation of animals in zoological collections and their [[story.architecture]]. **In this sense, taxonomical orders are never neutral, but have significant real-life consequences.**[^11] This is particularly evident in the contemporary articulation of the technocratic governmentality emerging around climate change and the pressing need for quantifying and managing biodiversity loss.[^12] If different approaches to taxonomy can result in different interpretations of data, different thresholds, and hence different policies to handle environmental problems, the ordering practices of taxonomy have an important role in how we will manage to navigate the challenges offered by a transforming planet and our efforts in [[theme.recording worlds]].
-
+Like all sorts of classifications, biological taxonomies are entangled with power: the power to define categories, to include and exclude, as well as the power to enforce these orders. These orders are clearly made visible and tangible in their effects on the architectures of displays and collections, like in the cases of the Museum für Naturkunde and the Berlin Zoo. Changes in taxonomical orders often result in changes in the display and organisation of animals in zoological collections and their architecture. **In this sense, taxonomical orders are never neutral, but have significant real-life consequences.**[^11] This is particularly evident in the contemporary articulation of the technocratic governmentality emerging around climate change and the pressing need for quantifying and managing biodiversity loss.[^12] If different approaches to taxonomy can result in different interpretations of data, different thresholds, and hence different policies to handle environmental problems, the ordering practices of taxonomy have an important role in how we will manage to navigate the challenges offered by a transforming planet and our efforts in recording worlds.
 
 [^1]: For more about Linnaeus, see "Who was Linnaeus?" _The Linnean Society of London_, no date, https://www.linnean.org/learning/who-was-linnaeus (01.07.2021).
 
 [^2]: See, for instance, the changing classification of [[material.infusoria]] in the [[story.chaotic-origins-of-micropaleontology]].
 
 [^3]: To learn more about the history of these codes, see Nicolson, Dan H. "A History of Botanical Nomenclature". _Annals of the Missouri Botanical Garden_ 78, no. 1 (1991): 33-56. https://doi.org/10.2307/2399589.
- 
+
 [^4]: See, for instance, Müller-Wille, Staffan. “Reproducing Difference: Race and Heredity from a Longue Durée Perspective”. In _Race, Gender and Reproduction: Philosophy and the Early Life Sciences in Context_, ed. by S. Lettow. Albany (NY): SUNY Press, 2014: 217–235.
 
 [^5]: There are many resources to learn more on Darwin, Wallace, and evolutionary thought: "Natural Selection: Charles Darwin & Alfred Russel Wallace". _Understanding Evolution,  University of California Museum of Paleontology_, 22.08.2008, https://evolution.berkeley.edu/evolibrary/article/0_0_0/history_14 (01.07.2021); Norman, J. "Darwin & Wallace Issue the First Printed Exposition of the Theory of Evolution by Natural Selection". _History of information_, 25.11.2014, https://www.historyofinformation.com/detail.php?id=1655 (01.07.2021); "Darwin Correspondence Project". _University of Cambridge_, 2020, https://www.darwinproject.ac.uk (01.07.2021); Stober, Alexandra. "Evolutionsforschung: Charles Darwin - Revolutionär und Gentleman". _Planet Wissen_, 02.06.2020, https://www.planet-wissen.de/natur/forschung/evolutionsforschung/pwiecharlesdarwinrevolutionaerundgentleman100.html (01.07.2021). For a more in-depth history, see Costa, James T. _Wallace, Darwin, and the Origin of Species_. Cambridge (MA) and London: Harvard University Press, 2014. http://www.jstor.org/stable/j.ctt6wprf8 (22.06.2021).
@@ -87,11 +86,11 @@ Like all sorts of classifications, biological taxonomies are entangled with powe
 
 [^7]: To learn more about the Modern Synthesis, see Hou, Chia-Yi. "Modern Synthesis, 1937".  _The Scientist_, 01.09.2019, https://www.the-scientist.com/foundations/modern-synthesis-1937-66322 (01.07.2021). Also see Mayr, Ernst, and William B. Provine. _The Evolutionary Synthesis_. Cambridge (MA) and London: Harvard University Press, 2013. https://doi.org/10.4159/harvard.9780674865389. An alternative historical interpretation can be found in Esposito, Maurizio. "Utopianism in the British evolutionary synthesis". _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_ 42, no. 1 (2011): 40-49. https://doi.org/10.1016/j.shpsc.2010.11.007. For the ongoing effort to extend and amend this synthesis, see Lewens, Tim. "The Extended Evolutionary Synthesis: what is the debate about, and what might success for the extenders look like?" _Biological Journal of the Linnean Society_ 127, no. 4 (2019): 707-721. https://doi.org/10.1093/biolinnean/blz064.
 
-[^8]: For more on cladistics, see "An Introduction to Cladistics". _Journey into Phylogenetic Systematics_, 1996, https://ucmp.berkeley.edu/clad/clad1.html (01.07.2021); Wheeler, Q., L. Assis, and O. Rieppel. "Heed the father of cladistics". _Nature_ 496 (2013): 295–296. https://doi.org/10.1038/496295a. 
+[^8]: For more on cladistics, see "An Introduction to Cladistics". _Journey into Phylogenetic Systematics_, 1996, https://ucmp.berkeley.edu/clad/clad1.html (01.07.2021); Wheeler, Q., L. Assis, and O. Rieppel. "Heed the father of cladistics". _Nature_ 496 (2013): 295–296. https://doi.org/10.1038/496295a.
 
-[^9]: More on the importance of databases, digitization, and data in [[theme.recording worlds]]. Also see Leonelli, Sabina, and Niccolò Tempini. _Data journeys in the sciences_. Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-37177-7. 
+[^9]: More on the importance of databases, digitization, and data in [[theme.recording worlds]]. Also see Leonelli, Sabina, and Niccolò Tempini. _Data journeys in the sciences_. Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-37177-7.
 
-[^10]: An example of this digitization of taxonomical expertise can be found in the [[Neptune Sandbox Berlin database|material.NSB]].
+[^10]: An example of this digitization of taxonomical expertise can be found in the [[Neptune Sandbox Berlin database|material.nsb-database]].
 
 [^11]: This can be seen in other stories on this website, like that of [[story.archeopteryx]], of [[story.limulus]], of [[story.cycladophora-davisiana]], but also of the [[story.zoological teaching collection]].
 
@@ -113,11 +112,11 @@ Trotz ihrer frühen Divergenz erfuhren beide – die Pflanzen- und die Tiersyste
 
 <figure>
 
-![ Alte Illustration eines verzweigten Baums mit wissenschaftlichen Bezeichnungen, die verschiedene Ordnungen der Organismenklassifikationen darstellen. Titel: Monophyletischer Stammbaum der Organismens.](/images/filo/Haeckel_arbol_bn.png)
+![Alte Illustration eines verzweigten Baums mit wissenschaftlichen Bezeichnungen, die verschiedene Ordnungen der Organismenklassifikationen darstellen. Titel: Monophyletischer Stammbaum der Organismen.](/images/filo/Haeckel_arbol_bn.png)
 
 <figcaption>
 
-_ Eine der frühesten Darstellungen eines phylogenetischen Baums, der die evolutionären Beziehungen zwischen verschiedenen Klassen von Organismen anzeigt, nach Ernst Haeckel. [^6]_
+_Eine der frühesten Darstellungen eines phylogenetischen Baums, der die evolutionären Beziehungen zwischen verschiedenen Klassen von Organismen anzeigt, nach Ernst Haeckel.[^6]_
 
 </figcaption>
 
@@ -152,7 +151,7 @@ https://www.darwinproject.ac.uk (01.07.2021); Stober, Alexandra. "Evolutionsfors
 
 [^9]: Weitere Informationen über die Wichtigkeit von Datenbanken, Digitalisierung und Daten gibt es hier: [[theme.recording worlds]]. Oder siehe Leonelli, Sabina, and Niccolò Tempini. _Data journeys in the sciences_. Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-37177-7.
 
-[^10]: Ein Beispiel für diese Digitalisierung von taxonomischem Fachwissen findet sich in der [[Neptune Sandbox Berlin Datenbank|material.NSB]].
+[^10]: Ein Beispiel für diese Digitalisierung von taxonomischem Fachwissen findet sich in der [[Neptune Sandbox Berlin Datenbank|material.nsb-database]].
 
 [^11]: Dies ist in anderen Storys auf dieser Website zu sehen, siehe [[story.archeopteryx]], [[story.limulus]], [[story.cycladophora-davisiana]] oder auch [[story. zoological teaching collection]].
 

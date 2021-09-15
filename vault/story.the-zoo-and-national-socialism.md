@@ -7,7 +7,7 @@ desc: >-
   propaganda for the National Socialists and excluded Jewish visitors. The zoo
   director was well connected to the regime's elite. During the war, forced
   labourers were exploited.
-updated: 1628164508854
+updated: 1629740014339
 created: 1619020958263
 license: CC BY-SA
 title_de: Der Zoo im Nationalsozialismus
@@ -35,6 +35,7 @@ tao_type: story
 date_start: '1932-12-31T23:00:00.000Z'
 colour_scheme: 7
 ---
+
 :::EN:::
 
 Could a nearly 100-year-old educational and recreational institution whose function was to exhibit live animals for the purposes of education and entertainment serve National Socialist aims? Are zoos not global phenomena in their fundamental constitution, and open to all those seeking to learn? As will become evident, from 1933 onward, the Berlin Zoo became a colonial stage and a site of racist exclusion, as well as an instrument of National Socialist propaganda.
@@ -45,7 +46,7 @@ How could this happen and what were the determining factors?
 
 ## The Heck Family
 
-In 1932, [[material.Lutz Heck]] became director of the Berlin Zoological Garden. He took over the post from his father Ludwig Heck, who had held it since 1888. The Heck family was German nationalist and colonial revisionist in orientation, and maintained close contacts in the right-wing conservative nationalist milieu. Lutz and Ludwig Heck clearly expressed their enthusiasm for National Socialist politics in their publications of 1935 and 1938. Both paid homage in their writings to the "Führer", who had "fully consciously \[...] based the state on blood and soil."[^1] As early as June 1933, Lutz Heck became a sponsoring member of the Schutzstaffel (SS)[^2], and supported the party organization SS of the NSDAP with regular donations. In return, like all sponsors, he received lapel pins that made his loyalty to the regime apparent.
+In 1932, Lutz Heck became director of the Berlin Zoological Garden. He took over the post from his father Ludwig Heck, who had held it since 1888. The Heck family was German nationalist and colonial revisionist in orientation, and maintained close contacts in the right-wing conservative nationalist milieu. Lutz and Ludwig Heck clearly expressed their enthusiasm for National Socialist politics in their publications of 1935 and 1938. Both paid homage in their writings to the "Führer", who had "fully consciously \[...] based the state on blood and soil."[^1] As early as June 1933, Lutz Heck became a sponsoring member of the Schutzstaffel (SS)[^2], and supported the party organization SS of the NSDAP with regular donations. In return, like all sponsors, he received lapel pins that made his loyalty to the regime apparent.
 
 Soon Lutz Heck also became privately acquainted with the Prussian Prime Minister and Reich Minister of Aviation, from 1934 also "Reichsforstmeister", head of the Reich’s forestry ministry, and "Reichsjägermeister", chief huntsman of the Reich, Hermann Göring . At his request, Heck stepped up his breeding of European bison.
 
@@ -95,7 +96,7 @@ During these years, vacancies on the supervisory board were immediately filled b
 
 </figure>
 
-The zoo's staff, like that of many large companies in Berlin, was also 'Nazified' within a few weeks. Workers’ councils were replaced by appointed representatives and the staff band played in front of a portrait of Hitler, a swastika and the symbol of the German Labour Front, the National Socialist organization that was to replace the free trade unions.
+The zoo's staff, like that of many large companies in Berlin, was also "Nazified" within a few weeks. Workers’ councils were replaced by appointed representatives and the staff band played in front of a portrait of Hitler, a swastika and the symbol of the German Labour Front, the National Socialist organization that was to replace the free trade unions.
 
 <figure>
 
@@ -111,11 +112,11 @@ The zoo's staff, like that of many large companies in Berlin, was also 'Nazified
 
 ## The Zoo and Propaganda
 
-Financially, the zoo flourished with the rise of National Socialism. This was facilitated by the fact that it catered to National Socialist visitors and the ruling nationalist ideology. From May 1933, there were substantial reductions in the price of admission for members of National Socialist organizations, such as the NSDAP, the National Socialist Motorist Corps, the Sturmabteilung (SA), the Schutzstaffel (SS), and the German nationalist military organization Der Stahlhelm. [^12] The following year, the zoo management went on to lower prices for all visitors, "in accordance with the aims of the National Socialist state leadership."[^13] In 1935, likely thanks in part to an agreement with the Nazi recreational organization Kraft durch Freude, it was able to record a large influx of visitors.
+Financially, the zoo flourished with the rise of National Socialism. This was facilitated by the fact that it catered to National Socialist visitors and the ruling nationalist ideology. From May 1933, there were substantial reductions in the price of admission for members of National Socialist organizations, such as the NSDAP, the National Socialist Motorist Corps, the Sturmabteilung (SA), the Schutzstaffel (SS), and the German nationalist military organization Der Stahlhelm.[^12] The following year, the zoo management went on to lower prices for all visitors, "in accordance with the aims of the National Socialist state leadership."[^13] In 1935, likely thanks in part to an agreement with the Nazi recreational organization Kraft durch Freude, it was able to record a large influx of visitors.
 
 <figure>
 
-![Reddish paper ticket with swastika. Text: Die Deutsche Arbeitsfront NS-Gemeinschaft "Kraft durch Freude" Gau Gross-Berlin; Inhaber dieser Anweisung erhält am Freitag, dem 3., 10., 17., 24., od. 31.7.1936 gegen Nachzahlung von RM 0,40 an den Tageskassen des Zoo eine Eintrittskarte für den "Kraft durch Freude"-Tag im Zoo; Die Anweisung gilt wahlweise auch für das Aquarium (...). ](/images/cmw/Kdf_Eintrittskarte.jpg)
+![Reddish paper ticket with swastika. Text: Die Deutsche Arbeitsfront NS-Gemeinschaft "Kraft durch Freude" Gau Gross-Berlin; Inhaber dieser Anweisung erhält am Freitag, dem 3., 10., 17., 24., od. 31.7.1936 gegen Nachzahlung von RM 0,40 an den Tageskassen des Zoo eine Eintrittskarte für den "Kraft durch Freude"-Tag im Zoo; Die Anweisung gilt wahlweise auch für das Aquarium (...).](images/cmw/Kdf_Eintrittskarte.jpg)
 
 <figcaption>
 
@@ -211,13 +212,13 @@ The new Steinbockfelsen, or Ibex Boulder, completed in 1938, had been constructe
 
 </figure>
 
-In addition, contingency plans were developed to capture or kill escaping animals in the event of a bombing. A zoo fire department, consisting of employees, was established. Lookouts in earth bunkers were to intervene armed with nets and rifles in case animals escaped during a bombing raid. These emergency plans were later adopted by other zoos. In Berlin, they were the reason that no predators or other animals considered dangerous escaped or were killed precautionarily. Accounts of zoo animals running across the Kurfürstendamm can be safely relegated to the realm of myth.[^33] In the London Zoo, whose population suffered under German bombing during the Blitz, poisonous snakes and spiders were killed as a precaution, and similar measures were adopted. Here, the predators were to be shot in the event of an escape. In this respect, aerial warfare against the civilian population not only meant that zoo animals previously perceived as safe once again became potentially wild and dangerous animals.[^34] The war led above all to a paradoxical reversal or extension of function for the keepers: to the curative aspect of their work was added, under the conditions of war, a potentially lethal one. Ideological warfare intruded into the relationship between caregivers and those they were tasked with caring for. <!--Insert link to theme.care once ready! -->
+In addition, contingency plans were developed to capture or kill escaping animals in the event of a bombing. A zoo fire department, consisting of employees, was established. Lookouts in earth bunkers were to intervene armed with nets and rifles in case animals escaped during a bombing raid. These emergency plans were later adopted by other zoos. In Berlin, they were the reason that no predators or other animals considered dangerous escaped or were killed precautionarily. Accounts of zoo animals running across the Kurfürstendamm can be safely relegated to the realm of myth.[^33] In the London Zoo, whose population suffered under German bombing during the Blitz, poisonous snakes and spiders were killed as a precaution, and similar measures were adopted. Here, the predators were to be shot in the event of an escape. In this respect, aerial warfare against the civilian population not only meant that zoo animals previously perceived as safe once again became potentially wild and dangerous animals.[^34] The war led above all to a paradoxical reversal or extension of function for the keepers: to the curative aspect of their work was added, under the conditions of war, a potentially lethal one. Ideological warfare intruded into the relationship between caregivers and those they were tasked with caring for. <!--Insert link to theme.care once ready!-->
 
 Many zoos in the countries conquered by Germany fared differently than the protected Berlin zoo. **According to Antonina Zabinska, the wife of Warsaw Zoo director Jan Zabinski, Lutz Heck came to Warsaw immediately after the city’s occupation and ordered the most beautiful animals to be transferred to other zoos in the Reich’s territory.** He then initiated the liquidation of the Warsaw Zoological Garden on behalf of the Nazi regime.[^35]
 
 <figure>
 
-![Print in Gothic lettering: … Ferner wurden eine Anzahl Tiere des Zoologischen Gartens Warschau zu treuen Händen eingestellt, nämlich: 1 indischer Elefant, 1 Wisent, 1 Verdrängungszuchtwisent, 1 Wildpferd, 1 Weißschwanzgnu, 1 Hartmannzebra, 3 Kamele, 1 Strauß, 4 Luchse, 7 Stachelschweine, 1 Lama, 2 Shetland-Ponies, 2 Flamingos, 2 Pelikane, 1 schwarzer Schwan. ](/images/cmw/Beute_Warschau_GB.jpg)
+![Print in Gothic lettering: … Ferner wurden eine Anzahl Tiere des Zoologischen Gartens Warschau zu treuen Händen eingestellt, nämlich: 1 indischer Elefant, 1 Wisent, 1 Verdrängungszuchtwisent, 1 Wildpferd, 1 Weißschwanzgnu, 1 Hartmannzebra, 3 Kamele, 1 Strauß, 4 Luchse, 7 Stachelschweine, 1 Lama, 2 Shetland-Ponies, 2 Flamingos, 2 Pelikane, 1 schwarzer Schwan.](images/cmw/Beute_Warschau_GB.jpg)
 
 <figcaption>
 
@@ -257,7 +258,7 @@ By 1941, Lutz Heck had risen to the position of head of the nature conservation 
 
 Although the zoo was explicitly supposed to remain open, it was, like all other zoos in the Reich’s territory, affected by the conscription of employees to the Wehrmacht. To replace the workforce, the zoo exploited first Polish and French, and later probably also Soviet, prisoners of war and civilians as forced labourers from 1940 onwards.[^38] A speech given by the administrative director at a shareholders' meeting suggests that Lutz Heck himself had six young men deported to Berlin to serve as forced labourers during a visit to Białowieża in 1941.[^39] Evidence also indicates that an unknown number of so-called Ostarbeiter, workers from the east, were exploited at the zoo in the late summer of 1941. These were people lured or kidnapped from the occupied Soviet Union to Berlin under false pretences. At least one Dutch prisoner performed forced labour at the aquarium. In the last year of the war, 40 so-called Italian military internees – Italian soldiers interned after Italy’s surrender – were added to this. In 1943, plans were made to build a barracks at the zoo for approximately twelve forced labourers. Several hundred Soviet prisoners of war from the district of Berlin were also deployed at the zoo during the clean-up work after the bombing raids in the winter of 1943/44. **We know little about the living conditions of those who were forced to work at the zoo.** The use of forced labourers in other German zoos is also documented, but it seems likely the zoo in the Reich's capital city was particularly well-supported by the assignment of forced labour.[^40]
 
-The zoo benefited variously from the networks of the director and supervisory board. which were cultivated throughout the war. As pictures in the zoo archives show, Hermann Göring visited the Berlin Zoo as late as 1942.
+The zoo benefited variously from the networks of the director and supervisory board, which were cultivated throughout the war. As pictures in the zoo archives show, Hermann Göring visited the Berlin Zoo as late as 1942.
 
 <figure>
 
@@ -429,7 +430,7 @@ Wie konnte das geschehen und was waren die bestimmenden Faktoren?
 
 ## Die Familie Heck
 
-1932 wurde [[material.Lutz Heck]] Direktor des Zoologischen Gartens Berlin. Er übernahm das Amt von seinem Vater Ludwig Heck, der dieses seit 1888 innegehabt hatte. Die Familie Heck war deutschnational und kolonialrevisionistisch ausgerichtet und pflegte enge Kontakte in das rechtskonservativ-nationalistische Milieu. Lutz und Ludwig Heck brachten in ihren Publikationen von 1935 und 1938 ihre Begeisterung für die nationalsozialistische Politik deutlich zum Ausdruck. Beide huldigten in ihren Publikationen dem "Führer", der den Staat "vollbewusst \[…] auf Blut und Boden abgestellt" habe.[^1]  Bereits im Juni 1933 wurde Lutz Heck Fördermitglied der Schutzstaffel (SS)[^2] und unterstützte die Parteiorganisation SS der NSDAP mit regelmäßigen Spenden. Im Gegenzug bekam er wie alle Fördermitglieder Anstecknadeln, die die Loyalität zum Regime deutlich machten.
+1932 wurde Lutz Heck Direktor des Zoologischen Gartens Berlin. Er übernahm das Amt von seinem Vater Ludwig Heck, der dieses seit 1888 innegehabt hatte. Die Familie Heck war deutschnational und kolonialrevisionistisch ausgerichtet und pflegte enge Kontakte in das rechtskonservativ-nationalistische Milieu. Lutz und Ludwig Heck brachten in ihren Publikationen von 1935 und 1938 ihre Begeisterung für die nationalsozialistische Politik deutlich zum Ausdruck. Beide huldigten in ihren Publikationen dem "Führer", der den Staat "vollbewusst \[…] auf Blut und Boden abgestellt" habe.[^1]  Bereits im Juni 1933 wurde Lutz Heck Fördermitglied der Schutzstaffel (SS)[^2] und unterstützte die Parteiorganisation SS der NSDAP mit regelmäßigen Spenden. Im Gegenzug bekam er wie alle Fördermitglieder Anstecknadeln, die die Loyalität zum Regime deutlich machten.
 
 Schon bald machte Lutz Heck zudem auf privater Ebene mit dem preußischen Ministerpräsidenten und Reichsluftfahrtminister Hermann Göring Bekanntschaft, der ab 1934 auch "Reichsforstmeister" und "Reichsjägermeister" war.
 
@@ -479,7 +480,7 @@ Freigewordene Plätze im Aufsichtsrat wurden in diesen Jahren sogleich mit natio
 
 </figure>
 
-Auch die Belegschaft des Zoos war wie die vieler Großbetriebe in Berlin binnen weniger Wochen 'nazifiziert'. Betriebsräte wurden durch ernannte Obleute ersetzt und die Musikkapelle der Angestellten spielte vor einem Hitler-Portrait, Hakenkreuz und dem Symbol der Deutschen Arbeitsfront, jener nationalsozialistischen Organisation, die die freien Gewerkschaften ersetzen sollte.
+Auch die Belegschaft des Zoos war wie die vieler Großbetriebe in Berlin binnen weniger Wochen "nazifiziert". Betriebsräte wurden durch ernannte Obleute ersetzt und die Musikkapelle der Angestellten spielte vor einem Hitler-Portrait, Hakenkreuz und dem Symbol der Deutschen Arbeitsfront, jener nationalsozialistischen Organisation, die die freien Gewerkschaften ersetzen sollte.
 
 <figure>
 
@@ -689,7 +690,7 @@ In der folgenden Nacht wurde das Aquarium zerstört. Eine Bombe schlug mitten in
 
 Hunderte Zwangsarbeiter räumten den Zoo von Trümmern.[^43] Ein halbes Jahr später öffnete der Zoo rechtzeitig zu seinem hundertjährigen Jubiläum am 25. Juli 1944 wieder. Bis zu 5.000 Menschen wurden im Sommer und Herbst 1944 gleichzeitig zu den Öffnungszeiten in den Zoo gelassen. Insgesamt kamen 250.000 Besucher\*innen, um immer noch mehr als 1.500 Tiere zu bestaunen.[^44] Bei Luftalarm sollten die Besucher\*innen in den riesigen Flakturm am nördlichen Zoorand evakuiert werden.[^45]
 
-Am 22. April 1945 war aber endgültig Schluss. Alle männlichen Mitarbeiter wurden zum Volkssturm eingezogen. Sie mussten durch den Zoo Schützengräben ziehen. Kurz bevor sowjetische Truppen das Zoogelände erreichten floh am 30. April die Geschäftsleitung des Gartens um Lutz Heck .[^46] Für 48 Stunden tobte der erbitterte Kampf um den benachbarten Flakturm auch im Zoo. Am 2. Mai war die Schlacht um die Stadtmitte und den Zoo zu Ende. Überall lagen Leichen und Tierkadaver, zwischen 80 und 90 Tiere hatten überlebt.[^47]
+Am 22. April 1945 war aber endgültig Schluss. Alle männlichen Mitarbeiter wurden zum Volkssturm eingezogen. Sie mussten durch den Zoo Schützengräben ziehen. Kurz bevor sowjetische Truppen das Zoogelände erreichten floh am 30. April die Geschäftsleitung des Gartens um Lutz Heck.[^46] Für 48 Stunden tobte der erbitterte Kampf um den benachbarten Flakturm auch im Zoo. Am 2. Mai war die Schlacht um die Stadtmitte und den Zoo zu Ende. Überall lagen Leichen und Tierkadaver, zwischen 80 und 90 Tiere hatten überlebt.[^47]
 
 <figure>
 

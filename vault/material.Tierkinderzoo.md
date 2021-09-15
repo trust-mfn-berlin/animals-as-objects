@@ -1,12 +1,12 @@
 ---
-id: ZG0tbfOCtvAdL9l9uR1cl
+id: emoR8h24YToAxYJe9doaQ
 title: Tierkinderzoo
-desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-updated: 1624527602765
-created: 1624397695001
+desc: Put a description of this note here...
+updated: 1630012403349
+created: 1630012364760
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
-author: Mareike Vennen u Clemens Maier-Wolthausn
+author: Author name(s) here.
 tao_type: material
 cover_image: null
 license: CC BY-SA
@@ -14,10 +14,9 @@ published: false
 colour_scheme: 4
 ---
 
-
 :::EN:::
 
-
+EN content
 
 :::DE:::
 
@@ -29,7 +28,7 @@ _Bild aus dem 'Tierkinderzoo', um 1933. (AZGB)_
 
 Ein Gepard umringt von jungen Ziegen, Lämmern und Ferkeln? Ein ungewöhnliches Bild. Das Foto aus dem Zoo Berlin zeigt ein Phänomen, das es dort schon lange nicht mehr gibt, aber in den 1930er Jahren äußerst populär war: den "Tierkinderzoo". Sein Nachfolger, der Streichelzoo, findet sich noch heute in vielen Tiergärten. Aber wer weiß heute noch, dass dort früher auch Bärenjunge und Löwenbabys gehalten wurden?
  
-Im Sommer 1931 organisierte der Zoo zum ersten Mal eine Sonderschau mit Jungtieren, die so erfolgreich war, dass sie mehrere lang Jahre wiederholt wurde. Das Besondere: Besetzt war die eingezäunte Anlage, für die man Eintritt bezahlen musste, nicht nur mit Jungtieren einheimischer Haustierrassen, sondern auch kleinen Raubtieren, die man alle füttern, streicheln, auf den Schoß nehmen und sogar mit der Flasche füttern konnte [[story.löwenbabys]].  
+Im Sommer 1931 organisierte der Zoo zum ersten Mal eine Sonderschau mit Jungtieren, die so erfolgreich war, dass sie mehrere lang Jahre wiederholt wurde. Das Besondere: Besetzt war die eingezäunte Anlage, für die man Eintritt bezahlen musste, nicht nur mit Jungtieren einheimischer Haustierrassen, sondern auch kleinen Raubtieren, die man alle füttern, streicheln, auf den Schoß nehmen und sogar mit der Flasche füttern konnte [[story.baby-lions]].  
 
 ![xxx](images\TierkinderzooFunkwocheBerlin15Mai1933.jpg)
 _Früh übt sich - Fütterungsübung mit Löwenbaby. Funkwoche Berlin, 19.05.1933._
@@ -40,9 +39,8 @@ Heute werden weder im Berliner Zoo noch in anderen deutschen Zoos Raubtiere in d
 
 
 
-![Kleinkinder spielen in einem Kinderwagen mit jungen Raubkatzen](/images/cmw/Tierkinderzoo_1936.jpg)
-_Bild des 'Tierkinderzoos' von 1936. (AZGB)_ [[story.löwenbabys]]
-
+![Kleinkinder spielen in einem Kinderwagen mit jungen Raubkatzen](images\cmw\Tierkinderzoo_1936.jpg)
+_Bild des 'Tierkinderzoos' von 1936. (AZGB)_ [[story.baby-lions]]
 
 
 ![xxx](images\TierkinderzooHeidelbergerTageblatt10Juli1932.jpg) 
