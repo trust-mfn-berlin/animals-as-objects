@@ -1,6 +1,3 @@
-// This script iterates through every file in the vault and finds forward and back links.
-// The data is then shaped in two ways - one for recombining in the front-end content (see nuxt.config.js) and the other for graph views.
-// The output is moved into a Json array `backlinks.json` && `graphdata.json`
 
 const path = require('path');
 const fs = require('fs-extra');
@@ -64,9 +61,9 @@ async function getContent(filePath, encoding = "utf-8") {
       fs.writeFile(path.join(__dirname, '..','vault', file), writeData);
     } else {
       // add reroll here
-      const reRolled = fileData.replace(/colour_scheme: \d+/g, 'colour_scheme: ' + colourCode);
-      console.log('rerolling..')
-      fs.writeFile(path.join(__dirname, '..','vault', file), reRolled);
+      // const reRolled = fileData.replace(/colour_scheme: \d+/g, 'colour_scheme: ' + colourCode);
+      // console.log('rerolling..')
+      // fs.writeFile(path.join(__dirname, '..','vault', file), reRolled);
 
       
     }
