@@ -6,7 +6,7 @@ dist
 .DS_Store
 
 static/audio/*
-
+static/thumbnails/*
 static/images/*
 
 temp
