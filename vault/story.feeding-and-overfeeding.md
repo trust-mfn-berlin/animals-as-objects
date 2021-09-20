@@ -1,34 +1,37 @@
 ---
-license: CC BY-SA
-title_de: Füttern und Überfüttern
-created: 1620752738850
-author: Mareike Vennen
-short_desc_de: Wer (über)füttert im Zoo?
-date_end: 1960-12-31T11:00:00.000Z
-published: false
-title: Feeding and Overfeeding
-updated: 1629745254379
 id: dfe31be6-b21f-496f-af23-70f225c0616c
-translators:
-  translator_de_en: Lucy Gasser
-desc: When an elephant died at the Berlin Zoo in 1960, the cause of death was
+title: Feeding and Overfeeding
+desc: >-
+  When an elephant died at the Berlin Zoo in 1960, the cause of death was
   determined as overfeeding by zoo visitors. This triggered a controversial
   debate about the proper feeding of zoo animals – a question that goes back to
   the founding of zoological gardens in the 19th century. Who should be
   permitted to feed? What should be fed and how much of it?
-desc_de: Als 1960 im Berliner Zoo ein Elefant starb, lautete die Diagnose
-  Überfütterung durch Zoobesucher*innen. Das löste eine kontroverse Debatte um
-  die richtige Ernährung von Zootieren aus – eine Frage, die bis zu den Anfängen
-  zoologischer Gärten im 19. Jahrhundert zurückreicht. Wer darf füttern und vor
-  allem was und wieviel?
+updated: 1629745254379
+created: 1620752738850
+license: CC BY-SA
+title_de: Füttern und Überfüttern
+author: Mareike Vennen
+short_desc_de: Wer (über)füttert im Zoo?
+date_end: '1960-12-31T11:00:00.000Z'
+published: false
+translators:
+  translator_de_en: Lucy Gasser
+desc_de: >-
+  Als 1960 im Berliner Zoo ein Elefant starb, lautete die Diagnose Überfütterung
+  durch Zoobesucher*innen. Das löste eine kontroverse Debatte um die richtige
+  Ernährung von Zootieren aus – eine Frage, die bis zu den Anfängen zoologischer
+  Gärten im 19. Jahrhundert zurückreicht. Wer darf füttern und vor allem was und
+  wieviel?
 short_desc: Who (over)feeds zoo animals?
 cover_image:
   image: /images/cover-overfeeding-newspaper-taegliche-rundschau.jpg
-  alt: "Feeding as an act of sharing in the Berlin postwar zoo. Füttern als ein
-    Akt des Teilens im Berliner Nachkriegszoo. Source: Tägliche Rundschau,
-    03.07.1946."
+  alt: >-
+    Feeding as an act of sharing in the Berlin postwar zoo. Füttern als ein Akt
+    des Teilens im Berliner Nachkriegszoo. Source: Tägliche Rundschau,
+    03.07.1946.
 tao_type: story
-date_start: 1871-12-31T23:06:32.000Z
+date_start: '1871-12-31T23:06:32.000Z'
 ---
 
 :::EN:::
@@ -67,7 +70,7 @@ _The service and maintenance area at the Berlin Zoo around 1930. The yard was lo
 
 </figure>
 
-At first, however, there was little knowledge in zoological gardens about the feeding habits of the different animal species they housed. As veterinary historian Benjamin Lamp observes about the history of zoo animal medicine, while it is true that menageries and zoos were able to draw on the knowledge of farm animal husbandry, there were many more species represented in zoological gardens, and people did not always have access to information about the biological requirements of the imported colonial animals; see also [[story.catching-animals]] and [[theme.how-do-animals-get-into-the-zoo]].[^3] This lack of knowledge was also in place with regard to the keeping and breeding of domestic and laboratory animals, which came from colonial territories to living rooms, zoological institutes and physiological laboratories throughout Europe in the 19th century. There, scientists as well as amateur researchers and enthusiasts tried to acclimatise the animals, i.e. to keep them alive or breed them in a new climate. Feeding was an essential and existential part of this. What we know today about the nutrition of laboratory animals, for instance, is the result of a longer process. The price of this knowledge, as the science historian Christian Reiß has shown, entails the numerous and often failed experiments of experts and amateurs alike.[^4]
+At first, however, there was little knowledge in zoological gardens about the feeding habits of the different animal species they housed. As veterinary historian Benjamin Lamp observes about the history of zoo animal medicine, while it is true that menageries and zoos were able to draw on the knowledge of farm animal husbandry, there were many more species represented in zoological gardens, and people did not always have access to information about the biological requirements of the imported colonial animals; see also [[story.catching-animals]] and [[theme.how-do-animals-get-to-the-zoo]].[^3] This lack of knowledge was also in place with regard to the keeping and breeding of domestic and laboratory animals, which came from colonial territories to living rooms, zoological institutes and physiological laboratories throughout Europe in the 19th century. There, scientists as well as amateur researchers and enthusiasts tried to acclimatise the animals, i.e. to keep them alive or breed them in a new climate. Feeding was an essential and existential part of this. What we know today about the nutrition of laboratory animals, for instance, is the result of a longer process. The price of this knowledge, as the science historian Christian Reiß has shown, entails the numerous and often failed experiments of experts and amateurs alike.[^4]
 
 In the 19th century, Europeans could often only guess at how wild animals that had previously been brought to Europe only sporadically – or indeed had never been brought to Europe before – fed in the wild. As such, attempts were made to keep them alive with substitute foodstuffs or feed mixtures. **The substitutes were often based on human as well as European or German habits rather than animal habits and preferences.** In the end, most animals were given high-calorie feed rations, which lacked important vitamins and minerals. Although veterinarians were quick to describe links between animal diseases such as rickets and the diets of domestic and zoo animals, until the 20th century, little sound scientific knowledge had been gained about the diets of wild animals in captivity.[^5] In Frankfurt, even after the Second World War, the "jam sandwich every day" remained a part of the chimpanzees''s menu, as did "the fried steak."[^6] Incorrect feeding with food that was too high in calories repeatedly led to health problems, especially in the larger animals.[^7]
 
@@ -153,7 +156,7 @@ _Der Wirtschaftshof im Berliner Zoo um 1930, am Rand des Geländes gelegen, wo u
 
 </figure>
 
-Zunächst war allerdings in den Zoologischen Gärten nur wenig über die Fressgewohnheiten der unterschiedlichen Tierarten bekannt. Zwar konnten sich die Menagerien und Zoos das Wissen der Nutztierhaltung zunutze machen, schreibt der Veterinärhistoriker Benjamin Lamp über die Geschichte der Zootiermedizin. Doch waren in zoologischen Gärten ungleich mehr Arten vertreten und nicht immer bestand Zugang zu Informationen über die biologischen Ansprüche der importierten kolonialen Tiere, siehe auch [[story.catching-animals]] und [[theme.how-do-animals-get-into-the-zoo]].[^3] Diese Wissenslücke lässt sich auch für die Haltung und Zucht von Haustieren und Versuchstieren beobachten, die im 19. Jahrhundert meist aus kolonialen Gebieten in die Wohnstuben, zoologischen Institute und physiologischen Labore in ganz Europa kamen. Dort versuchten Wissenschaftler\*innen ebenso wie Amateurforscher- und Liebhaber\*innen, die Tiere zu akklimatisieren, sie also in einem anderen Klima am Leben zu erhalten oder zu züchten. Die Fütterung war dabei ein wesentlicher und existenzieller Teil. Was wir heute etwa über die Ernährungsweise von Labortieren wissen, ist das Ergebnis eines längeren Prozesses. Dieses Wissen war, wie der Wissenschaftshistoriker Christian Reiß gezeigt hat, nur für den Preis zahlreicher und häufig gescheiterter Versuche zu haben, an denen Fachleute und Amateur\*innen beteiligt waren.[^4]
+Zunächst war allerdings in den Zoologischen Gärten nur wenig über die Fressgewohnheiten der unterschiedlichen Tierarten bekannt. Zwar konnten sich die Menagerien und Zoos das Wissen der Nutztierhaltung zunutze machen, schreibt der Veterinärhistoriker Benjamin Lamp über die Geschichte der Zootiermedizin. Doch waren in zoologischen Gärten ungleich mehr Arten vertreten und nicht immer bestand Zugang zu Informationen über die biologischen Ansprüche der importierten kolonialen Tiere, siehe auch [[story.catching-animals]] und [[theme.how-do-animals-get-to-the-zoo]].[^3] Diese Wissenslücke lässt sich auch für die Haltung und Zucht von Haustieren und Versuchstieren beobachten, die im 19. Jahrhundert meist aus kolonialen Gebieten in die Wohnstuben, zoologischen Institute und physiologischen Labore in ganz Europa kamen. Dort versuchten Wissenschaftler\*innen ebenso wie Amateurforscher- und Liebhaber\*innen, die Tiere zu akklimatisieren, sie also in einem anderen Klima am Leben zu erhalten oder zu züchten. Die Fütterung war dabei ein wesentlicher und existenzieller Teil. Was wir heute etwa über die Ernährungsweise von Labortieren wissen, ist das Ergebnis eines längeren Prozesses. Dieses Wissen war, wie der Wissenschaftshistoriker Christian Reiß gezeigt hat, nur für den Preis zahlreicher und häufig gescheiterter Versuche zu haben, an denen Fachleute und Amateur\*innen beteiligt waren.[^4]
 
 Da Europäer\*innen im 19. Jahrhundert häufig nur vermuten konnte, wie sich Wildtiere, die bislang nur vereinzelt oder noch nie nach Europa importiert worden waren, in der freien Natur ernährten, versuchten sie, sie mit Substituten oder Futtermittelmischungen am Leben zu erhalten. **Die Substitute orientierten sich häufig eher an menschlichen und europäischen bzw. deutschen Gewohnheiten als an tierlichen Gewohnheiten oder Vorlieben.** Am Ende erhielten die meisten Tiere kalorienreiche Futterrationen, denen aber wiederum wichtige Vitamine und Mineralstoffe fehlten. Obwohl Veterinärmediziner  schon früh Zusammenhänge zwischen Tierkrankheiten wie der Rachitis und der Ernährungsweise von Haus- und Zootieren beschrieben, waren bis ins 20. Jahrhundert über die Ernährung von Wildtieren in Gefangenschaft nur wenige fundierte wissenschaftliche Erkenntnisse gewonnen worden.[^5] In Frankfurt erhielten die Schimpansen noch nach dem Zweiten Weltkrieg ein Menü, in dem das "Marmeladenbrot täglich" ebenso wenig fehlte "wie das gebratene Steak".[^6] Die falsche Fütterung mit zu kalorienreichen Futtermitteln führten vor allem bei Großtieren immer wieder zu gesundheitlichen Problemen.[^7]
 
