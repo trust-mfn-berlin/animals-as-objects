@@ -6,7 +6,7 @@ desc: >-
   utilised – as colonial trophies, museum objects, meat? The story of the Berlin
   Zoo elephant "Siam" from the 1940s is a journey into post-war Berlin and deep
   into the history of European colonialism.
-updated: 1629888310600
+updated: 1632130923883
 created: 1621970259942
 license: CC BY-SA
 title_de: Verfüttern und Verwerten
@@ -42,7 +42,7 @@ date_start: '1932-12-31T23:00:00.000Z'
 
 <figcaption>
 
-_Newspaper article in the_ Telegraf _about "Siam's" utilisation , 21.03.1947._
+_Newspaper article in the_ Telegraf _about "Siam's" utilisation, 21.03.1947._
 
 </figcaption>
 
@@ -72,7 +72,7 @@ One of the trails leads to the Zoological Museum Berlin, which was a part of the
 
 <div class="series">
 
-![Shelf with three boards on which several elephant skulls are stored](images/mv/elephant-skulls-mammal-collection.png)
+![Shelf with three boards on which several elephant skulls are stored](images/mv/elephant-skulls-mammal-collection-shelves.png)
 
 ![Open wooden box of lengthy bones lies on a table. A chair stands next to the table; antlers hang in the background.](images/mv/bones-mammal-collection.png)
 
