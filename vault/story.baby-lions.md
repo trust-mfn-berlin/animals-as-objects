@@ -2,7 +2,7 @@
 id: fa206cd6-fda4-46ec-83e7-206cb1306e78
 title: Baby Lions
 desc: Put a description of this note here...
-updated: 1623347243508
+updated: 1632498153800
 created: 1622624578996
 license: CC BY-SA
 title_de: Löwenbabys
@@ -46,3 +46,6 @@ _Auf den Stand des Zoofotografen wies der "Zooführer" in den 1970er Jahren mit 
 _1992 findet sich im Zooführer noch eine Werbeanzeige für Erinnerungsfotos mit Löwenbaby, diesmal eine Farbfotografie, bevor die Löwenbabys ab 1994 nicht mehr auftauchen._
 
 
+![vvv] () 
+
+![ccc] () 
