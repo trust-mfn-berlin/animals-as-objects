@@ -2,7 +2,7 @@
 id: fa206cd6-fda4-46ec-83e7-206cb1306e78
 title: Baby Lions
 desc: Put a description of this note here...
-updated: 1632502849163
+updated: 1632517833419
 created: 1622624578996
 license: CC BY-SA
 title_de: Löwenbabys
@@ -28,14 +28,11 @@ Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp.
 :::DE:::
 
 
-![vv](images\Dieter-Herfurth-1939-mit-Loewenbaby.jpg)  
+![Kleiner Junge sitz lächelnd auf einer Bank mit einem Löwenjungen auf dem Schoß](images\Dieter-Herfurth-1939-mit-Loewenbaby.jpg)  
 _Kleiner Junge mit Löwenbaby im Jahr 1939 auf der Bank des Berliner Zoofotografen. (AZGB)_
 
 
-Vielen mag das Fotomotiv bekannt vorkommen: Zoobesucher\*innen mit jungem Löwen auf dem Schoß. Manchmal ist der Blick liebevoll oder ängstlich dem Tier zugewandt, manchmal unverwandt in die Kamera gerichtet. Bis in die 1990er-Jahre konnte sich Groß und Klein in vielen Zoos beim Stand des Zoofotografen mit einem Löwenjungen ablichten lassen. Heute erscheint das Motiv den meisten unzeitgemäß. …Was sagen die Fotos über…? 
-
-Die Antworten hierauf hängen mit der Frage/damit zusammen, wie Tiere im Zoo angeschaut und angefasst werden, wie sie als Bildobjekte, xxx oder Kuscheltiere in Szene gesetzt werden. 
-Was für ein Bild vom Löwen vermittelt dieses Motiv? Welcher Umgang mit „wilden Tieren“ bildet sich in diesen Bildern ab//wird in diesen Bildern abgebildet/lässt sich daraus ablesen und wie prägen sie selbst die Beziehung zwischen Mensch und Tier und die Wahrnehmung dieser Beziehung?
+Vielen mag das Fotomotiv bekannt vorkommen: Zoobesucher\*innen mit jungem Löwen auf dem Schoß. Manchmal ist der Blick liebevoll oder ängstlich dem Tier zugewandt, manchmal unverwandt in die Kamera gerichtet. Lange Zeit konnte man sich in Zoos mit einem Löwenjungen ablichten lassen. Wann kam das Motiv auf und warum ist es heute aus den Zoos verschwunden? Die Suche nach Antworten führt in die Geschichte der Fotopraxis und der Zootierhaltung. Gleichzeitig verraten die Fotos über die Beziehung zwischen Zoobesucher\*innen und Löwenbabys und die Politiken des Tierbildes. Welcher Umgang mit „wilden Tieren“ bildet sich in diesen Bildern ab und wie erscheint hier das Tier - als Raubtier, Zootier, Kuscheltier? 
 
 # Kontakt // Berühren 
 # ## Vom Anfassen, Fotografieren und xxx
