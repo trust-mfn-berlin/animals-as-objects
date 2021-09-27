@@ -2,7 +2,7 @@
 id: fa206cd6-fda4-46ec-83e7-206cb1306e78
 title: Baby Lions
 desc: Put a description of this note here...
-updated: 1632761462016
+updated: 1632761927601
 created: 1622624578996
 license: CC BY-SA
 title_de: Löwenbabys
@@ -56,7 +56,9 @@ Wie hartnäckig sich dieses Bild, zeigen Sachbuchtitel wie _Bwana Simba - Der He
 
 Die Kinoleinwand war hier jedoch nicht unbedingt das Medium der Wahl, um  Nähe zum Tier zu demonstrieren. Auf  nähere Tuchfühlung gingen Mensch und Raubtier damals vor der Fernsehkamera, wo Zoodirektoren in Sendungen wie dem _Tierparkteletreff_ und _Ein Platz für Tiere_ (FN: Die Sendung gehört bis heute zu den erfolgreichsten Fernseh-Tierserie in Deutschland, die 31 Jahren und 175 Folgen lang lief) alle möglichen Zootiere auf dem Schoß hielten und sich als Tierfreunde in Szene setzten. Was schließlich vermochte die Freundschaft zwischen Mensch und Tier überzeugender zu demonstrieren als das harmonische, ja liebevolle Miteinander von Mensch und Raubtier im Bild? Das Posieren mit (scheinbar) zahmen Raubtieren auf dem Arm vermittelt eine Nähe, die keine Angst vor direkter Berührung zeigt, ungeachtet des Status „wilder Tiere“.  
 
-Solche Medienbilder, auf denen Zoodirektoren mit (vermeintlich) zahmen Raubtieren kuscheln, und Zoofotografen, die den Besucher\*innen selbst Gelegenheit zum Anfassen der Tiere boten – beides trug sicherlich zum Bild des Raubtierjungen als Heimtier oder gar Kuscheltier bei, ungefährlich in der Handhabe und unaufwendig in der Pflege. Löwenjunge sind zwar zukünftige Raubtiere, in erster Linie aber sind sie Tierkinder, die man streicheln, füttern, auf den Arm nehmen kann. Dieser Überzeugung schien jedenfalls das Berliner Kaufhaus Wertheim, als es 1969 auf die Idee kam, in seiner Zooabteilung Löwenbabys anzubieten [s. Fotos der Kaufhauslöwen bei Evernote]. Für 1600 bis 1880 Mark wurden die Warenhauslöwen auf Bestellung geliefert, mit Pflegeanleitung.[^9] 
+Solche Medienbilder, auf denen Zoodirektoren mit (vermeintlich) zahmen Raubtieren kuscheln, und Zoofotografen, die den Besucher\*innen selbst Gelegenheit zum Anfassen der Tiere boten – beides trug sicherlich zum Bild des Raubtierjungen als Heimtier oder gar Kuscheltier bei, ungefährlich in der Handhabe und unaufwendig in der Pflege. Löwenjunge sind zwar zukünftige Raubtiere, in erster Linie aber sind sie Tierkinder, die man streicheln, füttern, auf den Arm nehmen kann. Dieser Überzeugung schien jedenfalls das Berliner Kaufhaus Wertheim, als es 1969 auf die Idee kam, in seiner Zooabteilung Löwenbabys anzubieten. Für 1600 bis 1880 Mark wurden die Warenhauslöwen auf Bestellung geliefert, mit Pflegeanleitung.[^9] 
+
+![xxx]()
 
 
 Nach nur einer Woche wurde der Verkauf indes wieder eingestellt, nachdem offenbar der Berliner Zoo davor gewarnt hatte, dass „ein possierliches Löwen-Baby“ bereits innerhalb von drei Monaten zu einer kräftigen Raubkatze heranwachse.[^10] Wenn es sich bei dieser Geschichte auch in erster Linie um ein Kuriosum handelt, verweist sie doch auf einen Trend, der heute wieder boomt - der (häufig illegale) Verkauf von Raubtierjungen für das eigene Heim; und es bleibt die Frage, welchen Einfluss die lange Bildtradition des Raubtiers als Kuscheltier oder "Tier-Spielzeug" auf die Vorstellungen der Käufer\*innen hat. 
