@@ -1,16 +1,21 @@
 ---
-id: vB2L6zopXhOqX2df7iRul
-title: EN Die Ungezaehlten
-desc: EN short desc
-updated: 1632838996997
-created: 1632838996997
-title_de: Die Ungezaehlten
-desc_de: DE short desc
-author: Author name(s) here.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Die Ungezaehlten
+created: 1632838996997
+author: Mareike Vennen
+short_desc_de: DE short desc
+date_end: ""
 published: false
+title: EN Die Ungezaehlten
+updated: 1632838996997
+id: vB2L6zopXhOqX2df7iRul
+desc: EN desc
+desc_de: DE desc
+short_desc: EN short desc
+cover_image:
+  image: /images/cover-example-bauzeitung.jpg
+tao_type: story
+date_start: 1954-12-31T23:00:00.000Z
 ---
 
 
