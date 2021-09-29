@@ -56,7 +56,7 @@ Während das Atelier von Adolf Ziegler (1820-1889) und seinem Sohn Friedrich (18
 
 <figure>
 
-![Seitliche Ansicht des Modells eines Maulbeerspinners. Trotz des geschlossenen Deckels bleibt seitlich ein Spalt offen durch den die modellierten Innereien erkennbar sind.](images/guests/silkworm-seidenraupe-maulbeerspinner-model-side-view-louis-auzoux.jpeg)
+![Seitliche Ansicht des Modells eines Maulbeerspinners. Trotz des geschlossenen Deckels bleibt seitlich ein Spalt offen durch den das modellierte Innenleben erkennbar ist.](images/guests/silkworm-seidenraupe-maulbeerspinner-model-side-view-louis-auzoux.jpeg)
 
 <figcaption>
 
