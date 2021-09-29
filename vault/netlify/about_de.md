@@ -13,8 +13,6 @@ Relationale Datenbanken, genau die Datenbanken, die häufig zur Erfassung und Ve
 
 Sie sind in vielfältiger und manchmal überraschender Weise miteinander verbunden und ergeben sich aus der Situiertheit (in einer Disziplin, Institution, Fachposition) und den Interessen der Autor\*innen.
 
-_Routen_ sind kuratierte Artikelgruppen, die so ausgewählt wurden, dass sie neue Fragen aufwerfen, die über den von den Autor\*innen gesteckten Rahmen hinausgehen. _Routen_ dienen als Einladung, die ausgewählten Artikel aus einem bestimmten Blickwinkel zusammenhängend zu lesen. Sie können auch als Lesepakete für den Unterricht verwendet werden.
-
 Alle technischen Komponenten sind Open Source. Wir haben kollaborativ über [Dendron](https://www.dendron.so/) gearbeitet, über [git](https://git-scm.com/) synchronisiert und direkt aus git über eine selbst gehostete Version des Content-Management-Systems [Netlify](https://www.netlify.com/) veröffentlicht. [Arthur and Son La will provide one more sentence on the technical components.]
 
 **Kontakt**: humanities(at)mfn.berlin
