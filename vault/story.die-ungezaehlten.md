@@ -8,7 +8,7 @@ date_end: 2021-09-28T15:14:00.761Z
 archived: true
 published: false
 title: EN Die Ungezaehlten
-updated: 1632905986655
+updated: 1632921576510
 id: vB2L6zopXhOqX2df7iRul
 desc: EN desc
 desc_de: DE desc
@@ -38,3 +38,14 @@ Ich schreibe einen Text über [[story.catching-animals]].
 
 Das war das Schicksal des [[Maulbeerspinners|material.silkworm-in-papier-mache]].
 
+<figure>
+
+![Hier kommt die Bildbeschreibung, also der AltText](/images/filo/bugmen.jpg)
+
+<figcaption>
+
+_Hier kommt die Bildunterschrift. (Quelle. Lizenz.)_
+
+</figcaption>
+
+</figure>
