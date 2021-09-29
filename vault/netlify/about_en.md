@@ -115,7 +115,7 @@ We would like to thank all who supported our work on this publication.
 
 At Museum für Naturkunde Berlin:
 
-- Technical and administrative support: Inna Reise, Falko Glöckler, Markus Wegner, Holger Schick, Mareike Petersen, Stefanie Paß, Sonja Kreft
+- Technical and administrative support: Inna Reise, Falko Glöckler, Markus Wegner, Holger Schick, Mareike Petersen, Stefanie Paß, Sonja Kreft, Caitlin Thorn
 - Research support in the archive: Yvonne Reimers, Sandra Miehlbradt
 - Research support in the collections: David Lazarus, Johan Renaudie, Christine NN, NN, NN
 
