@@ -60,7 +60,7 @@ Während das Atelier von Adolf Ziegler (1820-1889) und seinem Sohn Friedrich (18
 
 <figcaption>
 
-_Auch mit geschlossenem Deckel sind die Innereien des Maulbeerspinners seitlich am Clastique-Modell zu erkennen. (Zoologische Lehrsammlung. Foto Kerstin Stoll, 2020.)_
+_Auch mit geschlossenem Deckel ist das Innenleben des Maulbeerspinners seitlich am Clastique-Modell zu erkennen. (Zoologische Lehrsammlung. Foto Kerstin Stoll, 2020.)_
 
 </figcaption>
 
