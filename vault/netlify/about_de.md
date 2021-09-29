@@ -11,7 +11,7 @@ Relationale Datenbanken, genau die Datenbanken, die häufig zur Erfassung und Ve
 -   _Storys_ liefern mithilfe von _Materien_ und anderen Quellen Antworten auf kleine und große Forschungsfragen.
 -   _Themen_ öffnen den Blick für den thematischen Rahmen und verbinden die vielen verschiedenen _Storys_ und _Materien_.
 
-Sie sind in vielfältiger und manchmal überraschender Weise miteinander verbunden und ergeben sich aus der Situiertheit (in einer Disziplin, Institution, Fachposition) und den Interessen der Autor\*innen.
+Sie sind in vielfältiger und manchmal überraschender Weise miteinander verknüpft und ergeben sich aus der Situiertheit (in einer Disziplin, Institution, Fachposition) und den Interessen der Autor\*innen.
 
 Alle technischen Komponenten sind Open Source. Wir haben kollaborativ über [Dendron](https://www.dendron.so/) gearbeitet, über [git](https://git-scm.com/) synchronisiert und direkt aus git über eine selbst gehostete Version des Content-Management-Systems [Netlify](https://www.netlify.com/) veröffentlicht. [Arthur and Son La will provide one more sentence on the technical components.]
 
