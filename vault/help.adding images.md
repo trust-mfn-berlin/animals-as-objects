@@ -2,7 +2,7 @@
 title: Adding Images
 title_de: Adding Images
 created: 1618495642535
-updated: 1624529491831
+updated: 1632921777921
 id: ba7e639c-51d0-499d-a3f0-55ee838d64b3
 desc: Adding Images
 desc_de: Adding Images
@@ -11,11 +11,21 @@ published: false
 
 ## Images inside articles
 
-To add a local image, copy your image file to the *Animals as Objects* repository dendron images folder `/vault/images`. Then put the relative path of the image into the curved brackets `![](here)`. 
+To add a local image, copy your image file to the *Animals as Objects* repository dendron images folder `/vault/images`. Then put the relative path of the image into the curved brackets `![](here)`.
 
 The format is as follows:
 
+<figure>
+
 `![Optional text description](/images/example/hippo.jpg)`
+
+<figcaption>
+
+_Hier ist eine Bildunterschrift._
+
+</figcaption>
+
+</figure>
 
 ![Alt text description](/images/example/hippo.jpg)
 
