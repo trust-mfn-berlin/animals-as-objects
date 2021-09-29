@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1630093259250
+updated: 1632905400856
 created: 1618326133707
 ---
 
@@ -30,17 +30,18 @@ See [[templates.story]]
 ### Numbers and Dates
 
 * Dates of life only in material.person, not everywhere
-* Large numbers are written as 63, 7.478, 165.000 with a dot (but the dot can be left out in EN, if it's too confusing within a text that also has smaller numbers with decimal points like sums of money), except for zero through twelve (null bis zwölf), which are spelled out as a word
+* Large numbers are written as 63, 7.478, 165.000 with a dot (but the dot can be left out in EN, if it's too confusing within a text that also has smaller numbers with decimal points like sums of money), except for zero through twelve (null bis zwölf), which are spelled out as a word. CHANGE: English large numbers should not have dots, but comma!
 * 19th century, 19. Jahrhundert
 * Dates in the text are 12 December 1967 in EN, but 12. Dezember 1967 auf DE
-* Full dates in footnotes are 30.07.1985
+* Full dates in footnotes are 30.07.1985 DDMMYYY
 * Currency comes before the amount in EN but after the amount in DE
-* Sums of money are 1,88 DM (West) in DE with a comma but DM (West) 1.88 in EN with a dot
+* Sums of money are 1,88 DM (West) in DE with a comma but DM (West) 1.88 in EN with a dot. CHECK THIS!
 
 ### Grammar and Style
 
 - Use Oxford comma
 - Use the longer dashes with spaces around it in texts – like this. Not this one: -
+- Von bis: kürzester Strich
 - Only use "these quotation marks" in both DE and EN, not „these quotation marks”
 - Always leave a blank line above and below a bullet point list
 - Footnotes come after the "." at the end of a sentence but before the "," if in the middle of a sentence
@@ -105,7 +106,7 @@ _Staatspräsident Ulbricht übergibt den goldenen Schlüssel, 22.10.1965. (LAB C
 
 [article title is visible, and written in the accessibility description] _Artikel aus dem_ Völkischen Beobachter _vom 12.04.1938 mit einem Interview mit Lutz Heck._ [No need for archival source or license info since newspapers are mass reproduced.]
 
-## Image descriptions, AltText
+## Image descriptions = AltText
 
 * Do start with general details, followed by specifics.
 * Do be clear and concise. It is important not to be too wordy or over describe a panel, since this can be confusing to a reader.
