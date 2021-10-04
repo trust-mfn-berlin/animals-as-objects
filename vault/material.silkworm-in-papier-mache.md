@@ -1,19 +1,16 @@
 ---
 license: CC BY-SA
+title: Papier-Maché Silkworm
 title_de: Maulbeerspinner in Papiermaché
 created: 1629796212936
-author: Britta Lange
-short_desc_de: Clastique-Modell einer Seidenraupe
-date_end: 1900-12-31T11:00:00.000Z
-published: false
-title: Silkworm in Papier-Maché
 updated: 1629985323104
 id: kaVI1pTyKCM8SvVsrYrSJ
+author: Britta Lange
 translators:
   translator_de_en: Lydia J. White
 desc: EN Clastique-Modell einer Seidenraupe
-desc_de: Clastique-Modell einer Seidenraupe
 short_desc: EN Clastique-Modell einer Seidenraupe
+short_desc_de: Clastique-Modell einer Seidenraupe
 cover_image:
   image: /images/silkworm-seidenraupe-maulbeerspinner-model-side-view-louis-auzoux.jpeg
   alt: "Silkworm model by Louis Auzoux in the Zoological Teaching Collection,
@@ -22,6 +19,9 @@ cover_image:
     All rights reserved."
 tao_type: material
 date_start: 1819-12-31T23:06:32.000Z
+date_end: 1900-12-31T11:00:00.000Z
+published: false
+desc_de: Clastique-Modell einer Seidenraupe
 ---
 
 :::EN:::
@@ -56,11 +56,11 @@ Während das Atelier von Adolf Ziegler (1820-1889) und seinem Sohn Friedrich (18
 
 <figure>
 
-![Seitliche Ansicht des Modells eines Maulbeerspinners. Trotz des geschlossenen Deckels bleibt seitlich ein Spalt offen durch den die modellierten Innereien erkennbar sind.](images/guests/silkworm-seidenraupe-maulbeerspinner-model-side-view-louis-auzoux.jpeg)
+![Seitliche Ansicht des Modells eines Maulbeerspinners. Trotz des geschlossenen Deckels bleibt seitlich ein Spalt offen durch den das modellierte Innenleben erkennbar ist.](images/guests/silkworm-seidenraupe-maulbeerspinner-model-side-view-louis-auzoux.jpeg)
 
 <figcaption>
 
-_Auch mit geschlossenem Deckel sind die Innereien des Maulbeerspinners seitlich am Clastique-Modell zu erkennen. (Zoologische Lehrsammlung. Foto Kerstin Stoll, 2020.)_
+_Auch mit geschlossenem Deckel ist das Innenleben des Maulbeerspinners seitlich am Clastique-Modell zu erkennen. (Zoologische Lehrsammlung. Foto Kerstin Stoll, 2020.)_
 
 </figcaption>
 
