@@ -2,7 +2,11 @@
 id: fa206cd6-fda4-46ec-83e7-206cb1306e78
 title: Baby Lions
 desc: Put a description of this note here...
+<<<<<<< HEAD
+updated: 1632842274816
+=======
 updated: 1632914383022
+>>>>>>> 97f6d42450916acb3a01486d4b821fc890ba0d92
 created: 1622624578996
 license: CC BY-SA
 title_de: Löwenbabys
@@ -11,7 +15,7 @@ short_desc_de: DE short desc
 date_end: ''
 archived: true
 published: false
-desc_de: Lange Zeit hatten Besucher\*innen in Zoos die Möglichkeit, sich mit Löwenbabys fotografieren zu lassen. Wann kam dieses Motiv auf und warum ist es heute aus den Zoos verschwunden? Die Antworten führen in die Geschichte der Fotopraxis, der Zootierhaltung und der Politiken des Tierbildes.
+desc_de: Lange Zeit hatten Besucher\*innen in Zoos die Möglichkeit, sich mit Löwenbabys fotografieren zu lassen. Wann kam dieses Motiv auf und warum ist es heute aus den Zoos verschwunden? Die Suche nach Antworten führt in die Geschichte der Fotopraxis, der Zootierhaltung und der Politiken des Tierbildes.
 short_desc: EN short desc
 cover_image: null
 tao_type: story
@@ -22,9 +26,6 @@ date_start: ''
 :::EN:::
 
 
-[^footnote1]: here REF: Surname, Name. _Book title_. Place: Press, YYYY
-Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp.
-
 :::DE:::
 
 
@@ -32,7 +33,11 @@ Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp.
 _Kleiner Junge mit Löwenbaby im Jahr 1939 auf der Bank des Berliner Zoofotografen. (AZGB)_
 
 
+<<<<<<< HEAD
+Vielen mag das Fotomotiv bekannt vorkommen: Mann, Frau oder Kind mit jungem Löwen auf dem Schoß. Manchmal ist der Blick liebevoll oder ängstlich dem Tier zugewandt, manchmal unverwandt in die Kamera gerichtet, wie bei diesem Foto aus dem Jahr 1939. Lie meisten dieser Aufnahmen stammen aus Zoos, wo man sich lange Zeit von einem Fotografen mit einem Löwenjungen ablichten lassen konnte.  Wann kam das Motiv auf und warum ist es heute aus den Zoos verschwunden? Was verraten die Fotos über die Beziehung zwischen Zoobesucher\*innen und Löwenbabys? Welcher Umgang mit und welche Vorstellung von „wilden Tieren“ bildet sich in diesen Bildern ab und wie werden die Tiere überhaupt zu Bildobjekten? Was ist das Tier hier - Raubtier, Zootier, Kuscheltier? Die Suche nach Antworten führt nicht nur in die Geschichte der Fotopraxis und der Zootierhaltung. Sie hängt auch eng mit sich wandelnden Politiken des Tierbildes zusammen.
+=======
 Vielen mag das Fotomotiv bekannt vorkommen: Zoobesucher\*innen mit jungem Löwen auf dem Schoß. Diese Fotos zeigen oft Kinder, mal allein, mal mit erwachsenen Begleiter\*innen. Manchmal ist der Blick liebevoll oder ängstlich dem Tier zugewandt, manchmal unverwandt in die Kamera gerichtet oder die Kinder schauen aus dem Foto heraus auf ihre Eltern, wie wahrscheinlich bei diesem Foto aus dem Jahr 1939. Lange Zeit konnte man sich in vielen deutschen Zoos mit einem Löwenjungen ablichten lassen.
+>>>>>>> 97f6d42450916acb3a01486d4b821fc890ba0d92
 
  Angesichts solcher Löwenbabyfotos drängen sich verschiedene Fragen auf: Wann kam das Motiv auf und warum ist es heute aus den Zoos verschwunden? Was verraten die Fotos über die Beziehung zwischen Zoobesucher\*innen und Löwenbabys? Welcher Umgang mit und welche Vorstellung von „wilden Tieren“ bildet sich in diesen Bildern ab und wie werden die Tiere überhaupt zu Bildobjekten? Was ist das Tier hier - Raubtier, Zootier, Kuscheltier? Die Suche nach Antworten führt nicht nur in die Geschichte der Fotopraxis und der Zootierhaltung. Sie hängt auch eng mit sich wandelnden Politiken des Tierbildes zusammen.
 
