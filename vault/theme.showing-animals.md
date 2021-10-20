@@ -7,7 +7,7 @@ short_desc_de: Wie und warum stellen Zoos Tiere aus?
 date_end: 2021-08-27T23:01:33.091Z
 published: false
 title: Putting Animals on Display
-updated: 1630100669174
+updated: 1634730444688
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 translators:
   translator_de_en: Lydia J. White
@@ -110,7 +110,7 @@ _Announcement for Opera Ball at the zoo restaurant, 1914. (AZGB. All rights rese
 
 <figcaption>
 
-_Article about "Cheap Sundays" at the Berlin zoo in _Berliner Illustrierten Zeitung_, no. 38, 1929._
+_Article about "Cheap Sundays" at the Berlin zoo in_ Berliner Illustrierten Zeitung, _no. 38, 1929._
 
 </figcaption>
 
@@ -194,7 +194,7 @@ As previously mentioned, the Bronx Zoo was founded in 1899 to breed endangered A
 
 <figure>
 
-![Bison vor einer Transportkiste in einem Wald. Auf der Kiste und neben einem Gatter stehen Männer in Arbeitsuniformen.](images\cmw\Wisent-Schorfheide.jpg)
+![Bison vor einer Transportkiste in einem Wald. Auf der Kiste und neben einem Gatter stehen Männer in Arbeitsuniformen.](images/cmw/Wisent-Schorfheide.jpg)
 
 <figcaption>
 
@@ -212,7 +212,7 @@ While for Hediger breeding to preserve a species was just one of four reasons fo
 
 <figcaption>
 
-_Heinz-Georg Klös _Noah's Ark on the Spree_ Berlin: FAB Verlag, 1994._
+_Heinz-Georg Klös_ Noah's Ark on the Spree _Berlin: FAB Verlag, 1994._
 
 </figcaption>
 
@@ -378,7 +378,7 @@ _Ankündigung des Opern-Balls in der Zoo-Restauration, 1914. (AZGB. Alle Rechte 
 
 <figcaption>
 
-_Artikel zum "Billigen Sonntag" im Zoo Berlin in der Berliner Illustrierten Zeitung Nr. 38 aus dem Jahr 1929._
+_Artikel zum "Billigen Sonntag" im Zoo Berlin in der_ Berliner Illustrierten Zeitung Nr. 38 _aus dem Jahr 1929._
 
 </figcaption>
 
@@ -465,7 +465,7 @@ Der Bronx Zoo wurde 1899 wie erwähnt gegründet, um gefährdete amerikanische T
 
 <figure>
 
-![Bison vor einer Transportkiste in einem Wald. Auf der Kiste und neben einem Gatter stehen Männer in Arbeitsuniformen.](images\cmw\Wisent-Schorfheide.jpg)
+![Bison vor einer Transportkiste in einem Wald. Auf der Kiste und neben einem Gatter stehen Männer in Arbeitsuniformen.](images/cmw/Wisent-Schorfheide.jpg)
 
 <figcaption>
 
@@ -483,7 +483,7 @@ War laut Hediger die Zucht für den Arterhalt einer von vier Zoozwecken, rückte
 
 <figcaption>
 
-_Heinz-Georg Klös _Die Arche Noah an der Spree_ Berlin: FAB Verlag, 1994._
+_Heinz-Georg Klös_ Die Arche Noah an der Spree, _Berlin: FAB Verlag, 1994._
 
 </figcaption>
 
