@@ -1,22 +1,22 @@
 ---
 license: CC BY-SA
+title: Somsoplast – Plastic Animal Models
 title_de: Somsoplast – Tiermodelle aus Plastik
 created: 1629799783441
-author: Britta Lange
-short_desc_de: Materialien des Modellbaus
-date_end: 2021-08-26T13:04:38.748Z
-published: false
-title: Somsoplast – Plastic Animal Models
 updated: 1629982467648
 id: EjCkhWUz4D4DXc9ANY8bc
+author: Britta Lange
 translators:
   translator_de_en: Lydia J. White
-desc: EN Materialien des Modellbaus
+desc: The materials of model building
 desc_de: Materialien des Modellbaus
-short_desc: EN Materialien des Modellbaus
+short_desc: The materials of model building
+short_desc_de: Materialien des Modellbaus
 cover_image: null
 tao_type: material
 date_start: 1929-12-31T23:00:00.000Z
+date_end: 2021-08-26T13:04:38.748Z
+published: false
 ---
 
 :::EN:::
