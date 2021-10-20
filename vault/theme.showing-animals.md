@@ -3,17 +3,28 @@ license: CC BY-SA
 title_de: Tiere zurschaustellen
 created: 1618572893774
 author: Clemens Maier-Wolthausen
-short_desc_de: DE short desc
+short_desc_de: Wie und warum stellen Zoos Tiere aus?
 date_end: 2021-08-27T23:01:33.091Z
 published: false
-title: Showing Animals
-updated: 1634663613194
+title: Putting Animals on Display
+updated: 1630100669174
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 translators:
   translator_de_en: Lydia J. White
-desc: EN Put a description of this note here...
-desc_de: DE description 10-30 words
-short_desc: EN short desc
+desc: Zoos' justifications for keeping animals and putting them on display have
+  changed a great deal through the centuries, from recreation for urban
+  populations to research and wildlife conservation. The now typical,
+  geographically structured zoo in Berlin with its exoticising architecture was
+  preceded by a taxonomically structured zoo that placed far more value on the
+  completeness of its order than on the quality of the conditions in which
+  animals were kept.
+desc_de: Die Begründungen von Zoos, warum sie Tiere halten und zur Schau
+  stellen, haben sich über die Jahrhunderte stark gewandelt, von Erholung der
+  Stadtbevölkerung über Forschung bis hin zu Artenschutz. Dem heute typischen,
+  geographisch geordneten Berliner Zoo mit exotisierender Architektur ging ein
+  taxonomisch geordneter Zoo voraus, der die Vollständigkeit der Ordnung weitaus
+  bedeutsamer bewertete als die Qualität der Haltungsbedingungen.
+short_desc: How and why do zoos put animals on display?
 cover_image:
   image: /images/showing-animals-berlin-zoo-antilopenhaus-around-1920.jpg
   alt: "Antilopenhaus um 1920 im Berliner Zoo. Antelope building around 1920 in

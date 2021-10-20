@@ -1,25 +1,19 @@
 ---
 license: CC BY-SA
+title: History of the Zoological Teaching Collection
 title_de: Geschichte der Zoologischen Lehrsammlung
 created: 1629792627920
-author: Theresa Schatt
-short_desc_de: Objekte, Inventare, Menschen und Netzwerke
-date_end: 1968-12-31T11:00:00.000Z
-published: false
-title: History of the Zoological Teaching Collection
 updated: 1630020699210
 id: hUAZn8uswMmXvmUP1S4Jn
+author: Theresa Schatt
 translators:
   translator_de_en: Lydia J. White
-desc: EN Die Dokumente der Zoologischen Lehrsammlung an der Humboldt-Universität
-  zu Berlin zeugen von Krieg sowie von Veränderungen des Institutionsalltags,
-  des wissenschaftlichen Vorgehens und der (universitäts-)politischen
-  Konfliktlinien.
-desc_de: Die Dokumente der Zoologischen Lehrsammlung an der Humboldt-Universität
-  zu Berlin zeugen von Krieg sowie von Veränderungen des Institutionsalltags,
-  des wissenschaftlichen Vorgehens und der (universitäts-)politischen
-  Konfliktlinien.
-short_desc: EN Objekte, Inventare, Menschen und Netzwerke
+desc: "The documents of the Zoological Teaching Collection at Humboldt
+  University in Berlin are testament to war and the changes that took place in
+  everyday life at the institution, in scientific approaches, and in lines of
+  political conflict (within the university). "
+short_desc: Objects, inventories, people, and networks
+short_desc_de: Objekte, Inventare, Menschen und Netzwerke
 cover_image:
   image: /images/cover-history-zoological-teaching-collection.png
   alt: "Opening of the Berlin university's zoological institute in the new museum
@@ -28,6 +22,12 @@ cover_image:
     Stefan Richter (2000). All rights reserved."
 tao_type: story
 date_start: 1883-12-31T23:06:32.000Z
+date_end: 1968-12-31T11:00:00.000Z
+published: false
+desc_de: Die Dokumente der Zoologischen Lehrsammlung an der Humboldt-Universität
+  zu Berlin zeugen von Krieg sowie von Veränderungen des Institutionsalltags,
+  des wissenschaftlichen Vorgehens und der (universitäts-)politischen
+  Konfliktlinien.
 ---
 
 :::EN:::
