@@ -1,26 +1,26 @@
 ---
 license: CC BY-SA
+title: The Logbooks of the Zoological Museum
 title_de: Tagebücher des Zoologischen Museums
 created: 1629873018732
-author: Theresa Schatt
-short_desc_de: Warum Präparatoren Tagebuch führen
-date_end: 1858-12-31T11:06:32.000Z
-published: false
-title: EN Tagebuecher des Zoologischen Museums
-updated: 1634663392339
+updated: 1630018338796
 id: GbN8jKA3AMS4f5MC9oXTL
+author: Theresa Schatt
 translators:
   translator_de_en: Lydia J. White
-desc: EN Warum Präparatoren Tagebuch führen
-desc_de: Warum Präparatoren Tagebuch führen
-short_desc: EN Warum Präparatoren Tagebuch führen
+desc: Why preparators keep logbooks
+short_desc: Why preparators keep logbooks
+short_desc_de: Warum Präparatoren Tagebuch führen
 cover_image:
-  image: /images/tagebuch-beyer-zoologische-lehrsammlung.jpg
+  image: /images/tagebuch-beyer-zoologische-sammlung-museum.jpg
   alt: "Work diaries of the preparators at Zoological Museum Berlin.
     Arbeitstagebücher der Präparatoren des Zoologischen Museums Berlin. Source:
     HBSB/MfN. All rights reserved."
 tao_type: material
 date_start: 1842-12-31T23:06:32.000Z
+date_end: 1858-12-31T11:06:32.000Z
+published: false
+desc_de: Warum Präparatoren Tagebuch führen
 ---
 
 
