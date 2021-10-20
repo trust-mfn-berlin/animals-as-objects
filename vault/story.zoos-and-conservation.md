@@ -11,6 +11,10 @@ Zoos bewegen sich in einem Spannungsfeld zwischen einem oft sehr treuen Publikum
 
 Die oben beschriebene Faszination mit diesen Primaten löste 1876 eine erste Begeisterung unter den Berliner\*innen aus, die im damaligen Aquarium unter den Linden - nicht Teil des Zoologischen Gartens - und dem Zoologischen Garten selbst erste Einzelxemplare bestaunen konnten. [Klös, H.-G.; Lange, J. (1988) Tierwelt hinter Glas - Das Zoo-Aquarium Berlin] Bis 1926 waren es zumeist Einzeltiere. 1926 kam dann ein zuchtfähiges Paar Sumatra-Orang-Utans nach Berlin. Das erste Jungtier starb nach der Geburt. Welche Bedeutung es für den Zoo hatte, diese Tiere ausstellen zu können, kann auch daran gesehen werden, dass sie im Jahr nach ihrer Ankunft bereits das Titelbild des Zoowegweisers schmückten.
 
+![Titelbild des Wegweisers durch den Zoologischen Garten Berlin 1927 mit einem Paar rothaariger Menschenaffen auf einem Ast sitzend.](images/cmw/Orangs_Wegweiser_1927.jpg)
+
+_Titelbild des Wegweisers durch den Zoologischen Garten Berlin 1927 mit einem Paar Orang-Utans._
+
 
  
 ## Das Problem mit den Orang-Utans
@@ -37,7 +41,7 @@ Andere Teilnehmer verwiesen auf der Tagung auf eine mögliche Preistreiberei, we
  
 Dathe und Klös waren Mitte der 1960er Jahre mit ihrer Position zum Umgang mit gefährdeten Arten nicht allein. Es sollte jedoch gefragt werden, ob denn die beiden in diesem Moment nicht möglicherweise einen Zielkonflikt hatten. Die Haltung von Menschenaffen brachte und bringt für Zoos ein großes Prestige unter den Kolleginnen und Kollegen mit sich und viele Besucher\*innen sind von ihnen, insbesondere den Orang-Utans angezogen. In der Konkurrenz der beiden Tiergärten in der geteilten Stadt spielten diese attraktiven Schautiere sicher eine Rolle. Sowohl der Zoo als auch der Tierpark hatten in den vorangegangenen Jahren Wildfänge dieser Art gekauft und bemühten sich um eine eigene Zucht. Obwohl beide sich dem Artenschutz verschrieben hatten, könnten hier egoistische Motive eines Wettkampfs um diese populären Tiere eine Rolle gespielt haben. Heinrich Dathe war es endlich geglückt ein Menschenaffenhaus zu bauen, welches 1964 eröffnet wurde. Darin befanden sich auch drei Orang-Utans, die 1960 und 1961 gekommen waren. Sicher erhoffte sich Heinrich Dathe mit dem einen Weibchen und den zwei Männchen, eine Zucht aufzubauen, muss sich aber im Klaren gewesen sein, dass er weitere Individuen der Art brauchen würde.
  
-![desc](images\cmw\Orangs_Bubi_Nakal_1959.jpg)
+![desc](images/cmw/Orangs_Bubi_Nakal_1959.jpg)
 _Postkarte des Zoologischen Gartens mit den beiden Orang-Utan-Jungtieren "Nakal" und "Bubi", 1959._
  
 Sein Kollege in West-Berlin konnte bereits 1963 erste Nachzuchten erzielen, aber ein Junges verstarb und der deutlich im Geschäftsbericht artikulierte Wunsch des Aufbaus einer Zucht und des Anknüpfens an Erfolge der 1920er Jahre in der Orang-Utan-Zucht würde weitere Importe bedingen. Der Geschäftsbericht sprach auch deutlich von der Gefährdung der Art und formulierte eine Erhaltungszuchtpolitik für Zoos.
