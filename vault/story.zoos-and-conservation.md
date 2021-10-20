@@ -15,7 +15,7 @@ Die oben beschriebene Faszination mit diesen Primaten löste 1876 eine erste Beg
 
 _Titelbild des Wegweisers durch den Zoologischen Garten Berlin 1927 mit einem Paar Orang-Utans._
 
-
+Die Hoffnungen auf eine Zucht <!-- wegweiser 1939 und Journal 1938 checken --> erfüllten sich aber nicht, so dass alle weiteren Tiere dieser Art, die im Berliner Zoo ausgestellt wurden weiterhin Wildfänge blieben. Und hier begann Anfang der 1960er Jahre eine Diskussion.
  
 ## Das Problem mit den Orang-Utans
  
@@ -60,7 +60,7 @@ Diese Form des ex-situ Artenschutzes verband für Heinrich Dathe und andere Zoos
 
 Als der Tierpark zu seinem 30jährigen Jubiläum eine Konferenz Veranstaltete stand die Rolle und Bedeutung der "Großtierwelt" im Fokus der Tagung.[^30Jahre]
  
-## Davidshirsch, Bison, Wisent und Przwalskipferd
+## Vorbilder für Zuchtprogramme
  
 In den 1890er Jahren wurde der Davidshirsch vor dem Aussterben bewahrt. Der Duke of Bedford brachte eine Gruppe von 18 Tieren in seinen Privatzoo in Woburn, um sie dort in einem Zuchtprogramm zu vermehren.[^firsttrials1] 1905 wurde die 'American Bison Society' gegründet. Das Ziel: die Erhaltung des beinahe ausgestorbenen Amerikanischen Bison. Dieser Megaherbivore hatte einst in riesigen Herden die weiten Ebenen der USA bevölkert. Diese waren nun durch intensive Bejagung auf wenige kleine Gruppen dezimiert worden. Die Wandertaube, deren Schwärme, ähnlich wie die Bisons die Prärie beherrschten, den Himmel über den USA einst verdunkelten hingegen bekam keine Aufmerksamkeit und starb wohl um die Jahrhundertwende zum 20. Jahrhundert aus. Anschließend lebten noch einige Exemplare in Zoos, doch niemand machte nennenswerte Versuche, sie zu züchten und die Art zu erhalten.[^firsttrials2] Erst im 21. Jahrhundert wurden Versuche gestartet, die Art mit Hilfe überlieferter genetischer Informationen wiederzubeleben. Beide Arten waren einst ähnlich zahlreich und omnipräsent in Amerika, die Antworten, die auf ihr Aussterben gefunden wurden, konnten aber unterschiedlicher nicht sein.
 Der Direktor des New York Zoological Parks und ehemalige Taxidermist des National Museum, William Hornaday, stellte eine Zuchtgruppe aus Bisons verschiedener amerikanischer Zoos zusammen und bald gelang es ihm, nachwuchs zu zeugen. Als dann ab etwa 1905 durch US-Präsident theodore Roosevelt erste Nationalparks entstanden, begannen Hornaday und seine Mitstreiter die Tiere auszuwildern. Zum ersten Mal wurde eine in Zoos gezüchtete gefährdete Tierart ausgewildert. Der große Bison war nicht nur leicht zu züchten und vermehrte sich auch in menschlicher Obhut gut, er zog anscheinend genug Aufmerksamkeit, was mit seiner Größe, seiner Gefährlichkeit, wohl aber auch mit seiner ikonischen Figur in der Geschichte des amerikanischen Westens zu tun hatte.
