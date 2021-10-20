@@ -16,9 +16,9 @@ Die oben beschriebene Faszination mit diesen Primaten löste 1876 eine erste Beg
 _Titelbild des Wegweisers durch den Zoologischen Garten Berlin 1927 mit einem Paar Orang-Utans._
 
 Die Hoffnungen auf eine Zucht <!-- wegweiser 1939 und Journal 1938 checken --> erfüllten sich aber nicht, so dass alle weiteren Tiere dieser Art, die im Berliner Zoo ausgestellt wurden weiterhin Wildfänge blieben. Und hier begann Anfang der 1960er Jahre eine Diskussion.
- 
+
 ## Das Problem mit den Orang-Utans
- 
+
 Heute stammt die Mehrzahl der in Europa und Nordamerika in Zoos lebenden Orang-Utans aus den Erhaltungszuchtprogrammen der Zooverbände. Das war nicht immer so und am Orang Utan lassen sich die Interessenskonflikte von Zoos sehr gut ablesen. In den beiden deutschen Staaten wurde diese gefährdete Tierart sogar zu einem Politikum.
 Auf der Tagung des Verbands Deutscher Zoodirektoren 1962 auf der die ostdeutschen Kollegen ein Jahr nach dem Bau der Berliner Mauer nicht anwesend waren, wurde zum ersten Mal intensiv über den Kauf von importierten Orang-Utans, also Wildfängen, diskutiert. Der Frankfurter Zoodirektor [[material.Bernhard Grzimek]] wies auf die große Gefährdung der Art in Borneo und Sumatra hin. Grzimek war der früheste Vertreter eines aktiven Artenschutzes unter den deutschen Zoodirektoren. Er forderte einen freiwilligen Verzicht der versammelten Zoodirektoren[^heinrothgender] auf den Import der Spezies.
  
