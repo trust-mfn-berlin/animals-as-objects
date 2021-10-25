@@ -1,23 +1,24 @@
 ---
-license: CC BY-SA
-title: Winter Hardship at the Zoo
-title_de: Wintersnot im Zoo
-created: 1635149269643
-updated: 1635149485098
 id: QNjsPsf49gtoKwbK4WauU
-author: Mareike Vennen
+title: Winter Hardship at the Zoo
 desc: Put a description of this note here...
+updated: 1635149485098
+created: 1635149269643
+license: CC BY-SA
+title_de: Wintersnot im Zoo
+author: Mareike Vennen
 desc_de: Put a DE description of this note here...
 short_desc: Put a description of this note here...
 short_desc_de: Put a DE description of this note here...
 cover_image:
   image: /images/wintersnot.jpg
-  alt: A typewritten poem on a punched piece of paper signed "K. Ferber" with a
-    red "Kurd Ferber" stamp. Schreibmaschinengeschriebenes Gedicht auf gelochtem
+  alt: >-
+    A typewritten poem on a punched piece of paper signed "K. Ferber" with a red
+    "Kurd Ferber" stamp. Schreibmaschinengeschriebenes Gedicht auf gelochtem
     Blatt mit rotem Stempel "Kurd Ferber" und grüner Unterschrift "K. Ferber".
 tao_type: material
-date_start: 1948-10-25T09:34:00.000Z
-date_end: 1948-10-25T09:34:00.000Z
+date_start: '1948-10-25T09:34:00.000Z'
+date_end: '1948-10-25T09:34:00.000Z'
 published: false
 ---
 
