@@ -22,8 +22,8 @@ short_desc: Object transfer and the circulation of lists between zoos and museum
 short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
 cover_image: null
 tao_type: story
-date_start: ""
-date_end: ""
+date_start: 1914-01-13T00:00:00.000Z
+date_end: 2021-10-25T08:44:25.273Z
 published: false
 ---
 
