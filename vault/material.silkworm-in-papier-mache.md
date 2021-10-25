@@ -1,7 +1,7 @@
 ---
 license: CC BY-SA
-title: Papier-Mâché Silkworm
-title_de: Maulbeerspinner in Papiermaché
+title: Papier-Mache Silkworm
+title_de: Maulbeerspinner in Papiermachee
 created: 1629796212936
 updated: 1634731266977
 id: kaVI1pTyKCM8SvVsrYrSJ
