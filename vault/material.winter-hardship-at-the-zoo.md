@@ -13,7 +13,8 @@ short_desc_de: Put a DE description of this note here...
 cover_image:
   image: /images/wintersnot.jpg
   alt: A typewritten poem on a punched piece of paper signed "K. Ferber" with a
-    red "Kurd Ferber" stamp.
+    red "Kurd Ferber" stamp. Schreibmaschinengeschriebenes Gedicht auf gelochtem
+    Blatt mit rotem Stempel "Kurd Ferber" und grüner Unterschrift "K. Ferber".
 tao_type: material
 date_start: 1948-10-25T09:34:00.000Z
 date_end: 1948-10-25T09:34:00.000Z
