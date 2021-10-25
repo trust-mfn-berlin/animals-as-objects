@@ -29,7 +29,7 @@ published: false
  
 :::EN:::
 
-In the Summer of 1845, the board of the newly founded "Actien-Verein des Zoologischen Gartens bei Berlin" – the stock association of the Zoological Garden of Berlin – decided to ask Royal Prussian Consuls in the most important foreign trading and coastal cities to donate animals to the zoo. This was the result of a need to obtain urgently needed animals at low cost – especially those not native to Europe coveted by the public – in the face of a shortage of funds.
+In the summer of 1845, the board of the newly founded "Actien-Verein des Zoologischen Gartens bei Berlin" – the stock association of the Zoological Garden of Berlin – decided to ask Royal Prussian Consuls in the most important foreign trading and coastal cities to donate animals to the zoo. This was the result of a need to obtain urgently needed animals at low cost – especially those not native to Europe coveted by the public – in the face of a shortage of funds.
 
 >"It would be very expedient in general to issue the same notificatorium  to the Royal Prussian Consuls in the most important commercial and coastal places, and at the same time to request them to send inexpensively-purchased live animals, possibly to donate them for the coming summer. This proposal was duly acknowledged, and its execution decided."[^1]
 
