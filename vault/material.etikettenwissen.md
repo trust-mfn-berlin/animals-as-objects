@@ -1,6 +1,6 @@
 ---
 license: CC BY-SA
-title: Labels und Knowledge
+title: Labels and Knowledge
 title_de: Etikettenwissen
 created: 1629109985448
 updated: 1635150412752
