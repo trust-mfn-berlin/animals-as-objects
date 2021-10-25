@@ -1,37 +1,35 @@
 ---
-id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
-title: Catching Animals
-desc: >-
-  For a long time, animals for zoos were almost exclusively acquired by being
-  taken from their habitats. Trappers mostly worked for commercial animal trade
-  companies. 
-updated: 1629741063020
-created: 1618492547915
 license: CC BY-SA
+title: Catching Animals
 title_de: Tiere fangen
+created: 1618492547915
+updated: 1629741063020
+id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 author: Clemens Maier-Wolthausen
-short_desc_de: Habitate und Tierhandelsfirmen
-date_end: '1973-12-31T11:00:00.000Z'
-published: false
 translators:
   translator_de_en: Lucy Gasser
-desc_de: >-
-  Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten
-  entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen.
+desc: "For a long time, animals for zoos were almost exclusively acquired by
+  being taken from their habitats. Trappers mostly worked for commercial animal
+  trade companies. "
+desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren
+  Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle
+  Tierhandelsfirmen.
 short_desc: Habitats and animal trade companies
+short_desc_de: Habitate und Tierhandelsfirmen
 cover_image:
   image: /images/cover-catching-animals.jpg
-  alt: >-
-    Transporting two giraffes, captured on colonised land in 1928. Transport von
-    zwei Giraffen, 1928 auf kolonisiertem Gebiet gefangen. Source: AZGB, photo
-    Lutz Heck. All rights reserved.
+  alt: "Transporting two giraffes, captured on colonised land in 1928. Transport
+    von zwei Giraffen, 1928 auf kolonisiertem Gebiet gefangen. Source: AZGB,
+    photo Lutz Heck. All rights reserved."
 tao_type: story
-date_start: '1844-12-31T23:06:32.000Z'
+date_start: 1844-12-31T23:06:32.000Z
+date_end: 1973-12-31T11:00:00.000Z
+published: false
 ---
  
 :::EN:::
 
-In the summer of 1845, the board of the newly founded "Actien-Verein des Zoologischen Gartens bei Berlin" – the stock association of the Zoological Garden of Berlin – decided to ask Royal Prussian Consuls in the most important foreign trading and coastal cities to donate animals to the zoo. This was the result of a need to obtain urgently needed animals at low cost – especially those not native to Europe coveted by the public – in the face of a shortage of funds.
+In the Summer of 1845, the board of the newly founded "Actien-Verein des Zoologischen Gartens bei Berlin" – the stock association of the Zoological Garden of Berlin – decided to ask Royal Prussian Consuls in the most important foreign trading and coastal cities to donate animals to the zoo. This was the result of a need to obtain urgently needed animals at low cost – especially those not native to Europe coveted by the public – in the face of a shortage of funds.
 
 >"It would be very expedient in general to issue the same notificatorium  to the Royal Prussian Consuls in the most important commercial and coastal places, and at the same time to request them to send inexpensively-purchased live animals, possibly to donate them for the coming summer. This proposal was duly acknowledged, and its execution decided."[^1]
 
