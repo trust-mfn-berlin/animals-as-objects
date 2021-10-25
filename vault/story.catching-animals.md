@@ -1,32 +1,30 @@
 ---
-id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
-title: Catching Animals
-desc: >-
-  For a long time, animals for zoos were almost exclusively acquired by being
-  taken from their habitats. Trappers mostly worked for commercial animal trade
-  companies. 
-updated: 1629741063020
-created: 1618492547915
 license: CC BY-SA
+title: Catching Animals
 title_de: Tiere fangen
+created: 1618492547915
+updated: 1629741063020
+id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 author: Clemens Maier-Wolthausen
-short_desc_de: Habitate und Tierhandelsfirmen
-date_end: '1973-12-31T11:00:00.000Z'
-published: false
 translators:
   translator_de_en: Lucy Gasser
-desc_de: >-
-  Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten
-  entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen.
+desc: "For a long time, animals for zoos were almost exclusively acquired by
+  being taken from their habitats. Trappers mostly worked for commercial animal
+  trade companies. "
+desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren
+  Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle
+  Tierhandelsfirmen.
 short_desc: Habitats and animal trade companies
+short_desc_de: Habitate und Tierhandelsfirmen
 cover_image:
   image: /images/cover-catching-animals.jpg
-  alt: >-
-    Transporting two giraffes, captured on colonised land in 1928. Transport von
-    zwei Giraffen, 1928 auf kolonisiertem Gebiet gefangen. Source: AZGB, photo
-    Lutz Heck. All rights reserved.
+  alt: "Transporting two giraffes, captured on colonised land in 1928. Transport
+    von zwei Giraffen, 1928 auf kolonisiertem Gebiet gefangen. Source: AZGB,
+    photo Lutz Heck. All rights reserved."
 tao_type: story
-date_start: '1844-12-31T23:06:32.000Z'
+date_start: 1844-12-31T23:06:32.000Z
+date_end: 1973-12-31T11:00:00.000Z
+published: false
 ---
  
 :::EN:::
