@@ -1,15 +1,23 @@
 ---
-id: K2rQQdv1K7aDMUi5gDHcN
-title: Etikettenwissen EN title
-desc: Put a description of this note here...
-updated: 1635150412752
-created: 1629109985448
-title_de: Etikettenwissen
-desc_de: Put a DE description of this note here...
-author: Mareike Vennen
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title: Labels und Knowledge
+title_de: Etikettenwissen
+created: 1629109985448
+updated: 1635150412752
+id: K2rQQdv1K7aDMUi5gDHcN
+author: Mareike Vennen
+desc: Material traces of the relationship between museum and zoo
+desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
+short_desc: Material traces of the relationship between museum and zoo
+short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
+cover_image:
+  image: /images/Etiketten-Pohle-S004-02-05-96-020-v.jpg
+  alt: "A yellowed, punched paper card with stains and preprinted text at the top:
+    Zoologischer Garten Berlin – B5 Barbarossa 9014 / To. Handwritten: Natural
+    History Museum / Invaliden-Str."
+tao_type: material
+date_start: 1920-01-01T10:48:28.702Z
+date_end: 1935-01-01T10:48:28.706Z
 published: false
 ---
 
