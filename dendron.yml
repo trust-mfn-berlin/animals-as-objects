@@ -1,4 +1,4 @@
-version: 1
+maxPreviewsCached: 10
 vaults:
     -
         fsPath: vault
@@ -7,15 +7,12 @@ useNoteTitleForLink: true
 noAutoCreateOnDefinition: true
 noLegacyNoteRef: true
 noXVaultWikiLink: true
-lookupConfirmVaultOnCreate: false
 mermaid: true
 useKatex: true
 autoFoldFrontmatter: true
+usePrettyRefs: true
 dev:
     previewV2Enabled: false
-lookup:
-    note:
-        selectionType: selectionExtract
 journal:
     dailyDomain: daily
     name: journal
@@ -38,5 +35,20 @@ site:
         action: useVault
         payload:
             - vault
+version: 2
 initializeRemoteVaults: false
-dendronVersion: 0.56.0
+dendronVersion: 0.64.0
+commands:
+    lookup:
+        note:
+            selectionMode: extract
+            confirmVaultOnCreate: false
+            leaveTrace: false
+    randomNote: {}
+    insertNote:
+        initialValue: templates
+    insertNoteLink:
+        aliasMode: none
+        enableMultiSelect: false
+    insertNoteIndex:
+        enableMarker: false
