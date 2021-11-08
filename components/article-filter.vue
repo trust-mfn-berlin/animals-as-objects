@@ -34,6 +34,11 @@ export default {
           label_de: 'Typ',
         },
         {
+          name: 'author',
+          label: 'Author',
+          label_de: 'Autor*in',       
+        },
+        {
           name: 'alphabetical',
           label: 'A-Z',
           label_de: 'A-Z',       

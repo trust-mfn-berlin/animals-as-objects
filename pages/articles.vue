@@ -12,6 +12,17 @@
       </ol>
       </section>
 
+      <section v-show="activeFilter == 'author'">
+        <div v-for="a in articlesAuthor" :key="a[0].author">
+        <h2>{{a[0].author}}</h2>
+        <ul>
+          <li v-for="article in a" :key="article.slug">
+            <Inline :article="article"/>
+          </li>
+        </ul>
+        </div>
+      </section>
+
       <section v-show="activeFilter == 'type'">
       <h2>Theme</h2>
       <ul>
@@ -63,10 +74,12 @@ export default {
       material: [],
       story: []
     };
+    var articlesAuthor = {};
 
     results.forEach(article => {
       if(article.archived != true){
         if(article.tao_type == 'material' || article.tao_type == 'theme' || article.tao_type == 'story'){
+          // Sort alphabetically
           const firstLetter = article.title.charAt(0);
           if(!articlesAlphabetical[firstLetter]){
             articlesAlphabetical[firstLetter] = []
@@ -74,13 +87,24 @@ export default {
           } else {
             articlesAlphabetical[firstLetter].push(article)
           }
+          // Sort by Type
           articlesType[article.tao_type].push(article);
+
+          // Sort by Author
+          if(!articlesAuthor[article.author]){
+            articlesAuthor[article.author] = [];
+            articlesAuthor[article.author].push(article);
+          } else {
+            articlesAuthor[article.author].push(article);
+          }
         }
       }
     });
 
+    var authorNames = Object.keys(articlesAuthor);
+    
     return {
-      articlesAlphabetical, articlesType
+      articlesAlphabetical, articlesType, articlesAuthor, authorNames
     };
   },
   computed:{
