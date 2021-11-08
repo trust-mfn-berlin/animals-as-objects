@@ -71,3 +71,5 @@ Add Instructions here
 4. Fix image paths `\` -> `/` , `)[images` -> `)[/images` to be consistent forward slashes & leading forward slash. Best done with a find and replace.
 5. Generate colours for articles that dont have them / lost them in merge. `npm run colours`
 6. Optimise images. Any new images should be downsized with a script `npm run images`
+
+Other possible errors include user pathways that reference articles that are now deleted / renamed, and featured articles for homepage graph view that reference articles that are now deleted / renamed
