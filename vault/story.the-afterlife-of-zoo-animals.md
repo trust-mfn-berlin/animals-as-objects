@@ -1,35 +1,37 @@
 ---
-license: CC BY-SA
-title_de: Verfüttern und Verwerten
-created: 1621970259942
-author: Mareike Vennen
-short_desc_de: Auf den Spuren eines Elefanten
-date_end: 1947-12-31T11:00:00.000Z
-published: false
-title: The Afterlife of Zoo Animals
-updated: 1629888310600
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
-translators:
-  translator_de_en: Lucy Gasser
-desc: What happens to a zoo animal after death; how are the body or its parts
+title: The Afterlife of Zoo Animals
+desc: >-
+  What happens to a zoo animal after death; how are the body or its parts
   utilised – as colonial trophies, museum objects, meat? The story of the Berlin
   Zoo elephant "Siam" from the 1940s is a journey into post-war Berlin and deep
   into the history of European colonialism.
-desc_de: Was passiert mit Zootieren nach ihrem Tod, wie werden ihre
-  Körper(teile) weiterverwertet – als koloniale Trophäen, Museumsobjekte oder
+updated: 1636363752390
+created: 1621970259942
+license: CC BY-SA
+title_de: Verfüttern und Verwerten
+author: Mareike Vennen
+short_desc_de: Auf den Spuren eines Elefanten
+date_end: '1947-12-31T11:00:00.000Z'
+published: false
+translators:
+  translator_de_en: Lucy Gasser
+desc_de: >-
+  Was passiert mit Zootieren nach ihrem Tod, wie werden ihre Körper(teile)
+  weiterverwertet – als koloniale Trophäen, Museumsobjekte oder
   Fleischlieferanten? Die Geschichte des Berliner Zoo-Elefanten "Siam" aus den
   1940er Jahren führt ins Berlin der Nachkriegszeit und tief in die Geschichte
   des europäischen Kolonialismus.
 short_desc: On the trail of an elephant
 cover_image:
   image: /images/cover-elephant-skulls-mammal-collection.png
-  alt: "Elephant skulls in the mammal collection of Berlin's natural history
-    museum. Elefantenschädel in der Säugetiersammlung des Berliner
-    Naturkundemuseums. Source: Museum für Naturkunde Berlin, photo Mareike
-    Vennen. All rights reserved."
+  alt: >-
+    Elephant skulls in the mammal collection of Berlin's natural history museum.
+    Elefantenschädel in der Säugetiersammlung des Berliner Naturkundemuseums.
+    Source: Museum für Naturkunde Berlin, photo Mareike Vennen. All rights
+    reserved.
 tao_type: story
-date_start: 1932-12-31T23:00:00.000Z
-colour_scheme: 1
+date_start: '1932-12-31T23:00:00.000Z'
 ---
 
 :::EN:::
@@ -40,7 +42,7 @@ colour_scheme: 1
 
 <figcaption>
 
-_Newspaper article in the_ Telegraf _about "Siam's" utilisation , 21.03.1947._
+_Newspaper article in the_ Telegraf _about "Siam's" utilisation, 21.03.1947._
 
 </figcaption>
 
@@ -70,7 +72,7 @@ One of the trails leads to the Zoological Museum Berlin, which was a part of the
 
 <div class="series">
 
-![Shelf with three boards on which several elephant skulls are stored](/images/mv/elephant-skulls-mammal-collection.png)
+![Shelf with three boards on which several elephant skulls are stored](images/mv/elephant-skulls-mammal-collection-shelves.png)
 
 ![Open wooden box of lengthy bones lies on a table. A chair stands next to the table; antlers hang in the background.](/images/mv/bones-mammal-collection.png)
 
@@ -216,7 +218,7 @@ _Suche in der Säugetiersammlung des Museums für Naturkunde Berlin, November 20
 
 Sind die Elefantenknochen am Ende gar nicht in die Sammlung gekommen? Oder finden wir sie nur nicht, weil das Zoologische Museum zu jener Zeit nicht systematisch oder einheitlich Buch führte, so dass heute nicht für jedes damals eintreffende Objekt klar ist, wo und wie es verzeichnet ist? Siehe dazu auch [[story.record keeping]].
 
-In "Siams" Fall führen die Spuren, soviel steht fest, in die europäische Kolonialgeschichte. Die Stationen seines Lebens lenken den Blick auf jene Tiere, die aus den Kolonien als Handels- und Tauschobjekte oder als Geschenke nach Europa gebracht wurden[^4] – wie bei "Siam" aus der britischen Kolonie Ceylon. Auch hier waren regelmäßig [[Tierhändler|story.catching-animals]] wie John Hagenbeck unterwegs, um [[Tiere für Zoologische Gärten|theme.how-do-animals-get-into-the-zoo]] und Zirkusse zu fangen und Menschen für "Völkerschauen" – zooähnliche Ausstellungen von Menschen – zu rekrutieren.[^5] **Obwohl wir darüber, wie "Siam" auf Ceylon gefangen und nach Berlin transportiert wurde, noch wenig wissen, ist dies Teil der langen und problematischen Geschichte der Zoo- und Zirkustiere aus kolonialen Kontexten.** Elefantenfüße als Papierkörbe gehören dabei zweifellos zu den ikonischen Trophäen, in denen sich Verwertungsweisen wie auch stereotypisierte imperiale Bilder von Aneignung und Beherrschung materialisieren. Auch wenn wir über den tatsächlichen Verbleib von "Siams" Füßen ebenfalls nichts wissen, macht der Hinweis, dass aus ihnen Papierkörbe gemacht wurden, sie zu einem Teil dieser europäischen Aneignungsgeschichte. Und sie machen mir wieder einmal bewusst, dass die materielle Kultur des Kolonialismus in Sammlungen ebenso wie in Wohnzimmern zu suchen ist. Sie ist sowohl Teil der Berliner   Museums- als auch der Alltagsgeschichte. Die materiellen Spuren des Kolonialismus begegnen einem heute beim Gang durch historische Sammlungen, auf alten Fotos mit Mobiliar des 19. und frühen 20. Jahrhunderts und beim Gang über Trödelmärkte. Das bringt mich zum Nachdenken darüber, was für Spuren ein Tier hinterlässt, wo diese zu finden sind und was das für meine eigene Forschung und ihre Quellen bedeutet.
+In "Siams" Fall führen die Spuren, soviel steht fest, in die europäische Kolonialgeschichte. Die Stationen seines Lebens lenken den Blick auf jene Tiere, die aus den Kolonien als Handels- und Tauschobjekte oder als Geschenke nach Europa gebracht wurden[^4] – wie bei "Siam" aus der britischen Kolonie Ceylon. Auch hier waren regelmäßig [[Tierhändler|story.catching-animals]] wie John Hagenbeck unterwegs, um [[Tiere für Zoologische Gärten|theme.how-do-animals-get-to-the-zoo]] und Zirkusse zu fangen und Menschen für "Völkerschauen" – zooähnliche Ausstellungen von Menschen – zu rekrutieren.[^5] **Obwohl wir darüber, wie "Siam" auf Ceylon gefangen und nach Berlin transportiert wurde, noch wenig wissen, ist dies Teil der langen und problematischen Geschichte der Zoo- und Zirkustiere aus kolonialen Kontexten.** Elefantenfüße als Papierkörbe gehören dabei zweifellos zu den ikonischen Trophäen, in denen sich Verwertungsweisen wie auch stereotypisierte imperiale Bilder von Aneignung und Beherrschung materialisieren. Auch wenn wir über den tatsächlichen Verbleib von "Siams" Füßen ebenfalls nichts wissen, macht der Hinweis, dass aus ihnen Papierkörbe gemacht wurden, sie zu einem Teil dieser europäischen Aneignungsgeschichte. Und sie machen mir wieder einmal bewusst, dass die materielle Kultur des Kolonialismus in Sammlungen ebenso wie in Wohnzimmern zu suchen ist. Sie ist sowohl Teil der Berliner   Museums- als auch der Alltagsgeschichte. Die materiellen Spuren des Kolonialismus begegnen einem heute beim Gang durch historische Sammlungen, auf alten Fotos mit Mobiliar des 19. und frühen 20. Jahrhunderts und beim Gang über Trödelmärkte. Das bringt mich zum Nachdenken darüber, was für Spuren ein Tier hinterlässt, wo diese zu finden sind und was das für meine eigene Forschung und ihre Quellen bedeutet.
 
 ## Verfüttern und Verspeisen
 

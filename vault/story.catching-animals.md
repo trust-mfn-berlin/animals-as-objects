@@ -1,33 +1,30 @@
 ---
-id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
-title: Catching Animals
-desc: >-
-  For a long time, animals for zoos were almost exclusively acquired by being
-  taken from their habitats. Trappers mostly worked for commercial animal trade
-  companies. 
-updated: 1629741063020
-created: 1618492547915
 license: CC BY-SA
+title: Catching Animals
 title_de: Tiere fangen
+created: 1618492547915
+updated: 1636363503161
+id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 author: Clemens Maier-Wolthausen
-short_desc_de: Habitate und Tierhandelsfirmen
-date_end: '1973-12-31T11:00:00.000Z'
-published: false
 translators:
   translator_de_en: Lucy Gasser
-desc_de: >-
-  Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren Habitaten
-  entnommen. Die Fänger arbeiteten zumeist für professionelle Tierhandelsfirmen.
+desc: "For a long time, animals for zoos were almost exclusively acquired by
+  being taken from their habitats. Trappers mostly worked for commercial animal
+  trade companies. "
+desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren
+  Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle
+  Tierhandelsfirmen.
 short_desc: Habitats and animal trade companies
+short_desc_de: Habitate und Tierhandelsfirmen
 cover_image:
   image: /images/cover-catching-animals.jpg
-  alt: >-
-    Transporting two giraffes, captured on colonised land in 1928. Transport von
-    zwei Giraffen, 1928 auf kolonisiertem Gebiet gefangen. Source: AZGB, photo
-    Lutz Heck. All rights reserved.
+  alt: "Transporting two giraffes, captured on colonised land in 1928. Transport
+    von zwei Giraffen, 1928 auf kolonisiertem Gebiet gefangen. Source: AZGB,
+    photo Lutz Heck. All rights reserved."
 tao_type: story
-date_start: '1844-12-31T23:06:32.000Z'
-colour_scheme: 6
+date_start: 1844-12-31T23:06:32.000Z
+date_end: 1973-12-31T11:00:00.000Z
+published: false
 ---
  
 :::EN:::
@@ -226,7 +223,7 @@ _The predator enclosure of the Berlin Zoo was just one example of the so-called 
 
 </figure>
 
-From the 1960s onward, the place of wild-caught animals was increasingly taken by offspring produced in the zoos themselves, and inter-zoo exchanges – for more on this, see [[theme.how-do-animals-get-into-the-zoo]]. Today, zoos generally do not take individuals of endangered species from the wild as part of their species conservation efforts.
+From the 1960s onward, the place of wild-caught animals was increasingly taken by offspring produced in the zoos themselves, and inter-zoo exchanges – for more on this, see [[theme.how-do-animals-get-to-the-zoo]]. Today, zoos generally do not take individuals of endangered species from the wild as part of their species conservation efforts.
 
 In 1975, there was a Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), also called Washington Agreement. To a great extent, it ultimately put an end to the capturing of endangered animals from the wild for zoos. Commercial trade in wild-caught animals deemed endangered by the International Union for Conservation of Nature (IUCN), an international non-governmental organization, is prohibited. However, trade in offspring and non-commercial trade are possible, provided there is no threat to the continued existence of the species and national laws are observed. Species under special protection already include many of the show animals most popular with zoo visitors.[^27] Others are subject to strict regulations. In addition, there are veterinary regulations to prevent epidemics and diseases. In the case of mammals, zoos have little incentive to acquire wild animals captured in their habitats. Only aquariums continue to obtain specimens from the oceans, with the exception of many reptiles.
 
@@ -480,7 +477,7 @@ _Das Raubtierhaus des Berliner Zoos war nur ein Beispiel für die sogenannte Bad
 
 </figure>
 
-Seit den 1960er Jahren traten zunehmend Züchtungen, also in Zoos gezeugte Nachkommen, und der Tausch von Tieren zwischen den Zoos an die Stelle der Wildfänge. Hierzu mehr in [[theme.how-do-animals-get-into-the-zoo]]. Heute werden im Rahmen des Artenschutzes von Zoos in der Regel keine Individuen gefährdeter Arten mehr aus der Natur entnommen.
+Seit den 1960er Jahren traten zunehmend Züchtungen, also in Zoos gezeugte Nachkommen, und der Tausch von Tieren zwischen den Zoos an die Stelle der Wildfänge. Hierzu mehr in [[theme.how-do-animals-get-to-the-zoo]]. Heute werden im Rahmen des Artenschutzes von Zoos in der Regel keine Individuen gefährdeter Arten mehr aus der Natur entnommen.
 
 1975 gab es ein Übereinkommen über den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen: Convention on International Trade in Endangered Species of Wild Fauna and Flora, kurz CITES, auch Washingtoner Artenschutzabkommen genannt. Es beendete letztlich den Fang von gefährdeten Tieren in ihren Lebensräumen für Zoos weitgehend. Für Tiere, die von der Weltnaturschutzunion (International Union for Conservation of Nature, IUCN), einer internationalen Nichtregierungsorganisation, als gefährdet eingeschätzt werden, ist der kommerzielle Handel mit Wildfängen verboten. Der Handel mit Nachzuchten und nicht-kommerzieller Handel sind aber möglich, sofern keine Gefährdung für den Fortbestand der Art besteht und nationale Gesetze eingehalten werden. Unter die besonders geschützten Arten fallen bereits viele der bei den Zoobesucher\*innen beliebtesten Schautiere.[^27] Weitere unterliegen strengen Regelungen. Hinzu kommen veterinärmedizinische Regelungen zur Vermeidung von Seuchen und Krankheiten. Für Zoos bietet sich bei den Säugetieren kaum noch ein Anreiz, in ihren Lebensräumen gefangene Wildtiere zu erwerben. Einzig Aquarien beziehen nach wie vor – mit Ausnahme vieler Reptilien – Entnahmen aus den Meeren.
 

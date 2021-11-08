@@ -13,9 +13,7 @@ Relational databases, the very databases that are often used to record and manag
 
 They are interconnected in many different and sometimes surprising ways, emerging from the authors’ situatedness (in a discipline, institution, subject position) and interests.
 
-_Routes_ are curated sets of articles, selected to raise new questions beyond the scope initially envisioned by the authors. Routes extend the invitation to read the selected articles together, through a particular lens. They can be used as reading packages for classes.
-
-All technical components are open source. We worked collaboratively on [Dendron](https://www.dendron.so/), synchronised via [git](https://git-scm.com/), and published directly from git through a self-hosted version of the content management system [Netlify](https://www.netlify.com/). [Arthur and Son La will provide one more sentence on the technical components.]
+[replace this paragraph with longer text from 2nd batch of translations]: All technical components are open source. We worked collaboratively on [Dendron](https://www.dendron.so/), synchronised via [git](https://git-scm.com/), and published directly from git through a self-hosted version of the content management system [Netlify](https://www.netlify.com/). [Arthur and Son La will provide one more sentence on the technical components.]
 
 **Contact**: humanities(at)mfn.berlin
 
@@ -23,7 +21,7 @@ All technical components are open source. We worked collaboratively on [Dendron]
 
 The research project [Animals as Objects. Zoological Gardens and Natural History Museum Berlin, 1810 to 2020](https://www.museumfuernaturkunde.berlin/en/science/animals-objects) was funded by the German Federal Ministry of Education and Research (BMBF). The joint project of the Museum für Naturkunde Berlin, the Humboldt-University of Berlin and the Zoologischer Garten Berlin AG ran from 01 September 2018 until 31 December 2021.
 
-[link to other publications]
+[insert link to other publications of the project, if ready by launch]
 
 ## About the people
 
@@ -115,7 +113,7 @@ We would like to thank all who supported our work on this publication.
 
 At Museum für Naturkunde Berlin:
 
-- Technical and administrative support: Inna Reise, Falko Glöckler, Markus Wegner, Holger Schick, Mareike Petersen, Stefanie Paß, Sonja Kreft
+- Technical and administrative support: Inna Reise, Falko Glöckler, Markus Wegner, Holger Schick, Mareike Petersen, Stefanie Paß, Sonja Kreft, Caitlin Thorn
 - Research support in the archive: Yvonne Reimers, Sandra Miehlbradt
 - Research support in the collections: David Lazarus, Johan Renaudie, Christine NN, NN, NN
 

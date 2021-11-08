@@ -11,7 +11,7 @@ updated: 1629737133159
 id: 1a9793b7-746f-4a58-bfa2-54596b72b4bc
 translators:
   translator_de_en: Lucy Gasser
-desc: EN Photograph of Oskar Heinroth with three Ural owls
+desc: Photograph of Oskar Heinroth with three Ural owls
 desc_de: Foto von Oskar Heinroth mit drei Uralkäuzen
 short_desc: Photograph of Oskar Heinroth with three Ural owls
 cover_image:

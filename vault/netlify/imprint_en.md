@@ -1,5 +1,5 @@
 ---
-title: Impressum
+title: Imprint
 ---
 ## Project
 
@@ -7,7 +7,7 @@ The website "Animals as Objects?" was created as part of the BMBF-funded joint r
 
 Contact: humanities(at)mfn.berlin
 
-## Impressum
+## Imprint
 
 Museum für Naturkunde Leibniz-Institut für Evolutions- und Biodiversitätsforschung
 
