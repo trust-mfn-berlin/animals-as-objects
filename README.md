@@ -66,7 +66,8 @@ Add Instructions here
 ### Merging from **content-creation** into **master**
 
 1. Pull content-creation 
-2. Resolve conflicts. This may need to be done manually. Dont forget to check inside of YAML frontmatter
-3. Fix image paths `\` -> `/` , `)[images` -> `)[/images` to be consistent forward slashes & leading forward slash
-4. Generate colours for articles that dont have them / lost them in merge. `npm run colours`
-5. Optimise images. Any new images should be downsized with a script `npm run images`
+2. Begin merge
+3. Resolve merge conflicts. This may need to be done manually. Dont forget to check inside of YAML frontmatter
+4. Fix image paths `\` -> `/` , `)[images` -> `)[/images` to be consistent forward slashes & leading forward slash. Best done with a find and replace.
+5. Generate colours for articles that dont have them / lost them in merge. `npm run colours`
+6. Optimise images. Any new images should be downsized with a script `npm run images`
