@@ -11,12 +11,10 @@ desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 short_desc: Material traces of the relationship between museum and zoo
 short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 cover_image:
-  image: /images/Etiketten-Pohle-S004-02-05-96-020-v.jpg
-  alt: "A yellowed, punched paper card with stains and preprinted text at the top:
-    Zoologischer Garten Berlin – B5 Barbarossa 9014 / To. Handwritten: Natural
-    History Museum / Invaliden-Str. Vergilbte, gelochte Papierkarte mit Flecken.
-    Vordruck oben: Zoologischer Garten Berlin – B5 Barbarossa 9014 / An.
-    Handschriftlich: Naturkunde Museum / Invaliden-Str."
+  image: /images/Arbeitsszene-Etiketten-Pohle-2.jpg
+  alt: "Archive work: piles of yellowed labels and documents beside a file and a
+    pen. Stapel zahlreicher, vergilbter Etiketten und Zettel neben Mappe und
+    Stift."
 tao_type: material
 date_start: 1920-01-01T10:48:28.702Z
 date_end: 1935-01-01T10:48:28.706Z
