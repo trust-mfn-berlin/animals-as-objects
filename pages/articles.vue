@@ -56,7 +56,7 @@ export default {
     }
   },
   async asyncData({ $content }) {
-    const results = await $content().sortBy('title').fetch();
+    const results = await $content().sortBy('title').without(['body','body_de']).fetch();
     var articlesAlphabetical = {};
     var articlesType = {
       theme: [],
