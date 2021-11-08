@@ -20,6 +20,7 @@ date_start: 1967-12-31T23:00:00.000Z
 date_end: 2021-08-26T23:55:43.591Z
 published: false
 desc_de: Wissensorganisation dank loser Zettel
+colour_scheme: 14
 ---
 
 :::EN:::

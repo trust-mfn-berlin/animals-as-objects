@@ -31,6 +31,7 @@ desc_de: Die Inventarbücher der Zoologischen Lehrsammlung der Berliner
   geprägt wurden. Die detektivische Suche nach einem präparierten Dornhai-Embryo
   ergibt, dass das Präparat in der Lehrsammlung zu verschiedenen Zeiten unter
   den Nummern 1888, 1208 und 2488 verzeichnet worden war.
+colour_scheme: 10
 ---
 
 :::EN:::

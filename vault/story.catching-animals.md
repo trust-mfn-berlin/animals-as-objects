@@ -25,6 +25,7 @@ tao_type: story
 date_start: 1844-12-31T23:06:32.000Z
 date_end: 1973-12-31T11:00:00.000Z
 published: false
+colour_scheme: 2
 ---
  
 :::EN:::

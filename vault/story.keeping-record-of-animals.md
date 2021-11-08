@@ -27,6 +27,7 @@ tao_type: story
 date_start: '1914-01-13T00:00:00.000Z'
 date_end: '2021-10-25T08:44:25.273Z'
 published: false
+colour_scheme: 13
 ---
 
 :::EN:::
