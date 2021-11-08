@@ -1,0 +1,42 @@
+version: 1
+vaults:
+    -
+        fsPath: vault
+useFMTitle: true
+useNoteTitleForLink: true
+noAutoCreateOnDefinition: true
+noLegacyNoteRef: true
+noXVaultWikiLink: true
+lookupConfirmVaultOnCreate: false
+mermaid: true
+useKatex: true
+autoFoldFrontmatter: true
+dev:
+    previewV2Enabled: false
+lookup:
+    note:
+        selectionType: selectionExtract
+journal:
+    dailyDomain: daily
+    name: journal
+    dateFormat: y.MM.dd
+    addBehavior: childOfDomain
+    firstDayOfWeek: 1
+scratch:
+    name: scratch
+    dateFormat: y.MM.dd.HHmmss
+    addBehavior: asOwnDomain
+site:
+    copyAssets: true
+    siteHierarchies:
+        - root
+    siteRootDir: docs
+    usePrettyRefs: true
+    title: Animals as Objects
+    description: Animals as Objects knowledge base and authoring tool.
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - vault
+initializeRemoteVaults: false
+dendronVersion: 0.56.0

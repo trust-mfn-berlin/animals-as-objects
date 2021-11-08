@@ -5,7 +5,7 @@ desc: >-
   Joining in the postwar exploration of the oceans, micropaleontology
   accumulated vast amounts of data, which contributed to the development of
   climate and planetary sciences.
-updated: 1629748954372
+updated: 1632991746446
 created: 1621522440708
 license: CC BY-SA
 title_de: Mikropaläontologie auf See
@@ -58,11 +58,9 @@ These novel insights were built on ocean sediments and particularly on the micro
 
 [^4]: Pettersson, Hans. "The Swedish Deep-Sea Expedition". _Nature_ 162 (1948): 324–325. https://scholarspace.manoa.hawaii.edu/bitstream/10125/9061/1/vol2n4-231-238.pdf (01.07.2021).
 
-[^5]: Today, Scripps is still one of the most renowned centers for oceanography. See "Scripps
-History". _UC San Diego_, no date, https://scripps.ucsd.edu/about/history (01.07.2021).
+[^5]: Today, Scripps is still one of the most renowned centers for oceanography. See "Scripps History". _UC San Diego_, no date, https://scripps.ucsd.edu/about/history (01.07.2021).
 
-[^6]: For more on Cesare Emiliani, see Hoffman, Paul F. "The Tooth of Time:
-Cesare Emiliani". _Geoscience Canada_ 39, no. 1 (2012): 13-16. https://journals.lib.unb.ca/index.php/GC/article/view/19452/21009 (01.07.2021); Hay, William W., and Eloise Zakevich. "Cesare Emiliani (1922-1995): the founder of paleoceanography". _International Microbiology_ 2 (1999): 52-54. http://www.soes.soton.ac.uk/staff/tt/eh/ce.html (01.07.2021).
+[^6]: For more on Cesare Emiliani, see Hoffman, Paul F. "The Tooth of Time: Cesare Emiliani". _Geoscience Canada_ 39, no. 1 (2012): 13-16. https://journals.lib.unb.ca/index.php/GC/article/view/19452/21009 (01.07.2021); Hay, William W., and Eloise Zakevich. "Cesare Emiliani (1922-1995): the founder of paleoceanography". _International Microbiology_ 2 (1999): 52-54. http://www.soes.soton.ac.uk/staff/tt/eh/ce.html (01.07.2021).
 
 [^7]: For more about the development of paleoceanography in connection to the history of data, see Rosol, Christof. "Hauling data: Anthropocene analogues, paleoceanography and missing paradigm shifts". _Historical Social Research_, 40, no. 2 (2015): 37-66. https://doi.org/10.12759/hsr.40.2015.2.37-66.
 
