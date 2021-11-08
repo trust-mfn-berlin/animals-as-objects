@@ -26,7 +26,7 @@ colour_scheme: 4
 :::DE:::
 
 
-![Kleiner Junge sitzt lächelnd auf einer Bank mit einem Löwenjungen auf dem Schoß](images\Dieter-Herfurth-1939-mit-Loewenbaby.jpg)  
+![Kleiner Junge sitzt lächelnd auf einer Bank mit einem Löwenjungen auf dem Schoß](/images/Dieter-Herfurth-1939-mit-Loewenbaby.jpg)  
 _Kleiner Junge mit Löwenbaby im Jahr 1939 auf der Bank des Berliner Zoofotografen. (AZGB)_
 
 
@@ -48,7 +48,7 @@ Wie lange diese Faszination anhielt, darauf verweist die Wiederaufnahme der Löw
 
 _So sah der Stand des Zoofotografen im Westberliner Zoo in den 1970er-Jahren aus, wo man sich mit Löwenbabys fotografieren lassen konnte, Wegweiser durch den Zoologischen Garten Berlin, 1973._
 
-![Eine Seite des Zooführers von 1971, wo der Text auf den Stand des Zoofotografen hinweist und ein Foto mit einem Kleinkind mit Löwenbaby auf dem Schoß abgebildet ist](images\mv\LoewenbabyWegweiser1971AusschnittJPG.jpg)
+![Eine Seite des Zooführers von 1971, wo der Text auf den Stand des Zoofotografen hinweist und ein Foto mit einem Kleinkind mit Löwenbaby auf dem Schoß abgebildet ist](/images/mv/LoewenbabyWegweiser1971AusschnittJPG.jpg)
 * oder nur das Bild ausschneiden??
 <!-- den Text zum Zoo-Fotografen ruhig drin lassen. Mir fällt auf, dass es "die" und nicht "unsere" Tiere heißt, ein Hinweis darauf, dass es keine Zootiere waren -->
 
@@ -65,14 +65,14 @@ Die Herrschaftsgeste über das erlegte Raubtier, bei der sich der charismatische
 
 Sowohl die Medienbilder, auf denen Zoodirektoren mit (vermeintlich) zahmen Raubtieren ~~kuscheln~~posieren, als auch ~~Zoofotografen~~Zoofotograf\*innen, die den Besucher\*innen selbst Gelegenheit zum Anfassen der Tiere boten – beides ~~trug sicherlich~~kann zum Bild des Raubtierjungen als Heimtier oder gar Kuscheltier beigetragen haben, ungefährlich in der Handhabe und unaufwendig in der Pflege. Löwenjunge sind zwar zukünftige Raubtiere, in erster Linie aber sind sie Tierkinder, die man streicheln, füttern, auf den Arm nehmen kann. Dieser Überzeugung schien jedenfalls das Berliner Kaufhaus Wertheim, als es 1969 auf die Idee kam, in seiner Zooabteilung Löwenbabys anzubieten. Für 1600 bis 1880 Mark wurden die Warenhauslöwen auf Bestellung geliefert, mit Pflegeanleitung.[^9] 
 
-![xxx](images\Loewe-mit-Gebrauchsanweisung-1-schlechte-qualitaet.jpg)
+![xxx](/images/Loewe-mit-Gebrauchsanweisung-1-schlechte-qualitaet.jpg)
 
-![yyy](images\Loewe-mit-Gebrauchsanweisung-2-schlechte-qualitaet-ausschnitt.jpg)
+![yyy](/images/Loewe-mit-Gebrauchsanweisung-2-schlechte-qualitaet-ausschnitt.jpg)
 
 Nach nur einer Woche wurde der Verkauf indes wieder eingestellt, nachdem offenbar der Berliner Zoo davor gewarnt hatte, dass „ein possierliches Löwen-Baby“ bereits innerhalb von drei Monaten zu einer kräftigen Raubkatze heranwachse.[^10] Wenn es sich bei dieser Geschichte auch in erster Linie um ein Kuriosum handelt, verweist sie doch auf einen Trend, der heute wieder boomt - der (häufig illegale) Verkauf von Raubtierjungen für das eigene Heim; und es bleibt die Frage, welchen Einfluss die lange Bildtradition auf die Vorstellung vom Raubtier als Kuscheltier oder 'Tier-Spielzeug' hatte. <!-- hast du für diesen boom beweise? -->
 
 
-![ccc](images\AZGB-S-13-6.jpg)
+![ccc](/images/AZGB-S-13-6.jpg)
 _Eine Zeichnung in der_ Berliner Illustrirten Zeitung _von (JAHR??) bringt die Rolle der Löwenbabys unter dem Titel "lebendes Tier-Spielzeug" auf den Punkt._
 
 <!-- was sagt den der Artikel -->
@@ -110,7 +110,7 @@ _1992 findet sich im Zooführer noch eine Werbeanzeige für Erinnerungsfotos mit
 
 Inzwischen ist jedoch auch er aus dem Zoo verschwunden. (??) Was bleibt, ist eine Sammlung alter Bilder - sie bleiben  ambivalent, schwer greifbar in der Faszination und dem Unbehagen, das sie auslösen. 
 
-![aa](images\Loewenbabyfoto-mit-Opa-1962-S-3-103.jpg)
+![aa](/images/Loewenbabyfoto-mit-Opa-1962-S-3-103.jpg)
 
 _Familienfoto mit Löwenbaby. Großvater und Enkelin blicken 1962 direkt in die Kamera. (AZGB)_
 

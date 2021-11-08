@@ -22,7 +22,7 @@ EN content
 
 # Tierkinder aus aller Welt
 
-![Gepardenjunges und junge Hausschweine und Schafe](images\cmw\Tierkindergarten_1930er.jpg)
+![Gepardenjunges und junge Hausschweine und Schafe](/images/cmw/Tierkindergarten_1930er.jpg)
 _Bild aus dem Berliner 'Tierkinderzoo', um 1933. (AZGB)_
 
 
@@ -30,7 +30,7 @@ Ein Gepard umringt von jungen Ziegen, Lämmern und Ferkeln? Ein ungewöhnliches 
  
 Im Sommer 1931 organisierte der Zoo zum ersten Mal eine Sonderschau mit Jungtieren, die so erfolgreich war, dass sie mehrere lang Jahre wiederholt wurde. Das Besondere: Besetzt war die eingezäunte Anlage, für die man Eintritt bezahlen musste, nicht nur mit Jungtieren einheimischer Haustierrassen, sondern auch mit kleinen Raubtieren, die man alle füttern, streicheln, auf den Schoß nehmen und sogar mit der Flasche füttern konnte [[story.baby-lions]].  
 
-![xxx](images\TierkinderzooFunkwocheBerlin15Mai1933.jpg)
+![xxx](/images/TierkinderzooFunkwocheBerlin15Mai1933.jpg)
 _Fütterungsübung mit Bärenbaby. Funkwoche Berlin, 19.05.1933._
 
 Was heute mitunter als irritierend oder gar gefährlich und wenig artgerecht erscheint, war damals ein so großer Erfolg[^Tierkinderzoo1], dass es sogar bisweilen zu Engpässen bei der Lieferung junger Löwen, Tiger und Leoparden kam. Das lag unter anderem daran, dass schon bald weitere Zoos ihren Besucher\*innen ähnliche Attraktionen bieten wollten. „Großes Löwenstreicheln im Zoo“ kündigte die _Leipziger Tageszeitung_ am 8. November 1935 an [^Tierkinderzoo2]  und auch im Stellinger Tierpark gehörte "der Wunsch, einen jungen Löwen auf den Arm zu nehmen und streicheln zu können" zu "einem der begehrtesten unserer Tierpark-Besucher." [^Tierkinderzoo3] Der Bedarf an Jungtieren blieb aber auch deshalb hoch, da die Jungtiere im nächsten Sommer längst zu groß geworden waren und ersetzt werden mussten. Raubtierbabys waren auf dem Markt entsprechend begehrt und teuer[^Tierkinderzoo4]; man nahm daher, was man bekommen konnte: "Wie schon besprochen, könnten anstatt der jungen Raubtiere vorläufig exotische Bären genommen und diese evtl. später gegen junge Raubtiere ausgetauscht werden"[^Tierkinderzoo5], ließ der Zoodirektor den Tierhändler Ruhe wissen, der die Raubtierjungen für den Berliner Zoo anlieferte. 

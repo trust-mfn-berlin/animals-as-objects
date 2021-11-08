@@ -39,7 +39,7 @@ The items in a teaching collection fulfil one function above all: to impart know
 
 <figure>
 
-![Black and white photo: a classroom with 15 men, many of them with moustaches, and also at least one woman. In the foreground, there is one man on the left in a white lab coat and another on the right with a full white beard wearing a black jacket. At the front, there are objects on a table that are difficult to identify. Five posters of large images hang at the back.](images/guests/classroom-zoological-institute-unterricht-zoologisches-institut-berlin-franz-eilhard-schulze.png)
+![Black and white photo: a classroom with 15 men, many of them with moustaches, and also at least one woman. In the foreground, there is one man on the left in a white lab coat and another on the right with a full white beard wearing a black jacket. At the front, there are objects on a table that are difficult to identify. Five posters of large images hang at the back.](/images/guests/classroom-zoological-institute-unterricht-zoologisches-institut-berlin-franz-eilhard-schulze.png)
 
 <figcaption>
 
@@ -59,7 +59,7 @@ A total of eight inventories, each of which was assigned a Roman numeral, listed
 
 <figure>
 
-![Double page in an inventory book on yellowed paper with preprinted columns. There are handwritten entries on both pages in every second column. The pages have been struck through with large blue crosses and thus marked as invalid. At the far left, there is a small red cross or a dot beside each number.](images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-v-1-crossed-out-durchgestrichen.png)
+![Double page in an inventory book on yellowed paper with preprinted columns. There are handwritten entries on both pages in every second column. The pages have been struck through with large blue crosses and thus marked as invalid. At the far left, there is a small red cross or a dot beside each number.](/images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-v-1-crossed-out-durchgestrichen.png)
 
 <figcaption>
 
@@ -77,7 +77,7 @@ In addition to being catalogued in the inventory books, labels were attached to 
 
 <figure>
 
-![Small label in red writing: X J14/52m. Larger, very yellowed or dirty label with small preprinted text, "Zoolog. Institute": Carcinus maenas Kiemen F0 59m 3070.](images/guests/etiketten-labels-carcinus-maenas.jpg)
+![Small label in red writing: X J14/52m. Larger, very yellowed or dirty label with small preprinted text, "Zoolog. Institute": Carcinus maenas Kiemen F0 59m 3070.](/images/guests/etiketten-labels-carcinus-maenas.jpg)
 
 <figcaption>
 
@@ -95,7 +95,7 @@ During the Second World War, the collection was severely damaged. A bombing in t
 
 <figure>
 
-![Double page in an inventory book with preprinted columns. Only the number and names on the left-hand page have been densely filled in; the rest is empty.](images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-v-2-missing-sections-leerstellen.png)
+![Double page in an inventory book with preprinted columns. Only the number and names on the left-hand page have been densely filled in; the rest is empty.](/images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-v-2-missing-sections-leerstellen.png)
 
 <figcaption>
 
@@ -109,7 +109,7 @@ It was probably for this reason that employees stopped fully filling in the prep
 
 <figure>
 
-![Excerpt from inventory book: 2486 Spinax niger; 2488 Acanthias vulgaris, masc., mature embryo; 2489 Acanthias vulgaris, fem., mature embryo; 2490 Acanthias vulgaris, embryo; 2491 Acanthias vulgaris, skeleton; 2429a Squalus acanthias (Acanthias vulgaris) brain.](images/guests/new-inventory-acanthias-entry-number-2488.png)
+![Excerpt from inventory book: 2486 Spinax niger; 2488 Acanthias vulgaris, masc., mature embryo; 2489 Acanthias vulgaris, fem., mature embryo; 2490 Acanthias vulgaris, embryo; 2491 Acanthias vulgaris, skeleton; 2429a Squalus acanthias (Acanthias vulgaris) brain.](/images/guests/new-inventory-acanthias-entry-number-2488.png)
 
 <figcaption>
 
@@ -125,9 +125,9 @@ The fact that this is one and the same specimen is revealed in inventory book VI
 
 <div class="series">
 
-![Double page from inventory book with preprinted columns. Clustered entries on both pages that do not follow the specified column contents. A red square marks the area in the bottom left.](images/guests/new-inventory-acanthias-1.png)
+![Double page from inventory book with preprinted columns. Clustered entries on both pages that do not follow the specified column contents. A red square marks the area in the bottom left.](/images/guests/new-inventory-acanthias-1.png)
 
-![Red square around the smaller excerpt from the left-hand page: Pencil entry: Acanthias – Squalus. uyatus 1086-2487. 863 – vulg = Squ.ac. 1208-2488. vulg = Squ.ac. 1209-2489. vulg = Squ.ac.1664-2490. vulg = Squ.ac. 2630-2491. vulg = Squ.ac. 3483-2492.](images/guests/new-inventory-acanthias-2.png)
+![Red square around the smaller excerpt from the left-hand page: Pencil entry: Acanthias – Squalus. uyatus 1086-2487. 863 – vulg = Squ.ac. 1208-2488. vulg = Squ.ac. 1209-2489. vulg = Squ.ac.1664-2490. vulg = Squ.ac. 2630-2491. vulg = Squ.ac. 3483-2492.](/images/guests/new-inventory-acanthias-2.png)
 
 </div>
 
@@ -143,7 +143,7 @@ The grey shark embryo specimen has now been assigned number 863 and is ordered b
 
 <figure>
 
-![Narrow excerpt from an inventory book. Entries 1208-1209. On the left are red crosses. Everything has been struck out with long blue crosses.](images/guests/inventory-1208-squalus-acanthias-renaming.png)
+![Narrow excerpt from an inventory book. Entries 1208-1209. On the left are red crosses. Everything has been struck out with long blue crosses.](/images/guests/inventory-1208-squalus-acanthias-renaming.png)
 
 <figcaption>
 
@@ -159,7 +159,7 @@ Inventory book VII is testament to this development and was also shaped by furth
 
 <figure>
 
-![Double page from inventory book with preprinted columns. Apart from the first two rows, which contain different handwriting, only the left-hand page has been filled out. 1948-1949 is written at the very top.](images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-vii-classification-klassifizierung.png)
+![Double page from inventory book with preprinted columns. Apart from the first two rows, which contain different handwriting, only the left-hand page has been filled out. 1948-1949 is written at the very top.](/images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-vii-classification-klassifizierung.png)
 
 <figcaption>
 
@@ -175,7 +175,7 @@ Marks with crosses, circles, and dots beside entries in inventory book V probabl
 
 <figure>
 
-![Double page from inventory book with preprinted columns. Handwritten entries on both pages. The left-hand column is filled with dense writing. A few numbers are not followed by any entry at all. Some fields have been left empty or contain a horizontal line.](images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-v-1-position-stellplatz.png)
+![Double page from inventory book with preprinted columns. Handwritten entries on both pages. The left-hand column is filled with dense writing. A few numbers are not followed by any entry at all. Some fields have been left empty or contain a horizontal line.](/images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-v-1-position-stellplatz.png)
 
 <figcaption>
 
@@ -187,7 +187,7 @@ _This page from inventory book VII shows how entries 1185 to 1216 were transferr
 
 <figure>
 
-![Double page from inventory book with preprinted columns. Handwritten entries on both pages; the lower third has been struck out with large blue crosses. At the top, three further entries have been crossed out horizontally, so that only two valid entries remain.](images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-v-1-crossed-out-durchgestrichen.png)
+![Double page from inventory book with preprinted columns. Handwritten entries on both pages; the lower third has been struck out with large blue crosses. At the top, three further entries have been crossed out horizontally, so that only two valid entries remain.](/images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-v-1-crossed-out-durchgestrichen.png)
 
 <figcaption>
 
@@ -227,7 +227,7 @@ Die Objekte einer Lehrsammlung erfüllen vor allem eine Funktion: Sie sollen Wis
 
 <figure>
 
-![Schwarz-weiß Foto: Unterrichtsraum mit 15 Personen im Hintergrund, viele mit Schnurrbart. Im Vordergrund links ein Mann in weißem Kittel, rechts ein Mann mit weißem Vollbart in schwarzem Mantel. Vorne stehen schwer erkennbare Objekte auf einem Tisch. Hinten hängen fünf Poster mit großen Abbildungen.](images/guests/classroom-zoological-institute-unterricht-zoologisches-institut-berlin-franz-eilhard-schulze.png)
+![Schwarz-weiß Foto: Unterrichtsraum mit 15 Personen im Hintergrund, viele mit Schnurrbart. Im Vordergrund links ein Mann in weißem Kittel, rechts ein Mann mit weißem Vollbart in schwarzem Mantel. Vorne stehen schwer erkennbare Objekte auf einem Tisch. Hinten hängen fünf Poster mit großen Abbildungen.](/images/guests/classroom-zoological-institute-unterricht-zoologisches-institut-berlin-franz-eilhard-schulze.png)
 
 <figcaption>
 
@@ -247,7 +247,7 @@ In insgesamt acht Inventaren, denen jeweils eine römische Ziffer zugeordnet ist
 
 <figure>
 
-![Doppelseite aus Inventarbuch aus gelblichem Papier, mit vorgedruckten Spalten. Handschriftliche Eintragungen auf beiden Seiten in jeder zweiten Spalte. Die Seiten sind jeweils mit einem großen blauen Kreuz durchgestrichen und wurden somit als ungültig markiert. Ganz links ist ein kleines rotes Kreuz oder ein Punkt neben jeder Nummer.](images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-v-1-crossed-out-durchgestrichen.png)
+![Doppelseite aus Inventarbuch aus gelblichem Papier, mit vorgedruckten Spalten. Handschriftliche Eintragungen auf beiden Seiten in jeder zweiten Spalte. Die Seiten sind jeweils mit einem großen blauen Kreuz durchgestrichen und wurden somit als ungültig markiert. Ganz links ist ein kleines rotes Kreuz oder ein Punkt neben jeder Nummer.](/images/guests/inventory-zoological-teaching-collection-inventar-zoologische-lehrsammlung-berlin-v-1-crossed-out-durchgestrichen.png)
 
 <figcaption>
 
@@ -331,7 +331,7 @@ Das Präparat des Dornhai-Embryos fand sich nun unter der Nummer 863 und dem Gat
 
 <figure>
 
-![Schmaler Ausschnitt aus Inventarbuch. Einträge 1208-1209. Links stehen rote Kreuze. Alles wird durch lange blaue Diagonalen durchgestrichen.](images/guests/inventory-1208-squalus-acanthias-renaming.png)
+![Schmaler Ausschnitt aus Inventarbuch. Einträge 1208-1209. Links stehen rote Kreuze. Alles wird durch lange blaue Diagonalen durchgestrichen.](/images/guests/inventory-1208-squalus-acanthias-renaming.png)
 
 <figcaption>
 

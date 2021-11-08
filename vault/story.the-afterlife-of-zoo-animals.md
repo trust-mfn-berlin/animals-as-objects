@@ -72,7 +72,7 @@ One of the trails leads to the Zoological Museum Berlin, which was a part of the
 
 <div class="series">
 
-![Shelf with three boards on which several elephant skulls are stored](images/mv/elephant-skulls-mammal-collection-shelves.png)
+![Shelf with three boards on which several elephant skulls are stored](/images/mv/elephant-skulls-mammal-collection-shelves.png)
 
 ![Open wooden box of lengthy bones lies on a table. A chair stands next to the table; antlers hang in the background.](/images/mv/bones-mammal-collection.png)
 

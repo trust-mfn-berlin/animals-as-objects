@@ -36,7 +36,7 @@ published: false
 
 <figure>
  
-![A large deciduous tree with a round canopy stands on a corner between two multistorey buildings with light stone façades and tall windows. The tree is about two storeys high. Two cars are parked beside it.](images/guests/maulbeerbaum-mulberry-tree-silkworm-maulbeerspinner-history-berlin.JPG)
+![A large deciduous tree with a round canopy stands on a corner between two multistorey buildings with light stone façades and tall windows. The tree is about two storeys high. Two cars are parked beside it.](/images/guests/maulbeerbaum-mulberry-tree-silkworm-maulbeerspinner-history-berlin.JPG)
  
 <figcaption>
  
@@ -54,7 +54,7 @@ The curator of the Lepidoptera (butterfly and moth) collection, Viola Richter, p
 
 <figure>
  
-![A shallow display case with a wooden frame and a white background. Left-hand side: 66 moths in various shades of beige and brown. Right-hand side: numerous eggs, caterpillars, pupae, all fixed in place with fine needles. The case is being held by a person wearing a white lab coat.](images/guests/museum-of-natural-history-naturkundemuseum-berlin-maulbeerspinner-silkworm-display-schaukasten.JPG)
+![A shallow display case with a wooden frame and a white background. Left-hand side: 66 moths in various shades of beige and brown. Right-hand side: numerous eggs, caterpillars, pupae, all fixed in place with fine needles. The case is being held by a person wearing a white lab coat.](/images/guests/museum-of-natural-history-naturkundemuseum-berlin-maulbeerspinner-silkworm-display-schaukasten.JPG)
  
 <figcaption>
  
@@ -80,7 +80,7 @@ We have to take a range of different perspectives to trace the history of this a
 
 <figure>
  
-![Book page with eleven illustrations of insects at various developmental stages. At the top: an egg, a caterpillar, and a moth; in the centre: bee species, honeycomb, and larvae; bottom: a sheep on green grass.](images/guests/silkworm-honeybee-seidenraupe-honigbiene-neue-bilder-gallerie-oehmigcke.jpg)
+![Book page with eleven illustrations of insects at various developmental stages. At the top: an egg, a caterpillar, and a moth; in the centre: bee species, honeycomb, and larvae; bottom: a sheep on green grass.](/images/guests/silkworm-honeybee-seidenraupe-honigbiene-neue-bilder-gallerie-oehmigcke.jpg)
  
 <figcaption>
  
@@ -100,7 +100,7 @@ In the 18th century, the zoologist Carl Linnaeus coined the term metamorphosis t
 
 <figure>
  
-![Book cover with an illustration of twig curling in an oval shape on which red berries and chewed up green leaves are growing. Sitting on the leaves are caterpillars, flies, bugs, etc. The title is positioned in the middle in a serpentine font.](images/guests/silkworm-honeybee-seidenraupe-honigbiene-neue-bilder-gallerie-oehmigcke.jpg)
+![Book cover with an illustration of twig curling in an oval shape on which red berries and chewed up green leaves are growing. Sitting on the leaves are caterpillars, flies, bugs, etc. The title is positioned in the middle in a serpentine font.](/images/guests/silkworm-honeybee-seidenraupe-honigbiene-neue-bilder-gallerie-oehmigcke.jpg)
  
 <figcaption>
  
@@ -116,7 +116,7 @@ In 1854, after [[story.seiden-cultur]] had gone through its boom in 17th- and 18
  
 <figure>
  
-![Map with the outlines of Berlin with district borders, water, and green areas marked. Eight red dots are scattered throughout Berlin.](images/guests/old-mulberry-trees-alte-maulbeerbaeume-berlin-stadtgruen.jpg)
+![Map with the outlines of Berlin with district borders, water, and green areas marked. Eight red dots are scattered throughout Berlin.](/images/guests/old-mulberry-trees-alte-maulbeerbaeume-berlin-stadtgruen.jpg)
  
 <figcaption>
  
@@ -130,7 +130,7 @@ Perhaps the most spectacular of these trees is the old mulberry tree that still 
 
 <figure>
  
-![View from below of the thinning canopy of a large deciduous tree, whose crooked trunk is being held up by a metal pillar with a red-and-white safety marker anchored in the ground. Autumn foliage lies all around.](images/guests/old-mulberry-tree-alter-maulbeerbaum-charite-berlin.jpeg)
+![View from below of the thinning canopy of a large deciduous tree, whose crooked trunk is being held up by a metal pillar with a red-and-white safety marker anchored in the ground. Autumn foliage lies all around.](/images/guests/old-mulberry-tree-alter-maulbeerbaum-charite-berlin.jpeg)
  
 <figcaption>
  
@@ -144,7 +144,7 @@ It was planted and maintained in connection with a settlement of French Huguenot
 
 <figure>
  
-![Cemetery path with a blue chart on the left. On the right is a row of young deciduous trees beside a wall.](images/guests/mulberry-trees-maulbeerbaeume-berlin-friedhof-cemetary.JPG)
+![Cemetery path with a blue chart on the left. On the right is a row of young deciduous trees beside a wall.](/images/guests/mulberry-trees-maulbeerbaeume-berlin-friedhof-cemetary.JPG)
  
 <figcaption>
  
@@ -200,7 +200,7 @@ Completely unbeknownst to the city administration and the tree register, in cont
 
 <figure>
  
-![Großer Laubbaum mit runder Krone an einer Ecke zwischen zwei mehrstöckigen Gebäuden mit hellen Steinfassaden und hohen Fenstern. Der Baum ist etwa zwei Stockwerke hoch. Daneben parken Autos.](images/guests/maulbeerbaum-mulberry-tree-silkworm-maulbeerspinner-history-berlin.JPG)
+![Großer Laubbaum mit runder Krone an einer Ecke zwischen zwei mehrstöckigen Gebäuden mit hellen Steinfassaden und hohen Fenstern. Der Baum ist etwa zwei Stockwerke hoch. Daneben parken Autos.](/images/guests/maulbeerbaum-mulberry-tree-silkworm-maulbeerspinner-history-berlin.JPG)
  
  
 <figcaption>
@@ -219,7 +219,7 @@ Die Kuratorin der Sammlung Lepidoptera (Schmetterlinge), Viola Richter, weist mi
 
 <figure>
  
-![Flacher Schaukasten mit Holzrahmen und weißem Hintergrund. Linke Seite: 66 Motten in verschiedenen Beige- und Brauntönen. Rechte Seite: zahlreiche Eier, Raupen, Puppen. Fixierung durch feine Nadeln. Der Kasten wird von einer Person in weißem Kittel gehalten.](images/guests/museum-of-natural-history-naturkundemuseum-berlin-maulbeerspinner-silkworm-display-schaukasten.JPG)
+![Flacher Schaukasten mit Holzrahmen und weißem Hintergrund. Linke Seite: 66 Motten in verschiedenen Beige- und Brauntönen. Rechte Seite: zahlreiche Eier, Raupen, Puppen. Fixierung durch feine Nadeln. Der Kasten wird von einer Person in weißem Kittel gehalten.](/images/guests/museum-of-natural-history-naturkundemuseum-berlin-maulbeerspinner-silkworm-display-schaukasten.JPG)
  
 <figcaption>
  
@@ -245,7 +245,7 @@ Um die Geschichte des aus Brandenburg und Berlin verschwundenen Tiers nachzuzeic
 
 <figure>
  
-![Buchseite mit elf Illustrationen von Insekten in verschiedenen Entwicklungsstadien. Oben: Ei, Raupe und Motte; mittig: Bienenarten, Wabenformen und Larven; unten: Schaf auf grünem Gras.](images/guests/silkworm-honeybee-seidenraupe-honigbiene-neue-bilder-gallerie-oehmigcke.jpg)
+![Buchseite mit elf Illustrationen von Insekten in verschiedenen Entwicklungsstadien. Oben: Ei, Raupe und Motte; mittig: Bienenarten, Wabenformen und Larven; unten: Schaf auf grünem Gras.](/images/guests/silkworm-honeybee-seidenraupe-honigbiene-neue-bilder-gallerie-oehmigcke.jpg)
  
 <figcaption>
  
@@ -265,7 +265,7 @@ Der Zoologe Carl von Linné prägte im 18. Jahrhundert für die Gestaltwandlung 
 
 <figure>
  
-![Buchtitelseite mit Illustration eines oval geschwungenen Zweigs, an dem rote Beeren und zerfressene grüne Blätter wachsen. Auf den Blättern sitzen Raupen, Fliegen, Käfer u.ä. Titel steht mittig in verschlungener Schrift.](images/guests/silkworm-honeybee-seidenraupe-honigbiene-neue-bilder-gallerie-oehmigcke.jpg)
+![Buchtitelseite mit Illustration eines oval geschwungenen Zweigs, an dem rote Beeren und zerfressene grüne Blätter wachsen. Auf den Blättern sitzen Raupen, Fliegen, Käfer u.ä. Titel steht mittig in verschlungener Schrift.](/images/guests/silkworm-honeybee-seidenraupe-honigbiene-neue-bilder-gallerie-oehmigcke.jpg)
  
 <figcaption>
  
@@ -281,7 +281,7 @@ Nachdem im 17. und 18. Jahrhundert die [[story.seiden-cultur]] in Preußen einen
  
 <figure>
  
-![Karte mit Umriss von Berlin. Bezirksgrenzen, Wasser und Grünflächen sind markiert. Acht rote Punkte sind über ganz Berlin verteilt.](images/guests/old-mulberry-trees-alte-maulbeerbaeume-berlin-stadtgruen.jpg)
+![Karte mit Umriss von Berlin. Bezirksgrenzen, Wasser und Grünflächen sind markiert. Acht rote Punkte sind über ganz Berlin verteilt.](/images/guests/old-mulberry-trees-alte-maulbeerbaeume-berlin-stadtgruen.jpg)
  
 <figcaption>
  
@@ -295,7 +295,7 @@ Vielleicht am spektakulärsten ist jener alte Maulbeerbaum, der heute noch in ei
 
 <figure>
  
-![Blick von unten in die lichte Krone eines großen Laubbaums, dessen schiefer Stamm von einer im Boden verankerten Metallstütze mit rot-weißer Sicherheitsmarkierung gehalten wird. Herbstlaub liegt rundum.](images/guests/old-mulberry-tree-alter-maulbeerbaum-charite-berlin.jpeg)
+![Blick von unten in die lichte Krone eines großen Laubbaums, dessen schiefer Stamm von einer im Boden verankerten Metallstütze mit rot-weißer Sicherheitsmarkierung gehalten wird. Herbstlaub liegt rundum.](/images/guests/old-mulberry-tree-alter-maulbeerbaum-charite-berlin.jpeg)
  
 <figcaption>
  
@@ -309,7 +309,7 @@ Seine Pflanzung und Bewahrung stehen in Zusammenhang mit einer Siedlung für die
 
 <figure>
  
-![Friedhofsweg, an dem links eine blaue Schautafel steht. Rechts steht eine Reihe junger Laubbäume an einer Mauer.](images/guests/mulberry-trees-maulbeerbaeume-berlin-friedhof-cemetary.JPG)
+![Friedhofsweg, an dem links eine blaue Schautafel steht. Rechts steht eine Reihe junger Laubbäume an einer Mauer.](/images/guests/mulberry-trees-maulbeerbaeume-berlin-friedhof-cemetary.JPG)
  
 <figcaption>
  

@@ -25,7 +25,7 @@ date_start: '1890-12-31T23:06:32.000Z'
 
 <figure>
 
-![A slightly yellowed index card with typewritten and handwritten entries. See below for transcript.](images/common-seadragon-index-card-kleiner-fetzenfisch-karteikarte.jpg)
+![A slightly yellowed index card with typewritten and handwritten entries. See below for transcript.](/images/common-seadragon-index-card-kleiner-fetzenfisch-karteikarte.jpg)
 
 <figcaption>
 

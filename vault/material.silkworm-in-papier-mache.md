@@ -30,11 +30,11 @@ published: false
 
 <div class="series">
 
-![Two long components of a model in grey and beige lie on a light surface.](images/guests/silkworm-seidenraupe-maulbeerspinner-model-top-view-louis-auzoux.jpeg)
+![Two long components of a model in grey and beige lie on a light surface.](/images/guests/silkworm-seidenraupe-maulbeerspinner-model-top-view-louis-auzoux.jpeg)
 
-![The lower half of a large caterpillar model with the upper part (the lid) removed. Its insides are represented by thick threads that snake in and out of each other. The side of the model has been very finely painted with an eye-like pattern at regular intervals. Several downward-pointing metal hooks have been attached to the side of the model.](images/guests/silkworm-seidenraupe-maulbeerspinner-model-opened-top-view-louis-auzoux.jpeg)
+![The lower half of a large caterpillar model with the upper part (the lid) removed. Its insides are represented by thick threads that snake in and out of each other. The side of the model has been very finely painted with an eye-like pattern at regular intervals. Several downward-pointing metal hooks have been attached to the side of the model.](/images/guests/silkworm-seidenraupe-maulbeerspinner-model-opened-top-view-louis-auzoux.jpeg)
 
-![Head of the caterpillar model without its lid. There are three pairs of legs near its head. Two long bristles stick out on each leg. A folded-out metal hook is attached to the side of the model. It has a brown head with small mouth tools.](images/guests/silkworm-seidenraupe-maulbeerspinner-model-detail-louis-auzoux.jpeg)
+![Head of the caterpillar model without its lid. There are three pairs of legs near its head. Two long bristles stick out on each leg. A folded-out metal hook is attached to the side of the model. It has a brown head with small mouth tools.](/images/guests/silkworm-seidenraupe-maulbeerspinner-model-detail-louis-auzoux.jpeg)
 
 </div>
 
@@ -52,7 +52,7 @@ While the studio of Adolf Ziegler (1820-1889) and his son Friedrich (1860-1936) 
 
 <figure>
 
-![Side view of the silkworm model. Although its lid is closed, a crack remains open on the side, through which the modelled insides can be seen.](images/guests/silkworm-seidenraupe-maulbeerspinner-model-side-view-louis-auzoux.jpeg)
+![Side view of the silkworm model. Although its lid is closed, a crack remains open on the side, through which the modelled insides can be seen.](/images/guests/silkworm-seidenraupe-maulbeerspinner-model-side-view-louis-auzoux.jpeg)
 
 <figcaption>
 
@@ -81,9 +81,9 @@ The functional, collapsible anatomical model (which Auzoux also referred to as a
 
 ![Zwei längliche Modellteile in Grau- und Beige-Tönen liegen auf hellem Untergrund.](/images/guests/silkworm-seidenraupe-maulbeerspinner-model-top-view-louis-auzoux.jpeg)
 
-![Untere Hälfte eines großen Raupenmodells, bei dem die Oberseite (Deckel) abgenommen wurde. Das Innenleben ist durch verschlängelte, dicke Fäden dargestellt. Die Seite des Modells ist sehr fein bemalt mit augenähnlicher Musterung in regelmäßigen Abständen. Mehrere nach unten stehende Metallhaken sind an der Seite des Modells befestigt.](images/guests/silkworm-seidenraupe-maulbeerspinner-model-opened-top-view-louis-auzoux.jpeg)
+![Untere Hälfte eines großen Raupenmodells, bei dem die Oberseite (Deckel) abgenommen wurde. Das Innenleben ist durch verschlängelte, dicke Fäden dargestellt. Die Seite des Modells ist sehr fein bemalt mit augenähnlicher Musterung in regelmäßigen Abständen. Mehrere nach unten stehende Metallhaken sind an der Seite des Modells befestigt.](/images/guests/silkworm-seidenraupe-maulbeerspinner-model-opened-top-view-louis-auzoux.jpeg)
 
-![Kopf des Raupenmodells ohne Deckel. Drei Beinpaare in Kopfnähe. Jeweils zwei längliche Borsten stehen von den Beinen ab. Ein nach oben geklappter Metallhaken ist an der Seite des Modells befestigt. Kopf ist braun mit kleinen Mundwerkzeugen.](images/guests/silkworm-seidenraupe-maulbeerspinner-model-detail-louis-auzoux.jpeg)
+![Kopf des Raupenmodells ohne Deckel. Drei Beinpaare in Kopfnähe. Jeweils zwei längliche Borsten stehen von den Beinen ab. Ein nach oben geklappter Metallhaken ist an der Seite des Modells befestigt. Kopf ist braun mit kleinen Mundwerkzeugen.](/images/guests/silkworm-seidenraupe-maulbeerspinner-model-detail-louis-auzoux.jpeg)
 
 </div>
 
@@ -101,7 +101,7 @@ Während das Atelier von Adolf Ziegler (1820-1889) und seinem Sohn Friedrich (18
 
 <figure>
 
-![Seitliche Ansicht des Modells eines Maulbeerspinners. Trotz des geschlossenen Deckels bleibt seitlich ein Spalt offen, durch den das modellierte Innenleben erkennbar ist.](images/guests/silkworm-seidenraupe-maulbeerspinner-model-side-view-louis-auzoux.jpeg)
+![Seitliche Ansicht des Modells eines Maulbeerspinners. Trotz des geschlossenen Deckels bleibt seitlich ein Spalt offen, durch den das modellierte Innenleben erkennbar ist.](/images/guests/silkworm-seidenraupe-maulbeerspinner-model-side-view-louis-auzoux.jpeg)
 
 <figcaption>
 

@@ -55,7 +55,7 @@ This breeding process brought together significant industrial sectors in Prussia
 
 <figure>
  
-![Flat display case with wooden frame. Caterpillar threads, eggs, pupae, and fully developed moths are fixed in three rows, with small type- and handwritten labels.](images/guests/bekleidung-seide-maulbeerspinner-clothing-silk-silkworm-museum-naturkunde-natural-history-berlin.JPG)
+![Flat display case with wooden frame. Caterpillar threads, eggs, pupae, and fully developed moths are fixed in three rows, with small type- and handwritten labels.](/images/guests/bekleidung-seide-maulbeerspinner-clothing-silk-silkworm-museum-naturkunde-natural-history-berlin.JPG)
  
  
 <figcaption>
@@ -72,7 +72,7 @@ Another display case of unidentifiable date at the Museum of Natural History bea
 
 <figure>
  
-![Colourful illustrations of eggs, caterpillars, pupae, and eaten leaves on the page of an old book.](images/guests/silkworm-seidenraupe-development-entwicklung-bertuch-bilderbuch-1790.jpg)
+![Colourful illustrations of eggs, caterpillars, pupae, and eaten leaves on the page of an old book.](/images/guests/silkworm-seidenraupe-development-entwicklung-bertuch-bilderbuch-1790.jpg)
  
 <figcaption>
  
@@ -143,7 +143,7 @@ Mit diesem Züchtungsvorgang verbanden sich in Preußen, Südeuropa und China be
 
 <figure>
  
-![Flacher Schaukasten mit Holzrahmen. In drei Reihen sind Raupenfäden, Eier, Puppen und ausgewachsene Schmetterlinge befestigt, mit kleinen maschinen- und handgeschriebenen Beschriftungen.](images/guests/bekleidung-seide-maulbeerspinner-clothing-silk-silkworm-museum-naturkunde-natural-history-berlin.JPG)
+![Flacher Schaukasten mit Holzrahmen. In drei Reihen sind Raupenfäden, Eier, Puppen und ausgewachsene Schmetterlinge befestigt, mit kleinen maschinen- und handgeschriebenen Beschriftungen.](/images/guests/bekleidung-seide-maulbeerspinner-clothing-silk-silkworm-museum-naturkunde-natural-history-berlin.JPG)
  
 <figcaption>
  
@@ -159,7 +159,7 @@ Ein weiterer Schaukasten unklaren Herstellungsdatums im Museum für Naturkunde t
 
 <figure>
  
-![Bunte Illustrationen von Eiern, Raupen, Puppen und zerfressenen Blättern auf einer alten Buchseite.](images/guests/silkworm-seidenraupe-development-entwicklung-bertuch-bilderbuch-1790.jpg)
+![Bunte Illustrationen von Eiern, Raupen, Puppen und zerfressenen Blättern auf einer alten Buchseite.](/images/guests/silkworm-seidenraupe-development-entwicklung-bertuch-bilderbuch-1790.jpg)
  
 <figcaption>
  
