@@ -135,7 +135,10 @@ export default {
     },
     'content:file:beforeInsert': async (document, database) => {
 
+      
+
       if(document.dir == '/netlify'){return}
+      if(document.extension == '.yml') {return}
 
       if(languageSplitterBuffer){
         // console.log('combining languages...')
@@ -161,7 +164,7 @@ export default {
             
           }
         }
-      
+
       // SEPARATE FOOTNOTES INTO SEPARATE AST TREE
       const lastNodeEn = document.body.children[document.body.children.length - 1];
       const lastNodeDe = document.body.children[document.body.children.length - 1];
