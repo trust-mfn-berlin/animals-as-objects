@@ -17,6 +17,7 @@ tao_type: material
 date_start: 1929-12-31T23:00:00.000Z
 date_end: 2021-08-26T13:04:38.748Z
 published: false
+colour_scheme: 1
 ---
 
 :::EN:::

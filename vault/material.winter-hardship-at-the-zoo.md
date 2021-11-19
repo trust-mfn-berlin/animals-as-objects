@@ -19,6 +19,7 @@ tao_type: material
 date_start: 1948-10-25T09:34:00.000Z
 date_end: 1948-10-25T09:34:00.000Z
 published: false
+colour_scheme: 3
 ---
 
 :::EN:::

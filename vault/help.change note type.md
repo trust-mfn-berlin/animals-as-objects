@@ -4,6 +4,7 @@ title: Change Note Type
 desc: ''
 updated: 1620223812673
 created: 1620223670633
+colour_scheme: 1
 ---
 
 To convert to a different type, you will need to :

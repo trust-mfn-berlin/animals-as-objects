@@ -28,6 +28,7 @@ cover_image:
     https://commons.wikimedia.org/wiki/File:Salt_Creek_Oil_Field_well.jpg
 tao_type: story
 date_start: '1920-12-31T23:00:00.000Z'
+colour_scheme: 10
 ---
 
 :::EN:::

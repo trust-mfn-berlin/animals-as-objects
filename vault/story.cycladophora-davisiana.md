@@ -32,6 +32,7 @@ cover_image:
     https://www.radiolaria.org/image.htm?sp_id=1&division=13
 tao_type: story
 date_start: '1858-12-31T23:06:32.000Z'
+colour_scheme: 2
 ---
 :::EN:::
 

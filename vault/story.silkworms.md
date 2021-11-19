@@ -30,6 +30,7 @@ tao_type: story
 date_start: 1703-01-01T23:07:09.241Z
 date_end: 2021-08-26T14:37:08.305Z
 published: false
+colour_scheme: 3
 ---
 
 :::EN:::

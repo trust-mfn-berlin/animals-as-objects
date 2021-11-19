@@ -4,6 +4,7 @@ title: Get Started with Dendron and VSCode
 desc: ''
 updated: 1618497417252
 created: 1618326259859
+colour_scheme: 7
 ---
 
 Welcome to the Animals as Objects Dendron vault! We have a guide here to help you get started writing, linking and learning. 

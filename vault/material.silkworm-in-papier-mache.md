@@ -22,6 +22,7 @@ tao_type: material
 date_start: 1820-01-01T23:06:32.000Z
 date_end: 1900-12-31T11:00:00.000Z
 published: false
+colour_scheme: 9
 ---
 
 :::EN:::

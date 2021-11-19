@@ -32,6 +32,7 @@ cover_image:
     https://atlantic-cable.com/Maps/index.htm"
 tao_type: story
 date_start: 1858-12-31T23:06:32.000Z
+colour_scheme: 0
 ---
 
 :::EN:::

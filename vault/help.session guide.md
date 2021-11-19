@@ -4,6 +4,7 @@ title: Session Guide
 desc: ''
 updated: 1618497342590
 created: 1618495941372
+colour_scheme: 1
 ---
 
 Here is the process you should complete every time you start and finish a work session.

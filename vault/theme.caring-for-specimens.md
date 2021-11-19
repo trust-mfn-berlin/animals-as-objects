@@ -16,6 +16,7 @@ short_desc: EN  short desc
 cover_image: null
 tao_type: theme
 date_start: ''
+colour_scheme: 8
 ---
 
 :::EN:::

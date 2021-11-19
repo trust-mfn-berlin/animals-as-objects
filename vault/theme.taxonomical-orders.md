@@ -33,6 +33,7 @@ cover_image:
     https://commons.wikimedia.org/wiki/File:Systema_Naturae_Plate_II.jpg
 tao_type: theme
 date_start: '1752-12-31T23:06:32.000Z'
+colour_scheme: 12
 ---
 
 :::EN:::
