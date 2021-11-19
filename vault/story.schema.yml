@@ -1,0 +1,9 @@
+version: 1
+schemas:
+- id: theme
+  title: theme
+  namespace: true
+  parent: root
+  template:
+    id: templates.theme
+    type: note

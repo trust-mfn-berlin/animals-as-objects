@@ -34,7 +34,6 @@ cover_image:
   image: /images/cover-classifying-cycladophora-index-ehrenberg.png
 tao_type: story
 date_start: '1858-12-31T23:06:32.000Z'
-colour_scheme: 5
 ---
 
 :::EN:::

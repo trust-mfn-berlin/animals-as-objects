@@ -21,14 +21,13 @@ cover_image:
     Heinroth. All rights reserved."
 tao_type: material
 date_start: 1919-12-31T23:00:00.000Z
-colour_scheme: 9
 ---
 
 :::EN:::
 
 <figure>
 
-![Black and white photograph: A young woman with dark hair in a light blouse, looks down at three jackdaws that sit on her arms and face towards her.](/images/cmw/Magdalena_Heinroth_Dohlen_1919.jpg)
+![Black and white photograph: A young woman with dark hair in a light blouse, looks down at three jackdaws that sit on her arms and face towards her.](images/cmw/Magdalena_Heinroth_Dohlen_1919.jpg)
 
 <figcaption>
 
@@ -48,7 +47,7 @@ Magdalena Heinroth (née Wiebe, 1883-1932), together with her husband [[material
 
 <figure>
 
-![Schwarz-weiß Foto: Junge Frau mit dunklem Haar in heller Bluse, schaut nach unten auf drei auf ihren Armen sitzende Dohlen, die ihr zugewandt sind.](/images/cmw/Magdalena_Heinroth_Dohlen_1919.jpg)
+![Schwarz-weiß Foto: Junge Frau mit dunklem Haar in heller Bluse, schaut nach unten auf drei auf ihren Armen sitzende Dohlen, die ihr zugewandt sind.](images/cmw/Magdalena_Heinroth_Dohlen_1919.jpg)
 
 <figcaption>
 

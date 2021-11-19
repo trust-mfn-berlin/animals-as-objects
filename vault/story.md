@@ -4,6 +4,5 @@ title: Story
 desc: ''
 updated: 1632908714253
 created: 1632908714253
-colour_scheme: 5
 ---
 

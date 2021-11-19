@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Somsoplast – Plastic Animal Models
 title_de: Somsoplast – Tiermodelle aus Plastik
 created: 1629799783441
-updated: 1636363419551
+updated: 1629982467648
 id: EjCkhWUz4D4DXc9ANY8bc
 author: Britta Lange
 translators:
@@ -17,7 +17,6 @@ tao_type: material
 date_start: 1929-12-31T23:00:00.000Z
 date_end: 2021-08-26T13:04:38.748Z
 published: false
-colour_scheme: 4
 ---
 
 :::EN:::

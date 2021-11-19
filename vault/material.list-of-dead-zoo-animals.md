@@ -11,7 +11,6 @@ tao_type: material
 cover_image: null
 license: CC BY-SA
 published: false
-colour_scheme: 16
 ---
 
 :::EN:::
@@ -22,7 +21,7 @@ EN content goes here
 
 <figure>
 
-![Gelochtes schreibmaschinengeschriebenes Blatt mit zwei Spalten: tot; noch vorhanden. Auflistung der Tiere in jeweiliger Spalte, siehe Transkript unten.](/images/cmw/Liste_tote_Tiere_1943.jpg)
+![Gelochtes schreibmaschinengeschriebenes Blatt mit zwei Spalten: tot; noch vorhanden. Auflistung der Tiere in jeweiliger Spalte, siehe Transkript unten.](images/cmw/Liste_tote_Tiere_1943.jpg)
 
 <figcaption>
 

@@ -32,7 +32,6 @@ cover_image:
     Leeuwenhoek, 1677.
 tao_type: story
 date_start: '1765-12-31T23:06:32.000Z'
-colour_scheme: 7
 ---
 
 :::EN:::

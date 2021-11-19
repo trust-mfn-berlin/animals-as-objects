@@ -16,7 +16,6 @@ short_desc: EN  short desc
 cover_image: null
 tao_type: story
 date_start: ''
-colour_scheme: 17
 ---
 
 :::EN:::
@@ -27,15 +26,15 @@ EN content
 
 ## Leben und Reise des Gorilla "Bobby"
 
-![Zoodirektor Ludwig Heck mit einem Gorillajungen auf dem Arm](/images/cmw/Ludwig-Heck-Bobby.jpg)
+![Zoodirektor Ludwig Heck mit einem Gorillajungen auf dem Arm](images/cmw/Ludwig-Heck-Bobby.jpg)
 
-![Bild eines ausgewachsenen männlichen Gorilla](/images/cmw/Bobby-old.jpg)
+![Bild eines ausgewachsenen männlichen Gorilla](images/cmw/Bobby-old.jpg)
 
-![description](/images/cmw/bobby-young.jpg)
+![description](images\cmw\bobby-young.jpg)
 
-![description](/images/cmw/Liebetreu_Bobby.jpg)
+![description](images\cmw\Liebetreu_Bobby.jpg)
 
-![description](/images/cmw/Wegweiser_1935_Bobby.jpg)
+![description](images\cmw\Wegweiser_1935_Bobby.jpg)
 
 <!-- Bild des toten Gorilla -->
 

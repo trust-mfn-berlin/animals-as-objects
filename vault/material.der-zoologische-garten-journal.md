@@ -21,7 +21,6 @@ cover_image:
     Cover der Zeitschrift Der Zoologische Garten, das eine Harpyie zeigt, 1933.
 tao_type: material
 date_start: '1858-12-31T23:06:32.000Z'
-colour_scheme: 1
 ---
 
 :::EN:::
@@ -30,11 +29,11 @@ colour_scheme: 1
 
 <div class="series">
 
-![Cover page of Der Zoologische Garten with photograph of a harpy](/images/cmw/ZG_1933.jpg)
+![Cover page of Der Zoologische Garten with photograph of a harpy](images/cmw/ZG_1933.jpg)
 
-![Cover page of Der Zoologische Garten with photograph of a rhinoceros](/images/cmw/ZG_1961.jpg)
+![Cover page of Der Zoologische Garten with photograph of a rhinoceros](images/cmw/ZG_1961.jpg)
 
-![Cover page of Der Zoologische Garten with photograph of a possum](/images/cmw/ZG_2015.jpg)
+![Cover page of Der Zoologische Garten with photograph of a possum](images/cmw/ZG_2015.jpg)
 
 </div>
 
@@ -62,11 +61,11 @@ Contributions for the most part cover topics such as the breeding of animals in 
 
 <div class="series">
 
-![Titelseite von Der Zoologische Garten mit Foto einer Harpyie](/images/cmw/ZG_1933.jpg)
+![Titelseite von Der Zoologische Garten mit Foto einer Harpyie](images/cmw/ZG_1933.jpg)
 
-![Titelseite von Der Zoologische Garten mit Foto von Nashorn](/images/cmw/ZG_1961.jpg)
+![Titelseite von Der Zoologische Garten mit Foto von Nashorn](images/cmw/ZG_1961.jpg)
 
-![Titelseite von Der Zoologische Garten mit Foto von Gleitbeutler](/images/cmw/ZG_2015.jpg)
+![Titelseite von Der Zoologische Garten mit Foto von Gleitbeutler](images/cmw/ZG_2015.jpg)
 
 </div>
 

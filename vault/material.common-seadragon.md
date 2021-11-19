@@ -2,7 +2,7 @@
 id: 4TOAlxsuxdlxsQcZI2vRT
 title: Common Seadragon
 desc: 28.8.5.7-4 in a collection of codes
-updated: 1636363309966
+updated: 1630021659854
 created: 1629793516079
 license: CC BY-SA
 title_de: Kleiner Fetzenfisch
@@ -21,12 +21,11 @@ cover_image:
     Source: Zoological Teaching Collection Berlin. All rights reserved.
 tao_type: material
 date_start: '1890-12-31T23:06:32.000Z'
-colour_scheme: 3
 ---
 
 <figure>
 
-![A slightly yellowed index card with typewritten and handwritten entries. See below for transcript.](/images/common-seadragon-index-card-kleiner-fetzenfisch-karteikarte.jpg)
+![A slightly yellowed index card with typewritten and handwritten entries. See below for transcript.](images/common-seadragon-index-card-kleiner-fetzenfisch-karteikarte.jpg)
 
 <figcaption>
 
@@ -63,7 +62,7 @@ The number "28.8.5.7-4" for the specimen of a common seadragon (_Phyllopteryx ta
 
 <figure>
 
-![Leicht vergilbte Karteikarte mit maschinen- und handschriftlichen Eintragungen. Für Transkript, siehe unten.](/images/common-seadragon-index-card-kleiner-fetzenfisch-karteikarte.jpg)
+![Leicht vergilbte Karteikarte mit maschinen- und handschriftlichen Eintragungen. Für Transkript, siehe unten.](images/common-seadragon-index-card-kleiner-fetzenfisch-karteikarte.jpg)
 
 <figcaption>
 

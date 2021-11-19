@@ -7,7 +7,7 @@ short_desc_de: Wie und warum stellen Zoos Tiere aus?
 date_end: 2021-08-27T23:01:33.091Z
 published: false
 title: Putting Animals on Display
-updated: 1636363925572
+updated: 1634730444688
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 translators:
   translator_de_en: Lydia J. White
@@ -31,7 +31,6 @@ cover_image:
     the Berlin zoo. Source: AZGB. All rights reserved."
 tao_type: theme
 date_start: 1843-12-31T23:06:32.000Z
-colour_scheme: 9
 ---
 
 :::EN:::
@@ -81,7 +80,7 @@ Although they had limited funds, the first zoo directors in Berlin attempted to 
 
 <figure>
 
-![A large, magnificently designed hall with numerous chairs and tables decked in white. The hall reveals various styles, including ornamental ceiling and wall decorations, but also classicist elements such as fluted columns, round windows, and figural patterns. Beneath a giant painting at the end of the hall is a stage with a small balustrade.](/images/cmw/Kaisersaal.jpg)
+![A large, magnificently designed hall with numerous chairs and tables decked in white. The hall reveals various styles, including ornamental ceiling and wall decorations, but also classicist elements such as fluted columns, round windows, and figural patterns. Beneath a giant painting at the end of the hall is a stage with a small balustrade.](images/cmw/Kaisersaal.jpg)
 
 <figcaption>
 
@@ -93,7 +92,7 @@ _The Emperor's Hall at the zoo restaurant around 1910. (AZGB. All rights reserve
 
 <figure>
 
-![Yellow card with black fantasy dragon-like creature being held on reins by a small figure in a white spotted skirt. Text: Opera Ball at the Zoo: To Better the Pension Fund of the German Opera. Monday, 26 January 1914. Tickets for 10 M. Midnight revue, cabaret, tombola, etc. (…)](/images/cmw/Opernball_1914.jpg)
+![Yellow card with black fantasy dragon-like creature being held on reins by a small figure in a white spotted skirt. Text: Opera Ball at the Zoo: To Better the Pension Fund of the German Opera. Monday, 26 January 1914. Tickets for 10 M. Midnight revue, cabaret, tombola, etc. (…)](images/cmw/Opernball_1914.jpg)
 
 <figcaption>
 
@@ -107,7 +106,7 @@ _Announcement for Opera Ball at the zoo restaurant, 1914. (AZGB. All rights rese
 
 <figure>
 
-![Newspaper. Title: Cheap Sundays at the zoo. Small illustration, top right: a photographer shoots a family with three lion cubs on their laps. Large illustration, bottom: smiling masses in front of a railing.](/images/cmw/Billiger_Sonntag_1929.jpg)
+![Newspaper. Title: Cheap Sundays at the zoo. Small illustration, top right: a photographer shoots a family with three lion cubs on their laps. Large illustration, bottom: smiling masses in front of a railing.](images/cmw/Billiger_Sonntag_1929.jpg)
 
 <figcaption>
 
@@ -121,7 +120,7 @@ Also serving the purpose of entertainment was the exoticising zoo architecture, 
 
 <figure>
 
-![Black and white photo: building with Arabic / neo-Moorish repertoire of forms, including gemel windows, geometric decoration, horseshoe arches, and slender columns and towers In front of it, two giraffes stand behind a fence.](/images/cmw/Antilopenhaus_um_1920.jpg)
+![Black and white photo: building with Arabic / neo-Moorish repertoire of forms, including gemel windows, geometric decoration, horseshoe arches, and slender columns and towers In front of it, two giraffes stand behind a fence.](images/cmw/Antilopenhaus_um_1920.jpg)
 
 <figcaption>
 
@@ -133,7 +132,7 @@ _The antelope house at Berlin Zoo around 1920. (AZGB. All rights reserved.)_
 
 <figure>
 
-![Colourful drawing: an elephant seems to rip the drawing off a postcard and roll it up with its trunk, leaving the bottom right-hand corner empty. Behind the elephant on the left is a colourful, Orientalist-looking structure; to the right behind the water and trees is a palace-like building with towers. A bearded zookeeper stands at the bottom left wearing a green uniform.](/images/cmw/PK_Elefantenpagode_1912_S_7_3.jpg)
+![Colourful drawing: an elephant seems to rip the drawing off a postcard and roll it up with its trunk, leaving the bottom right-hand corner empty. Behind the elephant on the left is a colourful, Orientalist-looking structure; to the right behind the water and trees is a palace-like building with towers. A bearded zookeeper stands at the bottom left wearing a green uniform.](images/cmw/PK_Elefantenpagode_1912_S_7_3.jpg)
 
 _Postcard of the Elephant Pagoda at Berlin Zoological Gardens, 1912. (AZGB)_
 
@@ -149,7 +148,7 @@ In the nineteenth century, zoos' exoticising architecture was often accompanied 
 
 <figure>
 
-![A high, narrow building with skylights, large arched windows, and decorative columns. The wall on the left is covered in rows of bird cages. There is a hexagonal booth at the right of the image with a large sign that says, "Keep right!" A lone woman stands before the wall of cages with her hand on a railing that also serves as a barrier.](/images/cmw/Vogelhaus_innen.jpg)
+![A high, narrow building with skylights, large arched windows, and decorative columns. The wall on the left is covered in rows of bird cages. There is a hexagonal booth at the right of the image with a large sign that says, "Keep right!" A lone woman stands before the wall of cages with her hand on a railing that also serves as a barrier.](images/cmw/Vogelhaus_innen.jpg)
 
 <figcaption>
 
@@ -171,7 +170,7 @@ In the early decades of most of the zoos founded in the second half of the 18th 
 
 <figure>
 
-![An elongated skull in beige tones with grey and black stains. The incisors are right at the front of the snout, the rest of the teeth are further back in the jaw. There is black writing on the upper jaw: 4832 Equus quagga L. weiblich quagga South Africa Z.S. On the lower jaw: 4832.](/images/cmw/Quagga_MfN.jpg)
+![An elongated skull in beige tones with grey and black stains. The incisors are right at the front of the snout, the rest of the teeth are further back in the jaw. There is black writing on the upper jaw: 4832 Equus quagga L. weiblich quagga South Africa Z.S. On the lower jaw: 4832.](images/cmw/Quagga_MfN.jpg)
 
 <figcaption>
 
@@ -195,7 +194,7 @@ As previously mentioned, the Bronx Zoo was founded in 1899 to breed endangered A
 
 <figure>
 
-![Bison vor einer Transportkiste in einem Wald. Auf der Kiste und neben einem Gatter stehen Männer in Arbeitsuniformen.](/images/cmw/Wisent-Schorfheide.jpg)
+![Bison vor einer Transportkiste in einem Wald. Auf der Kiste und neben einem Gatter stehen Männer in Arbeitsuniformen.](images/cmw/Wisent-Schorfheide.jpg)
 
 <figcaption>
 
@@ -209,7 +208,7 @@ While for Hediger breeding to preserve a species was just one of four reasons fo
 
 <figure>
 
-![Book cover. The upper third is an illustration of two wildcats, one standing, one lying down. At the bottom right there is a round logo: the face of a panda with a bamboo branch surrounded by a yellow ring, which has "150 Years of Berlin Zoo" written on it.](/images/cmw/Arche_Buch.jpg)
+![Book cover. The upper third is an illustration of two wildcats, one standing, one lying down. At the bottom right there is a round logo: the face of a panda with a bamboo branch surrounded by a yellow ring, which has "150 Years of Berlin Zoo" written on it.](images/cmw/Arche_Buch.jpg)
 
 <figcaption>
 
@@ -349,7 +348,7 @@ In Berlin bemühten sich die ersten Zoodirektoren trotz knapper Mittel intensiv,
 
 <figure>
 
-![Großer, prächtig gestalteter Saal mit vielen kleinen weiß gedeckten Tischen und Stühlen. Verschiedene Stilrichtungen, inkl. schnörkeliger Decken- und Wanddekoration, aber auch klassizistischen Elementen wie kannelierten Säulen, runden Fenstern und figürlichem Dekor. Unter riesigem Gemälde am Ende des Saals ist eine Bühne mit kleinem Geländer.](/images/cmw/Kaisersaal.jpg)
+![Großer, prächtig gestalteter Saal mit vielen kleinen weiß gedeckten Tischen und Stühlen. Verschiedene Stilrichtungen, inkl. schnörkeliger Decken- und Wanddekoration, aber auch klassizistischen Elementen wie kannelierten Säulen, runden Fenstern und figürlichem Dekor. Unter riesigem Gemälde am Ende des Saals ist eine Bühne mit kleinem Geländer.](images/cmw/Kaisersaal.jpg)
 
 <figcaption>
 
@@ -361,7 +360,7 @@ _Der Kaisersaal der Zoo-Restauration um 1910. (AZGB. Alle Rechte vorbehalten.)_
 
 <figure>
 
-![Gelbe Karte mit schwarzer Fantasie-Drachen-Kreatur, die von kleiner Figur in weiß gepunktetem Rock an Zügeln gehalten wird. Text: Opernball im Zoo. Zum Besten der Pensionskasse des Deutschen Opernhauses. Montag d. 26. Januar 1914. Eintrittskarten zu 10 M. Mitternachts-Revue Cabaret Tombola usw. (…)](/images/cmw/Opernball_1914.jpg)
+![Gelbe Karte mit schwarzer Fantasie-Drachen-Kreatur, die von kleiner Figur in weiß gepunktetem Rock an Zügeln gehalten wird. Text: Opernball im Zoo. Zum Besten der Pensionskasse des Deutschen Opernhauses. Montag d. 26. Januar 1914. Eintrittskarten zu 10 M. Mitternachts-Revue Cabaret Tombola usw. (…)](images/cmw/Opernball_1914.jpg)
 
 <figcaption>
 
@@ -375,7 +374,7 @@ _Ankündigung des Opern-Balls in der Zoo-Restauration, 1914. (AZGB. Alle Rechte 
 
 <figure>
 
-![Zeitungsblatt. Titel: Billiger Sonntag im Zoo. Rechts oben kleine Illustration: Fotograf macht Aufnahme einer Familie mit drei Löwenjungen auf dem Schoß. Große Illustration unten: Lachende Menschenmasse vor einem Geländer.](/images/cmw/Billiger_Sonntag_1929.jpg)
+![Zeitungsblatt. Titel: Billiger Sonntag im Zoo. Rechts oben kleine Illustration: Fotograf macht Aufnahme einer Familie mit drei Löwenjungen auf dem Schoß. Große Illustration unten: Lachende Menschenmasse vor einem Geländer.](images/cmw/Billiger_Sonntag_1929.jpg)
 
 <figcaption>
 
@@ -389,7 +388,7 @@ Zum Zweck der Unterhaltung diente auch eine exotisierende Zooarchitektur, die si
 
 <figure>
 
-![Schwarz-Weiß-Foto: Gebäude mit arabischem bzw. neomaurischem Formenrepertoire, inklusive Zwillingsfenstern, geometrischem Dekor, Hufeisenbögen und schlanken Säulen und Türmen. Davor stehen zwei Giraffen hinter einem Zaun.](/images/cmw/Antilopenhaus_um_1920.jpg)
+![Schwarz-Weiß-Foto: Gebäude mit arabischem bzw. neomaurischem Formenrepertoire, inklusive Zwillingsfenstern, geometrischem Dekor, Hufeisenbögen und schlanken Säulen und Türmen. Davor stehen zwei Giraffen hinter einem Zaun.](images/cmw/Antilopenhaus_um_1920.jpg)
 
 
 <figcaption>
@@ -402,7 +401,7 @@ _Das Antilopenhaus im Berliner Zoo um 1920. (AZGB. Alle Rechte vorbehalten.)_
 
 <figure>
 
-![Bunte Zeichnung: Elefant scheint mit seinem Rüssel die Zeichnung auf der Postkarte abzureißen und zusammenzurollen. Die untere rechte Ecke ist also leer. Hinter dem Elefanten steht links ein bunter, orientalistisch anmutender Bau, rechts hinter Wasser und Bäumen steht schloss-ähnliches Gebäude mit Türmen. Unten links steht ein bärtiger Zoowärter in grüner Uniform.](/images/cmw/PK_Elefantenpagode_1912_S_7_3.jpg)
+![Bunte Zeichnung: Elefant scheint mit seinem Rüssel die Zeichnung auf der Postkarte abzureißen und zusammenzurollen. Die untere rechte Ecke ist also leer. Hinter dem Elefanten steht links ein bunter, orientalistisch anmutender Bau, rechts hinter Wasser und Bäumen steht schloss-ähnliches Gebäude mit Türmen. Unten links steht ein bärtiger Zoowärter in grüner Uniform.](images/cmw/PK_Elefantenpagode_1912_S_7_3.jpg)
 
 _Postkarte des Zoologischen Gartens Berlin mit der sogenannten Elefantenpagode, 1912. (AZGB)_
 
@@ -420,7 +419,7 @@ Mit der erwähnten exotisierenden Architektur wurden im 19. Jahrhundert oft sehr
 
 <figure>
 
-![Schmales, hohes Gebäude mit Deckenlichtern und großen Fensterbögen und dekorativen Säulen. Linke Wand vollständig mit reihenweisen Vogelkäfigen bebaut. Sechseckiges Häuschen rechts im Bild mit großem Schild "Rechts gehen!" Eine einzelne Person steht vor der Käfigwand, mit einer Hand auf der Stange, die als Absperrung dient.](/images/cmw/Vogelhaus_innen.jpg)
+![Schmales, hohes Gebäude mit Deckenlichtern und großen Fensterbögen und dekorativen Säulen. Linke Wand vollständig mit reihenweisen Vogelkäfigen bebaut. Sechseckiges Häuschen rechts im Bild mit großem Schild "Rechts gehen!" Eine einzelne Person steht vor der Käfigwand, mit einer Hand auf der Stange, die als Absperrung dient.](images/cmw/Vogelhaus_innen.jpg)
 
 <figcaption>
 
@@ -442,7 +441,7 @@ In den Anfangsjahrzehnten der meisten in der zweiten Hälfte des 18. Jahrhundert
 
 <figure>
 
-![Länglicher Schädel in Beigetönen mit grauen und schwarzen Verfärbungen. Schneidezähne sehr weit vorne in Schnauze, restliche Zähne weiter hinten in den Backen. Schwarze Schrift auf dem Oberkiefer: 4832 Equus quagga L. weiblich quagga Süd-Afrika Z.S. Auf dem Unterkiefer: 4832.](/images/cmw/Quagga_MfN.jpg)
+![Länglicher Schädel in Beigetönen mit grauen und schwarzen Verfärbungen. Schneidezähne sehr weit vorne in Schnauze, restliche Zähne weiter hinten in den Backen. Schwarze Schrift auf dem Oberkiefer: 4832 Equus quagga L. weiblich quagga Süd-Afrika Z.S. Auf dem Unterkiefer: 4832.](images/cmw/Quagga_MfN.jpg)
 
 <figcaption>
 
@@ -466,7 +465,7 @@ Der Bronx Zoo wurde 1899 wie erwähnt gegründet, um gefährdete amerikanische T
 
 <figure>
 
-![Bison vor einer Transportkiste in einem Wald. Auf der Kiste und neben einem Gatter stehen Männer in Arbeitsuniformen.](/images/cmw/Wisent-Schorfheide.jpg)
+![Bison vor einer Transportkiste in einem Wald. Auf der Kiste und neben einem Gatter stehen Männer in Arbeitsuniformen.](images/cmw/Wisent-Schorfheide.jpg)
 
 <figcaption>
 
@@ -480,7 +479,7 @@ War laut Hediger die Zucht für den Arterhalt einer von vier Zoozwecken, rückte
 
 <figure>
 
-![Buchcover. Oberes Drittel Illustration von zwei Wildkatzen, eine stehend, eine liegend. Unten rechts rundes Logo: Pandagesicht mit Bambuszweig, rundum gelber Ring, in dem steht "150 Jahre Zoo Berlin".](/images/cmw/Arche_Buch.jpg)
+![Buchcover. Oberes Drittel Illustration von zwei Wildkatzen, eine stehend, eine liegend. Unten rechts rundes Logo: Pandagesicht mit Bambuszweig, rundum gelber Ring, in dem steht "150 Jahre Zoo Berlin".](images/cmw/Arche_Buch.jpg)
 
 <figcaption>
 

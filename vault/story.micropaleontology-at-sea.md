@@ -28,7 +28,6 @@ cover_image:
     https://commons.wikimedia.org/wiki/File:GlomarChallengerBW.JPG
 tao_type: story
 date_start: '1949-12-31T23:00:00.000Z'
-colour_scheme: 6
 ---
 
 :::EN:::

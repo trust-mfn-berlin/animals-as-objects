@@ -2,7 +2,7 @@
 id: fa206cd6-fda4-46ec-83e7-206cb1306e78
 title: Baby Lions
 desc: Put a description of this note here...
-updated: 1637317751050
+updated: 1637154416612
 created: 1622624578996
 license: CC BY-SA
 title_de: Löwenbabys
@@ -16,7 +16,6 @@ short_desc: EN short desc
 cover_image: null
 tao_type: story
 date_start: ''
-colour_scheme: 4
 ---
 
 
@@ -26,7 +25,7 @@ colour_scheme: 4
 :::DE:::
 
 
-![Kleiner Junge sitzt lächelnd auf einer Bank mit einem Löwenjungen auf dem Schoß](/images/Dieter-Herfurth-1939-mit-Loewenbaby.jpg)  
+![Kleiner Junge sitzt lächelnd auf einer Bank mit einem Löwenjungen auf dem Schoß](images\Dieter-Herfurth-1939-mit-Loewenbaby.jpg)  
 _Kleiner Junge mit Löwenbaby im Jahr 1939 auf der Bank des Berliner Zoofotografen. (AZGB)_
 
 
@@ -46,11 +45,11 @@ Aber ging es hier überhaupt um das Tier? War es Requisite im Familienporträt, 
 
 Wie lange diese Faszination anhielt, darauf verweist die Wiederaufnahme der Löwenbabyfotografie in vielen Zoos der Nachkriegszeit, darunter Frankfurt, Leipzig und Berlin, wo  man sich fortan sogar in zwei Zoos mit kleinen Löwen auf dem Arm fotografieren lassen konnte, im West-Berliner Zoo[^6] und im 1955 eröffneten Ostberliner Tierpark in Friedrichsfelde. <!-- hattest Du je was dazu gefunden, ob die Tiere damals dem Zoo gehörten? Sonst wäre ein Hinweis auf die wieder aufgenommene Zucht im Wiederaufbau toll. Oder aber wir verweisen auf den wieder begonnenen Handel mit wilden Tieren. Wahrscheinlich ist letzteres das entscheidende. -->
 
-![Stand des Zoofotografen mit Bank, auf der zwei junge Besucher\*innen mit einem Löwenbaby fotografiert werden. Zwei weitere Löwenjungen liegen auf dem eingezäunten Gelände, vor dem Zaun stehen weitere Zuschauer](/images/mv/LoewenbabyWegweiser1973AusschnittSettingJPG.jpg)
+![Stand des Zoofotografen mit Bank, auf der zwei junge Besucher\*innen mit einem Löwenbaby fotografiert werden. Zwei weitere Löwenjungen liegen auf dem eingezäunten Gelände, vor dem Zaun stehen weitere Zuschauer](images\mv\LoewenbabyWegweiser1973AusschnittSettingJPG.jpg)
 
 _So sah der Stand des Zoofotografen im Westberliner Zoo in den 1970er-Jahren aus, wo man sich mit Löwenbabys fotografieren lassen konnte, Wegweiser durch den Zoologischen Garten Berlin, 1973._
 
-![Eine Seite des Zooführers von 1971, wo der Text auf den Stand des Zoofotografen hinweist und ein Foto mit einem Kleinkind mit Löwenbaby auf dem Schoß abgebildet ist](/images/mv/LoewenbabyWegweiser1971AusschnittJPG.jpg)
+![Eine Seite des Zooführers von 1971, wo der Text auf den Stand des Zoofotografen hinweist und ein Foto mit einem Kleinkind mit Löwenbaby auf dem Schoß abgebildet ist](images\mv\LoewenbabyWegweiser1971AusschnittJPG.jpg)
 * oder nur das Bild ausschneiden??
 <!-- den Text zum Zoo-Fotografen ruhig drin lassen. Mir fällt auf, dass es "die" und nicht "unsere" Tiere heißt, ein Hinweis darauf, dass es keine Zootiere waren -->
 
@@ -67,14 +66,14 @@ Die Herrschaftsgeste über das erlegte Raubtier, bei der sich der charismatische
 
 Sowohl die Medienbilder, auf denen Zoodirektoren mit (vermeintlich) zahmen Raubtieren ~~kuscheln~~posieren, als auch ~~Zoofotografen~~Zoofotograf\*innen, die den Besucher\*innen selbst Gelegenheit zum Anfassen der Tiere boten – beides ~~trug sicherlich~~kann zum Bild des Raubtierjungen als Heimtier oder gar Kuscheltier beigetragen haben, ungefährlich in der Handhabe und unaufwendig in der Pflege. Löwenjunge sind zwar zukünftige Raubtiere, in erster Linie aber sind sie Tierkinder, die man streicheln, füttern, auf den Arm nehmen kann. Dieser Überzeugung schien jedenfalls das Berliner Kaufhaus Wertheim, als es 1969 auf die Idee kam, in seiner Zooabteilung Löwenbabys anzubieten. Für 1600 bis 1880 Mark wurden die Warenhauslöwen auf Bestellung geliefert, mit Pflegeanleitung.[^9] 
 
-![xxx](/images/Loewe-mit-Gebrauchsanweisung-1-schlechte-qualitaet.jpg)
+![xxx](images\Loewe-mit-Gebrauchsanweisung-1-schlechte-qualitaet.jpg)
 
-![yyy](/images/Loewe-mit-Gebrauchsanweisung-2-schlechte-qualitaet-ausschnitt.jpg)
+![yyy](images\Loewe-mit-Gebrauchsanweisung-2-schlechte-qualitaet-ausschnitt.jpg)
 
 Nach nur einer Woche wurde der Verkauf indes wieder eingestellt, nachdem offenbar der Berliner Zoo davor gewarnt hatte, dass „ein possierliches Löwen-Baby“ bereits innerhalb von drei Monaten zu einer kräftigen Raubkatze heranwachse.[^10] Wenn es sich bei dieser Geschichte auch in erster Linie um ein Kuriosum handelt, verweist sie doch auf einen Trend, der heute wieder boomt - der (häufig illegale) Verkauf von Raubtierjungen für das eigene Heim; und es bleibt die Frage, welchen Einfluss die lange Bildtradition auf die Vorstellung vom Raubtier als Kuscheltier oder 'Tier-Spielzeug' hatte. <!-- hast du für diesen boom beweise? -->
 
 
-![ccc](/images/AZGB-S-13-6.jpg)
+![ccc](images\AZGB-S-13-6.jpg)
 _Eine Zeichnung in der_ Berliner Illustrirten Zeitung _von (JAHR??) bringt die Rolle der Löwenbabys unter dem Titel "lebendes Tier-Spielzeug" auf den Punkt._
 
 <!-- was sagt den der Artikel -->
@@ -102,17 +101,17 @@ Die Zoodirektion gab die Kritik an den Fotografen weiter und kommunizierte zugle
 Hinzu kam, dass die professionellen Fotos vielen allmählich zu teuer waren und man nun lieber selbst zur Kamera griff. Seit Anfang der 1980er-Jahre schon waren zudem in den meisten Zoos die Gebühren und Erlaubnisscheine entfallen. Während 1981 im Berliner Zoo ein Tages-Fotoerlaubnisscheine noch 0,50 DM kostete, war im Jahr darauf das eigenhändige Fotografieren „erlaubt und erwünscht“, wie es im Zooführer heißt.[^23] Im Tierpark Berlin gab Direktor Heinrich Dathe in den Wegweisern seit den 1960er-Jahren Hinweise auf schöne Motive und die richtige Tageszeit. Damit, und mehr noch seit dem Aufkommen der Digitalfotografie, gab der Zoo sein Bildermonopol auf. Um den Preis, die Bildverbreitung nicht mehr steuernd in der Hand zu haben, gewann der Zoo doch eine neue mediale Präsenz, bei der sich die Bilder immer weiter und schneller verbreiteten, während sich zugleich die Motive diversifizierten. 
 Die Löwenbabyfotografien sind schon in den 1990er-Jahren verschwunden, im Berliner Zoo wurden die Löwenbabys ab 1994 nicht mehr im Zooführer erwähnt. Nachdem der Fotografenstand in der Werbeanzeige 1990/91 zunächst noch auf ein Farbfoto umgestellt und die sitzende Frau durch einen Mann mit einem Löwenjungen auf dem Arm ersetzt hatte, hieß es ab 1994 nur noch: „Fotografieren und fotografiert werden… Ihr Zoo-Fotograf ist für Sie da.“[^23] 
 
-![Werbeanzeige des Zoofotografen im Berliner "Zooführer" von 1973. Auf der schwarz-weiß Fotografie ist der Stand mit Bank abgebildet und links das Foto einer sitzenden Frau in das Bild montiert, die einem Löwenbaby die Flasche gibt](/images/mv/LoewenbabyWegweiser1973Ausschnitt.jpg)
+![Werbeanzeige des Zoofotografen im Berliner "Zooführer" von 1973. Auf der schwarz-weiß Fotografie ist der Stand mit Bank abgebildet und links das Foto einer sitzenden Frau in das Bild montiert, die einem Löwenbaby die Flasche gibt](images\mv\LoewenbabyWegweiser1973Ausschnitt.jpg)
 
 _Auf den Stand des Zoofotografen wies der "Zooführer" in den 1970er Jahren mit  Löwenbabyfotografien hin._
 
-![Werbeanzeige des Zoofotografien im Berliner "Zooführer" von 1992. Auf drei Farbfotografien sind oben links der Stand mit Band abgebildet, unten links ein Löwenbaby in einem Reifen hineinmontiert und rechts ein stehender Mann, der einen jungen Löwen auf dem Arm trägt.](/images/mv/LoewenbabyWegweiser1992AusschnittJPG.jpg)
+![Werbeanzeige des Zoofotografien im Berliner "Zooführer" von 1992. Auf drei Farbfotografien sind oben links der Stand mit Band abgebildet, unten links ein Löwenbaby in einem Reifen hineinmontiert und rechts ein stehender Mann, der einen jungen Löwen auf dem Arm trägt.](images\mv\LoewenbabyWegweiser1992AusschnittJPG.jpg)
 
 _1992 findet sich im Zooführer noch eine Werbeanzeige für Erinnerungsfotos mit Löwenbaby, diesmal eine Farbfotografie, bevor die Löwenbabys ab 1994 nicht mehr auftauchen._
 
 Inzwischen ist jedoch auch er aus dem Zoo verschwunden. (??) Was bleibt, ist eine Sammlung alter Bilder - sie bleiben  ambivalent, schwer greifbar in der Faszination und dem Unbehagen, das sie auslösen. 
 
-![aa](/images/Loewenbabyfoto-mit-Opa-1962-S-3-103.jpg)
+![aa](images\Loewenbabyfoto-mit-Opa-1962-S-3-103.jpg)
 
 _Familienfoto mit Löwenbaby. Großvater und Enkelin blicken 1962 direkt in die Kamera. (AZGB)_
 

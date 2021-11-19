@@ -16,7 +16,6 @@ short_desc: EN  short desc
 cover_image: null
 tao_type: story
 date_start: ''
-colour_scheme: 9
 ---
 
 

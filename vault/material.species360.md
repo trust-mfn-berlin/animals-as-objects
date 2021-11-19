@@ -2,7 +2,7 @@
 id: 690683a5-6845-4c80-bb3b-5771881bdca6
 title: Species360
 desc: Software for coordinating zoo animal keeping
-updated: 1636363430373
+updated: 1629736526922
 created: 1620987484846
 license: CC BY-SA
 title_de: Species360
@@ -22,14 +22,13 @@ cover_image:
     der Null, darunter Claim: Global information serving conservation.
 tao_type: material
 date_start: '1973-12-31T23:00:00.000Z'
-colour_scheme: 0
 ---
 
 :::EN:::
 
 <figure>
 
-![Species360 logo with stylized globe in the zero. Text below: Global information serving conservation.](/images/cover-species-360-logo.jpg)
+![Species360 logo with stylized globe in the zero. Text below: Global information serving conservation.](images/cover-species-360-logo.jpg)
 
 <figcaption>
 
@@ -53,7 +52,7 @@ The web-based Zoological Information Management System (ZIMS) has existed since 
 
 <figure>
 
-![Species360 Logo mit stilisiertem Globus in der Null, darunter Claim: Global information serving conservation.](/images/cover-species-360-logo.jpg)
+![Species360 Logo mit stilisiertem Globus in der Null, darunter Claim: Global information serving conservation.](images/cover-species-360-logo.jpg)
 
 <figcaption>
 

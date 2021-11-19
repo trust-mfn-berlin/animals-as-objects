@@ -30,7 +30,6 @@ cover_image:
   alt: ''
 tao_type: story
 date_start: '1949-12-31T23:00:00.000Z'
-colour_scheme: 14
 ---
 
 :::EN:::

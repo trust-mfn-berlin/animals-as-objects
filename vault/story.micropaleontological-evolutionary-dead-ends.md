@@ -25,7 +25,6 @@ cover_image:
     Illustration von Bathybius haeckelii. Source: Ernst Haeckel, 1870."
 tao_type: story
 date_start: 1849-12-31T23:06:32.000Z
-colour_scheme: 0
 ---
 
 :::EN:::
@@ -57,7 +56,7 @@ Haeckel was charged with reporting on the radiolarians and Henry Bowman Brady[^9
 [^4]: There are many resources to learn more on Darwin, Wallace, and evolutionary thought: "Natural Selection: Charles Darwin & Alfred Russel Wallace". _Understanding Evolution,  University of California Museum of Paleontology_, 22.08.2008, https://evolution.berkeley.edu/evolibrary/article/0_0_0/history_14 (01.07.2021); Norman, J. "Darwin & Wallace Issue the First Printed Exposition of the Theory of Evolution by Natural Selection". _History of information_, 25.11.2014, https://www.historyofinformation.com/detail.php?id=1655 (01.07.2021); "Darwin Correspondence Project". _University of Cambridge_, 2020,
 https://www.darwinproject.ac.uk (01.07.2021); Stober, Alexandra. "Evolutionsforschung: Charles Darwin - Revolutionär und Gentleman". _Planet Wissen_, 02.06.2020, https://www.planet-wissen.de/natur/forschung/evolutionsforschung/pwiecharlesdarwinrevolutionaerundgentleman100.html (01.07.2021). For a more in-depth history, see Costa, James T. _Wallace, Darwin, and the Origin of Species_. Cambridge (MA) and London: Harvard University Press, 2014. http://www.jstor.org/stable/j.ctt6wprf8 (22.06.2021).
 
-[^5]: Lorem ipsum dolor sit amet See [[story.chaotic-origins-of-micropaleontology]] for more on these early works.
+[^5]: See [[story.chaotic-origins-of-micropaleontology]] for more on these early works.
 
 [^6]: For a short biography of Carpenter and his relevance to micropaleontology, see "William Benjamin Carpenter, 1813-1885". _Cushman Foundation for Foraminiferal Research_, no date, https://cushmanfoundation.allenpress.com/Resources/ResearcherGallery/carpenter (01.07.2021).
 

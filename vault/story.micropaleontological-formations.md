@@ -30,7 +30,6 @@ cover_image:
     https://commons.wikimedia.org/wiki/File:Faunal_sucession.jpg
 tao_type: story
 date_start: '1853-12-31T23:06:32.000Z'
-colour_scheme: 17
 ---
 
 :::EN:::

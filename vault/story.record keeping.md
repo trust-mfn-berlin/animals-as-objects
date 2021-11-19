@@ -15,7 +15,6 @@ short_desc: EN short desc
 cover_image: null
 tao_type: story
 date_start: ""
-colour_scheme: 14
 ---
 
 
@@ -36,14 +35,14 @@ Die aufgelisteten Tiere bot der Zoo dem Museum als Geschenk, Tausch- oder Kaufob
 
 Zwar wurden manchmal die Tierkörper erst zur Inspektion ins Museum geschickt, über die meisten Tiere wurde aber qua Liste entschieden. Wenn der Zoo mit dem Preisangebot des Museums einverstanden war– was häufig der Fall war –, brachte ein Wagen die Tierkadaver einzeln oder zu mehreren ins Museum, wo sie inventarisiert wurden. Lichtenstein übertrug die mitgelieferten Informationen über jedes Tier in Eingangsverzeichnissen ein und teilte jedem Gegenstand einen Taxwert zu, über den er dem Kultusministerium regelmäßig Bericht erstatten musste. Und im Zoo wurde der Erlös der verkauften Tiere zu den Aktiva der Zoo Aktiengesellschaft gezählt und seinem Kapitalvermögen angerechnet. Lehnte der Zoo einen Preisvorschlag des Museums hingegen ab, musste die Liste erneut hin und hergeschickt werden, bis man sich für oder gegen eine Übernahme entschied. Manche der heute im Archiv überlieferten Listen tragen sichtbare Spuren der Preisverhandlungen (Abb. Xxx). 
 
-![Handschriftliche Liste mit den Tieren, die 1914 bis 1915 vom Zoo-Aquariums an das Zoologische Museum geliefert wurden](/images/mv/VerzeichnisAquarium.jpg)
+![Handschriftliche Liste mit den Tieren, die 1914 bis 1915 vom Zoo-Aquariums an das Zoologische Museum geliefert wurden](images\mv\VerzeichnisAquarium.jpg)
 
 _Verzeichnis der vom Zoo-Aquarium an das Zoologische Museum gelieferten Tiere von 1914/1915 (MfN, HBSB S III, Zoolog. Garten)._
 
 Die durchgestrichenen und überschriebenen Zahlen zeigen, wie die Liste als Arbeitswerkzeug funktioniert und wie in ihrer Zirkulation die Dinge mit Bedeutung und Wert versehen werden//und wie sich in ihrer Zirkulation Bedeutungen und Werte formieren. 
 In den Jahresabrechnungen sind dagegen Tiernamen und Werte akkurater eingetragen (Abb. Xxx). Sie listen den Zeitpunkt (Monat) der Ablieferung, die Namen der Tiere und ihren Wert auf und in manchen Fällen ist bereits eine Signatur (??) eingetragen. Damit ist das Zootier zum Sammlungsobjekt geworden. Allerdings wurden scheinbar, so zeigt die Preisspalte, nicht alle Tiere verwendet. Ob sich der Vermerk “unbr[auchbar]” allerdings auf den schlechten Konservierungszustand der Tiere bezog oder auf den Umstand, dass das Museum das entsprechende Exemplar nicht benötigt[^PreiseAushandeln3], ist heute nicht mehr zu rekonstruieren. Was sich hier aber zeigt, ist die Tatsache, dass es Verhandlungen und eine Prüfung der Objekte gab.
 
-![Handgeschriebene Rechnung des Zoologischen Gartens an das Zoologische Museum, 1892](/images/mv/RechnungMfNZoo.jpg)
+![Handgeschriebene Rechnung des Zoologischen Gartens an das Zoologische Museum, 1892](images\mv\RechnungMfNZoo.jpg)
 
 _Die Jahresabrechnungen enthalten die Preise oder den Vermerk „unbr[auchbar]“ (MfN, HBSB, Zool. Mus. S III, Zoolog. Garten, I, Bl. 47.)._
 
@@ -67,9 +66,9 @@ Informationen/Daten/Wissen waren in der Tat eine wichtige Währung in der Bezieh
 
 Für das Museum waren Daten/Informationen über die ihm angebotenen Tiere ebenfalls wichtig, wenn auch auf andere Weise als für den Zoo. Die Sammlungen im Museum für Naturkunde brauchten so detaillierte Informationen/Daten wie möglich über jedes Tier. Insbesondere Informationen zum Fundort waren für den wissenschaftlichen Wert eines Exemplars unentbehrlich. Viele Naturkundemuseen verfassten daher bereits im 19. Jahrhundert eigene Anleitungen für Sammler im Feld, die detaillierte Instruktionen enthielten, wie Etiketten zu beschriften und xxxListen auszufüllen seien, etwa mit Informationen zu Sammler, Fundort und Datum.[^FN-ObjekteDaten5] [[Anleitungen zum Sammeln]] Da diese Informationen für Zoologische Gärten ebenso wie für Tierhändler keine so gewichtige Rolle spielten, gab es dort wenig standardisierte Vorgaben und entsprechend wenig einheitliche oder ausführliche Angaben.[^FN-ObjekteDaten6] Wie unvollständig die vorliegenden Daten häufig waren, zeigen die Begleitzetteln, die den Zootieren mitgegeben wurden, wenn sie ans Museum abgeliefert wurden (Abb. Xxx). 
 
-![Vorderseite eines Etiketts für Tiere des Zoologischen Gartens, vermutlich 1920er Jahre](/images/mv/BegleitzettelA.jpg)
+![Vorderseite eines Etiketts für Tiere des Zoologischen Gartens, vermutlich 1920er Jahre](images\mv\BegleitzettelA.jpg)
 
-![Rückseite eines Etiketts für Tiere des Zoologischen Gartens, vermutlich 1920er Jahre](/images/mv/BegleitzettelB.jpg)
+![Rückseite eines Etiketts für Tiere des Zoologischen Gartens, vermutlich 1920er Jahre](images\mv\BegleitzettelB.jpg)
 
 _Etikett für den Tiertransfer vom Zoo ins Naturkundemuseum mit (spärlichen) Informationen. (MfN, HBSB, Zool. Mus. Kustodie Pohle, Schriftwechsel mit Zool. Garten)._
 

@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Labels and Knowledge
 title_de: Etikettenwissen
 created: 1629109985448
-updated: 1636363972168
+updated: 1635150412752
 id: K2rQQdv1K7aDMUi5gDHcN
 author: Mareike Vennen
 desc: Material traces of the relationship between museum and zoo
@@ -19,7 +19,6 @@ tao_type: material
 date_start: 1920-01-01T10:48:28.702Z
 date_end: 1935-01-01T10:48:28.706Z
 published: false
-colour_scheme: 0
 ---
 
 
@@ -27,7 +26,7 @@ colour_scheme: 0
 
 <figure>
 
-![A yellowed, punched paper card with stains and preprinted text at the top: Zoologischer Garten Berlin – B5 Barbarossa 9014 / To. Handwritten: Natural History Museum / Invaliden-Str.](/images/Etiketten-Pohle-S004-02-05-96-020-v.jpg)
+![A yellowed, punched paper card with stains and preprinted text at the top: Zoologischer Garten Berlin – B5 Barbarossa 9014 / To. Handwritten: Natural History Museum / Invaliden-Str.]( images/Etiketten-Pohle-S004-02-05-96-020-v.jpg)
 
 <figcaption>
 
@@ -41,7 +40,7 @@ A discovery: a pile of old tags from Berlin Zoological Garden, most of them from
 
 <figure>
 
-![Archive work: piles of yellowed labels and documents beside a file and a pen.](/images/Arbeitsszene-Etiketten-Pohle-2.jpg)
+![Archive work: piles of yellowed labels and documents beside a file and a pen.](images/Arbeitsszene-Etiketten-Pohle-2.jpg)
 
 <figcaption>
 
@@ -57,7 +56,7 @@ They indicate that it was not just the odd animal being sent from the museum to 
 
 <div class="series>
 
-![Yellowed, punched paper card with preprinted text at the top: Berlin Zoological Garden. Bottom left: 430. Handwritten: Forward to museum / Pathological Institute of the _______](/images/Etiketten-Pohle-S004-02-05-96-057-v.jpg)
+![Yellowed, punched paper card with preprinted text at the top: Berlin Zoological Garden. Bottom left: 430. Handwritten: Forward to museum / Pathological Institute of the _______](images\Etiketten-Pohle-S004-02-05-96-057-v.jpg)
 
 ![desc](Etiketten-Pohle-S004-02-05-96-140-r.jpg)
 
@@ -145,7 +144,7 @@ Instructions like "Please transfer hide and skull to museum" provide clues about
 
 <figure>
 
-![Vergilbte, gelochte Papierkarte mit Flecken. Vordruck oben: Zoologischer Garten Berlin – B5 Barbarossa 9014 / An. Handschriftlich: Naturkunde Museum / Invaliden-Str.](/images/Etiketten-Pohle-S004-02-05-96-020-v.jpg)
+![Vergilbte, gelochte Papierkarte mit Flecken. Vordruck oben: Zoologischer Garten Berlin – B5 Barbarossa 9014 / An. Handschriftlich: Naturkunde Museum / Invaliden-Str.](images/Etiketten-Pohle-S004-02-05-96-020-v.jpg)
 
 <figcaption>
 
@@ -159,7 +158,7 @@ Fund: Ein Stapel alter Anhänger aus dem Zoologischen Garten Berlin, die meisten
 
 <figure>
 
-![Archivarbeit: Stapel zahlreicher, vergilbter Etiketten und Zettel neben Mappe und Stift.](/images/Arbeitsszene-Etiketten-Pohle-2.jpg)
+![Archivarbeit: Stapel zahlreicher, vergilbter Etiketten und Zettel neben Mappe und Stift.](images/Arbeitsszene-Etiketten-Pohle-2.jpg)
 
 <figcaption>
 
@@ -175,7 +174,7 @@ Sie deuten darauf hin, dass damals nicht nur vereinzelt Tiere vom Zoo ins Museum
 
 <div class="series>
 
-![Vergilbte, gelochte Papierkarte mit Vordruck oben: Zoologischer Garten Berlin. Unten links: 430. Handschriftlich: An Museum weitergeben / Pathologisches Institut der _______](/images/Etiketten-Pohle-S004-02-05-96-057-v.jpg)
+![Vergilbte, gelochte Papierkarte mit Vordruck oben: Zoologischer Garten Berlin. Unten links: 430. Handschriftlich: An Museum weitergeben / Pathologisches Institut der _______](images\Etiketten-Pohle-S004-02-05-96-057-v.jpg)
 
 ![desc](Etiketten-Pohle-S004-02-05-96-140-r.jpg)
 

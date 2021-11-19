@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Logbooks of the Zoological Museum
 title_de: Tagebücher des Zoologischen Museums
 created: 1629873018732
-updated: 1636363448293
+updated: 1630018338796
 id: GbN8jKA3AMS4f5MC9oXTL
 author: Theresa Schatt
 translators:
@@ -21,7 +21,6 @@ date_start: 1842-12-31T23:06:32.000Z
 date_end: 1858-12-31T11:06:32.000Z
 published: false
 desc_de: Warum Präparatoren Tagebuch führen
-colour_scheme: 3
 ---
 
 
@@ -29,7 +28,7 @@ colour_scheme: 3
 
 <figure>
 
-![Three slightly tattered notebooks, one of them open, lie on a wooden surface. The titles of the two covers are in cursive handwriting: "Logbook of the Zoological Collection", followed by the years 1844 and 1849. The open book displays a double page for June 1843, which has been divided by hand into several columns of varying widths. About a third of the page is covered in writing.](/images/tagebuch-beyer-zoologische-sammlung-museum.jpg)
+![Three slightly tattered notebooks, one of them open, lie on a wooden surface. The titles of the two covers are in cursive handwriting: "Logbook of the Zoological Collection", followed by the years 1844 and 1849. The open book displays a double page for June 1843, which has been divided by hand into several columns of varying widths. About a third of the page is covered in writing.](images/tagebuch-beyer-zoologische-sammlung-museum.jpg)
 
 <figcaption>
 
@@ -48,7 +47,7 @@ Friedrich Beyer, who in his role as second assistant prepared animals in the mus
 
 <figure>
 
-![Drei leicht zerfledderte Hefte, eins davon aufgeschlagen, liegen auf einem Untergrund aus Holz. Die beiden Cover haben handschriftliche Titel in Schreibschrift: "Tagebuch der Zoologischen Sammlung", gefolgt von Jahreszahlen 1844 und 1849. Das aufgeschlagene Heft zeigt eine Doppelseite für Juni 1843, die per Hand in mehrere Spalten unterschiedlicher Breite geteilt ist. Etwa ein Drittel der Seite ist beschrieben.](/images/tagebuch-beyer-zoologische-sammlung-museum.jpg)
+![Drei leicht zerfledderte Hefte, eins davon aufgeschlagen, liegen auf einem Untergrund aus Holz. Die beiden Cover haben handschriftliche Titel in Schreibschrift: "Tagebuch der Zoologischen Sammlung", gefolgt von Jahreszahlen 1844 und 1849. Das aufgeschlagene Heft zeigt eine Doppelseite für Juni 1843, die per Hand in mehrere Spalten unterschiedlicher Breite geteilt ist. Etwa ein Drittel der Seite ist beschrieben.](images/tagebuch-beyer-zoologische-sammlung-museum.jpg)
 
 <figcaption>
 
