@@ -12,11 +12,11 @@
       <text-button linkto="/de/articles">Alle Artikel ansehen</text-button>
     </section>
 
-    <section class="routes">
+    <!-- <section class="routes">
       <h2>Kuratierte Routen</h2>
       <curated-routes-list :routes="routes" />
       <text-button linkto="/de/routes">Alle kuratierten Routen ansehen</text-button>
-    </section>
+    </section> -->
 
     <section class="outro">
       <p class="outro-text">

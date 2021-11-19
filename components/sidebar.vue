@@ -29,7 +29,7 @@
       <graph-backlinks  :article="{slug: article.slug, title: article.title, tao_type: article.tao_type}" :backlinks="article.backlinks"/>
     </section>
 
-    <curatedRoutes :slug="article.slug"/>
+    <!-- <curatedRoutes :slug="article.slug"/> -->
 
     <section id="section-footnotes" v-if="footnotes.body.children">
       <h3 class="f-mono subheading ">{{siteLang == 'de' ? labels.footnotes.de : labels.footnotes.en}}</h3>
