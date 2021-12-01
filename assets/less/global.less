@@ -1,0 +1,61 @@
+@import 'reset.less';
+@import 'fonts.less';
+@import 'variables.less';
+@import 'animations.less';
+@import 'transitions.less';
+@import 'colours.less';
+@import 'z-index.less';
+@import 'media-queries.less';
+@import 'typography.less';
+@import 'layout.less';
+
+html{
+  font-size:24px;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing: grayscale; 
+  
+  @media screen and (max-width: @mq-xs) /* Mobile Legacy */ {
+    font-size: 16px;
+  }
+
+  @media screen and (min-width: @mq-xs) and (max-width: @mq-s) /* Mobile */ {
+    font-size: 20px;
+  }
+  @media screen and (min-width: @mq-s) and (max-width: @mq-m) /* Tablet */ {
+    font-size: 18px;
+  }
+  @media screen and (min-width: @mq-m) and (max-width: @mq-ml) /* Tablet */ {
+    font-size: 18px;
+  }
+  @media screen and (min-width: @mq-ml) and (max-width: @mq-l) /* Tablet */ {
+    font-size: 24px;
+  }
+  @media screen and (min-width: @mq-l) and (max-width: @mq-xl) /* Desktop */ {
+    font-size: 24px;
+  }
+  @media screen and (min-width: @mq-xl) /* Desktop HD */ {
+    font-size: 24px;
+  }
+}
+
+body{
+  font-family: @f-serif;
+  font-size: 1rem;
+  // margin:@space-s;
+
+  background-color: @bg;
+}
+
+::selection{
+  background: #ccc;
+  color: @black;
+  // background:var(--current-scheme-bg);
+  // color:var(--current-scheme-fg);
+}
+
+:focus{
+  // border: 1px solid @focus-blue;
+  // box-shadow: @focus-glow;
+  // outline: none;
+  // color: @focus-blue;
+}

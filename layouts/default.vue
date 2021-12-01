@@ -1,62 +1,86 @@
 <template>
-  <div>
-    <Nuxt />
+  <div class='layout-container'>
+    <Navigation />
+
+    <transition name="slideleft">
+      <mobile-menu v-if="this.$store.getters.isMobileMenuOpen" />
+    </transition>
+    
+    <Nuxt @click.native="closeSearchBar"/>
+
+    <Footer @click.native="closeSearchBar"/>
+
+    <cookie-bar />
+    
   </div>
 </template>
 
-<style>
-html {
-  font-family:
-    'Source Sans Pro',
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    Roboto,
-    'Helvetica Neue',
-    Arial,
-    sans-serif;
-  font-size: 16px;
-  word-spacing: 1px;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  box-sizing: border-box;
-}
+<script>
+export default {
+  name:'layout-default',
+  methods:{
+    closeSearchBar(){
+      if(this.$store.getters.isSearchbarOpen){
+        this.$store.commit('toggleSearchBar', false);
+      }
+    },
+    addCurrentRoute(){
+      if(this.$route.params.slug){
+        if(this.$route.name == 'routes-slug'){
+          return
+        }
+        this.$store.commit('addRoute', {route:this.$route.params.slug});
+      }
+    },
+    async getRoutes(){
 
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-  margin: 0;
-}
+      var uid = this.$cookies.get('tao-uid');
 
-.button--green {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid blue;
-  color: blue;
-  text-decoration: none;
-  padding: 10px 30px;
-}
+      const getObject = {
+        uniqueid: uid
+      };
 
-.button--green:hover {
-  color: white;
-  background-color: blue;
-}
+      // CAN WE JUST STORE ROUTES ON LOCALSTORAGE AND ONLY 'GET' ROUTE RELATIONSHIPS from SERVER?
 
-.button--grey {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #35495e;
-  color: #35495e;
-  text-decoration: none;
-  padding: 10px 30px;
-  margin-left: 15px;
-}
+      try {
+        const res = await this.$axios.get('', {params: {uniqueid: uid}})
 
-.button--grey:hover {
-  color: #fff;
-  background-color: #35495e;
+        console.log(res);
+        var sortedRoutes = res.data.sort((a, b) => (a.timestamp > b.timestamp) ? 1 : -1)
+
+        console.log(sortedRoutes);
+        this.$store.commit('setRoutes', sortedRoutes);
+
+        this.addCurrentRoute();
+      }
+      catch (error) {
+        console.log(error)
+      }
+      
+      
+    }
+  },
+  mounted(){
+    if(this.$cookies.get('tao-uid') && !this.$store.getters.isTrackingEnabled){
+      console.log('cookie present');
+      this.$store.commit('enableTracking');
+      this.getRoutes();
+
+    }
+  }
+}
+</script>
+
+<style lang="less" scoped>
+.layout-container{
+  padding-top: 6rem;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    min-height: unset;
+    display:block;
+  }
 }
 </style>

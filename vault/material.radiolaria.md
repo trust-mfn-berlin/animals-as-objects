@@ -22,6 +22,7 @@ cover_image:
     http://www.biolib.de/haeckel/challenger/Nassellaria/100dpi/p059.jpg
 tao_type: material
 date_start: ''
+colour_scheme: 7
 ---
 
 :::EN:::

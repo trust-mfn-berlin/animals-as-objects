@@ -1,0 +1,85 @@
+// Typography
+
+main.open{
+  hgroup{
+    .heading-inner{
+      // width: @article-width;
+      margin-right: auto;
+    }
+  }
+}
+
+
+// There are pop-in issues because scheme-bg is set on mounted hook.
+// Maybe it could be set during Generate somehow? 
+hgroup.heading{
+
+  .heading-inner{
+    h1{
+      line-height: @lh-short;
+      margin: 0 @space-s;
+    }
+  }
+
+  .lead.subheading{
+    text-align: center;
+    margin:1rem 0 0 0;
+    
+    .type{
+      background-color: var(--current-scheme-fg);
+      color: var(--current-scheme-bg);
+      padding:@space-xs 10px;
+
+      @media screen and (max-width: @mq-s) /* Mobile */ {
+        display: block;
+        margin:@space-s auto;
+        width: fit-content;
+      }
+
+      &.material{
+        border-radius: @radius-max;
+      }
+      &.story{
+        border-radius: @radius-s;
+      }
+    }
+
+    @media screen and (max-width: @mq-s) /* Mobile */ {
+      padding: 0 @space-s;
+    }
+
+  }
+}
+
+#articlebody {
+  p:first-child{
+    margin-top: 2rem;
+  }
+}
+
+h1{
+  line-height: @lh-xs;
+}
+
+p{
+  line-height: @lh-long;
+}
+
+h2{
+  margin-bottom: @space-s;
+  margin-top: 4rem;
+}
+
+h3{
+  // margin: 2rem 0 @space-s 0;
+  // font-size: @fs-l;
+
+  display: inline-block;
+  border-bottom: 1px dotted @black;
+  margin: @space-s 0;
+}
+
+blockquote{
+  margin: 2.5rem auto;
+  width: 90%;
+}

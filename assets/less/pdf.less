@@ -1,0 +1,347 @@
+
+
+// Vars
+
+@article-width:132mm;
+@aside-width:40mm;
+@fs-print: 10pt;
+@fs-print-small: 6pt;
+
+// Components
+
+::v-deep .wiki-link-component{
+  // bottom:-1mm;
+  bottom:0.2rem;
+  .thumbnail-wrap{
+    height: unset;
+  }
+  img{
+    display: none;
+  }
+  span.text{
+    height: 4mm;
+    padding: 3px 5px 2px 5px;
+    border:1px solid black !important;
+    color:@black !important;
+    background-color: transparent !important;
+    box-shadow: none ;
+    margin:0 2px;
+    span{
+      font-size: @fs-print-small;
+    }
+  }
+}
+
+// Primary Layout
+#header, #footer{
+  width: 100%;
+
+  span.type{
+    border-bottom: 1px solid black;
+  }
+
+  .headcol{
+    &.left{
+      width: 20%;
+      text-align: left;
+      margin-right: auto;
+    }
+    &.mid{
+      width: 60%;
+      text-align: center;
+    }
+    &.right{
+      width: 20%;
+      margin-left: auto;
+      text-align: right;
+    }
+  }
+
+  .footcol{
+    width: 50%;
+    &.left{
+      text-align: left;
+      margin-right: auto;
+    }
+    &.right{
+      margin-left: auto;
+      text-align: right;
+    }
+  }
+
+  h5{
+    .f-mono();
+    font-size: @fs-print-small;
+    // width: 33%;
+    display: inline-block;
+  }
+}
+
+#header{
+  margin-bottom: 5mm;
+}
+
+#footer{
+  margin-top: 5mm;
+}
+
+.article-container{
+
+}
+
+.article-inner{
+  display:flex;
+}
+
+main{
+  font-size:@fs-print;
+  width: @article-width;
+  margin: 0;
+  &.open{
+    margin: 0;
+  }
+}
+
+// Aside
+
+aside{
+  max-width: @aside-width;
+  .f-mono();
+  font-size: @fs-print-small;
+  margin-left: 5mm;
+  ul{
+    padding-left: 0.5rem;
+    border-left: 1px solid @black;
+
+    li{
+      margin-bottom: 5px;
+    }
+  }
+}
+
+// Typography
+
+hgroup.heading{
+  text-align: center;
+  margin: 18mm auto 25mm auto;
+
+  h1{
+    font-size: @fs-print * 2.5;
+    margin-bottom: 25mm;
+    line-height: @lh-short;
+
+    background-size: 1px 1em;
+    display: inline;
+
+    border-bottom: 1px solid @black;
+
+    // text-shadow:
+    //   -2px -2px @bg,
+    //   -2px 2px @bg,
+    //   2px -2px @bg,
+    //   2px 2px @bg;
+  }
+
+  .lead.subheading{
+  text-align: center;
+  margin:2rem 0 3rem;
+    .type{
+      background-color: var(--current-scheme-bg);
+      color: var(--current-scheme-fg);
+      padding:@space-xs 10px;
+      // background-color: @black;
+      // color: @white;
+      &.theme{
+
+      }
+      &.material{
+        border-radius: @radius-max;
+      }
+      &.story{
+        border-radius: @radius-s;
+      }
+    }
+
+  }
+}
+
+p{
+  line-height: @lh-default;
+}
+
+
+
+h2{
+  font-size: @fs-print * 1.2;
+  margin-bottom: @space-s;
+  margin-top: 2rem;
+}
+
+blockquote{
+  font-size: @fs-print-small;
+  margin: 15mm auto;
+  width: 90%;
+}
+
+// Footnotes
+
+.nuxt-content{
+  &.story{
+    a.footnote-ref{
+      border-radius: @radius-m;
+    } 
+  }
+
+  &.theme{
+
+  }
+
+  &.material{
+    a.footnote-ref{
+      border-radius: @radius-max;
+    }
+  }
+
+  .footnotes{
+    margin-top: 1rem;
+    &::before{
+      content: 'Footnotes';
+    }
+    hr{
+      display: none;
+    }
+    ol{
+      margin-top: 0.5rem;
+    }
+    li{
+      // .f-mono();
+      font-size: @fs-print-small;
+      list-style-type: decimal;
+      margin-left: 10px;
+      padding-left: 5px;
+      margin-bottom: 5px;
+
+      a{
+        text-decoration: underline;
+      }
+    }
+    // display: none;
+
+    ::v-deep .wiki-link-component{
+      bottom: 0;
+      .text{
+        padding: 1mm;
+      }
+    }
+  }
+}
+
+sup{
+
+  font-size: @fs-print-small;
+  border-bottom: 1px solid @black;
+
+
+}
+
+figcaption{
+  font-size: @fs-print-small;
+  sup{
+    
+  }
+}
+
+// Images
+
+figure{
+  margin: 0 auto 2rem auto;
+  max-width: 100%;
+  width: fit-content;
+
+  img{
+    max-width: @article-width;
+    // max-height: 1200px;
+  }
+
+  p{
+    width: max-content;
+    margin: 0;
+    line-height: 1.2;
+  }
+
+  div.series{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    // width: calc(60vw + 4rem);
+    width: 100%;
+    // transform: translateX(-2rem);
+    p{
+      flex-grow: 1;
+      margin: 0 0.25rem;
+    }
+    img{
+      // width: 30%;
+      width: 100%;
+    }
+
+    @media screen  and (min-width: @mq-xs) and (max-width: @mq-m) /* Tablet Portrait */ {
+      flex-direction: column;
+    }
+  }
+
+  figcaption{
+    // max-width: max-content;
+    margin-top:2mm;
+    display: flex;
+    p{
+      flex-grow: 1;
+      width: 0;
+    }
+
+    ::v-deep span.wiki-link-component{
+      // bottom:0;
+      a{
+        line-height: 0;
+        border-bottom: none;
+        img{
+          display: none;
+        }
+        .text{
+          box-shadow: none;
+          border-radius: 0;
+          margin: 0;
+          height: 5mm !important;
+          padding: 0 !important;
+          color: @black !important;
+          .subheading{
+            font-size:@fs-print-small;
+          }
+        }
+      }
+    }
+  }
+}
+
+// Remove margin for images following headings
+
+h2+figure {
+  margin-top: 0rem;
+}
+
+// Audio
+
+.audio-container{
+  display: block;
+  width: 50%;
+  margin: 15mm auto;
+}
+
+// Video
+
+iframe{
+  display: block;
+  width: 100%;
+  min-height: 20rem;
+  margin: 15mm auto;
+}

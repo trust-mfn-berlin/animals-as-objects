@@ -8,7 +8,7 @@ desc: >-
   they still relied on piles of paper – on offer lists, inventories, price
   lists, and invoices. These documents show us how zoo animals were transformed
   into museum exhibits and what kind of value was ascribed to them.
-updated: 1635160350129
+updated: 1637320747523
 created: 1635148858347
 license: CC BY-SA
 title_de: Tiere verzeichnen
@@ -27,13 +27,15 @@ tao_type: story
 date_start: '1914-01-13T00:00:00.000Z'
 date_end: '2021-10-25T08:44:25.273Z'
 published: false
+colour_scheme: 2
 ---
 
 :::EN:::
  
 <figure>
  
-![Hand-written page in a notebook with tattered edges containing a long list in old cursive handwriting with dates, species names, and sums of money on each row.](insert image link)
+![Hand-written page in a notebook with tattered edges containing a long list in old cursive handwriting with dates, species names, and sums of money on each row.](/images/noimage.png)
+
  
 <figcaption>
  
@@ -175,7 +177,7 @@ The repercussions can still be felt today, not least in attempts to trace the or
  
 <figure>
  
-![Handgeschriebene Seite in einem Heft mit zerfledderten Kanten. Lange Liste in alter Schreibschrift mit Daten, Artnamen, und Geldbeträgen pro Zeile.](insert image link)
+![Handgeschriebene Seite in einem Heft mit zerfledderten Kanten. Lange Liste in alter Schreibschrift mit Daten, Artnamen, und Geldbeträgen pro Zeile.](/images/noimage.png)
  
 <figcaption>
  

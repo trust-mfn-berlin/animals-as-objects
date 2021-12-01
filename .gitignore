@@ -5,8 +5,15 @@ build
 dist
 .DS_Store
 
-static/audio/*
-static/thumbnails/*
-static/images/*
+/temp/*.json
 
-temp
+/static/images/*
+/static/audio/*
+/static/pdfs/*
+/static/pdf/*
+/static/thumbnails/l/*.png
+/static/thumbnails/l/*.jpg
+/static/thumbnails/l/*.jpeg
+/static/thumbnails/s/*.png
+/static/thumbnails/s/*.jpg
+/static/thumbnails/s/*.jpeg

@@ -1,3 +1,19 @@
+---
+id: f7b68ae7-0631-49cd-90a5-04427f79e07e
+title: Zoos and Conservation
+desc: Since only a relatively short time zoos intensify their conservation eforts.
+updated: 1637319884056
+created: 1618994200982
+title_de: Zoos und Artenschutz
+desc_de: Seit relativ kurzer Zeit engagieren sich Zoos auch im Artenschutz.
+author: CMW
+tao_type: story
+cover_image: null
+license: CC BY-SA
+published: false
+colour_scheme: 0
+---
+
 Zoos und Artenschutz
 Ich arbeite jetzt seit sechs Jahren im Berliner Zoo. Und immer noch zieht es mich oft bei meinen Wegen durch den Garten zum Außengehege der Orang-Utans. Ich verstehe die Faszination, die von diesen Primaten mit ihrem roten Fell und ihren merkwürdig anmutenden Wangenwülsten für viele Menschen ausgeht. Orang-Utans haben die Besucher\*innen des Berliner Zoos und später des Tierparks seit ihrer Erstausstellung im Zoo Ende des 18. Jahrhunderts stets fasziniert. Wie alle Primaten gehören sie in den modernen Zoos zu den Tieren mit der höchsten Anziehungskraft auf die Gäste. In ihrem Lebensraum, den Wäldern von Borneo und Sumatra wird der Bestand der Primaten von der Weltnaturschutzunion (International Union for Conservation of Nature) schon seit mehreren Jahren als kritisch bedroht eingestuft. Der Grund hierfür ist der menschengemachte Lebensraumverlust durch die Abholzung der Wälder - insbesondere für Palmölplantagen. Anhand der Geschichte der Haltung dieser Art lassen sich aber auch einige wichtige Entwicklungen der Natur- und Habitatschutzidee in Zoos illustrieren.
  

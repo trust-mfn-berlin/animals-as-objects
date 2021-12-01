@@ -30,6 +30,7 @@ cover_image:
     Source: AZGB, photo Hoppe. All rights reserved.
 tao_type: theme
 date_start: '1499-12-31T23:06:32.000Z'
+colour_scheme: 3
 ---
 
 :::EN:::

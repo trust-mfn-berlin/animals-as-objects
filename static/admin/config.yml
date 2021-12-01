@@ -3,7 +3,7 @@ backend:
   base_url: http://116.203.68.230:3000
   site_domain: animalsasobjects.org
   repo: trust-mfn-berlin/animals-as-objects
-  branch: content-creation
+  branch: master
 
 media_folder: vault/images
 public_folder: /images
@@ -69,6 +69,7 @@ collections:
         fields:
           - { label: "Image", name: "image", required: false, widget: "image"}
           - { label: "Description", hint: "for SEO and accessibility purposes", name: "alt", required: false, widget: "string"}
+      - { label: "Colour Scheme", name: "colour_scheme", widget: "number", required: false, min: 0, max: 18, value_type: "int", hint: "number refers to colour scheme. https://dev.animalsasobjects.org/colours/" }
       - label: "TAO Content type"
         name: "tao_type"
         widget: "select"
@@ -77,6 +78,40 @@ collections:
       - { label: "Date end (if applicable)", name: "date_end", widget: "datetime", default: "", required: false }
       - { label: "Archived", name: "archived", widget: "boolean", hint: "Don't show this article", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
+      - label: 'Map slide'
+        name: 'map_slide'
+        widget: 'list'
+        collapsed: false
+        fields:
+          - label: 'Slide Title'
+            name: 'title'
+            widget: 'string'
+          - label: 'Slide Title DE'
+            name: 'title_de'
+            widget: 'string'
+          - label: 'Map slide caption'
+            name: 'caption'
+            widget: 'string'
+          - label: 'Map slide caption DE'
+            name: 'caption_de'
+            widget: 'string'
+          - label: "Caption image"
+            name: "caption_image"
+            widget: "object"
+            collapsed: true
+            allow_multiple: false
+            required: false
+            fields:
+              - { label: "Image", name: "src", required: false, widget: "image"}
+              - { label: "Description", hint: "for SEO and accessibility purposes", name: "alt", required: false, widget: "string"}
+          - label: 'Map image'
+            name: 'map_image'
+            widget: 'image'
+          - label: 'Map image DE'
+            name: 'map_image_de'
+            widget: 'image'
+            hint: 'if labels are needed in DE use this field'
+            required: false
   - name: "pages"
     label: "Pages"
     files:
@@ -160,15 +195,19 @@ collections:
         fields: 
           - {label: "Intro Text EN", name: text_en, widget: string}
           - {label: "Intro Text DE", name: text_de, widget: string}
-      - label: 'Connected notes'
-        name: 'notes'
+      - label: 'Connected articles'
+        name: 'articles'
         widget: 'list'
         collapsed: false
         fields:
           - label: 'Connected note'
-            name: 'note'
+            name: 'article'
             widget: 'relation'
             collection: 'dendron'
             display_fields: ['title']
             search_fields: ['title', 'title_de', 'author', 'tao_type', 'body']
-            value_field: 'id'
+            value_field: '{{slug}}'
+      - label: "PDF collection"
+        name: "pdf"
+        hint: ".zip file with PDFs"
+        widget: "file"

@@ -4,6 +4,7 @@ title: Markdown Guide
 desc: ''
 updated: 1624524539340
 created: 1618396638023
+colour_scheme: 1
 ---
 
 Derived from: https://www.markdownguide.org/basic-syntax/

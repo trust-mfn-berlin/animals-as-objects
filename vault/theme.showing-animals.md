@@ -31,6 +31,7 @@ cover_image:
     the Berlin zoo. Source: AZGB. All rights reserved."
 tao_type: theme
 date_start: 1843-12-31T23:06:32.000Z
+colour_scheme: 1
 ---
 
 :::EN:::

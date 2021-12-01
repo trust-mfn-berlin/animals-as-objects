@@ -1,0 +1,67 @@
+// Vars
+
+@article-width:calc(90vw - 20rem - @space-s);
+@article-width-mobile:calc(100% - @space-s*2);
+@container-width-open: calc(100vw - 20rem);
+
+@article-max-width: 1000px;
+
+@import 'article/figures.less';
+@import 'article/footnotes.less';
+@import 'article/typography.less';
+@import 'article/wikilinks.less';
+@import 'article/media.less';
+
+// Primary Layout
+
+.article-container{
+
+  main{
+
+    width: 100%;
+    overflow-x:hidden;
+
+    .animateslow(width);    
+    
+    section{
+
+      // Debug
+      // border: 1px solid brown;
+
+      width: @article-width;
+      max-width: @article-max-width;
+      margin: 0 auto;
+
+      @media screen and (max-width: @mq-s) /* Mobile */ {
+        width: @article-width-mobile;
+      }
+    }
+    &.open{
+
+      width: @container-width-open;
+
+      @media screen and (max-width: @mq-s) /* Mobile */ {
+        width: 100%;
+      }
+
+    }
+  }
+}
+
+.article-header{
+  padding: 10rem 0 7rem;
+  text-align: center;
+  h1{
+    line-height: @lh-short;
+  }
+
+  h2{
+  text-align: center;
+  margin:1rem 0 0 0;
+
+  .type{
+    text-transform: capitalize;
+  }
+  }
+
+}

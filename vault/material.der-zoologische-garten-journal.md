@@ -21,6 +21,7 @@ cover_image:
     Cover der Zeitschrift Der Zoologische Garten, das eine Harpyie zeigt, 1933.
 tao_type: material
 date_start: '1858-12-31T23:06:32.000Z'
+colour_scheme: 7
 ---
 
 :::EN:::

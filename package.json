@@ -3,14 +3,36 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
+    "dev": "node scripts/copy-audio.js && node scripts/create-thumbnails.js && node scripts/copy-images.js && node scripts/link-map.js && node scripts/create-timeline.js && nuxt --hostname '0'",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "node scripts/copy-audio.js && node scripts/create-thumbnails.js && node scripts/copy-images.js && node scripts/link-map.js && node scripts/create-timeline.js && nuxt generate",
+    "pdf": "node scripts/export-pdf.js",
+    "test": "node scripts/copy-audio.js && node scripts/copy-images.js && node scripts/link-map.js && node scripts/create-timeline.js && nuxt --hostname '0'",
+    "images": "node scripts/optimise-images.js",
+    "colours": "node scripts/assign-colours.js",
+    "local": "node scripts/copy-audio.js && node scripts/create-thumbnails.js && node scripts/copy-images.js && node scripts/link-map.js && node scripts/create-timeline.js && nuxt generate && npm run start"
   },
   "dependencies": {
+    "@nuxt/content": "^1.14.0",
+    "@nuxtjs/axios": "^5.13.6",
+    "cookie-universal-nuxt": "^2.1.5",
     "core-js": "^3.9.1",
-    "nuxt": "^2.15.3"
+    "d3": "^6.7.0",
+    "nuxt": "^2.15.4",
+    "uuid": "^8.3.2"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@nuxt/image": "^0.4.13",
+    "@nuxtjs/style-resources": "^1.0.0",
+    "fs-extra": "^9.1.0",
+    "jimp": "^0.16.1",
+    "jpeg-js": "^0.4.3",
+    "less": "^4.1.1",
+    "less-loader": "^7.1.0",
+    "markdown-yaml-metadata-parser": "^3.0.0",
+    "normalize.css": "^8.0.1",
+    "puppeteer": "^10.0.0",
+    "puppeteer-report": "^3.0.1"
+  }
 }

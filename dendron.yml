@@ -1,9 +1,7 @@
 useFMTitle: true
 useNoteTitleForLink: true
-noLegacyNoteRef: true
 mermaid: true
 useKatex: true
-usePrettyRefs: true
 dev:
     previewV2Enabled: false
     enablePreviewV2: true
@@ -21,13 +19,14 @@ site:
             - vault
     siteLastModified: true
     gh_edit_branch: main
-version: 3
+version: 4
 commands:
     lookup:
         note:
             selectionMode: extract
             confirmVaultOnCreate: false
             leaveTrace: false
+            bubbleUpCreateNew: true
     randomNote: {}
     insertNote:
         initialValue: templates
@@ -37,7 +36,7 @@ commands:
     insertNoteIndex:
         enableMarker: false
 workspace:
-    dendronVersion: 0.67.1
+    dendronVersion: 0.70.0
     vaults:
         -
             fsPath: vault
@@ -81,3 +80,9 @@ workspace:
             L: low
         todoIntegration: false
         createTaskSelectionType: selection2link
+preview:
+    enableFMTitle: true
+    enableNoteTitleForLink: true
+    enableMermaid: true
+    enablePrettyRefs: true
+    enableKatex: true
