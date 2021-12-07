@@ -7,7 +7,7 @@ desc: >-
   city play in this? Zoo and urban society entered into new relations during
   this crisis – between support and competition – which temporarily changed the
   role and function of the zoo.
-updated: 1638901646394
+updated: 1638901837539
 created: 1621497485660
 license: CC BY-SA
 title_de: Futternot
@@ -291,10 +291,6 @@ Depending on your perspective, the zoo was a hub for the exchange of animals and
 [^41]: K. Heinroth to U. Bergman, 07.03.1950, AZGB N 4/12. Cf. also AZGB O 1/1/1.
 
 :::DE:::
-
-title_de: Futternot
-desc_de: Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten nach dem Zweiten Weltkrieg, seine Tiere durchzubringen? Welche Rolle spielte dabei die Ernährungslage Berlins? Zoo und Stadtgesellschaft gingen in dieser Krise neue Verbindungen ein – zwischen Unterstützung und Konkurrenz, was die Rolle und Funktion des Zoos zeitweise veränderte.
-2-5 word descr_de: 1945: Krise in Zoo und Stadt 
 
 <figure>
 
