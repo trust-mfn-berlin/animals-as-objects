@@ -2,7 +2,7 @@
 id: 384f2259-ec40-482d-bacc-c0876ae280aa
 title: NSB Database
 desc: Put a description of this note here...
-updated: 1620218784829
+updated: 1638902335550
 created: 1619187736766
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -16,10 +16,60 @@ colour_scheme: 7
 
 :::EN:::
 
-[[theme.planetary data]], [[story.micropaleontological-formations]], [[material.databases]], [[material.planetary sciences]], [[material.big data]], [[material.big science]], [[material.biostratigraphy]], [[story.cycladophora-davisiana]]
+<figure>
+
+![A graph divided in five sections of different colours: each section represents a different part of the database, like the taxonomical backbone, the paleontological data, the stratigraphic layer, and the sample and dataset metadata. Each of these sections includes lists of parameters and highlights the interrelations between them with arrows.](/images/filo/nsb architecture.png)
+
+<figcaption>
+
+_This graph illustrates the architecture of the NSB relational database: the taxonomical lists of different species provides the backbone, and is related in turn to the paleontological data, the metadata about sample and dataset, and data on the stratigraphic layer. This allows us to visualize the connections between data that constitute the database and make it a useful tool beyond micropaleontology._
+
+</figcaption>
+
+</figure>
+
+The Neptune Sandbox Berlin[^2] database is the current implementation of the Neptune database, a digital archive and tool which holds almost a million records of microfossil species occurrences from [[material.core-samples]] obtained through [[story.deep-sea-drilling]] and other sampling techniques. Hosted by the Museum für Naturkunde Berlin, the database enables easy correlation of up-to-date taxonomic lists with age models and geochronologic data. As such, it is an important tool in the study of [[story.micropaleontological-formations]] and other aspects of planetary dynamics. The complex history of this database started at the end of the 1980s, when the museum’s micropaleontology curator David Lazarus – back then a graduate student at the ETH Zürich – started developing a synthesis of marine microfossils data.[^3] Bringing together data scattered across very different samples, collections, materials, and publications, Neptune proved to be a useful tool for micropaleontologists. This early version of the database was circulated in Fortran card image format files, then CD-ROM, and became accessible online in 1993. It was only in 2009 that the database, which had in the meantime gone through different iterations, returned under the supervision of Lazarus, who had meanwhile joined the Naturkundemuseum Berlin. Since then, the NSB has grown into a unique and important tool in the interdisciplinary study of microfossil records from deep sea drilling: updating its models, improving its digital architecture, and facilitating its circulation, the current iteration of the database reaches a broader, interdisciplinary audience and is now used beyond the community of specialists from which it originated. Together with the Museum für Naturkunde Berlin’s micropaleontology collections, including the [[material.lamont-doherty-collection]], and many other collections scattered around the world, the database forms a complex infrastructure that serves as the foundation of current understandings of the history of the planet Earth and its [[theme.microbial-worlds]]. As such, the NSB database is part of the [[story.microscopic-media]] that make microorganisms visible. It is also a crucial medium in the transformation of living organisms like [[story.cycladophora-davisiana]] into scientific objects and relational data.
+
+Wrapper
+
+<!embed video NSB database>
+_This video illustrates the NSB database and its use in the Museum für Naturkunde._
+
+wrapper
+
+[^1]: From Renaudie, J., D. Lazarus and P. Diver. “NSB (Neptune Sandbox Berlin): An expanded and improved database of marine planktonic microfossil data and deep-sea stratigraphy.” _Palaeontologia Electronica_ 23 (2020): 1-28. https://doi.org/10.26879/1032.
+
+[^2]: See https://nsb.mfn-berlin.de. 
+
+[^3]: For a more in depth history of the database, see Renaudie, J., D. Lazarus and P. Diver, 2020.
+
 
 :::DE:::
 
-German content goes here.
+<figure>
 
-Testing here
+![Ein Diagramm, das in fünf verschiedenfarbige Abschnitte unterteilt ist: Jeder Abschnitt steht für einen anderen Teil der Datenbank, z.B. für das taxonomische Grundgerüst, die paläontologischen Daten, die stratigraphische Schicht und die Metadaten der Proben und Datensätze. Jeder dieser Abschnitte enthält Listen von Parametern und hebt die Zusammenhänge zwischen ihnen durch Pfeile hervor.](/images/filo/nsb architecture.png)
+
+<figcaption>
+
+_Dieses Diagramm veranschaulicht die Architektur der relationalen NSB-Datenbank: Die taxonomischen Listen der verschiedenen Arten bilden die Ausgangsvariable, die wiederum mit den paläontologischen Daten, den Metadaten zu den Proben und dem Datensatz sowie den Daten der stratigraphischen Schicht korreliert werden kann. Auf diese Weise lassen sich die Verbindungen zwischen den einzelnen Daten aus dem Gesamtbestand visualisieren, was die Datenbank  – nicht nur für die Mikropaläontologie – zu einem ausgesprochen nützlichen Instrument macht._
+
+</figcaption>
+
+</figure>
+
+Die Datenbank Neptune Sandbox Berlin[^2] ist die aktuelle Version der Neptun Datenbank, eines digitalen Archivs und Werkzeugs, das fast eine Million Datensätze von Mikrofossilienarten aus [[material.core-samples]] enthält, die per [[story.deep-sea-drilling]] und anderer Probenentnahmeverfahren gesammelt wurden. Die vom Museum für Naturkunde Berlin betriebene Datenbank ermöglicht die einfache Korrelation aktueller taxonomischer Listen mit Altersmodellen und geochronologischen Daten. Sie ist somit ein wichtiges Werkzeug für die Untersuchung von [[story.micropaleontological-formations]] und anderer Aspekten planetarischer Dynamiken. Die komplexe Geschichte dieser Datenbank begann Ende der 1980er Jahre, als der mikropaläontologische Kurator des Museums, David Lazarus – damals Doktorand an der ETH Zürich – mit der Erstellung einer Synthese von Daten zu marinen Mikrofossilien begann[^3]. In der Zusammenführung von Daten, die über sehr unterschiedliche Proben, Sammlungen, Materialien und Publikationen verteilt waren, erwies sich Neptun als nützliches Werkzeug für Mikropaläontolog:innen. Diese frühe Version der Datenbank zirkulierte in Form von Bilddateien im Fortran-Kartenformat, dann auf CD-ROM, und seit 1993 ist sie online zugänglich. Erst 2009 kehrte die Datenbank, die in der Zwischenzeit verschiedene Iterationen durchlaufen hatte, unter der Leitung von Lazarus zurück nach Berlin. Lazarus hatte inzwischen an das Museum für Naturkunde gewechselt. Seitdem hat sich die NSB zu einem einzigartigen und wichtigen Instrument für die interdisziplinäre Erforschung von Mikrofossilien aus Tiefseebohrungen entwickelt: Durch die Aktualisierung ihrer Modelle, die Verbesserung ihrer digitalen Architektur und den erleichterten Zugriff hat die aktuelle Version der Datenbank ein breiteres, interdisziplinäres Publikum erreicht und wird nun auch außerhalb des Spezialist:innenkreises genutzt, der sie hervorgebracht hat. Zusammen mit den mikropaläontologischen Sammlungen des Museums für Naturkunde Berlin, einschließlich der [[material.lamont-doherty-collection]] und vielen anderen Sammlungen aus der ganzen Welt, ist die Datenbank Teil einer komplexen Infrastruktur, die das Fundament des aktuellen Kenntnisstands zur Geschichte des Planeten Erde und seiner [[theme.microbial-worlds]] bildet. Entsprechend gehört die NSB Datenbank zu den [[story.microscopic-media]] zur Visualisierung von Mikroorganismen und leistet außerdem wertvolle Dienste als Medium zur Nutzbarmachung lebender Organismen (wie z.B. [[story.cycladophora-davisiana]]) als wissenschaftliche Studienobjekte durch ihre Darstellung in Form vergleichbarer Daten.
+
+Wrapper
+
+<!embed video NSB database>
+_ Dieses Video stellt die NSB Datenbank vor und zeigt ihre Verwendung im Museum für Naturkunde._
+
+wrapper
+
+[^1]: Renaudie, J., D. Lazarus and P. Diver. “NSB (Neptune Sandbox Berlin): An expanded and improved database of marine planktonic microfossil data and deep-sea stratigraphy.” _Palaeontologia Electronica_ 23 (2020): 1–2 8. https://doi.org/10.26879/1032.
+
+[^2]: Siehe https://nsb.mfn-berlin.de. 
+
+[^3]: Zur Geschichte der Datenbank, siehe Renaudie, J., D. Lazarus and P. Diver, 2020.
+
