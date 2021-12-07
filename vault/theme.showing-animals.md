@@ -7,7 +7,7 @@ short_desc_de: Wie und warum stellen Zoos Tiere aus?
 date_end: 2021-08-27T23:01:33.091Z
 published: false
 title: Putting Animals on Display
-updated: 1634730444688
+updated: 1638892948999
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 translators:
   translator_de_en: Lydia J. White
@@ -135,7 +135,11 @@ _The antelope house at Berlin Zoo around 1920. (AZGB. All rights reserved.)_
 
 ![Colourful drawing: an elephant seems to rip the drawing off a postcard and roll it up with its trunk, leaving the bottom right-hand corner empty. Behind the elephant on the left is a colourful, Orientalist-looking structure; to the right behind the water and trees is a palace-like building with towers. A bearded zookeeper stands at the bottom left wearing a green uniform.](images/cmw/PK_Elefantenpagode_1912_S_7_3.jpg)
 
+<figcaption>
+
 _Postcard of the Elephant Pagoda at Berlin Zoological Gardens, 1912. (AZGB)_
+
+</figcaption>
 
 </figure>
 
