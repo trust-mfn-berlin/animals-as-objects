@@ -7,7 +7,7 @@ short_desc_de: Foto von Magdalena Heinroth mit drei Dohlen
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Magdalena Heinroth
-updated: 1629736360827
+updated: 1638901139831
 id: 95617cbe-704d-46c1-b0b5-05d178ec363d
 translators:
   translator_de_en: Lucy Gasser
@@ -23,12 +23,11 @@ tao_type: material
 date_start: 1919-12-31T23:00:00.000Z
 colour_scheme: 9
 ---
-
 :::EN:::
 
 <figure>
 
-![Black and white photograph: A young woman with dark hair in a light blouse, looks down at three jackdaws that sit on her arms and face towards her.](images/cmw/Magdalena_Heinroth_Dohlen_1919.jpg)
+![Black and white photograph: A young woman with dark hair in a light-colored blouse looks down at three jackdaws, perching on her arms and facing toward her.](images/cmw/Magdalena_Heinroth_Dohlen_1919.jpg)
 
 <figcaption>
 
@@ -38,11 +37,11 @@ _Magdalena Heinroth with three jackdaws she raised in her apartment, 1919. (AZGB
 
 </figure>
 
-Magdalena Heinroth (née Wiebe, 1883-1932), together with her husband [[material.oskar-heinroth]] raised hundreds of native birds in their shared apartment at the Berlin Aquarium. These included the three jackdaws pictured here perched on her arms. An image of her husband [[material.oskar-heinroth]] shows him in the same position with three Ural owls. The pictures are separated by about ten years. **Throughout the 1920s, both gathered observations on the growth of virtually all European birds, from hatching, through moulting, and into adulthood.** These observations formed the foundation for the four-volume standard reference work published by Magdalena and Oskar Heinroth, _Die Vögel Mitteleuropas. In allen Lebens- und Entwicklungsstufen photographisch aufgenommen und in ihrem Seelenleben bei der Aufzucht vom Ei ab beobachtet_, 1924-1934. The two scientists lived in something of a "bird flatshare."[^1]
+Magdalena Heinroth (née Wiebe, 1883–1932) raised hundreds of native birds in the apartment she shared with her husband [[material.oskar-heinroth]] at the Berlin Aquarium. These included the three jackdaws pictured here perched on her arms. An image of her husband [[material.oskar-heinroth]], taken some ten years later, shows him in the same pose with three Ural owls. **Throughout the 1920s, the couple gathered observations on the development of virtually all European birds, from hatching, through molting, and into adulthood.** Their findings provided the basis for the four-volume standard reference work they wrote together, _Die Vögel Mitteleuropas. In allen Lebens- und Entwicklungsstufen photographisch aufgenommen und in ihrem Seelenleben bei der Aufzucht vom Ei ab beobachtet_, 1924–1934. The living arrangements of the two scientists could be described as being akin to a "bird flat-share."[^1]
 
-**Magdalena Wiebe had learned taxidermy, amongst other things, at the Berlin Museum of Natural History**, where she also met her future husband. Until her early death in 1932, she researched birds, their moulting and breeding. The autodidact published many articles on these topics, among others in the world's oldest ornithological journal _Die gefiederte Welt_. In the public's awareness, however, she is known above all as her husband's most important collaborator.
+**Magdalena Wiebe studied taxidermy, among other subjects, at the Berlin Museum of Natural History.** It was also there that she met her future husband. Until her untimely death in 1932, she conducted research on birds, their molting, and breeding. An autodidact, Magdalena Heinroth wrote numerous articles on these subjects. Her work appeared in various publications, including the world's oldest ornithological journal _Die gefiederte Welt_. To the public, however, she is known above all as her husband's most important collaborator.
 
-[^1]: Schulze-Hagen, Karl. _Die Vogel-WG: die Heinroths, ihre 1000 Vögel und die Anfänge der Verhaltensforschung_. Knesebeck Stories. München: Knesebeck, 2020. On the work itself, cf. Schulze-Hagen, Karl. "Das 'Handbuch der Vögel Mitteleuropas' – sein Stellenwert gestern, heute, morgen". _Der Ornithologische Beobachter_ 110, Nr. 3 (2013): 231-248. Direct quotes have been translated into English for clarity’s sake.
+[^1]: Schulze-Hagen, Karl. _Die Vogel-WG: die Heinroths, ihre 1000 Vögel und die Anfänge der Verhaltensforschung_. Knesebeck Stories. München: Knesebeck, 2020. On the work itself, cf. Schulze-Hagen, Karl. "Das 'Handbuch der Vögel Mitteleuropas' – sein Stellenwert gestern, heute, morgen". _Der Ornithologische Beobachter_ 110, Nr. 3 (2013): 231-248. Direct quotes have been translated into English for clarity's sake.
 
 :::DE:::
 

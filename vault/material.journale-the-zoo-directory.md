@@ -7,7 +7,7 @@ short_desc_de: Übersicht der Berliner Zoobestände seit 1888
 date_end: 2021-06-30T12:21:00.358Z
 published: false
 title: Journale – The Zoo Directory
-updated: 1629738183713
+updated: 1638900772181
 id: 4a663958-cb98-4cdd-967d-9b277f45cdc4
 translators:
   translator_de_en: Lucy Gasser
@@ -25,15 +25,16 @@ colour_scheme: 6
 ---
 
 
+
 :::EN:::
 
 <figure>
 
 <div class="series">
 
-![Left page from handwritten journal with heading: Change in animal holdings. Columns on left side: Animal species, Holdings, Purchased, Purchase price, Born.](images/cmw/Journal_1936_l.jpg)
+![Left-hand page from handwritten journal with heading: Change in animal stocks. Columns on left-hand side: Animal species, Stocks, Purchased, Purchase price, Born.](images/cmw/Journal_1936_l.jpg)
 
-![Right page from handwritten journal with heading: Change in animal holdings. Columns on right side: Gifted, Died, Sold, Holdings, Inventory value. ](images/cmw/Journal_1936_r.jpg)
+![Right-hand page from handwritten journal with heading: Change in animal stocks. Columns on right-hand side: Gifted, Died, Sold, Stocks, Inventory value. ](images/cmw/Journal_1936_r.jpg)
 
 </div>
 
@@ -45,11 +46,11 @@ _Extract from the journal for the year 1936. (AZGB. All rights reserved.)_
 
 </figure>
 
-The Berlin Zoological Garden houses the so-called "Journale", or journals, which – with a few exceptions – date back to the year 1888. We do not know whether this was the year in which this particular form of animal directory was introduced, or whether older editions simply have not survived. Based on reports from the different sections – i.e., the animal houses and attached enclosures for individual animal species – and information from the bookkeeping department, "Changes in Animal Holdings" were listed here for all animal species kept at the zoo. The beginning-of-year population was recorded on the left side, then all changes up to the end-of-year population figure on the right side. As with the [[material.steinmetz-index]], "1,0" denotes a male, "0,1" a female. "1,1" thus represents, for example, a pair consisting of a male and a female animal. **The 1936 clipping depicted, then, indicates a listing of three female – "0,3" – chimpanzees at the beginning of the year.** As can be seen, they were joined by "0,4" – four more females – on 2 July 1936. These were animals purchased by Eva MacLean, later wife to zoo director [[Lutz Heck|story.the-zoo-and-national-socialism]], on a trip to Cameroon. One animal died shortly after arrival and two were given to the Munich Zoo in September, leaving "0,4" – four females – in the zoo holdings at the end of the year.
+The Berlin Zoological Garden houses what are known as the "Journale", or journals, which — with a few exceptions — date back to the year 1888. We do not know whether this was the year in which this particular form of animal directory was introduced, or whether older editions have simply not survived. In these journals, "Changes in Animal Stocks" were listed for all animal species kept at the zoo, based on information from the bookkeeping department and reports from the different parts of the zoo, such as the animal houses and the adjoining enclosures for specific animal species. The population at the beginning of the year was recorded on the left-hand side, and all changes in the population over the year, up until the annual stocktake at the end of the year, were marked on the right. As with the [[material.steinmetz-index]], "1,0" denotes a male, "0,1" a female. The numbers "1,1" therefore represent, for example, a pair consisting of one male and one female animal. **The extract from the 1936 journal shown here thus indicates a listing of three female — "0,3" — chimpanzees at the beginning of the year.** These were evidently joined by four more females — "0,4" — on 2 July 1936. The animals were purchased by Eva MacLean, who would later become the wife of zoo director [[Lutz Heck|story.the-zoo-and-national-socialism]], on a trip to Cameroon. One animal died shortly after arrival and two were given to Munich Zoo in September, leaving "0,4" — four females — in the zoo’s animal stock at the end of the year.
 
-Eva MacLean's shipment also included a female gorilla, to which a male gorilla was added in the same year. This came, also recorded in the journal, from the Hagenbeck company, and cost 7.500 Reichsmark.
+Further, Eva MacLean's shipment included a female gorilla, which was joined by a male in the same year. The journal also records that this animal was purchased from the Hagenbeck company for 7,500 Reichsmark.
 
-Until about 1925, the journals did not include information on monetary value. This was recorded in a separate volume for the same year, a kind of accounting inventory. In the end, though, both types of information were recorded in the same journal. **The volumes always provide only a slice of the history of the keeping of a given species. They record actual conditions and changes.** Individual yearly reports are not best-suited to tracing the long-term housing history of specific individuals or species. The names that the public or the zoo had given to the animals are rarely mentioned. Depending on who kept the journals for a given year, they may be more or less detailed and also record notes on the sellers or buyers, prices, causes of death, or (later) the monetary value assigned to the animal in the annual accounts. It is usually necessary to consult several journals to answer inquiries about the historical keeping of given animals at the Berlin Zoo. For the 1920s and 1930s, researchers can consult the so-called [[material.steinmetz-index]], which is more detailed for this period.
+It was only in around 1925 that the journals began to include information on the monetary value of the animals. This was recorded in a kind of accounting inventory, in a separate volume for the same year. Subsequently, both pieces of information were recorded in the same journal. **The journals only provide an extract from the history of a particular species at the zoo. They record the status quo and any changes to that.** Individual yearly reports do not provide enough information for us to gain a full understanding of the history of individual animals, or of a whole species in a given zoo. They rarely mention the names that the public and the zoo gave to the animals. Depending on who was charged with keeping the journals for a given year, they might be more or less detailed, and might also include notes on buyers and sellers, prices, causes of death, or (in later journals) the monetary value assigned to the animal in the annual accounts. It is usually necessary to consult several journals in order to be able to answer questions about the history of a specific animal species kept at Berlin Zoo. For the 1920s and 1930s, researchers can consult what is called the [[material.steinmetz-index]], which is more detailed for this period of time.
 
 :::DE:::
 

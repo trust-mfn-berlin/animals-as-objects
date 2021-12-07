@@ -7,7 +7,7 @@ short_desc_de: Foto von Oskar Heinroth mit drei Uralkäuzen
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Oskar Heinroth
-updated: 1629737133159
+updated: 1638901244202
 id: 1a9793b7-746f-4a58-bfa2-54596b72b4bc
 translators:
   translator_de_en: Lucy Gasser
@@ -27,7 +27,7 @@ colour_scheme: 9
 
 <figure>
 
-![Black and white photograph: Bald older man with moustache, wearing pince-nez and a suit, looks down at three Ural owls sitting on his arms and one bent leg. Two of the owls look into the camera, one to the side.](images/cmw/O_Heinroth_Uralkaeuzen_1929.jpg)
+![Black and white photograph: A balding older man with a moustache, wearing a pince-nez and a suit, looks down at three Ural owls, one sitting on each of his arms and the third on one of his legs, which he has bent into a perch. Two of the owls are looking into the camera and one to the side.](images/cmw/O_Heinroth_Uralkaeuzen_1929.jpg)
 
 <figcaption>
 
@@ -37,9 +37,9 @@ _Oskar Heinroth with three Ural owls he raised, 1929. (AZGB. All rights reserved
 
 </figure>
 
-The photo shows Oskar August Heinroth (1871-1945) with three Ural owls perched on his limbs. Not by chance does the picture bear a resemblance to the picture of his first wife [[material.magdalena-heinroth]]. **Together, the couple raised virtually all species of native birds from egg to adulthood in their apartment at the staff lodgings located at the Aquarium until 1932, documenting the birds’ growth and observing their behaviour.** This resulted in the standard reference work _Die Vögel Mitteleuropas in allen Lebens- u. Entwicklungsstufen photogr. aufgenommen u. in ihrem Seelenleben bei d. Aufzucht vom Ei ab beobachtet_, published in four volumes between 1924 and 1933.
+The photograph shows Oskar August Heinroth (1871–1945) with three Ural owls perching on him. It is no coincidence that the picture bears a resemblance to a photograph taken of his first wife [[material.magdalena-heinroth]]. **Up until 1932, the couple reared specimens of virtually all native bird species from egg to adulthood in their staff lodgings at the Berlin Aquarium, documenting the birds' growth and observing their behavior.** Their findings were published in _Die Vögel Mitteleuropas in allen Lebens- u. Entwicklungsstufen photogr. aufgenommen u. in ihrem Seelenleben bei d. Aufzucht vom Ei ab beobachtet_, published in four volumes between 1924 and 1933.
 
-They gathered the observations in their apartment at the Berlin Aquarium. In 1904, the medical graduate had become an assistant at the Berlin Zoo. **In 1911, zoo director Ludwig Heck gave him the task of supervising the construction of the Aquarium. Heinroth designed it according to his own plans.** Soon after its opening in August 1913, it was already the most important institution of its kind . Oskar Heinroth suffered from a severe allergy caused by the dust created by the birds, which caused him to experience shortness of breath at night. Nevertheless, the couple continued with bird breeding.[^1] Oskar Heinroth is considered one of the founders of comparative behavioural research (ethology). He took all the photographs for his publications himself and was adept at presenting the findings of his research in a generally understandable way. After Magdalena Heinroth's death, he continued his research together with his second wife [[material.katharina-heinroth]].
+The observations for the study had been gathered in the couple's apartment at the Berlin Aquarium. Oskar Heinroth, a medical graduate, had become an assistant at Berlin Zoo in 1904. **In 1911, zoo director Ludwig Heck put him in charge of supervising the construction of the aquarium, which Heinroth designed himself.** Opened in August 1913, the aquarium soon became the most important institution of its kind. Oskar Heinroth's severe allergy to the dust created by the birds he kept caused him to have breathing problems at night. Nevertheless, the couple continued to breed birds.[^1] Oskar Heinroth is considered one of the founders of comparative behavioral research (ethology). He took all the photographs for his publications himself and was adept at presenting the findings of his research in an accessible way. After Magdalena Heinroth's death, he continued his research together with his second wife [[material.katharina-heinroth]].
 
 [^1]: Cf. Schulze-Hagen, Karl. _Die Vogel-WG: die Heinroths, ihre 1000 Vögel und die Anfänge der Verhaltensforschung. Deutsche Originalausgabe. Knesebeck Stories_. München: Knesebeck, 2020: 9.
 
@@ -62,3 +62,4 @@ Auf dem Foto ist Oskar August Heinroth (1871-1945) mit drei Uralkäuzen auf sein
 Die Beobachtungen machten sie in ihrer Wohnung im Berliner Zoo-Aquarium. 1904 war der studierte Mediziner Assistent am Berliner Zoo geworden. **Dort übertrug ihm Zoodirektor Ludwig Heck 1911 die Aufgabe, den Bau des Aquariums zu beaufsichtigen. Heinroth gestaltete es nach eigenen Plänen.** Bald nach dessen Eröffnung im August 1913 war es bereits das wichtigste Haus seiner Art . Oskar Heinroth litt aufgrund des von den Vögeln verursachten Staubs an einer starken Allergie, die bei ihm nächtliche Luftnot verursachte. Dennoch machte das Ehepaar mit der Vogelzucht weiter.[^1] Oskar Heinroth gilt als einer der Begründer der vergleichenden Verhaltensforschung (Ethologie). Er machte alle fotografischen Aufnahmen für seine Publikationen selbst und verstand es, die Ergebnisse seiner Forschung allgemeinverständlich aufzuarbeiten. Nach Magdalena Heinroths Tod, setzte er zusammen mit seiner zweiten Ehefrau [[material.katharina-heinroth]] die Forschungen fort.
 
 [^1]: Vgl. Schulze-Hagen, Karl. _Die Vogel-WG: die Heinroths, ihre 1000 Vögel und die Anfänge der Verhaltensforschung. Deutsche Originalausgabe. Knesebeck Stories_. München: Knesebeck, 2020: 9.
+
