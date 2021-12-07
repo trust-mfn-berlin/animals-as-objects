@@ -7,7 +7,7 @@ short_desc_de: Tiere im Besitz des Berliner Zoos 1920-1945
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Steinmetz-Index
-updated: 1629740178220
+updated: 1638901846854
 id: 2a309087-f165-4def-9c60-d835c7218077
 translators:
   translator_de_en: Lucy Gasser
@@ -38,17 +38,17 @@ _Steinmetz index card on pygmy hippopotami, around 1935. (AZGB. All rights reser
 
 </figure>
 
-The depicted index card of the Berlin Zoo’s so-called Steinmetz-Index records the stock of pygmy hippopotami (_Choeropsis liberiensis_). The first entry records the first Berlin pygmy hippopotamus, a purchase from Hans Schomburgk. **"1,0" in zoology denotes a male, "0,1" a female. The Latin abbreviation "iuv." represents a young animal. "K" indicates a purchase and "E.Z." a bred animal - that is, an animal born in a zoo.** The index card also indicates a trader. The animal had been delivered to the company Ruhe in Alfeld at a price of 4.000 Marks.
+The index card shown is from Berlin Zoo's Steinmetz Index and records the number of pygmy hippopotami (_Choeropsis liberiensis_) the zoo held. The initial entry indicates Berlin's first pygmy hippopotamus, purchased from Hans Schomburgk. **In zoology, "1,0" denotes a male, "0,1" a female. The Latin abbreviation "iuv." signifies a young animal. "K" indicates a purchase and "E.Z." a bred animal — that is, an animal born in a zoo.** The index card also gives the name of the trader: the animal was delivered to the company Ruhe in Alfeld for the price of 4,000 German marks.
 
-With a view to the departures, it is worth noting that individual animals were exchanged with other zoos. The index card also shows that during the war, a male was evacuated to the supposedly bomb-proof Leipzig Zoo. The word "attack", in turn, indicates that that first hippopotamus, acquired from Hans Schomburgk in 1924, was killed in the [[bombing of Berlin|material.list-of-dead-zoo-animals]] on 24 November 1943.
+Notably, the recorded departures indicate that individual animals were exchanged with other zoos. The index card also shows that during the war, a male was evacuated to Leipzig Zoo, which was supposedly bombproof. The word "attack", in turn, tells us that that first hippopotamus, acquired from Hans Schomburgk in 1924, was killed in the [[bombing of Berlin|material.list-of-dead-zoo-animals]] on 24 November 1943.
 
-The creator of this index was probably the zoologist Hermann Steinmetz (1898-1954), who worked as a senior assistant at the Berlin Zoo in the 1930s. Together with zoo director [[Lutz Heck|story.the-zoo-and-national-socialism]], he fled the city in the last days of the battle for Berlin. From 1948, Steinmetz was the first director of the Ruhr Zoo in Gelsenkirchen.
+This index was probably created by the zoologist Hermann Steinmetz (1898–1954), who worked as a senior assistant at Berlin Zoo in the 1930s. In the last days of the Battle of Berlin, he fled the city with zoo director [[Lutz Heck|story.the-zoo-and-national-socialism]]. Steinmetz was the first director of the Ruhr Zoo in Gelsenkirchen from 1948 onwards.
 
-During his time at the Berlin Zoo, he kept this index, which was subsequently internally dubbed the Steinmetz-Index. The index sometimes contains more detailed information on individual animals – departures through exchange, sale or death, and arrivals in form of gifts, purchases or births – than the annual zoo inventory kept in the [[Journale|material.journale-the-zoo-directory]] since the 1880s.
+During his time at Berlin Zoo, Steinmetz kept this index, which zoo staff subsequently dubbed the Steinmetz Index. The index sometimes contains more detailed information on individual animals than the annual zoo inventory kept in the [[Journale|material.journale-the-zoo-directory]] since the 1880s, for example on the reasons for an animal’s departure, whether through exchange, sale, or death, and whether a new arrival was in the form of a gift, purchase, or birth.
 
-**The advantage for the zoologists of the zoo and external researchers is that information regarding different years is summarized on a single card. This makes it possible to trace the lifespan of individual animals.** The card index was not maintained after Hermann Steinmetz’s escape, and thus represents only a snippet of the 175-year history of the Berlin Zoo.
+**Because individual cards consolidate information spanning several years, the index provides zoologists at the zoo and external researchers with a real advantage, as it makes it possible to trace how long each individual animal had been kept at the zoo and its lifespan.** The card index was not maintained after Hermann Steinmetz left, and thus represents only a snippet of Berlin Zoo's 175-year history.
 
-Today, most German zoos use the Zoological Information Management System software, or [[ZIMS|material.species360]] for short, to record arrivals and departures, as well as information on births. However, the Berlin Zoo continues to maintain the physical journals concurrently as a reference system.
+Nowadays most German zoos use the Zoological Information Management System software, or [[ZIMS|material.species360]] for short, to record arrivals and departures, as well as information on births. Berlin Zoo nonetheless continues to maintain the physical journals as a parallel reference system.
 
 :::DE:::
 
@@ -75,3 +75,4 @@ Während seiner Zeit im Berliner Zoo führte er diese Zettelkartei, die anschlie
 **Der Vorteil für die Zoolog\*innen des Zoos und externe Forscher\*innen liegt aber vor allem darin, dass die Informationen aus verschiedenen Jahrgängen auf einer Karte zusammengefasst wurden. Dadurch kann mitunter die Haltungs- oder Lebensdauer einzelner Tiere nachvollzogen werden.** Die Kartei wurde nach der Flucht von Hermann Steinmetz nicht fortgeführt und bildet damit nur einen Ausschnitt aus der 175-jährigen Geschichte des Berliner Zoos ab.
 
 Heute nutzen die meisten deutschen Zoos die Software Zoological Information Management System, kurz [[ZIMS|material.species360]] um Ein- und Abgänge sowie Informationen zu Geburten zu verzeichnen. Allerdings führt der Berliner Zoo die physischen Journale parallel als Referenzsystem weiter.
+
