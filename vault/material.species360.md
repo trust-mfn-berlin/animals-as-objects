@@ -1,28 +1,27 @@
 ---
-id: 690683a5-6845-4c80-bb3b-5771881bdca6
-title: Species360
-desc: Software for coordinating zoo animal keeping
-updated: 1636363430373
-created: 1620987484846
 license: CC BY-SA
 title_de: Species360
+created: 1620987484846
 author: Clemens Maier-Wolthausen
 short_desc_de: Software zur Koordination von Zootierhaltungen
-date_end: '2021-07-06T11:14:29.327Z'
+date_end: 2021-07-06T11:14:29.327Z
 published: false
+title: Species360
+updated: 1636363430373
+id: 690683a5-6845-4c80-bb3b-5771881bdca6
 translators:
   translator_de_en: Lucy Gasser
+desc: Software for the coordination of zoo animal collections
 desc_de: Software zur Koordination von Zootierhaltungen
-short_desc: Software for coordinating zoo animal keeping
+short_desc: Software for the coordination of zoo animal collections
 cover_image:
   image: /images/cover-species-360-logo.jpg
-  alt: >-
-    Species360 logo with stylised globe in the zero, and claim below: Global
+  alt: "Species360 logo with stylised globe in the zero, and claim below: Global
     information serving conservation. Species360 Logo mit stilisiertem Globus in
-    der Null, darunter Claim: Global information serving conservation.
-tao_type: material
-date_start: '1973-12-31T23:00:00.000Z'
+    der Null, darunter Claim: Global information serving conservation."
 colour_scheme: 0
+tao_type: material
+date_start: 1973-12-31T23:00:00.000Z
 ---
 
 :::EN:::
