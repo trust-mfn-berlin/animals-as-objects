@@ -7,7 +7,7 @@ short_desc_de: Futterlisten im Zoo der Nachkriegszeit
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Feeding List 1945
-updated: 1629743058652
+updated: 1638901099594
 id: R4t_2F3NY3xIuAnRoDG0T
 translators:
   translator_de_en: Lucy Gasser
@@ -28,21 +28,21 @@ colour_scheme: 4
 
 <figure>
 
-![Typewritten copy with headings: Animal holdings; Feed for the zoo for one month.](/images/mv/feed-requirements-futtermittelbedarf.jpg)
+![Typewritten copy with headings: Animal population; Feed for the zoo for one month.](/images/mv/feed-requirements-futtermittelbedarf.jpg)
 
 <figcaption>
 
-_List of feed requirements for the large animals of the Berlin Zoo from 18.09.1945. (AZGB. All rights reserved.)_
+_List of feed requirements for the large animals at Berlin Zoo from 18.09.1945. (AZGB. All rights reserved.)_
 
 </figcaption>
 
 </figure>
 
-Lists compiling respective feed requirements of different zoo animals are not just standard practice and routine in zoological gardens. They also provide insights into the history of a zoo – as they do here, with regard to the animal population and food situation at the Berlin Zoo in the post-war years. In order to secure and reorganise the feed supply after the end of the Second World War, it was first necessary to determine demand. **For this purpose, [[material.katharina-heinroth]], the zoo director at the time, submitted a monthly list of the feed requirements for her animals to the Haupternährungsamt, the main food office of the city, which was responsible for procuring feed.** These lists were essential to keeping the zoo animals alive, as Katharina Heinroth and her staff could not feed the animals on their own. The lists are thus indicative of the existing administrative connections with the Berlin authorities, and simultaneously reveal something about the development of the zoo's animal population. After the end of the war, the zoo only had about 80 animals, but through exchanges and gifts of animals from the people of Berlin, and a circus, this number had already risen to 240 by the autumn of 1945. However, after the Allied command imposed a ban on any further acquisitions of large animals for the zoo in November 1945, due to the precarious food situation in the city, the demand for feed remained relatively stable in the following years.
+Lists compiling the respective feed requirements of different zoo animals are not just part of the routine and standard practice in zoological gardens. They also provide insights into the history of a zoo — as they do here, with regard to the animal population and food supply situation at Berlin Zoo in the postwar years [[material.winter-hardship-at-the-zoo]]. In order to secure and reorganize the feed supply after the end of the Second World War, it was first necessary to determine what was needed. For this purpose, [[material.katharina-heinroth]], the zoo director at the time, submitted a monthly list of the feed requirements for her animals to the _Haupternährungsamt_, the main food authority of the city, which was responsible for procuring feed. These lists were essential for keeping the zoo animals alive, as Katharina Heinroth and her staff could not feed the animals on their own. The lists are thus indicative of the zoo's administrative relationship with the Berlin authorities, and simultaneously tell us something about the development of the zoo's animal population [[material.list.of.dead-zoo-animals]]. After the end of the war, the zoo only had about 80 animals, but thanks to animal exchanges and gifts from a circus and from the people of Berlin, this number had already risen to 240 by the fall of 1945. However, in November 1945, due to the precarious food supply situation in the city, the Allied command banned any further acquisition of large animals for the zoo [[story.food-scarcity]]. The demand for feed thus remained relatively stable in the following years.
 
-The feed issue came to the fore again during the Berlin Blockade from June 1948 to May 1949, when the city confronted major shortages in the procurement of both food and feed. The listed requirements could no longer be met. **Although the relevant senator for food and nutrition allocated foodstuffs that had become unusable to the zoo for feeding purposes, Heinroth and her staff neither had sufficient feed, nor could they bring in hay, beets and carrots from the zoo's own leased land in the surrounding countryside, which was now in the Russian sector.** Oats, bran and seeds thus had to be flown in during the blockade. A forestry director, in turn, leased twelve hectares of land in the Grunewald to the zoo, on which zoo workers were able to grow green fodder after clearing the bullet-pocked tree stumps.[^1]
+The feed issue came to a head again during the Berlin Blockade from June 1948 to May 1949, when the city faced major shortages in food provisions for both humans and animals. The requirements listed could no longer be met. Although the senator responsible for food and nutrition allocated foodstuffs that had become unsuitable for human consumption to the zoo for feeding purposes, Heinroth and her staff neither had sufficient feed, nor could they bring in hay, beets, and carrots from the zoo's own leased land in the surrounding countryside, which was now in the Russian sector. Oats, bran, and seeds thus had to be flown in during the blockade. However, a forestry director leased twelve hectares of land in the Grunewald to the zoo, enabling zoo workers to grow green fodder once they had cleared away the bullet-pocked tree stumps.[^1]
 
-At the beginning of the 1950s, when not only the animal trade took off again, but also the food situation in the Berlin area eased, Katharina Heinroth and her co-workers were once more able to procure sufficient feed, and new animals.[^2] With the increasing holdings, the monthly demand for feed grew accordingly. The lists are thus not least indicative of times of crisis and economic circumstance.
+In the early 1950s, when not only was there an upturn in the animal trade, but also the food supply situation in the Berlin area eased, Katharina Heinroth and her co-workers were once more able to procure sufficient feed and acquire new animals.[^2] As the zoo's population grew, there was a corresponding increase in the monthly feed requirements. The lists are thus especially useful as indicators of times of crisis and economic circumstances.
 
 ## Transcript
 
@@ -50,11 +50,11 @@ At the beginning of the 1950s, when not only the animal trade took off again, bu
 >
 >Stock Association of the Zoological Garden of Berlin
 >
->Animal Holdings of the Zoological Garden of Berlin
+>Animal Population of the Zoological Garden of Berlin
 >
 >on 18.9.1945
 >
->in total 240 animals.
+>240 animals in total,
 >
 > including the following large animals:
 >
@@ -62,15 +62,15 @@ At the beginning of the 1950s, when not only the animal trade took off again, bu
 >
 >(Small animals are not listed, nor are monkeys, birds, dogs, porcupines, etc.)
 >
->Feed for the zoo for one month
+>Zoo feed for one month
 >
->hay 3000 kg / straw 1000 kg / beets 3500 kg / bran 500 kg / compound feed 1500 kg / grain feed 300 kg / bread scraps 400 kg / chaff 450 kg / oats 300 kg / dog biscuits 200 kg / vegetables 540 kg / fruit 250 kg / meat scraps 550 kg / horse meat 650 kg / feed potatoes 600 kg / carrots 150 kg / pastry goods 35 kg / oat flakes 100 kg / sunflower seeds 35 kg / canary seed 15 kg / hemp 15 kg / white bread or flower 15 kg / millet 15 kg / sugar 10 kg
+>hay 3000 kg / straw 1000 kg / beets 3500 kg / bran 500 kg / compound feed 1500 kg / grain feed 300 kg / bread scraps 400 kg / chaff 450 kg / oats 300 kg / dog biscuits 200 kg / vegetables 540 kg / fruit 250 kg / meat scraps 550 kg / horse meat 650 kg / fodder potatoes 600 kg / carrots 150 kg / pastry goods 35 kg / oats 100 kg / sunflower seeds 35 kg / canary seed 15 kg / hemp 15 kg / white bread or flour 15 kg / millet 15 kg / sugar 10 kg
 >
->The correctness of this information is guaranteed by
+>The accuracy of this information is guaranteed by
 >
 >signed.
 
-[^1]: Cf. Katharina Heinroth, report on the period from 01.01.1948 to 31.12.1950 at the general assembly of the Actien-Verein des Zoologischen Gartens Berlin, the stock association of the Berlin Zoological Garden, 21.05.1951, AZGB; Heinroth, Katharina. _Mit Faltern begann's. Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 169-170.
+[^1]: Cf. Katharina Heinroth, report on the period from 01.01.1948 to 31.12.1950 at the general assembly of the stock association of the Berlin Zoological Garden (Actien-Verein des Zoologischen Gartens Berlin), 21.05.1951, AZGB; Heinroth, Katharina. _Mit Faltern begann's. Mein Leben mit Tieren in Breslau, München und Berlin_. Munich: Kindler, 1979: 169-170.
 
 [^2]: Cf. K. Heinroth to U. Bergman, 07.03.1950, AZGB N 4/12.
 
@@ -88,11 +88,11 @@ _Auflistung des Futtermittelbedarfs für die Großtiere des Berliner Zoos vom 18
 
 </figure>
 
-Listen, die den jeweiligen Bedarf an Futtermitteln von Zootieren abbilden, gehören nicht nur zur Praxis und Routine in zoologischen Gärten. Sie geben auch Einblicke in die Geschichte eines Zoos – wie hier in die Tierbestände und die Ernährungslage des Berliner Zoos in den Nachkriegsjahren. Um die Futtermittelversorgung nach dem Ende des Zweiten Weltkriegs zu sichern und neu zu regeln, musste zuerst einmal der Bedarf festgestellt werden. **Jeden Monat reichte die damalige Zoodirektorin [[material.katharina-heinroth]] daher beim Haupternährungsamt, das für die Futtermittelbeschaffung zuständig war, eine Auflistung des Futtermittelbedarfs für ihre Tiere ein.** Diese Listen waren für die Zootiere existentiell, da Katharina Heinroth und ihre Mitarbeiter\*innen die Tiere allein nicht ernähren konnten. Sie verweisen damit auf die administrativen Verbindungen zu den Berliner Behörden und verraten zugleich etwas über die Entwicklung des Tierbestands im Garten. Nach Ende des Krieges zählte der Zoo nur noch rund 80 Tiere. Durch den Tausch von Tieren und zahlreiche Tiergeschenke aus der Berliner Bevölkerung und von einem Zirkus stieg diese Zahl im Herbst 1945 aber bereits wieder auf 240. Nachdem die Alliierte Kommandantur dem Zoo aber im November 1945 wegen der schlechten Ernährungslage der Stadt ein Anschaffungsverbot für Großtiere auferlegt hatte, blieb der Futtermittelbedarf in den folgenden Jahren relativ stabil.
+Listen, die den jeweiligen Bedarf an Futtermitteln von Zootieren abbilden, gehören nicht nur zur Praxis und Routine in zoologischen Gärten. Sie geben auch Einblicke in die Geschichte eines Zoos – wie hier in die Tierbestände und die Ernährungslage des Berliner Zoos in den Nachkriegsjahren [[material.winter-hardship-at-the-zoo]]. Um die Futtermittelversorgung nach dem Ende des Zweiten Weltkriegs zu sichern und neu zu regeln, musste zuerst einmal der Bedarf festgestellt werden. Jeden Monat reichte die damalige Zoodirektorin [[material.katharina-heinroth]] daher beim Haupternährungsamt, das für die Futtermittelbeschaffung zuständig war, eine Auflistung des Futtermittelbedarfs für ihre Tiere ein. Diese Listen waren für die Zootiere existentiell, da Katharina Heinroth und ihre Mitarbeiter\*innen die Tiere allein nicht ernähren konnten. Sie verweisen damit auf die administrativen Verbindungen zu den Berliner Behörden und verraten zugleich etwas über die Entwicklung des Tierbestands im Garten [[material.list.of.dead-zoo-animals]]. Nach Ende des Krieges zählte der Zoo nur noch rund 80 Tiere. Durch den Tausch von Tieren und zahlreiche Tiergeschenke aus der Berliner Bevölkerung und von einem Zirkus stieg diese Zahl im Herbst 1945 aber bereits wieder auf 240. Nachdem die Alliierte Kommandantur dem Zoo aber im November 1945 wegen der schlechten Ernährungslage der Stadt ein Anschaffungsverbot für Großtiere auferlegt hatte, blieb der Futtermittelbedarf in den folgenden Jahren relativ stabil [[story.food-scarcity]].
 
-Die Futterfrage verschärfte sich erneut während der Berlin-Blockade von Juni 1948 bis Mai 1949, als es zu großen Engpässen in der Lebensmittel- und Futterbeschaffung kam. Der aufgelistete Bedarf konnte nicht mehr gedeckt werden. **Obwohl der zuständige Ernährungssenator dem Zoo unbrauchbar gewordene Nahrungsmittel zu Futterzwecken zuwies, hatten Heinroth und ihre Mitarbeiter\*innen weder ausreichend Futtermittel, noch konnten sie Heu, Futterrüben und Möhren von den Pachtflächen des Zoos im Umland einfahren, die nun im russischen Sektor lagen.** Hafer, Kleie und Sämereien mussten daher während der Blockade eingeflogen werden. Ein Forstdirektor wiederum verpachtete dem Zoo zwölf Hektar Land im Grunewald, auf dem die Zoomitarbeiter\*innen, nachdem sie die zerschossenen Baumstubben gerodet hatten, Grünfutter anbauen konnten.[^1]
+Die Futterfrage verschärfte sich erneut während der Berlin-Blockade von Juni 1948 bis Mai 1949, als es zu großen Engpässen in der Lebensmittel- und Futterbeschaffung kam. Der aufgelistete Bedarf konnte nicht mehr gedeckt werden. Obwohl der zuständige Ernährungssenator dem Zoo unbrauchbar gewordene Nahrungsmittel zu Futterzwecken zuwies, hatten Heinroth und ihre Mitarbeiter\*innen weder ausreichend Futtermittel, noch konnten sie Heu, Futterrüben und Möhren von den Pachtflächen des Zoos im Umland einfahren, die nun im russischen Sektor lagen. Hafer, Kleie und Sämereien mussten daher während der Blockade eingeflogen werden. Ein Forstdirektor wiederum verpachtete dem Zoo zwölf Hektar Land im Grunewald, auf dem die Zoomitarbeiter\*innen, nachdem sie die zerschossenen Baumstubben gerodet hatten, Grünfutter anbauen konnten.[^1]
 
-Anfang der 1950er Jahre, als nicht nur der Tierhandel neuen Aufschwung nahm, sondern sich auch die Ernährungslage im Raum Berlin entspannte, konnten Katharina Heinroth und ihre Mitarbeiter\*innen wieder ausreichend Futter und neue Tiere beschaffen.[^2] Mit dem wachsenden Tierbestand wuchs entsprechend der monatliche Futtermittelbedarf. Die Listen sind damit nicht zuletzt Indikatoren von Krisenzeiten und Konjunkturen.
+Anfang der 1950er-Jahre, als nicht nur der Tierhandel neuen Aufschwung nahm, sondern sich auch die Ernährungslage im Raum Berlin entspannte, konnten Katharina Heinroth und ihre Mitarbeiter\*innen wieder ausreichend Futter und neue Tiere beschaffen.[^2] Mit dem wachsenden Tierbestand wuchs entsprechend der monatliche Futtermittelbedarf. Die Listen sind damit nicht zuletzt Indikatoren von Krisenzeiten und Konjunkturen.
 
 ## Transkript
 
