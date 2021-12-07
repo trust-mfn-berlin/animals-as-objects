@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Labels and Knowledge
 title_de: Etikettenwissen
 created: 1629109985448
-updated: 1638890493281
+updated: 1638890644894
 id: K2rQQdv1K7aDMUi5gDHcN
 author: Mareike Vennen
 desc: Material traces of the relationship between museum and zoo
@@ -27,7 +27,7 @@ colour_scheme: 2
 
 <figure>
 
-![A yellowed, punched paper card with stains and preprinted text at the top: Zoologischer Garten Berlin – B5 Barbarossa 9014 / To. Handwritten: Natural History Museum / Invaliden-Str.]( images/Etiketten-Pohle-S004-02-05-96-020-v.jpg)
+![A yellowed, punched paper card with stains and preprinted text at the top: Zoologischer Garten Berlin – B5 Barbarossa 9014 / To. Handwritten: Natural History Museum / Invaliden-Str.](/images/Etiketten-Pohle-S004-02-05-96-020-v.jpg)
 
 <figcaption>
 
