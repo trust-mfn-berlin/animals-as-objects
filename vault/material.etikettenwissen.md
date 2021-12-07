@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Labels and Knowledge
 title_de: Etikettenwissen
 created: 1629109985448
-updated: 1635150412752
+updated: 1638890493281
 id: K2rQQdv1K7aDMUi5gDHcN
 author: Mareike Vennen
 desc: Material traces of the relationship between museum and zoo
@@ -37,7 +37,7 @@ _A mobile thing of knowledge: In the 1920s and 1930s, labels like this were atta
 
 </figure>
 
-A discovery: a pile of old tags from Berlin Zoological Garden, most of them from the 1920s and 1930s, that had been filed in a folder in the archive of the Berlin Museum of Natural History containing letters that had been sent between the Zoological Museum and the Zoological Garden back then. These labels, which were attached to the animals as "accompanying documents" when they left the zoo after their deaths, are material traces of the relationship between the zoo and the museum at the time. What can they tell us? 
+A discovery-hallo!: a pile of old tags from Berlin Zoological Garden, most of them from the 1920s and 1930s, that had been filed in a folder in the archive of the Berlin Museum of Natural History containing letters that had been sent between the Zoological Museum and the Zoological Garden back then. These labels, which were attached to the animals as "accompanying documents" when they left the zoo after their deaths, are material traces of the relationship between the zoo and the museum at the time. What can they tell us? 
 
 <figure>
 
