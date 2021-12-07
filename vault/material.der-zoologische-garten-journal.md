@@ -2,7 +2,7 @@
 id: cdaa8a05-6456-4b87-a663-c755790440d3
 title: Der Zoologische Garten (journal)
 desc: Scientific research exchange between zoos
-updated: 1629737556961
+updated: 1638900039185
 created: 1618496596303
 license: CC BY-SA
 title_de: Der Zoologische Garten (Zeitschrift)
@@ -30,31 +30,31 @@ colour_scheme: 7
 
 <div class="series">
 
-![Cover page of Der Zoologische Garten with photograph of a harpy](images/cmw/ZG_1933.jpg)
+![Cover page of _Der Zoologische Garten_ with photograph of a harpy](images/cmw/ZG_1933.jpg)
 
-![Cover page of Der Zoologische Garten with photograph of a rhinoceros](images/cmw/ZG_1961.jpg)
+![Cover page of _Der Zoologische Garten_ with photograph of a rhinoceros](images/cmw/ZG_1961.jpg)
 
-![Cover page of Der Zoologische Garten with photograph of a possum](images/cmw/ZG_2015.jpg)
+![Cover page of _Der Zoologische Garten_ with photograph of a possum](images/cmw/ZG_2015.jpg)
 
 </div>
 
 <figcaption>
 
-_Cover pages of the journal_ Der Zoologische Garten _from 1933, 1961 and 2015._
+_Cover pages of the journal_ Der Zoologische Garten _from 1933, 1961, and 2015._
 
 </figcaption>
 
 </figure>
 
-Zoo managers in Germany and all over the world were and are dependent on the exchange of information between one another. Much of the information that is important for keeping animals in human care could not and still cannot be obtained from the general zoological and biological literature.
+Zoo managers in Germany and around the world have always depended on exchanging information. Then, as now, much of the most important information required for the care of animals cannot be found in the general zoological and biological literature. 
 
-This was very much the case in the second half of the 19th century, when many zoos were being founded. At that time, knowledge concerning proper housing conditions and appropriate feeding of zoo animals was very limited. Often, the first thing that had to be done was determining the species of the incoming animal. **It was very important that the small circle of zoo directors – at the time all of them still male – had the benefit of exchanging observations and tips on successful, i.e. long-standing, housing conditions and practices.**
+This was particularly the case during the second half of the 19th century when many zoos were being established. At the time, knowledge about proper housing conditions and the correct way to feed zoo animals was very limited. Often the first order of business was to determine the species of the incoming animal. **It was very important for the small circle of zoo directors — at the time all of them still male — to have the benefit of exchanging observations and tips on successful animal husbandry practices, i.e., those which prolonged the lives of the animals.**
 
-As a consequence, in 1859, the still young zoo in Frankfurt am Main began publishing a journal called _Der Zoologische Garten_. In 1888, the subtitle "Mouthpiece of the Zoological Gardens of Germany" was added. More than scientific research, it was primarily concerned with zoo animal keeping practices.
+Consequently, in 1859, the recently established zoo in Frankfurt am Main began publishing a journal called _Der Zoologische Garten_. In 1888, they added the subtitle "Mouthpiece of the Zoological Gardens of Germany". The journal was primarily concerned with zoo animal husbandry, rather than with scientific research.
 
-Publication of _Der Zoologische Garten_ resumed after the Second World War, under the editorship of the Leipzig Zoo. From the 1950s, the journal became the representative platform of the Association of German Zoo Directors/Association of Zoological Gardens, as well as for the World Association of Zoos and Aquariums. After being discontinued again in 2018, it was relaunched as _Der Zoologischer Garten. Zeitschrift für die gesamte Tiergärtnerei_ in 2019, and will again be published as the mouthpiece for both associations.
+From the 1950s, the journal became the representative platform of the Association of German Zoo Directors/Association of Zoological Gardens, as well as of the World Association of Zoos and Aquariums. After being discontinued again in 2018, the journal was relaunched in 2019, and has since served as the mouthpiece for both associations, under the title _Der Zoologischer Garten. Zeitschrift für die gesamte Tiergärtnerei_.
 
-Contributions for the most part cover topics such as the breeding of animals in human care, veterinary medicine, as well as ethology and zoo architecture. **As has always been the case, the focus of many contributions is on practices.** This is likely related to the fact that even today the research literature on domestic and small animal keeping is much more extensive than that on zoo animal keeping, and there is thus need of a medium for exchange.
+The contributions to the journal tend to discuss subjects such as the breeding of animals in human care, veterinary medicine, ethology, and zoo architecture. **As has always been the case, the majority of articles focus on the writer’s own practical experience.** This is probably related to the fact that even today, the research literature on keeping domestic and small animals is much more extensive than that which addresses zoo animal husbandry, and there is thus a need for a means of exchange in this field.
 
 :::DE:::
 
@@ -84,6 +84,7 @@ Das war insbesondere in der Hochzeit der Zoogründungen in der zweiten Hälfte d
 
 1859 gab daher der noch junge Zoo in Frankfurt am Main eine Zeitschrift namens _Der Zoologische Garten_ heraus. 1888 wurde der Untertitel "Organ der Zoologischen Gärten Deutschlands" hinzugefügt. Mehr als um Wissenschaft ging es vor allem um Praktiken der Zootierhaltung.
 
-Auch nach dem Zweiten Weltkrieg erschien _Der Zoologische Garten_ wieder, nun unter der Herausgeberschaft des Leipziger Zoos. Ab den 1950er Jahren wurde die Zeitschrift das Fachorgan für den Verband deutscher Zoodirektoren/ Verband der Zoologischen Gärten sowie für den internationalen Verband World Association of Zoos and Aquariums. Nach erneuter Einstellung 2018 wird sie seit 2019 als _Der Zoologischer Garten. Zeitschrift für die gesamte Tiergärtnerei_ wieder als das Organ beider Verbände veröffentlicht.
+Nach dem Zweiten Weltkrieg erschien _Der Zoologische Garten_ unter der Herausgeberschaft des Leipziger Zoos. Ab den 1950er Jahren wurde die Zeitschrift das Fachorgan für den Verband deutscher Zoodirektoren/ Verband der Zoologischen Gärten sowie für den internationalen Verband World Association of Zoos and Aquariums. Nach erneuter Einstellung 2018 wird sie seit 2019 als _Der Zoologischer Garten. Zeitschrift für die gesamte Tiergärtnerei_ wieder als das Organ beider Verbände veröffentlicht.
 
 Die Beiträge behandeln vor allem Themen wie die Zucht von Tieren in menschlicher Obhut, Veterinärmedizin sowie Ethologie und Zooarchitektur. **Nach wie vor stehen Berichte über eigenen Praktiken im Fokus vieler Beiträge.** Das hat sicher etwas damit zu tun, dass auch heute noch die Fachliteratur zu Nutztier- und Kleintierhaltung wesentlich umfangreicher ist als die zur Zootierhaltung und daher ein Austauschmedium benötigt wird.
+
