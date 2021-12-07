@@ -1,39 +1,36 @@
 ---
-id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
-title: The Zoo and National Socialism
-desc: >-
-  Under the National Socialist dictatorship, the zoo management and supervisory
-  board offered themselves up to the regime. The zoo became an instrument of
-  propaganda for the National Socialists and excluded Jewish visitors. The zoo
-  director was well connected to the regime's elite. During the war, forced
-  labourers were exploited.
-updated: 1629740014339
-created: 1619020958263
 license: CC BY-SA
 title_de: Der Zoo im Nationalsozialismus
+created: 1619020958263
 author: Clemens Maier-Wolthausen
 short_desc_de: Propagandainstrument und Zwangsarbeit
-date_end: '1945-12-31T11:00:00.000Z'
+date_end: 1945-12-31T11:00:00.000Z
 published: false
+title: The Zoo and National Socialism
+updated: 1629740014339
+id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 translators:
   translator_de_en: Lucy Gasser
-desc_de: >-
-  In der Zeit der nationalsozialistischen Diktatur boten sich Zooleitung und
-  Aufsichtsrat dem Regime an. Der Zoo wurde zu einem Propagandainstrument der
-  Nationalsozialisten und schloss jüdische Besucher\*innen aus. Der Zoodirektor
-  war mit der Elite des Regimes gut vernetzt. Während des Krieges wurden
-  Zwangsarbeiter ausgebeutet.
+desc: During the National Socialist dictatorship, the zoo’s management and
+  supervisory board made themselves available to the regime however they could.
+  The zoo became an instrument of National Socialist propaganda, and excluded
+  Jewish visitors. The zoo director was well connected to the regime's elite. In
+  wartime, the zoo exploited forced labor.
+desc_de: In der Zeit der nationalsozialistischen Diktatur boten sich Zooleitung
+  und Aufsichtsrat dem Regime an. Der Zoo wurde zu einem Propagandainstrument
+  der Nationalsozialisten und schloss jüdische Besucher\*innen aus. Der
+  Zoodirektor war mit der Elite des Regimes gut vernetzt. Während des Krieges
+  wurden Zwangsarbeiter ausgebeutet.
 short_desc: Propaganda instrument and forced labour
 cover_image:
   image: /images/cover-zoo-in-nazi-regime.jpg
-  alt: >-
-    Nazi zoo director Lutz Heck (left) and probably his driver in front of the
+  alt: 'Nazi zoo director Lutz Heck (left) and probably his driver in front of the
     service vehicle of the "Reichsjagdamt", the Reich Hunting Authority, 1939.
     Nazi Zoodirektor Lutz Heck (li.) und wahrscheinlich sein Fahrer vor dem
-    Dienstwagen des Reichsjagdamtes, 1939. Source: AZGB. All rights reserved.
-tao_type: story
-date_start: '1932-12-31T23:00:00.000Z'
+    Dienstwagen des Reichsjagdamtes, 1939. Source: AZGB. All rights reserved.'
 colour_scheme: 7
+tao_type: story
+date_start: 1932-12-31T23:00:00.000Z
 ---
 
 :::EN:::
