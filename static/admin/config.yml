@@ -3,7 +3,7 @@ backend:
   base_url: http://116.203.68.230:3000
   site_domain: animalsasobjects.org
   repo: trust-mfn-berlin/animals-as-objects
-  branch: master
+  branch: content-creation
 
 media_folder: vault/images
 public_folder: /images
