@@ -6,7 +6,7 @@ author: Clemens Maier-Wolthausen
 short_desc_de: Tiere im Besitz des Berliner Zoos 1920-1945
 date_end: 1945-12-31T11:00:00.000Z
 published: false
-title: Steinmetz-Index
+title: Steinmetz Index
 updated: 1629740178220
 id: 2a309087-f165-4def-9c60-d835c7218077
 translators:
