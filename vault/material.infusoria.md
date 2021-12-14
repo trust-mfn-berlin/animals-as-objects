@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Infusoria
 title_de: Infusorien
 created: 1618493065699
-updated: 1639503922139
+updated: 1639504309775
 id: 5df12377-545a-45f9-9cd3-04fb8e499fb1
 author: Filippo Bertoni
 translators:
@@ -27,7 +27,7 @@ Infusoria was the term used by early naturalists to describe microscopic organis
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PKMUJdn09OU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_This video introduces infusoria through the massive collection of Ehrenberg’s fascinating illustrations held in the Museum fur Naturkunde Berlin. It is part of the interesting series called “Journey to the microcosmos” available online for free here: https://www.youtube.com/c/microcosmos_
+_This video introduces infusoria through the massive collection of Ehrenberg’s fascinating illustrations held in the Museum für Naturkunde Berlin. It is part of the interesting series called “Journey to the microcosmos” available online for free here: https://www.youtube.com/c/microcosmos_
 
 [^1]: See Churchill, Frederick B. "The guts of the matter. Infusoria from Ehrenberg to Bütschli: 1838–1876." _Journal of the History of Biology_ 22, no. 2 (1989): 189-213. https://doi.org/10.1007/BF00139512. 
 
