@@ -1,15 +1,19 @@
 ---
 license: CC BY-SA
-title: Labels and Knowledge
 title_de: Etikettenwissen
 created: 1629109985448
+author: Mareike Vennen
+short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
+date_end: 1935-01-01T10:48:28.706Z
+published: false
+title: Labels and Knowledge
 updated: 1636363972168
 id: K2rQQdv1K7aDMUi5gDHcN
-author: Mareike Vennen
+translators:
+  translator_de_en: Carla Welch
 desc: Material traces of the relationship between museum and zoo
 desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 short_desc: Material traces of the relationship between museum and zoo
-short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 cover_image:
   image: /images/Etiketten-Pohle-S004-02-05-96-020-v.jpg
   alt: "A yellowed, punched paper card with stains and preprinted text at the top:
@@ -17,11 +21,9 @@ cover_image:
     History Museum / Invaliden-Str. Vergilbte, gelochte Papierkarte mit Flecken.
     Vordruck oben: Zoologischer Garten Berlin – B5 Barbarossa 9014 / An.
     Handschriftlich: Naturkunde Museum / Invaliden-Str."
+colour_scheme: 0
 tao_type: material
 date_start: 1920-01-01T10:48:28.702Z
-date_end: 1935-01-01T10:48:28.706Z
-published: false
-colour_scheme: 0
 ---
 
 
