@@ -10,10 +10,11 @@ translators:
   translator_de_en: ""
   translator_en_de: Jan-Peter Herrmann
 desc: Cylindrical samples obtained by drilling into sediment or other materials
-desc_de: Put a DE description of this note here...
+desc_de: Zylinderförmige Kernproben, die durch Bohrungen in Sedimentschichten
+  und anderen Untergrundmaterialien gewonnen wurden.
 short_desc: Cylindrical samples obtained by drilling into sediment or other materials
-short_desc_de: Cylindrical samples obtained by drilling into sediment or other
-  materials_DE fehlt!
+short_desc_de: Zylinderförmige Kernproben, die durch Bohrungen in
+  Sedimentschichten und anderen Untergrundmaterialien gewonnen wurden.
 cover_image: null
 colour_scheme: 11
 tao_type: material
