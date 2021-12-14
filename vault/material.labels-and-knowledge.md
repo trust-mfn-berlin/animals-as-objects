@@ -1,20 +1,21 @@
 ---
-license: CC BY-SA
-title: Labels and Knowledge
-title_de: Etikettenwissen
-created: 1629109985448
-updated: 1638890737594
 id: K2rQQdv1K7aDMUi5gDHcN
-author: Mareike Vennen
+title: Labels and Knowledge
 desc: Material traces of the relationship between museum and zoo
+updated: 1638890737594
+created: 1629109985448
+license: CC BY-SA
+title_de: Etikettenwissen
+author: Mareike Vennen
 desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 short_desc: Material traces of the relationship between museum and zoo
 short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 cover_image:
   image: /images/Arbeitsszene-Etiketten-Pohle-2.jpg
-  alt: "Archive work: piles of yellowed labels and documents beside a file and a
+  alt: |-
+    Archive work: piles of yellowed labels and documents beside a file and a
     pen. Stapel zahlreicher, vergilbter Etiketten und Zettel neben Mappe und
-    Stift."
+    Stift.
 tao_type: material
 date_start: 1920-01-01T10:48:28.702Z
 date_end: 1935-01-01T10:48:28.706Z
@@ -242,7 +243,7 @@ _Etikett als Gebrauchsanweisung: Die Instruktionen zeigen, welche Körperteile e
 
 </figure>
 
-Instruktionen wie "Bitte Decke und Schädel dem Museum überweisen" geben Hinweise darauf, wie mit den Objekten verfahren wurde und wofür sie verwendet wurden, also auf die Gebrauchspraktiken wie sie etwa auch in den [[Tagebüchern des Zoologischen Museums|material.tagebuecher-des-zoologischen-museums]] vorkommen. Auch hier gab es Verzögerungen, Unfälle und Missverständnisse. [[story.Die Ungezählten]] Gerade sie verraten uns etwas über die Herausforderungen, die damals beim Transfer vom Zoo ins Museum und bei der Transformation von einem lebenden Zootier in ein präpartiertes Museumsobjekt auftreten konnten; an welchen Stellen Wissenstransfers funktionierten oder aber Informationsflüsse stockten.
+Instruktionen wie "Bitte Decke und Schädel dem Museum überweisen" geben Hinweise darauf, wie mit den Objekten verfahren wurde und wofür sie verwendet wurden, also auf die Gebrauchspraktiken wie sie etwa auch in den [[Tagebüchern des Zoologischen Museums|material.logbooks-of-the-zoological-museum]] vorkommen. Auch hier gab es Verzögerungen, Unfälle und Missverständnisse. [[story.Die Ungezählten]] Gerade sie verraten uns etwas über die Herausforderungen, die damals beim Transfer vom Zoo ins Museum und bei der Transformation von einem lebenden Zootier in ein präpartiertes Museumsobjekt auftreten konnten; an welchen Stellen Wissenstransfers funktionierten oder aber Informationsflüsse stockten.
 
 [^1]: Seit Gründung der Freien Universität Berlin 1960 übernahm die Veterinärmedizinische Fakultät der Universität die Sektion oder das Leibniz-Institut für Zoo- und Wildtierforschung (IZW).
 
