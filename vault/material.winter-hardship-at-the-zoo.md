@@ -3,7 +3,7 @@ license: CC BY-SA
 title_de: Wintersnot im Zoo
 created: 1635149269643
 author: Mareike Vennen
-short_desc_de: Put a DE description of this note here...
+short_desc_de: "Ein Gedicht zur Lage "
 date_end: 1948-10-25T09:34:00.000Z
 published: false
 title: Winter Hardship at the Zoo
@@ -11,9 +11,9 @@ updated: 1635149485098
 id: QNjsPsf49gtoKwbK4WauU
 translators:
   translator_de_en: Carla Welch
-desc: Put a description of this note here...
-desc_de: Put a DE description of this note here...
-short_desc: Put a description of this note here...
+desc: A poem from 1948
+desc_de: "Ein Gedicht zur Lage "
+short_desc: A poem from 1948
 cover_image:
   image: /images/wintersnot.jpg
   alt: A typewritten poem on a punched piece of paper signed "K. Ferber" with a
