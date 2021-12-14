@@ -14,8 +14,8 @@ cover_image:
   image: /images/premantier_mauerhunde1_copyright_tvb-1-.jpg
 colour_scheme: 11
 tao_type: material
-date_start: ""
-date_end: ""
+date_start: 1961-01-02T13:05:27.132Z
+date_end: 1990-02-01T13:05:27.153Z
 published: false
 ---
 
