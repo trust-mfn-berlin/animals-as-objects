@@ -1,17 +1,31 @@
 ---
-id: 796e4da7-c573-401f-a165-7bd9c3a503c6
-title: Of Microbes and Planets
-desc: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-updated: 1621604224896
-created: 1621522603135
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Über Mikroben und Planeten
+created: 1621522603135
+author: Filippo Bertoni
+short_desc_de: Mikroorganismen sind grundlegend und lebenswichtig für die
+  dynamischen Prozesse unseres Planeten
+date_end: 2021-12-14T14:34:55.503Z
 published: false
+title: Of Microbes and Planets
+updated: 1621604224896
+id: 796e4da7-c573-401f-a165-7bd9c3a503c6
+translators:
+  translator_en_de: Jan-Peter Herrmann
+desc: The study of micropaleontology in the oceans helped to recognize the
+  importance of microorganisms for planetary dynamics. Following the history of
+  these studies, and the theories they allowed to formulate, shows the deep
+  connections between microbes and planets.
+desc_de: Die Mikropaläontologische Arbeit auf den Weltmeeren hat dazu
+  beigetragen, die Bedeutung der Mikroorganismen für planetare Dynamiken zu
+  erkennen. Die Geschichte dieser Forschung und der Theorien, die sie zu
+  formulieren ermöglichte, verdeutlicht die tieferen Verbindungen zwischen
+  Mikroben und Planeten.
+short_desc: Microorganisms are fundamental and vital for the dynamics of our planet
+cover_image: null
 colour_scheme: 4
+tao_type: story
+date_start: 1971-01-01T14:30:44.684Z
 ---
 
 :::EN:::
