@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Core Samples
 title_de: Kernproben
 created: 1629110227049
-updated: 1639502580332
+updated: 1639503606828
 id: 02wCHNiTRZ4Zkq2cO9Cpv
 author: Filippo Bertoni
 translators:
@@ -48,7 +48,11 @@ This commenced a concerted effort to gather samples for reconstructing the histo
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mdrWbd1F9Qw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<figcaption>
+
 _A video showing the work of collecting and studying core samples through [[material.radiolaria]] on board of the [[story.deep-sea-drilling.md]] vessel_ JOIDES Resolution.
+
+</figcaption>
 
 [^1]: You can learn more about core samples also by exploring the mineralogical collections of the Museum fur Naturkunde Berlin: https://www.museumfuernaturkunde.berlin/en/science/geochemical-and-microanalytical-laboratories and https://www.museumfuernaturkunde.berlin/en/science/rock-and-ore-collection. 
 
@@ -76,9 +80,11 @@ Dies setzte umfassende, konzertierte Bemühungen zum Sammeln von Proben für die
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mdrWbd1F9Qw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<figcaption>
+
 _Ein Video, das den Prozess der Entnahme und Analyse von Kernproben mittels [[material.radiolaria]] an Bord des [[Tiefseebohrschiffes|story.deep-sea-drilling]]_ JOIDES Resolution _zeigt._
 
-
+</figcaption>
 
 [^1]: Auführlichere Informationen zu Bohrkernproben finden sich in den mineralogischen Sammlungen des Museums für Naturkunde Berlin: https://www.museumfuernaturkunde.berlin/en/science/geochemical-and-microanalytical-laboratories und https://www.museumfuernaturkunde.berlin/en/science/rock-and-ore-collection. 
 
