@@ -1,31 +1,35 @@
 ---
-license: CC BY-SA
-title: Inventory Books
-title_de: Inventarbücher
-created: 1629792912565
-updated: 1634729923683
 id: kZTLAIf7pRRgEPPJbtGqA
-author: Theresa Schatt
-translators:
-  translator_de_en: Lydia J. White
-desc: The inventory books of the Berlin university's Zoological Teaching
+title: Inventory Books
+desc: |-
+  The inventory books of the Berlin university's Zoological Teaching
   Collection show how changing forms of record-keeping were shaped by war, loss,
   scientific advancements, and practical teaching objectives. The detective
   search for a spiny dogfish specimen reveals that it was registered in the
   teaching collection at various points in time under the numbers 1208, 2488,
   and 863.
+updated: 1634729923683
+created: 1629792912565
+license: CC BY-SA
+title_de: Inventarbücher
+author: Theresa Schatt
+translators:
+  translator_de_en: Lydia J. White
 short_desc: How does a teaching collection keep records of its items?
 short_desc_de: Wie werden die Objekte einer Lehrsammlung verzeichnet?
 cover_image:
-  image: /images/cover-inventory-books-inventarbuecher-zoologische-lehrsammlung-zoological-teaching-collection-berlin.png
-  alt: "Inventory V(1) of the Berlin university's Zoological Teaching Collection.
+  image: >-
+    /images/cover-inventory-books-inventarbuecher-zoologische-lehrsammlung-zoological-teaching-collection-berlin.png
+  alt: |-
+    Inventory V(1) of the Berlin university's Zoological Teaching Collection.
     Inventar V(1) der Zoologischen Lehrsammlung der Berliner Universität.
-    Source: Zoologische Lehrsammlung. All rights reserved."
+    Source: Zoologische Lehrsammlung. All rights reserved.
 tao_type: story
-date_start: 1883-12-31T23:06:32.000Z
-date_end: 1968-12-31T11:00:00.000Z
+date_start: '1883-12-31T23:06:32.000Z'
+date_end: '1968-12-31T11:00:00.000Z'
 published: false
-desc_de: Die Inventarbücher der Zoologischen Lehrsammlung der Berliner
+desc_de: |-
+  Die Inventarbücher der Zoologischen Lehrsammlung der Berliner
   Universität zeigen, dass die wandelbaren Verzeichnungsformen durch praktische
   Ansprüche der Lehrtätigkeit, Krieg, Verluste und wissenschaftliche Neuerungen
   geprägt wurden. Die detektivische Suche nach einem präparierten Dornhai-Embryo
@@ -198,7 +202,7 @@ _This page from inventory book V(1) shows the first records of specimens 1201 to
 
 </figure>
 
-Lost or destroyed specimens were identified with spaces in the inventory books or replaced with other items, although most of them were not specimens of the same species or the same animal. These changes, adjustments, rewritings, and transfers emphasise the practical level of the cataloguing process, which developed in practice and was formed and reformed by its materiality and mediality.[^9] Moreover, they reveal the limits of keeping inventory in book form, which was wedded to the list system – a practice of record-keeping that, due to its compact and linear form of cataloguing, did not stand up to emergent structures and changes. As a consequence, employees of the institute wrote over the preprinted table structure, created new lists of lists, and verified existing entries or marked them as invalid.[^10] In spite of these strategies and aids, it was not possible to ensure that knowledge and collection items would be transferred and preserved without any gaps. **Only a few objects in the collection today can be clearly attributed to a precise acquisition context using the records.** Moreover, this situation has been exacerbated by a change in record-keeping media, as Berlin's teaching collection began using a [[system of index cards|material.verzettelung]] to organise the collection in 1968.
+Lost or destroyed specimens were identified with spaces in the inventory books or replaced with other items, although most of them were not specimens of the same species or the same animal. These changes, adjustments, rewritings, and transfers emphasise the practical level of the cataloguing process, which developed in practice and was formed and reformed by its materiality and mediality.[^9] Moreover, they reveal the limits of keeping inventory in book form, which was wedded to the list system – a practice of record-keeping that, due to its compact and linear form of cataloguing, did not stand up to emergent structures and changes. As a consequence, employees of the institute wrote over the preprinted table structure, created new lists of lists, and verified existing entries or marked them as invalid.[^10] In spite of these strategies and aids, it was not possible to ensure that knowledge and collection items would be transferred and preserved without any gaps. **Only a few objects in the collection today can be clearly attributed to a precise acquisition context using the records.** Moreover, this situation has been exacerbated by a change in record-keeping media, as Berlin's teaching collection began using a [[system of index cards|material.house-of-cards]] to organise the collection in 1968.
 
 The inventory books have become historical documents. It is these discontinuities and functional shifts in record-keeping practice that point to its practical application. The knowledge gained in experience determined how organisational work was carried out in the collection. This knowledge only took shape while using the record-keeping systems that it also produced. In order to read these kinds of historical inventories, academics often have to rely on the expertise of collection employees. The inventories of the teaching collection are examples of the administrative processes that determine everyday life at the institute and in the collection as anonymous structures that rely on oral transmission in many cases.
 
@@ -386,7 +390,7 @@ _Diese Seite aus dem Inventarbuch V(1) zeigt die erste Verzeichnung der Präpara
 
 </figure>
 
-Verlorene bzw. zerstörte Präparate wurden durch Leerstellen in den Inventarbüchern kenntlich gemacht oder durch andere Objekte ersetzt, wobei es sich dabei größtenteils nicht um ein Präparat derselben Art oder desselben Tieres handelte. Diese Wechsel, Anpassungen, Überschreibungen und Übertragungen betonen die praktische Ebene der Katalogisierung, die sich aus dem Gebrauch ergab und die sich durch ihre Materialität und Medialität formte und umformte.[^9] Zudem zeigen sie die Grenzen eines Inventares in Buchform auf, das dem System Liste verhaftet ist – eine Verzeichnungspraxis, die aufgrund ihrer kompakten und linearen Form der Katalogisierung emergenter Strukturen und Veränderungen nicht gewachsen war. In der Konsequenz überschrieben Mitarbeiter\*innen des Instituts die vorgedruckte Tabellenstruktur, fertigten neue Listen von Listen an und verifizierten bestehende Eintragungen oder markierten diese als ungültig.[^10] Trotz dieser Strategien und Hilfsmittel waren die lückenlose Übertragung und der Erhalt des Wissens und der Sammlungsobjekte nicht gesichert. **Nur wenige Objekte, die sich noch heute im Besitz der Sammlung befinden, können eindeutig einem präzisen, mittels der Verzeichnung festgehaltenen Erwerbskontext zugeordnet werden.** Zusätzlich erschwert wird dieser Umstand auch durch einen Wechsel der Verzeichnungsmedien, denn seit 1968 nutzte die Berliner Lehrsammlung ein [[Karteikartensystem|material.verzettelung]] für die Sammlungsorganisation.
+Verlorene bzw. zerstörte Präparate wurden durch Leerstellen in den Inventarbüchern kenntlich gemacht oder durch andere Objekte ersetzt, wobei es sich dabei größtenteils nicht um ein Präparat derselben Art oder desselben Tieres handelte. Diese Wechsel, Anpassungen, Überschreibungen und Übertragungen betonen die praktische Ebene der Katalogisierung, die sich aus dem Gebrauch ergab und die sich durch ihre Materialität und Medialität formte und umformte.[^9] Zudem zeigen sie die Grenzen eines Inventares in Buchform auf, das dem System Liste verhaftet ist – eine Verzeichnungspraxis, die aufgrund ihrer kompakten und linearen Form der Katalogisierung emergenter Strukturen und Veränderungen nicht gewachsen war. In der Konsequenz überschrieben Mitarbeiter\*innen des Instituts die vorgedruckte Tabellenstruktur, fertigten neue Listen von Listen an und verifizierten bestehende Eintragungen oder markierten diese als ungültig.[^10] Trotz dieser Strategien und Hilfsmittel waren die lückenlose Übertragung und der Erhalt des Wissens und der Sammlungsobjekte nicht gesichert. **Nur wenige Objekte, die sich noch heute im Besitz der Sammlung befinden, können eindeutig einem präzisen, mittels der Verzeichnung festgehaltenen Erwerbskontext zugeordnet werden.** Zusätzlich erschwert wird dieser Umstand auch durch einen Wechsel der Verzeichnungsmedien, denn seit 1968 nutzte die Berliner Lehrsammlung ein [[Karteikartensystem|material.house-of-cards]] für die Sammlungsorganisation.
 
 Die Inventarbücher sind zu historischen Dokumenten geworden. Es sind diese Diskontinuitäten und funktionalen Verschiebungen der Verzeichnungspraxis, die auf ihren praktischen Gebrauch verweisen. Erfahrungswissen bestimmt die organisatorische Arbeit in der Sammlung. Es bildet sich erst durch die Handhabung der Verzeichnungssysteme, während es diese zugleich produziert. Um solche historischen Inventare lesen zu können, sind Wissenschaftler\*innen oftmals auf die Expertise von Sammlungsmitarbeiter\*innen angewiesen. Die Inventare der Lehrsammlung sind hier exemplarisch für administrative Abläufe, die als anonyme Strukturen den Instituts- und Sammlungsalltag bestimmen und die an vielen Stellen von mündlicher Weitergabe abhängig sind.
 

@@ -1,34 +1,38 @@
 ---
-license: CC BY-SA
-title: Silkworms
-title_de: Seidenraupen
-created: 1629986374819
-updated: 1635160645428
 id: GDcruELihUsAdF7btC6KD
-author: Britta Lange
-translators:
-  translator_de_en: Lydia J. White
-desc: Why does Berlin still have mulberry trees? Today, their story has all but
+title: Silkworms
+desc: |-
+  Why does Berlin still have mulberry trees? Today, their story has all but
   been forgotten, even though they were once indispensable to the silk farming
   carried out in Berlin and Brandenburg in the 18th and 19th centuries. What can
   these trees tell us today – about the connections between the _Morus alba_ and
   the silkworm, between philosophy and economics, between royal decrees and
   everyday knowledge?
-desc_de: " Warum gibt es in Berlin Maulbeerbäume? Ihre Geschichte ist heute fast
+updated: 1635160645428
+created: 1629986374819
+license: CC BY-SA
+title_de: Seidenraupen
+author: Britta Lange
+translators:
+  translator_de_en: Lydia J. White
+desc_de: |2-
+   Warum gibt es in Berlin Maulbeerbäume? Ihre Geschichte ist heute fast
   vergessen. Dabei waren sie einst unverzichtbar für den Seidenbau, der im 18.
   und 19. Jahrhundert in Berlin und Brandenburg betrieben wurde. Was können die
   Bäume heute noch erzählen – über die Verbindungen von _Morus alba_ und
   Seidenraupe, von Philosophie und Ökonomie, von königlichen Dekreten und
-  Alltagswissen?"
+  Alltagswissen?
 short_desc: The traces of trees and animals in Berlin
 short_desc_de: Spuren von Bäumen und Tieren in Berlin
 cover_image:
-  image: /images/old-mulberry-tree-alter-maulbeerbaum-berlin-museum-fuer-naturkunde-natural-history-museum.jpg
-  alt: "Mulberry tree at the Museum of Natural History Berlin, 2021. Maulbeerbaum
-    am Museum für Naturkunde Berlin, 2021. Source: Foto Britta Lange."
+  image: >-
+    /images/old-mulberry-tree-alter-maulbeerbaum-berlin-museum-fuer-naturkunde-natural-history-museum.jpg
+  alt: |-
+    Mulberry tree at the Museum of Natural History Berlin, 2021. Maulbeerbaum
+    am Museum für Naturkunde Berlin, 2021. Source: Foto Britta Lange.
 tao_type: story
-date_start: 1703-01-01T23:07:09.241Z
-date_end: 2021-08-26T14:37:08.305Z
+date_start: '1703-01-01T23:07:09.241Z'
+date_end: '2021-08-26T14:37:08.305Z'
 published: false
 colour_scheme: 3
 ---
@@ -91,7 +95,7 @@ _Silkworms and honeybees appear together in this popular-scientific depiction of
  
 </figure>
 
-Unlike the bee and other working animals from the classes of birds, fish, and mammals, however, _Bombyx mori_ could not be found in the wild in Prussia. **It was only in human captivity and in spaces that were artificially heated that the eggs could survive the winter.** This lack of silkworms in the wild is one reason that, with the disappearance of silk farming, the living silkworm has been completely forgotten, at least outside of specialist research – as they did not naturally occur in the wild due to the climatic conditions of northern Europe. Those who want to reconstruct the [[history of silk farming|story.seiden-cultur]] in Prussian Brandenburg by focusing on these animals are thus confronted with the problem that they and the memory of them are no longer present. Their disappearance from everyday life means that it is no longer possible to draw on live sources to study these animals on a daily basis. In order to understand the practices of silkworm cultivation and breeding, and the techniques used to obtain silk, researchers must rely, firstly, on visual and written sources and, secondly, on the remains of material culture. These include not just the products of silk farming (clothing, accessories, furnishings, wallpaper), but also collection items such as display cases, [[models|material.silkworm-in-papier-mache]], and specimens, as well as the instruments and buildings of silk farming that remain. Clues have also been left behind as traces in the landscape – orchard buildings and old mulberry trees. 
+Unlike the bee and other working animals from the classes of birds, fish, and mammals, however, _Bombyx mori_ could not be found in the wild in Prussia. **It was only in human captivity and in spaces that were artificially heated that the eggs could survive the winter.** This lack of silkworms in the wild is one reason that, with the disappearance of silk farming, the living silkworm has been completely forgotten, at least outside of specialist research – as they did not naturally occur in the wild due to the climatic conditions of northern Europe. Those who want to reconstruct the [[history of silk farming|story.silk-culture]] in Prussian Brandenburg by focusing on these animals are thus confronted with the problem that they and the memory of them are no longer present. Their disappearance from everyday life means that it is no longer possible to draw on live sources to study these animals on a daily basis. In order to understand the practices of silkworm cultivation and breeding, and the techniques used to obtain silk, researchers must rely, firstly, on visual and written sources and, secondly, on the remains of material culture. These include not just the products of silk farming (clothing, accessories, furnishings, wallpaper), but also collection items such as display cases, [[models|material.silkworm-in-papier-mache]], and specimens, as well as the instruments and buildings of silk farming that remain. Clues have also been left behind as traces in the landscape – orchard buildings and old mulberry trees. 
 
 What do we know today about the silkworm? What did people back then know about this animal, and where did their knowledge come from? **Both the production of knowledge at the time and cultural narratives about silkworms derive, as I would like to argue, from everyday interactions with the animals and observations that were made of them.**[^11] Practices of cultivation; sensory experiences like touching, smelling, and listening to the animals; and economies of breeding and killing wove together with moments of observation and reflection. 'Coexisting' with silkworms led to two significant outcomes. Firstly, new scientific knowledge about the animals took shape, and, secondly, empirical and everyday knowledge led to aesthetic reflections and provided food for thought: the properties of the silkworm, above all its pupation and the hatching of the moth from its cocoon, i.e., its complete, visible metamorphosis/shapeshifting, were translated into models of thought in other societal contexts – in religion, art, economics, and politics. **The animal also became a model or object of thought.**
 
@@ -113,7 +117,7 @@ _The book cover for Maria Sibylla von Merian's_ The Wondrous Transformation and 
 
 ## Old mulberry trees in Berlin
 
-In 1854, after [[story.seiden-cultur]] had gone through its boom in 17th- and 18th-century Prussia and had established itself as an industry, pébrine, a disease that affects silkworms, crossed over from France into Germany. **Most silkworm populations were wiped out[^15], and it was no longer possible to revive the industry in the long term.** Because silk was now only being cultivated by amateurs, its history in Prussia was opened up to historicisation and analysis. By the end of the 19th century, the animals that had formed the backbone of silk farming had disappeared, but some of the trees remained. People kept using their fruit to make jellies, desserts, and syrup, and their bright green leaves and golden crowns in autumn ensured that they stayed in use as decorative trees. Even though the orchards were cut down (as they had been after the death of Frederick the Great as well), a number of trees outlived their agricultural utilisation. **For example, there are still very old mulberry trees scattered about in Köpenick and at the cemetery in Zehlendorf – both of which were located outside the city gates at the time the trees were planted.**[^16] The map of old mulberry trees issued by the Berlin Senate Department clearly shows how the urban area has expanded since the 18th century, and how the 'country' has grown into the city that was still largely shaped by agriculture and livestock farming in the 19th century.[^17]
+In 1854, after [[story.silk-culture]] had gone through its boom in 17th- and 18th-century Prussia and had established itself as an industry, pébrine, a disease that affects silkworms, crossed over from France into Germany. **Most silkworm populations were wiped out[^15], and it was no longer possible to revive the industry in the long term.** Because silk was now only being cultivated by amateurs, its history in Prussia was opened up to historicisation and analysis. By the end of the 19th century, the animals that had formed the backbone of silk farming had disappeared, but some of the trees remained. People kept using their fruit to make jellies, desserts, and syrup, and their bright green leaves and golden crowns in autumn ensured that they stayed in use as decorative trees. Even though the orchards were cut down (as they had been after the death of Frederick the Great as well), a number of trees outlived their agricultural utilisation. **For example, there are still very old mulberry trees scattered about in Köpenick and at the cemetery in Zehlendorf – both of which were located outside the city gates at the time the trees were planted.**[^16] The map of old mulberry trees issued by the Berlin Senate Department clearly shows how the urban area has expanded since the 18th century, and how the 'country' has grown into the city that was still largely shaped by agriculture and livestock farming in the 19th century.[^17]
  
 <figure>
  
@@ -256,7 +260,7 @@ _In dieser populärwissenschaftliche Darstellung von Insekten aus dem Jahr 1794 
  
 </figure>
 
-Anders als die Bienen und anders als Nutztiere aus dem Bereich der Vögel, Fische oder Säugetiere jedoch kam _Bombyx mori_ in Preußen nicht in Freiheit vor. **Nur in menschlicher Obhut und in künstlich warm gehaltenen Räumen konnten die Eier überwintern.** Auch diese fehlenden wilden Formen in Freiheit sind ein Grund dafür, dass mit dem Erlöschen der Seidenherstellung die lebende Seidenraupe als Tier außerhalb der Forschung in vollständige Vergessenheit geriet – kam sie doch aufgrund der klimatischen Gegebenheiten in Nordeuropa in der Natur nicht vor. Wer heute die [[Geschichte des Seidenbaus|story.seiden-cultur]] in Brandenburg Preußen mit Fokus auf die Tiere rekonstruieren will, steht somit vor dem Problem, dass die Tiere und die Erinnerung an sie nicht mehr präsent sind. Ihr Verschwinden aus dem Alltag führte dazu, dass der tägliche Umgang mit den Tieren nicht mehr auf lebendige Quellen zurückgreifen kann. Um die Praktiken ihrer Haltung und Zucht und die Techniken der Seidengewinnung nachzuvollziehen, sind Forschende einerseits auf bildliche und schriftliche Quellen angewiesen, andererseits auf Überreste materieller Kultur. Dazu zählen nicht nur die Produkte des Seidenbaus (Kleidung, Accessoires, Möbelbezüge, Tapeten), die Sammlungsobjekte wie etwa Schaukästen, [[Modelle|material.silkworm-in-papier-mache]] und Präparate sowie die Instrumente und verbliebenen Gebäude des Seidenbaus. Hinweise geben darüber hinaus die Spuren in der Landschaft – Plantagenstrukturen und alte Maulbeerbäume.
+Anders als die Bienen und anders als Nutztiere aus dem Bereich der Vögel, Fische oder Säugetiere jedoch kam _Bombyx mori_ in Preußen nicht in Freiheit vor. **Nur in menschlicher Obhut und in künstlich warm gehaltenen Räumen konnten die Eier überwintern.** Auch diese fehlenden wilden Formen in Freiheit sind ein Grund dafür, dass mit dem Erlöschen der Seidenherstellung die lebende Seidenraupe als Tier außerhalb der Forschung in vollständige Vergessenheit geriet – kam sie doch aufgrund der klimatischen Gegebenheiten in Nordeuropa in der Natur nicht vor. Wer heute die [[Geschichte des Seidenbaus|story.silk-culture]] in Brandenburg Preußen mit Fokus auf die Tiere rekonstruieren will, steht somit vor dem Problem, dass die Tiere und die Erinnerung an sie nicht mehr präsent sind. Ihr Verschwinden aus dem Alltag führte dazu, dass der tägliche Umgang mit den Tieren nicht mehr auf lebendige Quellen zurückgreifen kann. Um die Praktiken ihrer Haltung und Zucht und die Techniken der Seidengewinnung nachzuvollziehen, sind Forschende einerseits auf bildliche und schriftliche Quellen angewiesen, andererseits auf Überreste materieller Kultur. Dazu zählen nicht nur die Produkte des Seidenbaus (Kleidung, Accessoires, Möbelbezüge, Tapeten), die Sammlungsobjekte wie etwa Schaukästen, [[Modelle|material.silkworm-in-papier-mache]] und Präparate sowie die Instrumente und verbliebenen Gebäude des Seidenbaus. Hinweise geben darüber hinaus die Spuren in der Landschaft – Plantagenstrukturen und alte Maulbeerbäume.
 
 Was wissen wir heute über die Seidenraupe? Was wusste man damals über das Tier und woher stammt dieses Wissen? **Die zeitgenössische Wissensproduktion einerseits und die kulturellen Narrationen über Seidenraupen andererseits leiten sich, so meine These, aus dem alltäglichen Umgang mit den Tieren und ihrer Beobachtung ab.**[^11] Praktiken des Pflegens, Sinneserfahrungen wie Tasten, Riechen und Hören der Tiere, Ökonomien des Züchtens und Tötens verflochten sich mit Momenten der Beobachtung und Reflexion. Das 'Zusammenleben' mit den Seidenraupen führte zu zwei signifikanten Folgen. Einerseits wurde neues wissenschaftliches Wissen über die Tiere ausgebildet, andererseits führten das Erfahrungs- und Alltagswissen zu ästhetischen Reflexionen und zu Denkanstößen: Eigenschaften der Seidenraupe, vor allem das Verpuppen und das Ausschlüpfen der Schmetterlinge, also die sichtbare und vollständige Metamorphose/Gestaltwandlung, wurden als Denkmodell in andere gesellschaftliche Kontexte – Religion, Kunst, Ökonomie, Politik – überführt. **Das Tier wurde auch zum Denkmodell oder Denk-Objekt.**
 
@@ -278,7 +282,7 @@ _Der Buchumschlag für Maria Sibylla von Merians_ Der Raupen wunderbare Verwande
 
 ## Alte Maulbeerbäume in Berlin
 
-Nachdem im 17. und 18. Jahrhundert die [[story.seiden-cultur]] in Preußen einen Aufschwung erlebt und sich als Wirtschaftszweig etabliert hatte, griff die _pébrine_, die Krankheit der Seidenraupen, im Jahr 1854 von Frankreich nach Deutschland über. **Die meisten Bestände an Seidenraupen wurden vernichtet[^15] und die Industrie konnte nicht mehr nachhaltig wiederbelebt werden.** Dass sie fortan nur noch von Amateur\*innen betrieben wurde, öffnete die Geschichte des Seidenbaus in Preußen auch ihrer Historisierung und Bewertung. Gegen Ende des 19. Jahrhunderts waren die zum Seidenbau gehörigen Tiere verschwunden, doch ein Teil der Bäume geblieben. Ihre Früchte wurden nach wie vor zur Herstellung von Gelees, Süßspeisen und Sirup genutzt, und ihr leuchtendes Grün sowie die gelbe Krone im Herbst ließ sie weiterhin als Zierbäume gelten. Zwar wurden (wie bereits nach dem Tod Friedrichs des Großen) die Plantagen abgeholzt, doch einige Bäume überlebten die Phase ihrer landwirtschaftlichen Nutzung. **So stehen heute noch einzelne, sehr alte Maulbeerbäume in Köpenick und auf dem Friedhof in Zehlendorf – beides lag zum Zeitpunkt ihrer Anpflanzung vor den Toren der Stadt.**[^16] Die Karte alter Maulbeerbäume der Berliner Senatsverwaltung zeigt deutlich, wie sich das Stadtgebiet seit dem 18. Jahrhundert ausgedehnt hat und wie zugleich das 'Land' in die Stadt hineingewachsen ist, die noch im 19. Jahrhundert von Ackerbau und Viehzucht bestimmt wurde.[^17]
+Nachdem im 17. und 18. Jahrhundert die [[story.silk-culture]] in Preußen einen Aufschwung erlebt und sich als Wirtschaftszweig etabliert hatte, griff die _pébrine_, die Krankheit der Seidenraupen, im Jahr 1854 von Frankreich nach Deutschland über. **Die meisten Bestände an Seidenraupen wurden vernichtet[^15] und die Industrie konnte nicht mehr nachhaltig wiederbelebt werden.** Dass sie fortan nur noch von Amateur\*innen betrieben wurde, öffnete die Geschichte des Seidenbaus in Preußen auch ihrer Historisierung und Bewertung. Gegen Ende des 19. Jahrhunderts waren die zum Seidenbau gehörigen Tiere verschwunden, doch ein Teil der Bäume geblieben. Ihre Früchte wurden nach wie vor zur Herstellung von Gelees, Süßspeisen und Sirup genutzt, und ihr leuchtendes Grün sowie die gelbe Krone im Herbst ließ sie weiterhin als Zierbäume gelten. Zwar wurden (wie bereits nach dem Tod Friedrichs des Großen) die Plantagen abgeholzt, doch einige Bäume überlebten die Phase ihrer landwirtschaftlichen Nutzung. **So stehen heute noch einzelne, sehr alte Maulbeerbäume in Köpenick und auf dem Friedhof in Zehlendorf – beides lag zum Zeitpunkt ihrer Anpflanzung vor den Toren der Stadt.**[^16] Die Karte alter Maulbeerbäume der Berliner Senatsverwaltung zeigt deutlich, wie sich das Stadtgebiet seit dem 18. Jahrhundert ausgedehnt hat und wie zugleich das 'Land' in die Stadt hineingewachsen ist, die noch im 19. Jahrhundert von Ackerbau und Viehzucht bestimmt wurde.[^17]
  
 <figure>
  
