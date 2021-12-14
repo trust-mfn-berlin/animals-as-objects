@@ -1,13 +1,16 @@
 ---
 license: CC BY-SA
-title: Feeding Prohibited
 title_de: Füttern Verboten
 created: 1620752897039
+author: Mareike Vennen
+short_desc_de: Neue Regeln zu Nähe und Distanz
+date_end: 1961-12-31T11:00:00.000Z
+published: false
+title: Feeding Prohibited
 updated: 1629746142631
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
-author: Mareike Vennen
 translators:
-  translator_de_en: Lucy Gasser
+  translator_de_en: Carla Welch
 desc: Nowadays, zoos impose a divide between animals and humans that is mostly
   taken for granted, but it was long commonplace for visitors to have direct
   contact with the animals through feeding. How, when, and why did zoos
@@ -17,7 +20,6 @@ desc_de: Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
   durch die Besucher\*innen üblich. Wie, wann und weshalb führten Zoos ein
   Fütterungsverbot ein?
 short_desc: New rules on proximity and distance
-short_desc_de: Neue Regeln zu Nähe und Distanz
 cover_image:
   image: /images/cover-do-not-feed-the-animals.jpg
   alt: '"Do not feed the animals!" at the emu enclosure in the Berlin zoo, 1980.
@@ -26,8 +28,6 @@ cover_image:
 colour_scheme: 4
 tao_type: story
 date_start: 1958-12-31T23:00:00.000Z
-date_end: 1961-12-31T11:00:00.000Z
-published: false
 ---
 
 :::EN:::
