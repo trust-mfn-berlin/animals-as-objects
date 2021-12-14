@@ -1,25 +1,17 @@
 ---
-license: CC BY-SA
-title: Berliner Grenz-Hunde
-title_de: Berliner Grenz-Hunde
-created: 1639486200973
-updated: 1639489315359
-id: NVDGbCIwQhPPU5W2DAAuj
-author: Author name(s) here.
+id: enVfsD9xpQFQprJTlczos
+title: Berliner Grenz Hunde2
 desc: Put a description of this note here...
-updated: 1639487674107
-created: 1639486200973
+updated: 1639492495068
+created: 1639492479297
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
-short_desc: Audiogeschichten über Tiere in Berlin_engl
-short_desc_de: Audiogeschichten über Tiere in Berlin
-cover_image:
-  image: /images/premantier_mauerhunde1_copyright_tvb-1-.jpg
-colour_scheme: 11
+author: Author name(s) here.
 tao_type: material
-date_start: 1961-01-02T13:05:27.132Z
-date_end: 1990-02-01T13:05:27.153Z
+cover_image: null
+license: CC BY-SA
 published: false
+colour_scheme: 11
 ---
 
 :::EN:::
@@ -36,7 +28,7 @@ _Copyright TVB._
 
 </figure>
 
-<sound file="/audio/Audiobeitrag_Permantier_website version.mp3">_Berliner Grenz-Hunde von Marie Permantier_</sound>
+<sound file="/audio/Audiobeitrag_Permantier_website version.mp3">_Berliner Grenz-Hunde_ von Marie Permantier</sound>
 
 Ein Hörstück aus dem Projektseminar „Tier-Topografien“ am Institut für Kulturwissenschaft der Humboldt-Universität zu Berlin unter der Leitung von Britta Lange und Mareike Vennen (Sommersemester 2021). 
 
