@@ -1,17 +1,22 @@
 ---
-id: enVfsD9xpQFQprJTlczos
-title: Berliner Grenz Hunde2
-desc: Put a description of this note here...
-updated: 1639493736582
-created: 1639492479297
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
-published: false
+title: Berliner Grenz-Hunde_engl
+title_de: Berliner Grenz-Hunde
+created: 1639492479297
+updated: 1639493736582
+id: enVfsD9xpQFQprJTlczos
+author: Marie Permantier
+desc: Audiogeschichten über Tiere in Berlin_en
+desc_de: Audiogeschichten über Tiere in Berlin
+short_desc: Audiogeschichten über Tiere in Berlin_en
+short_desc_de: Audiogeschichten über Tiere in Berlin
+cover_image:
+  image: /images/premantier_mauerhunde1_copyright_tvb-1-.jpg
 colour_scheme: 11
+tao_type: material
+date_start: 1961-01-01T14:58:50.513Z
+date_end: 1990-01-02T14:58:50.524Z
+published: false
 ---
 
 :::EN:::
