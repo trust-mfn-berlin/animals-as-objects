@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Infusoria
 title_de: Infusorien
 created: 1618493065699
-updated: 1639498411443
+updated: 1639499304508
 id: 5df12377-545a-45f9-9cd3-04fb8e499fb1
 author: Filippo Bertoni
 translators:
@@ -38,7 +38,7 @@ _This video introduces infusoria through the massive collection of Ehrenberg’s
 
 :::DE:::
 
-Infusorien war der Begriff, mit dem frühe Naturforschende mikroskopische Organismen bezeichneten, da die meisten ihrer Beobachtungen auf "Aufgüssen" von Wasser und anderen Substanzen beruhten. Der Begriff war in wissenschaftlichen Kreisen bis in die zweite Hälfte des 19. Jahrhunderts gebräuchlich. Erst die Entwicklung der Zelltheorie und die gleichzeitige Verbreitung der Evolutionstheorie führte zu neuen Nomenklaturen und zu einem neuen Verständnis von [[mikrobiellen Welten|theme.microbial-worlds]]. In den [[Anfängen der Mikropaläontologie|story.chaotic-origins-of-micropaleontology]] vertraten Gelehrte wie Christian Gottfried Ehrenberg die Sicht, dass es sich bei Mikroorganismen um Miniaturtiere handele, was spätere Wissenschaftler:innen mithilfe der Zelltheorie und umfangreichen mikroskopischen Beobachtungen widerlegten. So entstanden neue Bezeichnungen wie _Protozoen_ und _Protisten_.[^1] Heute wird der Begriff Infusorien von Hobby-Aquarist:innen für jene Mikroorganismen verwendet, die als Futter für Fische und andere Aquarientiere gezüchtet werden.
+Infusorien war der Begriff, mit dem frühe Naturforschende mikroskopische Organismen bezeichneten, da die meisten ihrer Beobachtungen auf "Aufgüssen" von Wasser und anderen Substanzen beruhten. Der Begriff war in wissenschaftlichen Kreisen bis in die zweite Hälfte des 19. Jahrhunderts gebräuchlich. Erst die Entwicklung der Zelltheorie und die gleichzeitige Verbreitung der Evolutionstheorie führte zu neuen Nomenklaturen und zu einem neuen Verständnis [[mikrobieller Welten|theme.microbial-worlds]]. In den [[Anfängen der Mikropaläontologie|story.chaotic-origins-of-micropaleontology]] vertraten Gelehrte wie Christian Gottfried Ehrenberg die Sicht, dass es sich bei Mikroorganismen um Miniaturtiere handele, was spätere Wissenschaftler:innen mithilfe der Zelltheorie und umfangreichen mikroskopischen Beobachtungen widerlegten. So entstanden neue Bezeichnungen wie _Protozoen_ und _Protisten_.[^1] Heute wird der Begriff Infusorien von Hobby-Aquarist:innen für jene Mikroorganismen verwendet, die als Futter für Fische und andere Aquarientiere gezüchtet werden.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PKMUJdn09OU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
