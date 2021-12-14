@@ -27,7 +27,6 @@ commands:
             confirmVaultOnCreate: false
             leaveTrace: false
             bubbleUpCreateNew: true
-            fuzzThreshold: 0.2
     randomNote: {}
     insertNote:
         initialValue: templates
@@ -37,7 +36,7 @@ commands:
     insertNoteIndex:
         enableMarker: false
 workspace:
-    dendronVersion: 0.72.0
+    dendronVersion: 0.71.0
     vaults:
         -
             fsPath: vault
@@ -81,7 +80,6 @@ workspace:
             L: low
         todoIntegration: false
         createTaskSelectionType: selection2link
-    enableEditorDecorations: true
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
