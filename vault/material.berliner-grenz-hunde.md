@@ -2,7 +2,7 @@
 id: NVDGbCIwQhPPU5W2DAAuj
 title: Berliner Grenz Hunde
 desc: Put a description of this note here...
-updated: 1639486583896
+updated: 1639487674107
 created: 1639486200973
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -14,22 +14,21 @@ published: false
 colour_scheme: 11
 ---
 
-:::EN:::
-
-
 <figure>
 
 ![Ein Schäferhund sitzt vor einem Stück Berliner Mauer](/images/audiobeitrag/premantier_Mauerhunde1_Copyright_TVB(1).JPG)
 
 <figcaption>
 
-_Ein Berliner Grenz-Hund. Copyright TVB._
+_Copyright TVB._
 
 </figcaption>
 
 </figure>
 
-<sound file="/audio/Audiobeitrag_Permantier_website version.mp3">_Berliner Grenz-Hunde_</sound>
+:::EN:::
+
+<sound file="/audio/Audiobeitrag_Permantier_website version.mp3">_Berliner Grenz-Hunde von Marie Permantier_</sound>
 
 Ein Hörstück aus dem Projektseminar „Tier-Topografien“ am Institut für Kulturwissenschaft der Humboldt-Universität zu Berlin unter der Leitung von Britta Lange und Mareike Vennen (Sommersemester 2021). 
 
