@@ -4,10 +4,16 @@ title_de: Adding Images
 created: 1618495642535
 updated: 1632921777921
 id: ba7e639c-51d0-499d-a3f0-55ee838d64b3
+author: Son La
 desc: Adding Images
 desc_de: Adding Images
-published: false
+short_desc: TEST
+short_desc_de: TEST
 colour_scheme: 13
+tao_type: material
+date_start: ""
+date_end: ""
+published: false
 ---
 
 ## Images inside articles
