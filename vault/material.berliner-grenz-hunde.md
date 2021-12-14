@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Berliner Grenz-Hunde
 title_de: Berliner Grenz-Hunde
 created: 1639486200973
-updated: 1639488225857
+updated: 1639489315359
 id: NVDGbCIwQhPPU5W2DAAuj
 author: Author name(s) here.
 desc: Put a description of this note here...
@@ -22,6 +22,8 @@ date_end: 1990-02-01T13:05:27.153Z
 published: false
 ---
 
+:::EN:::
+
 <figure>
 
 ![Ein Schäferhund sitzt vor einem Stück Berliner Mauer](/images/audiobeitrag/premantier_Mauerhunde1_Copyright_TVB(1).JPG)
@@ -33,8 +35,6 @@ _Copyright TVB._
 </figcaption>
 
 </figure>
-
-:::EN:::
 
 <sound file="/audio/Audiobeitrag_Permantier_website version.mp3">_Berliner Grenz-Hunde von Marie Permantier_</sound>
 
