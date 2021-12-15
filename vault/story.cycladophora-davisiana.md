@@ -16,7 +16,7 @@ desc_de: Cycladophora Davisiana ist eine zu den Radiolarien gehörende Art, die
   erstmals 1862 in Berlin beschrieben wurde. Die Geschichte der Befassung mit
   diesem Mikroorganismus veranschaulicht seine Wandlungen hin zu einem wichtigen
   Forschungswerkzeug, das Wissenschaftler:innen noch immer bei der Erforschung
-  unseres Planeten und seiner Tiefengeschichte hilft.
+  unseres Planeten und seiner Tiefenzeit hilft.
 short_desc: Microscopic radiolarian species
 short_desc_de: Eine mikroskopisch kleine Radolarienart
 cover_image:
