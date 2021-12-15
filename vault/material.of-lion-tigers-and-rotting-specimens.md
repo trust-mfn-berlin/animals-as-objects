@@ -1,17 +1,23 @@
 ---
-id: b1zgnK9GmzS2RLdAd76u0
-title: Of Lion Tigers and Rotting Specimens
-desc: Put a description of this note here...
-updated: 1639568788079
-created: 1639567838410
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
-published: false
+title: Of Lion Tigers and Rotting Specimens
+title_de: Von Löwen-Tigern und verfaulten Präparaten
+created: 1639567838410
+updated: 1639568788079
+id: b1zgnK9GmzS2RLdAd76u0
+author: Sarina Schirmer
+translators:
+  translator_de_en: Lydia J. White
+desc: A record contains many stories
+desc_de: Ein Verzeichnis enthält viele Geschichten
+short_desc: A record contains many stories
+short_desc_de: Ein Verzeichnis enthält viele Geschichten
+cover_image: null
 colour_scheme: 11
+tao_type: material
+date_start: 1843-01-01T12:39:11.988Z
+date_end: 1858-12-30T12:39:11.999Z
+published: false
 ---
 
 :::EN:::
