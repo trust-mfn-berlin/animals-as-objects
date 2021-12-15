@@ -2,7 +2,7 @@
 id: f0ff8e4e-5bb8-4622-8d51-8da1cb651524
 title: Biostratigraphy
 desc: Put a description of this note here...
-updated: 1639587934621
+updated: 1639588933356
 created: 1618493136975
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -28,4 +28,4 @@ Die Biostratigraphie nutzt Fossilanhäufungen zur Korrelierung und Altersbestimm
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rWp5ZpJAIAE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_Ein Video, das die Geschichte der Geologie und unser Verständnis der Tiefen Zeit (Deep Time) erklärt, vor allem dank der Biostratigraphie._
+_Ein Video, das die Geschichte der Geologie und unser Verständnis der Tiefenzeit (Deep Time) erklärt, vor allem dank der Biostratigraphie._
