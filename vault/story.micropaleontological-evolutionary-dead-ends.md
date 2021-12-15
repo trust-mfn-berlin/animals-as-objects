@@ -1,31 +1,30 @@
 ---
 license: CC BY-SA
-title_de: Mikropaläontologische evolutionäre Sackgassen
-created: 1621516485888
-author: Filippo Bertoni
-short_desc_de: Das Interesse an Mikrofossilien schien zu schwinden
-date_end: 1921-12-31T11:00:00.000Z
-published: false
 title: Micropaleontological Evolutionary Dead Ends
+title_de: " Entwicklungsgeschichtliche Sackgassen in der Mikropaläontologie"
+created: 1621516485888
 updated: 1639569726767
 id: 3494384f-3283-4c05-afda-b3d90e748325
+author: Filippo Bertoni
 translators:
-  translator_en_de: Anna von Rath
+  translator_en_de: Jan-Peter Herrmann
 desc: As micropaleontology started to take shape in the 19th century, it seemed
   to encounter a dead end because microfossils were interpreted to have changed
   little over geological times.
 desc_de: Als die Mikropaläontologie im 19. Jahrhundert Gestalt annahm, schien
-  sie in eine Sackgasse zu geraten, da Wissenschaftler*innen davon ausgingen,
-  dass sich die Mikrofossilien im Laufe der geologischen Zeit kaum verändert
-  hatten.
-short_desc: Interest in microfossils seemed to fade
+  sie in eine Sackgasse zu geraten, da Wissenschaftler:innen annahmen, dass sich
+  Mikrofossilien im Laufe der geologischen Zeit kaum verändert hatten.
+short_desc: Das Interesse an Mikrofossilien schien abzuklingen
+short_desc_de: Das Interesse an Mikrofossilien schien zu schwinden
 cover_image:
   image: /images/cover-dead-ends-bathybius_haeckelii_haeckel_1870.png
   alt: "A lithographic illustration of Bathybius haeckelii. Lithographische
     Illustration von Bathybius haeckelii. Source: Ernst Haeckel, 1870."
+colour_scheme: 5
 tao_type: story
 date_start: 1849-12-31T23:06:32.000Z
-colour_scheme: 5
+date_end: 1921-12-31T11:00:00.000Z
+published: false
 ---
 
 :::EN:::
