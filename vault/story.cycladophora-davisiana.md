@@ -1,38 +1,35 @@
 ---
-id: 6b86b681-8157-4bd4-acb1-167b98547122
-title: Cycladophora Davisiana
-desc: >-
-  Cycladophora davisiana are a species of radiolaria first described in 1862 in
-  Berlin. The history of this microorganism illustrates the transformations that
-  turned it into an important tool for scientific research, which continues to
-  help scientists in the ongoing study of our planet and its deep history.
-updated: 1632928891376
-created: 1620218024936
 license: CC BY-SA
+title: Cycladophora Davisiana
 title_de: Cycladophora Davisiana
+created: 1620218024936
+updated: 1632928891376
+id: 6b86b681-8157-4bd4-acb1-167b98547122
 author: Filippo Bertoni
-short_desc_de: Mikroskopische Radolarienart
-date_end: '2021-07-06T11:35:52.482Z'
-published: false
 translators:
   translator_en_de: Anna von Rath
-desc_de: >-
-  Cycladophora Davisiana sind eine zu den Radiolarien gehörende Art, die
+desc: Cycladophora davisiana are a species of radiolaria first described in 1862
+  in Berlin. The history of this microorganism illustrates the transformations
+  that turned it into an important tool for scientific research, which continues
+  to help scientists in the ongoing study of our planet and its deep history.
+desc_de: Cycladophora Davisiana sind eine zu den Radiolarien gehörende Art, die
   erstmals 1862 in Berlin beschrieben wurde. Die Geschichte dieses
   Mikroorganismus veranschaulicht wie er aufgrund von Transformationen zu einem
   wichtigen Werkzeug der wissenschaftlichen Forschung wurde, das
-  Wissenschaftler*innen bei der weiteren Erforschung unseres Planeten und seiner
-  Tiefengeschichte ("deep history") hilft.
+  Wissenschaftler:innen bei der weiteren Erforschung unseres Planeten und seiner
+  Tiefenzeit ("deep history") hilft.
 short_desc: Microscopic radiolarian species
+short_desc_de: Mikroskopische Radolarienart
 cover_image:
   image: /images/cover-cycladophora.jpg
-  alt: >-
-    Microphotograph of Cycladophora fossilized test. Mikrofotografie von
+  alt: "Microphotograph of Cycladophora fossilized test. Mikrofotografie von
     fossilem Cycladophora-Test. Source:
-    https://www.radiolaria.org/image.htm?sp_id=1&division=13
-tao_type: story
-date_start: '1858-12-31T23:06:32.000Z'
+    https://www.radiolaria.org/image.htm?sp_id=1&division=13"
 colour_scheme: 2
+tao_type: story
+date_start: 1858-12-31T23:06:32.000Z
+date_end: 2021-07-06T11:35:52.482Z
+published: false
 ---
 :::EN:::
 
