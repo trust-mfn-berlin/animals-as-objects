@@ -1,7 +1,7 @@
 ---
 license: CC BY-SA
 title: NSB Database
-title_de: NBS Datenbank
+title_de: NSB Datenbank
 created: 1619187736766
 updated: 1638902335550
 id: 384f2259-ec40-482d-bacc-c0876ae280aa
