@@ -7,7 +7,7 @@ short_desc_de: Übersicht der Berliner Zoobestände seit 1888
 date_end: 2021-06-30T12:21:00.358Z
 published: false
 title: Journale – The Zoo Directory
-updated: 1638900772181
+updated: 1639595241249
 id: 4a663958-cb98-4cdd-967d-9b277f45cdc4
 translators:
   translator_de_en: Lucy Gasser
@@ -76,4 +76,4 @@ Im Zoologischen Garten Berlin finden sich (bis auf einige wenige Ausnahmen) die 
 
 Zu dem Transport von Eva MacLean gehörte auch ein Gorillaweibchen, dem im gleichen Jahr ein männlicher Gorilla hinzugefügt wurde. Dieser kam, auch das ist im Journal verzeichnet, von der Firma Hagenbeck und kostete 7.500 Reichsmark.
 
-Bis etwa 1925 fanden sich keine Wertangaben in den Journalen. Sie wurden in einem zusätzlichen Band für das gleiche Jahr, einer Art buchhalterischer Inventur, aufgeführt. Anschließend fanden sich beide Informationen im selben Journal. **Die Bände bieten stets nur einen Ausschnitt aus der Haltungsgeschichte einer Art. Sie verzeichnen Ist-Zustände und Veränderungen.** Einzelne Jahrgänge sind nicht geeignet, die Haltung von Individuen oder einer ganzen Tierart nachzuvollziehen. Die Namen, die die Öffentlichkeit oder der Zoo den Tieren gegeben hatte, werden selten genannt. Je nachdem, wer die Journale eines Jahres führte, sind sie mehr oder weniger ausführlich und verzeichnen auch Notizen zu den Verkäufer\*innen oder Käufer\*innen, Preisen, Todesursachen oder (später) zu dem Geldwert, der dem Tier in der Jahresbilanz zugewiesen wurde. In der Regel bedarf es der Konsultation einer Reihe von Journalen, um Anfragen zu Daten von historischen Tierhaltungen im Berliner Zoo zu beantworten. Für die 1920er und 1930er Jahre können Forscher\*innen die sogenannte [[material.steinmetz-index]] zu Rate ziehen, die für diesen Zeitraum ausführlicher ist.
+Bis etwa 1925 fanden sich keine Wertangaben in den Journalen. Sie wurden in einem zusätzlichen Band für das gleiche Jahr, einer Art buchhalterischer Inventur, aufgeführt. Anschließend fanden sich beide Informationen im selben Journal. **Die Bände bieten stets nur einen Ausschnitt aus der Haltungsgeschichte einer Art. Sie verzeichnen Ist-Zustände und Veränderungen.** Einzelne Jahrgänge sind nicht geeignet, die Haltung von Individuen oder einer ganzen Tierart nachzuvollziehen. Die Namen, die die Öffentlichkeit oder der Zoo den Tieren gegeben hatte, werden selten genannt. Je nachdem, wer die Journale eines Jahres führte, sind sie mehr oder weniger ausführlich und verzeichnen auch Notizen zu den Verkäufer:innen oder Käufer:innen, Preisen, Todesursachen oder (später) zu dem Geldwert, der dem Tier in der Jahresbilanz zugewiesen wurde. In der Regel bedarf es der Konsultation einer Reihe von Journalen, um Anfragen zu Daten von historischen Tierhaltungen im Berliner Zoo zu beantworten. Für die 1920er und 1930er Jahre können Forscher:innen die sogenannte [[material.steinmetz-index]] zu Rate ziehen, die für diesen Zeitraum ausführlicher ist.

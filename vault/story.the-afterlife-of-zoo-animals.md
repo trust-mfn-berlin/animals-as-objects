@@ -6,7 +6,7 @@ desc: >-
   utilised – as colonial trophies, museum objects, meat? The story of the Berlin
   Zoo elephant "Siam" from the 1940s is a journey into post-war Berlin and deep
   into the history of European colonialism.
-updated: 1632130923883
+updated: 1639596284265
 created: 1621970259942
 license: CC BY-SA
 title_de: Verfüttern und Verwerten
@@ -229,7 +229,7 @@ In der Tat hatte der Zoo besonders in den ersten Jahren nach dem Krieg immer wie
 
 Ein zusätzliches Problem bestand für den Zoo darin, dass das in den Westsektoren anfallende Kadaverfleisch für den Bedarf des Zoologischen Gartens bei weitem nicht ausreichte. Zwischenzeitlich ging die Zahl der Pferdeschlachtungen so weit zurück, dass der Bedarf des Zoos an Pferdefleisch nur knapp zur Hälfte gedeckt werden konnte.[^12] Das Fleisch von Zootieren war daher eine willkommene Ergänzung des Futterplans – ein Phänomen, das sich bereits in früheren Zeiten findet. Nahrungsmittelmangel ist in Krisenzeiten stets ein Thema, das sogar zu einer "Triage" unter den Zootieren führen konnte wie etwa im Leipziger Zoo, wo während des Ersten Weltkriegs "\[w]eniger wertvolle Stücke geschlachtet werden \[mussten], um für die besseren Tiere Futterfleisch zu gewinnen".[^13] [[theme.logistical-metabolisms]]
 
-Die Löwen im Berliner Zoo erhielten einen Teil des Elefantenfleisches. Rund 20 Pfund gelangten darüber hinaus in menschliche Versorgungskreisläufe, genauer gesagt landete es auf dem Schwarzmarkt und von dort angeblich auf der Speisekarte eines Berliner Restaurants. Als der Zoo-Angestellte Karl Wolf jun. berichtete, ihm sei Elefantenfleisch zum Preis von 65 Reichsmark pro Pfund angeboten worden[^14], nahm die Polizei umgehend Ermittlungen auf. Wolf wurde beauftragt, das Fleisch zu kaufen und dem Zoo zu berichten. Tatsächlich erschien er mit fünf Pfund Fleisch, das ihm eine Bewohnerin seines Hauses vor dem Restaurant Savarin für 325 Reichsmark (≈ 1.040 € in 2021) übergeben hatte. Eine\*r der Zoopfleger\*innen wurde angeklagt, das Fleisch entwendet und unter der Hand weiterverkauft zu haben.[^15] Der Elefant war vom Schautier zum Fleischlieferanten geworden. Als die Presse Wind von der Sache bekam, hieß es dort "Elefant à la carte" und "Siam auf der Speisekarte".[^16]
+Die Löwen im Berliner Zoo erhielten einen Teil des Elefantenfleisches. Rund 20 Pfund gelangten darüber hinaus in menschliche Versorgungskreisläufe, genauer gesagt landete es auf dem Schwarzmarkt und von dort angeblich auf der Speisekarte eines Berliner Restaurants. Als der Zoo-Angestellte Karl Wolf jun. berichtete, ihm sei Elefantenfleisch zum Preis von 65 Reichsmark pro Pfund angeboten worden[^14], nahm die Polizei umgehend Ermittlungen auf. Wolf wurde beauftragt, das Fleisch zu kaufen und dem Zoo zu berichten. Tatsächlich erschien er mit fünf Pfund Fleisch, das ihm eine Bewohnerin seines Hauses vor dem Restaurant Savarin für 325 Reichsmark (≈ 1.040 € in 2021) übergeben hatte. Eine:r der Zoopfleger:innen wurde angeklagt, das Fleisch entwendet und unter der Hand weiterverkauft zu haben.[^15] Der Elefant war vom Schautier zum Fleischlieferanten geworden. Als die Presse Wind von der Sache bekam, hieß es dort "Elefant à la carte" und "Siam auf der Speisekarte".[^16]
 
 <figure>
 

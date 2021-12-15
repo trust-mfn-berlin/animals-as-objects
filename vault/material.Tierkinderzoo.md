@@ -2,7 +2,7 @@
 id: emoR8h24YToAxYJe9doaQ
 title: Tierkinderzoo
 desc: Put a description of this note here...
-updated: 1632385390035
+updated: 1639595343397
 created: 1630012364760
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -33,7 +33,7 @@ Im Sommer 1931 organisierte der Zoo zum ersten Mal eine Sonderschau mit Jungtier
 ![xxx](images\TierkinderzooFunkwocheBerlin15Mai1933.jpg)
 _Fütterungsübung mit Bärenbaby. Funkwoche Berlin, 19.05.1933._
 
-Was heute mitunter als irritierend oder gar gefährlich und wenig artgerecht erscheint, war damals ein so großer Erfolg[^Tierkinderzoo1], dass es sogar bisweilen zu Engpässen bei der Lieferung junger Löwen, Tiger und Leoparden kam. Das lag unter anderem daran, dass schon bald weitere Zoos ihren Besucher\*innen ähnliche Attraktionen bieten wollten. „Großes Löwenstreicheln im Zoo“ kündigte die _Leipziger Tageszeitung_ am 8. November 1935 an [^Tierkinderzoo2]  und auch im Stellinger Tierpark gehörte "der Wunsch, einen jungen Löwen auf den Arm zu nehmen und streicheln zu können" zu "einem der begehrtesten unserer Tierpark-Besucher." [^Tierkinderzoo3] Der Bedarf an Jungtieren blieb aber auch deshalb hoch, da die Jungtiere im nächsten Sommer längst zu groß geworden waren und ersetzt werden mussten. Raubtierbabys waren auf dem Markt entsprechend begehrt und teuer[^Tierkinderzoo4]; man nahm daher, was man bekommen konnte: "Wie schon besprochen, könnten anstatt der jungen Raubtiere vorläufig exotische Bären genommen und diese evtl. später gegen junge Raubtiere ausgetauscht werden"[^Tierkinderzoo5], ließ der Zoodirektor den Tierhändler Ruhe wissen, der die Raubtierjungen für den Berliner Zoo anlieferte. 
+Was heute mitunter als irritierend oder gar gefährlich und wenig artgerecht erscheint, war damals ein so großer Erfolg[^Tierkinderzoo1], dass es sogar bisweilen zu Engpässen bei der Lieferung junger Löwen, Tiger und Leoparden kam. Das lag unter anderem daran, dass schon bald weitere Zoos ihren Besucher:innen ähnliche Attraktionen bieten wollten. „Großes Löwenstreicheln im Zoo“ kündigte die _Leipziger Tageszeitung_ am 8. November 1935 an [^Tierkinderzoo2]  und auch im Stellinger Tierpark gehörte "der Wunsch, einen jungen Löwen auf den Arm zu nehmen und streicheln zu können" zu "einem der begehrtesten unserer Tierpark-Besucher." [^Tierkinderzoo3] Der Bedarf an Jungtieren blieb aber auch deshalb hoch, da die Jungtiere im nächsten Sommer längst zu groß geworden waren und ersetzt werden mussten. Raubtierbabys waren auf dem Markt entsprechend begehrt und teuer[^Tierkinderzoo4]; man nahm daher, was man bekommen konnte: "Wie schon besprochen, könnten anstatt der jungen Raubtiere vorläufig exotische Bären genommen und diese evtl. später gegen junge Raubtiere ausgetauscht werden"[^Tierkinderzoo5], ließ der Zoodirektor den Tierhändler Ruhe wissen, der die Raubtierjungen für den Berliner Zoo anlieferte. 
 
 
 

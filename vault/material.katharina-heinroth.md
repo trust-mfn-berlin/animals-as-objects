@@ -2,7 +2,7 @@
 id: f2e04dbc-1209-40b6-baf5-599fd36e63c7
 title: Katharina Heinroth
 desc: Photograph of Katharina Heinroth on her morning rounds at the Zoo
-updated: 1638900989913
+updated: 1639595256688
 created: 1619797579886
 license: CC BY-SA
 title_de: Katharina Heinroth
@@ -66,5 +66,5 @@ Katharina Heinroth (geb. Berger, 1897-1989) war die erste und bisher einzige Dir
 
 Katharina Berger absolvierte zunächst ein pädagogisches Studium, ehe sie Zoologie, Botanik, Geographie und Geologie in Breslau studierte. Sie promovierte 1923 mit summa cum laude über das Hörvermögen von Reptilien. 1933 heiratete sie den verwitweten Leiter des Berliner Aquariums [[material.oskar-heinroth]]. Zusammen mit ihm setzte sie die Forschungen zu den Lebenszyklen und dem Verhalten von Vögeln fort, die dieser zuvor mit seiner ersten Ehefrau [[material.magdalena-heinroth]] betrieben hatte. Ein Großteil der Forschungen erfolgte in der gemeinsamen Wohnung im Berliner Zoo-Aquarium.
 
-Nach der Flucht des Zoodirektors Lutz Heck aus Berlin Ende Mai 1945 kümmerte Katharina Heinroth sich mit den verbliebenen Mitarbeiter\*innen um den weitgehend zerstörten Berliner Zoo. Im August 1945 wurde sie schließlich durch den Magistrat zu dessen Direktorin ernannt. **Katharina Heinroth leitete erfolgreich den Wiederaufbau des Berliner Zoos in Zeiten großen Mangels und politischer Unsicherheit**, siehe auch [[story.feed-scarcity]]. Als einzige Frau an der Spitze eines deutschen Zoos setzte sie sich gegenüber den weitgehend männlich besetzten Regierungsgremien, der britischen Kommandantur des Besatzungssektors und auch ihrer weitgehend männlichen Belegschaft (siehe Bild) durch. Schließlich aber erzwang der Aufsichtsrat der Aktiengesellschaft des Zoologischen Gartens 1955 ihre Pensionierung. Über 30 Jahre forschte sie noch weiter und arbeitete als Lehrbeauftragte an der Technischen Universität Berlin. Sie veröffentlichte zahlreiche Bücher und Artikel, insbesondere in ornithologischen Fachzeitschriften.
+Nach der Flucht des Zoodirektors Lutz Heck aus Berlin Ende Mai 1945 kümmerte Katharina Heinroth sich mit den verbliebenen Mitarbeiter:innen um den weitgehend zerstörten Berliner Zoo. Im August 1945 wurde sie schließlich durch den Magistrat zu dessen Direktorin ernannt. **Katharina Heinroth leitete erfolgreich den Wiederaufbau des Berliner Zoos in Zeiten großen Mangels und politischer Unsicherheit**, siehe auch [[story.feed-scarcity]]. Als einzige Frau an der Spitze eines deutschen Zoos setzte sie sich gegenüber den weitgehend männlich besetzten Regierungsgremien, der britischen Kommandantur des Besatzungssektors und auch ihrer weitgehend männlichen Belegschaft (siehe Bild) durch. Schließlich aber erzwang der Aufsichtsrat der Aktiengesellschaft des Zoologischen Gartens 1955 ihre Pensionierung. Über 30 Jahre forschte sie noch weiter und arbeitete als Lehrbeauftragte an der Technischen Universität Berlin. Sie veröffentlichte zahlreiche Bücher und Artikel, insbesondere in ornithologischen Fachzeitschriften.
 

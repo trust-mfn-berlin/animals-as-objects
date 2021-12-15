@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Winter Hardship at the Zoo
 title_de: Wintersnot im Zoo
 created: 1635149269643
-updated: 1635149485098
+updated: 1639595363828
 id: QNjsPsf49gtoKwbK4WauU
 author: Mareike Vennen
 desc: A poem from 1948
@@ -99,7 +99,7 @@ _Gedicht des Zoobesuchers K. Ferber über die "Wintersnot im Zoo", 06.10.1948. (
  
 </figure>
  
-Das Gedicht, das ein Zoobesucher im Herbst 1948 an die Direktorin [[Katharina Heinroth|material.katharina-heinroth]] sandte, gibt nicht nur einen Eindruck von der damaligen Lage im Berliner Zoo. Es berichtet auch von der Anteilnahme der Berliner Bevölkerung am Schicksal der Zootiere. Im Zoo wie in der Bevölkerung Berlins fehlte es damals an allem – an Essen, Baustoffen, Heizmaterial. Katharina Heinroth und ihre Mitarbeiter\*innen standen damals, mitten in der Zeit der Berlin-Blockade, als dieses Gedicht entstand, kurz davor, wegen [[Futtermangels|story.feed-scarcity]] Tiere an andere Zoos abgeben oder notschlachten zu müssen. Die Direktorin rief daher in Tageszeitungen die Bevölkerung dazu auf, den Zoo durch Essenspenden oder das Sammeln von Eicheln und Kastanien zu unterstützen. Das Gedicht ist eins von vielen weiteren Schreiben, die die Hilfsbereitschaft der Berliner\*innen zeigen und deutet darauf hin, welche Rolle der Zoo in dieser Zeit für sie spielte – als einer der wenigen Orte der Erholung und womöglich verbunden mit der Vorstellung einer Schicksalsgemeinschaft in Zeiten der Not.
+Das Gedicht, das ein Zoobesucher im Herbst 1948 an die Direktorin [[Katharina Heinroth|material.katharina-heinroth]] sandte, gibt nicht nur einen Eindruck von der damaligen Lage im Berliner Zoo. Es berichtet auch von der Anteilnahme der Berliner Bevölkerung am Schicksal der Zootiere. Im Zoo wie in der Bevölkerung Berlins fehlte es damals an allem – an Essen, Baustoffen, Heizmaterial. Katharina Heinroth und ihre Mitarbeiter:innen standen damals, mitten in der Zeit der Berlin-Blockade, als dieses Gedicht entstand, kurz davor, wegen [[Futtermangels|story.feed-scarcity]] Tiere an andere Zoos abgeben oder notschlachten zu müssen. Die Direktorin rief daher in Tageszeitungen die Bevölkerung dazu auf, den Zoo durch Essenspenden oder das Sammeln von Eicheln und Kastanien zu unterstützen. Das Gedicht ist eins von vielen weiteren Schreiben, die die Hilfsbereitschaft der Berliner:innen zeigen und deutet darauf hin, welche Rolle der Zoo in dieser Zeit für sie spielte – als einer der wenigen Orte der Erholung und womöglich verbunden mit der Vorstellung einer Schicksalsgemeinschaft in Zeiten der Not.
 
 ## Transkript
  

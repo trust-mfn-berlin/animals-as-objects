@@ -8,7 +8,7 @@ desc: |-
   these trees tell us today – about the connections between the _Morus alba_ and
   the silkworm, between philosophy and economics, between royal decrees and
   everyday knowledge?
-updated: 1635160645428
+updated: 1639596269728
 created: 1629986374819
 license: CC BY-SA
 title_de: Seidenraupen
@@ -282,7 +282,7 @@ _Der Buchumschlag für Maria Sibylla von Merians_ Der Raupen wunderbare Verwande
 
 ## Alte Maulbeerbäume in Berlin
 
-Nachdem im 17. und 18. Jahrhundert die [[story.silk-culture]] in Preußen einen Aufschwung erlebt und sich als Wirtschaftszweig etabliert hatte, griff die _pébrine_, die Krankheit der Seidenraupen, im Jahr 1854 von Frankreich nach Deutschland über. **Die meisten Bestände an Seidenraupen wurden vernichtet[^15] und die Industrie konnte nicht mehr nachhaltig wiederbelebt werden.** Dass sie fortan nur noch von Amateur\*innen betrieben wurde, öffnete die Geschichte des Seidenbaus in Preußen auch ihrer Historisierung und Bewertung. Gegen Ende des 19. Jahrhunderts waren die zum Seidenbau gehörigen Tiere verschwunden, doch ein Teil der Bäume geblieben. Ihre Früchte wurden nach wie vor zur Herstellung von Gelees, Süßspeisen und Sirup genutzt, und ihr leuchtendes Grün sowie die gelbe Krone im Herbst ließ sie weiterhin als Zierbäume gelten. Zwar wurden (wie bereits nach dem Tod Friedrichs des Großen) die Plantagen abgeholzt, doch einige Bäume überlebten die Phase ihrer landwirtschaftlichen Nutzung. **So stehen heute noch einzelne, sehr alte Maulbeerbäume in Köpenick und auf dem Friedhof in Zehlendorf – beides lag zum Zeitpunkt ihrer Anpflanzung vor den Toren der Stadt.**[^16] Die Karte alter Maulbeerbäume der Berliner Senatsverwaltung zeigt deutlich, wie sich das Stadtgebiet seit dem 18. Jahrhundert ausgedehnt hat und wie zugleich das 'Land' in die Stadt hineingewachsen ist, die noch im 19. Jahrhundert von Ackerbau und Viehzucht bestimmt wurde.[^17]
+Nachdem im 17. und 18. Jahrhundert die [[story.silk-culture]] in Preußen einen Aufschwung erlebt und sich als Wirtschaftszweig etabliert hatte, griff die _pébrine_, die Krankheit der Seidenraupen, im Jahr 1854 von Frankreich nach Deutschland über. **Die meisten Bestände an Seidenraupen wurden vernichtet[^15] und die Industrie konnte nicht mehr nachhaltig wiederbelebt werden.** Dass sie fortan nur noch von Amateur:innen betrieben wurde, öffnete die Geschichte des Seidenbaus in Preußen auch ihrer Historisierung und Bewertung. Gegen Ende des 19. Jahrhunderts waren die zum Seidenbau gehörigen Tiere verschwunden, doch ein Teil der Bäume geblieben. Ihre Früchte wurden nach wie vor zur Herstellung von Gelees, Süßspeisen und Sirup genutzt, und ihr leuchtendes Grün sowie die gelbe Krone im Herbst ließ sie weiterhin als Zierbäume gelten. Zwar wurden (wie bereits nach dem Tod Friedrichs des Großen) die Plantagen abgeholzt, doch einige Bäume überlebten die Phase ihrer landwirtschaftlichen Nutzung. **So stehen heute noch einzelne, sehr alte Maulbeerbäume in Köpenick und auf dem Friedhof in Zehlendorf – beides lag zum Zeitpunkt ihrer Anpflanzung vor den Toren der Stadt.**[^16] Die Karte alter Maulbeerbäume der Berliner Senatsverwaltung zeigt deutlich, wie sich das Stadtgebiet seit dem 18. Jahrhundert ausgedehnt hat und wie zugleich das 'Land' in die Stadt hineingewachsen ist, die noch im 19. Jahrhundert von Ackerbau und Viehzucht bestimmt wurde.[^17]
  
 <figure>
  

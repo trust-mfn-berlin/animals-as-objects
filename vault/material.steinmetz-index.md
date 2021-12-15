@@ -7,7 +7,7 @@ short_desc_de: Tiere im Besitz des Berliner Zoos 1920-1945
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Steinmetz-Index
-updated: 1638901846854
+updated: 1639595335197
 id: 2a309087-f165-4def-9c60-d835c7218077
 translators:
   translator_de_en: Lucy Gasser
@@ -72,7 +72,7 @@ Der Urheber dieser Kartei war wahrscheinlich der Zoologe Hermann Steinmetz (1898
 
 Während seiner Zeit im Berliner Zoo führte er diese Zettelkartei, die anschließend zoointern die Steinmetz-Kartei genannt wurde. In dieser finden sich manchmal ausführlichere Angaben zu den einzelnen Tieren, den Abgängen durch Tausch, Verkauf oder Tod und zu den Zugängen durch Geschenke, Käufe oder Geburten als in den seit den 1880er Jahren geführten [[Journalen|material.journale-the-zoo-directory]], der jährlichen Zooinventur.
 
-**Der Vorteil für die Zoolog\*innen des Zoos und externe Forscher\*innen liegt aber vor allem darin, dass die Informationen aus verschiedenen Jahrgängen auf einer Karte zusammengefasst wurden. Dadurch kann mitunter die Haltungs- oder Lebensdauer einzelner Tiere nachvollzogen werden.** Die Kartei wurde nach der Flucht von Hermann Steinmetz nicht fortgeführt und bildet damit nur einen Ausschnitt aus der 175-jährigen Geschichte des Berliner Zoos ab.
+**Der Vorteil für die Zoolog:innen des Zoos und externe Forscher:innen liegt aber vor allem darin, dass die Informationen aus verschiedenen Jahrgängen auf einer Karte zusammengefasst wurden. Dadurch kann mitunter die Haltungs- oder Lebensdauer einzelner Tiere nachvollzogen werden.** Die Kartei wurde nach der Flucht von Hermann Steinmetz nicht fortgeführt und bildet damit nur einen Ausschnitt aus der 175-jährigen Geschichte des Berliner Zoos ab.
 
 Heute nutzen die meisten deutschen Zoos die Software Zoological Information Management System, kurz [[ZIMS|material.species360]] um Ein- und Abgänge sowie Informationen zu Geburten zu verzeichnen. Allerdings führt der Berliner Zoo die physischen Journale parallel als Referenzsystem weiter.
 

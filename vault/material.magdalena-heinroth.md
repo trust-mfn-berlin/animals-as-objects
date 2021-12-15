@@ -7,7 +7,7 @@ short_desc_de: Foto von Magdalena Heinroth mit drei Dohlen
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Magdalena Heinroth
-updated: 1638901139831
+updated: 1639595285425
 id: 95617cbe-704d-46c1-b0b5-05d178ec363d
 translators:
   translator_de_en: Lucy Gasser
@@ -57,7 +57,7 @@ _Magdalena Heinroth mit drei Dohlen, die sie in ihrer Wohnung großzog, 1919. (A
 
 </figure>
 
-Magdalena Heinroth (geb. Wiebe, 1883-1932) zog zusammen mit ihrem Mann [[material.oskar-heinroth]] hunderte einheimischer Vögel in der gemeinsamen Wohnung im Berliner Aquarium auf. Dazu gehörten auch die drei Dohlen, die hier auf ihren Armen sitzen. Ein Bild ihres Mannes [[material.oskar-heinroth]] zeigt ihn mit drei Uralkäuzen in derselben Position. Zwischen den Bildern liegen etwa zehn Jahre. **Über die gesamten 1920er Jahre hinweg stellten beide Beobachtungen zum Aufwachsens praktisch aller europäischen Vögel nach dem Schlüpfen und über die Mauser hinweg ins Erwachsenenstadium an.** Diese Arbeiten bildeten das Fundament für das von Magdalena und Oskar Heinroth verlegte vierbändige Standardwerk _Die Vögel Mitteleuropas. In allen Lebens- und Entwicklungsstufen photographisch aufgenommen und in ihrem Seelenleben bei der Aufzucht vom Ei ab beobachtet_, 1924-1934. Die beiden Wissenschaftler\*innen lebten quasi in einer "Vogel-WG".[^1]
+Magdalena Heinroth (geb. Wiebe, 1883-1932) zog zusammen mit ihrem Mann [[material.oskar-heinroth]] hunderte einheimischer Vögel in der gemeinsamen Wohnung im Berliner Aquarium auf. Dazu gehörten auch die drei Dohlen, die hier auf ihren Armen sitzen. Ein Bild ihres Mannes [[material.oskar-heinroth]] zeigt ihn mit drei Uralkäuzen in derselben Position. Zwischen den Bildern liegen etwa zehn Jahre. **Über die gesamten 1920er Jahre hinweg stellten beide Beobachtungen zum Aufwachsens praktisch aller europäischen Vögel nach dem Schlüpfen und über die Mauser hinweg ins Erwachsenenstadium an.** Diese Arbeiten bildeten das Fundament für das von Magdalena und Oskar Heinroth verlegte vierbändige Standardwerk _Die Vögel Mitteleuropas. In allen Lebens- und Entwicklungsstufen photographisch aufgenommen und in ihrem Seelenleben bei der Aufzucht vom Ei ab beobachtet_, 1924-1934. Die beiden Wissenschaftler:innen lebten quasi in einer "Vogel-WG".[^1]
 
 **Magdalena Wiebe hatte unter anderem am Berliner Naturkundemuseum Präparation gelernt.** Dort traf sie auch ihren späteren Ehemann. Bis zu ihrem frühen Tod 1932 forschte sie an Vögeln, deren Mauser und Zucht. Die Autodidaktin publizierte vielfach zu diesen Themen, unter anderem in der weltweit ältesten ornithologischen Zeitschrift _Die gefiederte Welt_. Im Bewusstsein der Öffentlichkeit ist sie dennoch vor allem als wichtigste Mitarbeiterin ihres Mannes bekannt.
 

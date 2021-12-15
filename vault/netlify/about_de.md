@@ -11,7 +11,7 @@ Relationale Datenbanken, genau die Datenbanken, die häufig zur Erfassung und Ve
 -   _Storys_ liefern mithilfe von _Materien_ und anderen Quellen Antworten auf kleine und große Forschungsfragen.
 -   _Themen_ öffnen den Blick für den thematischen Rahmen und verbinden die vielen verschiedenen _Storys_ und _Materien_.
 
-Sie sind in vielfältiger und manchmal überraschender Weise miteinander verknüpft und ergeben sich aus der Situiertheit (in einer Disziplin, Institution, Fachposition) und den Interessen der Autor\*innen.
+Sie sind in vielfältiger und manchmal überraschender Weise miteinander verknüpft und ergeben sich aus der Situiertheit (in einer Disziplin, Institution, Fachposition) und den Interessen der Autor:innen.
 
 Alle technischen Komponenten sind Open Source. Wir haben kollaborativ über [Dendron](https://www.dendron.so/) gearbeitet, über [git](https://git-scm.com/) synchronisiert und direkt aus git über eine selbst gehostete Version des Content-Management-Systems [Netlify](https://www.netlify.com/) veröffentlicht. [Arthur and Son La will provide one more sentence on the technical components.]
 
@@ -58,7 +58,7 @@ Clemens Maier-Wolthausen studierte Geschichte in Berlin und Bergen/Norwegen mit 
 
 #### Tahani Nadim
 
-Tahani Nadim ist Co-Leiterin des interdisziplinären Forschungszentrums Humanities of Nature am Museum für Naturkunde Berlin. Sie ist Juniorprofessorin für Soziokulturelle Anthropologie am Institut für Europäische Ethnologie der Humboldt-Universität zu Berlin, wo sie auch Mitglied des Centre for Anthropological Research on Museums and Heritage (CARMAH) ist. Ihre Forschungsschwerpunkte sind Natur und Datenerfassung sowie politische Fragen in der Digitalisierung von Museumssammlungen. Ihre Publikationen sind in _JRAI, Science as Culture, Big Data & Society und den Philosophical Transactions of the Royal Society_ erschienen. Sie leitet außerdem die experimentelle Forschungseinheit Bureau for Troubles, in der sie mit Künstler\*innen und Kurator\*innen zusammenarbeitet. Zu ihren Ausstellungen gehören The Influencing Machine (nGbK, 2018-19) und Dead wasps fly further (MfN, 2015).
+Tahani Nadim ist Co-Leiterin des interdisziplinären Forschungszentrums Humanities of Nature am Museum für Naturkunde Berlin. Sie ist Juniorprofessorin für Soziokulturelle Anthropologie am Institut für Europäische Ethnologie der Humboldt-Universität zu Berlin, wo sie auch Mitglied des Centre for Anthropological Research on Museums and Heritage (CARMAH) ist. Ihre Forschungsschwerpunkte sind Natur und Datenerfassung sowie politische Fragen in der Digitalisierung von Museumssammlungen. Ihre Publikationen sind in _JRAI, Science as Culture, Big Data & Society und den Philosophical Transactions of the Royal Society_ erschienen. Sie leitet außerdem die experimentelle Forschungseinheit Bureau for Troubles, in der sie mit Künstler:innen und Kurator:innen zusammenarbeitet. Zu ihren Ausstellungen gehören The Influencing Machine (nGbK, 2018-19) und Dead wasps fly further (MfN, 2015).
 
 
 #### Sebastian Riedel

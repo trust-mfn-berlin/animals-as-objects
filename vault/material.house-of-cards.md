@@ -2,7 +2,7 @@
 id: A8Dh5fk6b52EJQRaw3Qe4
 title: A House of Cards
 desc: Organising knowledge using loose index cards
-updated: 1630023341271
+updated: 1639595185548
 created: 1629792930385
 license: CC BY-SA
 title_de: Verzettelung
@@ -98,5 +98,5 @@ _Verzeichnis eines Nasspräparats des [[kleinen Fetzenfischs|material.common-sea
 
 </figure>
 
-Aufgrund ihres flexiblen Charakters erleichtern die Zettelkarten die Handhabung der Sammlungsobjekte. **Seit der Gründung der Lehrsammlung und auch heute noch werden die Objekte als Lehrmittel täglich benutzt, aus den Vitrinen genommen und hin und her getragen.** Im Gegensatz zu einer fortlaufenden Inventarisierung in Buch- und Listenform lassen sich neu angeschaffte Objekte besser ergänzen und bestehende Ordnungssysteme leichter umstellen oder austauschen. Gleichzeitig kann durch diesen losen Zusammenhang jedoch auch ein Wissensverlust oder eine wortwörtliche Verzettelung begünstigt werden. Neben der Sammlungsorganisation verzeichnen die Karteikarten außerdem eine historische Entwicklung, indem sie Informationen, Ergänzungen und Korrekturen aus verschiedenen Zeiten der Sammlungsgeschichte zusammentragen. Handschriftliche Bemerkungen überschreiben häufig die mit einer Schreibmaschine erstellten Zettel, in einigen Fällen wurden alte Etiketten hinzugefügt oder Klebezettel angeheftet. Sichtbar wird, wie sich die Aufstellung der Sammlungsobjekte verändert hat und wie sich die [[Aufschreibesysteme|story.recording worlds]] im Laufe der Zeit wandelten. Diese Entwicklung ist eng verbunden mit der individuellen Praxis der jeweiligen Sammlungsmanager\*innen und ihrem Wissen, das sich auf diese Weise in der Sammlung ein- und fortschreibt.
+Aufgrund ihres flexiblen Charakters erleichtern die Zettelkarten die Handhabung der Sammlungsobjekte. **Seit der Gründung der Lehrsammlung und auch heute noch werden die Objekte als Lehrmittel täglich benutzt, aus den Vitrinen genommen und hin und her getragen.** Im Gegensatz zu einer fortlaufenden Inventarisierung in Buch- und Listenform lassen sich neu angeschaffte Objekte besser ergänzen und bestehende Ordnungssysteme leichter umstellen oder austauschen. Gleichzeitig kann durch diesen losen Zusammenhang jedoch auch ein Wissensverlust oder eine wortwörtliche Verzettelung begünstigt werden. Neben der Sammlungsorganisation verzeichnen die Karteikarten außerdem eine historische Entwicklung, indem sie Informationen, Ergänzungen und Korrekturen aus verschiedenen Zeiten der Sammlungsgeschichte zusammentragen. Handschriftliche Bemerkungen überschreiben häufig die mit einer Schreibmaschine erstellten Zettel, in einigen Fällen wurden alte Etiketten hinzugefügt oder Klebezettel angeheftet. Sichtbar wird, wie sich die Aufstellung der Sammlungsobjekte verändert hat und wie sich die [[Aufschreibesysteme|story.recording worlds]] im Laufe der Zeit wandelten. Diese Entwicklung ist eng verbunden mit der individuellen Praxis der jeweiligen Sammlungsmanager:innen und ihrem Wissen, das sich auf diese Weise in der Sammlung ein- und fortschreibt.
 
