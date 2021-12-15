@@ -1,34 +1,31 @@
 ---
-id: b30fb33b-adc1-4c3e-963a-e2467c2fbb21
+license: CC BY-SA
 title: Micropaleontology at Sea
-desc: >-
-  Joining in the postwar exploration of the oceans, micropaleontology
+title_de: Mikropaläontologie auf See
+created: 1621522440708
+updated: 1639569959638
+id: b30fb33b-adc1-4c3e-963a-e2467c2fbb21
+author: Filippo Bertoni
+translators:
+  translator_en_de: Jan-Peter Herrmann
+desc: Joining in the postwar exploration of the oceans, micropaleontology
   accumulated vast amounts of data, which contributed to the development of
   climate and planetary sciences.
-updated: 1639569959638
-created: 1621522440708
-license: CC BY-SA
-title_de: Mikropaläontologie auf See
-author: Filippo Bertoni
-short_desc_de: Mikrofossilien und die Erforschung der Ozeane
-date_end: '1960-12-31T11:00:00.000Z'
-published: false
-translators:
-  translator_en_de: Anna von Rath
-desc_de: >-
-  In der Nachkriegszeit schloss sich die Mikropaläontologie der Meeresforschung
-  an und sammelte große Datenmengen, die zur Entwicklung der Klimawissenschaft
-  und Planetologie beitrugen.
+desc_de: Im Rahmen der Meeresforschung ab der Nachkriegszeit trugen
+  Mikropaläontolog:innen große Datenmengen zusammen, die eine wichtige Rolle für
+  die Entstehung der Klima- und Planetenwissenschaften spielen sollten.
 short_desc: Microfossils and ocean exploration
+short_desc_de: Mikrofossilien und die Erforschung der Ozeane
 cover_image:
   image: /images/cover-micropaleo-at-sea.jpg
-  alt: >-
-    JOIDES deep sea drilling vessel Glomar Challenger, 1968. JOIDES
+  alt: "JOIDES deep sea drilling vessel Glomar Challenger, 1968. JOIDES
     Tiefseebohrschiff Glomar Challenger, 1968. Source:
-    https://commons.wikimedia.org/wiki/File:GlomarChallengerBW.JPG
-tao_type: story
-date_start: '1949-12-31T23:00:00.000Z'
+    https://commons.wikimedia.org/wiki/File:GlomarChallengerBW.JPG"
 colour_scheme: 15
+tao_type: story
+date_start: 1949-12-31T23:00:00.000Z
+date_end: 1960-12-31T11:00:00.000Z
+published: false
 ---
 
 :::EN:::
