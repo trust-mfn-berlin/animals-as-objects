@@ -1,17 +1,23 @@
 ---
-id: 384f2259-ec40-482d-bacc-c0876ae280aa
-title: NSB Database
-desc: Put a description of this note here...
-updated: 1638902335550
-created: 1619187736766
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Filippo Bertoni
-tao_type: material
-cover_image: null
 license: CC BY-SA
-published: false
+title: NSB Database
+title_de: NBS Datenbank
+created: 1619187736766
+updated: 1638902335550
+id: 384f2259-ec40-482d-bacc-c0876ae280aa
+author: Filippo Bertoni
+translators:
+  translator_en_de: Jan-Peter Herrmann
+desc: A vast database of micropaleontological samples and data
+desc_de: Eine umfangreiche Datenbank mikropaläontologischer Proben und Daten
+short_desc: A vast database of micropaleontological samples and data
+short_desc_de: Eine umfangreiche Datenbank mikropaläontologischer Proben und Daten
+cover_image: null
 colour_scheme: 7
+tao_type: material
+date_start: 1989-01-01T18:00:09.589Z
+date_end: 2021-12-15T18:02:31.158Z
+published: false
 ---
 
 :::EN:::
