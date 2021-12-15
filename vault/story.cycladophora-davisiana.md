@@ -7,19 +7,18 @@ updated: 1639569381113
 id: 6b86b681-8157-4bd4-acb1-167b98547122
 author: Filippo Bertoni
 translators:
-  translator_en_de: Anna von Rath
+  translator_en_de: Carla Welch
 desc: Cycladophora davisiana are a species of radiolaria first described in 1862
   in Berlin. The history of this microorganism illustrates the transformations
   that turned it into an important tool for scientific research, which continues
   to help scientists in the ongoing study of our planet and its deep history.
-desc_de: Cycladophora Davisiana sind eine zu den Radiolarien gehörende Art, die
-  erstmals 1862 in Berlin beschrieben wurde. Die Geschichte dieses
-  Mikroorganismus veranschaulicht wie er aufgrund von Transformationen zu einem
-  wichtigen Werkzeug der wissenschaftlichen Forschung wurde, das
-  Wissenschaftler:innen bei der weiteren Erforschung unseres Planeten und seiner
-  Tiefenzeit ("deep history") hilft.
+desc_de: Cycladophora Davisiana ist eine zu den Radiolarien gehörende Art, die
+  erstmals 1862 in Berlin beschrieben wurde. Die Geschichte der Befassung mit
+  diesem Mikroorganismus veranschaulicht seine Wandlungen hin zu einem wichtigen
+  Forschungswerkzeug, das Wissenschaftler:innen noch immer bei der Erforschung
+  unseres Planeten und seiner Tiefengeschichte hilft.
 short_desc: Microscopic radiolarian species
-short_desc_de: Mikroskopische Radolarienart
+short_desc_de: Eine mikroskopisch kleine Radolarienart
 cover_image:
   image: /images/cover-cycladophora.jpg
   alt: "Microphotograph of Cycladophora fossilized test. Mikrofotografie von
