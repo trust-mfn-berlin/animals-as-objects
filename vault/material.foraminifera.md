@@ -1,17 +1,23 @@
 ---
-id: 83cc17bb-8a8e-4157-9ebc-f0990cf60076
-title: Foraminifera
-desc: Put a description of this note here...
-updated: 1639589695537
-created: 1618493027671
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
-published: false
+title: Foraminifera
+title_de: Foraminiferen
+created: 1618493027671
+updated: 1639589695537
+id: 83cc17bb-8a8e-4157-9ebc-f0990cf60076
+author: Filippo Bertoni
+translators:
+  translator_en_de: Jan-Peter Herrmann
+desc: Microorganisms most commonly living in the oceans
+desc_de: Mikroorganismen, die am häufigsten in den Ozeanen leben
+short_desc: Microorganisms most commonly living in the oceans
+short_desc_de: Mikroorganismen, die am häufigsten in den Ozeanen leben
+cover_image: null
 colour_scheme: 5
+tao_type: material
+date_start: 1826-01-01T19:30:39.000Z
+date_end: 2021-12-15T18:42:06.522Z
+published: false
 ---
 
 :::EN:::
