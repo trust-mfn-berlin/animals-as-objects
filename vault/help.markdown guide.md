@@ -2,7 +2,7 @@
 id: 8e923c6e-cfee-4c70-9f52-646f66dc05e4
 title: Markdown Guide
 desc: ''
-updated: 1624524539340
+updated: 1639742156299
 created: 1618396638023
 colour_scheme: 1
 ---
@@ -97,4 +97,4 @@ If you need to write a markdown syntax character like `*`, you can 'escape' it s
 
 You do this by using a backslash `\*`. 
 
-For example: Besucher\*innen, Besucher\*innen 
+For example: Besucher\*innen, Besucher\*innen ["\*"changed to ":"]

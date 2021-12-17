@@ -8,7 +8,7 @@ desc: >-
   they still relied on piles of paper – on offer lists, inventories, price
   lists, and invoices. These documents show us how zoo animals were transformed
   into museum exhibits and what kind of value was ascribed to them.
-updated: 1639596101224
+updated: 1639741925365
 created: 1635148858347
 license: CC BY-SA
 title_de: Tiere verzeichnen
@@ -221,7 +221,7 @@ Der Wert hing aber nicht nur von der Anzahl der Tiere in freier Wildbahn ab, son
  
 ## Wissensdurst
  
-Informationen waren eine wichtige Währung im Austausch zwischen Zoo und Museum, gerade bei den verschiedenen Formen von Tauschbeziehungen, die neben dem Kauf von Objekten existierten. Es kam vor, dass der Zoo im Museum Tiere präparieren ließ (meist handelte es sich um Geschenke für Aufsichtsräte, aber auch um Präparate, die verkauft werden sollten), wofür das Museum wiederum andere Exemplare als Gegenleistung erhielt.[^9] **Häufiger aber wurden Objekte gegen Wissen getauscht. Der Zoo profitierte vom spezialisierten taxonomischen Wissen der verschiedenen Sammlungsmitarbeiter\*innen des Museums und sandte Tierkadaver dorthin, um sie bestimmen zu lassen, wofür die jeweilige Museumssammlung im Gegenzug gewünschte Tiere erhielt.**[^10] 1913 etwa schrieb der Kustos und spätere Direktor des neu eröffneten Zoo-Aquariums Oskar Heinroth dem Museum: 
+Informationen waren eine wichtige Währung im Austausch zwischen Zoo und Museum, gerade bei den verschiedenen Formen von Tauschbeziehungen, die neben dem Kauf von Objekten existierten. Es kam vor, dass der Zoo im Museum Tiere präparieren ließ (meist handelte es sich um Geschenke für Aufsichtsräte, aber auch um Präparate, die verkauft werden sollten), wofür das Museum wiederum andere Exemplare als Gegenleistung erhielt.[^9] **Häufiger aber wurden Objekte gegen Wissen getauscht. Der Zoo profitierte vom spezialisierten taxonomischen Wissen der verschiedenen Sammlungsmitarbeiter:innen des Museums und sandte Tierkadaver dorthin, um sie bestimmen zu lassen, wofür die jeweilige Museumssammlung im Gegenzug gewünschte Tiere erhielt.**[^10] 1913 etwa schrieb der Kustos und spätere Direktor des neu eröffneten Zoo-Aquariums Oskar Heinroth dem Museum: 
  
 >"Anbei Insekten aus New-Orleans oder Nord-Mittelamerika. Darf ich um den ungefähren Namen der Heuschrecken bitten? Sind die Dinge etwas wert?"[^11] 
  

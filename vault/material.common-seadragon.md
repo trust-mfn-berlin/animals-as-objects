@@ -2,7 +2,7 @@
 id: 4TOAlxsuxdlxsQcZI2vRT
 title: Common Seadragon
 desc: 28.8.5.7-4 in a collection of codes
-updated: 1637010698154
+updated: 1639741903671
 created: 1629793516079
 license: CC BY-SA
 title_de: Kleiner Fetzenfisch
@@ -77,7 +77,7 @@ _Verzeichnis eines Nasspräparats des kleinen Fetzenfisches in der Zoologischen 
 
 Die Nummer "28.8.5.7-4" für das Präparat eines Kleinen Fetzenfisches (_Phyllopteryx taeniolatus_ LACEPEDE), auch Seedrache genannt, setzt sich zusammen aus der Bestimmung der taxonomischen Ränge Stamm, Klasse, Ordnung und Art, die dieses präparierte Tier damit als "Seenadelfisch" identifizieren. Die abgebildete Zettelkarte zeigt eine Legende, die diese Ableitung nachvollzieht, von der größten Einheit, des Stamms (28), der hier die Gruppe der Chordatiere (Chordata) bestimmt, bis zur kleinsten Kategorie, der Art (4), die in diesem Fall einen Kleinen Fetzenfisch beschreibt. Tiere, die dieser Art zugeordnet werden können, sind demzufolge Wirbeltiere (Vertebrata – ein Unterstamm der Chordatiere), gehören der Klasse (8) der Fische (Pisces) mit der Teilklasse (5) der Echten Knochenfische (Teleostei) an und sind seenadelartig (Syngnathiformes) entsprechend der Rangstufe der Ordnung (7).
 
-**Das Prinzip der Zahlencodes in der Lehrsammlung ist komplex und dennoch instabil, vor allem wenn es darum geht, die stetige Entwicklung des taxonomischen Systems nachzuvollziehen. Neue Spezies werden entdeckt, Abgrenzungen bestimmter Rangstufen werden aufgelöst oder neue Zwischenkategorien setzen sich durch.** Hinzu kommt, dass in der Lehrsammlung einige Objekte eine zusätzliche Ziffer erhalten und zusammen gruppiert bzw. aufgestellt werden, aufgrund ihrer Objektart. Grund dafür ist die zweckmäßig geprägte Aufbewahrung für den Lehrbetrieb. Es ist dann Aufgabe der [[Sammlungsmitarbeiter\*innen|story.interview-ines-drescher]] die Nummerierungen anzupassen, Etiketten umzukleben und die Karteikarten sowie Objekte neu zu ordnen.
+**Das Prinzip der Zahlencodes in der Lehrsammlung ist komplex und dennoch instabil, vor allem wenn es darum geht, die stetige Entwicklung des taxonomischen Systems nachzuvollziehen. Neue Spezies werden entdeckt, Abgrenzungen bestimmter Rangstufen werden aufgelöst oder neue Zwischenkategorien setzen sich durch.** Hinzu kommt, dass in der Lehrsammlung einige Objekte eine zusätzliche Ziffer erhalten und zusammen gruppiert bzw. aufgestellt werden, aufgrund ihrer Objektart. Grund dafür ist die zweckmäßig geprägte Aufbewahrung für den Lehrbetrieb. Es ist dann Aufgabe der [[Sammlungsmitarbeiter:innen|story.interview-ines-drescher]] die Nummerierungen anzupassen, Etiketten umzukleben und die Karteikarten sowie Objekte neu zu ordnen.
 
 ## Transkript
 
