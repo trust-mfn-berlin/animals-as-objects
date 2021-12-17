@@ -2,7 +2,7 @@
 id: K2rQQdv1K7aDMUi5gDHcN
 title: Labels and Knowledge
 desc: Material traces of the relationship between museum and zoo
-updated: 1639743201618
+updated: 1639743305828
 created: 1629109985448
 license: CC BY-SA
 title_de: Etikettenwissen
@@ -58,7 +58,7 @@ They indicate that it was not just the odd animal being sent from the museum to 
 
 <div class="series>
 
-![Yellowed, punched paper card with preprinted text at the top: Berlin Zoological Garden. Bottom left: 430. Handwritten: Forward to museum / Pathological Institute of the _______](images/Etiketten-Pohle-S004-02-05-96-057-v.jpg)
+![Yellowed, punched paper card with preprinted text at the top: Berlin Zoological Garden. Bottom left: 430. Handwritten: Forward to museum / Pathological Institute of the _______](/images/Etiketten-Pohle-S004-02-05-96-057-v.jpg)
 
 ![desc](Etiketten-Pohle-S004-02-05-96-140-r.jpg)
 
