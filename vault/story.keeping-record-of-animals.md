@@ -1,33 +1,33 @@
 ---
+license: CC BY-SA
+title_de: Tiere verzeichnen
+created: 1635148858347
+author: Mareike Vennen
+short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
+date_end: 2021-10-25T08:44:25.273Z
+published: false
+title: Keeping Records of Animals
+updated: 1635160350129
 id: zrAZZTgVehO9zeVbW4dMX
-title: Keeping Record of Animals
-desc: >-
-  How do animals get from a zoo to a collection? It is not just a matter of
+translators:
+  translator_de_en: Carla Welch
+desc: How do animals get from a zoo to a collection? It is not just a matter of
   handing over an animal's body but involves myriad practices of record-keeping.
   While these practices now mainly take place online, in the early 20th century
   they still relied on piles of paper – on offer lists, inventories, price
   lists, and invoices. These documents show us how zoo animals were transformed
   into museum exhibits and what kind of value was ascribed to them.
-updated: 1635160350129
-created: 1635148858347
-license: CC BY-SA
-title_de: Tiere verzeichnen
-author: Mareike Vennen
-desc_de: >-
-  Wie kommen Tiere aus dem Zoo in eine Sammlung? Dazu gehört nicht nur die
-  Übergabe des Tierkörpers, sondern vielfältige Praktiken des Verzeichnens. Was
-  heute weitgehend digital abläuft, war Anfang des 20. Jahrhunderts noch auf
+desc_de: Wie kommen Tiere aus dem Zoo in eine Sammlung? Dazu gehört nicht nur
+  die Übergabe des Tierkörpers, sondern vielfältige Praktiken des Verzeichnens.
+  Was heute weitgehend digital abläuft, war Anfang des 20. Jahrhunderts noch auf
   eine Menge Papier angewiesen – auf Angebotslisten, Inventare, Preislisten und
   Rechnungen. Durch sie erfahren wir etwas über die Transformation von Zootieren
   in Museumsobjekte und darüber, welcher Wert ihnen gegeben wurde.
 short_desc: Object transfer and the circulation of lists between zoos and museums
-short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
 cover_image: null
-tao_type: story
-date_start: '1914-01-13T00:00:00.000Z'
-date_end: '2021-10-25T08:44:25.273Z'
-published: false
 colour_scheme: 13
+tao_type: story
+date_start: 1914-01-13T00:00:00.000Z
 ---
 
 :::EN:::

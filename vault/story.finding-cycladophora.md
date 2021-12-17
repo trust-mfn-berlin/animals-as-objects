@@ -19,20 +19,20 @@ desc: In 1859, during a survey trip for a planned North Atlantic submarine
   infrastructures of modernity.
 desc_de: Bei einer Vermessungsreise für den geplanten Bau einer
   Unterwassertelegrafenleitung im Nordatlantik wird im Jahr 1859 die Probe
-  entnommen, anhand derer die Radiolarienart Cycladophora ursprünglich
-  beschrieben wurde. Die Geschichte dieser Reise veranschaulicht die komplexen
-  und weitreichenden Netzwerke, die Cycladophora zu dem machen, was es heute
-  ist. Sie zeigt auch die Verbindungen dieser Netzwerke zu den soziotechnischen
-  Infrastrukturen der Moderne auf.
+  entnommen, anhand derer die Radiolarienart Cycladophora erstmalig beschrieben
+  wurde. Die Geschichte dieser Reise veranschaulicht die komplexen und
+  weitreichenden Netzwerke, die Cycladophora zu dem machen, was sie heute ist.
+  Überdies zeigt sie auch die Verbindungen zwischen diesen Netzwerken und den
+  soziotechnischen Infrastrukturen der Moderne auf.
 short_desc: From telegraphs to samples
 cover_image:
   image: /images/cover-finding-cycladophora.jpg
   alt: "Map of telegraph cables in the North Atlantic, 1865. Karte von
     Telegrafenkabeln im Nordatlantik, 1865. Source:
     https://atlantic-cable.com/Maps/index.htm"
+colour_scheme: 12
 tao_type: story
 date_start: 1858-12-31T23:06:32.000Z
-colour_scheme: 12
 ---
 
 :::EN:::

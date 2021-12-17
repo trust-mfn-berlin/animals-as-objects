@@ -1,17 +1,25 @@
 ---
-id: 02wCHNiTRZ4Zkq2cO9Cpv
-title: Core Samples
-desc: Put a description of this note here...
-updated: 1629110227049
-created: 1629110227049
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Kernproben
+created: 1629110227049
+author: Filippo Bertoni
+short_desc_de: Zylinderförmige Kernproben, die durch Bohrungen in
+  Sedimentschichten und anderen Untergrundmaterialien gewonnen wurden.
+date_end: 2021-12-07T19:25:46.689Z
 published: false
+title: Core Samples
+updated: 1629110227049
+id: 02wCHNiTRZ4Zkq2cO9Cpv
+translators:
+  translator_en_de: Jan-Peter Herrmann
+desc: Cylindrical samples obtained by drilling into sediment or other materials
+desc_de: Zylinderförmige Kernproben, die durch Bohrungen in Sedimentschichten
+  und anderen Untergrundmaterialien gewonnen wurden.
+short_desc: Cylindrical samples obtained by drilling into sediment or other materials
+cover_image: null
 colour_scheme: 9
+tao_type: material
+date_start: 1947-01-02T19:24:05.131Z
 ---
 
 

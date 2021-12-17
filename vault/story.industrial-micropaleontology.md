@@ -1,34 +1,33 @@
 ---
-id: 2df514da-8df2-4278-8534-28e1034c7adf
-title: Industrial Micropaleontology
-desc: >-
-  In the 1920s, scientists Esther Applin, Alva Ellisor, and Hedwig Knikerwere
-  revolutionized micropaleontology. They were employed by oil companies, and
-  showed important applications to stratigraphy and petroleum geology.
-updated: 1629749290652
-created: 1621521087155
 license: CC BY-SA
+title: Industrial Micropaleontology
 title_de: Industrielle Mikropaleontologie
+created: 1621521087155
+updated: 1629749290652
+id: 2df514da-8df2-4278-8534-28e1034c7adf
 author: Filippo Bertoni
-short_desc_de: Mikrofossilien revolutionierten die Ölgewinnung
-date_end: '1950-12-31T11:00:00.000Z'
-published: false
 translators:
   translator_en_de: Anna von Rath
-desc_de: >-
-  In den 1920er Jahren revolutionierten die Wissenschaftlerinnen Esther Applin,
-  Alva Ellisor und Hedwig Knikerwere die Mikropaläontologie. Sie waren bei
-  Ölfirmen angestellt und zeigten wichtige Anwendungen in der Stratigraphie und
-  Erdölgeologie auf.
+desc: In the 1920s, scientists Esther Applin, Alva Ellisor, and Hedwig
+  Knikerwere revolutionized micropaleontology. They were employed by oil
+  companies, and showed important applications to stratigraphy and petroleum
+  geology.
+desc_de: In den 1920er Jahren revolutionierten die Wissenschaftlerinnen Esther
+  Applin, Alva Ellisor und Hedwig Knikerwere die Mikropaläontologie. Ihre
+  Arbeitgeber waren Ölfirmen, und im Rahmen ihrer Forschungen gelang es Ihnen,
+  das enorme Potential mikropaläontologischer Analysen für die Stratigraphie und
+  die Erdölgeographie nachzuweisen.
 short_desc: Microfossils revolutionized oil extraction
+short_desc_de: Mikrofossilien revolutionierten die Ölgewinnung
 cover_image:
   image: /images/cover-industrial-micropaleo.jpg
-  alt: >-
-    Oil well, 1908. Erdölquelle, 1908. Source:
-    https://commons.wikimedia.org/wiki/File:Salt_Creek_Oil_Field_well.jpg
-tao_type: story
-date_start: '1920-12-31T23:00:00.000Z'
+  alt: "Oil well, 1908. Erdölquelle, 1908. Source:
+    https://commons.wikimedia.org/wiki/File:Salt_Creek_Oil_Field_well.jpg"
 colour_scheme: 0
+tao_type: story
+date_start: 1920-12-31T23:00:00.000Z
+date_end: 1950-12-31T11:00:00.000Z
+published: false
 ---
 
 :::EN:::

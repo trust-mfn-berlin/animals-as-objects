@@ -1,36 +1,35 @@
 ---
-id: TBi8fH-OIQRAoB-tG9ZY1
+license: CC BY-SA
+title_de: Nutzung von Cycladophora
+created: 1624875395326
+author: Filippo Bertoni
+short_desc_de: Von Mikrofossilien zur Planetenwissenschaft
+date_end: 2021-07-06T11:38:39.090Z
+published: false
 title: Using Cycladophora
-desc: >-
-  Thanks to complex technoscientific networks, Cycladophora has become an
+updated: 1633010653304
+id: TBi8fH-OIQRAoB-tG9ZY1
+doi: 10.7479/64y2-m311/2
+translators:
+  translator_en_de: Anna von Rath
+desc: Thanks to complex technoscientific networks, Cycladophora has become an
   important tool in the study of planetary systems and climate. This story
   follows the microorganism’s trajectory, to trace how these networks formed,
   and how they continue to shape how we know the planet - and its microbial
   inhabitants.
-updated: 1633010653304
-created: 1624875395326
-license: CC BY-SA
-title_de: Nutzung von Cycladophora
-author: Filippo Bertoni
-short_desc_de: Von Mikrofossilien zur Planetologie
-date_end: '2021-07-06T11:38:39.090Z'
-published: false
-doi: 10.7479/64y2-m311/2
-translators:
-  translator_en_de: Anna von Rath
-desc_de: >-
-  Cycladophora ist dank komplexer technowissenschaftlicher Netzwerke zu einem
-  wichtigen Werkzeug in der Erforschung von Planetensystemen und vom Klima
-  geworden. Diese Story folgt dem Weg des Mikroorganismus, um nachzuvollziehen,
-  wie diese Netzwerke entstanden sind und wie sie weiterhin unser Wissen über
-  den Planeten – und seine mikrobiellen Bewohner – prägen.
+desc_de: Dank komplexer wissenschaftlich-technischer Netzwerke ist Cycladophora
+  heutzutage zu einem wichtigen Hilfsmittel in der Erdsystem- und der
+  Klimaforschung geworden. Mithilfe der nachfolgenden Skizzierung des Verlaufs
+  der wissenschaftlichen Arbeit mit diesem Mikroorganismus soll nachvollziehbar
+  gemacht werden, wie diese Netzwerke entstanden sind und wie sie nach wie vor
+  das Wissen über unseren Planeten – und seine mikrobiellen Bewohner – prägen.
 short_desc: From microfossils to planetary sciences
 cover_image:
-  image: ''
-  alt: ''
-tao_type: story
-date_start: '1949-12-31T23:00:00.000Z'
+  image: ""
+  alt: ""
 colour_scheme: 14
+tao_type: story
+date_start: 1949-12-31T23:00:00.000Z
 ---
 
 :::EN:::
