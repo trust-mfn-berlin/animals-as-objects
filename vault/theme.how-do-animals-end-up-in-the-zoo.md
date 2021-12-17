@@ -1,36 +1,34 @@
 ---
-id: 9c7d8895-4d13-4929-8292-4704bb9b0881
-title: How do Animals get to the Zoo?
-desc: >-
-  Live animals for the collections of the Berlin Zoological Garden, Aquariums
-  and Tierpark have come, and continue to come, from a variety of sources. These
-  have their own histories, and create challenges for these institutions that
-  are political, logistical and moral.
-updated: 1639596550740
-created: 1618498026144
 license: CC BY-SA
 title_de: Wie kommen Tiere in den Zoo?
+created: 1618498026144
 author: Clemens Maier-Wolthausen
-short_desc_de: 'Politische, logistische und moralische Herausforderungen'
-date_end: '2021-07-06T11:21:38.457Z'
+short_desc_de: Politische, logistische und moralische Herausforderungen
+date_end: ""
 published: false
+title: How Do Animals End Up in the Zoo?
+updated: 1639749926659
+id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 translators:
   translator_de_en: Lucy Gasser
-desc_de: >-
-  Lebende Tiere für die Sammlungen des Zoologischen Gartens, des Aquariums und
-  des Tierparks Berlin kamen und kommen aus unterschiedlichen Quellen. Diese
-  haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen
-  für diese Einrichtungen - politische, logistische und moralische.
-short_desc: 'Political, logistical and moral challenges'
+desc: Live animals for the Berlin Zoological Garden, Aquarium, and Tierpark
+  collections have always come from a variety of sources. They have their own
+  histories, and present political, logistical, and moral challenges for these
+  institutions.
+desc_de: Lebende Tiere für die Sammlungen des Zoologischen Gartens, des
+  Aquariums und des Tierparks Berlin kamen und kommen aus unterschiedlichen
+  Quellen. Diese haben ihre eigene Geschichte und kreieren unterschiedliche
+  Herausforderungen für diese Einrichtungen - politische, logistische und
+  moralische.
+short_desc: Political, logistical, and moral challenges
 cover_image:
   image: /images/cover-getting-animals.jpg
-  alt: >-
-    Hippos "Knautschke", "Jette", and "Bulette" in the Berlin Zoo, around 1959.
-    Flusspferde "Knautschke", "Jette" und "Bulette" im Berliner Zoo, um 1959.
-    Source: AZGB, photo Hoppe. All rights reserved.
+  alt: 'Hippos "Knautschke", "Jette", and "Bulette" in the Berlin Zoo, around
+    1959. Flusspferde "Knautschke", "Jette" und "Bulette" im Berliner Zoo, um
+    1959. Source: AZGB, photo Hoppe. All rights reserved.'
+colour_scheme: 8
 tao_type: theme
-date_start: '1499-12-31T23:06:32.000Z'
-colour_scheme: 3
+date_start: ""
 ---
 
 :::EN:::

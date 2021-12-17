@@ -1,28 +1,27 @@
 ---
-id: 947c29be-240a-4adb-93c7-9026f80aaa89
-title: Radiolaria
-desc: Microscopic unicellular organisms living in the oceans
-updated: 1638904384449
-created: 1618492811498
 license: CC BY-SA
 title_de: Radiolarien
+created: 1618492811498
 author: Filippo Bertoni
-short_desc_de: 'Mikroskopische einzellige Organismen, die in den Ozeanen leben'
-date_end: ''
+short_desc_de: Mikroskopisch kleine einzellige Organismen, die in den Ozeanen leben
+date_end: ""
 published: false
+title: Radiolaria
+updated: 1639749794312
+id: 947c29be-240a-4adb-93c7-9026f80aaa89
 translators:
   translator_en_de: Anna von Rath
-desc_de: 'Mikroskopische einzellige Organismen, die in den Ozeanen leben'
+desc: Microscopic unicellular organisms living in the oceans
+desc_de: Mikroskopisch kleine einzellige Organismen, die in den Ozeanen leben
 short_desc: Microscopic unicellular organisms living in the oceans
 cover_image:
   image: /images/cover-radiolaria.jpg
-  alt: >-
-    Plate 59 from Haeckel’s Challenger report, 1887. Tafel 59 aus Haeckels
+  alt: "Plate 59 from Haeckel’s Challenger report, 1887. Tafel 59 aus Haeckels
     Challenger-Bericht, 1887. Source:
-    http://www.biolib.de/haeckel/challenger/Nassellaria/100dpi/p059.jpg
+    http://www.biolib.de/haeckel/challenger/Nassellaria/100dpi/p059.jpg"
+colour_scheme: 9
 tao_type: material
-date_start: ''
-colour_scheme: 7
+date_start: ""
 ---
 :::EN:::
 

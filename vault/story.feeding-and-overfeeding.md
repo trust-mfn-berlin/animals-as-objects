@@ -3,21 +3,21 @@ license: CC BY-SA
 title: Feeding and Overfeeding
 title_de: Füttern und Überfüttern
 created: 1620752738850
-updated: 1639595745030
+updated: 1639749859006
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 author: Mareike Vennen
 translators:
-  translator_de_en: Carla Welch
-desc: When an elephant died at the Berlin Zoo in 1960, the cause of death was
-  determined as overfeeding by zoo visitors. This triggered a controversial
-  debate about the proper feeding of zoo animals – a question that goes back to
-  the founding of zoological gardens in the 19th century. Who should be
-  permitted to feed? What should be fed and how much of it?
-desc_de: Als 1960 im Berliner Zoo ein Elefant starb, lautete die Diagnose
-  Überfütterung durch Zoobesucher:innen. Das löste eine kontroverse Debatte um
+  translator_de_en: Lucy Gasser
+desc: When an elephant died at Berlin Zoo in 1960, the diagnosis was death from
+  overfeeding by zoo visitors. This triggered a controversial debate about the
+  proper feeding of zoo animals — a question that goes back to the founding of
+  zoological gardens in the 19th century. Who is allowed to feed the animals,
+  what should they be fed, and how much of it?
+desc_de: "Als 1960 im Berliner Zoo ein Elefant starb, lautete die Diagnose:
+  Überfütterung durch Zoobesucher\\*innen. Das löste eine kontroverse Debatte um
   die richtige Ernährung von Zootieren aus – eine Frage, die bis zu den Anfängen
   zoologischer Gärten im 19. Jahrhundert zurückreicht. Wer darf füttern und vor
-  allem was und wieviel?
+  allem was und wieviel?"
 short_desc: Who (over)feeds zoo animals?
 short_desc_de: Wer (über)füttert im Zoo?
 cover_image:
@@ -25,7 +25,7 @@ cover_image:
   alt: "Feeding as an act of sharing in the Berlin postwar zoo. Füttern als ein
     Akt des Teilens im Berliner Nachkriegszoo. Source: Tägliche Rundschau,
     03.07.1946."
-colour_scheme: 7
+colour_scheme: 15
 tao_type: story
 date_start: 1871-12-31T23:06:32.000Z
 date_end: 1960-12-31T11:00:00.000Z

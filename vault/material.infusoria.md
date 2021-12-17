@@ -1,24 +1,24 @@
 ---
 license: CC BY-SA
-title: Infusoria
 title_de: Infusorien
 created: 1618493065699
-updated: 1639504309775
-id: 5df12377-545a-45f9-9cd3-04fb8e499fb1
 author: Filippo Bertoni
-translators:
-  translator_de_en: Jan-Peter Herrmann
+short_desc_de: Eine alte Bezeichnung für Mikroorganismen
+date_end: 1876-12-29T19:50:46.075Z
+published: false
 desc: An old term to refer to microorganisms
 desc_de: Eine alte Bezeichnung für Mikroorganismen
 short_desc: An old term to refer to microorganisms
-short_desc_de: Eine alte Bezeichnung für Mikroorganismen
 cover_image: null
-colour_scheme: 2
-tao_type: material
-date_start: 1763-01-01T17:04:57.658Z
-date_end: 1876-01-01T17:04:57.667Z
-published: false
+date_start: 1763-01-01T19:50:46.071Z
 feature: true
+title: Infusoria
+updated: 1639749749288
+id: 5df12377-545a-45f9-9cd3-04fb8e499fb1
+translators:
+  translator_en_de: Jan-Peter Herrmann
+colour_scheme: 5
+tao_type: material
 ---
 
 :::EN:::

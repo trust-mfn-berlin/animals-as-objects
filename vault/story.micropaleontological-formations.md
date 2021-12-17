@@ -1,36 +1,34 @@
 ---
-id: df37d6fb-33ac-4b34-bc21-3401db3aac52
-title: Micropaleontological Formations
-desc: >-
-  Micropaleontology is the scientific study of microfossils, fossils that are
-  microscopic in size and therefore not visible to the naked eye. Here, the
-  explanation  – and appropriation – of micropaleontology’s methodological
-  approaches retraces the history of the field.
-updated: 1638904049027
-created: 1618502886244
 license: CC BY-SA
 title_de: Mikropaläontologische Formationen
+created: 1618502886244
 author: Filippo Bertoni
-short_desc_de: Paläontologie mit Mikroskop
-date_end: '2021-07-06T11:40:11.857Z'
+short_desc_de: Paläontologie mit dem Mikroskop
+date_end: 2021-07-06T11:40:11.857Z
 published: false
+title: Micropaleontological Formations
+updated: 1639749894224
+id: df37d6fb-33ac-4b34-bc21-3401db3aac52
 translators:
   translator_en_de: Anna von Rath
-desc_de: >-
-  Die Mikropaläontologie befasst sich mit dem wissenschaftlichen Studium von
-  Mikrofossilien, Fossilien von mikroskopischer Größe, die mit bloßem Auge nicht
-  erkennbar sind. Hier zeichnet die Erklärung – und Aneignung –
-  mikropaläontologischer Methoden die Geschichte der Disziplin nach.
+desc: Micropaleontology is the scientific study of microfossils, fossils that
+  are microscopic in size and therefore not visible to the naked eye. Here, the
+  explanation  – and appropriation – of micropaleontology’s methodological
+  approaches retraces the history of the field.
+desc_de: Die Mikropaläontologie befasst sich mit dem wissenschaftlichen Studium
+  von Mikrofossilien, d.h. Fossilien von mikroskopischer Größe, die mit dem
+  bloßen Auge nicht zu erkennen sind. Im Folgenden soll, unter Zuhilfenahme
+  mikropaläontologischer Methodik selbst, die Entstehung der Disziplin
+  nachgezeichnet werden.
 short_desc: Paleontology with a microscope
 cover_image:
   image: /images/cover-micropaleontological-formations.jpg
-  alt: >-
-    Illustration of biostratigraphic formations. Illustration
+  alt: "Illustration of biostratigraphic formations. Illustration
     biostratigraphischer Formationen. Source:
-    https://commons.wikimedia.org/wiki/File:Faunal_sucession.jpg
+    https://commons.wikimedia.org/wiki/File:Faunal_sucession.jpg"
+colour_scheme: 17
 tao_type: story
-date_start: '1853-12-31T23:06:32.000Z'
-colour_scheme: 12
+date_start: 1853-12-31T23:06:32.000Z
 ---
 
 :::EN:::

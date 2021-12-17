@@ -3,33 +3,36 @@ license: CC BY-SA
 title: Chaotic Origins of Micropaleontology
 title_de: Die chaotischen Anfänge der Mikropaläontologie
 created: 1621514713008
-updated: 1638902785821
-id: fee46412-5135-463a-8019-d002f5b513ea
 author: Filippo Bertoni
+short_desc_de: Naturforschende rangen um ein besseres Verständnis von Mikroorganismen
+date_end: 1850-12-31T11:06:32.000Z
+published: false
+title: Chaotic Origins of Micropaleontology
+updated: 1639749839569
+id: fee46412-5135-463a-8019-d002f5b513ea
 translators:
-  translator_en_de: Jan-Peter Herrmann
+  translator_en_de: Anna von Rath
 desc: As microorganisms began to enter our field of vision, naturalists
   struggled to understand their relations to the rest of nature. The history of
   these struggles, especially how they took shape around the Museum für
   Naturkunde Berlin, can show how much microorganisms transformed over time, and
   how they keep challenging what animals are.
-desc_de: Als Mikroorganismen zuerst in unser Blickfeld gerieten, fiel es
-  Naturkundler:innen  schwer, ihre Beziehung zum Rest der Natur zu verstehen.
-  Die Geschichte dieser Auseinandersetzungen – besonders im Zusammenhang mit dem
-  Museum für Naturkunde Berlin – zeigt, wie sehr Mikroorganismen sich mit der
-  Zeit verändert haben und dass sie andauernd das Verständnis davon anfechten,
-  was Tiere sind.
+desc_de: In der Anfangszeit der Erforschung von Mikroorganismen hatten
+  Naturkundler:innen zunächst noch keine Vorstellung von ihrer Rolle und ihrem
+  Verhältnis zu ihrer natürlichen Umgebung. Die Geschichte dieses Ringens um
+  Erkenntnisgewinn – auch und gerade im Kontext des Museums für Naturkunde
+  Berlin – verdeutlicht einerseits wie sehr sich das Verständnis von
+  Mikroorganismen mit der Zeit gewandelt hat und unterstreicht andererseits die
+  Bedeutung dieses Verständnisses für unsere Definition von tierischem Leben.
 short_desc: Naturalists struggled to understand microorganisms
 short_desc_de: Naturforscher*innen rangen um ein Verständnis von Mikroorganismen
 cover_image:
   image: /images/cover-chaotic-origins.jpg
   alt: "Illustrations of microorganisms. Illustrationen von Mikroorganismen.
     Source: Leeuwenhoek, 1677."
-colour_scheme: 17
+colour_scheme: 7
 tao_type: story
 date_start: 1765-12-31T23:06:32.000Z
-date_end: 1850-12-31T11:06:32.000Z
-published: false
 ---
 
 :::EN:::

@@ -3,14 +3,15 @@ license: CC BY-SA
 title: Feeding Prohibited
 title_de: Füttern Verboten
 created: 1620752897039
-updated: 1639595908505
+updated: 1639749864618
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 author: Mareike Vennen
 translators:
   translator_de_en: Carla Welch
-desc: While today, enclosures impose an obvious divide between animals and
-  humans at the zoo, for a long time, direct contact through visitor feeding was
-  commonplace. How, when and why did zoos introduce a general feeding ban?
+desc: Nowadays, zoos impose a divide between animals and humans that is mostly
+  taken for granted, but it was long commonplace for visitors to have direct
+  contact with the animals through feeding. How, when, and why did zoos
+  introduce a general ban on feeding?
 desc_de: Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
   selbstverständlich erscheint, war lange Zeit ein direkter Kontakt beim Füttern
   durch die Besucher:innen üblich. Wie, wann und weshalb führten Zoos ein
@@ -22,11 +23,9 @@ cover_image:
   alt: '"Do not feed the animals!" at the emu enclosure in the Berlin zoo, 1980.
     "Jedes Füttern unserer Tiere ist verboten!" am Emugehege im Berliner Zoo,
     1980. Source: AZGB, photo Kühn. All rights reserved.'
-colour_scheme: 3
+colour_scheme: 4
 tao_type: story
 date_start: 1958-12-31T23:00:00.000Z
-date_end: 1961-12-31T11:00:00.000Z
-published: false
 ---
 
 :::EN:::
