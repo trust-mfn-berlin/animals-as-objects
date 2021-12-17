@@ -7,7 +7,7 @@ updated: 1639569381113
 id: 6b86b681-8157-4bd4-acb1-167b98547122
 author: Filippo Bertoni
 translators:
-  translator_en_de: Carla Welch
+  translator_en_de: Jan-Peter Herrmann
 desc: Cycladophora davisiana are a species of radiolaria first described in 1862
   in Berlin. The history of this microorganism illustrates the transformations
   that turned it into an important tool for scientific research, which continues
