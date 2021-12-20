@@ -7,7 +7,7 @@ short_desc_de: Paläontologie mit dem Mikroskop
 date_end: 2021-07-06T11:40:11.857Z
 published: false
 title: Micropaleontological Formations
-updated: 1639749894224
+updated: 1640016976873
 id: df37d6fb-33ac-4b34-bc21-3401db3aac52
 translators:
   translator_en_de: Anna von Rath
@@ -33,6 +33,18 @@ date_start: 1853-12-31T23:06:32.000Z
 
 :::EN:::
 
+<figure>
+
+![Illustration of biostratigraphic formations.](/images/filo/cover-micropaleontological-formations.jpg)
+
+<figcaption>
+
+_Illustration of biostratigraphic formations. Source: Wikimedia_
+
+</figcaption>
+
+</figure>
+
 Micropaleontology is the scientific study of microfossils, fossilized remains that are microscopic in size and are not visible to the naked eye. **As the nature of this object of study suggests, the field is extremely diverse: microfossils can include anything, from a plethora of unicellular organisms with different biochemistries, to microscopic larvae, pollens, seeds, and spores, to fragments of larger fossils, like teeth and scales.** Moreover, microfossils can be studied in many different ways: scientists can be interested in the organisms themselves, or they can use them as environmental indicators; microfossils can represent series in evolutionary time, but they can also be treated as geochemical materials, as well as proxies for other geological, environmental or biological variables. The resulting diversity of micropaleontology makes it hard to trace one clear linear history of this discipline, which still struggles to find a unitary definition.[^1] **Crucial to micropaleontologists' methods, though, is the approach of biostratigraphy: since microscopic organisms get incorporated in the sediment as they die, differences in their forms can help scientists date geological strata.** Perhaps, then, rather than searching for one unitary history of this diverse field, it is useful to proceed in analogy to micropaleontologists’ own approach: i.e. tracing different formations across geological strata, in order to understand the ongoing dynamic relations that connect them.
 
 This episodic history of micropaleontology, then, is especially interesting as it brings to the surface different strata of how we came to understand and define nature. As this field brings together planetary sciences, microbiology, but also chemical and physical sciences, and technosocial transformations, it offers a good case to trace the history of transformations in how animals can become objects in scientific collections. As microfossils are invisible without the support of complex technical systems and [[material.microscopic-media]], the story of how we came to understand them also opens up interesting questions on the relation between seeing, knowing, and understanding – and complicates how the technosciences fit into this relation. Additionally, micropaleontology is interested in deep geological and evolutionary time, and in the global interconnectedness of planetary systems. This unique perspective, bringing into contact the infinitely small with the infinitely large, challenges the temporality of the narratives on this website. Moving between these different scales, micropaleontological formations include the smallest specimens, like [[story.cycladophora-davisiana]] and its [[theme.microbial-worlds]], but also broader processes, like the complex dynamics linking microbes and planets by way of changing scientific approaches and infrastructures, like taxonomies, scientific disciplines, and databases.
@@ -43,6 +55,18 @@ The [[story.chaotic-origins-of-micropaleontology]] shed light on foundational st
 
 
 :::DE:::
+
+<figure>
+
+![Illustration biostratigraphischer Formationen.](/images/filo/cover-micropaleontological-formations.jpg)
+
+<figcaption>
+
+_Illustration biostratigraphischer Formationen. Quelle: Wikimedia_
+
+</figcaption>
+
+</figure>
 
 Die Mikropaläontologie befasst sich mit dem wissenschaftlichen Studium von Mikrofossilien, also versteinerten Überresten von mikroskopischer Größe, die für das bloße Auge unsichtbar sind. ** Angesichts ihres Untersuchungsgegenstandes handelt es sich bei der Mikropaläontologie naturgemäß um ein sehr vielfältiges Feld. Es gibt eine große Bandbreite an Mikrofossilien, die von den Unmengen an – in biochemischer Hinsicht höchst unterschiedlichen – Einzellern, über mikroskopisch kleine Larven, Pollen, Samen und Sporen, bis zu Fragmenten größerer Fossilien reicht – etwa Zähnen oder Schuppen.** Entsprechend gibt es eine Vielzahl an Methoden (und Gründen) für die Untersuchung von Mikrofossilien: Manche Wissenschaftler:innen sind an den Organismen an sich interessiert, andere nutzen sie als Umweltindikatoren; Mikrofossilien können entwicklungsgeschichtliche Zeitserien abbilden, ebenso können sie aber auch als geochemisches Material verwendet werden oder als Proxy-Indikator für andere geologische, ökologische oder biologische Variablen dienen. Diese Vielfalt erschwert die Darstellung der Geschichte der Mikropaläontologie als gleichförmigen, linearen Prozess. Es ist eine Disziplin, die immer noch um eine einheitliche Definition ringt. [^1] **Eine Methode, die jedoch allen Bereichen der Mikropaläontologie eigen ist, ist die Biostratigraphie: Da mikroskopisch kleine Organismen nach dem Absterben zu Sedimentteilen werden, können die unterschiedlichen Formen ihrer fossilen Überreste Wissenschaftler:innen wichtige Hinweise für die Datierung geologischer Schichten liefern.** Anstatt also zu versuchen, eine geradlinige Geschichte dieses vielseitigen Forschungsfeldes zu formulieren, erscheint es sinnvoller, analog zu den Methoden der Mikropaläontolog:innen selbst vorzugehen, d.h. verschiedene Formationen über mehrere geologische Schichten hinweg aufzuspüren, um die dynamischen Beziehungen zu verstehen, die diese Formationen miteinander verbinden.
 
