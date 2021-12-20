@@ -1,6 +1,6 @@
 ---
 license: CC BY-SA
-title: Taxonomical Orders
+title: Taxonomic Orders
 title_de: Taxonomische Ordnung
 created: 1618491191119
 updated: 1639570180261
