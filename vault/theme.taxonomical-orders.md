@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Taxonomic Orders
 title_de: Taxonomische Ordnung
 created: 1618491191119
-updated: 1639570180261
+updated: 1640017663351
 id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
 author: Filippo Bertoni
 translators:
@@ -88,11 +88,11 @@ https://www.darwinproject.ac.uk (01.07.2021); Stober, Alexandra. "Evolutionsfors
 
 [^9]: More on the importance of databases, digitization, and data in [[theme.recording worlds]]. Also see Leonelli, Sabina, and Niccolò Tempini. _Data journeys in the sciences_. Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-37177-7.
 
-[^10]: An example of this digitization of taxonomical expertise can be found in the [[Neptune Sandbox Berlin database|material.nsb-database]].
+[^10]: An example of this digitization of taxonomic expertise can be found in the [[Neptune Sandbox Berlin database|material.nsb-database]].
 
 [^11]: This can be seen in other stories on this website, like that of [[story.archeopteryx]], of [[story.limulus]], of [[story.cycladophora-davisiana]], but also of the [[story.zoological teaching collection]].
 
-[^12]: A useful example to understand this complex dynamic between taxonomical orders and real-life consequences can be found in the role of zoos and museums in conservation sciences. Databases and lists like [[material.species360]] organize conservation efforts along specific taxonomical orders, shaping who gets to live on our planet.
+[^12]: A useful example to understand this complex dynamic between taxonomic orders and real-life consequences can be found in the role of zoos and museums in conservation sciences. Databases and lists like [[material.species360]] organize conservation efforts along specific taxonomic orders, shaping who gets to live on our planet.
 
 
 :::DE:::
