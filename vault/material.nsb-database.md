@@ -7,7 +7,7 @@ short_desc_de: Eine umfangreiche Datenbank mikropaläontologischer Proben und Da
 date_end: 2021-12-07T18:44:00.147Z
 published: false
 title: NSB Database
-updated: 1640017610275
+updated: 1640017941983
 id: 384f2259-ec40-482d-bacc-c0876ae280aa
 translators:
   translator_en_de: Jan-Peter Herrmann
