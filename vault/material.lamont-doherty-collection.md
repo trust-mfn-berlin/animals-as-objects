@@ -7,7 +7,7 @@ short_desc_de: Eine bedeutende Langzeitsammlung mikropaläontologischer Präpara
 date_end: 2021-12-07T18:56:55.735Z
 published: false
 title: Lamont-Doherty Collection
-updated: 1639749783431
+updated: 1640018616422
 id: YJrLgXqicVoVnrM8FtHXU
 translators:
   translator_en_de: Jan-Peter Herrmann
@@ -30,7 +30,11 @@ In June 2021, the _Museum für Naturkunde Berlin_ (MfN) received the Observatory
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/651191280?h=42053137a0" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
+<figcaption>
+
 _This video shows the unboxing of the collection as it arrived at the Museum für Naturkunde, and offering a glimpse in the work of the micropaleontology group in the museum._
+
+</figcaption>
 
 [^1]: The Observatory is named after two wealthy New York families whose donations contributed to the foundation and development of the research institution. For more information, see “History of Lamont”. _Columbia Climate School_, not date, https://www.ldeo.columbia.edu/about-ldeo/history-lamont (14.9.2021). 
 
@@ -49,7 +53,11 @@ Im Juni 2021 erhielt das Museum für Naturkunde Berlin (MfN) die mikropaläontol
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/651191280?h=42053137a0" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
+<figcaption>
+
 _Dieses Video zeigt das Auspacken der Sammlung nach ihrem Eintreffen im Museum für Naturkunde Berlin und bietet einen Einblick in die Arbeit der Mikropaläontolog:innen des Museums._
+
+</figcaption>
 
 [^1]: Das Lamont Doherty Observatory ist nach zwei wohlhabenden New Yorker Familien benannt, deren Spenden zur Gründung und zum Aufbau dieser Forschungseinrichtung beigetragen haben. Siehe “History of Lamont”. _Columbia Climate School_, ohne Datum, https://www.ldeo.columbia.edu/about-ldeo/history-lamont (14.9.2021). 
 
