@@ -10,7 +10,7 @@ title: Journale – The Zoo Directory
 updated: 1639749754463
 id: 4a663958-cb98-4cdd-967d-9b277f45cdc4
 translators:
-  translator_de_en: Lucy Gasser
+  translator_de_en: Carla Welch
 desc: Overview of Berlin Zoo's animal stocks since 1888
 desc_de: Übersicht der Berliner Zoobestände seit 1888
 short_desc: Overview of Berlin Zoo's animal stocks since 1888
