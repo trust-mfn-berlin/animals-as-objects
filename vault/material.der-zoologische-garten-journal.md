@@ -10,7 +10,7 @@ title: Der Zoologische Garten (journal)
 updated: 1639749682433
 id: cdaa8a05-6456-4b87-a663-c755790440d3
 translators:
-  translator_de_en: Lucy Gasser
+  translator_de_en: Carla Welch
 desc: Exchange of scientific research between zoos
 desc_de: Wissenschaftlicher Austausch zwischen Zoos
 short_desc: Exchange of scientific research between zoos
