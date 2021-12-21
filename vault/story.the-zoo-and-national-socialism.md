@@ -10,7 +10,7 @@ title: The Zoo and National Socialism
 updated: 1639749913556
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 translators:
-  translator_de_en: Lucy Gasser
+  translator_de_en: Carla Welch
 desc: During the National Socialist dictatorship, the zoo’s management and
   supervisory board made themselves available to the regime however they could.
   The zoo became an instrument of National Socialist propaganda, and excluded
