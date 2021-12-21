@@ -1,13 +1,16 @@
 ---
 license: CC BY-SA
-title: The Afterlife of Zoo Animals
 title_de: Verfüttern und Verwerten
 created: 1621970259942
+author: Mareike Vennen
+short_desc_de: Auf den Spuren eines Elefanten
+date_end: 1947-12-31T11:00:00.000Z
+published: false
+title: The Afterlife of Zoo Animals
 updated: 1639749905058
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
-author: Mareike Vennen
 translators:
-  translator_de_en: Lucy Gasser
+  translator_de_en: Carla Welch
 desc: What happens to zoo animals when they die? How are their bodies (or body
   parts) put to use — as colonial trophies, as museum objects, as a source of
   meat? The story of the Berlin Zoo elephant "Siam" in the 1940s is a journey
@@ -18,7 +21,6 @@ desc_de: Was passiert mit Zootieren nach ihrem Tod, wie werden ihre
   1940er Jahren führt ins Berlin der Nachkriegszeit und tief in die Geschichte
   des europäischen Kolonialismus.
 short_desc: On the trail of an elephant
-short_desc_de: Auf den Spuren eines Elefanten
 cover_image:
   image: /images/cover-elephant-skulls-mammal-collection.png
   alt: "Elephant skulls in the mammal collection of Berlin's natural history
@@ -28,8 +30,6 @@ cover_image:
 colour_scheme: 7
 tao_type: story
 date_start: 1932-12-31T23:00:00.000Z
-date_end: 1947-12-31T11:00:00.000Z
-published: false
 ---
 
 :::EN:::
