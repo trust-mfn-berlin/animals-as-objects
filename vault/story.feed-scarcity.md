@@ -1,13 +1,16 @@
 ---
 license: CC BY-SA
-title: Feed Scarcity
 title_de: Futternot
 created: 1621497485660
+author: Mareike Vennen
+short_desc_de: "1945: Krise in Zoo und Stadt "
+date_end: 1950-12-31T11:00:00.000Z
+published: false
+title: Feed Scarcity
 updated: 1639749853864
 id: d54394f6-1188-4ec3-b590-da329e657560
-author: Mareike Vennen
 translators:
-  translator_de_en: Lucy Gasser
+  translator_de_en: Carla Welch
 desc: How did the war-ravaged Berlin Zoological Garden manage to keep its
   animals alive after the Second World War? How was this effected by the food
   supply situation in the city? The crisis changed the relationship between the
@@ -19,7 +22,6 @@ desc_de: Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten
   Krise neue Verbindungen ein – zwischen Unterstützung und Konkurrenz, was die
   Rolle und Funktion des Zoos zeitweise veränderte.
 short_desc: 1945—a zoo and a city in crisis
-short_desc_de: "1945: Krise in Zoo und Stadt "
 cover_image:
   image: /images/cover-food-shortage.jpg
   alt: "Vegetable cultivation in the treeless Großer Tiergarten in Berlin in 1946,
@@ -29,8 +31,6 @@ cover_image:
 colour_scheme: 8
 tao_type: story
 date_start: 1944-12-31T23:00:00.000Z
-date_end: 1950-12-31T11:00:00.000Z
-published: false
 ---
 
 :::EN:::
