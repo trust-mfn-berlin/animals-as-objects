@@ -10,7 +10,7 @@ title: Oskar Heinroth
 updated: 1638901244202
 id: 1a9793b7-746f-4a58-bfa2-54596b72b4bc
 translators:
-  translator_de_en: Lucy Gasser
+  translator_de_en: Carla Welch
 desc: Photograph of Oskar Heinroth with three Ural owls
 desc_de: Foto von Oskar Heinroth mit drei Uralkäuzen
 short_desc: Photograph of Oskar Heinroth with three Ural owls
@@ -19,9 +19,9 @@ cover_image:
   alt: "Berlin aquarium director Oskar Heinroth with three Ural owls, 1929.
     Direktor des Berliner Aquariums Oskar Heinroth mit drei Uralkäuzen, 1929.
     Source: AZGB. All rights reserved."
+colour_scheme: 9
 tao_type: material
 date_start: 1903-12-31T23:00:00.000Z
-colour_scheme: 9
 ---
 :::EN:::
 
