@@ -10,7 +10,7 @@ title: Magdalena Heinroth
 updated: 1639595285425
 id: 95617cbe-704d-46c1-b0b5-05d178ec363d
 translators:
-  translator_de_en: Lucy Gasser
+  translator_de_en: Carla Welch
 desc: Photograph of Magdalena Heinroth with three jackdaws
 desc_de: Foto von Magdalena Heinroth mit drei Dohlen
 short_desc: Photograph of Magdalena Heinroth with three jackdaws
@@ -19,9 +19,9 @@ cover_image:
   alt: "Berlin zoologist Magdalena Heinroth with three jackdaws, 1919. Berliner
     Zoologin Magdalena Heinroth mit drei Dohlen, 1919. Source: AZGB, photo O.
     Heinroth. All rights reserved."
+colour_scheme: 9
 tao_type: material
 date_start: 1919-12-31T23:00:00.000Z
-colour_scheme: 9
 ---
 :::EN:::
 
