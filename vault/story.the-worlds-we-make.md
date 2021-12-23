@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Worlds We Make
 title_de: The Worlds We Make
 created: 1640281603094
-updated: 1640285003473
+updated: 1640285794713
 id: 4npaIbpRAHygxSlfFDrj3
 author: Mareike Vennen
 translators:
@@ -142,7 +142,7 @@ _Aquarists, who were organised into associations, helped to produce knowledge ab
 
 </figure>
 
-Public aquariums gave many animals to collections after they died, thereby making them available for scientific research and teaching, including the Zoological Museum and the Zoological Institute in Berlin. "Berlin Aquarium" has been noted on the label of the wet specimen with its nervous system exposed.[^8] After having made its way from the New York coast to Berlin Aquarium, the animal that would later become specimen ZMB 48487 was dispatched to the Zoological Teaching Collection after its death. When, how, and why it then became part of the museum's research collection is unclear. Its transfer to the museum might have had something to do with the historic transformations that were taking place in zoological instruction. Whether this took place before the Second World War or afterwards is unclear. But the limulus specimens potentially moved to the museum (then still part of the Humboldt University as well) in 1970, when the collection's former section head decided to downsize it.[^9] So far, it has not been possible to definitively determine exactly why the teaching collection gave the animals to the museum and why the museum accepted them. At any rate, the specimens' function gradually changed after they switched collections. While they were probably actively used in academic teaching to demonstrate the anatomy of the horseshoe crab (see [[material.papier-mâché-silkworm]]) while they were still part of the teaching collection, they are now preserved as historical specimens in the museum collection.[^10] Some of their eventful history – transforming from aquarium animals into teaching specimens, and ultimately into historical collection items – can still be seen today. The various place names that have been entered on the labels are now helping us to reconstruct the provenance of specimen ZMB 48487. The final addition so far has been the ZMB number, which is issued by the collection curator when they create the catalogue.[^11] Ocean, aquarium, teaching collection, and research collection – all of these spaces play an important role in producing and conveying knowledge about horseshoe crabs (among other things).[^12]
+Public aquariums gave many animals to collections after they died, thereby making them available for scientific research and teaching, including the Zoological Museum and the Zoological Institute in Berlin. "Berlin Aquarium" has been noted on the label of the wet specimen with its nervous system exposed.[^8] After having made its way from the New York coast to Berlin Aquarium, the animal that would later become specimen ZMB 48487 was dispatched to the Zoological Teaching Collection after its death. When, how, and why it then became part of the museum's research collection is unclear. Its transfer to the museum might have had something to do with the historic transformations that were taking place in zoological instruction. Whether this took place before the Second World War or afterwards is unclear. But the limulus specimens potentially moved to the museum (then still part of the Humboldt University as well) in 1970, when the collection's former section head decided to downsize it.[^9] So far, it has not been possible to definitively determine exactly why the teaching collection gave the animals to the museum and why the museum accepted them. At any rate, the specimens' function gradually changed after they switched collections. While they were probably actively used in academic teaching to demonstrate the anatomy of the horseshoe crab (see [[material.papier-mache-silkworm]]) while they were still part of the teaching collection, they are now preserved as historical specimens in the museum collection.[^10] Some of their eventful history – transforming from aquarium animals into teaching specimens, and ultimately into historical collection items – can still be seen today. The various place names that have been entered on the labels are now helping us to reconstruct the provenance of specimen ZMB 48487. The final addition so far has been the ZMB number, which is issued by the collection curator when they create the catalogue.[^11] Ocean, aquarium, teaching collection, and research collection – all of these spaces play an important role in producing and conveying knowledge about horseshoe crabs (among other things).[^12]
 
 ## From crab to spider: Taxonomic histories
 
@@ -200,43 +200,90 @@ Connections such as the ones outlined here and the ensuing interdependencies and
 [^9] Cf. Richter, Stefan. "Die Lehrsammlung des Zoologischen Instituts der Berliner Universität – ihre Geschichte und ihre Bedeutung." _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ 37 (25 February 1999): 59-76, 64.
 
 [^10] Dunlop, Jason A., Marlene S. Compton, and Anja Friederichs. "An Annotated Catalogue of the Horseshoe Crabs (Xiphosura) Held in the Museum für Naturkunde Berlin." _Zoosystematics and Evolution_ 88, no. 2 (2012): 215-222, 215. https://doi.org/10.1002/zoos.201200018.
+
 [^11] The numbers that begin with "48" were only recently assigned to predominantly older specimens, as the curator of the Arachnid Collection, Jason Dunlop, explains.
+
 [^12] At the same time, knowledge about horseshoe crabs depends quite existentially on the lives and/or deaths of the animals (e.g., their transportability and ability to survive in the aquarium), and on their materiality (for example the damaged materiality of dry specimens). 
+
 [^13] This assumption is reflected in many of the names that were given to the animal: in German _Pfeilschwanzkrebs_ (arrow-tailed crab), in English horseshoe crab, and earlier even king crab. See, e.g., Müller, Otto Frederik. _Entomostraca seu Insecta Testacea_. Havnia: Sumtibus J.G. Mülleriani, 1785; Bosc, L. S. G. _Histoire naturelle des crustacés, contenant leur description et leurs moeurs; avec figures dessinées d'après nature_. Paris: Deterville, 1802; Desmarest, A.-G. _Considerations générales sur la classe des crustaces_. Paris: Levrault, 1825.
+
 [^14] In the aquarium guide, it says: "In the tanks in the centre of the house will be found some curious Crustaceans – such as the King-crab (Limulus)." Sclater, Philip Lutley. _Guide to the Gardens of The Zoological Society of London,_ 20th edition. London: 1876.
+
 [^15] Lankester, Edwin Ray. "Limulus an Arachnid." _Quarterly Journal of Microscopical Science_, New Series 21 (1881): 504–548, 609–649; see also Heymons, R. "Die Entwicklungsgeschichte der Scolopender." _Zoologia_ 33 (1901): 1–244.
+
 [^16] Lankester, Edwin Ray. "Limulus an Arachnid." _Quarterly Journal of Microscopical Science_, New Series 21 (1881): 504–548, 609–649; see also Heymons, R. "Die Entwicklungsgeschichte der Scolopender." _Zoologia_ 33 (1901): 1–244; Lloyd, William Alford. "On the Occurrence of Limulus Polyphemus off the Coast of Holland, and on the Transmission of Aquarium Animals." _The Zoologist_ 9 (1874): 3845–3855, 3850.
+
 [^17] See, e.g., Dohrn, Anton. "Untersuchungen über Bau und Entwicklung der Arthropoden."_Jenaische Zeitschrift für Naturwissenschaft_ 5 (1870): 54–81; Gegenbaur, Carl. "Anatomische Untersuchung eines Limulus." _Abhandlungen der Naturforschenden Gesellschaft Halle_ 4 (1858): 227-250; Milne-Edwards, Alphonse. _Recherches sur l'anatomie des Limules_. (Series: _Annales des sciences naturelles_, 5th series, vol. xvii). Paris: 1873; Packard, Alpheus Spring Jun. _The Development of Limulus Polyphemus_. Boston: Society of Natural History, 1872.
+
 [^18] This makes them special, as they are the only arachnids that live under water. For the latest studies in the discussion on the taxonomy of horseshoe crab, see Howard, Richard J., Mark N. Puttick, Gregory D. Edgecombe, and Jesus Lozano-Fernandez. "Arachnid Monophyly: Morphological, Palaeontological and Molecular Support for a Single Terrestrialization within Chelicerata." _Arthropod Structure & Development_ 59 (2020): no. 100997. https://doi.org/10.1016/j.asd.2020.100997.
+
 [^19] Many museum and university collections still organise their collections by the biological systematics of class, order, family, genus, and species, even though spatial limitations mean that it is often difficult to implement this systematic order properly. In the second half of the 19th century, many collections in the natural history museums of Europe were split in two during the museum reform movement – into a public display exhibition and a research collection closed to the public. Cf. Nyhard, Lynn K. _Modern Nature: The Rise of the Biological Perspective in Germany_. Chicago: The University of Chicago Press, 2009; Köstering, Susanne. _Natur zum Anschauen: Das Naturkundemuseum des deutschen Kaiserreichs 1871-1914_. Cologne et al.: Böhlau, 2003; 
+
 [^20] This is the entry in Dunlop, Jason A., Marlene S. Compton, and Anja Friederichs. "An Annotated Catalogue of the Horseshoe Crabs (Xiphosura) Held in the Museum für Naturkunde Berlin." _Zoosystematics and Evolution_ 88, no. 2 (2012): 215-222, 215. https://doi.org/10.1002/zoos.201200018.
+
 [^21]: Howell's studies from 1881 had already proven that human blood and haemolymphe ("blood") in the limulus coagulate in a similar way. But it was not until 70 years later that his studies were taken further, when Bang described a bacterial infection in a population of horseshoe crabs that caused their blood to coagulate in 1956. Cf. Liebsch, Manfred. "Die Geschichte der Validierung des LAL- Tests." _ALTEX_ 12, no. 2 (1995): 76-80, 78.
+
 [^22]: On the history of the LAL test, see, e.g., Levin J. "The History of the Development of the Limulus Amebocyte Lysate Test." _Progress in Clinical and Biological Research_ 189 (1985): 3-30.
+
 [^23]: Images of this procedure can be found here, for example: https://www.nationalgeographic.com/animals/article/covid-vaccine-needs-horseshoe-crab-blood (23.11.2021). For studies on the impact of taking limulus blood, see Hurton L, Berkson J. "Potential Causes of Mortality for Horseshoe Crabs (_Limulus polyphemus_) During the Biomedical Bleeding Process." _Fishery Bulletin_ 104 (2006): 293–298; Walls, E. A., and Berkson, J. "Effects of Blood Extraction on the Mortality of the Horseshoe Crab, Limulus polyphemus." _Virginia Journal of Science_ 51, no. 3 (2000): 195-198. Rudloe, Anne. "The Effect of Heavy Bleeding on Mortality of the Horseshoe Crab, _Limulus polyphemus_, in the Natural Environment." _Journal of Invertebrate Pathology_ 42, no. 2 (1983): 187-176, doi.org/10.1016/0022-2011(83)90059-9.
+
 [^24]: Cf. Das, Alok. "Horseshoe Crabs in Modern Day Biotechnological Applications." In _Changing Global Perspectives on Horseshoe Crab Biology_, ed. by Ruth H. Carmichael et al. Cham: Springer International Publishing, 2015: 463-473, 470.
+
 [^25]: Das, 2015.
+
 [^26]: As early as in the mid-18th century, horseshoe crabs were being used in agriculture as fertiliser and then later in fishing as bait. In some regions, they are eaten as food. Cf. Loveland, R.E., M.L. Botton, and C.N. Shuster Jr. "Life History of the American Horseshoe Crab (Limulus polyphemus L.) in Delaware Bay and its Importance as a Commercial Resource." In _Proceedings of the Horseshoe Crab Forum: Status of the Resource_, ed. by J. Farrell and C. Martin. Lewes: University of Delaware Sea Grant College Program, 1996: 15–22; Smith, David R., Michael J. Millard, and Ruth Herrold Carmichael. "Comparative Status and Assessment of Limulus polyphemus, with Emphasis on the New England and Delaware Bay Populations." In _Biology and Conservation of Horseshoe Crabs_, ed. by John T. Tanacredi, Mark Botton, and David R. Smith. New York: Springer, 2009: 361–386.
+
 [^27]: Smith, D.R., M.A. Beekey, H.J. Brockmann, T. L. King, M. J. Millard, and J.A. Zaldívar-Rae. "Limulus polyphemus." _The IUCN Red List of Threatened Species_ 2016: e.T11987A80159830. https://dx.doi.org/10.2305/IUCN.UK.2016-1.RLTS.T11987A80159830.en
+
 [^28]: On the testing method, see Maloney, Tom, Ryan Phelan, and Naira Simmons. "Saving the Horseshoe Crab: A Synthetic Alternative to Horseshoe Crab Blood for Endotoxin Detection." _PLoS Biology_ 16, no. 10 (Oct. 2018). https://doi.org/10.1371/journal.pbio.2006607.
+
 [^29]: See, e.g., McGowan, Conor P., David R. Smith, John A. Sweka, et al. "Multispecies Modeling for Adaptive Management of Horseshoe Crabs and Red Knots in the Delaware Bay." _Natural Resource Modelling_ 24, no. 1 (2011): 117–156. 
+
 :::DE:::
+
+<figure>
+
 ![Rückseite eines Teilpräparats des Nervensystems eines _Limulus polyphemus_ in Alkohol konserviert.](zmb-arach-48487-1.jpg) 
+
+<figcaption>
+
 _Nasspräparat eines Pfeilschwanzkrebses im Museum für Naturkunde Berlin mit der Inventarnummer ZMB 48487. (MfN, ZMB 48497. Foto: Carola Radke/MfN. Alle Rechte vorbehalten.)_
+
+</figcaption>
+
+</figure>
+
 Im Berliner Museum für Naturkunde befindet sich das Präparat eines Pfeilschwanzkrebses in Alkohol mit der Inventarnummer "ZMB [Zoologisches Museum Berlin] 48487". Es gehört zu einer Reihe historischer Nasspräparate der Art _Limulus polyphemus_ (Linnaeus, 1758).[^1] Diese Limulus-Präparate gehörten ursprünglich nicht zur Sammlung des Naturkundemuseums. Sie haben eine lange Geschichte mit mehreren Ortswechseln hinter sich. Die Geschichte dieser Tiere und der ganzen Art zeigt beispielhaft, wie sich in unterschiedlichen wissenschaftlichen Kontexten die Bedeutung und Verwendung von Tieren ebenso wie ihr epistemischer Status oder sogar ihre ganze Seinsweise verändert. 
 
 ## Vom Aquarium über die Lehrsammlung ins Museum. Provenienzgeschichten
+
 Wenn die historischen Limulus-Präparate, die sich heute im Berliner Naturkundemuseum befinden, ursprünglich nicht für dessen Sammlung bestimmt waren, woher stammen sie und was war ihr Zweck? Welche Wege haben sie im Laufe der Zeit zurückgelegt und was vermögen diese über die Sammlungsgeschichte auszusagen?
 Einen Hinweis auf ihre frühere Funktion liefern die Präparate selbst. Die Art der Zurichtung deutet darauf hin, dass es sich nicht um Objekte einer _Forschungs_sammlung wie der des Naturkundemuseums handelt, sondern um _Lehr_objekte. Zum einen wurden Präparate für die universitäre Lehre buchstäblich zugeschnitten oder bestanden aus isolierten Körperteilen, um verschiedene Funktionen oder Organe eines Tieres zu demonstrieren. In diesem Fall sind bei manchen der Tiere bestimmte Körperpartien wie etwa das Nervensystem freigelegt.
 
+<figure>
 
 ![Vorderseite eines Teilpräparats des Nervensystems eines _Limulus polyphemus_ in Alkohol konserviert.](/zmb-arach-48487-2.jpg)
+
+<figcaption>
 
 _Die Vorderseite des Präparates ZMB 48487 zeigt, dass das Nervensystem des Tieres freigelegt ist. (MfN, ZMB 48487. Foto: Carola Radke/MfN. Alle Rechte vorbehalten.)_
 Bei anderen sind einzelne Organe extrahiert.
 
+</figcaption>
+
+</figure>
+
+<figure>
+
 ![In einem zylindrischen Glasbehälter sind Herz und Gefäße eines _Limulus polyphemus_ in Alkohol konserviert.](zmb-arach-32114.jpg)
 
+<figcaption>
+
 _Herz und Gefäße eines Pfeilschwanzkrebses sind beim Präparat ZMB 32114 isoliert. Das Tier stammt aus dem (Berliner?) Aquarium, war vermutlich zunächst Teil der zoologischen Lehrsammlung und wird heute im Museum für Naturkunde aufbewahrt. (MfN, ZMB 32114. Foto: Carola Radke/MfN. Alle Rechte vorbehalten.)_
+
+</figcaption>
+
+</figure>
 
 Einen weiteren Hinweis liefern Gebrauchsspuren. Materialschäden oder Drähte an manchen der Trockenpräparate deuten darauf hin, dass sie ausgestellt, aufgehängt oder in die Hand genommen wurden.
 
