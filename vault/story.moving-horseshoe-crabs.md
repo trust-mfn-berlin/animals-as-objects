@@ -17,7 +17,8 @@ desc_de: Pfeilschwanzkrebse, die 1865 von New York an das Hamburger Aquarium
   wie Tiere und Wissen über Räume und Zeiten hinweg in Bewegung gesetzt wurden.
 short_desc: Routes of animals and knowledge
 short_desc_de: Verbreitungswege von Tieren und Wissen
-cover_image: null
+cover_image:
+  image: /images/fuehrer-durch-das-aquarium-nebst-terrarium-1914.jpg
 colour_scheme: 14
 tao_type: story
 date_start: 1866-12-23T21:58:39.000Z
