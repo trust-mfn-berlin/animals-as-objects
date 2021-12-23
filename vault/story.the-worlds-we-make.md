@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Worlds We Make
 title_de: The Worlds We Make
 created: 1640281603094
-updated: 1640292089650
+updated: 1640292483426
 id: 4npaIbpRAHygxSlfFDrj3
 author: Mareike Vennen
 translators:
@@ -307,19 +307,43 @@ _Herz und Gefäße eines Pfeilschwanzkrebses sind beim Präparat ZMB 32114 isoli
 
 Einen weiteren Hinweis liefern Gebrauchsspuren. Materialschäden oder Drähte an manchen der Trockenpräparate deuten darauf hin, dass sie ausgestellt, aufgehängt oder in die Hand genommen wurden.
 
+<figure>
+
 ![freigestelltes Trockenpräparat eines Pfeilschwanzkrebses mit einem Loch im Panzer, aus dem (vermutlich) Stroh herausquillt.](/images/mv/zmb-arach-32107.jpg)
+
+<figcaption>
 
 _Dieses historische Präparat eines Pfeilschwanzkrebses hat im Laufe seiner Geschichte Schäden davongetragen. (MfN, ZMB 32107. Foto: Carola Radke/MfN. Alle Rechte vorbehalten.)_
 
+</figcaption>
+
+</figure>
+
+<figure>
+
 ![Freigestelltes Trockenpräparat eines Pfeilschwanzkrebses. Die angewinkelten Beine, der Schwanz und Teile des Panzers sind sichtbar. Oben auf dem Panzer ist ein Etikett angebracht; durch das Präparat ist ein Draht zur Aufhängung gezogen.](/images/mv/zmb-arach-48477.jpg)
+
+<figcaption>
 
 _Die Drähte an diesem Präparat weisen auf eine Aufhängung und diese vermutlich auf den früheren Gebrauch als Ausstellungs- bzw. Lehrobjekt hin. (MfN, ZMB 48477. Foto: Carola Radke/MfN. Alle Rechte vorbehalten.)_
 
+</figcaption>
+
+</figure>
+
 Tatsächlich stammen diese Präparate aus dem "Zoologischen Institut", wie oben auf den Etiketten am Glas zu lesen ist. Dabei handelt es sich um ein ehemaliges Institut der Berliner Friedrich-Wilhelms-Universität, an dem seit seiner Gründung 1884 eine zoologische Lehrsammlung aufgebaut wurde.
+
+<figure>
 
 ![Leicht vergilbtes Etikett mit schwarz gedruckter Schrift, sowie handschriftlich vermerkten Nummern und Symbolen.](/images/mv/etikett-limulus-mfn.jpg)
 
+<figcaption>
+
 _Etikett des Präparats aus dem Zoologische Institut, das heute im Museum für Naturkunde die Inventarnummer ZMB 48487 trägt. (MfN, ZMB 48487. Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
+
+</figcaption>
+
+</figure>
 
 Das Zoologische Institut ist nicht zu verwechseln mit der Sammlung des Zoologischen Museums, das den Grundstock der heutigen Sammlungen im Museum für Naturkunde bildete, wo die Präparate derzeit untergebracht sind. Zwar gehörten beide Einrichtungen zur Friedrich-Wilhelms-Universität, in deren Hauptgebäude sie zunächst untergebracht waren, bis sie 1888 bzw. 1889 in das neu erbaute Museum für Naturkunde in der Invalidenstraße einzogen. Sie agierten jedoch, wenn auch unter einem Dach, weitgehend unabhängig voneinander, da sich ihre Funktionen und Aufgaben und daher auch der Aufbau und Bestand ihrer Sammlungen deutlich voneinander unterschieden. Während das Zoologische Museum eine Forschungssammlung besaß, die wissenschaftlichen Zwecken diente, war das Zoologische Institut für die Ausbildung von Studierenden zuständig und hatte seine Lehrsammlung entsprechend ausgerichtet (siehe[[story.history-of-the-zoological-teaching-collection]]). Dass das Präparat mit freigelegtem Nervensystem zuerst Teil des Zoologischen Instituts war, belegt das Etikett dieser Institution, auf dem die Inventarnummer des Museums erst nachträglich notiert wurde. Wie kam das Limulus-Präparat mit freigelegtem Nervensystem in die Zoologische Lehrsammlung und von dort in die Forschungssammlung des Naturkundemuseums? 
 
