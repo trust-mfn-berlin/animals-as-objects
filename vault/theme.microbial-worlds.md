@@ -7,7 +7,7 @@ short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Wel
 date_end: 2021-12-14T14:41:44.038Z
 published: false
 title: Microbial Worlds
-updated: 1640285505272
+updated: 1640285898224
 id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
 translators:
   translator_en_de: Jan-Peter Herrmann
@@ -83,7 +83,7 @@ Since the second half of the 19th century scientific understandings of microorga
 
 <figure>
 
-![The first page of a comic titled “Astrobiology”, showing a view of the Earth from far away in space.](/images/filo/astrobiology.png)#
+![The first page of a comic titled “Astrobiology”, showing a view of the Earth from far away in space.](/images/filo/astrobiology.png)
 
 <figcaption>
 
@@ -206,7 +206,7 @@ Ab der zweiten Hälfte des 19. Jahrhunderts wandelte sich das Verständnis von M
 
 <figure>
 
-![Die Titelseite des Comics „Astrobiology“, die die Erde aus der Ferne des Weltraums zeigt.](/images/filo/astrobiology.png)#
+![Die Titelseite des Comics „Astrobiology“, die die Erde aus der Ferne des Weltraums zeigt.](/images/filo/astrobiology.png)
 
 <figcaption>
 
