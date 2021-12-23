@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Worlds We Make
 title_de: The Worlds We Make
 created: 1640281603094
-updated: 1640289123007
+updated: 1640289404499
 id: 4npaIbpRAHygxSlfFDrj3
 author: Mareike Vennen
 translators:
@@ -162,7 +162,7 @@ _Aquarists, who were organised into associations, helped to produce knowledge ab
 
 </figure>
 
-Public aquariums gave many animals to collections after they died, thereby making them available for scientific research and teaching, including the Zoological Museum and the Zoological Institute in Berlin. "Berlin Aquarium" has been noted on the label of the wet specimen with its nervous system exposed.[^8] After having made its way from the New York coast to Berlin Aquarium, the animal that would later become specimen ZMB 48487 was dispatched to the Zoological Teaching Collection after its death. When, how, and why it then became part of the museum's research collection is unclear. Its transfer to the museum might have had something to do with the historic transformations that were taking place in zoological instruction. Whether this took place before the Second World War or afterwards is unclear. But the limulus specimens potentially moved to the museum (then still part of the Humboldt University as well) in 1970, when the collection's former section head decided to downsize it.[^9] So far, it has not been possible to definitively determine exactly why the teaching collection gave the animals to the museum and why the museum accepted them. At any rate, the specimens' function gradually changed after they switched collections. While they were probably actively used in academic teaching to demonstrate the anatomy of the horseshoe crab (see [[material.papier-mache-silkworm]]) while they were still part of the teaching collection, they are now preserved as historical specimens in the museum collection.[^10] Some of their eventful history – transforming from aquarium animals into teaching specimens, and ultimately into historical collection items – can still be seen today. The various place names that have been entered on the labels are now helping us to reconstruct the provenance of specimen ZMB 48487. The final addition so far has been the ZMB number, which is issued by the collection curator when they create the catalogue.[^11] Ocean, aquarium, teaching collection, and research collection – all of these spaces play an important role in producing and conveying knowledge about horseshoe crabs (among other things).[^12]
+Public aquariums gave many animals to collections after they died, thereby making them available for scientific research and teaching, including the Zoological Museum and the Zoological Institute in Berlin. "Berlin Aquarium" has been noted on the label of the wet specimen with its nervous system exposed.[^8] After having made its way from the New York coast to Berlin Aquarium, the animal that would later become specimen ZMB 48487 was dispatched to the Zoological Teaching Collection after its death. When, how, and why it then became part of the museum's research collection is unclear. Its transfer to the museum might have had something to do with the historic transformations that were taking place in zoological instruction. Whether this took place before the Second World War or afterwards is unclear. But the limulus specimens potentially moved to the museum (then still part of the Humboldt University as well) in 1970, when the collection's former section head decided to downsize it.[^9] So far, it has not been possible to definitively determine exactly why the teaching collection gave the animals to the museum and why the museum accepted them. At any rate, the specimens' function gradually changed after they switched collections. While they were probably actively used in academic teaching to demonstrate the anatomy of the horseshoe crab (see [[material.silkworm-in-papier-mache]]) while they were still part of the teaching collection, they are now preserved as historical specimens in the museum collection.[^10] Some of their eventful history – transforming from aquarium animals into teaching specimens, and ultimately into historical collection items – can still be seen today. The various place names that have been entered on the labels are now helping us to reconstruct the provenance of specimen ZMB 48487. The final addition so far has been the ZMB number, which is issued by the collection curator when they create the catalogue.[^11] Ocean, aquarium, teaching collection, and research collection – all of these spaces play an important role in producing and conveying knowledge about horseshoe crabs (among other things).[^12]
 
 ## From crab to spider: Taxonomic histories
 
@@ -176,7 +176,7 @@ Up until the 19th century, zoological studies assumed that limuli were crustacea
 
 <figcaption>
 
-_Horseshoe crabs in the sales catalogue of the Hamburg natural-history dealer J.F.G. Umlauff, Umlauff, J.F.G. (ed.): _Grosser illustrierter Catalog über Muscheln, Corallen, Gorgonien und Seethiere, _Hamburg: Naturalienhandlung & Museum Hamburg, 1900._
+_Horseshoe crabs in the sales catalogue of the Hamburg natural-history dealer J.F.G. Umlauff, Umlauff, J.F.G. (ed.):_ Grosser illustrierter Catalog über Muscheln, Corallen, Gorgonien und Seethiere, _Hamburg: Naturalienhandlung & Museum Hamburg, 1900._
 
 </figcaption>
 
