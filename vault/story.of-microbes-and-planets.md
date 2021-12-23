@@ -19,7 +19,8 @@ desc_de: Mikropaläontologische Arbeit im offenen Ozean hat dazu beigetragen, di
 short_desc: Microorganisms are fundamental and vital for the dynamics of our planet
 short_desc_de: Mikroorganismen sind grundlegend und lebenswichtig für die
   Dynamiken unseres Planeten
-cover_image: null
+cover_image:
+  image: /images/science-study-1976-copy.jpg
 colour_scheme: 4
 tao_type: story
 date_start: 1971-01-01T14:30:44.684Z
