@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Worlds We Make
 title_de: The Worlds We Make
 created: 1640281603094
-updated: 1640289404499
+updated: 1640292089650
 id: 4npaIbpRAHygxSlfFDrj3
 author: Mareike Vennen
 translators:
@@ -263,7 +263,7 @@ Connections such as the ones outlined here and the ensuing interdependencies and
 
 <figure>
 
-![Rückseite eines Teilpräparats des Nervensystems eines _Limulus polyphemus_ in Alkohol konserviert.](zmb-arach-48487-1.jpg) 
+![Rückseite eines Teilpräparats des Nervensystems eines _Limulus polyphemus_ in Alkohol konserviert.](/images/mv/zmb-arach-48487-1.jpg) 
 
 <figcaption>
 
@@ -282,7 +282,7 @@ Einen Hinweis auf ihre frühere Funktion liefern die Präparate selbst. Die Art 
 
 <figure>
 
-![Vorderseite eines Teilpräparats des Nervensystems eines _Limulus polyphemus_ in Alkohol konserviert.](/zmb-arach-48487-2.jpg)
+![Vorderseite eines Teilpräparats des Nervensystems eines _Limulus polyphemus_ in Alkohol konserviert.](/images/mv/zmb-arach-48487-2.jpg)
 
 <figcaption>
 
@@ -295,7 +295,7 @@ Bei anderen sind einzelne Organe extrahiert.
 
 <figure>
 
-![In einem zylindrischen Glasbehälter sind Herz und Gefäße eines _Limulus polyphemus_ in Alkohol konserviert.](zmb-arach-32114.jpg)
+![In einem zylindrischen Glasbehälter sind Herz und Gefäße eines _Limulus polyphemus_ in Alkohol konserviert.](/images/mv/zmb-arach-32114.jpg)
 
 <figcaption>
 
@@ -307,17 +307,17 @@ _Herz und Gefäße eines Pfeilschwanzkrebses sind beim Präparat ZMB 32114 isoli
 
 Einen weiteren Hinweis liefern Gebrauchsspuren. Materialschäden oder Drähte an manchen der Trockenpräparate deuten darauf hin, dass sie ausgestellt, aufgehängt oder in die Hand genommen wurden.
 
-![freigestelltes Trockenpräparat eines Pfeilschwanzkrebses mit einem Loch im Panzer, aus dem (vermutlich) Stroh herausquillt.](zmb-arach-32107.jpg)
+![freigestelltes Trockenpräparat eines Pfeilschwanzkrebses mit einem Loch im Panzer, aus dem (vermutlich) Stroh herausquillt.](/images/mv/zmb-arach-32107.jpg)
 
 _Dieses historische Präparat eines Pfeilschwanzkrebses hat im Laufe seiner Geschichte Schäden davongetragen. (MfN, ZMB 32107. Foto: Carola Radke/MfN. Alle Rechte vorbehalten.)_
 
-![Freigestelltes Trockenpräparat eines Pfeilschwanzkrebses. Die angewinkelten Beine, der Schwanz und Teile des Panzers sind sichtbar. Oben auf dem Panzer ist ein Etikett angebracht; durch das Präparat ist ein Draht zur Aufhängung gezogen.](zmb-arach-48477.jpg)
+![Freigestelltes Trockenpräparat eines Pfeilschwanzkrebses. Die angewinkelten Beine, der Schwanz und Teile des Panzers sind sichtbar. Oben auf dem Panzer ist ein Etikett angebracht; durch das Präparat ist ein Draht zur Aufhängung gezogen.](/images/mv/zmb-arach-48477.jpg)
 
 _Die Drähte an diesem Präparat weisen auf eine Aufhängung und diese vermutlich auf den früheren Gebrauch als Ausstellungs- bzw. Lehrobjekt hin. (MfN, ZMB 48477. Foto: Carola Radke/MfN. Alle Rechte vorbehalten.)_
 
 Tatsächlich stammen diese Präparate aus dem "Zoologischen Institut", wie oben auf den Etiketten am Glas zu lesen ist. Dabei handelt es sich um ein ehemaliges Institut der Berliner Friedrich-Wilhelms-Universität, an dem seit seiner Gründung 1884 eine zoologische Lehrsammlung aufgebaut wurde.
 
-![Leicht vergilbtes Etikett mit schwarz gedruckter Schrift, sowie handschriftlich vermerkten Nummern und Symbolen.]
+![Leicht vergilbtes Etikett mit schwarz gedruckter Schrift, sowie handschriftlich vermerkten Nummern und Symbolen.](/images/mv/etikett-limulus-mfn.jpg)
 
 _Etikett des Präparats aus dem Zoologische Institut, das heute im Museum für Naturkunde die Inventarnummer ZMB 48487 trägt. (MfN, ZMB 48487. Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
 
@@ -325,21 +325,51 @@ Das Zoologische Institut ist nicht zu verwechseln mit der Sammlung des Zoologisc
 
 In der Lehrsammlung finden sich bereits in den ersten Katalogen aus dem späten 19. Jahrhundert (siehe [[story.inventory-books]]) Belege für die Anschaffung von Limulus-Präparaten. Zu dieser Zeit waren Pfeilschwanzkrebse in der Wissenschaft längst bekannt; Abbildungen und Beschreibungen sind schon aus dem 16. Jahrhundert belegt. Lange Zeit hatten Lehre und Forschung jedoch überwiegend tote Tiere in konserviertem Zustand zur Verfügung. So erwarb das Zoologische Institut laut den Inventarkatalogen Limulus-Präparate etwa von der Berliner Naturalienhandlung Linnaea und der Hamburger Firma J.F.G. Umlauff.[^2]
 
-![Zwei Seiten aus dem Verkaufskatalog der Naturalienhandlung J.F.G. Umlauff. Die Titelseite zeigt eine bunt gedruckte Unterwasserszenerie mit verschiedenen Muscheln, Korallen und Meerestieren. Die zweite Seite enthält vereinzelt in schwarz-weiß abgebildete und mit Verkaufsdetails und -beschreibungen versehene Meerestiere, u.a. verschiedene Fische, Krebse und Krabben.](umlauff-katalaog-1.jpg)(/umlauff-katalaog-2.jpg)
+<figure>
+
+<div class="series">
+
+![Zwei Seiten aus dem Verkaufskatalog der Naturalienhandlung J.F.G. Umlauff. Die Titelseite zeigt eine bunt gedruckte Unterwasserszenerie mit verschiedenen Muscheln, Korallen und Meerestieren. Die zweite Seite enthält vereinzelt in schwarz-weiß abgebildete und mit Verkaufsdetails und -beschreibungen versehene Meerestiere, u.a. verschiedene Fische, Krebse und Krabben.](/images/mv/umlauff-katalaog-1.jpg)
+
+![x](/images/mv/umlauff-katalaog-2.jpg)
+
+</div>
+
+<figcaption>
 
 _Im Verkaufskatalog der Meerestiere von 1900 bot die Hamburger Naturalienhandlung J.F.G. Umlauff unter anderem Pfeilschwanzkrebse an, die sie im Katalog neben den Krebstieren platzierte. Umlauff, J.F.G. (Hg.). _Grosser illustrierter Catalog über Muscheln, Corallen, Gorgonien und Seethiere_. Hamburg: Naturalienhandlung & Museum Hamburg, 1900: links Umschlag; rechts S. 19._
 
+</figcaption>
+
+</figure>
+
 Als sich in der zweiten Hälfte des 19. Jahrhunderts von den englischen Küsten ausgehend die Aquarienhaltung in ganz Europa und kurz darauf in den USA verbreitete und im Zuge dessen ab den späten 1860er-Jahren in vielen Städten öffentliche Aquarien gegründet wurden, wurden diese zu weiteren Bezugsquellen für zoologische Lehr- und Forschungssammlungen. Immer mehr Meerestiere, die nicht in europäischen Gewässern heimisch waren, wurden lebend importiert.[^3] Das gilt auch für Pfeilschwanzkrebse. Von den vier noch existierenden Arten leben drei in den indopazifischen Gewässern Südostasiens[^4], während die Art _Limulus polyphemus_ (Linnaeus, 1758) im westlichen Atlantik entlang der Ostküste von Nord- und Mittelamerika verbreitet ist (siehe [[story.moving-horseshoe-crabs]]). Die meisten Limuli in europäischen Aquarien stammen von der Ostküste der USA, insbesondere aus Delaware Bay in New Jersey.[^5] In Deutschland zeigten bereits Mitte der 1860er-Jahre die Aquarienhäuser in Hamburg und Hannover Pfeilschwanzkrebse aus dieser Region[^6], ebenso wie das Aquarium Unter den Linden in Berlin und ab 1913 das Aquarium im Berliner Zoo.[^7]
+
+<figure>
 
 ![Doppelseite mit vier Schwarz-Weiß-Zeichnungen, die Seepferdchen, Oktopusse, Pfeilschwanzkrebse und Nagelrochen in einer Unterwasserlandschaft bzw. am Strand zeigen.](/images/mv/limulus-aquarienfuehrer-1914.jpg)
 
+<figcaption>
+
 _Der Aquarienführer von 1914 präsentierte Zeichnungen ausgewählter Meerestiere, die ausgestellt waren. (AZGB. All rights reserved.)_
+
+</figcaption>
+
+</figure>
 
 Pfeilschwanzkrebse waren auch unter privaten Aquarianer:innen beliebt, die zum Wissen über die Lebensbedingungen und Haltung der Tiere beitrugen. 
 
+<figure>
+
 ![Dreiseitiger Artikel mit dem Titel "Zur Biologie des Pfeilschanzkrebses" aus den _Blättern für Aquarien- und Terrarienkunde_ von 1916. Der Text ist von einer Zeichnung und drei Schwarz-Weiß-Fotografien unterbrochen.](/images/mv/blaetter-27-1916.jpg)
 
+<figcaption>
+
 _Die in Vereinen organisierten Aquarianer:innen trugen in Fachzeitschriften wie den_ Blättern für Aquarien- und Terrarienkunde _(1916) zum Wissen über Pfeilschwanzkrebse bei._
+
+</figcaption>
+
+</figure>
 
 Von Aquarien aus wurden viele Tiere nach ihrem Tod an Sammlungen abgegeben und dadurch für wissenschaftliche Forschungs- und Lehrzwecke nutzbar gemacht, so auch für das Zoologische Museum und das Zoologische Institut in Berlin. Auf dem Etikett des Nasspräparats mit freigelegtem Nervensystem ist "Berliner Aquarium" vermerkt.[^8] Nachdem also das Tier, das später zum Präparat ZMB 48487 werden sollte, vermutlich von der Küste bei New York ins Berliner Aquarium gelangte, wurde es nach seinem Tod in die Zoologische Lehrsammlung überstellt. Wann, wie und weshalb es von dort in die Forschungssammlung des Museums kam, ist nicht gesichert. Die Abgabe an das Museum könnte mit den historischen Wandlungen des Zoologieunterrichts zusammenhängen. Ob dies vor dem Zweiten Weltkrieg geschah oder danach, ist nicht klar. Möglicherweise wurden die Limulus-Präparate aber auch im Jahr 1970, als sich der damalige Sektionsleiter der Sammlung entschied, diese zu verkleinern, dem Museum (das damals ebenfalls noch Teil der Humboldt-Universität war) überlassen.[^9] Die genauen Gründe, weshalb die Lehrsammlung die Tiere ans Museum gab und dieses sie annahm, können (bislang) ebenfalls nicht endgültig geklärt werden. Jedenfalls hat sich mit dem Sammlungswechsel im Laufe der Zeit die Funktion der Präparate gewandelt. Während sie in der Lehrsammlung vermutlich aktiv in der Lehre eingesetzt wurden, um die Anatomie des Pfeilschwanzkrebses zu vermitteln (siehe [[material.silkworm-in-papier-mache]]), werden sie in der Museumssammlung heute vornehmlich als historische Präparate aufbewahrt.[^10] Diese wechselvolle Geschichte der Wandlungen vom Aquarientier zum Lehrpräparat und schließlich zum historischen Sammlungsobjekt ist teilweise noch sichtbar. Die verschiedenen Orte, die auf dem Etikett eingetragen sind, helfen heute, die Provenienz des Präparates ZMB 48487 zu rekonstruieren. Der (bislang) letzte Zusatz ist die ZMB-Nummer, die die Sammlungskurator\*innen bei der Erstellung des Bestandskatalog vergeben.[^11] Meer, Aquarium, Lehr- und Forschungssammlung - all diese Räume werden (unter anderem) dazu genutzt, Wissen über Pfeilschwanzkrebse zu produzieren und zu vermitteln. Zu diesem Zweck werden die Tiere auf unterschiedliche Weise erforscht, zugerichtet, klassifiziert, so dass den Pfeilschwanzkrebsen ein je unterschiedlicher Status zukommt.[^12]
 
@@ -349,9 +379,17 @@ Wer allerdings im Berliner Naturkundemuseum die Präparate der Pfeilschwanzkrebs
 
 Bis ins 19. Jahrhundert gingen zoologische Studien davon aus, dass es sich bei den Limuli um Krebstiere handelt, vor allem weil sie im Meer leben, Kiemen besitzen und wie Krebse aussehen.[^13] Diese Annahme spiegelt sich in vielen der Namen, die dem Tier gegeben wurden: Pfeilschwanzkrebs, im Englischen _horseshoe crab_ oder früher auch _king crab_. Entsprechend wurden die Tiere innerhalb der Krebstiere verortet. In Aquarien waren sie zusammen mit Krebsen und Krabben ausgestellt und als Krebstiere ausgewiesen, etwa im weltweit ersten öffentlichen Aquarienhaus im Londoner Zoologischen Garten im Regent's Park.[^14] Gleiches galt für den Naturalien- und Tierhandel, beispielsweise bei der Firma Umlauff, die Pfeilschwanzkrebse in ihrem "Catalog über Muscheln, Corallen, Gorgonien und Seethiere" anbot. 
 
-![Verschiedene Fische, Krebse und Krabben, sowie weitere Meerestiere als Schwarz-Weiß-Zeichnungen abgebildet und mit Verkaufsdetails und Beschreibungen versehen in einem Verkaufskatalog des Naturalienhändler J.F.G. Umlauff.](/umlauff-katalog-3.jpg) 
+<figure>
 
-_Im Verkaufskatalog der Hamburger Naturalienhandlung J.F.G. Umlauff ist der Pfeilschwanzkrebs neben den Krebstieren platziert. Umlauff, J.F.G. (Hg.):_ Grosser illustrierter Catalog über Muscheln, Corallen, Gorgonien und Seethiere. Hamburg: Naturalienhandlung & Museum Hamburg, 1900.
+![Verschiedene Fische, Krebse und Krabben, sowie weitere Meerestiere als Schwarz-Weiß-Zeichnungen abgebildet und mit Verkaufsdetails und Beschreibungen versehen in einem Verkaufskatalog des Naturalienhändler J.F.G. Umlauff.](/images/mv/umlauff-katalog-3.jpg) 
+
+<figcaption>
+
+_Im Verkaufskatalog der Hamburger Naturalienhandlung J.F.G. Umlauff ist der Pfeilschwanzkrebs neben den Krebstieren platziert. Umlauff, J.F.G. (Hg.):_ Grosser illustrierter Catalog über Muscheln, Corallen, Gorgonien und Seethiere. _Hamburg: Naturalienhandlung & Museum Hamburg, 1900._
+
+</figcaption>
+
+</figure>
 
 In der zweiten Hälfte des 19. Jahrhunderts wurden jedoch vermehrt Stimmen laut, die nachweisen wollten, dass Pfeilschwanzkrebse enger mit den Spinnenartigen als mit Krebsen verwandt sind. Um diese Frage der Artenbestimmung zu klären, waren vergleichende Untersuchungen notwendig, wie jene des Londoner Zoologen Edwin Ray Lankester, der 1881 im _Quarterly Journal of Microscopical Science_ zwei einschlägige Artikel mit dem Titel "Limulus as Arachnid" veröffentlichte.[^15] Die vergleichenden anatomischen Studien waren auf Material angewiesen. Auch hier spielten ab den 1860er-Jahren Aquarien als Beobachtungsstätte und Bezugsquelle eine wichtige Rolle. Edwin Lankester erhielt für seine anatomischen und histologischen Studien lebende Pfeilschwanzkrebse vom Royal Westminster Aquarium in London. In Hamburg bekamen Zoologen wie Karl August Möbius Pfeilschwanzkrebse aus dem dortigen Zoo-Aquarium. [^16] Nicht zufällig nahmen daher ab den 1870er-Jahren die Studien zum Pfeilschwanzkrebs zu.[^17] Nachdem Lankester und andere zu dem Schluss gekommen waren, dass die Tiere mehr Merkmale mit Spinnen und Skorpionen gemein hatten als mit Krebstieren, wurde _Limulus polyphemus_ im Jahr 1901 in die Gruppe der Chelicerata eingeordnet. Der Pfeilschwanzkrebs wechselte damit innerhalb der taxonomischen Ordnung die Gruppe.[^18]
 Hier werden die Dynamiken taxonomischen Wissens sichtbar, die zeigen, dass das taxonomische System (siehe [[theme.taxonomical-orders]]) ein Resultat wissenschaftlicher Arbeit und damit historischen Wandlungen unterworfen ist. Es folgte ein physischer Ortswechsel innerhalb des Museums.[^19] Die Präparate der Pfeilschwanzkrebse wanderten von der Sammlung der Crustaceen zu den Arachnida und Myriapoda, den Spinnentieren und Tausendfüßlern, wo sie neu verzeichnet wurden und eine neue Signatur erhielten. Bei manchen Objekten im Berliner Naturkundemuseum ist ihre ursprüngliche taxonomische Einordnung und ihr ehemaliger Sammlungsort in der Krebssammlung noch sichtbar. Hinter dem Akronym ZMB (für "Zoologisches Museum Berlin", was die Zuordnung zu einer speziellen Sammlung ermöglicht) und der Inventarnummer für Spinnentiere (etwa "48490") findet sich ein Zusatz in Klammern, der auf die alte Signatur verweist und an die wechselhafte Taxonomiegeschichte der Art erinnert:
