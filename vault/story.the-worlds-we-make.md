@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Worlds We Make
 title_de: The Worlds We Make
 created: 1640281603094
-updated: 1640283939301
+updated: 1640285003473
 id: 4npaIbpRAHygxSlfFDrj3
 author: Mareike Vennen
 translators:
@@ -41,60 +41,164 @@ _Wet specimen of a horseshoe crab with inventory number ZMB 48487 at the Berlin 
 At the Berlin Museum of Natural History, a specimen of a horseshoe crab preserved in alcohol bears the inventory number "ZMB [Berlin Zoological Museum] 48487". It is one of a series of historical wet specimens of the species _Limulus polyphemus_ (Linnaeus, 1758).[^1] These limulus specimens were not originally part of the natural history museum's collection and have a long history behind them that has taken them through different stations. The history of these animals and the species as a whole is a good example of how an animal's significance and utilisation change in different scientific contexts, as does its epistemological status and even its entire mode of existence. 
 
 ## From the aquarium via the teaching collection to the museum: Provenance histories
+
 If the historical limulus specimens in Berlin's Museum of Natural History were not originally intended for its collection, where did they come from, and what was their purpose? What kinds of distances did they cover over time, and what can they tell us about the history of the collection?
+
 The specimens themselves give us a clue about their earlier function. The way that they have been prepared indicates that they were not items in a _research_ collection, like that of the natural history museum, but rather _teaching_ objects. Firstly, the specimens were literally cut to fit university teaching requirements or consisted of isolated body parts that could be used to demonstrate an animal's various functions or organs. Some of the animals' body parts have been exposed, like the nervous system has been here.
-![Front of a partial specimen of the nervous system of Limulus polyphemus preserved in alcohol.](zmb-arach-48487-2.jpg)
+
+<figure>
+
+![Front of a partial specimen of the nervous system of Limulus polyphemus preserved in alcohol.](/zmb-arach-48487-2.jpg)
+
+<figcaption>
+
 _The front of specimen ZMB 48487 reveals the animal's exposed nervous system. (MfN, ZMB 48487. Photo: Carola Radke/MfN. All rights reserved.)_
+
+</figcaption>
+
+</figure>
+
 Organs have been removed from other animals and prepared as individual specimens.
-![The heart and vessels of a Limulus polyphemus specimen have been preserved in alcohol in a cylindrical glass container.](zmb-arach-32114.jpg)
+
+<figure>
+
+![The heart and vessels of a Limulus polyphemus specimen have been preserved in alcohol in a cylindrical glass container.](/zmb-arach-32114.jpg)
+
+<figcaption>
+
 _In this specimen, the heart and vessels of a horseshoe crab have been isolated. This animal came from the (Berlin?) Aquarium and was probably part of the Zoological Teaching Collection to begin with. It is now stored at the Museum of Natural History Berlin. (MfN, ZMB 32114. Photo: Carola Radke/MfN. All rights reserved.)_
+
+</figcaption>
+
+</figure>
+
 Traces of wear and tear provide more clues. Material damage and wires on some of the dry specimens indicate that they were exhibited, hung up, and handled.
-![Free-standing dry specimen of a horseshoe crab with a hole in its shell, out of which (what is presumably) straw bulges out.](zmb-arach-32107.jpg)
+
+xx2bilder!!
+
+![Free-standing dry specimen of a horseshoe crab with a hole in its shell, out of which (what is presumably) straw bulges out.](/zmb-arach-32107.jpg)
+
 _This historical specimen of a horseshoe crab has suffered damage over time. (MfN, ZMB 32107. Photo: Carola Radke/MfN. All rights reserved._
-![Free-standing dry specimen of horseshoe crab. Visible are its bent legs, its tail, and parts of its shell. A label has been attached to the top of the shell; a wire for hanging the specimen up has been pulled through it.](zmb-arach-48477.jpg)
+
+![Free-standing dry specimen of horseshoe crab. Visible are its bent legs, its tail, and parts of its shell. A label has been attached to the top of the shell; a wire for hanging the specimen up has been pulled through it.](/zmb-arach-48477.jpg)
+
 _The wires on the specimen show that it was hung up, which points to its probable earlier use as an exhibition or teaching object. (MfN, ZMB 48477. Photo: Carola Radke/MfN. All rights reserved.)_
+
 In fact, these specimens have come from the "Zoological Institute", as can be read at the top of the jar label. This was a former institute of Friedrich-Wilhelm-Universität zu Berlin, where, after the founding of the institute in 1884, a Zoological Teaching Collection was established.
-![Slightly yellowed label with black preprinted writing as well as handwritten numbers and symbols.](images/mv/etikett-limulus-mfn.jpg)
+
+<figure>
+
+![Slightly yellowed label with black preprinted writing as well as handwritten numbers and symbols.](/images/mv/etikett-limulus-mfn.jpg)
+
+<figcaption>
+
 _Label on the specimen from the Zoological Institute, which now bears inventory number ZMB 48487, at the Museum of Natural History. (MfN, ZMB 48487. Photo: Mareike Vennen. All rights reserved.)_
+
+</figcaption>
+
+</figure>
+
 The Zoological Institute should not be confused with the collection of the Zoological Museum, which laid the foundations for today's Museum of Natural History collection, where these specimens are currently stored. Both institutions were part of Friedrich Wilhelm University, where they were first housed in the main building until they moved to the newly built Museum of Natural History on Invalidenstraße in 1888 and 1889 respectively. However, even though they shared a roof, they largely worked independently of each other, as their functions and tasks, and therefore the structure and holdings of their collections, differed markedly. While the Zoological Museum had a research collection that served scientific purposes, the Zoological Institute was responsible for training students and arranged its teaching collection accordingly (see [[story.history-of-the-zoological-teaching-collection]]). The fact that the specimen with its nervous system exposed initially belonged to the Zoological Institute is verified by the institution's label, on which the museum's inventory number was noted much later. How did the specimen make its way into the Zoological Teaching Collection and from there into the Museum of Natural History's research collection? 
+
 In the teaching collection, the first catalogues from the 19th century provide evidence of how limulus specimens were acquired (see [[story.inventory-books]]). At that time, science had been familiar with horseshoe crabs for quite some time; there are pictures and descriptions of them that date back as far as the 16th century. However, the animals that had been available to teaching and research had mainly been dead specimens in a preserved state. According to the inventory catalogues, for example, the Zoological Institute purchased limulus specimens from the Berlin natural history dealer Linnaea and the Hamburg company J.F.G. Umlauff.[^2]
-![Two pages from the sales catalogue printed by the natural history dealer J.F.G. Umlauff. The cover page displays a colourful underwater scene with different shells, corals, and sea creatures. The second page contains black-and-white pictures of individual marine animals, including various fish, crabs, and prawns, furnished with sales details and descriptions.](umlauff-katalaog-1.jpg)(umlauff-katalaog-2.jpg)
-_In its 1900 sea life sales catalogue, the Hamburg natural history dealer J.F.G. Umlauff had animals like horseshoe crabs on offer. Umlauff, J.F.G. (ed.). _Grosser illustrierter Catalog über Muscheln, Corallen, Gorgonien und Seethiere_. Hamburg: Naturalienhandlung & Museum Hamburg, 1900: left, cover; right p. 19._
+
+<figure>
+
+![Two pages from the sales catalogue printed by the natural history dealer J.F.G. Umlauff. The cover page displays a colourful underwater scene with different shells, corals, and sea creatures. The second page contains black-and-white pictures of individual marine animals, including various fish, crabs, and prawns, furnished with sales details and descriptions.](/umlauff-katalaog-1.jpg)(umlauff-katalaog-2.jpg)
+
+<figcaption>
+
+_In its 1900 sea life sales catalogue, the Hamburg natural history dealer J.F.G. Umlauff had animals like horseshoe crabs on offer. Umlauff, J.F.G. (ed.)._ Grosser illustrierter Catalog über Muscheln, Corallen, Gorgonien und Seethiere. Hamburg: Naturalienhandlung & Museum Hamburg, 1900: _left, cover; right p. 19._
+
+</figcaption>
+
+</figure>
+
 In the 19th century, as the practice of keeping animals in aquariums spread from the English coast throughout Europe and shortly afterwards to the US, which led to the founding of a number of public aquariums in the 1860s, they became further sources for zoological teaching and research collections. More and more sea creatures that were not endemic to European waters were being imported live[^3], including horseshoe crabs. Of the four surviving species, three live in the Indo-Pacific waters of South East Asia[^4], while the species _Limulus polyphemus_ (Linnaeus, 1758) can be found in the West Atlantic and along the east coast of North and Central America (see [[story.moving-horseshoe-crabs]]). Most limuli in European aquariums come from the East Coast of the US, in particular from Delaware Bay in New Jersey.[^5] In Germany, the aquariums in Hamburg and Hanover were already showing horseshoe crabs from that region as early as in the mid-1860s[^6], as were the Unter den Linden Aquarium in Berlin and, from 1913, the aquarium at Berlin Zoo.[^7]
+
+<figure>
+
 ![Double-page with four black-and-white drawings showing sea horses, octopuses, horseshoe crabs and Thornback rays underwater or at the beach.](images/mv/limulus-aquarienfuehrer-1914.jpg)
+
+<figcaption>
+
 _The Berlin Zoo's aquarium guide depicted drawings of some of the sea-creatures that were on display in 1914. (AZGB. All rights reserved.)_
+
+</figcaption>
+
+</figure>
+
 Horseshoe crabs were also popular with private aquarists, who helped to produce knowledge about their living conditions and how to keep these animals. 
+
+<figure>
+
 ![Three-page article with the title "The Biology of the Horseshoe Crab" from the _Blättern für Aquarien- und Terrarienkunde_, 1916. The text is interrupted by a drawing and three black-and-white photos.](images/mv/blaetter-27-1916.jpg)
-_Aquarists, who were organised into associations, helped to produce knowledge about horseshoe crabs in specialist journals like the _Blätter für Aquarien- und Terrarienkunde_ (1916)._
+
+<figcaption>
+
+_Aquarists, who were organised into associations, helped to produce knowledge about horseshoe crabs in specialist journals like the_ Blätter für Aquarien- und Terrarienkunde (1916).
+
+</figcaption>
+
+</figure>
+
 Public aquariums gave many animals to collections after they died, thereby making them available for scientific research and teaching, including the Zoological Museum and the Zoological Institute in Berlin. "Berlin Aquarium" has been noted on the label of the wet specimen with its nervous system exposed.[^8] After having made its way from the New York coast to Berlin Aquarium, the animal that would later become specimen ZMB 48487 was dispatched to the Zoological Teaching Collection after its death. When, how, and why it then became part of the museum's research collection is unclear. Its transfer to the museum might have had something to do with the historic transformations that were taking place in zoological instruction. Whether this took place before the Second World War or afterwards is unclear. But the limulus specimens potentially moved to the museum (then still part of the Humboldt University as well) in 1970, when the collection's former section head decided to downsize it.[^9] So far, it has not been possible to definitively determine exactly why the teaching collection gave the animals to the museum and why the museum accepted them. At any rate, the specimens' function gradually changed after they switched collections. While they were probably actively used in academic teaching to demonstrate the anatomy of the horseshoe crab (see [[material.papier-mâché-silkworm]]) while they were still part of the teaching collection, they are now preserved as historical specimens in the museum collection.[^10] Some of their eventful history – transforming from aquarium animals into teaching specimens, and ultimately into historical collection items – can still be seen today. The various place names that have been entered on the labels are now helping us to reconstruct the provenance of specimen ZMB 48487. The final addition so far has been the ZMB number, which is issued by the collection curator when they create the catalogue.[^11] Ocean, aquarium, teaching collection, and research collection – all of these spaces play an important role in producing and conveying knowledge about horseshoe crabs (among other things).[^12]
-From crab to spider: Taxonomic histories
+
+## From crab to spider: Taxonomic histories
+
 Those looking for horseshoe crab specimens at the Berlin Museum of Natural History, however, might find that their name proves to be a red herring luring them to the wrong collection. This has to do with the history of the species – or, more precisely: with the history of its scientific investigation. It is not just individual specimens like ZMB 48487 that have switched places and functions over time: the species _Limulus polyphemus_ as a whole switched places within the taxonomic order in the 19th century and, as a result, within the collection structure. Science has thus changed its perspective on the horseshoe crab and what we know about it – in short: it has turned one animal into another. 
+
 Up until the 19th century, zoological studies assumed that limuli were crustaceans, primarily because they lived in the sea, had gills, and looked like crabs.[^13] As a result, the animals were classified as crustaceans. In aquariums, they were exhibited together with crabs and prawns, as they were, for example, in the world's first public aquarium building, London's Zoological Garden in Regent's Park.[^14] The same applied to the natural history and animal trade. Umlauff, for example, placed the horseshoe crabs on offer next to crabs in its "Catalogue of Shells, Corals, Soft Corals, and Sea Creatures". 
-![Black-and-white pictures of various fish, crabs, and prawns, as well as other sea creatures, in a sales catalogue issued by the natural history dealer J.F.G. Umlauff furnished with sales details and descriptions.](umlauff-katalog-3.jpg) 
+
+<figure>
+
+![Black-and-white pictures of various fish, crabs, and prawns, as well as other sea creatures, in a sales catalogue issued by the natural history dealer J.F.G. Umlauff furnished with sales details and descriptions.](/umlauff-katalog-3.jpg) 
+
+<figcaption>
+
 _Horseshoe crabs in the sales catalogue of the Hamburg natural-history dealer J.F.G. Umlauff, Umlauff, J.F.G. (ed.): _Grosser illustrierter Catalog über Muscheln, Corallen, Gorgonien und Seethiere, _Hamburg: Naturalienhandlung & Museum Hamburg, 1900._
+
+</figcaption>
+
+</figure>
+
 In the second half of the 19th century, however, more and more claims were being made that horseshoe crabs were more closely related to arachnids than crabs. A number of comparative studies were required to settle this issue of species classification. London zoologist Edwin Ray Lankester, for instance, published two pertinent articles with the title "Limulus as Arachnid" in the 1881 _Quarterly Journal of Microscopical Science_.[^15] Aquariums played another important role in these comparative anatomical studies as sites of observation and as sources for providing specimens from the 1860s onwards. Edwin Lankester, for instance, received live horseshoe crabs from the Royal Westminster Aquarium in London for his anatomical and histological studies. In Hamburg, zoologists like Karl August Möbius were given horseshoe crabs by the zoo aquarium there.[^16] It was therefore not by coincidence that the number of studies being published on the horseshoe crab grew from the 1870s.[^17] After Lankester and others had drawn the conclusion that the animals had more in common with spiders and scorpions than with crustaceans, _Limulus polyphemus_ was classified as a chelicerate in 1901. The horseshoe crab thus changed its subphylum within the taxonomic order.[^18]
+
 Here, the dynamics of taxonomic knowledge become visible, revealing that the [[taxonomic order|theme.taxonomical-orders]]) is subject to historical change. Within the museum, horseshoe crab specimens then migrated from the Crustacean Collection to the Arachnid and Myriapod Collection, joining the spiders and centipedes, and received a new signature.[^19] Their original taxonomic classification and former location within the Crustacean Collection is still visible for some of the objects at the Berlin Museum of Natural History. Behind the acronym ZMB (for "Zoological Museum Berlin", which allows an object to be assigned to a special collection) and the inventory number for arachnids (for example "48490"), there is additional information provided in brackets, which points to this species' eventful taxonomic history: 
+
 > ZMB 48490 [ex crustacean no. 5928], 4 juveniles, alcohol; Nahant, Massachusetts, USA; leg. Fröbel, date not recorded; good condition.[^20]
+
 The same applies to museum exhibitions, where knowledge was spatially organised according to a systematic taxonomic concept. While horseshoe crabs were displayed in the crustacean department in the 19th century, they joined the arachnids in the 20th century. On the Biodiversity Wall at the Berlin Museum of Natural History – a four-metre high and twelve-metre long installation that displays around 3,000 animals from all kinds of habitats – you will now find horseshoe crabs alongside scorpions and spiders.
+
 Science has not just redefined the horseshoe crab within the taxonomic order: the way it has moved through spaces of knowledge and collection spaces has changed what the animal was and what it is. In this sense, museum collections, and the research that takes place within them, are also sites of world-making that reorganize nature.
 
 ## From the ocean to the laboratory: Biomedical histories 
+
 In the second half of the 20th century, horseshoe crabs made their way into new scientific contexts, where they became part of an experimental practice that furthered their connection to humans even more. In the mid-1950s, researchers discovered that horseshoe crab blood (which is blue due to the amount of copper it contains) is rich in amoebocytes, i.e., cells that immediately react to poisons.[^21] This led to medical practitioners like Frederik Bang and Jack Levin developing the Limulus amoebocyte lysate test (LAL test) from the blood of _Limulus polyphemus_. This test makes use of the fact that limulus blood coagulates when it comes into contact with certain bacteria, meaning that, when the immune cells in the blood of the horseshoe crab encounter invading bacteria, they agglutinate around it and protect the rest of the animal's body from the toxins. The coagulation factor, which can verify the presence of even tiny amounts of a given pathogen, can reveal the presence of bacterial contamination, also known as endotoxins.[^22] Since the 1970s, the LAL test has been used to determine the presence of endotoxins in human blood serum and is now sold in the United States. For this reason, when thousands of crabs come out of the sea in spring to breed and spawn (especially in Delaware Bay), they are caught by trawlers or collected on the beach and brought to specialist laboratories of biomedical companies, where a canula inserted into their hearts removes up to a third of their blood. Afterwards they are taken back to where they were caught and released back into the sea alive. The short- and long-term damage caused by the bleeding is still unclear, but the number of studies pursuing this issue is increasing.[^23] 
+
 Biomedical research has taken horseshoe crabs to new spaces, namely, modern laboratories, where the animals – or more precisely: their blood – are turned into a valuable resource. A few years ago, the price for a litre of limulus blood on the global market had already been estimated at about USD 15,000.[^24] Since the LAL test was approved, the demand for horseshoe crabs in the pharma industry has been gradually increasing, as the test is now the standard for screening both implantable medical devices and injectable medications, and for testing biological samples for bacterial contamination.[^25] Strictly speaking, biomedicine is not the only field in which horseshoe crabs have been exploited by humans: the animals were earlier used in agriculture (as fertiliser) and fishing (as bait).[^26] But, in recent decades especially, noticeable changes have been recorded in horseshoe crab populations. The unregulated capture of limuli in the late 1990s led to a drastic drop in US populations. Their use in the biotechnical industry has profoundly changed the human world but also the living conditions of horseshoe crabs. In this sense, scientific research and its applications have proven to be processes of world-making that have helped to secure an important medical resource for humans, but have put the animals' lives in danger in order to do so.
 Moreover, reduced limulus spawning activity due to their capture is not just having an impact on the species itself, but also on larger ecological contexts, as horseshoe crabs are an important link in coastal biodiversity. The eggs laid by the animals each spring on the beaches of Delaware Bay are an important food source for migratory birds like the red knot (_Calidris canutus_). On its annual 18,000-mile journey from Tierra del Fuego on the southern tip of South America to the Canadian Arctic and back, the red knot lands in the bay while the horseshoe crab is spawning. The noticeable decline in horseshoe crab populations since the 1990s has thus correlated with a visible decline in red-knot population. Although catch quotas have been introduced and various initiatives taken to protect horseshoe crabs at a regional, national and international level, the International Union for Conservation of Nature (IUCN) declared the horseshoe crab endangered in 2016.[^27] This might have to do not least with the fact that, although an artificial alternative to the LAL test has now been developed, it has not yet become the standard in the US.[^28] At the same time, the demand for tests continues to grow – now more than ever, in fact, as the LAL test is also being used in the development of vaccines. Since the beginning of the Corona pandemic, more than 100 different vaccines have been tested. Successful vaccines must be carefully tested before they are introduced on the market, which further increases the need for limulus serum. Horseshoe crabs are thus playing an important, albeit little-known, role in the lives of almost everybody. 
+
 Connections such as the ones outlined here and the ensuing interdependencies and dynamics frequently only become visible once we chart the paths and movements of animals and species and find the links between them. To do this, it is important to trace the stories of _individual animals_ through various spaces (of knowledge), like the journey from the ocean to the aquarium, to museum collections or laboratories. This also means examining the history of the _species_, in particular the various disciplines, fields of application, and ecologies in which the species have played a role. Taking a perspective like this uncovers genealogies and illustrates how the worlds and lives of humans and animals are intertwined. This knowledge can also be utilised for the present and the future. Insights like these into the connections between the routes taken by migratory birds like the red knot and the spawning activities of the horseshoe crabs in Delaware Bay have led to the development of cross-species approaches in ecology and conservation.[^29] Similarly, historical collection data in natural history museums and historical reports on the anthropogenic spread of horseshoe crabs (see [[story.moving-horseshoe-crabs]]) can be used to investigate urgent questions about the loss of biodiversity. In this sense, spaces of knowledge like collections and laboratories are also spaces of world-making that change living conditions, habitats, and lives. The challenge that remains is to find visions that will enable us to coexist in the future. 
 
-## Footnotes
+[^1] Cf. Dunlop, Jason A., Marlene S. Compton, Anja Friederichs. "An Annotated Catalogue of the Horseshoe Crabs (Xiphosura) Held in the Museum für Naturkunde Berlin." _Zoosystematics and Evolution_ 88, no. 2 (2012): 215-222, 215. https://doi.org/10.1002/zoos.201200018. I would like to thank Jason Dunlop for providing so much helpful information about the specimens and their history. 
 
- [^1] Cf. Dunlop, Jason A., Marlene S. Compton, Anja Friederichs. "An Annotated Catalogue of the Horseshoe Crabs (Xiphosura) Held in the Museum für Naturkunde Berlin." _Zoosystematics and Evolution_ 88, no. 2 (2012): 215-222, 215. https://doi.org/10.1002/zoos.201200018. I would like to thank Jason Dunlop for providing so much helpful information about the specimens and their history. 
 [^2] In 1885, for example, the teaching collection purchased a dry specimen from Umlauff for five marks; between 1891 and 1894, the catalogue recorded the acquisition of three wet specimens from the Berlin-based natural-history dealer Linnaea for two, five, and six marks respectively. Cf. Zoologisches Institut (ZIB), Inventarbuch V, vol. 1.
+
 [^3]: On the history of the aquarium in the 19th century, see Vennen, Mareike. _Das Aquarium: Praktiken, Techniken und Medien der Wissensproduktion (1840-1910)_. Göttingen: Wallstein, 2018.
+
 [^4] These include _Carcinoscorpius rotundicauda_ (Latreille, 1802), _Tachypleus gigas_ (O. F. Müller 1785), and _Tachypleus tridentatus_ (Leach, 1819). The North Atlantic species is classified as its own sub-family.
+
 [^5] Animal and natural history dealers were initially responsible for importing the animals, after which, from the late 19th century onwards, aquarists began keeping them in New York itself in aquariums that sold the animals. In 1896, New York Aquarium opened in Manhattan's Battery Park, before later moving to Coney Island. Between 1879 and 1883, there had already been one aquarium in the city, the Great New York Aquarium on the corner of 35th Street and Broadway, which had been founded by W.C. Coup, a veteran of New York's show business and partner of P.T. Barnum. There, too, there were horseshoe crabs on display, back then under the title of "King Crab". Cf. _New York Aquarium Journal_, ed. by New York Aquarium 1 (1876).
+
 [^6] Cf. Hess, Wilhelm. _Führer durch J.G. Egestorff's Aquarium zu Hannover: Eine kurze Uebersicht der darin befindlichen Thiere_. Hanover: Druck von Wilhelm Riemschneider, 1867: 35; Lloyd, William Alford. "On the Occurrence of Limulus Polyphemus off the Coast of Holland, and on the Transmission of Aquarium Animals." _The Zoologist_ 9 (1874): 3845–3855, 3850. 
+
 [^7] On the Aquarium Unter den Linden, see Brehm, Alfred. _Führer durch das Berliner Aquarium: Eine kurze Beschreibung der in ihre zur Schaugestellten Thiere._ Berlin: Verlag des Berliner Aquariums, 1870: 83-84. In 1920, 1925, 1928, 1930, and 1934, the New York Aquarium sent horseshoe crabs to the Berlin Zoo Aquarium. Cf. the relevant business reports from the Berlin Zoological Garden.
+
 [^8]: Because specimen ZMB 48487 is undated, "Berlin Aquarium" could mean one of two institutions: the Aquarium Unter den Linden ran from 1869 to 1910, where horseshoe crabs could be viewed as early as in 1870 (cf. Brehm, Alfred. _Führer durch das Berliner Aquarium: Eine kurze Beschreibung der in ihre zur Schau gestellten Thiere_. Berlin: Verlag des Berliner Aquariums, 1870: 83-84.) The old collection catalogues tell us that the Zoological Institute had already received specimens from there in November 1895. (Cf. Zoologisches Institut [ZIB]. Inventarbuch V, vol. 1, no. 3409; Zoologisches Institut [ZIB], Inventarbuch V, vol. 2, no. 4301.) Three years after the building had to close in 1910, a new aquarium was opened in the Zoological Garden. Before and after the First World War, the New York Aquarium donated ten to 20 live limuli to it each year and also gave dead specimens to the Zoological Institute. Cf. Zoologischer Garten Berlin. _Geschäftsbericht für das Jahr 1914. Berlin: 1915._
+
 [^9] Cf. Richter, Stefan. "Die Lehrsammlung des Zoologischen Instituts der Berliner Universität – ihre Geschichte und ihre Bedeutung." _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ 37 (25 February 1999): 59-76, 64.
+
 [^10] Dunlop, Jason A., Marlene S. Compton, and Anja Friederichs. "An Annotated Catalogue of the Horseshoe Crabs (Xiphosura) Held in the Museum für Naturkunde Berlin." _Zoosystematics and Evolution_ 88, no. 2 (2012): 215-222, 215. https://doi.org/10.1002/zoos.201200018.
 [^11] The numbers that begin with "48" were only recently assigned to predominantly older specimens, as the curator of the Arachnid Collection, Jason Dunlop, explains.
 [^12] At the same time, knowledge about horseshoe crabs depends quite existentially on the lives and/or deaths of the animals (e.g., their transportability and ability to survive in the aquarium), and on their materiality (for example the damaged materiality of dry specimens). 
