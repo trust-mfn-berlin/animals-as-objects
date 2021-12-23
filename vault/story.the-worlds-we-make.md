@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Worlds We Make
 title_de: The Worlds We Make
 created: 1640281603094
-updated: 1640288287537
+updated: 1640288458641
 id: 4npaIbpRAHygxSlfFDrj3
 author: Mareike Vennen
 translators:
@@ -118,9 +118,13 @@ In the teaching collection, the first catalogues from the 19th century provide e
 
 <figure>
 
+<div class="series">
+
 ![Two pages from the sales catalogue printed by the natural history dealer J.F.G. Umlauff. The cover page displays a colourful underwater scene with different shells, corals, and sea creatures. The second page contains black-and-white pictures of individual marine animals, including various fish, crabs, and prawns, furnished with sales details and descriptions.](/images/mv/umlauff-katalaog-1.jpg)
 
 (/images/mv/umlauff-katalaog-2.jpg)
+
+</div>
 
 <figcaption>
 
