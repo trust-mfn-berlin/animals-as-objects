@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Worlds We Make
 title_de: The Worlds We Make
 created: 1640281603094
-updated: 1640286829989
+updated: 1640287307146
 id: 4npaIbpRAHygxSlfFDrj3
 author: Mareike Vennen
 translators:
@@ -74,15 +74,29 @@ _In this specimen, the heart and vessels of a horseshoe crab have been isolated.
 
 Traces of wear and tear provide more clues. Material damage and wires on some of the dry specimens indicate that they were exhibited, hung up, and handled.
 
-xx2bilder!!
+<figure>
 
 ![Free-standing dry specimen of a horseshoe crab with a hole in its shell, out of which (what is presumably) straw bulges out.](/zmb-arach-32107.jpg)
 
+<figcaption>
+
 _This historical specimen of a horseshoe crab has suffered damage over time. (MfN, ZMB 32107. Photo: Carola Radke/MfN. All rights reserved._
+
+</figcaption>
+
+</figure>
+
+<figure>
 
 ![Free-standing dry specimen of horseshoe crab. Visible are its bent legs, its tail, and parts of its shell. A label has been attached to the top of the shell; a wire for hanging the specimen up has been pulled through it.](/zmb-arach-48477.jpg)
 
+<figcaption>
+
 _The wires on the specimen show that it was hung up, which points to its probable earlier use as an exhibition or teaching object. (MfN, ZMB 48477. Photo: Carola Radke/MfN. All rights reserved.)_
+
+</figcaption>
+
+</figure>
 
 In fact, these specimens have come from the "Zoological Institute", as can be read at the top of the jar label. This was a former institute of Friedrich-Wilhelm-Universität zu Berlin, where, after the founding of the institute in 1884, a Zoological Teaching Collection was established.
 
