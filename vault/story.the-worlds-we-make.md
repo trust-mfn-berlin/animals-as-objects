@@ -1,17 +1,27 @@
 ---
-id: 4npaIbpRAHygxSlfFDrj3
-title: The Worlds We Make
-desc: Put a description of this note here...
-updated: 1640281687053
-created: 1640281603094
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: story
-cover_image: null
 license: CC BY-SA
-published: false
+title: The Worlds We Make
+title_de: The Worlds We Make
+created: 1640281603094
+updated: 1640281687053
+id: 4npaIbpRAHygxSlfFDrj3
+author: Mareike Vennen
+translators:
+  translator_de_en: Lydia J. White
+desc: The history of the horseshoe crab traverses a range of collecting sites
+  and scientific spaces, and shows how they have changed the worlds of both
+  people and animals.
+desc_de: Die Geschichte des Pfeilschwanzkrebses führt quer durch verschiedene
+  Orte des Sammelns und Räume der Wissenschaft und zeigt, wie diese die
+  Lebenswelten von Menschen und Tieren gleichermaßen verändern.
+short_desc: Horseshoe crabs in collections and laboratories
+short_desc_de: Pfeilschwanzkrebse in der Sammlung und im Labor
+cover_image: null
 colour_scheme: 14
+tao_type: story
+date_start: 1800-12-23T18:49:39.000Z
+date_end: ""
+published: false
 ---
 
 :::EN:::
