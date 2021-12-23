@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Worlds We Make
 title_de: The Worlds We Make
 created: 1640281603094
-updated: 1640288197951
+updated: 1640288287537
 id: 4npaIbpRAHygxSlfFDrj3
 author: Mareike Vennen
 translators:
@@ -124,7 +124,7 @@ In the teaching collection, the first catalogues from the 19th century provide e
 
 <figcaption>
 
-_In its 1900 sea life sales catalogue, the Hamburg natural history dealer J.F.G. Umlauff had animals like horseshoe crabs on offer. Umlauff, J.F.G. (ed.)._ Grosser illustrierter Catalog über Muscheln, Corallen, Gorgonien und Seethiere. Hamburg: Naturalienhandlung & Museum Hamburg, 1900: _left, cover; right p. 19._
+_In its 1900 sea life sales catalogue, the Hamburg natural history dealer J.F.G. Umlauff had animals like horseshoe crabs on offer. Umlauff, J.F.G. (ed.)._ Grosser illustrierter Catalog über Muscheln, Corallen, Gorgonien und Seethiere. _Hamburg: Naturalienhandlung & Museum Hamburg, 1900: left, cover; right p. 19._
 
 </figcaption>
 
