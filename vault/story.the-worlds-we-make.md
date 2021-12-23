@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Worlds We Make
 title_de: The Worlds We Make
 created: 1640281603094
-updated: 1640287307146
+updated: 1640287709416
 id: 4npaIbpRAHygxSlfFDrj3
 author: Mareike Vennen
 translators:
@@ -118,7 +118,7 @@ In the teaching collection, the first catalogues from the 19th century provide e
 
 <figure>
 
-![Two pages from the sales catalogue printed by the natural history dealer J.F.G. Umlauff. The cover page displays a colourful underwater scene with different shells, corals, and sea creatures. The second page contains black-and-white pictures of individual marine animals, including various fish, crabs, and prawns, furnished with sales details and descriptions.](/umlauff-katalaog-1.jpg)(umlauff-katalaog-2.jpg)
+![Two pages from the sales catalogue printed by the natural history dealer J.F.G. Umlauff. The cover page displays a colourful underwater scene with different shells, corals, and sea creatures. The second page contains black-and-white pictures of individual marine animals, including various fish, crabs, and prawns, furnished with sales details and descriptions.](/images/mv/umlauff-katalaog-1.jpg)(/images/mv/umlauff-katalaog-2.jpg)
 
 <figcaption>
 
@@ -132,7 +132,7 @@ In the 19th century, as the practice of keeping animals in aquariums spread from
 
 <figure>
 
-![Double-page with four black-and-white drawings showing sea horses, octopuses, horseshoe crabs and Thornback rays underwater or at the beach.](images/mv/limulus-aquarienfuehrer-1914.jpg)
+![Double-page with four black-and-white drawings showing sea horses, octopuses, horseshoe crabs and Thornback rays underwater or at the beach.](/images/mv/limulus-aquarienfuehrer-1914.jpg)
 
 <figcaption>
 
