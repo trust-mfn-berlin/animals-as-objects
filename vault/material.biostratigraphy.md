@@ -8,7 +8,7 @@ short_desc_de: Versteinerte Überreste von Organismen liefern Informationen übe
 date_end: 2021-12-07T19:31:17.935Z
 published: false
 title: Biostratigraphy
-updated: 1639749663234
+updated: 1640266438049
 id: f0ff8e4e-5bb8-4622-8d51-8da1cb651524
 translators:
   translator_en_de: Jan-Peter Herrmann
@@ -28,7 +28,11 @@ Biostratigraphy is the use of fossil assemblages to correlate and age rock strat
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rWp5ZpJAIAE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<figcaption>
+
 _A video explaining the history of geology and our understanding of deep time, mainly thanks to biostratigraphy._
+
+</figcaption>
 
 :::DE:::
 
@@ -36,4 +40,8 @@ Die Biostratigraphie nutzt Fossilanhäufungen zur Korrelierung und Altersbestimm
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rWp5ZpJAIAE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<figcaption>
+
 _Ein Video, das die Geschichte der Geologie und unser Verständnis der Tiefenzeit (Deep Time) erklärt, vor allem dank der Biostratigraphie._
+
+</figcaption>
