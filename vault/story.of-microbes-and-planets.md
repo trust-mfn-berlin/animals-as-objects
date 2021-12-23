@@ -8,7 +8,7 @@ short_desc_de: Mikroorganismen sind grundlegend und lebenswichtig für die
 date_end: 2021-12-14T14:34:55.503Z
 published: false
 title: Of Microbes and Planets
-updated: 1639749900249
+updated: 1640266589308
 id: 796e4da7-c573-401f-a165-7bd9c3a503c6
 translators:
   translator_en_de: Jan-Peter Herrmann
@@ -32,7 +32,11 @@ date_start: 1971-01-01T14:30:44.684Z
 
 ![the cover of a reprint from Science of a landmark paper in paleoclimatology, with the photo of a tree by a cliffside with a red illustration of Earth's orbit around the sun overimposed](/images/filo/Science-study-1976-copy.jpg)
 
+<figcaption>
+
 _The cover of a reprint of the 1976 landmark paper by Hays, Imbrie, and Shackleton demonstrating the relation between changes in planetary orbit and glaciations. This paper was based on the microfossil record from two oceanic sediment cores._ [^footnote1]
+
+</figcaption>
 
 another product of wartime science, cybernetics and [[material.system sciences]], impact on the objects of science, but also its tools and methods. [[material.planetary sciences]], and the planet as earth systems, and climate science. [[material.gaia theory]]. Modeling and [[material.big data]], [[material.databases]]
 
