@@ -2,7 +2,7 @@
 id: WPnxMDphZ5DDXrhkIdvBS
 title: Moving Horseshoe Crabs
 desc: Put a description of this note here...
-updated: 1640293691584
+updated: 1640293913982
 created: 1640293118344
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -91,7 +91,7 @@ So far, however, there has been no indication that horseshoe crabs have become e
 
 <figure>
 
-![Zeichnung von drei Pfeilschwanzkrebsen an einem Strand mit Bildunterschrift.](images/mv/fuehrer-durch-das-aquarium-nebst-terrarium-1914.jpg)
+![Zeichnung von drei Pfeilschwanzkrebsen an einem Strand mit Bildunterschrift.](/images/mv/fuehrer-durch-das-aquarium-nebst-terrarium-1914.jpg)
 
 <figcaption>
 
