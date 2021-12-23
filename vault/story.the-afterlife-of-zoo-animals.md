@@ -7,7 +7,7 @@ short_desc_de: Auf den Spuren eines Elefanten
 date_end: 1947-12-31T11:00:00.000Z
 published: false
 title: The Afterlife of Zoo Animals
-updated: 1639749905058
+updated: 1640297313517
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 translators:
   translator_de_en: Carla Welch
@@ -36,7 +36,7 @@ date_start: 1932-12-31T23:00:00.000Z
 
 <figure>
 
-![Newspaper clipping. Title: "Siam" under the band saw. No more than skin and bones: our zoo pachyderm also suffered from starvation.](images/mv/BandsaegeQuali.jpg)
+![Newspaper clipping. Title: "Siam" under the band saw. No more than skin and bones: our zoo pachyderm also suffered from starvation.](/images/mv/BandsaegeQuali.jpg)
 
 <figcaption>
 
@@ -50,7 +50,7 @@ In 1947, the Berlin daily newspaper _Telegraf_ reported on the death of "Siam". 
 
 <figure>
 
-![Newspaper clipping. Photograph: Man in white coat and hat holds the tip of the trunk of a standing elephant that has a blanket on its back. Six other people with hats and walking sticks or whips gather round.](images/mv/animal-exchange-circus-and-zoo-Berlin-Neue-Berliner-12-Uhr-Zeitung.jpg)
+![Newspaper clipping. Photograph: Man in white coat and hat holds the tip of the trunk of a standing elephant that has a blanket on its back. Six other people with hats and walking sticks or whips gather round.](/images/mv/animal-exchange-circus-and-zoo-Berlin-Neue-Berliner-12-Uhr-Zeitung.jpg)
 
 <figcaption>
 
@@ -64,15 +64,15 @@ The carcasses of zoo animals, especially large mammals, are usually not simply d
 
 ## Colonial traces
 
-One of the trails leads to the Zoological Museum Berlin, which was a part of the Museum of Natural History. According to the aforementioned newspaper article, after the elephant's body had been cut up and dissected, the museum was to receive the skull for its scientific research collection, and a piece of the backbone for its exhibition.[^1] The article went on to report that a private taxidermist named Kriegerowski, who regularly received animal carcasses from the zoo for taxidermy purposes, was to receive the feet, which he combined with tinfoil to make wastepaper baskets.[^2] This is where the trail runs cold, or at least where my research reaches a dead-end. The items that ended up in private hands are much harder to locate than those in public collections. The histories of some objects (still) only seem to exist in the form of a paper trail the animals left behind in archives, correspondence, and newspaper reports [[story.auf-verschwommenen-pfaden]]. That said, the search in the Natural History Museum has also proven difficult. My colleague Clemens Maier-Wolthausen and I have searched for the skull in many boxes, cupboards, and shelves in the mammal collection — thus far, without success.[^3]
+One of the trails leads to the Zoological Museum Berlin, which was a part of the Museum of Natural History. According to the aforementioned newspaper article, after the elephant's body had been cut up and dissected, the museum was to receive the skull for its scientific research collection, and a piece of the backbone for its exhibition.[^1] The article went on to report that a private taxidermist named Kriegerowski, who regularly received animal carcasses from the zoo for taxidermy purposes, was to receive the feet, which he combined with tinfoil to make wastepaper baskets.[^2] This is where the trail runs cold, or at least where my research reaches a dead-end. The items that ended up in private hands are much harder to locate than those in public collections. The histories of some objects (still) only seem to exist in the form of a paper trail the animals left behind in archives, correspondence, and newspaper reports [[story.moving-horseshoe-crabs]]. That said, the search in the Natural History Museum has also proven difficult. My colleague Clemens Maier-Wolthausen and I have searched for the skull in many boxes, cupboards, and shelves in the mammal collection — thus far, without success.[^3]
 
 <figure>
 
 <div class="series">
 
-![Three shelves on which several elephant skulls are stored](images/mv/elephant-skulls-mammal-collection-shelves.png)
+![Three shelves on which several elephant skulls are stored](/images/mv/elephant-skulls-mammal-collection-shelves.png)
 
-![Open wooden box of long bones lies on a table. A chair stands next to the table; antlers hang in the background.](images/mv/bones-mammal-collection.png)
+![Open wooden box of long bones lies on a table. A chair stands next to the table; antlers hang in the background.](/images/mv/bones-mammal-collection.png)
 
 </div>
 
@@ -84,9 +84,9 @@ _Searching the mammal collection of the Museum for Natural History Berlin, Novem
 
 </figure>
 
-Did the elephant bones not end up in the collection at all? Or are we just unable to find them because the Zoological Museum did not keep systematic or uniform records at the time, and as a result, today it is not always clear where and how incoming objects were recorded? On this, see also [[story.keeping-records-of-animals]] and [[theme.recording-worlds]].
+Did the elephant bones not end up in the collection at all? Or are we just unable to find them because the Zoological Museum did not keep systematic or uniform records at the time, and as a result, today it is not always clear where and how incoming objects were recorded? On this, see also [[story.keeping-record-of-animals]] and [[theme.recording-worlds]].
 
-One thing that is clear, however, in "Siam's" case, the trail leads us into European colonial history. The different stages of his life shed light on what happened to the animals that were brought to Europe from the colonies as gifts, or objects of trade and barter [^4] — like "Siam", for example, who was brought to Europe from the British colony of Ceylon. [[Animal traders|story.catching-animals]] such as John Hagenbeck regularly travelled to these regions to capture [[animals for zoos|theme.how-do-animals-get-into-the-zoo]] and circuses, and to recruit people for so-called "Völkerschauen", ethnological exhibitions of people also known as "human zoos."[^5] Although we still know little about how "Siam" was captured in Ceylon and transported to Berlin, his story is part of the long and problematic history of zoo and circus animals from colonial contexts. Wastepaper baskets made of elephant feet are undoubtedly among the iconic trophies manifesting different modes of reuse and stereotypical imperial images of appropriation and domination. Although we do not know where "Siam's" feet actually ended up, the suggestion that they were made into wastepaper baskets renders them part of this European history of appropriation. And I am reminded once again that the material culture of colonialism can be found in living rooms as well as in research collections. It is as much a part of the history of everyday life, as of the history of Berlin’s museums. Today, we come across material vestiges of colonialism in historical collections, in old photos of 19th and early 20th century furniture, and when strolling through flea markets. This makes me think about what kinds of traces an animal leaves behind, where they can be found, and what this means for my own research and its sources.
+One thing that is clear, however, in "Siam's" case, the trail leads us into European colonial history. The different stages of his life shed light on what happened to the animals that were brought to Europe from the colonies as gifts, or objects of trade and barter [^4] — like "Siam", for example, who was brought to Europe from the British colony of Ceylon. [[Animal traders|story.catching-animals]] such as John Hagenbeck regularly travelled to these regions to capture [[animals for zoos|theme.how-do-animals-end-up-in-the-zoo]] and circuses, and to recruit people for so-called "Völkerschauen", ethnological exhibitions of people also known as "human zoos."[^5] Although we still know little about how "Siam" was captured in Ceylon and transported to Berlin, his story is part of the long and problematic history of zoo and circus animals from colonial contexts. Wastepaper baskets made of elephant feet are undoubtedly among the iconic trophies manifesting different modes of reuse and stereotypical imperial images of appropriation and domination. Although we do not know where "Siam's" feet actually ended up, the suggestion that they were made into wastepaper baskets renders them part of this European history of appropriation. And I am reminded once again that the material culture of colonialism can be found in living rooms as well as in research collections. It is as much a part of the history of everyday life, as of the history of Berlin’s museums. Today, we come across material vestiges of colonialism in historical collections, in old photos of 19th and early 20th century furniture, and when strolling through flea markets. This makes me think about what kinds of traces an animal leaves behind, where they can be found, and what this means for my own research and its sources.
 
 ## Feeding and eating
 
@@ -100,7 +100,7 @@ The lions at Berlin Zoo received some of the elephant meat. About 20 pounds also
 
 <figure>
 
-![Newspaper clipping. Title: Siam on the menu. Zoo animals with a special bonus.](images/mv/Speisekarte.jpg)
+![Newspaper clipping. Title: Siam on the menu. Zoo animals with a special bonus.](/images/mv/Speisekarte.jpg)
 
 <figcaption>
 
@@ -118,7 +118,7 @@ Just how great the need was among the people of Berlin in the first postwar year
 
 "Siam’s" story tells of various forms of (re)use. Zoo animals are part of different cycles of (re)use at different times. [[story.knut]], probably Berlin Zoo's most famous polar bear, who was born in the zoo in 2006 and has been on display in the Berlin Museum of Natural History since his death in 2011, has been a zoo attraction, a climate ambassador, and a licensed brand. The elephant had gone from being a wild animal to "Siam" the circus and zoo attraction in the 1930s. He may then very well have gone on to be part of a scientific research collection, as well as — if the newspaper report is to be believed — a decorative object in the style of a colonial trophy [[material.an-ecovative-image-of-the-colonial]], and finally a source of meat for animal and human consumption. The story of "Siam’s" life and afterlife, reconstructed from his paper trail, is a story that is at once local and global; it is a chapter of Berlin's postwar history, and part of a global history of colonialism. 
 
-At the same time, the afterlife of "Siam" reveals the gaps in the records [[story.unauffindbar]], literally empty spaces in material culture. These empty spaces, in particular, raise many questions — about when zoo animals are given as feed or eaten; whether they are disposed of, mourned, or recycled after death, and how they become scientific objects, exhibits, trophies, or a source of meat [[story.from-pests-to-displays]]. What forms of labor are involved, what forms of care, and what rationale for and approaches to (re)use? This leads me back to the question of the traces an animal leaves behind, the ways in which it is possible or impossible to reconstruct (hi)stories on the basis of its paper trail, and what this means for my research, its sources, and the limits of historical reconstruction.
+At the same time, the afterlife of "Siam" reveals the gaps in the records [[story.untraceable]], literally empty spaces in material culture. These empty spaces, in particular, raise many questions — about when zoo animals are given as feed or eaten; whether they are disposed of, mourned, or recycled after death, and how they become scientific objects, exhibits, trophies, or a source of meat [[story.from-pests-to-displays]]. What forms of labor are involved, what forms of care, and what rationale for and approaches to (re)use? This leads me back to the question of the traces an animal leaves behind, the ways in which it is possible or impossible to reconstruct (hi)stories on the basis of its paper trail, and what this means for my research, its sources, and the limits of historical reconstruction.
 
 [^1]: "'Siam' unter der Bandsäge", _Telegraf_, 21.03.1947.
 
@@ -166,7 +166,7 @@ At the same time, the afterlife of "Siam" reveals the gaps in the records [[stor
 
 <figure>
 
-![Zeitungsausschnitt. Titel: "Siam" unter der Bandsäge. Unser Zoo-Dickhäuter auch verhungert – ohne Fett und ohne Mark.](images/mv/BandsaegeQuali.jpg)
+![Zeitungsausschnitt. Titel: "Siam" unter der Bandsäge. Unser Zoo-Dickhäuter auch verhungert – ohne Fett und ohne Mark.](/images/mv/BandsaegeQuali.jpg)
 
 <figcaption>
 
@@ -180,7 +180,7 @@ _Zeitungsartikel im_ Telegraf _über "Siams" Verwertung, 21.03.1947._
 
 <figure>
 
-![Zeitungsausschnitt. Foto: Mann in weißem Kittel und mit Hut hält Rüsselspitze eines stehenden Elefanten mit Decke auf dem Rücken. Sechs weitere Personen mit Hüten und Gehstöcken oder Gerten stehen dabei.](images/mv/animal-exchange-circus-and-zoo-Berlin-Neue-Berliner-12-Uhr-Zeitung.jpg)
+![Zeitungsausschnitt. Foto: Mann in weißem Kittel und mit Hut hält Rüsselspitze eines stehenden Elefanten mit Decke auf dem Rücken. Sechs weitere Personen mit Hüten und Gehstöcken oder Gerten stehen dabei.](/images/mv/animal-exchange-circus-and-zoo-Berlin-Neue-Berliner-12-Uhr-Zeitung.jpg)
 
 <figcaption>
 
@@ -194,15 +194,15 @@ Die Kadaver von Zootieren, zumal Großsäugern, werden meist nicht einfach entso
 
 ## Koloniale Spuren
 
-Eine der Spuren führt in das Zoologische Museum Berlin, das Teil des Museums für Naturkunde war. Nachdem der Körper des Elefanten zerteilt und seziert worden war, sollte das Museum den Schädel für seine wissenschaftliche Sammlung und ein Stück Rückgrat für seine Ausstellung erhalten, wie es in besagtem Zeitungsartikel heißt.[^1] Ein privater Präparator namens Kriegerowski, der regelmäßig Tierkadaver zu Präparationszwecken vom Zoo übernahm, sollte die Füße erhalten, aus denen er Papierkörbe mit Staniolpapier fertigte, wie weiter zu lesen ist.[^2] Hier verliert sich die Spur, oder ich komme zumindest in der Recherche nicht weiter. Was in private Hände gelangte, ist selten oder zumindest seltener wieder auffindbar als das, was in öffentlichen Sammlungen lagert. Manche Objektgeschichten scheinen nur (noch) als Papierspuren zu existieren, die die Tiere in Archiven, Korrespondenzen oder Zeitungsberichten hinterlassen haben [[story.auf-verschwommenen-pfaden]]. Wobei sich auch die Suche im Naturkundemuseum als schwierig erweist. Mein Kollege Clemens Maier-Wolthausen und ich haben in der Säugetiersammlung viele Kisten, Schränke und Regale nach dem Schädel durchsucht, bislang ohne Erfolg.[^3]
+Eine der Spuren führt in das Zoologische Museum Berlin, das Teil des Museums für Naturkunde war. Nachdem der Körper des Elefanten zerteilt und seziert worden war, sollte das Museum den Schädel für seine wissenschaftliche Sammlung und ein Stück Rückgrat für seine Ausstellung erhalten, wie es in besagtem Zeitungsartikel heißt.[^1] Ein privater Präparator namens Kriegerowski, der regelmäßig Tierkadaver zu Präparationszwecken vom Zoo übernahm, sollte die Füße erhalten, aus denen er Papierkörbe mit Staniolpapier fertigte, wie weiter zu lesen ist.[^2] Hier verliert sich die Spur, oder ich komme zumindest in der Recherche nicht weiter. Was in private Hände gelangte, ist selten oder zumindest seltener wieder auffindbar als das, was in öffentlichen Sammlungen lagert. Manche Objektgeschichten scheinen nur (noch) als Papierspuren zu existieren, die die Tiere in Archiven, Korrespondenzen oder Zeitungsberichten hinterlassen haben [[story.moving-horseshoe-crabs]]. Wobei sich auch die Suche im Naturkundemuseum als schwierig erweist. Mein Kollege Clemens Maier-Wolthausen und ich haben in der Säugetiersammlung viele Kisten, Schränke und Regale nach dem Schädel durchsucht, bislang ohne Erfolg.[^3]
 
 <figure>
 
 <div class="series">
 
-![Regal mit drei Brettern, auf denen mehrere Elefantenschädel lagern.](images/mv/elephant-skulls-mammal-collection.png)
+![Regal mit drei Brettern, auf denen mehrere Elefantenschädel lagern.](/images/mv/elephant-skulls-mammal-collection.png)
 
-![Offene Holzkiste auf einem Tisch, in der längliche Knochen liegen. Neben dem Tisch steht ein Stuhl, im Hintergrund hängen Geweihe.](images/mv/box-with-bones-mammal-collection.png)
+![Offene Holzkiste auf einem Tisch, in der längliche Knochen liegen. Neben dem Tisch steht ein Stuhl, im Hintergrund hängen Geweihe.](/images/mv/box-with-bones-mammal-collection.png)
 
 </div>
 
@@ -214,7 +214,7 @@ _Suche in der Säugetiersammlung des Museums für Naturkunde Berlin, November 20
 
 </figure>
 
-Sind die Elefantenknochen am Ende gar nicht in die Sammlung gekommen? Oder finden wir sie nur nicht, weil das Zoologische Museum zu jener Zeit nicht systematisch oder einheitlich Buch führte, so dass heute nicht für jedes damals eintreffende Objekt klar ist, wo und wie es verzeichnet ist? Siehe dazu auch [[story.keeping-records-of-animals]] und [[theme.recording-worlds]].
+Sind die Elefantenknochen am Ende gar nicht in die Sammlung gekommen? Oder finden wir sie nur nicht, weil das Zoologische Museum zu jener Zeit nicht systematisch oder einheitlich Buch führte, so dass heute nicht für jedes damals eintreffende Objekt klar ist, wo und wie es verzeichnet ist? Siehe dazu auch [[story.keeping-record-of-animals]] und [[theme.recording-worlds]].
 
 In "Siams" Fall führen die Spuren, soviel steht fest, in die europäische Kolonialgeschichte. Die Stationen seines Lebens lenken den Blick auf jene Tiere, die aus den Kolonien als Handels- und Tauschobjekte oder als Geschenke nach Europa gebracht wurden[^4] – wie bei "Siam" aus der britischen Kolonie Ceylon. Auch hier waren regelmäßig [[Tierhändler|story.catching-animals]] wie John Hagenbeck unterwegs, um [[Tiere für Zoologische Gärten|theme.how-do-animals-end-up-in-the-zoo]] und Zirkusse zu fangen und Menschen für "Völkerschauen" – zooähnliche Ausstellungen von Menschen – zu rekrutieren.[^5] Obwohl wir darüber, wie "Siam" auf Ceylon gefangen und nach Berlin transportiert wurde, noch wenig wissen, ist dies Teil der langen und problematischen Geschichte der Zoo- und Zirkustiere aus kolonialen Kontexten. Elefantenfüße als Papierkörbe gehören dabei zweifellos zu den ikonischen Trophäen, in denen sich Verwertungsweisen wie auch stereotypisierte imperiale Bilder von Aneignung und Beherrschung materialisieren. Auch wenn wir über den tatsächlichen Verbleib von "Siams" Füßen ebenfalls nichts wissen, macht der Hinweis, dass aus ihnen Papierkörbe gemacht wurden, sie zu einem Teil dieser europäischen Aneignungsgeschichte. Und sie machen mir wieder einmal bewusst, dass die materielle Kultur des Kolonialismus in Sammlungen ebenso wie in Wohnzimmern zu suchen ist. Sie ist sowohl Teil der Berliner   Museums- als auch der Alltagsgeschichte. Die materiellen Spuren des Kolonialismus begegnen einem heute beim Gang durch historische Sammlungen, auf alten Fotos mit Mobiliar des 19. und frühen 20. Jahrhunderts und beim Gang über Trödelmärkte. Das bringt mich zum Nachdenken darüber, was für Spuren ein Tier hinterlässt, wo diese zu finden sind und was das für meine eigene Forschung und ihre Quellen bedeutet.
 
@@ -230,7 +230,7 @@ Die Löwen im Berliner Zoo erhielten einen Teil des Elefantenfleisches. Rund 20 
 
 <figure>
 
-![Zeitungsauschnitt. Titel: Siam auf der Speisenkarte. Zoo-Tiere mit Sonderzulage.](images/mv/Speisekarte.jpg)
+![Zeitungsauschnitt. Titel: Siam auf der Speisenkarte. Zoo-Tiere mit Sonderzulage.](/images/mv/Speisekarte.jpg)
 
 <figcaption>
 
@@ -248,7 +248,7 @@ Wie groß die Not in der Berliner Bevölkerung in den ersten Nachkriegsjahren wa
 
 Die Geschichte von "Siam" ist eine Geschichte unterschiedlicher Verwertungen. Zu unterschiedlichen Zeiten sind Zootiere in unterschiedliche Verwertungskreisläufe eingebunden. [[story.knut]], der wohl berühmteste Eisbär des Berliner Zoos, der 2006 im Zoo geboren wurde und seit seinem Tod 2011 als Dermoplastik im Berliner Naturkundemuseum zu sehen ist, war (und ist) Schauattraktion, Klimabotschafter und lizensierte Marke. Der Elefant war in den 1930er Jahren vom Wildtier zu "Siam", der Zirkus- und Zooattraktion geworden, dann womöglich zum Teil einer wissenschaftlichen Sammlung und, laut Zeitungsberichten, zum Dekorationsobjekt im Stil kolonialer Trophäen [[material.an-ecovative-image-of-the-colonial]] und schließlich zum Fleischlieferanten für Tier und Mensch. Die Geschichte seines Lebens und Nachlebens, rekonstruiert aus Papierspuren, ist eine zugleich lokale und globale Geschichte; ein Kapitel Berliner Nachkriegsgeschichte und Teil einer globalen Geschichte des Kolonialismus.
 
-Gleichzeitig macht das Nachleben von "Siam" die Lücken in der Überlieferung sichtbar [[story.unauffindbar]], die buchstäblichen Leerstellen der materiellen Kultur. Gerade sie stoßen viele Fragen an – darüber, wann Zootiere gefüttert oder gegessen werden; ob sie nach ihrem Tod entsorgt, betrauert oder weiterverwertet werden und wie sie zu wissenschaftlichen Objekten, zu Ausstellungsstücken, zu Trophäen und Fleischlieferanten werden [[story.from-pests-to-displays]]. Welche Formen der Arbeit sind damit verbunden, welche Formen der Fürsorge und welche Verwertungslogiken? Das führt mich zurück zu der Frage, welche Spuren ein Tier hinterlässt, auf welche Weise es möglich oder unmöglich ist, Geschichte(n) anhand von Papierspuren zu rekonstruieren und was das für meine Forschung, ihre Quellen und die Grenzen historischer Rekonstruktion bedeutet.
+Gleichzeitig macht das Nachleben von "Siam" die Lücken in der Überlieferung sichtbar [[story.untraceable]], die buchstäblichen Leerstellen der materiellen Kultur. Gerade sie stoßen viele Fragen an – darüber, wann Zootiere gefüttert oder gegessen werden; ob sie nach ihrem Tod entsorgt, betrauert oder weiterverwertet werden und wie sie zu wissenschaftlichen Objekten, zu Ausstellungsstücken, zu Trophäen und Fleischlieferanten werden [[story.from-pests-to-displays]]. Welche Formen der Arbeit sind damit verbunden, welche Formen der Fürsorge und welche Verwertungslogiken? Das führt mich zurück zu der Frage, welche Spuren ein Tier hinterlässt, auf welche Weise es möglich oder unmöglich ist, Geschichte(n) anhand von Papierspuren zu rekonstruieren und was das für meine Forschung, ihre Quellen und die Grenzen historischer Rekonstruktion bedeutet.
 
 [^1]: "'Siam' unter der Bandsäge", _Telegraf_, 21.03.1947.
 
