@@ -1,17 +1,28 @@
 ---
-id: WPnxMDphZ5DDXrhkIdvBS
-title: Moving Horseshoe Crabs
-desc: Put a description of this note here...
-updated: 1640293691584
-created: 1640293118344
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: story
-cover_image: null
 license: CC BY-SA
-published: false
+title: Moving Horseshoe Crabs
+title_de: Auf verschwommenen Pfaden
+created: 1640293118344
+updated: 1640293691584
+id: WPnxMDphZ5DDXrhkIdvBS
+author: Mareike Vennen
+translators:
+  translator_de_en: Lydia J. White
+desc: The case of a number of horseshoe crabs that were sent from New York to
+  the Hamburg Aquarium in 1865 but later turned up in the North Sea shows how
+  animals and knowledge were set in motion, traversing different spaces and
+  times.
+desc_de: Pfeilschwanzkrebse, die 1865 von New York an das Hamburger Aquarium
+  verschickt wurden, aber später in der Nordsee auftauchten – dieser Fall zeigt,
+  wie Tiere und Wissen über Räume und Zeiten hinweg in Bewegung gesetzt wurden.
+short_desc: Routes of animals and knowledge
+short_desc_de: Verbreitungswege von Tieren und Wissen
+cover_image: null
 colour_scheme: 14
+tao_type: story
+date_start: 1866-12-23T21:58:39.000Z
+date_end: 2020-01-01T21:08:57.624Z
+published: false
 ---
 
 :::EN:::
