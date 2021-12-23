@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Deep Sea Drilling
 title_de: Bohrkerne aus den Böden der Tiefsee
 created: 1619107396222
-updated: 1640281498395
+updated: 1640298023157
 id: d76483c9-9cd4-454e-a737-fcdf683c6d0d
 author: Filippo Bertoni
 translators:
@@ -34,18 +34,29 @@ published: false
 
 :::EN:::
 
+<figure>
+
 ![a photo of the research vessel JOIDES Resolution sailing over the ocean](/images/filo/joides resolution.jpg)
 
+<figcaption>
+
 _The drillship JOIDES Resolution departing Honolulu, Hawaii at the beginning of IODP Expedition 321._
+
+</figcaption>
+
+</figure>
 
 As I followed microfossils like [[story.cycladophora-davisiana]] through the collections of the Naturkunde Museum Berlin, I came to realize they vastly outnumber all other specimens. One reason for this is that, as central tools in [[material.biostratigraphy]], these fossilized microorganisms help researchers disentangle [[story.micropaleontological-formations]] by providing useful, extensive, and easy to access fossil records. As such, microorganisms like [[material.radiolaria]] and [[material.foraminifera]] are entangled in a much larger apparatus of collection, which extends far beyond the walls of the museum. This socio-technical apparatus emerges from the ongoing transnational effort of deep sea drilling: the extraction of [[material.core-samples]] from the sediments at the bottom of the ocean, and their use in the interpretation of the planet’s history and dynamics. Thanks to the taxonomic expertise of its micropaleontologists and its data management infrastructure, over the last decades the Museum fur Naturkunde Berlin has consolidated its position in managing this effort, and the collections and datasets it continuously hauls from the seafloor. But to better understand the role of the museum in this global technoscientific enterprise, it is useful to consider the long history of deep sea drilling.
 
 Surprisingly, much of the momentum that inspired techniques and infrastructures for exploring the depths of the ocean floor came from outer space. In 1957 the Soviet Union successfully launched _Sputnik_, the first artificial satellite. This set in motion what came to be known as the Space Race, a technoscientific, political, and ideological contest that saw the Cold War superpowers compete to reach outer space. A similar race was launched to the seabed and profoundly shaped the history of technosciences. Early explorations of the ocean floor had already taken place in the 19th century, largely driven by developments in submarine telegraphy ─ which led, for instance, to [[story.finding-cycladophora]]. But the social and technical transformations brought about by the tight connection between technosciences and warfare during the two World Wars, together with the advent of ‘big science’, opened the seafloor to more ambitious dreams of exploration. Novel and expensive tools and techniques revealed the ocean floor as a living repository of both resources and data of great scientific and economic interest. Digging and extracting [[material.core-samples]] from the ocean sediment and identifying and correlating their microfossil record, scientists could chart the inner workings of the planet. This was the goal that animated an important project that launched a series of deep sea drilling programs that continue to this day ─ and that heralded the development of [[story.micropaleontology-at-sea]]. This was known as project Mohole, a high-profile program to drill into the Earth’s crust and sample the Mohorovičić discontinuity, or Moho ─ the boundary between the Earth's crust and the mantle.[^1] 
 
-<!embed video:>
-![An original documentary from the 1960s following the early phase of project Mohole and its ambitious technoscientific plans.](https://www.youtube.com/watch?v=y5_AxsT292o)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/y5_AxsT292o?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<figcaption>
 
 _Willard Bascom's original 1961 film produced under direction of the National Academy of Sciences. The film follows the first phase of Project Mohole, including the sea trials, experimental drilling, and major drilling tests off Guadalupe Island._ 
+
+</figcaption>
 
 Importantly, Mohole demonstrated the feasibility of deep sea drilling, proving its scientific and economic value. Drilling from an untethered platform at sea represented a spectacular engineering feat and, together with the [[biostratigraphic|material.biostratigraphy]] data recovered, was instrumental to the nascent offshore [[material.fossil-fuels]] industry ─ which tries to quench society’s thirst for these resources looking in the depth of the open ocean.[^2] Even if Mohole was discontinued in 1966 due to administrative, financial and political mismanagement, other projects soon followed in its footsteps. But their ambition was slightly different, as they focused, rather than on reaching extreme depths, on collecting large numbers of samples to chart as much as possible of the planet’s subsurface. As a result, the Joint Oceanographic Institutions for Deep Earth Sampling (JOIDES) organization was founded in 1964 to coordinate the four main competing U.S. oceanographic institutions—Miami, Woods Hole, Scripps, and the Lamont-Doherty Earth Observatory.[^3] With a newly built deep sea drilling research vessel, the _Glomar Challenger_, JOIDES’ Deep Sea Drilling Project (DSDP) began collecting samples and data in 1968. As the project’s website puts it:
 
@@ -64,7 +75,7 @@ For data to be mobilized to tell stories [[story.of-microbes-and-planets]] – f
 
 [^2]: Tellingly, the ship used for the first phase of Mohole was borrowed from a consortium of oil companies, as evident in its name: _CUSS I_, for Continental, Union, Superior, and Shell Oil.
 
-[^3]: The latter has been gathering a vast repository of core samples since 1949. It  forms the basis for the micropaleontology slide collection described in [[material.lamont-doherty collection]].
+[^3]: The latter has been gathering a vast repository of core samples since 1949. It  forms the basis for the micropaleontology slide collection described in [[material.lamont-doherty-collection]].
 
 [^4]: From http://www.deepseadrilling.org/about.htm. 
 
@@ -75,23 +86,30 @@ For data to be mobilized to tell stories [[story.of-microbes-and-planets]] – f
 
 :::DE:::
 
-
+<figure>
 
 ![Foto des Forschungsschiffs JOIDES Resolution auf hoher See](/images/filo/joides resolution.jpg)
 
+<figcaption>
+
 _Das Bohrschiff JOIDES Resolution bei der Ausfahrt aus Honolulu, Hawaii, zu Beginn der IODP Expedition 321._
 
+</figcaption>
+
+</figure>
 
 Im Zuge meiner Nachforschungen über Mikrofossilien [[story.cycladophora-davisiana]] in den Sammlungen des Museums für Naturkunde Berlin fiel mir auf, dass sie alle anderen Objekte zahlenmäßig bei weitem übertreffen. Ein Grund dafür ist der aufschlussreiche, umfangreiche und leicht zugängliche Fossilbericht, den diese fossilisierten Mikroorganismen liefern, und der von so vielen Forschenden als unverzichtbares Werkzeug in der [[material.biostratigraphy]] zur Entschlüsselung von [[story.micropaleontological-formations]] genutzt wird. In dieser Funktion sind Mikroorganismen wie [[material.radiolaria]] und [[material.foraminifera]] Teil einer viel größeren Infrastruktur des Sammelns, die sich weit über die Mauern des Museums hinaus erstreckt. Dazu gehören langfristige transnationale Tiefseebohrprojekte, die [[material.core-samples]] aus Meeressedimenten entnehmen und für die Analyse erdgeschichtlicher Dynamiken nutzbar machen. Dank der taxonomischen Expertise seiner Mikropaläontolog:innen und seiner eigenen Dateninfrastruktur hat das Museum für Naturkunde Berlin seine Rolle als Standort für das Management der Sammlungen und Datensätze, die kontinuierlich vom Meeresboden geborgen werden, über die vergangenen Jahrzehnte ausbauen können. Für ein besseres Verständnis dieser Funktion des Museums innerhalb des globalen wissenschaftlich-technischen Projekts ist es erhellend, einen Blick auf die Geschichte der Tiefseebohrung zu werfen.
 
 Interessanterweise kam die Inspiration für die Entwicklung von Techniken und Verfahren zur Erkundung des Meeresgrunds größtenteils aus der Weltraumforschung. Im Jahr 1957 schickte die Sowjetunion erfolgreich den ersten menschengemachten Satelliten _Sputnik_ ins Weltall. In der Folge erwuchs daraus zwischen den Großmächten des Kalten Krieges jene wissenschaftlich-technische, politische und ideologische Konkurrenz um die technologische Vorherrschaft bei der Weltraumerkundung, auch als Wettlauf ins All bezeichnet. Ein ähnlicher Wettlauf sollte sich schon bald in Richtung Tiefsee entwickeln, was großen Einfluss auf den weiteren Verlauf der Technikwissenschaften hatte. Frühe Erkundungen des Meeresbodens hatte es bereits im 19. Jahrhundert gegeben, insbesondere im Zusammenhang mit der unterseeischen Verlegung von Telegrafenleitungen. Dies hatte unter anderem zur Entdeckung von Cycladophora [[story.finding-cycladophora]] geführt. Die Kombination aus soziotechnischen Neuerungen, die sich aus der der engen Verquickung von Technikwissenschaften und der Kriegsindustrie während der beiden Weltkriege ergaben, und dem Aufkommen von „Big Science“, machten den Meeresboden fortan zum Ziel noch weitaus ambitionierterer Forschungsvorhaben. Neuartige und kostspielige Geräte und Verfahren eröffneten den Blick auf die Böden der Tiefsee als reichhaltige lebende Lagerstätte von – wirtschaftlich wie wissenschaftlich hochinteressanten – Ressourcen und Daten. Mithilfe von Bohrungen und Entnahmen von [[material.core-samples]] aus den Meeressedimenten sowie der Identifizierung und Verknüpfung der verschiedenen Mikrofossilberichte machten sich Wissenschaftler:innen daran, das Erdinnere zu kartographieren. Dieses langfristige Unterfangen führte zu einem wichtigen Projekt, aus dem sich wiederum eine ganze Reihe von Tiefseebohrprojekten ergaben, die bis heute fortgeführt werden – und die Entwicklung der [[story.micropaleontology-at-sea]] einläuteten. Der Name des Projekts war Mohole, ein ambitioniertes Programm zur Durchdringung der Tiefen der Erdkruste durch Bohrungen und Probenentnahmen aus der sogenannten Mohorovičić-Diskontinuität, üblicherweise als Moho bezeichnet – der Phasengrenze zwischen Erdkruste und Erdmantel.[^1]
 
 
-<!embed video:>
-![Eine Originaldokumentation aus den 1960er Jahren, die Phase 1 des Project Mohole begleitet und die ehrgeizigen wissenschaftlich-technischen Zielsetzungen des Projekts erläutert.](https://www.youtube.com/watch?v=y5_AxsT292o)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/y5_AxsT292o?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<figcaption>
 
 _Originalfilm von Willard Bascom aus dem Jahr 1961, produziert unter Federführung der National Academy of Sciences. Der Film zeigt Phase 1 des Project Mohole, darunter Erkundungsfahrten, Bohrexperimente und umfangreiche Probebohrungen vor der (240km westlich der mexikanischen Halbinsel Baja California im Pazifik gelegenen) Insel Guadalupe._
 
+</figcaption>
 
 Das Verdienst des Project Mohole war, dass es sowohl die Machbarkeit von Tiefseebohrungen bewies als auch deren wissenschaftlichen und wirtschaftlichen Nutzen unterstrich. Die Durchführung solcher Bohrungen von Hochseeplattformen ohne feste Verankerung stellte eine technische Meisterleistung dar und bildete zusammen mit den erhobenen [[biostratigraphischen|material.biostratigraphy]] Daten die Grundlage für die Förderung von [[material.fossil-fuels]] durch die entstehende Offshore-Industrie – die das unablässige Verlangen der Gesellschaft nach diesen Ressourcen fortan durch die Ausweitung der Erschließungsaktivitäten auf die Tiefen der Ozeane zu stillen suchte.[^2] Auch wenn das Project Mohole 1966 aufgrund administrativen, finanziellen und politischen Missmanagements eingestellt wurde, sollten schon bald andere Projekte folgen, die rasch in Moholes Fußstapfen traten – deren Zielsetzung sich jedoch verlagerte: Das Hauptanliegen war nun nicht mehr das Vordringen in extreme Tiefen, sondern das Sammeln möglichst vieler Proben, um den Untergrund der Erde so umfassend wie möglich kartographieren zu können. In der Folge wurde 1964 die Organisation Joint Oceanographic Institutions for Deep Earth Sampling (JOIDES) gegründet, die die Arbeit der verschiedenen, teils konkurrierenden, ozeanischen Institutionen der USA – Miami, Woods Hole, Scripps sowie das Lamont-Doherty Earth Observatory – koordinieren sollte.[^3] Mit der Inbetriebnahme des Forschungsschiffs _Glomar Challenger_ begann das JOIDES Deep Sea Drilling Project (DSDP) ab 1968 mit der Sammlung von Proben und Daten. Auf der Website des Projekts heißt es: 
 
@@ -106,13 +124,11 @@ Verteilt über viele verschiedene Institutionen und Datenbanken, sind einige der
 
 Die Erschließung entsprechender Daten, die uns Geschichten [[story.of-microbes-and-planets]] erzählen können – zum Beispiel durch die Verwendung von Cycladophora [[story.using-cycladophora]] für die Rekonstruktion dynamischer Kaltzeitzyklen – erfordert das reibungslose Funktionieren des gesamten soziotechnischen Apparats der Tiefseebohrung: Dieser umfasst Bohrschiffe, Forschungsinstitutionen, transnationale Förderprogramme und Kooperationen, Archive und Datenbanken, aber auch Wissenschaftler:innen, Ingenieur:innen, Techniker:innen, Schiffscrews und viele andere Mitwirkende. Der Apparat als Ganzes dreht sich letztlich um die Verwandlung und Nutzbarmachung von Tieren und anderen lebenden Organismen für die Verarbeitung in der menschlichen Forschungspraxis: Naturkundliche Sammlungen sind somit keineswegs bloß alte, spezialisierte, fachwissenschaftliche Archive, sondern bilden eine maßgebliche Grundlage für das gesellschaftliche Wissen über und Verhältnis zur Natur. Wie dieser kurze Abriss der Geschichte der Tiefseebohrung veranschaulicht, macht die Art, _wie_ wir die Welt erforschen, einen Unterschied, da sie zugleich das Spektrum der erwartbaren Erkenntnisse festlegt, also _was_ überhaupt erforscht werden kann: Während die Untersuchung und Analyse dynamischer Erdsysteme die Gefahren des Klimawandels offenbart haben, bilden sie zugleich die Grundlage der erfolgreichen Unternehmungen  der Rohstoffindustrie, deren Aktivitäten und Produkte solch gravierende Auswirkungen auf die biogeochemischen Kreisläufe unseres Planeten haben. Dies sollte uns jedoch keineswegs entmutigen, die Natur und ihre vielfältigen Vorgänge besser zu verstehen. Stattdessen soll uns diese Geschichte daran erinnern, ** wie wichtig die politische Gestaltung des Feldes der Wissensproduktion ist**: Ein größeres Bewusstsein dafür, _wie_ wir die Welt erforschen und verstehen, und für die konkreten materiellen und konzeptionellen Neuerungen, die unsere wissensgenerierende Praxis begleiten und formen, kann uns dabei helfen, bessere Fragen zu stellen und zu Einsichten von größtmöglichem gesellschaftlichem Nutzen – d.h. für unser aller bestmögliches Zusammenleben – zu gelangen. 
 
-
-
 [^1]: Um mehr über die Geschichte des „Project Mohole“ zu erfahren, siehe das multimediale Angebot unter https://www.vox.com/unexplainable/22276597/project-mohole-deep-ocean-drilling-unexplainable-podcast; oder siehe Helen M. Rozwadowski und David K. van Keuren (Hg.). _The Machine in Neptune's Garden: Historical Perspectives on Technology and the Marine Environment_. Canton, Mass.: Science History Publications, 2004. Für eine allgemeine Übersicht über die Geschichte der Ozeanographie, siehe https://oceansciencehistory.com/page/2/. 
 
 [^2]: Bezeichnenderweise wurde das Schiff, das während der Phase 1 des Project Mohole im Einsatz war, von einem Konsortium aus Ölfirmen bereitgestellt, was sich in seinem Namen widerspiegelte: _CUSS I_, was für Continental, Union, Superior und Shell Oil stand.
 
-[^3]: Das Lamont-Doherty Earth Observatory befasst sich seit 1949 mit der Sammlung von Bohrkernen und hat mittlerweile einen beachtlichen Bestand angehäuft. Dieses Probenmaterial bildet die Grundlage der Sammlung mikropaläontologischer Objektträger, die in der [[material.lamont-doherty collection]] beschrieben ist.
+[^3]: Das Lamont-Doherty Earth Observatory befasst sich seit 1949 mit der Sammlung von Bohrkernen und hat mittlerweile einen beachtlichen Bestand angehäuft. Dieses Probenmaterial bildet die Grundlage der Sammlung mikropaläontologischer Objektträger, die in der [[material.lamont-doherty-collection]] beschrieben ist.
 
 [^4]: Siehe http://www.deepseadrilling.org/about.htm. 
 
