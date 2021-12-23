@@ -7,7 +7,7 @@ short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Wel
 date_end: 2021-12-14T14:41:44.038Z
 published: false
 title: Microbial Worlds
-updated: 1640282983478
+updated: 1640283157397
 id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
 translators:
   translator_en_de: Jan-Peter Herrmann
@@ -162,7 +162,7 @@ https://astrobiology.nasa.gov/uploads/filer_public/a3/78/a378f1b1-e438-4156-8af2
 
 <figcaption>
 
-_Eine wissenschaftliche ‘conversazione’ über Mikroskopie, die am 11. April 1855 in der Londoner Apothecaries' Hall stattfand, Kupferstich aus _ The Illustrated London News _ vom 28. April 1855.[^1]_
+_Eine wissenschaftliche ‘conversazione’ über Mikroskopie, die am 11. April 1855 in der Londoner Apothecaries' Hall stattfand, Kupferstich aus_ The Illustrated London News _vom 28. April 1855.[^1]_
 
 </figcaption>
 
