@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Worlds We Make
 title_de: The Worlds We Make
 created: 1640281603094
-updated: 1640288709701
+updated: 1640289123007
 id: 4npaIbpRAHygxSlfFDrj3
 author: Mareike Vennen
 translators:
@@ -28,7 +28,7 @@ published: false
 
 <figure>
 
-![The back of a partial specimen of the nervous system of a Limulus polyphemus preserved in alcohol.](/zmb-arach-48487-1.jpg) 
+![The back of a partial specimen of the nervous system of a Limulus polyphemus preserved in alcohol.](/images/mv/zmb-arach-48487-1.jpg) 
 
 <figcaption>
 
@@ -48,7 +48,7 @@ The specimens themselves give us a clue about their earlier function. The way th
 
 <figure>
 
-![Front of a partial specimen of the nervous system of Limulus polyphemus preserved in alcohol.](/zmb-arach-48487-2.jpg)
+![Front of a partial specimen of the nervous system of Limulus polyphemus preserved in alcohol.](/images/mv/zmb-arach-48487-2.jpg)
 
 <figcaption>
 
@@ -62,7 +62,7 @@ Organs have been removed from other animals and prepared as individual specimens
 
 <figure>
 
-![The heart and vessels of a Limulus polyphemus specimen have been preserved in alcohol in a cylindrical glass container.](/zmb-arach-32114.jpg)
+![The heart and vessels of a Limulus polyphemus specimen have been preserved in alcohol in a cylindrical glass container.](/images/mv/zmb-arach-32114.jpg)
 
 <figcaption>
 
@@ -76,7 +76,7 @@ Traces of wear and tear provide more clues. Material damage and wires on some of
 
 <figure>
 
-![Free-standing dry specimen of a horseshoe crab with a hole in its shell, out of which (what is presumably) straw bulges out.](/zmb-arach-32107.jpg)
+![Free-standing dry specimen of a horseshoe crab with a hole in its shell, out of which (what is presumably) straw bulges out.](/images/mv/zmb-arach-32107.jpg)
 
 <figcaption>
 
@@ -152,7 +152,7 @@ Horseshoe crabs were also popular with private aquarists, who helped to produce 
 
 <figure>
 
-![Three-page article with the title "The Biology of the Horseshoe Crab" from the _Blättern für Aquarien- und Terrarienkunde_, 1916. The text is interrupted by a drawing and three black-and-white photos.](images/mv/blaetter-27-1916.jpg)
+![Three-page article with the title "The Biology of the Horseshoe Crab" from the _Blättern für Aquarien- und Terrarienkunde_, 1916. The text is interrupted by a drawing and three black-and-white photos.](/images/mv/blaetter-27-1916.jpg)
 
 <figcaption>
 
@@ -172,7 +172,7 @@ Up until the 19th century, zoological studies assumed that limuli were crustacea
 
 <figure>
 
-![Black-and-white pictures of various fish, crabs, and prawns, as well as other sea creatures, in a sales catalogue issued by the natural history dealer J.F.G. Umlauff furnished with sales details and descriptions.](/umlauff-katalog-3.jpg) 
+![Black-and-white pictures of various fish, crabs, and prawns, as well as other sea creatures, in a sales catalogue issued by the natural history dealer J.F.G. Umlauff furnished with sales details and descriptions.](/images/mv/umlauff-katalog-3.jpg) 
 
 <figcaption>
 
