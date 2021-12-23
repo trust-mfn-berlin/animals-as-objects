@@ -8,7 +8,7 @@ desc: |-
   these trees tell us today – about the connections between the _Morus alba_ and
   the silkworm, between philosophy and economics, between royal decrees and
   everyday knowledge?
-updated: 1639741940539
+updated: 1640270107685
 created: 1629986374819
 license: CC BY-SA
 title_de: Seidenraupen
@@ -159,7 +159,7 @@ _Mulberry trees at the French Cemetery in Berlin-Mitte, 2020. (Photo Britta Lang
  
 </figure>
 
-Completely unbeknownst to the city administration and the tree register, in contrast, is the white mulberry tree on Habersaathstraße, which might have been planted at the Agricultural University for teaching purposes. It might have had a connection to the procurement of the model of a [[papier-mache silkworm|material.silkworm-in-papier-mache]] from the workshop of the Parisian modeller Louis Auzoux.[^20] It stands to reason that the actual tree and the caterpillar model were acquired at the same time, and that silkworms were possibly kept as well to observe and to teach students about the insect's diet, upkeep, and reproduction. We cannot know for sure, because although the tree still bears witness, it cannot tell us its whole story.
+Completely unbeknownst to the city administration and the tree register, in contrast, is the white mulberry tree on Habersaathstraße, which might have been planted at the Agricultural University for teaching purposes. It might have had a connection to the procurement of the model of a [[papier mâché silkworm|material.silkworm-in-papier-mache]] from the workshop of the Parisian modeller Louis Auzoux.[^20] It stands to reason that the actual tree and the caterpillar model were acquired at the same time, and that silkworms were possibly kept as well to observe and to teach students about the insect's diet, upkeep, and reproduction. We cannot know for sure, because although the tree still bears witness, it cannot tell us its whole story.
 
 [^1]: My thanks go to Viola Richter, Sandra Miehlbradt, and Ferdinand Damaschun (all Museum of Natural History, Berlin), Gerhard Scholtz (Zoological Teaching Collection of the Humboldt University in Berlin), Sabine Graefe (Thaer Museum Möglin), and Wolfgang Bokelmann (formerly of the Thaer-Institut of the Humboldt University of Berlin) for providing me with information, as well as to Sofie Fingado and Estela Braun Carrasco for their help researching.
 
@@ -324,7 +324,7 @@ _Maulbeerbäume auf dem französischen Friedhof in Berlin-Mitte, 2020. (Foto Bri
  
 </figure>
 
-Gänzlich unbekannt dagegen ist der Stadtverwaltung und dem Baumkataster jener weiße Maulbeerbaum an der Habersaathstraße, der möglicherweise zu Studienzwecken für die Landwirtschaftliche Hochschule angepflanzt wurde. Gegebenenfalls stand er auch im Zusammenhang mit der Anschaffung des Modells eines [[Seidenspinners in Papiermachee|material.silkworm-in-papier-mache]] aus der Werkstatt des Pariser Modelleurs Louis Auzoux.[^20] Es liegt nahe, dass der reale Baum und das Raupenmodell etwa zeitgleich angeschafft und möglicherweise auch Seidenraupen gehalten wurden, um ihre Ernährung, ihre Pflege, ihre Vermehrung zu beobachten und zu lehren. Genau wissen können wir es nicht, da der Baum zwar als Zeuge noch da ist, über seine Geschichte jedoch nicht alles verrät.
+Gänzlich unbekannt dagegen ist der Stadtverwaltung und dem Baumkataster jener weiße Maulbeerbaum an der Habersaathstraße, der möglicherweise zu Studienzwecken für die Landwirtschaftliche Hochschule angepflanzt wurde. Gegebenenfalls stand er auch im Zusammenhang mit der Anschaffung des Modells eines [[Seidenspinners in Papiermaschee|material.silkworm-in-papier-mache]] aus der Werkstatt des Pariser Modelleurs Louis Auzoux.[^20] Es liegt nahe, dass der reale Baum und das Raupenmodell etwa zeitgleich angeschafft und möglicherweise auch Seidenraupen gehalten wurden, um ihre Ernährung, ihre Pflege, ihre Vermehrung zu beobachten und zu lehren. Genau wissen können wir es nicht, da der Baum zwar als Zeuge noch da ist, über seine Geschichte jedoch nicht alles verrät.
 
 [^1]: Ich danke für Auskünfte Viola Richter, Sandra Miehlbradt und Ferdinand Damaschun (alle Museum für Naturkunde Berlin), Gerhard Scholtz (Zoologische Lehrsammlung der Humboldt-Universität zu Berlin), Sabine Graefe (Thaer Museum Möglin), Wolfgang Bokelmann (zuvor Thaer-Institut der Humboldt-Universität zu Berlin) sowie für die Mithilfe in der Recherche bei Sofie Fingado und Estela Braun Carrasco.
 
