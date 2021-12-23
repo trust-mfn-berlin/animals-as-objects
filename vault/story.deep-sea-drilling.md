@@ -1,17 +1,35 @@
 ---
-id: d76483c9-9cd4-454e-a737-fcdf683c6d0d
-title: Deep Sea Drilling
-desc: Put a description of this note here...
-updated: 1640281498395
-created: 1619107396222
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: story
-cover_image: null
 license: CC BY-SA
-published: false
+title: Deep Sea Drilling
+title_de: Bohrkerne aus den Böden der Tiefsee
+created: 1619107396222
+updated: 1640281498395
+id: d76483c9-9cd4-454e-a737-fcdf683c6d0d
+author: Filippo Bertoni
+translators:
+  translator_en_de: Jam-Peter Herrmann
+desc: In the 1950s, deep sea drilling became enrolled in a global effort to map
+  the dynamics and history of the planet. Its planetary socio-technical
+  infrastructure remains one of the main sources of micropaleontological,
+  climatological, and earth system sciences data. While instrumental in
+  understanding and exploiting the planet, this infrastructure also allows data
+  and specimens to flow into the Museum für Naturkunde Berlin.
+desc_de: In den 1950er Jahren wurden Tiefseebohrungen zu einem wichtigen
+  Instrument für die Erforschung dynamischer erdgeschichtlicher Prozesse. Die
+  damit verbundene globale soziotechnische Infrastruktur bildet heute eine der
+  Hauptquellen mikropaläontologischer, klimatologischer und
+  erdsystemwissenschaftlicher Daten. Während diese Infrastruktur für das
+  Verständnis (und auch die Ausbeutung) unseres Planeten zentral ist, liefert
+  sie auch immer wieder wertvolle Daten und Objekte für das Museum für
+  Naturkunde Berlin.
+short_desc: " A global effort to collect data from the ocean-floor"
+short_desc_de: Die globale Datensammlung am Meeresgrund
+cover_image: null
 colour_scheme: 1
+tao_type: story
+date_start: 1957-12-23T17:55:00.000Z
+date_end: ""
+published: false
 ---
 
 :::EN:::
