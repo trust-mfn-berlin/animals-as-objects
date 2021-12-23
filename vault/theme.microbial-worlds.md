@@ -7,7 +7,7 @@ short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Wel
 date_end: 2021-12-14T14:41:44.038Z
 published: false
 title: Microbial Worlds
-updated: 1640292187040
+updated: 1640292886523
 id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
 translators:
   translator_en_de: Jan-Peter Herrmann
@@ -138,8 +138,7 @@ _”A Drop of Ocean” shows the complex micro-level physicochemical interaction
 
 [^13]: For more critical appraisals of these figures and their roles, see Latour, Bruno. _The pasteurization of France_. Camebridge, MA: Harvard University Press, 1993; Mendelsohn, J. Andrew. "'Like All That Lives': Biology, Medicine and Bacteria in the Age of Pasteur and Koch". _History and Philosophy of the Life Sciences_ 24, no. 1 (2002): 3-36. http://www.jstor.org/stable/23332438 (28.08.2021). Complicating the heroic accounts of Koch’s role in scientific history in particular, by illuminating the specific economic and colonial aspects of his work, are: Gradmann, Christoph. "Money and Microbes: Robert Koch, Tuberculin and the Foundation of the Institute for Infectious Diseases in Berlin in 1891". _History and Philosophy of the Life Sciences_ 22, no. 1 (2000): 59-79. http://www.jstor.org/stable/23332275(26.08.2021); and Gradmann, Christoph. "Robert Koch and the invention of the carrier state: tropical medicine, veterinary infections and epidemiology around 1900". _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_ 41, no. 3 (2010): 232-240. https://doi.org/10.1016/j.shpsc.2010.04.012.  
 
-[^14]: NASA. _Astrobiology: The Story of our Search for Life in the Universe_. NASA, 2015,
-https://astrobiology.nasa.gov/uploads/filer_public/a3/78/a378f1b1-e438-4156-8af2-cf167a545e4a/astrobio_novel_5_firstedition_hires.pdf (28.08.2021).
+[^14]: NASA. _Astrobiology: The Story of our Search for Life in the Universe_. NASA, 2015, https://astrobiology.nasa.gov/uploads/filer_public/a3/78/a378f1b1-e438-4156-8af2-cf167a545e4a/astrobio_novel_5_firstedition_hires.pdf (28.08.2021).
 
 [^15]: On Winogradsky and environmental alternatives to medical microbiology, see also Grote, Mathias. "Petri dish versus Winogradsky column: a longue durée perspective on purity and diversity in microbiology, 1880s-1980s". _History and philosophy of the life sciences_ 40, no. 1 (2018): 1-30. https://doi.org/10.1007/s40656-017-0175-9.
 
@@ -209,7 +208,7 @@ Ab der zweiten Hälfte des 19. Jahrhunderts wandelte sich das Verständnis von M
 
 <figcaption>
 
-_Ausgabe #5 der Publikation _ Astrobiology: The Story of our Search for Life in the Universe, _ ein NASA-Comic, der „erklärt, wie die Astrobiologie analoge Umgebungen auf der Erde erforscht, um Rückschlüsse auf die Lebensbedingungen auf anderen Planeten (z.B. Mars) ziehen zu können.“[^14]_
+_Ausgabe #5 der Publikation_ Astrobiology: The Story of our Search for Life in the Universe, _ein NASA-Comic, der „erklärt, wie die Astrobiologie analoge Umgebungen auf der Erde erforscht, um Rückschlüsse auf die Lebensbedingungen auf anderen Planeten (z.B. Mars) ziehen zu können.“[^14]_
 
 </figcaption>
 
@@ -262,8 +261,7 @@ _”A Drop of Ocean”_ zeigt die komplexen physikalisch-chemischen Interaktione
 
 [^13]: Für eine kritischere Bewertung dieser Figuren und ihrer Rolle, siehe Latour, Bruno. _The pasteurization of France_. Camebridge, MA: Harvard University Press, 1993; Mendelsohn, J. Andrew. "'Like All That Lives': Biology, Medicine and Bacteria in the Age of Pasteur and Koch". _History and Philosophy of the Life Sciences_ 24, Nr. 1 (2002): 3–36. http://www.jstor.org/stable/23332438 (28.08.2021). Hier werden die heroischen Darstellungen von Kochs Rolle in der Wissenschaftsgeschichte kritisch eingeordnet, insbesondere durch die Beleuchtung der wirtschaftlichen und kolonialen Aspekte seiner Arbeit: Gradmann, Christoph. "Money and Microbes: Robert Koch, Tuberculin and the Foundation of the Institute for Infectious Diseases in Berlin in 1891". _History and Philosophy of the Life Sciences_ 22, Nr. 1 (2000): 59–79. http://www.jstor.org/stable/23332275(26.08.2021); und Gradmann, Christoph. "Robert Koch and the invention of the carrier state: tropical medicine, veterinary infections and epidemiology around 1900". _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_ 41, Nr. 3 (2010): 232–240. https://doi.org/10.1016/j.shpsc.2010.04.012.  
 
-[^14]: NASA. _Astrobiology: The Story of our Search for Life in the Universe_. NASA, 2015,
-https://astrobiology.nasa.gov/uploads/filer_public/a3/78/a378f1b1-e438-4156-8af2-cf167a545e4a/astrobio_novel_5_firstedition_hires.pdf_ (28.08.2021).
+[^14]: NASA. _Astrobiology: The Story of our Search for Life in the Universe_. NASA, 2015,https://astrobiology.nasa.gov/uploads/filer_public/a3/78/a378f1b1-e438-4156-8af2-cf167a545e4a/astrobio_novel_5_firstedition_hires.pdf_ (28.08.2021).
 
 [^15]: Zu Winogradski und ökologischen Alternativen zur medizinischen Mikrobiologie: Grote, Mathias. "Petri dish versus Winogradsky column: a longue durée perspective on purity and diversity in microbiology, 1880s–1980s". _History and philosophy of the life sciences_ 40, Nr. 1 (2018): 1–30. https://doi.org/10.1007/s40656-017-0175-9.
 
