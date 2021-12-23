@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Worlds We Make
 title_de: The Worlds We Make
 created: 1640281603094
-updated: 1640288458641
+updated: 1640288610927
 id: 4npaIbpRAHygxSlfFDrj3
 author: Mareike Vennen
 translators:
@@ -88,7 +88,7 @@ _This historical specimen of a horseshoe crab has suffered damage over time. (Mf
 
 <figure>
 
-![Free-standing dry specimen of horseshoe crab. Visible are its bent legs, its tail, and parts of its shell. A label has been attached to the top of the shell; a wire for hanging the specimen up has been pulled through it.](/zmb-arach-48477.jpg)
+![Free-standing dry specimen of horseshoe crab. Visible are its bent legs, its tail, and parts of its shell. A label has been attached to the top of the shell; a wire for hanging the specimen up has been pulled through it.](/images/mv/zmb-arach-48477.jpg)
 
 <figcaption>
 
