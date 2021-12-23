@@ -7,7 +7,7 @@ short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Wel
 date_end: 2021-12-14T14:41:44.038Z
 published: false
 title: Microbial Worlds
-updated: 1640286326060
+updated: 1640286584403
 id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
 translators:
   translator_en_de: Jan-Peter Herrmann
@@ -146,7 +146,7 @@ https://astrobiology.nasa.gov/uploads/filer_public/a3/78/a378f1b1-e438-4156-8af2
 
 [^16]: On some of these complicated histories, see Bertoni, Filippo. "Soiling Mars: 'To Boldly Grow Where No Plant Has Grown Before'?" _Thinking with Soils: Material Politics and Social Theory_ (2020): 107.
 
-[^17]: Important in this paradigm shift was the formulation of the so-called Gaia hypothesis by Lovelock and Margulis, and the latter’s theorisation of symbiogenesis. You can learn more about this in my story [[story.of-microbes and-planets]].
+[^17]: Important in this paradigm shift was the formulation of the so-called Gaia hypothesis by Lovelock and Margulis, and the latter’s theorisation of symbiogenesis. You can learn more about this in my story [[story.of-microbes-and-planets]].
 
 [^18]: To read more on post-genomics and its reconfigurations of biology, see Richardson, Sarah S., and Hallam Stevens, eds. _Postgenomics: Perspectives on biology after the genome_. Durham, N.C.: Duke University Press, 2015.
 
