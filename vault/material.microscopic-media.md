@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Microscopic Media
 title_de: Mikroskopische Medien
 created: 1618492963611
-updated: 1640295112062
+updated: 1640295449125
 id: fac2eded-a093-4ebf-986e-d94b045f7676
 author: Filippo Bertoni
 translators:
@@ -92,7 +92,7 @@ While benefiting from the lessons learned through these techniques, micropaleont
 
 <figure>
 
-![Im Vordergrund: Objektive eines Lichtmikroskops, darunter ein beschrifteter mikropaläontologischer Objektträger; im Hintergrund: Der Computerbildschirm zeigt das vergrößerte und detailreiche Bild der Radiolarienschalen.](/images/filo/)
+![Im Vordergrund: Objektive eines Lichtmikroskops, darunter ein beschrifteter mikropaläontologischer Objektträger; im Hintergrund: Der Computerbildschirm zeigt das vergrößerte und detailreiche Bild der Radiolarienschalen.](/images/filo/microscopicmedia.jpg)
 
 <figcaption>
 
