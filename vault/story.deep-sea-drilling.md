@@ -7,7 +7,7 @@ updated: 1640281498395
 id: d76483c9-9cd4-454e-a737-fcdf683c6d0d
 author: Filippo Bertoni
 translators:
-  translator_en_de: Jam-Peter Herrmann
+  translator_en_de: Jan-Peter Herrmann
 desc: In the 1950s, deep sea drilling became enrolled in a global effort to map
   the dynamics and history of the planet. Its planetary socio-technical
   infrastructure remains one of the main sources of micropaleontological,
@@ -28,7 +28,7 @@ cover_image: null
 colour_scheme: 1
 tao_type: story
 date_start: 1957-12-23T17:55:00.000Z
-date_end: ""
+date_end: 2021-12-23T21:52:24.799Z
 published: false
 ---
 
