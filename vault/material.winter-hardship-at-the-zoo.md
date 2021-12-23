@@ -1,6 +1,5 @@
 ---
 license: CC BY-SA
-title: Winter Hardship at the Zoo
 title_de: Wintersnot im Zoo
 created: 1635149269643
 author: Mareike Vennen
@@ -8,7 +7,7 @@ short_desc_de: "Ein Gedicht zur Lage "
 date_end: 1948-10-25T09:34:00.000Z
 published: false
 title: Winter Hardship at the Zoo
-updated: 1639749823170
+updated: 1640090991437
 id: QNjsPsf49gtoKwbK4WauU
 translators:
   translator_de_en: Carla Welch

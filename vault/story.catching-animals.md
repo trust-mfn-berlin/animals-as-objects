@@ -10,7 +10,7 @@ title: Catching Animals
 updated: 1639749828971
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 translators:
-  translator_de_en: Lucy Gasser
+  translator_de_en: Carla Welch
 desc: For a long time, zoo animals were almost exclusively captured in the wild.
   Most trappers worked for commercial animal trading companies.
 desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren
