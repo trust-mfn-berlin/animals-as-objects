@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding and Overfeeding
 title_de: Füttern und Überfüttern
 created: 1620752738850
-updated: 1639749859006
+updated: 1640265070405
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 author: Mareike Vennen
 translators:
@@ -38,7 +38,7 @@ While the zoo and the city of Berlin struggled to provide food for their inhabit
 
 <figure>
 
-![Newspaper clipping. Photograph: Tusked elephant in enclosure, with keeper touching his ear. Title: Overfed! Berlin's most valuable elephant in mortal danger. As of today: Visitors are prohibited from feeding the animals at the zoo.](images/mv/JamboUeberfuettertBildZeitungAusschnittJPG.jpg)
+![Newspaper clipping. Photograph: Tusked elephant in enclosure, with keeper touching his ear. Title: Overfed! Berlin's most valuable elephant in mortal danger. As of today: Visitors are prohibited from feeding the animals at the zoo.](/images/mv/JamboUeberfuettertBildZeitungAusschnittJPG.jpg)
 
 <figcaption>
 
@@ -58,7 +58,7 @@ From the 19th century onwards, zoos in Germany and elsewhere set up kitchens for
 
 <figure>
 
-![Black and white photograph: Wide, paved path, buildings to the left and right, trees in the background. On the left-hand side of the path, we can see a man standing next to a carriage. Further back, on the right, carts and equipment can be seen.](images/mv/wirtschaftshof-zoo-berlin.png)
+![Black and white photograph: Wide, paved path, buildings to the left and right, trees in the background. On the left-hand side of the path, we can see a man standing next to a carriage. Further back, on the right, carts and equipment can be seen.](/images/mv/wirtschaftshof-zoo-berlin.png)
 
 <figcaption>
 
@@ -84,7 +84,7 @@ How and what visitors fed the animals depended not only on personal preferences,
 
 <figure>
 
-![Newspaper clipping. Title: We can go to the zoo again! Illustration: Five people in front of an enclosure, one placing something in a monkey's outstretched hand.](images/mv/TaeglRundschau1945AusschnittJPG.jpg)
+![Newspaper clipping. Title: We can go to the zoo again! Illustration: Five people in front of an enclosure, one placing something in a monkey's outstretched hand.](/images/mv/TaeglRundschau1945AusschnittJPG.jpg)
 
 <figcaption>
 
@@ -122,7 +122,7 @@ Während der Zoo und die Stadt Berlin in den 1940er Jahren große Probleme hatte
 
 <figure>
 
-![Zeitungsausschnitt. Foto: Elefant mit Stoßzähnen im Gehege, der von Pfleger am Ohr berührt wird. Titel: Überfüttert! Berlins wertvollster Elefant in Todesgefahr. Ab heute: Besuchern ist das Füttern im Zoo verboten.](images/mv/JamboUeberfuettertBildZeitungAusschnittJPG.jpg)
+![Zeitungsausschnitt. Foto: Elefant mit Stoßzähnen im Gehege, der von Pfleger am Ohr berührt wird. Titel: Überfüttert! Berlins wertvollster Elefant in Todesgefahr. Ab heute: Besuchern ist das Füttern im Zoo verboten.](/images/mv/JamboUeberfuettertBildZeitungAusschnittJPG.jpg)
 
 <figcaption>
 
@@ -142,7 +142,7 @@ Für die Ernährung der Tiere wurden in den Zoos in Deutschland und anderswo ab 
 
 <figure>
 
-![Schwarz-weiß Foto: Gepflasterter, breiter Weg, links und rechts Gebäude, im Hintergrund Bäume. Auf dem Weg steht links ein Mann neben einer Kutsche, rechts und weiter hinten stehen Karren und Arbeitsgeräte.](images/mv/wirtschaftshof-zoo-berlin.png)
+![Schwarz-weiß Foto: Gepflasterter, breiter Weg, links und rechts Gebäude, im Hintergrund Bäume. Auf dem Weg steht links ein Mann neben einer Kutsche, rechts und weiter hinten stehen Karren und Arbeitsgeräte.](/images/mv/wirtschaftshof-zoo-berlin.png)
 
 <figcaption>
 
@@ -168,7 +168,7 @@ Wie und was die Besucher:innen fütterten, war dabei nicht nur von persönlichen
 
 <figure>
 
-![Zeitungsausschnitt. Titel: Man kann wieder in den Zoo! Illustration: fünf Personen vor Gehege. Eine legt etwas auf die ausgestreckte Hand eines Affen.](images/mv/TaeglRundschau1945AusschnittJPG.jpg)
+![Zeitungsausschnitt. Titel: Man kann wieder in den Zoo! Illustration: fünf Personen vor Gehege. Eine legt etwas auf die ausgestreckte Hand eines Affen.](/images/mv/TaeglRundschau1945AusschnittJPG.jpg)
 
 <figcaption>
 
