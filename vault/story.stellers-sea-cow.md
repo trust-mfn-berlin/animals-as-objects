@@ -2,7 +2,7 @@
 id: Q8UAdldubzw0uhkmmgER3
 title: Stellers Sea Cow
 desc: Put a description of this note here...
-updated: 1640334302481
+updated: 1640334666923
 created: 1640333284998
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -112,8 +112,6 @@ _Eine der frühesten Abbildungen der Stellerschen Sehkuh. Die Herkunft der Zeich
 Im erwähnten Artikel charakterisierte Matschie die Stellersche Seekuh als "[e]ine im vorigen Jahrhundert ausgestorbene Gattung, das Borkenthier, Rhytina stelleri, [die] im äussersten Norden des stillen Oceans zu Hause war". Weiter heißt es, die Seekühe "werden wegen ihres Fleisches, wegen ihrer Haut und ihres Fettes viel gefangen".[^3] Was Matschie nicht eindeutig benannte, war der Zusammenhang zwischen der Jagd auf die Tiere und dem Aussterben der Art. Gerade dieser Zusammenhang zwischen Verwertung und Ausrottung ist aber wesentlich für die Geschichte der nordischen Seekuh und für die Frage, warum das Berliner Museum keine Knochen von dem Tier besitzt.
 
 ## Aussterben beobachten
-
-# Aussterben beobachten
 
 Während Matschie keine kausalen Verbindungen zwischen dem Menschen und dem Aussterben zog, beschäftigte sich der Arzt und Zoologe Karl Ernst von Baer seit Mitte des 19. Jahrhunderts mit menschengemachten Aussterbeereignissen. Er ergänzte die Geschichte des Aussterbens um eine Geschichte der Ausrottung, die von Baer als "Vertilgungs-Krieg" bezeichnete.
 Die Stellersche Seekuh, ein bis zu acht Tonnen schweres, pflanzenfressendes Meeressäugetier des nördlichen Pazifiks, gehörte zu den Tierarten, deren Ausrottung von Baer untersuchte.[^4] Das Ereignis des Aussterbens lag noch nicht weit zurück; es konnte beinah in Echtzeit verfolgt werden - ähnlich wie später bei zahlreichen anderen Arten wie etwa der Wandertaube (siehe [[theme.zoos-and-conservation]]). In diesem Fall lagen nur wenige Jahrzehnte zwischen der Erstbeschreibung der nordischen Seekuh und ihrer Ausrottung. Erstmals 1741 vom bayerischen Arzt und Naturforscher Georg Wilhelm Steller während der zweiten russischen Kamtschatka-Expedition zur Erforschung des Nordpazifiks beobachtet, wurde nach 1768 keine Seekuh mehr lebend gesehen.[^5] Steller hatte eine Population der Tiere entdeckt, nachdem das Expeditionsschiff von Kapitän Vitus Bering 1741 an der (später nach ihm benannten) Beringinsel vor Kamtschatka gestrandet war. Die Expedition machte die Kommandeur-Inseln bekannt, und von da an wurden hier regelmäßig Pelzrobben und Seeotter wegen ihrer Felle gejagt - mit teilweise schweren Folgen für die lokale Bevölkerung.[^6] Seekühe wurden dabei in erster Linie wegen ihres Fleisches getötet, um die Arbeiter des expandierenden Pelzhandels zu versorgen.
