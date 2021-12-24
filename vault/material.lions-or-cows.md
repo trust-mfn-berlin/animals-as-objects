@@ -1,17 +1,27 @@
 ---
-id: 9mH5N7vuPc8pcrpIzElb1
-title: Lions or Cows
-desc: Put a description of this note here...
-updated: 1640356715841
-created: 1640356599113
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
-published: false
+title: Lions or Cows?
+title_de: Löwen oder Kühe?
+created: 1640356599113
+updated: 1640356715841
+id: 9mH5N7vuPc8pcrpIzElb1
+author: Mareike Vennen
+translators:
+  translator_de_en: Lydia J. White
+desc: When we think of zoos, we think of elephants, lions, and giraffes. But
+  livestock is just as important to the history of zoological gardens, as the
+  example of Berlin Zoo around 1900 reveals.
+desc_de: Wer an Zoos denkt, denkt an Elefanten, Löwen oder Giraffen. Doch sind
+  für die Geschichte zoologischer Gärten ebenso Nutztiere wichtig, wie das
+  Beispiel des Berliner Zoos in der Zeit um 1900 zeigt.
+short_desc: Domestic animals at the zoo
+short_desc_de: Nutztiere im Zoo
+cover_image: null
 colour_scheme: 11
+tao_type: material
+date_start: ""
+date_end: ""
+published: false
 ---
 
 :::EN:::
