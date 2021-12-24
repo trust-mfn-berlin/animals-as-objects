@@ -1,17 +1,23 @@
 ---
-id: AOZiyuOX6B0ntAdEoiiIi
-title: Haunting Cattle
-desc: Put a description of this note here...
-updated: 1640363061910
-created: 1640359539704
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
-published: false
+title: Haunting Cattle
+title_de: Spukendes Vieh
+created: 1640359539704
+updated: 1640363061910
+id: AOZiyuOX6B0ntAdEoiiIi
+author: " Sophie-Marie Kaatsch"
+translators:
+  translator_de_en: Lydia J. White
+desc: Audio stories about animals in Berlin
+desc_de: Audiogeschichten über Tiere in Berlin
+short_desc: Audio stories about animals in Berlin
+short_desc_de: Audiogeschichten über Tiere in Berlin
+cover_image: null
 colour_scheme: 11
+tao_type: material
+date_start: 1870-12-02T17:15:39.000Z
+date_end: ""
+published: false
 ---
 
 :::EN:::
