@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Recording Worlds
 title_de: Welt(en) verzeichnen
 created: 1630051088275
-updated: 1640366246585
+updated: 1640366313496
 id: 4r0yES2CMXdwBI2l8fYbZ
 author: Mareike Vennen, Filippo Bertoni
 translators:
@@ -54,11 +54,11 @@ Much has been written on lists, catalogues, and other forms of record-keeping ex
 
 </div>
 
-<figcapture>
+<figcaption>
 
 _Entry books like these inform about the number and species of animals transferred from the Zoo Berlin to the Zoological Museum Berlin in the years between 1908 and the 1940s. The museum archive holds three entry books of the same format with about 70 pages each. (MfN, HBSB, Eingangsbücher Zoologischer Garten 1908-1913, unerschlossen. All rights reserved.)_
 
-</figcapture>
+</figcaption>
 
 </figure>
 
