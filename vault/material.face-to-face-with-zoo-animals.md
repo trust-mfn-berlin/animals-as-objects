@@ -2,7 +2,7 @@
 id: U1w3ckwyrdpQ2JzOLgTKo
 title: Face to Face with Zoo Animals
 desc: Put a description of this note here...
-updated: 1640354480476
+updated: 1640355265060
 created: 1640354060660
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -44,7 +44,7 @@ _The_ Funkwoche Berlin _presents feeding exercises with a bear cub at Berlin Zoo
 
 </figure>
 
-What now seems perplexing, dangerous, and not very species-appropriate, was such a big hit back then that there were even shortages in the supply of young lions, tigers, and leopards.[^1] This was because other zoos soon wanted to offer their visitors similar attractions as well. "The great lion petting at the zoo", announced the _Leipziger Tageszeitung_ newspaper on 8 November 1935 [^2]. At Stellingen Zoo, the zoo director also saw how much young visitors loved cuddling and petting lion cubs.[^3] Demand for young animals remained high as they would be much too big by the next summer and [[would have to be replaced|story.photos-with-lion-cubs]]. Predator babies were thus coveted on the market and came with a corresponding price tag[^4]. Zoos therefore took what they could get: "As we have already discussed, exotic bears could be taken instead of the young predators in the meantime and could perhaps later be exchanged for young predators"[^5], wrote the animal trader who supplied Berlin Zoo with young predators to its director. 
+What now seems perplexing, dangerous, and not very species-appropriate, was such a big hit back then that there were even shortages in the supply of young lions, tigers, and leopards.[^1] This was because other zoos soon wanted to offer their visitors similar attractions as well. "The great lion petting at the zoo", announced the _Leipziger Tageszeitung_ newspaper on 8 November 1935.[^2] At Stellingen Zoo, the zoo director also saw how much young visitors loved cuddling and petting lion cubs.[^3] Demand for young animals remained high as they would be much too big by the next summer and [[would have to be replaced|story.photos-with-lion-cubs]]. Predator babies were thus coveted on the market and came with a corresponding price tag[^4]. Zoos therefore took what they could get: "As we have already discussed, exotic bears could be taken instead of the young predators in the meantime and could perhaps later be exchanged for young predators"[^5], wrote the animal trader who supplied Berlin Zoo with young predators to its director. 
  
 <figure>
 
@@ -100,7 +100,7 @@ _Bild aus dem Berliner „Tierkinderzoo“ um 1933. (AZGB. Alle Rechte vorbehalt
 
 Ein Gepard umringt von jungen Ziegen, Lämmern und Ferkeln? Ein ungewöhnliches Bild. Das Foto aus dem Zoo Berlin zeigt ein Phänomen, das es so schon lange nicht mehr gibt, aber in den 1930er-Jahren äußerst populär war: den "Tierkinderzoo". Die nachfolgende Einrichtung, der Streichelzoo, findet sich bis heute in vielen Tiergärten. Aber wer weiß noch, dass dort früher auch Bärenjunge und Löwenbabys gehalten wurden?
  
-Im Sommer 1931 organisierte der Zoo zum ersten Mal eine Sonderschau mit Jungtieren. Das Besondere: Besetzt war die eingezäunte Anlage, für die man Eintritt bezahlen musste, nicht nur mit Jungtieren heimischer Haustierrassen, sondern auch mit kleinen Raubtieren aus Europa und Afrika, die man alle füttern, streicheln, auf den Schoß nehmen und sogar [[mit der Flasche füttern konnte|[[story.photos-with-lion-cubs]].
+Im Sommer 1931 organisierte der Zoo zum ersten Mal eine Sonderschau mit Jungtieren. Das Besondere: Besetzt war die eingezäunte Anlage, für die man Eintritt bezahlen musste, nicht nur mit Jungtieren heimischer Haustierrassen, sondern auch mit kleinen Raubtieren aus Europa und Afrika, die man alle füttern, streicheln, auf den Schoß nehmen und sogar [[mit der Flasche füttern konnte|story.photos-with-lion-cubs]].
  
 <figure> 
  
