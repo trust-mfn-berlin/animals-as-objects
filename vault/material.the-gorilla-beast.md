@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The "Gorilla Beast"
 title_de: Die "Bestie Gorilla"
 created: 1640365282699
-updated: 1640367758669
+updated: 1640368280929
 id: H40I2GIwYN6393S3tIUHI
 author: Britta Lange
 translators:
@@ -146,7 +146,7 @@ Damit wurde die Trophäen-Ikonographie des Gorillas als Bestie fortgeschrieben, 
 
 [^2]: Das Bild ohne Stempel von Wilhelm Kuhnert (der ebenfalls unter den Ausstellern in Karlsruhe war) findet sich ebenfalls in der Gorilla-Broschüre der Firma Umlauff angedruckt. Vgl. _Der Riesen-Gorilla des Museum Umlauff Hamburg: Schilderung seiner Erlegung und wissenschaftliche Beschreibung. Katalog_. Hamburg: Adolph Friedländers Druckerei, 1901.
 
-[3]: Vgl. Ingensiep, Hans Werner. "Kultur- und Zoogeschichte der Gorillas – Beobachtungen zur Humanisierung von Menschenaffen". In _Die Kulturgeschichte des Zoos_, hg. von Lothar Dittrich, Annelore Rieke-Müller und Dietrich von Engelhardt. Berlin: VWB, Verl. für Wiss. und Bildung, 2001: 151−170.
+[^3]: Vgl. Ingensiep, Hans Werner. "Kultur- und Zoogeschichte der Gorillas – Beobachtungen zur Humanisierung von Menschenaffen". In _Die Kulturgeschichte des Zoos_, hg. von Lothar Dittrich, Annelore Rieke-Müller und Dietrich von Engelhardt. Berlin: VWB, Verl. für Wiss. und Bildung, 2001: 151−170.
 
 [^4]: Vgl. Ingensiep, 2001: 153.
 
