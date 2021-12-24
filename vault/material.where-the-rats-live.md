@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Where the Rats Live
 title_de: Vom Ort der Ratten in Berlin
 created: 1640358221692
-updated: 1640358972601
+updated: 1640359069090
 id: WvlC2lzgJTGcErlbiCFEt
 author: Britta Lange, Mareike Vennen
 translators:
@@ -58,6 +58,8 @@ _Poster des Projektseminars „Tiertopografien“, Gestaltung: Eileen Klingner._
 </figcaption>
 
 </figure>
+
+<sound file="/audio/Einleitung_Lange und Vennen.mp3">_Vom Ort der Ratten in Berlin_ von Britta Lange und Mareike Vennen</sound>
 
 Einführung in die Audiogeschichten über Tiere in Berlin aus dem Projektseminar "Tier-Topografien" am Institut für Kulturwissenschaft der Humboldt-Universität zu Berlin unter der Leitung von Britta Lange und Mareike Vennen (Sommersemester 2021). 
 
