@@ -1,17 +1,23 @@
 ---
-id: OnYQIVhzHVPQr5cuuBtEO
-title: Of Disappearance and Rediscovery
-desc: Put a description of this note here...
-updated: 1640355967660
-created: 1640355738318
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
-published: false
+title: Of Disappearance and Rediscovery
+title_de: Vom Verschwinden und Wiederfinden
+created: 1640355738318
+updated: 1640355967660
+id: OnYQIVhzHVPQr5cuuBtEO
+author: Mareike Vennen
+translators:
+  translator_de_en: Lydia J. White
+desc: The pitfalls of collecting
+desc_de: Tücken der Sammlungsarbeit
+short_desc: The pitfalls of collecting
+short_desc_de: Tücken der Sammlungsarbeit
+cover_image: null
 colour_scheme: 11
+tao_type: material
+date_start: 1914-12-24T15:26:00.000Z
+date_end: ""
+published: false
 ---
 
 :::EN:::
