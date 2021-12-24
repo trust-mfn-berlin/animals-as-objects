@@ -1,17 +1,23 @@
 ---
-id: PycpfqnQuolcIv93f9gkd
-title: Berlin's Border Dogs
-desc: Put a description of this note here...
-updated: 1640359523201
-created: 1640359523201
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
-published: false
+title: Berlin’s Border Dogs
+title_de: Berliner Grenz-Hunde
+created: 1640359523201
+updated: 1640359523201
+id: PycpfqnQuolcIv93f9gkd
+author: Marie Permantier
+translators:
+  translator_de_en: Lydia J. White
+desc: Audio stories about animals in Berlin
+desc_de: Audiogeschichten über Tiere in Berlin
+short_desc: Audio stories about animals in Berlin
+short_desc_de: Audiogeschichten über Tiere in Berlin
+cover_image: null
 colour_scheme: 11
+tao_type: material
+date_start: 1961-12-24T15:37:00.000Z
+date_end: 1990-12-24T15:37:00.000Z
+published: false
 ---
 
 :::EN:::
