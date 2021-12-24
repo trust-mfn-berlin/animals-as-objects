@@ -2,16 +2,30 @@
 id: j4n4MgsQE2ad1vi8VKZFT
 title: Bobby Tracking Body Parts
 desc: Put a description of this note here...
-updated: 1640335883281
-created: 1640334942870
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: story
-cover_image: null
+updated: 1640336073845
 license: CC BY-SA
-published: false
+title: '"Bobby". Tracking Body Parts'
+title_de: '"Bobby". Eine Fundgeschichte'
+created: 1640334942870
+updated: 1640335573950
+id: j4n4MgsQE2ad1vi8VKZFT
+author: "Mareike Vennen "
+translators:
+  translator_de_en: Lydia J. White
+desc: The little known scientific and collection history of the famous zoo
+  gorilla is a story of individual body parts that connect various places and
+  disciplines with some in part sensitive contexts.
+desc_de: Die bislang wenig bekannte Wissenschafts- und Sammlungsgeschichte des
+  berühmten Zoo-Gorillas ist eine Geschichte einzelner Körperteile. Sie
+  verbindet unterschiedliche Orte und Disziplinen mit teils sensiblen Kontexten.
+short_desc: The afterlife of a zoo animal in scientific collections.
+short_desc_de: Nachleben eines Zootieres in wissenschaftlichen Sammlungen
+cover_image: null
 colour_scheme: 14
+tao_type: story
+date_start: 1935-12-24T09:46:00.000Z
+date_end: ""
+published: false
 ---
 
 :::EN:::
