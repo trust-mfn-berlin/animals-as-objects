@@ -3,7 +3,7 @@ license: CC BY-SA
 title: '"Bobby". Tracking Body Parts'
 title_de: '"Bobby". Eine Fundgeschichte'
 created: 1640338390195
-updated: 1640340276331
+updated: 1640340312735
 id: 05XnJBaPUmIcfTWa4WMyb
 author: Mareike Vennen
 translators:
@@ -316,7 +316,7 @@ Schließlich wurde ein Abguss des Gesichts in Gips angefertigt. Solche Totenmask
 
 ![Frontale Farbfotografie einer bronzefarbenen Totenmaske vom Gesicht eines Gorillas.](/images/mv/bobby-totenmaske.jpg)
 
-![Glasvitrine mit der Überschrift: Der Gorilla "Bobby". Aus Afrika in den Zoo – Aus dem Zoo ins Museum. In der Mitte der Vitrine hängt eine Totenmaske des Tieres, umrahmt von Schrifttafeln und Fotografien, die unter anderem das lebende Zootier und seine spätere Präparation zeigen. Darunter sind neben weiteren Fotos der Schädel sowie Modelle und Abgüsse einzelner Körperteile ausgestellt.](images/mv/mfn-b-v-0727.jpg)
+![Glasvitrine mit der Überschrift: Der Gorilla "Bobby". Aus Afrika in den Zoo – Aus dem Zoo ins Museum. In der Mitte der Vitrine hängt eine Totenmaske des Tieres, umrahmt von Schrifttafeln und Fotografien, die unter anderem das lebende Zootier und seine spätere Präparation zeigen. Darunter sind neben weiteren Fotos der Schädel sowie Modelle und Abgüsse einzelner Körperteile ausgestellt.](/images/mv/mfn-b-v-0727.jpg)
 
 </div>
 
