@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Photos with Lion Cubs
 title_de: Bilder mit Löwenbabys
 created: 1640340586550
-updated: 1640342025084
+updated: 1640342805802
 id: 4U5dFDf18mKRPdRnzu35p
 author: Mareike Vennen
 translators:
@@ -193,7 +193,7 @@ The animal baby zoo and the photo booth, which gave visitors an opportunity to t
  
 <figure>
 
-
+<div class="series">
 
 ![An article from the _Tagesspiegel_ newspaper is illustrated with a photo of a woman holding a lion cub towards the camera in both hands. The lion cub bares its teeth and looks like it is on edge.](/images/mv/kaufhaus-loewenbaby-a.jpg)
  
@@ -344,7 +344,7 @@ What connects them is what stays the same, a motif that can be traced through a 
 
 <figure>
 
-![Kleiner Junge sitzt lächelnd auf einer Bank mit einem Löwenjungen auf dem Schoß](/images\Dieter-Herfurth-1939-mit-Loewenbaby.jpg)
+![Kleiner Junge sitzt lächelnd auf einer Bank mit einem Löwenjungen auf dem Schoß](/images/Dieter-Herfurth-1939-mit-Loewenbaby.jpg)
 
 <figcaption>
 
@@ -475,14 +475,19 @@ Sie befeuerten das Bild vom Löwen als zahme Katze gemeinsam mit Publikationen e
  
 <figure>
 
-<>
+![Ein Mädchen und ein Junge stehen in einem Zoogehege und füttern drei Bärenjungen und ein Fuchsjunges mit Babyfläschchen.](/images/mv/Tierkinderzoo-azgb-s-13-6.jpg)
 
-![Ein Mädchen und ein Junge stehen in einem Zoogehege und füttern drei Bärenjungen und ein Fuchsjunges mit Babyfläschchen.](images/mv/Tierkinderzoo-azgb-s-13-6.jpg)
+<figcaption>
+
 _Im Berliner "Tierkinderzoo" konnten Menschenkinder Raubtierjunge mit der Flasche füttern. (AZGB. Alle Rechte vorbehalten)._
+
+</figcaption>
+
+</figure>
+
+<figure>
  
 ![Eine Frau sitzt auf einer Bank und lächelt in die Kamera während sie ein Löwenbaby auf dem Schoß hält und mit einer Babyflasche füttert.](/images/mv/zoowegweiser-1973-frau-loewenbaby.jpg)
-
-</div>
 
 <figcaption>
 
@@ -496,7 +501,7 @@ Der Tierkinderzoo und der Fotostand, die den Besucher:innen selbst Gelegenheit z
 
 <figure>
 
-<>
+<div class="series">
 
 ![Ein Artikel des Tagesspiegel wird illustriert mit einem Foto einer Frau, die ein Löwenjunges frontal mit beiden Händen in die Kamera hält. Das Löwenbaby zeigt seine Zähne und wirkt unruhig.](/images/mv/kaufhaus-loewenbaby-a.jpg)
  
