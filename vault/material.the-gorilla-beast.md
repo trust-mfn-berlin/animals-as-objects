@@ -1,17 +1,23 @@
 ---
-id: H40I2GIwYN6393S3tIUHI
-title: The Gorilla Beast
-desc: Put a description of this note here...
-updated: 1640365741547
-created: 1640365282699
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
-published: false
+title: The "Gorilla Beast"
+title_de: Die "Bestie Gorilla"
+created: 1640365282699
+updated: 1640365741547
+id: H40I2GIwYN6393S3tIUHI
+author: Britta Lange
+translators:
+  translator_de_en: Lydia J. White
+desc: An example of colonial iconography
+desc_de: "Zu einem Beispiel kolonialer Ikonografie "
+short_desc: An example of colonial iconography
+short_desc_de: "Zu einem Beispiel kolonialer Ikonografie "
+cover_image: null
 colour_scheme: 11
+tao_type: material
+date_start: 1901-12-24T18:00:39.000Z
+date_end: 1903-12-24T18:00:39.000Z
+published: false
 ---
 
 :::EN:::
