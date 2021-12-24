@@ -2,7 +2,7 @@
 id: j4n4MgsQE2ad1vi8VKZFT
 title: Bobby Tracking Body Parts
 desc: Put a description of this note here...
-updated: 1640336907841
+updated: 1640337102757
 license: CC BY-SA
 title: '"Bobby". Tracking Body Parts'
 title_de: '"Bobby". Eine Fundgeschichte'
@@ -229,7 +229,7 @@ Die Aufnahme entstand am 2. August 1935 während der Obduktion von "Bobby" im Pa
 
 <figure>
  
-![Foto der Präparationsarbeiten einer sitzenden Gorilla-Dermoplastik, der zwei Männern in weißen Kitteln die Haut annähen.](images/mv/zm-b-iii-1232-bobby-.jpg)
+![Foto der Präparationsarbeiten einer sitzenden Gorilla-Dermoplastik, der zwei Männern in weißen Kitteln die Haut annähen.](/images/mv/zm-b-iii-1232-bobby-.jpg)
 
 <figcaption>
 
