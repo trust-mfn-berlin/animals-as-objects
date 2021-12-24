@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Where the Rats Live
 title_de: Vom Ort der Ratten in Berlin
 created: 1640358221692
-updated: 1640359069090
+updated: 1640360033034
 id: WvlC2lzgJTGcErlbiCFEt
 author: Britta Lange, Mareike Vennen
 translators:
@@ -67,7 +67,7 @@ Ratten treiben sich überall und schon immer in Berlin herum. Wo sind ihre Gesch
 
 Tier-Topografien sind ortsspezifische Erkundungen: Perspektiven auf Orte, an denen Tiere eine besondere Rolle spielen, in der Geschichte oder in der Gegenwart. Räume, in denen sich Tiere aufhalten, an die sie gebracht werden, sowie solche, die sie einnehmen. Ausgangspunkt der hier zu hörenden Audiogeschichte ist eine theoretische und historische Auseinandersetzung mit urbanen Tier-Topografien und verschiedenen Formen der Bewegung entlang historischer Spuren und aktueller Wegstrecken. Die auditive Spurensuche führt an bekannte und unbekannte Orte in Berlin und erkundet an diesen die Beziehungen zwischen Menschen und Tieren.
 
-Dieser Beitrag führt in die Audiogeschichten über Tiere in Berlin ein, die vom 4. Oktober bis 17. Dezember im Tieranatomischen Theater Berlin zu hören waren. Sie erzählen von [[toten Tieren|material.dead-animals]], [[Berliner Grenzhunden|material.berlin’s-border-dogs]], [[Katzen-Kolonien|material.cat-colonies]] und [[spukendem Vieh|material.haunting-cattle]].
+Dieser Beitrag führt in die Audiogeschichten über Tiere in Berlin ein, die vom 4. Oktober bis 17. Dezember im Tieranatomischen Theater Berlin zu hören waren. Sie erzählen von [[toten Tieren|material.dead-animals]], [[Berliner Grenzhunden|material.berlin's-border-dogs]], [[Katzen-Kolonien|material.cat-colonies]] und [[spukendem Vieh|material.haunting-cattle]].
 
 
 [^1]: Sie hören Britta Lange, Mareike Vennen und Constantin Hühn (Audiokombinat). 
