@@ -3,7 +3,7 @@ license: CC BY-SA
 title: '"Bobby". Tracking Body Parts'
 title_de: '"Bobby". Eine Fundgeschichte'
 created: 1640338390195
-updated: 1640340087802
+updated: 1640340276331
 id: 05XnJBaPUmIcfTWa4WMyb
 author: Mareike Vennen
 translators:
@@ -296,7 +296,7 @@ Vor der Präparation einzelner Körperteile, die an unterschiedliche Institution
 
 ![Zwei Gipsabgüsse eines Fußes des Gorillas "Bobby" sind nebeneinanderliegend aus Vogelperspektive fotografiert; beim linken Abguss sind die Muskeln freigelegt und eingefärbt, daneben liegt ein weißer Abguss des Fußes.](/images/mv/bobby-fuss.jpg) 
 
-![Das Foto zeigt den Abguss eines Gorilla-Fußes mit freigelegten und eingefärbten Muskeln in einer Glasvitrine, darunter sieht man Ausschnitte weiterer Skeletteile von Extremitäten. Hinter dem Gipsfuß befindet sich ein Farbfoto des Gorillas "Bobby" sowie einige beschriftete Etiketten.](images/mv/bobby-fuss-vitrine.jpg)
+![Das Foto zeigt den Abguss eines Gorilla-Fußes mit freigelegten und eingefärbten Muskeln in einer Glasvitrine, darunter sieht man Ausschnitte weiterer Skeletteile von Extremitäten. Hinter dem Gipsfuß befindet sich ein Farbfoto des Gorillas "Bobby" sowie einige beschriftete Etiketten.](/images/mv/bobby-fuss-vitrine.jpg)
 
 </div>
 
