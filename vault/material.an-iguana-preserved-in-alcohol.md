@@ -1,17 +1,23 @@
 ---
-id: 2I4UEzZOAUqyavSEDIFs8
-title: An Iguana Preserved in Alcohol
-desc: Put a description of this note here...
-updated: 1640357640145
-created: 1640357199143
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
-published: false
+title: An Iguana Preserved in Alcohol
+title_de: Leguan in Weingeist
+created: 1640357199143
+updated: 1640357640145
+id: 2I4UEzZOAUqyavSEDIFs8
+author: Mareike Vennen
+translators:
+  translator_de_en: Lydia J. White
+desc: From the colony via the zoo into the collection
+desc_de: Von der Kolonie über den Zoo in die Sammlung
+short_desc: From the colony via the zoo into the collection
+short_desc_de: Von der Kolonie über den Zoo in die Sammlung
+cover_image: null
 colour_scheme: 11
+tao_type: material
+date_start: 1844-01-01T15:46:39.000Z
+date_end: 1844-12-24T15:46:39.000Z
+published: false
 ---
 
 :::EN:::
