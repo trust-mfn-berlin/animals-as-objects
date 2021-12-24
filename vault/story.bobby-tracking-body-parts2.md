@@ -3,7 +3,7 @@ license: CC BY-SA
 title: '"Bobby". Tracking Body Parts'
 title_de: '"Bobby". Eine Fundgeschichte'
 created: 1640338390195
-updated: 1640339496694
+updated: 1640340087802
 id: 05XnJBaPUmIcfTWa4WMyb
 author: Mareike Vennen
 translators:
@@ -78,7 +78,7 @@ _The dead gorilla "Bobby" at Berlin Zoo with his keeper Karl Liebetreu. (AZGB. A
  
 <figure>
 
-
+<div class="series">
 
 ![Photo of the skull of "Bobby" the gorilla in profile, leaning against a box on a table. The bone has been sawed through horizontally above the eyes.](/images/mv/bobby-schaedel-sugetiersammlung-mfn-2.jpg)
 
@@ -105,7 +105,7 @@ Before the individual body parts were prepared and given to various institutions
 
  <figure>
  
- 
+ <div class="series">
  
 ![Two paster casts of "Bobby" the gorilla's hand from above. Of the left cast the muscles have been exposed and coloured. Next to it is a white plaster cast of the  hand.](/images/mv/bobby-hand-2.jpg)
 
@@ -129,7 +129,7 @@ Finally, a plaster cast was made of Bobby's face. Death masks like these were ma
 
 <figure>
 
-
+<div class="series">
 
 ![Frontal colour photograph of a bronze death mask of a gorilla's face.](/images/mv/bobby-totenmaske.jpg)
 
@@ -228,7 +228,7 @@ Die Aufnahme entstand am 2. August 1935 während der Obduktion von "Bobby" im Pa
  
 <figure>
 
-![Foto der Präparationsarbeiten einer sitzenden Gorilla-Dermoplastik, der zwei Männern in weißen Kitteln die Haut annähen.](images/mv/zm-b-iii-1232-bobby-.jpg)
+![Foto der Präparationsarbeiten einer sitzenden Gorilla-Dermoplastik, der zwei Männern in weißen Kitteln die Haut annähen.](/images/mv/zm-b-iii-1232-bobby-.jpg)
 
 <figcaption>
 
@@ -244,7 +244,7 @@ Dieser Text versteht sich als Versuch, eine weitgehend unbekannte Seite der Gesc
 
 <figure>
 
-![Bild eines liegenden Gorillakadavers über den sich ein Mann beugt, der die linke Hand des toten Tieres greift.](images/mv/gorilla-bobby-tot-.JPG)
+![Bild eines liegenden Gorillakadavers über den sich ein Mann beugt, der die linke Hand des toten Tieres greift.](/images/mv/gorilla-bobby-tot-.JPG)
 
 <figcaption>
 
@@ -262,11 +262,11 @@ Die Obduktion des Gorillas "Bobby" diente in erster Linie dazu, die Todesursache
  
 <figure>
 
+<div class="series">
 
+![Fotografie des Schädels des Gorillas "Bobby" im Profil, wie er auf einem Tisch an eine Kiste angelehnt steht. Der Knochen ist oberhalb der Augen horizontal durchsägt.](/images/mv/bobby-schaedel-sugetiersammlung-mfn-2.jpg)
 
-![Fotografie des Schädels des Gorillas "Bobby" im Profil, wie er auf einem Tisch an eine Kiste angelehnt steht. Der Knochen ist oberhalb der Augen horizontal durchsägt.](images/mv/bobby-schaedel-sugetiersammlung-mfn-2.jpg)
-
-![Ausschnittfotografie, die in Vergrößerung die mit schwarzem Stift vermerkten Beschriftungen auf dem durchsägten Schädelknochen eines Gorillas zeigt.](images/mv/bobby-schaedel-sugetiersammlung-mfn-1.jpg)
+![Ausschnittfotografie, die in Vergrößerung die mit schwarzem Stift vermerkten Beschriftungen auf dem durchsägten Schädelknochen eines Gorillas zeigt.](/images/mv/bobby-schaedel-sugetiersammlung-mfn-1.jpg)
 
 </div>
 
@@ -288,13 +288,13 @@ Vor der Präparation einzelner Körperteile, die an unterschiedliche Institution
 
 <figure>
 
+<div class="series">
 
+![Zwei Gipsabgüsse einer Hand des Gorillas "Bobby" sind nebeneinanderliegend aus Vogelperspektive fotografiert; beim linken Abguss sind die Muskeln freigelegt und eingefärbt, daneben liegt ein weißer Abguss der Hand.](/images/mv/bobby-hand-2.jpg)
 
-![Zwei Gipsabgüsse einer Hand des Gorillas "Bobby" sind nebeneinanderliegend aus Vogelperspektive fotografiert; beim linken Abguss sind die Muskeln freigelegt und eingefärbt, daneben liegt ein weißer Abguss der Hand.](images/mv/bobby-hand-2.jpg)
+![Handabguss aus Gips des Gorillas "Bobby" aus Vogelperspektive mit einer daneben gehaltenen menschlichen Hand.](/images/mv/bobby-hand-charite-1.jpg)
 
-![Handabguss aus Gips des Gorillas "Bobby" aus Vogelperspektive mit einer daneben gehaltenen menschlichen Hand.](images/mv/bobby-hand-charite-1.jpg)
-
-![Zwei Gipsabgüsse eines Fußes des Gorillas "Bobby" sind nebeneinanderliegend aus Vogelperspektive fotografiert; beim linken Abguss sind die Muskeln freigelegt und eingefärbt, daneben liegt ein weißer Abguss des Fußes.](images/mv/bobby-fuss.jpg) 
+![Zwei Gipsabgüsse eines Fußes des Gorillas "Bobby" sind nebeneinanderliegend aus Vogelperspektive fotografiert; beim linken Abguss sind die Muskeln freigelegt und eingefärbt, daneben liegt ein weißer Abguss des Fußes.](/images/mv/bobby-fuss.jpg) 
 
 ![Das Foto zeigt den Abguss eines Gorilla-Fußes mit freigelegten und eingefärbten Muskeln in einer Glasvitrine, darunter sieht man Ausschnitte weiterer Skeletteile von Extremitäten. Hinter dem Gipsfuß befindet sich ein Farbfoto des Gorillas "Bobby" sowie einige beschriftete Etiketten.](images/mv/bobby-fuss-vitrine.jpg)
 
@@ -312,9 +312,9 @@ Schließlich wurde ein Abguss des Gesichts in Gips angefertigt. Solche Totenmask
 
 <figure>
 
-<>
+<div class="series">
 
-![Frontale Farbfotografie einer bronzefarbenen Totenmaske vom Gesicht eines Gorillas.](images/mv/bobby-totenmaske.jpg)
+![Frontale Farbfotografie einer bronzefarbenen Totenmaske vom Gesicht eines Gorillas.](/images/mv/bobby-totenmaske.jpg)
 
 ![Glasvitrine mit der Überschrift: Der Gorilla "Bobby". Aus Afrika in den Zoo – Aus dem Zoo ins Museum. In der Mitte der Vitrine hängt eine Totenmaske des Tieres, umrahmt von Schrifttafeln und Fotografien, die unter anderem das lebende Zootier und seine spätere Präparation zeigen. Darunter sind neben weiteren Fotos der Schädel sowie Modelle und Abgüsse einzelner Körperteile ausgestellt.](images/mv/mfn-b-v-0727.jpg)
 
