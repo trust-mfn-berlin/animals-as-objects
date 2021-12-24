@@ -16,7 +16,8 @@ desc_de: Wer an Zoos denkt, denkt an Elefanten, Löwen oder Giraffen. Doch sind
   Beispiel des Berliner Zoos in der Zeit um 1900 zeigt.
 short_desc: Domestic animals at the zoo
 short_desc_de: Nutztiere im Zoo
-cover_image: null
+cover_image:
+  image: /images/aktendeckel-landwirtschaftlicher-tierpark.jpg
 colour_scheme: 11
 tao_type: material
 date_start: ""
