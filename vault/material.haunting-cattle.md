@@ -2,7 +2,7 @@
 id: AOZiyuOX6B0ntAdEoiiIi
 title: Haunting Cattle
 desc: Put a description of this note here...
-updated: 1640359539704
+updated: 1640363061910
 created: 1640359539704
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -16,62 +16,53 @@ colour_scheme: 11
 
 :::EN:::
 
-Text body (up to 500 words) with backlinks like this: [[theme.test]]. The title is already written above.
-If needed you can also add footnotes [^1]. 
-As necessary, things can be **bold** or _italic_. 50 - 500 words max.
-They can also include:
->Longer quotes from other sources, like this one...
-
 <figure>
 
-![image description for accessibility](/images/example/hippo.jpg)
+![Photography of a street corner with a street sign with two street names: "Am Viehof" and "Viehtrift". In the foreground is a green hedge and in the background is a brick building.](/images/mv/tiertopografien-kaatsch.jpg)
 
 <figcaption>
 
-_Image caption (less than 200 characters) and source._
+_The street signs still remind of the former abattoir in Berlin. (Photo: Sophie-Marie Kaatsch. All rights reserved.)_
 
 </figcaption>
 
 </figure>
 
-If you need to backlink a word that is different from the actual title, use [[themes|templates.theme]].  It should never be a word like "here", used as a hyperlink. It should always be a close variation of the actual title.
+<sound file="/audio/Audiobeitrag_Kaatsch.mp3">_Haunting Cattle_ by Sophie-Marie Kaatsch</sound>
 
-If you need to reference another text at the end of a sentence, it looks like this: Here is a sentence, see [[templates.story]].
-Hier ist ein Satz, siehe auch [[templates.story]].
+An audio piece from the project seminar "Animal Topographies" held at the Institute for Cultural Studies at Humboldt-Universität zu Berlin and run by Britta Lange and Mareike Vennen (summer semester 2021). 
 
-<!-- And this allows us to leave notes to the others that are not visible in the preview. -->
+Animal topographies are site-specific explorations that view places where animals have played a special role in the past or present: spaces where animals have spent time, places to which they have been brought, and places that they have occupied. The audio stories that can be heard here start with theoretical and historical examinations of urban animal topographies and different forms of movement by looking at historical traces and current routes. The auditive hunt for clues leads through Berlin sites both known and unknown, where it explores relationships between humans and animals.
 
-## Transcript
+From abattoir to luxury neighbourhood? Sophie-Marie Kaatsch takes a walk through the former premises of the old abattoir in Berlin-Pankow. She explores how the area has changed over time and what gentrification is still changing today. Voices from the present and the past have their say, combining to create an acoustic portrait of the site and following the ghosts of the abattoir.[^1] 
 
->If the material is a document with text or an audio interview, it should end with a transcript of the words, for accessibility. Since here we have the space to pull the transcript out of the image description, and into the main text, do it.
->
->Multi-paragraph is possible. It should be entirely in quote-style, to set it apart visually.
+Other audio pieces tell the stories of [[material.where-the-rats-live]], [[material.cat-colonies]], [[material.berlin's-border-dogs]], and [[material.dead-animals]].
 
-[^1]: here REF: Surname, Name. _Book title_. Place: Press, YYYY; Surname, Name. "Article Title." _Journal_ 1, n1 (YYYY): p-pp. See [[help.style guide]].
+
+[^1] You are listening to excerpts from Döblin, Alfred. _Berlin Alexanderplatz_ [1929]. Frankfurt am Main: Fischer Verlag, 2020: 151; Wolbt: "Der städtische Central-Viehhof in Berlin." _Illustrierte Zeitung_ no. 2003. 19.11.1881: 445. 
 
 :::DE:::
 
-# German title (DE)
-
-(DE) Text body (up to 500 words) with backlinks like this: [[theme.test]].
-
-If needed you can also add footnotes [^1]. The word does not need to be footnote
-As necessary, things can be **bold** or _italic_.
-They can also include:
->Longer quotes from other sources, like this one...
-
 <figure>
 
-![image description for accessibility](/images/example/hippo.jpg)
+![Fotografie einer Straßenecke. Auf einem Straßenschild sind zwei Straßennamen zu lesen: „Am Viehof“ und „Viehtrift“. Im Vordergrund ist eine grüne Hecke und im Hintergrund ein Backsteingebäude zu sehen.](/images/mv/tiertopografien-kaatsch.jpg)
 
 <figcaption>
 
-_Image caption (less than 200 characters) and source._
+_Die Straßenschilder erinnern noch an den ehemalischen Schlachthof. (Foto: Sophie-Marie Kaatsch. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
 </figure>
 
-<!-- And this allows us to leave notes to the others that are not visible in the preview. -->
+<sound file="/audio/Audiobeitrag_Kaatsch.mp3">_Spukendes Vieh_ von Sophie-Marie Kaatsch</sound>
 
-[^1]: here it links.
+Ein Hörstück aus dem Projektseminar "Tier-Topografien" am Institut für Kulturwissenschaft der Humboldt-Universität zu Berlin unter der Leitung von Britta Lange und Mareike Vennen (Sommersemester 2021). 
+
+Tier-Topografien sind ortsspezifische Erkundungen: Perspektiven auf Orte, an denen Tiere eine besondere Rolle spielen, in der Geschichte oder in der Gegenwart. Räume, in denen sich Tiere aufhalten, an die sie gebracht werden, sowie solche, die sie einnehmen. Ausgangspunkt der hier zu hörenden Audiogeschichte ist eine theoretische und historische Auseinandersetzung mit urbanen Tier-Topografien und verschiedenen Formen der Bewegung entlang historischer Spuren und aktueller Wegstrecken. Die auditive Spurensuche führt an bekannte und unbekannte Orte in Berlin und erkundet an diesen die Beziehungen zwischen Menschen und Tieren.
+
+Vom Schlachthof zum Luxuskiez? Sophie-Marie Kaatsch unternimmt einen Spaziergang über das ehemalige Gelände des alten Schlachthofs in Berlin-Pankow. Sie erkundet, wie sich das Areal im Laufe der Zeit gewandelt hat und was sich mit der Gentrifizierung immer weiter verändert. Es kommen Stimmen aus der Gegenwart und der Vergangenheit zu Wort, die sich zu einem akustischen Kurzporträt des Ortes verbinden und den Geistern des Schlachthofs nachspüren.[^1] 
+
+Weitere Hörstücke erzählen vom [[Ort der Ratten in Berlin|material.where-the-rats-live]], von [[Katzen-Kolonien|material.cat-colonies]], [[Berliner Grenzhunden|material.berlin's-border-dogs]] und [[toten Tieren|material.dead-animals]].
+
+[^1]: Sie hören Auszüge aus Döblin, Alfred. _Berlin Alexanderplatz_ [1929]. Frankfurt am Main: Fischer Verlag, 2020: 151; Wolbt: "Der städtische Central-Viehhof in Berlin." _Illustrirte Zeitung_ Nr. 2003. 19.11.1881: 445.
