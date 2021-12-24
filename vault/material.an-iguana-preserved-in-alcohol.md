@@ -2,7 +2,7 @@
 id: 2I4UEzZOAUqyavSEDIFs8
 title: An Iguana Preserved in Alcohol
 desc: Put a description of this note here...
-updated: 1640357368138
+updated: 1640357408198
 created: 1640357199143
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -42,7 +42,7 @@ However, just a few of them survived the two-month journey on board a trade ship
 
 <figure>
 
-! [Doppelseite eines aufgeschlagenen Notizbuchs, dessen handschriftliche Einträge für den Monat September im Jahr 1844 in eine eigenhändig gezeichnete Tabellenform gegliedert sind.]
+! [Doppelseite eines aufgeschlagenen Notizbuchs, dessen handschriftliche Einträge für den Monat September im Jahr 1844 in eine eigenhändig gezeichnete Tabellenform gegliedert sind.](/images/mv/zool.mus-si-verwaltungsakten-agebuch-beyer-1844-11.jpg)
 
 <figcaption>
 
