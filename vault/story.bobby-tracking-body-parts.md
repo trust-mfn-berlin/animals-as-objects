@@ -2,7 +2,7 @@
 id: j4n4MgsQE2ad1vi8VKZFT
 title: Bobby Tracking Body Parts
 desc: Put a description of this note here...
-updated: 1640335573950
+updated: 1640335883281
 created: 1640334942870
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -18,7 +18,7 @@ colour_scheme: 14
 
 <figure>
 
-![A black-and-white photo of a skinned gorilla torso from which the hands have been removed, lying on a table or a stretcher in an indoor space.](/images/zm-b-iv-557-2-r.jpg)
+![A black-and-white photo of a skinned gorilla torso from which the hands have been removed, lying on a table or a stretcher in an indoor space.](/images/mv/zm-b-iv-557-2-r.jpg)
 
 <figcaption>
 
