@@ -1,17 +1,23 @@
 ---
-id: fhaeI85XK03VOoIUROfG9
-title: Cat Colonies
-desc: Put a description of this note here...
-updated: 1640359922504
-created: 1640359483672
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
-published: false
+title: Cat Colonies
+title_de: "Katzen-Kolonien "
+created: 1640359483672
+updated: 1640359922504
+id: fhaeI85XK03VOoIUROfG9
+author: Anne Hoffmann
+translators:
+  translator_de_en: Lydia J. White
+desc: Audio stories about animals in Berlin
+desc_de: Audiogeschichten über Tiere in Berlin
+short_desc: Audio stories about animals in Berlin
+short_desc_de: Audiogeschichten über Tiere in Berlin
+cover_image: null
 colour_scheme: 11
+tao_type: material
+date_start: 2021-01-01T15:40:08.096Z
+date_end: ""
+published: false
 ---
 
 :::EN:::
