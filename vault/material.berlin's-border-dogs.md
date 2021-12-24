@@ -12,7 +12,8 @@ desc: Audio stories about animals in Berlin
 desc_de: Audiogeschichten über Tiere in Berlin
 short_desc: Audio stories about animals in Berlin
 short_desc_de: Audiogeschichten über Tiere in Berlin
-cover_image: null
+cover_image:
+  image: /images/tiertopografien-permantier-copyright-tvb.jpg
 colour_scheme: 11
 tao_type: material
 date_start: 1961-12-24T15:37:00.000Z
