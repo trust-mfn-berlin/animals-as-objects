@@ -1,17 +1,23 @@
 ---
-id: WvlC2lzgJTGcErlbiCFEt
-title: Where the Rats Live
-desc: Put a description of this note here...
-updated: 1640358639585
-created: 1640358221692
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
-published: false
+title: Where the Rats Live
+title_de: Vom Ort der Ratten in Berlin
+created: 1640358221692
+updated: 1640358639585
+id: WvlC2lzgJTGcErlbiCFEt
+author: Britta Lange, Mareike Vennen
+translators:
+  translator_de_en: Lydia J. White
+desc: Audio stories about animals in Berlin
+desc_de: Audiogeschichten über Tiere in Berlin
+short_desc: Audio stories about animals in Berlin
+short_desc_de: Audiogeschichten über Tiere in Berlin
+cover_image: null
 colour_scheme: 11
+tao_type: material
+date_start: 1790-01-01T16:02:39.000Z
+date_end: ""
+published: false
 ---
 
 :::EN:::
