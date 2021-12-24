@@ -12,7 +12,8 @@ desc: Audio stories about animals in Berlin
 desc_de: Audiogeschichten über Tiere in Berlin
 short_desc: Audio stories about animals in Berlin
 short_desc_de: Audiogeschichten über Tiere in Berlin
-cover_image: null
+cover_image:
+  image: /images/tiertopografien-kaatsch.jpg
 colour_scheme: 11
 tao_type: material
 date_start: 1870-12-02T17:15:39.000Z
