@@ -12,7 +12,8 @@ desc: Recording is a transformative process.
 desc_de: Naturkundliche Verzeichnungspraktiken und ihre transformative Kraft
 short_desc: recording is a transformative process
 short_desc_de: Naturkundliche Verzeichnungspraktiken und ihre transformative Kraft
-cover_image: null
+cover_image:
+  image: /images/mfn-hbsb-zool-mus-s004-02-05-96.jpg
 colour_scheme: 9
 tao_type: theme
 date_start: 1810-01-02T17:28:39.000Z
