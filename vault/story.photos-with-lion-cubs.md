@@ -16,7 +16,8 @@ desc_de: In vielen Zoos konnte man sich mit einem Löwenbaby fotografieren
   verschwunden?
 short_desc: Predators, zoo animals, or stuffed toys? The politics of animal pictures
 short_desc_de: Raubtier, Zootier, Kuscheltier? Politiken des Tierbildes
-cover_image: null
+cover_image:
+  image: /images/Dieter-Herfurth-1939-mit-Loewenbaby.jpg
 colour_scheme: 14
 tao_type: story
 date_start: 1890-12-24T11:24:39.000Z
