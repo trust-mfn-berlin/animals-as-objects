@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The "Gorilla Beast"
 title_de: Die "Bestie Gorilla"
 created: 1640365282699
-updated: 1640365741547
+updated: 1640367758669
 id: H40I2GIwYN6393S3tIUHI
 author: Britta Lange
 translators:
@@ -28,7 +28,7 @@ In 1901, the ethnographica and natural history dealer Umlauff had helped to shap
 
 <figure>
 
-![Black-and-white photograph of a dermoplastic gorilla taxidermy propped up on an artificial tree root, standing on two legs, with its mouth open as if to roar and its left hand balled into a fist.] 
+![Black-and-white photograph of a dermoplastic gorilla taxidermy propped up on an artificial tree root, standing on two legs, with its mouth open as if to roar and its left hand balled into a fist.](/images/guests/lange-1.jpg) 
 
 <figcaption>
 
@@ -42,7 +42,7 @@ While he was preparing the taxidermy – which was accompanied by a sales brochu
 
 <figure>
 
-![Sepia photograph of an upright gorilla taxidermy on the left, standing on two legs and on an artificial tree root. One of the animal's arms is outstretched and leans on an artificial tree trunk. On the right, a man wearing a white lab coat and sitting on a kind of workshop bench with a drawing in his hand observes the gorilla beside him.]
+![Sepia photograph of an upright gorilla taxidermy on the left, standing on two legs and on an artificial tree root. One of the animal's arms is outstretched and leans on an artificial tree trunk. On the right, a man wearing a white lab coat and sitting on a kind of workshop bench with a drawing in his hand observes the gorilla beside him.](/images/guests/lange-2.jpg)
 
 <figcaption>
 
@@ -63,7 +63,7 @@ So, while Zenker did not believe that the dermoplastic taxidermy had appropriate
 
 <figure>
 
-![Black-and-white image with printed text: "German colonial hunting exhibition, Karlsruhe 1903. Extended until 10 August; entry 50 Pfg. New exhibit: Giant gorilla, Ndschego, Orang Utang, etc: Free return trip with the Badische Staatsbahnen on Wednesday." On the left, bordered by the text is an image of the head and shoulders of a gorilla with starting eyes and its mouth wide open, revealing its large white teeth.]
+![Black-and-white image with printed text: "German colonial hunting exhibition, Karlsruhe 1903. Extended until 10 August; entry 50 Pfg. New exhibit: Giant gorilla, Ndschego, Orang Utang, etc: Free return trip with the Badische Staatsbahnen on Wednesday." On the left, bordered by the text is an image of the head and shoulders of a gorilla with starting eyes and its mouth wide open, revealing its large white teeth.](/images/guests/lange-3.jpg)
 
 <figcaption>
 
@@ -96,7 +96,7 @@ Im Jahr 1901 hatten die Ethnografica- und Naturalienhändler Umlauff die spektak
 
 <figure>
 
-![Schwarz-weiß Fotografie eines präparierten Gorillas, der auf einer künstlichen Wurzel aufgestützt, aufgerichtet auf zwei Beinen steht, das Maul zum Schrei aufgerissen hat und die linke Hand zur Faust ballt.] 
+![Schwarz-weiß Fotografie eines präparierten Gorillas, der auf einer künstlichen Wurzel aufgestützt, aufgerichtet auf zwei Beinen steht, das Maul zum Schrei aufgerissen hat und die linke Hand zur Faust ballt.](/images/guests/lange-1.jpg)
 
 <figcaption>
 
@@ -110,7 +110,7 @@ Bei der Herstellung der Dermoplastik, die zu Verkaufszwecken von einer gedruckte
 
 <figure>
 
-![Sepiafarbene alte Fotografie, auf der links ein präparierter Gorilla aufrecht auf zwei Beinen auf einer künstlichen Wurzel steht. Ein Arm des Tieres ist ausgestreckt und stützt sich auf einen künstlichen Baumstamm. Rechts im Bild betrachtet ein Mann in weißem Kittel, der auf einer Art Werkstattbank sitzt und eine Zeichnung in der Hand hält, den Gorilla neben sich.]
+![Sepiafarbene alte Fotografie, auf der links ein präparierter Gorilla aufrecht auf zwei Beinen auf einer künstlichen Wurzel steht. Ein Arm des Tieres ist ausgestreckt und stützt sich auf einen künstlichen Baumstamm. Rechts im Bild betrachtet ein Mann in weißem Kittel, der auf einer Art Werkstattbank sitzt und eine Zeichnung in der Hand hält, den Gorilla neben sich.](/images/guests/lange-2.jpg)
 
 <figcaption>
 
@@ -130,7 +130,7 @@ Während also die Dermoplastik in Zenkers Augen das "Wilde" nicht angemessen abb
 
 <figure>
 
-![Schwarz-weißes Bild mit aufgedrucktem Text: "Deutsch-Koloniale Jagdausstellung Karlsruhe 1903. Verlängert bis 10. August Eintrittspreis 50 Pfg. Neu ausgestellt: Riesen-Gorilla, Ndschego, Orang Utang, etc: Mittwochs freie Rückfahrt mit den badischen Staatsbahnen". Vom Text umrahmt ist links im Bild ein Gorilla bis zur Schulter abgebildet, mit aufgerissenem Maul, das große weiße Zähne freilegt, und aufgerissenen Augen.]
+![Schwarz-weißes Bild mit aufgedrucktem Text: "Deutsch-Koloniale Jagdausstellung Karlsruhe 1903. Verlängert bis 10. August Eintrittspreis 50 Pfg. Neu ausgestellt: Riesen-Gorilla, Ndschego, Orang Utang, etc: Mittwochs freie Rückfahrt mit den badischen Staatsbahnen". Vom Text umrahmt ist links im Bild ein Gorilla bis zur Schulter abgebildet, mit aufgerissenem Maul, das große weiße Zähne freilegt, und aufgerissenen Augen.](/images/guests/lange-3.jpg)
 
 <figcaption>
 
