@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Lions or Cows?
 title_de: Löwen oder Kühe?
 created: 1640356599113
-updated: 1640356715841
+updated: 1640357507569
 id: 9mH5N7vuPc8pcrpIzElb1
 author: Mareike Vennen
 translators:
@@ -31,6 +31,8 @@ published: false
 <figure>
 
 ![File page with handwritten title: Acta betr. Anlegung eines landwirthschaftlichen Thierparks. Below that, the number 246 is crossed out and 189 is written next to it in blue letters.](/images/mv/aktendeckel-landwirtschaftlicher-tierpark.jpg)
+
+<figcaption>
 
 _File on the establishment of an Agricultural Zoo in the archive of Berlin Zoological Garden. (AZGB. All rights reserved.)_
 
@@ -64,6 +66,9 @@ However, the establishment of the "Agricultural Zoo" wore on. The application fo
 <figure>
 
 ![Aktenblatt mit handgeschriebenem Titel: Acta betr. Anlegung eines landwirthschaftlichen Thierparks. Darunter ist die Zahl 246 durchgestrichen, und daneben in blau die Zahl 189 handschriftlich notiert.](/images/mv/aktendeckel-landwirtschaftlicher-tierpark.jpg)
+
+<figcaption>
+
 _Akte zur Anlegung eines Landwirtschaftlichen Tierparks im Archiv des Zoologischen Gartens Berlin. (AZGB. Alle Rechte vorbehalten)._
 
 </figcaption>
