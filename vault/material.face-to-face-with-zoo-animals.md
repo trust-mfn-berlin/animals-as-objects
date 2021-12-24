@@ -10,7 +10,8 @@ desc: The baby animal zoo
 desc_de: Tierkinderzoo mit Raubtieren
 short_desc: The baby animal zoo
 short_desc_de: Tierkinderzoo mit Raubtieren
-cover_image: null
+cover_image:
+  image: /images/tierkindergarten_1930er.jpg
 colour_scheme: 11
 tao_type: material
 date_start: 1930-12-24T15:14:00.000Z
