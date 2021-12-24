@@ -1,17 +1,27 @@
 ---
-id: 4U5dFDf18mKRPdRnzu35p
-title: Photos with Lion Cubs
-desc: Put a description of this note here...
-updated: 1640342025084
-created: 1640340586550
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: story
-cover_image: null
 license: CC BY-SA
-published: false
+title: Photos with Lion Cubs
+title_de: Bilder mit Löwenbabys
+created: 1640340586550
+updated: 1640342025084
+id: 4U5dFDf18mKRPdRnzu35p
+author: Mareike Vennen
+translators:
+  translator_de_en: Lydia J. White
+desc: In many zoos, visitors once had the opportunity to have their photo taken
+  with lion cubs. When did this motif emerge, and why has it disappeared from
+  today's zoos?
+desc_de: In vielen Zoos konnte man sich mit einem Löwenbaby fotografieren
+  lassen. Wann kam dieses Motiv auf und warum ist es heute aus den Zoos
+  verschwunden?
+short_desc: Predators, zoo animals, or stuffed toys? The politics of animal pictures
+short_desc_de: Raubtier, Zootier, Kuscheltier? Politiken des Tierbildes
+cover_image: null
 colour_scheme: 14
+tao_type: story
+date_start: 1890-12-24T11:24:39.000Z
+date_end: 1994-12-24T10:34:00.000Z
+published: false
 ---
 
 :::EN:::
