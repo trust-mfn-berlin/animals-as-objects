@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Photos with Lion Cubs
 title_de: Bilder mit Löwenbabys
 created: 1640340586550
-updated: 1640342805802
+updated: 1640343122726
 id: 4U5dFDf18mKRPdRnzu35p
 author: Mareike Vennen
 translators:
@@ -111,6 +111,10 @@ During Germany's rebuilding, lion breeding programmes started up again at zoos l
 <figcaption>
 
 _This is what the zoo photographer's booth looked like at the West Berlin Zoo of the 1970s, where visitors could have their photo taken with lion cubs._ Guide to Berlin Zoological Garden, _1973._ 
+
+</figcaption>
+
+</figure>
  
 <figure>
 
@@ -118,7 +122,7 @@ _This is what the zoo photographer's booth looked like at the West Berlin Zoo of
 
 <figcaption>
 
- _Page from the_ Guide to Berlin Zoological Garden _from 1971, advertising the zoo photographer with a photo of a child with lion cub._ 
+_Page from the_ Guide to Berlin Zoological Garden _from 1971, advertising the zoo photographer with a photo of a child with lion cub._ 
  
 </figcaption>
 
