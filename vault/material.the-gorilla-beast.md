@@ -12,7 +12,8 @@ desc: An example of colonial iconography
 desc_de: "Zu einem Beispiel kolonialer Ikonografie "
 short_desc: An example of colonial iconography
 short_desc_de: "Zu einem Beispiel kolonialer Ikonografie "
-cover_image: null
+cover_image:
+  image: /images/lange-3.jpg
 colour_scheme: 11
 tao_type: material
 date_start: 1901-12-24T18:00:39.000Z
