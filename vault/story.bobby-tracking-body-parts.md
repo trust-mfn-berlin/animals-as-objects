@@ -2,7 +2,7 @@
 id: j4n4MgsQE2ad1vi8VKZFT
 title: Bobby Tracking Body Parts
 desc: Put a description of this note here...
-updated: 1640337164237
+updated: 1640337437281
 license: CC BY-SA
 title: '"Bobby". Tracking Body Parts'
 title_de: '"Bobby". Eine Fundgeschichte'
@@ -31,7 +31,7 @@ published: false
 
 <figure>
 
-![A black-and-white photo of a skinned gorilla torso from which the hands have been removed, lying on a table or a stretcher in an indoor space.](/images/bobby-totenmaske.jpg)
+![A black-and-white photo of a skinned gorilla torso from which the hands have been removed, lying on a table or a stretcher in an indoor space.](images/zm-b-iv-557-2-r.jpg)
 
 <figcaption>
 
