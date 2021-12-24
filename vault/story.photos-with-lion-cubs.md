@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Photos with Lion Cubs
 title_de: Bilder mit Löwenbabys
 created: 1640340586550
-updated: 1640343122726
+updated: 1640343447921
 id: 4U5dFDf18mKRPdRnzu35p
 author: Mareike Vennen
 translators:
@@ -26,18 +26,6 @@ published: false
 ---
 
 :::EN:::
-
-<figure>
-
-![A little boy sits smiling on a bench with a lion cub on his lap.](/images/Dieter-Herfurth-1939-mit-Loewenbaby.jpg) 
-
-<figcaption>
-
-_A little boy with a lion cub on the Berlin Zoo photographer's bench in 1939. (AZGB. All rights reserved.)_
- 
-</figcaption>
-
-</figure>
 
 <figure>
 
@@ -242,6 +230,10 @@ This was added to by the fact that, since the beginning of the 1980s, most zoos 
 
 The Zoo Guide _drew attention to the zoo photographer's booth in the 1970s with a picture of a lion cub._
  
+</figcaption>
+
+</figure>
+
 <figure>
 
 ![Advertisement for the zoo photographer in the 1992 guide to Berlin Zoo. There are three colour photographs: in the top left a picture of the booth with the bench, in the bottom left a lion cub in a tyre, and on the right a man standing with a young lion in his arms.](/images/mv/loewenbaby-wegweiser-1992-ausschnitt.jpg)
