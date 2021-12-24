@@ -1,17 +1,23 @@
 ---
-id: 4r0yES2CMXdwBI2l8fYbZ
-title: Recording Worlds
-desc: Put a description of this note here...
-updated: 1640363817553
-created: 1630051088275
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: theme
-cover_image: null
 license: CC BY-SA
-published: false
+title: Recording Worlds
+title_de: Welt(en) verzeichnen
+created: 1630051088275
+updated: 1640363817553
+id: 4r0yES2CMXdwBI2l8fYbZ
+author: Mareike Vennen, Filippo Bertoni
+translators:
+  translator_en_de: Jan-Peter Herrmann
+desc: Recording is a transformative process.
+desc_de: Naturkundliche Verzeichnungspraktiken und ihre transformative Kraft
+short_desc: recording is a transformative process
+short_desc_de: Naturkundliche Verzeichnungspraktiken und ihre transformative Kraft
+cover_image: null
 colour_scheme: 9
+tao_type: theme
+date_start: 1810-01-02T17:28:39.000Z
+date_end: ""
+published: false
 ---
 
 
