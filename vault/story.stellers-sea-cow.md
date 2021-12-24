@@ -1,17 +1,28 @@
 ---
-id: Q8UAdldubzw0uhkmmgER3
-title: Stellers Sea Cow
-desc: Put a description of this note here...
-updated: 1640334302481
-created: 1640333284998
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: story
-cover_image: null
 license: CC BY-SA
-published: false
+title: Steller’s Sea Cow
+title_de: Stellers Seekuh
+created: 1640333284998
+updated: 1640334302481
+id: Q8UAdldubzw0uhkmmgER3
+author: Mareike Vennen
+translators:
+  translator_de_en: Lydia J. White
+desc: Exterminated by hunters in the 18th century before becoming a coveted
+  collection item in the 19th century and declared an icon of the Anthropocene
+  in the 21st century
+desc_de: Im 18. Jahrhundert durch Jagd ausgerottet, im 19. Jahrhunderts zum
+  begehrtem Sammlungsobjekt avanciert, im 21. Jahrhundert zu einer Ikone des
+  Anthropozän erklärt.
+short_desc: Hunted, discarded, rediscovered
+short_desc_de: Gejagt, entsorgt und wieder ausgegraben
+cover_image:
+  image: /images/story-stellers-seacow-pallas.jpg
 colour_scheme: 14
+tao_type: story
+date_start: 1741-12-24T09:16:39.000Z
+date_end: ""
+published: false
 ---
 
 :::EN:::
