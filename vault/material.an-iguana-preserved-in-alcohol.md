@@ -12,7 +12,8 @@ desc: From the colony via the zoo into the collection
 desc_de: Von der Kolonie über den Zoo in die Sammlung
 short_desc: From the colony via the zoo into the collection
 short_desc_de: Von der Kolonie über den Zoo in die Sammlung
-cover_image: null
+cover_image:
+  image: /images/zool.mus-si-verwaltungsakten-agebuch-beyer-1844-11.jpg
 colour_scheme: 11
 tao_type: material
 date_start: 1844-01-01T15:46:39.000Z
