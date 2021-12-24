@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Haunting Cattle
 title_de: Spukendes Vieh
 created: 1640359539704
-updated: 1640363061910
+updated: 1640364071030
 id: AOZiyuOX6B0ntAdEoiiIi
 author: " Sophie-Marie Kaatsch"
 translators:
@@ -46,7 +46,7 @@ From abattoir to luxury neighbourhood? Sophie-Marie Kaatsch takes a walk through
 Other audio pieces tell the stories of [[material.where-the-rats-live]], [[material.cat-colonies]], [[material.berlin's-border-dogs]], and [[material.dead-animals]].
 
 
-[^1] You are listening to excerpts from Döblin, Alfred. _Berlin Alexanderplatz_ [1929]. Frankfurt am Main: Fischer Verlag, 2020: 151; Wolbt: "Der städtische Central-Viehhof in Berlin." _Illustrierte Zeitung_ no. 2003. 19.11.1881: 445. 
+[^1]: You are listening to excerpts from Döblin, Alfred. _Berlin Alexanderplatz_ [1929]. Frankfurt am Main: Fischer Verlag, 2020: 151; Wolbt: "Der städtische Central-Viehhof in Berlin." _Illustrierte Zeitung_ no. 2003. 19.11.1881: 445. 
 
 :::DE:::
 
