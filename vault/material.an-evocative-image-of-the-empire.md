@@ -3,7 +3,7 @@ license: CC BY-SA
 title: An "Atmospheric Image” of the Empire
 title_de: Ein „stimmungsvolles Bild“ des Kolonialreichs
 created: 1640456876442
-updated: 1640457968722
+updated: 1640458961630
 id: ZDxo1U9ptEVRJhmFpVKyC
 author: Catarina Madruga
 translators:
@@ -58,13 +58,13 @@ This strategy to combine a hunting exhibition with a colonial exhibition continu
 
 [^2]: "Raum 4. Eisengräber". In _Offizieller Katalog Der Deutsch-Kolonialen Jagdausstellung_. 2nd ed. Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 61.
 
-[^3]: original: "ein möglichst stimmungsvolles Bild". Rehbock, T. "Vorwort". In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2nd ed., 9–12. Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 11. 
+[^3]: German original: "ein möglichst stimmungsvolles Bild". Rehbock, T. "Vorwort". In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2nd ed., 9–12. Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 11. 
 
 [^4]: "Raum 2 b und c. Zoologisches Museum, Berlin". In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_. 2nd ed. Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 55.
 
-[^5]: original: "die Kenntnis der Tierwelt unserer Kolonien zu vertiefen" Rehbock, T. "Vorwort". In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2nd ed., Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 9–12, 11.
+[^5]: German original: "die Kenntnis der Tierwelt unserer Kolonien zu vertiefen" Rehbock, T. "Vorwort". In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2nd ed., Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 9–12, 11.
 
-[^6]: original: "um das Gesamtbild der Ausstellung möglichst vielseitig zu gestalten". Rehbock, T. "Vorwort". In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2nd ed.,Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 9–12, 11.
+[^6]: German original: "um das Gesamtbild der Ausstellung möglichst vielseitig zu gestalten". Rehbock, T. "Vorwort". In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2nd ed.,Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 9–12, 11.
 
 :::DE:::
 
