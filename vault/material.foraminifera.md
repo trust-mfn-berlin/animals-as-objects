@@ -7,7 +7,7 @@ short_desc_de: Mikroorganismen, die am häufigsten in den Ozeanen leben
 date_end: 2021-12-07T19:14:43.793Z
 published: false
 title: Foraminifera
-updated: 1639749702183
+updated: 1640475617788
 id: 83cc17bb-8a8e-4157-9ebc-f0990cf60076
 translators:
   translator_en_de: Jan-Peter Herrmann
@@ -42,7 +42,11 @@ This indifference was finally overcome in the 1920s, as a group of scientists in
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JLSa8cGJixQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<figcaption>
+
 _This video from the American Museum of Natural History introduces forams micropaleontology._ 
+
+</figcaption>
 
 [^1]: To learn more, visit the micropaleontological collections at the Museum für Naturkunde: https://www.museumfuernaturkunde.berlin/en/science/micropaleontology-collections. 
 
@@ -62,11 +66,17 @@ _Eine elektronenmikroskopische Aufnahme einer Foraminiferenart (Elphidium). (Han
 </figure>
 
 Ein wichtiger Bestandteil der mikropaläontologischen Sammlungen des Museums für Naturkunde Berlin[^1] sind Foraminiferen (in Fachkreisen auch als Forams abgekürzt), marine Einzeller. Ihr weicher, amöbenartiger Körper ist von einer äußeren Schale aus Kalziumkarbonat umhüllt, dem so genannten Test. Trotz oder gerade wegen ihrer geringen Größe spielen sie in der Ökologie unseres Planeten eine entscheidende Rolle. Als Heterotrophe ernähren sie sich in erster Linie von anderen mikroskopisch kleinen Organismen, die um sie herum treiben; die meisten Foraminiferen haben jedoch photosynthetische Endosymbionten – noch kleinere Organismen, die in ihren Körpern eingebettet sind und Licht in Energie umwandeln, die die Foraminiferen dann nutzen können. Einige wenige Arten sind auch als Kleptoplasten bekannt, d. h. sie können Chloroplasten von Algen stehlen. Wenn die Foraminiferen-Zelle stirbt, sinken ihre harten, kieselhaltigen Tests hinab und bedecken den Meeresboden mit einem kohlenstoffhaltigen Schlamm. **Dank ihrer Struktur und Zusammensetzung bleiben diese Überreste erhalten und versteinern wenn sie in Sedimenten und geologischen Schichten eingeschlossen werden.** Aufgrund dieses Prozesses finden sich die Mikrofossilien von Foraminiferen in verschiedenen geologischen Formationen und stellen eine wichtige und oft leicht zugängliche Quelle fossilen Materials dar. In der Tat werden Foraminiferen schon seit ihrer Entdeckung zur Untersuchung von [[mikropaläontologische Formationen|story.micropaleontological-formations]] verwendet. Von allen Mikrofossilien sind Foraminiferen am besten erforscht, was teilweise an ihrem Vorkommen in weitverbreiteten Gesteinen wie Kalkstein liegt; schon Herodot hatte sie in den Steinen bemerkt, die zum Bau der Pyramiden von Gizeh verwendet wurden.
+
 Zu Beginn des 19. Jahrhunderts hielten Naturforscher wie Alcide d'Orbigny sie für mikroskopisch kleine Kopffüßer (Weichtiere wie Tintenfische, Oktopusse und Nautiliden). Erst 1835 erkannte ein anderer französischer Naturforscher, Felix Dujardin, ihren protozoischen Charakter, aber die [[Anfänge der Mikropaläontologie|story.chaotic-origins-of-micropaleontology]] führten bis zum Ende des Jahrhunderts unter Wissenschaftler:innen zu einer gewissen Ratlosigkeit, da sie auf [[evolutionäre Sackgassen|story.micropaleontological-evolutionary-dead-ends]] zu stoßen schienen. Dies wirkte sich auch auf die Erforschung der Foraminiferen aus.
+
 Diese Gleichgültigkeit wurde schließlich in den 1920er Jahren überwunden, als eine Gruppe Wissenschaftler:innen die [[Industrielle Mikropaläontologie|story.industrial-micropaleontology]] ins Leben rief. Dank ihrer geringen Größe, ihrer Widerstandsfähigkeit, ihrer Häufigkeit und ihrer Vielfalt werden die Foraminiferen seither in großem Umfang für geologische und ozeanographische Untersuchungen genutzt: **Ihre beeindruckenden Überreste (die bis ins Kambrium vor 500 Millionen Jahren datiert werden können) machen sie zu wichtigen diagnostischen Fossilien.** Als solche werden sie in der [[Biostratigraphie|material.biostratigraphy]] zur Datierung geologischer Proben verwendet. **Einige Arten können wichtige Umweltdaten liefern und werden in den Planetenwissenschaften als Proxy-Indikator und Marker vergangener Klimabedingungen verwendet.** Außerdem können sie dank ihrer geringen Größe leicht aus dem Schnitt einer geologischen Bohrung entnommen und analysiert werden, was ihre Verwendung einfach, kostengünstig und effizient macht. Aus diesen Gründen sind sie nicht nur in der Paläoklimatologie und der Paläozeanografie von zentraler Bedeutung, sondern auch in der Angewandten Geologie, beispielsweise bei der Prospektion [[fossiler Brennstoffe|material.fossil-fuels]], und in der Rohstoffindustrie im Allgemeinen.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JLSa8cGJixQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<figcaption>
+
 _Dieses Video aus dem American Museum of Natural History gibt eine Einführung in die Mikropaläontologie von Foraminiferen._ 
+
+</figcaption>
 
 [^1]: Zu den mikropaläontologischen Sammlungen des Museums für Naturkunde Berlin: https://www.museumfuernaturkunde.berlin/en/science/micropaleontology-collections. 
