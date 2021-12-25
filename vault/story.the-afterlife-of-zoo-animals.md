@@ -7,7 +7,7 @@ short_desc_de: Auf den Spuren eines Elefanten
 date_end: 1947-12-31T11:00:00.000Z
 published: false
 title: The Afterlife of Zoo Animals
-updated: 1640460138469
+updated: 1640461122637
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 translators:
   translator_de_en: Carla Welch
@@ -246,7 +246,7 @@ Wie groß die Not in der Berliner Bevölkerung in den ersten Nachkriegsjahren wa
 
 ## Papierspuren eines Elefanten
 
-Die Geschichte von "Siam" ist eine Geschichte unterschiedlicher Verwertungen. Zu unterschiedlichen Zeiten sind Zootiere in unterschiedliche Verwertungskreisläufe eingebunden. [[story.knut]], der wohl berühmteste Eisbär des Berliner Zoos, der 2006 im Zoo geboren wurde und seit seinem Tod 2011 als Dermoplastik im Berliner Naturkundemuseum zu sehen ist, war (und ist) Schauattraktion, Klimabotschafter und lizensierte Marke. Der Elefant war in den 1930er Jahren vom Wildtier zu "Siam", der Zirkus- und Zooattraktion geworden, dann womöglich zum Teil einer wissenschaftlichen Sammlung und, laut Zeitungsberichten, zum Dekorationsobjekt im Stil kolonialer Trophäen [[material.an-ecovative-image-of-the-colonial]] und schließlich zum Fleischlieferanten für Tier und Mensch. Die Geschichte seines Lebens und Nachlebens, rekonstruiert aus Papierspuren, ist eine zugleich lokale und globale Geschichte; ein Kapitel Berliner Nachkriegsgeschichte und Teil einer globalen Geschichte des Kolonialismus.
+Die Geschichte von "Siam" ist eine Geschichte unterschiedlicher Verwertungen. Zu unterschiedlichen Zeiten sind Zootiere in unterschiedliche Verwertungskreisläufe eingebunden. [[story.knut]], der wohl berühmteste Eisbär des Berliner Zoos, der 2006 im Zoo geboren wurde und seit seinem Tod 2011 als Dermoplastik im Berliner Naturkundemuseum zu sehen ist, war (und ist) Schauattraktion, Klimabotschafter und lizensierte Marke. Der Elefant war in den 1930er Jahren vom Wildtier zu "Siam", der Zirkus- und Zooattraktion geworden, dann womöglich zum Teil einer wissenschaftlichen Sammlung und, laut Zeitungsberichten, zum Dekorationsobjekt im Stil kolonialer Trophäen [[material.an-evocative-image-of-the-empire]] und schließlich zum Fleischlieferanten für Tier und Mensch. Die Geschichte seines Lebens und Nachlebens, rekonstruiert aus Papierspuren, ist eine zugleich lokale und globale Geschichte; ein Kapitel Berliner Nachkriegsgeschichte und Teil einer globalen Geschichte des Kolonialismus.
 
 Gleichzeitig macht das Nachleben von "Siam" die Lücken in der Überlieferung sichtbar [[story.untraceable]], die buchstäblichen Leerstellen der materiellen Kultur. Gerade sie stoßen viele Fragen an – darüber, wann Zootiere gefüttert oder gegessen werden; ob sie nach ihrem Tod entsorgt, betrauert oder weiterverwertet werden und wie sie zu wissenschaftlichen Objekten, zu Ausstellungsstücken, zu Trophäen und Fleischlieferanten werden [[story.from-pests-to-displays]]. Welche Formen der Arbeit sind damit verbunden, welche Formen der Fürsorge und welche Verwertungslogiken? Das führt mich zurück zu der Frage, welche Spuren ein Tier hinterlässt, auf welche Weise es möglich oder unmöglich ist, Geschichte(n) anhand von Papierspuren zu rekonstruieren und was das für meine Forschung, ihre Quellen und die Grenzen historischer Rekonstruktion bedeutet.
 
