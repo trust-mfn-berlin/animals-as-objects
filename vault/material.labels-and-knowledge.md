@@ -7,7 +7,7 @@ short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 date_end: 1935-01-01T10:48:28.706Z
 published: false
 title: Labels and Knowledge
-updated: 1640473304193
+updated: 1640473394813
 id: K2rQQdv1K7aDMUi5gDHcN
 translators:
   translator_de_en: Carla Welch
@@ -122,7 +122,7 @@ These labels thus allow us to read not just the information that was sent to the
 
 <figcaption>
 
-Labels as directions for use: these instructions show which body parts of an animal became collection items after its death. (MfN, HBSB, S004-02-05 Nr. 96, Bl. 125 recto. All rights reserved.)_
+_Labels as directions for use: these instructions show which body parts of an animal became collection items after its death. (MfN, HBSB, S004-02-05 Nr. 96, Bl. 125 recto. All rights reserved.)_
 
 </figcaption>
 
