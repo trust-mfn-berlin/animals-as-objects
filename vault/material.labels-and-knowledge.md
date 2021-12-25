@@ -7,7 +7,7 @@ short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 date_end: 1935-01-01T10:48:28.706Z
 published: false
 title: Labels and Knowledge
-updated: 1640473551023
+updated: 1640473707771
 id: K2rQQdv1K7aDMUi5gDHcN
 translators:
   translator_de_en: Carla Welch
@@ -114,7 +114,7 @@ _A knowledge thing with gaps: Label with missing entries and general information
 
 </figure>
 
-These labels thus allow us to read not just the information that was sent to the museum but also the gaps in knowledge.[3] These gaps point not least to the differences between zoos and museums – the data collected by zoos was not necessarily as extensive or as precise as the data gathered by natural history collections (see also [[Keeping Records of Animals|story.keeping-record-of-animals]]). However, labels often provided additional instructions (for use).
+These labels thus allow us to read not just the information that was sent to the museum but also the gaps in knowledge.[^3] These gaps point not least to the differences between zoos and museums – the data collected by zoos was not necessarily as extensive or as precise as the data gathered by natural history collections (see also [[Keeping Records of Animals|story.keeping-record-of-animals]]). However, labels often provided additional instructions (for use).
  
 <figure>
 
