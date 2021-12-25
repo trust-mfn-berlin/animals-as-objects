@@ -7,7 +7,7 @@ short_desc_de: '"Knuts" ökonomische und emotionale Bedeutung in Zeiten des Klim
 date_end: 2011-03-18T23:00:00.000Z
 published: false
 title: Knut
-updated: 1639741932710
+updated: 1640468883829
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 translators:
   translator_de_en: Lydia J. White
@@ -42,7 +42,7 @@ The story of "Knut" reveals a number of processes that have the potential to mak
  
 <figure>
  
-![A polar bear cub sits in a large car tyre, which has been covered with a green blanket. His front paws are lying on the right-hand side of the tyre; his head is turned towards the camera.](images/cmw/Knut_March07_Griesbach.jpg)
+![A polar bear cub sits in a large car tyre, which has been covered with a green blanket. His front paws are lying on the right-hand side of the tyre; his head is turned towards the camera.](/images/cmw/Knut_March07_Griesbach.jpg)
  
 <figcaption>
  
@@ -60,7 +60,7 @@ By the end of his first year of life, Berlin's polar bear cub had become an inte
  
 <figure>
  
-![A middle-aged bearded man is bent over a polar bear cub, which is sitting on a tree trunk. The polar bear's paws are holding the man's hands; one of the man's knuckles is playfully stuck in the polar bear's mouth .](images/cmw/Knut_Dorflein_March07_Broseke.jpg)
+![A middle-aged bearded man is bent over a polar bear cub, which is sitting on a tree trunk. The polar bear's paws are holding the man's hands; one of the man's knuckles is playfully stuck in the polar bear's mouth .](/images/cmw/Knut_Dorflein_March07_Broseke.jpg)
  
 <figcaption>
  
@@ -74,7 +74,7 @@ But the story of the birth and the subsequent reporting in Berlin's local media 
  
 <figure>
  
-![A woman with a gorilla in her arms. They look at each other, their faces close together.](images/cmw/Leineweber_Knorke_Rosemarie.jpg)
+![A woman with a gorilla in her arms. They look at each other, their faces close together.](/images/cmw/Leineweber_Knorke_Rosemarie.jpg)
  
 <figcaption>
  
@@ -104,7 +104,7 @@ Riechelmann emphasised the way that humans exploited animals and said that this 
  
 <figure>
  
-![A bearded man on the left wearing the uniform and gumboots of a zookeeper stands on a lawn with a polar bear at his feet. At the centre, wearing a beige jacket, is a man with a microphone, to the right of him a man in dark clothing. The two people standing at the outside are turned towards the polar bear; the speaker is looking ahead.](images/cmw/Dorflein_Gabriel_Blaszkiewitz_230307_Broseke.jpg)
+![A bearded man on the left wearing the uniform and gumboots of a zookeeper stands on a lawn with a polar bear at his feet. At the centre, wearing a beige jacket, is a man with a microphone, to the right of him a man in dark clothing. The two people standing at the outside are turned towards the polar bear; the speaker is looking ahead.](/images/cmw/Dorflein_Gabriel_Blaszkiewitz_230307_Broseke.jpg)
  
 <figcaption>
  
@@ -120,7 +120,7 @@ However, Berlin's polar bear was only able to achieve world fame due to a stroke
  
 <figure>
  
-![A colourful child's drawing: a polar bear labelled "Knut" stands beside a child with long blonde hair. Three large, round hearts float above them.](images/cmw/Knut_Agatha_CooperStationNY.jpg)
+![A colourful child's drawing: a polar bear labelled "Knut" stands beside a child with long blonde hair. Three large, round hearts float above them.](/images/cmw/Knut_Agatha_CooperStationNY.jpg)
  
 <figcaption>
  
@@ -138,7 +138,7 @@ In spring 2008, there was even a film released in cinemas about the young polar 
  
 <figure>
  
-![Cover of Vanity Fair dated 29 March 2007: Me, Knut – A Global Star from Germany – Vanity Fair's exclusive photos. Polar bear special – the white giant and climate change.](images/cmw/Knut.JPG)
+![Cover of Vanity Fair dated 29 March 2007: Me, Knut – A Global Star from Germany – Vanity Fair's exclusive photos. Polar bear special – the white giant and climate change.](/images/cmw/Knut.JPG)
  
 <figcaption>
  
@@ -160,7 +160,7 @@ On 19 March 2011, "Knut" fell into the moat of the polar bear enclosure and drow
  
 <figure>
  
-![Flowers and images in front of the glass of the polar bear enclosure. A polar bear swims in the background.](images/cmw/Gendenkminute_Knut_230411.jpg)
+![Flowers and images in front of the glass of the polar bear enclosure. A polar bear swims in the background.](/images/cmw/Gendenkminute_Knut_230411.jpg)
  
 <figcaption>
  
@@ -183,7 +183,7 @@ For a number of "Knut" fans, however, this issue was limited to the housing cond
  
 <figure>
  
-![Hand-written telefax: "I would have loved to stay alive! You let me die! Yours, Knut". Above it, a photo of a teletext: "Zoo: Knut suffered from encephalitis. The polar bear Knut, who died suddenly on 19 March, was suffering from a viral infection (…) no deformities due to genetic defects (…) no indications of excessive stress"](images/cmw/Brief_Knut_S_19_4.jpg)
+![Hand-written telefax: "I would have loved to stay alive! You let me die! Yours, Knut". Above it, a photo of a teletext: "Zoo: Knut suffered from encephalitis. The polar bear Knut, who died suddenly on 19 March, was suffering from a viral infection (…) no deformities due to genetic defects (…) no indications of excessive stress"](/images/cmw/Brief_Knut_S_19_4.jpg)
  
 <figcaption>
  
@@ -197,7 +197,7 @@ In 2012, the sculpture "Knut the Dreamer" was erected in the zoo, based on a des
  
 <figure>
  
-![Bronze sculpture of a polar bear lying down](images/cmw/Knut_der_Traeumer.jpg)
+![Bronze sculpture of a polar bear lying down](/images/cmw/Knut_der_Traeumer.jpg)
  
 <figcaption>
  
@@ -221,7 +221,7 @@ Or:
  
 <figure>
  
-![Image of the protest poster described above](images/cmw/Demo_Knut_020411_Broseke_2.jpg)
+![Image of the protest poster described above](/images/cmw/Demo_Knut_020411_Broseke_2.jpg)
  
 <figcaption>
  
@@ -235,7 +235,7 @@ Knut was ultimately mounted, and his taxidermy can be still be viewed at the Mus
  
 <figure>
  
-![An older man in a white lab coat works on some of the fur on the head of a polar bear taxidermy using an instrument while his other hand rests gently on its nose. Hanging on the wall in the background are photos and the death mask of Bobby the Gorilla.](images/cmw/130125_Knut_11.jpg)
+![An older man in a white lab coat works on some of the fur on the head of a polar bear taxidermy using an instrument while his other hand rests gently on its nose. Hanging on the wall in the background are photos and the death mask of Bobby the Gorilla.](/images/cmw/130125_Knut_11.jpg)
  
 <figcaption>
  
@@ -247,7 +247,7 @@ _"Knut" and the taxidermist Detlev Matzke in the taxidermy workshop of Berlin's 
  
 <figure>
  
-![Three adults and three children stand before a large glass box, inside which the taxidermy of Knut lies one some rocks.](images/cmw/130220_Knut_Foyer_03.jpg)
+![Three adults and three children stand before a large glass box, inside which the taxidermy of Knut lies one some rocks.](/images/cmw/130220_Knut_Foyer_03.jpg)
  
 <figcaption>
  
@@ -263,7 +263,7 @@ In 2020, the topic of "Knut" and Thomas Dörflein still had the potential to cre
  
 <figure>
  
-![Screenshot of a Facebook post. Text: In memory of Thomas Dörflein, who died twelve years ago today! Image: A black and white photo of a bearded man in gumboots cuddling Knut, who is lying on his back. Image caption: 13 October 1963 - 22 September 2008. 101 reactions, 18 comments, 17 shares.](images/cmw/Dorfleinpost_22920.PNG)
+![Screenshot of a Facebook post. Text: In memory of Thomas Dörflein, who died twelve years ago today! Image: A black and white photo of a bearded man in gumboots cuddling Knut, who is lying on his back. Image caption: 13 October 1963 - 22 September 2008. 101 reactions, 18 comments, 17 shares.](/images/cmw/Dorfleinpost_22920.PNG)
  
 <figcaption>
  
@@ -375,7 +375,7 @@ An der Geschichte "Knut" lassen sich eine Anzahl Prozesse zeigen, die ein Tierin
  
 <figure>
  
-![Eisbärjunges sitzt in einem großen Autoreifen, der mit einer grünen Decke abgedeckt wurde. Vorderpfoten liegen rechts auf dem Reifen auf, Kopf ist zur Kamera gewandt.](images/cmw/Knut_March07_Griesbach.jpg)
+![Eisbärjunges sitzt in einem großen Autoreifen, der mit einer grünen Decke abgedeckt wurde. Vorderpfoten liegen rechts auf dem Reifen auf, Kopf ist zur Kamera gewandt.](/images/cmw/Knut_March07_Griesbach.jpg)
  
 <figcaption>
  
@@ -393,7 +393,7 @@ Am Ende seines ersten Lebensjahres war das Eisbärenjunge in Berlin ein internat
  
 <figure>
  
-![Bärtige Person mittleren Alters beugt sich zu Eisbärjungem, das auf einem Baumstamm sitzt. Die Pfoten des Eisbären halten die Hand des Menschen, von der ein Fingerknöchel spielerisch im Maul des Eisbären steckt.](images/cmw/Knut_Dorflein_March07_Broseke.jpg)
+![Bärtige Person mittleren Alters beugt sich zu Eisbärjungem, das auf einem Baumstamm sitzt. Die Pfoten des Eisbären halten die Hand des Menschen, von der ein Fingerknöchel spielerisch im Maul des Eisbären steckt.](/images/cmw/Knut_Dorflein_March07_Broseke.jpg)
  
 <figcaption>
  
@@ -407,7 +407,7 @@ Aber die Geschichte der Geburt und die anschließende Berichterstattung in Berli
  
 <figure>
  
-![Frau mit Gorillajungem im Arm. Sie blicken sich an, ihre Gesichter sind nah beinander.](images/cmw/Leineweber_Knorke_Rosemarie.jpg)
+![Frau mit Gorillajungem im Arm. Sie blicken sich an, ihre Gesichter sind nah beinander.](/images/cmw/Leineweber_Knorke_Rosemarie.jpg)
  
 <figcaption>
  
@@ -437,7 +437,7 @@ Riechelmann betonte die menschliche Ausnutzung von Tieren, die auch im Falle "Kn
  
 <figure>
  
-![Auf Rasen steht links eine bärtige Person in der Arbeitskleidung eines Tierpflegers und Gummistiefeln, mit einem Eisbärjungtier neben den Füßen. Mittig steht in beiger Jacke ein Mann mit Mikrofon, rechts ein dunkel gekleideter Mann. Die Blicke der beiden außenstehenden sind nach unten auf den Eisbären gerichtet, der Sprecher schaut nach vorn.](images/cmw/Dorflein_Gabriel_Blaszkiewitz_230307_Broseke.jpg)
+![Auf Rasen steht links eine bärtige Person in der Arbeitskleidung eines Tierpflegers und Gummistiefeln, mit einem Eisbärjungtier neben den Füßen. Mittig steht in beiger Jacke ein Mann mit Mikrofon, rechts ein dunkel gekleideter Mann. Die Blicke der beiden außenstehenden sind nach unten auf den Eisbären gerichtet, der Sprecher schaut nach vorn.](/images/cmw/Dorflein_Gabriel_Blaszkiewitz_230307_Broseke.jpg)
  
 <figcaption>
  
@@ -453,7 +453,7 @@ Weltweite Bedeutung konnte der Berliner Eisbär aber erst gewinnen, weil zudem n
  
 <figure>
  
-![Bunte Kinderzeichnung: Ein Eisbär mit dem Label "Knut" steht neben einem Kind mit blonden, langen Haaren. Darüber schweben drei große, rundliche Herzen.](images/cmw/Knut_Agatha_CooperStationNY.jpg)
+![Bunte Kinderzeichnung: Ein Eisbär mit dem Label "Knut" steht neben einem Kind mit blonden, langen Haaren. Darüber schweben drei große, rundliche Herzen.](/images/cmw/Knut_Agatha_CooperStationNY.jpg)
  
 <figcaption>
  
@@ -471,7 +471,7 @@ Im Frühjahr 2008 kam sogar ein Film über den jungen Eisbären und andere Tiere
  
 <figure>
  
-![Titelseite der Vanity Fair vom 29. März 2007: Ich, Knut – Ein Weltstar auf Deutschland – Die exklusiven Vanity Fair-Fotos. Eisbären-Special – die weißen Riesen und der Klimawandel.](images/cmw/Knut.JPG)
+![Titelseite der Vanity Fair vom 29. März 2007: Ich, Knut – Ein Weltstar auf Deutschland – Die exklusiven Vanity Fair-Fotos. Eisbären-Special – die weißen Riesen und der Klimawandel.](/images/cmw/Knut.JPG)
  
 <figcaption>
  
@@ -493,7 +493,7 @@ Am 19. März 2011 fiel "Knut" in den Wassergraben des Eisbärengeheges und ertra
  
 <figure>
  
-![Blumen und Bilder vor der Glasscheibe des Eisbärengeheges. Im Hintergrund schwimmt ein Eisbär.](images/cmw/Gendenkminute_Knut_230411.jpg)
+![Blumen und Bilder vor der Glasscheibe des Eisbärengeheges. Im Hintergrund schwimmt ein Eisbär.](/images/cmw/Gendenkminute_Knut_230411.jpg)
  
 <figcaption>
  
@@ -516,7 +516,7 @@ Bei einigen "Knut"-Fans wurde diese Frage allerdings nur auf die Haltungsbedingu
  
 <figure>
  
-![Handschriftliches Telefax: "Ich hätte so gerne noch gelebt! Sie haben mich sterben lassen! Euer Knut". Darüber steht abfotografierter Teletext: "Zoo: Knut litt an Gehirnentzündung. Der am 19. März überraschend verstorbene Eisbär Knut litt an einer Virusinfektion (…) keine Missbildung auf Grundlage von Gendefekten (…) keine Hinweise auf übermäßigen Stress"](images/cmw/Brief_Knut_S_19_4.jpg)
+![Handschriftliches Telefax: "Ich hätte so gerne noch gelebt! Sie haben mich sterben lassen! Euer Knut". Darüber steht abfotografierter Teletext: "Zoo: Knut litt an Gehirnentzündung. Der am 19. März überraschend verstorbene Eisbär Knut litt an einer Virusinfektion (…) keine Missbildung auf Grundlage von Gendefekten (…) keine Hinweise auf übermäßigen Stress"](/images/cmw/Brief_Knut_S_19_4.jpg)
  
 <figcaption>
  
@@ -530,7 +530,7 @@ Im Zoo wurde 2012 die Skulptur "Knut der Träumer" nach einem Entwurf des Künst
  
 <figure>
  
-![Bronzeskulptur eines liegenden Eisbären](images/cmw/Knut_der_Traeumer.jpg)
+![Bronzeskulptur eines liegenden Eisbären](/images/cmw/Knut_der_Traeumer.jpg)
  
 <figcaption>
  
@@ -554,7 +554,7 @@ Oder:
  
 <figure>
  
-![Bild eines oben beschriebenen Protestplakats](images/cmw/Demo_Knut_020411_Broseke_2.jpg)
+![Bild eines oben beschriebenen Protestplakats](/images/cmw/Demo_Knut_020411_Broseke_2.jpg)
  
 <figcaption>
  
@@ -568,7 +568,7 @@ Letztlich wurde Knut präpariert und sein Präparat ist heute im Museum für Nat
  
 <figure>
  
-![Älterer Mensch in weißem Kittel bearbeitet das Fell am Kopf des Eisbärenpräparats mit einem Instrument, während die andere Hand leicht auf dessen Schnauze ruht. Im Hintergrund an der Wand hängen Fotos und die Totenmaske des Gorillas Bobby.](images/cmw/130125_Knut_11.jpg)
+![Älterer Mensch in weißem Kittel bearbeitet das Fell am Kopf des Eisbärenpräparats mit einem Instrument, während die andere Hand leicht auf dessen Schnauze ruht. Im Hintergrund an der Wand hängen Fotos und die Totenmaske des Gorillas Bobby.](/images/cmw/130125_Knut_11.jpg)
  
 <figcaption>
  
@@ -580,7 +580,7 @@ _"Knut" und der Präparator Detlev Matzke in der Prapärationswerkstatt des Berl
  
 <figure>
  
-![Drei Erwachsene und drei Kinder stehen vor einem großem Glaskasten, in dem der präparierte Knut erhöht an Steine gelehnt sitzt.](images/cmw/130220_Knut_Foyer_03.jpg)
+![Drei Erwachsene und drei Kinder stehen vor einem großem Glaskasten, in dem der präparierte Knut erhöht an Steine gelehnt sitzt.](/images/cmw/130220_Knut_Foyer_03.jpg)
  
 <figcaption>
  
@@ -596,7 +596,7 @@ Auch 2020 war das Thema "Knut" und Thomas Dörflein noch geeignet, Emotionen aus
  
 <figure>
  
-![Screenshot eines Facebook-Posts. Text: In Erinnerung an Thomas Dörflein, der heute vor 12 Jahren verstarb! Bild: Schwarz-weiß Foto von bärtigem Mensch in Gummistiefeln, der mit dem auf dem Rücken liegenden Knut kuschelt. Bildaufschrift: 13. Oktober 1963 - 22. September 2008. 101 Reaktionen, 18 Kommentare, 17 Mal geteilt.](images/cmw/Dorfleinpost_22920.PNG)
+![Screenshot eines Facebook-Posts. Text: In Erinnerung an Thomas Dörflein, der heute vor 12 Jahren verstarb! Bild: Schwarz-weiß Foto von bärtigem Mensch in Gummistiefeln, der mit dem auf dem Rücken liegenden Knut kuschelt. Bildaufschrift: 13. Oktober 1963 - 22. September 2008. 101 Reaktionen, 18 Kommentare, 17 Mal geteilt.](/images/cmw/Dorfleinpost_22920.PNG)
  
 <figcaption>
  
