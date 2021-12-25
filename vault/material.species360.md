@@ -7,7 +7,7 @@ short_desc_de: Software zur Koordination von Zootierhaltungen
 date_end: 2021-07-06T11:14:29.327Z
 published: false
 title: Species360
-updated: 1639749805908
+updated: 1640459792282
 id: 690683a5-6845-4c80-bb3b-5771881bdca6
 translators:
   translator_de_en: Carla Welch
@@ -28,7 +28,7 @@ date_start: 1973-12-31T23:00:00.000Z
 
 <figure>
 
-![Species360 logo with stylized globe in the zero. Text below: Global information serving conservation.](images/cover-species-360-logo.jpg)
+![Species360 logo with stylized globe in the zero. Text below: Global information serving conservation.](/images/cover-species-360-logo.jpg)
 
 <figcaption>
 
@@ -38,7 +38,7 @@ _Species360 consolidates the functions of ZIMS, the web-based Zoological Informa
 
 </figure>
 
-Thousands of animals around the world live in zoos that describe themselves as operating and being managed on a scientific basis. These zoos usually belong to one or more national and international zoo associations. Berlin’s zoos, for instance, are members of the Association of German Zoos (VdZ) and the European Association of Zoos and Aquaria (EAZA). There are also regional associations of zoos in Africa; North, Central, and South America; East and Southeast Asia; as well as the national zoo associations represented within them. These are brought together under the umbrella organization of the World Association of Zoos and Aquariums (WAZA). **All of these zoos can cooperate within jointly planned conservation breeding programs, and also exchange animals among themselves.** For more on this, see [[theme.how-do-animals-get-to-the-zoo]].
+Thousands of animals around the world live in zoos that describe themselves as operating and being managed on a scientific basis. These zoos usually belong to one or more national and international zoo associations. Berlin’s zoos, for instance, are members of the Association of German Zoos (VdZ) and the European Association of Zoos and Aquaria (EAZA). There are also regional associations of zoos in Africa; North, Central, and South America; East and Southeast Asia; as well as the national zoo associations represented within them. These are brought together under the umbrella organization of the World Association of Zoos and Aquariums (WAZA). **All of these zoos can cooperate within jointly planned conservation breeding programs, and also exchange animals among themselves.** For more on this, see [[theme.how-do-animals-end-up-in-the-zoo]].
 
 To be able to do this, zoos require large quantities of data concerning an animal's origins and its life in captivity. What are the animal's antecedents? How old is the animal, and what is the state of its health? Curators and breeding coordinators use this information to decide which animals are allowed to mate with which, and which fit into breeding programs. **Their aim is to maintain a genetically diverse zoo population, and to avoid inbreeding and hereditary diseases.** Nowadays, most zoos use software for this purpose. The beginnings of such breeding coordination were more modest, however.
 
@@ -52,7 +52,7 @@ The web-based Zoological Information Management System (ZIMS) has existed since 
 
 <figure>
 
-![Species360 Logo mit stilisiertem Globus in der Null, darunter Claim: Global information serving conservation.](images/cover-species-360-logo.jpg)
+![Species360 Logo mit stilisiertem Globus in der Null, darunter Claim: Global information serving conservation.](/images/cover-species-360-logo.jpg)
 
 <figcaption>
 
@@ -62,7 +62,7 @@ _Species360 bündelt die Funktionen von ZIMS, dem web-basierten Zoological Infor
 
 </figure>
 
-Tausende von Tieren leben weltweit in Zoos, die sich selbst als wissenschaftlich geleitet und arbeitend bezeichnen. Diese sind in der Regel Mitglied in einem oder in mehreren der nationalen und überregionalen Zooverbänden wie, im Fall der Berliner Zoos, dem Verband deutscher Zoos (VdZ) und der European Association of Zoos and Aquaria (EAZA). Hinzu kommen regionale Verbände der Zoos Afrikas, Nord-, Mittel und Südamerikas, Ost-Asiens und Südostasiens und die in ihnen vertretenen nationalen Zooverbände. Die Dachorganisation bildet die World Association of Zoos and Aquariums (WAZA). **Allen diesen Zoos steht die Kooperation in den gemeinsam geplanten Erhaltungszuchtprogrammen offen und darüber hinaus tauschen sie Tiere untereinander aus.** Mehr dazu in [[theme.how-do-animals-get-to-the-zoo]].
+Tausende von Tieren leben weltweit in Zoos, die sich selbst als wissenschaftlich geleitet und arbeitend bezeichnen. Diese sind in der Regel Mitglied in einem oder in mehreren der nationalen und überregionalen Zooverbänden wie, im Fall der Berliner Zoos, dem Verband deutscher Zoos (VdZ) und der European Association of Zoos and Aquaria (EAZA). Hinzu kommen regionale Verbände der Zoos Afrikas, Nord-, Mittel und Südamerikas, Ost-Asiens und Südostasiens und die in ihnen vertretenen nationalen Zooverbände. Die Dachorganisation bildet die World Association of Zoos and Aquariums (WAZA). **Allen diesen Zoos steht die Kooperation in den gemeinsam geplanten Erhaltungszuchtprogrammen offen und darüber hinaus tauschen sie Tiere untereinander aus.** Mehr dazu in [[theme.how-do-animals-end-up-in-the-zoo]].
 
 Dafür benötigen sie große Mengen an Daten, die die Herkunft eines Tieres und sein Zooleben betreffen. Von welchen Tieren stammt es ab? Wie sind sein Alter und sein Gesundheitszustand? Auf der Basis dieser Informationen entscheiden Kurator:innen und die Zuchtkoordinator:innen, welche Tiere sich mit welchen vermehren dürfen oder in ein Zuchtprogramm passen. **Das Ziel ist die Erhaltung einer genetisch diversen Zoopopulation und die Vermeidung von Inzucht sowie vererblichen Krankheiten.** Heute wird dazu von den meisten Zoos eine Software verwendet. Die Anfänge waren aber bescheidener.
 
