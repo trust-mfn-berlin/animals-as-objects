@@ -7,7 +7,7 @@ short_desc_de: Auf den Spuren eines Elefanten
 date_end: 1947-12-31T11:00:00.000Z
 published: false
 title: The Afterlife of Zoo Animals
-updated: 1640461122637
+updated: 1640467425678
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 translators:
   translator_de_en: Carla Welch
@@ -116,7 +116,7 @@ Just how great the need was among the people of Berlin in the first postwar year
 
 ## An elephant’s paper trail
 
-"Siam’s" story tells of various forms of (re)use. Zoo animals are part of different cycles of (re)use at different times. [[story.knut]], probably Berlin Zoo's most famous polar bear, who was born in the zoo in 2006 and has been on display in the Berlin Museum of Natural History since his death in 2011, has been a zoo attraction, a climate ambassador, and a licensed brand. The elephant had gone from being a wild animal to "Siam" the circus and zoo attraction in the 1930s. He may then very well have gone on to be part of a scientific research collection, as well as — if the newspaper report is to be believed — a decorative object in the style of a colonial trophy [[material.an-ecovative-image-of-the-colonial]], and finally a source of meat for animal and human consumption. The story of "Siam’s" life and afterlife, reconstructed from his paper trail, is a story that is at once local and global; it is a chapter of Berlin's postwar history, and part of a global history of colonialism. 
+"Siam’s" story tells of various forms of (re)use. Zoo animals are part of different cycles of (re)use at different times. [[story.knut]], probably Berlin Zoo's most famous polar bear, who was born in the zoo in 2006 and has been on display in the Berlin Museum of Natural History since his death in 2011, has been a zoo attraction, a climate ambassador, and a licensed brand. The elephant had gone from being a wild animal to "Siam" the circus and zoo attraction in the 1930s. He may then very well have gone on to be part of a scientific research collection, as well as — if the newspaper report is to be believed — a decorative object in the style of a colonial trophy [[material.an-evocative-image-of-the-empire]], and finally a source of meat for animal and human consumption. The story of "Siam’s" life and afterlife, reconstructed from his paper trail, is a story that is at once local and global; it is a chapter of Berlin's postwar history, and part of a global history of colonialism. 
 
 At the same time, the afterlife of "Siam" reveals the gaps in the records [[story.untraceable]], literally empty spaces in material culture. These empty spaces, in particular, raise many questions — about when zoo animals are given as feed or eaten; whether they are disposed of, mourned, or recycled after death, and how they become scientific objects, exhibits, trophies, or a source of meat [[story.from-pests-to-displays]]. What forms of labor are involved, what forms of care, and what rationale for and approaches to (re)use? This leads me back to the question of the traces an animal leaves behind, the ways in which it is possible or impossible to reconstruct (hi)stories on the basis of its paper trail, and what this means for my research, its sources, and the limits of historical reconstruction.
 
