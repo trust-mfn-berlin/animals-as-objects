@@ -1,17 +1,24 @@
 ---
-id: VzxTWqgWM3FzLdS5Z2DUO
-title: Purchased from a Caravan
-desc: Put a description of this note here...
-updated: 1640457885578
-created: 1640456449013
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
-published: false
+title: Purchased from a Caravan
+title_de: Von einer Karawane gekauft
+created: 1640456449013
+updated: 1640457885578
+id: VzxTWqgWM3FzLdS5Z2DUO
+author: Catarina Madruga
+translators:
+  translator_en_de: Jan-Peter Herrmann
+desc: Animal skulls tell a story
+desc_de: Geschichten, die uns Tierschädel erzählen
+short_desc: Animal skulls tell a story
+short_desc_de: Geschichten, die uns Tierschädel erzählen
+cover_image:
+  image: /images/purchased-from-a-caravan-1.jpg
 colour_scheme: 11
+tao_type: material
+date_start: 1938-01-01T19:53:00.000Z
+date_end: 1938-12-25T19:53:00.000Z
+published: false
 ---
 
 :::EN:::
