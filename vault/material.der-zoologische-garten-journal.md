@@ -7,7 +7,7 @@ short_desc_de: Wissenschaftlicher Austausch zwischen Zoos
 date_end: 2021-07-06T11:19:57.448Z
 published: false
 title: Der Zoologische Garten (journal)
-updated: 1639749682433
+updated: 1640462439444
 id: cdaa8a05-6456-4b87-a663-c755790440d3
 translators:
   translator_de_en: Carla Welch
@@ -29,11 +29,11 @@ date_start: 1858-12-31T23:06:32.000Z
 
 <div class="series">
 
-![Cover page of _Der Zoologische Garten_ with photograph of a harpy](images/cmw/ZG_1933.jpg)
+![Cover page of _Der Zoologische Garten_ with photograph of a harpy](/images/cmw/ZG_1933.jpg)
 
-![Cover page of _Der Zoologische Garten_ with photograph of a rhinoceros](images/cmw/ZG_1961.jpg)
+![Cover page of _Der Zoologische Garten_ with photograph of a rhinoceros](/images/cmw/ZG_1961.jpg)
 
-![Cover page of _Der Zoologische Garten_ with photograph of a possum](images/cmw/ZG_2015.jpg)
+![Cover page of _Der Zoologische Garten_ with photograph of a possum](/images/cmw/ZG_2015.jpg)
 
 </div>
 
@@ -61,11 +61,11 @@ The contributions to the journal tend to discuss subjects such as the breeding o
 
 <div class="series">
 
-![Titelseite von Der Zoologische Garten mit Foto einer Harpyie](images/cmw/ZG_1933.jpg)
+![Titelseite von Der Zoologische Garten mit Foto einer Harpyie](/images/cmw/ZG_1933.jpg)
 
-![Titelseite von Der Zoologische Garten mit Foto von Nashorn](images/cmw/ZG_1961.jpg)
+![Titelseite von Der Zoologische Garten mit Foto von Nashorn](/images/cmw/ZG_1961.jpg)
 
-![Titelseite von Der Zoologische Garten mit Foto von Gleitbeutler](images/cmw/ZG_2015.jpg)
+![Titelseite von Der Zoologische Garten mit Foto von Gleitbeutler](/images/cmw/ZG_2015.jpg)
 
 </div>
 
