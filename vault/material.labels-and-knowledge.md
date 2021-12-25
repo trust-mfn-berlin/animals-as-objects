@@ -7,7 +7,7 @@ short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 date_end: 1935-01-01T10:48:28.706Z
 published: false
 title: Labels and Knowledge
-updated: 1640473032322
+updated: 1640473152023
 id: K2rQQdv1K7aDMUi5gDHcN
 translators:
   translator_de_en: Carla Welch
@@ -196,13 +196,13 @@ _Tierlogistik auf Papier. Die Instruktionen auf den Etiketten machen die Wege to
 
 Die einstmals mobilen Zettel dienten außerdem zu internen logistischen Absprachen zwischen diesen verschiedenen Akteuren. Häufig sind Instruktionen zur weiteren Verwendung vermerkt – "Mit der Bitte um Untersuchung und Überweisung an das Zoolog. Museum in der Invalidenstraße", heißt es etwa. **Der erste Weg eines Tieres nach seinem Tod führte meistens vom Zoo zum Pathologischen Institut der Tierärztlichen Hochschule, wo es seziert wurde, um die Todesursache festzustellen.[^1] Anschließend sandte das Pathologische Institut das, was vom Kadaver nach der Sektion übrig war, zurück an den Zoo oder in dessen Auftrag weiter – an private Präparatoren oder wissenschaftliche Institutionen wie das Anatomische Institut, das Zoologische Institut der Landwirtschaftlichen Hochschule Berlin oder eben das Zoologische Museum der Berliner Universität.**[^2] Wie bei einem Puzzle lassen sich die Informationen zu einem Bild zusammenfügen, das ein lokales Beziehungsnetz abbildet. Auch wenn es lückenhaft bleibt, werden hier wichtige Akteure sichtbar, die im frühen 20. Jahrhundert in die Weiterverwertung oder Entsorgung von Zootieren in Berlin eingebunden waren.
 
-Auf der Rückseite der Etiketten konnten Informationen über Gattung, Herkunft und Todesursache der Tiere eingetragen und übermittelt werden, damit das Museum seine [[Tiere verzeichnen|story.keeping records of animals]] konnte. Abessinien, Ceylon, Südamerika sind häufig zu lesen. Die Zettel machen damit nicht nur ein lokales Netzwerk sichtbar; sie verweisen zugleich zurück auf den globalen Tierhandel und Tierfang, und Bezeichnungen wie Abessinien und Ceylon machen klar, dass es sich um ein koloniales Netzwerk handelte.
+Auf der Rückseite der Etiketten konnten Informationen über Gattung, Herkunft und Todesursache der Tiere eingetragen und übermittelt werden, damit das Museum seine [[Tiere verzeichnen|story.keeping-record-of-animals]] konnte. Abessinien, Ceylon, Südamerika sind häufig zu lesen. Die Zettel machen damit nicht nur ein lokales Netzwerk sichtbar; sie verweisen zugleich zurück auf den globalen Tierhandel und Tierfang, und Bezeichnungen wie Abessinien und Ceylon machen klar, dass es sich um ein koloniales Netzwerk handelte.
 
 Mindestens genauso entscheidend wie die Informationen, die auf den Etiketten vermerkt sind, ist aber auch, was nicht verzeichnet ist. So detaillierte Angaben wie auf diesem Etikett hier waren eher die Ausnahme.
 
 <figure>
 
-![Gelochte Papierkarte, vergilbt und gefleckt, mit Vordruck und handschriftlichen Eintragungen. Oben: 14.IX.26 männlich. Tiergattung: ____. Herkunft: Patagonien. Todesursache: Darmentzündung. Rechts unten: 142.](Etiketten-Pohle-S004-02-05-96-142-r.jpg)
+![Gelochte Papierkarte, vergilbt und gefleckt, mit Vordruck und handschriftlichen Eintragungen. Oben: 14.IX.26 männlich. Tiergattung: ____. Herkunft: Patagonien. Todesursache: Darmentzündung. Rechts unten: 142.](/images/Etiketten-Pohle-S004-02-05-96-142-r.jpg)
 
 <figcaption>
 
@@ -218,9 +218,9 @@ Häufig blieben Zeilen leer oder die Informationen sehr allgemein.
 
 <div class ="series">
 
-![Gelochte Papierkarte, vergilbt, mit Vordruck und handschriftlichen Eintragungen. Tiergattung: Rot____. Herkunft: Aus dem Tierhandel. Todesursache: kein Eintrag. Rechts unten: 24.](Etiketten-Pohle-S004-02-05-96-024-r.jpg)
+![Gelochte Papierkarte, vergilbt, mit Vordruck und handschriftlichen Eintragungen. Tiergattung: Rot____. Herkunft: Aus dem Tierhandel. Todesursache: kein Eintrag. Rechts unten: 24.](/images/Etiketten-Pohle-S004-02-05-96-024-r.jpg)
 
-![Gelochte Papierkarte, vergilbt, mit Vordruck und handschriftlichen Eintragungen. Tiergattung: ____. Herkunft: Ceylon. Todesursache: kein Eintrag. Rechts unten: 105.](Etiketten-Pohle-S004-02-05-96-105-r.jpg)
+![Gelochte Papierkarte, vergilbt, mit Vordruck und handschriftlichen Eintragungen. Tiergattung: ____. Herkunft: Ceylon. Todesursache: kein Eintrag. Rechts unten: 105.](/images/Etiketten-Pohle-S004-02-05-96-105-r.jpg)
 
 </div>
 
@@ -236,7 +236,7 @@ An den Zetteln lässt sich so nicht nur das Wissen ablesen, das an das Museum ü
  
 <figure>
 
-![Gelochte Papierkarte, vergilbt, mit Vordruck und handschriftlichen Eintragungen. Tiergattung: ___Wasserratte. Herkunft: Zoo Berlin. Todesursache: kein Eintrag. Dem Museum überwiesen. Unten rechts: 25. Oben links: nicht lesbar, 30.10.36.](Etiketten-Pohle-S004-02-05-96-025-r.jpg)
+![Gelochte Papierkarte, vergilbt, mit Vordruck und handschriftlichen Eintragungen. Tiergattung: ___Wasserratte. Herkunft: Zoo Berlin. Todesursache: kein Eintrag. Dem Museum überwiesen. Unten rechts: 25. Oben links: nicht lesbar, 30.10.36.](/images/Etiketten-Pohle-S004-02-05-96-025-r.jpg)
 
 <figcaption>
 
