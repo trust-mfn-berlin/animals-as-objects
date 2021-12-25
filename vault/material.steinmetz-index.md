@@ -7,7 +7,7 @@ short_desc_de: Tiere im Besitz des Berliner Zoos 1920-1945
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: The Steinmetz Index
-updated: 1639749817768
+updated: 1640461525806
 id: 2a309087-f165-4def-9c60-d835c7218077
 translators:
   translator_de_en: Carla Welch
@@ -28,7 +28,7 @@ date_start: 1919-12-31T23:00:00.000Z
 
 <figure>
 
-![Index card with handwritten entries on arrival and departure. Columns under arrival: Date of arrival, No., Sex., Age, Place found, Origin, Type of arrival, Price Mk. Columns under departure: Date of departure, No., Sex, Type of departure, Cause of death, Delivered to, Price Mk.](images/cmw/Kartei_Flusspferd1.jpg)
+![Index card with handwritten entries on arrival and departure. Columns under arrival: Date of arrival, No., Sex., Age, Place found, Origin, Type of arrival, Price Mk. Columns under departure: Date of departure, No., Sex, Type of departure, Cause of death, Delivered to, Price Mk.](/images/cmw/Kartei_Flusspferd1.jpg)
 
 <figcaption>
 
@@ -54,7 +54,7 @@ Nowadays most German zoos use the Zoological Information Management System softw
 
 <figure>
 
-![Karteikarte mit handschriftlichen Eintragungen zu Zugang und Abgang. Spalten unter Zugang: Datum der Ankunft, Nr., Geschl., Alter, Fundort, Herkunft, Art des Zugangs, Preis Mk. Spalten unter Abgang: Datum des Abgangs, Nr., Geschl., Art des Abgangs, Todesursache, Wohin abgegeben, Preis Mk.](images/cmw/Kartei_Flusspferd1.jpg)
+![Karteikarte mit handschriftlichen Eintragungen zu Zugang und Abgang. Spalten unter Zugang: Datum der Ankunft, Nr., Geschl., Alter, Fundort, Herkunft, Art des Zugangs, Preis Mk. Spalten unter Abgang: Datum des Abgangs, Nr., Geschl., Art des Abgangs, Todesursache, Wohin abgegeben, Preis Mk.](/images/cmw/Kartei_Flusspferd1.jpg)
 
 <figcaption>
 
