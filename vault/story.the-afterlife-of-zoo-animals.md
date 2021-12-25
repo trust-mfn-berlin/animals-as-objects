@@ -7,7 +7,7 @@ short_desc_de: Auf den Spuren eines Elefanten
 date_end: 1947-12-31T11:00:00.000Z
 published: false
 title: The Afterlife of Zoo Animals
-updated: 1640470933212
+updated: 1640471202347
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 translators:
   translator_de_en: Carla Welch
@@ -60,7 +60,7 @@ _The_ Neue Berliner 12 Uhr Zeitung _and other newspapers reported on the animal 
 
 </figure>
 
-The carcasses of zoo animals, especially large mammals, are usually not simply disposed of. It has long been the case that as much of the carcass as possible is used for other purposes. The same applied to "Siam", and as with all zoo animals that have this kind of afterlife, his body was not kept intact. Tracing this elephant’s story therefore entails a search for individual body parts, leading us to various different locations. (See als [[story.bobby-tracking-body-parts2]].) 
+The carcasses of zoo animals, especially large mammals, are usually not simply disposed of. It has long been the case that as much of the carcass as possible is used for other purposes. The same applied to "Siam", and as with all zoo animals that have this kind of afterlife, his body was not kept intact. Tracing this elephant’s story therefore entails a search for individual body parts, leading us to various different locations. (See also [[story.bobby-tracking-body-parts2]].) 
 
 ## Colonial traces
 
