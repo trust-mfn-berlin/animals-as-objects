@@ -7,7 +7,7 @@ short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Wel
 date_end: 2021-12-14T14:41:44.038Z
 published: false
 title: Microbial Worlds
-updated: 1640451713458
+updated: 1640452425159
 id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
 translators:
   translator_en_de: Jan-Peter Herrmann
@@ -38,7 +38,7 @@ date_start: 1673-01-01T14:45:32.000Z
 
 <figcaption>
 
-_A scientific ‘conversazione’ on microscopy held at Apothecaries' Hall on April 11th, 1855, Engraving from_ The Illustrated London News, _28 April 1855.[^1] – JPG fehlt im vault!_
+_A scientific ‘conversazione’ on microscopy held at Apothecaries' Hall on April 11th, 1855, Engraving from_ The Illustrated London News, _28 April 1855.[^1]_
 
 </figcaption>
 
@@ -54,7 +54,7 @@ By the second half of the 20th century the ever-increasing resolution and interc
 
 <figcaption>
 
-_Engraving of mould, and magnified view of the surface of a rose-leaf; Schem. 12. From_ Micrographia: or some physiological descriptions of minute bodies made by magnifying glasses with observations and Inquiries thereupon _by Robert Hooke, Fellow of the Royal Society, 1665. (Wellcome Collection. CC BY.)_
+_Engraving of mould, and magnified view of the surface of a rose-leaf; Schem. 12. From_ Micrographia: or some physiological descriptions of minute bodies made by magnifying glasses with observations and Inquiries thereupon _by Robert Hooke, Fellow of the Royal Society, 1665. (Wellcome Collection. CC BY.) – JPG fehlt im vault!_
 
 </figcaption>
 
