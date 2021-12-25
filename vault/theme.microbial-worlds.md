@@ -7,7 +7,7 @@ short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Wel
 date_end: 2021-12-14T14:41:44.038Z
 published: false
 title: Microbial Worlds
-updated: 1640294360096
+updated: 1640451267030
 id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
 translators:
   translator_en_de: Jan-Peter Herrmann
@@ -152,7 +152,7 @@ _”A Drop of Ocean” shows the complex micro-level physicochemical interaction
 
 [^20]: Roman Stocker’s lab at ETH Zurich is one of the sites where innovative techniques to image and imagine microbial worlds are taking shape. They combine microbial sciences and microfluidics, the study of physical interactions of liquids at the microscopic scale. See their website to learn more: https://stockerlab.ethz.ch. 
 
-::DE:::
+:::DE:::
 
 <figure>
 
