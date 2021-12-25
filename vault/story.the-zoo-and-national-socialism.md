@@ -7,7 +7,7 @@ short_desc_de: Propagandainstrument und Zwangsarbeit
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: The Zoo and National Socialism
-updated: 1640465694624
+updated: 1640466341143
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 translators:
   translator_de_en: Carla Welch
@@ -318,7 +318,7 @@ _The zoo's surviving lions in their outdoor enclosure, against the backdrop of t
 
 </figure>
 
-At the end of National Socialist rule, the zoo was no longer the establishment it had been from its beginnings until 1933 — neither materially, nor in its institutional make-up. ** Berlin Zoo under National Socialism exemplifies how extensively political pressure can shape and instrumentalize the zoo as an institution.** Its exhibition of live animals could readily be put to use for Nazi propaganda, and served the aims of the NSDAP in various ways.
+At the end of National Socialist rule, the zoo was no longer the establishment it had been from its beginnings until 1933 — neither materially, nor in its institutional make-up. **Berlin Zoo under National Socialism exemplifies how extensively political pressure can shape and instrumentalize the zoo as an institution.** Its exhibition of live animals could readily be put to use for Nazi propaganda, and served the aims of the NSDAP in various ways.
 
 Zoos are certainly also compatible with other regimes and social systems — even if this adaptation have often been more subtle and less pronounced. During the Cold War, the East Berlin Magistrate and the SED regime instrumentalized the Berlin Tierpark for cultural diplomacy in the dispute over the international recognition of the GDR. The park served as an internationally recognized example of socialist policy in education and scientific research. Zoos resumed the role they had played in the 19th century when many of them were first founded: they represented a defining feature of a capital city — or in this case half a city. The West Berlin zoo director could count on West German federal policy to be invested in the zoo's attraction for the enclosed western half of the city.[^48] Nowadays, zoos position themselves as centers of species conservation in liberal societies that are increasingly concerned with biodiversity. In none of these cases, however, has the political exploitation of the zoo as an institution been attempted or achieved to the degree reached by the National Socialists.
 
