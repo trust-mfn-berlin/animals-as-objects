@@ -7,7 +7,7 @@ short_desc_de: Foto von Oskar Heinroth mit drei Uralkäuzen
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Oskar Heinroth
-updated: 1638901244202
+updated: 1640461259811
 id: 1a9793b7-746f-4a58-bfa2-54596b72b4bc
 translators:
   translator_de_en: Carla Welch
@@ -27,7 +27,7 @@ date_start: 1903-12-31T23:00:00.000Z
 
 <figure>
 
-![Black and white photograph: A balding older man with a moustache, wearing a pince-nez and a suit, looks down at three Ural owls, one sitting on each of his arms and the third on one of his legs, which he has bent into a perch. Two of the owls are looking into the camera and one to the side.](images/cmw/O_Heinroth_Uralkaeuzen_1929.jpg)
+![Black and white photograph: A balding older man with a moustache, wearing a pince-nez and a suit, looks down at three Ural owls, one sitting on each of his arms and the third on one of his legs, which he has bent into a perch. Two of the owls are looking into the camera and one to the side.](/images/cmw/O_Heinroth_Uralkaeuzen_1929.jpg)
 
 <figcaption>
 
@@ -47,7 +47,7 @@ The observations for the study had been gathered in the couple's apartment at th
 
 <figure>
 
-![Schwarz-weiß Foto: Älterer Mann im Anzug mit Schnauzer, Glatze und Zwicker, blickt herunter auf drei Uralkäuze, die auf seinen Armen und einem angewinkelten Bein sitzen. Zwei der Käuze schauen in die Kamera, einer blickt zur Seite.](images/cmw/O_Heinroth_Uralkaeuzen_1929.jpg)
+![Schwarz-weiß Foto: Älterer Mann im Anzug mit Schnauzer, Glatze und Zwicker, blickt herunter auf drei Uralkäuze, die auf seinen Armen und einem angewinkelten Bein sitzen. Zwei der Käuze schauen in die Kamera, einer blickt zur Seite.](/images/cmw/O_Heinroth_Uralkaeuzen_1929.jpg)
 
 <figcaption>
 
