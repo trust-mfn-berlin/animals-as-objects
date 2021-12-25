@@ -7,7 +7,7 @@ short_desc_de: Auf den Spuren eines Elefanten
 date_end: 1947-12-31T11:00:00.000Z
 published: false
 title: The Afterlife of Zoo Animals
-updated: 1640469980408
+updated: 1640470933212
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 translators:
   translator_de_en: Carla Welch
@@ -60,7 +60,7 @@ _The_ Neue Berliner 12 Uhr Zeitung _and other newspapers reported on the animal 
 
 </figure>
 
-The carcasses of zoo animals, especially large mammals, are usually not simply disposed of. It has long been the case that as much of the carcass as possible is used for other purposes. The same applied to "Siam", and as with all zoo animals that have this kind of afterlife, his body was not kept intact. Tracing this elephant’s story therefore entails a search for individual body parts, leading us to various different locations [[story.bobby]]. 
+The carcasses of zoo animals, especially large mammals, are usually not simply disposed of. It has long been the case that as much of the carcass as possible is used for other purposes. The same applied to "Siam", and as with all zoo animals that have this kind of afterlife, his body was not kept intact. Tracing this elephant’s story therefore entails a search for individual body parts, leading us to various different locations. (See als [[story.bobby-tracking-body-parts2]].) 
 
 ## Colonial traces
 
@@ -190,7 +190,7 @@ _Über den Tiertausch zwischen Zirkus und Zoo und die Ankunft "Siams" in seinem 
 
 </figure>
 
-Die Kadaver von Zootieren, zumal Großsäugern, werden meist nicht einfach entsorgt. Sie werden – damals wie heute – in vielen Fällen möglichst vollständig weiterverwertet. Das gilt auch für "Siam". Und wie bei allen Zootieren, die auf diese Weise nach ihrem Tod ein Nachleben führen, blieb sein Körper nicht unversehrt. Sich auf die Spuren dieser Elefantengeschichte zu begeben, bedeutet also nach einzelnen Körperteilen zu suchen, was zu unterschiedlichen Orten der Verwertung und Entsorgung führt.
+Die Kadaver von Zootieren, zumal Großsäugern, werden meist nicht einfach entsorgt. Sie werden – damals wie heute – in vielen Fällen möglichst vollständig weiterverwertet. Das gilt auch für "Siam". Und wie bei allen Zootieren, die auf diese Weise nach ihrem Tod ein Nachleben führen, blieb sein Körper nicht unversehrt. Sich auf die Spuren dieser Elefantengeschichte zu begeben, bedeutet also nach einzelnen Körperteilen zu suchen, was zu unterschiedlichen Orten der Verwertung und Entsorgung führt. (Siehe auch [[story.bobby-tracking-body-parts2]].)
 
 ## Koloniale Spuren
 
