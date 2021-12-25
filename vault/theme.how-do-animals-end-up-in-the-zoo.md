@@ -7,7 +7,7 @@ short_desc_de: Politische, logistische und moralische Herausforderungen
 date_end: ""
 published: false
 title: How Do Animals End Up in the Zoo?
-updated: 1639749926659
+updated: 1640463289752
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 translators:
   translator_de_en: Carla Welch
@@ -45,7 +45,7 @@ Many of the non-native animals in the early days of European zoos were gifts fro
 
 <figure>
 
-![Black and white photograph: two elephants, one lying and one standing, with three zookeepers in front of a high fence.](images/cmw/Elefant_Omar.jpg)
+![Black and white photograph: two elephants, one lying and one standing, with three zookeepers in front of a high fence.](/images/cmw/Elefant_Omar.jpg)
 
 <figcaption>
 
@@ -69,7 +69,7 @@ By the end of the 19th century, zoos could draw on a wide range of offerings fro
 
 <figure>
 
-![Black and white photograph: differently sized baskets, boxes and containers with covers on a paved path. A person sits to the left holding a cylindrical glass container half filled with water.](images/cmw/Aqua_Fischtransport_Seitz.jpg)
+![Black and white photograph: differently sized baskets, boxes and containers with covers on a paved path. A person sits to the left holding a cylindrical glass container half filled with water.](/images/cmw/Aqua_Fischtransport_Seitz.jpg)
 
 <figcaption>
 
@@ -81,7 +81,7 @@ _Arrival of new animals for the Berlin Aquarium, likely from a larger shipment a
 
 <figure>
 
-![Black and white photograph: five giraffes stand peeking out of high transport crates. Person with pith helmet and high boots stands on a step attached to the crate on the far right and peers in next to a giraffe head.](images/cmw/Giraffentransport_1928_S_3_58_Wolter.jpg)
+![Black and white photograph: five giraffes stand peeking out of high transport crates. Person with pith helmet and high boots stands on a step attached to the crate on the far right and peers in next to a giraffe head.](/images/cmw/Giraffentransport_1928_S_3_58_Wolter.jpg)
 
 <figcaption>
 
@@ -115,7 +115,7 @@ First, however, awareness for this problem had to emerge. Between 1950 and 1952,
 
 <figure>
 
-![Black and white photograph: three hippos half submerged in water. The animal in the middle is smaller, all look to the left to the edge of the pool.](images\cmw\Knautschke_Bulette_Jette_Foto_Kurt_Hoppe.jpg)
+![Black and white photograph: three hippos half submerged in water. The animal in the middle is smaller, all look to the left to the edge of the pool.](/images/cmw/Knautschke_Bulette_Jette_Foto_Kurt_Hoppe.jpg)
 
 <figcaption>
 
@@ -131,7 +131,7 @@ The means for achieving this were so-called studbooks. These had their predecess
 
 <figure>
 
-![Cover of red notebook with sketch of rhinoceros. Title: Zoologischer Garten Berlin – Internationales Zuchtbuch für das afrikanische Breitmaulnashorn – 9 – International Studbook for the African White Rhinoceros – 01.01.2001](images/cmw/Zuchtbuch_Breitmail_2001.jpg)
+![Cover of red notebook with sketch of rhinoceros. Title: Zoologischer Garten Berlin – Internationales Zuchtbuch für das afrikanische Breitmaulnashorn – 9 – International Studbook for the African White Rhinoceros – 01.01.2001](/images/cmw/Zuchtbuch_Breitmail_2001.jpg)
 
 <figcaption>
 
@@ -153,7 +153,7 @@ In light of the growing body of knowledge on rare animal species, and the increa
 
 <figure>
 
-![Two tall glass tanks, well-lit from above, with small, bright jellyfish in dark water. Tiled floor and further tanks in the background.](images/cmw/Quallenaufzucht_um1999.jpg)
+![Two tall glass tanks, well-lit from above, with small, bright jellyfish in dark water. Tiled floor and further tanks in the background.](/images/cmw/Quallenaufzucht_um1999.jpg)
 
 <figcaption>
 
@@ -229,7 +229,7 @@ Viele der nicht einheimischen Tiere in der Frühzeit der europäischen Zoos ware
 
 <figure>
 
-![Schwarz-weiß Foto: ein liegender und ein stehender Elefant mit drei Zoowärtern vor einem hohen Zaun.](images/cmw/Elefant_Omar.jpg)
+![Schwarz-weiß Foto: ein liegender und ein stehender Elefant mit drei Zoowärtern vor einem hohen Zaun.](/images/cmw/Elefant_Omar.jpg)
 
 <figcaption>
 
@@ -253,7 +253,7 @@ Zoos konnten Ende des 19. Jahrhunderts auf umfangreiche Angebote mehrerer profes
 
 <figure>
 
-![Schwarz-weiß Foto: verschieden große Körbe, Kisten und Behälter mit Abdeckungen auf gepflastertem Weg. Eine Person sitzt links daneben und hält einen zylinderförmigen, halb mit Wasser gefüllten Glasbehälter.](images/cmw/Aqua_Fischtransport_Seitz.jpg)
+![Schwarz-weiß Foto: verschieden große Körbe, Kisten und Behälter mit Abdeckungen auf gepflastertem Weg. Eine Person sitzt links daneben und hält einen zylinderförmigen, halb mit Wasser gefüllten Glasbehälter.](/images/cmw/Aqua_Fischtransport_Seitz.jpg)
 
 <figcaption>
 
@@ -265,7 +265,7 @@ _Ankunft von neuen Tieren für das Aquarium Berlin, vermutlich aus einem größe
 
 <figure>
 
-![Schwarz-weiß Foto: fünf Giraffen, die stehend aus hohen Transportkisten herausgucken. Person mit Tropenhelm und hohen Stiefeln steht auf einer an der Transportkiste ganz rechts angebrachten Stufe und guckt neben dem Giraffenkopf oben hinein.](images/cmw/Giraffentransport_1928_S_3_58_Wolter.jpg)
+![Schwarz-weiß Foto: fünf Giraffen, die stehend aus hohen Transportkisten herausgucken. Person mit Tropenhelm und hohen Stiefeln steht auf einer an der Transportkiste ganz rechts angebrachten Stufe und guckt neben dem Giraffenkopf oben hinein.](/images/cmw/Giraffentransport_1928_S_3_58_Wolter.jpg)
 
 <figcaption>
 
@@ -299,7 +299,7 @@ Das Bewusstsein für diese Problematik musste aber erst noch entstehen. Im Berli
 
 <figure>
 
-![Schwarz-weiß Foto: drei halb im Wasser untergetauchte Flusspferden. Das Tier in der Mitte ist ein Jungtier, alle schauen nach links zum Beckenrand.](images\cmw\Knautschke_Bulette_Jette_Foto_Kurt_Hoppe.jpg)
+![Schwarz-weiß Foto: drei halb im Wasser untergetauchte Flusspferden. Das Tier in der Mitte ist ein Jungtier, alle schauen nach links zum Beckenrand.](/images/cmw/Knautschke_Bulette_Jette_Foto_Kurt_Hoppe.jpg)
 
 <figcaption>
 
@@ -315,7 +315,7 @@ Die Mittel dafür waren sogenannte Zuchtbücher (engl. studbooks). Diese hatten 
 
 <figure>
 
-![Vorderseite eines roten Hefts mit Skizze eines Nashorns. Titel: Zoologischer Garten Berlin – Internationales Zuchtbuch für das afrikanische Breitmaulnashorn – 9 – International Studbook for the African White Rhinoceros – 01.01.2001](images/cmw/Zuchtbuch_Breitmail_2001.jpg)
+![Vorderseite eines roten Hefts mit Skizze eines Nashorns. Titel: Zoologischer Garten Berlin – Internationales Zuchtbuch für das afrikanische Breitmaulnashorn – 9 – International Studbook for the African White Rhinoceros – 01.01.2001](/images/cmw/Zuchtbuch_Breitmail_2001.jpg)
 
 <figcaption>
 
@@ -337,7 +337,7 @@ Mit wachsendem Wissen um seltene Tierarten und zunehmendem Erfolg von Zuchtprogr
 
 <figure>
 
-![Zwei hohe, von oben stark beleuchtete Glasbecken mit kleinen, hellen Quallen in dunklem Wasser. Gefliester Boden und weitere Becken im Hintergrund.](images/cmw/Quallenaufzucht_um1999.jpg)
+![Zwei hohe, von oben stark beleuchtete Glasbecken mit kleinen, hellen Quallen in dunklem Wasser. Gefliester Boden und weitere Becken im Hintergrund.](/images/cmw/Quallenaufzucht_um1999.jpg)
 
 <figcaption>
 

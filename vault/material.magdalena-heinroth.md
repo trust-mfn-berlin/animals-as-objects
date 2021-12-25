@@ -7,7 +7,7 @@ short_desc_de: Foto von Magdalena Heinroth mit drei Dohlen
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Magdalena Heinroth
-updated: 1639595285425
+updated: 1640461404657
 id: 95617cbe-704d-46c1-b0b5-05d178ec363d
 translators:
   translator_de_en: Carla Welch
@@ -27,7 +27,7 @@ date_start: 1919-12-31T23:00:00.000Z
 
 <figure>
 
-![Black and white photograph: A young woman with dark hair in a light-colored blouse looks down at three jackdaws, perching on her arms and facing toward her.](images/cmw/Magdalena_Heinroth_Dohlen_1919.jpg)
+![Black and white photograph: A young woman with dark hair in a light-colored blouse looks down at three jackdaws, perching on her arms and facing toward her.](/images/cmw/Magdalena_Heinroth_Dohlen_1919.jpg)
 
 <figcaption>
 
@@ -47,7 +47,7 @@ Magdalena Heinroth (née Wiebe, 1883–1932) raised hundreds of native birds in 
 
 <figure>
 
-![Schwarz-weiß Foto: Junge Frau mit dunklem Haar in heller Bluse, schaut nach unten auf drei auf ihren Armen sitzende Dohlen, die ihr zugewandt sind.](images/cmw/Magdalena_Heinroth_Dohlen_1919.jpg)
+![Schwarz-weiß Foto: Junge Frau mit dunklem Haar in heller Bluse, schaut nach unten auf drei auf ihren Armen sitzende Dohlen, die ihr zugewandt sind.](/images/cmw/Magdalena_Heinroth_Dohlen_1919.jpg)
 
 <figcaption>
 
