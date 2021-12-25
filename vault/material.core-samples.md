@@ -8,7 +8,7 @@ short_desc_de: Zylinderförmige Kernproben, die durch Bohrungen in
 date_end: 2021-12-07T19:25:46.689Z
 published: false
 title: Core Samples
-updated: 1640474658258
+updated: 1640474733716
 id: 02wCHNiTRZ4Zkq2cO9Cpv
 translators:
   translator_en_de: Jan-Peter Herrmann
@@ -47,7 +47,11 @@ This commenced a concerted effort to gather samples for reconstructing the histo
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mdrWbd1F9Qw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<figcaption>
+
 _A video showing the work of collecting and studying core samples through [[material.radiolaria]] on board of the [[story.deep-sea-drilling]] vessel_ JOIDES Resolution.
+
+</figcaption>
 
 [^1]: You can learn more about core samples also by exploring the mineralogical collections of the Museum fur Naturkunde Berlin: https://www.museumfuernaturkunde.berlin/en/science/geochemical-and-microanalytical-laboratories and https://www.museumfuernaturkunde.berlin/en/science/rock-and-ore-collection. 
 
