@@ -7,7 +7,7 @@ short_desc_de: Propagandainstrument und Zwangsarbeit
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: The Zoo and National Socialism
-updated: 1639749913556
+updated: 1640465694624
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 translators:
   translator_de_en: Carla Welch
@@ -54,11 +54,11 @@ In January 1934, Göring presented his plans for the Schorfheide to a group of f
 
 <figure>
 
-![Black and white photograph: Gateway to Berlin Zoo supported by two elephant sculptures. Three men are standing in front of the entrance, two of them wearing zoo staff uniforms.](images\cmw\elephant-gate-berlin-zoo-1938.jpg)
+![Black and white photograph: Gateway to Berlin Zoo supported by two elephant sculptures. Three men are standing in front of the entrance, two of them wearing zoo staff uniforms.](/images/cmw/elephant-gate-berlin-zoo-1938.jpg)
 
 <figcaption>
 
-*Gateway to Berlin Zoo known as the Elephant Gate (Elefantentor), around 1938. (AZGB. All rights reserved.)*
+_Gateway to Berlin Zoo known as the Elephant Gate (Elefantentor), around 1938. (AZGB. All rights reserved.)_
 
 </figcaption>
 
@@ -70,11 +70,11 @@ From 1933 onward, the zoo also put the NSDAP's antisemitic and racist policies i
 
 <figure>
 
-![Sketched portrait of a man](images/cmw/ENTERIMAGEPATHWAY.jpg)
+![Sketched portrait of a man](/images/cmw/ENTERIMAGEPATHWAY.jpg)
 
 <figcaption>
 
-*Georg Siegmann was expelled from the Supervisory Board and murdered by the National Socialists despite his service to the zoo. (Sketch Filippo Bertoni.)*
+_Georg Siegmann was expelled from the Supervisory Board and murdered by the National Socialists despite his service to the zoo. (Sketch Filippo Bertoni.)_
 
 </figcaption>
 
@@ -84,11 +84,11 @@ During this period, vacancies on the Supervisory Board were immediately filled b
 
 <figure>
 
-![Black and white photograph: ten men in suits](images/cmw/Aufsichtsrat_1942.jpg)
+![Black and white photograph: ten men in suits](/images/cmw/Aufsichtsrat_1942.jpg)
 
 <figcaption>
 
-*The Supervisory Board of the Zoological Garden Berlin AG on a visit to the zoo. Lutz Heck (third from the left), Eugen Fischer (fourth from the left), and Oskar Heinroth (first from the right). (AZGB. All rights reserved.)*
+_The Supervisory Board of the Zoological Garden Berlin AG on a visit to the zoo. Lutz Heck (third from the left), Eugen Fischer (fourth from the left), and Oskar Heinroth (first from the right). (AZGB. All rights reserved.)_
 
 </figcaption>
 
@@ -98,11 +98,11 @@ As with many of Berlin’s large companies, the zoo's workforce was also "Nazifi
 
 <figure>
 
-![Black and white photograph: eleven people with string and percussion instruments and accordions. In the background are two large flags with swastikas and a painting. The bass drum displays a picture of a gorilla’s face.](images/cmw/band-1938-Springer.jpg)
+![Black and white photograph: eleven people with string and percussion instruments and accordions. In the background are two large flags with swastikas and a painting. The bass drum displays a picture of a gorilla’s face.](/images/cmw/band-1938-Springer.jpg)
 
 <figcaption>
 
-*The zoo band, 1938. (AZGB, photo Springer. All rights reserved.)*
+_The zoo band, 1938. (AZGB, photo Springer. All rights reserved.)_
 
 </figcaption>
 
@@ -110,15 +110,15 @@ As with many of Berlin’s large companies, the zoo's workforce was also "Nazifi
 
 ## The Zoo and Propaganda
 
-Financially, the zoo flourished with the rise of National Socialism. This was facilitated by the fact that it catered to National Socialist visitors and the nationalist ideology of the ruling party. From May 1933 onward, there were substantial reductions in the price of admission for members of National Socialist organizations, such as the NSDAP, the National Socialist Motorist Corps, the Sturmabteilung (SA), the Schutzstaffel (SS), and the German nationalist military Der Stahlhelm.[^12] The following year, the zoo management went on to lower ticket prices for all visitors, "in accordance with the aims of the National Socialist state leadership."[^13] In 1935, it recorded a surge of visitors, in all likelihood partly thanks to an agreement between the zoo and the Nazi recreational organization *Kraft durch Freude*.
+Financially, the zoo flourished with the rise of National Socialism. This was facilitated by the fact that it catered to National Socialist visitors and the nationalist ideology of the ruling party. From May 1933 onward, there were substantial reductions in the price of admission for members of National Socialist organizations, such as the NSDAP, the National Socialist Motorist Corps, the Sturmabteilung (SA), the Schutzstaffel (SS), and the German nationalist military Der Stahlhelm.[^12] The following year, the zoo management went on to lower ticket prices for all visitors, "in accordance with the aims of the National Socialist state leadership."[^13] In 1935, it recorded a surge of visitors, in all likelihood partly thanks to an agreement between the zoo and the Nazi recreational organization _Kraft durch Freude_.
 
 <figure>
 
-![Reddish paper ticket with swastika. Text: Die Deutsche Arbeitsfront NS-Gemeinschaft "Kraft durch Freude" Gau Gross-Berlin; Inhaber dieser Anweisung erhält am Freitag, dem 3., 10., 17., 24., od. 31.7.1936 gegen Nachzahlung von RM 0,40 an den Tageskassen des Zoo eine Eintrittskarte für den "Kraft durch Freude"-Tag im Zoo; Die Anweisung gilt wahlweise auch für das Aquarium (...).](images/cmw/Kdf_Eintrittskarte.jpg)
+![Reddish paper ticket with swastika. Text: Die Deutsche Arbeitsfront NS-Gemeinschaft "Kraft durch Freude" Gau Gross-Berlin; Inhaber dieser Anweisung erhält am Freitag, dem 3., 10., 17., 24., od. 31.7.1936 gegen Nachzahlung von RM 0,40 an den Tageskassen des Zoo eine Eintrittskarte für den "Kraft durch Freude"-Tag im Zoo; Die Anweisung gilt wahlweise auch für das Aquarium (...).](/images/cmw/Kdf_Eintrittskarte.jpg)
 
 <figcaption>
 
-*Entry ticket for "Kraft durch Freude" Day at the zoo, 1936. (AZGB. All rights reserved.)*
+_Entry ticket for "Kraft durch Freude" Day at the zoo, 1936. (AZGB. All rights reserved.)_
 
 </figcaption>
 
@@ -126,17 +126,17 @@ Financially, the zoo flourished with the rise of National Socialism. This was fa
 
 Lutz Heck for his part used the political climate to serve his own colonial revisionist ambitions. In 1933, he sponsored a "Colonial Art Exhibition" in the zoo’s exhibition halls, where he displayed a replica of the encampments built for his animal trapping expeditions in Eastern Africa.[^14] In 1927/28, the animals he captured included giraffes from the former colony of German East Africa, the territory of Tanganyika subsequently ruled by the British. In the summer of 1934, the zoo commemorated Colonial Remembrance Day by hosting a "Kolonialer Volkstag" or "Colonial Day of the People". A press tour took reporters to see "German Colonial Animals" — meaning they were shown animals from former German colonies. In 1937, the zoo celebrated a "Colonial Festival" under a slogan "Everyone should visit Africa once."[^15]
 
-In 1936, in time for Summer Olympics in Berlin, the zoo opened a 2,000-square-meter lion steppe , which was a real crowd puller. 1936 also brought the many additional tourists who had travelled to Berlin for the Games, thanks to whom the zoo enjoyed a record attendance of more than two million paying guests that year.[^16] **Berlin Zoo participated in the elaborate propaganda orchestrated for the Games, and provided animals for the Olympic Village, which housed the athletes’ living quarters,** supplying native waterfowl and fallow deer to frolic around a central pond.
+In 1936, in time for Summer Olympics in Berlin, the zoo opened a 2,000-square-meter lion steppe , which was a real crowd puller. 1936 also brought the many additional tourists who had travelled to Berlin for the Games, thanks to whom the zoo enjoyed a record attendance of more than two million paying guests that year.[^16] Berlin Zoo participated in the elaborate propaganda orchestrated for the Games, and provided animals for the Olympic Village, which housed the athletes’ living quarters, supplying native waterfowl and fallow deer to frolic around a central pond.
 
 At the behest of Prussian Prime Minister Hermann Göring, the zoo was finally granted an extension to its grounds on the edge of the Tiergarten park in August 1935. The police and the Reiter-SA (Sturmabteilung) had initially objected, as the extension would have narrowed a bridle path, but Göring's wishes were ultimately fulfilled.[^17] Heck used the new strip of land for large enclosures housing "native animal species". "German" predators, such as wolves and bears, were displayed alongside "German birds of prey", such as eagles and buzzards. For propaganda purposes, it was of no relevance that all of these animals were also to be found in neighboring countries of the German Reich, and that some, like the bear, no longer even existed in Germany. Their framing as "German animals" worked to legitimize the National Socialists' policy of expansion.[^18] Native livestock were displayed in a replica barn, and were also instrumentalized for propaganda purposes: the display was intended to show that humans and animals had supposedly lived "in intimate proximity" to each other in the "older German homesteads."[^19] Rustic architecture in the style of northern German farmhouses was a "propagandistic symbol of a connection to the peasant class and the native soil. The carved gable \[of a barn] honored the 'Führer's' care for the German farmer. The blood-and-soil ideology here \[was] unmistakable."[^20]
 
 <figure>
 
-![Black and white photograph: Replica of farmhouse with thatched roof](images/cmw/farmhouse-1937.jpg)
+![Black and white photograph: Replica of farmhouse with thatched roof](/images/cmw/farmhouse-1937.jpg)
 
 <figcaption>
 
-*"Lower Saxon farmhouse with barn" in Berlin Zoo, 1937. (AZGB. All rights reserved.)*
+_"Lower Saxon farmhouse with barn" in Berlin Zoo, 1937. (AZGB. All rights reserved.)_
 
 </figcaption> 
 
@@ -146,11 +146,11 @@ The zoo had previously been organized according to strictly taxonomic principles
 
 <figure>
 
-![Black and white photograph: Cattle on sandy ground, with a wall and wooden structure in the background. The fur on the back is shorter, and shaggy on the legs, head, and tail. The horns grow horizontally, curving up and forward only at the tips.](images/cmw/aurox.jpg)
+![Black and white photograph: Cattle on sandy ground, with a wall and wooden structure in the background. The fur on the back is shorter, and shaggy on the legs, head, and tail. The horns grow horizontally, curving up and forward only at the tips.](/images/cmw/aurox.jpg)
 
 <figcaption>
 
-*One of the cattle resulting from Lutz Heck's backbreeding efforts, around 1930. (AZGB. All rights reserved.)*
+_One of the cattle resulting from Lutz Heck's backbreeding efforts, around 1930. (AZGB. All rights reserved.)_
 
 </figcaption>
 
@@ -186,11 +186,11 @@ An air-raid shelter for visitors and employees was built in the middle of the pr
 
 <figure>
 
-![Colorful site plan showing enclosures, lakes, buildings, facilities, two air raid shelters, entrances, and the surrounding streets. Title: Zoological Garden Berlin.](images/cmw/Zooplan_1943_0001.jpg)
+![Colorful site plan showing enclosures, lakes, buildings, facilities, two air raid shelters, entrances, and the surrounding streets. Title: Zoological Garden Berlin.](/images/cmw/Zooplan_1943_0001.jpg)
 
 <figcaption>
 
-*Site plan of the zoo around 1940. Air raid shelters are marked at the south entrance on Budapester Straße, at the Elephant Gate, and to the northwest of the zoo. (AZGB. All rights reserved.)*
+_Site plan of the zoo around 1940. Air raid shelters are marked at the south entrance on Budapester Straße, at the Elephant Gate, and to the northwest of the zoo. (AZGB. All rights reserved.)_
 
 </figcaption>
 
@@ -200,11 +200,11 @@ The new Steinbockfelsen, or Ibex boulder, completed in 1938, were designed so th
 
 <figure>
 
-![Black and white photograph: Large boulder with wooden hut and four ibexes. Fence and trees in the foreground.](images/cmw/Steinbockfelsen_um_1940.jpg)
+![Black and white photograph: Large boulder with wooden hut and four ibexes. Fence and trees in the foreground.](/images/cmw/Steinbockfelsen_um_1940.jpg)
 
 <figcaption>
 
-*There were plans to construct an air-raid shelter for 150 people under the Steinbockfelsen, built in 1938. (AZGB. All rights reserved.)*
+_There were plans to construct an air-raid shelter for 150 people under the Steinbockfelsen, built in 1938. (AZGB. All rights reserved.)_
 
 </figcaption>
 
@@ -216,11 +216,11 @@ Many of the zoos in the countries conquered by Germany did not enjoy the protect
 
 <figure>
 
-![Print in Gothic lettering: … Ferner wurden eine Anzahl Tiere des Zoologischen Gartens Warschau zu treuen Händen eingestellt, nämlich: 1 indischer Elefant, 1 Wisent, 1 Verdrängungszuchtwisent, 1 Wildpferd, 1 Weißschwanzgnu, 1 Hartmannzebra, 3 Kamele, 1 Strauß, 4 Luchse, 7 Stachelschweine, 1 Lama, 2 Shetland-Ponies, 2 Flamingos, 2 Pelikane, 1 schwarzer Schwan.](images/cmw/Beute_Warschau_GB.jpg)
+![Print in Gothic lettering: … Ferner wurden eine Anzahl Tiere des Zoologischen Gartens Warschau zu treuen Händen eingestellt, nämlich: 1 indischer Elefant, 1 Wisent, 1 Verdrängungszuchtwisent, 1 Wildpferd, 1 Weißschwanzgnu, 1 Hartmannzebra, 3 Kamele, 1 Strauß, 4 Luchse, 7 Stachelschweine, 1 Lama, 2 Shetland-Ponies, 2 Flamingos, 2 Pelikane, 1 schwarzer Schwan.](/images/cmw/Beute_Warschau_GB.jpg)
 
 <figcaption>
 
-*Excerpt from the annual report of 1939. (AZGB. All rights reserved.)*
+_Excerpt from the annual report of 1939. (AZGB. All rights reserved.)_
 
 </figcaption>
 
@@ -230,11 +230,11 @@ From 1939 on, the zoo also enjoyed the spoils of war from other sources. The SS 
 
 <figure>
 
-![Print in Gothic lettering: … Wir erhielten an wertvollen Geschenken von der Wehrmacht: 1 Wildziege, 1 Dachs und 1 Gänsegeier von der Insel Kreta durch den General der Flieger Andrae, aus der Gegend von Smolensk 13 Marderhunde und von einem Transportgeschwader 1 Karpathenbär. Vom Forstamt Nieswicz wurden uns 2 Wölfe und 1 Kolkrabe überbracht. Außerdem überließ uns die Wehrmacht Rehe, Waschbären, verschiedene Affen, Raubvögel und Hauspfauen. Aus privater Hand wurden uns 1 Weißohräffchen, Burunduks und einige Papageien überlassen.](images/cmw/Kriegsbeute_GB.jpg)
+![Print in Gothic lettering: … Wir erhielten an wertvollen Geschenken von der Wehrmacht: 1 Wildziege, 1 Dachs und 1 Gänsegeier von der Insel Kreta durch den General der Flieger Andrae, aus der Gegend von Smolensk 13 Marderhunde und von einem Transportgeschwader 1 Karpathenbär. Vom Forstamt Nieswicz wurden uns 2 Wölfe und 1 Kolkrabe überbracht. Außerdem überließ uns die Wehrmacht Rehe, Waschbären, verschiedene Affen, Raubvögel und Hauspfauen. Aus privater Hand wurden uns 1 Weißohräffchen, Burunduks und einige Papageien überlassen.](/images/cmw/Kriegsbeute_GB.jpg)
 
 <figcaption>
 
-*Excerpt from the annual report of 1942. (AZGB. All rights reserved.)*
+_Excerpt from the annual report of 1942. (AZGB. All rights reserved.)_
 
 </figcaption>
 
@@ -244,11 +244,11 @@ By the time Germany invaded the Soviet Union in 1941, Lutz Heck had risen to the
 
 <figure>
 
-![Black and white photograph: Man in suit and hat (left), and man in Nazi uniform (right) stand smiling in front of a parked car.](images/cmw/Heck_Auto_1939.jpg)
+![Black and white photograph: Man in suit and hat (left), and man in Nazi uniform (right) stand smiling in front of a parked car.](/images/cmw/Heck_Auto_1939.jpg)
 
 <figcaption>
 
-*Lutz Heck (left) and probably his driver in front of the service vehicle of the Reich Hunting Authority (Reichsjagdamt), 1939. (AZGB. All rights reserved.)*
+_Lutz Heck (left) and probably his driver in front of the service vehicle of the Reich Hunting Authority (Reichsjagdamt), 1939. (AZGB. All rights reserved.)_
 
 </figcaption>
 
@@ -260,28 +260,29 @@ The zoo also benefited in other ways from the connections of its director and Su
 
 <figure>
 
-![Black and white photograph: Two men in coats and hats surrounded by families with children and people in Nazi uniforms. Brick wall with window arches in the background.](images/cmw/Göring_March_1942_Zoo_Heck.jpg)
+![Black and white photograph: Two men in coats and hats surrounded by families with children and people in Nazi uniforms. Brick wall with window arches in the background.](/images/cmw/Göring_March_1942_Zoo_Heck.jpg)
 
 <figcaption>
 
-*Hermann Göring (center, light-colored coat) on a visit to Berlin Zoo in 1942, speaking with Lutz Heck (center, dark-colored coat). (AZGB. All rights reserved.)*
+_Hermann Göring (center, light-colored coat) on a visit to Berlin Zoo in 1942, speaking with Lutz Heck (center, dark-colored coat). (AZGB. All rights reserved.)_
 
 </figcaption>
 
 </figure>
 
 The regime also supported the zoo with animal feed. In his role at the Reichsforstamt in Berlin, Lutz Heck coordinated the supply of feed to zoos throughout the Reich. He was very successful in this: up until the last months of the war, rare seabirds and seals were still being supplied with ocean fish.[^41] 
+
 ## Devastation
 
 On the night of 23 November 1943, an Allied bombing raid turned the zoo into a sea of flames, and killed 30 percent of the remaining animals.[^42]
 
 <figure>
 
-![Punched typewritten sheet with two columns: dead; still present. Handwritten note in the center: 30%+. For transcript, see link in caption.](images/cmw/Liste_tote_Tiere_1943.jpg)
+![Punched typewritten sheet with two columns: dead; still present. Handwritten note in the center: 30%+. For transcript, see link in caption.](/images/cmw/Liste_tote_Tiere_1943.jpg)
 
 <figcaption>
 
-*[[material.list-of-dead-zoo-animals]], 1943. (AZGB. All rights reserved.)*
+_[[material.list-of-dead-zoo-animals]], 1943. (AZGB. All rights reserved.)_
 
 </figcaption>
 
@@ -291,11 +292,11 @@ The aquarium was destroyed the following night. A bomb hit in the middle of the 
 
 <figure>
 
-![Black and white photograph: Stone and metal debris, and fences and barriers next to massive columns.](images/cmw/Ruine_Elefantenhaus_Heck.jpg)
+![Black and white photograph: Stone and metal debris, and fences and barriers next to massive columns.](/images/cmw/Ruine_Elefantenhaus_Heck.jpg)
 
 <figcaption>
 
-*Interior of destroyed elephant enclosure, in which seven elephants died, 1943. (AZGB. All rights reserved.)*
+_Interior of destroyed elephant enclosure, in which seven elephants died, 1943. (AZGB. All rights reserved.)_
 
 </figcaption>
 
@@ -307,11 +308,11 @@ On 22 April 1945, however, it all finally came to an end. All male employees wer
 
 <figure>
 
-![Black and white photograph: A pair of lions lie on boulders outside in front of a broken façade.](images/cmw/Loewin_Ruine_Aqua_S_60.jpg)
+![Black and white photograph: A pair of lions lie on boulders outside in front of a broken façade.](/images/cmw/Loewin_Ruine_Aqua_S_60.jpg)
 
 <figcaption>
 
-*The zoo's surviving lions in their outdoor enclosure, against the backdrop of the destroyed aquarium, 1945. (AZGB. All rights reserved.)*
+_The zoo's surviving lions in their outdoor enclosure, against the backdrop of the destroyed aquarium, 1945. (AZGB. All rights reserved.)_
 
 </figcaption>
 
@@ -321,47 +322,47 @@ At the end of National Socialist rule, the zoo was no longer the establishment i
 
 Zoos are certainly also compatible with other regimes and social systems — even if this adaptation have often been more subtle and less pronounced. During the Cold War, the East Berlin Magistrate and the SED regime instrumentalized the Berlin Tierpark for cultural diplomacy in the dispute over the international recognition of the GDR. The park served as an internationally recognized example of socialist policy in education and scientific research. Zoos resumed the role they had played in the 19th century when many of them were first founded: they represented a defining feature of a capital city — or in this case half a city. The West Berlin zoo director could count on West German federal policy to be invested in the zoo's attraction for the enclosed western half of the city.[^48] Nowadays, zoos position themselves as centers of species conservation in liberal societies that are increasingly concerned with biodiversity. In none of these cases, however, has the political exploitation of the zoo as an institution been attempted or achieved to the degree reached by the National Socialists.
 
-[^1]: Cf., for instance, Heck, Ludwig. *Heiter-ernste Lebensbeichte. Erinnerungen eines alten Tiergärtners*. Berlin: Deutscher Verlag, 1938: 373; Heck, Lutz. *Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn*. Berlin: Paul Parey, 1935. Direct quotes have been translated into English for clarity’s sake.
+[^1]: Cf., for instance, Heck, Ludwig. _Heiter-ernste Lebensbeichte. Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag, 1938: 373; Heck, Lutz. _Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn_. Berlin: Paul Parey, 1935. Direct quotes have been translated into English for clarity’s sake.
 
 [^2]: Curriculum Vitae Lutz Heck for the Reichsschrifttumskammer, Bundesarchiv Berlin (BArch), R 9361, V, 5953.
 
-[^3]: Heck, Lutz. *Waidwerk mit bunter Strecke. Jagd in heimischen Revieren*. Hamburg, Berlin: Parey, 1968: 67.
+[^3]: Heck, Lutz. _Waidwerk mit bunter Strecke. Jagd in heimischen Revieren_. Hamburg, Berlin: Parey, 1968: 67.
 
-[^4]: Cf. Maier-Wolthausen, Clemens. *Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos*. Ed. by Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 111-113.
+[^4]: Cf. Maier-Wolthausen, Clemens. _Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos_. Ed. by Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 111-113.
 
-[^5]: Cf. Lutz Heck. *Auf Urwild in Kanada*. Berlin: Paul Parey, 1937. Direct quotes have been translated into English for clarity’s sake.
+[^5]: Cf. Lutz Heck. _Auf Urwild in Kanada_. Berlin: Paul Parey, 1937. Direct quotes have been translated into English for clarity’s sake.
 
-[^6]: Cf., for instance, Heck, Lutz. *Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn*. Berlin: Paul Parey, 1935.
+[^6]: Cf., for instance, Heck, Lutz. _Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn_. Berlin: Paul Parey, 1935.
 
-[^7]: *Jahrbuch der Fachschaft Deutsche Bracken*, 1935/36.
+[^7]: _Jahrbuch der Fachschaft Deutsche Bracken_, 1935/36.
 
 [^8]: Zoological Garden Berlin, "Alte Tierkartei"; and list of Hermann Göring's lions with offspring, AZGB N 5/13. Direct quotes have been translated into English for clarity’s sake.
 
 [^9]: Minutes of Supervisory Board meeting, 1933, AZGB O 0/2/2.
 
-[^10]: Zoological Garden Berlin. *Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin* for the year 1933.
+[^10]: Zoological Garden Berlin. _Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin_ for the year 1933.
 
 [^11]: Minutes of Supervisory Board meeting, 1933, AZGB O 0/2/2, and memo for Regierungspräsident Zachariae, GStA PK I. HA Rep. 151, Nr. 2496, Bl. 23; minutes of the General Assembly 1934, AZGB O 0/3/2.
 
 [^12]: Minutes of Supervisory Board meeting, 22.05.1933, AZGB O 0/2/2.
 
-[^13]: Zoological Garden Berlin. *Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin* for the year 1933. Direct quotes have been translated into English for clarity’s sake.
+[^13]: Zoological Garden Berlin. _Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin_ for the year 1933. Direct quotes have been translated into English for clarity’s sake.
 
-[^14]: "Der Urwald ruft. Kolonialkunst-Ausstellung im Zoologischen Garten". *Berliner Lokalanzeiger*, 06.04.1933. Direct quotes have been translated into English for clarity’s sake.
+[^14]: "Der Urwald ruft. Kolonialkunst-Ausstellung im Zoologischen Garten". _Berliner Lokalanzeiger_, 06.04.1933. Direct quotes have been translated into English for clarity’s sake.
 
-[^15]: Press release 29.06.1934, AZGB O 0/1/15; "Sensation im Affenpalmenhaus". *Völkischer Beobachter*, 13.06.1937. Direct quotes have been translated into English for clarity’s sake.
+[^15]: Press release 29.06.1934, AZGB O 0/1/15; "Sensation im Affenpalmenhaus". _Völkischer Beobachter_, 13.06.1937. Direct quotes have been translated into English for clarity’s sake.
 
 [^16]: Annual reports for the years 1935 and 1936.
 
 [^17]: Correspondence between all parties in GStA PK I. HA, Rep 151, 2500 and minutes of Supervisory Board meeting, 24.08.1935, GStA PK I. HA, Rep 151, 2496, Bl. 93-94.
 
-[^18]: Reinert, Wiebke, and Mieke Roscher. "Der zoologische Garten als anderer Raum. Hamburger und Berliner Heterotopien". In *Urbane Tier-Räume*, ed. by Thomas E. Hauck, Stefanie Hennecke, André Krebber, Wiebke Reinert, and Mieke Roscher. Berlin: Dietrich Reimer Verlag, 2017: 112. Direct quotes have been translated into English for clarity’s sake.
+[^18]: Reinert, Wiebke, and Mieke Roscher. "Der zoologische Garten als anderer Raum. Hamburger und Berliner Heterotopien". In _Urbane Tier-Räume_, ed. by Thomas E. Hauck, Stefanie Hennecke, André Krebber, Wiebke Reinert, and Mieke Roscher. Berlin: Dietrich Reimer Verlag, 2017: 112. Direct quotes have been translated into English for clarity’s sake.
 
 [^19]: Press tour of domestic animal exhibition, Pentecost 1937, AZGB O 0/1/15. Direct quotes have been translated into English for clarity’s sake.
 
-[^20]: Artinger, Kai. "Lutz Heck: Der 'Vater der Rominter Ure'. Einige Bemerkungen zum wissenschaftlichen Leiter des Berliner Zoos im Nationalsozialismus". *Der Bär von Berlin – Jahrbuch des Vereins für die Geschichte Berlins* 23 (1994): 125-139. https://www.diegeschichteberlins.de/geschichteberlins/persoenlichkeiten/persoenlichkeitenhn/491-heck.html (24.06.2021). Direct quotes have been translated into English for clarity's sake.
+[^20]: Artinger, Kai. "Lutz Heck: Der 'Vater der Rominter Ure'. Einige Bemerkungen zum wissenschaftlichen Leiter des Berliner Zoos im Nationalsozialismus". _Der Bär von Berlin – Jahrbuch des Vereins für die Geschichte Berlins_ 23 (1994): 125-139. https://www.diegeschichteberlins.de/geschichteberlins/persoenlichkeiten/persoenlichkeitenhn/491-heck.html (24.06.2021). Direct quotes have been translated into English for clarity's sake.
 
-[^21]: Cf., for instance, Heck, Lutz. "Über die Neuzüchtung des Ur oder Auerochs". *Berichte der Internationalen Gesellschaft zur Erhaltung des Wisents* 3, Nr. 4 (1936): 224-294, 235.
+[^21]: Cf., for instance, Heck, Lutz. "Über die Neuzüchtung des Ur oder Auerochs". _Berichte der Internationalen Gesellschaft zur Erhaltung des Wisents_ 3, Nr. 4 (1936): 224-294, 235.
 
 [^22]: Heck, Lutz. *Auf Tiersuche in weiter Welt*. Berlin: Paul Parey, 1941: 195. Direct quotes have been translated into English for clarity's sake.
 
@@ -420,7 +421,7 @@ Zoos are certainly also compatible with other regimes and social systems — eve
 
 Konnte eine beinahe 100 Jahre alte Bildungs- und Freizeiteinrichtung, deren Funktion die Ausstellung lebender Tiere zur Bildung und Unterhaltung war, nationalsozialistischen Zielen dienen? Sind Zoos in ihrer grundsätzlichen Verfasstheit nicht globale Phänomene und offen für alle Bildungssuchenden? Wie zu sehen sein wird, wurde der Berliner Zoo ab 1933 koloniale Bühne und Ort rassistischer Exklusion sowie Instrument nationalsozialistischer Propaganda.
 
-Nachdem Adolf Hitler am 30. Januar 1933 zum Reichskanzler ernannt worden war, versuchte das neue Regime mit aller Macht sämtliche Gesellschaftsbereiche zu durchdringen. Dabei ging es um die Kontrolle im arbeitsrechtlichen, insbesondere aber im kulturellen und propagandistischen Sinn. Davon war auch der besucherstärkste Bildungs- und Freizeitbetrieb Berlins, der Zoologische Garten und sein Aquarium, nicht verschont. Die Anpassung an die Politik der Nationalsozialisten und ihrer lokalen Vertreter, Gauleiter der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP) Joseph Goebbels und der nationalsozialistische preußische Ministerpräsident Hermann Göring, ging im Zoo rasch voran. Das lag vor allem an der Zooleitung und den Mitgliedern des Aufsichtsrats. Die nationalsozialistische Politik wirkte sich auf alle Bereiche des Zoobetriebs aus - die Leitungsebene und das Publikum wurden in die antisemitische Politik einbezogen, der deutsche Angriffs- und Vernichtungskrieg brachte neue Tierquellen, die Ausstellungspraxis und das Programm der ausgestellten Tiere änderten sich, Arbeitsabläufe wurden durch den Krieg verändert. Die Ausbeutung von Zwangsarbeitern wurde auch im Zoo Alltag.
+Nachdem Adolf Hitler am 30. Januar 1933 zum Reichskanzler ernannt worden war, versuchte das neue Regime mit aller Macht sämtliche Gesellschaftsbereiche zu durchdringen. Dabei ging es um die Kontrolle im arbeitsrechtlichen, insbesondere aber im kulturellen und propagandistischen Sinn. Davon war auch der besucherstärkste Bildungs- und Freizeitbetrieb Berlins, der Zoologische Garten und sein Aquarium, nicht verschont. Die Anpassung an die Politik der Nationalsozialisten und ihrer lokalen Vertreter, Gauleiter der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP) Joseph Goebbels und der nationalsozialistische preußische Ministerpräsident Hermann Göring, ging im Zoo rasch voran. Das lag vor allem an der Zooleitung und den Mitgliedern des Aufsichtsrats. Die nationalsozialistische Politik wirkte sich auf alle Bereiche des Zoobetriebs aus – die Leitungsebene und das Publikum wurden in die antisemitische Politik einbezogen, der deutsche Angriffs- und Vernichtungskrieg brachte neue Tierquellen, die Ausstellungspraxis und das Programm der ausgestellten Tiere änderten sich, Arbeitsabläufe wurden durch den Krieg verändert. Die Ausbeutung von Zwangsarbeitern wurde auch im Zoo Alltag.
 
 Wie konnte das geschehen und was waren die bestimmenden Faktoren?
 
@@ -436,11 +437,11 @@ Göring hatte im Januar 1934 im Kreise einiger Forstbeamter seine Pläne für di
 
 <figure>
 
-![Schwarz-weiß Foto: Eingangstor des Berliner Zoos gestützt durch zwei Elefantenskulpturen. Drei Männer stehen vor dem Eingang. Zwei von ihnen tragen Zoouniformen.](images\cmw\elephant-gate-berlin-zoo-1938.jpg)
+![Schwarz-weiß Foto: Eingangstor des Berliner Zoos gestützt durch zwei Elefantenskulpturen. Drei Männer stehen vor dem Eingang. Zwei von ihnen tragen Zoouniformen.](/images/cmw/elephant-gate-berlin-zoo-1938.jpg)
 
 <figcaption>
 
-*Elefantentor genannter Eingang des Berliner Zoos um 1938. (AZGB. Alle Rechte vorbehalten.)*
+_Elefantentor genannter Eingang des Berliner Zoos um 1938. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -452,11 +453,11 @@ Auch die judenfeindliche und rassistische Politik der NSDAP wurde ab 1933 im Zoo
 
 <figure>
 
-![Skizze eines männlichen Porträts](images/cmw/ENTERIMAGEPATHWAY.jpg)
+![Skizze eines männlichen Porträts](/images/cmw/ENTERIMAGEPATHWAY.jpg)
 
 <figcaption>
 
-*Georg Siegmann wurde trotz seiner Verdienste aus dem Aufsichtsrat vertrieben und von den Nationalsozialisten ermordet. (Skizze Filippo Bertoni.)*
+_Georg Siegmann wurde trotz seiner Verdienste aus dem Aufsichtsrat vertrieben und von den Nationalsozialisten ermordet. (Skizze Filippo Bertoni.)_
 
 </figcaption>
 
@@ -466,11 +467,11 @@ Freigewordene Plätze im Aufsichtsrat wurden in diesen Jahren sogleich mit natio
 
 <figure>
 
-![Schwarz-weiß Foto: zehn Männer in Anzügen](images/cmw/Aufsichtsrat_1942.jpg)
+![Schwarz-weiß Foto: zehn Männer in Anzügen](/images/cmw/Aufsichtsrat_1942.jpg)
 
 <figcaption>
 
-*Der Aufsichtsrat der Zoologischer Garten Berlin AG zu Besuch im Zoo, 1942. Lutz Heck (3. v. l.), Eugen Fischer (4. v. l.) und Oskar Heinroth (1. v. r.). (AZGB. Alle Rechte vorbehalten.)*
+_Der Aufsichtsrat der Zoologischer Garten Berlin AG zu Besuch im Zoo, 1942. Lutz Heck (3. v. l.), Eugen Fischer (4. v. l.) und Oskar Heinroth (1. v. r.). (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -480,11 +481,11 @@ Auch die Belegschaft des Zoos war wie die vieler Großbetriebe in Berlin binnen 
 
 <figure>
 
-![Schwarz-weiß Foto: elf Personen mit Streich-, und Zupfinstrumenten, Akkordeons und Schlagzeug. Im Hintergrund zwei große Fahnen mit Hakenkreuzen und ein Gemälde. Auf der Bass Drum ist das Gesicht eines Gorillas abgebildet.](images/cmw/band-1938-Springer.jpg)
+![Schwarz-weiß Foto: elf Personen mit Streich-, und Zupfinstrumenten, Akkordeons und Schlagzeug. Im Hintergrund zwei große Fahnen mit Hakenkreuzen und ein Gemälde. Auf der Bass Drum ist das Gesicht eines Gorillas abgebildet.](/images/cmw/band-1938-Springer.jpg)
 
 <figcaption>
 
-*Die Zoo-Musikkapelle, 1938. (AZGB, Foto Springer. Alle Rechte vorbehalten.)*
+_Die Zoo-Musikkapelle, 1938. (AZGB, Foto Springer. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -496,11 +497,11 @@ Der Zoo florierte finanziell nach der Machtübernahme der Nationalsozialisten. D
 
 <figure>
 
-![Rötliches Papier-Ticket mit Hakenkreuz. Text: Die Deutsche Arbeitsfront NS-Gemeinschaft "Kraft durch Freude" Gau Gross-Berlin; Inhaber dieser Anweisung erhält am Freitag, dem 3., 10., 17., 24., od. 31.7.1936 gegen Nachzahlung von RM 0,40 an den Tageskassen des Zoo eine Eintrittskarte für den "Kraft durch Freude"-Tag im Zoo; Die Anweisung gilt wahlweise auch für das Aquarium (...).](images/cmw/Kdf_Eintrittskarte.jpg)
+![Rötliches Papier-Ticket mit Hakenkreuz. Text: Die Deutsche Arbeitsfront NS-Gemeinschaft "Kraft durch Freude" Gau Gross-Berlin; Inhaber dieser Anweisung erhält am Freitag, dem 3., 10., 17., 24., od. 31.7.1936 gegen Nachzahlung von RM 0,40 an den Tageskassen des Zoo eine Eintrittskarte für den "Kraft durch Freude"-Tag im Zoo; Die Anweisung gilt wahlweise auch für das Aquarium (...).](/images/cmw/Kdf_Eintrittskarte.jpg)
 
 <figcaption>
 
-*Eintrittskarte für den "Kraft durch Freude"-Tag im Zoo, 1936. (AZGB. Alle Rechte vorbehalten.)*
+_Eintrittskarte für den "Kraft durch Freude"-Tag im Zoo, 1936. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -514,11 +515,11 @@ Im August 1935 wurde dem Zoo schließlich auf Initiative des Preußischen Minist
 
 <figure>
 
-![Schwarz-weiß Foto: Nachbau eines Bauernhauses mit Reetdach](images/cmw/farmhouse-1937.jpg)
+![Schwarz-weiß Foto: Nachbau eines Bauernhauses mit Reetdach](/images/cmw/farmhouse-1937.jpg)
 
 <figcaption>
 
-*"Niedersächsisches Bauernhaus mit Stall" im Zoo, 1937. (AZGB. Alle Rechte vorbehalten.)*
+_"Niedersächsisches Bauernhaus mit Stall" im Zoo, 1937. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -528,11 +529,11 @@ Im bislang streng nach taxonomischen Gesichtspunkten geordneten Zoo, siehe dazu 
 
 <figure>
 
-![Schwarz-weiß Foto: Rind auf sandigem Boden, mit Mauer und Holzbau im Hintergrund. Das Fell ist am Rücken kürzer, an Beinen, Kopf und Schwanz zottelig. Die Hörner wachsen horizontal, sind nur an den Spitzen leicht nach oben-vorne geschwungen.](images/cmw/aurox.jpg)
+![Schwarz-weiß Foto: Rind auf sandigem Boden, mit Mauer und Holzbau im Hintergrund. Das Fell ist am Rücken kürzer, an Beinen, Kopf und Schwanz zottelig. Die Hörner wachsen horizontal, sind nur an den Spitzen leicht nach oben-vorne geschwungen.](/images/cmw/aurox.jpg)
 
 <figcaption>
 
-*Eines der Rinder, die aus den Rückzüchtungen Lutz Hecks hervorgingen, um 1930. (AZGB. Alle Rechte vorbehalten.)*
+_Eines der Rinder, die aus den Rückzüchtungen Lutz Hecks hervorgingen, um 1930. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -540,7 +541,7 @@ Im bislang streng nach taxonomischen Gesichtspunkten geordneten Zoo, siehe dazu 
 
 Ziel war es, ein deutsches Urtier zu erschaffen, das "als echtes Symbol deutscher Kraft und deutschen Mutes" gelten sollte.[^22] Er verwies in seinen Veröffentlichungen immer wieder auf das Nibelungenlied, in dem auch Siegfrieds Jagd auf Auerochsen besungen wird.[^23] Doch die Brüder Heck scheiterten. Es fehlte ihnen an genetischem Material, so dass sie lediglich eine sogenannte Abbildzüchtung erreichten, in der die äußerlichen Merkmale einer Tierart näherungsweise reproduziert werden. Der Versuch galt bei vielen ihrer Kollegen schon damals als unwissenschaftlich und so ist es auch heute noch. **Propagandistisch konnte Lutz Heck seine "Auerochsen" jedoch nicht zuletzt dazu nutzen, um sogar mit Rindern nationalsozialistische Ideen zu bedienen.**
 
-Die Angleichung an die nationalsozialistische Propaganda lohnte sich für Lutz Heck. Am 1. Mai 1937, gleich nach Aufhebung des Aufnahmestopps von 1933, wurde Lutz Heck Mitglied der NSDAP.[^24] Das war nur für die Anwärter*innen möglich, die sich trotz fehlender Mitgliedschaft um die Partei verdient gemacht hatten. Im Sommer 1938 ernannte ihn Reichsforstmeister Göring zudem zum Leiter der Obersten Naturschutzbehörde.[^25]
+Die Angleichung an die nationalsozialistische Propaganda lohnte sich für Lutz Heck. Am 1. Mai 1937, gleich nach Aufhebung des Aufnahmestopps von 1933, wurde Lutz Heck Mitglied der NSDAP.[^24] Das war nur für die Anwärter:innen möglich, die sich trotz fehlender Mitgliedschaft um die Partei verdient gemacht hatten. Im Sommer 1938 ernannte ihn Reichsforstmeister Göring zudem zum Leiter der Obersten Naturschutzbehörde.[^25]
 
 ## Jüdische Aktionär:innen und Besucher:innen
 
@@ -568,11 +569,11 @@ Für die Besucher:innen und Mitarbeiter:innen wurde am Eingang Elefantentor in d
 
 <figure>
 
-![Bunter Lageplan. Gehege, Seen, Gebäude, Anlagen, zwei Luftschutzräume, Eingänge und umliegende Straßen sind verzeichnet. Titel: Zoologischer Garten Berlin.](images/cmw/Zooplan_1943_0001.jpg)
+![Bunter Lageplan. Gehege, Seen, Gebäude, Anlagen, zwei Luftschutzräume, Eingänge und umliegende Straßen sind verzeichnet. Titel: Zoologischer Garten Berlin.](/images/cmw/Zooplan_1943_0001.jpg)
 
 <figcaption>
 
-*Lageplan des Zoos um 1940. Am südlichen Eingang Budapester Straße, auch am Elefantentor sowie nordwestlich des Zoos sind die Luftschutzanlagen eingezeichnet. (AZGB. Alle Rechte vorbehalten.)*
+_Lageplan des Zoos um 1940. Am südlichen Eingang Budapester Straße, auch am Elefantentor sowie nordwestlich des Zoos sind die Luftschutzanlagen eingezeichnet. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -582,11 +583,11 @@ Der 1938 fertiggestellte neue Steinbockfelsen war von vornherein so gebaut worde
 
 <figure>
 
-![Schwarz-weiß Foto: Hoher Steinfelsen mit Holzhütte und vier Steinböcken. Zaun und Bäume im Vordergrund.](images/cmw/Steinbockfelsen_um_1940.jpg)
+![Schwarz-weiß Foto: Hoher Steinfelsen mit Holzhütte und vier Steinböcken. Zaun und Bäume im Vordergrund.](/images/cmw/Steinbockfelsen_um_1940.jpg)
 
 <figcaption>
 
-*Unter dem 1938 errichteten Steinbockfelsen war ein Luftschutzraum für 150 Menschen geplant. (AZGB. Alle Rechte vorbehalten.)*
+_Unter dem 1938 errichteten Steinbockfelsen war ein Luftschutzraum für 150 Menschen geplant. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -598,11 +599,11 @@ Vielen Zoos in den von Deutschland eroberten Ländern erging es anders als dem g
 
 <figure>
 
-![Druck in Frakturschrift: … Ferner wurden eine Anzahl Tiere des Zoologischen Gartens Warschau zu treuen Händen eingestellt, nämlich: 1 indischer Elefant, 1 Wisent, 1 Verdrängungszuchtwisent, 1 Wildpferd, 1 Weißschwanzgnu, 1 Hartmannzebra, 3 Kamele, 1 Strauß, 4 Luchse, 7 Stachelschweine, 1 Lama, 2 Shetland-Ponies, 2 Flamingos, 2 Pelikane, 1 schwarzer Schwan.](images/cmw/Beute_Warschau_GB.jpg)
+![Druck in Frakturschrift: … Ferner wurden eine Anzahl Tiere des Zoologischen Gartens Warschau zu treuen Händen eingestellt, nämlich: 1 indischer Elefant, 1 Wisent, 1 Verdrängungszuchtwisent, 1 Wildpferd, 1 Weißschwanzgnu, 1 Hartmannzebra, 3 Kamele, 1 Strauß, 4 Luchse, 7 Stachelschweine, 1 Lama, 2 Shetland-Ponies, 2 Flamingos, 2 Pelikane, 1 schwarzer Schwan.](/images/cmw/Beute_Warschau_GB.jpg)
 
 <figcaption>
 
-*Auszug aus dem Geschäftsbericht für 1939. (AZGB. Alle Rechte vorbehalten.)*
+_Auszug aus dem Geschäftsbericht für 1939. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -612,11 +613,11 @@ Auch aus anderen Quellen erhielt der Zoo ab 1939 Kriegsbeute. Von der SS (Schutz
 
 <figure>
 
-![Druck in Frakturschrift: … Wir erhielten an wertvollen Geschenken von der Wehrmacht: 1 Wildziege, 1 Dachs und 1 Gänsegeier von der Insel Kreta durch den General der Flieger Andrae, aus der Gegend von Smolensk 13 Marderhunde und von einem Transportgeschwader 1 Karpathenbär. Vom Forstamt Nieswicz wurden uns 2 Wölfe und 1 Kolkrabe überbracht. Außerdem überließ uns die Wehrmacht Rehe, Waschbären, verschiedene Affen, Raubvögel und Hauspfauen. Aus privater Hand wurden uns 1 Weißohräffchen, Burunduks und einige Papageien überlassen.](images/cmw/Kriegsbeute_GB.jpg)
+![Druck in Frakturschrift: … Wir erhielten an wertvollen Geschenken von der Wehrmacht: 1 Wildziege, 1 Dachs und 1 Gänsegeier von der Insel Kreta durch den General der Flieger Andrae, aus der Gegend von Smolensk 13 Marderhunde und von einem Transportgeschwader 1 Karpathenbär. Vom Forstamt Nieswicz wurden uns 2 Wölfe und 1 Kolkrabe überbracht. Außerdem überließ uns die Wehrmacht Rehe, Waschbären, verschiedene Affen, Raubvögel und Hauspfauen. Aus privater Hand wurden uns 1 Weißohräffchen, Burunduks und einige Papageien überlassen.](/images/cmw/Kriegsbeute_GB.jpg)
 
 <figcaption>
 
-*Auszug aus dem Geschäftsbericht für 1942. (AZGB. Alle Rechte vorbehalten.)*
+_Auszug aus dem Geschäftsbericht für 1942. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -626,11 +627,11 @@ Die Behörde des inzwischen zum Leiter der Naturschutzabteilung im Reichsforstam
 
 <figure>
 
-![Schwarz-weiß Foto: Mann in Anzug und Hut (li.) sowie Mann in nationalsozialistischer Uniform (re.) stehen lächelnd vor einem geparkten Auto.](images/cmw/Heck_Auto_1939.jpg)
+![Schwarz-weiß Foto: Mann in Anzug und Hut (li.) sowie Mann in nationalsozialistischer Uniform (re.) stehen lächelnd vor einem geparkten Auto.](/images/cmw/Heck_Auto_1939.jpg)
 
 <figcaption>
 
-*Lutz Heck (li.) und wahrscheinlich sein Fahrer vor dem Dienstwagen des Reichsjagdamtes, 1939. (AZGB. Alle Rechte vorbehalten.)*
+_Lutz Heck (li.) und wahrscheinlich sein Fahrer vor dem Dienstwagen des Reichsjagdamtes, 1939. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -642,11 +643,11 @@ Auch an anderer Stelle profitierte der Zoo von den Netzwerken des Direktors und 
 
 <figure>
 
-![Schwarz-weiß Foto: Zwei Männer in Mantel und Hut, umgeben von Familien mit Kindern sowie Personen in nationalsozialistischen Uniformen. Backsteinmauer mit Fensterbögen im Hintergrund.](images/cmw/Göring_March_1942_Zoo_Heck.jpg)
+![Schwarz-weiß Foto: Zwei Männer in Mantel und Hut, umgeben von Familien mit Kindern sowie Personen in nationalsozialistischen Uniformen. Backsteinmauer mit Fensterbögen im Hintergrund.](/images/cmw/Göring_March_1942_Zoo_Heck.jpg)
 
 <figcaption>
 
-*Hermann Göring (Bildmitte, heller Mantel) besucht 1942 den Berliner Zoo und spricht mit Lutz Heck (Bildmitte, dunkler Mantel). (AZGB. Alle Rechte vorbehalten.)*
+_Hermann Göring (Bildmitte, heller Mantel) besucht 1942 den Berliner Zoo und spricht mit Lutz Heck (Bildmitte, dunkler Mantel). (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -660,11 +661,11 @@ In der Nacht auf den 23. November 1943 wurde der Zoo dann durch einen alliierten
 
 <figure>
 
-![Gelochtes schreibmaschinengeschriebenes Blatt mit zwei Spalten: tot; noch vorhanden. Mittig handschriftliche Notiz: 30%+. Für Transkript, siehe Link in Bildunterschrift.](images/cmw/Liste_tote_Tiere_1943.jpg)
+![Gelochtes schreibmaschinengeschriebenes Blatt mit zwei Spalten: tot; noch vorhanden. Mittig handschriftliche Notiz: 30%+. Für Transkript, siehe Link in Bildunterschrift.](/images/cmw/Liste_tote_Tiere_1943.jpg)
 
 <figcaption>
 
-*[[material.list-of-dead-zoo-animals]], 1943. (AZGB. Alle Rechte vorbehalten.)*
+_[[material.list-of-dead-zoo-animals]], 1943. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -674,11 +675,11 @@ In der folgenden Nacht wurde das Aquarium zerstört. Eine Bombe schlug mitten in
 
 <figure>
 
-![Schwarz-weiß Foto: Stein- und Metalltrümmer sowie Zäune und Absperrungen neben massiven Säulen.](images/cmw/Ruine_Elefantenhaus_Heck.jpg)
+![Schwarz-weiß Foto: Stein- und Metalltrümmer sowie Zäune und Absperrungen neben massiven Säulen.](/images/cmw/Ruine_Elefantenhaus_Heck.jpg)
 
 <figcaption>
 
-*Inneres des zerstörten Elefantenhauses, in dem sieben Elefanten starben, 1943. (AZGB. Alle Rechte vorbehalten.)*
+_Inneres des zerstörten Elefantenhauses, in dem sieben Elefanten starben, 1943. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -690,11 +691,11 @@ Am 22. April 1945 war aber endgültig Schluss. Alle männlichen Mitarbeiter wurd
 
 <figure>
 
-![Schwarz-weiß Foto: Ein Löwenpaar liegt unter freiem Himmel auf Steinfelsen vor einer kaputten Fassade.](images/cmw/Loewin_Ruine_Aqua_S_60.jpg)
+![Schwarz-weiß Foto: Ein Löwenpaar liegt unter freiem Himmel auf Steinfelsen vor einer kaputten Fassade.](/images/cmw/Loewin_Ruine_Aqua_S_60.jpg)
 
 <figcaption>
 
-*Die überlebenden Löwen des Zoos liegen vor der Kulisse des zerstörten Aquariums in ihrem Freigehege, 1945. (AZGB. Alle Rechte vorbehalten.)*
+_Die überlebenden Löwen des Zoos liegen vor der Kulisse des zerstörten Aquariums in ihrem Freigehege, 1945. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
