@@ -7,7 +7,7 @@ short_desc_de: Auf den Spuren eines Elefanten
 date_end: 1947-12-31T11:00:00.000Z
 published: false
 title: The Afterlife of Zoo Animals
-updated: 1640297313517
+updated: 1640460138469
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 translators:
   translator_de_en: Carla Welch
@@ -200,9 +200,9 @@ Eine der Spuren f체hrt in das Zoologische Museum Berlin, das Teil des Museums f�
 
 <div class="series">
 
-![Regal mit drei Brettern, auf denen mehrere Elefantensch채del lagern.](/images/mv/elephant-skulls-mammal-collection.png)
+![Regal mit drei Brettern, auf denen mehrere Elefantensch채del lagern.](/images/mv/elephant-skulls-mammal-collection-shelves.png)
 
-![Offene Holzkiste auf einem Tisch, in der l채ngliche Knochen liegen. Neben dem Tisch steht ein Stuhl, im Hintergrund h채ngen Geweihe.](/images/mv/box-with-bones-mammal-collection.png)
+![Offene Holzkiste auf einem Tisch, in der l채ngliche Knochen liegen. Neben dem Tisch steht ein Stuhl, im Hintergrund h채ngen Geweihe.](/images/mv/bones-mammal-collection.png)
 
 </div>
 
