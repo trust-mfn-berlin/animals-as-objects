@@ -7,7 +7,7 @@ short_desc_de: Foto von Katharina Heinroth auf der morgendlichen Runde durch den
 date_end: 1955-12-31T11:00:00.000Z
 published: false
 title: Katharina Heinroth
-updated: 1639595256688
+updated: 1640461010870
 id: f2e04dbc-1209-40b6-baf5-599fd36e63c7
 translators:
   translator_de_en: Carla Welch
@@ -31,7 +31,7 @@ date_start: 1944-12-31T23:00:00.000Z
 
 <figure>
 
-![Black and white photograph: Four men, a woman, and a dog standing next to a woven basket, in front of partially destroyed buildings.](images/cmw/Heinroth_Morgenrunde_1946_LiselotteOrgel_S_3_63.jpg)
+![Black and white photograph: Four men, a woman, and a dog standing next to a woven basket, in front of partially destroyed buildings.](/images/cmw/Heinroth_Morgenrunde_1946_LiselotteOrgel_S_3_63.jpg)
 
 <figcaption>
 
@@ -51,7 +51,7 @@ After zoo director Lutz Heck fled Berlin at the end of May 1945, Katharina Heinr
 
 <figure>
 
-![Schwarz-weiß Foto: Vier Männer, eine Frau und ein Hund stehen neben einem geflochtenen Korb, vor teilweise zerstörten Hausfassaden.](images/cmw/Heinroth_Morgenrunde_1946_LiselotteOrgel_S_3_63.jpg)
+![Schwarz-weiß Foto: Vier Männer, eine Frau und ein Hund stehen neben einem geflochtenen Korb, vor teilweise zerstörten Hausfassaden.](/images/cmw/Heinroth_Morgenrunde_1946_LiselotteOrgel_S_3_63.jpg)
 
 <figcaption>
 
