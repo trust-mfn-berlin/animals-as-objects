@@ -7,7 +7,7 @@ short_desc_de: Übersicht der Berliner Zoobestände seit 1888
 date_end: 2021-06-30T12:21:00.358Z
 published: false
 title: Journale – The Zoo Directory
-updated: 1639749754463
+updated: 1640462701779
 id: 4a663958-cb98-4cdd-967d-9b277f45cdc4
 translators:
   translator_de_en: Carla Welch
@@ -32,9 +32,9 @@ date_start: 1887-12-31T23:06:32.000Z
 
 <div class="series">
 
-![Left-hand page from handwritten journal with heading: Change in animal stocks. Columns on left-hand side: Animal species, Stocks, Purchased, Purchase price, Born.](images/cmw/Journal_1936_l.jpg)
+![Left-hand page from handwritten journal with heading: Change in animal stocks. Columns on left-hand side: Animal species, Stocks, Purchased, Purchase price, Born.](/images/cmw/Journal_1936_l.jpg)
 
-![Right-hand page from handwritten journal with heading: Change in animal stocks. Columns on right-hand side: Gifted, Died, Sold, Stocks, Inventory value. ](images/cmw/Journal_1936_r.jpg)
+![Right-hand page from handwritten journal with heading: Change in animal stocks. Columns on right-hand side: Gifted, Died, Sold, Stocks, Inventory value. ](/images/cmw/Journal_1936_r.jpg)
 
 </div>
 
@@ -58,9 +58,9 @@ It was only in around 1925 that the journals began to include information on the
 
 <div class="series">
 
-![Linke Seite aus handschriftlich geführtem Journal mit Überschrift: Veränderung im Tierbestande. Spalten auf linker Seite: Tierart, Bestand, Gekauft, Kaufpreis, Geboren.](images/cmw/Journal_1936_l.jpg)
+![Linke Seite aus handschriftlich geführtem Journal mit Überschrift: Veränderung im Tierbestande. Spalten auf linker Seite: Tierart, Bestand, Gekauft, Kaufpreis, Geboren.](/images/cmw/Journal_1936_l.jpg)
 
-![Rechte Seite aus handschriftlich geführtem Journal mit der Überschrift: Veränderung im Tierbestande. Spalten auf rechter Seite: Geschenkt, Gestorben, Verkauft, Bestand, Inventur-Wert.](images/cmw/Journal_1936_r.jpg)
+![Rechte Seite aus handschriftlich geführtem Journal mit der Überschrift: Veränderung im Tierbestande. Spalten auf rechter Seite: Geschenkt, Gestorben, Verkauft, Bestand, Inventur-Wert.](/images/cmw/Journal_1936_r.jpg)
 
 </div>
 
