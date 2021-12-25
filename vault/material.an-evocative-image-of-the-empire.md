@@ -1,17 +1,24 @@
 ---
-id: ZDxo1U9ptEVRJhmFpVKyC
-title: An Evocative Image of the Empire
-desc: Put a description of this note here...
-updated: 1640457968722
-created: 1640456876442
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
-published: false
+title: An "Atmospheric Image” of the Empire
+title_de: Ein „stimmungsvolles Bild“ des Kolonialreichs
+created: 1640456876442
+updated: 1640457968722
+id: ZDxo1U9ptEVRJhmFpVKyC
+author: Catarina Madruga
+translators:
+  translator_en_de: Jan-Peter Herrmann
+desc: Displaying wild animals as colonial appropriation
+desc_de: Die Zurschaustellung wilder Tiere als koloniale Aneignung
+short_desc: Displaying wild animals as colonial appropriation
+short_desc_de: Die Zurschaustellung wilder Tiere als koloniale Aneignung
+cover_image:
+  image: /images/an-evocative-image_1.jpg
 colour_scheme: 11
+tao_type: material
+date_start: 1903-01-01T19:37:39.000Z
+date_end: 1903-12-25T19:37:39.000Z
+published: false
 ---
 
 :::EN:::
