@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding Prohibited
 title_de: Füttern Verboten
 created: 1620752897039
-updated: 1639749864618
+updated: 1640472421417
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 author: Mareike Vennen
 translators:
@@ -34,7 +34,7 @@ In 1960, Berlin Zoo's elephant cow "Jambo" fell ill due to overfeeding by visito
 
 <figure>
 
-![Newspaper cutting. Title above: Feeding prohibited at the zoo from today. Title below: These "Illiterates" continue to feed the animals, despite the zoo’s ban — elephant cow's condition worsens. Photograph: Front view of an elephant with "don't feed me" written in white on its forehead.](images/mv/feeding-prohibited-elephant.jpg)
+![Newspaper cutting. Title above: Feeding prohibited at the zoo from today. Title below: These "Illiterates" continue to feed the animals, despite the zoo’s ban — elephant cow's condition worsens. Photograph: Front view of an elephant with "don't feed me" written in white on its forehead.](/images/mv/feeding-prohibited-elephant.jpg)
 
 <figcaption>
 
@@ -52,7 +52,7 @@ Discussions about visitor feeding and partial bans in zoological gardens had bee
 
 <figure>
 
-![Newspaper clipping. Illustration of prohibition signs: Visitors, animal lovers, please do not feed sweets to the animals; Sweets make us sick; Please do not feed us sweets; Real animal lovers don’t feed the animals; Dear visiting animal lovers (not legible).](images/mv/8UhrBlattVerbotsschilerJPG.jpg)
+![Newspaper clipping. Illustration of prohibition signs: Visitors, animal lovers, please do not feed sweets to the animals; Sweets make us sick; Please do not feed us sweets; Real animal lovers don’t feed the animals; Dear visiting animal lovers (not legible).](/images/mv/8UhrBlattVerbotsschilerJPG.jpg)
 
 <figcaption>
 
@@ -68,7 +68,7 @@ At first, the zoo hoped partial bans would be enough.
 
 <figure>
 
-![Giraffe enclosure with "Please do not feed" sign and metal barrier. A giraffe bends its head over the fence of the enclosure toward the visitors](images/mv/Giraffe_Fuetterverbot_1954_OttmarKraenzlein.jpg)
+![Giraffe enclosure with "Please do not feed" sign and metal barrier. A giraffe bends its head over the fence of the enclosure toward the visitors](/images/mv/Giraffe_Fuetterverbot_1954_OttmarKraenzlein.jpg)
 
 <figcaption>
 
@@ -92,7 +92,7 @@ Increasing visitor numbers were not the only consideration being invoked. To ful
 
 <figure>
 
-![Page 9 of an outdated zoo guide. Headings: Getting to the Zoo; Visiting Hours; Feeding Times. Large red stamp in the lower third of the brochure, right across the "Allgemeine Richtlinien für die Fütterung der Tiere durch die Besucher": Attention! From now on, feeding all animals is prohibited!](images/mv/FuetternStempel1960WegweiserAusschnittJPG.jpg)
+![Page 9 of an outdated zoo guide. Headings: Getting to the Zoo; Visiting Hours; Feeding Times. Large red stamp in the lower third of the brochure, right across the "Allgemeine Richtlinien für die Fütterung der Tiere durch die Besucher": Attention! From now on, feeding all animals is prohibited!](/images/mv/FuetternStempel1960WegweiserAusschnittJPG.jpg)
 
 <figcaption>
 
@@ -106,7 +106,7 @@ After the decision was made to prohibit visitors from feeding the animals, the o
 
 <figure>
 
-![Black and white photograph: Elephant hanging its trunk in the ditch between enclosure and barrier. Sign at the elephant enclosure: All feeding of our animals is prohibited!](images/mv/BZ26071969AusschnittJPG.jpg)
+![Black and white photograph: Elephant hanging its trunk in the ditch between enclosure and barrier. Sign at the elephant enclosure: All feeding of our animals is prohibited!](/images/mv/BZ26071969AusschnittJPG.jpg)
 
 <figcaption>
 
@@ -118,7 +118,7 @@ _Sign prohibiting feeding at the Zoological Garden Berlin, 1969. (AZGB. All righ
 
 <figure>
 
-![Black and white photograph: Emu hanging its neck and head through the enclosure bars and grabbing a sheet of paper, held by a visitor, with its beak. The emu's head hangs over the sign prohibiting feeding, which says: All feeding of our (...covered by the emu's head...)s is prohibited!](images/mv/HinweisschildEmus1980.jpg)
+![Black and white photograph: Emu hanging its neck and head through the enclosure bars and grabbing a sheet of paper, held by a visitor, with its beak. The emu's head hangs over the sign prohibiting feeding, which says: All feeding of our (...covered by the emu's head...)s is prohibited!](/images/mv/HinweisschildEmus1980.jpg)
 
 <figcaption>
 
@@ -148,7 +148,7 @@ The zoo also invoked people’s love of animals when it made a "special request"
 
 <figure>
 
-![Page 8 from an old zoo guide. Text: Which animals visitors are allowed to feed, and with what. [...] Please do not give the animals any spoiled food; it is  extremely harmful! The same applies to unripe fruit. Please do not give the animals sugar or sweets; almost all animals like them, but if each visitor gives them just a little bit of sugar, it will amount to so much that the animals will become ill. Many zoo animals have died in this way. Do not feed: Predators (large or small), apes, seals, penguins, birds of prey and owls, antelopes and giraffes, some deer species, or ostriches. Framed at the very bottom is the aforementioned "special request".](images\mv\FuetterregelnWegweiser1956AusschnittJPG.jpg)
+![Page 8 from an old zoo guide. Text: Which animals visitors are allowed to feed, and with what. [...] Please do not give the animals any spoiled food; it is  extremely harmful! The same applies to unripe fruit. Please do not give the animals sugar or sweets; almost all animals like them, but if each visitor gives them just a little bit of sugar, it will amount to so much that the animals will become ill. Many zoo animals have died in this way. Do not feed: Predators (large or small), apes, seals, penguins, birds of prey and owls, antelopes and giraffes, some deer species, or ostriches. Framed at the very bottom is the aforementioned "special request".](/images/mv/FuetterregelnWegweiser1956AusschnittJPG.jpg)
 
 <figcaption>
 
@@ -174,7 +174,7 @@ The architecture of the enclosures did indeed play an important role in the rela
 
 <figcaption>
 
-![Black-and-white photograph: A crowd of children stands at the edge of the hippopotamus pool, looking at the animal. A boy in the front row throws something into the hippo's open mouth.](images/mv/woche-im-bild-feeding-hippos.jpg)
+![Black-and-white photograph: A crowd of children stands at the edge of the hippopotamus pool, looking at the animal. A boy in the front row throws something into the hippo's open mouth.](/images/mv/woche-im-bild-feeding-hippos.jpg)
 
 _The cover picture of_ Die Woche im Bild _shows the hippopotamus pool, illustrating that feeding the animals had been one of the zoo's main attractions for a long time, supported by architecture that allowed people to get close to the animals, 07.08.1930._
 
@@ -186,7 +186,7 @@ By the end of the 1950s, this was no longer an option. The food brought in by vi
 
 <figure>
 
-![Newspaper clipping. Text: Yesterday, Berliners brought white bread and treats for their favorite animals and dropped them off with keeper Tutzschke. Photo: A zookeeper with a large basket stands in the trench of the elephant enclosure, while one of the visitors throws a loaf of bread into the basket from behind the railing.](images/mv/BildZeitung02041960FutterAbgeben.jpg)
+![Newspaper clipping. Text: Yesterday, Berliners brought white bread and treats for their favorite animals and dropped them off with keeper Tutzschke. Photo: A zookeeper with a large basket stands in the trench of the elephant enclosure, while one of the visitors throws a loaf of bread into the basket from behind the railing.](/images/mv/BildZeitung02041960FutterAbgeben.jpg)
 
 <figcaption>
 
@@ -276,7 +276,7 @@ Although zoo directors had been discussing the issue for some time, at the 40th 
 
 <figure>
 
-![Zeitungsschnitt. Titel oben: Füttern im Zoo von heute an verboten. Titel unten: "Analphabeten" füttern weiter, trotz des Verbotes im Zoo – Zustand der Elefantenkuh verschlimmert. Foto: Elefant von vorne, mit "mich nicht füttern" in weiß auf die Stirn geschrieben.](images/mv/feeding-prohibited-elephant.jpg)
+![Zeitungsschnitt. Titel oben: Füttern im Zoo von heute an verboten. Titel unten: "Analphabeten" füttern weiter, trotz des Verbotes im Zoo – Zustand der Elefantenkuh verschlimmert. Foto: Elefant von vorne, mit "mich nicht füttern" in weiß auf die Stirn geschrieben.](/images/mv/feeding-prohibited-elephant.jpg)
 
 <figcaption>
 
@@ -294,7 +294,7 @@ Diskussionen über die Fütterung durch Besucher:innen und Teilverbote in zoolog
 
 <figure>
 
-![Zeitungsausschnitt. Abbildung von Verbotsschildern: Besucher, Tierfreunde, bitte keine Süßigkeiten an die Tiere verfüttern; Mit Süßigkeiten macht ihr uns krank; Bitte keine Süßigkeiten verfüttern; Der wahre Tierfreund füttert nicht; Liebe Besucher Tierfreunde (nicht lesbar).](images/mv/8UhrBlattVerbotsschilerJPG.jpg)
+![Zeitungsausschnitt. Abbildung von Verbotsschildern: Besucher, Tierfreunde, bitte keine Süßigkeiten an die Tiere verfüttern; Mit Süßigkeiten macht ihr uns krank; Bitte keine Süßigkeiten verfüttern; Der wahre Tierfreund füttert nicht; Liebe Besucher Tierfreunde (nicht lesbar).](/images/mv/8UhrBlattVerbotsschilerJPG.jpg)
 
 <figcaption>
 
@@ -310,7 +310,7 @@ Zunächst hoffte der Zoo, mit Teilverboten auszukommen.
 
 <figure>
 
-![Giraffenanlage mit Schild "Bitte nicht füttern" und Metallbarriere. Eine Giraffe neigt den Kopf über das Gitter des Geheges zu den Besucher:innen](images/mv/Giraffe_Fuetterverbot_1954_OttmarKraenzlein.jpg)
+![Giraffenanlage mit Schild "Bitte nicht füttern" und Metallbarriere. Eine Giraffe neigt den Kopf über das Gitter des Geheges zu den Besucher:innen](/images/mv/Giraffe_Fuetterverbot_1954_OttmarKraenzlein.jpg)
 
 <figcaption>
 
@@ -334,7 +334,7 @@ Nicht nur steigende Besuchszahlen wurden hier ins Feld geführt. Es ging auch um
 
 <figure>
 
-![Seite 9 eines veralteten Zooführers. Überschriften: Verkehrsmittel zum Zoo; Besuchszeit; Fütterungszeiten. Großer, roter Stempelaufdruck im unteren Drittel, quer über den "Allgemeinen Richtlinien für die Fütterung der Tiere durch die Besucher": Achtung! Ab sofort ist das Füttern sämtlicher Tiere verboten!](images/mv/FuetternStempel1960WegweiserAusschnittJPG.jpg)
+![Seite 9 eines veralteten Zooführers. Überschriften: Verkehrsmittel zum Zoo; Besuchszeit; Fütterungszeiten. Großer, roter Stempelaufdruck im unteren Drittel, quer über den "Allgemeinen Richtlinien für die Fütterung der Tiere durch die Besucher": Achtung! Ab sofort ist das Füttern sämtlicher Tiere verboten!](/images/mv/FuetternStempel1960WegweiserAusschnittJPG.jpg)
 
 <figcaption>
 
@@ -348,7 +348,7 @@ Im Zooführer von 1960 wurde nach dem Beschluss des Verbots den nun veralteten F
 
 <figure>
 
-![Schwarz-weiß Foto: Elefant, der seinen Rüssel in den Graben zwischen Gehege und Absperrung hängen lässt. Schild am Elefantengehege: Jedes Füttern unserer Tiere ist verboten!](images/mv/BZ26071969AusschnittJPG.jpg)
+![Schwarz-weiß Foto: Elefant, der seinen Rüssel in den Graben zwischen Gehege und Absperrung hängen lässt. Schild am Elefantengehege: Jedes Füttern unserer Tiere ist verboten!](/images/mv/BZ26071969AusschnittJPG.jpg)
 
 <figcaption>
 
@@ -360,7 +360,7 @@ _Fütterungsverbotsschild im Zoologischen Garten Berlin 1969. (AZGB. Alle Rechte
 
 <figure>
 
-![Schwarz-weiß Foto: Emu lässt Hals und Kopf durch die Gitterstäbe hängen und beißt mit dem Schnabel in ein Blatt Papier, das ein Mensch in der Hand hält. Der Emukopf hängt über das Verbotsschild, mit Text: Jedes Füttern unsere(…vom Emukopf verdeckt…)e ist verboten!](images/mv/HinweisschildEmus1980.jpg)
+![Schwarz-weiß Foto: Emu lässt Hals und Kopf durch die Gitterstäbe hängen und beißt mit dem Schnabel in ein Blatt Papier, das ein Mensch in der Hand hält. Der Emukopf hängt über das Verbotsschild, mit Text: Jedes Füttern unsere(…vom Emukopf verdeckt…)e ist verboten!](/images/mv/HinweisschildEmus1980.jpg)
 
 <figcaption>
 
@@ -389,7 +389,7 @@ Auf die "Tierliebe" berief sich der Zoo zudem, wenn er seine Besucher:innen mit 
 
 <figure>
 
-![Seite 8 aus einem alten Zooführer. Text: Wen und womit dürfen die Besucher füttern. (...) Bitte keine verdorbenen Nahrungsmittel füttern, sie sind unbedingt schädlich! Ebenso unreifes Obst. Bitte keinen Zucker und keine Süßigkeiten füttern; fast alle Tiere nehmen sie zwar gern, aber wenn jeder Besucher nur ein Stückchen Zucker gibt, kommt bei großer Besucherzahl so viel zusammen, daß die Tiere krank werden. Schon mancher Verlust wurde uns auf diese Weise zugefügt. Nicht gefüttert werden dürfen: Große und kleine Raubtiere, Menschenaffen, Robben, Pinguine, Raubvögel und Eulen, Antilopen und Giraffen, manche Hirscharten und Strauße. Ganz unten steht mit Einrahmung die erwähnte "besondere Bitte".](images\mv\FuetterregelnWegweiser1956AusschnittJPG.jpg)
+![Seite 8 aus einem alten Zooführer. Text: Wen und womit dürfen die Besucher füttern. (...) Bitte keine verdorbenen Nahrungsmittel füttern, sie sind unbedingt schädlich! Ebenso unreifes Obst. Bitte keinen Zucker und keine Süßigkeiten füttern; fast alle Tiere nehmen sie zwar gern, aber wenn jeder Besucher nur ein Stückchen Zucker gibt, kommt bei großer Besucherzahl so viel zusammen, daß die Tiere krank werden. Schon mancher Verlust wurde uns auf diese Weise zugefügt. Nicht gefüttert werden dürfen: Große und kleine Raubtiere, Menschenaffen, Robben, Pinguine, Raubvögel und Eulen, Antilopen und Giraffen, manche Hirscharten und Strauße. Ganz unten steht mit Einrahmung die erwähnte "besondere Bitte".](/images/mv/FuetterregelnWegweiser1956AusschnittJPG.jpg)
 
 <figcaption>
 
@@ -413,7 +413,7 @@ In der Tat spielte die Architektur der Gehege eine wichtige Rolle für das Verh�
 
 <figure>
 
-![Schwarz-weiß Foto: Eine Schar Kinder steht am Rande des Nilpferdbeckens und blickt auf das Tier, dem ein Junge in der vorderen Reihe etwas ins aufgerissene Maul wirft.](images/mv/woche-im-bild-feeding-hippos.jpg)
+![Schwarz-weiß Foto: Eine Schar Kinder steht am Rande des Nilpferdbeckens und blickt auf das Tier, dem ein Junge in der vorderen Reihe etwas ins aufgerissene Maul wirft.](/images/mv/woche-im-bild-feeding-hippos.jpg)
 
 <figcaption>
 
@@ -427,7 +427,7 @@ Ende der 1950er Jahre kam das nicht mehr in Frage. Bei den Elefanten wurden die 
 
 <figure>
 
-![Zeitungsausschnitt. Text: Weißbrote und Leckereien brachten die Berliner gestern für ihre Tierlieblinge mit und lieferten sie bei Wärter Tutzschke ab. Foto: Ein Zoopfleger mit großem Korb steht im Graben der Elefanten-Außenanlage und eine:r der Besucher:innen hinter dem Geländer wirft einen Laib Brot in den Korb.](images/mv/BildZeitung02041960FutterAbgeben.jpg)
+![Zeitungsausschnitt. Text: Weißbrote und Leckereien brachten die Berliner gestern für ihre Tierlieblinge mit und lieferten sie bei Wärter Tutzschke ab. Foto: Ein Zoopfleger mit großem Korb steht im Graben der Elefanten-Außenanlage und eine:r der Besucher:innen hinter dem Geländer wirft einen Laib Brot in den Korb.](/images/mv/BildZeitung02041960FutterAbgeben.jpg)
 
 <figcaption>
 

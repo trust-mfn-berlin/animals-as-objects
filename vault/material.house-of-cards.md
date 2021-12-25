@@ -2,7 +2,7 @@
 id: A8Dh5fk6b52EJQRaw3Qe4
 title: A House of Cards
 desc: Organising knowledge using loose index cards
-updated: 1639595185548
+updated: 1640472138211
 created: 1629792930385
 license: CC BY-SA
 title_de: Verzettelung
@@ -31,9 +31,9 @@ colour_scheme: 2
  
 <div class="series">
  
-![A narrow wooden box with postcard-sized printed cards. Tabs have been attached to some of the cards, some of them stick out at an angle, and some of them have been marked with small yellow or red stickers. The wooden box is one of many in the card catalogue that can be pulled out of a shelf like a drawer.](images/guests/zettelkasten-zoologische-lehrsammlung-index-card-catalogue-zoological-teaching-collection-berlin.jpg)
+![A narrow wooden box with postcard-sized printed cards. Tabs have been attached to some of the cards, some of them stick out at an angle, and some of them have been marked with small yellow or red stickers. The wooden box is one of many in the card catalogue that can be pulled out of a shelf like a drawer.](/images/guests/zettelkasten-zoologische-lehrsammlung-index-card-catalogue-zoological-teaching-collection-berlin.jpg)
  
-![Two postcard-sized cards stuck to each other with adhesive tape. The card on top is a yellowed index card, which is upside down and has black and red typewritten text on it. The note on the bottom is less discoloured with black printed text. Stuck to it are another two old yellowed stickers, a post-it, and various words and markings that have come from at least four different pens.](images/guests/old-and-new-index-cards-zoological-teaching-collection-alte-und-neue-karteikarte-zoologische-lehrsammlung-berlin.jpg)
+![Two postcard-sized cards stuck to each other with adhesive tape. The card on top is a yellowed index card, which is upside down and has black and red typewritten text on it. The note on the bottom is less discoloured with black printed text. Stuck to it are another two old yellowed stickers, a post-it, and various words and markings that have come from at least four different pens.](/images/guests/old-and-new-index-cards-zoological-teaching-collection-alte-und-neue-karteikarte-zoologische-lehrsammlung-berlin.jpg)
  
 </div>
  
@@ -50,7 +50,7 @@ The index cards pictured here are a paper technology that is still being used to
 
 <figure>
 
-![Slightly yellowed index card with typewritten and handwritten entries. For a transcript, see the link in the image caption.](images/common-seadragon-index-card-kleiner-fetzenfisch-karteikarte.jpg)
+![Slightly yellowed index card with typewritten and handwritten entries. For a transcript, see the link in the image caption.](/images/common-seadragon-index-card-kleiner-fetzenfisch-karteikarte.jpg)
 
 <figcaption>
 
@@ -69,9 +69,9 @@ Because they are so flexible, the index cards facilitate the management of colle
  
 <div class="series">
  
-![Schmaler Holzkasten mit bedruckten Zetteln in Postkartengröße. An manchen Zetteln sind oben Tabs angebracht, manche stehen schräg heraus, manche sind mit kleinen gelben oder roten Klebezetteln gekennzeichnet. Der Holzkasten ist einer von vielen, die sich aus einem Regal wie Schubladen herausziehen lassen.](images/guests/zettelkasten-zoologische-lehrsammlung-index-card-catalogue-zoological-teaching-collection-berlin.jpg)
+![Schmaler Holzkasten mit bedruckten Zetteln in Postkartengröße. An manchen Zetteln sind oben Tabs angebracht, manche stehen schräg heraus, manche sind mit kleinen gelben oder roten Klebezetteln gekennzeichnet. Der Holzkasten ist einer von vielen, die sich aus einem Regal wie Schubladen herausziehen lassen.](/images/guests/zettelkasten-zoologische-lehrsammlung-index-card-catalogue-zoological-teaching-collection-berlin.jpg)
  
-![Zwei mit Klebeband aneinander geklebte Zettel in Postkartengröße. Der obere Zettel ist eine vergilbte Karteikarte, kopfüber zu sehen, und wurde in schwarz und rot mit Schreibmaschine beschrieben. Der untere Zettel ist weniger verfärbt und in schwarz bedruckt. Er wurde zusätzlich mit zwei alten, vergilbten Aufklebern, mit einem Post-It und mit zahlreichen Wörtern und Markierungen versehen, die von mindestens vier verschiedenen Stiften stammen.](images/guests/old-and-new-index-cards-zoological-teaching-collection-alte-und-neue-karteikarte-zoologische-lehrsammlung-berlin.jpg)
+![Zwei mit Klebeband aneinander geklebte Zettel in Postkartengröße. Der obere Zettel ist eine vergilbte Karteikarte, kopfüber zu sehen, und wurde in schwarz und rot mit Schreibmaschine beschrieben. Der untere Zettel ist weniger verfärbt und in schwarz bedruckt. Er wurde zusätzlich mit zwei alten, vergilbten Aufklebern, mit einem Post-It und mit zahlreichen Wörtern und Markierungen versehen, die von mindestens vier verschiedenen Stiften stammen.](/images/guests/old-and-new-index-cards-zoological-teaching-collection-alte-und-neue-karteikarte-zoologische-lehrsammlung-berlin.jpg)
  
 </div>
  
@@ -88,7 +88,7 @@ Als Papiertechnologie werden die abgebildeten Karteikarten noch heute zur Organi
 
 <figure>
 
-![Leicht vergilbte Karteikarte mit maschinen- und handschriftlichen Eintragungen. Für Transkript, siehe Link in Bildunterschrift.](images/common-seadragon-index-card-kleiner-fetzenfisch-karteikarte.jpg)
+![Leicht vergilbte Karteikarte mit maschinen- und handschriftlichen Eintragungen. Für Transkript, siehe Link in Bildunterschrift.](/images/common-seadragon-index-card-kleiner-fetzenfisch-karteikarte.jpg)
 
 <figcaption>
 

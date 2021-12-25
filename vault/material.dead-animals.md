@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Dead Animals
 title_de: Tote Tiere
 created: 1640359501899
-updated: 1640362596395
+updated: 1640472117965
 id: dUPcbo57C2AzuhMiUTwMS
 author: Eileen Klingner
 translators:
@@ -52,7 +52,7 @@ Other audio pieces tell the stories of [[material.where-the-rats-live]], [[mater
 
 <figure>
 
-![Tiergrabstätte, geschmückt mit Blumen, eingerahmten Fotografien, Kerzen und bunten Objekten.](images/mv/tiertopografien-klingner.JPG)
+![Tiergrabstätte, geschmückt mit Blumen, eingerahmten Fotografien, Kerzen und bunten Objekten.](/images/mv/tiertopografien-klingner.JPG)
 
 <figcaption>
 

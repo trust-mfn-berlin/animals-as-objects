@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Of Lion Tigers and Rotting Specimens
 title_de: Von Löwen-Tigern und verfaulten Präparaten
 created: 1639567838410
-updated: 1639568788079
+updated: 1640472203958
 id: b1zgnK9GmzS2RLdAd76u0
 author: Sarina Schirmer
 translators:
@@ -24,7 +24,7 @@ published: false
 
 <figure>
 
-![An open book reveals a yellowed double page that has been divided into several columns of varying widths by hand. Only the upper quarter of the page contains some ornate handwriting.](images/mv/zool.mus-si-verwaltungsakten-agebuch-beyer-1843-03.jpg)
+![An open book reveals a yellowed double page that has been divided into several columns of varying widths by hand. Only the upper quarter of the page contains some ornate handwriting.](/images/mv/zool.mus-si-verwaltungsakten-agebuch-beyer-1843-03.jpg)
 
 <figcaption>
 
@@ -48,7 +48,7 @@ Friedrich Beyer's logbooks do not just provide us with a treasure trove of objec
 
 <figure>
 
-![Aufgeschlagenes Heft zeigt eine vergilbte Doppelseite, die per Hand in mehrere Spalten unterschiedlicher Breite geteilt ist. Nur das obere Viertel ist in schnörkeliger Handschrift beschrieben.](images/mv/zool.mus-si-verwaltungsakten-agebuch-beyer-1843-03.jpg)
+![Aufgeschlagenes Heft zeigt eine vergilbte Doppelseite, die per Hand in mehrere Spalten unterschiedlicher Breite geteilt ist. Nur das obere Viertel ist in schnörkeliger Handschrift beschrieben.](/images/mv/zool.mus-si-verwaltungsakten-agebuch-beyer-1843-03.jpg)
 
 <figcaption>
 

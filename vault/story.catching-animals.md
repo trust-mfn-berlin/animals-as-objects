@@ -7,7 +7,7 @@ short_desc_de: Habitate und Tierhandelsfirmen
 date_end: 1973-12-31T11:00:00.000Z
 published: false
 title: Catching Animals
-updated: 1639749828971
+updated: 1640472310957
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 translators:
   translator_de_en: Carla Welch
@@ -43,7 +43,7 @@ In the 1880s, the Berlin Zoological Garden had two elephant bulls in its possess
 
 <figure>
 
-![Black and white photograph: Two elephants and three caretakers in peaked caps in front of a high fence](images\cmw\Elefant_Omar.jpg)
+![Black and white photograph: Two elephants and three caretakers in peaked caps in front of a high fence](/images/cmw/Elefant_Omar.jpg)
 
 <figcaption>
 
@@ -67,7 +67,7 @@ The fact that these port sales and auctions were always full and that state gift
 
 <figure>
 
-![Postcard with black and white photograph and red text: Text: Gruss aus dem zoologischen Garten zu Berlin. Wissmann-Löwe aus Deutsch-Ostafrika. Verlag des Actien-Vereins des zoologischen Gartens zu Berlin – Photographie von Ludwig Bab, Berlin W. Image: Reclining lion with mane leans on cage bars and looks into the camera.](images/cmw/Wissmann-lion.jpg)
+![Postcard with black and white photograph and red text: Text: Gruss aus dem zoologischen Garten zu Berlin. Wissmann-Löwe aus Deutsch-Ostafrika. Verlag des Actien-Vereins des zoologischen Gartens zu Berlin – Photographie von Ludwig Bab, Berlin W. Image: Reclining lion with mane leans on cage bars and looks into the camera.](/images/cmw/Wissmann-lion.jpg)
 
 <figcaption>
 
@@ -97,7 +97,7 @@ Transportation was a major risk for animal traders, as the animals could die or 
 
 <figure>
 
-![Typewritten letter: (...) The male lion received on 5.10.1925 was imported from Rhodesia on 29 February 1912. The capybara received on 16 August 1927 was delivered by the Ruhe company on 28 July 1927. We received the brown brushtail possum, which had arrived on 7 March 1925, on the same day from the Hagenbeck company, the grey brushtail possum, which had arrived on 12 July 1926, was received on 3 June 1912 from Jamrach, the prehensile-tailed porcupine, which had arrived on 23 May 1926, was received from Eimecke in Hamburg on 12 March 1924. (...)](images/cmw/MfN_HBSB_S004_02_05_Nr97.jpg)
+![Typewritten letter: (...) The male lion received on 5.10.1925 was imported from Rhodesia on 29 February 1912. The capybara received on 16 August 1927 was delivered by the Ruhe company on 28 July 1927. We received the brown brushtail possum, which had arrived on 7 March 1925, on the same day from the Hagenbeck company, the grey brushtail possum, which had arrived on 12 July 1926, was received on 3 June 1912 from Jamrach, the prehensile-tailed porcupine, which had arrived on 23 May 1926, was received from Eimecke in Hamburg on 12 March 1924. (...)](/images/cmw/MfN_HBSB_S004_02_05_Nr97.jpg)
 
 <figcaption>
 
@@ -129,7 +129,7 @@ At the beginning of the 20th century, a few zoos also organized or financed thei
 
 <figure>
 
-![Black and white photograph: Two small giraffes in a wooden cage on the back of a truck. The person at the wheel is not clearly visible. A white person with a moustache, wearing a pith hat and high boots, is sitting on the roof above the steering wheel, his legs dangling down. Behind him sits another unrecognizable person.](images/cmw/S_3_82_Giraffentransport.jpg)
+![Black and white photograph: Two small giraffes in a wooden cage on the back of a truck. The person at the wheel is not clearly visible. A white person with a moustache, wearing a pith hat and high boots, is sitting on the roof above the steering wheel, his legs dangling down. Behind him sits another unrecognizable person.](/images/cmw/S_3_82_Giraffentransport.jpg)
 
 <figcaption>
 
@@ -147,7 +147,7 @@ Colonial authorities and the governments of now independent former colonies were
 
 <figure>
 
-![Black and white portrait: Woman in hat, laughing, a monkey on her shoulder. Flower arrangements in the foreground.](images/cmw/Heinroth_Putzi_1955.jpg)
+![Black and white portrait: Woman in hat, laughing, a monkey on her shoulder. Flower arrangements in the foreground.](/images/cmw/Heinroth_Putzi_1955.jpg)
 
 <figcaption>
 
@@ -161,7 +161,7 @@ Of the animals that Katharina Heinroth brought back from this trip, for the publ
 
 <figure>
 
-![Black and white postcard. Text: Orang-Utanknaben Nakal u. Bubi i. Zoologischen Garten Berlin. Image: Ape on the left, touching his mouth with his hand, looking at a board game. Ape on the right moves a token on the board.](images/cmw/Orangs_Bubi_Nakal_1959.jpg)
+![Black and white postcard. Text: Orang-Utanknaben Nakal u. Bubi i. Zoologischen Garten Berlin. Image: Ape on the left, touching his mouth with his hand, looking at a board game. Ape on the right moves a token on the board.](/images/cmw/Orangs_Bubi_Nakal_1959.jpg)
 
 <figcaption>
 
@@ -175,7 +175,7 @@ In 1963, Heinroth's successor Heinz-Georg Klös went to Apartheid South Africa t
 
 <figure>
 
-![Black and white image: Two white rhinos stand in an enclosure at the water.](images/cmw/Breitmaul_Hlambamans_Kuababa_rechts_64_Kleinschmidt.jpg)
+![Black and white image: Two white rhinos stand in an enclosure at the water.](/images/cmw/Breitmaul_Hlambamans_Kuababa_rechts_64_Kleinschmidt.jpg)
 
 <figcaption>
 
@@ -193,7 +193,7 @@ What came next was a debacle that went on for over a year. The newly created GDR
 
 <figure>
 
-![Black and white photograph: Elephant calf running along a wide road flanked by trees, accompanied by at least 20 children.](images/cmw/Kosko-1958-Zimmer.jpg)
+![Black and white photograph: Elephant calf running along a wide road flanked by trees, accompanied by at least 20 children.](/images/cmw/Kosko-1958-Zimmer.jpg)
 
 <figcaption>
 
@@ -215,7 +215,7 @@ Overall, however, not only did zoo animals live longer, but they now also succes
 
 <figure>
 
-![Person leaning against the railing in front of a barred cage divided into several rooms, where a lion without a mane reclines on the floor and a lion with a mane lies on a ledge against the wall. A tree trunk stretches from the center of the cage to the wall.](images/cmw/Neues_Raubtierhaus_14061973.jpg)
+![Person leaning against the railing in front of a barred cage divided into several rooms, where a lion without a mane reclines on the floor and a lion with a mane lies on a ledge against the wall. A tree trunk stretches from the center of the cage to the wall.](/images/cmw/Neues_Raubtierhaus_14061973.jpg)
 
 <figcaption>
 
@@ -297,7 +297,7 @@ Die beiden Elefantenbullen des Berliner Zoologischen Gartens in den 1880er Jahre
 
 <figure>
 
-![Schwarz-weiß Foto: Zwei Elefanten und drei Pfleger mit Schirmmützen vor hohem Zaun](images\cmw\Elefant_Omar.jpg)
+![Schwarz-weiß Foto: Zwei Elefanten und drei Pfleger mit Schirmmützen vor hohem Zaun](/images/cmw/Elefant_Omar.jpg)
 
 <figcaption>
 
@@ -321,7 +321,7 @@ Dass diese Verkaufsstellen in den Häfen und die Auktionen immer gefüllt waren 
 
 <figure>
 
-![Postkarte mit schwarz-weiß Foto und roter Schrift. Text: Gruss aus dem zoologischen Garten zu Berlin. Wissmann-Löwe aus Deutsch-Ostafrika. Verlag des Actien-Vereins des zoologischen Gartens zu Berlin – Photographie von Ludwig Bab, Berlin W. Bild: Liegender Löwe mit Mähne lehnt sich an Gitterstäbe und schaut in die Kamera.](images/cmw/Wissmann-lion.jpg)
+![Postkarte mit schwarz-weiß Foto und roter Schrift. Text: Gruss aus dem zoologischen Garten zu Berlin. Wissmann-Löwe aus Deutsch-Ostafrika. Verlag des Actien-Vereins des zoologischen Gartens zu Berlin – Photographie von Ludwig Bab, Berlin W. Bild: Liegender Löwe mit Mähne lehnt sich an Gitterstäbe und schaut in die Kamera.](/images/cmw/Wissmann-lion.jpg)
 
 <figcaption>
 
@@ -351,7 +351,7 @@ Ein wesentliches Risiko für die Tierhändler war der Transportweg, auf dem die 
 
 <figure>
 
-![Maschinengeschriebener Brief: (...) Der am 5.10.1925 eingegangene männliche Löwe wurde am 29. Februar 1912 aus Rhodesien importiert. Das am 16.8.1927 eingegangene Wasserschwein wurde am 28.7.1927 von der Firma Ruhe geliefert. Den am 7.3.1925 eingegangenen braunen Fuchskusu erhielten wir am 7.3.1925 von der Firma Hagenbeck, den am 12.7.1926 eingegangenen grauen Fuchskusu am 3.6.1912 von Jamrach, den am 23.5.1926 eingegangenen Greifstachler am 12.3.24 von Eimecke, Hamburg (...)](images/cmw/MfN_HBSB_S004_02_05_Nr97.jpg)
+![Maschinengeschriebener Brief: (...) Der am 5.10.1925 eingegangene männliche Löwe wurde am 29. Februar 1912 aus Rhodesien importiert. Das am 16.8.1927 eingegangene Wasserschwein wurde am 28.7.1927 von der Firma Ruhe geliefert. Den am 7.3.1925 eingegangenen braunen Fuchskusu erhielten wir am 7.3.1925 von der Firma Hagenbeck, den am 12.7.1926 eingegangenen grauen Fuchskusu am 3.6.1912 von Jamrach, den am 23.5.1926 eingegangenen Greifstachler am 12.3.24 von Eimecke, Hamburg (...)](/images/cmw/MfN_HBSB_S004_02_05_Nr97.jpg)
 
 <figcaption>
 
@@ -383,7 +383,7 @@ Zu Beginn des 20. Jahrhunderts organisierten oder finanzierten einige wenige Zoo
 
 <figure>
 
-![Schwarz-weiß Foto: Zwei kleine Giraffen in Holzkäfig auf dem Heck eines Lastwagens. Die Person am Steuer ist nicht gut zu sehen. Auf dem Dach über dem Steuer sitzt ein weißer Mensch mit Schnauzer und Tropenhut in hohen Stiefeln, die Beine baumeln vom Dach. Hinter ihm sitzt noch eine nicht erkennbare Person.](images/cmw/S_3_82_Giraffentransport.jpg)
+![Schwarz-weiß Foto: Zwei kleine Giraffen in Holzkäfig auf dem Heck eines Lastwagens. Die Person am Steuer ist nicht gut zu sehen. Auf dem Dach über dem Steuer sitzt ein weißer Mensch mit Schnauzer und Tropenhut in hohen Stiefeln, die Beine baumeln vom Dach. Hinter ihm sitzt noch eine nicht erkennbare Person.](/images/cmw/S_3_82_Giraffentransport.jpg)
 
 <figcaption>
 
@@ -401,7 +401,7 @@ Noch waren sowohl Kolonialbehörden als auch die Regierungen nun unabhängiger e
 
 <figure>
 
-![Schwarz-weiß Porträt: Lachende Frau mit Hut, mit einem Affen auf der Schulter. Im Vordergrund Blumengestecke.](images/cmw/Heinroth_Putzi_1955.jpg)
+![Schwarz-weiß Porträt: Lachende Frau mit Hut, mit einem Affen auf der Schulter. Im Vordergrund Blumengestecke.](/images/cmw/Heinroth_Putzi_1955.jpg)
 
 <figcaption>
 
@@ -415,7 +415,7 @@ Für die Besucher:innen waren die beiden männlichen Orang-Utan-Jungtiere "Bubi"
 
 <figure>
 
-![Schwarz-weiß Postkarte. Text: Orang-Utanknaben Nakal u. Bubi i. Zoologischen Garten Berlin. Bild: Affe links mit Hand am Mund, blickt auf Spielbrett. Affe rechts versetzt Spielfigur.](images/cmw/Orangs_Bubi_Nakal_1959.jpg)
+![Schwarz-weiß Postkarte. Text: Orang-Utanknaben Nakal u. Bubi i. Zoologischen Garten Berlin. Bild: Affe links mit Hand am Mund, blickt auf Spielbrett. Affe rechts versetzt Spielfigur.](/images/cmw/Orangs_Bubi_Nakal_1959.jpg)
 
 <figcaption>
 
@@ -429,7 +429,7 @@ _Postkarte des Zoo Berlin mit den beiden Orang-Utans "Bubi" und "Nakal", 1959._
 
 <figure>
 
-![Schwarz-weiß Bild: Zwei Breitmaulnashörner stehen in einem Gehege am Wasser](images/cmw/Breitmaul_Hlambamans_Kuababa_rechts_64_Kleinschmidt.jpg)
+![Schwarz-weiß Bild: Zwei Breitmaulnashörner stehen in einem Gehege am Wasser](/images/cmw/Breitmaul_Hlambamans_Kuababa_rechts_64_Kleinschmidt.jpg)
 
 <figcaption>
 
@@ -447,7 +447,7 @@ Nun folgte ein über ein Jahr dauerndes Drama um die Tiere. Die noch junge DDR f
 
 <figure>
 
-![Schwarz-weiß Foto: Elefantenkalb läuft mit mindestens 20 Kindern eine breite Straße neben Bäumen entlang.](images/cmw/Kosko-1958-Zimmer.jpg)
+![Schwarz-weiß Foto: Elefantenkalb läuft mit mindestens 20 Kindern eine breite Straße neben Bäumen entlang.](/images/cmw/Kosko-1958-Zimmer.jpg)
 
 <figcaption>
 
@@ -469,7 +469,7 @@ Aber insgesamt verlängerten sich nicht nur die Lebensdauer in Zoos, die gehalte
 
 <figure>
 
-![Person lehnt sich gegen Geländer vor einem vergitterten und in mehrere Räume unterteilten Käfig, in dem ein Löwe ohne Mähne auf dem Boden und ein Löwe mit Mähne auf einem Vorsprung an der Wand liegen. Von der Mitte des Käfigs bis zur Wand lehnt ein großer Baumstamm.](images/cmw/Neues_Raubtierhaus_14061973.jpg)
+![Person lehnt sich gegen Geländer vor einem vergitterten und in mehrere Räume unterteilten Käfig, in dem ein Löwe ohne Mähne auf dem Boden und ein Löwe mit Mähne auf einem Vorsprung an der Wand liegen. Von der Mitte des Käfigs bis zur Wand lehnt ein großer Baumstamm.](/images/cmw/Neues_Raubtierhaus_14061973.jpg)
 
 <figcaption>
 

@@ -7,7 +7,7 @@ short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 date_end: 1935-01-01T10:48:28.706Z
 published: false
 title: Labels and Knowledge
-updated: 1639749779108
+updated: 1640472179128
 id: K2rQQdv1K7aDMUi5gDHcN
 translators:
   translator_de_en: Carla Welch
@@ -45,7 +45,7 @@ A discovery: a pile of old tags from Berlin Zoological Garden, most of them from
 
 <figure>
 
-![Archive work: piles of yellowed labels and documents beside a file and a pen.](images/Arbeitsszene-Etiketten-Pohle-2.jpg)
+![Archive work: piles of yellowed labels and documents beside a file and a pen.](/images/Arbeitsszene-Etiketten-Pohle-2.jpg)
 
 <figcaption>
 
@@ -149,7 +149,7 @@ Instructions like "Please transfer hide and skull to museum" provide clues about
 
 <figure>
 
-![Vergilbte, gelochte Papierkarte mit Flecken. Vordruck oben: Zoologischer Garten Berlin – B5 Barbarossa 9014 / An. Handschriftlich: Naturkunde Museum / Invaliden-Str.](images/Etiketten-Pohle-S004-02-05-96-020-v.jpg)
+![Vergilbte, gelochte Papierkarte mit Flecken. Vordruck oben: Zoologischer Garten Berlin – B5 Barbarossa 9014 / An. Handschriftlich: Naturkunde Museum / Invaliden-Str.](/images/Etiketten-Pohle-S004-02-05-96-020-v.jpg)
 
 <figcaption>
 
@@ -163,7 +163,7 @@ Fund: Ein Stapel alter Anhänger aus dem Zoologischen Garten Berlin, die meisten
 
 <figure>
 
-![Archivarbeit: Stapel zahlreicher, vergilbter Etiketten und Zettel neben Mappe und Stift.](images/Arbeitsszene-Etiketten-Pohle-2.jpg)
+![Archivarbeit: Stapel zahlreicher, vergilbter Etiketten und Zettel neben Mappe und Stift.](/images/Arbeitsszene-Etiketten-Pohle-2.jpg)
 
 <figcaption>
 
@@ -179,7 +179,7 @@ Sie deuten darauf hin, dass damals nicht nur vereinzelt Tiere vom Zoo ins Museum
 
 <div class="series>
 
-![Vergilbte, gelochte Papierkarte mit Vordruck oben: Zoologischer Garten Berlin. Unten links: 430. Handschriftlich: An Museum weitergeben / Pathologisches Institut der _______](images\Etiketten-Pohle-S004-02-05-96-057-v.jpg)
+![Vergilbte, gelochte Papierkarte mit Vordruck oben: Zoologischer Garten Berlin. Unten links: 430. Handschriftlich: An Museum weitergeben / Pathologisches Institut der _______](/images/Etiketten-Pohle-S004-02-05-96-057-v.jpg)
 
 ![desc](Etiketten-Pohle-S004-02-05-96-140-r.jpg)
 

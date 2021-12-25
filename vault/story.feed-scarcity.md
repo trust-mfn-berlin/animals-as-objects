@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1639749853864
+updated: 1640472345827
 id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: Carla Welch
@@ -65,7 +65,7 @@ The Asian elephant bull "Siam" was one of the few surviving animals. He had actu
 
 <figure>
 
-![Black and white page from a magazine. A large photo shows two children in front of an elephant. A small photo shows an adult surrounded by many children. Headline: Berlin's Last Elephant. A few of the famous zoo's animals survive the war.](images/mv/LifeMagazine.jpg)
+![Black and white page from a magazine. A large photo shows two children in front of an elephant. A small photo shows an adult surrounded by many children. Headline: Berlin's Last Elephant. A few of the famous zoo's animals survive the war.](/images/mv/LifeMagazine.jpg)
 
 <figcaption>
 
@@ -81,7 +81,7 @@ After the biggest pieces of rubble had been cleared, Katharina Heinroth and the 
 
 <figure>
 
-![Newspaper clipping with photograph: Two people in hats stand behind a plough to which a dark-colored and a light-colored horse are harnessed. German text: Auch im Berliner Zoo wird jedes Stückchen Land zur Frühjahrsbestellung umgepflügt. Nicht nur der Bedarf des Zoos an Futtermitteln ist groß, auch die Berliner Speisekarte wird dabei bereichert.](images/mv/Vorwaerts1946AusschnittJPG.jpg)
+![Newspaper clipping with photograph: Two people in hats stand behind a plough to which a dark-colored and a light-colored horse are harnessed. German text: Auch im Berliner Zoo wird jedes Stückchen Land zur Frühjahrsbestellung umgepflügt. Nicht nur der Bedarf des Zoos an Futtermitteln ist groß, auch die Berliner Speisekarte wird dabei bereichert.](/images/mv/Vorwaerts1946AusschnittJPG.jpg)
 
 <figcaption>
 
@@ -93,7 +93,7 @@ _Vegetable and lettuce cultivation on the grounds of the Berlin Zoological Garde
 
 <figure>
 
-![Newspaper clipping. Headline: The Zoo: Young animals, young plants, young people. Photograph: Person with a plough, to which a dark-colored and a light-colored horse are harnessed. To the side, a small, hoofed animal in a cage with bars.](images/mv/FrauVonHeute07051946AusschnittJPG.jpg)
+![Newspaper clipping. Headline: The Zoo: Young animals, young plants, young people. Photograph: Person with a plough, to which a dark-colored and a light-colored horse are harnessed. To the side, a small, hoofed animal in a cage with bars.](/images/mv/FrauVonHeute07051946AusschnittJPG.jpg)
 
 <figcaption>
 
@@ -109,7 +109,7 @@ Though, just ten years later, the death of animals due to [[overfeeding|story.fe
 
 <figure>
 
-![Newspaper clipping. Headline: Berliner, Rettet Euren Zoo! Four photographs showing people with dogs, birds, and a hedgehog.](images/mv/TelegrafMaerzApril1949AusschnittJPG.jpg)
+![Newspaper clipping. Headline: Berliner, Rettet Euren Zoo! Four photographs showing people with dogs, birds, and a hedgehog.](/images/mv/TelegrafMaerzApril1949AusschnittJPG.jpg)
 
 <figcaption>
 
@@ -125,7 +125,7 @@ Yet, even the support of the population was not enough. So, who was in fact offi
 
 <figure>
 
-![Typescript. Headings: Animal population; Zoo’s feed requirements for one month. For transcript, see link in caption.](images/feed-requirements-futtermittelbedarf.jpg)
+![Typescript. Headings: Animal population; Zoo’s feed requirements for one month. For transcript, see link in caption.](/images/feed-requirements-futtermittelbedarf.jpg)
 
 <figcaption>
 
@@ -305,7 +305,7 @@ Am Ende des Zweiten Weltkriegs zählte der Berliner Zoologische Garten nur noch 
 
 <figure>
 
-![Schwarz-weiß Foto: seitlich liegender, abgemagerter Elefant zwischen Trümmern.](images/mv/Elefantenkadaver.jpg)
+![Schwarz-weiß Foto: seitlich liegender, abgemagerter Elefant zwischen Trümmern.](/images/mv/Elefantenkadaver.jpg)
 
 <figcaption>
 
@@ -335,7 +335,7 @@ Nachdem der gröbste Schutt entfernt worden war, machten sich Katharina Heinroth
 
 <figure>
 
-![Zeitungsausschnitt mit Foto: zwei Personen mit Hüten stehen hinter einem Pflug vor den ein dunkles und ein helles Pferd gespannt sind. Text: Auch im Berliner Zoo wird jedes Stückchen Land zur Frühjahrsbestellung umgepflügt. Nicht nur der Bedarf des Zoos an Futtermitteln ist groß, auch die Berliner Speisekarte wird dabei bereichert.](images/mv/Vorwaerts1946AusschnittJPG.jpg)
+![Zeitungsausschnitt mit Foto: zwei Personen mit Hüten stehen hinter einem Pflug vor den ein dunkles und ein helles Pferd gespannt sind. Text: Auch im Berliner Zoo wird jedes Stückchen Land zur Frühjahrsbestellung umgepflügt. Nicht nur der Bedarf des Zoos an Futtermitteln ist groß, auch die Berliner Speisekarte wird dabei bereichert.](/images/mv/Vorwaerts1946AusschnittJPG.jpg)
 
 <figcaption>
 
@@ -347,7 +347,7 @@ _Gemüse- und Salatanbau auf dem Gelände des Zoologischen Gartens Berlin, abged
 
 <figure>
 
-![Zeitungsausschnitt. Überschrift: Zoo. junge Tiere, junge Pflanzen, junge Menschen. Foto: Person mit Pflug, vor den ein dunkles und ein helles Pferd gespannt sind. Seitlich steht ein kleines Huftier in einem Gitterkäfig.](images/mv/FrauVonHeute07051946AusschnittJPG.jpg)
+![Zeitungsausschnitt. Überschrift: Zoo. junge Tiere, junge Pflanzen, junge Menschen. Foto: Person mit Pflug, vor den ein dunkles und ein helles Pferd gespannt sind. Seitlich steht ein kleines Huftier in einem Gitterkäfig.](/images/mv/FrauVonHeute07051946AusschnittJPG.jpg)
 
 <figcaption>
 
@@ -363,7 +363,7 @@ Während im Berliner Zoo nur knapp zehn Jahre später der Tod von Tieren durch [
 
 <figure>
 
-![Zeitungsausschnitt. Überschrift: Berliner, Rettet Euren Zoo! Vier Fotos: Menschen mit Hunden, Vögeln und einem Igel.](images/mv/TelegrafMaerzApril1949AusschnittJPG.jpg)
+![Zeitungsausschnitt. Überschrift: Berliner, Rettet Euren Zoo! Vier Fotos: Menschen mit Hunden, Vögeln und einem Igel.](/images/mv/TelegrafMaerzApril1949AusschnittJPG.jpg)
 
 <figcaption>
 

@@ -6,7 +6,7 @@ desc: |-
   University in Berlin are testament to war and the changes that took place in
   everyday life at the institution, in scientific approaches, and in lines of
   political conflict (within the university). 
-updated: 1630020699210
+updated: 1640472446234
 created: 1629792627920
 license: CC BY-SA
 title_de: Geschichte der Zoologischen Lehrsammlung
@@ -48,7 +48,7 @@ Originally located under the roof of the university building in three subcollect
 
 <figure>
 
-![Black and white photo: eight adults and three children stand before the entrance to a brick building, above which a large painting hangs resplendent.](images/guests/history-zoological-teaching-collection-geschichte-zoologische-lehrsammlung-1888-berlin.png)
+![Black and white photo: eight adults and three children stand before the entrance to a brick building, above which a large painting hangs resplendent.](/images/guests/history-zoological-teaching-collection-geschichte-zoologische-lehrsammlung-1888-berlin.png)
 
 <figcaption>
 
@@ -72,7 +72,7 @@ After a period of almost continuous growth up until the beginning of the Second 
 
 <figure>
 
-![Double page of an inventory book with preprinted columns and headings: number, name, location, preservation, acquisition, number, price, invoice, comments. About half of the double page is filled with entries in green, black, and blue ink.](images/guests/few-entries-wenig-eintraege-zoological-teaching-collection-zoologische-lehrsammlung-berlin-1937-1943.png)
+![Double page of an inventory book with preprinted columns and headings: number, name, location, preservation, acquisition, number, price, invoice, comments. About half of the double page is filled with entries in green, black, and blue ink.](/images/guests/few-entries-wenig-eintraege-zoological-teaching-collection-zoologische-lehrsammlung-berlin-1937-1943.png)
 
 <figcaption>
 
@@ -88,7 +88,7 @@ The postwar period was shaped by reconstruction work. The collection and teachin
 
 <figure>
 
-![Double page of the inventory book with about half of it covered in the handwriting of one person. At the very top in pencil, a note about bomb destruction. At the bottom left, an entry with the date of reinventory. At the bottom right, a green promotional sticker for the company that produced the book.](images/guests/postwar-cataloguing-nachkriegszeit-inventarisierung-zoological-teaching-collection-zoologische-lehrsammlung-berlin.png)
+![Double page of the inventory book with about half of it covered in the handwriting of one person. At the very top in pencil, a note about bomb destruction. At the bottom left, an entry with the date of reinventory. At the bottom right, a green promotional sticker for the company that produced the book.](/images/guests/postwar-cataloguing-nachkriegszeit-inventarisierung-zoological-teaching-collection-zoologische-lehrsammlung-berlin.png)
 
 <figcaption>
 
@@ -161,7 +161,7 @@ Zunächst als drei Teilsammlungen unter dem Dach des Universitätsgebäudes vero
 
 <figure>
 
-![Schwarz-weiß Foto: Acht Erwachsene und drei Kinder stehen vor dem Eingangstor eines Backsteingebäudes, über dem ein großes Wandgemälde prangt.](images/guests/history-zoological-teaching-collection-geschichte-zoologische-lehrsammlung-1888-berlin.png)
+![Schwarz-weiß Foto: Acht Erwachsene und drei Kinder stehen vor dem Eingangstor eines Backsteingebäudes, über dem ein großes Wandgemälde prangt.](/images/guests/history-zoological-teaching-collection-geschichte-zoologische-lehrsammlung-1888-berlin.png)
 
 <figcaption>
 
@@ -185,7 +185,7 @@ Nachdem die Sammlung bis zum Zweiten Weltkrieg beinah stetig weitergewachsen war
 
 <figure>
 
-![Doppelseite eines Inventarbuchs mit vorgedruckten Spalten und Überschriften: No., Bezeichnung, Fundort, Conservierung, Erwerbung, Stückzahl, Preis, Belag, Bemerkungen. Etwa die halbe Doppelseite ist gefüllt mit Einträgen in grün, schwarz und blau.](images/guests/few-entries-wenig-eintraege-zoological-teaching-collection-zoologische-lehrsammlung-berlin-1937-1943.png)
+![Doppelseite eines Inventarbuchs mit vorgedruckten Spalten und Überschriften: No., Bezeichnung, Fundort, Conservierung, Erwerbung, Stückzahl, Preis, Belag, Bemerkungen. Etwa die halbe Doppelseite ist gefüllt mit Einträgen in grün, schwarz und blau.](/images/guests/few-entries-wenig-eintraege-zoological-teaching-collection-zoologische-lehrsammlung-berlin-1937-1943.png)
 
 <figcaption>
 
@@ -201,7 +201,7 @@ Die Nachkriegszeit war geprägt von Wiederaufbauarbeiten. Die Sammlungs- und Unt
 
 <figure>
 
-![Doppelseite des Inventarbuchs, in gleicher Handschrift etwa zur Hälfte beschrieben. Ganz oben in Bleistift: Vermerk zur Zerstörung durch Bomben. Links unten: Eintragung des Datums der Neuinventarisierung. Rechts unten: Grüner Werbeaufkleber der Produktionsfirma des Buchs.](images/guests/postwar-cataloguing-nachkriegszeit-inventarisierung-zoological-teaching-collection-zoologische-lehrsammlung-berlin.png)
+![Doppelseite des Inventarbuchs, in gleicher Handschrift etwa zur Hälfte beschrieben. Ganz oben in Bleistift: Vermerk zur Zerstörung durch Bomben. Links unten: Eintragung des Datums der Neuinventarisierung. Rechts unten: Grüner Werbeaufkleber der Produktionsfirma des Buchs.](/images/guests/postwar-cataloguing-nachkriegszeit-inventarisierung-zoological-teaching-collection-zoologische-lehrsammlung-berlin.png)
 
 <figcaption>
 

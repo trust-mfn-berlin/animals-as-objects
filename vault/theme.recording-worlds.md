@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Recording Worlds
 title_de: Welt(en) verzeichnen
 created: 1630051088275
-updated: 1640451365641
+updated: 1640472534615
 id: 4r0yES2CMXdwBI2l8fYbZ
 author: Mareike Vennen, Filippo Bertoni
 translators:
@@ -140,7 +140,7 @@ Bei der Verwandlung von Tieren in Zoo- oder Museumsobjekte spielen Verzeichnisse
 
 ![Frontispiz eines abgewetzten, dunkelgrünen Eingangsbuchs; auf dem Beschriftungsetikett steht: Zoologischer Garten, 1. April 1908 bis 30. Sept. 1912](/images/mv/eingangsbuch-zool-garten-mfn-saeugetiersammlung.jpg)
 
-![Doppelseite des Eingangsbuchs des Zoologischen Gartens, mit vorgedruckter Tabelle und handschriftlichen Einträgen. Oben: Oktober 1909. Spalten, von links nach rechts: Eingangsdatum, Menge, Bezeichnung, Geschlecht, drei Spalten für verschiedene Präparattypen (Balg, Schädel, Skelett, Spiritus), Mitteilungen, Gelder, Ablieferung.](images/mv/eingangsbuch-zool-garten-mfn-saeugetiersammlung-a.jpg)
+![Doppelseite des Eingangsbuchs des Zoologischen Gartens, mit vorgedruckter Tabelle und handschriftlichen Einträgen. Oben: Oktober 1909. Spalten, von links nach rechts: Eingangsdatum, Menge, Bezeichnung, Geschlecht, drei Spalten für verschiedene Präparattypen (Balg, Schädel, Skelett, Spiritus), Mitteilungen, Gelder, Ablieferung.](/images/mv/eingangsbuch-zool-garten-mfn-saeugetiersammlung-a.jpg)
 
 </div>
 
