@@ -7,7 +7,7 @@ short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 date_end: 1935-01-01T10:48:28.706Z
 published: false
 title: Labels and Knowledge
-updated: 1640472785111
+updated: 1640473032322
 id: K2rQQdv1K7aDMUi5gDHcN
 translators:
   translator_de_en: Carla Welch
@@ -63,7 +63,7 @@ They indicate that it was not just the odd animal being sent from the museum to 
 
 ![Yellowed, punched paper card with preprinted text at the top: Berlin Zoological Garden. Bottom left: 430. Handwritten: Forward to museum / Pathological Institute of the _______](/images/Etiketten-Pohle-S004-02-05-96-057-v.jpg)
 
-![desc](Etiketten-Pohle-S004-02-05-96-140-r.jpg)
+![desc](/images/Etiketten-Pohle-S004-02-05-96-140-r.jpg)
 
 
 </div>
@@ -78,13 +78,13 @@ _Animal logistics on paper. The instructions on the labels reveal the paths that
 
 These notes, which were once mobile, also helped these different actors to make internal logistical arrangements. They often provide instructions for further use – "With a request for examination and transfer to the Zoolog. Museum on Invalidenstraße," says one, for example **The first journey that an animal took after its death usually led from the zoo to the Pathological Institute at the Veterinary University (Tierärztliche Hochschule) of Berlin, where it was dissected in order to ascertain its cause of death.[^1] After that, the Pathological Institute sent what remained of the carcass back to the zoo or forwarded it on at the zoo's behest – to private taxidermists and preparators, or to scientific institutions such as the Anatomical Institute, the Zoological Institute of the Agricultural University, or the Zoological Museum at the university in Berlin.**[^2] This kind of information can be put together like the pieces of a puzzle to map out a local network of relationships. Even though gaps remain, the tags help to identify the important actors who were involved in the further utilisation or disposal of zoo animals in Berlin in the early twentieth century.
 
-The back of a label could be used to convey information about the animal's species, origin, and cause of death so that the museum could [[create a record of the animal|story.keeping records of animals]]. Abyssinia, Ceylon, and South America frequently appear. The notes therefore do not just make a local network visible, but also point back to the global trade in animals and animal catching, and names like Abyssinia and Ceylon make it clear that this was a colonial network.
+The back of a label could be used to convey information about the animal's species, origin, and cause of death so that the museum could [[create a record of the animal|story.keeping-record-of-animals]]. Abyssinia, Ceylon, and South America frequently appear. The notes therefore do not just make a local network visible, but also point back to the global trade in animals and animal catching, and names like Abyssinia and Ceylon make it clear that this was a colonial network.
 
 Almost just as crucial as the information that appears on the labels is that which is not recorded. Detailed information like the kind noted on this label was the exception:
 
 <figure>
 
-![Punched paper card, yellowed and stained, with preprinted template and handwritten entries. Top: 14.IX.26 male. Animal species ____. Origin: Patagonia. Cause of death: inflammation of the bowel. Bottom right: 142.](Etiketten-Pohle-S004-02-05-96-142-r.jpg)
+![Punched paper card, yellowed and stained, with preprinted template and handwritten entries. Top: 14.IX.26 male. Animal species ____. Origin: Patagonia. Cause of death: inflammation of the bowel. Bottom right: 142.](/images/Etiketten-Pohle-S004-02-05-96-142-r.jpg)
 
 <figcaption>
 
@@ -100,9 +100,9 @@ Entries were frequently left empty, or the information provided was very general
 
 <div class ="series">
 
-![Punched paper card, yellowed and stained, with preprinted template and handwritten entries. Animal species: red____. Origin: From the animal trade. Cause of death: no entry. Bottom right: 24.](Etiketten-Pohle-S004-02-05-96-024-r.jpg)
+![Punched paper card, yellowed and stained, with preprinted template and handwritten entries. Animal species: red____. Origin: From the animal trade. Cause of death: no entry. Bottom right: 24.](/images/Etiketten-Pohle-S004-02-05-96-024-r.jpg)
 
-![Punched paper card, yellowed and stained, with preprinted template and handwritten entries. Animal species: ____. Origin: Ceylon. Cause of death: no entry. Bottom right: 105.](Etiketten-Pohle-S004-02-05-96-105-r.jpg)
+![Punched paper card, yellowed and stained, with preprinted template and handwritten entries. Animal species: ____. Origin: Ceylon. Cause of death: no entry. Bottom right: 105.](/images/Etiketten-Pohle-S004-02-05-96-105-r.jpg)
 
 </div>
 
@@ -114,11 +114,11 @@ _A knowledge thing with gaps: Label with missing entries and general information
 
 </figure>
 
-These labels thus allow us to read not just the information that was sent to the museum but also the gaps in knowledge.[3] These gaps point not least to the differences between zoos and museums – the data collected by zoos was not necessarily as extensive or as precise as the data gathered by natural history collections (see also [[Keeping Records of Animals|story.keeping records of animals]]). However, labels often provided additional instructions (for use).
+These labels thus allow us to read not just the information that was sent to the museum but also the gaps in knowledge.[3] These gaps point not least to the differences between zoos and museums – the data collected by zoos was not necessarily as extensive or as precise as the data gathered by natural history collections (see also [[Keeping Records of Animals|story.keeping-record-of-animals]]). However, labels often provided additional instructions (for use).
  
 <figure>
 
-![Punched paper card, yellowed and stained, with preprinted template and handwritten entries. Animal species: ___water rat. Origin: Berlin Zoo. Cause of death: no entry. Transferred to the museum. Bottom right: 25. Top left: illegible, 30.10.36.](Etiketten-Pohle-S004-02-05-96-025-r.jpg)
+![Punched paper card, yellowed and stained, with preprinted template and handwritten entries. Animal species: ___water rat. Origin: Berlin Zoo. Cause of death: no entry. Transferred to the museum. Bottom right: 25. Top left: illegible, 30.10.36.](/images/Etiketten-Pohle-S004-02-05-96-025-r.jpg)
 
 <figcaption>
 
