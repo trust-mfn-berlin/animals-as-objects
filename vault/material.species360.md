@@ -10,7 +10,7 @@ title: Species360
 updated: 1640459792282
 id: 690683a5-6845-4c80-bb3b-5771881bdca6
 translators:
-  translator_de_en: Carla Welch
+  translator_de_en: k. A.
 desc: Software for the coordination of zoo animal collections
 desc_de: Software zur Koordination von Zootierhaltungen
 short_desc: Software for the coordination of zoo animal collections
