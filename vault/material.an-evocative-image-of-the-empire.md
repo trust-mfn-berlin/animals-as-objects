@@ -2,7 +2,7 @@
 id: ZDxo1U9ptEVRJhmFpVKyC
 title: An Evocative Image of the Empire
 desc: Put a description of this note here...
-updated: 1640457426057
+updated: 1640457968722
 created: 1640456876442
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -49,7 +49,7 @@ This strategy to combine a hunting exhibition with a colonial exhibition continu
 
 [^1]: The Deutsche Kolonialgesellschaft aggregated the former initiatives of the Deutscher Kolonialverein, founded in 1882 in Frankfurt, and the Gesellschaft für Deutsche Kolonisation, founded in 1884 by colonial ideologist Carl Peters (1856-1918) to secure the colonial rule of what was German East Africa.
 
-[^2] "Raum 4. Eisengräber". In _Offizieller Katalog Der Deutsch-Kolonialen Jagdausstellung_. 2nd ed. Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 61.
+[^2]: "Raum 4. Eisengräber". In _Offizieller Katalog Der Deutsch-Kolonialen Jagdausstellung_. 2nd ed. Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 61.
 
 [^3]: original: "ein möglichst stimmungsvolles Bild". Rehbock, T. "Vorwort". In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2nd ed., 9–12. Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 11. 
 
