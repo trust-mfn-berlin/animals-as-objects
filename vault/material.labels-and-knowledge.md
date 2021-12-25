@@ -7,7 +7,7 @@ short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 date_end: 1935-01-01T10:48:28.706Z
 published: false
 title: Labels and Knowledge
-updated: 1640473394813
+updated: 1640473551023
 id: K2rQQdv1K7aDMUi5gDHcN
 translators:
   translator_de_en: Carla Welch
@@ -181,7 +181,7 @@ Sie deuten darauf hin, dass damals nicht nur vereinzelt Tiere vom Zoo ins Museum
 
 ![Vergilbte, gelochte Papierkarte mit Vordruck oben: Zoologischer Garten Berlin. Unten links: 430. Handschriftlich: An Museum weitergeben / Pathologisches Institut der _______](/images/Etiketten-Pohle-S004-02-05-96-057-v.jpg)
 
-![desc](Etiketten-Pohle-S004-02-05-96-140-r.jpg)
+![desc](/images/Etiketten-Pohle-S004-02-05-96-140-r.jpg)
 
 
 </div>
@@ -232,7 +232,7 @@ _Lückenhaftes Wissensding: Etikett mit Leerstellen und allgemeinen Angaben zum 
 
 </figure>
 
-An den Zetteln lässt sich so nicht nur das Wissen ablesen, das an das Museum übermittelt wurde, sondern auch die Wissenslücken.[3] Diese verweisen nicht zuletzt auf die Unterschiede zwischen Zoos und Museen – in Zoos wurden nicht zwangsläufig so viele und nicht so genaue Daten über ein Tier gesammelt wie in naturkundlichen Sammlungen (siehe auch [[Tiere verzeichnen|story.record-keeping-of-animals]]). Dafür waren auf den Etiketten häufig zusätzliche (Gebrauchs)Anweisungen vermerkt.
+An den Zetteln lässt sich so nicht nur das Wissen ablesen, das an das Museum übermittelt wurde, sondern auch die Wissenslücken.[3] Diese verweisen nicht zuletzt auf die Unterschiede zwischen Zoos und Museen – in Zoos wurden nicht zwangsläufig so viele und nicht so genaue Daten über ein Tier gesammelt wie in naturkundlichen Sammlungen (siehe auch [[Tiere verzeichnen|story.keeping-record-of-animals]]). Dafür waren auf den Etiketten häufig zusätzliche (Gebrauchs)Anweisungen vermerkt.
  
 <figure>
 
