@@ -7,7 +7,7 @@ short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
 date_end: 2021-10-25T08:44:25.273Z
 published: false
 title: Keeping Records of Animals
-updated: 1639749883945
+updated: 1640474097465
 id: zrAZZTgVehO9zeVbW4dMX
 translators:
   translator_de_en: Carla Welch
@@ -91,9 +91,9 @@ For the museum, information about the animals it was offered was also important,
  
 <div class="series">
  
-![Punched paper tag with preprinted text at the top: Zoological Garden Berlin. B5 Barbarossa 9041. Typewritten number below: 780. "To: Museum".](Etiketten-Pohle-S004-02-05-96-022-v.jpg)
+![Punched paper tag with preprinted text at the top: Zoological Garden Berlin. B5 Barbarossa 9041. Typewritten number below: 780. "To: Museum".](/images/Etiketten-Pohle-S004-02-05-96-022-v.jpg)
  
-![Punched paper tag with preprinted template and handwritten entries. Animal species: Origin: Celyon. Cause of death: no entry.](Etiketten-Pohle-S004-02-05-96-105-r.jpg) 
+![Punched paper tag with preprinted template and handwritten entries. Animal species: Origin: Celyon. Cause of death: no entry.](/images/Etiketten-Pohle-S004-02-05-96-105-r.jpg) 
  
 </div>
  
@@ -233,9 +233,9 @@ Für das Museum waren Informationen über die ihm angebotenen Tiere ebenfalls wi
  
 <div class="series">
  
-![Gelochtes Papierschild mit Vordruck oben: Zoologischer Garten Berlin. B5 Barbarossa 9041. Gedruckte Nummer unten: 780. "An: Museum".]( Etiketten-Pohle-S004-02-05-96-022-v.jpg) 
+![Gelochtes Papierschild mit Vordruck oben: Zoologischer Garten Berlin. B5 Barbarossa 9041. Gedruckte Nummer unten: 780. "An: Museum".](/images/Etiketten-Pohle-S004-02-05-96-022-v.jpg) 
  
-![Gelochtes Papierschild mit vorgedruckten Überschriften und handschriftlichen Einträgen. Tiergattung: Herkunft: Ceylon. Todesursache: (kein Eintrag).]( Etiketten-Pohle-S004-02-05-96-105-r.jpg) 
+![Gelochtes Papierschild mit vorgedruckten Überschriften und handschriftlichen Einträgen. Tiergattung: Herkunft: Ceylon. Todesursache: (kein Eintrag).](/images/Etiketten-Pohle-S004-02-05-96-105-r.jpg) 
  
 </div>
  
