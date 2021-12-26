@@ -11,7 +11,7 @@ updated: 1640552481093
 id: TBi8fH-OIQRAoB-tG9ZY1
 doi: 10.7479/64y2-m311/2
 translators:
-  translator_en_de: Jan-Peter Herrmann
+  translator_en_de: ""
 desc: Thanks to complex technoscientific networks, Cycladophora has become an
   important tool in the study of planetary systems and climate. This story
   follows the microorganism’s trajectory, to trace how these networks formed,
