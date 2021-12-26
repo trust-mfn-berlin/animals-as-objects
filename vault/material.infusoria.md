@@ -16,7 +16,7 @@ title: Infusoria
 updated: 1640475784458
 id: 5df12377-545a-45f9-9cd3-04fb8e499fb1
 translators:
-  translator_en_de: Jan-Peter Herrmann
+  translator_en_de: ""
 colour_scheme: 5
 tao_type: material
 ---
