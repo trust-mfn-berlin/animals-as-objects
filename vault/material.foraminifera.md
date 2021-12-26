@@ -7,7 +7,7 @@ short_desc_de: Mikroorganismen, die am häufigsten in den Ozeanen leben
 date_end: 2021-12-07T19:14:43.793Z
 published: false
 title: Foraminifera
-updated: 1640475617788
+updated: 1640542772489
 id: 83cc17bb-8a8e-4157-9ebc-f0990cf60076
 translators:
   translator_en_de: Jan-Peter Herrmann
@@ -24,7 +24,7 @@ date_start: 1826-01-02T20:03:29.910Z
 
 <figure>
 
-![A black and white microphotograph of a tiny foraminiferal shell’s rounded surface, covered in small dots, with a star-like structure in the center.](/images/filo/Foram-elphidium hg.jpg)
+![A black and white microphotograph of a tiny foraminiferal shell’s rounded surface, covered in small dots, with a star-like structure in the center.](/images/filo/Foram-elphidium_hg.jpg)
 
 <figcaption>
 
@@ -55,7 +55,7 @@ _This video from the American Museum of Natural History introduces forams microp
 
 <figure>
 
-![ Eine Schwarz-Weiß-Mikrofotografie der abgerundeten Oberfläche einer winzigen Foraminiferenschale, die mit kleinen Punkten bedeckt ist und in der Mitte eine sternförmige Struktur aufweist.](/images/filo/Foram-elphidium hg.jpg)
+![ Eine Schwarz-Weiß-Mikrofotografie der abgerundeten Oberfläche einer winzigen Foraminiferenschale, die mit kleinen Punkten bedeckt ist und in der Mitte eine sternförmige Struktur aufweist.](/images/filo/Foram-elphidium_hg.jpg)
 
 <figcaption>
 
