@@ -21,7 +21,7 @@ desc_de: Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten
   dabei die Ernährungslage Berlins? Zoo und Stadtgesellschaft gingen in dieser
   Krise neue Verbindungen ein – zwischen Unterstützung und Konkurrenz, was die
   Rolle und Funktion des Zoos zeitweise veränderte.
-short_desc: 1945—a zoo and a city in crisis
+short_desc: 1945 — a zoo and a city in crisis
 cover_image:
   image: /images/cover-food-shortage.jpg
   alt: "Vegetable cultivation in the treeless Großer Tiergarten in Berlin in 1946,
