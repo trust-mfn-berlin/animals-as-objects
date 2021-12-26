@@ -11,7 +11,7 @@ title: Core Samples
 updated: 1640475034254
 id: 02wCHNiTRZ4Zkq2cO9Cpv
 translators:
-  translator_en_de: Jan-Peter Herrmann
+  translator_en_de: ""
 desc: Cylindrical samples obtained by drilling into sediment or other materials
 desc_de: Zylinderförmige Kernproben, die durch Bohrungen in Sedimentschichten
   und anderen Untergrundmaterialien gewonnen wurden.
