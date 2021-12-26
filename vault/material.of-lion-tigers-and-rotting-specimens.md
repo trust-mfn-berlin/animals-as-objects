@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Of Lion Tigers and Rotting Specimens
 title_de: Von Löwen-Tigern und verfaulten Präparaten
 created: 1639567838410
-updated: 1640472203958
+updated: 1640522928792
 id: b1zgnK9GmzS2RLdAd76u0
 author: Sarina Schirmer
 translators:
@@ -34,7 +34,7 @@ _Logbook for 1843 from the Zoological Collection displaying the month of Februar
 
 </figure>
 
-What kinds of stories can records like this [[logbook|material.logbooks-of-the-zoological-museum.md]] tell us? Preparator Friedrich Beyer, who worked at the Zoological Museum in Berlin from 1817 to 1851, used logbooks to document not just the types of consignments that went in and out of the museum but also who needed them where and why. 
+What kinds of stories can records like this [[logbook|material.logbooks-of-the-zoological-museum]] tell us? Preparator Friedrich Beyer, who worked at the Zoological Museum in Berlin from 1817 to 1851, used logbooks to document not just the types of consignments that went in and out of the museum but also who needed them where and why. 
 
 Alongside frequent mentions of boxes filled with bird skins, fish, and amphibians, there are also entries about extraordinary arrivals such as a "monstrous chicken's egg" and a "lion-tiger". They provide us with detailed information about the context and afterlife of these animal objects. The handwritten note that records the arrival of the "lion-tiger" at the Zoological Museum in February 1843, for example, is supplemented with a printed excerpt from part of a leaflet that the animal tamer Anton van Aken used to advertise his "great menagerie of rare and strange animals". It lets us know not just the "lion-tiger's" birth date, 18 October 1838, but also what kind of "extraordinary, never-before-seen phenomenon" it was. The logbook is thus a collection of notes whose various sources, firstly, inform us about the life of the "lion-tiger" in the circus but, secondly, also tell us that, although the animal was mounted as a taxidermy in the museum after its death, its skeleton was sent back to van Aken at his express wish.
 
@@ -58,7 +58,7 @@ _Tagebuch der Zoologischen Sammlung aus dem Jahr 1843, Monatsansicht Februar. (M
 
 </figure>
 
-Welche Geschichten können uns Verzeichnisse wie dieses [[Tagebuch|material.logbooks-of-the-zoological-museum.md]] erzählen? Der Präparator Friedrich Beyer, der von 1817 bis 1851 am Zoologischen Museum Berlin arbeitete, dokumentierte in seinen Tagebüchern nicht nur, welche Art von Sendungen am Museum ein- und ausgingen, sondern auch von wem, woher und wozu sie gebraucht wurden. 
+Welche Geschichten können uns Verzeichnisse wie dieses [[Tagebuch|material.logbooks-of-the-zoological-museum]] erzählen? Der Präparator Friedrich Beyer, der von 1817 bis 1851 am Zoologischen Museum Berlin arbeitete, dokumentierte in seinen Tagebüchern nicht nur, welche Art von Sendungen am Museum ein- und ausgingen, sondern auch von wem, woher und wozu sie gebraucht wurden. 
 
 Neben häufig erwähnten Kisten voller Vogelbälge, Fische und Amphibien tauchen dabei auch Einträge zu außergewöhnlichen Einsendungen wie etwa einem "monströsen Hühnerei" oder einem "Löwen-Tiger" auf. Durch sie erhalten wir zum Teil detaillierte Informationen über das Umfeld und Nachleben der Tierobjekte. Die handschriftliche Notiz, welche den Eingang des "Löwen-Tigers" im Zoologischen Museum im Februar 1843 verzeichnet, wird beispielsweise um einen Ausschnitt in gedruckter Form ergänzt. Dieser Ausschnitt ist Teil eines Handzettels, mit welchem der Dompteur Anton van Aken seine "Große Menagerie seltener und merkwürdiger Thiere" bewarb. Er lässt uns nicht nur das Geburtsdatum des "Löwen-Tigers" am 18. Oktober 1838 wissen, sondern auch, um welch "außerordentliche, bisher noch nie gesehene Erscheinung" es sich bei ihm handle. Das Tagebuch stellt sich damit als Notizsammlung dar, dessen unterschiedliche Quellen uns einerseits über das Leben des "Löwen-Tigers" im Zirkus informieren, uns andererseits aber auch darüber unterrichten, dass das Tier nach seinem Tod zwar im Museum präpariert, sein Skelett aber – auf van Akens ausdrücklichen Wunsch – an diesen zurückgesendet wurde.
 
