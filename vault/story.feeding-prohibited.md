@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding Prohibited
 title_de: Füttern Verboten
 created: 1620752897039
-updated: 1640472421417
+updated: 1640549958150
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 author: Mareike Vennen
 translators:
@@ -30,8 +30,6 @@ date_start: 1958-12-31T23:00:00.000Z
 
 :::EN:::
 
-In 1960, Berlin Zoo's elephant cow "Jambo" fell ill due to overfeeding by visitors and eventually had to be put down. The elephant's death was followed by a heated debate centered on the proper care and feeding of animals in captivity. "Jambo's" death led to a general ban on feeding the animals at Berlin Zoo from 10 April 1960.
-
 <figure>
 
 ![Newspaper cutting. Title above: Feeding prohibited at the zoo from today. Title below: These "Illiterates" continue to feed the animals, despite the zoo’s ban — elephant cow's condition worsens. Photograph: Front view of an elephant with "don't feed me" written in white on its forehead.](/images/mv/feeding-prohibited-elephant.jpg)
@@ -43,6 +41,8 @@ _Article in the_ Tagesspiegel _on the feeding ban at Berlin Zoo occasioned by "J
 </figcaption>
 
 </figure>
+
+In 1960, Berlin Zoo's elephant cow "Jambo" fell ill due to overfeeding by visitors and eventually had to be put down. The elephant's death was followed by a heated debate centered on the proper care and feeding of animals in captivity. "Jambo's" death led to a general ban on feeding the animals at Berlin Zoo from 10 April 1960.
 
 The elephant's death was not the first case of a zoo animal dying as a result of overfeeding – see also [[story.feeding-and-overfeeding]]. Visitors giving zoo animals food they bring into the zoo is part of a long history of incorrect or excessive feeding. Visitors had essentially been permitted to feed the animals since zoological gardens were established in the 19th century. The zoo guidebooks of the time — small, printed pamphlets — invited visitors to feed the animals, but even then there were certain restrictions. In 1873, Berlin Zoo’s guidebook already advised visitors against feeding some animals, and as early as 1879, visitors to the Hamburg Zoological Garden were also "most humbly and urgently requested to feed only those animals whose names are displayed on the notice boards".[^1] Just a few days after the opening of the Frankfurt Zoological Garden in 1858, reports stated that, "after the opening of the zoological garden on Sunday, most of the animals have suffered from upset stomachs as a result of the excessive feeding by visitors". The feeding of some animals therefore had to be prohibited entirely. Schönbrunn Zoo's guidebook of 1912 also refers to signs on the cages warning visitors that feeding was not permitted. In most zoos, it was strictly prohibited to feed particularly sensitive animal species such as apes, predators, and sea lions.[^2] 
 
@@ -132,7 +132,7 @@ To ensure that the feeding ban was observed, Frankfurt and Berlin Zoos handed ou
 
 The prohibition also changed the zoo visitors' relationship to the animals. Berlin Zoo had to issue countless warnings and reprimands because visitors continued to feed the animals despite the ban. This debate was always emotional, because it brought the question of people’s love of animals ("Tierliebe") to a head like no other subject at the time. 
 
-For a long time, and especially in the postwar years, being an animal lover meant expressing care for the animals by feeding them[^12] [[story.feed-scarcity]]. The feeding ban introduced a different understanding of what it meant to care for animals. This also changed, for example, the way lion cubs were handled [[story.baby-lion]], and at the same time manifested in a different attitude toward people’s own animal feeding habits.
+For a long time, and especially in the postwar years, being an animal lover meant expressing care for the animals by feeding them[^12] [[story.feed-scarcity]]. The feeding ban introduced a different understanding of what it meant to care for animals. This also changed, for example, the way lion cubs were handled [[story.photos-with-lion-cubs]], and at the same time manifested in a different attitude toward people’s own animal feeding habits.
 
 For many people, the best way to express their love of and care for animals was through restraint — secondary to their own desire to feed the animals. As an anonymous supporter of the ban put it in a letter to the zoo: "We too regret the sad end of Jambo and welcome the feeding ban. There is no other way to deal with Berliners and their excessive love of animals"[^13]. Where previously giving readily had been one of the main virtues of the "animal lover" at the zoo, now the health of the animals depended on self-control. Feeding — especially excessive feeding — was now judged to be a "false love of animals."[^14] This was part of a broader change, which cultural studies scholar Christina Wessely describes as entailing a shift that sees the, at times quite pushy, animal lover increasingly adopting a view in which humans are very deliberately relegated to the background — a development that was, to a great extent, only completed around the turn of the millennium.[^15]
 
@@ -172,9 +172,9 @@ The architecture of the enclosures did indeed play an important role in the rela
 
 <figure>
 
-<figcaption>
-
 ![Black-and-white photograph: A crowd of children stands at the edge of the hippopotamus pool, looking at the animal. A boy in the front row throws something into the hippo's open mouth.](/images/mv/woche-im-bild-feeding-hippos.jpg)
+
+<figcaption>
 
 _The cover picture of_ Die Woche im Bild _shows the hippopotamus pool, illustrating that feeding the animals had been one of the zoo's main attractions for a long time, supported by architecture that allowed people to get close to the animals, 07.08.1930._
 
@@ -374,7 +374,7 @@ Damit das Fütterungsverbot eingehalten wurde, verteilte man im Frankfurter und 
 
 Für die Zoogäste veränderte sich mit dem Verbot wiederum die Beziehung zum Tier. Der Berliner Zoo musste unzählige Mahnungen und Verweise aussprechen, da Besucher:innen die Tiere trotz des Verbots weiter fütterten. Die Debatte drehte sich immer wieder um Emotionen, denn in der Fütterungsfrage kulminierte damals wie bei kaum einem anderen Thema die Frage nach der "Tierliebe".
 
-Lange Zeit und insbesondere in den Nachkriegsjahren galt als "Tierfreund"[^12] vor allem, wer fütterte und darin seine Sorge um die Tiere bekundete [[story.feed-scarcity]]. Mit den Fütterungsverboten tritt ein anderes Verständnis der "Tierfreundschaft" auf den Plan, das beispielsweise auch den Umgang mit Löwenbabys veränderte und sich zugleich in einer gewandelten Einstellung zum eigenen Fütterungsverhalten äußert [[story.baby-lion]].
+Lange Zeit und insbesondere in den Nachkriegsjahren galt als "Tierfreund"[^12] vor allem, wer fütterte und darin seine Sorge um die Tiere bekundete [[story.feed-scarcity]]. Mit den Fütterungsverboten tritt ein anderes Verständnis der "Tierfreundschaft" auf den Plan, das beispielsweise auch den Umgang mit Löwenbabys veränderte und sich zugleich in einer gewandelten Einstellung zum eigenen Fütterungsverhalten äußert [[story.photos-with-lion-cubs]].
 
 Für viele drückte sich nun die Liebe zum Tier und die Sorge um dieses gerade in Zurückhaltung aus, in der Zurückstellung des eigenen Fütterungswunsches: "Auch wir bedauern das traurige Ende von Jambo und begrüßen das Fütterungsverbot. Anders ist ja den Berlinern mit ihrer übertriebenen Tierliebe nicht beizukommen"[^13], hieß es in einer anonymen Zuschrift an den Zoo. Gehörte zuvor das bereitwillige Geben zu den zentralen Tugenden des "Tierfreunds" im Zoo, war es nun die Selbstbeherrschung, von der die Gesundheit der Tiere abhängig gemacht wurde. Das Füttern – zumal das übermäßige – wurde nun als "falsche Tierliebe" bewertet.[^14] Das war Teil eines umfassenderen Wandels, den die Kulturwissenschaftlerin Christina Wessely so erklärt, dass der  zuweilen recht aufdringliche "Tierfreund" sich zunehmend eine Auffassung aneignet, bei der der Mensch ganz bewusst in den Hintergrund rückt – ein Prozess, der erst um die Jahrtausendwende weitestgehend vollzogen ist.[^15]  
 
