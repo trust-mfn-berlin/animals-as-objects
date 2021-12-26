@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1640544184130
+updated: 1640544966172
 id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: Carla Welch
@@ -47,7 +47,7 @@ _Poem by zoo visitor K. Ferber about the winter food crisis in the zoo — see [
 
 </figure>
 
-At the end of the Second World War, there were only about 80 animals left in the Berlin Zoological Garden. In 1938, there had been over 3,000, and even in 1944, there had still been as many as 1,700.[^1] [[story.the-zoo-and-national-socialism]] By May 1945, much of the zoo, including the Elephant Pagoda, had been destroyed.
+At the end of the Second World War, there were only about 80 animals left in the Berlin Zoological Garden. In [[1938|story.the-zoo-and-national-socialism]], there had been over 3,000, and even in 1944, there had still been as many as 1,700.[^1] By May 1945, much of the zoo, including the Elephant Pagoda, had been destroyed.
 
 <figure>
 
