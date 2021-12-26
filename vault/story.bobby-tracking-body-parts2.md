@@ -3,7 +3,7 @@ license: CC BY-SA
 title: '"Bobby". Tracking Body Parts'
 title_de: '"Bobby". Eine Fundgeschichte'
 created: 1640338390195
-updated: 1640519543253
+updated: 1640520262919
 id: 05XnJBaPUmIcfTWa4WMyb
 author: Mareike Vennen
 translators:
@@ -147,7 +147,7 @@ _Bronze death mask of "Bobby" at Berlin Zoo and case with another death mask in 
 
 The well-documented case of "Bobby" thus allows us to understand not just how preparation technologies can be used to produce a taxidermy and therefore transform the animal into a "lifelike" exhibition object. It also illustrates the techniques – dissecting, measuring, documenting, preparing, and casting – that turn animals into scientific collection items and objects of scientific research and, not least, into objects of memory. 
 
-The necropsy report[17] that documents the dissection and examination of the gorilla's body continues the body's dismemberment, not by means of a scalpel, but in word and image. The 24 large-format photos that capture the necropsy procedure in images are also part of a documentation practice that understands and appropriates the animal as an object of knowledge.[^18] 
+The necropsy report[^17] that documents the dissection and examination of the gorilla's body continues the body's dismemberment, not by means of a scalpel, but in word and image. The 24 large-format photos that capture the necropsy procedure in images are also part of a documentation practice that understands and appropriates the animal as an object of knowledge.[^18] 
 
 <figure>
 
