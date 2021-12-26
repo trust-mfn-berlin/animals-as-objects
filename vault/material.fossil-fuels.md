@@ -11,7 +11,7 @@ title: Fossil Fuels
 updated: 1640475139036
 id: 7f5d84e2-6c42-454e-a7c5-f31db9960a70
 translators:
-  translator_en_de: Jan-Peter Herrmann
+  translator_en_de: ""
 desc: Fossils are still used everyday to power our societies
 desc_de: Noch immer greifen wir für die Energieversorgung unserer Gesellschaft
   auf fossile Brennstoffe zurück.
