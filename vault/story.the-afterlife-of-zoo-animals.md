@@ -10,7 +10,7 @@ title: The Afterlife of Zoo Animals
 updated: 1640471202347
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 translators:
-  translator_de_en: Carla Welch
+  translator_de_en: ""
 desc: What happens to zoo animals when they die? How are their bodies (or body
   parts) put to use — as colonial trophies, as museum objects, as a source of
   meat? The story of the Berlin Zoo elephant "Siam" in the 1940s is a journey
