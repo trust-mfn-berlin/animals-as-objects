@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1640537029801
+updated: 1640537177014
 id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: Carla Welch
@@ -339,7 +339,7 @@ Nachdem der gröbste Schutt entfernt worden war, machten sich Katharina Heinroth
 
 <figcaption>
 
-_Gemüse- und Salatanbau auf dem Gelände des Zoologischen Gartens Berlin, abgedruckt im_ Vorwärts _, 18.04.1946._
+_Gemüse- und Salatanbau auf dem Gelände des Zoologischen Gartens Berlin, abgedruckt im_ Vorwärts, _18.04.1946._
 
 </figcaption>
 
