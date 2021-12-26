@@ -1,17 +1,21 @@
 ---
-id: 3YRSzijvbnQXZs4VO291j
-title: From Pests to Displays
-desc: Put a description of this note here...
-updated: 1640461871904
-created: 1640461871904
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Von Schädlingen zu Ausstellungsobjekten
+created: 1640461871904
+author: Author name(s) here.
+short_desc_de: dt titel noch nicht abgenommen; text noch in durchsicht
+date_end: ""
 published: false
+title: From Pests to Displays
+updated: 1640461871904
+id: 3YRSzijvbnQXZs4VO291j
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: dt titel noch nicht abgenommen;  text noch in durchsicht
+cover_image: null
 colour_scheme: 14
+tao_type: story
+date_start: ""
 ---
 
 :::EN:::
