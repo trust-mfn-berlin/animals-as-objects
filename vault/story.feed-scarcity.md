@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1640536389299
+updated: 1640537029801
 id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: Carla Welch
@@ -329,7 +329,7 @@ _Das_ Life Magazine _berichtete über den einzigen überlebenden Berliner Zoo-El
 
 </figure>
 
-Im Zoo fehlte es damals an allem, von Futter über Brennholz bis zu Baumaterialien. Die Zoologin [[material.katharina-heinroth]], die am 3. August 1945 auch offiziell die Leitung des weitgehend zerstörten Zoologischen Gartens übernahm, hatte größte Mühe die verbliebenen Tiere mit ihren wenigen Mitarbeiter:innen und nahezu ohne finanzielle Mittel durchzubringen. Bereits im Mai hatte der sowjetische Kommandant (Berlin war damals durch sowjetische Truppen besetzt und verwaltet) eine Genehmigung für den Erwerb von Futtermitteln ausgestellt, so dass einstweilen wieder Fleisch für die Raubtiere sowie Heu, Hafer und Kartoffeln gekauft werden konnten.[^2] **Dennoch war die Situation angespannt und die Beschaffung von Futter blieb die kommenden Jahre ein brennendes Thema: "[D]ie Futtermittelnot ist furchtbar, am meisten fehlen Kartoffeln, Rüben, Heu und Stroh. \[...] Wir haben seit 4 Monaten keine Kartoffeln für den Betrieb bekommen"[^3], schrieb Katharina Heinroth im März 1946 über die Ernährungslage im Zoo. Wie sollte sie da einen Elefanten ernähren?
+Im Zoo fehlte es damals an allem, von Futter über Brennholz bis zu Baumaterialien. Die Zoologin [[material.katharina-heinroth]], die am 3. August 1945 auch offiziell die Leitung des weitgehend zerstörten Zoologischen Gartens übernahm, hatte größte Mühe die verbliebenen Tiere mit ihren wenigen Mitarbeiter:innen und nahezu ohne finanzielle Mittel durchzubringen. Bereits im Mai hatte der sowjetische Kommandant (Berlin war damals durch sowjetische Truppen besetzt und verwaltet) eine Genehmigung für den Erwerb von Futtermitteln ausgestellt, so dass einstweilen wieder Fleisch für die Raubtiere sowie Heu, Hafer und Kartoffeln gekauft werden konnten.[^2] Dennoch war die Situation angespannt und die Beschaffung von Futter blieb die kommenden Jahre ein brennendes Thema: "[D]ie Futtermittelnot ist furchtbar, am meisten fehlen Kartoffeln, Rüben, Heu und Stroh. \[...] Wir haben seit 4 Monaten keine Kartoffeln für den Betrieb bekommen"[^3], schrieb Katharina Heinroth im März 1946 über die Ernährungslage im Zoo. Wie sollte sie da einen Elefanten ernähren?
 
 Nachdem der gröbste Schutt entfernt worden war, machten sich Katharina Heinroth und die Zoomitarbeiter:innen daran, Futter für die Tiere selbst zu produzieren. Eigentlich war es Katharina Heinroths Ziel, mit der Wiedereröffnung des Zoos im Juli 1945 einen Ort der Erholung und des Vergnügens jenseits des Nachkriegsalltags zu bieten. "Ich träumte dabei auch von schönen Blumenbeeten in den Alleen", sagte Katharina Heinroth in einem Interview, "aber es kommt anders. Jede freie Ecke muß mit Gemüse bepflanzt werden. Die leeren Freigehege werden unter unsere Angestellten für den eigenen Bedarf aufgeteilt."[^4] Außer der Gärtnerei, deren Beete bereits voll bestellt waren, sollten nun "alle durch den Kampf im Zoo entstandenen Freiflächen mit Futtermitteln bebaut werden".[^5] Das Hirschgehege wurde zum Gemüsegarten, auf den freien Rasenflächen und im Elefantengehege wuchsen schon bald Rüben, Kartoffeln und Salat,[^6] kurz: Der Zoo wurde beackert.
 
