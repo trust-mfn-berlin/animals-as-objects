@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1640537852166
+updated: 1640538873277
 id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: Carla Welch
@@ -301,7 +301,7 @@ _Gedicht des Zoobesuchers K. Ferber über die [[material.winter-hardship-at-the-
 
 </figure>
 
-Am Ende des Zweiten Weltkriegs zählte der Berliner Zoologische Garten nur noch rund 80 Tiere. 1938 waren es über 3.000 gewesen und 1944 immerhin 1.700.[^1] [[story.the-zoo-and-national-socialism]] Im Mai 1945 war das Gelände des Gartens, darunter auch die Elefantenpagode, zu großen Teilen zerstört.
+Am Ende des Zweiten Weltkriegs zählte der Berliner Zoologische Garten nur noch rund 80 Tiere. [[1938|story.the-zoo-and-national-socialism]] waren es über 3.000 gewesen und 1944 immerhin 1.700.[^1] Im Mai 1945 war das Gelände des Gartens, darunter auch die Elefantenpagode, zu großen Teilen zerstört.
 
 <figure>
 
