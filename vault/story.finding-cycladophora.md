@@ -7,7 +7,7 @@ short_desc_de: Von Telegrafen zu Proben
 date_end: 1859-12-31T11:06:32.000Z
 published: false
 title: Finding Cycladophora
-updated: 1639749872051
+updated: 1640478119373
 id: 4kJJB2pX-g7lq6q7GUt0W
 translators:
   translator_en_de: Jan-Peter Herrmann
@@ -43,7 +43,7 @@ date_start: 1858-12-31T23:06:32.000Z
 
 <figcaption>
 
-_A map of the surveys for transatlantic telegraph lines in 1861, published by Christian Gottfried Ehrenberg]].[^1]_
+_A map of the surveys for transatlantic telegraph lines in 1861, published by Christian Gottfried Ehrenberg.[^1]_
 
 </figcaption>
 
@@ -78,7 +78,7 @@ Tiefen-Angaben sind in Fathoms.](/images/filo/monatsberichtede18611knig_0293.jpg
 
 <figcaption>
 
-_Karte, die Vermessungen für transatlantische Telegrafenlinien im Jahr 1861 zeigt. Herausgegeben von [[material.christian gottfried ehrenberg]].[^1]_
+_Karte, die Vermessungen für transatlantische Telegrafenlinien im Jahr 1861 zeigt. Herausgegeben von Christian Gottfried Ehrenberg.[^1]_
 
 </figure>
 
