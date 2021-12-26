@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Taxonomic Orders
 title_de: Taxonomische Ordnung
 created: 1618491191119
-updated: 1640547324691
+updated: 1640547541759
 id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
 author: Filippo Bertoni
 translators:
@@ -85,11 +85,11 @@ Like all sorts of classifications, biological taxonomies are entangled with powe
 
 [^8]: For more on cladistics, see "An Introduction to Cladistics". _Journey into Phylogenetic Systematics_, 1996, https://ucmp.berkeley.edu/clad/clad1.html (01.07.2021); Wheeler, Q., L. Assis, and O. Rieppel. "Heed the father of cladistics". _Nature_ 496 (2013): 295–296. https://doi.org/10.1038/496295a.
 
-[^9]: More on the importance of databases, digitization, and data in [[theme.recording worlds]]. Also see Leonelli, Sabina, and Niccolò Tempini. _Data journeys in the sciences_. Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-37177-7.
+[^9]: More on the importance of databases, digitization, and data in [[theme.recording-worlds]]. Also see Leonelli, Sabina, and Niccolò Tempini. _Data journeys in the sciences_. Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-37177-7.
 
 [^10]: An example of this digitization of taxonomic expertise can be found in the [[Neptune Sandbox Berlin database|material.nsb-database]].
 
-[^11]: This can be seen in other stories on this website, like that of [[story.archeopteryx]], of [[story.limulus]], of [[story.cycladophora-davisiana]], but also of the [[story.zoological teaching collection]].
+[^11]: This can be seen in other stories on this website, like that of [[story.archeopteryx]], of [[story.limulus]], of [[story.cycladophora-davisiana]], but also of the [[story.history-of-the-zoological-teaching-collection]].
 
 [^12]: A useful example to understand this complex dynamic between taxonomic orders and real-life consequences can be found in the role of zoos and museums in conservation sciences. Databases and lists like [[material.species360]] organize conservation efforts along specific taxonomic orders, shaping who gets to live on our planet.
 
@@ -129,7 +129,7 @@ Selbst als die Molekular- und Computerbiologie die Biowissenschaften ab den 1980
 
 Die Zahl der digitalen Datenbanken, die einen einfacheren Zugang, eine demokratischere Beteiligung von Interessierten und vor allem mehr Standardisierung, Präzision und Rechenleistung ermöglichen, hat sich stark erhöht. _Encyclopedia of Life_, _Global Biodiversity Information Facility_,  _NCBI-Taxonomy Database_,  _Open Tree of Life_, _Catalogue of Life_ und [[material.species360]] sind nur einige der bedeutendsten Datenbanken; je mehr sie genutzt werden, desto erfolgreicher und etablierter werden sie – mittels einer positiven Rückkopplungsschleife, die die Praxis der Taxonomie verändert. Diese digitalen Ressourcen für die biologische Taxonomie helfen Wissenschaftler:innen, mit den sich ständig erweiternden und verändernden Klassifikationen Schritt zu halten, was sie anders möglicherweise gar nicht mehr leisten könnten. Digitale Datenbanken haben die Taxonomie in gewisser Weise revolutioniert. Wegen der Privilegierung dieser computergestützten und statistischen Ansätze sind die Datenbanken jedoch auch dafür kritisiert worden, dass sie das Fortbestehen der ohnehin bedrohten taxonomischen Expertise weiter gefährden: Immer weniger Biolog:innen befassen sich im Detail mit den komplexen, sich ständig wandelnden taxonomischen Klassifikationen und ihren historischen Verflechtungen, da molekulare Techniken oft leichter zugänglich sind und eine Aura der Wissenschaftlichkeit ausstrahlen. Um dieser Tendenz entgegenzuwirken, arbeiten Taxonom:innen gemeinsam an neuen, experimentellen Methoden, um taxonomisches Wissen zu bewahren, zum Beispiel durch Initiativen wie das _European Distributed Institute of Taxonomy_, das sich für den Erhalt des taxonomischen Fachwissens einsetzt, indem es neue Generationen von Wissenschaftler:innen ausbildet, aber auch durch die Beteiligung an der Gestaltung und Verwaltung von Dateninfrastrukturen – insbesondere im Zusammenhang mit wissenschaftlichen Sammlungen in Museen und Forschungsinstituten.[^10]
 
-Wie alle Klassifikationssysteme bringen auch biologische Taxonomien Machtverhältnisse zum Ausdruck: Sie definieren Kategorien, Ein- und Ausschlüsse und setzen diese Ordnung durch. Und da sie die Gestaltung und Anordnung von Ausstellungen und Sammlungen prägen, werden diese Ordnungssysteme deutlich sichtbar und nachvollziehbar, wie im Fall des Museums für Naturkunde Berlin und des Berliner Zoos. Änderungen der taxonomischen Ordnungen führen oft zu Veränderungen in der Darstellung und Zuordnung von Tieren in zoologischen Sammlungen und ihrer [[story.architecture]]. **In diesem Sinne sind taxonomische Ordnungen niemals neutral. Sie haben signifikante und reale Konsequenzen.**[^11] Dies wird besonders deutlich in den gegenwärtigen technokratischen Handlungsansätzen in Bezug auf den Klimawandel und die dringend notwendige Quantifizierung und das Management des Biodiversitätsverlustes.[^12] Wenn unterschiedliche taxonomische Ansätze zu unterschiedlichen Interpretationen von Daten und unterschiedlichen Schwellenwerten führen können, untermauern sie damit auch jeweils unterschiedliche politische Bewältigungsstrategien für die Klimakrise. Daher ist die Praxis taxonomischer Ordnung für die Bewältigung der Herausforderungen eines sich wandelnden Planeten und unsere Bestrebungen zur [[theme.recording worlds]] von zentraler Bedeutung.
+Wie alle Klassifikationssysteme bringen auch biologische Taxonomien Machtverhältnisse zum Ausdruck: Sie definieren Kategorien, Ein- und Ausschlüsse und setzen diese Ordnung durch. Und da sie die Gestaltung und Anordnung von Ausstellungen und Sammlungen prägen, werden diese Ordnungssysteme deutlich sichtbar und nachvollziehbar, wie im Fall des Museums für Naturkunde Berlin und des Berliner Zoos. Änderungen der taxonomischen Ordnungen führen oft zu Veränderungen in der Darstellung und Zuordnung von Tieren in zoologischen Sammlungen und ihrer [[story.architecture]]. **In diesem Sinne sind taxonomische Ordnungen niemals neutral. Sie haben signifikante und reale Konsequenzen.**[^11] Dies wird besonders deutlich in den gegenwärtigen technokratischen Handlungsansätzen in Bezug auf den Klimawandel und die dringend notwendige Quantifizierung und das Management des Biodiversitätsverlustes.[^12] Wenn unterschiedliche taxonomische Ansätze zu unterschiedlichen Interpretationen von Daten und unterschiedlichen Schwellenwerten führen können, untermauern sie damit auch jeweils unterschiedliche politische Bewältigungsstrategien für die Klimakrise. Daher ist die Praxis taxonomischer Ordnung für die Bewältigung der Herausforderungen eines sich wandelnden Planeten und unsere Bestrebungen zur [[theme.recording-worlds]] von zentraler Bedeutung.
 
 
 
@@ -149,11 +149,11 @@ Wie alle Klassifikationssysteme bringen auch biologische Taxonomien Machtverhäl
 
 [^8]: Siehe "An Introduction to Cladistics". _Journey into Phylogenetic Systematics_, 1996, https://ucmp.berkeley.edu/clad/clad1.html (01.07.2021); Wheeler, Q., L. Assis, und O. Rieppel. "Heed the father of cladistics". _Nature_ 496 (2013): 295–296. https://doi.org/10.1038/496295a.
 
-[^9]: Zur Bedeutung von Datenbanken, Digitalisierung und Daten siehe: [[theme.recording worlds]]. Oder siehe Leonelli, Sabina, and Niccolò Tempini. _Data journeys in the sciences_. Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-37177-7.
+[^9]: Zur Bedeutung von Datenbanken, Digitalisierung und Daten siehe: [[theme.recording-worlds]]. Oder siehe Leonelli, Sabina, and Niccolò Tempini. _Data journeys in the sciences_. Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-37177-7.
 
 [^10]: Ein Beispiel für die Digitalisierung taxonomischen Fachwissens ist die [[Neptune Sandbox Berlin Datenbank|material.nsb-database]].
 
-[^11]: Nachzulesen in weiteren Storys auf dieser Website, siehe [[story.archeopteryx]], [[story.limulus]], [[story.cycladophora-davisiana]] oder auch [[story.zoological-teaching-collection]].
+[^11]: Nachzulesen in weiteren Storys auf dieser Website, siehe [[story.archeopteryx]], [[story.limulus]], [[story.cycladophora-davisiana]] oder auch [[story.history-of-the-zoological-teaching-collection]].
 
 [^12]: Ein anschauliches Beispiel, um die komplexe Dynamik zwischen taxonomischen Ordnungen und realen Konsequenzen zu verstehen, ist die Rolle von Zoos und Museen in den Naturschutzwissenschaften. Datenbanken und Listen wie [[material.species360]] tragen zur Ausrichtung von Schutzmaßnahmen entlang bestimmter taxonomischer Ordnungen bei und bestimmen damit, wer auf unserem Planeten überleben darf.
 
