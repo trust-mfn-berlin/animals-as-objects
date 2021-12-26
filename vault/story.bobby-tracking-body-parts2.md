@@ -3,7 +3,7 @@ license: CC BY-SA
 title: '"Bobby". Tracking Body Parts'
 title_de: '"Bobby". Eine Fundgeschichte'
 created: 1640338390195
-updated: 1640340312735
+updated: 1640519543253
 id: 05XnJBaPUmIcfTWa4WMyb
 author: Mareike Vennen
 translators:
@@ -95,7 +95,7 @@ _"Bobby's" skull and various bones are being kept in the Mammals Collection at t
 </figure>
 
 
-The Museum of Natural History was the main recipient of the animal's body parts, which it used for various purposes. While the gorilla's skin was utilised for the taxidermy in the exhibition, his skull was transferred to the museum's Mammals Collection, where it is still kept today. It becomes immediately apparent that this is a scientific object, for example, when we look at the bones, which were sawn through multiple times during the necropsy.[^9] Moreover, like many collection items, information on the animal's provenance has been inscribed into the skull: the likely origin ("Probably Sembe southwest of Molundu Cameroon") and the donor ("Actien Verein d. zool. Garden Berlin G."; see [[material.purchased-from-a-passing-caravan]]). The gorilla has been transformed from a wild animal into a zoo animal and ultimately into a collection item. Further up on the skull, the inventory number ZMB 47528 has been noted, identifying the skull as a collection item. Below it is his popular name, "Bobby". This juxtaposition between scientific and popular language illustrates not just the animal's celebrity, but also the tension between anthropomorphisation and scientific objectification. 
+The Museum of Natural History was the main recipient of the animal's body parts, which it used for various purposes. While the gorilla's skin was utilised for the taxidermy in the exhibition, his skull was transferred to the museum's Mammals Collection, where it is still kept today. It becomes immediately apparent that this is a scientific object, for example, when we look at the bones, which were sawn through multiple times during the necropsy.[^9] Moreover, like many collection items, information on the animal's provenance has been inscribed into the skull: the likely origin ("Probably Sembe southwest of Molundu Cameroon") and the donor ("Actien Verein d. zool. Garden Berlin G."; see [[material.purchased-from-a-caravan]]). The gorilla has been transformed from a wild animal into a zoo animal and ultimately into a collection item. Further up on the skull, the inventory number ZMB 47528 has been noted, identifying the skull as a collection item. Below it is his popular name, "Bobby". This juxtaposition between scientific and popular language illustrates not just the animal's celebrity, but also the tension between anthropomorphisation and scientific objectification. 
 
 The museum's wet collection also holds body parts of the animal. Wet specimens have been preserved in seven jars, among them his right foot. The left foot and his two hands are missing. I have not been able to find their whereabouts yet. 
 
@@ -146,11 +146,12 @@ _Bronze death mask of "Bobby" at Berlin Zoo and case with another death mask in 
 </figure>
 
 The well-documented case of "Bobby" thus allows us to understand not just how preparation technologies can be used to produce a taxidermy and therefore transform the animal into a "lifelike" exhibition object. It also illustrates the techniques – dissecting, measuring, documenting, preparing, and casting – that turn animals into scientific collection items and objects of scientific research and, not least, into objects of memory. 
+
 The necropsy report[17] that documents the dissection and examination of the gorilla's body continues the body's dismemberment, not by means of a scalpel, but in word and image. The 24 large-format photos that capture the necropsy procedure in images are also part of a documentation practice that understands and appropriates the animal as an object of knowledge.[^18] 
 
 <figure>
 
-![Black-and-white close-up of a piece of tissue on a stretcher in a room; in the background part of a heater is visible. It is a piece of "Bobby" the gorilla's arm that has been removed from his body and now has its muscles exposed. The photo has been stuck to a piece of grey cardboard and bears a typewritten caption: "Elbow – top layer from the front"]
+![Black-and-white close-up of a piece of tissue on a stretcher in a room; in the background part of a heater is visible. It is a piece of "Bobby" the gorilla's arm that has been removed from his body and now has its muscles exposed. The photo has been stuck to a piece of grey cardboard and bears a typewritten caption: "Elbow – top layer from the front"](/images/zm-b-iv-557-18-r.jpg)
 
 <figcaption>
 
@@ -278,7 +279,7 @@ _Der Schädel und diverse Knochen von "Bobby" werden in der Säugetiersammlung d
 
 </figure>
 
-Das Museum für Naturkunde erhielt die meisten Teile des Tierkörpers, die dort für unterschiedliche Zwecke genutzt wurden. Während die Haut des Gorillas für die Dermoplastik in der Ausstellung benötigt wurde, kam sein Schädel in die Säugetiersammlung im nicht-öffentlichen Teil des Museums, wo er sich noch heute befindet. Dass es sich um ein wissenschaftliches Objekt handelt, ist unmittelbar sichtbar, etwa am mehrfach zersägten Knochen als Folge der Obduktion.[^9] Außerdem ist, wie bei vielen Sammlungsobjekten, auf dem Schädel Informationen über die Provenienz des Tieres inskribiert – die vermutete Herkunft ("Wahrscheinlich Sembe südwestl. von Molundu Kamerun") und der Geber ("Actien Verein d. zool. Gartens Berlin G.") (siehe [[material.purchased-from-a-passing-caravan]]). Der Gorilla war von einem Wildtier zu einem Zootier und schließlich in ein Sammlungsobjekt verwandelt worden. Weiter oben auf dem Schädel ist entsprechend die Inventarnummer ZMB 47528 notiert, die den Schädel als Sammlungsobjekt ausweist. Darunter steht der populäre Name "Bobby". Dieses Nebeneinander von wissenschaftlicher und populärer Sprache verdeutlicht nicht nur die Prominenz des Tieres, sondern auch die Spannung zwischen Vermenschlichung und wissenschaftlicher Objektifizierung. 
+Das Museum für Naturkunde erhielt die meisten Teile des Tierkörpers, die dort für unterschiedliche Zwecke genutzt wurden. Während die Haut des Gorillas für die Dermoplastik in der Ausstellung benötigt wurde, kam sein Schädel in die Säugetiersammlung im nicht-öffentlichen Teil des Museums, wo er sich noch heute befindet. Dass es sich um ein wissenschaftliches Objekt handelt, ist unmittelbar sichtbar, etwa am mehrfach zersägten Knochen als Folge der Obduktion.[^9] Außerdem ist, wie bei vielen Sammlungsobjekten, auf dem Schädel Informationen über die Provenienz des Tieres inskribiert – die vermutete Herkunft ("Wahrscheinlich Sembe südwestl. von Molundu Kamerun") und der Geber ("Actien Verein d. zool. Gartens Berlin G.") (siehe [[material.purchased-from-a-caravan]]). Der Gorilla war von einem Wildtier zu einem Zootier und schließlich in ein Sammlungsobjekt verwandelt worden. Weiter oben auf dem Schädel ist entsprechend die Inventarnummer ZMB 47528 notiert, die den Schädel als Sammlungsobjekt ausweist. Darunter steht der populäre Name "Bobby". Dieses Nebeneinander von wissenschaftlicher und populärer Sprache verdeutlicht nicht nur die Prominenz des Tieres, sondern auch die Spannung zwischen Vermenschlichung und wissenschaftlicher Objektifizierung. 
 
 Die Spur der Präparate führt weiter in die Nasssammlung des Museums. Hier werden in sieben Gläsern Nasspräparate einzelner Körperteile des Gorillas, darunter der rechte Fuß, aufbewahrt. Der linke Fuß und die beiden Hände fehlen. Über ihren Verbleib konnte ich bislang nichts in Erfahrung bekannt. 
 
@@ -334,11 +335,11 @@ Der Obduktionsbericht[^17], der die Zerteilung und Untersuchung des Körpers dok
 
 <figure>
 
-![Schwarz-Weiße Nahaufnahme eines Stücks Fleisch auf einer Bahre in einem Zimmer; im Hintergrund sieht man das Stück einer Heizung. Es handelt sich um den abgetrennten Armteil des Gorillas "Bobby" mit freigelegten Muskeln. Das Foto ist auf eine graue Pappe aufgeklebt und mit einer schreibmaschinengetippten Unterschrift versehen, die lautet: "Ellbogengegend - oberste Schicht von vorn".]
+![Schwarz-Weiße Nahaufnahme eines Stücks Fleisch auf einer Bahre in einem Zimmer; im Hintergrund sieht man das Stück einer Heizung. Es handelt sich um den abgetrennten Armteil des Gorillas "Bobby" mit freigelegten Muskeln. Das Foto ist auf eine graue Pappe aufgeklebt und mit einer schreibmaschinengetippten Unterschrift versehen, die lautet: "Ellbogengegend - oberste Schicht von vorn".](/images/zm-b-iv-557-18-r.jpg)
 
 <figcaption>
 
-_Diese Fotografie mit Bildunterschrift ("Ellbogengegend - oberste Schicht von vorn") aus dem Sektionsprotokoll ist Teil der wissenschaftlichen Dokumentationspraxis. Sie zeigt das Tier als Stück Fleisch und als Objekt anatomischer Forschung. (MfN, HBSB, ZM B IV 557 18 r. Alle Rechte vorbehalten.)_
+_Diese Fotografie mit Bildunterschrift ("Ellbogengegend - oberste Schicht von vorn") aus dem Sektionsprotokoll ist Teil der wissenschaftlichen Dokumentationspraxis. Sie zeigt das Tier als Stück Fleisch und als Objekt anatomischer Forschung. (MfN, HBSB, ZM-B-IV-557-18-r. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
