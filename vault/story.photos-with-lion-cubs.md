@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Photos with Lion Cubs
 title_de: Bilder mit Löwenbabys
 created: 1640340586550
-updated: 1640343447921
+updated: 1640521210832
 id: 4U5dFDf18mKRPdRnzu35p
 author: Mareike Vennen
 translators:
@@ -350,7 +350,7 @@ _Kleiner Junge mit Löwenbaby im Jahr 1939 auf der Bank des Berliner Zoofotograf
 
 </figure>
 
-Vielen mag das Fotomotiv bekannt sein: Mann, Frau oder Kind mit jungem Löwen auf dem Schoß. Manchmal ist der Blick liebevoll oder ängstlich dem Tier zugewandt, manchmal unverwandt in die Kamera gerichtet. In anderen Aufnahmen geht der Blick der Abgebildeten aus dem Bild heraus, wie bei diesem Foto, das 1939 im Berliner Zoo aufgenommen wurde. In vielen Zoos konnte man sich mit einem Löwenjungen fotografieren lassen. Wann kam das Motiv auf und warum ist es heute aus den Zoos verschwunden? Was verraten solche Fotos über die Beziehung zwischen Zoobesucher:innen und Löwenbabys? Welcher Umgang mit und welche Vorstellung von "wilden Tieren" bilden sich in diesen Bildern ab und wie werden die Tiere überhaupt zu Bildobjekten? Und schließlich die Frage: Was ist das Tier hier - Raubtier, Zootier, Kuscheltier? Die Suche nach Antworten führt nicht nur in die Geschichte der Fotopraxis und der Zootierhaltung. Sie hängt auch eng mit sich wandelnden Politiken des Tierbildes zusammen. 
+Vielen mag das Fotomotiv bekannt sein: Mann, Frau oder Kind mit jungem Löwen auf dem Schoß. Manchmal ist der Blick liebevoll oder ängstlich dem Tier zugewandt, manchmal unverwandt in die Kamera gerichtet. In anderen Aufnahmen geht der Blick der Abgebildeten aus dem Bild heraus, wie bei diesem Foto, das 1939 im Berliner Zoo aufgenommen wurde. In vielen Zoos konnte man sich mit einem Löwenjungen fotografieren lassen. Wann kam das Motiv auf und warum ist es heute aus den Zoos verschwunden? Was verraten solche Fotos über die Beziehung zwischen Zoobesucher:innen und Löwenbabys? Welcher Umgang mit und welche Vorstellung von "wilden Tieren" bilden sich in diesen Bildern ab und wie werden die Tiere überhaupt zu Bildobjekten? Und schließlich die Frage: Was ist das Tier hier – Raubtier, Zootier, Kuscheltier? Die Suche nach Antworten führt nicht nur in die Geschichte der Fotopraxis und der Zootierhaltung. Sie hängt auch eng mit sich wandelnden Politiken des Tierbildes zusammen. 
  
 ## Kontaktzonen zwischen Tier und Mensch 
 
