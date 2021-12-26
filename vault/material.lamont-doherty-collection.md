@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Lamont-Doherty Collection
 title_de: Lamont-Doherty Collection
 created: 1629110187218
-updated: 1640476857107
+updated: 1640476971316
 id: YJrLgXqicVoVnrM8FtHXU
 author: Filippo Bertoni
 translators:
@@ -23,6 +23,12 @@ published: false
 
 
 :::EN:::
+
+<figure>
+
+![desc](/images/lamont-cover.jpg)
+
+</figure>
 
 The Lamont-Doherty Earth Observatory[^1] is a famous scientific research centre dedicated to the study of climate and earth sciences. It is located in New York and part of The Earth Institute at Columbia University. Since its foundation in 1949, it spearheaded research on the planet’s history and dynamics, in particular through the collection and study of sediment samples from across the world’s oceans. Gathering [[material.core-samples]] since before the beginning of the various [[story.deep-sea-drilling]] programmes, the core repository in the Observatory is an archive of invaluable data on the planet’s history, present, and future.[^2] The data gathered and studied in this centre was instrumental in providing evidence in support of the theories of plate tectonics and continental drift, and it continues to support important research on planetary dynamics and climate change. Turning the fossilised remains of microorganisms and other animals into scientific objects, these long-term datasets allow scientists to highlight the interconnections [[story.of-microbes-and-planets]]. Importantly, these connections have become part of transnational efforts to know the planet, but also to govern it: global protocols and regulations to curb climate change, for instance, rely on models that depend on this data - and the forms of life on which the data depends. While the digital afterlives of these microorganisms challenge traditional forms of scientific authorship and authority, the models they ground take part in changing political ecologies and their technologies of governmentality.[^3]
 
@@ -47,6 +53,12 @@ _This video shows the unboxing of the collection as it arrived at the Museum fü
 
 
 :::DE:::
+
+<figure>
+
+![desc](/images/lamont-cover.jpg)
+
+</figure>
 
 Das Lamont-Doherty Earth Observatory[^1] ist ein berühmtes Forschungszentrum der Klima- und Geowissenschaften. Es ist Teil des Earth Institutes an der Columbia University und befindet sich in New York. Seit seiner Gründung im Jahr 1949 ist das Institut federführend bei der Erforschung der Geschichte und Dynamiken des Planeten, insbesondere aufgrund seiner Sammlungen und Analysen von Sedimentproben aus den Weltmeeren. Schon vor Beginn der verschiedenen [[story.deep-sea-drilling]]-Programme wurden in dem Institut [[Kernproben|material.core-samples]] gesammelt, und das institutseigene Bohrkernarchiv beherbergt unschätzbar wertvolle Daten über die Vergangenheit, Gegenwart und Zukunft unseres Planeten.[^2] Die im Institut gesammelten und untersuchten Daten trugen entscheidend zur Fundierung der Theorien über Plattentektonik und Kontinentalverschiebung bei. Auch heute untermauern diese Daten wichtige Forschung zu den dynamischen Prozessen des Planeten und zum Klimawandel. Durch die Umwandlung der fossilisierten Überreste von Mikroorganismen und anderer Tiere in wissenschaftliche Studienobjekte ermöglichen diese Langzeitdatensätze es den Wissenschaftler:innen, Zusammenhänge zwischen [[Mikroben und Planeten|story.of-microbes-and-planets]] aufzuzeigen. Die Einsicht in diese Zusammenhänge prägt indes die internationalen Bemühungen um ein besseres Verständnis von unserem Planeten, ebenso wie die Versuche, auf seine Prozesse Einfluss zu nehmen: Globale Vereinbarungen und Regeln zur Eindämmung des Klimawandels stützen sich beispielsweise auf Modelle, die auf diesen Daten basieren – und damit auf den Lebensformen, die diesen Daten zugrunde liegen. Während das digitale Nachleben dieser Mikroorganismen die traditionellen Formen wissenschaftlicher Autor:innenschaft und Autorität in Frage stellt, tragen die Modelle, die auf ihnen basieren, zur Veränderung politischer Ökologien und dem entsprechendem Regierungshandeln bei [^3].
 
