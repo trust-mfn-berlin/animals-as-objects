@@ -1,13 +1,16 @@
 ---
 license: CC BY-SA
-title: Microbial Worlds
 title_de: "Mikrobielle Welten "
 created: 1618930984846
+author: Filippo Bertoni
+short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Welt
+date_end: 2021-12-14T14:41:44.038Z
+published: false
+title: Microbial Worlds
 updated: 1640452425159
 id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
-author: Filippo Bertoni
 translators:
-  translator_en_de: Jan-Peter Herrmann
+  translator_en_de: ""
 desc: The development of techniques for observing microscopic worlds shaped our
   knowledge of microbes. From their earliest observations in the 17th century to
   the latest explorations of the importance of microbes in infusing our planet
@@ -21,14 +24,11 @@ desc_de: Unser Wissen über Mikroben beruht maßgeblich auf der Entwicklung
   Planeten, vermittelt uns ein immer klareres Bild ihrer zentralen Bedeutung für
   vergangene und andauernde planetare Dynamiken.
 short_desc: Microorganisms keep transforming (our view of) the world
-short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Welt
 cover_image:
   image: /images/illustrated-london-news-conversazione_crop.jpg
 colour_scheme: 3
 tao_type: theme
 date_start: 1673-01-01T14:45:32.000Z
-date_end: 2021-12-14T14:41:44.038Z
-published: false
 ---
 
 :::EN:::
