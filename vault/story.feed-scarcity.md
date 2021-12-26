@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1640537177014
+updated: 1640537852166
 id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: Carla Welch
@@ -391,7 +391,7 @@ _Auflistung des [[Futtermittelbedarfs|material.feeding-list-1945]] für die Gro�
 
 Nachdem Katharina Heinroth eine Liste der Großtiere mit deren Futterbedarfen eingereicht hatte, teilte das Amt die notwendigen Rationen zu, auch hier "möglichst solche, die für den menschlichen Gebrauch ungeeignet sind."[^17] Schlachthäuser wurden angewiesen, Kadaver von Pferden und Rindern zur Verfütterung an die Fleischfresser im Zoo abzugeben; Krankenhäuser lieferten Speisereste aus ihren Kantinen, siehe auch [[story.the-afterlife-of-zoo-animals]]. Der Zoo war somit teilweise als Verwertungsmaschine organischer Abfälle in den urbanen Metabolismus eingebunden [[theme.logistical-metabolisms]].
 
-Da die Tiere zusätzlich zu Heu und Stroh jeden Monat fast 4.500 kg Futtermittel – Mischfutter, Hafer und Hanf, Brotabfälle, Kartoffeln und Gemüse, Fleischabfälle und Pferdefleisch – verbrauchten, kam es dennoch immer wieder zu Engpässen.[^18] Dann musste improvisiert werden. Hanf und Hirse sowie Haferflocken waren anfangs nirgends zu bekommen, dafür gab es Gerste. Fehlende Kartoffeln ersetzten Katharina Heinroth und ihre Mitarbeiter:innen durch Futterrüben oder Brotabfälle, die Zoopfleger:innen sammelten regelmäßig Kartoffelschalen "aus halb Berlin zusammen".[^19] Die täglichen Portionen waren stark rationiert, "der alte Elefant 'Siam' mit seinen ausgefransten Ohren, dem noch immer der Schrecken der Bombenangriffe in den Knochen sitzt […] erhält 100 Pfund Futter am Tag vom Berliner Magistrat zur Verfügung gestellt. Die listige Schimpansin 'Susi'  muß sich dagegen mit \[Lebensmittel]Karte 5 begnügen"[^20], also der niedrigsten Kategorie wie sie auch Kinder und Rentner erhielten. Der _Tagesspiegel_ bemerkte dazu: "Der Magistrat teilt den Tieren ihre Rationen genau so streng zu wie den Menschen. Jede Gattung hat ihr vorgeschriebenes Quantum."[^21]
+Da die Tiere zusätzlich zu Heu und Stroh jeden Monat fast 4.500 kg Futtermittel – Mischfutter, Hafer und Hanf, Brotabfälle, Kartoffeln und Gemüse, Fleischabfälle und Pferdefleisch – verbrauchten, kam es dennoch immer wieder zu Engpässen.[^18] Dann musste improvisiert werden. Hanf und Hirse sowie Haferflocken waren anfangs nirgends zu bekommen, dafür gab es Gerste. Fehlende Kartoffeln ersetzten Katharina Heinroth und ihre Mitarbeiter:innen durch Futterrüben oder Brotabfälle, die Zoopfleger:innen sammelten regelmäßig Kartoffelschalen "aus halb Berlin zusammen".[^19] Die täglichen Portionen waren stark rationiert, "der alte Elefant 'Siam' mit seinen ausgefransten Ohren, dem noch immer der Schrecken der Bombenangriffe in den Knochen sitzt […] erhält 100 Pfund Futter am Tag vom Berliner Magistrat zur Verfügung gestellt. Die listige Schimpansin 'Susi'  muß sich dagegen mit \[Lebensmittel] Karte 5 begnügen"[^20], also der niedrigsten Kategorie wie sie auch Kinder und Rentner erhielten. Der _Tagesspiegel_ bemerkte dazu: "Der Magistrat teilt den Tieren ihre Rationen genau so streng zu wie den Menschen. Jede Gattung hat ihr vorgeschriebenes Quantum."[^21]
 
 ## Die Stadt ernähren
 
