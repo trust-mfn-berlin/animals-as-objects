@@ -8,7 +8,7 @@ desc: |-
   these trees tell us today – about the connections between the _Morus alba_ and
   the silkworm, between philosophy and economics, between royal decrees and
   everyday knowledge?
-updated: 1640271544653
+updated: 1640523838960
 created: 1629986374819
 license: CC BY-SA
 title_de: Seidenraupen
@@ -105,7 +105,7 @@ In the 18th century, the zoologist Carl Linnaeus coined the term metamorphosis t
 
 <figure>
  
-![Book cover with an illustration of twig curling in an oval shape on which red berries and chewed up green leaves are growing. Sitting on the leaves are caterpillars, flies, bugs, etc. The title is positioned in the middle in a serpentine font.](/images/guests/silkworm-honeybee-seidenraupe-honigbiene-neue-bilder-gallerie-oehmigcke.jpg)
+![Book cover with an illustration of twig curling in an oval shape on which red berries and chewed up green leaves are growing. Sitting on the leaves are caterpillars, flies, bugs, etc. The title is positioned in the middle in a serpentine font.](/images/guests/der-raupen-wunderbare-verwandelung-maria-sybilla-von-merian.png)
  
 <figcaption>
  
@@ -270,7 +270,7 @@ Der Zoologe Carl von Linné prägte im 18. Jahrhundert für die Gestaltwandlung 
 
 <figure>
  
-![Buchtitelseite mit Illustration eines oval geschwungenen Zweigs, an dem rote Beeren und zerfressene grüne Blätter wachsen. Auf den Blättern sitzen Raupen, Fliegen, Käfer u.ä. Titel steht mittig in verschlungener Schrift.](/images/guests/silkworm-honeybee-seidenraupe-honigbiene-neue-bilder-gallerie-oehmigcke.jpg)
+![Buchtitelseite mit Illustration eines oval geschwungenen Zweigs, an dem rote Beeren und zerfressene grüne Blätter wachsen. Auf den Blättern sitzen Raupen, Fliegen, Käfer u.ä. Titel steht mittig in verschlungener Schrift.](/images/guests/der-raupen-wunderbare-verwandelung-maria-sybilla-von-merian.png)
  
 <figcaption>
  
