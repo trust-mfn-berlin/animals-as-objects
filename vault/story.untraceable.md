@@ -1,17 +1,21 @@
 ---
-id: abaNOPQjQqMhfMbhbhvm4
-title: Untraceable
-desc: Put a description of this note here...
-updated: 1640459479902
-created: 1640459479902
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Unauffindbar
+created: 1640459479902
+author: Author name(s) here.
+short_desc_de: dt titel noch nicht abgenommen, text noch in durchsicht
+date_end: ""
 published: false
+title: Untraceable
+updated: 1640459479902
+id: abaNOPQjQqMhfMbhbhvm4
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: dt titel noch nicht abgenommen, text noch in durchsicht
+cover_image: null
 colour_scheme: 14
+tao_type: story
+date_start: ""
 ---
 
 :::EN:::
