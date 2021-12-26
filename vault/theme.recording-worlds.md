@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Recording Worlds
 title_de: Welt(en) verzeichnen
 created: 1630051088275
-updated: 1640520204633
+updated: 1640520778069
 id: 4r0yES2CMXdwBI2l8fYbZ
 author: Mareike Vennen, Filippo Bertoni
 translators:
@@ -88,7 +88,7 @@ _Card box used to keep the records of the Zoological Teaching Collection. (Zoolo
 
 <figure>
 
-These were more flexible and literally lighter to handle, making it easier to incorporate new objects and to adjust existing orders. Yet another reason can be found in conservation legislation, which required the implementation of new regulations for the trade and traffic of wild animals and for the exchange between zoos and museums. This entailed new standards of record-keeping. During colonialism, millions of specimens were collected with few regulations in place, leading to poor records. After the Second World War, when international breeding programs were established, linking [story.zoos-and-conservation]], more detailed documentation became crucial. At the same time, regulations like the Washington Convention on International Trade in Endangered Species from 1973 required records of provenance to ensure traceability.
+These were more flexible and literally lighter to handle, making it easier to incorporate new objects and to adjust existing orders. Yet another reason can be found in conservation legislation, which required the implementation of new regulations for the trade and traffic of wild animals and for the exchange between zoos and museums. This entailed new standards of record-keeping. During colonialism, millions of specimens were collected with few regulations in place, leading to poor records. After the Second World War, when international breeding programs were established, linking [[story.zoos-and-conservation]], more detailed documentation became crucial. At the same time, regulations like the Washington Convention on International Trade in Endangered Species from 1973 required records of provenance to ensure traceability.
 
 However, despite these standardising efforts, we are far from universal (or even uniform) systems of record-keeping. Institutions such as zoos, natural history museums and teaching collections use (very) different databases, ranging from [[material.species360]] to [[material.nsb-database]]. Furthermore, past practices of record-keeping can pose challenges to the present since we inherit records which are based on historical decisions about what and how to record. These decisions might have been based on political rationales or economic logics that no longer obtain or that are, indeed, no longer defensible. The excess of colonial collecting made it impossible to assiduously record every incoming object and to this day specimens in collections worldwide are not inventoried (yet) [[story.untraceable]]. This illustrates how difficult it is to quantify the exact number of objects in a collection, especially those originating from the 19th and early twentieth century.
 
