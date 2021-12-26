@@ -11,7 +11,7 @@ updated: 1640552143747
 id: aIG4TDxqQbsrl43uiSyGE
 doi: 10.7479/64y2-m311/1
 translators:
-  translator_en_de: Jan-Peter Herrmann
+  translator_en_de: ""
 desc: The classification of this radiolarian species in the 19th century
   inscribed it in a forming taxonomic order of nature. This story uses the
   contrasting approaches of two renowned German naturalists – and their
