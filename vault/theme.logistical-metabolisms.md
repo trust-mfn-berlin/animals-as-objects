@@ -1,17 +1,21 @@
 ---
-id: GkUgy87PFegTFmR0W1Z2Q
-title: Logistical Metabolisms
-desc: Put a description of this note here...
-updated: 1640459420576
-created: 1640459420576
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: theme
-cover_image: null
 license: CC BY-SA
+title_de: Logistische Metabolismen
+created: 1640459420576
+author: Author name(s) here.
+short_desc_de: noch nicht abgenommen
+date_end: ""
 published: false
+title: Logistical Metabolisms
+updated: 1640459420576
+id: GkUgy87PFegTFmR0W1Z2Q
+desc: noch nicht abgenommen
+desc_de: noch nicht abgenommen
+short_desc: noch nicht abgenommen
+cover_image: null
 colour_scheme: 4
+tao_type: theme
+date_start: ""
 ---
 
 :::EN:::

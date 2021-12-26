@@ -1,17 +1,21 @@
 ---
-id: 5uQChdHATgh_dE94AE5fX
-title: List of Dead Zoo Animals
-desc: Put a description of this note here...
-updated: 1630052153889
-created: 1623930479492
-title_de: Add a german title here
-desc_de: Put a DE description of this note here...
-author: Author name(s) here.
-tao_type: material
-cover_image: null
 license: CC BY-SA
+title_de: Liste toter Zootiere
+created: 1623930479492
+author: Author name(s) here.
+short_desc_de: noch im check bei therese
+date_end: ""
 published: false
+title: List of Dead Zoo Animals
+updated: 1630052153889
+id: 5uQChdHATgh_dE94AE5fX
+desc: Put a description of this note here...
+desc_de: Put a DE description of this note here...
+short_desc: noch im check bei therese
+cover_image: null
 colour_scheme: 0
+tao_type: material
+date_start: ""
 ---
 
 :::EN:::
