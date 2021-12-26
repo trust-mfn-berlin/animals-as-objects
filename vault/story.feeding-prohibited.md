@@ -7,7 +7,7 @@ updated: 1640549958150
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 author: Mareike Vennen
 translators:
-  translator_de_en: Carla Welch
+  translator_de_en: ""
 desc: Nowadays, zoos impose a divide between animals and humans that is mostly
   taken for granted, but it was long commonplace for visitors to have direct
   contact with the animals through feeding. How, when, and why did zoos
@@ -26,6 +26,7 @@ cover_image:
 colour_scheme: 4
 tao_type: story
 date_start: 1958-12-31T23:00:00.000Z
+date_end: ""
 ---
 
 :::EN:::
