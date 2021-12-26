@@ -10,7 +10,7 @@ title: Chaotic Origins of Micropaleontology
 updated: 1640550237290
 id: fee46412-5135-463a-8019-d002f5b513ea
 translators:
-  translator_en_de: Jan-Peter Herrmann
+  translator_en_de: ""
 desc: As microorganisms began to enter our field of vision, naturalists
   struggled to understand their relations to the rest of nature. The history of
   these struggles, especially how they took shape around the Museum für
