@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1640539972814
+updated: 1640540944854
 id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: Carla Welch
@@ -359,7 +359,7 @@ _Über den Gemüse- und Salatanbau im Zoologischen Garten Berlin berichtet die i
 
 Allerdings reichte diese Ernte zur Versorgung auch der wenigen der Pflanzenfresser bei weitem nicht aus. Außerdem mussten sich die Tiere den Ertrag der Beete – wie bereits erwähnt – mit den Zoomitarbeiter:innen teilen.[^7] Der Zoo pachtete daher zusätzliche Flächen am Rande von Berlin – "Flächen, gegen die die paar kleinen Gärten in den Gehegen verschwinden".[^8] Im Spandauer Forst und im Grunewald etwa wurden auf neun Hektar Grünfutter ausgesät und Wiesen zur Heuernte angelegt. Doch "auch das ist alles lediglich Beifutter"[^9], antwortete Katharina Heinroth auf die Zuschrift einer Person, die den Zoo besucht hatte. Die Futtermittelknappheit wirkte sich unmittelbar auf den Wiederaufbau des Tierbestands im Zoo aus. An einen erneuten Zuwachs an Tieren, zumal Großsäugern vom anderen Ende der Welt, war einstweilen nicht zu denken. Auf die Zuschriften von Berliner:innen mit der Bitte, eine neue Elefantenherde anzuschaffen, musste Heinroth daher im Sommer 1947 noch erwidern: "Leider wird es in den nächsten Jahren nicht möglich sein, wieder eine Elefantenherde zu beschaffen, da die Ernährungsschwierigkeiten in der Stadt viel zu gross sind. Wir haben zur Zeit nur noch unseren alten Elefanten 'Siam' und haben vollauf zu tun, um ihm genügend Heu und Stroh, Gras und Rüben heranzuschaffen."[^10]
 
-Während im Berliner Zoo nur knapp zehn Jahre später der Tod von Tieren durch [[Überfütterung|story.feeding-and-overfeeding]] durch Besucher:innen zu einem generellen [[Fütterungsverbot|story.feeding-prohibited]] führte , sah dies in den späten 1940er Jahren noch ganz anders aus. Die eigenen Bemühungen der Zoomitarbeiter:innen reichten für die Versorgung der Tiere nicht aus. Der Zoo war auf die Stadt angewiesen – auf die Verkehrsinfrastrukturen und die Schlachthöfe ebenso wie auf die Besucher:innen und Behörden. In Zeitungsartikeln rief Katharina Heinroth die Berliner Bevölkerung dazu auf, die Tiere durch Lebensmittelspenden zu unterstützen.
+Während im Berliner Zoo nur knapp zehn Jahre später der Tod von Tieren durch [[Überfütterung|story.feeding-and-overfeeding]] durch Besucher:innen zu einem generellen [[Fütterungsverbot|story.feeding-prohibited]] führte, sah dies in den späten 1940er Jahren noch ganz anders aus. Die eigenen Bemühungen der Zoomitarbeiter:innen reichten für die Versorgung der Tiere nicht aus. Der Zoo war auf die Stadt angewiesen – auf die Verkehrsinfrastrukturen und die Schlachthöfe ebenso wie auf die Besucher:innen und Behörden. In Zeitungsartikeln rief Katharina Heinroth die Berliner Bevölkerung dazu auf, die Tiere durch Lebensmittelspenden zu unterstützen.
 
 <figure>
 
