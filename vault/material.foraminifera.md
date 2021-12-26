@@ -10,7 +10,7 @@ title: Foraminifera
 updated: 1640542772489
 id: 83cc17bb-8a8e-4157-9ebc-f0990cf60076
 translators:
-  translator_en_de: Jan-Peter Herrmann
+  translator_en_de: ""
 desc: Microorganisms most commonly living in the oceans
 desc_de: Mikroorganismen, die am häufigsten in den Ozeanen leben
 short_desc: Microorganisms most commonly living in the oceans
