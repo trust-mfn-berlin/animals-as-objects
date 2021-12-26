@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1640544966172
+updated: 1640546908064
 id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: Carla Welch
@@ -113,7 +113,7 @@ Though, just ten years later, the death of animals due to [[overfeeding|story.fe
 
 <figcaption>
 
-_Appeal to save the zoo printed in the_ Illustrated Telegraph_, March 1949._
+_Appeal to save the zoo printed in the_ Illustrated Telegraph, _March 1949._
 
 <figcaption>
 
