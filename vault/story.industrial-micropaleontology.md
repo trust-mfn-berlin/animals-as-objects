@@ -10,7 +10,7 @@ title: Industrial Micropaleontology
 updated: 1640549761105
 id: 2df514da-8df2-4278-8534-28e1034c7adf
 translators:
-  translator_en_de: Jan-Peter Herrmann
+  translator_en_de: ""
 desc: In the 1920s, scientists Esther Applin, Alva Ellisor, and Hedwig
   Knikerwere revolutionized micropaleontology. They were employed by oil
   companies, and showed important applications to stratigraphy and petroleum
