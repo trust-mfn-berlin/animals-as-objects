@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Face to Face with Zoo Animals
 title_de: Zootiere anfassen
 created: 1640354060660
-updated: 1640355265060
+updated: 1640596994556
 id: U1w3ckwyrdpQ2JzOLgTKo
 author: Mareike Vennen
 desc: The baby animal zoo
@@ -119,7 +119,7 @@ _Die_ Funkwoche Berlin _zeigt die Fütterungsübungen mit Bärenbaby im Berliner
 
 </figure>
 
-Was heute als irritierend, gefährlich und wenig artgerecht erscheint, war damals ein so großer Erfolg, dass es bisweilen zu Engpässen bei der Lieferung junger Löwen, Tiger und Leoparden kam.[^1] Auch weil schon bald weitere Zoos ihren Besucher\*innen ähnliche Attraktionen bieten wollten. "Großes Löwenstreicheln im Zoo" kündigte die _Leipziger Tageszeitung_ am 8. November 1935 an[^2] und im Stellinger Tierpark beobachtete der Zoodirektor, wie gern die Besucher:innen junge Löwen auf den Arm nahmen und streichelten.[^3] Der Bedarf an Jungtieren blieb aber auch deshalb hoch, da die Jungtiere im nächsten Sommer längst zu groß geworden waren und [[ersetzt werden mussten|story.photos-with-lion-cubs]]. Raubtierbabys waren auf dem Markt entsprechend begehrt und teuer[^4]; man nahm daher, was man bekommen konnte: "Wie schon besprochen, könnten anstatt der jungen Raubtiere vorläufig exotische Bären genommen und diese evtl. später gegen junge Raubtiere ausgetauscht werden"[^5], ließ der Tierhändler Ruhe, der die Raubtierjungen für den Berliner Zoo lieferte, dessen Direktor wissen. 
+Was heute als irritierend, gefährlich und wenig artgerecht erscheint, war damals ein so großer Erfolg, dass es bisweilen zu Engpässen bei der Lieferung junger Löwen, Tiger und Leoparden kam.[^1] Auch weil schon bald weitere Zoos ihren Besucher:innen ähnliche Attraktionen bieten wollten. "Großes Löwenstreicheln im Zoo" kündigte die _Leipziger Tageszeitung_ am 8. November 1935 an[^2] und im Stellinger Tierpark beobachtete der Zoodirektor, wie gern die Besucher:innen junge Löwen auf den Arm nahmen und streichelten.[^3] Der Bedarf an Jungtieren blieb aber auch deshalb hoch, da die Jungtiere im nächsten Sommer längst zu groß geworden waren und [[ersetzt werden mussten|story.photos-with-lion-cubs]]. Raubtierbabys waren auf dem Markt entsprechend begehrt und teuer[^4]; man nahm daher, was man bekommen konnte: "Wie schon besprochen, könnten anstatt der jungen Raubtiere vorläufig exotische Bären genommen und diese evtl. später gegen junge Raubtiere ausgetauscht werden"[^5], ließ der Tierhändler Ruhe, der die Raubtierjungen für den Berliner Zoo lieferte, dessen Direktor wissen. 
  
 <figure>
 
