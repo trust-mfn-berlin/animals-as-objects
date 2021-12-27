@@ -7,7 +7,7 @@ short_desc_de: Wie und warum stellen Zoos Tiere aus?
 date_end: 2021-08-27T23:01:33.091Z
 published: false
 title: Putting Animals on Display
-updated: 1640641306950
+updated: 1640641691482
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 translators:
   translator_de_en: Lydia J. White
@@ -130,7 +130,7 @@ _Article about "Cheap Sundays" at the Berlin zoo in_ Berliner Illustrierten Zeit
 
 </figure>
 
-Also serving the purpose of entertainment was the exoticising zoo architecture, which had increasingly become a mainstay of many European zoos since the 1850s. !<-- insert zoo architecture --> These stylised structures formed the backdrop for the animals – and still do today. **The first major exoticising architectural project in Berlin was the antelope and giraffe house, which was built in a so-called "Moorish" style.** It was followed by what was referred to as the Elephant Pagoda, which emulated an Indian-style temple, and the ostrich house, built in the style of an ancient Egyptian temple. They conveyed stereotypical images of regions foreign to Europeans and sometimes bore no relation whatsoever to the animals on display. For example, in the 'Indian' pagoda, Indian and African rhinoceroses and elephants were shown side by side, and Australian ostriches were exhibited in the Egyptian temple.
+Also serving the purpose of entertainment was the exoticising zoo architecture, which had increasingly become a mainstay of many European zoos since the 1850s. These stylised structures formed the backdrop for the animals – and still do today. **The first major exoticising architectural project in Berlin was the antelope and giraffe house, which was built in a so-called "Moorish" style.** It was followed by what was referred to as the Elephant Pagoda, which emulated an Indian-style temple, and the ostrich house, built in the style of an ancient Egyptian temple. They conveyed stereotypical images of regions foreign to Europeans and sometimes bore no relation whatsoever to the animals on display. For example, in the 'Indian' pagoda, Indian and African rhinoceroses and elephants were shown side by side, and Australian ostriches were exhibited in the Egyptian temple.
 
 <figure>
 
@@ -415,7 +415,7 @@ _Artikel zum "Billigen Sonntag" im Zoo Berlin in der_ Berliner Illustrierten Zei
 
 </figure>
 
-Zum Zweck der Unterhaltung diente auch eine exotisierende Zooarchitektur, die sich seit den 1850er-Jahren in vielen europäischen Zoos einbürgerte. <!-- insert zoo architecture --> Diese Stilbauten bildeten und bilden noch heute die Kulisse für Tiere. **Das erste Berliner Großprojekt der exotisierenden Architektur war das Antilopen- und Giraffenhaus im sogenannten "maurischen" Stil.** Es folgten die sogenannte Elefantenpagode, die einen indischen Tempelstil nachahmte, und das Straußenhaus in Anlehnung an altägyptische Tempel. Sie vermittelten stereotype Bilder von den Europäer:innen fremden Regionen und hatten manchmal keinerlei Bezug zu den ausgestellten Tieren. So wurden in der 'indischen' Pagode neben indischen auch afrikanische Nashörner und Elefanten und im ägyptischen Tempel australische Strauße ausgestellt.
+Zum Zweck der Unterhaltung diente auch eine exotisierende Zooarchitektur, die sich seit den 1850er-Jahren in vielen europäischen Zoos einbürgerte. Diese Stilbauten bildeten und bilden noch heute die Kulisse für Tiere. **Das erste Berliner Großprojekt der exotisierenden Architektur war das Antilopen- und Giraffenhaus im sogenannten "maurischen" Stil.** Es folgten die sogenannte Elefantenpagode, die einen indischen Tempelstil nachahmte, und das Straußenhaus in Anlehnung an altägyptische Tempel. Sie vermittelten stereotype Bilder von den Europäer:innen fremden Regionen und hatten manchmal keinerlei Bezug zu den ausgestellten Tieren. So wurden in der 'indischen' Pagode neben indischen auch afrikanische Nashörner und Elefanten und im ägyptischen Tempel australische Strauße ausgestellt.
 
 <figure>
 
