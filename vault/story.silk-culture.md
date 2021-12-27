@@ -7,7 +7,7 @@ desc: |-
   German provinces in the 17th century. How did they get to Prussia, what shape
   did silk production take, and what was it that ultimately led state-run silk
   farming to dry up? 
-updated: 1640639914251
+updated: 1640640651375
 created: 1629996091814
 license: CC BY-SA
 title_de: Seiden-Cultur
@@ -45,7 +45,7 @@ colour_scheme: 12
  
 <figcaption>
  
-_Display case from the Lepidoptera collection at the Museum of Natural History, Berlin. (Photo Britta. All rights reserved.)_
+_Display case from the Lepidoptera collection at the Museum of Natural History, Berlin. (Photo Britta Lange. All rights reserved.)_
 
 </figcaption>
  
