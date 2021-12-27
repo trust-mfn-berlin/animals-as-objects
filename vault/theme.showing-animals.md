@@ -7,7 +7,7 @@ short_desc_de: Wie und warum stellen Zoos Tiere aus?
 date_end: 2021-08-27T23:01:33.091Z
 published: false
 title: Putting Animals on Display
-updated: 1640471072039
+updated: 1640641306950
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 translators:
   translator_de_en: Lydia J. White
@@ -35,6 +35,19 @@ colour_scheme: 1
 ---
 
 :::EN:::
+
+<figure>
+
+![Black and white photo: building with Arabic / neo-Moorish repertoire of forms, including gemel windows, geometric decoration, horseshoe arches, and slender columns and towers In front of it, two giraffes stand behind a fence.](/images/cmw/Antilopenhaus_um_1920.jpg)
+
+<figcaption>
+
+_The antelope house at Berlin Zoo around 1920. (AZGB. All rights reserved.)_
+
+</figcaption>
+
+</figure>
+
 
 Paragraph 42 of the German Act on Conservation and Landscape Preservation (BNatSchG) defines zoos as
 
@@ -307,6 +320,19 @@ At a time when visual media are making it possible to access the lives of wild a
 
 
 :::DE:::
+
+<figure>
+
+![Schwarz-Weiß-Foto: Gebäude mit arabischem bzw. neomaurischem Formenrepertoire, inklusive Zwillingsfenstern, geometrischem Dekor, Hufeisenbögen und schlanken Säulen und Türmen. Davor stehen zwei Giraffen hinter einem Zaun.](/images/cmw/Antilopenhaus_um_1920.jpg)
+
+
+<figcaption>
+
+_Das Antilopenhaus im Berliner Zoo um 1920. (AZGB. Alle Rechte vorbehalten.)_
+
+</figcaption>
+
+</figure>
 
 Der Paragraph 42 des Bundesnaturschutzgesetzes (BNatSchG) definiert Zoos als
 
