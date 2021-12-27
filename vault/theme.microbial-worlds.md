@@ -7,7 +7,7 @@ short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Wel
 date_end: 2021-12-14T14:41:44.038Z
 published: false
 title: Microbial Worlds
-updated: 1640636950939
+updated: 1640637190660
 id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
 translators:
   translator_en_de: ""
@@ -107,7 +107,7 @@ _How_ we see microbial life also transforms _what_ we see. The emergence of micr
 
 <figcaption>
 
-_”A Drop of Ocean” shows the complex micro-level physicochemical interactions of microbes. (Stocker lab)[^20]_
+_”A Drop of Ocean” shows the complex micro-level physicochemical interactions of microbes. (Stocker lab.) [^20]_
 
 </figcaption>
 
@@ -229,7 +229,7 @@ Mit der Art und Weise, _wie_ wir mikrobielles Leben betrachten, verändert sich 
 
 <figcaption>
 
-_”A Drop of Ocean” zeigt die komplexen physikalisch-chemischen Interaktionen zwischen Mikroben auf der Mikroebene. (Stocker lab)[^20]_
+_”A Drop of Ocean” zeigt die komplexen physikalisch-chemischen Interaktionen zwischen Mikroben auf der Mikroebene. (Stocker lab.) [^20]_
 
 </figcaption>
 
