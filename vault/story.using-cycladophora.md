@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: Using Cycladophora
 title_de: Nutzung von Cycladophora
 created: 1624875395326
-author: Filippo Bertoni
-short_desc_de: Von Mikrofossilien zur Planetenwissenschaft
-date_end: 2021-07-06T11:38:39.090Z
-published: false
-title: Using Cycladophora
 updated: 1640638419995
 id: TBi8fH-OIQRAoB-tG9ZY1
+author: Filippo Bertoni
 doi: 10.7479/64y2-m311/2
 translators:
   translator_en_de: ""
@@ -24,12 +21,15 @@ desc_de: Dank komplexer wissenschaftlich-technischer Netzwerke ist Cycladophora
   gemacht werden, wie diese Netzwerke entstanden sind und wie sie nach wie vor
   das Wissen über unseren Planeten – und seine mikrobiellen Bewohner – prägen.
 short_desc: From microfossils to planetary sciences
+short_desc_de: Von Mikrofossilien zur Planetenwissenschaft
 cover_image:
-  image: ""
+  image: /images/cover-using-cycladophora.jpeg
   alt: ""
 colour_scheme: 14
 tao_type: story
 date_start: 1949-12-31T23:00:00.000Z
+date_end: 2021-07-06T11:38:39.090Z
+published: false
 ---
 
 :::EN:::
