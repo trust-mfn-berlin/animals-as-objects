@@ -7,7 +7,7 @@ short_desc_de: Habitate und Tierhandelsfirmen
 date_end: 1973-12-31T11:00:00.000Z
 published: false
 title: Catching Animals
-updated: 1640604876813
+updated: 1640638294528
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 translators:
   translator_de_en: ""
@@ -30,6 +30,18 @@ date_start: 1844-12-31T23:06:32.000Z
 
 
 :::EN:::
+
+<figure>
+
+![Black and white photograph: Two small giraffes in a wooden cage on the back of a truck. The person at the wheel is not clearly visible. A white person with a moustache, wearing a pith hat and high boots, is sitting on the roof above the steering wheel, his legs dangling down. Behind him sits another unrecognizable person.](/images/cmw/S_3_82_Giraffentransport.jpg)
+
+<figcaption>
+
+_Shipment of two young  giraffes, 1928. (AZGB, photo Lutz Heck. All rights reserved.)_
+
+</figcaption>
+
+</figure>
 
 In the summer of 1845, the board of the newly founded "Actien-Verein des Zoologischen Gartens bei Berlin" — the stock association of the Zoological Garden of Berlin — decided to request animal donations from Royal Prussian Consuls in the most significant foreign trading posts and coastal cities. Due to a lack of financial resources, they urgently needed to acquire animals at low cost — especially those not native to Europe and sought after by the public.
 
@@ -284,6 +296,18 @@ In 1975, a Convention on International Trade in Endangered Species of Wild Fauna
 [^27]: "Appendices". _CITES_, https://cites.org/eng/app/appendices.php (02.06.2021).
 
 :::DE:::
+
+<figure>
+
+![Schwarz-weiß Foto: Zwei kleine Giraffen in Holzkäfig auf dem Heck eines Lastwagens. Die Person am Steuer ist nicht gut zu sehen. Auf dem Dach über dem Steuer sitzt ein weißer Mensch mit Schnauzer und Tropenhut in hohen Stiefeln, die Beine baumeln vom Dach. Hinter ihm sitzt noch eine nicht erkennbare Person.](/images/cmw/S_3_82_Giraffentransport.jpg)
+
+<figcaption>
+
+_Transport zwei gefangener junger Giraffen, 1928. (AZGB, Foto Lutz Heck. Alle Rechte vorbehalten.)_
+
+</figcaption>
+
+</figure>
 
 Um kostengünstig an dringend benötigte, insbesondere die vom Publikum begehrten und nicht in Europa heimische Tiere zu kommen, beschloss der Vorstand des neugegründeten "Actien-Vereins des Zoologischen Gartens bei Berlin" im Sommer 1845 angesichts seiner Geldknappheit, die Königlich Preußischen Konsuln in den wichtigsten auswärtigen Handels- und Küstenstädten zur Schenkung von Tieren aufzufordern.
 
