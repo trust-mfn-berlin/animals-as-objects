@@ -7,7 +7,7 @@ short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Wel
 date_end: 2021-12-14T14:41:44.038Z
 published: false
 title: Microbial Worlds
-updated: 1640636811876
+updated: 1640636950939
 id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
 translators:
   translator_en_de: ""
@@ -55,7 +55,7 @@ By the second half of the 20th century the ever-increasing resolution and interc
 
 <figcaption>
 
-_Engraving of mould, and magnified view of the surface of a rose-leaf; Schem. 12. From_ Micrographia: or some physiological descriptions of minute bodies made by magnifying glasses with observations and Inquiries thereupon _by Robert Hooke, Fellow of the Royal Society, 1665. (Wellcome Collection. CC BY.) – JPG fehlt im vault!_
+_Engraving of mould, and magnified view of the surface of a rose-leaf; Schem. 12. From_ Micrographia: or some physiological descriptions of minute bodies made by magnifying glasses with observations and Inquiries thereupon _by Robert Hooke, Fellow of the Royal Society, 1665. (Wellcome Collection. CC BY.)
 
 </figcaption>
 
@@ -63,7 +63,7 @@ _Engraving of mould, and magnified view of the surface of a rose-leaf; Schem. 12
 
 ## From fairies to cells
 
-Before the 19th century, the observation of microorganisms was carried out by inquisitive naturalists and polymaths who often developed their own instruments. Pathfinders like Antoni van Leeuwenhoek, Robert Hooke, and Francesco Redi drew detailed illustrations of the microscopic organisms they observed through makeshift devices. These early illustrations circulated mainly in scientific and intellectual circles, such as early scientific societies and similar institutions.[^5] At first the world of science struggled to make sense of these life forms, as is detailed, for example, in the [[story.chaotic-origins-of-micropaleontology]]. When microscopes became more readily available and more accurate after the introduction of achromatic lenses in the 1830s[^6], a broader public was let in on the invisible miniature worlds contained in every droplet of water and grain of sand. This coincided with the mass production and reproduction of images and their increased circulation[^7], which facilitated the diffusion of peepholes into these microbial worlds. In this early period of modern microscopy, microbes captured the fancies of Victorians who often saw microbes as real-life incarnations of folktale’s fairies and pixies.[^8] Concurrently to the spread of such magical views, scientists portrayed microbes as tiny animals worthy of scientists’ attention. Indeed, Christian Gottfried Ehrenberg, one of the most prominent authorities on microbes – or [[material.infusoria]], as they were known at the time – described them as full organisms, complete with multiple digestive systems, in his celebrated monograph published in 1838.[^9] Over the following decades, a new understanding of the structures of cells began to replace the view of microbes as tiny animals. They were now considered unicellular life forms fundamentally different from animals and yet related to them. This understanding coincided with the diffusion of Darwin’s and Wallace’s theory of evolution, which singled out microbes as remnants of primitive forms of life that populated an ancient past of less evolved forms.[^10]
+Before the 19th century, the observation of microorganisms was carried out by inquisitive naturalists and polymaths who often developed their own instruments. Pathfinders like Antoni van Leeuwenhoek, Robert Hooke, and Francesco Redi drew detailed illustrations of the microscopic organisms they observed through makeshift devices. These early illustrations circulated mainly in scientific and intellectual circles, such as early scientific societies and similar institutions.[^5] At first the world of science struggled to make sense of these life forms, as is detailed, for example, in the [[story.chaotic-origins-of-micropaleontology]]. When microscopes became more readily available and more accurate after the introduction of achromatic lenses in the 1830s[^6], a broader public was let in on the invisible miniature worlds contained in every droplet of water and grain of sand. This coincided with the mass production and reproduction of images and their increased circulation,[^7] which facilitated the diffusion of peepholes into these microbial worlds. In this early period of modern microscopy, microbes captured the fancies of Victorians who often saw microbes as real-life incarnations of folktale’s fairies and pixies.[^8] Concurrently to the spread of such magical views, scientists portrayed microbes as tiny animals worthy of scientists’ attention. Indeed, Christian Gottfried Ehrenberg, one of the most prominent authorities on microbes – or [[material.infusoria]], as they were known at the time – described them as full organisms, complete with multiple digestive systems, in his celebrated monograph published in 1838.[^9] Over the following decades, a new understanding of the structures of cells began to replace the view of microbes as tiny animals. They were now considered unicellular life forms fundamentally different from animals and yet related to them. This understanding coincided with the diffusion of Darwin’s and Wallace’s theory of evolution, which singled out microbes as remnants of primitive forms of life that populated an ancient past of less evolved forms.[^10]
 
 <figure>
 
@@ -229,7 +229,7 @@ Mit der Art und Weise, _wie_ wir mikrobielles Leben betrachten, verändert sich 
 
 <figcaption>
 
-_”A Drop of Ocean” zeigt die komplexen physikalisch-chemischen Interaktionen zwischen Mikroben auf Mikroebene. (Stocker lab)[^20]_
+_”A Drop of Ocean” zeigt die komplexen physikalisch-chemischen Interaktionen zwischen Mikroben auf der Mikroebene. (Stocker lab)[^20]_
 
 </figcaption>
 
