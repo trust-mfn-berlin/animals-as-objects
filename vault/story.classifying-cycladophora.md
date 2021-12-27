@@ -7,7 +7,7 @@ short_desc_de: Taxonomie jenseits der Tierwelt
 date_end: 1887-12-31T11:06:32.000Z
 published: false
 title: Classifying Cycladophora
-updated: 1640552143747
+updated: 1640602679284
 id: aIG4TDxqQbsrl43uiSyGE
 doi: 10.7479/64y2-m311/1
 translators:
@@ -38,6 +38,18 @@ date_start: 1858-12-31T23:06:32.000Z
 
 :::EN:::
 
+<figure>
+
+![desc](/images/cover-classifying-cycladophora-index-ehrenberg.png)
+
+<figcaption>
+
+_Clara Ehrenberg’s index, 1860s. Source: Museum für Naturkunde, http://download.naturkundemuseum-berlin.de/Ehrenberg/_
+
+</figcaption>
+
+</figure>
+
 In the 1850s, Christian Gottfried Ehrenberg[^1] was a respected naturalist and one of the leading experts on what was then called [[material.infusoria]] – what we now call microorganisms. Thanks to his fame and connections, he had established a global network and corresponded with the most celebrated naturalists of the time, who sent him specimens from around the world for his microscopical analyses and studies. And so, he was not unprepared when he received eight bottles with deep sea sediment samples from Taliaferro Schaffner's survey – see [[story.finding-cycladophora]] – at the Zoological Collections of the Friedrich-Wilhelms-Universität zu Berlin where he worked. Ehrenberg proceeded to wash, filter, and observe the samples under his trusted microscope. In this way he identified and classified several different microfossils that he found in the samples. _Cycladophora davisiana_ was among them: a microscopic siliceous shell, which was all that remained of a long dead microorganism. As he did with all his samples, he mounted the microfossils on microscope slides made of mica (analogous to contemporary glass slides), and covered them with Canada balsam, a viscous resin which remains transparent but solidifies with time – still used today as [[material.microscopic-media]] to preserve and prepare slides and specimens, and access them later on.[^2]
 
 After sharing his results with Schaffner, Ehrenberg proceeded to present them in front of the Royal Prussian Academy of Sciences in 1861. The following year, the results were published in the _Monatsberichte der Königlichen Preussischen Akademie der Wissenschaften zu Berlin_: to this day, this remains the reference description of _C. davisiana_. While Ehrenberg's description still has priority according to current [[theme.taxonomical-orders]], his classification rapidly encountered significant criticism, in step with the changing understanding of microorganisms emerging in those times. The same year the description of _Cycladophora_ was published, another young German naturalist, Ernst Haeckel, turned his dissertation into a successful and elegant monograph on [[material.radiolaria]]. Due to Haeckel's stunning illustrations and detailed descriptions, this volume, and its reclassification of these microorganisms along with the principles of Charles Darwin's evolutionary theory, quickly turned its author into one of the leading authorities on the subject of radiolaria. As it propelled Haeckel's success as a fervent supporter and popularizer of Darwin, the volume also continued and consolidated an aesthetic tradition in the visualization of natural history, extending it to the wonders of [[theme.microbial-worlds]].[^3]
@@ -54,6 +66,18 @@ After sharing his results with Schaffner, Ehrenberg proceeded to present them in
 
 
 :::DE:::
+
+<figure>
+
+![desc](/images/cover-classifying-cycladophora-index-ehrenberg.png)
+
+<figcaption>
+
+_Clara Ehrenbergs Index, 1860er Jahre. Source: Museum für Naturkunde, http://download.naturkundemuseum-berlin.de/Ehrenberg/_
+
+</figcaption>
+
+</figure>
 
 Christian Gottfried Ehrenberg[^1] war in den 1850er Jahren ein angesehener Naturforscher und einer der führenden Experten für jenes Studienobjekt, das man damals als [[Material.infusoria]] bezeichnete und das wir heute als Mikroorganismen kennen. Dank seines guten Rufs und vieler Kontakte hatte er sich ein weltweites Netzwerk von Partner:innen unter den bekanntesten zeitgenössischen Naturforschenden aufgebaut, die ihm Proben aus aller Welt für seine mikroskopischen Analysen und Studien schickten. Als er also an seinem Arbeitsplatz, der zoologischen Sammlung der Friedrich-Wilhelms-Universität zu Berlin, acht Flaschen mit aus Taliaferro Preston Shaffners Erkundungen stammenden Tiefsee-Sedimentproben (siehe [[story.finding-cycladophora]]) erhielt, wusste er genau, was zu tun war. Er machte sich daran, die Proben zu waschen und filtern, um sie anschließend unter dem Mikroskop zu analysieren. Auf diese Weise identifizierte und klassifizierte er mehrere verschiedene in den Proben enthaltene Mikrofossilien. Darunter befand sich auch _Cycladophora davisiana_: eine mikroskopisch kleine Kieselschale, der einzige Überrest eines vor langer Zeit eingegangenen Mikroorganismus. Wie bei all seinen Proben platzierte er die Mikrofossilien auf Objektträgern aus Glimmer (analog zu heutigen Glasobjektträgern) und überzog sie mit Kanadabalsam, einem zähflüssigen Harz, das mit der Zeit erstarrt während dabei seine Transparenz erhalten bleibt, und welches bis heute als [[material.microscopic-media]] zur Konservierung von Proben für die spätere Untersuchung verwendet wird.[^2]
 
