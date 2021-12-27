@@ -7,7 +7,7 @@ desc: |-
   German provinces in the 17th century. How did they get to Prussia, what shape
   did silk production take, and what was it that ultimately led state-run silk
   farming to dry up? 
-updated: 1640271990045
+updated: 1640639914251
 created: 1629996091814
 license: CC BY-SA
 title_de: Seiden-Cultur
@@ -37,6 +37,19 @@ colour_scheme: 12
 ---
 
 :::EN:::
+
+<figure>
+ 
+![Flat display case with wooden frame. Caterpillar threads, eggs, pupae, and fully developed moths are fixed in three rows, with small type- and handwritten labels.](/images/guests/bekleidung-seide-maulbeerspinner-clothing-silk-silkworm-museum-naturkunde-natural-history-berlin.JPG)
+ 
+ 
+<figcaption>
+ 
+_Display case from the Lepidoptera collection at the Museum of Natural History, Berlin. (Photo Britta. All rights reserved.)_
+
+</figcaption>
+ 
+</figure>
 
 Clues about the history of silk farming can be found in research conducted by the Prussian Academy of Sciences (Preußische Akademie der Wissenschaften). In the 1880s and 1890s, the academy occupied itself extensively with the mercantile economic system under the reign of Frederick the Great and published a wide range of 18th-century sources as well as relevant historical analyses of various forms of industry in the series _Acta Borussica_. The first to appear were the three volumes on the "Prussian Silk Industry"[^1] in 1882, which presented it as a model of success. 
 
@@ -126,6 +139,18 @@ In spite of myriad efforts, it was not possible for the Prussian state to do awa
 [^18]: See for example the silk weaving mill Plauener Seidenweberei GmbH, https://www.seide.de/ (26.08.2021).
 
 :::DE:::
+
+<figure>
+ 
+![Flacher Schaukasten mit Holzrahmen. In drei Reihen sind Raupenfäden, Eier, Puppen und ausgewachsene Schmetterlinge befestigt, mit kleinen maschinen- und handgeschriebenen Beschriftungen.](/images/guests/bekleidung-seide-maulbeerspinner-clothing-silk-silkworm-museum-naturkunde-natural-history-berlin.JPG)
+ 
+<figcaption>
+ 
+_Schaukasten im Museum für Naturkunde Berlin, Sammlung Lepidoptera. (Foto Britta Lange. Alle Rechte vorbehalten.)_
+
+</figcaption>
+ 
+</figure>
 
 Hinweise zur Geschichte des Seidenbaus in Preußen finden sich in den Forschungsarbeiten der Preußischen Akademie der Wissenschaften. Sie befasste sich in den 1880er und 1890er-Jahren umfassend mit dem merkantilistischen Wirtschaftssystem unter der Regierung Friedrichs des Großen und publizierte umfangreiche Quellen aus dem 18. Jahrhundert sowie entsprechende historische Analysen zu verschiedenen Industrieformen in der Reihe _Acta Borussica_. Als Erstes erschienen im Jahr 1882 drei Bände zur "Preußischen Seidenindustrie"[^1], die diese als Erfolgsmodell darstellten. 
 Der Publikation zufolge wurde das Geheimnis der Seidenherstellung in China über Tausende Jahre streng gehütet, bis im Jahr 522 zwei Mönche Samen des weißen Maulbeerbaums und Eier der Seidenraupe von China nach Byzanz schmuggelten. **Im 8. Jahrhundert gelangten von dort aus Seidenraupen nach Spanien, Italien und Frankreich; im 17. Jahrhundert fanden erste Versuche mit Seidenzucht in deutschen Provinzen statt.** Angetrieben von dem wirtschaftlichen Interesse an der Seide entfaltete sich eine globale und transnationale Geschichte, in der Tiere und die für sie überlebensnotwenigen Bäume vielfach migriert wurden.
