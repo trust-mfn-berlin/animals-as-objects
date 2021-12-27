@@ -7,7 +7,7 @@ short_desc_de: Propagandainstrument und Zwangsarbeit
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: The Zoo and National Socialism
-updated: 1640633648196
+updated: 1640637378732
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 translators:
   translator_de_en: ""
@@ -36,6 +36,18 @@ date_start: 1932-12-31T23:00:00.000Z
 
 :::EN:::
 
+<figure>
+
+![Black and white photograph: Gateway to Berlin Zoo supported by two elephant sculptures. Three men are standing in front of the entrance, two of them wearing zoo staff uniforms.](/images/cmw/elephant-gate-berlin-zoo-1938.jpg)
+
+<figcaption>
+
+_Gateway to Berlin Zoo known as the Elephant Gate (Elefantentor), around 1938. (AZGB. All rights reserved.)_
+
+</figcaption>
+
+</figure>
+
 Was it really possible for the zoo — a nearly 100-year-old educational and recreational institution that displayed live animals for the purposes of education and entertainment — to serve the aims of National Socialism? Is it not a fundamental part of zoos’ constitutions that they are global phenomena and open to anyone who wants to learn? As will become evident, from 1933 onward, Berlin Zoo became a stage for colonialism and a site of racist exclusion, as well as an instrument of National Socialist propaganda.
 
 After Adolf Hitler was appointed Chancellor of the German Reich on 30 January 1933, the new regime did everything in its power to permeate all areas of social life. To this end, it sought to exercise control over labor law, but especially to dominate in the spheres of culture and propaganda. Its agenda did not spare Berlin's most popular educational and recreational institution, the Zoological Garden and its aquarium. The zoo was quick to accommodate National Socialist policy and its local representatives, Gauleiter of the National Socialist German Workers' Party (NSDAP) Joseph Goebbels and National Socialist Prussian Prime Minister Hermann Göring. This was mainly down to the zoo's management and supervisory board. Nazi policies affected every aspect of the zoo's operation. The management and the public became involved in antisemitic policies; the German war of aggression and extermination allowed animals to be obtained from new sources; it affected exhibition practices and the selection of the animals to be displayed, and it altered how work was organized at the zoo. The exploitation of forced laborers also became an everyday practice.
@@ -51,18 +63,6 @@ Lutz Heck soon also became personally acquainted with Hermann Göring, Prussian 
 In January 1934, Göring presented his plans for the Schorfheide to a group of forestry officials. He wanted to establish a large nature reserve, where he also wished to hunt the largest land mammal in Europe.[^3] In order to make Göring's plans a reality, Lutz Heck decided to increase the zoo's population of wisents, or European bison, as quickly as possible. He aimed to do this by means of upgrading — breeding with the wisent's closest relative, the North American bison.[^4] In 1935, he undertook an expedition to Canada "on behalf of the Reichsforstmeister and Reichsjägermeister Hermann Göring, the German hunting community, and the zoo."[^5] The trip's purpose was, among other things, to procure bison to support his breeding efforts. 
 
 **Lutz Heck supported the regime in whatever way he could. His books and publications praised the Nazi state's laws on game conservation.[^6]** At Heck's instigation, Göring was appointed leader of the *Fachschaft Deutsche Bracken Olpe*, a club for breeders of hunting dogs[^7] — certainly a minor honor, but ideal for winning over Göring, who was an enthusiastic hunter. Lutz Heck also provided Göring with lion cubs to keep as pets, which Heck took back when the animals had grown out of the "petting age."[^8]
-
-<figure>
-
-![Black and white photograph: Gateway to Berlin Zoo supported by two elephant sculptures. Three men are standing in front of the entrance, two of them wearing zoo staff uniforms.](/images/cmw/elephant-gate-berlin-zoo-1938.jpg)
-
-<figcaption>
-
-_Gateway to Berlin Zoo known as the Elephant Gate (Elefantentor), around 1938. (AZGB. All rights reserved.)_
-
-</figcaption>
-
-</figure>
 
 ## The Supervisory Board
 
@@ -419,6 +419,18 @@ Zoos are certainly also compatible with other regimes and social systems — eve
 
 :::DE:::
 
+<figure>
+
+![Schwarz-weiß Foto: Eingangstor des Berliner Zoos gestützt durch zwei Elefantenskulpturen. Drei Männer stehen vor dem Eingang. Zwei von ihnen tragen Zoouniformen.](/images/cmw/elephant-gate-berlin-zoo-1938.jpg)
+
+<figcaption>
+
+_Elefantentor genannter Eingang des Berliner Zoos um 1938. (AZGB. Alle Rechte vorbehalten.)_
+
+</figcaption>
+
+</figure>
+
 Konnte eine beinahe 100 Jahre alte Bildungs- und Freizeiteinrichtung, deren Funktion die Ausstellung lebender Tiere zur Bildung und Unterhaltung war, nationalsozialistischen Zielen dienen? Sind Zoos in ihrer grundsätzlichen Verfasstheit nicht globale Phänomene und offen für alle Bildungssuchenden? Wie zu sehen sein wird, wurde der Berliner Zoo ab 1933 koloniale Bühne und Ort rassistischer Exklusion sowie Instrument nationalsozialistischer Propaganda.
 
 Nachdem Adolf Hitler am 30. Januar 1933 zum Reichskanzler ernannt worden war, versuchte das neue Regime mit aller Macht sämtliche Gesellschaftsbereiche zu durchdringen. Dabei ging es um die Kontrolle im arbeitsrechtlichen, insbesondere aber im kulturellen und propagandistischen Sinn. Davon war auch der besucherstärkste Bildungs- und Freizeitbetrieb Berlins, der Zoologische Garten und sein Aquarium, nicht verschont. Die Anpassung an die Politik der Nationalsozialisten und ihrer lokalen Vertreter, Gauleiter der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP) Joseph Goebbels und der nationalsozialistische preußische Ministerpräsident Hermann Göring, ging im Zoo rasch voran. Das lag vor allem an der Zooleitung und den Mitgliedern des Aufsichtsrats. Die nationalsozialistische Politik wirkte sich auf alle Bereiche des Zoobetriebs aus – die Leitungsebene und das Publikum wurden in die antisemitische Politik einbezogen, der deutsche Angriffs- und Vernichtungskrieg brachte neue Tierquellen, die Ausstellungspraxis und das Programm der ausgestellten Tiere änderten sich, Arbeitsabläufe wurden durch den Krieg verändert. Die Ausbeutung von Zwangsarbeitern wurde auch im Zoo Alltag.
@@ -434,18 +446,6 @@ Schon bald machte Lutz Heck zudem auf privater Ebene mit dem preußischen Minist
 Göring hatte im Januar 1934 im Kreise einiger Forstbeamter seine Pläne für die Schorfheide vorgestellt. Hier wollte er ein großes Naturschutzgebiet einrichten, in dem er zugleich das größte Landsäugetier Europas jagen wollte.[^3] Lutz Heck entschied sich, mittels einer sogenannten Verdrängungszucht mit dem nächsten Verwandten des Wisents, dem nordamerikanischen Bison, seine Herde aus dem Zoo möglichst schnell zu vermehren, um Görings Pläne Wirklichkeit werden zu lassen.[^4] 1935 unternahm er "im Auftrage des Reichsforst- und Reichsjägermeister\[s] Hermann Göring, der deutschen Jägerschaft und des Zoologischen Gartens" eine Expedition nach Kanada.[^5] Das Ziel war unter anderem die Beschaffung von Bisons, um die Wisentzucht zu stärken.
 
 **Lutz Heck bot sich dem Regime in jeglicher Form an. Seine Bücher und Veröffentlichungen priesen die Gesetzesbeschlüsse des NS-Staates in Bezug auf den Wildschutz.[^6]** Göring wurde auf Hecks Betreiben zum Führer der Fachschaft Deutsche Bracken Olpe, eines Zuchtvereins für Jagdhunde, ernannt[^7] – sicherlich eine Randnotiz, aber dennoch geeignet, den passionierten Jäger Göring für sich einzunehmen. Zudem stellte Lutz Heck Göring junge Löwen als Haustiere zur Verfügung, die er zurücknahm, sobald sie dem "Streichelalter" entwachsen waren.[^8]
-
-<figure>
-
-![Schwarz-weiß Foto: Eingangstor des Berliner Zoos gestützt durch zwei Elefantenskulpturen. Drei Männer stehen vor dem Eingang. Zwei von ihnen tragen Zoouniformen.](/images/cmw/elephant-gate-berlin-zoo-1938.jpg)
-
-<figcaption>
-
-_Elefantentor genannter Eingang des Berliner Zoos um 1938. (AZGB. Alle Rechte vorbehalten.)_
-
-</figcaption>
-
-</figure>
 
 ## Der Aufsichtsrat
 
