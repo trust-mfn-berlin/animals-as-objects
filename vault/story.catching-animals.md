@@ -7,7 +7,7 @@ short_desc_de: Habitate und Tierhandelsfirmen
 date_end: 1973-12-31T11:00:00.000Z
 published: false
 title: Catching Animals
-updated: 1640472310957
+updated: 1640604876813
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 translators:
   translator_de_en: ""
@@ -39,7 +39,7 @@ Though it is no longer possible to ascertain the immediate effects of this reque
 
 ## Status Symbols and Gifts
 
-In the 1880s, the Berlin Zoological Garden had two elephant bulls in its possession: "Rostom" and "Omar". The Prince of Wales, who later became King Edward VII, had given them as a gift in 1881 , , to his nephew Kaiser Wilhelm II. The elephants originally came from British India, where they had been captured before being transported to Britain.
+In the 1880s, the Berlin Zoological Garden had two elephant bulls in its possession: "Rostom" and "Omar". The Prince of Wales, who later became King Edward VII, had given them as a gift in 1881 to his nephew Kaiser Wilhelm II. The elephants originally came from British India, where they had been captured before being transported to Britain.
 
 <figure>
 
