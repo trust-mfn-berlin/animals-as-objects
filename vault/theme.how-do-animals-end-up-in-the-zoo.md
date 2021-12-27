@@ -7,7 +7,7 @@ short_desc_de: Politische, logistische und moralische Herausforderungen
 date_end: ""
 published: false
 title: How Do Animals End Up in the Zoo?
-updated: 1640463289752
+updated: 1640640849320
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 translators:
   translator_de_en: ""
@@ -32,6 +32,18 @@ date_start: ""
 ---
 
 :::EN:::
+
+<figure>
+
+![Black and white photograph: three hippos half submerged in water. The animal in the middle is smaller, all look to the left to the edge of the pool.](/images/cmw/Knautschke_Bulette_Jette_Foto_Kurt_Hoppe.jpg)
+
+<figcaption>
+
+_The hippos "Knautschke" (bottom), the young animal "Jette" (middle) and "Bulette" (top), around 1959. (AZGB, photo Hoppe. All rights reserved.)_
+
+</figcaption>
+
+</figure>
 
 How do animals actually get to the zoo? Visitors to an animal park or zoo probably rarely ask themselves this question. Yet the animals on display are usually the reason for the visit and are also the founding premise of the zoo as an institution. Historically, zoos themselves have not routinely specified the sources of their animals. The animal itself, not its original habitat, has often been the point of focus. **Sometimes, however, the origin of the animal was integral to the fundamental idea behind the exhibition. For example, at the end of the 19th century and in the 1930s, when animals from the (former) German colonies were explicitly labelled or marketed as such**, or when back-breeding attempts of extinct animals were intended to enhance the reputation of a zoo director. Today, zoos are keen to emphasise the origins of animals from international breeding programmes as a form of progress and as part of their species conservation efforts. But where did and do zoo animals actually come from?
 
@@ -216,6 +228,18 @@ For some years now, it has been possible to identify new tendencies that are cha
 [^18]: Cf. Niekisch, Manfred, and Volker Sommer. "Artenschutz durch Zoos. Zwei Perspektiven". _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 31-38.
 
 :::DE:::
+
+<figure>
+
+![Schwarz-weiß Foto: drei halb im Wasser untergetauchte Flusspferden. Das Tier in der Mitte ist ein Jungtier, alle schauen nach links zum Beckenrand.](/images/cmw/Knautschke_Bulette_Jette_Foto_Kurt_Hoppe.jpg)
+
+<figcaption>
+
+_Die Flusspferde "Knautschke" (unten), Jungtier "Jette" (mittig) und "Bulette" (oben), um 1959. (AZGB, Foto Hoppe. Alle Rechte vorbehalten.)_
+
+</figcaption>
+
+</figure>
 
 Wie kommen eigentlich die Tiere in den Zoo? Besucher:innen eines Tierparks, Tiergartens oder Zoologischen Gartens stellen sich die Frage mutmaßlich selten. Dabei sind die ausgestellten Tiere in der Regel der Grund des Besuchs und auch die Voraussetzung der Institution Tiergarten. Zoos selbst gaben in ihrer langen Geschichte die Quellen ihrer Tiere nicht regelmäßig an. Das Tier, nicht sein ursprüngliches Habitat standen im Mittelpunkt. **Manchmal aber war die Herkunft des Tieres Teil des Ausstellungskonzeptes. So zum Beispiel Ende des 19. Jahrhunderts und in den 1930er Jahren als Tiere aus den (ehemaligen) deutschen Kolonien als solche gekennzeichnet oder vermarktet wurden** oder Rückzüchtungsversuche ausgestorbener Tiere den Ruf des Zoodirektors stärken sollten. Heute sind Zoos sehr darauf bedacht, die Herkunft der Tiere aus internationalen Zuchtprogrammen als Fortschritt und als Teil ihres Artenschutzauftrages zu betonen. Aber wo kamen und kommen die Zootiere nun her?
 
