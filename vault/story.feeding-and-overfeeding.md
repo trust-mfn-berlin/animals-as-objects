@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding and Overfeeding
 title_de: Füttern und Überfüttern
 created: 1620752738850
-updated: 1640548684007
+updated: 1640602138785
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 author: Mareike Vennen
 translators:
@@ -34,8 +34,6 @@ published: false
 
 :::EN:::
 
-While the zoo and the city of Berlin struggled to provide food for their inhabitants in the 1940s — see also [[story.feed-scarcity]] — by the end of the 1950s, the situation had largely returned to normal again.[^1] In fact, in some ways it had gone in the opposite direction. The economic boom, the _Wirtschaftswunder_ years meant visitors fed the animals at Berlin Zoo as much as they pleased — to the extent that in 1960, the African elephant "Jambo" fell ill after, or rather as a result of, being fed by zoo visitors.
-
 <figure>
 
 ![Newspaper clipping. Photograph: Tusked elephant in enclosure, with keeper touching his ear. Title: Overfed! Berlin's most valuable elephant in mortal danger. As of today: Visitors are prohibited from feeding the animals at the zoo.](/images/mv/JamboUeberfuettertBildZeitungAusschnittJPG.jpg)
@@ -47,6 +45,8 @@ _Headline of the_ Bild-Zeitung _on the overfeeding problem, occasioned by "Jambo
 </figcaption>
 
 </figure>
+
+While the zoo and the city of Berlin struggled to provide food for their inhabitants in the 1940s — see also [[story.feed-scarcity]] — by the end of the 1950s, the situation had largely returned to normal again.[^1] In fact, in some ways it had gone in the opposite direction. The economic boom, the _Wirtschaftswunder_ years meant visitors fed the animals at Berlin Zoo as much as they pleased — to the extent that in 1960, the African elephant "Jambo" fell ill after, or rather as a result of, being fed by zoo visitors.
 
 The elephant cow suffered severe peritonitis and a rupture in the small intestine caused by a blockage. After spending 14 days trying unsuccessfully to save "Jambo", the zoo made the decision to put the animal to sleep. The incident was not an isolated case, however. In previous years, elephants had died due to incorrect or excessive feeding in the zoological gardens of Antwerp, Hamburg, Frankfurt, Stuttgart, and Gelsenkirchen. In Berlin in 1961 alone, a baboon, a spotted toucan, a valuable crane, and two deer died as a result of overfeeding.
 
@@ -118,8 +118,6 @@ Letters from zoo visitors also show that many felt feeding the animals was not o
 
 :::DE:::
 
-Während der Zoo und die Stadt Berlin in den 1940er Jahren große Probleme hatten, ihre Bewohner:innen zu ernähren, siehe auch [[story.feed-scarcity]], hatte sich die Situation Ende der 1950er Jahre weitgehend normalisiert.[^1] Ja, in mancher Hinsicht verkehrte sie sich sogar. In der Zeit von Wirtschaftswunder und Wachstumsboom fütterten die Zoobesucher:innen die Tiere im Berliner Zoo wieder ganz nach Belieben, und zwar so ausgiebig, dass 1960 der afrikanische Elefant "Jambo" nach oder vielmehr infolge der Fütterung durch Zoobesucher:innen erkrankte.
-
 <figure>
 
 ![Zeitungsausschnitt. Foto: Elefant mit Stoßzähnen im Gehege, der von Pfleger am Ohr berührt wird. Titel: Überfüttert! Berlins wertvollster Elefant in Todesgefahr. Ab heute: Besuchern ist das Füttern im Zoo verboten.](/images/mv/JamboUeberfuettertBildZeitungAusschnittJPG.jpg)
@@ -131,6 +129,8 @@ _Schlagzeile der_ Bild-Zeitung _zur Überfütterungsfrage anlässlich der Erkran
 </figcaption>
 
 </figure>
+
+Während der Zoo und die Stadt Berlin in den 1940er Jahren große Probleme hatten, ihre Bewohner:innen zu ernähren, siehe auch [[story.feed-scarcity]], hatte sich die Situation Ende der 1950er Jahre weitgehend normalisiert.[^1] Ja, in mancher Hinsicht verkehrte sie sich sogar. In der Zeit von Wirtschaftswunder und Wachstumsboom fütterten die Zoobesucher:innen die Tiere im Berliner Zoo wieder ganz nach Belieben, und zwar so ausgiebig, dass 1960 der afrikanische Elefant "Jambo" nach oder vielmehr infolge der Fütterung durch Zoobesucher:innen erkrankte.
 
 Die Elefantenkuh erlitt eine schwere Bauchfellentzündung und einen Riss im Dünndarm, der durch eine Verstopfung ausgelöst wurde. **Nachdem man vierzehn Tage lang ohne Erfolg versucht hatte "Jambo" zu retten, entschloss sich der Zoo, das Tier einzuschläfern.** Der Vorfall war kein Einzelfall: In den Zoologischen Gärten in Antwerpen, Hamburg, Frankfurt, Stuttgart und Gelsenkirchen waren in den Jahren zuvor bereits Elefanten durch falsches oder übermäßiges Füttern verendet. In Berlin starben allein 1961 ein Pavian, ein Bunttukan, ein wertvoller Kranich und zwei Hirsche infolge von Überfütterung.
 
