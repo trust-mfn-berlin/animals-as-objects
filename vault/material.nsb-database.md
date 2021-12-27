@@ -7,7 +7,7 @@ short_desc_de: Eine umfangreiche Datenbank mikropaläontologischer Proben und Da
 date_end: 2021-12-07T18:44:00.147Z
 published: false
 title: NSB Database
-updated: 1640476224640
+updated: 1640639807208
 id: 384f2259-ec40-482d-bacc-c0876ae280aa
 translators:
   translator_en_de: ""
@@ -25,7 +25,7 @@ date_start: 1989-01-01T18:39:00.000Z
 
 <figure>
 
-![A graph divided in five sections of different colours: each section represents a different part of the database, like the taxonomic backbone, the paleontological data, the stratigraphic layer, and the sample and dataset metadata. Each of these sections includes lists of parameters and highlights the interrelations between them with arrows.](/images/filo/nsb architecture.png)
+![A graph divided in five sections of different colours: each section represents a different part of the database, like the taxonomic backbone, the paleontological data, the stratigraphic layer, and the sample and dataset metadata. Each of these sections includes lists of parameters and highlights the interrelations between them with arrows.](/images/filo/nsb-architecture.png)
 
 <figcaption>
 
