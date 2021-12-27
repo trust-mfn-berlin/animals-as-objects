@@ -7,7 +7,7 @@ short_desc_de: Propagandainstrument und Zwangsarbeit
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: The Zoo and National Socialism
-updated: 1640466341143
+updated: 1640633648196
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 translators:
   translator_de_en: ""
@@ -70,7 +70,7 @@ From 1933 onward, the zoo also put the NSDAP's antisemitic and racist policies i
 
 <figure>
 
-![Sketched portrait of a man](/images/cmw/ENTERIMAGEPATHWAY.jpg)
+![Sketched portrait of a man](/images/cmw/sketch1639134664659.png)
 
 <figcaption>
 
@@ -453,7 +453,7 @@ Auch die judenfeindliche und rassistische Politik der NSDAP wurde ab 1933 im Zoo
 
 <figure>
 
-![Skizze eines männlichen Porträts](/images/cmw/ENTERIMAGEPATHWAY.jpg)
+![Skizze eines männlichen Porträts](/images/cmw/sketch1639134664659.png)
 
 <figcaption>
 
