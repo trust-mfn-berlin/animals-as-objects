@@ -8,7 +8,7 @@ desc: |-
   search for a spiny dogfish specimen reveals that it was registered in the
   teaching collection at various points in time under the numbers 1208, 2488,
   and 863.
-updated: 1640272130598
+updated: 1640611146259
 created: 1629792912565
 license: CC BY-SA
 title_de: Inventarbücher
@@ -40,8 +40,6 @@ colour_scheme: 11
 
 :::EN:::
 
-The items in a teaching collection fulfil one function above all: to impart knowledge in academic teaching. In order to demonstrate shape and physique, as well as organic composition and functions, the Institute of Biology at Humboldt University in Berlin still uses models, wall charts, and specimens in seminars and lectures today. They are objects of study, and some of them are truly objects of use – they are hung on walls, mounted, presented, or passed around. Sometimes it only becomes apparent that some of the items are historical objects on closer inspection. Faded labels, cryptic numerical codes like [[28.8.5.7-4|material.common-seadragon]], and the marks of wear and tear hint at the journeys on which these objects have been and point to the eventful histories of some specimens. These histories have been shaped by processes of transfer, on both a functional and spatial level.
-
 <figure>
 
 ![Black and white photo: a classroom with 15 men, many of them with moustaches, and also at least one woman. In the foreground, there is one man on the left in a white lab coat and another on the right with a full white beard wearing a black jacket. At the front, there are objects on a table that are difficult to identify. Five posters of large images hang at the back.](/images/guests/classroom-zoological-institute-unterricht-zoologisches-institut-berlin-franz-eilhard-schulze.png)
@@ -53,6 +51,8 @@ _The microscopic zoology course at Berlin's Zoological Institute, 1912/1913. Wal
 </figcaption>
 
 </figure>
+
+The items in a teaching collection fulfil one function above all: to impart knowledge in academic teaching. In order to demonstrate shape and physique, as well as organic composition and functions, the Institute of Biology at Humboldt University in Berlin still uses models, wall charts, and specimens in seminars and lectures today. They are objects of study, and some of them are truly objects of use – they are hung on walls, mounted, presented, or passed around. Sometimes it only becomes apparent that some of the items are historical objects on closer inspection. Faded labels, cryptic numerical codes like [[28.8.5.7-4|material.common-seadragon]], and the marks of wear and tear hint at the journeys on which these objects have been and point to the eventful histories of some specimens. These histories have been shaped by processes of transfer, on both a functional and spatial level.
 
 Inventories, lists, labels, and other forms of record-keeping played a special role. As "paper and object technologies", they documented the procurement of live and dead animals and their specimens, and recorded their economic and epistemological value.[^2] Their purpose was to incorporate these animal objects into the specific collecting framework, and they simultaneously became documents of a development that they themselves governed in their materiality as texts of use.[^3] But how did these record-keeping media work? What were the systems of order on which they based, and who can understand or read them today? Did the inventories of the teaching collection have special functions due to the nature of the collection?
 
@@ -228,8 +228,6 @@ The inventory books have become historical documents. It is these discontinuitie
 
 :::DE:::
 
-Die Objekte einer Lehrsammlung erfüllen vor allem eine Funktion: Sie sollen Wissen innerhalb des akademischen Lehrbetriebs vermitteln. Zur Veranschaulichung von Gestalt und Körperbau sowie von organischen Zusammenhängen und Funktionsweisen werden im Institut für Biologie der Humboldt-Universität zu Berlin noch heute Modelle, Wandtafeln und Präparate in Seminaren und Vorlesungen verwendet. Sie sind Anschauungsobjekte, manche auch wortwörtliche Gebrauchsobjekte – sie werden an die Wand gehängt, aufgestellt, vorgeführt oder herumgereicht. Dass es sich dabei teilweise um historische Objekte handelt, erkennt man oftmals erst auf den zweiten Blick. Verblasste Beschriftungen, kryptische Zifferncodes wie z.B. [[28.8.5.7-4|material.common-seadragon]] und Spuren der Abnutzung lassen Objektwege erahnen und weisen auf die bewegte Geschichte einiger Präparate hin. Sie ist geprägt von Prozessen des Transfers, sowohl auf funktionaler als auch auf räumlicher Ebene.
-
 <figure>
 
 ![Schwarz-weiß Foto: Unterrichtsraum mit 15 Personen im Hintergrund, viele mit Schnurrbart. Im Vordergrund links ein Mann in weißem Kittel, rechts ein Mann mit weißem Vollbart in schwarzem Mantel. Vorne stehen schwer erkennbare Objekte auf einem Tisch. Hinten hängen fünf Poster mit großen Abbildungen.](/images/guests/classroom-zoological-institute-unterricht-zoologisches-institut-berlin-franz-eilhard-schulze.png)
@@ -241,6 +239,8 @@ _Der mikroskopisch-zoologische Kurs im Zoologischen Institut Berlin, 1912/1913. 
 </figcaption>
 
 </figure>
+
+Die Objekte einer Lehrsammlung erfüllen vor allem eine Funktion: Sie sollen Wissen innerhalb des akademischen Lehrbetriebs vermitteln. Zur Veranschaulichung von Gestalt und Körperbau sowie von organischen Zusammenhängen und Funktionsweisen werden im Institut für Biologie der Humboldt-Universität zu Berlin noch heute Modelle, Wandtafeln und Präparate in Seminaren und Vorlesungen verwendet. Sie sind Anschauungsobjekte, manche auch wortwörtliche Gebrauchsobjekte – sie werden an die Wand gehängt, aufgestellt, vorgeführt oder herumgereicht. Dass es sich dabei teilweise um historische Objekte handelt, erkennt man oftmals erst auf den zweiten Blick. Verblasste Beschriftungen, kryptische Zifferncodes wie z.B. [[28.8.5.7-4|material.common-seadragon]] und Spuren der Abnutzung lassen Objektwege erahnen und weisen auf die bewegte Geschichte einiger Präparate hin. Sie ist geprägt von Prozessen des Transfers, sowohl auf funktionaler als auch auf räumlicher Ebene.
 
 Inventare, Listen, Etiketten und andere Formen der Verzeichnung nahmen hier eine besondere Rolle ein. Als "Papier- und Objekttechniken" dokumentierten sie die Beschaffung von lebendigen, toten oder bereits präparierten Tieren und verzeichneten ihren ökonomischen sowie epistemischen Wert.[^2] Sie dienten der Einverleibung dieser tierischen Objekte in das spezifische Sammlungsgefüge und wurden zeitgleich zu einem Dokument eines Entwicklungsprozess, den sie mittels ihrer Materialität als "Gebrauchstext" selbst verwalteten.[^3] Doch wie funktionierten diese Verzeichnismedien? Welche Ordnungssysteme lagen ihnen zu Grunde und wer kann diese heute noch verstehen bzw. lesen? Gab es funktionale Besonderheiten, die die Inventare der Lehrsammlung aufgrund des Sammlungscharakters aufwiesen?
 
