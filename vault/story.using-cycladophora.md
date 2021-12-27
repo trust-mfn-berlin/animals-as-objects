@@ -7,7 +7,7 @@ short_desc_de: Von Mikrofossilien zur Planetenwissenschaft
 date_end: 2021-07-06T11:38:39.090Z
 published: false
 title: Using Cycladophora
-updated: 1640637729626
+updated: 1640638419995
 id: TBi8fH-OIQRAoB-tG9ZY1
 doi: 10.7479/64y2-m311/2
 translators:
@@ -36,7 +36,7 @@ date_start: 1949-12-31T23:00:00.000Z
 
 <figure>
 
-(/images/cover-using-cycladophora.jpg)
+![desc](/images/cover-using-cycladophora.jpg)
 
 <figcaption>
 
@@ -66,7 +66,7 @@ In this sense, _Cycladophora davisiana_ continues its scientific (after)life as 
 
 <figure>
 
-![desc](/images/filo/cover using cycladophora.jpg)
+![desc](/images/cover-using-cycladophora.jpg)
 
 <figcaption>
 
