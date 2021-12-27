@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Deep Sea Drilling
 title_de: Bohrkerne aus den Böden der Tiefsee
 created: 1619107396222
-updated: 1640638954824
+updated: 1640639352894
 id: d76483c9-9cd4-454e-a737-fcdf683c6d0d
 author: Filippo Bertoni
 translators:
@@ -89,7 +89,7 @@ For data to be mobilized to tell stories [[story.of-microbes-and-planets]] – f
 
 <figure>
 
-![Foto des Forschungsschiffs JOIDES Resolution auf hoher See](/images/filo/joides resolution.jpeg)
+![Foto des Forschungsschiffs JOIDES Resolution auf hoher See](/images/filo/joides-resolution.jpeg)
 
 <figcaption>
 
