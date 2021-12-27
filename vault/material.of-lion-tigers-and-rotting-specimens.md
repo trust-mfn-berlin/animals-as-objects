@@ -12,7 +12,8 @@ desc: A record contains many stories
 desc_de: Ein Verzeichnis enthält viele Geschichten
 short_desc: A record contains many stories
 short_desc_de: Ein Verzeichnis enthält viele Geschichten
-cover_image: null
+cover_image:
+  image: /images/zool.mus-si-verwaltungsakten-agebuch-beyer-1843-03.jpg
 colour_scheme: 11
 tao_type: material
 date_start: 1843-01-01T12:39:11.988Z
