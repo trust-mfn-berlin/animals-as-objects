@@ -7,7 +7,7 @@ short_desc_de: '"Knuts" ökonomische und emotionale Bedeutung in Zeiten des Klim
 date_end: 2011-03-18T23:00:00.000Z
 published: false
 title: Knut
-updated: 1640469884764
+updated: 1640603710583
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 translators:
   translator_de_en: Lydia J. White
@@ -30,16 +30,6 @@ colour_scheme: 2
 
 :::EN:::
  
-It's something all Berlin Zoo employees have experienced: once other people find out where they work, one name comes up immediately: "Knut" – even though he died some time ago. There were almost 14,000 animals comprising some 1,300 species living at Berlin Zoo and Aquarium at the end of 2007. About 1,200 of them were mammals.[^1] Most of them had not been given names known to the public. Just like every year since its founding, there had been births at the zoo that year, of rare and popular animal species too. It was just a normal year. And yet something quite special happened in 2007 and in the years that followed. The "Knut" phenomenon dominated news about the zoo in Berlin and even caused an international furore. How did this happen?
- 
-## A star is born!
- 
-On 5 December 2006, at about 3.00 pm, "Tosca" the polar bear gave birth to two cubs. It soon became clear that the mother was not showing any inclination of providing nurturing care. **One of the cubs died. The other was removed from the enclosure and was successfully fed by bottle.**[^2] The two keepers and the curators in charge gave him the name "Knut". 
- 
-Back then, it was not unusual for zoo births to progress this way or for baby animals to be raised by hand using a bottle. But, for various reasons, this polar bear cub soon became very well known. In the following, we will see how "Knut" rapidly became a media star, setting negotiations in motion about the relationship between humans and animals in zookeeping and becoming a factor in the generation of economic capital for Berlin Zoo; how he was stylised as an ambassador for environmental protection; and how many people viewed him as their companion.
- 
-The story of "Knut" reveals a number of processes that have the potential to make one animal individual stand out from the great throng of animals living in Berlin's zoos, including factors relating to economics, zoo history, environmental policy, media history, and social history.
- 
 <figure>
  
 ![A polar bear cub sits in a large car tyre, which has been covered with a green blanket. His front paws are lying on the right-hand side of the tyre; his head is turned towards the camera.](/images/cmw/Knut_March07_Griesbach.jpg)
@@ -51,6 +41,17 @@ _The young "Knut" during his first explorations of an outdoor enclosure, 2007. (
 </figcaption>
  
 </figure>
+
+It's something all Berlin Zoo employees have experienced: once other people find out where they work, one name comes up immediately: "Knut" – even though he died some time ago. There were almost 14,000 animals comprising some 1,300 species living at Berlin Zoo and Aquarium at the end of 2007. About 1,200 of them were mammals.[^1] Most of them had not been given names known to the public. Just like every year since its founding, there had been births at the zoo that year, of rare and popular animal species too. It was just a normal year. And yet something quite special happened in 2007 and in the years that followed. The "Knut" phenomenon dominated news about the zoo in Berlin and even caused an international furore. How did this happen?
+ 
+## A star is born!
+ 
+On 5 December 2006, at about 3.00 pm, "Tosca" the polar bear gave birth to two cubs. It soon became clear that the mother was not showing any inclination of providing nurturing care. **One of the cubs died. The other was removed from the enclosure and was successfully fed by bottle.**[^2] The two keepers and the curators in charge gave him the name "Knut". 
+ 
+Back then, it was not unusual for zoo births to progress this way or for baby animals to be raised by hand using a bottle. But, for various reasons, this polar bear cub soon became very well known. In the following, we will see how "Knut" rapidly became a media star, setting negotiations in motion about the relationship between humans and animals in zookeeping and becoming a factor in the generation of economic capital for Berlin Zoo; how he was stylised as an ambassador for environmental protection; and how many people viewed him as their companion.
+ 
+The story of "Knut" reveals a number of processes that have the potential to make one animal individual stand out from the great throng of animals living in Berlin's zoos, including factors relating to economics, zoo history, environmental policy, media history, and social history.
+
  
 ## Economies of attention
  
@@ -363,16 +364,6 @@ Environmental politics are another factor that would be difficult to reproduce t
  
 :::DE:::
  
-Zoomitarbeiter:innen aus Berlin kennen das: Erfahren andere Menschen von ihrem Arbeitsplatz, fällt oft sofort ein Name: "Knut". Und das obwohl dessen Tod schon einige Jahre her ist. Im Berliner Zoo und Aquarium lebten am Ende des Jahres 2007 fast 14.000 Tiere in mehr als 1.300 Arten. Davon waren etwa 1.200 Säugetiere.[^1] Den meisten von ihnen hatten die Zoomitarbeiter:innen keinen der Öffentlichkeit bekannten Namen gegeben. Wie in fast jedem Jahr seit seiner Gründung hatte es im Zoo Tiergeburten auch bei seltenen und beliebten Tierarten gegeben. Eigentlich ein ganz normales Jahr. Und doch geschah 2007 und anschließend etwas Besonderes. Das Phänomen "Knut" bestimmte die Nachrichten rund um den Zoo in Berlin und machte sogar international Furore. Wie kam es dazu?
- 
-## A star is born!
- 
-Am 5. Dezember 2006 gegen 15:00 Uhr brachte die Eisbärin "Tosca" zwei Jungtiere zur Welt. Nach kurzer Zeit stellte sich heraus, dass das Muttertier keine Anzeichen einer pflegenden Fürsorge zeigte. **Eines der Jungtiere starb. Das andere wurde aus dem Gehege entfernt und erfolgreich mit der Flasche versorgt.**[^2] Die beiden Pfleger und die zuständigen Kuratoren gaben ihm den Namen "Knut". 
- 
-Damals war ein solcher Verlauf bei einer Zootiergeburt und die anschließende Aufzucht mit der Flasche eigentlich kein ungewöhnlicher Vorgang. Aber aus verschiedenen Gründen wurde das Eisbärenjunge bald sehr bekannt. Im Folgenden soll untersucht werden, wie "Knut" schon sehr bald ein Medienstar, ein Auslöser für Verhandlungen des Tier-Mensch-Verhältnisses in der Zootierhaltung und ein ökonomischer Kapitalfaktor des Berliner Zoos wurde, wie er zu einem Botschafter des Umweltschutzes stilisiert wurde und wie ihn viele Menschen als Begleiter ihres Lebens wahrnahmen.
- 
-An der Geschichte "Knut" lassen sich eine Anzahl Prozesse zeigen, die ein Tierindividuum aus der erwähnten großen Schar an in Berlin lebenden Zootieren hervorheben können. Dabei handelte es sich um ökonomische, zoohistorische, umweltpolitische, medienhistorische und sozialhistorische Faktoren.
- 
 <figure>
  
 ![Eisbärjunges sitzt in einem großen Autoreifen, der mit einer grünen Decke abgedeckt wurde. Vorderpfoten liegen rechts auf dem Reifen auf, Kopf ist zur Kamera gewandt.](/images/cmw/Knut_March07_Griesbach.jpg)
@@ -384,6 +375,17 @@ _Der junge "Knut" bei ersten Erkundungen eines Außengeheges, 2007. (AZGB, Foto 
 </figcaption>
  
 </figure>
+
+Zoomitarbeiter:innen aus Berlin kennen das: Erfahren andere Menschen von ihrem Arbeitsplatz, fällt oft sofort ein Name: "Knut". Und das obwohl dessen Tod schon einige Jahre her ist. Im Berliner Zoo und Aquarium lebten am Ende des Jahres 2007 fast 14.000 Tiere in mehr als 1.300 Arten. Davon waren etwa 1.200 Säugetiere.[^1] Den meisten von ihnen hatten die Zoomitarbeiter:innen keinen der Öffentlichkeit bekannten Namen gegeben. Wie in fast jedem Jahr seit seiner Gründung hatte es im Zoo Tiergeburten auch bei seltenen und beliebten Tierarten gegeben. Eigentlich ein ganz normales Jahr. Und doch geschah 2007 und anschließend etwas Besonderes. Das Phänomen "Knut" bestimmte die Nachrichten rund um den Zoo in Berlin und machte sogar international Furore. Wie kam es dazu?
+ 
+## A star is born!
+ 
+Am 5. Dezember 2006 gegen 15:00 Uhr brachte die Eisbärin "Tosca" zwei Jungtiere zur Welt. Nach kurzer Zeit stellte sich heraus, dass das Muttertier keine Anzeichen einer pflegenden Fürsorge zeigte. **Eines der Jungtiere starb. Das andere wurde aus dem Gehege entfernt und erfolgreich mit der Flasche versorgt.**[^2] Die beiden Pfleger und die zuständigen Kuratoren gaben ihm den Namen "Knut". 
+ 
+Damals war ein solcher Verlauf bei einer Zootiergeburt und die anschließende Aufzucht mit der Flasche eigentlich kein ungewöhnlicher Vorgang. Aber aus verschiedenen Gründen wurde das Eisbärenjunge bald sehr bekannt. Im Folgenden soll untersucht werden, wie "Knut" schon sehr bald ein Medienstar, ein Auslöser für Verhandlungen des Tier-Mensch-Verhältnisses in der Zootierhaltung und ein ökonomischer Kapitalfaktor des Berliner Zoos wurde, wie er zu einem Botschafter des Umweltschutzes stilisiert wurde und wie ihn viele Menschen als Begleiter ihres Lebens wahrnahmen.
+ 
+An der Geschichte "Knut" lassen sich eine Anzahl Prozesse zeigen, die ein Tierindividuum aus der erwähnten großen Schar an in Berlin lebenden Zootieren hervorheben können. Dabei handelte es sich um ökonomische, zoohistorische, umweltpolitische, medienhistorische und sozialhistorische Faktoren.
+
  
 ## Aufmerksamkeitsökonomien
  
