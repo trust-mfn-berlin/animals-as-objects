@@ -24,7 +24,8 @@ desc_de: In den 1950er Jahren wurden Tiefseebohrungen zu einem wichtigen
   Naturkunde Berlin.
 short_desc: " A global effort to collect data from the ocean-floor"
 short_desc_de: Die globale Datensammlung am Meeresgrund
-cover_image: null
+cover_image:
+  image: /images/joides-resolution.jpeg
 colour_scheme: 1
 tao_type: story
 date_start: 1957-12-23T17:55:00.000Z
