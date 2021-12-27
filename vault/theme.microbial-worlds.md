@@ -7,7 +7,7 @@ short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Wel
 date_end: 2021-12-14T14:41:44.038Z
 published: false
 title: Microbial Worlds
-updated: 1640452425159
+updated: 1640633921247
 id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
 translators:
   translator_en_de: ""
@@ -51,7 +51,7 @@ By the second half of the 20th century the ever-increasing resolution and interc
 
 <figure>
 
-![Black and white engraving: mould as seen under a microscope](/images/filo/micrographia.jpg)
+![Black and white engraving: mould as seen under a microscope](/images/filo/micrographia.jpeg)
 
 <figcaption>
 
@@ -67,7 +67,7 @@ Before the 19th century, the observation of microorganisms was carried out by in
 
 <figure>
 
-![Colored illustration: A woman drops her tea-cup in horror upon discovering the monstrous contents of a magnified drop of Thames water.](/images/filo/microbialenemies.jpg)
+![Colored illustration: A woman drops her tea-cup in horror upon discovering the monstrous contents of a magnified drop of Thames water.](/images/filo/microbialenemies.jpeg)
 
 <figcaption>
 
@@ -103,7 +103,7 @@ _How_ we see microbial life also transforms _what_ we see. The emergence of micr
 
 <figure>
 
-![Illustration: A section of a droplet of water, filled with dynamic microorganisms and colorful representations of their physicochemical interactions.](/images/filo/microbial-cube.jpg)
+![Illustration: A section of a droplet of water, filled with dynamic microorganisms and colorful representations of their physicochemical interactions.](/images/filo/microbial-cube.jpeg)
 
 <figcaption>
 
@@ -173,7 +173,7 @@ Die stetig verbesserte Auflösung verfügbarer Mikroskope und ein immer größer
 
 <figure>
 
-![ Schwarz-Weiß-Kupferstich: Mikrosopische Ansicht eines Schimmelpilzes](/images/filo/micrographia.jpg)
+![ Schwarz-Weiß-Kupferstich: Mikrosopische Ansicht eines Schimmelpilzes](/images/filo/micrographia.jpeg)
 
 <figcaption>
 
@@ -189,7 +189,7 @@ Vor dem 19. Jahrhundert waren es wissbegierige Naturforscher:innen und Universal
 
 <figure>
 
-![Farbige Illustration: Eine Frau lässt entsetzt ihre Teetasse fallen, als sie den vermeintlich monströsen Inhalt eines vergrößerten Wassertropfens aus der Themse erblickt.](/images/filo/microbialenemies.jpg)
+![Farbige Illustration: Eine Frau lässt entsetzt ihre Teetasse fallen, als sie den vermeintlich monströsen Inhalt eines vergrößerten Wassertropfens aus der Themse erblickt.](/images/filo/microbialenemies.jpeg)
 
 <figcaption>
 
@@ -225,7 +225,7 @@ Mit der Art und Weise, _wie_ wir mikrobielles Leben betrachten, verändert sich 
 
 <figure>
 
-![Illustration: Ausschnitt eines mit dynamischen Mikroorganismen gefüllten Wassertropfens; mit farblicher Darstellungen ihrer physikalisch-chemischen Wechselwirkungen.](/images/filo/microbial-cube.jpg)
+![Illustration: Ausschnitt eines mit dynamischen Mikroorganismen gefüllten Wassertropfens; mit farblicher Darstellungen ihrer physikalisch-chemischen Wechselwirkungen.](/images/filo/microbial-cube.jpeg)
 
 <figcaption>
 

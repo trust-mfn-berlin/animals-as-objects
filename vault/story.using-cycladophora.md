@@ -7,7 +7,7 @@ short_desc_de: Von Mikrofossilien zur Planetenwissenschaft
 date_end: 2021-07-06T11:38:39.090Z
 published: false
 title: Using Cycladophora
-updated: 1640552481093
+updated: 1640634407155
 id: TBi8fH-OIQRAoB-tG9ZY1
 doi: 10.7479/64y2-m311/2
 translators:
@@ -34,6 +34,18 @@ date_start: 1949-12-31T23:00:00.000Z
 
 :::EN:::
 
+<figure>
+
+![desc](/images/filo/cover using cycladophora.jpeg)
+
+<figcaption>
+
+_A graph from Hays et al. 1976 milestone publication on Science, linking variations in Cycladophora’s abundances with glacial cycles. All rights reserved._
+
+</figcaption>
+
+</figure>
+
 Despite the early efforts of [[story.classifying-cycladophora]] over the second half of the 19th century, interest in this species (and radiolarians in general) subsided before the turn of century. This was at least partly due to the [[story.micropaleontological-evolutionary-dead-ends]] that Haeckel's study of radiolaria had led to. As a result, _Cycladophora_ remained at the margins of natural sciences. That is, until the 1950s, when a young graduate student – William Rex Riedel – reassessed Haeckel's materials on this neglected group. **Riedel soon realised that the German naturalist had mixed current radiolarians with more ancient ones. The long ranges hypothesized by Haeckel for radiolarians were incorrect, and these microorganisms could provide useful stratigraphic information**, just like [[material.foraminifera]] did for [[story.industrial-micropaleontology]] already since 1921. Furthermore, the wartime technical developments made it possible to resolve the evolution of radiolarian species along the stratigraphic record more clearly. **As the Cold War justified the financing of ambitious technoscientific projects, the exploration of the oceans reached a planetary scale** – especially through the launch of [[material.JOIDES]] and the various [[story.deep-sea-drilling]] programmes already in the 1960s. Thanks to Riedel, who had a prominent role in these developments, radiolarians had now a front row seat during the return of [[story.micropaleontology-at-sea]]. As the study of microfossils connected more closely with oceanography, radiolarians revealed their potential for shedding light on the deep history and dynamics of our planet. Given its distribution in cold waters at high latitudes, _Cycladophora davisiana_ was going to have a particularly important role in these histories [[story.of-microbes-and-planets]].
 
 Up until the 1950s, foraminiferans had been the main tool in [[material.biostratigraphy]]. Because of their carbonate biochemistry, foraminifera shells (also called "test") are not well preserved in high latitude sediments. In contrast, radiolarians are more widespread and better preserved in these sediments thanks to their siliceous tests. Furthermore, _Cycladophora_'s climatic preferences and distribution connect their abundance to glacial and interglacial variations in temperatures. **For these reasons _Cycladophora davisiana_ quickly became an important stratigraphic tool – in particular in relation to the dynamics of ice-age cycles.** Instrumental to this success of _Cycladophora_ as a scientific tool, was the ever-growing collection of data and sediment [[material.core-samples]] made possible by [[story.deep-sea-drilling]]. This impressive collection of scientific data joins longstanding natural history efforts in [[theme.recording-worlds]], and has allowed scientists to expand their analyses. To organise these data, a series of databases have been developed since the 1990s. They converged in the Naturkundemuseum's [[material.nsb-database]], which gathers over 700.000 records from the various [[story.deep-sea-drilling]] programmes. In this way, the planet and its complex dynamics and systems emerge as objects of scientific study, as Big Data makes them more accessible and manageable.[^1]
@@ -51,6 +63,18 @@ In this sense, _Cycladophora davisiana_ continues its scientific (after)life as 
 
 
 :::DE:::
+
+<figure>
+
+![desc](/images/filo/cover using cycladophora.jpeg)
+
+<figcaption>
+
+_A graph from Hays et al. 1976 milestone publication on Science, linking variations in Cycladophora’s abundances with glacial cycles. All rights reserved._ –MUSS noch übersetzt werden!
+
+</figcaption>
+
+</figure>
 
 Trotz der frühen Bemühungen um die Klassifizierung der Cycladophora in der zweiten Hälfte des 19. Jahrhunderts ([[story.classifying-cycladophora]]) hatte das Interesse an dieser Art (und an Radiolarien im Allgemeinen) bis zur Jahrhundertwende stark nachgelassen. Dies lag zumindest teilweise an den [[story.micropaleontological-evolutionary-dead-ends]], zu denen Haeckels Studium der Radiolarien geführt hatte. In der Folge blieb _Cycladophora_ ein Randphänomen in den Naturwissenschaften, bis William Rex Riedel, ein junger Doktorand, in 1950er Jahren Haeckels Material zu der vernachlässigten Gruppe einer Neubewertung unterzog. **Riedel bemerkte schnell, dass der deutsche Naturforscher Radiolarien aus jüngerer Zeit mit älteren vermischt hatte. Die von Haeckel für Radiolarien angenommenen großen stratigraphischen Reichweiten waren somit falsch – und die Mikroorganismen zudem nützliche Lieferanten stratigraphischer Informationen**, so wie auch [[material.foraminifera]], die schon seit 1921 für die [[story.industrial-micropaleontology]] genutzt wurden. Die technischen Entwicklungen der Kriegszeit ermöglichten es Forschenden darüber hinaus, anhand stratigraphischer Tabellen ein genaueres Bild von der Evolution der Radiolarienarten zu erhalten. **Und da der Kalte Krieg die Finanzierung ehrgeiziger wissenschaftlich-technischer Projekte rechtfertigte, erstreckte sich die Erforschung der Ozeane bereits in den 1960er Jahren auf den gesamten Globus** – insbesondere ab dem Beginn von [[material.JOIDES]] und der verschiedenen [[story.deep-sea-drilling]]-Programme. Dank Riedel, der großen Anteil an diesen Entwicklungen hatte, wurde Radiolarien im Zuge der Rückkehr der [[story.micropaleontology-at-sea]] endlich die gebührende Aufmerksamkeit zuteil. Als die Forschung zu Mikrofossilien immer stärker Eingang in die Ozeanografie fand, offenbarten Radiolarien schließlich ihr Potenzial, zu einem besseren Verständnis der Tiefenzeit ("deep history") und der Dynamiken unseres Planeten beizutragen. Aufgrund der Verbreitung in kalten Gewässern in höheren geografischen Breiten spielt _Cycladophora davisiana_ in dieser Geschichte [[story.of-microbes-and-planets]] eine besonders wichtige Rolle.
 

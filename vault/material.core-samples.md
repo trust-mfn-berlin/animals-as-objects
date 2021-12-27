@@ -8,7 +8,7 @@ short_desc_de: Zylinderförmige Kernproben, die durch Bohrungen in
 date_end: 2021-12-07T19:25:46.689Z
 published: false
 title: Core Samples
-updated: 1640475034254
+updated: 1640634311218
 id: 02wCHNiTRZ4Zkq2cO9Cpv
 translators:
   translator_en_de: ""
@@ -27,7 +27,7 @@ date_start: 1947-01-02T19:24:05.131Z
 
 <figure>
 
-![Illustration: JOIDES Resolution deep sea drilling vessel and its naming conventions for core samples.](/images/filo/astrobiology.png)
+![Illustration: JOIDES Resolution deep sea drilling vessel and its naming conventions for core samples.](/images/filo/cores.png)
 
 <figcaption>
 
@@ -61,7 +61,7 @@ _A video showing the work of collecting and studying core samples through [[mate
 
 <figure>
 
-![Illustration: Das Tiefseebohrschiff JOIDES Resolution und seine Benennungsregeln für Kernproben.](/images/filo/astrobiology.png)
+![Illustration: Das Tiefseebohrschiff JOIDES Resolution und seine Benennungsregeln für Kernproben.](/images/filo/cores.png)
 
 <figcaption>
 
