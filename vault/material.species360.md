@@ -7,7 +7,7 @@ short_desc_de: Software zur Koordination von Zootierhaltungen
 date_end: 2021-12-25T19:31:46.616Z
 published: false
 title: Species360
-updated: 1640459792282
+updated: 1640713565287
 id: 690683a5-6845-4c80-bb3b-5771881bdca6
 translators:
   translator_de_en: ""
@@ -62,7 +62,7 @@ _Species360 bündelt die Funktionen von ZIMS, dem web-basierten Zoological Infor
 
 </figure>
 
-Tausende von Tieren leben weltweit in Zoos, die sich selbst als wissenschaftlich geleitet und arbeitend bezeichnen. Diese sind in der Regel Mitglied in einem oder in mehreren der nationalen und überregionalen Zooverbänden wie, im Fall der Berliner Zoos, dem Verband deutscher Zoos (VdZ) und der European Association of Zoos and Aquaria (EAZA). Hinzu kommen regionale Verbände der Zoos Afrikas, Nord-, Mittel und Südamerikas, Ost-Asiens und Südostasiens und die in ihnen vertretenen nationalen Zooverbände. Die Dachorganisation bildet die World Association of Zoos and Aquariums (WAZA). **Allen diesen Zoos steht die Kooperation in den gemeinsam geplanten Erhaltungszuchtprogrammen offen und darüber hinaus tauschen sie Tiere untereinander aus.** Mehr dazu in [[theme.how-do-animals-end-up-in-the-zoo]].
+Tausende von Tieren leben weltweit in Zoos, die sich selbst als wissenschaftlich geleitet und arbeitend bezeichnen. Diese sind in der Regel Mitglied in einem oder in mehreren der nationalen und überregionalen Zooverbänden wie, im Fall der Berliner Zoos, dem Verband deutscher Zoos (VdZ) und der European Association of Zoos and Aquaria (EAZA). Hinzu kommen regionale Verbände der Zoos Afrikas, Nord-, Mittel- und Südamerikas, Ost-Asiens und Südostasiens und die in ihnen vertretenen nationalen Zooverbände. Die Dachorganisation bildet die World Association of Zoos and Aquariums (WAZA). **Allen diesen Zoos steht die Kooperation in den gemeinsam geplanten Erhaltungszuchtprogrammen offen und darüber hinaus tauschen sie Tiere untereinander aus.** Mehr dazu in [[theme.how-do-animals-end-up-in-the-zoo]].
 
 Dafür benötigen sie große Mengen an Daten, die die Herkunft eines Tieres und sein Zooleben betreffen. Von welchen Tieren stammt es ab? Wie sind sein Alter und sein Gesundheitszustand? Auf der Basis dieser Informationen entscheiden Kurator:innen und die Zuchtkoordinator:innen, welche Tiere sich mit welchen vermehren dürfen oder in ein Zuchtprogramm passen. **Das Ziel ist die Erhaltung einer genetisch diversen Zoopopulation und die Vermeidung von Inzucht sowie vererblichen Krankheiten.** Heute wird dazu von den meisten Zoos eine Software verwendet. Die Anfänge waren aber bescheidener.
 
