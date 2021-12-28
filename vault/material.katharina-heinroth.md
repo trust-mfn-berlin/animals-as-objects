@@ -7,7 +7,7 @@ short_desc_de: Foto von Katharina Heinroth auf der morgendlichen Runde durch den
 date_end: 1955-12-31T11:00:00.000Z
 published: false
 title: Katharina Heinroth
-updated: 1640461010870
+updated: 1640714387248
 id: f2e04dbc-1209-40b6-baf5-599fd36e63c7
 translators:
   translator_de_en: ""
@@ -35,7 +35,7 @@ date_start: 1944-12-31T23:00:00.000Z
 
 <figcaption>
 
-_Katharina Heinroth with her Newfoundland "Ajax" and four co-workers on their morning rounds at Berlin Zoo, 1946. (AZGB, Foto Liselotte Orgel. All rights reserved.)_
+_Katharina Heinroth with her Newfoundland "Ajax" and four co-workers on their morning rounds at Berlin Zoo, 1946. (AZGB, image Liselotte Orgel. All rights reserved.)_
 
 </figcaption>
 
