@@ -12,7 +12,8 @@ id: 5uQChdHATgh_dE94AE5fX
 desc: Put a description of this note here...
 desc_de: Put a DE description of this note here...
 short_desc: noch im check bei therese
-cover_image: null
+cover_image:
+  image: /images/liste_tote_tiere_1943.jpg
 colour_scheme: 0
 tao_type: material
 date_start: ""
