@@ -7,7 +7,7 @@ short_desc_de: Politische, logistische und moralische Herausforderungen
 date_end: ""
 published: false
 title: How Do Animals End Up in the Zoo?
-updated: 1640786675701
+updated: 1640786932971
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 translators:
   translator_de_en: ""
@@ -187,7 +187,7 @@ Ultimately, it seems that over the course of their existence, zoos – including
 
 In the Tierpark of East Berlin, a huge area of more than 100 hectares was available for animal enclosures and larger herds. The West Berlin Zoo, in its turn, worked to maintain a reputation as the most species-rich zoo in the world. This last was also related to the fact that everything in West Berlin, dependent as the city was on subsidies from the Federal Republic, was inflected by a felt need to legitimate itself. The zoo was a tourist magnet in this city at the front of the Cold War. Until well after the turn of the millennium, pedagogical concerns and species conservation were not at the forefront of considerations driving animal acquisition.
 
-Sandra Nicolodi states that while the "shift toward coordinated inter-zoo breeding of certain endangered species, as practiced today, for instance, in the form of conservation breeding programmes, is not the end product of a straight line of development," as zoo associations like to present it, "nevertheless, it does seem to be something new." Even if, as is apparent, these "offspring breeding efforts" are older.[^15]
+Sandra Nicolodi states that while the "shift toward coordinated inter-zoo breeding of certain endangered species, as practiced today, for instance, in the form of conservation breeding programmes, is not the end product of a straight line of development", as zoo associations like to present it, "nevertheless, it does seem to be something new". Even if, as is apparent, these "offspring breeding efforts" are older.[^15]
 
 For some years now, it has been possible to identify new tendencies that are changing zoos internationally, in Germany, and in Berlin. Long-term strategic considerations are now taking the place of pragmatism to a greater extent. Increasing criticism of the conditions in zoos, and questions about their future role in natural history education and species conservation _ex situ_ (i.e., in zoos through breeding) and _in situ_ (in the animals' original habitats) have led to a move away from earlier zoo directors' "passion for collecting". Observers now see everywhere a reduction in the number of species kept, in favour of larger enclosures and a focus on so-called flagship species – meaning, "endangered species with a high display value, through whose protection one simultaneously achieves the protection of many other species that share their habitat with them."[^16] These practices are in line with the "Conservation Strategy" adopted by the World Association of Zoos and Aquariums in 2015.[^17] Whether this can induce an effective reorientation of zoos for the future is debatable.[^18] For zoos have not quite abandoned pragmatic considerations: Breeding programmes, especially of display-worthy animals, remain important to ensure the continued presence of the favourites that as-yet plentiful audiences keep coming to the zoo to see. Perhaps these, in their turn, will generate the resources needed to achieve new strategic goals?
 
