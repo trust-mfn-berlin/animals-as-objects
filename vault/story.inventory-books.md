@@ -8,7 +8,7 @@ desc: |-
   search for a spiny dogfish specimen reveals that it was registered in the
   teaching collection at various points in time under the numbers 1208, 2488,
   and 863.
-updated: 1640611146259
+updated: 1640272130598
 created: 1629792912565
 license: CC BY-SA
 title_de: Inventarbücher
@@ -92,7 +92,7 @@ _Two labels for the gill of a shore crab_ (Carcinus maenas). _The combination of
 
 </figure>
 
-The labels supplemented the inventory lists in the records of new arrivals, reducing the amount of object information on the one hand but also containing additional information on the other, like the assignment of a shelf number. A label thus described an item's place within the collection and also referred to its overarching classification within a [[taxonomic system|theme.taxonomical-orders]]. This made it possible to mobilise individual specimens but also to circulate the knowledge connected with them – an aspect that, in light of the fact that the items were used on a daily basis in university teaching, was of major significance.
+The labels supplemented the inventory lists in the records of new arrivals, reducing the amount of object information on the one hand but also containing additional information on the other, like the assignment of a shelf number. A label thus described an item's place within the collection and also referred to its overarching classification within a [[taxonomic system|theme.taxonomic-orders]]. This made it possible to mobilise individual specimens but also to circulate the knowledge connected with them – an aspect that, in light of the fact that the items were used on a daily basis in university teaching, was of major significance.
 
 The inventory books were part of a system of reference that comprised and connected record-keeping media and collection items. They secured information about the items while simultaneously ensuring that the items were used. **This was because specimens, just like models or wall charts, had to be found, used, and then stowed away again every day.** Reflecting the fact that the items were embedded within a system of academic knowledge transfer, there were some cases where objects were destroyed through use. But how were these losses be recorded? The inventories show that the damaged objects were often replaced with equivalent specimens. Comments recorded these replacements in writing. "Broken and replaced from the holdings of the Royal Zoological Collection. 6.VI.1907", for example, reads a note that can be found in the record of a wild board skull (_Sus scrofa_ L.) with the number 1396.
 
@@ -280,7 +280,7 @@ _Zwei Etiketten eines Präparats der Kiemen einer Gemeinen Strandkrabbe_ (Carcin
 
 </figure>
 
-Die Etiketten ergänzten die Inventarlisten der Eingangserfassung, reduzierten einerseits die Objektinformationen und beinhalteten andererseits zusätzliche Informationen, wie die Zuordnung einer Stellplatznummer. Die Etiketten kennzeichneten so den Ort des Objektes in der Sammlung und verwiesen auf die übergeordnete Klassifikation der Objekte innerhalb einer [[taxonomischen Systematik|theme.taxonomical-orders]]. Damit ermöglichten sie die Mobilisierung der einzelnen Präparate, aber auch die Zirkulation des mit ihnen verbundenen Wissens – ein Aspekt, der im Hinblick auf die tägliche Nutzung der Objekte im universitären Lehrbetrieb von signifikanter Bedeutung war.
+Die Etiketten ergänzten die Inventarlisten der Eingangserfassung, reduzierten einerseits die Objektinformationen und beinhalteten andererseits zusätzliche Informationen, wie die Zuordnung einer Stellplatznummer. Die Etiketten kennzeichneten so den Ort des Objektes in der Sammlung und verwiesen auf die übergeordnete Klassifikation der Objekte innerhalb einer [[taxonomischen Systematik|theme.taxonomic-orders]]. Damit ermöglichten sie die Mobilisierung der einzelnen Präparate, aber auch die Zirkulation des mit ihnen verbundenen Wissens – ein Aspekt, der im Hinblick auf die tägliche Nutzung der Objekte im universitären Lehrbetrieb von signifikanter Bedeutung war.
 
 Die Inventarbücher waren Teil eines Referenzsystems zwischen Verzeichnungsmedien und Sammlungsobjekten. Sie fixierten Objektinformationen und gewährleisteten gleichzeitig den Gebrauch der Objekte. **Denn Präparate, ebenso wie die Modelle oder die Wandtafeln mussten tagtäglich gefunden, genutzt und schließlich wieder verräumt werden.** Entsprechend der Integration der Sammlungsobjekte in den Kontext der akademischen Wissensvermittlung, kam es vereinzelt dazu, dass Objekte durch den Gebrauch zerstört wurden. Wie aber ließen sich solche Verluste verzeichnen? Aus den Inventaren geht hervor, dass beschädigte Objekte oftmals durch gleichwertige Präparate ersetzt wurden. Eine Bemerkung hielt diesen Austausch im jeweiligen Eintrag schriftlich fest. "Zerbrochen und aus den Beständen der Kgl. Zoolog. Sammlung ersetzt. 6.VI.1907", lautet beispielsweise eine Notiz, die sich unter der Verzeichnung eines Wildschweinschädels (_Sus scrofa_ L.) mit der Nummer 1396 findet.
 
