@@ -7,12 +7,13 @@ short_desc_de: noch im check bei therese
 date_end: ""
 published: false
 title: List of Dead Zoo Animals
-updated: 1630052153889
+updated: 1640706842648
 id: 5uQChdHATgh_dE94AE5fX
 desc: Put a description of this note here...
 desc_de: Put a DE description of this note here...
 short_desc: noch im check bei therese
-cover_image: null
+cover_image:
+  image: /images/liste_tote_tiere_1943.jpg
 colour_scheme: 0
 tao_type: material
 date_start: ""
@@ -26,7 +27,7 @@ EN content goes here
 
 <figure>
 
-![Gelochtes schreibmaschinengeschriebenes Blatt mit zwei Spalten: tot; noch vorhanden. Auflistung der Tiere in jeweiliger Spalte, siehe Transkript unten.](images/cmw/Liste_tote_Tiere_1943.jpg)
+![Gelochtes schreibmaschinengeschriebenes Blatt mit zwei Spalten: tot; noch vorhanden. Auflistung der Tiere in jeweiliger Spalte, siehe Transkript unten.](/images/cmw/Liste_tote_Tiere_1943.jpg)
 
 <figcaption>
 
