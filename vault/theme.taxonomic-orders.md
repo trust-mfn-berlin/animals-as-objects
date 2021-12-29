@@ -1,22 +1,24 @@
 ---
-license: CC BY-SA
-title_de: Taxonomische Ordnung
-created: 1618491191119
-author: Filippo Bertoni
-short_desc_de: Die Kategorisierung der Natur ist politisch
-date_end: 2021-07-06T11:43:53.791Z
-published: false
-title: Taxonomic Orders
-updated: 1640547541759
 id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
-translators:
-  translator_en_de: ""
-desc: In biology, taxonomy is a formal system to name, define, and classify
+title: Taxonomic Orders
+desc: |-
+  In biology, taxonomy is a formal system to name, define, and classify
   organisms, regulated and governed by a set of rules. Since its beginning
   biological taxonomy was neither stable nor universal, controversies frequently
   emerged. Classifications still continue to change today – and they have
   lasting impacts on our world.
-desc_de: In der Biologie ist die Taxonomie ein formales System zur Benennung,
+updated: 1640785064217
+created: 1618491191119
+license: CC BY-SA
+title_de: Taxonomische Ordnung
+author: Filippo Bertoni
+short_desc_de: Die Kategorisierung der Natur ist politisch
+date_end: 2021-07-06T11:43:53.791Z
+published: false
+translators:
+  translator_en_de: ''
+desc_de: |-
+  In der Biologie ist die Taxonomie ein formales System zur Benennung,
   Definition und Klassifizierung von Organismen, das mit Hilfe einer Reihe von
   Regeln unterliegt. Seit ihren Anfängen war die biologische Taxonomie weder
   beständig noch allgemeingültig. Tatsächlich kam es wiederholt zu Kontroversen.
@@ -25,15 +27,28 @@ desc_de: In der Biologie ist die Taxonomie ein formales System zur Benennung,
 short_desc: Organising nature is political
 cover_image:
   image: /images/cover-taxonomical-orders.jpg
-  alt: "Plate 2 from Linnaeus’ Systema Naturae, 6th edition, 1748. Tafel 2 aus
+  alt: |-
+    Plate 2 from Linnaeus’ Systema Naturae, 6th edition, 1748. Tafel 2 aus
     Linnaeus' Systema Naturae, 6. Auflage, 1748. Source:
-    https://commons.wikimedia.org/wiki/File:Systema_Naturae_Plate_II.jpg"
+    https://commons.wikimedia.org/wiki/File:Systema_Naturae_Plate_II.jpg
 colour_scheme: 12
 tao_type: theme
 date_start: 1752-12-31T23:06:32.000Z
 ---
 
 :::EN:::
+
+<figure>
+
+![Plate 2 from Linnaeus’ Systema Naturae, 6th edition, 1748. Source: https://commons.wikimedia.org/wiki/File:Systema_Naturae_Plate_II.jpg](/images/cover-taxonomical-orders.jpg)
+
+<figcaption>
+
+_Plate 2 from Linnaeus’ Systema Naturae, 6th edition, 1748. Source: https://commons.wikimedia.org/wiki/File:Systema_Naturae_Plate_II.jpg_
+
+</figcaption>
+
+</figure>
 
 Taxonomy (from the Greek _taxis_, order, and _nomos_, law) refers to ways in which humans classify and categorize their reality. Broadly speaking, taxonomies can be found anywhere and can point to all sorts of things; but in biology, taxonomy has come to denote a specific system for ordering and classifying all forms of life. **In this narrower biological sense, taxonomy is a formal system to name, define, and classify groups of organisms, regulated and governed by rules agreed upon by expert communities and international scientific institutions.**
 
@@ -95,6 +110,18 @@ Like all sorts of classifications, biological taxonomies are entangled with powe
 
 
 :::DE:::
+
+<figure>
+
+![Tafel 2 aus Linnaeus' Systema Naturae, 6. Auflage, 1748. Source: https://commons.wikimedia.org/wiki/File:Systema_Naturae_Plate_II.jpg](/images/cover-taxonomical-orders.jpg)
+
+<figcaption>
+
+_Tafel 2 aus Linnaeus' Systema Naturae, 6. Auflage, 1748. Source: https://commons.wikimedia.org/wiki/File:Systema_Naturae_Plate_II.jpg_
+
+</figcaption>
+
+</figure>
 
 Die Taxonomie (von griechisch _taxis_, Ordnung, und _nomos_, Gesetz) bezieht sich auf die Art und Weise wie Menschen ihre Realität klassifizieren und kategorisieren. Im Großen und Ganzen können Taxonomien also überall gefunden werden und sich auf alle Arten von Dingen beziehen; aber in der Biologie bezieht sich die Taxonomie auf ein spezifisches System zum Ordnen und Klassifizieren aller Erscheinungsformen des Lebens. **In diesem engeren biologischen Sinne ist die Taxonomie ein formales System zur Benennung, Definition und Klassifizierung von Gruppen von Organismen, das bestimmten Regeln, auf die sich Expert:innengemeinschaften und internationale wissenschaftliche Institutionen geeinigt haben, unterliegen.**
 

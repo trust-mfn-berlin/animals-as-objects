@@ -1,17 +1,19 @@
 ---
-license: CC BY-SA
-title: The Worlds We Make
-title_de: The Worlds We Make
-created: 1640281603094
-updated: 1640597093800
 id: 4npaIbpRAHygxSlfFDrj3
+title: The Worlds We Make
+desc: |-
+  The history of the horseshoe crab traverses a range of collecting sites
+  and scientific spaces, and shows how they have changed the worlds of both
+  people and animals.
+updated: 1640597093800
+created: 1640281603094
+license: CC BY-SA
+title_de: The Worlds We Make
 author: Mareike Vennen
 translators:
   translator_de_en: Lydia J. White
-desc: The history of the horseshoe crab traverses a range of collecting sites
-  and scientific spaces, and shows how they have changed the worlds of both
-  people and animals.
-desc_de: Die Geschichte des Pfeilschwanzkrebses führt quer durch verschiedene
+desc_de: |-
+  Die Geschichte des Pfeilschwanzkrebses führt quer durch verschiedene
   Orte des Sammelns und Räume der Wissenschaft und zeigt, wie diese die
   Lebenswelten von Menschen und Tieren gleichermaßen verändern.
 short_desc: Horseshoe crabs in collections and laboratories
@@ -21,7 +23,7 @@ cover_image:
 colour_scheme: 14
 tao_type: story
 date_start: 1800-12-23T18:49:39.000Z
-date_end: ""
+date_end: ''
 published: false
 ---
 
@@ -185,7 +187,7 @@ _Horseshoe crabs in the sales catalogue of the Hamburg natural-history dealer J.
 
 In the second half of the 19th century, however, more and more claims were being made that horseshoe crabs were more closely related to arachnids than crabs. A number of comparative studies were required to settle this issue of species classification. London zoologist Edwin Ray Lankester, for instance, published two pertinent articles with the title "Limulus as Arachnid" in the 1881 _Quarterly Journal of Microscopical Science_.[^15] Aquariums played another important role in these comparative anatomical studies as sites of observation and as sources for providing specimens from the 1860s onwards. Edwin Lankester, for instance, received live horseshoe crabs from the Royal Westminster Aquarium in London for his anatomical and histological studies. In Hamburg, zoologists like Karl August Möbius were given horseshoe crabs by the zoo aquarium there.[^16] It was therefore not by coincidence that the number of studies being published on the horseshoe crab grew from the 1870s.[^17] After Lankester and others had drawn the conclusion that the animals had more in common with spiders and scorpions than with crustaceans, _Limulus polyphemus_ was classified as a chelicerate in 1901. The horseshoe crab thus changed its subphylum within the taxonomic order.[^18]
 
-Here, the dynamics of taxonomic knowledge become visible, revealing that the [[Taxonomic Orders|theme.taxonomical-orders]]) is subject to historical change. Within the museum, horseshoe crab specimens then migrated from the Crustacean Collection to the Arachnid and Myriapod Collection, joining the spiders and centipedes, and received a new signature.[^19] Their original taxonomic classification and former location within the Crustacean Collection is still visible for some of the objects at the Berlin Museum of Natural History. Behind the acronym ZMB (for "Zoological Museum Berlin", which allows an object to be assigned to a special collection) and the inventory number for arachnids (for example "48490"), there is additional information provided in brackets, which points to this species' eventful taxonomic history: 
+Here, the dynamics of taxonomic knowledge become visible, revealing that the [[Taxonomic Orders|theme.taxonomic-orders]]) is subject to historical change. Within the museum, horseshoe crab specimens then migrated from the Crustacean Collection to the Arachnid and Myriapod Collection, joining the spiders and centipedes, and received a new signature.[^19] Their original taxonomic classification and former location within the Crustacean Collection is still visible for some of the objects at the Berlin Museum of Natural History. Behind the acronym ZMB (for "Zoological Museum Berlin", which allows an object to be assigned to a special collection) and the inventory number for arachnids (for example "48490"), there is additional information provided in brackets, which points to this species' eventful taxonomic history: 
 
 > ZMB 48490 [ex crustacean no. 5928], 4 juveniles, alcohol; Nahant, Massachusetts, USA; leg. Fröbel, date not recorded; good condition.[^20]
 
@@ -417,7 +419,7 @@ _Im Verkaufskatalog der Hamburger Naturalienhandlung J.F.G. Umlauff ist der Pfei
 </figure>
 
 In der zweiten Hälfte des 19. Jahrhunderts wurden jedoch vermehrt Stimmen laut, die nachweisen wollten, dass Pfeilschwanzkrebse enger mit den Spinnenartigen als mit Krebsen verwandt sind. Um diese Frage der Artenbestimmung zu klären, waren vergleichende Untersuchungen notwendig, wie jene des Londoner Zoologen Edwin Ray Lankester, der 1881 im _Quarterly Journal of Microscopical Science_ zwei einschlägige Artikel mit dem Titel "Limulus as Arachnid" veröffentlichte.[^15] Die vergleichenden anatomischen Studien waren auf Material angewiesen. Auch hier spielten ab den 1860er-Jahren Aquarien als Beobachtungsstätte und Bezugsquelle eine wichtige Rolle. Edwin Lankester erhielt für seine anatomischen und histologischen Studien lebende Pfeilschwanzkrebse vom Royal Westminster Aquarium in London. In Hamburg bekamen Zoologen wie Karl August Möbius Pfeilschwanzkrebse aus dem dortigen Zoo-Aquarium. [^16] Nicht zufällig nahmen daher ab den 1870er-Jahren die Studien zum Pfeilschwanzkrebs zu.[^17] Nachdem Lankester und andere zu dem Schluss gekommen waren, dass die Tiere mehr Merkmale mit Spinnen und Skorpionen gemein hatten als mit Krebstieren, wurde _Limulus polyphemus_ im Jahr 1901 in die Gruppe der Chelicerata eingeordnet. Der Pfeilschwanzkrebs wechselte damit innerhalb der taxonomischen Ordnung die Gruppe.[^18]
-Hier werden die Dynamiken taxonomischen Wissens sichtbar, die zeigen, dass das taxonomische System (siehe [[theme.taxonomical-orders]]) ein Resultat wissenschaftlicher Arbeit und damit historischen Wandlungen unterworfen ist. Es folgte ein physischer Ortswechsel innerhalb des Museums.[^19] Die Präparate der Pfeilschwanzkrebse wanderten von der Sammlung der Crustaceen zu den Arachnida und Myriapoda, den Spinnentieren und Tausendfüßlern, wo sie neu verzeichnet wurden und eine neue Signatur erhielten. Bei manchen Objekten im Berliner Naturkundemuseum ist ihre ursprüngliche taxonomische Einordnung und ihr ehemaliger Sammlungsort in der Krebssammlung noch sichtbar. Hinter dem Akronym ZMB (für "Zoologisches Museum Berlin", was die Zuordnung zu einer speziellen Sammlung ermöglicht) und der Inventarnummer für Spinnentiere (etwa "48490") findet sich ein Zusatz in Klammern, der auf die alte Signatur verweist und an die wechselhafte Taxonomiegeschichte der Art erinnert:
+Hier werden die Dynamiken taxonomischen Wissens sichtbar, die zeigen, dass das taxonomische System (siehe [[theme.taxonomic-orders]]) ein Resultat wissenschaftlicher Arbeit und damit historischen Wandlungen unterworfen ist. Es folgte ein physischer Ortswechsel innerhalb des Museums.[^19] Die Präparate der Pfeilschwanzkrebse wanderten von der Sammlung der Crustaceen zu den Arachnida und Myriapoda, den Spinnentieren und Tausendfüßlern, wo sie neu verzeichnet wurden und eine neue Signatur erhielten. Bei manchen Objekten im Berliner Naturkundemuseum ist ihre ursprüngliche taxonomische Einordnung und ihr ehemaliger Sammlungsort in der Krebssammlung noch sichtbar. Hinter dem Akronym ZMB (für "Zoologisches Museum Berlin", was die Zuordnung zu einer speziellen Sammlung ermöglicht) und der Inventarnummer für Spinnentiere (etwa "48490") findet sich ein Zusatz in Klammern, der auf die alte Signatur verweist und an die wechselhafte Taxonomiegeschichte der Art erinnert:
 
 > ZMB 48490 [ex crustacean no. 5928], 4 juveniles, alcohol; Nahant, Massachusetts, USA; leg. Fröbel, date not recorded; good condition.[^20]
 

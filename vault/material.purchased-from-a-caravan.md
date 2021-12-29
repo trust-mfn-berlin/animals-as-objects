@@ -1,23 +1,23 @@
 ---
-license: CC BY-SA
-title: Purchased from a Caravan
-title_de: Von einer Karawane gekauft
-created: 1640456449013
-updated: 1640458812618
 id: VzxTWqgWM3FzLdS5Z2DUO
+title: Purchased from a Caravan
+desc: Animal skulls tell a story
+updated: 1640458812618
+created: 1640456449013
+license: CC BY-SA
+title_de: Von einer Karawane gekauft
 author: Catarina Madruga
 translators:
   translator_en_de: Jan-Peter Herrmann
-desc: Animal skulls tell a story
-desc_de: Geschichten, die uns Tierschädel erzählen
+desc_de: 'Geschichten, die uns Tierschädel erzählen'
 short_desc: Animal skulls tell a story
-short_desc_de: Geschichten, die uns Tierschädel erzählen
+short_desc_de: 'Geschichten, die uns Tierschädel erzählen'
 cover_image:
   image: /images/purchased-from-a-caravan-1.jpg
 colour_scheme: 11
 tao_type: material
-date_start: 1938-01-01T19:53:00.000Z
-date_end: 1938-12-25T19:53:00.000Z
+date_start: '1938-01-01T19:53:00.000Z'
+date_end: '1938-12-25T19:53:00.000Z'
 published: false
 ---
 
@@ -47,7 +47,7 @@ _Image detail of the specimen ZMB-Mam-049330 showing the inscription on the skul
 
 </figure>
 
-Inscriptions in China ink cover the top front of nine skulls in the mammal collections of the Museum für Naturkunde Berlin. They provide information on the classification of the animals according to [[taxonomical systematics|theme.taxonomical-orders]], and on the provenance of the specimen. The specimens, among them the one with the catalogue number MfN_Mam_049330, are skulls of male and female of the African hartebeest antelope species named by the Berlin museum’s director Wilhelm Peters (1815-1883), in honour of his predecessor, Martin Lichtenstein (1780-1857),_Sigmoceros lichtensteinii_ in 1849 (today, the valid name is _Alcelaphus lichtensteinii_).[^1] As for the provenance, the inscription states that the individuals were purchased in Zanzibar, "from a passing caravan coming from the hinterland of Lindi."[^2]
+Inscriptions in China ink cover the top front of nine skulls in the mammal collections of the Museum für Naturkunde Berlin. They provide information on the classification of the animals according to [[taxonomical systematics|theme.taxonomic-orders]], and on the provenance of the specimen. The specimens, among them the one with the catalogue number MfN_Mam_049330, are skulls of male and female of the African hartebeest antelope species named by the Berlin museum’s director Wilhelm Peters (1815-1883), in honour of his predecessor, Martin Lichtenstein (1780-1857),_Sigmoceros lichtensteinii_ in 1849 (today, the valid name is _Alcelaphus lichtensteinii_).[^1] As for the provenance, the inscription states that the individuals were purchased in Zanzibar, "from a passing caravan coming from the hinterland of Lindi."[^2]
 
 Geographical location is a crucial data point for any mineralogical, botanical, or zoological specimen as shown in [[story.keeping-record-of-animals]]. Yet, despite its verbosity, here, the description does not provide information on the actual place where the animals were caught, where they were killed, nor where their skulls were prepared.  Instead, it offers the name of the place where the specimens were purchased – Zanzibar, the island to the coast of Dar es Salaam – and an indication of the seller’s route, through Lindi, a larger region in the southeast of Tanzania. Thus, the particular origin and distribution of these specimens remain unknown. This has to do with historical reasons, more specifically with historical practices of [[record-keeping|theme.recording-worlds]] that differ from today's. Whereas in the eighteenth century, the origin of collection objects was often described with broad categories such as "Africa", today’s contemporary research on evolution and biogeography works with GPS coordinates which can be migrated into databases. Therefore, historical inscriptions like "from a passing caravan coming from the hinterland of Lindi" pose challenges to biological research and to collection curators, especially in view of the locality that needs to be logged in the catalogue. In this case, the locality entered in the catalogue for each of these skull specimens is the "Lindi district" ("Lindi Bezirk"), an extension of over 60,000 square kilometres. Nevertheless, these objects can still be successfully used as resources to answer contemporary research questions regarding, for instance, extinction or endangerment of animal populations. [^3]
 
@@ -89,7 +89,7 @@ _Bildausschnitt des Präparats ZMB-Mam-049330, der die Beschriftung des Schädel
 
 </figure>
 
-Neun Schädel in der Säugetiersammlung des Museums für Naturkunde Berlin weisen jeweils auf der vorderen Oberseite eine Beschriftung mit schwarzer Tusche auf. Diese gibt Auskunft über die Klassifikation der Tiere im Sinne der [[taxonomischen Systematik|theme.taxonomical-orders]] und über die Herkunft des jeweiligen Objekts. Die Objekte, darunter auch jenes mit der Inventarnummer MfN_Mam_049330, sind Schädel von männlichen und weiblichen Exemplaren der afrikanischen Antilopenart Hartebeest, die der einstige Direktor des Museums für Naturkunde Berlin, Wilhelm Peters (1815–1883), zu Ehren seines Vorgängers Martin Lichtenstein (1780–1857) als _Sigmoceros lichtensteinii_ benannte (die heutige offizielle Bezeichnung lautet _Alcelaphus lichtensteinii_).[^1] Zur Herkunft vermerkt die Beschriftung, dass die Schädel in „Sansibar von einer aus dem Hinterlande von Lindi, Bez[irk] Lindi, D.O.A., kommenden Karawane gekauft“ wurden.[^2]
+Neun Schädel in der Säugetiersammlung des Museums für Naturkunde Berlin weisen jeweils auf der vorderen Oberseite eine Beschriftung mit schwarzer Tusche auf. Diese gibt Auskunft über die Klassifikation der Tiere im Sinne der [[taxonomischen Systematik|theme.taxonomic-orders]] und über die Herkunft des jeweiligen Objekts. Die Objekte, darunter auch jenes mit der Inventarnummer MfN_Mam_049330, sind Schädel von männlichen und weiblichen Exemplaren der afrikanischen Antilopenart Hartebeest, die der einstige Direktor des Museums für Naturkunde Berlin, Wilhelm Peters (1815–1883), zu Ehren seines Vorgängers Martin Lichtenstein (1780–1857) als _Sigmoceros lichtensteinii_ benannte (die heutige offizielle Bezeichnung lautet _Alcelaphus lichtensteinii_).[^1] Zur Herkunft vermerkt die Beschriftung, dass die Schädel in „Sansibar von einer aus dem Hinterlande von Lindi, Bez[irk] Lindi, D.O.A., kommenden Karawane gekauft“ wurden.[^2]
 
 Die geographische Verortung zählt zu den wichtigsten Informationen über mineralogische, botanische oder zoologische Objekte, wie in [[story.keeping-record-of-animals]] ausgeführt wird. Trotz der vermeintlichen Ausführlichkeit enthält die Beschriftung jedoch keinerlei Hinweise darauf, wo die Tiere gefangen, wo sie getötet oder wo sie präpariert wurden. Stattdessen ist der Name des Ortes angegeben, wo die Objekte gekauft wurden – Sansibar, das Archipel vor der ostafrikanischen Küste im Norden Tansanias – sowie die Route des Verkäufers – „von Lindi […] kommend“, also aus einer größeren Region im Süden Tansanias. Der konkrete Herkunftsort und das Verbreitungsgebiet dieser Tiere bleiben somit unbekannt. Die Gründe dafür sind historischer Natur. Genauer gesagt: Sie haben mit der historischen Praxis der [[theme.recording-worlds]] zu tun, die sich wesentlich von der heutigen unterschied. Während die Herkunft von Sammlungsobjekten im 18. Jahrhundert meist in sehr groben Kategorien angegeben wurde, wie z.B. „Afrika“, wird in der heutigen Evolutionsforschung und Biogeographie mit GPS-Koordinaten gearbeitet, die sich in Datenbanken einpflegen lassen. Historische Beschriftungen mit Angaben wie „aus dem Hinterlande von Lindi“ stellen daher sowohl die biologische Forschung als auch Sammlungskurator:innen vor Herausforderungen, vor allem bezüglich des im Katalog anzugebenden Herkunftsorts. In diesem Fall wurde als Herkunftsort aller Schädel der „Bezirk Lindi“ angegeben, ein Gebiet, das sich über mehr als 60.000 Quadratkilometer erstreckt. Gleichwohl können diese Objekte erfolgreich als Ressourcen für heutige Forschungen genutzt werden, beispielsweise im Hinblick auf das Aussterben oder die Gefährdung von Tierpopulationen und -arten.[^3]
 

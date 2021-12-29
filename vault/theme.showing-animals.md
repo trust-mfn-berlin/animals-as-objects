@@ -1,24 +1,26 @@
 ---
-license: CC BY-SA
-title_de: Tiere zurschaustellen
-created: 1618572893774
-author: Clemens Maier-Wolthausen
-short_desc_de: Wie und warum stellen Zoos Tiere aus?
-date_end: 2021-08-27T23:01:33.091Z
-published: false
-title: Putting Animals on Display
-updated: 1640641691482
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
-translators:
-  translator_de_en: Lydia J. White
-desc: Zoos' justifications for keeping animals and putting them on display have
+title: Putting Animals on Display
+desc: |-
+  Zoos' justifications for keeping animals and putting them on display have
   changed a great deal through the centuries, from recreation for urban
   populations to research and wildlife conservation. The now typical,
   geographically structured zoo in Berlin with its exoticising architecture was
   preceded by a taxonomically structured zoo that placed far more value on the
   completeness of its order than on the quality of the conditions in which
   animals were kept.
-desc_de: Die Begründungen von Zoos, warum sie Tiere halten und zur Schau
+updated: 1640471072039
+created: 1618572893774
+license: CC BY-SA
+title_de: Tiere zurschaustellen
+author: Clemens Maier-Wolthausen
+short_desc_de: Wie und warum stellen Zoos Tiere aus?
+date_end: 2021-08-27T23:01:33.091Z
+published: false
+translators:
+  translator_de_en: Lydia J. White
+desc_de: |-
+  Die Begründungen von Zoos, warum sie Tiere halten und zur Schau
   stellen, haben sich über die Jahrhunderte stark gewandelt, von Erholung der
   Stadtbevölkerung über Forschung bis hin zu Artenschutz. Dem heute typischen,
   geographisch geordneten Berliner Zoo mit exotisierender Architektur ging ein
@@ -27,8 +29,9 @@ desc_de: Die Begründungen von Zoos, warum sie Tiere halten und zur Schau
 short_desc: How and why do zoos put animals on display?
 cover_image:
   image: /images/showing-animals-berlin-zoo-antilopenhaus-around-1920.jpg
-  alt: "Antilopenhaus um 1920 im Berliner Zoo. Antelope building around 1920 in
-    the Berlin zoo. Source: AZGB. All rights reserved."
+  alt: |-
+    Antilopenhaus um 1920 im Berliner Zoo. Antelope building around 1920 in
+    the Berlin zoo. Source: AZGB. All rights reserved.
 tao_type: theme
 date_start: 1843-12-31T23:06:32.000Z
 colour_scheme: 1
@@ -162,7 +165,7 @@ In 2019, 3.5 million visitors visited Berlin Zoo. The vast majority of them did 
 
 ## Education – show animals and collecting practices
 
-In the nineteenth century, zoos' exoticising architecture was often accompanied by very small stalls. **Even though his plan never materialised, zoo director Ludwig Heck (in office from 1888 to 1932) had the goal, at least in theory, of presenting the complete fauna of the world.** From a contemporary perspective, the systematic or [[taxonomically ordered|theme.taxonomical-orders]] zoo, with its (often lone) specimens of individual species from various geographical regions exhibited next to each other, provided neither the social animals nor the public with any advantages. The small stalls, of course, did not allow the animals to live out their natural behaviour. The antelope house, built in 1872 with 20 cages arranged in an oval shape, the deer park, which had over 60 enclosures around 1900, and the aviary, opened in 1895, were examples of this collecting practice, whose aspirations to completeness prevailed over ensuring that the animals were kept in suitable conditions. In the aviary, cages were arranged one on top of the other in three storeys.[^12] Despite their exoticising backdrop, these enclosures were like “department stores”. However, their collections "suggested that the world was comprehensible", without "any gaps, any incompleteness".[^13] As they passed through, visitors were supposed to identify the similarities and differences, thereby participating in the order themselves.
+In the nineteenth century, zoos' exoticising architecture was often accompanied by very small stalls. **Even though his plan never materialised, zoo director Ludwig Heck (in office from 1888 to 1932) had the goal, at least in theory, of presenting the complete fauna of the world.** From a contemporary perspective, the systematic or [[taxonomically ordered|theme.taxonomic-orders]] zoo, with its (often lone) specimens of individual species from various geographical regions exhibited next to each other, provided neither the social animals nor the public with any advantages. The small stalls, of course, did not allow the animals to live out their natural behaviour. The antelope house, built in 1872 with 20 cages arranged in an oval shape, the deer park, which had over 60 enclosures around 1900, and the aviary, opened in 1895, were examples of this collecting practice, whose aspirations to completeness prevailed over ensuring that the animals were kept in suitable conditions. In the aviary, cages were arranged one on top of the other in three storeys.[^12] Despite their exoticising backdrop, these enclosures were like “department stores”. However, their collections "suggested that the world was comprehensible", without "any gaps, any incompleteness".[^13] As they passed through, visitors were supposed to identify the similarities and differences, thereby participating in the order themselves.
 
 <figure>
 
@@ -446,7 +449,7 @@ Für die Historikerin Christina Wessely waren diese Bauten "auf geradezu ideale 
 
 ## Bildung – Schautiere und Sammlungspraktiken
 
-Mit der erwähnten exotisierenden Architektur wurden im 19. Jahrhundert oft sehr kleine Ställe verbunden. **Auch wenn es nie Wirklichkeit wurde, Zoodirektor Ludwig Heck (Amtszeit 1888 bis 1932) hatte theoretisch das Ziel, die Fauna der Welt komplett abzubilden. Der systematische Zoo, also [[taxonomisch geordnet|theme.taxonomical-orders]], mit seinen (oft einzelnen) Exemplaren einer Gattung aus unterschiedlichen geografischen Regionen nebeneinander bot aber weder den sozial lebenden Tieren noch dem Publikum aus heutiger Sicht Vorteile. Die Tiere konnten in ihren kleinen Ställen natürliches Verhalten nicht ausleben. Das 1872 Antilopenhaus mit seinen im Oval angelegten mehr als 20 Käfigen, der Hirschpark mit seinen um 1900 mehr als 60 Gehegen oder das 1895 eröffnete Vogelhaus waren Beispiele für diese Sammlungspraxis, deren Ansprüche an Vollständigkeit gegenüber Haltungsbedingungen überwogen. In letzterem waren die Käfige dreistöckig übereinander angeordnet.[^12] Trotz ihrer exotisierenden Kulisse glichen sie "Warenhäusern". Ihre Sammlungen aber "suggerierten die Überschaubarkeit der Welt, die keine Leerstellen, keine Unvollständigkeiten" aufwies.[^13] Im Vorbeigehen sollten die Besucher:innen die Gemeinsamkeiten und Unterschiede erkennen und so an der Ordnung teilhaben.
+Mit der erwähnten exotisierenden Architektur wurden im 19. Jahrhundert oft sehr kleine Ställe verbunden. **Auch wenn es nie Wirklichkeit wurde, Zoodirektor Ludwig Heck (Amtszeit 1888 bis 1932) hatte theoretisch das Ziel, die Fauna der Welt komplett abzubilden. Der systematische Zoo, also [[taxonomisch geordnet|theme.taxonomic-orders]], mit seinen (oft einzelnen) Exemplaren einer Gattung aus unterschiedlichen geografischen Regionen nebeneinander bot aber weder den sozial lebenden Tieren noch dem Publikum aus heutiger Sicht Vorteile. Die Tiere konnten in ihren kleinen Ställen natürliches Verhalten nicht ausleben. Das 1872 Antilopenhaus mit seinen im Oval angelegten mehr als 20 Käfigen, der Hirschpark mit seinen um 1900 mehr als 60 Gehegen oder das 1895 eröffnete Vogelhaus waren Beispiele für diese Sammlungspraxis, deren Ansprüche an Vollständigkeit gegenüber Haltungsbedingungen überwogen. In letzterem waren die Käfige dreistöckig übereinander angeordnet.[^12] Trotz ihrer exotisierenden Kulisse glichen sie "Warenhäusern". Ihre Sammlungen aber "suggerierten die Überschaubarkeit der Welt, die keine Leerstellen, keine Unvollständigkeiten" aufwies.[^13] Im Vorbeigehen sollten die Besucher:innen die Gemeinsamkeiten und Unterschiede erkennen und so an der Ordnung teilhaben.
 
 <figure>
 
