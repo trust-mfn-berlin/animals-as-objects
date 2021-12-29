@@ -7,7 +7,7 @@ short_desc_de: Politische, logistische und moralische Herausforderungen
 date_end: ""
 published: false
 title: How Do Animals End Up in the Zoo?
-updated: 1640785085497
+updated: 1640785154176
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 translators:
   translator_de_en: ""
@@ -319,7 +319,7 @@ Das Zoo-Aquarium züchtete Nachkommen von Fischen, Amphibien, Reptilien und Inse
 
 Solche Verschiebungen von Tieren zwischen Zoos konnten zum einen dazu dienen, neue Tierarten in die Ausstellung zu übernehmen oder aber die Präsenz einer bestimmten Spezies dauerhaft zu gewähren. Die getauschten Tiere wurden als Ersatz für gestorbene Individuen gezeigt oder dienten der Nachzucht. Zunehmend aber wurde klar, dass es auch darum gehen musste, Inzucht innerhalb einer in Zoos gehaltenen Tierart zu vermeiden. Miteinander verwandte Tiere wurden im Tausch abgegeben und genetisch unbedenkliche Individuen in die Gruppen übernommen.
 
-Das Bewusstsein für diese Problematik musste aber erst noch entstehen. Im Berliner Zoo kam es zwischen 1950 und 1952 zweimal zu erfolgreichen Nachzuchten von Flussspferdkälbern mit dem einzig überlebenden Berliner Flusspferd, einem Bullen namens "Knautschke". Die Zoodirektorin Katharina Heinroth und ihr Leipziger Kollege Karl Max Schneider hatten einen Zuchttausch vereinbart. Die Leipziger Flusspferdkuh "Grete" kam zur Fortpflanzung nach Berlin. Der erste männliche Nachwuchs ging nach Leipzig, das zweite, weibliche Flusspferdkalb "Bulette" blieb in Berlin. Zusammen züchteten sie Nachkommen, unter anderem das Kalb "Jette".[^10] Die ausgeprägte Inzucht scheint in diesem Fall für die Zeitgenoss:innen nicht problematisch gewesen zu sein.
+Das Bewusstsein für diese Problematik musste aber erst noch entstehen. Im Berliner Zoo kam es zwischen 1950 und 1952 zweimal zu erfolgreichen Nachzuchten von Flusspferdkälbern mit dem einzig überlebenden Berliner Flusspferd, einem Bullen namens "Knautschke". Die Zoodirektorin Katharina Heinroth und ihr Leipziger Kollege Karl Max Schneider hatten einen Zuchttausch vereinbart. Die Leipziger Flusspferdkuh "Grete" kam zur Fortpflanzung nach Berlin. Der erste männliche Nachwuchs ging nach Leipzig, das zweite, weibliche Flusspferdkalb "Bulette" blieb in Berlin. Zusammen züchteten sie Nachkommen, unter anderem das Kalb "Jette".[^10] Die ausgeprägte Inzucht scheint in diesem Fall für die Zeitgenoss:innen nicht problematisch gewesen zu sein.
 
 <figure>
 
