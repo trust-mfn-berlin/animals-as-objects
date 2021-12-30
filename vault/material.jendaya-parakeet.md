@@ -2,7 +2,7 @@
 id: qPXq6synKcymXGGXLIDvV
 title: Jendaya Parakeet
 desc: Put a description of this note here...
-updated: 1640874730354
+updated: 1640875992289
 created: 1640468612148
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -278,70 +278,261 @@ _Storing and classifying the partial skeleton in the collection. (MfN, photo: Ma
 :::DE:::
 
 Content-Warnung: Der folgende Text und das Video enthalten Bilder von der Präparation eines toten Vogels, die für manche Betrachter verstörend sein könnten.
-Im Herbst 2020 und im Frühjahr 2021 haben wir, Filippo Bertoni und Mareike Vennen, die Präparation eines Vogelbalgs im Museum für Naturkunde Berlin miterlebt und dokumentiert. Es handelt sich um einen männlichen, ausgewachsenen Jendayasittich (_Aratinga jandaya_), der am 13. Juni 2006 im Berliner Tierpark schlüpfte und den der Tierpark nach seinem Tod am 29. August 2020 in das Naturkundemuseum überstellte.[1] 
-In unserem Projekt untersuchen wir, wie Zootiere in Naturkundemuseen zu Sammlungsobjekten werden und haben dafür die einzelnen Schritte dieser Transformation im Museum gefilmt. Zunächst haben wir die Präparatorin Christin Scheinpflug mehrmals in der Werkstatt besucht [2]; anschließend konnten wir dem Sammlungspfleger Pascal Eckhoff bei der Erfassung des Vogelbalgs in der Datenbank und der Aufnahme in die ornithologische Sammlung über die Schulter schauen. 
+
+Im Herbst 2020 und im Frühjahr 2021 haben wir, Filippo Bertoni und Mareike Vennen, die Präparation eines Vogelbalgs im Museum für Naturkunde Berlin miterlebt und dokumentiert. Es handelt sich um einen männlichen, ausgewachsenen Jendayasittich (_Aratinga jandaya_), der am 13. Juni 2006 im Berliner Tierpark schlüpfte und den der Tierpark nach seinem Tod am 29. August 2020 in das Naturkundemuseum überstellte.[^1] 
+
+In unserem Projekt untersuchen wir, wie Zootiere in Naturkundemuseen zu Sammlungsobjekten werden und haben dafür die einzelnen Schritte dieser Transformation im Museum gefilmt. Zunächst haben wir die Präparatorin Christin Scheinpflug mehrmals in der Werkstatt besucht [^2]; anschließend konnten wir dem Sammlungspfleger Pascal Eckhoff bei der Erfassung des Vogelbalgs in der Datenbank und der Aufnahme in die ornithologische Sammlung über die Schulter schauen. 
+
 Ob Tiere aus dem Tierpark oder Zoo in die Sammlung des Museums für Naturkunde eingehen, hängt zum einen davon ab, was es für Tiere sind, welcher Art sie angehören, ob es bereits Exemplare der Art in der Sammlung gibt und wie selten die Art ist. Auch die Frage, wie intakt der Tierkörper ist, kann entscheidend dafür sein, ob ein Tier präpariert wird und wie es im Museum aufbewahrt wird – als Skelett oder Balg (mit Teilskelett) für die wissenschaftliche Sammlung oder als aufgestelltes Objekt in der Ausstellung. 
-In diesem Fall entschied man sich für die Herstellung eines Vogelbalges und eines Teilskelettes.[3] Da es sich bei einem Balg um wissenschaftliches Arbeitsmaterial handelt, ist es wichtig originale Körperteile zu nutzen und zu erhalten. Zu diesem Zweck wurde ein Balg aus der Haut des Jendayasittichs mit Gefieder, Schnabel, Beinen und Füßen (inklusive Unterschenkel- und Fußknochen) sowie den Flügeln (inklusive Hand-, Unterarm- und Oberarmknochen) angefertigt. Als Teilskelett werden Knochenstrukturen bezeichnet, die nicht komplett sind, das heißt es fehlen Bestandteile eines vollständigen Skeletts. Beim Jendayasittich wurde ein Teilskelett aus der Halswirbelsäule und dem Rumpfskelett angefertigt.[4] Alle anderen Skelettteile – Unterschenkel, Schädel, Hand-, Arm- und Oberarmknochen – verbleiben im Vogelbalg.
-Dass hier zusätzlich ein Teilskelett angefertigt wurde, hing einerseits mit der Entscheidung für eine Balgpräparation zusammen. Balgpräparation und Teilskelettherstellung bilden zumindest in der Ornithologie eine Einheit. Da wichtige Skeletteile wie Schädel und Unterschenkel im Balg verbaut und somit Originalteile verwendet werden, muss sich der oder die Kustod\*in vor der Präparation entweder für ein vollständiges Skelett oder einen Balg mit Teilskelett entscheiden. In diesem Fall waren dem Vogel bei der vorhergehenden Sektion bereits die Rippen geöffnet worden, um Organe zu entnehmen. Zusätzlich war ein Teil des Brustmuskels entfernt worden. 
-Nach der Sektion wurde der Vogel umgehend tiefgefroren und mit dem Vermerk "MFN" (Museum für Naturkunde Berlin) versehen. Vom Zeitpunkt der Überweisung aus der Sektion bis zur Präparation lagerte der Vogel im Tiefkühlschrank der Präparationswerkstatt des Museums. Der erste Schritt der wissenschaftlichen Präparation fand im Sektionsraum des Naturkundemuseums statt, wo der Tierkörper zunächst in einer Salz-Supralan-Lösung aufgetaut wurde. Anschließend wurden wissenschaftliche Daten zu dem Tier erhoben, darunter Körpermaße, Eingangsnummer, Eingangsdatum und Chipnummer.[5] Diese Informationen übertrug die Präparatorin auf ein Datenblatt. 
-![Foto eines Metalltischs mit Abfluss in der rechten unteren Ecke, an den ein Schlauch angeschlossen ist. Der Boden ist gefliest. Auf dem Tisch liegen zwei weiße Tabletts, darauf legt eine Person, von der nur die Hände und der Oberkörper zu sehen sind, einen Stift und ein Instrument. Neben den Tabletts liegen ein beschriftetes Blatt, ein Stift und eine Schere.]( images/mv/jendaya-a.jpg) 
+
+In diesem Fall entschied man sich für die Herstellung eines Vogelbalges und eines Teilskelettes.[^3] Da es sich bei einem Balg um wissenschaftliches Arbeitsmaterial handelt, ist es wichtig originale Körperteile zu nutzen und zu erhalten. Zu diesem Zweck wurde ein Balg aus der Haut des Jendayasittichs mit Gefieder, Schnabel, Beinen und Füßen (inklusive Unterschenkel- und Fußknochen) sowie den Flügeln (inklusive Hand-, Unterarm- und Oberarmknochen) angefertigt. Als Teilskelett werden Knochenstrukturen bezeichnet, die nicht komplett sind, das heißt es fehlen Bestandteile eines vollständigen Skeletts. Beim Jendayasittich wurde ein Teilskelett aus der Halswirbelsäule und dem Rumpfskelett angefertigt.[^4] Alle anderen Skelettteile – Unterschenkel, Schädel, Hand-, Arm- und Oberarmknochen – verbleiben im Vogelbalg.
+
+Dass hier zusätzlich ein Teilskelett angefertigt wurde, hing einerseits mit der Entscheidung für eine Balgpräparation zusammen. Balgpräparation und Teilskelettherstellung bilden zumindest in der Ornithologie eine Einheit. Da wichtige Skeletteile wie Schädel und Unterschenkel im Balg verbaut und somit Originalteile verwendet werden, muss sich der oder die Kustod:in vor der Präparation entweder für ein vollständiges Skelett oder einen Balg mit Teilskelett entscheiden. In diesem Fall waren dem Vogel bei der vorhergehenden Sektion bereits die Rippen geöffnet worden, um Organe zu entnehmen. Zusätzlich war ein Teil des Brustmuskels entfernt worden. 
+
+Nach der Sektion wurde der Vogel umgehend tiefgefroren und mit dem Vermerk "MFN" (Museum für Naturkunde Berlin) versehen. Vom Zeitpunkt der Überweisung aus der Sektion bis zur Präparation lagerte der Vogel im Tiefkühlschrank der Präparationswerkstatt des Museums. Der erste Schritt der wissenschaftlichen Präparation fand im Sektionsraum des Naturkundemuseums statt, wo der Tierkörper zunächst in einer Salz-Supralan-Lösung aufgetaut wurde. Anschließend wurden wissenschaftliche Daten zu dem Tier erhoben, darunter Körpermaße, Eingangsnummer, Eingangsdatum und Chipnummer.[^5] Diese Informationen übertrug die Präparatorin auf ein Datenblatt. 
+
+<figure>
+
+![Foto eines Metalltischs mit Abfluss in der rechten unteren Ecke, an den ein Schlauch angeschlossen ist. Der Boden ist gefliest. Auf dem Tisch liegen zwei weiße Tabletts, darauf legt eine Person, von der nur die Hände und der Oberkörper zu sehen sind, einen Stift und ein Instrument. Neben den Tabletts liegen ein beschriftetes Blatt, ein Stift und eine Schere.](/ images/mv/jendaya-a.jpg) 
+
+<figcaption>
+
 _Datenblatt und Instrumente zur Vermessung, Hautgewinnung und Teilskelettbearbeitung. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
-![Nahaufnahme eines weißen Tabletts vor metallenem Hintergrund. Auf dem Tablett liegt ein toter Vogelkörper, der an der Brust geöffnet ist, so dass man Knochen, Haut und Fleisch sieht. Vor dem Vogel liegt ein silbernes Lineal, hinter dem Tablett liegt ein Maßband.] (images/mv/jendaya-b.jpg)
+
+</figcaption>
+
+</figure>
+
+<figure>
+
+![Nahaufnahme eines weißen Tabletts vor metallenem Hintergrund. Auf dem Tablett liegt ein toter Vogelkörper, der an der Brust geöffnet ist, so dass man Knochen, Haut und Fleisch sieht. Vor dem Vogel liegt ein silbernes Lineal, hinter dem Tablett liegt ein Maßband.] (/images/mv/jendaya-b.jpg)
+
+<figcaption>
+
 _Vermessung des Vogelkörpers. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
+
+</figcaption>
+
+</figure>
+
 Für jedes Tier wird ein solches Datenblatt angelegt, auf dem Materialien, Techniken, die bekannten Informationen über den Vogel und das Datum der Präparation eingetragen werden. 
-![Weißes Blatt mit vorgedruckten Textzeilen und freigelassenen Zeilen zum eigenständigen Ausfüllen. Handschriftlich eingetragen ist "Art: Jendaya Sittich", "Geschlecht/Alter: männlich", "Gesamtlänge (in mm): 267 mm".](images/mv/jendaya-c.jpg)
+
+<figure>
+
+![Weißes Blatt mit vorgedruckten Textzeilen und freigelassenen Zeilen zum eigenständigen Ausfüllen. Handschriftlich eingetragen ist "Art: Jendaya Sittich", "Geschlecht/Alter: männlich", "Gesamtlänge (in mm): 267 mm".](/images/mv/jendaya-c.jpg)
+
+<ficaption>
+
 _Datenblatt, dessen Informationen später in den Sammlungskatalog übertragen werden. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
-In diesem Fall war der Vogel zudem bereits zu Lebzeiten im Tierpark zur Identifikation gechippt worden. Das bedeutet, in Höhe der Luftröhre wurde ein Transponder eingesetzt[6], auf dem sich eine Chipnummer befindet (968000002487298). Mit dieser Nummer wird man zur ZIMS-Datenbank (Zoological Information Management Software) weitergeleitet, mit der viele internationale Zoos ihre Zucht und Haltungspraktiken koordinieren (see [[material.species360]]). Hier erhält man weitere Informationen zum Tier, sofern der haltende Zoo sie eingetragen hat. Der Transponder wurde während der Präparation entfernt, mit dem Datenblatt aufbewahrt und am Ende – da er Informationen enthält und daher zum (Zoo-)Tier gehörig gilt – wieder in den Balg eingesetzt. Er wird damit Teil des Balgs und Teil der wissenschaftlichen Sammlung. 
-![Eine Hand hält ein gefaltetes weißes Blatt in die Kamera, auf dem oben links ein kleines Blatt angetackert ist, auf dem handschriftlich mit blauem Stift notiert ist: "350/20 Jendaya Sittich männlich". Darunter ist ein durchsichtiger Plastikbeutel angetackert, in dem sich ein etwa ein Zentimeter großes Stäbchen befindet. In der Plastiktüte befindet sich außerdem ein blauer Zettel, auf den mit schwarzem Stift geschrieben steht: "Transponder Jendaya Sittich 3501/20".](images/mv/jendaya-d.jpg)
+
+</figcaption>
+
+</figure>
+
+In diesem Fall war der Vogel zudem bereits zu Lebzeiten im Tierpark zur Identifikation gechippt worden. Das bedeutet, in Höhe der Luftröhre wurde ein Transponder eingesetzt[6], auf dem sich eine Chipnummer befindet (968000002487298). Mit dieser Nummer wird man zur ZIMS-Datenbank (Zoological Information Management Software) weitergeleitet, mit der viele internationale Zoos ihre Zucht und Haltungspraktiken koordinieren (see [[material.species360]]). Hier erhält man weitere Informationen zum Tier, sofern der haltende Zoo sie eingetragen hat. Der Transponder wurde während der Präparation entfernt, mit dem Datenblatt aufbewahrt und am Ende – da er Informationen enthält und daher zum (Zoo-)Tier gehörig gilt – wieder in den Balg eingesetzt. Er wird damit Teil des Balgs und Teil der wissenschaftlichen Sammlung.
+
+<figure>
+
+![Eine Hand hält ein gefaltetes weißes Blatt in die Kamera, auf dem oben links ein kleines Blatt angetackert ist, auf dem handschriftlich mit blauem Stift notiert ist: "350/20 Jendaya Sittich männlich". Darunter ist ein durchsichtiger Plastikbeutel angetackert, in dem sich ein etwa ein Zentimeter großes Stäbchen befindet. In der Plastiktüte befindet sich außerdem ein blauer Zettel, auf den mit schwarzem Stift geschrieben steht: "Transponder Jendaya Sittich 3501/20".](/images/mv/jendaya-d.jpg)
+
+<figcaption>
+
 _So wird der Transponder aufbewahrt, bis er dem Balg am Ende eingesetzt wird. (Foto: Filippo Bertoni. Alle Rechte vorbehalten.)_ 
+
+</figcaption>
+
+</figure>
+
 Um den Balg herzustellen, musste als erstes die Haut mit Hilfe von Skalpell und Schere abgezogen und dadurch vom sogenannten Fleischkörper getrennt werden. Anschließend wurde die Haut gereinigt, indem sie mechanisch von Bindegewebs- und Fettresten befreit wurde. Zusätzlich wurden die verbliebenen Knochenstrukturen (Unterschenkel, Schädel, Unter- und Oberarm) von Muskelfleisch und Sehen befreit – dieser Prozess wird auch als "Entfleischen" bezeichnet. Fett und Bindegewebe von der Haut zu entfernen und die Knochen zu entfleischen ist ein wichtiger Bestandteil der präparatorischen Arbeit, da durch den Geruch von Fett- und Fleischresten Insekten angelockt werden können, die den Balg in der Sammlung eventuell durch Fraß am Objekt schädigen.
+
+<figure>
+
 ![Foto einer Frau mit grünen Handschuhen, die sich über einen Metalltisch beugt und ein Objekt (einen toten Vogelkörper) betrachtet, das sie in den Händen hält. Auf dem Tisch liegt ein weißes Tablett, auf dem ein Lineal liegt. Auf einem weißen Tablett daneben liegen eine Schere und andere Präparationswerkzeuge. Im Hintergrund sieht man eine geflieste Wand und eine Metallanrichte, auf der verschiedene Arbeitsutensilien liegen.](/images/mv/jendaya-e.jpg)
+
+<figcaption>
+
 _Die Museumspräparatorin Christin Scheinpflug untersucht den Vogelkörper. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
-Während die Fleischreste entsorgt und später außerhalb des Museums fachgerecht verbrannt wurden, wurde die Vogelhaut mit Wasser, Supralan und Shampoo mehrmals gewaschen und anschließend bis zum Gerbungstermin in einer Plastiktüte erneut im Gefrierschrank aufbewahrt.[7] 
-![Nahaufnahme einer blauen, halb mit einer durchsichtigen Flüssigkeit gefüllten Schüssel, in welcher der tote Körper eines Vogels schwimmt. Auf der Wasseroberfläche schwimmt teilweise weißer Schaum. Ein dünner Gummischlauch ragt rechts oben in die Schüssel hinein, ohne das Wasser zu berühren.](images/mv/jendaya-f.jpg)
+
+</figcaption>
+
+</figure>
+
+Während die Fleischreste entsorgt und später außerhalb des Museums fachgerecht verbrannt wurden, wurde die Vogelhaut mit Wasser, Supralan und Shampoo mehrmals gewaschen und anschließend bis zum Gerbungstermin in einer Plastiktüte erneut im Gefrierschrank aufbewahrt.[^7] 
+
+<figure>
+
+![Nahaufnahme einer blauen, halb mit einer durchsichtigen Flüssigkeit gefüllten Schüssel, in welcher der tote Körper eines Vogels schwimmt. Auf der Wasseroberfläche schwimmt teilweise weißer Schaum. Ein dünner Gummischlauch ragt rechts oben in die Schüssel hinein, ohne das Wasser zu berühren.](/images/mv/jendaya-f.jpg)
+
+<figcaption>
+
 _Wasserbad mit Supralan und Salz zur Reinigung der Haut und eventuell verschmutzter Federpartien. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
-Bei der Gerbung, die der langfristigen Konservierung von Tierhäuten mittels Gerbstoffe dient, wurde der Körper zunächst in einer Salz-Lösung mit Supralan geweicht. Der Gerbvorgang findet in mehreren Schritten statt und dient der Fixierung des Gerbstoffes in der Haut. Dieser Vorgang nimmt etwa einen Arbeitstag in Anspruch. Über Nacht wird die handtuchfeuchte Haut auf einem Gitter im Kühlschrank aufbewahrt, um am nächsten Tag die Gerbung mit dem Prozess der Neutralisation abzuschließen. Von der Gerbung wird stets ein eigenes Protokoll angefertigt. 
-![Nahaufnahme einer weißen Emailleschüssel, halb gefüllt mit durchsichtiger, schaumbildender Flüssigkeit, in der mehrere tote Vogelkörper mit Federn schwimmen. Einen Vogel mit ausgebreiteten Flügeln und einem blauen Etikett am Fuß sieht man komplett, von den anderen Tieren nur Ausschnitte.](images/mv/jendaya-g.jpg)
+
+</figcaption>
+
+</figure>
+
+Bei der Gerbung, die der langfristigen Konservierung von Tierhäuten mittels Gerbstoffe dient, wurde der Körper zunächst in einer Salz-Lösung mit Supralan geweicht. Der Gerbvorgang findet in mehreren Schritten statt und dient der Fixierung des Gerbstoffes in der Haut. Dieser Vorgang nimmt etwa einen Arbeitstag in Anspruch. Über Nacht wird die handtuchfeuchte Haut auf einem Gitter im Kühlschrank aufbewahrt, um am nächsten Tag die Gerbung mit dem Prozess der Neutralisation abzuschließen. Von der Gerbung wird stets ein eigenes Protokoll angefertigt.
+
+<figure>
+
+![Nahaufnahme einer weißen Emailleschüssel, halb gefüllt mit durchsichtiger, schaumbildender Flüssigkeit, in der mehrere tote Vogelkörper mit Federn schwimmen. Einen Vogel mit ausgebreiteten Flügeln und einem blauen Etikett am Fuß sieht man komplett, von den anderen Tieren nur Ausschnitte.](/images/mv/jendaya-g.jpg)
+
+<figcaption>
+
 _Beim Gerbprozess werden in einer Lauge die Poren aufgeweicht und anschließend Gerbstoff in der Haut fixiert. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
+
+</figcaption>
+
+</figure>
+
 Parallel dazu fertigte Christin Scheinpflug den künstlichen Körper an, der anschließend im Vogelbalg verbaut wird. Hier wurde als natürliches Material Holzwolle gewählt. Mittels Baumwollfaden wurde die Holzwolle komprimiert und fest umwickelt, damit ein stabiler Kunstkörper entsteht, über den später die gegerbte Haut gezogen wird. 
-![Nahaufnahme eines Metalltischs mit hoher Kante, auf dem ein weißes Tablett steht, auf welchem ein etwa handgroßes Stück Fleisch liegt, dahinter ein Stück Holzwolle, ein aufgerollter Baumwollfaden sowie vorne eine durchnässten blaues, beschriftetes jedoch nicht lesbares Etikett. Links neben dem Tablett liegen Skalpell, Schere, Pinzette und ein Messgerät.](images/mv/jendaya-h.jpg)
+
+<figure>
+
+![Nahaufnahme eines Metalltischs mit hoher Kante, auf dem ein weißes Tablett steht, auf welchem ein etwa handgroßes Stück Fleisch liegt, dahinter ein Stück Holzwolle, ein aufgerollter Baumwollfaden sowie vorne eine durchnässten blaues, beschriftetes jedoch nicht lesbares Etikett. Links neben dem Tablett liegen Skalpell, Schere, Pinzette und ein Messgerät.](/images/mv/jendaya-h.jpg)
+
+<figcaption>
+
 _Der künstliche Körper für den Balg wird im Abgleich mit den Maßen des Fleischkörpers aus Holzwolle und Draht hergestellt. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
+
+</figcaption>
+
+</figure>
+
 Auf dem Holzwollkorpus markierte die Präparatorin die Stellen, wo später die Flügel und Unterschenkel angesetzt werden. Mit einem stärkeren Baumwollfaden wurde der Körper aus Holzwolle am Ende vernäht und der Hals, der statt aus Holzwolle aus umwickelter Watte (für mehr Flexibilität) besteht, fixiert. 
-Für die letzten Schritte der Präparation, das Zusammenbauen der Vogels, Vernähen und Federnlegen, wechselten wir vom Sektionsraum an Christin Scheinpflugs Arbeitsplatz in der Werkstatt für Großpräparation. Der Prozess des Zusammenbauens beginnt immer mit der Verdrahtung von Flügelknochen und Unterschenkel. Ein Draht wird mittels Baumwollfaden fest an den Knochen gewickelt, damit eine spätere Verankerung der Knochen im Holzwollkörper stattfinden kann. Danach zog die Präparatorin die gegerbte Haut über den künstlichen Körper und verband Hals und Schädel des Vogels mittels eines Drahtes miteinander. An einigen Stellen wurde zusätzlich Dextrinton aufgetragen, um die Schädel-Halsverbindung zu stabilisieren. Anschließend wurden die Flügelknochen samt Draht in den künstlichen Körper gesteckt und verankert; selbiges geschah mit den Unterschenkeln. Nun erfolgte das Vernähen der Haut an dem Holzwollkörper.[8] Beim Vernähen wurde auch der entnommene Transponder im Brustbereich des Holzwollkörpers eingesetzt. 
-![Nahaufnahme eines toten Vogelkörpers, der mit einem Metallgriff in einer Schraubzange befestigt ist. Das Gefieder ist nass und zerzaust, so dass man am Kopf freie Hautstellen sieht. Zwei Hände ragen ins Bild, die sich mit Nadel und Faden dem Kopf des Tieres nähern. Im Hintergrund ist ein Metalltisch zu sehen, auf dem Zeitungspaper und diverse Gegenstände liegen.](images/mv/jendaya-i.jpg)
+
+Für die letzten Schritte der Präparation, das Zusammenbauen der Vogels, Vernähen und Federnlegen, wechselten wir vom Sektionsraum an Christin Scheinpflugs Arbeitsplatz in der Werkstatt für Großpräparation. Der Prozess des Zusammenbauens beginnt immer mit der Verdrahtung von Flügelknochen und Unterschenkel. Ein Draht wird mittels Baumwollfaden fest an den Knochen gewickelt, damit eine spätere Verankerung der Knochen im Holzwollkörper stattfinden kann. Danach zog die Präparatorin die gegerbte Haut über den künstlichen Körper und verband Hals und Schädel des Vogels mittels eines Drahtes miteinander. An einigen Stellen wurde zusätzlich Dextrinton aufgetragen, um die Schädel-Halsverbindung zu stabilisieren. Anschließend wurden die Flügelknochen samt Draht in den künstlichen Körper gesteckt und verankert; selbiges geschah mit den Unterschenkeln. Nun erfolgte das Vernähen der Haut an dem Holzwollkörper.[^8] Beim Vernähen wurde auch der entnommene Transponder im Brustbereich des Holzwollkörpers eingesetzt.
+
+<figure>
+
+![Nahaufnahme eines toten Vogelkörpers, der mit einem Metallgriff in einer Schraubzange befestigt ist. Das Gefieder ist nass und zerzaust, so dass man am Kopf freie Hautstellen sieht. Zwei Hände ragen ins Bild, die sich mit Nadel und Faden dem Kopf des Tieres nähern. Im Hintergrund ist ein Metalltisch zu sehen, auf dem Zeitungspaper und diverse Gegenstände liegen.](/images/mv/jendaya-i.jpg)
+
+<figcaption>
+
 _Nach der Gerbung und dem Einsetzen des Holzwollkörpers wird die Haut zusammengenäht. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
+
+</figcaption>
+
+</figure>
+
 Eine Metallstange, die unten in den Holzwollkörper gesteckt wurde, diente als Griff, um den Balg während des Arbeitsprozesses leichter halten und bearbeiten zu können. Er erleichterte insbesondere das Nähen und schonte das Gefieder.
-![Nahaufnahme eines toten Vogelkörpers, der mit ausgebreiteten Flügeln auf dem Rücken auf buntem Zeitungspapier liegt. Unten ist ein Metallgriff in den Körper eingeführt. Der Brustbereich des Körpers ist bis zum Schwanz geöffnet und mit einem weißen Material (Holzwolle) gefüllt. Hinter dem Vogel liegen Werkzeuge.](images/mv/jendaya-j.jpg)
+
+<figure>
+
+![Nahaufnahme eines toten Vogelkörpers, der mit ausgebreiteten Flügeln auf dem Rücken auf buntem Zeitungspapier liegt. Unten ist ein Metallgriff in den Körper eingeführt. Der Brustbereich des Körpers ist bis zum Schwanz geöffnet und mit einem weißen Material (Holzwolle) gefüllt. Hinter dem Vogel liegen Werkzeuge.](/images/mv/jendaya-j.jpg)
+
+<figcaption>
+
 _Nasser Vogelbalg mit eingesetztem Holzwollkörper und Metallstab als Griff. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
+
+</figcaption>
+
+</figure>
+
 Nach dem Trockenföhnen des Gefieders mussten die Federn in mehrstündiger Arbeit gelegt werden. Das bedeutet, das Gefieder zu ordnen, damit die Federpartien wie beim lebenden Vogel liegen.
-![Nahaufnahme einer sitzenden Person, die auf ihren Knien einen bunt gefiederten Vogelkörper an einem Metallgriff festhält und schwarzen Föhn nah an einen der ausgebreiteten Flügel des Tieres hält.](images/mv/jendaya-k.jpg)
-![Nahaufnahme eines bunt gefiederten Vogelkörpers, der mit einem Metallgriff auf einer Schraubzange befestigt ist. Zwei Hände ragen in das Bild hinein, die in einer Bewegung festgehalten sind und mit einer Pinzette die zerzausten Federn gerade legen.](images/mv/jendaya-l.jpg)
+
+<figure>
+
+<div class="series">
+
+![Nahaufnahme einer sitzenden Person, die auf ihren Knien einen bunt gefiederten Vogelkörper an einem Metallgriff festhält und schwarzen Föhn nah an einen der ausgebreiteten Flügel des Tieres hält.](/images/mv/jendaya-k.jpg)
+
+![Nahaufnahme eines bunt gefiederten Vogelkörpers, der mit einem Metallgriff auf einer Schraubzange befestigt ist. Zwei Hände ragen in das Bild hinein, die in einer Bewegung festgehalten sind und mit einer Pinzette die zerzausten Federn gerade legen.](/images/mv/jendaya-l.jpg)
+
+</div>
+
+<figcaption>
+
 _Trockenföhnen und Federn legen. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
-Für die Herstellung des Teilskeletts musste nun auch der originale Vogelkörper vollständig "entfleischt" werden, der im Gegensatz zum Schädelknochen nicht wieder in den Balg eingeführt wird. Der vom Fleisch befreite Vogelkörper wurde anschließend zum sogenannten Entbluten in eine Salzlösung gelegt. Aufgrund der geringen Größe des Vogelkörpers entschied sich die Präparatorin für eine Knochenpräparation mit Hilfe von Speckkäfern. Hierbei werden die Skelettteile für mehrere Tage in einen Behälter mit Speckkäfern in einen erwärmten Schrank gelegt.[9] Diese aasfressenden Insekten lassen kein Fleisch an den Knochen übrig. 
-![Blick in einen offenen Metallschrank, auf dem übereinander auf zwei Gittern zwei Glaskästen mit geschlossenen Holzdeckeln stehen. In den Kästen sieht man verschiedene Schalen und Tabletts stehen, auf denen Fleischstücke liegen. Der gesamte Boden beider Kästen und die darin enthaltenen Objekte sind mit kleinen Käfern übersäht.](images/mv/jendaya-m.jpg)
-_Herstellung des Teilskelettes mithilfe von Speckkäfern in einem Wärmeschrank. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
+
+</figcaption>
+
+</figure>
+
+Für die Herstellung des Teilskeletts musste nun auch der originale Vogelkörper vollständig "entfleischt" werden, der im Gegensatz zum Schädelknochen nicht wieder in den Balg eingeführt wird. Der vom Fleisch befreite Vogelkörper wurde anschließend zum sogenannten Entbluten in eine Salzlösung gelegt. Aufgrund der geringen Größe des Vogelkörpers entschied sich die Präparatorin für eine Knochenpräparation mit Hilfe von Speckkäfern. Hierbei werden die Skelettteile für mehrere Tage in einen Behälter mit Speckkäfern in einen erwärmten Schrank gelegt.[^9] Diese aasfressenden Insekten lassen kein Fleisch an den Knochen übrig. 
+
+<figure>
+
+![Blick in einen offenen Metallschrank, auf dem übereinander auf zwei Gittern zwei Glaskästen mit geschlossenen Holzdeckeln stehen. In den Kästen sieht man verschiedene Schalen und Tabletts stehen, auf denen Fleischstücke liegen. Der gesamte Boden beider Kästen und die darin enthaltenen Objekte sind mit kleinen Käfern übersäht.](/images/mv/jendaya-m.jpg)
+
+<figcaption>
+
+_Herstellung des Teilskelettes mithilfe von Speckkäfern in einem Wärmeschrank. (Image: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
+
+</figcaption>
+
+</figure>
+
 Daraufhin wurde das Skelett noch einmal eingefroren (um möglicherweise auf und in den Knochen noch verbliebene Käfer zu töten), entfettet und gebleicht, und war dann fertig für die Sammlung. Wir begleiteten Christin Scheinpflug daher mit dem Vogelbalg, dem Teilskelett und dem Datenblatt von den Präparationswerkstätten in die Vogelsammlung. 
-![Auf einem Metalltisch liegen diverse Objekte, darunter ein Handfeger, ein Messbecher und verschiedene Kästen. In der Mitte des Fotos liegt eine offene Pappkiste, die teils mit Watte ausgelegt ist, worin drei unterschiedlich gefärbte tote Vogelkörper auf dem Rücken liegen, mit gefalteten Flügeln, leicht überstrecktem Nacken und zusammengebundenen Beinen.](images/mv/jendaya-n.jpg)
+
+<figure>
+
+![Auf einem Metalltisch liegen diverse Objekte, darunter ein Handfeger, ein Messbecher und verschiedene Kästen. In der Mitte des Fotos liegt eine offene Pappkiste, die teils mit Watte ausgelegt ist, worin drei unterschiedlich gefärbte tote Vogelkörper auf dem Rücken liegen, mit gefalteten Flügeln, leicht überstrecktem Nacken und zusammengebundenen Beinen.](/images/mv/jendaya-n.jpg)
+
+<figcaption>
+
 _Vogelbälge auf dem Weg in die Sammlung. (Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
-Dort übertrug der Sammlungspfleger Pascal Eckhoff die Informationen des Datenblatts in die digitale Sammlungsdatenbank.[10] Aus dieser kann man auch ersehen, dass das Tier nicht das erste Exemplar von _Aratinga jandaya_ in der Vogelsammlung des Museums ist. In den Jahren 1895 und 1923 erhielt die Sammlung bereits zwei Exemplare für die Balgsammlung. Außerdem befinden sich weitere Jendayasittiche in Alkohol und als Skelett in der Vogelsammlung. 
-![Foto eines Schreibtisches in einem Büro, auf dem unter anderem ein Telefon und, zentral im Bild, ein Computerbildschirm steht, der an ist und auf dem verschiedene Fenster oder Programme geöffnet sind. Auf dem Tisch vor der Tastatur liegt ein bunt gefiederter Vogelbalg mit gefalteten Federn und zusammengebundenen Beinen. Rechts daneben liegt ein Stift und ein durchsichtiges Schälchen mit Knochenteilen und einem nicht lesbaren Etikett. Links neben dem Tier liegt ein beschriebenes Blatt und daneben eine Pinzette.](images/mv/jendaya-o.jpg)
+
+</figcaption>
+
+</figure>
+
+Dort übertrug der Sammlungspfleger Pascal Eckhoff die Informationen des Datenblatts in die digitale Sammlungsdatenbank.[^10] Aus dieser kann man auch ersehen, dass das Tier nicht das erste Exemplar von _Aratinga jandaya_ in der Vogelsammlung des Museums ist. In den Jahren 1895 und 1923 erhielt die Sammlung bereits zwei Exemplare für die Balgsammlung. Außerdem befinden sich weitere Jendayasittiche in Alkohol und als Skelett in der Vogelsammlung. 
+
+<figure>
+
+![Foto eines Schreibtisches in einem Büro, auf dem unter anderem ein Telefon und, zentral im Bild, ein Computerbildschirm steht, der an ist und auf dem verschiedene Fenster oder Programme geöffnet sind. Auf dem Tisch vor der Tastatur liegt ein bunt gefiederter Vogelbalg mit gefalteten Federn und zusammengebundenen Beinen. Rechts daneben liegt ein Stift und ein durchsichtiges Schälchen mit Knochenteilen und einem nicht lesbaren Etikett. Links neben dem Tier liegt ein beschriebenes Blatt und daneben eine Pinzette.](/images/mv/jendaya-o.jpg)
+
+<figcaption>
+
 _In der Vogelsammlung wird der Balg in die Datenbank eingetragen. (Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
-![Nahaufnahme von zwei Händen mit türkisfarbenen Handschuhen, die einen bunt gefiederten Vogelbalg in die Kamera halten. An den zusammengebundenen Füßen ist ein weißes beschriftetes Etikett befestigt.](images/mv/jendaya-p.jpg)
+
+</figcaption>
+
+</figure>
+
+<figure>
+
+![Nahaufnahme von zwei Händen mit türkisfarbenen Handschuhen, die einen bunt gefiederten Vogelbalg in die Kamera halten. An den zusammengebundenen Füßen ist ein weißes beschriftetes Etikett befestigt.](/images/mv/jendaya-p.jpg)
+
+<figcaption>
+
 _Etikett zur Identifizierung des Balgs. (Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
+
+</figcaption>
+
+</figure>
+
 Am Ende ist dieser Vogel unter der Inventarnummer ZMB 2021.171 in der Sammlungsdatenbank erfasst worden, während Balg und Teilskelett sind in einer Schublade in der wissenschaftlichen Sammlung eingeordnet worden sind und damit offiziell zu den Objekten des Berliner Naturkundemuseums gehören.
-![Nahaufnahme einer offenen Holzschublade, in der mehrere durchsichtige Plastikboxen aufgereiht liegen, die jeweils Knochenteile und beschriftete Etiketten enthalten. Im Hintergrund sieht man eine Hand mit türkisfarbenem Handschuh, die die Schublade hält. Daneben ist der Ausschnitt einer Leiter zu sehen sowie links und rechts hohe Holzschränke sowie ein Fenster mit Blick auf eine gegenüberliegende Hausfassade.](images/mv/jendaya-q.jpg)
+
+<figure>
+
+![Nahaufnahme einer offenen Holzschublade, in der mehrere durchsichtige Plastikboxen aufgereiht liegen, die jeweils Knochenteile und beschriftete Etiketten enthalten. Im Hintergrund sieht man eine Hand mit türkisfarbenem Handschuh, die die Schublade hält. Daneben ist der Ausschnitt einer Leiter zu sehen sowie links und rechts hohe Holzschränke sowie ein Fenster mit Blick auf eine gegenüberliegende Hausfassade.](/images/mv/jendaya-q.jpg)
+
+<figcaption>
+
 _Einordnen des Teilskelett in die Sammlung. (Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
 
+</figcaption>
 
-## Fußnoten
+</figure>
 
-[1] Daten wie Todestag, Alter und Schlupftag sind in der ZIMS-Datenbank im Tierpark erfasst. Dort ist auch vermerkt, dass die Elterntiere unbekannt sind. Die Gruppe an Jendayasittichen im Tierpark besteht derzeit (Stand Oktober 2021) durchschnittlich aus elf Individuen, von denen es eine regelmäßige Nachzucht gibt. In dieser Gruppe war der hier besprochene Vogel der älteste. Jendayasittiche werden im Tierpark durchschnittlich bis zu 20 Jahre alt. 
-[2] Häufig finden die verschiedenen Schritte der Präparation nicht am Stück, sondern mit Unterbrechungen statt, so dass sich der Prozess über mehrere Wochen oder Monate erstrecken kann. Wir danken Christin Scheinpflug, dass sie uns an dem Prozess hat teilhaben lassen und uns auch darüber hinaus unsere zahlreichen Fragen beantwortet und Hinweise gegeben hat. 
-[3] Bei einem Balg handelt es sich im Gegensatz zu einem aufgestellten Präparat um die Haut eines Vogels mit anhängendem Gefieder, Schnabel, Beinen und Füßen, die über einen künstlich nachgebildeten Körper gestülpt und in einer Schublade aufbewahrt werden kann. In wissenschaftlichen Sammlungen werden heute vor allem Bälge verwendet. Zur Vogelsammlung des Berliner Museums für Naturkunde vgl. Frahnert, Silke, M. Päckert, D. T. Tietze und T. Töpfer. "Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie." _Vogelwarte_ 51, Nr. 3 (2013): 185–191. 
-[4] Das Rumpfskelett besteht aus Brustwirbeln, Rippen, Sternum, Gabelbein, Rabenbein, Schulterblatt, Oberschenkel, Lendenwirbel, Becken und Schwanzwirbeln.
-[5] Eine Chipnummer liegt vor, wenn dem Tier zu Lebzeiten ein Transponder eingesetzt wurde.
-[6] Üblicherweise wird ein solcher Transponder eher im Schulterbereich eingesetzt.
-[7] Da die Gerbung ein recht aufwendiger Prozess ist, werden meist mehrere Vögel derselben Größe gleichzeitig gegerbt, weshalb dieser Schritt eine längere (Warte-)Zeit in Anspruch nehmen kann. 
-[8] Der/die Kurator\*in kann entscheiden, ob beim Balg die Flügel auf- oder zugeklappt sein solle. Zu bedenken ist, dass der Balg nach dem Trocknen 'hart' ist, sodass er wieder aufgeweicht werden muss, um die Position zu verändern. 
-[9] Eine weitere Möglichkeit stellt die Mazeration mit Enzymen dar, bei der das Skelett zunächst mehrere Wochen lang in einer Weiche eingelegt wird, um den Fleischkörper zu entbluten und für die Enzyme vorzubereiten. Für die eigentliche Mazeration wird eine Lösung mit Enzym angesetzt, in die der Tierkörper eingelegt wird. Dieser Prozess findet je nach Enzym teilweise ebenfalls im Wärmeschrank statt. Hier zerfällt das Teilskelett in seine einzelnen Bestandteile, während bei der Speckkäfervariante Knochenstrukturen zusammenhängend bleiben.
-[10] Wir danken Pascal Eckhoff und Sylke Frahnert für die Einblicke in die Sammlungsarbeit.
+[^1]: Daten wie Todestag, Alter und Schlupftag sind in der ZIMS-Datenbank im Tierpark erfasst. Dort ist auch vermerkt, dass die Elterntiere unbekannt sind. Die Gruppe an Jendayasittichen im Tierpark besteht derzeit (Stand Oktober 2021) durchschnittlich aus elf Individuen, von denen es eine regelmäßige Nachzucht gibt. In dieser Gruppe war der hier besprochene Vogel der älteste. Jendayasittiche werden im Tierpark durchschnittlich bis zu 20 Jahre alt. 
+
+[^2]: Häufig finden die verschiedenen Schritte der Präparation nicht am Stück, sondern mit Unterbrechungen statt, so dass sich der Prozess über mehrere Wochen oder Monate erstrecken kann. Wir danken Christin Scheinpflug, dass sie uns an dem Prozess hat teilhaben lassen und uns auch darüber hinaus unsere zahlreichen Fragen beantwortet und Hinweise gegeben hat. 
+
+[^3]: Bei einem Balg handelt es sich im Gegensatz zu einem aufgestellten Präparat um die Haut eines Vogels mit anhängendem Gefieder, Schnabel, Beinen und Füßen, die über einen künstlich nachgebildeten Körper gestülpt und in einer Schublade aufbewahrt werden kann. In wissenschaftlichen Sammlungen werden heute vor allem Bälge verwendet. Zur Vogelsammlung des Berliner Museums für Naturkunde vgl. Frahnert, Silke, M. Päckert, D. T. Tietze und T. Töpfer. "Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie." _Vogelwarte_ 51, Nr. 3 (2013): 185–191. 
+
+[^4]: Das Rumpfskelett besteht aus Brustwirbeln, Rippen, Sternum, Gabelbein, Rabenbein, Schulterblatt, Oberschenkel, Lendenwirbel, Becken und Schwanzwirbeln.
+
+[^5]: Eine Chipnummer liegt vor, wenn dem Tier zu Lebzeiten ein Transponder eingesetzt wurde.
+
+[^6]: Üblicherweise wird ein solcher Transponder eher im Schulterbereich eingesetzt.
+
+[^7]: Da die Gerbung ein recht aufwendiger Prozess ist, werden meist mehrere Vögel derselben Größe gleichzeitig gegerbt, weshalb dieser Schritt eine längere (Warte-)Zeit in Anspruch nehmen kann. 
+
+[^8]: Der/die Kurator:in kann entscheiden, ob beim Balg die Flügel auf- oder zugeklappt sein solle. Zu bedenken ist, dass der Balg nach dem Trocknen 'hart' ist, sodass er wieder aufgeweicht werden muss, um die Position zu verändern. 
+
+[^9]: Eine weitere Möglichkeit stellt die Mazeration mit Enzymen dar, bei der das Skelett zunächst mehrere Wochen lang in einer Weiche eingelegt wird, um den Fleischkörper zu entbluten und für die Enzyme vorzubereiten. Für die eigentliche Mazeration wird eine Lösung mit Enzym angesetzt, in die der Tierkörper eingelegt wird. Dieser Prozess findet je nach Enzym teilweise ebenfalls im Wärmeschrank statt. Hier zerfällt das Teilskelett in seine einzelnen Bestandteile, während bei der Speckkäfervariante Knochenstrukturen zusammenhängend bleiben.
+
+[^10]: Wir danken Pascal Eckhoff und Sylke Frahnert für die Einblicke in die Sammlungsarbeit.
