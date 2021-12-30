@@ -7,7 +7,7 @@ short_desc_de: Politische, logistische und moralische Herausforderungen
 date_end: ""
 published: false
 title: How Do Animals End Up in the Zoo?
-updated: 1640786932971
+updated: 1640899976524
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 translators:
   translator_de_en: ""
@@ -39,7 +39,7 @@ date_start: ""
 
 <figcaption>
 
-_The hippos "Knautschke" (bottom), the young animal "Jette" (middle) and "Bulette" (top), around 1959. (AZGB, photo Hoppe. All rights reserved.)_
+_The hippos “Knautschke” (bottom), the young animal “Jette” (middle) and “Bulette” (top), around 1959. (AZGB, photo Hoppe. All rights reserved.)_
 
 </figcaption>
 
@@ -47,11 +47,11 @@ _The hippos "Knautschke" (bottom), the young animal "Jette" (middle) and "Bulett
 
 How do animals actually get to the zoo? Visitors to an animal park or zoo probably rarely ask themselves this question. Yet the animals on display are usually the reason for the visit and are also the founding premise of the zoo as an institution. Historically, zoos themselves have not routinely specified the sources of their animals. The animal itself, not its original habitat, has often been the point of focus. **Sometimes, however, the origin of the animal was integral to the fundamental idea behind the exhibition. For example, at the end of the 19th century and in the 1930s, when animals from the (former) German colonies were explicitly labelled or marketed as such**, or when back-breeding attempts of extinct animals were intended to enhance the reputation of a zoo director. Today, zoos are keen to emphasise the origins of animals from international breeding programmes as a form of progress and as part of their species conservation efforts. But where did and do zoo animals actually come from?
 
-To the present day, the provenance of zoo animals varies widely. Sometimes they arrive at the institutions through accidental circumstances as gifts or casual purchases, sometimes as a result of long-term groundwork. Their paths there always reflect geopolitical, economic and scientific dynamics. Some means of acquiring animals developed relatively late in the more than 250-year-long history of "modern" zoos. There are also some sources of animals that have consistently played an important role. It is thus a matter of both change and continuity.
+To the present day, the provenance of zoo animals varies widely. Sometimes they arrive at the institutions through accidental circumstances as gifts or casual purchases, sometimes as a result of long-term groundwork. Their paths there always reflect geopolitical, economic and scientific dynamics. Some means of acquiring animals developed relatively late in the more than 250-year-long history of “modern” zoos. There are also some sources of animals that have consistently played an important role. It is thus a matter of both change and continuity.
 
 ## Hunting and Gifting
 
-At the time of the establishment of the first zoological gardens dubbed "modern" or "scientific", especially in Europe and North America around the middle of the 19th century, all the animals exhibited there and not native to the area were captured in the wild, see also [[story.catching-animals]]. The hunters were local amateurs or professionals, or specially dispatched trappers who were either paid by a company, or who caught the animals at their own expense and then offered them up for sale. Although animals of native species were also caught wild, collections of these were often dominated by those bred in the former menageries of manorial estates or in the early animal collections of particular cities. This was especially the case for hoofed animal species, pheasants, and indigenous rodents.
+At the time of the establishment of the first zoological gardens dubbed “modern” or “scientific”, especially in Europe and North America around the middle of the 19th century, all the animals exhibited there and not native to the area were captured in the wild, see also [[story.catching-animals]]. The hunters were local amateurs or professionals, or specially dispatched trappers who were either paid by a company, or who caught the animals at their own expense and then offered them up for sale. Although animals of native species were also caught wild, collections of these were often dominated by those bred in the former menageries of manorial estates or in the early animal collections of particular cities. This was especially the case for hoofed animal species, pheasants, and indigenous rodents.
 
 Many of the non-native animals in the early days of European zoos were gifts from the ruler of a given territory. These, in turn, might have received them as gifts themselves from other rulers or heads of state, or been presented with them by explorers or nobles. The latter might have caught or bought the animal themselves. Gifts of animals were always especially valent as political gestures. A diplomatic value was attributed to the possession of these animals. This value depended on how rare or dangerous, how large or heavy an animal was, and whether it was a species previously unknown in the context of European gift-giving. This was related to the fact that the acquisition of these animals often involved great expense and therefore the animals also had financial market value, which was translated into diplomatic value through the act of gift-giving.
 
@@ -61,7 +61,7 @@ Many of the non-native animals in the early days of European zoos were gifts fro
 
 <figcaption>
 
-_The two Asian elephants "Omar" and "Rostom" were gifts of the British court to their relations in the Prussian royal family in 1881. (AZGB. All rights reserved.)_
+_The two Asian elephants “Omar” and “Rostom” were gifts of the British court to their relations in the Prussian royal family in 1881. (AZGB. All rights reserved.)_
 
 </figcaption>
 
@@ -69,7 +69,7 @@ _The two Asian elephants "Omar" and "Rostom" were gifts of the British court to 
 
 The practice of gift-giving continued with colonial expansion, from which all zoos benefitted, including the Berlin Zoological Garden. Members of the imperial household, governors, colonial societies, as well as merchants and colonial officials involved in the exploitation of conquered territories donated animals from the colonies to the zoo in the imperial capital. The circumstances of the catching or purchasing of these animals were of no interest to the zoo management and were not recorded. Beginning in 1891, the zoo’s annual reports regularly mention gifts from German colonial territories. In 1907, the Zoological Garden had eleven lions in its possession, and only one of these animals had not been a gift from the colonies.[^1] 
 
-In some particular cases, political gifts or loans still carry significant weight in Berlin zoos today. During the Cold War, this was true of the Zoological Garden in West Berlin as well as the Tierpark Berlin, located in the east of the divided city, which was supported by donations from socialist countries. A well-known example of political gifts were the pandas "Bao Bao" and "Tien Tien", which came to the Berlin Zoo in 1980 as a gift from Chinese Prime Minister Hua Guofeng to the West German head of government, Helmut Schmidt.
+In some particular cases, political gifts or loans still carry significant weight in Berlin zoos today. During the Cold War, this was true of the Zoological Garden in West Berlin as well as the Tierpark Berlin, located in the east of the divided city, which was supported by donations from socialist countries. A well-known example of political gifts were the pandas “Bao Bao” and “Tien Tien”, which came to the Berlin Zoo in 1980 as a gift from Chinese Prime Minister Hua Guofeng to the West German head of government, Helmut Schmidt.
 
 In the last three decades of the 19th century, however, another important provenance of animals, which was also largely based on the exploitation of animal populations living in their natural habitats, had already become a major feature – the trade in animals.[^2]
 
@@ -113,17 +113,17 @@ Ultimately, in the mid-1970s, the Convention on International Trade in Endangere
 
 Two different breeding contexts in zoos emerge in view of this. Improvements in the conditions in which the animals were kept led to both accidental and desired offspring in zoos from the 1880s onwards at the latest. These enriched the animal population without incurring additional costs, and could also be traded with other zoos for further sought-after animals. At the turn of the 19th century to the 20th, such trades were still made by handshake agreements between zoo directors.[^5] **Swapping animals between zoos became the most important source of animals for the Berlin Zoo after the end of the First World War, since Germany was excluded from international animal trade, and zoos had no funds to purchase animals due to inflation.** The Berlin Zoo's annual report for 1919, for example, explicitly states that animals could only be acquired through trades with other German zoos. The aim was to maintain the animal population through breeding. In the following years, too, there is only mention of animals exchanged between German zoos. The exception is the Aquarium, which received a shipment of horseshoe crabs from the New York Zoo in 1920. However, even these were a gift from a colleague working there.[^6] It was only from the end of the 1920s, according to the zoo's [[Journale|material.journale-the-zoo-directory]], that it was once more possible to purchase animals.
 
-The exchange system as a whole, however, became so well established in the course of the first half of the 20th century that lists of animals available for swapping were circulated amongst the zoos of Germany and Europe. The archives of the Berlin Zoological Gardens contain countless "lists of offerings" from zoos and animal parks. **For some years, the zoo kept a whole series of chronologically arranged files with animal offerings and requests. From 1955 onward, even the direct competitors in Berlin – the Zoo and the Tierpark - exchanged animals.** Apart from direct requests, which resulted from each institution's knowledge of the other's animal population, both animal parks exchanged wish lists and lists of offerings.[^7] Of course, international exchanges also took place.
+The exchange system as a whole, however, became so well established in the course of the first half of the 20th century that lists of animals available for swapping were circulated amongst the zoos of Germany and Europe. The archives of the Berlin Zoological Gardens contain countless “lists of offerings” from zoos and animal parks. **For some years, the zoo kept a whole series of chronologically arranged files with animal offerings and requests. From 1955 onward, even the direct competitors in Berlin – the Zoo and the Tierpark - exchanged animals.** Apart from direct requests, which resulted from each institution's knowledge of the other's animal population, both animal parks exchanged wish lists and lists of offerings.[^7] Of course, international exchanges also took place.
 
 In a press release at the end of 1963, the Tierpark director Heinrich Dathe reported:
 
->"Good networks with zoological gardens all over the world, which have existed for years, have resulted in animal exchanges with zoos in the following countries: Argentina, Brazil, the CSSR, Denmark, France, Indonesia, Israel, Italy, Canada, Cuba, the Netherlands, Austria, Poland, Switzerland, the USSR."[^8]
+>“Good networks with zoological gardens all over the world, which have existed for years, have resulted in animal exchanges with zoos in the following countries: Argentina, Brazil, the CSSR, Denmark, France, Indonesia, Israel, Italy, Canada, Cuba, the Netherlands, Austria, Poland, Switzerland, the USSR.”[^8]
 
 The zoo’s aquarium bred offspring of fish, amphibians, reptiles, and insects specifically for the purpose of exchange with other aquariums, and the polyps from jellyfish breeding in particular were often given away.[^9]  
 
 Such movements of animals between zoos could serve, on the one hand, to introduce new species into an exhibit and, on the other, to make a particular species a permanent attraction. The exchanged animals were shown as replacements for individuals that had died, or served further breeding efforts. Increasingly, however, it became clear that there was also a need to avoid inbreeding within the animal species kept in zoos. Animals related to each other were given in exchange, and genetically unrelated individuals were taken on.
 
-First, however, awareness for this problem had to emerge. Between 1950 and 1952, hippopotamus calves were twice bred successfully at the Berlin Zoo with the only surviving Berlin hippopotamus, a bull named "Knautschke". Zoo director Katharina Heinroth and her Leipzig colleague Karl Max Schneider had arranged a breeding exchange. The Leipzig hippopotamus cow "Grete" came to Berlin for the purpose of breeding. The first male offspring went to Leipzig, the second, female hippo calf "Bulette" stayed in Berlin. Together they bred further young, among others the calf "Jette".[^10] That this constituted a clear case of inbreeding does not seem to have posed a problem for the directors at the time.
+First, however, awareness for this problem had to emerge. Between 1950 and 1952, hippopotamus calves were twice bred successfully at the Berlin Zoo with the only surviving Berlin hippopotamus, a bull named “Knautschke”. Zoo director Katharina Heinroth and her Leipzig colleague Karl Max Schneider had arranged a breeding exchange. The Leipzig hippopotamus cow “Grete” came to Berlin for the purpose of breeding. The first male offspring went to Leipzig, the second, female hippo calf “Bulette” stayed in Berlin. Together they bred further young, among others the calf “Jette”.[^10] That this constituted a clear case of inbreeding does not seem to have posed a problem for the directors at the time.
 
 <figure>
 
@@ -131,7 +131,7 @@ First, however, awareness for this problem had to emerge. Between 1950 and 1952,
 
 <figcaption>
 
-_The hippos "Knautschke" (bottom), the young animal "Jette" (middle) and "Bulette" (top), around 1959. (AZGB, photo Hoppe. All rights reserved.)_
+_The hippos “Knautschke” (bottom), the young animal “Jette” (middle) and “Bulette” (top), around 1959. (AZGB, photo Hoppe. All rights reserved.)_
 
 </figcaption>
 
@@ -157,9 +157,9 @@ Today, the internet-based information system [[material.species360]] facilitates
 
 Especially in the case of endangered species, zoos engaging in an exchange must scrupulously observe the regulations of the Convention on International Trade in Endangered Species. Nevertheless, for the Tierpark und the Zoo Berlin, the exchange of animals between member institutions of the German Association of Zoological Gardens, as well as between European and worldwide zoo associations remains an important source of new animals.
 
-This practice of creating a "cross-institutional 'metacollection'" also affects the institutions involved:
+This practice of creating a “cross-institutional ‘metacollection’” also affects the institutions involved:
 
->"New (collection-)collectives are created that transcend individual zoos. Zoo animals and zoos are placed in new relations to each other, literally displaced and interconnected in part by means of transfers for breeding purposes, and these new collectives are elaborately regulated."[^12]
+>“New (collection-)collectives are created that transcend individual zoos. Zoo animals and zoos are placed in new relations to each other, literally displaced and interconnected in part by means of transfers for breeding purposes, and these new collectives are elaborately regulated.”[^12]
 
 In light of the growing body of knowledge on rare animal species, and the increasing success of breeding programmes, zoos and aquariums also began to attempt the breeding of species that had previously been bred in captivity only rarely, or rarely with success – meaning that the attempts resulted in animals with a long lifespan and regular offspring. In the 1990s, the Berlin Aquarium succeeded for the first time in breeding and putting up for permanent display a variety of different jellyfish species. Aquarium staff caught the first specimens of moon jellyfish, which formed the foundation for the breeding efforts, in the North Sea between 1986 and 1989. They were allowed to accompany research vessels of the Oceanography Institute of Kiel University on research voyages for this purpose.[^13]
 
@@ -187,19 +187,19 @@ Ultimately, it seems that over the course of their existence, zoos – including
 
 In the Tierpark of East Berlin, a huge area of more than 100 hectares was available for animal enclosures and larger herds. The West Berlin Zoo, in its turn, worked to maintain a reputation as the most species-rich zoo in the world. This last was also related to the fact that everything in West Berlin, dependent as the city was on subsidies from the Federal Republic, was inflected by a felt need to legitimate itself. The zoo was a tourist magnet in this city at the front of the Cold War. Until well after the turn of the millennium, pedagogical concerns and species conservation were not at the forefront of considerations driving animal acquisition.
 
-Sandra Nicolodi states that while the "shift toward coordinated inter-zoo breeding of certain endangered species, as practiced today, for instance, in the form of conservation breeding programmes, is not the end product of a straight line of development", as zoo associations like to present it, "nevertheless, it does seem to be something new". Even if, as is apparent, these "offspring breeding efforts" are older.[^15]
+Sandra Nicolodi states that while the “shift toward coordinated inter-zoo breeding of certain endangered species, as practiced today, for instance, in the form of conservation breeding programmes, is not the end product of a straight line of development”, as zoo associations like to present it, “nevertheless, it does seem to be something new”. Even if, as is apparent, these “offspring breeding efforts” are older.[^15]
 
-For some years now, it has been possible to identify new tendencies that are changing zoos internationally, in Germany, and in Berlin. Long-term strategic considerations are now taking the place of pragmatism to a greater extent. Increasing criticism of the conditions in zoos, and questions about their future role in natural history education and species conservation _ex situ_ (i.e., in zoos through breeding) and _in situ_ (in the animals' original habitats) have led to a move away from earlier zoo directors' "passion for collecting". Observers now see everywhere a reduction in the number of species kept, in favour of larger enclosures and a focus on so-called flagship species – meaning, "endangered species with a high display value, through whose protection one simultaneously achieves the protection of many other species that share their habitat with them."[^16] These practices are in line with the "Conservation Strategy" adopted by the World Association of Zoos and Aquariums in 2015.[^17] Whether this can induce an effective reorientation of zoos for the future is debatable.[^18] For zoos have not quite abandoned pragmatic considerations: Breeding programmes, especially of display-worthy animals, remain important to ensure the continued presence of the favourites that as-yet plentiful audiences keep coming to the zoo to see. Perhaps these, in their turn, will generate the resources needed to achieve new strategic goals?
+For some years now, it has been possible to identify new tendencies that are changing zoos internationally, in Germany, and in Berlin. Long-term strategic considerations are now taking the place of pragmatism to a greater extent. Increasing criticism of the conditions in zoos, and questions about their future role in natural history education and species conservation _ex situ_ (i.e., in zoos through breeding) and _in situ_ (in the animals' original habitats) have led to a move away from earlier zoo directors’ “passion for collecting”. Observers now see everywhere a reduction in the number of species kept, in favour of larger enclosures and a focus on so-called flagship species – meaning, “endangered species with a high display value, through whose protection one simultaneously achieves the protection of many other species that share their habitat with them”.[^16] These practices are in line with the “Conservation Strategy” adopted by the World Association of Zoos and Aquariums in 2015.[^17] Whether this can induce an effective reorientation of zoos for the future is debatable.[^18] For zoos have not quite abandoned pragmatic considerations: Breeding programmes, especially of display-worthy animals, remain important to ensure the continued presence of the favourites that as-yet plentiful audiences keep coming to the zoo to see. Perhaps these, in their turn, will generate the resources needed to achieve new strategic goals?
 
 [^1]: Zoological Garden Berlin. _Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin_ for the year 1907.
 
-[^2]: For an overview of the imports of non-native animal species, cf. Dittrich, Lothar. "Der Import von Wildtieren nach Europa – Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts". In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, ed. by Helmut Pechlaner, Dagmar Schratter, and Gerhard Heindl. Tiergarten Schönbrunn – Geschichte, 3. Wien: Braumüller, 2007: 1-64.
+[^2]: For an overview of the imports of non-native animal species, cf. Dittrich, Lothar. ”Der Import von Wildtieren nach Europa – Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, ed. by Helmut Pechlaner, Dagmar Schratter, and Gerhard Heindl. Tiergarten Schönbrunn – Geschichte, 3. Wien: Braumüller, 2007: 1-64.
 
-[^3]: Klös, Heinz-Georg. "Tierfänger und Großtierhändler. Erinnerungen eines alten Tiergärtners, Teil I". _Bongo_ 34 (2004): 3-42; and Klös, Heinz-Georg. "(…) Teil II". _Bongo_ 35 (2005): 7-42.
+[^3]: Klös, Heinz-Georg. “Tierfänger und Großtierhändler. Erinnerungen eines alten Tiergärtners, Teil I”. _Bongo_ 34 (2004): 3-42; and Klös, Heinz-Georg. “(…) Teil II”. _Bongo_ 35 (2005): 7-42.
 
-[^4]: Minutes of meeting of the "Kommission für Tiergärten der DDR", the Commission for Zoos of the GDR, on 23 and 24 March 1970 in Halle, 16.04.1970, AZGB, O 0/1/18; H. Dathe to the Ministry for Culture of the DDR, 10.12.1974, AZGB, O 0/1/206; Minutes of meeting of the Association of German Zoo Directors, 1962, Archive Tiergarten Schönbrunn (ATGS), Estate W. Fiedler, File "Verband Deutscher Zoodirektoren", Nr. 2.
+[^4]: Minutes of meeting of the “Kommission für Tiergärten der DDR”, the Commission for Zoos of the GDR, on 23 and 24 March 1970 in Halle, 16.04.1970, AZGB, O 0/1/18; H. Dathe to the Ministry for Culture of the DDR, 10.12.1974, AZGB, O 0/1/206; Minutes of meeting of the Association of German Zoo Directors, 1962, Archive Tiergarten Schönbrunn (ATGS), Estate W. Fiedler, File “Verband Deutscher Zoodirektoren”, Nr. 2.
 
-[^5]: Heck, Ludwig. "Heiter-ernste Erinnerungen an Tiergärtner". _Der Zoologische Garten_ 12, Nr. 3/4 (no date): 228-238.
+[^5]: Heck, Ludwig. “Heiter-ernste Erinnerungen an Tiergärtner”. _Der Zoologische Garten_ 12, Nr. 3/4 (no date): 228-238.
 
 [^6]: Zoological Garden Berlin. _Geschäftsberichte_ for the years 1919-1924.
 
@@ -207,25 +207,25 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 [^8]: Tierpark Berlin, Press release Nr. 104/63, 28.12.1963, AZGB O 0/1/307. Direct quotes have been translated into English for clarity’s sake.
 
-[^9]: Kaiser, Rainer. "Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium?" In _Picassofisch und Kompassqualle. 100 Jahre Zoo-Aquarium Berlin_, ed. by Bernhard Blaszkiewitz, Berlin: Lehmanns, 2013: 214-239, 229, 232-235.
+[^9]: Kaiser, Rainer. “Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium?” In _Picassofisch und Kompassqualle. 100 Jahre Zoo-Aquarium Berlin_, ed. by Bernhard Blaszkiewitz, Berlin: Lehmanns, 2013: 214-239, 229, 232-235.
 
 [^10]: Heinroth, Katharina. _Mit Faltern begann's. Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 174-175; Maier-Wolthausen, Clemens. _Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos_. Ed. by Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 151, 153; Blaszkiewitz, Bernhard. _Knautschke, Knut & Co: die Lieblingstiere der Berliner aus Tierpark und Zoo_. Berlin: Lehmanns Media, 2009: 11-18.
 
-[^11]: Cf. de Bont, Raf. "Extinct in the Wild. Finding a Place for the European Bison 1919-1952". In _Spatializing the History of Ecology. Sites, Journeys, Mappings_, ed. by Raf de Bont and Jens Lachmund. Routledge Studies in the History of Science, Technology and Medicine. New York: Routledge, 2017; Bouman, Jan. "The history of breeding the Przewalski horse in captivity". In _Breeding Przewalski Horses in captivity for release into the wild_, ed. by Jan Bouman, Inge Bouman, and Annette Groeneveld. Rotterdam: Foundation for the Preservation and Protection of the Przewalski Horse, 1982: 17-64  .
+[^11]: Cf. de Bont, Raf. “Extinct in the Wild. Finding a Place for the European Bison 1919-1952”. In _Spatializing the History of Ecology. Sites, Journeys, Mappings_, ed. by Raf de Bont and Jens Lachmund. Routledge Studies in the History of Science, Technology and Medicine. New York: Routledge, 2017; Bouman, Jan. “The history of breeding the Przewalski horse in captivity”. In _Breeding Przewalski Horses in captivity for release into the wild_, ed. by Jan Bouman, Inge Bouman, and Annette Groeneveld. Rotterdam: Foundation for the Preservation and Protection of the Przewalski Horse, 1982: 17-64  .
 
-[^12]: Nicolodi, Sandra. "Nachzucht: eine relativ neue Sammelpraxis Zoologischer Gärten". _Traverse: Zeitschrift für Geschichte = Revue d’histoire_ 19, Nr. 3 (2012): 91-105, 100. Direct quotes have been translated into English for clarity’s sake.
+[^12]: Nicolodi, Sandra. “Nachzucht: eine relativ neue Sammelpraxis Zoologischer Gärten”. _Traverse: Zeitschrift für Geschichte = Revue d’histoire_ 19, Nr. 3 (2012): 91-105, 100. Direct quotes have been translated into English for clarity’s sake.
 
-[^13]: Kaiser, Rainer. "Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium? " In _Picassofisch und Kompassqualle. 100 Jahre Zoo-Aquarium Berlin_, ed. by Bernhard Blaszkiewitz, Berlin: Lehmanns, 2013: 214-239, 221.
+[^13]: Kaiser, Rainer. “Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium?” In _Picassofisch und Kompassqualle. 100 Jahre Zoo-Aquarium Berlin_, ed. by Bernhard Blaszkiewitz, Berlin: Lehmanns, 2013: 214-239, 221.
 
 [^14]: Meier, Jürg. _Handbuch Zoo: moderne Tiergartenbiologie_. 1. Edition. Bern, Stuttgart, Wien: Haupt Verlag, 2009: 115-120.
 
-[^15]: Nicolodi, Sandra. "Nachzucht: eine relativ neue Sammelpraxis Zoologischer Gärten". _Traverse: Zeitschrift für Geschichte = Revue d’histoire_ 19, Nr. 3 (2012): 91-105, 91 and 96.
+[^15]: Nicolodi, Sandra. “Nachzucht: eine relativ neue Sammelpraxis Zoologischer Gärten”. _Traverse: Zeitschrift für Geschichte = Revue d’histoire_ 19, Nr. 3 (2012): 91-105, 91 and 96.
 
 [^16]: Meier, Jürg. _Handbuch Zoo: moderne Tiergartenbiologie_. 1. Edition. Bern, Stuttgart, Wien: Haupt Verlag, 2009: 121. Direct quotes have been translated into English for clarity’s sake.
 
-[^17]: Grajal, Alejandro, Jerry F. Luebke, and Lisa-Anne DeGregoria Kelly. "Why Zoos Have Animals: Exploring the Complex Pathway from Experiencing Animals to Pro-environmental Behaviors". In _The Ark and Beyond: the Evolution of Zoo and Aquarium Conservation_, ed. by Ben A. Minteer, Jane Maienschein, James P. Collins, and George B. Rabb. Chicago: University of Chicago Press, 2018: 192-203.
+[^17]: Grajal, Alejandro, Jerry F. Luebke, and Lisa-Anne DeGregoria Kelly. “Why Zoos Have Animals: Exploring the Complex Pathway from Experiencing Animals to Pro-environmental Behaviors”. In _The Ark and Beyond: the Evolution of Zoo and Aquarium Conservation_, ed. by Ben A. Minteer, Jane Maienschein, James P. Collins, and George B. Rabb. Chicago: University of Chicago Press, 2018: 192-203.
 
-[^18]: Cf. Niekisch, Manfred, and Volker Sommer. "Artenschutz durch Zoos. Zwei Perspektiven". _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 31-38.
+[^18]: Cf. Niekisch, Manfred, and Volker Sommer. “Artenschutz durch Zoos. Zwei Perspektiven”. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 31-38.
 
 :::DE:::
 
@@ -235,7 +235,7 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 <figcaption>
 
-_Die Flusspferde "Knautschke" (unten), Jungtier "Jette" (mittig) und "Bulette" (oben), um 1959. (AZGB, Foto Hoppe. Alle Rechte vorbehalten.)_
+_Die Flusspferde “Knautschke” (unten), Jungtier “Jette” (mittig) und “Bulette” (oben), um 1959. (AZGB, Foto Hoppe. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -243,11 +243,11 @@ _Die Flusspferde "Knautschke" (unten), Jungtier "Jette" (mittig) und "Bulette" (
 
 Wie kommen eigentlich die Tiere in den Zoo? Besucher:innen eines Tierparks, Tiergartens oder Zoologischen Gartens stellen sich die Frage mutmaßlich selten. Dabei sind die ausgestellten Tiere in der Regel der Grund des Besuchs und auch die Voraussetzung der Institution Tiergarten. Zoos selbst gaben in ihrer langen Geschichte die Quellen ihrer Tiere nicht regelmäßig an. Das Tier, nicht sein ursprüngliches Habitat standen im Mittelpunkt. **Manchmal aber war die Herkunft des Tieres Teil des Ausstellungskonzeptes. So zum Beispiel Ende des 19. Jahrhunderts und in den 1930er Jahren als Tiere aus den (ehemaligen) deutschen Kolonien als solche gekennzeichnet oder vermarktet wurden** oder Rückzüchtungsversuche ausgestorbener Tiere den Ruf des Zoodirektors stärken sollten. Heute sind Zoos sehr darauf bedacht, die Herkunft der Tiere aus internationalen Zuchtprogrammen als Fortschritt und als Teil ihres Artenschutzauftrages zu betonen. Aber wo kamen und kommen die Zootiere nun her?
 
-Zootiere haben bis heute unterschiedlichste Provenienzen. Sie gelangen mal durch zufällige Umstände als Geschenke oder Gelegenheitskäufe, mal als Ergebnis langer Vorarbeit in die Institutionen. Ihre Wege dahin spiegeln stets auch geopolitische, ökonomische und wissenschaftliche Dynamiken wider. Manche Formen des Tiererwerbs oder der Tierakquise haben sich erst spät in der mehr als 250-jährigen Geschichte der "modernen" Zoos entwickelt. Daneben existieren einige Tierquellen, die kontinuierlich eine wichtige Rolle einnehmen. Es geht also um Veränderungen und Kontinuitäten.
+Zootiere haben bis heute unterschiedlichste Provenienzen. Sie gelangen mal durch zufällige Umstände als Geschenke oder Gelegenheitskäufe, mal als Ergebnis langer Vorarbeit in die Institutionen. Ihre Wege dahin spiegeln stets auch geopolitische, ökonomische und wissenschaftliche Dynamiken wider. Manche Formen des Tiererwerbs oder der Tierakquise haben sich erst spät in der mehr als 250-jährigen Geschichte der “modernen” Zoos entwickelt. Daneben existieren einige Tierquellen, die kontinuierlich eine wichtige Rolle einnehmen. Es geht also um Veränderungen und Kontinuitäten.
 
 ## Jagen und Schenken
 
-Zur Zeit der Gründung der ersten "modern" oder "wissenschaftlich" genannten Zoologischen Gärten insbesondere in Europa und Nordamerika etwa Mitte des 19. Jahrhunderts waren alle dort ausgestellten und nicht einheimischen Tiere [[Wildfänge|story.catching-animals]]. Die Jäger waren lokale Amateure oder Profis oder aber auch speziell ausgesandte Jäger, die entweder von einer Firma bezahlt wurden oder auf eigene Rechnung Tiere fingen und sie dann den Zoos anboten. Zwar stammten auch Tiere einheimischer Arten aus Wildfängen, oft aber dominierten hier bereits Zuchten aus den früher angelegten Menagerien der herrschaftlichen Anwesen oder frühen Tiersammlungen von Städten. Das betraf insbesondere Huftierarten, Fasane und einheimische Nagetiere.
+Zur Zeit der Gründung der ersten “modern” oder “wissenschaftlich” genannten Zoologischen Gärten insbesondere in Europa und Nordamerika etwa Mitte des 19. Jahrhunderts waren alle dort ausgestellten und nicht einheimischen Tiere [[Wildfänge|story.catching-animals]]. Die Jäger waren lokale Amateure oder Profis oder aber auch speziell ausgesandte Jäger, die entweder von einer Firma bezahlt wurden oder auf eigene Rechnung Tiere fingen und sie dann den Zoos anboten. Zwar stammten auch Tiere einheimischer Arten aus Wildfängen, oft aber dominierten hier bereits Zuchten aus den früher angelegten Menagerien der herrschaftlichen Anwesen oder frühen Tiersammlungen von Städten. Das betraf insbesondere Huftierarten, Fasane und einheimische Nagetiere.
 
 Viele der nicht einheimischen Tiere in der Frühzeit der europäischen Zoos waren Geschenke durch die jeweils herrschenden Territorialfürsten. Diese wiederum hatten sie selbst von anderen Herrschern oder Staatsoberhäuptern geschenkt bekommen oder sie waren ihnen von Forschungsreisenden oder Adeligen überreicht worden. Jene hatten sie selbst gefangen oder gekauft. Insbesondere Schenkungen von Tieren waren stets mit politischen Gesten verbunden. Dem Besitz dieser Tiere wurde ein diplomatischer Wert zugeschrieben. Dieser Wert hing davon ab, wie selten oder gefährlich, wie groß oder schwer ein Tier war und ob es sich um eine Art handelte, die im Kontext europäischer Tiergeschenke bis dahin unbekannt gewesen war. Das hing damit zusammen, dass die Beschaffung jener Tiere oft hohe Kosten verursachte und die Tiere daher auch einen finanziellen Marktwert hatten, der durch den Akt des Schenkens in einen diplomatischen Wert übersetzt wurde.
 
@@ -257,7 +257,7 @@ Viele der nicht einheimischen Tiere in der Frühzeit der europäischen Zoos ware
 
 <figcaption>
 
-_Die beiden asiatischen Elefanten "Omar" und "Rostom" waren 1881 Geschenke des mit dem preußischen Königshaus verwandten britischen Hofs. (AZGB. Alle Rechte vorbehalten.)_
+_Die beiden asiatischen Elefanten “Omar” und “Rostom” waren 1881 Geschenke des mit dem preußischen Königshaus verwandten britischen Hofs. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -265,7 +265,7 @@ _Die beiden asiatischen Elefanten "Omar" und "Rostom" waren 1881 Geschenke des m
 
 Diese Praxis des Schenkens setzte sich mit der kolonialen Expansion fort, von der alle Zoos – auch der Berliner Zoologische Garten – profitierten. Mitglieder des kaiserlichen Haushaltes, Gouverneure, Kolonialgesellschaften und an der Ausbeutung der eroberten Länder beteiligte Kaufleute oder Kolonialbeamte schenkten dem Zoo der Reichshauptstadt Tiere aus den Kolonien. Die Umstände des Fangs oder Erwerbs dieser Tiere interessierten die Zooleitung nicht und wurden nicht verzeichnet. Seit 1891 wurden in den Zoo-Geschäftsberichten regelmäßig Geschenke aus den deutschen Kolonialgebieten erwähnt. 1907 besaß der Zoologische Garten elf Löwen und nur ein einziges dieser Tiere war kein Geschenk aus den Kolonien gewesen.[^1]
 
-Politische Geschenke oder Leihgaben haben in Einzelfällen bis heute ein großes Gewicht in den Berliner Tiergärten. Während des Kalten Krieges galt das sowohl für den Zoologischen Garten im Westen Berlins als auch für den im Osten der geteilten Stadt gelegenen Tierpark Berlin, der durch Schenkungen aus sozialistischen Ländern unterstützt wurde. Ein bekanntes Beispiel für politische Tiergeschenke waren die Pandas "Bao Bao" und "Tien Tien", die 1980 als Geschenk des chinesischen Ministerpräsidenten Hua Guofeng an den westdeutschen Regierungschef Helmut Schmidt in den Berliner Zoo kamen.
+Politische Geschenke oder Leihgaben haben in Einzelfällen bis heute ein großes Gewicht in den Berliner Tiergärten. Während des Kalten Krieges galt das sowohl für den Zoologischen Garten im Westen Berlins als auch für den im Osten der geteilten Stadt gelegenen Tierpark Berlin, der durch Schenkungen aus sozialistischen Ländern unterstützt wurde. Ein bekanntes Beispiel für politische Tiergeschenke waren die Pandas “Bao Bao” und “Tien Tien”, die 1980 als Geschenk des chinesischen Ministerpräsidenten Hua Guofeng an den westdeutschen Regierungschef Helmut Schmidt in den Berliner Zoo kamen.
 
 In den letzten drei Jahrzehnten des 19. Jahrhunderts war aber bereits eine weitere wichtige Provenienz von Tieren hinzugekommen, die ebenso weitgehend auf der Ausbeutung der in den natürlichen Lebensräumen lebenden Tierpopulationen beruhte – der Tierhandel.[^2]
 
@@ -309,17 +309,17 @@ Letztlich setzte Mitte der 1970er Jahre das Übereinkommen über den internation
 
 Dabei werden zwei unterschiedliche Kontexte der Zucht in Zoos deutlich. Mit verbesserten Haltungsbedingungen kam es in Zoos spätestens seit den 1880er Jahren zu zufälligen und erwünschten Nachzuchten. Diese bereicherten den Tierbestand ohne zusätzliche Kosten zu verursachen und konnten zudem mit anderen Zoos gegen andere begehrte Tiere getauscht werden. Um die Jahrhundertwende des 19. zum 20. Jahrhundert wurden solche Tauschgeschäfte noch per Handschlag zwischen den Zoodirektoren abgeschlossen.[^5] **Der Tausch von Tieren zwischen Zoos wurde für den Berliner Zoo nach dem Ende des Ersten Weltkriegs zur wichtigsten Quelle für Tiere, da Deutschland vom internationalen Tierhandel ausgeschlossen war und die Zoos wegen der Inflation über keine Mittel zum Tierkauf verfügten.** Der Geschäftsbericht des Berliner Zoos für das Jahr 1919 weist beispielsweise ausdrücklich darauf hin, dass Tiere nur durch den Tausch mit anderen deutschen Zoos erworben werden konnten. Das Ziel war, durch Zucht den Bestand zu erhalten. Auch in den folgenden Jahren werden nur zwischen deutschen Zoos getauschte Tiere erwähnt. Die Ausnahme bildet das Aquarium, welches 1920 eine Sendung aus dem New Yorker Zoo mit Pfeilschwanzkrebsen bekam. Aber auch diese waren ein Geschenk des dortigen Kollegen.[^6] Erst ab Ende der 1920er Jahre wurden ausweislich der [[Journale|material.journale-the-zoo-directory]] des Zoos wieder Tiere gekauft.
 
-Das Tauschsystem etablierte sich aber insgesamt im Laufe der ersten Hälfte des 20. Jahrhunderts so gut, dass zwischen den Tiergärten Deutschlands und Europas Angebotslisten für Tauschgeschäfte verschickt wurden. Im Archiv der Zoologischen Gärten Berlins finden sich unzählige "Angebotslisten" von Zoo und Tierpark. **Der Zoo führte einige Jahre eine ganze Reihe chronologisch geordneter Aktenhefter mit Tierangeboten und Tierwünschen. Seit 1955 tauschten auch die direkten Konkurrenten in Berlin – Zoo und Tierpark – Tiere aus.** Neben direkten Wünschen, die aus der Kenntnis des Tierbestandes des jeweils anderen Tiergartens ergaben, tauschten beide Gärten ebenso Wunschlisten und Angebotslisten aus.[^7] Natürlich wurde auch international getauscht.
+Das Tauschsystem etablierte sich aber insgesamt im Laufe der ersten Hälfte des 20. Jahrhunderts so gut, dass zwischen den Tiergärten Deutschlands und Europas Angebotslisten für Tauschgeschäfte verschickt wurden. Im Archiv der Zoologischen Gärten Berlins finden sich unzählige “Angebotslisten” von Zoo und Tierpark. **Der Zoo führte einige Jahre eine ganze Reihe chronologisch geordneter Aktenhefter mit Tierangeboten und Tierwünschen. Seit 1955 tauschten auch die direkten Konkurrenten in Berlin – Zoo und Tierpark – Tiere aus.** Neben direkten Wünschen, die aus der Kenntnis des Tierbestandes des jeweils anderen Tiergartens ergaben, tauschten beide Gärten ebenso Wunschlisten und Angebotslisten aus.[^7] Natürlich wurde auch international getauscht.
 
 Der Tierparkdirektor Heinrich Dathe berichtete in einer Pressemitteilung zum Jahresende 1963:
 
->"Die seit Jahren bestehenden guten Kontakte mit den Zoologischen Gärten in aller Welt führten zu Tiertauschen mit Tiergärten in folgenden Staaten: Argentinien, Brasilien, CSSR, Dänemark, Frankreich, Indonesien, Israel, Italien Kanada, Kuba, Niederlande, Österreich, Polen, Schweiz, UdSSR."[^8]
+>“Die seit Jahren bestehenden guten Kontakte mit den Zoologischen Gärten in aller Welt führten zu Tiertauschen mit Tiergärten in folgenden Staaten: Argentinien, Brasilien, CSSR, Dänemark, Frankreich, Indonesien, Israel, Italien Kanada, Kuba, Niederlande, Österreich, Polen, Schweiz, UdSSR.”[^8]
 
 Das Zoo-Aquarium züchtete Nachkommen von Fischen, Amphibien, Reptilien und Insekten extra für den Zweck des Tauschs mit anderen Aquarien und insbesondere die Polypen der Quallenzucht wurden häufig abgegeben.[^9]
 
 Solche Verschiebungen von Tieren zwischen Zoos konnten zum einen dazu dienen, neue Tierarten in die Ausstellung zu übernehmen oder aber die Präsenz einer bestimmten Spezies dauerhaft zu gewähren. Die getauschten Tiere wurden als Ersatz für gestorbene Individuen gezeigt oder dienten der Nachzucht. Zunehmend aber wurde klar, dass es auch darum gehen musste, Inzucht innerhalb einer in Zoos gehaltenen Tierart zu vermeiden. Miteinander verwandte Tiere wurden im Tausch abgegeben und genetisch unbedenkliche Individuen in die Gruppen übernommen.
 
-Das Bewusstsein für diese Problematik musste aber erst noch entstehen. Im Berliner Zoo kam es zwischen 1950 und 1952 zweimal zu erfolgreichen Nachzuchten von Flusspferdkälbern mit dem einzig überlebenden Berliner Flusspferd, einem Bullen namens "Knautschke". Die Zoodirektorin Katharina Heinroth und ihr Leipziger Kollege Karl Max Schneider hatten einen Zuchttausch vereinbart. Die Leipziger Flusspferdkuh "Grete" kam zur Fortpflanzung nach Berlin. Der erste männliche Nachwuchs ging nach Leipzig, das zweite, weibliche Flusspferdkalb "Bulette" blieb in Berlin. Zusammen züchteten sie Nachkommen, unter anderem das Kalb "Jette".[^10] Die ausgeprägte Inzucht scheint in diesem Fall für die Zeitgenoss:innen nicht problematisch gewesen zu sein.
+Das Bewusstsein für diese Problematik musste aber erst noch entstehen. Im Berliner Zoo kam es zwischen 1950 und 1952 zweimal zu erfolgreichen Nachzuchten von Flusspferdkälbern mit dem einzig überlebenden Berliner Flusspferd, einem Bullen namens “Knautschke”. Die Zoodirektorin Katharina Heinroth und ihr Leipziger Kollege Karl Max Schneider hatten einen Zuchttausch vereinbart. Die Leipziger Flusspferdkuh “Grete” kam zur Fortpflanzung nach Berlin. Der erste männliche Nachwuchs ging nach Leipzig, das zweite, weibliche Flusspferdkalb “Bulette” blieb in Berlin. Zusammen züchteten sie Nachkommen, unter anderem das Kalb “Jette”.[^10] Die ausgeprägte Inzucht scheint in diesem Fall für die Zeitgenoss:innen nicht problematisch gewesen zu sein.
 
 <figure>
 
@@ -327,7 +327,7 @@ Das Bewusstsein für diese Problematik musste aber erst noch entstehen. Im Berli
 
 <figcaption>
 
-_Die Flusspferde "Knautschke" (unten), Jungtier "Jette" (mittig) und "Bulette" (oben), um 1959. (AZGB, Foto Hoppe. Alle Rechte vorbehalten.)_
+_Die Flusspferde “Knautschke” (unten), Jungtier “Jette” (mittig) und “Bulette” (oben), um 1959. (AZGB, Foto Hoppe. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -353,9 +353,9 @@ Heute hat das Internet-basierte Informationssystem [[material.species360]] die A
 
 Insbesondere bei gefährdeten Tierarten müssen die tauschenden Zoos die Vorschriften des Artenschutzabkommens penibel beachten. Und dennoch hat sich für Berliner Tierpark und Zoo der Tausch von Tieren zwischen Mitgliedseinrichtungen des deutschen Verbandes der Zoologischen Gärten sowie der europäischen oder weltweiten Zooverbände zu einer wichtige Quelle entwickelt, um neue Tiere zu erhalten.
 
-Diese Praxis der Schaffung einer "institutionenübergreifende(n) 'Metasammlung'" wirkt sich auch auf die beteiligten Institutionen aus:
+Diese Praxis der Schaffung einer “institutionenübergreifende(n) ‘Metasammlung’” wirkt sich auch auf die beteiligten Institutionen aus:
 
->"Neue (Sammlungs-)Kollektive werden geschaffen, welche über die einzelnen Zoos hinausgehen. Zootiere und Zoos werden neu zueinander in Beziehung gesetzt, teils mittels Transfers zu Zuchtzwecken buchstäblich versetzt und vernetzt sowie diese neuen Kollektive aufwendig geregelt."[^12]
+>“Neue (Sammlungs-)Kollektive werden geschaffen, welche über die einzelnen Zoos hinausgehen. Zootiere und Zoos werden neu zueinander in Beziehung gesetzt, teils mittels Transfers zu Zuchtzwecken buchstäblich versetzt und vernetzt sowie diese neuen Kollektive aufwendig geregelt.”[^12]
 
 Mit wachsendem Wissen um seltene Tierarten und zunehmendem Erfolg von Zuchtprogrammen versuchten sich Zoos und Aquarien auch an der Zucht bis dahin nur selten oder selten erfolgreich gezüchteter Spezies. Erfolg maß sich an der Lebensdauer und der Regelmäßigkeit von Nachwuchs. Im Berliner Aquarium gelang es in den 1990er Jahren zum ersten Mal, dauerhaft verschiedene Quallenspezies zu züchten und zu zeigen. Die ersten Exemplare von Ohrenquallen aus der Nordsee, die die Grundlage der Zucht bildeten, wurden von Aquariumsmitarbeitern zwischen 1986 und 1989 in der Nordsee gefangen. Dafür durften sie Forschungsschiffe des Meereskunde-Instituts der Kieler Universität auf Forschungsreisen begleiten.[^13]
 
@@ -383,19 +383,19 @@ Letztlich scheint es, als seien Zoos – darunter auch der Berliner Zoo, sein Aq
 
 Im Ost-Berliner Tierpark stand eine riesige Fläche von mehr als 100 Hektar zur Verfügung, die mit Tiergehegen oder größeren Herden gefüllt werden sollte, während sich der West-Berliner Zoo bemühte, seinen Ruf als artenreichster Zoo der Welt zu behaupten. Letzteres hing in der von Subventionen aus der Bundesrepublik abhängigen Stadt auch damit zusammen, dass alles in West-Berlin letztlich einem Legitimationszwang unterlag. Der Zoo war ein Tourismusmagnet in der Frontstadt des Kalten Kriegs. Konzentrationen auf bestimmte Tiergruppen aus pädagogischen Überlegungen oder Gründen des Artenschutzes standen bis weit nach der Jahrtausendwende nicht im Vordergrund des Tiererwerbs.
 
-Sandra Nicolodi konstatiert, dass die "Verlagerung hin zu einer zooübergreifend koordinierten Nachzucht bestimmter bedrohter Tierarten, wie sie heute beispielsweise in Form von Erhaltungszuchtprogrammen praktiziert wird, zwar nicht das Endprodukt einer geradlinigen Entwicklungslinie" sei, wie Zooverbände gerne postulieren, "nichtsdestoweniger scheint sie tatsächlich etwas neues zu sein". Auch wenn wie zu sehen ist, diese "Nachzuchtbestrebungen" älter sind.[^15]
+Sandra Nicolodi konstatiert, dass die “Verlagerung hin zu einer zooübergreifend koordinierten Nachzucht bestimmter bedrohter Tierarten, wie sie heute beispielsweise in Form von Erhaltungszuchtprogrammen praktiziert wird, zwar nicht das Endprodukt einer geradlinigen Entwicklungslinie” sei, wie Zooverbände gerne postulieren, “nichtsdestoweniger scheint sie tatsächlich etwas neues zu sein”. Auch wenn wie zu sehen ist, diese “Nachzuchtbestrebungen” älter sind.[^15]
 
-Seit einigen Jahren lassen sich neue Tendenzen wahrnehmen, die international, in der Bundesrepublik und in Berlin die Tiergärten verändern. Stärker als bislang treten nun langfristige strategische Überlegungen an die Stelle des Pragmatismus. Wachsende Kritik der Haltungsbedingungen in Zoos und Fragen nach ihrer zukünftigen Rolle in naturkundlicher Bildung und Artenschutz _ex situ_ (also in den Zoos durch Zucht) und _in situ_ (in den ursprünglichen Lebensräumen der Tiere) haben zu einer Abkehr von der "Sammelleidenschaft" früherer Zoodirektoren geführt. Allenthalben sehen Beobachter:innen nun eine zahlenmäßige Verkleinerung der gehaltenen Tierarten zugunsten größerer Gehege und die Konzentration auf sogenannte Flaggschiff-Arten – also "gefährdete Tierarten mit einem hohen Schauwert, über deren Schutz man gleichzeitig den Schutz vieler anderer Tierarten erreicht, die den Lebensraum mit ihnen teilen."[^16] Solch eine Praxis entspricht der 2015 vom Weltverband der Zoos und Aquarien verabschiedeten "Conservation Strategy".[^17] Ob das eine wirksame Neuausrichtung der Zoos für die Zukunft bedingen kann, ist umstritten.[^18] Denn ganz hat der Pragmatismus noch keinen Zoo verlassen: Zuchtprogramme vor allem schauwertiger Tiere bleiben weiterhin wichtig, um die Lieblinge der nach wie vor zahlreichen Besucher:innen in den Zoos zu erhalten. Vielleicht erwirtschaften diese ja die Einnahmen zur Erzielung der neuen strategischen Ziele?
+Seit einigen Jahren lassen sich neue Tendenzen wahrnehmen, die international, in der Bundesrepublik und in Berlin die Tiergärten verändern. Stärker als bislang treten nun langfristige strategische Überlegungen an die Stelle des Pragmatismus. Wachsende Kritik der Haltungsbedingungen in Zoos und Fragen nach ihrer zukünftigen Rolle in naturkundlicher Bildung und Artenschutz _ex situ_ (also in den Zoos durch Zucht) und _in situ_ (in den ursprünglichen Lebensräumen der Tiere) haben zu einer Abkehr von der “Sammelleidenschaft” früherer Zoodirektoren geführt. Allenthalben sehen Beobachter:innen nun eine zahlenmäßige Verkleinerung der gehaltenen Tierarten zugunsten größerer Gehege und die Konzentration auf sogenannte Flaggschiff-Arten – also “gefährdete Tierarten mit einem hohen Schauwert, über deren Schutz man gleichzeitig den Schutz vieler anderer Tierarten erreicht, die den Lebensraum mit ihnen teilen”.[^16] Solch eine Praxis entspricht der 2015 vom Weltverband der Zoos und Aquarien verabschiedeten “Conservation Strategy”.[^17] Ob das eine wirksame Neuausrichtung der Zoos für die Zukunft bedingen kann, ist umstritten.[^18] Denn ganz hat der Pragmatismus noch keinen Zoo verlassen: Zuchtprogramme vor allem schauwertiger Tiere bleiben weiterhin wichtig, um die Lieblinge der nach wie vor zahlreichen Besucher:innen in den Zoos zu erhalten. Vielleicht erwirtschaften diese ja die Einnahmen zur Erzielung der neuen strategischen Ziele?
 
 [^1]: Zoologischer Garten Berlin. _Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin_ für das Jahr 1907.
 
-[^2]: Für eine Übersicht der Einfuhren nicht-heimischer Tierarten, vgl. Dittrich, Lothar. "Der Import von Wildtieren nach Europa – Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts". In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, hg. von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl. Tiergarten Schönbrunn – Geschichte, 3. Wien: Braumüller, 2007: 1-64.
+[^2]: Für eine Übersicht der Einfuhren nicht-heimischer Tierarten, vgl. Dittrich, Lothar. “Der Import von Wildtieren nach Europa – Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, hg. von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl. Tiergarten Schönbrunn – Geschichte, 3. Wien: Braumüller, 2007: 1-64.
 
-[^3]: Klös, Heinz-Georg. "Tierfänger und Großtierhändler. Erinnerungen eines alten Tiergärtners, Teil I". _Bongo_ 34 (2004): 3-42; sowie Klös, Heinz-Georg. "(…) Teil II". _Bongo_ 35 (2005): 7-42.
+[^3]: Klös, Heinz-Georg. “Tierfänger und Großtierhändler. Erinnerungen eines alten Tiergärtners, Teil I”. _Bongo_ 34 (2004): 3-42; sowie Klös, Heinz-Georg. “(…) Teil II”. _Bongo_ 35 (2005): 7-42.
 
-[^4]: Protokoll der Beratung der "Kommission für Tiergärten der DDR" am 23. und 24. März 1970 in Halle, 16.04.1970, AZGB, O 0/1/18; H. Dathe an Ministerium für Kultur der DDR, 10.12.1974, AZGB, O 0/1/206; Protokoll der Tagung des Verbands Deutscher Zoodirektoren 1962, Archiv Tiergarten Schönbrunn (ATGS), Nachlass W. Fiedler, Ordner Verband Deutscher Zoodirektoren, Nr. 2.
+[^4]: Protokoll der Beratung der “Kommission für Tiergärten der DDR” am 23. und 24. März 1970 in Halle, 16.04.1970, AZGB, O 0/1/18; H. Dathe an Ministerium für Kultur der DDR, 10.12.1974, AZGB, O 0/1/206; Protokoll der Tagung des Verbands Deutscher Zoodirektoren 1962, Archiv Tiergarten Schönbrunn (ATGS), Nachlass W. Fiedler, Ordner Verband Deutscher Zoodirektoren, Nr. 2.
 
-[^5]: Heck, Ludwig. "Heiter-ernste Erinnerungen an Tiergärtner". _Der Zoologische Garten_ 12, Nr. 3/4 (ohne Datum): 228-238.
+[^5]: Heck, Ludwig. “Heiter-ernste Erinnerungen an Tiergärtner”. _Der Zoologische Garten_ 12, Nr. 3/4 (ohne Datum): 228-238.
 
 [^6]: Zoologischer Garten Berlin. _Geschäftsberichte_ für die Jahre 1919-1924.
 
@@ -403,22 +403,22 @@ Seit einigen Jahren lassen sich neue Tendenzen wahrnehmen, die international, in
 
 [^8]: Tierpark Berlin, Pressemitteilung Nr. 104/63, 28.12.1963, AZGB O 0/1/307.
 
-[^9]: Kaiser, Rainer. "Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium? " In _Picassofisch und Kompassqualle. 100 Jahre Zoo-Aquarium Berlin_, hg. von Bernhard Blaszkiewitz, Berlin: Lehmanns, 2013: 214-239, 229, 232-235.
+[^9]: Kaiser, Rainer. “Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium?” In _Picassofisch und Kompassqualle. 100 Jahre Zoo-Aquarium Berlin_, hg. von Bernhard Blaszkiewitz, Berlin: Lehmanns, 2013: 214-239, 229, 232-235.
 
 [^10]: Heinroth, Katharina. _Mit Faltern begann's. Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 174-175; Maier-Wolthausen, Clemens. _Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos_. Hg. von Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 151, 153; Blaszkiewitz, Bernhard. _Knautschke, Knut & Co: die Lieblingstiere der Berliner aus Tierpark und Zoo_. Berlin: Lehmanns Media, 2009: 11-18.
 
-[^11]: Vgl. de Bont, Raf. "Extinct in the Wild. Finding a Place for the European Bison 1919-1952". In _Spatializing the History of Ecology. Sites, Journeys, Mappings_, hg. von Raf de Bont und Jens Lachmund. Routledge Studies in the History of Science, Technology and Medicine. New York: Routledge, 2017; Bouman, Jan. "The history of breeding the Przewalski horse in captivity". In _Breeding Przewalski Horses in captivity for release into the wild_, hg. von Jan Bouman, Inge Bouman, und Annette Groeneveld. Rotterdam: Foundation for the Preservation and Protection of the Przewalski Horse, 1982: 17-64.
+[^11]: Vgl. de Bont, Raf. “Extinct in the Wild. Finding a Place for the European Bison 1919-1952”. In _Spatializing the History of Ecology. Sites, Journeys, Mappings_, hg. von Raf de Bont und Jens Lachmund. Routledge Studies in the History of Science, Technology and Medicine. New York: Routledge, 2017; Bouman, Jan. “The history of breeding the Przewalski horse in captivity”. In _Breeding Przewalski Horses in captivity for release into the wild_, hg. von Jan Bouman, Inge Bouman, und Annette Groeneveld. Rotterdam: Foundation for the Preservation and Protection of the Przewalski Horse, 1982: 17-64.
 
-[^12]: Nicolodi, Sandra. "Nachzucht: eine relativ neue Sammelpraxis Zoologischer Gärten". _Traverse: Zeitschrift für Geschichte = Revue d’histoire_ 19, Nr. 3 (2012): 91-105, 100.
+[^12]: Nicolodi, Sandra. “Nachzucht: eine relativ neue Sammelpraxis Zoologischer Gärten”. _Traverse: Zeitschrift für Geschichte = Revue d’histoire_ 19, Nr. 3 (2012): 91-105, 100.
 
-[^13]: Kaiser, Rainer. "Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium? " In _Picassofisch und Kompassqualle. 100 Jahre Zoo-Aquarium Berlin_, hg. von Bernhard Blaszkiewitz, Berlin: Lehmanns, 2013: 214-239, 221.
+[^13]: Kaiser, Rainer. “Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium?” In _Picassofisch und Kompassqualle. 100 Jahre Zoo-Aquarium Berlin_, hg. von Bernhard Blaszkiewitz, Berlin: Lehmanns, 2013: 214-239, 221.
 
 [^14]: Meier, Jürg. _Handbuch Zoo: moderne Tiergartenbiologie_. 1. Auflage. Bern, Stuttgart, Wien: Haupt Verlag, 2009: 115-120.
 
-[^15]: Nicolodi, Sandra. "Nachzucht: eine relativ neue Sammelpraxis Zoologischer Gärten". _Traverse: Zeitschrift für Geschichte = Revue d’histoire_ 19, Nr. 3 (2012): 91-105, 91 u. 96.
+[^15]: Nicolodi, Sandra. “Nachzucht: eine relativ neue Sammelpraxis Zoologischer Gärten”. _Traverse: Zeitschrift für Geschichte = Revue d’histoire_ 19, Nr. 3 (2012): 91-105, 91 u. 96.
 
 [^16]: Meier, Jürg. _Handbuch Zoo: moderne Tiergartenbiologie_. 1. Auflage. Bern, Stuttgart, Wien: Haupt Verlag, 2009: 121.
 
-[^17]: Grajal, Alejandro, Jerry F. Luebke, und Lisa-Anne DeGregoria Kelly. "Why Zoos Have Animals: Exploring the Complex Pathway from Experiencing Animals to Pro-environmental Behaviors". In _The Ark and Beyond: the Evolution of Zoo and Aquarium Conservation_, hg. von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb. Chicago: The University of Chicago Press, 2018: 192-203.
+[^17]: Grajal, Alejandro, Jerry F. Luebke, und Lisa-Anne DeGregoria Kelly. “Why Zoos Have Animals: Exploring the Complex Pathway from Experiencing Animals to Pro-environmental Behaviors”. In _The Ark and Beyond: the Evolution of Zoo and Aquarium Conservation_, hg. von Ben A. Minteer, Jane Maienschein, James P. Collins, und George B. Rabb. Chicago: The University of Chicago Press, 2018: 192-203.
 
-[^18]: Vgl. Niekisch, Manfred, und Volker Sommer. "Artenschutz durch Zoos. Zwei Perspektiven". _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 31-38.
+[^18]: Vgl. Niekisch, Manfred, und Volker Sommer. “Artenschutz durch Zoos. Zwei Perspektiven”. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 31-38.
