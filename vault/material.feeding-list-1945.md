@@ -7,7 +7,7 @@ short_desc_de: Futterlisten im Zoo der Nachkriegszeit
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Feeding List 1945
-updated: 1640541459299
+updated: 1640902807151
 id: R4t_2F3NY3xIuAnRoDG0T
 translators:
   translator_de_en: ""
@@ -38,11 +38,11 @@ _List of feed requirements for the large animals at Berlin Zoo from 18.09.1945. 
 
 </figure>
 
-Lists compiling the respective feed requirements of different zoo animals are not just part of the routine and standard practice in zoological gardens. They also provide insights into the history of a zoo — as they do here, with regard to the animal population and food supply situation at Berlin Zoo in the postwar years [[material.winter-hardship-at-the-zoo]]. In order to secure and reorganize the feed supply after the end of the Second World War, it was first necessary to determine what was needed. For this purpose, [[material.katharina-heinroth]], the zoo director at the time, submitted a monthly list of the feed requirements for her animals to the _Haupternährungsamt_, the main food authority of the city, which was responsible for procuring feed. These lists were essential for keeping the zoo animals alive, as Katharina Heinroth and her staff could not feed the animals on their own. The lists are thus indicative of the zoo's administrative relationship with the Berlin authorities, and simultaneously tell us something about the development of the zoo's animal population [[material.list-of-dead-zoo-animals]]. After the end of the war, the zoo only had about 80 animals, but thanks to animal exchanges and gifts from a circus and from the people of Berlin, this number had already risen to 240 by the fall of 1945. However, in November 1945, due to the precarious food supply situation in the city, the Allied command banned any further acquisition of large animals for the zoo [[story.feed-scarcity]]. The demand for feed thus remained relatively stable in the following years.
+Lists compiling the respective feed requirements of different zoo animals are not just part of the routine and standard practice in zoological gardens. They also provide insights into the history of a zoo — as they do here, with regard to the animal population and food supply situation at Berlin Zoo in the postwar years [[material.winter-hardship-at-the-zoo]]. In order to secure and reorganize the feed supply after the end of the Second World War, it was first necessary to determine what was needed. For this purpose, [[material.katharina-heinroth]], the zoo director at the time, submitted a monthly list of the feed requirements for her animals to the _Haupternährungsamt_, the main food authority of the city, which was responsible for procuring feed. These lists were essential for keeping the zoo animals alive, as Katharina Heinroth and her staff could not feed the animals on their own. The lists are thus indicative of the zoo’s administrative relationship with the Berlin authorities, and simultaneously tell us something about the development of the zoo’s animal population [[material.list-of-dead-zoo-animals]]. After the end of the war, the zoo only had about 80 animals, but thanks to animal exchanges and gifts from a circus and from the people of Berlin, this number had already risen to 240 by the fall of 1945. However, in November 1945, due to the precarious food supply situation in the city, the Allied command banned any further acquisition of large animals for the zoo [[story.feed-scarcity]]. The demand for feed thus remained relatively stable in the following years.
 
-The feed issue came to a head again during the Berlin Blockade from June 1948 to May 1949, when the city faced major shortages in food provisions for both humans and animals. The requirements listed could no longer be met. Although the senator responsible for food and nutrition allocated foodstuffs that had become unsuitable for human consumption to the zoo for feeding purposes, Heinroth and her staff neither had sufficient feed, nor could they bring in hay, beets, and carrots from the zoo's own leased land in the surrounding countryside, which was now in the Russian sector. Oats, bran, and seeds thus had to be flown in during the blockade. However, a forestry director leased twelve hectares of land in the Grunewald to the zoo, enabling zoo workers to grow green fodder once they had cleared away the bullet-pocked tree stumps.[^1]
+The feed issue came to a head again during the Berlin Blockade from June 1948 to May 1949, when the city faced major shortages in food provisions for both humans and animals. The requirements listed could no longer be met. Although the senator responsible for food and nutrition allocated foodstuffs that had become unsuitable for human consumption to the zoo for feeding purposes, Heinroth and her staff neither had sufficient feed, nor could they bring in hay, beets, and carrots from the zoo’s own leased land in the surrounding countryside, which was now in the Russian sector. Oats, bran, and seeds thus had to be flown in during the blockade. However, a forestry director leased twelve hectares of land in the Grunewald to the zoo, enabling zoo workers to grow green fodder once they had cleared away the bullet-pocked tree stumps.[^1]
 
-In the early 1950s, when not only was there an upturn in the animal trade, but also the food supply situation in the Berlin area eased, Katharina Heinroth and her co-workers were once more able to procure sufficient feed and acquire new animals.[^2] As the zoo's population grew, there was a corresponding increase in the monthly feed requirements. The lists are thus especially useful as indicators of times of crisis and economic circumstances.
+In the early 1950s, when not only was there an upturn in the animal trade, but also the food supply situation in the Berlin area eased, Katharina Heinroth and her co-workers were once more able to procure sufficient feed and acquire new animals.[^2] As the zoo’s population grew, there was a corresponding increase in the monthly feed requirements. The lists are thus especially useful as indicators of times of crisis and economic circumstances.
 
 ## Transcript
 
@@ -70,7 +70,7 @@ In the early 1950s, when not only was there an upturn in the animal trade, but a
 >
 >signed.
 
-[^1]: Cf. Katharina Heinroth, report on the period from 01.01.1948 to 31.12.1950 at the general assembly of the stock association of the Berlin Zoological Garden (Actien-Verein des Zoologischen Gartens Berlin), 21.05.1951, AZGB; Heinroth, Katharina. _Mit Faltern begann's. Mein Leben mit Tieren in Breslau, München und Berlin_. Munich: Kindler, 1979: 169-170.
+[^1]: Cf. Katharina Heinroth, report on the period from 01.01.1948 to 31.12.1950 at the general assembly of the stock association of the Berlin Zoological Garden (Actien-Verein des Zoologischen Gartens Berlin), 21.05.1951, AZGB; Heinroth, Katharina. _Mit Faltern begann’s. Mein Leben mit Tieren in Breslau, München und Berlin_. Munich: Kindler, 1979: 169-170.
 
 [^2]: Cf. K. Heinroth to U. Bergman, 07.03.1950, AZGB N 4/12.
 
@@ -120,6 +120,6 @@ Anfang der 1950er-Jahre, als nicht nur der Tierhandel neuen Aufschwung nahm, son
 >
 >gez. Unterschrift
 
-[^1]: Vgl. Katharina Heinroth, Bericht über die Zeit vom 01.01.1948 bis 31.12.1950 auf der Hauptversammlung des Actien-Vereins des Zoologischen Gartens Berlin, 21.05.1951, AZGB; Heinroth, Katharina. _Mit Faltern begann's. Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 169-170.
+[^1]: Vgl. Katharina Heinroth, Bericht über die Zeit vom 01.01.1948 bis 31.12.1950 auf der Hauptversammlung des Actien-Vereins des Zoologischen Gartens Berlin, 21.05.1951, AZGB; Heinroth, Katharina. _Mit Faltern begann’s. Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 169-170.
 
 [^2]: Vgl. K. Heinroth an U. Bergman, 07.03.1950, AZGB N 4/12.
