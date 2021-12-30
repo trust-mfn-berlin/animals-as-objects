@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1640876554213
+updated: 1640876684428
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 translators:
@@ -324,7 +324,7 @@ Nach der Sektion wurde der Vogel umgehend tiefgefroren und mit dem Vermerk "MFN"
 
 <figure>
 
-![Foto eines Metalltischs mit Abfluss in der rechten unteren Ecke, an den ein Schlauch angeschlossen ist. Der Boden ist gefliest. Auf dem Tisch liegen zwei weiße Tabletts, darauf legt eine Person, von der nur die Hände und der Oberkörper zu sehen sind, einen Stift und ein Instrument. Neben den Tabletts liegen ein beschriftetes Blatt, ein Stift und eine Schere.](/ images/mv/jendaya-a.jpg) 
+![Foto eines Metalltischs mit Abfluss in der rechten unteren Ecke, an den ein Schlauch angeschlossen ist. Der Boden ist gefliest. Auf dem Tisch liegen zwei weiße Tabletts, darauf legt eine Person, von der nur die Hände und der Oberkörper zu sehen sind, einen Stift und ein Instrument. Neben den Tabletts liegen ein beschriftetes Blatt, ein Stift und eine Schere.](/images/mv/jendaya-a.jpg) 
 
 <figcaption>
 
