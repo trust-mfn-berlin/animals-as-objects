@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The "Gorilla Beast"
 title_de: Die "Bestie Gorilla"
 created: 1640365282699
-updated: 1640881735536
+updated: 1640881797543
 id: H40I2GIwYN6393S3tIUHI
 author: Britta Lange
 translators:
@@ -43,7 +43,7 @@ While he was preparing the taxidermy – which was accompanied by a sales brochu
 
 <figure>
 
-![Sepia photograph of an upright gorilla taxidermy on the left, standing on two legs and on an artificial tree root. One of the animal's arms is outstretched and leans on an artificial tree trunk. On the right, a man wearing a white lab coat and sitting on a kind of workshop bench with a drawing in his hand observes the gorilla beside him.](/images/guests/lange-2.jpg)
+![Sepia photograph of an upright gorilla taxidermy on the left, standing on two legs and on an artificial tree root. One of the animal’s arms is outstretched and leans on an artificial tree trunk. On the right, a man wearing a white lab coat and sitting on a kind of workshop bench with a drawing in his hand observes the gorilla beside him.](/images/guests/lange-2.jpg)
 
 <figcaption>
 
@@ -54,13 +54,13 @@ _The taxidermist Wilhelm Umlauff, probably with a picture by Paul Matschie in hi
 </figure>
 
 
-At the same time, counter-images were already emerging, creating an iconography of the gorilla as a peaceful animal. After arriving alive at Berlin Aquarium in 1876, where he only survived for a year, it was “Mpungu” the gorilla who paved the way in Germany. While the emphasis on the animal's peaceful characteristics would later be continued with the famous zoo gorilla [[Bobby|story.bobby-tracking-body-parts2]],[^4] Umlauff decided to go with his more sensational iconography in 1901, probably for sales reasons. Shortly before the exhibition in Karlsruhe opened, the company received the skin and skeleton of a second gorilla from Paul Matschie, curator of the Mammals Collection at the Berlin Zoological Museum and member of the Karlsruhe exhibition committee. The gorilla had been killed by Georg Zenker, a farmer and collector living in colonized Cameroon. To mount the dermoplastic taxidermy, Wilhelm Umlauff used sketches and photos that he had Matschie send to him as a guide. One surviving photo shows the taxidermist wearing a white lab coat, sitting beside his work, with the painted templates in his hand, underlining his artistic aspirations. “The gorilla steps down from a tree root; in his left arm he holds onto a tree trunk, while the right is at half-lowered. He is only 5cm smaller than the first.”[^5] Like the first, the second “giant gorilla” was thus also mounted in an upright position for the Karlsruhe exhibition in order to impactfully present its size and savagery.[^6] After seeing photos of the animal mounted for the show, the hunter Georg Zenker commented in a letter to Umlauff that “his facial expressions” were unfortunately “not savage enough”, because, in reality, it had looked very different: 
+At the same time, counter-images were already emerging, creating an iconography of the gorilla as a peaceful animal. After arriving alive at Berlin Aquarium in 1876, where he only survived for a year, it was “Mpungu” the gorilla who paved the way in Germany. While the emphasis on the animal’s peaceful characteristics would later be continued with the famous zoo gorilla [[Bobby|story.bobby-tracking-body-parts2]],[^4] Umlauff decided to go with his more sensational iconography in 1901, probably for sales reasons. Shortly before the exhibition in Karlsruhe opened, the company received the skin and skeleton of a second gorilla from Paul Matschie, curator of the Mammals Collection at the Berlin Zoological Museum and member of the Karlsruhe exhibition committee. The gorilla had been killed by Georg Zenker, a farmer and collector living in colonized Cameroon. To mount the dermoplastic taxidermy, Wilhelm Umlauff used sketches and photos that he had Matschie send to him as a guide. One surviving photo shows the taxidermist wearing a white lab coat, sitting beside his work, with the painted templates in his hand, underlining his artistic aspirations. “The gorilla steps down from a tree root; in his left arm he holds onto a tree trunk, while the right is at half-lowered. He is only 5cm smaller than the first.”[^5] Like the first, the second “giant gorilla” was thus also mounted in an upright position for the Karlsruhe exhibition in order to impactfully present its size and savagery.[^6] After seeing photos of the animal mounted for the show, the hunter Georg Zenker commented in a letter to Umlauff that “his facial expressions” were unfortunately “not savage enough”, because, in reality, it had looked very different: 
 
->“ \[…] its jaws opened wide, its eyes staring, its hair ruffled, half standing, etc. I can't even describe to you how savage such a fellow looks when he is in danger. \[…] My ears are ringing even today, and when I think about it, I’m still glad that everything went as smoothly as it did; and I am now sorry that I did not describe it to you more precisely before.”[^7] 
+>“ \[…] its jaws opened wide, its eyes staring, its hair ruffled, half standing, etc. I can’t even describe to you how savage such a fellow looks when he is in danger. \[…] My ears are ringing even today, and when I think about it, I’m still glad that everything went as smoothly as it did; and I am now sorry that I did not describe it to you more precisely before.”[^7] 
 
 The hunting report did not just make use of the horror motif familiar from earlier texts of its kind but also allowed the hunter himself to appear as the hero. 
 
-So, while Zenker did not believe that the dermoplastic taxidermy had appropriately captured the gorilla's “savagery”, its parameters – staring eyes, jaws open wide, bared teeth – were reproduced in a poster that Umlauff had reprinted for the Karlsruhe exhibition – presumably to increase sales – but which probably did not reach Zenker in Cameroon. The posters displayed the head and shoulders of the gorilla, including dramatic facial expressions, next to the wording “New exhibit”.
+So, while Zenker did not believe that the dermoplastic taxidermy had appropriately captured the gorilla’s “savagery”, its parameters – staring eyes, jaws open wide, bared teeth – were reproduced in a poster that Umlauff had reprinted for the Karlsruhe exhibition – presumably to increase sales – but which probably did not reach Zenker in Cameroon. The posters displayed the head and shoulders of the gorilla, including dramatic facial expressions, next to the wording “New exhibit”.
 
 <figure>
 
@@ -68,13 +68,13 @@ So, while Zenker did not believe that the dermoplastic taxidermy had appropriate
 
 <figcaption>
 
-_A poster printed by Friedländer in Hamburg for the 1903 German Colonial Hunting Exhibition in Karlsruhe – to advertise Umlauff's primate taxidermies. (Deutsches Plakatmuseum Essen, DPM 4393. All rights reserved.)_
+_A poster printed by Friedländer in Hamburg for the 1903 German Colonial Hunting Exhibition in Karlsruhe – to advertise Umlauff’s primate taxidermies. (Deutsches Plakatmuseum Essen, DPM 4393. All rights reserved.)_
 
 </figcaption>
 
 </figure>
 
-This was a continuation of the trophy iconography depicting the gorilla as a beast, which also legitimized the killing of the animals and, in a figurative sense, the subjugation of humans in the colonies who had also been declared “savage”. It was translated into various media – paintings, posters, taxidermies, and later films like “King Kong” (1933) – with slight variations. While the stereotypical image of Earth's largest primate as a beast has survived into the present, its historical entanglement with colonial power fantasies and exhibition contexts has now largely been forgotten.
+This was a continuation of the trophy iconography depicting the gorilla as a beast, which also legitimized the killing of the animals and, in a figurative sense, the subjugation of humans in the colonies who had also been declared “savage”. It was translated into various media – paintings, posters, taxidermies, and later films like “King Kong” (1933) – with slight variations. While the stereotypical image of Earth’s largest primate as a beast has survived into the present, its historical entanglement with colonial power fantasies and exhibition contexts has now largely been forgotten.
 
 [^1]: “Deutsch-Koloniale Jagdausstellung in Karlsruhe.” _Deutsche Kolonial-Zeitung_ 20, no. 29 (1903): 291.
 
