@@ -2,7 +2,7 @@
 id: qPXq6synKcymXGGXLIDvV
 title: Jendaya Parakeet
 desc: Put a description of this note here...
-updated: 1640874536749
+updated: 1640874730354
 created: 1640468612148
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -85,7 +85,7 @@ In order to prepare the study skin, the preparator first has to remove the skin 
 
 <figure>
 
-![Photo of a woman wearing green gloves bent over a metal table, observing an object (a dead bird carcass) that she holds in her hands. There is a white tray on the table with a ruler placed on top of it. On a white tray beside it, there is a pair of scissors and other preparation tools. In the background, there is a tiled wall and a metal sideboard, on top of which are various work utensils. –––MISSING IMAGE!!
+![Photo of a woman wearing green gloves bent over a metal table, observing an object (a dead bird carcass) that she holds in her hands. There is a white tray on the table with a ruler placed on top of it. On a white tray beside it, there is a pair of scissors and other preparation tools. In the background, there is a tiled wall and a metal sideboard, on top of which are various work utensils.](/images/mv/jendaya-e.jpg)
 
 <figcaption>
 
@@ -295,7 +295,7 @@ In diesem Fall war der Vogel zudem bereits zu Lebzeiten im Tierpark zur Identifi
 ![Eine Hand hält ein gefaltetes weißes Blatt in die Kamera, auf dem oben links ein kleines Blatt angetackert ist, auf dem handschriftlich mit blauem Stift notiert ist: "350/20 Jendaya Sittich männlich". Darunter ist ein durchsichtiger Plastikbeutel angetackert, in dem sich ein etwa ein Zentimeter großes Stäbchen befindet. In der Plastiktüte befindet sich außerdem ein blauer Zettel, auf den mit schwarzem Stift geschrieben steht: "Transponder Jendaya Sittich 3501/20".](images/mv/jendaya-d.jpg)
 _So wird der Transponder aufbewahrt, bis er dem Balg am Ende eingesetzt wird. (Foto: Filippo Bertoni. Alle Rechte vorbehalten.)_ 
 Um den Balg herzustellen, musste als erstes die Haut mit Hilfe von Skalpell und Schere abgezogen und dadurch vom sogenannten Fleischkörper getrennt werden. Anschließend wurde die Haut gereinigt, indem sie mechanisch von Bindegewebs- und Fettresten befreit wurde. Zusätzlich wurden die verbliebenen Knochenstrukturen (Unterschenkel, Schädel, Unter- und Oberarm) von Muskelfleisch und Sehen befreit – dieser Prozess wird auch als "Entfleischen" bezeichnet. Fett und Bindegewebe von der Haut zu entfernen und die Knochen zu entfleischen ist ein wichtiger Bestandteil der präparatorischen Arbeit, da durch den Geruch von Fett- und Fleischresten Insekten angelockt werden können, die den Balg in der Sammlung eventuell durch Fraß am Objekt schädigen.
-![Foto einer Frau mit grünen Handschuhen, die sich über einen Metalltisch beugt und ein Objekt (einen toten Vogelkörper) betrachtet, das sie in den Händen hält. Auf dem Tisch liegt ein weißes Tablett, auf dem ein Lineal liegt. Auf einem weißen Tablett daneben liegen eine Schere und andere Präparationswerkzeuge. Im Hintergrund sieht man eine geflieste Wand und eine Metallanrichte, auf der verschiedene Arbeitsutensilien liegen.](images/mv/jendaya-e.jpg)
+![Foto einer Frau mit grünen Handschuhen, die sich über einen Metalltisch beugt und ein Objekt (einen toten Vogelkörper) betrachtet, das sie in den Händen hält. Auf dem Tisch liegt ein weißes Tablett, auf dem ein Lineal liegt. Auf einem weißen Tablett daneben liegen eine Schere und andere Präparationswerkzeuge. Im Hintergrund sieht man eine geflieste Wand und eine Metallanrichte, auf der verschiedene Arbeitsutensilien liegen.](/images/mv/jendaya-e.jpg)
 _Die Museumspräparatorin Christin Scheinpflug untersucht den Vogelkörper. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
 Während die Fleischreste entsorgt und später außerhalb des Museums fachgerecht verbrannt wurden, wurde die Vogelhaut mit Wasser, Supralan und Shampoo mehrmals gewaschen und anschließend bis zum Gerbungstermin in einer Plastiktüte erneut im Gefrierschrank aufbewahrt.[7] 
 ![Nahaufnahme einer blauen, halb mit einer durchsichtigen Flüssigkeit gefüllten Schüssel, in welcher der tote Körper eines Vogels schwimmt. Auf der Wasseroberfläche schwimmt teilweise weißer Schaum. Ein dünner Gummischlauch ragt rechts oben in die Schüssel hinein, ohne das Wasser zu berühren.](images/mv/jendaya-f.jpg)
