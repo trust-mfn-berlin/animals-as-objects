@@ -7,7 +7,7 @@ short_desc_de: Materialien des Modellbaus
 date_end: 2021-08-26T13:04:38.748Z
 published: false
 title: SOMSO-Plast – Plastic Animal Models
-updated: 1640888782110
+updated: 1640888847804
 id: EjCkhWUz4D4DXc9ANY8bc
 translators:
   translator_de_en: Lydia J. White
@@ -24,7 +24,7 @@ date_start: 1929-12-31T23:00:00.000Z
 
  <figure>
 
-![des](/vault/images/guests/kartoffelkaefer-zool-lehrsammlung-vorne.jpg)
+![des](/images/guests/kartoffelkaefer-zool-lehrsammlung-vorne.jpg)
 
 <figcaption>
 
@@ -48,7 +48,7 @@ SOMSO-Plast increasingly replaced papier mâché and plaster as materials. **The
 
 <figure>
 
-![des](/vault/images/guests/kartoffelkaefer-zool-lehrsammlung-vorne.jpg)
+![des](/images/guests/kartoffelkaefer-zool-lehrsammlung-vorne.jpg)
 
 <figcaption>
 
