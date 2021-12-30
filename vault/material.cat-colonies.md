@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Cat Colonies
 title_de: "Katzen-Kolonien "
 created: 1640359483672
-updated: 1640364002123
+updated: 1640888598191
 id: fhaeI85XK03VOoIUROfG9
 author: Anne Hoffmann
 translators:
@@ -37,7 +37,7 @@ _Feeding station at Katzenschutz-AG in Berlin Pankow. Strays are fed in the trap
 
 <sound file="/audio/Audiobeitrag_Hoffmann.mp3">_Cat Colonies_ by Anne Hoffmann</sound>
 
-An audio piece from the project seminar "Animal Topographies" held at the Institute for Cultural Studies at Humboldt-Universität zu Berlin and run by Britta Lange and Mareike Vennen (summer semester 2021). 
+An audio piece from the project seminar “Animal Topographies” held at the Institute for Cultural Studies at Humboldt-Universität zu Berlin and run by Britta Lange and Mareike Vennen (summer semester 2021). 
 
 Animal topographies are site-specific explorations that view places where animals have played a special role in the past or present: spaces where animals are kept, and places that they have occupied. The audio stories that can be heard here started with theoretical and historical examinations of urban animal topographies and different forms of movement, tracing historical and current routes. The auditive hunt for clues leads through Berlin sites both known and unknown, where it explores relationships between humans and animals.
 
@@ -61,7 +61,7 @@ _Futterstelle der Katzenschutz-AG in Berlin Pankow. Die Streuner werden in der F
 
 <sound file="/audio/Audiobeitrag_Hoffmann.mp3">_Katzen-Kolonien_ von Anne Hoffmann</sound>
 
-Ein Hörstück aus dem Projektseminar "Tier-Topografien" am Institut für Kulturwissenschaft der Humboldt-Universität zu Berlin unter der Leitung von Britta Lange und Mareike Vennen (Sommersemester 2021). 
+Ein Hörstück aus dem Projektseminar “Tier-Topografien” am Institut für Kulturwissenschaft der Humboldt-Universität zu Berlin unter der Leitung von Britta Lange und Mareike Vennen (Sommersemester 2021). 
 
 Tier-Topografien sind ortsspezifische Erkundungen: Perspektiven auf Orte, an denen Tiere eine besondere Rolle spielen, in der Geschichte oder in der Gegenwart. Räume, in denen sich Tiere aufhalten, an die sie gebracht werden, sowie solche, die sie einnehmen. Ausgangspunkt der hier zu hörenden Audiogeschichte ist eine theoretische und historische Auseinandersetzung mit urbanen Tier-Topografien und verschiedenen Formen der Bewegung entlang historischer Spuren und aktueller Wegstrecken. Die auditive Spurensuche führt an bekannte und unbekannte Orte in Berlin und erkundet an diesen die Beziehungen zwischen Menschen und Tieren.
 

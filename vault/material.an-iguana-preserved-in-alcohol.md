@@ -3,7 +3,7 @@ license: CC BY-SA
 title: An Iguana Preserved in Alcohol
 title_de: Leguan in Weingeist
 created: 1640357199143
-updated: 1640357640145
+updated: 1640886572560
 id: 2I4UEzZOAUqyavSEDIFs8
 author: Mareike Vennen
 translators:
@@ -35,7 +35,7 @@ _Notebook of the animal preparator Friedrich Beyer at the Berlin Zoological Muse
 
 </figure>
 
-On September 11, 1844, Friedrich Beyer, animal preparator at the Berlin Zoological Museum, recorded in his [[notebook|material.logbooks-of-the-zoological-museum]] the arrival of a green _Iguana tuberculata_ (now _Iguana iguana_) from the Zoological Garden, which had been "imported live by the traveller Mr. R. Schomburgk". 
+On September 11, 1844, Friedrich Beyer, animal preparator at the Berlin Zoological Museum, recorded in his [[notebook|material.logbooks-of-the-zoological-museum]] the arrival of a green _Iguana tuberculata_ (now _Iguana iguana_) from the Zoological Garden, which had been “imported live by the traveller Mr. R. Schomburgk”. 
 
 In fact, the botanist Schomburgk had spent nearly four years travelling through the former colony of British Guyana to collect specimens [[story.from-pests-to-displays]]. On his journey, he had sent back numerous crates filled with dried plants, skeletons, and animals preserved in alcohol to the Zoological Museum and the Botanical Garden in Berlin. But when he heard that a zoo would soon open in the city, he also began collecting animals for the Zoological Garden.
 
@@ -59,7 +59,7 @@ _Notizbuch des Tierpräparators Friedrich Beyer am Zoologischen Museum in Berlin
 
 </figure>
 
-Am 11. September 1844 verzeichnete Friedrich Beyer, Tierpräparator am Berliner Zoologischen Museum, in seinem [[Notizbuch|material.logbooks-of-the-zoological-museum]] den Eingang eines Grünen Leguan _Iguana tuberculata_ (heute _Iguana iguana_) aus dem Zoologischen Garten, "lebend mitgebracht von dem Reisenden [H]errn R. Schomburgk". 
+Am 11. September 1844 verzeichnete Friedrich Beyer, Tierpräparator am Berliner Zoologischen Museum, in seinem [[Notizbuch|material.logbooks-of-the-zoological-museum]] den Eingang eines Grünen Leguan _Iguana tuberculata_ (heute _Iguana iguana_) aus dem Zoologischen Garten, “lebend mitgebracht von dem Reisenden [H]errn R. Schomburgk”. 
 
 Eigentlich war der Botaniker Schomburgk auf einer mehrjährigen Sammelreise in der damaligen Kolonie Britisch Guyana unterwegs, um naturkundliche Objekte zu sammeln [[story.from-pests-to-displays]]. Im Laufe der Reise schickte er zahlreiche Kisten mit getrockneten Pflanzen, Skeletten und in Weingeist eingelegten Tieren an das Zoologische Museum und den Botanischen Garten in Berlin. Nachdem er aber von der anstehenden Eröffnung eines Zoos in der Stadt gehört hatte, begann er, auch lebende Tiere für den Zoologischen Garten zu sammeln.
 
