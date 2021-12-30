@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1640876684428
+updated: 1640885808520
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 translators:
@@ -39,7 +39,7 @@ Content Warning: The following text and video contain explicit pictures of prepa
 
 In autumn 2020 and spring 2021, our team observed and documented the preparation of a bird study skin at the Museum für Naturkunde Berlin. The bird in question was a male Jendaya parakeet (_Aratinga jandaya_) that had hatched on 13 June 2006 at Berlin Tierpark and had been sent from the Tierpark to the Berlin Natural History Museum after its death on 29 August 2020.[^1]
 
-As our project investigates how zoo animals become collection items in natural history museums, recording this transformation seemed key, since it is a large part of making animals into objects in zoological collections. In order to do this, we visited preparator Christin Scheinpflug in her workshop over several months to track her work on this bird[^2]. Once the preparation was done, we were also able to look over the shoulder of collection caretaker Pascal Eckhoff as he entered information about the study skin into the database and registered it, officially making it part of the Bird Collection. 
+As our project investigates how zoo animals become collection items in natural history museums, recording this transformation seemed key, since it is a large part of making animals into objects in zoological collections. In order to do this, we visited preparator Christin Scheinpflug in her workshop over several months to track her work on this bird.[^2] Once the preparation was done, we were also able to look over the shoulder of collection caretaker Pascal Eckhoff as he entered information about the study skin into the database and registered it, officially making it part of the Bird Collection. 
 
 Whether Tierpark and Zoo animals are sent to the Museum für Naturkunde depends on a number of issues, like what kind of animals they are, which species they represent, whether the collection already has specimens of that species in good conditions, and how rare the species is. How well-preserved an animal's body is can also be crucial for deciding whether it will be prepared as a specimen, and how it will be stored at the Museum – whether as a skeleton or a study skin (with a partial skeleton) for the scientific collection, or as a taxidermy piece in the exhibition. 
 
@@ -312,7 +312,7 @@ Content-Warnung: Der folgende Text und das Video enthalten Bilder von der Präpa
 
 Im Herbst 2020 und im Frühjahr 2021 haben wir, Filippo Bertoni und Mareike Vennen, die Präparation eines Vogelbalgs im Museum für Naturkunde Berlin miterlebt und dokumentiert. Es handelt sich um einen männlichen, ausgewachsenen Jendayasittich (_Aratinga jandaya_), der am 13. Juni 2006 im Berliner Tierpark schlüpfte und den der Tierpark nach seinem Tod am 29. August 2020 in das Naturkundemuseum überstellte.[^1] 
 
-In unserem Projekt untersuchen wir, wie Zootiere in Naturkundemuseen zu Sammlungsobjekten werden und haben dafür die einzelnen Schritte dieser Transformation im Museum gefilmt. Zunächst haben wir die Präparatorin Christin Scheinpflug mehrmals in der Werkstatt besucht [^2]; anschließend konnten wir dem Sammlungspfleger Pascal Eckhoff bei der Erfassung des Vogelbalgs in der Datenbank und der Aufnahme in die ornithologische Sammlung über die Schulter schauen. 
+In unserem Projekt untersuchen wir, wie Zootiere in Naturkundemuseen zu Sammlungsobjekten werden und haben dafür die einzelnen Schritte dieser Transformation im Museum gefilmt. Zunächst haben wir die Präparatorin Christin Scheinpflug mehrmals in der Werkstatt besucht;[^2] anschließend konnten wir dem Sammlungspfleger Pascal Eckhoff bei der Erfassung des Vogelbalgs in der Datenbank und der Aufnahme in die ornithologische Sammlung über die Schulter schauen. 
 
 Ob Tiere aus dem Tierpark oder Zoo in die Sammlung des Museums für Naturkunde eingehen, hängt zum einen davon ab, was es für Tiere sind, welcher Art sie angehören, ob es bereits Exemplare der Art in der Sammlung gibt und wie selten die Art ist. Auch die Frage, wie intakt der Tierkörper ist, kann entscheidend dafür sein, ob ein Tier präpariert wird und wie es im Museum aufbewahrt wird – als Skelett oder Balg (mit Teilskelett) für die wissenschaftliche Sammlung oder als aufgestelltes Objekt in der Ausstellung. 
 
