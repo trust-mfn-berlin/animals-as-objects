@@ -7,7 +7,7 @@ short_desc_de: Software zur Koordination von Zootierhaltungen
 date_end: 2021-12-25T19:31:46.616Z
 published: false
 title: Species360
-updated: 1640713565287
+updated: 1640889054227
 id: 690683a5-6845-4c80-bb3b-5771881bdca6
 translators:
   translator_de_en: ""
@@ -38,7 +38,7 @@ _Species360 consolidates the functions of ZIMS, the web-based Zoological Informa
 
 </figure>
 
-Thousands of animals around the world live in zoos that describe themselves as operating and being managed on a scientific basis. These zoos usually belong to one or more national and international zoo associations. Berlin’s zoos, for instance, are members of the Association of German Zoos (VdZ) and the European Association of Zoos and Aquaria (EAZA). There are also regional associations of zoos in Africa; North, Central, and South America; East and Southeast Asia; as well as the national zoo associations represented within them. These are brought together under the umbrella organization of the World Association of Zoos and Aquariums (WAZA). **All of these zoos can cooperate within jointly planned conservation breeding programs, and also exchange animals among themselves.** For more on this, see [[theme.how-do-animals-end-up-in-the-zoo]].
+Thousands of animals around the world live in zoos that describe themselves as operating and being managed on a scientific basis. These zoos usually belong to one or more national and international zoo associations. Berlin's zoos, for instance, are members of the Association of German Zoos (VdZ) and the European Association of Zoos and Aquaria (EAZA). There are also regional associations of zoos in Africa; North, Central, and South America; East and Southeast Asia; as well as the national zoo associations represented within them. These are brought together under the umbrella organization of the World Association of Zoos and Aquariums (WAZA). **All of these zoos can cooperate within jointly planned conservation breeding programs, and also exchange animals among themselves.** For more on this, see [[theme.how-do-animals-end-up-in-the-zoo]].
 
 To be able to do this, zoos require large quantities of data concerning an animal's origins and its life in captivity. What are the animal's antecedents? How old is the animal, and what is the state of its health? Curators and breeding coordinators use this information to decide which animals are allowed to mate with which, and which fit into breeding programs. **Their aim is to maintain a genetically diverse zoo population, and to avoid inbreeding and hereditary diseases.** Nowadays, most zoos use software for this purpose. The beginnings of such breeding coordination were more modest, however.
 
