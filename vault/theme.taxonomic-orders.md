@@ -7,7 +7,7 @@ desc: |-
   biological taxonomy was neither stable nor universal, controversies frequently
   emerged. Classifications still continue to change today – and they have
   lasting impacts on our world.
-updated: 1640887889607
+updated: 1640888851787
 created: 1618491191119
 license: CC BY-SA
 title_de: Taxonomische Ordnung
@@ -175,7 +175,7 @@ Wie alle Klassifikationssysteme bringen auch biologische Taxonomien Machtverhäl
 
 [^8]: Siehe "An Introduction to Cladistics". _Journey into Phylogenetic Systematics_, 1996, https://ucmp.berkeley.edu/clad/clad1.html (01.07.2021); Wheeler, Q., L. Assis, und O. Rieppel. "Heed the father of cladistics". _Nature_ 496 (2013): 295–296. https://doi.org/10.1038/496295a.
 
-[^9]: Zur Bedeutung von Datenbanken, Digitalisierung und Daten siehe: [[theme.recording-worlds]]. Oder siehe Leonelli, Sabina, and Niccolò Tempini. _Data journeys in the sciences_. Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-37177-7.
+[^9]: Zur Bedeutung von Datenbanken, Digitalisierung und Daten siehe [[theme.recording-worlds]]. Oder siehe Leonelli, Sabina und Niccolò Tempini. _Data journeys in the sciences_. Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-37177-7.
 
 [^10]: Ein Beispiel für die Digitalisierung taxonomischen Fachwissens ist die [[material.nsb-database]].
 

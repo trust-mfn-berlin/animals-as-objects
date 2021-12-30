@@ -7,13 +7,13 @@ short_desc_de: Tiere im Besitz des Berliner Zoos 1920-1945
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: The Steinmetz Index
-updated: 1640461525806
+updated: 1640890206256
 id: 2a309087-f165-4def-9c60-d835c7218077
 translators:
   translator_de_en: ""
-desc: Berlin Zoo’s animal population 1920–1945
+desc: Berlin Zoo's animal population 1920–1945
 desc_de: Tiere im Besitz des Berliner Zoos 1920-1945
-short_desc: Berlin Zoo’s animal population 1920–1945
+short_desc: Berlin Zoo's animal population 1920–1945
 cover_image:
   image: /images/cover-steinmetz-kartei-index.jpg
   alt: "Steinmetz index card for the Berlin zoo's pygmy hippos, around 1935.
@@ -44,7 +44,7 @@ Notably, the recorded departures indicate that individual animals were exchanged
 
 This index was probably created by the zoologist Hermann Steinmetz (1898–1954), who worked as a senior assistant at Berlin Zoo in the 1930s. In the last days of the Battle of Berlin, he fled the city with zoo director [[Lutz Heck|story.the-zoo-and-national-socialism]]. Steinmetz was the first director of the Ruhr Zoo in Gelsenkirchen from 1948 onwards.
 
-During his time at Berlin Zoo, Steinmetz kept this index, which zoo staff subsequently dubbed the Steinmetz Index. The index sometimes contains more detailed information on individual animals than the annual zoo inventory kept in the [[Journale|material.journale-the-zoo-directory]] since the 1880s, for example on the reasons for an animal’s departure, whether through exchange, sale, or death, and whether a new arrival was in the form of a gift, purchase, or birth.
+During his time at Berlin Zoo, Steinmetz kept this index, which zoo staff subsequently dubbed the Steinmetz Index. The index sometimes contains more detailed information on individual animals than the annual zoo inventory kept in the [[Journale|material.journale-the-zoo-directory]] since the 1880s, for example on the reasons for an animal's departure, whether through exchange, sale, or death, and whether a new arrival was in the form of a gift, purchase, or birth.
 
 **Because individual cards consolidate information spanning several years, the index provides zoologists at the zoo and external researchers with a real advantage, as it makes it possible to trace how long each individual animal had been kept at the zoo and its lifespan.** The card index was not maintained after Hermann Steinmetz left, and thus represents only a snippet of Berlin Zoo's 175-year history.
 

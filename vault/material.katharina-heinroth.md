@@ -7,7 +7,7 @@ short_desc_de: Foto von Katharina Heinroth auf der morgendlichen Runde durch den
 date_end: 1955-12-31T11:00:00.000Z
 published: false
 title: Katharina Heinroth
-updated: 1640714387248
+updated: 1640889542156
 id: f2e04dbc-1209-40b6-baf5-599fd36e63c7
 translators:
   translator_de_en: ""
@@ -35,7 +35,7 @@ date_start: 1944-12-31T23:00:00.000Z
 
 <figcaption>
 
-_Katharina Heinroth with her Newfoundland "Ajax" and four co-workers on their morning rounds at Berlin Zoo, 1946. (AZGB, image Liselotte Orgel. All rights reserved.)_
+_Katharina Heinroth with her Newfoundland "Ajax" and four co-workers on their morning rounds at Berlin Zoo, 1946. (AZGB, image: Liselotte Orgel. All rights reserved.)_
 
 </figcaption>
 
@@ -45,7 +45,7 @@ Katharina Heinroth (née Berger, 1897–1989) was the Berlin Zoological Garden's
 
 Katharina Berger completed a degree in education before going on to study zoology, botany, geography, and geology in Breslau. She earned her doctorate summa cum laude in 1923, with a dissertation on reptilian hearing. In 1933, she married the widowed director of the Berlin Aquarium [[material.oskar-heinroth]], with whom she continued the research on bird life cycles and behavior that he had previously conducted with his first wife [[material.magdalena-heinroth]]. Much of their research was done in the apartment they shared at the Berlin Aquarium.
 
-After zoo director Lutz Heck fled Berlin at the end of May 1945, Katharina Heinroth and the remaining staff looked after what was left of Berlin Zoo. In August 1945, the city administration finally appointed her the zoo’s director. **Katharina Heinroth successfully led the reconstruction of Berlin Zoo during times of great scarcity and much political uncertainty**, see also [[story.feed-scarcity]]. The only woman at the helm of a German zoo, she still managed to assert herself despite the male-dominated government bodies, the British command of the occupied sector, and her predominantly male staff (see image). Eventually, however, the supervisory board of the Zoological Garden's stock association forced her into retirement in 1955. For more than 30 years, she continued to carry out research and work as a lecturer at the Technische Universität Berlin (TU Berlin). She published numerous books and articles, particularly in ornithological journals.
+After zoo director Lutz Heck fled Berlin at the end of May 1945, Katharina Heinroth and the remaining staff looked after what was left of Berlin Zoo. In August 1945, the city administration finally appointed her the zoo's director. **Katharina Heinroth successfully led the reconstruction of Berlin Zoo during times of great scarcity and much political uncertainty**, see also [[story.feed-scarcity]]. The only woman at the helm of a German zoo, she still managed to assert herself despite the male-dominated government bodies, the British command of the occupied sector, and her predominantly male staff (see image). Eventually, however, the supervisory board of the Zoological Garden's stock association forced her into retirement in 1955. For more than 30 years, she continued to carry out research and work as a lecturer at the Technische Universität Berlin (TU Berlin). She published numerous books and articles, particularly in ornithological journals.
 
 :::DE:::
 
@@ -55,7 +55,7 @@ After zoo director Lutz Heck fled Berlin at the end of May 1945, Katharina Heinr
 
 <figcaption>
 
-_Katharina Heinroth mit ihrem Neufundländer "Ajax" und vier ihrer Mitarbeiter auf der Morgenrunde durch den Berliner Zoo, 1946. (AZGB, Foto Liselotte Orgel. Alle Rechte vorbehalten.)_
+_Katharina Heinroth mit ihrem Neufundländer "Ajax" und vier ihrer Mitarbeiter auf der Morgenrunde durch den Berliner Zoo, 1946. (AZGB, Foto: Liselotte Orgel. Alle Rechte vorbehalten.)_
 
 </figcaption>
 

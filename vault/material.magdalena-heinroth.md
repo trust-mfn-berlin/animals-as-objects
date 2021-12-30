@@ -7,7 +7,7 @@ short_desc_de: Foto von Magdalena Heinroth mit drei Dohlen
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Magdalena Heinroth
-updated: 1640716687403
+updated: 1640889820619
 id: 95617cbe-704d-46c1-b0b5-05d178ec363d
 translators:
   translator_de_en: ""
@@ -31,7 +31,7 @@ date_start: 1919-12-31T23:00:00.000Z
 
 <figcaption>
 
-_Magdalena Heinroth with three jackdaws she raised in her apartment, 1919. (AZGB, image O. Heinroth. All rights reserved.)_
+_Magdalena Heinroth with three jackdaws she raised in her apartment, 1919. (AZGB, image: O. Heinroth. All rights reserved.)_
 
 </figcaption>
 
@@ -51,7 +51,7 @@ Magdalena Heinroth (née Wiebe, 1883–1932) raised hundreds of native birds in 
 
 <figcaption>
 
-_Magdalena Heinroth mit drei Dohlen, die sie in ihrer Wohnung großzog, 1919. (AZGB, Foto O. Heinroth. Alle Rechte vorbehalten.)_
+_Magdalena Heinroth mit drei Dohlen, die sie in ihrer Wohnung großzog, 1919. (AZGB, Foto: O. Heinroth. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
