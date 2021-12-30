@@ -11,9 +11,9 @@ updated: 1640461525806
 id: 2a309087-f165-4def-9c60-d835c7218077
 translators:
   translator_de_en: ""
-desc: Berlin Zoo’s animal population 1920–1945
+desc: Berlin Zoo's animal population 1920–1945
 desc_de: Tiere im Besitz des Berliner Zoos 1920-1945
-short_desc: Berlin Zoo’s animal population 1920–1945
+short_desc: Berlin Zoo's animal population 1920–1945
 cover_image:
   image: /images/cover-steinmetz-kartei-index.jpg
   alt: "Steinmetz index card for the Berlin zoo's pygmy hippos, around 1935.
