@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Dead Animals
 title_de: Tote Tiere
 created: 1640359501899
-updated: 1640472117965
+updated: 1640898303543
 id: dUPcbo57C2AzuhMiUTwMS
 author: Eileen Klingner
 translators:
@@ -37,7 +37,7 @@ _Decorated grave of a pet at the animal cemetery. (Photo: Eileen Klingner. All r
 
 <sound file="/audio/Audiobeitrag_Klingner.mp3">_Dead Animals_ by Eileen Klingner</sound>
 
-An audio piece from the project seminar "Animal Topographies" held at the Institute for Cultural Studies at Humboldt-Universität zu Berlin and run by Britta Lange and Mareike Vennen (summer semester 2021). 
+An audio piece from the project seminar “Animal Topographies“ held at the Institute for Cultural Studies at Humboldt-Universität zu Berlin and run by Britta Lange and Mareike Vennen (summer semester 2021). 
 
 Animal topographies are site-specific explorations that view places where animals have played a special role in the past or present: spaces where animals have spent time, places to which they have been brought, and places that they have occupied. The audio stories that can be heard here start with theoretical and historical examinations of urban animal topographies and different forms of movement by looking at historical traces and current routes. The auditive hunt for clues leads through Berlin sites both known and unknown, where it explores relationships between humans and animals.
 
@@ -64,7 +64,7 @@ _Andenken an ein Haustier auf dem Tierfriedhof. (Foto: Eileen Klingner. Alle Rec
 
 <sound file="/audio/Audiobeitrag_Klingner.mp3">_Tote Tiere_ von Eileen Klingner</sound>
 
-Ein Hörstück aus dem Projektseminar "Tier-Topografien" am Institut für Kulturwissenschaft der Humboldt-Universität zu Berlin unter der Leitung von Britta Lange und Mareike Vennen (Sommersemester 2021). 
+Ein Hörstück aus dem Projektseminar “Tier-Topografien” am Institut für Kulturwissenschaft der Humboldt-Universität zu Berlin unter der Leitung von Britta Lange und Mareike Vennen (Sommersemester 2021). 
 
 Tier-Topografien sind ortsspezifische Erkundungen: Perspektiven auf Orte, an denen Tiere eine besondere Rolle spielen, in der Geschichte oder in der Gegenwart. Räume, in denen sich Tiere aufhalten, an die sie gebracht werden, sowie solche, die sie einnehmen. Ausgangspunkt der hier zu hörenden Audiogeschichte ist eine theoretische und historische Auseinandersetzung mit urbanen Tier-Topografien und verschiedenen Formen der Bewegung entlang historischer Spuren und aktueller Wegstrecken. Die auditive Spurensuche führt an bekannte und unbekannte Orte in Berlin und erkundet an diesen die Beziehungen zwischen Menschen und Tieren.
 

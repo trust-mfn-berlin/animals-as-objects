@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Face to Face with Zoo Animals
 title_de: Zootiere anfassen
 created: 1640354060660
-updated: 1640596994556
+updated: 1640898446956
 id: U1w3ckwyrdpQ2JzOLgTKo
 author: Mareike Vennen
 desc: The baby animal zoo
@@ -27,13 +27,13 @@ published: false
  
 <figcaption>
 
-_Picture from Berlin's "Baby animal zoo" around 1933. (AZGB. All rights reserved.)_
+_Picture from Berlin’s “Baby animal zoo” around 1933. (AZGB. All rights reserved.)_
  
 </figcaption>
 
 </figure>
 
-A cheetah surrounded by young goats, lambs, and piglets? An unusual sight. This photo from Berlin Zoo shows a phenomenon that no longer exists but that was extremely popular in the 1930s: the "baby animal zoo", Tierkinderzoo. Its successor, the petting zoo, can still be found in many zoos today. But does anyone today know that bear and lion cubs used to be kept there, too?
+A cheetah surrounded by young goats, lambs, and piglets? An unusual sight. This photo from Berlin Zoo shows a phenomenon that no longer exists but that was extremely popular in the 1930s: the “baby animal zoo”, Tierkinderzoo. Its successor, the petting zoo, can still be found in many zoos today. But does anyone today know that bear and lion cubs used to be kept there, too?
  
 In summer 1931, the zoo organised its first special show with juvenile animals. What made it so special was that the fenced-in facility, which visitors had to pay entry to visit, was occupied not just by the juveniles of native domestic breeds but also by little predators from Europe and Africa that visitors could feed, pat, pull onto their laps, and [[even bottle feed|story.photos-with-lion-cubs]]. 
  
@@ -49,7 +49,7 @@ _The_ Funkwoche Berlin _presents feeding exercises with a bear cub at Berlin Zoo
 
 </figure>
 
-What now seems perplexing, dangerous, and not very species-appropriate, was such a big hit back then that there were even shortages in the supply of young lions, tigers, and leopards.[^1] This was because other zoos soon wanted to offer their visitors similar attractions as well. "The great lion petting at the zoo", announced the _Leipziger Tageszeitung_ newspaper on 8 November 1935.[^2] At Stellingen Zoo, the zoo director also saw how much young visitors loved cuddling and petting lion cubs.[^3] Demand for young animals remained high as they would be much too big by the next summer and [[would have to be replaced|story.photos-with-lion-cubs]]. Predator babies were thus coveted on the market and came with a corresponding price tag[^4]. Zoos therefore took what they could get: "As we have already discussed, exotic bears could be taken instead of the young predators in the meantime and could perhaps later be exchanged for young predators"[^5], wrote the animal trader who supplied Berlin Zoo with young predators to its director. 
+What now seems perplexing, dangerous, and not very species-appropriate, was such a big hit back then that there were even shortages in the supply of young lions, tigers, and leopards.[^1] This was because other zoos soon wanted to offer their visitors similar attractions as well. “The great lion petting at the zoo”, announced the _Leipziger Tageszeitung_ newspaper on 8 November 1935.[^2] At Stellingen Zoo, the zoo director also saw how much young visitors loved cuddling and petting lion cubs.[^3] Demand for young animals remained high as they would be much too big by the next summer and [[would have to be replaced|story.photos-with-lion-cubs]]. Predator babies were thus coveted on the market and came with a corresponding price tag[^4]. Zoos therefore took what they could get: “As we have already discussed, exotic bears could be taken instead of the young predators in the meantime and could perhaps later be exchanged for young predators”[^5], wrote the animal trader who supplied Berlin Zoo with young predators to its director. 
  
 <figure>
 
@@ -57,13 +57,13 @@ What now seems perplexing, dangerous, and not very species-appropriate, was such
  
 <figcaption>
 
-_Picture of the "Baby Animal Zoo" from 1936. (AZGB. All rights reserved.)_
+_Picture of the “Baby Animal Zoo” from 1936. (AZGB. All rights reserved.)_
  
 </figcaption>
 
 </figure>
 
-The "baby animal zoo" at Berlin Zoo was so popular that the zoo repeated it many more times. The encounter between lamb and cheetah in the picture shown at the beginning was thus no coincidence. Nor were meetings between lambs, cheetah cubs, and human children. Predators are no longer kept together with domestic animals like sheep or goats in Berlin or at any other German zoos. What has remained are petting zoos with domestic animals. They do not provide human children with any opportunities to directly interact with juvenile predators, but this does not just benefit the animals but also prevents the image being conveyed of predator babies as stuffed toys.
+The “baby animal zoo” at Berlin Zoo was so popular that the zoo repeated it many more times. The encounter between lamb and cheetah in the picture shown at the beginning was thus no coincidence. Nor were meetings between lambs, cheetah cubs, and human children. Predators are no longer kept together with domestic animals like sheep or goats in Berlin or at any other German zoos. What has remained are petting zoos with domestic animals. They do not provide human children with any opportunities to directly interact with juvenile predators, but this does not just benefit the animals but also prevents the image being conveyed of predator babies as stuffed toys.
  
 <figure>
 
@@ -79,9 +79,9 @@ _No restraint between human child and young predator, as the_ Heidelberger Tageb
  
 [^1]: Correspondence and advertising materials for the baby animal zoo, 1931–1934 in AZGB, O 0/1/61, 138 und 201; L. Ruhe to Berlin Zoo Berlin, 03.02.1931, AZGB O 3/2/1.
  
-[^2]: "Großes Löwenstreicheln im Zoo." _Leipziger Tageszeitung_ 08.11.1935.
+[^2]: “Großes Löwenstreicheln im Zoo.” _Leipziger Tageszeitung_ 08.11.1935.
  
-[^3]: Zukowsky, Hildegard. "Löwenprinzchen." _CHITuMW_, no. 6, 1 (1926): 132-134, quoted in: Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945._ Bielefeld: transcript, 2015: 291.
+[^3]: Zukowsky, Hildegard. “Löwenprinzchen.” _CHITuMW_, no. 6, 1 (1926): 132-134, quoted in: Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945._ Bielefeld: transcript, 2015: 291.
  
 [^4]: The zoo itself would not have had nearly enough animals to supply the children's zoo. The zoo shared the earnings with the animal dealer. 
  
@@ -103,7 +103,7 @@ _Bild aus dem Berliner „Tierkinderzoo“ um 1933. (AZGB. Alle Rechte vorbehalt
 
 </figure>
 
-Ein Gepard umringt von jungen Ziegen, Lämmern und Ferkeln? Ein ungewöhnliches Bild. Das Foto aus dem Zoo Berlin zeigt ein Phänomen, das es so schon lange nicht mehr gibt, aber in den 1930er-Jahren äußerst populär war: den "Tierkinderzoo". Die nachfolgende Einrichtung, der Streichelzoo, findet sich bis heute in vielen Tiergärten. Aber wer weiß noch, dass dort früher auch Bärenjunge und Löwenbabys gehalten wurden?
+Ein Gepard umringt von jungen Ziegen, Lämmern und Ferkeln? Ein ungewöhnliches Bild. Das Foto aus dem Zoo Berlin zeigt ein Phänomen, das es so schon lange nicht mehr gibt, aber in den 1930er-Jahren äußerst populär war: den “Tierkinderzoo”. Die nachfolgende Einrichtung, der Streichelzoo, findet sich bis heute in vielen Tiergärten. Aber wer weiß noch, dass dort früher auch Bärenjunge und Löwenbabys gehalten wurden?
  
 Im Sommer 1931 organisierte der Zoo zum ersten Mal eine Sonderschau mit Jungtieren. Das Besondere: Besetzt war die eingezäunte Anlage, für die man Eintritt bezahlen musste, nicht nur mit Jungtieren heimischer Haustierrassen, sondern auch mit kleinen Raubtieren aus Europa und Afrika, die man alle füttern, streicheln, auf den Schoß nehmen und sogar [[mit der Flasche füttern konnte|story.photos-with-lion-cubs]].
  
@@ -119,7 +119,7 @@ _Die_ Funkwoche Berlin _zeigt die Fütterungsübungen mit Bärenbaby im Berliner
 
 </figure>
 
-Was heute als irritierend, gefährlich und wenig artgerecht erscheint, war damals ein so großer Erfolg, dass es bisweilen zu Engpässen bei der Lieferung junger Löwen, Tiger und Leoparden kam.[^1] Auch weil schon bald weitere Zoos ihren Besucher:innen ähnliche Attraktionen bieten wollten. "Großes Löwenstreicheln im Zoo" kündigte die _Leipziger Tageszeitung_ am 8. November 1935 an[^2] und im Stellinger Tierpark beobachtete der Zoodirektor, wie gern die Besucher:innen junge Löwen auf den Arm nahmen und streichelten.[^3] Der Bedarf an Jungtieren blieb aber auch deshalb hoch, da die Jungtiere im nächsten Sommer längst zu groß geworden waren und [[ersetzt werden mussten|story.photos-with-lion-cubs]]. Raubtierbabys waren auf dem Markt entsprechend begehrt und teuer[^4]; man nahm daher, was man bekommen konnte: "Wie schon besprochen, könnten anstatt der jungen Raubtiere vorläufig exotische Bären genommen und diese evtl. später gegen junge Raubtiere ausgetauscht werden"[^5], ließ der Tierhändler Ruhe, der die Raubtierjungen für den Berliner Zoo lieferte, dessen Direktor wissen. 
+Was heute als irritierend, gefährlich und wenig artgerecht erscheint, war damals ein so großer Erfolg, dass es bisweilen zu Engpässen bei der Lieferung junger Löwen, Tiger und Leoparden kam.[^1] Auch weil schon bald weitere Zoos ihren Besucher:innen ähnliche Attraktionen bieten wollten. “Großes Löwenstreicheln im Zoo” kündigte die _Leipziger Tageszeitung_ am 8. November 1935 an[^2] und im Stellinger Tierpark beobachtete der Zoodirektor, wie gern die Besucher:innen junge Löwen auf den Arm nahmen und streichelten.[^3] Der Bedarf an Jungtieren blieb aber auch deshalb hoch, da die Jungtiere im nächsten Sommer längst zu groß geworden waren und [[ersetzt werden mussten|story.photos-with-lion-cubs]]. Raubtierbabys waren auf dem Markt entsprechend begehrt und teuer[^4]; man nahm daher, was man bekommen konnte: “Wie schon besprochen, könnten anstatt der jungen Raubtiere vorläufig exotische Bären genommen und diese evtl. später gegen junge Raubtiere ausgetauscht werden”,[^5] ließ der Tierhändler Ruhe, der die Raubtierjungen für den Berliner Zoo lieferte, dessen Direktor wissen. 
  
 <figure>
 
@@ -133,7 +133,7 @@ _Bild des 'Tierkinderzoos' von 1936. (AZGB. Alle Rechte vorbehalten.)_
 
 </figure>
 
-Der "Tierkinderzoo" im Berliner Garten war so beliebt, dass der Zoo sie mehrfach wiederholte. Das Zusammentreffen von Lamm und Gepard in der eingangs gezeigten Aufnahme war also kein Versehen. Ebenso wenig wie das Zusammentreffen von Lamm, jungem Gepard und Menschenkindern. Heute werden dagegen weder in Berlin noch in anderen deutschen Zoos Raubtiere in dieser Form ausgestellt oder mit Haustieren wie Schafen oder Ziegen zusammen gehalten. Geblieben sind die Streichelzoos mit Haustieren. Sie bieten zwar keinen direkten Kontakt zwischen Menschenkind und Raubtierjungem, doch das kommt nicht nur den Tieren zugute, sondern vermittelt auch nicht mehr das Bild von Raubtierbabys als Kuscheltieren.
+Der “Tierkinderzoo” im Berliner Garten war so beliebt, dass der Zoo sie mehrfach wiederholte. Das Zusammentreffen von Lamm und Gepard in der eingangs gezeigten Aufnahme war also kein Versehen. Ebenso wenig wie das Zusammentreffen von Lamm, jungem Gepard und Menschenkindern. Heute werden dagegen weder in Berlin noch in anderen deutschen Zoos Raubtiere in dieser Form ausgestellt oder mit Haustieren wie Schafen oder Ziegen zusammen gehalten. Geblieben sind die Streichelzoos mit Haustieren. Sie bieten zwar keinen direkten Kontakt zwischen Menschenkind und Raubtierjungem, doch das kommt nicht nur den Tieren zugute, sondern vermittelt auch nicht mehr das Bild von Raubtierbabys als Kuscheltieren.
  
 <figure>
 
@@ -149,9 +149,9 @@ _Keine Berührungsängste zwischen Menschenkind und Raubtierjungen, wie das_ Hei
  
 [^1]: Schriftwechsel und Werbematerialien zum Tierkinderzoo in den Jahren 1931-1934, AZGB, O 0/1/61, 138 und 201; L. Ruhe an den Zoo Berlin, 03.02.1931, AZGB O 3/2/1.
  
-[^2]: "Großes Löwenstreicheln im Zoo." _Leipziger Tageszeitung_ 08.11.1935.
+[^2]: “Großes Löwenstreicheln im Zoo”. _Leipziger Tageszeitung_ 08.11.1935.
  
-[^3]: Zukowsky, Hildegard. "Löwenprinzchen". _CHITuMW_, Nr. 6, 1 (1926): 132-134, zit. nach: Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945._ Bielefeld: transcript, 2015: 291.
+[^3]: Zukowsky, Hildegard. “Löwenprinzchen”. _CHITuMW_, Nr. 6, 1 (1926): 132-134, zit. nach: Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945._ Bielefeld: transcript, 2015: 291.
  
 [^4]: Der Zoo selbst hätte gar nicht ausreichend Jungtiere gehabt, um den Kinderzoo zu bestücken. Der Zoo teilte sich die Einnahmen mit der Tierhandelsfirma. 
  

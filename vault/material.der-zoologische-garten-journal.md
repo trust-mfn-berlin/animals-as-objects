@@ -7,7 +7,7 @@ short_desc_de: Wissenschaftlicher Austausch zwischen Zoos
 date_end: 2021-07-06T11:19:57.448Z
 published: false
 title: Der Zoologische Garten (journal)
-updated: 1640880001221
+updated: 1640898327801
 id: cdaa8a05-6456-4b87-a663-c755790440d3
 translators:
   translator_de_en: ""
@@ -49,7 +49,7 @@ Zoo managers in Germany and around the world have always depended on exchanging 
 
 This was particularly the case during the second half of the 19th century when many zoos were being established. At the time, knowledge about proper housing conditions and the correct way to feed zoo animals was very limited. Often the first order of business was to determine the species of the incoming animal. **It was very important for the small circle of zoo directors — at the time all of them still male — to have the benefit of exchanging observations and tips on successful animal husbandry practices, i.e., those which prolonged the lives of the animals.**
 
-Consequently, in 1859, the recently established zoo in Frankfurt am Main began publishing a journal called _Der Zoologische Garten_. In 1888, they added the subtitle "Mouthpiece of the Zoological Gardens of Germany". The journal was primarily concerned with zoo animal husbandry, rather than with scientific research.
+Consequently, in 1859, the recently established zoo in Frankfurt am Main began publishing a journal called _Der Zoologische Garten_. In 1888, they added the subtitle “Mouthpiece of the Zoological Gardens of Germany”. The journal was primarily concerned with zoo animal husbandry, rather than with scientific research.
 
 From the 1950s, the journal became the representative platform of the Association of German Zoo Directors/Association of Zoological Gardens, as well as of the World Association of Zoos and Aquariums. After being discontinued again in 2018, the journal was relaunched in 2019, and has since served as the mouthpiece for both associations, under the title _Der Zoologischer Garten. Zeitschrift für die gesamte Tiergärtnerei_.
 
@@ -81,7 +81,7 @@ Die Leitungsebenen von Zoos in Deutschland und der ganzen Welt waren und sind au
 
 Das war insbesondere in der Hochzeit der Zoogründungen in der zweiten Hälfte des 19. Jahrhunderts der Fall. Damals war das Wissen um richtige Haltungsbedingungen und das richtige Füttern von Zootieren sehr klein. Oft musste zuallererst einmal die Art der eintreffenden Tiere bestimmt werden. **Der Austausch von Beobachtungen und Hinweisen auf erfolgreiche, also langjährige, Haltungen und Praktiken war für den kleinen Kreis der, damals noch ausschließlich männlichen, Zoodirektoren sehr wichtig.**
 
-1859 gab daher der noch junge Zoo in Frankfurt am Main eine Zeitschrift namens _Der Zoologische Garten_ heraus. 1888 wurde der Untertitel "Organ der Zoologischen Gärten Deutschlands" hinzugefügt. Mehr als um Wissenschaft ging es vor allem um Praktiken der Zootierhaltung.
+1859 gab daher der noch junge Zoo in Frankfurt am Main eine Zeitschrift namens _Der Zoologische Garten_ heraus. 1888 wurde der Untertitel “Organ der Zoologischen Gärten Deutschlands” hinzugefügt. Mehr als um Wissenschaft ging es vor allem um Praktiken der Zootierhaltung.
 
 Nach dem Zweiten Weltkrieg erschien _Der Zoologische Garten_ unter der Herausgeberschaft des Leipziger Zoos. Ab den 1950er Jahren wurde die Zeitschrift das Fachorgan für den Verband deutscher Zoodirektoren/ Verband der Zoologischen Gärten sowie für den internationalen Verband World Association of Zoos and Aquariums. Nach erneuter Einstellung 2018 wird sie seit 2019 als _Der Zoologischer Garten. Zeitschrift für die gesamte Tiergärtnerei_ wieder als das Organ beider Verbände veröffentlicht.
 

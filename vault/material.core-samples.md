@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Core Samples
 title_de: Kernproben
 created: 1629110227049
-updated: 1640634311218
+updated: 1640898265413
 id: 02wCHNiTRZ4Zkq2cO9Cpv
 author: Filippo Bertoni
 translators:
@@ -88,5 +88,5 @@ _Ein Video, das den Prozess der Entnahme und Analyse von Kernproben mittels [[ma
 
 [^1]: Auführlichere Informationen zu Bohrkernproben finden sich in den mineralogischen Sammlungen des Museums für Naturkunde Berlin: https://www.museumfuernaturkunde.berlin/en/science/geochemical-and-microanalytical-laboratories und https://www.museumfuernaturkunde.berlin/en/science/rock-and-ore-collection. 
 
-[^2]: Die Organisation von Forschungsprojekten in dieser Größenordnung ist kein leichtes Unterfangen. Soziopolitische Vereinbarungen sind nötig. Über die Gewinnung von Daten aus den Tiefen des Ozeans, siehe: Rosol, Christof. "Hauling data: Anthropocene analogues, paleoceanography and missing paradigm shifts". _Historical Social Research_ 40, no. 2 (2015): 37–66. https://doi.org/10.12759/hsr.40.2015.2.37-66.
+[^2]: Die Organisation von Forschungsprojekten in dieser Größenordnung ist kein leichtes Unterfangen. Soziopolitische Vereinbarungen sind nötig. Über die Gewinnung von Daten aus den Tiefen des Ozeans, siehe: Rosol, Christof. “Hauling data: Anthropocene analogues, paleoceanography and missing paradigm shifts”. _Historical Social Research_ 40, no. 2 (2015): 37–66. https://doi.org/10.12759/hsr.40.2015.2.37-66.
 

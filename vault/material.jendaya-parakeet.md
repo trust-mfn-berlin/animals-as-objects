@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1640886097839
+updated: 1640898697832
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 translators:
@@ -47,7 +47,7 @@ In this case, the museum decided to prepare a study skin and a partial skeleton.
 
 The fact that an additional partial skeleton was preserved resulted from the decision to prepare a study skin. The preparation of study skins and partial skeletons, at least in ornithology, constitute a common preservation type. Because important parts of the skeleton like the skull and fibula are built into the skin, original parts must be used. The curator therefore has to decide whether they will produce a complete skeleton or a study skin with a partial skeleton before they begin the preparation process. In our case, the bird's ribs had already been opened up during the first dissection to extract the organs, which didn’t take place at the museum. Moreover, some of the chest muscles had been removed. 
 
-After being dissected, the bird was immediately deep frozen and tagged with the letters "MFN" (Museum für Naturkunde Berlin). Between its arrival at the museum from the dissection lab and its preparation, the bird was stored in the freezer of the museum's preparation workshop – along with many other remains waiting to be prepared. The first step in the bird's scientific preparation took place in the dissection room of the Natural History Museum, where the animal's body was first thawed in a solution of salt and Supralan. After that, scientific data was collected, including data about the animal's dimensions, accession number, date of arrival, and chip number.[^5] The preparator entered this information into a data sheet. 
+After being dissected, the bird was immediately deep frozen and tagged with the letters “MFN“ (Museum für Naturkunde Berlin). Between its arrival at the museum from the dissection lab and its preparation, the bird was stored in the freezer of the museum's preparation workshop – along with many other remains waiting to be prepared. The first step in the bird's scientific preparation took place in the dissection room of the Natural History Museum, where the animal's body was first thawed in a solution of salt and Supralan. After that, scientific data was collected, including data about the animal's dimensions, accession number, date of arrival, and chip number.[^5] The preparator entered this information into a data sheet. 
 
 <figure>
 
@@ -100,7 +100,7 @@ _This is how the transponder is stored until it is placed back into the study sk
 
 </figure>
 
-In order to prepare the study skin, the preparator first has to remove the skin using a scalpel and a pair of scissors in order to separate it from the flesh tissue. Afterwards, the skin is mechanically cleaned of fascia and fat remains. The muscles and tendons are then removed from the remaining bone structures (fibulas, skull, shoulder and forearm) – this process is also referred to as cleaning or "defleshing". Removing the fat and fascia from the skin and defleshing the bones is an important part of the preparator's work, as the smell of fat and tissue remains attracts insects, which can ultimately damage the study skin in the collection by feeding on ill-prepared specimens.
+In order to prepare the study skin, the preparator first has to remove the skin using a scalpel and a pair of scissors in order to separate it from the flesh tissue. Afterwards, the skin is mechanically cleaned of fascia and fat remains. The muscles and tendons are then removed from the remaining bone structures (fibulas, skull, shoulder and forearm) – this process is also referred to as cleaning or “defleshing”. Removing the fat and fascia from the skin and defleshing the bones is an important part of the preparator's work, as the smell of fat and tissue remains attracts insects, which can ultimately damage the study skin in the collection by feeding on ill-prepared specimens.
 
 <figure>
 
@@ -206,7 +206,7 @@ _Blow-drying and arranging the feathers. (Images: Filippo Bertoni/MfN. All right
 
 </figure>
 
-In order to produce a partial skeleton, the original bird body now has to be completely "defleshed", but, unlike the skull bones, it will not be placed back inside the study skin. The defleshed bird body was then placed in a salt solution to "bleed" it. Due to the size of the bird's body, the preparator decided to clean the bones by enlisting the help of dermastid beetles. This meant placing the various parts of the skeleton into a container filled with dermestid beetles in a warming cabinet for several days.[^9] These scavenger beetles do not leave any tissue on the bones. 
+In order to produce a partial skeleton, the original bird body now has to be completely “defleshed”, but, unlike the skull bones, it will not be placed back inside the study skin. The defleshed bird body was then placed in a salt solution to “bleed” it. Due to the size of the bird's body, the preparator decided to clean the bones by enlisting the help of dermastid beetles. This meant placing the various parts of the skeleton into a container filled with dermestid beetles in a warming cabinet for several days.[^9] These scavenger beetles do not leave any tissue on the bones. 
 
 <figure>
 
@@ -278,7 +278,7 @@ _Storing and classifying the partial skeleton in the collection. (MfN, image: Ma
 
 [^2]: The various preparation steps often do not take place all at once, but with interruptions, meaning that the process can stretch out over several weeks or months. We would like to thank Christin Scheinpflug for letting us take part in the process, for answering our numerous questions, and for providing us with all information needed. 
 
-[^3]: Unlike a taxidermy, a study skin has the feathers, beak, legs, and feet attached to it and is pulled over an artificial replica of the animal's body. It can be stored in a drawer. In today's scientific collections, study skins are the main type of specimen used. On working in and with the Bird Collection at the Berlin Museum of Natural History, see Frahnert, Silke, M. Päckert, D. T. Tietze, and T. Töpfer. "Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie." _Vogelwarte_ 51, no. 3 (2013): 185–191. 
+[^3]: Unlike a taxidermy, a study skin has the feathers, beak, legs, and feet attached to it and is pulled over an artificial replica of the animal's body. It can be stored in a drawer. In today's scientific collections, study skins are the main type of specimen used. On working in and with the Bird Collection at the Berlin Museum of Natural History, see Frahnert, Silke, M. Päckert, D. T. Tietze, and T. Töpfer. “Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie.” _Vogelwarte_ 51, no. 3 (2013): 185–191. 
 
 [^4]: The torso skeleton is made up of the thoracic vertebrae, the ribs, the sternum, the furcula, the coracoid, the shoulder blades, the thigh, the lumbar vertebrae, the pelvis, and the caudal vertebrae. 
 
@@ -288,7 +288,7 @@ _Storing and classifying the partial skeleton in the collection. (MfN, image: Ma
 
 [^7]: Because tanning is a very lengthy process, a number of birds are usually tanned at the same time, which is why it can take some (waiting) time before tanning is carried out. 
 
-[^8]: The curator can decide whether the wings should be outspread or folded together. They have to take into account the fact that the skin turns "hard" after it has been dried, meaning that it will have to be softened again in order to change the position of the wings. 
+[^8]: The curator can decide whether the wings should be outspread or folded together. They have to take into account the fact that the skin turns “hard” after it has been dried, meaning that it will have to be softened again in order to change the position of the wings. 
 
 [^9]: Another option is to deflesh the carcass using enzymes. This means that the skeleton first spends several weeks softening to bleed the tissue and prepare it for the enzymes. For the actual defleshing process, the animal’s body is submerged in a solution with an enzyme in it. Depending on the enzyme, this process might take place in a warming cabinet. Here, the partial skeleton decomposes into its individual components, whereas, when using the dermestid beetle method, the bones retain their structure.
 
@@ -552,7 +552,7 @@ _Einordnen des Teilskelett in die Sammlung. (Foto: Mareike Vennen. Alle Rechte v
 
 [^2]: Häufig finden die verschiedenen Schritte der Präparation nicht am Stück, sondern mit Unterbrechungen statt, so dass sich der Prozess über mehrere Wochen oder Monate erstrecken kann. Wir danken Christin Scheinpflug, dass sie uns an dem Prozess hat teilhaben lassen und uns auch darüber hinaus unsere zahlreichen Fragen beantwortet und Hinweise gegeben hat. 
 
-[^3]: Bei einem Balg handelt es sich im Gegensatz zu einem aufgestellten Präparat um die Haut eines Vogels mit anhängendem Gefieder, Schnabel, Beinen und Füßen, die über einen künstlich nachgebildeten Körper gestülpt und in einer Schublade aufbewahrt werden kann. In wissenschaftlichen Sammlungen werden heute vor allem Bälge verwendet. Zur Vogelsammlung des Berliner Museums für Naturkunde vgl. Frahnert, Silke, M. Päckert, D. T. Tietze und T. Töpfer. "Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie." _Vogelwarte_ 51, Nr. 3 (2013): 185–191. 
+[^3]: Bei einem Balg handelt es sich im Gegensatz zu einem aufgestellten Präparat um die Haut eines Vogels mit anhängendem Gefieder, Schnabel, Beinen und Füßen, die über einen künstlich nachgebildeten Körper gestülpt und in einer Schublade aufbewahrt werden kann. In wissenschaftlichen Sammlungen werden heute vor allem Bälge verwendet. Zur Vogelsammlung des Berliner Museums für Naturkunde vgl. Frahnert, Silke, M. Päckert, D. T. Tietze und T. Töpfer. “Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie”. _Vogelwarte_ 51, Nr. 3 (2013): 185–191. 
 
 [^4]: Das Rumpfskelett besteht aus Brustwirbeln, Rippen, Sternum, Gabelbein, Rabenbein, Schulterblatt, Oberschenkel, Lendenwirbel, Becken und Schwanzwirbeln.
 

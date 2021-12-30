@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Haunting Cattle
 title_de: Spukendes Vieh
 created: 1640359539704
-updated: 1640364071030
+updated: 1640898542166
 id: AOZiyuOX6B0ntAdEoiiIi
 author: " Sophie-Marie Kaatsch"
 translators:
@@ -37,7 +37,7 @@ _The street signs still remind of the former abattoir in Berlin. (Photo: Sophie-
 
 <sound file="/audio/Audiobeitrag_Kaatsch.mp3">_Haunting Cattle_ by Sophie-Marie Kaatsch</sound>
 
-An audio piece from the project seminar "Animal Topographies" held at the Institute for Cultural Studies at Humboldt-Universität zu Berlin and run by Britta Lange and Mareike Vennen (summer semester 2021). 
+An audio piece from the project seminar “Animal Topographies” held at the Institute for Cultural Studies at Humboldt-Universität zu Berlin and run by Britta Lange and Mareike Vennen (summer semester 2021). 
 
 Animal topographies are site-specific explorations that view places where animals have played a special role in the past or present: spaces where animals have spent time, places to which they have been brought, and places that they have occupied. The audio stories that can be heard here start with theoretical and historical examinations of urban animal topographies and different forms of movement by looking at historical traces and current routes. The auditive hunt for clues leads through Berlin sites both known and unknown, where it explores relationships between humans and animals.
 
@@ -46,7 +46,7 @@ From abattoir to luxury neighbourhood? Sophie-Marie Kaatsch takes a walk through
 Other audio pieces tell the stories of [[material.where-the-rats-live]], [[material.cat-colonies]], [[material.berlin's-border-dogs]], and [[material.dead-animals]].
 
 
-[^1]: You are listening to excerpts from Döblin, Alfred. _Berlin Alexanderplatz_ [1929]. Frankfurt am Main: Fischer Verlag, 2020: 151; Wolbt: "Der städtische Central-Viehhof in Berlin." _Illustrierte Zeitung_ no. 2003. 19.11.1881: 445. 
+[^1]: You are listening to excerpts from Döblin, Alfred. _Berlin Alexanderplatz_ [1929]. Frankfurt am Main: Fischer Verlag, 2020: 151; Wolbt: “Der städtische Central-Viehhof in Berlin”. _Illustrierte Zeitung_ no. 2003. 19.11.1881: 445. 
 
 :::DE:::
 
@@ -64,7 +64,7 @@ _Die Straßenschilder erinnern noch an den ehemalischen Schlachthof. (Foto: Soph
 
 <sound file="/audio/Audiobeitrag_Kaatsch.mp3">_Spukendes Vieh_ von Sophie-Marie Kaatsch</sound>
 
-Ein Hörstück aus dem Projektseminar "Tier-Topografien" am Institut für Kulturwissenschaft der Humboldt-Universität zu Berlin unter der Leitung von Britta Lange und Mareike Vennen (Sommersemester 2021). 
+Ein Hörstück aus dem Projektseminar “Tier-Topografien” am Institut für Kulturwissenschaft der Humboldt-Universität zu Berlin unter der Leitung von Britta Lange und Mareike Vennen (Sommersemester 2021). 
 
 Tier-Topografien sind ortsspezifische Erkundungen: Perspektiven auf Orte, an denen Tiere eine besondere Rolle spielen, in der Geschichte oder in der Gegenwart. Räume, in denen sich Tiere aufhalten, an die sie gebracht werden, sowie solche, die sie einnehmen. Ausgangspunkt der hier zu hörenden Audiogeschichte ist eine theoretische und historische Auseinandersetzung mit urbanen Tier-Topografien und verschiedenen Formen der Bewegung entlang historischer Spuren und aktueller Wegstrecken. Die auditive Spurensuche führt an bekannte und unbekannte Orte in Berlin und erkundet an diesen die Beziehungen zwischen Menschen und Tieren.
 
@@ -72,4 +72,4 @@ Vom Schlachthof zum Luxuskiez? Sophie-Marie Kaatsch unternimmt einen Spaziergang
 
 Weitere Hörstücke erzählen vom [[Ort der Ratten in Berlin|material.where-the-rats-live]], von [[Katzen-Kolonien|material.cat-colonies]], [[Berliner Grenzhunden|material.berlin's-border-dogs]] und [[toten Tieren|material.dead-animals]].
 
-[^1]: Sie hören Auszüge aus Döblin, Alfred. _Berlin Alexanderplatz_ [1929]. Frankfurt am Main: Fischer Verlag, 2020: 151; Wolbt: "Der städtische Central-Viehhof in Berlin." _Illustrirte Zeitung_ Nr. 2003. 19.11.1881: 445.
+[^1]: Sie hören Auszüge aus Döblin, Alfred. _Berlin Alexanderplatz_ [1929]. Frankfurt am Main: Fischer Verlag, 2020: 151; Wolbt: “Der städtische Central-Viehhof in Berlin”. _Illustrirte Zeitung_ Nr. 2003. 19.11.1881: 445.
