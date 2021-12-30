@@ -7,7 +7,7 @@ short_desc_de: Wissenschaftlicher Austausch zwischen Zoos
 date_end: 2021-07-06T11:19:57.448Z
 published: false
 title: Der Zoologische Garten (journal)
-updated: 1640898327801
+updated: 1640899337889
 id: cdaa8a05-6456-4b87-a663-c755790440d3
 translators:
   translator_de_en: ""
@@ -53,7 +53,7 @@ Consequently, in 1859, the recently established zoo in Frankfurt am Main began p
 
 From the 1950s, the journal became the representative platform of the Association of German Zoo Directors/Association of Zoological Gardens, as well as of the World Association of Zoos and Aquariums. After being discontinued again in 2018, the journal was relaunched in 2019, and has since served as the mouthpiece for both associations, under the title _Der Zoologischer Garten. Zeitschrift für die gesamte Tiergärtnerei_.
 
-The contributions to the journal tend to discuss subjects such as the breeding of animals in human care, veterinary medicine, ethology, and zoo architecture. Reports on the zoos' own practices are still the focus of most contributions. This is probably related to the fact that even today, the research literature on keeping domestic and small animals is much more extensive than that which addresses zoo animal husbandry, and there is thus a need for a means of exchange in this field.
+The contributions to the journal tend to discuss subjects such as the breeding of animals in human care, veterinary medicine, ethology, and zoo architecture. Reports on the zoos’ own practices are still the focus of most contributions. This is probably related to the fact that even today, the research literature on keeping domestic and small animals is much more extensive than that which addresses zoo animal husbandry, and there is thus a need for a means of exchange in this field.
 
 :::DE:::
 
