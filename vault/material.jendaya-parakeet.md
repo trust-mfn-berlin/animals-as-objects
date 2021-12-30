@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1640876103722
+updated: 1640876554213
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 translators:
@@ -22,6 +22,18 @@ published: false
 ---
 
 :::EN:::
+
+<figure>
+
+![Various objects lie on a metal tray, including a brush, a beaker, and various cases. In the middle of the photo is an open cardboard box that is partially filled with cotton wool in which three bodies of different coloured dead birds are lying on their back with their wings folded, their necks slightly outstretched, and their legs tied together.](/images/mv/jendaya-n.jpg)
+
+<figcaption>
+
+_Study skins on their way into the collection (MfN, image: Mareike Vennen. All rights reserved.)_
+
+</figcaption>
+
+</figure>
 
 Content Warning: The following text and video contain explicit pictures of preparing a dead bird’s body that may be disturbing to some viewers.
 
@@ -283,6 +295,18 @@ _Storing and classifying the partial skeleton in the collection. (MfN, image: Ma
 [^10]: We would like to thank Pascal Eckhoff and Sylke Frahnert for providing us with insights into the work carried out in the collection.
 
 :::DE:::
+
+<figure>
+
+![Auf einem Metalltisch liegen diverse Objekte, darunter ein Handfeger, ein Messbecher und verschiedene Kästen. In der Mitte des Fotos liegt eine offene Pappkiste, die teils mit Watte ausgelegt ist, worin drei unterschiedlich gefärbte tote Vogelkörper auf dem Rücken liegen, mit gefalteten Flügeln, leicht überstrecktem Nacken und zusammengebundenen Beinen.](/images/mv/jendaya-n.jpg)
+
+<figcaption>
+
+_Vogelbälge auf dem Weg in die Sammlung. (Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
+
+</figcaption>
+
+</figure>
 
 Content-Warnung: Der folgende Text und das Video enthalten Bilder von der Präparation eines toten Vogels, die für manche Betrachter verstörend sein könnten.
 
