@@ -7,7 +7,7 @@ short_desc_de: Software zur Koordination von Zootierhaltungen
 date_end: 2021-12-25T19:31:46.616Z
 published: false
 title: Species360
-updated: 1640898923845
+updated: 1640905297470
 id: 690683a5-6845-4c80-bb3b-5771881bdca6
 translators:
   translator_de_en: ""
@@ -46,7 +46,7 @@ In 1974, a year after the signing of the Washington Convention on International 
 
 **The affiliated zoos initially recorded their data on standardized paper forms, but in the mid-1980s, the first computer programs were developed,** and medical information on the individual animals was added. Since 1989, ISIS, now the International Species Information System, has been managed by an international advisory board. According to its mission statement, the aim of ISIS is to facilitate international cooperation in the collection and exchange of knowledge about animals and their habitats for aquariums, zoos, and affiliated conservation organizations.
 
-The web-based Zoological Information Management System (ZIMS) has existed since 2011. Zoo staff at the more than 1,000 participating institutions worldwide can enter data about the animals they keep, including medical information, into this system. International conservation breeding programs and studbook keepers can use this information to select animals for breeding and create breeding groups. **There is no oversight of this data — to monitor whether a zoo enters all its animals into the system, for example.** However, animals should not be exchanged with other zoos without ZIMS registration. The ZIMS functions are now consolidated on the website https://www.species360.org.
+The web-based Zoological Information Management System (ZIMS) has existed since 2011. Zoo staff at the more than 1,000 participating institutions worldwide can enter data about the animals they keep, including medical information, into this system. International conservation breeding programs and studbook keepers can use this information to select animals for breeding and create breeding groups. **There is no oversight of this data – to monitor whether a zoo enters all its animals into the system, for example.** However, animals should not be exchanged with other zoos without ZIMS registration. The ZIMS functions are now consolidated on the website https://www.species360.org.
 
 :::DE:::
 

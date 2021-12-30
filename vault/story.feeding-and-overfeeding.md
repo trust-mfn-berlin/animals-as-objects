@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding and Overfeeding
 title_de: Füttern und Überfüttern
 created: 1620752738850
-updated: 1640903839553
+updated: 1640905514588
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 author: Mareike Vennen
 translators:
@@ -46,7 +46,7 @@ _Headline of the_ Bild-Zeitung _on the overfeeding problem, occasioned by “Jam
 
 </figure>
 
-While the zoo and the city of Berlin struggled to provide food for their inhabitants in the 1940s — see also [[story.feed-scarcity]] — by the end of the 1950s, the situation had largely returned to normal again.[^1] In fact, in some ways it had gone in the opposite direction. The economic boom, the _Wirtschaftswunder_ years meant visitors fed the animals at Berlin Zoo as much as they pleased — to the extent that in 1960, the African elephant “Jambo” fell ill after, or rather as a result of, being fed by zoo visitors.
+While the zoo and the city of Berlin struggled to provide food for their inhabitants in the 1940s – see also [[story.feed-scarcity]] – by the end of the 1950s, the situation had largely returned to normal again.[^1] In fact, in some ways it had gone in the opposite direction. The economic boom, the _Wirtschaftswunder_ years meant visitors fed the animals at Berlin Zoo as much as they pleased – to the extent that in 1960, the African elephant “Jambo” fell ill after, or rather as a result of, being fed by zoo visitors.
 
 The elephant cow suffered severe peritonitis and a rupture in the small intestine caused by a blockage. After spending 14 days trying unsuccessfully to save “Jambo”, the zoo made the decision to put the animal to sleep. The incident was not an isolated case, however. In previous years, elephants had died due to incorrect or excessive feeding in the zoological gardens of Antwerp, Hamburg, Frankfurt, Stuttgart, and Gelsenkirchen. In Berlin in 1961 alone, a baboon, a spotted toucan, a valuable crane, and two deer died as a result of overfeeding.
 
@@ -94,7 +94,7 @@ _The_ Tägliche Rundschau _presents feeding the animals as an act of sharing in 
 
 </figure>
 
-Letters from zoo visitors also show that many felt feeding the animals was not only a practical necessity, but also a form of caring. While in the first postwar years, feeding became an act of solidarity with the zoo and its animals, and may even have saved the lives of some animals, the dangers of overfeeding returned in full force in the 1950s — see also [[story.feeding-prohibited]].
+Letters from zoo visitors also show that many felt feeding the animals was not only a practical necessity, but also a form of caring. While in the first postwar years, feeding became an act of solidarity with the zoo and its animals, and may even have saved the lives of some animals, the dangers of overfeeding returned in full force in the 1950s – see also [[story.feeding-prohibited]].
 
 [^1]: The zoo stopped growing vegetables on its grounds as early as 1950: “We have a lot of plans for the spring; the gardening should stop now, because the food supply situation has improved substantially for the people of Berlin and vegetables can now be bought at the markets again. We can now beautify our grounds again.” K. Heinroth to U. Bergman, 07.03.1950, AZGB N 4/12. Direct quotes have been translated into English for clarity’s sake.
 

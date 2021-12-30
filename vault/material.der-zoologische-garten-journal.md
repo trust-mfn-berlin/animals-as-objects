@@ -7,7 +7,7 @@ short_desc_de: Wissenschaftlicher Austausch zwischen Zoos
 date_end: 2021-07-06T11:19:57.448Z
 published: false
 title: Der Zoologische Garten (journal)
-updated: 1640899337889
+updated: 1640905255111
 id: cdaa8a05-6456-4b87-a663-c755790440d3
 translators:
   translator_de_en: ""
@@ -47,7 +47,7 @@ _Cover pages of the journal_ Der Zoologische Garten _from 1933, 1961, and 2015._
 
 Zoo managers in Germany and around the world have always depended on exchanging information. Then, as now, much of the most important information required for the care of animals cannot be found in the general zoological and biological literature. 
 
-This was particularly the case during the second half of the 19th century when many zoos were being established. At the time, knowledge about proper housing conditions and the correct way to feed zoo animals was very limited. Often the first order of business was to determine the species of the incoming animal. **It was very important for the small circle of zoo directors — at the time all of them still male — to have the benefit of exchanging observations and tips on successful animal husbandry practices, i.e., those which prolonged the lives of the animals.**
+This was particularly the case during the second half of the 19th century when many zoos were being established. At the time, knowledge about proper housing conditions and the correct way to feed zoo animals was very limited. Often the first order of business was to determine the species of the incoming animal. **It was very important for the small circle of zoo directors – at the time all of them still male – to have the benefit of exchanging observations and tips on successful animal husbandry practices, i.e., those which prolonged the lives of the animals.**
 
 Consequently, in 1859, the recently established zoo in Frankfurt am Main began publishing a journal called _Der Zoologische Garten_. In 1888, they added the subtitle “Mouthpiece of the Zoological Gardens of Germany”. The journal was primarily concerned with zoo animal husbandry, rather than with scientific research.
 
