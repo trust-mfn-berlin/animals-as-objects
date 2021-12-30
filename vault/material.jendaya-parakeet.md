@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1640885922178
+updated: 1640886097839
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 translators:
@@ -336,7 +336,7 @@ _Datenblatt und Instrumente zur Vermessung, Hautgewinnung und Teilskelettbearbei
 
 <figure>
 
-![Nahaufnahme eines weißen Tabletts vor metallenem Hintergrund. Auf dem Tablett liegt ein toter Vogelkörper, der an der Brust geöffnet ist, so dass man Knochen, Haut und Fleisch sieht. Vor dem Vogel liegt ein silbernes Lineal, hinter dem Tablett liegt ein Maßband.] (/images/mv/jendaya-b.jpg)
+![Nahaufnahme eines weißen Tabletts vor metallenem Hintergrund. Auf dem Tablett liegt ein toter Vogelkörper, der an der Brust geöffnet ist, so dass man Knochen, Haut und Fleisch sieht. Vor dem Vogel liegt ein silbernes Lineal, hinter dem Tablett liegt ein Maßband.](/images/mv/jendaya-b.jpg)
 
 <figcaption>
 
