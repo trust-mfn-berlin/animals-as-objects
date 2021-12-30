@@ -2,7 +2,7 @@
 id: qPXq6synKcymXGGXLIDvV
 title: Jendaya Parakeet
 desc: Put a description of this note here...
-updated: 1640875992289
+updated: 1640876103722
 created: 1640468612148
 title_de: Add a german title here
 desc_de: Put a DE description of this note here...
@@ -36,7 +36,7 @@ After being dissected, the bird was immediately deep frozen and tagged with the 
 
 <figcaption>
 
-_Data sheet and instruments for measuring the specimen, obtaining the skin, and preparing the partial skeleton. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_Data sheet and instruments for measuring the specimen, obtaining the skin, and preparing the partial skeleton. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -48,7 +48,7 @@ _Data sheet and instruments for measuring the specimen, obtaining the skin, and 
 
 <figcaption>
 
-_Measuring the bird's body. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_Measuring the bird's body. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 A data sheet is prepared for each animal, onto which information has been entered about materials, techniques, some key information about the bird, and the date of preparation. 
 
 </figcaption>
@@ -61,7 +61,7 @@ A data sheet is prepared for each animal, onto which information has been entere
 
 <figcaption>
 
-_Data sheet; the information from the data sheet will later be entered in the collection catalogue. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_Data sheet; the information from the data sheet will later be entered in the collection catalogue. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -75,7 +75,7 @@ In this case, the bird had already been chipped for identification purposes whil
 
 <figcaption>
 
-_This is how the transponder is stored until it is placed back into the study skin at the end of the preparation. (Photo: Filippo Bertoni/MfN. All rights reserved.)_ 
+_This is how the transponder is stored until it is placed back into the study skin at the end of the preparation. (Image: Filippo Bertoni/MfN. All rights reserved.)_ 
 
 </figcaption>
 
@@ -89,7 +89,7 @@ In order to prepare the study skin, the preparator first has to remove the skin 
 
 <figcaption>
 
-_The museum preparator Christin Scheinpflug examines the bird's body. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_The museum preparator Christin Scheinpflug examines the bird's body. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -103,7 +103,7 @@ While the remaining tissue is removed and later burned outside of the museum acc
 
 <figcaption>
 
-_A water bath with Supralan and salt to clean the skin and any potentially dirty feathers. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_A water bath with Supralan and salt to clean the skin and any potentially dirty feathers. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -117,7 +117,7 @@ During the tanning process, where tanning agents are used to preserve animal ski
 
 <figcaption>
 
-_During the tanning process, the pores are softened in a lye solution and a tanning agent is then fixed in the skin. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_During the tanning process, the pores are softened in a lye solution and a tanning agent is then fixed in the skin. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -131,7 +131,7 @@ While the bird's skin was tanning, Christin Scheinpflug prepared the artificial 
 
 <figcaption>
 
-_The artificial body for the study skin is made from wood wool and wire by comparing it with the dimensions of the bird’s body. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_The artificial body for the study skin is made from wood wool and wire by comparing it with the dimensions of the bird’s body. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -147,7 +147,7 @@ For the final steps – assembling the bird, sewing it up, and putting the feath
 
 <figcaption>
 
-_After tanning and inserting the wood wool body, the preparator sews up the skin. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_After tanning and inserting the wood wool body, the preparator sews up the skin. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -161,7 +161,7 @@ A metal pole that has been inserted into the bottom of the wood wool body serves
 
 <figcaption>
 
-_Wet study skin with wood wool body and metal handle inserted. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_Wet study skin with wood wool body and metal handle inserted. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -181,7 +181,7 @@ After the feathers have been blow-dried, they have to be put in place, which tak
 
 <figcaption>
 
-_Blow-drying and arranging the feathers. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_Blow-drying and arranging the feathers. (Images: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -195,7 +195,7 @@ In order to produce a partial skeleton, the original bird body now has to be com
 
 <figcaption>
 
-_Producing a partial skeleton inside a warming cabinet with the help of dermestid beetles. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_Producing a partial skeleton inside a warming cabinet with the help of dermestid beetles. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -209,7 +209,7 @@ Afterwards, the skeleton was frozen once more (in order to kill any remaining be
 
 <figcaption>
 
-_Study skins on their way into the collection (MfN, photo: Mareike Vennen. All rights reserved.)_
+_Study skins on their way into the collection (MfN, image: Mareike Vennen. All rights reserved.)_
 
 </figcaption>
 
@@ -223,7 +223,7 @@ There, collection caretaker Pascal Eckhoff entered the information from the data
 
 <figcaption>
 
-_In the bird collection, the study skin is entered into the database. (MfN, photo: Mareike Vennen. All rights reserved.)_
+_In the bird collection, the study skin is entered into the database. (MfN, image: Mareike Vennen. All rights reserved.)_
 
 </figcaption>
 
@@ -235,7 +235,7 @@ _In the bird collection, the study skin is entered into the database. (MfN, phot
 
 <figcaption>
 
-_Label to identify the study skin. (MfN, Photo: Mareike Vennen. All rights reserved.)_
+_Label to identify the study skin. (MfN, image: Mareike Vennen. All rights reserved.)_
 
 </figcaption>
 
@@ -249,7 +249,7 @@ At the end, the bird was entered in the collection database under inventory numb
 
 <figcaption>
 
-_Storing and classifying the partial skeleton in the collection. (MfN, photo: Mareike Vennen. All rights reserved.)_
+_Storing and classifying the partial skeleton in the collection. (MfN, image: Mareike Vennen. All rights reserved.)_
 
 </figcaption>
 
