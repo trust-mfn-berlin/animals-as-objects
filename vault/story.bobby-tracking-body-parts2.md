@@ -1,7 +1,7 @@
 ---
 license: CC BY-SA
-title: '"Bobby". Tracking Body Parts'
-title_de: '"Bobby". Eine Fundgeschichte'
+title: “Bobby”. Tracking Body Parts
+title_de: “Bobby”. Eine Fundgeschichte
 created: 1640338390195
 updated: 1640597010083
 id: 05XnJBaPUmIcfTWa4WMyb

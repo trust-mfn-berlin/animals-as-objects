@@ -2,7 +2,7 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1639742098519
+updated: 1640882046930
 created: 1618326133707
 colour_scheme: 17
 ---
@@ -45,7 +45,7 @@ See [[templates.story]]
 - Von bis: kürzester Strich
 - Only use "these quotation marks" in both DE and EN, not „these quotation marks”
 - Always leave a blank line above and below a bullet point list
-- Footnotes come after the "." at the end of a sentence but before the "," if in the middle of a sentence
+- Footnotes come after the "." at the end of a sentence but before the "," if in the middle of a sentence ––– punctuation comes always before footnote with the exception of the dash!
 - Titles of publications, newspapers etc. are in _cursive_, so if used in a caption: _In an image caption, a name of a newspaper, for example_ Newspaper title, _is the only thing not in cursive_. Also italicize laws, regulations, and names of journals, etc.
 - A few sentences per text/section should be in **bold**. On its own, a sentence should generate interest, and make the scrolling reader curious. Altogether with the title and the summary, they should allow the reader a brief glimpse into the topic, without reading the text. Don't make individual words **bold**, minimum is a phrase. Together with long quotes and images, they additionally function to visually break up longer texts.
 
@@ -100,6 +100,8 @@ Autor:in. "Presseinformation 072/2007. Neu im Programm: 'Knut!'". _RBB_, 23.03.2
 ### Zoo archive material (example)
 
 _Die asiatischen Elefanten "Omar" und "Rostom" nach ihrer Ankunft im Zoo Berlin, 1936. (AZGB, Foto L. Heck. All rights reserved.)_ [AZGB: no call number required]
+
+_…Foto/image: xxx_
 
 _Staatspräsident Ulbricht übergibt den goldenen Schlüssel, 22.10.1965. (LAB C Rep. 121, Nr. 235. All rights reserved.)_
 

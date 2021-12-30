@@ -1,7 +1,7 @@
 ---
 license: CC BY-SA
-title: An "Atmospheric Image” of the Empire
-title_de: Ein „stimmungsvolles Bild“ des Kolonialreichs
+title: An “Atmospheric Image” of the Empire
+title_de: Ein “stimmungsvolles Bild” des Kolonialreichs
 created: 1640456876442
 updated: 1640458961630
 id: ZDxo1U9ptEVRJhmFpVKyC
