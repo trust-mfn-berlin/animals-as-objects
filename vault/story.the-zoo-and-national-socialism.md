@@ -1,22 +1,18 @@
 ---
-id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
-title: The Zoo and National Socialism
-desc: |-
-  During the National Socialist dictatorship, the zoo’s management and
-  supervisory board made themselves available to the regime however they could.
-  The zoo became an instrument of National Socialist propaganda, and excluded
-  Jewish visitors. The zoo director was well connected to the regime's elite. In
-  wartime, the zoo exploited forced labor.
-updated: 1640900993229
-created: 1619020958263
 license: CC BY-SA
+title: The Zoo and National Socialism
 title_de: Der Zoo im Nationalsozialismus
+created: 1619020958263
+updated: 1640900993229
+id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 author: Clemens Maier-Wolthausen
-short_desc_de: Propagandainstrument und Zwangsarbeit
-date_end: 1945-12-31T11:00:00.000Z
-published: false
 translators:
-  translator_de_en: ''
+  translator_de_en: ""
+desc: During the National Socialist dictatorship, the zoo’s management and
+  supervisory board made themselves available to the regime however they could.
+  The zoo became an instrument of National Socialist propaganda, and
+  excludedJewish visitors. The zoo director was well connected to the regime’s
+  elite. Inwartime, the zoo exploited forced labor.
 desc_de: |-
   In der Zeit der nationalsozialistischen Diktatur boten sich Zooleitung
   und Aufsichtsrat dem Regime an. Der Zoo wurde zu einem Propagandainstrument
@@ -24,6 +20,7 @@ desc_de: |-
   Zoodirektor war mit der Elite des Regimes gut vernetzt. Während des Krieges
   wurden Zwangsarbeiter ausgebeutet.
 short_desc: Propaganda instrument and forced labour
+short_desc_de: Propagandainstrument und Zwangsarbeit
 cover_image:
   image: /images/cover-zoo-in-nazi-regime.jpg
   alt: |-
@@ -34,6 +31,8 @@ cover_image:
 colour_scheme: 7
 tao_type: story
 date_start: 1932-12-31T23:00:00.000Z
+date_end: 1945-12-31T11:00:00.000Z
+published: false
 ---
 
 
