@@ -1,7 +1,7 @@
 ---
 license: CC BY-SA
-title: The "Gorilla Beast"
-title_de: Die "Bestie Gorilla"
+title: The “Gorilla Beast”
+title_de: Die “Bestie Gorilla”
 created: 1640365282699
 updated: 1640882280064
 id: H40I2GIwYN6393S3tIUHI
