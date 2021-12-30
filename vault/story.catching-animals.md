@@ -7,7 +7,7 @@ short_desc_de: Habitate und Tierhandelsfirmen
 date_end: 1973-12-31T11:00:00.000Z
 published: false
 title: Catching Animals
-updated: 1640902734419
+updated: 1640903959607
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 translators:
   translator_de_en: ""
@@ -137,7 +137,7 @@ The business of catching and trading in animals was profitable due, among other 
 
 At the beginning of the 20th century, a few zoos also organized or financed their own expeditions to acquire animals. For London Zoo, and especially for U.S. zoos, these expeditions were more than just a source of new animals. The Bronx Zoo in New York and the National Zoo in Washington, and later also London Zoo, used the expeditions as marketing opportunities by producing publications about the trips.[^18]
 
-** Berlin Zoo conducted its own expeditions to capture animals, albeit few in number.** In the 1920s and 1930s, Lutz Heck, who would go on become zoo director, organized three such expeditions. In addition to supplying animals, they primarily served as a means of self-promotion. Although Heck brought large numbers of animals back to Berlin, it is possible that these could have been purchased more cheaply via the animal trade. For the most part, the trips were used as a form of self-promotion for Lutz Heck and the zoo. Heck used the photos and film footage he gathered for extensive publications, full-length films, and lectures.[^19] These publications reiterated and reinforced prevailing stereotypes about the people from the regions of the world where the animals had been captured.
+**Berlin Zoo conducted its own expeditions to capture animals, albeit few in number.** In the 1920s and 1930s, Lutz Heck, who would go on become zoo director, organized three such expeditions. In addition to supplying animals, they primarily served as a means of self-promotion. Although Heck brought large numbers of animals back to Berlin, it is possible that these could have been purchased more cheaply via the animal trade. For the most part, the trips were used as a form of self-promotion for Lutz Heck and the zoo. Heck used the photos and film footage he gathered for extensive publications, full-length films, and lectures.[^19] These publications reiterated and reinforced prevailing stereotypes about the people from the regions of the world where the animals had been captured.
 
 <figure>
 
