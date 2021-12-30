@@ -7,7 +7,7 @@ desc: |-
   The zoo became an instrument of National Socialist propaganda, and excluded
   Jewish visitors. The zoo director was well connected to the regime's elite. In
   wartime, the zoo exploited forced labor.
-updated: 1640870605373
+updated: 1640870624167
 created: 1619020958263
 license: CC BY-SA
 title_de: Der Zoo im Nationalsozialismus
@@ -54,6 +54,7 @@ _Gateway to Berlin Zoo known as the Elephant Gate (Elefantentor), around 1938. (
 “”“” ””real” "real" ’‘real’ '' ’‘real'
 ' '
 test' 'test' ’test’ ‘test’
+“”
 
 Was it really possible for the zoo — a nearly 100-year-old educational and recreational institution that displayed live animals for the purposes of education and entertainment — to serve the aims of National Socialism? Is it not a fundamental part of zoos’ constitutions that they are global phenomena and open to anyone who wants to learn? As will become evident, from 1933 onward, Berlin Zoo became a stage for colonialism and a site of racist exclusion, as well as an instrument of National Socialist propaganda.
 
