@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1640885808520
+updated: 1640885856423
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 translators:
@@ -63,7 +63,7 @@ _Data sheet and instruments for measuring the specimen, obtaining the skin, and 
 
 <figure>
 
-![Close-up of a white tray on a metal surface. On the tray is the body of a dead bird; its chest has been opened up, revealing its bones, skin, and tissue. In front of the bird is a silver ruler; behind the tray is a measuring tape.] (/images/mv/jendaya-b.jpg)
+![Close-up of a white tray on a metal surface. On the tray is the body of a dead bird; its chest has been opened up, revealing its bones, skin, and tissue. In front of the bird is a silver ruler; behind the tray is a measuring tape.](/images/mv/jendaya-b.jpg)
 
 <figcaption>
 
