@@ -7,7 +7,7 @@ short_desc_de: Materialien des Modellbaus
 date_end: 2021-08-26T13:04:38.748Z
 published: false
 title: SOMSO-Plast – Plastic Animal Models
-updated: 1640270192246
+updated: 1640885533285
 id: EjCkhWUz4D4DXc9ANY8bc
 translators:
   translator_de_en: Lydia J. White
@@ -24,23 +24,11 @@ date_start: 1929-12-31T23:00:00.000Z
 
  <figure>
 
-![image description for accessibility](/images/example/hippo.jpg) MUSS ERSETZT WERDEN
+![des](/vault/images/guests/kartoffelkaefer-zool-lehrsammlung-vorne.jpg)
 
 <figcaption>
 
 _Plastic model of a potato bug by the Somso company, date unknown. (Zoological Teaching Collection.)_
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![image description for accessibility](/images/example/hippo.jpg) MUSS ERSETZT WERDEN
-
-<figcaption>
-
-_Papier mâché model of a potato bug by Alfred Keller, ca. 1940/1941. (Zoological Teaching Collection.)_
 
 </figcaption>
 
@@ -60,23 +48,10 @@ SOMSO-Plast increasingly replaced papier mâché and plaster as materials. **The
 
 <figure>
 
-![image description for accessibility](/images/example/hippo.jpg) MUSS ERSETZT WERDEN
-
+![des](/vault/images/guests/kartoffelkaefer-zool-lehrsammlung-vorne.jpg)
 <figcaption>
 
 _Modell eines Kartoffelkäfers aus Plastik von der Firma Somso, Datierung unbekannt. (Zoologische Lehrsammlung)_
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![image description for accessibility](/images/example/hippo.jpg) MUSS ERSETZT WERDEN
-
-<figcaption>
-
-_Modell eines Kartoffelkäfers aus Papiermaschee von Alfred Keller, ca. 1940/1941. (Zoologische Lehrsammlung)_
 
 </figcaption>
 
