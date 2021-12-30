@@ -166,8 +166,11 @@ export default {
         }
 
       // SEPARATE FOOTNOTES INTO SEPARATE AST TREE
+      
       const lastNodeEn = document.body.children[document.body.children.length - 1];
-      const lastNodeDe = document.body.children[document.body.children.length - 1];
+
+      const lastNodeDe = document.body_de ? document.body_de.body.children[document.body_de.body.children.length - 1] : null;
+      
 
       document.fn = {
         en:{
