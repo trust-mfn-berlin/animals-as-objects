@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1640885856423
+updated: 1640885922178
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 translators:
@@ -352,7 +352,7 @@ Für jedes Tier wird ein solches Datenblatt angelegt, auf dem Materialien, Techn
 
 ![Weißes Blatt mit vorgedruckten Textzeilen und freigelassenen Zeilen zum eigenständigen Ausfüllen. Handschriftlich eingetragen ist "Art: Jendaya Sittich", "Geschlecht/Alter: männlich", "Gesamtlänge (in mm): 267 mm".](/images/mv/jendaya-c.jpg)
 
-<ficaption>
+<figcaption>
 
 _Datenblatt, dessen Informationen später in den Sammlungskatalog übertragen werden. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
 
