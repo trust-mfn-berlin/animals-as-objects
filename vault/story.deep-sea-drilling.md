@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Deep Sea Drilling
 title_de: Bohrkerne aus den Böden der Tiefsee
 created: 1619107396222
-updated: 1640974772385
+updated: 1640974812462
 id: d76483c9-9cd4-454e-a737-fcdf683c6d0d
 author: Filippo Bertoni
 translators:
@@ -72,7 +72,7 @@ Spread among many different institutions and databases, the data and samples fro
 For data to be mobilized to tell stories [[of microbes and planets|story.of-microbes-and-planets]] – for instance by [[using Cycladophora|story.using-cycladophora]] to characterize glaciation dynamics – the vast socio-technical apparatus of deep sea drilling needs to be in place, with its drilling vessels, research institutions, transnational funding and collaborations, archives and datasets, as well as scientists, engineers, technicians, sailors, and many others. Centrally, this apparatus hinges on the transformations animals and other living organisms undergo as they become entangled in human knowledge making practices: far from being merely old, specialized, technical repositories, then, natural history collections have an active role in shaping how society knows and relates to nature. As this brief history of deep sea drilling illustrates, _how_ we know the world matters, as it also shapes _what_ can be known: as the effort of characterizing planetary dynamics brought to the fore the dangers of climate change, it also continues to be instrumental to the chokehold extractive industries have on Earth’s biogeochemical cycles. This should not discourage us from trying to understand nature and its workings, though. Instead, I want this story to remind us **how critical a site for political intervention knowledge making is**: paying attention to _how_ we know the world, and to the concrete material and conceptual transformations involved in our projects of sense-making, we can ask better questions and continue learning how to better live together.
 
 
-[^1]: To learn more about project Mohole’s history, visit and listen to https://www.vox.com/unexplainable/22276597/project-mohole-deep-ocean-drilling-unexplainable-podcast or read Helen M. Rozwadowski and David K. van Keuren (eds.). _The Machine in Neptune’s Garden: Historical Perspectives on Technology and the Marine Environment_. Canton, Mass.: Science History Publications, 2004. Also, for a broader historical take on oceanography, check out https://oceansciencehistory.com/page/2/. 
+[^1]: To learn more about Project Mohole’s history, visit and listen to https://www.vox.com/unexplainable/22276597/project-mohole-deep-ocean-drilling-unexplainable-podcast or read Helen M. Rozwadowski and David K. van Keuren (eds.). _The Machine in Neptune’s Garden: Historical Perspectives on Technology and the Marine Environment_. Canton, Mass.: Science History Publications, 2004. Also, for a broader historical take on oceanography, check out https://oceansciencehistory.com/page/2/. 
 
 [^2]: Tellingly, the ship used for the first phase of Mohole was borrowed from a consortium of oil companies, as evident in its name: _CUSS I_, for Continental, Union, Superior, and Shell Oil.
 

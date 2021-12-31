@@ -7,7 +7,7 @@ desc: |-
   These tools and techniques are fundamental to characterizing microbial life.
   And they remind us that our view of the world is historically situated and
   always depends on mediations of one kind or another.
-updated: 1640973835560
+updated: 1640974990657
 created: 1618492963611
 license: CC BY-SA
 title_de: Mikroskopische Medien
@@ -73,7 +73,7 @@ While benefiting from the lessons learned through these techniques, micropaleont
 
 [^5]: The specificities of the historical standardization of microscope resolution, along with the convergence of microscopy and life sciences in 19th century Germany, are treated in detail in Schickore, Jutta. _The Microscope and the Eye: A History of Reflections, 1740-1870._ University of Chicago Press, 2007.
 
-[^6]: To learn more about the important role of standardized glassware in the life sciences, you can read this fascinating article: Espahangizi, Kijan. “The Twofold History of Laboratory Glassware”. Mathias Grote, Max Stadler, and Laura Otis (eds). _Membranes, Surfaces and Boundaries: Interstices in the History of Science, Technology and Culture_ (2011): 17-33.
+[^6]: To learn more about the important role of standardized glassware in the life sciences, you can read this fascinating article: Espahangizi, Kijan. “The Twofold History of Laboratory Glassware”. Mathias Grote, Max Stadler, and Laura Otis (eds.). _Membranes, Surfaces and Boundaries: Interstices in the History of Science, Technology and Culture_ (2011): 17-33.
 
 [^7]: To learn more about the ubiquitous Petri dish, visit https://thebiomedicalscientist.net/science/big-story-petri-dish or  http://somatosphere.net/2014/petri-dish.html/. To better understand its important role in consolidating a specific version of microbiology at the expense of alternative ones, you can read this article by geographer Attenborough, Frederick. “The Monad and the Nomad: Medical Microbiology and the Politics and Possibilities of the Mobile Microbe”. _Cultural Geographies_ 18, no. 1 (2011): 91-114.
 
@@ -135,7 +135,7 @@ Während die Mikropaläontologie von den Erfahrungen mit diesen Techniken und de
 
 [^5]: Eine ausführliche Darstellung der historischen Entwicklung der Standardisierung mikroskopischer Auflösung sowie der Verschmelzung von Mikroskopie und Biowissenschaften in Deutschland im 19. Jahrhundert findet sich in: Schickore, Jutta. _The Microscope and the Eye: A History of Reflections, 1740–1870._ University of Chicago Press, 2007.
 
-[^6]: Die bedeutende Rolle standardisierter Glaswaren in den Biowissenschaften beschreibt dieser faszinierende Artikel: Espahangizi, Kijan. “The Twofold History of Laboratory Glassware”. Mathias Grote, Max Stadler, und Laura Otis (Hg). _Membranes, Surfaces and Boundaries: Interstices in the History of Science, Technology and Culture_ (2011): 17–33.
+[^6]: Die bedeutende Rolle standardisierter Glaswaren in den Biowissenschaften beschreibt dieser faszinierende Artikel: Espahangizi, Kijan. “The Twofold History of Laboratory Glassware”. Mathias Grote, Max Stadler, und Laura Otis (Hg.). _Membranes, Surfaces and Boundaries: Interstices in the History of Science, Technology and Culture_ (2011): 17–33.
 
 [^7]: Um mehr über die heute allgegenwärtige Petrischale zu erfahren, siehe https://thebiomedicalscientist.net/science/big-story-petri-dish oder  http://somatosphere.net/2014/petri-dish.html/. Für ein besseres Verständnis ihrer wichtigen Rolle bei der Etablierung einer bestimmten mikrobiologischen Darstellungsweise (anstelle alternativer Darstellungsmöglichkeiten), lohnt dieser Artikel des Geografen Attenborough, Frederick: “The Monad and the Nomad: Medical Microbiology and the Politics and Possibilities of the Mobile Microbe”. _Cultural Geographies_ 18, Nr. 1 (2011): 91–114.
 
