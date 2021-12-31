@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Dead Animals
 title_de: Tote Tiere
 created: 1640359501899
-updated: 1640898303543
+updated: 1640913563849
 id: dUPcbo57C2AzuhMiUTwMS
 author: Eileen Klingner
 translators:
@@ -41,7 +41,7 @@ An audio piece from the project seminar “Animal Topographies“ held at the In
 
 Animal topographies are site-specific explorations that view places where animals have played a special role in the past or present: spaces where animals have spent time, places to which they have been brought, and places that they have occupied. The audio stories that can be heard here start with theoretical and historical examinations of urban animal topographies and different forms of movement by looking at historical traces and current routes. The auditive hunt for clues leads through Berlin sites both known and unknown, where it explores relationships between humans and animals.
 
-What happens to pets from thousands of Berlin households after their deaths? Eileen Klingner traces some of the routes they take – to the animal knackery, where their bodies are reused, or to the animal cemetery, where they are buried, mourned, and remembered. Her topographic wanderings highlight these animals' various journeys and diverse transformations, and explore the spaces that dead animals occupy in the city.[^1]
+What happens to pets from thousands of Berlin households after their deaths? Eileen Klingner traces some of the routes they take – to the animal knackery, where their bodies are reused, or to the animal cemetery, where they are buried, mourned, and remembered. Her topographic wanderings highlight these animals’ various journeys and diverse transformations, and explore the spaces that dead animals occupy in the city.[^1]
 
 Other audio pieces tell the stories of [[material.where-the-rats-live]], [[material.cat-colonies]], [[material.berlin's-border-dogs]], and [[material.haunting-cattle]].
 

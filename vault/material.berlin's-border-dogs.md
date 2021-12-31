@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Berlin’s Border Dogs
 title_de: Berliner Grenz-Hunde
 created: 1640359523201
-updated: 1640888572982
+updated: 1640913529643
 id: PycpfqnQuolcIv93f9gkd
 author: Marie Permantier
 translators:
@@ -41,11 +41,11 @@ An audio piece from the project seminar “Animal Topographies” held at the In
 
 Animal topographies are site-specific explorations that view places where animals have played a special role in the past or present: spaces where animals are kept, and places that they have occupied. The audio stories that can be heard here started with theoretical and historical examinations of urban animal topographies and different forms of movement, tracing historical and current routes. The auditive hunt for clues leads through Berlin sites both known and unknown, where it explores relationships between humans and animals.
 
-What was life like for the guard dogs, route dogs, and sniffer dogs that patrolled the former death strip at the Berlin Wall? Marie Permantier brings together voices that give accounts of the animals' everyday lives back then and asks what happened to the suddenly unemployed dogs after the wall fell. She unfurls what it meant to be an animal border guard within the context of the Cold War and to become an ideologically charged projection screen for each side's ideas of “over there”.[^1]
+What was life like for the guard dogs, route dogs, and sniffer dogs that patrolled the former death strip at the Berlin Wall? Marie Permantier brings together voices that give accounts of the animals’ everyday lives back then and asks what happened to the suddenly unemployed dogs after the wall fell. She unfurls what it meant to be an animal border guard within the context of the Cold War and to become an ideologically charged projection screen for each side’s ideas of “over there”.[^1]
 Other audio pieces tell the stories of [[material.where-the-rats-live]], [[material.dead-animals]], [[material.cat-colonies]], and [[material.haunting-cattle]].
 
 
-[^1]: You are listening to an interview with Sybille Weigel, employee at the Berlin Animal Shelter pound; excerpts from the NVA documentary _Schutz- und Fährtenhunde der Grenztruppen_ (GDR, 1988); excerpts from Erich Honecker's ceremonial address to the Berlin State Council Building, 19 January 1989; an interview with Ronald Sima, former corporal of the Potsdam-Babelsberg K-9 unit ; excerpts from the GDR textbook _Diensthunde: ihre Abrichtung und Haltung_ by Haberhauffe & Albrecht (Berlin, 1979); an account given by wall victim Willi Block (1934-1966), based on the web-based documentary project _Chronik der Mauer_; an excerpt from _ZDF heute Nachrichten_, 10 November (FRG, 1989); excerpts from the BBC documentary _Walking The Wall_ with P. Bartels, former chief editor of the BILD newspaper (UK, 1994); excerpt from Durs Grünbein’s poem “Portrait des Künstlers als junger Grenzhund 9” (Portrait of the Artist as a Young Border Dog 9) from _Schädelbasislektion_ (Frankfurt, 1991).
+[^1]: You are listening to an interview with Sybille Weigel, employee at the Berlin Animal Shelter pound; excerpts from the NVA documentary _Schutz- und Fährtenhunde der Grenztruppen_ (GDR, 1988); excerpts from Erich Honecker’s ceremonial address to the Berlin State Council Building, 19 January 1989; an interview with Ronald Sima, former corporal of the Potsdam-Babelsberg K-9 unit ; excerpts from the GDR textbook _Diensthunde: ihre Abrichtung und Haltung_ by Haberhauffe & Albrecht (Berlin, 1979); an account given by wall victim Willi Block (1934-1966), based on the web-based documentary project _Chronik der Mauer_; an excerpt from _ZDF heute Nachrichten_, 10 November (FRG, 1989); excerpts from the BBC documentary _Walking The Wall_ with P. Bartels, former chief editor of the BILD newspaper (UK, 1994); excerpt from Durs Grünbein’s poem “Portrait des Künstlers als junger Grenzhund 9” (Portrait of the Artist as a Young Border Dog 9) from _Schädelbasislektion_ (Frankfurt, 1991).
 
 :::DE:::
 
