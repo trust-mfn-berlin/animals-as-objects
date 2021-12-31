@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Face to Face with Zoo Animals
 title_de: Zootiere anfassen
 created: 1640354060660
-updated: 1640898446956
+updated: 1640915566036
 id: U1w3ckwyrdpQ2JzOLgTKo
 author: Mareike Vennen
 desc: The baby animal zoo
@@ -83,7 +83,7 @@ _No restraint between human child and young predator, as the_ Heidelberger Tageb
  
 [^3]: Zukowsky, Hildegard. “Löwenprinzchen.” _CHITuMW_, no. 6, 1 (1926): 132-134, quoted in: Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945._ Bielefeld: transcript, 2015: 291.
  
-[^4]: The zoo itself would not have had nearly enough animals to supply the children's zoo. The zoo shared the earnings with the animal dealer. 
+[^4]: The zoo itself would not have had nearly enough animals to supply the children’s zoo. The zoo shared the earnings with the animal dealer. 
  
 [^5]: L. Ruhe to Berlin Zoo, 03.02.1931, AZGB O 3/2/1.
  
@@ -127,7 +127,7 @@ Was heute als irritierend, gefährlich und wenig artgerecht erscheint, war damal
 
 <figcaption>
 
-_Bild des 'Tierkinderzoos' von 1936. (AZGB. Alle Rechte vorbehalten.)_
+_Bild des ‘Tierkinderzoos’ von 1936. (AZGB. Alle Rechte vorbehalten.)_
  
 </figcaption>
 
