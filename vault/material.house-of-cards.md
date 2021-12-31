@@ -2,7 +2,7 @@
 id: A8Dh5fk6b52EJQRaw3Qe4
 title: A House of Cards
 desc: Organising knowledge using loose index cards
-updated: 1640522352136
+updated: 1640912059911
 created: 1629792930385
 license: CC BY-SA
 title_de: Verzettelung
@@ -60,7 +60,7 @@ _Record of a wet specimen of a [[common seadragon|material.common-seadragon]] in
 
 </figure>
 
-Because they are so flexible, the index cards facilitate the management of collection items. **These items have been used as teaching aids since the founding of the teaching collection and are taken in and out of their display cases and carried about on a daily basis.** Unlike the continuous inventory in a book or list, these cards make it easier to incorporate recently acquired objects and to modify or swap out existing systems of order. At the same time, this loose system can also lead to the loss or scattering of knowledge. Besides organising the collection, the index cards also record historical developments by bringing together information, entries, and corrections from various periods in the collection's history. Comments have often been written over the printed cards by hand, and some cards have had old labels added or sticky notes attached to them. It becomes plain to see how changes have taken place in the way that collection items are organised and how [[record-keeping systems|theme.recording-worlds]] have transformed over time. These developments have always been closely linked to the individual practices of the respective collection managers and their knowledge, which has inscribed itself into and survives in the collection in this way.
+Because they are so flexible, the index cards facilitate the management of collection items. **These items have been used as teaching aids since the founding of the teaching collection and are taken in and out of their display cases and carried about on a daily basis.** Unlike the continuous inventory in a book or list, these cards make it easier to incorporate recently acquired objects and to modify or swap out existing systems of order. At the same time, this loose system can also lead to the loss or scattering of knowledge. Besides organising the collection, the index cards also record historical developments by bringing together information, entries, and corrections from various periods in the collection’s history. Comments have often been written over the printed cards by hand, and some cards have had old labels added or sticky notes attached to them. It becomes plain to see how changes have taken place in the way that collection items are organised and how [[record-keeping systems|theme.recording-worlds]] have transformed over time. These developments have always been closely linked to the individual practices of the respective collection managers and their knowledge, which has inscribed itself into and survives in the collection in this way.
 
 
 :::DE:::
