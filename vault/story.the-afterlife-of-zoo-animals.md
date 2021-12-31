@@ -7,7 +7,7 @@ short_desc_de: Auf den Spuren eines Elefanten
 date_end: 1947-12-31T11:00:00.000Z
 published: false
 title: The Afterlife of Zoo Animals
-updated: 1640954588256
+updated: 1640955450286
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 translators:
   translator_de_en: ""
@@ -46,7 +46,7 @@ _Newspaper article in the_ Telegraf _about the reuse of “Siam’s” carcass, 
 
 </figure>
 
-In 1947, the Berlin daily newspaper _Telegraf_ reported on the death of “Siam”. Under the headline “Siam under the band saw”, the article described the last chapter of the Indian bull elephant’s life at Berlin Zoo. I was researching the history of elephant shipments when I came across the moving story of “Siam”. The elephant was shipped to Berlin in the early 1930s from what was then the British colony of Ceylon (now Sri Lanka), actually intended for the Krone Circus. However, as “Siam” displayed behavioral problems, the circus deemed him unsuitable for their purposes and gave him to the Berlin Zoological Garden in exchange for a giraffe. “Siam” lived at the zoo from 1933 until his death in 1947.
+In 1947, the Berlin daily newspaper _Telegraf_ reported on the death of “Siam”. Under the headline “Siam under the band saw”, the article described the last chapter of the Indian bull elephant’s life at the Berlin Zoo. I was researching the history of elephant shipments when I came across the moving story of “Siam”. The elephant was shipped to Berlin in the early 1930s from what was then the British colony of Ceylon (now Sri Lanka), actually intended for the Krone Circus. However, as “Siam” displayed behavioral problems, the circus deemed him unsuitable for their purposes and gave him to the Berlin Zoological Garden in exchange for a giraffe. “Siam” lived at the zoo from 1933 until his death in 1947.
 
 <figure>
 
