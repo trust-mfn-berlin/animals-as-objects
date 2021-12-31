@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Core Samples
 title_de: Kernproben
 created: 1629110227049
-updated: 1640898265413
+updated: 1640911202573
 id: 02wCHNiTRZ4Zkq2cO9Cpv
 author: Filippo Bertoni
 translators:
@@ -56,7 +56,7 @@ _A video showing the work of collecting and studying core samples through [[mate
 
 [^1]: You can learn more about core samples also by exploring the mineralogical collections of the Museum fur Naturkunde Berlin: https://www.museumfuernaturkunde.berlin/en/science/geochemical-and-microanalytical-laboratories and https://www.museumfuernaturkunde.berlin/en/science/rock-and-ore-collection. 
 
-[^2]: Arranging international research efforts of this scale is not an easy task, and is one that requires complex sociopolitical arrangements. To learn more on the work of extracting data from the ocean's depths, see Rosol, Christof. "Hauling data: Anthropocene analogues, paleoceanography and missing paradigm shifts". _Historical Social Research_ 40, no. 2 (2015): 37-66. https://doi.org/10.12759/hsr.40.2015.2.37-66.
+[^2]: Arranging international research efforts of this scale is not an easy task, and is one that requires complex sociopolitical arrangements. To learn more on the work of extracting data from the ocean’s depths, see Rosol, Christof. “Hauling data: Anthropocene analogues, paleoceanography and missing paradigm shifts“. _Historical Social Research_ 40, no. 2 (2015): 37-66. https://doi.org/10.12759/hsr.40.2015.2.37-66.
 
 :::DE:::
 
