@@ -3,7 +3,7 @@ license: CC BY-SA
 title: SOMSO-Plast – Plastic Animal Models
 title_de: SOMSO-Plast – Tiermodelle aus Plastik
 created: 1629799783441
-updated: 1640898167652
+updated: 1640917514228
 id: EjCkhWUz4D4DXc9ANY8bc
 author: Britta Lange
 translators:
@@ -29,7 +29,7 @@ published: false
 
 <figcaption>
 
-_Plastic model of a potato bug by the Somso company, date unknown. (Zoological Teaching Collection.)_
+_Plastic model of a potato bug by the SOMSO company, date unknown. (Zoological Teaching Collection.)_
 
 </figcaption>
 
@@ -53,7 +53,7 @@ SOMSO-Plast increasingly replaced papier mâché and plaster as materials. **The
 
 <figcaption>
 
-_Modell eines Kartoffelkäfers aus Plastik von der Firma Somso, Datierung unbekannt. (Zoologische Lehrsammlung)_
+_Modell eines Kartoffelkäfers aus Plastik von der Firma SOMSO, Datierung unbekannt. (Zoologische Lehrsammlung)_
 
 </figcaption>
 
