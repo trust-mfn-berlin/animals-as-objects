@@ -7,7 +7,7 @@ short_desc_de: Auf den Spuren eines Elefanten
 date_end: 1947-12-31T11:00:00.000Z
 published: false
 title: The Afterlife of Zoo Animals
-updated: 1640954196997
+updated: 1640954588256
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 translators:
   translator_de_en: ""
@@ -90,7 +90,7 @@ One thing that is clear, however, in “Siam’s” case, the trail leads us int
 
 ## Feeding and eating
 
-Meanwhile, another trail takes me to postwar Berlin, where those parts of “Siam’s” carcass that were not eligible for taxidermy were reused in other ways. This was mainly due to the chronic supply shortages the city faced during that period, see also [[story.feed-scarcity]]. When the _Neue Zeitung_ headlined: “‘Siam’ = 2.5 million calories’,[^6] it was not only referring to the hundredweight of hay the elephant ate daily. The meat of the 7-ton bull elephant was now itself put to use as feed for the lions in the zoo – “for whom the demise of their large neighbor means a special calorie-rich meal allotment”, as the _Neue Zeitung_ commented.[^7] See also [[material.winter-hardship-at-the-zoo]].
+Meanwhile, another trail takes me to postwar Berlin, where those parts of “Siam’s” carcass that were not eligible for taxidermy were reused in other ways. This was mainly due to the chronic [[supply shortages|story.feed-scarcity]] the city faced during that period. When the _Neue Zeitung_ headlined: “‘Siam’ = 2.5 million calories’,[^6] it was not only referring to the hundredweight of hay the elephant ate daily. The meat of the 7-ton bull elephant was now itself put to use as feed for the lions in the zoo – “for whom the demise of their large neighbor means a special calorie-rich meal allotment”, as the _Neue Zeitung_ commented.[^7] See also [[material.winter-hardship-at-the-zoo]].
 
 Especially in the first years after the war, the zoo did indeed repeatedly struggle to [[feed|material.feeding-list-1945]] its carnivores. They predominantly used horse meat for this purpose: sometimes “good meat”, but mostly carcass meat, which was allocated by the health department via traders.[^8] For carcass processing, a special knackery with a steam boiler was even set up next to the feed kitchen in the zoo in 1948.[^9] Berlin Zoo had to pay comparatively high sums even for this low-quality meat, as Katharina Heinroth learned from enquiring at other zoological gardens in Germany. Most zoos in West Germany no longer used carcass meat at all because of its inferior quality and the risk of infection for the zoo animals. They either received feed meat from slaughterhouses, or meat from what was known as the _Freibank_, an institution that specialized in the sale of meat from animals that had had to be slaughtered due to an accident or emergency. Their meat was classified as inferior, but not harmful, and thus only fit for consumption to a limited extent – which meant that prices were correspondingly lower.[^10] Most zoos paid a maximum of 0.36 West German marks per kilogram for free range and feed meat (≈ €0.93 in 2021.) Berlin Zoo, by contrast, had to pay an average of 0.70 West German marks even for a kilo of carcass meat with bones (≈ €1.80 in 2021). In the Eastern sector on the other hand, carcass meat with bones cost the equivalent of only 0.20 West German marks (≈ €0.51 in 2021).[^11]
 
