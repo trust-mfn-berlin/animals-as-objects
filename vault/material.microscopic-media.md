@@ -7,7 +7,7 @@ desc: |-
   These tools and techniques are fundamental to characterizing microbial life.
   And they remind us that our view of the world is historically situated and
   always depends on mediations of one kind or another.
-updated: 1640295714824
+updated: 1640913784474
 created: 1618492963611
 license: CC BY-SA
 title_de: Mikroskopische Medien
@@ -73,19 +73,19 @@ While benefiting from the lessons learned through these techniques, micropaleont
 
 [^5]: The specificities of the historical standardization of microscope resolution, along with the convergence of microscopy and life sciences in 19th century Germany, are treated in detail in Schickore, Jutta. _The microscope and the eye: A history of reflections, 1740-1870._ University of Chicago Press, 2007.
 
-[^6]: To learn more about the important role of standardized glassware in the life sciences, you can read this fascinating article: Espahangizi, Kijan. "The Twofold History of Laboratory Glassware." Mathias Grote, Max Stadler, and Laura Otis (eds). _Membranes, Surfaces and Boundaries: Interstices in the History of Science, Technology and Culture_ (2011): 17-33.
+[^6]: To learn more about the important role of standardized glassware in the life sciences, you can read this fascinating article: Espahangizi, Kijan. “The Twofold History of Laboratory Glassware”. Mathias Grote, Max Stadler, and Laura Otis (eds). _Membranes, Surfaces and Boundaries: Interstices in the History of Science, Technology and Culture_ (2011): 17-33.
 
-[^7]: To learn more about the ubiquitous Petri dish, visit https://thebiomedicalscientist.net/science/big-story-petri-dish or  http://somatosphere.net/2014/petri-dish.html/. To better understand its important role in consolidating a specific version of microbiology at the expense of alternative ones, you can read this article by geographer Attenborough, Frederick. "The monad and the nomad: medical microbiology and the politics and possibilities of the mobile microbe." _cultural geographies_ 18, no. 1 (2011): 91-114.
+[^7]: To learn more about the ubiquitous Petri dish, visit https://thebiomedicalscientist.net/science/big-story-petri-dish or  http://somatosphere.net/2014/petri-dish.html/. To better understand its important role in consolidating a specific version of microbiology at the expense of alternative ones, you can read this article by geographer Attenborough, Frederick. “The monad and the nomad: medical microbiology and the politics and possibilities of the mobile microbe”. _cultural geographies_ 18, no. 1 (2011): 91-114.
 
 [^8]: For an impressive example of the importance and beauty of these early illustrations, have a look at Hooke’s famous 1665 book _Micrographia_ and its captivating plates, which can be browsed digitally here: https://royalsociety.org/blog/2020/07/micrographia-online/. Also, check out this episode of ‘Journey to the Microcosmos’ on Ehrenberg’s own illustrations held at the Museum fur Naturkunde Berlin: https://youtu.be/PKMUJdn09OU.
 
-[^9]: See, for instance, these articles: Landecker, Hannah. "Microcinematography and the History of Science and Film." _Isis_ 97, no. 1 (2006): 121-132. https://doi.org/10.1086/501105; and Landecker, Hannah. "Seeing things: from microcinematography to live cell imaging." _Nature methods_ 6, no. 10 (2009): 707-709. https://doi.org/10.1038/nmeth1009-707. 
+[^9]: See, for instance, these articles: Landecker, Hannah. “Microcinematography and the History of Science and Film”. _Isis_ 97, no. 1 (2006): 121-132. https://doi.org/10.1086/501105; and Landecker, Hannah. “Seeing things: from microcinematography to live cell imaging”. _Nature methods_ 6, no. 10 (2009): 707-709. https://doi.org/10.1038/nmeth1009-707. 
 
 [^10]: You can read the fascinating story of Angelina Fanny Hesse’s central role in the key innovation represented by the agar as a medium for cell culture here: https://www.popsci.com/blog-network/ladybits/forgotten-woman-who-made-microbiology-possible/.
 
 [^11]: To learn more on the important history of cell cultures, read the great book by Landecker, Hannah. _Culturing life._ Harvard University Press, 2009.
 
-[^12]: Although even these organisms present their own challenges; you can learn more about this by reading Bracegirdle, Brian. "A history of microtechnique." _Journal of the History of Biology_ 14, no. 2 (1981). For the more technical side of this, have a look at: Neuhaus, Birger, Thomas Schmid, and Jens Riedel. "Collection management and study of microscope slides: Storage, profiling, deterioration, restoration procedures, and general recommendations." _Zootaxa_ 4322, no. 1 (2017): 1-173.
+[^12]: Although even these organisms present their own challenges; you can learn more about this by reading Bracegirdle, Brian. “A history of microtechnique”. _Journal of the History of Biology_ 14, no. 2 (1981). For the more technical side of this, have a look at: Neuhaus, Birger, Thomas Schmid, and Jens Riedel. “Collection management and study of microscope slides: Storage, profiling, deterioration, restoration procedures, and general recommendations”. _Zootaxa_ 4322, no. 1 (2017): 1-173.
 
 
 
@@ -135,17 +135,17 @@ Während die Mikropaläontologie von den Erfahrungen mit diesen Techniken und de
 
 [^5]: Eine ausführliche Darstellung der historischen Entwicklung der Standardisierung mikroskopischer Auflösung sowie der Verschmelzung von Mikroskopie und Biowissenschaften in Deutschland im 19. Jahrhundert findet sich in: Schickore, Jutta. _The microscope and the eye: A history of reflections, 1740–1870._ University of Chicago Press, 2007.
 
-[^6]: Die bedeutende Rolle standardisierter Glaswaren in den Biowissenschaften beschreibt dieser faszinierende Artikel: Espahangizi, Kijan. "The Twofold History of Laboratory Glassware." Mathias Grote, Max Stadler, und Laura Otis (Hg). _Membranes, Surfaces and Boundaries: Interstices in the History of Science, Technology and Culture_ (2011): 17–33.
+[^6]: Die bedeutende Rolle standardisierter Glaswaren in den Biowissenschaften beschreibt dieser faszinierende Artikel: Espahangizi, Kijan. “The Twofold History of Laboratory Glassware”. Mathias Grote, Max Stadler, und Laura Otis (Hg). _Membranes, Surfaces and Boundaries: Interstices in the History of Science, Technology and Culture_ (2011): 17–33.
 
-[^7]: Um mehr über die heute allgegenwärtige Petrischale zu erfahren, siehe https://thebiomedicalscientist.net/science/big-story-petri-dish oder  http://somatosphere.net/2014/petri-dish.html/. Für ein besseres Verständnis ihrer wichtigen Rolle bei der Etablierung einer bestimmten mikrobiologischen Darstellungsweise (anstelle alternativer Darstellungsmöglichkeiten), lohnt dieser Artikel des Geografen Attenborough, Frederick: "The monad and the nomad: medical microbiology and the politics and possibilities of the mobile microbe." _cultural geographies_ 18, Nr. 1 (2011): 91–114.
+[^7]: Um mehr über die heute allgegenwärtige Petrischale zu erfahren, siehe https://thebiomedicalscientist.net/science/big-story-petri-dish oder  http://somatosphere.net/2014/petri-dish.html/. Für ein besseres Verständnis ihrer wichtigen Rolle bei der Etablierung einer bestimmten mikrobiologischen Darstellungsweise (anstelle alternativer Darstellungsmöglichkeiten), lohnt dieser Artikel des Geografen Attenborough, Frederick: “The monad and the nomad: medical microbiology and the politics and possibilities of the mobile microbe”. _cultural geographies_ 18, Nr. 1 (2011): 91–114.
 
 [^8]: Um einen Eindruck von der Bedeutung und Ästhetik dieser frühen Illustrationen zu bekommen, lohnt sich der Blick in Hookes berühmtes Werk _Micrographia_ aus dem Jahr 1665 mit seinen faszinierenden Tafeln, die sich in digitaler Form hier finden: https://royalsociety.org/blog/2020/07/micrographia-online/. Außerdem gibt es dazu eine empfehlenswerte Folge der Web-Serie „Journey to the Microcosmos“, in der es um Ehrebergs Illustrationen geht, die im Museum für Naturkunde Berlin aufbewahrt werden: https://youtu.be/PKMUJdn09OU.
 
-[^9]: Siehe z.B. die folgenden Artikel: Landecker, Hannah. "Microcinematography and the History of Science and Film." _Isis_ 97, Nr. 1 (2006): 121–132. https://doi.org/10.1086/501105; und Landecker, Hannah. "Seeing things: from microcinematography to live cell imaging." _Nature methods_ 6, Nr. 10 (2009): 707–709. https://doi.org/10.1038/nmeth1009-707. 
+[^9]: Siehe z.B. die folgenden Artikel: Landecker, Hannah. “Microcinematography and the History of Science and Film”. _Isis_ 97, Nr. 1 (2006): 121–132. https://doi.org/10.1086/501105; und Landecker, Hannah. “Seeing things: from microcinematography to live cell imaging”. _Nature methods_ 6, Nr. 10 (2009): 707–709. https://doi.org/10.1038/nmeth1009-707. 
 
 [^10]: Die faszinierende Geschichte über die wichtige Rolle von Angelina Fanny Hesse bei der wegweisenden Entdeckung von agar als Geliermittel für Nährböden für Zellkulturen findet sich hier: https://www.popsci.com/blog-network/ladybits/forgotten-woman-who-made-microbiology-possible/.
 
 [^11]: Um mehr über die Geschichte der Zellkulturen zu erfahren, siehe den großartigen Band von Landecker, Hannah: _Culturing life._ Harvard University Press, 2009.
 
-[^12]: Wenngleich diese Organismen ebenfalls ihre eigenen Schwierigkeiten mit sich bringen; mehr dazu findet sich in Bracegirdle, Brian. "A history of microtechnique." _Journal of the History of Biology_ 14, Nr. 2 (1981). Zu den eher technischen Aspekten, siehe: Neuhaus, Birger, Thomas Schmid, und Jens Riedel. "Collection management and study of microscope slides: Storage, profiling, deterioration, restoration procedures, and general recommendations." _Zootaxa_ 4322, Nr. 1 (2017): 1–173.
+[^12]: Wenngleich diese Organismen ebenfalls ihre eigenen Schwierigkeiten mit sich bringen; mehr dazu findet sich in Bracegirdle, Brian. “A history of microtechnique”. _Journal of the History of Biology_ 14, Nr. 2 (1981). Zu den eher technischen Aspekten, siehe: Neuhaus, Birger, Thomas Schmid, und Jens Riedel. “Collection management and study of microscope slides: Storage, profiling, deterioration, restoration procedures, and general recommendations”. _Zootaxa_ 4322, Nr. 1 (2017): 1–173.
 
