@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Papier Mâché Silkworm
 title_de: Maulbeerspinner in Papiermaschee
 created: 1629796212936
-updated: 1640523030177
+updated: 1640913099727
 id: kaVI1pTyKCM8SvVsrYrSJ
 author: Britta Lange
 translators:
@@ -63,13 +63,13 @@ _Even with the lid closed, the insides of the silkworm can be seen in the papier
 
 </figure>
 
-The functional, collapsible anatomical model (which Auzoux also referred to as an "anatomie clastique") of the _Bombyx mori_, the silkworm, shows its skin and extremities, its inner organs, and its silk glands considerably enlarged and in great detail. This carefully painted artefact, which was probably produced in the 1860s and is still housed in the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]] of the Humboldt University in Berlin[^4], can be opened or closed using metal hooks and, alongside some numbering, also displays text that has been written directly onto the individual body parts (see also [[Keeping Records of Animals|story.keeping-record-of-animals]]). This writing does not just make reference to the body parts like a legend; rather, it is inscribed onto the model in ink and letters and simultaneously describes it in scientific jargon. The silkworm appears here as a 'working animal' that turns out a product – silk thread. At the same time, the model represents one stage of a complete metamorphosis, whose imago (the sexually mature insect after its final transformation) Auzoux has immortalised in papier mâché. He also had models of female and male silk moths on offer for teaching purposes.
+The functional, collapsible anatomical model (which Auzoux also referred to as an “anatomie clastique”) of the _Bombyx mori_, the silkworm, shows its skin and extremities, its inner organs, and its silk glands considerably enlarged and in great detail. This carefully painted artefact, which was probably produced in the 1860s and is still housed in the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]] of the Humboldt University in Berlin[^4], can be opened or closed using metal hooks and, alongside some numbering, also displays text that has been written directly onto the individual body parts (see also [[Keeping Records of Animals|story.keeping-record-of-animals]]). This writing does not just make reference to the body parts like a legend; rather, it is inscribed onto the model in ink and letters and simultaneously describes it in scientific jargon. The silkworm appears here as a ‘working animal’ that turns out a product – silk thread. At the same time, the model represents one stage of a complete metamorphosis, whose imago (the sexually mature insect after its final transformation) Auzoux has immortalised in papier mâché. He also had models of female and male silk moths on offer for teaching purposes.
 
 [^1]: Cf. Hopwood, Nick. _Embryos in Wax: Models from the Ziegler Studio_. Cambridge: Whipple Museum of the History of Science, 2002.
 
-[^2]: On Auzoux' models, see Grob, Bart. _The World of Auzoux: Models of Man and Beast in Papier-Mâché_. Leiden: Museum Boerhaave, 2000; Cocks, Margret Maria. "Dr Louis Auzoux and His Collection of Papier-Mâché Flowers, Fruits and Seeds". _Journal of the History of Collections_ 26, no. 2 (2014): 229-248; Olszewski, Margret Maria. "Dr. Auzoux' Botanical Teaching Models and Medical Education at the Universities of Glasgow and Aberdeen". _Studies in History and Philosophy of Science. Part C_ 42, no. 3 (2011): 285-296.
+[^2]: On Auzoux’ models, see Grob, Bart. _The World of Auzoux: Models of Man and Beast in Papier-Mâché_. Leiden: Museum Boerhaave, 2000; Cocks, Margret Maria. “Dr Louis Auzoux and His Collection of Papier-Mâché Flowers, Fruits and Seeds”. _Journal of the History of Collections_ 26, no. 2 (2014): 229-248; Olszewski, Margret Maria. “Dr. Auzoux’ Botanical Teaching Models and Medical Education at the Universities of Glasgow and Aberdeen”. _Studies in History and Philosophy of Science. Part C_ 42, no. 3 (2011): 285-296.
 
-[^3]: Cf. "Modell, Raupe, Seidenspinner". Humboldt University database entry, no date, https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (24.08.2021).
+[^3]: Cf. “Modell, Raupe, Seidenspinner”. Humboldt University database entry, no date, https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (24.08.2021).
 
 
 [^4]: Vgl. Dr. L. Wittmack: _Allgemeiner Katalog des königlichen landwirthschaftlichen Museums zu Berlin_, Berlin: Verlagsbuchhandlung Wiegandt und Hempel, 1869, pp. 108f. (no. 43). The model was purchased from Auzoux for 66 talers, and it is highly likely that it then moved to Invalidenstraße 42 when the United Agricultural Teaching Institute and Museum (Vereinigtes landwirthschaftliches Lehr-Institut und Museum) was built in 1880. 
@@ -116,8 +116,8 @@ Das aufklappbare anatomische Funktionsmodell (auch Clastique-Modell genannt) von
 
 [^1]: Vgl. Hopwood, Nick. _Embryos in Wax: Models from the Ziegler Studio_. Cambridge: Whipple Museum of the History of Science, 2002.
 
-[^2]: Zu Auzoux' Modellen vgl. Grob, Bart. _The World of Auzoux: Models of Man and Beast in Papier-Mâché_. Leiden: Museum Boerhaave, 2000; Cocks, Margret Maria. "Dr Louis Auzoux and His Collection of Papier-Mâché Flowers, Fruits and Seeds". _Journal of the History of Collections_ 26, Nr. 2 (2014): 229-248; Olszewski, Margret Maria. "Dr. Auzoux' Botanical Teaching Models and Medical Education at the Universities of Glasgow and Aberdeen". _Studies in History and Philosophy of Science. Part C_ 42, Nr. 3 (2011): 285-296.
+[^2]: Zu Auzoux’ Modellen vgl. Grob, Bart. _The World of Auzoux: Models of Man and Beast in Papier-Mâché_. Leiden: Museum Boerhaave, 2000; Cocks, Margret Maria. “Dr Louis Auzoux and His Collection of Papier-Mâché Flowers, Fruits and Seeds”. _Journal of the History of Collections_ 26, Nr. 2 (2014): 229-248; Olszewski, Margret Maria. “Dr. Auzoux’ Botanical Teaching Models and Medical Education at the Universities of Glasgow and Aberdeen”. _Studies in History and Philosophy of Science. Part C_ 42, Nr. 3 (2011): 285-296.
 
-[^3]: Vgl. "Modell, Raupe, Seidenspinner". Datenbankeintrag der HU, ohne Datum, https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (24.08.2021).
+[^3]: Vgl. “Modell, Raupe, Seidenspinner”. Datenbankeintrag der HU, ohne Datum, https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (24.08.2021).
 
 [^4]: Vgl. Dr. L. Wittmack: _Allgemeiner Katalog des königlichen landwirthschaftlichen Museums zu Berlin_, Berlin: Verlagsbuchhandlung Wiegandt und Hempel, 1869, S. 108f. (Nr. 43). Das Modell von Auzoux wurde für gut 66 Taler erworben und dann höchstwahrscheinlich mit dem Neubau des Vereinigten landwirthschaftlichen Lehr-Institut und Museum in Berlin 1880 in die Invalidenstraße 42 transferiert. 
