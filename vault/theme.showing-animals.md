@@ -2,14 +2,14 @@
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 title: Putting Animals on Display
 desc: |-
-  Zoos' justifications for keeping animals and putting them on display have
+  Zoos justifications for keeping animals and putting them on display have
   changed a great deal through the centuries, from recreation for urban
   populations to research and wildlife conservation. The now typical,
   geographically structured zoo in Berlin with its exoticising architecture was
   preceded by a taxonomically structured zoo that placed far more value on the
   completeness of its order than on the quality of the conditions in which
   animals were kept.
-updated: 1640910383402
+updated: 1640910421595
 created: 1618572893774
 license: CC BY-SA
 title_de: Tiere zurschaustellen
