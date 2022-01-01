@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Of Disappearance and Rediscovery
 title_de: Vom Verschwinden und Wiederfinden
 created: 1640355738318
-updated: 1640914013994
+updated: 1641060616453
 id: OnYQIVhzHVPQr5cuuBtEO
 author: Mareike Vennen
 translators:
@@ -29,7 +29,7 @@ published: false
 
 <figcaption>
 
-_Monitor lizard preserved in alcohol from the Herpetological Collection at the Museum of Natural History Berlin. (Photo: Frank Tillack/MfN. All rights reserved.)_
+_Monitor lizard preserved in alcohol from the Herpetological Collection at the Museum of Natural History Berlin. (Image: Frank Tillack/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -45,7 +45,7 @@ Over the course of the 20th century, the specimen constantly switched between pr
 
 <figcaption>
 
-_The historic specimen of a monitor lizard sent to the museum in 1914. (Photo: Frank Tillack/MfN. All rights reserved.)_
+_The historic specimen of a monitor lizard sent to the museum in 1914. (Image: Frank Tillack/MfN. All rights reserved.)_
 
 </figcaption>
 
