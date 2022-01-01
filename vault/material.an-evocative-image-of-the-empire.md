@@ -3,7 +3,7 @@ license: CC BY-SA
 title: An “Atmospheric Image” of the Empire
 title_de: Ein “stimmungsvolles Bild” des Kolonialreichs
 created: 1640456876442
-updated: 1641056181034
+updated: 1641056212525
 id: ZDxo1U9ptEVRJhmFpVKyC
 author: Catarina Madruga
 translators:
@@ -58,7 +58,7 @@ This strategy to combine a hunting exhibition with a colonial exhibition continu
 
 [^2]: “Raum 4: Eisengräber”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_. 2nd ed. Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 61.
 
-[^3]: German original: “ein möglichst stimmungsvolles Bild”. Rehbock, T. “Vorwort”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2nd ed., 9–12. Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 11. 
+[^3]: German original: “ein möglichst stimmungsvolles Bild”. Rehbock, T. “Vorwort”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2nd ed., 9-12. Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 11. 
 
 [^4]: “Raum 2 b und c: Zoologisches Museum, Berlin”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_. 2nd ed. Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 55.
 
@@ -102,7 +102,7 @@ Diese Strategie, eine Jagdausstellung mit einer kolonialen Ausstellung zu kombin
 
 [^2]: “Raum 4: Eisengräber”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2. Aufl., Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 61.
 
-[^3]: Im Original: “ein möglichst stimmungsvolles Bild”. Rehbock, T. „Vorwort“. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2. Aufl., 9–12. Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 11. 
+[^3]: Im Original: “ein möglichst stimmungsvolles Bild”. Rehbock, T. „Vorwort“. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2. Aufl., 9-12. Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 11. 
 
 [^4]: “Raum 2 b und c: Zoologisches Museum, Berlin”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2. Aufl., Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 55.
 
