@@ -3,7 +3,7 @@ license: CC BY-SA
 title: An “Atmospheric Image” of the Empire
 title_de: Ein “stimmungsvolles Bild” des Kolonialreichs
 created: 1640456876442
-updated: 1640886551623
+updated: 1641055428139
 id: ZDxo1U9ptEVRJhmFpVKyC
 author: Catarina Madruga
 translators:
@@ -30,7 +30,7 @@ On the left wall are hanged animal skulls with horns of various sizes, below whi
 
 <figcaption>
 
-_Photograph from the 1903_ Offizieller Katalog Der Deutsch-Kolonialen Jagdausstellung _(Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 62/63) showing ethnographic objects and animal trophies side by side._
+_Photograph from the 1903_ Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung _(Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 62/63) showing ethnographic objects and animal trophies side by side._
 
 </figcaption>
 
@@ -46,7 +46,7 @@ The event was organised by the Deutsche Kolonialgesellschaft (the German Colonia
 
 <figcaption>
 
-_Page 2 of the_ Offizieller Katalog Der Deutsch-Kolonialen Jagdausstellung _from 1903 contained a floor plan of the exhibition with a legend listing all 31 rooms and exhibitors._
+_Page 2 of the_ Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung _from 1903 contained a floor plan of the exhibition with a legend listing all 31 rooms and exhibitors._
 
 </figcaption>
 
@@ -74,13 +74,13 @@ This strategy to combine a hunting exhibition with a colonial exhibition continu
 
 <figcaption>
 
-_Foto des 1903 erstellten_ Offiziellen Katalogs Der Deutsch-Kolonialen Jagdausstellung _(Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 62/63), das ethnographische Objekte und Tiertrophäen unmittelbar nebeneinander zeigt._
+_Foto des 1903 erstellten_ Offiziellen Katalogs der Deutsch-Kolonialen Jagdausstellung _(Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 62/63), das ethnographische Objekte und Tiertrophäen unmittelbar nebeneinander zeigt._
 
 </figcaption>
 
 </figure>
 
-Dieses Foto zeigt den Raum des Kolonialwaren-Handelshauses Karl Eisengräber in der Deutsch-Kolonialen Jagdausstellung von 1903. Es bezeugt nicht nur die komplexe Bildersprache, die die Kolonialpolitik der europäischen Großmächte im 19. Jahrhunderts begleitete, sondern liefert uns auch Hinweise auf die Rolle von Tieren in diesem Zusammenhang.
+Dieses Foto zeigt den Raum des Kolonialwaren-Handelshauses Karl Eisengräber in der Deutsch-Kolonialen Jagdausstellung von 1903. Es bezeugt nicht nur die komplexe Bildersprache, die die Kolonialpolitik der europäischen Großmächte im 19. Jahrhundert begleitete, sondern liefert uns auch Hinweise auf die Rolle von Tieren in diesem Zusammenhang.
 
 Organisiert wurde die Ausstellung von der Deutschen Kolonialgesellschaft, die wiederum 1887 mit dem Ziel gegründet worden war, die weitere Erkundung Ostafrikas voranzutreiben und die deutsche Kolonialpolitik zu stärken, sowie den “kolonialen Gedanken” in der deutschen Gesellschaft im Allgemeinen zu verbreiten.[^1] Im Jahr 1902 veranstaltete die Gesellschaft ihren ersten Kolonialkongress in Berlin, dem 1903 die Jagdausstellung in Karlsruhe folgte. Wie auch in den übrigen Teilen der Ausstellung wurden in diesem Foto die Tiere an den Wänden des Ausstellungsraums als Jagdtrophäen dargestellt. Was dieses Bild so besonders macht, ist, dass die Schädel von Büffeln, Nashörnern, Elefanten und Antilopen direkt neben Kolonialwaren ausgestellt sind: die Produkte der kolonialen Landwirtschaft wie Kaffee, Kakao, Vanille und Erdnussöl. Diese “Rohwaren” waren direkt neben handgefertigten Gegenständen zu sehen, wobei alles von den “deutschen Suahelis” erworben werden konnte, auch um das Publikum von der Qualität und Authentizität der Produkte und des Handwerks zu überzeugen.[^2] Dem Katalog zufolge wurden der Jagdausstellung ethnographische Sammlungen hinzugefügt, um “ein möglichst stimmungsvolles Bild” der deutschen Kolonialgebiete als Ganzes zu präsentieren.[^3] Auf diese Weise wurde die Großwildjagd visuell mit natürlichen Ressourcen und den expandierenden kolonialen Märkten assoziiert, wobei die Ausstellung insgesamt eine Verbindung zwischen Jagdexpeditionen, kolonialen Waren und Handwerksprodukten und wirtschaftlichem Gewinn nahelegte.
 
@@ -90,7 +90,7 @@ Organisiert wurde die Ausstellung von der Deutschen Kolonialgesellschaft, die wi
 
 <figcaption>
 
-_Seite 2 des_ Offiziellen Katalogs Der Deutsch-Kolonialen Jagdausstellung _aus dem Jahr 1903 enthielt einen Ausstellungsplan mit einer Legende, in der alle 31 Räume der Ausstellung sowie die dort Ausstellenden aufgeführt und erläutert wurden._
+_Seite 2 des_ Offiziellen Katalogs der Deutsch-Kolonialen Jagdausstellung _aus dem Jahr 1903 enthielt einen Ausstellungsplan mit einer Legende, in der alle 31 Räume der Ausstellung sowie die dort Ausstellenden aufgeführt und erläutert wurden._
 
 </figcaption>
 
