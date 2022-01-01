@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The “Gorilla Beast”
 title_de: Die “Bestie Gorilla”
 created: 1640365282699
-updated: 1640882280064
+updated: 1641054554943
 id: H40I2GIwYN6393S3tIUHI
 author: Britta Lange
 translators:
@@ -76,11 +76,11 @@ _A poster printed by Friedländer in Hamburg for the 1903 German Colonial Huntin
 
 This was a continuation of the trophy iconography depicting the gorilla as a beast, which also legitimized the killing of the animals and, in a figurative sense, the subjugation of humans in the colonies who had also been declared “savage”. It was translated into various media – paintings, posters, taxidermies, and later films like “King Kong” (1933) – with slight variations. While the stereotypical image of Earth’s largest primate as a beast has survived into the present, its historical entanglement with colonial power fantasies and exhibition contexts has now largely been forgotten.
 
-[^1]: “Deutsch-Koloniale Jagdausstellung in Karlsruhe.” _Deutsche Kolonial-Zeitung_ 20, no. 29 (1903): 291.
+[^1]: “Deutsch-Koloniale Jagdausstellung in Karlsruhe”. _Deutsche Kolonial-Zeitung_ 20, no. 29 (1903): 291.
 
 [^2]: The picture without a stamp by Wilhelm Kuhnert (who also exhibited in Karlsruhe) is also printed in Umlauff’s Gorilla brochure. Cf. _Der Riesen-Gorilla des Museum Umlauff Hamburg: Schilderung seiner Erlegung und wissenschaftliche Beschreibung. Katalog_. Hamburg: Adolph Friedländers Druckerei, 1901.
 
-[^3]: Cf. Ingensiep, Hans Werner. “Kultur- und Zoogeschichte der Gorillas – Beobachtungen zur Humanisierung von Menschenaffen.” In _Die Kulturgeschichte des Zoos_, ed. by Lothar Dittrich, Annelore Rieke-Müller, and Dietrich von Engelhardt. Berlin: VWB, Verl. für Wiss. und Bildung, 2001: 151−170.
+[^3]: Cf. Ingensiep, Hans Werner. “Kultur- und Zoogeschichte der Gorillas: Beobachtungen zur Humanisierung von Menschenaffen.” In _Die Kulturgeschichte des Zoos_, Lothar Dittrich, Annelore Rieke-Müller, and Dietrich von Engelhardt (eds.). Berlin: VWB, Verl. für Wiss. und Bildung, 2001: 151−170.
 
 [^4]: Cf. Ingensiep, 2001: 153.
 
@@ -147,7 +147,7 @@ Damit wurde die Trophäen-Ikonographie des Gorillas als Bestie fortgeschrieben, 
 
 [^2]: Das Bild ohne Stempel von Wilhelm Kuhnert (der ebenfalls unter den Ausstellern in Karlsruhe war) findet sich ebenfalls in der Gorilla-Broschüre der Firma Umlauff angedruckt. Vgl. _Der Riesen-Gorilla des Museum Umlauff Hamburg: Schilderung seiner Erlegung und wissenschaftliche Beschreibung. Katalog_. Hamburg: Adolph Friedländers Druckerei, 1901.
 
-[^3]: Vgl. Ingensiep, Hans Werner. “Kultur- und Zoogeschichte der Gorillas – Beobachtungen zur Humanisierung von Menschenaffen”. In _Die Kulturgeschichte des Zoos_, hg. von Lothar Dittrich, Annelore Rieke-Müller und Dietrich von Engelhardt. Berlin: VWB, Verl. für Wiss. und Bildung, 2001: 151−170.
+[^3]: Vgl. Ingensiep, Hans Werner. “Kultur- und Zoogeschichte der Gorillas: Beobachtungen zur Humanisierung von Menschenaffen”. In _Die Kulturgeschichte des Zoos_, Lothar Dittrich, Annelore Rieke-Müller und Dietrich von Engelhardt (Hg.). Berlin: VWB, Verl. für Wiss. und Bildung, 2001: 151−170.
 
 [^4]: Vgl. Ingensiep, 2001: 153.
 
