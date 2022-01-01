@@ -3,7 +3,7 @@ license: CC BY-SA
 title: An “Atmospheric Image” of the Empire
 title_de: Ein “stimmungsvolles Bild” des Kolonialreichs
 created: 1640456876442
-updated: 1641056212525
+updated: 1641056448907
 id: ZDxo1U9ptEVRJhmFpVKyC
 author: Catarina Madruga
 translators:
@@ -64,7 +64,7 @@ This strategy to combine a hunting exhibition with a colonial exhibition continu
 
 [^5]: German original: “die Kenntnis der Tierwelt unserer Kolonien zu vertiefen” Rehbock, T. “Vorwort”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2nd ed., Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 9-12, 11.
 
-[^6]: German original: “um das Gesamtbild der Ausstellung möglichst vielseitig zu gestalten”. Rehbock, T. “Vorwort”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2nd ed.,Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 9–12, 11.
+[^6]: German original: “um das Gesamtbild der Ausstellung möglichst vielseitig zu gestalten”. Rehbock, T. “Vorwort”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2nd ed.,Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 9-12, 11.
 
 :::DE:::
 
