@@ -5,7 +5,7 @@ desc: |-
   The history of the horseshoe crab traverses a range of collecting sites
   and scientific spaces, and shows how they have changed the worlds of both
   people and animals.
-updated: 1641149788584
+updated: 1641149937220
 created: 1640281603094
 license: CC BY-SA
 title_de: The Worlds We Make
@@ -364,7 +364,7 @@ In der Lehrsammlung finden sich bereits in den [[ersten Katalogen|story.inventor
 
 <figcaption>
 
-_Im Verkaufskatalog der Meerestiere von 1900 bot die Hamburger Naturalienhandlung J.F.G. Umlauff unter anderem Pfeilschwanzkrebse an, die sie im Katalog neben den Krebstieren platzierte. Umlauff, J.F.G. (Hg.). _Grosser illustrierter Catalog über Muscheln, Corallen, Gorgonien und Seethiere_. Hamburg: Naturalienhandlung & Museum Hamburg, 1900: links Umschlag; rechts S. 19._
+_Im Verkaufskatalog der Meerestiere von 1900 bot die Hamburger Naturalienhandlung J.F.G. Umlauff unter anderem Pfeilschwanzkrebse an, die sie im Katalog neben den Krebstieren platzierte. Umlauff, J.F.G. (Hg.)._ Grosser illustrierter Catalog über Muscheln, Corallen, Gorgonien und Seethiere _. Hamburg: Naturalienhandlung & Museum Hamburg, 1900: links Umschlag; rechts S. 19._
 
 </figcaption>
 
