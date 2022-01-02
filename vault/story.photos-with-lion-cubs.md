@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Photos with Lion Cubs
 title_de: Bilder mit Löwenbabys
 created: 1640340586550
-updated: 1641134819539
+updated: 1641135314556
 id: 4U5dFDf18mKRPdRnzu35p
 author: Mareike Vennen
 translators:
@@ -430,7 +430,7 @@ _So sah der Stand des Zoofotografen im Westberliner Zoo in den 1970er-Jahren aus
  
 In den 1960er-Jahren erlebte die Löwenbabyfotografie einen regelrechten Boom, da nun auch in den vielerorts eröffneten Safari- und Freizeitparks Fotostände eingerichtet wurden. Christina Wessely bringt diese Konjunktur mit dem Verhältnis, der Wahrnehmung von und dem Umgang mit “wilden Tieren” im Deutschland der 1960er- und 1970er-Jahre in Zusammenhang. Sie hat sich auf die Suche nach den Orten gemacht, wo “wilde Tiere” in (West-)Deutschland in den 1960er-Jahren medial anzutreffen waren und fand sie unter anderem in Kinofilmen, allen voran _Serengeti darf nicht sterben_ des Frankfurter Zoodirektors Bernhard Grzimeks, vor dem Krieg noch Regierungsrat im Reichsministerium für Ernährung und Landwirtschaft und in den 1970er-Jahren dann Naturschutzbeauftragter der deutschen Bundesregierung. Der Filmwissenschaftler Vinzenz Hediger liest diesen Film, der zur Verbreitung der Naturschutzbewegung nach dem Zweiten Weltkrieg beigetragen hat, als “ein Stück spätkoloniale Trauerarbeit”, “ausgetragen im Medium des ökologischen Denkens”.[^7] Auf der Leinwand wird der Übergang vom Töten zum Abbilden, von der Jagd zum Schutz programmatisch in Szene gesetzt. Um die unterschiedlichen Bildpolitiken zu verstehen, die mit diesen Praktiken einhergehen, muss man in der Geschichte indes weiter zurückgehen, zur Großwildjagd und den frühen Wild- und Naturschutzprogrammen in den damaligen deutschen Kolonien.
  
-Anfang des 20. Jahrhunderts gehörten Figuren wie Carl Georg Schillings, einer der bekanntesten deutschen Großwildjäger, Tierfotografen und sogenannten Afrika-Reisenden, zu jenen, die den Wechsel von der Jagd- zur Fotopraxis propagierten. Bei Schillings selbst existierten Praktiken - das Jagen und das Fotografieren - noch parallel. Während er begann, Tiere in freier Wildbahn abzulichten und sich später für deren Schutz einzusetzen, erlegte er noch zahllose Löwen, die als Jagdtrophäen endeten.
+Anfang des 20. Jahrhunderts gehörten Figuren wie Carl Georg Schillings, einer der bekanntesten deutschen Großwildjäger, Tierfotografen und sogenannten Afrika-Reisenden, zu jenen, die den Wechsel von der Jagd- zur Fotopraxis propagierten. Bei Schillings selbst existierten Praktiken – das Jagen und das Fotografieren – noch parallel. Während er begann, Tiere in freier Wildbahn abzulichten und sich später für deren Schutz einzusetzen, erlegte er noch zahllose Löwen, die als Jagdtrophäen endeten.
  
 <figure>
 
@@ -446,12 +446,13 @@ _In seinem Buch_ Mit Blitzlicht und Büchse _(Leipzig: Voigtländer, 1905) insze
  
 Der Löwe nahm in beiden Fällen die Rolle des charismatischen Tieres par excellence ein. Er war wildes Raubtier und koloniale Trophäe, das von einer kolonialen Bildsprache begleitet und von einem Männlichkeitsbild gerahmt wurde, das Figuren wie Schillings oder Schomburgk verkörperten.
 
-Wie hartnäckig sich dieses Bild hält, zeigen Sachbuchtitel wie _Bwana Simba - Der Herr der Löwen_ aus dem Jahr 2008.[^9] Schillings verarbeitete seine Afrikareisen zu Beginn des 20. Jahrhunderts in Büchern, die als Bestseller massenhaft Verbreitung fanden – allein _Mit Blitzlicht und Büchse_ aus dem Jahr 1905 mit Reproduktionen von über 300 seiner eigenen Tieraufnahmen erlebte innerhalb weniger Jahre mehrere Auflagen.[^10] Während dieser Titel noch die Gleichzeitigkeit von Großwild- und Fotojagd verrät, schlägt sich Grzimek 50 Jahre später bereits ganz auf die Seite der Bilder. 
+Wie hartnäckig sich dieses Bild hält, zeigen Sachbuchtitel wie _Bwana Simba: Der Herr der Löwen_ aus dem Jahr 2008.[^9] Schillings verarbeitete seine Afrikareisen zu Beginn des 20. Jahrhunderts in Büchern, die als Bestseller massenhaft Verbreitung fanden – allein _Mit Blitzlicht und Büchse_ aus dem Jahr 1905 mit Reproduktionen von über 300 seiner eigenen Tieraufnahmen erlebte innerhalb weniger Jahre mehrere Auflagen.[^10] Während dieser Titel noch die Gleichzeitigkeit von Großwild- und Fotojagd verrät, schlägt sich Grzimek 50 Jahre später bereits ganz auf die Seite der Bilder. 
  
-In der Erzählung der Rettung der Tiere rückten diese näher an den Menschen heran. Die Kinoleinwand war indes nicht unbedingt das Medium der Wahl, um Nähe zum Tier zu demonstrieren. In direkte Interaktion traten Mensch und Raubtier in den 1950er- und 60er-Jahren vor allem vor der Fernsehkamera, die das Setting von der freien Wildbahn in den Zoo bzw. ins Fernsehstudio verlegte. In Sendungen wie dem _Tierparkteletreff_ und _Ein Platz für Tiere_ hielten, darauf weist Christina Wessely hin, die (weiterhin vornehmlich männlichen) Zoodirektoren alle möglichen Zootiere auf dem Arm oder auf dem Schoß.[^11]  
+In der Erzählung der Rettung der Tiere rückten diese näher an den Menschen heran. Die Kinoleinwand war indes nicht unbedingt das Medium der Wahl, um Nähe zum Tier zu demonstrieren. In direkte Interaktion traten Mensch und Raubtier in den 1950er- und 60er-Jahren vor allem vor der Fernsehkamera, die das Setting von der freien Wildbahn in den Zoo bzw. ins Fernsehstudio verlegte. In Sendungen wie dem _Tierparkteletreff_ und _Ein Platz für Tiere_ hielten, darauf weist Christina Wessely hin, die (weiterhin vornehmlich männlichen) Zoodirektoren alle möglichen Zootiere auf dem Arm oder auf dem Schoß.[^11] 
+ 
 Was vermochte die Nähe zwischen Mensch und Tier überzeugender zu demonstrieren als das harmonische, ja liebevolle Miteinander von Mann und Raubtier im Bild? Das Posieren mit (scheinbar) zahmen Tieren vermittelte eine Nähe ohne Angst vor direkter Berührung auch “wilder Tiere”. Die Aufnahmen bewegten sich in einem gänzlich anderen Register als die Bildszenen mit Raubtieren in freier Wildbahn aus dem frühen 20. Jahrhundert. Die Herrschaftsgeste über das gefangene oder erlegte Raubtier hatten Mitte der 1950er-Jahre im deutschen Fernsehen kaum mehr Konjunktur. Aus der Herrschaft über die Tiere, so die Botschaft, war die Freundschaft mit ihnen geworden. 
  
-## Raubtierkinder - Politiken der Fürsorge 
+## Raubtierkinder – Politiken der Fürsorge 
  
 Nicht nur im Fernsehen, sondern auch in Zoos war ein solches Bild der Nähe präsent, und das schon lange. Das zeigt der Tierkinderzoo ebenso wie die zahllosen Aufnahmen aus Tiergärten, wo Direktor:innen und Pfleger:innen Raubtiere trugen, fütterten, umarmten und präsentierten, in Tiergehegen, Direktor:innenwohnungen oder auf Zoobänken.
 
@@ -461,13 +462,13 @@ Nicht nur im Fernsehen, sondern auch in Zoos war ein solches Bild der Nähe prä
 
 <figcaption>
 
-_Der Leipziger Zoodirektor Karl Max Schneider präsentiert 1953 einer Gruppe Kinder ein Löwenjunges zum Anfassen. (SLUB Dresden / Deutsche Fotothek, Foto: Roger Rössing und Renate Rössing. Alle Rechte vorbehalten.)_
+_Der Leipziger Zoodirektor Karl Max Schneider präsentiert 1953 einer Gruppe Kinder ein Löwenjunges zum Anfassen. (SLUB Dresden/Deutsche Fotothek, Foto: Roger Rössing und Renate Rössing. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
 </figure>
 
-Sie befeuerten das Bild vom Löwen als zahme Katze gemeinsam mit Publikationen etlicher Zoo-Direktoren und Pfleger:innen, die über ihre Erfahrungen _Mit Löwen und Tigern unter einem Dach_ oder mit _Affen im Haus_ berichteten.[^12] Im Zoo war dabei die Nähe zum Tier mit einem wortwörtlichen Versorgen assoziiert. Jungtiere waren besonders geeignet, das zu vermitteln, denn was verkörperte besser das Bild der Fürsorge als ein Tierkind, das gefüttert wird? Das konnten Besucher:innen sogar selbst ausprobieren: Was vor dem Krieg der [[Tierkinderzoo|material.face-to-face-with-zoo-animals]] bot, in dem auch die kleinsten Besucher:innen mit dem Füttern junger Raubtiere zugleich Familienrollen einüben konnten[^13], setzte sich bisweilen in den Löwenbabyfotografien fort.
+Sie befeuerten das Bild vom Löwen als zahme Katze gemeinsam mit Publikationen etlicher Zoo-Direktoren und Pfleger:innen, die über ihre Erfahrungen _Mit Löwen und Tigern unter einem Dach_ oder mit _Affen im Haus_ berichteten.[^12] Im Zoo war dabei die Nähe zum Tier mit einem wortwörtlichen Versorgen assoziiert. Jungtiere waren besonders geeignet, das zu vermitteln, denn was verkörperte besser das Bild der Fürsorge als ein Tierkind, das gefüttert wird? Das konnten Besucher:innen sogar selbst ausprobieren: Was vor dem Krieg der [[Tierkinderzoo|material.face-to-face-with-zoo-animals]] bot, in dem auch die kleinsten Besucher:innen mit dem Füttern junger Raubtiere zugleich Familienrollen einüben konnten,[^13] setzte sich bisweilen in den Löwenbabyfotografien fort.
  
 <figure>
 
@@ -475,7 +476,7 @@ Sie befeuerten das Bild vom Löwen als zahme Katze gemeinsam mit Publikationen e
 
 <figcaption>
 
-_Im Berliner “Tierkinderzoo” konnten Menschenkinder Raubtierjunge mit der Flasche füttern. (AZGB. Alle Rechte vorbehalten)._
+_Im Berliner Tierkinderzoo konnten Menschenkinder Raubtierjunge mit der Flasche füttern. (AZGB. Alle Rechte vorbehalten)._
 
 </figcaption>
 
@@ -493,7 +494,7 @@ _Mit Fütterungsszenen warb auch der Zoofotograf im_ Wegweiser durch den Zoologi
 
 </figure>
  
-Der Tierkinderzoo und der Fotostand, die den Besucher:innen selbst Gelegenheit zum Anfassen und Füttern der Tierkinder boten, mögen ebenso wie die medialen Repräsentationen von Zoodirektor:innen mit (vermeintlich) zahmen Raubtieren zum Bild des Raubtierjungen als Heim- oder gar Kuscheltier beigetragen haben - ungefährlich in der Handhabe und unkompliziert in der Pflege.[^14] Löwenjunge waren zwar Raubtiere, in erster Linie jedoch sind sie Tierkinder, die man streicheln, füttern, auf den Arm nehmen konnte. Dieser Überzeugung schien jedenfalls das Berliner Kaufhaus Wertheim, als es 1969 auf die Idee kam, in seiner Zooabteilung Löwenbabys anzubieten. Für 1600 bis 1880 Mark wurden die Warenhauslöwen auf Bestellung geliefert, mit Pflegeanleitung.[^15] 
+Der Tierkinderzoo und der Fotostand, die den Besucher:innen selbst Gelegenheit zum Anfassen und Füttern der Tierkinder boten, mögen ebenso wie die medialen Repräsentationen von Zoodirektor:innen mit (vermeintlich) zahmen Raubtieren zum Bild des Raubtierjungen als Heim- oder gar Kuscheltier beigetragen haben – ungefährlich in der Handhabe und unkompliziert in der Pflege.[^14] Löwenjunge waren zwar Raubtiere, in erster Linie jedoch sind sie Tierkinder, die man streicheln, füttern, auf den Arm nehmen konnte. Dieser Überzeugung schien jedenfalls das Berliner Kaufhaus Wertheim, als es 1969 auf die Idee kam, in seiner Zooabteilung Löwenbabys anzubieten. Für 1600 bis 1880 Mark wurden die Warenhauslöwen auf Bestellung geliefert, mit Pflegeanleitung.[^15] 
 
 <figure>
 
@@ -515,7 +516,7 @@ _Das Berliner Kaufhaus Wertheim hatte 1969 für kurze Zeit Löwenbabys in ihrem 
  
 Nach nur einer Woche wurde der Verkauf indes wieder eingestellt, nachdem offenbar der Berliner Zoo davor gewarnt hatte, dass “ein possierliches Löwen-Baby” bereits innerhalb von drei Monaten zu einer kräftigen Raubkatze heranwachse.[^16] Andere Kaufhäuser, die “wilde Tiere” anboten, haben sich länger gehalten. In Harrods Pet Kingdom in London, das 1917 eröffnete, wurden fast alle Wünsche, von Tigern über Panther bis zu Babyelefanten, Löwen und Alligatoren erfüllt. 1976 musste das Kaufhaus den Bestand infolge des Endangered Species Act zwar einschränken, doch schloss die Tierabteilung erst 2014 endgültig ihre Pforten.[^17] Ungeachtet dessen hat die Haltung von Raubtieren in privaten Wohnräumen weiterhin Konjunktur und es liegt nahe, dass die lange Tradition der Löwenbilder auf die Vorstellung vom Raubtier als Schoßtier oder ‘Tier-Spielzeug’ Einfluss hatte. 
  
-## Hinter den Bildern. Bildökonomie - Tierzuchtökonomie
+## Hinter den Bildern. Bildökonomie – Tierzuchtökonomie
 
 Dass für die Löwenbabyfotos im Zoo ausschließlich Jungtiere verwendet wurden, hing nicht nur mit deren Kuscheltierfaktor zusammen.[^18] Die kleinen Löwen wurden schnell zu groß, um gefahrlos mit Menschen im Nahkontakt zu bleiben. Die Tiere durften nicht mehr als zwei bis sechs Monate alt sein[^19] und eigneten sich damit nur zeitlich begrenzt als “Photographier-Löwe”, wie die Berliner Zoodirektorin Katharina Heinroth die Jungtiere 1951 in einem Schreiben bezeichnete.[^20] Die Altersgrenze für den Job als “Photographier-Löwe” schuf einen ständigen Bedarf an Jungtieren.[^21] Löwenbabybilder, auf denen scheinbar immer der gleiche Löwen zu sehen ist, waren insofern von der entsprechenden Verfügbarkeit von Löwenjungen im Tierhandel oder aus anderen Zoos abhängig.
 
