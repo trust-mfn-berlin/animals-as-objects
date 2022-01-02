@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Steller’s Sea Cow
 title_de: Stellers Seekuh
 created: 1640333284998
-updated: 1641131999688
+updated: 1641133062837
 id: Q8UAdldubzw0uhkmmgER3
 author: Mareike Vennen
 translators:
@@ -152,23 +152,23 @@ Materielle Überreste von Seekühen sind dagegen – ebenso wie Originalzeichnun
 
 [^3]: Matschie, Paul. “Die Säugethier-Schausammlung”. _Naturwissenschaftliche Wochenschrift_ 10, Nr. 26 (30. Juni 1895): 311-315, 313.
 
-[^4]: Vgl. Baer, Karl Ernst von. “Untersuchungen über die ehemalige Verbreitung und die gänzliche Vertilgung der von Steller beobachteten nordischen Seekuh (_Rytina Ill_.)”. _Mémoires de l’Académie Impériale des Sciences de Saint Pétersbourg_ 6,5, Nr. 2 (1840): 53−80; Ders. “Über das Aussterben der Thierarten in physiologischer und nicht physiologischer Hinsicht überhaupt, und der Untergang von Arten, die mit den Menschen zusammen gelebt haben”. _Bulletin de l’Académie impériale des sciences de St. Pétersbourg_ 3 (1861): 369−396. Vgl. zu von Baers Untersuchungen auch Podgorny, Irina. “Recyclen. Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien. Vom Wert wissenschaftlicher Dinge_, hg. von Ina Heumann und Nils Güttler. Berlin: Kadmos, 2016: 23–46; sowie Podgorny, Irina. “Requiem, oder (Aus-) Sterben in historischer und geologischer Zeit. Knöchelverzeichnis KV 626”. In _Mikrozeit und Tiefenzeit_, hg. von Friedrich Balke u.a. Paderborn: Fink, 2018: 128-142.
+[^4]: Vgl. Baer, Karl Ernst von. “Untersuchungen über die ehemalige Verbreitung und die gänzliche Vertilgung der von Steller beobachteten nordischen Seekuh (_Rytina Ill_.)”. _Mémoires de l’Académie Impériale des Sciences de Saint Pétersbourg_ 6,5, Nr. 2 (1840): 53−80; Ders. “Über das Aussterben der Thierarten in physiologischer und nicht physiologischer Hinsicht überhaupt, und der Untergang von Arten, die mit den Menschen zusammen gelebt haben”. _Bulletin de l’Académie impériale des sciences de St. Pétersbourg_ 3 (1861): 369−396. Vgl. zu von Baers Untersuchungen auch Podgorny, Irina. “Recyclen. Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien: Vom Wert wissenschaftlicher Dinge_, Ina Heumann und Nils Güttler (Hg.). Berlin: Kadmos, 2016: 23–46; sowie Podgorny, Irina. “Requiem, oder (Aus-) Sterben in historischer und geologischer Zeit. Knöchelverzeichnis KV 626”. In _Mikrozeit und Tiefenzeit_, Friedrich Balke u.a. (Hg.). Paderborn: Fink, 2018: 128-142.
 
 [^5]: Vgl. Steller, Georg Wilhelm. “De Bestiis Marinis”. In _Novi Commentarii Academiae Scientarium Imperialis Petropolitanae_, Bd. II. St. Petersburg, 1751: 289−398; auch in “The Beasts of the Sea”, übersetzt von Walter Miller und Jennie Emerson Miller. In _The Fur Seals and Fur-seal Islands of the North Pacific Ocean_, Bd. 3. Washington D. C.: Govt. Print. Off., 1898−1899: 179−210.
 
 [^6]: Zum Umgang mit der lokalen Bevölkerung und ihrer teilweisen Versklavung siehe etwa Schmidt, Eberhard (Hg.). _Wirtschaft und Handel der Kolonialreiche_, Bd. 4. München: Verlag C.H. Beck, 1988: 328.
 
-[^7]: Vgl. Podgorny, Irina. “Recyclen. Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien. Vom Wert wissenschaftlicher Dinge_, hg. von Ina Heumann und Nils Güttler. Berlin: Kadmos, 2016: 23–46; Podgorny, Irina. “Requiem, oder (Aus-) Sterben in historischer und geologischer Zeit. Knöchelverzeichnis KV 626”. In _Mikrozeit und Tiefenzeit_, hg. von Friedrich Balke u.a. Paderborn: Fink, 2018: 128-142.
+[^7]: Vgl. Podgorny, Irina. “Recyclen. Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien: Vom Wert wissenschaftlicher Dinge_, Ina Heumann und Nils Güttler (hg.). Berlin: Kadmos, 2016: 23–46; Podgorny, Irina. “Requiem, oder (Aus-)Sterben in historischer und geologischer Zeit. Knöchelverzeichnis KV 626”. In _Mikrozeit und Tiefenzeit_, Friedrich Balke u.a. (Hg.). Paderborn: Fink, 2018: 128-142.
 
-[^8]: Vgl. Podgorny, Irina. “Recyclen. Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien. Vom Wert wissenschaftlicher Dinge_, hg. von Ina Heumann und Nils Güttler. Berlin: Kadmos, 2016: 23–46.
+[^8]: Vgl. Podgorny, Irina. “Recyclen. Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien: Vom Wert wissenschaftlicher Dinge_, Ina Heumann und Nils Güttler (Hg.). Berlin: Kadmos, 2016: 23–46.
 
-[^9]: Ellis, Richard. _No Turning Back. The Life and Death of Animal Species_. New York: HarperCollins, 2004: 27.
+[^9]: Ellis, Richard. _No Turning Back: The Life and Death of Animal Species_. New York: HarperCollins, 2004: 27.
 
 [^10]: Laut Sharko u.a. deutet das Genom der Stellerschen Seekuh darauf hin, dass das Aussterben dieser Art bereits vor der Ankunft des paläolithischen Menschen begann. Sharko, F.S., E.S. Boulygina, S.V. Tsygankova u.a. “Steller’s Sea Cow Genome Suggests this Species Began Going Extinct Before the Arrival of Paleolithic Humans”. _Nature Communications_ 12, Nr. 2215 (2021). https://doi.org/10.1038/s41467-021-22567-5.
 
-[^11]: Vgl. etwa Jones, Ryan Tucker. _Empire of Extinction. Russians and the North Pacific’s Strange Beasts of the Sea, 1741-1867_. Oxford: Oxford University Press, 2014; Ellis, Richard. _The Empty Ocean. Plundering the World’s Marine Life_. Washington D. C.: Island Press, 2003.
+[^11]: Vgl. etwa Jones, Ryan Tucker. _Empire of Extinction: Russians and the North Pacific’s Strange Beasts of the Sea, 1741-1867_. Oxford: Oxford University Press, 2014; Ellis, Richard. _The Empty Ocean: Plundering the World’s Marine Life_. Washington D. C.: Island Press, 2003.
 
-[^12]: Kyne, P., und V. Adams. “Extinct Flagships. Linking Extinct and Threatened Species”. _Oryx_ 51, Nr. 3 (2017): 471-476. https://doi.org/10.1017/S0030605316000041.
+[^12]: Kyne, P., und V. Adams. “Extinct Flagships: Linking Extinct and Threatened Species”. _Oryx_ 51, Nr. 3 (2017): 471-476. https://doi.org/10.1017/S0030605316000041.
 
 [^13]: Heise, Ursula K. _Nach der Natur: Das Artensterben und die moderne Kultur_. Berlin: Suhrkamp, 2010.
 
