@@ -5,7 +5,7 @@ desc: |-
   The history of the horseshoe crab traverses a range of collecting sites
   and scientific spaces, and shows how they have changed the worlds of both
   people and animals.
-updated: 1641157644509
+updated: 1641158017844
 created: 1640281603094
 license: CC BY-SA
 title_de: The Worlds We Make
@@ -187,7 +187,7 @@ _Horseshoe crabs in the sales catalogue of the Hamburg natural-history dealer J.
 
 In the second half of the 19th century, however, more and more claims were being made that horseshoe crabs were more closely related to arachnids than crabs. A number of comparative studies were required to settle this issue of species classification. London zoologist Edwin Ray Lankester, for instance, published two pertinent articles with the title “Limulus as Arachnid” in the 1881 _Quarterly Journal of Microscopical Science_.[^15] Aquariums played another important role in these comparative anatomical studies as sites of observation and as sources for providing specimens from the 1860s onwards. Edwin Lankester, for instance, received live horseshoe crabs from the Royal Westminster Aquarium in London for his anatomical and histological studies. In Hamburg, zoologists like Karl August Möbius were given horseshoe crabs by the zoo aquarium there.[^16] It was therefore not by coincidence that the number of studies being published on the horseshoe crab grew from the 1870s.[^17] After Lankester and others had drawn the conclusion that the animals had more in common with spiders and scorpions than with crustaceans, _Limulus polyphemus_ was classified as a chelicerate in 1901. The horseshoe crab thus changed its subphylum within the taxonomic order.[^18]
 
-Here, the dynamics of taxonomic knowledge become visible, revealing that the [[taxonomic order|Taxonomic Orders|theme.taxonomic-orders]]) is subject to historical change. Within the museum, horseshoe crab specimens then migrated from the Crustacean Collection to the Arachnid and Myriapod Collection, joining the spiders and centipedes, and received a new signature.[^19] Their original taxonomic classification and former location within the Crustacean Collection is still visible for some of the objects at the Berlin Museum of Natural History. Behind the acronym ZMB (for “Zoological Museum Berlin”, which allows an object to be assigned to a special collection) and the inventory number for arachnids (for example “48490”), there is additional information provided in brackets, which points to this species’ eventful taxonomic history: 
+Here, the dynamics of taxonomic knowledge become visible, revealing that the [[taxonomic order|theme.taxonomic-orders]] is subject to historical change. Within the museum, horseshoe crab specimens then migrated from the Crustacean Collection to the Arachnid and Myriapod Collection, joining the spiders and centipedes, and received a new signature.[^19] Their original taxonomic classification and former location within the Crustacean Collection is still visible for some of the objects at the Berlin Museum of Natural History. Behind the acronym ZMB (for “Zoological Museum Berlin”, which allows an object to be assigned to a special collection) and the inventory number for arachnids (for example “48490”), there is additional information provided in brackets, which points to this species’ eventful taxonomic history: 
 
 > ZMB 48490 [ex crustacean no. 5928], 4 juveniles, alcohol; Nahant, Massachusetts, USA; leg. Fröbel, date not recorded; good condition.[^20]
 
@@ -223,7 +223,7 @@ Connections such as the ones outlined here and the ensuing interdependencies and
 
 [^9]: Cf. Richter, Stefan. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität: Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ 37 (25 February 1999): 59-76, 64.
 
-[^10]: Dunlop, 2012, 215.
+[^10]: Dunlop, 2012: 215.
 
 [^11]: The numbers that begin with “48” were only recently assigned to predominantly older specimens, as the curator of the Arachnid Collection, Jason Dunlop, explains.
 
@@ -456,7 +456,7 @@ Verbindungen wie die hier geschilderten und die damit verknüpften Abhängigkeit
 
 [^9]: Vgl. Richter, Stefan. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität – ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ 37 (25. Februar 1999): 59-76, 64.
 
-[^10]: Dunlop, Jason A., Marlene S. Compton, und Anja Friederichs. “An Annotated Catalogue of the Horseshoe Crabs (Xiphosura) Held in the Museum für Naturkunde Berlin”. _Zoosystematics and Evolution_ 88, Nr. 2 (2012): 215-222, 215. https://doi.org/10.1002/zoos.201200018.
+[^10]: Dunlop, 2012: 215.
 
 [^11]: Die Nummern, die mit “48” beginnen, werden erst in jüngerer Zeit vergeben und zwar vornehmlich an ältere Exemplare, erklärt der Kurator der Spinnensammlung, Jason Dunlop.
 
@@ -476,7 +476,7 @@ Verbindungen wie die hier geschilderten und die damit verknüpften Abhängigkeit
 
 [^19]: Viele Museums- und Universitätssammlungen organisieren bis heute ihre Sammlungen nach der biologischen Systematik der Klasse, Ordnung, Familie, Gattung und Art, wenn auch der Umsetzung dieser systematischen Ordnung durch räumliche Beschränkungen oft Grenzen gesetzt sind. In der zweiten Hälfte des 19. Jahrhundert wurden im Zuge der Museumsreformbewegung viele Sammlungen der naturhistorischen Museen in Europa zweigeteilt - in eine öffentliche Schausammlung und eine nichtöffentliche Forschungssammlung. (Vgl. Nyhard, Lynn K. _Modern Nature. The Rise of the Biological Perspective in Germany_. Chicago: The University of Chicago Press, 2009; Köstering, Susanne. _Natur zum Anschauen: Das Naturkundemuseum des deutschen Kaiserreichs 1871-1914_. Köln u.a.: Böhlau, 2003.) 
 
-[^20]: Dies ist der Eintrag in Dunlop, Jason A., Marlene S. Compton, and Anja Friederichs. “An Annotated Catalogue of the Horseshoe Crabs (Xiphosura) Held in the Museum für Naturkunde Berlin”. _Zoosystematics and Evolution_ 88, Nr. 2 (2012): 215-222, 215. https://doi.org/10.1002/zoos.201200018.
+[^20]: Dies ist der Eintrag in Dunlop, 2012.
 
 [^21]: Durch die Untersuchungen von Howell im Jahr 1885 waren schon damals die Ähnlichkeiten zwischen der Gerinnung des Blutes beim Menschen und der Gerinnung der Hämolymphe (“Blut”) beim Limulus nachgewiesen worden. Doch erst 70 Jahre später wurden die Untersuchungen weiterverfolgt, als Bang 1956 eine bakterielle Infektion in einer Pfeilschwanzkrebs-Population beschrieb, die zur Gerinnung des Blutes führte. (Vgl. Liebsch, Manfred. “Die Geschichte der Validierung des LAL- Tests”. _ALTEX_ 12, Nr. 2 (1995): 76-80, 78.
 
