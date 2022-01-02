@@ -6,6 +6,8 @@ created: 1640354060660
 updated: 1640915566036
 id: U1w3ckwyrdpQ2JzOLgTKo
 author: Mareike Vennen
+translators:
+  translator_de_en: Lydia J. White
 desc: The baby animal zoo
 desc_de: Tierkinderzoo mit Raubtieren
 short_desc: The baby animal zoo
