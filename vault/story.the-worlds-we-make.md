@@ -5,7 +5,7 @@ desc: |-
   The history of the horseshoe crab traverses a range of collecting sites
   and scientific spaces, and shows how they have changed the worlds of both
   people and animals.
-updated: 1641153918270
+updated: 1641154546521
 created: 1640281603094
 license: CC BY-SA
 title_de: The Worlds We Make
@@ -41,9 +41,9 @@ _Wet specimen of a horseshoe crab with inventory number ZMB 48487 at the Berlin 
 
 </figure>
 
-At the Berlin Museum of Natural History, a specimen of a horseshoe crab preserved in alcohol bears the inventory number “ZMB [Berlin Zoological Museum] 48487”. It is one of a series of historical wet specimens of the species _Limulus polyphemus_ (Linnaeus, 1758).[^1] These limulus specimens were not originally part of the natural history museum’s collection and have a long history behind them that has taken them through different stations. The history of these animals and the species as a whole is a good example of how an animal’s significance and utilisation change in different scientific contexts, as does its epistemological status and even its entire mode of existence. 
+At the Berlin Museum of Natural History, a specimen of a horseshoe crab preserved in alcohol bears the inventory number “ZMB [Zoological Museum Berlin] 48487”. It is one of a series of historical wet specimens of the species _Limulus polyphemus_ (Linnaeus, 1758).[^1] These limulus specimens were not originally part of the natural history museum’s collection and have a long history behind them that has taken them through different stations. The history of these animals and the species as a whole is a good example of how an animal’s significance and utilisation change in different scientific contexts, as does its epistemological status and even its entire mode of existence. 
 
-## From the aquarium via the teaching collection to the museum: Provenance histories
+## From the Aquarium via the Teaching Collection to the Museum: Provenance Histories
 
 If the historical limulus specimens in Berlin’s Museum of Natural History were not originally intended for its collection, where did they come from, and what was their purpose? What kinds of distances did they cover over time, and what can they tell us about the history of the collection?
 
@@ -167,7 +167,7 @@ _Aquarists, who were organised into associations, helped to produce knowledge ab
 
 Public aquariums gave many animals to collections after they died, thereby making them available for scientific research and teaching, including the Zoological Museum and the Zoological Institute in Berlin. “Berlin Aquarium” has been noted on the label of the wet specimen with its nervous system exposed.[^8] After having made its way from the New York coast to Berlin Aquarium, the animal that would later become specimen ZMB 48487 was dispatched to the Zoological Teaching Collection after its death. When, how, and why it then became part of the museum’s research collection is unclear. Its transfer to the museum might have had something to do with the historic transformations that were taking place in zoological instruction. Whether this took place before the Second World War or afterwards is unclear. But the limulus specimens potentially moved to the museum (then still part of the Humboldt University as well) in 1970, when the collection’s former section head decided to downsize it.[^9] So far, it has not been possible to definitively determine exactly why the teaching collection gave the animals to the museum and why the museum accepted them. At any rate, the specimens’ function gradually changed after they switched collections. While they were probably actively used in academic teaching to demonstrate the anatomy of the horseshoe crab (see [[material.silkworm-in-papier-mache]]) while they were still part of the teaching collection, they are now preserved as historical specimens in the museum collection.[^10] Some of their eventful history – transforming from aquarium animals into teaching specimens, and ultimately into historical collection items – can still be seen today. The various place names that have been entered on the labels are now helping us to reconstruct the provenance of specimen ZMB 48487. The final addition so far has been the ZMB number, which is issued by the collection curator when they create the catalogue.[^11] Ocean, aquarium, teaching collection, and research collection – all of these spaces play an important role in producing and conveying knowledge about horseshoe crabs (among other things).[^12]
 
-## From crab to spider: Taxonomic histories
+## From Crab to Spider: Taxonomic Histories
 
 Those looking for horseshoe crab specimens at the Berlin Museum of Natural History, however, might find that their name proves to be a red herring luring them to the wrong collection. This has to do with the history of the species – or, more precisely: with the history of its scientific investigation. It is not just individual specimens like ZMB 48487 that have switched places and functions over time: the species _Limulus polyphemus_ as a whole switched places within the taxonomic order in the 19th century and, as a result, within the collection structure. Science has thus changed its perspective on the horseshoe crab and what we know about it – in short: it has turned one animal into another. 
 
@@ -195,7 +195,7 @@ The same applies to museum exhibitions, where knowledge was spatially organised 
 
 Science has not just redefined the horseshoe crab within the taxonomic order: the way it has moved through spaces of knowledge and collection spaces has changed what the animal was and what it is. In this sense, museum collections, and the research that takes place within them, are also sites of world-making that reorganize nature.
 
-## From the ocean to the laboratory: Biomedical histories 
+## From the Ocean to the Laboratory: Biomedical Histories 
 
 In the second half of the 20th century, horseshoe crabs made their way into new scientific contexts, where they became part of an experimental practice that furthered their connection to humans even more. In the mid-1950s, researchers discovered that horseshoe crab blood (which is blue due to the amount of copper it contains) is rich in amoebocytes, i.e., cells that immediately react to poisons.[^21] This led to medical practitioners like Frederik Bang and Jack Levin developing the Limulus amoebocyte lysate test (LAL test) from the blood of _Limulus polyphemus_. This test makes use of the fact that limulus blood coagulates when it comes into contact with certain bacteria, meaning that, when the immune cells in the blood of the horseshoe crab encounter invading bacteria, they agglutinate around it and protect the rest of the animal’s body from the toxins. The coagulation factor, which can verify the presence of even tiny amounts of a given pathogen, can reveal the presence of bacterial contamination, also known as endotoxins.[^22] Since the 1970s, the LAL test has been used to determine the presence of endotoxins in human blood serum and is now sold in the United States. For this reason, when thousands of crabs come out of the sea in spring to breed and spawn (especially in Delaware Bay), they are caught by trawlers or collected on the beach and brought to specialist laboratories of biomedical companies, where a canula inserted into their hearts removes up to a third of their blood. Afterwards they are taken back to where they were caught and released back into the sea alive. The short- and long-term damage caused by the bleeding is still unclear, but the number of studies pursuing this issue is increasing.[^23] 
 
