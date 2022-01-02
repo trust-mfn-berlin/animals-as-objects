@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Photos with Lion Cubs
 title_de: Bilder mit Löwenbabys
 created: 1640340586550
-updated: 1641137660629
+updated: 1641137935386
 id: 4U5dFDf18mKRPdRnzu35p
 author: Mareike Vennen
 translators:
@@ -133,7 +133,7 @@ _In his book_ Mit Blitzlicht und Büchse _(With Flash and Rifle. Leipzig: Voigtl
 </figure>
 
 In both cases, the lion played the role of the charismatic animal par excellence. It was the wild predator and colonial trophy accompanied by colonial iconography and framed by the idea of masculinity embodied by figures like Schillings and Schomburgk.
-The persistence of this idea is demonstrated by nonfiction volumes like _Bwana Simba: Der Herr der Löwen_ (Bwana Simba: The Lord of the Lions) from 2008.[^9] Schillings documented the journeys he had taken to Africa at the beginning of the 20th century in books that were widely disseminated – the 1905 _Mit Blitzlicht und Büchse_ alone, with reproductions of over 300 of his own animal photographs, was reprinted several times within the space of just a few years.[^10] While these volumes still reveal the concurrence of big-game hunting and photo shooting, Grizmek was already completely on the side of photography 50 years later. 
+The persistence of this idea is demonstrated by nonfiction volumes like _Bwana Simba – Der Herr der Löwen_ (Bwana Simba – The Lord of the Lions) from 2008.[^9] Schillings documented the journeys he had taken to Africa at the beginning of the 20th century in books that were widely disseminated – the 1905 _Mit Blitzlicht und Büchse_ alone, with reproductions of over 300 of his own animal photographs, was reprinted several times within the space of just a few years.[^10] While these volumes still reveal the concurrence of big-game hunting and photo shooting, Grizmek was already completely on the side of photography 50 years later. 
  
 In his story of saving animals, animals came closer to humans, both physically and in the cultural imaginary. However, the cinema screen was not necessarily the medium of choice when it came to demonstrating closeness between humans and animals. In the 1950s and 1960s, humans and predators primarily met above all in front of the television camera, which shifted the setting from the wild to the zoo or the TV studio. In programmes like _Tierparkteletreff_ (Zoo Club) und _Ein Platz für Tiere_ (A Place for Animals), the (still predominantly male) zoo directors held all kinds of animals in their arms or on their laps, as Christina Wessely writes.[^11]  
 
@@ -278,7 +278,7 @@ What connects them is what stays the same, a motif that can be traced through a 
 
 [^8]: It is part of the visual staging of many European big-game hunters to neither name local actors nor to give them an equal place in the image.
 
-[^9]: Becker, Manfred. _Bwana Sima - Der Herr der Löwen: Carl Georg Schillings; Forscher und Naturschützer in Deutsch-Ostafrika_. Düren: Hahne & Schloemer Verlag, 2008.
+[^9]: Becker, Manfred. _Bwana Simba – Der Herr der Löwen: Carl Georg Schillings. Forscher und Naturschützer in Deutsch-Ostafrika_. Düren: Hahne & Schloemer Verlag, 2008.
 
 [^10]: Schillings, Carl Georg. _Mit Blitzlicht und Büchse: Neue Beobachtungen und Erlebnisse in der Wildnis inmitten der Tierwelt von Äquatorial-Ostafrika_. Leipzig: R. Voigtländer, 1905.
 
@@ -446,7 +446,7 @@ _In seinem Buch_ Mit Blitzlicht und Büchse _(Leipzig: Voigtländer, 1905) insze
  
 Der Löwe nahm in beiden Fällen die Rolle des charismatischen Tieres par excellence ein. Er war wildes Raubtier und koloniale Trophäe, das von einer kolonialen Bildsprache begleitet und von einem Männlichkeitsbild gerahmt wurde, das Figuren wie Schillings oder Schomburgk verkörperten.
 
-Wie hartnäckig sich dieses Bild hält, zeigen Sachbuchtitel wie _Bwana Simba: Der Herr der Löwen_ aus dem Jahr 2008.[^9] Schillings verarbeitete seine Afrikareisen zu Beginn des 20. Jahrhunderts in Büchern, die als Bestseller massenhaft Verbreitung fanden – allein _Mit Blitzlicht und Büchse_ aus dem Jahr 1905 mit Reproduktionen von über 300 seiner eigenen Tieraufnahmen erlebte innerhalb weniger Jahre mehrere Auflagen.[^10] Während dieser Titel noch die Gleichzeitigkeit von Großwild- und Fotojagd verrät, schlägt sich Grzimek 50 Jahre später bereits ganz auf die Seite der Bilder. 
+Wie hartnäckig sich dieses Bild hält, zeigen Sachbuchtitel wie _Bwana Simba – Der Herr der Löwen_ aus dem Jahr 2008.[^9] Schillings verarbeitete seine Afrikareisen zu Beginn des 20. Jahrhunderts in Büchern, die als Bestseller massenhaft Verbreitung fanden – allein _Mit Blitzlicht und Büchse_ aus dem Jahr 1905 mit Reproduktionen von über 300 seiner eigenen Tieraufnahmen erlebte innerhalb weniger Jahre mehrere Auflagen.[^10] Während dieser Titel noch die Gleichzeitigkeit von Großwild- und Fotojagd verrät, schlägt sich Grzimek 50 Jahre später bereits ganz auf die Seite der Bilder. 
  
 In der Erzählung der Rettung der Tiere rückten diese näher an den Menschen heran. Die Kinoleinwand war indes nicht unbedingt das Medium der Wahl, um Nähe zum Tier zu demonstrieren. In direkte Interaktion traten Mensch und Raubtier in den 1950er- und 60er-Jahren vor allem vor der Fernsehkamera, die das Setting von der freien Wildbahn in den Zoo bzw. ins Fernsehstudio verlegte. In Sendungen wie dem _Tierparkteletreff_ und _Ein Platz für Tiere_ hielten, darauf weist Christina Wessely hin, die (weiterhin vornehmlich männlichen) Zoodirektoren alle möglichen Zootiere auf dem Arm oder auf dem Schoß.[^11] 
  
@@ -587,13 +587,13 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^5]: Wessely, Christina. _Löwenbaby_. Berlin: Matthes & Seitz, 2019.
 
-[^6]: Der Stand wechselte nach dem Krieg vom Platz neben dem Raubtierhaus zum Bärenzwinger. Vgl. Heinroth, Katharina. _Der Zoologische Garten Berlin. Zweiter Bericht und Wegweiser nach dem Kriege_, hg. vom Aktien-Verein des Zoologischen Gartens zu Berlin. Berlin 1956: 6.
+[^6]: Der Stand wechselte nach dem Krieg vom Platz neben dem Raubtierhaus zum Bärenzwinger. Vgl. Heinroth, Katharina. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege_, hg. vom Aktien-Verein des Zoologischen Gartens zu Berlin. Berlin 1956: 6.
 
-[^7]: Hediger, Vinzenz. “Das Tier auf unserer Seite. Zur Politik des Filmtiers am Beispiel von ‘Serengeti darf nicht sterben’”. In Anne von Heiden und Joseph Vogl (Hg.). _Politische Zoologie_. Zürich/Berlin 2007: 287-301. Ähnlich wie der Filmwissenschaftler Hediger argumentieren Historiker:innen wie Thomas M. Lekan, Angela Thompsell oder Bernhard Gißibl. Vgl. Lekan, Thomas M. _Our Gigantic Zoo: A German Quest to Save the Serengeti._ New York: Oxford University Press, 2020; Thompsell, Angela. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015; Gißibl, Bernhard. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. New York: Berghahn Books, 2016.
+[^7]: Hediger, Vinzenz. “Das Tier auf unserer Seite: Zur Politik des Filmtiers am Beispiel von ‘Serengeti darf nicht sterben’”. In Anne von Heiden und Joseph Vogl (Hg.). _Politische Zoologie_. Zürich/Berlin 2007: 287-301. Ähnlich wie der Filmwissenschaftler Hediger argumentieren Historiker:innen wie Thomas M. Lekan, Angela Thompsell oder Bernhard Gißibl. Vgl. Lekan, Thomas M. _Our Gigantic Zoo: A German Quest to Save the Serengeti._ New York: Oxford University Press, 2020; Thompsell, Angela. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015; Gißibl, Bernhard. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. New York: Berghahn Books, 2016.
 
 [^8]: Es gehört zur visuellen Inszenierung vieler europäischer Großwildjäger, lokale Akteure weder namentlich zu nennen noch ihnen einen ebenbürtigen Platz im Bild einzuräumen.
 
-[^9]: Becker, Manfred. _Bwana Sima - Der Herr der Löwen. Carl Georg Schillings. Forscher und Naturschützer in Deutsch-Ostafrika_. Düren: Hahne & Schloemer Verlag, 2008.
+[^9]: Becker, Manfred. _Bwana Simba – Der Herr der Löwen: Carl Georg Schillings. Forscher und Naturschützer in Deutsch-Ostafrika_. Düren: Hahne & Schloemer Verlag, 2008.
 
 [^10]: Schillings, Carl Georg. _Mit Blitzlicht und Büchse. Neue Beobachtungen und Erlebnisse in der Wildnis inmitten der Tierwelt von Äquatorial-Ostafrika_. Leipzig: R. Voigtländer, 1905.
 
