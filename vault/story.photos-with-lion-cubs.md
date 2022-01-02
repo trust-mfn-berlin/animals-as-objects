@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Photos with Lion Cubs
 title_de: Bilder mit Löwenbabys
 created: 1640340586550
-updated: 1641136919525
+updated: 1641137055207
 id: 4U5dFDf18mKRPdRnzu35p
 author: Mareike Vennen
 translators:
@@ -126,7 +126,7 @@ At the beginning of the 20th century, figures like Carl Georg Schillings, one of
 
 <figcaption>
 
-_In his book_ Mit Blitzlicht und Büchse _(With Flash and Rifle; Leipzig: Voigtländer, 1905), Georg Carl Schillings stages himself beside his prey as a big-game hunter.[^8]_
+_In his book_ Mit Blitzlicht und Büchse _(With Flash and Rifle. Leipzig: Voigtländer, 1905), Georg Carl Schillings stages himself beside his prey as a big-game hunter.[^8]_
  
 </figcaption>
 
