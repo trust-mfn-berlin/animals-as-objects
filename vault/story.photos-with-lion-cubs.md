@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Photos with Lion Cubs
 title_de: Bilder mit Löwenbabys
 created: 1640340586550
-updated: 1641135527198
+updated: 1641135880899
 id: 4U5dFDf18mKRPdRnzu35p
 author: Mareike Vennen
 translators:
@@ -526,7 +526,7 @@ Wie tief die Tiere in eine Waren- und Tauschökonomien eingespannt waren, zeigt 
  
 ## Kritik wird laut
 
-Genau diese Fragen brachten die Löwenbabyfotografien in den 1980er-Jahren in die Kritik. Auf dem Schreibtisch der Zooverwaltung landeten in dieser Zeit merklich mehr Nachfragen und Beschwerden von Zoobesucher:innen und es ist wohl kein Zufall, dass dies in den Beginn der Umweltbewegung fällt. Den meisten Autor:innen ging es um die artgerechte Behandlung der Tiere. Tierschützer:innen und Zoogäste prangerten nun zunehmend den Umgang mit den Foto-Löwen an. Die einen wollten wissen, woher die Tiere stammten, die anderen, wohin sie kämen, wenn sie aus dem “Kuschelalter” herauswachsen und nicht mehr gebraucht würden.[^27] Mehrere Besucher:innen wollten außerdem bemerkt haben, dass die Löwen “apathisch mit Schlafzimmerblick herumlagen” und offensichtlich betäubt seien. Eine besonders engagierte Autorin drohte mit einer Meldung beim Tierschutzverein.[^28] Die Kritik zielte also auf die Haltungspraxis und hielt mit Vermutungen zum (schlechten) Umgang mit den Tieren nicht hinterm Berg. Gleichzeitig richtete sich die Kritik auf das Motiv selbst und führt damit zurück zur Politik der Bilder. Für “familienalbum-reife Aufnahmen” würde “der Löwe dem Kind als ein ‘Schoßhund’ dargestellt” – eine Verniedlichung der Tiere, die aus pädagogischen Gründen abzulehnen sei.[^29] Manche:r sah sich bei der Art von Fotos an die Praxis von “gedankenlosen, profitsüchtigen Photographen in einschlägigen Urlaubsländern”[^30] erinnert, andere gingen soweit, dem Fotografen eine kapitalistische “Ausbeutung der Tiere” vorzuwerfen und stellten ihre Kritik dezidiert in einen größeren umweltschützerischen Kontext: 
+Genau diese Fragen brachten die Löwenbabyfotografien in den 1980er-Jahren in die Kritik. Auf dem Schreibtisch der Zooverwaltung landeten in dieser Zeit merklich mehr Nachfragen und Beschwerden von Zoobesucher:innen und es ist wohl kein Zufall, dass dies in den Beginn der Umweltbewegung fällt. Den meisten Autor:innen ging es um die artgerechte Behandlung der Tiere. Tierschützer:innen und Zoogäste prangerten nun zunehmend den Umgang mit den Foto-Löwen an. Die einen wollten wissen, woher die Tiere stammten, die anderen, wohin sie kämen, wenn sie aus dem “Kuschelalter” herauswachsen und nicht mehr gebraucht würden.[^27] Mehrere Besucher:innen wollten außerdem bemerkt haben, dass die Löwen “apathisch mit Schlafzimmerblick herumlagen” und offensichtlich betäubt seien. Eine besonders engagierte Autorin drohte mit einer Meldung beim Tierschutzverein.[^28] Die Kritik zielte also auf die Haltungspraxis und hielt mit Vermutungen zum (schlechten) Umgang mit den Tieren nicht hinterm Berg. Gleichzeitig richtete sich die Kritik auf das Motiv selbst und führt damit zurück zur Politik der Bilder. Für “familienalbum-reife Aufnahmen” würde “der Löwe dem Kind als ein ‘Schoßhund’ dargestellt” – eine Verniedlichung der Tiere, die aus pädagogischen Gründen abzulehnen sei.[^29] Manche:r sah sich bei der Art von Fotos an die Praxis von “gedankenlosen, profitsüchtigen Photographen in einschlägigen Urlaubsländern” erinnert,[^30] andere gingen soweit, dem Fotografen eine kapitalistische “Ausbeutung der Tiere” vorzuwerfen und stellten ihre Kritik dezidiert in einen größeren umweltschützerischen Kontext: 
  
 >“Wir sind nun entsetzt, daß in unserem Zoo derartige Tierquälerei unter Ihren Augen stattfinden kann. Sollte es Ihrer Aufmerksamkeit entgangen sein, daß in der Bevölkerung ein Umdenken stattgefunden hat, daß sich mehr und mehr Menschen für die Kreatur und auch die Umwelt einsetzen?”[^31]
  
@@ -561,7 +561,7 @@ _1992 findet sich im Zooführer noch eine Werbeanzeige für Erinnerungsfotos mit
 </figure>
 
  
-Inzwischen ist jedoch auch er aus dem Zoo verschwunden. Was bleibt, ist eine Sammlung alter Bilder - auf Flohmärkten, in Archiven, auf eBay oder im privaten Familienalbum entdeckt man Löwenbabyfotos. Die Identitäten der Menschen und die Geschichten der Tiere auf diesen Fotos lässt sich selten rekonstruieren, wie bei diesem undatierten Foto aus dem Zoo Berlin:
+Inzwischen ist jedoch auch er aus dem Zoo verschwunden. Was bleibt, ist eine Sammlung alter Bilder – auf Flohmärkten, in Archiven, auf eBay oder im privaten Familienalbum entdeckt man Löwenbabyfotos. Die Identitäten der Menschen und die Geschichten der Tiere auf diesen Fotos lässt sich selten rekonstruieren, wie bei diesem undatierten Foto aus dem Zoo Berlin:
 
 <figure>
 
@@ -569,13 +569,13 @@ Inzwischen ist jedoch auch er aus dem Zoo verschwunden. Was bleibt, ist eine Sam
 
 <figcaption>
 
-_Undatiertes Fotos eines Mädchens mit Löwenbaby des Fotografen im Westberliner Zoo_.
+_Undatiertes Foto eines Mädchens mit Löwenbaby des Fotografen im Westberliner Zoo_.
  
 </figcaption>
 
 </figure>
 
-Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre hinweg verfolgen lässt und dadurch einen seriellen Charakter bekommt. Während aber die Löwenbabyfotos inzwischen als Relikt erscheinen, sind Nachfolger längst da. Die Berührung zwischen Mensch und Raubtierjungem hat dabei weitere Räume erobert. Dazu zählt der boomende Wildtiertourismus in zahlreichen Ländern, dessen Geschäftsmodell auf das Anfassen als Erlebnis und das Urlaubsbild als Erinnerung setzt. Eine Konjunktur verzeichnet ebenfalls wieder (oder weiterhin) die Haltung von Raubtieren in privaten Wohnräumen: Dem WWF demzufolge lebten 2014 mehr Tiger in Privathaushalten in den USA als in Freiheit.[^36] Diese gegenwärtigen medialen Transformationen der Löwenbabyfotografie zeigen sich auch in Serien wie _Tiger King_ und im Erfolg der zahllosen privaten Fotos mit Raubtierjungen, die in den sozialen Medien zirkulieren. Viele der Kritikpunkte, die in diesen Zusammenhängen aufkommen, erinnern an die des Zoopublikums aus den 1980er-Jahren. Wieder geht es bei der Frage nach den Fang- und Haltungsbedingungen, um die Arbeit des Tieres und die dahinterliegenden Ökonomien[^37], und wieder geht es bei der Kritik am Motiv um Politiken des Tierbildes, um reproduzierte Exotizismen ebenso wie um das (ins Bild gesetzte) Verhältnis von Tier und Mensch. Während sich somit die Settings und medialen (Verbreitungs-)Formen wandeln und die Löwenbabyfotografien in Zoos bereits historisch geworden sind, bleiben die Fragen, die sie aufwerfen, aktuell. 
+Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre hinweg verfolgen lässt und dadurch einen seriellen Charakter bekommt. Während aber die Löwenbabyfotos inzwischen als Relikt erscheinen, sind Nachfolger längst da. Die Berührung zwischen Mensch und Raubtierjungem hat dabei weitere Räume erobert. Dazu zählt der boomende Wildtiertourismus in zahlreichen Ländern, dessen Geschäftsmodell auf das Anfassen als Erlebnis und das Urlaubsbild als Erinnerung setzt. Eine Konjunktur verzeichnet ebenfalls wieder (oder weiterhin) die Haltung von Raubtieren in privaten Wohnräumen: Dem WWF demzufolge lebten 2014 mehr Tiger in Privathaushalten in den USA als in Freiheit.[^36] Diese gegenwärtigen medialen Transformationen der Löwenbabyfotografie zeigen sich auch in Serien wie _Tiger King_ und im Erfolg der zahllosen privaten Fotos mit Raubtierjungen, die in den sozialen Medien zirkulieren. Viele der Kritikpunkte, die in diesen Zusammenhängen aufkommen, erinnern an die des Zoopublikums aus den 1980er-Jahren. Wieder geht es bei der Frage nach den Fang- und Haltungsbedingungen, um die Arbeit des Tieres und die dahinterliegenden Ökonomien,[^37] und wieder geht es bei der Kritik am Motiv um Politiken des Tierbildes, um reproduzierte Exotizismen ebenso wie um das (ins Bild gesetzte) Verhältnis von Tier und Mensch. Während sich somit die Settings und medialen (Verbreitungs-)Formen wandeln und die Löwenbabyfotografien in Zoos bereits historisch geworden sind, bleiben die Fragen, die sie aufwerfen, aktuell. 
  
  [^1]: Vgl. die Zooführer von 1936, 1938 und 1940; sowie Heck, Ludwig. “Zootiere einst und jetzt”, Januar 1934, AZGB N 1/7. Seit wann genau es im Berliner Zoo den Fotostand gab, ist mir nicht bekannt. 
 
