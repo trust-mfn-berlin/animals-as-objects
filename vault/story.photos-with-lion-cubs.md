@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Photos with Lion Cubs
 title_de: Bilder mit Löwenbabys
 created: 1640340586550
-updated: 1641137459777
+updated: 1641137527164
 id: 4U5dFDf18mKRPdRnzu35p
 author: Mareike Vennen
 translators:
@@ -516,7 +516,7 @@ _Das Berliner Kaufhaus Wertheim hatte 1969 für kurze Zeit Löwenbabys in ihrem 
  
 Nach nur einer Woche wurde der Verkauf indes wieder eingestellt, nachdem offenbar der Berliner Zoo davor gewarnt hatte, dass “ein possierliches Löwen-Baby” bereits innerhalb von drei Monaten zu einer kräftigen Raubkatze heranwachse.[^16] Andere Kaufhäuser, die “wilde Tiere” anboten, haben sich länger gehalten. In Harrods Pet Kingdom in London, das 1917 eröffnete, wurden fast alle Wünsche, von Tigern über Panther bis zu Babyelefanten, Löwen und Alligatoren erfüllt. 1976 musste das Kaufhaus den Bestand infolge des Endangered Species Act zwar einschränken, doch schloss die Tierabteilung erst 2014 endgültig ihre Pforten.[^17] Ungeachtet dessen hat die Haltung von Raubtieren in privaten Wohnräumen weiterhin Konjunktur und es liegt nahe, dass die lange Tradition der Löwenbilder auf die Vorstellung vom Raubtier als Schoßtier oder ‘Tier-Spielzeug’ Einfluss hatte. 
  
-## Hinter den Bildern. Bildökonomie – Tierzuchtökonomie
+## Hinter den Bildern: Bildökonomie – Tierzuchtökonomie
 
 Dass für die Löwenbabyfotos im Zoo ausschließlich Jungtiere verwendet wurden, hing nicht nur mit deren Kuscheltierfaktor zusammen.[^18] Die kleinen Löwen wurden schnell zu groß, um gefahrlos mit Menschen im Nahkontakt zu bleiben. Die Tiere durften nicht mehr als zwei bis sechs Monate alt sein[^19] und eigneten sich damit nur zeitlich begrenzt als “Photographier-Löwe”, wie die Berliner Zoodirektorin [[material.katharina-heinroth]] die Jungtiere 1951 in einem Schreiben bezeichnete.[^20] Die Altersgrenze für den Job als “Photographier-Löwe” schuf einen ständigen Bedarf an Jungtieren.[^21] Löwenbabybilder, auf denen scheinbar immer der gleiche Löwen zu sehen ist, waren insofern von der entsprechenden Verfügbarkeit von Löwenjungen im Tierhandel oder aus anderen Zoos abhängig.
 
