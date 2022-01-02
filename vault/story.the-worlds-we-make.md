@@ -5,7 +5,7 @@ desc: |-
   The history of the horseshoe crab traverses a range of collecting sites
   and scientific spaces, and shows how they have changed the worlds of both
   people and animals.
-updated: 1641157644509
+updated: 1641157767939
 created: 1640281603094
 license: CC BY-SA
 title_de: The Worlds We Make
@@ -187,7 +187,7 @@ _Horseshoe crabs in the sales catalogue of the Hamburg natural-history dealer J.
 
 In the second half of the 19th century, however, more and more claims were being made that horseshoe crabs were more closely related to arachnids than crabs. A number of comparative studies were required to settle this issue of species classification. London zoologist Edwin Ray Lankester, for instance, published two pertinent articles with the title “Limulus as Arachnid” in the 1881 _Quarterly Journal of Microscopical Science_.[^15] Aquariums played another important role in these comparative anatomical studies as sites of observation and as sources for providing specimens from the 1860s onwards. Edwin Lankester, for instance, received live horseshoe crabs from the Royal Westminster Aquarium in London for his anatomical and histological studies. In Hamburg, zoologists like Karl August Möbius were given horseshoe crabs by the zoo aquarium there.[^16] It was therefore not by coincidence that the number of studies being published on the horseshoe crab grew from the 1870s.[^17] After Lankester and others had drawn the conclusion that the animals had more in common with spiders and scorpions than with crustaceans, _Limulus polyphemus_ was classified as a chelicerate in 1901. The horseshoe crab thus changed its subphylum within the taxonomic order.[^18]
 
-Here, the dynamics of taxonomic knowledge become visible, revealing that the [[taxonomic order|Taxonomic Orders|theme.taxonomic-orders]]) is subject to historical change. Within the museum, horseshoe crab specimens then migrated from the Crustacean Collection to the Arachnid and Myriapod Collection, joining the spiders and centipedes, and received a new signature.[^19] Their original taxonomic classification and former location within the Crustacean Collection is still visible for some of the objects at the Berlin Museum of Natural History. Behind the acronym ZMB (for “Zoological Museum Berlin”, which allows an object to be assigned to a special collection) and the inventory number for arachnids (for example “48490”), there is additional information provided in brackets, which points to this species’ eventful taxonomic history: 
+Here, the dynamics of taxonomic knowledge become visible, revealing that the [[taxonomic order|theme.taxonomic-orders]] is subject to historical change. Within the museum, horseshoe crab specimens then migrated from the Crustacean Collection to the Arachnid and Myriapod Collection, joining the spiders and centipedes, and received a new signature.[^19] Their original taxonomic classification and former location within the Crustacean Collection is still visible for some of the objects at the Berlin Museum of Natural History. Behind the acronym ZMB (for “Zoological Museum Berlin”, which allows an object to be assigned to a special collection) and the inventory number for arachnids (for example “48490”), there is additional information provided in brackets, which points to this species’ eventful taxonomic history: 
 
 > ZMB 48490 [ex crustacean no. 5928], 4 juveniles, alcohol; Nahant, Massachusetts, USA; leg. Fröbel, date not recorded; good condition.[^20]
 
