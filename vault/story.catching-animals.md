@@ -7,7 +7,7 @@ short_desc_de: Habitate und Tierhandelsfirmen
 date_end: 1973-12-31T11:00:00.000Z
 published: false
 title: Catching Animals
-updated: 1641154789453
+updated: 1641155834501
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 translators:
   translator_de_en: ""
@@ -133,7 +133,7 @@ Long before the German Reich had its own colonies, companies such as Hagenbeck, 
 
 Alongside Hagenbeck, the companies Reiche and Ruhe from Alfeld were also major players in the international animal trade. After the turn of the 20th century, Ruhe ran collection and acclimatization stations near Dire Dawa in present-day Ethiopia and near Nice in France. It was via Nice that the gorilla [[Bobby|story.bobby-tracking-body-parts2]] came to Berlin.[^15] The international trade in wild animals was “perhaps the only area of colonial trade that was dominated by Germans”.[^16]
 
-The business of catching and trading in animals was profitable due, among other things, to the conditions in the zoos themselves. **In the enclosures, which were often far too small, a lack of veterinary and ethological knowledge led to high mortality in zoos.** There was barely a single animal that could behave anything like it would in the wild, and the feed given frequently did not correspond to the animal’s needs. As a result of such ignorance, some carnivorous animals were given only vegetarian food, while herbivores were given meat.[^17] Breeding was not possible, because the zoo sometimes kept only single individuals of a species – though it was arguably not necessary anyway, since the animal trade provided a constant supply of new animals. The only limit was what the zoo could afford. The lifespan of zoo animals was also usually shorter than it would have been in their natural habitat.
+The business of catching and trading in animals was profitable due, among other things, to the conditions in the zoos themselves. **In the enclosures, which were often far too small, a lack of veterinary and ethological knowledge led to high mortality in zoos.** There was barely a single animal that could behave anything like it would in the wild, and the feed given frequently did not correspond to the animal’s needs. As a result of such ignorance, some carnivorous animals were given only vegetarian feed, while herbivores were given meat.[^17] Breeding was not possible, because the zoo sometimes kept only single individuals of a species – though it was arguably not necessary anyway, since the animal trade provided a constant supply of new animals. The only limit was what the zoo could afford. The lifespan of zoo animals was also usually shorter than it would have been in their natural habitat.
 
 At the beginning of the 20th century, a few zoos also organized or financed their own expeditions to acquire animals. For London Zoo, and especially for U.S. zoos, these expeditions were more than just a source of new animals. The Bronx Zoo in New York and the National Zoo in Washington, and later also London Zoo, used the expeditions as marketing opportunities by producing publications about the trips.[^18]
 
@@ -155,7 +155,7 @@ _Shipment of two young  giraffes, 1928. (AZGB, image: Lutz Heck. All rights rese
 
 After the Second World War, Berlin lay in ruins. It was no longer possible to purchase the big cats and large mammals from Africa and Asia that were so adored by the public. The hunt had to take place on native soil. In order to fill the empty enclosures, the director of Berlin Zoo during the reconstruction years, [[material.katharina-heinroth]], obtained animals from a disbanded circus and acquired native animals caught in the forests in and around Berlin. It was not until the mid-1950s that the international animal trade began to thrive once again. Although the trading companies Hagenbeck and Ruhe did not reattain the near monopoly on the animal trade they had enjoyed for many decades, Europe’s war-torn zoos did turn to them to fill their empty enclosures once more.[^20] According to former zoo director Bernhard Blaszkiewitz, there was a real rush on gorillas around 1960 – and not only at Berlin Zoo, where they had recently finished building the ape house.[^21]  Between 1957 and 1968, the Berlin Zoological Garden received four male and four female gorillas captured in the wild.[^22] 
 
-Colonial authorities and the governments of now independent former colonies were, at this point, still willing to issue trapping licenses. Zoo director [[material.katharina-heinroth]] flew to Borneo and Sumatra in 1955. This was not a traditional trapping expedition, as Heinroth had previously received quotes from private individuals and applied to local authorities for capturing and export permits. She came primarily to see the animals in the wild and select specimens. Katharina Heinroth used her personal vacation for this trip and, accompanying the animals on their journey to Berlin, brought a shipment back to Berlin Zoo.[^23]
+Colonial authorities and the governments of now independent former colonies were, at this point, still willing to issue trapping licenses. Zoo director Katharina Heinroth flew to Borneo and Sumatra in 1955. This was not a traditional trapping expedition, as Heinroth had previously received quotes from private individuals and applied to local authorities for capturing and export permits. She came primarily to see the animals in the wild and select specimens. Katharina Heinroth used her personal vacation for this trip and, accompanying the animals on their journey to Berlin, brought a shipment back to the Berlin Zoo.[^23]
 
 <figure>
 
@@ -169,7 +169,7 @@ _Katharina Heinroth upon her return with the rhesus monkey “Putzi” on her sh
 
 </figure>
 
-Of the animals that Katharina Heinroth brought back from this trip, for the public, the two male orangutan cubs “Bubi” and “Nakal” were undoubtedly the highlight. No one knows how Katharina Heinroth’s contacts got hold of these young animals, which were already so accustomed to human interaction. In the zoo itself, the keepers maintained close contact with the orangutans, as was customary at the time. Photographs of humanising poses, such as this one with a game of Ludo, were among Berlin Zoo’s bestselling postcards.
+Of the animals that Katharina Heinroth brought back from this trip, for the public, the two male orangutan cubs “Bubi” and “Nakal” were undoubtedly the highlight. No one knows how Katharina Heinroth’s contacts got hold of these young animals, which were already accustomed to human interaction. In the zoo itself, the keepers maintained close contact with the orangutans, as was customary at the time. Photographs of humanising poses, such as this one with a game of Ludo, were among Berlin Zoo’s bestselling postcards.
 
 <figure>
 
