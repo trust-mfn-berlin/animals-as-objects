@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Steller’s Sea Cow
 title_de: Stellers Seekuh
 created: 1640333284998
-updated: 1641133164397
+updated: 1641158671460
 id: Q8UAdldubzw0uhkmmgER3
 author: Mareike Vennen
 translators:
@@ -78,7 +78,7 @@ However, just like the original drawings,[^14] barely any material traces of Ste
 
 [^5]: On how the local population interacted with and enslaved some of them, see, e.g., Schmidt, Eberhard (ed.). _Wirtschaft und Handel der Kolonialreiche_, vol. 4. Munich: Verlag C.H. Beck, 1988: 328.
 
-[^6]: Cf. Podgorny, Irina. “Recyclen: Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien: Vom Wert wissenschaftlicher Dinge_, Ina Heumann and Nils Güttler (eds.). Berlin: Kadmos, 2016: 23–46; Podgorny, Irina. “Requiem, oder (Aus-) Sterben in historischer und geologischer Zeit: Knöchelverzeichnis KV 626”. In _Mikrozeit und Tiefenzeit_, Friedrich Balke et al (eds.). Paderborn: Fink, 2018: 128-142.
+[^6]: Cf. Podgorny, 2016; Podgorny, 2018.
 
 [^7]: Cf. Podgorny 2016: 35.
 
@@ -100,7 +100,7 @@ However, just like the original drawings,[^14] barely any material traces of Ste
 
 [^16]: Matschie, Paul. “Die Säugethier-Schausammlung”. _Naturwissenschaftliche Wochenschrift_ 10, no. 26 (30.06.1895): 311-315, 314. 
 
-[^17]: Matschie, Paul. “Die Säugethier-Schausammlung”. _Naturwissenschaftliche Wochenschrift_ 10, no. 26 (30.06.1895): 311-315, 314. 
+[^17]: Ibid.: 314. 
 
 
 
@@ -158,9 +158,9 @@ Materielle Überreste von Seekühen sind dagegen – ebenso wie Originalzeichnun
 
 [^6]: Zum Umgang mit der lokalen Bevölkerung und ihrer teilweisen Versklavung siehe etwa Schmidt, Eberhard (Hg.). _Wirtschaft und Handel der Kolonialreiche_, Bd. 4. München: Verlag C.H. Beck, 1988: 328.
 
-[^7]: Vgl. Podgorny, Irina. “Recyclen. Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien: Vom Wert wissenschaftlicher Dinge_, Ina Heumann und Nils Güttler (hg.). Berlin: Kadmos, 2016: 23–46; Podgorny, Irina. “Requiem, oder (Aus-)Sterben in historischer und geologischer Zeit. Knöchelverzeichnis KV 626”. In _Mikrozeit und Tiefenzeit_, Friedrich Balke u.a. (Hg.). Paderborn: Fink, 2018: 128-142.
+[^7]: Cf. Podgorny, 2016; Podgorny, 2018.
 
-[^8]: Vgl. Podgorny, Irina. “Recyclen. Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien: Vom Wert wissenschaftlicher Dinge_, Ina Heumann und Nils Güttler (Hg.). Berlin: Kadmos, 2016: 23–46.
+[^8]: Cf. Podgorny 2016: 35.
 
 [^9]: Ellis, Richard. _No Turning Back: The Life and Death of Animal Species_. New York: HarperCollins, 2004: 27.
 
@@ -180,4 +180,4 @@ Materielle Überreste von Seekühen sind dagegen – ebenso wie Originalzeichnun
 
 [^17]: Matschie, Paul. “Die Säugethier-Schausammlung”. _Naturwissenschaftliche Wochenschrift_ 10, Nr. 26 (30.06.1895): 311-315, 314. 
 
-[^18]: Matschie, Paul. “Die Säugethier-Schausammlung”. _Naturwissenschaftliche Wochenschrift_ 10, Nr. 26 (30.06.1895): 311-315, 314.
+[^18]: Ebd.: 314.
