@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Steller’s Sea Cow
 title_de: Stellers Seekuh
 created: 1640333284998
-updated: 1641158671460
+updated: 1641159332694
 id: Q8UAdldubzw0uhkmmgER3
 author: Mareike Vennen
 translators:
@@ -43,7 +43,7 @@ In 1895, collection curator Paul Matschie presented the mammals that were being 
 
 In the aforementioned article, Matschie characterised Steller’s sea cow as “a genus that went extinct last century, Rhytina stelleri, which was at home at the most northern point of the Pacific Ocean”. He continues by describing how sea cows “were caught in great numbers because of their meat, because of their skin, and their fat”.[^2] What Matschie does not explicitly mention is the connection between the hunt for these animals and the species’ extinction. But it is precisely this connection between exploitation and extermination that is crucial to the history of Steller’s sea cow and to the question of why the Berlin museum does not own a single one of the animal’s bones.
 
-## Observing extinction
+## Observing Extinction
 
 While Matschie did not draw any causal links between human influence and extinction, the zoologist Karl Ernst von Baer was looking at anthropogenic extinction events from the mid-19th century. To the history of the sea cow’s extinction von Baer added the history of its extermination, which he described as a “war of annihilation”.
 
@@ -53,7 +53,7 @@ The first hunting expedition spent the winter of 1743–1744 on Bering Island. B
 
 The sea cow remains that could not be utilised stayed where they were and were rediscovered in the late 18th century, this time as exciting natural history finds. The hunt for the fossils of prehistoric lifeforms was now joined by the hunt for animals that had recently been driven to extinction by humans, for which the term “subfossils” gained currency around 1860. The history of science scholar Irina Podgorny has examined this history of reutilisation.[^6] She shows how the remains of hunting and trade became collection items that were intensely coveted on the natural history market. For science, as we read in Podgorny, waste advanced to a new source of (natural) history. 
 
-## Reconstructing extermination
+## Reconstructing Extermination
 
 According to Podgorny, species extinctions created an economy of scarcity, which intensified due to demand from museum collections. It was scarcity that produced a natural history value that had not been previously recognised or viewed as something valuable beforehand. Value is only created retrospectively when discoveries are scarce. This also applies to Steller’s sea cows. Because these animals had only been distributed throughout a very limited region, fossil discoveries were rare. In the early 19th century, apart from Steller’s description and one unauthenticated drawing, there was no other evidence of the species apart from two ribs and a single tooth plate, which was housed at the Russian Zoological Museum of the Academy of Sciences. Skulls, bones, teeth, and jaws, which were used to determine similarities with other genera and families, thus became coveted objects on the global market. The Petersburg Academy of Sciences paid a premium to anybody who could supply it with Rhytina skulls and museums wrote their own collecting instructions for sea cow skeletons.
 
