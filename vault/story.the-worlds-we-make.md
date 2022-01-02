@@ -5,7 +5,7 @@ desc: |-
   The history of the horseshoe crab traverses a range of collecting sites
   and scientific spaces, and shows how they have changed the worlds of both
   people and animals.
-updated: 1641151214368
+updated: 1641151387524
 created: 1640281603094
 license: CC BY-SA
 title_de: The Worlds We Make
@@ -35,7 +35,7 @@ published: false
 
 <figcaption>
 
-_Wet specimen of a horseshoe crab with inventory number ZMB 48487 at the Berlin Museum of Natural History. (MfN, ZMB 48487. Photo: Carola Radke/MfN. All rights reserved.)_
+_Wet specimen of a horseshoe crab with inventory number ZMB 48487 at the Berlin Museum of Natural History. (MfN, ZMB 48487. Image: Carola Radke/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -55,7 +55,7 @@ The specimens themselves give us a clue about their earlier function. The way th
 
 <figcaption>
 
-_The front of specimen ZMB 48487 reveals the animal’s exposed nervous system. (MfN, ZMB 48487. Photo: Carola Radke/MfN. All rights reserved.)_
+_The front of specimen ZMB 48487 reveals the animal’s exposed nervous system. (MfN, ZMB 48487. Image: Carola Radke/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -69,7 +69,7 @@ Organs have been removed from other animals and prepared as individual specimens
 
 <figcaption>
 
-_In this specimen, the heart and vessels of a horseshoe crab have been isolated. This animal came from the (Berlin?) Aquarium and was probably part of the Zoological Teaching Collection to begin with. It is now stored at the Museum of Natural History Berlin. (MfN, ZMB 32114. Photo: Carola Radke/MfN. All rights reserved.)_
+_In this specimen, the heart and vessels of a horseshoe crab have been isolated. This animal came from the (Berlin?) Aquarium and was probably part of the Zoological Teaching Collection to begin with. It is now stored at the Museum of Natural History Berlin. (MfN, ZMB 32114. Image: Carola Radke/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -83,7 +83,7 @@ Traces of wear and tear provide more clues. Material damage and wires on some of
 
 <figcaption>
 
-_This historical specimen of a horseshoe crab has suffered damage over time. (MfN, ZMB 32107. Photo: Carola Radke/MfN. All rights reserved._
+_This historical specimen of a horseshoe crab has suffered damage over time. (MfN, ZMB 32107. Image: Carola Radke/MfN. All rights reserved._
 
 </figcaption>
 
@@ -95,7 +95,7 @@ _This historical specimen of a horseshoe crab has suffered damage over time. (Mf
 
 <figcaption>
 
-_The wires on the specimen show that it was hung up, which points to its probable earlier use as an exhibition or teaching object. (MfN, ZMB 48477. Photo: Carola Radke/MfN. All rights reserved.)_
+_The wires on the specimen show that it was hung up, which points to its probable earlier use as an exhibition or teaching object. (MfN, ZMB 48477. Image: Carola Radke/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -109,7 +109,7 @@ In fact, these specimens have come from the “Zoological Institute”, as can b
 
 <figcaption>
 
-_Label on the specimen from the Zoological Institute, which now bears inventory number ZMB 48487, at the Museum of Natural History. (MfN, ZMB 48487. Photo: Mareike Vennen. All rights reserved.)_
+_Label on the specimen from the Zoological Institute, which now bears inventory number ZMB 48487, at the Museum of Natural History. (MfN, ZMB 48487. Image: Mareike Vennen. All rights reserved.)_
 
 </figcaption>
 
