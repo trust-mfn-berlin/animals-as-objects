@@ -5,7 +5,7 @@ desc: |-
   The history of the horseshoe crab traverses a range of collecting sites
   and scientific spaces, and shows how they have changed the worlds of both
   people and animals.
-updated: 1640916785142
+updated: 1641148889590
 created: 1640281603094
 license: CC BY-SA
 title_de: The Worlds We Make
@@ -281,7 +281,7 @@ Im Berliner Museum für Naturkunde befindet sich das Präparat eines Pfeilschwan
 ## Vom Aquarium über die Lehrsammlung ins Museum. Provenienzgeschichten
 
 Wenn die historischen Limulus-Präparate, die sich heute im Berliner Naturkundemuseum befinden, ursprünglich nicht für dessen Sammlung bestimmt waren, woher stammen sie und was war ihr Zweck? Welche Wege haben sie im Laufe der Zeit zurückgelegt und was vermögen diese über die Sammlungsgeschichte auszusagen?
-Einen Hinweis auf ihre frühere Funktion liefern die Präparate selbst. Die Art der Zurichtung deutet darauf hin, dass es sich nicht um Objekte einer _Forschungs_sammlung wie der des Naturkundemuseums handelt, sondern um _Lehr_objekte. Zum einen wurden Präparate für die universitäre Lehre buchstäblich zugeschnitten oder bestanden aus isolierten Körperteilen, um verschiedene Funktionen oder Organe eines Tieres zu demonstrieren. In diesem Fall sind bei manchen der Tiere bestimmte Körperpartien wie etwa das Nervensystem freigelegt.
+Einen Hinweis auf ihre frühere Funktion liefern die Präparate selbst. Die Art der Zurichtung deutet darauf hin, dass es sich nicht um Objekte einer _Forschungs_-sammlung wie der des Naturkundemuseums handelt, sondern um _Lehr_-objekte. Zum einen wurden Präparate für die universitäre Lehre buchstäblich zugeschnitten oder bestanden aus isolierten Körperteilen, um verschiedene Funktionen oder Organe eines Tieres zu demonstrieren. In diesem Fall sind bei manchen der Tiere bestimmte Körperpartien wie etwa das Nervensystem freigelegt.
 
 <figure>
 
