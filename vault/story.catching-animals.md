@@ -7,11 +7,7 @@ short_desc_de: Habitate und Tierhandelsfirmen
 date_end: 1973-12-31T11:00:00.000Z
 published: false
 title: Catching Animals
-<<<<<<< HEAD
-updated: 1641150428647
-=======
-updated: 1641152190271
->>>>>>> 1069b06ef7dc933c0bf5454c0f098259c5b6c12b
+updated: 1641154789453
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 translators:
   translator_de_en: ""
