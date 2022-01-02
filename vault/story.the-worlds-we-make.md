@@ -5,7 +5,7 @@ desc: |-
   The history of the horseshoe crab traverses a range of collecting sites
   and scientific spaces, and shows how they have changed the worlds of both
   people and animals.
-updated: 1641157465141
+updated: 1641157644509
 created: 1640281603094
 license: CC BY-SA
 title_de: The Worlds We Make
@@ -223,7 +223,7 @@ Connections such as the ones outlined here and the ensuing interdependencies and
 
 [^9]: Cf. Richter, Stefan. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität: Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ 37 (25 February 1999): 59-76, 64.
 
-[^10]: Dunlop, Jason A., Marlene S. Compton, and Anja Friederichs. “An Annotated Catalogue of the Horseshoe Crabs (Xiphosura) Held in the Museum für Naturkunde Berlin”. _Zoosystematics and Evolution_ 88, no. 2 (2012): 215-222, 215. https://doi.org/10.1002/zoos.201200018.
+[^10]: Dunlop, 2012, 215.
 
 [^11]: The numbers that begin with “48” were only recently assigned to predominantly older specimens, as the curator of the Arachnid Collection, Jason Dunlop, explains.
 
@@ -243,7 +243,7 @@ Connections such as the ones outlined here and the ensuing interdependencies and
 
 [^19]: Many museum and university collections still organise their collections by the biological systematics of class, order, family, genus, and species, even though spatial limitations mean that it is often difficult to implement this systematic order properly. In the second half of the 19th century, many collections in the natural history museums of Europe were split in two during the museum reform movement – into a public display exhibition and a research collection closed to the public. Cf. Nyhard, Lynn K. _Modern Nature: The Rise of the Biological Perspective in Germany_. Chicago: The University of Chicago Press, 2009; Köstering, Susanne. _Natur zum Anschauen: Das Naturkundemuseum des deutschen Kaiserreichs 1871-1914_. Cologne et al.: Böhlau, 2003; 
 
-[^20]: This is the entry in Dunlop, Jason A., Marlene S. Compton, and Anja Friederichs. “An Annotated Catalogue of the Horseshoe Crabs (Xiphosura) Held in the Museum für Naturkunde Berlin”. _Zoosystematics and Evolution_ 88, no. 2 (2012): 215-222, 215. https://doi.org/10.1002/zoos.201200018.
+[^20]: This is the entry in Dunlop, 2012.
 
 [^21]: Howell’s studies from 1881 had already proven that human blood and haemolymphe (“blood”) in the limulus coagulate in a similar way. But it was not until 70 years later that his studies were taken further, when Bang described a bacterial infection in a population of horseshoe crabs that caused their blood to coagulate in 1956. Cf. Liebsch, Manfred. “Die Geschichte der Validierung des LAL- Tests”. _ALTEX_ 12, no. 2 (1995): 76-80, 78.
 
