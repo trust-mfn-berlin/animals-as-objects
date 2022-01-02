@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Photos with Lion Cubs
 title_de: Bilder mit Löwenbabys
 created: 1640340586550
-updated: 1641137935386
+updated: 1641138207721
 id: 4U5dFDf18mKRPdRnzu35p
 author: Mareike Vennen
 translators:
@@ -595,9 +595,9 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^9]: Becker, Manfred. _Bwana Simba – Der Herr der Löwen: Carl Georg Schillings. Forscher und Naturschützer in Deutsch-Ostafrika_. Düren: Hahne & Schloemer Verlag, 2008.
 
-[^10]: Schillings, Carl Georg. _Mit Blitzlicht und Büchse. Neue Beobachtungen und Erlebnisse in der Wildnis inmitten der Tierwelt von Äquatorial-Ostafrika_. Leipzig: R. Voigtländer, 1905.
+[^10]: Schillings, Carl Georg. _Mit Blitzlicht und Büchse: Neue Beobachtungen und Erlebnisse in der Wildnis inmitten der Tierwelt von Äquatorial-Ostafrika_. Leipzig: R. Voigtländer, 1905.
 
-[^11]: _Ein Platz für Tiere_ gehört bis heute zu den erfolgreichsten Fernseh-Tierserie in Deutschland, die 31 Jahre und 175 Folgen lang lief.
+[^11]: _Ein Platz für Tiere_ gehört bis heute zu den erfolgreichsten Fernseh-Tierserien in Deutschland, die 31 Jahre und 175 Folgen lang lief.
 
 [^12]: Schneider, Karl Max. _Mit Löwen und Tigern unter einem Dach._ Wittenberg: Ziemsen, 1957; Grzimek, Bernhard. _Affen im Haus und andere Tierberichte_. Stuttgart: Franck’sche Verlagshandlung, 1951. 
 
@@ -605,7 +605,7 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^14]: Nastasja Klothmann zufolge haben zudem Zoologische Gärten wie etwa der Leipziger Zoo vor dem Zweiten Weltkrieg Raubtierjunge an Privatleute verkauft und Wildtiere bei Tombolas verlost. Vgl. Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 228-231.
 
-[^15]: Vgl. “Löwen mit Gebrauchsanweisung. Neues Angebot im Warenhaus: Kleine Raubkatzen von 1600 Mark an”. _Tagesspiegel_, 30.08.1969. 
+[^15]: Vgl. “Löwen mit Gebrauchsanweisung: Neues Angebot im Warenhaus: Kleine Raubkatzen von 1600 Mark an”. _Tagesspiegel_, 30.08.1969. 
 
 [^16]: “Keine Löwen mehr über den Ladentisch”. _Harsfelder Zeitung_, 05.09.1969.
 
@@ -613,7 +613,7 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^18]: Ausgewachsene Löwen sind dagegen eher mit Wildnis und (kolonialer) Großwildjagd assoziiert werden.
 
-[^19]: Vgl. etwa Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1958_, hg. vom Aktien-Verein des Zoologischen Gartens Berlin. Berlin 1958: 56.
+[^19]: Vgl. etwa Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1958_, Aktien-Verein des Zoologischen Gartens Berlin (Hg.). Berlin 1958: 56.
 
 [^20]: K. Heinroth an K.M. Schneider, 23.05.1951, AZGB O 0/1/284.
 
@@ -621,7 +621,7 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^22]: L. Heck an H. Heck, 09.01.1934, AZGB N 1/7.
 
-[^23]: L. Heck an H. Heck, 09.01.1934, AZGB N 1/7. Vgl. auch Haikal, Mustafa. _Die Löwenfabrik: Lebensläufe und Legenden_. Leipzig: Pro Leipzig, 2006; Haikal, Mustafa, und Jörg Junhold. _Auf der Spur des Löwen. 125 Jahre Zoo Leipzig_. Leipzig: pro Leipzig, 2003.
+[^23]: L. Heck an H. Heck, 09.01.1934, AZGB N 1/7. Vgl. auch Haikal, Mustafa. _Die Löwenfabrik: Lebensläufe und Legenden_. Leipzig: Pro Leipzig, 2006; Haikal, Mustafa, und Jörg Junhold. _Auf der Spur des Löwen: 125 Jahre Zoo Leipzig_. Leipzig: pro Leipzig, 2003.
 
 [^24]: Umgekehrt musste man zu große Löwen wieder los werden; es entstand eine Zirkulation von Löwenjungen, die als Waren- oder Tauschökonomie funktionierte.
 
@@ -643,10 +643,10 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^33]: Wessely, Christina. _Löwenbaby_. Berlin: Matthes & Seitz, 2019: 59; 61.
 
-[^34]: Foto-Jahreskarten kosteten 10 Mark und Zoo- und Aquarium-Fotojahreskarten beliefen sich auf 15 Mark. Vgl. Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1981_, hg. vom Aktien-Verein des Zoologischen Gartens zu Berlin. Berlin: 1981.
+[^34]: Foto-Jahreskarten kosteten 10 Mark und Zoo- und Aquarium-Fotojahreskarten beliefen sich auf 15 Mark. Vgl. Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1981_, Aktien-Verein des Zoologischen Gartens zu Berlin (Hg.). Berlin: 1981.
 
 [^35]: Frädrich, Hans (Hg.). _Wegweiser durch den Zoologischen Garten Berlin und sein Aquarium 1994_, hg. vom Aktien-Verein des Zoologischen Gartens zu Berlin. Berlin: 1994.
 
-[^36]: “More Tigers in American Backyards than in the Wild”. WWF Stories 29.07.2014. https://www.worldwildlife.org/stories/more-tigers-in-american-backyards-than-in-the-wild. Zum (häufig illegalen) Handel mit “exotischen Haustieren” vgl. Collard, Rosemary-Claire. _Animal Traffic. Lively Capital in the Global Exotic Pet Trade_. Durham: Duke University Press, 2020.
+[^36]: “More Tigers in American Backyards than in the Wild”. WWF Stories 29.07.2014. https://www.worldwildlife.org/stories/more-tigers-in-american-backyards-than-in-the-wild. Zum (häufig illegalen) Handel mit “exotischen Haustieren” vgl. Collard, Rosemary-Claire. _Animal Traffic: Lively Capital in the Global Exotic Pet Trade_. Durham: Duke University Press, 2020.
 
 [^37]: Vgl. etwa Daly, Natasha. “Wundervolle Fotos – unsichtbares Leid”. _National Geographic (Das Tier und Wir)_ 6, Nr. 51 (2019): 40-73.
