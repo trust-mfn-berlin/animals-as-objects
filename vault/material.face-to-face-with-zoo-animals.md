@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Face to Face with Zoo Animals
 title_de: Zootiere anfassen
 created: 1640354060660
-updated: 1640915566036
+updated: 1641142482195
 id: U1w3ckwyrdpQ2JzOLgTKo
 author: Mareike Vennen
 desc: The baby animal zoo
@@ -97,13 +97,13 @@ _No restraint between human child and young predator, as the_ Heidelberger Tageb
  
 <figcaption>
 
-_Bild aus dem Berliner „Tierkinderzoo“ um 1933. (AZGB. Alle Rechte vorbehalten.)_
+_Bild aus dem Berliner Tierkinderzoo um 1933. (AZGB. Alle Rechte vorbehalten.)_
  
 </figcaption>
 
 </figure>
 
-Ein Gepard umringt von jungen Ziegen, Lämmern und Ferkeln? Ein ungewöhnliches Bild. Das Foto aus dem Zoo Berlin zeigt ein Phänomen, das es so schon lange nicht mehr gibt, aber in den 1930er-Jahren äußerst populär war: den “Tierkinderzoo”. Die nachfolgende Einrichtung, der Streichelzoo, findet sich bis heute in vielen Tiergärten. Aber wer weiß noch, dass dort früher auch Bärenjunge und Löwenbabys gehalten wurden?
+Ein Gepard umringt von jungen Ziegen, Lämmern und Ferkeln? Ein ungewöhnliches Bild. Das Foto aus dem Zoo Berlin zeigt ein Phänomen, das es so schon lange nicht mehr gibt, aber in den 1930er-Jahren äußerst populär war: den Tierkinderzoo. Die nachfolgende Einrichtung, der Streichelzoo, findet sich bis heute in vielen Tiergärten. Aber wer weiß noch, dass dort früher auch Bärenjunge und Löwenbabys gehalten wurden?
  
 Im Sommer 1931 organisierte der Zoo zum ersten Mal eine Sonderschau mit Jungtieren. Das Besondere: Besetzt war die eingezäunte Anlage, für die man Eintritt bezahlen musste, nicht nur mit Jungtieren heimischer Haustierrassen, sondern auch mit kleinen Raubtieren aus Europa und Afrika, die man alle füttern, streicheln, auf den Schoß nehmen und sogar [[mit der Flasche füttern konnte|story.photos-with-lion-cubs]].
  
@@ -119,7 +119,7 @@ _Die_ Funkwoche Berlin _zeigt die Fütterungsübungen mit Bärenbaby im Berliner
 
 </figure>
 
-Was heute als irritierend, gefährlich und wenig artgerecht erscheint, war damals ein so großer Erfolg, dass es bisweilen zu Engpässen bei der Lieferung junger Löwen, Tiger und Leoparden kam.[^1] Auch weil schon bald weitere Zoos ihren Besucher:innen ähnliche Attraktionen bieten wollten. “Großes Löwenstreicheln im Zoo” kündigte die _Leipziger Tageszeitung_ am 8. November 1935 an[^2] und im Stellinger Tierpark beobachtete der Zoodirektor, wie gern die Besucher:innen junge Löwen auf den Arm nahmen und streichelten.[^3] Der Bedarf an Jungtieren blieb aber auch deshalb hoch, da die Jungtiere im nächsten Sommer längst zu groß geworden waren und [[ersetzt werden mussten|story.photos-with-lion-cubs]]. Raubtierbabys waren auf dem Markt entsprechend begehrt und teuer[^4]; man nahm daher, was man bekommen konnte: “Wie schon besprochen, könnten anstatt der jungen Raubtiere vorläufig exotische Bären genommen und diese evtl. später gegen junge Raubtiere ausgetauscht werden”,[^5] ließ der Tierhändler Ruhe, der die Raubtierjungen für den Berliner Zoo lieferte, dessen Direktor wissen. 
+Was heute als irritierend, gefährlich und wenig artgerecht erscheint, war damals ein so großer Erfolg, dass es bisweilen zu Engpässen bei der Lieferung junger Löwen, Tiger und Leoparden kam.[^1] Auch weil schon bald weitere Zoos ihren Besucher:innen ähnliche Attraktionen bieten wollten. “Großes Löwenstreicheln im Zoo” kündigte die _Leipziger Tageszeitung_ am 8. November 1935 an[^2] und im Stellinger Tierpark beobachtete der Zoodirektor, wie gern die Besucher:innen junge Löwen auf den Arm nahmen und streichelten.[^3] Der Bedarf an Jungtieren blieb aber auch deshalb hoch, da die Jungtiere im nächsten Sommer längst zu groß geworden waren und [[ersetzt werden mussten|story.photos-with-lion-cubs]]. Raubtierbabys waren auf dem Markt entsprechend begehrt und teuer;[^4] man nahm daher, was man bekommen konnte: “Wie schon besprochen, könnten anstatt der jungen Raubtiere vorläufig exotische Bären genommen und diese evtl. später gegen junge Raubtiere ausgetauscht werden”,[^5] ließ der Tierhändler Ruhe, der die Raubtierjungen für den Berliner Zoo lieferte, dessen Direktor wissen. 
  
 <figure>
 
@@ -127,13 +127,13 @@ Was heute als irritierend, gefährlich und wenig artgerecht erscheint, war damal
 
 <figcaption>
 
-_Bild des ‘Tierkinderzoos’ von 1936. (AZGB. Alle Rechte vorbehalten.)_
+_Bild des Tierkinderzoos von 1936. (AZGB. Alle Rechte vorbehalten.)_
  
 </figcaption>
 
 </figure>
 
-Der “Tierkinderzoo” im Berliner Garten war so beliebt, dass der Zoo sie mehrfach wiederholte. Das Zusammentreffen von Lamm und Gepard in der eingangs gezeigten Aufnahme war also kein Versehen. Ebenso wenig wie das Zusammentreffen von Lamm, jungem Gepard und Menschenkindern. Heute werden dagegen weder in Berlin noch in anderen deutschen Zoos Raubtiere in dieser Form ausgestellt oder mit Haustieren wie Schafen oder Ziegen zusammen gehalten. Geblieben sind die Streichelzoos mit Haustieren. Sie bieten zwar keinen direkten Kontakt zwischen Menschenkind und Raubtierjungem, doch das kommt nicht nur den Tieren zugute, sondern vermittelt auch nicht mehr das Bild von Raubtierbabys als Kuscheltieren.
+Der Tierkinderzoo im Berliner Garten war so beliebt, dass der Zoo sie mehrfach wiederholte. Das Zusammentreffen von Lamm und Gepard in der eingangs gezeigten Aufnahme war also kein Versehen. Ebenso wenig wie das Zusammentreffen von Lamm, jungem Gepard und Menschenkindern. Heute werden dagegen weder in Berlin noch in anderen deutschen Zoos Raubtiere in dieser Form ausgestellt oder mit Haustieren wie Schafen oder Ziegen zusammen gehalten. Geblieben sind die Streichelzoos mit Haustieren. Sie bieten zwar keinen direkten Kontakt zwischen Menschenkind und Raubtierjungem, doch das kommt nicht nur den Tieren zugute, sondern vermittelt auch nicht mehr das Bild von Raubtierbabys als Kuscheltieren.
  
 <figure>
 
