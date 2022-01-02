@@ -5,7 +5,7 @@ desc: |-
   The history of the horseshoe crab traverses a range of collecting sites
   and scientific spaces, and shows how they have changed the worlds of both
   people and animals.
-updated: 1641157893006
+updated: 1641158017844
 created: 1640281603094
 license: CC BY-SA
 title_de: The Worlds We Make
@@ -223,7 +223,7 @@ Connections such as the ones outlined here and the ensuing interdependencies and
 
 [^9]: Cf. Richter, Stefan. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität: Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ 37 (25 February 1999): 59-76, 64.
 
-[^10]: Dunlop, 2012, 215.
+[^10]: Dunlop, 2012: 215.
 
 [^11]: The numbers that begin with “48” were only recently assigned to predominantly older specimens, as the curator of the Arachnid Collection, Jason Dunlop, explains.
 
@@ -456,7 +456,7 @@ Verbindungen wie die hier geschilderten und die damit verknüpften Abhängigkeit
 
 [^9]: Vgl. Richter, Stefan. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität – ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ 37 (25. Februar 1999): 59-76, 64.
 
-[^10]: Dunlop, 2012, 215.
+[^10]: Dunlop, 2012: 215.
 
 [^11]: Die Nummern, die mit “48” beginnen, werden erst in jüngerer Zeit vergeben und zwar vornehmlich an ältere Exemplare, erklärt der Kurator der Spinnensammlung, Jason Dunlop.
 
