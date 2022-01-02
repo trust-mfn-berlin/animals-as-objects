@@ -7,7 +7,7 @@ short_desc_de: Habitate und Tierhandelsfirmen
 date_end: 1973-12-31T11:00:00.000Z
 published: false
 title: Catching Animals
-updated: 1641156847415
+updated: 1641157329912
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 translators:
   translator_de_en: ""
@@ -271,7 +271,7 @@ In 1975, a Convention on International Trade in Endangered Species of Wild Fauna
 
 [^15]: Eipper, Paul. _Freund aller Tiere: Ein Fahrtenbuch voll bunter Abenteuer_. Berlin: Ullstein, 1937: 94-95.
 
-[^16]: Ames, Eric. _Carl Hagenbeck’s Empire of Entertainments_. A McLellan Book. Seattle: University of Washington Press, 2008: 27.
+[^16]: Ames, Eric. _Carl Hagenbeck’s Empire of Entertainments_. Seattle: University of Washington Press, 2008: 27.
 
 [^17]: Kawata, Ken. “Zoo Animal Feeding: A Natural History Viewpoint”. In _Der Zoologische Garten_ 78, no. 1 (2008): 17-42.
 
@@ -521,7 +521,7 @@ Seit den 1960er Jahren traten zunehmend Züchtungen, also in Zoos gezeugte Nachk
 
 [^7]: Vgl. Diallo, Oumar und Joachim Zeller. “Zoologischer Garten, Hardenbergplatz 8”. In _Berlin – Eine (post-)koloniale Metropole: Ein historisch-kritischer Stadtrundgang im Bezirk Mitte_, Farafina e. V. Berlin-Moabit (Hg.). Berlin: Metropol-Verlag, 2021: 168-175. Das ergibt auch eine systematische Durchsicht der Geschäftsberichte zwischen 1890 und 1914.
 
-[^8]: Vgl. unter anderem Gissibl, Bernhard. _The nature of German imperialism: conservation and the politics of wildlife in colonial East Africa_. New York: Berghahn Books, 2016; Domínguez, Lara und Colin Luoma. “Decolonising Conservation Policy: How Colonial Land and Conservation Ideologies Persist and Perpetuate Indigenous Injustices at the Expense of the Environment”. _Land_ 9, Nr. 3 (2020). https://doi.org/10.3390/land9030065; Prendergast, David. “Colonial Wildlife Conservation and the Origins of the Society for the Preservation of the Wild Fauna of the Empire (1903-1914)”. _Oryx_ 37 (01.04.2003): 251-260. https://doi.org/10.1017/S0030605303000425; MacKenzie, John M. _The Empire of Nature: Hunting, Conservation, and British Imperialism_. Studies in Imperialism. Manchester (UK), New York (NY): St. Martin’s Press, 1997; Thompsell, Angela. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke and New York: Palgrave Macmillan, 2015
+[^8]: Vgl. unter anderem Gissibl, Bernhard. _The nature of German imperialism: conservation and the politics of wildlife in colonial East Africa_. New York: Berghahn Books, 2016; Domínguez, Lara und Colin Luoma. “Decolonising Conservation Policy: How Colonial Land and Conservation Ideologies Persist and Perpetuate Indigenous Injustices at the Expense of the Environment”. _Land_ 9, Nr. 3 (2020). https://doi.org/10.3390/land9030065; Prendergast, David. “Colonial Wildlife Conservation and the Origins of the Society for the Preservation of the Wild Fauna of the Empire (1903-1914)”. _Oryx_ 37 (01.04.2003): 251-260. https://doi.org/10.1017/S0030605303000425; MacKenzie, John M. _The Empire of Nature: Hunting, Conservation, and British Imperialism_. Studies in Imperialism. Manchester (UK), New York (NY): St. Martin’s Press, 1997; Thompsell, Angela. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke and New York: Palgrave Macmillan, 2015.
 
 [^9]: Schillings, Carl Georg. _Mit Blitzlicht und Büchse_. Leipzig, 1905: 188.
 
@@ -543,7 +543,7 @@ Seit den 1960er Jahren traten zunehmend Züchtungen, also in Zoos gezeugte Nachk
 
 [^18]: Beispiele in Hanson, Elizabeth. _Animal attractions: nature on display in American zoos_. Princeton, N.J: Princeton University Press, 2002: 100-129. Neben zeitgenössischen Zeitungsartikeln, vgl. zudem Mann, William M. “Wild animals in and out of the Zoo”. _Smithsonian Institution series_, Bd. 6. New York: Smithsonian Institution, 1938; Zoehfeld, Kathleen Weidner. _Wild lives: a history of the people & animals of the Bronx Zoo_. New York: Alfred A. Knopf, 2006; sowie Attenborough, David. _Zoo Quest to Guiana_. London: Lutterworth Press, 1956.
 
-[^19]: Beispiele bei Heck, Lutz. “Auf Giraffenfang in Ostafrika”. _Die Koralle_ 4, Nr. 10 (1928): 456-460; Heck, Lutz. “Als Tierfänger in Ostafrika. Die Tierfangexpedition des Zoologischen Gartens in Berlin”. _Die Koralle_ 5, Nr. 2 (1929): 82-86; Heck, Lutz. “Als Tierfänger in Ostarfrika”. _Die Kunst und ihre Welt_, Januar (1930): 8-11; Heck, Lutz. _Aus der Wildnis in den Zoo. Auf Tierfang in Ostafrika_. Berlin: Ullstein, 1930; Heck, Lutz. “Über Giraffen und Giraffenfang”. _Atlantis. Länder, Völker, Reisen_ 3, Nr. 8 (1931): 458-466; Heck, Lutz. “Pavian-Fang in Abessinien”. _Das Tier und wir_, Nr. 6 (1934): 1-6; Heck, Lutz. _Auf Tiersuche in weiter Welt_. Berlin: Paul Parey, 1941.
+[^19]: Beispiele bei Heck, Lutz. “Auf Giraffenfang in Ostafrika”. _Die Koralle_ 4, Nr. 10 (1928): 456-460; Heck, Lutz. “Als Tierfänger in Ostafrika: Die Tierfangexpedition des Zoologischen Gartens in Berlin”. _Die Koralle_ 5, Nr. 2 (1929): 82-86; Heck, Lutz. “Als Tierfänger in Ostarfrika”. _Die Kunst und ihre Welt_, Januar (1930): 8-11; Heck, Lutz. _Aus der Wildnis in den Zoo. Auf Tierfang in Ostafrika_. Berlin: Ullstein, 1930; Heck, Lutz. “Über Giraffen und Giraffenfang”. _Atlantis. Länder, Völker, Reisen_ 3, Nr. 8 (1931): 458-466; Heck, Lutz. “Pavian-Fang in Abessinien”. _Das Tier und wir_, Nr. 6 (1934): 1-6; Heck, Lutz. _Auf Tiersuche in weiter Welt_. Berlin: Paul Parey, 1941.
 
 [^20]: Dittrich, Lothar. “Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter und Gerhard Heindl (Hg.). Wien: Braumüller, 2007.
 
