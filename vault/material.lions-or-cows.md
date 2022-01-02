@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Lions or Cows?
 title_de: Löwen oder Kühe?
 created: 1640356599113
-updated: 1641133566538
+updated: 1641134227264
 id: 9mH5N7vuPc8pcrpIzElb1
 author: Mareike Vennen
 translators:
@@ -34,17 +34,17 @@ published: false
 
 <figcaption>
 
-_File on the establishment of an Agricultural Zoo in the archive of Berlin Zoological Garden. (AZGB. All rights reserved.)_
+_File on the establishment of an agricultural zoo in the archive of Berlin Zoological Garden. (AZGB. All rights reserved.)_
 
 </figcaption>
 
 </figure>
 
-In 1900, a good 50 years after the opening of the Zoological Garden in Berlin, zoo director Ludwig Heck negotiated with the Royal Ministry of Agriculture, Domains, and Forests the establishment of a section at the zoo where agricultural and veterinary work could be carried out.[^1] It was about getting approval for a state feed subsidy for keeping and acquiring agriculturally significant livestock at the zoo to meet the teaching and studying needs of the Agricultural University and the Veterinary University. The plan was to set up “a collection of modern livestock breeds, specifically cattle and sheep, as well as the odd pig and horse and fowl”,[^2] which the two universities would select and house at the zoo. The idea to keep and display livestock at the zoo was nothing new. In fact, it went back to the beginnings of the Berlin Zoological Garden. In 1840, founding director Martin Hinrich Lichtenstein wrote a memorandum persuading the Prussian King Friedrich Wilhelm IV to decree the establishment of a zoo near Berlin. In this memorandum, which was presented to the king by Alexander von Humboldt, Lichtenstein argued that establishing a zoological garden would not just serve amusement and education purposes, but that “the actual task of facilities like this \[would be] breeding and proliferating beautiful and useful animals, \[and] refining our domestic animals”.[^3] He thus elevated the breeding of livestock and the associated “promotion of agricultural operations”[^4] to some of the core tasks of the zoo that was to be founded.
+In 1900, a good 50 years after the opening of the Zoological Garden in Berlin, zoo director Ludwig Heck negotiated with the Royal Ministry of Agriculture, Domains, and Forests the establishment of a section at the zoo where agricultural and veterinary work could be carried out.[^1] It was about getting approval for a state feed subsidy for keeping and acquiring agriculturally significant livestock at the zoo to meet the teaching and studying needs of the Agricultural University and the Veterinary University. The plan was to set up “a collection of modern livestock breeds, specifically cattle and sheep, as well as the odd pig and horse and fowl”,[^2] which the two universities would select and house at the zoo. The idea to keep and display livestock at the zoo was nothing new. In fact, it went back to the beginnings of the Berlin Zoological Garden. In 1840, founding director Martin Hinrich Lichtenstein wrote a memorandum persuading the Prussian King Friedrich Wilhelm IV to decree the establishment of a zoo near Berlin. In this memorandum, which was presented to the king by Alexander von Humboldt, Lichtenstein argued that establishing a zoological garden would not just serve amusement and education purposes, but that “the actual task of facilities like this \[would be] breeding and proliferating beautiful and useful animals, \[and] refining our domestic animals”.[^3] He thus elevated the breeding of livestock and the associated “promotion of agricultural operations” to some of the core tasks of the zoo that was to be founded.[^4]
 
 This was at the heart of matters in 1900 as well, but now with the direct involvement of the universities. The “Agricultural Zoo” at Berlin Zoological Garden would provide university lecturers and their students with material that they could use for demonstrations in “zoological and animal breeding lessons” as well as with material for breeding, cross-breeding, and feeding experiments. The plan also highlights the network of institutions that worked with live and dead animals, and knowledge about them, at the time. Berlin’s Royal Agricultural University had been founded in 1881 and was housed in a building complex on Invalidenstraße, the same street as the new building into which the Museum of Natural History would move just a few years later. On the other hand, the Veterinary University, which had been around since 1787 as the Veterinarian School, had been founded in 1889 with an Animal Anatomical Theatre for performing public dissections in front of students, as well as stabling and later a horse hospital. One of the reasons for the university’s founding was the cattle plague that had been constantly jeopardizing cattle stocks, while the establishment of the Prussian cavalry had made veterinary knowledge a militarily relevant resource. The zoo played a role in the planned collaboration as another place for keeping animals in the city.
 
-However, the establishment of the “Agricultural Zoo” wore on. The application for money from the state budget first had to be approved by the House of Representatives and then negotiated in a contract. This was compounded by internal delays at the zoo, as it did not actually have the funds that it had budgeted to expand the cattle collection.[^5] But when a state feed subsidy of 6,000 marks was granted in 1904,[^6] 45 cattle, 24 horses, 18 pigs, and 52 goats and sheep moved into the zoo. The agricultural connection led to the zoo acquiring new animals that it could put on display without having to pay for their upkeep. At the same time, the zoo thereby strengthened its links with university institutions and was able to highlight its own profile as a scientific institution. It thus became part of the fields of applied science that generated “useful knowledge” and therefore benefit more from state subsidies (see [[story.feed-scarcity]]), which in turn gave the Zoological Garden’s shareholders’ association legitimation. However, these ideas were only temporarily implemented in actual zoo operations. In 1908, the Agricultural Ministry repeatedly enquired about the “building of purebred cattle stabling as well as the breeding of purebred animals”.[^7] The zoo’s response has not survived, nor has any information about why the implementation was delayed and ultimately failed. The last piece of information contained in the file is a message from the ministry that the subsidy would be discontinued in 1912.[^8]
+However, the establishment of the Agricultural Zoo wore on. The application for money from the state budget first had to be approved by the House of Representatives and then negotiated in a contract. This was compounded by internal delays at the zoo, as it did not actually have the funds that it had budgeted to expand the cattle collection.[^5] But when a state feed subsidy of 6,000 marks was granted in 1904,[^6] 45 cattle, 24 horses, 18 pigs, and 52 goats and sheep moved into the zoo. The agricultural connection led to the zoo acquiring new animals that it could put on display without having to pay for their upkeep. At the same time, the zoo thereby strengthened its links with university institutions and was able to highlight its own profile as a scientific institution. It thus became part of the fields of applied science that generated “useful knowledge” and therefore benefit more from state subsidies (see [[story.feed-scarcity]]), which in turn gave the Zoological Garden’s shareholders’ association legitimation. However, these ideas were only temporarily implemented in actual zoo operations. In 1908, the Agricultural Ministry repeatedly enquired about the “building of purebred cattle stabling as well as the breeding of purebred animals”.[^7] The zoo’s response has not survived, nor has any information about why the implementation was delayed and ultimately failed. The last piece of information contained in the file is a message from the ministry that the subsidy would be discontinued in 1912.[^8]
 
 [^1]: There had already been earlier models. The Menagerie at the Parisian Jardin des Plantes, founded in 1793, was the oldest scientific zoo and became a role model for zoos worldwide. Alongside “exotic” animals, the menagerie was also supposed to serve as a centre of “zoo technology”, for which Frédéric Cuvier designed plans to rear new pet breeds.
 
@@ -52,15 +52,15 @@ However, the establishment of the “Agricultural Zoo” wore on. The applicatio
 
 [^3]: Lichtenstein, Martin. _Gedanken über die Errichtung zoologischer Gärten bei Berlin_, 1849, quoted in Klös, Heinz-Georg. _Von der Menagerie zum Tierparadies: 125 Jahre Zoo Berlin_. Berlin: Haude & Spenersche Verlagsbuchhandlung, 1969: 28.
 
-[^4]: _Vossische Zeitung_ 8 (1844), quoted in Rieke-Müller, Annelore, and Lothar Dittrich. _Der Löwe brüllt nebenan_. Cologne et al.: Böhlau, 1998: 60.
+[^4]: _Vossische Zeitung_ 8 (1844), quoted in Rieke-Müller, Annelore, and Lothar Dittrich. _Der Löwe brüllt nebenan: Die Gründung Zoologischer Gärten im deutschsprachigen Raum 1833-1869_. Köln: Böhlau, 1998: 60.
 
 [^5]: One shareholder successfully objected, preventing the construction of an exhibition hall and all of the ensuing financial plans. Zoological Garden management to the Ministry of Agriculture, Domains, and Forests, 29.07.1903, AZGB O 0/1/94.
 
-[^6]: The zoo committed itself, in turn, to providing teachers and students at both universities with free entry. Cf. Geschäftsbericht über das Jahr 1904, Actien-Verein des Zoologischen Gartens zu Berlin, Berlin 1905; Geschäftsbericht über das Jahr 1912, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1913. 
+[^6]: The zoo committed itself, in turn, to providing teachers and students at both universities with free entry. Cf. “Geschäftsbericht über das Jahr 1904”, Actien-Verein des Zoologischen Gartens zu Berlin, Berlin 1905; “Geschäftsbericht über das Jahr 1912”, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1913. 
 
 [^7]: Ministry of Agriculture, Domains, and Forests to the Aktienvereins des zoologischen Gartens, 19.12.1908, AZGB O 0/1/94.
 
-[^8]: Cf. Geschäftsbericht über das Jahr 1908, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1909; Geschäftsbericht über das Jahr 1912, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1913.
+[^8]: Cf. “Geschäftsbericht über das Jahr 1908”, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1909; “Geschäftsbericht über das Jahr 1912”, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1913.
  
 :::DE:::
 
@@ -86,14 +86,14 @@ Die Umsetzung des Landwirtschaftlichen Tierparks zog sich allerdings hin. Der An
 
 [^2]: Ministerium für Landwirtschaft, Domänen und Forsten an die Direktion des Zoologischen Gartens, 15.07.1901, AZGB O 0/1/94.
 
-[^3]: Lichtenstein, Martin. _Gedanken über die Errichtung zoologischer Gärten bei Berlin_, 1849, zit. nach Klös, Heinz-Georg. _Von der Menagerie zum Tierparadies. 125 Jahre Zoo Berlin_. Berlin: Haude & Spenersche Verlagsbuchhandlung, 1969: 28.
+[^3]: Lichtenstein, Martin. _Gedanken über die Errichtung zoologischer Gärten bei Berlin_, 1849, zit. nach Klös, Heinz-Georg. _Von der Menagerie zum Tierparadies: 125 Jahre Zoo Berlin_. Berlin: Haude & Spenersche Verlagsbuchhandlung, 1969: 28.
 
-[^4]: _Vossische Zeitung_ 8 (1844), zit. nach Rieke-Müller, Annelore; Dittrich, Lothar. _Der Löwe brüllt nebenan_. Köln u.a.: Böhlau, 1998: 60.
+[^4]: _Vossische Zeitung_ 8 (1844), zit. nach Rieke-Müller, Annelore und Lothar Dittrich. _Der Löwe brüllt nebenan: Die Gründung Zoologischer Gärten im deutschsprachigen Raum 1833-1869_. Köln: Böhlau, 1998: 60.
 
 [^5]: Der Bau einer Ausstellungshalle und der ganze damit zusammenhängende Finanzplan, wurde durch den erfolgreichen Widerspruch eines Aktionärs verhindert. Direktion des Zoologischen Gartens an das Ministerium für Landwirtschaft, Domänen und Forsten, 29.07.1903, AZGB O 0/1/94.
 
-[^6]: Der Zoo verpflichtete sich im Gegenzug, den Lehrenden und Studierenden beider Hochschulen freien Eintritt zu gewähren. Vgl. Geschäftsbericht über das Jahr 1904, Actien-Verein des Zoologischen Gartens zu Berlin, Berlin 1905; Geschäftsbericht über das Jahr 1912, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1913. 
+[^6]: Der Zoo verpflichtete sich im Gegenzug, den Lehrenden und Studierenden beider Hochschulen freien Eintritt zu gewähren. Vgl. “Geschäftsbericht über das Jahr 1904”, Actien-Verein des Zoologischen Gartens zu Berlin, Berlin 1905; “Geschäftsbericht über das Jahr 1912”, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1913. 
 
 [^7]: Ministerium für Landwirtschaft, Domänen und Forsten an den Vorstand des Aktienvereins des zoologischen Gartens, 19.12.1908, AZGB O 0/1/94.
 
-[^8]: Vgl. Geschäftsbericht über das Jahr 1908, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1909; Geschäftsbericht über das Jahr 1912 Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1913.
+[^8]: Vgl. “Geschäftsbericht über das Jahr 1908”, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1909; “Geschäftsbericht über das Jahr 1912”, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1913.
