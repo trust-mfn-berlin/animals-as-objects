@@ -7,7 +7,7 @@ short_desc_de: Futterlisten im Zoo der Nachkriegszeit
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Feeding List 1945
-updated: 1641146820908
+updated: 1641154531105
 id: R4t_2F3NY3xIuAnRoDG0T
 translators:
   translator_de_en: ""
