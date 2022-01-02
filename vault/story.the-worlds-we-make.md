@@ -5,7 +5,7 @@ desc: |-
   The history of the horseshoe crab traverses a range of collecting sites
   and scientific spaces, and shows how they have changed the worlds of both
   people and animals.
-updated: 1641157222938
+updated: 1641157465141
 created: 1640281603094
 license: CC BY-SA
 title_de: The Worlds We Make
@@ -251,11 +251,11 @@ Connections such as the ones outlined here and the ensuing interdependencies and
 
 [^23]: Images of this procedure can be found here, for example: https://www.nationalgeographic.com/animals/article/covid-vaccine-needs-horseshoe-crab-blood (23.11.2021). For studies on the impact of taking limulus blood, see Hurton L, Berkson J. “Potential Causes of Mortality for Horseshoe Crabs (_Limulus polyphemus_) During the Biomedical Bleeding Process”. _Fishery Bulletin_ 104 (2006): 293–298; Walls, E. A., and Berkson, J. “Effects of Blood Extraction on the Mortality of the Horseshoe Crab, Limulus polyphemus”. _Virginia Journal of Science_ 51, no. 3 (2000): 195-198. Rudloe, Anne. “The Effect of Heavy Bleeding on Mortality of the Horseshoe Crab, _Limulus polyphemus_, in the Natural Environment”. _Journal of Invertebrate Pathology_ 42, no. 2 (1983): 187-176, doi.org/10.1016/0022-2011(83)90059-9.
 
-[^24]: Cf. Das, Alok. “Horseshoe Crabs in Modern Day Biotechnological Applications”. In _Changing Global Perspectives on Horseshoe Crab Biology_, ed. by Ruth H. Carmichael et al. Cham: Springer International Publishing, 2015: 463-473, 470.
+[^24]: Cf. Das, Alok. “Horseshoe Crabs in Modern Day Biotechnological Applications”. In _Changing Global Perspectives on Horseshoe Crab Biology_, Ruth H. Carmichael et al. (eds.). Cham: Springer International Publishing, 2015: 463-473, 470.
 
 [^25]: Das, 2015.
 
-[^26]: As early as in the mid-18th century, horseshoe crabs were being used in agriculture as fertiliser and then later in fishing as bait. In some regions, they are eaten as food. Cf. Loveland, R.E., M.L. Botton, and C.N. Shuster Jr. “Life History of the American Horseshoe Crab (Limulus polyphemus L.) in Delaware Bay and its Importance as a Commercial Resource”. In _Proceedings of the Horseshoe Crab Forum: Status of the Resource_, ed. by J. Farrell and C. Martin. Lewes: University of Delaware Sea Grant College Program, 1996: 15–22; Smith, David R., Michael J. Millard, and Ruth Herrold Carmichael. “Comparative Status and Assessment of Limulus polyphemus, with Emphasis on the New England and Delaware Bay Populations”. In _Biology and Conservation of Horseshoe Crabs_, ed. by John T. Tanacredi, Mark Botton, and David R. Smith. New York: Springer, 2009: 361–386.
+[^26]: As early as in the mid-18th century, horseshoe crabs were being used in agriculture as fertiliser and then later in fishing as bait. In some regions, they are eaten as food. Cf. Loveland, R.E., M.L. Botton, and C.N. Shuster Jr. “Life History of the American Horseshoe Crab (Limulus polyphemus L.) in Delaware Bay and its Importance as a Commercial Resource”. In _Proceedings of the Horseshoe Crab Forum: Status of the Resource_, J. Farrell and C. Martin (eds.). Lewes: University of Delaware Sea Grant College Program, 1996: 15–22; Smith, David R., Michael J. Millard, and Ruth Herrold Carmichael. “Comparative Status and Assessment of Limulus polyphemus, with Emphasis on the New England and Delaware Bay Populations”. In _Biology and Conservation of Horseshoe Crabs_, John T. Tanacredi, Mark Botton, and David R. Smith (eds.). New York: Springer, 2009: 361–386.
 
 [^27]: Smith, D.R., M.A. Beekey, H.J. Brockmann, T. L. King, M. J. Millard, and J.A. Zaldívar-Rae. “Limulus polyphemus”. _The IUCN Red List of Threatened Species_ 2016: e.T11987A80159830. https://dx.doi.org/10.2305/IUCN.UK.2016-1.RLTS.T11987A80159830.en
 
