@@ -3,7 +3,7 @@ license: CC BY-SA
 title: An “Atmospheric Image” of the Empire
 title_de: Ein “stimmungsvolles Bild” des Kolonialreichs
 created: 1640456876442
-updated: 1641056448907
+updated: 1641160368091
 id: ZDxo1U9ptEVRJhmFpVKyC
 author: Catarina Madruga
 translators:
@@ -58,13 +58,13 @@ This strategy to combine a hunting exhibition with a colonial exhibition continu
 
 [^2]: “Raum 4: Eisengräber”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_. 2nd ed. Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 61.
 
-[^3]: German original: “ein möglichst stimmungsvolles Bild”. Rehbock, T. “Vorwort”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2nd ed., 9-12. Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 11. 
+[^3]: German original: “ein möglichst stimmungsvolles Bild”. Rehbock, T. “Vorwort”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 1903: 11. 
 
-[^4]: “Raum 2 b und c: Zoologisches Museum, Berlin”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_. 2nd ed. Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 55.
+[^4]: “Raum 2 b und c: Zoologisches Museum, Berlin”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 1903: 55.
 
-[^5]: German original: “die Kenntnis der Tierwelt unserer Kolonien zu vertiefen” Rehbock, T. “Vorwort”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2nd ed., Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 9-12, 11.
+[^5]: German original: “die Kenntnis der Tierwelt unserer Kolonien zu vertiefen” Rehbock, T. “Vorwort”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 1903: 11.
 
-[^6]: German original: “um das Gesamtbild der Ausstellung möglichst vielseitig zu gestalten”. Rehbock, T. “Vorwort”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2nd ed.,Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 9-12, 11.
+[^6]: German original: “um das Gesamtbild der Ausstellung möglichst vielseitig zu gestalten”. Ibid.: 11.
 
 :::DE:::
 
@@ -102,10 +102,10 @@ Diese Strategie, eine Jagdausstellung mit einer kolonialen Ausstellung zu kombin
 
 [^2]: “Raum 4: Eisengräber”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2. Aufl., Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 61.
 
-[^3]: Im Original: “ein möglichst stimmungsvolles Bild”. Rehbock, T. „Vorwort“. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2. Aufl., 9-12. Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 11. 
+[^3]: Im Original: “ein möglichst stimmungsvolles Bild”. Rehbock, T. „Vorwort“. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 1903: 11. 
 
-[^4]: “Raum 2 b und c: Zoologisches Museum, Berlin”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2. Aufl., Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 55.
+[^4]: “Raum 2 b und c: Zoologisches Museum, Berlin”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 1903: 55.
 
-[^5]: Im Original: “die Kenntnis der Tierwelt unserer Kolonien zu vertiefen” Rehbock, T. “Vorwort”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2. Aufl., Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 9-12, 11.
+[^5]: Im Original: “die Kenntnis der Tierwelt unserer Kolonien zu vertiefen” Rehbock, T. “Vorwort”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 1903: 11.
 
-[^6]: Im Original: “um das Gesamtbild der Ausstellung möglichst vielseitig zu gestalten”. Rehbock, T. “Vorwort”, in _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2. Aufl., Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 9-12, 11.
+[^6]: Im Original: “um das Gesamtbild der Ausstellung möglichst vielseitig zu gestalten”. Ebd.: 11.
