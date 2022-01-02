@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Of Disappearance and Rediscovery
 title_de: Vom Verschwinden und Wiederfinden
 created: 1640355738318
-updated: 1641060616453
+updated: 1641128691106
 id: OnYQIVhzHVPQr5cuuBtEO
 author: Mareike Vennen
 translators:
@@ -35,7 +35,7 @@ _Monitor lizard preserved in alcohol from the Herpetological Collection at the M
 
 </figure>
 
-ZMB 24220. This specimen of a Papua New Guinean monitor lizard at the Berlin Museum of Natural History was first entered in the Herpetological Collection’s inventory catalogue on 7 March 1914 as a specimen of _Varanus indicus_, the Western Pacific monitor lizard.[^1] After the Second World War, it was noted that the wet specimen had been lost: “Destroyed by the effects of war, 1.12.1950”. Astonishingly, the object then appeared in a catalogue a decade later: in 1961 someone records that the object had been lent to Dr Robert Mertens, curator at the Senckenberg Museum in Frankfurt am Main, for six years[^2]. After that, it once again disappeared for decades before being rediscovered in March 1990 by the collection caretaker Immo Tetzlaff. That same month, the animal was reclassified as a _Varanus salvadorii_, a Papuan monitor, by a curator from the Bonn Natural History Museum[^3] who was visiting the collection.
+ZMB 24220. This specimen of a Papua New Guinean monitor lizard at the Berlin Museum of Natural History was first entered in the Herpetological Collection’s inventory catalogue on 7 March 1914 as a specimen of _Varanus indicus_, the Western Pacific monitor lizard.[^1] After the Second World War, it was noted that the wet specimen had been lost: “Destroyed by the effects of war, 1.12.1950”. Astonishingly, the object then appeared in a catalogue a decade later: in 1961 someone records that the object had been lent to Dr Robert Mertens, curator at the Senckenberg Museum in Frankfurt am Main, for six years.[^2] After that, it once again disappeared for decades before being rediscovered in March 1990 by the collection caretaker Immo Tetzlaff. That same month, the animal was reclassified as a _Varanus salvadorii_, a Papuan monitor, by a curator from the Bonn Natural History Museum who was visiting the collection.[^3]
 
 Over the course of the 20th century, the specimen constantly switched between presence and absence – it had supposedly been destroyed, but was never lost, and is now available again. It was moved when the new wet collection was built in the east wing of the museum and had been lent out for several years. 
 
@@ -77,7 +77,7 @@ _Ein Waren in Alkohol in der Herpetologischen Sammlung des Museums für Naturkun
 </figure>
 
  
-ZMB 24220. Dieses Exemplar eines Warans aus Neu Guinea, das sich im Berliner Naturkundemuseum befindet, wurde am 7. März 1914 in den Inventarkatalog der Herpetologischen Sammlung aufgenommen und dort als _Varanus indicus_, als Pazifikwaran inventarisiert.[^1] Nach dem Zweiten Weltkrieg wurde das Nasspräparat mit einem Verlustvermerk versehen: “Durch Kriegseinwirkung vernichtet, 1.12.1950”. Erstaunlicherweise taucht das Objekt im Katalog jedoch ein Jahrzehnt später wieder auf: 1961 hält jemand im Katalog fest, dass das Objekt für fast sechs Jahre an Dr. Robert Mertens, Kurator am Senckenberg-Museum in Frankfurt am Main verliehen wurde.[^2] Es war folglich zwischenzeitlich wiedergefunden worden. Danach war es erneut jahrzehntelang nicht auffindbar, bevor es im März 1990 durch den Sammlungspfleger Immo Tetzlaff wiederentdeckt wurde. Im selben Monat wurde das Tier von einem Kurator des Bonner Naturkundemuseums[^3] bei einem Besuch der Sammlung als _Varanus salvadorii_ nachbestimmt.
+ZMB 24220. Dieses Exemplar eines Warans aus Neu Guinea, das sich im Berliner Naturkundemuseum befindet, wurde am 7. März 1914 in den Inventarkatalog der Herpetologischen Sammlung aufgenommen und dort als _Varanus indicus_, als Pazifikwaran inventarisiert.[^1] Nach dem Zweiten Weltkrieg wurde das Nasspräparat mit einem Verlustvermerk versehen: “Durch Kriegseinwirkung vernichtet, 1.12.1950”. Erstaunlicherweise taucht das Objekt im Katalog jedoch ein Jahrzehnt später wieder auf: 1961 hält jemand im Katalog fest, dass das Objekt für fast sechs Jahre an Dr. Robert Mertens, Kurator am Senckenberg-Museum in Frankfurt am Main verliehen wurde.[^2] Es war folglich zwischenzeitlich wiedergefunden worden. Danach war es erneut jahrzehntelang nicht auffindbar, bevor es im März 1990 durch den Sammlungspfleger Immo Tetzlaff wiederentdeckt wurde. Im selben Monat wurde das Tier von einem Kurator des Bonner Naturkundemuseums bei einem Besuch der Sammlung als _Varanus salvadorii_ nachbestimmt.[^3]
 
 <figure>
 
