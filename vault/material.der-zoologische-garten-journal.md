@@ -1,7 +1,7 @@
 ---
 license: CC BY-SA
-title: “Der Zoologische Garten” (journal)
-title_de: “Der Zoologische Garten” (Zeitschrift)
+title: “Der Zoologische Garten”
+title_de: “Der Zoologische Garten”
 created: 1618496596303
 updated: 1640905255111
 id: cdaa8a05-6456-4b87-a663-c755790440d3
