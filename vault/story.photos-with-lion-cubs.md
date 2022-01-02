@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Photos with Lion Cubs
 title_de: Bilder mit Löwenbabys
 created: 1640340586550
-updated: 1641141929485
+updated: 1641159166784
 id: 4U5dFDf18mKRPdRnzu35p
 author: Mareike Vennen
 translators:
@@ -41,7 +41,7 @@ _A little boy with a lion cub on the Berlin Zoo photographer’s bench in 1939. 
  
 Many are probably familiar with the photo motif: a man, woman, or child with a young lion on their lap. Sometimes they look either lovingly or fearfully at the animal, sometimes they look directly at the camera. In other photos, the subject of the photo looks outside the image, like in this photo, which was taken at the Berlin Zoo in 1939. Many zoos once gave visitors the opportunity to have their photos taken with a lion cub. When did this motif emerge, and why has it disappeared from today’s zoos? What do photos like these reveal about the relationship between zoo visitors and lion cubs? What attitudes towards and ideas about “wild animals” take shape in these images, and how did animals become photo objects in the first place? And finally: What is the animal here? Is it a predator, a zoo animal, or a stuffed toy? The quest for answers does not just take us through the history of photography practice and zookeeping, but also has a lot to do with the changing politics of animal images. 
  
-## Contact zones between animals and humans 
+## Contact Zones Between Animals and Humans 
 
 Getting within touching distance of young predators like bears, lions, or leopards – what now seems perplexing was very popular for a long time. The lion cub photo motif can be traced back to at least the 1930s,[^1] revealed if nothing else by the clothing the little boy is wearing and the sepia colouring of the photo from Berlin Zoo, which was taken in 1939. There were reports about visitors’ desiring to get as close as possible to the baby animals at the zoo. Lions seem to have had a particularly strong appeal. “The desire to take a lion in one’s arms and stroke it is probably one of the most coveted amongst our zoo visitors”, as Hamburg’s Stellingen Zoo reported in 1926.[^2] And some zoos did in fact provide this opportunity. The Berlin Zoological Garden had been organising its own “baby animal zoo” every summer since 1931. In a fenced-in enclosure, visitors were able to cuddle, stroke, and feed not just sheep and goats but also little lion and tiger cubs. Other zoos followed suit with special shows and [[petting zoos for baby predators|material.face-to-face-with-zoo-animals]]. 
  
@@ -74,7 +74,7 @@ _Family photo with a lion cub. Granddad and granddaughter look directly at the c
  
 This transforms photos of this genre from private memories into historical documents that go beyond individual histories. They show cultural phenomena, as the cultural studies scholar Christina Wessely writes. According to her book _Löwenbaby_ (Lion Cub), this image genre does not just tell us about animals, but above all about humans, about family constellations, and about changing ideas of nature.[^5] At the same time, we might add, they also tell us about the relationship between the media production of animal images and the reproduction of animals in breeding programmes. 
  
-## From animals slain in the wild to tame pets
+## From Animals Slain in the Wild to Tame Pets
 
 The fact that lion cub photos were being taken up into the 1990s is testament to the enduring demand for them. We find them in many postwar zoos, including Frankfurt, Leipzig, and Berlin. In the latter, visitors could even have their picture taken holding a small lion at one of two zoos: at what was by then the West Berlin Zoo[^6] or at the East Berlin Tierpark in Friedrichsfelde, which opened in 1955. 
 
@@ -139,7 +139,7 @@ In his story of saving animals, animals came closer to humans, both physically a
 
 What had the potential to demonstrate the proximity between humans and animals more emphatically than pictures of harmonious, even loving togetherness between man and predator? Posing with (supposedly) tame animals conveyed the image of closeness without the fear of have to directly touch “wild animals”. The recordings were made in a completely different register to scenes of predators photographed in the wild in the early 20th century. The gesture of dominance over the captive or slain predator had almost completely fallen out of fashion in the German television of the mid-1950s. Dominance over animals, as the message went, had transformed into a friendship with them. 
  
-## Juvenile predators – the politics of care 
+## Juvenile Predators: The Politics of Care 
 
 Such images of closeness were present not just on television but also at zoos and had long been so. This is demonstrated by both the animal baby zoo and by the innumerable photos of zoo directors and keepers carrying, feeding, cuddling, and presenting predators at petting zoos, in the private residences of directors, or on zoo benches.
 
@@ -203,14 +203,14 @@ _In 1969, the Berlin Wertheim department store briefly had lion cubs in its prod
  
 However, one week later, sales were abandoned after Berlin Zoo apparently warned that “a cute lion cub” could grow into a powerful big cat within three months.[^16] But other department stores with “wild animals” on offer persevered. Harrods Pet Kingdom in London, which opened in 1917, could grant almost any wish, from tigers and panthers to baby elephants, lions, and alligators. In 1976, the Endangered Species Act forced the department store to reduce its product range, but the animal department did not permanently close its doors until 2014.[^17] Regardless, keeping predators in private homes is still in fashion and suggests that the long tradition of lion cub pictures has influenced the idea of predators as pets and “stuffed animals toys”.
  
-## Behind the pictures: Image and breeding economies 
+## Behind the Pictures: Image and Breeding Economies 
 
 The fact that it was only juvenile animals being depicted in zoo lion cub photos was not just due to the cuddly animal factor.[^18] The little lions were soon too big to interact with humans safely. The animals were not allowed to be more than two to six months old[^19] and were therefore only suitable as “photography lions”, as the Berlin zoo director [[material.katharina-heinroth]] describes the juvenile animals in a 1951 letter,[^20] for a limited period of time. The age limit for the job as a “photography lion” created a constant demand for young animals.[^21] Lion cub pictures that seem to show the same lion again and again therefore depended on zoos and photographers being able to procure lion cubs from animal dealers or from other zoos.
 Where did the lion cubs come from? Since the founding of zoological gardens in the 19th century, lions had been one of their main attractions. Around 1890, as the Berlin zoo director Ludwig Heck later recalled, “imported original lions”, i.e., that had been caught in the wild, were still a sensation and came with a corresponding price tag.[^22] In 1890, the Alfeld animal dealer Carl Reiche, for example, requested 5000 marks for a lion imported from South Africa in 1890, which Antwerp Zoo was prepared to pay. In the mid-1930s, when zoos were opening their first photo booths, the situation had changed: Heck was now writing about “masses of lions” from the wild and in-house breeding programmes, and zoos barely knew what to do with all the lions, which were being bred on an almost factory-like scale. Leipzig Zoo in particular had gained the reputation of being a “veritable lion factory”,[^23] supplying other zoos and the odd zoo photographer with lion cubs.[^24]
 
 The ways in which the animals were entangled within economies of trade and bartering is demonstrated by a letter from Berlin Zoo director Katharina Heinroth to the director of Leipzig Zoo in 1951: “We were gifted an approximately four-month-old female lion by the Kyriazi cigarette company”, writes Heinroth. These kinds of animal gifts, for which the giver usually wanted to be explicitly acknowledged by name, turned zoo animals into advertising media that closely linked the animal and the product in zoo visitors’ perception. The animal was clearly supposed to be used as a “photography lion”, but shortly after it arrived, it had already been discarded again because, at four months old, it was already “too old to serve as a photography lion. She is very prickly, and our photographer is crying out for a small lion.”[^25] Leipzig Zoo director Max Schneider promised her a specimen from his breeding programme, in return for which he received flamingos to the value of 300 marks. This clearly shows how zoo management helped the photographer to obtain and later get rid of young lions. Katharina Heinroth was probably thinking about the publicity the zoo photographer could generate for her zoo, which was still in the process of being rebuilt. At Berlin Tierpark, too, which was opened in 1955, the privately run photo booth purchased most of its six-week-old animals from the bastions of East German lion breeding, the zoos in Leipzig and Cottbus. The photographer fed the animals by bottle until, at the age of three months, they could be used for a while in photos.[^26] The only way to produce images on the basis of the continuous “consumption” of animals, especially in order to serially (re-)produce the same motif, was by means of reproduction, meaning that the production of images was closely linked to the “almost factory-like” breeding techniques. 
  
-## The critique gets louder
+## The Critique Gets Louder
 
 It was precisely these issues that brought lion cub photography under fire in the 1980s. There was a noticeable increase in the number of enquiries and complaints landing on the desks of zoo administrations in this period, and it is probably no coincidence that this was happening as the environmental movement began to gain ground. Most authors were concerned that the animals were not being treated in a species-appropriate way. Animal rights activists and zoo visitors were now increasingly denouncing the way that photography lions were being kept. Some of them wanted to know where the animals came from, others where they would go once they had grown out of the “cuddly age” and could not be used anymore.[^27] A number of visitors claimed that they had noticed that the lions were “lying around apathetically, looking sleepy” and that they had clearly been sedated. One particularly committed author threatened to report the zoo to animal welfare.[^28] The author’s critique was also directed at “animal keeping practices” and did not beat about the bush when it came to their suspicions regarding the (ill) treatment of the animals. At the same time, critique was being directed at the motif itself, which leads back to the politics of images. For “photos suitable for family albums”, the “lion is presented as a kind of ‘lap dog’” – a belittlement of the animals which, for pedagogical reasons, should be rejected, as the author argued.[^29] When viewing these kinds of photos, some people were reminded of the practices of “thoughtless, profit-greedy photographers in various holiday countries“,[^30] while others went so far as to accuse the photographer of the capitalistic “exploitation of the animals” and deliberately placed their critique within a larger conservation context: 
  
@@ -288,7 +288,7 @@ What connects them is what stays the same, a motif that can be traced through a 
 
 [^13]: “Das Lieblingsspiel all dieses Kleinzeugs ist, sich füttern zu lassen, und die kleinen Menschenkinder sind ganz begeistert von dem unermüdlichen Appetit der kleinen Tierkinder.” (“The favourite game of all these little animals is being fed, and the little human children adore the unremittable appetites of the little animal children.”) “Lebendes Tier-Spielzeug”. _Berliner Illustrirte Zeitung_ no. 30, 26.07.1931: 1272.
 
-[^14]: According to Nastasja Klothmann, zoological gardens like Leipzig Zoo were selling young predators to private citizens before the Second World War and raffling off wild animals. Cf. Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 228-231.
+[^14]: According to Nastasja Klothmann, zoological gardens like Leipzig Zoo were selling young predators to private citizens before the Second World War and raffling off wild animals. Cf. Klothmann, 2015: 228-231.
 
 [^15]: Cf. “Löwen mit Gebrauchsanweisung: Neues Angebot im Warenhaus: Kleine Raubkatzen von 1600 Mark an”. _Tagesspiegel_, 30.08.1969. 
 
@@ -298,7 +298,7 @@ What connects them is what stays the same, a motif that can be traced through a 
 
 [^18]: Mature lions, on the other hand, are more or less associated with the wilderness and (colonial) big game.
 
-[^19]: See, e.g., Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1958_, Aktien-Verein des Zoologischen Gartens Berlin (ed.). Berlin: 1958: 56.
+[^19]: See, e.g., Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1958_, ed. by Aktien-Verein des Zoologischen Gartens Berlin. Berlin: 1958: 56.
 
 [^20]: K. Heinroth to K.M. Schneider, 23.05.1951, AZGB O 0/1/284.
 
@@ -326,7 +326,7 @@ What connects them is what stays the same, a motif that can be traced through a 
 
 [^32]: B. Blaskiewitz to G. Philipp, 07.04.1988, AZGB O 0/1/41.
 
-[^33]: Wessely, Christina. _Löwenbaby_. Berlin: Matthes & Seitz, 2019: 59, 61.
+[^33]: Wessely, 2019: 59, 61.
 
 [^34]: An annual photography permit cost 10 marks and annual photography permits for the zoo and aquarium 15 marks. Cf. Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1981_, Aktien-Verein des Zoologischen Gartens zu Berlin (ed.). Berlin: 1981.
 
@@ -452,7 +452,7 @@ In der Erzählung der Rettung der Tiere rückten diese näher an den Menschen he
  
 Was vermochte die Nähe zwischen Mensch und Tier überzeugender zu demonstrieren als das harmonische, ja liebevolle Miteinander von Mann und Raubtier im Bild? Das Posieren mit (scheinbar) zahmen Tieren vermittelte eine Nähe ohne Angst vor direkter Berührung auch “wilder Tiere”. Die Aufnahmen bewegten sich in einem gänzlich anderen Register als die Bildszenen mit Raubtieren in freier Wildbahn aus dem frühen 20. Jahrhundert. Die Herrschaftsgeste über das gefangene oder erlegte Raubtier hatten Mitte der 1950er-Jahre im deutschen Fernsehen kaum mehr Konjunktur. Aus der Herrschaft über die Tiere, so die Botschaft, war die Freundschaft mit ihnen geworden. 
  
-## Raubtierkinder – Politiken der Fürsorge 
+## Raubtierkinder: Politiken der Fürsorge 
  
 Nicht nur im Fernsehen, sondern auch in Zoos war ein solches Bild der Nähe präsent, und das schon lange. Das zeigt der Tierkinderzoo ebenso wie die zahllosen Aufnahmen aus Tiergärten, wo Direktor:innen und Pfleger:innen Raubtiere trugen, fütterten, umarmten und präsentierten, in Tiergehegen, Direktor:innenwohnungen oder auf Zoobänken.
 
@@ -603,7 +603,7 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^13]: “Das Lieblingsspiel all dieses Kleinzeugs ist, sich füttern zu lassen, und die kleinen Menschenkinder sind ganz begeistert von dem unermüdlichen Appetit der kleinen Tierkinder.” “Lebendes Tier-Spielzeug”. _Berliner Illustrirte Zeitung_ Nr. 30, 26.07.1931: 1272.
 
-[^14]: Nastasja Klothmann zufolge haben zudem Zoologische Gärten wie etwa der Leipziger Zoo vor dem Zweiten Weltkrieg Raubtierjunge an Privatleute verkauft und Wildtiere bei Tombolas verlost. Vgl. Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 228-231.
+[^14]: Nastasja Klothmann zufolge haben zudem Zoologische Gärten wie etwa der Leipziger Zoo vor dem Zweiten Weltkrieg Raubtierjunge an Privatleute verkauft und Wildtiere bei Tombolas verlost. Vgl. Klothmann, 2015: 228-231.
 
 [^15]: Vgl. “Löwen mit Gebrauchsanweisung: Neues Angebot im Warenhaus: Kleine Raubkatzen von 1600 Mark an”. _Tagesspiegel_, 30.08.1969. 
 
@@ -613,7 +613,7 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^18]: Ausgewachsene Löwen sind dagegen eher mit Wildnis und (kolonialer) Großwildjagd assoziiert werden.
 
-[^19]: Vgl. etwa Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1958_, Aktien-Verein des Zoologischen Gartens Berlin (Hg.). Berlin 1958: 56.
+[^19]: Vgl. etwa Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1958_, hg. von Aktien-Verein des Zoologischen Gartens Berlin. Berlin 1958: 56.
 
 [^20]: K. Heinroth an K.M. Schneider, 23.05.1951, AZGB O 0/1/284.
 
@@ -641,7 +641,7 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^32]: B. Blaskiewitz an G. Philipp, 07.04.1988, AZGB O 0/1/41.
 
-[^33]: Wessely, Christina. _Löwenbaby_. Berlin: Matthes & Seitz, 2019: 59; 61.
+[^33]: Wessely, 2019: 59; 61.
 
 [^34]: Foto-Jahreskarten kosteten 10 Mark und Zoo- und Aquarium-Fotojahreskarten beliefen sich auf 15 Mark. Vgl. Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1981_, Aktien-Verein des Zoologischen Gartens zu Berlin (Hg.). Berlin: 1981.
 
