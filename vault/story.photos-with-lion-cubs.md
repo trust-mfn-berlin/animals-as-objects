@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Photos with Lion Cubs
 title_de: Bilder mit Löwenbabys
 created: 1640340586550
-updated: 1641135314556
+updated: 1641135527198
 id: 4U5dFDf18mKRPdRnzu35p
 author: Mareike Vennen
 translators:
@@ -518,7 +518,7 @@ Nach nur einer Woche wurde der Verkauf indes wieder eingestellt, nachdem offenba
  
 ## Hinter den Bildern. Bildökonomie – Tierzuchtökonomie
 
-Dass für die Löwenbabyfotos im Zoo ausschließlich Jungtiere verwendet wurden, hing nicht nur mit deren Kuscheltierfaktor zusammen.[^18] Die kleinen Löwen wurden schnell zu groß, um gefahrlos mit Menschen im Nahkontakt zu bleiben. Die Tiere durften nicht mehr als zwei bis sechs Monate alt sein[^19] und eigneten sich damit nur zeitlich begrenzt als “Photographier-Löwe”, wie die Berliner Zoodirektorin Katharina Heinroth die Jungtiere 1951 in einem Schreiben bezeichnete.[^20] Die Altersgrenze für den Job als “Photographier-Löwe” schuf einen ständigen Bedarf an Jungtieren.[^21] Löwenbabybilder, auf denen scheinbar immer der gleiche Löwen zu sehen ist, waren insofern von der entsprechenden Verfügbarkeit von Löwenjungen im Tierhandel oder aus anderen Zoos abhängig.
+Dass für die Löwenbabyfotos im Zoo ausschließlich Jungtiere verwendet wurden, hing nicht nur mit deren Kuscheltierfaktor zusammen.[^18] Die kleinen Löwen wurden schnell zu groß, um gefahrlos mit Menschen im Nahkontakt zu bleiben. Die Tiere durften nicht mehr als zwei bis sechs Monate alt sein[^19] und eigneten sich damit nur zeitlich begrenzt als “Photographier-Löwe”, wie die Berliner Zoodirektorin [[material.katharina-heinroth]] die Jungtiere 1951 in einem Schreiben bezeichnete.[^20] Die Altersgrenze für den Job als “Photographier-Löwe” schuf einen ständigen Bedarf an Jungtieren.[^21] Löwenbabybilder, auf denen scheinbar immer der gleiche Löwen zu sehen ist, waren insofern von der entsprechenden Verfügbarkeit von Löwenjungen im Tierhandel oder aus anderen Zoos abhängig.
 
 Woher stammten die Löwenbabys? Seit der Gründungszeit zoologischer Gärten im 19. Jahrhundert gehörten Löwen zu deren Attraktionen. Um 1890, erinnerte sich der Berliner Zoodirektor Ludwig Heck später, waren “importierte Originallöwen”, also Wildfänge, noch eine Sensation und entsprechend teuer.[^22] Für einen Löwen, den der Alfelder Tierhändler Carl Reiche 1890 aus Südafrika importierte, verlangte dieser 5000 Mark, die der Antwerpener Zoo zu bezahlen bereit war. Mitte der 1930er-Jahre, als in den Zoos die ersten Fotostände eröffneten, hatte sich die Situation gewandelt: Heck sprach jetzt von “Löwenmassen” aus Wildfängen und eigenen Aufzuchten, so dass die Zoos kaum mehr wüssten, wohin mit all den Löwen, deren Aufzucht nun “fast fabrikmäßig” verlaufe. Insbesondere der Leipziger Zoo erwarb sich schon damals den Ruf einer “wahren Löwenfabrik”.[^23] Von dort erhielten sowohl andere Zoos als auch so mancher Zoofotograf die Löwenbabys.[^24]
 
