@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Steller’s Sea Cow
 title_de: Stellers Seekuh
 created: 1640333284998
-updated: 1641133164397
+updated: 1641159332694
 id: Q8UAdldubzw0uhkmmgER3
 author: Mareike Vennen
 translators:
@@ -43,7 +43,7 @@ In 1895, collection curator Paul Matschie presented the mammals that were being 
 
 In the aforementioned article, Matschie characterised Steller’s sea cow as “a genus that went extinct last century, Rhytina stelleri, which was at home at the most northern point of the Pacific Ocean”. He continues by describing how sea cows “were caught in great numbers because of their meat, because of their skin, and their fat”.[^2] What Matschie does not explicitly mention is the connection between the hunt for these animals and the species’ extinction. But it is precisely this connection between exploitation and extermination that is crucial to the history of Steller’s sea cow and to the question of why the Berlin museum does not own a single one of the animal’s bones.
 
-## Observing extinction
+## Observing Extinction
 
 While Matschie did not draw any causal links between human influence and extinction, the zoologist Karl Ernst von Baer was looking at anthropogenic extinction events from the mid-19th century. To the history of the sea cow’s extinction von Baer added the history of its extermination, which he described as a “war of annihilation”.
 
@@ -53,7 +53,7 @@ The first hunting expedition spent the winter of 1743–1744 on Bering Island. B
 
 The sea cow remains that could not be utilised stayed where they were and were rediscovered in the late 18th century, this time as exciting natural history finds. The hunt for the fossils of prehistoric lifeforms was now joined by the hunt for animals that had recently been driven to extinction by humans, for which the term “subfossils” gained currency around 1860. The history of science scholar Irina Podgorny has examined this history of reutilisation.[^6] She shows how the remains of hunting and trade became collection items that were intensely coveted on the natural history market. For science, as we read in Podgorny, waste advanced to a new source of (natural) history. 
 
-## Reconstructing extermination
+## Reconstructing Extermination
 
 According to Podgorny, species extinctions created an economy of scarcity, which intensified due to demand from museum collections. It was scarcity that produced a natural history value that had not been previously recognised or viewed as something valuable beforehand. Value is only created retrospectively when discoveries are scarce. This also applies to Steller’s sea cows. Because these animals had only been distributed throughout a very limited region, fossil discoveries were rare. In the early 19th century, apart from Steller’s description and one unauthenticated drawing, there was no other evidence of the species apart from two ribs and a single tooth plate, which was housed at the Russian Zoological Museum of the Academy of Sciences. Skulls, bones, teeth, and jaws, which were used to determine similarities with other genera and families, thus became coveted objects on the global market. The Petersburg Academy of Sciences paid a premium to anybody who could supply it with Rhytina skulls and museums wrote their own collecting instructions for sea cow skeletons.
 
@@ -78,7 +78,7 @@ However, just like the original drawings,[^14] barely any material traces of Ste
 
 [^5]: On how the local population interacted with and enslaved some of them, see, e.g., Schmidt, Eberhard (ed.). _Wirtschaft und Handel der Kolonialreiche_, vol. 4. Munich: Verlag C.H. Beck, 1988: 328.
 
-[^6]: Cf. Podgorny, Irina. “Recyclen: Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien: Vom Wert wissenschaftlicher Dinge_, Ina Heumann and Nils Güttler (eds.). Berlin: Kadmos, 2016: 23–46; Podgorny, Irina. “Requiem, oder (Aus-) Sterben in historischer und geologischer Zeit: Knöchelverzeichnis KV 626”. In _Mikrozeit und Tiefenzeit_, Friedrich Balke et al (eds.). Paderborn: Fink, 2018: 128-142.
+[^6]: Cf. Podgorny, 2016; Podgorny, 2018.
 
 [^7]: Cf. Podgorny 2016: 35.
 
@@ -100,7 +100,7 @@ However, just like the original drawings,[^14] barely any material traces of Ste
 
 [^16]: Matschie, Paul. “Die Säugethier-Schausammlung”. _Naturwissenschaftliche Wochenschrift_ 10, no. 26 (30.06.1895): 311-315, 314. 
 
-[^17]: Matschie, Paul. “Die Säugethier-Schausammlung”. _Naturwissenschaftliche Wochenschrift_ 10, no. 26 (30.06.1895): 311-315, 314. 
+[^17]: Ibid.: 314. 
 
 
 
@@ -158,9 +158,9 @@ Materielle Überreste von Seekühen sind dagegen – ebenso wie Originalzeichnun
 
 [^6]: Zum Umgang mit der lokalen Bevölkerung und ihrer teilweisen Versklavung siehe etwa Schmidt, Eberhard (Hg.). _Wirtschaft und Handel der Kolonialreiche_, Bd. 4. München: Verlag C.H. Beck, 1988: 328.
 
-[^7]: Vgl. Podgorny, Irina. “Recyclen. Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien: Vom Wert wissenschaftlicher Dinge_, Ina Heumann und Nils Güttler (hg.). Berlin: Kadmos, 2016: 23–46; Podgorny, Irina. “Requiem, oder (Aus-)Sterben in historischer und geologischer Zeit. Knöchelverzeichnis KV 626”. In _Mikrozeit und Tiefenzeit_, Friedrich Balke u.a. (Hg.). Paderborn: Fink, 2018: 128-142.
+[^7]: Cf. Podgorny, 2016; Podgorny, 2018.
 
-[^8]: Vgl. Podgorny, Irina. “Recyclen. Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien: Vom Wert wissenschaftlicher Dinge_, Ina Heumann und Nils Güttler (Hg.). Berlin: Kadmos, 2016: 23–46.
+[^8]: Cf. Podgorny 2016: 35.
 
 [^9]: Ellis, Richard. _No Turning Back: The Life and Death of Animal Species_. New York: HarperCollins, 2004: 27.
 
@@ -180,4 +180,4 @@ Materielle Überreste von Seekühen sind dagegen – ebenso wie Originalzeichnun
 
 [^17]: Matschie, Paul. “Die Säugethier-Schausammlung”. _Naturwissenschaftliche Wochenschrift_ 10, Nr. 26 (30.06.1895): 311-315, 314. 
 
-[^18]: Matschie, Paul. “Die Säugethier-Schausammlung”. _Naturwissenschaftliche Wochenschrift_ 10, Nr. 26 (30.06.1895): 311-315, 314.
+[^18]: Ebd.: 314.
