@@ -3,7 +3,7 @@ license: CC BY-SA
 title: “Bobby”. Tracking Body Parts
 title_de: “Bobby”. Eine Fundgeschichte
 created: 1640338390195
-updated: 1641146571052
+updated: 1641146997853
 id: 05XnJBaPUmIcfTWa4WMyb
 author: Mareike Vennen
 translators:
@@ -88,7 +88,7 @@ _The dead gorilla “Bobby” at Berlin Zoo with his keeper Karl Liebetreu. (AZG
 
 <figcaption>
 
-_“Bobby’s” skull and various bones are being kept in the Mammals Collection at the Berlin Museum of Natural History. (MfN. Photo: Mareike Vennen. All rights reserved.)_ 
+_“Bobby’s” skull and various bones are being kept in the Mammals Collection at the Berlin Museum of Natural History. (MfN. Image: Mareike Vennen. All rights reserved.)_ 
 
 </figcaption>
 
@@ -119,7 +119,7 @@ Before the individual body parts were prepared and given to various institutions
 
 <figcaption>
 
-_The casts of “Bobby’s” hand and foot made by Hans Virchow are still housed in the Anatomical Teaching Collection on the Charité hospital premises. (photos of Photos of the two hand casts and the two foot casts: Photos: Evelyn Heuckendorf/Charité. Charité, all rights reserved. Photo of gorilla and human hand and photo of gorilla foot in display case: Mareike Vennen. Charité, all rights reserved.)_
+_The casts of “Bobby’s” hand and foot made by Hans Virchow are still housed in the Anatomical Teaching Collection on the Charité hospital premises. (Photos of the two hand casts and the two foot casts. Images: Evelyn Heuckendorf/Charité. Charité, all rights reserved. Photo of gorilla and human hand and photo of gorilla foot in display case. Image: Mareike Vennen. Charité, all rights reserved.)_
 
 </figcaption>
 
@@ -147,7 +147,7 @@ _Bronze death mask of “Bobby” at Berlin Zoo and case with another death mask
 
 The well-documented case of “Bobby” thus allows us to understand not just how preparation technologies can be used to produce a taxidermy and therefore transform the animal into a “lifelike” exhibition object. It also illustrates the techniques – dissecting, measuring, documenting, preparing, and casting – that turn animals into scientific collection items and objects of scientific research and, not least, into objects of memory. 
 
-The necropsy report[^17] that documents the dissection and examination of the gorilla’s body continues the body’s dismemberment, not by means of a scalpel, but in word and image. The 24 large-format photos that capture the necropsy procedure in images are also part of a documentation practice that understands and appropriates the animal as an object of knowledge.[^18] 
+The necropsy report that documents the dissection and examination of the gorilla’s body continues the body’s dismemberment, not by means of a scalpel, but in word and image.[^17] The 24 large-format photos that capture the necropsy procedure in images are also part of a documentation practice that understands and appropriates the animal as an object of knowledge.[^18] 
 
 <figure>
 
@@ -155,7 +155,7 @@ The necropsy report[^17] that documents the dissection and examination of the go
 
 <figcaption>
 
-_This photograph with the caption “elbow top layer from the front” from the necropsy record forms one part of the scientific documentation practice. It presents the animal as a piece of meat and as an object of anatomical research. (MfN, HBSB, ZM B IV 557 18 r. All rights reserved.)_
+_This photograph with the caption “elbow top layer from the front” from the necropsy record forms one part of the scientific documentation practice. It presents the animal as a piece of meat and as an object of anatomical research. (MfN, HBSB, ZM-B-IV-557-18-r. All rights reserved.)_
 
 </figcaption>
 
