@@ -5,7 +5,7 @@ desc: |-
   The history of the horseshoe crab traverses a range of collecting sites
   and scientific spaces, and shows how they have changed the worlds of both
   people and animals.
-updated: 1641148889590
+updated: 1641149788584
 created: 1640281603094
 license: CC BY-SA
 title_de: The Worlds We Make
@@ -350,7 +350,7 @@ _Etikett des Präparats aus dem Zoologische Institut, das heute im Museum für N
 
 Das Zoologische Institut ist nicht zu verwechseln mit der Sammlung des Zoologischen Museums, das den Grundstock der heutigen Sammlungen im Museum für Naturkunde bildete, wo die Präparate derzeit untergebracht sind. Zwar gehörten beide Einrichtungen zur Friedrich-Wilhelms-Universität, in deren Hauptgebäude sie zunächst untergebracht waren, bis sie 1888 bzw. 1889 in das neu erbaute Museum für Naturkunde in der Invalidenstraße einzogen. Sie agierten jedoch, wenn auch unter einem Dach, weitgehend unabhängig voneinander, da sich ihre Funktionen und Aufgaben und daher auch der Aufbau und Bestand ihrer Sammlungen deutlich voneinander unterschieden. Während das Zoologische Museum eine Forschungssammlung besaß, die wissenschaftlichen Zwecken diente, war das Zoologische Institut für die Ausbildung von Studierenden zuständig und hatte seine Lehrsammlung entsprechend ausgerichtet (siehe[[story.history-of-the-zoological-teaching-collection]]). Dass das Präparat mit freigelegtem Nervensystem zuerst Teil des Zoologischen Instituts war, belegt das Etikett dieser Institution, auf dem die Inventarnummer des Museums erst nachträglich notiert wurde. Wie kam das Limulus-Präparat mit freigelegtem Nervensystem in die Zoologische Lehrsammlung und von dort in die Forschungssammlung des Naturkundemuseums? 
 
-In der Lehrsammlung finden sich bereits in den ersten Katalogen aus dem späten 19. Jahrhundert (siehe [[story.inventory-books]]) Belege für die Anschaffung von Limulus-Präparaten. Zu dieser Zeit waren Pfeilschwanzkrebse in der Wissenschaft längst bekannt; Abbildungen und Beschreibungen sind schon aus dem 16. Jahrhundert belegt. Lange Zeit hatten Lehre und Forschung jedoch überwiegend tote Tiere in konserviertem Zustand zur Verfügung. So erwarb das Zoologische Institut laut den Inventarkatalogen Limulus-Präparate etwa von der Berliner Naturalienhandlung Linnaea und der Hamburger Firma J.F.G. Umlauff.[^2]
+In der Lehrsammlung finden sich bereits in den [[ersten Katalogen|story.inventory-books]] aus dem späten 19. Jahrhundert Belege für die Anschaffung von Limulus-Präparaten. Zu dieser Zeit waren Pfeilschwanzkrebse in der Wissenschaft längst bekannt; Abbildungen und Beschreibungen sind schon aus dem 16. Jahrhundert belegt. Lange Zeit hatten Lehre und Forschung jedoch überwiegend tote Tiere in konserviertem Zustand zur Verfügung. So erwarb das Zoologische Institut laut den Inventarkatalogen Limulus-Präparate etwa von der Berliner Naturalienhandlung Linnaea und der Hamburger Firma J.F.G. Umlauff.[^2]
 
 <figure>
 
