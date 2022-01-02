@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Face to Face with Zoo Animals
 title_de: Zootiere anfassen
 created: 1640354060660
-updated: 1641142764626
+updated: 1641142888755
 id: U1w3ckwyrdpQ2JzOLgTKo
 author: Mareike Vennen
 translators:
@@ -83,7 +83,7 @@ _No restraint between human child and young predator, as the_ Heidelberger Tageb
  
 [^2]: “Großes Löwenstreicheln im Zoo.” _Leipziger Tageszeitung_ 08.11.1935.
  
-[^3]: Zukowsky, Hildegard. “Löwenprinzchen.” _CHITuMW_, no. 6, 1 (1926): 132-134, quoted in: Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945._ Bielefeld: transcript, 2015: 291.
+[^3]: Zukowsky, Hildegard. “Löwenprinzchen.” _CHITuMW_ 1, no. 6 (1926): 132-134, quoted in: Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945._ Bielefeld: transcript, 2015: 291.
  
 [^4]: The zoo itself would not have had nearly enough animals to supply the children’s zoo. The zoo shared the earnings with the animal dealer. 
  
@@ -153,7 +153,7 @@ _Keine Berührungsängste zwischen Menschenkind und Raubtierjungen, wie das_ Hei
  
 [^2]: “Großes Löwenstreicheln im Zoo”. _Leipziger Tageszeitung_ 08.11.1935.
  
-[^3]: Zukowsky, Hildegard. “Löwenprinzchen”. _CHITuMW_, Nr. 6, 1 (1926): 132-134, zit. nach: Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945._ Bielefeld: transcript, 2015: 291.
+[^3]: Zukowsky, Hildegard. “Löwenprinzchen”. _CHITuMW_ 1, Nr. 6 (1926): 132-134, zit. nach: Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945._ Bielefeld: transcript, 2015: 291.
  
 [^4]: Der Zoo selbst hätte gar nicht ausreichend Jungtiere gehabt, um den Kinderzoo zu bestücken. Der Zoo teilte sich die Einnahmen mit der Tierhandelsfirma. 
  
