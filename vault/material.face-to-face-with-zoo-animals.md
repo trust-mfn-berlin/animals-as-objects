@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Face to Face with Zoo Animals
 title_de: Zootiere anfassen
 created: 1640354060660
-updated: 1641142482195
+updated: 1641142764626
 id: U1w3ckwyrdpQ2JzOLgTKo
 author: Mareike Vennen
 translators:
@@ -29,15 +29,15 @@ published: false
  
 <figcaption>
 
-_Picture from Berlin’s “Baby animal zoo” around 1933. (AZGB. All rights reserved.)_
+_Picture from Berlin’s baby animal zoo around 1933. (AZGB. All rights reserved.)_
  
 </figcaption>
 
 </figure>
 
-A cheetah surrounded by young goats, lambs, and piglets? An unusual sight. This photo from Berlin Zoo shows a phenomenon that no longer exists but that was extremely popular in the 1930s: the “baby animal zoo”, Tierkinderzoo. Its successor, the petting zoo, can still be found in many zoos today. But does anyone today know that bear and lion cubs used to be kept there, too?
+A cheetah surrounded by young goats, lambs, and piglets? An unusual sight. This photo from Berlin Zoo shows a phenomenon that no longer exists but that was extremely popular in the 1930s: the baby animal zoo, “Tierkinderzoo”. Its successor, the petting zoo, can still be found in many zoos today. But does anyone today know that bear and lion cubs used to be kept there, too?
  
-In summer 1931, the zoo organised its first special show with juvenile animals. What made it so special was that the fenced-in facility, which visitors had to pay entry to visit, was occupied not just by the juveniles of native domestic breeds but also by little predators from Europe and Africa that visitors could feed, pat, pull onto their laps, and [[even bottle feed|story.photos-with-lion-cubs]]. 
+In summer 1931, the zoo organized its first special show with juvenile animals. What made it so special was that the fenced-in facility, which visitors had to pay entry to visit, was occupied not just by the juveniles of native domestic breeds but also by little predators from Europe and Africa that visitors could feed, pat, pull onto their laps, and [[even bottle feed|story.photos-with-lion-cubs]]. 
  
 <figure>
 
@@ -51,7 +51,7 @@ _The_ Funkwoche Berlin _presents feeding exercises with a bear cub at Berlin Zoo
 
 </figure>
 
-What now seems perplexing, dangerous, and not very species-appropriate, was such a big hit back then that there were even shortages in the supply of young lions, tigers, and leopards.[^1] This was because other zoos soon wanted to offer their visitors similar attractions as well. “The great lion petting at the zoo”, announced the _Leipziger Tageszeitung_ newspaper on 8 November 1935.[^2] At Stellingen Zoo, the zoo director also saw how much young visitors loved cuddling and petting lion cubs.[^3] Demand for young animals remained high as they would be much too big by the next summer and [[would have to be replaced|story.photos-with-lion-cubs]]. Predator babies were thus coveted on the market and came with a corresponding price tag[^4]. Zoos therefore took what they could get: “As we have already discussed, exotic bears could be taken instead of the young predators in the meantime and could perhaps later be exchanged for young predators”[^5], wrote the animal trader who supplied Berlin Zoo with young predators to its director. 
+What now seems perplexing, dangerous, and not very species-appropriate, was such a big hit back then that there were even shortages in the supply of young lions, tigers, and leopards.[^1] This was because other zoos soon wanted to offer their visitors similar attractions as well. “The great lion petting at the zoo”, announced the _Leipziger Tageszeitung_ newspaper on 8 November 1935.[^2] At Stellingen Zoo, the zoo director also saw how much young visitors loved cuddling and petting lion cubs.[^3] Demand for young animals remained high as they would be much too big by the next summer and [[would have to be replaced|story.photos-with-lion-cubs]]. Predator babies were thus coveted on the market and came with a corresponding price tag.[^4] Zoos therefore took what they could get: “As we have already discussed, exotic bears could be taken instead of the young predators in the meantime and could perhaps later be exchanged for young predators”,[^5] wrote the animal trader who supplied Berlin Zoo with young predators to its director. 
  
 <figure>
 
@@ -59,13 +59,13 @@ What now seems perplexing, dangerous, and not very species-appropriate, was such
  
 <figcaption>
 
-_Picture of the “Baby Animal Zoo” from 1936. (AZGB. All rights reserved.)_
+_Picture of the baby animal zoo from 1936. (AZGB. All rights reserved.)_
  
 </figcaption>
 
 </figure>
 
-The “baby animal zoo” at Berlin Zoo was so popular that the zoo repeated it many more times. The encounter between lamb and cheetah in the picture shown at the beginning was thus no coincidence. Nor were meetings between lambs, cheetah cubs, and human children. Predators are no longer kept together with domestic animals like sheep or goats in Berlin or at any other German zoos. What has remained are petting zoos with domestic animals. They do not provide human children with any opportunities to directly interact with juvenile predators, but this does not just benefit the animals but also prevents the image being conveyed of predator babies as stuffed toys.
+The baby animal zoo at Berlin Zoo was so popular that the zoo repeated it many more times. The encounter between lamb and cheetah in the picture shown at the beginning was thus no coincidence. Nor were meetings between lambs, cheetah cubs, and human children. Predators are no longer kept together with domestic animals like sheep or goats in Berlin or at any other German zoos. What has remained are petting zoos with domestic animals. They do not provide human children with any opportunities to directly interact with juvenile predators, but this does not just benefit the animals but also prevents the image being conveyed of predator babies as stuffed toys.
  
 <figure>
 
