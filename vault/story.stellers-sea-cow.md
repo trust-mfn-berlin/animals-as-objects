@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Steller’s Sea Cow
 title_de: Stellers Seekuh
 created: 1640333284998
-updated: 1640914520687
+updated: 1641129027433
 id: Q8UAdldubzw0uhkmmgER3
 author: Mareike Vennen
 translators:
