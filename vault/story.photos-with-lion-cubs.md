@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Photos with Lion Cubs
 title_de: Bilder mit Löwenbabys
 created: 1640340586550
-updated: 1641138207721
+updated: 1641141929485
 id: 4U5dFDf18mKRPdRnzu35p
 author: Mareike Vennen
 translators:
@@ -272,7 +272,7 @@ What connects them is what stays the same, a motif that can be traced through a 
 
 [^5]: Wessely, Christina. _Löwenbaby_. Berlin: Matthes & Seitz, 2019.
 
-[^6]: After the war, the booth moved from its site beside the predator enclosure to the bear enclosure. Cf. Heinroth, Katharina. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege_, ed. by Aktien-Verein des Zoologischen Gartens zu Berlin. Berlin: 1956: 6.
+[^6]: After the war, the booth moved from its site beside the predator enclosure to the bear enclosure. Cf. Heinroth, Katharina. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege_, Aktien-Verein des Zoologischen Gartens zu Berlin (ed.). Berlin: 1956: 6.
 
 [^7]: Hediger, Vinzenz. “Das Tier auf unserer Seite: Zur Politik des Filmtiers am Beispiel von ‘Serengeti darf nicht sterben’”. In Anne von Heiden und Joseph Vogl (eds.). _Politische Zoologie_. Zurich/Berlin: 2007: 287-301. Historians like Thomas M. Lekan, Angela Thompsell, and Bernhard Gißibl have made similar arguments to those of the film studies scholar Hediger. Cf. Lekan, Thomas M. _Our Gigantic Zoo: A German Quest to Save the Serengeti._ New York: Oxford University Press, 2020; Thompsell, Angela. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015; Gißibl, Bernhard. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. The Environment in History: International Perspectives, Volume 9. New York: Berghahn Books, 2016.
 
@@ -290,7 +290,7 @@ What connects them is what stays the same, a motif that can be traced through a 
 
 [^14]: According to Nastasja Klothmann, zoological gardens like Leipzig Zoo were selling young predators to private citizens before the Second World War and raffling off wild animals. Cf. Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 228-231.
 
-[^15]: Cf. “Löwen mit Gebrauchsanweisung: Neues Angebot im Warenhaus; Kleine Raubkatzen von 1600 Mark an”. _Tagesspiegel_, 30.08.1969. 
+[^15]: Cf. “Löwen mit Gebrauchsanweisung: Neues Angebot im Warenhaus: Kleine Raubkatzen von 1600 Mark an”. _Tagesspiegel_, 30.08.1969. 
 
 [^16]: “Keine Löwen mehr über den Ladentisch”. _Harsfelder Zeitung_, 05.09.1969.
 
@@ -298,7 +298,7 @@ What connects them is what stays the same, a motif that can be traced through a 
 
 [^18]: Mature lions, on the other hand, are more or less associated with the wilderness and (colonial) big game.
 
-[^19]: See, e.g., Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1958_, ed. by Aktien-Verein des Zoologischen Gartens Berlin. Berlin: 1958: 56.
+[^19]: See, e.g., Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1958_, Aktien-Verein des Zoologischen Gartens Berlin (ed.). Berlin: 1958: 56.
 
 [^20]: K. Heinroth to K.M. Schneider, 23.05.1951, AZGB O 0/1/284.
 
@@ -328,7 +328,7 @@ What connects them is what stays the same, a motif that can be traced through a 
 
 [^33]: Wessely, Christina. _Löwenbaby_. Berlin: Matthes & Seitz, 2019: 59, 61.
 
-[^34]: An annual photography permit cost 10 marks and annual photography permits for the zoo and aquarium 15 marks. Cf. Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1981_, ed. by Aktien-Verein des Zoologischen Gartens zu Berlin. Berlin: 1981.
+[^34]: An annual photography permit cost 10 marks and annual photography permits for the zoo and aquarium 15 marks. Cf. Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1981_, Aktien-Verein des Zoologischen Gartens zu Berlin (ed.). Berlin: 1981.
 
 [^35]: Frädrich, Hans (ed.). _Wegweiser durch den Zoologischen Garten Berlin und sein Aquarium 1994_, ed. by Aktien-Verein des Zoologischen Gartens zu Berlin: Berlin: 1994.
 
