@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Photos with Lion Cubs
 title_de: Bilder mit Löwenbabys
 created: 1640340586550
-updated: 1641135880899
+updated: 1641136919525
 id: 4U5dFDf18mKRPdRnzu35p
 author: Mareike Vennen
 translators:
@@ -39,11 +39,11 @@ _A little boy with a lion cub on the Berlin Zoo photographer’s bench in 1939. 
 
 </figure>
  
-Many are probably familiar with the photo motif: a man, woman, or child with a young lion on their lap. Sometimes they look either lovingly or fearfully at the animal, sometimes they look directly at the camera. In other photos, the subject of the photo looks outside the image, like in this photo, which was taken at Berlin Zoo in 1939. Many zoos once gave visitors the opportunity to have their photos taken with a lion cub. When did this motif emerge, and why has it disappeared from today’s zoos? What do photos like these reveal about the relationship between zoo visitors and lion cubs? What attitudes towards and ideas about “wild animals” take shape in these images, and how did animals become photo objects in the first place? And finally: What is the animal here? Is it a predator, a zoo animal, or a stuffed toy? The quest for answers does not just take us through the history of photography practice and zookeeping, but also has a lot to do with the changing politics of animal images. 
+Many are probably familiar with the photo motif: a man, woman, or child with a young lion on their lap. Sometimes they look either lovingly or fearfully at the animal, sometimes they look directly at the camera. In other photos, the subject of the photo looks outside the image, like in this photo, which was taken at the Berlin Zoo in 1939. Many zoos once gave visitors the opportunity to have their photos taken with a lion cub. When did this motif emerge, and why has it disappeared from today’s zoos? What do photos like these reveal about the relationship between zoo visitors and lion cubs? What attitudes towards and ideas about “wild animals” take shape in these images, and how did animals become photo objects in the first place? And finally: What is the animal here? Is it a predator, a zoo animal, or a stuffed toy? The quest for answers does not just take us through the history of photography practice and zookeeping, but also has a lot to do with the changing politics of animal images. 
  
 ## Contact zones between animals and humans 
 
-Getting within touching distance of young predators like bears, lions, or leopards – what now seems perplexing was very popular for a long time. The lion cub photo motif can be traced back to at least the 1930s[^1], revealed if nothing else by the clothing the little boy is wearing and the sepia colouring of the photo from Berlin Zoo, which was taken in 1939. There were reports about visitors’ desiring to get as close as possible to the baby animals at the zoo. Lions seem to have had a particularly strong appeal. “The desire to take a lion in one’s arms and stroke it is probably one of the most coveted amongst our zoo visitors”, as Hamburg’s Stellingen Zoo reported in 1926.[^2] And some zoos did in fact provide this opportunity. The Berlin Zoological Garden had been organising its own “baby animal zoo” every summer since 1931. In a fenced-in enclosure, visitors were able to cuddle, stroke, and feed not just sheep and goats but also little lion and tiger cubs. Other zoos followed suit with special shows and [[petting zoos for baby predators|material.face-to-face-with-zoo-animals]]. 
+Getting within touching distance of young predators like bears, lions, or leopards – what now seems perplexing was very popular for a long time. The lion cub photo motif can be traced back to at least the 1930s,[^1] revealed if nothing else by the clothing the little boy is wearing and the sepia colouring of the photo from Berlin Zoo, which was taken in 1939. There were reports about visitors’ desiring to get as close as possible to the baby animals at the zoo. Lions seem to have had a particularly strong appeal. “The desire to take a lion in one’s arms and stroke it is probably one of the most coveted amongst our zoo visitors”, as Hamburg’s Stellingen Zoo reported in 1926.[^2] And some zoos did in fact provide this opportunity. The Berlin Zoological Garden had been organising its own “baby animal zoo” every summer since 1931. In a fenced-in enclosure, visitors were able to cuddle, stroke, and feed not just sheep and goats but also little lion and tiger cubs. Other zoos followed suit with special shows and [[petting zoos for baby predators|material.face-to-face-with-zoo-animals]]. 
  
 <figure>
 
@@ -72,7 +72,7 @@ _Family photo with a lion cub. Granddad and granddaughter look directly at the c
 
 </figure>
  
-This transforms photos of this genre from private memories into historical documents that go beyond individual histories. They show cultural phenomena, as the cultural studies scholar Christina Wessely writes. According to her book _Löwenbaby_ (Lion Baby), this image genre does not just tell us about animals, but above all about humans, about family constellations, and about changing ideas of nature.[^5] At the same time, we might add, they also tell us about the relationship between the media production of animal images and the reproduction of animals in breeding programmes. 
+This transforms photos of this genre from private memories into historical documents that go beyond individual histories. They show cultural phenomena, as the cultural studies scholar Christina Wessely writes. According to her book _Löwenbaby_ (Lion Cub), this image genre does not just tell us about animals, but above all about humans, about family constellations, and about changing ideas of nature.[^5] At the same time, we might add, they also tell us about the relationship between the media production of animal images and the reproduction of animals in breeding programmes. 
  
 ## From animals slain in the wild to tame pets
 
@@ -84,7 +84,7 @@ The fact that lion cub photos were being taken up into the 1990s is testament to
 
 <figcaption>
 
-_This 1962 family photo with a lion cub at Berlin Tierpark is from the private family album of our colleague. (Private, photo: Werner Engel. All rights reserved.)_ 
+_This 1962 family photo with a lion cub at Berlin Tierpark is from the private family album of our colleague. (Private, image: Werner Engel. All rights reserved.)_ 
 
 </figcaption>
 
