@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Steller’s Sea Cow
 title_de: Stellers Seekuh
 created: 1640333284998
-updated: 1641131453345
+updated: 1641131999688
 id: Q8UAdldubzw0uhkmmgER3
 author: Mareike Vennen
 translators:
@@ -72,7 +72,7 @@ However, just like the original drawings,[^14] barely any material traces of Ste
 
 [^2]: Matschie, Paul. “Die Säugethier-Schausammlung”. _Naturwissenschaftliche Wochenschrift_ 10, no. 26 (30.06.1895): 311-315, 313.
 
-[^3]: Cf. Baer, Karl Ernst von. “Untersuchungen über die ehemalige Verbreitung und die gänzliche Vertilgung der von Steller beobachteten nordischen Seekuh (_Rytina Ill_.)”. _Mémoires de l’Académie Impériale des Sciences de Saint Pétersbourg_ 6.5, no. 2 (1840): 53−80; Baer, Karl Ernst von. “Über das Aussterben der Thierarten in physiologischer und nicht physiologischer Hinsicht überhaupt, und der Untergang von Arten, die mit den Menschen zusammen gelebt haben”. _Bulletin de l’Académie impériale des sciences de St. Pétersbourg_ 3 (1861): 369−396. On von Baer’s studies, see also Podgorny, Irina. “Recyclen: Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien: Vom Wert wissenschaftlicher Dinge_, Ina Heumann and Nils Güttler (eds.). Berlin: Kadmos, 2016: 23–46; as well as Podgorny, Irina. “Requiem, oder (Aus-) Sterben in historischer und geologischer Zeit: Knöchelverzeichnis KV 626”. In _Mikrozeit und Tiefenzeit_, Friedrich Balke et al. (eds.)Paderborn: Fink, 2018: 128-142.
+[^3]: Cf. Baer, Karl Ernst von. “Untersuchungen über die ehemalige Verbreitung und die gänzliche Vertilgung der von Steller beobachteten nordischen Seekuh (_Rytina Ill_.)”. _Mémoires de l’Académie Impériale des Sciences de Saint Pétersbourg_ 6.5, no. 2 (1840): 53−80; Baer, Karl Ernst von. “Über das Aussterben der Thierarten in physiologischer und nicht physiologischer Hinsicht überhaupt, und der Untergang von Arten, die mit den Menschen zusammen gelebt haben”. _Bulletin de l’Académie impériale des sciences de St. Pétersbourg_ 3 (1861): 369−396. On von Baer’s studies, see also Podgorny, Irina. “Recyclen: Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien: Vom Wert wissenschaftlicher Dinge_, Ina Heumann and Nils Güttler (eds.). Berlin: Kadmos, 2016: 23–46; as well as Podgorny, Irina. “Requiem, oder (Aus-) Sterben in historischer und geologischer Zeit: Knöchelverzeichnis KV 626”. In _Mikrozeit und Tiefenzeit_, Friedrich Balke et al. (eds.). Paderborn: Fink, 2018: 128-142.
 
 [^4]: Cf. Steller, Georg Wilhelm. “De Bestiis Marinis”. In _Novi Commentarii Academiae Scientarium Imperialis Petropolitanae_, vol. II. St. Petersburg: Press of the Academy of Sciences, 1751: 289−398; also in “The Beasts of the Sea”, transl. by Walter Miller und Jennie Emerson Miller. In _The Fur Seals and Fur-seal Islands of the North Pacific Ocean_, vol. 3. Washington D. C.: Govt. Print. Off., 1898−1899: 179−210.
 
