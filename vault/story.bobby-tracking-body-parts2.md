@@ -3,7 +3,7 @@ license: CC BY-SA
 title: “Bobby”. Tracking Body Parts
 title_de: “Bobby”. Eine Fundgeschichte
 created: 1640338390195
-updated: 1640916243718
+updated: 1641144499003
 id: 05XnJBaPUmIcfTWa4WMyb
 author: Mareike Vennen
 translators:
@@ -33,7 +33,7 @@ published: false
 
 <figcaption>
 
-_A photo of “Bobby” the gorilla’s carcass during his necropsy in 1935. (MfN, Historische Bild- und Schriftgutsammlungen [HBSB], ZM B IV 557 2 r. Photo W. Tank. All rights reserved.)_
+_A photo of “Bobby” the gorilla’s carcass during his necropsy in 1935. (MfN, Historische Bild- und Schriftgutsammlungen [HBSB], ZM-B-IV-557-2-r. Image: W. Tank. All rights reserved.)_
 
 </figcaption>
 
@@ -217,7 +217,7 @@ As the example of the Anatomical Collection at Charité Hospital shows, anatomic
 
 <figcaption>
 
-_Ein Foto vom Kadaver des Gorillas “Bobby” während der Sektion des Tieres im Jahr 1935. (MfN, Historische Bild- und Schriftgutsammlungen (HBSB), ZM B IV 557 2 r. Foto: W. Tank. Alle Rechte vorbehalten.)_
+_Ein Foto vom Kadaver des Gorillas “Bobby” während der Sektion des Tieres im Jahr 1935. (MfN, Historische Bild- und Schriftgutsammlungen (HBSB), ZM-B-IV-557-2-r. Foto: W. Tank. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -233,15 +233,15 @@ Die Aufnahme entstand am 2. August 1935 während der Obduktion von “Bobby” i
 
 <figcaption>
 
-_Die Haut, die auf dem Sektionsfoto bereits abgezogen ist, wurde für die Dermoplastik verwendet. Hier nähen die Präparatoren Karl Kaestner und Gerhard Schröder des Berliner Naturkundemuseums sie fest. (MfN, HBSB, ZM B III 1232. Alle Rechte vorbehalten.)_ ZM B IV 557 2 r.
+_Die Haut, die auf dem Sektionsfoto bereits abgezogen ist, wurde für die Dermoplastik verwendet. Hier nähen die Präparatoren Karl Kaestner und Gerhard Schröder des Berliner Naturkundemuseums sie fest. (MfN, HBSB, ZM-B-III-1232. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
 </figure>
 
-Während die Dermoplastik, die bis heute in der Ausstellung des Berliner Naturkundemuseum gezeigt wird[^2], weithin bekannt ist und während vom Prozess der Präparation bereits damals Bild- als auch Filmmaterial zirkulierte, wissen wir über die Sektion trotz der umfangreichen Dokumentation, die damals entstand, heute wenig, genau wie über die anschließende Verteilung der einzelnen Körperteile in unterschiedliche Sammlungen und Institutionen. 
+Während die Dermoplastik, die bis heute in der Ausstellung des Berliner Naturkundemuseum gezeigt wird,[^2] weithin bekannt ist und während vom Prozess der Präparation bereits damals Bild- als auch Filmmaterial zirkulierte, wissen wir über die Sektion trotz der umfangreichen Dokumentation, die damals entstand, heute wenig, genau wie über die anschließende Verteilung der einzelnen Körperteile in unterschiedliche Sammlungen und Institutionen. 
 
-Dieser Text versteht sich als Versuch, eine weitgehend unbekannte Seite der Geschichte dieses berühmten Zootieres aus Archivbeständen und Sammlungsobjekten zu rekonstruieren. Ausgangspunkt ist der Fund des Sektionsprotokolls und anderer Dokumente aus den 1930er-Jahren im Archiv des Berliner Naturkundemuseums. Von dort aus führen Spuren in verschiedene Sammlungen, wo sich noch heute Präparate und Abgüsse einzelner Körperteile befinden. Es handelt sich hier also um eine - bislang noch lückenhafte - Fundgeschichte, die unterschiedliche Orte und Disziplinen verbindet und größere, teilweise sensible institutionelle, wissenschaftliche und sammlungspraktische Kontexte aufruft. Diesen Verbindungen im Einzelnen nachzugehen und tiefergehend zu untersuchen, was das Auffinden der Körperteile im Einzelnen bedeutet, steht noch aus. Fest steht, dass die Geschichte der wissenschaftlichen Verwertung von “Bobby” eine andere ist als die Ausstellungsgeschichte und seine populäre mediale Verwertung des Tieres [[material.britta-bobby]]. 
+Dieser Text versteht sich als Versuch, eine weitgehend unbekannte Seite der Geschichte dieses berühmten Zootieres aus Archivbeständen und Sammlungsobjekten zu rekonstruieren. Ausgangspunkt ist der Fund des Sektionsprotokolls und anderer Dokumente aus den 1930er-Jahren im Archiv des Berliner Naturkundemuseums. Von dort aus führen Spuren in verschiedene Sammlungen, wo sich noch heute Präparate und Abgüsse einzelner Körperteile befinden. Es handelt sich hier also um eine – bislang noch lückenhafte – Fundgeschichte, die unterschiedliche Orte und Disziplinen verbindet und größere, teilweise sensible institutionelle, wissenschaftliche und sammlungspraktische Kontexte aufruft. Diesen Verbindungen im Einzelnen nachzugehen und tiefergehend zu untersuchen, was das Auffinden der Körperteile im Einzelnen bedeutet, steht noch aus. Fest steht, dass die Geschichte der wissenschaftlichen Verwertung von “Bobby” eine andere ist als die Ausstellungsgeschichte und seine [[populäre mediale Verwertung|material.the-gorilla-beast]] des Tieres. 
 
 <figure>
 
@@ -255,9 +255,9 @@ _Der tote Gorilla “Bobby” im Berlin Zoo, mit dem Pfleger Karl Liebetreu. (AZ
 
 </figure>
 
-“Bobby” starb am 1. August 1935. Dieses Foto zeigt den Gorilla kurz nach seinem Tod im Zoo mit dem Pfleger Karl Liebetreu. Von dort wurde das Tier zunächst zur Sektion gebracht.[^3]  Die Tatsache, dass “Bobby” nach seinem Tod untersucht wurde, war an sich keine Besonderheit. Die meisten Säugetiere aus dem Zoo wurden seziert, um ihre Todesursache festzustellen. Dass die Obduktion jedoch nicht wie sonst üblich in der Tierärztlichen Hochschule (siehe [[material.labels-and-knowledge]]), sondern im Pathologischen Institut des Krankenhauses Westend[^4] durchgeführt wurde (das ansonsten vornehmlich für Studien am menschlichen Körper zuständig war), dass Wissenschaftler (ausschließlich Männer) verschiedener Fachrichtungen daran teilnahmen und eine umfangreiche Dokumentation angefertigt wurde, veranschaulicht die Prominenz des Gorillas und das wissenschaftliche Interesse an ihm – das pathologische und biologische ebenso wie das anatomische. 
+“Bobby” starb am 1. August 1935. Dieses Foto zeigt den Gorilla kurz nach seinem Tod im Zoo mit dem Pfleger Karl Liebetreu. Von dort wurde das Tier zunächst zur Sektion gebracht.[^3]  Die Tatsache, dass “Bobby” nach seinem Tod untersucht wurde, war an sich keine Besonderheit. Die meisten Säugetiere aus dem Zoo wurden seziert, um ihre Todesursache festzustellen. Dass die Obduktion jedoch nicht wie sonst üblich in der Tierärztlichen Hochschule (siehe [[material.labels-and-knowledge]]), sondern im Pathologischen Institut des Krankenhauses Westend durchgeführt wurde (das ansonsten vornehmlich für Studien am menschlichen Körper zuständig war),[^4] dass Wissenschaftler (ausschließlich Männer) verschiedener Fachrichtungen daran teilnahmen und eine umfangreiche Dokumentation angefertigt wurde, veranschaulicht die Prominenz des Gorillas und das wissenschaftliche Interesse an ihm – das pathologische und biologische ebenso wie das anatomische. 
 
-Die Obduktion des Gorillas “Bobby” diente in erster Linie dazu, die Todesursache festzustellen: Er starb an einer schweren Blinddarmentzündung.[^5] Nachdem das Tier fotografiert, gefilmt und vermessen worden war, führten Dr. Kleinschmidt und Dr. Groth vom Anatomischen Institut der Friedrich-Wilhelms-Universität zu Berlin und der bereits pensionierte Geheimrat Professor Hans Virchow[^6] die Obduktion durch. Ebenfalls beteiligt war Prof. W. Tank, Anatom an der Kunstakademie[^7], der auch die 24 schwarz-weiß Aufnahmen machte, die sich heute im Archiv des Naturkundemuseums befinden. Jeder Wissenschaftler war für die Untersuchung unterschiedlicher Körperpartien zuständig. Weiterhin anwesend waren (soweit ich weiß ausschließlich männliche) Sammlungsmitarbeiter und Präparatoren des Berliner Naturkundemuseums. Insgesamt dauerten die Arbeiten sieben Tage, vom 2. bis 8. August 1935. Laut Friedrich Voss, dem Leiter der Säugetierabteilung des Museums für Naturkunde Berlin, war ihr Ziel eine “wenn möglich restlose wissenschaftliche Erfassung des Tieres bis auf die letzte Muskelfaser”.[^8] Dazu gehörte zum einen, die Ergebnisse des Obduktionsberichts zu publizieren, der 1937 in den _Veröffentlichungen aus der Konstitutions- und Wehrpathologie_ erschien. Zum anderen wurden Abgüsse und Präparate verschiedener Körperteile angefertigt. Deren Geschichte führt vom Pathologischen Institut in Westend aus an weitere Orte innerhalb und außerhalb Berlins [[story.the-afterlife-of-zoo-animals]], in das Naturkundemuseum, den Zoo, die Charité und - vermutlich - das Kaiser-Wilhelm-Institut für Hirnforschung.
+Die Obduktion des Gorillas “Bobby” diente in erster Linie dazu, die Todesursache festzustellen: Er starb an einer schweren Blinddarmentzündung.[^5] Nachdem das Tier fotografiert, gefilmt und vermessen worden war, führten Dr. Kleinschmidt und Dr. Groth vom Anatomischen Institut der Friedrich-Wilhelms-Universität zu Berlin und der bereits pensionierte Geheimrat Professor Hans Virchow die Obduktion durch.[^6] Ebenfalls beteiligt war Prof. W. Tank, Anatom an der Kunstakademie,[^7] der auch die 24 schwarz-weiß Aufnahmen machte, die sich heute im Archiv des Naturkundemuseums befinden. Jeder Wissenschaftler war für die Untersuchung unterschiedlicher Körperpartien zuständig. Weiterhin anwesend waren (soweit ich weiß ausschließlich männliche) Sammlungsmitarbeiter und Präparatoren des Berliner Naturkundemuseums. Insgesamt dauerten die Arbeiten sieben Tage, vom 2. bis 8. August 1935. Laut Friedrich Voss, dem Leiter der Säugetierabteilung des Museums für Naturkunde Berlin, war ihr Ziel eine “wenn möglich restlose wissenschaftliche Erfassung des Tieres bis auf die letzte Muskelfaser”.[^8] Dazu gehörte zum einen, die Ergebnisse des Obduktionsberichts zu publizieren, der 1937 in den _Veröffentlichungen aus der Konstitutions- und Wehrpathologie_ erschien. Zum anderen wurden Abgüsse und Präparate verschiedener Körperteile angefertigt. Deren Geschichte führt vom Pathologischen Institut in Westend aus an weitere Orte innerhalb und außerhalb Berlins, in das Naturkundemuseum, den Zoo, die Charité und – vermutlich – das Kaiser-Wilhelm-Institut für Hirnforschung. Siehe auch [[story.the-afterlife-of-zoo-animals]].
  
 ## Zerteilen, Vervielfältigen, Verteilen
  
