@@ -3,7 +3,7 @@ license: CC BY-SA
 title: “Bobby”. Tracking Body Parts
 title_de: “Bobby”. Eine Fundgeschichte
 created: 1640338390195
-updated: 1641147445124
+updated: 1641147541233
 id: 05XnJBaPUmIcfTWa4WMyb
 author: Mareike Vennen
 translators:
@@ -88,7 +88,7 @@ _The dead gorilla “Bobby” at Berlin Zoo with his keeper Karl Liebetreu. (AZG
 
 <figcaption>
 
-_“Bobby’s” skull and various bones are being kept in the Mammals Collection at the Berlin Museum of Natural History. (MfN. Image: Mareike Vennen. All rights reserved.)_ 
+_“Bobby’s” skull and various bones are being kept in the Mammals Collection at the Berlin Museum of Natural History. (MfN. Images: Mareike Vennen. All rights reserved.)_ 
 
 </figcaption>
 
@@ -119,7 +119,7 @@ Before the individual body parts were prepared and given to various institutions
 
 <figcaption>
 
-_The casts of “Bobby’s” hand and foot made by Hans Virchow are still housed in the Anatomical Teaching Collection on the Charité hospital premises. (Photos of the two hand casts and the two foot casts. Images: Evelyn Heuckendorf/Charité. Charité, all rights reserved. Photo of gorilla and human hand and photo of gorilla foot in display case. Image: Mareike Vennen. Charité, all rights reserved.)_
+_The casts of “Bobby’s” hand and foot made by Hans Virchow are still housed in the Anatomical Teaching Collection on the Charité hospital premises. (Photos of the two hand casts and the two foot casts. Images: Evelyn Heuckendorf/Charité. Charité, all rights reserved. Photo of gorilla and human hand and photo of gorilla foot in display case. Images: Mareike Vennen. Charité, all rights reserved.)_
 
 </figcaption>
 
