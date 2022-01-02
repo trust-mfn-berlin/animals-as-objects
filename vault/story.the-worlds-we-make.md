@@ -5,7 +5,7 @@ desc: |-
   The history of the horseshoe crab traverses a range of collecting sites
   and scientific spaces, and shows how they have changed the worlds of both
   people and animals.
-updated: 1641154546521
+updated: 1641156040008
 created: 1640281603094
 license: CC BY-SA
 title_de: The Worlds We Make
@@ -69,7 +69,7 @@ Organs have been removed from other animals and prepared as individual specimens
 
 <figcaption>
 
-_In this specimen, the heart and vessels of a horseshoe crab have been isolated. This animal came from the (Berlin?) Aquarium and was probably part of the Zoological Teaching Collection to begin with. It is now stored at the Museum of Natural History Berlin. (MfN, ZMB 32114. Image: Carola Radke/MfN. All rights reserved.)_
+_In this specimen, the heart and vessels of a horseshoe crab have been isolated. This animal came from the (Berlin?) Aquarium and was probably part of the [[_Zoological Teaching Collection_|story.history-of-the-zoological-teaching-collection]] to begin with. It is now stored at the Museum of Natural History Berlin. (MfN, ZMB 32114. Image: Carola Radke/MfN. All rights reserved.)_
 
 </figcaption>
 
