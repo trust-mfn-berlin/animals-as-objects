@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Steller’s Sea Cow
 title_de: Stellers Seekuh
 created: 1640333284998
-updated: 1641131273687
+updated: 1641131453345
 id: Q8UAdldubzw0uhkmmgER3
 author: Mareike Vennen
 translators:
@@ -96,7 +96,7 @@ However, just like the original drawings,[^14] barely any material traces of Ste
 
 [^14]: Just as complex as the story of how these fossils have survived is the story of the historical sea cow drawings. None of the sea cow drawings made by Steller himself have survived. On the Kamchatka expeditions, Corporal Friedrich Plenisner, who joined the crew as a painter and surveyor, made drawings for him. After he returned in 1743, Steller sent his manuscript “de Bestiis marinis” to St Petersburg by boat together with a number of drawings that Pleniser had probably drawn on Bering Island. They included two depictions of a female sea cow. While the manuscript did in fact reach St Petersburg, the drawings never arrived and are considered lost. Between 1834 and 1842, the St Petersburg Academy published this sketch of the sea cow as plate 30 in the illustrations to Simon Peter Pallas’ _Zoographia Rosso-Asiatica_. At that time, none of the _Waxell maps_ existed yet, and there were no skeletons in Europe. The exact origins of the drawing are unclear. According to Stejneger, it could be one of Pleniser’s original sketches commissioned by Steller, which later made its way to Pallas, who at any rate had it printed in this rough form. All information about the drawings is from Hans Rothauscher, who explains the history of the surviving images of the sea cow here: http://www.hans-rothauscher.de/steller/seacow.htm. (17.12.2021).
 
-[^15]: Cf. Mattioli, Stefano, and Daryl P. Domning. “An Annotated List of Extant Skeletal Material of Steller’s Sea Cow”. _Aquatic Mammals_ 32, no. 3 (2006): 273−288; Stejneger, Leonar. “Skeletons of Steller’s Sea-Cow Preserved in the Various Museums”. _Science_ 21, no. 523 (1893): 81.C:\Users\Mareike Vennen\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\LVYUS3T1\ doi: https://doig.org/10.1126/science.ns-21.523.81-b; as well as http://www.hans-rothauscher.de/steller/museen.htm (05.10.2021).
+[^15]: Cf. Mattioli, Stefano, and Daryl P. Domning. “An Annotated List of Extant Skeletal Material of Steller’s Sea Cow”. _Aquatic Mammals_ 32, no. 3 (2006): 273−288; Stejneger, Leonar. “Skeletons of Steller’s Sea-Cow Preserved in the Various Museums”. _Science_ 21, no. 523 (1893): 81. https://doig.org/10.1126/science.ns-21.523.81-b; as well as http://www.hans-rothauscher.de/steller/museen.htm (05.10.2021).
 
 [^16]: Matschie, Paul. “Die Säugethier-Schausammlung”. _Naturwissenschaftliche Wochenschrift_ 10, no. 26 (30.06.1895): 311-315, 314. 
 
