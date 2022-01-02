@@ -7,7 +7,11 @@ short_desc_de: Habitate und Tierhandelsfirmen
 date_end: 1973-12-31T11:00:00.000Z
 published: false
 title: Catching Animals
+<<<<<<< HEAD
+updated: 1641150428647
+=======
 updated: 1641152190271
+>>>>>>> 1069b06ef7dc933c0bf5454c0f098259c5b6c12b
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 translators:
   translator_de_en: ""
@@ -37,7 +41,7 @@ date_start: 1844-12-31T23:06:32.000Z
 
 <figcaption>
 
-_Shipment of two young  giraffes, 1928. (AZGB, photo Lutz Heck. All rights reserved.)_
+_Shipment of two young  giraffes, 1928. (AZGB, image: Lutz Heck. All rights reserved.)_
 
 </figcaption>
 
@@ -145,7 +149,7 @@ At the beginning of the 20th century, a few zoos also organized or financed thei
 
 <figcaption>
 
-_Shipment of two young  giraffes, 1928. (AZGB, photo Lutz Heck. All rights reserved.)_
+_Shipment of two young  giraffes, 1928. (AZGB, image: Lutz Heck. All rights reserved.)_
 
 </figcaption>
 
@@ -191,7 +195,7 @@ In 1963, Heinroth’s successor Heinz-Georg Klös went to Apartheid South Africa
 
 <figcaption>
 
-_White rhinos “Hlambamans” and “Kuababa” at Berlin Zoo, 1964. (AZGB, photo Kleinschmidt. All rights reserved.)_
+_White rhinos “Hlambamans” and “Kuababa” at Berlin Zoo, 1964. (AZGB, image: Kleinschmidt. All rights reserved.)_
 
 </figcaption>
 
@@ -209,7 +213,7 @@ What came next was a debacle that went on for over a year. The newly created GDR
 
 <figcaption>
 
-_“Kosko” races with elated children, 1958. (Tierpark Berlin, photo Zimmer. All rights reserved.)_
+_“Kosko” races with elated children, 1958. (Tierpark Berlin, image: Zimmer. All rights reserved.)_
 
 </figcaption>
 
@@ -303,7 +307,7 @@ In 1975, a Convention on International Trade in Endangered Species of Wild Fauna
 
 <figcaption>
 
-_Transport zwei gefangener junger Giraffen, 1928. (AZGB, Foto Lutz Heck. Alle Rechte vorbehalten.)_
+_Transport zwei gefangener junger Giraffen, 1928. (AZGB, Foto: Lutz Heck. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -411,7 +415,7 @@ Zu Beginn des 20. Jahrhunderts organisierten oder finanzierten einige wenige Zoo
 
 <figcaption>
 
-_Transport zwei gefangener junger Giraffen, 1928. (AZGB, Foto Lutz Heck. Alle Rechte vorbehalten.)_
+_Transport zwei gefangener junger Giraffen, 1928. (AZGB, Foto: Lutz Heck. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -419,9 +423,9 @@ _Transport zwei gefangener junger Giraffen, 1928. (AZGB, Foto Lutz Heck. Alle Re
 
 ## Letztes Aufbäumen – die 1950er Jahre
 
-Nach dem Ende des Zweiten Weltkriegs lag Berlin in Trümmern, ein Kauf der beim Publikum beliebten Raubkatzen oder Großsäuger aus Afrika und Asien kam zunächst nicht in Frage. Die Jagd musste also auf heimischem Boden stattfinden. Die Zoodirektorin der Jahre des Wiederaufbaus, [[material.katharina-heinroth]] bezog nicht nur Tiere aus einem aufgelösten Zirkus, sie bekam zum Füllen der leeren Gehege auch einheimische Tiere, gefangen in den Wäldern in und um Berlin. Erst zur Mitte der 1950er Jahre wurde der internationale Tierhandel noch einmal ein florierendes Geschäft. Zwar erreichten die Handelsfirmen Hagenbeck und Ruhe das lange Jahrzehnte bestehende quasi-Monopol im Tierhandel nicht mehr, aber die kriegszerstörten Tiergärten in Europa füllten ihre leeren Gehege mit ihrer Hilfe wieder auf.[^20] Laut dem ehemaligen Zoodirektor Bernhard Blaszkiewitz begann nicht nur im Berliner Zoo um 1960 ein regelrechter Ansturm auf Gorillas.[^21] In Berlin hatte man gerade das Menschenaffenhaus gebaut. Zwischen 1957 und 1968 erhielt der Berliner Zoologische Garten vier männliche und vier weibliche Wildfänge.[^22]
+Nach dem Ende des Zweiten Weltkriegs lag Berlin in Trümmern, ein Kauf der beim Publikum beliebten Raubkatzen oder Großsäuger aus Afrika und Asien kam zunächst nicht in Frage. Die Jagd musste also auf heimischem Boden stattfinden. Die Zoodirektorin der Jahre des Wiederaufbaus, [[material.katharina-heinroth]], bezog nicht nur Tiere aus einem aufgelösten Zirkus, sie bekam zum Füllen der leeren Gehege auch einheimische Tiere, gefangen in den Wäldern in und um Berlin. Erst zur Mitte der 1950er Jahre wurde der internationale Tierhandel noch einmal ein florierendes Geschäft. Zwar erreichten die Handelsfirmen Hagenbeck und Ruhe das lange Jahrzehnte bestehende quasi-Monopol im Tierhandel nicht mehr, aber die kriegszerstörten Tiergärten in Europa füllten ihre leeren Gehege mit ihrer Hilfe wieder auf.[^20] Laut dem ehemaligen Zoodirektor Bernhard Blaszkiewitz begann nicht nur im Berliner Zoo um 1960 ein regelrechter Ansturm auf Gorillas.[^21] In Berlin hatte man gerade das Menschenaffenhaus gebaut. Zwischen 1957 und 1968 erhielt der Berliner Zoologische Garten vier männliche und vier weibliche Wildfänge.[^22]
 
-Noch waren sowohl Kolonialbehörden als auch die Regierungen nun unabhängiger ehemaliger Kolonien bereit, Fanglizenzen zu vergeben. Die Zoodirektorin [[material.katharina-heinroth]] flog 1955 nach Borneo und Sumatra. Es handelte sich dabei nicht um eine klassische Fangfahrt, Heinroth hatte zuvor von Privatleuten Angebote bekommen und bei lokalen Behörden um die Fang- und Ausfuhrerlaubnisse angesucht. Sie kam vor allem, um die Tiere in der Wildbahn zu sehen und dann Exemplare auszusuchen und auf dem Transport in den Berliner Zoo zu begleiten. Katharina Heinroth nutzte dafür ihren Urlaub und brachte einen Tiertransport mit nach Berlin.[^23]
+Noch waren sowohl Kolonialbehörden als auch die Regierungen nun unabhängiger ehemaliger Kolonien bereit, Fanglizenzen zu vergeben. Die Zoodirektorin Katharina Heinroth flog 1955 nach Borneo und Sumatra. Es handelte sich dabei nicht um eine klassische Fangfahrt, Heinroth hatte zuvor von Privatleuten Angebote bekommen und bei lokalen Behörden um die Fang- und Ausfuhrerlaubnisse angesucht. Sie kam vor allem, um die Tiere in der Wildbahn zu sehen und dann Exemplare auszusuchen und auf dem Transport in den Berliner Zoo zu begleiten. Katharina Heinroth nutzte dafür ihren Urlaub und brachte einen Tiertransport mit nach Berlin.[^23]
 
 <figure>
 
@@ -457,7 +461,7 @@ _Postkarte des Zoo Berlin mit den beiden Orang-Utans “Bubi” und “Nakal”,
 
 <figcaption>
 
-_Breitmaulnashörner “Hlambamans” und “Kuababa” im Zoo Berlin, 1964. (AZGB, Foto Kleinschmidt. Alle Rechte vorbehalten.)_
+_Breitmaulnashörner “Hlambamans” und “Kuababa” im Zoo Berlin, 1964. (AZGB, Foto: Kleinschmidt. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -475,7 +479,7 @@ Nun folgte ein über ein Jahr dauerndes Drama um die Tiere. Die noch junge DDR f
 
 <figcaption>
 
-_“Kosko” rennt mit begeisterten Kindern um die Wette, 1958. (Tierpark Berlin, Foto Zimmer. Alle Rechte vorbehalten.)_
+_“Kosko” rennt mit begeisterten Kindern um die Wette, 1958. (Tierpark Berlin, Foto: Zimmer. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -511,7 +515,7 @@ Seit den 1960er Jahren traten zunehmend Züchtungen, also in Zoos gezeugte Nachk
 
 [^2]: Protokoll der Generalversammlung, 01.06.1852, AZGB O 0/1/62.
 
-[^3]: Wertvolle Hinweise auf die Geschichte des Tierhandels finden sich in Dittrich, Lothar. “Vom Souvenir zum Handelsobjekt. Handel und Import fremdländischer Tiere”. In _Menagerie des Kaisers – Zoo der Wiener. 250 Jahre Tiergarten Schönbrunn_, hg. von Mitchell G. Ash und Lothar Dittrich. Wien: Pichler, 2002: 331-343; Dittrich, Lothar. “Der Import von Wildtieren nach Europa - Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, hg. von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl. Tiergarten Schönbrunn – Geschichte. Wien: Braumüller, 2007: 1-64.
+[^3]: Wertvolle Hinweise auf die Geschichte des Tierhandels finden sich in Dittrich, Lothar. “Vom Souvenir zum Handelsobjekt. Handel und Import fremdländischer Tiere”. In _Menagerie des Kaisers – Zoo der Wiener. 250 Jahre Tiergarten Schönbrunn_, hg. von Mitchell G. Ash und Lothar Dittrich. Wien: Pichler, 2002: 331-343; Dittrich, Lothar. “Der Import von Wildtieren nach Europa – Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, hg. von Helmut Pechlaner, Dagmar Schratter, Gerhard Heindl. Tiergarten Schönbrunn – Geschichte. Wien: Braumüller, 2007: 1-64.
 
 [^4]: Dittrich, 2002: 332.
 
@@ -521,7 +525,7 @@ Seit den 1960er Jahren traten zunehmend Züchtungen, also in Zoos gezeugte Nachk
 
 [^7]: Vgl. Diallo, Oumar, und Joachim Zeller. “Zoologischer Garten, Hardenbergplatz 8”. In _Berlin – Eine (post-)koloniale Metropole. Ein historisch-kritischer Stadtrundgang im Bezirk Mitte_, hg. von Farafina e. V. Berlin-Moabit. Berlin: Metropol-Verlag, 2021: 168-175. Das ergibt auch eine systematische Durchsicht der Geschäftsberichte zwischen 1890 und 1914.
 
-[^8]: Vgl. unter anderem Gissibl, Bernhard. _The nature of German imperialism: conservation and the politics of wildlife in colonial East Africa_. The environment in history : international perspectives, Volume 9. New York: Berghahn Books, 2016; Domínguez, Lara, und Colin Luoma. “Decolonising Conservation Policy: How Colonial Land and Conservation Ideologies Persist and Perpetuate Indigenous Injustices at the Expense of the Environment”. _Land_ 9, Nr. 3 (2020). https://doi.org/10.3390/land9030065; Prendergast, David. “Colonial Wildlife Conservation and the Origins of the Society for the Preservation of the Wild Fauna of the Empire (1903-1914)”. _Oryx_ 37 (01.04.2003): 251-260. https://doi.org/10.1017/S0030605303000425; MacKenzie, John M. _The Empire of Nature: Hunting, Conservation, and British Imperialism_. Studies in Imperialism. Manchester (UK), New York (NY): St. Martin’s Press, 1997; Thompsell, Angela. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_, 2015.
+[^8]: Vgl. unter anderem Gissibl, Bernhard. _The nature of German imperialism: conservation and the politics of wildlife in colonial East Africa_. The environment in history : international perspectives, Volume 9. New York: Berghahn Books, 2016; Domínguez, Lara, und Colin Luoma. “Decolonising Conservation Policy: How Colonial Land and Conservation Ideologies Persist and Perpetuate Indigenous Injustices at the Expense of the Environment”. _Land_ 9, Nr. 3 (2020). https://doi.org/10.3390/land9030065; Prendergast, David. “Colonial Wildlife Conservation and the Origins of the Society for the Preservation of the Wild Fauna of the Empire (1903-1914)”. _Oryx_ 37 (01.04.2003): 251-260. https://doi.org/10.1017/S0030605303000425; MacKenzie, John M. _The Empire of Nature: Hunting, Conservation, and British Imperialism_. Studies in Imperialism. Manchester (UK), New York (NY): St. Martin’s Press, 1997; Thompsell, Angela. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke and New York: Palgrave Macmillan, 2015
 
 [^9]: Schillings, Carl Georg. _Mit Blitzlicht und Büchse_. Leipzig, 1905: 188.
 
@@ -533,7 +537,7 @@ Seit den 1960er Jahren traten zunehmend Züchtungen, also in Zoos gezeugte Nachk
 
 [^13]: Ames, Eric. _Carl Hagenbeck’s Empire of Entertainments_. Seattle: University of Washington Press, 2008: 28-29.
 
-[^14]: Vennen, Mareike. “Arbeitsbilder – Bilderarbeit. Die Herstellung und Zirkulation von Fotografien der Tendaguru-Expedition”. In _Dinosaurierfragmente. Zur Geschichte der Tendaguru-Expedition und ihrer Objekte – 1906-2018_, hg. von Ina Heumann, Holger Stoecker, Marco Tamborini, und Mareike Vennen. Göttingen: Wallstein, 2018: 56-75 (insbesondere 64).
+[^14]: Vennen, Mareike. “Arbeitsbilder – Bilderarbeit. Die Herstellung und Zirkulation von Fotografien der Tendaguru-Expedition”. In _Dinosaurierfragmente. Zur Geschichte der Tendaguru-Expedition und ihrer Objekte – 1906-2018_, hg. von Ina Heumann, Holger Stoecker, Marco Tamborini, Mareike Vennen. Göttingen: Wallstein, 2018: 56-75 (insbesondere 64).
 
 [^15]: Eipper, Paul. _Freund aller Tiere. Ein Fahrtenbuch voll bunter Abenteuer_. Berlin: Ullstein, 1937: 94-95.
 
@@ -545,7 +549,7 @@ Seit den 1960er Jahren traten zunehmend Züchtungen, also in Zoos gezeugte Nachk
 
 [^19]: Beispiele bei Heck, Lutz. “Auf Giraffenfang in Ostafrika”. In _Die Koralle_ 4, Nr. 10 (1928): 456-460; Heck, Lutz. “Als Tierfänger in Ostafrika. Die Tierfangexpedition des Zoologischen Gartens in Berlin”. In _Die Koralle_ 5, Nr. 2 (1929): 82-86; Heck, Lutz. “Als Tierfänger in Ostarfrika”. In _Die Kunst und ihre Welt_, Nr. Januar (1930): 8-11; Heck, Lutz. _Aus der Wildnis in den Zoo. Auf Tierfang in Ostafrika_. Berlin: Ullstein, 1930; Heck, Lutz. “Über Giraffen und Giraffenfang”. In _Atlantis. Länder, Völker, Reisen_ 3, Nr. 8 (1931): 458-466; Heck, Lutz. “Pavian-Fang in Abessinien”. In _Das Tier und wir_, Nr. 6 (1934): 1-6; Heck, Lutz. _Auf Tiersuche in weiter Welt_. Berlin: Paul Parey, 1941.
 
-[^20]: Dittrich, Lothar. “Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs: Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter und Gerhard Heindl (Hg.). Wien: Braumüller, 2007.
+[^20]: Dittrich, Lothar. “Der Import von Wildtieren nach Europa – Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, hg. von Helmut Pechlaner, Dagmar Schratter, Gerhard Heindl. Tiergarten Schönbrunn – Geschichte. Wien: Braumüller, 2007.
 
 [^21]: Blaszkiewitz, Bernhard. “Beiträge zur Menschenaffenhaltung im Zoo Berlin nach 1945. 3. Mitteilung: Gorillas (Gorilla gorilla)”. _Der Zoologische Garten. Neue Folge 79_ (2010): 232-242.
 
