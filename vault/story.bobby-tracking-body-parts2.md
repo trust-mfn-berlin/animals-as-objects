@@ -3,7 +3,7 @@ license: CC BY-SA
 title: “Bobby”. Tracking Body Parts
 title_de: “Bobby”. Eine Fundgeschichte
 created: 1640338390195
-updated: 1641147541233
+updated: 1641147769514
 id: 05XnJBaPUmIcfTWa4WMyb
 author: Mareike Vennen
 translators:
@@ -203,9 +203,9 @@ As the example of the Anatomical Collection at Charité Hospital shows, anatomic
 
 [^18]: The photographs are now housed Berlin Museum of Natural History’s archive. Because body parts have to be prepared quickly (especially in the hot August 1935), the photos were “only taken using the Leika, often in very unfavourable lighting conditions”. The photos were taken to document the procedure and were intended for internal use in order to illustrate the shapes and characteristics of specific body parts. The necropsy report also mentions film recordings, about which I have unfortunately not yet been able to find any information.
 
-[^19]: On the connection between human zoos and the racification of human bodies, see Lewerenz, Susann. “Völkerschauen und die Konstituierung rassifizierter Körper”. In _Marginalisierte Körper: Beiträge zur Soziologie und Geschichte des anderen Körpers_ ed. by Torsten Junge und Imke Schmincke. Münster: Unrast, 2007: 135–153. On the human zoos in Stellingen and Berlin, see Thode-Arora, Hilke. _Für fünfzig Pfennig um die Welt: Die Hagenbeckschen Völkerschauen_. Frankfurt a.M. et al.: Campus-Verlag, 1989; Maier-Wolthausen, Clemens. _Hauptstadt der Tiere._ Berlin: Ch. Links Verlag, 2019. On human remains in German collections, see, e.g., Förster, Larissa, and Holger Stoecker. _Haut, Haar und Knochen: Koloniale Spuren in naturkundlichen Sammlungen der Universität Jena_. Weimar: Verlag und Datenbank für Geisteswissenschaften, 2016; Stoecker, Holger et al. (ed.). _Sammeln, Erforschen, Zurückgeben? Menschliche Überreste aus der Kolonialzeit in akademischen und musealen Sammlungen._ Berlin: Ch. Links Verlag, 2013.
+[^19]: On the connection between human zoos and the racification of human bodies, see Lewerenz, Susann. “Völkerschauen und die Konstituierung rassifizierter Körper”. In _Marginalisierte Körper: Beiträge zur Soziologie und Geschichte des anderen Körpers_ Torsten Junge und Imke Schmincke (eds.). Münster: Unrast, 2007: 135–153. On the human zoos in Stellingen and Berlin, see Thode-Arora, Hilke. _Für fünfzig Pfennig um die Welt: Die Hagenbeckschen Völkerschauen_. Frankfurt a.M.: Campus-Verlag, 1989; Maier-Wolthausen, Clemens. _Hauptstadt der Tiere._ Berlin: Ch. Links Verlag, 2019. On human remains in German collections, see, e.g., Förster, Larissa, and Holger Stoecker. _Haut, Haar und Knochen: Koloniale Spuren in naturkundlichen Sammlungen der Universität Jena_. Weimar: Verlag und Datenbank für Geisteswissenschaften, 2016; Stoecker, Holger et al. (eds.). _Sammeln, Erforschen, Zurückgeben? Menschliche Überreste aus der Kolonialzeit in akademischen und musealen Sammlungen._ Berlin: Ch. Links Verlag, 2013.
 
-[^20]: Lange, Britta. _Echt Unecht Lebensecht: Menschenbilder im Umlauf_. Berlin: Kadmos, 2006: 243. Gräfe, Sophia. “Totenmaske für einen Fuchs”. In _Wissensdinge: Geschichten aus dem Naturkundemuseum_, ed. by Anita Hermannstädter, Ina Heumann, and Kerstin Pannhorst, 2nd ed. Berlin: Dietrich Reimer 2020: 192–193.
+[^20]: Lange, Britta. _Echt Unecht Lebensecht: Menschenbilder im Umlauf_. Berlin: Kadmos, 2006: 243. Gräfe, Sophia. “Totenmaske für einen Fuchs”. In _Wissensdinge: Geschichten aus dem Naturkundemuseum_, Anita Hermannstädter, Ina Heumann, and Kerstin Pannhorst (eds.), 2nd ed. Berlin: Dietrich Reimer 2020: 192–193.
 
 
  
