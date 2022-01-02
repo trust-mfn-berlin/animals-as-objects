@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Using Cycladophora
 title_de: Nutzung von Cycladophora
 created: 1624875395326
-updated: 1641165342784
+updated: 1641165552622
 id: TBi8fH-OIQRAoB-tG9ZY1
 author: Filippo Bertoni
 doi: 10.7479/64y2-m311/2
@@ -87,6 +87,6 @@ Auf diese Weise setzt sich das wissenschaftliche (Nach-)Leben von _Cycladophora 
 
 [^1]: Manche Wissenschaftler:innen scheinen jedoch ihre Zweifel zu haben, ob eine wirkliche Verbesserung von Klimamodellen und -vorhersagen ohne andere Formen und Methoden der Datenverarbeitung überhaupt gelingen kann. Siehe Bauer, P., Dueben, P.D., Hoefler, T. et al. “The digital revolution of Earth-system science”. _Nature Computational Science_ 1 (2021): 104–113. https://doi.org/10.1038/s43588-021-00023-0.
 
-[^2]: Hays, James D., John Imbrie, und Nicholas J. Shackleton. “Variations in the earth’s orbit: Pacemaker of the ice ages”. _Science_ 194 (1976): 1121–1132. https://doi.org/10.1126/science.194.4270.1121
+[^2]: Hays, James D., John Imbrie und Nicholas J. Shackleton. “Variations in the earth’s orbit: Pacemaker of the ice ages”. _Science_ 194 (1976): 1121–1132. https://doi.org/10.1126/science.194.4270.1121
 
 [^3]: Edwards, Paul. _A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming_. Cambridge (MA) und London: MIT press, 2010.
