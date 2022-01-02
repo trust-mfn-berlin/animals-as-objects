@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Photos with Lion Cubs
 title_de: Bilder mit Löwenbabys
 created: 1640340586550
-updated: 1641137527164
+updated: 1641137660629
 id: 4U5dFDf18mKRPdRnzu35p
 author: Mareike Vennen
 translators:
@@ -264,7 +264,7 @@ What connects them is what stays the same, a motif that can be traced through a 
  
 [^1]: See the Zoo Guides of 1936, 1938, and 1940; see also Heck, Ludwig. “Zootiere einst und jetzt”, January 1934, AZGB N 1/7. I am unaware of when exactly the photo booth at Berlin Zoo was opened. 
 
-[^2]: Zukowsky, Hildegard. “Löwenprinzchen”. CHITuMW, no. 6, 1 (1926): 132-134, quoted in: Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 291.
+[^2]: Zukowsky, Hildegard. “Löwenprinzchen”. _CHITuMW_ 1, no. 6 (1926): 132-134, quoted in: Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 291.
 
 [^3]: Each zoo dealt with the permission to take photos differently. While visitors in Leipzig, Halle, Berlin, and Vienna had to purchase a permit, visitors to other zoos could take photos free of charge. Cf. 40. Konferenz der Direktoren mitteleuropäischer Zoologischer Gärten in Breslau vom 23. bis 25. August 1928, AZGB V 1/10.
 
@@ -579,7 +579,7 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
  
  [^1]: Vgl. die Zooführer von 1936, 1938 und 1940; sowie Heck, Ludwig. “Zootiere einst und jetzt”, Januar 1934, AZGB N 1/7. Seit wann genau es im Berliner Zoo den Fotostand gab, ist mir nicht bekannt. 
 
-[^2]: Zukowsky, Hildegard. “Löwenprinzchen”. CHITuMW, Nr. 6, 1 (1926): 132-134, zit. nach: Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 291.
+[^2]: Zukowsky, Hildegard. “Löwenprinzchen”. _CHITuMW_ 1, Nr. 6 (1926): 132-134, zit. nach: Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 291.
 
 [^3]: Die Erlaubnis zum Fotografieren wurde in den Zoos verschieden gehandhabt. Während die Besucher:innen in Leipzig, Halle, Berlin und Wien eine Erlaubnis erwerben mussten, war das Fotografieren in anderen Zoos frei. Vgl. 40. Konferenz der Direktoren mitteleuropäischer Zoologischer Gärten in Breslau vom 23. bis 25. August 1928, AZGB V 1/10.
 
