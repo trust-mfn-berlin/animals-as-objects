@@ -7,7 +7,7 @@ short_desc_de: Habitate und Tierhandelsfirmen
 date_end: 1973-12-31T11:00:00.000Z
 published: false
 title: Catching Animals
-updated: 1640905365456
+updated: 1641151812398
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 translators:
   translator_de_en: ""
@@ -545,7 +545,7 @@ Seit den 1960er Jahren traten zunehmend Züchtungen, also in Zoos gezeugte Nachk
 
 [^19]: Beispiele bei Heck, Lutz. “Auf Giraffenfang in Ostafrika”. In _Die Koralle_ 4, Nr. 10 (1928): 456-460; Heck, Lutz. “Als Tierfänger in Ostafrika. Die Tierfangexpedition des Zoologischen Gartens in Berlin”. In _Die Koralle_ 5, Nr. 2 (1929): 82-86; Heck, Lutz. “Als Tierfänger in Ostarfrika”. In _Die Kunst und ihre Welt_, Nr. Januar (1930): 8-11; Heck, Lutz. _Aus der Wildnis in den Zoo. Auf Tierfang in Ostafrika_. Berlin: Ullstein, 1930; Heck, Lutz. “Über Giraffen und Giraffenfang”. In _Atlantis. Länder, Völker, Reisen_ 3, Nr. 8 (1931): 458-466; Heck, Lutz. “Pavian-Fang in Abessinien”. In _Das Tier und wir_, Nr. 6 (1934): 1-6; Heck, Lutz. _Auf Tiersuche in weiter Welt_. Berlin: Paul Parey, 1941.
 
-[^20]: Dittrich, Lothar. “Der Import von Wildtieren nach Europa – Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, hg. von Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl. Tiergarten Schönbrunn – Geschichte. Wien: Braumüller, 2007.
+[^20]: Dittrich, Lothar. “Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs: Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter und Gerhard Heindl (Hg.). Tiergarten Schönbrunn – Geschichte. Wien: Braumüller, 2007.
 
 [^21]: Blaszkiewitz, Bernhard. “Beiträge zur Menschenaffenhaltung im Zoo Berlin nach 1945. 3. Mitteilung: Gorillas (Gorilla gorilla)”. _Der Zoologische Garten. Neue Folge 79_ (2010): 232-242.
 
