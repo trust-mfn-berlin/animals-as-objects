@@ -5,7 +5,7 @@ desc: |-
   The history of the horseshoe crab traverses a range of collecting sites
   and scientific spaces, and shows how they have changed the worlds of both
   people and animals.
-updated: 1641156040008
+updated: 1641156339272
 created: 1640281603094
 license: CC BY-SA
 title_de: The Worlds We Make
@@ -69,7 +69,7 @@ Organs have been removed from other animals and prepared as individual specimens
 
 <figcaption>
 
-_In this specimen, the heart and vessels of a horseshoe crab have been isolated. This animal came from the (Berlin?) Aquarium and was probably part of the [[_Zoological Teaching Collection_|story.history-of-the-zoological-teaching-collection]] to begin with. It is now stored at the Museum of Natural History Berlin. (MfN, ZMB 32114. Image: Carola Radke/MfN. All rights reserved.)_
+_In this specimen, the heart and vessels of a horseshoe crab have been isolated. This animal came from the (Berlin?) Aquarium and was probably part of the Zoological Teaching Collection to begin with. It is now stored at the Museum of Natural History Berlin. (MfN, ZMB 32114. Image: Carola Radke/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -115,9 +115,9 @@ _Label on the specimen from the Zoological Institute, which now bears inventory 
 
 </figure>
 
-The Zoological Institute should not be confused with the collection of the Zoological Museum, which laid the foundations for today’s Museum of Natural History collection, where these specimens are currently stored. Both institutions were part of Friedrich Wilhelm University, where they were first housed in the main building until they moved to the newly built Museum of Natural History on Invalidenstraße in 1888 and 1889 respectively. However, even though they shared a roof, they largely worked independently of each other, as their functions and tasks, and therefore the structure and holdings of their collections, differed markedly. While the Zoological Museum had a research collection that served scientific purposes, the Zoological Institute was responsible for training students and arranged its teaching collection accordingly (see [[story.history-of-the-zoological-teaching-collection]]). The fact that the specimen with its nervous system exposed initially belonged to the Zoological Institute is verified by the institution’s label, on which the museum’s inventory number was noted much later. How did the specimen make its way into the Zoological Teaching Collection and from there into the Museum of Natural History’s research collection? 
+The Zoological Institute should not be confused with the collection of the Zoological Museum, which laid the foundations for today’s Museum of Natural History collection, where these specimens are currently stored. Both institutions were part of Friedrich Wilhelm University, where they were first housed in the main building until they moved to the newly built Museum of Natural History on Invalidenstraße in 1888 and 1889 respectively. However, even though they shared a roof, they largely worked independently of each other, as their functions and tasks, and therefore the structure and holdings of their collections, differed markedly. While the Zoological Museum had a research collection that served scientific purposes, the Zoological Institute was responsible for training students and arranged its [[teaching collection|story.history-of-the-zoological-teaching-collection]] accordingly. The fact that the specimen with its nervous system exposed initially belonged to the Zoological Institute is verified by the institution’s label, on which the museum’s inventory number was noted much later. How did the specimen make its way into the Zoological Teaching Collection and from there into the Museum of Natural History’s research collection? 
 
-In the teaching collection, the first catalogues from the 19th century provide evidence of how limulus specimens were acquired (see [[story.inventory-books]]). At that time, science had been familiar with horseshoe crabs for quite some time; there are pictures and descriptions of them that date back as far as the 16th century. However, the animals that had been available to teaching and research had mainly been dead specimens in a preserved state. According to the inventory catalogues, for example, the Zoological Institute purchased limulus specimens from the Berlin natural history dealer Linnaea and the Hamburg company J.F.G. Umlauff.[^2]
+In the teaching collection, the [[first catalogues|story.inventory-books]] from the 19th century provide evidence of how limulus specimens were acquired. At that time, science had been familiar with horseshoe crabs for quite some time; there are pictures and descriptions of them that date back as far as the 16th century. However, the animals that had been available to teaching and research had mainly been dead specimens in a preserved state. According to the inventory catalogues, for example, the Zoological Institute purchased limulus specimens from the Berlin natural history dealer Linnaea and the Hamburg company J.F.G. Umlauff.[^2]
 
 <figure>
 
@@ -137,7 +137,7 @@ _In its 1900 sea life sales catalogue, the Hamburg natural history dealer J.F.G.
 
 </figure>
 
-In the 19th century, as the practice of keeping animals in aquariums spread from the English coast throughout Europe and shortly afterwards to the US, which led to the founding of a number of public aquariums in the 1860s, they became further sources for zoological teaching and research collections. More and more sea creatures that were not endemic to European waters were being imported live[^3], including horseshoe crabs. Of the four surviving species, three live in the Indo-Pacific waters of South East Asia[^4], while the species _Limulus polyphemus_ (Linnaeus, 1758) can be found in the West Atlantic and along the east coast of North and Central America (see [[story.moving-horseshoe-crabs]]). Most limuli in European aquariums come from the East Coast of the US, in particular from Delaware Bay in New Jersey.[^5] In Germany, the aquariums in Hamburg and Hanover were already showing horseshoe crabs from that region as early as in the mid-1860s[^6], as were the Unter den Linden Aquarium in Berlin and, from 1913, the aquarium at Berlin Zoo.[^7]
+In the 19th century, as the practice of keeping animals in aquariums spread from the English coast throughout Europe and shortly afterwards to the US, which led to the founding of a number of public aquariums in the 1860s, they became further sources for zoological teaching and research collections. More and more sea creatures that were not endemic to European waters were being imported live,[^3] including horseshoe crabs. Of the four surviving species, three live in the Indo-Pacific waters of South East Asia[^4], while the species _Limulus polyphemus_ (Linnaeus, 1758) can be found in the West Atlantic and along the east coast of North and Central America (see [[story.moving-horseshoe-crabs]]). Most limuli in European aquariums come from the East Coast of the US, in particular from Delaware Bay in New Jersey.[^5] In Germany, the aquariums in Hamburg and Hanover were already showing horseshoe crabs from that region as early as in the mid-1860s,[^6] as were the Unter den Linden Aquarium in Berlin and, from 1913, the aquarium at Berlin Zoo.[^7]
 
 <figure>
 
