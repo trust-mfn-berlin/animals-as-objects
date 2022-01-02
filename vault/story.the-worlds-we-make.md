@@ -5,7 +5,7 @@ desc: |-
   The history of the horseshoe crab traverses a range of collecting sites
   and scientific spaces, and shows how they have changed the worlds of both
   people and animals.
-updated: 1641157767939
+updated: 1641157893006
 created: 1640281603094
 license: CC BY-SA
 title_de: The Worlds We Make
@@ -456,7 +456,7 @@ Verbindungen wie die hier geschilderten und die damit verknüpften Abhängigkeit
 
 [^9]: Vgl. Richter, Stefan. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität – ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ 37 (25. Februar 1999): 59-76, 64.
 
-[^10]: Dunlop, Jason A., Marlene S. Compton, und Anja Friederichs. “An Annotated Catalogue of the Horseshoe Crabs (Xiphosura) Held in the Museum für Naturkunde Berlin”. _Zoosystematics and Evolution_ 88, Nr. 2 (2012): 215-222, 215. https://doi.org/10.1002/zoos.201200018.
+[^10]: Dunlop, 2012, 215.
 
 [^11]: Die Nummern, die mit “48” beginnen, werden erst in jüngerer Zeit vergeben und zwar vornehmlich an ältere Exemplare, erklärt der Kurator der Spinnensammlung, Jason Dunlop.
 
@@ -476,7 +476,7 @@ Verbindungen wie die hier geschilderten und die damit verknüpften Abhängigkeit
 
 [^19]: Viele Museums- und Universitätssammlungen organisieren bis heute ihre Sammlungen nach der biologischen Systematik der Klasse, Ordnung, Familie, Gattung und Art, wenn auch der Umsetzung dieser systematischen Ordnung durch räumliche Beschränkungen oft Grenzen gesetzt sind. In der zweiten Hälfte des 19. Jahrhundert wurden im Zuge der Museumsreformbewegung viele Sammlungen der naturhistorischen Museen in Europa zweigeteilt - in eine öffentliche Schausammlung und eine nichtöffentliche Forschungssammlung. (Vgl. Nyhard, Lynn K. _Modern Nature. The Rise of the Biological Perspective in Germany_. Chicago: The University of Chicago Press, 2009; Köstering, Susanne. _Natur zum Anschauen: Das Naturkundemuseum des deutschen Kaiserreichs 1871-1914_. Köln u.a.: Böhlau, 2003.) 
 
-[^20]: Dies ist der Eintrag in Dunlop, Jason A., Marlene S. Compton, and Anja Friederichs. “An Annotated Catalogue of the Horseshoe Crabs (Xiphosura) Held in the Museum für Naturkunde Berlin”. _Zoosystematics and Evolution_ 88, Nr. 2 (2012): 215-222, 215. https://doi.org/10.1002/zoos.201200018.
+[^20]: Dies ist der Eintrag in Dunlop, 2012.
 
 [^21]: Durch die Untersuchungen von Howell im Jahr 1885 waren schon damals die Ähnlichkeiten zwischen der Gerinnung des Blutes beim Menschen und der Gerinnung der Hämolymphe (“Blut”) beim Limulus nachgewiesen worden. Doch erst 70 Jahre später wurden die Untersuchungen weiterverfolgt, als Bang 1956 eine bakterielle Infektion in einer Pfeilschwanzkrebs-Population beschrieb, die zur Gerinnung des Blutes führte. (Vgl. Liebsch, Manfred. “Die Geschichte der Validierung des LAL- Tests”. _ALTEX_ 12, Nr. 2 (1995): 76-80, 78.
 
