@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Of Disappearance and Rediscovery
 title_de: Vom Verschwinden und Wiederfinden
 created: 1640355738318
-updated: 1641060616453
+updated: 1641128357485
 id: OnYQIVhzHVPQr5cuuBtEO
 author: Mareike Vennen
 translators:
@@ -35,7 +35,7 @@ _Monitor lizard preserved in alcohol from the Herpetological Collection at the M
 
 </figure>
 
-ZMB 24220. This specimen of a Papua New Guinean monitor lizard at the Berlin Museum of Natural History was first entered in the Herpetological Collection’s inventory catalogue on 7 March 1914 as a specimen of _Varanus indicus_, the Western Pacific monitor lizard.[^1] After the Second World War, it was noted that the wet specimen had been lost: “Destroyed by the effects of war, 1.12.1950”. Astonishingly, the object then appeared in a catalogue a decade later: in 1961 someone records that the object had been lent to Dr Robert Mertens, curator at the Senckenberg Museum in Frankfurt am Main, for six years[^2]. After that, it once again disappeared for decades before being rediscovered in March 1990 by the collection caretaker Immo Tetzlaff. That same month, the animal was reclassified as a _Varanus salvadorii_, a Papuan monitor, by a curator from the Bonn Natural History Museum[^3] who was visiting the collection.
+ZMB 24220. This specimen of a Papua New Guinean monitor lizard at the Berlin Museum of Natural History was first entered in the Herpetological Collection’s inventory catalogue on 7 March 1914 as a specimen of _Varanus indicus_, the Western Pacific monitor lizard.[^1] After the Second World War, it was noted that the wet specimen had been lost: “Destroyed by the effects of war, 1.12.1950”. Astonishingly, the object then appeared in a catalogue a decade later: in 1961 someone records that the object had been lent to Dr Robert Mertens, curator at the Senckenberg Museum in Frankfurt am Main, for six years.[^2] After that, it once again disappeared for decades before being rediscovered in March 1990 by the collection caretaker Immo Tetzlaff. That same month, the animal was reclassified as a _Varanus salvadorii_, a Papuan monitor, by a curator from the Bonn Natural History Museum[^3] who was visiting the collection.
 
 Over the course of the 20th century, the specimen constantly switched between presence and absence – it had supposedly been destroyed, but was never lost, and is now available again. It was moved when the new wet collection was built in the east wing of the museum and had been lent out for several years. 
 
