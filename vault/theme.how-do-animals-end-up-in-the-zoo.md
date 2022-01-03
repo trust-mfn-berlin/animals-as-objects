@@ -7,7 +7,7 @@ short_desc_de: Politische, logistische und moralische Herausforderungen
 date_end: ""
 published: false
 title: How Do Animals End Up in the Zoo?
-updated: 1641212395856
+updated: 1641212555145
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 translators:
   translator_de_en: ""
@@ -131,7 +131,7 @@ First, however, awareness for this problem had to emerge. Between 1950 and 1952,
 
 <figcaption>
 
-_The hippos “Knautschke” (bottom), the young animal “Jette” (middle) and “Bulette” (top), around 1959. (AZGB, photo Hoppe. All rights reserved.)_
+_The hippos “Knautschke” (bottom), the young animal “Jette” (middle) and “Bulette” (top), around 1959. (AZGB, image: Hoppe. All rights reserved.)_
 
 </figcaption>
 
