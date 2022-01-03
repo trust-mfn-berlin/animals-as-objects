@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1641207897111
+updated: 1641207982751
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 translators:
@@ -86,7 +86,7 @@ _Data sheet; the information from the data sheet will later be entered in the co
 
 </figure>
 
-In this case, the bird had already been chipped for identification purposes while it was living at the Tierpark. This means that a transponder with a chip number on it (968000002487298) had been implanted into the bird at about the level of the trachea.[6] This number links the bird to the ZIMS (Zoological Information Management Software) database, which many zoos use to coordinate their breeding and zoo keeping practices (see [[material.species360]]). This digital repository is where you can find further information about the animal if the zoo in question has entered it. The transponder was removed during the preparation process, stored together with the data sheet, and then placed back into the prepared skin at the end, as it contains information about the (zoo) animal and is therefore considered part of it. It thus became part of the study skin and part of the scientific collection.
+In this case, the bird had already been chipped for identification purposes while it was living at the Tierpark. This means that a transponder with a chip number on it (968000002487298) had been implanted into the bird at about the level of the trachea.[^6] This number links the bird to the ZIMS (Zoological Information Management Software) database, which many zoos use to coordinate their breeding and zoo keeping practices (see [[material.species360]]). This digital repository is where you can find further information about the animal if the zoo in question has entered it. The transponder was removed during the preparation process, stored together with the data sheet, and then placed back into the prepared skin at the end, as it contains information about the (zoo) animal and is therefore considered part of it. It thus became part of the study skin and part of the scientific collection.
 
 <figure>
 
