@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1641207598489
+updated: 1641207790282
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 translators:
@@ -41,13 +41,13 @@ In autumn 2020 and spring 2021, our team observed and documented the preparation
 
 As our project investigates how zoo animals become collection items in natural history museums, recording this transformation seemed key, since it is a large part of making animals into objects in zoological collections. In order to do this, we visited preparator Christin Scheinpflug in her workshop over several months to track her work on this bird.[^2] Once the preparation was done, we were also able to look over the shoulder of collection caretaker Pascal Eckhoff as he entered information about the study skin into the database and registered it, officially making it part of the Bird Collection. 
 
-Whether Tierpark and Zoo animals are sent to the Museum für Naturkunde depends on a number of issues, like what kind of animals they are, which species they represent, whether the collection already has specimens of that species in good conditions, and how rare the species is. How well-preserved an animal's body is can also be crucial for deciding whether it will be prepared as a specimen, and how it will be stored at the Museum – whether as a skeleton or a study skin (with a partial skeleton) for the scientific collection, or as a taxidermy piece in the exhibition. 
+Whether Tierpark and Zoo animals are sent to the Museum für Naturkunde depends on a number of issues, like what kind of animals they are, which species they represent, whether the collection already has specimens of that species in good conditions, and how rare the species is. How well-preserved an animal’s body is can also be crucial for deciding whether it will be prepared as a specimen, and how it will be stored at the Museum – whether as a skeleton or a study skin (with a partial skeleton) for the scientific collection, or as a taxidermy piece in the exhibition. 
 
 In this case, the museum decided to prepare a study skin and a partial skeleton.[^3] Because a study skin is a scientific work material, it is important to utilise and preserve the original body parts. For this purpose, a study skin was made from the skin of the Jendaya parakeet together with its feathers, beak, legs, and feet (including its lower legs and foot bones), as well as its wings (including its falanx, forearm, and shoulder bones). As a result of this preparation, the bone structures that remain to prepare the skeleton are not complete, which is why what can be prepared is called a partial skeleton. In the case of our Jendaya parakeet, a partial skeleton was prepared using the cervical spine and the trunk skeleton left from the skin preparation.[^4] All other parts of the skeleton – the femurs, skull, falanxes, arms, and shoulders – remained in the study skin.
 
-The fact that an additional partial skeleton was preserved resulted from the decision to prepare a study skin. The preparation of study skins and partial skeletons, at least in ornithology, constitute a common preservation type. Because important parts of the skeleton like the skull and fibula are built into the skin, original parts must be used. The curator therefore has to decide whether they will produce a complete skeleton or a study skin with a partial skeleton before they begin the preparation process. In our case, the bird's ribs had already been opened up during the first dissection to extract the organs, which didn’t take place at the museum. Moreover, some of the chest muscles had been removed. 
+The fact that an additional partial skeleton was preserved resulted from the decision to prepare a study skin. The preparation of study skins and partial skeletons, at least in ornithology, constitute a common preservation type. Because important parts of the skeleton like the skull and fibula are built into the skin, original parts must be used. The curator therefore has to decide whether they will produce a complete skeleton or a study skin with a partial skeleton before they begin the preparation process. In our case, the bird’s ribs had already been opened up during the first dissection to extract the organs, which didn’t take place at the museum. Moreover, some of the chest muscles had been removed. 
 
-After being dissected, the bird was immediately deep frozen and tagged with the letters “MFN“ (Museum für Naturkunde Berlin). Between its arrival at the museum from the dissection lab and its preparation, the bird was stored in the freezer of the museum's preparation workshop – along with many other remains waiting to be prepared. The first step in the bird's scientific preparation took place in the dissection room of the Natural History Museum, where the animal's body was first thawed in a solution of salt and Supralan. After that, scientific data was collected, including data about the animal's dimensions, accession number, date of arrival, and chip number.[^5] The preparator entered this information into a data sheet. 
+After being dissected, the bird was immediately deep frozen and tagged with the letters “MFN“ (Museum für Naturkunde Berlin). Between its arrival at the museum from the dissection lab and its preparation, the bird was stored in the freezer of the museum’s preparation workshop – along with many other remains waiting to be prepared. The first step in the bird’s scientific preparation took place in the dissection room of the Natural History Museum, where the animal’s body was first thawed in a solution of salt and Supralan. After that, scientific data was collected, including data about the animal’s dimensions, accession number, date of arrival, and chip number.[^5] The preparator entered this information into a data sheet. 
 
 <figure>
 
@@ -67,7 +67,7 @@ _Data sheet and instruments for measuring the specimen, obtaining the skin, and 
 
 <figcaption>
 
-_Measuring the bird's body. (Image: Filippo Bertoni/MfN. All rights reserved.)_
+_Measuring the bird’s body. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 A data sheet is prepared for each animal, onto which information has been entered about materials, techniques, some key information about the bird, and the date of preparation. 
 
 </figcaption>
@@ -100,7 +100,7 @@ _This is how the transponder is stored until it is placed back into the study sk
 
 </figure>
 
-In order to prepare the study skin, the preparator first has to remove the skin using a scalpel and a pair of scissors in order to separate it from the flesh tissue. Afterwards, the skin is mechanically cleaned of fascia and fat remains. The muscles and tendons are then removed from the remaining bone structures (fibulas, skull, shoulder and forearm) – this process is also referred to as cleaning or “defleshing”. Removing the fat and fascia from the skin and defleshing the bones is an important part of the preparator's work, as the smell of fat and tissue remains attracts insects, which can ultimately damage the study skin in the collection by feeding on ill-prepared specimens.
+In order to prepare the study skin, the preparator first has to remove the skin using a scalpel and a pair of scissors in order to separate it from the flesh tissue. Afterwards, the skin is mechanically cleaned of fascia and fat remains. The muscles and tendons are then removed from the remaining bone structures (fibulas, skull, shoulder and forearm) – this process is also referred to as cleaning or “defleshing”. Removing the fat and fascia from the skin and defleshing the bones is an important part of the preparator’s work, as the smell of fat and tissue remains attracts insects, which can ultimately damage the study skin in the collection by feeding on ill-prepared specimens.
 
 <figure>
 
@@ -108,7 +108,7 @@ In order to prepare the study skin, the preparator first has to remove the skin 
 
 <figcaption>
 
-_The museum preparator Christin Scheinpflug examines the bird's body. (Image: Filippo Bertoni/MfN. All rights reserved.)_
+_The museum preparator Christin Scheinpflug examines the bird’s body. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -142,7 +142,7 @@ _During the tanning process, the pores are softened in a lye solution and a tann
 
 </figure>
 
-While the bird's skin was tanning, Christin Scheinpflug prepared the artificial body to which the study skin would later be attached, crafting it out of wood wool, a natural material long used in this process. She compressed and wrapped the wood wool tightly using cotton thread, allowing a solid artificial body shape to take form, over which she would later pull the tanned skin, to keep it from folding on itself and give it shape. 
+While the bird’s skin was tanning, Christin Scheinpflug prepared the artificial body to which the study skin would later be attached, crafting it out of wood wool, a natural material long used in this process. She compressed and wrapped the wood wool tightly using cotton thread, allowing a solid artificial body shape to take form, over which she would later pull the tanned skin, to keep it from folding on itself and give it shape. 
 
 <figure>
 
@@ -158,7 +158,7 @@ _The artificial body for the study skin is made from wood wool and wire by compa
 
 The preparator marked the places on the wood wool body where the wings and lower legs would later be attached. With a stronger cotton thread, she sewed the wood wool body at one end and fixed the neck to it, which was made of wrapped cotton wool instead of wood wool (for more flexibility). 
 
-For the final steps – assembling the bird, sewing it up, and putting the feathers in place – we moved from the dissection room to Christin Scheinpflug's workplace in the museum's preparation workshop. The assembly process always begins with the wiring of the wing bones and fibulas. A wire is wrapped tightly around the bones using a cotton thread, so that the bones can later be anchored in the wood wool body. Afterwards, the preparator pulled the tanned skin over the artificial body and connected the bird's neck and skull using a wire. She also applied Dexintron in some places to stabilise the connection between the skull and the neck. Afterwards, the preparator inserted the wing bones including the wire into the artificial body and anchored it within it, then did the same to the lower legs. She subsequently sewed the skin to the wood wool body.[^8] As she sewed, she also placed the transponder that had been removed back into the chest area of the wood wool body. 
+For the final steps – assembling the bird, sewing it up, and putting the feathers in place – we moved from the dissection room to Christin Scheinpflug’s workplace in the museum’s preparation workshop. The assembly process always begins with the wiring of the wing bones and fibulas. A wire is wrapped tightly around the bones using a cotton thread, so that the bones can later be anchored in the wood wool body. Afterwards, the preparator pulled the tanned skin over the artificial body and connected the bird’s neck and skull using a wire. She also applied Dexintron in some places to stabilise the connection between the skull and the neck. Afterwards, the preparator inserted the wing bones including the wire into the artificial body and anchored it within it, then did the same to the lower legs. She subsequently sewed the skin to the wood wool body.[^8] As she sewed, she also placed the transponder that had been removed back into the chest area of the wood wool body. 
 
 <figure>
 
@@ -206,7 +206,7 @@ _Blow-drying and arranging the feathers. (Images: Filippo Bertoni/MfN. All right
 
 </figure>
 
-In order to produce a partial skeleton, the original bird body now has to be completely “defleshed”, but, unlike the skull bones, it will not be placed back inside the study skin. The defleshed bird body was then placed in a salt solution to “bleed” it. Due to the size of the bird's body, the preparator decided to clean the bones by enlisting the help of dermastid beetles. This meant placing the various parts of the skeleton into a container filled with dermestid beetles in a warming cabinet for several days.[^9] These scavenger beetles do not leave any tissue on the bones. 
+In order to produce a partial skeleton, the original bird body now has to be completely “defleshed”, but, unlike the skull bones, it will not be placed back inside the study skin. The defleshed bird body was then placed in a salt solution to “bleed” it. Due to the size of the bird’s body, the preparator decided to clean the bones by enlisting the help of dermastid beetles. This meant placing the various parts of the skeleton into a container filled with dermestid beetles in a warming cabinet for several days.[^9] These scavenger beetles do not leave any tissue on the bones. 
 
 <figure>
 
@@ -220,7 +220,7 @@ _Producing a partial skeleton inside a warming cabinet with the help of dermesti
 
 </figure>
 
-Afterwards, the skeleton was frozen once more (in order to kill any remaining beetles on or inside the bones), defatted, and bleached. It was then ready for the collection. We accompanied Christin Scheinpflug with the study skin, the partial skeleton, and the data sheet from the museum's preparation workshops to the Bird Collection.
+Afterwards, the skeleton was frozen once more (in order to kill any remaining beetles on or inside the bones), defatted, and bleached. It was then ready for the collection. We accompanied Christin Scheinpflug with the study skin, the partial skeleton, and the data sheet from the museum’s preparation workshops to the Bird Collection.
 
 <figure>
 
@@ -234,7 +234,7 @@ _Study skins on their way into the collection (MfN, image: Mareike Vennen. All r
 
 </figure>
 
-There, collection caretaker Pascal Eckhoff entered the information from the data sheet into the digital collection database[^10], where we saw that this animal was not the first specimen of _Aratinga jandaya_ in the museum's Bird Collection. In 1895 and 1923, the collection had received two other specimens for its study skin collection. Moreover, the Ornithological Collection also contains other Jendaya parakeets preserved in alcohol as well as a skeleton. 
+There, collection caretaker Pascal Eckhoff entered the information from the data sheet into the digital collection database[^10], where we saw that this animal was not the first specimen of _Aratinga jandaya_ in the museum’s Bird Collection. In 1895 and 1923, the collection had received two other specimens for its study skin collection. Moreover, the Ornithological Collection also contains other Jendaya parakeets preserved in alcohol as well as a skeleton. 
 
 <figure>
 
@@ -278,7 +278,7 @@ _Storing and classifying the partial skeleton in the collection. (MfN, image: Ma
 
 [^2]: The various preparation steps often do not take place all at once, but with interruptions, meaning that the process can stretch out over several weeks or months. We would like to thank Christin Scheinpflug for letting us take part in the process, for answering our numerous questions, and for providing us with all information needed. 
 
-[^3]: Unlike a taxidermy, a study skin has the feathers, beak, legs, and feet attached to it and is pulled over an artificial replica of the animal's body. It can be stored in a drawer. In today's scientific collections, study skins are the main type of specimen used. On working in and with the Bird Collection at the Berlin Museum of Natural History, see Frahnert, Silke, M. Päckert, D. T. Tietze, and T. Töpfer. “Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie.” _Vogelwarte_ 51, no. 3 (2013): 185–191. 
+[^3]: Unlike a taxidermy, a study skin has the feathers, beak, legs, and feet attached to it and is pulled over an artificial replica of the animal’s body. It can be stored in a drawer. In today’s scientific collections, study skins are the main type of specimen used. On working in and with the Bird Collection at the Berlin Museum of Natural History, see Frahnert, Silke, M. Päckert, D. T. Tietze, and T. Töpfer. “Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie.” _Vogelwarte_ 51, no. 3 (2013): 185–191. 
 
 [^4]: The torso skeleton is made up of the thoracic vertebrae, the ribs, the sternum, the furcula, the coracoid, the shoulder blades, the thigh, the lumbar vertebrae, the pelvis, and the caudal vertebrae. 
 
@@ -562,7 +562,7 @@ _Einordnen des Teilskelett in die Sammlung. (Foto: Mareike Vennen. Alle Rechte v
 
 [^7]: Da die Gerbung ein recht aufwendiger Prozess ist, werden meist mehrere Vögel derselben Größe gleichzeitig gegerbt, weshalb dieser Schritt eine längere (Warte-)Zeit in Anspruch nehmen kann. 
 
-[^8]: Der/die Kurator:in kann entscheiden, ob beim Balg die Flügel auf- oder zugeklappt sein solle. Zu bedenken ist, dass der Balg nach dem Trocknen 'hart' ist, sodass er wieder aufgeweicht werden muss, um die Position zu verändern. 
+[^8]: Der/die Kurator:in kann entscheiden, ob beim Balg die Flügel auf- oder zugeklappt sein solle. Zu bedenken ist, dass der Balg nach dem Trocknen ‘hart’ ist, sodass er wieder aufgeweicht werden muss, um die Position zu verändern. 
 
 [^9]: Eine weitere Möglichkeit stellt die Mazeration mit Enzymen dar, bei der das Skelett zunächst mehrere Wochen lang in einer Weiche eingelegt wird, um den Fleischkörper zu entbluten und für die Enzyme vorzubereiten. Für die eigentliche Mazeration wird eine Lösung mit Enzym angesetzt, in die der Tierkörper eingelegt wird. Dieser Prozess findet je nach Enzym teilweise ebenfalls im Wärmeschrank statt. Hier zerfällt das Teilskelett in seine einzelnen Bestandteile, während bei der Speckkäfervariante Knochenstrukturen zusammenhängend bleiben.
 
