@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1640898697832
+updated: 1641207159620
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 translators:
@@ -318,9 +318,9 @@ Ob Tiere aus dem Tierpark oder Zoo in die Sammlung des Museums für Naturkunde e
 
 In diesem Fall entschied man sich für die Herstellung eines Vogelbalges und eines Teilskelettes.[^3] Da es sich bei einem Balg um wissenschaftliches Arbeitsmaterial handelt, ist es wichtig originale Körperteile zu nutzen und zu erhalten. Zu diesem Zweck wurde ein Balg aus der Haut des Jendayasittichs mit Gefieder, Schnabel, Beinen und Füßen (inklusive Unterschenkel- und Fußknochen) sowie den Flügeln (inklusive Hand-, Unterarm- und Oberarmknochen) angefertigt. Als Teilskelett werden Knochenstrukturen bezeichnet, die nicht komplett sind, das heißt es fehlen Bestandteile eines vollständigen Skeletts. Beim Jendayasittich wurde ein Teilskelett aus der Halswirbelsäule und dem Rumpfskelett angefertigt.[^4] Alle anderen Skelettteile – Unterschenkel, Schädel, Hand-, Arm- und Oberarmknochen – verbleiben im Vogelbalg.
 
-Dass hier zusätzlich ein Teilskelett angefertigt wurde, hing einerseits mit der Entscheidung für eine Balgpräparation zusammen. Balgpräparation und Teilskelettherstellung bilden zumindest in der Ornithologie eine Einheit. Da wichtige Skeletteile wie Schädel und Unterschenkel im Balg verbaut und somit Originalteile verwendet werden, muss sich der oder die Kustod:in vor der Präparation entweder für ein vollständiges Skelett oder einen Balg mit Teilskelett entscheiden. In diesem Fall waren dem Vogel bei der vorhergehenden Sektion bereits die Rippen geöffnet worden, um Organe zu entnehmen. Zusätzlich war ein Teil des Brustmuskels entfernt worden. 
+Dass hier zusätzlich ein Teilskelett angefertigt wurde, hing einerseits mit der Entscheidung für eine Balgpräparation zusammen. Balgpräparation und Teilskelettherstellung bilden zumindest in der Ornithologie eine Einheit. Da wichtige Skelettteile wie Schädel und Unterschenkel im Balg verbaut und somit Originalteile verwendet werden, muss sich der oder die Kustod:in vor der Präparation entweder für ein vollständiges Skelett oder einen Balg mit Teilskelett entscheiden. In diesem Fall waren dem Vogel bei der vorhergehenden Sektion bereits die Rippen geöffnet worden, um Organe zu entnehmen. Zusätzlich war ein Teil des Brustmuskels entfernt worden. 
 
-Nach der Sektion wurde der Vogel umgehend tiefgefroren und mit dem Vermerk "MFN" (Museum für Naturkunde Berlin) versehen. Vom Zeitpunkt der Überweisung aus der Sektion bis zur Präparation lagerte der Vogel im Tiefkühlschrank der Präparationswerkstatt des Museums. Der erste Schritt der wissenschaftlichen Präparation fand im Sektionsraum des Naturkundemuseums statt, wo der Tierkörper zunächst in einer Salz-Supralan-Lösung aufgetaut wurde. Anschließend wurden wissenschaftliche Daten zu dem Tier erhoben, darunter Körpermaße, Eingangsnummer, Eingangsdatum und Chipnummer.[^5] Diese Informationen übertrug die Präparatorin auf ein Datenblatt. 
+Nach der Sektion wurde der Vogel umgehend tiefgefroren und mit dem Vermerk “MFN” (Museum für Naturkunde Berlin) versehen. Vom Zeitpunkt der Überweisung aus der Sektion bis zur Präparation lagerte der Vogel im Tiefkühlschrank der Präparationswerkstatt des Museums. Der erste Schritt der wissenschaftlichen Präparation fand im Sektionsraum des Naturkundemuseums statt, wo der Tierkörper zunächst in einer Salz-Supralan-Lösung aufgetaut wurde. Anschließend wurden wissenschaftliche Daten zu dem Tier erhoben, darunter Körpermaße, Eingangsnummer, Eingangsdatum und Chipnummer.[^5] Diese Informationen übertrug die Präparatorin auf ein Datenblatt. 
 
 <figure>
 
@@ -360,7 +360,7 @@ _Datenblatt, dessen Informationen später in den Sammlungskatalog übertragen we
 
 </figure>
 
-In diesem Fall war der Vogel zudem bereits zu Lebzeiten im Tierpark zur Identifikation gechippt worden. Das bedeutet, in Höhe der Luftröhre wurde ein Transponder eingesetzt[6], auf dem sich eine Chipnummer befindet (968000002487298). Mit dieser Nummer wird man zur ZIMS-Datenbank (Zoological Information Management Software) weitergeleitet, mit der viele internationale Zoos ihre Zucht und Haltungspraktiken koordinieren (see [[material.species360]]). Hier erhält man weitere Informationen zum Tier, sofern der haltende Zoo sie eingetragen hat. Der Transponder wurde während der Präparation entfernt, mit dem Datenblatt aufbewahrt und am Ende – da er Informationen enthält und daher zum (Zoo-)Tier gehörig gilt – wieder in den Balg eingesetzt. Er wird damit Teil des Balgs und Teil der wissenschaftlichen Sammlung.
+In diesem Fall war der Vogel zudem bereits zu Lebzeiten im Tierpark zur Identifikation gechippt worden. Das bedeutet, in Höhe der Luftröhre wurde ein Transponder eingesetzt,[^6] auf dem sich eine Chipnummer befindet (968000002487298). Mit dieser Nummer wird man zur [[ZIMS-Datenbank|material.species360]] (Zoological Information Management Software) weitergeleitet, mit der viele internationale Zoos ihre Zucht und Haltungspraktiken koordinieren. Hier erhält man weitere Informationen zum Tier, sofern der haltende Zoo sie eingetragen hat. Der Transponder wurde während der Präparation entfernt, mit dem Datenblatt aufbewahrt und am Ende – da er Informationen enthält und daher zum (Zoo-)Tier gehörig gilt – wieder in den Balg eingesetzt. Er wird damit Teil des Balgs und Teil der wissenschaftlichen Sammlung.
 
 <figure>
 
