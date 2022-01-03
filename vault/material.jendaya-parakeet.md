@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1641207159620
+updated: 1641207598489
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 translators:
@@ -374,7 +374,7 @@ _So wird der Transponder aufbewahrt, bis er dem Balg am Ende eingesetzt wird. (F
 
 </figure>
 
-Um den Balg herzustellen, musste als erstes die Haut mit Hilfe von Skalpell und Schere abgezogen und dadurch vom sogenannten Fleischkörper getrennt werden. Anschließend wurde die Haut gereinigt, indem sie mechanisch von Bindegewebs- und Fettresten befreit wurde. Zusätzlich wurden die verbliebenen Knochenstrukturen (Unterschenkel, Schädel, Unter- und Oberarm) von Muskelfleisch und Sehen befreit – dieser Prozess wird auch als "Entfleischen" bezeichnet. Fett und Bindegewebe von der Haut zu entfernen und die Knochen zu entfleischen ist ein wichtiger Bestandteil der präparatorischen Arbeit, da durch den Geruch von Fett- und Fleischresten Insekten angelockt werden können, die den Balg in der Sammlung eventuell durch Fraß am Objekt schädigen.
+Um den Balg herzustellen, musste als erstes die Haut mit Hilfe von Skalpell und Schere abgezogen und dadurch vom sogenannten Fleischkörper getrennt werden. Anschließend wurde die Haut gereinigt, indem sie mechanisch von Bindegewebs- und Fettresten befreit wurde. Zusätzlich wurden die verbliebenen Knochenstrukturen (Unterschenkel, Schädel, Unter- und Oberarm) von Muskelfleisch und Sehen befreit – dieser Prozess wird auch als “Entfleischen” bezeichnet. Fett und Bindegewebe von der Haut zu entfernen und die Knochen zu entfleischen ist ein wichtiger Bestandteil der präparatorischen Arbeit, da durch den Geruch von Fett- und Fleischresten Insekten angelockt werden können, die den Balg in der Sammlung eventuell durch Fraß am Objekt schädigen.
 
 <figure>
 
@@ -480,7 +480,7 @@ _Trockenföhnen und Federn legen. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbeh
 
 </figure>
 
-Für die Herstellung des Teilskeletts musste nun auch der originale Vogelkörper vollständig "entfleischt" werden, der im Gegensatz zum Schädelknochen nicht wieder in den Balg eingeführt wird. Der vom Fleisch befreite Vogelkörper wurde anschließend zum sogenannten Entbluten in eine Salzlösung gelegt. Aufgrund der geringen Größe des Vogelkörpers entschied sich die Präparatorin für eine Knochenpräparation mit Hilfe von Speckkäfern. Hierbei werden die Skelettteile für mehrere Tage in einen Behälter mit Speckkäfern in einen erwärmten Schrank gelegt.[^9] Diese aasfressenden Insekten lassen kein Fleisch an den Knochen übrig. 
+Für die Herstellung des Teilskeletts musste nun auch der originale Vogelkörper vollständig “entfleischt” werden, der im Gegensatz zum Schädelknochen nicht wieder in den Balg eingeführt wird. Der vom Fleisch befreite Vogelkörper wurde anschließend zum sogenannten Entbluten in eine Salzlösung gelegt. Aufgrund der geringen Größe des Vogelkörpers entschied sich die Präparatorin für eine Knochenpräparation mit Hilfe von Speckkäfern. Hierbei werden die Skelettteile für mehrere Tage in einen Behälter mit Speckkäfern in einen erwärmten Schrank gelegt.[^9] Diese aasfressenden Insekten lassen kein Fleisch an den Knochen übrig. 
 
 <figure>
 
@@ -488,7 +488,7 @@ Für die Herstellung des Teilskeletts musste nun auch der originale Vogelkörper
 
 <figcaption>
 
-_Herstellung des Teilskelettes mithilfe von Speckkäfern in einem Wärmeschrank. (Image: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
+_Herstellung des Teilskelettes mithilfe von Speckkäfern in einem Wärmeschrank. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -534,7 +534,7 @@ _Etikett zur Identifizierung des Balgs. (Foto: Mareike Vennen. Alle Rechte vorbe
 
 </figure>
 
-Am Ende ist dieser Vogel unter der Inventarnummer ZMB 2021.171 in der Sammlungsdatenbank erfasst worden, während Balg und Teilskelett sind in einer Schublade in der wissenschaftlichen Sammlung eingeordnet worden sind und damit offiziell zu den Objekten des Berliner Naturkundemuseums gehören.
+Am Ende ist dieser Vogel unter der Inventarnummer ZMB 2021.171 in der Sammlungsdatenbank erfasst worden, während Balg und Teilskelett in einer Schublade in der wissenschaftlichen Sammlung eingeordnet worden sind und damit offiziell zu den Objekten des Berliner Naturkundemuseums gehören.
 
 <figure>
 
