@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Where the Rats Live
 title_de: Vom Ort der Ratten in Berlin
 created: 1640358221692
-updated: 1641209552577
+updated: 1641209889824
 id: WvlC2lzgJTGcErlbiCFEt
 author: Britta Lange, Mareike Vennen
 translators:
@@ -42,6 +42,7 @@ An introduction to audio stories about animals in Berlin from the project semina
 Berlin has always been teeming with rats. Where can we find their stories? In this introduction, Britta Lange and Mareike Vennen attempt to locate the places that resound with the squeaking of rats: databases for animal voices and specific spaces such as the Animal Anatomy Theatre (Tieranatomisches Theater) in today’s Berlin-Mitte, where public livestock dissections were once carried out. They look at these places using the concept of animal topography.[^1] 
 
 Animal topographies are site-specific explorations that view places where animals have played a special role in the past or present: spaces where animals are kept, and places that they have occupied. The audio stories that can be heard here started with theoretical and historical examinations of urban animal topographies and different forms of movement, tracing historical and current routes. The auditive hunt for clues leads through Berlin sites both known and unknown, where it explores relationships between humans and animals.
+
 This is an introduction to the audio stories about animals in Berlin that were played at Berlin’s Animal Anatomy Theatre between 4 October and 17 December 2021. They tell the stories of [[material.cat-colonies]], [[material.dead-animals]], [[material.berlin's-border-dogs]], and [[material.haunting-cattle]] .
 
 [^1]: You are listening to Britta Lange, Mareike Vennen, and Constantin Hühn (Audiokombinat). 

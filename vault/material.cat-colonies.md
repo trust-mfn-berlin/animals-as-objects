@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Cat Colonies
 title_de: "Katzen-Kolonien "
 created: 1640359483672
-updated: 1641209654786
+updated: 1641209872408
 id: fhaeI85XK03VOoIUROfG9
 author: Anne Hoffmann
 translators:
@@ -42,6 +42,7 @@ An audio piece from the project seminar “Animal Topographies” held at the In
 Animal topographies are site-specific explorations that view places where animals have played a special role in the past or present: spaces where animals are kept, and places that they have occupied. The audio stories that can be heard here started with theoretical and historical examinations of urban animal topographies and different forms of movement, tracing historical and current routes. The auditive hunt for clues leads through Berlin sites both known and unknown, where it explores relationships between humans and animals.
 
 Who knows where the wild cats live? Anne Hoffmann sets out on the trail of Berlin’s street cats and asks where they hide and gather, whom they belong to, and who they bother. She finds out that metropolitan habitats are becoming scarce – and not just for humans. Talks with staff at the Berlin Animal Shelter and a visit to a cat colony in Berlin-Pankow invite listeners to give more thought to how we want to coexist with others in this city.[^1] 
+
 Other audio pieces tell the stories of [[material.where-the-rats-live]], [[material.dead-animals]], [[material.berlin's-border-dogs]] und [[material.haunting-cattle]].
 
 [^1]: You are listening to an interview with Beate Kaminski, Press Officer of the Berlin Animal Shelter; Michael Breest, Animal Welfare Consultant at the Berlin Animal Shelter; and Andrea Damitz, Volunteer at Katzenschutz-AG.
