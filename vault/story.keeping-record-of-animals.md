@@ -7,7 +7,7 @@ short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
 date_end: 2021-10-25T08:44:25.273Z
 published: false
 title: Keeping Records of Animals
-updated: 1640910988749
+updated: 1641225895330
 id: zrAZZTgVehO9zeVbW4dMX
 translators:
   translator_de_en: Carla Welch
@@ -34,7 +34,7 @@ date_start: 1914-01-13T00:00:00.000Z
  
 <figure>
  
-![Hand-written page in a notebook with tattered edges containing a long list in old cursive handwriting with dates, species names, and sums of money on each row.](/images/noimage.png)
+![Hand-written page in a notebook with tattered edges containing a long list in old cursive handwriting with dates, species names, and sums of money on each row.](/images/mv/verzeichnis-mfn-hbsb-s-iii-zool-garten-bd-1.jpg)
 
  
 <figcaption>
@@ -177,7 +177,7 @@ The repercussions can still be felt today, not least in attempts to trace the or
  
 <figure>
  
-![Handgeschriebene Seite in einem Heft mit zerfledderten Kanten. Lange Liste in alter Schreibschrift mit Daten, Artnamen, und Geldbeträgen pro Zeile.](/images/noimage.png)
+![Handgeschriebene Seite in einem Heft mit zerfledderten Kanten. Lange Liste in alter Schreibschrift mit Daten, Artnamen, und Geldbeträgen pro Zeile.](/images/mv/verzeichnis-mfn-hbsb-s-iii-zool-garten-bd-1.jpg)
  
 <figcaption>
  
