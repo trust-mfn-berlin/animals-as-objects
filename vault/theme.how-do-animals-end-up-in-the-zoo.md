@@ -7,7 +7,7 @@ short_desc_de: Politische, logistische und moralische Herausforderungen
 date_end: ""
 published: false
 title: How Do Animals End Up in the Zoo?
-updated: 1640900088789
+updated: 1641210870362
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 translators:
   translator_de_en: ""
@@ -39,7 +39,7 @@ date_start: ""
 
 <figcaption>
 
-_The hippos “Knautschke” (bottom), the young animal “Jette” (middle) and “Bulette” (top), around 1959. (AZGB, photo Hoppe. All rights reserved.)_
+_The hippos “Knautschke” (bottom), the young animal “Jette” (middle) and “Bulette” (top), around 1959. (AZGB, image: Hoppe. All rights reserved.)_
 
 </figcaption>
 
@@ -97,7 +97,7 @@ _Arrival of new animals for the Berlin Aquarium, likely from a larger shipment a
 
 <figcaption>
 
-_Giraffe shipment for the zoo, 1928. (AZGB, photo Wolter. All rights reserved.)_
+_Giraffe shipment for the zoo, 1928. (AZGB, image: Wolter. All rights reserved.)_
 
 </figcaption>
 
@@ -235,7 +235,7 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 <figcaption>
 
-_Die Flusspferde “Knautschke” (unten), Jungtier “Jette” (mittig) und “Bulette” (oben), um 1959. (AZGB, Foto Hoppe. Alle Rechte vorbehalten.)_
+_Die Flusspferde “Knautschke” (unten), Jungtier “Jette” (mittig) und “Bulette” (oben), um 1959. (AZGB, : Hoppe. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -247,7 +247,7 @@ Zootiere haben bis heute unterschiedlichste Provenienzen. Sie gelangen mal durch
 
 ## Jagen und Schenken
 
-Zur Zeit der Gründung der ersten “modern” oder “wissenschaftlich” genannten Zoologischen Gärten insbesondere in Europa und Nordamerika etwa Mitte des 19. Jahrhunderts waren alle dort ausgestellten und nicht einheimischen Tiere [[Wildfänge|story.catching-animals]]. Die Jäger waren lokale Amateure oder Profis oder aber auch speziell ausgesandte Jäger, die entweder von einer Firma bezahlt wurden oder auf eigene Rechnung Tiere fingen und sie dann den Zoos anboten. Zwar stammten auch Tiere einheimischer Arten aus Wildfängen, oft aber dominierten hier bereits Zuchten aus den früher angelegten Menagerien der herrschaftlichen Anwesen oder frühen Tiersammlungen von Städten. Das betraf insbesondere Huftierarten, Fasane und einheimische Nagetiere.
+Zur Zeit der Gründung der ersten “modern” oder “wissenschaftlich” genannten zoologischen Gärten insbesondere in Europa und Nordamerika etwa Mitte des 19. Jahrhunderts waren alle dort ausgestellten und nicht einheimischen Tiere [[Wildfänge|story.catching-animals]]. Die Jäger waren lokale Amateure oder Profis oder aber auch speziell ausgesandte Jäger, die entweder von einer Firma bezahlt wurden oder auf eigene Rechnung Tiere fingen und sie dann den Zoos anboten. Zwar stammten auch Tiere einheimischer Arten aus Wildfängen, oft aber dominierten hier bereits Zuchten aus den früher angelegten Menagerien der herrschaftlichen Anwesen oder frühen Tiersammlungen von Städten. Das betraf insbesondere Huftierarten, Fasane und einheimische Nagetiere.
 
 Viele der nicht einheimischen Tiere in der Frühzeit der europäischen Zoos waren Geschenke durch die jeweils herrschenden Territorialfürsten. Diese wiederum hatten sie selbst von anderen Herrschern oder Staatsoberhäuptern geschenkt bekommen oder sie waren ihnen von Forschungsreisenden oder Adeligen überreicht worden. Jene hatten sie selbst gefangen oder gekauft. Insbesondere Schenkungen von Tieren waren stets mit politischen Gesten verbunden. Dem Besitz dieser Tiere wurde ein diplomatischer Wert zugeschrieben. Dieser Wert hing davon ab, wie selten oder gefährlich, wie groß oder schwer ein Tier war und ob es sich um eine Art handelte, die im Kontext europäischer Tiergeschenke bis dahin unbekannt gewesen war. Das hing damit zusammen, dass die Beschaffung jener Tiere oft hohe Kosten verursachte und die Tiere daher auch einen finanziellen Marktwert hatten, der durch den Akt des Schenkens in einen diplomatischen Wert übersetzt wurde.
 
@@ -293,7 +293,7 @@ _Ankunft von neuen Tieren für das Aquarium Berlin, vermutlich aus einem größe
 
 <figcaption>
 
-_Giraffentransport für den Zoo, 1928. (AZGB, Foto Wolter. Alle Rechte vorbehalten.)_
+_Giraffentransport für den Zoo, 1928. (AZGB, Foto: Wolter. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -307,7 +307,7 @@ Auch in deutschen Zoos wurde das Ausmaß des Artenrückgangs spürbar. Die Zoos 
 
 Letztlich setzte Mitte der 1970er Jahre das Übereinkommen über den internationalen Handel mit gefährdeten freilebenden Tieren und Pflanzen, die sogenannte Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES, oder auch Washingtoner Artenschutzabkommen), den Zoos in den allermeisten Fällen strenge Grenzen für den Kauf oder Tausch gefährdeter Tierarten. Zuvor hatte die Weltnaturschutzunion, die International Union for Conservation of Nature and Natural Resources (IUCN), sich dafür stark gemacht. Das Washingtoner Artenschutzabkommen war für Zoos daher ein Anlass, die seit Jahrzehnten durchgeführte Zucht eigener Tiernachkommen zu intensivieren.
 
-Dabei werden zwei unterschiedliche Kontexte der Zucht in Zoos deutlich. Mit verbesserten Haltungsbedingungen kam es in Zoos spätestens seit den 1880er Jahren zu zufälligen und erwünschten Nachzuchten. Diese bereicherten den Tierbestand ohne zusätzliche Kosten zu verursachen und konnten zudem mit anderen Zoos gegen andere begehrte Tiere getauscht werden. Um die Jahrhundertwende des 19. zum 20. Jahrhundert wurden solche Tauschgeschäfte noch per Handschlag zwischen den Zoodirektoren abgeschlossen.[^5] **Der Tausch von Tieren zwischen Zoos wurde für den Berliner Zoo nach dem Ende des Ersten Weltkriegs zur wichtigsten Quelle für Tiere, da Deutschland vom internationalen Tierhandel ausgeschlossen war und die Zoos wegen der Inflation über keine Mittel zum Tierkauf verfügten.** Der Geschäftsbericht des Berliner Zoos für das Jahr 1919 weist beispielsweise ausdrücklich darauf hin, dass Tiere nur durch den Tausch mit anderen deutschen Zoos erworben werden konnten. Das Ziel war, durch Zucht den Bestand zu erhalten. Auch in den folgenden Jahren werden nur zwischen deutschen Zoos getauschte Tiere erwähnt. Die Ausnahme bildet das Aquarium, welches 1920 eine Sendung aus dem New Yorker Zoo mit Pfeilschwanzkrebsen bekam. Aber auch diese waren ein Geschenk des dortigen Kollegen.[^6] Erst ab Ende der 1920er Jahre wurden ausweislich der [[Journale|material.journale-the-zoo-directory]] des Zoos wieder Tiere gekauft.
+Dabei werden zwei unterschiedliche Kontexte der Zucht in Zoos deutlich. Mit verbesserten Haltungsbedingungen kam es in Zoos spätestens seit den 1880er Jahren zu zufälligen und erwünschten Nachzuchten. Diese bereicherten den Tierbestand ohne zusätzliche Kosten zu verursachen und konnten zudem mit anderen Zoos gegen andere begehrte Tiere getauscht werden. Um die Jahrhundertwende des 19. zum 20. Jahrhundert wurden solche Tauschgeschäfte noch per Handschlag zwischen den Zoodirektoren abgeschlossen.[^5] **Der Tausch von Tieren zwischen Zoos wurde für den Berliner Zoo nach dem Ende des Ersten Weltkriegs zur wichtigsten Quelle für Tiere, da Deutschland vom internationalen Tierhandel ausgeschlossen war und die Zoos wegen der Inflation über keine Mittel zum Tierkauf verfügten.** Der Geschäftsbericht des Berliner Zoos für das Jahr 1919 weist beispielsweise ausdrücklich darauf hin, dass Tiere nur durch den Tausch mit anderen deutschen Zoos erworben werden konnten. Das Ziel war, durch Zucht den Bestand zu erhalten. Auch in den folgenden Jahren werden nur zwischen deutschen Zoos getauschte Tiere erwähnt. Die Ausnahme bildet das Aquarium, welches 1920 eine Sendung aus dem New Yorker Zoo mit [[Pfeilschwanzkrebsen|story.moving-horseshoe-crabs]] bekam. Aber auch diese waren ein Geschenk des dortigen Kollegen.[^6] Erst ab Ende der 1920er Jahre wurden ausweislich der [[Journale|material.journale-the-zoo-directory]] des Zoos wieder Tiere gekauft.
 
 Das Tauschsystem etablierte sich aber insgesamt im Laufe der ersten Hälfte des 20. Jahrhunderts so gut, dass zwischen den Tiergärten Deutschlands und Europas Angebotslisten für Tauschgeschäfte verschickt wurden. Im Archiv der Zoologischen Gärten Berlins finden sich unzählige “Angebotslisten” von Zoo und Tierpark. **Der Zoo führte einige Jahre eine ganze Reihe chronologisch geordneter Aktenhefter mit Tierangeboten und Tierwünschen. Seit 1955 tauschten auch die direkten Konkurrenten in Berlin – Zoo und Tierpark – Tiere aus.** Neben direkten Wünschen, die aus der Kenntnis des Tierbestandes des jeweils anderen Tiergartens ergaben, tauschten beide Gärten ebenso Wunschlisten und Angebotslisten aus.[^7] Natürlich wurde auch international getauscht.
 
