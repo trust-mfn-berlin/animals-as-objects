@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Haunting Cattle
 title_de: Spukendes Vieh
 created: 1640359539704
-updated: 1640898542166
+updated: 1641209409316
 id: AOZiyuOX6B0ntAdEoiiIi
 author: " Sophie-Marie Kaatsch"
 translators:
@@ -29,7 +29,7 @@ published: false
 
 <figcaption>
 
-_The street signs still remind of the former abattoir in Berlin. (Photo: Sophie-Marie Kaatsch. All rights reserved.)_
+_The street signs still remind of the former abattoir in Berlin. (Image: Sophie-Marie Kaatsch. All rights reserved.)_
 
 </figcaption>
 
@@ -46,7 +46,7 @@ From abattoir to luxury neighbourhood? Sophie-Marie Kaatsch takes a walk through
 Other audio pieces tell the stories of [[material.where-the-rats-live]], [[material.cat-colonies]], [[material.berlin's-border-dogs]], and [[material.dead-animals]].
 
 
-[^1]: You are listening to excerpts from Döblin, Alfred. _Berlin Alexanderplatz_ [1929]. Frankfurt am Main: Fischer Verlag, 2020: 151; Wolbt: “Der städtische Central-Viehhof in Berlin”. _Illustrierte Zeitung_ no. 2003. 19.11.1881: 445. 
+[^1]: You are listening to excerpts from Döblin, Alfred. _Berlin Alexanderplatz_. Frankfurt am Main: Fischer Verlag, 2020: 151; Wolbt: “Der städtische Central-Viehhof in Berlin”. _Illustrierte Zeitung_ no. 2003. 19.11.1881: 445. 
 
 :::DE:::
 
@@ -56,7 +56,7 @@ Other audio pieces tell the stories of [[material.where-the-rats-live]], [[mater
 
 <figcaption>
 
-_Die Straßenschilder erinnern noch an den ehemalischen Schlachthof. (Foto: Sophie-Marie Kaatsch. Alle Rechte vorbehalten.)_
+_Die Straßenschilder erinnern noch an den ehemaligen Schlachthof. (Foto: Sophie-Marie Kaatsch. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -72,4 +72,4 @@ Vom Schlachthof zum Luxuskiez? Sophie-Marie Kaatsch unternimmt einen Spaziergang
 
 Weitere Hörstücke erzählen vom [[Ort der Ratten in Berlin|material.where-the-rats-live]], von [[Katzen-Kolonien|material.cat-colonies]], [[Berliner Grenzhunden|material.berlin's-border-dogs]] und [[toten Tieren|material.dead-animals]].
 
-[^1]: Sie hören Auszüge aus Döblin, Alfred. _Berlin Alexanderplatz_ [1929]. Frankfurt am Main: Fischer Verlag, 2020: 151; Wolbt: “Der städtische Central-Viehhof in Berlin”. _Illustrirte Zeitung_ Nr. 2003. 19.11.1881: 445.
+[^1]: Sie hören Auszüge aus Döblin, Alfred. _Berlin Alexanderplatz_. Frankfurt am Main: Fischer Verlag, 2020: 151; Wolbt: “Der städtische Central-Viehhof in Berlin”. _Illustrirte Zeitung_ Nr. 2003. 19.11.1881: 445.
