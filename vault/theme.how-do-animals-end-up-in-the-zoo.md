@@ -7,7 +7,7 @@ short_desc_de: Politische, logistische und moralische Herausforderungen
 date_end: ""
 published: false
 title: How Do Animals End Up in the Zoo?
-updated: 1641212555145
+updated: 1641213330658
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 translators:
   translator_de_en: ""
@@ -175,7 +175,7 @@ _In the late 1990s, the Berlin Aquarium successfully bred jellyfish in these tan
 
 </figure>
 
-## Zoos between Pragmatism, Recreational Enterprise, and Strategies for Species Conservation
+## Zoos Between Pragmatism, Recreational Enterprise, and Strategies for Species Conservation
 
 The different sources of the animals determine the various acquisition strategies and handling requirements for the institutions in question. These include issues concerning preparation, the logistics around the acquisition, as well as the labour and financial resources required. In addition to the regulatory approvals needed, equipping an independent collecting or trapping expedition requires a major initial financial investment. An animal donated or borrowed for breeding purposes must be housed and maintained. For breeding in zoos, the necessary biological and veterinary know-how must be at hand and, above all, there must be sufficient space. This is needed for larger social groups. This was and is also true when zoos bought or buy live animals. These requirements necessitate further financial resources. Today, it is fair to assume that the animal species, and individual groups of a species, that a zoo chooses to keep are compatible with the institution’s larger husbandry, education, exhibition or research strategy.
 
@@ -193,9 +193,9 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 [^1]: Zoological Garden Berlin. _Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin_ for the year 1907.
 
-[^2]: For an overview of the imports of non-native animal species, cf. Dittrich, Lothar. ”Der Import von Wildtieren nach Europa – Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, ed. by Helmut Pechlaner, Dagmar Schratter, and Gerhard Heindl. Tiergarten Schönbrunn – Geschichte, 3. Wien: Braumüller, 2007: 1-64.
+[^2]: For an overview of the imports of non-native animal species, cf. Dittrich, Lothar. ”Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter, and Gerhard Heindl (eds.). Wien: Braumüller, 2007: 1-64.
 
-[^3]: Klös, Heinz-Georg. “Tierfänger und Großtierhändler. Erinnerungen eines alten Tiergärtners, Teil I”. _Bongo_ 34 (2004): 3-42; and Klös, Heinz-Georg. “(…) Teil II”. _Bongo_ 35 (2005): 7-42.
+[^3]: Klös, Heinz-Georg. “Tierfänger und Großtierhändler: Erinnerungen eines alten Tiergärtners, Teil I”. _Bongo_ 34 (2004): 3-42; and Klös, Heinz-Georg. “(…) Teil II”. _Bongo_ 35 (2005): 7-42.
 
 [^4]: Minutes of meeting of the “Kommission für Tiergärten der DDR”, the Commission for Zoos of the GDR, on 23 and 24 March 1970 in Halle, 16.04.1970, AZGB, O 0/1/18; H. Dathe to the Ministry for Culture of the DDR, 10.12.1974, AZGB, O 0/1/206; Minutes of meeting of the Association of German Zoo Directors, 1962, Archive Tiergarten Schönbrunn (ATGS), Estate W. Fiedler, File “Verband Deutscher Zoodirektoren”, Nr. 2.
 
@@ -207,25 +207,25 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 [^8]: Tierpark Berlin, Press release Nr. 104/63, 28.12.1963, AZGB O 0/1/307. Direct quotes have been translated into English for clarity’s sake.
 
-[^9]: Kaiser, Rainer. “Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium?” In _Picassofisch und Kompassqualle. 100 Jahre Zoo-Aquarium Berlin_, ed. by Bernhard Blaszkiewitz, Berlin: Lehmanns, 2013: 214-239, 229, 232-235.
+[^9]: Kaiser, Rainer. “Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium?” In _Picassofisch und Kompassqualle. 100 Jahre Zoo-Aquarium Berlin_, Bernhard Blaszkiewitz (ed.), Berlin: Lehmanns, 2013: 214-239, 229, 232-235.
 
-[^10]: Heinroth, Katharina. _Mit Faltern begann’s. Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 174-175; Maier-Wolthausen, Clemens. _Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos_. Ed. by Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 151, 153; Blaszkiewitz, Bernhard. _Knautschke, Knut & Co: die Lieblingstiere der Berliner aus Tierpark und Zoo_. Berlin: Lehmanns Media, 2009: 11-18.
+[^10]: Heinroth, Katharina. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 174-175; Maier-Wolthausen, Clemens. _Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos_. Andreas Knieriem (ed.). Berlin: Ch. Links Verlag, 2019: 151, 153; Blaszkiewitz, Bernhard. _Knautschke, Knut & Co: Die Lieblingstiere der Berliner aus Tierpark und Zoo_. Berlin: Lehmanns Media, 2009: 11-18.
 
-[^11]: Cf. de Bont, Raf. “Extinct in the Wild. Finding a Place for the European Bison 1919-1952”. In _Spatializing the History of Ecology. Sites, Journeys, Mappings_, ed. by Raf de Bont and Jens Lachmund. Routledge Studies in the History of Science, Technology and Medicine. New York: Routledge, 2017; Bouman, Jan. “The history of breeding the Przewalski horse in captivity”. In _Breeding Przewalski Horses in captivity for release into the wild_, ed. by Jan Bouman, Inge Bouman, and Annette Groeneveld. Rotterdam: Foundation for the Preservation and Protection of the Przewalski Horse, 1982: 17-64  .
+[^11]: Cf. de Bont, Raf. “Extinct in the Wild: Finding a Place for the European Bison 1919-1952”. In _Spatializing the History of Ecology. Sites, Journeys, Mappings_, Raf de Bont and Jens Lachmund (eds.). New York: Routledge, 2017; Bouman, Jan. “The history of breeding the Przewalski horse in captivity”. In _Breeding Przewalski Horses in captivity for release into the wild_, Jan Bouman, Inge Bouman, and Annette Groeneveld (eds.). Rotterdam: Foundation for the Preservation and Protection of the Przewalski Horse, 1982: 17-64  .
 
-[^12]: Nicolodi, Sandra. “Nachzucht: eine relativ neue Sammelpraxis Zoologischer Gärten”. _Traverse: Zeitschrift für Geschichte = Revue d’histoire_ 19, Nr. 3 (2012): 91-105, 100. Direct quotes have been translated into English for clarity’s sake.
+[^12]: Nicolodi, Sandra. “Nachzucht: Eine relativ neue Sammelpraxis Zoologischer Gärten”. _Traverse: Zeitschrift für Geschichte = Revue d’histoire_ 19, Nr. 3 (2012): 91-105, 100. Direct quotes have been translated into English for clarity’s sake.
 
-[^13]: Kaiser, Rainer. “Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium?” In _Picassofisch und Kompassqualle. 100 Jahre Zoo-Aquarium Berlin_, ed. by Bernhard Blaszkiewitz, Berlin: Lehmanns, 2013: 214-239, 221.
+[^13]: Kaiser, Rainer. “Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium?” In _Picassofisch und Kompassqualle: 100 Jahre Zoo-Aquarium Berlin_, Bernhard Blaszkiewitz (ed.), Berlin: Lehmanns, 2013: 214-239, 221.
 
-[^14]: Meier, Jürg. _Handbuch Zoo: moderne Tiergartenbiologie_. 1. Edition. Bern, Stuttgart, Wien: Haupt Verlag, 2009: 115-120.
+[^14]: Meier, Jürg. _Handbuch Zoo: Moderne Tiergartenbiologie_. 1. Edition. Bern, Stuttgart, Wien: Haupt Verlag, 2009: 115-120.
 
-[^15]: Nicolodi, Sandra. “Nachzucht: eine relativ neue Sammelpraxis Zoologischer Gärten”. _Traverse: Zeitschrift für Geschichte = Revue d’histoire_ 19, Nr. 3 (2012): 91-105, 91 and 96.
+[^15]: Nicolodi, 2012: 91, 96.
 
-[^16]: Meier, Jürg. _Handbuch Zoo: moderne Tiergartenbiologie_. 1. Edition. Bern, Stuttgart, Wien: Haupt Verlag, 2009: 121. Direct quotes have been translated into English for clarity’s sake.
+[^16]: Meier, 2009: 121. Direct quotes have been translated into English for clarity’s sake.
 
-[^17]: Grajal, Alejandro, Jerry F. Luebke, and Lisa-Anne DeGregoria Kelly. “Why Zoos Have Animals: Exploring the Complex Pathway from Experiencing Animals to Pro-environmental Behaviors”. In _The Ark and Beyond: the Evolution of Zoo and Aquarium Conservation_, ed. by Ben A. Minteer, Jane Maienschein, James P. Collins, and George B. Rabb. Chicago: University of Chicago Press, 2018: 192-203.
+[^17]: Grajal, Alejandro, Jerry F. Luebke, and Lisa-Anne DeGregoria Kelly. “Why Zoos Have Animals: Exploring the Complex Pathway from Experiencing Animals to Pro-environmental Behaviors”. In _The Ark and Beyond: The Evolution of Zoo and Aquarium Conservation_, Ben A. Minteer, Jane Maienschein, James P. Collins, and George B. Rabb (eds.). Chicago: University of Chicago Press, 2018: 192-203.
 
-[^18]: Cf. Niekisch, Manfred, and Volker Sommer. “Artenschutz durch Zoos. Zwei Perspektiven”. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 31-38.
+[^18]: Cf. Niekisch, Manfred, and Volker Sommer. “Artenschutz durch Zoos: Zwei Perspektiven”. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 31-38.
 
 :::DE:::
 
