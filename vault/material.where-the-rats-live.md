@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Where the Rats Live
 title_de: Vom Ort der Ratten in Berlin
 created: 1640358221692
-updated: 1640913460152
+updated: 1641208920943
 id: WvlC2lzgJTGcErlbiCFEt
 author: Britta Lange, Mareike Vennen
 translators:
@@ -29,7 +29,7 @@ published: false
 
 <figcaption>
 
-_Poster of the project seminar „Animal Topographies“, design: Eileen Klingner._
+_Poster of the project seminar “Animal Topographies”, design: Eileen Klingner._
 
 </figcaption>
 
@@ -44,7 +44,7 @@ Berlin has always been teeming with rats. Where can we find their stories? In th
 Animal topographies are site-specific explorations that view places where animals have played a special role in the past or present: spaces where animals are kept, and places that they have occupied. The audio stories that can be heard here started with theoretical and historical examinations of urban animal topographies and different forms of movement, tracing historical and current routes. The auditive hunt for clues leads through Berlin sites both known and unknown, where it explores relationships between humans and animals.
 This is an introduction to the audio stories about animals in Berlin that were played at Berlin’s Animal Anatomy Theatre between 4 October and 17 December 2021. They tell the stories of [[material.cat-colonies]], [[material.dead-animals]], [[material.berlin's-border-dogs]], and [[material.haunting-cattle]] .
 
-[^1]: You are listening to Britta Lange, Mareike Vennen, and Constantin Hühn (combined audio). 
+[^1]: You are listening to Britta Lange, Mareike Vennen, and Constantin Hühn (Audiokombinat). 
 
 :::DE:::
 
@@ -54,7 +54,7 @@ This is an introduction to the audio stories about animals in Berlin that were p
 
 <figcaption>
 
-_Poster des Projektseminars „Tiertopografien“, Gestaltung: Eileen Klingner._
+_Poster des Projektseminars “Tiertopografien”, Gestaltung: Eileen Klingner._
 
 </figcaption>
 
