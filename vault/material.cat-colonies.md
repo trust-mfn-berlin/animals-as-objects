@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Cat Colonies
 title_de: "Katzen-Kolonien "
 created: 1640359483672
-updated: 1640913496566
+updated: 1641209654786
 id: fhaeI85XK03VOoIUROfG9
 author: Anne Hoffmann
 translators:
@@ -29,7 +29,7 @@ published: false
 
 <figcaption>
 
-_Feeding station at Katzenschutz-AG in Berlin Pankow. Strays are fed in the trap so that they get used to it. Photo: Anne Hoffmann. All rights reserved._
+_Feeding station at Katzenschutz-AG in Berlin Pankow. Strays are fed in the trap so that they get used to it. (Image: Anne Hoffmann. All rights reserved.)_
 
 </figcaption>
 
@@ -44,7 +44,8 @@ Animal topographies are site-specific explorations that view places where animal
 Who knows where the wild cats live? Anne Hoffmann sets out on the trail of Berlin’s street cats and asks where they hide and gather, whom they belong to, and who they bother. She finds out that metropolitan habitats are becoming scarce – and not just for humans. Talks with staff at the Berlin Animal Shelter and a visit to a cat colony in Berlin-Pankow invite listeners to give more thought to how we want to coexist with others in this city.[^1] 
 Other audio pieces tell the stories of [[material.where-the-rats-live]], [[material.dead-animals]], [[material.berlin's-border-dogs]] und [[material.haunting-cattle]].
 
-[^1]: You are listening to an interview with Beate Kaminski, Press Officer of the Berlin Animal Shelter; Michael Breest, Animal Welfare Consultant at the Berlin Animal Shelter; and Andrea Dawithz, Volunteer at Katzenschutz-AG.
+[^1]: You are listening to an interview with Beate Kaminski, Press Officer of the Berlin Animal Shelter; Michael Breest, Animal Welfare Consultant at the Berlin Animal Shelter; and Andrea Damitz, Volunteer at Katzenschutz-AG.
+
 :::DE:::
 
 <figure>
