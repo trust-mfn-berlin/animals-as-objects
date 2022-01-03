@@ -6,7 +6,7 @@ desc: |-
   University in Berlin are testament to war and the changes that took place in
   everyday life at the institution, in scientific approaches, and in lines of
   political conflict (within the university). 
-updated: 1640912404170
+updated: 1641230838493
 created: 1629792627920
 license: CC BY-SA
 title_de: Geschichte der Zoologischen Lehrsammlung
@@ -36,11 +36,22 @@ colour_scheme: 11
 
 :::EN:::
 
+<figure>
+
+![desc](/images/guests/iNVENTARE.jpg)
+
+<figcaption>
+
+_Inventories from the Zoological Teaching Collection of today’s Humboldt-Universität zu Berlin. (Image: Theresa Schatt. All rights reserved.)_
+
+
+</figcaption>
+
+</figure>
+
 What can we learn about the objects and history of an institution by reading a collection’s inventory books? How do a collection’s holdings reflect its historical development?
 
 The inventory books of the Zoological Teaching Collection of the former Friedrich Wilhelms University, now Humboldt University of Berlin, were once a fixed component of everyday life at the institute. From 1884, they documented the acquisition of zoological specimens, models, and wall charts, which were used as visual aids. At the same time, the [[story.inventory-books]] were used as a tool during the reorganisation of the collection. They have now long outlived their usefulness in this functional context, having been replaced by more efficient formats and media to organise information infrastructures, namely [[index cards|material.house-of-cards]]. Their significance is now primarily historical as they allow us to see the development of the collection holdings and implicitly refer to the history of the Zoological Institute, which was in charge of developing and managing the teaching collection.
-
-Abbildung der Inventare (???)
 
 A total of eight inventory books kept chronological records of specimens, models, and wall charts in a list with continuous numbering. The first inventory of specimens begins in the year the Zoological Institute was founded, 1884. It records not just the method of preservation and the Latin name but also information about where the object was acquired. The sources of the teaching collection’s holdings were manifold – from the items it collected and then preserved itself at the institute to purchases from established natural history traders like Linnaeus in Berlin or the Hamburg firm Umlauff, and donations that were made by natural history institutions, including the Zoological Museum, the anatomical-zootomical collection, and the Zoological Station in Naples. They let us trace the widely ramified network of natural history institutions that existed back then both in Berlin and beyond, a nexus of which the Zoological Institute also formed one part. In the early years after its founding, the holdings of the teaching collection comprised above all gifts from the zoological and anatomical-zootomical collections of the Royal Friedrich Wilhelms University in Berlin.[^1]
 
@@ -149,6 +160,19 @@ This discontinuity has inscribed itself into the corpus of the historical collec
 [^22]: Cf. Richter, 1999: 59-76, 65.
 
 :::DE:::
+
+<figure>
+
+![desc](/images/guests/iNVENTARE.jpg)
+
+<figcaption>
+
+_Historische Inventarbücher der Zoologischen Lehrsammlung der heutigen Humboldt-Universität zu Berlin. (Foto: Theresa Schatt. Alle Rechte vorbehalten.)_
+
+
+</figcaption>
+
+</figure>
 
 Was lässt sich aus den Inventarbüchern einer Sammlung über die Objekte und die Geschichte der Institution ablesen? Inwiefern spiegelt der Bestand einer Sammlung deren historische Entwicklung?
 Die Inventarbücher der Zoologischen Lehrsammlung der ehemaligen Friedrich-Wilhelms-Universität, heute Humboldt-Universität zu Berlin, waren einst fester Bestandteil des Institutsalltags. Sie dokumentierten ab 1884 die Beschaffung von zoologischen Präparaten, Modellen und Wandtafeln, die als Anschauungsmaterial im Lehrbetrieb eingesetzt wurden. Gleichzeitig dienten die [[story.inventory-books]] als Werkzeug bei Neuordnungsprozessen der Sammlung. In diesem funktionalen Zusammenhang haben sie mittlerweile längst ausgedient. Sie wurden durch effizientere Formate und Medien für die Organisation von Informationsinfrastrukturen ersetzt, und zwar durch [[Zettelkarten|material.house-of-cards]]. Inzwischen haben sie vor allem eine historische Bedeutung, da sie die Entwicklung des Sammlungsbestandes sichtbar machen und implizit auf die Geschichte des Zoologischen Instituts verweisen, das für den Aufbau und die Verwaltung der Lehrsammlung zuständig war.
