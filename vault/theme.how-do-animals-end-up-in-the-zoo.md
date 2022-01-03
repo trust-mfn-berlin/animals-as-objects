@@ -7,7 +7,7 @@ short_desc_de: Politische, logistische und moralische Herausforderungen
 date_end: ""
 published: false
 title: How Do Animals End Up in the Zoo?
-updated: 1641213330658
+updated: 1641213411265
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 translators:
   translator_de_en: ""
@@ -207,7 +207,7 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 [^8]: Tierpark Berlin, Press release Nr. 104/63, 28.12.1963, AZGB O 0/1/307. Direct quotes have been translated into English for clarity’s sake.
 
-[^9]: Kaiser, Rainer. “Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium?” In _Picassofisch und Kompassqualle. 100 Jahre Zoo-Aquarium Berlin_, Bernhard Blaszkiewitz (ed.), Berlin: Lehmanns, 2013: 214-239, 229, 232-235.
+[^9]: Kaiser, Rainer. “Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium?” In _Picassofisch und Kompassqualle: 100 Jahre Zoo-Aquarium Berlin_, Bernhard Blaszkiewitz (ed.), Berlin: Lehmanns, 2013: 214-239, 229, 232-235.
 
 [^10]: Heinroth, Katharina. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 174-175; Maier-Wolthausen, Clemens. _Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos_. Andreas Knieriem (ed.). Berlin: Ch. Links Verlag, 2019: 151, 153; Blaszkiewitz, Bernhard. _Knautschke, Knut & Co: Die Lieblingstiere der Berliner aus Tierpark und Zoo_. Berlin: Lehmanns Media, 2009: 11-18.
 
@@ -215,7 +215,7 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 [^12]: Nicolodi, Sandra. “Nachzucht: Eine relativ neue Sammelpraxis Zoologischer Gärten”. _Traverse: Zeitschrift für Geschichte = Revue d’histoire_ 19, Nr. 3 (2012): 91-105, 100. Direct quotes have been translated into English for clarity’s sake.
 
-[^13]: Kaiser, Rainer. “Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium?” In _Picassofisch und Kompassqualle: 100 Jahre Zoo-Aquarium Berlin_, Bernhard Blaszkiewitz (ed.), Berlin: Lehmanns, 2013: 214-239, 221.
+[^13]: Kaiser, 2013: 221.
 
 [^14]: Meier, Jürg. _Handbuch Zoo: Moderne Tiergartenbiologie_. 1. Edition. Bern, Stuttgart, Wien: Haupt Verlag, 2009: 115-120.
 
