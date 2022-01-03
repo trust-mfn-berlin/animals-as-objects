@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1641207982751
+updated: 1641208415283
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 translators:
@@ -234,7 +234,7 @@ _Study skins on their way into the collection (MfN, image: Mareike Vennen. All r
 
 </figure>
 
-There, collection caretaker Pascal Eckhoff entered the information from the data sheet into the digital collection database[^10], where we saw that this animal was not the first specimen of _Aratinga jandaya_ in the museum’s Bird Collection. In 1895 and 1923, the collection had received two other specimens for its study skin collection. Moreover, the Ornithological Collection also contains other Jendaya parakeets preserved in alcohol as well as a skeleton. 
+There, collection caretaker Pascal Eckhoff entered the information from the data sheet into the digital collection database,[^10] where we saw that this animal was not the first specimen of _Aratinga jandaya_ in the museum’s Bird Collection. In 1895 and 1923, the collection had received two other specimens for its study skin collection. Moreover, the Ornithological Collection also contains other Jendaya parakeets preserved in alcohol as well as a skeleton. 
 
 <figure>
 
@@ -278,7 +278,7 @@ _Storing and classifying the partial skeleton in the collection. (MfN, image: Ma
 
 [^2]: The various preparation steps often do not take place all at once, but with interruptions, meaning that the process can stretch out over several weeks or months. We would like to thank Christin Scheinpflug for letting us take part in the process, for answering our numerous questions, and for providing us with all information needed. 
 
-[^3]: Unlike a taxidermy, a study skin has the feathers, beak, legs, and feet attached to it and is pulled over an artificial replica of the animal’s body. It can be stored in a drawer. In today’s scientific collections, study skins are the main type of specimen used. On working in and with the Bird Collection at the Berlin Museum of Natural History, see Frahnert, Silke, M. Päckert, D. T. Tietze, and T. Töpfer. “Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie.” _Vogelwarte_ 51, no. 3 (2013): 185–191. 
+[^3]: Unlike a taxidermy, a study skin has the feathers, beak, legs, and feet attached to it and is pulled over an artificial replica of the animal’s body. It can be stored in a drawer. In today’s scientific collections, study skins are the main type of specimen used. On working in and with the Bird Collection at the Berlin Museum of Natural History, see Frahnert, Silke, M. Päckert, D. T. Tietze, and T. Töpfer. “Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie”. _Vogelwarte_ 51, no. 3 (2013): 185–191. 
 
 [^4]: The torso skeleton is made up of the thoracic vertebrae, the ribs, the sternum, the furcula, the coracoid, the shoulder blades, the thigh, the lumbar vertebrae, the pelvis, and the caudal vertebrae. 
 
