@@ -7,7 +7,7 @@ short_desc_de: noch nicht abgenommen
 date_end: ""
 published: false
 title: Logistical Metabolisms
-updated: 1641311598271
+updated: 1641311638483
 id: GkUgy87PFegTFmR0W1Z2Q
 desc: noch nicht abgenommen
 desc_de: noch nicht abgenommen
@@ -216,7 +216,7 @@ Wenn logistische Ströme unterbrochen werden, dann müssen auch Stoffwechselbezi
 
 <figure>
 
-![Ein Gemälde zeigt eine Ratte vor einem bräunlichen Hintergrund. Sie hängt kopfüber und ihr Schwanz ist mit einem Stück Schnur an einen Nagel gebunden.](images/mv/charpentier-rat.jpg)
+![Ein Gemälde zeigt eine Ratte vor einem bräunlichen Hintergrund. Sie hängt kopfüber und ihr Schwanz ist mit einem Stück Schnur an einen Nagel gebunden.](/images/mv/charpentier-rat.jpg)
 
 <figcaption>
 
