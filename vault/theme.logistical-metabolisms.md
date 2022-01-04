@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Logistical Metabolisms
 title_de: "Logistische Metabolismen "
 created: 1640459420576
-updated: 1641315210405
+updated: 1641315314831
 id: GkUgy87PFegTFmR0W1Z2Q
 author: Mareike Vennen, Filippo Bertoni
 translators:
@@ -155,7 +155,7 @@ But they didn’t stop there. In addition, a large part of the Jardin de Plantes
 
 [^18]: For the controversies concerning the Berlin Zoo, see AZGB O 0/1/274. A recent case that gained much attention happened in the Copenhagen Zoo, where a healthy 18-month-old male giraffe was dissected publicly with the meat then fed to the zoo’s lions. See, for instance, Smith, Roff. “Giraffe Killing at Copenhagen Zoo Sparks Global Outrage”. _National Geographic_ 12.02.2014: https://www.nationalgeographic.com/science/article/140210-giraffe-copenhagen-science. 
 
-[^19]: Maas, Wietske and Matteo Pasquinelli. “The City Devouring Itself: Urbanibalism in Times of World Wars, Insurgent Communes and Biopolitical Sieges”. In _Open_18: 2030 – War Zone Amsterdam, J. Seijdel and L. Melis (eds.). Rotterdam: NAi Publishers, 2009. http://matteopasquinelli.com/docs/Maas_Pasquinelli_City_Devouring_Itself.pdf. 
+[^19]: Maas, Wietske and Matteo Pasquinelli. “The City Devouring Itself: Urbanibalism in Times of World Wars, Insurgent Communes and Biopolitical Sieges”. In _Open #18. 2030: War Zone Amsterdam_, J. Seijdel and L. Melis (eds.). Rotterdam: NAi Publishers, 2009. http://matteopasquinelli.com/docs/Maas_Pasquinelli_City_Devouring_Itself.pdf. 
 
 [^20]: In fact, war is deeply entangled with logistics, as this practice emerges from the codification of military logistics, with their concern for feeding and transporting moving armies.
 
