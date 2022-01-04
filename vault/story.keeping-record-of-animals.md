@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Keeping Records of Animals
 title_de: Tiere verzeichnen
 created: 1635148858347
-updated: 1641301454024
+updated: 1641302362338
 id: zrAZZTgVehO9zeVbW4dMX
 author: Mareike Vennen
 translators:
@@ -52,7 +52,7 @@ But above all, lists like the “Register” are interesting in terms of what th
  
 ## Object Transfer and the Circulation of Lists
  
-In 1915, the zoo and Berlin’s Museum of Natural History were already able to look back on a good 70 years of shared history. Since their beginnings, they had been closely connected both institutionally and in terms of personnel, as can be seen in the example of zoologist Martin Hinrich Lichtenstein, who was the director of collections at the Zoological Museum from 1813 and, from 1844, the head of the recently opened zoo as well. The museum, which aimed to collect and catalogue the world’s fauna as exhaustively as possible, had been receiving numerous birds and mammals from the zoo since the very start. In 1913, when an aquarium was constructed at the zoo, they were joined by fish, insects, amphibians, and reptiles.
+In 1915, the Berlin Zoo and the Museum of Natural History were already able to look back on a good 70 years of shared history. Since their beginnings, they had been closely connected both institutionally and in terms of personnel, as can be seen in the example of zoologist Martin Hinrich Lichtenstein, who was the director of collections at the Zoological Museum from 1813 and, from 1844, the head of the recently opened zoo as well. The museum, which aimed to collect and catalogue the world’s fauna as exhaustively as possible, had been receiving numerous birds and mammals from the zoo since the very start. In 1913, when an aquarium was constructed at the zoo, they were joined by fish, insects, amphibians, and reptiles.
  
 The register provides an insight into the kinds of animals the Zoo Aquarium was keeping shortly after it opened in 1913. But this is just a snippet; more precise information about the aquarium’s animal holdings can be found in the zoo archive, which provides a much more complete picture. However, what the “Register of Delivered Animals” can give us is an impression of which aquarium animals made their way into the museum in 1914 after their deaths (meaning that they had apparently only survived at the aquarium for a brief period after its opening in 1913) – that is, which animals had an afterlife as collection items or exhibits, including olms, iguanas, snakes, and turtles. Indeed, the zoo and the adjoining aquarium were not the only sources of animals for the museum, which is also indicated by the number of animals that were transferred, which was not all that high. Some museum curators even preferred sourcing their material from expeditions, collectors, or from other museums – which we will come back to later. However, the local zoo at this time was, as in many other cities, an important source of animals and, vice versa, the museum was a regular recipient of animal cadavers. How did this kind of transfer take place back then? 
 
@@ -72,7 +72,7 @@ Compared with these lists, the information entered in invoices about the animals
  
 However, not all animal bodies that were listed were actually used. Some bearing the note “unusable” were not priced. It is no longer possible to reconstruct whether the note “unusable” was made in relation to the animal cadaver’s poor state of preservation or to the fact that the museum did not require the specimen in question.[^4] But what the invoices sent by the zoo to the museum illustrate is that negotiations and item inspections were taking place – and that there were also excess materials, like furs, skins, and skulls, that did not stay in the museum. [[story.die-ungezählten]]
  
-Whether a zoo animal could be used by the museum and which price was paid depended on various factors. For 1914 at least, we know that a dead zoo animal was appraised at ten per cent of the value of a live animal.[^5] The price that the museum was prepared to pay, however, also depended on the physical state of the animal and on its rarity. Whatever was rare was coveted, because endangerment and extinction produced a scarcity that increased the value of an animal or its species.[^6] When the zoo offered the museum the fur and skeleton of its last Père David’s deer in 1914[^7], for example, the museum valued it at 20 marks. Zoo Director Heck replied that the animal was worth at least 200 marks, because it had been:
+Whether a zoo animal could be used by the museum and which price was paid depended on various factors. For 1914 at least, we know that a dead zoo animal was appraised at ten per cent of the value of a live animal.[^5] The price that the museum was prepared to pay, however, also depended on the physical state of the animal and on its rarity. Whatever was rare was coveted, because endangerment and extinction produced a scarcity that increased the value of an animal or its species.[^6] When the zoo offered the museum the fur and skeleton of its last Père David’s deer in 1914,[^7] for example, the museum valued it at 20 marks. Zoo Director Heck replied that the animal was worth at least 200 marks, because it had been:
  
 >“the last Père David’s deer still living in a zoological garden. The fact that it is by all appearances a completely extinct animal in its home country is something of which you are just as aware as we. \[…] We would not have been surprised if you had set its value ten times higher, at M 200; for we do not believe that you will receive another Père David’s deer \[…].”[^8]
 
@@ -126,7 +126,7 @@ This is revealed once again by the elephant cow “Mary”, who came to the Zool
  
 >“It is highly unlikely that it will ever be possible to find the kind of precise information about the origins of this type of L.a.oxyotis [he means the Sudanese steppe elephant _Loxodonta africana oxyotis_] required by contemporary systematics for your examinations.”[^20]. 
  
-In the late 19th century, scientists still predominantly adhered to a systematics according to which _all_ of Africa’s steppe elephants (with two exceptions) were considered oxyotis. It was therefore almost impossible to clearly identify an animal or trace its precise location of capture. Here we see the historical changes that were taking place in taxonomic practice, mirroring the dynamics of research cultures and, not least, changing information infrastructures and methods of record-keeping. **What was a scientific obstacle for a museum became a primarily bureaucratic challenge for the zoo,** as searching for and compiling information about animals from earlier decades was extremely time-consuming research for zoo employees. To one of the numerous letters in which curator of mammals Hermann Pohle once again enquired into the origins of various animals, zoo employee Georg Steinbacher responded as follows: 
+In the late 19th century, scientists still predominantly adhered to a systematics according to which _all_ of Africa’s steppe elephants (with two exceptions) were considered _oxyotis_. It was therefore almost impossible to clearly identify an animal or trace its precise location of capture. Here we see the historical changes that were taking place in taxonomic practice, mirroring the dynamics of research cultures and, not least, changing information infrastructures and methods of record-keeping. **What was a scientific obstacle for a museum became a primarily bureaucratic challenge for the zoo,** as searching for and compiling information about animals from earlier decades was extremely time-consuming research for zoo employees. To one of the numerous letters in which curator of mammals Hermann Pohle once again enquired into the origins of various animals, zoo employee Georg Steinbacher responded as follows: 
 
 >“I have received your animal list and am quite horrified about how long it has become. It will take many days of strenuous work to compile the more precise information about the 180 animals it contains.”[^21]
  
@@ -274,7 +274,7 @@ Ende des 19. Jahrhunderts folgte man nämlich noch überwiegend einer Systematik
  
 Die Nachwirkungen sind bis heute spürbar, nicht zuletzt bei dem Versuch, die Herkunft und Geschichte von Zootieren zu rekonstruieren, die im frühen 20. Jahrhundert ins Museum gelangten. Das gilt für Sammlungskustod:innen ebenso wie für Historiker:innen – entweder sind nicht genügend Informationen auffindbar oder die konservierten Tiere warten noch auf eine Aufarbeitung. Es mag sich daher für die Sammlungskustod:innen im Jahr 2021 bisweilen ähnlich wie für Steinbacher 1935 anfühlen, wenn sie Anfragen zu Objekten in ihrer Sammlung erhalten. Beides, die Aufarbeitung vorhandener Bestände und die Inventarisierung neu eintreffender Objekte gehört jedenfalls weiterhin zu den unverzichtbaren, wenn auch wenig wahrgenommenen, mühsamen Arbeiten in Sammlungen – auch wenn heute die Abgaben zwischen Zoos und Museen vornehmlich in Datenbanken erfasst und wenn der damit verbundene Austausch von Informationen zwischen den Institutionen weitgehend digital verläuft. Ob aber analog oder digital, kein Zoo und kein Naturkundemuseum kommt ohne Listen, ohne die Verzeichnung seiner Tiere aus; und keine Geschichte, die die Beziehungen dieser Institutionen erforschen will, kommt um den archivierten Papierkram von damals herum. 
  
-[^1]: Im Zoologischen Museum überwogen Schenkungen bei weitem im Vergleich zu Ankäufen: 1902 verzeichnete das Museum 932 Schenkungen und 547 Ankäufe; 1908 waren es 2.413 Geschenk gegen 1.145 Ankäufe; 1913 standen 3.127 Schenkungen 870 Käufe gegenüber; vgl. Angermann, Renate. “Die Säugetierkollektion des Museums für Naturkunde der Humboldt- Universität zu Berlin”. _Säugetierkundliche Informationen_ 3, Nr. 13 (1989): 47-68.
+[^1]: Im Zoologischen Museum überwogen Schenkungen bei weitem im Vergleich zu Ankäufen: 1902 verzeichnete das Museum 932 Schenkungen und 547 Ankäufe; 1908 waren es 2.413 Schenkungen gegen 1.145 Ankäufe; 1913 standen 3.127 Schenkungen 870 Ankäufen gegenüber; vgl. Angermann, Renate. “Die Säugetierkollektion des Museums für Naturkunde der Humboldt-Universität zu Berlin”. _Säugetierkundliche Informationen_ 3, Nr. 13 (1989): 47-68.
  
 [^2]: K. A. Möbius an das Ministerium für geistliche Angelegenheiten, 27.2.1889, in: MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I, Bl. 25; Ludwig Heck an das Zoologische Museum 1.1.1890, in MfN, HBSB, Zool. Mus. S III, Zoolog. Garten, I, Bl. 32.
  
@@ -284,11 +284,11 @@ Die Nachwirkungen sind bis heute spürbar, nicht zuletzt bei dem Versuch, die He
  
 [^5]: Vgl. etwa L. Heck an A. Brauer, 10.06.1914, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I.
  
-[^6]: Zur Ökonomie der Knappheit am Beispiel des Handels mit Subfossilien vgl. Podgorny, Irina. “Recyclen. Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien_, hg. von Ina Heumann und Nils Güttler. Berlin: Kadmos 2016: 23-46.
+[^6]: Zur Ökonomie der Knappheit am Beispiel des Handels mit Subfossilien vgl. Podgorny, Irina. “Recyclen. Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien_, Ina Heumann und Nils Güttler (Hg.). Berlin: Kadmos 2016: 23-46.
  
 [^7]: Ursprünglich im östlichen Asien beheimatet, ist der Davidshirsch (_Elaphurus davidianus_) in freier Wildbahn spätestens seit dem 19. Jahrhundert ausgerottet und konnte nur durch Haltung in den kaiserlichen Gärten von Peking überleben. Nachdem französische, britische und deutsche Diplomaten aus der Herde von rund 120 Davidshirschen lebende Tiere geschenkt bekamen, wurden diese in europäische Zoos gebracht, darunter auch in den Berliner Zoo. Dort wurden die Tiere jedoch mit Rothirschen gekreuzt, wodurch der Bestand bald nicht mehr reinblütig war. Die heutigen Bestände stammen sämtlich von europäischen Zoohirschen ab.
  
-[^8]: L. Heck an A. Brauer, 10.06.1914, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I. Nachdem das Aussterben in China bekannt geworden war, gaben alle Zoos ihre Davidshirsche nach Woburn Abbey in England, wo der Herzog von Bedford sie erfolgreich züchtete. 1914 bereits 90 Tiere und war 1946 auf 300 Hirsche angewachsen. Kleine Zuchtgruppen wurden auf verschiedene Zoos verteilt und züchteten überall erfolgreich. 
+[^8]: L. Heck an A. Brauer, 10.06.1914, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I. Nachdem das Aussterben in China bekannt geworden war, gaben alle Zoos ihre Davidshirsche nach Woburn Abbey in England, wo der Herzog von Bedford sie erfolgreich züchtete. 1914 bereits 90 Tiere und war 1946 auf 300 Hirsche angewachsen. Kleine Zuchtgruppen wurden auf verschiedene Zoos verteilt und überall  gezüchtet. 
  
 [^9]: Vgl. H. Pohle an L. Heck, 28.02.1931, MfN, HBSB, Zool. Mus. S III, Heck, L. (1926-1937).
  
@@ -304,14 +304,14 @@ Die Nachwirkungen sind bis heute spürbar, nicht zuletzt bei dem Versuch, die He
  
 [^15]: Vgl. MfN, HBSB, S004-02-05 Nr. 97.
  
-[^16]: Laut der “Elephant Database” wurde der afrikanische Steppenelefant 1875 im Sudan geboren und 1888 mit dem Schiff nach Deutschland importiert; vgl. Koehl, Dan “Mary, African savanna elephant (_Loxodonta africana_) located at Berlin Zoo in Germany”. _Elephant Encyclopedia_,2021, https://www.elephant.se/database2.php?elephant_id=3912 (23.08.2021).
+[^16]: Laut der “Elephant Database” wurde der afrikanische Steppenelefant 1875 im Sudan geboren und 1888 mit dem Schiff nach Deutschland importiert; vgl. Koehl, Dan “Mary, African Savanna Elephant (_Loxodonta africana_) Located at Berlin Zoo in Germany”. _Elephant Encyclopedia_,2021, https://www.elephant.se/database2.php?elephant_id=3912 (23.08.2021).
  
 [^17]: L. Zukowsky an H. Pohle, 29.11.1932, MfN, HBSB, S004-02-05 Nr. 97; vgl. auch Dr. Hauchecorne an Paul Matschie, 20.03.1925, MfN, HBSB, S004-02-05 Nr. 97.
  
 [^18]: L. Zukowsky an H. Pohle, 23.02.1932, MfN, HBSB, S004-02-05 Nr. 97.
  
-[^19]: L. Zukowsky an H. Pohle, 23.02.1932, MfN, HBSB, S004-02-05 Nr. 97.
+[^19]: Ebd.
  
-[^20]: L. Zukowsky an H. Pohle, 23.02.1932, MfN, HBSB, S004-02-05 Nr. 97.
+[^20]: Ebd.
  
 [^21]: G. Steinbacher an Hermann Pohle, 01.07.1935, MfN, HBSB, S004-02-05 Nr. 97.
