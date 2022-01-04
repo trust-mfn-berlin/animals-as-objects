@@ -1,20 +1,22 @@
 ---
-license: CC BY-SA
-title: Keeping Records of Animals
-title_de: Tiere verzeichnen
-created: 1635148858347
-updated: 1641302664183
 id: zrAZZTgVehO9zeVbW4dMX
-author: Mareike Vennen
-translators:
-  translator_de_en: Carla Welch
-desc: How do animals get from a zoo to a collection? It is not just a matter of
+title: Keeping Records of Animals
+desc: |-
+  How do animals get from a zoo to a collection? It is not just a matter of
   handing over an animal's body but involves myriad practices of record-keeping.
   While these practices now mainly take place online, in the early 20th century
   they still relied on piles of paper – on offer lists, inventories, price
   lists, and invoices. These documents show us how zoo animals were transformed
   into museum exhibits and what kind of value was ascribed to them.
-desc_de: Wie kommen Tiere aus dem Zoo in eine Sammlung? Dazu gehört nicht nur
+updated: 1641302664183
+created: 1635148858347
+license: CC BY-SA
+title_de: Tiere verzeichnen
+author: Mareike Vennen
+translators:
+  translator_de_en: Carla Welch
+desc_de: |-
+  Wie kommen Tiere aus dem Zoo in eine Sammlung? Dazu gehört nicht nur
   die Übergabe des Tierkörpers, sondern vielfältige Praktiken des Verzeichnens.
   Was heute weitgehend digital abläuft, war Anfang des 20. Jahrhunderts noch auf
   eine Menge Papier angewiesen – auf Angebotslisten, Inventare, Preislisten und
