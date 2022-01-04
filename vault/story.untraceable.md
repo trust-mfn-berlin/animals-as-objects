@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Untraceable
 title_de: Unauffindbar
 created: 1640459479902
-updated: 1641316858007
+updated: 1641316961217
 id: abaNOPQjQqMhfMbhbhvm4
 author: "Mareike Vennen "
 translators:
@@ -28,8 +28,6 @@ published: false
 
 :::EN:::
  
-I am at the Berlin Museum of Natural History, in the Amphibian and Reptile Collection, on the hunt for a “young caiman” preserved in alcohol. In 1844, botanist Moritz Richard Schomburgk (1811-1891) brought the animal back alive together with a great number of boxes filled with natural history objects from what was then the British colony of Guyana (see [[story.from-pests-to-displays]]). After a brief stay in the Zoological Garden, the caiman is supposed to have made its way into the Herpetological Collection of Berlin Zoological Museum (ZMB, today’s Museum of Natural History) after its death. I find this information in the notes made by one of the museum preparators at the time, Friedrich Beyer [[material.logbooks-of-the-zoological-museum]].
-
 <figure>
 
 ![A double page of an open notebook reveals handwritten entries for the month of August 1844 in a hand-drawn table. ](/images/Zool-Mus-SI-Verwaltungsakten-Tagebuch-Beyer-1844-10.jpg) 
@@ -41,6 +39,9 @@ _Entry from 26 August 1844: “A young caiman (crocodile) brought back alive by 
 </figcaption>
 
 </figure>
+
+I am at the Berlin Museum of Natural History, in the Amphibian and Reptile Collection, on the hunt for a “young caiman” preserved in alcohol. In 1844, botanist Moritz Richard Schomburgk (1811-1891) brought the animal back alive together with a great number of boxes filled with natural history objects from what was then the British colony of Guyana (see [[story.from-pests-to-displays]]). After a brief stay in the Zoological Garden, the caiman is supposed to have made its way into the Herpetological Collection of Berlin Zoological Museum (ZMB, today’s Museum of Natural History) after its death. I find this information in the notes made by one of the museum preparators at the time, Friedrich Beyer [[material.logbooks-of-the-zoological-museum]].
+
 
 Frank Tillack, Amphibian and Reptile Collection manager, accompanies me to the wet amphibian collection. My quest turns out to be more difficult than I had thought. How come? Even though nowhere near all the collection holdings have been entered into digital databases, there are old “entry books” or accession registers and inventory books that have served as tools for finding and ordering objects since the 19th century and that record most of the animals that have arrived at the museum. But why does the search for historical specimens sometimes fail? Why are catalogues not always able to help us, and what are the challenges that they present?
 
@@ -91,8 +92,6 @@ The “young caiman” whose whereabouts remain unknown will stay one of the col
  
 :::DE:::
  
-Ort: Museum für Naturkunde Berlin, Sammlung der Amphibien und Reptilien. Ich bin auf der Suche nach einem “jungen Caiman” in Weingeist. 1844 hatte der Botaniker Moritz Richard Schomburgk (1811-1891) das Tier lebend, zusammen mit mehreren Kisten Naturalien, aus der damaligen britischen Kolonie Guyana mitgebracht (siehe [[story.from-pests-to-displays]]). Nach kurzem Aufenthalt im Zoologischen Garten soll es nach seinem Tod in die Herpetologische Sammlung des Zoologischen Museums Berlin (ZMB, das heutige Museum für Naturkunde) gekommen sein. Diese Informationen sind in den Notizen des damaligen Museumspräparators Friedrich Beyer zu finden (siehe [[material.logbooks-of-the-zoological-museum]]).
-
 <figure>
 
 ![Die Doppelseite eines aufgeschlagenen Notizbuchs zeigt handschriftliche Einträge in einer gezeichneten Tabelleneinteilung für den Monat August im Jahr 1844. ](/images/Zool-Mus-SI-Verwaltungsakten-Tagebuch-Beyer-1844-10.jpg)  
@@ -104,6 +103,8 @@ _Eintrag am 26. August 1844: “Ein junger Caiman (Crocodil) lebend mitgebracht 
 </figcaption>
 
 </figure>
+
+Ort: Museum für Naturkunde Berlin, Sammlung der Amphibien und Reptilien. Ich bin auf der Suche nach einem “jungen Caiman” in Weingeist. 1844 hatte der Botaniker Moritz Richard Schomburgk (1811-1891) das Tier lebend, zusammen mit mehreren Kisten Naturalien, aus der damaligen britischen Kolonie Guyana mitgebracht (siehe [[story.from-pests-to-displays]]). Nach kurzem Aufenthalt im Zoologischen Garten soll es nach seinem Tod in die Herpetologische Sammlung des Zoologischen Museums Berlin (ZMB, das heutige Museum für Naturkunde) gekommen sein. Diese Informationen sind in den Notizen des damaligen Museumspräparators Friedrich Beyer zu finden (siehe [[material.logbooks-of-the-zoological-museum]]).
 
 Frank Tillack, Sammlungsmanager für die Amphibien- und Reptiliensammlung, besucht mit mir die Nasssammlung der Amphibien. Die Suche gestaltet sich indes schwieriger als gedacht. Wie kommt das? Selbst wenn längst nicht alle Sammlungsbestände in digitalen Datenbanken eingetragen sind, gibt es doch alte Eingangs- und Inventarkataloge, die seit dem 19. Jahrhundert als Find- und Ordnungsinstrumente der Sammlung dienten und die meisten der im Museum eintreffenden Tiere verzeichneten. Aus welchen Gründen bleibt die Suche nach historischen Präparaten in manchen Fällen dennoch erfolglos? Warum helfen die Kataloge nicht immer weiter und was sind die Herausforderungen im Umgang mit ihnen?
 
