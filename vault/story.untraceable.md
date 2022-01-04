@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Untraceable
 title_de: Unauffindbar
 created: 1640459479902
-updated: 1641314298405
+updated: 1641315394987
 id: abaNOPQjQqMhfMbhbhvm4
 author: "Mareike Vennen "
 translators:
@@ -121,7 +121,7 @@ Der Caiman jedenfalls ist derzeit nicht auffindbar. Das kann wiederum verschiede
 
 <figure>
 
-![Aufgeschlagene, handschriftlich beschriebene Doppelseite eines Katalogs mit verschiedenen vorgedruckten Spalten und Zeilen. Auf dem linken Blatt sind in der linken Spalte fortlaufende Nummern eingetragen, rechts daneben lateinische Tiernamen sowie Orts- und Personennamen. Auf dem rechten Blatt sind in einigen Zeilen mit verschiedenen Handschriften Bemerkungen eingetragen, die andere lateinische Tiernamen, Jahreszahlen und rote Stempel mit dem Wort "Revision" umfassen.]((images/katalog-herpetologie.jpg)
+![Aufgeschlagene, handschriftlich beschriebene Doppelseite eines Katalogs mit verschiedenen vorgedruckten Spalten und Zeilen. Auf dem linken Blatt sind in der linken Spalte fortlaufende Nummern eingetragen, rechts daneben lateinische Tiernamen sowie Orts- und Personennamen. Auf dem rechten Blatt sind in einigen Zeilen mit verschiedenen Handschriften Bemerkungen eingetragen, die andere lateinische Tiernamen, Jahreszahlen und rote Stempel mit dem Wort "Revision" umfassen.](images/katalog-herpetologie.jpg)
 
 <figcaption>
 
