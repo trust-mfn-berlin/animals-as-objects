@@ -1,21 +1,29 @@
 ---
 license: CC BY-SA
+title: Untraceable
 title_de: Unauffindbar
 created: 1640459479902
-author: Author name(s) here.
-short_desc_de: dt titel noch nicht abgenommen, text noch in durchsicht
-date_end: ""
-published: false
-title: Untraceable
 updated: 1641312524264
 id: abaNOPQjQqMhfMbhbhvm4
-desc: Put a description of this note here...
-desc_de: Put a DE description of this note here...
-short_desc: dt titel noch nicht abgenommen, text noch in durchsicht
-cover_image: null
+author: "Mareike Vennen "
+translators:
+  translator_de_en: Lydia J. White
+desc: " The search for historical collection items is not always successful, but
+  still provides insights into the history of colonial collecting, historical
+  modes of cataloguing, and how to approach absent objects. "
+desc_de: "Die Suche nach historischen Sammlungsobjekten bleibt manchmal
+  erfolglos und gibt trotzdem Einblicke in die Geschichte kolonialen Sammelns,
+  in historische Katalogisierungsweisen und den Umgang mit abwesenden Objekten.
+  "
+short_desc: "Lost objects and old catalogues "
+short_desc_de: "Verschollene Objekte und alte Kataloge "
+cover_image:
+  image: /images/katalog-herpetologie-ausschnitt.jpg
 colour_scheme: 14
 tao_type: story
-date_start: ""
+date_start: 1843-12-31T23:50:39.000Z
+date_end: 2022-01-04T16:26:25.633Z
+published: false
 ---
 
 :::EN:::
