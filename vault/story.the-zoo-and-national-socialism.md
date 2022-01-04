@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Zoo and National Socialism
 title_de: Der Zoo im Nationalsozialismus
 created: 1619020958263
-updated: 1641324715981
+updated: 1641325044013
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 author: Clemens Maier-Wolthausen
 translators:
@@ -324,17 +324,17 @@ At the end of National Socialist rule, the zoo was no longer the establishment i
 
 Zoos are certainly also compatible with other regimes and social systems – even if this adaptation have often been more subtle and less pronounced. During the Cold War, the East Berlin Magistrate and the SED regime instrumentalized the Berlin Tierpark for cultural diplomacy in the dispute over the international recognition of the GDR. The park served as an internationally recognized example of socialist policy in education and scientific research. Zoos resumed the role they had played in the 19th century when many of them were first founded: they represented a defining feature of a capital city – or in this case half a city. The West Berlin zoo director could count on West German federal policy to be invested in the zoo’s attraction for the enclosed western half of the city.[^48] Nowadays, zoos position themselves as centers of species conservation in liberal societies that are increasingly concerned with biodiversity. In none of these cases, however, has the political exploitation of the zoo as an institution been attempted or achieved to the degree reached by the National Socialists.
 
-[^1]: Cf., for instance, Heck, Ludwig. _Heiter-ernste Lebensbeichte. Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag, 1938: 373; Heck, Lutz. _Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn_. Berlin: Paul Parey, 1935. Direct quotes have been translated into English for clarity’s sake.
+[^1]: Cf., for instance, Heck, Ludwig. _Heiter-ernste Lebensbeichte: Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag, 1938: 373; Heck, Lutz. _Der deutsche Edelhirsch: Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn_. Berlin: Paul Parey, 1935. Direct quotes have been translated into English for clarity’s sake.
 
 [^2]: Curriculum Vitae Lutz Heck for the Reichsschrifttumskammer, Bundesarchiv Berlin (BArch), R 9361, V, 5953.
 
-[^3]: Heck, Lutz. _Waidwerk mit bunter Strecke. Jagd in heimischen Revieren_. Hamburg, Berlin: Parey, 1968: 67.
+[^3]: Heck, Lutz. _Waidwerk mit bunter Strecke: Jagd in heimischen Revieren_. Hamburg, Berlin: Parey, 1968: 67.
 
-[^4]: Cf. Maier-Wolthausen, Clemens. _Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos_. Ed. by Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 111-113.
+[^4]: Cf. Maier-Wolthausen, Clemens. _Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos_. Andreas Knieriem (ed.). Berlin: Ch. Links Verlag, 2019: 111-113.
 
 [^5]: Cf. Lutz Heck. _Auf Urwild in Kanada_. Berlin: Paul Parey, 1937. Direct quotes have been translated into English for clarity’s sake.
 
-[^6]: Cf., for instance, Heck, Lutz. _Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn_. Berlin: Paul Parey, 1935.
+[^6]: Cf., for instance, Heck, Lutz. _Der deutsche Edelhirsch: Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn_. Berlin: Paul Parey, 1935.
 
 [^7]: _Jahrbuch der Fachschaft Deutsche Bracken_, 1935/36.
 
@@ -350,7 +350,7 @@ Zoos are certainly also compatible with other regimes and social systems – eve
 
 [^13]: Zoological Garden Berlin. _Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin_ for the year 1933. Direct quotes have been translated into English for clarity’s sake.
 
-[^14]: “Der Urwald ruft. Kolonialkunst-Ausstellung im Zoologischen Garten”. _Berliner Lokalanzeiger_, 06.04.1933. Direct quotes have been translated into English for clarity’s sake.
+[^14]: “Der Urwald ruft: Kolonialkunst-Ausstellung im Zoologischen Garten”. _Berliner Lokalanzeiger_, 06.04.1933. Direct quotes have been translated into English for clarity’s sake.
 
 [^15]: Press release 29.06.1934, AZGB O 0/1/15; “Sensation im Affenpalmenhaus”. _Völkischer Beobachter_, 13.06.1937. Direct quotes have been translated into English for clarity’s sake.
 
@@ -358,11 +358,11 @@ Zoos are certainly also compatible with other regimes and social systems – eve
 
 [^17]: Correspondence between all parties in GStA PK I. HA, Rep 151, 2500 and minutes of Supervisory Board meeting, 24.08.1935, GStA PK I. HA, Rep 151, 2496, Bl. 93-94.
 
-[^18]: Reinert, Wiebke, and Mieke Roscher. “Der zoologische Garten als anderer Raum. Hamburger und Berliner Heterotopien”. In _Urbane Tier-Räume_, ed. by Thomas E. Hauck, Stefanie Hennecke, André Krebber, Wiebke Reinert, and Mieke Roscher. Berlin: Dietrich Reimer Verlag, 2017: 112. Direct quotes have been translated into English for clarity’s sake.
+[^18]: Reinert, Wiebke and Mieke Roscher. “Der zoologische Garten als anderer Raum. Hamburger und Berliner Heterotopien”. In _Urbane Tier-Räume_, Thomas E. Hauck, Stefanie Hennecke, André Krebber, Wiebke Reinert, and Mieke Roscher (eds.). Berlin: Dietrich Reimer Verlag, 2017: 112. Direct quotes have been translated into English for clarity’s sake.
 
 [^19]: Press tour of domestic animal exhibition, Pentecost 1937, AZGB O 0/1/15. Direct quotes have been translated into English for clarity’s sake.
 
-[^20]: Artinger, Kai. “Lutz Heck: Der ‘Vater der Rominter Ure’. Einige Bemerkungen zum wissenschaftlichen Leiter des Berliner Zoos im Nationalsozialismus”. _Der Bär von Berlin – Jahrbuch des Vereins für die Geschichte Berlins_ 23 (1994): 125-139. https://www.diegeschichteberlins.de/geschichteberlins/persoenlichkeiten/persoenlichkeitenhn/491-heck.html (24.06.2021). Direct quotes have been translated into English for clarity’s sake.
+[^20]: Artinger, Kai. “Lutz Heck: Der ‘Vater der Rominter Ure’. Einige Bemerkungen zum wissenschaftlichen Leiter des Berliner Zoos im Nationalsozialismus”. _Der Bär von Berlin – Jahrbuch des Vereins für die Geschichte Berlins_ 23 (1994): 125-139. https://www.diegeschichteberlins.de/geschichteberlins/persoenlichkeiten/persoenlichkeitenhn/491-heck.html (03.01.2022). Direct quotes have been translated into English for clarity’s sake.
 
 [^21]: Cf., for instance, Heck, Lutz. “Über die Neuzüchtung des Ur oder Auerochs”. _Berichte der Internationalen Gesellschaft zur Erhaltung des Wisents_ 3, Nr. 4 (1936): 224-294, 235.
 
@@ -386,17 +386,17 @@ Zoos are certainly also compatible with other regimes and social systems – eve
 
 [^31]: Minutes of Supervisory Board meeting, 16.12.1939, AZGB O 0/2/2.
 
-[^32]: Construction drawings and building petitions for air-raid shelters, LAB, A Rep. 032-08, no. 293; cf. also Heck, Lutz. *Tiere – mein Abenteuer. Erlebnisse in Wildnis und Zoo*. Vienna: Ullstein 1954: 97-102; Speech of L. Heck at General Assembly, 1940, AZGB O 0/3/13; note on the annual report for the year 1941, AZGB O 0/3/12.
+[^32]: Construction drawings and building petitions for air-raid shelters, LAB, A Rep. 032-08, no. 293; cf. also Heck, Lutz. _Tiere – mein Abenteuer: Erlebnisse in Wildnis und Zoo_. Vienna: Ullstein 1954: 97-102; Speech of L. Heck at General Assembly, 1940, AZGB O 0/3/13; note on the annual report for the year 1941, AZGB O 0/3/12.
 
-[^33]: Cf. Maier-Wolthausen, Clemens. *Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos*. Ed. by Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 118-129.
+[^33]: Cf. Maier-Wolthausen, Clemens. _Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos_. Andreas Knieriem (ed.). Berlin: Ch. Links Verlag, 2019: 118-129.
 
 [^34]: Wöbse, Anna-Katharina, and Mieke Roscher. “Zootiere während des Zweiten Weltkrieges: London und Berlin 1939-1945”. *WerkstattGeschichte*, Nr. 56 (2010): 44-62, 50.
 
-[^35]: Bruce, Gary. *Through the Lion Gate. A History of the Berlin Zoo*. Oxford: Oxford University Press, 2017: 164, with reference to the memoirs of the zoo director’s wife, Antonina Zabinska.
+[^35]: Bruce, Gary. *Through the Lion Gate: A History of the Berlin Zoo*. Oxford: Oxford University Press, 2017: 164, with reference to the memoirs of the zoo director’s wife, Antonina Zabinska.
 
 [^36]: Minutes of Supervisory Board meeting, 30.07.1940, AZGB O 0/2/2.
 
-[^37]: Cf. Gautschi, Andreas. *Der Reichsjägermeister. Fakten und Legenden um Hermann Göring*. Melsungen: Nimrod, 2010; Rubner, Heinrich. *Deutsche Forstgeschichte, 1933-1945. Forstwirtschaft, Jagd und Umwelt im NS-Staat*. St. Katharinen: Scripta Mercaturae, 1997; copy of the agreement between the headquarters of the Reichskommissar für die Festigung deutschen Volkstums, the Reich Commissioner for the consolidation of German nationalism, and the Reichsforstmeister as Oberster Naturschutzbehörde, head of the highest nature conservation authority, on the execution of the meeting of 20 March 1942, 11.05.1942, BArch, R 49/2066; correspondence with the British Commandant Tiergarten Lt. Col. Nunn in December 1945, AZGB S 15/17; old animal index card, index card “Panjepferde”. (The gendered German word for “scientists” in the original of this article indicates that both scientists were men.)
+[^37]: Cf. Gautschi, Andreas. *Der Reichsjägermeister: Fakten und Legenden um Hermann Göring*. Melsungen: Nimrod, 2010; Rubner, Heinrich. *Deutsche Forstgeschichte, 1933-1945: Forstwirtschaft, Jagd und Umwelt im NS-Staat*. St. Katharinen: Scripta Mercaturae, 1997; copy of the agreement between the headquarters of the Reichskommissar für die Festigung deutschen Volkstums, the Reich Commissioner for the consolidation of German nationalism, and the Reichsforstmeister as Oberster Naturschutzbehörde, head of the highest nature conservation authority, on the execution of the meeting of 20 March 1942, 11.05.1942, BArch, R 49/2066; correspondence with the British Commandant Tiergarten Lt. Col. Nunn in December 1945, AZGB S 15/17; old animal index card, index card “Panjepferde”. (The gendered German word for “scientists” in the original of this article indicates that both scientists were men.)
 
 
 [^39]: Minutes of General Assembly, 1942, AZGB O 0/3/12.
@@ -417,7 +417,7 @@ Zoos are certainly also compatible with other regimes and social systems – eve
 
 [^47]: K. Heinroth: “Kriegszerstörungen und Aufbau von 1945 bis 1956 im Berliner Zoologischen Garten”, typewritten manuscript, AZGB N 4/2.
 
-[^48]: Cf. to this Maier-Wolthausen, Clemens. *Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos*. Ed. by Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 162-169, 206-211; Maier-Wolthausen, Clemens. “Ein Zoo für die Hauptstadt”. *Aus Politik und Zeitgeschichte* 71, Nr. 9 (2021): 11-17, 14-15; Mohnhaupt, Jan. *Der Zoo der anderen. Als die Stasi ihr Herz für Brillenbären entdeckte & Helmut Schmidt mit Pandas nachrüstete*. München: Carl Hanser, 2017; and Maier-Wolthausen, Clemens. *Alphamännchen und Herdentiere. Deutsch-deutsche Beziehungen in Tierpark und Zoo Berlin*. Berlin: Reimer, forthcoming 2022.
+[^48]: Cf. to this Maier-Wolthausen, Clemens. *Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos*. Andreas Knieriem (ed.). Berlin: Ch. Links Verlag, 2019: 162-169, 206-211; Maier-Wolthausen, Clemens. “Ein Zoo für die Hauptstadt”. *Aus Politik und Zeitgeschichte* 71, Nr. 9 (2021): 11-17, 14-15; Mohnhaupt, Jan. *Der Zoo der anderen: Als die Stasi ihr Herz für Brillenbären entdeckte & Helmut Schmidt mit Pandas nachrüstete*. München: Carl Hanser, 2017; and Maier-Wolthausen, Clemens. *Alphamännchen und Herdentiere: Deutsch-deutsche Beziehungen in Tierpark und Zoo Berlin*. Berlin: Reimer, forthcoming 2022.
 
 :::DE:::
 
