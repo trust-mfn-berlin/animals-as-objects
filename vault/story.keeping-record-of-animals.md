@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Keeping Records of Animals
 title_de: Tiere verzeichnen
 created: 1635148858347
-updated: 1641302362338
+updated: 1641302664183
 id: zrAZZTgVehO9zeVbW4dMX
 author: Mareike Vennen
 translators:
@@ -132,9 +132,9 @@ In the late 19th century, scientists still predominantly adhered to a systematic
  
 The repercussions can still be felt today, not least in attempts to trace the origins and history of the zoo animals that wound up in the museum in the early 20th century. This applies to both collection curators and historians – either they cannot find sufficient information, or the specimens are still waiting to be inventoried and described. Collection curators in 2021 might sometimes know how Steinbacher felt in 1935 when they receive enquiries about the items in their collections. Analysing existing inventories and entering new arrivals into the inventory are two of the essential and tedious, though rarely acknowledged, tasks performed in collections – even if the transfers that take place between zoos and museums are now primarily recorded in databases and the associated exchange of information between institutions now predominantly takes place online. Whether analogue or digital, no zoo and no natural history museum can get by without lists, without records of their animals; and no history that aims to research the relationships between these institutions can avoid delving into the archived paperwork of yesterday. 
  
-[^1]: In the Zoological Museum, gifts vastly outweighed purchases: in 1902, the museum recorded 932 gifts and 547 purchases; in 1908 there were 2,413 gifts versus 1,145 purchases; and in 1913, 3,127 gifts compared with 870 purchases; cf. Angermann, Renate. “Die Säugetierkollektion des Museums für Naturkunde der Humboldt- Universität zu Berlin”. _Säugetierkundliche Informationen_ 3, no. 13 (1989): 47-68.
+[^1]: In the Zoological Museum, gifts vastly outweighed purchases: in 1902, the museum recorded 932 gifts and 547 purchases; in 1908 there were 2,413 gifts versus 1,145 purchases; and in 1913, 3,127 gifts compared with 870 purchases; cf. Angermann, Renate. “Die Säugetierkollektion des Museums für Naturkunde der Humboldt-Universität zu Berlin”. _Säugetierkundliche Informationen_ 3, no. 13 (1989): 47-68.
  
-[^2]:  K. A. Möbius to the Ministerium für geistliche Angelegenheiten („the Prussian ministry of education“), 27.02.1889, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I, Bl. 25; L. Heck to the Zoological Museum 01.01.1890, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten, I, Bl. 32.
+[^2]:  K. A. Möbius to the Ministerium für geistliche Angelegenheiten („the Prussian Ministry of Education“), 27.02.1889, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I, Bl. 25; L. Heck to the Zoological Museum 01.01.1890, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten, I, Bl. 32.
  
 [^3]: Back then, the aquarium usually delivered the animals to the museum free of charge. They were generally transported in collective consignments by one of the zoo’s vehicles; in urgent cases, the museum sent its own messenger; cf. O. Heinroth to A. Brauer, 15.04.1915, in MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I; Zoo to MfN, 06.08.1925, MfN, HBSB, S004-02-05 no. 97.
  
@@ -142,7 +142,7 @@ The repercussions can still be felt today, not least in attempts to trace the or
  
 [^5]: See for example L. Heck to A. Brauer, 10.06.1914, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I.
  
-[^6]: On the economy of scarcity using the example of the trade in subfossils, see Podgorny, Irina. “Recyclen: Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien_, ed. by Ina Heumann and Nils Güttler. Berlin: Kadmos 2016: 23-46.
+[^6]: On the economy of scarcity using the example of the trade in subfossils, see Podgorny, Irina. “Recyclen: Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien_, Ina Heumann and Nils Güttler (eds.). Berlin: Kadmos 2016: 23-46.
  
 [^7]: Originally endemic to eastern Asia, the Père David’s deer (_Elapharus davidianus_) has been extinct in the wild since the 19th century and was only able to survive in captivity in the Imperial Garden of Beijing. After French, British, and German diplomats were each gifted live animals from a herd of roughly 120 Père David’s deer, they were taken to European zoos, including Berlin Zoo. However, after they arrived, these animals were crossed with red deer, and the population was soon pure-blooded no more. Today’s populations descend entirely from European zoo deer.
  
@@ -162,15 +162,15 @@ The repercussions can still be felt today, not least in attempts to trace the or
  
 [^15]: Cf. MfN, HBSB, S004-02-05 no. 97.
  
-[^16]: According to the “Elephant Database”, the African steppe elephant was born in the Sudan in 1875 and imported to Germany by ship in 1888; cf. Koehl, Dan “Mary, African Savanna Elephant (_Loxodonta africana_) Located at Berlin Zoo in Germany”. _Elephant Encyclopedia_,2021, https://www.elephant.se/database2.php?elephant_id=3912 (23.08.2021).
+[^16]: According to the “Elephant Database”, the African steppe elephant was born in Sudan in 1875 and imported to Germany by ship in 1888; cf. Koehl, Dan “Mary, African Savanna Elephant (_Loxodonta africana_) Located at Berlin Zoo in Germany”. _Elephant Encyclopedia_,2021, https://www.elephant.se/database2.php?elephant_id=3912 (23.08.2021).
  
 [^17]: L. Zukowsky to H. Pohle, 29.11.1932, MfN, HBSB, S004-02-05 no. 97; see also Dr Hauchecorne to P. Matschie, 20.03.1925, MfN, HBSB, S004-02-05 no. 97.
  
 [^18]: L. Zukowsky to H. Pohle 23.02.1932, MfN, HBSB, S004-02-05 no. 97.
  
-[^19]: L. Zukowsky to H. Pohle 23.02.1932, MfN, HBSB, S004-02-05 no. 97.
+[^19]: Ibid.
  
-[^20]: L. Zukowsky to H. Pohle 23.02.1932, MfN, HBSB, S004-02-05 no. 97.
+[^20]: Ibid.
  
 [^21]: G. Steinbacher to H. Pohle, 01.07.1935, MfN, HBSB, S004-02-05 no. 97.
 
