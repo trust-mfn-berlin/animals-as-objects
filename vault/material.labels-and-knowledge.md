@@ -7,7 +7,7 @@ short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 date_end: 1935-01-01T10:48:28.706Z
 published: false
 title: Labels and Knowledge
-updated: 1641333432273
+updated: 1641334020617
 id: K2rQQdv1K7aDMUi5gDHcN
 translators:
   translator_de_en: Carla Welch
@@ -76,7 +76,7 @@ _Animal logistics on paper. The instructions on the labels reveal the paths that
 
 </figure>
 
-These notes, which were once mobile, also helped these different actors to make internal logistical arrangements. They often provide instructions for further use – “With a request for examination and transfer to the Zoolog. Museum on Invalidenstraße”, says one, for example **The first journey that an animal took after its death usually led from the zoo to the Pathological Institute at the Veterinary University (Tierärztliche Hochschule) of Berlin, where it was dissected in order to ascertain its cause of death.[^1] After that, the Pathological Institute sent what remained of the carcass back to the zoo or forwarded it on at the zoo’s behest – to private taxidermists and preparators, or to scientific institutions such as the Anatomical Institute, the Zoological Institute of the Agricultural University, or the Zoological Museum at the university in Berlin.**[^2] This kind of information can be put together like the pieces of a puzzle to map out a local network of relationships. Even though gaps remain, the tags help to identify the important actors who were involved in the further utilisation or disposal of zoo animals in Berlin in the early twentieth century.
+These notes, which were once mobile, also helped these different actors to make internal logistical arrangements. They often provide instructions for further use – “With a request for examination and transfer to the Zoolog. Museum on Invalidenstraße”, says one, for example. **The first journey that an animal took after its death usually led from the zoo to the Pathological Institute at the Veterinary University (Tierärztliche Hochschule) of Berlin, where it was dissected in order to ascertain its cause of death.[^1] After that, the Pathological Institute sent what remained of the carcass back to the zoo or forwarded it on at the zoo’s behest – to private taxidermists and preparators, or to scientific institutions such as the Anatomical Institute, the Zoological Institute of the Agricultural University, or the Zoological Museum at the university in Berlin.**[^2] This kind of information can be put together like the pieces of a puzzle to map out a local network of relationships. Even though gaps remain, the tags help to identify the important actors who were involved in the further utilisation or disposal of zoo animals in Berlin in the early twentieth century.
 
 The back of a label could be used to convey information about the animal’s species, origin, and cause of death so that the museum could [[create a record of the animal|story.keeping-record-of-animals]]. Abyssinia, Ceylon, and South America frequently appear. The notes therefore do not just make a local network visible, but also point back to the global trade in animals and animal catching, and names like Abyssinia and Ceylon make it clear that this was a colonial network.
 
@@ -114,7 +114,7 @@ _A knowledge thing with gaps: Label with missing entries and general information
 
 </figure>
 
-These labels thus allow us to read not just the information that was sent to the museum but also the gaps in knowledge.[^3] These gaps point not least to the differences between zoos and museums – the data collected by zoos was not necessarily as extensive or as precise as the data gathered by natural history collections (see also [[Keeping Records of Animals|story.keeping-record-of-animals]]). However, labels often provided additional instructions (for use).
+These labels thus allow us to read not just the information that was sent to the museum but also the gaps in knowledge.[^3] These gaps point not least to the differences between [[zoos and museums|story.keeping-record-of-animals]] – the data collected by zoos was not necessarily as extensive or as precise as the data gathered by natural history collections. However, labels often provided additional instructions (for use).
  
 <figure>
 
