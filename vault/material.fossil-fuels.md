@@ -8,7 +8,7 @@ short_desc_de: Noch immer greifen wir für die Energieversorgung unserer
 date_end: 2021-12-07T19:10:39.033Z
 published: false
 title: Fossil Fuels
-updated: 1640898495367
+updated: 1641293425883
 id: 7f5d84e2-6c42-454e-a7c5-f31db9960a70
 translators:
   translator_en_de: ""
@@ -23,6 +23,18 @@ date_start: 1846-01-02T19:59:06.330Z
 ---
 
 :::EN:::
+
+<figure>
+
+![desc](/images/filo/fossil fuel.png)
+
+<figcaption>
+
+_Products of petroleum refinery. (Source: youtube)_
+
+</figcaption>
+
+</figure>
 
 Fossils are not confined to the halls of museums and paleontological digs. Fossils are all around us and usually much closer than we think. **In fact, reading this text on your device, you are probably using fossils right now, since most plastics we produce are derived from fossil fuels.** The long hydrocarbon chains that compose petroleum, refined oil, and their derivatives were once living organisms. Under immense geological pressures and through physicochemical transformations taking place over millennia, the remains of these mostly microscopic organisms turned into the constituents of the most pervasive, valued, and abused fossils in the world: fossil fuels.[^1] While their current uses rarely bear any immediately recognisable trace of their past lives, oil exploration and extraction are clearly linked to geological and paleontological sciences, and remind us of the deep histories that make up the stuff of our daily lives, power our cities and transports, and fuel conflicts and economies across the world.[^2]
 
@@ -41,6 +53,14 @@ But while most scientific and academic work had focused on macro fossils, it was
 
 
 :::DE:::
+
+<figure>
+
+![desc](/images/filo/fossil fuel.png)
+
+<figcaption>
+
+_Produkte der Erdölraffinerie. (Quelle: youtube)_
 
 Fossilien finden sich nicht nur in den Ausstellungsräumen von Museen oder bei paläontologischen Grabungen. Fossilien sind überall um uns herum und meist viel präsenter als wir denken. **Tatsächlich benutzen Sie selbst gerade Fossilien, indem Sie auf einem Endgerät diesen Text lesen. Die meisten Kunststoffe werden aus fossilen Brennstoffen gewonnen.** Die langen Kohlenwasserstoffketten, aus denen Erdöl, raffiniertes Öl und deren Derivate bestehen, waren einst lebende Organismen. Unter enormem geologischen Druck und durch physikalisch-chemische Umwandlungsprozesse über Jahrtausende hinweg wurden die Überreste dieser meist mikroskopisch kleinen Organismen zu Bestandteilen der am meisten verbreiteten, geschätzten und ausgebeuteten Fossilien der Welt: der fossilen Brennstoffe. [^1] Auch wenn die heutige Form und Verwendung dieser Fossilien kaum mehr Spuren der einstigen Lebensformen aufweisen, sind die Erschließung und Förderung von Erdöl gleichwohl schon immer eng an die geologischen und paläontologischen Wissenschaftszweigen gekoppelt – was uns einmal mehr eine zugrunde liegende Struktur bzw. eine Tiefenzeit vor Augen führt, die unseren Alltag bestimmt, unsere Städte und Verkehrsmittel antreibt und Konflikte und Volkswirtschaften auf der ganzen Welt befeuert.[^2]
 
