@@ -7,7 +7,7 @@ short_desc_de: noch nicht abgenommen
 date_end: ""
 published: false
 title: Logistical Metabolisms
-updated: 1641311430187
+updated: 1641311598271
 id: GkUgy87PFegTFmR0W1Z2Q
 desc: noch nicht abgenommen
 desc_de: noch nicht abgenommen
@@ -150,7 +150,7 @@ But they didn’t stop there. In addition, a large part of the Jardin de Plantes
 
 
 
-::DE:::
+:::DE:::
 
 ## Einleitung: Logistische und metabolische Kreisläufe 
 
