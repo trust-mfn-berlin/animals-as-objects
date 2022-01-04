@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Untraceable
 title_de: Unauffindbar
 created: 1640459479902
-updated: 1641315394987
+updated: 1641316858007
 id: abaNOPQjQqMhfMbhbhvm4
 author: "Mareike Vennen "
 translators:
@@ -121,7 +121,7 @@ Der Caiman jedenfalls ist derzeit nicht auffindbar. Das kann wiederum verschiede
 
 <figure>
 
-![Aufgeschlagene, handschriftlich beschriebene Doppelseite eines Katalogs mit verschiedenen vorgedruckten Spalten und Zeilen. Auf dem linken Blatt sind in der linken Spalte fortlaufende Nummern eingetragen, rechts daneben lateinische Tiernamen sowie Orts- und Personennamen. Auf dem rechten Blatt sind in einigen Zeilen mit verschiedenen Handschriften Bemerkungen eingetragen, die andere lateinische Tiernamen, Jahreszahlen und rote Stempel mit dem Wort "Revision" umfassen.](images/katalog-herpetologie.jpg)
+![Aufgeschlagene, handschriftlich beschriebene Doppelseite eines Katalogs mit verschiedenen vorgedruckten Spalten und Zeilen. Auf dem linken Blatt sind in der linken Spalte fortlaufende Nummern eingetragen, rechts daneben lateinische Tiernamen sowie Orts- und Personennamen. Auf dem rechten Blatt sind in einigen Zeilen mit verschiedenen Handschriften Bemerkungen eingetragen, die andere lateinische Tiernamen, Jahreszahlen und rote Stempel mit dem Wort "Revision" umfassen.](/images/katalog-herpetologie.jpg)
 
 <figcaption>
 
@@ -136,7 +136,7 @@ In einem Katalog überlagern sich somit mehrere Zeitschichten – und häufig un
 Der “junge Caiman”, über dessen Verbleib wir nichts wissen, bleibt vorerst ein verschollenes Objekt der Sammlung. Dennoch hat die Suche nach ihm und seine Abwesenheit mir neue Erkenntnisse eingebracht, wenn auch andere als gedacht. Der Blick hat sich verschoben, von der Geschichte des Tieres zur Geschichte der naturkundlichen Katalogisierung und der Praxis musealer Sammlungsarbeit. Das führt nicht nur zu der Frage, welche Auswirkungen eine lückenhafte historische Überlieferung für die heutige Arbeit mit Sammlungen hat und wie das Wissen über die Katalogisierungssysteme gespeichert und weitergegeben werden kann. Das lenkt zugleich das Augenmerk darauf, wie wir die Geschichte abwesender Objekte schreiben und sie als Teil der Geschichte des Sammelns sichtbar machen können. Wie viele verschollene und (noch) nicht erfasste Tiere lagern in Museumssammlungen? Die Frage stellt sich vor allem angesichts der massiven Sammelaktivitäten während der Kolonialzeit. Es fällt schwer, konkrete Zahlen für eine Sammlung zu benennen, wenn längst noch nicht alle Tiere erfasst sind, und dadurch fällt es schwer, ein umfassendes Bild ihrer Bestände zu erhalten – woher sie stammen und unter welchen Umständen sie gesammelt, verschickt und in Berlin genutzt wurden. Naturkundemuseen beginnen gerade vielerorts verstärkt, sich mit ihren kolonialen Sammelbeständen auseinanderzusetzen. Dazu gehört auch, Ressourcen für die Bestandserfassung zu mobilisieren, und Ressourcen für historische Forschungen, die Erwerbsgeschichten, Sammelumstände und Sammlungsgeschichte aufarbeiten. Dadurch erlangen auch Tiere wie der “junge Caiman”, die vielleicht nie das Museum erreichten, dort (noch) nicht beschrieben wurden oder in der Sammlung auf die ein oder andere Art verloren gingen, oder zwar verzeichnet aber unauffindbar sind, innerhalb der Geschichte kolonialen Sammelns Gewicht und werden als Teil der Sammlungsgeschichte sichtbar.
  
 
-[1^]: Das Zoologische Museum, das den Grundstock des heutigen Naturkundemuseums bildet, gehörte zur Berliner Friedrich-Wilhelms-Universität.
+[^1]: Das Zoologische Museum, das den Grundstock des heutigen Naturkundemuseums bildet, gehörte zur Berliner Friedrich-Wilhelms-Universität.
 
 [^2]: Der erste nicht numerische Inventarkatalog des Zoologischen Museums, der noch taxonomisch geordnet wurde, wurde zwischen 1824 und 1830 (vermutlich vom damaligen Museumsdirektor Lichtenstein) angelegt. Der erste numerische Inventarkatalog des Museums wurde ca. 1856 von Lichtenstein begonnen und kurz danach von Wilhelm Peters weitergeführt.
 
