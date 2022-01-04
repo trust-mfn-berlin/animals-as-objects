@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Untraceable
 title_de: Unauffindbar
 created: 1640459479902
-updated: 1641315394987
+updated: 1641316961217
 id: abaNOPQjQqMhfMbhbhvm4
 author: "Mareike Vennen "
 translators:
@@ -28,8 +28,6 @@ published: false
 
 :::EN:::
  
-I am at the Berlin Museum of Natural History, in the Amphibian and Reptile Collection, on the hunt for a “young caiman” preserved in alcohol. In 1844, botanist Moritz Richard Schomburgk (1811-1891) brought the animal back alive together with a great number of boxes filled with natural history objects from what was then the British colony of Guyana (see [[story.from-pests-to-displays]]). After a brief stay in the Zoological Garden, the caiman is supposed to have made its way into the Herpetological Collection of Berlin Zoological Museum (ZMB, today’s Museum of Natural History) after its death. I find this information in the notes made by one of the museum preparators at the time, Friedrich Beyer [[material.logbooks-of-the-zoological-museum]].
-
 <figure>
 
 ![A double page of an open notebook reveals handwritten entries for the month of August 1844 in a hand-drawn table. ](/images/Zool-Mus-SI-Verwaltungsakten-Tagebuch-Beyer-1844-10.jpg) 
@@ -41,6 +39,9 @@ _Entry from 26 August 1844: “A young caiman (crocodile) brought back alive by 
 </figcaption>
 
 </figure>
+
+I am at the Berlin Museum of Natural History, in the Amphibian and Reptile Collection, on the hunt for a “young caiman” preserved in alcohol. In 1844, botanist Moritz Richard Schomburgk (1811-1891) brought the animal back alive together with a great number of boxes filled with natural history objects from what was then the British colony of Guyana (see [[story.from-pests-to-displays]]). After a brief stay in the Zoological Garden, the caiman is supposed to have made its way into the Herpetological Collection of Berlin Zoological Museum (ZMB, today’s Museum of Natural History) after its death. I find this information in the notes made by one of the museum preparators at the time, Friedrich Beyer [[material.logbooks-of-the-zoological-museum]].
+
 
 Frank Tillack, Amphibian and Reptile Collection manager, accompanies me to the wet amphibian collection. My quest turns out to be more difficult than I had thought. How come? Even though nowhere near all the collection holdings have been entered into digital databases, there are old “entry books” or accession registers and inventory books that have served as tools for finding and ordering objects since the 19th century and that record most of the animals that have arrived at the museum. But why does the search for historical specimens sometimes fail? Why are catalogues not always able to help us, and what are the challenges that they present?
 
@@ -91,8 +92,6 @@ The “young caiman” whose whereabouts remain unknown will stay one of the col
  
 :::DE:::
  
-Ort: Museum für Naturkunde Berlin, Sammlung der Amphibien und Reptilien. Ich bin auf der Suche nach einem “jungen Caiman” in Weingeist. 1844 hatte der Botaniker Moritz Richard Schomburgk (1811-1891) das Tier lebend, zusammen mit mehreren Kisten Naturalien, aus der damaligen britischen Kolonie Guyana mitgebracht (siehe [[story.from-pests-to-displays]]). Nach kurzem Aufenthalt im Zoologischen Garten soll es nach seinem Tod in die Herpetologische Sammlung des Zoologischen Museums Berlin (ZMB, das heutige Museum für Naturkunde) gekommen sein. Diese Informationen sind in den Notizen des damaligen Museumspräparators Friedrich Beyer zu finden (siehe [[material.logbooks-of-the-zoological-museum]]).
-
 <figure>
 
 ![Die Doppelseite eines aufgeschlagenen Notizbuchs zeigt handschriftliche Einträge in einer gezeichneten Tabelleneinteilung für den Monat August im Jahr 1844. ](/images/Zool-Mus-SI-Verwaltungsakten-Tagebuch-Beyer-1844-10.jpg)  
@@ -104,6 +103,8 @@ _Eintrag am 26. August 1844: “Ein junger Caiman (Crocodil) lebend mitgebracht 
 </figcaption>
 
 </figure>
+
+Ort: Museum für Naturkunde Berlin, Sammlung der Amphibien und Reptilien. Ich bin auf der Suche nach einem “jungen Caiman” in Weingeist. 1844 hatte der Botaniker Moritz Richard Schomburgk (1811-1891) das Tier lebend, zusammen mit mehreren Kisten Naturalien, aus der damaligen britischen Kolonie Guyana mitgebracht (siehe [[story.from-pests-to-displays]]). Nach kurzem Aufenthalt im Zoologischen Garten soll es nach seinem Tod in die Herpetologische Sammlung des Zoologischen Museums Berlin (ZMB, das heutige Museum für Naturkunde) gekommen sein. Diese Informationen sind in den Notizen des damaligen Museumspräparators Friedrich Beyer zu finden (siehe [[material.logbooks-of-the-zoological-museum]]).
 
 Frank Tillack, Sammlungsmanager für die Amphibien- und Reptiliensammlung, besucht mit mir die Nasssammlung der Amphibien. Die Suche gestaltet sich indes schwieriger als gedacht. Wie kommt das? Selbst wenn längst nicht alle Sammlungsbestände in digitalen Datenbanken eingetragen sind, gibt es doch alte Eingangs- und Inventarkataloge, die seit dem 19. Jahrhundert als Find- und Ordnungsinstrumente der Sammlung dienten und die meisten der im Museum eintreffenden Tiere verzeichneten. Aus welchen Gründen bleibt die Suche nach historischen Präparaten in manchen Fällen dennoch erfolglos? Warum helfen die Kataloge nicht immer weiter und was sind die Herausforderungen im Umgang mit ihnen?
 
@@ -121,7 +122,7 @@ Der Caiman jedenfalls ist derzeit nicht auffindbar. Das kann wiederum verschiede
 
 <figure>
 
-![Aufgeschlagene, handschriftlich beschriebene Doppelseite eines Katalogs mit verschiedenen vorgedruckten Spalten und Zeilen. Auf dem linken Blatt sind in der linken Spalte fortlaufende Nummern eingetragen, rechts daneben lateinische Tiernamen sowie Orts- und Personennamen. Auf dem rechten Blatt sind in einigen Zeilen mit verschiedenen Handschriften Bemerkungen eingetragen, die andere lateinische Tiernamen, Jahreszahlen und rote Stempel mit dem Wort "Revision" umfassen.](images/katalog-herpetologie.jpg)
+![Aufgeschlagene, handschriftlich beschriebene Doppelseite eines Katalogs mit verschiedenen vorgedruckten Spalten und Zeilen. Auf dem linken Blatt sind in der linken Spalte fortlaufende Nummern eingetragen, rechts daneben lateinische Tiernamen sowie Orts- und Personennamen. Auf dem rechten Blatt sind in einigen Zeilen mit verschiedenen Handschriften Bemerkungen eingetragen, die andere lateinische Tiernamen, Jahreszahlen und rote Stempel mit dem Wort "Revision" umfassen.](/images/katalog-herpetologie.jpg)
 
 <figcaption>
 
@@ -136,7 +137,7 @@ In einem Katalog überlagern sich somit mehrere Zeitschichten – und häufig un
 Der “junge Caiman”, über dessen Verbleib wir nichts wissen, bleibt vorerst ein verschollenes Objekt der Sammlung. Dennoch hat die Suche nach ihm und seine Abwesenheit mir neue Erkenntnisse eingebracht, wenn auch andere als gedacht. Der Blick hat sich verschoben, von der Geschichte des Tieres zur Geschichte der naturkundlichen Katalogisierung und der Praxis musealer Sammlungsarbeit. Das führt nicht nur zu der Frage, welche Auswirkungen eine lückenhafte historische Überlieferung für die heutige Arbeit mit Sammlungen hat und wie das Wissen über die Katalogisierungssysteme gespeichert und weitergegeben werden kann. Das lenkt zugleich das Augenmerk darauf, wie wir die Geschichte abwesender Objekte schreiben und sie als Teil der Geschichte des Sammelns sichtbar machen können. Wie viele verschollene und (noch) nicht erfasste Tiere lagern in Museumssammlungen? Die Frage stellt sich vor allem angesichts der massiven Sammelaktivitäten während der Kolonialzeit. Es fällt schwer, konkrete Zahlen für eine Sammlung zu benennen, wenn längst noch nicht alle Tiere erfasst sind, und dadurch fällt es schwer, ein umfassendes Bild ihrer Bestände zu erhalten – woher sie stammen und unter welchen Umständen sie gesammelt, verschickt und in Berlin genutzt wurden. Naturkundemuseen beginnen gerade vielerorts verstärkt, sich mit ihren kolonialen Sammelbeständen auseinanderzusetzen. Dazu gehört auch, Ressourcen für die Bestandserfassung zu mobilisieren, und Ressourcen für historische Forschungen, die Erwerbsgeschichten, Sammelumstände und Sammlungsgeschichte aufarbeiten. Dadurch erlangen auch Tiere wie der “junge Caiman”, die vielleicht nie das Museum erreichten, dort (noch) nicht beschrieben wurden oder in der Sammlung auf die ein oder andere Art verloren gingen, oder zwar verzeichnet aber unauffindbar sind, innerhalb der Geschichte kolonialen Sammelns Gewicht und werden als Teil der Sammlungsgeschichte sichtbar.
  
 
-[1^]: Das Zoologische Museum, das den Grundstock des heutigen Naturkundemuseums bildet, gehörte zur Berliner Friedrich-Wilhelms-Universität.
+[^1]: Das Zoologische Museum, das den Grundstock des heutigen Naturkundemuseums bildet, gehörte zur Berliner Friedrich-Wilhelms-Universität.
 
 [^2]: Der erste nicht numerische Inventarkatalog des Zoologischen Museums, der noch taxonomisch geordnet wurde, wurde zwischen 1824 und 1830 (vermutlich vom damaligen Museumsdirektor Lichtenstein) angelegt. Der erste numerische Inventarkatalog des Museums wurde ca. 1856 von Lichtenstein begonnen und kurz danach von Wilhelm Peters weitergeführt.
 
