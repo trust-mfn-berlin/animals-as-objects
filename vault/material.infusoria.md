@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Infusoria
 title_de: Infusorien
 created: 1618493065699
-updated: 1641295106710
+updated: 1641295551607
 id: 5df12377-545a-45f9-9cd3-04fb8e499fb1
 author: Filippo Bertoni
 translators:
@@ -73,4 +73,4 @@ _Dieses Video stellt Infusorien anhand der umfangreichen Sammlung von Ehrenbergs
 
 </figcaption>
 
-[^1]: Siehe Churchill, Frederick B. “The Guts of the Matter. Infusoria from Ehrenberg to Bütschli: 1838–1876.” _Journal of the History of Biology_ 22, Nr. 2 (1989): 189–213. https://doi.org/10.1007/BF00139512.
+[^1]: Siehe Churchill, Frederick B. “The Guts of the Matter. Infusoria from Ehrenberg to Bütschli: 1838–1876”. _Journal of the History of Biology_ 22, Nr. 2 (1989): 189–213. https://doi.org/10.1007/BF00139512.
