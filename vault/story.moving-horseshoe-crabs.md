@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Moving Horseshoe Crabs
 title_de: Auf verschwommenen Pfaden
 created: 1640293118344
-updated: 1641298977202
+updated: 1641299145760
 id: WPnxMDphZ5DDXrhkIdvBS
 author: Mareike Vennen
 translators:
@@ -163,10 +163,10 @@ Bislang gibt es indes keine Hinweise darauf, dass sich Pfeilschwanzkrebse im deu
 
 [^13]: Das Tier, das ein Fischer im Juli 1972 in der Nähe der ostfriesischen Insel Spiekeroog lebend gefangen hatte, wurde sogar über vier Jahre lang im Wilhelmshavener Aquarium gehalten, bis es im Oktober 1976 verstarb. Wolff, T. “The Horseshoe Crab _Limulus polyphemus_ in North European Waters”. _Videnskabelige Meddelelser fra Dansk Naturhistorisk Forening_ 140 (1977): 39–52; vgl. weiterhin Gollasch, Stephan. “A Horseshoe Crab _Limulus polyphemus_ Found on Sylt Germany in 1970. Een degenkrab Limulus polyphemus gevonden op Sylt Duitsland in 1970”. _Zeepaard_ 67 (2007): 79–81; Gollasch, Stephan. “An Additional Record of the Horseshoe Crab _Limulus polyphemus_ in the North Sea. Aliens”. _Journal of the Invasive Species Specialist Group of the IUCN Species Survival Commission_ 22 (2005): 11.
 
-[^14]: Vgl. Gollasch, Stephan, und Stefan Nehring. “National Checklist for Aquatic Alien Species in Germany”. _Aquatic Invasions_ 1, Nr. 4 (2006): 245–269; Nehring, Stefan und Heiko Leuchs. “Neozoa (Makrozoobenthos) an der deutschen Nordseeküste. Eine Übersicht”. _Bericht Bundesanstalt für Gewässerkunde Koblenz_. BfG-1200 1999: 1–131. 
+[^14]: Vgl. Gollasch, Stephan, und Stefan Nehring. “National Checklist for Aquatic Alien Species in Germany”. _Aquatic Invasions_ 1, Nr. 4 (2006): 245–269; Nehring, Stefan, und Heiko Leuchs. “Neozoa (Makrozoobenthos) an der deutschen Nordseeküste: Eine Übersicht”. _Bericht Bundesanstalt für Gewässerkunde Koblenz_. BfG-1200 1999: 1–131. 
 
-[^15]: Vgl. Gollasch, Stephan, und Stefan Nehring. “National Checklist for Aquatic Alien Species in Germany”. _Aquatic Invasions_ 1, Nr. 4 (2006): 245–269; Landesamt für Landwirtschaft, Umwelt und ländliche Räume des Landes Schleswig-Holstein (LLUR) (Hg.). _Neobiota in deutschen Küstengewässern. Eingeschleppte und kryptogene Tier- und Pflanzenarten an der deutschen Nord- und Ostseeküste_. Flintbeck: Alfred-Wegener-Institut – Helmholtz Zentrum für Polar- und Meeresforschung, 2014: 108.
+[^15]: Vgl. Gollasch, Stephan, und Stefan Nehring. “National Checklist for Aquatic Alien Species in Germany”. _Aquatic Invasions_ 1, Nr. 4 (2006): 245–269; Landesamt für Landwirtschaft, Umwelt und ländliche Räume des Landes Schleswig-Holstein (LLUR) (Hg.). _Neobiota in deutschen Küstengewässern: Eingeschleppte und kryptogene Tier- und Pflanzenarten an der deutschen Nord- und Ostseeküste_. Flintbeck: Alfred-Wegener-Institut – Helmholtz Zentrum für Polar- und Meeresforschung, 2014: 108.
 
-[^16]: Jackson, Nancy L., David R. Smith und Karl F. Nordstrom. “Physical and Chemical Changes in the Foreshore of an Estuarine Beach. Implications for Viability and Development of Horseshoe Crab (Limulus polyphemus) Eggs”. _Marine Ecology Progress Series_ 355 (2008): 209–218. 10.3354/meps07211.
+[^16]: Jackson, Nancy L., David R. Smith und Karl F. Nordstrom. “Physical and Chemical Changes in the Foreshore of an Estuarine Beach: Implications for Viability and Development of Horseshoe Crab (Limulus polyphemus) Eggs”. _Marine Ecology Progress Series_ 355 (2008): 209–218. 10.3354/meps07211.
 
-[^17]: Loveland, Robert E., und Mark Botton. “Sea Level Rise in Delaware Bay, USA: Adaptations of Spawning Horseshoe Crabs (Limulus polyphemus) to the Glacial Past, and the Rapidly Changing Shoreline of the Bay”. In _Changing Global Perspectives on Horseshoe Crab Biology, Conservation and Management_, ed. by Ruth H. Carmichael u.a. New York: Springer, 2015: 41–64.
+[^17]: Loveland, Robert E., und Mark Botton. “Sea Level Rise in Delaware Bay, USA: Adaptations of Spawning Horseshoe Crabs (Limulus polyphemus) to the Glacial Past, and the Rapidly Changing Shoreline of the Bay”. In _Changing Global Perspectives on Horseshoe Crab Biology, Conservation and Management_, Ruth H. Carmichael u.a. (Hg.). New York: Springer, 2015: 41–64.
