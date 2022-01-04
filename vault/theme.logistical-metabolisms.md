@@ -1,21 +1,34 @@
 ---
 license: CC BY-SA
-title_de: Logistische Metabolismen
-created: 1640459420576
-author: Author name(s) here.
-short_desc_de: noch nicht abgenommen
-date_end: ""
-published: false
 title: Logistical Metabolisms
+title_de: "Logistische Metabolismen "
+created: 1640459420576
 updated: 1641313196734
 id: GkUgy87PFegTFmR0W1Z2Q
-desc: noch nicht abgenommen
-desc_de: noch nicht abgenommen
-short_desc: noch nicht abgenommen
-cover_image: null
+author: Mareike Vennen, Filippo Bertoni
+translators:
+  translator_en_de: Jan-Peter Herrmann
+desc: Logistics and metabolisms play an important role in the transformations of
+  animals into objects. In this theme, we follow some of the ways in which they
+  come together, in the history of how animals ended up in zoos and natural
+  history collections. These two different, and yet related flows of matter
+  teach us that the transformations animals undergo continue even when we least
+  expect it.
+desc_de: Für die Verwandlung von Tieren in Objekte spielen sowohl logistische
+  Prozesse als auch Stoffwechselprozesse eine wichtige Rolle. In diesem Text
+  beschäftigen wir uns – mit Blick auf die Geschichte der Beschaffung von Tieren
+  als Objekte für Zoos oder naturkundliche Sammlungen – mit dem
+  Ineinandergreifen dieser beiden Arten von Kreislaufsystemen. Sie zeigen, dass
+  Umwandlungen selbst dort weitergehen, wo wir es am wenigsten vermuten.
+short_desc: Collecting, transporting and eating entangle in surprising ways
+short_desc_de: Umwandlungsprozesse von Tieren in Bewegung
+cover_image:
+  image: /images/elefantenschildkroeten-mfn-hbsb-k001-0708-p.jpg
 colour_scheme: 4
 tao_type: theme
-date_start: ""
+date_start: 1740-12-31T23:50:39.000Z
+date_end: 2022-01-04T16:32:17.032Z
+published: false
 ---
 
 :::EN:::
