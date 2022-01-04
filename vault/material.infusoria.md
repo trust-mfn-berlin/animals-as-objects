@@ -13,7 +13,7 @@ cover_image: null
 date_start: 1763-01-01T19:50:46.071Z
 feature: true
 title: Infusoria
-updated: 1641293718832
+updated: 1641294233545
 id: 5df12377-545a-45f9-9cd3-04fb8e499fb1
 translators:
   translator_en_de: ""
@@ -29,7 +29,7 @@ tao_type: material
 
 <figcaption>
 
-_Amoeba (source: youtube)_
+_Source: youtube_
 
 </figcaption>
 
@@ -56,7 +56,7 @@ _This video introduces infusoria through the massive collection of Ehrenberg’s
 
 <figcaption>
 
-_Amöbe (Quelle: youtube)_
+_Quelle: youtube_
 
 </figcaption>
 

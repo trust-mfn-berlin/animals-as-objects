@@ -8,7 +8,7 @@ short_desc_de: Noch immer greifen wir für die Energieversorgung unserer
 date_end: 2021-12-07T19:10:39.033Z
 published: false
 title: Fossil Fuels
-updated: 1641293425883
+updated: 1641294296584
 id: 7f5d84e2-6c42-454e-a7c5-f31db9960a70
 translators:
   translator_en_de: ""
@@ -26,7 +26,7 @@ date_start: 1846-01-02T19:59:06.330Z
 
 <figure>
 
-![desc](/images/filo/fossil fuel.png)
+![desc](/images/filo/fossil-fuel.png)
 
 <figcaption>
 
@@ -47,7 +47,7 @@ But while most scientific and academic work had focused on macro fossils, it was
 
 [^1]: To learn more about the complex history and uses of fossil fuels, visit “Oil Beauty and Horror in the Petrol Age”. _Kunstmuseum Wolfsburg_, 2021, https://www.kunstmuseum.de/en/exhibition/oil-beauty-and-horror-in-the-petrol-age/ (28.08.2021).
 
-[^2]: The political economies and ecologies of fossil fuels are at the core of many fascinating books. In particular, see Mitchell, Timothy. _Carbon Democracy: Political Power in the Age of Oil_. London: Verso, 2011; and Malm, Andreas. _Fossil Capital: The Rise of Steam-power and the Roots of Global Warming_. London: Verso, 2016.
+[^2]: The political economies and ecologies of fossil fuels are at the core of many fascinating books. In particular, see Mitchell, Timothy. _Carbon Democracy: Political Power in the Age of Oil_. London: Verso, 2011; and Malm, Andreas. _Fossil Capital: The Rise of Steam Power and the Roots of Global Warming_. London: Verso, 2016.
 
 [^3]: Find out more about the history of energy in Germany in this interesting report: “The History of Energy in Germany”. _planete energies_, 29.04.2015, https://www.planete-energies.com/en/medias/saga-energies/history-energy-germany (28.08.2021).
 
@@ -56,7 +56,7 @@ But while most scientific and academic work had focused on macro fossils, it was
 
 <figure>
 
-![desc](/images/filo/fossil fuel.png)
+![desc](/images/filo/fossil-fuel.png)
 
 <figcaption>
 
@@ -73,6 +73,6 @@ Zwar befassten sich die meisten wissenschaftlichen Arbeiten in diesem Bereich mi
 
 [^1]: Zur komplexen Geschichte und Verwendung fossiler Brennstoffe: “Oil Beauty and Horror in the Petrol Age”. _Kunstmuseum Wolfsburg_, 2021, https://www.kunstmuseum.de/en/exhibition/oil-beauty-and-horror-in-the-petrol-age/ (28.08.2021).
 
-[^2]: Die politischen Ökonomien und Ökologien fossiler Brennstoffe bilden den Schwerpunkt vieler faszinierender Bücher. Siehe insbesondere: Mitchell, Timothy. _Carbon Democracy: Political Power in the Age of Oil_. London: Verso, 2011; and Malm, Andreas. _Fossil Capital: The Rise of Steam-power and the Roots of Global Warming_. London: Verso, 2016.
+[^2]: Die politischen Ökonomien und Ökologien fossiler Brennstoffe bilden den Schwerpunkt vieler faszinierender Bücher. Siehe insbesondere: Mitchell, Timothy. _Carbon Democracy: Political Power in the Age of Oil_. London: Verso, 2011; and Malm, Andreas. _Fossil Capital: The Rise of Steam Power and the Roots of Global Warming_. London: Verso, 2016.
 
 [^3]: Für eine informative Schilderung der Geschichte der Energie in Deutschland, siehe: “The History of Energy in Germany”. _planete energies_, 29.04.2015, https://www.planete-energies.com/en/medias/saga-energies/history-energy-germany (28.08.2021).

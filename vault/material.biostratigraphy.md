@@ -8,7 +8,7 @@ short_desc_de: Versteinerte Überreste von Organismen liefern Informationen übe
 date_end: 2021-12-07T19:31:17.935Z
 published: false
 title: Biostratigraphy
-updated: 1641293612753
+updated: 1641294343554
 id: f0ff8e4e-5bb8-4622-8d51-8da1cb651524
 translators:
   translator_en_de: ""
@@ -26,7 +26,7 @@ date_start: 1669-01-02T20:20:32.426Z
 
 <figure>
 
-![desc](/images/filo/sedimentary rocks.png)
+![desc]((/images/filo/sedimentary-rocks.png)
 
 <figcaption>
 
@@ -50,7 +50,7 @@ _A video explaining the history of geology and our understanding of deep time, m
 
 <figure>
 
-![desc](/images/filo/sedimentary rocks.png)
+![desc](/images/filo/sedimentary-rocks.png)
 
 <figcaption>
 
