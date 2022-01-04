@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Logistical Metabolisms
 title_de: "Logistische Metabolismen "
 created: 1640459420576
-updated: 1641314590994
+updated: 1641315314831
 id: GkUgy87PFegTFmR0W1Z2Q
 author: Mareike Vennen, Filippo Bertoni
 translators:
@@ -121,33 +121,33 @@ But they didn’t stop there. In addition, a large part of the Jardin de Plantes
 
 [^1]: David Peleman, Bruno Notteboom, Michiel Dehaene. “Fragments of a Changing Natural History of Urbanisation”. _The Urban Household of Metabolism. Oase_ 104 (2019): 2. For more information on concepts of urban metabolism see Gandy, Matthew. “Rethinking Urban Metabolism: Water – Space and the Modern City”. _City_ 8, no. 3 (Dec. 2004): 363-379. https://doi.org/10.1080/1360481042000313509 
 
-[^2]: To find out more about Marx’s use of metabolism, and the current fortune of this notion, check out this clear overview http://www.rebelnews.ie/2020/10/20/marx-engels-metabolic-rift-part-one/. You can also read more in Andreas Malm’s piece on https://www.versobooks.com/blogs/3691-in-defence-of-metabolic-rift-theory, or read Hannah Landecker; “Postindustrial Metabolism: Fat Knowledge.” _Public Culture_ 25, no. 3/71 (1 September 2013): 495–522. doi: https://doi.org/10.1215/08992363-2144625
+[^2]: To find out more about Marx’s use of metabolism, and the current fortune of this notion, check out this clear overview: http://www.rebelnews.ie/2020/10/20/marx-engels-metabolic-rift-part-one/. You can also read more in Andreas Malm’s piece on https://www.versobooks.com/blogs/3691-in-defence-of-metabolic-rift-theory, or Hannah Landecker. “Postindustrial Metabolism: Fat Knowledge”. _Public Culture_ 25, no. 3/71 (1 September 2013): 495–522. https://doi.org/10.1215/08992363-2144625
 
-[^3]: Gebbing, Johannes (Ed.) _50 Jahre Leipziger Zoo, 1878-1928_. Leipzig: Selbstverlag des zoolog. Gartens, 1928: 36. On mass slaughtering, cf. Roerkohl, Anne. “Die Lebensmittelversorgung während des Ersten Weltkrieges im Spannungsfeld kommunaler und staatlicher Maßnahmen”. In _Durchbruch zum modernen Massenkonsum. Lebensmittelmärkte und Lebensmittelqualität im Städtewachstum des Industriezeitalters_, Hans Jürgen Teuteberg (ed.). Münster: Coppenrath, 1987: 309–370. Direct quotes have been translated into English for clarity’s sake.
+[^3]: Gebbing, Johannes (ed.) _50 Jahre Leipziger Zoo, 1878-1928_. Leipzig: Selbstverlag des zoolog. Gartens, 1928: 36. On mass slaughtering, cf. Roerkohl, Anne. “Die Lebensmittelversorgung während des Ersten Weltkrieges im Spannungsfeld kommunaler und staatlicher Maßnahmen”. In _Durchbruch zum modernen Massenkonsum: Lebensmittelmärkte und Lebensmittelqualität im Städtewachstum des Industriezeitalters_, Hans Jürgen Teuteberg (ed.). Münster: Coppenrath, 1987: 309–370. Direct quotes have been translated into English for clarity’s sake.
 
 [^4]: Anthony defines the heroic age as between 1897 and 1922. Anthony, Jason C. “The Importance of Eating Local: Slaughter and Scurvy in Antarctic Cuisine”. _Endeavour_ 35, no. 4 (2011): 169–177; doi:10.1016/j.endeavour.2011.07.002. 
 
-[^5]: Darwin, Charles. _The Voyage of the Beagle_, Charles W. Eliot (ed.), Vol. 29, New York: P.F. Collier & Son 1909: 398–399. Many other animals like lions and pumas ended up on the expedition’s menu, with Darwin stating: “I had now been several days without tasting anything besides meat: I did not at all dislike this new regimen.” Ibid: 129.
+[^5]: Darwin, Charles. _The Voyage of the Beagle_, Charles W. Eliot (ed.), Vol. 29, New York: P.F. Collier & Son 1909: 398–399. Many other animals like lions and pumas ended up on the expedition’s menu, with Darwin stating: “I had now been several days without tasting anything besides meat: I did not at all dislike this new regimen.” Ibid.: 129.
 
-[^6]: Between 1811 and 1844 alone, about 15000 of these turtles are said to have been loaded onto ships. See Darwin, Charles. _The Voyage of the Beagle_, Charles W. Eliot (ed.), Vol. 29, New York: P.F. Collier & Son, 1909.
+[^6]: Between 1811 and 1844 alone, about 15,000 of these turtles are said to have been loaded onto ships. See Darwin, 1909.
 
-[^7]: To learn more about this expedition, listen to this audiopodcast (DE only): https://www.youtube.com/watch?v=_3qMHSCijPU; Palla, Rudi. _Valdivia: die Geschichte der ersten deutschen Tiefsee-Expedition._ Berlin: Galiani, 2016; Chun, Carl. _Wissenschaftliche Ergebnisse der deutschen Tiefsee-Expedition auf dem Dampfer “Valdivia”, 1898–1899_, Jena: Fischer, 1902.
+[^7]: To learn more about this expedition, listen to this audiopodcast (DE only): https://www.youtube.com/watch?v=_3qMHSCijPU_; Palla, Rudi. _Valdivia: Die Geschichte der ersten deutschen Tiefsee-Expedition._ Berlin: Galiani, 2016; Chun, Carl. _Wissenschaftliche Ergebnisse der deutschen Tiefsee-Expedition auf dem Dampfer “Valdivia”, 1898–1899_, Jena: Fischer, 1902.
 
 [^8]: Anthony, Jason C. “The Importance of Eating Local: Slaughter and Scurvy in Antarctic Cuisine”. _Endeavour_ 35, no. 4 (2011): 169–177, 169.
 
 [^9]: Having only enough funds to acquire two Wardian Cases for housing the valuable orchid collection, he stowed the palms first in a longboat and, after their conditions worsened, in his own cabin. But not even such generous co-habitation could save them from the heavy damage inflicted by mice and rats. Schomburgk, Richard. _Reisen in Britisch-Guiana in den Jahren 1840–1844 : nebst einer Fauna und Flora Guiana’s nach Vorlagen von Johannes Müller, Ehrenberg, Erichson, Klotzsch, Troschel, Cabanis und Andern_. Leipzig: J. J. Weber, 1847–48, Vol. II, 1848: 510. 
 
-[^10]: In the aquarium of the Paris World’s Fair in 1867, for instance, visitors to the saltwater aquarium found the Régneville oyster farm exhibit amidst the aquarium animals, with the address of the breeders mentioned in the accompanying catalogue. See Lachapelle, Sofie and Mistry, Heena. “From the Waters of the Empire to the Tanks of Paris. The Creation and Early Years of the Aquarium Tropical, Palais de la Porte Dorée”. _Journal of the History of Biology_ 47, no. 1 (2014): 1–27; see also Kinsey, Darin. “‘Seeding the Water as the Earth’: The Epicenter and Peripheries of a Western Aquacultural Revolution”. _Environmental History_ 11 (2006): 527–566. 
+[^10]: In the aquarium of the Paris World’s Fair in 1867, for instance, visitors to the saltwater aquarium found the Régneville oyster farm exhibit amidst the aquarium animals, with the address of the breeders mentioned in the accompanying catalogue. See Lachapelle, Sofie and Mistry, Heena. “From the Waters of the Empire to the Tanks of Paris: The Creation and Early Years of the Aquarium Tropical, Palais de la Porte Dorée”. _Journal of the History of Biology_ 47, no. 1 (2014): 1–27; see also Kinsey, Darin. “‘Seeding the Water as the Earth’: The Epicenter and Peripheries of a Western Aquacultural Revolution”. _Environmental History_ 11 (2006): 527–566. 
 
 [^11]: Lloyd, William Alford. “The Aquarium”. _The Popular Recreator_ (1873): 170–171, 170.
 
-[^12]: Wood, John George. _The Common Objects of the Sea Shore; Including Hints for an Aquarium_. London: Routledge, 1859: 62.
+[^12]: Wood, John George. _The Common Objects of the Sea Shore: Including Hints for an Aquarium_. London: Routledge, 1859: 62.
 
 [^13]: Lloyd, William Alford. _A List, With Descriptions, Illustrations, and Prices of Whatever Relates to Aquaria_. London: Hayman bros., 1858: 123.
 
-[^14]: See Vennen, Mareike. _Das Aquarium. Praktiken, Techniken und Medien der Wissensproduktion (1840-1910)_. Göttingen: Wallstein, 2018.
+[^14]: See Vennen, Mareike. _Das Aquarium: Praktiken, Techniken und Medien der Wissensproduktion (1840-1910)_. Göttingen: Wallstein, 2018.
 
-[^15]: Schlünder, Martina und Christian Reiß, Axel C. Hüntelmann, Susanne Bauer. “Cakes und Candies – Zur Geschichte der Ernährung von Versuchstieren”. _Berichte zur Wissenschaftsgeschichte_ 35, 4 (2012): 275–285, 282, doi: 10.1002/bewi.201201600. In the course of the 1870s and 1880s, for example, new institute buildings with outdoor facilities were constructed in Würzburg, Leipzig, and Freiburg to meet the changing demands of zoological research. However, these changes not only necessitated new architecture, but also a reorganization of the work, which was accompanied by new tasks in animal care. See Reiß, Christian. _Der Axolotl. Ein Labortier im Heimaquarium_. Göttingen: Wallstein, 2018.
+[^15]: Schlünder, Martina und Christian Reiß, Axel C. Hüntelmann, Susanne Bauer. “Cakes und Candies – Zur Geschichte der Ernährung von Versuchstieren”. _Berichte zur Wissenschaftsgeschichte_ 35, 4 (2012): 275–285, 282.  https://doi.org/10.1002/bewi.201201600. In the course of the 1870s and 1880s, for example, new institute buildings with outdoor facilities were constructed in Würzburg, Leipzig, and Freiburg to meet the changing demands of zoological research. However, these changes not only necessitated new architecture, but also a reorganization of the work, which was accompanied by new tasks in animal care. See Reiß, Christian. _Der Axolotl: Ein Labortier im Heimaquarium_. Göttingen: Wallstein, 2018.
 
 [^16]: Anonymous. “Speisekammer und Küche des Berliner Aquariums”. _Der Zoologische Garten_ 25 (1884): 156–157.
 
@@ -155,11 +155,11 @@ But they didn’t stop there. In addition, a large part of the Jardin de Plantes
 
 [^18]: For the controversies concerning the Berlin Zoo, see AZGB O 0/1/274. A recent case that gained much attention happened in the Copenhagen Zoo, where a healthy 18-month-old male giraffe was dissected publicly with the meat then fed to the zoo’s lions. See, for instance, Smith, Roff. “Giraffe Killing at Copenhagen Zoo Sparks Global Outrage”. _National Geographic_ 12.02.2014: https://www.nationalgeographic.com/science/article/140210-giraffe-copenhagen-science. 
 
-[^19]: Maas, Wietske and Matteo Pasquinelli. “The City Devouring Itself: Urbanibalism in Times of World Wars, Insurgent Communes and Biopolitical Sieges”. In _Open_18: 2030 – War Zone Amsterdam, J. Seijdel and L. Melis (eds.). Rotterdam: NAi Publishers, 2009. http://matteopasquinelli.com/docs/Maas_Pasquinelli_City_Devouring_Itself.pdf. 
+[^19]: Maas, Wietske and Matteo Pasquinelli. “The City Devouring Itself: Urbanibalism in Times of World Wars, Insurgent Communes and Biopolitical Sieges”. In _Open #18. 2030: War Zone Amsterdam_, J. Seijdel and L. Melis (eds.). Rotterdam: NAi Publishers, 2009. http://matteopasquinelli.com/docs/Maas_Pasquinelli_City_Devouring_Itself.pdf. 
 
 [^20]: In fact, war is deeply entangled with logistics, as this practice emerges from the codification of military logistics, with their concern for feeding and transporting moving armies.
 
-[^21]: “It is estimated that during the siege over 5000 cats were slaughtered and eaten“. _Current Opinion #4_, New York: Current Literature Pub. Co, 1890: 379. A diaristic account of horse, dog, cat and rat meat eaten during the siege, see Sheppard, Nathan. _Shut Up in Paris_ London: Richard Bentley and Son, 1871.
+[^21]: “It is estimated that during the siege over 5,000 cats were slaughtered and eaten“. _Current Opinion_ 4, New York: Current Literature Pub. Co, 1890: 379. A diaristic account of horse, dog, cat, and rat meat eaten during the siege, see Sheppard, Nathan. _Shut Up in Paris_ London: Richard Bentley and Son, 1871.
 
 [^22]: Spang, Rebecca L. “‘And They Ate the Zoo’: Relating Gastronomic Exoticism in the Siege of Paris”. _Modern Language Notes_ 107, no. 4 (Sept. 1992): 752–773. According to Spang, a restaurant menu from 25 December 1870, the 99th day of siege, offered _Consommé d’Eléphant_ together with _Cuissot de Loup, sauce Chevreuil_ (haunch of wolf with a deer sauce) and other animals. 
 
