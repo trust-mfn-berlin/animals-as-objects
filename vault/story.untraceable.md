@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Untraceable
 title_de: Unauffindbar
 created: 1640459479902
-updated: 1641312524264
+updated: 1641314298405
 id: abaNOPQjQqMhfMbhbhvm4
 author: "Mareike Vennen "
 translators:
@@ -32,7 +32,7 @@ I am at the Berlin Museum of Natural History, in the Amphibian and Reptile Colle
 
 <figure>
 
-! [A double page of an open notebook reveals handwritten entries for the month of August 1844 in a hand-drawn table. ](/images/Zool-Mus-SI-Verwaltungsakten-Tagebuch-Beyer-1844-10.jpg) 
+![A double page of an open notebook reveals handwritten entries for the month of August 1844 in a hand-drawn table. ](/images/Zool-Mus-SI-Verwaltungsakten-Tagebuch-Beyer-1844-10.jpg) 
 
 <figcaption>
 
@@ -95,7 +95,7 @@ Ort: Museum für Naturkunde Berlin, Sammlung der Amphibien und Reptilien. Ich bi
 
 <figure>
 
-! [Die Doppelseite eines aufgeschlagenen Notizbuchs zeigt handschriftliche Einträge in einer gezeichneten Tabelleneinteilung für den Monat August im Jahr 1844. ](/images/Zool-Mus-SI-Verwaltungsakten-Tagebuch-Beyer-1844-10.jpg) 
+![Die Doppelseite eines aufgeschlagenen Notizbuchs zeigt handschriftliche Einträge in einer gezeichneten Tabelleneinteilung für den Monat August im Jahr 1844. ](/images/Zool-Mus-SI-Verwaltungsakten-Tagebuch-Beyer-1844-10.jpg)  
 
 <figcaption>
 
