@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Zoo and National Socialism
 title_de: Der Zoo im Nationalsozialismus
 created: 1619020958263
-updated: 1640900993229
+updated: 1641324715981
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 author: Clemens Maier-Wolthausen
 translators:
@@ -76,7 +76,7 @@ From 1933 onward, the zoo also put the NSDAP’s antisemitic and racist policies
 
 <figcaption>
 
-_Georg Siegmann was expelled from the Supervisory Board and murdered by the National Socialists despite his service to the zoo. (Sketch Filippo Bertoni.)_
+_Georg Siegmann was expelled from the Supervisory Board and murdered by the National Socialists despite his service to the zoo. (Drawing: Filippo Bertoni.)_
 
 </figcaption>
 
@@ -104,7 +104,7 @@ As with many of Berlin’s large companies, the zoo’s workforce was also “Na
 
 <figcaption>
 
-_The zoo band, 1938. (AZGB, photo Springer. All rights reserved.)_
+_The zoo band, 1938. (AZGB, image: Springer. All rights reserved.)_
 
 </figcaption>
 
@@ -459,7 +459,7 @@ Auch die judenfeindliche und rassistische Politik der NSDAP wurde ab 1933 im Zoo
 
 <figcaption>
 
-_Georg Siegmann wurde trotz seiner Verdienste aus dem Aufsichtsrat vertrieben und von den Nationalsozialisten ermordet. (Skizze Filippo Bertoni.)_
+_Georg Siegmann wurde trotz seiner Verdienste aus dem Aufsichtsrat vertrieben und von den Nationalsozialisten ermordet. (Skizze: Filippo Bertoni.)_
 
 </figcaption>
 
@@ -487,7 +487,7 @@ Auch die Belegschaft des Zoos war wie die vieler Großbetriebe in Berlin binnen 
 
 <figcaption>
 
-_Die Zoo-Musikkapelle, 1938. (AZGB, Foto Springer. Alle Rechte vorbehalten.)_
+_Die Zoo-Musikkapelle, 1938. (AZGB, Foto: Springer. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -707,17 +707,17 @@ Der Zoo war am Ende der nationalsozialistischen Herrschaft materiell aber auch i
 
 Zwar sind Zoos auch in anderen Regimen und Gesellschaftsformen anschlussfähig – wenn die Anpassungen auch subtiler und weniger ausgeprägt waren und sind. Der Tierpark Berlin diente während des Kalten Krieges dem Ost-Berliner Magistrat und dem SED-Regime als Instrument kultureller Diplomatie im Streit um die internationale Anerkennung der DDR und als international anerkanntes Beispiel sozialistischer Bildungs- und Wissenschaftspolitik. Ein eigener Zoo diente wie zu den Zeiten der Zoogründungen des 19. Jahrhunderts als Merkmal einer – in diesem Fall halben – Hauptstadt. Der West-Berliner Zoodirektor konnte auf die bundesdeutsche Politik zählen, die ein Interesse an der Strahlkraft des Zoos für die eingeschlossene Westhälfte der Stadt hatte.[^48] Und heute positionieren sich Zoos als Artenschutzzentren in zunehmend um Biodiversität besorgten liberalen Gesellschaften. Das Ausmaß der Ausnutzung der Institution Zoo ausschließlich für die eigene Politik, wie es das nationalsozialistische Regime erzielt hat, ist in letzteren Fällen aber weder versucht noch erreicht worden.
 
-[^1]: Vgl. beispielsweise Heck, Ludwig. *Heiter-ernste Lebensbeichte. Erinnerungen eines alten Tiergärtners*. Berlin: Deutscher Verlag, 1938: 373; Heck, Lutz. *Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn*. Berlin: Paul Parey, 1935.
+[^1]: Vgl. beispielsweise Heck, Ludwig. *Heiter-ernste Lebensbeichte: Erinnerungen eines alten Tiergärtners*. Berlin: Deutscher Verlag, 1938: 373; Heck, Lutz. *Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn*. Berlin: Paul Parey, 1935.
 
 [^2]: Lebenslauf Lutz Heck für die Reichsschrifttumskammer, Bundesarchiv Berlin (BArch), R 9361, V, 5953.
 
-[^3]: Heck, Lutz. *Waidwerk mit bunter Strecke. Jagd in heimischen Revieren*. Hamburg, Berlin: Parey, 1968: 67.
+[^3]: Heck, Lutz. *Waidwerk mit bunter Strecke: Jagd in heimischen Revieren*. Hamburg, Berlin: Parey, 1968: 67.
 
-[^4]: Vgl. Maier-Wolthausen, Clemens. *Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos*. Hg. von Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 111-113.
+[^4]: Vgl. Maier-Wolthausen, Clemens. *Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos*. Andreas Knieriem (Hg.). Berlin: Ch. Links Verlag, 2019: 111-113.
 
 [^5]: Vgl. Lutz Heck. *Auf Urwild in Kanada*. Berlin: Paul Parey, 1937.
 
-[^6]: Vgl. u. a. Heck, Lutz. *Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn*. Berlin: Paul Parey, 1935.
+[^6]: Vgl. u. a. Heck, Lutz. *Der deutsche Edelhirsch: Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn*. Berlin: Paul Parey, 1935.
 
 [^7]: *Jahrbuch der Fachschaft Deutsche Bracken*, 1935/36.
 
@@ -733,7 +733,7 @@ Zwar sind Zoos auch in anderen Regimen und Gesellschaftsformen anschlussfähig �
 
 [^13]: Zoologischer Garten Berlin. *Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin* für das Jahr 1933.
 
-[^14]: “Der Urwald ruft. Kolonialkunst-Ausstellung im Zoologischen Garten”. *Berliner Lokalanzeiger*, 06.04.1933.
+[^14]: “Der Urwald ruft: Kolonialkunst-Ausstellung im Zoologischen Garten”. *Berliner Lokalanzeiger*, 06.04.1933.
 
 [^15]: Pressemitteilung 29.06.1934, AZGB O 0/1/15; “Sensation im Affenpalmenhaus”. *Völkischer Beobachter*, 13.06.1937.
 
@@ -741,11 +741,11 @@ Zwar sind Zoos auch in anderen Regimen und Gesellschaftsformen anschlussfähig �
 
 [^17]: Schriftwechsel zwischen allen Parteien in GStA PK I. HA, Rep 151, 2500 und Niederschrift der Aufsichtsratssitzung 24.08.1935, GStA PK I. HA, Rep 151, 2496, Bl. 93-94.
 
-[^18]: Reinert, Wiebke, und Mieke Roscher. “Der zoologiscche Garten als anderer Raum. Hamburger und Berliner Heterotopien”. In *Urbane Tier-Räume*, hg. von Thomas E. Hauck, Stefanie Hennecke, André Krebber, Wiebke Reinert, und Mieke Roscher. Berlin: Dietrich Reimer Verlag, 2017: 112.
+[^18]: Reinert, Wiebke und Mieke Roscher. “Der zoologiscche Garten als anderer Raum: Hamburger und Berliner Heterotopien”. In *Urbane Tier-Räume*, Thomas E. Hauck, Stefanie Hennecke, André Krebber, Wiebke Reinert und Mieke Roscher (Hg.). Berlin: Dietrich Reimer Verlag, 2017: 112.
 
 [^19]: Presseführung Haustierhof, Pfingsten 1937, AZGB O 0/1/15.
 
-[^20]: Artinger, Kai. “Lutz Heck: Der ‘Vater der Rominter Ure’. Einige Bemerkungen zum wissenschaftlichen Leiter des Berliner Zoos im Nationalsozialismus”. *Der Bär von Berlin – Jahrbuch des Vereins für die Geschichte Berlins* 23 (1994): 125-139. https://www.diegeschichteberlins.de/geschichteberlins/persoenlichkeiten/persoenlichkeitenhn/491-heck.html (24.06.2021).
+[^20]: Artinger, Kai. “Lutz Heck: Der ‘Vater der Rominter Ure’. Einige Bemerkungen zum wissenschaftlichen Leiter des Berliner Zoos im Nationalsozialismus”. *Der Bär von Berlin – Jahrbuch des Vereins für die Geschichte Berlins* 23 (1994): 125-139. https://www.diegeschichteberlins.de/geschichteberlins/persoenlichkeiten/persoenlichkeitenhn/491-heck.html (03.01.2022).
 
 [^21]: Vgl. u. a. Heck, Lutz. “Über die Neuzüchtung des Ur oder Auerochs”. _Berichte der Internationalen Gesellschaft zur Erhaltung des Wisents_ 3, Nr. 4 (1936): 224-294, 235.
 
@@ -769,23 +769,23 @@ Zwar sind Zoos auch in anderen Regimen und Gesellschaftsformen anschlussfähig �
 
 [^31]: Aufsichtsratsprotokoll, 16.12.1939, AZGB O 0/2/2.
 
-[^32]: Bauzeichnungen und -anträge für Luftschutzräume, LAB, A Rep. 032-08, Nr. 293; vgl. auch Heck, Lutz. *Tiere – mein Abenteuer. Erlebnisse in Wildnis und Zoo*. Wien: Ullstein 1954: 97-102; Rede von L. Heck auf der Hauptversammlung 1940, AZGB O 0/3/13; Notiz zum Geschäftsbericht für das Jahr 1941, AZGB O 0/3/12.
+[^32]: Bauzeichnungen und -anträge für Luftschutzräume, LAB, A Rep. 032-08, Nr. 293; vgl. auch Heck, Lutz. *Tiere – mein Abenteuer: Erlebnisse in Wildnis und Zoo*. Wien: Ullstein 1954: 97-102; Rede von L. Heck auf der Hauptversammlung 1940, AZGB O 0/3/13; Notiz zum Geschäftsbericht für das Jahr 1941, AZGB O 0/3/12.
 
-[^33]: Vgl. Maier-Wolthausen, Clemens. *Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos*. Hg. von Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 118-129.
+[^33]: Vgl. Maier-Wolthausen, Clemens. *Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos*. Andreas Knieriem (Hg.). Berlin: Ch. Links Verlag, 2019: 118-129.
 
-[^34]: Wöbse, Anna-Katharina, und Mieke Roscher. “Zootiere während des Zweiten Weltkrieges: London und Berlin 1939-1945”. *WerkstattGeschichte*, Nr. 56 (2010): 44-62, 50.
+[^34]: Wöbse, Anna-Katharina und Mieke Roscher. “Zootiere während des Zweiten Weltkrieges: London und Berlin 1939-1945”. *WerkstattGeschichte*, Nr. 56 (2010): 44-62, 50.
 
 [^35]: Bruce, Gary. *Through the Lion Gate. A History of the Berlin Zoo*. Oxford: Oxford University Press, 2017: 164, mit Berufung auf die Memoiren der Ehefrau des Zoodirektors Antonina Zabinska.
 
 [^36]: Aufsichtsratsprotokoll, 30.07.1940, AZGB O 0/2/2.
 
-[^37]: Vgl. Gautschi, Andreas. *Der Reichsjägermeister. Fakten und Legenden um Hermann Göring*. Melsungen: Nimrod, 2010; Rubner, Heinrich. *Deutsche Forstgeschichte, 1933-1945. Forstwirtschaft, Jagd und Umwelt im NS-Staat*. St. Katharinen: Scripta Mercaturae, 1997; Kopie der Vereinbarung zwischen dem Reichskommissar für die Festigung deutschen Volkstums – Stabshauptamt und dem Reichsforstmeister als Oberster Naturschutzbehörde über die Ausführung der Besprechung vom 20. März 1942, 11.05.1942, BArch, R 49/2066; Schriftwechsel mit dem Britischen Kommandanten Tiergarten Lt. Col. Nunn im Dezember 1945, AZGB S 15/17; Alte Tierkartei, Karteikarte “Panjepferde”.
+[^37]: Vgl. Gautschi, Andreas. *Der Reichsjägermeister: Fakten und Legenden um Hermann Göring*. Melsungen: Nimrod, 2010; Rubner, Heinrich. *Deutsche Forstgeschichte, 1933-1945: Forstwirtschaft, Jagd und Umwelt im NS-Staat*. St. Katharinen: Scripta Mercaturae, 1997; Kopie der Vereinbarung zwischen dem Reichskommissar für die Festigung deutschen Volkstums – Stabshauptamt und dem Reichsforstmeister als Oberster Naturschutzbehörde über die Ausführung der Besprechung vom 20. März 1942, 11.05.1942, BArch, R 49/2066; Schriftwechsel mit dem Britischen Kommandanten Tiergarten Lt. Col. Nunn im Dezember 1945, AZGB S 15/17; Alte Tierkartei, Karteikarte “Panjepferde”.
 
 [^38]: Es finden sich keine Hinweise darauf, dass auch Frauen als Zwangsarbeiterinnen im Zoo ausgebeutet wurden, daher ist im Folgenden nur von Zwangsarbeitern die Rede.
 
 [^39]: Protokoll der Generalversammlung für 1942, AZGB O 0/3/12.
 
-[^40]: Vgl. Maier-Wolthausen, Clemens. *Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos*. Hg. von Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 126-127.
+[^40]: Vgl. Maier-Wolthausen, Clemens. *Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos*. Andreas Knieriem (Hg.). Berlin: Ch. Links Verlag, 2019: 126-127.
 
 [^41]: Rundschreiben L. Heck an die zoologischen Gärten, 22.02.1945; sowie Fisch-Grosshandel H. D. Petersen an L. Heck, 08.03.1945, AZGB O 0/1/88.
 
@@ -801,4 +801,4 @@ Zwar sind Zoos auch in anderen Regimen und Gesellschaftsformen anschlussfähig �
 
 [^47]: K. Heinroth: “Kriegszerstörungen und Aufbau von 1945 bis 1956 im Berliner Zoologischen Garten”, maschinenschriftliches Manuskript, AZGB N 4/2.
 
-[^48]: Vgl. hierzu Maier-Wolthausen, Clemens. *Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos*. Hg. von Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 162-169, 206-211; Maier-Wolthausen, Clemens. “Ein Zoo für die Hauptstadt”. *Aus Politik und Zeitgeschichte* 71, Nr. 9 (2021): 11-17, 14-15; Mohnhaupt, Jan. *Der Zoo der anderen. Als die Stasi ihr Herz für Brillenbären entdeckte & Helmut Schmidt mit Pandas nachrüstete*. München: Carl Hanser, 2017; sowie Maier-Wolthausen, Clemens. *Alphamännchen und Herdentiere. Deutsch-deutsche Beziehungen in Tierpark und Zoo Berlin*. Vorauss. Berlin: Reimer, 2022.
+[^48]: Vgl. hierzu Maier-Wolthausen, Clemens. *Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos*. Andreas Knieriem (Hg.). Berlin: Ch. Links Verlag, 2019: 162-169, 206-211; Maier-Wolthausen, Clemens. “Ein Zoo für die Hauptstadt”. *Aus Politik und Zeitgeschichte* 71, Nr. 9 (2021): 11-17, 14-15; Mohnhaupt, Jan. *Der Zoo der anderen: Als die Stasi ihr Herz für Brillenbären entdeckte & Helmut Schmidt mit Pandas nachrüstete*. München: Carl Hanser, 2017; sowie Maier-Wolthausen, Clemens. *Alphamännchen und Herdentiere: Deutsch-deutsche Beziehungen in Tierpark und Zoo Berlin*. Vorauss. Berlin: Reimer, 2022.
