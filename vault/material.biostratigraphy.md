@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Biostratigraphy
 title_de: Biostratigraphie
 created: 1618493136975
-updated: 1641294552989
+updated: 1641294893905
 id: f0ff8e4e-5bb8-4622-8d51-8da1cb651524
 author: Filippo Bertoni
 translators:
@@ -27,7 +27,7 @@ published: false
 
 <figure>
 
-![desc]((/images/filo/sedimentary-rocks.png)
+![desc](/images/filo/sedimentary-rocks.png)
 
 <figcaption>
 
