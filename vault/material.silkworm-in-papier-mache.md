@@ -2,7 +2,7 @@
 id: kaVI1pTyKCM8SvVsrYrSJ
 title: Papier Mâché Silkworm
 desc: Papier mâché model of a silkworm
-updated: 1640913099727
+updated: 1641339398593
 created: 1629796212936
 license: CC BY-SA
 title_de: Maulbeerspinner in Papiermaschee
@@ -43,7 +43,7 @@ published: false
 
 <figcaption>
 
-_Papier mâché_ Bombyx mori _by Louis Auzoux in the Zoological Teaching Collection of the Humboldt University of Berlin. (Zoological Teaching Collection, photo Kerstin Stoll 2020. All rights reserved.)_
+_Papier mâché_ Bombyx mori _by Louis Auzoux in the Zoological Teaching Collection of the Humboldt University of Berlin. (Zoological Teaching Collection, image: Kerstin Stoll 2020. All rights reserved.)_
 
 </figcaption>
 
@@ -59,7 +59,7 @@ While the studio of Adolf Ziegler (1820-1889) and his son Friedrich (1860-1936) 
 
 <figcaption>
 
-_Even with the lid closed, the insides of the silkworm can be seen in the papier mâché model. (Zoological Teaching Collection, photo Kerstin Stoll 2020. All rights reserved.)_
+_Even with the lid closed, the insides of the silkworm can be seen in the papier mâché model. (Zoological Teaching Collection, photo: Kerstin Stoll 2020. All rights reserved.)_
 
 </figcaption>
 
@@ -71,7 +71,7 @@ The functional, collapsible anatomical model (which Auzoux also referred to as a
 
 [^2]: On Auzoux’ models, see Grob, Bart. _The World of Auzoux: Models of Man and Beast in Papier-Mâché_. Leiden: Museum Boerhaave, 2000; Cocks, Margret Maria. “Dr Louis Auzoux and His Collection of Papier-Mâché Flowers, Fruits and Seeds”. _Journal of the History of Collections_ 26, no. 2 (2014): 229-248; Olszewski, Margret Maria. “Dr. Auzoux’ Botanical Teaching Models and Medical Education at the Universities of Glasgow and Aberdeen”. _Studies in History and Philosophy of Science. Part C_ 42, no. 3 (2011): 285-296.
 
-[^3]: Cf. “Modell, Raupe, Seidenspinner”. Humboldt University database entry, no date, https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (24.08.2021).
+[^3]: Cf. “Modell, Raupe, Seidenspinner”. Humboldt University database entry, no date, https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (03.01.2022).
 
 
 [^4]: Vgl. Dr. L. Wittmack: _Allgemeiner Katalog des königlichen landwirthschaftlichen Museums zu Berlin_, Berlin: Verlagsbuchhandlung Wiegandt und Hempel, 1869, pp. 108f. (no. 43). The model was purchased from Auzoux for 66 talers, and it is highly likely that it then moved to Invalidenstraße 42 when the United Agricultural Teaching Institute and Museum (Vereinigtes landwirthschaftliches Lehr-Institut und Museum) was built in 1880. 
@@ -92,7 +92,7 @@ The functional, collapsible anatomical model (which Auzoux also referred to as a
 
 <figcaption>
 
-_Clastique-Modell_ Bombyx mori _von Louis Auzoux in der Zoologischen Lehrsammlung der Humboldt-Universität zu Berlin. (Zoologische Lehrsammlung, Foto Kerstin Stoll 2020. Alle Rechte vorbehalten.)_
+_Clastique-Modell_ Bombyx mori _von Louis Auzoux in der Zoologischen Lehrsammlung der Humboldt-Universität zu Berlin. (Zoologische Lehrsammlung, Foto: Kerstin Stoll 2020. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -108,7 +108,7 @@ Während das Atelier von Adolf Ziegler (1820-1889) und seinem Sohn Friedrich (18
 
 <figcaption>
 
-_Auch mit geschlossenem Deckel sind die Innereien des Maulbeerspinners seitlich am Clastique-Modell zu erkennen. (Zoologische Lehrsammlung, Foto Kerstin Stoll 2020. Alle Rechte vorbehalten.)_
+_Auch mit geschlossenem Deckel sind die Innereien des Maulbeerspinners seitlich am Clastique-Modell zu erkennen. (Zoologische Lehrsammlung, Foto: Kerstin Stoll 2020. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -120,6 +120,6 @@ Das aufklappbare anatomische Funktionsmodell (auch Clastique-Modell genannt) von
 
 [^2]: Zu Auzoux’ Modellen vgl. Grob, Bart. _The World of Auzoux: Models of Man and Beast in Papier-Mâché_. Leiden: Museum Boerhaave, 2000; Cocks, Margret Maria. “Dr Louis Auzoux and His Collection of Papier-Mâché Flowers, Fruits and Seeds”. _Journal of the History of Collections_ 26, Nr. 2 (2014): 229-248; Olszewski, Margret Maria. “Dr. Auzoux’ Botanical Teaching Models and Medical Education at the Universities of Glasgow and Aberdeen”. _Studies in History and Philosophy of Science. Part C_ 42, Nr. 3 (2011): 285-296.
 
-[^3]: Vgl. “Modell, Raupe, Seidenspinner”. Datenbankeintrag der HU, ohne Datum, https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (24.08.2021).
+[^3]: Vgl. “Modell, Raupe, Seidenspinner”. Datenbankeintrag der HU, ohne Datum, https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (03.01.2022).
 
 [^4]: Vgl. Dr. L. Wittmack: _Allgemeiner Katalog des königlichen landwirthschaftlichen Museums zu Berlin_, Berlin: Verlagsbuchhandlung Wiegandt und Hempel, 1869, S. 108f. (Nr. 43). Das Modell von Auzoux wurde für gut 66 Taler erworben und dann höchstwahrscheinlich mit dem Neubau des Vereinigten landwirthschaftlichen Lehr-Institut und Museum in Berlin 1880 in die Invalidenstraße 42 transferiert. 
