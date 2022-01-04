@@ -7,7 +7,7 @@ desc: |-
   biological taxonomy was neither stable nor universal, controversies frequently
   emerged. Classifications still continue to change today – and they have
   lasting impacts on our world.
-updated: 1640907749290
+updated: 1641314024682
 created: 1618491191119
 license: CC BY-SA
 title_de: Taxonomische Ordnung
@@ -104,7 +104,7 @@ Like all sorts of classifications, biological taxonomies are entangled with powe
 
 [^10]: An example of this digitization of taxonomic expertise can be found in the [[material.nsb-database]].
 
-[^11]: This can be seen in other stories on this website, like that of [[limulus|story.moving-horseshoe-crabs]], of [[story.cycladophora-davisiana]], but also of the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]].
+[^11]: This can be seen in other stories on this website, like that of [[story.moving-horseshoe-crabs]], of [[story.cycladophora-davisiana]], but also of the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]].
 
 [^12]: A useful example to understand this complex dynamic between taxonomic orders and real-life consequences can be found in the role of zoos and museums in conservation sciences. Databases and lists like [[ZIMS|material.species360]] organize conservation efforts along specific taxonomic orders, shaping who gets to live on our planet.
 
@@ -179,7 +179,7 @@ Wie alle Klassifikationssysteme bringen auch biologische Taxonomien Machtverhäl
 
 [^10]: Ein Beispiel für die Digitalisierung taxonomischen Fachwissens ist die [[material.nsb-database]].
 
-[^11]: Nachzulesen in weiteren Storys auf dieser Website, siehe [[limulus|story.moving-horseshoe-crabs]], [[story.cycladophora-davisiana]] oder auch [[Zoologische Lehrsammlung|story.history-of-the-zoological-teaching-collection]].
+[^11]: Nachzulesen in weiteren Storys auf dieser Website, siehe [[story.moving-horseshoe-crabs]], [[story.cycladophora-davisiana]] oder auch [[Zoologische Lehrsammlung|story.history-of-the-zoological-teaching-collection]].
 
 [^12]: Ein anschauliches Beispiel, um die komplexe Dynamik zwischen taxonomischen Ordnungen und realen Konsequenzen zu verstehen, ist die Rolle von Zoos und Museen in den Naturschutzwissenschaften. Datenbanken und Listen wie [[ZIMS|material.species360]] tragen zur Ausrichtung von Schutzmaßnahmen entlang bestimmter taxonomischer Ordnungen bei und bestimmen damit, wer auf unserem Planeten überleben darf.
 
