@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Biostratigraphy
 title_de: Biostratigraphie
 created: 1618493136975
-updated: 1641295378533
+updated: 1641295498823
 id: f0ff8e4e-5bb8-4622-8d51-8da1cb651524
 author: Filippo Bertoni
 translators:
@@ -37,7 +37,7 @@ _Sedimentary rocks (source: youtube)_
 
 </figure>
 
-Biostratigraphy is the use of fossil assemblages to correlate and age rock strata in underground sediments. As living organisms die, their remains get included in sediments and buried by the ongoing deposition of new layers of sediment. Scientists use these fossil remains as a key to date geological layers which are called strata. The basic principles of this scientific technique were already discussed by Danish academic Nicolas Steno in 1669, but it was only over the course of the 19th century that the mechanisms behind it were understood through Darwin’s formulation of evolutionary theory. Nevertheless, we had to wait until the development of [[story.industrial-micropaleontology]] in the 1920s, as well as techniques like [[story.deep-sea-drilling]], to recognize the usefulness of microfossils in biostratigraphy. Since then, [[story.micropaleontological-formations]] have become the most widespread and important tool in biostratigraphy. They are widely used not only in scientific research but also throughout the extractive industries. They are vital, for example, to the extraction of [[material.fossil-fuels]]. As biostratigraphy is used to dig up clues about the deep history of the planet, this tool also plays a part in the ongoing transformation of Earth characterising the anthropocene - our current geological era, marked by the impact of modern capitalist society onto the very fabric of our environment.
+Biostratigraphy is the use of fossil assemblages to correlate and age rock strata in underground sediments. As living organisms die, their remains get included in sediments and buried by the ongoing deposition of new layers of sediment. Scientists use these fossil remains as a key to date geological layers which are called strata. The basic principles of this scientific technique were already discussed by Danish academic Nicolas Steno in 1669, but it was only over the course of the 19th century that the mechanisms behind it were understood through Darwin’s formulation of evolutionary theory. Nevertheless, we had to wait until the development of [[industrial micropaleontology|story.industrial-micropaleontology]] in the 1920s, as well as techniques like [[deep sea drilling|story.deep-sea-drilling]], to recognize the usefulness of microfossils in biostratigraphy. Since then, [[micropaleontological formations|story.micropaleontological-formations]] have become the most widespread and important tool in biostratigraphy. They are widely used not only in scientific research but also throughout the extractive industries. They are vital, for example, to the extraction of [[fossil fuels|material.fossil-fuels]]. As biostratigraphy is used to dig up clues about the deep history of the planet, this tool also plays a part in the ongoing transformation of Earth characterising the anthropocene - our current geological era, marked by the impact of modern capitalist society onto the very fabric of our environment.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rWp5ZpJAIAE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
