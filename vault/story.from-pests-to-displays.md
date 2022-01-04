@@ -1,21 +1,27 @@
 ---
 license: CC BY-SA
-title_de: Von Schädlingen zu Ausstellungsobjekten
-created: 1640461871904
-author: Author name(s) here.
-short_desc_de: dt titel noch nicht abgenommen; text noch in durchsicht
-date_end: ""
-published: false
 title: From Pests to Displays
+title_de: Von Schädlingen zu Ausstellungsstücken
+created: 1640461871904
 updated: 1641313376624
 id: 3YRSzijvbnQXZs4VO291j
-desc: Put a description of this note here...
-desc_de: Put a DE description of this note here...
-short_desc: dt titel noch nicht abgenommen;  text noch in durchsicht
+author: Mareike Vennen
+translators:
+  translator_de_en: Lydia J. White
+desc: "Naturalists in the 19th century faced various challenges when
+  transporting specimens and live animals by ship: who should be cared for, who
+  should be fed, and who should go overboard?"
+desc_de: "Der überseeische Transport von – toten wie lebenden – Tieren stellte
+  Naturkundler:innen im 19. Jahrhundert immer wieder vor die Frage: Wer wird
+  versorgt, wer verfüttert, und wer geht über Bord?"
+short_desc: Lively (and deadly) metabolisms at sea
+short_desc_de: "Stoffwechselprozesse auf hoher See "
 cover_image: null
 colour_scheme: 14
 tao_type: story
-date_start: ""
+date_start: 1839-12-31T23:50:39.000Z
+date_end: 1844-12-30T23:50:39.000Z
+published: false
 ---
 
 :::EN:::
