@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Moving Horseshoe Crabs
 title_de: Auf verschwommenen Pfaden
 created: 1640293118344
-updated: 1641299145760
+updated: 1641299208571
 id: WPnxMDphZ5DDXrhkIdvBS
 author: Mareike Vennen
 translators:
@@ -42,7 +42,7 @@ _This 1914 drawing connects various places: it shows horseshoe crabs at the beac
 
 In August 1866, fishermen caught a number of horseshoe crabs off the Dutch coast. What was unusual about this by-catch was that the species, _Limulus polyphemus_ (Linnaeus, 1758), had mainly been found in the North Atlantic up until that point, but never in European waters.[^1] How had the animals made their way to the North Sea, and why do we still know about them today? Or, in other words: How was knowledge about their distribution produced, and how was it disseminated?
 
-## Abandoned in the ocean – from aquarium exhibits to surplus animals
+## Abandoned in the Ocean: From Aquarium Exhibits to Surplus Animals
 
 Live horseshoe crabs came to Europe, among other things, on the back of the aquarium trade, which began picking up speed in the mid-19th century. At that time, successfully shipping live water creatures was still a sensational feat. There had already been imports of live animals for 18th-century menageries and the zoological gardens of the early 19th century. By contrast, the transport of aquatic animals had until that point been mainly limited to preserved specimens that arrived by trade or passenger ship in harbours, from where they made their way into natural history collections or the hands of private collectors. While seamen in harbour towns like Hamburg had long been supplying natural history museums, private collectors, and the natural history trade with sea creatures, it was only in the mid-19th century that the transport of live animals experienced a noticeable boom when the aquarium trade, which had begun in England, spread to Europe and beyond.[^2]
 The question of which species would prevail as aquarium animals and therefore objects of trade, and what value would be ascribed to them, depended on demand but also on practical factors such as their transportability and ability to survive. For, at that time, nowhere near all animals survived the long voyages on board ships, which often took months. In 1900, aquarists still believed it was a “recognised fact that it is much easier to import live elephants than a finger-long fish”.[^3] The particular challenge presented by attempting to transport live water creatures was that most of them required a mini-environment to be created for them. This did not just take a lot of effort and money, but also required specific knowledge of a given species’ habitat.
@@ -55,7 +55,7 @@ These animals could be transported in tubs or crates with wet sand that only had
 
 In the case of the horseshoe crabs that Lloyd purchased for the Hamburg Aquarium, the animals’ resilience became a real problem: “[T]he success with which they were brought over led to my getting many more than the Hamburg Aquarium could accommodate.”[^6] After he had sold and given away some of the surplus specimens, he handed off the rest of the animals – in secret, as he admits – to the next steamship sailing from Hamburg to London with instructions to throw them overboard off Helgoland.[^7] The horseshoe crabs’ resilience thus led to the surplus animals being abandoned in the ocean. Seafaring and the aquarium trade were therefore two of the vectors that were – and still are – responsible for the global distribution of species, not just within but also outside of aquariums. 
 
-## Fished out of the sea – from by-catch to an object of knowledge
+## Fished out of the Sea: From By-Catch to an Object of Knowledge
 
 When Lloyd found out that horseshoe crabs had been caught off the Dutch coast one year later, he had no doubt that they were the specimens from his secret release operation (or their descendants).[^8] The fishermen sent their finds to naturalists and thus became part of a network of natural history observation and collecting. In this way, the horseshoe crabs changed their space and simultaneously their status once more: in the fishermen’s nets, they went from being a surplus product of trade to becoming an object of knowledge.
 Scientific and popular natural history journals reported on the discoveries and sightings of horseshoe crabs in the sea. Lloyd, too, had found out about the animals found near Helgoland in a report. Around the same time, the natural history expert Thomas Southwell gave an account of horseshoe crabs that fishing boats had caught near Yarmouth on the Canadian coast and in North Wales[^9] in the journal _The Zoologist_, as did a note in _Land and Water_.[^10] In Germany, in turn, a certain Dr C. Lohmeyer reported in the _Emdener Zeitung_ newspaper on a specimen that prawn fishers near Norderney had fished out of the sea. His news was shared again in the _Mittheilungen des Naturwissenschaftlichen Vereins_ (Communications of the Scientific Association) in Frankfurt.[^11] As the animals spread throughout the world’s oceans, biogeographical knowledge about their movements was being spread in scientific and popular science texts. The horseshoe crabs migrated from the ocean through the aquarium and into science.
