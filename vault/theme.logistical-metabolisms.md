@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Logistical Metabolisms
 title_de: "Logistische Metabolismen "
 created: 1640459420576
-updated: 1641315314831
+updated: 1641316277502
 id: GkUgy87PFegTFmR0W1Z2Q
 author: Mareike Vennen, Filippo Bertoni
 translators:
@@ -37,7 +37,7 @@ published: false
 
 ![A painting shows a rat in front of a brownish background. It is hanging upside down with its tail bound to a nail.](/images/mv/charpentier-rat.jpg)
 
-<ficaption>
+<figcaption>
 
 _Auguste Charpentier:_ Rat ayant servi à l’alimentation pendant le siège de Paris _[A Sewer Rat served as food during the Siege of Paris], 1871. (Courtesy Musée Carnevalet, Paris. All rights reserved.)_
 
