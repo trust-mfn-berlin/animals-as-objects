@@ -7,7 +7,7 @@ short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 date_end: 1935-01-01T10:48:28.706Z
 published: false
 title: Labels and Knowledge
-updated: 1640910513472
+updated: 1641333230984
 id: K2rQQdv1K7aDMUi5gDHcN
 translators:
   translator_de_en: Carla Welch
@@ -49,7 +49,7 @@ A discovery: a pile of old tags from Berlin Zoological Garden, most of them from
 
 <figcaption>
 
-_Historical labels from the Zoological Garden in an archive folder in the Museum of Natural History: material traces of the history of the relationship between the zoo and the museum in Berlin. (MfN, HBSB, S004-02-05 Nr. 96, photo Sarina Schirmer. All rights reserved.)_
+_Historical labels from the Zoological Garden in an archive folder in the Museum of Natural History: material traces of the history of the relationship between the zoo and the museum in Berlin. (MfN, HBSB, S004-02-05 Nr. 96, image: Sarina Schirmer. All rights reserved.)_
 
 </figcaption>
 
@@ -167,7 +167,7 @@ Fund: Ein Stapel alter Anhänger aus dem Zoologischen Garten Berlin, die meisten
 
 <figcaption>
 
-_Historische Etiketten des Zoologischen Gartens in einem Archivordner des Naturkundemuseums: materielle Spuren der Beziehungsgeschichte zwischen Zoo und Museum in Berlin. (HBSB MfN, HBSB, S004-02-05 Nr. 96, Foto Sarina Schirmer. Alle Rechte vorbehalten.)_
+_Historische Etiketten des Zoologischen Gartens in einem Archivordner des Naturkundemuseums: materielle Spuren der Beziehungsgeschichte zwischen Zoo und Museum in Berlin. (HBSB MfN, HBSB, S004-02-05 Nr. 96, Foto: Sarina Schirmer. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -232,7 +232,7 @@ _Lückenhaftes Wissensding: Etikett mit Leerstellen und allgemeinen Angaben zum 
 
 </figure>
 
-An den Zetteln lässt sich so nicht nur das Wissen ablesen, das an das Museum übermittelt wurde, sondern auch die Wissenslücken.[3] Diese verweisen nicht zuletzt auf die Unterschiede zwischen Zoos und Museen – in Zoos wurden nicht zwangsläufig so viele und nicht so genaue Daten über ein Tier gesammelt wie in naturkundlichen Sammlungen (siehe auch [[Tiere verzeichnen|story.keeping-record-of-animals]]). Dafür waren auf den Etiketten häufig zusätzliche (Gebrauchs)Anweisungen vermerkt.
+An den Zetteln lässt sich so nicht nur das Wissen ablesen, das an das Museum übermittelt wurde, sondern auch die Wissenslücken.[^3] Diese verweisen nicht zuletzt auf die Unterschiede zwischen [[Zoos und Museen|story.keeping-record-of-animals]] – in Zoos wurden nicht zwangsläufig so viele und nicht so genaue Daten über ein Tier gesammelt wie in naturkundlichen Sammlungen. Dafür waren auf den Etiketten häufig zusätzliche (Gebrauchs)Anweisungen vermerkt.
  
 <figure>
 
