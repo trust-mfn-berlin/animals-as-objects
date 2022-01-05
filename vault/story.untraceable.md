@@ -7,7 +7,7 @@ short_desc_de: "Verschollene Objekte und alte Kataloge "
 date_end: 2022-01-04T16:26:25.633Z
 published: false
 title: Untraceable
-updated: 1641426200433
+updated: 1641426333588
 id: abaNOPQjQqMhfMbhbhvm4
 translators:
   translator_de_en: Lydia J. White
@@ -141,11 +141,11 @@ Der “junge Caiman”, über dessen Verbleib wir nichts wissen, bleibt vorerst 
 
 [^2]: Der erste nicht numerische Inventarkatalog des Zoologischen Museums, der noch taxonomisch geordnet wurde, wurde zwischen 1824 und 1830 (vermutlich vom damaligen Museumsdirektor Lichtenstein) angelegt. Der erste numerische Inventarkatalog des Museums wurde ca. 1856 von Lichtenstein begonnen und kurz danach von Wilhelm Peters weitergeführt.
 
-[^3]: Die frühen Kataloge im Museum waren zunächst hauptsächlich taxonomisch gegliedert statt numerisch, teilweise kamen (häufig sehr allgemeine) Herkunftsangaben und Geber hinzu. Mitte der 1850er-Jahre wurden in den Sammlungen numerische Kataloge eingeführt, so auch für die Herpetologie. Vgl. Frahnert, Sylke. “Katalogisieren. Ein Praxisbericht”. _Sammlungsökonomien_, Nils Güttler und Ina Heumann (Hg.). Berlin: Kadmos, 2016: 95–108.
+[^3]: Die frühen Kataloge im Museum waren zunächst hauptsächlich taxonomisch gegliedert statt numerisch, teilweise kamen (häufig sehr allgemeine) Herkunftsangaben und Geber hinzu. Mitte der 1850er-Jahre wurden in den Sammlungen numerische Kataloge eingeführt, so auch für die Herpetologie. Vgl. Frahnert, Sylke. “Katalogisieren. Ein Praxisbericht”. In _Sammlungsökonomien_, Nils Güttler und Ina Heumann (Hg.). Berlin: Kadmos, 2016: 95-108.
 
-[^4]: Der erste (nicht numerisch angelegte) Katalog der Herpetologischen Sammlung “Nomenclator Reptilium et Amphibiorum”, herausgegeben von Lichtenstein & von Martens, wurde 1856 publiziert. 
+[^4]: Der erste (nicht numerisch angelegte) Katalog der Herpetologischen Sammlung _Nomenclator Reptilium et Amphibiorum_, herausgegeben von Lichtenstein & von Martens, wurde 1856 publiziert. 
 
-[^5]: Da die meisten dieser Akteur*innen nicht namentlich genannt werden, wissen wir nicht, ob es sich um Männer oder Frauen handelte, daher werden hier beide Formen aufgenommen. Vgl. MfN, HBSB, ZM S II-Schomburgk R 59 r; Schomburgk, Richard. _Reisen in Britisch-Guiana in den Jahren 1840–1844: Nebst einer Fauna und Flora Guiana’s nach Vorlagen von Johannes Müller, Ehrenberg, Erichson, Klotzsch, Troschel, Cabanis und Andern_, Bd. 1 und 2. Leipzig: J. J. Weber, 1847–1848.
+[^5]: Da die meisten dieser Akteur:innen nicht namentlich genannt werden, wissen wir nicht, ob es sich um Männer oder Frauen handelte, daher werden hier beide Formen aufgenommen. Vgl. MfN, HBSB, ZM S II-Schomburgk R 59 r; Schomburgk, Richard. _Reisen in Britisch-Guiana in den Jahren 1840–1844: Nebst einer Fauna und Flora Guiana’s nach Vorlagen von Johannes Müller, Ehrenberg, Erichson, Klotzsch, Troschel, Cabanis und Andern_, Bd. 1 und 2. Leipzig: J. J. Weber, 1847–1848.
 
 [^6]: Martin, Philipp Leopold. _Die Praxis der Naturgeschichte. Ein vollständiges Lehrbuch, Erster Teil: Taxidermie oder die Lehre vom Präparieren, Konservieren und Ausstopfen der Tiere und ihrer Teile; vom Naturaliensammeln auf Reisen und dem Naturalienhandel_. Weimar: B.F. Voigt, 1886: 1.
 

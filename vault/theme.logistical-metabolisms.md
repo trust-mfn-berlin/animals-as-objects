@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Logistical Metabolisms
 title_de: "Logistische Metabolismen "
 created: 1640459420576
-updated: 1641424890404
+updated: 1641426417278
 id: GkUgy87PFegTFmR0W1Z2Q
 author: Mareike Vennen, Filippo Bertoni
 translators:
@@ -135,7 +135,7 @@ But they didn’t stop there. In addition, a large part of the Jardin de Plantes
 
 [^8]: Anthony, Jason C. “The Importance of Eating Local: Slaughter and Scurvy in Antarctic Cuisine”. _Endeavour_ 35, no. 4 (2011): 169–177, 169.
 
-[^9]: Having only enough funds to acquire two Wardian Cases for housing the valuable orchid collection, he stowed the palms first in a longboat and, after their conditions worsened, in his own cabin. But not even such generous co-habitation could save them from the heavy damage inflicted by mice and rats. Schomburgk, Richard. _Reisen in Britisch-Guiana in den Jahren 1840–1844: nebst einer Fauna und Flora Guiana’s nach Vorlagen von Johannes Müller, Ehrenberg, Erichson, Klotzsch, Troschel, Cabanis und Andern_. Leipzig: J. J. Weber, 1847–48, Vol. II, 1848: 510. 
+[^9]: Having only enough funds to acquire two Wardian Cases for housing the valuable orchid collection, he stowed the palms first in a longboat and, after their conditions worsened, in his own cabin. But not even such generous co-habitation could save them from the heavy damage inflicted by mice and rats. Schomburgk, Richard. _Reisen in Britisch-Guiana in den Jahren 1840–1844: Nebst einer Fauna und Flora Guiana’s nach Vorlagen von Johannes Müller, Ehrenberg, Erichson, Klotzsch, Troschel, Cabanis und Andern_. Leipzig: J. J. Weber, 1847–48, Vol. II, 1848: 510. 
 
 [^10]: In the aquarium of the Paris World’s Fair in 1867, for instance, visitors to the saltwater aquarium found the Régneville oyster farm exhibit amidst the aquarium animals, with the address of the breeders mentioned in the accompanying catalogue. See Lachapelle, Sofie and Mistry, Heena. “From the Waters of the Empire to the Tanks of Paris: The Creation and Early Years of the Aquarium Tropical, Palais de la Porte Dorée”. _Journal of the History of Biology_ 47, no. 1 (2014): 1–27; see also Kinsey, Darin. “‘Seeding the Water as the Earth’: The Epicenter and Peripheries of a Western Aquacultural Revolution”. _Environmental History_ 11 (2006): 527–566. 
 
@@ -275,7 +275,7 @@ Wie diese Geschichten veranschaulichen, eröffnet der gemeinsame Fokus auf logis
 
 [^8]: Anthony, Jason C. “The Importance of Eating Local: Slaughter and Scurvy in Antarctic Cuisine”. _Endeavour_ 35, Nr. 4 (2011): 169–177, 169.
 
-[^9]: Da seine Mittel lediglich zum Kauf zweier Wardscher Kästen für die Verwahrung der wertvollen Orchideensammlung ausreichten, verstaute er die Palmen zuerst in einem Beiboot und später, als sich ihr Zustand verschlechterte, in seiner eigenen Kajüte. Doch nicht einmal diese komfortable Unterkunft konnte sie vor dem Schaden bewahren, den Mäuse und Ratten anrichteten. Schomburgk, Richard. _Reisen in Britisch-Guiana in den Jahren 1840–1844: nebst einer Fauna und Flora Guiana’s nach Vorlagen von Johannes Müller, Ehrenberg, Erichson, Klotzsch, Troschel, Cabanis und Andern_. Leipzig: J. J. Weber, 1847–48, Bd. II, 1848: 510.
+[^9]: Da seine Mittel lediglich zum Kauf zweier Wardscher Kästen für die Verwahrung der wertvollen Orchideensammlung ausreichten, verstaute er die Palmen zuerst in einem Beiboot und später, als sich ihr Zustand verschlechterte, in seiner eigenen Kajüte. Doch nicht einmal diese komfortable Unterkunft konnte sie vor dem Schaden bewahren, den Mäuse und Ratten anrichteten. Schomburgk, Richard. _Reisen in Britisch-Guiana in den Jahren 1840–1844: Nebst einer Fauna und Flora Guiana’s nach Vorlagen von Johannes Müller, Ehrenberg, Erichson, Klotzsch, Troschel, Cabanis und Andern_. Leipzig: J. J. Weber, 1847–48, Bd. II, 1848: 510.
 
 [^10]: Bei der Weltausstellung in Paris im Jahr 1867 wurde den Besucher:innen des Salzwasseraquariums auch die Régneville Austernzucht präsentiert; zudem wurde die Adresse der Züchter im Begleitheft zur Ausstellung aufgeführt. Siehe Lachapelle, Sofie und Mistry, Heena. “From the Waters of the Empire to the Tanks of Paris. The Creation and Early Years of the Aquarium Tropical, Palais de la Porte Dorée”. _Journal of the History of Biology_ 47, Nr. 1 (2014): 1–27; siehe auch Kinsey, Darin. “‘Seeding the Water as the Earth’: The Epicenter and Peripheries of a Western Aquacultural Revolution”. _Environmental History_ 11 (2006): 527–566. 
 
