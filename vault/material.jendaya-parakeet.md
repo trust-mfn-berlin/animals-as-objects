@@ -1,24 +1,24 @@
 ---
 license: CC BY-SA
-title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
+author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
+short_desc_de: Präparation eines Vogelbalgs im Museum für Naturkunde Berlin
+date_end: ""
+published: false
+title: Jendaya Parakeet
 updated: 1641208415283
 id: qPXq6synKcymXGGXLIDvV
-author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 translators:
   translator_de_en: Lydia J. White
-desc: "Preparing a bird study skin at the Berlin Museum of Natural "
+desc: Preparing a bird study skin at the Berlin Museum of Natural History
 desc_de: Präparation eines Vogelbalgs im Museum für Naturkunde Berlin
-short_desc: "Preparing a bird study skin at the Berlin Museum of Natural "
-short_desc_de: Präparation eines Vogelbalgs im Museum für Naturkunde Berlin
+short_desc: Preparing a bird study skin at the Berlin Museum of Natural History
 cover_image:
   image: /images/jendaya-n.jpg
 colour_scheme: 11
 tao_type: material
 date_start: 2020-01-01T14:56:59.900Z
-date_end: ""
-published: false
 ---
 
 :::EN:::
