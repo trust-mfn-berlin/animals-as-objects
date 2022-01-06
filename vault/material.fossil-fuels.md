@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Fossil Fuels
 title_de: Fossile Brennstoffe
 created: 1618493147480
-updated: 1641296536592
+updated: 1641482893003
 id: 7f5d84e2-6c42-454e-a7c5-f31db9960a70
 author: Filippo Bertoni
 translators:
@@ -20,7 +20,6 @@ colour_scheme: 17
 tao_type: material
 date_start: 1846-01-02T19:59:06.330Z
 date_end: 2021-12-07T19:10:39.033Z
-published: false
 ---
 
 :::EN:::
@@ -62,6 +61,10 @@ But while most scientific and academic work had focused on macro fossils, it was
 <figcaption>
 
 _Produkte der Erdölraffinerie. (Quelle: youtube)_
+
+</figcaption>
+
+</figure>
 
 Fossilien finden sich nicht nur in den Ausstellungsräumen von Museen oder bei paläontologischen Grabungen. Fossilien sind überall um uns herum und meist viel präsenter als wir denken. **Tatsächlich benutzen Sie selbst gerade Fossilien, indem Sie auf einem Endgerät diesen Text lesen. Die meisten Kunststoffe werden aus fossilen Brennstoffen gewonnen.** Die langen Kohlenwasserstoffketten, aus denen Erdöl, raffiniertes Öl und deren Derivate bestehen, waren einst lebende Organismen. Unter enormem geologischen Druck und durch physikalisch-chemische Umwandlungsprozesse über Jahrtausende hinweg wurden die Überreste dieser meist mikroskopisch kleinen Organismen zu Bestandteilen der am meisten verbreiteten, geschätzten und ausgebeuteten Fossilien der Welt: der fossilen Brennstoffe. [^1] Auch wenn die heutige Form und Verwendung dieser Fossilien kaum mehr Spuren der einstigen Lebensformen aufweisen, sind die Erschließung und Förderung von Erdöl gleichwohl schon immer eng an die geologischen und paläontologischen Wissenschaftszweigen gekoppelt – was uns einmal mehr eine zugrunde liegende Struktur bzw. eine Tiefenzeit vor Augen führt, die unseren Alltag bestimmt, unsere Städte und Verkehrsmittel antreibt und Konflikte und Volkswirtschaften auf der ganzen Welt befeuert.[^2]
 
