@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Logistical Metabolisms
 title_de: "Logistische Metabolismen "
 created: 1640459420576
-updated: 1641429819757
+updated: 1641430092777
 id: GkUgy87PFegTFmR0W1Z2Q
 author: Mareike Vennen, Filippo Bertoni
 translators:
@@ -147,7 +147,7 @@ But they didn’t stop there. In addition, a large part of the Jardin de Plantes
 
 [^14]: See Vennen, Mareike. _Das Aquarium: Praktiken, Techniken und Medien der Wissensproduktion (1840-1910)_. Göttingen: Wallstein, 2018.
 
-[^15]: Schlünder, Martina und Christian Reiß, Axel C. Hüntelmann, Susanne Bauer. “Cakes und Candies – Zur Geschichte der Ernährung von Versuchstieren”. _Berichte zur Wissenschaftsgeschichte_ 35, 4 (2012): 275-285, 282.  https://doi.org/10.1002/bewi.201201600. In the course of the 1870s and 1880s, for example, new institute buildings with outdoor facilities were constructed in Würzburg, Leipzig, and Freiburg to meet the changing demands of zoological research. However, these changes not only necessitated new architecture, but also a reorganization of the work, which was accompanied by new tasks in animal care. See Reiß, Christian. _Der Axolotl: Ein Labortier im Heimaquarium_. Göttingen: Wallstein, 2018.
+[^15]: Schlünder, Martina und Christian Reiß, Axel C. Hüntelmann, Susanne Bauer. “Cakes und Candies: Zur Geschichte der Ernährung von Versuchstieren”. _Berichte zur Wissenschaftsgeschichte_ 35, 4 (2012): 275-285, 282.  https://doi.org/10.1002/bewi.201201600. In the course of the 1870s and 1880s, for example, new institute buildings with outdoor facilities were constructed in Würzburg, Leipzig, and Freiburg to meet the changing demands of zoological research. However, these changes not only necessitated new architecture, but also a reorganization of the work, which was accompanied by new tasks in animal care. See Reiß, Christian. _Der Axolotl: Ein Labortier im Heimaquarium_. Göttingen: Wallstein, 2018.
 
 [^16]: Anonymous. “Speisekammer und Küche des Berliner Aquariums”. _Der Zoologische Garten_ 25 (1884): 156-157.
 
@@ -263,9 +263,9 @@ Wie diese Geschichten veranschaulichen, eröffnet der gemeinsame Fokus auf logis
 
 [^2]: Ein Überblick über das Marxsche Konzept des Metabolismus und dessen derzeitige Wiederaufnahme findet sich hier: http://www.rebelnews.ie/2020/10/20/marx-engels-metabolic-rift-part-one/. Mehr dazu findet sich auch bei Andreas Malm: https://www.versobooks.com/blogs/3691-in-defence-of-metabolic-rift-theory; oder auch bei Hannah Landecker; “Postindustrial Metabolism: Fat Knowledge.” _Public Culture_ 25, Nr. 3/71 (1. September 2013): 495-522. doi: https://doi.org/10.1215/08992363-2144625
 
-[^3]: Gebbing, Johannes (Hg.) _50 Jahre Leipziger Zoo, 1878–1928_. Leipzig: Selbstverlag des zoolog. Gartens, 1928: 36. Zum Thema Massenschlachtung, siehe Roerkohl, Anne. “Die Lebensmittelversorgung während des Ersten Weltkrieges im Spannungsfeld kommunaler und staatlicher Maßnahmen”. In _Durchbruch zum modernen Massenkonsum. Lebensmittelmärkte und Lebensmittelqualität im Städtewachstum des Industriezeitalters_, Hans Jürgen Teuteberg (Hg.). Münster: Coppenrath, 1987: 309-370.  
+[^3]: Gebbing, Johannes (Hg.) _50 Jahre Leipziger Zoo, 1878-1928_. Leipzig: Selbstverlag des zoolog. Gartens, 1928: 36. Zum Thema Massenschlachtung, siehe Roerkohl, Anne. “Die Lebensmittelversorgung während des Ersten Weltkrieges im Spannungsfeld kommunaler und staatlicher Maßnahmen”. In _Durchbruch zum modernen Massenkonsum. Lebensmittelmärkte und Lebensmittelqualität im Städtewachstum des Industriezeitalters_, Hans Jürgen Teuteberg (Hg.). Münster: Coppenrath, 1987: 309-370.  
 
-[^4]: Anthony datiert das goldene Zeitalter auf die Zeitspanne zwischen 1897 und 1922. Anthony, Jason C. “The Importance of Eating Local: Slaughter and Scurvy in Antarctic Cuisine”. _Endeavour_ 35, Nr. 4 (2011): 169–177; doi:10.1016/j.endeavour.2011.07.002. Originalzitate sind ins Deutsche übersetzt.
+[^4]: Anthony datiert das goldene Zeitalter auf die Zeitspanne zwischen 1897 und 1922. Anthony, Jason C. “The Importance of Eating Local: Slaughter and Scurvy in Antarctic Cuisine”. _Endeavour_ 35, Nr. 4 (2011): 169-177; doi:10.1016/j.endeavour.2011.07.002. Originalzitate sind ins Deutsche übersetzt.
 
 [^5]: Darwin, Charles. Reise um die Welt: Erlebnisse und Forschungen in den Jahren 1832-1836, A. Helrich (Hg.), Giessen, 1893: 445-446. Viele andere Tiere, darunter Löwen und Pumas, endeten auf der Speisekarte der Expeditionsmitglieder, wobei Darwin vermerkte: “Ich hatte jetzt seit mehreren Tagen nichts anders als Fleisch gegessen; fühlte mich aber ganz wohl mit dieser Nahrung”, aus: _Charles Darwin’s Naturwissenschaftliche Reisen nach den Inseln des grünen Vorgebirges, Südamerika, dem Feuerlande, den Falkland-Inseln, Chiloé-Inseln, Galápagos-Inseln, Otaheiti, Neuholland, Neuseeland, Van Diemen’s Land, Keeling-Inseln, Mauritius, St. Helena, den Azoren etc._ Deutsch und mit Anmerkungen von Ernst Dieffenbach. Fr. Vieweg und Sohn, Braunschweig 1844: 135.
 
@@ -285,9 +285,9 @@ Wie diese Geschichten veranschaulichen, eröffnet der gemeinsame Fokus auf logis
 
 [^13]: Lloyd, William Alford. _A List, With Descriptions, Illustrations, and Prices of Whatever Relates to Aquaria_. London: Hayman Bros., 1858: 123.
 
-[^14]: Siehe Vennen, Mareike. _Das Aquarium. Praktiken, Techniken und Medien der Wissensproduktion (1840–1910)_. Göttingen: Wallstein, 2018.
+[^14]: Siehe Vennen, Mareike. _Das Aquarium. Praktiken, Techniken und Medien der Wissensproduktion (1840-1910)_. Göttingen: Wallstein, 2018.
 
-[^15]: Schlünder, Martina und Christian Reiß, Axel C. Hüntelmann, Susanne Bauer. “Cakes und Candies – Zur Geschichte der Ernährung von Versuchstieren”. _Berichte zur Wissenschaftsgeschichte_ 35, 4 (2012): 275–285, 282, doi: 10.1002/bewi.201201600. Im Laufe der 1870er und 1880er Jahre wurden beispielsweise in Würzburg, Leipzig und Freiburg neue Institutsgebäude mit Außenbereichen gebaut, um den neuen Erfordernissen zoologischer Forschung gerecht zu werden. Diese Veränderungen bedurften allerdings nicht bloß einer neuen Art der Architektur, sondern auch eine Neustrukturierung der Arbeit, die nun neue Aufgaben im Bereich der Tierversorgung beinhaltete. Siehe Reiß, Christian. _Der Axolotl. Ein Labortier im Heimaquarium_. Göttingen: Wallstein, 2018.
+[^15]: Schlünder, Martina und Christian Reiß, Axel C. Hüntelmann, Susanne Bauer. “Cakes und Candies: Zur Geschichte der Ernährung von Versuchstieren”. _Berichte zur Wissenschaftsgeschichte_ 35, 4 (2012): 275-285, 282, doi: 10.1002/bewi.201201600. Im Laufe der 1870er und 1880er Jahre wurden beispielsweise in Würzburg, Leipzig und Freiburg neue Institutsgebäude mit Außenbereichen gebaut, um den neuen Erfordernissen zoologischer Forschung gerecht zu werden. Diese Veränderungen bedurften allerdings nicht bloß einer neuen Art der Architektur, sondern auch eine Neustrukturierung der Arbeit, die nun neue Aufgaben im Bereich der Tierversorgung beinhaltete. Siehe Reiß, Christian. _Der Axolotl. Ein Labortier im Heimaquarium_. Göttingen: Wallstein, 2018.
 
 [^16]: Anonym. “Speisekammer und Küche des Berliner Aquariums”. _Der Zoologische Garten_ 25 (1884): 156-157.
 
@@ -295,7 +295,7 @@ Wie diese Geschichten veranschaulichen, eröffnet der gemeinsame Fokus auf logis
 
 [^18]: Zu den Kontroversen um den Berliner Zoo, siehe AZGB O 0/1/274. Ein Fall, der in jüngerer Zeit Wellen schlug, begab sich im Zoo von Kopenhagen, wo ein gesundes, 18 Monate altes Giraffenmännchen vor Publikum seziert und anschließend an die Löwen des Zoos verfüttert wurde. Siehe hierzu etwa Smith, Roff. “Giraffe Killing at Copenhagen Zoo Sparks Global Outrage”. _National Geographic_ 12.02.2014: https://www.nationalgeographic.com/science/article/140210-giraffe-copenhagen-science. 
 
-[^19]: Maas, Wietske und Matteo Pasquinelli. “The City Devouring Itself: Urbanibalism in Times of World Wars, Insurgent Communes and Biopolitical Sieges”. In _Open_18: 2030 – War Zone Amsterdam, J. Seijdel und L. Melis (Hg.). Rotterdam: NAi Publishers, 2009. http://matteopasquinelli.com/docs/Maas_Pasquinelli_City_Devouring_Itself.pdf.
+[^19]: Maas, Wietske und Matteo Pasquinelli. “The City Devouring Itself: Urbanibalism in Times of World Wars, Insurgent Communes and Biopolitical Sieges”. In _Open #18. 2030: War Zone Amsterdam_, J. Seijdel und L. Melis (Hg.). Rotterdam: NAi Publishers, 2009. http://matteopasquinelli.com/docs/Maas_Pasquinelli_City_Devouring_Itself.pdf.
 
 [^20]: Wie eng Krieg und Logistik miteinander verknüpft, zeigt sich nicht zuletzt darin, dass letztere aus der Kodifizierung der Militärlogistik mit ihrem Schwerpunkt auf der Versorgung und dem Transport von Truppen entstand.
 
