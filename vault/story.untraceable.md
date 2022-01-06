@@ -7,7 +7,7 @@ short_desc_de: "Verschollene Objekte und alte Kataloge "
 date_end: 2022-01-04T16:26:25.633Z
 published: false
 title: Untraceable
-updated: 1641428046444
+updated: 1641428198824
 id: abaNOPQjQqMhfMbhbhvm4
 translators:
   translator_de_en: Lydia J. White
@@ -63,7 +63,7 @@ The caiman, at any rate, is untraceable. And there could, in turn, be a number o
 
 <figcaption>
 
-_Catalogue entries like the ones on this page in volume 1 of the numerical inventory catalogue in Berlin Zoological Museum’s Amphibian and Reptile Collection (entry no. 1–11331), which was started in the 19th century and also contains objects from Schomburgk’s expedition, make it clear that record-keeping and revision work took place on an ongoing basis. (Photo: Frank Tillack/MfN. All rights reserved.)_
+_Catalogue entries like the ones on this page in volume 1 of the numerical inventory catalogue in Berlin Zoological Museum’s Amphibian and Reptile Collection (entry no. 1–11331), which was started in the 19th century and also contains objects from Schomburgk’s expedition, make it clear that record-keeping and revision work took place on an ongoing basis. (Image: Frank Tillack/MfN. All rights reserved.)_
 
 </figcaption>
 
