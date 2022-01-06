@@ -2,9 +2,10 @@
 id: 74ac8278-0b5e-4b78-9929-3e40cfea6986
 title: Session Guide
 desc: ''
-updated: 1618497342590
+updated: 1641483569904
 created: 1618495941372
 colour_scheme: 1
+archived: true
 ---
 
 Here is the process you should complete every time you start and finish a work session.

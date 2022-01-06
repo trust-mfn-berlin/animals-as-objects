@@ -2,7 +2,7 @@
 id: 98db0135-2087-4fdd-9f42-a14fcb81174e
 title: Story
 desc: 'Put a description of this note here...'
-updated: 1624528699897
+updated: 1641483613308
 created: 1617975606425
 title_de: Add a german title here
 desc_de: 'Put a DE description of this note here...'
@@ -12,6 +12,7 @@ cover_image:
 license: CC BY-SA
 published: false
 colour_scheme: 14
+archived: true
 ---
 
 :::EN:::

@@ -2,9 +2,10 @@
 id: 8e923c6e-cfee-4c70-9f52-646f66dc05e4
 title: Markdown Guide
 desc: ''
-updated: 1639742156299
+updated: 1641483566179
 created: 1618396638023
 colour_scheme: 1
+archived: true
 ---
 
 Derived from: https://www.markdownguide.org/basic-syntax/

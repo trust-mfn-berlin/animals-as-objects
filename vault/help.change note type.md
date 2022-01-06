@@ -2,9 +2,10 @@
 id: eae486af-fd32-4721-bb88-836b7959629c
 title: Change Note Type
 desc: ''
-updated: 1620223812673
+updated: 1641483505622
 created: 1620223670633
 colour_scheme: 1
+archived: true
 ---
 
 To convert to a different type, you will need to :
