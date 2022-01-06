@@ -38,7 +38,7 @@
         </li>
       </ul>
 
-      <h2>Materie</h2>
+      <h2>Material</h2>
       <ul>
         <li v-for="article in articlesType.material" :key="article.slug">
           <Inline :article="article"/>

@@ -61,7 +61,7 @@ export default {
       link:[
         { rel: 'icon', type: 'image/png', href: '/favicon.png' }
       ],
-      title: 'Animals as Objects? Impressum'
+      title: 'Animals as Objects? Imprint'
     };
   },
 }

@@ -78,7 +78,7 @@ export default {
         },
         translator:{
           en:'Translator',
-          de:'Übersetzer*in'
+          de:'Übersetzer:in'
         },
         license:{
           en:'Text License',
