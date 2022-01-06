@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Zoo and National Socialism
 title_de: Der Zoo im Nationalsozialismus
 created: 1619020958263
-updated: 1641325044013
+updated: 1641509151046
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 author: Clemens Maier-Wolthausen
 translators:
@@ -58,7 +58,7 @@ How could this happen? What were the determining factors?
 
 ## The Heck Family
 
-In 1932, Lutz Heck became director of the Berlin Zoological Garden. He succeeded his father, Ludwig Heck, who had previously held the position since 1888. Politically, the Heck family were German nationalists and colonial revisionists, and they maintained close contact with actors from the right-wing conservative nationalist milieu. Lutz and Ludwig Heck expressed clear enthusiasm for National Socialist politics in the books they published in 1935 and 1938. Both paid homage in their works to the “Führer”, who had “fully consciously \[...] based the state on the ideology of blood and soil”.[^1] As early as June 1933, Lutz Heck became a sponsoring member of the Schutzstaffel (SS)[^2], and supported the SS party organization of the NSDAP with regular donations. In return, like all sponsors, he received lapel pins that made his loyalty to the regime apparent to all.
+In 1932, Lutz Heck became director of the Berlin Zoological Garden. He succeeded his father, Ludwig Heck, who had previously held the position since 1888. Politically, the Heck family were German nationalists and colonial revisionists, and they maintained close contact with actors from the right-wing conservative nationalist milieu. Lutz and Ludwig Heck expressed clear enthusiasm for National Socialist politics in the books they published in 1935 and 1938. Both paid homage in their works to the “Führer”, who had “fully consciously […] based the state on the ideology of blood and soil”.[^1] As early as June 1933, Lutz Heck became a sponsoring member of the Schutzstaffel (SS),[^2] and supported the SS party organization of the NSDAP with regular donations. In return, like all sponsors, he received lapel pins that made his loyalty to the regime apparent to all.
 
 Lutz Heck soon also became personally acquainted with Hermann Göring, Prussian Prime Minister and Reich Minister of Aviation, and from 1934 also head of the Reich’s forestry ministry (Reichsforstmeister) and chief huntsman of the Reich (Reichsjägermeister).
 
@@ -180,7 +180,7 @@ Once Jews had been virtually excluded from being shareholders of the zoo, the Su
 
 The following night, across Germany National Socialists murdered hundreds of German Jews, destroying livelihoods and synagogues in an organized pogrom. The Nazis blamed German Jews for these planned and centrally coordinated acts of violence. In the days that followed, the Berlin police chief banned them from visiting places of entertainment. Official government policy preempted the measures planned by the zoo management. The zoo had always identified itself as an educational institution. Now it excluded a group of visitors whose place in the German nation (“Volk”) had been negated by racist ideology and persecution.
 
-## The Zoo during the War
+## The Zoo During the War
 
 During the war, Berlin Zoo and its director were to reap the rewards of having consistently accommodated National Socialist policies. Privileged status was signalled, for instance, by the fact that at the beginning of the war, the zoo was classified as “important to the war effort” and individual male employees could thus be exempted from military service. **On 14 September 1939, shortly after Germany invaded Poland, Hermann Göring decreed that zoological gardens were to remain open during the war in order to continue providing popular education for the “Volk”.[^31]** Zoos represented a distraction for the public, which was desired by the regime. The extent to which Lutz Heck had influenced Göring in the making of this decision can no longer be gleaned from the available records. 
 
