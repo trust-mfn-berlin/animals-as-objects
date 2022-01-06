@@ -3,7 +3,7 @@ license: CC BY-SA
 title: From Pests to Displays
 title_de: Von Schädlingen zu Ausstellungsstücken
 created: 1640461871904
-updated: 1641492717194
+updated: 1641498367204
 id: 3YRSzijvbnQXZs4VO291j
 author: Mareike Vennen
 translators:
@@ -58,7 +58,7 @@ Tracing back their history to the mid-nineteenth century can thus give us insigh
 
 [^5]: M. H. Lichtenstein an das Ministerium der geistlichen, Unterrichts- und Medizinal Angelegenheiten, 20.06.1843, MfN, HBSB, Zool. Mus. S I, Schomburgk, Ri, Bl. 44.
 
-[^6]: M. H. Lichtenstein an das Ministerium der geistlichen, Unterrichts- und Medizinal Angelegenheiten, 20.06.1843, MfN, HBSB, Zool. Mus. S I, Schomburgk, Ri, Bl. 44.
+[^6]: Ibid.
 
 [^7]: See for example Mariss, Anne. “… for fear they might decay’. Die materielle Prekarität von Naturalien und ihre Inszenierung in naturhistorischen Zeichnungen”. In _Objekte als Quellen der historischen Kulturwissenschaften_, Annette Cremer und Martin Mulsow (eds.). Köln u.a.: Böhlau 2016: 137-148. https://doi.org/10.7788/9783412510022.137.
 
@@ -111,7 +111,7 @@ Dieser Rückblick auf die Transportgeschichten naturkundlicher Objekte im 19. Ja
 
 [^5]: M. H. Lichtenstein an das Ministerium der geistlichen, Unterrichts- und Medizinal Angelegenheiten, 20.06.1843, MfN, HBSB, Zool. Mus. S I, Schomburgk, Ri, Bl. 44.
 
-[^6]: M. H. Lichtenstein an das Ministerium der geistlichen, Unterrichts- und Medizinal Angelegenheiten, 20.06.1843, MfN, HBSB, Zool. Mus. S I, Schomburgk, Ri, Bl. 44.
+[^6]: Ebd.
 
 [^7]: Siehe z.B. Mariss, Anne . “‘… for fear they might decay’. Die materielle Prekarität von Naturalien und ihre Inszenierung in naturhistorischen Zeichnungen”. In _Objekte als Quellen der historischen Kulturwissenschaften_, Annette Cremer und Martin Mulsow (Hg.). Köln u.a.: Böhlau 2016: 137-148. https://doi.org/10.7788/9783412510022.137.
 
