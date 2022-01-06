@@ -3,7 +3,7 @@ license: CC BY-SA
 title: From Pests to Displays
 title_de: Von Schädlingen zu Ausstellungsstücken
 created: 1640461871904
-updated: 1641491267168
+updated: 1641491940714
 id: 3YRSzijvbnQXZs4VO291j
 author: Mareike Vennen
 translators:
@@ -103,11 +103,11 @@ Dieser Rückblick auf die Transportgeschichten naturkundlicher Objekte im 19. Ja
 
 [^1]: Siehe den Special Issue “Logistical Natures” (in Vorbereitung).
 
-[^2]: Seine Erfahrungen mit dem Transport lebender und toter Exemplare aller möglichen Arten sind in seiner mittlerweile archivierten Korrespondenz mit dem Museum für Naturkunde Berlin sowie einem Reiselogbuch in drei Bänden festgehalten. Siehe Schomburgk, Richard. _Reisen in Britisch-Guiana in den Jahren 1840–1844._ Leipzig: J. J. Weber, 1847-48. 
+[^2]: Seine Erfahrungen mit dem Transport lebender und toter Exemplare aller möglichen Arten sind in seiner mittlerweile archivierten Korrespondenz mit dem Museum für Naturkunde Berlin sowie einem Reiselogbuch in drei Bänden festgehalten. Siehe Schomburgk, Richard. _Reisen in Britisch-Guiana in den Jahren 1840-1844._ Leipzig: J. J. Weber, 1847-48. 
 
 [^3]: Im Rahmen dieser preußisch-britischen Expedition war Richard Schomburgk mit der Sammlung von Pflanzen, Samen und weiteren Objekten für den Botanischen Garten und die Königlichen Museen in Berlin beauftragt: “[S]eine Majestät der König [haben], auf unmittelbares Ansuchen des Garten-Gehülfen in Sans-souci, Richard Schomburgk, mittels Allerhöchster, an den Herrn Finanz-Minister und an mich unterm 10ten October 1840 erlaßener Ordre dem R Schomburgk als Beihülfe zu der von ihm unternommenen Reise nach der Küste Guiana’s auf zwei Jahre jährlich 600 rt [Reichstaler] und außerdem noch als Reise Entschädigungs-Kosten ein für allemal 600 rt. zu bewilligen geruht, um auf seiner Reise besonders für den hiesigen botanischen Garten und außerdem auch für die naturhistorischen Institute hierselbst Pflanzen, Sämereien und andere geeignete Gegenstände zu sammeln und einzusenden.” Im ersten Jahr erhielt er 1.200 Reichstaler, im zweiten Jahr weitere 600 Reichstaler; siehe MfN, HBSB, Zool. Mus. S I, Schomburgk, Ri, Bl. 44.
 
-[^4]: In den Besitz der Tiere gelangte er durch Ankauf und Tauschgeschäfte; siehe Schomburgk, 1847–48, Bd. II: 510.
+[^4]: In den Besitz der Tiere gelangte er durch Ankauf und Tauschgeschäfte; siehe Schomburgk, 1847-48, Bd. II: 510.
 
 [^5]: M. H. Lichtenstein an das Ministerium der geistlichen, Unterrichts- und Medizinal Angelegenheiten, 20.06.1843, MfN, HBSB, Zool. Mus. S I, Schomburgk, Ri, Bl. 44.
 
@@ -117,11 +117,11 @@ Dieser Rückblick auf die Transportgeschichten naturkundlicher Objekte im 19. Ja
 
 [^8]: Schomburgk, 1847–48, Bd. II: 363. 
 
-[^9]: Siehe Findlen, Paula; Toledano, Anna. “The Materials of Natural History”. In _Worlds of Natural History_, Helen Anne Curry et al. (Hg.). Cambridge: Cambridge University Press, 2018: 151–169. https://doi.org/10.1017/9781108225229.010. Siehe außerdem: Delbourgo, James. _Collecting the World: Hans Sloane and the Origins of the British Museum._ Cambridge, MA: The Belknap Press of Harvard University Press 2017.
+[^9]: Siehe Findlen, Paula; Toledano, Anna. “The Materials of Natural History”. In _Worlds of Natural History_, Helen Anne Curry et al. (Hg.). Cambridge: Cambridge University Press, 2018: 151-169. https://doi.org/10.1017/9781108225229.010. Siehe außerdem: Delbourgo, James. _Collecting the World: Hans Sloane and the Origins of the British Museum._ Cambridge, MA: The Belknap Press of Harvard University Press 2017.
 
-[^10]: Siehe Sloane, Hans. _A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica_, 2 Bände, London: gedruckt von B.M. im Auftrag des Autors, 1707–25, Bd. II: 346. Siehe außerdem: Parsons, Christopher M. und Kathleen S. Murphy, “Ecosystems under Sail: Specimen Transport in the Eighteenth-Century French and British Atlantics”. _Early American Studies_ (Herbst 2012): 503–539; Hunter, M; Walker, A. und A. MacGregor (Hg.). _From Books to Bezoars: Sir Hans Sloane and his Collections_. London: British Library, 2012.
+[^10]: Siehe Sloane, Hans. _A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica_, 2 Bände, London: gedruckt von B.M. im Auftrag des Autors, 1707-25, Bd. II: 346. Siehe außerdem: Parsons, Christopher M. und Kathleen S. Murphy, “Ecosystems under Sail: Specimen Transport in the Eighteenth-Century French and British Atlantics”. _Early American Studies_ (Herbst 2012): 503-539; Hunter, M; Walker, A. und A. MacGregor (Hg.). _From Books to Bezoars: Sir Hans Sloane and his Collections_. London: British Library, 2012.
 
-[^11]: Um mehr über den transatlantischen Sklavenhandel (bzw. Dreieckshandel) zu erfahren, siehe z.B. Sharpe, Christina. “The Ship: The Trans*Atlantic”. In _In The Wake: On Blackness and Being_. Durham; London: Duke University Press, 2016: 25–67. https://doi.org/10.1215/9780822373452-002. Hartman, Saidiya. _Lose Your Mother: A Journey along the Atlantic Slave Route_. New York: Farrar, Straus, and Giroux, 2007; Webster, Jane. “The _Zong_ in the Context of the Eighteenth-Century Slave Trade”. _The Journal of Legal History_ 28, Nr. 3 (2007): 285–298. https://doi.org/10.1080/01440360701698403. Krikler, Jeremy. “A Chain of Murder in the Slave Trade: A Wider Context of the _Zong_ Massacre”. _International Review of Social History_ 57, Nr. 3 (2012),393-415. https://doi.org/10.1017/S0020859012000491. 
+[^11]: Um mehr über den transatlantischen Sklavenhandel (bzw. Dreieckshandel) zu erfahren, siehe z.B. Sharpe, Christina. “The Ship: The Trans*Atlantic”. In _In The Wake: On Blackness and Being_. Durham; London: Duke University Press, 2016: 25-67. https://doi.org/10.1215/9780822373452-002. Hartman, Saidiya. _Lose Your Mother: A Journey along the Atlantic Slave Route_. New York: Farrar, Straus, and Giroux, 2007; Webster, Jane. “The _Zong_ in the Context of the Eighteenth-Century Slave Trade”. _The Journal of Legal History_ 28, Nr. 3 (2007): 285-298. https://doi.org/10.1080/01440360701698403. Krikler, Jeremy. “A Chain of Murder in the Slave Trade: A Wider Context of the _Zong_ Massacre”. _International Review of Social History_ 57, Nr. 3 (2012),393-415. https://doi.org/10.1017/S0020859012000491. 
 
 [^12]: Siehe z.B. Wynter, Sylvia: _On Being Human as Praxis_. Durham et al.: Duke University Press, 2015.
 
