@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Logistical Metabolisms
 title_de: "Logistische Metabolismen "
 created: 1640459420576
-updated: 1641430092777
+updated: 1641485047257
 id: GkUgy87PFegTFmR0W1Z2Q
 author: Mareike Vennen, Filippo Bertoni
 translators:
@@ -119,7 +119,7 @@ _Auguste Charpentier: “Rat ayant servi à l’alimentation pendant le siège d
 
 But they didn’t stop there. In addition, a large part of the Jardin de Plantes’s animal population fell victim to the food shortage. The most legendary event was the sacrifice of the elephants “Castor” and “Pollux” of the zoo at the Jardin des Plantes.[^22] Numbered among the war dead, the elephants and kangaroos even have their own memorial at the entrance to the Jardin des Plantes. There, a plaque commemorating important dates in the history of the park reads: “During the Siege of Paris, the animals from the zoo served as food for the Parisians.” The words create an image of zoo animals actively involved in the war effort. Yet, the meat of the zoo animals was neither prepared in poor relief soup kitchens nor served in military canteens. The most needy Parisians did not benefit from the decision to “eat the zoo”.[^23] The elephants, yaks, and zebras were all sold at high prices to elite merchant butchers. As these stories show, following logistical flows and metabolic circulations opens up a different view of the transformations of animals and objects this website traces. Even when animals end up as part of natural history collections, their transformations do not end: skins, furs, skeletons, bodies, cells, all continue to transform, and might yet become entangled again in other food chains – like those of museum beetles and other animals looking to feed on the collections.
 
-[^1]: David Peleman, Bruno Notteboom, Michiel Dehaene. “Fragments of a Changing Natural History of Urbanisation”. _The Urban Household of Metabolism. Oase_ 104 (2019): 2. For more information on concepts of urban metabolism see Gandy, Matthew. “Rethinking Urban Metabolism: Water, Space and the Modern City”. _City_ 8, no. 3 (Dec. 2004): 363-379. https://doi.org/10.1080/1360481042000313509 
+[^1]: David Peleman, Bruno Notteboom, Michiel Dehaene. “Fragments of a Changing Natural History of Urbanisation”. _Oase_ 104 (2019): 2. For more information on concepts of urban metabolism see Gandy, Matthew. “Rethinking Urban Metabolism: Water, Space and the Modern City”. _City_ 8, no. 3 (Dec. 2004): 363-379. https://doi.org/10.1080/1360481042000313509 
 
 [^2]: To find out more about Marx’s use of metabolism, and the current fortune of this notion, check out this clear overview: http://www.rebelnews.ie/2020/10/20/marx-engels-metabolic-rift-part-one/. You can also read more in Andreas Malm’s piece on https://www.versobooks.com/blogs/3691-in-defence-of-metabolic-rift-theory, or in Hannah Landecker. “Postindustrial Metabolism: Fat Knowledge”. _Public Culture_ 25, no. 3/71 (1 September 2013): 495-522. https://doi.org/10.1215/08992363-2144625
 
@@ -259,7 +259,7 @@ Doch damit nicht genug: Ein großer Teil der tierischen Bewohner der Jardin de P
 
 Wie diese Geschichten veranschaulichen, eröffnet der gemeinsame Fokus auf logistische und metabolische Ströme einen neuen Blick auf die Verwandlungen von Tieren und Objekten zu werfen. Eins dürfte klar geworden sein: Selbst wenn Tiere als Objekte in naturkundlichen Sammlungen enden, hören ihre Verwandlungen nicht auf; Häute, Felle, Skelette, Körper, Zellen, sie alle verwandeln sich ständig weiter und können dabei erneut in Nahrungsketten eingehen – zum Beispiel in denen von Käfern und anderen Tieren, die Naturkundemuseen bevölkern und sich mitunter vom organischen Material in der Sammlungen ernähren.
 
-[^1]: David Peleman, Bruno Notteboom, Michiel Dehaene. “Fragments of a Changing Natural History of Urbanisation”. _The Urban Household of Metabolism. Oase_ 104 (2019): 2. Mehr zu Konzepten des städtischen Metabolismus findet sich bei Gandy, Matthew. “Rethinking Urban Metabolism: Water, Space and the Modern City”. _City_ 8, Nr. 3 (Dez. 2004): 363-379. doi: 10.1080/1360481042000313509 
+[^1]: David Peleman, Bruno Notteboom, Michiel Dehaene. “Fragments of a Changing Natural History of Urbanisation”. _Oase_ 104 (2019): 2. Mehr zu Konzepten des städtischen Metabolismus findet sich bei Gandy, Matthew. “Rethinking Urban Metabolism: Water, Space and the Modern City”. _City_ 8, Nr. 3 (Dez. 2004): 363-379. doi: 10.1080/1360481042000313509 
 
 [^2]: Ein Überblick über das Marxsche Konzept des Metabolismus und dessen derzeitige Wiederaufnahme findet sich hier: http://www.rebelnews.ie/2020/10/20/marx-engels-metabolic-rift-part-one/. Mehr dazu findet sich auch bei Andreas Malm: https://www.versobooks.com/blogs/3691-in-defence-of-metabolic-rift-theory; oder auch bei Hannah Landecker; “Postindustrial Metabolism: Fat Knowledge.” _Public Culture_ 25, Nr. 3/71 (1. September 2013): 495-522. doi: https://doi.org/10.1215/08992363-2144625
 
