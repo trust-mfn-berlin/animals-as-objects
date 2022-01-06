@@ -7,7 +7,7 @@ short_desc_de: "Verschollene Objekte und alte Kataloge "
 date_end: 2022-01-04T16:26:25.633Z
 published: false
 title: Untraceable
-updated: 1641428558071
+updated: 1641428848786
 id: abaNOPQjQqMhfMbhbhvm4
 translators:
   translator_de_en: Lydia J. White
@@ -78,13 +78,13 @@ The “young caiman” whose whereabouts remain unknown will stay one of the col
 
 [^2]: The first non-numerical inventory catalogue of the Zoological Museum, which was still ordered taxonomically, was set up between 1824 and 1830 (probably by the museum’s director at the time, Lichtenstein). Lichtenstein began the first numerical inventory catalogue around 1856, which was continued by Wilhelm Peters shortly after.
 
-[^3]: The earlier museum catalogues were initially structured taxonomically for the most part instead of numerically; sometimes they were supplemented with (often very general) information about an item’s origins or donor. In the mid-1850s, numerical catalogues were introduced to the collections, like the one for herpetology. Cf. Frahnert, Sylke. “Katalogisieren: Ein Praxisbericht”. In _Sammlungsökonomien_,Nils Güttler and Ina Heumann (eds.). Berlin: Kadmos, 2016: 95–108.
+[^3]: The earlier museum catalogues were initially structured taxonomically for the most part instead of numerically; sometimes they were supplemented with (often very general) information about an item’s origins or donor. In the mid-1850s, numerical catalogues were introduced to the collections, like the one for herpetology. Cf. Frahnert, Sylke. “Katalogisieren: Ein Praxisbericht”. In _Sammlungsökonomien_, Nils Güttler and Ina Heumann (eds.). Berlin: Kadmos, 2016: 95-108.
 
-[^4]: The first (non-numerical) catalogue of the herpetological collection, “Nomenclator Reptilium et Amphibiorum”, edited by Lichtenstein and von Martens, was published in 1856. 
+[^4]: The first (non-numerical) catalogue of the herpetological collection, _Nomenclator Reptilium et Amphibiorum_, edited by Lichtenstein and von Martens, was published in 1856. 
 
-[^5]: Cf. MfN, HBSB, ZM S II-Schomburgk R 59 r; Schomburgk, Richard. _Reisen in Britisch-Guiana in den Jahren 1840–1844: Nebst einer Fauna und Flora Guiana’s nach Vorlagen von Johannes Müller, Ehrenberg, Erichson, Klotzsch, Troschel, Cabanis und Andern_, vol. 1 and 2. Leipzig: J. J. Weber, 1847–1848 .
+[^5]: Cf. MfN, HBSB, ZM-S-II-Schomburgk-R-59-r; Schomburgk, Richard. _Reisen in Britisch-Guiana in den Jahren 1840–1844: Nebst einer Fauna und Flora Guiana’s nach Vorlagen von Johannes Müller, Ehrenberg, Erichson, Klotzsch, Troschel, Cabanis und Andern_, vol. 1 and 2. Leipzig: J. J. Weber, 1847–1848 .
 
-[^6]: Martin, Philipp Leopold. _Die Praxis der Naturgeschichte: Ein vollständiges Lehrbuch_, part 1: _Taxidermie oder die Lehre vom Präparieren, Konservieren und Ausstopfen der Tiere und ihrer Teile; vom Naturaliensammeln auf Reisen und dem Naturalienhandel_. Weimar: B.F. Voigt, 1886: 1.
+[^6]: Martin, Philipp Leopold. _Die Praxis der Naturgeschichte. Ein vollständiges Lehrbuch_, part 1: _Taxidermie oder die Lehre vom Präparieren, Konservieren und Ausstopfen der Tiere und ihrer Teile; vom Naturaliensammeln auf Reisen und dem Naturalienhandel_. Weimar: B.F. Voigt, 1886: 1.
 
 [^7]: The ecological consequences of imperialism and colonialism were being examined as far back as in the 1980s. Cf. Cronon, William. _Changes in the Land: Indians, Colonists, and the Ecology of New England_. New York: Hill and Wang, 1983; Crosby, Alfred W. _Ecological Imperialism: The Biological Expansion of Europe, 900–1900_. Cambridge: Cambridge University Press, 1986; Grove, Richard. _Green Imperialism: Colonial Expansion, Tropical Island Edens and the Origins of Environmentalism, 1600–1860_. Cambridge: Cambridge University Press, 1995.
 
@@ -143,9 +143,9 @@ Der “junge Caiman”, über dessen Verbleib wir nichts wissen, bleibt vorerst 
 
 [^3]: Die frühen Kataloge im Museum waren zunächst hauptsächlich taxonomisch gegliedert statt numerisch, teilweise kamen (häufig sehr allgemeine) Herkunftsangaben und Geber hinzu. Mitte der 1850er-Jahre wurden in den Sammlungen numerische Kataloge eingeführt, so auch für die Herpetologie. Vgl. Frahnert, Sylke. “Katalogisieren. Ein Praxisbericht”. In _Sammlungsökonomien_, Nils Güttler und Ina Heumann (Hg.). Berlin: Kadmos, 2016: 95-108.
 
-[^4]: Der erste (nicht numerisch angelegte) Katalog der Herpetologischen Sammlung _Nomenclator Reptilium et Amphibiorum_, herausgegeben von Lichtenstein & von Martens, wurde 1856 publiziert. 
+[^4]: Der erste (nicht numerisch angelegte) Katalog der Herpetologischen Sammlung _Nomenclator Reptilium et Amphibiorum_, herausgegeben von Lichtenstein und von Martens, wurde 1856 publiziert. 
 
-[^5]: Da die meisten dieser Akteur:innen nicht namentlich genannt werden, wissen wir nicht, ob es sich um Männer oder Frauen handelte, daher werden hier beide Formen aufgenommen. Vgl. MfN, HBSB, ZM S II-Schomburgk R 59 r; Schomburgk, Richard. _Reisen in Britisch-Guiana in den Jahren 1840–1844: Nebst einer Fauna und Flora Guiana’s nach Vorlagen von Johannes Müller, Ehrenberg, Erichson, Klotzsch, Troschel, Cabanis und Andern_, Bd. 1 und 2. Leipzig: J. J. Weber, 1847–1848.
+[^5]: Da die meisten dieser Akteur:innen nicht namentlich genannt werden, wissen wir nicht, ob es sich um Männer oder Frauen handelte, daher werden hier beide Formen aufgenommen. Vgl. MfN, HBSB, ZM-S-II-Schomburgk-R-59-r; Schomburgk, Richard. _Reisen in Britisch-Guiana in den Jahren 1840–1844: Nebst einer Fauna und Flora Guiana’s nach Vorlagen von Johannes Müller, Ehrenberg, Erichson, Klotzsch, Troschel, Cabanis und Andern_, Bd. 1 und 2. Leipzig: J. J. Weber, 1847–1848.
 
 [^6]: Martin, Philipp Leopold. _Die Praxis der Naturgeschichte. Ein vollständiges Lehrbuch, Erster Teil: Taxidermie oder die Lehre vom Präparieren, Konservieren und Ausstopfen der Tiere und ihrer Teile; vom Naturaliensammeln auf Reisen und dem Naturalienhandel_. Weimar: B.F. Voigt, 1886: 1.
 
