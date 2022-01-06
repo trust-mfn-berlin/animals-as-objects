@@ -2,9 +2,10 @@
 id: ac5d5dff-790a-460f-b936-be5aa19c233a
 title: File Structure
 desc: ''
-updated: 1618486890340
+updated: 1641483542364
 created: 1618405159823
 colour_scheme: 8
+archived: true
 ---
 
 ## Filename

@@ -2,9 +2,10 @@
 id: e8815a44-c50c-4fa2-9165-013ceb6ec41c
 title: Dendron and VSCode quick interface guide
 desc: ''
-updated: 1618482223078
+updated: 1641483555942
 created: 1618399200062
 colour_scheme: 9
+archived: true
 ---
 
 The VSCode interface can be overwhelming at first. We can break it down into two main sections: the editor view and the sidebar.

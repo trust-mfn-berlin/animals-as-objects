@@ -2,9 +2,10 @@
 id: 9df383cc-4b1b-4926-ba2c-0820ad1d0665
 title: Dendron Commands
 desc: ''
-updated: 1618495530090
+updated: 1641483534517
 created: 1618399704580
 colour_scheme: 10
+archived: true
 ---
 
 ## The Lookup Bar

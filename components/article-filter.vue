@@ -36,7 +36,7 @@ export default {
         {
           name: 'author',
           label: 'Author',
-          label_de: 'Autor*in',       
+          label_de: 'Autor:in',       
         },
         {
           name: 'alphabetical',
@@ -45,8 +45,8 @@ export default {
         },
         {
           name: 'date',
-          label: 'Date',
-          label_de: 'Datum',
+          label: 'Timeline',
+          label_de: 'Zeitstrahl',
         }
       ]
     }

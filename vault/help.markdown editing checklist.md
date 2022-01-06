@@ -2,7 +2,7 @@
 title: Markdown Editing Checklist
 title_de: Markdown Editing Checklist
 created: 1622627917398
-updated: 1624524387946
+updated: 1641483561901
 id: 59e1cb96-c297-425b-8a8a-1979955cf849
 author: SLP
 desc: xx
@@ -13,6 +13,7 @@ tao_type: theme
 date_start: ""
 date_end: ""
 colour_scheme: 12
+archived: true
 ---
 Here is what I noted so far, where the postdocs potentially have some inconsistency:
 

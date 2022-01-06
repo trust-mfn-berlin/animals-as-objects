@@ -2,7 +2,7 @@
 id: 6bb6d7d7-d7e7-48a6-8649-340aac4d9b24
 title: Theme
 desc: 'Put a description of this note here...'
-updated: 1624528712404
+updated: 1641483457477
 created: 1617975596857
 title_de: Add a german title here
 desc_de: 'Put a DE description of this note here...'
@@ -12,6 +12,7 @@ cover_image:
 license: CC BY-SA
 published: false
 colour_scheme: 4
+archived: true
 ---
 
 :::EN:::

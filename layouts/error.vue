@@ -8,6 +8,9 @@
 <script>
   export default {
     props: ['error'],
+    mounted(){
+      console.error(this.error.message);
+    }
   }
 </script>
 

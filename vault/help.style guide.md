@@ -2,9 +2,10 @@
 id: efcc0d33-30cb-4958-8182-6798d283be5b
 title: Style Guide
 desc: ''
-updated: 1640882046930
+updated: 1641483573468
 created: 1618326133707
 colour_scheme: 17
+archived: true
 ---
 
 <!-- Notes should be in comments like this -->

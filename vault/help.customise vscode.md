@@ -2,9 +2,10 @@
 id: c711f4a9-972c-4ee5-878d-386113f4c782
 title: Customising VSCode
 desc: ''
-updated: 1618495444353
+updated: 1641483524873
 created: 1618411275436
 colour_scheme: 5
+archived: true
 ---
 
 ## Changing colour theme

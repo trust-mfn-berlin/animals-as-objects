@@ -7,6 +7,8 @@
         <li v-if="article.author">{{siteLang == 'de' ? labels.author.de : labels.author.en}}: <span>{{article.author}}</span></li>
         <li v-if="article.translators && article.translators.translator_de_en && siteLang != 'de'">{{labels.translator.en}}: <span>{{article.translators.translator_de_en}}</span></li>
         <li v-if="article.translators && article.translators.translator_en_de && siteLang =='de'">{{labels.translator.de}}: <span>{{article.translators.translator_en_de}}</span></li>
+        <li v-if="article.copy_editors && article.copy_editors.copy_editor_en && siteLang != 'de'">{{labels.copy_editor.en}}: <span>{{article.copy_editors.copy_editor_en}}</span></li>
+        <li v-if="article.copy_editors && article.copy_editors.copy_editor_de && siteLang =='de'">{{labels.copy_editor.de}}: <span>{{article.copy_editors.copy_editor_de}}</span></li>
         <li v-if="article.license">{{siteLang == 'de' ? labels.license.de : labels.license.en}}: <span>{{article.license}}</span></li>
         <li v-if="article.doi">DOI: <span>{{article.doi}}</span></li>
         <li>{{siteLang == 'de' ? labels.updated.de : labels.updated.en}}: <span>{{article.updatedAt | formatDate}}</span></li>
@@ -78,7 +80,11 @@ export default {
         },
         translator:{
           en:'Translator',
-          de:'Übersetzer*in'
+          de:'Übersetzer:in'
+        },
+        copy_editor:{
+          en:'Copy editor',
+          de:'Lektor:in'
         },
         license:{
           en:'Text License',

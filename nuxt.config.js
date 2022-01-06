@@ -151,7 +151,7 @@ export default {
         
         if(document.tao_type == 'theme') document.tao_type_de = 'Thema';
         if(document.tao_type == 'story') document.tao_type_de = 'Story';
-        if(document.tao_type == 'material') document.tao_type_de = 'Materie';
+        if(document.tao_type == 'material') document.tao_type_de = 'Material';
         
         
         for (let i = 0; i < backlinks.length; i++) {
