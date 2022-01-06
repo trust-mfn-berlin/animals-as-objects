@@ -15,6 +15,7 @@
         <li v-if="article.tao_type">Article type: {{article.tao_type}}</li>
         <li v-if="article.author">Author: {{article.author}}</li>
         <li v-if="article.translators && article.translators.translator_de_en">Translated by: {{article.translators.translator_de_en}}</li>
+        <li v-if="article.copy_editors && article.copy_editors.copy_editor_en">Copy editor: {{article.copy_editors.copy_editor_en}}</li>
         <li v-if="article.license">Text license: {{article.license}}</li>
         <li v-if="article.doi">DOI: {{article.doi}}</li>
         <li v-if="article.updatedAt">Last updated: {{article.updatedAt | formatDate}}</li>

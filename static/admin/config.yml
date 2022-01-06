@@ -56,6 +56,14 @@ collections:
         fields:
           - {label: "Translator DE to EN", name: "translator_de_en", hint: "translated from German into English by...", required: false, widget: "string"}
           - {label: "Translator EN to DE", name: "translator_en_de", hint: "translated from English into German by...", required: false, widget: "string"}
+      - label: "Copy editor"
+        name: "copy_editors"
+        widget: "object"
+        collapsed: true
+        required: false
+        fields:
+          - {label: "Copy editor DE", name: "copy_editor_de", required: false, widget: "string"}
+          - {label: "Copy editor EN", name: "copy_editor_en", required: false, widget: "string"}
       - { label: "Description", name: "desc", widget: "string", hint: "30-50 words" }
       - { label: "Description DE", name: "desc_de", widget: "string", hint: "30-50 words" }
       - { label: "Short Description", name: "short_desc", widget: "string", hint: "3-10 words" }
