@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1641540096445
+updated: 1641540533796
 id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: ""
@@ -41,7 +41,7 @@ date_start: 1944-12-31T23:00:00.000Z
 
 <figcaption>
 
-_Poem by zoo visitor K. Ferber about the winter food crisis in the zoo – see [[material.winter-hardship-at-the-zoo]], 06.10.1948. (AZGB. All rights reserved.)_ 
+_Poem by zoo visitor K. Ferber about the winter food crisis in the zoo – see [[material.winter-hardship-at-the-zoo]] 06.10.1948. (AZGB. All rights reserved.)_ 
 
 </figcaption>
 
@@ -61,7 +61,7 @@ _Elephant carcass at Berlin Zoo after a bombing raid in 1943. (AZGB. All rights 
 
 </figure>
 
-The Asian elephant bull “Siam” was one of the few surviving animals. He had actually been brought to Germany from the British colony of Ceylon, now Sri Lanka, as a so-called [[wild catch|story.catching-animals]], to join the Krone Circus. However, when “Siam” showed behavioral problems, the circus sought a way to get rid of what was labelled a “bad” animal, and gave “Siam” to Berlin Zoo in 1933. He was the only one of Berlin Zoo's nine elephants to survive the war. Seven had been killed in the bombing raids of November 1943 – see [[material.list-of-dead-zoo-animals]].
+The Asian elephant bull “Siam” was one of the few surviving animals. He had actually been brought to Germany from the British colony of Ceylon, now Sri Lanka, as a so-called [[wild catch|story.catching-animals]], to join the Krone Circus. However, when “Siam” showed behavioral problems, the circus sought a way to get rid of what was labelled a “bad” animal, and gave “Siam” to Berlin Zoo in 1933. He was the only one of Berlin Zoo’s nine elephants to survive the war. Seven had been killed in the bombing raids of November 1943, see [[material.list-of-dead-zoo-animals]].
 
 <figure>
 
@@ -69,13 +69,13 @@ The Asian elephant bull “Siam” was one of the few surviving animals. He had 
 
 <figcaption>
 
-Life Magazine _reported on Berlin Zoo's only surviving elephant after the war, October 1945._
+Life Magazine _reported on Berlin Zoo’s only surviving elephant after the war, October 1945._
 
 </figcaption>
 
 </figure>
 
-At the time, the zoo was suffering from a lack of everything, from feed to firewood to building materials. With few employees and almost no financial means, zoologist [[material.katharina-heinroth]], who also officially became director of the war-ravaged zoological garden on 3 August 1945, had great difficulty keeping the remaining animals alive. In as early as May, the Soviet commander (Berlin was occupied and administered by Soviet troops at the time) had issued permission for the buying of feed, so that the zoo could, for the time being, purchase meat for the carnivores as well as hay, oats, and potatoes.[^2] Nevertheless, the situation was tense and procuring feed remained a burning issue for the next few years. Writing about the food situation in March 1946, Katharina Heinroth said: “The scarcity of feed is terrible; potatoes, beets, hay, and straw are what we lack most. [...] We haven't had any potatoes in four months.”[^3] How was she supposed to feed an elephant in these conditions?
+At the time, the zoo was suffering from a lack of everything, from feed to firewood to building materials. With few employees and almost no financial means, zoologist [[material.katharina-heinroth]], who also officially became director of the war-ravaged zoological garden on 3 August 1945, had great difficulty keeping the remaining animals alive. In as early as May, the Soviet commander (Berlin was occupied and administered by Soviet troops at the time) had issued permission for the buying of feed, so that the zoo could, for the time being, purchase meat for the carnivores as well as hay, oats, and potatoes.[^2] Nevertheless, the situation was tense and procuring feed remained a burning issue for the next few years. Writing about the food situation in March 1946, Katharina Heinroth said: “The scarcity of feed is terrible; potatoes, beets, hay, and straw are what we lack most. […] We haven't had any potatoes in four months.”[^3] How was she supposed to feed an elephant in these conditions?
 
 After the biggest pieces of rubble had been cleared, Katharina Heinroth and the zoo staff set about producing feed for the animals themselves. Heinroth's initial ambition when she reopened the zoo in July 1945 had been to offer a place that gave people an opportunity for rest and recreation beyond the daily postwar routine. “I also dreamed of beautiful flowerbeds in the avenues”, said Katharina Heinroth in an interview, “but things have turned out differently. Every free corner has to be used for planting vegetables. The empty outdoor enclosures that are left have been divided among the staff for personal use”.[^4] Apart from the nursery, whose beds were already full of plants, “all the open space throughout the zoo, created by the war, was now to be used to grow animal feed”.[^5] The deer enclosure became a vegetable patch; beets, potatoes, and lettuce were soon growing on the open lawns and in the elephant enclosure.[^6] In short: the zoo was being plowed.
 
