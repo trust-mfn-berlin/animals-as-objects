@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding and Overfeeding
 title_de: Füttern und Überfüttern
 created: 1620752738850
-updated: 1641548566030
+updated: 1641550078655
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 author: Mareike Vennen
 translators:
@@ -186,17 +186,17 @@ Auch die Briefe von Besucher:innen an den Zoo zeigen, dass viele das Füttern de
 
 [^3]: Vgl. Lamp, Benjamin. _Entwicklung der Zootiermedizin im deutschsprachigen Raum_. Giessen: VVB Laufersweiler, 2009: 160. Hinzu kam, dass die passende Nahrung wegen eingeschränkter Transportmöglichkeiten oder mangelnden Kühltechniken nicht immer zur Verfügung stand, so dass die Tiere an Ersatznahrung gewöhnt werden mussten.
 
-[^4]: Reiß, Christian. “Wie die Zoologie das Füttern lernte. Die Ernährung von Tieren in der Zoologie im 19. Jahrhundert”. _Berichte zur Wissenschaftsgeschichte_ 35, Nr. 4 (2012): 286-299. https://doi.org/10.1002/bewi.201201586. Vgl. auch Vennen, Mareike. _Das Aquarium. Praktiken, Techniken und Medien der Wissensproduktion (1840-1910)_. Berlin: Wallstein, 2018.
+[^4]: Reiß, Christian. “Wie die Zoologie das Füttern lernte: Die Ernährung von Tieren in der Zoologie im 19. Jahrhundert”. _Berichte zur Wissenschaftsgeschichte_ 35, Nr. 4 (2012): 286-299. https://doi.org/10.1002/bewi.201201586. Vgl. auch Vennen, Mareike. _Das Aquarium: Praktiken, Techniken und Medien der Wissensproduktion (1840-1910)_. Berlin: Wallstein, 2018.
 
-[^5]: Vgl. etwa Röll, Moritz Friedrich. “Die Knochenweiche (Rachitis)”. In _Lehrbuch der Pathologie und Therapie der Hausthiere_, hg. von Moritz Friedrich Röll. Wien: Braumüller, 1860: 85; Cheadle, Walter Butler. _Rickets. A System of Medicine_, hg. von Thomas Clifford Allbutt, Bd. 4, London: 1897: 108-146. Siehe hierzu auch Lamp, Benjamin. _Entwicklung der Zootiermedizin im deutschsprachigen Raum_. Giessen: VVB Laufersweiler, 2009: 160.
+[^5]: Vgl. etwa Röll, Moritz Friedrich. “Die Knochenweiche (Rachitis)”. In _Lehrbuch der Pathologie und Therapie der Hausthiere_, Moritz Friedrich Röll (Hg.). Wien: Braumüller, 1860: 85; Cheadle, Walter Butler. _Rickets: A System of Medicine_, Thomas Clifford Allbutt (Hg.), Bd. 4, London: 1897: 108-146. Siehe hierzu auch Lamp, 2009: 160.
 
-[^6]: Vgl. Scherpner, Christoph. _Von Bürgern für Bürger – 125 Jahre Zoologischer Garten Frankfurt am Main_. Frankfurt a. M.: Zoologischer Garten, 1983: 126.
+[^6]: Vgl. Scherpner, Christoph. _Von Bürgern für Bürger: 125 Jahre Zoologischer Garten Frankfurt am Main_. Frankfurt a. M.: Zoologischer Garten, 1983: 126.
 
 [^7]: Bei Elefanten resultierten aus einem zu hohen Körpergewicht zusammen mit ungeeigneten Bodenbelägen häufig pathologische Veränderungen der Fußsohlen und Nägel. Gleichzeitig gefährdete die Adipositas der Zuchtbullen eine erfolgreiche Nachzucht. Die Situation änderte sich sukzessive, als sich die Tiermedizin weiterentwickelte und die sich etablierenden großen Tierhandlungen wie Hagenbeck oder Ruhe sich das Wissen der Tierfänger aneigneten, so dass man sich bei der Fütterung mehr an den Bedürfnissen der Tiere zu orientieren und ihre Ernährungsgewohnheiten in ihren natürlichen Lebensräumen zu berücksichtigen begann.
 
 [^8]: Jäger, Gustav. _Skizzen aus dem Thiergarten_. Leipzig: Baensch, 1872: 242.
 
-[^9]: Lamp, Benjamin. _Entwicklung der Zootiermedizin im deutschsprachigen Raum_. Giessen: VVB Laufersweiler, 2009: 161-162.
+[^9]: Lamp, 2009: 161-162.
 
 [^10]: Kallmann, E. “Die Krankheiten der Tiere im Zoologischen Garten in Berlin”. _Tierärztliche Rundschau_ 28 (12.07.1925): 482-484.
 
