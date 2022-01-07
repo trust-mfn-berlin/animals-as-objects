@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Zoo and National Socialism
 title_de: Der Zoo im Nationalsozialismus
 created: 1619020958263
-updated: 1641517163272
+updated: 1641517260354
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 author: Clemens Maier-Wolthausen
 translators:
@@ -417,7 +417,7 @@ Zoos are certainly also compatible with other regimes and social systems – eve
 
 [^47]: K. Heinroth: “Kriegszerstörungen und Aufbau von 1945 bis 1956 im Berliner Zoologischen Garten”, typewritten manuscript, AZGB N 4/2.
 
-[^48]: Cf. to this Maier-Wolthausen, Clemens. *Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos*. Andreas Knieriem (ed.). Berlin: Ch. Links Verlag, 2019: 162-169, 206-211; Maier-Wolthausen, Clemens. “Ein Zoo für die Hauptstadt”. *Aus Politik und Zeitgeschichte* 71, Nr. 9 (2021): 11-17, 14-15; Mohnhaupt, Jan. *Der Zoo der anderen: Als die Stasi ihr Herz für Brillenbären entdeckte & Helmut Schmidt mit Pandas nachrüstete*. München: Carl Hanser, 2017; and Maier-Wolthausen, Clemens. *Alphamännchen und Herdentiere: Deutsch-deutsche Beziehungen in Tierpark und Zoo Berlin*. Berlin: Reimer, forthcoming 2022.
+[^48]: Cf. to this Maier-Wolthausen, 2019: 162-169, 206-211; Maier-Wolthausen, Clemens. “Ein Zoo für die Hauptstadt”. *Aus Politik und Zeitgeschichte* 71, Nr. 9 (2021): 11-17, 14-15; Mohnhaupt, Jan. *Der Zoo der anderen: Als die Stasi ihr Herz für Brillenbären entdeckte & Helmut Schmidt mit Pandas nachrüstete*. München: Carl Hanser, 2017; and Maier-Wolthausen, Clemens. *Alphamännchen und Herdentiere: Deutsch-deutsche Beziehungen in Tierpark und Zoo Berlin*. Berlin: Reimer, forthcoming 2022.
 
 :::DE:::
 
