@@ -2,7 +2,7 @@
 id: b1zgnK9GmzS2RLdAd76u0
 title: Of Lion Tigers and Rotting Specimens
 desc: A record contains many stories
-updated: 1641552183803
+updated: 1641570645431
 created: 1639567838410
 license: CC BY-SA
 title_de: Von Löwen-Tigern und verfaulten Präparaten
@@ -13,7 +13,7 @@ desc_de: Ein Verzeichnis enthält viele Geschichten
 short_desc: A record contains many stories
 short_desc_de: Ein Verzeichnis enthält viele Geschichten
 cover_image:
-  image: /images/zool.mus-si-verwaltungsakten-agebuch-beyer-1843-03.jpg
+  image: /images/cover-lions-tigers-specimens.jpg
 colour_scheme: 11
 tao_type: material
 date_start: '1843-01-01T12:39:11.988Z'
