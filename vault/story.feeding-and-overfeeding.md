@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding and Overfeeding
 title_de: Füttern und Überfüttern
 created: 1620752738850
-updated: 1641547861361
+updated: 1641548566030
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 author: Mareike Vennen
 translators:
@@ -76,7 +76,7 @@ In the 19th century, Europeans could often only guess at the natural feeding hab
 
 Visitors to zoological gardens were a component of the system of feeding from the start. Public zoos across Germany had allowed zoogoers to feed the animals with their own food or feed purchased on the zoo grounds since their establishment. Feeding offered the visitors an opportunity for direct contact with the animals. The phenomena of incorrect and excessive feeding were therefore a part of, and indeed a problem for, zoological gardens from the beginning. As early as 1872, the naturalist and writer Gustav Jäger remarked:
 
->“What amused me most was the persistence with which loaves and bread rolls were thrown to the seals, so that often a whole bucket of them could be skimmed off the pond in one day, and only a sign saying: ‘Seals eat fish and not bread’ was able to make Viennese children with their love of baked goods understand that there were no loaves and bread rolls floating on the waters of the Baltic and North Seas.“[^7]
+>“What amused me most was the persistence with which loaves and bread rolls were thrown to the seals, so that often a whole bucket of them could be skimmed off the pond in one day, and only a sign saying: ‘Seals eat fish and not bread’ was able to make Viennese children with their love of baked goods understand that there were no loaves and bread rolls floating on the waters of the Baltic and North Seas.”[^7]
 
 Dried bread in fact remained one of the most important foodstuffs in zoos until the First World War. As Benjamin Lamp explains, this was not least due to the fact that in the summer months, some of the zoo’s feed requirements were met by visitors, who often brought old bread with them.[^8] The field of veterinary medicine also addressed these problems from an early stage. In 1925, a vet noted in an article for the _Tierärztliche Rundschau_: “Lately it is mainly stomach and intestinal diseases that afflict the animals, but feeding-related damage due to being fed by zoo visitors is also a contributory factor here.” The animals would “often fall ill and unfortunately die from the large quantities they could not tolerate. We are powerless to do anything about the habits of the visitors to the zoo, who, incomprehensibly, often throw spoiled food into the cages just to attract the animals’ attention.”[^9]
 
@@ -94,7 +94,7 @@ _The_ Tägliche Rundschau _presents feeding the animals as an act of sharing in 
 
 </figure>
 
-Letters from zoo visitors also show that many felt feeding the animals was not only a practical necessity, but also a form of caring. While in the first postwar years, feeding became an act of solidarity with the zoo and its animals, and may even have saved the lives of some animals, the dangers of overfeeding returned in full force in the 1950s – see also [[story.feeding-prohibited]].
+Letters from zoo visitors also show that many felt feeding the animals was not only a practical necessity, but also a form of caring. While in the first postwar years, feeding became an act of solidarity with the zoo and its animals, and may even have saved the lives of some animals, the dangers of overfeeding returned in full force in the 1950s, see also [[story.feeding-prohibited]].
 
 [^1]: The zoo stopped growing vegetables on its grounds as early as 1950: “We have a lot of plans for the spring; the gardening should stop now, because the food supply situation has improved substantially for the people of Berlin and vegetables can now be bought at the markets again. We can now beautify our grounds again.” K. Heinroth to U. Bergman, 07.03.1950, AZGB N 4/12. Direct quotes have been translated into English for clarity’s sake.
 
