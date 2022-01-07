@@ -6,7 +6,7 @@ desc: |-
   parts) put to use — as colonial trophies, as museum objects, as a source of
   meat? The story of the Berlin Zoo elephant "Siam" in the 1940s is a journey
   into postwar Berlin and deep into the history of European colonialism.
-updated: 1641315085101
+updated: 1641597454347
 created: 1621970259942
 license: CC BY-SA
 title_de: Verfüttern und Verwerten
@@ -81,7 +81,7 @@ One of the trails leads to the Zoological Museum Berlin, which was a part of the
 
 <figcaption>
 
-_Searching the mammal collection of the Museum for Natural History Berlin, November 2020. (Image: Mareike Vennen/MfN. All rights reserved.)_
+_Searching the mammal collection of the Museum of Natural History Berlin, November 2020. (Image: Mareike Vennen/MfN. All rights reserved.)_
 
 </figcaption>
 
