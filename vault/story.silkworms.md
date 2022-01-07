@@ -8,7 +8,7 @@ desc: |-
   these trees tell us today – about the connections between the _Morus alba_ and
   the silkworm, between philosophy and economics, between royal decrees and
   everyday knowledge?
-updated: 1641595444177
+updated: 1641595613115
 created: 1629986374819
 license: CC BY-SA
 title_de: Seidenraupen
@@ -228,7 +228,7 @@ Die Kuratorin der Sammlung Lepidoptera (Schmetterlinge), Viola Richter, weist mi
  
 <figcaption>
  
-_Alter Schaukasten zu Entwicklungsstadien von _Bombyx mori_, Museum für Naturkunde Berlin, Sammlung Lepidoptera, 2020. (Foto Britta Lange. Alle Rechte vorbehalten.)_
+_Alter Schaukasten zu Entwicklungsstadien von_ Bombyx mori _, Museum für Naturkunde Berlin, Sammlung Lepidoptera, 2020. (Foto: Britta Lange. Alle Rechte vorbehalten.)_
 
 </figcaption>
  
