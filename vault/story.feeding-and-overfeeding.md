@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding and Overfeeding
 title_de: Füttern und Überfüttern
 created: 1620752738850
-updated: 1641547062433
+updated: 1641547861361
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 author: Mareike Vennen
 translators:
@@ -46,7 +46,7 @@ _Headline of the_ Bild-Zeitung _on the overfeeding problem, occasioned by “Jam
 
 </figure>
 
-While the zoo and the city of Berlin struggled to provide food for their inhabitants in the 1940s – see also [[story.feed-scarcity]] – by the end of the 1950s, the situation had largely returned to normal again.[^1] In fact, in some ways it had gone in the opposite direction. The economic boom, the _Wirtschaftswunder_ years meant visitors fed the animals at Berlin Zoo as much as they pleased – to the extent that in 1960, the African elephant “Jambo” fell ill after, or rather as a result of, being fed by zoo visitors.
+While the zoo and the city of Berlin struggled to provide food for their inhabitants in the 1940s – see also [[story.feed-scarcity]] – by the end of the 1950s, the situation had largely returned to normal again.[^1] In fact, in some ways it had gone in the opposite direction. The economic boom, the “Wirtschaftswunder” years meant visitors fed the animals at Berlin Zoo as much as they pleased – to the extent that in 1960, the African elephant “Jambo” fell ill after, or rather as a result of, being fed by zoo visitors.
 
 The elephant cow suffered severe peritonitis and a rupture in the small intestine caused by a blockage. After spending 14 days trying unsuccessfully to save “Jambo”, the zoo made the decision to put the animal to sleep. The incident was not an isolated case, however. In previous years, elephants had died due to incorrect or excessive feeding in the zoological gardens of Antwerp, Hamburg, Frankfurt, Stuttgart, and Gelsenkirchen. In Berlin in 1961 alone, a baboon, a spotted toucan, a valuable crane, and two deer died as a result of overfeeding.
 
@@ -62,13 +62,13 @@ From the 19th century onwards, zoos in Germany and elsewhere set up kitchens for
 
 <figcaption>
 
-_Berlin Zoo’s service and maintenance area around 1930, located at the edge of the zoo’s grounds. Among other things, feed for the animals was grown, stored, and prepared here. (AZGB. Allll rights reserved.)_
+_Berlin Zoo’s service and maintenance area around 1930, located at the edge of the zoo’s grounds. Among other things, feed for the animals was grown, stored, and prepared here. (AZGB. All rights reserved.)_
 
 </figcaption>
 
 </figure>
 
-Indeed, initially, zoological gardens knew little about the feeding habits of the different animal species. While it is true that menageries and zoos were able to draw on the knowledge of farm animal husbandry, there were many more species in zoological gardens, and people did not always have access to information about the needs of the animals imported from the outside of Europe, observes veterinary historian Benjamin Lamp in his account of the history of zoo animal medicine; see also [[story.catching-animals]] and [[theme.how-do-animals-end-up-in-the-zoo]].[^2] The keeping and breeding of domestic and laboratory animals, which were mostly imported from colonial territories to living rooms, zoological institutes, and physiological laboratories throughout Europe in the 19th century was characterized by a similar lack of knowledge. Scientists as well as amateur researchers and enthusiasts attempted to acclimatize the animals, meaning they tried to keep them alive or breed them in new climatic conditions. Feeding was an essential and existential part of this. What we know today about the nutritional needs of laboratory animals, for instance, is the result of a lengthy process. The price of this knowledge, as the science historian Christian Reiß has shown, was numerous and often failed experiments.[^3]
+Indeed, initially, zoological gardens knew little about the feeding habits of the different animal species. While it is true that menageries and zoos were able to draw on the knowledge of farm animal husbandry, there were many more species in zoological gardens, and people did not always have access to information about the needs of the animals imported from the outside of Europe, observes veterinary historian Benjamin Lamp in his account of the history of zoo animal medicine;[^2] see also [[story.catching-animals]] and [[theme.how-do-animals-end-up-in-the-zoo]]. The keeping and breeding of domestic and laboratory animals, which were mostly imported from colonial territories to living rooms, zoological institutes, and physiological laboratories throughout Europe in the 19th century was characterized by a similar lack of knowledge. Scientists as well as amateur researchers and enthusiasts attempted to acclimatize the animals, meaning they tried to keep them alive or breed them in new climatic conditions. Feeding was an essential and existential part of this. What we know today about the nutritional needs of laboratory animals, for instance, is the result of a lengthy process. The price of this knowledge, as the science historian Christian Reiß has shown, was numerous and often failed experiments.[^3]
 
 In the 19th century, Europeans could often only guess at the natural feeding habits of wild animals that had previously only occasionally been brought to Europe, or in some cases never been seen on the continent at all. As such, they tried to keep them alive with substitute foodstuffs or feed mixtures. These substitutes were often based on human conventions, rather than the animal’s actual habits and preferences. In the end, most animals were given high-calorie feed rations, which, however, lacked important vitamins and minerals. Although veterinarians identified links between animal diseases such as rickets and the diets of domestic and zoo animals early on, until the 20th century, people acquired little sound scientific knowledge about the nutritional requirements of wild animals in captivity.[^4] In Frankfurt, even after the Second World War, the chimpanzees’ menu included a “jam sandwich every day”, as well as “fried steak”.[^5] Incorrect feeding with foodstuffs that were too high in calories repeatedly led to health problems, especially in the larger animals.[^6]
 
