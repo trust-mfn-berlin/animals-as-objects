@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding Prohibited
 title_de: Füttern verboten
 created: 1620752897039
-updated: 1640908697727
+updated: 1641586674767
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 author: Mareike Vennen
 translators:
@@ -465,7 +465,7 @@ Unter Zoodirektor:innen wurde über das Thema schon länger beratschlagt. 1928 f
 
 [^8]: Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1961_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1961.
 
-[^9]: Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1961_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin 1961. Rund zehn Jahre später war das etabliert und der Zooführer vermerkte lediglich: “Das Füttern ist grundsätzlich untersagt. Bei rund 2,5 Millionen Besuchern im Jahr würden, wenn jeder auch nur einen kleinen Brocken reicht, derartig große Futtermengen zusammenkommen, daß die Tiere Schaden nehmen müssen. Gut gemeint, aber unkontrolliertes Füttern kann sogar den Tod zur Folge haben.” Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1975_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin 1975.
+[^9]: Ebd. Rund zehn Jahre später war das etabliert und der Zooführer vermerkte lediglich: “Das Füttern ist grundsätzlich untersagt. Bei rund 2,5 Millionen Besuchern im Jahr würden, wenn jeder auch nur einen kleinen Brocken reicht, derartig große Futtermengen zusammenkommen, daß die Tiere Schaden nehmen müssen. Gut gemeint, aber unkontrolliertes Füttern kann sogar den Tod zur Folge haben.” Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1975_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin 1975.
 
 [^10]: Vgl. etwa Anonyme Zuschrift an die Direktion des Zoologischen Gartens Berlin, 08.08.1966, AZGB O 0/1/224; H. Gottheim an die Direktion des Zoologischen Gartens Berlin, 16.04.1960, AZGB O 0/1/112; Zoologischer Garten Berlin an M. Hingst, 20.07.1960, AZGB O 0/1/112; C. Hübner an die Direktion des Zoologischen Gartens Berlin, o.D., AZGB O 0/1/112; Direktion des Zoologischen Gartens Berlin an C. Hübner, AZGB O 0/1/112. 
 
@@ -477,9 +477,9 @@ Unter Zoodirektor:innen wurde über das Thema schon länger beratschlagt. 1928 f
 
 [^14]: Vgl. “Falsche Tierliebe”. _Gießener Anzeiger_, 16.04.1960.
 
-[^15]: Wessely, Christina. _Löwenbaby._ Berlin: Matthes & Seitz, 2019: 59.
+[^15]: Wessely, 2019: 59.
 
-[^16]: Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1961_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin 1961: 8.
+[^16]: Klös, 1961: 8.
 
 [^17]: Zoologischer Garten Berlin an M. Günther, 06.04.1959, AZGB O 1/2/80.
 
@@ -495,13 +495,13 @@ Unter Zoodirektor:innen wurde über das Thema schon länger beratschlagt. 1928 f
 
 [^23]: Heck, Lutz. _Wegweiser durch den Zoologischen Garten Berlin_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1936.
 
-[^24]: Vgl. Heinroth, Katharina. _Der Zoologische Garten Berlin. Zweiter Bericht und Wegweiser nach dem Kriege 1956._ Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1956: 8.
+[^24]: Vgl. Heinroth, Katharina. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege 1956._ Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1956: 8.
 
 [^25]: E. von Bongardt an die Direktion des Zoologischen Gartens Berlin, 01.10.1959, AZGB O 1/2/81.
 
 [^26]: H.-G. Klös an C. Hübner, 13.05.1959, AZGB O 1/2/80. 
 
-[^27]: 40. Konferenz der Direktoren mitteleuropäischer Zoologischer Gärten in Breslau vom 23. Bis 25. August 1928, AZGB V 1/10.
+[^27]: 40.Konferenz der Direktoren mitteleuropäischer Zoologischer Gärten in Breslau vom 23. Bis 25. August 1928, AZGB V 1/10.
 
 [^28]: Ausnahmen bilden heute die Streichelzoos, vormals übernahmen dies “Tierkinderzoos”.
 
