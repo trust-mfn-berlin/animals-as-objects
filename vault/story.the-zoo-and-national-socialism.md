@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Zoo and National Socialism
 title_de: Der Zoo im Nationalsozialismus
 created: 1619020958263
-updated: 1641517260354
+updated: 1641540214275
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 author: Clemens Maier-Wolthausen
 translators:
@@ -274,7 +274,7 @@ _Hermann Göring (center, light-colored coat) on a visit to Berlin Zoo in 1942, 
 
 The regime also supported the zoo with animal feed. In his role at the Reichsforstamt in Berlin, Lutz Heck coordinated the supply of feed to zoos throughout the Reich. He was very successful in this: up until the last months of the war, rare seabirds and seals were still being supplied with ocean fish.[^40] 
 
-## Devastation
+## Destruction
 
 On the night of 23 November 1943, an Allied bombing raid turned the zoo into a sea of flames, and killed 30 percent of the remaining animals.[^41]
 
