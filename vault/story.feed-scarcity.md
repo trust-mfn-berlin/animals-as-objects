@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1641545375409
+updated: 1641545554089
 id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: ""
@@ -41,7 +41,7 @@ date_start: 1944-12-31T23:00:00.000Z
 
 <figcaption>
 
-_Poem by zoo visitor K. Ferber about the winter food crisis in the zoo – see [[material.winter-hardship-at-the-zoo]] 06.10.1948. (AZGB. All rights reserved.)_ 
+_Poem by zoo visitor K. Ferber about the winter food crisis in the zoo, see [[material.winter-hardship-at-the-zoo]] 06.10.1948. (AZGB. All rights reserved.)_ 
 
 </figcaption>
 
@@ -267,13 +267,13 @@ Depending on your perspective, the zoo was a hub for the exchange of animals and
 
 [^31]: Between May and August 1945, the number of animals increased from 194 to 240, mainly due to the intake of animals from the Brumbach Circus. 
 
-[^32]: Cf. Heinroth, Katharina. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 154–157. The Second World War had, to a greater or lesser extent, destroyed many zoos throughout Europe. Moreover, during the First and Second World Wars, military units of the Reichswehr and the Wehrmacht captured animals in the conquered territories of Europe and handed them over to the zoological gardens of the Reich capital. In 1939, Lutz Heck also brought valuable show animals, including an elephant, from Warsaw Zoo to German zoos. Cf. Szczygielska, Marianna. “Elephant Empire: Zoos and Colonial Encounters in Eastern Europe”. _Cultural Studies_(2020): 1–22. https://doi.org/10.1080/09502386.2020.1780280; see also [[story.catching-animals]].
+[^32]: Cf. Heinroth, Katharina. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 154-157. The Second World War had, to a greater or lesser extent, destroyed many zoos throughout Europe. Moreover, during the First and Second World Wars, military units of the Reichswehr and the Wehrmacht captured animals in the conquered territories of Europe and handed them over to the zoological gardens of the Reich capital. In 1939, Lutz Heck also brought valuable show animals, including an elephant, from Warsaw Zoo to German zoos. Cf. Szczygielska, Marianna. “Elephant Empire: Zoos and Colonial Encounters in Eastern Europe”. _Cultural Studies_(2020): 1-22. https://doi.org/10.1080/09502386.2020.1780280; see also [[story.catching-animals]].
 
 [^33]: K. Heinroth to the magistrate of the city of Berlin, department for food and nutrition, 20.3.1946, AZGB O 1/1/2. Cf. also K. Heinroth to the Allied commander of the city of Berlin, 15.5.1946, AZGB O 1/1/2. Direct quotes have been translated into English for clarity’s sake.
 
 [^34]: “The last of Berlin’s pachyderms ‘Siam’ starved and froze half to death in March last year.” Cf. “Auf den Spuren des Elefanten”. _Der Kurier_, 7.2.1948; and “‘Siam’ unter der Bandsäge”. _Telegraf_, 21.3.1947. Direct quotes have been translated into English for clarity’s sake.
 
-[^35]: Wöbse, Anna-Katharina, and Mieke Roscher. “Zootiere während des Zweiten Weltkrieges: London und Berlin 1939–1945”. _WerkstattGeschichte_ 56 (2010): 44-62.
+[^35]: Wöbse, Anna-Katharina, and Mieke Roscher. “Zootiere während des Zweiten Weltkrieges: London und Berlin 1939-1945”. _WerkstattGeschichte_ 56 (2010): 44-62.
 
 [^36]: K. Heinroth to W. Börner, 14.10.1947, AZGB O 1/2/42.
 
