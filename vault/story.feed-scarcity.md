@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1641545306675
+updated: 1641545375409
 id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: ""
@@ -283,9 +283,9 @@ Depending on your perspective, the zoo was a hub for the exchange of animals and
 
 [^39]: K. Heinroth to E. Schmidt, 13.10.1948, AZGB O 0/1/274.
 
-[^40]: K. Heinroth to E. Mohr, 22.01.1946, AZGB N/4/12.
+[^40]: K. Heinroth to E. Mohr, 22.1.1946, AZGB N/4/12.
 
-[^41]: K. Heinroth to U. Bergman, 07.03.1950, AZGB N 4/12. Cf. also AZGB O 1/1/1.
+[^41]: K. Heinroth to U. Bergman, 7.3.1950, AZGB N 4/12. Cf. also AZGB O 1/1/1.
 
 :::DE:::
 
