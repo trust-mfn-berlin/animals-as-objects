@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: Cycladophora davisiana
 title_de: Cycladophora davisiana
 created: 1620218024936
-author: Filippo Bertoni
-short_desc_de: Eine mikroskopisch kleine Radolarienart
-date_end: 2021-07-06T11:35:52.482Z
-published: false
-title: Cycladophora Davisiana
 updated: 1641320787097
 id: 6b86b681-8157-4bd4-acb1-167b98547122
+author: Filippo Bertoni
 translators:
   translator_en_de: ""
 desc: |-
@@ -23,6 +20,7 @@ desc_de: |-
   Forschungswerkzeug, das Wissenschaftler:innen noch immer bei der Erforschung
   unseres Planeten und seiner Tiefenzeit hilft.
 short_desc: Microscopic radiolarian species
+short_desc_de: Eine mikroskopisch kleine Radolarienart
 cover_image:
   image: /images/cover-cycladophora.jpg
   alt: |-
@@ -32,6 +30,8 @@ cover_image:
 colour_scheme: 2
 tao_type: story
 date_start: 1858-12-31T23:06:32.000Z
+date_end: 2021-07-06T11:35:52.482Z
+published: false
 ---
 :::EN:::
 

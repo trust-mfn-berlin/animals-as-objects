@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Core Samples
 title_de: Kernproben
 created: 1629110227049
-updated: 1640911202573
+updated: 1641554207590
 id: 02wCHNiTRZ4Zkq2cO9Cpv
 author: Filippo Bertoni
 translators:
@@ -33,7 +33,7 @@ published: false
 <figcaption>
 
 _Many core samples are collected by the JOIDES Resolution research vessel, as shown in this illustration from Expedition 379, co-authored by Johan Renaudie, one of the researchers in the micropaleontology laboratory of Museum für Naturkunde Berlin; read more at:
-http://publications.iodp.org/proceedings/379/102/379_102.html_ 
+http://publications.iodp.org/proceedings/379/102/379_102.html_ (03.01.2022).
 
 </figcaption>
 
@@ -54,7 +54,7 @@ _A video showing the work of collecting and studying core samples through [[mate
 
 </figcaption>
 
-[^1]: You can learn more about core samples also by exploring the mineralogical collections of the Museum fur Naturkunde Berlin: https://www.museumfuernaturkunde.berlin/en/science/geochemical-and-microanalytical-laboratories and https://www.museumfuernaturkunde.berlin/en/science/rock-and-ore-collection. 
+[^1]: You can learn more about core samples also by exploring the mineralogical collections of the Museum fur Naturkunde Berlin: https://www.museumfuernaturkunde.berlin/en/science/geochemical-and-microanalytical-laboratories (03.01.2022) and https://www.museumfuernaturkunde.berlin/en/science/rock-and-ore-collection (03.01.2022). 
 
 [^2]: Arranging international research efforts of this scale is not an easy task, and is one that requires complex sociopolitical arrangements. To learn more on the work of extracting data from the ocean’s depths, see Rosol, Christof. “Hauling data: Anthropocene analogues, paleoceanography and missing paradigm shifts“. _Historical Social Research_ 40, no. 2 (2015): 37-66. https://doi.org/10.12759/hsr.40.2015.2.37-66.
 
@@ -66,15 +66,15 @@ _A video showing the work of collecting and studying core samples through [[mate
 
 <figcaption>
 
-_Das Forschungsschiff JOIDES Resolution sammelte während der Expedition 379 eine große Zahl an Bohrkernen, wie diese Abbildung zeigt. Zu den Autor:innen der Studie zählte auch Johan Renaudie, Forscher im Labor für Mikropaläontologie des Museums für Naturkunde Berlin. Weitere Informationen zu der Studie finden sich unter: http://publications.iodp.org/proceedings/379/102/379_102.html_ 
+_Das Forschungsschiff JOIDES Resolution sammelte während der Expedition 379 eine große Zahl an Bohrkernen, wie diese Abbildung zeigt. Zu den Autor:innen der Studie zählte auch Johan Renaudie, Forscher im Labor für Mikropaläontologie des Museums für Naturkunde Berlin. Weitere Informationen zu der Studie finden sich unter: http://publications.iodp.org/proceedings/379/102/379_102.html_ (03.01.2022).
 
 </figcaption>
 
 </figure>
 
-Bohrkerne sind zylindrische Proben von Materialien, die mithilfe von speziellen Bohrern aus  Sedimentgestein oder einem anderen Untergrundmaterial gewonnen werden. Diese Art der Probenentnahme findet in den unterschiedlichsten Bereichen Anwendung, aber besonders wichtig ist sie für die Geo- und Erdwissenschaften, die Klimawissenschaften und die Paläozeanografie.[^1] Kernproben aus natürlichen Sedimenten sind maßgeblich für die Analyse unterirdischer Eigenschaften. Außerdem liefern sie wichtige Daten über die Vergangenheit eines bestimmten Ortes sowie über den Planeten im Allgemeinen. Methoden zur Kernbohrung gibt es bereits seit der Antike, allerdings verharrten sie lange Zeit auf eher einfachem technischen Niveau. **Erst mit der zunehmenden Verzahnung der Rohstoffindustrie und der Geologie im Laufe des 19. Jahrhunderts wurden allmählich moderne Bohrwerkzeuge und -techniken verfügbar.** Diese frühen Werkzeuge ermöglichten allerdings nur relativ kleine und ungenaue Proben, was ein Grund dafür war, dass [[die Mikropaläontologie im späten 19. Jahrhundert zunächst in eine Sackgasse geriet|story.micropaleontological-evolutionary-dead-ends]]. Es dauerte bis in die späten 1940er Jahren, als der schwedische Wissenschaftler Borje Kullenberg den Kolbenbohrer einführte, ehe tiefere und stärker standardisierte Proben vom Meeresboden gewonnen werden konnten.
+Bohrkerne sind zylindrische Proben von Materialien, die mithilfe von speziellen Bohrern aus  Sedimentgestein oder einem anderen Untergrundmaterial gewonnen werden. Diese Art der Probenentnahme findet in den unterschiedlichsten Bereichen Anwendung, aber besonders wichtig ist sie für die Geo- und Erdwissenschaften, die Klimawissenschaften und die Paläozeanografie.[^1] Kernproben aus natürlichen Sedimenten sind maßgeblich für die Analyse unterirdischer Eigenschaften. Außerdem liefern sie wichtige Daten über die Vergangenheit eines bestimmten Ortes sowie über den Planeten im Allgemeinen. Methoden zur Kernbohrung gibt es bereits seit der Antike, allerdings verharrten sie lange Zeit auf eher einfachem technischen Niveau. **Erst mit der zunehmenden Verzahnung der Rohstoffindustrie und der Geologie im Laufe des 19. Jahrhunderts wurden allmählich moderne Bohrwerkzeuge und -techniken verfügbar.** Diese frühen Werkzeuge ermöglichten allerdings nur relativ kleine und ungenaue Proben, was ein Grund dafür war, dass die Mikropaläontologie im späten 19. Jahrhundert zunächst in eine [[Sackgasse|story.micropaleontological-evolutionary-dead-ends]] geriet. Es dauerte bis in die späten 1940er Jahren, als der schwedische Wissenschaftler Borje Kullenberg den Kolbenbohrer einführte, ehe tiefere und stärker standardisierte Proben vom Meeresboden gewonnen werden konnten.
 
-Dies setzte umfassende, konzertierte Bemühungen zum Sammeln von Proben für die Rekonstruktion der Geschichte und Dynamiken des Planeten in Gang, deren Resultate sich unter anderem in der [[material.lamont-doherty-collection]] befinden. Dies versetzte der [[story.micropaleontology-at-sea]] einen erheblichen Schub, und internationale Forschungsprojekte begannen mit umfangreichen [[story.deep-sea-drilling]]-Projekten zur Sammlung und Analyse von Kernproben aus allen Weltmeeren. Dieses monumentale wissenschaftlich-technische und gesellschaftspolitische[^2] Unterfangen ermöglicht es Wissenschaftler:innen, immer wieder neue Geschichten über [[Mikroben und Planeten|story.of-microbes-and-planets]] zu präsentieren und ein klareres Bild von den systemischen Dynamiken und der Vergangenheit unseres Planeten insgesamt zu erlangen. Mithilfe der [[material.biostratigraphy]] und anderer komplexerer Methoden und Analyseinstrumente können Wissenschaftler:innen beispielsweise Daten über klimatische Bedingungen oder die Zusammensetzung der Atmosphäre oder der Ozeane zu bestimmten Zeitpunkten und -spannen in der Vergangenheit gewinnen. Mit Hilfe von [[story.micropaleontological-formations]], darunter [[story.cycladophora-davisiana]] und [[material.foraminifera]], erhalten sie so Einblicke in die Funktionsweisen und Mechanismen unseres Planeten.
+Dies setzte umfassende, konzertierte Bemühungen zum Sammeln von Proben für die Rekonstruktion der Geschichte und Dynamiken des Planeten in Gang, deren Resultate sich unter anderem in der [[material.lamont-doherty-collection]] befinden. Dies versetzte der [[marinen Mikropaläontologie|story.micropaleontology-at-sea]] einen erheblichen Schub und internationale Forschungsprojekte begannen mit zahlreichen [[Tiefseebohrungen|story.deep-sea-drilling]] zur Sammlung und Analyse von Kernproben aus allen Weltmeeren. Dieses monumentale wissenschaftlich-technische und gesellschaftspolitische[^2] Unterfangen ermöglicht es Wissenschaftler:innen, immer wieder neue Geschichten über [[Mikroben und Planeten|story.of-microbes-and-planets]] zu präsentieren und ein klareres Bild von den systemischen Dynamiken und der Vergangenheit unseres Planeten insgesamt zu erlangen. Mithilfe der [[material.biostratigraphy]] und anderer komplexerer Methoden und Analyseinstrumente können Wissenschaftler:innen beispielsweise Daten über klimatische Bedingungen oder die Zusammensetzung der Atmosphäre oder der Ozeane zu bestimmten Zeitpunkten und -spannen in der Vergangenheit gewinnen. Mit Hilfe von [[mikropaläontologischen Formationen|story.micropaleontological-formations]], darunter [[story.cycladophora-davisiana]] und [[material.foraminifera]], erhalten sie so Einblicke in die Funktionsweisen und Mechanismen unseres Planeten.
 
 **Während Wissenschaftler:innen diese Daten schätzen, die ihnen gestatten, die spezifischen Besonderheiten einstweilen außer Acht zu lassen, entspringt die Aussagekraft derselben Daten zugleich ihrer jeweils spezifisch verorteten Geschichte.** Während Bohrkernproben also allgemeine Aussagen über unseren Planeten und seine Vergangenheit ermöglichen, können sie zugleich auch sehr konkrete Geschichten zutage fördern – so  wie jene, die auf dieser Website versammelt sind. Der komplexe wissenschaftlich-technische Apparat, der uns die Erzählung all dieser Geschichten erlaubt, besteht aus Forschungsschiffen, großen Bohrgeräten, Archiven von Bohrkernproben, sowie mikropaläontologischen Fossilberichten und Datenbanken wie der [[NSB-Datenbank|material.nsb-database]]. Gleichzeitig beruht dieser Apparat auf den vielen einzelnen Lebensformen – Wissenschaftler:innen, Tieren, Mikroorganismen und vielen anderen – die mit ihm in Beziehung treten und ihn fortlaufend weiterentwickeln und verändern.
 
@@ -86,7 +86,7 @@ _Ein Video, das den Prozess der Entnahme und Analyse von Kernproben mittels [[ma
 
 </figcaption>
 
-[^1]: Auführlichere Informationen zu Bohrkernproben finden sich in den mineralogischen Sammlungen des Museums für Naturkunde Berlin: https://www.museumfuernaturkunde.berlin/en/science/geochemical-and-microanalytical-laboratories und https://www.museumfuernaturkunde.berlin/en/science/rock-and-ore-collection. 
+[^1]: Auführlichere Informationen zu Bohrkernproben finden sich in den mineralogischen Sammlungen des Museums für Naturkunde Berlin: https://www.museumfuernaturkunde.berlin/en/science/geochemical-and-microanalytical-laboratories (03.01.2022) und https://www.museumfuernaturkunde.berlin/en/science/rock-and-ore-collection (03.01.2022). 
 
 [^2]: Die Organisation von Forschungsprojekten in dieser Größenordnung ist kein leichtes Unterfangen. Soziopolitische Vereinbarungen sind nötig. Über die Gewinnung von Daten aus den Tiefen des Ozeans, siehe: Rosol, Christof. “Hauling data: Anthropocene analogues, paleoceanography and missing paradigm shifts”. _Historical Social Research_ 40, no. 2 (2015): 37–66. https://doi.org/10.12759/hsr.40.2015.2.37-66.
 

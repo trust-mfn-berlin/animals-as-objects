@@ -119,31 +119,38 @@ figure{
     display: flex;
     p{
       margin-top:0 !important;
-      line-height: @lh-short !important;
+      // line-height: @lh-short !important;
+      line-height: 1.5 !important;
       flex-grow: 1;
       width: 0;
     }
 
-    ::v-deep span.wiki-link-component{
-      bottom:-0.22rem;
-      // position: inherit;
-      a{
-        border-bottom: none;
-        .thumbnail-wrap{
-          display: none;
-        }
-        .text{
-          height: auto;
-          // box-shadow: none;
-          // border-radius: 0;
-          // margin: 0;
-          // height: auto !important;
-          padding: 0.25rem 0.5rem 0.2rem;
-          .subheading{
-            font-style: normal;
-            font-family: @f-mono;
-            font-size:@fs-xxs;
-          }
+    
+  }
+}
+
+figcaption{
+  ::v-deep span.wiki-link-component{
+    // bottom:-0.22rem;
+    bottom:unset;
+    vertical-align: unset;
+    // position: inherit;
+    a{
+      border-bottom: none;
+      .thumbnail-wrap{
+        display: none;
+      }
+      .text{
+        height: auto;
+        // box-shadow: none;
+        // border-radius: 0;
+        // margin: 0;
+        // height: auto !important;
+        padding: 0.25rem 0.5rem 0.2rem;
+        .subheading{
+          font-style: normal;
+          font-family: @f-mono;
+          font-size:@fs-xxs;
         }
       }
     }
