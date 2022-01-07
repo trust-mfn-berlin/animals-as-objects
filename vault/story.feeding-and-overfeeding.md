@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding and Overfeeding
 title_de: Füttern und Überfüttern
 created: 1620752738850
-updated: 1641547019601
+updated: 1641547062433
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 author: Mareike Vennen
 translators:
@@ -72,7 +72,7 @@ Indeed, initially, zoological gardens knew little about the feeding habits of th
 
 In the 19th century, Europeans could often only guess at the natural feeding habits of wild animals that had previously only occasionally been brought to Europe, or in some cases never been seen on the continent at all. As such, they tried to keep them alive with substitute foodstuffs or feed mixtures. These substitutes were often based on human conventions, rather than the animal’s actual habits and preferences. In the end, most animals were given high-calorie feed rations, which, however, lacked important vitamins and minerals. Although veterinarians identified links between animal diseases such as rickets and the diets of domestic and zoo animals early on, until the 20th century, people acquired little sound scientific knowledge about the nutritional requirements of wild animals in captivity.[^4] In Frankfurt, even after the Second World War, the chimpanzees’ menu included a “jam sandwich every day”, as well as “fried steak”.[^5] Incorrect feeding with foodstuffs that were too high in calories repeatedly led to health problems, especially in the larger animals.[^6]
 
-## Good Feeding, bad Feeding?
+## Good Feeding, Bad Feeding?
 
 Visitors to zoological gardens were a component of the system of feeding from the start. Public zoos across Germany had allowed zoogoers to feed the animals with their own food or feed purchased on the zoo grounds since their establishment. Feeding offered the visitors an opportunity for direct contact with the animals. The phenomena of incorrect and excessive feeding were therefore a part of, and indeed a problem for, zoological gardens from the beginning. As early as 1872, the naturalist and writer Gustav Jäger remarked:
 
