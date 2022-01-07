@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Zoo and National Socialism
 title_de: Der Zoo im Nationalsozialismus
 created: 1619020958263
-updated: 1641515621470
+updated: 1641516351545
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 author: Clemens Maier-Wolthausen
 translators:
@@ -707,7 +707,7 @@ Der Zoo war am Ende der nationalsozialistischen Herrschaft materiell aber auch i
 
 Zwar sind Zoos auch in anderen Regimen und Gesellschaftsformen anschlussfähig – wenn die Anpassungen auch subtiler und weniger ausgeprägt waren und sind. Der Tierpark Berlin diente während des Kalten Krieges dem Ost-Berliner Magistrat und dem SED-Regime als Instrument kultureller Diplomatie im Streit um die internationale Anerkennung der DDR und als international anerkanntes Beispiel sozialistischer Bildungs- und Wissenschaftspolitik. Ein eigener Zoo diente wie zu den Zeiten der Zoogründungen des 19. Jahrhunderts als Merkmal einer – in diesem Fall halben – Hauptstadt. Der West-Berliner Zoodirektor konnte auf die bundesdeutsche Politik zählen, die ein Interesse an der Strahlkraft des Zoos für die eingeschlossene Westhälfte der Stadt hatte.[^48] Und heute positionieren sich Zoos als Artenschutzzentren in zunehmend um Biodiversität besorgten liberalen Gesellschaften. Das Ausmaß der Ausnutzung der Institution Zoo ausschließlich für die eigene Politik, wie es das nationalsozialistische Regime erzielt hat, ist in letzteren Fällen aber weder versucht noch erreicht worden.
 
-[^1]: Vgl. beispielsweise Heck, Ludwig. *Heiter-ernste Lebensbeichte: Erinnerungen eines alten Tiergärtners*. Berlin: Deutscher Verlag, 1938: 373; Heck, Lutz. *Der deutsche Edelhirsch. Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn*. Berlin: Paul Parey, 1935.
+[^1]: Vgl. beispielsweise Heck, Ludwig. *Heiter-ernste Lebensbeichte: Erinnerungen eines alten Tiergärtners*. Berlin: Deutscher Verlag, 1938: 373; Heck, Lutz. *Der deutsche Edelhirsch: Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn*. Berlin: Paul Parey, 1935.
 
 [^2]: Lebenslauf Lutz Heck für die Reichsschrifttumskammer, Bundesarchiv Berlin (BArch), R 9361, V, 5953.
 
@@ -751,7 +751,7 @@ Zwar sind Zoos auch in anderen Regimen und Gesellschaftsformen anschlussfähig �
 
 [^22]: Heck, Lutz. *Auf Tiersuche in weiter Welt*. Berlin: Paul Parey, 1941: 195.
 
-[^23]: Heck, 1941: 195; sowie Heck, Lutz. “Letzte Urwaldtiere aus deutscher Vorzeit”. *Atlantis. Länder, Völker, Reisen* 4, Nr. 10 (1932): 577-583; Heck, Lutz. “Die Neuzüchtung des Auerochsen”. *Wild und Hund* 37 (15.12.1939): 535-537. Auch auf der internationalen Jagdausstellung 1938 schmückte ein Fries mit einer Strophe des Epos den Stand zum Ur.
+[^23]: Heck, 1941: 195; sowie Heck, Lutz. “Letzte Urwaldtiere aus deutscher Vorzeit”. *Atlantis: Länder, Völker, Reisen* 4, Nr. 10 (1932): 577-583; Heck, Lutz. “Die Neuzüchtung des Auerochsen”. *Wild und Hund* 37 (15.12.1939): 535-537. Auch auf der internationalen Jagdausstellung 1938 schmückte ein Fries mit einer Strophe des Epos den Stand zum Ur.
 
 [^24]: Mitgliedskarte im Berlin Document Center des Bundesarchivs Berlin.
 
@@ -771,11 +771,11 @@ Zwar sind Zoos auch in anderen Regimen und Gesellschaftsformen anschlussfähig �
 
 [^32]: Bauzeichnungen und -anträge für Luftschutzräume, LAB, A Rep. 032-08, Nr. 293; vgl. auch Heck, Lutz. *Tiere – mein Abenteuer: Erlebnisse in Wildnis und Zoo*. Wien: Ullstein 1954: 97-102; Rede von L. Heck auf der Hauptversammlung 1940, AZGB O 0/3/13; Notiz zum Geschäftsbericht für das Jahr 1941, AZGB O 0/3/12.
 
-[^33]: Vgl. Maier-Wolthausen, Clemens. *Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos*. Andreas Knieriem (Hg.). Berlin: Ch. Links Verlag, 2019: 118-129.
+[^33]: Vgl. Maier-Wolthausen, 2019: 118-129.
 
 [^34]: Wöbse, Anna-Katharina und Mieke Roscher. “Zootiere während des Zweiten Weltkrieges: London und Berlin 1939-1945”. *WerkstattGeschichte*, Nr. 56 (2010): 44-62, 50.
 
-[^35]: Bruce, Gary. *Through the Lion Gate. A History of the Berlin Zoo*. Oxford: Oxford University Press, 2017: 164, mit Berufung auf die Memoiren der Ehefrau des Zoodirektors Antonina Zabinska.
+[^35]: Bruce, Gary. *Through the Lion Gate: A History of the Berlin Zoo*. Oxford: Oxford University Press, 2017: 164, mit Berufung auf die Memoiren der Ehefrau des Zoodirektors Antonina Zabinska.
 
 [^36]: Aufsichtsratsprotokoll, 30.07.1940, AZGB O 0/2/2.
 
@@ -785,7 +785,7 @@ Zwar sind Zoos auch in anderen Regimen und Gesellschaftsformen anschlussfähig �
 
 [^39]: Protokoll der Generalversammlung für 1942, AZGB O 0/3/12.
 
-[^40]: Vgl. Maier-Wolthausen, Clemens. *Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos*. Andreas Knieriem (Hg.). Berlin: Ch. Links Verlag, 2019: 126-127.
+[^40]: Vgl. Maier-Wolthausen, 2019: 126-127.
 
 [^41]: Rundschreiben L. Heck an die zoologischen Gärten, 22.02.1945; sowie Fisch-Grosshandel H. D. Petersen an L. Heck, 08.03.1945, AZGB O 0/1/88.
 
@@ -801,4 +801,4 @@ Zwar sind Zoos auch in anderen Regimen und Gesellschaftsformen anschlussfähig �
 
 [^47]: K. Heinroth: “Kriegszerstörungen und Aufbau von 1945 bis 1956 im Berliner Zoologischen Garten”, maschinenschriftliches Manuskript, AZGB N 4/2.
 
-[^48]: Vgl. hierzu Maier-Wolthausen, Clemens. *Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos*. Andreas Knieriem (Hg.). Berlin: Ch. Links Verlag, 2019: 162-169, 206-211; Maier-Wolthausen, Clemens. “Ein Zoo für die Hauptstadt”. *Aus Politik und Zeitgeschichte* 71, Nr. 9 (2021): 11-17, 14-15; Mohnhaupt, Jan. *Der Zoo der anderen: Als die Stasi ihr Herz für Brillenbären entdeckte & Helmut Schmidt mit Pandas nachrüstete*. München: Carl Hanser, 2017; sowie Maier-Wolthausen, Clemens. *Alphamännchen und Herdentiere: Deutsch-deutsche Beziehungen in Tierpark und Zoo Berlin*. Vorauss. Berlin: Reimer, 2022.
+[^48]: Vgl. hierzu Maier-Wolthausen, 2019: 162-169, 206-211; Maier-Wolthausen, Clemens. “Ein Zoo für die Hauptstadt”. *Aus Politik und Zeitgeschichte* 71, Nr. 9 (2021): 11-17, 14-15; Mohnhaupt, Jan. *Der Zoo der anderen: Als die Stasi ihr Herz für Brillenbären entdeckte & Helmut Schmidt mit Pandas nachrüstete*. München: Carl Hanser, 2017; sowie Maier-Wolthausen, Clemens. *Alphamännchen und Herdentiere: Deutsch-deutsche Beziehungen in Tierpark und Zoo Berlin*. Vorauss. Berlin: Reimer, 2022.
