@@ -2,7 +2,7 @@
 id: kaVI1pTyKCM8SvVsrYrSJ
 title: Papier Mâché Silkworm
 desc: Papier mâché model of a silkworm
-updated: 1641340154748
+updated: 1641550817086
 created: 1629796212936
 license: CC BY-SA
 title_de: Maulbeerspinner in Papiermaschee
@@ -74,7 +74,7 @@ The functional, collapsible anatomical model (which Auzoux also referred to as a
 [^3]: Cf. “Modell, Raupe, Seidenspinner”. Humboldt University database entry, no date, https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (03.01.2022).
 
 
-[^4]: Vgl. Dr. L. Wittmack: _Allgemeiner Katalog des königlichen landwirthschaftlichen Museums zu Berlin_, Berlin: Verlagsbuchhandlung Wiegandt und Hempel, 1869, pp. 108f. (no. 43). The model was purchased from Auzoux for 66 talers, and it is highly likely that it then moved to Invalidenstraße 42 when the United Agricultural Teaching Institute and Museum (Vereinigtes landwirthschaftliches Lehr-Institut und Museum) was built in 1880. 
+[^4]: Cf. Dr. L. Wittmack. _Allgemeiner Katalog des königlichen landwirthschaftlichen Museums zu Berlin_, Berlin: Verlagsbuchhandlung Wiegandt und Hempel, 1869: 108f. The model was purchased from Auzoux for 66 talers, and it is highly likely that it then moved to Invalidenstraße 42 when the United Agricultural Teaching Institute and Museum (Vereinigtes landwirthschaftliches Lehr-Institut und Museum) was built in 1880. 
 
 :::DE:::
 
@@ -122,4 +122,4 @@ Das aufklappbare anatomische Funktionsmodell (auch Clastique-Modell genannt) von
 
 [^3]: Vgl. “Modell, Raupe, Seidenspinner”. Datenbankeintrag der HU, ohne Datum, https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (03.01.2022).
 
-[^4]: Vgl. Dr. L. Wittmack: _Allgemeiner Katalog des königlichen landwirthschaftlichen Museums zu Berlin_, Berlin: Verlagsbuchhandlung Wiegandt und Hempel, 1869, S. 108f. (Nr. 43). Das Modell von Auzoux wurde für gut 66 Taler erworben und dann höchstwahrscheinlich mit dem Neubau des Vereinigten landwirthschaftlichen Lehr-Institut und Museum in Berlin 1880 in die Invalidenstraße 42 transferiert. 
+[^4]: Vgl. Dr. L. Wittmack. _Allgemeiner Katalog des königlichen landwirthschaftlichen Museums zu Berlin_, Berlin: Verlagsbuchhandlung Wiegandt und Hempel, 1869: 108f. Das Modell von Auzoux wurde für gut 66 Taler erworben und dann höchstwahrscheinlich mit dem Neubau des Vereinigten landwirthschaftlichen Lehr-Institut und Museum in Berlin 1880 in die Invalidenstraße 42 transferiert. 
