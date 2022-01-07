@@ -8,7 +8,7 @@ desc: |-
   these trees tell us today – about the connections between the _Morus alba_ and
   the silkworm, between philosophy and economics, between royal decrees and
   everyday knowledge?
-updated: 1641597263693
+updated: 1641597554892
 created: 1629986374819
 license: CC BY-SA
 title_de: Seidenraupen
@@ -45,7 +45,7 @@ colour_scheme: 3
  
 <figcaption>
  
-_Mulberry tree at the Museum of Natural History, Berlin, 2021. (Image: Britta Lange. All rights reserved.)_
+_Mulberry tree at the Berlin Museum of Natural History, 2021. (Image: Britta Lange. All rights reserved.)_
 
 </figcaption>
  
@@ -63,7 +63,7 @@ The curator of the Lepidoptera (butterfly and moth) collection, Viola Richter, p
  
 <figcaption>
  
-_Old display case showing the developmental stages of_ Bombyx mori _, Museum of Natural History, Berlin, Lepidoptera collection, 2020. (Image: Britta Lange. All rights reserved.)_
+_Old display case showing the developmental stages of_ Bombyx mori _, Berlin Museum of Natural History, Lepidoptera collection, 2020. (Image: Britta Lange. All rights reserved.)_
 
 </figcaption>
  
