@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding Prohibited
 title_de: Füttern verboten
 created: 1620752897039
-updated: 1641588963574
+updated: 1641589269185
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 author: Mareike Vennen
 translators:
@@ -405,7 +405,9 @@ Das nahmen viele Menschen beim Wort und so erhielt der Zoo in den ersten Monaten
 
 >“[…]die Liebe zu den Tieren veranlaßt mich, Ihnen zu klagen, was ich bei meinem Zoobesuch am vergangenen Sonnabend erlebt habe. Ein etwa sechsjähriger Junge gab einem Elefanten Poppcornflocken \[sic]. Meinen Hinweis auf das Fütterungsverbot verstanden er und sein Vater nicht, ich hörte, dass sie englisch sprachen. Aber ich meine, dass auch ein Ausländer wissen sollte, dass man die Tiere nicht füttern soll. \[…] Ich will diese Dinge zur Kenntnis bringen in der Hoffnung, dass Sie sich vielleicht doch veranlasst sehen, von derartigen unvernünftigen Menschen eine Geldstrafe zu erheben. Ich stehe keineswegs allein mit meiner Ueberzeugung, dass nur eine solche, nicht aber einfaches Bitten und Verbieten, für die Dauer Erfolg hat, zum Wohl unserer geliebten Tiere.”[^18]
 
-Eine weitere anonyme Schreiberin berichtete von drei Damen, die sie beim Elefantengehege beobachtet hatte. “Eine davon fütterte in einem fort, und als ich wütend sagte, sie soll das unterlassen, denn es steht doch überall angeschrieben, wird sie noch frech, – ich habe ja meinen Bauch voll, aber die Tiere hätten Hunger, und ich sollte mal machen, das [sic] ich weiterkomme. Dabei warf sie wieder 1 ganzen gerösteten Zwieback hin.” Die Schreiberin schloss ihren Brief mit den Worten: “Wenn Sie es für gut befinden, das die Frau füttern darf, dann will ich den Zoo nie wieder besuchen. \[…] Eine tierliebe Zoobesucherin.”[^19]
+Eine weitere anonyme Schreiberin berichtete von drei Damen, die sie beim Elefantengehege beobachtet hatte. 
+
+>“Eine davon fütterte in einem fort, und als ich wütend sagte, sie soll das unterlassen, denn es steht doch überall angeschrieben, wird sie noch frech, – ich habe ja meinen Bauch voll, aber die Tiere hätten Hunger, und ich sollte mal machen, das [sic] ich weiterkomme. Dabei warf sie wieder 1 ganzen gerösteten Zwieback hin.” Die Schreiberin schloss ihren Brief mit den Worten: “Wenn Sie es für gut befinden, das die Frau füttern darf, dann will ich den Zoo nie wieder besuchen. \[…] Eine tierliebe Zoobesucherin.”[^19]
 
 Diese und andere Vorfälle heizten die Diskussion um die richtigen Maßnahmen zur Umsetzung des Fütterungsverbots weiter an. Die Vorschläge aus der Bevölkerung reichten von der Einführung von Wachpersonal über Geldstrafen bis zum Zooverweis.
 
