@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding and Overfeeding
 title_de: Füttern und Überfüttern
 created: 1620752738850
-updated: 1641550155255
+updated: 1641550271144
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 author: Mareike Vennen
 translators:
@@ -102,15 +102,15 @@ Letters from zoo visitors also show that many felt feeding the animals was not o
 
 [^3]: Reiß, Christian. “Wie die Zoologie das Füttern lernte: Die Ernährung von Tieren in der Zoologie im 19. Jahrhundert”. _Berichte zur Wissenschaftsgeschichte_ 35, no. 4 (2012): 286–299. https://doi.org/10.1002/bewi.201201586. Cf. also Vennen, Mareike. _Das Aquarium: Praktiken, Techniken und Medien der Wissensproduktion (1840–1910)_. Berlin: Wallstein, 2018.
 
-[^4]: Cf., for instance, Röll, Moritz Friedrich. “Die Knochenweiche (Rachitis)”. In _Lehrbuch der Pathologie und Therapie der Hausthiere_, ed. by Moritz Friedrich Röll, Wien: Braumüller, 1860: 85; Cheadle, Walter Butler. _Rickets. A System of Medicine_, ed. by Thomas Clifford Allbutt, Bd. 4, London: 1897: 108–146. On this, see also Lamp, Benjamin. _Entwicklung der Zootiermedizin im deutschsprachigen Raum_, Giessen: VVB Laufersweiler, 2009: 160.
+[^4]: Cf., for instance, Röll, Moritz Friedrich. “Die Knochenweiche (Rachitis)”. In _Lehrbuch der Pathologie und Therapie der Hausthiere_, Moritz Friedrich Röll (ed.), Wien: Braumüller, 1860: 85; Cheadle, Walter Butler. _Rickets: A System of Medicine_, Thomas Clifford Allbutt (ed.), vol. 4, London: 1897: 108–146. On this, see also Lamp, 2009: 160.
 
-[^5]: Cf. Scherpner, Christoph. _Von Bürgern für Bürger – 125 Jahre Zoologischer Garten Frankfurt am Main_ Frankfurt a. M.: Zoologischer Garten, 1983: 126. Direct quotes have been translated into English for clarity’s sake.
+[^5]: Cf. Scherpner, Christoph. _Von Bürgern für Bürger: 125 Jahre Zoologischer Garten Frankfurt am Main_ Frankfurt a. M.: Zoologischer Garten, 1983: 126. Direct quotes have been translated into English for clarity’s sake.
 
 [^7]: In elephants, excessive weight combined with unsuitable ground covering often results in pathological changes in the soles of the feet and nails. The obesity of breeding bulls also reduces the chances of successful reproduction. This situation gradually changed as veterinary medicine developed, and as the large emerging animal trading houses, such as Hagenbeck or Ruhe, acquired knowledge from animal trappers. Feeding thus began to be oriented more toward the needs of the animals and to take their natural eating habits into account.
 
 [^7]: Jäger, Gustav. _Skizzen aus dem Thiergarten_, Leipzig: Baensch, 1872: 242. Direct quotes have been translated into English for clarity’s sake.
 
-[^8]: Lamp, Benjamin. _Entwicklung der Zootiermedizin im deutschsprachigen Raum_, Giessen: VVB Laufersweiler, 2009: 161–162.
+[^8]: Lamp, 2009: 161–162.
 
 [^9]: Kallmann, E. “Die Krankheiten der Tiere im Zoologischen Garten in Berlin”. _Tierärztliche Rundschau_ 28 (12.07.1925): 482–484. Direct quotes have been translated into English for clarity’s sake.
 
