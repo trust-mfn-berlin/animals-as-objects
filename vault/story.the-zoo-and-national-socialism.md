@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Zoo and National Socialism
 title_de: Der Zoo im Nationalsozialismus
 created: 1619020958263
-updated: 1641515537067
+updated: 1641515621470
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 author: Clemens Maier-Wolthausen
 translators:
@@ -559,7 +559,7 @@ Der Aufsichtsrat beschloss im Juli 1938 aber, die gesetzlich erlaubten zehn Proz
 
 Nachdem Jüdinnen und Juden als Aktionär:innen quasi aus dem Zoo ausgeschlossen waren, sollten sie nach Ansicht des Aufsichtsrates auch als Besucher:innen aus dem Zoo verschwinden. Auf der Aufsichtsratssitzung vom 8. November 1938 schlug das Aufsichtsratsmitglied SS-Brigadeführers Ewald von Massow vor, jüdischen Kindern das Spielen auf dem allgemeinen Spielplatz zu verbieten. Zudem beschloss der Aufsichtsrat, dass zum kommenden Weihnachtsfest an der im Zoo aufgestellten Weihnachtskrippe Hinweise angebracht werden sollten, dass Juden dort unerwünscht seien. Das Protokoll der Sitzung vermerkte:
 
->“\[...] diese Schilder könne man dann am 1. Januar offiziell an alle Eingänge stellen.”[^30]
+>“[…] diese Schilder könne man dann am 1. Januar offiziell an alle Eingänge stellen.”[^30]
 
 In der folgenden Nacht ermordeten Nationalsozialisten in ganz Deutschland in einem organisierten Pogrom hunderte jüdische Deutsche und zerstörten Existenzen und Synagogen. Die Schuld für die geplanten und zentral koordinierten Ausschreitungen gaben die Nationalsozialisten den deutschen Juden und Jüdinnen. Der Berliner Polizeipräsident verbot ihnen in den folgenden Tagen den Besuch von Vergnügungsstätten. Die offizielle Politik nahm die von der Zooleitung geplanten Maßnahmen vorweg. Die Institution, die sich immer als eine Bildungseinrichtung identifiziert hatte, schloss die durch rassistische Ideologie und Verfolgung aus dem “Volk” herausdefinierte Besucher:innengruppe aus.
 
