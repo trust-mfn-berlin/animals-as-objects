@@ -8,7 +8,7 @@ desc: |-
   these trees tell us today – about the connections between the _Morus alba_ and
   the silkworm, between philosophy and economics, between royal decrees and
   everyday knowledge?
-updated: 1640523838960
+updated: 1641595444177
 created: 1629986374819
 license: CC BY-SA
 title_de: Seidenraupen
@@ -45,7 +45,7 @@ colour_scheme: 3
  
 <figcaption>
  
-_Mulberry tree at the Museum of Natural History, Berlin, 2021. (Photo Britta Lange. All rights reserved.)_
+_Mulberry tree at the Museum of Natural History, Berlin, 2021. (Image: Britta Lange. All rights reserved.)_
 
 </figcaption>
  
@@ -210,13 +210,13 @@ Completely unbeknownst to the city administration and the tree register, in cont
  
 <figcaption>
  
-_Maulbeerbaum am Museum für Naturkunde Berlin, 2021. (Foto Britta Lange. Alle Rechte vorbehalten.)_
+_Maulbeerbaum am Museum für Naturkunde Berlin, 2021. (Foto: Britta Lange. Alle Rechte vorbehalten.)_
 
 </figcaption>
  
 </figure>
 
-Während das große Dinosaurierskelett in der Haupthalle des Berliner Museums für Naturkunde stadt- und weltbekannt ist, scheint kaum jemand etwas über einen Baumriesen zu wissen, der sich im Hof des Museums befindet. **In der Durchfahrt zwischen dem Museum, dem heutigen Institut für Biophysik und dem Thaer-Institut für Agrar- und Gartenbauwissenschaften der Humboldt-Universität steht ein großer Maulbeerbaum an der Habersaathstraße.** Was ist seine Geschichte? Die Spuren führen ins Preußen des 18. Jahrhunderts, in Museumssammlungen und märkische Dörfer, zu Naturforscherinnen, Königen und Seidenraupen.
+Während das große Dinosaurierskelett in der Haupthalle des Berliner Museums für Naturkunde stadt- und weltbekannt ist, scheint kaum jemand etwas über einen Baumriesen zu wissen, der sich im Hof des Museums befindet. **In der Durchfahrt zwischen dem Museum, dem heutigen Institut für Biophysik und dem Thaer-Institut für Agrar- und Gartenbauwissenschaften der Humboldt-Universität steht ein großer Maulbeerbaum an der Habersaathstraße.** Was ist seine Geschichte? Die Spuren führen ins Preußen des 18. Jahrhunderts, in Museumssammlungen und märkische Dörfer, zu Naturforscher:innen, Königen und Seidenraupen.
 
 ## _Morus alba_ am Museum für Naturkunde und in den märkischen Dörfern
 
