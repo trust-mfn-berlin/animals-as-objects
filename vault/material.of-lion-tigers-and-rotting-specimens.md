@@ -2,7 +2,7 @@
 id: b1zgnK9GmzS2RLdAd76u0
 title: Of Lion Tigers and Rotting Specimens
 desc: A record contains many stories
-updated: 1641552086972
+updated: 1641552183803
 created: 1639567838410
 license: CC BY-SA
 title_de: Von Löwen-Tigern und verfaulten Präparaten
@@ -37,7 +37,7 @@ _Logbook for 1843 from the Zoological Collection displaying the month of Februar
 
 What kinds of stories can records like this [[logbook|material.logbooks-of-the-zoological-museum]] tell us? Preparator Friedrich Beyer, who worked at the Zoological Museum in Berlin from 1817 to 1851, used logbooks to document not just the types of consignments that went in and out of the museum but also who needed them where and why. 
 
-Alongside frequent mentions of boxes filled with bird skins, fish, and amphibians, there are also entries about extraordinary arrivals such as a “monstrous chicken’s egg” and a “lion-tiger”. They provide us with detailed information about the context and afterlife of these animal objects. The handwritten note that records the arrival of the “lion-tiger” at the Zoological Museum in February 1843, for example, is supplemented with a printed excerpt from part of a leaflet that the animal tamer Anton van Aken used to advertise his “great menagerie of rare and strange animals”. It lets us know not just the “lion-tiger’s” birth date, 18 October 1838, but also what kind of “extraordinary, never-before-seen phenomenon” it was. The logbook is thus a collection of notes whose various sources, firstly, inform us about the life of the “lion-tiger” in the circus but, secondly, also tell us that, although the animal was mounted as a taxidermy in the museum after its death, its skeleton was sent back to van Aken at his express wish.
+Alongside frequent mentions of boxes filled with bird skins, fish, and amphibians, there are also entries about extraordinary arrivals such as a “monstrous chicken’s egg” and a “lion-tiger”. They provide us with detailed information about the context and afterlife of these animal objects. The handwritten note that records the arrival of the “lion-tiger” at the Zoological Museum in February 1843, for example, is supplemented with a printed excerpt from part of a leaflet that the animal tamer Anton van Aken used to advertise his “Great Menagerie of Rare and Strange Animals”. It lets us know not just the “lion-tiger’s” birth date, 18 October 1838, but also what kind of “extraordinary, never-before-seen phenomenon” it was. The logbook is thus a collection of notes whose various sources, firstly, inform us about the life of the “lion-tiger” in the circus but, secondly, also tell us that, although the animal was mounted as a taxidermy in the museum after its death, its skeleton was sent back to van Aken at his express wish.
 
 Work materials, which appear in the form of deliveries of spirits, glass eyes, and wooden heads, also point to a history dwelling within the logbooks. Just like the comments on preparation, they provide us with insights into the everyday work of an animal preparator. Aside from skeletonizing, preparing, and preserving specimens in spirits, it notes in various passages: “unsuitable for stuffing due to very inadequate coat, so only keep the heads”, or “had died more than 3 days before and was therefore entirely useless”. So, not every animal reached the museum in a state that was deemed acceptable. Much was already rotting, had been “eaten by rats”, or did not meet aesthetic standards. 
 
