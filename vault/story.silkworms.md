@@ -8,7 +8,7 @@ desc: |-
   these trees tell us today – about the connections between the _Morus alba_ and
   the silkworm, between philosophy and economics, between royal decrees and
   everyday knowledge?
-updated: 1641596907114
+updated: 1641597263693
 created: 1629986374819
 license: CC BY-SA
 title_de: Seidenraupen
@@ -53,7 +53,7 @@ _Mulberry tree at the Museum of Natural History, Berlin, 2021. (Image: Britta La
 
 While the great dinosaur skeleton in the main hall of the Berlin Museum of Natural History is known throughout the city and the world, nobody seems to know anything about the giant tree in the museum’s courtyard. **On Habersaathstraße, in the passage that runs between the museum, today’s Institute of Biophysics, and the Thaer Institute of Agricultural and Horticultural Sciences at Humboldt University, there is a large mulberry tree.** What is its story? The clues lead back to 18th-century Prussia, to museum collections and villages in Brandenburg, to naturalists, kings, and silkworms.
 
-## _Morus alba_ at the Museum of Natural History and in the villages of Brandenburg 
+## _Morus alba_ at the Museum of Natural History and in the Villages of Brandenburg 
 
 The curator of the Lepidoptera (butterfly and moth) collection, Viola Richter, points the tree out to me as she looks for display cases filled with silkworm specimens at my request in autumn 2020.[^1] One of these cases displays the four zoological stages in the development of _Bombyx mori_, the silk moth, each represented by a number of specimens: the egg, the caterpillar (bombyx), the pupa in its cocoon, and the hatched moth. 
 
@@ -63,7 +63,7 @@ The curator of the Lepidoptera (butterfly and moth) collection, Viola Richter, p
  
 <figcaption>
  
-_Old display case showing the developmental stages of _Bombyx mori_, Museum of Natural History, Berlin, Lepidoptera collection, 2020. (Photo Britta Lange. All rights reserved.)_
+_Old display case showing the developmental stages of_ Bombyx mori _, Museum of Natural History, Berlin, Lepidoptera collection, 2020. (Image: Britta Lange. All rights reserved.)_
 
 </figcaption>
  
@@ -115,7 +115,7 @@ _The book cover for Maria Sibylla von Merian’s_ The Wondrous Transformation an
  
 </figure>
 
-## Old mulberry trees in Berlin
+## Old Mulberry Trees in Berlin
 
 In 1854, after [[story.silk-culture]] had gone through its boom in 17th- and 18th-century Prussia and had established itself as an industry, pébrine, a disease that affects silkworms, crossed over from France into Germany. **Most silkworm populations were wiped out[^15], and it was no longer possible to revive the industry in the long term.** Because silk was now only being cultivated by amateurs, its history in Prussia was opened up to historicisation and analysis. By the end of the 19th century, the animals that had formed the backbone of silk farming had disappeared, but some of the trees remained. People kept using their fruit to make jellies, desserts, and syrup, and their bright green leaves and golden crowns in autumn ensured that they stayed in use as decorative trees. Even though the orchards were cut down (as they had been after the death of Frederick the Great as well), a number of trees outlived their agricultural utilisation. **For example, there are still very old mulberry trees scattered about in Köpenick and at the cemetery in Zehlendorf – both of which were located outside the city gates at the time the trees were planted.**[^16] The map of old mulberry trees issued by the Berlin Senate Department clearly shows how the urban area has expanded since the 18th century, and how the ‘country’ has grown into the city that was still largely shaped by agriculture and livestock farming in the 19th century.[^17]
  
@@ -139,7 +139,7 @@ Perhaps the most spectacular of these trees is the old mulberry tree that still 
  
 <figcaption>
  
-_Old mulberry tree in Berlin-Mitte near the Charité campus, 2020. (Photo Britta Lange. All rights reserved.)_ 
+_Old mulberry tree in Berlin-Mitte near the Charité campus, 2020. (Image: Britta Lange. All rights reserved.)_ 
 
 </figcaption>
  
@@ -153,7 +153,7 @@ It was planted and maintained in connection with a settlement of French Huguenot
  
 <figcaption>
  
-_Mulberry trees at the French Cemetery in Berlin-Mitte, 2020. (Photo Britta Lange. All rights reserved.)_ 
+_Mulberry trees at the French Cemetery in Berlin-Mitte, 2020. (Image: Britta Lange. All rights reserved.)_ 
 
 </figcaption>
  
