@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Zoo and National Socialism
 title_de: Der Zoo im Nationalsozialismus
 created: 1619020958263
-updated: 1641516351545
+updated: 1641517163272
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 author: Clemens Maier-Wolthausen
 translators:
@@ -256,7 +256,7 @@ _Lutz Heck (left) and probably his driver in front of the service vehicle of the
 
 </figure> 
 
-Although the zoo was under explicit instructions to remain open, like all other zoos in the Reich’s territory, it was affected by the conscription of employees to the Wehrmacht. To replace its workforce, from 1940 onwards the zoo exploited forced laborers, using first Polish and French, and later probably also Soviet prisoners of war and civilians. A speech given by the administrative director at a shareholders’ meeting suggests that Lutz Heck himself had six young men deported to Berlin during a visit to Białowieża in 1941, so that they could work for him as forced laborers.[^39] Evidence also indicates that the zoo exploited an unknown number of what were referred to as “Ostarbeiter”, workers from the East, in the late summer of 1941. These were people who had been kidnapped or lured from the occupied Soviet Union to Berlin under false pretences. At least one Dutch prisoner was forced to work at the aquarium. In the last year of the war, they were joined by 40 “Italian military internees” – Italian soldiers interned after Italy’s surrender. In 1943, the zoo planned to build a barrack to accommodate approximately twelve forced laborers. Several hundred Soviet prisoners of war from the Berlin administrative division were also deployed at the zoo during the clean-up work after the bombing raids in the winter of 1943/44. **We know little about the living conditions of those who were forced to work at the zoo.** There is evidence that forced laborers were also used in other German zoos, but it seems likely that the zoo in the Reich’s capital was particularly well served by the allocation of forced labor.[^40]
+Although the zoo was under explicit instructions to remain open, like all other zoos in the Reich’s territory, it was affected by the conscription of employees to the Wehrmacht. To replace its workforce, from 1940 onwards the zoo exploited forced laborers, using first Polish and French, and later probably also Soviet prisoners of war and civilians. A speech given by the administrative director at a shareholders’ meeting suggests that Lutz Heck himself had six young men deported to Berlin during a visit to Białowieża in 1941, so that they could work for him as forced laborers.[^38] Evidence also indicates that the zoo exploited an unknown number of what were referred to as “Ostarbeiter”, workers from the East, in the late summer of 1941. These were people who had been kidnapped or lured from the occupied Soviet Union to Berlin under false pretences. At least one Dutch prisoner was forced to work at the aquarium. In the last year of the war, they were joined by 40 “Italian military internees” – Italian soldiers interned after Italy’s surrender. In 1943, the zoo planned to build a barrack to accommodate approximately twelve forced laborers. Several hundred Soviet prisoners of war from the Berlin administrative division were also deployed at the zoo during the clean-up work after the bombing raids in the winter of 1943/44. **We know little about the living conditions of those who were forced to work at the zoo.** There is evidence that forced laborers were also used in other German zoos, but it seems likely that the zoo in the Reich’s capital was particularly well served by the allocation of forced labor.[^39]
 
 The zoo also benefited in other ways from the connections of its director and Supervisory Board. These networks were cultivated throughout the war. As pictures in the zoo archives show, Hermann Göring visited Berlin Zoo as late as 1942.
 
@@ -272,11 +272,11 @@ _Hermann Göring (center, light-colored coat) on a visit to Berlin Zoo in 1942, 
 
 </figure>
 
-The regime also supported the zoo with animal feed. In his role at the Reichsforstamt in Berlin, Lutz Heck coordinated the supply of feed to zoos throughout the Reich. He was very successful in this: up until the last months of the war, rare seabirds and seals were still being supplied with ocean fish.[^41] 
+The regime also supported the zoo with animal feed. In his role at the Reichsforstamt in Berlin, Lutz Heck coordinated the supply of feed to zoos throughout the Reich. He was very successful in this: up until the last months of the war, rare seabirds and seals were still being supplied with ocean fish.[^40] 
 
 ## Devastation
 
-On the night of 23 November 1943, an Allied bombing raid turned the zoo into a sea of flames, and killed 30 percent of the remaining animals.[^42]
+On the night of 23 November 1943, an Allied bombing raid turned the zoo into a sea of flames, and killed 30 percent of the remaining animals.[^41]
 
 <figure>
 
@@ -304,9 +304,9 @@ _Interior of destroyed elephant enclosure, in which seven elephants died, 1943. 
 
 </figure>
 
-Hundreds of forced laborers cleared the zoo of debris.[^43] Half a year later, the zoo reopened in time for its centennial celebration on 25 July 1944. It allowed entry to as many as 5,000 people at a time during its opening hours in the summer and autumn of 1944. A total of 250,000 visitors came to marvel at the zoo’s population, which still comprised more than 1,500 animals.[^44] In the event of an air-raid alert, visitors were to be evacuated to the enormous flak tower on the northern edge of the zoo.[^45]
+Hundreds of forced laborers cleared the zoo of debris.[^42] Half a year later, the zoo reopened in time for its centennial celebration on 25 July 1944. It allowed entry to as many as 5,000 people at a time during its opening hours in the summer and autumn of 1944. A total of 250,000 visitors came to marvel at the zoo’s population, which still comprised more than 1,500 animals.[^43] In the event of an air-raid alert, visitors were to be evacuated to the enormous flak tower on the northern edge of the zoo.[^44]
 
-On 22 April 1945, however, it all finally came to an end. All male employees were drafted into the Volkssturm national militia. They had to dig trenches through the zoo’s grounds. On 30 April, shortly before Soviet troops reached the zoo, the senior management team surrounding Lutz Heck fled.[^46] For 48 hours, the fierce battle for the neighboring flak tower also raged on the grounds of the zoo. On 2 May, the battle for the city center and the zoo ended. Corpses and animal carcasses lay everywhere; between 80 and 90 animals had survived.[^47]
+On 22 April 1945, however, it all finally came to an end. All male employees were drafted into the Volkssturm national militia. They had to dig trenches through the zoo’s grounds. On 30 April, shortly before Soviet troops reached the zoo, the senior management team surrounding Lutz Heck fled.[^45] For 48 hours, the fierce battle for the neighboring flak tower also raged on the grounds of the zoo. On 2 May, the battle for the city center and the zoo ended. Corpses and animal carcasses lay everywhere; between 80 and 90 animals had survived.[^46]
 
 <figure>
 
@@ -358,17 +358,17 @@ Zoos are certainly also compatible with other regimes and social systems – eve
 
 [^17]: Correspondence between all parties in GStA PK I. HA, Rep 151, 2500 and minutes of Supervisory Board meeting, 24.08.1935, GStA PK I. HA, Rep 151, 2496, Bl. 93-94.
 
-[^18]: Reinert, Wiebke and Mieke Roscher. “Der zoologische Garten als anderer Raum. Hamburger und Berliner Heterotopien”. In _Urbane Tier-Räume_, Thomas E. Hauck, Stefanie Hennecke, André Krebber, Wiebke Reinert, and Mieke Roscher (eds.). Berlin: Dietrich Reimer Verlag, 2017: 112. Direct quotes have been translated into English for clarity’s sake.
+[^18]: Reinert, Wiebke and Mieke Roscher. “Der zoologische Garten als anderer Raum: Hamburger und Berliner Heterotopien”. In _Urbane Tier-Räume_, Thomas E. Hauck, Stefanie Hennecke, André Krebber, Wiebke Reinert, and Mieke Roscher (eds.). Berlin: Dietrich Reimer Verlag, 2017: 112. Direct quotes have been translated into English for clarity’s sake.
 
 [^19]: Press tour of domestic animal exhibition, Pentecost 1937, AZGB O 0/1/15. Direct quotes have been translated into English for clarity’s sake.
 
-[^20]: Artinger, Kai. “Lutz Heck: Der ‘Vater der Rominter Ure’. Einige Bemerkungen zum wissenschaftlichen Leiter des Berliner Zoos im Nationalsozialismus”. _Der Bär von Berlin – Jahrbuch des Vereins für die Geschichte Berlins_ 23 (1994): 125-139. https://www.diegeschichteberlins.de/geschichteberlins/persoenlichkeiten/persoenlichkeitenhn/491-heck.html (03.01.2022). Direct quotes have been translated into English for clarity’s sake.
+[^20]: Artinger, Kai. “Lutz Heck: Der ‘Vater der Rominter Ure’. Einige Bemerkungen zum wissenschaftlichen Leiter des Berliner Zoos im Nationalsozialismus”. _Der Bär von Berlin: Jahrbuch des Vereins für die Geschichte Berlins_ 23 (1994): 125-139. https://www.diegeschichteberlins.de/geschichteberlins/persoenlichkeiten/persoenlichkeitenhn/491-heck.html (03.01.2022). Direct quotes have been translated into English for clarity’s sake.
 
 [^21]: Cf., for instance, Heck, Lutz. “Über die Neuzüchtung des Ur oder Auerochs”. _Berichte der Internationalen Gesellschaft zur Erhaltung des Wisents_ 3, Nr. 4 (1936): 224-294, 235.
 
 [^22]: Heck, Lutz. *Auf Tiersuche in weiter Welt*. Berlin: Paul Parey, 1941: 195. Direct quotes have been translated into English for clarity’s sake.
 
-[^23]: Heck, 1941: 195; and Heck, Lutz. “Letzte Urwaldtiere aus deutscher Vorzeit”. *Atlantis. Länder, Völker, Reisen* 4, Nr. 10 (1932): 577-583; Heck, Lutz. “Die Neuzüchtung des Auerochsen”. *Wild und Hund* 37 (15.12.1939): 535-537. A frieze with a verse from the epic also decorated the aurochs’ stand at the international hunting exhibition of 1938. 
+[^23]: Heck, 1941: 195; and Heck, Lutz. “Letzte Urwaldtiere aus deutscher Vorzeit”. *Atlantis: Länder, Völker, Reisen* 4, Nr. 10 (1932): 577-583; Heck, Lutz. “Die Neuzüchtung des Auerochsen”. *Wild und Hund* 37 (15.12.1939): 535-537. A frieze with a verse from the epic also decorated the aurochs’ stand at the international hunting exhibition of 1938. 
 
 [^24]: Membership card at the Berlin document center of the Bundesarchiv Berlin.
 
@@ -388,7 +388,7 @@ Zoos are certainly also compatible with other regimes and social systems – eve
 
 [^32]: Construction drawings and building petitions for air-raid shelters, LAB, A Rep. 032-08, no. 293; cf. also Heck, Lutz. _Tiere – mein Abenteuer: Erlebnisse in Wildnis und Zoo_. Vienna: Ullstein 1954: 97-102; Speech of L. Heck at General Assembly, 1940, AZGB O 0/3/13; note on the annual report for the year 1941, AZGB O 0/3/12.
 
-[^33]: Cf. Maier-Wolthausen, Clemens. _Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos_. Andreas Knieriem (ed.). Berlin: Ch. Links Verlag, 2019: 118-129.
+[^33]: Cf. Maier-Wolthausen, 2019: 118-129.
 
 [^34]: Wöbse, Anna-Katharina, and Mieke Roscher. “Zootiere während des Zweiten Weltkrieges: London und Berlin 1939-1945”. *WerkstattGeschichte*, Nr. 56 (2010): 44-62, 50.
 
@@ -401,7 +401,7 @@ Zoos are certainly also compatible with other regimes and social systems – eve
 
 [^39]: Minutes of General Assembly, 1942, AZGB O 0/3/12.
 
-[^40]: Cf. Maier-Wolthausen, Clemens. *Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos*. Ed. by Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 126-127.
+[^40]: Cf. Maier-Wolthausen, 2019: 126-127.
 
 [^41]: Circular letter L. Heck to the zoological gardens, 22.02.1945; and Fisch-Grosshandel H. D. Petersen to L. Heck, 08.03.1945, AZGB O 0/1/88.
 
@@ -745,7 +745,7 @@ Zwar sind Zoos auch in anderen Regimen und Gesellschaftsformen anschlussfähig �
 
 [^19]: Presseführung Haustierhof, Pfingsten 1937, AZGB O 0/1/15.
 
-[^20]: Artinger, Kai. “Lutz Heck: Der ‘Vater der Rominter Ure’. Einige Bemerkungen zum wissenschaftlichen Leiter des Berliner Zoos im Nationalsozialismus”. *Der Bär von Berlin – Jahrbuch des Vereins für die Geschichte Berlins* 23 (1994): 125-139. https://www.diegeschichteberlins.de/geschichteberlins/persoenlichkeiten/persoenlichkeitenhn/491-heck.html (03.01.2022).
+[^20]: Artinger, Kai. “Lutz Heck: Der ‘Vater der Rominter Ure’. Einige Bemerkungen zum wissenschaftlichen Leiter des Berliner Zoos im Nationalsozialismus”. *Der Bär von Berlin: Jahrbuch des Vereins für die Geschichte Berlins* 23 (1994): 125-139. https://www.diegeschichteberlins.de/geschichteberlins/persoenlichkeiten/persoenlichkeitenhn/491-heck.html (03.01.2022).
 
 [^21]: Vgl. u. a. Heck, Lutz. “Über die Neuzüchtung des Ur oder Auerochs”. _Berichte der Internationalen Gesellschaft zur Erhaltung des Wisents_ 3, Nr. 4 (1936): 224-294, 235.
 
