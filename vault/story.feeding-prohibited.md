@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding Prohibited
 title_de: Füttern verboten
 created: 1620752897039
-updated: 1641587982120
+updated: 1641588963574
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 author: Mareike Vennen
 translators:
@@ -287,9 +287,9 @@ _Artikel im_ Tagesspiegel _zum Fütterungsverbot im Berliner Zoo anlässlich der
 
 </figure>
 
-Der Tod des Elefanten war nicht der erste Fall, bei dem Zootier an den Folgen von Überfütterung starb, siehe auch [[story.feeding-and-overfeeding]]. Zootiere mit mitgebrachten Lebensmitteln zu füttern, ist Teil einer langen Geschichte falscher oder übermäßiger Fütterung. Seit ihren Anfängen im 19. Jahrhundert war das Füttern durch die Besucher:innen in zoologischen Gärten grundsätzlich erlaubt. Die damaligen Zooführer – kleine, gedruckte Informationshefte – luden die Besucher:innen zum Füttern ein, allerdings schon damals mit Einschränkungen. Der Berliner Zooführer wies bereits 1873 darauf hin, manche Tiere nicht zu füttern und im Hamburger Zoologischen Garten wurden die Besucher:innen ebenfalls schon 1879 “ergebenst und dringend ersucht, nur diejenigen Thiere zu füttern, deren Namen auf den Anschlagtafeln bekannt gemacht sind”.[^1] Über den Zoologischen Garten Frankfurt hieß es nur wenige Tage nach der Eröffnung 1858: “Nachdem am Sonntage der zoologische Garten eröffnet worden, haben in Folge der von den Besuchern übermäßig gereichten Fütterung die meisten Thiere an verdorbenem Magen gelitten.” So musste das Füttern verschiedener Tiere ganz untersagt werden. Mahnungen an den Käfigen bezüglich des Fütterungsverbots sind auch im Zooführer des Tiergartens Schönbrunn 1912 erwähnt. Besonders empfindliche Tierarten wie Menschenaffen, Raubtiere und Seelöwen durften in den meisten Zoos überhaupt nicht gefüttert werden.[^2]
+Der Tod des Elefanten war nicht der erste Fall, bei dem ein Zootier an den Folgen von Überfütterung starb, siehe auch [[story.feeding-and-overfeeding]]. Zootiere mit mitgebrachten Lebensmitteln zu füttern, ist Teil einer langen Geschichte falscher oder übermäßiger Fütterung. Seit ihren Anfängen im 19. Jahrhundert war das Füttern durch die Besucher:innen in zoologischen Gärten grundsätzlich erlaubt. Die damaligen Zooführer – kleine, gedruckte Informationshefte – luden die Besucher:innen zum Füttern ein, allerdings schon damals mit Einschränkungen. Der Berliner Zooführer wies bereits 1873 darauf hin, manche Tiere nicht zu füttern und im Hamburger Zoologischen Garten wurden die Besucher:innen ebenfalls schon 1879 “ergebenst und dringend ersucht, nur diejenigen Thiere zu füttern, deren Namen auf den Anschlagtafeln bekannt gemacht sind”.[^1] Über den Zoologischen Garten Frankfurt hieß es nur wenige Tage nach der Eröffnung 1858: “Nachdem am Sonntage der zoologische Garten eröffnet worden, haben in Folge der von den Besuchern übermäßig gereichten Fütterung die meisten Thiere an verdorbenem Magen gelitten.” So musste das Füttern verschiedener Tiere ganz untersagt werden. Mahnungen an den Käfigen bezüglich des Fütterungsverbots sind auch im Zooführer des Tiergartens Schönbrunn 1912 erwähnt. Besonders empfindliche Tierarten wie Menschenaffen, Raubtiere und Seelöwen durften in den meisten Zoos überhaupt nicht gefüttert werden.[^2]
 
-Darüber, _was_ den Tieren angeboten werden durfte, wiesen die Zoowegweiser und im Garten aufgestellte Schilder ebenfalls schon früh hin. Elefanten, ebenso wie die Affen bei den Zoogästen besonders beliebt, konnten die Berliner:innen mit Brot, Möhren, Apfelsinen, Bananen und Zitronen füttern. Um die “Neigung des Publikums, die Tiere zu füttern, [...] in bestimmte Bahnen [zu lenken]”, wurden bei der Erweiterung des Affenhauses 1925 rot gekennzeichnete Vorrichtungen angebracht, wo das Futter hineingelegt werden konnte und die Affen “etwas Intelligenz anwenden müssen”, um es zu ergreifen. Gleichzeitig war in der Nähe ein Futterhäuschen aufgestellt, wo man “geeignetes Futter” kaufen konnte – eine Idee, die laut Geschäftsbericht des Zoos gut ankam und das Füttern zumindest in gewissem Maße regulierte.[^3]
+Darüber, _was_ den Tieren angeboten werden durfte, wiesen die Zoowegweiser und im Garten aufgestellte Schilder ebenfalls schon früh hin. Elefanten, ebenso wie die Affen bei den Zoogästen besonders beliebt, konnten die Berliner:innen mit Brot, Möhren, Apfelsinen, Bananen und Zitronen füttern. Um die “Neigung des Publikums, die Tiere zu füttern, […] in bestimmte Bahnen [zu lenken]”, wurden bei der Erweiterung des Affenhauses 1925 rot gekennzeichnete Vorrichtungen angebracht, wo das Futter hineingelegt werden konnte und die Affen “etwas Intelligenz anwenden müssen”, um es zu ergreifen. Gleichzeitig war in der Nähe ein Futterhäuschen aufgestellt, wo man “geeignetes Futter” kaufen konnte – eine Idee, die laut Geschäftsbericht des Zoos gut ankam und das Füttern zumindest in gewissem Maße regulierte.[^3]
 
 Diskussionen über die Fütterung durch Besucher:innen und Teilverbote in zoologischen Gärten innerhalb und außerhalb von Deutschland waren schon lange präsent, siehe auch [[story.feeding-and-overfeeding]], doch führte die Mehrzahl der Zoos erst in den 1950er Jahren ein generelles Fütterungsverbot ein – nachdem sich die Erkrankungen und Tode, die auf Überfütterung zurückgingen, gerade in den gut besuchten Sommermonaten häuften. Als am 1. Juni 1953 ein erst kürzlich neu erworbener Elefant im Frankfurter Zoo an den Folgen der Überfütterung durch die Besucher:innen verendete, beschloss der damalige Direktor Bernhard Grzimek, das Füttern der Zootiere durch Besucher:innen komplett zu verbieten. 1957 folgte der Leipziger Zoo und 1959 der Zoologische Garten zu Münster, nachdem auch dort mehrere Tiere gestorben waren.[^4] Im gleichen Jahr wurde die Frage auf jährlichen Tagung des Verbands Deutscher Zoodirektoren diskutiert, der ein generelles Fütterungsverbot   beschloss.
 
@@ -315,7 +315,7 @@ Zunächst hoffte der Zoo, mit Teilverboten auszukommen.
 
 <figcaption>
 
-_Giraffen durften im Berliner Zoo bereits 1954 nicht mehr gefüttert werden. Das Schild und eine Absperrung sollten die Besucher:innen auf Abstand halten. (AZGB, Foto Ottmar Kränzlein. Alle Rechte vorbehalten.)[^6]_
+_Giraffen durften im Berliner Zoo bereits 1954 nicht mehr gefüttert werden. Das Schild und eine Absperrung sollten die Besucher:innen auf Abstand halten. (AZGB, Foto: Ottmar Kränzlein. Alle Rechte vorbehalten.)[^6]_
 
 </figcaption>
 
@@ -365,7 +365,7 @@ _Fütterungsverbotsschild im Zoologischen Garten Berlin 1969. (AZGB. Alle Rechte
 
 <figcaption>
 
-_Hinweisschild am Emugehege im Berliner Zoo 1980. (AZGB, Foto Kühn. Alle Rechte vorbehalten.)_
+_Hinweisschild am Emugehege im Berliner Zoo 1980. (AZGB, Foto: Kühn. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -375,7 +375,7 @@ Damit das Fütterungsverbot eingehalten wurde, verteilte man im Frankfurter und 
 
 Für die Zoogäste veränderte sich mit dem Verbot wiederum die Beziehung zum Tier. Der Berliner Zoo musste unzählige Mahnungen und Verweise aussprechen, da Besucher:innen die Tiere trotz des Verbots weiter fütterten. Die Debatte drehte sich immer wieder um Emotionen, denn in der Fütterungsfrage kulminierte damals wie bei kaum einem anderen Thema die Frage nach der “Tierliebe”.
 
-Lange Zeit und insbesondere in den Nachkriegsjahren galt als “Tierfreund”[^12] vor allem, wer fütterte und darin seine Sorge um die Tiere bekundete [[story.feed-scarcity]]. Mit den Fütterungsverboten tritt ein anderes Verständnis der “Tierfreundschaft” auf den Plan, das beispielsweise auch den Umgang mit Löwenbabys veränderte und sich zugleich in einer gewandelten Einstellung zum eigenen Fütterungsverhalten äußert [[story.photos-with-lion-cubs]].
+Lange Zeit und insbesondere in den [[Nachkriegsjahren|story.feed-scarcity]] galt als “Tierfreund” vor allem,[^12] wer fütterte und darin seine Sorge um die Tiere bekundete . Mit den Fütterungsverboten tritt ein anderes Verständnis der “Tierfreundschaft” auf den Plan, das beispielsweise auch den Umgang mit [[Löwenbabys|story.photos-with-lion-cubs]] veränderte und sich zugleich in einer gewandelten Einstellung zum eigenen Fütterungsverhalten äußert.
 
 Für viele drückte sich nun die Liebe zum Tier und die Sorge um dieses gerade in Zurückhaltung aus, in der Zurückstellung des eigenen Fütterungswunsches: “Auch wir bedauern das traurige Ende von Jambo und begrüßen das Fütterungsverbot. Anders ist ja den Berlinern mit ihrer übertriebenen Tierliebe nicht beizukommen”,[^13] hieß es in einer anonymen Zuschrift an den Zoo. Gehörte zuvor das bereitwillige Geben zu den zentralen Tugenden des “Tierfreunds” im Zoo, war es nun die Selbstbeherrschung, von der die Gesundheit der Tiere abhängig gemacht wurde. Das Füttern – zumal das übermäßige – wurde nun als “falsche Tierliebe” bewertet.[^14] Das war Teil eines umfassenderen Wandels, den die Kulturwissenschaftlerin Christina Wessely so erklärt, dass der  zuweilen recht aufdringliche “Tierfreund” sich zunehmend eine Auffassung aneignet, bei der der Mensch ganz bewusst in den Hintergrund rückt – ein Prozess, der erst um die Jahrtausendwende weitestgehend vollzogen ist.[^15]  
 
