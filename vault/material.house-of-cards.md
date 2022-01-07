@@ -2,7 +2,7 @@
 id: A8Dh5fk6b52EJQRaw3Qe4
 title: A House of Cards
 desc: Organising knowledge using loose index cards
-updated: 1640912059911
+updated: 1641552813142
 created: 1629792930385
 license: CC BY-SA
 title_de: Verzettelung
@@ -39,14 +39,14 @@ colour_scheme: 2
  
 <figcaption>
  
-_Card catalogue in the Zoological Teaching Collection of the Humboldt University of Berlin. Zoological Teaching Collection, photo Theresa Schatt. All rights reserved.)_
+_Card catalogue in the Zoological Teaching Collection of the Humboldt University of Berlin. Zoological Teaching Collection, image: Theresa Schatt. All rights reserved.)_
 
 </figcaption>
  
 </figure>
 
 
-The index cards pictured here are a paper technology that is still being used to organise the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]] of the Humboldt University in Berlin. At first, they were used in addition to the records of items that the teaching collection had kept using [[inventory books|story.inventory-books]] since its founding in 1884, before they completely replaced the large, heavy catalogues in 1968. For each item in the collection, whether it is a specimen or a model, there is one of these cards, which bring together all of the existing information. The index cards are sorted in a card catalogue with numbering based on the logic of [[zoological systematics|theme.taxonomic-orders]]. These numerical codes, e.g., [[28.8.5.7-4|material.common-seadragon]], produce an extensive network, within which the individual index cards refer to each other as units of information.
+The index cards pictured here are a paper technology that is still being used to organise the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]] of the Humboldt University in Berlin. At first, they were used in addition to the records of items that the teaching collection had kept using [[inventory books|story.inventory-books]] since its founding in 1884, before they completely replaced the large, heavy catalogues in 1968. For each item in the collection, whether it is a specimen or a model, there is one of these cards, which bring together all of the existing information. The index cards are sorted in a card catalogue with numbering based on the logic of [[zoological systematics|theme.taxonomic-orders]]. These numerical codes, e.g. [[28.8.5.7-4|material.common-seadragon]], produce an extensive network, within which the individual index cards refer to each other as units of information.
 
 <figure>
 
@@ -77,7 +77,7 @@ Because they are so flexible, the index cards facilitate the management of colle
  
 <figcaption>
  
-_Zettelkästen in der Zoologischen Lehrsammlung der Humboldt-Universität zu Berlin. (Zoologische Lehrsammlung, Foto Theresa Schatt. Alle Rechte vorbehalten.)_
+_Zettelkästen in der Zoologischen Lehrsammlung der Humboldt-Universität zu Berlin. (Zoologische Lehrsammlung, Foto: Theresa Schatt. Alle Rechte vorbehalten.)_
 
 </figcaption>
  

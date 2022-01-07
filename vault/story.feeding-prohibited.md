@@ -1,7 +1,7 @@
 ---
 license: CC BY-SA
 title: Feeding Prohibited
-title_de: Füttern Verboten
+title_de: Füttern verboten
 created: 1620752897039
 updated: 1640908697727
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
