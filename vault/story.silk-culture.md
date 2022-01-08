@@ -7,7 +7,7 @@ desc: |-
   German provinces in the 17th century. How did they get to Prussia, what shape
   did silk production take, and what was it that ultimately led state-run silk
   farming to dry up? 
-updated: 1640913337703
+updated: 1641602072435
 created: 1629996091814
 license: CC BY-SA
 title_de: Seiden-Cultur
@@ -45,7 +45,7 @@ colour_scheme: 12
  
 <figcaption>
  
-_Display case from the Lepidoptera collection at the Museum of Natural History, Berlin. (Photo Britta Lange. All rights reserved.)_
+_Display case from the Lepidoptera collection at the Museum of Natural History, Berlin. (Image: Britta Lange. All rights reserved.)_
 
 </figcaption>
  
@@ -65,7 +65,7 @@ In 1707, Leibniz did in fact receive the privilege (the sole right) from the kin
 
 Ultimately, the golden age of silk farming in Prussia was the period 1740-1786 under the rule of Frederick II, who provided it with state support in the form of a convoluted system of subsidies and penalties with the goal of achieving the best possible self-sufficiency in raw materials.[^8] He established manufactories and decreed silk production an agricultural sideline for teachers, sacristans, and pastors, even though it was extremely unpopular with this group. The industry flourished, and Prussia reached the pinnacle of its silk production in the 1780s[^9] – “It clothes the rich, it feeds the poor”, reads the engraving on a prize medal for silk farming made in 1793.[^10]
 
-## Beneficial insects: From the silkworm to silk 
+## Beneficial Insects: From the Silkworm to Silk 
 
 Upon their arrival in Germany/Brandenburg, silkworms were referred to as _Seidenwürmer_, which directly corresponds to the English term “silkworms”. However, they are now referred to as _Seidenraupen_, which translates as “silk caterpillars”. The fact that it was at all possible to raise and utilise the silkworm, originally from China, in northern Europe, which is characterised by its cold winters, was due to its biological properties. **Experience had shown that silkworms could be prevented from hatching for almost an entire year by storing the eggs in a cool place.** Mulberry trees only bloom once a year in northern climes, and because their young green leaves provide sustenance to silkworms, the eggs would be warmed to 25 degrees in early summer to be hatched. **In Prussia, it was usually women who were tasked with caring for and cleaning the young caterpillars, which had to be fed with the green leaves of the mulberry tree for about 32 days before they pupated.** The silkworm spins its cocoon from a single silk thread produced by its salivary gland, which can grow to lengths of up to 200 metres. In its cocoon, the pupa develops into a moth that ultimately hatches but is unable to fly[^11] and soon mates before it lays more eggs and then dies. As the German handbooks and encyclopaedias of the 18th century attest, the moths had to be prevented from hatching as it would damage the silk threads. In order to obtain the silk, the cocoons were thrown into boiling water a few days before they were due to hatch, killing the pupae, so that the silk thread could then be unwound whole. The moths were only allowed to hatch for reproductive purposes, and their eggs were then kept for the next cycle.[^12]
 
@@ -78,7 +78,7 @@ This breeding process brought together significant industrial sectors in Prussia
  
 <figcaption>
  
-_Display case from the Lepidoptera collection at the Museum of Natural History, Berlin. (Photo Britta. All rights reserved.)_
+_Display case from the Lepidoptera collection at the Museum of Natural History, Berlin. (Image: Britta. All rights reserved.)_
 
 </figcaption>
  
@@ -146,13 +146,13 @@ In spite of myriad efforts, it was not possible for the Prussian state to do awa
  
 <figcaption>
  
-_Schaukasten im Museum für Naturkunde Berlin, Sammlung Lepidoptera. (Foto Britta Lange. Alle Rechte vorbehalten.)_
+_Schaukasten im Museum für Naturkunde Berlin, Sammlung Lepidoptera. (Foto: Britta Lange. Alle Rechte vorbehalten.)_
 
 </figcaption>
  
 </figure>
 
-Hinweise zur Geschichte des Seidenbaus in Preußen finden sich in den Forschungsarbeiten der Preußischen Akademie der Wissenschaften. Sie befasste sich in den 1880er und 1890er-Jahren umfassend mit dem merkantilistischen Wirtschaftssystem unter der Regierung Friedrichs des Großen und publizierte umfangreiche Quellen aus dem 18. Jahrhundert sowie entsprechende historische Analysen zu verschiedenen Industrieformen in der Reihe _Acta Borussica_. Als Erstes erschienen im Jahr 1882 drei Bände zur “Preußischen Seidenindustrie”[^1], die diese als Erfolgsmodell darstellten. 
+Hinweise zur Geschichte des Seidenbaus in Preußen finden sich in den Forschungsarbeiten der Preußischen Akademie der Wissenschaften. Sie befasste sich in den 1880er und 1890er-Jahren umfassend mit dem merkantilistischen Wirtschaftssystem unter der Regierung Friedrichs des Großen und publizierte umfangreiche Quellen aus dem 18. Jahrhundert sowie entsprechende historische Analysen zu verschiedenen Industrieformen in der Reihe _Acta Borussica_. Als Erstes erschienen im Jahr 1882 drei Bände zur “Preußischen Seidenindustrie”,[^1] die diese als Erfolgsmodell darstellten. 
 Der Publikation zufolge wurde das Geheimnis der Seidenherstellung in China über Tausende Jahre streng gehütet, bis im Jahr 522 zwei Mönche Samen des weißen Maulbeerbaums und Eier der Seidenraupe von China nach Byzanz schmuggelten. **Im 8. Jahrhundert gelangten von dort aus Seidenraupen nach Spanien, Italien und Frankreich; im 17. Jahrhundert fanden erste Versuche mit Seidenzucht in deutschen Provinzen statt.** Angetrieben von dem wirtschaftlichen Interesse an der Seide entfaltete sich eine globale und transnationale Geschichte, in der Tiere und die für sie überlebensnotwenigen Bäume vielfach migriert wurden.
 
 In Preußen fasste der Große Kurfürst Friedrich Wilhelm von Brandenburg (1620-1688) die “Seidenziehung” in den 1680er-Jahren als einer jener Maßnahmen ins Auge, mit denen die Landwirtschaft und das Handwerk in dem vom Dreißigjährigen Krieg völlig verwüsteten Brandenburg wieder in Gang gebracht werden sollte. Besondere Hoffnung setzte er in die Hugenotten, jene französischen Glaubensflüchtlinge, denen er die Ansiedlung im protestantischen Preußen gewährte, als der französische König Louis XIV. 1688 das Edikt von Nantes widerrief und damit den calvinistischen Protestant:innen alle religiösen und bürgerlichen Rechte entzog.
@@ -167,7 +167,7 @@ Seine Hochphase erlebte der Seidenbau in Preußen schließlich zwischen 1740 und
 
 ## Nutztiere: Von der Raupe zur Seide
 
-Dass die ursprünglich aus China stammenden Seidenraupen überhaupt in dem durch kalte Winter bestimmten Nordeuropa aufgezogen und genutzt werden konnten, basiert auf ihren biologischen Eigenschaften. **Die Erfahrung hatte gezeigt, dass das Schlüpfen der Seidenraupen – bei ihrer Einführung in deutsche Provinzen im 17. und 18. Jahrhundert meist Seidenwürmer genannt – durch die kühle Lagerung der Eier fast um ein ganzes Jahr verzögert werden konnte.** Da in den nördlichen Ländern die Maulbeerbäume nur einmal im Jahr ausschlagen und die jungen grünen Blätter als Nahrung liefern, brachte man die Eier durch Erwärmen auf etwa 25 Grad jeweils im Frühsommer zum Schlüpfen. **In Preußen waren meist Frauen für die Pflege und Reinigung der jungen Raupen zuständig, die etwa 32 Tage lang mit den grünen Blättern des Maulbeerbaums gefüttert werden mussten, bis sie sich verpuppten.** Den Kokon spinnen sie aus einem einzigen, bis zu 2000 Meter langen Seidenfaden, der aus einer Drüse an ihrem Maul austritt. Im Kokon entwickelt die Puppe sich zum Schmetterling, der schließlich schlüpft, sich aber nur flatternd fortbewegen kann[^11] und sich bald darauf paart, um wieder Eier zu legen und danach zu sterben. Wie die deutschen Handbücher und Enzyklopädien des 18. Jahrhunderts schildern, musste das Auskriechen der Schmetterlinge verhindert werden, da dabei der Seidenfaden beschädigt wurde. Zur Gewinnung der Seide wurden die Kokons einige Tage vor dem Schlüpfen in kochendes Wasser geworfen und so die Puppen getötet, damit anschließend der Seidenfaden in Gänze abgehaspelt werden konnte. Nur zu Reproduktionszwecken durften jeweils einige der Motten schlüpfen, deren Eier für den nächsten Zyklus bewahrt wurden.[^12]
+Dass die ursprünglich aus China stammenden Seidenraupen überhaupt in dem durch kalte Winter bestimmten Nordeuropa aufgezogen und genutzt werden konnten, basiert auf ihren biologischen Eigenschaften. **Die Erfahrung hatte gezeigt, dass das Schlüpfen der Seidenraupen – bei ihrer Einführung in deutsche Provinzen im 17. und 18. Jahrhundert meist Seidenwürmer genannt – durch die kühle Lagerung der Eier fast um ein ganzes Jahr verzögert werden konnte.** Da in den nördlichen Ländern die Maulbeerbäume nur einmal im Jahr ausschlagen und die jungen grünen Blätter als Nahrung liefern, brachte man die Eier durch Erwärmen auf etwa 25 Grad jeweils im Frühsommer zum Schlüpfen. **In Preußen waren meist Frauen für die Pflege und Reinigung der jungen Raupen zuständig, die etwa 32 Tage lang mit den grünen Blättern des Maulbeerbaums gefüttert werden mussten, bis sie sich verpuppten.** Den Kokon spinnen sie aus einem einzigen, bis zu 2.000 Meter langen Seidenfaden, der aus einer Drüse an ihrem Maul austritt. Im Kokon entwickelt die Puppe sich zum Schmetterling, der schließlich schlüpft, sich aber nur flatternd fortbewegen kann und sich bald darauf paart,[^11] um wieder Eier zu legen und danach zu sterben. Wie die deutschen Handbücher und Enzyklopädien des 18. Jahrhunderts schildern, musste das Auskriechen der Schmetterlinge verhindert werden, da dabei der Seidenfaden beschädigt wurde. Zur Gewinnung der Seide wurden die Kokons einige Tage vor dem Schlüpfen in kochendes Wasser geworfen und so die Puppen getötet, damit anschließend der Seidenfaden in Gänze abgehaspelt werden konnte. Nur zu Reproduktionszwecken durften jeweils einige der Motten schlüpfen, deren Eier für den nächsten Zyklus bewahrt wurden.[^12]
 
 Mit diesem Züchtungsvorgang verbanden sich in Preußen, Südeuropa und China bedeutende Wirtschaftszweige und die mit ihnen verflochtene Sozialgeschichte.
 
@@ -177,7 +177,7 @@ Mit diesem Züchtungsvorgang verbanden sich in Preußen, Südeuropa und China be
  
 <figcaption>
  
-_Schaukasten im Museum für Naturkunde Berlin, Sammlung Lepidoptera. (Foto Britta Lange. Alle Rechte vorbehalten.)_
+_Schaukasten im Museum für Naturkunde Berlin, Sammlung Lepidoptera. (Foto: Britta Lange. Alle Rechte vorbehalten.)_
 
 </figcaption>
  
@@ -185,7 +185,7 @@ _Schaukasten im Museum für Naturkunde Berlin, Sammlung Lepidoptera. (Foto Britt
 
 Ein weiterer Schaukasten unklaren Herstellungsdatums im Museum für Naturkunde trägt die Beschriftung “Bekleidung”. Heute wird er in der Sammlung aufbewahrt, war jedoch früher wohl einmal für eine Ausstellung arrangiert worden. Sein einleitender Satz lautet: “Der Maulbeerspinner _Bombyx mori_ ist in China und Japan die Existenzgrundlage von Millionen von Menschen”, und verweist dabei auf die Wirtschaftskraft der Seidenherstellung und die Haltung von Seidenraupen als Nutztiere in Manufakturen, aber auch in privaten Haushalten. Dabei wird der Maulbeerspinner gegenüber anderen sich verpuppenden Schmetterlingsarten bevorzugt, da sein Seidenfaden bei entsprechender menschlicher Fertigkeit in einem Stück abgewickelt werden kann. Beim Verdrillen der einzelnen Fäden entsteht so ein gleichmäßiges Garn und damit ein glatter Stoff, während alle anderen Raupenarten kürzere Fadenstücke produzieren, so dass ein in der Dicke ungleichmäßiger Faden produziert wird, aus dem die so genannte Wildseide gewebt wird, die unterschiedliche Stärken aufweist.
 
-**Die “Seiden-Cultur” in Preußen zielte auf der Makroebene auf die Idee einer Rohstoffautarkie. Auf der Mikroebene stellen sich dagegen andere Fragen und Probleme.** Der Umgang mit den Seidenraupen im Privatbereich war zwar zeitweise lukrativ, jedoch nicht angenehm, wie eine Vielzahl von Quellen bezeugt, etwa die Briefe von empörten Pfarrern und Lehrern an Friedrich II.[^13] **Die Pflege der stetig fressenden Raupen war aufwendig**: Zahlreiche Handbücher aus dem späten 18. und 19. Jahrhundert erläutern detailreich, wie Seidenzimmer eingerichtet, Gestelle gebaut, Blätter drapiert, die Temperatur überwacht und die etwa daumengroßen Raupen von Kot gereinigt werden mussten. Die Tiere wurden häufig von Krankheiten heimgesucht, stanken und starben oft vorzeitig, wie etwa Johann Wolfgang von Goethe in _Dichtung und Wahrheit_ zur Raupenzucht seines Vaters in der Nähe von Frankfurt am Main schildert: “Die daraus entstehende Fäulnis erregte einen wirklich pestartigen Geruch, und da man die toten und kranken wegschaffen und von den gesunden absondern musste, um nur einige zu retten, so war es in der Tat ein äusserst beschwerliches und widerliches Geschäft \[…].”[^14]
+**Die “Seiden-Cultur” in Preußen zielte auf der Makroebene auf die Idee einer Rohstoffautarkie. Auf der Mikroebene stellen sich dagegen andere Fragen und Probleme.** Der Umgang mit den Seidenraupen im Privatbereich war zwar zeitweise lukrativ, jedoch nicht angenehm, wie eine Vielzahl von Quellen bezeugen, etwa die Briefe von empörten Pfarrern und Lehrern an Friedrich II.[^13] **Die Pflege der stetig fressenden Raupen war aufwendig**: Zahlreiche Handbücher aus dem späten 18. und 19. Jahrhundert erläutern detailreich, wie Seidenzimmer eingerichtet, Gestelle gebaut, Blätter drapiert, die Temperatur überwacht und die etwa daumengroßen Raupen von Kot gereinigt werden mussten. Die Tiere wurden häufig von Krankheiten heimgesucht, stanken und starben oft vorzeitig, wie etwa Johann Wolfgang von Goethe in _Dichtung und Wahrheit_ zur Raupenzucht seines Vaters in der Nähe von Frankfurt am Main schildert: “Die daraus entstehende Fäulnis erregte einen wirklich pestartigen Geruch, und da man die toten und kranken wegschaffen und von den gesunden absondern musste, um nur einige zu retten, so war es in der Tat ein äusserst beschwerliches und widerliches Geschäft \[…].”[^14]
 
 <figure>
  
@@ -199,7 +199,7 @@ _In einem Buch von 1790 heißt es: “Der Seidenwurm und die Biene sind die nüt
  
 </figure>
 
-Trotz der vielfältigen Bemühungen konnte doch Unabhängigkeit vom Seidenimport aus Italien und Frankreich mit all diesen Maßnahmen nicht erzielt werden. Im Gegenteil: **Im 19. Jahrhundert ging der Seidenbau wegen dem Fall der Zollschranken, zunehmender Gewerbefreiheit und übermächtiger Konkurrenz aus den südeuropäischen Ländern in Preußen zurück.** Zwar wurde in den 1830er-Jahren der Seidenbaugewerbeverein gegründet, doch lebte der Anbau vor allem auf lokaler Ebene fort – durch private Initiativen wie die des Lehrers Türk in Zehlendorf[^16] oder die ab 1840 angelegte Maulbeerplantage von Johann Adolf Heese in Steglitz. Straßennamen wie die Plantagenstraße und die Filandastraße (_filanda_ ist der italienische Ausdruck für eine Haspelmaschine), aber auch die Maulbeerallee in Potsdam zeugen von dieser heute weitgehend vergessenen Form der Industrie. Ab Ende des 19. Jahrhunderts  wurde immer wieder Propaganda für wirtschaftliche Autarkie über den Seidenbau betrieben, und im 20. Jahrhundert sah Deutschland Revivals des Seidenbaus nach dem Ersten Weltkrieg und während des Nationalsozialismus zur Erzeugung u. a. von Fallschirmseide. Auch in der DDR wurde in den 1950er und 1960er Jahren noch einmal Seide, vor allem im Vogtland, mit dem Ziel produziert, den Staat unabhängig von Importen aus dem Westen zu machen.[^17] Und heute? In Berlin und Brandenburg zeugen noch alte Maulbeerbäume vom [[Seidenbau|story.silkworms]]. Zwar finden sich im Vogtland noch immer Seidenwebereien, die Seide jedoch beziehen sie inzwischen aus dem globalen Handel, etwa aus Brasilien.[^18]
+Trotz der vielfältigen Bemühungen konnte doch Unabhängigkeit vom Seidenimport aus Italien und Frankreich mit all diesen Maßnahmen nicht erzielt werden. Im Gegenteil: **Im 19. Jahrhundert ging der Seidenbau wegen dem Fall der Zollschranken, zunehmender Gewerbefreiheit und übermächtiger Konkurrenz aus den südeuropäischen Ländern in Preußen zurück.** Zwar wurde in den 1830er-Jahren der Seidenbaugewerbeverein gegründet, doch lebte der Anbau vor allem auf lokaler Ebene fort – durch private Initiativen wie die des Lehrers Türk in Zehlendorf[^16] oder die ab 1840 angelegte Maulbeerplantage von Johann Adolf Heese in Steglitz. Straßennamen wie die Plantagenstraße und die Filandastraße (“filanda” ist der italienische Ausdruck für eine Haspelmaschine), aber auch die Maulbeerallee in Potsdam zeugen von dieser heute weitgehend vergessenen Form der Industrie. Ab Ende des 19. Jahrhunderts  wurde immer wieder Propaganda für wirtschaftliche Autarkie über den Seidenbau betrieben, und im 20. Jahrhundert sah Deutschland Revivals des Seidenbaus nach dem Ersten Weltkrieg und während des Nationalsozialismus zur Erzeugung u. a. von Fallschirmseide. Auch in der DDR wurde in den 1950er und 1960er Jahren noch einmal Seide, vor allem im Vogtland, mit dem Ziel produziert, den Staat unabhängig von Importen aus dem Westen zu machen.[^17] Und heute? In Berlin und Brandenburg zeugen noch alte Maulbeerbäume vom [[Seidenbau|story.silkworms]]. Zwar finden sich im Vogtland noch immer Seidenwebereien, die Seide jedoch beziehen sie inzwischen aus dem globalen Handel, etwa aus Brasilien.[^18]
 
 [^1]: Schmoller, Gustav, und Otto Hintze. _Die Preußische Seidenindustrie im 18. Jahrhundert und ihre Begründung durch Friedrich den Großen_, Acta Borussia, Band 1-3. Berlin: Verlag von Paul Parey, 1892.
 
