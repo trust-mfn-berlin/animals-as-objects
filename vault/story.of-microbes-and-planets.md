@@ -8,7 +8,7 @@ short_desc_de: Mikroorganismen sind grundlegend und lebenswichtig für die
 date_end: 2021-12-14T14:34:55.503Z
 published: false
 title: Of Microbes and Planets
-updated: 1641669558828
+updated: 1641670135283
 id: 796e4da7-c573-401f-a165-7bd9c3a503c6
 translators:
   translator_en_de: ""
@@ -48,7 +48,7 @@ Yet, most of the early works in ecology relied on limited experimental settings,
 
 <figcaption>
 
-_The cover of a reprint of the 1976 landmark paper by Hays, Imbrie, and Shackleton demonstrating the relation between changes in planetary orbit and glaciations. This paper was based on the microfossil record from two oceanic sediment cores._ [^8]
+_The cover of a reprint of the 1976 landmark paper by Hays, Imbrie, and Shackleton demonstrating the relation between changes in planetary orbit and glaciations. This paper was based on the microfossil record from two oceanic sediment cores._[^8]
 
 </figcaption>
 
