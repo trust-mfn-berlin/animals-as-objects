@@ -1,17 +1,22 @@
 ---
-id: f7b68ae7-0631-49cd-90a5-04427f79e07e
-title: Zoos and Conservation
-desc: Since only a relatively short time zoos intensify their conservation eforts.
-updated: 1641665914213
-created: 1618994200982
-title_de: Zoos und Artenschutz
-desc_de: Seit relativ kurzer Zeit engagieren sich Zoos auch im Artenschutz.
-author: CMW
-tao_type: story
-cover_image: null
 license: CC BY-SA
+title_de: Zoos und Artenschutz
+created: 1618994200982
+author: Clemens Maier-Wolthausen
+short_desc_de: Seit relativ kurzer Zeit engagieren sich Zoos auch im Artenschutz.
+date_end: ""
 published: false
+title: Zoos and Conservation
+updated: 1641665914213
+id: f7b68ae7-0631-49cd-90a5-04427f79e07e
+desc: Since only a relatively short time zoos intensify their conservation eforts.
+desc_de: Seit relativ kurzer Zeit engagieren sich Zoos auch im Artenschutz.
+short_desc: Since only a relatively short time zoos intensify their conservation eforts.
+cover_image:
+  image: /images/orangs_wegweiser_1927.jpg
 colour_scheme: 0
+tao_type: story
+date_start: ""
 ---
 :::EN:::
 
