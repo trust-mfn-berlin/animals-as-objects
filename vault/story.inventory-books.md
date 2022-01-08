@@ -8,7 +8,7 @@ desc: |-
   search for a spiny dogfish specimen reveals that it was registered in the
   teaching collection at various points in time under the numbers 1208, 2488,
   and 863.
-updated: 1641643066185
+updated: 1641646092433
 created: 1629792912565
 license: CC BY-SA
 title_de: Inventarbücher
@@ -216,7 +216,7 @@ The inventory books have become historical documents. It is these discontinuitie
 
 [^5]: Tembrock, Günther. “Das Zoologische Institut der Humboldt-Universität von 1945 bis zur Gründung der Sektion Biologie”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin, Math.-Naturw. Reihe_ (1985): 281.
 
-[^6]: Müller-Wille, Staffan. “Names and Numbers: ‘Data’ in Classical Natural History, 1758–1859”. _Osiris_ 32, no. 1 (2017): 109-128.
+[^6]: Müller-Wille, Staffan. “Names and Numbers: ‘Data’ in Classical Natural History, 1758-1859”. _Osiris_ 32, no. 1 (2017): 109-128.
 
 [^7]: Müller-Wille, Staffan and Isabelle Charmantier. “Lists as Research Technologies”. _Isis_ 103, no. 4 (2012): 744.
 
@@ -404,7 +404,7 @@ Die Inventarbücher sind zu historischen Dokumenten geworden. Es sind diese Disk
 
 [^5]: Tembrock, Günther. “Das Zoologische Institut der Humboldt-Universität von 1945 bis zur Gründung der Sektion Biologie”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin, Math.-Naturw. Reihe_ (1985): 281.
 
-[^6]: Müller-Wille, Staffan. “Names and Numbers: ‘Data’ in Classical Natural History, 1758–1859”. _Osiris_ 32, Nr. 1 (2017): 109-128.
+[^6]: Müller-Wille, Staffan. “Names and Numbers: ‘Data’ in Classical Natural History, 1758-1859”. _Osiris_ 32, Nr. 1 (2017): 109-128.
 
 [^7]: Müller-Wille, Staffan, und Isabelle Charmantier. “Lists as Research Technologies”. _Isis_ 103, Nr. 4 (2012): 744.
 
