@@ -8,7 +8,7 @@ desc: |-
   these trees tell us today – about the connections between the _Morus alba_ and
   the silkworm, between philosophy and economics, between royal decrees and
   everyday knowledge?
-updated: 1641600319455
+updated: 1641600816648
 created: 1629986374819
 license: CC BY-SA
 title_de: Seidenraupen
@@ -161,11 +161,11 @@ _Mulberry trees at the French Cemetery in Berlin-Mitte, 2020. (Image: Britta Lan
 
 Completely unbeknownst to the city administration and the tree register, in contrast, is the white mulberry tree on Habersaathstraße, which might have been planted at the Agricultural University for teaching purposes. It might have had a connection to the procurement of the model of a [[papier mâché silkworm|material.silkworm-in-papier-mache]] from the workshop of the Parisian modeller Louis Auzoux.[^20] It stands to reason that the actual tree and the caterpillar model were acquired at the same time, and that silkworms were possibly kept as well to observe and to teach students about the insect’s diet, upkeep, and reproduction. We cannot know for sure, because although the tree still bears witness, it cannot tell us its whole story.
 
-[^1]: My thanks go to Viola Richter, Sandra Miehlbradt, and Ferdinand Damaschun (all Museum of Natural History, Berlin), Gerhard Scholtz (Zoological Teaching Collection of the Humboldt University in Berlin), Sabine Graefe (Thaer Museum Möglin), and Wolfgang Bokelmann (formerly of the Thaer-Institut of the Humboldt University of Berlin) for providing me with information, as well as to Sofie Fingado and Estela Braun Carrasco for their help researching.
+[^1]: My thanks go to Viola Richter, Sandra Miehlbradt, and Ferdinand Damaschun (all Museum of Natural History Berlin), Gerhard Scholtz (Zoological Teaching Collection of the Humboldt University of Berlin), Sabine Graefe (Thaer Museum Möglin), and Wolfgang Bokelmann (formerly of the Thaer-Institut of the Humboldt University of Berlin) for providing me with information, as well as to Sofie Fingado and Estela Braun Carrasco for their help researching.
 
 [^2]: Personal email, 05.05.2021.
 
-[^3]: “Geschichte – Albrecht Daniel Thaer-Institut für Agrar- und Gartenbauwissenschaften”. _HU Berlin_, no date, https://www.agrar.hu-berlin.de/de/institut/profil/geschichte/standardseite (24.08.2021); see also Klemm, Volker. _Von der Königlichen Akademie des Landbaus in Möglin zur Landwirtschaftlich-Gärtnerischen Fakultät der Humboldt-Universität zu Berlin_. Berlin: Humboldt Universität zu Berlin, 1998.
+[^3]: “Albrecht Daniel Thaer-Institut für Agrar- und Gartenbauwissenschaften”. _HU Berlin_, no date, https://www.agrar.hu-berlin.de/de/institut/profil/geschichte/standardseite (24.08.2021); see also Klemm, Volker. _Von der Königlichen Akademie des Landbaus in Möglin zur Landwirtschaftlich-Gärtnerischen Fakultät der Humboldt-Universität zu Berlin_. Berlin: Humboldt Universität zu Berlin, 1998.
 
 [^4]: The silk farming building erected in 1781 now houses a Sparkasse bank branch.
 
@@ -173,19 +173,19 @@ Completely unbeknownst to the city administration and the tree register, in cont
 
 [^6]: The Reichenower trees of 1754 came from the “Friedland orchard”. On Kunersdorf and Friedland, see Walter, Friedrich. _Verzeichniss der auf den Friedländischen Gütern cultivirten Gewächse: Nebst einem Beitrag zur Flora der Mittelmark; Alphabetisch geordnet so weit sie bestimmt sind_, 3rd ed. 1815: 35.
 
-[^7]: Schmidt, Rudolf. _Die Herrschaft Friedland: Nachrichten zur Geschichte von Alt- und Neufriedland, Gottesgabe, Carlsdorf, Kleinbarnim, Grube, Sietzing, Gersdorf, Batzlow, Ringenwalde, Burgwall, Metzdorf, Horst, Wubrigsberg_, ed. by Kreisausschuss des Kreises Oberbarnim. Bad Freienwalde/Oder, 1928: 206.
+[^7]: Schmidt, Rudolf. _Die Herrschaft Friedland: Nachrichten zur Geschichte von Alt- und Neufriedland, Gottesgabe, Carlsdorf, Kleinbarnim, Grube, Sietzing, Gersdorf, Batzlow, Ringenwalde, Burgwall, Metzdorf, Horst, Wubrigsberg_, Kreisausschuss des Kreises Oberbarnim (ed.). Bad Freienwalde/Oder, 1928: 206.
 
-[^8]: Schmidt, Rudolf. _6 Höhendörfer im Kreise Oberbarnim: Zur Heimatgeschichte von Trampe, Klobbicke, Tuchen, Heckelberg, Freudenberg, Beiersdorf_, ed. by Kreisausschuss des Kreises Oberbarnim. Bad Freienwalde/Oder, 1926: 137.
+[^8]: Schmidt, Rudolf. _6 Höhendörfer im Kreise Oberbarnim: Zur Heimatgeschichte von Trampe, Klobbicke, Tuchen, Heckelberg, Freudenberg, Beiersdorf_, Kreisausschuss des Kreises Oberbarnim (ed.). Bad Freienwalde/Oder, 1926: 137.
 
-[^9]: Schmidt, Rudolf. _Die Herrschaft Eckardstein: I. Beiträge zur Entwicklungsgeschichte von Prötzel, Prädikow, Grunow, Reichenow, Sternebeck, Harnecop, Bliesdorf und Vevais_, ed. by Kreisausschuss des Kreises Oberbarnim. Bad Freienwalde/Oder, 1926: 68.
+[^9]: Schmidt, Rudolf. _Die Herrschaft Eckardstein: I. Beiträge zur Entwicklungsgeschichte von Prötzel, Prädikow, Grunow, Reichenow, Sternebeck, Harnecop, Bliesdorf und Vevais_, Kreisausschuss des Kreises Oberbarnim (ed.). Bad Freienwalde/Oder, 1926: 68.
 
 [^10]: _Neue Bilder Gallerie für junge Söhne und Töchter zur angenehmen und nützlichen Selbstbeschäftigung aus dem Reiche der Natur, Kunst, Sitten, und des gemeinen Lebens_. Berlin: Oehmigcke, 1794: plate XI.
 
 [^11]: Although women played a major role in this cultivation and observation, they were rarely mentioned in the writings published on silk culture and were only listed as authors in exceptional cases.
 
-[^12]: Merian, Maria Sibylla. “Einführung”. In _Der Raupen wunderbare Verwandelung und sonderbare Blumen-nahrung_. Nuremberg/Frankfurt: Bey Johann Andreas Graffen, 1679.
+[^12]: Merian, Maria Sibylla. _Der Raupen wunderbare Verwandelung und sonderbare Blumen-nahrung_. Nuremberg/Frankfurt: Bey Johann Andreas Graffen, 1679.
 
-[^13]: Cf. Kutschera, Ulrich. “Pionierin der Entwicklungsbiologie und Ökologie – Maria Sibylla Merian (1647-1717)”. _Biologie unserer Zeit_ 1, no. 47 (2017): 28-36. https://doi.org/10.1002/biuz.201710610.
+[^13]: Cf. Kutschera, Ulrich. “Pionierin der Entwicklungsbiologie und Ökologie: Maria Sibylla Merian (1647-1717)”. _Biologie unserer Zeit_ 1, no. 47 (2017): 28-36. https://doi.org/10.1002/biuz.201710610.
 
 [^14]: Cf. Töpfer, Georg. “Metamorphose”. In _Historisches Wörterbuch der Biologie: Geschichte und Theorie der Biologischen Grundbegriffe_, vol. 3. Stuttgart: Metzler, 2011: 573-591.
 
