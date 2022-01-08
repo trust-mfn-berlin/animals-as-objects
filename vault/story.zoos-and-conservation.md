@@ -7,7 +7,7 @@ short_desc_de: Seit relativ kurzer Zeit engagieren sich Zoos auch im Artenschutz
 date_end: ""
 published: false
 title: Zoos and Conservation
-updated: 1641665914213
+updated: 1641666769742
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 desc: Since only a relatively short time zoos intensify their conservation eforts.
 desc_de: Seit relativ kurzer Zeit engagieren sich Zoos auch im Artenschutz.
@@ -24,11 +24,19 @@ Translation coming soon…
 
 :::DE:::
 
-
 Ich arbeite jetzt seit sechs Jahren im Berliner Zoo. Und immer noch zieht es mich oft bei meinen Wegen durch den Garten zum Außengehege der Orang-Utans. Ich verstehe die Faszination, die von diesen Primaten mit ihrem roten Fell und ihren merkwürdig anmutenden Wangenwülsten für viele Menschen ausgeht. Orang-Utans haben die Besucher\*innen des Berliner Zoos und später des Tierparks seit ihrer Erstausstellung im Zoo Ende des 18. Jahrhunderts stets fasziniert. Wie alle Primaten gehören sie in den modernen Zoos zu den Tieren mit der höchsten Anziehungskraft auf die Gäste. In ihrem Lebensraum, den Wäldern von Borneo und Sumatra wird der Bestand der Primaten von der Weltnaturschutzunion (International Union for Conservation of Nature) schon seit mehreren Jahren als kritisch bedroht eingestuft. Der Grund hierfür ist der menschengemachte Lebensraumverlust durch die Abholzung der Wälder - insbesondere für Palmölplantagen. Anhand der Geschichte der Haltung dieser Art lassen sich aber auch einige wichtige Entwicklungen der Natur- und Habitatschutzidee in Zoos illustrieren.
- 
-![Ein männlicher Orang-Utan mit den charakteristischen Wangenwülsten eines dominanten Tieres](images\cmw\Orang_Utan_Enche.jpg)
+
+<figure>
+
+![Ein männlicher Orang-Utan mit den charakteristischen Wangenwülsten eines dominanten Tieres](/images/cmw/Orang_Utan_Enche.jpg)
+
+<figcaption>
+
 _Männlicher Orang-Utan "Enche", 2016. (Zoologischer Garten Berlin, Alle Rechte vorbehalten.)_
+
+</figcaption>
+
+</figure>
  
 ## Legitimitätsgrundlagen
  
@@ -38,9 +46,17 @@ Die oben beschriebene Faszination mit diesen Primaten löste 1876 eine erste Beg
 [Klös, H.-G.; Lange, J. (1988) Tierwelt hinter Glas - Das Zoo-Aquarium Berlin]
 Bis 1926 waren es zumeist Einzeltiere. 1926 kam dann ein zuchtfähiges Paar Sumatra-Orang-Utans nach Berlin. Das erste Jungtier starb nach der Geburt. Welche Bedeutung es für den Zoo hatte, diese Tiere ausstellen zu können, kann auch daran gesehen werden, dass sie im Jahr nach ihrer Ankunft bereits das Titelbild des Zoowegweisers schmückten.
  
-![Titelbild des Wegweisers durch den Zoologischen Garten Berlin 1927 mit einem Paar rothaariger Menschenaffen auf einem Ast sitzend.](images/cmw/Orangs_Wegweiser_1927.jpg)
+<figure>
+
+![Titelbild des Wegweisers durch den Zoologischen Garten Berlin 1927 mit einem Paar rothaariger Menschenaffen auf einem Ast sitzend.](/images/cmw/Orangs_Wegweiser_1927.jpg)
  
+<figcaption>
+
 _Titelbild des Wegweisers durch den Zoologischen Garten Berlin 1927 mit einem Paar Orang-Utans._
+
+</figcaption>
+
+</figure>
  
 Die Hoffnungen auf eine Zucht <!-- wegweiser 1939 und Journal 1938 checken --> erfüllten sich aber nicht, so dass alle weiteren Tiere dieser Art, die im Berliner Zoo ausgestellt wurden weiterhin Wildfänge blieben. Und hier begann Anfang der 1960er Jahre eine Diskussion.
  
@@ -67,8 +83,17 @@ Sein West-Berliner Kollege Heinz-Georg Klös stimmte mittelbar zu indem er
 Andere Teilnehmer verwiesen auf der Tagung auf eine mögliche Preistreiberei, wenn Zoos solche Tiere nachfragten. Letztlich beauftragte das Plenum Bernhardt Grzimek und eine Kommission mit der Ausarbeitung einer Resolution.
 Dathe und Klös waren Mitte der 1960er Jahre mit ihrer Position zum Umgang mit gefährdeten Arten nicht allein. Es sollte jedoch gefragt werden, ob denn die beiden in diesem Moment nicht möglicherweise einen Zielkonflikt hatten. Die Haltung von Menschenaffen brachte und bringt für Zoos ein großes Prestige unter den Kolleginnen und Kollegen mit sich und viele Besucher\*innen sind von ihnen, insbesondere den Orang-Utans angezogen. In der Konkurrenz der beiden Tiergärten in der geteilten Stadt spielten diese attraktiven Schautiere sicher eine Rolle. Sowohl der Zoo als auch der Tierpark hatten in den vorangegangenen Jahren Wildfänge dieser Art gekauft und bemühten sich um eine eigene Zucht. Obwohl beide sich dem Artenschutz verschrieben hatten, könnten hier egoistische Motive eines Wettkampfs um diese populären Tiere eine Rolle gespielt haben. Heinrich Dathe war es endlich geglückt ein Menschenaffenhaus zu bauen, welches 1964 eröffnet wurde. Darin befanden sich auch drei Orang-Utans, die 1960 und 1961 gekommen waren. Sicher erhoffte sich Heinrich Dathe mit dem einen Weibchen und den zwei Männchen, eine Zucht aufzubauen, muss sich aber im Klaren gewesen sein, dass er weitere Individuen der Art brauchen würde.
 
-![desc](images/cmw/Orangs_Bubi_Nakal_1959.jpg)
+<figure>
+
+![desc](/images/cmw/Orangs_Bubi_Nakal_1959.jpg)
+
+<figcaption>
+
 _Postkarte des Zoologischen Gartens mit den beiden Orang-Utan-Jungtieren "Nakal" und "Bubi", 1959._
+
+</figcaption>
+
+</figure>
 
 Sein Kollege in West-Berlin konnte bereits 1963 erste Nachzuchten erzielen, aber ein Junges verstarb und der deutlich im Geschäftsbericht artikulierte Wunsch des Aufbaus einer Zucht und des Anknüpfens an Erfolge der 1920er Jahre in der Orang-Utan-Zucht würde weitere Importe bedingen. Der Geschäftsbericht sprach auch deutlich von der Gefährdung der Art und formulierte eine Erhaltungszuchtpolitik für Zoos.
 
@@ -78,6 +103,7 @@ Auf der Tagung des deutschen Verbandes 1966 wurde aus denselben Gründen das Kau
 Die Regelung konnte aber nur die Exemplare betreffen, die ohne eine Exportgnehmigung der Behörden der Ursprungsländern entfernt wurden. Nach wie vor konnten legal auch die gefährdeten Primaten in deutschen Zoos eingeführt werden. 1972 begab sich Heinrich Dathe nach Indonesien. Die Reise war in Zusammenarbeit mit dem Direktor des Zoos von Djakarta, Benjamin Galstaun, organisiert worden. In seinem Bericht an seine Vorgesetzten im Ministerium für Kultur der DDR berichtete Dathe auch von seinen Gesprächen mit Galstaun. Dieser habe zum Beispiel versprochen, dass der Tierpark ein Paar der ebenso gefährdeten und begehrten Komodowarane bekommen würde, sobald die Regierung wieder eine Ausfuhrgenehmigung ausgeben würde.[^djakarta] Dazu ist es aber nie gekommen. Interessant ist, dass Dathe in dem Report auch berichtete, dass die "großen 'Naturschützer'" im "Westens", gemeint waren Bernhard Grzimek und die Leitung der Stuttgarter Wilhelma, immer vor allem die Tiere schützen wollen würden, die sie selbst bereits hielten. Die Behauptung lässt sich nicht beweisen, sie verweist aber auf den zugrundeliegenden Konflikt. In Surabaja verhandelte Dathe nach seinem Aufenthalt in Djakarta zu einem möglichen Tiertransport. Hierin: auch ein Orang-Utan für den Zoo Rostock. Öffentlich zugänglichen Informationen zufalge hat Rostock keinen Orang-Utan in den folgenden Jahren aus Indonesien bekommen.
 
 zootierliste.de/?klasse=1&ordnung=108&familie=10819&art=1071206&subhaltungen=2
+
 Heinrich Dathe reiste anschließend zu Beobachtungen in das Naturschutzgebiet Baluran. Dathe bemerkte in seinem Bericht, dass die Kämpfe des Jahres 1965 – gemeint ist wohl die Niederschlagung eines Militärputsches – die Wildtierbestände dezimiert hätten. Besonders gelte das für Tiger, Leopard und den schwarzen Panther. Dathes Schlussfolgerung:
 
 >"Auch hier sind die Bestände in unseren Tiergärten so schnell als möglich auf ein Maß zu bringen, daß sie Überlebenschancen haben und daß entsprechend blutsfremde Exemplare vorhanden sind."
@@ -115,9 +141,18 @@ Auf der Sitzung des Internationalen Verbands der Zoodirektoren, dem Vorgänger d
 ## EEP
 https://www.karlsruhe.de/b3/freizeit/zoo/profil/natur_artenschutz/zuchtprogramme.de
 
-![desc](images\cmw\Orang_Utan_Jung_Rieke_Wiegen.JPG)
+<figure>
+
+![desc](/images/cmw/Orang_Utan_Jung_Rieke_Wiegen.JPG)
+
+<figcaption>
+
 _Orang-Utan-Jungtier "Rieke" beim Wiegen, 2020. (Zoologischer Garten Berlin, Alle Rechte vorbehalten)_
  
+</figcaption>
+
+</figure>
+
 ## Ex-situ Zucht vs. in-situ Artenschutzprogramme
  
 Deutsche, europäische und internationale Zoos befinden sich seit der Verabschiedung des Washingtoner Artenschutzabkommens nicht mehr in der Zwickmühle, Individuen besonders begehrter Schautier wie den Orang-Utans aus der Wildnis zu entnehmen oder aber auf sie zu verzichten. Der Erwerb von Wildfängen bedrohter Arten ist ihnen schlicht untersagt. Zudem haben die Fortschritte in der Wildtierbiologie dazu geführt, dass viele der begehrten und bedrohten Arten in Zoos gut gehalten und gezüchtet werden können. Ihr großes Dilemma heute ist eher die Frage, in welcher Form sie sich an den weltweiten Bemühungen zum Schutz bedrohter Tierarten beteiligen.
@@ -145,8 +180,17 @@ Daraus folge dann eben der Zweck des Verbands:
 
 Auf der Webpage der Weltzooorganisation, auf der ihre Artenschutzstrategien gesammelt werden, "lauerte" im Sommer 2021 passend ein Orang-Utan.[wazastrategy]
 
-![desc](images\cmw\Orang_Conservation_WAZA.JPG)
+<figure>
+
+![desc](/images/cmw/Orang_Conservation_WAZA.JPG)
+
+<figcaption>
+
 _Ausschnitt aus der Websited der World Association of Zoos and Aquariums, 2021._
+
+</figcaption>
+
+</figure>
 
 Das Tier eignete sich in den Augen des Verbandes also als Botschafter des Artenschutzes - so wie eins [["Knut"|story.Knut]] als Botschafter für den Schutz seines arktischen Habitats galt.
 WAZA (2005): Building a Future for Wildlife - The World Zoo and Aquarium Conservation Strategy.
