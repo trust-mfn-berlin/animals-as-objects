@@ -6,7 +6,7 @@ desc: |-
   University in Berlin are testament to war and the changes that took place in
   everyday life at the institution, in scientific approaches, and in lines of
   political conflict (within the university). 
-updated: 1641645999663
+updated: 1641646196119
 created: 1629792627920
 license: CC BY-SA
 title_de: Geschichte der Zoologischen Lehrsammlung
@@ -139,7 +139,7 @@ This discontinuity has inscribed itself into the corpus of the historical collec
 
 [^12]: “While in the earlier provisional order of the teaching collection the models had been set up in special cabinets, separate from the specimens, during the reorganization of the teaching collection undertaken this year using the newly assembled cabinets, all models were organized in the same systematic order as the specimens. \[…] After putting the collection items, which had previously been accommodated only provisionally, in a clear order for the first time, the next task was to work through the items more precisely and systematically, and, as it had become necessary in some cases, to remount them.” Anonymous. “Chronik der königlichen Friedrich-Wilhelms-Universität zu Berlin für das Rechnungsjahr 1889/90”. In _Chronik der Friedrich-Wilhelm-Universität_, vol. 3. Berlin, 1889/90: 130. https://www.digi-hub.de/viewer/image/1603900356647/1/LOG_0003/ (20.06.2021).
 
-[^13]: Anonymous. _Mitteilungen über naturwissenschaftliche Anstalten Berlins für die Mitglieder des V. internationalen Zoologen-Congresses_: 1.
+[^13]: Anonymous. “Mitteilungen über naturwissenschaftliche Anstalten Berlins für die Mitglieder des V. internationalen Zoologen-Congresses”: 1.
 
 [^14]: Richter, 1999: 62f.
 
@@ -263,7 +263,7 @@ Als Einschnitt und Leerstelle schrieb sich diese Diskontinuität in den historis
 
 [^12]: “Während bei der früheren provisorischen Ordnung der Unterrichts-Sammlung die Modelle getrennt von den Präparaten in besonderen Schränken zur Aufstellung kamen, wurden bei der in diesem Jahre unternommenen Einordnung der Unterrichts-Sammlung in die neu aufgestellten Schränke sämtliche Modelle in die systematische Reihe der Präparate eingeordnet. \[…] Nach der ersten übersichtlichen Aufstellung der bisher nur provisorisch untergebrachten Sammlungsstücke ward die genauere systematische Durcharbeitung und zum Theil notwendig gewordene neue Montierung der Objecte in Angriff genommen.” Anonym. “Chronik der königlichen Friedrich-Wilhelms-Universität zu Berlin für das Rechnungsjahr 1889/90”. In _Chronik der Friedrich-Wilhelm-Universität_, Bd. 3. Berlin, 1889/90: 130. https://www.digi-hub.de/viewer/image/1603900356647/1/LOG_0003/ (20.06.2021).
 
-[^13]: Anonym. _Mitteilungen über naturwissenschaftliche Anstalten Berlins für die Mitglieder des V. internationalen Zoologen-Congresses_: 1.
+[^13]: Anonym. “Mitteilungen über naturwissenschaftliche Anstalten Berlins für die Mitglieder des V. internationalen Zoologen-Congresses”: 1.
 
 [^14]: Richter, 1999: 62f.
 
