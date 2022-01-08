@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Knut
 title_de: Knut
 created: 1618576718116
-updated: 1641680368757
+updated: 1641681008736
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 author: Clemens Maier-Wolthausen
 translators:
@@ -574,7 +574,7 @@ Letztlich wurde Knut präpariert und sein Präparat ist heute im Museum für Nat
  
 <figcaption>
  
-_“Knut” und der Präparator Detlev Matzke in der Prapärationswerkstatt des Berliner Naturkundemuseums, 2013. (Foto Carola Radke/MfN. Alle Rechte vorbehalten.)_
+_“Knut” und der Präparator Detlev Matzke in der Prapärationswerkstatt des Berliner Naturkundemuseums, 2013. (Foto: Carola Radke/MfN. Alle Rechte vorbehalten.)_
  
 </figcaption>
  
