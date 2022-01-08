@@ -20,7 +20,7 @@
 
     <section class="outro">
       <p class="outro-text">
-        <span class="f-mono">Tiere als Objekte?</span> ist eine Online-Publikation von Wissenschaftler*innen des Museums für Naturkunde Berlin, des Berliner Zoos und der Humboldt-Universität zu Berlin. Wir sind Wissenschaftshistoriker*innen, Forscher*innen in den Science Studies, Kulturwissenschaftler*innen und Anthropolog*innen. Das Projekt wurde vom Bundesministerium für Bildung und Forschung (BMBF) gefördert und läuft von September 2018 bis Dezember 2021.      </p>
+        <span class="f-mono">Tiere als Objekte?</span> ist eine Online-Publikation von Wissenschaftler:innen des Museums für Naturkunde Berlin, des Berliner Zoos und der Humboldt-Universität zu Berlin. Wir sind Wissenschaftshistoriker:innen, Forscher:innen in den Science Studies, Kulturwissenschaftler:innen und Anthropolog:innen. Das Projekt wurde vom Bundesministerium für Bildung und Forschung (BMBF) gefördert und läuft von September 2018 bis Dezember 2021.</p>
       <text-button linkto="/de/about">Mehr über das Projekt</text-button>
     </section>
 

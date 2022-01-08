@@ -3,7 +3,7 @@ license: CC BY-SA
 title: An Iguana Preserved in Alcohol
 title_de: Leguan in Weingeist
 created: 1640357199143
-updated: 1641143717926
+updated: 1641569226277
 id: 2I4UEzZOAUqyavSEDIFs8
 author: Mareike Vennen
 translators:
@@ -13,7 +13,7 @@ desc_de: Von der Kolonie über den Zoo in die Sammlung
 short_desc: From the colony via the zoo into the collection
 short_desc_de: Von der Kolonie über den Zoo in die Sammlung
 cover_image:
-  image: /images/zool.mus-si-verwaltungsakten-agebuch-beyer-1844-11.jpg
+  image: /images/cover-iguana.jpg
 colour_scheme: 11
 tao_type: material
 date_start: 1844-01-01T15:46:39.000Z

@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1641545554089
+updated: 1641597444013
 id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: ""
@@ -211,7 +211,7 @@ Depending on your perspective, the zoo was a hub for the exchange of animals and
 
 [^3]: K. Heinroth to Paula, 1.3.1946, AZGB N 4/12. Direct quotes have been translated into English for clarity’s sake.
 
-[^4]: “Siam erhält Stubenarrest: Wintervorbereitungen im Zoo”. _Das Volk_, 4.11.1945. As one might imagine, the practice of converting open spaces for the cultivation of vegetables and potatoes was widespread. The garden of the Museum for Natural History, for instance, was also reserved for growing vegetables for staff until 1949. Direct quotes have been translated into English for clarity’s sake.
+[^4]: “Siam erhält Stubenarrest: Wintervorbereitungen im Zoo”. _Das Volk_, 4.11.1945. As one might imagine, the practice of converting open spaces for the cultivation of vegetables and potatoes was widespread. The garden of the Museum of Natural History, for instance, was also reserved for growing vegetables for staff until 1949. Direct quotes have been translated into English for clarity’s sake.
 
 [^5]: Cf. progress report of the Zoological Garden from 3.5. to 23.5.1945, AZGB O 0/1/75. As a result of the war, many of the animals had been killed, and large parts of the zoo buildings destroyed, which is why there were a lot of open spaces once the debris had been removed. Direct quotes have been translated into English for clarity’s sake.
 

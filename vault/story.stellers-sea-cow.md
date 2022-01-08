@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Steller’s Sea Cow
 title_de: Stellers Seekuh
 created: 1640333284998
-updated: 1641159332694
+updated: 1641570318451
 id: Q8UAdldubzw0uhkmmgER3
 author: Mareike Vennen
 translators:
@@ -17,14 +17,14 @@ desc_de: Im 18. Jahrhundert durch Jagd ausgerottet, im 19. Jahrhunderts zum
 short_desc: Hunted, discarded, rediscovered
 short_desc_de: Gejagt, entsorgt und wieder ausgegraben
 cover_image:
-  image: /images/story-stellers-seacow-pallas.jpg
+  image: /images/cover-story-stellers-seacow-pallas.jpg
 colour_scheme: 14
 tao_type: story
 date_start: 1741-12-24T09:16:39.000Z
 date_end: ""
 published: false
 ---
-
+  
 :::EN:::
 
 <figure>
