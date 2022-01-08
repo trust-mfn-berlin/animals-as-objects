@@ -6,7 +6,7 @@ desc: |-
   University in Berlin are testament to war and the changes that took place in
   everyday life at the institution, in scientific approaches, and in lines of
   political conflict (within the university). 
-updated: 1641644412950
+updated: 1641645574568
 created: 1629792627920
 license: CC BY-SA
 title_de: Geschichte der Zoologischen Lehrsammlung
@@ -75,7 +75,7 @@ In the period that followed, both of the tenured zoology professors focused on t
 
 The collection holdings were also shaped in accordance with this practical purpose as the inventory lists show. **Alongside roughly 6,270 zoological specimens, the institute also procured around 1,945 wall charts and about 460 models during Schulze’s tenure.**[^9] Today, it is only possible to reconstruct these acquisitions by looking at the inventory books, which were kept continuously and meticulously above all from 1884 to 1917, that is, under the direction of Franz Eilhard Schulze. From 1884 to about 1940, they documented the holdings’ constant growth and the expansion of the Zoological Teaching Collection. As early as at the beginning of the 20th century, the teaching collection of the Zoological Institute was considered “one of the biggest \[teaching collections] in Germany \[…].”[^10]
 
-It only became possible to expand the collection when the Zoological Museum moved into the new museum building at Invalidenstraße 43. In its early years, the teaching collection had been forced to make do with the limited space available in the university building at Opernplatz.[^11] This had had a negative impact on, for example, the way the collection was ordered and its items positioned in the designated cases, which were supposed to classify and present the objects systematically but were described as “provisional” up until the move in 1889.[^12] In the museum building, by contrast, the Zoological institute had the entire west wing at its disposal, with a surface area of 2,554 m2. The _Proceedings of the 5th International Zoologists’ Congress_ in 1901 described the structure of the collection in its new premises as follows:
+It only became possible to expand the collection when the Zoological Museum moved into the new museum building at Invalidenstraße 43. In its early years, the teaching collection had been forced to make do with the limited space available in the university building at Opernplatz.[^11] This had had a negative impact on, for example, the way the collection was ordered and its items positioned in the designated cases, which were supposed to classify and present the objects systematically but were described as “provisional” up until the move in 1889.[^12] In the museum building, by contrast, the Zoological Institute had the entire west wing at its disposal, with a surface area of 2,554 sqm. The _Proceedings of the 5th International Zoologists’ Congress_ in 1901 described the structure of the collection in its new premises as follows:
 
 >“In order to procure the demonstration objects, specimens, models, wall charts, and other similar objects quickly and easily, there are two larger collection rooms next to the large auditorium on the second floor that receive items for the teaching collection; one of them contains the vertebrates and molluscs, the other arthropods and lesser animals, as well as the wall charts.”[^13]
 
@@ -199,7 +199,7 @@ Beide Ordinariate für Zoologie konzentrierten sich in der Folgezeit vorrangig a
 
 Entsprechend dieses praktischen Zwecks gestaltete sich auch der Sammlungsbestand, wie die Inventarlisten zeigen. **Neben ungefähr 6.270 zoologischen Präparaten schaffte das Institut in Schulzes Amtszeit rund 1.945 Wandtafeln und circa 460 Modelle an.**[^9] Diese Zugänge lassen sich heute nur noch anhand der Inventarbücher rekonstruieren, die vor allem in den Jahren 1884 bis 1917, also unter der Direktion Franz Eilhard Schulzes kontinuierlich und akribisch geführt wurden. Von 1884 bis circa 1940 dokumentierten sie den stetig zunehmenden Bestand und Ausbau der Zoologischen Lehrsammlung. Bereits Anfang des 20. Jahrhunderts galt die Lehrsammlung des Zoologischen Instituts als “eine der größten \[Unterrichtssammlungen] Deutschlands \[…].”[^10]
 
-Diese Expansion der Sammlung wurde erst mit dem Umzug des Zoologischen Instituts in den Museumsneubau in der Invalidenstraße 43 ermöglicht. In ihren ersten Jahren hatte sich die Lehrsammlung im Universitätsgebäude Am Opernplatz aufgrund der begrenzten räumlichen Kapazitäten entsprechend arrangieren müssen.[^11] Gelitten hatten darunter beispielsweise die Sammlungsordnung und die Aufstellung der Objekte in den dafür vorgesehenen Schränken, die eigentlich einer systematischen Einordnung und Präsentation folgen sollte, bis zum Jahr des Umzugs 1889 jedoch als “provisorisch” beschrieben wurden.[^12] Im Museumsgebäude hingegen wurde dem Zoologischen Institut der gesamte Westflügel mit einer Grundfläche von 2.554 qm zur Verfügung gestellt. Die _Mitteilungen des V. internationalen Zoologen Congresses_ 1901 beschrieben den Sammlungsaufbau in den neuen Räumlichkeiten folgendermaßen:
+Diese Expansion der Sammlung wurde erst mit dem Umzug des Zoologischen Instituts in den Museumsneubau in der Invalidenstraße 43 ermöglicht. In ihren ersten Jahren hatte sich die Lehrsammlung im Universitätsgebäude am Opernplatz aufgrund der begrenzten räumlichen Kapazitäten entsprechend arrangieren müssen.[^11] Gelitten hatten darunter beispielsweise die Sammlungsordnung und die Aufstellung der Objekte in den dafür vorgesehenen Schränken, die eigentlich einer systematischen Einordnung und Präsentation folgen sollte, bis zum Jahr des Umzugs 1889 jedoch als “provisorisch” beschrieben wurden.[^12] Im Museumsgebäude hingegen wurde dem Zoologischen Institut der gesamte Westflügel mit einer Grundfläche von 2.554 qm zur Verfügung gestellt. Die _Mitteilungen des V. internationalen Zoologen Congresses_ 1901 beschrieben den Sammlungsaufbau in den neuen Räumlichkeiten folgendermaßen:
 
 >“Damit die für die Vorlesungen nötigen Demonstrationsobjekte, Präparate, Modelle, Wandtafeln und dergl. schnell und leicht herbeigeschafft werden können, befinden sich neben dem großen Auditorium im zweiten Stockwerke zwei zur Aufnahme der Unterrichtssammlung bestimmte größere Sammlungsräume, deren einer die Wirbeltiere und Mollusken, der andere die Arthropoden und niederen Tiere sowie die Wandtafeln enthält.”[^13]
 
@@ -243,42 +243,42 @@ Als Einschnitt und Leerstelle schrieb sich diese Diskontinuität in den historis
 
 [^2]: Kretschmann, Carsten. _Räume öffnen sich. Naturhistorische Museen im Deutschland des 19. Jahrhunderts_. Berlin: Akademie Verlag, 2006: 32.
 
-[^3]: Jahn, Ilse. “Zur Vertretung der Zoologie und zur Entwicklung ihrer institutionellen Grundlagen an der Berliner Universität von ihrer Gründung bis 1920”. _Wiss. Z. Humboldt-Univ. Berlin, Math. Nat. Reihe_ 34, Nr. 3/4 (1985): 275.
+[^3]: Jahn, 1985: 275.
 
-[^4]: Jahn, 1985: 275.
+[^4]: Ebd.
 
-[^5]: Das Bild stammt aus dem Privatbesitz Elsi Hedströms, der Enkeltochter Franz Eilhard Schulzes. Die abgebildeten Personen wurden von Stefan Richter identifiziert; vgl. Richter, Stefan. “Franz Eilhard Schulze und die Zoologische Lehrsammlung der Berliner Universität”. In _Theater der Natur und Kunst. Theatrum Naturae et Artis: Essays; 3 Bände_, hg. von Horst Bredekamp, Jochen Brüning und Cornelia Weber. Berlin: Henschel, 2000: 119-134, 121.
+[^5]: Das Bild stammt aus dem Privatbesitz Elsi Hedströms, der Enkeltochter Franz Eilhard Schulzes. Die abgebildeten Personen wurden von Stefan Richter identifiziert; vgl. Richter, Stefan. “Franz Eilhard Schulze und die Zoologische Lehrsammlung der Berliner Universität”. In _Theater der Natur und Kunst: Theatrum Naturae et Artis: Essays; 3 Bände_, Horst Bredekamp, Jochen Brüning und Cornelia Weber (Hg.). Berlin: Henschel, 2000: 119-134, 121.
 
 [^6]: Tembrock, Günther. “Zur Geschichte der Zoologie in Berlin”. _Wiss. Z. der Humboldt-Univ. Berlin. Math.-Naturw. Reihe_ 8, Nr. 2 (1958/59): 185-196, 193.
 
-[^7]: Vgl. Tembrock, Günther. “Die Geschichte des Zoologischen Instituts”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin, Beiheft zum Jubiläumsjahrgang_ 9 (1959/1960): 107-125; Scholtz, Gerhard. “Zoologische Lehrsammlung (Zoological Teaching Collection)”. In _Zoological Collections of Germany. The Animal Kingdom in its Amazing Plenty at Museums and Universities_, hg. von Lothar A. Beck. Cham: Springer International Publishing, 2018: 124.
+[^7]: Vgl. Tembrock, Günther. “Die Geschichte des Zoologischen Instituts”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin, Beiheft zum Jubiläumsjahrgang_ 9 (1959/1960): 107-125; Scholtz, Gerhard. “Zoologische Lehrsammlung (Zoological Teaching Collection)”. In _Zoological Collections of Germany. The Animal Kingdom in its Amazing Plenty at Museums and Universities_, Lothar A. Beck (Hg.). Cham: Springer International Publishing, 2018: 124.
 
 [^8]: Paszkowski, Wilhelm. “Das Zoologische Institut der Universität Berlin. N 4, Invalidenstr. 43; Museum für Naturkunde”. _Berliner Akademische Nachrichten_ 11 (1910): 2.
 
-[^9]: Richter, Stefan. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität. Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin (N.F.)_ 37 (1999): 59-76.
+[^9]: Richter, Stefan. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität: Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin (N.F.)_ 37 (1999): 59-76.
 
-[^10]: Tembrock, Günther. “Die Geschichte des Zoologischen Instituts”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin, Beiheft zum Jubiläumsjahrgang_ 9 (1959/60): 112.
+[^10]: Tembrock, 1959/60: 112.
 
-[^11]: Vgl. Jahn, Ilse. “Zur Vertretung der Zoologie und zur Entwicklung ihrer institutionellen Grundlagen an der Berliner Universität von ihrer Gründung bis 1920”. _Wiss. Z. Humboldt-Univ. Berlin, Math. Nat. Reihe_ 34, Nr. 3/4 (1985): 275f.
+[^11]: Vgl. Jahn, 1985: 275f.
 
 [^12]: “Während bei der früheren provisorischen Ordnung der Unterrichts-Sammlung die Modelle getrennt von den Präparaten in besonderen Schränken zur Aufstellung kamen, wurden bei der in diesem Jahre unternommenen Einordnung der Unterrichts-Sammlung in die neu aufgestellten Schränke sämtliche Modelle in die systematische Reihe der Präparate eingeordnet. \[…] Nach der ersten übersichtlichen Aufstellung der bisher nur provisorisch untergebrachten Sammlungsstücke ward die genauere systematische Durcharbeitung und zum Theil notwendig gewordene neue Montierung der Objecte in Angriff genommen.” Anonym. “Chronik der königlichen Friedrich-Wilhelms-Universität zu Berlin für das Rechnungsjahr 1889/90”. In _Chronik der Friedrich-Wilhelm-Universität_, Bd. 3. Berlin, 1889/90: 130. https://www.digi-hub.de/viewer/image/1603900356647/1/LOG_0003/ (20.06.2021).
 
 [^13]: Anonym. _Mitteilungen über naturwissenschaftliche Anstalten Berlins für die Mitglieder des V. internationalen Zoologen-Congresses_: 1.
 
-[^14]: Richter, Stefan. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität. Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin (N.F.)_ 37 (1999): 62f.
+[^14]: Richter, 1999: 62f.
 
 [^15]: Laut einer Veranschlagung des damaligen Institutionsleiters Heinrich Jakob Feuerborn vom 27.01.1945, zitiert nach Tembrock, Günther. “Das Zoologische Institut der Humboldt-Universität von 1945 bis zur Gründung der Sektion Biologie”. _Wiss. Z. der Humboldt-Univ. Berlin. Math.-Nat. Reihe_ (1985): 281. Zusätzlich ließ sich ein Verlust von rund 600 Wandtafeln in Kriegs- und Nachkriegszeiten anhand der Inventarverzeichnisse ableiten; vgl. Richter, 1999: 67. In Alkohol konservierte Objekte überstanden den Angriff, da sie im Rahmen einer Vorsichtsmaßnahme mit anderen Beständen der Museumssammlung in die Kellerräume des Gebäudes geschafft worden waren; vgl. Landsberg, Hannelore, und Ferdinand Damaschun. “Das Museum im Bombenhagel und unter Schutt”. In _Klasse, Ordnung, Art. 200 Jahre Museum für Naturkunde_, hg. von Ferdinand Damaschun et al. Rangsdorf: Basilisken-Presse, 2010: 228; Tembrock, 1985: 281.
 
 [^16]: Vgl. Tembrock, 1985: 281.
 
-[^17]: Stefan Richter führt diesen Eintrag als Hinweis auf, dass die Inventarbücher bis zur Sektionsleitung 1968 geführt wurden; vgl. Richter, Stefan. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität. Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin (N.F.)_ 37 (1999): 67.
+[^17]: Stefan Richter führt diesen Eintrag als Hinweis auf, dass die Inventarbücher bis zur Sektionsleitung 1968 geführt wurden; vgl. Richter, 1999: 67.
 
-[^18]: Tembrock, Günther. “Das Zoologische Institut der Humboldt-Universität von 1945 bis zur Gründung der Sektion Biologie”. _Wiss. Z. der Humboldt-Univ. Berlin. Math.-Nat. Reihe_ (1985): 289f.
+[^18]: Tembrock, 1985: 289f.
 
-[^19]: Höxtermann, Ekkehard. “Biologien in der DDR zwischen Tradition und Innovation, Wissenschaft und Politik”. In _Naturwissenschaft und Technik in der DDR_, Reprint, hg. von Dieter Hoffmann und Kristie Macrakis. Berlin: Akademie Verlag, 2018: 233-259.
+[^19]: Höxtermann, Ekkehard. “Biologien in der DDR zwischen Tradition und Innovation, Wissenschaft und Politik”. In _Naturwissenschaft und Technik in der DDR_, Reprint, Dieter Hoffmann und Kristie Macrakis (Hg.). Berlin: Akademie Verlag, 2018: 233-259.
 
-[^20]: Vgl. Richter, Stefan. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität. Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin (N.F.)_ 37 (1999): 59-76, 65.
+[^20]: Vgl. Richter, 1999: 59-76, 65.
 
-[^21]: Vgl. Richter, 1999: 59-76, 65.
+[^21]: Vgl. Ebd.
 
-[^22]: Vgl. Richter, 1999: 59-76, 65.
+[^22]: Vgl. Ebd.
