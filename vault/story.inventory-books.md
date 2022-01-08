@@ -8,7 +8,7 @@ desc: |-
   search for a spiny dogfish specimen reveals that it was registered in the
   teaching collection at various points in time under the numbers 1208, 2488,
   and 863.
-updated: 1641641554416
+updated: 1641642406038
 created: 1629792912565
 license: CC BY-SA
 title_de: Inventarbücher
@@ -92,7 +92,7 @@ _Two labels for the gill of a shore crab_ (Carcinus maenas). _The combination of
 
 </figure>
 
-The labels supplemented the inventory lists in the records of new arrivals, reducing the amount of object information on the one hand but also containing additional information on the other, like the assignment of a shelf number. A label thus described an item’s place within the collection and also referred to its overarching classification within a [[taxonomic system|theme.taxonomic-orders]]. This made it possible to mobilise individual specimens but also to circulate the knowledge connected with them – an aspect that, in light of the fact that the items were used on a daily basis in university teaching, was of major significance.
+The labels supplemented the inventory lists in the records of new arrivals, reducing the amount of object information on the one hand but also containing additional information on the other, like the assignment of a shelf number. A label thus described an item’s place within the collection and also referred to its overarching classification within a [[taxonomic system|theme.taxonomic-orders]]. This made it possible to mobilize individual specimens but also to circulate the knowledge connected with them – an aspect that, in light of the fact that the items were used on a daily basis in university teaching, was of major significance.
 
 The inventory books were part of a system of reference that comprised and connected record-keeping media and collection items. They secured information about the items while simultaneously ensuring that the items were used. **This was because specimens, just like models or wall charts, had to be found, used, and then stowed away again every day.** Reflecting the fact that the items were embedded within a system of academic knowledge transfer, there were some cases where objects were destroyed through use. But how were these losses be recorded? The inventories show that the damaged objects were often replaced with equivalent specimens. Comments recorded these replacements in writing. “Broken and replaced from the holdings of the Royal Zoological Collection. 6.VI.1907”, for example, reads a note that can be found in the record of a wild board skull (_Sus scrofa_ L.) with the number 1396.
 
@@ -110,7 +110,7 @@ _In inventory book V(2), a list of objects with the numbers 375-385 is followed 
 
 </figure>
 
-It was probably for this reason that employees stopped fully filling in the preprinted table structure. Reduced to their inventory numbers, names, and a short description of their item type, the specimens were listed one after another. The male embryo of a spiny dogfish (_Acanthias vulgaris_ Risso) preserved in alcohol, which first made its way into the collection as a purchase from the Zoological Station in Naples as number 1208 , appears here again as item 2488.
+It was probably for this reason that employees stopped fully filling in the preprinted table structure. Reduced to their inventory numbers, names, and a short description of their item type, the specimens were listed one after another. The male embryo of a spiny dogfish (_Acanthias vulgaris_ Risso) preserved in alcohol, which first made its way into the collection as a purchase from the Zoological Station in Naples as number 1208, appears here again as item 2488.
 
 <figure>
 
@@ -138,7 +138,7 @@ The fact that this is one and the same specimen is revealed in inventory book VI
 
 <figcaption>
 
-_The first page of inventory book VII reveals the graphic and systematic transformation that took place in the practice of record-keeping. A spiny dogfishembryo _ (Acanthias vulgaris) _ specimen has been listed below the genus “Acanthias” (or “Squalus”) with four other objects, each with the numbers of their previous inventory in inventory books V(1) and V(2). (Zoological Teaching Collection. All rights reserved.)_
+_The first page of inventory book VII reveals the graphic and systematic transformation that took place in the practice of record-keeping. A spiny dogfishembryo_ (Acanthias vulgaris) _specimen has been listed below the genus “Acanthias” (or “Squalus”) with four other objects, each with the numbers of their previous inventory in inventory books V(1) and V(2). (Zoological Teaching Collection. All rights reserved.)_
 
 </figcaption>
 
@@ -152,7 +152,7 @@ The grey shark embryo specimen has now been assigned number 863 and is ordered b
 
 <figcaption>
 
-_Entry number 1208 in inventory book V(1) contains the first record of the grey shark embryo specimen. The pencil correction to the Latin name reflects the revisions made to inventory books V(1) und V(2) during reinventory. (Zoological Teaching CollectionAll rights reserved.)_
+_Entry number 1208 in inventory book V(1) contains the first record of the grey shark embryo specimen. The pencil correction to the Latin name reflects the revisions made to inventory books V(1) und V(2) during reinventory. (Zoological Teaching Collection. All rights reserved.)_
 
 </figcaption>
 
@@ -174,7 +174,7 @@ _This page from inventory book VII shows how species were grouped into animal cl
 
 </figure>
 
-Like the collection items themselves, the inventories show signs of wear and tear. The pages in inventory book V display colour codes, deletions, and notes made in pencil. These were added after the fact and thus were not part of the originally intended practice of record-keeping. The additions were probably made when the specific pieces of information were being transferred to inventory book VII. The annotations overlap and emphasise the various temporal layers. It is precisely for this reason that they are confusing to outside ‘readers’ and new collection employees. **Decoding and correctly classifying historical objects is like performing detective work that, despite meticulously comparing various entries, numbers, and handwriting, only seldom leads to a precise conclusion.** 
+Like the collection items themselves, the inventories show signs of wear and tear. The pages in inventory book V display colour codes, deletions, and notes made in pencil. These were added after the fact and thus were not part of the originally intended practice of record-keeping. The additions were probably made when the specific pieces of information were being transferred to inventory book VII. The annotations overlap and emphasize the various temporal layers. It is precisely for this reason that they are confusing to outside ‘readers’ and new collection employees. **Decoding and correctly classifying historical objects is like performing detective work that, despite meticulously comparing various entries, numbers, and handwriting, only seldom leads to a precise conclusion.** 
 
 Marks with crosses, circles, and dots beside entries in inventory book V probably stand for “preserved” or “lost”. The records were transferred to catalogue VII accordingly. _Acanthias vulgaris_ Risso has been noted with its old name under 1208.
 
@@ -202,7 +202,7 @@ _This page from inventory book V(1) shows the first records of specimens 1201 to
 
 </figure>
 
-Lost or destroyed specimens were identified with spaces in the inventory books or replaced with other items, although most of them were not specimens of the same species or the same animal. These changes, adjustments, rewritings, and transfers emphasise the practical level of the cataloguing process, which developed in practice and was formed and reformed by its materiality and mediality.[^9] Moreover, they reveal the limits of keeping inventory in book form, which was wedded to the list system – a practice of record-keeping that, due to its compact and linear form of cataloguing, did not stand up to emergent structures and changes. As a consequence, employees of the institute wrote over the preprinted table structure, created new lists of lists, and verified existing entries or marked them as invalid.[^10] In spite of these strategies and aids, it was not possible to ensure that knowledge and collection items would be transferred and preserved without any gaps. **Only a few objects in the collection today can be clearly attributed to a precise acquisition context using the records.** Moreover, this situation has been exacerbated by a change in record-keeping media, as Berlin’s teaching collection began using a [[system of index cards|material.house-of-cards]] to organize the collection in 1968.
+Lost or destroyed specimens were identified with spaces in the inventory books or replaced with other items, although most of them were not specimens of the same species or the same animal. These changes, adjustments, rewritings, and transfers emphasize the practical level of the cataloguing process, which developed in practice and was formed and reformed by its materiality and mediality.[^9] Moreover, they reveal the limits of keeping inventory in book form, which was wedded to the list system – a practice of record-keeping that, due to its compact and linear form of cataloguing, did not stand up to emergent structures and changes. As a consequence, employees of the institute wrote over the preprinted table structure, created new lists of lists, and verified existing entries or marked them as invalid.[^10] In spite of these strategies and aids, it was not possible to ensure that knowledge and collection items would be transferred and preserved without any gaps. **Only a few objects in the collection today can be clearly attributed to a precise acquisition context using the records.** Moreover, this situation has been exacerbated by a change in record-keeping media, as Berlin’s teaching collection began using a [[system of index cards|material.house-of-cards]] to organize the collection in 1968.
 
 The inventory books have become historical documents. It is these discontinuities and functional shifts in record-keeping practice that point to its practical application. The knowledge gained in experience determined how organizational work was carried out in the collection. This knowledge only took shape while using the record-keeping systems that it also produced. In order to read these kinds of historical inventories, academics often have to rely on the expertise of collection employees. The inventories of the teaching collection are examples of the administrative processes that determine everyday life at the institute and in the collection as anonymous structures that rely on oral transmission in many cases.
 
