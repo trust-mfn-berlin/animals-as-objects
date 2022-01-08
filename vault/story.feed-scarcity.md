@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1641650709622
+updated: 1641651285154
 id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: ""
@@ -135,7 +135,7 @@ _List of the [[feed requirements|material.feeding-list-1945]] for the large anim
 
 </figure>
 
-Once Katharina Heinroth had submitted a list of the large animals and their feeding requirements, the Haupternährungsamt allocated the necessary rations – here too, the allocated feed was “if at all possible, that which was unsuitable for human consumption”.[^17] Slaughterhouses were instructed to hand over horse and cattle carcasses to feed the zoo’s carnivores; hospitals supplied [[leftovers|story.the-afterlife-of-zoo-animals]] from their canteens. The zoo was thus partially integrated into the city’s “metabolism” as a mechanism for [[recycling organic waste|theme.logistical-metabolisms]].
+Once Katharina Heinroth had submitted a list of the large animals and their feeding requirements, the Haupternährungsamt allocated the necessary rations – here too, the allocated feed was “if at all possible, that which was unsuitable for human consumption”.[^17] Slaughterhouses were instructed to hand over horse and cattle carcasses to feed the zoo’s carnivores; hospitals supplied from their canteens. The zoo was thus partially integrated into the [[city’s metabolism|theme.logistical-metabolisms]] as a mechanism for [[recycling organic waste|story.the-afterlife-of-zoo-animals]].
 
 However, since the animals’ monthly consumption was almost 4,500 kg of feed – including mixed feed, oats and hemp, leftover bread, potatoes and vegetables, meat scraps, and horse meat – in addition to hay and straw, the zoo sometimes still faced shortages.[^18] At such times, the zoo staff had to improvise. Hemp, millet, and oatmeal were initially nowhere to be found, but barley was available. Katharina Heinroth and her staff replaced missing potatoes with beets or bread scraps; the zookeepers regularly collected potato peelings “from half of Berlin”.[^19] Daily portions were strictly rationed: “the old elephant ‘Siam’ with his frayed ears, who still has the terror of the bombings in his bones […] is provided 100 pounds of food a day by the Berlin magistrate. The crafty chimpanzee ‘Susi’, on the other hand, has to make do with [food] stamp 5”[^20] – meaning the lowest category of food stamp, also received by children and pensioners. The _Tagesspiegel_ commented: “The magistrate allocates rations to the animals just as strictly as to humans. Each species has its prescribed quota.”[^21]
 
@@ -389,7 +389,7 @@ _Auflistung des [[Futtermittelbedarfs|material.feeding-list-1945]] für die Gro�
 
 </figure>
 
-Nachdem Katharina Heinroth eine Liste der Großtiere mit deren Futterbedarfen eingereicht hatte, teilte das Amt die notwendigen Rationen zu, auch hier “möglichst solche, die für den menschlichen Gebrauch ungeeignet sind”.[^17] Schlachthäuser wurden angewiesen, Kadaver von Pferden und Rindern zur Verfütterung an die Fleischfresser im Zoo abzugeben; Krankenhäuser lieferten [[Speisereste|story.the-afterlife-of-zoo-animals]] aus ihren Kantinen. Der Zoo war somit teilweise als Verwertungsmaschine organischer Abfälle in den [[urbanen Metabolismus|theme.logistical-metabolisms]] eingebunden.
+Nachdem Katharina Heinroth eine Liste der Großtiere mit deren Futterbedarfen eingereicht hatte, teilte das Amt die notwendigen Rationen zu, auch hier “möglichst solche, die für den menschlichen Gebrauch ungeeignet sind”.[^17] Schlachthäuser wurden angewiesen, Kadaver von Pferden und Rindern zur Verfütterung an die Fleischfresser im Zoo abzugeben; Krankenhäuser lieferten Speisereste aus ihren Kantinen. Der Zoo war somit teilweise als [[Verwertungsmaschine|story.the-afterlife-of-zoo-animals]] organischer Abfälle in den [[urbanen Metabolismus|theme.logistical-metabolisms]] eingebunden.
 
 Da die Tiere zusätzlich zu Heu und Stroh jeden Monat fast 4.500 kg Futtermittel – Mischfutter, Hafer und Hanf, Brotabfälle, Kartoffeln und Gemüse, Fleischabfälle und Pferdefleisch – verbrauchten, kam es dennoch immer wieder zu Engpässen.[^18] Dann musste improvisiert werden. Hanf und Hirse sowie Haferflocken waren anfangs nirgends zu bekommen, dafür gab es Gerste. Fehlende Kartoffeln ersetzten Katharina Heinroth und ihre Mitarbeiter:innen durch Futterrüben oder Brotabfälle, die Zoopfleger:innen sammelten regelmäßig Kartoffelschalen “aus halb Berlin zusammen”.[^19] Die täglichen Portionen waren stark rationiert, “der alte Elefant ‘Siam’ mit seinen ausgefransten Ohren, dem noch immer der Schrecken der Bombenangriffe in den Knochen sitzt […] erhält 100 Pfund Futter am Tag vom Berliner Magistrat zur Verfügung gestellt. Die listige Schimpansin ‘Susi’ muß sich dagegen mit [Lebensmittel] Karte 5 begnügen”,[^20] also der niedrigsten Kategorie wie sie auch Kinder und Rentner erhielten. Der _Tagesspiegel_ bemerkte dazu: “Der Magistrat teilt den Tieren ihre Rationen genau so streng zu wie den Menschen. Jede Gattung hat ihr vorgeschriebenes Quantum.”[^21]
 
