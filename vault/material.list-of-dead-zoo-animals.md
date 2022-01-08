@@ -2,21 +2,23 @@
 license: CC BY-SA
 title_de: Liste toter Zootiere
 created: 1623930479492
-author: Author name(s) here.
-short_desc_de: noch im check bei therese
+author: Therese Kienemund
+short_desc_de: "Dokumente aus dem Krieg "
 date_end: ""
 published: false
 title: List of Dead Zoo Animals
 updated: 1641652316942
 id: 5uQChdHATgh_dE94AE5fX
-desc: Put a description of this note here...
-desc_de: Put a DE description of this note here...
-short_desc: noch im check bei therese
+translators:
+  translator_de_en: Lydia J. White
+desc: Documents of war
+desc_de: "Dokumente aus dem Krieg "
+short_desc: Documents of war
 cover_image:
   image: /images/liste_tote_tiere_1943.jpg
 colour_scheme: 0
 tao_type: material
-date_start: ""
+date_start: 1943-10-31T23:00:00.000Z
 ---
 
 :::EN:::
