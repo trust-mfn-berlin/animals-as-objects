@@ -7,7 +7,7 @@ desc: |-
   German provinces in the 17th century. How did they get to Prussia, what shape
   did silk production take, and what was it that ultimately led state-run silk
   farming to dry up? 
-updated: 1641637729415
+updated: 1641637799900
 created: 1629996091814
 license: CC BY-SA
 title_de: Seiden-Cultur
@@ -152,7 +152,7 @@ _Schaukasten im Museum für Naturkunde Berlin, Sammlung Lepidoptera. (Foto: Brit
  
 </figure>
 
-Hinweise zur Geschichte des Seidenbaus in Preußen finden sich in den Forschungsarbeiten der Preußischen Akademie der Wissenschaften. Sie befasste sich in den 1880er und 1890er-Jahren umfassend mit dem merkantilistischen Wirtschaftssystem unter der Regierung Friedrichs des Großen und publizierte umfangreiche Quellen aus dem 18. Jahrhundert sowie entsprechende historische Analysen zu verschiedenen Industrieformen in der Reihe “Acta Borussica”. Als Erstes erschienen im Jahr 1882 drei Bände zur “Preußischen Seidenindustrie”,[^1] die diese als Erfolgsmodell darstellten. 
+Hinweise zur Geschichte des Seidenbaus in Preußen finden sich in den Forschungsarbeiten der Preußischen Akademie der Wissenschaften. Sie befasste sich in den 1880er und 1890er-Jahren umfassend mit dem merkantilistischen Wirtschaftssystem unter der Regierung Friedrichs II. und publizierte umfangreiche Quellen aus dem 18. Jahrhundert sowie entsprechende historische Analysen zu verschiedenen Industrieformen in der Reihe “Acta Borussica”. Als Erstes erschienen im Jahr 1882 drei Bände zur “Preußischen Seidenindustrie”,[^1] die diese als Erfolgsmodell darstellten. 
 Der Publikation zufolge wurde das Geheimnis der Seidenherstellung in China über Tausende Jahre streng gehütet, bis im Jahr 522 zwei Mönche Samen des weißen Maulbeerbaums und Eier der Seidenraupe von China nach Byzanz schmuggelten. **Im 8. Jahrhundert gelangten von dort aus Seidenraupen nach Spanien, Italien und Frankreich; im 17. Jahrhundert fanden erste Versuche mit Seidenzucht in deutschen Provinzen statt.** Angetrieben von dem wirtschaftlichen Interesse an der Seide entfaltete sich eine globale und transnationale Geschichte, in der Tiere und die für sie überlebensnotwenigen Bäume vielfach migriert wurden.
 
 In Preußen fasste der Große Kurfürst Friedrich Wilhelm von Brandenburg (1620-1688) die “Seidenziehung” in den 1680er-Jahren als einer jener Maßnahmen ins Auge, mit denen die Landwirtschaft und das Handwerk in dem vom Dreißigjährigen Krieg völlig verwüsteten Brandenburg wieder in Gang gebracht werden sollte. Besondere Hoffnung setzte er in die Hugenotten, jene französischen Glaubensflüchtlinge, denen er die Ansiedlung im protestantischen Preußen gewährte, als der französische König Louis XIV. 1688 das Edikt von Nantes widerrief und damit den calvinistischen Protestant:innen alle religiösen und bürgerlichen Rechte entzog.
