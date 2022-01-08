@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Knut
 title_de: Knut
 created: 1618576718116
-updated: 1641678326404
+updated: 1641680368757
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 author: Clemens Maier-Wolthausen
 translators:
@@ -149,7 +149,7 @@ _Cover of the German edition of the magazine_ Vanity Fair, _no. 14, 2007._
  
 </figure>
  
-**It was even possible to put a number on “Knut’s” economic value. In 2007, the zoo increased the earnings it generated from entry prices by about 40 per cent.** Without the “Knut factor”, the zoo had expected earnings to grow by about 15 per cent in 2007.[^18] In March 2007, one expert estimated that the brand was worth seven to 13 million euro.[^19] The national media resonance and high visitor numbers doubled the buying price of zoo shares being traded at the time.[^20].
+**It was even possible to put a number on “Knut’s” economic value. In 2007, the zoo increased the earnings it generated from entry prices by about 40 per cent.** Without the “Knut factor”, the zoo had expected earnings to grow by about 15 per cent in 2007.[^18] In March 2007, one expert estimated that the brand was worth seven to 13 million euro.[^19] The national media resonance and high visitor numbers doubled the buying price of zoo shares being traded at the time.[^20]
  
 According to zoo employees, while “Knut” was alive, there was a mobile kiosk that sold “Knut” souvenirs in front of the polar bear enclosure. Nothing like that has ever been seen at any other animal enclosures. Even when he grew into a polar bear “teenager” after just a few months, “Knut” continued to attract many onlookers. When Zoo Director Bernhard Blaszkiewitz decided to bar the main keeper Thomas Dörflein from close contact with the bear for safety reasons, as he was now a danger to humans, his decision was criticised by “Knut” fans. Some of them were worried about the animal’s well-being, as “Knut” was now being kept in a shared enclosure with other members of his species instead of being in intensive daily contact with Thomas Dörflein and other keepers. But this did not harm the value of the brand. On “Knut’s” birthdays, the zoo was full, and vast crowds of visitors thronged in front of the enclosure, which can be seen in photos from the zoo’s archive.
  
@@ -240,7 +240,7 @@ Knut was ultimately mounted, and his taxidermy can be still be viewed at the Mus
  
 <figcaption>
  
-_“Knut” and the taxidermist Detlev Matzke in the taxidermy workshop of Berlin’s Museum of Natural History, 2013. (Photo Carola Radke/MfN. All rights reserved.)_
+_“Knut” and the taxidermist Detlev Matzke in the taxidermy workshop of Berlin’s Museum of Natural History, 2013. (Image: Carola Radke/MfN. All rights reserved.)_
  
 </figcaption>
  
@@ -252,7 +252,7 @@ _“Knut” and the taxidermist Detlev Matzke in the taxidermy workshop of Berli
  
 <figcaption>
  
-_“Knut” being exhibited at the Berlin Museum of Natural History, 2013. (Photo Carola Radke/MfN. All rights reserved.)_
+_“Knut” being exhibited at the Berlin Museum of Natural History, 2013. (Image: Carola Radke/MfN. All rights reserved.)_
  
 </figcaption>
  
@@ -280,7 +280,7 @@ While this text was being written in the summer of 2021, Berlin Zoo received a c
  
 ## “Knut” and the Factors in his Fame
  
-So far, the protests about “Knut’s” taxidermy have been one of a kind, even though this extremely popular zoo animal was not the first animal to be exhibited at the Berlin Museum of Natural History after its death. Unlike in “Knut’s” case of 2013, there is no discussion to be found in the zoo’s press archive, for example, in 1935 about exhibiting the extremely popular gorilla [[story.bobby]]. Nor was the 1988 taxidermy of the famous hippopotamus “Knautschke” contentious. It is likely that “Knautschke” came to Berlin Zoo in 1942 as a calf, and he was one of the few large animals that survived the war at the zoo. He had been fed throughout the postwar period and during the Berlin Blockade by Berlin’s residents. As a symbol of a community united during [[story.feed-scarcity]], there were numerous anecdotes circulating about him. But in spite of the animal’s obvious fame and popularity, an exhibition at the Berlin City Museum of a plaster model that also contained taxidermies of some of the animal’s body parts was not met with any criticism in the 1980s. The model provided a template for a 1998 sculpture of “Knautschke” – now used by children as a stage for photographic mementos in front of the hippopotamus house at the zoo, although it has never attained the status of memorial.
+So far, the protests about “Knut’s” taxidermy have been one of a kind, even though this extremely popular zoo animal was not the first animal to be exhibited at the Berlin Museum of Natural History after its death. Unlike in “Knut’s” case of 2013, there is no discussion to be found in the zoo’s press archive, for example, in 1935 about exhibiting the extremely popular gorilla [[Bobby|story.bobby-tracking-body-parts2]]. Nor was the 1988 taxidermy of the famous hippopotamus “Knautschke” contentious. It is likely that “Knautschke” came to Berlin Zoo in 1942 as a calf, and he was one of the few large animals that survived the war at the zoo. He had been fed throughout the postwar period and during the Berlin Blockade by Berlin’s residents. As a symbol of a community united during [[scarcity|story.feed-scarcity]], there were numerous anecdotes circulating about him. But in spite of the animal’s obvious fame and popularity, an exhibition at the Berlin City Museum of a plaster model that also contained taxidermies of some of the animal’s body parts was not met with any criticism in the 1980s. The model provided a template for a 1998 sculpture of “Knautschke” – now used by children as a stage for photographic mementos in front of the hippopotamus house at the zoo, although it has never attained the status of memorial.
  
 **Just like “Knautschke’s” taxidermy, an exhibit at the Berlin Museum of Natural History featuring “Bao-Bao”, the 34-year-old panda from the Zoological Garden that died in 2012, did not lead to any controversies,** as can be garnered by reviewing the press from that time, even though the giant panda had long been a reliable audience magnet for Berlin Zoo. Visitors, friends of the zoo, and the press had shared in the failed breeding attempts and the fate of the two panda females “Tien-Tien” and “Yan-Yan”, who both died before “Ba-Bao”[^29] and who were also mounted as natural history showpieces. While the _Tagesspiegel_ was still asking in 2013 whether the deployment of “Knut’s” taxidermy in the Berlin Museum of Natural History was “A symbol? An idol? Or just a taxidermy?” the exhibition of all three Berlin pandas was described in 2015 as a “celebration” of the dead stars.[^30]
  
@@ -542,7 +542,7 @@ _Skulptur “Knut der Träumer”, 2021. (Foto: Clemens Maier-Wolthausen. Alle R
  
 </figure>
  
-Die benötigten Spenden wurden vom Förderverein “Stiftung Hauptstadtzoos” gesammelt. Zudem wurden 2012 Repliken der Skulptur als Souvenir verkauft. **Die als Denkmal bezeichnete Skulptur war 2012 auch das Motiv einer Gedenkmünze aus versilberter Bronze der Staatlichen Münze Berlin.**[^26] An der Skulptur werden regelmäßig zu den Geburts- und Todestagen von “Knut” und Thomas Dörflein Blumen, Briefchen und Bilder abgelegt. Anderen Zootieren wurde diese Ehre nicht zuteil.
+Die benötigten Spenden wurden vom Förderverein Stiftung Hauptstadtzoos gesammelt. Zudem wurden 2012 Repliken der Skulptur als Souvenir verkauft. **Die als Denkmal bezeichnete Skulptur war 2012 auch das Motiv einer Gedenkmünze aus versilberter Bronze der Staatlichen Münze Berlin.**[^26] An der Skulptur werden regelmäßig zu den Geburts- und Todestagen von “Knut” und Thomas Dörflein Blumen, Briefchen und Bilder abgelegt. Anderen Zootieren wurde diese Ehre nicht zuteil.
  
 ## “Knuts” Tod und Präparation
  
@@ -614,7 +614,7 @@ Während diese Zeilen im Sommer 2021 verfasst wurden, erreichte den Berliner Zoo
  
 ## Knut und die Faktoren des Ruhms
  
-Die Proteste um die Präparation “Knuts” sind bislang einzigartig. Dabei war er nicht das erste äußerst beliebte Zootier, das nach seinem Tod im Naturkundemuseum ausgestellt wurde. Anders als bei “Knut” im Jahr 2013 fand sich im Pressearchiv des Zoos etwa 1935 – selbst wenn sich die Presse einer Demokratie und die einer Diktatur nicht vergleichen lassen – keine Diskussion über die Ausstellung des damals höchst beliebten Gorillas [[story.bobby]. Auch die Anfertigung einer Dermoplastik des berühmten Flusspferds “Knautschke” im Jahr 1988 war nicht umstritten. “Knautschke” war wahrscheinlich 1942 als Jungtier in den Berliner Zoo gekommen und gehörte zu den wenigen Großtieren, die den Krieg im Zoo überlebten. In der Nachkriegszeit und während der Berlin-Blockade war er von den Berliner:innen durchgefüttert worden. Als Symbol einer Schicksalsgemeinschaft in der [[story.feed-scarcity]] kursierten unzählige Anekdoten über ihn. Doch trotz der augenscheinlichen Beliebt- und Bekanntheit des Tieres erregte die Ausstellung des Gipsmodells, in dem auch präparierten Teile des Tierkörpers enthalten waren, im Berliner Stadtmuseum in den 1980er Jahren keine Kritik. 1998 bot das Modell die Vorlage zur Anfertigung einer Skulptur von “Knautschke” – sie dient vor dem Flusspferdhaus im Zoo Kindern als Bühne für Erinnerungsfotos, hat aber nie den Status eines Denkmals erlangt.
+Die Proteste um die Präparation “Knuts” sind bislang einzigartig. Dabei war er nicht das erste äußerst beliebte Zootier, das nach seinem Tod im Naturkundemuseum ausgestellt wurde. Anders als bei “Knut” im Jahr 2013 fand sich im Pressearchiv des Zoos etwa 1935 – selbst wenn sich die Presse einer Demokratie und die einer Diktatur nicht vergleichen lassen – keine Diskussion über die Ausstellung des damals höchst beliebten Gorillas [[Bobby|story.bobby-tracking-body-parts2]]. Auch die Anfertigung einer Dermoplastik des berühmten Flusspferds “Knautschke” im Jahr 1988 war nicht umstritten. “Knautschke” war wahrscheinlich 1942 als Jungtier in den Berliner Zoo gekommen und gehörte zu den wenigen Großtieren, die den Krieg im Zoo überlebten. In der Nachkriegszeit und während der Berlin-Blockade war er von den Berliner:innen durchgefüttert worden. Als Symbol einer Schicksalsgemeinschaft in [[Not|story.feed-scarcity]] kursierten unzählige Anekdoten über ihn. Doch trotz der augenscheinlichen Beliebt- und Bekanntheit des Tieres erregte die Ausstellung des Gipsmodells, in dem auch präparierten Teile des Tierkörpers enthalten waren, im Berliner Stadtmuseum in den 1980er Jahren keine Kritik. 1998 bot das Modell die Vorlage zur Anfertigung einer Skulptur von “Knautschke” – sie dient vor dem Flusspferdhaus im Zoo Kindern als Bühne für Erinnerungsfotos, hat aber nie den Status eines Denkmals erlangt.
  
 **Ebenso wie die Präparation “Knautschkes” hat die Ausstellung “Bao-Baos”, des 2012 verstorbenen, 34 Jahre alten Pandas aus dem Zoologischen Garten im Naturkundemuseum keine Kontroversen verursacht.** Das ergab eine Durchsicht der zeitgenössischen Presse. Dabei war der Große Panda lange Zeit ein verlässlicher Publikumsmagnet des Berliner Zoos gewesen. Besucher:innen, Zoofreund:innen und Presse hatten viel Anteil an den gescheiterten Zuchtversuchen und dem Schicksal der beiden Pandaweibchen “Tien-Tien” und “Yan-Yan” genommen, die jeweils vor “Bao-Bao” starben.[^29] Auch diese beiden sind als naturkundliche Schaustücke präpariert worden. Fragte der _Tagesspiegel_ 2013 zur Aufstellung der Dermoplastik “Knuts” im Naturkundemuseum noch “Ein Symbol? Ein Idol? Oder einfach nur eine Dermoplastik?”, wurde die Ausstellung aller drei Berliner Pandas 2015 als “Feier” der toten Stars bezeichnet.[^30]
  
