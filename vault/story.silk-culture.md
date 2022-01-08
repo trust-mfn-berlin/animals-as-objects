@@ -7,7 +7,7 @@ desc: |-
   German provinces in the 17th century. How did they get to Prussia, what shape
   did silk production take, and what was it that ultimately led state-run silk
   farming to dry up? 
-updated: 1641602144262
+updated: 1641635928734
 created: 1629996091814
 license: CC BY-SA
 title_de: Seiden-Cultur
@@ -124,7 +124,7 @@ In spite of myriad efforts, it was not possible for the Prussian state to do awa
 
 [^11]: The silk moths had already become so inbred that they were no longer able to fly.
 
-[^12]: Cf. Krünitz, Johann Georg. _Oekonomische Encyklopädie oder allgemeines System der Staats-Stadt-Haus-und Landwirthschaft_, vol. 152. Brünn: Verlag Joseph Georg Traßler, 1830.
+[^12]: Cf. Krünitz, Johann Georg. _Oekonomische Encyklopädie oder allgemeines System der Staats-, Stadt-, Haus-, und Landwirthschaft_, vol. 152. Brünn: Verlag Joseph Georg Traßler, 1830.
 
 [^13]: See for example Kießhauer, Rolf. _Seidenraupen in Friedrichshagen?_, 2. rev. ed. Berlin: Brandel, 1998.
 
@@ -223,7 +223,7 @@ Trotz der vielfältigen Bemühungen konnte doch Unabhängigkeit vom Seidenimport
 
 [^11]: Die Maulbeerspinner waren damals schon so überzüchtet, dass sie nicht mehr fliegen konnten.
 
-[^12]: Vgl. Krünitz, Johann Georg. _Oekonomische Encyklopädie oder allgemeines System der Staats-Stadt-Haus-und Landwirthschaft ist der Titel einer der umfangreichsten Enzyklopädien des deutschen Sprachraums_, Bd. 152. Leopold Wilhelm Krause, 1830.
+[^12]: Vgl. Krünitz, Johann Georg. _Oekonomische Encyklopädie oder allgemeines System der Staats-, Stadt-, Haus-, und Landwirthschaft_ ist der Titel einer der umfangreichsten Enzyklopädien des deutschen Sprachraums_, Bd. 152. Leopold Wilhelm Krause, 1830.
 
 [^13]: Vgl. u.a. Kießhauer, Rolf. _Seidenraupen in Friedrichshagen?_, 2. erw. Aufl. Berlin: Brandel, 1998.
 
