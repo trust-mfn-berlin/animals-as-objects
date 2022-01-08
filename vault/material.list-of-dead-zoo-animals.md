@@ -7,7 +7,7 @@ short_desc_de: "Dokumente aus dem Krieg "
 date_end: ""
 published: false
 title: List of Dead Zoo Animals
-updated: 1641652316942
+updated: 1641665211910
 id: 5uQChdHATgh_dE94AE5fX
 translators:
   translator_de_en: Lydia J. White
@@ -25,7 +25,7 @@ date_start: 1943-10-31T23:00:00.000Z
 
 <figure>
 
-![Punched typewritten piece of paper with two columns: “Dead” and “Still here”. Each column contains a list of animals; see transcript below.](images/cmw/Liste_tote_Tiere_1943.jpg)
+![Punched typewritten piece of paper with two columns: “Dead” and “Still here”. Each column contains a list of animals; see transcript below.](/images/cmw/Liste_tote_Tiere_1943.jpg)
 
 <figcaption>
 
@@ -35,7 +35,7 @@ _List of the animals killed at Berlin Zoo in November 1943 (AZGB. All rights res
 
 </figure>
 
-Both in the record-keeping systems in the collections of the [[Zoological Museum|material.tagebuecher-des-zoologischen-museums]] (which was then part of the Museum of Natural History) and in the Humboldt University’s inventory books from the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]], we read that many animal objects were lost when Berlin was bombed in the night of 23 November 1943. But what about the zoo? A list from the Zoological Garden records the loss of live animals: 30% of the remaining animals were killed by bombs, by buildings collapsing, or by fire, or they were killed by employees after escaping their enclosures (see also [[story.the-zoo-and-national-socialism]]). This document is an example of the practices of [[recording and managing|theme.recording-worlds]] inventories, arrivals, departures, and losses.
+Both in the record-keeping systems in the collections of the [[Zoological Museum|material.logbooks-of-the-zoological-museum]] (which was then part of the Museum of Natural History) and in the Humboldt University’s inventory books from the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]], we read that many animal objects were lost when Berlin was bombed in the night of 23 November 1943. But what about the zoo? A list from the Zoological Garden records the loss of live animals: 30% of the remaining animals were killed by bombs, by buildings collapsing, or by fire, or they were killed by employees after escaping their enclosures (see also [[story.the-zoo-and-national-socialism]]). This document is an example of the practices of [[recording and managing|theme.recording-worlds]] inventories, arrivals, departures, and losses.
 
 The only surviving elephant recorded in the list was [["Siam"|story.the-afterlife-of-zoo-animals]]. The numbers with commas, like “1,3” for the Altai wapiti, note the sex in the manner of the [[material.steinmetz-index]]: one male Altai wapiti and three females died.
 
@@ -65,7 +65,7 @@ The only surviving elephant recorded in the list was [["Siam"|story.the-afterlif
 
 <figure>
 
-![Gelochtes schreibmaschinengeschriebenes Blatt mit zwei Spalten: "tot" und "noch vorhanden". Auflistung der Tiere in jeweiliger Spalte] (images/cmw/Liste_tote_Tiere_1943.jpg)
+![Gelochtes schreibmaschinengeschriebenes Blatt mit zwei Spalten: "tot" und "noch vorhanden". Auflistung der Tiere in jeweiliger Spalte](/images/cmw/Liste_tote_Tiere_1943.jpg)
 
 <figcaption>
 
@@ -75,7 +75,7 @@ _Liste der im November 1943 im Berliner Zoo getöteten Tiere. (AZGB. Alle Rechte
 
 </figure>
 
-Sowohl in den Verzeichnungssystemen der Sammlung des [[Zoologischen Museums|material.tagebuecher-des-zoologischen-museums]], das Teil des Museums für Naturkunde war, als auch in den Inventarbüchern der [[Zoologischen Lehrsammlung|story.history-of-the-zoological-teaching-collection]] der Humboldt-Universität lässt sich der Verlust vieler Tier-Objekte durch die Bombardierung Berlins in der Nacht zum 23. November 1943 ablesen. Doch was war mit dem Zoo? Eine Liste des Zoologischen Gartens hielt den Verlust lebender Tiere fest: 30% des noch vorhandenen Tierbestands wurden durch Bomben, Einstürze und Brände getötet oder wurden, nachdem sie ihren Gehegen entwichen waren, durch Mitarbeitende getötet (siehe auch [[story.the-zoo-and-national-socialism]]). Das Dokument ist ein Beispiel für die Praktiken der [[Erfassung und Verwaltung|theme.recording-worlds]] von Beständen, Eingängen und Ausgängen bzw. Verlusten.
+Sowohl in den Verzeichnungssystemen der Sammlung des [[Zoologischen Museums|material.logbooks-of-the-zoological-museum]], das Teil des Museums für Naturkunde war, als auch in den Inventarbüchern der [[Zoologischen Lehrsammlung|story.history-of-the-zoological-teaching-collection]] der Humboldt-Universität lässt sich der Verlust vieler Tier-Objekte durch die Bombardierung Berlins in der Nacht zum 23. November 1943 ablesen. Doch was war mit dem Zoo? Eine Liste des Zoologischen Gartens hielt den Verlust lebender Tiere fest: 30% des noch vorhandenen Tierbestands wurden durch Bomben, Einstürze und Brände getötet oder wurden, nachdem sie ihren Gehegen entwichen waren, durch Mitarbeitende getötet (siehe auch [[story.the-zoo-and-national-socialism]]). Das Dokument ist ein Beispiel für die Praktiken der [[Erfassung und Verwaltung|theme.recording-worlds]] von Beständen, Eingängen und Ausgängen bzw. Verlusten.
 
 Der einzige überlebende Elefant, den die Liste verzeichnete, war [["Siam"|story.the-afterlife-of-zoo-animals]]. Die Komma-Zahlen, wie z.B. "1,3" für die Edelhirsche Altai-Marale, notieren genau wie in der [[material.steinmetz-index]] das Geschlecht: ein männlicher Altai-Maral und drei weibliche starben. 
 
