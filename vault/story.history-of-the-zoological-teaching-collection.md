@@ -6,7 +6,7 @@ desc: |-
   University in Berlin are testament to war and the changes that took place in
   everyday life at the institution, in scientific approaches, and in lines of
   political conflict (within the university). 
-updated: 1641230838493
+updated: 1641643237237
 created: 1629792627920
 license: CC BY-SA
 title_de: Geschichte der Zoologischen Lehrsammlung
@@ -176,8 +176,6 @@ _Historische Inventarbücher der Zoologischen Lehrsammlung der heutigen Humboldt
 
 Was lässt sich aus den Inventarbüchern einer Sammlung über die Objekte und die Geschichte der Institution ablesen? Inwiefern spiegelt der Bestand einer Sammlung deren historische Entwicklung?
 Die Inventarbücher der Zoologischen Lehrsammlung der ehemaligen Friedrich-Wilhelms-Universität, heute Humboldt-Universität zu Berlin, waren einst fester Bestandteil des Institutsalltags. Sie dokumentierten ab 1884 die Beschaffung von zoologischen Präparaten, Modellen und Wandtafeln, die als Anschauungsmaterial im Lehrbetrieb eingesetzt wurden. Gleichzeitig dienten die [[story.inventory-books]] als Werkzeug bei Neuordnungsprozessen der Sammlung. In diesem funktionalen Zusammenhang haben sie mittlerweile längst ausgedient. Sie wurden durch effizientere Formate und Medien für die Organisation von Informationsinfrastrukturen ersetzt, und zwar durch [[Zettelkarten|material.house-of-cards]]. Inzwischen haben sie vor allem eine historische Bedeutung, da sie die Entwicklung des Sammlungsbestandes sichtbar machen und implizit auf die Geschichte des Zoologischen Instituts verweisen, das für den Aufbau und die Verwaltung der Lehrsammlung zuständig war.
-
-Abbildung der Inventare (???)
 
 In insgesamt acht Inventarbüchern wurden Präparate, Modelle und auch Wandtafeln damals in Listenform chronologisch und nach laufenden Nummern verzeichnet. Das erste Inventar der Präparate beginnt mit dem Gründungsjahr des Zoologischen Instituts 1884. Festgehalten wurden nicht nur die Konservierungsart oder die lateinische Bezeichnung, sondern auch Informationen zum Erwerbskontext. Die Bezugsquellen der Lehrsammlung waren weit gefächert – von eigens gesammelten und anschließend im Institut präparierten Objekten, über Ankäufe von etablierten Naturalienhändlern wie Linnaeus in Berlin oder der Hamburger Firma Umlauff, bis hin zu unentgeltlichen Zuwendungen durch naturkundliche Institutionen, darunter das Zoologische Museum, die anatomisch-zootomische Sammlung oder die zoologische Station in Neapel. Daraus lässt sich das im Raum Berlin damals bestehende, aber auch darüber hinaus weitreichend verzweigte Netzwerk naturkundlicher Einrichtungen ablesen, in dessen Geflecht sich auch das Zoologische Institut wiederfand. In den ersten Jahren nach ihrer Gründung formte sich der Bestand der Lehrsammlung vor allem durch die Schenkungen aus der zoologischen und anatomisch-zootomischen Sammlung der königlichen Friedrich-Wilhelms-Universität in Berlin.[^1]
 
