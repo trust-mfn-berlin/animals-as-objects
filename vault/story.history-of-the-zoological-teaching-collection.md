@@ -6,7 +6,7 @@ desc: |-
   University in Berlin are testament to war and the changes that took place in
   everyday life at the institution, in scientific approaches, and in lines of
   political conflict (within the university). 
-updated: 1641645574568
+updated: 1641645999663
 created: 1629792627920
 license: CC BY-SA
 title_de: Geschichte der Zoologischen Lehrsammlung
@@ -119,45 +119,45 @@ This discontinuity has inscribed itself into the corpus of the historical collec
 
 [^2]: Kretschmann, Carsten. _Räume öffnen sich: Naturhistorische Museen im Deutschland des 19. Jahrhunderts_. Berlin: Akademie Verlag, 2006: 32.
 
-[^3]: Jahn, Ilse. “Zur Vertretung der Zoologie und zur Entwicklung ihrer institutionellen Grundlagen an der Berliner Universität von ihrer Gründung bis 1920”. _Wiss. Z. Humboldt-Univ. Berlin, Math. Nat. Reihe_ 34, no. 3/4 (1985): 275.
+[^3]: Jahn, 1985: 275.
 
-[^4]: Jahn, 1985: 275.
+[^4]: Ibid.
 
-[^5]: This image is from the private collection of Elsi Hedström, the granddaughter of Franz Eilhard Schulze. The people depicted have been identified by Stefan Richter; cf. “Franz Eilhard Schulze und die Zoologische Lehrsammlung der Berliner Universität”. In _Theater der Natur und Kunst: Theatrum Naturae et Artis; Essays. 3 Bände_, ed. by Horst Bredekamp, Jochen Brüning, and Cornelia Weber. Berlin: Henschel, 2000: 119-134, 121.
+[^5]: This image is from the private collection of Elsi Hedström, the granddaughter of Franz Eilhard Schulze. The people depicted have been identified by Stefan Richter; cf. “Franz Eilhard Schulze und die Zoologische Lehrsammlung der Berliner Universität”. In _Theater der Natur und Kunst: Theatrum Naturae et Artis; Essays. 3 Bände_, Horst Bredekamp, Jochen Brüning, and Cornelia Weber (eds.). Berlin: Henschel, 2000: 119-134, 121.
 
 [^6]: Tembrock, Günther. “Zur Geschichte der Zoologie in Berlin”. _Wiss. Z. der Humboldt-Univ. Berlin. Math.-Naturw. Reihe_ 8, no. 2 (1958/59): 185-196, 193.
 
-[^7]: Cf. Tembrock, Günther. “Die Geschichte des Zoologischen Instituts”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin, Beiheft zum Jubiläumsjahrgang_ 9 (1959/1960): 107-125; Scholtz, Gerhard. “Zoologische Lehrsammlung (Zoological Teaching Collection)”. In _Zoological Collections of Germany: The Animal Kingdom in its Amazing Plenty at Museums and Universities_, ed. by Lothar A. Beck. Cham: Springer International Publishing, 2018: 124.
+[^7]: Cf. Tembrock, Günther. “Die Geschichte des Zoologischen Instituts”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin, Beiheft zum Jubiläumsjahrgang_ 9 (1959/1960): 107-125; Scholtz, Gerhard. “Zoologische Lehrsammlung (Zoological Teaching Collection)”. In _Zoological Collections of Germany: The Animal Kingdom in its Amazing Plenty at Museums and Universities_, Lothar A. Beck (ed.). Cham: Springer International Publishing, 2018: 124.
 
 [^8]: Paszkowski, Wilhelm. “Das Zoologische Institut der Universität Berlin: N 4, Invalidenstr. 43; Museum für Naturkunde”. _Berliner Akademische Nachrichten_ 11 (1910): 2.
 
 [^9]: Richter, Stefan. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität: Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin (N.F.)_ 37 (1999): 59-76.
 
-[^10]: Tembrock, Günther. “Die Geschichte des Zoologischen Instituts”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin, Beiheft zum Jubiläumsjahrgang_ 9 (1959/1960): 112.
+[^10]: Tembrock, 1959/1960: 112.
 
-[^11]: Cf. Jahn, Ilse. “Zur Vertretung der Zoologie und zur Entwicklung ihrer institutionellen Grundlagen an der Berliner Universität von ihrer Gründung bis 1920”. _Wiss. Z. Humboldt-Univ. Berlin, Math. Nat. Reihe_ 34, no. 3/4 (1985): 275f.
+[^11]: Cf. Jahn, 1985: 275f.
 
 [^12]: “While in the earlier provisional order of the teaching collection the models had been set up in special cabinets, separate from the specimens, during the reorganization of the teaching collection undertaken this year using the newly assembled cabinets, all models were organized in the same systematic order as the specimens. \[…] After putting the collection items, which had previously been accommodated only provisionally, in a clear order for the first time, the next task was to work through the items more precisely and systematically, and, as it had become necessary in some cases, to remount them.” Anonymous. “Chronik der königlichen Friedrich-Wilhelms-Universität zu Berlin für das Rechnungsjahr 1889/90”. In _Chronik der Friedrich-Wilhelm-Universität_, vol. 3. Berlin, 1889/90: 130. https://www.digi-hub.de/viewer/image/1603900356647/1/LOG_0003/ (20.06.2021).
 
 [^13]: Anonymous. _Mitteilungen über naturwissenschaftliche Anstalten Berlins für die Mitglieder des V. internationalen Zoologen-Congresses_: 1.
 
-[^14]: Richter, Stefan. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität: Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin (N.F.)_ 37 (1999): 62f.
+[^14]: Richter, 1999: 62f.
 
 [^15]: According to an appraisal carried out by Heinrich Jakob Feuerborn on 27.01.1945, quoted in Tembrock, Günther. “Das Zoologische Institut der Humboldt-Universität von 1945 bis zur Gründung der Sektion Biologie”. _Wiss. Z. der Humboldt-Univ. Berlin. Math.-Nat. Reihe_ (1985): 281. In addition, a loss of around 600 wall charts during the war and in the postwar period can be surmised from the inventory records; see Richter, 1999. 67. Specimens preserved in alcohol survived the attack, as they had been taken to the basement rooms together with some other holdings from the museum collection as a precaution; cf. Landsberg, Hannelore, and Ferdinand Damaschun. “Das Museum im Bombenhagel und unter Schutt”. In _Klasse, Ordnung, Art: 200 Jahre Museum für Naturkunde_, ed. by Ferdinand Damaschun et al. Rangsdorf: Basilisken-Presse, 2010: 228; Tembrock, 1985: 281.
 
 [^16]: Cf. Tembrock, 1985: 281.
 
-[^17]: Stefan Richter uses this entry to illustrate that the inventory books were kept up until the section assumed management in 1968; cf. Richter, Stefan. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität: Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin (N.F.)_ 37 (1999): 67.
+[^17]: Stefan Richter uses this entry to illustrate that the inventory books were kept up until the section assumed management in 1968; cf. Richter, 1999: 67.
 
-[^18]: Tembrock, Günther. “Das Zoologische Institut der Humboldt-Universität von 1945 bis zur Gründung der Sektion Biologie”. _Wiss. Z. der Humboldt-Univ. Berlin. Math.-Nat. Reihe_ (1985): 289f.
+[^18]: Tembrock, 1985: 289f.
 
-[^19]: Höxtermann, Ekkehard. “Biologien in der DDR zwischen Tradition und Innovation, Wissenschaft und Politik”. In _Naturwissenschaft und Technik in der DDR_, reprint, ed. by Dieter Hoffmann and Kristie Macrakis. Berlin: Akademie Verlag, 2018: 233-259.
+[^19]: Höxtermann, Ekkehard. “Biologien in der DDR zwischen Tradition und Innovation, Wissenschaft und Politik”. In _Naturwissenschaft und Technik in der DDR_, reprint, Dieter Hoffmann and Kristie Macrakis (ed.). Berlin: Akademie Verlag, 2018: 233-259.
 
-[^20]: Cf. Richter, Stefan. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität: Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin (N.F.)_ 37 (1999): 59-76, 65.
+[^20]: Cf. Richter, 1999: 59-76, 65.
 
-[^21]: Cf. Richter, 1999: 59-76, 65.
+[^21]: Cf. Ibid.
 
-[^22]: Cf. Richter, 1999: 59-76, 65.
+[^22]: Cf. Ibid.
 
 :::DE:::
 
