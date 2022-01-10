@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Putting Animals on Display
 title_de: Tiere zur Schau stellen
 created: 1618572893774
-updated: 1641830332504
+updated: 1641831299669
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 author: Clemens Maier-Wolthausen
 translators:
@@ -249,7 +249,7 @@ At a time when visual media are making it possible to access the lives of wild a
 
 >“The only suitable central marker of identity for zoos is Hediger’s pillar of ‘recreation’. Because this parameter addresses human interests, zoos will remain what they have always been: entertainment facilities where wild animals – as the German Federal Conservation Act states rather dryly – are locked up ‘for the purpose of putting them on display’.”[^34]
 
-[^1]: For an introduction to the history of zookeeping, see Kisling, Vernon N. Jr. “Ancient Collections and Menageries”. In _Zoo and Aquarium History: Ancient Animal Collections to Zoological Gardens_, ed. by Vernon N. Kisling Jr. Boca Raton/London/New York/Washington D.C.: CRC Press, 2001: 1-47.
+[^1]: For an introduction to the history of zookeeping, see Kisling, Vernon N. Jr. “Ancient Collections and Menageries”. In _Zoo and Aquarium History: Ancient Animal Collections to Zoological Gardens_, Vernon N. Kisling Jr. (ed.). Boca Raton: CRC Press, 2001: 1-47.
 
 [^2]: Hanson, Elizabeth. _Animal Attractions: Nature on Display in American Zoos_. Princeton, N.J: Princeton University Press, 2002: 46; see also Blunt, Wilfrid. _The Ark in the Park: The Zoo in the Nineteenth Century_. London: Hamish Hamilton, 1976: 25.
 
@@ -257,29 +257,29 @@ At a time when visual media are making it possible to access the lives of wild a
 
 [^4]: Copy of the charter of the Actien-Vereins des Zoologischen Gartens zu Berlin (version dated 14 May 1869), collection of the Archive of Berlin‘s Zoological Gardens.
 
-[^5]: Peter Dollinger and Verband Deutscher Zoodirektoren, eds. _Gärten für Tiere – Erlebnisse für Menschen: Die Zoologischen Gärten des VDZ; 125 Jahre Verband Deutscher Zoodirektoren e.V._, 1st ed. Cologne: Bachem, 2012: 19.
+[^5]: Peter Dollinger and Verband Deutscher Zoodirektoren (eds.). _Gärten für Tiere – Erlebnisse für Menschen: Die Zoologischen Gärten des VDZ; 125 Jahre Verband Deutscher Zoodirektoren e.V._, 1st ed. Cologne: Bachem, 2012: 19.
 
 [^6]: Hediger, Heini. “Bedeutung und Aufgaben der Zoologischen Gärten”._Vierteljahresschrift der Naturforschenden Gesellschaft in Zürich_ 18 (1973): 319-328, 327.
 
-[^7]: Wessely, Christina. _Künstliche Tiere: Zoologische Gärten und urbane Moderne_. Kaleidogramme. Berlin: Kulturverlag Kadmos, 2008: 38.
+[^7]: Wessely, Christina. _Künstliche Tiere: Zoologische Gärten und urbane Moderne_. Berlin: Kulturverlag Kadmos, 2008: 38.
 
-[^8]: Baratay, Eric. “Theater des ‘Wilden’: Zoologische Gärten in der Zeit August Gauls”. In _August Gaul. Moderne Tiere_, ed. by K. Lee Chichester, Nina Zimmer, and Kunstmuseum Bern. Munich: Hirmer, 2021: 45-58, 49.
+[^8]: Baratay, Eric. “Theater des ‘Wilden’: Zoologische Gärten in der Zeit August Gauls”. In _August Gaul. Moderne Tiere_, K. Lee Chichester, Nina Zimmer, and Kunstmuseum Bern (eds.). Munich: Hirmer, 2021: 45-58, 49.
 
-[^9]: Klös, Ursula, Harro Strehlow, and Werner Synakiewicz. _Der Berliner Zoo im Spiegel seiner Bauten: 1841-1989; Eine baugeschichtliche und denkmalpflegerische Dokumentation über den Zoologischen Garten Berlin_, ed. by Heinz-Georg Klös and Ursula Klös, 2nd ed. Berlin: Heenemann, 1990, 171ff.
+[^9]: Klös, Ursula, Harro Strehlow, and Werner Synakiewicz. _Der Berliner Zoo im Spiegel seiner Bauten: 1841-1989; Eine baugeschichtliche und denkmalpflegerische Dokumentation über den Zoologischen Garten Berlin_, Heinz-Georg Klös and Ursula Klös (eds.), 2nd ed. Berlin: Heenemann, 1990, 171ff.
 
 [^10]: von Zobeltitz, Fedor. “Wie man im Zoologischen Garten isst und trinkt”. _Moderne Kunst_ XVIII, no. 2 (um 1900): 5-8.
 
-[^11]: Wessely, Christina. _Künstliche Tiere: Zoologische Gärten und urbane Moderne_. Kaleidogramme. Berlin: Kulturverlag Kadmos, 2008: 100, 102.
+[^11]: Wessely, 2008: 100, 102.
 
-[^12]: Klös, Ursula, Harro Strehlow, and Werner Synakiewicz. _Der Berliner Zoo im Spiegel seiner Bauten: 1841-1989; Eine baugeschichtliche und denkmalpflegerische Dokumentation über den Zoologischen Garten Berlin_, ed. by Heinz-Georg Klös and Ursula Klös. Berlin: Heenemann, 1990: 95; see also Maier-Wolthausen, Clemens. _Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos_, ed. by Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 52.
+[^12]: Klös, Strehlow, Synakiewicz. 1990: 95; see also Maier-Wolthausen, Clemens. _Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos_, Andreas Knieriem (ed.). Berlin: Ch. Links Verlag, 2019: 52.
 
-[^13]: Wessely, Christina. _Künstliche Tiere: Zoologische Gärten und urbane Moderne_, Kaleidogramme. Berlin: Kulturverlag Kadmos, 2008: 90, 105.
+[^13]: Wessely, 2008: 90, 105.
 
-[^14]: Penn, Laura, Markus Gusset, and Gerald Dick. _77 Years: The History and Evolution of the World Association of Zoos and Aquariums, 1935-2012_, ed. by World Association of Zoos and Aquariums. Gland, Switzerland: World Association of Zoos and Aquariums (WAZA), 2012: 144.
+[^14]: Penn, Laura, Markus Gusset, and Gerald Dick. _77 Years: The History and Evolution of the World Association of Zoos and Aquariums, 1935-2012_, World Association of Zoos and Aquariums (ed.). Gland: World Association of Zoos and Aquariums (WAZA), 2012: 144.
 
-[^15]: Zoologischer Garten Rostock: Voreinladung, Januar 1969, AZGB, O 1/2/185; Haikal, Mustafa, and Winfried Gensch. _Der Gesang des Orang-Utans: Die Geschichte des Dresdner Zoos_. Dresden: Ed. Sächs. Zeitung, 2011: 109; Klös, Heinz-Georg, Hans Frädrich, and Ursula Klös. _Die Arche Noah an der Spree: 150 Jahre Zoologischer Garten Berlin; Eine tiergärtnerische Kulturgeschichte von 1844-1994_. Berlin: FAB Verlag, 1994: 415; Dittrich, Lothar. “Menschen im Zoo”. In _Berichte aus der Arche_., ed. by Dieter Poley. Stuttgart: Georg Thieme Verlag, 1993: 140; Pies-Schulz-Hofen, Robert. “Die Berliner Zooschule”. _Bongo_ 12 (1987): 59-66.
+[^15]: Zoologischer Garten Rostock: Voreinladung, Januar 1969, AZGB, O 1/2/185; Haikal, Mustafa, and Winfried Gensch. _Der Gesang des Orang-Utans: Die Geschichte des Dresdner Zoos_. Dresden: Ed. Sächs. Zeitung, 2011: 109; Klös, Heinz-Georg, Hans Frädrich, and Ursula Klös. _Die Arche Noah an der Spree: 150 Jahre Zoologischer Garten Berlin; Eine tiergärtnerische Kulturgeschichte von 1844-1994_. Berlin: FAB Verlag, 1994: 415; Dittrich, Lothar. “Menschen im Zoo”. In _Berichte aus der Arche_., Dieter Poley (ed.). Stuttgart: Georg Thieme Verlag, 1993: 140; Pies-Schulz-Hofen, Robert. “Die Berliner Zooschule”. _Bongo_ 12 (1987): 59-66.
 
-[^16]: Zoologischer Garten Berlin AG und Tierpark Berlin-Friedrichsfelde GmbH. _Geschäftsbericht 2019_. Berlin: 2020: 22, 116.
+[^16]: Zoologischer Garten Berlin AG and Tierpark Berlin-Friedrichsfelde GmbH. _Geschäftsbericht 2019_. Berlin: 2020: 22, 116.
 
 [^17]: Ludwig Heck, _Heiter-ernste Lebensbeichte: Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag, 1938.
 
@@ -287,21 +287,21 @@ At a time when visual media are making it possible to access the lives of wild a
 
 [^19]: Cf. Schulze-Hagen, Karl. _Die Vogel-WG: Die Heinroths, ihre 1000 Vögel und die Anfänge der Verhaltensforschung_. Munich: Knesebeck, 2020.
 
-[^20]: Examples of institutionalised research into zoo animals can be found in Berlin at the Institute for Zoo and Wildlife Research and in Frankfurt at the Foundation Professorship of Zoo Biology at the Faculty of Biological Sciences at Goethe University. The former can trace its origins back to a faculty of the GDR‘s Academy of Sciences and was always located on the premises of Berlin Tierpark; the latter was launched by the Opel Hessian Zoo Foundation in 2014.
+[^20]: Examples of institutionalized research into zoo animals can be found in Berlin at the Institute for Zoo and Wildlife Research and in Frankfurt at the Endowed Professorship of Zoo Biology at the Faculty of Biological Sciences at Goethe University. The former can trace its origins back to a faculty of the GDR‘s Academy of Sciences and was always located on the premises of Berlin Tierpark; the latter was launched by the Opel Hessische Zoostiftung in 2014.
 
 [^21]: Hediger, Heini. _Mensch und Tier im Zoo: Tiergarten-Biologie_. Rüschlikon-Zurich/Stuttgart/Vienna: Albert Müller, 1965: 62.
 
 [^22]: The research plan and correspondence with the GDR Ministry of Culture can be found in: German Federal Archives Berlin-Lichterfelde, DR 1/5700.
 
-[^23]: Hanson, Elizabeth. _Animal Attractions: Nature on Display in American Zoos_. Princeton, N.J: Princeton University Press, 2002: 46; see also Blunt, Wilfrid. _The Ark in the Park: The Zoo in the Nineteenth Century_. London: Hamish Hamilton, 1976: 25.
+[^23]: Hanson, Elizabeth. _Animal Attractions: Nature on Display in American Zoos_. Princeton, N.J: Princeton University Press, 2002: 46; see also Blunt, 1976: 25.
 
-[^24]: Penn, Laura, Markus Gusset, and Gerald Dick. _77 Years: The History and Evolution of the World Association of Zoos and Aquariums, 1935-2012_, ed. by World Association of Zoos and Aquariums. Gland, Switzerland: World Association of Zoos and Aquariums (WAZA), 2012: 168; see also van Dam, Dick. “The Future of Zoological Gardens”. _IUDZG_, Minutes and Proceedings of the 35th Annual Conference Held from 13-18 October 1980 (AZGB, V 5/64).
+[^24]: Penn, Gusset, Dick. 2012: 168; see also van Dam, Dick. “The Future of Zoological Gardens”. _IUDZG_, Minutes and Proceedings of the 35th Annual Conference Held from 13-18 October 1980 (AZGB, V 5/64).
 
-[^25]: Nogge, Gunter. “Arche Zoo: Vom Tierfang zum Erhaltungszuchtprogramm”. In _Berichte aus der Arche_, ed. by Dieter Poley. Stuttgart: Georg Thieme Verlag, 1993: 80.
+[^25]: Nogge, Gunter. “Arche Zoo: Vom Tierfang zum Erhaltungszuchtprogramm”. In _Berichte aus der Arche_, Dieter Poley (ed.). Stuttgart: Georg Thieme Verlag, 1993: 80.
 
-[^26]: Meier, Jürg. _Handbuch Zoo: Moderne Tiergartenbiologie_, 1st ed. Bern/Stuttgart/Vienna: Haupt Verlag, 2009: 115-120.
+[^26]: Meier, Jürg. _Handbuch Zoo: Moderne Tiergartenbiologie_, 1st ed. Bern: Haupt Verlag, 2009: 115-120.
 
-[^27]: Hübner, Stefan. “‘Die afrikanischen Elefanten sind unser Flaggschiff’: Thomas Kauffels erzählt von der Geschichte des Opel-Zoos”. _Hessischer Rundfunk_, 03.02.2021, https://www.hr2.de/podcasts/doppelkopf/die-afrikanischen-elefanten-sind-unser-flaggschiff--thomas-kauffels-erzaehlt-von-der-geschichte-des-opel-zoos,podcast-episode-82032.html (16.08.2021). For a definition of flagship species, see Meier, Jürg. _Handbuch Zoo: Moderne Tiergartenbiologie_, 1st ed. Bern/Stuttgart/Vienna: Haupt Verlag, 2009: 121.
+[^27]: Hübner, Stefan. “‘Die afrikanischen Elefanten sind unser Flaggschiff’: Thomas Kauffels erzählt von der Geschichte des Opel-Zoos”. _Hessischer Rundfunk_, 03.02.2021, https://www.hr2.de/podcasts/doppelkopf/die-afrikanischen-elefanten-sind-unser-flaggschiff--thomas-kauffels-erzaehlt-von-der-geschichte-des-opel-zoos,podcast-episode-82032.html (16.08.2021). For a definition of flagship species, see Meier, 2009: 121.
 
 [^28]: See for example Sommer, Volker. “Ein Etikettenschwindel”. _Aus Politik und Zeitgeschichte_ 71, no. 9 (2021): 35-38; Mullan, Bob, and Garry Marvin. _Zoo Culture_, 2nd ed. Urbana, Chicago: University of Illinois Press, 1999; or Sezgin, Hilal. _Artgerecht ist nur die Freiheit: Eine Ethik für Tiere oder warum wir umdenken müssen_. Munich: Verlag C.H. Beck, 2014.
 
@@ -309,13 +309,13 @@ At a time when visual media are making it possible to access the lives of wild a
 
 [^30]: Verband Deutscher Zoodirektoren e.V. “Wer Tiere kennt, wird sie schützen: Die Welt-Zoo-Naturschutzstrategie im deutschsprachigen Raum”. _WAZA_, 2006, https://www.waza.org/wp-content/uploads/2019/03/marketing_brochure_german.pdf (27.08.2021); see also World Association of Zoos and Aquariums. “Building a Future for Wildlife: The World Zoo and Aquarium Conservation Strategy”. _WAZA_, 2005, https://www.waza.org/wp-content/uploads/2019/03/wzacs-en.pdf (01.09.2021).
 
-[^31]: Penn, Laura, Markus Gusset, and Gerald Dick. _77 Years: The History and Evolution of the World Association of Zoos and Aquariums, 1935-2012_, ed. by World Association of Zoos and Aquariums. Gland, Switzerland: World Association of Zoos and Aquariums (WAZA), 2012: 168.
+[^31]: Penn, Gusset, Dick. 2012: 168.
 
 [^32]: Verband der Zoologischen Gärten e.V. “Die Deutschen und ihre Zoos – Ergebnisse der Forsa Studie”. _VDZ_, 2020, https://www.vdz-zoos.org/fileadmin/PMs/2020/VdZ/Forsa-Broschuere_Die_Deutschen_und_ihre_Zoos.pdf (27.08.2021).
 
-[^33]: Wessely, Christina. _Künstliche Tiere: Zoologische Gärten und urbane Moderne_. Kaleidogramme. Berlin: Kulturverlag Kadmos, 2008: 37.
+[^33]: Wessely, 2008: 37.
 
-[^34]: Sommer, Volker. “Ein Etikettenschwindel”. _Aus Politik und Zeitgeschichte_ 71, no. 9 (2021): 38.
+[^34]: Sommer, 2021: 38.
 
 
 :::DE:::
@@ -558,7 +558,7 @@ In einer Zeit, in der visuelle Medien den Zugang zum Leben wildlebender Tiere in
 
 [^13]: Wessely, 2008: 90, 105.
 
-[^14]: Penn, Laura, Markus Gusset und Gerald Dick. _77 Years: The History and Evolution of the World Association of Zoos and Aquariums, 1935-2012_, World Association of Zoos and Aquariums (Hg.). Gland, Switzerland: World Association of Zoos and Aquariums (WAZA), 2012: 144.
+[^14]: Penn, Laura, Markus Gusset und Gerald Dick. _77 Years: The History and Evolution of the World Association of Zoos and Aquariums, 1935-2012_, World Association of Zoos and Aquariums (Hg.). Gland: World Association of Zoos and Aquariums (WAZA), 2012: 144.
 
 [^15]: Zoologischer Garten Rostock: Voreinladung, Januar 1969, AZGB, O 1/2/185; Haikal, Mustafa, und Winfried Gensch. _Der Gesang des Orang-Utans: Die Geschichte des Dresdner Zoos_. Dresden: Ed. Sächs. Zeitung, 2011: 109; Klös, Heinz-Georg, Hans Frädrich und Ursula Klös. _Die Arche Noah an der Spree: 150 Jahre Zoologischer Garten Berlin; Eine tiergärtnerische Kulturgeschichte von 1844-1994_. Berlin: FAB Verlag, 1994: 415; Dittrich, Lothar. “Menschen im Zoo”. In _Berichte aus der Arche_., Dieter Poley (Hg.). Stuttgart: Georg Thieme Verlag, 1993: 140; Pies-Schulz-Hofen, Robert. “Die Berliner Zooschule”. _Bongo_ 12 (1987): 59-66.
 
