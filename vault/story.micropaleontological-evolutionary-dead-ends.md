@@ -7,7 +7,7 @@ short_desc_de: Das Interesse an Mikrofossilien schien zu schwinden
 date_end: 1921-12-31T11:00:00.000Z
 published: false
 title: Micropaleontological Evolutionary Dead Ends
-updated: 1641549678704
+updated: 1641814741528
 id: 3494384f-3283-4c05-afda-b3d90e748325
 translators:
   translator_en_de: ""
@@ -19,7 +19,7 @@ desc_de: Als die Mikropaläontologie im 19. Jahrhundert Gestalt annahm, schien
   Mikrofossilien im Laufe der geologischen Zeit kaum verändert hatten.
 short_desc: Das Interesse an Mikrofossilien schien abzuklingen
 cover_image:
-  image: /images/cover-dead-ends-bathybius_haeckelii_haeckel_1870_2.jpg
+  image: /images/cover-dead-ends-bathybius.jpg
   alt: "A lithographic illustration of Bathybius haeckelii. Lithographische
     Illustration von Bathybius haeckelii. Source: Ernst Haeckel, 1870."
 colour_scheme: 5

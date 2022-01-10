@@ -9,7 +9,7 @@
         Learn more about the unexpected connections between some of Berlin’s most beloved animals as well as less charismatic and famous specimens by browsing through our <span class="theme tao_type">Themes</span>, <span class="story tao_type">Stories</span> and <span class="material tao_type">Materials</span>. Themes are big-picture topics that bring together many stories, which in turn weave together anecdotes, practices, and materials – the specific things, documents, and moments that mark the transformations of animals into objects.
       </p>
       <Cascade :articles="rngArticles" />
-      <text-button linkto="/articles">View All Articles</text-button>
+      <text-button linkto="/articles">View all articles</text-button>
     </section>
 
     <!-- <section class="routes">
