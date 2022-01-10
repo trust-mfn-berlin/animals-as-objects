@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Putting Animals on Display
 title_de: Tiere zur Schau stellen
 created: 1618572893774
-updated: 1641818981550
+updated: 1641823191518
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 author: Clemens Maier-Wolthausen
 translators:
@@ -63,7 +63,7 @@ The legislature thus distinguishes zoos from circuses and pet shops while simult
 
 In premodern times and up into the period of absolutism, the main reason for keeping wildlife was to privately entertain rulers or to flaunt their power.[^1] Conversely, the zoos founded over the course of the 19th century, claimed that they were serving other purposes. The Bronx Zoo was intended to serve as a breeding facility for endangered American animals and London Zoo as a site of scientific research.[^2]
 
-Martin Hinrich Lichtenstein was the founding director of Berlin’s zoo, the oldest in Germany, as well as director of the Zoological Museum and Professor of Zoology at Berlin University. Lichtenstein applied to the Prussian King Frederick William IV to establish an “institution” (“Anstalt”) that would be tasked with “breeding and proliferating beautiful and useful animals, [and] refining our domestic animals”.
+Martin Hinrich Lichtenstein was the founding director of Berlin’s zoo, the oldest in Germany, as well as director of the Zoological Museum and Professor of Zoology at Berlin University. Lichtenstein applied to the Prussian King Frederick William IV to establish an “institution” (Anstalt) that would be tasked with “breeding and proliferating beautiful and useful animals, [and] refining our domestic animals”.
 
 >“Satisfying the inquisitiveness and curiosity of the people \[…] would thus be merely a secondary purpose, but not an insignificant one, because it is precisely by fulfilling this purpose that it will be possible to ensure its permanent existence in and through itself.”[^3]
 
@@ -71,12 +71,9 @@ Exhibiting and looking at live animals was, as these words make clear, merely a 
 
 >“The association tasks itself with maintaining and completing the collection of live animals at the zoological garden, with promoting scientific observation and examination, as well as artistic studies in the field of zoology, and with disseminating scientific knowledge, namely by encouraging the instruction of youth.”[^4]
 
-**The zoo now had a myriad of purposes to fulfil.** In 2012, about 170 years after the first German zoo was opened in Berlin, the Association of German Zoo Directors (Verband Deutscher Zoodirektoren) (now the German Association of Zoological Gardens – Verband der zoologischen Gärten) described the main tasks of zoos in reference to the biologist Heini Hediger as:
+**The zoo now had a myriad of purposes to fulfil.** In 2012, about 170 years after the first German zoo was opened in Berlin, the Association of German Zoo Directors (Verband Deutscher Zoodirektoren), now the German Association of Zoological Gardens (Verband der zoologischen Gärten), described the main tasks of zoos in reference to the biologist Heini Hediger as:
 
-– recreation
-– teaching and education
-– research and
-– conservation[^5]
+recreation – teaching and education – research and – conservation.[^5]
 
 Hediger, a zoologist and director of the zoos in Bern, Basel, and Zurich, had established the field of zoo biology after the end of the Second World War. Conservation for him meant breeding species that were threatened in their own habitats.[^6]
 
