@@ -50,15 +50,17 @@ export default {
       try{
         const res = await this.$axios.get(`/common?route=${this.$route.params.slug}`);
 
+        if(res.data.followingRoutes){
+
+        
         var sortedRoutes = res.data.followingRoutes.sort((a, b) => (a.count > b.count) ? 1 : -1);
         
         const length = sortedRoutes.length;
         const pool = 2;
 
-        console.log('common routes sorted',sortedRoutes);
-
-        console.log('least', sortedRoutes.slice(0, pool));
-        console.log('most', sortedRoutes.slice(length-pool, sortedRoutes.length));
+        // console.log('common routes sorted',sortedRoutes);
+        // console.log('least', sortedRoutes.slice(0, pool));
+        // console.log('most', sortedRoutes.slice(length-pool, sortedRoutes.length));
 
         var most, least;
 
@@ -77,6 +79,7 @@ export default {
         this.$store.commit('setMostCommonRoutes', most);
         this.$store.commit('setLeastCommonRoutes', least);
         // console.log('common routes', res)
+        }
       }
       catch (error) {
         console.log(error)
