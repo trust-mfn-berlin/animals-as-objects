@@ -77,7 +77,8 @@ export default {
   }
 
   p.citation{
-    margin: @space-m 0;
+    margin: @space-l @space-m @space-l 0;
+    line-height: 1.4;
   }
   
   .close{
