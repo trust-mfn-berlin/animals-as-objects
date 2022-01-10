@@ -1,6 +1,13 @@
 ---
-id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
+license: CC BY-SA
 title: Putting Animals on Display
+title_de: Tiere zur Schau stellen
+created: 1618572893774
+updated: 1641815786921
+id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
+author: Clemens Maier-Wolthausen
+translators:
+  translator_de_en: Lydia J. White
 desc: |-
   Zoos justifications for keeping animals and putting them on display have
   changed a great deal through the centuries, from recreation for urban
@@ -9,32 +16,24 @@ desc: |-
   preceded by a taxonomically structured zoo that placed far more value on the
   completeness of its order than on the quality of the conditions in which
   animals were kept.
-updated: 1640910421595
-created: 1618572893774
-license: CC BY-SA
-title_de: Tiere zurschaustellen
-author: Clemens Maier-Wolthausen
-short_desc_de: Wie und warum stellen Zoos Tiere aus?
-date_end: 2021-08-27T23:01:33.091Z
-published: false
-translators:
-  translator_de_en: Lydia J. White
-desc_de: |-
-  Die Begründungen von Zoos, warum sie Tiere halten und zur Schau
-  stellen, haben sich über die Jahrhunderte stark gewandelt, von Erholung der
-  Stadtbevölkerung über Forschung bis hin zu Artenschutz. Dem heute typischen,
-  geographisch geordneten Berliner Zoo mit exotisierender Architektur ging ein
-  taxonomisch geordneter Zoo voraus, der die Vollständigkeit der Ordnung weitaus
-  bedeutsamer bewertete als die Qualität der Haltungsbedingungen.
+desc_de: Die Begründungen von Zoos, warum sie Tiere halten und zur Schau
+  stellen, haben sich über die Jahrhunderte stark gewandelt, von Erholung
+  derStadtbevölkerung über Forschung bis hin zu Artenschutz. Dem heute
+  typischen,geographisch geordneten Berliner Zoo mit exotisierender Architektur
+  ging eintaxonomisch geordneter Zoo voraus, der die Vollständigkeit der Ordnung
+  weitaus bedeutsamer bewertete als die Qualität der Haltungsbedingungen.
 short_desc: How and why do zoos put animals on display?
+short_desc_de: Wie und warum stellen Zoos Tiere aus?
 cover_image:
   image: /images/showing-animals-berlin-zoo-antilopenhaus-around-1920.jpg
   alt: |-
     Antilopenhaus um 1920 im Berliner Zoo. Antelope building around 1920 in
     the Berlin zoo. Source: AZGB. All rights reserved.
+colour_scheme: 1
 tao_type: theme
 date_start: 1843-12-31T23:06:32.000Z
-colour_scheme: 1
+date_end: 2021-08-27T23:01:33.091Z
+published: false
 ---
 
 :::EN:::
@@ -360,6 +359,7 @@ Das Ausstellen und das Anschauen von lebenden Tieren waren in diesen Worten nur 
 **Der Zoo hatte nun schon eine Vielfalt von Zwecken zu erfüllen.** Der Verband Deutscher Zoodirektoren (heute Verband der zoologischen Gärten) beschrieb 2012, noch etwa 170 Jahre nach der Eröffnung des ersten deutschen Zoos in Berlin, die Hauptaufgaben der Zoos unter Berufung auf den Biologen Heini Hediger als:
 
 – Erholung
+
 – Belehrung und Bildung
 – Forschung und
 – Naturschutz.[^5]
