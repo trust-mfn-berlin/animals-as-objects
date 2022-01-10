@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Putting Animals on Display
 title_de: Tiere zur Schau stellen
 created: 1618572893774
-updated: 1641823191518
+updated: 1641823247581
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 author: Clemens Maier-Wolthausen
 translators:
@@ -73,7 +73,7 @@ Exhibiting and looking at live animals was, as these words make clear, merely a 
 
 **The zoo now had a myriad of purposes to fulfil.** In 2012, about 170 years after the first German zoo was opened in Berlin, the Association of German Zoo Directors (Verband Deutscher Zoodirektoren), now the German Association of Zoological Gardens (Verband der zoologischen Gärten), described the main tasks of zoos in reference to the biologist Heini Hediger as:
 
-recreation – teaching and education – research and – conservation.[^5]
+recreation – teaching and education – research – conservation.[^5]
 
 Hediger, a zoologist and director of the zoos in Bern, Basel, and Zurich, had established the field of zoo biology after the end of the Second World War. Conservation for him meant breeding species that were threatened in their own habitats.[^6]
 
