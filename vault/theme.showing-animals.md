@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Putting Animals on Display
 title_de: Tiere zur Schau stellen
 created: 1618572893774
-updated: 1641826044868
+updated: 1641830332504
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 author: Clemens Maier-Wolthausen
 translators:
@@ -207,7 +207,7 @@ Now let us come to the final point on Hediger’s list: nature or wildlife conse
 
 ## Wildlife Conservation – Adjustments and Objectives
 
-As previously mentioned, the Bronx Zoo was founded in 1899 to breed endangered American animals, but soon transformed into a leisure facility.[^23] For a long time, it was rare to find animals bred in captivity, and in Berlin they were viewed as achievements of zookeeping or as affordable enrichments to the animal collection. In 1923, Europe’s zoos then founded the first breeders’ community in the form of the _Society for the Preservation of the Wisent_. And the wisent breed registry did in fact make it possible to protect this species from [[extinction|story.zoos-and-conservation]]. In the 1960s, more such breed registries were introduced in North America and Europe.
+As previously mentioned, the Bronx Zoo was founded in 1899 to breed endangered American animals, but soon transformed into a leisure facility.[^23] For a long time, it was rare to find animals bred in captivity, and in Berlin they were viewed as achievements of zookeeping or as affordable enrichments to the animal collection. In 1923, Europe’s zoos then founded the first breeders’ community in the form of the Society for the Preservation of the Wisent. And the wisent breed registry did in fact make it possible to protect this species from [[extinction|story.zoos-and-conservation]]. In the 1960s, more such breed registries were introduced in North America and Europe.
 
 <figure>
 
@@ -215,13 +215,13 @@ As previously mentioned, the Bronx Zoo was founded in 1899 to breed endangered A
 
 <figcaption>
 
-_Reintroduction of a bison, probably at the Schorfheide Game Reserve, around 1930. (AZGB. All rights reserved)_
+_Reintroduction of a bison, probably at the Schorfheide Game Reserve, around 1930. (AZGB. All rights reserved.)_
 
 </figcaption>
 
 </figure>
 
-While for Hediger breeding to preserve a species was just one of four reasons for running a zoo, a paper given by the director of the Rotterdam Zoo, Dick von Dam, at the 1980 conference of the International Union of Directors of Zoological Gardens put the exhibition and breeding of endangered species at the forefront of future zoo strategies for the first time. **In his paper, “The Future of Zoological Gardens”, van Dam explained that the breeding of endangered species in human captivity had to become one of zoos’ central purposes.** He viewed the financial and legal difficulties of procuring new animals imposed by the 1973 Washington Convention on International Trade in Endangered Species of Wild Fauna and Flora as the most important reason for doing so. **In his reading, breeding animals in zoos would ensure that the zoos’ own collections maintained their appeal.**[^24] In 1993, the director of Cologne Zoo also claimed that the Washington Convention was the reason that zoos were being forced to become “self-suppliers” when it came to visually appealing but endangered animals.[^25] And in fact, from the late 1980s on, the significance attributed by zoos to wildlife conservation in their self-understandings but also in their external communications increased. In 1994, a book was published to mark the anniversary of Berlin Zoo with the title _Noah’s Ark on the Spree_.
+While for Hediger breeding to preserve a species was just one of four reasons for running a zoo, a paper given by the director of the Rotterdam Zoo, Dick van Dam, at the 1980 conference of the International Union of Directors of Zoological Gardens put the exhibition and breeding of endangered species at the forefront of future zoo strategies for the first time. **In his paper, “The Future of Zoological Gardens”, van Dam explained that the breeding of endangered species in human captivity had to become one of zoos’ central purposes.** He viewed the financial and legal difficulties of procuring new animals imposed by the 1973 Washington Convention on International Trade in Endangered Species of Wild Fauna and Flora as the most important reason for doing so. **In his reading, breeding animals in zoos would ensure that the zoos’ own collections maintained their appeal.**[^24] In 1993, the director of Cologne Zoo also claimed that the Washington Convention was the reason that zoos were being forced to become “self-suppliers” when it came to visually appealing but endangered animals.[^25] And in fact, from the late 1980s on, the significance attributed by zoos to wildlife conservation in their self-understandings but also in their external communications increased. In 1994, a book was published to mark the anniversary of Berlin Zoo with the title _Noah’s Ark on the Spree_.
 
 <figure>
 
@@ -229,7 +229,7 @@ While for Hediger breeding to preserve a species was just one of four reasons fo
 
 <figcaption>
 
-_Heinz-Georg Klös_ Noah’s Ark on the Spree _Berlin: FAB Verlag, 1994._
+_Heinz-Georg Klös_ Noah’s Ark on the Spree, _Berlin: FAB Verlag, 1994._
 
 </figcaption>
 
@@ -237,7 +237,7 @@ _Heinz-Georg Klös_ Noah’s Ark on the Spree _Berlin: FAB Verlag, 1994._
 
 One way to convey the topic of wildlife conservation and habitat protection in zoological gardens to a broad public is to draw on ‘animals with appeal’, i.e., animals that attract large crowds. Their enclosures are places where large groups of people can be addressed. These animals generally include the pachyderms, the big cats, and the ‘cute’ animals.[^26] The hope is that interest in these animals, together with the associated information, will stir visitors’ interest in their habitats and their conservation. Moreover, the idea is that these animals will generate the income that will make it possible to show less appealing but more endangered species. **From the perspective of zoos, the flagship species are ideal in this regard. In zoo biology, these are endangered species with high appeal, and protecting them makes it possible to protect many other animal species that share a habitat with them.**[^27] Zoo critics, however, point out that, in terms of numbers, there have been few successful reintroductions of zoo animals to the wild and that, in their opinion, zoos are putting only small sums into local wildlife conservation programmes. They also doubt that zoos’ educational offerings about endangered animals have any real effect on visitors.[^28] Institutions like the [German Species Protection Foundation (Stiftung Artenschutz)](https://www.stiftung-artenschutz.de/), which is funded by Germany’s zoological gardens, refute this and point to their successes. 
 
-In 1999, the European Union passed a zoo directive.[^29] Significantly, it no longer mentions recreation as one of the purposes of a zoo, only education and wildlife conservation research, which also includes captive breeding. Although the world conservation strategy of the World Association of Zoos and Aquariums (WAZA) mentions zoos as spaces of recreation, it focuses almost exclusively on their role as centres for nature and wildlife conservation.[^30] Today, in light of species extinctions, the more than 300 zoos that make up the WAZA describe themselves as centres for wildlife conservation. The only goals for zoos named in the organisation’s constitution, passed in 2010, are: environmental education, wildlife conservation, and environmental research.[^31]
+In 1999, the European Union passed a zoo directive.[^29] Significantly, it no longer mentions recreation as one of the purposes of a zoo, only education and wildlife conservation research, which also includes captive breeding. Although the world conservation strategy of the World Association of Zoos and Aquariums (WAZA) mentions zoos as spaces of recreation, it focuses almost exclusively on their role as centres for nature and wildlife conservation.[^30] Today, in light of species extinctions, the more than 300 zoos that make up the WAZA describe themselves as centres for wildlife conservation. The only goals for zoos named in the organization’s constitution, passed in 2010, are: environmental education, wildlife conservation, and environmental research.[^31]
 
 **The strategic communications of zoos are increasingly focusing on wildlife conservation. This is having an impact on visitors.** A Forsa study commissioned by the German Association of Zoological Gardens in 2020 entitled “The Germans and their Zoos” found that the population generally approves of zoological gardens.[^32] In response to the question about the purpose of a zoo, the idea of the zoo as a space of recreation, which had been around since the earliest days of zoo history, was not presented as an option. Instead, most of those surveyed said that preserving biological diversity by keeping and breeding endangered species was an especially important task for zoos – a task that, at least in Berlin, played a role during the founding of neither Berlin Zoo nor Tierpark Berlin. 
 
@@ -532,70 +532,70 @@ In einer Zeit, in der visuelle Medien den Zugang zum Leben wildlebender Tiere in
 
 >“Als zentraler Identitätsmarker für Zoos eignet sich lediglich die Hediger-Säule ‘Erholung’. Da diese Vorgabe auf menschliche Interessen zielt, bleiben Zoos das, was sie schon immer waren: Unterhalt[ung]sbetriebe, in denen wilde Tiere – wie das Bundesnaturschutzgesetz trocken formuliert – ‘zwecks Zurschaustellung’ eingesperrt sind.”[^34]
 
-[^1]: Einführend zur Geschichte der Zootierhaltung, vgl. Kisling, Vernon N. Jr. “Ancient Collections and Menageries”. In _Zoo and Aquarium History. Ancient Animal Collections to Zoological Gardens_, hg. von Vernon N. Kisling Jr. Boca Raton/London/New York/Washington D.C.: CRC Press, 2001: 1-47.
+[^1]: Einführend zur Geschichte der Zootierhaltung, vgl. Kisling, Vernon N. Jr. “Ancient Collections and Menageries”. In _Zoo and Aquarium History: Ancient Animal Collections to Zoological Gardens_, Vernon N. Kisling Jr (Hg.). Boca Raton: CRC Press, 2001: 1-47.
 
-[^2]: Hanson, Elizabeth. _Animal Attractions: Nature on Display in American Zoos_. Princeton, N.J: Princeton University Press, 2002: 46; vgl. auch Blunt, Wilfrid. _The Ark in the Park. The Zoo in the Nineteenth Century_. London: Hamish Hamilton, 1976: 25.
+[^2]: Hanson, Elizabeth. _Animal Attractions: Nature on Display in American Zoos_. Princeton, N.J: Princeton University Press, 2002: 46; vgl. auch Blunt, Wilfrid. _The Ark in the Park: The Zoo in the Nineteenth Century_. London: Hamish Hamilton, 1976: 25.
 
-[^3]: Zitiert nach Klös, Heinz-Georg. _Von der Menagerie zum Tierparadies. 125 Jahre Zoo Berlin_. Berlin: Haude & Spenersche Verlagsbuchhandlung, 1969: 28.
+[^3]: Zitiert nach Klös, Heinz-Georg. _Von der Menagerie zum Tierparadies: 125 Jahre Zoo Berlin_. Berlin: Haude & Spenersche Verlagsbuchhandlung, 1969: 28.
 
 [^4]: Kopie Statut des Actien-Vereins des Zoologischen Gartens zu Berlin (Fassung vom 14. Mai 1869), Sammlung des Archivs der Zoologischen Gärten Berlin.
 
-[^5]: Peter Dollinger und Verband Deutscher Zoodirektoren, Hg. _Gärten für Tiere – Erlebnisse für Menschen: Die Zoologischen Gärten des VDZ; 125 Jahre Verband Deutscher Zoodirektoren e.V._, 1. Aufl. Köln: Bachem, 2012: 19.
+[^5]: Peter Dollinger und Verband Deutscher Zoodirektoren, Hg. _Gärten für Tiere: Erlebnisse für Menschen: Die Zoologischen Gärten des VDZ; 125 Jahre Verband Deutscher Zoodirektoren e.V._, 1. Aufl. Köln: Bachem, 2012: 19.
 
 [^6]: Hediger, Heini. “Bedeutung und Aufgaben der Zoologischen Gärten”._Vierteljahresschrift der Naturforschenden Gesellschaft in Zürich_ 18 (1973): 319-328, 327.
 
-[^7]: Wessely, Christina. _Künstliche Tiere. Zoologische Gärten und urbane Moderne_. Kaleidogramme. Berlin: Kulturverlag Kadmos, 2008: 38.
+[^7]: Wessely, Christina. _Künstliche Tiere: Zoologische Gärten und urbane Moderne_. Berlin: Kulturverlag Kadmos, 2008: 38.
 
-[^8]: Baratay, Eric. “Theater des ‘Wilden’: Zoologische Gärten in der Zeit August Gauls”. In _August Gaul. Moderne Tiere_, hg. von K. Lee Chichester, Nina Zimmer und Kunstmuseum Bern. München: Hirmer, 2021: 45-58, 49.
+[^8]: Baratay, Eric. “Theater des ‘Wilden’: Zoologische Gärten in der Zeit August Gauls”. In _August Gaul: Moderne Tiere_, K. Lee Chichester, Nina Zimmer und Kunstmuseum Bern (Hg.). München: Hirmer, 2021: 45-58, 49.
 
-[^9]: Klös, Ursula, Harro Strehlow, und Werner Synakiewicz. _Der Berliner Zoo im Spiegel seiner Bauten: 1841-1989; Eine baugeschichtliche und denkmalpflegerische Dokumentation über den Zoologischen Garten Berlin_, hg. von Heinz-Georg Klös und Ursula Klös, 2. Aufl. Berlin: Heenemann, 1990, 171ff.
+[^9]: Klös, Ursula, Harro Strehlow und Werner Synakiewicz. _Der Berliner Zoo im Spiegel seiner Bauten: 1841-1989; Eine baugeschichtliche und denkmalpflegerische Dokumentation über den Zoologischen Garten Berlin_, Heinz-Georg Klös und Ursula Klös (Hg.), 2. Aufl. Berlin: Heenemann, 1990, 171ff.
 
 [^10]: von Zobeltitz, Fedor. “Wie man im Zoologischen Garten isst und trinkt”. _Moderne Kunst_ XVIII, Nr. 2 (um 1900): 5-8.
 
-[^11]: Wessely, Christina. _Künstliche Tiere. Zoologische Gärten und urbane Moderne_. Kaleidogramme. Berlin: Kulturverlag Kadmos, 2008: 100, 102.
+[^11]: Wessely, 2008: 100, 102.
 
-[^12]: Klös, Ursula, Harro Strehlow und Werner Synakiewicz. _Der Berliner Zoo im Spiegel seiner Bauten: 1841-1989; Eine baugeschichtliche und denkmalpflegerische Dokumentation über den Zoologischen Garten Berlin_, hg. von Heinz-Georg Klös und Ursula Klös. Berlin: Heenemann, 1990: 95; sowie Maier-Wolthausen, Clemens. _Hauptstadt der Tiere. Die Geschichte des ältesten deutschen Zoos_, hg. von Andreas Knieriem. Berlin: Ch. Links Verlag, 2019: 52.
+[^12]: Klös, Strehlow, Synakiewicz. 1990: 95; sowie Maier-Wolthausen, Clemens. _Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos_, Andreas Knieriem (Hg.). Berlin: Ch. Links Verlag, 2019: 52.
 
-[^13]: Wessely, Christina. _Künstliche Tiere. Zoologische Gärten und urbane Moderne_, Kaleidogramme. Berlin: Kulturverlag Kadmos, 2008: 90, 105.
+[^13]: Wessely, 2008: 90, 105.
 
-[^14]: Penn, Laura, Markus Gusset, und Gerald Dick. _77 Years: The History and Evolution of the World Association of Zoos and Aquariums, 1935-2012_, hg. von World Association of Zoos and Aquariums. Gland, Switzerland: World Association of Zoos and Aquariums (WAZA), 2012: 144.
+[^14]: Penn, Laura, Markus Gusset und Gerald Dick. _77 Years: The History and Evolution of the World Association of Zoos and Aquariums, 1935-2012_, World Association of Zoos and Aquariums (Hg.). Gland, Switzerland: World Association of Zoos and Aquariums (WAZA), 2012: 144.
 
-[^15]: Zoologischer Garten Rostock: Voreinladung, Januar 1969, AZGB, O 1/2/185; Haikal, Mustafa, und Winfried Gensch. _Der Gesang des Orang-Utans: Die Geschichte des Dresdner Zoos_. Dresden: Ed. Sächs. Zeitung, 2011: 109; Klös, Heinz-Georg, Hans Frädrich und Ursula Klös. _Die Arche Noah an der Spree: 150 Jahre Zoologischer Garten Berlin; Eine tiergärtnerische Kulturgeschichte von 1844-1994_. Berlin: FAB Verlag, 1994: 415; Dittrich, Lothar. “Menschen im Zoo”. In _Berichte aus der Arche_., hg. von Dieter Poley. Stuttgart: Georg Thieme Verlag, 1993: 140; Pies-Schulz-Hofen, Robert. “Die Berliner Zooschule”. _Bongo_ 12 (1987): 59-66.
+[^15]: Zoologischer Garten Rostock: Voreinladung, Januar 1969, AZGB, O 1/2/185; Haikal, Mustafa, und Winfried Gensch. _Der Gesang des Orang-Utans: Die Geschichte des Dresdner Zoos_. Dresden: Ed. Sächs. Zeitung, 2011: 109; Klös, Heinz-Georg, Hans Frädrich und Ursula Klös. _Die Arche Noah an der Spree: 150 Jahre Zoologischer Garten Berlin; Eine tiergärtnerische Kulturgeschichte von 1844-1994_. Berlin: FAB Verlag, 1994: 415; Dittrich, Lothar. “Menschen im Zoo”. In _Berichte aus der Arche_., Dieter Poley (Hg.). Stuttgart: Georg Thieme Verlag, 1993: 140; Pies-Schulz-Hofen, Robert. “Die Berliner Zooschule”. _Bongo_ 12 (1987): 59-66.
 
 [^16]: Zoologischer Garten Berlin AG und Tierpark Berlin-Friedrichsfelde GmbH. _Geschäftsbericht 2019_. Berlin: 2020: 22, 116.
 
-[^17]: Ludwig Heck, _Heiter-ernste Lebensbeichte. Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag, 1938.
+[^17]: Ludwig Heck, _Heiter-ernste Lebensbeichte: Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag, 1938.
 
-[^18]: Angermann, Renate. “Anna Held, Paul Matschie und die Säugetiere des Berliner Zoologischen Gartens”. _Bongo_ 24 (1994): 107-138; Oppermann, Joachim. “Tod und Wiedergeburt. Über das Schicksal berühmter Berliner Zootiere”. _Bongo_ 24 (1994): 51-84.
+[^18]: Angermann, Renate. “Anna Held, Paul Matschie und die Säugetiere des Berliner Zoologischen Gartens”. _Bongo_ 24 (1994): 107-138; Oppermann, Joachim. “Tod und Wiedergeburt: Über das Schicksal berühmter Berliner Zootiere”. _Bongo_ 24 (1994): 51-84.
 
 [^19]: Vgl. Schulze-Hagen, Karl. _Die Vogel-WG: Die Heinroths, ihre 1000 Vögel und die Anfänge der Verhaltensforschung_. München: Knesebeck, 2020.
 
 [^20]: Beispiele für institutionalisierte Forschung an Zootieren finden sich in Berlin am Institut für Zoo- und Wildtierforschung und an der Stiftungsprofessur Zootierbiologie am Fachbereich Biowissenschaften der Goethe-Universität Frankfurt. Ersteres geht auf eine Fakultät der Akademie der Wissenschaften der DDR zurück und war immer auf dem Gelände des Tierparks angesiedelt, Zweiteres ist 2014 von Opel Hessische Zoostiftung initiiert worden.
 
-[^21]: Hediger, Heini. _Mensch und Tier im Zoo: Tiergarten-Biologie_. Rüschlikon-Zürich/Stuttgart/Wien: Albert Müller, 1965: 62.
+[^21]: Hediger, Heini. _Mensch und Tier im Zoo: Tiergarten-Biologie_. Rüschlikon-Zürich: Albert Müller, 1965: 62.
 
 [^22]: Der Forschungsplan und die Korrespondenz mit dem Ministerium für Kultur der DDR findet sich in: Bundesarchiv Berlin-Lichterfelde, DR 1/5700.
 
-[^23]: Hanson, Elizabeth. _Animal Attractions: Nature on Display in American Zoos_. Princeton, N.J: Princeton University Press, 2002: 46; vgl. auch Blunt, Wilfrid. _The Ark in the Park. The Zoo in the Nineteenth Century_. London: Hamish Hamilton, 1976: 25.
+[^23]: Hanson, Elizabeth. _Animal Attractions: Nature on Display in American Zoos_. Princeton, N.J: Princeton University Press, 2002: 46; vgl. auch Blunt, 1976: 25.
 
-[^24]: Penn, Laura, Markus Gusset und Gerald Dick. _77 Years: The History and Evolution of the World Association of Zoos and Aquariums, 1935-2012_, hg. von World Association of Zoos and Aquariums. Gland, Switzerland: World Association of Zoos and Aquariums (WAZA), 2012: 168; sowie van Dam, Dick. “The Future of Zoological Gardens”. _IUDZG_, Minutes and Proceedings of the 35th Annual Conference Held from October 13-18 1980 (AZGB, V 5/64).
+[^24]: Penn, Gusset, Dick. 2012: 168; sowie van Dam, Dick. “The Future of Zoological Gardens”. _IUDZG_, Minutes and Proceedings of the 35th Annual Conference Held from October 13-18 1980 (AZGB, V 5/64).
 
-[^25]: Nogge, Gunter. “Arche Zoo: Vom Tierfang zum Erhaltungszuchtprogramm”. In _Berichte aus der Arche_, hg. von Dieter Poley. Stuttgart: Georg Thieme Verlag, 1993: 80.
+[^25]: Nogge, Gunter. “Arche Zoo: Vom Tierfang zum Erhaltungszuchtprogramm”. In _Berichte aus der Arche_, Dieter Poley (Hg.). Stuttgart: Georg Thieme Verlag, 1993: 80.
 
-[^26]: Meier, Jürg. _Handbuch Zoo: Moderne Tiergartenbiologie_, 1. Auflage. Bern/Stuttgart/Wien: Haupt Verlag, 2009: 115-120.
+[^26]: Meier, Jürg. _Handbuch Zoo: Moderne Tiergartenbiologie_, 1. Auflage. Bern: Haupt Verlag, 2009: 115-120.
 
-[^27]: Hübner, Stefan. “‘Die afrikanischen Elefanten sind unser Flaggschiff’. Thomas Kauffels erzählt von der Geschichte des Opel-Zoos”. _Hessischer Rundfunk_, 03.02.2021, https://www.hr2.de/podcasts/doppelkopf/die-afrikanischen-elefanten-sind-unser-flaggschiff--thomas-kauffels-erzaehlt-von-der-geschichte-des-opel-zoos,podcast-episode-82032.html (16.08.2021). Zur Definition von Flaggschiffarten, vgl. Meier, Jürg. _Handbuch Zoo: Moderne Tiergartenbiologie_, 1. Auflage. Bern/Stuttgart/Wien: Haupt Verlag, 2009: 121.
+[^27]: Hübner, Stefan. “‘Die afrikanischen Elefanten sind unser Flaggschiff’: Thomas Kauffels erzählt von der Geschichte des Opel-Zoos”. _Hessischer Rundfunk_, 03.02.2021, https://www.hr2.de/podcasts/doppelkopf/die-afrikanischen-elefanten-sind-unser-flaggschiff--thomas-kauffels-erzaehlt-von-der-geschichte-des-opel-zoos,podcast-episode-82032.html (16.08.2021). Zur Definition von Flaggschiffarten, vgl. Meier, 2009: 121.
 
 [^28]: Vgl. beispielsweise Sommer, Volker. “Ein Etikettenschwindel”. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 35-38; Mullan, Bob und Garry Marvin. _Zoo Culture_, 2. Aufl. Urbana, Chicago: University of Illinois Press, 1999; oder Sezgin, Hilal. _Artgerecht ist nur die Freiheit: Eine Ethik für Tiere oder warum wir umdenken müssen_. München: Verlag C.H. Beck, 2014.
 
 [^29]: “Richtlinie 1999/22/EG des Rates vom 29. März 1999 über die Haltung von Wildtieren im Zoo”. _Amtsblatt der Europäischen Gemeinschaften_, 09.04.1999, https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:1999:094:0024:0026:DE:PDF (11.08.2021).
 
-[^30]: Verband Deutscher Zoodirektoren e.V. “Wer Tiere kennt, wird sie schützen. Die Welt-Zoo-Naturschutzstrategie im deutschsprachigen Raum”. _WAZA_, 2006, https://www.waza.org/wp-content/uploads/2019/03/marketing_brochure_german.pdf (27.08.2021); sowie Weltverband der Zoos und Aquarien. “Zoos und Aquarien für Naturschutz. Die Welt-Zoo- und Aquarium-Naturschutzstrategie”. _WAZA_, 2005, https://www.waza.org/wp-content/uploads/2019/03/WZACS_D.pdf (27.08.2021).
+[^30]: Verband Deutscher Zoodirektoren e.V. “Wer Tiere kennt, wird sie schützen: Die Welt-Zoo-Naturschutzstrategie im deutschsprachigen Raum”. _WAZA_, 2006, https://www.waza.org/wp-content/uploads/2019/03/marketing_brochure_german.pdf (27.08.2021); sowie Weltverband der Zoos und Aquarien. “Zoos und Aquarien für Naturschutz: Die Welt-Zoo- und Aquarium-Naturschutzstrategie”. _WAZA_, 2005, https://www.waza.org/wp-content/uploads/2019/03/WZACS_D.pdf (27.08.2021).
 
-[^31]: Penn, Laura, Markus Gusset und Gerald Dick. _77 Years: The History and Evolution of the World Association of Zoos and Aquariums, 1935-2012_, hg. von World Association of Zoos and Aquariums. Gland, Switzerland: World Association of Zoos and Aquariums (WAZA), 2012: 168.
+[^31]: Penn, Gusset, Dick. 2012: 168.
 
-[^32]: Verband der Zoologischen Gärten e.V. “Die Deutschen und ihre Zoos – Ergebnisse der Forsa Studie”. _VDZ_, 2020, https://www.vdz-zoos.org/fileadmin/PMs/2020/VdZ/Forsa-Broschuere_Die_Deutschen_und_ihre_Zoos.pdf (27.08.2021).
+[^32]: Verband der Zoologischen Gärten e.V. “Die Deutschen und ihre Zoos: Ergebnisse der Forsa Studie”. _VDZ_, 2020, https://www.vdz-zoos.org/fileadmin/PMs/2020/VdZ/Forsa-Broschuere_Die_Deutschen_und_ihre_Zoos.pdf (27.08.2021).
 
-[^33]: Wessely, Christina. _Künstliche Tiere. Zoologische Gärten und urbane Moderne_. Kaleidogramme. Berlin: Kulturverlag Kadmos, 2008: 37.
+[^33]: Wessely, 2008: 37.
 
-[^34]: Sommer, Volker. “Ein Etikettenschwindel”. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 38.
+[^34]: Sommer, 2021: 38.
