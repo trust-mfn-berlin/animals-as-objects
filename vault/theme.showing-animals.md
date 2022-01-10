@@ -9,7 +9,7 @@ desc: |-
   preceded by a taxonomically structured zoo that placed far more value on the
   completeness of its order than on the quality of the conditions in which
   animals were kept.
-updated: 1640910421595
+updated: 1641815786921
 created: 1618572893774
 license: CC BY-SA
 title_de: Tiere zurschaustellen
@@ -360,6 +360,7 @@ Das Ausstellen und das Anschauen von lebenden Tieren waren in diesen Worten nur 
 **Der Zoo hatte nun schon eine Vielfalt von Zwecken zu erfüllen.** Der Verband Deutscher Zoodirektoren (heute Verband der zoologischen Gärten) beschrieb 2012, noch etwa 170 Jahre nach der Eröffnung des ersten deutschen Zoos in Berlin, die Hauptaufgaben der Zoos unter Berufung auf den Biologen Heini Hediger als:
 
 – Erholung
+
 – Belehrung und Bildung
 – Forschung und
 – Naturschutz.[^5]
