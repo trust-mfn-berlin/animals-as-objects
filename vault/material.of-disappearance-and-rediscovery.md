@@ -14,7 +14,7 @@ short_desc: The pitfalls of collecting
 short_desc_de: Tücken der Sammlungsarbeit
 cover_image:
   image: /images/waran-zmb-24220-tillack-a.jpg
-colour_scheme: 11
+colour_scheme: 6
 tao_type: material
 date_start: 1914-12-24T15:26:00.000Z
 date_end: ""

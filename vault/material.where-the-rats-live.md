@@ -14,7 +14,7 @@ short_desc: Audio stories about animals in Berlin
 short_desc_de: Audiogeschichten über Tiere in Berlin
 cover_image:
   image: /images/tiertopografien-vennen-lange.jpg
-colour_scheme: 11
+colour_scheme: 5
 tao_type: material
 date_start: 1790-01-01T16:02:39.000Z
 date_end: ""

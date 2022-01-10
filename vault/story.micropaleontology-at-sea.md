@@ -23,7 +23,7 @@ cover_image:
   alt: "JOIDES deep sea drilling vessel Glomar Challenger, 1968. JOIDES
     Tiefseebohrschiff Glomar Challenger, 1968. Source:
     https://commons.wikimedia.org/wiki/File:GlomarChallengerBW.JPG"
-colour_scheme: 15
+colour_scheme: 1
 tao_type: story
 date_start: 1949-12-31T23:00:00.000Z
 ---

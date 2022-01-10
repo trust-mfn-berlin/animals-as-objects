@@ -16,7 +16,7 @@ desc_de: "Dokumente aus dem Krieg "
 short_desc: Documents of war
 cover_image:
   image: /images/liste_tote_tiere_1943.jpg
-colour_scheme: 0
+colour_scheme: 13
 tao_type: material
 date_start: 1943-10-31T23:00:00.000Z
 ---

@@ -18,7 +18,7 @@ short_desc: Domestic animals at the zoo
 short_desc_de: Nutztiere im Zoo
 cover_image:
   image: /images/aktendeckel-landwirtschaftlicher-tierpark.jpg
-colour_scheme: 11
+colour_scheme: 14
 tao_type: material
 date_start: ""
 date_end: ""

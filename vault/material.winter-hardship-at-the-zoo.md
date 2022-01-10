@@ -19,7 +19,7 @@ cover_image:
   alt: A typewritten poem on a punched piece of paper signed "K. Ferber" with a
     red "Kurd Ferber" stamp. Schreibmaschinengeschriebenes Gedicht auf gelochtem
     Blatt mit rotem Stempel "Kurd Ferber" und grüner Unterschrift "K. Ferber".
-colour_scheme: 17
+colour_scheme: 13
 tao_type: material
 date_start: 1948-10-25T09:34:00.000Z
 ---

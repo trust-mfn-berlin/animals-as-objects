@@ -28,7 +28,7 @@ cover_image:
     with Reichstag building in the background. Gemüseanbau im abgeholzten Großen
     Tiergarten in Berlin 1946, im Hintergrund das Reichstagsgebäude. Source:
     Bundesarchiv image 183-M1015-314, photo Otto Donath."
-colour_scheme: 8
+colour_scheme: 10
 tao_type: story
 date_start: 1944-12-31T23:00:00.000Z
 ---

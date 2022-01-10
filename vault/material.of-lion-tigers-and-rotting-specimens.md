@@ -14,7 +14,7 @@ short_desc: A record contains many stories
 short_desc_de: Ein Verzeichnis enthält viele Geschichten
 cover_image:
   image: /images/cover-lions-tigers-specimens.jpg
-colour_scheme: 11
+colour_scheme: 1
 tao_type: material
 date_start: '1843-01-01T12:39:11.988Z'
 date_end: '1858-12-30T12:39:11.999Z'

@@ -14,7 +14,7 @@ short_desc: Audio stories about animals in Berlin
 short_desc_de: Audiogeschichten über Tiere in Berlin
 cover_image:
   image: /images/tiertopografien-klingner.jpg
-colour_scheme: 11
+colour_scheme: 4
 tao_type: material
 date_start: 2021-01-01T16:17:10.571Z
 date_end: ""

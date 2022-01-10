@@ -19,7 +19,7 @@ cover_image:
   alt: "Plate 59 from Haeckel’s Challenger report, 1887. Tafel 59 aus Haeckels
     Challenger-Bericht, 1887. Source:
     http://www.biolib.de/haeckel/challenger/Nassellaria/100dpi/p059.jpg"
-colour_scheme: 9
+colour_scheme: 2
 tao_type: material
 date_start: ""
 ---

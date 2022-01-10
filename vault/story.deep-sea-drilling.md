@@ -26,7 +26,7 @@ short_desc: " A global effort to collect data from the ocean-floor"
 short_desc_de: Die globale Datensammlung am Meeresgrund
 cover_image:
   image: /images/joides-resolution.jpeg
-colour_scheme: 1
+colour_scheme: 3
 tao_type: story
 date_start: 1957-12-23T17:55:00.000Z
 date_end: 2021-12-23T21:52:24.799Z

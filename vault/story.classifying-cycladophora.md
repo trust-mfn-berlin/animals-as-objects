@@ -32,7 +32,7 @@ cover_image:
     Source: Museum für Naturkunde,
     http://download.naturkundemuseum-berlin.de/Ehrenberg/
   image: /images/cover-classifying-cycladophora-index-ehrenberg.png
-colour_scheme: 5
+colour_scheme: 10
 tao_type: story
 date_start: 1858-12-31T23:06:32.000Z
 ---

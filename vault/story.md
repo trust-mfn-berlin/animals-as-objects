@@ -4,7 +4,7 @@ title: Story
 desc: ''
 updated: 1641483586778
 created: 1632908714253
-colour_scheme: 5
+colour_scheme: 15
 archived: true
 ---
 

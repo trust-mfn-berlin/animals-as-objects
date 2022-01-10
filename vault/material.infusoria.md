@@ -14,7 +14,7 @@ short_desc: An old term to refer to microorganisms
 short_desc_de: Eine alte Bezeichnung für Mikroorganismen
 cover_image:
   image: /images/amoeba.png
-colour_scheme: 5
+colour_scheme: 3
 tao_type: material
 date_start: 1763-01-01T19:50:46.071Z
 date_end: 1876-12-29T19:50:46.075Z

@@ -4,7 +4,7 @@ title: Style Guide
 desc: ''
 updated: 1641483573468
 created: 1618326133707
-colour_scheme: 17
+colour_scheme: 3
 archived: true
 ---
 

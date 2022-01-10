@@ -61,9 +61,9 @@ async function getContent(filePath, encoding = "utf-8") {
       fs.writeFile(path.join(__dirname, '..','vault', file), writeData);
     } else {
       // add reroll here
-      // const reRolled = fileData.replace(/colour_scheme: \d+/g, 'colour_scheme: ' + colourCode);
-      // console.log('rerolling..')
-      // fs.writeFile(path.join(__dirname, '..','vault', file), reRolled);
+      const reRolled = fileData.replace(/colour_scheme: \d+/g, 'colour_scheme: ' + colourCode);
+      console.log('rerolling..')
+      fs.writeFile(path.join(__dirname, '..','vault', file), reRolled);
 
       
     }

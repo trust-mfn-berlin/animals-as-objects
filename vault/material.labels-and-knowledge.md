@@ -22,7 +22,7 @@ cover_image:
     History Museum / Invaliden-Str. Vergilbte, gelochte Papierkarte mit Flecken.
     Vordruck oben: Zoologischer Garten Berlin – B5 Barbarossa 9014 / An.
     Handschriftlich: Naturkunde Museum / Invaliden-Str.
-colour_scheme: 0
+colour_scheme: 4
 tao_type: material
 date_start: '1920-01-01T10:48:28.702Z'
 ---

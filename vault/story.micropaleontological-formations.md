@@ -29,7 +29,7 @@ cover_image:
     Illustration of biostratigraphic formations. Illustration
     biostratigraphischer Formationen. Source:
     https://commons.wikimedia.org/wiki/File:Faunal_sucession.jpg
-colour_scheme: 17
+colour_scheme: 4
 tao_type: story
 date_start: 1853-12-31T23:06:32.000Z
 ---

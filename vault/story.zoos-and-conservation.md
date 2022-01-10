@@ -14,7 +14,7 @@ desc_de: Seit relativ kurzer Zeit engagieren sich Zoos auch im Artenschutz.
 short_desc: Since only a relatively short time zoos intensify their conservation eforts.
 cover_image:
   image: /images/orangs_wegweiser_1927.jpg
-colour_scheme: 0
+colour_scheme: 15
 tao_type: story
 date_start: ""
 ---

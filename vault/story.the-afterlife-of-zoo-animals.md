@@ -30,7 +30,7 @@ cover_image:
     museum. Elefantenschädel in der Säugetiersammlung des Berliner
     Naturkundemuseums. Source: Museum für Naturkunde Berlin, photo Mareike
     Vennen. All rights reserved.
-colour_scheme: 7
+colour_scheme: 10
 tao_type: story
 date_start: '1932-12-31T23:00:00.000Z'
 ---

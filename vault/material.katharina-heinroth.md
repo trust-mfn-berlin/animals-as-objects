@@ -21,7 +21,7 @@ cover_image:
     Katharina Heinroth auf ihrer morgendlichen Runde mit vier Mitarbeitern und
     dem Neufundländer "Ajax", 1946. Source: AZGB, photo Liselotte Orgel. All
     rights reserved.'
-colour_scheme: 3
+colour_scheme: 7
 tao_type: material
 date_start: 1944-12-31T23:00:00.000Z
 ---

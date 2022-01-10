@@ -23,7 +23,7 @@ cover_image:
     Transporting two giraffes, captured on colonised land in 1928. Transport
     von zwei Giraffen, 1928 auf kolonisiertem Gebiet gefangen. Source: AZGB,
     photo Lutz Heck. All rights reserved."
-colour_scheme: 2
+colour_scheme: 4
 tao_type: story
 date_start: 1844-12-31T23:06:32.000Z
 ---

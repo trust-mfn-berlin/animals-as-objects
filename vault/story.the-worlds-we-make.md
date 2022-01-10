@@ -20,7 +20,7 @@ short_desc: Horseshoe crabs in collections and laboratories
 short_desc_de: Pfeilschwanzkrebse in der Sammlung und im Labor
 cover_image:
   image: /images/zmb-arach-48487-1.jpg
-colour_scheme: 14
+colour_scheme: 13
 tao_type: story
 date_start: 1800-12-23T18:49:39.000Z
 date_end: ''

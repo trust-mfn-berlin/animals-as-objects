@@ -35,7 +35,7 @@ desc_de: |-
   geprägt wurden. Die detektivische Suche nach einem präparierten Dornhai-Embryo
   ergibt, dass das Präparat in der Lehrsammlung zu verschiedenen Zeiten unter
   den Nummern 1888, 1208 und 2488 verzeichnet worden war.
-colour_scheme: 11
+colour_scheme: 17
 ---
 
 :::EN:::

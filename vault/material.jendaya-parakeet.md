@@ -16,7 +16,7 @@ desc_de: Präparation eines Vogelbalgs im Museum für Naturkunde Berlin
 short_desc: Preparing a bird study skin at the Berlin Museum of Natural History
 cover_image:
   image: /images/jendaya-n.jpg
-colour_scheme: 11
+colour_scheme: 2
 tao_type: material
 date_start: 2020-01-01T14:56:59.900Z
 ---

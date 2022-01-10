@@ -21,7 +21,7 @@ desc_de: "Die Suche nach historischen Sammlungsobjekten bleibt manchmal
 short_desc: "Lost objects and old catalogues "
 cover_image:
   image: /images/katalog-herpetologie-ausschnitt.jpg
-colour_scheme: 14
+colour_scheme: 8
 tao_type: story
 date_start: 1843-12-31T23:50:39.000Z
 ---

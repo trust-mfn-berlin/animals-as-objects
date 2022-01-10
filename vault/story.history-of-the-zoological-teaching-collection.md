@@ -31,7 +31,7 @@ desc_de: |-
   zu Berlin zeugen von Krieg sowie von Veränderungen des Institutionsalltags,
   des wissenschaftlichen Vorgehens und der (universitäts-)politischen
   Konfliktlinien.
-colour_scheme: 11
+colour_scheme: 1
 ---
 
 :::EN:::

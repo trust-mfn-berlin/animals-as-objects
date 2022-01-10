@@ -30,7 +30,7 @@ cover_image:
   alt: "Map of telegraph cables in the North Atlantic, 1865. Karte von
     Telegrafenkabeln im Nordatlantik, 1865. Source:
     https://atlantic-cable.com/Maps/index.htm"
-colour_scheme: 12
+colour_scheme: 17
 tao_type: story
 date_start: 1858-12-31T23:06:32.000Z
 ---

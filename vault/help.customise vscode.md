@@ -4,7 +4,7 @@ title: Customising VSCode
 desc: ''
 updated: 1641483524873
 created: 1618411275436
-colour_scheme: 5
+colour_scheme: 12
 archived: true
 ---
 

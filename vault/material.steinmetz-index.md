@@ -17,7 +17,7 @@ cover_image:
   alt: "Steinmetz index card for the Berlin zoo's pygmy hippos, around 1935.
     Steinmetz-Karteikarte für die Zwergflusspferde des Berliner Zoos, um 1935.
     Source: AZGB. All rights reserved."
-colour_scheme: 5
+colour_scheme: 16
 tao_type: material
 date_start: 1919-12-31T23:00:00.000Z
 date_end: 1945-12-31T11:00:00.000Z
