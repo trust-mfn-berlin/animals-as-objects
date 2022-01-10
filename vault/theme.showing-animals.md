@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Putting Animals on Display
 title_de: Tiere zur Schau stellen
 created: 1618572893774
-updated: 1641823247581
+updated: 1641823634774
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 author: Clemens Maier-Wolthausen
 translators:
@@ -59,7 +59,7 @@ The legislature thus distinguishes zoos from circuses and pet shops while simult
 
 **There must be a reason for putting animals on display like this.** There must be grounds for keeping animals in human captivity and showing them in public. For zoological gardens and their sponsors, it is often an expensive enterprise, and they have to provide ethical justifications for keeping animals – as they had to for [[catching them|story.catching-animals]] in the past. What purposes has keeping animals in zoos served in the eyes of zoo management and visitors, both in the past and today?
 
-## Changing objectives and purposes
+## Changing Objectives and Purposes
 
 In premodern times and up into the period of absolutism, the main reason for keeping wildlife was to privately entertain rulers or to flaunt their power.[^1] Conversely, the zoos founded over the course of the 19th century, claimed that they were serving other purposes. The Bronx Zoo was intended to serve as a breeding facility for endangered American animals and London Zoo as a site of scientific research.[^2]
 
@@ -79,7 +79,7 @@ Hediger, a zoologist and director of the zoos in Bern, Basel, and Zurich, had es
 
 The following will describe the purposes of putting animals in human captivity on display that have long been accepted by most zoological gardens and reveal their reciprocal influences and trajectories. It will become evident that it is almost impossible to clearly distinguish between the perspectives and self-understandings of zoo management and visitors.
 
-## Recreation – entertainment and spectacle
+## Recreation – Entertainment and Spectacle
 
 After founding their zoological gardens, it became clear to many zoo directors – almost exclusively men up until late in the 20th century – that the throngs of visitors required to pay for the upkeep of zoos would not be coming to see native animals.
 
@@ -159,7 +159,7 @@ For the historian Christina Wessely, these buildings were “situated almost ide
 
 In 2019, 3.5 million visitors visited Berlin Zoo. The vast majority of them did not live in Berlin or Germany. Berlin Zoo, its animals, and its architecture, are very clearly part of Berlin‘s tourist infrastructure. The zoo generates its income as a leisure facility. **However, in order to legitimise a facility that keeps animals in human captivity and puts them on display, the zoo has long done away with its emphasis on recreation, which was a central factor for over 150 years.** In contrast, the zoo as a space of learning was playing a more important role in the zoo‘s communications and self-understanding by the end of the 19th century at the latest.
 
-## Education – show animals and collecting practices
+## Education – Show Animals and Collecting Practices
 
 In the nineteenth century, zoos‘ exoticising architecture was often accompanied by very small stalls. **Even though his plan never materialised, zoo director Ludwig Heck (in office from 1888 to 1932) had the goal, at least in theory, of presenting the complete fauna of the world.** From a contemporary perspective, the systematic or [[taxonomically ordered|theme.taxonomic-orders]] zoo, with its (often lone) specimens of individual species from various geographical regions exhibited next to each other, provided neither the social animals nor the public with any advantages. The small stalls, of course, did not allow the animals to live out their natural behaviour. The antelope house, built in 1872 with 20 cages arranged in an oval shape, the deer park, which had over 60 enclosures around 1900, and the aviary, opened in 1895, were examples of this collecting practice, whose aspirations to completeness prevailed over ensuring that the animals were kept in suitable conditions. In the aviary, cages were arranged one on top of the other in three storeys.[^12] Despite their exoticising backdrop, these enclosures were like “department stores”. However, their collections “suggested that the world was comprehensible”, without “any gaps, any incompleteness”.[^13] As they passed through, visitors were supposed to identify the similarities and differences, thereby participating in the order themselves.
 
@@ -177,11 +177,11 @@ _The inside of the aviary at Berlin Zoo, around 1930. (AZGB. All rights reserved
 
 However, their labels often said very little, mirroring the lack of space available to the animals. **Visitors often did not learn anything apart from the species‘ Latin names. There was no information about their habitats or diets.** The goal of educating visitors about natural history had been addressed in the first founding documents of Berlin Zoo, as we have seen. However, for about 100 years, the idea of “education” was exclusively limited to the zoo's taxonomic architecture and reduced entry for the city‘s school pupils. It was expected of them and their teachers that they would passively take advantage of what was on offer in the exhibition and make their own observations based on their prior knowledge.
 
-It was only in 1972 that education became the focus of one of the conferences organised by the International Union of Directors of Zoological Gardens, which had been founded in 1935.[^14] Interestingly, the zoos of the GDR were more committed to active education in zoological gardens. At both Dresden Zoo and Tierpark Berlin, zoo schools had been opened as far back as in the early 1960s. They were facilities that provided systematic educational offers to visiting school pupils in the form of guided tours and natural history lessons. In 1968, Rostock Zoo organised a conference on the topic. Even though a zoo school had been opened in Frankfurt am Main at the urging of [[Bernhard Grzimek|material.Bernhard Grzimek]] in 1960, no such school was opened in West Berlin until 1985.[^15] Perhaps the entrenchment of the GDR’s zoological gardens within the cultural administration and their incorporation into the socialist educational ideal were the reasons for the earlier introduction of learning formats for natural history knowledge.
+It was only in 1972 that education became the focus of one of the conferences organised by the International Union of Directors of Zoological Gardens, which had been founded in 1935.[^14] Interestingly, the zoos of the GDR were more committed to active education in zoological gardens. At both Dresden Zoo and Tierpark Berlin, zoo schools had been opened as far back as in the early 1960s. They were facilities that provided systematic educational offers to visiting school pupils in the form of guided tours and natural history lessons. In 1968, Rostock Zoo organised a conference on the topic. Even though a zoo school had been opened in Frankfurt am Main at the urging of Bernhard Grzimek in 1960, no such school was opened in West Berlin until 1985.[^15] Perhaps the entrenchment of the GDR’s zoological gardens within the cultural administration and their incorporation into the socialist educational ideal were the reasons for the earlier introduction of learning formats for natural history knowledge.
 
 In 2019, the zoo school carried out 2,997 guided tours with over 34,700 visitors (of whom 23,301 were children). That same year, Tierpark Berlin put on a total of 2,027 guided tours for 14,096 children and 8,184 adults.[^16]
 
-## Research – but for which habitat?
+## Research – but for which Habitat?
 
 In the early decades of most of the zoos founded in the second half of the 18th century, the focus – at least in the eyes of zoo management – was on the scientific value of animal collections. **Zoos were places where it was possible to classify and draw up inventories of the animal world, where it was possible not just to show the world’s fauna but also to comprehend it for the first time.** Animals from all over the world were being kept for the first time at Berlin Zoo and, after their deaths, were described as species for the first time by the Museum of Natural History.[^17] Museum curator Paul Matschie, for example, described the East African civet by comparing a zoo animal with a museum taxidermy. The last specimens of the quagga, the thylacine, and the Schomburgk’s deer living at the zoo became type specimens at the Museum of Natural History.[^18]
 
@@ -205,7 +205,7 @@ In the GDR, zoos were explicitly expected to continuously produce and publish re
 
 Now let us come to the final point on Hediger’s list: nature or wildlife conservation. This purpose is also the youngest chronologically speaking.
 
-## Wildlife conservation – adjustments and objectives
+## Wildlife Conservation – Adjustments and Objectives
 
 As previously mentioned, the Bronx Zoo was founded in 1899 to breed endangered American animals, but soon transformed into a leisure facility.[^23] For a long time, it was rare to find animals bred in captivity, and in Berlin they were viewed as achievements of zookeeping or as affordable enrichments to the animal collection. In 1923, Europe’s zoos then founded the first breeders’ community in the form of the _Society for the Preservation of the Wisent_. And the wisent breed registry did in fact make it possible to protect this species from [[extinction|story.zoos-and-conservation]]. In the 1960s, more such breed registries were introduced in North America and Europe.
 
@@ -241,7 +241,7 @@ In 1999, the European Union passed a zoo directive.[^29] Significantly, it no lo
 
 **The strategic communications of zoos are increasingly focusing on wildlife conservation. This is having an impact on visitors.** A Forsa study commissioned by the German Association of Zoological Gardens in 2020 entitled “The Germans and their Zoos” found that the population generally approves of zoological gardens.[^32] In response to the question about the purpose of a zoo, the idea of the zoo as a space of recreation, which had been around since the earliest days of zoo history, was not presented as an option. Instead, most of those surveyed said that preserving biological diversity by keeping and breeding endangered species was an especially important task for zoos – a task that, at least in Berlin, played a role during the founding of neither Berlin Zoo nor Tierpark Berlin. 
 
-## Showing animals – continuities and shifts
+## Showing Animals – Continuities and Shifts
 
 Putting animals on display still forms the basic livelihood of all zoological gardens worldwide. As can be seen by looking at institutions like Berlin Zoo, the reasons and justifications for showing animals like this have fluctuated and shifted over time. A wide range of different aspects have been at the forefront of guests’ and zoos’ interests, and corporate communication as well. **The reason for this is the different functions that putting animals on display has fulfilled at various points in time.** There have frequently been discrepancies between the ideas held by zoo management and visitors as to why animals should be shown. The latter have demanded the ‘entertainment factor’ as something that is at least equal with other aspects. The management of Berlin Zoo clearly favoured other purposes at the beginning, but as a joint-stock company, it was forced to meet this wish.[^33]
 
