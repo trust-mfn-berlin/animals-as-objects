@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Putting Animals on Display
 title_de: Tiere zur Schau stellen
 created: 1618572893774
-updated: 1641823634774
+updated: 1641826044868
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 author: Clemens Maier-Wolthausen
 translators:
@@ -89,7 +89,7 @@ And this spectacle would not be produced with domestic cattle. The French histor
 
 >“The public wanted to see rare, wild predators, unlike European species, to divert themselves and dream of distant lands. Zoological gardens were a substitute for travelling and satisfied their longing for the ‘exotic’, which in the Western world grew stronger and stronger with Romanticism, research expeditions, and colonial adventures, enticing elites to travel to faraway places.”[^8]
 
-Although they had limited funds, the first zoo directors in Berlin attempted to obtain animals from other continents to meet visitor’s ‘exotic’ expectations – more on this in [[story.catching-animals]]. **From the very beginning, this was accompanied by another aspect of the zoo‘s character as a place of adventure and recreation, where the showing of animals more or less disappeared into the background: restaurants and refreshment areas, an opportunity to meet, eat, and enjoy the company of others.** For some, we might surmise, the animals on display formed a backdrop, an alibi for the real enjoyment. At the Berlin zoo, restaurants were being continually expanded at the public‘s request, with the result that, in 1911, the zoo was home to the largest restaurant not just in the city, but probably in Europe, with more than 10,000 seats.[^9] It also provided a setting for concerts of military music and grand balls.
+Although they had limited funds, the first zoo directors in Berlin attempted to obtain animals from other continents to meet visitor’s ‘exotic’ expectations, more on this in [[story.catching-animals]]. **From the very beginning, this was accompanied by another aspect of the zoo’s character as a place of adventure and recreation, where the showing of animals more or less disappeared into the background: restaurants and refreshment areas, an opportunity to meet, eat, and enjoy the company of others.** For some, we might surmise, the animals on display formed a backdrop, an alibi for the real enjoyment. At the Berlin zoo, restaurants were being continually expanded at the public’s request, with the result that, in 1911, the zoo was home to the largest restaurant not just in the city, but probably in Europe, with more than 10,000 seats.[^9] It also provided a setting for concerts of military music and grand balls.
 
 <figure>
 
@@ -97,7 +97,7 @@ Although they had limited funds, the first zoo directors in Berlin attempted to 
 
 <figcaption>
 
-_The Emperor‘s Hall at the zoo restaurant around 1910. (AZGB. All rights reserved.)_
+_The Emperor’s Hall at the zoo restaurant around 1910. (AZGB. All rights reserved.)_
 
 </figcaption>
 
@@ -115,7 +115,7 @@ _Announcement for Opera Ball at the zoo restaurant, 1914. (AZGB. All rights rese
 
 </figure>
 
-**For the public, seeing and being seen became just as much a reason for going to the zoo as observing animals and acquiring knowledge about natural history.** On the central axes through the zoo, between the elephant gate and the entrance at the Zoological Garden train station, bourgeois zoo shareholders, members of the educated bourgeois classes, and the civil servants of the Prussian state had the opportunity to solidify their status and their networks by visiting the zoo. **For the workers from the suburbs in the east of Berlin, “cheap Sundays” were introduced shortly after the zoo‘s founding, with the price of entry tickets reduced by half.** According to newspaper reports of the time, the zoo was full on those days, and the less wealthy members of the public took their refreshments at the more affordable gastronomic facilities with beer instead of champagne, and pretzels instead of caviar.[^10] The goal for all visitors was recreation, to take a step out of their everyday lives and into another world.
+**For the public, seeing and being seen became just as much a reason for going to the zoo as observing animals and acquiring knowledge about natural history.** On the central axes through the zoo, between the Elephant Gate and the entrance at the Zoological Garden train station, bourgeois zoo shareholders, members of the educated bourgeois classes, and the civil servants of the Prussian state had the opportunity to solidify their status and their networks by visiting the zoo. **For the workers from the suburbs in the east of Berlin, “cheap Sundays” were introduced shortly after the zoo’s founding, with the price of entry tickets reduced by half.** According to newspaper reports of the time, the zoo was full on those days, and the less wealthy members of the public took their refreshments at the more affordable gastronomic facilities with beer instead of champagne, and pretzels instead of caviar.[^10] The goal for all visitors was recreation, to take a step out of their everyday lives and into another world.
 
 <figure>
 
@@ -123,13 +123,13 @@ _Announcement for Opera Ball at the zoo restaurant, 1914. (AZGB. All rights rese
 
 <figcaption>
 
-_Article about “Cheap Sundays” at the Berlin zoo in_ Berliner Illustrierten Zeitung, _no. 38, 1929._
+_Article about “Cheap Sundays” at the Berlin Zoo in_ Berliner Illustrierten Zeitung, _no. 38, 1929._
 
 </figcaption>
 
 </figure>
 
-Also serving the purpose of entertainment was the exoticising zoo architecture, which had increasingly become a mainstay of many European zoos since the 1850s. These stylised structures formed the backdrop for the animals – and still do today. **The first major exoticising architectural project in Berlin was the antelope and giraffe house, which was built in a so-called “Moorish” style.** It was followed by what was referred to as the Elephant Pagoda, which emulated an Indian-style temple, and the ostrich house, built in the style of an ancient Egyptian temple. They conveyed stereotypical images of regions foreign to Europeans and sometimes bore no relation whatsoever to the animals on display. For example, in the ‘Indian’ pagoda, Indian and African rhinoceroses and elephants were shown side by side, and Australian ostriches were exhibited in the Egyptian temple.
+Also serving the purpose of entertainment was the exoticising zoo architecture, which had increasingly become a mainstay of many European zoos since the 1850s. These stylized structures formed the backdrop for the animals – and still do today. **The first major exoticizing architectural project in Berlin was the antelope and giraffe house, which was built in a so-called “Moorish” style.** It was followed by what was referred to as the Elephant Pagoda, which emulated an Indian-style temple, and the ostrich house, built in the style of an ancient Egyptian temple. They conveyed stereotypical images of regions foreign to Europeans and sometimes bore no relation whatsoever to the animals on display. For example, in the Indian pagoda, Indian and African rhinoceroses and elephants were shown side by side, and Australian ostriches were exhibited in the Egyptian temple.
 
 <figure>
 
@@ -149,19 +149,19 @@ _The antelope house at Berlin Zoo around 1920. (AZGB. All rights reserved.)_
 
 <figcaption>
 
-_Postcard of the Elephant Pagoda at Berlin Zoological Gardens, 1912. (AZGB)_
+_Postcard of the Elephant Pagoda at Berlin Zoo, 1912. (AZGB. All rights reserved.)_
 
 </figcaption>
 
 </figure>
 
-For the historian Christina Wessely, these buildings were “situated almost ideally at the intersection of entertainment and popular scientific education.”[^11]
+For the historian Christina Wessely, these buildings were “situated almost ideally at the intersection of entertainment and popular scientific education”.[^11]
 
-In 2019, 3.5 million visitors visited Berlin Zoo. The vast majority of them did not live in Berlin or Germany. Berlin Zoo, its animals, and its architecture, are very clearly part of Berlin‘s tourist infrastructure. The zoo generates its income as a leisure facility. **However, in order to legitimise a facility that keeps animals in human captivity and puts them on display, the zoo has long done away with its emphasis on recreation, which was a central factor for over 150 years.** In contrast, the zoo as a space of learning was playing a more important role in the zoo‘s communications and self-understanding by the end of the 19th century at the latest.
+In 2019, 3.5 million visitors visited Berlin Zoo. The vast majority of them did not live in Berlin or Germany. Berlin Zoo, its animals, and its architecture, are very clearly part of Berlin’s tourist infrastructure. The zoo generates its income as a leisure facility. **However, in order to legitimize a facility that keeps animals in human captivity and puts them on display, the zoo has long done away with its emphasis on recreation, which was a central factor for over 150 years.** In contrast, the zoo as a space of learning was playing a more important role in the zoo’s communications and self-understanding by the end of the 19th century at the latest.
 
 ## Education – Show Animals and Collecting Practices
 
-In the nineteenth century, zoos‘ exoticising architecture was often accompanied by very small stalls. **Even though his plan never materialised, zoo director Ludwig Heck (in office from 1888 to 1932) had the goal, at least in theory, of presenting the complete fauna of the world.** From a contemporary perspective, the systematic or [[taxonomically ordered|theme.taxonomic-orders]] zoo, with its (often lone) specimens of individual species from various geographical regions exhibited next to each other, provided neither the social animals nor the public with any advantages. The small stalls, of course, did not allow the animals to live out their natural behaviour. The antelope house, built in 1872 with 20 cages arranged in an oval shape, the deer park, which had over 60 enclosures around 1900, and the aviary, opened in 1895, were examples of this collecting practice, whose aspirations to completeness prevailed over ensuring that the animals were kept in suitable conditions. In the aviary, cages were arranged one on top of the other in three storeys.[^12] Despite their exoticising backdrop, these enclosures were like “department stores”. However, their collections “suggested that the world was comprehensible”, without “any gaps, any incompleteness”.[^13] As they passed through, visitors were supposed to identify the similarities and differences, thereby participating in the order themselves.
+In the 19th century, zoos’ exoticizing architecture was often accompanied by very small stalls. **Even though his plan never materialised, zoo director Ludwig Heck (in office from 1888 to 1932) had the goal, at least in theory, of presenting the complete fauna of the world.** From a contemporary perspective, the systematic or [[taxonomically ordered|theme.taxonomic-orders]] zoo, with its (often lone) specimens of individual species from various geographical regions exhibited next to each other, provided neither the social animals nor the public with any advantages. The small stalls, of course, did not allow the animals to live out their natural behaviour. The antelope house, built in 1872 with 20 cages arranged in an oval shape, the deer park, which had over 60 enclosures around 1900, and the aviary, opened in 1895, were examples of this collecting practice, whose aspirations to completeness prevailed over ensuring that the animals were kept in suitable conditions. In the aviary, cages were arranged one on top of the other in three storeys.[^12] Despite their exoticizing backdrop, these enclosures were like “department stores”. However, their collections “suggested that the world was comprehensible”, without “any gaps, any incompleteness”.[^13] As they passed through, visitors were supposed to identify the similarities and differences, thereby participating in the order themselves.
 
 <figure>
 
@@ -175,15 +175,15 @@ _The inside of the aviary at Berlin Zoo, around 1930. (AZGB. All rights reserved
 
 </figure>
 
-However, their labels often said very little, mirroring the lack of space available to the animals. **Visitors often did not learn anything apart from the species‘ Latin names. There was no information about their habitats or diets.** The goal of educating visitors about natural history had been addressed in the first founding documents of Berlin Zoo, as we have seen. However, for about 100 years, the idea of “education” was exclusively limited to the zoo's taxonomic architecture and reduced entry for the city‘s school pupils. It was expected of them and their teachers that they would passively take advantage of what was on offer in the exhibition and make their own observations based on their prior knowledge.
+However, their labels often said very little, mirroring the lack of space available to the animals. **Visitors often did not learn anything apart from the species’ Latin names. There was no information about their habitats or diets.** The goal of educating visitors about natural history had been addressed in the first founding documents of Berlin Zoo, as we have seen. However, for about 100 years, the idea of “education” was exclusively limited to the zoo’s taxonomic architecture and reduced entry for the city’s school pupils. It was expected of them and their teachers that they would passively take advantage of what was on offer in the exhibition and make their own observations based on their prior knowledge.
 
-It was only in 1972 that education became the focus of one of the conferences organised by the International Union of Directors of Zoological Gardens, which had been founded in 1935.[^14] Interestingly, the zoos of the GDR were more committed to active education in zoological gardens. At both Dresden Zoo and Tierpark Berlin, zoo schools had been opened as far back as in the early 1960s. They were facilities that provided systematic educational offers to visiting school pupils in the form of guided tours and natural history lessons. In 1968, Rostock Zoo organised a conference on the topic. Even though a zoo school had been opened in Frankfurt am Main at the urging of Bernhard Grzimek in 1960, no such school was opened in West Berlin until 1985.[^15] Perhaps the entrenchment of the GDR’s zoological gardens within the cultural administration and their incorporation into the socialist educational ideal were the reasons for the earlier introduction of learning formats for natural history knowledge.
+It was only in 1972 that education became the focus of one of the conferences organized by the International Union of Directors of Zoological Gardens, which had been founded in 1935.[^14] Interestingly, the zoos of the GDR were more committed to active education in zoological gardens. At both Dresden Zoo and Tierpark Berlin, zoo schools had been opened as far back as in the early 1960s. They were facilities that provided systematic educational offers to visiting school pupils in the form of guided tours and natural history lessons. In 1968, Rostock Zoo organized a conference on the topic. Even though a zoo school had been opened in Frankfurt am Main at the urging of Bernhard Grzimek in 1960, no such school was opened in West Berlin until 1985.[^15] Perhaps the entrenchment of the GDR’s zoological gardens within the cultural administration and their incorporation into the socialist educational ideal were the reasons for the earlier introduction of learning formats for natural history knowledge.
 
 In 2019, the zoo school carried out 2,997 guided tours with over 34,700 visitors (of whom 23,301 were children). That same year, Tierpark Berlin put on a total of 2,027 guided tours for 14,096 children and 8,184 adults.[^16]
 
 ## Research – but for which Habitat?
 
-In the early decades of most of the zoos founded in the second half of the 18th century, the focus – at least in the eyes of zoo management – was on the scientific value of animal collections. **Zoos were places where it was possible to classify and draw up inventories of the animal world, where it was possible not just to show the world’s fauna but also to comprehend it for the first time.** Animals from all over the world were being kept for the first time at Berlin Zoo and, after their deaths, were described as species for the first time by the Museum of Natural History.[^17] Museum curator Paul Matschie, for example, described the East African civet by comparing a zoo animal with a museum taxidermy. The last specimens of the quagga, the thylacine, and the Schomburgk’s deer living at the zoo became type specimens at the Museum of Natural History.[^18]
+In the early decades of most of the zoos founded in the second half of the 18th century, the focus – at least in the eyes of zoo management – was on the scientific value of animal collections. **Zoos were places where it was possible to classify and draw up inventories of the animal world, where it was possible not just to show the world’s fauna but also to comprehend it for the first time.** Animals from all over the world were being kept for the first time at Berlin Zoo and, after their deaths, were described as species for the first time by the Natural History Museum.[^17] Museum curator Paul Matschie, for example, described the East African civet by comparing a zoo animal with a museum taxidermy. The last specimens of the quagga, the thylacine, and the Schomburgk’s deer living at the zoo became type specimens at the Natural History Museum.[^18]
 
 <figure>
 
@@ -191,7 +191,7 @@ In the early decades of most of the zoos founded in the second half of the 18th 
 
 <figcaption>
 
-_Quagga skull at the Berlin Museum of Natural History, 2020. (Photo Clemens Maier-Wolthausen/MfN. All rights reserved.)_
+_Quagga skull at the Museum of Natural History Berlin, 2020. (Image: Clemens Maier-Wolthausen/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -199,7 +199,7 @@ _Quagga skull at the Berlin Museum of Natural History, 2020. (Photo Clemens Maie
 
 This more or less anatomical, comparative research into zoo animals was followed by a phase in which the emphasis was placed on making observations of animal behaviour. **By observing the behaviour of zoo animals, researchers developed the first approaches of what would later be called behavioural science.** In early 20th-century Berlin, [[material.oskar-heinroth]], director of the Berlin Aquarium from 1913, was researching Europe’s avifauna and carrying out his first studies in what he referred to as animal psychology (ethology), together with [[material.magdalena-heinroth]] and later [[material.katharina-heinroth]].[^19] However, Berlin Zoo often only invested limited or no capacities at all into research. It benefited from the reputations of scientists at academic institutions who came to the zoo and examined the objects on show. Researchers like the Heinroths remained the exception. 
 
-As Zoo Director (from 1945), Katharina Heinroth published a huge number of articles; however, much like those by her colleague Heinrich Dathe at East Berlin’s Tierpark, many of them dealt with observations and reports on the practice of zookeeping. **Zoos are still conducting research, but most of it is research into the veterinary medicine areas of zookeeping.** It focuses on stem cell generation, assisted reproduction, feeding methods, and feed[^20], which are usually part of the scientific branch of zoo biology. This is scientific research – conducted in zoos – where the object of study is the animal held in human captivity.[^21] However, fundamental insights are still being gained – such as the gestation periods for various animals or embryonic diapause in bears – that also enrich our knowledge of wildlife overall.
+As zoo director (from 1945), Katharina Heinroth published a huge number of articles; however, much like those by her colleague Heinrich Dathe at East Berlin’s Tierpark, many of them dealt with observations and reports on the practice of zookeeping. **Zoos are still conducting research, but most of it is research into the veterinary medicine areas of zookeeping.** It focuses on stem cell generation, assisted reproduction, feeding methods, and feed,[^20] which are usually part of the scientific branch of zoo biology. This is scientific research – conducted in zoos – where the object of study is the animal held in human captivity.[^21] However, fundamental insights are still being gained – such as the gestation periods for various animals or embryonic diapause in bears – that also enrich our knowledge of wildlife overall.
 
 In the GDR, zoos were explicitly expected to continuously produce and publish research. The “Research Plan of the Zoological Gardens of the GDR for the Planning Period 1976-1980” predominantly lists research projects related to zookeeping. The Ministry of Culture suspected that scientists only planned studies on the ethology and biology of wild species in order to generate travel opportunities.[^22]
 
