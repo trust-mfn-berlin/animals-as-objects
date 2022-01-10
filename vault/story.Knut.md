@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Knut
 title_de: Knut
 created: 1618576718116
-updated: 1641681008736
+updated: 1641840387125
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 author: Clemens Maier-Wolthausen
 translators:
@@ -630,9 +630,9 @@ Liegt hier in der medienhistorischen Betrachtung also der Grund für den besonde
  
 Auch der umweltpolitische Faktor ist heute wohl kaum reproduzierbar. Die Klimakrise ist kein Novum mehr und Zoos kommunizieren sich seit einiger Zeit stärker insgesamt als Artenschutzzentren (siehe hierzu auch [[Tiere zurschaustellen|theme.showing-animals]] und [[story.zoos-and-conservation]] und werden auch von vielen Deutschen als solche wahrgenommen.[^33] Es ist zu vermuten, dass für einen einzelnen Artenschutzbotschafter in dieser Kommunikation weniger Platz bleibt. Fallen alle diese Faktoren aber weg, ist es kaum denkbar, dass sich die Konstruktion eines Stars wie “Knut” wiederholt. Dieser vereinte medienhistorisch und zoohistorisch wichtige Momente mit umweltpolitischen und ökonomischen Interessen. “Knut” zeigt in einer Momentaufnahme die Zootieren innewohnenden Potentiale zur Aktivierung eines breiten öffentlichen Interesses und großer Emotionen. Zoos alleine können diese aber nicht hervorrufen, dazu bedarf es mehrerer Akteur:innen.
  
-[^1]: Zoologischer Garten Berlin AG. “Geschäftsbericht für das Jahr 2007” _Bongo_ 38 (2008): 91-196, 139-140.
+[^1]: Zoologischer Garten Berlin AG. “Geschäftsbericht für das Jahr 2007”. _Bongo_ 38 (2008): 91-196, 139-140.
  
-[^2]: Zoologischer Garten Berlin AG: Pressemitteilungen, 04/07, 22.01.2007, und 15/07, 28.02.2007.
+[^2]: Zoologischer Garten Berlin AG. Pressemitteilungen, 04/07, 22.01.2007 und 15/07, 28.02.2007.
  
 [^3]: Vgl. Flinterud, Guro, und Adam Dodd. “Polar Bear Knut and his Blog”. In _Animals on Display. The Creaturely in Museums, Zoos and Natural History_, Liv Emma Thorsen und Karen A. Rader (Hg.). University Park, PA: The Pennsylvania State University Press, 2013: 192-213; Flinterud, Guro. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Diss. University of Oslo, Faculty of Humanities, 2012: 133-136.
  
