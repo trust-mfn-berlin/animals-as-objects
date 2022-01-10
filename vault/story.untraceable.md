@@ -2,12 +2,12 @@
 license: CC BY-SA
 title_de: Unauffindbar
 created: 1640459479902
-author: "Mareike Vennen "
+author: Mareike Vennen
 short_desc_de: "Verschollene Objekte und alte Kataloge "
 date_end: 2022-01-04T16:26:25.633Z
 published: false
 title: Untraceable
-updated: 1641487850882
+updated: 1641832161070
 id: abaNOPQjQqMhfMbhbhvm4
 translators:
   translator_de_en: Lydia J. White
