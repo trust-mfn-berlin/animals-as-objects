@@ -17,7 +17,7 @@
 
       </hgroup>
       <div class="description-wrap">
-        <p class="f-serif description" v-if="article.tao_type != 'material' && article.desc">{{descBilingual}}</p>
+        <p class="f-serif description" v-if="article.tao_type != 'material' && article.desc" :class="{long:descIsLong}">{{descBilingual}}</p>
       </div>
     </div>
     </nuxt-link>
@@ -72,6 +72,14 @@ export default {
         return this.article.desc
       }
     },
+    descIsLong(){
+      // console.log(this.descBilingual.length);
+      if(this.descBilingual.length > 380){
+        return true
+      } else {
+        return false
+      }
+    }
   }
 }
 </script>
@@ -136,8 +144,13 @@ article{
       max-height: 7rem;
       flex-grow: 1;
       width: 0;
+      // line-height: @lh-default;
       // overflow-y:hidden;
       // text-overflow: ellipsis;
+      &.long{
+        font-size: @fs-xxs;
+        line-height: 1.65;
+      }
     }
 
     
