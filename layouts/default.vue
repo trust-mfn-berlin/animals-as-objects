@@ -43,7 +43,7 @@ export default {
       // CAN WE JUST STORE ROUTES ON LOCALSTORAGE AND ONLY 'GET' ROUTE RELATIONSHIPS from SERVER?
 
       try {
-        const res = await this.$axios.get('', {params: {uniqueid: uid}})
+        const res = await this.$axios.get('', {params: {uniqueId: uid}})
 
         console.log(res);
         var sortedRoutes = res.data.sort((a, b) => (a.timestamp > b.timestamp) ? 1 : -1)

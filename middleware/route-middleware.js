@@ -20,15 +20,22 @@ export default function ({store, app, context, route}) {
       // Don't add Curated Routes 
       if(route.name != 'routes-slug'){
 
-      console.log(route.name);
+      // console.log(route.name);
         
       const postObject = {
-        uniqueid: app.$cookies.get('tao-uid'),
+        uniqueId: app.$cookies.get('tao-uid'),
         route: route.params.slug,
         prevRoute: store.getters.currentRouteLastPage ? store.getters.currentRouteLastPage : null 
       }
 
-      app.$axios.post('', postObject);
+      app.$axios.post(`?uniqueId=${postObject.uniqueId}&route=${postObject.route}&prevRoute=${postObject.prevRoute}`)
+      .then(function (response) {
+        // console.log(response);
+      })
+      .catch(function (error) {
+        console.log(error);
+      });
+      
       store.commit('addRoute', {route:route.path.substring(1)});
 
       }

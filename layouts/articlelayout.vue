@@ -41,21 +41,61 @@ export default {
         this.$store.commit('addRoute', {route:this.$route.params.slug});
       }
     },
-    async getRoutes(){
+
+    async getCommonRoutes(){
+
+      this.$store.commit('setMostCommonRoutes', []);
+      this.$store.commit('setLeastCommonRoutes', []);
+      
+      try{
+        const res = await this.$axios.get(`/common?route=${this.$route.params.slug}`);
+
+        var sortedRoutes = res.data.followingRoutes.sort((a, b) => (a.count > b.count) ? 1 : -1);
+        
+        const length = sortedRoutes.length;
+        const pool = 2;
+
+        console.log('common routes sorted',sortedRoutes);
+
+        console.log('least', sortedRoutes.slice(0, pool));
+        console.log('most', sortedRoutes.slice(length-pool, sortedRoutes.length));
+
+        var most, least;
+
+
+        if(length > 6){
+          most = sortedRoutes.slice(length-pool, sortedRoutes.length);
+          least = sortedRoutes.slice(0, pool);
+        } else if (length >= 2) {
+          most = [sortedRoutes[sortedRoutes.length-1]];
+          least = [sortedRoutes[0]];
+        } else {
+          most = [];
+          least = [];
+        }
+
+        this.$store.commit('setMostCommonRoutes', most);
+        this.$store.commit('setLeastCommonRoutes', least);
+        // console.log('common routes', res)
+      }
+      catch (error) {
+        console.log(error)
+      }
+
+    },
+
+    async getPrevRoutes(){
+
+      console.log('getting prev routes')
 
       var uid = this.$cookies.get('tao-uid');
 
-      const getObject = {
-        uniqueid: uid
-      };
 
       try {
-        const res = await this.$axios.get('', {params: {uniqueid: uid}})
+        const res = await this.$axios.get(`?uniqueId=${uid}`);
 
-        console.log(res);
         var sortedRoutes = res.data.sort((a, b) => (a.timestamp > b.timestamp) ? 1 : -1)
 
-        console.log(sortedRoutes);
         this.$store.commit('setRoutes', sortedRoutes);
 
         this.addCurrentRoute();
@@ -69,12 +109,20 @@ export default {
   },
   mounted(){
     if(this.$cookies.get('tao-uid') && !this.$store.getters.isTrackingEnabled){
-      console.log('cookie present');
+      // console.log('cookie present');
       this.$store.commit('enableTracking');
-      this.getRoutes();
+      this.getPrevRoutes();
+      this.getCommonRoutes();
 
     }
+  },
+  watch:{
+    $route(){
+      this.getCommonRoutes();
+    }
   }
+
+  
 }
 </script>
 
