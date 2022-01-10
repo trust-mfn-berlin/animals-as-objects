@@ -7,7 +7,7 @@ short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Wel
 date_end: 2021-12-14T14:41:44.038Z
 published: false
 title: Microbial Worlds
-updated: 1640911761317
+updated: 1641831604232
 id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
 translators:
   translator_en_de: ""
@@ -39,7 +39,7 @@ date_start: 1673-01-01T14:45:32.000Z
 
 <figcaption>
 
-_A scientific ‘conversazione’ on microscopy held at Apothecaries’ Hall on April 11th, 1855, Engraving from_ The Illustrated London News, _28 April 1855.[^1]_
+_A scientific ‘conversazione’ on microscopy held at Apothecaries’ Hall on 11 April 1855. Engraving from_ The Illustrated London News, _28 April 1855.[^1]_
 
 </figcaption>
 
@@ -47,7 +47,7 @@ _A scientific ‘conversazione’ on microscopy held at Apothecaries’ Hall on 
 
 In the 17th century the first microscopes allowed the earliest glimpses into the world of microorganisms living and thriving just outside the range of our vision. Scientists and lay people alike have been fascinated with these almost invisible worlds. In the beginning microscopy was seen as an erudite endeavour reserved for a closed circle of naturalists. It took a while for these visions to reach broader audiences. But even some of the earliest observers dedicated considerable effort to reproducing their visions in detailed illustrations that circulated beyond their exclusive confines. Over the course of the 19th century, advances in microscopy made these technical apparatuses more readily available. Additionally, printed illustrations became more widely distributed. Soon, the lay public discovered these organisms and a fascination with visions of magical and unknown miniature worlds took hold. As microbes received more and more attention from scientists, their role in many human activities – from brewing, to cheesemaking, to baking – became evident. This was quickly harnessed by various industries.[^2] At the same time, medical sciences were gradually uncovering the role of microbes in causing diseases and embarked on a massive effort of eradication and containment. Microbes became framed as enemies of humankind.
 
-By the second half of the 20th century the ever-increasing resolution and interconnectedness of scientific visions revealed the centrality of microbial forms of life. This somewhat rehabilitated microbial worlds and contributed to a more benevolent disposition towards microbes.[^3] We now recognise that microorganisms are essential not only to the history of life on the planet but to the functioning of planetary systems and ecologies on every scale, including our bodies. Without microbes we would not be alive. In accepting this fact, more moderate approaches to working with microorganisms have begun replacing the war-like attitudes of the past. But they continue to require a still growing number of [[material.microscopic-media]] in order to be made visible and intelligible. Microorganisms continue to surprise us and to challenge our received assumptions about life on our planet.[^4] In particular, throughout the stories told on this website, they challenge our preconceived ideas about what animals can be. They shed light on unexpected ways in which living things can become objects and data, and how they make natural history. Furthermore, the histories of how microbial worlds went from the unseen background to center stage can help us remember that _what_ we see, and _how_ we see it are deeply interlinked.
+By the second half of the 20th century the ever-increasing resolution and interconnectedness of scientific visions revealed the centrality of microbial forms of life. This somewhat rehabilitated microbial worlds and contributed to a more benevolent disposition towards microbes.[^3] We now recognize that microorganisms are essential not only to the history of life on the planet but to the functioning of planetary systems and ecologies on every scale, including our bodies. Without microbes we would not be alive. In accepting this fact, more moderate approaches to working with microorganisms have begun replacing the war-like attitudes of the past. But they continue to require a still growing number of [[material.microscopic-media]] in order to be made visible and intelligible. Microorganisms continue to surprise us and to challenge our received assumptions about life on our planet.[^4] In particular, throughout the stories told on this website, they challenge our preconceived ideas about what animals can be. They shed light on unexpected ways in which living things can become objects and data, and how they make natural history. Furthermore, the histories of how microbial worlds went from the unseen background to center stage can help us remember that _what_ we see, and _how_ we see it are deeply interlinked.
 
 <figure>
 
@@ -61,7 +61,7 @@ _Engraving of mould, and magnified view of the surface of a rose-leaf; Schem. 12
 
 </figure>
 
-## From fairies to cells
+## From Fairies to Cells
 
 Before the 19th century, the observation of microorganisms was carried out by inquisitive naturalists and polymaths who often developed their own instruments. Pathfinders like Antoni van Leeuwenhoek, Robert Hooke, and Francesco Redi drew detailed illustrations of the microscopic organisms they observed through makeshift devices. These early illustrations circulated mainly in scientific and intellectual circles, such as early scientific societies and similar institutions.[^5] At first the world of science struggled to make sense of these life forms, as is detailed, for example, in the [[story.chaotic-origins-of-micropaleontology]]. When microscopes became more readily available and more accurate after the introduction of achromatic lenses in the 1830s[^6], a broader public was let in on the invisible miniature worlds contained in every droplet of water and grain of sand. This coincided with the mass production and reproduction of images and their increased circulation,[^7] which facilitated the diffusion of peepholes into these microbial worlds. In this early period of modern microscopy, microbes captured the fancies of Victorians who often saw microbes as real-life incarnations of folktale’s fairies and pixies.[^8] Concurrently to the spread of such magical views, scientists portrayed microbes as tiny animals worthy of scientists’ attention. Indeed, Christian Gottfried Ehrenberg, one of the most prominent authorities on microbes – or [[material.infusoria]], as they were known at the time – described them as full organisms, complete with multiple digestive systems, in his celebrated monograph published in 1838.[^9] Over the following decades, a new understanding of the structures of cells began to replace the view of microbes as tiny animals. They were now considered unicellular life forms fundamentally different from animals and yet related to them. This understanding coincided with the diffusion of Darwin’s and Wallace’s theory of evolution, which singled out microbes as remnants of primitive forms of life that populated an ancient past of less evolved forms.[^10]
 
@@ -77,7 +77,7 @@ _“Monster Soup commonly called Thames Water”. Coloured etching by W. Heath, 
 
 </figure>
 
-## Useful but dangerous
+## Useful but Dangerous
 
 Since the second half of the 19th century scientific understandings of microorganisms thus began undergoing radical transformations. In many cases, these transformations are still ongoing today. As cell theory shed new light on the functioning of living organisms and their evolutionary interconnectedness, microbes also revealed their functional importance. This was particularly evident in the context of some age-old industries, like brewing, baking, cheesemaking, and fermentation. The almost magical and alchemical processes at the heart of these activities came under the scrutiny of scientists and their [[material.microscopic-media]] and were discovered to centrally depend on microbial collaborations.[^11] Yeasts, bacteria, and other microbes all play key roles in these transformations and modernising industries were quick to harness these newly discovered microbial processes to advance their production. Together with these early biotechnological mobilisations, microorganisms also came under scrutiny in the medical sciences. There, they were increasingly depicted as the culprits behind all sorts of diseases and illnesses. This view became particularly prominent thanks to the enormous success of pioneers like Louis Pasteur and Robert Koch, who mobilised their knowledge of microbial life in successful battles against diseases, from rabies and anthrax to tuberculosis and cholera.[^12] Shaping the foundations of contemporary public health, hygiene, and medicine, these protagonists presented microbes as the agents causing diseases. They developed the so-called ‘germ theory of disease’ which still informs current medical practices and popular attitudes. The public received these discoveries as revolutionary because they helped defeat many ailments of modern society. But, despite their still celebrated importance, many of these innovations partook in painting the negative image microbes still suffer from today. Furthermore, the fame these figures enjoyed consolidated a heroic and individualistic view of the work of scientists – a view that still fuels poor scientific practices and hampers social justice in current technosciences.[^13]
 
@@ -93,7 +93,7 @@ _Issue #5 of_ Astrobiology: The Story of our Search for Life in the Universe, _a
 
 </figure>
 
-## Microbes’ worlds
+## Microbes’ Worlds
 
 While the success of medical microbiology consolidated the dominance of a pathological view of microbes as causes of diseases, alternative views of microorganisms were already taking shape at the time. These were advanced by, for example, Sergei Nicholaievich Winogradsky and other lesser known scientists who focused on the environmental role of microbial life.[^15] Studying soils and the ecological action of microbial communities rather than individual microbial species, these scientists anticipated some discoveries of the 20th century with regards to the vital interconnections [[story.of-microbes-and-planets]]. Yet, despite their groundbreaking work, it was only in the second half of the next century that the environmental relevance of microbial life would gain a hard-won recognition.[^16] This feat was made possible by transdisciplinary work with the more applied geophysical sciences, evidenced for instance in the experiences of [[story.micropaleontology-at-sea]]. 
 
