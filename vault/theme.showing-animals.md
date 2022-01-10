@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Putting Animals on Display
 title_de: Tiere zur Schau stellen
 created: 1618572893774
-updated: 1641815786921
+updated: 1641816345485
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 author: Clemens Maier-Wolthausen
 translators:
@@ -358,11 +358,7 @@ Das Ausstellen und das Anschauen von lebenden Tieren waren in diesen Worten nur 
 
 **Der Zoo hatte nun schon eine Vielfalt von Zwecken zu erfüllen.** Der Verband Deutscher Zoodirektoren (heute Verband der zoologischen Gärten) beschrieb 2012, noch etwa 170 Jahre nach der Eröffnung des ersten deutschen Zoos in Berlin, die Hauptaufgaben der Zoos unter Berufung auf den Biologen Heini Hediger als:
 
-– Erholung
-
-– Belehrung und Bildung
-– Forschung und
-– Naturschutz.[^5]
+Erholung – Belehrung und Bildung – Forschung – Naturschutz.[^5]
 
 Der Zoologe und Berner, Baseler und Zürcher Zoodirektor Hediger hatte nach dem Ende des zweiten Weltkriegs die Tiergartenbiologie begründet. Unter Naturschutz verstand er die Zucht in ihrem Lebensraum bedrohter Spezies.[^6]
 
