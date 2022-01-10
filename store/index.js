@@ -11,6 +11,8 @@ const createStore = () => {
       loadedRoutes: [],
       siteLanguage: defaultLanguage,
       currentRoute: [],
+      leastCommonRoutes: [],
+      mostCommonRoutes: [],
       searchBarIsOpen: false,
       activeFilter: 'type',
       sidebarIsOpen: false,
@@ -38,6 +40,12 @@ const createStore = () => {
       },
       setRoutes(state, routes) {
         state.currentRoute = routes
+      },
+      setLeastCommonRoutes(state, routes){
+        state.leastCommonRoutes = routes
+      },
+      setMostCommonRoutes(state, routes){
+        state.mostCommonRoutes = routes
       },
       toggleSearchBar(state, isOpen){
         console.log('Is search open:', isOpen)
@@ -85,7 +93,15 @@ const createStore = () => {
         return state.siteLanguage
       },
       currentRoute(state) {
+        // return array of user's current route
         return state.currentRoute
+      },
+      leastCommonRoutes(state){
+        // return least visited route
+        return state.leastCommonRoutes
+      },
+      mostCommonRoutes(state){
+        return state.mostCommonRoutes
       },
       currentRouteLastPage(state){
         if(state.currentRoute[state.currentRoute.length - 1]){
