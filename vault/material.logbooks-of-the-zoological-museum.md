@@ -22,7 +22,7 @@ date_start: 1842-12-31T23:06:32.000Z
 date_end: 1858-12-31T11:06:32.000Z
 published: false
 desc_de: Warum Präparatoren Tagebuch führen
-colour_scheme: 10
+colour_scheme: 8
 ---
 
 

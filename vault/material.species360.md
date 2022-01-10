@@ -19,7 +19,7 @@ cover_image:
   alt: "Species360 logo with stylised globe in the zero, and claim below: Global
     information serving conservation. Species360 Logo mit stilisiertem Globus in
     der Null, darunter Claim: Global information serving conservation."
-colour_scheme: 0
+colour_scheme: 6
 tao_type: material
 date_start: 1973-12-31T23:00:00.000Z
 ---

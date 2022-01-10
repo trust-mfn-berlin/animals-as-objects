@@ -21,7 +21,7 @@ cover_image:
   image: /images/cover-knut-polar-bear-eisbaer-berlin-2006.jpg
   alt: '"Knut" at the Berlin zoo in 2007. "Knut" 2007 im Berliner Zoo. Source:
     AZGB, photo Griesbach. All rights reserved.'
-colour_scheme: 2
+colour_scheme: 10
 tao_type: story
 date_start: 2006-12-04T23:00:00.000Z
 date_end: 2011-03-18T23:00:00.000Z

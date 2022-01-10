@@ -22,7 +22,7 @@ cover_image:
   image: /images/cover-dead-ends-bathybius.jpg
   alt: "A lithographic illustration of Bathybius haeckelii. Lithographische
     Illustration von Bathybius haeckelii. Source: Ernst Haeckel, 1870."
-colour_scheme: 5
+colour_scheme: 9
 tao_type: story
 date_start: 1849-12-31T23:06:32.000Z
 ---

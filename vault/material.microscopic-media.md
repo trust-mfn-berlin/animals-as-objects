@@ -28,7 +28,7 @@ short_desc_de: |-
   Medien und Werkzeugen
 cover_image:
   image: /images/microscopicmedia.jpg
-colour_scheme: 10
+colour_scheme: 8
 tao_type: material
 date_start: '1673-12-23T18:43:39.000Z'
 date_end: ''

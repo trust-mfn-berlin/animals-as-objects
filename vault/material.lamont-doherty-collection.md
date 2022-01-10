@@ -16,7 +16,7 @@ desc_de: Eine bedeutende Langzeitsammlung mikropaläontologischer Präparate
 short_desc: An important long-term collection of micropaleontological slides
 cover_image:
   image: /images/lamont-cover.jpg
-colour_scheme: 14
+colour_scheme: 15
 tao_type: material
 date_start: 1949-01-01T18:51:23.138Z
 ---

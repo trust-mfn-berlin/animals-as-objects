@@ -14,7 +14,7 @@ short_desc: Microorganisms most commonly living in the oceans
 short_desc_de: Mikroorganismen, die am häufigsten in den Ozeanen leben
 cover_image:
   image: /images/foram-elphidium_hg.jpg
-colour_scheme: 11
+colour_scheme: 3
 tao_type: material
 date_start: 1826-01-02T20:03:29.910Z
 date_end: 2021-12-07T19:14:43.793Z

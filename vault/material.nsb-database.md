@@ -16,7 +16,7 @@ desc_de: Eine umfangreiche Datenbank mikropaläontologischer Proben und Daten
 short_desc: " A vast database of micropaleontological samples and data"
 cover_image:
   image: /images/nsb-cover-2.png
-colour_scheme: 14
+colour_scheme: 11
 tao_type: material
 date_start: 1989-01-01T18:39:00.000Z
 ---

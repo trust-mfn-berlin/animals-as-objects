@@ -4,7 +4,7 @@ title: Dendron and VSCode quick interface guide
 desc: ''
 updated: 1641483555942
 created: 1618399200062
-colour_scheme: 9
+colour_scheme: 4
 archived: true
 ---
 

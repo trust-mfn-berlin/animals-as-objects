@@ -14,7 +14,7 @@ short_desc: Displaying wild animals as colonial appropriation
 short_desc_de: Die Zurschaustellung wilder Tiere als koloniale Aneignung
 cover_image:
   image: /images/an-evocative-image_1.jpg
-colour_scheme: 11
+colour_scheme: 3
 tao_type: material
 date_start: 1903-01-01T19:37:39.000Z
 date_end: 1903-12-25T19:37:39.000Z

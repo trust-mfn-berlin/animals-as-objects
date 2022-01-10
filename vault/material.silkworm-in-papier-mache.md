@@ -20,7 +20,7 @@ cover_image:
     Berlin. Seidenraupenmodell von Louis Auzoux in der Zoologischen
     Lehrsammlung, Berlin. Source: Zoologische Lehrsammlung, photo Kerstin Stoll.
     All rights reserved.
-colour_scheme: 9
+colour_scheme: 16
 tao_type: material
 date_start: '1820-01-01T23:06:32.000Z'
 date_end: '1900-12-31T11:00:00.000Z'

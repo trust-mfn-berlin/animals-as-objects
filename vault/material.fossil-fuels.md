@@ -16,7 +16,7 @@ short_desc_de: Noch immer greifen wir für die Energieversorgung unserer
   Gesellschaft auf fossile Brennstoffe zurück.
 cover_image:
   image: /images/fossil-fuel.png
-colour_scheme: 17
+colour_scheme: 10
 tao_type: material
 date_start: 1846-01-02T19:59:06.330Z
 date_end: 2021-12-07T19:10:39.033Z

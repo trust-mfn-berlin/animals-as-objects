@@ -18,7 +18,7 @@ short_desc: The afterlife of a zoo animal in scientific collections.
 short_desc_de: Nachleben eines Zootieres in wissenschaftlichen Sammlungen
 cover_image:
   image: /images/bobby-totenmaske.jpg
-colour_scheme: 14
+colour_scheme: 4
 tao_type: story
 date_start: 1935-12-24T10:53:00.000Z
 date_end: ""

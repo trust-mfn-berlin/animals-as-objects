@@ -27,7 +27,7 @@ cover_image:
     Microphotograph of Cycladophora fossilized test. Mikrofotografie von
     fossilem Cycladophora-Test. Source:
     https://www.radiolaria.org/image.htm?sp_id=1&division=13
-colour_scheme: 2
+colour_scheme: 5
 tao_type: story
 date_start: 1858-12-31T23:06:32.000Z
 date_end: 2021-07-06T11:35:52.482Z

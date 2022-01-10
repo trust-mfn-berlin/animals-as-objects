@@ -4,7 +4,7 @@ title: Get Started with Dendron and VSCode
 desc: ''
 updated: 1641483551269
 created: 1618326259859
-colour_scheme: 7
+colour_scheme: 9
 archived: true
 ---
 

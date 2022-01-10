@@ -4,7 +4,7 @@ title: Root
 desc: ''
 updated: 1618323275119
 created: 1618323275122
-colour_scheme: 13
+colour_scheme: 11
 ---
 # Welcome to Dendron
 

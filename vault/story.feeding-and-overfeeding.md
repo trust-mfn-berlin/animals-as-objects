@@ -25,7 +25,7 @@ cover_image:
   alt: "Feeding as an act of sharing in the Berlin postwar zoo. Füttern als ein
     Akt des Teilens im Berliner Nachkriegszoo. Source: Tägliche Rundschau,
     03.07.1946."
-colour_scheme: 15
+colour_scheme: 11
 tao_type: story
 date_start: 1871-12-31T23:06:32.000Z
 date_end: 1960-12-31T11:00:00.000Z

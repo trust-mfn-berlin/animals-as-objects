@@ -14,7 +14,7 @@ short_desc: Animal skulls tell a story
 short_desc_de: 'Geschichten, die uns Tierschädel erzählen'
 cover_image:
   image: /images/purchased-from-a-caravan-1.jpg
-colour_scheme: 11
+colour_scheme: 14
 tao_type: material
 date_start: '1938-01-01T19:53:00.000Z'
 date_end: '1938-12-25T19:53:00.000Z'

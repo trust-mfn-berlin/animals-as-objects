@@ -28,7 +28,7 @@ cover_image:
     service vehicle of the "Reichsjagdamt", the Reich Hunting Authority, 1939.
     Nazi Zoodirektor Lutz Heck (li.) und wahrscheinlich sein Fahrer vor dem
     Dienstwagen des Reichsjagdamtes, 1939. Source: AZGB. All rights reserved.
-colour_scheme: 7
+colour_scheme: 5
 tao_type: story
 date_start: 1932-12-31T23:00:00.000Z
 date_end: 1945-12-31T11:00:00.000Z

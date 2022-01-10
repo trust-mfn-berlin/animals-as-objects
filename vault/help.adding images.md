@@ -9,7 +9,7 @@ desc: Adding Images
 desc_de: Adding Images
 short_desc: TEST
 short_desc_de: TEST
-colour_scheme: 13
+colour_scheme: 8
 tao_type: material
 date_start: ""
 date_end: ""

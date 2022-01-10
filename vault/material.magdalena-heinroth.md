@@ -19,7 +19,7 @@ cover_image:
   alt: "Berlin zoologist Magdalena Heinroth with three jackdaws, 1919. Berliner
     Zoologin Magdalena Heinroth mit drei Dohlen, 1919. Source: AZGB, photo O.
     Heinroth. All rights reserved."
-colour_scheme: 9
+colour_scheme: 13
 tao_type: material
 date_start: 1919-12-31T23:00:00.000Z
 ---

@@ -18,7 +18,7 @@ short_desc: Hunted, discarded, rediscovered
 short_desc_de: Gejagt, entsorgt und wieder ausgegraben
 cover_image:
   image: /images/cover-story-stellers-seacow-pallas.jpg
-colour_scheme: 14
+colour_scheme: 12
 tao_type: story
 date_start: 1741-12-24T09:16:39.000Z
 date_end: ""

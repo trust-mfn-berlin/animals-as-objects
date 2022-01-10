@@ -16,7 +16,7 @@ short_desc_de: Versteinerte Überreste von Organismen liefern Informationen übe
   unterirdische Sedimentschichten (Strata)
 cover_image:
   image: /images/sedimentary-rocks.png
-colour_scheme: 1
+colour_scheme: 0
 tao_type: material
 date_start: 1669-01-02T20:20:32.426Z
 date_end: 2021-12-07T19:31:17.935Z

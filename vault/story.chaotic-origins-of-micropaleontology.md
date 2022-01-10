@@ -29,7 +29,7 @@ cover_image:
   alt: |-
     Illustrations of microorganisms. Illustrationen von Mikroorganismen.
     Source: Leeuwenhoek, 1677.
-colour_scheme: 7
+colour_scheme: 14
 tao_type: story
 date_start: 1765-12-31T23:06:32.000Z
 date_end: 1850-12-31T11:06:32.000Z

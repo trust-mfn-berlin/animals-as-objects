@@ -19,7 +19,7 @@ cover_image:
   alt: "Berlin aquarium director Oskar Heinroth with three Ural owls, 1929.
     Direktor des Berliner Aquariums Oskar Heinroth mit drei Uralkäuzen, 1929.
     Source: AZGB. All rights reserved."
-colour_scheme: 9
+colour_scheme: 17
 tao_type: material
 date_start: 1903-12-31T23:00:00.000Z
 ---

@@ -19,7 +19,7 @@ cover_image:
     Futtermittelbedarf für die Großtiere des Berliner Zoos, 18. September 1945.
     Source: AZGB. All rights reserved."
   image: /images/cover-feed-requirements-futtermittelbedarf.jpg
-colour_scheme: 12
+colour_scheme: 15
 tao_type: material
 date_start: 1944-12-31T23:00:00.000Z
 ---

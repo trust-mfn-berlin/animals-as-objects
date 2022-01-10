@@ -25,7 +25,7 @@ short_desc_de: Von Mikrofossilien zur Planetenwissenschaft
 cover_image:
   image: /images/cover-using-cycladophora.jpeg
   alt: ""
-colour_scheme: 14
+colour_scheme: 8
 tao_type: story
 date_start: 1949-12-31T23:00:00.000Z
 date_end: 2021-07-06T11:38:39.090Z

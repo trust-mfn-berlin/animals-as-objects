@@ -14,7 +14,7 @@ short_desc: The materials of model building
 short_desc_de: Materialien des Modellbaus
 cover_image:
   image: /images/kartoffelkaefer-zool-lehrsammlung-oben.jpg
-colour_scheme: 4
+colour_scheme: 12
 tao_type: material
 date_start: 1929-12-31T23:00:00.000Z
 date_end: 2021-08-26T13:04:38.748Z

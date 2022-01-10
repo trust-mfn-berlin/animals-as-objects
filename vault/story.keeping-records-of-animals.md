@@ -26,7 +26,7 @@ short_desc: Object transfer and the circulation of lists between zoos and museum
 short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
 cover_image:
   image: /images/verzeichnis-mfn-hbsb-s-iii-zool-garten-bd-1.jpg
-colour_scheme: 13
+colour_scheme: 9
 tao_type: story
 date_start: 1914-01-13T00:00:00.000Z
 date_end: 2021-10-25T08:44:25.273Z

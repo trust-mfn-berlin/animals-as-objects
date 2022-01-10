@@ -21,7 +21,7 @@ cover_image:
     Source: Zoological Teaching Collection Berlin. All rights reserved.
 tao_type: material
 date_start: '1890-12-31T23:06:32.000Z'
-colour_scheme: 9
+colour_scheme: 8
 ---
 
 :::EN:::

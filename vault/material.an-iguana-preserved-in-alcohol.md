@@ -14,7 +14,7 @@ short_desc: From the colony via the zoo into the collection
 short_desc_de: Von der Kolonie über den Zoo in die Sammlung
 cover_image:
   image: /images/cover-iguana.jpg
-colour_scheme: 11
+colour_scheme: 1
 tao_type: material
 date_start: 1844-01-01T15:46:39.000Z
 date_end: 1844-12-24T15:46:39.000Z

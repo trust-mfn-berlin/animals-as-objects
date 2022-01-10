@@ -19,7 +19,7 @@ short_desc: Routes of animals and knowledge
 short_desc_de: Verbreitungswege von Tieren und Wissen
 cover_image:
   image: /images/fuehrer-durch-das-aquarium-nebst-terrarium-1914.jpg
-colour_scheme: 14
+colour_scheme: 12
 tao_type: story
 date_start: 1866-12-23T21:58:39.000Z
 date_end: 2020-01-01T21:08:57.624Z

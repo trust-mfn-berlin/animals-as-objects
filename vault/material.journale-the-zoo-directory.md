@@ -17,7 +17,7 @@ cover_image:
   alt: "Entries into the Berlin zoo directory, called Journale, 1936. Eintrag in
     das Tierregister des Berliner Zoos, genannt Journale, 1936. Source: AZGB.
     All rights reserved."
-colour_scheme: 9
+colour_scheme: 13
 tao_type: material
 date_start: 1887-12-31T23:06:32.000Z
 date_end: 2021-06-30T12:21:00.358Z

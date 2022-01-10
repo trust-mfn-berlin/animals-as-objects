@@ -17,7 +17,7 @@ desc_de: "Der überseeische Transport von – toten wie lebenden – Tieren stel
 short_desc: Lively (and deadly) metabolisms at sea
 short_desc_de: "Stoffwechselprozesse auf hoher See "
 cover_image: null
-colour_scheme: 14
+colour_scheme: 7
 tao_type: story
 date_start: 1839-12-31T23:50:39.000Z
 date_end: 1844-12-30T23:50:39.000Z
