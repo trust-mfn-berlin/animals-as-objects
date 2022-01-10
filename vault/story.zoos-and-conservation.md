@@ -7,7 +7,7 @@ short_desc_de: Seit relativ kurzer Zeit engagieren sich Zoos auch im Artenschutz
 date_end: ""
 published: false
 title: Zoos and Conservation
-updated: 1641680685295
+updated: 1641811030804
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 desc: Since only a relatively short time zoos intensify their conservation eforts.
 desc_de: Seit relativ kurzer Zeit engagieren sich Zoos auch im Artenschutz.
@@ -18,6 +18,7 @@ colour_scheme: 0
 tao_type: story
 date_start: ""
 ---
+
 :::EN:::
 
 Translation coming soon…
