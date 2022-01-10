@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Putting Animals on Display
 title_de: Tiere zur Schau stellen
 created: 1618572893774
-updated: 1641817209035
+updated: 1641817238217
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 author: Clemens Maier-Wolthausen
 translators:
@@ -435,7 +435,7 @@ _Das Antilopenhaus im Berliner Zoo um 1920. (AZGB. Alle Rechte vorbehalten.)_
 
 <figcaption>
 
-_Postkarte des Zoologischen Gartens Berlin mit der sogenannten Elefantenpagode, 1912. (AZGB)_
+_Postkarte des Zoologischen Gartens Berlin mit der sogenannten Elefantenpagode, 1912. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
