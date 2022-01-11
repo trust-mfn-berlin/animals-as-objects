@@ -24,26 +24,26 @@
       </section>
 
       <section v-show="activeFilter == 'type'">
+      <ol>
       <h2>Thema</h2>
-      <ul>
         <li v-for="article in articlesType.theme" :key="article.slug">
           <Inline :article="article"/>
         </li>
-      </ul>
+      </ol>
 
+      <ol>
       <h2>Story</h2>
-      <ul>
         <li v-for="article in articlesType.story" :key="article.slug">
           <Inline :article="article"/>
         </li>
-      </ul>
+      </ol>
 
+      <ol>
       <h2>Material</h2>
-      <ul>
         <li v-for="article in articlesType.material" :key="article.slug">
           <Inline :article="article"/>
         </li>
-      </ul>
+      </ol>
       </section>
 
       <section v-show="activeFilter == 'date'">
