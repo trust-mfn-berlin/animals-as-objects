@@ -7,7 +7,7 @@ desc: |-
   These tools and techniques are fundamental to characterizing microbial life.
   And they remind us that our view of the world is historically situated and
   always depends on mediations of one kind or another.
-updated: 1641839982337
+updated: 1641930918640
 created: 1618492963611
 license: CC BY-SA
 title_de: Mikroskopische Medien
@@ -100,7 +100,7 @@ While benefiting from the lessons learned through these techniques, micropaleont
 
 <figcaption>
 
-_Auf einem Objektträger präparierte Radiolarien, die im Rahmen eines [[Deep-Sea-Drilling|story.deep-sea-drilling]]-Projekts gesammelt wurden, liegen zur Betrachtung unter dem Mikroskop des Mikropaläontologen Johan Renaudie am Museum für Naturkunde Berlin; dazu die entsprechende vergrößerte Ansicht auf dem Computerbildschirm. (Foto: Filippo Bertoni. Alle Rechte vorbehalten.)_
+_Auf einem Objektträger präparierte Radiolarien, die im Rahmen eines [[Deep-Sea-Drilling-|story.deep-sea-drilling]]Projekts gesammelt wurden, liegen zur Betrachtung unter dem Mikroskop des Mikropaläontologen Johan Renaudie am Museum für Naturkunde Berlin; dazu die entsprechende vergrößerte Ansicht auf dem Computerbildschirm. (Foto: Filippo Bertoni. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
