@@ -5,7 +5,7 @@ title_de: Spukendes Vieh
 created: 1640359539704
 updated: 1641209409316
 id: AOZiyuOX6B0ntAdEoiiIi
-author: " Sophie-Marie Kaatsch"
+author: "Sophie-Marie Kaatsch"
 translators:
   translator_de_en: Lydia J. White
 desc: Audio stories about animals in Berlin

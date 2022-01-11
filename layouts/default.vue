@@ -45,10 +45,10 @@ export default {
       try {
         const res = await this.$axios.get('', {params: {uniqueId: uid}})
 
-        console.log(res);
+        // console.log(res);
         var sortedRoutes = res.data.sort((a, b) => (a.timestamp > b.timestamp) ? 1 : -1)
 
-        console.log(sortedRoutes);
+        // console.log(sortedRoutes);
         this.$store.commit('setRoutes', sortedRoutes);
 
         this.addCurrentRoute();

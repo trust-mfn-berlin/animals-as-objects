@@ -6,44 +6,44 @@
       <section v-show="activeFilter == 'alphabetical'">
       <ol>
         <template v-for="(letter, index) in articlesAlphabetical">
-          <h2 :key="index">{{index}}</h2>
-          <Inline v-for="article in letter" :key="article.slug" :article="article" />
+          <h2 :key="index">{{letter[0]}}</h2>
+          <Inline v-for="article in letter[1]" :key="article.slug" :article="article" />
         </template>
       </ol>
       </section>
 
       <section v-show="activeFilter == 'author'">
-        <div v-for="a in articlesAuthor" :key="a[0].author">
-        <h2>{{a[0].author}}</h2>
-        <ul>
-          <li v-for="article in a" :key="article.slug">
+        <div v-for="a in authorsSorted" :key="a[0]">
+        <ol>
+        <h2>{{a[0]}}</h2>
+          <li v-for="article in a[1]" :key="article.slug">
             <Inline :article="article"/>
           </li>
-        </ul>
+        </ol>
         </div>
       </section>
 
       <section v-show="activeFilter == 'type'">
+      <ol>
       <h2>Theme</h2>
-      <ul>
         <li v-for="article in articlesType.theme" :key="article.slug">
           <Inline :article="article"/>
         </li>
-      </ul>
+      </ol>
 
+      <ol>
       <h2>Story</h2>
-      <ul>
         <li v-for="article in articlesType.story" :key="article.slug">
           <Inline :article="article"/>
         </li>
-      </ul>
+      </ol>
 
+      <ol>
       <h2>Material</h2>
-      <ul>
         <li v-for="article in articlesType.material" :key="article.slug">
           <Inline :article="article"/>
         </li>
-      </ul>
+      </ol>
       </section>
 
       <section v-show="activeFilter == 'date'">
@@ -67,8 +67,9 @@ export default {
     }
   },
   async asyncData({ $content }) {
-    const results = await $content().sortBy('title').without(['body','body_de']).fetch();
-    var articlesAlphabetical = {};
+
+    const results = await $content().sortBy('title').only(['slug', 'title', 'title_de', 'id', 'tao_type', 'colour_scheme', 'cover_image', 'archived', 'author']).fetch();
+    var az = {};
     var articlesType = {
       theme: [],
       material: [],
@@ -79,18 +80,34 @@ export default {
     results.forEach(article => {
       if(article.archived != true){
         if(article.tao_type == 'material' || article.tao_type == 'theme' || article.tao_type == 'story'){
+
           // Sort alphabetically
-          const firstLetter = article.title.charAt(0);
-          if(!articlesAlphabetical[firstLetter]){
-            articlesAlphabetical[firstLetter] = []
-            articlesAlphabetical[firstLetter].push(article)
+          const regex = /[^a-z]/gi;
+          // Get First letter
+          var firstLetter = article.title.charAt(0);
+
+          // Check if first letter is a non-alphabet char
+          if(firstLetter.match(regex)){
+            firstLetter = article.title.charAt(1);
+            if(firstLetter.match(regex)){
+              firstLetter = article.title.charAt(2);
+            }
+          }
+
+          if(!az[firstLetter]){
+            az[firstLetter] = []
+            az[firstLetter].push(article)
           } else {
-            articlesAlphabetical[firstLetter].push(article)
+            az[firstLetter].push(article)
           }
           // Sort by Type
           articlesType[article.tao_type].push(article);
 
           // Sort by Author
+
+          // Split off Lastname for later
+          article.authorLastname = article.author.split(' ')[1];
+
           if(!articlesAuthor[article.author]){
             articlesAuthor[article.author] = [];
             articlesAuthor[article.author].push(article);
@@ -101,10 +118,15 @@ export default {
       }
     });
 
-    var authorNames = Object.keys(articlesAuthor);
+    var articlesAlphabetical = Object.entries(az);
+    articlesAlphabetical.sort((a, b) => (a[0] > b[0] ? 1 : -1));
+
+
+    var authorsSorted = Object.entries(articlesAuthor);
+    authorsSorted.sort((a, b) => (a[1][0].authorLastname > b[1][0].authorLastname ? 1 : -1));
     
     return {
-      articlesAlphabetical, articlesType, articlesAuthor, authorNames
+      articlesAlphabetical, articlesType, authorsSorted
     };
   },
   computed:{
