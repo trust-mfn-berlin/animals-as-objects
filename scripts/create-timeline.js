@@ -50,7 +50,7 @@ async function getContent(filePath, encoding = "utf-8") {
     if(frontmatter.date_start || frontmatter.date_end){
 
       const dateStart = frontmatter.date_start ? frontmatter.date_start : undefined;
-      const dateEnd = frontmatter.date_end ? frontmatter.date_end : undefined;
+      const dateEnd = frontmatter.date_end ? frontmatter.date_end : '2022-12-31T00:00:00.000Z';
 
       var dataObject = {
         slug: slug,

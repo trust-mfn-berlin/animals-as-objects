@@ -177,7 +177,13 @@ export default {
           //   .style("opacity", "0")
 
         }).on('mousemove', function(event, d) {
-          tooltip.text(d.title + ': ' + that.$options.filters.formatDateYear(d.data.date_start) + '–' + that.$options.filters.formatDateYear(d.data.date_end))
+          tooltip.text(function(){
+            if(that.$options.filters.formatDateYear(d.data.date_start) == that.$options.filters.formatDateYear(d.data.date_end)){
+              return d.title + ' (' + that.$options.filters.formatDateYear(d.data.date_start) + ')'
+            } else {
+              return d.title + ' (' + that.$options.filters.formatDateYear(d.data.date_start) + '–' + that.$options.filters.formatDateYear(d.data.date_end) + ')'
+            }
+          })
           .attr('transform', `translate(${event.offsetX},${event.offsetY})`)
           .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
         }).on('mouseout', function(event, d){
