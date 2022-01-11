@@ -13,13 +13,13 @@
       </section>
 
       <section v-show="activeFilter == 'author'">
-        <div v-for="a in articlesAuthor" :key="a[0].author">
-        <h2>{{a[0].author}}</h2>
-        <ul>
-          <li v-for="article in a" :key="article.slug">
+        <div v-for="a in authorsSorted" :key="a[0]">
+        <ol>
+        <h2>{{a[0]}}</h2>
+          <li v-for="article in a[1]" :key="article.slug">
             <Inline :article="article"/>
           </li>
-        </ul>
+        </ol>
         </div>
       </section>
 
@@ -67,7 +67,7 @@ export default {
     }
   },
   async asyncData({ $content }) {
-    const results = await $content().sortBy('title_de').only(['slug', 'title', 'title_de', 'id', 'tao_type', 'colour_scheme', 'cover_image', 'archived']).fetch();
+    const results = await $content().sortBy('title_de').only(['slug', 'title', 'title_de', 'id', 'tao_type', 'colour_scheme', 'cover_image', 'archived', 'author']).fetch();
     var az = {};
     var articlesType = {
       theme: [],
@@ -108,6 +108,9 @@ export default {
           articlesType[article.tao_type].push(article);
 
           // Sort by Author
+          // Split off Lastname for later
+          article.authorLastname = article.author.split(' ')[1];
+
           if(!articlesAuthor[article.author]){
             articlesAuthor[article.author] = [];
             articlesAuthor[article.author].push(article);
@@ -121,10 +124,11 @@ export default {
     var articlesAlphabetical = Object.entries(az);
     articlesAlphabetical.sort((a, b) => (a[0] > b[0] ? 1 : -1));
 
-    var authorNames = Object.keys(articlesAuthor);
+    var authorsSorted = Object.entries(articlesAuthor);
+    authorsSorted.sort((a, b) => (a[1][0].authorLastname > b[1][0].authorLastname ? 1 : -1));
     
     return {
-      articlesAlphabetical, articlesType, articlesAuthor, authorNames
+      articlesAlphabetical, articlesType, authorsSorted
     };
   },
   computed:{
