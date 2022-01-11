@@ -80,7 +80,24 @@ export default {
       if(article.archived != true){
         if(article.tao_type == 'material' || article.tao_type == 'theme' || article.tao_type == 'story'){
           // Sort alphabetically
-          const firstLetter = article.title_de.charAt(0);
+          const regex = /[^a-z]/gi;
+          // Get First letter
+          var firstLetter = article.title_de.charAt(0);
+
+          // Check if first letter is a non-alphabet char
+          if(firstLetter.match(regex)){
+
+            if(firstLetter == "Ü"){
+              firstLetter = 'U'
+            } else if(firstLetter == "Ö"){
+              firstLetter = 'O'
+            } else if(firstLetter == "Ä"){
+              firstLetter = 'A'
+            } else {
+              firstLetter = article.title_de.charAt(1);
+            }
+          }
+          
           if(!articlesAlphabetical[firstLetter]){
             articlesAlphabetical[firstLetter] = []
             articlesAlphabetical[firstLetter].push(article)
