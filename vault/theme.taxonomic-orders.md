@@ -1,22 +1,19 @@
 ---
-id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
+license: CC BY-SA
 title: Taxonomic Orders
+title_de: Taxonomische Ordnungen
+created: 1618491191119
+updated: 1641831199493
+id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
+author: Filippo Bertoni
+translators:
+  translator_en_de: ""
 desc: |-
   In biology, taxonomy is a formal system to name, define, and classify
   organisms, regulated and governed by a set of rules. Since its beginning
   biological taxonomy was neither stable nor universal, controversies frequently
   emerged. Classifications still continue to change today – and they have
   lasting impacts on our world.
-updated: 1641831199493
-created: 1618491191119
-license: CC BY-SA
-title_de: Taxonomische Ordnung
-author: Filippo Bertoni
-short_desc_de: Die Kategorisierung der Natur ist politisch
-date_end: 2021-07-06T11:43:53.791Z
-published: false
-translators:
-  translator_en_de: ''
 desc_de: |-
   In der Biologie ist die Taxonomie ein formales System zur Benennung,
   Definition und Klassifizierung von Organismen, das mit Hilfe einer Reihe von
@@ -25,6 +22,7 @@ desc_de: |-
   Die Klassifizierungen ändern sich auch heute noch – und beeinflussen unsere
   Welt nachhaltig.
 short_desc: Organising nature is political
+short_desc_de: Die Kategorisierung der Natur ist politisch
 cover_image:
   image: /images/cover-taxonomical-orders.jpg
   alt: |-
@@ -34,6 +32,8 @@ cover_image:
 colour_scheme: 12
 tao_type: theme
 date_start: 1752-12-31T23:06:32.000Z
+date_end: 2021-07-06T11:43:53.791Z
+published: false
 ---
 
 :::EN:::
