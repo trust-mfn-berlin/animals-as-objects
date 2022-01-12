@@ -14,36 +14,36 @@
 
       <section v-show="activeFilter == 'author'">
         <div v-for="a in authorsSorted" :key="a[0]">
-        <ol>
         <h2>{{a[0]}}</h2>
+        <ul>
           <li v-for="article in a[1]" :key="article.slug">
             <Inline :article="article"/>
           </li>
-        </ol>
+        </ul>
         </div>
       </section>
 
       <section v-show="activeFilter == 'type'">
-      <ol>
       <h2>Thema</h2>
+      <ul>
         <li v-for="article in articlesType.theme" :key="article.slug">
           <Inline :article="article"/>
         </li>
-      </ol>
+      </ul>
 
-      <ol>
       <h2>Story</h2>
+      <ul>
         <li v-for="article in articlesType.story" :key="article.slug">
           <Inline :article="article"/>
         </li>
-      </ol>
+      </ul>
 
-      <ol>
       <h2>Material</h2>
+      <ul>
         <li v-for="article in articlesType.material" :key="article.slug">
           <Inline :article="article"/>
         </li>
-      </ol>
+      </ul>
       </section>
 
       <section v-show="activeFilter == 'date'">
