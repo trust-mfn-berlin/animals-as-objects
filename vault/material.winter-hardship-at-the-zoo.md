@@ -4,7 +4,7 @@ title_de: Wintersnot im Zoo
 created: 1635149269643
 author: Mareike Vennen
 short_desc_de: "Ein Gedicht zur Lage "
-date_end: 1948-10-25T09:34:00.000Z
+date_end: ""
 published: false
 title: Winter Hardship at the Zoo
 updated: 1641331356569
