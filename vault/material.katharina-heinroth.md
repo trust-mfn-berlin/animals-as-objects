@@ -7,7 +7,7 @@ short_desc_de: Foto von Katharina Heinroth auf der morgendlichen Runde durch den
 date_end: 1955-12-31T11:00:00.000Z
 published: false
 title: Katharina Heinroth
-updated: 1641649467419
+updated: 1642008554476
 id: f2e04dbc-1209-40b6-baf5-599fd36e63c7
 translators:
   translator_de_en: ""
@@ -41,7 +41,7 @@ _Katharina Heinroth with her Newfoundland “Ajax” and four co-workers on thei
 
 </figure>
 
-Katharina Heinroth (née Berger, 1897–1989) was the Berlin Zoological Garden’s first, and to this day only, female director. In the image above, she is pictured with zoo staff on her daily morning rounds. One of the men in work clothes appears to be reporting to her. How did Katharina Heinroth come to be the first, and at the time only, woman to occupy the position of zoo director?
+Katharina Heinroth (née Berger, 1897-1989) was the Berlin Zoological Garden’s first, and to this day only, female director. In the image above, she is pictured with zoo staff on her daily morning rounds. One of the men in work clothes appears to be reporting to her. How did Katharina Heinroth come to be the first, and at the time only, woman to occupy the position of zoo director?
 
 Katharina Berger completed a degree in education before going on to study zoology, botany, geography, and geology in Breslau. She earned her doctorate summa cum laude in 1923, with a dissertation on reptilian hearing. In 1933, she married the widowed director of the Berlin Aquarium [[material.oskar-heinroth]], with whom she continued the research on bird life cycles and behavior that he had previously conducted with his first wife [[material.magdalena-heinroth]]. Much of their research was done in the apartment they shared at the Berlin Aquarium.
 
