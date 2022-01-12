@@ -207,13 +207,9 @@ section{
   }
 
   &.outro{
-    padding:@space-l @space-l @space-l @space-s;
-    background-color: @bg-2;
+    padding:@space-s @space-l @space-l @space-s;
+    background-color: @bg;
 
-    @supports (backdrop-filter: blur()) {
-      background: rgba(243, 236, 229, 0.8);
-      backdrop-filter: blur(10px);
-    }
   }
 }
 

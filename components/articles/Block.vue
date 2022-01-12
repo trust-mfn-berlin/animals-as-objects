@@ -2,7 +2,7 @@
   <article class="block" :class="article.tao_type">
     <nuxt-link :to="urlBilingual">
     <figure v-if="article.cover_image && article.cover_image.image">
-      <img width="600" height="600" :src="article.cover_image.image.replace('/images/','/thumbnails/l/')" :alt="article.cover_image.alt" />
+      <img width="600" height="600" :src="article.cover_image.image.replace('/images/','/thumbnails/l/')" :alt="article.cover_image.alt ? article.cover_image.alt : ''" />
     </figure>
 
     <div class="text" :style="{backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
