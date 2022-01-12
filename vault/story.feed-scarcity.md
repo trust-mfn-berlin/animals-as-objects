@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1642013641458
+updated: 1642013807005
 id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: ""
@@ -460,45 +460,45 @@ Je nach Perspektive war der Zoo Umschlagplatz für den Austausch von Tieren und 
 
 [^1]: Im Jahr 1938 waren es 3.715 Tiere; 1944 waren es noch 1.700 Tiere. Vgl. Halbjahresbericht für Aufsichtsratssitzung vom 10.08.1955, AZGB N 4/2.
 
-[^2]: Tätigkeitsbericht des Zoologischen Gartens vom 3.5. bis 23.5.1945, AZGB O 0/1/75.  
+[^2]: Tätigkeitsbericht des Zoologischen Gartens vom 03.05. bis 23.05.1945, AZGB O 0/1/75.  
 
-[^3]: K. Heinroth an Paula, 1.03.1946, AZGB N 4/12.
+[^3]: K. Heinroth an Paula, 01.03.1946, AZGB N 4/12.
 
 [^4]: “Siam erhält Stubenarrest: Wintervorbereitungen im Zoo”. _Das Volk_, 04.11.1945. Die Umnutzung von Freiflächen zum Anbau von Gemüse und Kartoffeln war, wie man sich vorstellen kann, weit verbreitet. Auch der Garten des Museums für Naturkunde war bis 1949 für den Gemüseanbau für die Mitarbeiter:innen reserviert.
 
-[^5]: Vgl. Tätigkeitsbericht des Zoologischen Gartens vom 3.5. bis 23.5.1945, AZGB O 0/1/75. Als Folgen des Krieges waren ein Großteil der Tiere tot und große Teile der Bebauung im Zoo zerstört, weshalb nach der Enttrümmerung viele Freiflächen entstanden.
+[^5]: Vgl. Tätigkeitsbericht des Zoologischen Gartens vom 03.05. bis 23.5.1945, AZGB O 0/1/75. Als Folgen des Krieges waren ein Großteil der Tiere tot und große Teile der Bebauung im Zoo zerstört, weshalb nach der Enttrümmerung viele Freiflächen entstanden.
 
 [^6]: K. Heinroth an L. Rüppell, o.D. [vermutlich April/Mai 1946], AZGB N 4/12. Vgl. auch Jahresbericht der Parkabteilung des Zoologischen Gartens Berlin 1945: “Das grosse Elefantengehege und die unbesetzten Gehege im Straussenhaus und vor der Fasanerie mit Topinambur und Futterrüben bebaut. Die beiden Hauptpromenaden mit Kartoffen bebaut.”
 
-[^7]: “Die meisten Rasenflächen werden mit Rüben und Futtermitteln bestellt werden, die Futtermittelnot ist furchtbar.” K. Heinroth an Paula, 01.3.1946, AZGB N 4/12 I. Vgl. auch K. Heinroth an L. Rüppell, o.D. [vermutlich April/Mai 1946], AZGB N 4/12. In einem Brief schrieb Heinroth: “Ein Teil der Gefolgschaft nutzt die freien Gehege als Schrebergärten.” Tätigkeitsbericht von Katharina Heinroth, 18.9.1945, AZGB N 4/2.
+[^7]: “Die meisten Rasenflächen werden mit Rüben und Futtermitteln bestellt werden, die Futtermittelnot ist furchtbar.” K. Heinroth an Paula, 01.03.1946, AZGB N 4/12 I. Vgl. auch K. Heinroth an L. Rüppell, o.D. [vermutlich April/Mai 1946], AZGB N 4/12. In einem Brief schrieb Heinroth: “Ein Teil der Gefolgschaft nutzt die freien Gehege als Schrebergärten.” Tätigkeitsbericht von Katharina Heinroth, 18.09.1945, AZGB N 4/2.
 
-[^8]: Geschäftsbericht vom 1.4.-31.12.1949, AZGB N/4/2.
+[^8]: Geschäftsbericht vom 01.04.-31.12.1949, AZGB N/4/2.
 
-[^9]: K. Heinroth an P. Chudy, 17.7.1948, AZGB O 0/1/60.
+[^9]: K. Heinroth an P. Chudy, 17.07.1948, AZGB O 0/1/60.
 
-[^10]: K. Heinroth an W. Börner, 19.7.1947, AZGB O 1/2/37. Zur Futtermittelknappheit und der Tatsache, dass keine neuen Tiere erworben werden konnten, trugen nicht zuletzt die finanziellen Probleme des Zoos bei. Nach der Teilung der Stadt durch das Potsdamer Abkommen befanden sich seine Konten bei Banken im Ostteil der Stadt. Außerdem konnte der Zoo zunächst wenig Einnahmen verzeichnen.
+[^10]: K. Heinroth an W. Börner, 19.07.1947, AZGB O 1/2/37. Zur Futtermittelknappheit und der Tatsache, dass keine neuen Tiere erworben werden konnten, trugen nicht zuletzt die finanziellen Probleme des Zoos bei. Nach der Teilung der Stadt durch das Potsdamer Abkommen befanden sich seine Konten bei Banken im Ostteil der Stadt. Außerdem konnte der Zoo zunächst wenig Einnahmen verzeichnen.
 
-[^11]: “Sorgen im Berliner Zoo”. _Neue Zeit_, 18.9.1948.
+[^11]: “Sorgen im Berliner Zoo”. _Neue Zeit_, 18.09.1948.
 
-[^12]: “Der Zoo braucht dringend Hilfe”. _Die Neue Zeitung_ [München], 7.4.1949.
+[^12]: “Der Zoo braucht dringend Hilfe”. _Die Neue Zeitung_ [München], 07.04.1949.
 
 [^13]: Die Zeitschrift erschien zunächst im Allgemeinen Deutschen Verlag in Ost-Berlin, bis 1948 der Demokratische Frauenbund Deutschlands (DFD) die Herausgeberschaft bis zur Einstellung der Zeitschrift Ende 1962 übernahm. Danach erschien die Zeitschrift auf Beschluss des SED-Sekretariats im Deutschen Frauenverlag GmbH Berlin und ab 1953 im Verlag für die Frau, Leipzig. 1963 wurde die Illustrierte _Für Dich_ Nachfolgerin der _Frau von heute_.
 
-[^14]: “Zoo: Junge Tiere, junge Pflanzen, junge Menschen”. _Die Frau von heute_, 7.5.1946.
+[^14]: “Zoo: Junge Tiere, junge Pflanzen, junge Menschen”. _Die Frau von heute_, 07.05.1946.
 
-[^15]: Diese Einstellung verkehrte sich in den 1950er Jahren, zur Zeit des Weltwirtschaftswunders, als es hieß: “Wer seine Liebe zum Tier dadurch beweisen will, daß er dessen Hunger stillt, sollte daran denken, daß das Tier nicht die Verwertungsstelle für jene Nahrungsmittel ist, die für einen Menschen ungenießbar geworden sind.” “Falsche Tierliebe”. _Gießener Anzeiger_, 16.4.1960. Siehe auch [[story.feeding-prohibited]].
+[^15]: Diese Einstellung verkehrte sich in den 1950er Jahren, zur Zeit des Weltwirtschaftswunders, als es hieß: “Wer seine Liebe zum Tier dadurch beweisen will, daß er dessen Hunger stillt, sollte daran denken, daß das Tier nicht die Verwertungsstelle für jene Nahrungsmittel ist, die für einen Menschen ungenießbar geworden sind.” “Falsche Tierliebe”. _Gießener Anzeiger_, 16.04.1960. Siehe auch [[story.feeding-prohibited]].
 
-[^16]: K. Heinroth an das Haupternährungsamt der Stadt Berlin, 6.8.1945, AZGB N 4/2.
+[^16]: K. Heinroth an das Haupternährungsamt der Stadt Berlin, 06.08.1945, AZGB N 4/2.
 
 [^17]: Vgl. AZGB O 1/1/2.
 
 [^18]: Vgl. Magistrat der Stadt Berlin, Abteilung für Ernährung an den Zoologischen Garten Berlin, 17.11.1945, AZGB O 1/1/2.
 
-[^19]: K. Heinroth an E. Mohr, 22.1.1946, AZGB N 4/12.
+[^19]: K. Heinroth an E. Mohr, 22.01.1946, AZGB N 4/12.
 
 [^20]: de Luce, Daniel. “Lebensmittelkarte 5 im Berliner Zoo”. _Tägliche Rundschau_, 17.12.1946.
 
-[^21]: “Spinat oder Hirsche: Ein Frühlingsspaziergang durch den Berliner Zoo”. _Der Tagesspiegel_, 3.4.1947.
+[^21]: “Spinat oder Hirsche: Ein Frühlingsspaziergang durch den Berliner Zoo”. _Der Tagesspiegel_, 03.04.1947.
 
 [^22]: Vgl. _Verordnungsblatt (VOBl.) der Stadt Berlin 1945_, Nr. 1, Juli 1945: 5.
 
@@ -506,33 +506,33 @@ Je nach Perspektive war der Zoo Umschlagplatz für den Austausch von Tieren und 
 
 [^24]: Vgl. AZGB  O 1/2/42.
 
-[^25]: Gartenbau F. Rauhut an K. Heinroth, 14.1.1947, AZGB O 1/2/42.
+[^25]: Gartenbau F. Rauhut an K. Heinroth, 14.01.1947, AZGB O 1/2/42.
 
-[^26]: M. Metzner an K. Heinroth, 9.4.1947, AZGB O 1/2/42.
+[^26]: M. Metzner an K. Heinroth, 09.04.1947, AZGB O 1/2/42.
 
 [^27]: H. Binck an den Zoologischen Garten Berlin, 16.11.1947, AZGB O 1/2/42.
 
-[^28]: Tätigkeitsbericht von Katharina Heinroth, 18.9.1945, AZGB N 4/2.
+[^28]: Tätigkeitsbericht von Katharina Heinroth, 18.09.1945, AZGB N 4/2.
 
-[^29]: Aktennotiz Katharina Heinroth, 19.3.1946, AZGB O 0/1/75.
+[^29]: Aktennotiz Katharina Heinroth, 19.03.1946, AZGB O 0/1/75.
 
-[^30]: Als die Meerschweinchenzucht wieder im Aufbau war, blieb der Zoo “öfter gezwungen, aus Futterknappheit Meerschweinchen zu verfüttern”. K. Heinroth an J. Roscher, 23.2.1947, AZGB O 1/2/42. Zur drohenden Evakuierung vgl. auch K. Heinroth an K. Lorenz, 12.10.1948, AZGB N/4/12; K. Heinroth an E. Mohr, 28.2.1946, in: AZGB N 4/12.
+[^30]: Als die Meerschweinchenzucht wieder im Aufbau war, blieb der Zoo “öfter gezwungen, aus Futterknappheit Meerschweinchen zu verfüttern”. K. Heinroth an J. Roscher, 23.2.1947, AZGB O 1/2/42. Zur drohenden Evakuierung vgl. auch K. Heinroth an K. Lorenz, 12.10.1948, AZGB N/4/12; K. Heinroth an E. Mohr, 28.02.1946, in: AZGB N 4/12.
 
 [^31]: Zwischen Mai und August 1945 stieg der Tierbestand von 194 auf 240 Stück, vor allem durch die Aufnahme von Tieren aus dem Zirkus Brumbach.
 
-[^32]: Vgl. Heinroth, Katharina. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 154-157. Der Zweite Weltkrieg hatte in ganz Europa viele Gebäude und Gehege in Zoos mehr oder weniger schwer zerstört. Während des Ersten und Zweiten Weltkriegs haben außerdem Truppenverbände der Reichswehr und der Wehrmacht Tiere in den eroberten Gebieten Europas gefangen und dem Zoologischen Garten der Reichshauptstadt übergeben. 1939 brachte Lutz Heck außerdem wertvolle Schautiere, darunter einen Elefanten, aus dem Warschauer Zoo für deutsche Zoos. Vgl. Szczygielska, Marianna. “Elephant Empire: Zoos and Colonial Encounters in Eastern Europe”. _Cultural Studies_(2020): 1-22. https://doi.org/10.1080/09502386.2020.1780280; siehe auch [[story.catching-animals]].
+[^32]: Vgl. Katharina Heinroth. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 154-157. Der Zweite Weltkrieg hatte in ganz Europa viele Gebäude und Gehege in Zoos mehr oder weniger schwer zerstört. Während des Ersten und Zweiten Weltkriegs haben außerdem Truppenverbände der Reichswehr und der Wehrmacht Tiere in den eroberten Gebieten Europas gefangen und dem Zoologischen Garten der Reichshauptstadt übergeben. 1939 brachte Lutz Heck außerdem wertvolle Schautiere, darunter einen Elefanten, aus dem Warschauer Zoo für deutsche Zoos. Vgl. Marianna Szczygielska. “Elephant Empire: Zoos and Colonial Encounters in Eastern Europe”. _Cultural Studies_(2020): 1-22. https://doi.org/10.1080/09502386.2020.1780280; siehe auch [[story.catching-animals]].
 
-[^33]: K. Heinroth an den Magistrat der Stadt Berlin, Abteilung für Ernährung, 20.3.1946, AZGB O 1/1/2. Vgl. auch K. Heinroth an die Alliierte Kommandantur der Stadt Berlin, 15.5.1946, AZGB O 1/1/2.
+[^33]: K. Heinroth an den Magistrat der Stadt Berlin, Abteilung für Ernährung, 20.03.1946, AZGB O 1/1/2. Vgl. auch K. Heinroth an die Alliierte Kommandantur der Stadt Berlin, 15.5.1946, AZGB O 1/1/2.
 
 [^34]: “Verhungert und halb erfroren war im März vergangenen Jahres ‘Siam’, der letzte der Berliner Dickhäuter.” Vgl. “Auf den Spuren des Elefanten”. _Der Kurier_, 07.02.1948;  sowie “‘Siam’ unter der Bandsäge”. _Telegraf_, 21.03.1947.
 
-[^35]: Wöbse, Anna-Katharina, und Mieke Roscher. “Zootiere während des Zweiten Weltkrieges: London und Berlin 1939-1945”. _WerkstattGeschichte_ 56 (2010): 44-62.
+[^35]: Anna-Katharina Wöbse und Mieke Roscher. “Zootiere während des Zweiten Weltkrieges: London und Berlin 1939-1945”. _WerkstattGeschichte_ 56 (2010): 44-62.
 
 [^36]: K. Heinroth an W. Börner, 14.10.1947, AZGB O 1/2/42.
 
-[^37]: C. Gutschmidt an K. Heinroth, 26.3.1947, AZGB O 1/2/37.
+[^37]: C. Gutschmidt an K. Heinroth, 26.03.1947, AZGB O 1/2/37.
 
-[^38]: Vgl. K. Heinroth an E. Schmidt, 13.10.1948, AZGB O 0/1/274. Der Nahrungsmittelmangel war bereits im Ersten Weltkrieg ein zentrales Thema für die Menschen wie auch für die Zootiere. Besonders im sogenannten “Steckrübenwinter” 1916/17 gestaltete es sich schwierig, Getreide und Kartoffelprodukte zu erhalten, was in vielen deutschen Städten für Unruhen und Plünderungen sorgte. Die Vorstellung, Tiere seien ein Nahrungskonkurrent des Menschen führte zur Veranlassung von Massenschlachtungen, die letztendlich die Situation aber eher verschlechterten. Vgl. Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015.
+[^38]: Vgl. K. Heinroth an E. Schmidt, 13.10.1948, AZGB O 0/1/274. Der Nahrungsmittelmangel war bereits im Ersten Weltkrieg ein zentrales Thema für die Menschen wie auch für die Zootiere. Besonders im sogenannten “Steckrübenwinter” 1916/17 gestaltete es sich schwierig, Getreide und Kartoffelprodukte zu erhalten, was in vielen deutschen Städten für Unruhen und Plünderungen sorgte. Die Vorstellung, Tiere seien ein Nahrungskonkurrent des Menschen führte zur Veranlassung von Massenschlachtungen, die letztendlich die Situation aber eher verschlechterten. Vgl. Nastasja Klothmann. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015.
 
 [^39]: K. Heinroth an E. Schmidt, 13.10.1948, AZGB O 0/1/274.
 
