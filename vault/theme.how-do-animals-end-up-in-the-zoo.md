@@ -7,7 +7,7 @@ short_desc_de: Politische, logistische und moralische Herausforderungen
 date_end: ""
 published: false
 title: How Do Animals End Up in the Zoo?
-updated: 1641831158807
+updated: 1642010170299
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 translators:
   translator_de_en: ""
@@ -191,15 +191,15 @@ Sandra Nicolodi states that while the “shift toward coordinated inter-zoo bree
 
 For some years now, it has been possible to identify new tendencies that are changing zoos internationally, in Germany, and in Berlin. Long-term strategic considerations are now taking the place of pragmatism to a greater extent. Increasing criticism of the conditions in zoos, and questions about their future role in natural history education and species conservation _ex situ_ (i.e., in zoos through breeding) and _in situ_ (in the animals’ original habitats) have led to a move away from earlier zoo directors’ “passion for collecting”. Observers now see everywhere a reduction in the number of species kept, in favour of larger enclosures and a focus on so-called flagship species – meaning, “endangered species with a high display value, through whose protection one simultaneously achieves the protection of many other species that share their habitat with them”.[^16] These practices are in line with the “Conservation Strategy” adopted by the World Association of Zoos and Aquariums in 2015.[^17] Whether this can induce an effective reorientation of zoos for the future is debatable.[^18] For zoos have not quite abandoned pragmatic considerations: Breeding programmes, especially of display-worthy animals, remain important to ensure the continued presence of the favourites that as-yet plentiful audiences keep coming to the zoo to see. Perhaps these, in their turn, will generate the resources needed to achieve new strategic goals?
 
-[^1]: Zoological Garden Berlin. _Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin_ for the year 1907.
+[^1]: Zoological Garden Berlin. "Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin for the year 1907”.
 
-[^2]: For an overview of the imports of non-native animal species, cf. Dittrich, Lothar. ”Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter, and Gerhard Heindl (eds.). Wien: Braumüller, 2007: 1-64.
+[^2]: For an overview of the imports of non-native animal species, cf. Lothar Dittrich. ”Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs: Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter, and Gerhard Heindl (eds.). Wien: Braumüller, 2007: 1-64.
 
-[^3]: Klös, Heinz-Georg. “Tierfänger und Großtierhändler: Erinnerungen eines alten Tiergärtners, Teil I”. _Bongo_ 34 (2004): 3-42; and Klös, Heinz-Georg. “(…) Teil II”. _Bongo_ 35 (2005): 7-42.
+[^3]: Heinz-Georg Klös. “Tierfänger und Großtierhändler: Erinnerungen eines alten Tiergärtners, Teil I”. _Bongo_ 34 (2004): 3-42; and Heinz-Georg Klös, . “(…), Teil II”. _Bongo_ 35 (2005): 7-42.
 
 [^4]: Minutes of meeting of the “Kommission für Tiergärten der DDR”, the Commission for Zoos of the GDR, on 23 and 24 March 1970 in Halle, 16.04.1970, AZGB, O 0/1/18; H. Dathe to the Ministry for Culture of the DDR, 10.12.1974, AZGB, O 0/1/206; Minutes of meeting of the Association of German Zoo Directors, 1962, Archive Tiergarten Schönbrunn (ATGS), Estate W. Fiedler, File “Verband Deutscher Zoodirektoren”, Nr. 2.
 
-[^5]: Heck, Ludwig. “Heiter-ernste Erinnerungen an Tiergärtner”. _Der Zoologische Garten_ 12, Nr. 3/4 (no date): 228-238.
+[^5]: Ludwig Heck. “Heiter-ernste Erinnerungen an Tiergärtner”. _Der Zoologische Garten_ 12, Nr. 3/4 (no date): 228-38.
 
 [^6]: Zoological Garden Berlin. _Geschäftsberichte_ for the years 1919-1924.
 
@@ -207,25 +207,25 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 [^8]: Tierpark Berlin, Press release Nr. 104/63, 28.12.1963, AZGB O 0/1/307. Direct quotes have been translated into English for clarity’s sake.
 
-[^9]: Kaiser, Rainer. “Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium?” In _Picassofisch und Kompassqualle: 100 Jahre Zoo-Aquarium Berlin_, Bernhard Blaszkiewitz (ed.), Berlin: Lehmanns, 2013: 214-239, 229, 232-235.
+[^9]: Rainer Kaiser. “Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium?” In _Picassofisch und Kompassqualle: 100 Jahre Zoo-Aquarium Berlin_, Bernhard Blaszkiewitz (ed.), Berlin: Lehmanns, 2013: 214-239, 229, 232-235.
 
-[^10]: Heinroth, Katharina. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 174-175; Maier-Wolthausen, Clemens. _Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos_. Andreas Knieriem (ed.). Berlin: Ch. Links Verlag, 2019: 151, 153; Blaszkiewitz, Bernhard. _Knautschke, Knut & Co: Die Lieblingstiere der Berliner aus Tierpark und Zoo_. Berlin: Lehmanns Media, 2009: 11-18.
+[^10]: Katharina Heinroth. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 174-175; Clemens Maier-Wolthausen. _Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos_. Andreas Knieriem (ed.). Berlin: Ch. Links Verlag, 2019: 151, 153; Bernhard Blaszkiewitz. _Knautschke, Knut & Co: Die Lieblingstiere der Berliner aus Tierpark und Zoo_. Berlin: Lehmanns Media, 2009: 11-18.
 
-[^11]: Cf. de Bont, Raf. “Extinct in the Wild: Finding a Place for the European Bison 1919-1952”. In _Spatializing the History of Ecology. Sites, Journeys, Mappings_, Raf de Bont and Jens Lachmund (eds.). New York: Routledge, 2017; Bouman, Jan. “The History of Breeding the Przewalski Horse in Captivity”. In _Breeding Przewalski Horses in Captivity for Release into the Wild_, Jan Bouman, Inge Bouman, and Annette Groeneveld (eds.). Rotterdam: Foundation for the Preservation and Protection of the Przewalski Horse, 1982: 17-64  .
+[^11]: Cf. Raf de Bont. “Extinct in the Wild: Finding a Place for the European Bison 1919-1952”. In _Spatializing the History of Ecology: Sites, Journeys, Mappings_, Raf de Bont and Jens Lachmund (eds.). New York: Routledge, 2017; Jan Bouman. “The History of Breeding the Przewalski Horse in Captivity”. In _Breeding Przewalski Horses in Captivity for Release into the Wild_, Jan Bouman, Inge Bouman, and Annette Groeneveld (eds.). Rotterdam: Foundation for the Preservation and Protection of the Przewalski Horse, 1982: 17–64.
 
-[^12]: Nicolodi, Sandra. “Nachzucht: Eine relativ neue Sammelpraxis Zoologischer Gärten”. _Traverse: Zeitschrift für Geschichte = Revue d’histoire_ 19, Nr. 3 (2012): 91-105, 100. Direct quotes have been translated into English for clarity’s sake.
+[^12]: Sandra Nicolodi. “Nachzucht: Eine relativ neue Sammelpraxis Zoologischer Gärten”. _Traverse_ 19, Nr. 3 (2012): 91-105, 100. Direct quotes have been translated into English for clarity’s sake.
 
 [^13]: Kaiser, 2013: 221.
 
-[^14]: Meier, Jürg. _Handbuch Zoo: Moderne Tiergartenbiologie_. 1. Edition. Bern, Stuttgart, Wien: Haupt Verlag, 2009: 115-120.
+[^14]: Jürg Meier. _Handbuch Zoo: Moderne Tiergartenbiologie_. Bern: Haupt Verlag, 2009: 115-120.
 
 [^15]: Nicolodi, 2012: 91, 96.
 
 [^16]: Meier, 2009: 121. Direct quotes have been translated into English for clarity’s sake.
 
-[^17]: Grajal, Alejandro, Jerry F. Luebke, and Lisa-Anne DeGregoria Kelly. “Why Zoos Have Animals: Exploring the Complex Pathway from Experiencing Animals to Pro-environmental Behaviors”. In _The Ark and Beyond: The Evolution of Zoo and Aquarium Conservation_, Ben A. Minteer, Jane Maienschein, James P. Collins, and George B. Rabb (eds.). Chicago: University of Chicago Press, 2018: 192-203.
+[^17]: Alejandro Grajal, Jerry F. Luebke, and Lisa-Anne DeGregoria Kelly. “Why Zoos Have Animals: Exploring the Complex Pathway from Experiencing Animals to Pro-environmental Behaviors”. In _The Ark and Beyond: The Evolution of Zoo and Aquarium Conservation_, Ben A. Minteer, Jane Maienschein, James P. Collins, and George B. Rabb (eds.). Chicago: University of Chicago Press, 2018: 192-203.
 
-[^18]: Cf. Niekisch, Manfred, and Volker Sommer. “Artenschutz durch Zoos: Zwei Perspektiven”. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 31-38.
+[^18]: Cf. Manfred Niekisch and Volker Sommer. “Artenschutz durch Zoos: Zwei Perspektiven”. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 31-38.
 
 :::DE:::
 
@@ -387,38 +387,38 @@ Sandra Nicolodi konstatiert, dass die “Verlagerung hin zu einer zooübergreife
 
 Seit einigen Jahren lassen sich neue Tendenzen wahrnehmen, die international, in der Bundesrepublik und in Berlin die Tiergärten verändern. Stärker als bislang treten nun langfristige strategische Überlegungen an die Stelle des Pragmatismus. Wachsende Kritik der Haltungsbedingungen in Zoos und Fragen nach ihrer zukünftigen Rolle in naturkundlicher Bildung und Artenschutz _ex situ_ (also in den Zoos durch Zucht) und _in situ_ (in den ursprünglichen Lebensräumen der Tiere) haben zu einer Abkehr von der “Sammelleidenschaft” früherer Zoodirektoren geführt. Allenthalben sehen Beobachter:innen nun eine zahlenmäßige Verkleinerung der gehaltenen Tierarten zugunsten größerer Gehege und die Konzentration auf sogenannte Flaggschiff-Arten – also “gefährdete Tierarten mit einem hohen Schauwert, über deren Schutz man gleichzeitig den Schutz vieler anderer Tierarten erreicht, die den Lebensraum mit ihnen teilen”.[^16] Solch eine Praxis entspricht der 2015 vom Weltverband der Zoos und Aquarien verabschiedeten “Conservation Strategy”.[^17] Ob das eine wirksame Neuausrichtung der Zoos für die Zukunft bedingen kann, ist umstritten.[^18] Denn ganz hat der Pragmatismus noch keinen Zoo verlassen: Zuchtprogramme vor allem schauwertiger Tiere bleiben weiterhin wichtig, um die Lieblinge der nach wie vor zahlreichen Besucher:innen in den Zoos zu erhalten. Vielleicht erwirtschaften diese ja die Einnahmen zur Erzielung der neuen strategischen Ziele?
 
-[^1]: Zoologischer Garten Berlin. _Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin_ für das Jahr 1907.
+[^1]: Zoologischer Garten Berlin. "Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin für das Jahr 1907".
 
-[^2]: Für eine Übersicht der Einfuhren nicht-heimischer Tierarten, vgl. Dittrich, Lothar. “Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter, und Gerhard Heindl (Hg.). Wien: Braumüller, 2007: 1-64.
+[^2]: Für eine Übersicht der Einfuhren nicht-heimischer Tierarten, vgl. Lothar Dittrich. “Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs: Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter und Gerhard Heindl (Hg.). Wien: Braumüller, 2007: 1-64.
 
-[^3]: Klös, Heinz-Georg. “Tierfänger und Großtierhändler: Erinnerungen eines alten Tiergärtners, Teil I”. _Bongo_ 34 (2004): 3-42; sowie Klös, Heinz-Georg. “(…) Teil II”. _Bongo_ 35 (2005): 7-42.
+[^3]: Heinz-Georg Klös. “Tierfänger und Großtierhändler: Erinnerungen eines alten Tiergärtners, Teil I”. _Bongo_ 34 (2004): 3-42; sowie Heinz-Georg Klös. “(…), Teil II”. _Bongo_ 35 (2005): 7-42.
 
 [^4]: Protokoll der Beratung der “Kommission für Tiergärten der DDR” am 23. und 24. März 1970 in Halle, 16.04.1970, AZGB, O 0/1/18; H. Dathe an Ministerium für Kultur der DDR, 10.12.1974, AZGB, O 0/1/206; Protokoll der Tagung des Verbands Deutscher Zoodirektoren 1962, Archiv Tiergarten Schönbrunn (ATGS), Nachlass W. Fiedler, Ordner Verband Deutscher Zoodirektoren, Nr. 2.
 
-[^5]: Heck, Ludwig. “Heiter-ernste Erinnerungen an Tiergärtner”. _Der Zoologische Garten_ 12, Nr. 3/4 (ohne Datum): 228-238.
+[^5]: Ludwig Heck. “Heiter-ernste Erinnerungen an Tiergärtner”. _Der Zoologische Garten_ 12, Nr. 3/4 (ohne Datum): 228-238.
 
-[^6]: Zoologischer Garten Berlin. _Geschäftsberichte_ für die Jahre 1919-1924.
+[^6]: Zoologischer Garten Berlin. "Geschäftsberichte" für die Jahre 1919-1924.
 
 [^7]: Beispiele für Listen finden sich an verschiedenen Stellen im AZGB, so seitens des Tierparks in O 0/1/5, O 1/2/138; die Bestandsreihe zu den Angeboten und Wünschen des Zoos zwischen 1947 und 1957 unter O 0/1/2/42 ff.
 
 [^8]: Tierpark Berlin, Pressemitteilung Nr. 104/63, 28.12.1963, AZGB O 0/1/307.
 
-[^9]: Kaiser, Rainer. “Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium?” In _Picassofisch und Kompassqualle: 100 Jahre Zoo-Aquarium Berlin_, Bernhard Blaszkiewitz (Hg.), Berlin: Lehmanns, 2013: 214-239, 229, 232-235.
+[^9]: Rainer Kaiser. “Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium?” In _Picassofisch und Kompassqualle: 100 Jahre Zoo-Aquarium Berlin_, Bernhard Blaszkiewitz (Hg.), Berlin: Lehmanns, 2013: 214-239, 229, 232-235.
 
-[^10]: Heinroth, Katharina. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 174-175; Maier-Wolthausen, Clemens. _Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos_. Andreas Knieriem (Hg.). Berlin: Ch. Links Verlag, 2019: 151, 153; Blaszkiewitz, Bernhard. _Knautschke, Knut & Co: Die Lieblingstiere der Berliner aus Tierpark und Zoo_. Berlin: Lehmanns Media, 2009: 11-18.
+[^10]: Katharina Heinroth. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 174-175; Clemens Maier-Wolthausen. _Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos_. Andreas Knieriem (Hg.). Berlin: Ch. Links Verlag, 2019: 151, 153; Blaszkiewitz, Bernhard. _Knautschke, Knut & Co: Die Lieblingstiere der Berliner aus Tierpark und Zoo_. Berlin: Lehmanns Media, 2009: 11-18.
 
-[^11]: Vgl. de Bont, Raf. “Extinct in the Wild: Finding a Place for the European Bison 1919-1952”. In _Spatializing the History of Ecology: Sites, Journeys, Mappings_, Raf de Bont und Jens Lachmund (Hg.). New York: Routledge, 2017; Bouman, Jan. “The History of Breeding the Przewalski Horse in Captivity”. In _Breeding Przewalski Horses in Captivity for Release into the Wild_, Jan Bouman, Inge Bouman und Annette Groeneveld (Hs.). Rotterdam: Foundation for the Preservation and Protection of the Przewalski Horse, 1982: 17-64.
+[^11]: Vgl. Raf de Bont. “Extinct in the Wild: Finding a Place for the European Bison 1919-1952”. In _Spatializing the History of Ecology: Sites, Journeys, Mappings_, Raf de Bont und Jens Lachmund (Hg.). New York: Routledge, 2017; Jan Bouman. “The History of Breeding the Przewalski Horse in Captivity”. In _Breeding Przewalski Horses in Captivity for Release into the Wild_, Jan Bouman, Inge Bouman und Annette Groeneveld (Hg.). Rotterdam: Foundation for the Preservation and Protection of the Przewalski Horse, 1982: 17-64.
 
-[^12]: Nicolodi, Sandra. “Nachzucht: Eine relativ neue Sammelpraxis Zoologischer Gärten”. _Traverse: Zeitschrift für Geschichte = Revue d’histoire_ 19, Nr. 3 (2012): 91-105, 100.
+[^12]: Nicolodi, Sandra. “Nachzucht: Eine relativ neue Sammelpraxis Zoologischer Gärten”. _Traverse_ 19, Nr. 3 (2012): 91-105, 100.
 
 [^13]: Kaiser, 2013: 221.
 
-[^14]: Meier, Jürg. _Handbuch Zoo: moderne Tiergartenbiologie_. 1. Auflage. Bern, Stuttgart, Wien: Haupt Verlag, 2009: 115-120.
+[^14]: Jürg Meier. _Handbuch Zoo: Moderne Tiergartenbiologie_. Bern: Haupt Verlag, 2009: 115-120.
 
 [^15]: Nicolodi, 2012: 91, 96.
 
 [^16]: Meier, 2009: 121.
 
-[^17]: Grajal, Alejandro, Jerry F. Luebke und Lisa-Anne DeGregoria Kelly. “Why Zoos Have Animals: Exploring the Complex Pathway from Experiencing Animals to Pro-environmental Behaviors”. In _The Ark and Beyond: The Evolution of Zoo and Aquarium Conservation_, Ben A. Minteer, Jane Maienschein, James P. Collins und George B. Rabb (Hg.). Chicago: The University of Chicago Press, 2018: 192-203.
+[^17]: Alejandro Grajal, Jerry F. Luebke und Lisa-Anne DeGregoria Kelly. “Why Zoos Have Animals: Exploring the Complex Pathway from Experiencing Animals to Pro-environmental Behaviors”. In _The Ark and Beyond: The Evolution of Zoo and Aquarium Conservation_, Ben A. Minteer, Jane Maienschein, James P. Collins und George B. Rabb (Hg.). Chicago: The University of Chicago Press, 2018: 192-203.
 
-[^18]: Vgl. Niekisch, Manfred, und Volker Sommer. “Artenschutz durch Zoos: Zwei Perspektiven”. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 31-38.
+[^18]: Vgl. Manfred Niekisch und Volker Sommer. “Artenschutz durch Zoos: Zwei Perspektiven”. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 31-38.
