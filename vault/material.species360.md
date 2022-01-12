@@ -7,7 +7,7 @@ short_desc_de: Software zur Koordination von Zootierhaltungen
 date_end: 2021-12-25T19:31:46.616Z
 published: false
 title: Species360
-updated: 1640905297470
+updated: 1642008405356
 id: 690683a5-6845-4c80-bb3b-5771881bdca6
 translators:
   translator_de_en: ""
@@ -32,21 +32,21 @@ date_start: 1973-12-31T23:00:00.000Z
 
 <figcaption>
 
-_Species360 consolidates the functions of ZIMS, the web-based Zoological Information Management System, for the coordination of genetically diverse zoo animal breeding. (Logo Species360. All rights reserved.)_
+_Species360 consolidates the functions of ZIMS, the web-based Zoological Information Management System, for the coordination of genetically diverse zoo animal breeding. (Logo: Species360. All rights reserved.)_
 
 </figcaption>
 
 </figure>
 
-Thousands of animals around the world live in zoos that describe themselves as operating and being managed on a scientific basis. These zoos usually belong to one or more national and international zoo associations. Berlin’s zoos, for instance, are members of the Association of German Zoos (VdZ) and the European Association of Zoos and Aquaria (EAZA). There are also regional associations of zoos in Africa; North, Central, and South America; East and Southeast Asia; as well as the national zoo associations represented within them. These are brought together under the umbrella organization of the World Association of Zoos and Aquariums (WAZA). **All of these zoos can cooperate within jointly planned conservation breeding programs, and also exchange animals among themselves.** For more on this, see [[theme.how-do-animals-end-up-in-the-zoo]].
+Thousands of animals around the world live in zoos that describe themselves as operating and being managed on a scientific basis. These zoos usually belong to one or more national and international zoo associations. Berlin’s zoos, for instance, are members of the Association of German Zoos (VdZ) and the European Association of Zoos and Aquaria (EAZA). There are also regional associations of zoos in Africa; North, Central, and South America; East and Southeast Asia; as well as the national zoo associations represented within them. These are brought together under the umbrella organization of the World Association of Zoos and Aquariums (WAZA). **All of these zoos can cooperate within jointly planned conservation breeding programmess, and also exchange animals among themselves.** For more on this, see [[theme.how-do-animals-end-up-in-the-zoo]].
 
-To be able to do this, zoos require large quantities of data concerning an animal’s origins and its life in captivity. What are the animal's antecedents? How old is the animal, and what is the state of its health? Curators and breeding coordinators use this information to decide which animals are allowed to mate with which, and which fit into breeding programs. **Their aim is to maintain a genetically diverse zoo population, and to avoid inbreeding and hereditary diseases.** Nowadays, most zoos use software for this purpose. The beginnings of such breeding coordination were more modest, however.
+To be able to do this, zoos require large quantities of data concerning an animal’s origins and its life in captivity. What are the animal's antecedents? How old is the animal, and what is the state of its health? Curators and breeding coordinators use this information to decide which animals are allowed to mate with which, and which fit into breeding programmes. **Their aim is to maintain a genetically diverse zoo population, and to avoid inbreeding and hereditary diseases.** Nowadays, most zoos use software for this purpose. The beginnings of such breeding coordination were more modest, however.
 
-In 1974, a year after the signing of the Washington Convention on International Trade in Endangered Species of Wild Fauna and Flora, which significantly restricted the trade in wild animals, a non-governmental organization called International Species Inventory System (ISIS) was founded. Its goal was to create a database of all wild animals in captivity, in order to help coordinate breeding programs and maintain genetically diverse and healthy zoo populations.
+In 1974, a year after the signing of the Washington Convention on International Trade in Endangered Species of Wild Fauna and Flora, which significantly restricted the trade in wild animals, a non-governmental organization called International Species Inventory System (ISIS) was founded. Its goal was to create a database of all wild animals in captivity, in order to help coordinate breeding programmes and maintain genetically diverse and healthy zoo populations.
 
-**The affiliated zoos initially recorded their data on standardized paper forms, but in the mid-1980s, the first computer programs were developed,** and medical information on the individual animals was added. Since 1989, ISIS, now the International Species Information System, has been managed by an international advisory board. According to its mission statement, the aim of ISIS is to facilitate international cooperation in the collection and exchange of knowledge about animals and their habitats for aquariums, zoos, and affiliated conservation organizations.
+**The affiliated zoos initially recorded their data on standardized paper forms, but in the mid-1980s, the first computer programmes were developed,** and medical information on the individual animals was added. Since 1989, ISIS, now the International Species Information System, has been managed by an international advisory board. According to its mission statement, the aim of ISIS is to facilitate international cooperation in the collection and exchange of knowledge about animals and their habitats for aquariums, zoos, and affiliated conservation organizations.
 
-The web-based Zoological Information Management System (ZIMS) has existed since 2011. Zoo staff at the more than 1,000 participating institutions worldwide can enter data about the animals they keep, including medical information, into this system. International conservation breeding programs and studbook keepers can use this information to select animals for breeding and create breeding groups. **There is no oversight of this data – to monitor whether a zoo enters all its animals into the system, for example.** However, animals should not be exchanged with other zoos without ZIMS registration. The ZIMS functions are now consolidated on the website https://www.species360.org.
+The web-based Zoological Information Management System (ZIMS) has existed since 2011. Zoo staff at the more than 1,000 participating institutions worldwide can enter data about the animals they keep, including medical information, into this system. International conservation breeding programmes and studbook keepers can use this information to select animals for breeding and create breeding groups. **There is no oversight of this data – to monitor whether a zoo enters all its animals into the system, for example.** However, animals should not be exchanged with other zoos without ZIMS registration. The ZIMS functions are now consolidated on the website https://www.species360.org.
 
 :::DE:::
 
