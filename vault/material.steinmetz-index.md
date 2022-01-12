@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Steinmetz Index
 title_de: Steinmetz-Kartei
 created: 1620987472118
-updated: 1640905301202
+updated: 1642009054843
 id: 2a309087-f165-4def-9c60-d835c7218077
 author: Clemens Maier-Wolthausen
 translators:
@@ -42,11 +42,11 @@ The index card shown is from Berlin Zoo’s Steinmetz Index and records the numb
 
 Notably, the recorded departures indicate that individual animals were exchanged with other zoos. The index card also shows that during the war, a male was evacuated to Leipzig Zoo, which was supposedly bombproof. The word “attack”, in turn, tells us that that first hippopotamus, acquired from Hans Schomburgk in 1924, was killed in the [[bombing of Berlin|material.list-of-dead-zoo-animals]] on 24 November 1943.
 
-This index was probably created by the zoologist Hermann Steinmetz (1898–1954), who worked as a senior assistant at Berlin Zoo in the 1930s. In the last days of the Battle of Berlin, he fled the city with zoo director [[Lutz Heck|story.the-zoo-and-national-socialism]]. Steinmetz was the first director of the Ruhr Zoo in Gelsenkirchen from 1948 onwards.
+This index was probably created by the zoologist Hermann Steinmetz (1898-1954), who worked as a senior assistant at Berlin Zoo in the 1930s. In the last days of the Battle of Berlin, he fled the city with zoo director [[Lutz Heck|story.the-zoo-and-national-socialism]]. Steinmetz was the first director of the Ruhr Zoo in Gelsenkirchen from 1948 onwards.
 
 During his time at Berlin Zoo, Steinmetz kept this index, which zoo staff subsequently dubbed the Steinmetz Index. The index sometimes contains more detailed information on individual animals than the annual zoo inventory kept in the [[Journale|material.journale-the-zoo-directory]] since the 1880s, for example on the reasons for an animal’s departure, whether through exchange, sale, or death, and whether a new arrival was in the form of a gift, purchase, or birth.
 
-**Because individual cards consolidate information spanning several years, the index provides zoologists at the zoo and external researchers with a real advantage, as it makes it possible to trace how long each individual animal had been kept at the zoo and its lifespan.** The card index was not maintained after Hermann Steinmetz left, and thus represents only a snippet of Berlin Zoo‘s 175-year history.
+**Because individual cards consolidate information spanning several years, the index provides zoologists at the zoo and external researchers with a real advantage, as it makes it possible to trace how long each individual animal had been kept at the zoo and its lifespan.** The card index was not maintained after Hermann Steinmetz left, and thus represents only a snippet of Berlin Zoo’s 175-year history.
 
 Nowadays most German zoos use the Zoological Information Management System software, or [[ZIMS|material.species360]] for short, to record arrivals and departures, as well as information on births. Berlin Zoo nonetheless continues to maintain the physical journals as a parallel reference system.
 
