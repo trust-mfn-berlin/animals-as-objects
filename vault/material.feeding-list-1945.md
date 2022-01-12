@@ -4,7 +4,7 @@ title_de: Futterliste 1945
 created: 1624185750239
 author: Mareike Vennen
 short_desc_de: Futterlisten im Zoo der Nachkriegszeit
-date_end: 1945-12-31T11:00:00.000Z
+date_end: ""
 published: false
 title: Feeding List 1945
 updated: 1641569527138
