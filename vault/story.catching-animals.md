@@ -7,7 +7,7 @@ short_desc_de: Habitate und Tierhandelsfirmen
 date_end: 1973-12-31T11:00:00.000Z
 published: false
 title: Catching Animals
-updated: 1642013102709
+updated: 1642013284240
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 translators:
   translator_de_en: ""
@@ -113,7 +113,7 @@ Transportation was a major risk for animal traders, as the animals could die or 
 
 <figcaption>
 
-_Zoo director Lutz Heck to Hermann Pohle, the curator of mammals at the National History Museum of Berlin, 07.06.1934. (MfN HBSB S004-02-05 Nr. 97. All rights reserved.)_
+_Zoo director Lutz Heck to Hermann Pohle, the curator of mammals at the National History Museum in Berlin, 07.06.1934. (MfN HBSB S004-02-05 Nr. 97. All rights reserved.)_
 
 </figcaption>
 
@@ -379,7 +379,7 @@ Ein wesentliches Risiko für die Tierhändler war der Transportweg, auf dem die 
 
 <figcaption>
 
-_Zoodirektor Lutz Heck an Hermann Pohle, den Säugetierkustos des Naturkundemuseums, 07.06.1934. (MfN HBSB S004-02-05 Nr. 97. Alle Rechte vorbehalten.)_
+_Zoodirektor Lutz Heck an Hermann Pohle, den Säugetierkustos des Naturkundemuseums in Berlin, 07.06.1934. (MfN HBSB S004-02-05 Nr.97. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
