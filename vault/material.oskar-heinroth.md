@@ -7,7 +7,7 @@ short_desc_de: Foto von Oskar Heinroth mit drei Uralkäuzen
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Oskar Heinroth
-updated: 1640898992537
+updated: 1642008708469
 id: 1a9793b7-746f-4a58-bfa2-54596b72b4bc
 translators:
   translator_de_en: ""
@@ -41,7 +41,7 @@ The photograph shows Oskar August Heinroth (1871–1945) with three Ural owls pe
 
 The observations for the study had been gathered in the couple’s apartment at the Berlin Aquarium. Oskar Heinroth, a medical graduate, had become an assistant at Berlin Zoo in 1904. **In 1911, zoo director Ludwig Heck put him in charge of supervising the construction of the aquarium, which Heinroth designed himself.** Opened in August 1913, the aquarium soon became the most important institution of its kind. Oskar Heinroth’s severe allergy to the dust created by the birds he kept caused him to have breathing problems at night. Nevertheless, the couple continued to breed birds.[^1] Oskar Heinroth is considered one of the founders of comparative behavioral research (ethology). He took all the photographs for his publications himself and was adept at presenting the findings of his research in an accessible way. After Magdalena Heinroth’s death, he continued his research together with his second wife [[material.katharina-heinroth]].
 
-[^1]: Cf. Schulze-Hagen, Karl. _Die Vogel-WG: die Heinroths, ihre 1000 Vögel und die Anfänge der Verhaltensforschung. Deutsche Originalausgabe. Knesebeck Stories_. München: Knesebeck, 2020: 9.
+[^1]: Cf. Karl Schulze-Hagen. _Die Vogel-WG: Die Heinroths, ihre 1000 Vögel und die Anfänge der Verhaltensforschung_. München: Knesebeck, 2020: 9.
 
 :::DE:::
 
@@ -61,5 +61,5 @@ Auf dem Foto ist Oskar August Heinroth (1871-1945) mit drei Uralkäuzen auf sein
 
 Die Beobachtungen machten sie in ihrer Wohnung im Berliner Zoo-Aquarium. 1904 war der studierte Mediziner Assistent am Berliner Zoo geworden. **Dort übertrug ihm Zoodirektor Ludwig Heck 1911 die Aufgabe, den Bau des Aquariums zu beaufsichtigen. Heinroth gestaltete es nach eigenen Plänen.** Bald nach dessen Eröffnung im August 1913 war es bereits das wichtigste Haus seiner Art. Oskar Heinroth litt aufgrund des von den Vögeln verursachten Staubs an einer starken Allergie, die bei ihm nächtliche Luftnot verursachte. Dennoch machte das Ehepaar mit der Vogelzucht weiter.[^1] Oskar Heinroth gilt als einer der Begründer der vergleichenden Verhaltensforschung (Ethologie). Er machte alle fotografischen Aufnahmen für seine Publikationen selbst und verstand es, die Ergebnisse seiner Forschung allgemeinverständlich aufzuarbeiten. Nach Magdalena Heinroths Tod, setzte er zusammen mit seiner zweiten Ehefrau [[material.katharina-heinroth]] die Forschungen fort.
 
-[^1]: Vgl. Schulze-Hagen, Karl. _Die Vogel-WG: die Heinroths, ihre 1000 Vögel und die Anfänge der Verhaltensforschung. Deutsche Originalausgabe. Knesebeck Stories_. München: Knesebeck, 2020: 9.
+[^1]: Vgl. Karl Schulze-Hagen. _Die Vogel-WG: Die Heinroths, ihre 1000 Vögel und die Anfänge der Verhaltensforschung_. München: Knesebeck, 2020: 9.
 
