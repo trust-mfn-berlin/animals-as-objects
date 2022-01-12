@@ -7,7 +7,7 @@ short_desc_de: Habitate und Tierhandelsfirmen
 date_end: 1973-12-31T11:00:00.000Z
 published: false
 title: Catching Animals
-updated: 1641315420521
+updated: 1642013102709
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 translators:
   translator_de_en: ""
@@ -245,53 +245,53 @@ In 1975, a Convention on International Trade in Endangered Species of Wild Fauna
 
 [^2]: Minutes of the General Assembly, 01.06.1852, AZGB O 0/1/62.
 
-[^3]: Valuable insights into the history of the animal trade can be found in Dittrich, Lothar. “Vom Souvenir zum Handelsobjekt: Handel und Import fremdländischer Tiere”. In _Menagerie des Kaisers – Zoo der Wiener: 250 Jahre Tiergarten Schönbrunn_, Mitchell G. Ash and Lothar Dittrich (eds.). Vienna: Pichler, 2002: 331-343; Dittrich, Lothar. “Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter, and Gerhard Heindl (eds.). Vienna: Braumüller, 2007: 1-64.
+[^3]: Valuable insights into the history of the animal trade can be found in Lothar Dittrich. “Vom Souvenir zum Handelsobjekt: Handel und Import fremdländischer Tiere”. In _Menagerie des Kaisers – Zoo der Wiener: 250 Jahre Tiergarten Schönbrunn_, Mitchell G. Ash and Lothar Dittrich (eds.). Vienna: Pichler, 2002: 331-343; Lothar Dittrich. “Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs: Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter, and Gerhard Heindl (eds.). Vienna: Braumüller, 2007: 1-64.
 
 [^4]: Dittrich, 2002: 332.
 
-[^5]: Heck, Ludwig. _Heiter-ernste Lebensbeichte: Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag, 1938: 123ff.
+[^5]: Ludwig Heck. _Heiter-ernste Lebensbeichte: Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag, 1938: 123ff.
 
 [^6]: Zoo ‘Inventory’ for 1897, Zoological Garden Berlin. On this, see also [[material.journale-the-zoo-directory]].
 
-[^7]: Cf. Diallo, Oumar and Joachim Zeller. “Zoologischer Garten, Hardenbergplatz 8”. In _Berlin – Eine (post-)koloniale Metropole: Ein historisch-kritischer Stadtrundgang im Bezirk Mitte_, Farafina e. V. Berlin-Moabit (ed.). Berlin: Metropol-Verlag, 2021: 168-175. This is also shown by a systematic review of the annual reports between 1890 and 1914.
+[^7]: Cf. Oumar Diallo and Joachim Zeller. “Zoologischer Garten, Hardenbergplatz 8”. In _Berlin – Eine (post-)koloniale Metropole: Ein historisch-kritischer Stadtrundgang im Bezirk Mitte_, Farafina e.V. Berlin-Moabit (ed.). Berlin: Metropol-Verlag, 2021: 168-175. This is also shown by a systematic review of the annual reports between 1890 and 1914.
 
-[^8]: Cf. for instance Gissibl, Bernhard. _The nature of German imperialism: conservation and the politics of wildlife in colonial East Africa_. New York: Berghahn Books, 2016; Domínguez, Lara and Colin Luoma. “Decolonising Conservation Policy: How Colonial Land and Conservation Ideologies Persist and Perpetuate Indigenous Injustices at the Expense of the Environment”. _Land_ 9, no. 3 (2020). https://doi.org/10.3390/land9030065; Prendergast, David. “Colonial Wildlife Conservation and the Origins of the Society for the Preservation of the Wild Fauna of the Empire (1903-1914)”. _Oryx_ 37 (01.04.2003): 251-260. https://doi.org/10.1017/S0030605303000425; MacKenzie, John M. _The Empire of Nature: Hunting, Conservation, and British Imperialism_. Studies in Imperialism. Manchester (UK), New York (NY): St. Martin’s Press, 1997; Thompsell, Angela. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke and New York: Palgrave Macmillan, 2015.
+[^8]: Cf. for instance Bernhard Gissibl. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. New York: Berghahn Books, 2016; Lara Domínguez and Colin Luoma. “Decolonising Conservation Policy: How Colonial Land and Conservation Ideologies Persist and Perpetuate Indigenous Injustices at the Expense of the Environment”. _Land_ 9, no. 3 (2020). https://doi.org/10.3390/land9030065; David Prendergast. “Colonial Wildlife Conservation and the Origins of the Society for the Preservation of the Wild Fauna of the Empire (1903-1914)”. _Oryx_ 37 (01.04.2003): 251-260. https://doi.org/10.1017/S0030605303000425; MacKenzie, John M. _The Empire of Nature: Hunting, Conservation, and British Imperialism_. Manchester: St. Martin’s Press, 1997; Angela Thompsell. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke and New York: Palgrave Macmillan, 2015.
 
-[^9]: Schillings, Carl Georg. _Mit Blitzlicht und Büchse_. Leipzig, 1905: 188. Direct quotes have been translated into English for clarity’s sake.
+[^9]: Carl Georg Schillings. _Mit Blitzlicht und Büchse_. Leipzig, 1905: 188. Direct quotes have been translated into English for clarity’s sake.
 
-[^10]: Schillings, 1905: 190-197.
+[^10]: Ibid.: 190-197.
 
 [^11]: Annual reports of the stock association of the Zoological Garden of Berlin for 1904 and 1908. Direct quotes have been translated into English for clarity’s sake.
 
-[^12]: Hanson, Elizabeth. _Animal Attractions: Nature on Display in American Zoos_. Princeton (NJ): Princeton University Press, 2002: 71, 73.
+[^12]: Elizabeth Hanson. _Animal Attractions: Nature on Display in American Zoos_. Princeton (NJ): Princeton University Press, 2002: 71, 73.
 
-[^13]: Ames, Eric. _Carl Hagenbeck’s Empire of Entertainments_. Seattle: University of Washington Press, 2008: 28-29.
+[^13]: Eric Ames. _Carl Hagenbeck’s Empire of Entertainments_. Seattle: University of Washington Press, 2008: 28-29.
 
-[^14]: Vennen, Mareike. “Arbeitsbilder – Bilderarbeit. Die Herstellung und Zirkulation von Fotografien der Tendaguru-Expedition”. In _Dinosaurierfragmente. Zur Geschichte der Tendaguru-Expedition und ihrer Objekte – 1906-2018_, Ina Heumann, Holger Stoecker, Marco Tamborini, and Mareike Vennen (eds.). Göttingen: Wallstein, 2018: 56-75 (especially 64).
+[^14]: Mareike Vennen. “Arbeitsbilder – Bilderarbeit: Die Herstellung und Zirkulation von Fotografien der Tendaguru-Expedition”. In _Dinosaurierfragmente: Zur Geschichte der Tendaguru-Expedition und ihrer Objekte, 1906-2018_, Ina Heumann, Holger Stoecker, Marco Tamborini, and Mareike Vennen (eds.). Göttingen: Wallstein, 2018: 56-75, (especially 64).
 
-[^15]: Eipper, Paul. _Freund aller Tiere: Ein Fahrtenbuch voll bunter Abenteuer_. Berlin: Ullstein, 1937: 94-95.
+[^15]: Paul Eipper. _Freund aller Tiere: Ein Fahrtenbuch voll bunter Abenteuer_. Berlin: Ullstein, 1937: 94-95.
 
-[^16]: Ames, Eric. _Carl Hagenbeck’s Empire of Entertainments_. Seattle: University of Washington Press, 2008: 27.
+[^16]: Ames, 2008: 27.
 
-[^17]: Kawata, Ken. “Zoo Animal Feeding: A Natural History Viewpoint”. In _Der Zoologische Garten_ 78, no. 1 (2008): 17-42.
+[^17]: Ken Kawata. “Zoo Animal Feeding: A Natural History Viewpoint”. In _Der Zoologische Garten_ 78, no. 1 (2008): 17-42.
 
-[^18]: Examples in Hanson, Elizabeth. _Animal attractions: nature on display in American zoos_. Princeton, N.J: Princeton University Press, 2002: 100-129. Besides contemporary newspaper articles, cf. also Mann, William M. “Wild animals in and out of the Zoo”. _Smithsonian Institution series_, vol. 6. New York: Smithsonian Institution, 1938; Zoehfeld, Kathleen Weidner. _Wild lives: a history of the people & animals of the Bronx Zoo_. New York: Alfred A. Knopf, 2006; and Attenborough, David. _Zoo Quest to Guiana_. London: Lutterworth Press, 1956.
+[^18]: Examples in Hanson, 2002: 100-129. Besides contemporary newspaper articles, cf. also William M. Mann. “Wild Animals in and out of the Zoo”. _Smithsonian Institution Series_, vol. 6. New York: Smithsonian Institution, 1938; Kathleen Weidner Zoehfeld. _Wild Lives: A History of the People & Animals of the Bronx Zoo_. New York: Alfred A. Knopf, 2006; and David Attenborough. _Zoo Quest to Guiana_. London: Lutterworth Press, 1956.
 
-[^19]: Examples in Heck, Lutz. “Auf Giraffenfang in Ostafrika”. _Die Koralle_ 4, no. 10 (1928): 456-460; Heck, Lutz. “Als Tierfänger in Ostafrika. Die Tierfangexpedition des Zoologischen Gartens in Berlin”. _Die Koralle_ 5, no. 2 (1929): 82-86; Heck, Lutz. “Als Tierfänger in Ostarfrika”. _Die Kunst und ihre Welt_, Januar (1930): 8-11; Heck, Lutz. _Aus der Wildnis in den Zoo: Auf Tierfang in Ostafrika_. Berlin: Ullstein, 1930; Heck, Lutz. “Über Giraffen und Giraffenfang”. _Atlantis. Länder, Völker, Reisen_ 3, no. 8 (1931): 458-466; Heck, Lutz. “Pavian-Fang in Abessinien”. _Das Tier und wir_, no. 6 (1934): 1-6; Heck, Lutz. _Auf Tiersuche in weiter Welt_. Berlin: Paul Parey, 1941.
+[^19]: Examples in Lutz Heck. “Auf Giraffenfang in Ostafrika”. _Die Koralle_ 4, no. 10 (1928): 456-460; Lutz Heck. “Als Tierfänger in Ostafrika: Die Tierfangexpedition des Zoologischen Gartens in Berlin”. _Die Koralle_ 5, no. 2 (1929): 82-86; Lutz Heck. “Als Tierfänger in Ostarfrika”. _Die Kunst und ihre Welt_, Januar (1930): 8-11; Lutz Heck. _Aus der Wildnis in den Zoo: Auf Tierfang in Ostafrika_. Berlin: Ullstein, 1930; Lutz Heck. “Über Giraffen und Giraffenfang”. _Atlantis: Länder, Völker, Reisen_ 3, no. 8 (1931): 458-466; Lutz Heck. “Pavian-Fang in Abessinien”. _Das Tier und wir_, no. 6 (1934): 1-6; Lutz Heck. _Auf Tiersuche in weiter Welt_. Berlin: Paul Parey, 1941.
 
-[^20]: Dittrich, Lothar. “Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter, and Gerhard Heindl (eds.). Vienna: Braumüller, 2007.
+[^20]: Lothar Dittrich. “Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs: Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter, and Gerhard Heindl (eds.). Vienna: Braumüller, 2007.
  
-[^21]: Blaszkiewitz, Bernhard. “Beiträge zur Menschenaffenhaltung im Zoo Berlin nach 1945. 3. Mitteilung: Gorillas (Gorilla gorilla)”. _Der Zoologische Garten_ 79, no. 6 (2010): 232-242.
+[^21]: Bernhard Blaszkiewitz. “Beiträge zur Menschenaffenhaltung im Zoo Berlin nach 1945; 3. Mitteilung: Gorillas (Gorilla gorilla)”. _Der Zoologische Garten_ 79, no. 6 (2010): 232-242.
 
 [^22]: For information on breeding and catches, see “Zootierliste”. https://www.zootierliste.de/?klasse=1&ordnung=108&familie=10819&art=1071208 (02.06.2021).
 
-[^23]: Heinroth, Katharina. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. Munich: Kindler, 1979: 203-212.
+[^23]: Katharina Heinroth. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. Munich: Kindler, 1979: 203-212.
 
-[^24]: Klös, Heinz-Georg. _Freundschaft mit Tieren: der Altdirektor des Zoologischen Gartens Berlin erzählt_. Berlin: Edition Q, 1997: 167-178.
+[^24]: Heinz-Georg Klös. _Freundschaft mit Tieren: Der Altdirektor des Zoologischen Gartens Berlin erzählt_. Berlin: Edition Q, 1997: 167-178.
 
 [^25]: Copy GDR Ministry for Foreign Affairs to Solidarity Committee for Korea and Vietnam, 12.10.1956, Embassy of the GDR in Hanoi: Memo, 19.03.1957, PA AA, M 01/A 8367 and the entire correspondence on the matter with the Ministry in: Politisches Archiv des Auswärtigen Amtes, the political archive of the Federal Foreign Office (PA AA), M 01/A 8367.
 
-[^26]: Robbins, C. T. _Wildlife Feeding and Nutrition_. New York: 1983, cited from Kawata, 2008: 23.
+[^26]: C.T. Robbins. _Wildlife Feeding and Nutrition_. New York: 1983, cited from Kawata, 2008: 23.
 
 [^27]: “Appendices”. _CITES_, https://cites.org/eng/app/appendices.php (02.06.2021).
 
@@ -511,52 +511,52 @@ Seit den 1960er Jahren traten zunehmend Züchtungen, also in Zoos gezeugte Nachk
 
 [^2]: Protokoll der Generalversammlung, 01.06.1852, AZGB O 0/1/62.
 
-[^3]: Wertvolle Hinweise auf die Geschichte des Tierhandels finden sich in Dittrich, Lothar. “Vom Souvenir zum Handelsobjekt: Handel und Import fremdländischer Tiere”. In _Menagerie des Kaisers – Zoo der Wiener: 250 Jahre Tiergarten Schönbrunn_, Mitchell G. Ash und Lothar Dittrich (Hg.). Wien: Pichler, 2002: 331-343; Dittrich, Lothar. “Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs: Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter und Gerhard Heindl (Hg.). Wien: Braumüller, 2007: 1-64.
+[^3]: Wertvolle Hinweise auf die Geschichte des Tierhandels finden sich in Lothar Dittrich. “Vom Souvenir zum Handelsobjekt: Handel und Import fremdländischer Tiere”. In _Menagerie des Kaisers – Zoo der Wiener: 250 Jahre Tiergarten Schönbrunn_, Mitchell G. Ash und Lothar Dittrich (Hg.). Wien: Pichler, 2002: 331-343; Lothar Dittrich. “Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs: Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter und Gerhard Heindl (Hg.). Wien: Braumüller, 2007: 1-64.
 
 [^4]: Dittrich, 2002: 332.
 
-[^5]: Heck, Ludwig. _Heiter-ernste Lebensbeichte: Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag, 1938: 123ff.
+[^5]: Ludwig Heck. _Heiter-ernste Lebensbeichte: Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag, 1938: 123ff.
 
 [^6]: ‘Inventur’ des Zoos für 1897, Zoologischer Garten Berlin. Hierzu siehe auch [[material.journale-the-zoo-directory]].
 
-[^7]: Vgl. Diallo, Oumar und Joachim Zeller. “Zoologischer Garten, Hardenbergplatz 8”. In _Berlin – Eine (post-)koloniale Metropole: Ein historisch-kritischer Stadtrundgang im Bezirk Mitte_, Farafina e. V. Berlin-Moabit (Hg.). Berlin: Metropol-Verlag, 2021: 168-175. Das ergibt auch eine systematische Durchsicht der Geschäftsberichte zwischen 1890 und 1914.
+[^7]: Vgl. Oumar Diallo und Joachim Zeller. “Zoologischer Garten, Hardenbergplatz 8”. In _Berlin – Eine (post-)koloniale Metropole: Ein historisch-kritischer Stadtrundgang im Bezirk Mitte_, Farafina e.V. Berlin-Moabit (Hg.). Berlin: Metropol-Verlag, 2021: 168-175. Das ergibt auch eine systematische Durchsicht der Geschäftsberichte zwischen 1890 und 1914.
 
-[^8]: Vgl. unter anderem Gissibl, Bernhard. _The nature of German imperialism: conservation and the politics of wildlife in colonial East Africa_. New York: Berghahn Books, 2016; Domínguez, Lara und Colin Luoma. “Decolonising Conservation Policy: How Colonial Land and Conservation Ideologies Persist and Perpetuate Indigenous Injustices at the Expense of the Environment”. _Land_ 9, Nr. 3 (2020). https://doi.org/10.3390/land9030065; Prendergast, David. “Colonial Wildlife Conservation and the Origins of the Society for the Preservation of the Wild Fauna of the Empire (1903-1914)”. _Oryx_ 37 (01.04.2003): 251-260. https://doi.org/10.1017/S0030605303000425; MacKenzie, John M. _The Empire of Nature: Hunting, Conservation, and British Imperialism_. Studies in Imperialism. Manchester (UK), New York (NY): St. Martin’s Press, 1997; Thompsell, Angela. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke and New York: Palgrave Macmillan, 2015.
+[^8]: Vgl. unter anderem Bernhard Gissibl. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. New York: Berghahn Books, 2016; Lara Domínguez und Colin Luoma. “Decolonising Conservation Policy: How Colonial Land and Conservation Ideologies Persist and Perpetuate Indigenous Injustices at the Expense of the Environment”. _Land_ 9, Nr. 3 (2020). https://doi.org/10.3390/land9030065; David Prendergast. “Colonial Wildlife Conservation and the Origins of the Society for the Preservation of the Wild Fauna of the Empire (1903-1914)”. _Oryx_ 37 (01.04.2003): 251-260. https://doi.org/10.1017/S0030605303000425; John M. MacKenzie. _The Empire of Nature: Hunting, Conservation, and British Imperialism_. Manchester: St. Martin’s Press, 1997; Angela Thompsell. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke and New York: Palgrave Macmillan, 2015.
 
-[^9]: Schillings, Carl Georg. _Mit Blitzlicht und Büchse_. Leipzig, 1905: 188.
+[^9]: Carl Georg Schillings. _Mit Blitzlicht und Büchse_. Leipzig, 1905: 188.
 
-[^10]: Schillings, 1905: 190-197.
+[^10]: Ebd.: 190-197.
 
 [^11]: Geschäftsberichte des Aktien-Vereins des Zoologischen Gartens zu Berlin für 1904 und 1908.
 
-[^12]: Hanson, Elizabeth. _Animal Attractions: Nature on Display in American Zoos_. Princeton (NJ): Princeton University Press, 2002: 71, 73. Direkte Zitate wurden zur besseren Verständlichkeit ins Deutsche übersetzt.
+[^12]: Elizabeth Hanson. _Animal Attractions: Nature on Display in American Zoos_. Princeton (NJ): Princeton University Press, 2002: 71, 73. Direkte Zitate wurden zur besseren Verständlichkeit ins Deutsche übersetzt.
 
-[^13]: Ames, Eric. _Carl Hagenbeck’s Empire of Entertainments_. Seattle: University of Washington Press, 2008: 28-29.
+[^13]: Eric Ames. _Carl Hagenbeck’s Empire of Entertainments_. Seattle: University of Washington Press, 2008: 28-29.
 
-[^14]: Vennen, Mareike. “Arbeitsbilder – Bilderarbeit: Die Herstellung und Zirkulation von Fotografien der Tendaguru-Expedition”. In _Dinosaurierfragmente. Zur Geschichte der Tendaguru-Expedition und ihrer Objekte – 1906-2018_, Ina Heumann, Holger Stoecker, Marco Tamborini und Mareike Vennen (Hg.). Göttingen: Wallstein, 2018: 56-75 (insbesondere 64).
+[^14]: Mareike Vennen. “Arbeitsbilder – Bilderarbeit: Die Herstellung und Zirkulation von Fotografien der Tendaguru-Expedition”. In _Dinosaurierfragmente: Zur Geschichte der Tendaguru-Expedition und ihrer Objekte, 1906-2018_. Ina Heumann, Holger Stoecker, Marco Tamborini und Mareike Vennen (Hg.). Göttingen: Wallstein, 2018: 56-75, (insbesondere 64).
 
-[^15]: Eipper, Paul. _Freund aller Tiere: Ein Fahrtenbuch voll bunter Abenteuer_. Berlin: Ullstein, 1937: 94-95.
+[^15]: Paul Eipper. _Freund aller Tiere: Ein Fahrtenbuch voll bunter Abenteuer_. Berlin: Ullstein, 1937: 94-95.
 
-[^16]: Ames, Eric. _Carl Hagenbeck’s Empire of Entertainments_. Seattle: University of Washington Press, 2008: 27.
+[^16]: Ames, 2008: 27.
 
-[^17]: Kawata, Ken. “Zoo Animal Feeding: A Natural History Viewpoint”. _Der Zoologische Garten_ 78, Nr. 1 (2008): 17-42.
+[^17]: Ken Kawata. “Zoo Animal Feeding: A Natural History Viewpoint”. _Der Zoologische Garten_ 78, Nr. 1 (2008): 17-42.
 
-[^18]: Beispiele in Hanson, Elizabeth. _Animal attractions: nature on display in American zoos_. Princeton, N.J: Princeton University Press, 2002: 100-129. Neben zeitgenössischen Zeitungsartikeln, vgl. zudem Mann, William M. “Wild animals in and out of the Zoo”. _Smithsonian Institution series_, Bd. 6. New York: Smithsonian Institution, 1938; Zoehfeld, Kathleen Weidner. _Wild lives: a history of the people & animals of the Bronx Zoo_. New York: Alfred A. Knopf, 2006; sowie Attenborough, David. _Zoo Quest to Guiana_. London: Lutterworth Press, 1956.
+[^18]: Beispiele in Hanson, 2002: 100-129. Neben zeitgenössischen Zeitungsartikeln, vgl. zudem William M. Mann. “Wild Animals in and out of the Zoo”. _Smithsonian Institution Series_, Bd. 6. New York: Smithsonian Institution, 1938; Zoehfeld, Kathleen Weidner. _Wild Lives: A History of the People & Snimals of the Bronx Zoo_. New York: Alfred A. Knopf, 2006; sowie David Attenborough. _Zoo Quest to Guiana_. London: Lutterworth Press, 1956.
 
-[^19]: Beispiele bei Heck, Lutz. “Auf Giraffenfang in Ostafrika”. _Die Koralle_ 4, Nr. 10 (1928): 456-460; Heck, Lutz. “Als Tierfänger in Ostafrika: Die Tierfangexpedition des Zoologischen Gartens in Berlin”. _Die Koralle_ 5, Nr. 2 (1929): 82-86; Heck, Lutz. “Als Tierfänger in Ostarfrika”. _Die Kunst und ihre Welt_, Januar (1930): 8-11; Heck, Lutz. _Aus der Wildnis in den Zoo. Auf Tierfang in Ostafrika_. Berlin: Ullstein, 1930; Heck, Lutz. “Über Giraffen und Giraffenfang”. _Atlantis. Länder, Völker, Reisen_ 3, Nr. 8 (1931): 458-466; Heck, Lutz. “Pavian-Fang in Abessinien”. _Das Tier und wir_, Nr. 6 (1934): 1-6; Heck, Lutz. _Auf Tiersuche in weiter Welt_. Berlin: Paul Parey, 1941.
+[^19]: Beispiele bei Lutz Heck. “Auf Giraffenfang in Ostafrika”. _Die Koralle_ 4, Nr. 10 (1928): 456-460; Lutz Heck. “Als Tierfänger in Ostafrika: Die Tierfangexpedition des Zoologischen Gartens in Berlin”. _Die Koralle_ 5, Nr. 2 (1929): 82-86; Lutz Heck. “Als Tierfänger in Ostarfrika”. _Die Kunst und ihre Welt_, Januar (1930): 8-11; Lutz Heck. _Aus der Wildnis in den Zoo: Auf Tierfang in Ostafrika_. Berlin: Ullstein, 1930; Lutz Heck. “Über Giraffen und Giraffenfang”. _Atlantis: Länder, Völker, Reisen_ 3, Nr. 8 (1931): 458-466; Lutz Heck. “Pavian-Fang in Abessinien”. _Das Tier und wir_, Nr. 6 (1934): 1-6; Lutz Heck. _Auf Tiersuche in weiter Welt_. Berlin: Paul Parey, 1941.
 
-[^20]: Dittrich, Lothar. “Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs. Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter und Gerhard Heindl (Hg.). Wien: Braumüller, 2007.
+[^20]: Lothar Dittrich. “Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs: Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter und Gerhard Heindl (Hg.). Wien: Braumüller, 2007.
 
-[^21]: Blaszkiewitz, Bernhard. “Beiträge zur Menschenaffenhaltung im Zoo Berlin nach 1945. 3. Mitteilung: Gorillas (Gorilla gorilla)”. _Der Zoologische Garten_ 79, Nr. 6 (2010): 232-242.
+[^21]: Bernhard Blaszkiewitz. “Beiträge zur Menschenaffenhaltung im Zoo Berlin nach 1945; 3. Mitteilung: Gorillas (Gorilla gorilla)”. _Der Zoologische Garten_ 79, Nr. 6 (2010): 232-242.
 
 [^22]: Für Informationen zu den Zuchten und Fängen, siehe “Zootierliste”. https://www.zootierliste.de/?klasse=1&ordnung=108&familie=10819&art=1071208 (02.06.2021).
 
-[^23]: Heinroth, Katharina. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 203-212.
+[^23]: Katharina Heinroth. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 203-212.
 
-[^24]: Klös, Heinz-Georg. _Freundschaft mit Tieren: der Altdirektor des Zoologischen Gartens Berlin erzählt_. Berlin: Edition Q, 1997: 167-178.
+[^24]: Heinz-Georg Klös. _Freundschaft mit Tieren: Der Altdirektor des Zoologischen Gartens Berlin erzählt_. Berlin: Edition Q, 1997: 167-178.
 
 [^25]: Durchschrift Ministerium für Auswärtige Angelegenheiten der DDR an Solidaritätsausschuss für Korea und Vietnam, 12.10.1956, Botschaft der DDR in Hanoi: Aktenvermerk, 19.03.1957, PA AA, M 01/A 8367 sowie die gesamte Korrespondenz zu dem Vorgang mit dem MfAA in: Politisches Archiv des Auswärtigen Amtes (PA AA), M 01/A 8367.
 
-[^26]: Robbins, C. T. _Wildlife Feeding and Nutrition_. New York: 1983, zitiert nach Kawata, 2008: 23. Direkte Zitate wurden zur besseren Verständlichkeit ins Deutsche übersetzt.
+[^26]: C.T. Robbins. _Wildlife Feeding and Nutrition_. New York: 1983, zitiert nach Kawata, 2008: 23. Direkte Zitate wurden zur besseren Verständlichkeit ins Deutsche übersetzt.
 
 [^27]: “Appendices”. _CITES_, https://cites.org/eng/app/appendices.php (02.06.2021).
