@@ -7,7 +7,7 @@ short_desc_de: Eine umfangreiche Datenbank mikropaläontologischer Proben und Da
 date_end: 2021-12-07T18:44:00.147Z
 published: false
 title: NSB Database
-updated: 1641845377371
+updated: 1642007224086
 id: 384f2259-ec40-482d-bacc-c0876ae280aa
 translators:
   translator_en_de: ""
@@ -45,11 +45,11 @@ _This video illustrates the NSB database and its use in the Museum für Naturkun
 
 </figcaption>
 
-[^1]: From Renaudie, J., D. Lazarus and P. Diver. “NSB (Neptune Sandbox Berlin): An Expanded and Improved Database of Marine Planktonic Microfossil Data and Deep-Sea Stratigraphy.” _Palaeontologia Electronica_ 23 (2020): 1-28. https://doi.org/10.26879/1032.
+[^1]: From J. Renaudie, D. Lazarus, and P. Diver. “NSB (Neptune Sandbox Berlin): An Expanded and Improved Database of Marine Planktonic Microfossil Data and Deep-Sea Stratigraphy”. _Palaeontologia Electronica_ 23 (2020): 1-28. https://doi.org/10.26879/1032.
 
 [^2]: See https://nsb.mfn-berlin.de (03.01.2022).
 
-[^3]: For a more in depth history of the database, see Renaudie, J., D. Lazarus and P. Diver, 2020.
+[^3]: For a more in depth history of the database, see Renaudie, Lazarus, and Diver, 2020.
 
 
 :::DE:::
@@ -76,9 +76,9 @@ _This video illustrates the NSB database and its use in the Museum für Naturkun
 
 </figcaption>
 
-[^1]: Renaudie, J., D. Lazarus and P. Diver. “NSB (Neptune Sandbox Berlin): An Expanded and Improved Database of Marine Planktonic Microfossil Data and Deep-Sea Stratigraphy.” _Palaeontologia Electronica_ 23 (2020): 1–2 8. https://doi.org/10.26879/1032.
+[^1]: J. Renaudie, D. Lazarus und P. Diver. “NSB (Neptune Sandbox Berlin): An Expanded and Improved Database of Marine Planktonic Microfossil Data and Deep-Sea Stratigraphy”. _Palaeontologia Electronica_ 23 (2020): 1-28. https://doi.org/10.26879/1032.
 
 [^2]: Siehe https://nsb.mfn-berlin.de (03.01.2022).
 
-[^3]: Zur Geschichte der Datenbank, siehe Renaudie, J., D. Lazarus and P. Diver, 2020.
+[^3]: Zur Geschichte der Datenbank, siehe Renaudie, Lazarus und Diver, 2020.
 
