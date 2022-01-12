@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Using Cycladophora
 title_de: Nutzung von Cycladophora
 created: 1624875395326
-updated: 1641316135222
+updated: 1641997425491
 id: TBi8fH-OIQRAoB-tG9ZY1
 author: Filippo Bertoni
 doi: 10.7479/64y2-m311/2
@@ -40,7 +40,7 @@ published: false
 
 <figcaption>
 
-_A graph from Hays et al. 1976 milestone publication on Science, linking variations in Cycladophora’s abundances with glacial cycles. All rights reserved._
+_A graph from the milestone publication of James D. Hays, et al. in_ Science, _from 1976, linking variations in Cycladophora’s abundances with glacial cycles. All rights reserved._
 
 </figcaption>
 
