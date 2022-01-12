@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1641652009639
+updated: 1642013641458
 id: d54394f6-1188-4ec3-b590-da329e657560
 translators:
   translator_de_en: ""
@@ -205,51 +205,51 @@ In the early postwar years, the relationship between the zoo and the people of B
 
 Depending on your perspective, the zoo was a hub for the exchange of animals and information; a place for the illegal procurement of food, where acorns and animals were stolen; a part of the city’s supply infrastructure; or a burden on its food supply – a situation that only gradually began to normalize in the early 1950s. “We have all kinds of plans for the spring”, wrote Katharina Heinroth in a letter in the spring of 1950, “the gardening should stop now, because the food situation has improved substantially for the people of Berlin and vegetables can be bought at the markets again. We can now beautify our grounds again”.[^41] One thing becomes clear in view of these postwar years: while zoos understand their primary purpose as being [[to exhibit wild animals|theme.showing-animals]] in an urban environment, they are not divorced from the city that surrounds them and its political, social, and economic situation. Crises such as the postwar period present the zoo with new challenges to which it must respond, and in the course of which the role of the institution, as well as the status and value attributed to its animals, are subject to changes. In light of the challenges posed by climate justice and social justice today, we are faced with the important question as to what we want the zoo of the future to look like.
 
-[^1]: In 1938, there were 3,715 animals; in 1944 there were still 1,700 animals. Cf. half-yearly report for the supervisory board meeting of 10.8.1955, AZGB N 4/2.
+[^1]: In 1938, there were 3,715 animals; in 1944 there were still 1,700 animals. Cf. half-yearly report for the supervisory board meeting of 10.08.1955, AZGB N 4/2.
 
-[^2]: Progress report of the Zoological Garden from 3.5. to 23.5.1945, AZGB O 0/1/75.  
+[^2]: Progress report of the Zoological Garden from 03.05. to 23.05.1945, AZGB O 0/1/75.  
 
-[^3]: K. Heinroth to Paula, 1.3.1946, AZGB N 4/12. Direct quotes have been translated into English for clarity’s sake.
+[^3]: K. Heinroth to Paula, 01.03.1946, AZGB N 4/12. Direct quotes have been translated into English for clarity’s sake.
 
-[^4]: “Siam erhält Stubenarrest: Wintervorbereitungen im Zoo”. _Das Volk_, 4.11.1945. As one might imagine, the practice of converting open spaces for the cultivation of vegetables and potatoes was widespread. The garden of the Museum of Natural History, for instance, was also reserved for growing vegetables for staff until 1949. Direct quotes have been translated into English for clarity’s sake.
+[^4]: “Siam erhält Stubenarrest: Wintervorbereitungen im Zoo”. _Das Volk_, 04.11.1945. As one might imagine, the practice of converting open spaces for the cultivation of vegetables and potatoes was widespread. The garden of the Museum of Natural History, for instance, was also reserved for growing vegetables for staff until 1949. Direct quotes have been translated into English for clarity’s sake.
 
-[^5]: Cf. progress report of the Zoological Garden from 3.5. to 23.5.1945, AZGB O 0/1/75. As a result of the war, many of the animals had been killed, and large parts of the zoo buildings destroyed, which is why there were a lot of open spaces once the debris had been removed. Direct quotes have been translated into English for clarity’s sake.
+[^5]: Cf. progress report of the Zoological Garden from 03.05. to 23.05.1945, AZGB O 0/1/75. As a result of the war, many of the animals had been killed, and large parts of the zoo buildings destroyed, which is why there were a lot of open spaces once the debris had been removed. Direct quotes have been translated into English for clarity’s sake.
 
 [^6]: K. Heinroth to L. Rüppell, n.d. [likely April/May 1946], AZGB N 4/12. Cf. also the annual report of the park department of the Berlin Zoological Garden 1945: “The large elephant enclosure and the unoccupied areas in the ostrich pen and in front of the pheasant house were used to grow Jerusalem artichokes and beets. The two main promenades were sowed with potatoes.” Direct quotes have been translated into English for clarity’s sake.
 
-[^7]: “Most of the lawns will be sowed with turnips and fodder, the feed shortage is terrible.” K. Heinroth to Paula, 1.3.1946, AZGB N 4/12 I. Cf. also K. Heinroth to L. Rüppell, n.d. [likely April/May 1946], AZGB N 4/12. Heinroth wrote in a letter: “Some of the retinue use the free enclosures as allotments.” Progress report by Katharina Heinroth, 18.9.1945, AZGB N 4/2. Direct quotes have been translated into English for clarity’s sake.
+[^7]: “Most of the lawns will be sowed with turnips and fodder, the feed shortage is terrible.” K. Heinroth to Paula, 1.3.1946, AZGB N 4/12 I. Cf. also K. Heinroth to L. Rüppell, n.d. [likely April/May 1946], AZGB N 4/12. Heinroth wrote in a letter: “Some of the retinue use the free enclosures as allotments.” Progress report by Katharina Heinroth, 18.09.1945, AZGB N 4/2. Direct quotes have been translated into English for clarity’s sake.
 
-[^8]: Annual report from 1.4.1949 to 31.12.1949, AZGB N/4/2. Direct quotes have been translated into English for clarity’s sake.
+[^8]: Annual report from 01.04.1949 to 31.12.1949, AZGB N/4/2. Direct quotes have been translated into English for clarity’s sake.
 
-[^9]: K. Heinroth to P. Chudy, 17.7.1948, AZGB O 0/1/60. Direct quotes have been translated into English for clarity’s sake.
+[^9]: K. Heinroth to P. Chudy, 17.07.1948, AZGB O 0/1/60. Direct quotes have been translated into English for clarity’s sake.
 
-[^10]: K. Heinroth to W. Börner, 19.7.1947, AZGB O 1/2/37. The feed shortage and the fact that no new animals could be acquired was to a large extent due to the zoo’s financial problems. After the division of the city by the Potsdam Agreement, its accounts were located in banks in the eastern part of the city. Moreover, the zoo initially had little income. Direct quotes have been translated into English for clarity’s sake.
+[^10]: K. Heinroth to W. Börner, 19.07.1947, AZGB O 1/2/37. The feed shortage and the fact that no new animals could be acquired was to a large extent due to the zoo’s financial problems. After the division of the city by the Potsdam Agreement, its accounts were located in banks in the eastern part of the city. Moreover, the zoo initially had little income. Direct quotes have been translated into English for clarity’s sake.
 
-[^11]: “Sorgen im Berliner Zoo”. _Neue Zeit_, 18.9.1948. Direct quotes have been translated into English for clarity’s sake.
+[^11]: “Sorgen im Berliner Zoo”. _Neue Zeit_, 18.09.1948. Direct quotes have been translated into English for clarity’s sake.
 
-[^12]: “Der Zoo braucht dringend Hilfe”. _Die Neue Zeitung_ [München], 7.4.1949. Direct quotes have been translated into English for clarity’s sake.
+[^12]: “Der Zoo braucht dringend Hilfe”. _Die Neue Zeitung_ [München], 07.04.1949. Direct quotes have been translated into English for clarity’s sake.
 
 [^13]: The magazine was initially published by the Allgemeiner Deutscher Verlag in East Berlin, until 1948, when the democratic women’s association of Germany (Demokratischer Frauenbund Deutschlands, DFD) took over the editorship until the journal was discontinued at the end of 1962. After that, by decision of the SED secretariat, the magazine was published by Deutscher Frauenverlag GmbH Berlin, and from 1953 by the Verlag für die Frau, Leipzig. In 1963, the magazine _Für Dich_ became the successor to _Frau von heute_.
 
-[^14]: “Zoo. Junge Tiere, junge Pflanzen, junge Menschen”. _Die Frau von heute_, 7.5.1946. Direct quotes have been translated into English for clarity’s sake.
+[^14]: “Zoo: Junge Tiere, junge Pflanzen, junge Menschen”. _Die Frau von heute_, 07.05.1946. Direct quotes have been translated into English for clarity’s sake.
 
 [^15]: This attitude changed in the 1950s, at the time of the economic boom, when it was announced that: “Whoever wants to prove their love for animals by satisfying their hunger should remember that animals are not a recycling facility for those foods that have become inedible for human beings.” “Falsche Tierliebe”. _Gießener Anzeiger_, 16.04.1960. See also [[story.feeding-prohibited]].
 
-[^16]: K. Heinroth to the Haupternährungsamt of the city of Berlin, 6.8.1945, AZGB N 4/2.
+[^16]: K. Heinroth to the Haupternährungsamt of the city of Berlin, 06.08.1945, AZGB N 4/2.
 
 [^17]: Cf. AZGB O 1/1/2. Direct quotes have been translated into English for clarity’s sake.
 
 [^18]: Cf. magistrate of the city of Berlin, department for food and nutrition to the Zoological Garden Berlin, 17.11.1945, AZGB O 1/1/2.
 
-[^19]: K. Heinroth to E. Mohr, 22.1.1946, AZGB N 4/12. Direct quotes have been translated into English for clarity’s sake.
+[^19]: K. Heinroth to E. Mohr, 22.01.1946, AZGB N 4/12. Direct quotes have been translated into English for clarity’s sake.
 
-[^20]: de Luce, Daniel. “Lebensmittelkarte 5 im Berliner Zoo”. _Tägliche Rundschau_, 17.12.1946. Direct quotes have been translated into English for clarity’s sake.
+[^20]: Daniel de Luce. “Lebensmittelkarte 5 im Berliner Zoo”. _Tägliche Rundschau_, 17.12.1946. Direct quotes have been translated into English for clarity’s sake.
 
-[^21]: “Spinat oder Hirsche: Ein Frühlingsspaziergang durch den Berliner Zoo”. _Der Tagesspiegel_, 3.4.1947. Direct quotes have been translated into English for clarity’s sake.
+[^21]: “Spinat oder Hirsche: Ein Frühlingsspaziergang durch den Berliner Zoo”. _Der Tagesspiegel_, 03.04.1947. Direct quotes have been translated into English for clarity’s sake.
 
 [^22]: Cf. _Verordnungsblatt (VOBl.) der Stadt Berlin 1945_, no. 1, July 1945: 5.
 
-[^23]: “Einführung von Futtermittelkarten”. _Verordnungsblatt (VOBl.) der Stadt Berlin 1945_, No. 7, 20.9.1945: 81.
+[^23]: “Einführung von Futtermittelkarten”. _Verordnungsblatt (VOBl.) der Stadt Berlin 1945_, No. 7, 20.09.1945: 81.
 
 [^24]: Cf. AZGB  O 1/2/42.
 
@@ -259,33 +259,33 @@ Depending on your perspective, the zoo was a hub for the exchange of animals and
 
 [^27]: H. Binck to the Zoological Garden Berlin, 16.11.1947, AZGB O 1/2/42.
 
-[^28]: Progress report by Katharina Heinroth, 18.9.1945, AZGB N 4/2.
+[^28]: Progress report by Katharina Heinroth, 18.09.1945, AZGB N 4/2.
 
-[^29]: File memo Katharina Heinroth, 19.3.1946, AZGB O 0/1/75. Direct quotes have been translated into English for clarity’s sake.
+[^29]: File memo Katharina Heinroth, 19.03.1946, AZGB O 0/1/75. Direct quotes have been translated into English for clarity’s sake.
 
-[^30]: When guinea pig breeding was being reestablished, the zoo was “often forced to use guinea pigs as feed due to food scarcity”. K. Heinroth to J. Roscher, 23.2.1947, AZGB O 1/2/42. On the threat of evacuation, cf. also K. Heinroth to K. Lorenz, 12.10.1948, AZGB N/4/12; K. Heinroth to E. Mohr, 28.2.1946, in: AZGB N 4/12.
+[^30]: When guinea pig breeding was being reestablished, the zoo was “often forced to use guinea pigs as feed due to food scarcity”. K. Heinroth to J. Roscher, 23.02.1947, AZGB O 1/2/42. On the threat of evacuation, cf. also K. Heinroth to K. Lorenz, 12.10.1948, AZGB N/4/12; K. Heinroth to E. Mohr, 28.2.1946, in: AZGB N 4/12.
 
 [^31]: Between May and August 1945, the number of animals increased from 194 to 240, mainly due to the intake of animals from the Brumbach Circus. 
 
-[^32]: Cf. Heinroth, Katharina. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 154-157. The Second World War had, to a greater or lesser extent, destroyed many zoos throughout Europe. Moreover, during the First and Second World Wars, military units of the Reichswehr and the Wehrmacht captured animals in the conquered territories of Europe and handed them over to the zoological gardens of the Reich capital. In 1939, Lutz Heck also brought valuable show animals, including an elephant, from Warsaw Zoo to German zoos. Cf. Szczygielska, Marianna. “Elephant Empire: Zoos and Colonial Encounters in Eastern Europe”. _Cultural Studies_(2020): 1-22. https://doi.org/10.1080/09502386.2020.1780280; see also [[story.catching-animals]].
+[^32]: Cf. Katharina Heinroth. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 154-157. The Second World War had, to a greater or lesser extent, destroyed many zoos throughout Europe. Moreover, during the First and Second World Wars, military units of the Reichswehr and the Wehrmacht captured animals in the conquered territories of Europe and handed them over to the zoological gardens of the Reich capital. In 1939, Lutz Heck also brought valuable show animals, including an elephant, from Warsaw Zoo to German zoos. Cf. Marianna Szczygielska. “Elephant Empire: Zoos and Colonial Encounters in Eastern Europe”. _Cultural Studies_(2020): 1-22. https://doi.org/10.1080/09502386.2020.1780280; see also [[story.catching-animals]].
 
-[^33]: K. Heinroth to the magistrate of the city of Berlin, department for food and nutrition, 20.3.1946, AZGB O 1/1/2. Cf. also K. Heinroth to the Allied commander of the city of Berlin, 15.5.1946, AZGB O 1/1/2. Direct quotes have been translated into English for clarity’s sake.
+[^33]: K. Heinroth to the magistrate of the city of Berlin, department for food and nutrition, 20.03.1946, AZGB O 1/1/2. Cf. also K. Heinroth to the Allied commander of the city of Berlin, 15.05.1946, AZGB O 1/1/2. Direct quotes have been translated into English for clarity’s sake.
 
-[^34]: “The last of Berlin’s pachyderms ‘Siam’ starved and froze half to death in March last year.” Cf. “Auf den Spuren des Elefanten”. _Der Kurier_, 7.2.1948; and “‘Siam’ unter der Bandsäge”. _Telegraf_, 21.3.1947. Direct quotes have been translated into English for clarity’s sake.
+[^34]: “The last of Berlin’s pachyderms ‘Siam’ starved and froze half to death in March last year.” Cf. “Auf den Spuren des Elefanten”. _Der Kurier_, 07.02.1948; and “‘Siam’ unter der Bandsäge”. _Telegraf_, 21.03.1947. Direct quotes have been translated into English for clarity’s sake.
 
-[^35]: Wöbse, Anna-Katharina, and Mieke Roscher. “Zootiere während des Zweiten Weltkrieges: London und Berlin 1939-1945”. _WerkstattGeschichte_ 56 (2010): 44-62.
+[^35]: Anna-Katharina Wöbse and Mieke Roscher. “Zootiere während des Zweiten Weltkrieges: London und Berlin 1939-1945”. _WerkstattGeschichte_ 56 (2010): 44-62.
 
 [^36]: K. Heinroth to W. Börner, 14.10.1947, AZGB O 1/2/42.
 
-[^37]: C. Gutschmidt to K. Heinroth, 26.3.1947, AZGB O 1/2/37.
+[^37]: C. Gutschmidt to K. Heinroth, 26.03.1947, AZGB O 1/2/37.
 
-[^38]: Cf. K. Heinroth to E. Schmidt, 13.10.1948, AZGB O 0/1/274. Food shortages were already a major issue for both people and zoo animals during the First World War. Especially in the so-called “Steckrübenwinter” (“turnip winter”) of 1916/17, it proved difficult to obtain grain and potato products, which resulted in riots and looting in many German cities. The notion that animals were competing with humans for food prompted mass slaughtering, which ultimately exacerbated the situation more than anything else. Cf. Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015. Direct quotes have been translated into English for clarity’s sake.
+[^38]: Cf. K. Heinroth to E. Schmidt, 13.10.1948, AZGB O 0/1/274. Food shortages were already a major issue for both people and zoo animals during the First World War. Especially in the so-called “Steckrübenwinter” (“turnip winter”) of 1916/17, it proved difficult to obtain grain and potato products, which resulted in riots and looting in many German cities. The notion that animals were competing with humans for food prompted mass slaughtering, which ultimately exacerbated the situation more than anything else. Cf. Nastasja Klothmann. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015. Direct quotes have been translated into English for clarity’s sake.
 
 [^39]: K. Heinroth to E. Schmidt, 13.10.1948, AZGB O 0/1/274.
 
-[^40]: K. Heinroth to E. Mohr, 22.1.1946, AZGB N/4/12.
+[^40]: K. Heinroth to E. Mohr, 22.01.1946, AZGB N/4/12.
 
-[^41]: K. Heinroth to U. Bergman, 7.3.1950, AZGB N 4/12. Cf. also AZGB O 1/1/1.
+[^41]: K. Heinroth to U. Bergman, 07.03.1950, AZGB N 4/12. Cf. also AZGB O 1/1/1.
 
 :::DE:::
 
