@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding Prohibited
 title_de: Füttern verboten
 created: 1620752897039
-updated: 1641999679392
+updated: 1642001860866
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 author: Mareike Vennen
 translators:
@@ -286,6 +286,8 @@ _Artikel im_ Tagesspiegel _zum Fütterungsverbot im Berliner Zoo anlässlich der
 </figcaption>
 
 </figure>
+
+Auf den Tod der Elefantenkuh “Jambo”, die 1960 im Zoo Berlin wegen Überfütterung durch die Besucher:innen erkrankte und schließlich eingeschläfert werden musste, folgte eine hitzige Diskussion. Sie drehte sich um den richtigen Umgang mit Tieren in Gefangenschaft und ihre Fütterung. “Jambos” Tod führte ab dem 10. April 1960 zu einem generellen Fütterungsverbot im Berliner Zoo.
 
 Der Tod des Elefanten war nicht der erste Fall, bei dem ein Zootier an den Folgen einer [[Überfütterung|story.feeding-and-overfeeding]] starb. Zootiere mit mitgebrachten Lebensmitteln zu füttern, ist Teil einer langen Geschichte falscher oder übermäßiger Fütterung. Seit ihren Anfängen im 19. Jahrhundert war das Füttern durch die Besucher:innen in zoologischen Gärten grundsätzlich erlaubt. Die damaligen Zooführer – kleine, gedruckte Informationshefte – luden die Besucher:innen zum Füttern ein, allerdings schon damals mit Einschränkungen. Der Berliner Zooführer wies bereits 1873 darauf hin, manche Tiere nicht zu füttern und im Hamburger Zoologischen Garten wurden die Besucher:innen ebenfalls schon 1879 “ergebenst und dringend ersucht, nur diejenigen Thiere zu füttern, deren Namen auf den Anschlagtafeln bekannt gemacht sind”.[^1] Über den Zoologischen Garten Frankfurt hieß es nur wenige Tage nach der Eröffnung 1858: “Nachdem am Sonntage der zoologische Garten eröffnet worden, haben in Folge der von den Besuchern übermäßig gereichten Fütterung die meisten Thiere an verdorbenem Magen gelitten.” So musste das Füttern verschiedener Tiere ganz untersagt werden. Mahnungen an den Käfigen bezüglich des Fütterungsverbots sind auch im Zooführer des Tiergartens Schönbrunn 1912 erwähnt. Besonders empfindliche Tierarten wie Menschenaffen, Raubtiere und Seelöwen durften in den meisten Zoos überhaupt nicht gefüttert werden.[^2]
 
