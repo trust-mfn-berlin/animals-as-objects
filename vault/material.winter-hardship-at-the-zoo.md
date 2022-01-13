@@ -9,6 +9,7 @@ published: false
 title: Winter Hardship at the Zoo
 updated: 1641331356569
 id: QNjsPsf49gtoKwbK4WauU
+doi: 64y2-m311/49
 translators:
   translator_de_en: Carla Welch
 desc: A poem from 1948

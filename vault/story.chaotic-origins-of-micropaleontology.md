@@ -1,19 +1,25 @@
 ---
-id: fee46412-5135-463a-8019-d002f5b513ea
+license: CC BY-SA
+title_de: Die chaotischen Anfänge der Mikropaläontologie
+created: 1621514713008
+author: Filippo Bertoni
+short_desc_de: Naturforscher:innen rangen um ein Verständnis von Mikroorganismen
+date_end: 1850-12-31T11:06:32.000Z
+published: false
 title: Chaotic Origins of Micropaleontology
+updated: 1642090317050
+id: fee46412-5135-463a-8019-d002f5b513ea
+doi: 64y2-m311/10
+translators:
+  translator_en_de: ""
+copy_editors:
+  copy_editor_de: Jan-Peter Herrmann
 desc: |-
   As microorganisms began to enter our field of vision, naturalists
   struggled to understand their relations to the rest of nature. The history of
   these struggles, especially how they took shape around the Museum für
   Naturkunde Berlin, can show how much microorganisms transformed over time, and
   how they keep challenging what animals are.
-updated: 1642090317050
-created: 1621514713008
-license: CC BY-SA
-title_de: Die chaotischen Anfänge der Mikropaläontologie
-author: Filippo Bertoni
-translators:
-  translator_en_de: ''
 desc_de: |-
   In der Anfangszeit der Erforschung von Mikroorganismen hatten
   Naturkundler:innen zunächst noch keine Vorstellung von ihrer Rolle und ihrem
@@ -23,7 +29,6 @@ desc_de: |-
   Mikroorganismen mit der Zeit gewandelt hat und unterstreicht andererseits die
   Bedeutung dieses Verständnisses für unsere Definition von tierischem Leben.
 short_desc: Naturalists struggled to understand microorganisms
-short_desc_de: 'Naturforscher:innen rangen um ein Verständnis von Mikroorganismen'
 cover_image:
   image: /images/cover-chaotic-origins.jpg
   alt: |-
@@ -32,8 +37,6 @@ cover_image:
 colour_scheme: 14
 tao_type: story
 date_start: 1765-12-31T23:06:32.000Z
-date_end: 1850-12-31T11:06:32.000Z
-published: false
 ---
 
 :::EN:::

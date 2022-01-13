@@ -6,8 +6,11 @@ created: 1620752897039
 updated: 1642092888852
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 author: Mareike Vennen
+doi: 64y2-m311/26
 translators:
   translator_de_en: ""
+copy_editors:
+  copy_editor_en: Carla Welch
 desc: Nowadays, zoos impose a divide between animals and humans that is mostly
   taken for granted, but it was long commonplace for visitors to have direct
   contact with the animals through feeding. How, when, and why did zoos

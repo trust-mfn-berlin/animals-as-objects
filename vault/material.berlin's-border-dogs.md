@@ -1,24 +1,25 @@
 ---
 license: CC BY-SA
-title: Berlin’s Border Dogs
 title_de: Berliner Grenz-Hunde
 created: 1640359523201
+author: Marie Permantier
+short_desc_de: Audiogeschichten über Tiere in Berlin
+date_end: 1990-12-24T15:37:00.000Z
+published: false
+title: Berlin’s Border Dogs
 updated: 1641210059932
 id: PycpfqnQuolcIv93f9gkd
-author: Marie Permantier
+doi: 64y2-m311/64
 translators:
   translator_de_en: Lydia J. White
 desc: Audio stories about animals in Berlin
 desc_de: Audiogeschichten über Tiere in Berlin
 short_desc: Audio stories about animals in Berlin
-short_desc_de: Audiogeschichten über Tiere in Berlin
 cover_image:
   image: /images/tiertopografien-permantier-copyright-tvb.jpg
 colour_scheme: 1
 tao_type: material
 date_start: 1961-12-24T15:37:00.000Z
-date_end: 1990-12-24T15:37:00.000Z
-published: false
 ---
 
 :::EN:::

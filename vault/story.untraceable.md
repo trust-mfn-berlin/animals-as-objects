@@ -9,6 +9,7 @@ published: false
 title: Untraceable
 updated: 1641832161070
 id: abaNOPQjQqMhfMbhbhvm4
+doi: 64y2-m311/73
 translators:
   translator_de_en: Lydia J. White
 desc: "The search for historical collection items is not always successful, but

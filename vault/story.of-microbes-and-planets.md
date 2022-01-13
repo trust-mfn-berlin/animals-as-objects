@@ -10,8 +10,11 @@ published: false
 title: Of Microbes and Planets
 updated: 1641670135283
 id: 796e4da7-c573-401f-a165-7bd9c3a503c6
+doi: 64y2-m311/33
 translators:
   translator_en_de: ""
+copy_editors:
+  copy_editor_en: Jan-Peter Herrmann
 desc: The study of micropaleontology in the oceans helped to recognize the
   importance of microorganisms for planetary dynamics. Following the history of
   these studies, and the theories they allowed to formulate, shows the deep

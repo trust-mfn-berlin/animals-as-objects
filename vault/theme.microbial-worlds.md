@@ -9,8 +9,11 @@ published: false
 title: Microbial Worlds
 updated: 1641839096480
 id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
+doi: 64y2-m311/34
 translators:
   translator_en_de: ""
+copy_editors:
+  copy_editor_en: Jan-Peter Herrmann
 desc: The development of techniques for observing microscopic worlds shaped our
   knowledge of microbes. From their earliest observations in the 17th century to
   the latest explorations of the importance of microbes in infusing our planet

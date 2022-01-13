@@ -1,30 +1,31 @@
 ---
-id: 4npaIbpRAHygxSlfFDrj3
+license: CC BY-SA
+title_de: The Worlds We Make
+created: 1640281603094
+author: Mareike Vennen
+short_desc_de: Pfeilschwanzkrebse in der Sammlung und im Labor
+date_end: ""
+published: false
 title: The Worlds We Make
+updated: 1641158017844
+id: 4npaIbpRAHygxSlfFDrj3
+doi: 64y2-m311/51
+translators:
+  translator_de_en: Lydia J. White
 desc: |-
   The history of the horseshoe crab traverses a range of collecting sites
   and scientific spaces, and shows how they have changed the worlds of both
   people and animals.
-updated: 1641158017844
-created: 1640281603094
-license: CC BY-SA
-title_de: The Worlds We Make
-author: Mareike Vennen
-translators:
-  translator_de_en: Lydia J. White
 desc_de: |-
   Die Geschichte des Pfeilschwanzkrebses führt quer durch verschiedene
   Orte des Sammelns und Räume der Wissenschaft und zeigt, wie diese die
   Lebenswelten von Menschen und Tieren gleichermaßen verändern.
 short_desc: Horseshoe crabs in collections and laboratories
-short_desc_de: Pfeilschwanzkrebse in der Sammlung und im Labor
 cover_image:
   image: /images/zmb-arach-48487-1.jpg
 colour_scheme: 13
 tao_type: story
 date_start: 1800-12-23T18:49:39.000Z
-date_end: ''
-published: false
 ---
 
 :::EN:::

@@ -9,6 +9,7 @@ published: false
 title: An “Atmospheric Image” of the Empire
 updated: 1642085109497
 id: ZDxo1U9ptEVRJhmFpVKyC
+doi: 64y2-m311/74
 translators:
   translator_en_de: Jan-Peter Herrmann
 desc: Displaying wild animals as colonial appropriation
