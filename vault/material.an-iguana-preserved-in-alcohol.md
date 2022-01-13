@@ -9,6 +9,7 @@ published: false
 title: An Iguana Preserved in Alcohol
 updated: 1641569226277
 id: 2I4UEzZOAUqyavSEDIFs8
+doi: 64y2-m311/53
 translators:
   translator_de_en: Lydia J. White
 desc: From the colony via the zoo into the collection
