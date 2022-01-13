@@ -13,7 +13,8 @@ doi: 10.7479/64y2-m311/1
 translators:
   translator_en_de: ""
 copy_editors:
-  copy_editor_en: Jan-Peter Herrmann
+  copy_editor_en: ""
+  copy_editor_de: Jan-Peter Herrmann
 desc: |-
   The classification of this radiolarian species in the 19th century
   inscribed it in a forming taxonomic order of nature. This story uses the
