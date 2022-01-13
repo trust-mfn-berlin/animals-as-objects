@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Of Disappearance and Rediscovery
 title_de: Vom Verschwinden und Wiederfinden
 created: 1640355738318
-updated: 1642085205057
+updated: 1642085291433
 id: OnYQIVhzHVPQr5cuuBtEO
 author: Mareike Vennen
 translators:
@@ -29,7 +29,7 @@ published: false
 
 <figcaption>
 
-_Monitor lizard preserved in alcohol from the Herpetological Collection at the Museum of Natural History Berlin. (Image: Frank Tillack/MfN. All rights reserved.)_
+_Monitor lizard preserved in alcohol from the Herpetological Collection at the Museum für Naturkunde Berlin. (Image: Frank Tillack/MfN. All rights reserved.)_
 
 </figcaption>
 
