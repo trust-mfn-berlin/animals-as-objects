@@ -7,7 +7,7 @@ short_desc_de: Foto von Oskar Heinroth mit drei Uralkäuzen
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Oskar Heinroth
-updated: 1642008708469
+updated: 1642094861801
 id: 1a9793b7-746f-4a58-bfa2-54596b72b4bc
 translators:
   translator_de_en: ""
@@ -37,7 +37,7 @@ _Oskar Heinroth with three Ural owls he raised, 1929. (AZGB. All rights reserved
 
 </figure>
 
-The photograph shows Oskar August Heinroth (1871–1945) with three Ural owls perching on him. It is no coincidence that the picture bears a resemblance to a photograph taken of his first wife [[material.magdalena-heinroth]]. **Up until 1932, the couple reared specimens of virtually all native bird species from egg to adulthood in their staff lodgings at the Berlin Aquarium, documenting the birds’ growth and observing their behavior.** Their findings were published in _Die Vögel Mitteleuropas in allen Lebens- u. Entwicklungsstufen photogr. aufgenommen u. in ihrem Seelenleben bei d. Aufzucht vom Ei ab beobachtet_, published in four volumes between 1924 and 1933.
+The photograph shows Oskar August Heinroth (1871–1945) with three Ural owls perching on him. It is no coincidence that the picture bears a resemblance to a photograph taken of his first wife [[material.magdalena-heinroth]]. **Up until 1932, the couple reared specimens of virtually all native bird species from egg to adulthood in their staff lodgings at the Berlin Aquarium, documenting the birds’ growth and observing their behaviour.** Their findings were published in _Die Vögel Mitteleuropas in allen Lebens- u. Entwicklungsstufen photogr. aufgenommen u. in ihrem Seelenleben bei d. Aufzucht vom Ei ab beobachtet_, published in four volumes between 1924 and 1933.
 
 The observations for the study had been gathered in the couple’s apartment at the Berlin Aquarium. Oskar Heinroth, a medical graduate, had become an assistant at Berlin Zoo in 1904. **In 1911, zoo director Ludwig Heck put him in charge of supervising the construction of the aquarium, which Heinroth designed himself.** Opened in August 1913, the aquarium soon became the most important institution of its kind. Oskar Heinroth’s severe allergy to the dust created by the birds he kept caused him to have breathing problems at night. Nevertheless, the couple continued to breed birds.[^1] Oskar Heinroth is considered one of the founders of comparative behavioral research (ethology). He took all the photographs for his publications himself and was adept at presenting the findings of his research in an accessible way. After Magdalena Heinroth’s death, he continued his research together with his second wife [[material.katharina-heinroth]].
 
