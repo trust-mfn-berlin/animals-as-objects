@@ -9,6 +9,7 @@ published: false
 title: Purchased from a Caravan
 updated: 1641057583994
 id: VzxTWqgWM3FzLdS5Z2DUO
+doi: 64y2-m311/58
 translators:
   translator_en_de: Jan-Peter Herrmann
 desc: Animal skulls tell a story
