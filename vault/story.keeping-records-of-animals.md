@@ -1,6 +1,17 @@
 ---
-id: zrAZZTgVehO9zeVbW4dMX
+license: CC BY-SA
+title_de: Tiere verzeichnen
+created: 1635148858347
+author: Mareike Vennen
+short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
+date_end: 2021-10-25T08:44:25.273Z
+published: false
 title: Keeping Records of Animals
+updated: 1641302664183
+id: zrAZZTgVehO9zeVbW4dMX
+doi: 64y2-m311/30
+translators:
+  translator_de_en: Carla Welch
 desc: |-
   How do animals get from a zoo to a collection? It is not just a matter of
   handing over an animal's body but involves myriad practices of record-keeping.
@@ -8,13 +19,6 @@ desc: |-
   they still relied on piles of paper – on offer lists, inventories, price
   lists, and invoices. These documents show us how zoo animals were transformed
   into museum exhibits and what kind of value was ascribed to them.
-updated: 1641302664183
-created: 1635148858347
-license: CC BY-SA
-title_de: Tiere verzeichnen
-author: Mareike Vennen
-translators:
-  translator_de_en: Carla Welch
 desc_de: |-
   Wie kommen Tiere aus dem Zoo in eine Sammlung? Dazu gehört nicht nur
   die Übergabe des Tierkörpers, sondern vielfältige Praktiken des Verzeichnens.
@@ -23,14 +27,11 @@ desc_de: |-
   Rechnungen. Durch sie erfahren wir etwas über die Transformation von Zootieren
   in Museumsobjekte und darüber, welcher Wert ihnen gegeben wurde.
 short_desc: Object transfer and the circulation of lists between zoos and museums
-short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
 cover_image:
   image: /images/verzeichnis-mfn-hbsb-s-iii-zool-garten-bd-1.jpg
 colour_scheme: 9
 tao_type: story
 date_start: 1914-01-13T00:00:00.000Z
-date_end: 2021-10-25T08:44:25.273Z
-published: false
 ---
 
 :::EN:::
