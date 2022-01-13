@@ -1,11 +1,15 @@
 ---
 license: CC BY-SA
-title: Knut
 title_de: Knut
 created: 1618576718116
+author: Clemens Maier-Wolthausen
+short_desc_de: “Knuts” ökonomische und emotionale Bedeutung in Zeiten des Klimawandels
+date_end: 2011-03-18T23:00:00.000Z
+published: false
+title: Knut
 updated: 1641840387125
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
-author: Clemens Maier-Wolthausen
+doi: 64y2-m311/27
 translators:
   translator_de_en: Lydia J. White
 desc: The polar bear “Knut”, born in 2006, achieved a popularity that took on
@@ -16,7 +20,6 @@ desc_de: Der 2006 geborene Eisbär “Knut” entwickelte eine bis dahin für ei
   einzelnes Zootier ungekannte Popularität. Welche Mechanismen haben diese
   starke Wirkung eines Zootiers über seinen Tod hinaus bedingt?
 short_desc: “Knut”’s economic and emotional significance in the age of climate change
-short_desc_de: “Knuts” ökonomische und emotionale Bedeutung in Zeiten des Klimawandels
 cover_image:
   image: /images/cover-knut-polar-bear-eisbaer-berlin-2006.jpg
   alt: '"Knut" at the Berlin zoo in 2007. "Knut" 2007 im Berliner Zoo. Source:
@@ -24,8 +27,6 @@ cover_image:
 colour_scheme: 10
 tao_type: story
 date_start: 2006-12-04T23:00:00.000Z
-date_end: 2011-03-18T23:00:00.000Z
-published: false
 ---
 
 :::EN:::

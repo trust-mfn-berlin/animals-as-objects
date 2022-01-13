@@ -9,8 +9,11 @@ published: false
 title: Feed Scarcity
 updated: 1642013807005
 id: d54394f6-1188-4ec3-b590-da329e657560
+doi: 64y2-m311/23
 translators:
   translator_de_en: ""
+copy_editors:
+  copy_editor_en: Carla Welch
 desc: How did the war-ravaged Berlin Zoological Garden manage to keep its
   animals alive after the Second World War? How was this effected by the food
   supply situation in the city? The crisis changed the relationship between the

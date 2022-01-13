@@ -1,24 +1,27 @@
 ---
 license: CC BY-SA
-title: Lamont-Doherty Collection
 title_de: Lamont-Doherty-Sammlung
 created: 1629110187218
+author: Filippo Bertoni
+short_desc_de: Eine bedeutende Langzeitsammlung mikropaläontologischer Präparate
+date_end: 2021-12-07T18:56:55.735Z
+published: false
+title: Lamont-Doherty Collection
 updated: 1641845020184
 id: YJrLgXqicVoVnrM8FtHXU
-author: Filippo Bertoni
+doi: 64y2-m311/39
 translators:
   translator_en_de: ""
+copy_editors:
+  copy_editor_de: Jan-Peter Herrmann
 desc: An important long-term collection of micropaleontological slides
 desc_de: Eine bedeutende Langzeitsammlung mikropaläontologischer Präparate
 short_desc: An important long-term collection of micropaleontological slides
-short_desc_de: Eine bedeutende Langzeitsammlung mikropaläontologischer Präparate
 cover_image:
   image: /images/lamont-cover.jpg
 colour_scheme: 15
 tao_type: material
 date_start: 1949-01-01T18:51:23.138Z
-date_end: 2021-12-07T18:56:55.735Z
-published: false
 ---
 
 

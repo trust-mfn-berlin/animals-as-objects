@@ -9,8 +9,11 @@ published: false
 title: Feeding List 1945
 updated: 1642013957400
 id: R4t_2F3NY3xIuAnRoDG0T
+doi: 64y2-m311/22
 translators:
   translator_de_en: ""
+copy_editors:
+  copy_editor_en: Carla Welch
 desc: The zoo’s postwar feeding lists
 desc_de: Futterlisten im Zoo der Nachkriegszeit
 short_desc: The zoo’s postwar feeding lists

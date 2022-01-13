@@ -1,11 +1,15 @@
 ---
 license: CC BY-SA
-title: Lions or Cows?
 title_de: Löwen oder Kühe?
 created: 1640356599113
+author: Mareike Vennen
+short_desc_de: Nutztiere im Zoo
+date_end: ""
+published: false
+title: Lions or Cows?
 updated: 1641134227264
 id: 9mH5N7vuPc8pcrpIzElb1
-author: Mareike Vennen
+doi: 64y2-m311/55
 translators:
   translator_de_en: Lydia J. White
 desc: When we think of zoos, we think of elephants, lions, and giraffes. But
@@ -15,14 +19,11 @@ desc_de: Wer an Zoos denkt, denkt an Elefanten, Löwen oder Giraffen. Doch sind
   für die Geschichte zoologischer Gärten ebenso Nutztiere wichtig, wie das
   Beispiel des Berliner Zoos in der Zeit um 1900 zeigt.
 short_desc: Domestic animals at the zoo
-short_desc_de: Nutztiere im Zoo
 cover_image:
   image: /images/aktendeckel-landwirtschaftlicher-tierpark.jpg
 colour_scheme: 14
 tao_type: material
 date_start: ""
-date_end: ""
-published: false
 ---
 
 :::EN:::

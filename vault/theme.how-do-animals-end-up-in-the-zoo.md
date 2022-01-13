@@ -9,8 +9,11 @@ published: false
 title: How Do Animals End Up in the Zoo?
 updated: 1642091296341
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
+doi: 64y2-m311/14
 translators:
   translator_de_en: ""
+copy_editors:
+  copy_editor_en: Carla Welch
 desc: Live animals for the Berlin Zoological Garden, Aquarium, and Tierpark
   collections have always come from a variety of sources. They have their own
   histories, and present political, logistical, and moral challenges for these

@@ -9,8 +9,11 @@ published: false
 title: Finding Cycladophora
 updated: 1641240923548
 id: 4kJJB2pX-g7lq6q7GUt0W
+doi: 64y2-m311/11
 translators:
   translator_en_de: ""
+copy_editors:
+  copy_editor_de: Jan-Peter Herrmann
 desc: In 1859, during a survey trip for a planned North Atlantic submarine
   telegraph line, the sample from which the radiolarian species Cycladophora has
   been originally described is recovered. The story of this journey unfolds the

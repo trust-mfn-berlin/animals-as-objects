@@ -9,8 +9,11 @@ published: false
 title: Magdalena Heinroth
 updated: 1642008885385
 id: 95617cbe-704d-46c1-b0b5-05d178ec363d
+doi: 64y2-m311/18
 translators:
   translator_de_en: ""
+copy_editors:
+  copy_editor_en: Carla Welch
 desc: Photograph of Magdalena Heinroth with three jackdaws
 desc_de: Foto von Magdalena Heinroth mit drei Dohlen
 short_desc: Photograph of Magdalena Heinroth with three jackdaws

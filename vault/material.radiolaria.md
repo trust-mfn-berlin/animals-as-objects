@@ -9,8 +9,11 @@ published: false
 title: Radiolaria
 updated: 1640907313240
 id: 947c29be-240a-4adb-93c7-9026f80aaa89
+doi: 64y2-m311/6
 translators:
   translator_en_de: ""
+copy_editors:
+  copy_editor_de: Jan-Peter Herrmann
 desc: Microscopic unicellular organisms living in the oceans
 desc_de: Mikroskopisch kleine einzellige Organismen, die in den Ozeanen leben
 short_desc: Microscopic unicellular organisms living in the oceans

@@ -9,8 +9,12 @@ published: false
 title: NSB Database
 updated: 1642007826426
 id: 384f2259-ec40-482d-bacc-c0876ae280aa
+doi: 64y2-m311/38
 translators:
   translator_en_de: ""
+copy_editors:
+  copy_editor_en: ""
+  copy_editor_de: Jan-Peter Herrmann
 desc: " A vast database of micropaleontological samples and data"
 desc_de: Eine umfangreiche Datenbank mikropaläontologischer Proben und Daten
 short_desc: " A vast database of micropaleontological samples and data"

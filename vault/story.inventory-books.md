@@ -1,6 +1,17 @@
 ---
-id: kZTLAIf7pRRgEPPJbtGqA
+license: CC BY-SA
+title_de: Inventarbücher
+created: 1629792912565
+author: Theresa Schatt
+short_desc_de: Wie werden die Objekte einer Lehrsammlung verzeichnet?
+date_end: 1968-12-31T11:00:00.000Z
+published: false
 title: Inventory Books
+updated: 1641646092433
+id: kZTLAIf7pRRgEPPJbtGqA
+doi: 64y2-m311/44
+translators:
+  translator_de_en: Lydia J. White
 desc: |-
   The inventory books of the Berlin university's Zoological Teaching
   Collection show how changing forms of record-keeping were shaped by war, loss,
@@ -8,26 +19,6 @@ desc: |-
   search for a spiny dogfish specimen reveals that it was registered in the
   teaching collection at various points in time under the numbers 1208, 2488,
   and 863.
-updated: 1641646092433
-created: 1629792912565
-license: CC BY-SA
-title_de: Inventarbücher
-author: Theresa Schatt
-translators:
-  translator_de_en: Lydia J. White
-short_desc: How does a teaching collection keep records of its items?
-short_desc_de: Wie werden die Objekte einer Lehrsammlung verzeichnet?
-cover_image:
-  image: >-
-    /images/cover-inventory-books-inventarbuecher-zoologische-lehrsammlung-zoological-teaching-collection-berlin.png
-  alt: |-
-    Inventory V(1) of the Berlin university's Zoological Teaching Collection.
-    Inventar V(1) der Zoologischen Lehrsammlung der Berliner Universität.
-    Source: Zoologische Lehrsammlung. All rights reserved.
-tao_type: story
-date_start: '1883-12-31T23:06:32.000Z'
-date_end: '1968-12-31T11:00:00.000Z'
-published: false
 desc_de: |-
   Die Inventarbücher der Zoologischen Lehrsammlung der Berliner
   Universität zeigen, dass die wandelbaren Verzeichnungsformen durch praktische
@@ -35,7 +26,16 @@ desc_de: |-
   geprägt wurden. Die detektivische Suche nach einem präparierten Dornhai-Embryo
   ergibt, dass das Präparat in der Lehrsammlung zu verschiedenen Zeiten unter
   den Nummern 1888, 1208 und 2488 verzeichnet worden war.
+short_desc: How does a teaching collection keep records of its items?
+cover_image:
+  image: /images/cover-inventory-books-inventarbuecher-zoologische-lehrsammlung-zoological-teaching-collection-berlin.png
+  alt: |-
+    Inventory V(1) of the Berlin university's Zoological Teaching Collection.
+    Inventar V(1) der Zoologischen Lehrsammlung der Berliner Universität.
+    Source: Zoologische Lehrsammlung. All rights reserved.
 colour_scheme: 17
+tao_type: story
+date_start: 1883-12-31T23:06:32.000Z
 ---
 
 :::EN:::

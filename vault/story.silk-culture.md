@@ -1,19 +1,23 @@
 ---
+license: CC BY-SA
+title_de: Seiden-Cultur
+created: 1629996091814
+author: Britta Lange
+short_desc_de: Zur Geschichte des Seidenbaus in Preußen
+date_end: 1885-12-31T11:06:32.000Z
+published: false
+title: "Silk Culture "
+updated: 1641637799900
 id: isUsK2mnx8uIqaTJ60nYR
-title: 'Silk Culture '
+doi: 64y2-m311/48
+translators:
+  translator_de_en: Lydia J. White
 desc: |-
   The spread of white mulberry trees in 18th-century Brandenburg for the
   cultivation of silkworms was preceded by the import of seeds and silkworms to
   German provinces in the 17th century. How did they get to Prussia, what shape
   did silk production take, and what was it that ultimately led state-run silk
   farming to dry up? 
-updated: 1641637799900
-created: 1629996091814
-license: CC BY-SA
-title_de: Seiden-Cultur
-author: Britta Lange
-translators:
-  translator_de_en: Lydia J. White
 desc_de: |-
   Der Verbreitung von weißen Maulbeerbäumen zur Seidenzucht im 18.
   Jahrhundert in Brandenburg ging der Import von Samen und Seidenraupen in
@@ -21,19 +25,15 @@ desc_de: |-
   wie gestaltete sich die Seidenproduktion und was brachte den staatlichen
   Seidenbau schließlich zum Versiegen?
 short_desc: The history of silk farming in Prussia
-short_desc_de: Zur Geschichte des Seidenbaus in Preußen
 cover_image:
-  image: >-
-    /images/cover-seide-maulbeerspinner-silk-silkworm-museum-naturkunde-natural-history-berlin.jpg
+  image: /images/cover-seide-maulbeerspinner-silk-silkworm-museum-naturkunde-natural-history-berlin.jpg
   alt: |-
     Showcase with silkworms and silk in the Natural History Museum Berlin.
     Schaukasten mit Seidenraupen und Seide im Museum für Naturkunde Berlin.
     Source: Museum für Naturkunde. All rights reserved.
+colour_scheme: 10
 tao_type: story
 date_start: 1679-12-31T23:06:32.000Z
-date_end: 1885-12-31T11:06:32.000Z
-published: false
-colour_scheme: 10
 ---
 
 :::EN:::

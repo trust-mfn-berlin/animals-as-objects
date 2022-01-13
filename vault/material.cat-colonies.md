@@ -1,24 +1,25 @@
 ---
 license: CC BY-SA
-title: Cat Colonies
 title_de: "Katzen-Kolonien "
 created: 1640359483672
+author: Anne Hoffmann
+short_desc_de: Audiogeschichten über Tiere in Berlin
+date_end: ""
+published: false
+title: Cat Colonies
 updated: 1641209872408
 id: fhaeI85XK03VOoIUROfG9
-author: Anne Hoffmann
+doi: 64y2-m311/63
 translators:
   translator_de_en: Lydia J. White
 desc: Audio stories about animals in Berlin
 desc_de: Audiogeschichten über Tiere in Berlin
 short_desc: Audio stories about animals in Berlin
-short_desc_de: Audiogeschichten über Tiere in Berlin
 cover_image:
   image: /images/tiertopografien-hoffmann.jpg
 colour_scheme: 11
 tao_type: material
 date_start: 2021-01-01T15:40:08.096Z
-date_end: ""
-published: false
 ---
 
 :::EN:::

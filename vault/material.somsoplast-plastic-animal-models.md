@@ -1,24 +1,25 @@
 ---
 license: CC BY-SA
-title: SOMSO-Plast – Plastic Animal Models
 title_de: SOMSO-Plast – Tiermodelle aus Plastik
 created: 1629799783441
+author: Britta Lange
+short_desc_de: Materialien des Modellbaus
+date_end: 2021-08-26T13:04:38.748Z
+published: false
+title: SOMSO-Plast – Plastic Animal Models
 updated: 1641550966791
 id: EjCkhWUz4D4DXc9ANY8bc
-author: Britta Lange
+doi: 64y2-m311/46
 translators:
   translator_de_en: Lydia J. White
 desc: The materials of model building
 desc_de: Materialien des Modellbaus
 short_desc: The materials of model building
-short_desc_de: Materialien des Modellbaus
 cover_image:
   image: /images/kartoffelkaefer-zool-lehrsammlung-oben.jpg
 colour_scheme: 12
 tao_type: material
 date_start: 1929-12-31T23:00:00.000Z
-date_end: 2021-08-26T13:04:38.748Z
-published: false
 ---
 
 :::EN:::

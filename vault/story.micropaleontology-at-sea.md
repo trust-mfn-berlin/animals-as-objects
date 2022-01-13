@@ -9,8 +9,11 @@ published: false
 title: Micropaleontology at Sea
 updated: 1641314655692
 id: b30fb33b-adc1-4c3e-963a-e2467c2fbb21
+doi: 64y2-m311/7
 translators:
   translator_en_de: ""
+copy_editors:
+  copy_editor_de: Jan-Peter Herrmann
 desc: Joining in the postwar exploration of the oceans, micropaleontology
   accumulated vast amounts of data, which contributed to the development of
   climate and planetary sciences.
