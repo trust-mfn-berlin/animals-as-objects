@@ -9,8 +9,11 @@ published: false
 title: Katharina Heinroth
 updated: 1642094563414
 id: f2e04dbc-1209-40b6-baf5-599fd36e63c7
+doi: 64y2-m311/19
 translators:
   translator_de_en: ""
+copy_editors:
+  copy_editor_en: Carla Welch
 desc: Photograph of Katharina Heinroth on her morning rounds at the Zoo
 desc_de: Foto von Katharina Heinroth auf der morgendlichen Runde durch den Zoo
 short_desc: Photograph of Katharina Heinroth on her morning rounds at the Zoo
