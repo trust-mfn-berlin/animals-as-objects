@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Steinmetz Index
 title_de: Steinmetz-Kartei
 created: 1620987472118
-updated: 1642094739173
+updated: 1642095294953
 id: 2a309087-f165-4def-9c60-d835c7218077
 author: Clemens Maier-Wolthausen
 translators:
@@ -74,5 +74,5 @@ Während seiner Zeit im Berliner Zoo führte er diese [[Zettelkartei|material.ho
 
 **Der Vorteil für die Zoolog:innen des Zoos und externe Forscher:innen liegt aber vor allem darin, dass die Informationen aus verschiedenen Jahrgängen auf einer Karte zusammengefasst wurden. Dadurch kann mitunter die Haltungs- oder Lebensdauer einzelner Tiere nachvollzogen werden.** Die Kartei wurde nach der Flucht von Hermann Steinmetz nicht fortgeführt und bildet damit nur einen Ausschnitt aus der 175-jährigen Geschichte des Berliner Zoos ab.
 
-Heute nutzen die meisten deutschen Zoos die Software Zoological Information Management System, kurz [[ZIMS|material.species360]] um Ein- und Abgänge sowie Informationen zu Geburten zu verzeichnen. Allerdings führt der Berliner Zoo die physischen Journale parallel als Referenzsystem weiter.
+Heute nutzen die meisten deutschen Zoos die Software Zoological Information Management System, kurz [[ZIMS|material.species360]], um Ein- und Abgänge sowie Informationen zu Geburten zu verzeichnen. Allerdings führt der Berliner Zoo die physischen Journale parallel als Referenzsystem weiter.
 
