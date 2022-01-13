@@ -7,7 +7,7 @@ short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 date_end: 1935-01-01T10:48:28.706Z
 published: false
 title: Labels and Knowledge
-updated: 1642113049951
+updated: 1642113428900
 id: K2rQQdv1K7aDMUi5gDHcN
 doi: 64y2-m311/29
 translators:
@@ -248,7 +248,7 @@ _Etikett als Gebrauchsanweisung: Die Instruktionen zeigen, welche Körperteile e
 
 </figure>
 
-Instruktionen wie “Bitte Decke und Schädel dem Museum überweisen” geben Hinweise darauf, wie mit den Objekten verfahren wurde und wofür sie verwendet wurden, also auf die Gebrauchspraktiken wie sie etwa auch in den [[Tagebüchern des Zoologischen Museums|material.logbooks-of-the-zoological-museum]] vorkommen. Auch hier gab es Verzögerungen, Unfälle und Missverständnisse. Gerade sie verraten uns etwas über die Herausforderungen, die damals beim Transfer vom Zoo ins Museum und bei der Transformation von einem lebenden Zootier in ein [[präpartiertes Museumsobjekt|material.jendaya-parakeet]] auftreten konnten; an welchen Stellen Wissenstransfers funktionierten oder aber Informationsflüsse stockten.
+Instruktionen wie “Bitte Decke und Schädel dem Museum überweisen” geben Hinweise darauf, wie mit den Objekten verfahren wurde und wofür sie verwendet wurden, also auf die Gebrauchspraktiken wie sie etwa auch in den [[Tagebüchern des Zoologischen Museums|material.logbooks-of-the-zoological-museum]] vorkommen. Auch hier gab es Verzögerungen, Unfälle und Missverständnisse. Gerade sie verraten uns etwas über die Herausforderungen, die damals beim Transfer vom Zoo ins Museum und bei der Transformation von einem lebenden Zootier in ein [[präpariertes Museumsobjekt|material.jendaya-parakeet]] auftreten konnten; an welchen Stellen Wissenstransfers funktionierten oder aber Informationsflüsse stockten.
 
 [^1]: Seit Gründung der Freien Universität Berlin 1960 übernahm die Veterinärmedizinische Fakultät der Universität die Sektion oder das Leibniz-Institut für Zoo- und Wildtierforschung (IZW).
 
