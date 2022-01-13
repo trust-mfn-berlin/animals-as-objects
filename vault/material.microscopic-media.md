@@ -11,6 +11,7 @@ published: false
 title: Microscopic Media
 updated: 1642008068888
 id: fac2eded-a093-4ebf-986e-d94b045f7676
+doi: 64y2-m311/60
 translators:
   translator_en_de: Jan-Peter Herrmann
 desc: |-
