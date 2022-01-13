@@ -9,8 +9,11 @@ published: false
 title: Species360
 updated: 1642092037226
 id: 690683a5-6845-4c80-bb3b-5771881bdca6
+doi: 64y2-m311/21
 translators:
   translator_de_en: ""
+copy_editors:
+  copy_editor_en: Carla Welch
 desc: Software for the coordination of zoo animal collections
 desc_de: Software zur Koordination von Zootierhaltungen
 short_desc: Software for the coordination of zoo animal collections
