@@ -1,21 +1,24 @@
 ---
-id: df37d6fb-33ac-4b34-bc21-3401db3aac52
+license: CC BY-SA
+title_de: Mikropaläontologische Formationen
+created: 1618502886244
+author: Filippo Bertoni
+short_desc_de: Paläontologie mit dem Mikroskop
+date_end: 2021-07-06T11:40:11.857Z
+published: false
 title: Micropaleontological Formations
+updated: 1641163015955
+id: df37d6fb-33ac-4b34-bc21-3401db3aac52
+doi: 64y2-m311/3
+translators:
+  translator_en_de: ""
+copy_editors:
+  copy_editor_de: Jan-Peter Herrmann
 desc: |-
   Micropaleontology is the scientific study of microfossils, fossils that
   are microscopic in size and therefore not visible to the naked eye. Here, the
   explanation  – and appropriation – of micropaleontology’s methodological
   approaches retraces the history of the field.
-updated: 1641163015955
-created: 1618502886244
-license: CC BY-SA
-title_de: Mikropaläontologische Formationen
-author: Filippo Bertoni
-short_desc_de: Paläontologie mit dem Mikroskop
-date_end: 2021-07-06T11:40:11.857Z
-published: false
-translators:
-  translator_en_de: ''
 desc_de: |-
   Die Mikropaläontologie befasst sich mit dem wissenschaftlichen Studium
   von Mikrofossilien, d.h. Fossilien von mikroskopischer Größe, die mit dem
