@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Steinmetz Index
 title_de: Steinmetz-Kartei
 created: 1620987472118
-updated: 1642095294953
+updated: 1642095544924
 id: 2a309087-f165-4def-9c60-d835c7218077
 author: Clemens Maier-Wolthausen
 translators:
@@ -38,7 +38,7 @@ _Steinmetz index card on pygmy hippopotami, around 1935. (AZGB. All rights reser
 
 </figure>
 
-The [[index card|theme.recording-worlds]] shown is from Berlin Zoo’s Steinmetz Index and records the number of pygmy hippopotami (_Choeropsis liberiensis_) the zoo held. The initial entry indicates Berlin’s first pygmy hippopotamus, [[purchased|theme.how-do-animals-end-up-in-the-zoo]] from Hans Schomburgk. **In zoology, 1,0 denotes a male, 0,1 a female. The Latin abbreviation _iuv._ signifies a young animal. K indicates “Kauf”, a purchase and E.Z. indicates “Eigene Zucht”, a bred animal – that is, an animal born in a zoo.** The index card also gives the name of the trader: the animal was delivered to the company Ruhe in Alfeld for the price of 4,000 German marks.
+The [[index card|theme.recording-worlds]] shown is from Berlin Zoo’s Steinmetz Index and records the number of pygmy hippopotami (_Choeropsis liberiensis_) the zoo held. The initial entry indicates Berlin’s first pygmy hippopotamus, [[purchased|theme.how-do-animals-end-up-in-the-zoo]] from Hans Schomburgk. **In zoology, 1,0 denotes a male, 0,1 a female. The Latin abbreviation _iuv._ signifies a young animal. K indicates “Kauf”, a purchase and E.Z. indicates “eigene Zucht”, a bred animal – that is, an animal born in a zoo.** The index card also gives the name of the trader: the animal was delivered to the company Ruhe in Alfeld for the price of 4,000 German marks.
 
 Notably, the recorded departures indicate that individual animals were exchanged with other zoos. The index card also shows that during the war, a male was evacuated to Leipzig Zoo, which was supposedly bombproof. The word “attack”, in turn, tells us that that first hippopotamus, acquired from Hans Schomburgk in 1924, was killed in the [[bombing of Berlin|material.list-of-dead-zoo-animals]] on 24 November 1943.
 
