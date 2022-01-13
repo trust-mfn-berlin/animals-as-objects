@@ -9,8 +9,11 @@ published: false
 title: Oskar Heinroth
 updated: 1642094861801
 id: 1a9793b7-746f-4a58-bfa2-54596b72b4bc
+doi: 64y2-m311/20
 translators:
   translator_de_en: ""
+copy_editors:
+  copy_editor_en: Carla Welch
 desc: Photograph of Oskar Heinroth with three Ural owls
 desc_de: Foto von Oskar Heinroth mit drei Uralkäuzen
 short_desc: Photograph of Oskar Heinroth with three Ural owls
