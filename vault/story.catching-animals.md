@@ -7,7 +7,7 @@ short_desc_de: Habitate und Tierhandelsfirmen
 date_end: 1973-12-31T11:00:00.000Z
 published: false
 title: Catching Animals
-updated: 1642112240031
+updated: 1642113218763
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 doi: 64y2-m311/13
 translators:
@@ -254,7 +254,7 @@ In 1975, a Convention on International Trade in Endangered Species of Wild Fauna
 
 [^5]: Ludwig Heck. _Heiter-ernste Lebensbeichte: Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag, 1938: 123ff.
 
-[^6]: Zoo ‘Inventory’ for 1897, Zoological Garden Berlin. On this, see also [[material.journale-the-zoo-directory]].
+[^6]: [[Zoo ‘Inventory’|material.journale-the-zoo-directory]] for 1897, Zoological Garden Berlin.
 
 [^7]: Cf. Oumar Diallo and Joachim Zeller. “Zoologischer Garten, Hardenbergplatz 8”. In _Berlin – Eine (post-)koloniale Metropole: Ein historisch-kritischer Stadtrundgang im Bezirk Mitte_, Farafina e.V. Berlin-Moabit (ed.). Berlin: Metropol-Verlag, 2021: 168-175. This is also shown by a systematic review of the annual reports between 1890 and 1914.
 
@@ -520,7 +520,7 @@ Seit den 1960er Jahren traten zunehmend Züchtungen, also in Zoos gezeugte Nachk
 
 [^5]: Ludwig Heck. _Heiter-ernste Lebensbeichte: Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag, 1938: 123ff.
 
-[^6]: ‘Inventur’ des Zoos für 1897, Zoologischer Garten Berlin. Hierzu siehe auch [[material.journale-the-zoo-directory]].
+[^6]: [[‘Inventur’|material.journale-the-zoo-directory]] des Zoos für 1897, Zoologischer Garten Berlin.
 
 [^7]: Vgl. Oumar Diallo und Joachim Zeller. “Zoologischer Garten, Hardenbergplatz 8”. In _Berlin – Eine (post-)koloniale Metropole: Ein historisch-kritischer Stadtrundgang im Bezirk Mitte_, Farafina e.V. Berlin-Moabit (Hg.). Berlin: Metropol-Verlag, 2021: 168-175. Das ergibt auch eine systematische Durchsicht der Geschäftsberichte zwischen 1890 und 1914.
 
