@@ -1,28 +1,28 @@
 ---
-id: A8Dh5fk6b52EJQRaw3Qe4
-title: A House of Cards
-desc: Organising knowledge using loose index cards
-updated: 1641552813142
-created: 1629792930385
 license: CC BY-SA
 title_de: Verzettelung
+created: 1629792930385
 author: Theresa Schatt
+short_desc_de: Wissensorganisation dank loser Zettel
+date_end: 2021-08-26T23:55:43.591Z
+published: false
+title: A House of Cards
+updated: 1641552813142
+id: A8Dh5fk6b52EJQRaw3Qe4
+doi: 64y2-m311/42
 translators:
   translator_de_en: Lydia J. White
+desc: Organising knowledge using loose index cards
+desc_de: Wissensorganisation dank loser Zettel
 short_desc: Organising knowledge using loose index cards
-short_desc_de: Wissensorganisation dank loser Zettel
 cover_image:
-  image: >-
-    /images/cover-karteikarten-index-card-system-zoological-teaching-collection-zoologische-lehrsammlung.png
+  image: /images/cover-karteikarten-index-card-system-zoological-teaching-collection-zoologische-lehrsammlung.png
   alt: |-
     Index card inventory. Zettelkasten-Inventar. Source: Zoological Teaching
     Collection Berlin, photo Theresa Schatt.
+colour_scheme: 7
 tao_type: material
 date_start: 1967-12-31T23:00:00.000Z
-date_end: 2021-08-26T23:55:43.591Z
-published: false
-desc_de: Wissensorganisation dank loser Zettel
-colour_scheme: 7
 ---
 
 :::EN:::
