@@ -9,6 +9,7 @@ published: false
 title: Jendaya Parakeet
 updated: 1641208415283
 id: qPXq6synKcymXGGXLIDvV
+doi: 64y2-m311/69
 translators:
   translator_de_en: Lydia J. White
 desc: Preparing a bird study skin at the Berlin Museum of Natural History
