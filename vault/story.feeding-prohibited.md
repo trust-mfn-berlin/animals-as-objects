@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding Prohibited
 title_de: Füttern verboten
 created: 1620752897039
-updated: 1642001860866
+updated: 1642092888852
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 author: Mareike Vennen
 translators:
@@ -211,7 +211,7 @@ Although zoo directors had been discussing the issue for some time, at the 40th 
 
 [^2]: Backhaus, D. “Die Eröffnung des Gartens im Jahre 1858”. In _Hundertjähriger Zoo in Frankfurt am Main_, ed. by the Zoological Garden of the City of Frankfurt am Main. Frankfurt a. M.: 1957. Direct quotes have been translated into English for clarity’s sake.
 
-[^3]: Zoological Garden Berlin. _Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin_ for the year 1925, Berlin 1926: n.p. Direct quotes have been translated into English for clarity’s sake.
+[^3]: Zoological Garden Berlin. “Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin für das Jahr 1925”. Direct quotes have been translated into English for clarity’s sake.
 
 [^4]: At the beginning of 1956, a report in the _Leipziger Volkszeitung_ informed readers of the introduction of a general ban on feeding: “Most of the treats brought by the public for their favorite animals are unsuitable for the animals, in many cases even harmful. […] Often, nausea and intestinal diseases set in, and they require medical treatment to cure their upset stomachs. Unfortunately, this does not always go smoothly, and we have already lost valuable animals in this way. In the interest of keeping our wards healthy, improper feeding must be avoided.” Dittrich, Lothar. “Nicht mehr füttern!”. _Leipziger Volkszeitung_, January 1956, cited in: Haikal, Mustafa, and Jörg Junhold. _Auf der Spur des Löwen: 125 Jahre Zoo Leipzig_. Leipzig: Pro Leipzig e.V., 2003: 181.
 
@@ -455,7 +455,7 @@ Unter Zoodirektor:innen wurde über das Thema schon länger beratschlagt. 1928 f
 
 [^2]: Backhaus, D. “Die Eröffnung des Gartens im Jahre 1858”. In _Hundertjähriger Zoo in Frankfurt am Main_, hg. vom Zoologischen Garten der Stadt Frankfurt am Main. Frankfurt a.M.: 1957.
 
-[^3]: Zoologischer Garten Berlin. _Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin_ für das Jahr 1925.
+[^3]: Zoologischer Garten Berlin. “Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin für das Jahr 1925”.
 
 [^4]: Anfang 1956 informierte ein Bericht der _Leipziger Volkszeitung_ über die Einführung eines generellen Fütterungsverbots: “Die meisten der vom Publikum für ihre Lieblinge mitgebrachten Leckerbissen sind für die Tiere ungeeignet, in vielen Fällen sogar schädlich. [...] Oft stellen sich dann Uebelkeit und Darmerkrankungen ein und ärztliche Behandlung muß die verdorbenen Mägen wieder kurieren. Leider geht es aber nicht jedesmal ‘gut’ ab, und wir haben schon wertvolle Tiere auf diese Art und Weise verloren. Im Interesse der Gesunderhaltung unserer Pfleglinge muß deshalb eine unsachgemäße Fütterung unterbleiben.” Dittrich, Lothar. “Nicht mehr füttern!” _Leipziger Volkszeitung_, Januar 1956, zit. nach: Haikal, Mustafa, und Jörg Junhold. _Auf der Spur des Löwen: 125 Jahre Zoo Leipzig_. Leipzig: Pro Leipzig e.V., 2003: 181.
 
