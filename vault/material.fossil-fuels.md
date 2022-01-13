@@ -6,8 +6,11 @@ created: 1618493147480
 updated: 1641482893003
 id: 7f5d84e2-6c42-454e-a7c5-f31db9960a70
 author: Filippo Bertoni
+doi: 64y2-m311/32
 translators:
   translator_en_de: ""
+copy_editors:
+  copy_editor_de: Jan-Peter Herrmann
 desc: Fossils are still used everyday to power our societies
 desc_de: Noch immer greifen wir für die Energieversorgung unserer Gesellschaft
   auf fossile Brennstoffe zurück.
