@@ -7,7 +7,7 @@ desc: |-
   these struggles, especially how they took shape around the Museum für
   Naturkunde Berlin, can show how much microorganisms transformed over time, and
   how they keep challenging what animals are.
-updated: 1642090317050
+updated: 1642109194848
 created: 1621514713008
 license: CC BY-SA
 title_de: Die chaotischen Anfänge der Mikropaläontologie
@@ -56,15 +56,15 @@ These early transformations in the understanding of microbial life had a deep im
 
 In his desire to refute these dominant understandings of life, which were common at the beginning of the 19th century, **Ehrenberg argued that all infusoria were in fact complete animals. In his microscopic observations he identified stomachs and other organs within microorganisms and claimed they proved his view correct.** This interpretation tainted his reputation, especially as he stubbornly refused to accept the piling evidence that disproved this observation for the rest of his life. Thus, although his second monograph, published in 1854, laid out much of the subject matter of micropaleontology under the name of _Mikrogeologie_, his work wasn’t as successful as it could have been until the following century. Despite the international fame their detailed and rigorous descriptions won them, both d’Orbigny’s and Ehrenberg’s interpretations of microorganisms had received much criticism already during their lifetime. **By the 1850s, the [[nature|story.the-worlds-we-make]] of microbial organisms had profoundly changed.**[^5]
 
-[^1]: Linnaeus, Carl. _Systema Naturae, editio 12, reformata_. Holmiae: Laurentii Salvii, 1766.  https://www.biodiversitylibrary.org/item/137240#page/800/mode/1up (03.01.2022).
+[^1]: Carl Linnaeus. _Systema Naturae, editio 12, reformata_. Holmiae: Laurentii Salvii, 1766.  https://www.biodiversitylibrary.org/item/137240#page/800/mode/1up (03.01.2022).
 
-[^2]: To learn more on another ‘wastebucket’ class of Linnaeus’ Vermes, see Gould, Stephen Jay. _The Lying Stones of Marrakech_. Cambridge (MA) and London: Harvard University Press, 2000. http://www.jstor.org/stable/j.ctt2jbrgf
+[^2]: To learn more on another ‘wastebucket’ class of Linnaeus’ Vermes, see Stephen Jay Gould. _The Lying Stones of Marrakech_. Cambridge (MA) and London: Harvard University Press, 2000. http://www.jstor.org/stable/j.ctt2jbrgf
 
-[^3]: The impact of these early descriptions is quantified in Lazarus, David. “The legacy of early radiolarian taxonomists, with a focus on the species published by early German workers”. _Journal of Micropalaeontology_ 33, no. 1 (2014): 3-19.
+[^3]: The impact of these early descriptions is quantified in David Lazarus. “The Legacy of Early Radiolarian Taxonomists, with a Focus on the Species Published by Early German Workers”. _Journal of Micropalaeontology_ 33, no. 1 (2014): 3-19.
 
-[^4]: This argument is clearly laid out in d’Orbigny, Alcide Dessalines. _Foraminifères fossiles du bassin tertiaire de Vienne (Autriche)_. Paris: Gide et Compe, 1846. https://doi.org/10.5962/bhl.title.145432.
+[^4]: This argument is clearly laid out in Alcide Dessalines d’Orbigny. _Foraminifères fossiles du bassin tertiaire de Vienne (Autriche)_. Paris: Gide et Compe, 1846. https://doi.org/10.5962/bhl.title.145432.
 
-[^5]: See, for instance, Churchill, Frederick B. “The guts of the matter. Infusoria from Ehrenberg to Bütschli: 1838–1876”. _Journal of the History of Biology_ 22, no. 2 (1989): 189-213. https://doi.org/10.1007/BF00139512.
+[^5]: See, for instance, Frederick B. Churchill “The Guts of the Matter: Infusoria from Ehrenberg to Bütschli, 1838-1876”. _Journal of the History of Biology_ 22, no. 2 (1989): 189-213. https://doi.org/10.1007/BF00139512.
 
 
 :::DE:::
@@ -89,12 +89,12 @@ Die Veränderungen im Verständnis von mikrobiellem Leben waren prägend für da
 
 In seinem Bestreben, den zu Beginn des 19. Jahrhunderts vorherrschenden Auffassungen davon, was Leben sei, etwas entgegenzusetzen, **argumentierte Ehrenberg, dass sämtliche Infusorien tatsächlich vollständige Tiere seien. Bei seinen mikroskopischen Beobachtungen hatte er Mägen und andere Organe in Mikroorganismen identifiziert, für ihn ein klarer Beleg für seine These.** Durch diesen Standpunkt nahm sein Ruf in der Folge nachhaltig Schaden, insbesondere da er sich zeitlebens hartnäckig weigerte anzuerkennen, dass seine These hinreichend widerlegt worden war. Obwohl er in seiner zweiten Monografie aus dem Jahr 1854 mit dem Titel _Mikrogeologie_ bereits die Kernfragen der Mikropaläontologie umriss, blieb seinen Forschungen die gebührende Anerkennung noch bis ins folgende Jahrhundert versagt. Obwohl d‘Orbigny und Ehrenberg mit ihren akribischen und umfangreichen Beschreibungen von Mikroorganismen eine gewisse internationale Bekanntheit erlangten, brachten ihnen ihre Schlussfolgerungen bereits zu Lebzeiten scharfe Kritik ein. **In den 1850er Jahren hatte sich das [[Verständnis|story.the-worlds-we-make]] der _Wesensart_ mikrobieller Organismen grundlegend verändert.**[^5]
 
-[^1]: Linné, Carl von. _Systema Naturae, editio 12, reformata_. Holmiae: Laurentii Salvii, 1766.  https://www.biodiversitylibrary.org/item/137240#page/800/mode/1up (03.01.2022).
+[^1]: Carl von Linné. _Systema Naturae, editio 12, reformata_. Holmiae: Laurentii Salvii, 1766.  https://www.biodiversitylibrary.org/item/137240#page/800/mode/1up (03.01.2022).
 
-[^2]: Für eine Beschreibung einer weiteren Sammelkategorie der Linné’schen Vermes, siehe Gould, Stephen Jay. _The Lying Stones of Marrakech_. Cambridge (MA) und London: Harvard University Press, 2000. http://www.jstor.org/stable/j.ctt2jbrgf
+[^2]: Für eine Beschreibung einer weiteren Sammelkategorie der Linné’schen Vermes, siehe Stephen Jay Gould. _The Lying Stones of Marrakech_. Cambridge (MA) und London: Harvard University Press, 2000. http://www.jstor.org/stable/j.ctt2jbrgf
 
-[^3]: Zum Einfluss dieser frühen Beschreibungen siehe Lazarus, David. “The legacy of early radiolarian taxonomists, with a focus on the species published by early German workers”. _Journal of Micropalaeontology_ 33, Nr. 1 (2014): 3–19.
+[^3]: Zum Einfluss dieser frühen Beschreibungen siehe David Lazarus. “The Legacy of Early Radiolarian Taxonomists, with a Focus on the Species Published by Early German Workers”. _Journal of Micropalaeontology_ 33, Nr. 1 (2014): 3-19.
 
-[^4]: Eine ausführliche Erläuterung des Arguments findet sich in: d’Orbigny, Alcide Dessalines. _Foraminifères fossiles du bassin tertiaire de Vienne (Autriche)_. Paris: Gide et Compe, 1846. https://doi.org/10.5962/bhl.title.145432.
+[^4]: Eine ausführliche Erläuterung des Arguments findet sich in: Alcide Dessalines d’Orbigny. _Foraminifères fossiles du bassin tertiaire de Vienne (Autriche)_. Paris: Gide et Compe, 1846. https://doi.org/10.5962/bhl.title.145432.
 
-[^5]: Siehe z.B. Churchill, Frederick B. “The guts of the matter. Infusoria from Ehrenberg to Bütschli: 1838–1876”. _Journal of the History of Biology_ 22, Nr. 2 (1989): 189–213. https://doi.org/10.1007/BF00139512.
+[^5]: Siehe z.B. Frederick B. Churchill. “The Guts of the Matter: Infusoria from Ehrenberg to Bütschli, 1838-1876”. _Journal of the History of Biology_ 22, Nr. 2 (1989): 189-213. https://doi.org/10.1007/BF00139512.
