@@ -1,11 +1,15 @@
 ---
 license: CC BY-SA
-title: Putting Animals on Display
 title_de: Tiere zur Schau stellen
 created: 1618572893774
+author: Clemens Maier-Wolthausen
+short_desc_de: Wie und warum stellen Zoos Tiere aus?
+date_end: 2021-08-27T23:01:33.091Z
+published: false
+title: Putting Animals on Display
 updated: 1641831118264
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
-author: Clemens Maier-Wolthausen
+doi: 64y2-m311/28
 translators:
   translator_de_en: Lydia J. White
 desc: |-
@@ -23,7 +27,6 @@ desc_de: Die Begründungen von Zoos, warum sie Tiere halten und zur Schau
   ging eintaxonomisch geordneter Zoo voraus, der die Vollständigkeit der Ordnung
   weitaus bedeutsamer bewertete als die Qualität der Haltungsbedingungen.
 short_desc: How and why do zoos put animals on display?
-short_desc_de: Wie und warum stellen Zoos Tiere aus?
 cover_image:
   image: /images/showing-animals-berlin-zoo-antilopenhaus-around-1920.jpg
   alt: |-
@@ -32,8 +35,6 @@ cover_image:
 colour_scheme: 1
 tao_type: theme
 date_start: 1843-12-31T23:06:32.000Z
-date_end: 2021-08-27T23:01:33.091Z
-published: false
 ---
 
 :::EN:::
