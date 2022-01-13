@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Steinmetz Index
 title_de: Steinmetz-Kartei
 created: 1620987472118
-updated: 1642094443719
+updated: 1642094739173
 id: 2a309087-f165-4def-9c60-d835c7218077
 author: Clemens Maier-Wolthausen
 translators:
@@ -28,7 +28,7 @@ published: false
 
 <figure>
 
-![Index card with handwritten entries on arrival and departure. Columns under arrival: Date of arrival, No., Sex., Age, Place found, Origin, Type of arrival, Price Mk. Columns under departure: Date of departure, No., Sex, Type of departure, Cause of death, Delivered to, Price Mk.](/images/cmw/Kartei_Flusspferd1 Kopie.png)
+![Index card with handwritten entries on arrival and departure. Columns under arrival: Date of arrival, No., Sex., Age, Place found, Origin, Type of arrival, Price Mk. Columns under departure: Date of departure, No., Sex, Type of departure, Cause of death, Delivered to, Price Mk.](/images/cmw/Kartei_Flusspferd1_Kopie.png)
 
 <figcaption>
 
@@ -54,7 +54,7 @@ Nowadays most German zoos use the Zoological Information Management System softw
 
 <figure>
 
-![Karteikarte mit handschriftlichen Eintragungen zu Zugang und Abgang. Spalten unter Zugang: Datum der Ankunft, Nr., Geschl., Alter, Fundort, Herkunft, Art des Zugangs, Preis Mk. Spalten unter Abgang: Datum des Abgangs, Nr., Geschl., Art des Abgangs, Todesursache, Wohin abgegeben, Preis Mk.](/images/cmw/Kartei_Flusspferd1 Kopie.png)
+![Karteikarte mit handschriftlichen Eintragungen zu Zugang und Abgang. Spalten unter Zugang: Datum der Ankunft, Nr., Geschl., Alter, Fundort, Herkunft, Art des Zugangs, Preis Mk. Spalten unter Abgang: Datum des Abgangs, Nr., Geschl., Art des Abgangs, Todesursache, Wohin abgegeben, Preis Mk.](/images/cmw/Kartei_Flusspferd1_Kopie.png)
 
 <figcaption>
 
