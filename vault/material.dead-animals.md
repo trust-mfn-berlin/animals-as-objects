@@ -1,24 +1,25 @@
 ---
 license: CC BY-SA
-title: Dead Animals
 title_de: Tote Tiere
 created: 1640359501899
+author: Eileen Klingner
+short_desc_de: Audiogeschichten über Tiere in Berlin
+date_end: ""
+published: false
+title: Dead Animals
 updated: 1640913563849
 id: dUPcbo57C2AzuhMiUTwMS
-author: Eileen Klingner
+doi: 64y2-m311/65
 translators:
   translator_de_en: Lydia J. White
 desc: Audio stories about animals in Berlin
 desc_de: Audiogeschichten über Tiere in Berlin
 short_desc: Audio stories about animals in Berlin
-short_desc_de: Audiogeschichten über Tiere in Berlin
 cover_image:
   image: /images/tiertopografien-klingner.jpg
 colour_scheme: 4
 tao_type: material
 date_start: 2021-01-01T16:17:10.571Z
-date_end: ""
-published: false
 ---
 
 :::EN:::
