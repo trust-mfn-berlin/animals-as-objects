@@ -3,7 +3,7 @@ license: CC BY-SA
 title: From Pests to Displays
 title_de: Von Schädlingen zu Ausstellungsstücken
 created: 1640461871904
-updated: 1641508776730
+updated: 1642092068564
 id: 3YRSzijvbnQXZs4VO291j
 author: Mareike Vennen
 translators:
@@ -60,7 +60,7 @@ Tracing back their history to the mid-nineteenth century can thus give us insigh
 
 [^6]: Ibid.
 
-[^7]: See for example Mariss, Anne. “… for fear they might decay’. Die materielle Prekarität von Naturalien und ihre Inszenierung in naturhistorischen Zeichnungen”. In _Objekte als Quellen der historischen Kulturwissenschaften_, Annette Cremer und Martin Mulsow (eds.). Köln u.a.: Böhlau 2016: 137-148. https://doi.org/10.7788/9783412510022.137.
+[^7]: See for example Mariss, Anne. “‘… for fear they might decay’. Die materielle Prekarität von Naturalien und ihre Inszenierung in naturhistorischen Zeichnungen”. In _Objekte als Quellen der historischen Kulturwissenschaften_, Annette Cremer und Martin Mulsow (eds.). Köln u.a.: Böhlau 2016: 137-148. https://doi.org/10.7788/9783412510022.137.
 
 [^8]: Schomburgk, 1847-48, vol. II: 549. 
 
