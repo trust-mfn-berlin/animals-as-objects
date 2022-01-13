@@ -1,27 +1,28 @@
 ---
-id: 4TOAlxsuxdlxsQcZI2vRT
-title: Common Seadragon
-desc: 28.8.5.7-4 in a collection of codes
-updated: 1641387334444
-created: 1629793516079
 license: CC BY-SA
 title_de: Kleiner Fetzenfisch
+created: 1629793516079
 author: Theresa Schatt
 short_desc_de: 28.8.5.7-4 in einer Sammlung von Codes
-date_end: '1892-12-31T11:06:32.000Z'
+date_end: 1892-12-31T11:06:32.000Z
 published: false
+title: Common Seadragon
+updated: 1641387334444
+id: 4TOAlxsuxdlxsQcZI2vRT
+doi: 64y2-m311/40
 translators:
   translator_de_en: Lydia J. White
+desc: 28.8.5.7-4 in a collection of codes
 desc_de: 28.8.5.7-4 in einer Sammlung von Codes
 short_desc: 28.8.5.7-4 in a collection of codes
 cover_image:
   image: /images/common-seadragon-index-card-kleiner-fetzenfisch-karteikarte.jpg
-  alt: >-
-    Wet specimen of a common seadragon. Nasspräparat eines kleinen Fetzenfischs.
-    Source: Zoological Teaching Collection Berlin. All rights reserved.
-tao_type: material
-date_start: '1890-12-31T23:06:32.000Z'
+  alt: "Wet specimen of a common seadragon. Nasspräparat eines kleinen
+    Fetzenfischs. Source: Zoological Teaching Collection Berlin. All rights
+    reserved."
 colour_scheme: 8
+tao_type: material
+date_start: 1890-12-31T23:06:32.000Z
 ---
 
 :::EN:::
