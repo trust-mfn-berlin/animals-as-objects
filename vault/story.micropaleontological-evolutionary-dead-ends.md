@@ -9,8 +9,11 @@ published: false
 title: Micropaleontological Evolutionary Dead Ends
 updated: 1641844885554
 id: 3494384f-3283-4c05-afda-b3d90e748325
+doi: 64y2-m311/9
 translators:
   translator_en_de: ""
+copy_editors:
+  copy_editor_de: Jan-Peter Herrmann
 desc: As micropaleontology started to take shape in the 19th century, it seemed
   to encounter a dead end because microfossils were interpreted to have changed
   little over geological times.
