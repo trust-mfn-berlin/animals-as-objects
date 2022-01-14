@@ -7,7 +7,7 @@ short_desc_de: Naturkundliche Verzeichnungspraktiken und ihre transformative Kra
 date_end: ""
 published: false
 title: Recording Worlds
-updated: 1642119328522
+updated: 1642156567228
 id: 4r0yES2CMXdwBI2l8fYbZ
 doi: 64y2-m311/68
 translators:
@@ -163,7 +163,7 @@ Zugleich finden wir in den einzelnen Sammlungen erhebliche inhaltliche und metho
 
 ## Wuchernde Aufzeichnungen 
 
-Im Laufe des 19. Jahrhunderts gab es im Zusammenhang mit den hier vorgestellten Sammlungen Bemühungen zur Einführung einheitlicher Dokumentationsformate und -praktiken. Während Objekte zunächst nicht systematisch und nur unvollständig erfasst wurden, setzte sich ab der zweiten Hälfte des 19. Jahrhunderts zunehmend die Führung von Registern und Inventarverzeichnissen mit individuellen [[Inventarnummern|story.inventory-books]] für alle Objekte durch. Ab dem späten 20. Jahrhundert wurden immer mehr Objekte in digitalen Datenbanken und Exceltabellen erfasst. Die Gründe sind vielfältig. Erstens führte der technische Fortschritt, insbesondere im Bereich computergestützter Verfahren, zu neuen Dokumentationsformen. Außerdem führten die Bemühungen, die tägliche Arbeit in den Sammlungen zu erleichtern, zu Neuerungen bei den verwendeten Medien. So ersetzte die Zoologische Lehrsammlung beispielsweise in den späten 1960er-Jahren ihre gebundenen Kataloge durch [[Karteikarten|material.house-of-cards]].
+Im Laufe des 19. Jahrhunderts gab es im Zusammenhang mit den hier vorgestellten Sammlungen Bemühungen zur Einführung einheitlicher Dokumentationsformate und -praktiken. Während Objekte zunächst nicht systematisch und nur unvollständig erfasst wurden, setzte sich ab der zweiten Hälfte des 19. Jahrhunderts zunehmend die Führung von Registern und Inventarverzeichnissen mit individuellen [[Inventarnummern|story.inventory-books]] für alle Objekte durch. Ab dem späten 20. Jahrhundert wurden immer mehr Objekte in digitalen Datenbanken und Exceltabellen erfasst. Die Gründe sind vielfältig. Erstens führte der technische Fortschritt, insbesondere im Bereich computergestützter Verfahren, zu neuen Dokumentationsformen. Außerdem führten die Bemühungen, die tägliche Arbeit in den Sammlungen zu erleichtern, zu Neuerungen bei den verwendeten Medien. So ersetzte die Zoologische Lehrsammlung beispielsweise in den späten 1960er Jahren ihre gebundenen Kataloge durch [[Karteikarten|material.house-of-cards]].
 
 <figure>
 

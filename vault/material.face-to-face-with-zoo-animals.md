@@ -7,7 +7,7 @@ short_desc_de: Tierkinderzoo mit Raubtieren
 date_end: 1939-12-24T15:14:00.000Z
 published: false
 title: Face to Face with Zoo Animals
-updated: 1642118003286
+updated: 1642156395574
 id: U1w3ckwyrdpQ2JzOLgTKo
 doi: 64y2-m311/54
 translators:
@@ -106,7 +106,7 @@ _Bild aus dem Berliner Tierkinderzoo um 1933. (AZGB. Alle Rechte vorbehalten.)_
 
 </figure>
 
-Ein Gepard umringt von jungen Ziegen, Lämmern und Ferkeln? Ein ungewöhnliches Bild. Das Foto aus dem Zoo Berlin zeigt ein Phänomen, das es so schon lange nicht mehr gibt, aber in den 1930er-Jahren äußerst populär war: den Tierkinderzoo. Die nachfolgende Einrichtung, der Streichelzoo, findet sich bis heute in vielen Tiergärten. Aber wer weiß noch, dass dort früher auch Bärenjunge und Löwenbabys gehalten wurden?
+Ein Gepard umringt von jungen Ziegen, Lämmern und Ferkeln? Ein ungewöhnliches Bild. Das Foto aus dem Zoo Berlin zeigt ein Phänomen, das es so schon lange nicht mehr gibt, aber in den 1930er Jahren äußerst populär war: den Tierkinderzoo. Die nachfolgende Einrichtung, der Streichelzoo, findet sich bis heute in vielen Tiergärten. Aber wer weiß noch, dass dort früher auch Bärenjunge und Löwenbabys gehalten wurden?
  
 Im Sommer 1931 organisierte der Zoo zum ersten Mal eine Sonderschau mit Jungtieren. Das Besondere: Besetzt war die eingezäunte Anlage, für die man Eintritt bezahlen musste, nicht nur mit Jungtieren heimischer Haustierrassen, sondern auch mit kleinen Raubtieren aus Europa und Afrika, die man alle füttern, streicheln, auf den Schoß nehmen und sogar [[mit der Flasche füttern konnte|story.photos-with-lion-cubs]].
  

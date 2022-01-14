@@ -7,7 +7,7 @@ short_desc_de: Wie und warum stellen Zoos Tiere aus?
 date_end: 2021-08-27T23:01:33.091Z
 published: false
 title: Putting Animals on Display
-updated: 1642119337925
+updated: 1642156574463
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 doi: 64y2-m311/28
 translators:
@@ -412,7 +412,7 @@ _Artikel zum “Billigen Sonntag” im Zoo Berlin in der_ Berliner Illustrierten
 
 </figure>
 
-Zum Zweck der Unterhaltung diente auch eine exotisierende Zooarchitektur, die sich seit den 1850er-Jahren in vielen europäischen Zoos einbürgerte. Diese Stilbauten bildeten und bilden noch heute die Kulisse für Tiere. **Das erste Berliner Großprojekt der exotisierenden Architektur war das Antilopen- und Giraffenhaus im sogenannten “maurischen” Stil.** Es folgten die sogenannte Elefantenpagode, die einen indischen Tempelstil nachahmte, und das Straußenhaus in Anlehnung an altägyptische Tempel. Sie vermittelten stereotype Bilder von den Europäer:innen fremden Regionen und hatten manchmal keinerlei Bezug zu den ausgestellten Tieren. So wurden in der ‘indischen’ Pagode neben indischen auch afrikanische Nashörner und Elefanten und im ägyptischen Tempel australische Strauße ausgestellt.
+Zum Zweck der Unterhaltung diente auch eine exotisierende Zooarchitektur, die sich seit den 1850er Jahren in vielen europäischen Zoos einbürgerte. Diese Stilbauten bildeten und bilden noch heute die Kulisse für Tiere. **Das erste Berliner Großprojekt der exotisierenden Architektur war das Antilopen- und Giraffenhaus im sogenannten “maurischen” Stil.** Es folgten die sogenannte Elefantenpagode, die einen indischen Tempelstil nachahmte, und das Straußenhaus in Anlehnung an altägyptische Tempel. Sie vermittelten stereotype Bilder von den Europäer:innen fremden Regionen und hatten manchmal keinerlei Bezug zu den ausgestellten Tieren. So wurden in der ‘indischen’ Pagode neben indischen auch afrikanische Nashörner und Elefanten und im ägyptischen Tempel australische Strauße ausgestellt.
 
 <figure>
 

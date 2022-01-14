@@ -7,7 +7,7 @@ short_desc_de: Futterlisten im Zoo der Nachkriegszeit
 date_end: ""
 published: false
 title: Feeding List 1945
-updated: 1642013957400
+updated: 1642156401597
 id: R4t_2F3NY3xIuAnRoDG0T
 doi: 64y2-m311/22
 translators:
@@ -95,7 +95,7 @@ Listen, die den jeweiligen Bedarf an Futtermitteln von Zootieren abbilden, gehö
 
 Die Futterfrage verschärfte sich erneut während der Berlin-Blockade von Juni 1948 bis Mai 1949, als es zu großen Engpässen in der Lebensmittel- und Futterbeschaffung kam. Der aufgelistete Bedarf konnte nicht mehr gedeckt werden. Obwohl der zuständige Ernährungssenator dem Zoo unbrauchbar gewordene Nahrungsmittel zu Futterzwecken zuwies, hatten Heinroth und ihre Mitarbeiter:innen weder ausreichend Futtermittel, noch konnten sie Heu, Futterrüben und Möhren von den Pachtflächen des Zoos im Umland einfahren, die nun im russischen Sektor lagen. Hafer, Kleie und Sämereien mussten daher während der Blockade eingeflogen werden. Ein Forstdirektor wiederum verpachtete dem Zoo zwölf Hektar Land im Grunewald, auf dem die Zoomitarbeiter:innen, nachdem sie die zerschossenen Baumstubben gerodet hatten, Grünfutter anbauen konnten.[^1]
 
-Anfang der 1950er-Jahre, als nicht nur der Tierhandel neuen Aufschwung nahm, sondern sich auch die Ernährungslage im Raum Berlin entspannte, konnten Katharina Heinroth und ihre Mitarbeiter:innen wieder ausreichend Futter und neue Tiere beschaffen.[^2] Mit dem wachsenden Tierbestand wuchs entsprechend der monatliche Futtermittelbedarf. Die Listen sind damit nicht zuletzt Indikatoren von Krisenzeiten und Konjunkturen.
+Anfang der 1950er Jahre, als nicht nur der Tierhandel neuen Aufschwung nahm, sondern sich auch die Ernährungslage im Raum Berlin entspannte, konnten Katharina Heinroth und ihre Mitarbeiter:innen wieder ausreichend Futter und neue Tiere beschaffen.[^2] Mit dem wachsenden Tierbestand wuchs entsprechend der monatliche Futtermittelbedarf. Die Listen sind damit nicht zuletzt Indikatoren von Krisenzeiten und Konjunkturen.
 
 ## Transkript
 

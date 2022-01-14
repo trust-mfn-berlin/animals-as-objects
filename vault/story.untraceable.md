@@ -7,7 +7,7 @@ short_desc_de: "Verschollene Objekte und alte Kataloge "
 date_end: 2022-01-04T16:26:25.633Z
 published: false
 title: Untraceable
-updated: 1642118882617
+updated: 1642156552906
 id: abaNOPQjQqMhfMbhbhvm4
 doi: 64y2-m311/73
 translators:
@@ -142,7 +142,7 @@ Der “junge Caiman”, über dessen Verbleib wir nichts wissen, bleibt vorerst 
 
 [^2]: Der erste nicht numerische Inventarkatalog des Zoologischen Museums, der noch taxonomisch geordnet wurde, wurde zwischen 1824 und 1830 (vermutlich vom damaligen Museumsdirektor Lichtenstein) angelegt. Der erste numerische Inventarkatalog des Museums wurde ca. 1856 von Lichtenstein begonnen und kurz danach von Wilhelm Peters weitergeführt.
 
-[^3]: Die frühen Kataloge im Museum waren zunächst hauptsächlich taxonomisch gegliedert statt numerisch, teilweise kamen (häufig sehr allgemeine) Herkunftsangaben und Geber hinzu. Mitte der 1850er-Jahre wurden in den Sammlungen numerische Kataloge eingeführt, so auch für die Herpetologie. Vgl. Frahnert, Sylke. “Katalogisieren. Ein Praxisbericht”. In _Sammlungsökonomien_, Nils Güttler und Ina Heumann (Hg.). Berlin: Kadmos, 2016: 95-108.
+[^3]: Die frühen Kataloge im Museum waren zunächst hauptsächlich taxonomisch gegliedert statt numerisch, teilweise kamen (häufig sehr allgemeine) Herkunftsangaben und Geber hinzu. Mitte der 1850er Jahre wurden in den Sammlungen numerische Kataloge eingeführt, so auch für die Herpetologie. Vgl. Frahnert, Sylke. “Katalogisieren. Ein Praxisbericht”. In _Sammlungsökonomien_, Nils Güttler und Ina Heumann (Hg.). Berlin: Kadmos, 2016: 95-108.
 
 [^4]: Der erste (nicht numerisch angelegte) Katalog der Herpetologischen Sammlung _Nomenclator Reptilium et Amphibiorum_, herausgegeben von Lichtenstein und von Martens, wurde 1856 publiziert. 
 
@@ -150,6 +150,6 @@ Der “junge Caiman”, über dessen Verbleib wir nichts wissen, bleibt vorerst 
 
 [^6]: Martin, Philipp Leopold. _Die Praxis der Naturgeschichte. Ein vollständiges Lehrbuch, Erster Teil: Taxidermie oder die Lehre vom Präparieren, Konservieren und Ausstopfen der Tiere und ihrer Teile; vom Naturaliensammeln auf Reisen und dem Naturalienhandel_. Weimar: B.F. Voigt, 1886: 1.
 
-[^7]: Die ökologischen Folgen von Imperialismus und Kolonialismus wurden bereits in den 1980er-Jahren untersucht. Vgl. Cronon, William. _Changes in the Land: Indians, Colonists, and the Ecology of New England_. New York: Hill and Wang, 1983; Crosby, Alfred W. _Ecological Imperialism: The Biological Expansion of Europe, 900–1900_. Cambridge: Cambridge University Press, 1986; Grove, Richard. _Green Imperialism: Colonial Expansion, Tropical Island Edens and the Origins of Environmentalism, 1600–1860_. Cambridge: Cambridge University Press, 1995.
+[^7]: Die ökologischen Folgen von Imperialismus und Kolonialismus wurden bereits in den 1980er Jahren untersucht. Vgl. Cronon, William. _Changes in the Land: Indians, Colonists, and the Ecology of New England_. New York: Hill and Wang, 1983; Crosby, Alfred W. _Ecological Imperialism: The Biological Expansion of Europe, 900–1900_. Cambridge: Cambridge University Press, 1986; Grove, Richard. _Green Imperialism: Colonial Expansion, Tropical Island Edens and the Origins of Environmentalism, 1600–1860_. Cambridge: Cambridge University Press, 1995.
 
 [^8]: Zur Tendaguru-Expeditionen im Hinblick auf diese Problematik vgl. Vennen, Mareike. “Dinosaurier in Berlin: Transformationen im Berliner Museum für Naturkunde, 1909–1937”. In _Dinosaurierfragmente: Zur Geschichte der Tendaguru-Expedition und ihrer Objekte, 1906–2018_. Göttingen: Wallstein, 2018: 166–191.

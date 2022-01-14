@@ -7,7 +7,7 @@ short_desc_de: Materialien des Modellbaus
 date_end: 2021-08-26T13:04:38.748Z
 published: false
 title: SOMSO-Plast – Plastic Animal Models
-updated: 1641550966791
+updated: 1642156422213
 id: EjCkhWUz4D4DXc9ANY8bc
 doi: 64y2-m311/46
 translators:
@@ -60,7 +60,7 @@ _Modell eines Kartoffelkäfers aus Plastik von der Firma SOMSO, Datierung unbeka
 
 </figure>
 
-Während Tierpräparate auch aus organischem Material bestehen, das durch konservatorische Techniken in seinem Verfall gestoppt wird, beinhalten Tiermodelle – als plastische Sichtbarmachungen von Wissen – keine originalen Anteile des Tieres.[^1] Seit dem 18. Jahrhundert nutzten Modelleure Wachs, Glas und Papiermaschee, um Tiere künstlich nachzubilden. Diese Materialien ermöglichten es ihnen, die nachgebildeten Organismen - im Vergleich zu den Präparaten – möglichst “natürlich” wirken zu lassen. **Als in den 1930er-Jahren der Kunststoff seinen Siegeszug in Europa begann, korrelierte dies im Bereich der zoologischen Modelle mit der Entwicklung von kostbaren Unikaten hin zu seriellen Produktionen.** Die 1876 gegründete Firma Somso (Sommer in Sonneberg, Thüringen) gehörte zu den Pionieren bei der Verwendung von Plastik in der Modellherstellung von Pflanzen, Tieren und menschlicher Anatomie. Sie entwickelte in den 1930er Jahren eine eigene Rezeptur, die sie als Marke “SOMSO-Plast” schützen ließ.[^2] 
+Während Tierpräparate auch aus organischem Material bestehen, das durch konservatorische Techniken in seinem Verfall gestoppt wird, beinhalten Tiermodelle – als plastische Sichtbarmachungen von Wissen – keine originalen Anteile des Tieres.[^1] Seit dem 18. Jahrhundert nutzten Modelleure Wachs, Glas und Papiermaschee, um Tiere künstlich nachzubilden. Diese Materialien ermöglichten es ihnen, die nachgebildeten Organismen - im Vergleich zu den Präparaten – möglichst “natürlich” wirken zu lassen. **Als in den 1930er Jahren der Kunststoff seinen Siegeszug in Europa begann, korrelierte dies im Bereich der zoologischen Modelle mit der Entwicklung von kostbaren Unikaten hin zu seriellen Produktionen.** Die 1876 gegründete Firma Somso (Sommer in Sonneberg, Thüringen) gehörte zu den Pionieren bei der Verwendung von Plastik in der Modellherstellung von Pflanzen, Tieren und menschlicher Anatomie. Sie entwickelte in den 1930er Jahren eine eigene Rezeptur, die sie als Marke “SOMSO-Plast” schützen ließ.[^2] 
 
 SOMSO-Plast ersetzte zunehmend die Materialien Papiermaschee und/oder Gips. **Neben den Kartoffelkäfer aus Papiermaschee des Modelleurs Alfred Keller rückte damit der Kartoffelkäfer aus Plastik, einem Material, dem eine besonders “naturgetreue” Ästhetik zugeschrieben wurde.**[^3] Er zeichnet sich durch die glatte und glänzend bemalte Oberfläche aus, die sich zum Abtasten der Formen mit den Händen anbietet und die beim Abwaschen nicht leidet. SOMSO-Plast gilt auch heute noch als wenig anfällig und “nahezu unzerbrechlich”. Obwohl sich heute Plastikmodelle in Sammlungen auch als problematisch erweisen, da sie sich teilweise verformen oder zersetzen, überwiegt nach wie vor das Argument einer praktischen Handhabbarkeit im Lehrbetrieb für die weitere Verwendung dieses Materials.
 

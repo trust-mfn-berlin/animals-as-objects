@@ -7,7 +7,7 @@ short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 date_end: 1935-01-01T10:48:28.706Z
 published: false
 title: Labels and Knowledge
-updated: 1642113428900
+updated: 1642156411162
 id: K2rQQdv1K7aDMUi5gDHcN
 doi: 64y2-m311/29
 translators:
@@ -155,13 +155,13 @@ Instructions like “Please transfer hide and skull to museum” provide clues a
 
 <figcaption>
 
-_Mobiles Wissensding: Solche Etiketten wurden in den 1920er oder 30er-Jahren Zootieren beigefügt, die der Zoo nach ihrem Tod weiterversandte. Es ist vermerkt, wohin der Tierkadaver geschickt werden sollte. (MfN, HBSB, S004-02-05-96, Bl. 020 verso. Alle Rechte vorbehalten.)_
+_Mobiles Wissensding: Solche Etiketten wurden in den 1920er oder 30er Jahren Zootieren beigefügt, die der Zoo nach ihrem Tod weiterversandte. Es ist vermerkt, wohin der Tierkadaver geschickt werden sollte. (MfN, HBSB, S004-02-05-96, Bl. 020 verso. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
 </figure>
 
-Fund: Ein Stapel alter Anhänger aus dem Zoologischen Garten Berlin, die meisten aus den 1920er und 30er-Jahren, eingeheftet in einen Ordner im Archiv des Museums für Naturkunde Berlin, in dem Briefe zwischen dem Zoologischen Museum und dem Zoologischen Garten aus dieser Zeit abgeheftet sind. Die Etiketten, die den Tieren als “Begleitzettel” mitgegeben wurden, wenn sie den Zoo nach ihrem Tod verließen, sind materielle Spuren der damaligen Beziehungen zwischen Zoo und Museum. Was können sie erzählen? 
+Fund: Ein Stapel alter Anhänger aus dem Zoologischen Garten Berlin, die meisten aus den 1920er und 30er Jahren, eingeheftet in einen Ordner im Archiv des Museums für Naturkunde Berlin, in dem Briefe zwischen dem Zoologischen Museum und dem Zoologischen Garten aus dieser Zeit abgeheftet sind. Die Etiketten, die den Tieren als “Begleitzettel” mitgegeben wurden, wenn sie den Zoo nach ihrem Tod verließen, sind materielle Spuren der damaligen Beziehungen zwischen Zoo und Museum. Was können sie erzählen? 
 
 <figure>
 
