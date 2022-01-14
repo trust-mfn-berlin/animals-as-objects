@@ -7,7 +7,7 @@ short_desc_de: "Verschollene Objekte und alte Kataloge "
 date_end: 2022-01-04T16:26:25.633Z
 published: false
 title: Untraceable
-updated: 1642177205828
+updated: 1642199184227
 id: abaNOPQjQqMhfMbhbhvm4
 doi: 64y2-m311/73
 translators:
@@ -31,7 +31,7 @@ date_start: 1843-12-31T23:50:39.000Z
  
 <figure>
 
-![A double page of an open notebook reveals handwritten entries for the month of August 1844 in a hand-drawn table. ](/images/Zool-Mus-SI-Verwaltungsakten-Tagebuch-Beyer-1844-10.jpg) 
+![A double page of an open notebook reveals handwritten entries for the month of August 1844 in a hand-drawn table. ](/images/Zool-Mus-SI-Verwaltungsakten-Tagebuch-Beyer-1844-10.png) 
 
 <figcaption>
 
@@ -95,7 +95,7 @@ The “young caiman” whose whereabouts remain unknown will stay one of the col
  
 <figure>
 
-![Die Doppelseite eines aufgeschlagenen Notizbuchs zeigt handschriftliche Einträge in einer gezeichneten Tabelleneinteilung für den Monat August im Jahr 1844. ](/images/Zool-Mus-SI-Verwaltungsakten-Tagebuch-Beyer-1844-10.jpg)  
+![Die Doppelseite eines aufgeschlagenen Notizbuchs zeigt handschriftliche Einträge in einer gezeichneten Tabelleneinteilung für den Monat August im Jahr 1844. ](/images/Zool-Mus-SI-Verwaltungsakten-Tagebuch-Beyer-1844-10.png)  
 
 <figcaption>
 
