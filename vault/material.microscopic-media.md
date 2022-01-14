@@ -1,25 +1,19 @@
 ---
 license: CC BY-SA
+title: Microscopic Media
 title_de: Mikroskopische Medien
 created: 1618492963611
-author: Filippo Bertoni
-short_desc_de: |-
-  Die Beobachtung von Mikroorganismen bedarf einer Vielzahl an
-  Medien und Werkzeugen
-date_end: 2022-01-12T14:16:30.941Z
-published: false
-title: Microscopic Media
 updated: 1642118985160
 id: fac2eded-a093-4ebf-986e-d94b045f7676
+author: Filippo Bertoni
 doi: 64y2-m311/60
 translators:
   translator_en_de: Jan-Peter Herrmann
-desc: |-
-  Since microbes are invisible to the naked eye, their study and observation
-  depends on an array of media and instruments to visualize and understand them.
-  These tools and techniques are fundamental to characterizing microbial life.
-  And they remind us that our view of the world is historically situated and
-  always depends on mediations of one kind or another.
+desc: Since microbes are invisible to the naked eye, their study and observation
+  depends on an array of media and instruments to visualise and understand
+  them.These tools and techniques are fundamental to characterising microbial
+  life.And they remind us that our view of the world is historically situated
+  and always depends on mediations of one kind or another.
 desc_de: |-
   Da Mikroben mit dem bloßen Auge nicht zu erkennen sind, erfordert ihre
   Untersuchung und Beobachtung ein breites Repertoire an Medien und
@@ -29,11 +23,16 @@ desc_de: |-
   sie, dass unser Bild von der Welt historisch verortet ist und stets auf
   bestimmten Vermittlungsformen beruht.
 short_desc: The observation of microorganisms depends on a variety of media and tools
+short_desc_de: |-
+  Die Beobachtung von Mikroorganismen bedarf einer Vielzahl an
+  Medien und Werkzeugen
 cover_image:
   image: /images/microscopicmedia.jpg
 colour_scheme: 8
 tao_type: material
 date_start: 1673-12-23T18:43:39.000Z
+date_end: 2022-01-12T14:16:30.941Z
+published: false
 ---
 
 :::EN:::
