@@ -7,7 +7,7 @@ short_desc_de: Politische, logistische und moralische Herausforderungen
 date_end: ""
 published: false
 title: How Do Animals End Up in the Zoo?
-updated: 1642186527918
+updated: 1642188679136
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 doi: 64y2-m311/14
 translators:
@@ -184,7 +184,7 @@ The different sources of the animals determine the various acquisition strategie
 
 A glance into the history not only of the Berlin zoos shows that these strategies were and are taken into account, but that a significant portion of the efforts made to acquire animals has often been related to the fact that they are unique and new, or that they are expected to attract great interest from the public. **Classic examples of the latter are pandas and animals attractive to the public, such as [[great apes|material.the-gorilla-beast]], elephants, and predators (especially big cats). Animals perceived by visitors as [[cute|story.photos-with-lion-cubs]] or out of the ordinary, such as penguins and meerkats, or giraffes and tapirs also feature.**
 
-Their attraction is based on the fact that they resemble us, are enormous, dangerous, or cute, stand upright, or have special features.[^14] More on these so-called show animals (German: Schauwerttiere) in [[theme.showing-animals]].
+Their attraction is based on the fact that they resemble us, are enormous, dangerous, or cute, stand upright, or have special features.[^14] More on these so-called show animals (Schauwerttiere) in [[theme.showing-animals]].
 
 Ultimately, it seems that over the course of their existence, zoos – including the Berlin Zoo, its Aquarium, and the Tierpark – have been, for the most part, pragmatic in regard to the supply sources of the species and individual animals they keep. Animals have been obtained [[from all available sources|material.lions-or-cows]]. **Being in possession of many animals and making these accessible to visitors has been a primary goal.**
 
