@@ -20,9 +20,9 @@ desc: |-
 desc_de: Die Begründungen von Zoos, warum sie Tiere halten und zur Schau
   stellen, haben sich über die Jahrhunderte stark gewandelt, von Erholung der
   Stadtbevölkerung über Forschung bis hin zu Artenschutz. Dem heute typischen,
-  geografisch geordneten Berliner Zoo mit exotisierender Architektur ging
-  eintaxonomisch geordneter Zoo voraus, der die Vollständigkeit der Ordnung
-  weitaus bedeutsamer bewertete als die Qualität der Haltungsbedingungen.
+  geografisch geordneten Berliner Zoo mit exotisierender Architektur ging ein
+  taxonomisch geordneter Zoo voraus, der die Vollständigkeit der Ordnung weitaus
+  bedeutsamer bewertete als die Qualität der Haltungsbedingungen.
 short_desc: How and why do zoos put animals on display?
 short_desc_de: Wie und warum stellen Zoos Tiere aus?
 cover_image:
