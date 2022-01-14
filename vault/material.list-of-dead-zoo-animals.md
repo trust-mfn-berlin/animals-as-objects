@@ -7,7 +7,7 @@ short_desc_de: "Dokumente aus dem Krieg "
 date_end: ""
 published: false
 title: List of Dead Zoo Animals
-updated: 1642166578267
+updated: 1642166946665
 id: 5uQChdHATgh_dE94AE5fX
 doi: 64y2-m311/76
 translators:
@@ -54,7 +54,7 @@ The only surviving elephant recorded in the list was [[Siam|story.the-afterlife-
 >
 >3 African forest buffalo / 1 zebu
 >
->**30%†**
+>**30% †**
 >
 >[right-hand column] **Still here**
 >
@@ -96,7 +96,7 @@ Nicht alle Tiernamen sind heute noch vollständig nachvollziehbar. Bei dem „Ba
 >
 >3 Rotbüffel / 1 Zebu
 >
->**30%†**
+>**30% †**
 >
 >[Rechte Spalte] **noch vorhanden**
 >
