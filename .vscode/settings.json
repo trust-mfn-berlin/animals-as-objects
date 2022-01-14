@@ -8,5 +8,5 @@
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.suggest.showSnippets": true,
     "editor.tabCompletion": "on",
-    "files.autoSave": "off"
+    "files.autoSave": "on"
 }
