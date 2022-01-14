@@ -3,20 +3,24 @@ license: CC BY-SA
 title_de: Zoos und Artenschutz
 created: 1618994200982
 author: Clemens Maier-Wolthausen
-short_desc_de: Seit relativ kurzer Zeit engagieren sich Zoos auch im Artenschutz.
-date_end: ""
+short_desc_de: Ausstellen oder schützen?
+date_end: 2021-12-30T23:00:00.000Z
 published: false
 title: Zoos and Conservation
 updated: 1641811030804
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
-desc: Since only a relatively short time zoos intensify their conservation eforts.
-desc_de: Seit relativ kurzer Zeit engagieren sich Zoos auch im Artenschutz.
-short_desc: Since only a relatively short time zoos intensify their conservation eforts.
+doi: 64y2-m311/75
+desc: Since only a relatively short time zoos intensify their conservation efforts.
+desc_de: Zoos bewerben sich heute als Artenschutzzentren. Bis in die 1970er
+  Jahre wurde die Mehrzahl ihrer ausgestellten Tiere allerdings in deren
+  Habitaten gefangen. Welche Entwicklungen haben Zoos durchlaufen und welche
+  Dilemmata haben sich ergeben.
+short_desc: Since only a relatively short time zoos intensify their conservation efforts.
 cover_image:
   image: /images/orangs_wegweiser_1927.jpg
 colour_scheme: 15
 tao_type: story
-date_start: ""
+date_start: 1899-12-31T23:00:00.000Z
 ---
 
 :::EN:::
