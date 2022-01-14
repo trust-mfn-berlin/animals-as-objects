@@ -2,13 +2,12 @@
 license: CC BY-SA
 title_de: Der Zoo im Nationalsozialismus
 created: 1619020958263
-updated: 1642119258471
 author: Clemens Maier-Wolthausen
 short_desc_de: Propagandainstrument und Zwangsarbeit
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: The Zoo and National Socialism
-updated: 1642010962894
+updated: 1642166462848
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 doi: 64y2-m311/12
 translators:
