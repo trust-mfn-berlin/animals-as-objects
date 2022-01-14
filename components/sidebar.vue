@@ -20,7 +20,7 @@
     </section>
 
     <template v-if="siteLang == 'en' && article.toc">
-      <contents :toc="article.toc" label="Table of contents" />
+      <contents :toc="article.toc" label="Table of Contents" />
     </template>
     <template v-if="siteLang == 'de' && article.body_de.toc">
       <contents :toc="article.body_de.toc" label="Inhaltsverzeichnis" />
@@ -76,7 +76,7 @@ export default {
         },
         author:{
           en:'Author',
-          de:'Autor*in'
+          de:'Autor:in'
         },
         translator:{
           en:'Translator',
