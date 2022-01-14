@@ -7,7 +7,7 @@ short_desc_de: Politische, logistische und moralische Herausforderungen
 date_end: ""
 published: false
 title: How Do Animals End Up in the Zoo?
-updated: 1642186476004
+updated: 1642186500394
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 doi: 64y2-m311/14
 translators:
