@@ -7,7 +7,7 @@ short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Wel
 date_end: 2021-12-14T14:41:44.038Z
 published: false
 title: Microbial Worlds
-updated: 1642164489064
+updated: 1642177438478
 id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
 doi: 64y2-m311/34
 translators:
@@ -58,7 +58,7 @@ By the second half of the 20th century the ever-increasing resolution and interc
 
 <figcaption>
 
-_Engraving of mould, and magnified view of the surface of a rose-leaf; Schem. 12. From_ Micrographia: or Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses with Observations and Inquiries Thereupon _by Robert Hooke, Fellow of the Royal Society, 1665. (Wellcome Collection. CC BY.)
+_Engraving of mould, and magnified view of the surface of a rose-leaf; Schem. 12. From_ Micrographia: or Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses with Observations and Inquiries Thereupon _by Robert Hooke, Fellow of the Royal Society, 1665. (Wellcome Collection. CC BY.)_
 
 </figcaption>
 
