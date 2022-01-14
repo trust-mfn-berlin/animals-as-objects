@@ -76,7 +76,7 @@ export default {
         },
         author:{
           en:'Author',
-          de:'Autor*in'
+          de:'Autor:in'
         },
         translator:{
           en:'Translator',
