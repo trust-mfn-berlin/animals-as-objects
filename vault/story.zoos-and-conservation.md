@@ -7,7 +7,7 @@ short_desc_de: Ausstellen oder schützen?
 date_end: 2021-12-30T23:00:00.000Z
 published: false
 title: Zoos and Conservation
-updated: 1642174477677
+updated: 1642176721830
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 doi: 64y2-m311/75
 desc: Since only a relatively short time zoos intensify their conservation efforts.
@@ -69,7 +69,7 @@ In beiden deutschen Staaten wurde diese gefährdete Tierart zu einem Politikum. 
 
 Er fügte hinzu, dass die zoologischen Gärten andernfalls mit Angriffen aus der Öffentlichkeit zu rechnen hätten, da diese durch die Presse über die Gefährdung gut informiert sei. Die anwesenden Zoodirektoren fassten – allerdings nicht einstimmig – den Beschluss:
  
->“dass sie jederzeit sofort bereit sind, sich einem internationalen Beschluss anzuschließen, keine importierten [sic!] Orang-Utans mehr anzukaufen, es sei denn, unter ganz bestimmten, international zu regelnden Bestimmungen.”[^6]
+>“dass sie jederzeit sofort bereit sind, sich einem internationalen Beschluss anzuschließen, keine inportierten [sic!] Orang-Utans mehr anzukaufen, es sei denn, unter ganz bestimmten, international zu regelnden Bestimmungen.”[^6]
  
 1965 trafen sich die Zoodirektoren ein weiteres Mal, diesmal wieder aus West- und aus Ostdeutschland. Und wieder wurde über den Schutz der Orang-Utans diskutiert. Der Ost-Berliner Tierpark-Direktor Heinrich Dathe plädierte nun dafür, dass alle deutschen Zoos die Entscheidung der im selben Jahr stattfindenden Konferenz der Internationalen Union von Direktoren Zoologischer Gärten (IUDZG) abwarten sollten.[^7] Möglicherweise erwartete er, dass der Importstopp für Orang-Utans dort abgelehnt werden würde, dem auch er selbst äußerst kritisch gegenüberstand.
 
