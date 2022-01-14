@@ -7,7 +7,7 @@ short_desc_de: Ausstellen oder schützen?
 date_end: 2021-12-30T23:00:00.000Z
 published: false
 title: Zoos and Conservation
-updated: 1642163995911
+updated: 1642165316992
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 doi: 64y2-m311/75
 desc: Since only a relatively short time zoos intensify their conservation efforts.
@@ -35,7 +35,7 @@ Translation coming soon…
 
 <figcaption>
 
-Männlicher Orang-Utan “Enche”, 2016. (Zoologischer Garten Berlin, Alle Rechte vorbehalten.)_
+Männlicher Orang-Utan “Enche”, 2016. (Zoologischer Garten Berlin. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -61,7 +61,7 @@ _Titelbild des Wegweisers durch den Zoologischen Garten Berlin 1927 mit zwei Ora
 
 Die Hoffnungen auf eine Zucht erfüllten sich aber zunächst nicht. Aus den damaligen Aufzeichnungen des Zoos, den [[Journalen|material.journale-the-zoo-directory]] und der sogenannten [[Steinmetzkartei|material.steinmetz-index]], geht hervor, dass ein 1928 geborenes Jungtier nach einem Monat und ein 1930 geborenes Jungtier nach drei Jahren starben.[^4] So blieben zunächst alle weiteren Tiere dieser Art, die im Berliner Zoo präsentiert wurden, weiterhin Wildfänge. Das war in anderen deutschen und europäischen Zoos nicht anders. Anfang der 1960er-Jahre sollte sich jedoch an dieser Form der Beschaffung von Zootieren eine Kontroverse unter den deutschen und internationalen Zooleitungen entzünden.
  
-##Schutz oder Zucht?
+## Schutz oder Zucht?
  
 In ihrem Lebensraum, den Wäldern von Borneo und Sumatra, wird der Bestand an Orang-Utans von der Weltnaturschutzunion (International Union for Conservation of Nature) schon seit mehreren Jahren als ernsthaft bedroht eingestuft. Wichtigster Grund hierfür ist der menschengemachte Lebensraumverlust durch die Abholzung der Wälder – insbesondere für Palmölplantagen. Zwar stammt heute die Mehrzahl der in Europa und Nordamerika in Zoos lebenden Orang-Utans aus den Erhaltungszuchtprogrammen der Zooverbände. Das war aber nicht immer so. Am Beispiel dieser Tierart lassen sich die Interessenkonflikte von Zoos sehr gut veranschaulichen. Sollten Zoos auf die beim Publikum beliebten, in ihren natürlichen Lebensräumen jedoch bedrohten Tierarten verzichten, oder konnte das Fangen, Zeigen und Züchten der Tiere einen Beitrag zu deren Arterhaltung leisten? 
 
@@ -79,7 +79,7 @@ Entsprechend sprach sich Dathe auf der betreffenden Tagung der Internationalen U
  
 <figure>
  
-![Ein Mann mit Glatze und Brille hält einen Affen im Arm, der sich an ihn schmiegt.(/images/cmw/Dathe_Jussup.jpg)
+![Ein Mann mit Glatze und Brille hält einen Affen im Arm, der sich an ihn schmiegt.](/images/cmw/Dathe_Jussup.jpg)
 
 <figcaption>
 
@@ -111,7 +111,7 @@ Auf der Tagung des deutschen Verbandes 1966 wurde die Selbstverpflichtung aus de
 
 Der zugrunde liegende Konflikt innerhalb der Zoolog:innenriege verlief zwischen der von Heinrich Dathe propagierten Form eines ex-situ Artenschutzes (also der Haltung und Nachzucht außerhalb des ursprünglichen natürlichen Lebensraums) und dem strikten Schutz der Tiere in ihrem natürlichen Lebensraum (also in-situ). Letzteres schloss und schließt zumeist auch den Fang von Tieren für Zoos aus. Dathes Position und die anderer Zooleitungen weltweit verband einen Schutz der Arten in ihren eigentlichen Habitaten mit einem eigenen attraktiven Bestand an Tieren auch zum Zweck der Zucht einer größeren und möglicherweise auszuwildernden Zoopopulation. Viele Zooleitungen beriefen sich dabei auf die Vorbilder verschiedener Zuchtprogramme.
 
-##Vorbilder für Zuchtprogramme
+## Vorbilder für Zuchtprogramme
  
 Ein sehr frühes Beispiel für eine erfolgreiche Erhaltungszucht, die Heinrich Dathe und Anderen womöglich vorschwebte, ist das des Davidshirsches. In den 1890er-Jahren wurde der Davidshirsch nur knapp vor dem Aussterben bewahrt. Der Duke of Bedford brachte eine Gruppe von 18 Tieren aus verschiedenen internationalen Zoos in seinen Privatzoo in Woburn, wo sie sich erfolgreich vermehrten.[^14] 1905 wurde die ‘American Bison Society’ mit dem Ziel der Erhaltung des beinahe ausgestorbenen Bisons gegründet. Der Bestand dieser Büffel war aufgrund intensiver Bejagung durch europäische Siedler auf wenige kleine Gruppen dezimiert worden. Der Direktor des New York Zoological Parks und ehemalige Tierpräparator des National Museum, William Hornaday, stellte eine Zuchtgruppe aus Bisons verschiedener US-amerikanischer Zoos zusammen, die erfolgreich Nachwuchs zeugten. Als durch US-Präsident Theodore Roosevelt erste Nationalparks entstanden, begannen Hornaday und seine Mitstreiter:innen, die Tiere auszuwildern. Zum ersten Mal wurde eine in Zoos gezüchtete gefährdete Tierart ausgewildert. Der große Bison war nicht nur leicht zu züchten und vermehrte sich auch in menschlicher Obhut gut, er erfuhr zudem die erforderliche Aufmerksamkeit. Dazu trugen zweifellos seine Größe, seine Gefährlichkeit, aber auch seine ikonische Rolle im europäischen Narrativ der Geschichte des US-amerikanischen Westens bei. Die Wandertaube hingegen, deren Schwärme einst den Himmel über den USA verdunkelten, bekam diese Aufmerksamkeit nicht und starb um 1900 aus. Anschließend lebten zwar noch einige Tiere in Zoos, allerdings unternahm niemand nennenswerte Versuche, sie zu züchten und die Art zu erhalten.[^15] Sowohl Bisons als auch Wandertauben waren einst ähnlich zahlreich und omnipräsent in Nordamerika, doch die Antworten, die auf ihr drohendes Aussterben gefunden wurden, hätten unterschiedlicher nicht sein können. 
 
@@ -129,7 +129,7 @@ _Bild von der Auswilderung eines Wisents in der Schorfheide, vermutlich 1938. (A
 
 </figure>
 
-##Die Weiterentwicklung: Zuchtbücher und Erhaltungszuchtprogramme
+## Die Weiterentwicklung: Zuchtbücher und Erhaltungszuchtprogramme
 
 Der Erfolg dieser frühen Erhaltungszuchten animierte die Leitungen internationaler Zoos zur Einführung weiterer Zuchtbücher – just in der Zeit, als Dathe, Klös und Grzimek über die beste Strategie zur Erhaltung des Orang-Utans stritten. Auf der Sitzung des Internationalen Verbands der Zoodirektoren, dem Vorgänger der World Association of Zoos and Aquariums, in Colombo 1966 verpflichteten sich weitere Zoos zur Führung von Zuchtbüchern für gefährdete Arten. Folgende Zoos übernahmen beispielsweise die Führung von Zuchtbüchern:
 
@@ -144,16 +144,16 @@ Der Erfolg dieser frühen Erhaltungszuchten animierte die Leitungen internationa
 * San Diego übernahm das Zuchtbuch für die Mendesantilope,
 * und Washington übernahm das Zuchtbuch für den Orang-Utan.[^17]
 
+
 Die Gründe für die Auswahl lassen sich aus den Quellen im Einzelnen nicht mehr rekonstruieren, es ist aber anzunehmen, dass die betreffenden Zoos in der Regel eine längere und aus Sicht des Verbandes erfolgreiche Geschichte der Haltung und Zucht der jeweiligen Tierarten vorzuweisen hatten.
 
 <figure>
  
-![Titelblatt einer Broschüre in roter Farbe mit einem Bild eines Nashorns.]
+![Titelblatt einer Broschüre in roter Farbe mit einem Bild eines Nashorns.](/images/cmw/Zuchtbuch_Breitmail_2001.jpg)
 
 <figcaption>
 
-_Beispiel eines Zuchtbuchs - Das Internationale Zuchtbuch für das Breitmaulnashorn, 2001._ link zu bild fehlt !
-
+_Beispiel eines Zuchtbuchs - Das Internationale Zuchtbuch für das Breitmaulnashorn, 2001._
 </figcaption>
 
 </figure>
@@ -164,7 +164,7 @@ Dieser Ansatz war und ist unter Zoos in Deutschland und der Welt anschlussfähig
 
 Ganz freiwillig war diese Umstellung allerdings nicht: 1973 trat nach Jahren der Vorbereitung und verschiedener Entwurfsvorlagen das sogenannte Washingtoner Artenschutzabkommen in Kraft. Es verbietet oder reguliert den Handel mit gefährdeten Arten, sofern sie in einem der regelmäßig überarbeiteten Anhänge des Abkommens aufgeführt sind. Das Abkommen beendete quasi den bis dahin florierenden internationalen, kommerziellen Großhandel mit Zootieren. Während nicht geschützte Vögel und Wasserfauna weiterhin gehandelt werden konnten, galt (und gilt) dies für Säugetiere und insbesondere große Spezies weitgehend nicht mehr. Siehe dazu die Geschichte [[Tiere fangen|story.catching-animals]]. Welche Auswirkungen das Artenschutzabkommen haben würde, machte der Rotterdamer Zoodirektor Dick van Dam auf der Jahreskonferenz 1980 des internationalen Verbandes der Zoodirektoren in seinem Vortrag “The Future of Zoological Gardens” deutlich. Van Dam forderte die Zoos weltweit auf, die Zucht bedrohter Tierarten zu einer ihrer zentralen Aufgaben zu machen, da die finanziellen und legalen Schwierigkeiten beim Erwerb von Wildfängen zu groß geworden seien. Nur durch Zucht könnten Zoos fortan die Attraktivität der eigenen Sammlung sichern.[^19] 1993 bestätigte der Kölner Zoodirektor Gunther Nogge, dass sich Zoos nach dem Washingtoner Artenschutzabkommen viel stärker auf die Zucht konzentrierten, da sie zu “Selbstversorgern” werden mussten.[^20]
 
-##Ex-situ Zucht vs. in-situ Artenschutzprogramme
+## Ex-situ Zucht vs. in-situ Artenschutzprogramme
 
 Seit der Verabschiedung des Washingtoner Artenschutzabkommens ist die Zwickmühle, in der sich noch Heinrich Dathe, Heinz-Georg Klös oder Bernhard Grzimek in den 1960er Jahren befanden, aufgelöst: Zoos können nun nicht mehr auswählen, ob sie Individuen begehrter Tierarten wie Orang-Utans aus Wildfängen kaufen und damit zur Vernichtung der Art beitragen, oder aber auf das Zeigen der Art verzichten. Der Erwerb von Wildfängen bedrohter Arten ist ihnen schlicht untersagt. Gleichzeitig haben Fortschritte in der Wildtierbiologie dazu geführt, dass viele der begehrten und bedrohten Arten in Zoos mit einer längeren Lebensdauer gehalten und erfolgreich gezüchtet werden können. Die entscheidende Frage, die sich Zoos heute stellt, ist eher, in welcher Form sie sich an den weltweiten Bemühungen zum Schutz bedrohter Tierarten beteiligen. Sollen sie in ihren Zuchtprogrammen eine genetisch diverse “Reservepopulation” entwickeln, um diese dann wieder in die ursprünglichen Lebensräume entlassen zu können? Dies wäre nur möglich, wenn der menschengemachte Habitatverlust aufgehalten oder durch Renaturierungsprogramme umgekehrt wird. Oder sollen sie sich zudem aktiv für Artenschutzprogramme vor Ort einsetzen und für sie werben?[^21]
 
@@ -172,7 +172,7 @@ Praktisch alle in den deutschen, europäischen und internationalen Zooverbänden
 
 Der Berliner Zoologische Garten und der Berliner Tierpark sind beispielsweise an der Zucht und Auswilderung von Bartgeiern, Wisenten und des Vietnam-Fasans beteiligt.[^22] Das Wisent-Projekt wird vom aserbaidschanischen Umweltministerium, dem WWF, der EAZA sowie weiteren nationalen Partnern vor Ort getragen. So wurden Tiere aus europäischen Zoos, die an dem Programm beteiligt sind, im Tierpark Berlin aneinander gewöhnt, betreut und anschließend 2019 zum ersten Mal von dort in das Wiederansiedlungszentrum im Shahdag-Nationalpark transportiert. Weitere Beispiele für Auswilderungsprogramme von Mitgliedzoos des deutschen Verbands der Zoologischen Gärten sind neben dem Wisent die europäische Sumpfschildkröte, das Przewalskipferd, der Habichtskauz, der Lear-Ara, der Alpensteinbock und der Feldhamster.[^23] Zoos finanzieren zudem Forschungsprojekte und Schutzreservate in den Herkunftsregionen einiger bei ihnen gehaltener Spezies. Doch auch solch ein Engagement europäischer Zoos kann problematisch sein. Denn die vornehmlich europäisch geprägten Initiativen der ex-situ-Artenschutzprogramme bergen die Gefahr, koloniale Denkmuster und Abhängigkeitsverhältnisse fortzuführen.
 
-##Koloniales Erbe und bevormundende Hilfe
+## Koloniales Erbe und bevormundende Hilfe
 
 Die Ursprünge der Naturschutzbewegung und insbesondere von Nationalparks liegen in kolonialen Jagdtraditionen und Herrschaftsverhältnissen.[^24] So hat der Historiker Bernhard Gißibl in zahlreichen Beiträgen dargelegt, wie “Natur” zu einer Ressource des deutschen Kolonialismus wurde, die sowohl ausgebeutet als auch geschützt werden sollte.[^25] Dieser Politisierung und Ökonomisierung von Natur geht der Umwelthistoriker Frank Uekötter am Beispiel der Naturschutzbewegung der 1930-er Jahre nach. Er hat die Wurzeln der deutschen Naturschutzbewegung in nationalistischen Ressentiments, ihre Auswirkungen auf die nationalsozialistische Heimatschutzideologie und deren Folgen bis heute untersucht.[^26] Auch der bekannteste Vertreter des modernen Habitatschutzes [[material.Bernhard Grzimek]] wurde in diesen Paradigmen sozialisiert, wie seine Arbeit vielfach bezeugt – etwa als er vorschlug, die für die Naturreservate in der Serengeti notwendigen Flächen durch – zwangsweise durchgeführte – Umsiedlungen indigener Gruppen zu räumen.[^27] Auch der moderne Artenschutz ist nicht frei von Rekursen auf koloniale Ungleichheiten.[^28] Zoos weltweit – und insbesondere Zoos in den ehemaligen Kolonialstaaten – müssen daher ein Bewusstsein für das konfliktreiche Erbe moderner Konzepte des Artenschutzes in den Lebensräumen der bedrohten Tiere entwickeln, wollen sie nicht durch ihre Schutz- und Forschungsprogramme vor Ort koloniale Strukturen reproduzieren.
 
@@ -180,13 +180,13 @@ Der Weltzooverband bemerkt dies zumindest in seiner Weltnaturschutzstrategie aus
 
 >“Wenn die zoologischen Organisationen einen Teil ihrer Naturschutzziele mit menschlichen Entwicklungszielen zur Deckung bringen kann, wird ihre Arbeit stärker mit politischen und philanthropischen Ambitionen übereinstimmen und die Bedeutung der Unterstützung des Artenschutzes, des Schutzes der biologischen Vielfalt und der Ökosystemdienstleistungen wird stärker wahrgenommen. Es ist jedoch ein Balanceakt, die Arbeit von Zoos und Aquarien mit menschlichen Entwicklungszielen und gleichzeitig dem Schutz der biologischen Vielfalt in Einklang zu bringen.”[^29]
  
-![Englisches Original für die Übersetzung: “If the zoological community can align some of its conservation objectives with human-development goals, its work will resonate more strongly with political and philanthropic ambitions and the perceived relevance of support required for species conservation, and the protection of biodiversity and ecosystem ser-vices. However, this is a delicate balance between aligning the work of zoos and aquariums with human-development goals, and occasions where biodiversity responsibilities have to be supported.”]
+<!-- Englisches Original für die Übersetzung: “If the zoological community can align some of its conservation objectives with human-development goals, its work will resonate more strongly with political and philanthropic ambitions and the perceived relevance of support required for species conservation, and the protection of biodiversity and ecosystem ser-vices. However, this is a delicate balance between aligning the work of zoos and aquariums with human-development goals, and occasions where biodiversity responsibilities have to be supported.” -->
 
 Kontrollfunktionen hat der Verband allerdings keine, und so bleibt es den Mitgliedszoos selbst vorbehalten, bei der Auswahl der Schutzprogramme auf eine gleichberechtigte Partizipation aller Beteiligten zu achten und die Bedürfnisse und Strategien lokaler Regierungs- und Nichtregierungsorganisationen zu respektieren.
 
 Hinzu kommt die Frage nach der Auswahl der ausgestellten und gezüchteten Spezies.
 
-##Was ist schützenswert?
+## Was ist schützenswert?
 
 Seit den 1930er Jahren stellten Zuchtbücher, wie beschrieben, eine im Rahmen von Zoos bewährte Form des Artenschutzes dar. Allerdings waren praktisch alle durch Zuchtbücher abgedeckten Arten entweder Säugetiere oder solche, die als publikumswirksame Ausstellungsstücke taugten, entweder ihrer Größe und ihres Aussehens wegen, oder weil ihr Gefährdungsstatus leicht vermittelbar war. Was aber geschieht mit gefährdeten Arten, die im Verborgenen leben, unscheinbar sind, in Zoos schlecht ausgestellt werden können, für ihre Lebensräume aber eine große Bedeutung haben?
 
@@ -256,9 +256,9 @@ Das Tier eignete sich in den Augen des Verbandes also als Botschafter für den S
 
 [^21]: Einführend hierzu: Niekisch, Manfred, und Volker Sommer. “Zur Relevanz des Brückenbauens”. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 31–34.
 
-[^22]: Informationen zu den Programmen unter Zoologischer Garten Berlin. Artenschutz: https://www.zoo-berlin.de/de/artenschutz/weltweit/bartgeier; https://www.zoo-berlin.de/de/artenschutz/weltweit/wisent und https://www.zoo-berlin.de/de/artenschutz/weltweit/vietnamesischer-fasan (20.10.2021).
+[^22]: Informationen zu den Programmen unter Zoologischer Garten Berlin. Artenschutz: https://www.zoo-berlin.de/de/artenschutz/weltweit/bartgeier; https://www.zoo-berlin.de/de/artenschutz/weltweit/wisent und https://www.zoo-berlin.de/de/artenschutz/weltweit/vietnamesischer-fasan (03.01.2022).
 
-[^23]: VdZ. _Artenschutzzentrum Zoo_, 2021, https://www.vdz-zoos.org/fileadmin/PMs/2021/VdZ/VdZ-Broschuere_Artenschutzzentrum_Zoo.pdf (19.10.2021)
+[^23]: VdZ. _Artenschutzzentrum Zoo_, 2021, https://www.vdz-zoos.org/fileadmin/PMs/2021/VdZ/VdZ-Broschuere_Artenschutzzentrum_Zoo.pdf (03.01.2022).
 
 [^24]: MacKenzie, John M. _The Empire of Nature: Hunting, Conservation, and British Imperialism_. Manchester, New York: St. Martin‘s Press, 1997; Thompsell, Angela. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015.
 
@@ -270,11 +270,11 @@ Das Tier eignete sich in den Augen des Verbandes also als Botschafter für den S
 
 [^28]: Domínguez, Lara und Colin Luoma. “Decolonising Conservation Policy: How Colonial Land and Conservation Ideologies Persist and Perpetuate Indigenous Injustices at the Expense of the Environment”, _Land_ 9, Nr. 3 (2020): https://doi.org/10.3390/land9030065.
 
-[^29]: Rick Barongi, Fiona A. Fisken, Martha Parker und Markus Gusset (Hg.). _Committing to Conservation: The World Zoo and Aquarium Conservation Strategy_. Gland: WAZA Executive Office 2015. https://www.waza.org/wp-content/uploads/2019/03/WAZA-Conservation-Strategy-2015_German.pdf, 33 (19.10.2021).
+[^29]: Rick Barongi, Fiona A. Fisken, Martha Parker und Markus Gusset (Hg.). _Committing to Conservation: The World Zoo and Aquarium Conservation Strategy_. Gland: WAZA Executive Office 2015. https://www.waza.org/wp-content/uploads/2019/03/WAZA-Conservation-Strategy-2015_German.pdf, 33 (03.01.2022).
 
 [^30]: Conway, William G. “How to Exhibit a Bullfrog: A Bed‐Time Story for Zoo Men” _Curator: The Museum Journal_ 11, Nr. 4 (1968): 310–18, 318.
 
-[^31]: Hübner, Stephan. “‘Die afrikanischen Elefanten sind unser Flaggschiff’: Thomas Kauffels erzählt von der Geschichte des Opel-Zoos”. Hessischer Rundfunk (03.02.2021). https://www.hr2.de/podcasts/doppelkopf/die-afrikanischen-elefanten-sind-unser-flaggschiff--thomas-kauffels-erzaehlt-von-der-geschichte-des-opel-zoos,podcast-episode-82032.html (16.08.2021); zur Definition von Flaggschiffarten: Jürg Meier, _Handbuch Zoo: moderne Tiergartenbiologie_, Bern, Stuttgart, Wien: Haupt Verlag, 2009): 121.
+[^31]: Hübner, Stephan. “‘Die afrikanischen Elefanten sind unser Flaggschiff’: Thomas Kauffels erzählt von der Geschichte des Opel-Zoos”. Hessischer Rundfunk (03.01.2022). https://www.hr2.de/podcasts/doppelkopf/die-afrikanischen-elefanten-sind-unser-flaggschiff--thomas-kauffels-erzaehlt-von-der-geschichte-des-opel-zoos,podcast-episode-82032.html (03.01.2022); zur Definition von Flaggschiffarten: Jürg Meier, _Handbuch Zoo: moderne Tiergartenbiologie_, Bern, Stuttgart, Wien: Haupt Verlag, 2009): 121.
 
 [^32]: Vgl. beispielsweise Sommer, Volker.  “Ein Etikettenschwindel”. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 35–38; Mullan, Bob und Garry Marvin, _Zoo Culture_, Urbana, Chicago: University of Illinois Press, 1999; Sezgin, Hilal. _Artgerecht ist nur die Freiheit: eine Ethik für Tiere oder warum wir umdenken müssen_. München: Verlag C.H. Beck, 2014.
 
