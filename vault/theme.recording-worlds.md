@@ -7,7 +7,7 @@ short_desc_de: Naturkundliche Verzeichnungspraktiken und ihre transformative Kra
 date_end: ""
 published: false
 title: Recording Worlds
-updated: 1642164452956
+updated: 1642176785452
 id: 4r0yES2CMXdwBI2l8fYbZ
 doi: 64y2-m311/68
 translators:
