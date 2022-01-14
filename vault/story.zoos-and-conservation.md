@@ -7,7 +7,7 @@ short_desc_de: Ausstellen oder schützen?
 date_end: 2021-12-30T23:00:00.000Z
 published: false
 title: Zoos and Conservation
-updated: 1642170375946
+updated: 1642171636848
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 doi: 64y2-m311/75
 desc: Since only a relatively short time zoos intensify their conservation efforts.
@@ -35,7 +35,7 @@ Translation coming soon…
 
 <figcaption>
 
-Männlicher Orang-Utan “Enche”, 2016. (Zoologischer Garten Berlin. Alle Rechte vorbehalten.)_
+_Männlicher Orang-Utan “Enche”, 2016. (Zoologischer Garten Berlin. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
