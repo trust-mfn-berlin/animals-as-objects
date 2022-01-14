@@ -9,6 +9,7 @@ published: false
 title: List of Dead Zoo Animals
 updated: 1641666123424
 id: 5uQChdHATgh_dE94AE5fX
+doi: 64y2-m311/76
 translators:
   translator_de_en: Lydia J. White
 desc: Documents of war
