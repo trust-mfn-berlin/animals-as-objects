@@ -7,7 +7,7 @@ short_desc_de: Präparation eines Vogelbalgs im Museum für Naturkunde Berlin
 date_end: ""
 published: false
 title: Jendaya Parakeet
-updated: 1642165398765
+updated: 1642166001989
 id: qPXq6synKcymXGGXLIDvV
 doi: 64y2-m311/69
 translators:
@@ -40,7 +40,7 @@ Content Warning: The following text and video contain explicit pictures of prepa
 
 In autumn 2020 and spring 2021, our team observed and documented the preparation of a bird study skin at the Museum für Naturkunde Berlin. The bird in question was a male Jendaya parakeet (_Aratinga jandaya_) that had hatched on 13 June 2006 at Berlin Tierpark and had been sent from the Tierpark to the Berlin Natural History Museum after its death on 29 August 2020.[^1]
 
-As our project investigates how zoo animals become collection items in natural history museums, recording this transformation seemed key, since it is a large part of making animals into objects in zoological collections. In order to do this, we visited preparator Christin Scheinpflug in her workshop over several months to track her work on this bird.[^2] Once the preparation was done, we were also able to look over the shoulder of collection caretaker Pascal Eckhoff as he entered information about the study skin into the database and registered it, officially making it part of the Bird Collection. 
+As our project investigates how zoo animals become collection items in natural history museums, recording this transformation seemed key, since it is a large part of making animals into objects in zoological collections. In order to do this, we visited preparator Christin Scheinpflug in her workshop over several months to track her work on this bird.[^2] Once the preparation was done, we were also able to look over the shoulder of collection caretaker Pascal Eckhoff as he entered information about the study skin into the database and registered it, officially making it part of the bird collection. 
 
 Whether Tierpark and Zoo animals are sent to the Museum für Naturkunde depends on a number of issues, like what kind of animals they are, which species they represent, whether the collection already has specimens of that species in good conditions, and how rare the species is. How well-preserved an animal’s body is can also be crucial for deciding whether it will be prepared as a specimen, and how it will be stored at the Museum – whether as a skeleton or a study skin (with a partial skeleton) for the scientific collection, or as a taxidermy piece in the exhibition. 
 
@@ -48,7 +48,7 @@ In this case, the museum decided to prepare a study skin and a partial skeleton.
 
 The fact that an additional partial skeleton was preserved resulted from the decision to prepare a study skin. The preparation of study skins and partial skeletons, at least in ornithology, constitute a common preservation type. Because important parts of the skeleton like the skull and fibula are built into the skin, original parts must be used. The curator therefore has to decide whether they will produce a complete skeleton or a study skin with a partial skeleton before they begin the preparation process. In our case, the bird’s ribs had already been opened up during the first dissection to extract the organs, which didn’t take place at the museum. Moreover, some of the chest muscles had been removed. 
 
-After being dissected, the bird was immediately deep frozen and tagged with the letters “MFN“ (Museum für Naturkunde Berlin). Between its arrival at the museum from the dissection lab and its preparation, the bird was stored in the freezer of the museum’s preparation workshop – along with many other remains waiting to be prepared. The first step in the bird’s scientific preparation took place in the dissection room of the Natural History Museum, where the animal’s body was first thawed in a solution of salt and Supralan. After that, scientific data was collected, including data about the animal’s dimensions, accession number, date of arrival, and chip number.[^5] The preparator entered this information into a data sheet. 
+After being dissected, the bird was immediately deep frozen and tagged with the letters ‘MFN’ (Museum für Naturkunde Berlin). Between its arrival at the museum from the dissection lab and its preparation, the bird was stored in the freezer of the museum’s preparation workshop – along with many other remains waiting to be prepared. The first step in the bird’s scientific preparation took place in the dissection room of the Natural History Museum, where the animal’s body was first thawed in a solution of salt and Supralan. After that, scientific data was collected, including data about the animal’s dimensions, accession number, date of arrival, and chip number.[^5] The preparator entered this information into a data sheet. 
 
 <figure>
 
@@ -221,7 +221,7 @@ _Producing a partial skeleton inside a warming cabinet with the help of dermesti
 
 </figure>
 
-Afterwards, the skeleton was frozen once more (in order to kill any remaining beetles on or inside the bones), defatted, and bleached. It was then ready for the collection. We accompanied Christin Scheinpflug with the study skin, the partial skeleton, and the data sheet from the museum’s preparation workshops to the Bird Collection.
+Afterwards, the skeleton was frozen once more (in order to kill any remaining beetles on or inside the bones), defatted, and bleached. It was then ready for the collection. We accompanied Christin Scheinpflug with the study skin, the partial skeleton, and the data sheet from the museum’s preparation workshops to the bird collection.
 
 <figure>
 
@@ -235,7 +235,7 @@ _Study skins on their way into the collection (MfN, image: Mareike Vennen. All r
 
 </figure>
 
-There, collection caretaker Pascal Eckhoff entered the information from the data sheet into the digital collection database,[^10] where we saw that this animal was not the first specimen of _Aratinga jandaya_ in the museum’s Bird Collection. In 1895 and 1923, the collection had received two other specimens for its study skin collection. Moreover, the Ornithological Collection also contains other Jendaya parakeets preserved in alcohol as well as a skeleton. 
+There, collection caretaker Pascal Eckhoff entered the information from the data sheet into the digital collection database,[^10] where we saw that this animal was not the first specimen of _Aratinga jandaya_ in the museum’s bird collection. In 1895 and 1923, the collection had received two other specimens for its study skin collection. Moreover, the ornithological collection also contains other Jendaya parakeets preserved in alcohol as well as a skeleton. 
 
 <figure>
 
@@ -279,7 +279,7 @@ _Storing and classifying the partial skeleton in the collection. (MfN, image: Ma
 
 [^2]: The various preparation steps often do not take place all at once, but with interruptions, meaning that the process can stretch out over several weeks or months. We would like to thank Christin Scheinpflug for letting us take part in the process, for answering our numerous questions, and for providing us with all information needed. 
 
-[^3]: Unlike a taxidermy, a study skin has the feathers, beak, legs, and feet attached to it and is pulled over an artificial replica of the animal’s body. It can be stored in a drawer. In today’s scientific collections, study skins are the main type of specimen used. On working in and with the Bird Collection at the Berlin Museum of Natural History, see Frahnert, Silke, M. Päckert, D. T. Tietze, and T. Töpfer. “Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie”. _Vogelwarte_ 51, no. 3 (2013): 185–191. 
+[^3]: Unlike a taxidermy, a study skin has the feathers, beak, legs, and feet attached to it and is pulled over an artificial replica of the animal’s body. It can be stored in a drawer. In today’s scientific collections, study skins are the main type of specimen used. On working in and with the bird collection at the Berlin Museum of Natural History, see Frahnert, Silke, M. Päckert, D. T. Tietze, and T. Töpfer. “Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie”. _Vogelwarte_ 51, no. 3 (2013): 185–191. 
 
 [^4]: The torso skeleton is made up of the thoracic vertebrae, the ribs, the sternum, the furcula, the coracoid, the shoulder blades, the thigh, the lumbar vertebrae, the pelvis, and the caudal vertebrae. 
 
@@ -321,7 +321,7 @@ In diesem Fall entschied man sich für die Herstellung eines Vogelbalges und ein
 
 Dass hier zusätzlich ein Teilskelett angefertigt wurde, hing einerseits mit der Entscheidung für eine Balgpräparation zusammen. Balgpräparation und Teilskelettherstellung bilden zumindest in der Ornithologie eine Einheit. Da wichtige Skelettteile wie Schädel und Unterschenkel im Balg verbaut und somit Originalteile verwendet werden, muss sich der oder die Kustod:in vor der Präparation entweder für ein vollständiges Skelett oder einen Balg mit Teilskelett entscheiden. In diesem Fall waren dem Vogel bei der vorhergehenden Sektion bereits die Rippen geöffnet worden, um Organe zu entnehmen. Zusätzlich war ein Teil des Brustmuskels entfernt worden. 
 
-Nach der Sektion wurde der Vogel umgehend tiefgefroren und mit dem Vermerk “MFN” (Museum für Naturkunde Berlin) versehen. Vom Zeitpunkt der Überweisung aus der Sektion bis zur Präparation lagerte der Vogel im Tiefkühlschrank der Präparationswerkstatt des Museums. Der erste Schritt der wissenschaftlichen Präparation fand im Sektionsraum des Naturkundemuseums statt, wo der Tierkörper zunächst in einer Salz-Supralan-Lösung aufgetaut wurde. Anschließend wurden wissenschaftliche Daten zu dem Tier erhoben, darunter Körpermaße, Eingangsnummer, Eingangsdatum und Chipnummer.[^5] Diese Informationen übertrug die Präparatorin auf ein Datenblatt. 
+Nach der Sektion wurde der Vogel umgehend tiefgefroren und mit dem Vermerk ‘MFN’ (Museum für Naturkunde Berlin) versehen. Vom Zeitpunkt der Überweisung aus der Sektion bis zur Präparation lagerte der Vogel im Tiefkühlschrank der Präparationswerkstatt des Museums. Der erste Schritt der wissenschaftlichen Präparation fand im Sektionsraum des Naturkundemuseums statt, wo der Tierkörper zunächst in einer Salz-Supralan-Lösung aufgetaut wurde. Anschließend wurden wissenschaftliche Daten zu dem Tier erhoben, darunter Körpermaße, Eingangsnummer, Eingangsdatum und Chipnummer.[^5] Diese Informationen übertrug die Präparatorin auf ein Datenblatt. 
 
 <figure>
 
