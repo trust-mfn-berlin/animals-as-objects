@@ -7,7 +7,7 @@ short_desc_de: Geschichten, die uns Tierschädel erzählen
 date_end: ""
 published: false
 title: Purchased from a Caravan
-updated: 1642203133802
+updated: 1642203504478
 id: VzxTWqgWM3FzLdS5Z2DUO
 doi: 64y2-m311/58
 translators:
@@ -56,11 +56,11 @@ On top of that, the inscription offers important _historical_ insights into prac
 
 [[Inscriptions|material.labels-and-knowledge]] such as these thus offer insights into the colonial context of acquisition. They provide us with information that goes beyond taxonomical classification. In order to reconstruct the [[travels|theme.logistical-metabolisms]] of these skulls before they arrived in Berlin, we need to cross-reference the information in the objects and catalogues with other historical sources of the colonial archive, as well as with other material sources. In order to better understand natural history collections, then, provenance research is key.
 
-[^1]: For more on nomenclatural practices, see Ohl, Michael. _The Art of Naming_. Cambridge: MIT Press 2018. 
+[^1]: For more on nomenclatural practices, see Michael Ohl. _The Art of Naming_. Cambridge: MIT Press 2018. 
 
 [^2]: The inscription reads: “In Sansibar von einer aus dem Hinterlande von Lindi, Bez[irk] Lindi, D.O.A. [Deutsch Ost Afrika], kommenden Karawane gekauft. / Julius Reimer V. / Oscar Neumann S. / S[igmoceros] lichtensteinii”
 
-[^3]: Several research groups compare between materials from the fossil record as well as historical collections to draw more precise ideas on animal population distribution and its history, as an example see: Hempel, Elisabeth, Michael V. Westbury, José H. Grau, Alexandra Trinks, Johanna L.A. Paijmans, Sergei Kliver, Axel Barlow, Frieder Mayer, Johannes Müller, Lei Chen, Klaus-Peter Koepfli, Michael Hofreiter, and Faysal Bibi. “Diversity and Paleodemography of the Addax (Addax nasomaculatus), a Saharan Antelope on the Verge of Extinction”. _Genes_ 12, no. 8 (2021): 1236. https://doi.org/10.3390/genes12081236
+[^3]: Several research groups compare between materials from the fossil record as well as historical collections to draw more precise ideas on animal population distribution and its history, as an example see: Elisabeth Hempel et al. “Diversity and Paleodemography of the Addax (Addax nasomaculatus): A Saharan Antelope on the Verge of Extinction”. _Genes_ 12, no. 8 (2021): 1236. https://doi.org/10.3390/genes12081236
 
 
 :::DE:::
@@ -98,8 +98,8 @@ Darüber hinaus liefern die Beschriftungen wichtige _historische_ Einblicke in d
 
 [[Beschriftungen|material.labels-and-knowledge]] wie diese bieten uns Einblicke in den kolonialen Kontext der Beschaffung und Sammlung von Objekten. Sie liefern uns Hinweise über die bloße taxonomische Klassifikation hinaus. Um zu rekonstruieren, woher diese Schädel genau stammten und welche [[Wege|theme.logistical-metabolisms]] zurücklegten, ehe sie ins Museum für Naturkunde Berlin gelangten, müssen die auf den Objekten und im Katalog enthaltenen Informationen mit anderen historischen Quellen aus dem historischen Archiv sowie weiteren materiellen Quellen abgeglichen werden. Die Provenienzforschung ist ein zentraler Faktor für ein besseres Verständnis naturkundlicher Sammlungen.
 
-[^1]: Mehr über die nomenklatorische Praxis findet sich bei Ohl, Michael. _Die Kunst der Benennung_. Berlin: Matthes & Seitz 2015.
+[^1]: Mehr über die nomenklatorische Praxis findet sich bei Michael Ohl. _Die Kunst der Benennung_. Berlin: Matthes & Seitz 2015.
 
 [^2]: Die Beschriftung lautet: “In Sansibar von einer aus dem Hinterlande von Lindi, Bez[irk] Lindi, D.O.A. [Deutsch Ost Afrika], kommenden Karawane gekauft. / Julius Reimer V[erkauft]. / Oscar Neumann S[ammlung] / S[igmoceros] lichtensteinii”
 
-[^3]: Verschiedene Forschungsprojekte befassen sich mit dem Abgleich des (globalen) Fossilberichts mit historischen Sammlungen, um so Erkenntnisse über die Verbreitung von Tierarten in der Vergangenheit zu gewinnen. Siehe z.B.: Hempel, Elisabeth, Michael V. Westbury, José H. Grau, Alexandra Trinks, Johanna L.A. Paijmans, Sergei Kliver, Axel Barlow, Frieder Mayer, Johannes Müller, Lei Chen, Klaus-Peter Koepfli, Michael Hofreiter, und Faysal Bibi. “Diversity and Paleodemography of the Addax (Addax nasomaculatus), a Saharan Antelope on the Verge of Extinction”. _Genes_ 12, Nr. 8 (2021): 1236. https://doi.org/10.3390/genes12081236
+[^3]: Verschiedene Forschungsprojekte befassen sich mit dem Abgleich des (globalen) Fossilberichts mit historischen Sammlungen, um so Erkenntnisse über die Verbreitung von Tierarten in der Vergangenheit zu gewinnen. Siehe z.B.: Elisabeth Hempel et al. “Diversity and Paleodemography of the Addax (Addax nasomaculatus): A Saharan Antelope on the Verge of Extinction”. _Genes_ 12, Nr. 8 (2021): 1236. https://doi.org/10.3390/genes12081236
