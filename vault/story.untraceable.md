@@ -7,7 +7,7 @@ short_desc_de: "Verschollene Objekte und alte Kataloge "
 date_end: 2022-01-04T16:26:25.633Z
 published: false
 title: Untraceable
-updated: 1642177205828
+updated: 1642199487061
 id: abaNOPQjQqMhfMbhbhvm4
 doi: 64y2-m311/73
 translators:
@@ -31,7 +31,7 @@ date_start: 1843-12-31T23:50:39.000Z
  
 <figure>
 
-![A double page of an open notebook reveals handwritten entries for the month of August 1844 in a hand-drawn table. ](/images/Zool-Mus-SI-Verwaltungsakten-Tagebuch-Beyer-1844-10.jpg) 
+![A double page of an open notebook reveals handwritten entries for the month of August 1844 in a hand-drawn table. ](/images/Zool-Mus-SI-Verwaltungsakten-Tagebuch-Beyer-1844-10.png) 
 
 <figcaption>
 
@@ -95,7 +95,7 @@ The “young caiman” whose whereabouts remain unknown will stay one of the col
  
 <figure>
 
-![Die Doppelseite eines aufgeschlagenen Notizbuchs zeigt handschriftliche Einträge in einer gezeichneten Tabelleneinteilung für den Monat August im Jahr 1844. ](/images/Zool-Mus-SI-Verwaltungsakten-Tagebuch-Beyer-1844-10.jpg)  
+![Die Doppelseite eines aufgeschlagenen Notizbuchs zeigt handschriftliche Einträge in einer gezeichneten Tabelleneinteilung für den Monat August im Jahr 1844. ](/images/Zool-Mus-SI-Verwaltungsakten-Tagebuch-Beyer-1844-10.png)  
 
 <figcaption>
 
@@ -138,7 +138,7 @@ In einem Katalog überlagern sich somit mehrere Zeitschichten – und häufig un
 Der “junge Caiman”, über dessen Verbleib wir nichts wissen, bleibt vorerst ein verschollenes Objekt der Sammlung. Dennoch hat die Suche nach ihm und seine Abwesenheit mir neue Erkenntnisse eingebracht, wenn auch andere als gedacht. Der Blick hat sich verschoben, von der Geschichte des Tieres zur Geschichte der naturkundlichen Katalogisierung und der Praxis musealer Sammlungsarbeit. Das führt nicht nur zu der Frage, welche Auswirkungen eine lückenhafte historische Überlieferung für die heutige Arbeit mit Sammlungen hat und wie das Wissen über die Katalogisierungssysteme gespeichert und weitergegeben werden kann. Das lenkt zugleich das Augenmerk darauf, wie wir die Geschichte abwesender Objekte schreiben und sie als Teil der Geschichte des Sammelns sichtbar machen können. Wie viele verschollene und (noch) nicht erfasste Tiere lagern in Museumssammlungen? Die Frage stellt sich vor allem angesichts der massiven Sammelaktivitäten während der Kolonialzeit. Es fällt schwer, konkrete Zahlen für eine Sammlung zu benennen, wenn längst noch nicht alle Tiere erfasst sind, und dadurch fällt es schwer, ein umfassendes Bild ihrer Bestände zu erhalten – woher sie stammen und unter welchen Umständen sie gesammelt, verschickt und in Berlin genutzt wurden. Naturkundemuseen beginnen gerade vielerorts verstärkt, sich mit ihren kolonialen Sammelbeständen auseinanderzusetzen. Dazu gehört auch, Ressourcen für die Bestandserfassung zu mobilisieren und Ressourcen für historische Forschungen, die Erwerbsgeschichten, Sammelumstände und Sammlungsgeschichte aufzuarbeiten. Dadurch erlangen auch Tiere wie der “junge Caiman”, die vielleicht nie das Museum erreichten, dort (noch) nicht beschrieben wurden oder in der Sammlung auf die ein oder andere Art verloren gingen, oder zwar verzeichnet aber unauffindbar sind, innerhalb der Geschichte kolonialen Sammelns Gewicht und werden als Teil der Sammlungsgeschichte sichtbar.
  
 
-[^1]: Das Zoologische Museum, das den Grundstock des heutigen Naturkundemuseums bildet, gehörte zur Berliner Friedrich-Wilhelms-Universität.
+[^1]: Das Zoologische Museum, das den Grundstock des heutigen Museums für Naturkunde Berlin bildet, gehörte zur Berliner Friedrich-Wilhelms-Universität.
 
 [^2]: Der erste nicht numerische Inventarkatalog des Zoologischen Museums, der noch taxonomisch geordnet wurde, wurde zwischen 1824 und 1830 (vermutlich vom damaligen Museumsdirektor Lichtenstein) angelegt. Der erste numerische Inventarkatalog des Museums wurde ca. 1856 von Lichtenstein begonnen und kurz danach von Wilhelm Peters weitergeführt.
 
