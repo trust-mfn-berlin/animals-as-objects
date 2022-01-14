@@ -7,7 +7,7 @@ short_desc_de: Mikroskopisch kleine einzellige Organismen, die in den Ozeanen le
 date_end: ""
 published: false
 title: Radiolaria
-updated: 1642118107515
+updated: 1642165087329
 id: 947c29be-240a-4adb-93c7-9026f80aaa89
 doi: 64y2-m311/6
 translators:
@@ -67,6 +67,6 @@ Radiolarien sind einzellige Mikroorganismen, die aus einem weichen, amöbenähnl
 
 Darüber hinaus haben sie mit ihren Tests – ihren komplexen, filigranen, geometrischen und transparenten Skelettstrukturen – nicht nur das Interesse von Wissenschaftler:innen geweckt, sondern auch die Fantasie von Künstler:innen, Architekt:innen und Mathematiker:innen angeregt. Radiolarien waren die erste mikrobielle Gruppe, die der deutsche Naturforscher Erst Haeckel systematisierte, indem er ihre sich verändernden geometrischen Formen im Fossilbericht zurückverfolgte, um evolutionäre Veränderungen zu rekonstruieren.
 
-**Aufgrund ihrer geringen Größe, ihrer Widerstandsfähigkeit, Häufigkeit und Vielfalt wurden Radiolarien vor allem ab den 1950er Jahren häufig für geologische und ozeanographische Untersuchungen genutzt: Ihr beeindruckender Fossilbericht (der bis ins Kambrium, vor 500 Millionen Jahren, zurückreicht) macht sie zu wichtigen diagnostischen Fossilien.** Als solche werden sie in der [[material.biostratigraphy]] für die chronologische Bestimmung geologischer Schichten verwendet. Spezielle Arten können wichtige Umweltdaten liefern und werden in den Planetenwissenschaften als Proxy-Indikatoren und Marker für vergangene klimatologische Bedingungen verwendet, wie im Fall von [[story.cycladophora-davisiana]]. Außerdem können sie dank ihrer geringen Größe leicht aus dem schmalen Schnitt eines geologischen Bohrers entnommen und analysiert werden, was ihre Nutzung einfach, billig und effizient macht. **Aus diesen Gründen sind Radiolarien nicht nur in der Paläoklimatologie und der Paläozeanographie von zentraler Bedeutung, sondern auch in der angewandten Geologie. Sie werden beispielsweise im großen Stil für die Prospektion [[fossiler Brennstoffe|material.fossil-fuels]] und in der Rohstoffindustrie allgemein genutzt.**
+**Aufgrund ihrer geringen Größe, ihrer Widerstandsfähigkeit, Häufigkeit und Vielfalt wurden Radiolarien vor allem ab den 1950er Jahren häufig für geologische und ozeanographische Untersuchungen genutzt: Ihr beeindruckender Fossilbericht (der bis ins Kambrium, vor 500 Millionen Jahren, zurückreicht) macht sie zu wichtigen diagnostischen Fossilien.** Als solche werden sie in der [[material.biostratigraphy]] für die chronologische Bestimmung geologischer Schichten verwendet. Spezielle Arten können wichtige Umweltdaten liefern und werden in den Planetenwissenschaften als Proxy-Indikatoren und Marker für vergangene klimatologische Bedingungen verwendet, wie im Fall von [[story.cycladophora-davisiana]]. Außerdem können sie dank ihrer geringen Größe leicht aus dem schmalen Schnitt eines geologischen Bohrers entnommen und analysiert werden, was ihre Nutzung einfach, billig und effizient macht. **Aus diesen Gründen sind Radiolarien nicht nur in der Paläoklimatologie und der Paläozeanografie von zentraler Bedeutung, sondern auch in der angewandten Geologie. Sie werden beispielsweise im großen Stil für die Prospektion [[fossiler Brennstoffe|material.fossil-fuels]] und in der Rohstoffindustrie allgemein genutzt.**
 
 

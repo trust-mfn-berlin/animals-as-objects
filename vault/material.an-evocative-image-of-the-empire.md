@@ -7,7 +7,7 @@ short_desc_de: Die Zurschaustellung wilder Tiere als koloniale Aneignung
 date_end: ""
 published: false
 title: An “Atmospheric Image” of the Empire
-updated: 1642117995031
+updated: 1642165301004
 id: ZDxo1U9ptEVRJhmFpVKyC
 doi: 64y2-m311/74
 translators:
@@ -75,7 +75,7 @@ This strategy to combine a hunting exhibition with a colonial exhibition continu
 
 <figcaption>
 
-_Foto des 1903 erstellten_ Offiziellen Katalogs der Deutsch-Kolonialen Jagdausstellung _(Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 62/63), das ethnographische Objekte und Tiertrophäen unmittelbar nebeneinander zeigt._
+_Foto des 1903 erstellten_ Offiziellen Katalogs der Deutsch-Kolonialen Jagdausstellung _(Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 62/63), das ethnografische Objekte und Tiertrophäen unmittelbar nebeneinander zeigt._
 
 </figcaption>
 
@@ -83,7 +83,7 @@ _Foto des 1903 erstellten_ Offiziellen Katalogs der Deutsch-Kolonialen Jagdausst
 
 Dieses Foto zeigt den Raum des Kolonialwaren-Handelshauses Karl Eisengräber in der Deutsch-Kolonialen Jagdausstellung von 1903. Es bezeugt nicht nur die komplexe Bildersprache, die die Kolonialpolitik der europäischen Großmächte im 19. Jahrhundert begleitete, sondern liefert uns auch Hinweise auf die Rolle von Tieren in diesem Zusammenhang.
 
-Organisiert wurde die Ausstellung von der Deutschen Kolonialgesellschaft, die wiederum 1887 mit dem Ziel gegründet worden war, die weitere Erkundung Ostafrikas voranzutreiben und die deutsche Kolonialpolitik zu stärken, sowie den “kolonialen Gedanken” in der deutschen Gesellschaft im Allgemeinen zu verbreiten.[^1] Im Jahr 1902 veranstaltete die Gesellschaft ihren ersten Kolonialkongress in Berlin, dem 1903 die Jagdausstellung in Karlsruhe folgte. Wie auch in den übrigen Teilen der Ausstellung wurden in diesem Foto die Tiere an den Wänden des Ausstellungsraums als Jagdtrophäen dargestellt. Was dieses Bild so besonders macht, ist, dass die Schädel von Büffeln, Nashörnern, Elefanten und Antilopen direkt neben Kolonialwaren ausgestellt sind: die Produkte der kolonialen Landwirtschaft wie Kaffee, Kakao, Vanille und Erdnussöl. Diese “Rohwaren” waren direkt neben handgefertigten Gegenständen zu sehen, wobei alles von den “deutschen Suahelis” erworben werden konnte, auch um das Publikum von der Qualität und Authentizität der Produkte und des Handwerks zu überzeugen.[^2] Dem Katalog zufolge wurden der Jagdausstellung ethnographische Sammlungen hinzugefügt, um “ein möglichst stimmungsvolles Bild” der deutschen Kolonialgebiete als Ganzes zu präsentieren.[^3] Auf diese Weise wurde die Großwildjagd visuell mit natürlichen Ressourcen und den expandierenden kolonialen Märkten assoziiert, wobei die Ausstellung insgesamt eine Verbindung zwischen Jagdexpeditionen, kolonialen Waren und Handwerksprodukten und wirtschaftlichem Gewinn nahelegte.
+Organisiert wurde die Ausstellung von der Deutschen Kolonialgesellschaft, die wiederum 1887 mit dem Ziel gegründet worden war, die weitere Erkundung Ostafrikas voranzutreiben und die deutsche Kolonialpolitik zu stärken, sowie den “kolonialen Gedanken” in der deutschen Gesellschaft im Allgemeinen zu verbreiten.[^1] Im Jahr 1902 veranstaltete die Gesellschaft ihren ersten Kolonialkongress in Berlin, dem 1903 die Jagdausstellung in Karlsruhe folgte. Wie auch in den übrigen Teilen der Ausstellung wurden in diesem Foto die Tiere an den Wänden des Ausstellungsraums als Jagdtrophäen dargestellt. Was dieses Bild so besonders macht, ist, dass die Schädel von Büffeln, Nashörnern, Elefanten und Antilopen direkt neben Kolonialwaren ausgestellt sind: die Produkte der kolonialen Landwirtschaft wie Kaffee, Kakao, Vanille und Erdnussöl. Diese “Rohwaren” waren direkt neben handgefertigten Gegenständen zu sehen, wobei alles von den “deutschen Suahelis” erworben werden konnte, auch um das Publikum von der Qualität und Authentizität der Produkte und des Handwerks zu überzeugen.[^2] Dem Katalog zufolge wurden der Jagdausstellung ethnografische Sammlungen hinzugefügt, um “ein möglichst stimmungsvolles Bild” der deutschen Kolonialgebiete als Ganzes zu präsentieren.[^3] Auf diese Weise wurde die Großwildjagd visuell mit natürlichen Ressourcen und den expandierenden kolonialen Märkten assoziiert, wobei die Ausstellung insgesamt eine Verbindung zwischen Jagdexpeditionen, kolonialen Waren und Handwerksprodukten und wirtschaftlichem Gewinn nahelegte.
 
 <figure>
 

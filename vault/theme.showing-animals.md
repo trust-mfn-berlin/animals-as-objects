@@ -7,7 +7,7 @@ short_desc_de: Wie und warum stellen Zoos Tiere aus?
 date_end: 2021-08-27T23:01:33.091Z
 published: false
 title: Putting Animals on Display
-updated: 1642156574463
+updated: 1642164396726
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 doi: 64y2-m311/28
 translators:
@@ -334,7 +334,7 @@ _Das Antilopenhaus im Berliner Zoo um 1920. (AZGB. Alle Rechte vorbehalten.)_
 
 </figure>
 
-Der Paragraph 42 des Bundesnaturschutzgesetzes (BNatSchG) definiert Zoos als
+Der Paragraf 42 des Bundesnaturschutzgesetzes (BNatSchG) definiert Zoos als
 
 >“dauerhafte Einrichtungen, in denen lebende Tiere wild lebender Arten zwecks Zurschaustellung während eines Zeitraumes von mindestens sieben Tagen im Jahr gehalten werden”.
 

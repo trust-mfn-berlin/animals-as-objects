@@ -3,7 +3,7 @@ title: Über uns
 ---
 ## Über diese Website
 
-_Tiere als Objekte?_ ist eine Publikation des Forschungsprojekts [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte). Diese Website macht unsere Forschungsergebnisse zu ausgewählten Objekten, Geschichten und Tierarten für eine deutsch- und englischsprachige Öffentlichkeit zugänglich. Wir bieten historische, archivarische und ethnographische Antworten auf die Frage an, wie Tiere zu naturhistorischen Objekten und Daten gemacht wurden.
+_Tiere als Objekte?_ ist eine Publikation des Forschungsprojekts [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte). Diese Website macht unsere Forschungsergebnisse zu ausgewählten Objekten, Geschichten und Tierarten für eine deutsch- und englischsprachige Öffentlichkeit zugänglich. Wir bieten historische, archivarische und ethnografische Antworten auf die Frage an, wie Tiere zu naturhistorischen Objekten und Daten gemacht wurden.
 
 Relationale Datenbanken, genau die Datenbanken, die häufig zur Erfassung und Verwaltung von naturkundlichen Sammlungen verwendet werden, dienten als Ausgangspunkt für die konzeptionelle und visuelle Gestaltung. Es gibt drei verschiedene Arten von Artikeln:
 
