@@ -7,7 +7,7 @@ short_desc_de: Pfeilschwanzkrebse in der Sammlung und im Labor
 date_end: ""
 published: false
 title: The Worlds We Make
-updated: 1641158017844
+updated: 1642118555454
 id: 4npaIbpRAHygxSlfFDrj3
 doi: 64y2-m311/51
 translators:
@@ -194,7 +194,7 @@ Here, the dynamics of taxonomic knowledge become visible, revealing that the [[t
 
 The same applies to museum exhibitions, where knowledge was spatially organised according to a systematic taxonomic concept. While horseshoe crabs were displayed in the crustacean department in the 19th century, they joined the arachnids in the 20th century. On the Biodiversity Wall at the Berlin Museum of Natural History – a four-metre high and twelve-metre long installation that displays around 3,000 animals from all kinds of habitats – you will now find horseshoe crabs alongside scorpions and spiders.
 
-Science has not just redefined the horseshoe crab within the taxonomic order: the way it has moved through spaces of knowledge and collection spaces has changed what the animal was and what it is. In this sense, museum collections, and the research that takes place within them, are also sites of world-making that reorganize nature.
+Science has not just redefined the horseshoe crab within the taxonomic order: the way it has moved through spaces of knowledge and collection spaces has changed what the animal was and what it is. In this sense, museum collections, and the research that takes place within them, are also sites of world-making that reorganise nature.
 
 ## From the Ocean to the Laboratory: Biomedical Histories 
 

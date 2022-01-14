@@ -49,7 +49,7 @@ When this website is accessed, data relevant for data protection and data securi
 
 The stored data is used exclusively for the purpose of identification and tracking of unauthorised access attempts or access to the web server as well as for general statistical evaluations (with on-premise Matomo, see 5.3 Web Analytics). No profiles of individual users will be generated. Log files are deleted after 14 days.
 
-In addition, fully anonymized data on consecutively visited pages is used to display a user’s own personal history during one browsing session. They are also used to weigh the strength of connections between internally linked subpages, displaying them on the website (see 5.4 User routes). The personal data of individuals concerned is processed within the scope of contract processing in accordance with GDPR Art. 28 by Trust/Arthur Baer, Kluckstr. 25, 10785 Berlin, Germany, or authorized sub-contractors.
+In addition, fully anonymised data on consecutively visited pages is used to display a user’s own personal history during one browsing session. They are also used to weigh the strength of connections between internally linked subpages, displaying them on the website (see 5.4 User routes). The personal data of individuals concerned is processed within the scope of contract processing in accordance with GDPR Art. 28 by Trust/Arthur Baer, Kluckstr. 25, 10785 Berlin, Germany, or authorised sub-contractors.
 
 ### 5.2 Cookies
 
@@ -87,7 +87,7 @@ To collect information about pages visited consecutively, the website will creat
 
 During that time, all pages of the website visited from that device and browser will be anonymously and separately from the logfiles on the Hetzner server. During that time, the user will see their own personal browsing history of the website displayed as a list of consecutively visited pages ("route"). When you return after the expiration of the cookie, a new anonymous unique session identifier will be created. There will be no connection between the data on separate browsing sessions. Users can only see their own current route on the website, neither previous ones, nor those of any other users.
 
-The anonymised data will be kept until the end of the operating time of the website, 31 December 2023. The personal data of individuals concerned is processed within the scope of contract processing in accordance with GDPR Art. 28 by Trust/Arthur Baer, Kluckstr. 25, 10785 Berlin, Germany, or authorized sub-contractors.
+The anonymised data will be kept until the end of the operating time of the website, 31 December 2023. The personal data of individuals concerned is processed within the scope of contract processing in accordance with GDPR Art. 28 by Trust/Arthur Baer, Kluckstr. 25, 10785 Berlin, Germany, or authorised sub-contractors.
 
 Meta-information derived from this data (i.e. what page has been most or least frequently visited after another page) will be kept indefinitely. On the website itself, the meta-information will be used to display which pages have been most and least frequently visited from any particular page. All users see the same recommendations at any given point in time.
 

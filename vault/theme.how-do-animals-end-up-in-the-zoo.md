@@ -7,7 +7,7 @@ short_desc_de: Politische, logistische und moralische Herausforderungen
 date_end: ""
 published: false
 title: How Do Animals End Up in the Zoo?
-updated: 1642091296341
+updated: 1642118855830
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 doi: 64y2-m311/14
 translators:
@@ -48,7 +48,7 @@ _The hippos “Knautschke” (bottom), the young animal “Jette” (middle) and
 
 </figure>
 
-How do animals actually get to the zoo? Visitors to an animal park or zoo probably rarely ask themselves this question. Yet the animals on display are usually the reason for the visit and are also the founding premise of the zoo as an institution. Historically, zoos themselves have not routinely specified the sources of their animals. The animal itself, not its original habitat, has often been the point of focus. **Sometimes, however, the origin of the animal was integral to the fundamental idea behind the exhibition. For example, at the end of the 19th century and in the 1930s, when animals from the (former) German colonies were explicitly labelled or marketed as such**, or when back-breeding attempts of extinct animals were intended to enhance the reputation of a zoo director. Today, zoos are keen to emphasize the origins of animals from international breeding programmes as a form of progress and as part of their species conservation efforts. But where did and do zoo animals actually come from?
+How do animals actually get to the zoo? Visitors to an animal park or zoo probably rarely ask themselves this question. Yet the animals on display are usually the reason for the visit and are also the founding premise of the zoo as an institution. Historically, zoos themselves have not routinely specified the sources of their animals. The animal itself, not its original habitat, has often been the point of focus. **Sometimes, however, the origin of the animal was integral to the fundamental idea behind the exhibition. For example, at the end of the 19th century and in the 1930s, when animals from the (former) German colonies were explicitly labelled or marketed as such**, or when back-breeding attempts of extinct animals were intended to enhance the reputation of a zoo director. Today, zoos are keen to emphasise the origins of animals from international breeding programmes as a form of progress and as part of their species conservation efforts. But where did and do zoo animals actually come from?
 
 To the present day, the provenance of zoo animals varies widely. Sometimes they arrive at the institutions through accidental circumstances as gifts or casual purchases, sometimes as a result of long-term groundwork. Their paths there always reflect geopolitical, economic and scientific dynamics. Some means of acquiring animals developed relatively late in the more than 250-year-long history of “modern” zoos. There are also some sources of animals that have consistently played an important role. It is thus a matter of both change and continuity.
 

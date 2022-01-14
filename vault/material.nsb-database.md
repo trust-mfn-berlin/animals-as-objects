@@ -7,7 +7,7 @@ short_desc_de: Eine umfangreiche Datenbank mikropaläontologischer Proben und Da
 date_end: 2021-12-07T18:44:00.147Z
 published: false
 title: NSB Database
-updated: 1642007826426
+updated: 1642118089038
 id: 384f2259-ec40-482d-bacc-c0876ae280aa
 doi: 64y2-m311/38
 translators:
@@ -33,7 +33,7 @@ date_start: 1989-01-01T18:39:00.000Z
 
 <figcaption>
 
-_This graph illustrates the architecture of the NSB relational database: the taxonomic lists of different species provides the backbone, and is related in turn to the paleontological data, the metadata about sample and dataset, and data on the stratigraphic layer. This allows us to visualize the connections between data that constitute the database and make it a useful tool beyond micropaleontology._
+_This graph illustrates the architecture of the NSB relational database: the taxonomic lists of different species provides the backbone, and is related in turn to the paleontological data, the metadata about sample and dataset, and data on the stratigraphic layer. This allows us to visualise the connections between data that constitute the database and make it a useful tool beyond micropaleontology._
 
 </figcaption>
 

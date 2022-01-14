@@ -7,7 +7,7 @@ short_desc_de: Tierkinderzoo mit Raubtieren
 date_end: 1939-12-24T15:14:00.000Z
 published: false
 title: Face to Face with Zoo Animals
-updated: 1641568021895
+updated: 1642118003286
 id: U1w3ckwyrdpQ2JzOLgTKo
 doi: 64y2-m311/54
 translators:
@@ -38,7 +38,7 @@ _Picture from Berlin’s baby animal zoo around 1933. (AZGB. All rights reserved
 
 A cheetah surrounded by young goats, lambs, and piglets? An unusual sight. This photo from Berlin Zoo shows a phenomenon that no longer exists but that was extremely popular in the 1930s: the baby animal zoo, “Tierkinderzoo”. Its successor, the petting zoo, can still be found in many zoos today. But does anyone today know that bear and lion cubs used to be kept there, too?
  
-In summer 1931, the zoo organized its first special show with juvenile animals. What made it so special was that the fenced-in facility, which visitors had to pay entry to visit, was occupied not just by the juveniles of native domestic breeds but also by little predators from Europe and Africa that visitors could feed, pat, pull onto their laps, and [[even bottle feed|story.photos-with-lion-cubs]]. 
+In summer 1931, the zoo organised its first special show with juvenile animals. What made it so special was that the fenced-in facility, which visitors had to pay entry to visit, was occupied not just by the juveniles of native domestic breeds but also by little predators from Europe and Africa that visitors could feed, pat, pull onto their laps, and [[even bottle feed|story.photos-with-lion-cubs]]. 
  
 <figure>
 

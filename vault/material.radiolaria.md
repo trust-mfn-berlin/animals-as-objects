@@ -7,7 +7,7 @@ short_desc_de: Mikroskopisch kleine einzellige Organismen, die in den Ozeanen le
 date_end: ""
 published: false
 title: Radiolaria
-updated: 1640907313240
+updated: 1642118107515
 id: 947c29be-240a-4adb-93c7-9026f80aaa89
 doi: 64y2-m311/6
 translators:
@@ -40,7 +40,7 @@ _Radiolaria on plate 59 from Ernst Haeckel’s report about the H.M.S. Challenge
 
 </figure>
 
-Radiolarians are unicellular microorganisms constituted by a soft, amoeba-like body with an often elaborate siliceous skeleton resembling a shell, called test. As heterotrophs, they primarily feed on other microscopic organisms drifting around them; but most radiolarians have photosynthetic endosymbionts – microscopic organisms embedded in the radiolarian organism who transform light into energy that the radiolarian can then use. Once the cell dies, their hard siliceous tests sink to the bottom, covering the ocean floor with a siliceous ooze. **Thanks to their structure and composition, these remains can survive and become fossilized, as they get trapped in sediments and geological strata. Because of this process, the microfossils of radiolarian tests can be found in various types of geological formations and can provide an important and often readily accessible fossil record.** In fact, to this day a vast majority of radiolarian studies focus on the [[micropaleontological formations|story.micropaleontological-formations]] of these organisms – also because, as oceanic life forms entangled in symbiotic relations and with a complex reproductive stage, radiolarians have proven difficult to culture in the lab.
+Radiolarians are unicellular microorganisms constituted by a soft, amoeba-like body with an often elaborate siliceous skeleton resembling a shell, called test. As heterotrophs, they primarily feed on other microscopic organisms drifting around them; but most radiolarians have photosynthetic endosymbionts – microscopic organisms embedded in the radiolarian organism who transform light into energy that the radiolarian can then use. Once the cell dies, their hard siliceous tests sink to the bottom, covering the ocean floor with a siliceous ooze. **Thanks to their structure and composition, these remains can survive and become fossilised, as they get trapped in sediments and geological strata. Because of this process, the microfossils of radiolarian tests can be found in various types of geological formations and can provide an important and often readily accessible fossil record.** In fact, to this day a vast majority of radiolarian studies focus on the [[micropaleontological formations|story.micropaleontological-formations]] of these organisms – also because, as oceanic life forms entangled in symbiotic relations and with a complex reproductive stage, radiolarians have proven difficult to culture in the lab.
 
 In addition, their tests, with their complex, delicate, and geometrical translucent structures, have captured not only scientists’ interest, but also the imagination of artists, architects, and mathematicians. Tracing the transformations of their geometries in the fossil record, radiolarians have been one of the first microbial groups to be organised in a natural system that attempted to see evolutionary change in their diversity of forms by German naturalist Ernst Haeckel.
 

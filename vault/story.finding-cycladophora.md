@@ -7,7 +7,7 @@ short_desc_de: Von Telegrafen zu Proben
 date_end: 1859-12-31T11:06:32.000Z
 published: false
 title: Finding Cycladophora
-updated: 1642114180621
+updated: 1642119062888
 id: 4kJJB2pX-g7lq6q7GUt0W
 doi: 64y2-m311/11
 translators:
@@ -64,7 +64,7 @@ This story is merely a marginal episode in the 19th century history of how the p
 
 [^4]: More about the connections between 19th century telegraphy and contemporary submarine cables and infrastructure, see “The Cables That Connect Our World”. _London Science Museum_, no date, https://www.sciencemuseum.org.uk/cables-connect-our-world (03.01.2022); Sean Trainer. “What the Digital Age Owes to the Inventor of Morse Code”. _TIME_, 27.04.2016, https://time.com/4307892/samuel-morse-telegraph-history/ (03.01.2022). 
 
-[^5]: But the impact of telegraphy didn’t stop at that. Importantly, the conjunction of the telegraph and the railroad was instrumental in the standardization of time, which still regulates our rhythms. See London Science Museum, “Standardising Time: Railways and the Electric Telegraph”, 4.10.2018, https://www.sciencemuseum.org.uk/objects-and-stories/standardising-time-railways-and-electric-telegraph (03.01.2022).
+[^5]: But the impact of telegraphy didn’t stop at that. Importantly, the conjunction of the telegraph and the railroad was instrumental in the standardisation of time, which still regulates our rhythms. See London Science Museum, “Standardising Time: Railways and the Electric Telegraph”, 4.10.2018, https://www.sciencemuseum.org.uk/objects-and-stories/standardising-time-railways-and-electric-telegraph (03.01.2022).
 
 [^6]: More about the incredibly consequential life of Werner Siemens in Johannes Bähr. _Werner von Siemens_. Berlin: Siemens Historical Institute, 2016. https://assets.new.siemens.com/siemens/assets/public.1506341669.aa87da6d048c9a60c037d5771ceded36576c39a5.085-shi-communication-lifelines-5-werner-von-siemens-2016-web-e.pdf (03.01.2022).
 
