@@ -7,7 +7,7 @@ short_desc_de: Ausstellen oder schützen?
 date_end: 2021-12-30T23:00:00.000Z
 published: false
 title: Zoos and Conservation
-updated: 1642173571975
+updated: 1642173927807
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 doi: 64y2-m311/75
 desc: Since only a relatively short time zoos intensify their conservation efforts.
@@ -133,16 +133,16 @@ _Bild von der Auswilderung eines Wisents in der Schorfheide, vermutlich 1938. (A
 
 Der Erfolg dieser frühen Erhaltungszuchten animierte die Leitungen internationaler Zoos zur Einführung weiterer Zuchtbücher – just in der Zeit, als Dathe, Klös und Grzimek über die beste Strategie zur Erhaltung des Orang-Utans stritten. Auf der Sitzung des Internationalen Verbands der Zoodirektoren, dem Vorgänger der World Association of Zoos and Aquariums, in Colombo 1966 verpflichteten sich weitere Zoos zur Führung von Zuchtbüchern für gefährdete Arten. Folgende Zoos übernahmen beispielsweise die Führung von Zuchtbüchern:
 
-* Antwerpen für Okapis und Bonobos,
-* Basel für das Panzernashorn und Zwergflusspferde,
-* Zoo Berlin für Spitz- und Breitmaulnashörner,
-* Tierpark Berlin für Wildesel,
-* Colombo für den Schwarzschnabelstorch,
-* Frankfurt für Gorillas,
-* Paris für Leierhirsche,
-* Prag verpflichtete sich, das Zuchtbuch für das Przewalskipferd und gefährdete Unterarten des Tigers zu übernehmen,
-* San Diego übernahm das Zuchtbuch für die Mendesantilope,
-* und Washington übernahm das Zuchtbuch für den Orang-Utan.[^17]
+- Antwerpen für Okapis und Bonobos,
+- Basel für das Panzernashorn und Zwergflusspferde,
+- Zoo Berlin für Spitz- und Breitmaulnashörner,
+- Tierpark Berlin für Wildesel,
+- Colombo für den Schwarzschnabelstorch,
+- Frankfurt für Gorillas,
+- Paris für Leierhirsche,
+- Prag verpflichtete sich, das Zuchtbuch für das Przewalskipferd und gefährdete Unterarten des Tigers zu übernehmen,
+- San Diego übernahm das Zuchtbuch für die Mendesantilope,
+- und Washington übernahm das Zuchtbuch für den Orang-Utan.[^17]
 
 Die Gründe für die Auswahl lassen sich aus den Quellen im Einzelnen nicht mehr rekonstruieren, es ist aber anzunehmen, dass die betreffenden Zoos in der Regel eine längere und aus Sicht des Verbandes erfolgreiche Geschichte der Haltung und Zucht der jeweiligen Tierarten vorzuweisen hatten.
 
@@ -161,7 +161,7 @@ Es ist offensichtlich, dass sich eine Lesart des Artenschutzes durchsetzte, die 
 
 Dieser Ansatz war und ist unter Zoos in Deutschland und der Welt anschlussfähig und wird seit einigen Jahren auch durch digitalen Datenaustausch über die Plattform [[material.species360]] unterstützt. Die über viele Jahrzehnte gedruckten Zuchtbücher wurden somit abgelöst. Die meisten Nachzucht- oder Erhaltungszuchtprogramme in europäischen Zoos werden seit einigen Jahrzehnten im Rahmen des europäischen Zooverbandes (European Association of Zoos and Aquariums/ EAZA) als sogenannte EEPs (EAZA Ex-situ Program – also Zuchtprogramme in menschlicher Obhut) organisiert.
 
-Ganz freiwillig war diese Umstellung allerdings nicht: 1973 trat nach Jahren der Vorbereitung und verschiedener Entwurfsvorlagen das sogenannte Washingtoner Artenschutzabkommen in Kraft. Es verbietet oder reguliert den Handel mit gefährdeten Arten, sofern sie in einem der regelmäßig überarbeiteten Anhänge des Abkommens aufgeführt sind. Das Abkommen beendete quasi den bis dahin florierenden internationalen, kommerziellen [[Großhandel mit Zootieren|vault/story.catching-animals]]. Während nicht geschützte Vögel und Wasserfauna weiterhin gehandelt werden konnten, galt (und gilt) dies für Säugetiere und insbesondere große Spezies weitgehend nicht mehr. Welche Auswirkungen das Artenschutzabkommen haben würde, machte der Rotterdamer Zoodirektor Dick van Dam auf der Jahreskonferenz 1980 des internationalen Verbandes der Zoodirektoren in seinem Vortrag “The Future of Zoological Gardens” deutlich. Van Dam forderte die Zoos weltweit auf, die Zucht bedrohter Tierarten zu einer ihrer zentralen Aufgaben zu machen, da die finanziellen und legalen Schwierigkeiten beim Erwerb von Wildfängen zu groß geworden seien. Nur durch Zucht könnten Zoos fortan die Attraktivität der eigenen Sammlung sichern.[^19] 1993 bestätigte der Kölner Zoodirektor Gunther Nogge, dass sich Zoos nach dem Washingtoner Artenschutzabkommen viel stärker auf die Zucht konzentrierten, da sie zu “Selbstversorgern” werden mussten.[^20]
+Ganz freiwillig war diese Umstellung allerdings nicht: 1973 trat nach Jahren der Vorbereitung und verschiedener Entwurfsvorlagen das sogenannte Washingtoner Artenschutzabkommen in Kraft. Es verbietet oder reguliert den Handel mit gefährdeten Arten, sofern sie in einem der regelmäßig überarbeiteten Anhänge des Abkommens aufgeführt sind. Das Abkommen beendete quasi den bis dahin florierenden internationalen, kommerziellen [[Großhandel mit Zootieren|story.catching-animals]]. Während nicht geschützte Vögel und Wasserfauna weiterhin gehandelt werden konnten, galt (und gilt) dies für Säugetiere und insbesondere große Spezies weitgehend nicht mehr. Welche Auswirkungen das Artenschutzabkommen haben würde, machte der Rotterdamer Zoodirektor Dick van Dam auf der Jahreskonferenz 1980 des internationalen Verbandes der Zoodirektoren in seinem Vortrag “The Future of Zoological Gardens” deutlich. Van Dam forderte die Zoos weltweit auf, die Zucht bedrohter Tierarten zu einer ihrer zentralen Aufgaben zu machen, da die finanziellen und legalen Schwierigkeiten beim Erwerb von Wildfängen zu groß geworden seien. Nur durch Zucht könnten Zoos fortan die Attraktivität der eigenen Sammlung sichern.[^19] 1993 bestätigte der Kölner Zoodirektor Gunther Nogge, dass sich Zoos nach dem Washingtoner Artenschutzabkommen viel stärker auf die Zucht konzentrierten, da sie zu “Selbstversorgern” werden mussten.[^20]
 
 ## Ex-situ Zucht vs. in-situ Artenschutzprogramme
 
