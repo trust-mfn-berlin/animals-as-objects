@@ -7,7 +7,7 @@ short_desc_de: "Dokumente aus dem Krieg "
 date_end: ""
 published: false
 title: List of Dead Zoo Animals
-updated: 1642166464069
+updated: 1642166578267
 id: 5uQChdHATgh_dE94AE5fX
 doi: 64y2-m311/76
 translators:
@@ -76,7 +76,7 @@ _Liste der im November 1943 im Berliner Zoo getöteten Tiere. (AZGB. Alle Rechte
 
 </figure>
 
-Sowohl in den Verzeichnungssystemen der Sammlung des [[Zoologischen Museums|material.logbooks-of-the-zoological-museum]], das Teil des Museums für Naturkunde war, als auch in den Inventarbüchern der [[Zoologischen Lehrsammlung|story.history-of-the-zoological-teaching-collection]] der Humboldt-Universität lässt sich der Verlust vieler Tier-Objekte durch die Bombardierung Berlins in der Nacht zum 23. November 1943 ablesen. Doch was war mit dem Zoo? Eine Liste des Zoologischen Gartens hielt den Verlust lebender Tiere fest: 30% des noch vorhandenen Tierbestands wurden durch Bomben, Einstürze und Brände getötet oder wurden, nachdem sie ihren Gehegen entwichen waren, durch Mitarbeitende getötet, siehe auch [[story.the-zoo-and-national-socialism]]. Das Dokument ist ein Beispiel für die Praktiken der [[Erfassung und Verwaltung|theme.recording-worlds]] von Beständen, Eingängen und Ausgängen bzw. Verlusten.
+Sowohl in den Verzeichnungssystemen der Sammlung des [[zoologischen Museums|material.logbooks-of-the-zoological-museum]], das Teil des Museums für Naturkunde war, als auch in den Inventarbüchern der [[zoologischen Lehrsammlung|story.history-of-the-zoological-teaching-collection]] der Humboldt-Universität lässt sich der Verlust vieler Tier-Objekte durch die Bombardierung Berlins in der Nacht zum 23. November 1943 ablesen. Doch was war mit dem Zoo? Eine Liste des Zoologischen Gartens hielt den Verlust lebender Tiere fest: 30% des noch vorhandenen Tierbestands wurden durch Bomben, Einstürze und Brände getötet oder wurden, nachdem sie ihren Gehegen entwichen waren, durch Mitarbeitende getötet, siehe auch [[story.the-zoo-and-national-socialism]]. Das Dokument ist ein Beispiel für die Praktiken der [[Erfassung und Verwaltung|theme.recording-worlds]] von Beständen, Eingängen und Ausgängen bzw. Verlusten.
 
 Der einzige überlebende Elefant, den die Liste verzeichnete, war [[Siam|story.the-afterlife-of-zoo-animals]]. Die Komma-Zahlen, wie z.B. "1,3" für die Edelhirsche Altai-Marale, notieren genau wie in der [[material.steinmetz-index]] das Geschlecht: ein männlicher Altai-Maral und drei weibliche starben. 
 
