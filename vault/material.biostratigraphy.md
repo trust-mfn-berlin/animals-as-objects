@@ -1,15 +1,11 @@
 ---
 license: CC BY-SA
-title_de: Biostratigraphie
-created: 1618493136975
-author: Filippo Bertoni
-short_desc_de: Versteinerte Überreste von Organismen liefern Informationen über
-  unterirdische Sedimentschichten (Strata)
-date_end: 2021-12-07T19:31:17.935Z
-published: false
 title: Biostratigraphy
+title_de: Biostratigrafie
+created: 1618493136975
 updated: 1642165262934
 id: f0ff8e4e-5bb8-4622-8d51-8da1cb651524
+author: Filippo Bertoni
 doi: 64y2-m311/35
 translators:
   translator_en_de: ""
@@ -19,11 +15,15 @@ desc: Fossilised remains of organisms characterise underground layers (strata)
 desc_de: Versteinerte Überreste von Organismen liefern Informationen über
   unterirdische Sedimentschichten (Strata)
 short_desc: Fossilised remains of organisms characterise underground layers (strata)
+short_desc_de: Versteinerte Überreste von Organismen liefern Informationen über
+  unterirdische Sedimentschichten (Strata)
 cover_image:
   image: /images/sedimentary-rocks.png
 colour_scheme: 0
 tao_type: material
 date_start: 1669-01-02T20:20:32.426Z
+date_end: 2021-12-07T19:31:17.935Z
+published: false
 ---
 
 :::EN:::
