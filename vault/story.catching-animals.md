@@ -7,7 +7,7 @@ short_desc_de: Habitate und Tierhandelsfirmen
 date_end: 1973-12-31T11:00:00.000Z
 published: false
 title: Catching Animals
-updated: 1642119017807
+updated: 1642156933437
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 doi: 64y2-m311/13
 translators:
@@ -492,7 +492,7 @@ Es zeigten sich nun auch Brüche, die von einem möglichen Ende des Tierhandels 
 
 >“Obwohl man annehmen könnte, dass unser Wissen über die Ernährung von Tieren in Gefangenschaft aufgrund unserer langjährigen Bemühungen um Tiere in Gefangenschaft vollständig ist, sterben 60 bis 70 % der Tiere in Gefangenschaft sterben aufgrund von schlechtem Management und schlechter Haltung, wobei fast 25 % aufgrund von Ernährungsproblemen sterben.”[^26]
 
-Aber insgesamt verlängerten sich nicht nur die Lebensdauer in Zoos, die gehaltenen Tiere vermehrten sich nun auch häufiger durch Nachzuchten. **Eine nach heutigem Verständnis ungeeignete, aber damals neue Form der Zooarchitektur, die sogenannte Badezimmerarchitektur hielt Einzug.** Geflieste Innenställe ließen sich leicht reinigen und reduzierten damit den Einfluss von Bakterien. Ein Bewusstsein dafür, dass das ausschließlich die Lebensdauer, nicht aber das Wohlbefinden der Tiere verbesserte, war in den 1960er Jahren nicht ausgeprägt. Eine andere architektonische Verbesserung der Haltungsbedingungen bildeten die sich ab Ende der 1970er verbreitenden Glasfronten. Sie verhinderten zum Beispiel, dass sich Menschenaffen an den menschlichen Besucher:innen mit Keimen ansteckten oder ihnen zu [[viel Futter|story.feeding-and-overfeeding]] oder [[ungeeignetes Futter|story.feeding-prohibited]] verabreicht wurde.
+Aber insgesamt verlängerten sich nicht nur die Lebensdauer in Zoos, die gehaltenen Tiere vermehrten sich nun auch häufiger durch Nachzuchten. **Eine nach heutigem Verständnis ungeeignete, aber damals neue Form der Zooarchitektur, die sogenannte Badezimmerarchitektur hielt Einzug.** Geflieste Innenställe ließen sich leicht reinigen und reduzierten damit den Einfluss von Bakterien. Ein Bewusstsein dafür, dass das ausschließlich die Lebensdauer, nicht aber das Wohlbefinden der Tiere verbesserte, war in den 1960er Jahren nicht ausgeprägt. Eine andere architektonische Verbesserung der Haltungsbedingungen bildeten die sich ab Ende der 1970er verbreitenden Glasfronten. Sie verhinderten zum Beispiel, dass sich Menschenaffen an den menschlichen Besucher:innen mit Keimen ansteckten oder ihnen [[zu viel Futter|story.feeding-and-overfeeding]] oder [[ungeeignetes Futter|story.feeding-prohibited]] verabreicht wurde.
 
 <figure>
 
