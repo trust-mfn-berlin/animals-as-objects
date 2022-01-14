@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding Prohibited
 title_de: Füttern verboten
 created: 1620752897039
-updated: 1642118371798
+updated: 1642200917999
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 author: Mareike Vennen
 doi: 64y2-m311/26
@@ -210,29 +210,29 @@ The zoo’s management and staff themselves at first also seemed torn. According
 
 Although zoo directors had been discussing the issue for some time, at the 40th Conference of Central European Zoological Gardens in 1928, “[e]very discussion on the use of glass walls to separate the monkeys from the public” still failed to produce “a unanimous response”.[^27] With the gradual shift toward [[enclosure architecture|theme.showing-animals]] that prevented direct contact, animals and visitors were separated. The change reduced the contact with the animals to eye contact and put a definitive end to feeding by visitors.[^28] This proved beneficial to the health of many animals, as within a few years of introducing the general ban on feeding, the zoo’s medication and treatment requirements decreased noticeably.[^29] Glass panels separating visitors from the animals were already put to use in the ape house in the early 1960s – a practice that is now widespread.[^30] At the same time, food preparation in the feeding kitchens was made accessible: “Large windows allowed the public to see into the feeding kitchen and watch the keepers prepare the feed […].”[^31] When in the mid-1970s, following the renovations to the ape house, the monkey house was refurbished, there, too, the animals were separated from the public by glass panels instead of iron bars. This also allowed for a clearer view, and direct eye contact. The behavior of many animals began to normalise; they no longer begged for food when a human approached. Zoo directors reported that fewer animals suffered, or died, from digestive disorders.[^32] “It is a pleasure to observe the natural behavior and playfulness of the animals since the introduction of the feeding ban”,[^33] one anonymous visitor wrote in a letter to Berlin Zoo. There were many approving voices like this one. It is interesting to note that, due to the newly imposed distance, many of the visitors who wrote in identified the zoo as a natural environment, and no longer regarded the animals begging for food as natural behavior. This reveals just how much notions of the “natural” have changed over the years.
 
-[^1]: Hennings, Edwin. _Katalogirter Führer durch den Berliner Zoologischen Garten_, 6. Ed. Berlin: A. Seidel, 1873: 2. The Hamburg Zoo guide explicitly referred to the signs. Cf. Bolau, Heinrich. _Führer durch den Zoologischen Garten zu Hamburg_, 29. Ed. Hamburg: Verlag der Zoologischen Gesellschaft Hamburg, 1879: n.p. Direct quotes have been translated into English for clarity’s sake.
+[^1]: Edwin Hennings. _Katalogirter Führer durch den Berliner Zoologischen Garten_, 6. Ed. Berlin: A. Seidel, 1873: 2. The Hamburg Zoo guide explicitly referred to the signs. Cf. Heinrich Bolau. _Führer durch den Zoologischen Garten zu Hamburg_, 29. Ed. Hamburg: Verlag der Zoologischen Gesellschaft Hamburg, 1879: n.p. Direct quotes have been translated into English for clarity’s sake.
 
-[^2]: Backhaus, D. “Die Eröffnung des Gartens im Jahre 1858”. In _Hundertjähriger Zoo in Frankfurt am Main_, ed. by the Zoological Garden of the City of Frankfurt am Main. Frankfurt a. M.: 1957. Direct quotes have been translated into English for clarity’s sake.
+[^2]: D. Backhaus. “Die Eröffnung des Gartens im Jahre 1858”. In _Hundertjähriger Zoo in Frankfurt am Main_. The Zoological Garden of the City of Frankfurt am Main (ed.). Frankfurt a. M.: 1957. Direct quotes have been translated into English for clarity’s sake.
 
 [^3]: Zoological Garden Berlin. “Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin für das Jahr 1925”. Direct quotes have been translated into English for clarity’s sake.
 
-[^4]: At the beginning of 1956, a report in the _Leipziger Volkszeitung_ informed readers of the introduction of a general ban on feeding: “Most of the treats brought by the public for their favorite animals are unsuitable for the animals, in many cases even harmful. […] Often, nausea and intestinal diseases set in, and they require medical treatment to cure their upset stomachs. Unfortunately, this does not always go smoothly, and we have already lost valuable animals in this way. In the interest of keeping our wards healthy, improper feeding must be avoided.” Dittrich, Lothar. “Nicht mehr füttern!”. _Leipziger Volkszeitung_, January 1956, cited in: Haikal, Mustafa, and Jörg Junhold. _Auf der Spur des Löwen: 125 Jahre Zoo Leipzig_. Leipzig: Pro Leipzig e.V., 2003: 181.
+[^4]: At the beginning of 1956, a report in the _Leipziger Volkszeitung_ informed readers of the introduction of a general ban on feeding: “Most of the treats brought by the public for their favorite animals are unsuitable for the animals, in many cases even harmful. […] Often, nausea and intestinal diseases set in, and they require medical treatment to cure their upset stomachs. Unfortunately, this does not always go smoothly, and we have already lost valuable animals in this way. In the interest of keeping our wards healthy, improper feeding must be avoided.” Dittrich, Lothar. “Nicht mehr füttern!”. _Leipziger Volkszeitung_, January 1956, cited in: Mustafa Haikal and Jörg Junhold. _Auf der Spur des Löwen: 125 Jahre Zoo Leipzig_. Leipzig: Pro Leipzig e.V., 2003: 181.
 
-[^5]: Conference of the Association of German Zoo Directors from 18 to 20 June 1959. Minutes of the business sessions, AZGB V 1/4; Lamp, Benjamin. _Entwicklung der Zootiermedizin im deutschsprachigen Raum_. Giessen: VVB Laufersweiler, 2009: 178. 
+[^5]: Conference of the Association of German Zoo Directors from 18 to 20 June 1959. Minutes of the business sessions, AZGB V 1/4; Benjamin Lamp. _Entwicklung der Zootiermedizin im deutschsprachigen Raum_. Giessen: VVB Laufersweiler, 2009: 178. 
 
 [^6]: In the Berlin Zoo guidebook, giraffes are first mentioned in the feeding guidelines in 1956 with the instruction that it is generally forbidden to feed them.
 
-[^7]: Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1960_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1960. Direct quotes have been translated into English for clarity’s sake.
+[^7]: Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1960_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1960. Direct quotes have been translated into English for clarity’s sake.
 
-[^8]: Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1961_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1961.
+[^8]: Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1961_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1961.
 
-[^9]: Ibid. About ten years later, this was well-established and the guide simply noted: “Feeding is strictly prohibited. With around 2.5 million visitors a year, if everyone gave even a small morsel, such large quantities of food would accumulate that the animals would suffer harm. Well-intentioned but uncontrolled feeding can even result in death.” Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1975_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin 1975.
+[^9]: Ibid. About ten years later, this was well-established and the guide simply noted: “Feeding is strictly prohibited. With around 2.5 million visitors a year, if everyone gave even a small morsel, such large quantities of food would accumulate that the animals would suffer harm. Well-intentioned but uncontrolled feeding can even result in death.” Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1975_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin 1975.
 
 [^10]: Cf. for instance anonymous letter to the management of the Zoological Garden Berlin, 08.08.1966, AZGB O 0/1/224; H. Gottheim to the management of the Zoological Garden Berlin, 16.04.1960, AZGB O 0/1/112; Zoological Garden Berlin to M. Hingst, 20.07.1960, AZGB O 0/1/112; C. Hübner to the management of the Zoological Garden Berlin, no date, AZGB O 0/1/112; Management of the Zoological Garden Berlin to C. Hübner, AZGB O 0/1/112.  
 
 [^11]: “Füttern im Zoo von heute an verboten”. _Tagesspiegel_, 31.03.1960.
 
-[^12]:  On the figure of the “Tierfreund”, cf. Wessely, Christina. _Löwenbaby._ Berlin: Matthes & Seitz, 2019; Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900–1945_. Bielefeld: transcript, 2015: 201–220. 
+[^12]:  On the figure of the “Tierfreund”, cf. Christina Wessely. _Löwenbaby._ Berlin: Matthes & Seitz, 2019; Nastasja Klothmann. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 201-220. 
 
 [^13]: Anonymous letter to the management of the Zoological Garden Berlin, 11.04.1960, AZGB O 0/1/112. Direct quotes have been translated into English for clarity’s sake.
 
@@ -250,13 +250,13 @@ Although zoo directors had been discussing the issue for some time, at the 40th 
 
 [^20]: A. Irmler to Heinz-Georg Klös, 21.09.1959, AZGB O 1/2/80. Direct quotes have been translated into English for clarity’s sake.
 
-[^21]: Beatz, H. “Der Zoo wird entgittert”. _Morgenpost Berlin_, 22.02.1930. This shift was an international phenomenon. In London Zoo for instance, the biologist Julian Huxley, who became zoo director in 1936, advocated for dismantling fences. Direct quotes have been translated into English for clarity’s sake.
+[^21]: H. Beatz “Der Zoo wird entgittert”. _Morgenpost Berlin_, 22.02.1930. This shift was an international phenomenon. In London Zoo for instance, the biologist Julian Huxley, who became zoo director in 1936, advocated for dismantling fences. Direct quotes have been translated into English for clarity’s sake.
 
-[^22]: Heck, Lutz. _Führer durch den Zoologischen Garten zu Berlin 1931_, Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1931: 5. Direct quotes have been translated into English for clarity’s sake.
+[^22]: Lutz Heck. _Führer durch den Zoologischen Garten zu Berlin 1931_, Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1931: 5. Direct quotes have been translated into English for clarity’s sake.
 
-[^23]: Heck, Lutz. _Wegweiser durch den Zoologischen Garten Berlin_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1936.
+[^23]: Lutz Heck. _Wegweiser durch den Zoologischen Garten Berlin_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1936.
 
-[^24]: Cf. Heinroth, Katharina. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege 1956._ Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1956: 8.
+[^24]: Cf. Katharina Heinroth. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege 1956._ Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1956: 8.
 
 [^25]: E. von Bongardt to the Management of the Zoological Garden Berlin, 01.10.1959, AZGB O 1/2/81. Direct quotes have been translated into English for clarity’s sake.
 
@@ -266,15 +266,15 @@ Although zoo directors had been discussing the issue for some time, at the 40th 
 
 [^28]: Exceptions today are petting zoos. Formerly, this was done by “Tierkinderzoos”.
 
-[^29]: Cf. for instance. Scherpner, Christoph. _Von Bürgern für Bürger: 125 Jahre Zoologischer Garten Frankfurt am Main_. Frankfurt a. M.: Zoologischer Garten, 1983: 145. 
+[^29]: Cf. for instance Christoph Scherpner. _Von Bürgern für Bürger: 125 Jahre Zoologischer Garten Frankfurt am Main_. Frankfurt a. M.: Zoologischer Garten, 1983: 145. 
 
-[^30]: Cf. May, Christina. _Die Szenografie der Wildnis: Immersive Techniken in zoologischen Gärten im 20. und 21. Jahrhundert_. Berlin: Neofelis Verlag, 2020.
+[^30]: Cf. Christina May. _Die Szenografie der Wildnis: Immersive Techniken in zoologischen Gärten im 20. und 21. Jahrhundert_. Berlin: Neofelis Verlag, 2020.
 
-[^31]: Klös, Heinz-Georg, and Ursula Klös. _Der Berliner Zoo im Spiegel seiner Bauten, 1841–1989: Eine baugeschichtliche und denkmalpflegerische Dokumentation über den Zoologischen Garten Berlin_. Berlin: Heenemann, 1990: 237. Direct quotes have been translated into English for clarity’s sake.
+[^31]: Heinz-Georg Klös and Ursula Klös. _Der Berliner Zoo im Spiegel seiner Bauten, 1841-1989: Eine baugeschichtliche und denkmalpflegerische Dokumentation über den Zoologischen Garten Berlin_. Berlin: Heenemann, 1990: 237. Direct quotes have been translated into English for clarity’s sake.
 
 [^32]: Conference of the Association of German Zoo Directors from 18 to 20 June 1959. Minutes of the business sessions, AZGB V 1/4.
 
-[^33]: Cf. Anonymous letter to the management of the Zoological Garden Berlin, September 1960, AZGB O 0/1/224; Scherpner, Christoph. _Von Bürgern für Bürger – 125 Jahre Zoologischer Garten Frankfurt am Main_ Frankfurt a. M.: Zoologischer Garten, 1983: 145.
+[^33]: Cf. Anonymous letter to the management of the Zoological Garden Berlin, September 1960, AZGB O 0/1/224; Scherpner, 1983: 145.
 
 :::DE:::
 
@@ -454,29 +454,29 @@ Im Zoo selbst schienen Direktion und Mitarbeiter:innen zunächst ebenfalls hin- 
 
 Unter Zoodirektor:innen wurde über das Thema schon länger beratschlagt. 1928 führte “[e]ine Diskussion über die Absperrung der Affen vom Publikum durch Glaswände” auf der 40. Konferenz mitteleuropäischer Zoologischer Gärten indes noch zu “keinem einheitlichen Ergebnis”.[^27] Mit der sukzessiven Umstellung der [[Gehege-Architekturen|theme.showing-animals]], die eine unmittelbare Berührung unterbanden, wurden Tiere und Besucher:innen getrennt. Die Umstellung reduzierte den Kontakt mit den Tieren auf den Blick und setzte dem Füttern durch die Besucher:innen endgültig ein Ende,[^28] was sich für viele Tiere als gesundheitsfördernd erwies, denn bereits wenige Jahre nach Einführung des generellen Fütterungsverbots sank der Medikamenten- und Behandlungsbedarf spürbar.[^29] Im Menschenaffenhaus kamen schon in den frühen 1960er Jahren trennende Glasscheiben zum Einsatz – eine Praxis, die heute weit verbreitet ist.[^30] Gleichzeitig wurde die Futterküche offengelegt: “Durch große Scheiben kann das Publikum in die Futterküche hineinsehen und die Tierpfleger bei der Zubereitung \[...] beobachten.”[^31] Mitte der 1970er Jahre, als nach dem Menschenaffenhaus das Affenhaus renoviert wurde, trennten auch dort Glasscheiben statt Eisengitter die Tiere vom Publikum, die zugleich eine freiere Sicht und unmittelbaren Blickkontakt ermöglichten. Das Verhalten vieler Tiere begann sich zu normalisieren; sie bettelten nicht mehr nach Futter, wenn sich ein Mensch näherte. Die Zoodirektor:innen berichteten davon, dass weniger Tiere an Verdauungsstörungen litten oder sogar daran eingingen.[^32] “Es ist eine Freude, die Tiere nach Einführung des Fütterungsverbotes in ihrer natürlichen Lebensweise und Verspieltheit zu beobachten”,[^33] hieß es in einer anonymen Zuschrift an den Berliner Zoo. Wie diese gab es viele positive Stimmen, die interessanterweise durch die neue Distanz den Zoo wieder als Ort des Natürlichen auswiesen und das Betteln der Tiere eben nicht mehr als natürliches Verhalten ansahen. Hier zeigt sich, wie sich Vorstellungen des “Natürlichen” historisch wandeln können.
 
-[^1]: Hennings, Edwin. _Katalogirter Führer durch den Berliner Zoologischen Garten_, 6. Aufl. Berlin: A. Seidel, 1873: 2. Der Hamburger Zooführer wies auf die Tafeln explizit hin. Vgl. Bolau, Heinrich. _Führer durch den Zoologischen Garten zu Hamburg_, 29. Aufl. Hamburg: Verlag der Zoologischen Gesellschaft Hamburg, 1879: o.S.
+[^1]: Edwin Hennings. _Katalogirter Führer durch den Berliner Zoologischen Garten_, 6. Aufl. Berlin: A. Seidel, 1873: 2. Der Hamburger Zooführer wies auf die Tafeln explizit hin. Vgl. Bolau, Heinrich. _Führer durch den Zoologischen Garten zu Hamburg_, 29. Aufl. Hamburg: Verlag der Zoologischen Gesellschaft Hamburg, 1879: o.S.
 
-[^2]: Backhaus, D. “Die Eröffnung des Gartens im Jahre 1858”. In _Hundertjähriger Zoo in Frankfurt am Main_, hg. vom Zoologischen Garten der Stadt Frankfurt am Main. Frankfurt a.M.: 1957.
+[^2]: D. Backhaus. “Die Eröffnung des Gartens im Jahre 1858”. In _Hundertjähriger Zoo in Frankfurt am Main_, Zoologischen Garten der Stadt Frankfurt am Main (Hg.). Frankfurt a.M.: 1957.
 
 [^3]: Zoologischer Garten Berlin. “Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin für das Jahr 1925”.
 
-[^4]: Anfang 1956 informierte ein Bericht der _Leipziger Volkszeitung_ über die Einführung eines generellen Fütterungsverbots: “Die meisten der vom Publikum für ihre Lieblinge mitgebrachten Leckerbissen sind für die Tiere ungeeignet, in vielen Fällen sogar schädlich. [...] Oft stellen sich dann Uebelkeit und Darmerkrankungen ein und ärztliche Behandlung muß die verdorbenen Mägen wieder kurieren. Leider geht es aber nicht jedesmal ‘gut’ ab, und wir haben schon wertvolle Tiere auf diese Art und Weise verloren. Im Interesse der Gesunderhaltung unserer Pfleglinge muß deshalb eine unsachgemäße Fütterung unterbleiben.” Dittrich, Lothar. “Nicht mehr füttern!” _Leipziger Volkszeitung_, Januar 1956, zit. nach: Haikal, Mustafa, und Jörg Junhold. _Auf der Spur des Löwen: 125 Jahre Zoo Leipzig_. Leipzig: Pro Leipzig e.V., 2003: 181.
+[^4]: Anfang 1956 informierte ein Bericht der _Leipziger Volkszeitung_ über die Einführung eines generellen Fütterungsverbots: “Die meisten der vom Publikum für ihre Lieblinge mitgebrachten Leckerbissen sind für die Tiere ungeeignet, in vielen Fällen sogar schädlich. [...] Oft stellen sich dann Uebelkeit und Darmerkrankungen ein und ärztliche Behandlung muß die verdorbenen Mägen wieder kurieren. Leider geht es aber nicht jedesmal ‘gut’ ab, und wir haben schon wertvolle Tiere auf diese Art und Weise verloren. Im Interesse der Gesunderhaltung unserer Pfleglinge muß deshalb eine unsachgemäße Fütterung unterbleiben.” Dittrich, Lothar. “Nicht mehr füttern!” _Leipziger Volkszeitung_, Januar 1956, zit. nach: Mustafa Haikal und Jörg Junhold. _Auf der Spur des Löwen: 125 Jahre Zoo Leipzig_. Leipzig: Pro Leipzig e.V., 2003: 181.
 
-[^5]: Tagung des Verbands Deutscher Zoodirektoren vom 18. Juni bis 20. Juni 1959. Protokoll der Geschäftssitzungen, AZGB V 1/4; Lamp, Benjamin. _Entwicklung der Zootiermedizin im deutschsprachigen Raum_. Giessen: VVB Laufersweiler, 2009: 178.
+[^5]: Tagung des Verbands Deutscher Zoodirektoren vom 18. Juni bis 20. Juni 1959. Protokoll der Geschäftssitzungen, AZGB V 1/4; Benjamin Lamp. _Entwicklung der Zootiermedizin im deutschsprachigen Raum_. Giessen: VVB Laufersweiler, 2009: 178.
 
 [^6]: Im Berliner Zooführer tauchen Giraffen 1956 das erste Mal in den Fütterungsrichtlinien auf mit dem Hinweis, dass es generell verboten ist, sie zu füttern.
 
-[^7]: Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1960_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1960.
+[^7]: Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1960_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1960.
 
-[^8]: Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1961_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1961.
+[^8]: Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1961_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1961.
 
-[^9]: Ebd. Rund zehn Jahre später war das etabliert und der Zooführer vermerkte lediglich: “Das Füttern ist grundsätzlich untersagt. Bei rund 2,5 Millionen Besuchern im Jahr würden, wenn jeder auch nur einen kleinen Brocken reicht, derartig große Futtermengen zusammenkommen, daß die Tiere Schaden nehmen müssen. Gut gemeint, aber unkontrolliertes Füttern kann sogar den Tod zur Folge haben.” Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1975_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin 1975.
+[^9]: Ebd. Rund zehn Jahre später war das etabliert und der Zooführer vermerkte lediglich: “Das Füttern ist grundsätzlich untersagt. Bei rund 2,5 Millionen Besuchern im Jahr würden, wenn jeder auch nur einen kleinen Brocken reicht, derartig große Futtermengen zusammenkommen, daß die Tiere Schaden nehmen müssen. Gut gemeint, aber unkontrolliertes Füttern kann sogar den Tod zur Folge haben.” Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1975_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin 1975.
 
 [^10]: Vgl. Anonyme Zuschrift an die Direktion des Zoologischen Gartens Berlin, 08.08.1966, AZGB O 0/1/224; H. Gottheim an die Direktion des Zoologischen Gartens Berlin, 16.04.1960, AZGB O 0/1/112; Zoologischer Garten Berlin an M. Hingst, 20.07.1960, AZGB O 0/1/112; C. Hübner an die Direktion des Zoologischen Gartens Berlin, o.D., AZGB O 0/1/112; Direktion des Zoologischen Gartens Berlin an C. Hübner, AZGB O 0/1/112. 
 
 [^11]: “Füttern im Zoo von heute an verboten”. _Tagesspiegel_, 31.03.1960.
 
-[^12]: Bei “Tierfreund” verwende ich keine genderneutrale Form, weil ich auf einen damals feststehenden Ausdruck Bezug nehme. Zur Figur des “Tierfreunds” vgl. Wessely, Christina. _Löwenbaby_. Berlin: Matthes & Seitz, 2019; Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 201-220.
+[^12]: Bei “Tierfreund” verwende ich keine genderneutrale Form, weil ich auf einen damals feststehenden Ausdruck Bezug nehme. Zur Figur des “Tierfreunds” vgl. Christina Wessely. _Löwenbaby_. Berlin: Matthes & Seitz, 2019; Nastasja Klothmann. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 201-220.
 
 [^13]: Anonymer Brief an die Direktion des Berliner Zoologischen Gartens, 11.04.1960, AZGB O 0/1/112.
 
@@ -494,13 +494,13 @@ Unter Zoodirektor:innen wurde über das Thema schon länger beratschlagt. 1928 f
 
 [^20]: A. Irmler an Heinz-Georg Klös, 21.09.1959, AZGB O 1/2/80.
 
-[^21]: Beatz, H. “Der Zoo wird entgittert”. _Morgenpost Berlin_, 22.02.1930. Die Umgestaltung war ein internationales Phänomen. Im Londoner Zoo etwa setzte sich ab 1936 der Biologe Julian Huxley als neuer Zoodirektor für einen Abbau der Einzäunungen ein.
+[^21]: H. Beatz. “Der Zoo wird entgittert”. _Morgenpost Berlin_, 22.02.1930. Die Umgestaltung war ein internationales Phänomen. Im Londoner Zoo etwa setzte sich ab 1936 der Biologe Julian Huxley als neuer Zoodirektor für einen Abbau der Einzäunungen ein.
 
-[^22]: Heck, Lutz. _Führer durch den Zoologischen Garten zu Berlin 1931_, Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1931: 5.
+[^22]: Lutz Heck. _Führer durch den Zoologischen Garten zu Berlin 1931_, Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1931: 5.
 
-[^23]: Heck, Lutz. _Wegweiser durch den Zoologischen Garten Berlin_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1936.
+[^23]: Lutz Heck. _Wegweiser durch den Zoologischen Garten Berlin_. Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1936.
 
-[^24]: Vgl. Heinroth, Katharina. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege 1956._ Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1956: 8.
+[^24]: Vgl. Katharina Heinroth. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege 1956._ Berlin: Aktien-Verein des Zoologischen Gartens zu Berlin, 1956: 8.
 
 [^25]: E. von Bongardt an die Direktion des Zoologischen Gartens Berlin, 01.10.1959, AZGB O 1/2/81.
 
@@ -510,11 +510,11 @@ Unter Zoodirektor:innen wurde über das Thema schon länger beratschlagt. 1928 f
 
 [^28]: Ausnahmen bilden heute die Streichelzoos, vormals übernahmen dies Tierkinderzoos.
 
-[^29]: Vgl. u. a. Scherpner, Christoph. _Von Bürgern für Bürger: 125 Jahre Zoologischer Garten Frankfurt am Main_. Frankfurt a. M.: Zoologischer Garten, 1983: 145.
+[^29]: Vgl. u. a. Christoph Scherpner. _Von Bürgern für Bürger: 125 Jahre Zoologischer Garten Frankfurt am Main_. Frankfurt a. M.: Zoologischer Garten, 1983: 145.
 
-[^30]: Vgl. May, Christina. _Die Szenografie der Wildnis: Immersive Techniken in zoologischen Gärten im 20. und 21. Jahrhundert_. Berlin: Neofelis Verlag, 2020.
+[^30]: Vgl. Christina May. _Die Szenografie der Wildnis: Immersive Techniken in zoologischen Gärten im 20. und 21. Jahrhundert_. Berlin: Neofelis Verlag, 2020.
 
-[^31]: Klös, Heinz-Georg, und Ursula Klös. _Der Berliner Zoo im Spiegel seiner Bauten, 1841-1989: Eine baugeschichtliche und denkmalpflegerische Dokumentation über den Zoologischen Garten Berlin_. Berlin: Heenemann, 1990: 237.
+[^31]: Heinz-Georg Klös und Ursula Klös. _Der Berliner Zoo im Spiegel seiner Bauten, 1841-1989: Eine baugeschichtliche und denkmalpflegerische Dokumentation über den Zoologischen Garten Berlin_. Berlin: Heenemann, 1990: 237.
 
 [^32]: Tagung des Verbands Deutscher Zoodirektoren vom 18. Juni bis 20. Juni 1959. Protokoll der Geschäftssitzungen, AZGB V 1/4.
 
