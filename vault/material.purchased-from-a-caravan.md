@@ -7,7 +7,7 @@ short_desc_de: Geschichten, die uns Tierschädel erzählen
 date_end: ""
 published: false
 title: Purchased from a Caravan
-updated: 1642203504478
+updated: 1642203811027
 id: VzxTWqgWM3FzLdS5Z2DUO
 doi: 64y2-m311/58
 translators:

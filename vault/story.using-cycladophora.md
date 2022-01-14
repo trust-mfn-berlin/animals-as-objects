@@ -7,7 +7,7 @@ short_desc_de: Von Mikrofossilien zu planetarem Wissen
 date_end: 2021-07-06T11:38:39.090Z
 published: false
 title: Using Cycladophora
-updated: 1642187968528
+updated: 1642203653806
 id: TBi8fH-OIQRAoB-tG9ZY1
 doi: 10.7479/64y2-m311/2
 translators:
@@ -43,7 +43,7 @@ date_start: 1949-12-31T23:00:00.000Z
 
 <figcaption>
 
-_A graph from the milestone publication of James D. Hays, et al. in_ Science _from 1976, linking variations in Cycladophora’s abundances with glacial cycles. All rights reserved._
+_A graph from the milestone publication of James D. Hays et al. in_ Science _from 1976, linking variations in Cycladophora’s abundances with glacial cycles. All rights reserved._
 
 </figcaption>
 
@@ -57,7 +57,7 @@ The case of _C. davisiana_ is useful for illustrating this transformation of the
 
 In this sense, _Cycladophora davisiana_ continues its scientific (after)life as an important gear in the “vast machine“ that subtends current climate sciences.[^3] As the Berlin Natural History Museum  just received the [[material.lamont-doherty-collection]] of micropaleontological slides to complement its NSB database, a collection which includes the original specimens used in the 1976 _Science_ publication, these various post-mortem lives of _Cycladophora_ come together under the same roof again, as they prepare to travel even further in the future.
 
-[^1]: Although some scientists seem concerned that the handling of data needs to change, if climate models and predictions are to improve. See P. Bauer, P.D. Dueben, T. Hoefler, et al. “The Digital Revolution of Earth-System Science”. _Nature Computational Science_ 1 (2021): 104-113. https://doi.org/10.1038/s43588-021-00023-0.
+[^1]: Although some scientists seem concerned that the handling of data needs to change, if climate models and predictions are to improve. See P. Bauer et al. “The Digital Revolution of Earth-System Science”. _Nature Computational Science_ 1 (2021): 104-113. https://doi.org/10.1038/s43588-021-00023-0.
 
 [^2]: James D. Hays, John Imbrie, and Nicholas J. Shackleton. “Variations in the Earth’s Orbit: Pacemaker of the Ice Ages”. _Science_ 194 (1976): 1121-1132. https://doi.org/10.1126/science.194.4270.1121
 
@@ -73,7 +73,7 @@ In this sense, _Cycladophora davisiana_ continues its scientific (after)life as 
 
 <figcaption>
 
-_Diagramm aus dem 1976 in_ Science _veröffentlichten Artikel von John D. Hays, et al., der die Häufigkeit von Cycladophora mit glazialen Zyklen in Zusammenhang setzt. Alle Rechte vorbehalten._
+_Diagramm aus dem 1976 in_ Science _veröffentlichten Artikel von John D. Hays et al., der die Häufigkeit von Cycladophora mit glazialen Zyklen in Zusammenhang setzt. Alle Rechte vorbehalten._
 
 </figcaption>
 
@@ -88,7 +88,7 @@ Anhand des Beispiels von _C. davisiana_ lässt sich dieser Umbruch in den Naturw
 Auf diese Weise setzt sich das wissenschaftliche (Nach-)Leben von _Cycladophora davisiana_ als vielgenutztes Hilfsmittel in der aktuellen Klimaforschung fort.[^3] Kürzlich hat das Museum für Naturkunde Berlin die [[material.lamont-doherty-collection]], eine Sammlung mikropaläontologischer Präparate, als Neuzugang für seine NSB-Datenbank erhalten. Solche digitalen Datenbanken haben inzwischen [[frühere Verzeichnissysteme|story.keeping-records-of-animals]] wie [[material.logbooks-of-the-zoological-museum]], [[story.inventory-books]] oder [[Karteikarten|material.house-of-cards]] weitgehend abgelöst. Mit Erhalt der Lamont-Doherty-Sammlung, die auch die Originalpräparate aus der _Science_-Publikation von 1976 enthält, ist _Cycladophora_ nun in verschiedenen medialen Formen unter einem Dach vereint und steht für zukünftige Forschungen bereit.
 
 
-[^1]: Manche Wissenschaftler:innen scheinen jedoch ihre Zweifel zu haben, ob eine wirkliche Verbesserung von Klimamodellen und -vorhersagen ohne andere Formen und Methoden der Datenverarbeitung überhaupt gelingen kann. Siehe P. Bauer, P.D. Dueben, T. Hoefler, et al. “The Digital Revolution of Earth-System Science”. _Nature Computational Science_ 1 (2021): 104-113. https://doi.org/10.1038/s43588-021-00023-0.
+[^1]: Manche Wissenschaftler:innen scheinen jedoch ihre Zweifel zu haben, ob eine wirkliche Verbesserung von Klimamodellen und -vorhersagen ohne andere Formen und Methoden der Datenverarbeitung überhaupt gelingen kann. Siehe P. Bauer et al. “The Digital Revolution of Earth-System Science”. _Nature Computational Science_ 1 (2021): 104-113. https://doi.org/10.1038/s43588-021-00023-0.
 
 [^2]: James D. Hays, John Imbrie und Nicholas J. Shackleton. “Variations in the Earth’s Orbit: Pacemaker of the Ice Ages”. _Science_ 194 (1976): 1121-1132. https://doi.org/10.1126/science.194.4270.1121
 
