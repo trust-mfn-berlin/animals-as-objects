@@ -7,7 +7,7 @@ short_desc_de: Ausstellen oder schützen?
 date_end: 2021-12-30T23:00:00.000Z
 published: false
 title: Zoos and Conservation
-updated: 1642165316992
+updated: 1642165728125
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 doi: 64y2-m311/75
 desc: Since only a relatively short time zoos intensify their conservation efforts.
@@ -143,7 +143,7 @@ Der Erfolg dieser frühen Erhaltungszuchten animierte die Leitungen internationa
 * Prag verpflichtete sich, das Zuchtbuch für das Przewalskipferd und gefährdete Unterarten des Tigers zu übernehmen,
 * San Diego übernahm das Zuchtbuch für die Mendesantilope,
 * und Washington übernahm das Zuchtbuch für den Orang-Utan.[^17]
-
+* 
 
 Die Gründe für die Auswahl lassen sich aus den Quellen im Einzelnen nicht mehr rekonstruieren, es ist aber anzunehmen, dass die betreffenden Zoos in der Regel eine längere und aus Sicht des Verbandes erfolgreiche Geschichte der Haltung und Zucht der jeweiligen Tierarten vorzuweisen hatten.
 
