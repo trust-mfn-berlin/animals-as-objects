@@ -7,7 +7,7 @@ short_desc_de: Eine bedeutende Langzeitsammlung mikropaläontologischer Präpara
 date_end: 2021-12-07T18:56:55.735Z
 published: false
 title: Lamont-Doherty Collection
-updated: 1642118976269
+updated: 1642257303790
 id: YJrLgXqicVoVnrM8FtHXU
 doi: 64y2-m311/39
 translators:
@@ -69,7 +69,7 @@ _This video shows the unboxing of the collection as it arrived at the Museum fü
 
 <figcaption>
 
-_A box of micropaleontological slides of diatoms from the Lamont-Doherty Collection. (Photo: Filippo Bertoni. All rights reserved.)_ MUSS noch übersetzt werden!
+_Eine Schachtel aus der Lamont-Doherty-Sammlung mit mikropaläontologischen Objektträgern. (Foto: Filippo Bertoni. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
