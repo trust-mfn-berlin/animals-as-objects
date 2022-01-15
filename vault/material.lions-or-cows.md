@@ -7,7 +7,7 @@ short_desc_de: Nutztiere im Zoo
 date_end: ""
 published: false
 title: Lions or Cows?
-updated: 1642205772874
+updated: 1642205893279
 id: 9mH5N7vuPc8pcrpIzElb1
 doi: 64y2-m311/55
 translators:
@@ -51,9 +51,9 @@ However, the establishment of the Agricultural Zoo wore on. The application for 
 
 [^2]: Ministry of Agriculture, Domains, and Forests to Zoological Garten Management, 15.07.1901, AZGB O 0/1/94.
 
-[^3]: Lichtenstein, Martin. _Gedanken über die Errichtung zoologischer Gärten bei Berlin_, 1849, quoted in Klös, Heinz-Georg. _Von der Menagerie zum Tierparadies: 125 Jahre Zoo Berlin_. Berlin: Haude & Spenersche Verlagsbuchhandlung, 1969: 28.
+[^3]: Martin Lichtenstein. _Gedanken über die Errichtung zoologischer Gärten bei Berlin_, 1849, quoted in Heinz-Georg Klös. _Von der Menagerie zum Tierparadies: 125 Jahre Zoo Berlin_. Berlin: Haude & Spenersche Verlagsbuchhandlung, 1969: 28.
 
-[^4]: _Vossische Zeitung_ 8 (1844), quoted in Rieke-Müller, Annelore, and Lothar Dittrich. _Der Löwe brüllt nebenan: Die Gründung Zoologischer Gärten im deutschsprachigen Raum 1833-1869_. Köln: Böhlau, 1998: 60.
+[^4]: _Vossische Zeitung_ 8 (1844), quoted in Annelore Rieke-Müller and Lothar Dittrich. _Der Löwe brüllt nebenan: Die Gründung Zoologischer Gärten im deutschsprachigen Raum 1833-1869_. Köln: Böhlau, 1998: 60.
 
 [^5]: One shareholder successfully objected, preventing the construction of an exhibition hall and all of the ensuing financial plans. Zoological Garden management to the Ministry of Agriculture, Domains, and Forests, 29.07.1903, AZGB O 0/1/94.
 
@@ -87,9 +87,9 @@ Die Umsetzung des Landwirtschaftlichen Tierparks zog sich allerdings hin. Der An
 
 [^2]: Ministerium für Landwirtschaft, Domänen und Forsten an die Direktion des Zoologischen Gartens, 15.07.1901, AZGB O 0/1/94.
 
-[^3]: Lichtenstein, Martin. _Gedanken über die Errichtung zoologischer Gärten bei Berlin_, 1849, zit. nach Klös, Heinz-Georg. _Von der Menagerie zum Tierparadies: 125 Jahre Zoo Berlin_. Berlin: Haude & Spenersche Verlagsbuchhandlung, 1969: 28.
+[^3]: Martin Lichtenstein. _Gedanken über die Errichtung zoologischer Gärten bei Berlin_, 1849, zit. nach Heinz-Georg Klös. _Von der Menagerie zum Tierparadies: 125 Jahre Zoo Berlin_. Berlin: Haude & Spenersche Verlagsbuchhandlung, 1969: 28.
 
-[^4]: _Vossische Zeitung_ 8 (1844), zit. nach Rieke-Müller, Annelore und Lothar Dittrich. _Der Löwe brüllt nebenan: Die Gründung Zoologischer Gärten im deutschsprachigen Raum 1833-1869_. Köln: Böhlau, 1998: 60.
+[^4]: _Vossische Zeitung_ 8 (1844), zit. nach Annelore Rieke-Müller und Lothar Dittrich. _Der Löwe brüllt nebenan: Die Gründung Zoologischer Gärten im deutschsprachigen Raum 1833-1869_. Köln: Böhlau, 1998: 60.
 
 [^5]: Der Bau einer Ausstellungshalle und der ganze damit zusammenhängende Finanzplan, wurde durch den erfolgreichen Widerspruch eines Aktionärs verhindert. Direktion des Zoologischen Gartens an das Ministerium für Landwirtschaft, Domänen und Forsten, 29.07.1903, AZGB O 0/1/94.
 
