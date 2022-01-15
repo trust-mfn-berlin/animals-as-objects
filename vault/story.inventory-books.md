@@ -7,7 +7,7 @@ short_desc_de: Wie werden die Objekte einer Lehrsammlung verzeichnet?
 date_end: 1968-12-31T11:00:00.000Z
 published: false
 title: Inventory Books
-updated: 1642211061721
+updated: 1642212092072
 id: kZTLAIf7pRRgEPPJbtGqA
 doi: 64y2-m311/44
 translators:
@@ -54,7 +54,7 @@ _The microscopic zoology course at Berlin’s Zoological Institute, 1912/1913. W
 
 The items in a teaching collection fulfil one function above all: to impart knowledge in academic teaching. In order to demonstrate shape and physique, as well as organic composition and functions, the Institute of Biology at Humboldt-Universität zu Berlin still uses models, wall charts, and specimens in seminars and lectures today. They are objects of study, and some of them are truly objects of use – they are hung on walls, mounted, presented, or passed around. Sometimes it only becomes apparent that some of the items are historical objects on closer inspection. Faded labels, cryptic numerical codes like [[28.8.5.7-4|material.common-seadragon]], and the marks of wear and tear hint at the journeys on which these objects have been and point to the eventful histories of some specimens. These histories have been shaped by processes of transfer, on both a functional and spatial level.
 
-Inventories, lists, labels, and other forms of [[record-keeping|story.keeping-records-of-animals]] played a special role. As “paper and object technologies”, they documented the procurement of live and dead animals and their specimens, and recorded their economic and epistemological value.[^2] Their purpose was to incorporate these animal objects into the specific collecting framework, and they simultaneously became documents of a development that they themselves governed in their materiality as texts of use.[^3] But how did these record-keeping media work? What were the systems of order on which they based, and who can understand or read them today? Did the inventories of the teaching collection have special functions due to the nature of the collection?
+Inventories, lists, labels, and other forms of [[record-keeping|story.keeping-records-of-animals]] played a special role. As paper and object technologies, they documented the procurement of live and dead animals and their specimens, and recorded their economic and epistemological value.[^2] Their purpose was to incorporate these animal objects into the specific collecting framework, and they simultaneously became documents of a development that they themselves governed in their materiality as texts of use.[^3] But how did these record-keeping media work? What were the systems of order on which they based, and who can understand or read them today? Did the inventories of the teaching collection have special functions due to the nature of the collection?
 
 <!-- (Abbildung der Inventarbücher z.B. auf einem Tisch aufgestapelt) -->
 
@@ -138,7 +138,7 @@ The fact that this is one and the same specimen is revealed in inventory book VI
 
 <figcaption>
 
-_The first page of inventory book VII reveals the graphic and systematic transformation that took place in the practice of record-keeping. A spiny dogfishembryo_ (Acanthias vulgaris) _specimen has been listed below the genus “Acanthias” (or “Squalus”) with four other objects, each with the numbers of their previous inventory in inventory books V(1) and V(2). (Zoological Teaching Collection. All rights reserved.)_
+_The first page of inventory book VII reveals the graphic and systematic transformation that took place in the practice of record-keeping. A spiny dogfishembryo_ (Acanthias vulgaris) _specimen has been listed below the genus ‘Acanthias’ (or ‘Squalus’) with four other objects, each with the numbers of their previous inventory in inventory books V(1) and V(2). (Zoological Teaching Collection. All rights reserved.)_
 
 </figcaption>
 
@@ -160,7 +160,7 @@ _Entry number 1208 in inventory book V(1) contains the first record of the grey 
 
 This is the first time that the orientation towards certain classification standards and a new taxonomic systematics becomes visible here in the inventory book itself as a component of the recording-keeping process. This process continuously put the specimens into new orders and contexts of meaning, and made it possible to count and circulate them.[^6] **The inventory book was a tool for collection managers that reflected the struggle to find consistent and effective forms of record-keeping, which, however, it also influenced.**[^7] Attempts to adapt the inventory books accordingly clearly failed, as the graphic and systematic restructuring of the cataloguing process in inventory book VII was only carried out over a few pages and was not completed.
 
-Inventory book VII is testament to this development and was also shaped by further changes to the format and the systematics of cataloguing. Numbering was no longer guided by a chronological listing of object arrivals, but ordered specimens by their taxonomic “class” (fish, amphibians, reptiles etc.). All of this ultimately resulted in a list structure that can be identified as a transcription of the entries in inventory book V.[^8] The organisation of the collection seemed to have returned to the first form of record-keeping, the list.
+Inventory book VII is testament to this development and was also shaped by further changes to the format and the systematics of cataloguing. Numbering was no longer guided by a chronological listing of object arrivals, but ordered specimens by their taxonomic ‘class’ (fish, amphibians, reptiles etc.). All of this ultimately resulted in a list structure that can be identified as a transcription of the entries in inventory book V.[^8] The organisation of the collection seemed to have returned to the first form of record-keeping, the list.
 
 <figure>
 
@@ -242,7 +242,7 @@ _Der mikroskopisch-zoologische Kurs im Zoologischen Institut Berlin, 1912/1913. 
 
 Die Objekte einer Lehrsammlung erfüllen vor allem eine Funktion: Sie sollen Wissen innerhalb des akademischen Lehrbetriebs vermitteln. Zur Veranschaulichung von Gestalt und Körperbau sowie von organischen Zusammenhängen und Funktionsweisen werden im Institut für Biologie der Humboldt-Universität zu Berlin noch heute [[Modelle|material.silkworm-in-papier-mache]], Wandtafeln und [[Präparate|material.common-seadragon]] in Seminaren und Vorlesungen verwendet. Sie sind Anschauungsobjekte, manche auch wortwörtliche Gebrauchsobjekte – sie werden an die Wand gehängt, aufgestellt, vorgeführt oder herumgereicht. Dass es sich dabei teilweise um historische Objekte handelt, erkennt man oftmals erst auf den zweiten Blick. Verblasste Beschriftungen, kryptische Zifferncodes wie z.B. [[28.8.5.7-4|material.common-seadragon]] und Spuren der Abnutzung lassen Objektwege erahnen und weisen auf die bewegte Geschichte einiger Präparate hin. Sie ist geprägt von Prozessen des Transfers, sowohl auf funktionaler als auch auf räumlicher Ebene.
 
-Inventare, Listen, Etiketten und andere Formen der [[Verzeichnung|theme.recording-worlds]] nahmen hier eine besondere Rolle ein. Als “Papier- und Objekttechniken” dokumentierten sie die Beschaffung von lebendigen, toten oder bereits präparierten Tieren und verzeichneten ihren ökonomischen sowie epistemischen Wert.[^2] Sie dienten der Einverleibung dieser tierischen Objekte in das spezifische Sammlungsgefüge und dokumentieren zugleich einen Entwicklungsprozess, den sie mittels ihrer Materialität als “Gebrauchstext” selbst verwalteten.[^3] Doch wie funktionierten diese Verzeichnismedien? Welche Ordnungssysteme lagen ihnen zu Grunde und wer kann diese heute noch verstehen bzw. lesen? Gab es funktionale Besonderheiten, die die Inventare der Lehrsammlung aufgrund des Sammlungscharakters aufwiesen?
+Inventare, Listen, Etiketten und andere Formen der [[Verzeichnung|theme.recording-worlds]] nahmen hier eine besondere Rolle ein. Als Papier- und Objekttechniken dokumentierten sie die Beschaffung von lebendigen, toten oder bereits präparierten Tieren und verzeichneten ihren ökonomischen sowie epistemischen Wert.[^2] Sie dienten der Einverleibung dieser tierischen Objekte in das spezifische Sammlungsgefüge und dokumentieren zugleich einen Entwicklungsprozess, den sie mittels ihrer Materialität als ‘Gebrauchstext’ selbst verwalteten.[^3] Doch wie funktionierten diese Verzeichnismedien? Welche Ordnungssysteme lagen ihnen zu Grunde und wer kann diese heute noch verstehen bzw. lesen? Gab es funktionale Besonderheiten, die die Inventare der Lehrsammlung aufgrund des Sammlungscharakters aufwiesen?
 
 <!-- (Abbildung der Inventarbücher z.B. auf einem Tisch aufgestapelt) -->
 
@@ -326,7 +326,7 @@ Dass es sich dabei um ein und dasselbe Präparat handelt, verrät das Inventarbu
 
 <figcaption>
 
-_Die erste Seite des Inventarbuchs VII zeigt einen grafischen und systematischen Wandel der Verzeichnungspraxis. Das Präparat eines Dornhai-Embryos_ (Acanthias vulgaris) _wurde mit vier anderen Objekten jeweils mit den Nummern der vorherigen Inventarisierung in Inventarbuch V(1) und V(2) dem Gattungsbegriff “Acanthias” (bzw. “Squalus”) untergeordnet. (Zoologische Lehrsammlung. Alle Rechte vorbehalten.)_
+_Die erste Seite des Inventarbuchs VII zeigt einen grafischen und systematischen Wandel der Verzeichnungspraxis. Das Präparat eines Dornhai-Embryos_ (Acanthias vulgaris) _wurde mit vier anderen Objekten jeweils mit den Nummern der vorherigen Inventarisierung in Inventarbuch V(1) und V(2) dem Gattungsbegriff ‘Acanthias’ (bzw. ‘Squalus’) untergeordnet. (Zoologische Lehrsammlung. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -348,7 +348,7 @@ _Der Eintrag mit der Nummer 1208 verzeichnet erstmalig das Präparat eines Dornh
 
 Die Orientierung an bestimmten Klassifikationsstandards und einer neuen taxonomischen Systematik wurde hier erstmalig im Inventarbuch selbst sichtbar als Bestandteil des Verzeichnungsprozesses. Dieser brachte die Präparate in stetig neue Ordnungs- und Bedeutungszusammenhänge, machte sie zählbar und zirkulierbar.[^6] **Das Inventarbuch war hier für die Sammlungsmanager:innen ein Werkzeug, das das Ringen um eine einheitliche und effektive Verzeichnungsform abbildete, diese allerdings auch selbst mitbestimmte.**[^7] Der Versuch, die Inventarbücher entsprechend anzupassen, scheiterte offensichtlich, denn die grafische und systematische Umgestaltung der Katalogisierung im Inventarbuch VII wurde nur über wenige Seiten erstellt und nicht vervollständigt.
 
-Inventarbuch VII zeugt von dieser Entwicklung und ist von weiteren Wechseln des Formats und der Katalogisierungssystematik geprägt. Die Nummerierungen orientierten sich nicht mehr an der chronologischen Auflistung der Objekteingänge, sondern sortierten Präparate entsprechend einer taxonomischen Rangstufe, der “Klasse” (Fische, Amphibien, Reptilien usw.). Das Ganze mündete schließlich in einer Listenstruktur, die als Transkription der Einträge der Inventarbücher V identifiziert werden kann.[^8] Die Sammlungsorganisation war anscheinend zur ersten Verzeichnungsform, der Liste, zurückgekehrt.
+Inventarbuch VII zeugt von dieser Entwicklung und ist von weiteren Wechseln des Formats und der Katalogisierungssystematik geprägt. Die Nummerierungen orientierten sich nicht mehr an der chronologischen Auflistung der Objekteingänge, sondern sortierten Präparate entsprechend einer taxonomischen Rangstufe, der ‘Klasse’ (Fische, Amphibien, Reptilien usw.). Das Ganze mündete schließlich in einer Listenstruktur, die als Transkription der Einträge der Inventarbücher V identifiziert werden kann.[^8] Die Sammlungsorganisation war anscheinend zur ersten Verzeichnungsform, der Liste, zurückgekehrt.
 
 <figure>
 
@@ -364,7 +364,7 @@ _Diese Seite aus dem Inventarbuch VII zeigt die Einteilung der Präparate in Tie
 
 Wie auch die Objekte der Sammlung selbst, weisen die Inventare Gebrauchsspuren auf. Die Seiten der Inventarbücher V zeigen farbliche Codierungen, Durchstreichungen und mit Bleistift vermerkte Notizen. Diese wurden nachträglich hinzugefügt, gehörten also nicht zu der ursprünglich beabsichtigten Verzeichnungspraxis. Sie entstanden vermutlich, als man die einzelnen Angaben in das Inventarbuch VII übertrug. Die Annotationen überlagern einander und betonen verschiedene zeitliche Ebenen. Gerade deshalb sorgen sie bei außenstehenden ‘Leser:innen’ und bei neuen Sammlungsmitarbeiter:innen für Verwirrung. **Das Entziffern und die korrekte historische Einordnung gleichen detektivischer Arbeit, die trotz des minutiösen Abgleichens unterschiedlicher Einträge, Nummern und Handschriften nur selten zu einer präzisen Einschätzung führt.**
 
-Markierungen mit Kreuzen, Kreisen und Punkten neben Einträgen des Inventarbuchs V stehen höchstwahrscheinlich für “erhalten geblieben” oder “verloren gegangen”. Entsprechend gestaltete sich daraufhin die Übertragung der Verzeichnung in den Katalog VII. _Acanthias vulgaris_ Risso notierte man dabei wieder mit seiner alten Bezeichnung unter der Nummer 1208.
+Markierungen mit Kreuzen, Kreisen und Punkten neben Einträgen des Inventarbuchs V stehen höchstwahrscheinlich für ‘erhalten geblieben’ oder verloren gegangen’. Entsprechend gestaltete sich daraufhin die Übertragung der Verzeichnung in den Katalog VII. _Acanthias vulgaris_ Risso notierte man dabei wieder mit seiner alten Bezeichnung unter der Nummer 1208.
 
 <figure>
 
