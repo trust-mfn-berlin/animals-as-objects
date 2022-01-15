@@ -3,67 +3,63 @@ title: Über uns
 ---
 ## Über diese Website
 
-_Tiere als Objekte?_ ist eine Publikation des Forschungsprojekts [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte). Diese Website macht unsere Forschungsergebnisse zu ausgewählten Objekten, Geschichten und Tierarten für eine deutsch- und englischsprachige Öffentlichkeit zugänglich. Wir bieten historische, archivarische und ethnografische Antworten auf die Frage an, wie Tiere zu naturhistorischen Objekten und Daten gemacht wurden.
+_Tiere als Objekte?_ ist eine Publikation des Forschungsprojekts [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte). Diese Website präsentiert unsere Forschungsergebnisse in deutscher und englischer Sprache anhand ausgewählter Objekte, Geschichten und Tieren. Sie gibt vielstimmige Antworten auf die Frage, wie Tiere zu naturkundlichen Objekten und Daten gemacht wurden.
 
-Relationale Datenbanken, genau die Datenbanken, die häufig zur Erfassung und Verwaltung von naturkundlichen Sammlungen verwendet werden, dienten als Ausgangspunkt für die konzeptionelle und visuelle Gestaltung. Es gibt drei verschiedene Arten von Artikeln:
+Die häufig für die Katalogisierung und das Management von naturkundlichen Sammlungen verwendeten relationalen Datenbanken dienten als Inspiration für das Konzept und die visuelle Gestaltung der Website. Deshalb beinhaltet die Webseite drei verschiedene Arten von Artikeln, die auf unterschiedliche und manchmal überraschende Weise miteinander verknüpft sind:
 
--   _Materien_ legen den Fokus auf spezifische Fotos, Objekte, Dokumente, Ereignisse, usw.
--   _Storys_ liefern mithilfe von _Materien_ und anderen Quellen Antworten auf kleine und große Forschungsfragen.
--   _Themen_ öffnen den Blick für den thematischen Rahmen und verbinden die vielen verschiedenen _Storys_ und _Materien_.
+-   _**Material**_ legt den Fokus auf spezifische Fotos, Objekte, Dokumente, Ereignisse, usw.
+-   _**Storys**_ liefern mithilfe von _**Material**_ und anderen Quellen Antworten auf kleine und große Forschungsfragen.
+-   _**Themen**_ öffnen den Blick für den thematischen Rahmen und verbinden _**Storys**_ und _**Material**_.
 
-Sie sind in vielfältiger und manchmal überraschender Weise miteinander verknüpft und ergeben sich aus der Situiertheit (in einer Disziplin, Institution, Fachposition) und den Interessen der Autor:innen.
-
-Alle technischen Komponenten sind Open Source. Wir haben kollaborativ über [Dendron](https://www.dendron.so/) gearbeitet, über [git](https://git-scm.com/) synchronisiert und direkt aus git über eine selbst gehostete Version des Content-Management-Systems [Netlify](https://www.netlify.com/) veröffentlicht. [Arthur and Son La will provide one more sentence on the technical components.]
+Alle technischen Komponenten sind Open Source. Wir haben kollaborativ über [Dendron](https://www.dendron.so/) gearbeitet, über [git](https://git-scm.com/) synchronisiert und direkt aus git über eine selbst gehostete Version des Content-Management-Systems [Netlify](https://www.netlify.com/) veröffentlicht. 
 
 **Kontakt**: humanities(at)mfn.berlin
 
 ## Über das Projekt
 
-Das Forschungsprojekt [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte) wurde vom Bundesministerium für Bildung und Forschung (BMBF) gefördert. Das Verbundprojekt des Museums für Naturkunde Berlin, der Humboldt-Universität zu Berlin und der Zoologischer Garten Berlin AG lief vom 01. September 2018 bis 31. Dezember 2021. 
-
-[link to other publications]
+Das Forschungsprojekt [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte) wurde vom Bundesministerium für Bildung und Forschung (BMBF) gefördert. Das Verbundprojekt des Museums für Naturkunde Berlin, der Humboldt-Universität zu Berlin und der Zoologischer Garten Berlin AG lief von September 2018 bis Dezember 2021. 
 
 ## Über die Personen
 
-### Projekt-Mitglieder
+### Projektteam
 
 #### Jenske Bal
 
-Lorem ipsum
+Jenske Bal studierte Kulturanthropologie sowie Wissenschafts- und Technikgeschichte und macht nun qualitative Forschung in diesen Bereichen. Sie interessiert sich für die Beziehung zwischen Natur und Kultur, insbesondere für die Beziehungen zwischen Mensch und Tier. Jenske Bal ist derzeit Doktorandin in dem vom ERC finanzierten Projekt “The Body Societal: Unfolding Genomics Infrastructure in Cattle Livestock Selection and Reproduction” an der Universität von Lüttich in Belgien. 2019 absolvierte sie ein Praktikum im Projekt “Tiere als Objekte”, um im Rahmen ihres Masterstudiums Zootierzuchtpraktiken in Berlin zu untersuchen. Außerdem nahm Jenske an einem Forschungsprojekt über die regionale und nationale COVID-19 Gesundheitsversorgung in den Niederlanden teil (2020-2021).  
 
 #### Gloria Bauer
 
-Lorem ipsum
+Gloria Bauer machte den Bachelor in Kunst- und Bildgeschichte und Deutscher Literatur an der Humboldt-Universität zu Berlin und schließt dort momentan den Master in Kunst- und Bildgeschichte ab. Gloria absolvierte 2017 ein Praktikum in der Historischen Arbeitsstelle des Museums für Naturkunde Berlin und arbeitete von 2019 bis 2020 als studentische Hilfskraft im Projekt “Tiere als Objekte”. Schon vor dieser Arbeit hatte Gloria großes Interesse an Tierpräparation und ihrer Präsentation in Schausammlungen. Nach der Bachelorarbeit, die sich mit dem Präparator Hermann H. ter Meer befasste, verschob sich Glorias Forschungsinteresse von präparierten Stillleben hin zum Bewegtbild in Form von Italo-Western.
 
 #### Filippo Bertoni
 
-Filippo Bertoni promovierte an der Universität Amsterdam mit einem Thema über Regenwürmer und diejenigen, die sie erforschen. Er ist wissenschaftlicher Mitarbeiter am Museum für Naturkunde in Berlin, wo er die Umwandlung von Tieren in Objekte und Daten in den naturkundlichen Sammlungen und zoologischen Gärten der Stadt untersucht. Die Geschichten, die er sammelt, sprengen disziplinäre Rahmen und spielen mit Genres, Stilen und Medien. Er bewegt sich an den Grenzen zwischen Fiktion und verschiedenen Formen des wissenschaftlichen Schreibens. Indem sie die Spannung zwischen Realität, Wissenschaft und (Science) Fiction beleben, widersetzen sich seine Geschichten dem universalisierenden Drang der westlichen Moderne und öffnen sich für die Vielfalt der Welten, die uns bereits umgeben.
+Filippo Bertoni promovierte an der Universität Amsterdam mit einem Thema über Regenwürmer und diejenigen, die sie erforschen. Er ist wissenschaftlicher Mitarbeiter am Museum für Naturkunde Berlin, wo er die Umwandlung von Tieren in Objekte und Daten in den naturkundlichen Sammlungen und zoologischen Gärten der Stadt untersucht. Die Geschichten, die er sammelt, sprengen disziplinäre Rahmen und spielen mit Genres, Stilen und Medien. Er bewegt sich an den Grenzen zwischen Fiktion und verschiedenen Formen des wissenschaftlichen Schreibens. Indem sie die Spannung zwischen Realität, Wissenschaft und (Science) Fiction beleben, widersetzen sich seine Geschichten dem universalisierenden Zugriff der westlichen Moderne und öffnen sich für die Vielfalt der Welten, die uns bereits umgeben.
 
 #### Ina Heumann
 
-Lorem ipsum.
+Ina Heumann leitet gemeinsam mit Tahani Nadim das Projekt “Tiere als Objekte”. Sie leitet die interdisziplinäre Forschungsabteilung Kultur- und Sozialwissenschaften der Natur am Museum für Naturkunde, die sie seit 2012 mit aufgebaut hat. Sie ist Wissenschaftshistorikerin und hat über die Geschichte der populären Wissenschaft in Wien promoviert. In den letzten Jahren konzentrierte sich ihre Arbeit auf die Politik der Natur, der Naturgeschichte und des Kolonialismus, die zeitgenössische Geschichte des Museums und die Geschichte des Extraktivismus sowie die Verlagerung und Aneignung von naturkundlichen Sammlungsstücken.
 
 #### Therese Kienemund
 
-Therese Kienemund erwarb nach einem Bachelor-Abschluss und einem Teaching Science Fellowship in Biologie am Dartmouth College, USA, einen Master-Abschluss in Wissenschaftsgeschichte an der Technischen Universität Berlin. Therese forschte zur Ausstellungsgeschichte von Insektenmodellen im Museum für Naturkunde Berlin und zu gerechtigkeitsorientierten Ansätzen für die Beteiligung der Öffentlichkeit an wissenschaftlicher Forschung. Weitere Forschungsinteressen von Therese sind die vergeschlechtlichten und rassifizierten Geschichten der Hebammen*kunde. Im Projekt "Tiere als Objekte" war Therese verantwortlich für die Webredaktion und konzentrierte sich auf das Copy-Editing, das Content-Management und die offene Kommunikation mit allen Mitarbeitenden.
+Therese Kienemund erwarb nach einem Bachelor-Abschluss und einem Teaching Science Fellowship in Biologie am Dartmouth College, USA, einen Master-Abschluss in Wissenschaftsgeschichte an der Technischen Universität Berlin. Therese forschte zur Ausstellungsgeschichte von Insektenmodellen im Museum für Naturkunde Berlin und zu gerechtigkeitsorientierten Ansätzen für die Beteiligung der Öffentlichkeit an wissenschaftlicher Forschung. Weitere Forschungsinteressen von Therese sind die vergeschlechtlichten und rassifizierten Geschichten der Hebammen*kunde. Im Projekt “Tiere als Objekte” war Therese verantwortlich für die Webredaktion und konzentrierte sich auf das Copy-Editing, das Content-Management und die offene Kommunikation mit allen Mitarbeitenden.
 
 #### Britta Lange
 
-Lorem ipsum.
+Britta Lange hat Kunst- und Kulturwissenschaften studiert. Sie wurde 2005 an der Humboldt-Universität zu Berlin mit einer Arbeit über Klischees von Fremden in Form von lebensgroßen “Völkertypen” der Firma Umlauff (1868-1925) promoviert. Ihre Forschung über anthropologische Untersuchungen an Kriegsgefangenen während des Ersten Weltkriegs in Österreich und im Deutschen Reich sowie Tonaufnahmen, die mit ihnen gemacht wurden, begann sie als Postdoktorandin und setzte sie im Rahmen einer eigenen Stelle der DFG am Institut für Kulturwissenschaft der Humboldt-Universität zu Berlin fort. 2012 erhielt sie nach Einreichung ihrer Habilitationsschrift ebenda die _venia legendi_ für das Fach Kulturwissenschaft. Seit 2014 ist sie dort als wissenschaftliche Mitarbeiterin in Lehre und Forschung tätig. Zu ihren Forschungsschwerpunkten gehören Kulturgeschichte und Kulturtheorien des 18. bis 21. Jahrhunderts, Konzepte materieller Kulturen, des Sammelns und Ausstellens, Wissensgeschichte früher Foto-, Film- und Tondokumente, Kulturtechniken, koloniale und postkoloniale Konstellationen.
 
 #### Clemens Maier-Wolthausen
 
-Clemens Maier-Wolthausen studierte Geschichte in Berlin und Bergen/Norwegen mit den Schwerpunkten Europäische Geschichte und Holocaust-Studien. Zwischen 2003 und 2007 arbeitete er an seiner Dissertation über die Erinnerung an den Zweiten Weltkrieg in Skandinavien am Europäischen Hochschulinstitut in Florenz/Italien. Anschließend erforschte Clemens die Flucht deutscher Jüdinnen und Juden nach Schweden zwischen 1933 und 1945 und kuratierte eine Ausstellungsreihe zur deutsch-jüdischen Geschichte und zur Geschichte des Zweiten Weltkriegs. Seit 2015 arbeitet er für den Zoologischen Garten Berlin zur Geschichte der Zoos, jetzt auch im BMBF-Verbundprojekt "Tiere als Objekte".
+Clemens Maier-Wolthausen studierte Geschichte in Berlin und Bergen/Norwegen mit den Schwerpunkten Europäische Geschichte und Holocaust-Studien. Zwischen 2003 und 2007 arbeitete er an seiner Dissertation über die Erinnerung an den Zweiten Weltkrieg in Skandinavien am Europäischen Hochschulinstitut in Florenz/Italien. Anschließend erforschte Clemens die Flucht deutscher Jüdinnen und Juden nach Schweden zwischen 1933 und 1945 und kuratierte eine Ausstellungsreihe zur deutsch-jüdischen Geschichte und zur Geschichte des Zweiten Weltkriegs. Seit 2015 arbeitet er für den Zoologischen Garten Berlin zur Geschichte der Zoos, jetzt auch im BMBF-Verbundprojekt “Tiere als Objekte”.
 
 
 #### Tahani Nadim
 
-Tahani Nadim ist Co-Leiterin des interdisziplinären Forschungszentrums Humanities of Nature am Museum für Naturkunde Berlin. Sie ist Juniorprofessorin für Soziokulturelle Anthropologie am Institut für Europäische Ethnologie der Humboldt-Universität zu Berlin, wo sie auch Mitglied des Centre for Anthropological Research on Museums and Heritage (CARMAH) ist. Ihre Forschungsschwerpunkte sind Natur und Datenerfassung sowie politische Fragen in der Digitalisierung von Museumssammlungen. Ihre Publikationen sind in _JRAI, Science as Culture, Big Data & Society und den Philosophical Transactions of the Royal Society_ erschienen. Sie leitet außerdem die experimentelle Forschungseinheit Bureau for Troubles, in der sie mit Künstler:innen und Kurator:innen zusammenarbeitet. Zu ihren Ausstellungen gehören The Influencing Machine (nGbK, 2018-19) und Dead wasps fly further (MfN, 2015).
+Tahani Nadim ist Co-Leiterin des interdisziplinären Forschungsabteilung Humanities of Nature am Museum für Naturkunde Berlin. Sie ist Juniorprofessorin für Soziokulturelle Anthropologie am Institut für Europäische Ethnologie der Humboldt-Universität zu Berlin, wo sie auch Mitglied des Centre for Anthropological Research on Museums and Heritage (CARMAH) ist. Sie forscht zu Datenpolitiken, dem Verhältnis von Natur und Datenerfassung sowie den politischen und gesellschaftlichen Kontexten und Konsequenzen von Sammlungsdigitalisierung. Ihre Texte sind u.a. in _JRAI, Science as Culture, Big Data & Society und den Philosophical Transactions of the Royal Society_ erschienen. Sie leitet außerdem die experimentelle Forschungseinheit Bureau for Troubles, in der sie mit Künstler:innen und Kurator:innen zusammenarbeitet. Zu ihren Ausstellungen gehören _The Influencing Machine_ (nGbK, 2018-19) und _Dead wasps fly further_ (MfN, 2015).
 
 
 #### Sebastian Riedel
 
-Lorem ipsum.
+Sebastian Riedel befindet sich nach einem Bachelorabschluss in Mathematik momentan in den letzten Zügen seines Masterstudiums der Wissenschaftsforschung an der Humboldt-Universität zu Berlin. Zwischen November 2020 und Februar 2021 absolvierte er ein Praktikum im Projekt “Tiere als Objekte”. Dabei beschäftigte er sich insbesondere mit Reproduktions- und Datenpraktiken zoologischer Gärten.
 
 #### Theresa Schatt
 
@@ -71,44 +67,52 @@ Theresa Schatt studierte im Bachelor Kulturwissenschaft und Kunst-und Bildgeschi
 
 #### Sarina Schirmer
 
-Sarina Schirmer ist seit Januar 2021 studentische Mitarbeiterin im Projekt "Tiere als Objekte". Neben ihrem Bachelorstudium der Geschichts- und Politikwissenschaften arbeitete sie bereits im interdisziplinären Forschungsverbund _Topoi_ sowie am Institut für Zeitgeschichte. Momentan schließt sie ihr Masterstudium der Geschichtswissenschaften an der Freien Universität Berlin ab. Ihre Interessen liegen dabei im Bereich der Global- und Umweltgeschichte, sowie der Wissensgeschichte.
+Sarina Schirmer ist seit Januar 2021 studentische Mitarbeiterin im Projekt “Tiere als Objekte”. Neben ihrem Bachelorstudium der Geschichts- und Politikwissenschaften arbeitete sie bereits im interdisziplinären Forschungsverbund _Topoi_ sowie am Institut für Zeitgeschichte. Momentan schließt sie ihr Masterstudium der Geschichtswissenschaften an der Freien Universität Berlin ab. Ihre Interessen liegen dabei im Bereich der Global- und Umweltgeschichte, sowie der Wissensgeschichte.
 
 
 ### Mitwirkende
 
-#### Sybille Neumeyer
-
-Lorem ipsum.
-
 #### Catarina Madruga
 
-Lorem ipsum.
+Catarina Madruga schloss ihre Promotion mit dem Titel “Taxonomy and Empire: Zoogeographical Research on the Portuguese Empire, 1862-1881” in Geschichte und Wissenschaftsphilosophie an der Universität Lissabon ab. Derzeit arbeitet sie als Postdoktorandin mit ihrem Projekt [“Colonial Provenances of Nature: The Expansion of the Mammal Collection Around 1900”](https://www.museumfuernaturkunde.berlin/de/wissenschaft/koloniale-provenienzen-der-natur) am Museum für Naturkunde in Berlin. Ihre Arbeit konzentriert sich auf die Verflechtungen zwischen der Produktion von biogeographischem Wissen, Umweltgeschichte, der Geschichte von Sammlungen sowie der Aneignung kolonialer Territorien.
 
 ### Übersetzung
 
-#### poco.lit.
-
-poco.lit. ist eine Plattform für postkoloniale Literatur im weitesten Sinne. Die Gründerinnen Anna von Rath und Lucy Gasser und weitere Mitwirkende lesen, schreiben und übersetzen postkoloniale Texte für poco.lit. und externe Auftraggebende, um die Sichtbarkeit postkolonialer Perspektiven zu erhöhen. Neben den kolonialismuskritischen Inhalten setzt sich poco.lit. für einen politisch sensiblen Umgang mit Sprache ein.
-
-#### Lucy Gasser
-
-Lucy Gasser ist Dozentin für anglophone Literatur- und Kulturwissenschaft mit Schwerpunkt auf Postcolonial Studies an der Universität Potsdam. Sie hat 2019 ihre Promotion als Fellow des Graduiertenkollegs _minor cosmopolitanisms_ abgeschlosssen. Ihren Master hat sie an der University of Cape Town/Südafrika absolviert und 2017 war sie als Gastwissenschaftlerin an der Delhi University in Indien. Ihre Publikationen beziehen sich u.a. auf Eurozentrismus, Postkolonialität, Weltliteratur und Übersetzung. Sie ist Mitherausgeberin der Plattform poco.lit. und Co-Kuratorin des Übersetzungsprojekts macht.sprache.
-
-#### Anna von Rath
-
-Anna von Rath hat Anglophone Literaturen und Kulturen an der Universität Potsdam, der English and Foreign Languages University in Hyderabad/Indien und der Westminster University in London/Vereinigtes Königreich studiert. 2019 schloss sie ihre Promotion in den postkolonialen Literatur- und Kulturwissenschaften im Rahmen der Research Training Group _minor cosmopolitanisms_ ab. Ihre Publikationen beschäftigen sich mit Reiseliteratur, Ecocriticism, Afropolitismus und der deutschen Kolonialgeschichte. Aktuell arbeitet sie im Bereich Diversity und Inklusion, betreibt die Plattform poco.lit. für postkoloniale Literatur und übersetzt freiberuflich.
-
-#### Johanna Heide
-
-Johanna Heide hat Amerikanistik und Kulturwissenschaften an der Universität Potsdam, der Duke University in Durham/USA und der English and Foreign Languages University in Hyderabad/Indien studiert. Seit 2019 promoviert sie im Rahmen der Research Training Group _minor cosmopolitanisms_ an der Universität Potsdam  zu Widerstandspraktiken im Zeitalter der Sklaverei und deren Nachleben. Sie arbeitet außerdem freiberuflich als Lektorin und Übersetzerin für Sachliteratur sowie im Nachrichtenjournalismus.
-
 #### Lydia White
 
-Lorem ipsum.
+[Lydia White]( https://www.lydiajwhite.com/) lebt in Wellington, Neuseeland, und ist Literaturwissenschaftlerin, Übersetzerin aus dem Deutschen und Englischen, Lektorin und Verlagsberaterin. Sie ist die Gewinnerin des 2021 Geisteswissenschaften International Nonfiction Translation Prize des
+Deutschen Börsenvereins.
+
+#### Jan-Peter Herrmann
+Jan-Peter Herrmann lebt und arbeitet als freiberuflicher Übersetzer in Berlin. 
+
+### Lektorat
+
+#### Jan-Peter Herrmann
+Jan-Peter Herrmann lebt und arbeitet als freiberuflicher Übersetzer in Berlin. 
+
+#### Carla Welch
+Carla Welch ist eine freiberufliche Übersetzering und Lektorin.
 
 ### Design und Entwicklung
 
-Lorem ipsum.
+#### Trust
+
+[Trust](https://trust.support/) unterstützt ein Netzwerk von Künstler:innen, Designer:innen, Technolog:innen, Ökolog:innen und Denker:innen, die das Diskursive und das Praktische miteinander verknüpfen. Trust begrüßt verschiedene Formen der Beteiligung und gibt das geschaffene Wissen auf vielfältige Weise weiter: Mithilfe von Mitgliedschaften, öffentlichen Veranstaltungen, einem Residenzprogramm, Live-Stream Diskussionen, Arbeitsgruppen und Forschungsberichten usw.
+
+Trust arbeitete für dieses Projekt mit Son La Pham und Claire Tolan.
+
+#### Son La Pham
+Son La Pham lebt in Berlin und arbeitet als Grafikdesigner mit Schwerpunkt auf neuen Formen für Technologien und das Web. Seine digitalen Arbeiten wurden publiziert in _It’s Nice That_, [_Hoverstat_](hoverstat.es), [_Loadmo_](loadmo.re) and _Fonts In Use_.
+
+#### Claire Tolan
+Claire Tolan ist eine in Berlin lebende Künstlerin und Programmiererin, die sich auf die Erforschung der Interaktion zwischen Mensch und Computer, Online-Gemeinschaften (Intimität, Privatsphäre) sowie Informationsstrukturen und -theorie konzentriert.
+
+#### Rasmus Emanuel Svensson 
+Rasmus Emanuel Svensson ist Grafikdesigner und lebt in Berlin und Amsterdam, wo er (zusammen mit Hanna Nilsson) das Studio und den Verlag [PWR studio]( https://pwr.site/) gegründet hat. 
+
+### Web Editors
+[bellu_&_ bellu](mbab.paqc.net)
 
 ### Danksagung
 
@@ -116,9 +120,11 @@ Wir möchten allen danken, die unsere Arbeit an dieser Publikation unterstützt 
 
 Am Museum für Naturkunde Berlin:
 
-- Technische und administrative Unterstützung: Inna Reise, Falko Glöckler, Markus Wegner, Holger Schick, Mareike Petersen, Stefanie Paß, Sonja Kreft
+- Technische und administrative Unterstützung: Saskia Cyron, Falko Glöckler, Sonja Kreft, Stefan Malinowski, Stefanie Paß, Mareike Petersen, Inna Reise, Holger Schick, Astrid Schröder, Caitlin Thorn, Markus Wegner
+
 - Unterstützung bei Archivrecherchen: Yvonne Reimers, Sandra Miehlbradt
-- Unterstützung bei Forschung in den Sammlungen: David Lazarus, Johan Renaudie, Christine NN, NN, NN
+
+- Unterstützung bei Forschung in den Sammlungen: Oliver Coleman, Ferdinand Damaschun, Jason Dunlop, Pascal Eckhoff, Sylke Frahnert, Christiane Funk, David Lazarus, Frieder Mayer, Johan Renaudie, Thomas von Rintelen, Christin Scheinpflug, Katrin Spitzer, Frank Tillack, Christine Zorn
 
 Im Zoologischen Garten Berlin: 
 
@@ -126,4 +132,4 @@ Im Zoologischen Garten Berlin:
 
 An der Humboldt Universität zu Berlin:
 
-- tbd: NN, NN
+- Unterstützung bei Forschung in der Zoologischen Lehrsammlung: Ines Drescher, John Nyakatura, Gerhard Scholtz
