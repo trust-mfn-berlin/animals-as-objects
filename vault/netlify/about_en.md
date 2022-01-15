@@ -7,9 +7,9 @@ _Animals as Objects?_ is published by the research project [Animals as Objects. 
 
 Relational databases, the very databases that are often used to catalogue and manage natural history collections, inspired the conceptual and visual design of the website. Therefore, the website contains three different types of articles that are interconnected in diverse and sometimes surprising ways:
 
--   _**Materials**_ focus on specific photos, objects, documents, events, etc.
--   _**Stories**_ answer big and small research questions through _**materials**_ and other sources.
--   _**Themes**_ address the bigger picture that links different _**stories**_ and _**materials**_.
+-   _Materials_ focus on specific photos, objects, documents, events, etc.
+-   _Stories_ answer big and small research questions through _materials_ and other sources.
+-   _Themes_ address the bigger picture that links different _stories_ and _materials_.
 
 All technical components are open source. We worked collaboratively on [Dendron](https://www.dendron.so/), synchronised via [git](https://git-scm.com/), and published directly from git through a self-hosted version of the content management system [Netlify](https://www.netlify.com/). 
 
