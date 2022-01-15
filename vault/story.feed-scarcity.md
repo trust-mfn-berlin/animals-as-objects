@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1642208021064
+updated: 1642208489718
 id: d54394f6-1188-4ec3-b590-da329e657560
 doi: 64y2-m311/23
 translators:
@@ -106,7 +106,7 @@ _The illustrated magazine_ Die Frau von heute _reports on the growing of vegetab
 
 </figure>
 
-However, these crops were not nearly enough to feed even the small number of herbivores the zoo had, and, as mentioned above, the animals also had to share what there was with the zoo’s staff.[^7] The zoo therefore rented additional plots on the outskirts of Berlin – “expanses of land against which the few small gardens in the enclosures pale in comparison”.[^8] In Spandauer Forst and Grunewald, for example, they sowed nine hectares with green fodder and grass for making hay. But “even this is no more than supplementary feed”,[^9] Katharina Heinroth wrote in reply to a letter from a zoo visitor. The feed shortage directly impacted any efforts to restore the zoo’s [[animal population|theme.how-do-animals-end-up-in-the-zoo]]. Increasing the population at all, let alone procuring more large mammals from the other side of the world, was out of the question for the time being. In the summer of 1947, therefore, Heinroth still had to reply to letters from Berliners asking for a new herd of elephants: “Unfortunately, it will not be possible to acquire another herd of elephants in the next few years, as the difficulties with food supply in the city are far too great. At the moment we only have our old elephant ‘Siam’ and we have our hands full trying to get him enough hay and straw, grass and turnips.”[^10]
+However, these crops were not nearly enough to feed even the small number of herbivores the zoo had, and, as mentioned above, the animals also had to share what there was with the zoo’s staff.[^7] The zoo therefore rented additional plots on the outskirts of Berlin – “expanses of land against which the few small gardens in the enclosures pale in comparison”.[^8] In Spandauer Forst and Grunewald, for example, they sowed nine hectares with green fodder and grass for making hay. But “even this is no more than supplementary feed”,[^9] Katharina Heinroth wrote in reply to a letter from a zoo visitor. The feed shortage directly impacted any efforts to restore the zoo’s [[animal population|theme.how-do-animals-end-up-in-the-zoo]]. Increasing the population at all, let alone procuring more large mammals from the other side of the world, was out of the question for the time being. In the summer of 1947, therefore, Heinroth still had to reply to letters from Berliners asking for a new herd of elephants: “Unfortunately, it will not be possible to acquire another herd of elephants in the next few years, as the difficulties with food supply in the city are far too great. At the moment we only have our old elephant “Siam” and we have our hands full trying to get him enough hay and straw, grass and turnips.”[^10]
 
 Though, just ten years later, the death of animals due to [[overfeeding|story.feeding-and-overfeeding]] by visitors led to a general [[ban on feeding|story.feeding-prohibited]] at the Berlin Zoo, things were quite different in the late 1940s. The efforts of the zoo staff alone were not enough to provide for the animals. The zoo was dependent on the city: on its transport infrastructure, slaughterhouses, and governing authorities, as well as on zoogoers. In newspaper articles, Katharina Heinroth called on the people of Berlin to support the animals by donating food.
 
