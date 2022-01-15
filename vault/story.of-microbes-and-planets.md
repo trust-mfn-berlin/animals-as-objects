@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Of Microbes and Planets
 title_de: Über Mikroben und Planeten
 created: 1621522603135
-updated: 1642255592480
+updated: 1642256090928
 id: 796e4da7-c573-401f-a165-7bd9c3a503c6
 author: Filippo Bertoni
 doi: 64y2-m311/33
@@ -39,7 +39,7 @@ published: false
 
 <figcaption>
 
-_The cover of a reprint of the 1976 landmark paper by Hays, Imbrie, and Shackleton demonstrating the relation between changes in planetary orbit and glaciations. This paper was based on the microfossil record from two oceanic sediment cores._[^8]
+_The cover of a reprint of the 1976 landmark paper by Hays, Imbrie, and Shackleton demonstrating the relation between changes in planetary orbit and glaciations. This paper was based on the microfossil record from two oceanic sediment cores._
 
 </figcaption>
 
@@ -105,7 +105,7 @@ _A NASA issued animation illustrating the cyclicity of primary production and th
 
 <figcaption>
 
-_Das Cover eines Nachdrucks des bahnbrechenden Werks von Hays, Imbrie und Shackleton aus dem Jahr 1976, in dem der Zusammenhang zwischen Veränderungen der Planetenumlaufbahn und Vergletscherungen aufgezeigt wird. Ihre Forschung basierte auf den Mikrofossilberichten aus zwei ozeanischen Sedimentkernen._[^8]
+_Das Cover eines Nachdrucks des bahnbrechenden Werks von Hays, Imbrie und Shackleton aus dem Jahr 1976, in dem der Zusammenhang zwischen Veränderungen der Planetenumlaufbahn und Vergletscherungen aufgezeigt wird. Ihre Forschung basierte auf den Mikrofossilberichten aus zwei ozeanischen Sedimentkernen._
 
 </figcaption>
 
