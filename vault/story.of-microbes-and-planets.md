@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Of Microbes and Planets
 title_de: Über Mikroben und Planeten
 created: 1621522603135
-updated: 1642256090928
+updated: 1642256436506
 id: 796e4da7-c573-401f-a165-7bd9c3a503c6
 author: Filippo Bertoni
 doi: 64y2-m311/33
@@ -73,7 +73,7 @@ _A NASA issued animation illustrating the cyclicity of primary production and th
 
 </figcaption>
 
-[^1]: While in their lifetime the work of these scientists remained marginal – also due to linguistic, intellectual, and later even ideological barriers – their impact on later developments of the technosciences is beginning to be recognised. See, for the case of Winogradsky: Attenborough, Frederick. “The monad and the nomad: medical microbiology and the politics and possibilities of the mobile microbe”. _cultural geographies_ 18, no. 1 (2011): 91-114; and for the case of Dokuchaev: Bertoni, Filippo. “Soiling Mars: ‘To Boldly Grow Where No Plant Has Grown Before’?” In _Thinking with Soils: Material Politics and Social Theory_ ed. by Juan Francisco Salazar et al. London: Bloomsbury Publishing (2020): 107.
+[^1]: While in their lifetime the work of these scientists remained marginal – also due to linguistic, intellectual, and later even ideological barriers – their impact on later developments of the technosciences is beginning to be recognised. See, for the case of Winogradsky: Attenborough, Frederick. “The monad and the nomad: medical microbiology and the politics and possibilities of the mobile microbe”. _cultural geographies_ 18, no. 1 (2011): 91-114; and for the case of Dokuchaev: Bertoni, Filippo. “Soiling Mars: ‘To Boldly Grow Where No Plant Has Grown Before’?” In _Thinking with Soils: Material Politics and Social Theory_, ed. by Juan Francisco Salazar et al. London: Bloomsbury Publishing (2020): 107.
 
 [^2]: To learn more on the impact of cybernetics, see Pickering, Andrew. _The cybernetic brain_. Chicago: University of Chicago Press, 2010; or watch “Sketches of Another Future: An Interview with Andrew Pickering”. _Sistemas Sociales_, YouTube, 24.03.2014, https://www.youtube.com/watch?v=juGIXi6Lyek (03.01.2022).
 
@@ -139,7 +139,7 @@ _A NASA issued animation illustrating the cyclicity of primary production and th
 
 </figcaption>
 
-[^1]: Während die Arbeit dieser Wissenschaftler zu ihrer Lebzeit marginal blieb – u.a. aufgrund sprachlicher, intellektueller und später sogar ideologischer Barrieren –, wird ihr Einfluss auf die späteren Entwicklungen der Technowissenschaften allmählich anerkannt. Zu Winogradsky: Attenborough, Frederick. “The monad and the nomad: medical microbiology and the politics and possibilities of the mobile microbe”. _cultural geographies_ 18, no. 1 (2011): 91-114; für weitere Details zu Dokuchaev siehe: Bertoni, Filippo. “Soiling Mars: ‘To Boldly Grow Where No Plant Has Grown Before’?” In _Thinking with Soils: Material Politics and Social Theory_ hg. von Juan Francisco Salazar et al. London: Bloomsbury Publishing (2020): 107.
+[^1]: Während die Arbeit dieser Wissenschaftler zu ihrer Lebzeit marginal blieb – u.a. aufgrund sprachlicher, intellektueller und später sogar ideologischer Barrieren –, wird ihr Einfluss auf die späteren Entwicklungen der Technowissenschaften allmählich anerkannt. Zu Winogradsky: Attenborough, Frederick. “The monad and the nomad: medical microbiology and the politics and possibilities of the mobile microbe”. _cultural geographies_ 18, no. 1 (2011): 91-114; für weitere Details zu Dokuchaev siehe: Bertoni, Filippo. “Soiling Mars: ‘To Boldly Grow Where No Plant Has Grown Before’?” In _Thinking with Soils: Material Politics and Social Theory_, hg. von Juan Francisco Salazar et al. London: Bloomsbury Publishing (2020): 107.
 
 [^2]: Zu den Auswirkungen der Kybernetik: Pickering, Andrew. _The cybernetic brain_. Chicago: University of Chicago Press, 2010; oder “Sketches of Another Future: An Interview with Andrew Pickering”. _Sistemas Sociales_, YouTube, 24.03.2014, https://www.youtube.com/watch?v=juGIXi6Lyek (03.01.2022).
 
