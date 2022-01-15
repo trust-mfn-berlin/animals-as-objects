@@ -7,7 +7,7 @@ short_desc_de: Wie werden die Objekte einer Lehrsammlung verzeichnet?
 date_end: 1968-12-31T11:00:00.000Z
 published: false
 title: Inventory Books
-updated: 1642209821050
+updated: 1642210192457
 id: kZTLAIf7pRRgEPPJbtGqA
 doi: 64y2-m311/44
 translators:
@@ -206,25 +206,25 @@ Lost or destroyed specimens were identified with spaces in the inventory books o
 
 The inventory books have become historical documents. It is these discontinuities and functional shifts in record-keeping practice that point to its practical application. The knowledge gained in experience determined how organisational work was carried out in the collection. This knowledge only took shape while using the record-keeping systems that it also produced. In order to read these kinds of historical inventories, academics often have to rely on the expertise of collection employees. The inventories of the teaching collection are examples of the administrative processes that determine everyday life at the institute and in the collection as anonymous structures that rely on oral transmission in many cases.
 
-[^1]: This image is from the private collection of Elsi Hedström, the granddaughter of Franz Eilhard Schulze. The people depicted have been identified by Stefan Richter; cf. “Franz Eilhard Schulze und die Zoologische Lehrsammlung der Berliner Universität”. In _Theater der Natur und Kunst: Theatrum Naturae et Artis; Essays. 3 Bände_, Horst Bredekamp, Jochen Brüning, and Cornelia Weber (eds.). Berlin: Henschel, 2000.
+[^1]: This image is from the private collection of Elsi Hedström, the granddaughter of Franz Eilhard Schulze. The people depicted have been identified by Stefan Richter; cf. “Franz Eilhard Schulze und die Zoologische Lehrsammlung der Berliner Universität”. In _Theater der Natur und Kunst: Theatrum Naturae et Artis_. Horst Bredekamp, Jochen Brüning, and Cornelia Weber (eds.). Berlin: Henschel, 2000.
 
-[^2]: te Heesen, Anke. “Die doppelte Verzeichnung: Schriftliche und räumliche Aneignungsweisen von Natur im 18. Jahrhundert”. In _Gehäuse der Mnemosyne: Architektur als Schriftform der Erinnerung_, Harald Tausch (ed.). Göttingen: Vandenhoeck & Ruprecht, 2003: 263-286.
+[^2]: Anke te Heesen. “Die doppelte Verzeichnung: Schriftliche und räumliche Aneignungsweisen von Natur im 18. Jahrhundert”. In _Gehäuse der Mnemosyne: Architektur als Schriftform der Erinnerung_. Harald Tausch (ed.). Göttingen: Vandenhoeck & Ruprecht, 2003: 263-286.
 
-[^3]: Cf. Vismann, Cornelia. _Akten: Medientechnik und Recht_, 3rd ed. Frankfurt am Main: Fischer, 2011: 21ff.; Turner, Hannah. “Critical Histories of Museum Catalogues”. _Museum Anthropology_ 39, no. 2 (2016): 102-110. https://www.doi.org/10.1111/muan.12118.
+[^3]: Cf. Cornelia Vismann. _Akten: Medientechnik und Recht_. Frankfurt a.M.: Fischer, 2011: 21ff.; Hannah Turner. “Critical Histories of Museum Catalogues”. _Museum Anthropology_ 39, no. 2 (2016): 102-110. https://www.doi.org/10.1111/muan.12118.
 
-[^4]: These labels have only been preserved in rare cases as they were removed during the institutional restructuring that took place in the postwar period. Only objects that were given to other institutions before this time and that were later given back to the institute still bear these old labels. In the chronicles of Friedrich Wilhelms University, however, the acquisition of a typewriter “to produce labels” was recorded for fiscal year 1894/1895. See anonymous. “Chronik der königlichen Friedrich-Wilhelms-Universität zu Berlin für das Rechnungsjahr 1894/95”. In _Chronik der Friedrich-Wilhelms-Universität_, vol. 8. Berlin: 113. https://www.digi-hub.de/viewer/resolver?urn=urn:nbn:de:kobv:11-d-6653534 (20.06.2021).
+[^4]: These labels have only been preserved in rare cases as they were removed during the institutional restructuring that took place in the postwar period. Only objects that were given to other institutions before this time and that were later given back to the institute still bear these old labels. In the chronicles of Friedrich-Wilhelms-Universität zu Berlin, however, the acquisition of a typewriter “to produce labels” was recorded for fiscal year 1894/1895. See anonymous. “Chronik der königlichen Friedrich-Wilhelms-Universität zu Berlin für das Rechnungsjahr 1894/95”. In _Chronik der Friedrich-Wilhelms-Universität_, vol. 8. Berlin: 113. https://www.digi-hub.de/viewer/resolver?urn=urn:nbn:de:kobv:11-d-6653534 (20.06.2021).
 
-[^5]: Tembrock, Günther. “Das Zoologische Institut der Humboldt-Universität von 1945 bis zur Gründung der Sektion Biologie”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin, Math.-Naturw. Reihe_ (1985): 281.
+[^5]: Günther Tembrock. “Das Zoologische Institut der Humboldt-Universität von 1945 bis zur Gründung der Sektion Biologie”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin, Math.-Naturw. Reihe_ (1985): 281.
 
-[^6]: Müller-Wille, Staffan. “Names and Numbers: ‘Data’ in Classical Natural History, 1758-1859”. _Osiris_ 32, no. 1 (2017): 109-128.
+[^6]: Staffan Müller-Wille. “Names and Numbers: ‘Data’ in Classical Natural History, 1758-1859”. _Osiris_ 32, no. 1 (2017): 109-128.
 
-[^7]: Müller-Wille, Staffan and Isabelle Charmantier. “Lists as Research Technologies”. _Isis_ 103, no. 4 (2012): 744.
+[^7]: Staffan Müller-Wille and Isabelle Charmantier. “Lists as Research Technologies”. _Isis_ 103, no. 4 (2012): 744.
 
 [^8]: It is not possible to precisely date this overview. However, it follows the records of object arrivals in 1959/1960.
 
-[^9]: Turner, Hannah. “Critical Histories of Museum Catalogues”. Museum Anthropology 39, no. 2 (2016): 18f. https://www.doi.org/10.1111/muan.12118.
+[^9]: Turner, 2016: 18f.
 
-[^10]: Cf. Vismann, Cornelia. _Akten: Medientechnik und Recht_, 3rd ed. Frankfurt am Main: Fischer, 2011.
+[^10]: Cf. Vismann, 2011.
 
 :::DE:::
 
@@ -394,19 +394,19 @@ Verlorene bzw. zerstörte Präparate wurden durch Leerstellen in den Inventarbü
 
 Die Inventarbücher sind zu historischen Dokumenten geworden. Es sind diese Diskontinuitäten und funktionalen Verschiebungen der Verzeichnungspraxis, die auf ihren praktischen Gebrauch verweisen. Erfahrungswissen bestimmt die organisatorische Arbeit in der Sammlung. Es bildet sich erst durch die Handhabung der Verzeichnungssysteme, während es diese zugleich produziert. Um solche historischen Inventare lesen zu können, sind Wissenschaftler:innen oftmals auf die Expertise von Sammlungsmitarbeiter:innen angewiesen. Die Inventare der Lehrsammlung sind hier exemplarisch für administrative Abläufe, die als anonyme Strukturen den Instituts- und Sammlungsalltag bestimmen und die an vielen Stellen von mündlicher Weitergabe abhängig sind.
 
-[^1]: Das Bild stammt aus dem Privatbesitz Elsi Hedströms, der Enkeltochter Franz Eilhard Schulzes. Die abgebildeten Personen wurden von Stefan Richter identifiziert; vgl. Richter, Stefan. “Franz Eilhard Schulze und die Zoologische Lehrsammlung der Berliner Universität”. In _Theater der Natur und Kunst: Theatrum Naturae et Artis: Essays; 3 Bände_, Horst Bredekamp, Jochen Brüning und Cornelia Weber (Hg.). Berlin: Henschel, 2000.
+[^1]: Das Bild stammt aus dem Privatbesitz Elsi Hedströms, der Enkeltochter Franz Eilhard Schulzes. Die abgebildeten Personen wurden von Stefan Richter identifiziert; vgl. Stefan Richter. “Franz Eilhard Schulze und die Zoologische Lehrsammlung der Berliner Universität”. In _Theater der Natur und Kunst: Theatrum Naturae et Artis_. Horst Bredekamp, Jochen Brüning und Cornelia Weber (Hg.). Berlin: Henschel, 2000.
 
-[^2]: te Heesen, Anke. “Die doppelte Verzeichnung: Schriftliche und räumliche Aneignungsweisen von Natur im 18. Jahrhundert”. In _Gehäuse der Mnemosyne: Architektur als Schriftform der Erinnerung_, Harald Tausch (Hg.). Göttingen: Vandenhoeck & Ruprecht, 2003: 263-286.
+[^2]: Anke te Heesen. “Die doppelte Verzeichnung: Schriftliche und räumliche Aneignungsweisen von Natur im 18. Jahrhundert”. In _Gehäuse der Mnemosyne: Architektur als Schriftform der Erinnerung_. Harald Tausch (Hg.). Göttingen: Vandenhoeck & Ruprecht, 2003: 263-286.
 
-[^3]: Vgl. Vismann, Cornelia. _Akten: Medientechnik und Recht_, 3. Aufl. Frankfurt am Main: Fischer, 2011: 21ff.; Turner, Hannah. “Critical Histories of Museum Catalogues”. _Museum Anthropology_ 39, Nr. 2 (2016): 102-110. https://www.doi.org/10.1111/muan.12118.
+[^3]: Vgl. Cornelia Vismann. _Akten: Medientechnik und Recht_. Frankfurt a.M.: Fischer, 2011: 21ff.; Hannah Turner. “Critical Histories of Museum Catalogues”. _Museum Anthropology_ 39, Nr. 2 (2016): 102-110. https://www.doi.org/10.1111/muan.12118.
 
 [^4]: Diese Etiketten sind heute nur noch in seltenen Fällen erhalten, da sie im Laufe der institutionellen Umstrukturierungen in der Nachkriegszeit entfernt wurden. Lediglich Objekte, die vor dieser Zeit an andere Institutionen abgegeben und später wieder an das Institut zurückgeführt wurden, weisen diese alten Etiketten auf. In den Chroniken der Friedrich-Wilhelms-Universität wird jedoch die Anschaffung einer Schreibmaschine “zur Herstellung von Etiketten” im Rechnungsjahr 1894/95 angegeben. Siehe Anonym. “Chronik der königlichen Friedrich-Wilhelms-Universität zu Berlin für das Rechnungsjahr 1894/95”. In _Chronik der Friedrich-Wilhelms-Universität_, Bd. 8. Berlin: 113. https://www.digi-hub.de/viewer/resolver?urn=urn:nbn:de:kobv:11-d-6653534 (20.06.2021).
 
-[^5]: Tembrock, Günther. “Das Zoologische Institut der Humboldt-Universität von 1945 bis zur Gründung der Sektion Biologie”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin, Math.-Naturw. Reihe_ (1985): 281.
+[^5]: Günther Tembrock. “Das Zoologische Institut der Humboldt-Universität von 1945 bis zur Gründung der Sektion Biologie”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin, Math.-Naturw. Reihe_ (1985): 281.
 
-[^6]: Müller-Wille, Staffan. “Names and Numbers: ‘Data’ in Classical Natural History, 1758-1859”. _Osiris_ 32, Nr. 1 (2017): 109-128.
+[^6]: Staffan Müller-Wille. “Names and Numbers: ‘Data’ in Classical Natural History, 1758-1859”. _Osiris_ 32, Nr. 1 (2017): 109-128.
 
-[^7]: Müller-Wille, Staffan, und Isabelle Charmantier. “Lists as Research Technologies”. _Isis_ 103, Nr. 4 (2012): 744.
+[^7]: Staffan Müller-Wille und Isabelle Charmantier. “Lists as Research Technologies”. _Isis_ 103, Nr. 4 (2012): 744.
 
 [^8]: Eine genaue Datierung dieser Übersicht ist dabei nicht möglich. Allerdings schließt sie an die Verzeichnung von Objekteingängen aus den Jahren 1959/1960 an.
 
