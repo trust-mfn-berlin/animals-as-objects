@@ -1,7 +1,7 @@
 ---
 license: CC BY-SA
 title: Industrial Micropaleontology
-title_de: Industrielle Mikropaleontologie
+title_de: Industrielle Mikropaläontologie
 created: 1621521087155
 updated: 1642164812475
 id: 2df514da-8df2-4278-8534-28e1034c7adf
