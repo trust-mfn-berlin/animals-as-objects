@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1642207491266
+updated: 1642207682904
 id: d54394f6-1188-4ec3-b590-da329e657560
 doi: 64y2-m311/23
 translators:
@@ -266,7 +266,7 @@ Depending on your perspective, the zoo was a hub for the exchange of animals and
 
 [^29]: File memo Katharina Heinroth, 19.03.1946, AZGB O 0/1/75. Direct quotes have been translated into English for clarity’s sake.
 
-[^30]: When guinea pig breeding was being reestablished, the zoo was “often forced to use guinea pigs as feed due to food scarcity”. K. Heinroth to J. Roscher, 23.02.1947, AZGB O 1/2/42. On the threat of evacuation, cf. also K. Heinroth to K. Lorenz, 12.10.1948, AZGB N/4/12; K. Heinroth to E. Mohr, 28.2.1946, in: AZGB N 4/12.
+[^30]: When guinea pig breeding was being reestablished, the zoo was “often forced to use guinea pigs as feed due to food scarcity”. K. Heinroth to J. Roscher, 23.02.1947, AZGB O 1/2/42. On the threat of evacuation, cf. also K. Heinroth to K. Lorenz, 12.10.1948, AZGB N/4/12; K. Heinroth to E. Mohr, 28.02.1946, in: AZGB N 4/12.
 
 [^31]: Between May and August 1945, the number of animals increased from 194 to 240, mainly due to the intake of animals from the Brumbach Circus. 
 
@@ -469,7 +469,7 @@ Je nach Perspektive war der Zoo Umschlagplatz für den Austausch von Tieren und 
 
 [^4]: “Siam erhält Stubenarrest: Wintervorbereitungen im Zoo”. _Das Volk_, 04.11.1945. Die Umnutzung von Freiflächen zum Anbau von Gemüse und Kartoffeln war, wie man sich vorstellen kann, weit verbreitet. Auch der Garten des Museums für Naturkunde war bis 1949 für den Gemüseanbau für die Mitarbeiter:innen reserviert.
 
-[^5]: Vgl. Tätigkeitsbericht des Zoologischen Gartens vom 03.05. bis 23.5.1945, AZGB O 0/1/75. Als Folgen des Krieges waren ein Großteil der Tiere tot und große Teile der Bebauung im Zoo zerstört, weshalb nach der Enttrümmerung viele Freiflächen entstanden.
+[^5]: Vgl. Tätigkeitsbericht des Zoologischen Gartens vom 03.05. bis 23.05.1945, AZGB O 0/1/75. Als Folgen des Krieges waren ein Großteil der Tiere tot und große Teile der Bebauung im Zoo zerstört, weshalb nach der Enttrümmerung viele Freiflächen entstanden.
 
 [^6]: K. Heinroth an L. Rüppell, o.D. [vermutlich April/Mai 1946], AZGB N 4/12. Vgl. auch Jahresbericht der Parkabteilung des Zoologischen Gartens Berlin 1945: “Das grosse Elefantengehege und die unbesetzten Gehege im Straussenhaus und vor der Fasanerie mit Topinambur und Futterrüben bebaut. Die beiden Hauptpromenaden mit Kartoffen bebaut.”
 
@@ -519,7 +519,7 @@ Je nach Perspektive war der Zoo Umschlagplatz für den Austausch von Tieren und 
 
 [^29]: Aktennotiz Katharina Heinroth, 19.03.1946, AZGB O 0/1/75.
 
-[^30]: Als die Meerschweinchenzucht wieder im Aufbau war, blieb der Zoo “öfter gezwungen, aus Futterknappheit Meerschweinchen zu verfüttern”. K. Heinroth an J. Roscher, 23.2.1947, AZGB O 1/2/42. Zur drohenden Evakuierung vgl. auch K. Heinroth an K. Lorenz, 12.10.1948, AZGB N/4/12; K. Heinroth an E. Mohr, 28.02.1946, in: AZGB N 4/12.
+[^30]: Als die Meerschweinchenzucht wieder im Aufbau war, blieb der Zoo “öfter gezwungen, aus Futterknappheit Meerschweinchen zu verfüttern”. K. Heinroth an J. Roscher, 23.02.1947, AZGB O 1/2/42. Zur drohenden Evakuierung vgl. auch K. Heinroth an K. Lorenz, 12.10.1948, AZGB N/4/12; K. Heinroth an E. Mohr, 28.02.1946, in: AZGB N 4/12.
 
 [^31]: Zwischen Mai und August 1945 stieg der Tierbestand von 194 auf 240 Stück, vor allem durch die Aufnahme von Tieren aus dem Zirkus Brumbach.
 
@@ -539,6 +539,6 @@ Je nach Perspektive war der Zoo Umschlagplatz für den Austausch von Tieren und 
 
 [^39]: K. Heinroth an E. Schmidt, 13.10.1948, AZGB O 0/1/274.
 
-[^40]: K. Heinroth an E. Mohr, 22.1.1946, AZGB N/4/12.
+[^40]: K. Heinroth an E. Mohr, 22.01.1946, AZGB N/4/12.
 
-[^41]: K. Heinroth an U. Bergman, 7.3.1950, AZGB N 4/12. Vgl. auch AZGB O 1/1/1.
+[^41]: K. Heinroth an U. Bergman, 07.03.1950, AZGB N 4/12. Vgl. auch AZGB O 1/1/1.
