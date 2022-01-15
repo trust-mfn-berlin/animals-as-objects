@@ -14,7 +14,7 @@ translators:
   translator_en_de: Jan-Peter Herrmann
 desc: Recording is a transformative process.
 desc_de: Naturkundliche Verzeichnungspraktiken und ihre transformative Kraft
-short_desc: recording is a transformative process
+short_desc: Rrecording is a transformative process.
 cover_image:
   image: /images/mfn-hbsb-zool-mus-s004-02-05-96.jpg
 colour_scheme: 9
