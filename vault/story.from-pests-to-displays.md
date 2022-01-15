@@ -7,7 +7,7 @@ short_desc_de: "Stoffwechselprozesse auf hoher See "
 date_end: 1844-12-30T23:50:39.000Z
 published: false
 title: From Pests to Displays
-updated: 1642164854473
+updated: 1642258454445
 id: 3YRSzijvbnQXZs4VO291j
 doi: 64y2-m311/71
 translators:
@@ -49,11 +49,12 @@ In the end, only very few of the living animals survived the journey. We know of
 
 Tracing back their history to the mid-nineteenth century can thus give us insights into how animals were collected and became part of a collection at the time, including those animals that were not originally intended for a collection. In the face of all the logistical restraints that Schomburgk and other naturalists faced, pests can become zoo animals and potential natural history specimens may be turned into feed. The – often improvised – logistical practices of natural history at sea can also be understood as transformative [[metabolic relations|theme.logistical-metabolisms]] that shape and reshape the classification, value and treatment of animals at sea.
 
-[^1]: See Special Issue “Logistical Natures” (in Vorbereitung).
+[^1]: A Special Issue on “Logistical Natures”, edited by Filippo Bertoni, Mareike Vennen, Ina Heumann and Tahani Nadim, will appear at the end of 2022.
+
 
 [^2]: His experiences in transporting living and dead specimens are recorded in his now archived correspondence with the Natural History Museum in Berlin as well as in a three-volume travelogue. See Schomburgk, Richard. _Reisen in Britisch-Guiana in den Jahren 1840-1844._ Leipzig: J. J. Weber, 1847-48. 
 
-[^3]: During this Prussian-British expedition, Richard Schomburgk was commissioned to collect for the Berlin Botanic Gardens and the Royal Museums: “[S]eine Majestät der König [haben], auf unmittelbares Ansuchen des Garten-Gehülfen in Sans-souci, Richard Schomburgk, mittels Allerhöchster, an den Herrn Finanz-Minister und an mich unterm 10ten October 1840 erlaßener Ordre dem R Schomburgk als Beihülfe zu der von ihm unternommenen Reise nach der Küste Guiana’s auf zwei Jahre jährlich 600 rt [Reichstaler] und außerdem noch als Reise Entschädigungs-Kosten ein für allemal 600 rt zu bewilligen geruht, um auf seiner Reise besonders für den hiesigen botanischen Garten und außerdem auch für die naturhistorischen Institute hierselbst Pflanzen, Sämereien und andere geeignete Gegenstände zu sammeln und einzusenden.” In the first year he received 1,200 Reichstaler, in the second year another 600 Reichstaler; see MfN, HBSB, Zool. Mus. S I, Schomburgk, Ri, Bl. 44.
+[^3]: During this Prussian-British expedition, Richard Schomburgk was commissioned to collect for the Berlin Botanic Gardens and the Royal Museums: “His Majesty the King has, at the direct request of the garden assistant in Sanssouci, Richard Schomburgk, by means of the Most High Order issued to the Minister of Finance and to me on 10 October 1840, granted Schomburgk 600 rt Reichstaler annually for two years as assistance for the journey he has undertaken to the Guiana coast and also 600 rt as travel compensation costs once and for all, in order to collect and send plants, seeds and other suitable objects on his journey, especially for the local botanical garden and also for the institutes of natural history here.” In the first year he received 1,200 Reichstaler, in the second year another 600 Reichstaler; see MfN, HBSB, Zool. Mus. S I, Schomburgk, Ri, Bl. 44.
 
 [^4]: He acquired the animals through purchase as well as barter, see Schomburgk, 1847-48, vol. II: 510.
 
@@ -102,7 +103,7 @@ Am Ende überstanden nur wenige lebende Tiere die Überfahrt. Wir wissen von neu
 
 Dieser Rückblick auf die Transportgeschichten naturkundlicher Objekte im 19. Jahrhundert vermittelt einen Eindruck von der Art und Weise, wie Tiere einst zu Bestandteilen von Sammlungen wurden – darunter auch solche, die ursprünglich gar nicht als Sammlungsobjekte vorgesehen waren. Angesichts all der logistischen Einschränkungen und Hindernisse, mit denen Schomburgk und andere Naturforschende zu jener Zeit zu kämpfen hatten, konnten Schädlinge durchaus zu Zootieren und wissenschaftliche Pflanzenproben zu Tierfutter werden. Die – oftmals improvisierten – überseeischen Transportpraktiken der Naturkundler:innen können so als [[metabolische Verhältnisse|theme.logistical-metabolisms]] begriffen werden, die die Klassifikation, den Wert und die Behandlung von Tieren auf See  immer wieder neu bestimmten.  
 
-[^1]: Siehe den Special Issue “Logistical Natures” (in Vorbereitung).
+[^1]: Eine Sonderausgabe zum Thema “Logistical Natures”, herausgegeben von Filippo Bertoni, Mareike Vennen, Ina Heumann und Tahani Nadim, wird Ende 2022 erscheinen.
 
 [^2]: Seine Erfahrungen mit dem Transport lebender und toter Exemplare aller möglichen Arten sind in seiner mittlerweile archivierten Korrespondenz mit dem Museum für Naturkunde Berlin sowie einem Reiselogbuch in drei Bänden festgehalten. Siehe Schomburgk, Richard. _Reisen in Britisch-Guiana in den Jahren 1840-1844._ Leipzig: J. J. Weber, 1847-48. 
 
