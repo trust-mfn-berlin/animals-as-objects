@@ -7,7 +7,7 @@ short_desc_de: Wie werden die Objekte einer Lehrsammlung verzeichnet?
 date_end: 1968-12-31T11:00:00.000Z
 published: false
 title: Inventory Books
-updated: 1642210192457
+updated: 1642210630021
 id: kZTLAIf7pRRgEPPJbtGqA
 doi: 64y2-m311/44
 translators:
@@ -214,7 +214,7 @@ The inventory books have become historical documents. It is these discontinuitie
 
 [^4]: These labels have only been preserved in rare cases as they were removed during the institutional restructuring that took place in the postwar period. Only objects that were given to other institutions before this time and that were later given back to the institute still bear these old labels. In the chronicles of Friedrich-Wilhelms-Universität zu Berlin, however, the acquisition of a typewriter “to produce labels” was recorded for fiscal year 1894/1895. See anonymous. “Chronik der königlichen Friedrich-Wilhelms-Universität zu Berlin für das Rechnungsjahr 1894/95”. In _Chronik der Friedrich-Wilhelms-Universität_, vol. 8. Berlin: 113. https://www.digi-hub.de/viewer/resolver?urn=urn:nbn:de:kobv:11-d-6653534 (20.06.2021).
 
-[^5]: Günther Tembrock. “Das Zoologische Institut der Humboldt-Universität von 1945 bis zur Gründung der Sektion Biologie”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin, Math.-Naturw. Reihe_ (1985): 281.
+[^5]: Günther Tembrock. “Das Zoologische Institut der Humboldt-Universität von 1945 bis zur Gründung der Sektion Biologie”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin_ (1985): 281.
 
 [^6]: Staffan Müller-Wille. “Names and Numbers: ‘Data’ in Classical Natural History, 1758-1859”. _Osiris_ 32, no. 1 (2017): 109-128.
 
@@ -402,7 +402,7 @@ Die Inventarbücher sind zu historischen Dokumenten geworden. Es sind diese Disk
 
 [^4]: Diese Etiketten sind heute nur noch in seltenen Fällen erhalten, da sie im Laufe der institutionellen Umstrukturierungen in der Nachkriegszeit entfernt wurden. Lediglich Objekte, die vor dieser Zeit an andere Institutionen abgegeben und später wieder an das Institut zurückgeführt wurden, weisen diese alten Etiketten auf. In den Chroniken der Friedrich-Wilhelms-Universität wird jedoch die Anschaffung einer Schreibmaschine “zur Herstellung von Etiketten” im Rechnungsjahr 1894/95 angegeben. Siehe Anonym. “Chronik der königlichen Friedrich-Wilhelms-Universität zu Berlin für das Rechnungsjahr 1894/95”. In _Chronik der Friedrich-Wilhelms-Universität_, Bd. 8. Berlin: 113. https://www.digi-hub.de/viewer/resolver?urn=urn:nbn:de:kobv:11-d-6653534 (20.06.2021).
 
-[^5]: Günther Tembrock. “Das Zoologische Institut der Humboldt-Universität von 1945 bis zur Gründung der Sektion Biologie”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin, Math.-Naturw. Reihe_ (1985): 281.
+[^5]: Günther Tembrock. “Das Zoologische Institut der Humboldt-Universität von 1945 bis zur Gründung der Sektion Biologie”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin_ (1985): 281.
 
 [^6]: Staffan Müller-Wille. “Names and Numbers: ‘Data’ in Classical Natural History, 1758-1859”. _Osiris_ 32, Nr. 1 (2017): 109-128.
 
