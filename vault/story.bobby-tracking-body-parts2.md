@@ -7,7 +7,7 @@ short_desc_de: Nachleben eines Zootieres in wissenschaftlichen Sammlungen
 date_end: ""
 published: false
 title: “Bobby”. Tracking Body Parts
-updated: 1642209150581
+updated: 1642210418390
 id: 05XnJBaPUmIcfTWa4WMyb
 doi: 64y2-m311/52
 translators:
@@ -99,7 +99,9 @@ Further clues take us outside the museum. According to the necropsy report, the 
 Before the individual body parts were prepared and donated to other institutions, a further scientific technology was deployed: reproduction by way of plaster casts. To begin with, the taxidermists at the Museum of Natural History made casts of “Bobby’s” various body parts to prepare the taxidermy.[^14] This required the carcass to be completely cleaned of tissue the day after the anatomical examinations had concluded. Then a full cast of the skeleton was made for the museum’s exhibition before all of the casts and bones were sent to the museum. Moreover, casts were made for collections that held both human and animal specimens. Hans Virchow made a plaster cast of the exposed musculature of “Bobby’s” palm and sole. He also prepared his hand and right foot after having produced casts of both. These casts are still on display in a case in the Anatomical Collection of the Charité Hospital (Hans Virchow’s former workplace).[^15] The cast of the prepared foot, including partial labelling of the gorilla’s foot muscle, is displayed in the teaching collection in a vitrine together with feet of other animals.
 
 <figure>
+
 <div class="series">
+
 ![Two plaster casts of "Bobby" the gorilla's hand from above. The muscles in the left cast have been exposed and coloured. Next to it is a white plaster cast of the hand.](/images/mv/bobby-hand-2.jpg)
 
 ![Cast of "Bobby" the gorilla's hand from above with a human hand held next to it.](/images/mv/bobby-hand-charite-1.jpg)
@@ -188,7 +190,7 @@ As the example of the Anatomical Collection at Charité Hospital shows, anatomic
 
 [^14]: They made casts of the uninjured left side, the left side of the chest after the large chest muscle had been removed, and more casts of the pelvic musculature.
 
-[^15]: This is the Anatomical Collection of the Specialty Network Anatomy at the Charité Hospital – Universitätsmedizin Berlin, parts of which are open to the public. The specimen and demonstration collection comprises objects such as anatomical specimens; wax, plaster, and wooden models; plastinates; and pathological anatomical, and zoological objects; as well as the death masks of significant personalities. I would like to thank Evelyn Heuckendorf for providing me with access to the collection and for her tips, which have been incorporated into this text.
+[^15]: This is the Anatomical Collection of the Specialty Network Anatomy at the Charité Hospital, Universitätsmedizin Berlin, parts of which are open to the public. The specimen and demonstration collection comprises objects such as anatomical specimens; wax, plaster, and wooden models; plastinates; and pathological anatomical, and zoological objects; as well as the death masks of significant personalities. I would like to thank Evelyn Heuckendorf for providing me with access to the collection and for her tips, which have been incorporated into this text.
 
 [^16]: L. Heck to F. Voss, 10.12.1935, MfN, HBSB, S004‐02‐05 no. 97.
 
@@ -367,7 +369,7 @@ In anatomischen Sammlungen gibt es, wie das Beispiel der Anatomischen Sammlung d
 
 [^14]: Sie nahmen Abgüsse der unverletzten linken Seite, der linken Brustseite nach Fortnahme des großen Brustmuskels sowie weitere Abgüsse der Beckenmuskulatur.
 
-[^15]: Es handelt sich um die Anatomische Sammlung des Fächerverbund Anatomie der Charité – Universitätsmedizin Berlin, die in Teilen öffentlich zugänglich ist. Die Präparate- und Demonstrationssammlung umfasst u.a. anatomische Präparate, Wachs-, Gips- und Holzmodelle, Plastinate sowie pathologisch-anatomische und zoologische Objekte sowie Totenmasken bedeutender Persönlichkeiten. Ich danke Evelyn Heuckendorf für den Zugang zur Sammlung und für ihre Hinweise, die in diesen Text eingeflossen sind.
+[^15]: Es handelt sich um die Anatomische Sammlung des Fächerverbund Anatomie der Charité, Universitätsmedizin Berlin, die in Teilen öffentlich zugänglich ist. Die Präparate- und Demonstrationssammlung umfasst u.a. anatomische Präparate, Wachs-, Gips- und Holzmodelle, Plastinate sowie pathologisch-anatomische und zoologische Objekte sowie Totenmasken bedeutender Persönlichkeiten. Ich danke Evelyn Heuckendorf für den Zugang zur Sammlung und für ihre Hinweise, die in diesen Text eingeflossen sind.
 
 [^16]: L. Heck an F. Voss, 10.12.1935, MfN, HBSB, S004‐02‐05 Nr. 97.
 
