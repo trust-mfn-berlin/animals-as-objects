@@ -7,7 +7,7 @@ short_desc_de: Die Zurschaustellung wilder Tiere als koloniale Aneignung
 date_end: ""
 published: false
 title: An “Atmospheric Image” of the Empire
-updated: 1642243445898
+updated: 1642243713839
 id: ZDxo1U9ptEVRJhmFpVKyC
 doi: 64y2-m311/74
 translators:
@@ -57,13 +57,13 @@ This strategy to combine a hunting exhibition with a colonial exhibition continu
 
 [^1]: The Deutsche Kolonialgesellschaft aggregated the former initiatives of the Deutscher Kolonialverein, founded in 1882 in Frankfurt, and the Gesellschaft für Deutsche Kolonisation, founded in 1884 by colonial ideologist Carl Peters (1856-1918) to secure the colonial rule of what was German East Africa.
 
-[^2]: “Raum 4: Eisengräber”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_. 2nd ed. Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 61.
+[^2]: “Raum 4: Eisengräber”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_. 2nd ed., Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 61.
 
-[^3]: German original: “ein möglichst stimmungsvolles Bild”. Rehbock, T. “Vorwort”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 1903: 11. 
+[^3]: German original: “ein möglichst stimmungsvolles Bild”. T. Rehbock. “Vorwort”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 1903: 11. 
 
 [^4]: “Raum 2 b und c: Zoologisches Museum, Berlin”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 1903: 55.
 
-[^5]: German original: “die Kenntnis der Tierwelt unserer Kolonien zu vertiefen” Rehbock, T. “Vorwort”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 1903: 11.
+[^5]: German original: “die Kenntnis der Tierwelt unserer Kolonien zu vertiefen” Rehbock, 1903: 11.
 
 [^6]: German original: “um das Gesamtbild der Ausstellung möglichst vielseitig zu gestalten”. Ibid.: 11.
 
@@ -101,12 +101,12 @@ Diese Strategie, eine Jagdausstellung mit einer kolonialen Ausstellung zu kombin
 
 [^1]: Die Deutsche Kolonialgesellschaft entstand aus der Vereinigung der Vorläuferinitiativen Deutscher Kolonialverein, gegründet 1882 in Frankfurt, und Gesellschaft für Deutsche Kolonisation, 1884 vom kolonialen Chefideologen Carl Peters (1856-1918) zur Aufrechterhaltung der deutschen Kolonialherrschaft im damals so bezeichneten Deutsch-Ostafrika gegründet.
 
-[^2]: “Raum 4: Eisengräber”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 2. Aufl., Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 61.
+[^2]: “Raum 4: Eisengräber”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_. 2. Aufl., Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 61.
 
-[^3]: Im Original: “ein möglichst stimmungsvolles Bild”. Rehbock, T. „Vorwort“. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 1903: 11. 
+[^3]: Im Original: “ein möglichst stimmungsvolles Bild”. T. Rehbock. “Vorwort”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 1903: 11. 
 
 [^4]: “Raum 2 b und c: Zoologisches Museum, Berlin”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 1903: 55.
 
-[^5]: Im Original: “die Kenntnis der Tierwelt unserer Kolonien zu vertiefen” Rehbock, T. “Vorwort”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_, 1903: 11.
+[^5]: Im Original: “die Kenntnis der Tierwelt unserer Kolonien zu vertiefen”. Rehbock, 1903: 11.
 
 [^6]: Im Original: “um das Gesamtbild der Ausstellung möglichst vielseitig zu gestalten”. Ebd.: 11.
