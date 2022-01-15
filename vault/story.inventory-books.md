@@ -7,7 +7,7 @@ short_desc_de: Wie werden die Objekte einer Lehrsammlung verzeichnet?
 date_end: 1968-12-31T11:00:00.000Z
 published: false
 title: Inventory Books
-updated: 1642210630021
+updated: 1642210778855
 id: kZTLAIf7pRRgEPPJbtGqA
 doi: 64y2-m311/44
 translators:
@@ -58,9 +58,9 @@ Inventories, lists, labels, and other forms of [[record-keeping|story.keeping-re
 
 <!-- (Abbildung der Inventarbücher z.B. auf einem Tisch aufgestapelt) -->
 
-In the Zoological Teaching Collection of the Humboldt-Universität zu Berlin, there are historical inventory books that employees began the year the collection was founded, in 1884, to keep ongoing records of the collection’s holdings. Today they provide insights into the work performed to order the collection and contain exciting information about the [[history of the zoological collection|story.history-of-the-zoological-teaching-collection]]. The teaching collection belonged to the university’s Zoological Institute, which was also founded in 1884 with a focus on academic teaching, which made it unlike other natural history institutions at the time, for example, the Zoological Museum, which primarily served research purposes.
+In the Zoological Teaching Collection of the Humboldt-Universität zu Berlin, there are historical inventory books that employees began the year the collection was founded, in 1884, to keep ongoing records of the collection’s holdings. Today they provide insights into the work performed to order the collection and contain exciting information about the [[history of the Zoological Collection|story.history-of-the-zoological-teaching-collection]]. The teaching collection belonged to the university’s Zoological Institute, which was also founded in 1884 with a focus on academic teaching, which made it unlike other natural history institutions at the time, for example, the Zoological Museum, which primarily served research purposes.
 
-A total of eight inventories, each of which was assigned a Roman numeral, listed the institute’s complete collection holdings, from specimens, models, and wall charts all the way to instruments and furnishings. They were large, cumbersome books that recorded information over hundreds of pages. The knowledge about the items in the collection written down here is structured by a preprinted table that bears the titles of various categories, which differ depending on the inventory. Three of the inventory books – Inventory of Specimens Chap. V(1), V(2), and VII – were dedicated to animal specimens alone, which, alongside models made from [[plastic|material.somsoplast-plastic-animal-models]] and [[papier mâché|material.silkworm-in-papier-mache]], as well as wall charts, were particularly relevant to teaching. Structured chronologically by running numbers, they list items from the period 1884-1943. Once a specimen made its way into the teaching collection, it was assigned a number, and institute employees noted down information like “description”, “location”, “preservation”, “acquisition”, “number”, and “price” in the assigned columns.
+A total of eight inventories, each of which was assigned a Roman numeral, listed the institute’s complete collection holdings, from specimens, models, and wall charts all the way to instruments and furnishings. They were large, cumbersome books that recorded information over hundreds of pages. The knowledge about the items in the collection written down here is structured by a preprinted table that bears the titles of various categories, which differ depending on the inventory. Three of the inventory books – Inventory of Specimens Chap. V(1), V(2), and VII – were dedicated to animal specimens alone, which, alongside models made from [[plastic|material.somsoplast-plastic-animal-models]] and [[papier mâché|material.silkworm-in-papier-mache]], as well as wall charts, were particularly relevant to teaching. Structured chronologically by running numbers, they list items from the period 1884-1943. Once a specimen made its way into the teaching collection, it was assigned a number, and institute employees noted down information like ‘description’, ‘location’, ‘preservation’, ‘acquisition’, ‘number’, and ‘price’ in the assigned columns.
 
 <figure>
 
@@ -176,7 +176,7 @@ _This page from inventory book VII shows how species were grouped into animal cl
 
 Like the collection items themselves, the inventories show signs of wear and tear. The pages in inventory book V display colour codes, deletions, and notes made in pencil. These were added after the fact and thus were not part of the originally intended practice of record-keeping. The additions were probably made when the specific pieces of information were being transferred to inventory book VII. The annotations overlap and emphasise the various temporal layers. It is precisely for this reason that they are confusing to outside ‘readers’ and new collection employees. **Decoding and correctly classifying historical objects is like performing detective work that, despite meticulously comparing various entries, numbers, and handwriting, only seldom leads to a precise conclusion.** 
 
-Marks with crosses, circles, and dots beside entries in inventory book V probably stand for “preserved” or “lost”. The records were transferred to catalogue VII accordingly. _Acanthias vulgaris_ Risso has been noted with its old name under 1208.
+Marks with crosses, circles, and dots beside entries in inventory book V probably stand for ‘preserved’ or ‘lost’. The records were transferred to catalogue VII accordingly. _Acanthias vulgaris_ Risso has been noted with its old name under 1208.
 
 <figure>
 
