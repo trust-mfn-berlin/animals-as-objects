@@ -103,7 +103,7 @@ Carla Welch ist eine freiberufliche Übersetzering und Lektorin.
 Trust arbeitete für dieses Projekt mit Son La Pham und Claire Tolan.
 
 #### Son La Pham
-Son La Pham lebt in Berlin und arbeitet als Grafikdesigner mit Schwerpunkt auf neuen Formen für Technologien und das Web. Seine digitalen Arbeiten wurden publiziert in _It’s Nice That_, [_Hoverstat_](hoverstat.es), [_Loadmo_](loadmo.re) and _Fonts In Use_.
+Son La Pham lebt in Berlin und arbeitet als Grafikdesigner mit Schwerpunkt auf neuen Formen für Technologien und das Web. Seine digitalen Arbeiten wurden publiziert in _It’s Nice That_, [_Hoverstat_](https://www.hoverstat.es/), [_Loadmo_](https://loadmo.re/) and _Fonts In Use_.
 
 #### Claire Tolan
 Claire Tolan ist eine in Berlin lebende Künstlerin und Programmiererin, die sich auf die Erforschung der Interaktion zwischen Mensch und Computer, Online-Gemeinschaften (Intimität, Privatsphäre) sowie Informationsstrukturen und -theorie konzentriert.
@@ -112,7 +112,7 @@ Claire Tolan ist eine in Berlin lebende Künstlerin und Programmiererin, die sic
 Rasmus Emanuel Svensson ist Grafikdesigner und lebt in Berlin und Amsterdam, wo er (zusammen mit Hanna Nilsson) das Studio und den Verlag [PWR studio]( https://pwr.site/) gegründet hat. 
 
 ### Web Editors
-[_bellu_&_bellu_](mbab.paqc.net)
+[_bellu_&_bellu_](http://mbab.paqc.net/)
 
 ### Danksagung
 
