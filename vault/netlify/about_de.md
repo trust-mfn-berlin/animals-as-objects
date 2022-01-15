@@ -112,7 +112,7 @@ Claire Tolan ist eine in Berlin lebende Künstlerin und Programmiererin, die sic
 Rasmus Emanuel Svensson ist Grafikdesigner und lebt in Berlin und Amsterdam, wo er (zusammen mit Hanna Nilsson) das Studio und den Verlag [PWR studio]( https://pwr.site/) gegründet hat. 
 
 ### Web Editors
-[bellu_&_ bellu](mbab.paqc.net)
+[_bellu_&_bellu_](mbab.paqc.net)
 
 ### Danksagung
 
