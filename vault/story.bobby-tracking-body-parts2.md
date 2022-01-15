@@ -7,7 +7,7 @@ short_desc_de: Nachleben eines Zootieres in wissenschaftlichen Sammlungen
 date_end: ""
 published: false
 title: “Bobby”. Tracking Body Parts
-updated: 1642208550489
+updated: 1642209150581
 id: 05XnJBaPUmIcfTWa4WMyb
 doi: 64y2-m311/52
 translators:
@@ -162,7 +162,7 @@ As the example of the Anatomical Collection at Charité Hospital shows, anatomic
 
 [^1]: According to the necropsy report, the ape, who died on the afternoon of 1 August 1935, had already been taken to the refrigeration room of the Westend Pathological Institute three hours after his death. The necropsy began the next day.
 
-[^2]: The taxidermy of the animal was created by Berlin taxidermists Karl Kaestner (1895-1983) and Gerhard Schröder (1896-1945) in the same year. They used a new technique they developed. It involved partially replenishing sparsely haired body parts with paraffin wax. This allowed preservation of fine structures in face and hands and prevented shrinking during the drying process. The water contained in the cells is substituted by solid substances such as paraffin wax or polyethylene glycol. Information taken from: https://www.museumfuernaturkunde.berlin/en/museum/exhibitions/masterpieces-taxidermy (17.12.2021).]
+[^2]: The taxidermy of the animal was created by Berlin taxidermists Karl Kaestner (1895-1983) and Gerhard Schröder (1896-1945) in the same year. They used a new technique they developed. It involved partially replenishing sparsely haired body parts with paraffin wax. This allowed preservation of fine structures in face and hands and prevented shrinking during the drying process. The water contained in the cells is substituted by solid substances such as paraffin wax or polyethylene glycol. Information taken from: https://www.museumfuernaturkunde.berlin/en/museum/exhibitions/masterpieces-taxidermy (17.12.2021).
 
 [^3]: When his limbs were removed and where his hand might have gone remain unanswered questions.
 
@@ -178,13 +178,13 @@ As the example of the Anatomical Collection at Charité Hospital shows, anatomic
 
 [^9]: MfN, HBSB, S004-02-05 134, Pohle estate.
 
-[^10]: Koch, Walter. “Bericht über das Ergebnis der Obduktion des Gorilla Bobby des Zoologischen Gartens zu Berlin”. _Veröffentlichung aus der Konstitutions- und Wehrpathologie_ 40, no. 9,3 (1937): 1-36, 7.
+[^10]: Walter Koch. “Bericht über das Ergebnis der Obduktion des Gorilla Bobby des Zoologischen Gartens zu Berlin”. _Veröffentlichung aus der Konstitutions- und Wehrpathologie_ 40, no. 9,3 (1937): 1-36, 7.
 
 [^11]: I would like to thank Simon Nobis from the Max Planck Society Archive for his support.
 
-[^12]: The founding director of the KIW-A, Eugen Fischer, wanted his approach, which he termed “anthropobiology”, to find genetic principles for the “phenotypical” diversity of humans, i.e., for differences in skin, hair, and eye colour; and to connect anthropometric methods, i.e., the measuring of human bodies and skeletons, with questions and methods of “heredity”, that is, of human genetics. On the institute’s problematic history, see Sachse, Carola and Benoit Massin. _Biowissenschaftliche Forschung an Kaiser-Wilhelm-Instituten und die Verbrechen des NS-Regimes: Informationen über den gegenwärtigen Wissensstand_. Berlin: Max-Planck-Gesellschaft, 2000; Schmuhl, Hans Walter. _Grenzüberschreitungen: Das Kaiser-Wilhelm-Institut für Anthropologie, menschliche Erblehre und Eugenik, 1927-1945_. Göttingen: Wallstein, 2005. The Museum of Natural History received a replica of the brain (which we have not yet been able to locate).
+[^12]: The founding director of the KIW-A, Eugen Fischer, wanted his approach, which he termed “anthropobiology”, to find genetic principles for the “phenotypical” diversity of humans, i.e., for differences in skin, hair, and eye colour; and to connect anthropometric methods, i.e., the measuring of human bodies and skeletons, with questions and methods of “heredity”, that is, of human genetics. On the institute’s problematic history, see Carola Sachse and Benoit Massin. _Biowissenschaftliche Forschung an Kaiser-Wilhelm-Instituten und die Verbrechen des NS-Regimes: Informationen über den gegenwärtigen Wissensstand_. Berlin: Max-Planck-Gesellschaft, 2000; Hans Walter Schmuhl. _Grenzüberschreitungen: Das Kaiser-Wilhelm-Institut für Anthropologie, menschliche Erblehre und Eugenik, 1927-1945_. Göttingen: Wallstein, 2005. The Museum of Natural History received a replica of the brain (which we have not yet been able to locate).
 
-[^13]: Cf. Schmuhl, H.-W. “Hirnforschung und Krankenmord: Das Kaiser-Wilhelm-Institut für Hirnforschung 1937-1945”. In _Forschungsprogramm “Geschichte der Kaiser-Wilhelm-Gesellschaft im Nationalsozialismus”_, ed. by the Präsidentenkommission der Max-Planck-Gesellschaft, 2000, http://www.mpiwg-berlin.mpg.de/KWG/Ergebnisse/Ergebnisse1.pdf.
+[^13]: Cf. H.-W. Schmuhl. “Hirnforschung und Krankenmord: Das Kaiser-Wilhelm-Institut für Hirnforschung 1937-1945”. In _Forschungsprogramm “Geschichte der Kaiser-Wilhelm-Gesellschaft im Nationalsozialismus”_. Präsidentenkommission der Max-Planck-Gesellschaft (ed.), 2000, http://www.mpiwg-berlin.mpg.de/KWG/Ergebnisse/Ergebnisse1.pdf.
 
 [^14]: They made casts of the uninjured left side, the left side of the chest after the large chest muscle had been removed, and more casts of the pelvic musculature.
 
@@ -192,13 +192,13 @@ As the example of the Anatomical Collection at Charité Hospital shows, anatomic
 
 [^16]: L. Heck to F. Voss, 10.12.1935, MfN, HBSB, S004‐02‐05 no. 97.
 
-[^17]: Koch, Walter. “Bericht über das Ergebnis der Obduktion des Gorilla Bobby des Zoologischen Gartens zu Berlin”. _Veröffentlichung aus der Konstitutions- und Wehrpathologie_ 40, no. 9.3 (1937): 1-36.
+[^17]: See Koch, 1937.
 
 [^18]: The photographs are now housed in the Berlin Museum of Natural History’s archive. Because body parts have to be prepared quickly (especially during the hot August of 1935), the photos were “only taken using the Leika, often in very unfavourable lighting conditions”. The photos were taken to document the procedure and were intended for internal use in order to illustrate the shapes and characteristics of specific body parts. The necropsy report also mentions film recordings, about which I have unfortunately not yet been able to find any information on.
 
-[^19]: On the connection between human zoos and the racialisation of human bodies, see Lewerenz, Susann. “Völkerschauen und die Konstituierung rassifizierter Körper”. In _Marginalisierte Körper: Beiträge zur Soziologie und Geschichte des anderen Körpers_ Torsten Junge und Imke Schmincke (eds.). Münster: Unrast, 2007: 135–153. On the human zoos in Stellingen and Berlin, see Thode-Arora, Hilke. _Für fünfzig Pfennig um die Welt: Die Hagenbeckschen Völkerschauen_. Frankfurt a.M.: Campus-Verlag, 1989; Maier-Wolthausen, Clemens. _Hauptstadt der Tiere._ Berlin: Ch. Links Verlag, 2019. On human remains in German collections, see, e.g., Förster, Larissa, and Holger Stoecker. _Haut, Haar und Knochen: Koloniale Spuren in naturkundlichen Sammlungen der Universität Jena_. Weimar: Verlag und Datenbank für Geisteswissenschaften, 2016; Stoecker, Holger et al. (eds.). _Sammeln, Erforschen, Zurückgeben? Menschliche Überreste aus der Kolonialzeit in akademischen und musealen Sammlungen._ Berlin: Ch. Links Verlag, 2013.
+[^19]: On the connection between human zoos and the racialisation of human bodies, see Susann Lewerenz. “Völkerschauen und die Konstituierung rassifizierter Körper”. In _Marginalisierte Körper: Beiträge zur Soziologie und Geschichte des anderen Körpers_ Torsten Junge und Imke Schmincke (eds.). Münster: Unrast, 2007: 135-153. On the human zoos in Stellingen and Berlin, see Hilke Thode-Arora. _Für fünfzig Pfennig um die Welt: Die Hagenbeckschen Völkerschauen_. Frankfurt a.M.: Campus-Verlag, 1989; Clemens Maier-Wolthausen. _Hauptstadt der Tiere._ Berlin: Ch. Links Verlag, 2019. On human remains in German collections, see, e.g., Larissa Förster and Holger Stoecker. _Haut, Haar und Knochen: Koloniale Spuren in naturkundlichen Sammlungen der Universität Jena_. Weimar: Verlag und Datenbank für Geisteswissenschaften, 2016; Holger Stoecker et al. (eds.). _Sammeln, Erforschen, Zurückgeben?: Menschliche Überreste aus der Kolonialzeit in akademischen und musealen Sammlungen._ Berlin: Ch. Links Verlag, 2013.
 
-[^20]: Lange, Britta. _Echt Unecht Lebensecht: Menschenbilder im Umlauf_. Berlin: Kadmos, 2006: 243. Gräfe, Sophia. “Totenmaske für einen Fuchs”. In _Wissensdinge: Geschichten aus dem Naturkundemuseum_, Anita Hermannstädter, Ina Heumann, and Kerstin Pannhorst (eds.), 2nd ed. Berlin: Dietrich Reimer 2020: 192–193.
+[^20]: Britta Lange. _Echt Unecht Lebensecht: Menschenbilder im Umlauf_. Berlin: Kadmos, 2006: 243. Sophia Gräfe. “Totenmaske für einen Fuchs”. In _Wissensdinge: Geschichten aus dem Naturkundemuseum_, Anita Hermannstädter, Ina Heumann, and Kerstin Pannhorst (eds.), 2nd ed. Berlin: Dietrich Reimer 2020: 192-193.
 
 :::DE:::
 
@@ -357,13 +357,13 @@ In anatomischen Sammlungen gibt es, wie das Beispiel der Anatomischen Sammlung d
 
 [^9]: Vgl. MfN, HBSB, S004-02-05 134, Nachlass Pohle.
 
-[^10]: Koch, Walter. “Bericht über das Ergebnis der Obduktion des Gorilla Bobby des Zoologischen Gartens zu Berlin”. _Veröffentlichung aus der Konstitutions- und Wehrpathologie_ 40, Nr. 9,3 (1937): 1-36, 7.
+[^10]: Walter Koch. “Bericht über das Ergebnis der Obduktion des Gorilla Bobby des Zoologischen Gartens zu Berlin”. _Veröffentlichung aus der Konstitutions- und Wehrpathologie_ 40, Nr. 9,3 (1937): 1-36, 7.
 
 [^11]: Ich danke Simon Nobis vom Archiv der Max-Planck-Gesellschaft für seine wertvollen Hinweise.
 
-[^12]: Der Gründungsdirektor des KWI-A, Eugen Fischer, wollte mit seinem “Anthropobiologie” genannten Ansatz für die “phänotypische” Vielfalt beim Menschen, also für Unterschiede in Haut-, Haar- und Augenfarben, genetische Grundlagen finden und anthropometrische Methoden, also die Vermessung menschlicher Körper und Skelette, mit Fragen und Methoden der “Erblehre”, also der Humangenetik, verbinden. Zur problematischen Geschichte des Instituts vgl. Sachse, Carola, und Benoit Massin. _Biowissenschaftliche Forschung an Kaiser-Wilhelm-Instituten und die Verbrechen des NS-Regimes: Informationen über den gegenwärtigen Wissensstand_. Berlin: Max-Planck-Gesellschaft, 2000; Schmuhl, Hans Walter. _Grenzüberschreitungen. Das Kaiser-Wilhelm-Institut für Anthropologie, menschliche Erblehre und Eugenik, 1927-1945_. Göttingen: Wallstein, 2005. Das Naturkundemuseum erhielt eine Nachbildung des Gehirns (die wir bislang nicht gefunden haben).
+[^12]: Der Gründungsdirektor des KWI-A, Eugen Fischer, wollte mit seinem “Anthropobiologie” genannten Ansatz für die “phänotypische” Vielfalt beim Menschen, also für Unterschiede in Haut-, Haar- und Augenfarben, genetische Grundlagen finden und anthropometrische Methoden, also die Vermessung menschlicher Körper und Skelette, mit Fragen und Methoden der “Erblehre”, also der Humangenetik, verbinden. Zur problematischen Geschichte des Instituts vgl. Carola Sachse und Benoit Massin. _Biowissenschaftliche Forschung an Kaiser-Wilhelm-Instituten und die Verbrechen des NS-Regimes: Informationen über den gegenwärtigen Wissensstand_. Berlin: Max-Planck-Gesellschaft, 2000; Hans Walter Schmuhl. _Grenzüberschreitungen: Das Kaiser-Wilhelm-Institut für Anthropologie, menschliche Erblehre und Eugenik, 1927-1945_. Göttingen: Wallstein, 2005. Das Naturkundemuseum erhielt eine Nachbildung des Gehirns (die wir bislang nicht gefunden haben).
 
-[^13]: Vgl. Schmuhl, H.-W. “Hirnforschung und Krankenmord. Das Kaiser-Wilhelm-Institut für Hirnforschung 1937-1945”. In _Forschungsprogramm “Geschichte der Kaiser-Wilhelm-Gesellschaft im Nationalsozialismus”_, hg. von der Präsidentenkommission der Max-Planck-Gesellschaft. 2000. http://www.mpiwg-berlin.mpg.de/KWG/Ergebnisse/Ergebnisse1.pdf.
+[^13]: Vgl. H.-W. Schmuhl. “Hirnforschung und Krankenmord: Das Kaiser-Wilhelm-Institut für Hirnforschung 1937-1945”. In _Forschungsprogramm “Geschichte der Kaiser-Wilhelm-Gesellschaft im Nationalsozialismus”_. Präsidentenkommission der Max-Planck-Gesellschaft (Hg.). 2000. http://www.mpiwg-berlin.mpg.de/KWG/Ergebnisse/Ergebnisse1.pdf.
 
 [^14]: Sie nahmen Abgüsse der unverletzten linken Seite, der linken Brustseite nach Fortnahme des großen Brustmuskels sowie weitere Abgüsse der Beckenmuskulatur.
 
@@ -371,10 +371,10 @@ In anatomischen Sammlungen gibt es, wie das Beispiel der Anatomischen Sammlung d
 
 [^16]: L. Heck an F. Voss, 10.12.1935, MfN, HBSB, S004‐02‐05 Nr. 97.
 
-[^17]: Koch, Walter. “Bericht über das Ergebnis der Obduktion des Gorilla Bobby des Zoologischen Gartens zu Berlin”. _Veröffentlichung aus der Konstitutions- und Wehrpathologie_ 40, Nr. 9,3 (1937): 1-36.
+[^17]: Siehe Koch, 1937.
 
 [^18]: Die Aufnahmen befinden sich heute im Archiv des Museums für Naturkunde Berlin. Da Körperteile schnell präpariert werden mussten (vor allem im heißen August 1935), sind die Aufnahmen “lediglich mit der Leika unter oft recht ungünstigen Beleuchtungsverhältnissen gemacht worden”. Die Aufnahmen sind zu dokumentarischen Zwecken entstanden und waren zum internen Gebrauch vorgesehen, um die Formen und Charakteristika einzelner Körperpartien zu veranschaulichen. Im Obduktionsbericht sind außerdem Filmaufnahmen erwähnt, über deren Verbleib ich leider bislang keine Informationen gefunden habe.
 
-[^19]: Zur Verbindung von Völkerschauen und der Rassifizierung menschlicher Körper vgl. Lewerenz, Susann. “Völkerschauen und die Konstituierung rassifizierter Körper”. In _Marginalisierte Körper. Beiträge zur Soziologie und Geschichte des anderen Körpers_, Torsten Junge und Imke Schmincke (Hg.). Münster: Unrast, 2007: 135–153. Zu Völkerschauen in Tiergärten in Stellingen und Berlin vgl. Thode-Arora, Hilke. _Für fünfzig Pfennig um die Welt: Die Hagenbeckschen Völkerschauen_. Frankfurt a.M.: Campus-Verlag, 1989; Maier-Wolthausen, Clemens. _Hauptstadt der Tiere._ Berlin: Ch. Links Verlag, 2019. Zu menschlichen Überresten in deutschen Sammlungen vgl. etwa Förster, Larissa, und Holger Stoecker. _Haut, Haar und Knochen: Koloniale Spuren in naturkundlichen Sammlungen der Universität Jena_. Weimar: Verlag und Datenbank für Geisteswissenschaften, 2016; Stoecker, Holger u.a. (Hg.). _Sammeln, Erforschen, Zurückgeben? Menschliche Überreste aus der Kolonialzeit in akademischen und musealen Sammlungen._ Berlin: Ch. Links Verlag, 2013.
+[^19]: Zur Verbindung von Völkerschauen und der Rassifizierung menschlicher Körper vgl. Susann Lewerenz. “Völkerschauen und die Konstituierung rassifizierter Körper”. In _Marginalisierte Körper: Beiträge zur Soziologie und Geschichte des anderen Körpers_, Torsten Junge und Imke Schmincke (Hg.). Münster: Unrast, 2007: 135-153. Zu Völkerschauen in Tiergärten in Stellingen und Berlin vgl. Hilke Thode-Arora. _Für fünfzig Pfennig um die Welt: Die Hagenbeckschen Völkerschauen_. Frankfurt a.M.: Campus-Verlag, 1989; Clemens Maier-Wolthausen. _Hauptstadt der Tiere._ Berlin: Ch. Links Verlag, 2019. Zu menschlichen Überresten in deutschen Sammlungen vgl. etwa Larissa Förster und Holger Stoecker. _Haut, Haar und Knochen: Koloniale Spuren in naturkundlichen Sammlungen der Universität Jena_. Weimar: Verlag und Datenbank für Geisteswissenschaften, 2016; Holger Stoecker et al. (Hg.). _Sammeln, Erforschen, Zurückgeben?: Menschliche Überreste aus der Kolonialzeit in akademischen und musealen Sammlungen._ Berlin: Ch. Links Verlag, 2013.
 
-[^20]: Lange, Britta. _Echt Unecht Lebensecht: Menschenbilder im Umlauf_. Berlin: Kadmos, 2006: 243. Gräfe, Sophia. “Totenmaske für einen Fuchs”. In _Wissensdinge: Geschichten aus dem Naturkundemuseum_, Anita Hermannstädter, Ina Heumann und Kerstin Pannhorst (Hg.), 2. Aufl. Berlin: Dietrich Reimer, 2020: 192–193.
+[^20]: Britta Lange. _Echt Unecht Lebensecht: Menschenbilder im Umlauf_. Berlin: Kadmos, 2006: 243. Sophia Gräfe. “Totenmaske für einen Fuchs”. In _Wissensdinge: Geschichten aus dem Naturkundemuseum_, Anita Hermannstädter, Ina Heumann und Kerstin Pannhorst (Hg.), 2. Aufl. Berlin: Dietrich Reimer, 2020: 192-193.
