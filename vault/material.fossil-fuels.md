@@ -11,12 +11,10 @@ translators:
   translator_en_de: ""
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
-desc: Fossils are still used everyday to power our societies
-desc_de: Noch immer greifen wir für die Energieversorgung unserer Gesellschaft
-  auf fossile Brennstoffe zurück.
-short_desc: Fossils are still used everyday to power our societies
-short_desc_de: Noch immer greifen wir für die Energieversorgung unserer
-  Gesellschaft auf fossile Brennstoffe zurück.
+desc: Fossils are still used everyday to power our societies.
+desc_de: Alte Energie für neue Gesellschaften?
+short_desc: Fossils are still used everyday to power our societies.
+short_desc_de: Alte Energie für neue Gesellschaften?
 cover_image:
   image: /images/fossil-fuel.png
 colour_scheme: 10
