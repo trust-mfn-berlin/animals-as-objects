@@ -7,7 +7,7 @@ short_desc_de: Die Kategorisierung der Natur ist politisch
 date_end: 2021-07-06T11:43:53.791Z
 published: false
 title: Taxonomic Orders
-updated: 1642360232278
+updated: 1642360263441
 id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
 doi: 64y2-m311/5
 translators:
@@ -99,7 +99,7 @@ Like all sorts of classifications, biological taxonomies are entangled with powe
 
 [^6]: Ernst Haeckel. _Generelle Morphologie der Organismen: Allgemeine Grundzüge der organischen Formen-Wissenschaft, mechanisch begründet durch die von C. Darwin reformirte Decendenz-Theorie_. Berlin: 1866.
 
-[^7]: To learn more about the Modern Synthesis, see Chia-Yi Hou. “Modern Synthesis, 1937”. 01.09.2019, https://www.the-scientist.com/foundations/modern-synthesis-1937-66322 (01.07.2021). Also see Ernst Mayr and William B. Provine. _The Evolutionary Synthesis_. Cambridge (MA) and London: Harvard University Press, 2013. https://doi.org/10.4159/harvard.9780674865389. An alternative historical interpretation can be found in Maurizio Esposito. “Utopianism in the British Evolutionary Synthesis”. _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_ 42, no. 1 (2011): 40-49. https://doi.org/10.1016/j.shpsc.2010.11.007. For the ongoing effort to extend and amend this synthesis, see Tim Lewens. “The Extended Evolutionary Synthesis: What is the Debate About, and What Might Success for the Extenders Look Like?” _Biological Journal of the Linnean Society_ 127, no. 4 (2019): 707-721. https://doi.org/10.1093/biolinnean/blz064.
+[^7]: To learn more about the Modern Synthesis, see Chia-Yi Hou. “Modern Synthesis, 1937”. 01.09.2019, https://www.the-scientist.com/foundations/modern-synthesis-1937-66322 (01.07.2021). Also see Ernst Mayr and William B. Provine. _The Evolutionary Synthesis_. Cambridge: Harvard University Press, 2013. https://doi.org/10.4159/harvard.9780674865389. An alternative historical interpretation can be found in Maurizio Esposito. “Utopianism in the British Evolutionary Synthesis”. _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_ 42, no. 1 (2011): 40-49. https://doi.org/10.1016/j.shpsc.2010.11.007. For the ongoing effort to extend and amend this synthesis, see Tim Lewens. “The Extended Evolutionary Synthesis: What is the Debate About, and What Might Success for the Extenders Look Like?” _Biological Journal of the Linnean Society_ 127, no. 4 (2019): 707-721. https://doi.org/10.1093/biolinnean/blz064.
 
 [^8]: For more on cladistics, see “An Introduction to Cladistics”. 1996, https://ucmp.berkeley.edu/clad/clad1.html (01.07.2021); Q. Wheeler, L. Assis, and O. Rieppel. “Heed the Father of Cladistics”. _Nature_ 496 (2013): 295–296. https://doi.org/10.1038/496295a.
 
