@@ -7,7 +7,7 @@ short_desc_de: Clastique-Modell einer Seidenraupe
 date_end: 1900-12-31T11:00:00.000Z
 published: false
 title: Papier Mâché Silkworm
-updated: 1642365560046
+updated: 1642365632021
 id: kaVI1pTyKCM8SvVsrYrSJ
 doi: 64y2-m311/72
 translators:
@@ -43,7 +43,7 @@ date_start: 1820-01-01T23:06:32.000Z
 
 <figcaption>
 
-_Papier mâché_ Bombyx mori _by Louis Auzoux in the Zoological Teaching Collection of the Humboldt Universität zu Berlin. (Zoological Teaching Collection, image: Kerstin Stoll 2020. All rights reserved.)_
+_Papier mâché_ Bombyx mori _by Louis Auzoux in the Zoological Teaching Collection of the Humboldt-Universität zu Berlin. (Zoological Teaching Collection, image: Kerstin Stoll 2020. All rights reserved.)_
 
 </figcaption>
 
@@ -65,7 +65,7 @@ _Even with the lid closed, the insides of the silkworm can be seen in the papier
 
 </figure>
 
-The functional, collapsible anatomical model (which Auzoux also referred to as an “anatomie clastique”) of the _Bombyx mori_, the silkworm, shows its skin and extremities, its inner organs, and its silk glands considerably enlarged and in great detail. This carefully painted artefact, which was probably produced in the 1860s and is still housed in the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]] of the Humboldt University in Berlin,[^4] can be opened or closed using metal hooks and, alongside some numbering, also [[ displays text|story.keeping-records-of-animals]] that has been written directly onto the individual body parts. This writing does not just make reference to the body parts like a legend; rather, it is inscribed onto the model in ink and letters and simultaneously describes it in scientific jargon. The silkworm appears here as a ‘working animal’ that turns out a product – silk thread. At the same time, the model represents one stage of a complete metamorphosis, whose imago (the sexually mature insect after its final transformation) Auzoux has immortalised in papier mâché. He also had models of female and male silk moths on offer for teaching purposes.
+The functional, collapsible anatomical model (which Auzoux also referred to as an “anatomie clastique”) of the _Bombyx mori_, the silkworm, shows its skin and extremities, its inner organs, and its silk glands considerably enlarged and in great detail. This carefully painted artefact, which was probably produced in the 1860s and is still housed in the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]] of the Humboldt-Universität zu Berlin,[^4] can be opened or closed using metal hooks and, alongside some numbering, also [[ displays text|story.keeping-records-of-animals]] that has been written directly onto the individual body parts. This writing does not just make reference to the body parts like a legend; rather, it is inscribed onto the model in ink and letters and simultaneously describes it in scientific jargon. The silkworm appears here as a ‘working animal’ that turns out a product – silk thread. At the same time, the model represents one stage of a complete metamorphosis, whose imago (the sexually mature insect after its final transformation) Auzoux has immortalised in papier mâché. He also had models of female and male silk moths on offer for teaching purposes.
 
 [^1]: Cf. Hopwood, Nick. _Embryos in Wax: Models from the Ziegler Studio_. Cambridge: Whipple Museum of the History of Science, 2002.
 
