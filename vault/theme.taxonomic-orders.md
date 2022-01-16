@@ -7,7 +7,7 @@ short_desc_de: Die Kategorisierung der Natur ist politisch
 date_end: 2021-07-06T11:43:53.791Z
 published: false
 title: Taxonomic Orders
-updated: 1642360891131
+updated: 1642361043518
 id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
 doi: 64y2-m311/5
 translators:
@@ -53,7 +53,7 @@ _Plate 2 from Linnaeus’ Systema Naturae, 6th edition, 1748. Source: https://co
 
 </figure>
 
-Taxonomy (from the Greek _taxis_, order, and _nomos_, law) refers to ways in which humans classify and categorise their reality. Broadly speaking, taxonomies can be found anywhere and can point to all sorts of things; but in biology, taxonomy has come to denote a specific system for ordering and classifying all forms of life. **In this narrower biological sense, taxonomy is a formal system to name, define, and classify groups of organisms, regulated and governed by rules agreed upon by expert communities and international scientific institutions.**
+Taxonomy (from the Greek ‘taxis’, order, and ‘nomos’, law) refers to ways in which humans classify and categorise their reality. Broadly speaking, taxonomies can be found anywhere and can point to all sorts of things; but in biology, taxonomy has come to denote a specific system for ordering and classifying all forms of life. **In this narrower biological sense, taxonomy is a formal system to name, define, and classify groups of organisms, regulated and governed by rules agreed upon by expert communities and international scientific institutions.**
 
 This formal system has its origins in the work of the Swedish botanist Carl Linnaeus, in the 18th century.[^1] Like many other early naturalists, Linnaeus intended to build a classification that could encompass all of God’s creatures. While he did imagine some of the categories he identified as natural classes, he consciously created an artificial system – designed with practical organisational concerns in mind. He introduced the standard ranks of kingdom, class, order, genus, and species, and another important standard, the binomial nomenclature – referring to the use of two Latin names to define species. Thanks to these features, and to Linnaeus’ own vast compilatory work, his system was extremely successful – and it is still in use today, at least in some crucial formal respects. In fact, two different books published by Linnaeus are officially considered the starting point of contemporary botanical and zoological taxonomy, the 1753 _Species Plantarum_, and the 10th edition of the _Systema Naturae_ published in 1758.
 
@@ -125,7 +125,7 @@ _Tafel 2 aus Linnaeus’ Systema Naturae, 6. Auflage, 1748. Source: https://comm
 
 </figure>
 
-Die Taxonomie (von griechisch _taxis_, Ordnung, und _nomos_, Gesetz) bezieht sich auf die Art und Weise wie Menschen ihre Realität klassifizieren und kategorisieren. Im Großen und Ganzen können Taxonomien also überall gefunden werden und sich auf alle Arten von Dingen beziehen; aber in der Biologie bezieht sich die Taxonomie auf ein spezifisches System zum Ordnen und Klassifizieren aller Erscheinungsformen des Lebens. **In diesem engeren biologischen Sinne ist die Taxonomie ein formales System zur Benennung, Definition und Klassifizierung von Gruppen von Organismen, das bestimmten Regeln, auf die sich Expert:innengemeinschaften und internationale wissenschaftliche Institutionen geeinigt haben, unterliegen.**
+Die Taxonomie (von griechisch ‘taxis’, Ordnung, und ‘nomos’, Gesetz) bezieht sich auf die Art und Weise wie Menschen ihre Realität klassifizieren und kategorisieren. Im Großen und Ganzen können Taxonomien also überall gefunden werden und sich auf alle Arten von Dingen beziehen; aber in der Biologie bezieht sich die Taxonomie auf ein spezifisches System zum Ordnen und Klassifizieren aller Erscheinungsformen des Lebens. **In diesem engeren biologischen Sinne ist die Taxonomie ein formales System zur Benennung, Definition und Klassifizierung von Gruppen von Organismen, das bestimmten Regeln, auf die sich Expert:innengemeinschaften und internationale wissenschaftliche Institutionen geeinigt haben, unterliegen.**
 
 Dieses formale System hat seinen Ursprung in der Arbeit des schwedischen Botanikers Carl von Linné aus dem 18. Jahrhundert.[^1] Wie viele andere frühe Naturforscher:innen machte er es sich zum Ziel, ein Klassifikationssystem für alle Geschöpfe Gottes zu entwickeln. Obwohl er sich einige der Kategorien, die er festlegte, als natürliche Klassen vorstellte, war sein System bewusst ein künstliches. Er entwarf es mit praktisch-organisatorischen Hintergedanken. So führte er die Standardreihenfolge von Reich, Klasse, Ordnung, Gattung und Art ein und etablierte die binäre Nomenklatur – die Verwendung von zwei lateinischen Namen – als feste Regel für die Benennung von Arten. Dank dieses klaren Aufbaus und Linnés eigener umfangreicher taxonomischer Arbeiten fand sein Modell großen Anklang. Einige entscheidende formale Aspekte seines Systems sind immer noch in Gebrauch. In der Tat gelten zwei Bücher von Linné weithin als Ursprung der modernen botanischen und zoologischen Taxonomie: Das 1753 erschienene _Species Plantarum_ und die 1758 veröffentlichte 10. Ausgabe des Buchs _Systema Naturae_.
 
