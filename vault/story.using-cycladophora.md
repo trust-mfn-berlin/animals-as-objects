@@ -7,7 +7,7 @@ short_desc_de: Von Mikrofossilien zu planetarem Wissen
 date_end: 2021-07-06T11:38:39.090Z
 published: false
 title: Using Cycladophora
-updated: 1642203653806
+updated: 1642368950871
 id: TBi8fH-OIQRAoB-tG9ZY1
 doi: 10.7479/64y2-m311/2
 translators:
@@ -61,7 +61,7 @@ In this sense, _Cycladophora davisiana_ continues its scientific (after)life as 
 
 [^2]: James D. Hays, John Imbrie, and Nicholas J. Shackleton. “Variations in the Earth’s Orbit: Pacemaker of the Ice Ages”. _Science_ 194 (1976): 1121-1132. https://doi.org/10.1126/science.194.4270.1121
 
-[^3]: Paul Edwards. _A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming_. Cambridge (MA) and London: MIT Press, 2010.
+[^3]: Paul Edwards. _A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming_. Cambridge: MIT Press, 2010.
 
 
 
@@ -92,4 +92,4 @@ Auf diese Weise setzt sich das wissenschaftliche (Nach-)Leben von _Cycladophora 
 
 [^2]: James D. Hays, John Imbrie und Nicholas J. Shackleton. “Variations in the Earth’s Orbit: Pacemaker of the Ice Ages”. _Science_ 194 (1976): 1121-1132. https://doi.org/10.1126/science.194.4270.1121
 
-[^3]: Paul Edwards. _A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming_. Cambridge (MA) und London: MIT Press, 2010.
+[^3]: Paul Edwards. _A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming_. Cambridge: MIT Press, 2010.

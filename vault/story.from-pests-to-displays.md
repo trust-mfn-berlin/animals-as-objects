@@ -7,7 +7,7 @@ short_desc_de: "Stoffwechselprozesse auf hoher See "
 date_end: 1844-12-30T23:50:39.000Z
 published: false
 title: From Pests to Displays
-updated: 1642258454445
+updated: 1642368966100
 id: 3YRSzijvbnQXZs4VO291j
 doi: 64y2-m311/71
 translators:
@@ -47,7 +47,7 @@ The continuous metamorphoses of living animals and plants on board were primaril
 
 In the end, only very few of the living animals survived the journey. We know of nine animals, including several Hokko and Jaku chickens and a specimen of the famous harpy; a giant snake and a green, 2-foot-long crested lizard from Guyana. These were housed in the Zoological garden. But most did not survive the zoo for long and soon entered the Zoological Museum in Berlin, like the [[Iguana iguana|material.an-iguana-preserved-in-alcohol]].  
 
-Tracing back their history to the mid-nineteenth century can thus give us insights into how animals were collected and became part of a collection at the time, including those animals that were not originally intended for a collection. In the face of all the logistical restraints that Schomburgk and other naturalists faced, pests can become zoo animals and potential natural history specimens may be turned into feed. The – often improvised – logistical practices of natural history at sea can also be understood as transformative [[metabolic relations|theme.logistical-metabolisms]] that shape and reshape the classification, value and treatment of animals at sea.
+Tracing back their history to the mid-19th century can thus give us insights into how animals were collected and became part of a collection at the time, including those animals that were not originally intended for a collection. In the face of all the logistical restraints that Schomburgk and other naturalists faced, pests can become zoo animals and potential natural history specimens may be turned into feed. The – often improvised – logistical practices of natural history at sea can also be understood as transformative [[metabolic relations|theme.logistical-metabolisms]] that shape and reshape the classification, value and treatment of animals at sea.
 
 [^1]: A Special Issue on “Logistical Natures”, edited by Filippo Bertoni, Mareike Vennen, Ina Heumann and Tahani Nadim, will appear at the end of 2022.
 

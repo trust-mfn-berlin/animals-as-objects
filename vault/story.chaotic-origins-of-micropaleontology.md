@@ -7,7 +7,7 @@ short_desc_de: Naturforscher:innen rangen um ein Verständnis von Mikroorganisme
 date_end: 1850-12-31T11:06:32.000Z
 published: false
 title: Chaotic Origins of Micropaleontology
-updated: 1642178675087
+updated: 1642368966109
 id: fee46412-5135-463a-8019-d002f5b513ea
 doi: 64y2-m311/10
 translators:
@@ -61,7 +61,7 @@ In his desire to refute these dominant understandings of life, which were common
 
 [^1]: Carl Linnaeus. _Systema Naturae, editio 12, reformata_. Holmiae: Laurentii Salvii, 1766.  https://www.biodiversitylibrary.org/item/137240#page/800/mode/1up (03.01.2022).
 
-[^2]: To learn more on another ‘wastebucket’ class of Linnaeus’ Vermes, see Stephen Jay Gould. _The Lying Stones of Marrakech_. Cambridge (MA) and London: Harvard University Press, 2000. http://www.jstor.org/stable/j.ctt2jbrgf
+[^2]: To learn more on another ‘wastebucket’ class of Linnaeus’ Vermes, see Stephen Jay Gould. _The Lying Stones of Marrakech_. Cambridge: Harvard University Press, 2000. http://www.jstor.org/stable/j.ctt2jbrgf
 
 [^3]: The impact of these early descriptions is quantified in David Lazarus. “The Legacy of Early Radiolarian Taxonomists, with a Focus on the Species Published by Early German Workers”. _Journal of Micropalaeontology_ 33, no. 1 (2014): 3-19.
 
@@ -94,7 +94,7 @@ In seinem Bestreben, den zu Beginn des 19. Jahrhunderts vorherrschenden Auffassu
 
 [^1]: Carl von Linné. _Systema Naturae, editio 12, reformata_. Holmiae: Laurentii Salvii, 1766.  https://www.biodiversitylibrary.org/item/137240#page/800/mode/1up (03.01.2022).
 
-[^2]: Für eine Beschreibung einer weiteren Sammelkategorie der Linné’schen Vermes, siehe Stephen Jay Gould. _The Lying Stones of Marrakech_. Cambridge (MA) und London: Harvard University Press, 2000. http://www.jstor.org/stable/j.ctt2jbrgf
+[^2]: Für eine Beschreibung einer weiteren Sammelkategorie der Linné’schen Vermes, siehe Stephen Jay Gould. _The Lying Stones of Marrakech_. Cambridge: Harvard University Press, 2000. http://www.jstor.org/stable/j.ctt2jbrgf
 
 [^3]: Zum Einfluss dieser frühen Beschreibungen siehe David Lazarus. “The Legacy of Early Radiolarian Taxonomists, with a Focus on the Species Published by Early German Workers”. _Journal of Micropalaeontology_ 33, Nr. 1 (2014): 3-19.
 
