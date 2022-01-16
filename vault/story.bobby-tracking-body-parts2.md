@@ -7,7 +7,7 @@ short_desc_de: Nachleben eines Zootieres in wissenschaftlichen Sammlungen
 date_end: ""
 published: false
 title: “Bobby”. Tracking Body Parts
-updated: 1642210418390
+updated: 1642369250828
 id: 05XnJBaPUmIcfTWa4WMyb
 doi: 64y2-m311/52
 translators:
@@ -164,7 +164,7 @@ As the example of the Anatomical Collection at Charité Hospital shows, anatomic
 
 [^1]: According to the necropsy report, the ape, who died on the afternoon of 1 August 1935, had already been taken to the refrigeration room of the Westend Pathological Institute three hours after his death. The necropsy began the next day.
 
-[^2]: The taxidermy of the animal was created by Berlin taxidermists Karl Kaestner (1895-1983) and Gerhard Schröder (1896-1945) in the same year. They used a new technique they developed. It involved partially replenishing sparsely haired body parts with paraffin wax. This allowed preservation of fine structures in face and hands and prevented shrinking during the drying process. The water contained in the cells is substituted by solid substances such as paraffin wax or polyethylene glycol. Information taken from: https://www.museumfuernaturkunde.berlin/en/museum/exhibitions/masterpieces-taxidermy (17.12.2021).
+[^2]: The taxidermy of the animal was created by Berlin taxidermists Karl Kaestner (1895-1983) and Gerhard Schröder (1896-1945) in the same year. They used a new technique they developed. It involved partially replenishing sparsely haired body parts with paraffin wax. This allowed preservation of fine structures in face and hands and prevented shrinking during the drying process. The water contained in the cells is substituted by solid substances such as paraffin wax or polyethylene glycol. Information taken from: _Museum für Naturkunde Berlin_. https://www.museumfuernaturkunde.berlin/en/museum/exhibitions/masterpieces-taxidermy (17.12.2021).
 
 [^3]: When his limbs were removed and where his hand might have gone remain unanswered questions.
 
@@ -343,7 +343,7 @@ In anatomischen Sammlungen gibt es, wie das Beispiel der Anatomischen Sammlung d
 
 [^1]: Dem Obduktionsbericht zufolge wurde der am 1. August 1935 nachmittags verstorbene Affe bereits drei Stunden nach seinem Tode in den Kühlraum des Pathologischen Instituts Westend geschafft, wo am folgenden Tag die Obduktion begann.
 
-[^2]: Die Dermoplastik des Tieres fertigten die Berliner Präparatoren Karl Kaestner (1895-1983) und Gerhard Schröder (1896-1945) noch im selben Jahr an. Sie setzten eine von ihnen entwickelten neue Technik der Teilparaffinierung von wenig behaarten Körperteilen ein. Bei dieser Imprägnierungsmethode werden die Feinstrukturen im Gesicht und an den Händen erhalten und ein Schrumpfen der Präparate beim Trocknen verhindert, da das im Zellgewebe enthaltene Wasser durch feste Substanzen wie Paraffin oder Polyäthylenglykol ausgetauscht wurde. Diese Informationen finden sich hier: https://www.museumfuernaturkunde.berlin/de/museum/ausstellungen/highlights-der-praeparationskunst (17.12.2021).
+[^2]: Die Dermoplastik des Tieres fertigten die Berliner Präparatoren Karl Kaestner (1895-1983) und Gerhard Schröder (1896-1945) noch im selben Jahr an. Sie setzten eine von ihnen entwickelten neue Technik der Teilparaffinierung von wenig behaarten Körperteilen ein. Bei dieser Imprägnierungsmethode werden die Feinstrukturen im Gesicht und an den Händen erhalten und ein Schrumpfen der Präparate beim Trocknen verhindert, da das im Zellgewebe enthaltene Wasser durch feste Substanzen wie Paraffin oder Polyäthylenglykol ausgetauscht wurde. Diese Informationen finden sich hier: _Museum für Naturkunde_. https://www.museumfuernaturkunde.berlin/de/museum/ausstellungen/highlights-der-praeparationskunst (17.12.2021).
 
 [^3]: Zu welchem Zeitpunkt die Gliedmaßen abgetrennt wurden und wohin die bislang unauffindbare Hand gelangte, konnte noch nicht ermittelt werden.
 

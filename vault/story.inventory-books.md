@@ -7,7 +7,7 @@ short_desc_de: Wie werden die Objekte einer Lehrsammlung verzeichnet?
 date_end: 1968-12-31T11:00:00.000Z
 published: false
 title: Inventory Books
-updated: 1642212092072
+updated: 1642369593721
 id: kZTLAIf7pRRgEPPJbtGqA
 doi: 64y2-m311/44
 translators:
@@ -210,7 +210,7 @@ The inventory books have become historical documents. It is these discontinuitie
 
 [^2]: Anke te Heesen. “Die doppelte Verzeichnung: Schriftliche und räumliche Aneignungsweisen von Natur im 18. Jahrhundert”. In _Gehäuse der Mnemosyne: Architektur als Schriftform der Erinnerung_. Harald Tausch (ed.). Göttingen: Vandenhoeck & Ruprecht, 2003: 263-286.
 
-[^3]: Cf. Cornelia Vismann. _Akten: Medientechnik und Recht_. Frankfurt a.M.: Fischer, 2011: 21ff.; Hannah Turner. “Critical Histories of Museum Catalogues”. _Museum Anthropology_ 39, no. 2 (2016): 102-110. https://www.doi.org/10.1111/muan.12118.
+[^3]: Cf. Cornelia Vismann. _Akten: Medientechnik und Recht_. Frankfurt a.M.: Fischer, 2011: 21ff.; Hannah Turner. “Critical Histories of Museum Catalogues”. _Museum Anthropology_ 39, no. 2 (2016): 102-110. https://doi.org/10.1111/muan.12118.
 
 [^4]: These labels have only been preserved in rare cases as they were removed during the institutional restructuring that took place in the postwar period. Only objects that were given to other institutions before this time and that were later given back to the institute still bear these old labels. In the chronicles of Friedrich-Wilhelms-Universität zu Berlin, however, the acquisition of a typewriter “to produce labels” was recorded for fiscal year 1894/1895. See anonymous. “Chronik der königlichen Friedrich-Wilhelms-Universität zu Berlin für das Rechnungsjahr 1894/95”. In _Chronik der Friedrich-Wilhelms-Universität_, vol. 8. Berlin: 113. https://www.digi-hub.de/viewer/resolver?urn=urn:nbn:de:kobv:11-d-6653534 (20.06.2021).
 
@@ -398,7 +398,7 @@ Die Inventarbücher sind zu historischen Dokumenten geworden. Es sind diese Disk
 
 [^2]: Anke te Heesen. “Die doppelte Verzeichnung: Schriftliche und räumliche Aneignungsweisen von Natur im 18. Jahrhundert”. In _Gehäuse der Mnemosyne: Architektur als Schriftform der Erinnerung_. Harald Tausch (Hg.). Göttingen: Vandenhoeck & Ruprecht, 2003: 263-286.
 
-[^3]: Vgl. Cornelia Vismann. _Akten: Medientechnik und Recht_. Frankfurt a.M.: Fischer, 2011: 21ff.; Hannah Turner. “Critical Histories of Museum Catalogues”. _Museum Anthropology_ 39, Nr. 2 (2016): 102-110. https://www.doi.org/10.1111/muan.12118.
+[^3]: Vgl. Cornelia Vismann. _Akten: Medientechnik und Recht_. Frankfurt a.M.: Fischer, 2011: 21ff.; Hannah Turner. “Critical Histories of Museum Catalogues”. _Museum Anthropology_ 39, Nr. 2 (2016): 102-110. https://doi.org/10.1111/muan.12118.
 
 [^4]: Diese Etiketten sind heute nur noch in seltenen Fällen erhalten, da sie im Laufe der institutionellen Umstrukturierungen in der Nachkriegszeit entfernt wurden. Lediglich Objekte, die vor dieser Zeit an andere Institutionen abgegeben und später wieder an das Institut zurückgeführt wurden, weisen diese alten Etiketten auf. In den Chroniken der Friedrich-Wilhelms-Universität wird jedoch die Anschaffung einer Schreibmaschine “zur Herstellung von Etiketten” im Rechnungsjahr 1894/95 angegeben. Siehe Anonym. “Chronik der königlichen Friedrich-Wilhelms-Universität zu Berlin für das Rechnungsjahr 1894/95”. In _Chronik der Friedrich-Wilhelms-Universität_, Bd. 8. Berlin: 113. https://www.digi-hub.de/viewer/resolver?urn=urn:nbn:de:kobv:11-d-6653534 (20.06.2021).
 

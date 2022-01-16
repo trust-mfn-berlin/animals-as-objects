@@ -7,7 +7,7 @@ short_desc_de: “Knuts” ökonomische und emotionale Bedeutung in Zeiten des K
 date_end: 2011-03-18T23:00:00.000Z
 published: false
 title: Knut
-updated: 1641840387125
+updated: 1642369765465
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 doi: 64y2-m311/27
 translators:
@@ -307,19 +307,19 @@ Environmental politics are another factor that would be difficult to reproduce t
  
 [^5]: These segments can be found on the website of the German Federal Film Archives: https://www.filmothek.bundesarchiv.de/?set_lang=en (03.01.2022).
  
-[^6]: “Leipziger Zoo: Tötung eines kleinen Lippenbären löst Empörung aus”. _Zeit online_, 29.12.2006, https://www.zeit.de/news/artikel/2006/12/29/86326.xml (01.06.2021).
+[^6]: “Leipziger Zoo: Tötung eines kleinen Lippenbären löst Empörung aus”. _Zeit Online_, 29.12.2006, https://www.zeit.de/news/artikel/2006/12/29/86326.xml (01.06.2021).
  
-[^7]: “Tierschützer: Knuddel-Knut hätte sterben müssen!” _Rheinische Post online_, 19.03.2021, https://rp-online.de/panorama/deutschland/tierschuetzer-knuddel-knut-haette-sterben-muessen_aid-11295343?output=amp (03.01.2022).
+[^7]: “Tierschützer: Knuddel-Knut hätte sterben müssen!” _Rheinische Post Online_, 19.03.2021, https://rp-online.de/panorama/deutschland/tierschuetzer-knuddel-knut-haette-sterben-muessen_aid-11295343?output=amp (03.01.2022).
  
 [^8]: Krögel, Anette. “Wird Knut ein Problembär?” _Der Tagesspiegel online_, 20.03.2007, https://www.tagesspiegel.de/berlin/wird-knut-ein-problembaer/824706.html (03.01.2022).
  
-[^9]: “Eisbärbaby Knut entkommt der Todesspritze”. _Welt online_, 19.03.2007, https://www.welt.de/vermischtes/article768024/Eisbaerbaby-Knut-entkommt-der-Todesspritze.html (03.01.2022).
+[^9]: “Eisbärbaby Knut entkommt der Todesspritze”. _Welt Online_, 19.03.2007, https://www.welt.de/vermischtes/article768024/Eisbaerbaby-Knut-entkommt-der-Todesspritze.html (03.01.2022).
  
 [^10]: “Eisbär Knut darf leben”. _Merkur.de_, 01.07.2007, https://www.merkur.de/welt/eisbaer-knut-darf-leben-377265.html (03.01.2022).
  
 [^11]: Riechelmann, Cord. “Lass uns über Produktion reden”. _Die Tageszeitung_, 14.04.2007.
  
-[^12]: “Flußpferd und Eisbär Neuzugänge auf Roter Liste”. _Frankfurter Allgemeine Zeitung online_, 02.05.2006, https://www.faz.net/aktuell/wissen/natur/artensterben-flusspferd-und-eisbaer-neuzugaenge-auf-roter-liste-1330020.html (03.01.2022).
+[^12]: “Flußpferd und Eisbär Neuzugänge auf Roter Liste”. _Frankfurter Allgemeine Zeitung Online_, 02.05.2006, https://www.faz.net/aktuell/wissen/natur/artensterben-flusspferd-und-eisbaer-neuzugaenge-auf-roter-liste-1330020.html (03.01.2022).
  
 [^13]: The interviews are listed in the zoo’s daily logbook for March 2007.
  
@@ -333,17 +333,17 @@ Environmental politics are another factor that would be difficult to reproduce t
  
 [^18]: Flinterud, Guro. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Thesis. University of Oslo, Faculty of Humanities, 2012: 112.
  
-[^19]: “Als Marke ist Knut Millionen wert”. _Spiegel online_, 31.03.2007, https://www.spiegel.de/panorama/gesellschaft/berliner-eisbaerenbaby-als-marke-ist-knut-millionen-wert-a-475021.html (03.01.2022).
+[^19]: “Als Marke ist Knut Millionen wert”. _Spiegel Online_, 31.03.2007, https://www.spiegel.de/panorama/gesellschaft/berliner-eisbaerenbaby-als-marke-ist-knut-millionen-wert-a-475021.html (03.01.2022).
  
-[^20]: “Knut begeistert Aktionäre”. _Spiegel online_, 03.04.2021, https://www.spiegel.de/wirtschaft/berliner-zoo-knut-begeistert-aktionaere-a-475415.html (03.01.2022).
+[^20]: “Knut begeistert Aktionäre”. _Spiegel Online_, 03.04.2021, https://www.spiegel.de/wirtschaft/berliner-zoo-knut-begeistert-aktionaere-a-475415.html (03.01.2022).
  
 [^21]: Flinterud, Guro. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Thesis. University of Oslo, Faculty of Humanities, 2012: 208-209.
  
 [^22]: The forum describes itself as follows: “knutitis.com is a meeting place for Knut fans from all over the world. The focus is, of course, on Knut the polar bear. But you can also come here to talk about other zoo animals and zoos. We are a group of animal enthusiasts from all over the world who met through Knut and who have since become friends. We are committed, enthusiastic, and maybe even a little crazy.” www.knutitis.com (03.01.2022).
  
-[^23]: “Knut-Tod: Vorwürfe an Zoo-Chef”. _Neue Presse online_, 25.03.2011, https://www.neuepresse.de/Nachrichten/Panorama/Knut-Tod-Vorwuerfe-an-Zoo-Chef (03.01.2022).
+[^23]: “Knut-Tod: Vorwürfe an Zoo-Chef”. _Neue Presse Online_, 25.03.2011, https://www.neuepresse.de/Nachrichten/Panorama/Knut-Tod-Vorwuerfe-an-Zoo-Chef (03.01.2022).
  
-[^24]: Cf. Hucklenbroich, Christina. “Knut und die Knutianer”. _Frankfurter Allgemeine Zeitung online_, 01.04.2011, https://www.faz.net/aktuell/gesellschaft/tod-im-zoo-berlin-knut-und-die-knutianer-1606570.html (03.01.2022). 
+[^24]: Cf. Hucklenbroich, Christina. “Knut und die Knutianer”. _Frankfurter Allgemeine Zeitung Online_, 01.04.2011, https://www.faz.net/aktuell/gesellschaft/tod-im-zoo-berlin-knut-und-die-knutianer-1606570.html (03.01.2022). 
  
 [^25]: Cf. “Denkmal für Eisbär Knut im Zoo”. _Berlin.de_, https://www.berlin.de/tourismus/zoos-und-tierparks/eisbaer-knut/2315669-1694342.gallery.html?page=4 (03.01.2022).
  
@@ -641,19 +641,19 @@ Auch der umweltpolitische Faktor ist heute wohl kaum reproduzierbar. Die Klimakr
  
 [^5]: Die Beiträge sind auf den Seiten des Bundesfilmarchivs recherchierbar: https://www.filmothek.bundesarchiv.de/ (03.01.2022).
  
-[^6]: “Leipziger Zoo: Tötung eines kleinen Lippenbären löst Empörung aus”. _Zeit online_, 29.12.2006, https://www.zeit.de/news/artikel/2006/12/29/86326.xml (01.06.2021).
+[^6]: “Leipziger Zoo: Tötung eines kleinen Lippenbären löst Empörung aus”. _Zeit Online_, 29.12.2006, https://www.zeit.de/news/artikel/2006/12/29/86326.xml (01.06.2021).
  
 [^7]: “Tierschützer: Knuddel-Knut hätte sterben müssen!”. _Rheinische Post online_, 19.03.2021, https://rp-online.de/panorama/deutschland/tierschuetzer-knuddel-knut-haette-sterben-muessen_aid-11295343?output=amp (03.01.2022).
  
-[^8]: Krögel, Anette. “Wird Knut ein Problembär?”. _Der Tagesspiegel online_, 20.03.2007, https://www.tagesspiegel.de/berlin/wird-knut-ein-problembaer/824706.html (03.01.2022).
+[^8]: Krögel, Anette. “Wird Knut ein Problembär?”. _Der Tagesspiegel Online_, 20.03.2007, https://www.tagesspiegel.de/berlin/wird-knut-ein-problembaer/824706.html (03.01.2022).
  
-[^9]: “Eisbärbaby Knut entkommt der Todesspritze”. _Welt online_, 19.03.2007, https://www.welt.de/vermischtes/article768024/Eisbaerbaby-Knut-entkommt-der-Todesspritze.html (03.01.2022).
+[^9]: “Eisbärbaby Knut entkommt der Todesspritze”. _Welt Online_, 19.03.2007, https://www.welt.de/vermischtes/article768024/Eisbaerbaby-Knut-entkommt-der-Todesspritze.html (03.01.2022).
  
 [^10]: “Eisbär Knut darf leben”. _Merkur.de_, 01.07.2007, https://www.merkur.de/welt/eisbaer-knut-darf-leben-377265.html (03.01.2022).
  
 [^11]: Riechelmann, Cord. “Lass uns über Produktion reden”. _Die Tageszeitung_, 14.04.2007.
  
-[^12]: “Flußpferd und Eisbär Neuzugänge auf Roter Liste”. _Frankfurter Allgemeine Zeitung online_, 02.05.2006, https://www.faz.net/aktuell/wissen/natur/artensterben-flusspferd-und-eisbaer-neuzugaenge-auf-roter-liste-1330020.html (03.01.2022).
+[^12]: “Flußpferd und Eisbär Neuzugänge auf Roter Liste”. _Frankfurter Allgemeine Zeitung Online_, 02.05.2006, https://www.faz.net/aktuell/wissen/natur/artensterben-flusspferd-und-eisbaer-neuzugaenge-auf-roter-liste-1330020.html (03.01.2022).
  
 [^13]: Die Interviews sind im Tagesberichtsbuch März 2007 im Zoo verzeichnet.
  
@@ -667,17 +667,17 @@ Auch der umweltpolitische Faktor ist heute wohl kaum reproduzierbar. Die Klimakr
  
 [^18]: Flinterud, Guro. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Diss. University of Oslo, Faculty of Humanities, 2012: 112.
  
-[^19]: “Als Marke ist Knut Millionen wert”. _Spiegel online_, 31.03.2007, https://www.spiegel.de/panorama/gesellschaft/berliner-eisbaerenbaby-als-marke-ist-knut-millionen-wert-a-475021.html (03.01.2022).
+[^19]: “Als Marke ist Knut Millionen wert”. _Spiegel Online_, 31.03.2007, https://www.spiegel.de/panorama/gesellschaft/berliner-eisbaerenbaby-als-marke-ist-knut-millionen-wert-a-475021.html (03.01.2022).
  
-[^20]: “Knut begeistert Aktionäre”. _Spiegel online_, 03.04.2021, https://www.spiegel.de/wirtschaft/berliner-zoo-knut-begeistert-aktionaere-a-475415.html (03.01.2022).
+[^20]: “Knut begeistert Aktionäre”. _Spiegel Online_, 03.04.2021, https://www.spiegel.de/wirtschaft/berliner-zoo-knut-begeistert-aktionaere-a-475415.html (03.01.2022).
  
 [^21]: Flinterud, Guro. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Diss. University of Oslo, Faculty of Humanities, 2012: 208-209.
  
 [^22]: Das Forum beschreibt sich selbst folgendermaßen: “knutitis.com ist ein Treffpunkt für Knut-Fans aus aller Welt. Im Mittelpunkt steht natürlich Knut, der Eisbär. Aber man kann sich hier auch über andere Zootiere und Zoos austauschen. Wir sind eine Gruppe von tierbegeisterten Menschen aus aller Welt, die sich durch Knut kennengelernt haben und seitdem freundschaftlich miteinander verbunden sind. Wir sind engagiert, begeisterungsfähig und vielleicht sogar etwas verrückt.” www.knutitis.com (03.01.2022)
  
-[^23]: “Knut-Tod: Vorwürfe an Zoo-Chef”. _Neue Presse online_, 25.03.2011, https://www.neuepresse.de/Nachrichten/Panorama/Knut-Tod-Vorwuerfe-an-Zoo-Chef (03.01.2022).
+[^23]: “Knut-Tod: Vorwürfe an Zoo-Chef”. _Neue Presse Online_, 25.03.2011, https://www.neuepresse.de/Nachrichten/Panorama/Knut-Tod-Vorwuerfe-an-Zoo-Chef (03.01.2022).
  
-[^24]: Vgl. Hucklenbroich, Christina. “Knut und die Knutianer”. _Frankfurter Allgemeine Zeitung online_, 01.04.2011, https://www.faz.net/aktuell/gesellschaft/tod-im-zoo-berlin-knut-und-die-knutianer-1606570.html (03.01.2022). 
+[^24]: Vgl. Hucklenbroich, Christina. “Knut und die Knutianer”. _Frankfurter Allgemeine Zeitung Online_, 01.04.2011, https://www.faz.net/aktuell/gesellschaft/tod-im-zoo-berlin-knut-und-die-knutianer-1606570.html (03.01.2022). 
  
 [^25]: Vgl. “Denkmal für Eisbär Knut im Zoo”. _Berlin.de_, https://www.berlin.de/tourismus/zoos-und-tierparks/eisbaer-knut/2315669-1694342.gallery.html?page=4 (03.01.2022).
  

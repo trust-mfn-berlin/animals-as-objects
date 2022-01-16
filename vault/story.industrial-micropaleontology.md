@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Industrial Micropaleontology
 title_de: Industrielle Mikropaläontologie
 created: 1621521087155
-updated: 1642242896700
+updated: 1642369543980
 id: 2df514da-8df2-4278-8534-28e1034c7adf
 author: Filippo Bertoni
 doi: 64y2-m311/8
@@ -55,7 +55,7 @@ The example of US industrial micropaleontology was quickly followed by researche
 
 [^1]: “‘Bug-Men’ lead hunt for Black Gold”. _Popular Mechanics_ (March 1932): 370-374. https://ucmp.berkeley.edu/images/pdf/bugmen3.pdf (03.01.2022).
 
-[^2]: For more on Esther Applin, see “Esther Applin 1895-1972”. no date, https://www.museumoftheearth.org/daring-to-dig/bio/applin (03.01.2022).
+[^2]: For more on Esther Applin, see “Esther Applin 1895-1972”. _Museum of the Earth_, no date, https://www.museumoftheearth.org/daring-to-dig/bio/applin (03.01.2022).
 
 [^3]: This history is told in detail in Robbie Rice Gries. “How Female Geologists Were Written out of History: The Micropaleontology Breakthrough”. _Geological Society of America. Memoirs_ 214 (2018): 11-22. https://doi.org/10.1130/2018.1214(02).
 
@@ -89,7 +89,7 @@ Forschende auf der ganzen Welt folgten schon bald dem Vorbild der US-amerikanisc
 
 [^1]: “‘Bug-Men’ lead hunt for Black Gold”. _Popular Mechanics_ (März 1932): 370-374. https://ucmp.berkeley.edu/images/pdf/bugmen3.pdf (03.01.2022).
 
-[^2]: Ausführliche Informationen zu Esther Applin finden sich hier: “Esther Applin 1895-1972”. ohne Datum, https://www.museumoftheearth.org/daring-to-dig/bio/applin (03.01.2022).
+[^2]: Ausführliche Informationen zu Esther Applin finden sich hier: “Esther Applin 1895-1972”. _Museum of the Earth_, ohne Datum, https://www.museumoftheearth.org/daring-to-dig/bio/applin (03.01.2022).
 
 [^3]: Details finden sich hier: Robbie Rice Gries. “How Female Geologists Were Written out of History: The Micropaleontology Breakthrough.” _Geological Society of America: Memoirs_ 214 (2018): 11–22. https://doi.org/10.1130/2018.1214(02).
 

@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Fossil Fuels
 title_de: Fossile Brennstoffe
 created: 1618493147480
-updated: 1642334734675
+updated: 1642369126831
 id: 7f5d84e2-6c42-454e-a7c5-f31db9960a70
 author: Filippo Bertoni
 doi: 64y2-m311/32
@@ -46,7 +46,7 @@ But while most scientific and academic work had focused on macro fossils, it was
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xMQUGSrnbP8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-[^1]: To learn more about the complex history and uses of fossil fuels, visit “Oil Beauty and Horror in the Petrol Age”. Kunstmuseum Wolfsburg, 2021, https://www.kunstmuseum.de/en/exhibition/oil-beauty-and-horror-in-the-petrol-age/ (28.08.2021).
+[^1]: To learn more about the complex history and uses of fossil fuels, visit “Oil Beauty and Horror in the Petrol Age”. _Kunstmuseum Wolfsburg_, 2021, https://www.kunstmuseum.de/en/exhibition/oil-beauty-and-horror-in-the-petrol-age/ (28.08.2021).
 
 [^2]: The political economies and ecologies of fossil fuels are at the core of many fascinating books. In particular, see Mitchell, Timothy. _Carbon Democracy: Political Power in the Age of Oil_. London: Verso, 2011; and Malm, Andreas. _Fossil Capital: The Rise of Steam Power and the Roots of Global Warming_. London: Verso, 2016.
 
@@ -76,7 +76,7 @@ Zwar befassten sich die meisten wissenschaftlichen Arbeiten in diesem Bereich mi
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xMQUGSrnbP8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-[^1]: Zur komplexen Geschichte und Verwendung fossiler Brennstoffe: “Oil Beauty and Horror in the Petrol Age”. Kunstmuseum Wolfsburg, 2021, https://www.kunstmuseum.de/en/exhibition/oil-beauty-and-horror-in-the-petrol-age/ (28.08.2021).
+[^1]: Zur komplexen Geschichte und Verwendung fossiler Brennstoffe: “Oil Beauty and Horror in the Petrol Age”. _Kunstmuseum Wolfsburg_, 2021, https://www.kunstmuseum.de/en/exhibition/oil-beauty-and-horror-in-the-petrol-age/ (28.08.2021).
 
 [^2]: Die politischen Ökonomien und Ökologien fossiler Brennstoffe bilden den Schwerpunkt vieler faszinierender Bücher. Siehe insbesondere: Mitchell, Timothy. _Carbon Democracy: Political Power in the Age of Oil_. London: Verso, 2011; and Malm, Andreas. _Fossil Capital: The Rise of Steam Power and the Roots of Global Warming_. London: Verso, 2016.
 

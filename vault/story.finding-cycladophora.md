@@ -7,7 +7,7 @@ short_desc_de: Von Telegrafen zu Proben
 date_end: 1859-12-31T11:06:32.000Z
 published: false
 title: Finding Cycladophora
-updated: 1642119062888
+updated: 1642369484342
 id: 4kJJB2pX-g7lq6q7GUt0W
 doi: 64y2-m311/11
 translators:
@@ -62,9 +62,9 @@ This story is merely a marginal episode in the 19th century history of how the p
 
 [^3]: Allison Marsh. “The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure”. _IEEE Spectrum_, 31.10.2019, https://spectrum.ieee.org/tech-history/heroic-failures/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure (03.01.2022).
 
-[^4]: More about the connections between 19th century telegraphy and contemporary submarine cables and infrastructure, see “The Cables That Connect Our World”. _London Science Museum_, no date, https://www.sciencemuseum.org.uk/cables-connect-our-world (03.01.2022); Sean Trainer. “What the Digital Age Owes to the Inventor of Morse Code”. _TIME_, 27.04.2016, https://time.com/4307892/samuel-morse-telegraph-history/ (03.01.2022). 
+[^4]: More about the connections between 19th century telegraphy and contemporary submarine cables and infrastructure, see “The Cables That Connect Our World”. _London Science Museum_, no date. https://www.sciencemuseum.org.uk/cables-connect-our-world (03.01.2022); Sean Trainer. “What the Digital Age Owes to the Inventor of Morse Code”. _TIME_, 27.04.2016, https://time.com/4307892/samuel-morse-telegraph-history/ (03.01.2022). 
 
-[^5]: But the impact of telegraphy didn’t stop at that. Importantly, the conjunction of the telegraph and the railroad was instrumental in the standardisation of time, which still regulates our rhythms. See London Science Museum, “Standardising Time: Railways and the Electric Telegraph”, 4.10.2018, https://www.sciencemuseum.org.uk/objects-and-stories/standardising-time-railways-and-electric-telegraph (03.01.2022).
+[^5]: But the impact of telegraphy didn’t stop at that. Importantly, the conjunction of the telegraph and the railroad was instrumental in the standardisation of time, which still regulates our rhythms. See “Standardising Time: Railways and the Electric Telegraph”. _London Science Museum_, 4.10.2018. https://www.sciencemuseum.org.uk/objects-and-stories/standardising-time-railways-and-electric-telegraph (03.01.2022).
 
 [^6]: More about the incredibly consequential life of Werner Siemens in Johannes Bähr. _Werner von Siemens_. Berlin: Siemens Historical Institute, 2016. https://assets.new.siemens.com/siemens/assets/public.1506341669.aa87da6d048c9a60c037d5771ceded36576c39a5.085-shi-communication-lifelines-5-werner-von-siemens-2016-web-e.pdf (03.01.2022).
 
@@ -95,8 +95,8 @@ In der Geschichte unseres von immer komplexeren Kommunikations- und Austauschnet
 
 [^3]: Allison Marsh. “The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure”. _IEEE Spectrum_, 31.10.2019, https://spectrum.ieee.org/tech-history/heroic-failures/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure (03.01.2022).
 
-[^4]: Eine ausführliche Erläuterung, wie die Unterseekabel und unterseeische Infrastruktur von heute mit der Telegrafie des 19. Jahrhunderts zusammenhängen, findet sich in: “The Cables That Connect Our World”. _London Science Museum_, ohne Datum, https://www.sciencemuseum.org.uk/cables-connect-our-world (03.01.2022); Sean Trainer. “What the Digital Age Owes to the Inventor of Morse Code”. _TIME_, 27.04.2016, https://time.com/4307892/samuel-morse-telegraph-history/ (03.01.2022). 
+[^4]: Eine ausführliche Erläuterung, wie die Unterseekabel und unterseeische Infrastruktur von heute mit der Telegrafie des 19. Jahrhunderts zusammenhängen, findet sich in: “The Cables That Connect Our World”. _London Science Museum_, ohne Datum. https://www.sciencemuseum.org.uk/cables-connect-our-world (03.01.2022); Sean Trainer. “What the Digital Age Owes to the Inventor of Morse Code”. _TIME_, 27.04.2016, https://time.com/4307892/samuel-morse-telegraph-history/ (03.01.2022). 
 
-[^5]: Doch die Auswirkungen der Telegrafie gingen noch weit darüber hinaus. Das Zusammentreffen von Telegrafie und Eisenbahn trug maßgeblich zur Standardisierung der Zeit bei, die bis heute unseren Rhythmus bestimmt. Siehe London Science Museum, “Standardising Time: Railways and the Electric Telegraph”, 4.10.2018, https://www.sciencemuseum.org.uk/objects-and-stories/standardising-time-railways-and-electric-telegraph (03.01.2022).
+[^5]: Doch die Auswirkungen der Telegrafie gingen noch weit darüber hinaus. Das Zusammentreffen von Telegrafie und Eisenbahn trug maßgeblich zur Standardisierung der Zeit bei, die bis heute unseren Rhythmus bestimmt. Siehe “Standardising Time: Railways and the Electric Telegraph”. _London Science Museum_, 4.10.2018. https://www.sciencemuseum.org.uk/objects-and-stories/standardising-time-railways-and-electric-telegraph (03.01.2022).
 
 [^6]: Für weitere Informationen über das folgenreiche Leben von Werner Siemens, siehe Johannes Bähr. _Werner von Siemens_. Berlin: Siemens Historical Institute, 2016. https://assets.new.siemens.com/siemens/assets/public.1506341669.aa87da6d048c9a60c037d5771ceded36576c39a5.085-shi-communication-lifelines-5-werner-von-siemens-2016-web-e.pdf (03.01.2022).
