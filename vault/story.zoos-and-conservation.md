@@ -7,7 +7,7 @@ short_desc_de: Ausstellen oder schützen?
 date_end: 2021-12-30T23:00:00.000Z
 published: false
 title: Zoos and Conservation
-updated: 1642245841886
+updated: 1642329128501
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 doi: 64y2-m311/75
 desc: Since only a relatively short time zoos intensify their conservation efforts.
@@ -196,11 +196,10 @@ Der Orang-Utan zählt zweifelsohne zur Kategorie der Flaggschiffarten. Das sieht
 
 <figure>
 
-![Bild eines rothaarigen Affen.](/images/cmw/Orang_Conservation_WAZA.JPG)
-
+![Bild eines rothaarigen Affen.](/images/cmw/Orang_Conservation_WAZA_neu.jpg)
 <figcaption>
 
-_Bild auf der Website der World Association of Zoos and Aquariums, 2021._
+_Bild auf der Website der World Association of Zoos and Aquariums. https://www.waza.org/priorities/conservation/conservation-strategies (15.01.2022)._
 
 </figcaption>
 
