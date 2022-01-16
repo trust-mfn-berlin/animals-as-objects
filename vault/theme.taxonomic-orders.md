@@ -7,7 +7,7 @@ short_desc_de: Die Kategorisierung der Natur ist politisch
 date_end: 2021-07-06T11:43:53.791Z
 published: false
 title: Taxonomic Orders
-updated: 1642361043518
+updated: 1642363581297
 id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
 doi: 64y2-m311/5
 translators:
@@ -87,7 +87,7 @@ Digital databases have proliferated and they allow easier access, more democrati
 
 Like all sorts of classifications, biological taxonomies are entangled with power: the power to define categories, to include and exclude, as well as the power to enforce these orders. These orders are clearly made visible and tangible in their effects on the architectures of displays and collections, like in the cases of the Museum für Naturkunde and the Berlin Zoo. Changes in taxonomic orders often result in changes in the display and organisation of animals in zoological collections and their architecture. In this sense, taxonomic orders are never neutral, but have significant real-life consequences.[^11] This is particularly evident in the contemporary articulation of the technocratic governmentality emerging around climate change and the pressing need for quantifying and managing biodiversity loss.[^12] If different approaches to taxonomy can result in different interpretations of data, different thresholds, and hence different policies to handle environmental problems, the ordering practices of taxonomy have an important role in how we will manage to navigate the challenges offered by a transforming planet and our efforts in [[recording worlds|theme.recording-worlds]].
 
-[^1]: For more about Linnaeus, see “Who was Linnaeus?” no date, https://www.linnean.org/learning/who-was-linnaeus (01.07.2021).
+[^1]: For more about Linnaeus, see “Who was Linnaeus?”. No date, https://www.linnean.org/learning/who-was-linnaeus (01.07.2021).
 
 [^2]: See, for instance, the changing classification of [[material.infusoria]] in [[micropaleontology|story.chaotic-origins-of-micropaleontology]].
 
@@ -162,7 +162,7 @@ Wie alle Klassifikationssysteme bringen auch biologische Taxonomien Machtverhäl
 
 
 
-[^1]: Zu Linné: “Who was Linnaeus?” ohne Datum, https://www.linnean.org/learning/who-was-linnaeus (01.07.2021).
+[^1]: Zu Linné: “Who was Linnaeus?”. Ohne Datum, https://www.linnean.org/learning/who-was-linnaeus (01.07.2021).
 
 [^2]: Siehe z.B. die Klassifizierung von [[material.infusoria]] in der [[Mikropaläontologie|story.chaotic-origins-of-micropaleontology]], die sich geändert hat.
 
