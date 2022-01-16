@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Fossil Fuels
 title_de: Fossile Brennstoffe
 created: 1618493147480
-updated: 1642334328987
+updated: 1642334734675
 id: 7f5d84e2-6c42-454e-a7c5-f31db9960a70
 author: Filippo Bertoni
 doi: 64y2-m311/32
