@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Of Microbes and Planets
 title_de: Über Mikroben und Planeten
 created: 1621522603135
-updated: 1642372543529
+updated: 1642372584921
 id: 796e4da7-c573-401f-a165-7bd9c3a503c6
 author: Filippo Bertoni
 doi: 64y2-m311/33
@@ -129,7 +129,7 @@ _Eine von der NASA veröffentlichte Animation veranschaulicht den Kreislauf der 
 
 [^7]: Einige dieser bedeutenden Sammlungen sind beispielsweise Teil der mineralogischen Sammlung des Museums für Naturkunde Berlin und werden in dessen geochemischen und mikroanalytischen Labors untersucht, siehe: “Geochemical and Microanalytical Laboratories”. _Museum für Naturkunde Berlin_, kein Datum. https://www.museumfuernaturkunde.berlin/en/science/geochemical-and-microanalytical-laboratories (03.01.2022); und “Rock and Ore Collection”. _Museum für Naturkunde Berlin_, kein Datum. https://www.museumfuernaturkunde.berlin/en/science/rock-and-ore-collection (03.01.2022).
 
-[^8]: Zur Geschichte dieses Meilenstein-Artikels und seinen Autoren: Mark Maslin. “Tying Celestial Mechanics to Earth’s Ice Atorges”. _Physics Today_ 73, no. 5, 48 (2020). https://physicstoday.scitation.org/doi/10.1063/PT.3.4474 (03.01.2022); und Stacy Morford. “John Imbrie: A Pioneer of Paleoceanography”. _State of the Planet_, Columbia Climate School, 19.05.2016, https://news.climate.columbia.edu/2016/05/19/john-imbrie-a-pioneer-of-paleoceanography/ (03.01.2022).
+[^8]: Zur Geschichte dieses Meilenstein-Artikels und seiner Autoren, siehe Mark Maslin. “Tying Celestial Mechanics to Earth’s Ice Atorges”. _Physics Today_ 73, no. 5, 48 (2020). https://physicstoday.scitation.org/doi/10.1063/PT.3.4474 (03.01.2022); und Stacy Morford. “John Imbrie: A Pioneer of Paleoceanography”. _State of the Planet_, Columbia Climate School, 19.05.2016, https://news.climate.columbia.edu/2016/05/19/john-imbrie-a-pioneer-of-paleoceanography/ (03.01.2022).
 
 [^9]: Zur Gaia-Hypothese: Tim Radford. “James Lovelock at 100: The Gaia Saga Continues”. _Nature_ 570 (25.06.2019): 441-442. https://www.nature.com/articles/d41586-019-01969-y (03.01.2022); “Gaia Hypothesis – James Lovelock”. _Naked Science_, YouTube, 21.05.2014. https://www.youtube.com/watch?v=GIFRg2skuDI (03.01.2022). 
 
