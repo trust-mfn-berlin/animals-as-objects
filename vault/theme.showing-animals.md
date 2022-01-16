@@ -266,7 +266,7 @@ At a time when visual media are making it possible to access the lives of wild a
 
 [^8]: Eric Baratay. “Theater des ‘Wilden’: Zoologische Gärten in der Zeit August Gauls”. In _August Gaul: Moderne Tiere_, K. Lee Chichester, Nina Zimmer, and Kunstmuseum Bern (eds.). Munich: Hirmer, 2021: 45-58, 49.
 
-[^9]: Ursula Klös, Harro Strehlow, and Werner Synakiewicz. _Der Berliner Zoo im Spiegel seiner Bauten, 1841-1989: Eine baugeschichtliche und denkmalpflegerische Dokumentation über den Zoologischen Garten Berlin_, Heinz-Georg Klös and Ursula Klös (eds.), 2nd ed. Berlin: Heenemann, 1990, 171ff.
+[^9]: Ursula Klös, Harro Strehlow, and Werner Synakiewicz. _Der Berliner Zoo im Spiegel seiner Bauten, 1841-1989: Eine baugeschichtliche und denkmalpflegerische Dokumentation über den Zoologischen Garten Berlin_. Heinz-Georg Klös and Ursula Klös (eds.). 2nd ed. Berlin: Heenemann, 1990, 171ff.
 
 [^10]: Fedor von Zobeltitz. “Wie man im Zoologischen Garten isst und trinkt”. _Moderne Kunst_ XVIII, no. 2 (um 1900): 5-8.
 
@@ -549,7 +549,7 @@ In einer Zeit, in der visuelle Medien den Zugang zum Leben wildlebender Tiere in
 
 [^8]: Eric Baratay. “Theater des ‘Wilden’: Zoologische Gärten in der Zeit August Gauls”. In _August Gaul: Moderne Tiere_, K. Lee Chichester, Nina Zimmer und Kunstmuseum Bern (Hg.). München: Hirmer, 2021: 45-58, 49.
 
-[^9]: Ursula Klös, Harro Strehlow und Werner Synakiewicz. _Der Berliner Zoo im Spiegel seiner Bauten, 1841-1989: Eine baugeschichtliche und denkmalpflegerische Dokumentation über den Zoologischen Garten Berlin_, Heinz-Georg Klös und Ursula Klös (Hg.), 2. Aufl. Berlin: Heenemann, 1990, 171ff.
+[^9]: Ursula Klös, Harro Strehlow und Werner Synakiewicz. _Der Berliner Zoo im Spiegel seiner Bauten, 1841-1989: Eine baugeschichtliche und denkmalpflegerische Dokumentation über den Zoologischen Garten Berlin_. Heinz-Georg Klös und Ursula Klös (Hg.). 2. Aufl. Berlin: Heenemann, 1990, 171ff.
 
 [^10]: Fedor von Zobeltitz. “Wie man im Zoologischen Garten isst und trinkt”. _Moderne Kunst_ XVIII, Nr. 2 (um 1900): 5-8.
 
