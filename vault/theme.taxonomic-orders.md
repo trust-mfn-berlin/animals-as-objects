@@ -7,7 +7,7 @@ short_desc_de: Die Kategorisierung der Natur ist politisch
 date_end: 2021-07-06T11:43:53.791Z
 published: false
 title: Taxonomic Orders
-updated: 1642360263441
+updated: 1642360891131
 id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
 doi: 64y2-m311/5
 translators:
@@ -101,7 +101,7 @@ Like all sorts of classifications, biological taxonomies are entangled with powe
 
 [^7]: To learn more about the Modern Synthesis, see Chia-Yi Hou. “Modern Synthesis, 1937”. 01.09.2019, https://www.the-scientist.com/foundations/modern-synthesis-1937-66322 (01.07.2021). Also see Ernst Mayr and William B. Provine. _The Evolutionary Synthesis_. Cambridge: Harvard University Press, 2013. https://doi.org/10.4159/harvard.9780674865389. An alternative historical interpretation can be found in Maurizio Esposito. “Utopianism in the British Evolutionary Synthesis”. _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_ 42, no. 1 (2011): 40-49. https://doi.org/10.1016/j.shpsc.2010.11.007. For the ongoing effort to extend and amend this synthesis, see Tim Lewens. “The Extended Evolutionary Synthesis: What is the Debate About, and What Might Success for the Extenders Look Like?” _Biological Journal of the Linnean Society_ 127, no. 4 (2019): 707-721. https://doi.org/10.1093/biolinnean/blz064.
 
-[^8]: For more on cladistics, see “An Introduction to Cladistics”. 1996, https://ucmp.berkeley.edu/clad/clad1.html (01.07.2021); Q. Wheeler, L. Assis, and O. Rieppel. “Heed the Father of Cladistics”. _Nature_ 496 (2013): 295–296. https://doi.org/10.1038/496295a.
+[^8]: For more on cladistics, see “An Introduction to Cladistics”. 1996, https://ucmp.berkeley.edu/clad/clad1.html (01.07.2021); Q. Wheeler, L. Assis, and O. Rieppel. “Heed the Father of Cladistics”. _Nature_ 496 (2013): 295-296. https://doi.org/10.1038/496295a.
 
 [^9]: More on the importance of databases, digitisation, and data in [[theme.recording-worlds]]. Also see Sabina Leonelli and Niccolò Tempini. _Data Journeys in the Sciences_. Cham: Springer, 2020. https://doi.org/10.1007/978-3-030-37177-7.
 
@@ -166,17 +166,17 @@ Wie alle Klassifikationssysteme bringen auch biologische Taxonomien Machtverhäl
 
 [^2]: Siehe z.B. die Klassifizierung von [[material.infusoria]] in der [[Mikropaläontologie|story.chaotic-origins-of-micropaleontology]], die sich geändert hat.
 
-[^3]: Für Details zu den Codes siehe Dan H. Nicolson. “A History of Botanical Nomenclature”. _Annals of the Missouri Botanical Garden_ 78, Nr. 1 (1991): 33–56. https://doi.org/10.2307/2399589.
+[^3]: Für Details zu den Codes siehe Dan H. Nicolson. “A History of Botanical Nomenclature”. _Annals of the Missouri Botanical Garden_ 78, Nr. 1 (1991): 33-56. https://doi.org/10.2307/2399589.
  
-[^4]: Siehe Staffan Müller-Wille. “Reproducing Difference: Race and Heredity from a Longue Durée Perspective”. In _Race, Gender and Reproduction: Philosophy and the Early Life Sciences in Context_. S. Lettow (Hg.). Albany: SUNY Press, 2014: 217–235.
+[^4]: Siehe Staffan Müller-Wille. “Reproducing Difference: Race and Heredity from a Longue Durée Perspective”. In _Race, Gender and Reproduction: Philosophy and the Early Life Sciences in Context_. S. Lettow (Hg.). Albany: SUNY Press, 2014: 217-235.
 
 [^5]: Zu C. Darwin, A.R. Wallace und Evolution, siehe: “Natural Selection: Charles Darwin & Alfred Russel Wallace”. 22.08.2008, https://evolution.berkeley.edu/evolibrary/article/0_0_0/history_14 (01.07.2021); J. Norman. “Darwin & Wallace Issue the First Printed Exposition of the Theory of Evolution by Natural Selection”. 25.11.2014, https://www.historyofinformation.com/detail.php?id=1655 (01.07.2021); “Darwin Correspondence Project”. 2020, https://www.darwinproject.ac.uk (01.07.2021); Alexandra Stober. “Charles Darwin: Revolutionär und Gentleman”. 02.06.2020, https://www.planet-wissen.de/natur/forschung/evolutionsforschung/pwiecharlesdarwinrevolutionaerundgentleman100.html (01.07.2021). Für eine eingehende historische Darstellung, siehe James T. Costa. _Wallace, Darwin, and the Origin of Species_. Cambridge: Harvard University Press, 2014, http://www.jstor.org/stable/j.ctt6wprf8 (22.06.2021).
 
 [^6]: Ernst Haeckel. _Generelle Morphologie der Organismen: Allgemeine Grundzüge der organischen Formen-Wissenschaft, mechanisch begründet durch die von C. Darwin reformirte Decendenz-Theorie_. Berlin: 1866.
 
-[^7]: Siehe Chia-Yi Hou. “Modern Synthesis, 1937”. 01.09.2019, https://www.the-scientist.com/foundations/modern-synthesis-1937-66322 (01.07.2021). Siehe außerdem Ernst Mayr und William B. Provine. _The Evolutionary Synthesis_. Cambridge: Harvard University Press, 2013. https://doi.org/10.4159/harvard.9780674865389. Eine abweichende historische Interpretation findet sich in Maurizio Esposito. “Utopianism in the British Evolutionary Synthesis”. _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_ 42, Nr. 1 (2011): 40–49. https://doi.org/10.1016/j.shpsc.2010.11.007. Zu den anhaltenden Bemühungen, diese These zu überarbeiten und erweitern, siehe Tim Lewens. “The Extended Evolutionary Synthesis: "hat is the Debate About, and What Might Success for the Extenders Look Like?” _Biological Journal of the Linnean Society_ 127, Nr. 4 (2019): 707–721. https://doi.org/10.1093/biolinnean/blz064.
+[^7]: Siehe Chia-Yi Hou. “Modern Synthesis, 1937”. 01.09.2019, https://www.the-scientist.com/foundations/modern-synthesis-1937-66322 (01.07.2021). Siehe außerdem Ernst Mayr und William B. Provine. _The Evolutionary Synthesis_. Cambridge: Harvard University Press, 2013. https://doi.org/10.4159/harvard.9780674865389. Eine abweichende historische Interpretation findet sich in Maurizio Esposito. “Utopianism in the British Evolutionary Synthesis”. _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_ 42, Nr. 1 (2011): 40-49. https://doi.org/10.1016/j.shpsc.2010.11.007. Zu den anhaltenden Bemühungen, diese These zu überarbeiten und erweitern, siehe Tim Lewens. “The Extended Evolutionary Synthesis: "hat is the Debate About, and What Might Success for the Extenders Look Like?” _Biological Journal of the Linnean Society_ 127, Nr. 4 (2019): 707-721. https://doi.org/10.1093/biolinnean/blz064.
 
-[^8]: Siehe “An Introduction to Cladistics”. 1996, https://ucmp.berkeley.edu/clad/clad1.html (01.07.2021); Q. Wheeler, L. Assis und O. Rieppel. “Heed the Father of Cladistics”. _Nature_ 496 (2013): 295–296. https://doi.org/10.1038/496295a.
+[^8]: Siehe “An Introduction to Cladistics”. 1996, https://ucmp.berkeley.edu/clad/clad1.html (01.07.2021); Q. Wheeler, L. Assis und O. Rieppel. “Heed the Father of Cladistics”. _Nature_ 496 (2013): 295-296. https://doi.org/10.1038/496295a.
 
 [^9]: Zur Bedeutung von Datenbanken, Digitalisierung und Daten siehe [[theme.recording-worlds]]. Oder siehe Sabina Leonelli und Niccolò Tempini. _Data Journeys in the Sciences_. Cham: Springer, 2020. https://doi.org/10.1007/978-3-030-37177-7.
 
