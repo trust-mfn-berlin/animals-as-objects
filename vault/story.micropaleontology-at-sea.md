@@ -7,7 +7,7 @@ short_desc_de: Mikrofossilien und die Erforschung der Ozeane
 date_end: 1960-12-31T11:00:00.000Z
 published: false
 title: Micropaleontology at Sea
-updated: 1642368966115
+updated: 1642370192076
 id: b30fb33b-adc1-4c3e-963a-e2467c2fbb21
 doi: 64y2-m311/7
 translators:
@@ -53,9 +53,9 @@ These novel insights were built on ocean sediments and particularly on the micro
 
 [^1]: For Riedel’s biography, see the electronic journal that he helped create in the early years of the internet. “William Riedel”. _Paleontologica Electronica (Staff)_, no date,  https://palaeo-electronica.org/staff/bill.htm (01.07.2021).
 
-[^2]: This was one of the most celebrated oceanographic scientific explorations of the 19th century. See Lerwill, Ben. “HMS Challenger: The voyage that birthed oceanography”. _BBC_, 21.07.2020, https://www.bbc.com/travel/article/20200719-hms-challenger-the-voyage-that-birthed-oceanography (01.07.2021); Golembiewski, Kate. “H.M.S. Challenger: Humanity’s First Real Glimpse of the Deep Oceans”. _Discover Magazine_, 20.04.2019, https://www.discovermagazine.com/planet-earth/hms-challenger-humanitys-first-real-glimpse-of-the-deep-oceans (01.07.2021). For a more in-depth history, see Rozwadowski, Helen M. _Fathoming the Ocean: The Discovery and Exploration of the Deep Sea_. Cambridge: Harvard University Press, 2005.
+[^2]: This was one of the most celebrated oceanographic scientific explorations of the 19th century. See Lerwill, Ben. “HMS Challenger: The voyage that birthed oceanography”. _BBC Online_, 21.07.2020. https://www.bbc.com/travel/article/20200719-hms-challenger-the-voyage-that-birthed-oceanography (01.07.2021); Golembiewski, Kate. “H.M.S. Challenger: Humanity’s First Real Glimpse of the Deep Oceans”. _Discover Magazine_, 20.04.2019. https://www.discovermagazine.com/planet-earth/hms-challenger-humanitys-first-real-glimpse-of-the-deep-oceans (01.07.2021). For a more in-depth history, see Rozwadowski, Helen M. _Fathoming the Ocean: The Discovery and Exploration of the Deep Sea_. Cambridge: Harvard University Press, 2005.
 
-[^3]: For more on how a piston corer works, see “Piston Corer”. _Woods Hole Oceanographic institution_, no date, https://www.whoi.edu/what-we-do/explore/instruments/instruments-sensors-samplers/piston-corer/ (01.07.2021).
+[^3]: For more on how a piston corer works, see “Piston Corer”. _Woods Hole Oceanographic Institution_, no date. https://www.whoi.edu/what-we-do/explore/instruments/instruments-sensors-samplers/piston-corer/ (01.07.2021).
 
 [^4]: Pettersson, Hans. “The Swedish Deep-Sea Expedition”. _Nature_ 162 (1948): 324–325. https://scholarspace.manoa.hawaii.edu/bitstream/10125/9061/1/vol2n4-231-238.pdf (01.07.2021).
 
@@ -88,9 +88,9 @@ All diese neuen Erkenntnisse der Mikropaläontologie basierten auf der Untersuch
 
 [^1]: Über Riedels Leben gibt es weitere Informationen in dem elektronischen Journal, das er in den frühen Tagen des Internets mitgestaltet hat: “William Riedel”. _Paleontologica Electronica (Staff)_, ohne Datum,  https://palaeo-electronica.org/staff/bill.htm (01.07.2021).
 
-[^2]: Hierbei handelt es sich um eine der berühmtesten ozeanografischen Wissenschaftsexpeditionen des 19. Jahrhunderts. Siehe Lerwill, Ben. “HMS Challenger: The voyage that birthed oceanography”. _BBC_, 21.07.2020, https://www.bbc.com/travel/article/20200719-hms-challenger-the-voyage-that-birthed-oceanography (01.07.2021); Golembiewski, Kate. “H.M.S. Challenger: Humanity’s First Real Glimpse of the Deep Oceans”. _Discover Magazine_, 20.04.2019, https://www.discovermagazine.com/planet-earth/hms-challenger-humanitys-first-real-glimpse-of-the-deep-oceans (01.07.2021). Für eine umfassendere Darstellung der historischen Erkundung der Tiefsee, siehe Rozwadowski, Helen M. _Fathoming the Ocean: The Discovery and Exploration of the Deep Sea_. Cambridge: Harvard University Press, 2005.
+[^2]: Hierbei handelt es sich um eine der berühmtesten ozeanografischen Wissenschaftsexpeditionen des 19. Jahrhunderts. Siehe Lerwill, Ben. “HMS Challenger: The voyage that birthed oceanography”. _BBC Online_, 21.07.2020. https://www.bbc.com/travel/article/20200719-hms-challenger-the-voyage-that-birthed-oceanography (01.07.2021); Golembiewski, Kate. “H.M.S. Challenger: Humanity’s First Real Glimpse of the Deep Oceans”. _Discover Magazine_, 20.04.2019. https://www.discovermagazine.com/planet-earth/hms-challenger-humanitys-first-real-glimpse-of-the-deep-oceans (01.07.2021). Für eine umfassendere Darstellung der historischen Erkundung der Tiefsee, siehe Rozwadowski, Helen M. _Fathoming the Ocean: The Discovery and Exploration of the Deep Sea_. Cambridge: Harvard University Press, 2005.
 
-[^3]: Zur Funktionsweise dieses Bohrers, siehe: “Piston Corer”. _Woods Hole Oceanographic institution_, ohne Datum, https://www.whoi.edu/what-we-do/explore/instruments/instruments-sensors-samplers/piston-corer/ (01.07.2021).
+[^3]: Zur Funktionsweise dieses Bohrers, siehe: “Piston Corer”. _Woods Hole Oceanographic Institution_, ohne Datum. https://www.whoi.edu/what-we-do/explore/instruments/instruments-sensors-samplers/piston-corer/ (01.07.2021).
 
 [^4]: Pettersson, Hans. “The Swedish Deep-Sea Expedition”. _Nature_ 162 (1948): 324–325. https://scholarspace.manoa.hawaii.edu/bitstream/10125/9061/1/vol2n4-231-238.pdf (01.07.2021).
 

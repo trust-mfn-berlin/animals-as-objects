@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Of Microbes and Planets
 title_de: Über Mikroben und Planeten
 created: 1621522603135
-updated: 1642368609536
+updated: 1642370945966
 id: 796e4da7-c573-401f-a165-7bd9c3a503c6
 author: Filippo Bertoni
 doi: 64y2-m311/33
@@ -63,25 +63,25 @@ _An animation issued by NASA illustrating the cyclicity of primary production an
 
 [^1]: While in their lifetime the work of these scientists remained marginal – also due to linguistic, intellectual, and later even ideological barriers – their impact on later developments of the technosciences is beginning to be recognised. See, for the case of Winogradsky: Attenborough, Frederick. “The monad and the nomad: medical microbiology and the politics and possibilities of the mobile microbe”. _cultural geographies_ 18, no. 1 (2011): 91-114; and for the case of Dokuchaev: Bertoni, Filippo. “Soiling Mars: ‘To Boldly Grow Where No Plant Has Grown Before’?” In _Thinking with Soils: Material Politics and Social Theory_, ed. by Juan Francisco Salazar et al. London: Bloomsbury Publishing (2020): 107.
 
-[^2]: To learn more on the impact of cybernetics, see Pickering, Andrew. _The cybernetic brain_. Chicago: University of Chicago Press, 2010; or watch “Sketches of Another Future: An Interview with Andrew Pickering”. _Sistemas Sociales_, YouTube, 24.03.2014, https://www.youtube.com/watch?v=juGIXi6Lyek (03.01.2022).
+[^2]: To learn more on the impact of cybernetics, see Pickering, Andrew. _The cybernetic brain_. Chicago: University of Chicago Press, 2010; or watch “Sketches of Another Future: An Interview with Andrew Pickering”. _Sistemas Sociales_, YouTube, 24.03.2014. https://www.youtube.com/watch?v=juGIXi6Lyek (03.01.2022).
 
 [^3]: To learn more about the history of biogeochemistry, see Bianchi, T.S. “The evolution of biogeochemistry: revisited”. _Biogeochemistry_ 154, (2021): 141-181. https://doi.org/10.1007/s10533-020-00708-0 
 
-[^4]: George Evelyn Hutchinson, considered one of the founders of ecology, famously carried out some important experiments using a small lake called “Linsley Pond”. To learn more about her, see Zimmer, Carl. “The Human Lake”. _National Geographic_, 31.03.2011, https://www.nationalgeographic.com/science/article/the-human-lake (03.01.2022); and Martin, Laura J. “G. Evelyn Hutchinson’s Exultation in Natural History.” _American Scientist_, 2016, https://www.americanscientist.org/article/g-evelyn-hutchinsons-exultation-in-natural-history (03.01.2022).
+[^4]: George Evelyn Hutchinson, considered one of the founders of ecology, famously carried out some important experiments using a small lake called “Linsley Pond”. To learn more about her, see Zimmer, Carl. “The Human Lake”. _National Geographic Online_, 31.03.2011. https://www.nationalgeographic.com/science/article/the-human-lake (03.01.2022); and Martin, Laura J. “G. Evelyn Hutchinson’s Exultation in Natural History.” _American Scientist_, 2016. https://www.americanscientist.org/article/g-evelyn-hutchinsons-exultation-in-natural-history (03.01.2022).
 
 [^5]: On the deep relations between outer space and the global ocean still influencing current technosciences, see Stefan Helmreich. _Alien Ocean_. Oakland: University of California Press, 2009.
 
-[^6]: Some of these important collections, for instance, are part of the Museum für Naturkunde Berlin’s mineralogical collection, and are studied in its geochemical and microanalytical labs, see “Geochemical and Microanalytical Laboratories”. _Museum für Naturkunde Berlin_, no date, https://www.museumfuernaturkunde.berlin/en/science/geochemical-and-microanalytical-laboratories (03.01.2022); and “Rock and Ore Collection”. _Museum für Naturkunde Berlin_, no date, https://www.museumfuernaturkunde.berlin/en/science/rock-and-ore-collection (03.01.2022).
+[^6]: Some of these important collections, for instance, are part of the Museum für Naturkunde Berlin’s mineralogical collection, and are studied in its geochemical and microanalytical labs, see “Geochemical and Microanalytical Laboratories”. _Museum für Naturkunde Berlin_, no date. https://www.museumfuernaturkunde.berlin/en/science/geochemical-and-microanalytical-laboratories (03.01.2022); and “Rock and Ore Collection”. _Museum für Naturkunde Berlin_, no date. https://www.museumfuernaturkunde.berlin/en/science/rock-and-ore-collection (03.01.2022).
 
 [^7]: For more on the history of this milestone article and its authors, see Maslin, Mark. “Tying celestial mechanics to Earth’s ice ages”. _Physics Today_ 73, no. 5, 48 (2020). https://physicstoday.scitation.org/doi/10.1063/PT.3.4474 (03.01.2022); and Morford, Stacy. “John Imbrie: A Pioneer of Paleoceanography”. _State of the Planet_, Columbia Climate School, 19.05.2016, https://news.climate.columbia.edu/2016/05/19/john-imbrie-a-pioneer-of-paleoceanography/ (03.01.2022).
 
 [^8]: See Hays, James D., John Imbrie, and Nicholas J. Shackleton. “Variations in the Earth’s Orbit: Pacemaker of the Ice Ages”. _Science_ 194 (1976): 1121-1132. https://doi.org/10.1126/science.194.4270.1121.
 
-[^9]: To learn more about the Gaia hypothesis, see Radford, Tim. “James Lovelock at 100: the Gaia saga continues”. _nature_ 570 (25.06.2019): 441-442. https://www.nature.com/articles/d41586-019-01969-y (03.01.2022); or watch “Gaia Hypothesis – James Lovelock”. _Naked Science_ YouTube, 21.05.2014, https://www.youtube.com/watch?v=GIFRg2skuDI (03.01.2022).
+[^9]: To learn more about the Gaia hypothesis, see Radford, Tim. “James Lovelock at 100: the Gaia saga continues”. _Nature_ 570 (25.06.2019): 441-442. https://www.nature.com/articles/d41586-019-01969-y (03.01.2022); or watch “Gaia Hypothesis – James Lovelock”. _Naked Science_, YouTube, 21.05.2014. https://www.youtube.com/watch?v=GIFRg2skuDI (03.01.2022).
 
-[^10]: To learn more about Lynn Margulis, see Lake, J. “Lynn Margulis (1938–2011).” _Nature_ 480 (2011): 458. https://doi.org/10.1038/480458a. Fore more on Margulis’ view of Gaia, see “Gaia is a Though Bitch”. _Edge,  Conversations_, 05.01.1996, https://www.edge.org/conversation/lynn_margulis-chapter-7-gaia-is-a-tough-bitch. (03.01.2022).
+[^10]: To learn more about Lynn Margulis, see Lake, J. “Lynn Margulis (1938–2011).” _Nature_ 480 (2011): 458. https://doi.org/10.1038/480458a. Fore more on Margulis’ view of Gaia, see “Gaia is a Though Bitch”. _Edge_, 05.01.1996. https://www.edge.org/conversation/lynn_margulis-chapter-7-gaia-is-a-tough-bitch. (03.01.2022).
 
-[^11]: To get a better sense of these dynamics, see Royte, Elizabeth. “Attack of the Microbiologists”. _New York Times Magazine_, 14.01.1996, https://www.nytimes.com/1996/01/14/magazine/attack-of-the-microbiologists.html (03.01.2022).
+[^11]: To get a better sense of these dynamics, see Royte, Elizabeth. “Attack of the Microbiologists”. _New York Times Magazine_, 14.01.1996. https://www.nytimes.com/1996/01/14/magazine/attack-of-the-microbiologists.html (03.01.2022).
 
 [^12]: Diatoms are also featured in the video about the [[material.lamont-doherty-collection]].
 
@@ -117,25 +117,25 @@ _Eine von der NASA veröffentlichte Animation veranschaulicht den Kreislauf der 
 
 [^1]: Während die Arbeit dieser Wissenschaftler zu ihrer Lebzeit marginal blieb – u.a. aufgrund sprachlicher, intellektueller und später sogar ideologischer Barrieren –, wird ihr Einfluss auf die späteren Entwicklungen der Technowissenschaften allmählich anerkannt. Zu Winogradsky: Frederick Attenborough. “The Monad and the Nomad: Medical Microbiology and the Politics and Possibilities of the Mobile Microbe”. _Cultural Geographies_ 18, no. 1 (2011): 91-114; für weitere Details zu Dokuchaev, siehe: Filippo Bertoni. “Soiling Mars: ‘To Boldly Grow Where No Plant Has Grown Before’?” In _Thinking with Soils: Material Politics and Social Theory_, Juan Francisco Salazar et al. (Hg.). London: Bloomsbury Publishing (2020): 107.
 
-[^2]: Zu den Auswirkungen der Kybernetik: Andrew Pickering. _The Cybernetic Brain_. Chicago: University of Chicago Press, 2010; oder “Sketches of Another Future: An Interview with Andrew Pickering”. _Sistemas Sociales_. 24.03.2014, https://www.youtube.com/watch?v=juGIXi6Lyek (03.01.2022).
+[^2]: Zu den Auswirkungen der Kybernetik: Andrew Pickering. _The Cybernetic Brain_. Chicago: University of Chicago Press, 2010; oder “Sketches of Another Future: An Interview with Andrew Pickering”. _Sistemas Sociales_, YouTube, 24.03.2014. https://www.youtube.com/watch?v=juGIXi6Lyek (03.01.2022).
 
 [^3]: Zur Geschichte der Biogeochemie: T.S. Bianchi. “The Evolution of Biogeochemistry: Revisited”. _Biogeochemistry_ 154, (2021): 141-181. https://doi.org/10.1007/s10533-020-00708-0 
 
-[^4]: George Evelyn Hutchinson, der als einer der Begründer der Ökologie gilt, führte einige wichtige Experimente an einem kleinen See namens “Linsley Pond” durch, siehe: Carl Zimmer. “The Human Lake”. _National Geographic_, 31.03.2011, https://www.nationalgeographic.com/science/article/the-human-lake (03.01.2022); und Laura J. Martin. “G. Evelyn Hutchinson’s Exultation in Natural History”. 2016, https://www.americanscientist.org/article/g-evelyn-hutchinsons-exultation-in-natural-history (03.01.2022).
+[^4]: George Evelyn Hutchinson, der als einer der Begründer der Ökologie gilt, führte einige wichtige Experimente an einem kleinen See namens “Linsley Pond” durch, siehe: Carl Zimmer. “The Human Lake”. _National Geographic Online_, 31.03.2011. https://www.nationalgeographic.com/science/article/the-human-lake (03.01.2022); und Laura J. Martin. “G. Evelyn Hutchinson’s Exultation in Natural History”. _American Scientist_, 2016. https://www.americanscientist.org/article/g-evelyn-hutchinsons-exultation-in-natural-history (03.01.2022).
 
 [^5]: Zur tiefgreifenden Beziehungen zwischen dem Weltraum und dem globalen Ozean, die noch immer die aktuellen Technowissenschaften beeinflussen:  Stefan Helmreich. _Alien Ocean_. Oakland: University of California Press, 2009.
 
-[^6]: Einige dieser bedeutenden Sammlungen sind beispielsweise Teil der mineralogischen Sammlung des Museums für Naturkunde Berlin und werden in dessen geochemischen und mikroanalytischen Labors untersucht, siehe: “Geochemical and Microanalytical Laboratories”. _Museum für Naturkunde Berlin_, kein Datum, https://www.museumfuernaturkunde.berlin/en/science/geochemical-and-microanalytical-laboratories (03.01.2022); und “Rock and Ore Collection”. _Museum für Naturkunde Berlin_, kein Datum, https://www.museumfuernaturkunde.berlin/en/science/rock-and-ore-collection (03.01.2022).
+[^6]: Einige dieser bedeutenden Sammlungen sind beispielsweise Teil der mineralogischen Sammlung des Museums für Naturkunde Berlin und werden in dessen geochemischen und mikroanalytischen Labors untersucht, siehe: “Geochemical and Microanalytical Laboratories”. _Museum für Naturkunde Berlin_, kein Datum. https://www.museumfuernaturkunde.berlin/en/science/geochemical-and-microanalytical-laboratories (03.01.2022); und “Rock and Ore Collection”. _Museum für Naturkunde Berlin_, kein Datum. https://www.museumfuernaturkunde.berlin/en/science/rock-and-ore-collection (03.01.2022).
 
 [^7]: Zur Geschichte dieses Meilenstein-Artikels und seinen Autoren: Mark Maslin. “Tying Celestial Mechanics to Earth’s Ice Atorges”. _Physics Today_ 73, no. 5, 48 (2020). https://physicstoday.scitation.org/doi/10.1063/PT.3.4474 (03.01.2022); und Stacy Morford. “John Imbrie: A Pioneer of Paleoceanography”. _State of the Planet_, Columbia Climate School, 19.05.2016, https://news.climate.columbia.edu/2016/05/19/john-imbrie-a-pioneer-of-paleoceanography/ (03.01.2022).
 
 [^8]: Siehe James D. Hays, John Imbrie und Nicholas J. Shackleton. “Variations in the Earth’s Orbit: Pacemaker of the Ice Ages”. _Science_ 194 (1976): 1121-1132. https://doi.org/10.1126/science.194.4270.1121.
 
-[^9]: Zur Gaia-Hypothese: Tim Radford. “James Lovelock at 100: The Gaia Saga Continues”. _Nature_ 570 (25.06.2019): 441-442. https://www.nature.com/articles/d41586-019-01969-y (03.01.2022); “Gaia Hypothesis – James Lovelock”. _Naked Science_ YouTube, 21.05.2014, https://www.youtube.com/watch?v=GIFRg2skuDI (03.01.2022). 
+[^9]: Zur Gaia-Hypothese: Tim Radford. “James Lovelock at 100: The Gaia Saga Continues”. _Nature_ 570 (25.06.2019): 441-442. https://www.nature.com/articles/d41586-019-01969-y (03.01.2022); “Gaia Hypothesis – James Lovelock”. _Naked Science_, YouTube, 21.05.2014. https://www.youtube.com/watch?v=GIFRg2skuDI (03.01.2022). 
 
-[^10]: Zu Lynn Margulis: J. Lake. “Lynn Margulis (1938–2011)”. _Nature_ 480 (2011): 458. https://doi.org/10.1038/480458a. Fore more on Margulis’ view of Gaia, see “Gaia is a Though Bitch”. _Edge,  Conversations_, 05.01.1996, https://www.edge.org/conversation/lynn_margulis-chapter-7-gaia-is-a-tough-bitch. (03.01.2022).
+[^10]: Zu Lynn Margulis: J. Lake. “Lynn Margulis (1938–2011)”. _Nature_ 480 (2011): 458. https://doi.org/10.1038/480458a. Fore more on Margulis’ view of Gaia, see “Gaia is a Though Bitch”. _Edge_, 05.01.1996. https://www.edge.org/conversation/lynn_margulis-chapter-7-gaia-is-a-tough-bitch. (03.01.2022).
 
-[^11]: Um ein besseres Gefühl für diese Dynamiken zu bekommen, siehe: Elizabeth Royte. “Attack of the Microbiologists”. _New York Times Magazine_, 14.01.1996, https://www.nytimes.com/1996/01/14/magazine/attack-of-the-microbiologists.html (03.01.2022).
+[^11]: Um ein besseres Gefühl für diese Dynamiken zu bekommen, siehe: Elizabeth Royte. “Attack of the Microbiologists”. _New York Times Magazine_, 14.01.1996. https://www.nytimes.com/1996/01/14/magazine/attack-of-the-microbiologists.html (03.01.2022).
 
 [^12]: Kieselalgen werden auch in dem Video über [[material.lamont-doherty-collection]] gezeigt.
 
