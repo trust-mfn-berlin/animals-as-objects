@@ -7,7 +7,7 @@ short_desc_de: Mikroorganismen, die am häufigsten in den Ozeanen leben
 date_end: 2021-12-07T19:14:43.793Z
 published: false
 title: Foraminifera
-updated: 1642364419470
+updated: 1642364941523
 id: 83cc17bb-8a8e-4157-9ebc-f0990cf60076
 doi: 64y2-m311/36
 translators:
@@ -83,4 +83,4 @@ _Dieses Video aus dem American Museum of Natural History gibt eine Einführung i
 
 </figcaption>
 
-[^1]: Zu den mikropaläontologischen Sammlungen des Museums für Naturkunde Berlin: https://https://www.museumfuernaturkunde.berlin/de/wissenschaft/mikropalaeontologiesammlungen (03.01.2022).
+[^1]: Zu den mikropaläontologischen Sammlungen des Museums für Naturkunde Berlin: https://www.museumfuernaturkunde.berlin/de/wissenschaft/mikropalaeontologiesammlungen (03.01.2022).
