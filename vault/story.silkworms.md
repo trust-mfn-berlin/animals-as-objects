@@ -7,7 +7,7 @@ short_desc_de: Spuren von Bäumen und Tieren in Berlin
 date_end: 2021-08-26T14:37:08.305Z
 published: false
 title: Silkworms
-updated: 1642362714993
+updated: 1642363504722
 id: GDcruELihUsAdF7btC6KD
 doi: 64y2-m311/47
 translators:
@@ -165,39 +165,39 @@ Completely unbeknownst to the city administration and the tree register, in cont
 
 [^2]: Personal email, 05.05.2021.
 
-[^3]: “Albrecht Daniel Thaer-Institut für Agrar- und Gartenbauwissenschaften”. _HU Berlin_, no date, https://www.agrar.hu-berlin.de/de/institut/profil/geschichte/standardseite (24.08.2021); see also Klemm, Volker. _Von der Königlichen Akademie des Landbaus in Möglin zur Landwirtschaftlich-Gärtnerischen Fakultät der Humboldt-Universität zu Berlin_. Berlin: Humboldt Universität zu Berlin, 1998.
+[^3]: “Albrecht Daniel Thaer-Institut für Agrar- und Gartenbauwissenschaften”. No date, https://www.agrar.hu-berlin.de/de/institut/profil/geschichte/standardseite (24.08.2021); see also Volker Klemm. _Von der Königlichen Akademie des Landbaus in Möglin zur Landwirtschaftlich-Gärtnerischen Fakultät der Humboldt-Universität zu Berlin_. Berlin: Humboldt Universität zu Berlin, 1998.
 
 [^4]: The silk farming building erected in 1781 now houses a Sparkasse bank branch.
 
 [^5]: Copies of the chronicles are preserved today at the Thaer memorial in Möglin.
 
-[^6]: The Reichenower trees of 1754 came from the “Friedland orchard”. On Kunersdorf and Friedland, see Walter, Friedrich. _Verzeichniss der auf den Friedländischen Gütern cultivirten Gewächse: Nebst einem Beitrag zur Flora der Mittelmark; Alphabetisch geordnet so weit sie bestimmt sind_, 3rd ed. 1815: 35.
+[^6]: The Reichenower trees of 1754 came from the “Friedland orchard”. On Kunersdorf and Friedland, see Friedrich Walter. _Verzeichniss der auf den Friedländischen Gütern cultivirten Gewächse: Nebst einem Beitrag zur Flora der Mittelmark; Alphabetisch geordnet so weit sie bestimmt sind_. 3rd ed. 1815: 35.
 
-[^7]: Schmidt, Rudolf. _Die Herrschaft Friedland: Nachrichten zur Geschichte von Alt- und Neufriedland, Gottesgabe, Carlsdorf, Kleinbarnim, Grube, Sietzing, Gersdorf, Batzlow, Ringenwalde, Burgwall, Metzdorf, Horst, Wubrigsberg_, Kreisausschuss des Kreises Oberbarnim (ed.). Bad Freienwalde/Oder, 1928: 206.
+[^7]: Rudolf Schmidt. _Die Herrschaft Friedland: Nachrichten zur Geschichte von Alt- und Neufriedland, Gottesgabe, Carlsdorf, Kleinbarnim, Grube, Sietzing, Gersdorf, Batzlow, Ringenwalde, Burgwall, Metzdorf, Horst, Wubrigsberg_. Kreisausschuss des Kreises Oberbarnim (ed.). Bad Freienwalde/Oder, 1928: 206.
 
-[^8]: Schmidt, Rudolf. _6 Höhendörfer im Kreise Oberbarnim: Zur Heimatgeschichte von Trampe, Klobbicke, Tuchen, Heckelberg, Freudenberg, Beiersdorf_, Kreisausschuss des Kreises Oberbarnim (ed.). Bad Freienwalde/Oder, 1926: 137.
+[^8]: Rudolf Schmidt. _6 Höhendörfer im Kreise Oberbarnim: Zur Heimatgeschichte von Trampe, Klobbicke, Tuchen, Heckelberg, Freudenberg, Beiersdorf_. Kreisausschuss des Kreises Oberbarnim (ed.). Bad Freienwalde/Oder, 1926: 137.
 
-[^9]: Schmidt, Rudolf. _Die Herrschaft Eckardstein: I. Beiträge zur Entwicklungsgeschichte von Prötzel, Prädikow, Grunow, Reichenow, Sternebeck, Harnecop, Bliesdorf und Vevais_, Kreisausschuss des Kreises Oberbarnim (ed.). Bad Freienwalde/Oder, 1926: 68.
+[^9]: Rudolf Schmidt. _Die Herrschaft Eckardstein: I. Beiträge zur Entwicklungsgeschichte von Prötzel, Prädikow, Grunow, Reichenow, Sternebeck, Harnecop, Bliesdorf und Vevais_. Kreisausschuss des Kreises Oberbarnim (ed.). Bad Freienwalde/Oder, 1926: 68.
 
 [^10]: _Neue Bilder Gallerie für junge Söhne und Töchter zur angenehmen und nützlichen Selbstbeschäftigung aus dem Reiche der Natur, Kunst, Sitten, und des gemeinen Lebens_. Berlin: Oehmigcke, 1794: plate XI.
 
 [^11]: Although women played a major role in this cultivation and observation, they were rarely mentioned in the writings published on silk culture and were only listed as authors in exceptional cases.
 
-[^12]: Merian, Maria Sibylla. _Der Raupen wunderbare Verwandelung und sonderbare Blumen-nahrung_. Nuremberg/Frankfurt: Bey Johann Andreas Graffen, 1679.
+[^12]: Maria Sibylla Merian. _Der Raupen wunderbare Verwandelung und sonderbare Blumen-nahrung_. Nuremberg/Frankfurt: Bey Johann Andreas Graffen, 1679.
 
-[^13]: Cf. Kutschera, Ulrich. “Pionierin der Entwicklungsbiologie und Ökologie: Maria Sibylla Merian (1647-1717)”. _Biologie unserer Zeit_ 1, no. 47 (2017): 28-36. https://doi.org/10.1002/biuz.201710610.
+[^13]: Cf. Ulrich Kutschera. “Pionierin der Entwicklungsbiologie und Ökologie: Maria Sibylla Merian (1647-1717)”. _Biologie unserer Zeit_ 1, no. 47 (2017): 28-36. https://doi.org/10.1002/biuz.201710610.
 
-[^14]: Cf. Töpfer, Georg. “Metamorphose”. In _Historisches Wörterbuch der Biologie: Geschichte und Theorie der Biologischen Grundbegriffe_, vol. 3. Stuttgart: Metzler, 2011: 573-591.
+[^14]: Cf. Georg Töpfer. “Metamorphose”. In _Historisches Wörterbuch der Biologie: Geschichte und Theorie der Biologischen Grundbegriffe_, vol. 3. Stuttgart: Metzler, 2011: 573-591.
 
-[^15]: Cf. Takeda, Junko Thérèse. “Global Insects: Silkworms, Sericulture, and Statecraft in Napoleonic France and Tokugawa Japan”._French History_ 28, no. 2 (2014): 207-225. https://doi.org/10.1093/fh/cru044.
+[^15]: Cf. Junko Thérèse Takeda. “Global Insects: Silkworms, Sericulture, and Statecraft in Napoleonic France and Tokugawa Japan”._French History_ 28, no. 2 (2014): 207-225. https://doi.org/10.1093/fh/cru044.
 
-[^16]: Cf. Berlin Senate Department for the Environment, Transport, and Climate Protection. “Maulbeerbäume in Berlin”. _Stadtgrün_, no date, https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/index.shtml (28.07.2021).
+[^16]: Cf. Berlin Senate Department for the Environment, Transport, and Climate Protection. “Maulbeerbäume in Berlin”. No date, https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/index.shtml (28.07.2021).
 
-[^17]: See for example Wischermann, Clemens. “Der Ort des Tieres in der Stadt”. _Informationen zur modernen Stadtgeschichte_ 2 (2009): 5-12.
+[^17]: See for example Clemens Wischermann. “Der Ort des Tieres in der Stadt”. _Informationen zur modernen Stadtgeschichte_ 2 (2009): 5-12.
 
-[^18]: Berlin Senate Department for the Environment, Transport and Climate Protection. “Standorte alter Maulbeerbäume”. _Stadtgrün_, no date, https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/fenster_karte.shtml (20.8.2021).
+[^18]: Berlin Senate Department for the Environment, Transport and Climate Protection. “Standorte alter Maulbeerbäume”. No date, https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/fenster_karte.shtml (20.8.2021).
 
-[^19]: Berlin Senate Department for Urban Development and Housing. _Geoportal Berlin_, no date, https://www.stadtentwicklung.berlin.de/geoinformation/fis-broker/ (24.08.2021).
+[^19]: Berlin Senate Department for Urban Development and Housing. No date, https://www.stadtentwicklung.berlin.de/geoinformation/fis-broker/ (24.08.2021).
 
 [^20]: The collapsible functional model is now part of the Zoological Teaching Collection at the Humboldt University of Berlin; cf. “Modell, Raupe, Seidenspinner”. Humboldt University database entry, no date, https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (24.08.2021).
 
@@ -330,19 +330,19 @@ Gänzlich unbekannt dagegen ist der Stadtverwaltung und dem Baumkataster jener w
 
 [^2]: Persönliche E-Mail, 05.05.2021.
 
-[^3]: “Albrecht Daniel Thaer-Institut für Agrar- und Gartenbauwissenschaften”. _HU Berlin_, ohne Datum, https://www.agrar.hu-berlin.de/de/institut/profil/geschichte/standardseite (24.08.2021); vgl. auch Klemm, Volker. _Von der Königlichen Akademie des Landbaus in Möglin zur Landwirtschaftlich-Gärtnerischen Fakultät der Humboldt-Universität zu Berlin_. Berlin: Humboldt Universität zu Berlin, 1998.
+[^3]: “Albrecht Daniel Thaer-Institut für Agrar- und Gartenbauwissenschaften”. Ohne Datum, https://www.agrar.hu-berlin.de/de/institut/profil/geschichte/standardseite (24.08.2021); vgl. auch Volker Klemm. _Von der Königlichen Akademie des Landbaus in Möglin zur Landwirtschaftlich-Gärtnerischen Fakultät der Humboldt-Universität zu Berlin_. Berlin: Humboldt Universität zu Berlin, 1998.
 
 [^4]: In dem ab 1781 errichteten Seidenbauhaus ist heute eine Sparkassenfiliale untergebracht.
 
 [^5]: Kopien der Chroniken werden in der heutigen Thaer-Gedenkstätte in Möglin aufbewahrt.
 
-[^6]: Die Reichenower Bäume stammten 1754 von der “Friedländer Plantage”. Zu Kunersdorf und Friedland vgl. Walter, Friedrich. _Verzeichniss der auf den Friedländischen Gütern cultivirten Gewächse: Nebst einem Beitrag zur Flora der Mittelmark; Alphabetisch geordnet so weit sie bestimmt sind_, 3. Aufl. 1815: 35.
+[^6]: Die Reichenower Bäume stammten 1754 von der “Friedländer Plantage”. Zu Kunersdorf und Friedland vgl. Friedrich Walter. _Verzeichniss der auf den Friedländischen Gütern cultivirten Gewächse: Nebst einem Beitrag zur Flora der Mittelmark; Alphabetisch geordnet so weit sie bestimmt sind_, 3. Aufl. 1815: 35.
 
-[^7]: Schmidt, Rudolf. _Die Herrschaft Friedland: Nachrichten zur Geschichte von Alt- und Neufriedland, Gottesgabe, Carlsdorf, Kleinbarnim, Grube, Sietzing, Gersdorf, Batzlow, Ringenwalde, Burgwall, Metzdorf, Horst, Wubrigsberg_, Kreisausschuss des Kreises Oberbarnim (Hg.). Bad Freienwalde/Oder, 1928: 206.
+[^7]: Rudolf Schmidt. _Die Herrschaft Friedland: Nachrichten zur Geschichte von Alt- und Neufriedland, Gottesgabe, Carlsdorf, Kleinbarnim, Grube, Sietzing, Gersdorf, Batzlow, Ringenwalde, Burgwall, Metzdorf, Horst, Wubrigsberg_. Kreisausschuss des Kreises Oberbarnim (Hg.). Bad Freienwalde/Oder, 1928: 206.
 
-[^8]: Schmidt, Rudolf. _6 Höhendörfer im Kreise Oberbarnim: Zur Heimatgeschichte von Trampe, Klobbicke, Tuchen, Heckelberg, Freudenberg, Beiersdorf_, Kreisausschuss des Kreises Oberbarnim (Hg.). Bad Freienwalde/Oder, 1926: 137.
+[^8]: Rudolf Schmidt. _6 Höhendörfer im Kreise Oberbarnim: Zur Heimatgeschichte von Trampe, Klobbicke, Tuchen, Heckelberg, Freudenberg, Beiersdorf_. Kreisausschuss des Kreises Oberbarnim (Hg.). Bad Freienwalde/Oder, 1926: 137.
 
-[^9]: Schmidt, Rudolf. _Die Herrschaft Eckardstein: I. Beiträge zur Entwicklungsgeschichte von Prötzel, Prädikow, Grunow, Reichenow, Sternebeck, Harnecop, Bliesdorf und Vevais_, Kreisausschuss des Kreises Oberbarnim (Hg.). Bad Freienwalde/Oder, 1926: 68.
+[^9]: Rudolf Schmidt. _Die Herrschaft Eckardstein: I. Beiträge zur Entwicklungsgeschichte von Prötzel, Prädikow, Grunow, Reichenow, Sternebeck, Harnecop, Bliesdorf und Vevais_. Kreisausschuss des Kreises Oberbarnim (Hg.). Bad Freienwalde/Oder, 1926: 68.
 
 [^10]: _Neue Bilder Gallerie für junge Söhne und Töchter zur angenehmen und nützlichen Selbstbeschäftigung aus dem Reiche der Natur, Kunst, Sitten, und des gemeinen Lebens_. Berlin: Oehmigcke, 1794: Tafel XI.
 
@@ -350,18 +350,18 @@ Gänzlich unbekannt dagegen ist der Stadtverwaltung und dem Baumkataster jener w
 
 [^12]: Merian, Maria Sibylla. _Der Raupen wunderbare Verwandelung und sonderbare Blumen-nahrung_. Nürnberg/Frankfurt: Bey Johann Andreas Graffen, 1679.
 
-[^13]: Vgl. Kutschera, Ulrich. “Pionierin der Entwicklungsbiologie und Ökologie: Maria Sibylla Merian (1647-1717)”. _Biologie unserer Zeit_ 1, Nr. 47 (2017): 28-36. https://doi.org/10.1002/biuz.201710610.
+[^13]: Vgl. Ulrich Kutschera. “Pionierin der Entwicklungsbiologie und Ökologie: Maria Sibylla Merian (1647-1717)”. _Biologie unserer Zeit_ 1, Nr. 47 (2017): 28-36. https://doi.org/10.1002/biuz.201710610.
 
-[^14]: Vgl. Töpfer, Georg. “Metamorphose”. In _Historisches Wörterbuch der Biologie. Geschichte und Theorie der Biologischen Grundbegriffe_, Bd. 3. Stuttgart: Metzler, 2011: 573-591.
+[^14]: Vgl. Georg Töpfer. “Metamorphose”. In _Historisches Wörterbuch der Biologie. Geschichte und Theorie der Biologischen Grundbegriffe_. Bd. 3. Stuttgart: Metzler, 2011: 573-591.
 
-[^15]: Vgl. Takeda, Junko Thérèse. “Global Insects: Silkworms, Sericulture, and Statecraft in Napoleonic France and Tokugawa Japan”._French History_ 28, Nr. 2 (2014): 207-225. https://doi.org/10.1093/fh/cru044.
+[^15]: Vgl. Junko Thérèse Takeda. “Global Insects: Silkworms, Sericulture, and Statecraft in Napoleonic France and Tokugawa Japan”._French History_ 28, Nr. 2 (2014): 207-225. https://doi.org/10.1093/fh/cru044.
 
-[^16]: Vgl. Berliner Senatsverwaltung für Umwelt, Verkehr und Klimaschutz. “Maulbeerbäume in Berlin”. _Stadtgrün_, ohne Datum, https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/index.shtml (28.07.2021).
+[^16]: Vgl. Berliner Senatsverwaltung für Umwelt, Verkehr und Klimaschutz. “Maulbeerbäume in Berlin”. Ohne Datum, https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/index.shtml (28.07.2021).
 
-[^17]: Vgl. u.a. Wischermann, Clemens. “Der Ort des Tieres in der Stadt”. _Informationen zur modernen Stadtgeschichte_ 2 (2009): 5-12.
+[^17]: Vgl. u.a. Clemens Wischermann. “Der Ort des Tieres in der Stadt”. _Informationen zur modernen Stadtgeschichte_ 2 (2009): 5-12.
 
-[^18]: Berliner Senatsverwaltung für Umwelt, Verkehr und Klimaschutz. “Standorte alter Maulbeerbäume”. _Stadtgrün_, ohne Datum, https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/fenster_karte.shtml (20.8.2021).
+[^18]: Berliner Senatsverwaltung für Umwelt, Verkehr und Klimaschutz. “Standorte alter Maulbeerbäume”. Ohne Datum, https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/fenster_karte.shtml (20.8.2021).
 
-[^19]: Berliner Senatsverwaltung für Stadtentwicklung und Wohnen. _Geoportal Berlin_, ohne Datum, https://www.stadtentwicklung.berlin.de/geoinformation/fis-broker/ (24.08.2021).
+[^19]: Berliner Senatsverwaltung für Stadtentwicklung und Wohnen. Ohne Datum, https://www.stadtentwicklung.berlin.de/geoinformation/fis-broker/ (24.08.2021).
 
 [^20]: Das aufklappbare Funktionsmodell gehört heute zum Bestand der Zoologischen Lehrsammlung der Humboldt-Universität zu Berlin; vgl. “Modell, Raupe, Seidenspinner”. Datenbankeintrag der HU, ohne Datum, https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (24.08.2021).
