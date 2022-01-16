@@ -7,7 +7,7 @@ short_desc_de: Raubtier, Zootier, Kuscheltier? Politiken des Tierbildes
 date_end: 1994-12-24T10:34:00.000Z
 published: false
 title: Photos with Lion Cubs
-updated: 1642156499350
+updated: 1642371007953
 id: 4U5dFDf18mKRPdRnzu35p
 doi: 64y2-m311/67
 translators:
@@ -333,7 +333,7 @@ What connects them is what stays the same, a motif that can be traced through a 
 
 [^35]: Frädrich, Hans (ed.). _Wegweiser durch den Zoologischen Garten Berlin und sein Aquarium 1994_, ed. by Aktien-Verein des Zoologischen Gartens zu Berlin: Berlin: 1994.
 
-[^36]: “More Tigers in American Backyards than in the Wild”. WWF Stories 29.07.2014. https://www.worldwildlife.org/stories/more-tigers-in-american-backyards-than-in-the-wild. On the (frequently illegal) trade in “exotic pets”, see Collard, Rosemary-Claire. _Animal Traffic: Lively Capital in the Global Exotic Pet Trade_. Durham: Duke University Press, 2020.
+[^36]: “More Tigers in American Backyards than in the Wild”. _WWF Stories_, 29.07.2014. https://www.worldwildlife.org/stories/more-tigers-in-american-backyards-than-in-the-wild. On the (frequently illegal) trade in “exotic pets”, see Collard, Rosemary-Claire. _Animal Traffic: Lively Capital in the Global Exotic Pet Trade_. Durham: Duke University Press, 2020.
 
 [^37]: See, e.g., Daly, Natasha. “Wundervolle Fotos – unsichtbares Leid”. _National Geographic: (Das Tier und Wir)_ 6, no. 51 (2019): 40-73.
  
@@ -648,6 +648,6 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^35]: Frädrich, Hans (Hg.). _Wegweiser durch den Zoologischen Garten Berlin und sein Aquarium 1994_, hg. vom Aktien-Verein des Zoologischen Gartens zu Berlin. Berlin: 1994.
 
-[^36]: “More Tigers in American Backyards than in the Wild”. WWF Stories 29.07.2014. https://www.worldwildlife.org/stories/more-tigers-in-american-backyards-than-in-the-wild. Zum (häufig illegalen) Handel mit “exotischen Haustieren” vgl. Collard, Rosemary-Claire. _Animal Traffic: Lively Capital in the Global Exotic Pet Trade_. Durham: Duke University Press, 2020.
+[^36]: “More Tigers in American Backyards than in the Wild”. _WWF Stories_, 29.07.2014. https://www.worldwildlife.org/stories/more-tigers-in-american-backyards-than-in-the-wild. Zum (häufig illegalen) Handel mit “exotischen Haustieren” vgl. Collard, Rosemary-Claire. _Animal Traffic: Lively Capital in the Global Exotic Pet Trade_. Durham: Duke University Press, 2020.
 
 [^37]: Vgl. etwa Daly, Natasha. “Wundervolle Fotos – unsichtbares Leid”. _National Geographic (Das Tier und Wir)_ 6, Nr. 51 (2019): 40-73.

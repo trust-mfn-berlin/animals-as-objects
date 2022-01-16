@@ -7,7 +7,7 @@ short_desc_de: Spuren von Bäumen und Tieren in Berlin
 date_end: 2021-08-26T14:37:08.305Z
 published: false
 title: Silkworms
-updated: 1642363504722
+updated: 1642371203085
 id: GDcruELihUsAdF7btC6KD
 doi: 64y2-m311/47
 translators:
@@ -165,7 +165,7 @@ Completely unbeknownst to the city administration and the tree register, in cont
 
 [^2]: Personal email, 05.05.2021.
 
-[^3]: “Albrecht Daniel Thaer-Institut für Agrar- und Gartenbauwissenschaften”. No date, https://www.agrar.hu-berlin.de/de/institut/profil/geschichte/standardseite (24.08.2021); see also Volker Klemm. _Von der Königlichen Akademie des Landbaus in Möglin zur Landwirtschaftlich-Gärtnerischen Fakultät der Humboldt-Universität zu Berlin_. Berlin: Humboldt Universität zu Berlin, 1998.
+[^3]: “Albrecht Daniel Thaer-Institut für Agrar- und Gartenbauwissenschaften”. _Humboldt-Uniceristät zu Berlin_, no date. https://www.agrar.hu-berlin.de/de/institut/profil/geschichte/standardseite (24.08.2021); see also Volker Klemm. _Von der Königlichen Akademie des Landbaus in Möglin zur Landwirtschaftlich-Gärtnerischen Fakultät der Humboldt-Universität zu Berlin_. Berlin: Humboldt Universität zu Berlin, 1998.
 
 [^4]: The silk farming building erected in 1781 now houses a Sparkasse bank branch.
 
@@ -191,15 +191,15 @@ Completely unbeknownst to the city administration and the tree register, in cont
 
 [^15]: Cf. Junko Thérèse Takeda. “Global Insects: Silkworms, Sericulture, and Statecraft in Napoleonic France and Tokugawa Japan”._French History_ 28, no. 2 (2014): 207-225. https://doi.org/10.1093/fh/cru044.
 
-[^16]: Cf. Berlin Senate Department for the Environment, Transport, and Climate Protection. “Maulbeerbäume in Berlin”. No date, https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/index.shtml (28.07.2021).
+[^16]: Cf. Berlin Senate Department for the Environment, Transport, and Climate Protection. “Maulbeerbäume in Berlin”. _Berlin.de_, no date. https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/index.shtml (28.07.2021).
 
 [^17]: See for example Clemens Wischermann. “Der Ort des Tieres in der Stadt”. _Informationen zur modernen Stadtgeschichte_ 2 (2009): 5-12.
 
-[^18]: Berlin Senate Department for the Environment, Transport and Climate Protection. “Standorte alter Maulbeerbäume”. No date, https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/fenster_karte.shtml (20.8.2021).
+[^18]: Berlin Senate Department for the Environment, Transport and Climate Protection. “Standorte alter Maulbeerbäume”. _Berlin.de_, no date. https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/fenster_karte.shtml (20.8.2021).
 
-[^19]: Berlin Senate Department for Urban Development and Housing. No date, https://www.stadtentwicklung.berlin.de/geoinformation/fis-broker/ (24.08.2021).
+[^19]: Berlin Senate Department for Urban Development and Housing. _Berlin.de_, no date. https://www.stadtentwicklung.berlin.de/geoinformation/fis-broker/ (24.08.2021).
 
-[^20]: The collapsible functional model is now part of the Zoological Teaching Collection at the Humboldt University of Berlin; cf. “Modell, Raupe, Seidenspinner”. Humboldt University database entry, no date, https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (24.08.2021).
+[^20]: The collapsible functional model is now part of the Zoological Teaching Collection at the Humboldt University of Berlin; cf. “Modell, Raupe, Seidenspinner”. Humboldt University database entry, no date. https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (24.08.2021).
 
 :::DE::: 
 
@@ -330,7 +330,7 @@ Gänzlich unbekannt dagegen ist der Stadtverwaltung und dem Baumkataster jener w
 
 [^2]: Persönliche E-Mail, 05.05.2021.
 
-[^3]: “Albrecht Daniel Thaer-Institut für Agrar- und Gartenbauwissenschaften”. Ohne Datum, https://www.agrar.hu-berlin.de/de/institut/profil/geschichte/standardseite (24.08.2021); vgl. auch Volker Klemm. _Von der Königlichen Akademie des Landbaus in Möglin zur Landwirtschaftlich-Gärtnerischen Fakultät der Humboldt-Universität zu Berlin_. Berlin: Humboldt Universität zu Berlin, 1998.
+[^3]: “Albrecht Daniel Thaer-Institut für Agrar- und Gartenbauwissenschaften”. _Humboldt-Universität zu Berlin_, ohne Datum. https://www.agrar.hu-berlin.de/de/institut/profil/geschichte/standardseite (24.08.2021); vgl. auch Volker Klemm. _Von der Königlichen Akademie des Landbaus in Möglin zur Landwirtschaftlich-Gärtnerischen Fakultät der Humboldt-Universität zu Berlin_. Berlin: Humboldt Universität zu Berlin, 1998.
 
 [^4]: In dem ab 1781 errichteten Seidenbauhaus ist heute eine Sparkassenfiliale untergebracht.
 
@@ -356,12 +356,12 @@ Gänzlich unbekannt dagegen ist der Stadtverwaltung und dem Baumkataster jener w
 
 [^15]: Vgl. Junko Thérèse Takeda. “Global Insects: Silkworms, Sericulture, and Statecraft in Napoleonic France and Tokugawa Japan”._French History_ 28, Nr. 2 (2014): 207-225. https://doi.org/10.1093/fh/cru044.
 
-[^16]: Vgl. Berliner Senatsverwaltung für Umwelt, Verkehr und Klimaschutz. “Maulbeerbäume in Berlin”. Ohne Datum, https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/index.shtml (28.07.2021).
+[^16]: Vgl. Berliner Senatsverwaltung für Umwelt, Verkehr und Klimaschutz. “Maulbeerbäume in Berlin”. _Berlin.de_, ohne Datum. https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/index.shtml (28.07.2021).
 
 [^17]: Vgl. u.a. Clemens Wischermann. “Der Ort des Tieres in der Stadt”. _Informationen zur modernen Stadtgeschichte_ 2 (2009): 5-12.
 
-[^18]: Berliner Senatsverwaltung für Umwelt, Verkehr und Klimaschutz. “Standorte alter Maulbeerbäume”. Ohne Datum, https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/fenster_karte.shtml (20.8.2021).
+[^18]: Berliner Senatsverwaltung für Umwelt, Verkehr und Klimaschutz. “Standorte alter Maulbeerbäume”. _Berlin.de_, ohne Datum. https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/fenster_karte.shtml (20.8.2021).
 
-[^19]: Berliner Senatsverwaltung für Stadtentwicklung und Wohnen. Ohne Datum, https://www.stadtentwicklung.berlin.de/geoinformation/fis-broker/ (24.08.2021).
+[^19]: Berliner Senatsverwaltung für Stadtentwicklung und Wohnen. _Berlin.de_, ohne Datum, https://www.stadtentwicklung.berlin.de/geoinformation/fis-broker/ (24.08.2021).
 
-[^20]: Das aufklappbare Funktionsmodell gehört heute zum Bestand der Zoologischen Lehrsammlung der Humboldt-Universität zu Berlin; vgl. “Modell, Raupe, Seidenspinner”. Datenbankeintrag der HU, ohne Datum, https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (24.08.2021).
+[^20]: Das aufklappbare Funktionsmodell gehört heute zum Bestand der Zoologischen Lehrsammlung der Humboldt-Universität zu Berlin; vgl. “Modell, Raupe, Seidenspinner”. Datenbankeintrag der HU, ohne Datum. https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (24.08.2021).
