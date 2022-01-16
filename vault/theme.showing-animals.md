@@ -260,7 +260,7 @@ At a time when visual media are making it possible to access the lives of wild a
 
 [^5]: Peter Dollinger and Verband Deutscher Zoodirektoren (eds.). _Gärten für Tiere – Erlebnisse für Menschen: Die Zoologischen Gärten des VDZ, 125 Jahre Verband Deutscher Zoodirektoren e.V._, 1st ed. Cologne: Bachem, 2012: 19.
 
-[^6]: Heini Hediger. “Bedeutung und Aufgaben der Zoologischen Gärten”._Vierteljahresschrift der Naturforschenden Gesellschaft in Zürich_ 18 (1973): 319-328, 327.
+[^6]: Heini Hediger. “Bedeutung und Aufgaben der Zoologischen Gärten”. _Vierteljahresschrift der Naturforschenden Gesellschaft in Zürich_ 18 (1973): 319-328, 327.
 
 [^7]: Christina Wessely. _Künstliche Tiere: Zoologische Gärten und urbane Moderne_. Berlin: Kulturverlag Kadmos, 2008: 38.
 
@@ -543,7 +543,7 @@ In einer Zeit, in der visuelle Medien den Zugang zum Leben wildlebender Tiere in
 
 [^5]: Peter Dollinger und Verband Deutscher Zoodirektoren (Hg.). _Gärten für Tiere – Erlebnisse für Menschen: Die Zoologischen Gärten des VDZ, 125 Jahre Verband Deutscher Zoodirektoren e.V._, 1. Aufl. Köln: Bachem, 2012: 19.
 
-[^6]: Heini Hediger. “Bedeutung und Aufgaben der Zoologischen Gärten”._Vierteljahresschrift der Naturforschenden Gesellschaft in Zürich_ 18 (1973): 319-328, 327.
+[^6]: Heini Hediger. “Bedeutung und Aufgaben der Zoologischen Gärten”. _Vierteljahresschrift der Naturforschenden Gesellschaft in Zürich_ 18 (1973): 319-328, 327.
 
 [^7]: Christina Wessely. _Künstliche Tiere: Zoologische Gärten und urbane Moderne_. Berlin: Kulturverlag Kadmos, 2008: 38.
 
