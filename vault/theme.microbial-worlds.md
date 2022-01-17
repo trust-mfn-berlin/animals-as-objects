@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Microbial Worlds
 title_de: "Mikrobielle Welten "
 created: 1618930984846
-updated: 1642421611231
+updated: 1642455820406
 id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
 author: Filippo Bertoni
 doi: 64y2-m311/34
@@ -117,7 +117,7 @@ _”A Drop of Ocean” shows the complex micro-level physicochemical interaction
 
 </figure>
 
-[^1]: From “Amateur Microscopists”. _National Museum Scotland_, no date. https://www.nms.ac.uk/explore-our-collections/stories/science-and-technology/microscopes/microscopes-chapters/amateur-microscopists/ (28.08.2021).
+[^1]: From “Amateur Microscopists”. _National Museums Scotland_, no date. https://www.nms.ac.uk/explore-our-collections/stories/science-and-technology/microscopes/microscopes-chapters/amateur-microscopists/ (28.08.2021).
 
 [^2]: To learn more about the history of biotechnology, see Robert Bud. _The Uses of Life: A History of Biotechnology_. Cambridge: Cambridge University Press, 1994.
 
@@ -240,7 +240,7 @@ _”A Drop of Ocean” zeigt die komplexen physikalisch-chemischen Interaktionen
 </figure>
 
 
-[^1]: Aus “Amateur Microscopists”. _National Museum Scotland_, ohne Datum. https://www.nms.ac.uk/explore-our-collections/stories/science-and-technology/microscopes/microscopes-chapters/amateur-microscopists/ (28.08.2021).
+[^1]: Aus “Amateur Microscopists”. _National Museums Scotland_, ohne Datum. https://www.nms.ac.uk/explore-our-collections/stories/science-and-technology/microscopes/microscopes-chapters/amateur-microscopists/ (28.08.2021).
 
 [^2]: Zur Geschichte der Biotechnologie, siehe: Robert Bud. _The Uses of Life: A History of Biotechnology_. Cambridge: Cambridge University Press, 1994.
 
