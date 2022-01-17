@@ -126,7 +126,7 @@ ul{
 }
 
 .mob-search-outer{
-  position: absolute;
+  position: fixed;
   top:@space-s;
   left: calc(44px + @space-s*2);
   right: @space-s;
