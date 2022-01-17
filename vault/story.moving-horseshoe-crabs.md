@@ -7,7 +7,7 @@ short_desc_de: Verbreitungswege von Tieren und Wissen
 date_end: 2020-01-01T21:08:57.624Z
 published: false
 title: Moving Horseshoe Crabs
-updated: 1642416532259
+updated: 1642417263885
 id: WPnxMDphZ5DDXrhkIdvBS
 doi: 64y2-m311/50
 translators:
@@ -67,37 +67,37 @@ So far, however, there has been no indication that horseshoe crabs have become e
 
 [^1]: The range of the horseshoe crab _Limulus polyphemus_ (which is not a real crab and is now zoologically considered to be an [[arachnid|story.the-worlds-we-make]] is considered to be mainly the North American Atlantic coast, ranging from southern Canada to Maine in the northern US, down to the Yucatan.
 
-[^2]: Shortly afterwards, it was possible to purchase aquarium animals through a broadly ramified and increasingly institutionalised aquaristic network, which encompassed traders and importers, fishermen and private enthusiasts, zoological gardens and research stations, public aquariums and breeders. Cf. Vennen, Mareike. _Das Aquarium: Praktiken, Techniken und Medien der Wissensproduktion (1840–1910)_. Göttingen: Wallstein, 2018; Reiß, Christian. _Der Axolotl: Ein Labortier im Heimaquarium_. Göttingen: Wallstein, 2019.
+[^2]: Shortly afterwards, it was possible to purchase aquarium animals through a broadly ramified and increasingly institutionalised aquaristic network, which encompassed traders and importers, fishermen and private enthusiasts, zoological gardens and research stations, public aquariums and breeders. Cf. Mareike Vennen. _Das Aquarium: Praktiken, Techniken und Medien der Wissensproduktion (1840-1910)_. Göttingen: Wallstein, 2018; Christian Reiß. _Der Axolotl: Ein Labortier im Heimaquarium_. Göttingen: Wallstein, 2019.
 
-[^3]: Nitsche, Paul. _Der Import von lebenden Fischen: Rathschläge und Winke für die Einführung von Reptilien, Amphibien, Seewasserthieren und Wasserpflanzen für Aquarien- und Terrarienzwecke_. Berlin: self-published, 1901: 112.
+[^3]: Paul Nitsche. _Der Import von lebenden Fischen: Rathschläge und Winke für die Einführung von Reptilien, Amphibien, Seewasserthieren und Wasserpflanzen für Aquarien- und Terrarienzwecke_. Berlin: self-published, 1901: 112.
 
-[^4]: Lloyd, William Alford. “On the Occurrence of Limulus Polyphemus off the Coast of Holland, and on the Transmission of Aquarium Animals”. _The Zoologist_ 9 (1874): 3845–3855, 3850.
+[^4]: William Alford Lloyd. “On the Occurrence of Limulus Polyphemus off the Coast of Holland, and on the Transmission of Aquarium Animals”. _The Zoologist_ 9 (1874): 3845-3855, 3850.
 
-[^5]: Cf. Lloyd, 1874; Brehm, Alfred. _Führer durch das Berliner Aquarium: Eine kurze Beschreibung der in ihre zur Schaugestellten Thiere_. Berlin: Verlag des Berliner Aquariums, 1870: 83–84.
+[^5]: Cf. Lloyd, 1874; Alfred Brehm. _Führer durch das Berliner Aquarium: Eine kurze Beschreibung der in ihre zur Schaugestellten Thiere_. Berlin: Verlag des Berliner Aquariums, 1870: 83-84.
 
 [^6]: Lloyd, 1874: 3845.
 
 [^7]: Ibid.: 3846. 
 
-[^8]: In summer 1873, fishermen caught four or five live specimens eleven kilometres off the Dutch island of Terschelling, which, according to Wolff (1977), were probably attributable to the Helgoland ‘population’, which is what Lloyd also believed at the time. Cf. Lloyd, William Alford. “On the Occurrence of Limulus Polyphemus off the Coast of Holland, and on the Transmission of Aquarium Animals”. _The Zoologist: A Monthly Journal of Natural History_ 9 (1874): 3845–3855, 3846–47; Wolff, T. “The Horseshoe Crab _Limulus polyphemus_ in North European Waters”. _Videnskabelige Meddelelser fra Dansk Naturhistorisk Forening_ 140 (1977): 39–52.
+[^8]: In summer 1873, fishermen caught four or five live specimens eleven kilometres off the Dutch island of Terschelling, which, according to Wolff (1977), were probably attributable to the Helgoland ‘population’, which is what Lloyd also believed at the time. Cf. Lloyd, 3846-47; T. Wolff. “The Horseshoe Crab _Limulus polyphemus_ in North European Waters”. _Videnskabelige Meddelelser fra Dansk Naturhistorisk Forening_ 140 (1977): 39-52.
 
-[^9]: Southwell, Thomas. “King Crab off the Dutch Coast”. _The Zoologist: A Monthly Journal of Natural History_ 8 (1873): 3740. 
+[^9]: Thomas Southwell. “King Crab off the Dutch Coast”. _The Zoologist: A Monthly Journal of Natural History_ 8 (1873): 3740. 
 
 [^10]: _Land and Water_ 26.04.1873.
 
-[^11]: Quoted in Huth, Ernst. “Der Pfeilschwanz (_Limulus Polyphemus_) in der Nordsee”. _Monatliche Mittheilungen des Naturwissenschaftlichen Vereins des Regierungsbezirks Frankfurt_ 4, no. 19 (1886/87): 20.
+[^11]: Quoted in Ernst Huth. “Der Pfeilschwanz (_Limulus Polyphemus_) in der Nordsee”. _Monatliche Mittheilungen des Naturwissenschaftlichen Vereins des Regierungsbezirks Frankfurt_ 4, no. 19 (1886/87): 20.
 
-[^12]: See, e.g., Geiter, Olaf, Susanne Homma, and Ragnar Kinzelbach. _Bestandsaufnahme und Bewertung von Neozoen in Deutschland: Untersuchung der Wirkung von Biologie und Genetik ausgewählter Neozoen auf Ökosysteme und Vergleich mit den potenziellen Effekten gentechnisch veränderter Organismen._ Berlin/Rostock: German Environment Agency, 2001.
+[^12]: See, e.g., Olaf Geiter, Susanne Homma, and Ragnar Kinzelbach. _Bestandsaufnahme und Bewertung von Neozoen in Deutschland: Untersuchung der Wirkung von Biologie und Genetik ausgewählter Neozoen auf Ökosysteme und Vergleich mit den potenziellen Effekten gentechnisch veränderter Organismen._ Berlin/Rostock: German Environment Agency, 2001.
 
-[^13]: An animal that a fisherman caught live near the East Frisian island of Spiekeroog in July 1972 was even kept for four years in the Wilhelmshaven Aquarium until it died in October 1972. Wolff, 1977. See, moreover, Gollasch, Stephan. “A Horseshoe Crab _Limulus polyphemus_ Found on Sylt Germany in 1970: Een degenkrab Limulus polyphemus gevonden op Sylt Duitsland in 1970”. _Zeepaard_ 67 (2007): 79–81; Gollasch, Stephan. “An Additional Record of the Horseshoe Crab _Limulus polyphemus_ in the North Sea: Aliens”. _Journal of the Invasive Species Specialist Group of the IUCN Species Survival Commission_ 22 (2005): 11.
+[^13]: An animal that a fisherman caught live near the East Frisian island of Spiekeroog in July 1972 was even kept for four years in the Wilhelmshaven Aquarium until it died in October 1972. Wolff, 1977. See, moreover, Stephan Gollasch. “A Horseshoe Crab _Limulus polyphemus_ Found on Sylt Germany in 1970: Een degenkrab Limulus polyphemus gevonden op Sylt Duitsland in 1970”. _Zeepaard_ 67 (2007): 79.81; Stephan Gollasch. “An Additional Record of the Horseshoe Crab _Limulus polyphemus_ in the North Sea: Aliens”. _Journal of the Invasive Species Specialist Group of the IUCN Species Survival Commission_ 22 (2005): 11.
 
-[^14]: Cf. Gollasch, Stephan, and Stefan Nehring. “National Checklist for Aquatic Alien Species in Germany”. _Aquatic Invasions_ 1, no. 4 (2006): 245–269; Nehring, Stefan, and Heiko Leuchs. “Neozoa (Makrozoobenthos) an der deutschen Nordseeküste: Eine Übersicht”. _Bericht Bundesanstalt für Gewässerkunde Koblenz_. BfG-1200 1999: 1–131. 
+[^14]: Cf. Stephan Gollasch and Stefan Nehring. “National Checklist for Aquatic Alien Species in Germany”. _Aquatic Invasions_ 1, no. 4 (2006): 245-269; Stefan Nehring and Heiko Leuchs. “Neozoa (Makrozoobenthos) an der deutschen Nordseeküste: Eine Übersicht”. _Bericht Bundesanstalt für Gewässerkunde Koblenz_. BfG-1200 1999: 1-131. 
 
-[^15]: Cf. Gollasch, Stephan, and Stefan Nehring. “National Checklist for Aquatic Alien Species in Germany”. _Aquatic Invasions_ 1, no. 4 (2006): 245–269; Landesamt für Landwirtschaft, Umwelt und ländliche Räume des Landes Schleswig-Holstein (LLUR) (ed.). _Neobiota in deutschen Küstengewässern: Eingeschleppte und kryptogene Tier- und Pflanzenarten an der deutschen Nord- und Ostseeküste_. Flintbeck: Alfred-Wegener-Institut – Helmholtz Zentrum für Polar- und Meeresforschung, 2014: 108.
+[^15]: Cf. Gollasch and Stefan, 2006; Landesamt für Landwirtschaft, Umwelt und ländliche Räume des Landes Schleswig-Holstein (LLUR) (ed.). _Neobiota in deutschen Küstengewässern: Eingeschleppte und kryptogene Tier- und Pflanzenarten an der deutschen Nord- und Ostseeküste_. Flintbeck: Alfred-Wegener-Institut – Helmholtz Zentrum für Polar- und Meeresforschung, 2014: 108.
 
-[^16]: Jackson, Nancy L., David R. Smith, and Karl F. Nordstrom. “Physical and Chemical Changes in the Foreshore of an Estuarine Beach: Implications for Viability and Development of Horseshoe Crab (Limulus polyphemus) Eggs”. _Marine Ecology Progress Series_ 355 (2008): 209–218. 10.3354/meps07211.
+[^16]: Nancy L. Jackson, David R. Smith, and Karl F. Nordstrom. “Physical and Chemical Changes in the Foreshore of an Estuarine Beach: Implications for Viability and Development of Horseshoe Crab (Limulus polyphemus) Eggs”. _Marine Ecology Progress Series_ 355 (2008): 209-218. https://doi.org/10.3354/meps07211.
 
-[^17]: Loveland, Robert E., and Mark Botton. “Sea Level Rise in Delaware Bay, USA: Adaptations of Spawning Horseshoe Crabs (Limulus polyphemus) to the Glacial Past, and the Rapidly Changing Shoreline of the Bay”. In _Changing Global Perspectives on Horseshoe Crab Biology, Conservation and Management_, Ruth H. Carmichael et al. (eds.). New York: Springer, 2015: 41–64.
+[^17]:  Robert E. Loveland and Mark Botton. “Sea Level Rise in Delaware Bay, USA: Adaptations of Spawning Horseshoe Crabs (Limulus polyphemus) to the Glacial Past, and the Rapidly Changing Shoreline of the Bay”. In _Changing Global Perspectives on Horseshoe Crab Biology, Conservation and Management_. Ruth H. Carmichael et al. (eds.). New York: Springer, 2015: 41-64.
 
  
 :::DE:::
@@ -140,34 +140,34 @@ Bislang gibt es indes keine Hinweise darauf, dass sich Pfeilschwanzkrebse im deu
 
 [^1]: Das Ursprungsgebiet des Pfeilschwanzkrebses _Limulus polyphemus_ (der kein echter Krebs ist, sondern aus zoologischer Sicht heute zu den [[Spinnentieren|story.the-worlds-we-make]] gezählt wird), ist die nordamerikanische Atlantikküste. Das Hauptverbreitungsgebiet reicht vom südlichen Kanada über Maine im Norden der USA bis nach Yucatan.
 
-[^2]: Aquarientiere konnte man schon nach kurzer Zeit über ein weit verzweigtes und zunehmend institutionalisiertes Netzwerk der Aquaristik beziehen, das Händler und Importeure, Fischer und private Liebhaber:innen, zoologische Gärten und Forschungsinstitutionen, öffentliche Schauaquarien und Züchtereien umfasste. Vgl. Vennen, Mareike. _Das Aquarium: Praktiken, Techniken und Medien der Wissensproduktion (1840–1910)_. Göttingen: Wallstein, 2018; Reiß, Christian. _Der Axolotl: Ein Labortier im Heimaquarium_. Göttingen: Wallstein, 2019.
+[^2]: Aquarientiere konnte man schon nach kurzer Zeit über ein weit verzweigtes und zunehmend institutionalisiertes Netzwerk der Aquaristik beziehen, das Händler und Importeure, Fischer und private Liebhaber:innen, zoologische Gärten und Forschungsinstitutionen, öffentliche Schauaquarien und Züchtereien umfasste; vgl. Mareike Vennen. _Das Aquarium: Praktiken, Techniken und Medien der Wissensproduktion (1840-1910)_. Göttingen: Wallstein, 2018; Christian Reiß. _Der Axolotl: Ein Labortier im Heimaquarium_. Göttingen: Wallstein, 2019.
 
-[^3]: Nitsche, Paul. _Der Import von lebenden Fischen: Rathschläge und Winke für die Einführung von Reptilien, Amphibien, Seewasserthieren und Wasserpflanzen für Aquarien- und Terrarienzwecke_. Berlin: Selbstverlag des Verfassers, 1901: 112.
+[^3]: Paul Nitsche. _Der Import von lebenden Fischen: Rathschläge und Winke für die Einführung von Reptilien, Amphibien, Seewasserthieren und Wasserpflanzen für Aquarien- und Terrarienzwecke_. Berlin: Selbstverlag des Verfassers, 1901: 112.
 
-[^4]: Lloyd, William Alford. “On the Occurrence of Limulus Polyphemus off the Coast of Holland, and on the Transmission of Aquarium Animals”. _The Zoologist_ 9 (1874): 3845–3855, 3850.
+[^4]: William Alford Lloyd. “On the Occurrence of Limulus Polyphemus off the Coast of Holland, and on the Transmission of Aquarium Animals”. _The Zoologist: A Monthly Journal of Natural History_ 9 (1874): 3845-3855, 3850.
 
-[^5]: Vgl. Lloyd, 1874; Brehm, Alfred. _Führer durch das Berliner Aquarium: Eine kurze Beschreibung der in ihre zur Schaugestellten Thiere_. Berlin: Verlag des Berliner Aquariums, 1870: 83–84.
+[^5]: Vgl. Lloyd, 1874; Alfred Brehm. _Führer durch das Berliner Aquarium: Eine kurze Beschreibung der in ihre zur Schaugestellten Thiere_. Berlin: Verlag des Berliner Aquariums, 1870: 83-84.
 
 [^6]: Lloyd, 1874: 3845.
 
 [^7]: Ebd.: 3846. 
 
-[^8]: Im Sommer 1873 wurden vier oder fünf lebende Exemplare elf Kilometer seewärts der niederländischen Insel Terschelling von Fischern gefangen, die sich nach Wolff (1977) möglicherweise auf die Helgoländer ‘Population’ zurückführen lassen, wovon auch Lloyd damals ausging. Vgl. Lloyd, William Alford. “On the Occurrence of Limulus Polyphemus off the Coast of Holland, and on the Transmission of Aquarium Animals”. _The Zoologist. A Monthly Journal of Natural History_ 9 (1874): 3845–3855, 3846–3847; Wolff, T. “The Horseshoe Crab _Limulus polyphemus_ in North European Waters”. _Videnskabelige Meddelelser fra Dansk Naturhistorisk Forening_ 140 (1977): 39–52.
+[^8]: Im Sommer 1873 wurden vier oder fünf lebende Exemplare elf Kilometer seewärts der niederländischen Insel Terschelling von Fischern gefangen, die sich nach Wolff (1977) möglicherweise auf die Helgoländer ‘Population’ zurückführen lassen, wovon auch Lloyd damals ausging. Vgl. Lloyd, 1874: 3846–47; T. Wolff. “The Horseshoe Crab _Limulus polyphemus_ in North European Waters”. _Videnskabelige Meddelelser fra Dansk Naturhistorisk Forening_ 140 (1977): 39-52.
 
-[^9]: Southwell, Thomas. “King Crab off the Dutch Coast”. _The Zoologist. A Monthly Journal of Natural History_ 8 (1873): 3740. 
+[^9]: Thomas Southwell. “King Crab off the Dutch Coast”. _The Zoologist. A Monthly Journal of Natural History_ 8 (1873): 3740. 
 
 [^10]: _Land and Water_ 26.04.1873.
 
-[^11]: Zit. nach Huth, Ernst. “Der Pfeilschwanz (_Limulus Polyphemus_) in der Nordsee”. _Monatliche Mittheilungen des Naturwissenschaftlichen Vereins des Regierungsbezirks Frankfurt_ 4, Nr. 19 (1886/87): 20.
+[^11]: Zit. nach Ernst Huth. “Der Pfeilschwanz (_Limulus Polyphemus_) in der Nordsee”. _Monatliche Mittheilungen des Naturwissenschaftlichen Vereins des Regierungsbezirks Frankfurt_ 4, Nr. 19 (1886/87): 20.
 
-[^12]: Vgl. beispielsweise Geiter, Olaf, Susanne Homma und Ragnar Kinzelbach. _Bestandsaufnahme und Bewertung von Neozoen in Deutschland: Untersuchung der Wirkung von Biologie und Genetik ausgewählter Neozoen auf Ökosysteme und Vergleich mit den potenziellen Effekten gentechnisch veränderter Organismen._ Berlin/Rostock: Umweltbundesamt, 2001.
+[^12]: Vgl. beispielsweise Olaf Geiter, Susanne Homma und Ragnar Kinzelbach. _Bestandsaufnahme und Bewertung von Neozoen in Deutschland: Untersuchung der Wirkung von Biologie und Genetik ausgewählter Neozoen auf Ökosysteme und Vergleich mit den potenziellen Effekten gentechnisch veränderter Organismen._ Berlin/Rostock: Umweltbundesamt, 2001.
 
-[^13]: Das Tier, das ein Fischer im Juli 1972 in der Nähe der ostfriesischen Insel Spiekeroog lebend gefangen hatte, wurde sogar über vier Jahre lang im Wilhelmshavener Aquarium gehalten, bis es im Oktober 1976 verstarb. Wolff, 1977; vgl. weiterhin Gollasch, Stephan. “A Horseshoe Crab _Limulus polyphemus_ Found on Sylt Germany in 1970. Een degenkrab Limulus polyphemus gevonden op Sylt Duitsland in 1970”. _Zeepaard_ 67 (2007): 79–81; Gollasch, Stephan. “An Additional Record of the Horseshoe Crab _Limulus polyphemus_ in the North Sea. Aliens”. _Journal of the Invasive Species Specialist Group of the IUCN Species Survival Commission_ 22 (2005): 11.
+[^13]: Das Tier, das ein Fischer im Juli 1972 in der Nähe der ostfriesischen Insel Spiekeroog lebend gefangen hatte, wurde sogar über vier Jahre lang im Wilhelmshavener Aquarium gehalten, bis es im Oktober 1976 verstarb. Wolff, 1977; vgl. weiterhin Stephan Gollasch. “A Horseshoe Crab _Limulus polyphemus_ Found on Sylt Germany in 1970. Een degenkrab Limulus polyphemus gevonden op Sylt Duitsland in 1970”. _Zeepaard_ 67 (2007): 79-81; Stephan Gollasch. “An Additional Record of the Horseshoe Crab _Limulus polyphemus_ in the North Sea. Aliens”. _Journal of the Invasive Species Specialist Group of the IUCN Species Survival Commission_ 22 (2005): 11.
 
-[^14]: Vgl. Gollasch, Stephan, und Stefan Nehring. “National Checklist for Aquatic Alien Species in Germany”. _Aquatic Invasions_ 1, Nr. 4 (2006): 245–269; Nehring, Stefan, und Heiko Leuchs. “Neozoa (Makrozoobenthos) an der deutschen Nordseeküste: Eine Übersicht”. _Bericht Bundesanstalt für Gewässerkunde Koblenz_. BfG-1200 1999: 1–131. 
+[^14]: Vgl. Stephan Gollasch und Stefan Nehring. “National Checklist for Aquatic Alien Species in Germany”. _Aquatic Invasions_ 1, Nr. 4 (2006): 245-269; Stefan Nehring und Heiko Leuchs. “Neozoa (Makrozoobenthos) an der deutschen Nordseeküste: Eine Übersicht”. _Bericht Bundesanstalt für Gewässerkunde Koblenz_. BfG-1200 1999: 1-131. 
 
-[^15]: Vgl. Gollasch, Stephan, und Stefan Nehring. “National Checklist for Aquatic Alien Species in Germany”. _Aquatic Invasions_ 1, Nr. 4 (2006): 245–269; Landesamt für Landwirtschaft, Umwelt und ländliche Räume des Landes Schleswig-Holstein (LLUR) (Hg.). _Neobiota in deutschen Küstengewässern: Eingeschleppte und kryptogene Tier- und Pflanzenarten an der deutschen Nord- und Ostseeküste_. Flintbeck: Alfred-Wegener-Institut – Helmholtz Zentrum für Polar- und Meeresforschung, 2014: 108.
+[^15]: Vgl. Gollasch und Nehring, 2006; Landesamt für Landwirtschaft, Umwelt und ländliche Räume des Landes Schleswig-Holstein (LLUR) (Hg.). _Neobiota in deutschen Küstengewässern: Eingeschleppte und kryptogene Tier- und Pflanzenarten an der deutschen Nord- und Ostseeküste_. Flintbeck: Alfred-Wegener-Institut – Helmholtz Zentrum für Polar- und Meeresforschung, 2014: 108.
 
-[^16]: Jackson, Nancy L., David R. Smith und Karl F. Nordstrom. “Physical and Chemical Changes in the Foreshore of an Estuarine Beach: Implications for Viability and Development of Horseshoe Crab (Limulus polyphemus) Eggs”. _Marine Ecology Progress Series_ 355 (2008): 209–218. 10.3354/meps07211.
+[^16]: Nancy L. Jackson, David R. Smith und Karl F. Nordstrom. “Physical and Chemical Changes in the Foreshore of an Estuarine Beach: Implications for Viability and Development of Horseshoe Crab (Limulus polyphemus) Eggs”. _Marine Ecology Progress Series_ 355 (2008): 209-218. https://doi.org/10.3354/meps07211.
 
-[^17]: Loveland, Robert E., und Mark Botton. “Sea Level Rise in Delaware Bay, USA: Adaptations of Spawning Horseshoe Crabs (Limulus polyphemus) to the Glacial Past, and the Rapidly Changing Shoreline of the Bay”. In _Changing Global Perspectives on Horseshoe Crab Biology, Conservation and Management_, Ruth H. Carmichael u.a. (Hg.). New York: Springer, 2015: 41–64.
+[^17]: Robert E. Loveland und Mark Botton. “Sea Level Rise in Delaware Bay, USA: Adaptations of Spawning Horseshoe Crabs (Limulus polyphemus) to the Glacial Past, and the Rapidly Changing Shoreline of the Bay”. In _Changing Global Perspectives on Horseshoe Crab Biology, Conservation and Management_. Ruth H. Carmichael u.a. (Hg.). New York: Springer, 2015: 41-64.
