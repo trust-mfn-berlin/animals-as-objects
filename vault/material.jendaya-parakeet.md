@@ -7,7 +7,7 @@ short_desc_de: Präparation eines Vogelbalgs im Museum für Naturkunde Berlin
 date_end: ""
 published: false
 title: Jendaya Parakeet
-updated: 1642440236113
+updated: 1642440928772
 id: qPXq6synKcymXGGXLIDvV
 doi: 64y2-m311/69
 translators:
@@ -46,7 +46,7 @@ In this case, it was decided to prepare a study skin and a partial skeleton.[^3]
 
 In ornithology, the process of crafting a study skin and making a partial skeleton are considered part of a single practice. Because important parts of the skeleton, such as the skull and fibula, are used for the skin, the curator must decide prior to preparation whether to make a complete skeleton or a study skin with a partial skeleton. In our case, the bird’s ribs had already been opened up to extract the organs during the first dissection. Also, parts of the chest muscles had been removed.
 
-After dissection, the bird was immediately deep frozen and tagged with the letters ‘MFN’ (Museum für Naturkunde Berlin). After its arrival at the museum and before its preparation, the bird was stored in the freezer of the museum’s preparation workshop. The first step in the bird’s scientific preparation took place in the dissection room of the Natural History Museum, where the animal’s body was first thawed in a solution of salt and Supralan. After that, [[scientific data|theme.recording-worlds]] was collected, including data about the animal’s [[dimensions| material.microscopic-media]], accession number, date of arrival, and chip number.[^5] The preparator entered this information into a [[data sheet|story.keeping-records-of-animals]].
+After dissection, the bird was immediately deep frozen and tagged with the letters ‘MFN’ (Museum für Naturkunde Berlin). After its arrival at the museum and before its preparation, the bird was stored in the freezer of the museum’s preparation workshop. The first step in the bird’s scientific preparation took place in the dissection room of the Natural History Museum, where the animal’s body was first thawed in a solution of salt and Supralan. After that, [[scientific data|theme.recording-worlds]] was collected, including data about the animal’s [[dimensions|material.microscopic-media]], accession number, date of arrival, and chip number.[^5] The preparator entered this information into a [[data sheet|story.keeping-records-of-animals]].
 
 <figure>
 
