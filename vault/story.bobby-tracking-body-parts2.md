@@ -140,7 +140,7 @@ _Bronze death mask of “Bobby” at Berlin Zoo and case with another death mask
 
 </figure>
 
-The well-documented case of “Bobby” thus allows us to understand not just how preparation technologies can be used to produce a taxidermy and therefore transform the animal into a “lifelike” exhibition object. It also illustrates the techniques – dissecting, measuring, documenting, preparing, and casting – that turn animals into scientific collection items and objects of scientific research and, not least, into objects of memory.
+The well-documented case of “Bobby” thus allows us to understand not just how preparation technologies can be used to produce a [[taxidermy|material.somsoplast-plastic-animal-models]] and therefore transform the animal into a “lifelike” exhibition object. It also illustrates the techniques – dissecting, measuring, documenting, preparing, and casting – that turn animals into scientific collection items and objects of scientific research and, not least, into objects of memory.
 
 The necropsy report that documents the dissection and examination of the gorilla’s body continues the body’s dismemberment, not by means of a scalpel, but in word and image.[^17] The 24 large-format photos that capture the necropsy procedure in images are also part of a documentation practice that understands and appropriates the animal as an object of knowledge.[^18]They evidence the body’s cuts that precede its progression toward scientific appropriation und utilisation.
 
@@ -319,7 +319,7 @@ _Totenmasken von “Bobby” in Bronze im Berliner Zoo und eine weitere Totenmas
 
 </figure>
 
-Am gut dokumentierten Fall von “Bobby” lässt sich also nicht nur nachvollziehen, wie durch Präparationstechniken eine Dermoplastik hergestellt und damit das Tier in ein “lebensechtes” Ausstellungsobjekt verwandelt wurde. Es wird zugleich deutlich, durch welche Techniken – Techniken des Sezierens, Vermessens, Dokumentierens, Präparierens und Abgießens – Tiere zu wissenschaftlichen Sammlungs- und Forschungsobjekten und nicht zuletzt zu Objekten des Gedenkens werden.
+Am gut dokumentierten Fall von “Bobby” lässt sich also nicht nur nachvollziehen, wie durch Präparationstechniken eine [[Dermoplastik|material.somsoplast-plastic-animal-models]] hergestellt und damit das Tier in ein “lebensechtes” Ausstellungsobjekt verwandelt wurde. Es wird zugleich deutlich, durch welche Techniken – Techniken des Sezierens, Vermessens, Dokumentierens, Präparierens und Abgießens – Tiere zu wissenschaftlichen Sammlungs- und Forschungsobjekten und nicht zuletzt zu Objekten des Gedenkens werden.
 
 Der Obduktionsbericht,[^17] der die Zerteilung und Untersuchung des Körpers dokumentiert, führt die Zerlegung des Tierkörpers fort, nicht durch das Skalpell, sondern in Wort und Bild. Die 24 Großaufnahmen, die den Gang der Obduktion bildlich festhalten,[^18] sind ebenfalls Teil der Dokumentationspraxis, die das Tier als Wissensobjekt begreift und aneignet. Sie zeigen die am Kadaver vorgenommenen Einschnitte, die am Beginn seiner wissenschaftlichen Verwertung stehen.
 
