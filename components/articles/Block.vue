@@ -5,7 +5,7 @@
       <img width="600" height="600" :src="article.cover_image.image.replace('/images/','/thumbnails/l/')" :alt="article.cover_image.alt ? article.cover_image.alt : ''" />
     </figure>
 
-    <div class="text" :style="{backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}">
+    <div class="text" :style="{backgroundColor:'var(--scheme-'+article.colour_scheme+'-bg)', color:'var(--scheme-'+article.colour_scheme+'-fg)'}" :class="{'long-desc':descIsLong}">
       <hgroup>
         <h2 class="f-serif">{{titleBilingual}}</h2>
         <h3 class="f-mono caption" 
@@ -17,7 +17,7 @@
 
       </hgroup>
       <div class="description-wrap">
-        <p class="f-serif description" v-if="article.tao_type != 'material' && article.desc" :class="{long:descIsLong}">{{descBilingual}}</p>
+        <p class="f-serif description" v-if="article.tao_type != 'material' && article.desc" >{{descBilingual}}</p>
       </div>
     </div>
     </nuxt-link>
@@ -66,15 +66,23 @@ export default {
       }
     },
     descBilingual(){
-      if(this.$store.getters.siteLanguage == 'de' && this.article.desc_de){
-        return this.article.desc_de
+      if(this.$store.getters.siteLanguage == 'de'){
+        if(this.article.desc_de){
+          return this.article.desc_de
+        } else {
+          return ''
+        }
       } else {
-        return this.article.desc
+        if(this.article.desc){
+          return this.article.desc
+        } else {
+          return ''
+        }
       }
     },
     descIsLong(){
       // console.log(this.descBilingual.length);
-      if(this.descBilingual.length > 380){
+      if(this.descBilingual.length > 320){
         return true
       } else {
         return false
@@ -114,7 +122,7 @@ article{
     background-color: @white;
     width: 100%;
     box-shadow: @shadow;
-    padding: @space-l;
+    padding: 0 @space-l @space-l @space-l ;
     display: inline-block;
     overflow-y: hidden;
 
@@ -124,10 +132,12 @@ article{
     hgroup{
       max-width: 100%;
     }
+
     h2{
       max-width: 100%;
-      overflow: hidden;
+      overflow-x: hidden;
       text-overflow: ellipsis;
+      padding-top:@space-l
     }
 
     h3{
@@ -147,12 +157,15 @@ article{
       // line-height: @lh-default;
       // overflow-y:hidden;
       // text-overflow: ellipsis;
-      &.long{
+      
+    }
+
+    &.long-desc{
+      p.description{
         font-size: @fs-xxs;
         line-height: 1.65;
       }
     }
-
     
   }
 
@@ -202,6 +215,20 @@ article{
       border-radius: @radius-l;
     }
   }
+
+  @media screen and (min-width: @mq-l) and (max-width: @mq-xl) /* Small desktop */ {
+    &.theme , &.story{
+      
+      .text{
+      // border: 1px solid red;
+      min-width: calc(45vw - 1rem);
+      &.long-desc{
+      // border: 1px solid blue;
+        min-width: calc(40vw - 1rem);
+      }
+    }
+  }
+  };
 
   @media screen and (max-width: @mq-s) /* Mobile */ {
     height: 50vw;
