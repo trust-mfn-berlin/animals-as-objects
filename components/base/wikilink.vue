@@ -62,6 +62,9 @@ span{
   position: relative;
   vertical-align: bottom;
   bottom: 0.3rem;
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    bottom: 0.18rem;
+  }
 }
 
 .error{

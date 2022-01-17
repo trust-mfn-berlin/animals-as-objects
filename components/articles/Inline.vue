@@ -73,7 +73,7 @@ a{
     border: 1px solid transparent;
     background-color: @white;
     height: 1.33333rem;
-    padding:0.37rem 0.4rem 0;
+    padding:0 0.4rem 0;
     box-shadow: @shadow-small;
     // margin-left: @space-xs;
     display: inline-block;
@@ -83,9 +83,10 @@ a{
       white-space: nowrap;
       text-overflow: ellipsis;
       max-width: 15rem;
-      overflow:hidden;
+      overflow-x:hidden;
       display: block;
       line-height: @lh-xs;
+      padding-top:0.37rem;
     }
 
     .animatefast(all);
