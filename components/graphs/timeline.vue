@@ -406,7 +406,7 @@ export default {
 
   position: relative;
   left:0;
-  filter: drop-shadow(0 0 5px @bg);
+  filter: drop-shadow(0 0 3px @bg);
 
   .domain{
     stroke:none;
