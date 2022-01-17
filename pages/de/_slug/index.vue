@@ -123,7 +123,7 @@ export default {
     if(payload){
       article = await payload
       fn = article.fn;
-      if(article.hasFootnotes){
+      if(article.hasFootnotes && fn.de.body.children){
         for (let i = 0; i < fn.de.body.children[3].children.length; i++) {
         const element = fn.de.body.children[3].children[i];
           if(element.props){
@@ -143,7 +143,7 @@ export default {
       const data = await $content(params.slug).fetch();
       article = data;
       fn = article.fn;
-      if(article.hasFootnotes){
+      if(article.hasFootnotes && fn.de.body.children){
         for (let i = 0; i < fn.de.body.children[3].children.length; i++) {
         const element = fn.de.body.children[3].children[i];
           if(element.props){

@@ -12,12 +12,6 @@
       <text-button linkto="/de/articles">Alle Artikel ansehen</text-button>
     </section>
 
-    <!-- <section class="routes">
-      <h2>Kuratierte Routen</h2>
-      <curated-routes-list :routes="routes" />
-      <text-button linkto="/de/routes">Alle kuratierten Routen ansehen</text-button>
-    </section> -->
-
     <section class="outro">
       <p class="outro-text">
         <span class="f-mono">Tiere als Objekte?</span> ist eine Online-Publikation von Wissenschaftler:innen des Museums für Naturkunde Berlin, des Berliner Zoos und der Humboldt-Universität zu Berlin. Wir sind Wissenschaftshistoriker:innen, Forscher:innen in den Science Studies, Kulturwissenschaftler:innen und Anthropolog:innen. Das Projekt wurde vom Bundesministerium für Bildung und Forschung (BMBF) gefördert und läuft von September 2018 bis Dezember 2021.</p>
@@ -46,8 +40,9 @@ export default {
     }
   },
   async asyncData({ $content }) {
-    const content = await $content().without(['body', 'body_de']).fetch();
-    const routes = await $content('/netlify/pathways').fetch();
+    // const content = await $content().without(['body', 'body_de']).fetch();
+    const content = await $content().only(['slug', 'title', 'title_de', 'id', 'tao_type', 'colour_scheme', 'cover_image', 'archived', 'author', 'date_start', 'date_end', 'desc', 'desc_de']).fetch();
+    // const routes = await $content('/netlify/pathways').fetch();
 
     var t = [];
     var m = [];
@@ -68,7 +63,7 @@ export default {
     });
 
     return {
-      t, m, s, routes
+      t, m, s
     };
   },
   methods:{

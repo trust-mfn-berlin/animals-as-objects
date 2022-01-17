@@ -12,12 +12,6 @@
       <text-button linkto="/articles">View all articles</text-button>
     </section>
 
-    <!-- <section class="routes">
-      <h2>Curated routes</h2>
-      <curated-routes-list :routes="routes" />
-      <text-button linkto="/routes">Explore more Curated routes</text-button>
-    </section> -->
-
     <section class="outro">
       <p class="outro-text">
         <span class="f-mono">Animals as Objects?</span> is an online publication by researchers from the Museum für Naturkunde Berlin, the Zoo Berlin, and the Humboldt University Berlin. We are historians of science, science studies scholars,  cultural studies scholars, and anthropologists. The project was funded by the German Federal Ministry for Education and Research (BMBF), and runs from September 2018 until December 2021.      </p>
@@ -46,8 +40,9 @@ export default {
     }
   },
   async asyncData({ $content }) {
-    const content = await $content().without(['body', 'body_de']).fetch();
-    const routes = await $content('/netlify/pathways').fetch();
+    // const content = await $content().without(['body', 'body_de']).fetch();
+    const content = await $content().only(['slug', 'title', 'title_de', 'id', 'tao_type', 'colour_scheme', 'cover_image', 'archived', 'author', 'date_start', 'date_end', 'desc', 'desc_de']).fetch();
+    // const routes = await $content('/netlify/pathways').fetch();
 
     var t = [];
     var m = [];
@@ -68,7 +63,7 @@ export default {
     });
 
     return {
-      t, m, s, routes
+      t, m, s
     };
   },
   methods:{
