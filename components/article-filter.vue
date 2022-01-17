@@ -5,18 +5,16 @@
       type="button"
       class="filter"
       v-for="(filter, i) in filterOptions"
+      :id="'filter-' + filter.name"
       :key="filter.name"
       role="radio"
+      :aria-label="'filter by / sortieren nach' + filter.name"
       :isActive="activeFilter == filter.name ? true : false"
       :aria-checked="activeFilter == filter.name ? true : false"
       @click.native="selectFilter(i)"
     >
-    <template v-if="isDe">
-      {{filter.label_de}}
-    </template>
-    <template v-else>
-      {{filter.label}}
-    </template>
+    <template v-if="isDe">{{filter.label_de}}</template>
+    <template v-else>{{filter.label}}</template>
     
     </text-button>
   </div>
@@ -86,8 +84,8 @@ export default {
   }
 }
 
-#filter-label{
-  @media screen and (max-width: @mq-s) /* Mobile */ {
+@media screen and (max-width: @mq-s) /* Mobile */ {
+  #filter-label, #filter-date{
     display:none;
   }
 }
