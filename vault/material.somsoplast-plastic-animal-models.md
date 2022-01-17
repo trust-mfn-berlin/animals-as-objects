@@ -40,11 +40,11 @@ While some animal specimens consist of organic material that is prevented from d
 
 SOMSO-Plast increasingly replaced papier mâché and plaster as materials. **The potato bug made from papier mâché by the modeller Alfred Keller was thus joined by a potato bug made from plastic, a material to which a particularly “lifelike” aesthetic was attributed.**[^3] This model is characterised by its smooth, shiny painted surface, which allows users to feel the animal’s shape with their hands, and it is not damaged by washing. Even today, SOMSO-Plast is considered less fragile and “nearly unbreakable”. Although plastic models have also proven problematic in today’s collections, as some of them lose their shape or corrode, the practicality of plastic models in teaching still dominates as an argument in favour of the continued use of this material.
 
-[^1]: On teaching models, see Sandra Mühlenberen. “‘Dingliche Sendboten in alle Welt’: Die anatomischen Lehrmodelle des Deutschen Hygiene-Museums”. In _Erkenne dich selbst!: Strategien der Sichtbarmachung des Körpers im 20. Jahrhundert_. Sybilla Nikolow (ed.). Schriften des Deutschen Hygiene-Museums Dresden 11. Cologne: Böhlau, 2015: 198-211; Thomas Schnalke. “Lernen am Modell: Die Geschichte eines Lehrmittelproduzenten im geteilten Land”. _Ärztliches Reise- und Kulturjournal_ 15, no. 13 (1991): 95-97.
+[^1]: On teaching models, see Sandra Mühlenberen. “‘Dingliche Sendboten in alle Welt’: Die anatomischen Lehrmodelle des Deutschen Hygiene-Museums”. In _Erkenne dich selbst!: Strategien der Sichtbarmachung des Körpers im 20. Jahrhundert_. Sybilla Nikolow (ed.). Cologne: Böhlau, 2015: 198-211; Thomas Schnalke. “Lernen am Modell: Die Geschichte eines Lehrmittelproduzenten im geteilten Land”. _Ärztliches Reise- und Kulturjournal_ 15, no. 13 (1991): 95-97.
 
 [^2]: Cf. _SOMSO Modelle seit 1876: Zoologie und Botanik Katalog A 75/2+3._ Coburg, 2007.
 
-[^3]: On Alfred Keller's models of potato bugs as “vermin”, see Therese Kienemund. “Political Pests: Insect Models in the Museum für Naturkunde Berlin, 1930–2021”. Manuscript submitted for publication, 2021.
+[^3]: On Alfred Keller's models of potato bugs as ‘vermin’, see Therese Kienemund. “Political Pests: Insect Models in the Museum für Naturkunde Berlin, 1930–2021”. Manuscript submitted for publication, 2021.
 
 :::DE:::
 
@@ -68,4 +68,4 @@ SOMSO-Plast ersetzte zunehmend die Materialien Papiermaschee und/oder Gips. **Ne
 
 [^2]: Vgl. _SOMSO Modelle seit 1876: Zoologie und Botanik Katalog A 75/2+3._ Coburg, 2007.
 
-[^3]: Zu Alfred Kellers Modellen von Kartoffelkäfern als “Schädlinge” vgl. Therese Kienemund. “Political Pests: Insect Models in the Museum für Naturkunde Berlin, 1930-2021”. Manuskript zur Veröffentlichung eingereicht, 2021.
+[^3]: Zu Alfred Kellers Modellen von Kartoffelkäfern als ‘Schädlinge’, vgl. Therese Kienemund. “Political Pests: Insect Models in the Museum für Naturkunde Berlin, 1930-2021”. Manuskript zur Veröffentlichung eingereicht, 2021.
