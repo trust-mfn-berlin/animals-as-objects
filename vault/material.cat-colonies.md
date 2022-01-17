@@ -7,7 +7,7 @@ short_desc_de: Audiogeschichten über Tiere in Berlin
 date_end: ""
 published: false
 title: Cat Colonies
-updated: 1642419542008
+updated: 1642420960202
 id: fhaeI85XK03VOoIUROfG9
 doi: 64y2-m311/63
 translators:
@@ -42,7 +42,7 @@ An audio piece from the project seminar “Animal Topographies” held at the In
 
 Animal topographies are site-specific explorations that view places where animals have played a special role in the past or present: spaces where animals are kept, and places that they have occupied. The audio stories that can be heard here started with theoretical and historical examinations of urban animal topographies and different forms of movement, tracing historical and current routes. The auditive hunt for clues leads through Berlin sites both known and unknown, where it explores relationships between humans and animals.
 
-Who knows where the wild cats live? Anne Hoffmann sets out on the [[trail|material.purchased-from-a-caravan]] of Berlin’s street cats and asks where they hide and gather, whom they [[belong to|theme.showing-animals]] , and who they bother. She finds out that metropolitan habitats are becoming scarce – and not just for humans. Talks with staff at the Berlin Animal Shelter and a visit to a cat colony in Berlin-Pankow invite listeners to give more thought to how we want to [[coexist with others|theme.logistical-metabolisms]] in this city.[^1] 
+Who knows where the wild cats live? Anne Hoffmann sets out on the [[trail|material.purchased-from-a-caravan]] of Berlin’s street cats and asks where they hide and gather, whom they [[belong to|theme.showing-animals]], and who they bother. She finds out that metropolitan habitats are becoming scarce – and not just for humans. Talks with staff at the Berlin Animal Shelter and a visit to a cat colony in Berlin-Pankow invite listeners to give more thought to how we want to [[coexist with others|theme.logistical-metabolisms]] in this city.[^1] 
 
 Other audio pieces tell the stories of [[material.where-the-rats-live]], [[material.dead-animals]], [[material.berlin's-border-dogs]] und [[material.haunting-cattle]].
 

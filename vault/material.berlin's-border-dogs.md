@@ -7,7 +7,7 @@ short_desc_de: Audiogeschichten über Tiere in Berlin
 date_end: 1990-12-24T15:37:00.000Z
 published: false
 title: Berlin’s Border Dogs
-updated: 1642419038421
+updated: 1642420853602
 id: PycpfqnQuolcIv93f9gkd
 doi: 64y2-m311/64
 translators:
@@ -42,7 +42,7 @@ An audio piece from the project seminar “Animal Topographies” held at the In
 
 Animal topographies are site-specific explorations that view places where animals have played a special role in the past or present: spaces where animals are kept, and places that they have occupied. The audio stories that can be heard here started with theoretical and historical examinations of urban animal topographies and different forms of movement, tracing historical and current routes. The auditive hunt for clues leads through Berlin sites both known and unknown, where it explores relationships between humans and animals.
 
-What was life like for the guard dogs, route dogs, and sniffer dogs that patrolled the former death strip at the Berlin Wall? Marie Permantier [[brings together|theme.recording-worlds]] voices that give accounts of the [[animals’ everyday lives|material.jendaya-parakeet]] back then and asks what happened to the suddenly unemployed dogs after the Wall fell. She unravels the meaning of being an animal border guard in the context of the Cold War and of becoming an ideologically charged [[projection screen|story.Knut]] for ideas of “the other” beyond the Wall.[^1]
+What was life like for the guard dogs, route dogs, and sniffer dogs that patrolled the former death strip at the Berlin Wall? Marie Permantier [[brings together|theme.recording-worlds]] voices that give accounts of the [[animals’ everyday lives|material.jendaya-parakeet]] back then and asks what happened to the suddenly unemployed dogs after the Wall fell. She unravels the meaning of being an animal border guard in the context of the Cold War and of becoming an ideologically charged [[projection screen|story.Knut]] for ideas of ‘the other’ beyond the Wall.[^1]
 
 Other audio pieces tell the stories of [[material.where-the-rats-live]], [[material.dead-animals]], [[material.cat-colonies]], and [[material.haunting-cattle]].
 
@@ -69,7 +69,7 @@ Ein Hörstück aus dem Projektseminar “Tier-Topografien” am Institut für Ku
 
 Tier-Topografien sind ortsspezifische Erkundungen: Perspektiven auf Orte, an denen Tiere eine besondere Rolle spielen, in der Geschichte oder in der Gegenwart. Räume, in denen sich Tiere aufhalten, an die sie gebracht werden, sowie solche, die sie einnehmen. Ausgangspunkt der hier zu hörenden Audiogeschichte ist eine theoretische und historische Auseinandersetzung mit urbanen Tier-Topografien und verschiedenen Formen der Bewegung entlang historischer Spuren und aktueller Wegstrecken. Die auditive Spurensuche führt an bekannte und unbekannte Orte in Berlin und erkundet an diesen die Beziehungen zwischen Menschen und Tieren.
 
-Wie sah das Leben der Schutz-, Trassen- und Fährtenhunde aus, die im ehemaligen Todesstreifen an der Berliner Mauer patrouillierten? Marie Permantier [[versammelt Stimmen|theme.recording-worlds]], die über den damaligen [[Alltag|material.jendaya-parakeet]] der Tiere berichten, und fragt, was nach der Wende mit den nun arbeitslosen Hunden geschah. Dabei entfaltet sie nach und nach, was es hieß, ein tierischer Grenzwächter im Kontext des Kalten Kriegs zu sein und zu einer ideologisch aufgeladenen [[Projektionsfläche|story.Knut]] der jeweiligen Vorstellung vom “Drüben” zu werden.[^1]
+Wie sah das Leben der Schutz-, Trassen- und Fährtenhunde aus, die im ehemaligen Todesstreifen an der Berliner Mauer patrouillierten? Marie Permantier [[versammelt Stimmen|theme.recording-worlds]], die über den damaligen [[Alltag|material.jendaya-parakeet]] der Tiere berichten, und fragt, was nach der Wende mit den nun arbeitslosen Hunden geschah. Dabei entfaltet sie nach und nach, was es hieß, ein tierischer Grenzwächter im Kontext des Kalten Kriegs zu sein und zu einer ideologisch aufgeladenen [[Projektionsfläche|story.Knut]] der jeweiligen Vorstellung vom ‘Drüben’ zu werden.[^1]
 
 Weitere Hörstücke erzählen vom [[Ort der Ratten in Berlin|material.where-the-rats-live]], von [[toten Tieren|material.dead-animals]], [[Katzen-Kolonien|material.cat-colonies]] und [[spukendem Vieh|material.haunting-cattle]].
 
