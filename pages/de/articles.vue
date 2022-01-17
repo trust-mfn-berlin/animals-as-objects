@@ -3,7 +3,7 @@
     <article-filter />
 
     <main>
-      <section v-show="activeFilter == 'alphabetical'">
+      <section id="artikel-alphabetisch-sortiert" v-show="activeFilter == 'alphabetical'">
       <ol>
         <template v-for="(letter, index) in articlesAlphabetical">
           <h2 :key="index">{{letter[0]}}</h2>
@@ -12,7 +12,7 @@
       </ol>
       </section>
 
-      <section v-show="activeFilter == 'author'">
+      <section id="artikel-sortiert-nach-autor" v-show="activeFilter == 'author'">
         <div v-for="a in authorsSorted" :key="a[0]">
         <h2>{{a[0]}}</h2>
         <ul>
@@ -23,7 +23,7 @@
         </div>
       </section>
 
-      <section v-show="activeFilter == 'type'">
+      <section id="artikel-sortiert-nach-typ" v-show="activeFilter == 'type'">
       <h2>Thema</h2>
       <ul>
         <li v-for="article in articlesType.theme" :key="article.slug">
@@ -46,7 +46,7 @@
       </ul>
       </section>
 
-      <section v-show="activeFilter == 'date'">
+      <section id="artikel-sortiert-nach-datum" v-show="activeFilter == 'date'">
         <!-- <h2>Zeitstrahl</h2> -->
         <timeline />
       </section>
@@ -200,5 +200,11 @@ ol{
   display: flex;
   flex-wrap: wrap;
   gap:@space-s;
+}
+
+@media screen and (max-width: @mq-s) /* Mobile */ {
+  #artikel-sortiert-nach-datum{
+    display: none;
+  }  
 }
 </style>
