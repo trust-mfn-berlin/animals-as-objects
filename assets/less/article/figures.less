@@ -146,11 +146,23 @@ figcaption{
         // border-radius: 0;
         // margin: 0;
         // height: auto !important;
-        padding: 0.25rem 0.5rem 0.2rem;
+        padding: 0 0.5rem 0.2rem;
         .subheading{
           font-style: normal;
           font-family: @f-mono;
           font-size:@fs-xxs;
+          padding-top:0.25rem;
+        }
+      }
+    }
+
+    @media screen and (max-width: @mq-s) /* Mobile */ {
+      a{
+        .text{
+          padding: 0 0.3rem 0.2rem;
+          .subheading{
+            font-size: 83.333%;
+          }
         }
       }
     }
