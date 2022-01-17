@@ -7,7 +7,7 @@ short_desc_de: Präparation eines Vogelbalgs im Museum für Naturkunde Berlin
 date_end: ""
 published: false
 title: Jendaya Parakeet
-updated: 1642440132733
+updated: 1642440236113
 id: qPXq6synKcymXGGXLIDvV
 doi: 64y2-m311/69
 translators:
@@ -277,7 +277,7 @@ _Storing and classifying the partial skeleton in the collection. (MfN, image: Ma
 
 [^2]: The various preparation steps often do not take place all at once, but with interruptions, meaning that the process can stretch out over several weeks or months. We would like to thank Christin Scheinpflug for letting us take part in the process, for answering our numerous questions, and for providing us with all information needed.
 
-[^3]: Unlike a taxidermy, a study skin has the feathers, beak, legs, and feet attached to it and is pulled over an artificial replica of the animal’s body. It can be stored in a drawer. In today’s scientific collections, study skins are the main type of specimen used. On working in and with the bird collection at the Berlin Museum of Natural History, see Frahnert, Silke, M. Päckert, D. T. Tietze, and T. Töpfer. “Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie”. _Vogelwarte_ 51, no. 3 (2013): 185–191.
+[^3]: Unlike a taxidermy, a study skin has the feathers, beak, legs, and feet attached to it and is pulled over an artificial replica of the animal’s body. It can be stored in a drawer. In today’s scientific collections, study skins are the main type of specimen used. On working in and with the bird collection at the Berlin Museum of Natural History, see Silke Frahnert, M. Päckert, D.T. Tietze, and T. Töpfer. “Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie”. _Vogelwarte_ 51, no. 3 (2013): 185-191.
 
 [^4]: The torso skeleton is made up of the thoracic vertebrae, the ribs, the sternum, the furcula, the coracoid, the shoulder blades, the thigh, the lumbar vertebrae, the pelvis, and the caudal vertebrae.
 
@@ -551,7 +551,7 @@ _Einordnen des Teilskelett in die Sammlung. (Foto: Mareike Vennen. Alle Rechte v
 
 [^2]: Häufig finden die verschiedenen Schritte der Präparation nicht am Stück, sondern mit Unterbrechungen statt, so dass sich der Prozess über mehrere Wochen oder Monate erstrecken kann. Wir danken Christin Scheinpflug, dass sie uns an dem Prozess hat teilhaben lassen und uns auch darüber hinaus unsere zahlreichen Fragen beantwortet und Hinweise gegeben hat.
 
-[^3]: Bei einem Balg handelt es sich im Gegensatz zu einem aufgestellten Präparat um die Haut eines Vogels mit anhängendem Gefieder, Schnabel, Beinen und Füßen, die über einen künstlich nachgebildeten Körper gestülpt und in einer Schublade aufbewahrt werden kann. In wissenschaftlichen Sammlungen werden heute vor allem Bälge verwendet. Zur Vogelsammlung des Berliner Museums für Naturkunde vgl. Frahnert, Silke, M. Päckert, D. T. Tietze und T. Töpfer. “Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie”. _Vogelwarte_ 51, Nr. 3 (2013): 185–191.
+[^3]: Bei einem Balg handelt es sich im Gegensatz zu einem aufgestellten Präparat um die Haut eines Vogels mit anhängendem Gefieder, Schnabel, Beinen und Füßen, die über einen künstlich nachgebildeten Körper gestülpt und in einer Schublade aufbewahrt werden kann. In wissenschaftlichen Sammlungen werden heute vor allem Bälge verwendet. Zur Vogelsammlung des Berliner Museums für Naturkunde vgl. Silke Frahnert, M. Päckert, D.T. Tietze und T. Töpfer. “Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie”. _Vogelwarte_ 51, Nr. 3 (2013): 185-191.
 
 [^4]: Das Rumpfskelett besteht aus Brustwirbeln, Rippen, Sternum, Gabelbein, Rabenbein, Schulterblatt, Oberschenkel, Lendenwirbel, Becken und Schwanzwirbeln.
 
