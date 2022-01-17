@@ -7,7 +7,7 @@ short_desc_de: Clastique-Modell einer Seidenraupe
 date_end: 1900-12-31T11:00:00.000Z
 published: false
 title: Papier Mâché Silkworm
-updated: 1642462326577
+updated: 1642462371524
 id: kaVI1pTyKCM8SvVsrYrSJ
 doi: 64y2-m311/72
 translators:
@@ -114,7 +114,7 @@ _Auch mit geschlossenem Deckel sind die Innereien des Maulbeerspinners seitlich 
 
 </figure>
 
-Das aufklappbare anatomische Funktionsmodell (auch Clastique-Modell genannt) von _Bombyx mori_, dem Maulbeerspinner[[Maulbeerspinner|story.silkworms]], der früher zum [[Seidenanbau|story.silk-culture]] in Berlin und Brandenburg gezüchtet wurde, zeigt in starker Vergrößerung und großer Detailgenauigkeit die Haut und Extremitäten, die inneren Organe und die Spinndrüsen des Tiers. Das sorgfältig bemalte Artefakt, das vermutlich in den 1860er Jahren hergestellt wurde und sich heute in der [[Zoologischen Lehrsammlung|story.history-of-the-zoological-teaching-collection]] der Humboldt-Universität zu Berlin befindet,[^4] lässt sich an Metallhäkchen aufklappen und weist neben Nummerierungen auch [[direkte Beschriftungen|story.keeping-records-of-animals]] auf den einzelnen Körperteilen auf. Diese Beschriftungen verweisen damit nicht nur auf die Körperteile wie in einer Legende, sondern das Papiermaschee selbst ist beschrieben, und zwar im doppelten Sinne: einerseits mit Tinte und Buchstaben, andererseits mit wissenschaftlichen Fachausdrücken. Der Seidenspinner erscheint hier als Nutztier, das ein Produkt – den Seidenfaden – herstellt. Zugleich bildet er ein Stadium einer kompletten Metamorphose ab, deren Imago (das geschlechtsreife Insekt nach der letzten Verwandlung) Auzoux wiederum in Papiermaschee festgehalten hat: Die weibliche und die männliche Seidenmotte bot er ebenfalls als Modell für den Lehrbetrieb an.
+Das aufklappbare anatomische Funktionsmodell (auch Clastique-Modell genannt) von _Bombyx mori_, dem [[Maulbeerspinner|story.silkworms]], der früher zum [[Seidenanbau|story.silk-culture]] in Berlin und Brandenburg gezüchtet wurde, zeigt in starker Vergrößerung und großer Detailgenauigkeit die Haut und Extremitäten, die inneren Organe und die Spinndrüsen des Tiers. Das sorgfältig bemalte Artefakt, das vermutlich in den 1860er Jahren hergestellt wurde und sich heute in der [[Zoologischen Lehrsammlung|story.history-of-the-zoological-teaching-collection]] der Humboldt-Universität zu Berlin befindet,[^4] lässt sich an Metallhäkchen aufklappen und weist neben Nummerierungen auch [[direkte Beschriftungen|story.keeping-records-of-animals]] auf den einzelnen Körperteilen auf. Diese Beschriftungen verweisen damit nicht nur auf die Körperteile wie in einer Legende, sondern das Papiermaschee selbst ist beschrieben, und zwar im doppelten Sinne: einerseits mit Tinte und Buchstaben, andererseits mit wissenschaftlichen Fachausdrücken. Der Seidenspinner erscheint hier als Nutztier, das ein Produkt – den Seidenfaden – herstellt. Zugleich bildet er ein Stadium einer kompletten Metamorphose ab, deren Imago (das geschlechtsreife Insekt nach der letzten Verwandlung) Auzoux wiederum in Papiermaschee festgehalten hat: Die weibliche und die männliche Seidenmotte bot er ebenfalls als Modell für den Lehrbetrieb an.
 
 [^1]: Vgl. Nick Hopwood. _Embryos in Wax: Models from the Ziegler Studio_. Cambridge: Whipple Museum of the History of Science, 2002.
 
