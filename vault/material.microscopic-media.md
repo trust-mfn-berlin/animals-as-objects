@@ -23,9 +23,7 @@ desc_de: |-
   sie, dass unser Bild von der Welt historisch verortet ist und stets auf
   bestimmten Vermittlungsformen beruht.
 short_desc: The observation of microorganisms depends on a variety of media and tools
-short_desc_de: |-
-  Die Beobachtung von Mikroorganismen bedarf einer Vielzahl an
-  Medien und Werkzeugen
+short_desc_de: Werkzeuge zur Beobachtung von Mikroorganismen
 cover_image:
   image: /images/microscopicmedia.jpg
 colour_scheme: 8
