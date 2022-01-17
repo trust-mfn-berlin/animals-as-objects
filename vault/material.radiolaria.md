@@ -3,7 +3,7 @@ license: CC BY-SA
 title_de: Radiolarien
 created: 1618492811498
 author: Filippo Bertoni
-short_desc_de: Mikroskopisch kleine einzellige Organismen, die in den Ozeanen leben
+short_desc_de: Mikroskopisch kleine einzellige Organismen in den Ozeanen
 date_end: ""
 published: false
 title: Radiolaria
@@ -15,7 +15,7 @@ translators:
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
 desc: Microscopic unicellular organisms living in the oceans
-desc_de: Mikroskopisch kleine einzellige Organismen, die in den Ozeanen leben
+desc_de: Mikroskopisch kleine einzellige Organismen in den Ozeanen
 short_desc: Microscopic unicellular organisms living in the oceans
 cover_image:
   image: /images/cover-radiolaria.jpg
