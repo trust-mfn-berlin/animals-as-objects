@@ -47,7 +47,7 @@
       </section>
 
       <section v-show="activeFilter == 'date'">
-        <h2>Zeitstrahl</h2>
+        <!-- <h2>Zeitstrahl</h2> -->
         <timeline />
       </section>
     </main>

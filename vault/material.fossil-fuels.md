@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Fossil Fuels
 title_de: Fossile Brennstoffe
 created: 1618493147480
-updated: 1642421802126
+updated: 1642425511065
 id: 7f5d84e2-6c42-454e-a7c5-f31db9960a70
 author: Filippo Bertoni
 doi: 64y2-m311/32
@@ -31,7 +31,7 @@ date_end: 2022-12-07T19:10:39.033Z
 
 <figcaption>
 
-_Products of petroleum refinery. (Source: youtube)_
+_Products of petroleum refinery (Source: youtube)_
 
 </figcaption>
 
@@ -61,7 +61,7 @@ But while most scientific and academic work had focused on macro fossils, it was
 
 <figcaption>
 
-_Produkte der Erdölraffinerie. (Quelle: youtube)_
+_Produkte der Erdölraffinerie (Quelle: youtube)_
 
 </figcaption>
 
