@@ -1,12 +1,12 @@
 <template>
   <aside id="themobilemenu" role="navigation">
+    <div class="mob-search-outer">
+      <Searchbar />
+    </div>
     
     <ul class="primary">
-      <li>
-        <Searchbar />
-      </li>
 
-      <li>
+      <li class="mob-title-outer">
         <h2 class="title f-mono">{{siteLang == "de" ? 'Tiere als Objekte?' : 'Animals as Objects?'}}</h2>
       </li>
       
@@ -101,19 +101,20 @@ export default {
 ul{
   li{
 
-    h2{
-      text-align: center;
-      margin: 5rem 1rem;
-      // margin: 7rem 0 5rem;
-      font-size: 10.5vw;
-      line-height: @lh-xs;
+    &.mob-title-outer{
+      margin: 6.5rem 0;
+      h2{
+        text-align: center;
+        // margin: 7rem 0 5rem;
+        font-size: 10.5vw;
+        line-height: @lh-xs;
+      }
     }
+
     width: 100%;
     margin-bottom: @space-s;
 
-    &:first-of-type{
-      padding-left: calc(44px + @space-s);
-    }
+    
 
     ::v-deep{
       .text-button{
@@ -122,6 +123,14 @@ ul{
       }
     }
   }
+}
+
+.mob-search-outer{
+  position: absolute;
+  top:@space-s;
+  left: calc(44px + @space-s*2);
+  right: @space-s;
+  z-index: 1;
 }
 
 .footer-wrap{
