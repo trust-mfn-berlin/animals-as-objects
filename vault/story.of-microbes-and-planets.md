@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Of Microbes and Planets
 title_de: Über Mikroben und Planeten
 created: 1621522603135
-updated: 1642372584921
+updated: 1642421655146
 id: 796e4da7-c573-401f-a165-7bd9c3a503c6
 author: Filippo Bertoni
 doi: 64y2-m311/33
@@ -27,7 +27,7 @@ cover_image:
 colour_scheme: 1
 tao_type: story
 date_start: 1971-01-01T14:30:44.684Z
-date_end: 2021-12-14T14:34:55.503Z
+date_end: 2022-12-14T14:34:55.503Z
 published: false
 ---
 

@@ -10,9 +10,7 @@
         <h2 class="f-serif">{{titleBilingual}}</h2>
         <h3 class="f-mono caption" 
           v-if="article.tao_type == 'material' && article.date_start || article.tao_type == 'material' && article.date_end">
-          <span v-if="article.date_start">{{article.date_start | formatDateYear}}</span>
-          <span v-if="article.date_start && article.date_end">–</span>
-          <span v-if="article.date_end">{{isToday}}</span>
+          <span v-if="article.date_start">{{article.date_start | formatDateYear}}</span><span v-if="article.date_start && article.date_end">–</span><span v-if="article.date_end">{{isToday}}</span>
         </h3>
 
       </hgroup>
@@ -41,9 +39,9 @@ export default {
   computed:{
     isToday(){
       const endDate = this.$options.filters.formatDateYear(this.article.date_end)
-      if(endDate == '2021' || endDate == 2021 || endDate == '2022' || endDate == 2022 || endDate == '2023' || endDate == 2023){
+      if(endDate == '2022' || endDate == 2022 || endDate == '2023' || endDate == 2023){
         if(this.$store.getters.siteLanguage == 'de'){
-          return "Heute"
+          return "heute"
         } else {
           return "Today"
         }

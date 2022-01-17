@@ -4,10 +4,10 @@ title_de: Taxonomische Ordnungen
 created: 1618491191119
 author: Filippo Bertoni
 short_desc_de: Die Kategorisierung der Natur ist politisch
-date_end: 2021-07-06T11:43:53.791Z
+date_end: 2022-12-06T11:43:53.791Z
 published: false
 title: Taxonomic Orders
-updated: 1642371528008
+updated: 1642421579802
 id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
 doi: 64y2-m311/5
 translators:

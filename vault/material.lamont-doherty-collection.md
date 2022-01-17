@@ -4,10 +4,10 @@ title_de: Lamont-Doherty-Sammlung
 created: 1629110187218
 author: Filippo Bertoni
 short_desc_de: Eine bedeutende Langzeitsammlung mikropaläontologischer Präparate
-date_end: 2021-12-07T18:56:55.735Z
+date_end: 2022-12-07T18:56:55.735Z
 published: false
 title: Lamont-Doherty Collection
-updated: 1642368966106
+updated: 1642421533295
 id: YJrLgXqicVoVnrM8FtHXU
 doi: 64y2-m311/39
 translators:

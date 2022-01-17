@@ -4,10 +4,10 @@ title_de: Nutzung von Cycladophora
 created: 1624875395326
 author: Filippo Bertoni
 short_desc_de: Von Mikrofossilien zu planetarem Wissen
-date_end: 2021-07-06T11:38:39.090Z
+date_end: 2022-07-06T11:38:39.090Z
 published: false
 title: Using Cycladophora
-updated: 1642368950871
+updated: 1642421629934
 id: TBi8fH-OIQRAoB-tG9ZY1
 doi: 10.7479/64y2-m311/2
 translators:

@@ -4,10 +4,10 @@ title_de: Tiere verzeichnen
 created: 1635148858347
 author: Mareike Vennen
 short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
-date_end: 2021-10-25T08:44:25.273Z
+date_end: 2022-10-25T08:44:25.273Z
 published: false
 title: Keeping Records of Animals
-updated: 1642369613072
+updated: 1642421689265
 id: zrAZZTgVehO9zeVbW4dMX
 doi: 64y2-m311/30
 translators:

@@ -4,10 +4,10 @@ title_de: Cycladophora davisiana
 created: 1620218024936
 author: Filippo Bertoni
 short_desc_de: Eine mikroskopisch kleine Radolarienart
-date_end: 2021-07-06T11:35:52.482Z
+date_end: 2022-12-06T11:35:52.482Z
 published: false
 title: Cycladophora davisiana
-updated: 1642244964819
+updated: 1642421724253
 id: 6b86b681-8157-4bd4-acb1-167b98547122
 doi: 64y2-m311/4
 translators:

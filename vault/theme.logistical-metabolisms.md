@@ -4,10 +4,10 @@ title_de: "Logistische Metabolismen "
 created: 1640459420576
 author: Mareike Vennen, Filippo Bertoni
 short_desc_de: Umwandlungsprozesse von Tieren in Bewegung
-date_end: 2022-01-04T16:32:17.032Z
+date_end: 2022-12-04T16:32:17.032Z
 published: false
 title: Logistical Metabolisms
-updated: 1642257663906
+updated: 1642421838287
 id: GkUgy87PFegTFmR0W1Z2Q
 doi: 64y2-m311/70
 translators:

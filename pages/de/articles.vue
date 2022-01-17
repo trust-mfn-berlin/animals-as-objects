@@ -88,15 +88,23 @@ export default {
           if(firstLetter.match(regex)){
 
             if(firstLetter == "Ü"){
-              firstLetter = 'U'
+              firstLetter = 'U';
+              article.firstLetterDe = 'U';
             } else if(firstLetter == "Ö"){
-              firstLetter = 'O'
+              firstLetter = 'O';
+              article.firstLetterDe = 'O';
             } else if(firstLetter == "Ä"){
-              firstLetter = 'A'
+              firstLetter = 'A';
+              article.firstLetterDe = 'A';
             } else {
               firstLetter = article.title_de.charAt(1);
+              article.firstLetterDe = article.title_de.charAt(1);
             }
+          } else {
+            article.firstLetterDe = article.title_de.charAt(0);
           }
+
+          
           
           if(!az[firstLetter]){
             az[firstLetter] = []
@@ -126,6 +134,10 @@ export default {
 
     var authorsSorted = Object.entries(articlesAuthor);
     authorsSorted.sort((a, b) => (a[1][0].authorLastname > b[1][0].authorLastname ? 1 : -1));
+
+    articlesType.material = articlesType.material.sort((a, b) => (a.firstLetterDe > b.firstLetterDe ? 1 : -1));
+    articlesType.theme = articlesType.theme.sort((a, b) => (a.firstLetterDe > b.firstLetterDe ? 1 : -1));
+    articlesType.story = articlesType.story.sort((a, b) => (a.firstLetterDe > b.firstLetterDe ? 1 : -1));
     
     return {
       articlesAlphabetical, articlesType, authorsSorted

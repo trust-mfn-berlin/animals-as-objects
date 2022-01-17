@@ -4,10 +4,10 @@ title_de: NSB Datenbank
 created: 1619187736766
 author: Filippo Bertoni
 short_desc_de: Eine umfangreiche Datenbank mikropaläontologischer Proben und Daten
-date_end: 2021-12-07T18:44:00.147Z
+date_end: 2022-12-07T18:44:00.147Z
 published: false
 title: NSB Database
-updated: 1642424008246
+updated: 1642424114077
 id: 384f2259-ec40-482d-bacc-c0876ae280aa
 doi: 64y2-m311/38
 translators:
