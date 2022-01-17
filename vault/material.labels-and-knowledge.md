@@ -43,7 +43,7 @@ _A mobile thing of knowledge: In the 1920s and 1930s, labels like this were atta
 
 </figure>
 
-A discovery: a pile of old tags from Berlin Zoological Garden, most of them from the 1920s and 1930s, that had been filed in a folder in the archive of the Berlin Museum of Natural History containing letters that had been sent between the Zoological Museum and the Zoological Garden back then. These labels, which were attached to the animals as “accompanying documents” when they left the zoo after their deaths, are material traces of the relationship between the zoo and the museum at the time. What can they tell us? 
+A discovery: a pile of old tags from Berlin Zoological Garden, most of them from the 1920s and 1930s, that had been filed in a folder in the archive of the Berlin Museum of Natural History containing letters that had been sent between the Zoological Museum and the Zoological Garden back then. These labels, which were attached to the animals as ‘accompanying documents’ when they left the zoo after their deaths, are material traces of the relationship between the zoo and the museum at the time. What can they tell us? 
 
 <figure>
 
@@ -161,7 +161,7 @@ _Mobiles Wissensding: Solche Etiketten wurden in den 1920er oder 30er Jahren Zoo
 
 </figure>
 
-Fund: Ein Stapel alter Anhänger aus dem Zoologischen Garten Berlin, die meisten aus den 1920er und 30er Jahren, eingeheftet in einen Ordner im Archiv des Museums für Naturkunde Berlin, in dem Briefe zwischen dem Zoologischen Museum und dem Zoologischen Garten aus dieser Zeit abgeheftet sind. Die Etiketten, die den Tieren als “Begleitzettel” mitgegeben wurden, wenn sie den Zoo nach ihrem Tod verließen, sind materielle Spuren der damaligen Beziehungen zwischen Zoo und Museum. Was können sie erzählen? 
+Fund: Ein Stapel alter Anhänger aus dem Zoologischen Garten Berlin, die meisten aus den 1920er und 30er Jahren, eingeheftet in einen Ordner im Archiv des Museums für Naturkunde Berlin, in dem Briefe zwischen dem Zoologischen Museum und dem Zoologischen Garten aus dieser Zeit abgeheftet sind. Die Etiketten, die den Tieren als ‘Begleitzettel’ mitgegeben wurden, wenn sie den Zoo nach ihrem Tod verließen, sind materielle Spuren der damaligen Beziehungen zwischen Zoo und Museum. Was können sie erzählen? 
 
 <figure>
 

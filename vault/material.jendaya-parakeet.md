@@ -101,7 +101,7 @@ _This is how the transponder is stored until it is placed back into the study sk
 
 </figure>
 
-In order to prepare the study skin, the preparator first has to remove the skin using a scalpel and a pair of scissors in order to separate it from the flesh tissue. Afterwards, the skin is mechanically cleaned of fascia and fat remains. The muscles and tendons are then removed from the remaining bone structures (fibulas, skull, shoulder and forearm) – this process is also referred to as cleaning or “defleshing”. Removing the fat and fascia from the skin and defleshing the bones is an important part of the preparator’s work, as the smell of fat and tissue remains attracts insects, which can ultimately damage the study skin in the collection by feeding on ill-prepared specimens.
+In order to prepare the study skin, the preparator first has to remove the skin using a scalpel and a pair of scissors in order to separate it from the flesh tissue. Afterwards, the skin is mechanically cleaned of fascia and fat remains. The muscles and tendons are then removed from the remaining bone structures (fibulas, skull, shoulder and forearm) – this process is also referred to as cleaning or ‘defleshing’. Removing the fat and fascia from the skin and defleshing the bones is an important part of the preparator’s work, as the smell of fat and tissue remains attracts insects, which can ultimately damage the study skin in the collection by feeding on ill-prepared specimens.
 
 <figure>
 
@@ -207,7 +207,7 @@ _Blow-drying and arranging the feathers. (Images: Filippo Bertoni/MfN. All right
 
 </figure>
 
-In order to produce a partial skeleton, the original bird body now has to be completely “defleshed”, but, unlike the skull bones, it will not be placed back inside the study skin. The defleshed bird body was then placed in a salt solution to “bleed” it. Due to the size of the bird’s body, the preparator decided to clean the bones by enlisting the help of dermastid beetles. This meant placing the various parts of the skeleton into a container filled with dermestid beetles in a warming cabinet for several days.[^9] These scavenger beetles do not leave any tissue on the bones. 
+In order to produce a partial skeleton, the original bird body now has to be completely ‘defleshed’, but, unlike the skull bones, it will not be placed back inside the study skin. The defleshed bird body was then placed in a salt solution to ‘bleed’ it. Due to the size of the bird’s body, the preparator decided to clean the bones by enlisting the help of dermastid beetles. This meant placing the various parts of the skeleton into a container filled with dermestid beetles in a warming cabinet for several days.[^9] These scavenger beetles do not leave any tissue on the bones. 
 
 <figure>
 
