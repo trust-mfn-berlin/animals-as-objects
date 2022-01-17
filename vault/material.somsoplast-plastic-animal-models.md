@@ -4,10 +4,10 @@ title_de: SOMSO-Plast – Tiermodelle aus Plastik
 created: 1629799783441
 author: Britta Lange
 short_desc_de: Materialien des Modellbaus
-date_end: 2021-08-26T13:04:38.748Z
+date_end: 2022-08-26T13:04:38.748Z
 published: false
 title: SOMSO-Plast – Plastic Animal Models
-updated: 1642156422213
+updated: 1642421553582
 id: EjCkhWUz4D4DXc9ANY8bc
 doi: 64y2-m311/46
 translators:

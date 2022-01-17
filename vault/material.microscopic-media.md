@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Microscopic Media
 title_de: Mikroskopische Medien
 created: 1618492963611
-updated: 1642118985160
+updated: 1642421880961
 id: fac2eded-a093-4ebf-986e-d94b045f7676
 author: Filippo Bertoni
 doi: 64y2-m311/60
@@ -31,7 +31,7 @@ cover_image:
 colour_scheme: 8
 tao_type: material
 date_start: 1673-12-23T18:43:39.000Z
-date_end: 2022-01-12T14:16:30.941Z
+date_end: 2022-12-12T14:16:30.941Z
 published: false
 ---
 

@@ -4,10 +4,10 @@ title_de: Journale – Register der Tiere
 created: 1620987289214
 author: Clemens Maier-Wolthausen
 short_desc_de: Übersicht der Berliner Zoobestände seit 1888
-date_end: 2021-06-30T12:21:00.358Z
+date_end: 2022-12-30T12:21:00.358Z
 published: false
 title: Journale – The Zoo Directory
-updated: 1642162006366
+updated: 1642421490587
 id: 4a663958-cb98-4cdd-967d-9b277f45cdc4
 doi: 64y2-m311/15
 translators:

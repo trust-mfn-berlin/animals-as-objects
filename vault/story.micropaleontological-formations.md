@@ -4,10 +4,10 @@ title_de: Mikropaläontologische Formationen
 created: 1618502886244
 author: Filippo Bertoni
 short_desc_de: Paläontologie mit dem Mikroskop
-date_end: 2021-07-06T11:40:11.857Z
+date_end: 2022-12-06T11:40:11.857Z
 published: false
 title: Micropaleontological Formations
-updated: 1642419867218
+updated: 1642421672122
 id: df37d6fb-33ac-4b34-bc21-3401db3aac52
 doi: 64y2-m311/3
 translators:

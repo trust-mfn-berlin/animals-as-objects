@@ -4,10 +4,10 @@ title_de: Verzettelung
 created: 1629792930385
 author: Theresa Schatt
 short_desc_de: Wissensorganisation dank loser Zettel
-date_end: 2021-08-26T23:55:43.591Z
+date_end: 2022-12-26T23:55:43.591Z
 published: false
 title: A House of Cards
-updated: 1641552813142
+updated: 1642421523799
 id: A8Dh5fk6b52EJQRaw3Qe4
 doi: 64y2-m311/42
 translators:

@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Core Samples
 title_de: Bohrkerne
 created: 1629110227049
-updated: 1642332540300
+updated: 1642421512470
 id: 02wCHNiTRZ4Zkq2cO9Cpv
 author: Filippo Bertoni
 doi: 64y2-m311/31
@@ -20,7 +20,7 @@ cover_image:
 colour_scheme: 9
 tao_type: material
 date_start: 1947-01-02T19:24:05.131Z
-date_end: 2021-12-07T19:25:46.689Z
+date_end: 2022-12-07T19:25:46.689Z
 published: false
 ---
 

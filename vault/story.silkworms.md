@@ -4,10 +4,10 @@ title_de: Seidenraupen
 created: 1629986374819
 author: Britta Lange
 short_desc_de: Spuren von Bäumen und Tieren in Berlin
-date_end: 2021-08-26T14:37:08.305Z
+date_end: 2022-08-26T14:37:08.305Z
 published: false
 title: Silkworms
-updated: 1642371203085
+updated: 1642421641433
 id: GDcruELihUsAdF7btC6KD
 doi: 64y2-m311/47
 translators:

@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Microbial Worlds
 title_de: "Mikrobielle Welten "
 created: 1618930984846
-updated: 1642177438478
+updated: 1642421611231
 id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
 author: Filippo Bertoni
 doi: 64y2-m311/34
@@ -31,7 +31,7 @@ cover_image:
 colour_scheme: 3
 tao_type: theme
 date_start: 1673-01-01T14:45:32.000Z
-date_end: 2021-12-14T14:41:44.038Z
+date_end: 2022-12-14T14:41:44.038Z
 published: false
 ---
 

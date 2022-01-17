@@ -4,10 +4,10 @@ title_de: Bohrkerne aus den Böden der Tiefsee
 created: 1619107396222
 author: Filippo Bertoni
 short_desc_de: Die globale Datensammlung am Meeresgrund
-date_end: 2021-12-23T21:52:24.799Z
+date_end: 2022-12-23T21:52:24.799Z
 published: false
 title: Deep Sea Drilling
-updated: 1642178857436
+updated: 1642421702147
 id: d76483c9-9cd4-454e-a737-fcdf683c6d0d
 doi: 64y2-m311/59
 translators:
