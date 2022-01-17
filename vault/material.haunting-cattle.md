@@ -7,7 +7,7 @@ short_desc_de: Audiogeschichten über Tiere in Berlin
 date_end: ""
 published: false
 title: Haunting Cattle
-updated: 1642424538424
+updated: 1642424914154
 id: AOZiyuOX6B0ntAdEoiiIi
 doi: 64y2-m311/66
 translators:
@@ -47,7 +47,7 @@ From abattoir to luxury [[neighbourhood|story.silk-culture]]? Sophie-Marie Kaats
 Other audio pieces tell the stories of [[material.where-the-rats-live]], [[material.cat-colonies]], [[material.berlin's-border-dogs]], and [[material.dead-animals]].
 
 
-[^1]: You are listening to excerpts from Döblin, Alfred. _Berlin Alexanderplatz_. Frankfurt am Main: Fischer Verlag, 2020: 151; Wolbt: “Der städtische Central-Viehhof in Berlin”. _Illustrierte Zeitung_ no. 2003. 19.11.1881: 445. 
+[^1]: You are listening to excerpts from Alfred Döblin. _Berlin Alexanderplatz_. Frankfurt a.M.: Fischer Verlag, 2020: 151; Wolbt: “Der städtische Central-Viehhof in Berlin”. _Illustrierte Zeitung_ no. 2003. 19.11.1881: 445. 
 
 :::DE:::
 
@@ -73,4 +73,4 @@ Vom Schlachthof zum [[Luxuskiez|story.silk-culture]] ? Sophie-Marie Kaatsch unte
 
 Weitere Hörstücke erzählen vom [[Ort der Ratten in Berlin|material.where-the-rats-live]], von [[Katzen-Kolonien|material.cat-colonies]], [[Berliner Grenzhunden|material.berlin's-border-dogs]] und [[toten Tieren|material.dead-animals]].
 
-[^1]: Sie hören Auszüge aus Döblin, Alfred. _Berlin Alexanderplatz_. Frankfurt am Main: Fischer Verlag, 2020: 151; Wolbt: “Der städtische Central-Viehhof in Berlin”. _Illustrirte Zeitung_ Nr. 2003. 19.11.1881: 445.
+[^1]: Sie hören Auszüge aus Alfred Döblin. _Berlin Alexanderplatz_. Frankfurt a.M.: Fischer Verlag, 2020: 151; Wolbt: “Der städtische Central-Viehhof in Berlin”. _Illustrirte Zeitung_ Nr. 2003. 19.11.1881: 445.
