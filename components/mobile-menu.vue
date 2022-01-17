@@ -30,12 +30,6 @@
       </li>
       
     </ul>
-
-    <!-- <your-current-route :max="5" /> -->
-
-    <!-- <div class="footer-wrap">
-      <Footer />
-    </div> -->
     
   </aside>
 </template>
