@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1642440978090
+updated: 1642442739949
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 doi: 64y2-m311/69
@@ -21,6 +21,8 @@ date_start: 2020-01-01T14:56:59.900Z
 date_end: ""
 published: false
 ---
+
+:::EN:::
 
 <figure>
 
@@ -99,7 +101,7 @@ _This is how the transponder is stored until it is placed back into the study sk
 
 </figure>
 
-In order to make the study skin, the preparator first has to remove the skin using a scalpel and a pair of scissors in order to separate it from the flesh tissue. Afterwards, the skin is mechanically cleaned of fascia and fat remains. The muscles and tendons are then removed from the remaining bone structures (fibulas, skull, shoulder and forearm) – this process is also referred to as cleaning or “defleshing”. Removing the fat and fascia from the skin and defleshing the bones is an important part of the preparator’s work, as the smell of fat and tissue remains attract insects, which can potentially [[damage|story.from-pests-to-displays]] the study skin in the collection.
+In order to make the study skin, the preparator first has to remove the skin using a scalpel and a pair of scissors in order to separate it from the flesh tissue. Afterwards, the skin is mechanically cleaned of fascia and fat remains. The muscles and tendons are then removed from the remaining bone structures (fibulas, skull, shoulder and forearm) – this process is also referred to as cleaning or ‘defleshing’. Removing the fat and fascia from the skin and defleshing the bones is an important part of the preparator’s work, as the smell of fat and tissue remains attract insects, which can potentially [[damage|story.from-pests-to-displays]] the study skin in the collection.
 
 <figure>
 
@@ -205,7 +207,7 @@ _Blow-drying and arranging the feathers. (Images: Filippo Bertoni/MfN. All right
 
 </figure>
 
-In order to produce a partial skeleton, the original bird body now has to be completely “defleshed”. But unlike the skull bones, it will not be placed back inside the study skin. The defleshed bird body was then placed in a salt solution to “bleed” it. Due to the size of the bird’s body, the preparator decided to clean the bones by enlisting the help of dermestid beetles. This meant placing the various parts of the skeleton into a container filled with dermestid beetles in a heated cabinet for several days.[^9] These scavenger beetles do not leave any tissue on the bones.
+In order to produce a partial skeleton, the original bird body now has to be completely ‘defleshed’. But unlike the skull bones, it will not be placed back inside the study skin. The defleshed bird body was then placed in a salt solution to ‘bleed’ it. Due to the size of the bird’s body, the preparator decided to clean the bones by enlisting the help of dermestid beetles. This meant placing the various parts of the skeleton into a container filled with dermestid beetles in a heated cabinet for several days.[^9] These scavenger beetles do not leave any tissue on the bones.
 
 <figure>
 
@@ -287,7 +289,7 @@ _Storing and classifying the partial skeleton in the collection. (MfN, image: Ma
 
 [^7]: Because tanning is a very lengthy process, a number of birds are usually tanned at the same time, which is why it can take some (waiting) time before tanning is carried out.
 
-[^8]: The curator can decide whether the wings should be outspread or folded together. They have to take into account the fact that the skin turns “hard” after it has been dried, meaning that it will have to be softened again in order to change the position of the wings.
+[^8]: The curator can decide whether the wings should be outspread or folded together. They have to take into account the fact that the skin turns ‘hard’ after it has been dried, meaning that it will have to be softened again in order to change the position of the wings.
 
 [^9]: Another option is to deflesh the carcass using enzymes. This means that the skeleton first spends several weeks softening to bleed the tissue and prepare it for the enzymes. For the actual defleshing process, the animal’s body is submerged in a solution with an enzyme in it. Depending on the enzyme, this process might take place in a heated cabinet. Here, the partial skeleton decomposes into its individual components, whereas when using the dermestid beetle method, the bones retain their structure.
 
@@ -319,7 +321,7 @@ In diesem Fall entschied man sich für die Herstellung eines Vogelbalges und ein
 
 Dass hier zusätzlich ein Teilskelett angefertigt wurde, hing einerseits mit der Entscheidung für eine Balgpräparation zusammen. Balgpräparation und Teilskelettherstellung bilden zumindest in der Ornithologie eine Einheit. Da wichtige Skelettteile wie Schädel und Unterschenkel im Balg verbaut und somit Originalteile verwendet werden, muss sich der oder die Kustod:in vor der Präparation entweder für ein vollständiges Skelett oder einen Balg mit Teilskelett entscheiden. In diesem Fall waren dem Vogel bei der vorhergehenden Sektion bereits die Rippen geöffnet worden, um Organe zu entnehmen. Zusätzlich war ein Teil des Brustmuskels entfernt worden.
 
-Nach der Sektion wurde der Vogel umgehend tiefgefroren und mit dem Vermerk ‘MFN’ (Museum für Naturkunde Berlin) versehen. Vom Zeitpunkt der Überweisung aus der Sektion bis zur Präparation lagerte der Vogel im Tiefkühlschrank der Präparationswerkstatt des Museums. Der erste Schritt der wissenschaftlichen Präparation fand im Sektionsraum des Naturkundemuseums statt, wo der Tierkörper zunächst in einer Salz-Supralan-Lösung aufgetaut wurde. Anschließend wurden wissenschaftliche Daten zu dem Tier erhoben, darunter Körpermaße, Eingangsnummer, Eingangsdatum und Chipnummer.[^5] Diese Informationen übertrug die Präparatorin auf ein Datenblatt.
+Nach der Sektion wurde der Vogel umgehend tiefgefroren und mit dem Vermerk ‘MFN’ (Museum für Naturkunde Berlin) versehen. Vom Zeitpunkt der Überweisung aus der Sektion bis zur Präparation lagerte der Vogel im Tiefkühlschrank der Präparationswerkstatt des Museums. Der erste Schritt der wissenschaftlichen Präparation fand im Sektionsraum des Naturkundemuseums statt, wo der Tierkörper zunächst in einer Salz-Supralan-Lösung aufgetaut wurde. Anschließend wurden [[wissenschaftliche Daten|theme.recording-worlds]] zu dem Tier erhoben, darunter [[Körpermaße|material.microscopic-media]], Eingangsnummer, Eingangsdatum und Chipnummer.[^5] Diese Informationen übertrug die Präparatorin auf ein [[Datenblatt|story.keeping-records-of-animals]].
 
 <figure>
 
@@ -339,7 +341,7 @@ _Datenblatt und Instrumente zur Vermessung, Hautgewinnung und Teilskelettbearbei
 
 <figcaption>
 
-_Vermessung des Vogelkörpers. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
+_[[Vermessung|material.logbooks-of-the-zoological-museum]] des Vogelkörpers. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -373,7 +375,7 @@ _So wird der Transponder aufbewahrt, bis er dem Balg am Ende eingesetzt wird. (F
 
 </figure>
 
-Um den Balg herzustellen, musste als erstes die Haut mit Hilfe von Skalpell und Schere abgezogen und dadurch vom sogenannten Fleischkörper getrennt werden. Anschließend wurde die Haut gereinigt, indem sie mechanisch von Bindegewebs- und Fettresten befreit wurde. Zusätzlich wurden die verbliebenen Knochenstrukturen (Unterschenkel, Schädel, Unter- und Oberarm) von Muskelfleisch und Sehen befreit – dieser Prozess wird auch als “Entfleischen” bezeichnet. Fett und Bindegewebe von der Haut zu entfernen und die Knochen zu entfleischen ist ein wichtiger Bestandteil der präparatorischen Arbeit, da durch den Geruch von Fett- und Fleischresten Insekten angelockt werden können, die den Balg in der Sammlung eventuell durch Fraß am Objekt schädigen.
+Um den Balg herzustellen, musste als erstes die Haut mit Hilfe von Skalpell und Schere abgezogen und dadurch vom sogenannten Fleischkörper getrennt werden. Anschließend wurde die Haut gereinigt, indem sie mechanisch von Bindegewebs- und Fettresten befreit wurde. Zusätzlich wurden die verbliebenen Knochenstrukturen (Unterschenkel, Schädel, Unter- und Oberarm) von Muskelfleisch und Sehen befreit – dieser Prozess wird auch als ‘Entfleischen’ bezeichnet. Fett und Bindegewebe von der Haut zu entfernen und die Knochen zu entfleischen ist ein wichtiger Bestandteil der präparatorischen Arbeit, da durch den Geruch von Fett- und Fleischresten Insekten angelockt werden können, die den Balg in der Sammlung eventuell durch [[Fraß|story.from-pests-to-displays]] am Objekt schädigen.
 
 <figure>
 
@@ -387,7 +389,7 @@ _Die Museumspräparatorin Christin Scheinpflug untersucht den Vogelkörper. (Fot
 
 </figure>
 
-Während die Fleischreste entsorgt und später außerhalb des Museums fachgerecht verbrannt wurden, wurde die Vogelhaut mit Wasser, Supralan und Shampoo mehrmals gewaschen und anschließend bis zum Gerbungstermin in einer Plastiktüte erneut im Gefrierschrank aufbewahrt.[^7]
+Während die Fleischreste [[entsorgt|material.dead-animals]] und später außerhalb des Museums fachgerecht verbrannt wurden, wurde die Vogelhaut mit Wasser, Supralan und Shampoo mehrmals gewaschen und anschließend bis zum Gerbungstermin in einer Plastiktüte erneut im Gefrierschrank aufbewahrt.[^7]
 
 <figure>
 
@@ -479,7 +481,7 @@ _Trockenföhnen und Federn legen. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbeh
 
 </figure>
 
-Für die Herstellung des Teilskeletts musste nun auch der originale Vogelkörper vollständig “entfleischt” werden, der im Gegensatz zum Schädelknochen nicht wieder in den Balg eingeführt wird. Der vom Fleisch befreite Vogelkörper wurde anschließend zum sogenannten Entbluten in eine Salzlösung gelegt. Aufgrund der geringen Größe des Vogelkörpers entschied sich die Präparatorin für eine Knochenpräparation mit Hilfe von Speckkäfern. Hierbei werden die Skelettteile für mehrere Tage in einen Behälter mit Speckkäfern in einen erwärmten Schrank gelegt.[^9] Diese aasfressenden Insekten lassen kein Fleisch an den Knochen übrig.
+Für die Herstellung des Teilskeletts musste nun auch der originale Vogelkörper vollständig ‘entfleischt’ werden, der im Gegensatz zum Schädelknochen nicht wieder in den Balg eingeführt wird. Der vom Fleisch befreite Vogelkörper wurde anschließend zum sogenannten Entbluten in eine Salzlösung gelegt. Aufgrund der geringen Größe des Vogelkörpers entschied sich die Präparatorin für eine Knochenpräparation mit Hilfe von Speckkäfern. Hierbei werden die Skelettteile für mehrere Tage in einen Behälter mit Speckkäfern in einen erwärmten Schrank gelegt.[^9] Diese aasfressenden Insekten lassen kein Fleisch an den Knochen übrig.
 
 <figure>
 
