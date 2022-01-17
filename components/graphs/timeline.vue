@@ -180,6 +180,8 @@ export default {
           tooltip.text(function(){
             if(that.$options.filters.formatDateYear(d.data.date_start) == that.$options.filters.formatDateYear(d.data.date_end)){
               return d.title + ' (' + that.$options.filters.formatDateYear(d.data.date_start) + ')'
+            } else if(that.$options.filters.formatDateYear(d.data.date_end) == 2022){
+              return d.title + ' (' + that.$options.filters.formatDateYear(d.data.date_start) + '–)'
             } else {
               return d.title + ' (' + that.$options.filters.formatDateYear(d.data.date_start) + '–' + that.$options.filters.formatDateYear(d.data.date_end) + ')'
             }
