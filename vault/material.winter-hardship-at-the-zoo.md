@@ -7,7 +7,7 @@ short_desc_de: "Ein Gedicht zur Lage "
 date_end: ""
 published: false
 title: Winter Hardship at the Zoo
-updated: 1641331356569
+updated: 1642417826215
 id: QNjsPsf49gtoKwbK4WauU
 doi: 64y2-m311/49
 translators:
@@ -40,7 +40,7 @@ _Poem by zoo visitor K. Ferber about “Winter Hardship at the Zoo”, 06.10.194
  
 </figure>
  
-A poem sent to director [[Katharina Heinroth|material.katharina-heinroth]] by a visitor in autumn 1948 does not just give us an impression of the situation at the zoo back then but also relates some of the compassion that Berlin’s population had for the fate of the zoo animals. At the zoo, as in Berlin, there was not enough of anything – not enough food, construction materials, or fuel. Back then, in the midst of the Berlin Blockade, Katharina Heinroth and her staff were on the verge of being forced to give the animals away to other zoos or to have them destroyed due to [[feed scarcity|story.feed-scarcity]]. The director thus issued a call to the population in the daily newspapers to support the zoo by donating food or gathering acorns and chestnuts. The poem is one of many other pieces of writing that reveal the willingness of Berlin’s residents to help and gives us an idea of the role that the zoo played for them during this time – as one of the few sites of recreation and possibly connected with the idea of a community united in times of trial.
+A poem sent to director [[Katharina Heinroth|material.katharina-heinroth]] by a visitor in autumn 1948 does not just give us an impression of the situation at the zoo back then but also relates some of the [[compassion|story.feeding-and-overfeeding]] that Berlin’s population had for the fate of the zoo animals. At the zoo, as in Berlin, there was not enough of anything – not enough food, construction materials, or fuel. Back then, in the midst of the Berlin Blockade, Katharina Heinroth and her staff were on the verge of being forced to give the animals away to other zoos or to [[have them destroyed|material.dead-animals]] due to [[feed scarcity|story.feed-scarcity]]. The director thus issued a call to the population in the daily newspapers to support the zoo by donating food or gathering acorns and chestnuts. The [[poem|story.silk-culture]] is one of many other pieces of writing that reveal the willingness of Berlin’s residents to help and gives us an idea of the role that the zoo played for them during this time – as one of the few sites of recreation and possibly connected with the idea of a community united in times of trial.
 
 ## Transcript
  
@@ -102,7 +102,7 @@ _Gedicht des Zoobesuchers K. Ferber über die “Wintersnot im Zoo”, 06.10.194
  
 </figure>
  
-Das Gedicht, das ein Zoobesucher im Herbst 1948 an die Direktorin [[Katharina Heinroth|material.katharina-heinroth]] sandte, gibt nicht nur einen Eindruck von der damaligen Lage im Berliner Zoo. Es berichtet auch von der Anteilnahme der Berliner Bevölkerung am Schicksal der Zootiere. Im Zoo wie in der Bevölkerung Berlins fehlte es damals an allem – an Essen, Baustoffen, Heizmaterial. Katharina Heinroth und ihre Mitarbeiter:innen standen damals, mitten in der Zeit der Berlin-Blockade, als dieses Gedicht entstand, kurz davor, wegen [[Futtermangels|story.feed-scarcity]] Tiere an andere Zoos abgeben oder notschlachten zu müssen. Die Direktorin rief daher in Tageszeitungen die Bevölkerung dazu auf, den Zoo durch Essenspenden oder das Sammeln von Eicheln und Kastanien zu unterstützen. Das Gedicht ist eins von vielen weiteren Schreiben, die die Hilfsbereitschaft der Berliner:innen zeigen und deutet darauf hin, welche Rolle der Zoo in dieser Zeit für sie spielte – als einer der wenigen Orte der Erholung und womöglich verbunden mit der Vorstellung einer Schicksalsgemeinschaft in Zeiten der Not.
+Das Gedicht, das ein Zoobesucher im Herbst 1948 an die Direktorin [[Katharina Heinroth|material.katharina-heinroth]] sandte, gibt nicht nur einen Eindruck von der damaligen Lage im Berliner Zoo. Es berichtet auch von der [[Anteilnahme|story.feeding-and-overfeeding]] der Berliner Bevölkerung am Schicksal der Zootiere. Im Zoo wie in der Bevölkerung Berlins fehlte es damals an allem – an Essen, Baustoffen, Heizmaterial. Katharina Heinroth und ihre Mitarbeiter:innen standen damals, mitten in der Zeit der Berlin-Blockade, als dieses [[Gedicht|story.silk-culture]] entstand, kurz davor, wegen [[Futtermangels|story.feed-scarcity]] Tiere an andere Zoos abgeben oder [[notschlachten|material.dead-animals]] zu müssen. Die Direktorin rief daher in Tageszeitungen die Bevölkerung dazu auf, den Zoo durch Essenspenden oder das Sammeln von Eicheln und Kastanien zu unterstützen. Das Gedicht ist eins von vielen weiteren Schreiben, die die Hilfsbereitschaft der Berliner:innen zeigen und deutet darauf hin, welche Rolle der Zoo in dieser Zeit für sie spielte – als einer der wenigen Orte der Erholung und womöglich verbunden mit der Vorstellung einer Schicksalsgemeinschaft in Zeiten der Not.
 
 ## Transkript
  
