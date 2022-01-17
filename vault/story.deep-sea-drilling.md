@@ -3,7 +3,7 @@ license: CC BY-SA
 title_de: Bohrkerne aus den Böden der Tiefsee
 created: 1619107396222
 author: Filippo Bertoni
-short_desc_de: Die globale Datensammlung am Meeresgrund
+short_desc_de: Globales Datensammeln am Meeresgrund
 date_end: 2022-12-23T21:52:24.799Z
 published: false
 title: Deep Sea Drilling
