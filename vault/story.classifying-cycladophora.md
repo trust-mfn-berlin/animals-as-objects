@@ -7,7 +7,7 @@ short_desc_de: Taxonomie jenseits der Tierwelt
 date_end: 1887-12-31T11:06:32.000Z
 published: false
 title: Classifying Cycladophora
-updated: 1642418499133
+updated: 1642419119854
 id: aIG4TDxqQbsrl43uiSyGE
 doi: 10.7479/64y2-m311/1
 translators:
@@ -91,7 +91,7 @@ Nachdem Ehrenberg sich mit Shaffner über seine Ergebnisse ausgetauscht hatte, p
 
 **Im Gegensatz zu Ehrenberg, der Infusorien für vollwertige Tiere hielt, die, genau wie größere Tiere, über komplexe innere Organe verfügten, betrachtete Haeckel sie als einzellige Vorfahren komplexerer Lebensformen.** Dieses Verständnis baute auf der damals in Deutschland aufkommenden Zelltheorie auf, die Ehrenberg rundheraus ablehnte. Doch während Haeckel versuchte, die Radiolarien (einschließlich _C. davisiana_) in ein natürliches System einzuordnen, das ihre eigene Evolutionsgeschichte widerspiegelte, gelangte er zu der Überzeugung, dass ihre evolutionären Veränderungen _langsam_ vonstattengingen. Zudem nahm er an, dass Radiolarienarten ein großes Verbreitungsgebiet aufwiesen und im Laufe der geologischen Geschichte des Planeten weitgehend unverändert geblieben waren. In Haeckels detailliertem Bericht zu den Radiolarien, den er im Rahmen der Expedition der HMS Challenger verfasste, wurde diese Annahme bestätigt. Haeckel verbannte die Radiolarien damit unbeabsichtigt beinahe in eine [[mikropaläontologische Sackgasse|story.micropaleontological-evolutionary-dead-ends]], da sich Naturforschende auf andere, als interessanter und nützlicher angesehene Arten konzentrierten. Als die Exemplare der Ehrenberg Collection zunehmend verblichen und in Vergessenheit gerieten, verschwand auch _Cycladophora davisiana_ aus dem Blickfeld. Zumindest bis andere Wege der [[Nutzung|story.using-cycladophora]] sie fast ein Jahrhundert später wieder zum Vorschein brachten.[^4]
 
-[^1]: Es gibt mehrere Biografien zu Ehrenberg. Um einen guten Überblick zu erhalten, siehe David M. Williams and Robert Huxley. _Christian Gottfried Ehrenberg (1795-1876): The Man and His Legacy_. London: Acad. Press, 1998. Die Einleitung ist online verfügbar unter: https://ca1-tls.edcdn.com/Special-Issue-1-Christian-Gottfried-Ehrenberg-1795-1876-The-Man-and-His-Legacy-Small.pdf?mtime=20160715141137 (03.01.2022). Eine deutsche Biografie findet sich online unter: Johannes v. Hanstein. “Ehrenberg, Christian Gottfried”. In _Allgemeine Deutsche Biographie 5_, 1877: 701-711. https://www.deutsche-biographie.de/pnd118529250.html#adbcontent (03.01.2022).
+[^1]: Es gibt mehrere Biografien zu Ehrenberg. Um einen guten Überblick zu erhalten, siehe David M. Williams und Robert Huxley. _Christian Gottfried Ehrenberg (1795-1876): The Man and His Legacy_. London: Acad. Press, 1998. Die Einleitung ist online verfügbar unter: https://ca1-tls.edcdn.com/Special-Issue-1-Christian-Gottfried-Ehrenberg-1795-1876-The-Man-and-His-Legacy-Small.pdf?mtime=20160715141137 (03.01.2022). Eine deutsche Biografie findet sich online unter: Johannes v. Hanstein. “Ehrenberg, Christian Gottfried”. In _Allgemeine Deutsche Biographie 5_, 1877: 701-711. https://www.deutsche-biographie.de/pnd118529250.html#adbcontent (03.01.2022).
 
 [^2]: Die Präparation war erfolgreich, denn das Originalexemplar von _C. davisiana_ befindet sich noch heute neben vielen anderen mit Kanadabalsam überzogenen Präparaten auf Glimmerplättchen in der Ehrenberg Sammlung des Museums für Naturkunde Berlin.
 
