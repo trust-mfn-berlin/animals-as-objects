@@ -54,9 +54,10 @@ export default {
       if(window){
 
         if(window.innerWidth < 501){
-          this.attr.width = window.innerWidth*2;
-          this.attr.lineWidth = 20;
-          this.attr.spaceMultiplier = 25;
+          return //dont render timeline on mobile
+          // this.attr.width = window.innerWidth*2;
+          // this.attr.lineWidth = 20;
+          // this.attr.spaceMultiplier = 25;
         } else {
           this.attr.width = window.innerWidth - this.attr.lineWidth;
           // this.attr.lineWidth = 32;
@@ -406,7 +407,7 @@ export default {
 
   position: relative;
   left:0;
-  filter: drop-shadow(0 0 5px @bg);
+  filter: drop-shadow(0 0 3px @bg);
 
   .domain{
     stroke:none;
