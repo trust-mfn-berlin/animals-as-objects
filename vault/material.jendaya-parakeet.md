@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1642442739949
+updated: 1642442819940
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 doi: 64y2-m311/69
@@ -509,7 +509,7 @@ _Vogelbälge auf dem Weg in die Sammlung. (Foto: Mareike Vennen. Alle Rechte vor
 
 </figure>
 
-Dort übertrug der Sammlungspfleger Pascal Eckhoff die Informationen des Datenblatts in die digitale Sammlungsdatenbank.[^10] Aus dieser kann man auch ersehen, dass das Tier nicht das erste Exemplar von _Aratinga jandaya_ in der Vogelsammlung des Museums ist. In den Jahren 1895 und 1923 erhielt die Sammlung bereits zwei Exemplare für die Balgsammlung. Außerdem befinden sich weitere Jendayasittiche in Alkohol und als Skelett in der Vogelsammlung.
+Dort übertrug der Sammlungspfleger Pascal Eckhoff die Informationen des Datenblatts in die digitale Sammlungsdatenbank.[^10] Aus dieser kann man auch ersehen, dass das Tier nicht das erste Exemplar von _Aratinga jandaya_ in der Vogelsammlung des Museums ist. In den Jahren 1895 und 1923 erhielt die Sammlung bereits zwei Exemplare für die Balgsammlung. Außerdem befinden sich weitere Jendayasittiche in [[Alkohol|material.an-iguana-preserved-in-alcohol]] und als Skelett in der Vogelsammlung.
 
 <figure>
 
