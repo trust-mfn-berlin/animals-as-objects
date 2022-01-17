@@ -132,7 +132,7 @@ export default {
       article = await payload;
       fn = article.fn;
       store.commit('setArticleTaoType', article.tao_type);
-      if(article.hasFootnotes){
+      if(article.hasFootnotes && fn.en.body.children){
         for (let i = 0; i < fn.en.body.children[3].children.length; i++) {
           const element = fn.en.body.children[3].children[i];
           if(element.props){
@@ -155,9 +155,9 @@ export default {
         fn = article.fn;
         store.commit('setArticleTaoType', article.tao_type);
         // Change ID for separate footnotes
-        if(article.hasFootnotes){
-        for (let i = 0; i < fn.en.body.children[3].children.length; i++) {
-          const element = fn.en.body.children[3].children[i];
+        if(article.hasFootnotes && fn.en.body.children){
+          for (let i = 0; i < fn.en.body.children[3].children.length; i++) {
+            const element = fn.en.body.children[3].children[i];
             if(element.props){
               if(element.props.id){
                 fn.en.body.children[3].children[i].props.id = "sidebar-" + element.props.id;
