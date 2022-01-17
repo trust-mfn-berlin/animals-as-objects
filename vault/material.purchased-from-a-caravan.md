@@ -7,7 +7,7 @@ short_desc_de: Geschichten, die uns Tierschädel erzählen
 date_end: ""
 published: false
 title: Purchased from a Caravan
-updated: 1642413972895
+updated: 1642438513776
 id: VzxTWqgWM3FzLdS5Z2DUO
 doi: 64y2-m311/58
 translators:
@@ -96,7 +96,7 @@ Die geografische Verortung zählt zu den wichtigsten [[Informationen|story.keepi
 
 Darüber hinaus liefern die Beschriftungen wichtige _historische_ Einblicke in die Praxis des [[Sammelns|story.catching-animals]] und der Dokumentation während der Kolonialzeit. Im vorliegenden Fall gibt die Beschriftung Aufschluss über die Abfolge der Verwahrung, bzw. der (Vor-)Besitzer:innen der Tiere. Die Materialität der Schädel selbst liefert einen schriftlichen Hinweis auf ihre jeweilige Hintergrundgeschichte, ihre Provenienz. Wir erfahren, dass die Objekte von “Julius Reimer V.” und “Oscar Neumann S.” stammen. Das bedeutet, dass die Schädel von dem deutschen Händler Julius Reimer (1880–1958) gekauft wurden (‘V’ bedeutet ‘Verkauft’), der sie zuvor, vermutlich auf Sansibar, von dem prominenten Sammler und Mitarbeiter des Zoologischen Museums Berlin, Oscar Neumann (1867–1946), erworben hatte (‘S’ bedeutet ‘Sammlung’). Sowohl Reimer als auch Neumann werden namentlich genannt, während die ‘Karawane’ ebenso wie der ‘Bezirk Lindi’ sehr vage Angaben sind. Dies unterstreicht den einseitigen Blick des kolonialen Archivs auf die Rolle europäischer Akteure, während lokale Akteure – darunter Jäger:innen und Händler:innen, die entscheidenden Anteil am Aufbau europäischer  Sammlungen hatten – aus der historischen Dokumentation getilgt wurden.
 
-[[Beschriftungen|material.labels-and-knowledge]] wie diese bieten uns Einblicke in den kolonialen Kontext der Beschaffung und Sammlung von Objekten. Sie liefern uns Hinweise über die bloße taxonomische Klassifikation hinaus. Um zu rekonstruieren, woher diese Schädel genau stammten und welche [[Wege|theme.logistical-metabolisms]] zurücklegten, ehe sie ins Museum für Naturkunde Berlin gelangten, müssen die auf den Objekten und im Katalog enthaltenen Informationen mit anderen historischen Quellen aus dem historischen Archiv sowie weiteren materiellen Quellen abgeglichen werden. Die Provenienzforschung ist ein zentraler Faktor für ein besseres Verständnis naturkundlicher Sammlungen.
+&#8203;[[Beschriftungen|material.labels-and-knowledge]] wie diese bieten uns Einblicke in den kolonialen Kontext der Beschaffung und Sammlung von Objekten. Sie liefern uns Hinweise über die bloße taxonomische Klassifikation hinaus. Um zu rekonstruieren, woher diese Schädel genau stammten und welche [[Wege|theme.logistical-metabolisms]] zurücklegten, ehe sie ins Museum für Naturkunde Berlin gelangten, müssen die auf den Objekten und im Katalog enthaltenen Informationen mit anderen historischen Quellen aus dem historischen Archiv sowie weiteren materiellen Quellen abgeglichen werden. Die Provenienzforschung ist ein zentraler Faktor für ein besseres Verständnis naturkundlicher Sammlungen.
 
 [^1]: Mehr über die nomenklatorische Praxis findet sich bei Michael Ohl. _Die Kunst der Benennung_. Berlin: Matthes & Seitz 2015.
 
