@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1642208489718
+updated: 1642423396286
 id: d54394f6-1188-4ec3-b590-da329e657560
 doi: 64y2-m311/23
 translators:
@@ -382,7 +382,7 @@ Doch auch die Unterstützung der Bevölkerung reichte nicht aus. Aber wer war f�
 
 <figure>
 
-![Maschinenabschrift. Überschriften: Tierbestand; Futtermittel des Zoos für einen Monat. Für Transkript, siehe Link in Bildunterschrift.](/images/mv/feed-requirements-futtermittelbedarf.jpg)
+![Maschinenabschrift. Überschriften: Tierbestand; Futtermittel des Zoos für einen Monat. Für Transkript, siehe Link in Bildunterschrift.](/images/feed-requirements-futtermittelbedarf.jpg)
 
 <figcaption>
 
