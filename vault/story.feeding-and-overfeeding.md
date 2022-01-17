@@ -57,7 +57,7 @@ What followed was a controversial debate, both inside and outside zoos, about th
 
 ## Forms of Feeding and Nutritional Knowledge
 
-From the 19th century onwards, zoos in Germany and elsewhere set up kitchens for the preparation of feed for their animals. These were run by feeding experts, often advised by veterinarians. The Unter den Linden Aquarium in Berlin employed a “Küchenmeister”, or “kitchen master”, from the 1880s onwards, and Frankfurt Zoo set up its own feeding kitchen as early as 1875. However, these were still located outside the zoo grounds. Nowadays, the kitchens are usually integrated into the zoo’s service and maintenance area.
+From the 19th century onwards, zoos in Germany and elsewhere set up kitchens for the preparation of feed for their animals. These were run by feeding experts, often advised by veterinarians. The Unter den Linden Aquarium in Berlin employed a ‘Küchenmeister’, or kitchen master, from the 1880s onwards, and Frankfurt Zoo set up its own feeding kitchen as early as 1875. However, these were still located outside the zoo grounds. Nowadays, the kitchens are usually integrated into the zoo’s service and maintenance area.
 
 <figure>
 
@@ -141,7 +141,7 @@ Was folgte, war eine kontroverse Debatte über die richtige Ernährung (und Beha
 
 ## Futterweisen und Futterwissen
 
-Für die Ernährung der Tiere wurden in den Zoos in Deutschland und anderswo ab dem 19. Jahrhundert Futterküchen eingerichtet, für die Futtermeister, häufig beraten durch Veterinärmediziner,  zuständig waren.[^2] Im Aquarium Unter den Linden in Berlin war ab den 1880er Jahren eigens ein “Küchenmeister” angestellt und der Frankfurter Zoo richtete bereits 1875 eine eigene Futterküche ein. Diese lag allerdings noch außerhalb des Zoogeländes; inzwischen sind die Küchen dagegen üblicherweise in den Komplex des Wirtschaftshofs integriert.
+Für die Ernährung der Tiere wurden in den Zoos in Deutschland und anderswo ab dem 19. Jahrhundert Futterküchen eingerichtet, für die Futtermeister, häufig beraten durch Veterinärmediziner,  zuständig waren.[^2] Im Aquarium Unter den Linden in Berlin war ab den 1880er Jahren eigens ein ‘Küchenmeister’ angestellt und der Frankfurter Zoo richtete bereits 1875 eine eigene Futterküche ein. Diese lag allerdings noch außerhalb des Zoogeländes; inzwischen sind die Küchen dagegen üblicherweise in den Komplex des Wirtschaftshofs integriert.
 
 <figure>
 

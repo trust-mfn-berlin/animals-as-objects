@@ -4,10 +4,10 @@ title_de: Zoos und Artenschutz
 created: 1618994200982
 author: Clemens Maier-Wolthausen
 short_desc_de: Ausstellen oder schützen?
-date_end: 2021-12-30T23:00:00.000Z
+date_end: 2022-12-30T23:00:00.000Z
 published: false
 title: Zoos and Conservation
-updated: 1642329128501
+updated: 1642421622397
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 doi: 64y2-m311/75
 desc: Since only a relatively short time zoos intensify their conservation efforts.

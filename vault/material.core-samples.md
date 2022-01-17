@@ -1,27 +1,27 @@
 ---
 license: CC BY-SA
-title_de: Kernproben
-created: 1629110227049
-author: Filippo Bertoni
-short_desc_de: Zylinderförmige Proben aus durch Bohrungen gewonnenen Sedimentschichten.
-date_end: 2021-12-07T19:25:46.689Z
-published: false
 title: Core Samples
-updated: 1642332540300
+title_de: Bohrkerne
+created: 1629110227049
+updated: 1642421512470
 id: 02wCHNiTRZ4Zkq2cO9Cpv
+author: Filippo Bertoni
 doi: 64y2-m311/31
 translators:
   translator_en_de: ""
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
-desc: Cylindrical samples obtained by drilling into sediment or other materials.
-desc_de: Zylinderförmige Proben aus durch Bohrungen gewonnenen Sedimentschichten.
-short_desc: Cylindrical samples obtained by drilling into sediment or other materials.
+desc: Archives of planetary knowledge
+desc_de: Archive des Erdwissens
+short_desc: Archives of planetary knowledge
+short_desc_de: Archive des Erdwissens
 cover_image:
   image: /images/cores.png
 colour_scheme: 9
 tao_type: material
 date_start: 1947-01-02T19:24:05.131Z
+date_end: 2022-12-07T19:25:46.689Z
+published: false
 ---
 
 

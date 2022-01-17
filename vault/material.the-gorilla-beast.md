@@ -1,25 +1,25 @@
 ---
 license: CC BY-SA
-title_de: Die “Bestie Gorilla”
+title: The ‘Gorilla Beast’
+title_de: Die ‘Bestie Gorilla’
 created: 1640365282699
-author: Britta Lange
-short_desc_de: "Zu einem Beispiel kolonialer Ikonografie "
-date_end: 1903-12-24T18:00:39.000Z
-published: false
-title: The “Gorilla Beast”
 updated: 1642165077008
 id: H40I2GIwYN6393S3tIUHI
+author: Britta Lange
 doi: 64y2-m311/61
 translators:
   translator_de_en: Lydia J. White
 desc: An example of colonial iconography
 desc_de: "Zu einem Beispiel kolonialer Ikonografie "
 short_desc: An example of colonial iconography
+short_desc_de: "Zu einem Beispiel kolonialer Ikonografie "
 cover_image:
   image: /images/lange-3.jpg
 colour_scheme: 7
 tao_type: material
 date_start: 1901-12-24T18:00:39.000Z
+date_end: 1903-12-24T18:00:39.000Z
+published: false
 ---
 
 :::EN:::
@@ -36,7 +36,7 @@ _The “giant gorilla”[^2] dermoplastic taxidermy mounted by the Hamburg compa
 
 </figure>
 
-In 1903 at the German Colonial Hunting Exhibition held near Karlsruhe, Hamburg company J.F.G. Umlauff presented a selection of ethnographica from the German colonies as well as a number of [[hunting trophies|material.an-evocative-image-of-the-empire]]. In their Africa section, they began by displaying a photo of a “giant gorilla” (in German: “Riesen-Gorilla”) taxidermy that had been prepared in 1901 together with four real gorilla skulls. During the exhibition, they were able to supplement these exhibits with a dermoplastic taxidermy of another gorilla that had been ordered specially for the hunting exhibition – using a technology that pulls the animal’s real skin over a plastic replica. It was an exhibit of a new “giant gorilla” that had been brought “to Europe as the second fully grown specimen”, [^1] as the _Deutsche Kolonial-Zeitung_ (German Colonial Newspaper) reported. Both dermoplastic specimens, mounted in 1901 and 1903 respectively, presented the gorilla as a “beast”, as a savage, threatening animal – following in the footsteps of an iconography that had been established in the late 19th century, creating an antithesis to depictions of gorillas as peace-loving, social animals that still persists today.
+In 1903 at the German Colonial Hunting Exhibition held near Karlsruhe, Hamburg company J.F.G. Umlauff presented a selection of ethnographica from the German colonies as well as a number of [[hunting trophies|material.an-evocative-image-of-the-empire]]. In their Africa section, they began by displaying a photo of a “giant gorilla” (in German: “Riesen-Gorilla”) taxidermy that had been prepared in 1901 together with four real gorilla skulls. During the exhibition, they were able to supplement these exhibits with a dermoplastic taxidermy of another gorilla that had been ordered specially for the hunting exhibition – using a technology that pulls the animal’s real skin over a plastic replica. It was an exhibit of a new “giant gorilla” that had been brought “to Europe as the second fully grown specimen”, [^1] as the _Deutsche Kolonial-Zeitung_ (German Colonial Newspaper) reported. Both dermoplastic specimens, mounted in 1901 and 1903 respectively, presented the gorilla as a ‘beast’, as a savage, threatening animal – following in the footsteps of an iconography that had been established in the late 19th century, creating an antithesis to depictions of gorillas as peace-loving, social animals that still persists today.
 
 In 1901, the ethnographica and natural history dealer Umlauff had helped to shape this spectacular presentation form after buying off a boat the skin and skeleton of a gorilla shot during a hunt in Cameroon by Hans Paschen, a colonial officer.
 

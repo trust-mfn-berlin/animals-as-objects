@@ -64,7 +64,7 @@ _Elephant carcass at Berlin Zoo after a bombing raid in 1943. (AZGB. All rights 
 
 </figure>
 
-The Asian elephant bull “Siam” was one of the few surviving animals. He had actually been brought to Germany from the British colony of Ceylon, now Sri Lanka, as a so-called [[wild catch|story.catching-animals]], to join the Krone Circus. However, when “Siam” showed behavioral problems, the circus sought a way to get rid of what was labelled a “bad” animal, and gave “Siam” to Berlin Zoo in 1933. He was the only one of Berlin Zoo’s nine elephants to survive the war. Seven had been killed in the bombing raids of [[November 1943|material.list-of-dead-zoo-animals]].
+The Asian elephant bull “Siam” was one of the few surviving animals. He had actually been brought to Germany from the British colony of Ceylon, now Sri Lanka, as a so-called [[wild catch|story.catching-animals]], to join the Krone Circus. However, when “Siam” showed behavioral problems, the circus sought a way to get rid of what was labelled a ‘bad’ animal, and gave “Siam” to Berlin Zoo in 1933. He was the only one of Berlin Zoo’s nine elephants to survive the war. Seven had been killed in the bombing raids of [[November 1943|material.list-of-dead-zoo-animals]].
 
 <figure>
 
@@ -318,7 +318,7 @@ _Elefantenkadaver im Berliner Zoo nach einem Bombenangriff 1943. (AZGB. Alle Rec
 
 </figure>
 
-Zu den wenigen überlebenden Tieren gehörte der asiatische Elefantenbulle “Siam”. Als sogenannter [[Wildfang|story.catching-animals]] von der britischen Kolonie Ceylon, dem heutigen Sri Lanka, nach Deutschland gebracht, war er eigentlich für den Zirkus Krone bestimmt gewesen. Als “Siam” dort jedoch Verhaltensauffälligkeiten zeigte, suchte der Zirkus einen Weg, das “böse” Tier wieder loszuwerden und gab “Siam” 1933 an den Berliner Zoo ab. Er war der Einzige von neun Elefanten im Berliner Zoo, der den Krieg überlebte. Sieben waren bei den Bombenangriffen im [[November 1943|material.list-of-dead-zoo-animals]] getötet worden.
+Zu den wenigen überlebenden Tieren gehörte der asiatische Elefantenbulle “Siam”. Als sogenannter [[Wildfang|story.catching-animals]] von der britischen Kolonie Ceylon, dem heutigen Sri Lanka, nach Deutschland gebracht, war er eigentlich für den Zirkus Krone bestimmt gewesen. Als “Siam” dort jedoch Verhaltensauffälligkeiten zeigte, suchte der Zirkus einen Weg, das ‘böse’ Tier wieder loszuwerden und gab “Siam” 1933 an den Berliner Zoo ab. Er war der Einzige von neun Elefanten im Berliner Zoo, der den Krieg überlebte. Sieben waren bei den Bombenangriffen im [[November 1943|material.list-of-dead-zoo-animals]] getötet worden.
 
 <figure>
 

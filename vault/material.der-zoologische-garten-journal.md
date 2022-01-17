@@ -4,10 +4,10 @@ title_de: “Der Zoologische Garten”
 created: 1618496596303
 author: Clemens Maier-Wolthausen
 short_desc_de: Wissenschaftlicher Austausch zwischen Zoos
-date_end: 2021-07-06T11:19:57.448Z
+date_end: 2022-12-06T11:19:57.448Z
 published: false
 title: “Der Zoologische Garten”
-updated: 1642100126429
+updated: 1642421863453
 id: cdaa8a05-6456-4b87-a663-c755790440d3
 doi: 64y2-m311/16
 translators:

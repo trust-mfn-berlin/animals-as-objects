@@ -246,7 +246,7 @@ Connections such as the ones outlined here and the ensuing interdependencies and
 
 [^20]: This is the entry in Dunlop, 2012.
 
-[^21]: Howell’s studies from 1881 had already proven that human blood and haemolymphe (“blood”) in the limulus coagulate in a similar way. But it was not until 70 years later that his studies were taken further, when Bang described a bacterial infection in a population of horseshoe crabs that caused their blood to coagulate in 1956. Cf. Liebsch, Manfred. “Die Geschichte der Validierung des LAL- Tests”. _ALTEX_ 12, no. 2 (1995): 76-80, 78.
+[^21]: Howell’s studies from 1881 had already proven that human blood and haemolymphe (‘blood’) in the limulus coagulate in a similar way. But it was not until 70 years later that his studies were taken further, when Bang described a bacterial infection in a population of horseshoe crabs that caused their blood to coagulate in 1956. Cf. Liebsch, Manfred. “Die Geschichte der Validierung des LAL- Tests”. _ALTEX_ 12, no. 2 (1995): 76-80, 78.
 
 [^22]: On the history of the LAL test, see, e.g., Levin J. “The History of the Development of the Limulus Amebocyte Lysate Test”. _Progress in Clinical and Biological Research_ 189 (1985): 3-30.
 
@@ -479,7 +479,7 @@ Verbindungen wie die hier geschilderten und die damit verknüpften Abhängigkeit
 
 [^20]: Dies ist der Eintrag in Dunlop, 2012.
 
-[^21]: Durch die Untersuchungen von Howell im Jahr 1885 waren schon damals die Ähnlichkeiten zwischen der Gerinnung des Blutes beim Menschen und der Gerinnung der Hämolymphe (“Blut”) beim Limulus nachgewiesen worden. Doch erst 70 Jahre später wurden die Untersuchungen weiterverfolgt, als Bang 1956 eine bakterielle Infektion in einer Pfeilschwanzkrebs-Population beschrieb, die zur Gerinnung des Blutes führte. (Vgl. Liebsch, Manfred. “Die Geschichte der Validierung des LAL- Tests”. _ALTEX_ 12, Nr. 2 (1995): 76-80, 78.
+[^21]: Durch die Untersuchungen von Howell im Jahr 1885 waren schon damals die Ähnlichkeiten zwischen der Gerinnung des Blutes beim Menschen und der Gerinnung der Hämolymphe (‘Blut’) beim Limulus nachgewiesen worden. Doch erst 70 Jahre später wurden die Untersuchungen weiterverfolgt, als Bang 1956 eine bakterielle Infektion in einer Pfeilschwanzkrebs-Population beschrieb, die zur Gerinnung des Blutes führte. (Vgl. Liebsch, Manfred. “Die Geschichte der Validierung des LAL- Tests”. _ALTEX_ 12, Nr. 2 (1995): 76-80, 78.
 
 [^22]: Zur Geschichte des LAL-Test vgl. etwa Levin J. “The History of the Development of the Limulus Amebocyte Lysate Test”. _Progress in Clinical and Biological Research_ 189 (1985): 3-30.
 

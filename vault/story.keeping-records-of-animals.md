@@ -4,10 +4,10 @@ title_de: Tiere verzeichnen
 created: 1635148858347
 author: Mareike Vennen
 short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
-date_end: 2021-10-25T08:44:25.273Z
+date_end: 2022-10-25T08:44:25.273Z
 published: false
 title: Keeping Records of Animals
-updated: 1641302664183
+updated: 1642421689265
 id: zrAZZTgVehO9zeVbW4dMX
 doi: 64y2-m311/30
 translators:
@@ -137,7 +137,7 @@ The repercussions can still be felt today, not least in attempts to trace the or
  
 [^1]: In the Zoological Museum, gifts vastly outweighed purchases: in 1902, the museum recorded 932 gifts and 547 purchases; in 1908 there were 2,413 gifts versus 1,145 purchases; and in 1913, 3,127 gifts compared with 870 purchases; cf. Angermann, Renate. “Die Säugetierkollektion des Museums für Naturkunde der Humboldt-Universität zu Berlin”. _Säugetierkundliche Informationen_ 3, no. 13 (1989): 47-68.
  
-[^2]:  K. A. Möbius to the Ministerium für geistliche Angelegenheiten („the Prussian Ministry of Education“), 27.02.1889, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I, Bl. 25; L. Heck to the Zoological Museum 01.01.1890, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten, I, Bl. 32.
+[^2]:  K. A. Möbius to the Ministerium für geistliche Angelegenheiten (“the Prussian Ministry of Education”), 27.02.1889, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I, Bl. 25; L. Heck to the Zoological Museum 01.01.1890, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten, I, Bl. 32.
  
 [^3]: Back then, the aquarium usually delivered the animals to the museum free of charge. They were generally transported in collective consignments by one of the zoo’s vehicles; in urgent cases, the museum sent its own messenger; cf. O. Heinroth to A. Brauer, 15.04.1915, in MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I; Zoo to MfN, 06.08.1925, MfN, HBSB, S004-02-05 no. 97.
  
@@ -165,7 +165,7 @@ The repercussions can still be felt today, not least in attempts to trace the or
  
 [^15]: Cf. MfN, HBSB, S004-02-05 no. 97.
  
-[^16]: According to the “Elephant Database”, the African steppe elephant was born in Sudan in 1875 and imported to Germany by ship in 1888; cf. Koehl, Dan “Mary, African Savanna Elephant (_Loxodonta africana_) Located at Berlin Zoo in Germany”. _Elephant Encyclopedia_,2021, https://www.elephant.se/database2.php?elephant_id=3912 (23.08.2021).
+[^16]: According to the “Elephant Database”, the African steppe elephant was born in Sudan in 1875 and imported to Germany by ship in 1888; cf. Koehl, Dan “Mary, African Savanna Elephant (_Loxodonta africana_) Located at Berlin Zoo in Germany”. _Elephant Encyclopedia_,2021. https://www.elephant.se/database2.php?elephant_id=3912 (23.08.2021).
  
 [^17]: L. Zukowsky to H. Pohle, 29.11.1932, MfN, HBSB, S004-02-05 no. 97; see also Dr Hauchecorne to P. Matschie, 20.03.1925, MfN, HBSB, S004-02-05 no. 97.
  
@@ -307,7 +307,7 @@ Die Nachwirkungen sind bis heute spürbar, nicht zuletzt bei dem Versuch, die He
  
 [^15]: Vgl. MfN, HBSB, S004-02-05 Nr. 97.
  
-[^16]: Laut der “Elephant Database” wurde der afrikanische Steppenelefant 1875 im Sudan geboren und 1888 mit dem Schiff nach Deutschland importiert; vgl. Koehl, Dan “Mary, African Savanna Elephant (_Loxodonta africana_) Located at Berlin Zoo in Germany”. _Elephant Encyclopedia_,2021, https://www.elephant.se/database2.php?elephant_id=3912 (23.08.2021).
+[^16]: Laut der “Elephant Database” wurde der afrikanische Steppenelefant 1875 im Sudan geboren und 1888 mit dem Schiff nach Deutschland importiert; vgl. Koehl, Dan “Mary, African Savanna Elephant (_Loxodonta africana_) Located at Berlin Zoo in Germany”. _Elephant Encyclopedia_,2021. https://www.elephant.se/database2.php?elephant_id=3912 (23.08.2021).
  
 [^17]: L. Zukowsky an H. Pohle, 29.11.1932, MfN, HBSB, S004-02-05 Nr. 97; vgl. auch Dr. Hauchecorne an Paul Matschie, 20.03.1925, MfN, HBSB, S004-02-05 Nr. 97.
  

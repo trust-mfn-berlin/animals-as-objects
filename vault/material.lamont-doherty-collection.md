@@ -4,10 +4,10 @@ title_de: Lamont-Doherty-Sammlung
 created: 1629110187218
 author: Filippo Bertoni
 short_desc_de: Eine bedeutende Langzeitsammlung mikropaläontologischer Präparate
-date_end: 2021-12-07T18:56:55.735Z
+date_end: 2022-12-07T18:56:55.735Z
 published: false
 title: Lamont-Doherty Collection
-updated: 1642257303790
+updated: 1642421533295
 id: YJrLgXqicVoVnrM8FtHXU
 doi: 64y2-m311/39
 translators:
@@ -56,7 +56,7 @@ _This video shows the unboxing of the collection as it arrived at the Museum fü
 
 [^2]: See “History of the Core Repository”. _Columbia Climate School_, not date, https://www.ldeo.columbia.edu/core-repository/about-us/core-repository-history (03.01.2022).
 
-[^3]: To better understand the implications of these transformations in global political ecologies, see Edwards, Paul. _A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming_. Cambridge (MA) and London: MIT press, 2010.
+[^3]: To better understand the implications of these transformations in global political ecologies, see Edwards, Paul. _A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming_. Cambridge: MIT press, 2010.
 
 [^4]: Learn more about the micropaleontology group at Berlin’s Natural History Museum at “Micropaleontology Collections”. _Museum für Naturkunde Berlin_, no date, https://www.museumfuernaturkunde.berlin/en/science/micropaleontology-collections (03.01.2022).
 
@@ -91,6 +91,6 @@ _Dieses Video zeigt das Auspacken der Sammlung nach ihrem Eintreffen im Museum f
 
 [^2]: Siehe “History of the Core Repository”. _Columbia Climate School_, ohne Datum, https://www.ldeo.columbia.edu/core-repository/about-us/core-repository-history (03.01.2022).
 
-[^3]: Für eine ausführlichere Erläuterung der Auswirkungen dieser Veränderungen in der globalen politischen Ökologie, siehe Edwards, Paul. _A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming_. Cambridge (MA) and London: MIT press, 2010.
+[^3]: Für eine ausführlichere Erläuterung der Auswirkungen dieser Veränderungen in der globalen politischen Ökologie, siehe Edwards, Paul. _A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming_. Cambridge: MIT press, 2010.
 
 [^4]: Zur Arbeitsgruppe “Mikropaläontologie” am Museum für Naturkunde in Berlin, siehe: “Mikropaläontologiesammlungen”. _Museum für Naturkunde Berlin_, ohne Datum, https://www.museumfuernaturkunde.berlin/de/wissenschaft/mikropalaeontologiesammlungen (03.01.2022).

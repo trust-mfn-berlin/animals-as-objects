@@ -4,10 +4,10 @@ title_de: Seidenraupen
 created: 1629986374819
 author: Britta Lange
 short_desc_de: Spuren von Bäumen und Tieren in Berlin
-date_end: 2021-08-26T14:37:08.305Z
+date_end: 2022-08-26T14:37:08.305Z
 published: false
 title: Silkworms
-updated: 1642119232225
+updated: 1642421641433
 id: GDcruELihUsAdF7btC6KD
 doi: 64y2-m311/47
 translators:
@@ -51,11 +51,11 @@ _Mulberry tree at the Berlin Museum of Natural History, 2021. (Image: Britta Lan
  
 </figure>
 
-While the great dinosaur skeleton in the main hall of the Berlin Museum of Natural History is known throughout the city and the world, nobody seems to know anything about the giant tree in the museum’s courtyard. **On Habersaathstraße, in the passage that runs between the museum, today’s Institute of Biophysics, and the Thaer Institute of Agricultural and Horticultural Sciences at the Humboldt University in Berlin, there is a large mulberry tree.** What is its story? The clues lead back to 18th-century Prussia, to museum collections and villages in Brandenburg, to naturalists, kings, and silkworms.
+While the great dinosaur skeleton in the main hall of the Berlin Museum of Natural History is known throughout the city and the world, nobody seems to know anything about the giant tree in the museum’s courtyard. **In the passage that runs between the museum, today’s Institute of Biophysics, and the Thaer Institute of Agricultural and Horticultural Sciences at the Humboldt-Universität zu Berlin, there is a large mulberry tree.** What is its story? The clues lead back to 18th-century Prussia, to museum collections and villages in Brandenburg, to naturalists, kings, and silkworms.
 
 ## _Morus alba_ at the Museum of Natural History and in the Villages of Brandenburg 
 
-The curator of the Lepidoptera (butterfly and moth) collection, Viola Richter, points the tree out to me as she looks for display cases filled with silkworm specimens at my request in autumn 2020.[^1] One of these cases displays the four zoological stages in the development of _Bombyx mori_, the silk moth, each represented by a number of specimens: the egg, the caterpillar (bombyx), the pupa in its cocoon, and the hatched moth. 
+The collection manager of the Lepidoptera (butterfly and moth) collection, Viola Richter, points the tree out to me as she looks for display cases filled with silkworm specimens at my request in autumn 2020.[^1] One of these cases displays the four zoological stages in the development of _Bombyx mori_, the silk moth, each represented by a number of specimens: the egg, the caterpillar (_bombyx_), the pupa in its cocoon, and the hatched moth. 
 
 <figure>
  
@@ -69,19 +69,19 @@ _Old display case showing the developmental stages of_ Bombyx mori, _Berlin Muse
  
 </figure>
 
-The _bombyx mori_, which has been cultivated in Asia and Europe for thousands of years, feeds exclusively on the leaves of the white mulberry tree, _Morus alba_. _Morus_ is also the Latin term for blackberry (in French “mûre” is blackberry and “mûrier” mulberry tree), which indicates the form and colour of the tree’s fruit. **Because the silkworm has coevolved with the mulberry tree, fresh green leaves from the _Morus alba_ must be available to provide the insects with sustenance and thus to support the production of silk threads.** The German term for silkworm, “Maulbeerspinner”, literally translates as “mulberry caterpillar”, revealing the close interconnection between the silkworm and the mulberry tree. In nature, the mulberry tree is as inseparable from the animal as it is in its German designation. 
+The _bombyx mori_, which has been cultivated in Asia and Europe for thousands of years, feeds exclusively on the leaves of the white mulberry tree, _Morus alba_. _Morus_ is also the Latin term for blackberry (in French ‘mûre’ is blackberry and ‘mûrier’ mulberry tree), which indicates the form and colour of the tree’s fruit. **Because the silkworm has coevolved with the mulberry tree, fresh green leaves from the _Morus alba_ must be available to provide the insects with sustenance and thus to support the production of silk threads.** The German term for silkworm, ‘Maulbeerspinner’, literally translates as ‘mulberry caterpillar’, revealing the close interconnection between the silkworm and the mulberry tree. In nature, the mulberry tree is as inseparable from the animal as it is in its German designation. 
 
-Nobody breeds live silkworms anymore, not at the museum, the university, in factories, or in private homes. However, the white mulberry tree remains and decorates the street in the courtyard. Its height – perhaps 15 meters – suggests that it is already many decades old. Ferdinand Damaschun, previously a mineralogist at the Museum of Natural History, informs me that the tree was already very tall when he began working at the museum in 1974. The head of the museum at the time, the botanist Walter Vent, who was able to see the tree from his director’s office, asked him about it.[^2] **It is likely that the tree did not actually belong to the museum building, which was completed in 1889, but to the building of the former Agricultural University (Landwirtschaftliche Hochschule) opposite, which was finished in 1880. This institution was at least indirectly linked to the history of the silkworm in Brandenburg.** 
+Today, nobody in Berlin breeds silkworms anymore, not at the museum, the university, in factories, or in private homes. However, the white mulberry tree remains and decorates the street in the courtyard. Its height – perhaps 15 meters – suggests that it is already many decades old. Ferdinand Damaschun, previously a mineralogist at the Museum für Naturkunde Berlin, informs me that the tree was already very tall when he began working at the museum in 1974. The head of the museum at the time, the botanist Walter Vent, who was able to see the tree from his director’s office, asked him about it.[^2] **It is likely that the tree did not actually belong to the museum building, which was completed in 1889, but to the building of the former Agricultural University (Landwirtschaftliche Hochschule) opposite, which was finished in 1880. This institution was at least indirectly linked to the history of the silkworm in Brandenburg.** 
 
-Lectures began here in the winter semester of 1880/81, and on 14 February 1881, the institute received the title of Royal Agricultural University of Berlin (Königliche Landwirtschaftliche Hochschule Berlin).[^3] This meant that, in Berlin, which had become the capital of the empire ten years earlier, a field of research had been institutionalised that the renowned doctor and agriculturalist Albrecht Daniel Thaer (1752-1828) from Celle had already established in rural Brandenburg. Thaer, who is considered the founder of agricultural studies, opened the Agricultural Teaching Institute in 1806 at the Rittergut Möglin estate in Brandenburg, where he experimented with crop rotation and the breeding of merino sheep. The institute, which was called the Royal Prussian Academic Teaching Facility for Agriculture (Königliche Preußische Akademische Lehranstalt des Landbaus) from 1819, was a direct predecessor to the academic agricultural training provided in Berlin. Moreover, from 1810 to 1819, Thaer gave agricultural lectures as an associate professor at the Friedrich-Wilhelms-Universität zu Berlin, which had been founded in 1810, and published numerous papers on agricultural economics and “agronomy” (agricultural studies), as well as animal breeding, based on the research he carried out in Möglin.
+Lectures began here in the winter semester of 1880/81, and on 14 February 1881, the institute received the title of Royal Agricultural University of Berlin (Königliche Landwirtschaftliche Hochschule Berlin).[^3] This meant that, in Berlin, which had become the capital of the empire ten years earlier, a field of research had been institutionalised that the renowned doctor and agriculturalist Albrecht Daniel Thaer (1752-1828) from Celle had already established in rural Brandenburg. Thaer, who is considered the founder of agricultural studies, opened the Agricultural Teaching Institute in 1806 at the Rittergut Möglin estate in Brandenburg, where he experimented with crop rotation and the breeding of merino sheep. The institute, which was called the Royal Prussian Academic Teaching Facility for Agriculture (Königliche Preußische Akademische Lehranstalt des Landbaus) from 1819, was a direct predecessor to the academic agricultural training provided in Berlin. Moreover, from 1810 to 1819, Thaer gave agricultural lectures as an associate professor at the Friedrich-Wilhelms-Universität zu Berlin, which had been founded in 1810, and published numerous papers on agricultural economics and ‘agronomy’ (agricultural studies), as well as animal breeding, based on the research he carried out in Möglin.
 
-Even if it cannot yet been proven that Thaer had mulberry trees cultivated in Möglin, he researched and taught at the heart of a landscape where, above all under the direction of the Prussian King Frederick II (1712-1786), numerous people were breeding silkworms in the 18th century and thus also planting and cultivating white mulberry trees. **Documents like the chronicles of the surrounding Brandenburg villages reveal that it was not just large enterprises like the silk weavers’ colony in Wriezen, located just a few kilometres away, that were being launched; rather, smaller groups of mulberry trees and bushes were also being planted in orchards, cemeteries, and boulevards.**[^5]
+Even if it cannot yet been proven that Thaer had mulberry trees cultivated in Möglin, he researched and taught at the heart of a landscape where, above all under the direction of the Prussian King Frederick II (1712-1786), numerous people were breeding silkworms in the 18th century and thus also planting and cultivating white mulberry trees. **Documents like the chronicles of the surrounding Brandenburg villages reveal that it was not just large enterprises like the silk weavers’ colony in Wriezen,[^4] located just a few kilometres away, that were being launched; rather, smaller groups of mulberry trees and bushes were also being planted in orchards, cemeteries, and boulevards.**[^5]
 
-The “ladies of Friedland” – Helene Charlotte von Lestwitz (1754-1803) and her daughter Henriette Charlotte von Itzenplitz (1772-1848) – who received in their salons in Kunersdorf Thaer and other personalities from Berlin’s scholarly and artistic circles, like the brothers Alexander and Wilhelm Humboldt, ran orchards and orangeries filled with exotic plants, including white and black mulberry.[^6] The wine master Schmidt had already obtained 30 mulberry trees from Friedland in 1754, which he used to set up an orchard around the church in Bollersdorf, located a few kilometres away.[^7] In 1763, in turn, the sacristan at the cemetery in Heckelberg planted an orchard,[^8] and, in 1788, the teacher and sacristan of the village of Prädikow set up a mulberry orchard at the cemetery.[^9] Many more examples would follow.
+The ‘ladies of Friedland’ – Helene Charlotte von Lestwitz (1754-1803) and her daughter Henriette Charlotte von Itzenplitz (1772-1848) – who received in their salons in Kunersdorf Thaer and other personalities from Berlin’s scholarly and artistic circles, like the brothers Alexander and Wilhelm Humboldt, ran orchards and orangeries filled with exotic plants, including white and black mulberry.[^6] The wine master Schmidt had already obtained 30 mulberry trees from Friedland in 1754, which he used to set up an orchard around the church in Bollersdorf, located a few kilometres away.[^7] In 1763, in turn, the sacristan at the cemetery in Heckelberg planted an orchard,[^8] and, in 1788, the teacher and sacristan of the village of Prädikow set up a mulberry orchard at the cemetery.[^9] Many more examples would follow.
 
 ## Knowledge about _Bombyx mori_
 
-We have to take a range of different perspectives to trace the history of this animal, which has disappeared from Brandenburg and Berlin. Silkworms were seen as ‘working animals’ and were cultivated exclusively for the purpose of manufacturing a single product: silk thread. **In natural philosophy, where insects had been considered “inferior” animals from the age of Aristotle up into the early modern period, silkworms stuck out, namely as the only ‘beneficial insects’ of this class beside honey bees.** This explains why silkworms and honey bees were often depicted together in the popular science publications of the 18th century.
+We have to take a range of different perspectives to trace the history of this animal, which has disappeared from Brandenburg and Berlin. Silkworms were seen as ‘working animals’ and were cultivated exclusively for the purpose of manufacturing a single product: silk thread. **In natural philosophy, where insects had been considered ‘inferior’ animals from the age of Aristotle up into the early modern period, silkworms stuck out, namely as the only ‘beneficial insects’ of this class beside honey bees.** This explains why silkworms and honey bees were often depicted together in the popular science publications of the 18th century.
 
 <figure>
  
@@ -165,41 +165,41 @@ Completely unbeknownst to the city administration and the tree register, in cont
 
 [^2]: Personal email, 05.05.2021.
 
-[^3]: “Albrecht Daniel Thaer-Institut für Agrar- und Gartenbauwissenschaften”. _HU Berlin_, no date, https://www.agrar.hu-berlin.de/de/institut/profil/geschichte/standardseite (24.08.2021); see also Klemm, Volker. _Von der Königlichen Akademie des Landbaus in Möglin zur Landwirtschaftlich-Gärtnerischen Fakultät der Humboldt-Universität zu Berlin_. Berlin: Humboldt Universität zu Berlin, 1998.
+[^3]: “Albrecht Daniel Thaer-Institut für Agrar- und Gartenbauwissenschaften”. _Humboldt-Uniceristät zu Berlin_, no date. https://www.agrar.hu-berlin.de/de/institut/profil/geschichte/standardseite (24.08.2021); see also Volker Klemm. _Von der Königlichen Akademie des Landbaus in Möglin zur Landwirtschaftlich-Gärtnerischen Fakultät der Humboldt-Universität zu Berlin_. Berlin: Humboldt Universität zu Berlin, 1998.
 
 [^4]: The silk farming building erected in 1781 now houses a Sparkasse bank branch.
 
 [^5]: Copies of the chronicles are preserved today at the Thaer memorial in Möglin.
 
-[^6]: The Reichenower trees of 1754 came from the “Friedland orchard”. On Kunersdorf and Friedland, see Walter, Friedrich. _Verzeichniss der auf den Friedländischen Gütern cultivirten Gewächse: Nebst einem Beitrag zur Flora der Mittelmark; Alphabetisch geordnet so weit sie bestimmt sind_, 3rd ed. 1815: 35.
+[^6]: The Reichenower trees of 1754 came from the “Friedland orchard”. On Kunersdorf and Friedland, see Friedrich Walter. _Verzeichniss der auf den Friedländischen Gütern cultivirten Gewächse: Nebst einem Beitrag zur Flora der Mittelmark; Alphabetisch geordnet so weit sie bestimmt sind_. 3rd ed. 1815: 35.
 
-[^7]: Schmidt, Rudolf. _Die Herrschaft Friedland: Nachrichten zur Geschichte von Alt- und Neufriedland, Gottesgabe, Carlsdorf, Kleinbarnim, Grube, Sietzing, Gersdorf, Batzlow, Ringenwalde, Burgwall, Metzdorf, Horst, Wubrigsberg_, Kreisausschuss des Kreises Oberbarnim (ed.). Bad Freienwalde/Oder, 1928: 206.
+[^7]: Rudolf Schmidt. _Die Herrschaft Friedland: Nachrichten zur Geschichte von Alt- und Neufriedland, Gottesgabe, Carlsdorf, Kleinbarnim, Grube, Sietzing, Gersdorf, Batzlow, Ringenwalde, Burgwall, Metzdorf, Horst, Wubrigsberg_. Kreisausschuss des Kreises Oberbarnim (ed.). Bad Freienwalde/Oder, 1928: 206.
 
-[^8]: Schmidt, Rudolf. _6 Höhendörfer im Kreise Oberbarnim: Zur Heimatgeschichte von Trampe, Klobbicke, Tuchen, Heckelberg, Freudenberg, Beiersdorf_, Kreisausschuss des Kreises Oberbarnim (ed.). Bad Freienwalde/Oder, 1926: 137.
+[^8]: Rudolf Schmidt. _6 Höhendörfer im Kreise Oberbarnim: Zur Heimatgeschichte von Trampe, Klobbicke, Tuchen, Heckelberg, Freudenberg, Beiersdorf_. Kreisausschuss des Kreises Oberbarnim (ed.). Bad Freienwalde/Oder, 1926: 137.
 
-[^9]: Schmidt, Rudolf. _Die Herrschaft Eckardstein: I. Beiträge zur Entwicklungsgeschichte von Prötzel, Prädikow, Grunow, Reichenow, Sternebeck, Harnecop, Bliesdorf und Vevais_, Kreisausschuss des Kreises Oberbarnim (ed.). Bad Freienwalde/Oder, 1926: 68.
+[^9]: Rudolf Schmidt. _Die Herrschaft Eckardstein: I. Beiträge zur Entwicklungsgeschichte von Prötzel, Prädikow, Grunow, Reichenow, Sternebeck, Harnecop, Bliesdorf und Vevais_. Kreisausschuss des Kreises Oberbarnim (ed.). Bad Freienwalde/Oder, 1926: 68.
 
 [^10]: _Neue Bilder Gallerie für junge Söhne und Töchter zur angenehmen und nützlichen Selbstbeschäftigung aus dem Reiche der Natur, Kunst, Sitten, und des gemeinen Lebens_. Berlin: Oehmigcke, 1794: plate XI.
 
 [^11]: Although women played a major role in this cultivation and observation, they were rarely mentioned in the writings published on silk culture and were only listed as authors in exceptional cases.
 
-[^12]: Merian, Maria Sibylla. _Der Raupen wunderbare Verwandelung und sonderbare Blumen-nahrung_. Nuremberg/Frankfurt: Bey Johann Andreas Graffen, 1679.
+[^12]: Maria Sibylla Merian. _Der Raupen wunderbare Verwandelung und sonderbare Blumen-nahrung_. Nuremberg/Frankfurt: Bey Johann Andreas Graffen, 1679.
 
-[^13]: Cf. Kutschera, Ulrich. “Pionierin der Entwicklungsbiologie und Ökologie: Maria Sibylla Merian (1647-1717)”. _Biologie unserer Zeit_ 1, no. 47 (2017): 28-36. https://doi.org/10.1002/biuz.201710610.
+[^13]: Cf. Ulrich Kutschera. “Pionierin der Entwicklungsbiologie und Ökologie: Maria Sibylla Merian (1647-1717)”. _Biologie unserer Zeit_ 1, no. 47 (2017): 28-36. https://doi.org/10.1002/biuz.201710610.
 
-[^14]: Cf. Töpfer, Georg. “Metamorphose”. In _Historisches Wörterbuch der Biologie: Geschichte und Theorie der Biologischen Grundbegriffe_, vol. 3. Stuttgart: Metzler, 2011: 573-591.
+[^14]: Cf. Georg Töpfer. “Metamorphose”. In _Historisches Wörterbuch der Biologie: Geschichte und Theorie der Biologischen Grundbegriffe_, vol. 3. Stuttgart: Metzler, 2011: 573-591.
 
-[^15]: Cf. Takeda, Junko Thérèse. “Global Insects: Silkworms, Sericulture, and Statecraft in Napoleonic France and Tokugawa Japan”._French History_ 28, no. 2 (2014): 207-225. https://doi.org/10.1093/fh/cru044.
+[^15]: Cf. Junko Thérèse Takeda. “Global Insects: Silkworms, Sericulture, and Statecraft in Napoleonic France and Tokugawa Japan”._French History_ 28, no. 2 (2014): 207-225. https://doi.org/10.1093/fh/cru044.
 
-[^16]: Cf. Berlin Senate Department for the Environment, Transport, and Climate Protection. “Maulbeerbäume in Berlin”. _Stadtgrün_, no date, https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/index.shtml (28.07.2021).
+[^16]: Cf. Berlin Senate Department for the Environment, Transport, and Climate Protection. “Maulbeerbäume in Berlin”. _Berlin.de_, no date. https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/index.shtml (28.07.2021).
 
-[^17]: See for example Wischermann, Clemens. “Der Ort des Tieres in der Stadt”. _Informationen zur modernen Stadtgeschichte_ 2 (2009): 5-12.
+[^17]: See for example Clemens Wischermann. “Der Ort des Tieres in der Stadt”. _Informationen zur modernen Stadtgeschichte_ 2 (2009): 5-12.
 
-[^18]: Berlin Senate Department for the Environment, Transport and Climate Protection. “Standorte alter Maulbeerbäume”. _Stadtgrün_, no date, https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/fenster_karte.shtml (20.8.2021).
+[^18]: Berlin Senate Department for the Environment, Transport and Climate Protection. “Standorte alter Maulbeerbäume”. _Berlin.de_, no date. https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/fenster_karte.shtml (20.8.2021).
 
-[^19]: Berlin Senate Department for Urban Development and Housing. _Geoportal Berlin_, no date, https://www.stadtentwicklung.berlin.de/geoinformation/fis-broker/ (24.08.2021).
+[^19]: Berlin Senate Department for Urban Development and Housing. _Berlin.de_, no date. https://www.stadtentwicklung.berlin.de/geoinformation/fis-broker/ (24.08.2021).
 
-[^20]: The collapsible functional model is now part of the Zoological Teaching Collection at the Humboldt University of Berlin; cf. “Modell, Raupe, Seidenspinner”. Humboldt University database entry, no date, https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (24.08.2021).
+[^20]: The collapsible functional model is now part of the Zoological Teaching Collection at the Humboldt University of Berlin; cf. “Modell, Raupe, Seidenspinner”. Humboldt University database entry, no date. https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (24.08.2021).
 
 :::DE::: 
 
@@ -220,7 +220,7 @@ Während das große Dinosaurierskelett in der Haupthalle des Berliner Museums f�
 
 ## _Morus alba_ am Museum für Naturkunde und in den märkischen Dörfern
 
-Die Kuratorin der Sammlung Lepidoptera (Schmetterlinge), Viola Richter, weist mich auf den Baum hin, als sie mir im Herbst 2020 auf meine Anfrage hin Schaukästen mit Präparaten von Seidenraupen heraussucht.[^1] Einer dieser Kästen zeigt die vier zoologischen Stadien der Entwicklung von _Bombyx mori_, dem Maulbeerspinner, in jeweils mehreren Exemplaren: das Ei, die Raupe (bombyx), die Puppe im Kokon und den ausgeschlüpften Schmetterling. 
+Die Sammlungsmanagerin der Sammlung Lepidoptera (Schmetterlinge), Viola Richter, weist mich auf den Baum hin, als sie mir im Herbst 2020 auf meine Anfrage hin Schaukästen mit Präparaten von Seidenraupen heraussucht.[^1] Einer dieser Kästen zeigt die vier zoologischen Stadien der Entwicklung von _Bombyx mori_, dem Maulbeerspinner, in jeweils mehreren Exemplaren: das Ei, die Raupe (_bombyx_), die Puppe im Kokon und den ausgeschlüpften Schmetterling. 
 
 <figure>
  
@@ -228,17 +228,17 @@ Die Kuratorin der Sammlung Lepidoptera (Schmetterlinge), Viola Richter, weist mi
  
 <figcaption>
  
-_Alter Schaukasten zu Entwicklungsstadien von_ Bombyx mori _, Museum für Naturkunde Berlin, Sammlung Lepidoptera, 2020. (Foto: Britta Lange. Alle Rechte vorbehalten.)_
+_Alter Schaukasten zu Entwicklungsstadien von_ Bombyx mori, _ Museum für Naturkunde Berlin, Sammlung Lepidoptera, 2020. (Foto: Britta Lange. Alle Rechte vorbehalten.)_
 
 </figcaption>
  
 </figure>
 
-Die seit Jahrtausenden in Asien und Europa kultivierte Art _Bombyx mori_ ernährt sich ausschließlich von den Blättern des weißen Maulbeerbaumes, _Morus alba_. _Morus_ ist zugleich der lateinische Begriff für Brombeere (im Französischen “mûre” für Brombeere und “mûrier” für Maulbeerbaum), was auf Form und Farbe der Früchte des Baumes verweist. **Da die Seidenraupe in Koevolution mit dem weißen Maulbeerbaum lebt, ist die Verfügbarkeit von frischen grünen Blättern des _Morus alba_ Voraussetzung für die Haltung der Tiere und damit auch für die Herstellung von Seidenfäden.** Der Maulbeerbaum ist in der Natur wie auch in der Namensgebung untrennbar mit dem Tier verbunden.
+Die seit Jahrtausenden in Asien und Europa kultivierte Art _Bombyx mori_ ernährt sich ausschließlich von den Blättern des weißen Maulbeerbaumes, _Morus alba_. _Morus_ ist zugleich der lateinische Begriff für Brombeere (im Französischen ‘mûre’ für Brombeere und ‘mûrier’ für Maulbeerbaum), was auf Form und Farbe der Früchte des Baumes verweist. **Da die Seidenraupe in Koevolution mit dem weißen Maulbeerbaum lebt, ist die Verfügbarkeit von frischen grünen Blättern des _Morus alba_ Voraussetzung für die Haltung der Tiere und damit auch für die Herstellung von Seidenfäden.** Der Maulbeerbaum ist in der Natur wie auch in der Namensgebung untrennbar mit dem Tier verbunden.
 
-Heutzutage werden in Berlin keine lebenden Seidenraupen mehr aufgezogen, weder im Museum und der Universität noch in Manufakturen oder von Privatleuten. Der weiße Maulbeerbaum ist jedoch noch da und ziert im Hof die Habersaathstraße. Seine Höhe – vielleicht 15 Meter – lässt darauf schließen, dass er schon viele Jahrzehnte alt ist. Ferdinand Damaschun, zuvor Mineraloge am Museum für Naturkunde, lässt mich wissen, dass der Baum im Jahr seiner Einstellung, 1974, schon sehr groß war. Der damalige Leiter des Museums, der Botaniker Walter Vent, der den Baum vom Direktorenzimmer aus sehen konnte, fragte ihn nach diesem Baum.[^2] **Der Baum gehörte vermutlich gar nicht zu dem 1889 vollendeten Museumsgebäude, sondern zum Gebäude der gegenüberliegenden ehemaligen Landwirtschaftlichen Hochschule, das bereits 1880 fertiggestellt wurde. Mit dieser Institution war zumindest mittelbar auch die Geschichte der Seidenraupen in Brandenburg verknüpft.** 
+Heutzutage werden in Berlin keine lebenden Seidenraupen mehr aufgezogen, weder im Museum und der Universität noch in Manufakturen oder von Privatleuten. Der weiße Maulbeerbaum ist jedoch noch da. Seine Höhe – vielleicht 15 Meter – lässt darauf schließen, dass er schon viele Jahrzehnte alt ist. Ferdinand Damaschun, zuvor Mineraloge am Museum für Naturkunde, lässt mich wissen, dass der Baum im Jahr seiner Einstellung, 1974, schon sehr groß war. Der damalige Leiter des Museums, der Botaniker Walter Vent, der den Baum vom Direktorenzimmer aus sehen konnte, fragte ihn nach diesem Baum.[^2] **Der Baum gehörte vermutlich gar nicht zu dem 1889 vollendeten Museumsgebäude, sondern zum Gebäude der gegenüberliegenden ehemaligen Landwirtschaftlichen Hochschule, das bereits 1880 fertiggestellt wurde. Mit dieser Institution war zumindest mittelbar auch die Geschichte der Seidenraupen in Brandenburg verknüpft.** 
 
-Hier begannen im Wintersemester 1880/81 die Vorlesungen, und am 14. Februar 1881 erhielt das Institut den Titel Königliche Landwirtschaftliche Hochschule Berlin.[^3] Damit war in Berlin, das zehn Jahre zuvor zur Reichshauptstadt geworden war, ein Forschungsgebiet institutionalisiert worden, das der bedeutende Arzt und Landwirt Albrecht Daniel Thaer (1752-1828) aus Celle bereits zuvor im ländlichen Brandenburg etabliert hatte. Thaer, der heute als Begründer der Agrarwissenschaft gilt, eröffnete 1806 auf dem märkischen Rittergut Möglin das Landwirtschaftliche Lehrinstitut und experimentierte dort unter anderem mit dem Fruchtwechsel auf den Feldern sowie der Zucht von Merino-Schafen. Bei dem Institut, das ab 1819 Königliche Preußische Akademische Lehranstalt des Landbaus hieß, handelt es sich um den direkten Vorläufer der akademischen Landwirtschaftsausbildung in Berlin. Thaer hielt zudem an der 1810 gegründeten Berliner Universität von 1810 bis 1819 als außerordentlicher Professor agrarwissenschaftliche Vorlesungen und veröffentlichte auf Grundlage seiner Forschungen in Möglin zahlreiche Schriften zur “Gewerbslehre” (Agrarökonomie) und “Agronomie” (Landwirtschaftswissenschaft) sowie zur Tierzucht.
+Hier begannen im Wintersemester 1880/81 die Vorlesungen, und am 14. Februar 1881 erhielt das Institut den Titel Königliche Landwirtschaftliche Hochschule Berlin.[^3] Damit war in Berlin, das zehn Jahre zuvor zur Reichshauptstadt geworden war, ein Forschungsgebiet institutionalisiert worden, das der bedeutende Arzt und Landwirt Albrecht Daniel Thaer (1752-1828) aus Celle bereits zuvor im ländlichen Brandenburg etabliert hatte. Thaer, der heute als Begründer der Agrarwissenschaft gilt, eröffnete 1806 auf dem märkischen Rittergut Möglin das Landwirtschaftliche Lehrinstitut und experimentierte dort unter anderem mit dem Fruchtwechsel auf den Feldern sowie der Zucht von Merino-Schafen. Bei dem Institut, das ab 1819 Königliche Preußische Akademische Lehranstalt des Landbaus hieß, handelt es sich um den direkten Vorläufer der akademischen Landwirtschaftsausbildung in Berlin. Thaer hielt zudem an der 1810 gegründeten Berliner Universität von 1810 bis 1819 als außerordentlicher Professor agrarwissenschaftliche Vorlesungen und veröffentlichte auf Grundlage seiner Forschungen in Möglin zahlreiche Schriften zur ‘Gewerbslehre’ (Agrarökonomie) und ‘Agronomie’ (Landwirtschaftswissenschaft) sowie zur Tierzucht.
 
 Wenn auch bisher noch nicht nachweisbar ist, dass Thaer in Möglin Maulbeerbäume bewirtschaften ließ, forschte und lehrte er doch im Herzen einer Landschaft, in der vor allem unter dem preußischen König Friedrich II. (1712-1786) während des 18. Jahrhunderts zahlreiche Personen mit der Aufzucht von Seidenraupen und damit auch mit der Pflanzung und Unterhaltung von weißen Maulbeerbäumen beschäftigt waren. **So weisen unter anderem die Chroniken der umliegenden märkischen Dörfer nach, dass nicht nur größere Unternehmungen wie die Seidenweberkolonie im wenige Kilometer entfernten Wriezen begonnen wurden,[^4] sondern auch Grüppchen von Maulbeerbäumen und -büschen in Obstplantagen, auf Friedhöfen und an Alleen gepflanzt wurden.**[^5]
 
@@ -246,7 +246,7 @@ Die sogenannten Frauen von Friedland – Helene Charlotte von Lestwitz (1754-180
 
 ## Wissen über _Bombyx mori_
 
-Um die Geschichte des aus Brandenburg und Berlin verschwundenen Tiers nachzuzeichnen, bedarf es unterschiedlicher Perspektiven. Seidenraupen wurden als Nutztiere verstanden und ausschließlich zur Herstellung eines Produkts, des Seidenfadens, gehalten. **In der Naturphilosophie, in der Insekten seit Aristoteles bis in die Frühe Neuzeit hinein als “niedere” Tiere galten, waren Seidenraupen damit eine Besonderheit, nämlich die einzigen “nützlichen Tiere” dieser Klasse neben den Honigbienen.** Dies erklärt, warum Seidenraupen und Honigbienen in populärwissenschaftlichen Publikationen des 18. Jahrhunderts oft zusammen abgebildet wurden.
+Um die Geschichte des aus Brandenburg und Berlin verschwundenen Tiers nachzuzeichnen, bedarf es unterschiedlicher Perspektiven. Seidenraupen wurden als Nutztiere verstanden und ausschließlich zur Herstellung eines Produkts, des Seidenfadens, gehalten. **In der Naturphilosophie, in der Insekten seit Aristoteles bis in die Frühe Neuzeit hinein als ‘niedere’ Tiere galten, waren Seidenraupen damit eine Besonderheit, nämlich die einzigen ‘nützlichen Tiere’ dieser Klasse neben den Honigbienen.** Dies erklärt, warum Seidenraupen und Honigbienen in populärwissenschaftlichen Publikationen des 18. Jahrhunderts oft zusammen abgebildet wurden.
 
 <figure>
  
@@ -282,7 +282,7 @@ _Der Buchumschlag für Maria Sibylla von Merians_ Der Raupen wunderbare Verwande
 
 ## Alte Maulbeerbäume in Berlin
 
-Nachdem im 17. und 18. Jahrhundert die [[story.silk-culture]] in Preußen einen Aufschwung erlebt und sich als Wirtschaftszweig etabliert hatte, griff die “pébrine”, die Krankheit der Seidenraupen, im Jahr 1854 von Frankreich nach Deutschland über. **Die meisten Bestände an Seidenraupen wurden vernichtet[^15] und die Industrie konnte nicht mehr nachhaltig wiederbelebt werden.** Dass sie fortan nur noch von Amateur:innen betrieben wurde, öffnete die Geschichte des Seidenbaus in Preußen auch ihrer Historisierung und Bewertung. Gegen Ende des 19. Jahrhunderts waren die zum Seidenbau gehörigen Tiere verschwunden, doch ein Teil der Bäume geblieben. Ihre Früchte wurden nach wie vor zur Herstellung von Gelees, Süßspeisen und Sirup genutzt, und ihr leuchtendes Grün sowie die gelbe Krone im Herbst ließ sie weiterhin als Zierbäume gelten. Zwar wurden (wie bereits nach dem Tod Friedrichs des Großen) die Plantagen abgeholzt, doch einige Bäume überlebten die Phase ihrer landwirtschaftlichen Nutzung. **So stehen heute noch einzelne, sehr alte Maulbeerbäume in Köpenick und auf dem Friedhof in Zehlendorf – beides lag zum Zeitpunkt ihrer Anpflanzung vor den Toren der Stadt.**[^16] Die Karte alter Maulbeerbäume der Berliner Senatsverwaltung zeigt deutlich, wie sich das Stadtgebiet seit dem 18. Jahrhundert ausgedehnt hat und wie zugleich das ‘Land’ in die Stadt hineingewachsen ist, die noch im 19. Jahrhundert von Ackerbau und Viehzucht bestimmt wurde.[^17]
+Nachdem im 17. und 18. Jahrhundert die [[story.silk-culture]] in Preußen einen Aufschwung erlebt und sich als Wirtschaftszweig etabliert hatte, griff die ‘pébrine’, die Krankheit der Seidenraupen, im Jahr 1854 von Frankreich nach Deutschland über. **Die meisten Bestände an Seidenraupen wurden vernichtet[^15] und die Industrie konnte nicht mehr nachhaltig wiederbelebt werden.** Dass sie fortan nur noch von Amateur:innen betrieben wurde, öffnete die Geschichte des Seidenbaus in Preußen auch ihrer Historisierung und Bewertung. Gegen Ende des 19. Jahrhunderts waren die zum Seidenbau gehörigen Tiere verschwunden, doch ein Teil der Bäume geblieben. Ihre Früchte wurden nach wie vor zur Herstellung von Gelees, Süßspeisen und Sirup genutzt, und ihr leuchtendes Grün sowie die gelbe Krone im Herbst ließ sie weiterhin als Zierbäume gelten. Zwar wurden (wie bereits nach dem Tod Friedrichs des Großen) die Plantagen abgeholzt, doch einige Bäume überlebten die Phase ihrer landwirtschaftlichen Nutzung. **So stehen heute noch einzelne, sehr alte Maulbeerbäume in Köpenick und auf dem Friedhof in Zehlendorf – beides lag zum Zeitpunkt ihrer Anpflanzung vor den Toren der Stadt.**[^16] Die Karte alter Maulbeerbäume der Berliner Senatsverwaltung zeigt deutlich, wie sich das Stadtgebiet seit dem 18. Jahrhundert ausgedehnt hat und wie zugleich das ‘Land’ in die Stadt hineingewachsen ist, die noch im 19. Jahrhundert von Ackerbau und Viehzucht bestimmt wurde.[^17]
  
 <figure>
  
@@ -330,19 +330,19 @@ Gänzlich unbekannt dagegen ist der Stadtverwaltung und dem Baumkataster jener w
 
 [^2]: Persönliche E-Mail, 05.05.2021.
 
-[^3]: “Albrecht Daniel Thaer-Institut für Agrar- und Gartenbauwissenschaften”. _HU Berlin_, ohne Datum, https://www.agrar.hu-berlin.de/de/institut/profil/geschichte/standardseite (24.08.2021); vgl. auch Klemm, Volker. _Von der Königlichen Akademie des Landbaus in Möglin zur Landwirtschaftlich-Gärtnerischen Fakultät der Humboldt-Universität zu Berlin_. Berlin: Humboldt Universität zu Berlin, 1998.
+[^3]: “Albrecht Daniel Thaer-Institut für Agrar- und Gartenbauwissenschaften”. _Humboldt-Universität zu Berlin_, ohne Datum. https://www.agrar.hu-berlin.de/de/institut/profil/geschichte/standardseite (24.08.2021); vgl. auch Volker Klemm. _Von der Königlichen Akademie des Landbaus in Möglin zur Landwirtschaftlich-Gärtnerischen Fakultät der Humboldt-Universität zu Berlin_. Berlin: Humboldt Universität zu Berlin, 1998.
 
 [^4]: In dem ab 1781 errichteten Seidenbauhaus ist heute eine Sparkassenfiliale untergebracht.
 
 [^5]: Kopien der Chroniken werden in der heutigen Thaer-Gedenkstätte in Möglin aufbewahrt.
 
-[^6]: Die Reichenower Bäume stammten 1754 von der “Friedländer Plantage”. Zu Kunersdorf und Friedland vgl. Walter, Friedrich. _Verzeichniss der auf den Friedländischen Gütern cultivirten Gewächse: Nebst einem Beitrag zur Flora der Mittelmark; Alphabetisch geordnet so weit sie bestimmt sind_, 3. Aufl. 1815: 35.
+[^6]: Die Reichenower Bäume stammten 1754 von der “Friedländer Plantage”. Zu Kunersdorf und Friedland vgl. Friedrich Walter. _Verzeichniss der auf den Friedländischen Gütern cultivirten Gewächse: Nebst einem Beitrag zur Flora der Mittelmark; Alphabetisch geordnet so weit sie bestimmt sind_, 3. Aufl. 1815: 35.
 
-[^7]: Schmidt, Rudolf. _Die Herrschaft Friedland: Nachrichten zur Geschichte von Alt- und Neufriedland, Gottesgabe, Carlsdorf, Kleinbarnim, Grube, Sietzing, Gersdorf, Batzlow, Ringenwalde, Burgwall, Metzdorf, Horst, Wubrigsberg_, Kreisausschuss des Kreises Oberbarnim (Hg.). Bad Freienwalde/Oder, 1928: 206.
+[^7]: Rudolf Schmidt. _Die Herrschaft Friedland: Nachrichten zur Geschichte von Alt- und Neufriedland, Gottesgabe, Carlsdorf, Kleinbarnim, Grube, Sietzing, Gersdorf, Batzlow, Ringenwalde, Burgwall, Metzdorf, Horst, Wubrigsberg_. Kreisausschuss des Kreises Oberbarnim (Hg.). Bad Freienwalde/Oder, 1928: 206.
 
-[^8]: Schmidt, Rudolf. _6 Höhendörfer im Kreise Oberbarnim: Zur Heimatgeschichte von Trampe, Klobbicke, Tuchen, Heckelberg, Freudenberg, Beiersdorf_, Kreisausschuss des Kreises Oberbarnim (Hg.). Bad Freienwalde/Oder, 1926: 137.
+[^8]: Rudolf Schmidt. _6 Höhendörfer im Kreise Oberbarnim: Zur Heimatgeschichte von Trampe, Klobbicke, Tuchen, Heckelberg, Freudenberg, Beiersdorf_. Kreisausschuss des Kreises Oberbarnim (Hg.). Bad Freienwalde/Oder, 1926: 137.
 
-[^9]: Schmidt, Rudolf. _Die Herrschaft Eckardstein: I. Beiträge zur Entwicklungsgeschichte von Prötzel, Prädikow, Grunow, Reichenow, Sternebeck, Harnecop, Bliesdorf und Vevais_, Kreisausschuss des Kreises Oberbarnim (Hg.). Bad Freienwalde/Oder, 1926: 68.
+[^9]: Rudolf Schmidt. _Die Herrschaft Eckardstein: I. Beiträge zur Entwicklungsgeschichte von Prötzel, Prädikow, Grunow, Reichenow, Sternebeck, Harnecop, Bliesdorf und Vevais_. Kreisausschuss des Kreises Oberbarnim (Hg.). Bad Freienwalde/Oder, 1926: 68.
 
 [^10]: _Neue Bilder Gallerie für junge Söhne und Töchter zur angenehmen und nützlichen Selbstbeschäftigung aus dem Reiche der Natur, Kunst, Sitten, und des gemeinen Lebens_. Berlin: Oehmigcke, 1794: Tafel XI.
 
@@ -350,18 +350,18 @@ Gänzlich unbekannt dagegen ist der Stadtverwaltung und dem Baumkataster jener w
 
 [^12]: Merian, Maria Sibylla. _Der Raupen wunderbare Verwandelung und sonderbare Blumen-nahrung_. Nürnberg/Frankfurt: Bey Johann Andreas Graffen, 1679.
 
-[^13]: Vgl. Kutschera, Ulrich. “Pionierin der Entwicklungsbiologie und Ökologie: Maria Sibylla Merian (1647-1717)”. _Biologie unserer Zeit_ 1, Nr. 47 (2017): 28-36. https://doi.org/10.1002/biuz.201710610.
+[^13]: Vgl. Ulrich Kutschera. “Pionierin der Entwicklungsbiologie und Ökologie: Maria Sibylla Merian (1647-1717)”. _Biologie unserer Zeit_ 1, Nr. 47 (2017): 28-36. https://doi.org/10.1002/biuz.201710610.
 
-[^14]: Vgl. Töpfer, Georg. “Metamorphose”. In _Historisches Wörterbuch der Biologie. Geschichte und Theorie der Biologischen Grundbegriffe_, Bd. 3. Stuttgart: Metzler, 2011: 573-591.
+[^14]: Vgl. Georg Töpfer. “Metamorphose”. In _Historisches Wörterbuch der Biologie. Geschichte und Theorie der Biologischen Grundbegriffe_. Bd. 3. Stuttgart: Metzler, 2011: 573-591.
 
-[^15]: Vgl. Takeda, Junko Thérèse. “Global Insects: Silkworms, Sericulture, and Statecraft in Napoleonic France and Tokugawa Japan”._French History_ 28, Nr. 2 (2014): 207-225. https://doi.org/10.1093/fh/cru044.
+[^15]: Vgl. Junko Thérèse Takeda. “Global Insects: Silkworms, Sericulture, and Statecraft in Napoleonic France and Tokugawa Japan”._French History_ 28, Nr. 2 (2014): 207-225. https://doi.org/10.1093/fh/cru044.
 
-[^16]: Vgl. Berliner Senatsverwaltung für Umwelt, Verkehr und Klimaschutz. “Maulbeerbäume in Berlin”. _Stadtgrün_, ohne Datum, https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/index.shtml (28.07.2021).
+[^16]: Vgl. Berliner Senatsverwaltung für Umwelt, Verkehr und Klimaschutz. “Maulbeerbäume in Berlin”. _Berlin.de_, ohne Datum. https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/index.shtml (28.07.2021).
 
-[^17]: Vgl. u.a. Wischermann, Clemens. “Der Ort des Tieres in der Stadt”. _Informationen zur modernen Stadtgeschichte_ 2 (2009): 5-12.
+[^17]: Vgl. u.a. Clemens Wischermann. “Der Ort des Tieres in der Stadt”. _Informationen zur modernen Stadtgeschichte_ 2 (2009): 5-12.
 
-[^18]: Berliner Senatsverwaltung für Umwelt, Verkehr und Klimaschutz. “Standorte alter Maulbeerbäume”. _Stadtgrün_, ohne Datum, https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/fenster_karte.shtml (20.8.2021).
+[^18]: Berliner Senatsverwaltung für Umwelt, Verkehr und Klimaschutz. “Standorte alter Maulbeerbäume”. _Berlin.de_, ohne Datum. https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/maulbeeren/fenster_karte.shtml (20.8.2021).
 
-[^19]: Berliner Senatsverwaltung für Stadtentwicklung und Wohnen. _Geoportal Berlin_, ohne Datum, https://www.stadtentwicklung.berlin.de/geoinformation/fis-broker/ (24.08.2021).
+[^19]: Berliner Senatsverwaltung für Stadtentwicklung und Wohnen. _Berlin.de_, ohne Datum, https://www.stadtentwicklung.berlin.de/geoinformation/fis-broker/ (24.08.2021).
 
-[^20]: Das aufklappbare Funktionsmodell gehört heute zum Bestand der Zoologischen Lehrsammlung der Humboldt-Universität zu Berlin; vgl. “Modell, Raupe, Seidenspinner”. Datenbankeintrag der HU, ohne Datum, https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (24.08.2021).
+[^20]: Das aufklappbare Funktionsmodell gehört heute zum Bestand der Zoologischen Lehrsammlung der Humboldt-Universität zu Berlin; vgl. “Modell, Raupe, Seidenspinner”. Datenbankeintrag der HU, ohne Datum. https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (24.08.2021).

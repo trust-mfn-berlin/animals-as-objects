@@ -38,7 +38,7 @@ _List of the animals killed at Berlin Zoo in November 1943 (AZGB. All rights res
 
 Both in the record-keeping systems in the collections of the [[Zoological Museum|material.logbooks-of-the-zoological-museum]] (which was then part of the Museum of Natural History) and in the Humboldt University’s inventory books from the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]], we read that many animal objects were lost when Berlin was bombed in the night of 23 November 1943. But what about the zoo? A list from the Zoological Garden records the loss of live animals: 30% of the remaining animals were killed by bombs, by buildings collapsing, or by fire, or they were killed by employees after escaping their enclosures, see also [[story.the-zoo-and-national-socialism]]. This document is an example of the practices of [[recording and managing|theme.recording-worlds]] inventories, arrivals, departures, and losses.
 
-The only surviving elephant recorded in the list was [[Siam|story.the-afterlife-of-zoo-animals]]. The numbers with commas, like “1,3” for the Altai wapiti, note the sex in the manner of the [[Steinmetz Index|material.steinmetz-index]]: one male Altai wapiti and three females died.
+The only surviving elephant recorded in the list was [[Siam|story.the-afterlife-of-zoo-animals]]. The numbers with commas, like ‘1,3’ for the Altai wapiti, note the sex in the manner of the [[Steinmetz Index|material.steinmetz-index]]: one male Altai wapiti and three females died.
 
 ## Transcript
 
@@ -80,7 +80,7 @@ Sowohl in den Verzeichnungssystemen der Sammlung des [[zoologischen Museums|mate
 
 Der einzige überlebende Elefant, den die Liste verzeichnete, war [[Siam|story.the-afterlife-of-zoo-animals]]. Die Komma-Zahlen, wie z.B. "1,3" für die Edelhirsche Altai-Marale, notieren genau wie in der [[material.steinmetz-index]] das Geschlecht: ein männlicher Altai-Maral und drei weibliche starben. 
 
-Nicht alle Tiernamen sind heute noch vollständig nachvollziehbar. Bei dem „Bastard“ handelte es sich wahrscheinlich um eine Kreuzung der sibirischen und bengalischen Tiger. Mit „Aristoteles“ war möglicherweise ein Sambar gemeint, auch Pferdehirsch genannt.
+Nicht alle Tiernamen sind heute noch vollständig nachvollziehbar. Bei dem "Bastard” handelte es sich wahrscheinlich um eine Kreuzung der sibirischen und bengalischen Tiger. Mit “Aristoteles” war möglicherweise ein Sambar gemeint, auch Pferdehirsch genannt.
 
 ## Transkript
 

@@ -11,7 +11,7 @@
 
 ::v-deep .wiki-link-component{
   // bottom:-1mm;
-  bottom:0.2rem;
+  bottom:0.25rem;
   .thumbnail-wrap{
     height: unset;
   }
@@ -28,6 +28,9 @@
     margin:0 2px;
     span{
       font-size: @fs-print-small;
+    }
+    .subheading{
+      padding-top:0;
     }
   }
 }
@@ -301,6 +304,8 @@ figure{
 
     ::v-deep span.wiki-link-component{
       // bottom:0;
+      bottom:-0.2rem;
+    // vertical-align: baseline;
       a{
         line-height: 0;
         border-bottom: none;
@@ -308,14 +313,19 @@ figure{
           display: none;
         }
         .text{
+          // height: auto;
+          
           box-shadow: none;
-          border-radius: 0;
+          // border-radius: 0;
           margin: 0;
-          height: 5mm !important;
+          height: auto !important;
           padding: 0 !important;
           color: @black !important;
           .subheading{
             font-size:@fs-print-small;
+            padding: 1mm 2mm;
+            font-style: normal;
+            font-family: @f-mono;
           }
         }
       }
@@ -344,4 +354,14 @@ iframe{
   width: 100%;
   min-height: 20rem;
   margin: 15mm auto;
+}
+
+// lists
+ul{
+  list-style-type: "– ";
+  margin: @space-s 0;
+  li{
+    // margin-bottom: @space-s;
+    margin-left: 0.5rem;
+  }
 }

@@ -20,7 +20,7 @@
     </section>
 
     <template v-if="siteLang == 'en' && article.toc">
-      <contents :toc="article.toc" label="Table of Contents" />
+      <contents :toc="article.toc" label="Table of contents" />
     </template>
     <template v-if="siteLang == 'de' && article.body_de.toc">
       <contents :toc="article.body_de.toc" label="Inhaltsverzeichnis" />

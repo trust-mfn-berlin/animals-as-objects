@@ -4,10 +4,10 @@ title_de: Species360
 created: 1620987484846
 author: Clemens Maier-Wolthausen
 short_desc_de: Software zur Koordination von Zootierhaltungen
-date_end: 2021-12-25T19:31:46.616Z
+date_end: 2022-12-25T19:31:46.616Z
 published: false
 title: Species360
-updated: 1642118997072
+updated: 1642421561040
 id: 690683a5-6845-4c80-bb3b-5771881bdca6
 doi: 64y2-m311/21
 translators:
