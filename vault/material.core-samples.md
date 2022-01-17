@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Core Samples
 title_de: Bohrkerne
 created: 1629110227049
-updated: 1642421512470
+updated: 1642451775724
 id: 02wCHNiTRZ4Zkq2cO9Cpv
 author: Filippo Bertoni
 doi: 64y2-m311/31
@@ -33,7 +33,7 @@ published: false
 
 <figcaption>
 
-_Many core samples are collected by the_ JOIDES Resolution _research vessel, as shown in this illustration from Expedition 379, co-authored by Johan Renaudie, one of the researchers in the micropaleontology laboratory of Museum für Naturkunde Berlin. Read more at:
+_Many core samples are collected by the_ [[JOIDES Resolution|story.deep-sea-drilling]] _research vessel, as shown in this illustration from Expedition 379, co-authored by Johan Renaudie, one of the researchers in the micropaleontology laboratory of Museum für Naturkunde Berlin. Read more at:
 http://publications.iodp.org/proceedings/379/102/379_102.html (03.01.2022)_.
 
 </figcaption>
@@ -67,7 +67,7 @@ _A video showing the work of collecting and studying core samples through [[mate
 
 <figcaption>
 
-_Das Forschungsschiff_ JOIDES Resolution _sammelte während der Expedition 379 eine große Zahl an Bohrkernen, wie diese Abbildung zeigt. Zu den Autor:innen der Studie zählte auch Johan Renaudie, Forscher im Labor für Mikropaläontologie des Museums für Naturkunde Berlin. Weitere Informationen zu der Studie finden sich unter: http://publications.iodp.org/proceedings/379/102/379_102.html (03.01.2022)_.
+_Das Forschungsschiff_ [[JOIDES Resolution|story.deep-sea-drilling]] _sammelte während der Expedition 379 eine große Zahl an Bohrkernen, wie diese Abbildung zeigt. Zu den Autor:innen der Studie zählte auch Johan Renaudie, Forscher im Labor für Mikropaläontologie des Museums für Naturkunde Berlin. Weitere Informationen zu der Studie finden sich unter: http://publications.iodp.org/proceedings/379/102/379_102.html (03.01.2022)_.
 
 </figcaption>
 
