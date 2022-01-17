@@ -4,10 +4,10 @@ title_de: Unauffindbar
 created: 1640459479902
 author: Mareike Vennen
 short_desc_de: "Verschollene Objekte und alte Kataloge "
-date_end: 2022-01-04T16:26:25.633Z
+date_end: 2022-12-04T16:26:25.633Z
 published: false
 title: Untraceable
-updated: 1642327080342
+updated: 1642424075305
 id: abaNOPQjQqMhfMbhbhvm4
 doi: 64y2-m311/73
 translators:
