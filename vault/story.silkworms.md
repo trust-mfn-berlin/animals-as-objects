@@ -7,7 +7,7 @@ short_desc_de: Spuren von Bäumen und Tieren in Berlin
 date_end: 2022-08-26T14:37:08.305Z
 published: false
 title: Silkworms
-updated: 1642439983419
+updated: 1642440389660
 id: GDcruELihUsAdF7btC6KD
 doi: 64y2-m311/47
 translators:
@@ -51,7 +51,7 @@ _Mulberry tree at the Museum für Naturkunde Berlin, 2021. (Image: Britta Lange.
  
 </figure>
 
-While the great dinosaur skeleton in the main hall of the Naturhistory Museum in Berlin is known throughout the city and the world, nobody seems to know anything about the giant tree in the museum’s courtyard. **In the passage that runs between the museum, today’s Institute of Biophysics, and the Thaer Institute of Agricultural and Horticultural Sciences at the Humboldt-Universität zu Berlin, there is a large mulberry tree.** What is its story? The clues lead back to 18th-century Prussia, to museum collections and villages in Brandenburg, to naturalists, kings, and silkworms.
+While the great dinosaur skeleton in the main hall of the Natural History Museum in Berlin is known throughout the city and the world, nobody seems to know anything about the giant tree in the museum’s courtyard. **In the passage that runs between the museum, today’s Institute of Biophysics, and the Thaer Institute of Agricultural and Horticultural Sciences at the Humboldt-Universität zu Berlin, there is a large mulberry tree.** What is its story? The clues lead back to 18th-century Prussia, to museum collections and villages in Brandenburg, to naturalists, kings, and silkworms.
 
 ## _Morus alba_ at the Museum of Natural History and in the Villages of Brandenburg 
 
