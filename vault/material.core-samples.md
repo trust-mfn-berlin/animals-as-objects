@@ -11,9 +11,9 @@ translators:
   translator_en_de: ""
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
-desc: Cylindrical samples obtained by drilling into sediment or other materials.
+desc: Archives of planetary knowledge
 desc_de: Archive des Erdwissens
-short_desc: Cylindrical samples obtained by drilling into sediment or other materials.
+short_desc: Archives of planetary knowledge
 short_desc_de: Archive des Erdwissens
 cover_image:
   image: /images/cores.png
