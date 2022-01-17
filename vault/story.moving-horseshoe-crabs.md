@@ -7,7 +7,7 @@ short_desc_de: Verbreitungswege von Tieren und Wissen
 date_end: 2020-01-01T21:08:57.624Z
 published: false
 title: Moving Horseshoe Crabs
-updated: 1642417986454
+updated: 1642418062285
 id: WPnxMDphZ5DDXrhkIdvBS
 doi: 64y2-m311/50
 translators:
@@ -93,7 +93,7 @@ So far, however, there has been no indication that horseshoe crabs have become e
 
 [^14]: Cf. Stephan Gollasch and Stefan Nehring. “National Checklist for Aquatic Alien Species in Germany”. _Aquatic Invasions_ 1, no. 4 (2006): 245-269; Stefan Nehring and Heiko Leuchs. “Neozoa (Makrozoobenthos) an der deutschen Nordseeküste: Eine Übersicht”. _Bericht Bundesanstalt für Gewässerkunde Koblenz_. BfG-1200 1999: 1-131. 
 
-[^15]: Cf. Gollasch and Stefan, 2006; Landesamt für Landwirtschaft, Umwelt und ländliche Räume des Landes Schleswig-Holstein (LLUR) (ed.). _Neobiota in deutschen Küstengewässern: Eingeschleppte und kryptogene Tier- und Pflanzenarten an der deutschen Nord- und Ostseeküste_. Flintbeck: Alfred-Wegener-Institut – Helmholtz Zentrum für Polar- und Meeresforschung, 2014: 108.
+[^15]: Cf. Gollasch and Stefan, 2006; Landesamt für Landwirtschaft, Umwelt und ländliche Räume des Landes Schleswig-Holstein (LLUR) (ed.). _Neobiota in deutschen Küstengewässern: Eingeschleppte und kryptogene Tier- und Pflanzenarten an der deutschen Nord- und Ostseeküste_. Flintbeck: Alfred-Wegener-Institut, Helmholtz Zentrum für Polar- und Meeresforschung, 2014: 108.
 
 [^16]: Nancy L. Jackson, David R. Smith, and Karl F. Nordstrom. “Physical and Chemical Changes in the Foreshore of an Estuarine Beach: Implications for Viability and Development of Horseshoe Crab (Limulus polyphemus) Eggs”. _Marine Ecology Progress Series_ 355 (2008): 209-218. https://doi.org/10.3354/meps07211.
 
@@ -152,7 +152,7 @@ Bislang gibt es indes keine Hinweise darauf, dass sich Pfeilschwanzkrebse im deu
 
 [^7]: Ebd.: 3846. 
 
-[^8]: Im Sommer 1873 wurden vier oder fünf lebende Exemplare elf Kilometer seewärts der niederländischen Insel Terschelling von Fischern gefangen, die sich nach Wolff (1977) möglicherweise auf die Helgoländer ‘Population’ zurückführen lassen, wovon auch Lloyd damals ausging. Vgl. Lloyd, 1874: 3846–47; T. Wolff. “The Horseshoe Crab _Limulus polyphemus_ in North European Waters”. _Videnskabelige Meddelelser fra Dansk Naturhistorisk Forening_ 140 (1977): 39-52.
+[^8]: Im Sommer 1873 wurden vier oder fünf lebende Exemplare elf Kilometer seewärts der niederländischen Insel Terschelling von Fischern gefangen, die sich nach Wolff (1977) möglicherweise auf die Helgoländer ‘Population’ zurückführen lassen, wovon auch Lloyd damals ausging. Vgl. Lloyd, 1874: 3846-47; T. Wolff. “The Horseshoe Crab _Limulus polyphemus_ in North European Waters”. _Videnskabelige Meddelelser fra Dansk Naturhistorisk Forening_ 140 (1977): 39-52.
 
 [^9]: Thomas Southwell. “King Crab off the Dutch Coast”. _The Zoologist. A Monthly Journal of Natural History_ 8 (1873): 3740. 
 
@@ -166,7 +166,7 @@ Bislang gibt es indes keine Hinweise darauf, dass sich Pfeilschwanzkrebse im deu
 
 [^14]: Vgl. Stephan Gollasch und Stefan Nehring. “National Checklist for Aquatic Alien Species in Germany”. _Aquatic Invasions_ 1, Nr. 4 (2006): 245-269; Stefan Nehring und Heiko Leuchs. “Neozoa (Makrozoobenthos) an der deutschen Nordseeküste: Eine Übersicht”. _Bericht Bundesanstalt für Gewässerkunde Koblenz_. BfG-1200 1999: 1-131. 
 
-[^15]: Vgl. Gollasch und Nehring, 2006; Landesamt für Landwirtschaft, Umwelt und ländliche Räume des Landes Schleswig-Holstein (LLUR) (Hg.). _Neobiota in deutschen Küstengewässern: Eingeschleppte und kryptogene Tier- und Pflanzenarten an der deutschen Nord- und Ostseeküste_. Flintbeck: Alfred-Wegener-Institut – Helmholtz Zentrum für Polar- und Meeresforschung, 2014: 108.
+[^15]: Vgl. Gollasch und Nehring, 2006; Landesamt für Landwirtschaft, Umwelt und ländliche Räume des Landes Schleswig-Holstein (LLUR) (Hg.). _Neobiota in deutschen Küstengewässern: Eingeschleppte und kryptogene Tier- und Pflanzenarten an der deutschen Nord- und Ostseeküste_. Flintbeck: Alfred-Wegener-Institut, Helmholtz Zentrum für Polar- und Meeresforschung, 2014: 108.
 
 [^16]: Nancy L. Jackson, David R. Smith und Karl F. Nordstrom. “Physical and Chemical Changes in the Foreshore of an Estuarine Beach: Implications for Viability and Development of Horseshoe Crab (Limulus polyphemus) Eggs”. _Marine Ecology Progress Series_ 355 (2008): 209-218. https://doi.org/10.3354/meps07211.
 
