@@ -7,7 +7,7 @@ short_desc_de: Taxonomie jenseits der Tierwelt
 date_end: 1887-12-31T11:06:32.000Z
 published: false
 title: Classifying Cycladophora
-updated: 1642119049406
+updated: 1642418499133
 id: aIG4TDxqQbsrl43uiSyGE
 doi: 10.7479/64y2-m311/1
 translators:
@@ -93,9 +93,9 @@ Nachdem Ehrenberg sich mit Shaffner über seine Ergebnisse ausgetauscht hatte, p
 
 [^1]: Es gibt mehrere Biografien zu Ehrenberg. Um einen guten Überblick zu erhalten, siehe David M. Williams and Robert Huxley. _Christian Gottfried Ehrenberg (1795-1876): The Man and His Legacy_. London: Acad. Press, 1998. Die Einleitung ist online verfügbar unter: https://ca1-tls.edcdn.com/Special-Issue-1-Christian-Gottfried-Ehrenberg-1795-1876-The-Man-and-His-Legacy-Small.pdf?mtime=20160715141137 (03.01.2022). Eine deutsche Biografie findet sich online unter: Johannes v. Hanstein. “Ehrenberg, Christian Gottfried”. In _Allgemeine Deutsche Biographie 5_, 1877: 701-711. https://www.deutsche-biographie.de/pnd118529250.html#adbcontent (03.01.2022).
 
-[^2]: Haeckel war erfolgreich, denn das Originalexemplar von _C. davisiana_ befindet sich noch heute neben vielen anderen mit Kanadabalsam überzogenen Präparaten auf Glimmerplättchen in der Ehrenberg Sammlung des Museums für Naturkunde Berlin.
+[^2]: Die Präparation war erfolgreich, denn das Originalexemplar von _C. davisiana_ befindet sich noch heute neben vielen anderen mit Kanadabalsam überzogenen Präparaten auf Glimmerplättchen in der Ehrenberg Sammlung des Museums für Naturkunde Berlin.
 
 [^3]: Der in Haeckels 1904 erschienenem Buch _Kunstformen der Natur_ ersichtliche ästhetische Wert seiner Illustrationen setzte die von Goethe begonnene Tradition fort, das Wissen über die Natur und ihre Ästhetik zusammenzuführen. Siehe auch Robert J. Richards. _The Tragic Sense of Life: Ernst Haeckel and the Struggle over Evolutionary Thought_. Chicago und London: University of Chicago Press, 2009.
 
-[^4]: Zur Geschichte dieser Sammlung und ihrer Kuratierung, siehe David Lazarus. “The Ehrenberg Collection and its Curation”. In _Christian Gottfried Ehrenberg (1795-1876): The Man and His Legacy_. D.M. Williams und R. Huxley (Hg.). London: Acad. Press, 1998: 31-48. Zu den Auswirkungen dieser frühen Phase der mikropaläontologischen Taxonomie, siehe Lazarus, David. “The legacy of early radiolarian taxonomists, with a focus on the species published by early German workers”. _Journal of Micropalaeontology_ 33 (2014): 3-19.
+[^4]: Zur Geschichte dieser Sammlung und ihrer Kuratierung, siehe David Lazarus. “The Ehrenberg Collection and its Curation”. In _Christian Gottfried Ehrenberg (1795-1876): The Man and His Legacy_. D.M. Williams und R. Huxley (Hg.). London: Acad. Press, 1998: 31-48. Zu den Auswirkungen dieser frühen Phase der mikropaläontologischen Taxonomie, siehe Lazarus, David. “The Legacy of Early Radiolarian Taxonomists, with a Focus on the Species Published by Early German Workers”. _Journal of Micropalaeontology_ 33 (2014): 3-19.
 
