@@ -7,7 +7,7 @@ short_desc_de: Umwandlungsprozesse von Tieren in Bewegung
 date_end: 2022-12-04T16:32:17.032Z
 published: false
 title: Logistical Metabolisms
-updated: 1642432056942
+updated: 1642434115828
 id: GkUgy87PFegTFmR0W1Z2Q
 doi: 64y2-m311/70
 translators:
@@ -300,8 +300,7 @@ Wie diese Geschichten veranschaulichen, eröffnet der gemeinsame Fokus auf logis
 
 [^19]: Maas, Wietske und Matteo Pasquinelli. “The City Devouring Itself: Urbanibalism in Times of World Wars, Insurgent Communes and Biopolitical Sieges”. In _Open #18: 2030 – War Zone Amsterdam_, J. Seijdel und L. Melis (Hg.). Rotterdam: NAi Publishers, 2009. http://matteopasquinelli.com/docs/Maas_Pasquinelli_City_Devouring_Itself.pdf.
 
-[^20]: Wie eng Krieg und Logistik miteinander verknüpft, zeigt sich nicht zuletzt darin, dass letztere aus der 
-Kodifizierung militärischer Operationen, der Versorgung und des Transports von Truppen entstand.
+[^20]: Wie eng Krieg und Logistik miteinander verknüpft, zeigt sich nicht zuletzt darin, dass letztere aus der Kodifizierung militärischer Operationen, der Versorgung und des Transports von Truppen entstand.
 
 [^21]: “Es wird geschätzt, dass während der Belagerung mehr als 5.000 Katzen geschlachtet und gegessen wurden”. _Current Opinion #4_, New York: Current Literature Pub. Co, 1890: 379. Für eine Schilderung des Verzehrs von Pferde-, Hunde-, Katzen- und Rattenfleisch während der Belagerung in Tagebucheinträgen, siehe Sheppard, Nathan. _Shut Up in Paris_. London: Richard Bentley and Son, 1871. 
 
