@@ -7,7 +7,7 @@ short_desc_de: Clastique-Modell einer Seidenraupe
 date_end: 1900-12-31T11:00:00.000Z
 published: false
 title: Papier Mâché Silkworm
-updated: 1642461952853
+updated: 1642462298712
 id: kaVI1pTyKCM8SvVsrYrSJ
 doi: 64y2-m311/72
 translators:
@@ -98,7 +98,7 @@ _Clastique-Modell_ Bombyx mori _von Louis Auzoux in der Zoologischen Lehrsammlun
 
 </figure>
 
-Für wissenschaftliche wie populäre Tiermodelle verwendete man während des 19. und 20. Jahrhunderts vielfältige Materialien - lange bevor es [Plastikmodelle|material.material.somsoplast-plastic-animal-models]] gab. Die Wahl der Materialien bestimmte nicht nur ihre Formbarkeit, mögliche Farbgebung, Gewicht und Haltbarkeit, sondern auch, wie viele Exemplare hergestellt werden und wie sie zirkulieren konnten. Sie hatte somit Auswirkungen auf praktische Fragen der Nutzung, auf ästhetische Fragen und auf das Wissen, das ein Modell vermitteln sollte bzw. konnte.
+Für wissenschaftliche wie populäre Tiermodelle verwendete man während des 19. und 20. Jahrhunderts vielfältige Materialien - lange bevor es [[Plastikmodelle|material.material.somsoplast-plastic-animal-models]] gab. Die Wahl der Materialien bestimmte nicht nur ihre Formbarkeit, mögliche Farbgebung, Gewicht und Haltbarkeit, sondern auch, wie viele Exemplare hergestellt werden und wie sie zirkulieren konnten. Sie hatte somit Auswirkungen auf praktische Fragen der Nutzung, auf ästhetische Fragen und auf das Wissen, das ein Modell vermitteln sollte bzw. konnte.
 
 Während das Atelier von Adolf Ziegler (1820-1889) und seinem Sohn Friedrich (1860-1936) in Freiburg Modelle von tierischen und menschlichen Anatomien in Wachs herstellte,[^1] um die durchscheinende Fleischlichkeit zu betonen, wählte der französische Modelleur und Anatom Louis Auzoux (1792-1880) für seine Tier- und Pflanzenmodelle das Material Papiermaschee.[^2] Die Technik wurde bereits im alten China für Helme benutzt und Anfang des 19. Jahrhunderts in Europa für anatomische Modelle eingeführt, doch Auzoux entwickelte eine neue Rezeptur, die er sorgfältig hütete. Die Leichtigkeit der getrockneten Masse aus Papier und verschiedenen weiteren Ingredienzien sowie Klebemitteln erlaubte es etwa, eine ca. fünf Zentimeter kleine Seidenraupe auf eine Modelllänge von 75 Zentimetern zu vergrößern und ihre Körperteile naturalistisch darzustellen.[^3]
 
