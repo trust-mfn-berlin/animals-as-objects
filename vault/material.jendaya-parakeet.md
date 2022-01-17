@@ -7,7 +7,7 @@ short_desc_de: Präparation eines Vogelbalgs im Museum für Naturkunde Berlin
 date_end: ""
 published: false
 title: Jendaya Parakeet
-updated: 1642440928772
+updated: 1642440978090
 id: qPXq6synKcymXGGXLIDvV
 doi: 64y2-m311/69
 translators:
@@ -233,7 +233,7 @@ _Study skins on their way into the collection (MfN, image: Mareike Vennen. All r
 
 </figure>
 
-There, collection manager Pascal Eckhoff entered the information from the data sheet into the digital collection database.[^10] We noticed that this animal was not the first specimen of _Aratinga jandaya_ in the museum’s bird collection. In 1895 and 1923, the collection had received two other specimens for its study skin collection. Moreover, the ornithological collection also contains other Jendaya parakeets [[preserved in alcohol| material.an-iguana-preserved-in-alcohol]] as well as a skeleton.
+There, collection manager Pascal Eckhoff entered the information from the data sheet into the digital collection database.[^10] We noticed that this animal was not the first specimen of _Aratinga jandaya_ in the museum’s bird collection. In 1895 and 1923, the collection had received two other specimens for its study skin collection. Moreover, the ornithological collection also contains other Jendaya parakeets [[preserved in alcohol|material.an-iguana-preserved-in-alcohol]] as well as a skeleton.
 
 <figure>
 
