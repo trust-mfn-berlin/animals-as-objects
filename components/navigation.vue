@@ -8,7 +8,8 @@
         :icon="toggleMobileMenuIcon"
         :tao_type="this.$store.getters.articleTaoType"
         :aria-haspopup="isMobileMenuOpen"
-      >{{toggleMobileMenuButtonText}}</icon-button>
+        :aria-label="toggleMobileMenuButtonText"
+      ></icon-button>
     </li>
     </transition>
     <div class="flex-spacer mob-only" aria-hidden="true" ></div>

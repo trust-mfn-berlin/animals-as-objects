@@ -7,7 +7,7 @@ short_desc_de: "Stoffwechselprozesse auf hoher See "
 date_end: 1844-12-30T23:50:39.000Z
 published: false
 title: From Pests to Displays
-updated: 1642434049089
+updated: 1642435730290
 id: 3YRSzijvbnQXZs4VO291j
 doi: 64y2-m311/71
 translators:
@@ -49,10 +49,10 @@ In the end, only very few of the living animals survived the journey. We know of
 
 Tracing back their history to the mid-19th century can thus give us insights into how animals were collected and became part of a collection at the time, including those animals that were not originally intended for a collection. In the face of all the logistical restraints that Schomburgk and other naturalists faced, pests can become zoo animals and potential natural history specimens may be turned into feed. The – often improvised – logistical practices of natural history at sea can also be understood as transformative [[metabolic relations|theme.logistical-metabolisms]] that shape and reshape the classification, value and treatment of animals at sea.
 
-[^1]: A Special Issue on “Logistical Natures”, edited by Filippo Bertoni, Mareike Vennen, Ina Heumann and Tahani Nadim, will appear at the end of 2022.
+[^1]: See Special Issue on “Logistical Natures”, Filippo Bertoni, Mareike Vennen, Ina Heumann, and Tahani Nadim (eds.), will appear at the end of 2022.
 
 
-[^2]: His experiences in transporting living and dead specimens are recorded in his now archived correspondence with the Natural History Museum in Berlin as well as in a three-volume travelogue. See Schomburgk, Richard. _Reisen in Britisch-Guiana in den Jahren 1840-1844._ Leipzig: J. J. Weber, 1847-48. 
+[^2]: His experiences in transporting living and dead specimens are recorded in his now archived correspondence with the Natural History Museum in Berlin as well as in a three-volume travelogue. See Richard Schomburgk. _Reisen in Britisch-Guiana in den Jahren 1840-1844._ Leipzig: J. J. Weber, 1847-48. 
 
 [^3]: During this Prussian-British expedition, Richard Schomburgk was commissioned to collect for the Berlin Botanic Gardens and the Royal Museums: “His Majesty the King has, at the direct request of the garden assistant in Sanssouci, Richard Schomburgk, by means of the Most High Order issued to the Minister of Finance and to me on 10 October 1840, granted Schomburgk 600 rt Reichstaler annually for two years as assistance for the journey he has undertaken to the Guiana coast and also 600 rt as travel compensation costs once and for all, in order to collect and send plants, seeds and other suitable objects on his journey, especially for the local botanical garden and also for the institutes of natural history here.” In the first year he received 1,200 Reichstaler, in the second year another 600 Reichstaler; see MfN, HBSB, Zool. Mus. S I, Schomburgk, Ri, Bl. 44.
 
@@ -62,17 +62,17 @@ Tracing back their history to the mid-19th century can thus give us insights int
 
 [^6]: Ibid.
 
-[^7]: See for example Mariss, Anne. “‘… for fear they might decay’. Die materielle Prekarität von Naturalien und ihre Inszenierung in naturhistorischen Zeichnungen”. In _Objekte als Quellen der historischen Kulturwissenschaften_, Annette Cremer und Martin Mulsow (eds.). Köln u.a.: Böhlau 2016: 137-148. https://doi.org/10.7788/9783412510022.137.
+[^7]: See for example Anne Mariss. “‘… for fear they might decay’. Die materielle Prekarität von Naturalien und ihre Inszenierung in naturhistorischen Zeichnungen”. In _Objekte als Quellen der historischen Kulturwissenschaften_, Annette Cremer und Martin Mulsow (eds.). Köln u.a.: Böhlau 2016: 137-148. https://doi.org/10.7788/9783412510022.137.
 
 [^8]: Schomburgk, 1847-48, vol. II: 549. 
 
-[^9]: See Findlen, Paula; Toldano, Anna. “The Materials of Natural History”. In _Worlds of Natural History_. Helen Anne Curry et al. (eds.). Cambridge: Cambridge University Press, 2018: 151-169. https://doi.org/10.1017/9781108225229.010. See also Delbourgo, James. _Collecting the World: Hans Sloane and the Origins of the British Museum._ Cambridge, MA: The Belknap Press of Harvard University Press 2017.
+[^9]: See Paula Findlen and Anna Toldano. “The Materials of Natural History”. In _Worlds of Natural History_. Helen Anne Curry et al. (eds.). Cambridge: Cambridge University Press, 2018: 151-169. https://doi.org/10.1017/9781108225229.010. See also James Delbourgo. _Collecting the World: Hans Sloane and the Origins of the British Museum._ Cambridge: The Belknap Press of Harvard University Press 2017.
 
-[^10]: See Sloane, Hans. _A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica_, 2 vols. London: printed by B. M. for the author 1707-25, vol. II: 346. See also Parsons, Christopher M. and Kethleen S. Murphy, “Ecosystems under Sail: Specimen Transport in the Eighteenth-Century French and British Atlantics”. _Early American Studies_ (Fall 2012): 503-539. Hunter, M; Walker, A. and A. MacGregor (eds.). _From Books to Bezoars: Sir Hans Sloane and his Collections_. London: British Library, 2012.
+[^10]: See Hans Sloane. _A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica_, 2 vols. London: printed by B. M. for the author 1707-25, vol. II: 346. See also Christopher M. Parsons and Kethleen S. Murphy, “Ecosystems under Sail: Specimen Transport in the Eighteenth-Century French and British Atlantics”. _Early American Studies_ (Fall 2012): 503-539. M. Hunter, A. Walker, and A. MacGregor (eds.). _From Books to Bezoars: Sir Hans Sloane and his Collections_. London: British Library, 2012.
 
-[^11]: To learn more about the history of the Atlantic (triangular) slave trade see e.g. Sharpe, Christina. “The Ship: The Trans*Atlantic”. In _In The Wake: On Blackness and Being_. Durham, London: Duke University Press, 2016: 25-67.https://doi.org/10.1215/9780822373452-002; Hartman, Saidiya. _Lose Your Mother: A Journey along the Atlantic Slave Route_. New York: Farrar, Straus, and Giroux, 2007; Webster, Jane. “The _Zong_ in the Context of the Eighteenth-Century Slave Trade”. _The Journal of Legal History_ 28, no. 3 (2007): 285-298. https://doi.org/10.1080/01440360701698403; Krikler, Jeremy. “A Chain of Murder in the Slave Trade: A Wider Context of the Zong Massacre”. _International Review of Social History_ 57, no. 3 (2012), 393-415. https://doi.org/10.1017/S0020859012000491. 
+[^11]: To learn more about the history of the Atlantic (triangular) slave trade see e.g. Christina Sharpe. “The Ship: The Trans*Atlantic”. In _In The Wake: On Blackness and Being_. Durham: Duke University Press, 2016: 25-67.https://doi.org/10.1215/9780822373452-002; Saidiya Hartman. _Lose Your Mother: A Journey Along the Atlantic Slave Route_. New York: Farrar, Straus, and Giroux, 2007; Jane Webster. “The _Zong_ in the Context of the Eighteenth-Century Slave Trade”. _The Journal of Legal History_ 28, no. 3 (2007): 285-298. https://doi.org/10.1080/01440360701698403; Jeremy Krikler. “A Chain of Murder in the Slave Trade: A Wider Context of the Zong Massacre”. _International Review of Social History_ 57, no. 3 (2012), 393-415. https://doi.org/10.1017/S0020859012000491. 
 
-[^12]: See e.g. Wynter, Sylvia: _On Being Human as Praxis_. Durham et al.: Duke University Press, 2015.
+[^12]: See e.g. Sylvia Wynter: _On Being Human as Praxis_. Durham: Duke University Press, 2015.
 
 [^13]: Having only enough funds to acquire two Wardian Cases for housing the valuable orchid collection, he stowed the palms first in a longboat and, after their conditions worsened, in his own cabin. But not even such generous co-habitation could save them from the heavy damage inflicted by mice and rats. Schomburgk, 1847-48, vol. II: 510. 
 
@@ -115,17 +115,17 @@ Dieser Rückblick auf die Transportgeschichten naturkundlicher Objekte im 19. Ja
 
 [^6]: Ebd.
 
-[^7]: Siehe z.B. Mariss, Anne . “‘… for fear they might decay’. Die materielle Prekarität von Naturalien und ihre Inszenierung in naturhistorischen Zeichnungen”. In _Objekte als Quellen der historischen Kulturwissenschaften_, Annette Cremer und Martin Mulsow (Hg.). Köln u.a.: Böhlau 2016: 137-148. https://doi.org/10.7788/9783412510022.137.
+[^7]: Siehe z.B. Anne Mariss. “‘… for fear they might decay’. Die materielle Prekarität von Naturalien und ihre Inszenierung in naturhistorischen Zeichnungen”. In _Objekte als Quellen der historischen Kulturwissenschaften_, Annette Cremer und Martin Mulsow (Hg.). Köln u.a.: Böhlau 2016: 137-148. https://doi.org/10.7788/9783412510022.137.
 
-[^8]: Schomburgk, 1847–48, Bd. II: 363. 
+[^8]: Schomburgk, 1847-48, Bd. II: 363. 
 
-[^9]: Siehe Findlen, Paula; Toledano, Anna. “The Materials of Natural History”. In _Worlds of Natural History_, Helen Anne Curry et al. (Hg.). Cambridge: Cambridge University Press, 2018: 151-169. https://doi.org/10.1017/9781108225229.010. Siehe außerdem: Delbourgo, James. _Collecting the World: Hans Sloane and the Origins of the British Museum._ Cambridge, MA: The Belknap Press of Harvard University Press 2017.
+[^9]: Siehe Paula Findlen und Anna Toledano. “The Materials of Natural History”. In _Worlds of Natural History_, Helen Anne Curry et al. (Hg.). Cambridge: Cambridge University Press, 2018: 151-169. https://doi.org/10.1017/9781108225229.010. Siehe außerdem: James Delbourgo. _Collecting the World: Hans Sloane and the Origins of the British Museum_. Cambridge: The Belknap Press of Harvard University Press 2017.
 
-[^10]: Siehe Sloane, Hans. _A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica_, 2 Bände, London: gedruckt von B.M. im Auftrag des Autors, 1707-25, Bd. II: 346. Siehe außerdem: Parsons, Christopher M. und Kathleen S. Murphy, “Ecosystems under Sail: Specimen Transport in the Eighteenth-Century French and British Atlantics”. _Early American Studies_ (Herbst 2012): 503-539. Hunter, M; Walker, A. und A. MacGregor (Hg.). _From Books to Bezoars: Sir Hans Sloane and his Collections_. London: British Library, 2012.
+[^10]: Siehe Hans Sloane. _A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica_, 2 Bände, London: Gedruckt von B.M. im Auftrag des Autors, 1707-25, Bd. II: 346. Siehe außerdem: Christopher M. Parsons und Kathleen S. Murphy, “Ecosystems under Sail: Specimen Transport in the Eighteenth-Century French and British Atlantics”. _Early American Studies_ (Herbst 2012): 503-539. M. Hunter, A. Walker und A. MacGregor (Hg.). _From Books to Bezoars: Sir Hans Sloane and His Collections_. London: British Library, 2012.
 
-[^11]: Um mehr über den transatlantischen Sklavenhandel (bzw. Dreieckshandel) zu erfahren, siehe z.B. Sharpe, Christina. “The Ship: The Trans*Atlantic”. In _In The Wake: On Blackness and Being_. Durham; London: Duke University Press, 2016: 25-67. https://doi.org/10.1215/9780822373452-002. Hartman, Saidiya. _Lose Your Mother: A Journey along the Atlantic Slave Route_. New York: Farrar, Straus, and Giroux, 2007; Webster, Jane. “The _Zong_ in the Context of the Eighteenth-Century Slave Trade”. _The Journal of Legal History_ 28, Nr. 3 (2007): 285-298. https://doi.org/10.1080/01440360701698403. Krikler, Jeremy. “A Chain of Murder in the Slave Trade: A Wider Context of the _Zong_ Massacre”. _International Review of Social History_ 57, Nr. 3 (2012), 393-415. https://doi.org/10.1017/S0020859012000491. 
+[^11]: Um mehr über den transatlantischen Sklavenhandel (bzw. Dreieckshandel) zu erfahren, siehe z.B. Christina Sharpe. “The Ship: The Trans*Atlantic”. In _In The Wake: On Blackness and Being_. Durham: Duke University Press, 2016: 25-67. https://doi.org/10.1215/9780822373452-002. Saidiya Hartman. _Lose Your Mother: A Journey Along the Atlantic Slave Route_. New York: Farrar, Straus, and Giroux, 2007; Jane Webster. “The _Zong_ in the Context of the Eighteenth-Century Slave Trade”. _The Journal of Legal History_ 28, Nr. 3 (2007): 285-298. https://doi.org/10.1080/01440360701698403. Jeremy Krikler. “A Chain of Murder in the Slave Trade: A Wider Context of the _Zong_ Massacre”. _International Review of Social History_ 57, Nr. 3 (2012), 393-415. https://doi.org/10.1017/S0020859012000491. 
 
-[^12]: Siehe z.B. Wynter, Sylvia: _On Being Human as Praxis_. Durham et al.: Duke University Press, 2015.
+[^12]: Siehe z.B. Sylvia Wynter: _On Being Human as Praxis_. Durham: Duke University Press, 2015.
 
 [^13]: Da seine Mittel lediglich zum Kauf zweier Ward’scher Kästen für die Verwahrung der wertvollen Orchideensammlung ausreichten, verstaute er die Palmen zuerst in einem Beiboot und später, als sich ihr Zustand verschlechterte, in seiner Privatkajüte. Doch nicht einmal diese komfortable Unterkunft konnte sie vor dem Schaden bewahren, den Mäuse und Ratten anrichteten. Schomburgk, 1847-48, Bd. II: 510. 
 
