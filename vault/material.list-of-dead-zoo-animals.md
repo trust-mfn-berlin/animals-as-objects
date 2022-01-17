@@ -80,7 +80,7 @@ Sowohl in den Verzeichnungssystemen der Sammlung des [[zoologischen Museums|mate
 
 Der einzige überlebende Elefant, den die Liste verzeichnete, war [[Siam|story.the-afterlife-of-zoo-animals]]. Die Komma-Zahlen, wie z.B. "1,3" für die Edelhirsche Altai-Marale, notieren genau wie in der [[material.steinmetz-index]] das Geschlecht: ein männlicher Altai-Maral und drei weibliche starben. 
 
-Nicht alle Tiernamen sind heute noch vollständig nachvollziehbar. Bei dem „Bastard“ handelte es sich wahrscheinlich um eine Kreuzung der sibirischen und bengalischen Tiger. Mit „Aristoteles“ war möglicherweise ein Sambar gemeint, auch Pferdehirsch genannt.
+Nicht alle Tiernamen sind heute noch vollständig nachvollziehbar. Bei dem "Bastard” handelte es sich wahrscheinlich um eine Kreuzung der sibirischen und bengalischen Tiger. Mit “Aristoteles” war möglicherweise ein Sambar gemeint, auch Pferdehirsch genannt.
 
 ## Transkript
 

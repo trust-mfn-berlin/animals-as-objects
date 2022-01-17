@@ -53,21 +53,21 @@ Außerdem werden vollständig anonymisierte Daten zu den besuchten Seitenreihenf
 
 ### 5.2 Cookies
 
-Die Internetseite "Tiere als Objekte?" verwendet Cookies. Cookies sind Textdateien, welche über einen Internetbrowser auf einem Computersystem abgelegt und gespeichert werden.
+Die Internetseite “Tiere als Objekte?” verwendet Cookies. Cookies sind Textdateien, welche über einen Internetbrowser auf einem Computersystem abgelegt und gespeichert werden.
 
 Zahlreiche Internetseiten und Server verwenden Cookies. Viele Cookies enthalten eine sogenannte Cookie-ID. Eine Cookie-ID ist eine eindeutige Kennung des Cookies. Sie besteht aus einer Zeichenfolge, durch welche Internetseiten und Server dem konkreten Internetbrowser zugeordnet werden können, in dem das Cookie gespeichert wurde. Dies ermöglicht es den besuchten Internetseiten und Servern, den individuellen Browser der betroffenen Person von anderen Internetbrowsern, die andere Cookies enthalten, zu unterscheiden. Ein bestimmter Internetbrowser kann über die eindeutige Cookie-ID wiedererkannt und identifiziert werden.
 
 Durch den Einsatz von Cookies kann das Museum für Naturkunde Berlin Matomo einsetzen, um statistische Auswertungen vorzunehmen. Cookies ermöglichen auch die Anzeige des eigenen persönlichen Verlaufs während einer Sitzung sowie die Auswertung, welche Seitenverlinkungen am häufigsten und welche am seltensten genutzt werden.
 
-Beim ersten Besuch der Webseite “Tiere als Objekte?“ mit einem neuen Gerät / Browser wird der betroffenen Person die Einstellung der Cookie-Präferenzen für dieses Gerät / Browser durch die Anzeige eines Dialoges ermöglich („Cookie-Banner“). Im Rahmen dieser Funktion wird die Einwilligung zur Verwendung von für die Nutzung der Webseite technisch nicht notwendigen Cookies erhoben. Erteilt die betroffene Person keine Einwilligung werden keine Cookies eingesetzt. Bei Einwilligung werden die Cookies 1 Tag für den verwendeten Browser gespeichert. Die betroffene Person kann durch Löschung der Cookies "tao_uid" und [insert Matomo cookie name here] jederzeit die Einstellung anpassen.
+Beim ersten Besuch der Webseite “Tiere als Objekte?“ mit einem neuen Gerät / Browser wird der betroffenen Person die Einstellung der Cookie-Präferenzen für dieses Gerät / Browser durch die Anzeige eines Dialoges ermöglich (“Cookie-Banner”). Im Rahmen dieser Funktion wird die Einwilligung zur Verwendung von für die Nutzung der Webseite technisch nicht notwendigen Cookies erhoben. Erteilt die betroffene Person keine Einwilligung werden keine Cookies eingesetzt. Bei Einwilligung werden die Cookies 1 Tag für den verwendeten Browser gespeichert. Die betroffene Person kann durch Löschung der Cookies “tao_uid” und [insert Matomo cookie name here] jederzeit die Einstellung anpassen.
 
 Die betroffene Person kann die Setzung von Cookies durch unsere Internetseite jederzeit mittels einer entsprechenden Einstellung des genutzten Internetbrowsers verhindern und damit der Setzung von Cookies dauerhaft widersprechen. Ferner können bereits gesetzte Cookies jederzeit über einen Internetbrowser oder andere Softwareprogramme gelöscht werden. Dies ist in allen gängigen Internetbrowsern möglich. Deaktiviert die betroffene Person die Setzung von Cookies in dem genutzten Internetbrowser, sind unter Umständen nicht alle Funktionen unserer Internetseite vollumfänglich nutzbar.
 
 ### 5.3 Web-Analyse
 
-Das Museum für Naturkunde Berlin setzt nur auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs 1 lit. a, Art. 7 DSGVO eine Lösung zur Webanalyse ein. Die Einwilligung wird im Rahmen eines eingeblendeten "Cookie-Banners" (siehe 5.2 Cookies, 5. Absatz) erhoben und kann durch Löschen der gesetzten Cookies wiederrufen werden: “tao_uid” and [insert Matomo cookie name]. Nach 1 Tag werden die Cookies automatisch gelöscht.
+Das Museum für Naturkunde Berlin setzt nur auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs 1 lit. a, Art. 7 DSGVO eine Lösung zur Webanalyse ein. Die Einwilligung wird im Rahmen eines eingeblendeten “Cookie-Banners” (siehe 5.2 Cookies, 5. Absatz) erhoben und kann durch Löschen der gesetzten Cookies wiederrufen werden: “tao_uid” and [insert Matomo cookie name]. Nach 1 Tag werden die Cookies automatisch gelöscht.
 
-Der für die Verarbeitung Verantwortliche hat auf dieser Internetseite die Komponente on-premise Matomo mit Anonymisierungsfunktion ("Matomo") integriert. Matomo ist ein Web-Analyse-Dienst. Web-Analyse ist die Erhebung, Sammlung und Auswertung von Daten über das Verhalten von Besuchern von Internetseiten. Ein Web-Analyse-Dienst erfasst unter anderem Daten darüber, von welcher Internetseite eine betroffene Person auf eine Internetseite gekommen ist (sogenannte Referrer), auf welche Unterseiten der Internetseite zugegriffen oder wie oft und für welche Verweildauer eine Unterseite betrachtet wurde. Eine Web-Analyse wird überwiegend zur Optimierung einer Internetseite eingesetzt.
+Der für die Verarbeitung Verantwortliche hat auf dieser Internetseite die Komponente on-premise Matomo mit Anonymisierungsfunktion (“Matomo”) integriert. Matomo ist ein Web-Analyse-Dienst. Web-Analyse ist die Erhebung, Sammlung und Auswertung von Daten über das Verhalten von Besuchern von Internetseiten. Ein Web-Analyse-Dienst erfasst unter anderem Daten darüber, von welcher Internetseite eine betroffene Person auf eine Internetseite gekommen ist (sogenannte Referrer), auf welche Unterseiten der Internetseite zugegriffen oder wie oft und für welche Verweildauer eine Unterseite betrachtet wurde. Eine Web-Analyse wird überwiegend zur Optimierung einer Internetseite eingesetzt.
 
 Betreiber der on-premise (nicht Cloud-basierten) Matomo-Komponente ist das Museum für Naturkunde Berlin. Die Verarbeitung und Speicherung von Daten erfolgt in Übereinstimmung mit der DSGVO.
 
@@ -83,9 +83,9 @@ Ferner besteht für die betroffene Person die Möglichkeit, einer Erfassung der 
 
 ### 5.4 User Routen
 
-Um Informationen über die Seiten zu sammeln, die nacheinander besucht werden, erstellt die Website einen anonymen eindeutigen Sitzungsbezeichner als Cookie namens "tao_uid", sofern der Verwendung von Cookies zugestimmt wurde. Was Cookies sind, wurde oben bereits erklärt. Der Cookie ist 1 Tag lang gültig und verfällt dann.
+Um Informationen über die Seiten zu sammeln, die nacheinander besucht werden, erstellt die Website einen anonymen eindeutigen Sitzungsbezeichner als Cookie namens “tao_uid”, sofern der Verwendung von Cookies zugestimmt wurde. Was Cookies sind, wurde oben bereits erklärt. Der Cookie ist 1 Tag lang gültig und verfällt dann.
 
-Während dieser Zeit werden alle Seiten der Website, die von diesem Gerät und Browser aus besucht werden, anonym und separat von den Logdateien auf dem Hetzner-Server gespeichert. Während dieser Zeit wird Nutzer:innen jeweils ihr persönlicher Browserverlauf der Website als eine Liste der nacheinander besuchten Seiten ("Route") angezeigt. Wenn Sie nach Ablauf des Cookies zurückkehren, wird eine neue anonyme eindeutige Sitzungskennung erstellt. Es besteht keine Verbindung zwischen den Daten verschiedener Browsing-Sitzungen. Nutzer:innen können nur die jeweils eigene aktuelle Route auf der Website sehen, weder frühere noch die anderer User.
+Während dieser Zeit werden alle Seiten der Website, die von diesem Gerät und Browser aus besucht werden, anonym und separat von den Logdateien auf dem Hetzner-Server gespeichert. Während dieser Zeit wird Nutzer:innen jeweils ihr persönlicher Browserverlauf der Website als eine Liste der nacheinander besuchten Seiten (“Route”) angezeigt. Wenn Sie nach Ablauf des Cookies zurückkehren, wird eine neue anonyme eindeutige Sitzungskennung erstellt. Es besteht keine Verbindung zwischen den Daten verschiedener Browsing-Sitzungen. Nutzer:innen können nur die jeweils eigene aktuelle Route auf der Website sehen, weder frühere noch die anderer User.
 
 Diese anonymisierten Reihenfolgen werden bis zum Ende der Betriebszeit der Website, 31. Dezember 2023, gespeichert. Die Verarbeitung von personenbezogenen Daten von betroffenen Personen erfolgt im Rahmen einer Auftragsverarbeitung gemäß Art. 28 DSGVO durch Trust/Arthur Baer, Kluckstr. 25, 10785 Berlin, bzw. autorisierte Sub-Unternehmer.
 
@@ -97,7 +97,7 @@ Wenn Sie per E-Mail mit uns kommunizieren möchten, so verwenden Sie bitte unser
 
 ### 5.6 Information zu Google-Diensten
 
-Wir nutzen auf unserer Webseite einen Dienst der Google Ireland Limited ("Google"), Gordon House, Barrow Street, Dublin 4, Irland.
+Wir nutzen auf unserer Webseite einen Dienst der Google Ireland Limited (“Google”), Gordon House, Barrow Street, Dublin 4, Irland.
 
 Nähere Informationen zu dem konkreten Dienst YouTube von Google, den wir auf dieser Webseite nutzen, finden Sie unter 5.6.1.
 
@@ -114,13 +114,13 @@ Wenn Sie in Ihrem Google-Konto angemeldet sind, kann Google die verarbeiteten In
 
 Google führt hierzu u.a. Folgendes aus:
 
-"Unter Umständen verknüpfen wir personenbezogene Daten aus einem Dienst mit Informationen und personenbezogenen Daten aus anderen Google-Diensten. Dadurch vereinfachen wir Ihnen beispielsweise das Teilen von Inhalten mit Freunden und Bekannten. Je nach Ihren Kontoeinstellungen werden Ihre Aktivitäten auf anderen Websites und in Apps gegebenenfalls mit Ihren personenbezogenen Daten verknüpft, um die Dienste von Google und von Google eingeblendete Werbung zu verbessern." ([Quelle bei Google](https://www.google.com/intl/de/policies/privacy/index.html))
+“Unter Umständen verknüpfen wir personenbezogene Daten aus einem Dienst mit Informationen und personenbezogenen Daten aus anderen Google-Diensten. Dadurch vereinfachen wir Ihnen beispielsweise das Teilen von Inhalten mit Freunden und Bekannten. Je nach Ihren Kontoeinstellungen werden Ihre Aktivitäten auf anderen Websites und in Apps gegebenenfalls mit Ihren personenbezogenen Daten verknüpft, um die Dienste von Google und von Google eingeblendete Werbung zu verbessern.” ([Quelle bei Google](https://www.google.com/intl/de/policies/privacy/index.html))
 
 Ein direktes Hinzufügen dieser Daten können Sie verhindern, indem Sie sich aus Ihrem Google-Konto ausloggen oder auch die entsprechenden Kontoeinstellungen in Ihrem Google-Konto vornehmen.
 
 #### 5.6.1 Verwendung von YouTube
 
-Wir nutzen auf unserer Webseite Videos von YouTube und YouTube Plug-Ins. YouTube ist ein Dienst der YouTube LLC ("YouTube"), 901 Cherry Ave., San Bruno, CA 94066, USA und wird von dieser bereitgestellt. Die YouTube LLC ist eine Tochtergesellschaft der Google Ireland Limited ("Google"), Gordon House, Barrow Street, Dublin 4, Irland.
+Wir nutzen auf unserer Webseite Videos von YouTube und YouTube Plug-Ins. YouTube ist ein Dienst der YouTube LLC (“YouTube”), 901 Cherry Ave., San Bruno, CA 94066, USA und wird von dieser bereitgestellt. Die YouTube LLC ist eine Tochtergesellschaft der Google Ireland Limited (“Google”), Gordon House, Barrow Street, Dublin 4, Irland.
 
 Die Einbindung von YouTube erfolgt durch das Einbetten des Service auf unserer Webseite mittels eines sog. „iFrames“. Beim Laden dieses iFrames erheben YouTube bzw. Google unter Umständen Informationen (auch personenbezogene Daten) und verarbeiten diese. Dabei kann nicht ausgeschlossen werden, dass YouTube bzw. Google die Informationen auch an einen Server in einem Drittland übermittelt.
 
@@ -135,9 +135,9 @@ Hinweise zu den Privatsphäreeinstellungen von Google finden Sie [hier](https://
 
 ### 5.7 Verwendung von Vimeo
 
-Wir nutzen auf unserer Webseite Videos von Vimeo und Vimeo Plug-Ins. Vimeo ist ein Dienst der Vimeo.com, Inc., ("Vimeo"), 555 West 18th Street, New York, NY 10011, USA und wird von dieser bereitgestellt.
+Wir nutzen auf unserer Webseite Videos von Vimeo und Vimeo Plug-Ins. Vimeo ist ein Dienst der Vimeo.com, Inc., (“Vimeo”), 555 West 18th Street, New York, NY 10011, USA und wird von dieser bereitgestellt.
 
-Die Einbindung von Vimeo erfolgt durch das Einbetten des Service auf unserer Webseite mittels eines sog. "iFrames". Beim Laden dieses iFrames erhebt Vimeo unter Umständen Informationen (auch personenbezogene Daten) und verarbeitet diese. Dabei kann nicht ausgeschlossen werden, dass Vimeo die Informationen auch an einen Server in einem Drittland übermittelt.
+Die Einbindung von Vimeo erfolgt durch das Einbetten des Service auf unserer Webseite mittels eines sog. “iFrames”. Beim Laden dieses iFrames erhebt Vimeo unter Umständen Informationen (auch personenbezogene Daten) und verarbeitet diese. Dabei kann nicht ausgeschlossen werden, dass Vimeo die Informationen auch an einen Server in einem Drittland übermittelt.
 
 Durch die Einbindung von Vimeo verfolgen wir den Zweck, Ihnen verschiedene Videos auf unserer Webseite präsentieren zu können, damit Sie diese unmittelbar auf unserer Webseite anschauen können. Nicht alle Archive erlauben die Nutzung ihres Bildmaterials auf YouTube, sodass wir Vimeo als Alternative einsetzen, um Ihnen auch historisches Material umfassend präsentieren zu können.
 
@@ -151,7 +151,7 @@ Nähere Informationen finden Sie in den [Datenschutzhinweisen von Vimeo](https:/
 
 ## 6. Links zu anderen Anbietern
 
-Diese Datenschutzerklärung gilt für die Internet-Angebote der Website "Tiere als Objekte?". Soweit diese auf die Webangebote Dritter verweisen oder verlinken, übernimmt das Museum für Naturkunde Berlin weder Gewähr noch Haftung für Richtigkeit oder Vollständigkeit verlinkter Inhalte und Datensicherheit der verlinkten Webpräsenzen. Die verlinkten Inhalte werden zum Zeitpunkt der Verlinkung auf offensichtliche Rechtsverletzungen geprüft. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Sollten verlinkte Inhalte gegen geltendes Recht verstoßen oder sonst unangemessene Inhalte enthalten, sind wir für einen Hinweis dankbar. Das Museum für Naturkunde Berlin hat keinen Einfluss auf die Einhaltung datenschutzrechtlicher Bestimmungen durch Dritte. Um diese zu überprüfen sollten Sie die Datenschutzerklärung des jeweiligen Angebotes aufsuchen.
+Diese Datenschutzerklärung gilt für die Internet-Angebote der Website “Tiere als Objekte?”. Soweit diese auf die Webangebote Dritter verweisen oder verlinken, übernimmt das Museum für Naturkunde Berlin weder Gewähr noch Haftung für Richtigkeit oder Vollständigkeit verlinkter Inhalte und Datensicherheit der verlinkten Webpräsenzen. Die verlinkten Inhalte werden zum Zeitpunkt der Verlinkung auf offensichtliche Rechtsverletzungen geprüft. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Sollten verlinkte Inhalte gegen geltendes Recht verstoßen oder sonst unangemessene Inhalte enthalten, sind wir für einen Hinweis dankbar. Das Museum für Naturkunde Berlin hat keinen Einfluss auf die Einhaltung datenschutzrechtlicher Bestimmungen durch Dritte. Um diese zu überprüfen sollten Sie die Datenschutzerklärung des jeweiligen Angebotes aufsuchen.
 
 ## 7. Datensicherheit
 
@@ -160,8 +160,8 @@ Die Speicherung Ihrer persönlichen Daten erfolgt auf geschützten Rechnern. Um 
 Im Rahmen unterschiedlicher Tätigkeiten erfolgt eine Verarbeitung von personenbezogenen Daten von betroffenen Personen im Rahmen einer Auftragsverarbeitung gemäß Art. 28 DSGVO.
 
 -   Trust/Arthur Baer: 5.4 User Routen
--   Google Ireland Limited ("Google"):  5.5.1 YouTube
--   Vimeo.com Inc. ("Vimeo"): 5.6 Vimeo
+-   Google Ireland Limited (“Google”):  5.5.1 YouTube
+-   Vimeo.com Inc. (“Vimeo”): 5.6 Vimeo
 
 ## 8. Betroffenenrechte
 
