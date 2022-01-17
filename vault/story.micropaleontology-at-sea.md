@@ -57,7 +57,7 @@ These novel insights were built on ocean sediments and particularly on the micro
 
 [^3]: For more on how a piston corer works, see “Piston Corer”. _Woods Hole Oceanographic Institution_, no date. https://www.whoi.edu/what-we-do/explore/instruments/instruments-sensors-samplers/piston-corer/ (01.07.2021).
 
-[^4]: Hans Pettersson. “The Swedish Deep-Sea Expedition”. _Nature_ 162 (1948): 324–325. https://scholarspace.manoa.hawaii.edu/bitstream/10125/9061/1/vol2n4-231-238.pdf (01.07.2021).
+[^4]: Hans Pettersson. “The Swedish Deep-Sea Expedition”. _Nature_ 162 (1948): 324-325. https://scholarspace.manoa.hawaii.edu/bitstream/10125/9061/1/vol2n4-231-238.pdf (01.07.2021).
 
 [^5]: Today, Scripps is still one of the most renowned centers for oceanography. See “Scripps History”. _UC San Diego_, no date. https://scripps.ucsd.edu/about/history (01.07.2021).
 
