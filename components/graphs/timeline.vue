@@ -1,5 +1,9 @@
 <template>
-  <div id="d3-timeline" :style="{'height': attr.containerHeight + 'px'}"></div>
+  <div class='graph-outer'>
+    <div id="d3-timeline" :style="{'height': attr.containerHeight + 'px'}">
+    </div>
+    <div id="d3-xaxis"></div>
+  </div>
 </template>
 
 <script>
@@ -15,7 +19,7 @@ export default {
       attr : {
         width: 1200,
         height: 900,
-        lineWidth: 32, //Thickness of timelines
+        lineWidth: 24, //Thickness of timelines
         padding:5,
         ticks: 20,
         margin: {
@@ -24,9 +28,10 @@ export default {
           left: 40,
           bottom: 40,
         },
-        spaceMultiplier: 40,
+        spaceMultiplier: 28, //Space between lines
         computedLines: 0,
-        containerHeight: 900
+        containerHeight: 900,
+        timelineHeight: 35
       },
     }
   },
@@ -53,9 +58,9 @@ export default {
           this.attr.lineWidth = 20;
           this.attr.spaceMultiplier = 25;
         } else {
-          this.attr.width = window.innerWidth - 32;
-          this.attr.lineWidth = 32;
-          this.attr.spaceMultiplier = 40;
+          this.attr.width = window.innerWidth - this.attr.lineWidth;
+          // this.attr.lineWidth = 32;
+          // this.attr.spaceMultiplier = 40;
         }
 
         this.attr.height = timelineData.length * this.attr.spaceMultiplier - this.attr.margin.top;
@@ -69,17 +74,29 @@ export default {
 
       var svg;
 
+
       const that = this;
 
       d3.selectAll("svg > *").remove();
+      d3.selectAll("svg").remove();
+
+      var xaxis = d3.select("#d3-xaxis")
+        .append("svg")
+        .attr("width", this.attr.width)
+        .attr("height", this.attr.timelineHeight);
+        
+        
 
       svg = d3
         .select("#d3-timeline")
         .append("svg")
+        .attr("class", "timeline-main")
         .attr("width", this.attr.width)
         .attr("height", this.attr.height);
 
-        svg.append("g").call(this.xAxis);
+        xaxis.append("g").call(this.xAxis);
+        svg.append("g").call(this.xAxisBg);
+
 
         svg.append("g")
           .selectAll("line")
@@ -96,6 +113,7 @@ export default {
                 })
               .attr('stroke-width', this.attr.lineWidth)
               .attr('stroke-linecap', 'round')
+
         
         d3.selectAll('.d3-timeline-line')
           .append("title")
@@ -193,9 +211,10 @@ export default {
           // d3.select(this).selectAll('text').style("visibility", "visible")
         }).on('click', function(event, d) {
           that.navigate(event, d)
-        })
+        });
           
         this.attr.containerHeight = this.attr.computedLines * this.attr.spaceMultiplier - this.attr.margin.top + this.attr.margin.bottom;
+
 
     },
     dodge(data, {x0 = d => d, x1 = d => d} = {}) {
@@ -267,8 +286,18 @@ export default {
       return lines;
     },
     xAxis(g){
-      g.attr("transform", `translate(0,${this.attr.height - this.attr.margin.bottom + 5})`)
+      g
+      .attr("class", "x-axis")
       .call(d3.axisBottom(this.x).ticks(this.attr.ticks))
+      .selectAll('line').remove()
+
+    },
+    xAxisBg(g){
+      g
+      .attr("class", "x-axis-bg")
+      .attr("transform", `translate(0,180)`)
+      .call(d3.axisBottom(this.x).ticks(this.attr.ticks).tickSize(this.attr.height).tickSizeOuter(0))
+      .selectAll('text').remove()
     },
   },
   mounted(){
@@ -286,10 +315,18 @@ export default {
 
 <style lang="less" scoped>
 
+.graph-outer{
+  padding: @space-s 0;
+  background-color: @bg-2;
+  border-radius: @radius-l;
+  position: relative;
+}
+
 #d3-timeline{
   margin-left: -@space-s;
   // overflow: hidden;
   position: relative;
+  // margin-bottom: 2rem;
 
   @media screen and (max-width: @mq-s) /* Mobile */ {
     overflow-x:scroll;
@@ -297,16 +334,12 @@ export default {
   }
 }
 
-::v-deep svg{
+#d3-timeline ::v-deep svg{
 
   position: absolute;
   bottom:0;
   z-index: 0;
   
-  // background-color: @bg-2;
-  // background-color: red;
-  // border-radius: @radius-l;
-
   .tooltip{
     // background-color: @white;
     pointer-events: none;
@@ -337,13 +370,51 @@ export default {
     }
   }
 
+  .x-axis-bg{
+    .domain{
+      stroke:none;
+    }
+    .tick{
+      line{
+        // stroke: none;
+      stroke: @white;
+      }
+      
+    }
+  }
+}
+
+#d3-xaxis{
+
+  position: sticky;
+  margin-left: -@space-s;
+  z-index: 1;
+
+  bottom: 0px;
+  // background-color: @white;
+
+  padding-top: 1rem;
+  padding-right: @space-s;
+  
+  height: auto;
+  display: block;
+  pointer-events: none;
+
+}
+
+#d3-xaxis ::v-deep svg{ 
+
+  position: relative;
+  left:0;
+  filter: drop-shadow(0 0 5px @bg);
 
   .domain{
-    // stroke:none;
+    stroke:none;
   }
   .tick{
     line{
       stroke: none;
+    // stroke: @white;
     }
     text{
       font-family: @f-mono;
