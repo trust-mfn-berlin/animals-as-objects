@@ -7,7 +7,7 @@ short_desc_de: "Stoffwechselprozesse auf hoher See "
 date_end: 1844-12-30T23:50:39.000Z
 published: false
 title: From Pests to Displays
-updated: 1642529729039
+updated: 1642532156064
 id: 3YRSzijvbnQXZs4VO291j
 doi: 64y2-m311/71
 translators:
@@ -81,7 +81,7 @@ Tracing back their history to the mid-19th century can thus give us insights int
  
 :::DE:::
 
-Vor welchen Herausforderungen standen Forschungsreisende im 19. Jahrhundert bei der überseeischen Verschiffung von naturkundlichen Objekten und lebenden Tieren? Antworten auf diese Frage kann die Seereise des Botanikers Richard Schomburgk, der 1844 mitsamt geben, der im Jahr 1844 mitsamt all seinen gesammelten Pflanzen und Tieren von Britisch-Guayana nach Deutschland übersetzte. Diese Reise erlaubt Einblick in die Praktiken der Ver- und Entsorgung von Tieren und Pflanzen im Zusammenhang mit ihrer Verschiffung über lange Distanzen. Denn während des Transports der Lebewesen änderten sich ihr Nutzen und Wert beständig und zwar in Abhängigkeit von den Verhältnissen an Bord. Dabei ging es meist um Leben und Tod, in einem metabolischen Gefüge aus Fressen und Gefressenwerden. Diese Prozesse sind wiederum Teil der Wege (und Umwege), über die Tiere damals in Zoos oder Museen gelangten.[^1]
+Vor welchen Herausforderungen standen Forschungsreisende im 19. Jahrhundert bei der überseeischen Verschiffung von naturkundlichen Objekten und lebenden Tieren? Antworten auf diese Frage kann die Seereise des Botanikers Richard Schomburgk geben, der 1844 mitsamt all seinen gesammelten Pflanzen und Tieren von Britisch-Guayana nach Deutschland übersetzte. Diese Reise erlaubt Einblick in die Praktiken der Ver- und Entsorgung von Tieren und Pflanzen im Zusammenhang mit ihrer Verschiffung über lange Distanzen. Denn während des Transports der Lebewesen änderten sich ihr Nutzen und Wert beständig und zwar in Abhängigkeit von den Verhältnissen an Bord. Dabei ging es meist um Leben und Tod, in einem metabolischen Gefüge aus Fressen und Gefressenwerden. Diese Prozesse sind wiederum Teil der Wege (und Umwege), über die Tiere damals in Zoos oder Museen gelangten.[^1]
 
 Richard Schomburgk, der später Direktor des Botanischen Gartens im australischen Adelaide werden sollte, arbeitete damals als Gartengehilfe in den Königlichen Gärten von Sanssouci, dem Potsdamer Schloss von Friedrich dem Großen, bevor er 1840 bis 1844 seinen Bruder Robert Hermann Schomburgk auf einer Reise in die Kolonie Britisch-Guayana begleitete. Robert führte im Auftrag der britischen Krone eine Expedition zur Vermessung der östlichen und westlichen Grenzen der Kolonie durch – des heutigen Guyanas, das damals Teil des britischen Kolonialgebiets Westindien an der Nordküste Südamerikas war.[^2] Nach drei Jahren Arbeit hatte Robert Schomburgk die heute als “Schomburgk-Linie” bekannte Grenze zu Venezuela sowie jene zu Niederländisch-Guayana, dem heutigen Suriname, ermittelt und kartografiert. Richard erhielt seinerseits durch Fürsprache Alexander von Humboldts staatliche Fördermittel: Die preußische Regierung beauftragte ihn mit der Sammlung neuer Flora, Fauna, Mineralien und ethnografischer Materialien für das Zoologische Museum und den Botanischen Garten in Berlin.[^3] Als er jedoch gegen Ende der Reise, im März 1843, erfuhr, dass in Berlin ein zoologischer Garten eröffnen sollte, begann er unverzüglich auch mit der Sammlung lebender Tiere.[^4] 
 
