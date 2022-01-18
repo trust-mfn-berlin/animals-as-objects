@@ -7,7 +7,7 @@ short_desc_de: Wissensorganisation dank loser Zettel
 date_end: 2022-12-26T23:55:43.591Z
 published: false
 title: A House of Cards
-updated: 1642531896399
+updated: 1642532637458
 id: A8Dh5fk6b52EJQRaw3Qe4
 doi: 64y2-m311/42
 translators:
@@ -46,7 +46,7 @@ _Card box in the Zoological Teaching Collection of the Humboldt-Universität zu 
 </figure>
 
 
-The index cards pictured here are a paper technology that is still being used to organise the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]] of the Humboldt-Universität zu Berlin and reflects the scientific effort to [[record the natural world|theme.recording-worlds]]. At first, they were used in addition to the records of items that the teaching collection had kept using [[inventory books|story.inventory-books]] since its founding in 1884, before they completely replaced the large, heavy catalogues in 1968. For each item in the collection, whether it is a specimen like a [[common seadragon|material.common-seadragon]] or a model like a [[material.silkworm-in-papier-mache]] or a [[plastic potato bug|material.somsoplast-plastic-animal-models]], there is one of these cards, which bring together all of the existing information. The index cards are sorted in a card box with numbering based on the logic of [[zoological systematics|theme.taxonomic-orders]]. These numerical codes, e.g. [[28.8.5.7-4|material.common-seadragon]], produce an extensive [[network|material.nsb-database]], within which the individual index cards refer to each other as units of information.
+The index cards pictured here are a paper technology that is still being used to organise the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]] of the Humboldt-Universität zu Berlin and reflects the scientific effort to [[record the natural world|theme.recording-worlds]]. At first, they were used in addition to the records of items that the teaching collection had kept using [[inventory books|story.inventory-books]] since its founding in 1884, before they completely replaced the large, heavy catalogues in 1968. For each item in the collection, whether it is a specimen like a [[common seadragon|material.common-seadragon]] or a model like a silkworm out of [[papier mâché|material.silkworm-in-papier-mache]] or a [[plastic potato bug|material.somsoplast-plastic-animal-models]], there is one of these cards, which bring together all of the existing information. The index cards are sorted in a card box with numbering based on the logic of [[zoological systematics|theme.taxonomic-orders]]. These numerical codes, e.g. [[28.8.5.7-4|material.common-seadragon]], produce an extensive [[network|material.nsb-database]], within which the individual index cards refer to each other as units of information.
 
 <figure>
 
