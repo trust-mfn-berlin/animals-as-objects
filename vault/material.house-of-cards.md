@@ -7,7 +7,7 @@ short_desc_de: Wissensorganisation dank loser Zettel
 date_end: 2022-12-26T23:55:43.591Z
 published: false
 title: A House of Cards
-updated: 1642519638219
+updated: 1642520595367
 id: A8Dh5fk6b52EJQRaw3Qe4
 doi: 64y2-m311/42
 translators:
@@ -54,7 +54,7 @@ The index cards pictured here are a paper technology that is still being used to
 
 <figcaption>
 
-_Record of a wet specimen of a [[common seadragon|material.common-seadragon]] in the Zoological Teaching Collection of the Humboldt University of Berlin. (Zoological Teaching Collection. All rights reserved.)_
+_Record of a wet specimen of a [[common seadragon|material.common-seadragon]] in the Zoological Teaching Collection of the Humboldt-Universität zu Berlin. (Zoological Teaching Collection. All rights reserved.)_
 
 </figcaption>
 
