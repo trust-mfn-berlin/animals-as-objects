@@ -7,7 +7,7 @@ short_desc_de: Wer (über)füttert im Zoo?
 date_end: 1960-12-31T11:00:00.000Z
 published: false
 title: Feeding and Overfeeding
-updated: 1642498665650
+updated: 1642498911172
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 doi: 64y2-m311/25
 translators:
@@ -101,23 +101,23 @@ Letters from zoo visitors also show that many felt feeding the animals was not o
 
 [^1]: The zoo stopped growing vegetables on its grounds as early as 1950: “We have a lot of plans for the spring; the gardening should stop now, because the food supply situation has improved substantially for the people of Berlin and vegetables can now be bought at the markets again. We can now beautify our grounds again.” K. Heinroth to U. Bergman, 07.03.1950, AZGB N 4/12. Direct quotes have been translated into English for clarity’s sake.
 
-[^2]: Cf. Lamp, Benjamin. _Entwicklung der Zootiermedizin im deutschsprachigen Raum_. Giessen: VVB Laufersweiler, 2009: 160. In addition, suitable food was not always available due to limited transportation options and a lack of cooling technology, making it necessary to get the animals accustomed to substitute foodstuffs.
+[^2]: Cf. Benjamin Lamp. _Entwicklung der Zootiermedizin im deutschsprachigen Raum_. Giessen: VVB Laufersweiler, 2009: 160. In addition, suitable food was not always available due to limited transportation options and a lack of cooling technology, making it necessary to get the animals accustomed to substitute foodstuffs.
 
-[^3]: Reiß, Christian. “Wie die Zoologie das Füttern lernte: Die Ernährung von Tieren in der Zoologie im 19. Jahrhundert”. _Berichte zur Wissenschaftsgeschichte_ 35, no. 4 (2012): 286–299. https://doi.org/10.1002/bewi.201201586. Cf. also Vennen, Mareike. _Das Aquarium: Praktiken, Techniken und Medien der Wissensproduktion (1840-1910)_. Berlin: Wallstein, 2018.
+[^3]: Christian Reiß. “Wie die Zoologie das Füttern lernte: Die Ernährung von Tieren in der Zoologie im 19. Jahrhundert”. _Berichte zur Wissenschaftsgeschichte_ 35, no. 4 (2012): 286-299. https://doi.org/10.1002/bewi.201201586. Cf. also Mareike Vennen. _Das Aquarium: Praktiken, Techniken und Medien der Wissensproduktion (1840-1910)_. Berlin: Wallstein, 2018.
 
-[^4]: Cf., for instance, Röll, Moritz Friedrich. “Die Knochenweiche (Rachitis)”. In _Lehrbuch der Pathologie und Therapie der Hausthiere_, Moritz Friedrich Röll (ed.), Wien: Braumüller, 1860: 85; Cheadle, Walter Butler. _Rickets: A System of Medicine_, Thomas Clifford Allbutt (ed.), vol. 4, London: 1897: 108-146. On this, see also Lamp, 2009: 160.
+[^4]: Cf., for instance, Moritz Friedrich Röll. “Die Knochenweiche (Rachitis)”. In _Lehrbuch der Pathologie und Therapie der Hausthiere_, Moritz Friedrich Röll (ed.), Wien: Braumüller, 1860: 85; Walter Butler Cheadle. _Rickets: A System of Medicine_, Thomas Clifford Allbutt (ed.), vol. 4, London: 1897: 108-146. On this, see also Lamp, 2009: 160.
 
-[^5]: Cf. Scherpner, Christoph. _Von Bürgern für Bürger: 125 Jahre Zoologischer Garten Frankfurt am Main_ Frankfurt a. M.: Zoologischer Garten, 1983: 126. Direct quotes have been translated into English for clarity’s sake.
+[^5]: Cf. Christoph Scherpner. _Von Bürgern für Bürger: 125 Jahre Zoologischer Garten Frankfurt am Main_ Frankfurt a.M.: Zoologischer Garten, 1983: 126. Direct quotes have been translated into English for clarity’s sake.
 
 [^6]: In elephants, excessive weight combined with unsuitable ground covering often results in pathological changes in the soles of the feet and nails. The obesity of breeding bulls also reduces the chances of successful reproduction. This situation gradually changed as veterinary medicine developed, and as the large emerging animal trading houses, such as Hagenbeck or Ruhe, acquired knowledge from animal trappers. Feeding thus began to be oriented more toward the needs of the animals and to take their natural eating habits into account.
 
-[^7]: Jäger, Gustav. _Skizzen aus dem Thiergarten_, Leipzig: Baensch, 1872: 242. Direct quotes have been translated into English for clarity’s sake.
+[^7]: Gustav Jäger. _Skizzen aus dem Thiergarten_, Leipzig: Baensch, 1872: 242. Direct quotes have been translated into English for clarity’s sake.
 
 [^8]: Lamp, 2009: 161-162.
 
-[^9]: Kallmann, E. “Die Krankheiten der Tiere im Zoologischen Garten in Berlin”. _Tierärztliche Rundschau_ 28 (12.07.1925): 482-484. Direct quotes have been translated into English for clarity’s sake.
+[^9]: E. Kallmann. “Die Krankheiten der Tiere im Zoologischen Garten in Berlin”. _Tierärztliche Rundschau_ 28 (12.07.1925): 482-484. Direct quotes have been translated into English for clarity’s sake.
 
-[^10]: de Luce, Daniel. “Lebensmittelkarte 5 im Berliner Zoo”. _Tägliche Rundschau_, 17.12.1946. For further examples of animals that fell ill or died in Berlin Zoo around 1930 as a result of overfeeding, see also “Feeding prohibited! Observations at the zoo”. _Steglitzer Anzeiger_, 24.07.1930. Direct quotes have been translated into English for clarity’s sake.
+[^10]: Daniel de Luce. “Lebensmittelkarte 5 im Berliner Zoo”. _Tägliche Rundschau_, 17.12.1946. For further examples of animals that fell ill or died in Berlin Zoo around 1930 as a result of overfeeding, see also “Feeding prohibited! Observations at the zoo”. _Steglitzer Anzeiger_, 24.07.1930. Direct quotes have been translated into English for clarity’s sake.
 
 :::DE:::
 
@@ -187,20 +187,20 @@ Auch die Briefe von Besucher:innen an den Zoo zeigen, dass viele das Füttern de
 
 [^2]: Vorhandene Quellen belegen ausschließlich männliche Personen in diesen Berufen.
 
-[^3]: Vgl. Lamp, Benjamin. _Entwicklung der Zootiermedizin im deutschsprachigen Raum_. Giessen: VVB Laufersweiler, 2009: 160. Hinzu kam, dass die passende Nahrung wegen eingeschränkter Transportmöglichkeiten oder mangelnden Kühltechniken nicht immer zur Verfügung stand, so dass die Tiere an Ersatznahrung gewöhnt werden mussten.
+[^3]: Vgl. Benjamin Lamp. _Entwicklung der Zootiermedizin im deutschsprachigen Raum_. Giessen: VVB Laufersweiler, 2009: 160. Hinzu kam, dass die passende Nahrung wegen eingeschränkter Transportmöglichkeiten oder mangelnden Kühltechniken nicht immer zur Verfügung stand, so dass die Tiere an Ersatznahrung gewöhnt werden mussten.
 
-[^4]: Reiß, Christian. “Wie die Zoologie das Füttern lernte: Die Ernährung von Tieren in der Zoologie im 19. Jahrhundert”. _Berichte zur Wissenschaftsgeschichte_ 35, Nr. 4 (2012): 286-299. https://doi.org/10.1002/bewi.201201586. Vgl. auch Vennen, Mareike. _Das Aquarium: Praktiken, Techniken und Medien der Wissensproduktion (1840-1910)_. Berlin: Wallstein, 2018.
+[^4]: Christian Reiß. “Wie die Zoologie das Füttern lernte: Die Ernährung von Tieren in der Zoologie im 19. Jahrhundert”. _Berichte zur Wissenschaftsgeschichte_ 35, Nr. 4 (2012): 286-299. https://doi.org/10.1002/bewi.201201586. Vgl. auch Mareike Vennen. _Das Aquarium: Praktiken, Techniken und Medien der Wissensproduktion (1840-1910)_. Berlin: Wallstein, 2018.
 
-[^5]: Vgl. etwa Röll, Moritz Friedrich. “Die Knochenweiche (Rachitis)”. In _Lehrbuch der Pathologie und Therapie der Hausthiere_, Moritz Friedrich Röll (Hg.). Wien: Braumüller, 1860: 85; Cheadle, Walter Butler. _Rickets: A System of Medicine_, Thomas Clifford Allbutt (Hg.), Bd. 4, London: 1897: 108-146. Siehe hierzu auch Lamp, 2009: 160.
+[^5]: Vgl. etwa Moritz Friedrich Röll. “Die Knochenweiche (Rachitis)”. In _Lehrbuch der Pathologie und Therapie der Hausthiere_. Moritz Friedrich Röll (Hg.). Wien: Braumüller, 1860: 85; Walter Butler Cheadle. _Rickets: A System of Medicine_, Thomas Clifford Allbutt (Hg.), Bd. 4, London: 1897: 108-146. Siehe hierzu auch Lamp, 2009: 160.
 
-[^6]: Vgl. Scherpner, Christoph. _Von Bürgern für Bürger: 125 Jahre Zoologischer Garten Frankfurt am Main_. Frankfurt a. M.: Zoologischer Garten, 1983: 126.
+[^6]: Vgl. Christoph Scherpner. _Von Bürgern für Bürger: 125 Jahre Zoologischer Garten Frankfurt am Main_. Frankfurt a.M.: Zoologischer Garten, 1983: 126.
 
 [^7]: Bei Elefanten resultierten aus einem zu hohen Körpergewicht zusammen mit ungeeigneten Bodenbelägen häufig pathologische Veränderungen der Fußsohlen und Nägel. Gleichzeitig gefährdete die Adipositas der Zuchtbullen eine erfolgreiche Nachzucht. Die Situation änderte sich sukzessive, als sich die Tiermedizin weiterentwickelte und die sich etablierenden großen Tierhandlungen wie Hagenbeck oder Ruhe sich das Wissen der Tierfänger aneigneten, so dass man sich bei der Fütterung mehr an den Bedürfnissen der Tiere zu orientieren und ihre Ernährungsgewohnheiten in ihren natürlichen Lebensräumen zu berücksichtigen begann.
 
-[^8]: Jäger, Gustav. _Skizzen aus dem Thiergarten_. Leipzig: Baensch, 1872: 242.
+[^8]: Gustav Jäger. _Skizzen aus dem Thiergarten_. Leipzig: Baensch, 1872: 242.
 
 [^9]: Lamp, 2009: 161-162.
 
-[^10]: Kallmann, E. “Die Krankheiten der Tiere im Zoologischen Garten in Berlin”. _Tierärztliche Rundschau_ 28 (12.07.1925): 482-484.
+[^10]: E. Kallmann. “Die Krankheiten der Tiere im Zoologischen Garten in Berlin”. _Tierärztliche Rundschau_ 28 (12.07.1925): 482-484.
 
-[^11]: de Luce, Daniel. “Lebensmittelkarte 5 im Berliner Zoo.” _Tägliche Rundschau_, 17.12.1946. Für weitere Beispiele von Tieren, die im Berliner Zoo um 1930 infolge Überfütterung erkrankten oder starben vgl. auch “Füttern verboten! Beobachtungen im Zoo”. _Steglitzer Anzeiger_, 24.07.1930.
+[^11]: Daniel de Luce. “Lebensmittelkarte 5 im Berliner Zoo.” _Tägliche Rundschau_, 17.12.1946. Für weitere Beispiele von Tieren, die im Berliner Zoo um 1930 infolge Überfütterung erkrankten oder starben vgl. auch “Füttern verboten! Beobachtungen im Zoo”. _Steglitzer Anzeiger_, 24.07.1930.
