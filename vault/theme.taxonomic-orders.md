@@ -14,19 +14,17 @@ translators:
   translator_en_de: ""
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
-desc: |-
-  In biology, taxonomy is a formal system to name, define, and classify
-  organisms, regulated and governed by a set of rules. Since its beginning
+desc: In biology, taxonomy is a formal system to name, define, and classify
+  organisms, regulated and governed by a set of rules. Since its beginning,
   biological taxonomy was neither stable nor universal, controversies frequently
-  emerged. Classifications still continue to change today – and they have
-  lasting impacts on our world.
-desc_de: |-
-  In der Biologie ist die Taxonomie ein formales System zur Benennung,
+  emerged. Classifications continue to change even today – yet they have lasting
+  impacts on our world.
+desc_de: In der Biologie ist die Taxonomie ein formales System zur Benennung,
   Definition und Klassifizierung von Organismen, das mit Hilfe einer Reihe von
   Regeln unterliegt. Seit ihren Anfängen war die biologische Taxonomie weder
-  beständig noch allgemeingültig. Tatsächlich kam es wiederholt zu Kontroversen.
-  Die Klassifizierungen ändern sich auch heute noch – und beeinflussen unsere
-  Welt nachhaltig.
+  beständig noch allgemein gültig. Tatsächlich kommt es immer wieder zu
+  Kontroversen. Die Klassifizierungen ändern sich auch heute noch – und
+  beeinflussen unsere Welt nachhaltig.
 short_desc: Organising nature is political
 cover_image:
   image: /images/cover-taxonomical-orders.jpg
