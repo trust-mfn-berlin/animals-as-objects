@@ -14,7 +14,7 @@ desc: Since only a relatively short time zoos intensify their conservation effor
 desc_de: Zoos bewerben sich heute als Artenschutzzentren. Bis in die 1970er
   Jahre wurde die Mehrzahl ihrer ausgestellten Tiere allerdings in deren
   Habitaten gefangen. Welche Entwicklungen haben Zoos durchlaufen und welche
-  Dilemmata haben sich ergeben.
+  Dilemmata haben sich ergeben?
 short_desc: Since only a relatively short time zoos intensify their conservation efforts.
 cover_image:
   image: /images/orangs_wegweiser_1927.jpg
