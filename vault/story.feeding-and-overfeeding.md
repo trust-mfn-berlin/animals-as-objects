@@ -7,7 +7,7 @@ short_desc_de: Wer (über)füttert im Zoo?
 date_end: 1960-12-31T11:00:00.000Z
 published: false
 title: Feeding and Overfeeding
-updated: 1642498911172
+updated: 1642499963424
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 doi: 64y2-m311/25
 translators:
@@ -97,7 +97,7 @@ _The_ Tägliche Rundschau _presents feeding the animals as an act of sharing in 
 
 </figure>
 
-Letters from zoo visitors also show that many felt feeding the animals was not only a practical necessity, but also a form of caring. While in the first postwar years, feeding became an act of solidarity with the zoo and its animals, and may even have saved the lives of some animals, the dangers of overfeeding returned in full force in the 1950s, see also [[story.feeding-prohibited]].
+Letters from zoo visitors also show that many felt feeding the animals was not only a practical necessity, but also a form of caring. While in the first postwar years, feeding became an act of solidarity with the zoo and its animals, and may even have saved the lives of some animals, the [[dangers of overfeeding|story.feeding-prohibited]] returned in full force in the 1950s.
 
 [^1]: The zoo stopped growing vegetables on its grounds as early as 1950: “We have a lot of plans for the spring; the gardening should stop now, because the food supply situation has improved substantially for the people of Berlin and vegetables can now be bought at the markets again. We can now beautify our grounds again.” K. Heinroth to U. Bergman, 07.03.1950, AZGB N 4/12. Direct quotes have been translated into English for clarity’s sake.
 
@@ -181,7 +181,7 @@ _Die_ Tägliche Rundschau _präsentiert das Füttern der Tiere als Akt des Teile
 
 </figure>
 
-Auch die Briefe von Besucher:innen an den Zoo zeigen, dass viele das Füttern der Tiere nicht nur als praktische Notwendigkeit, sondern als eine Form der Fürsorge empfanden. Während in den ersten Nachkriegsjahren das Füttern zum solidarischen Akt mit dem Zoo und seinen Tieren avancierte und für manche Tiere sogar lebensrettend gewesen sein mag, kehrte die Gefahr der Überfütterung in den 1950er Jahre mit voller Macht zurück. Siehe hierzu auch [[story.feeding-prohibited]].
+Auch die Briefe von Besucher:innen an den Zoo zeigen, dass viele das Füttern der Tiere nicht nur als praktische Notwendigkeit, sondern als eine Form der Fürsorge empfanden. Während in den ersten Nachkriegsjahren das Füttern zum solidarischen Akt mit dem Zoo und seinen Tieren avancierte und für manche Tiere sogar lebensrettend gewesen sein mag, kehrte die [[Gefahr der Überfütterung|story.feeding-prohibited]] in den 1950er Jahre mit voller Macht zurück.
 
 [^1]: Die Gemüsebeete verschwanden bereits ab 1950 wieder aus dem Zoo: “Wir haben ja allerhand vor für das Frühjahr; die Gärtelei soll jetzt aufhören, denn die Ernährungsverhältnisse hier in Berlin haben sich ja für die Bevölkerung grundlegend gebessert, so dass man jetzt wieder Gemüse auf den Märkten zu kaufen bekommt. Wir können also nun wieder im Garten unsere Anlagen sehr schön herrichten.” K. Heinroth an U. Bergman, 07.03.1950, AZGB N 4/12.
 
