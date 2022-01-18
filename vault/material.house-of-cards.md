@@ -11,7 +11,7 @@ translators:
   translator_de_en: Lydia J. White
 desc: Organising knowledge using index cards
 desc_de: Wissensorganisation dank loser Zettel
-short_desc: Organising knowledge using loose index cards
+short_desc: Organising knowledge using index cards
 short_desc_de: Wissensorganisation dank loser Zettel
 cover_image:
   image: /images/cover-karteikarten-index-card-system-zoological-teaching-collection-zoologische-lehrsammlung.png
