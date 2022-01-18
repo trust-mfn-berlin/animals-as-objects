@@ -1,25 +1,25 @@
 ---
 license: CC BY-SA
+title: Of Lion-Tigers and Rotting Specimens
 title_de: Von Löwen-Tigern und verfaulten Präparaten
 created: 1639567838410
-author: Sarina Schirmer
-short_desc_de: Ein Verzeichnis enthält viele Geschichten
-date_end: 1858-12-30T12:39:11.999Z
-published: false
-title: Of Lion Tigers and Rotting Specimens
 updated: 1642455518162
 id: b1zgnK9GmzS2RLdAd76u0
+author: Sarina Schirmer
 doi: 64y2-m311/45
 translators:
   translator_de_en: Lydia J. White
 desc: A record contains many stories
 desc_de: Ein Verzeichnis enthält viele Geschichten
 short_desc: A record contains many stories
+short_desc_de: Ein Verzeichnis enthält viele Geschichten
 cover_image:
   image: /images/cover-lions-tigers-specimens.jpg
 colour_scheme: 1
 tao_type: material
 date_start: 1843-01-01T12:39:11.988Z
+date_end: 1858-12-30T12:39:11.999Z
+published: false
 ---
 
 :::EN:::
