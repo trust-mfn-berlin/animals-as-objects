@@ -7,7 +7,7 @@ short_desc_de: Warum Präparatoren Tagebuch führen
 date_end: 1858-12-31T11:06:32.000Z
 published: false
 title: The Logbooks of the Zoological Museum
-updated: 1642507669468
+updated: 1642519456487
 id: GbN8jKA3AMS4f5MC9oXTL
 doi: 64y2-m311/41
 translators:
@@ -35,7 +35,7 @@ date_start: 1842-12-31T23:06:32.000Z
 
 <figcaption>
 
-_Item records in the logbooks of the preparators of the Zoological Museum, which was part of the Natural History Museum in Berlin. (HBSB/MfN, image: Sarina Schirmer. All rights reserved.)_
+_Item records in the logbooks of the preparators of the Zoological Museum, which was part of the natural history museum in Berlin. (HBSB/MfN, image: Sarina Schirmer. All rights reserved.)_
 
 </figcaption>
 

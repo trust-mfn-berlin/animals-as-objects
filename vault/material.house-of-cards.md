@@ -7,7 +7,7 @@ short_desc_de: Wissensorganisation dank loser Zettel
 date_end: 2022-12-26T23:55:43.591Z
 published: false
 title: A House of Cards
-updated: 1642421523799
+updated: 1642519431005
 id: A8Dh5fk6b52EJQRaw3Qe4
 doi: 64y2-m311/42
 translators:
@@ -39,14 +39,14 @@ date_start: 1967-12-31T23:00:00.000Z
  
 <figcaption>
  
-_Card catalogue in the Zoological Teaching Collection of the Humboldt University of Berlin. Zoological Teaching Collection, image: Theresa Schatt. All rights reserved.)_
+_Card catalogue in the Zoological Teaching Collection of the Humboldt-Universität zu Berlin. Zoological Teaching Collection, image: Theresa Schatt. All rights reserved.)_
 
 </figcaption>
  
 </figure>
 
 
-The index cards pictured here are a paper technology that is still being used to organise the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]] of the Humboldt University in Berlin. At first, they were used in addition to the records of items that the teaching collection had kept using [[inventory books|story.inventory-books]] since its founding in 1884, before they completely replaced the large, heavy catalogues in 1968. For each item in the collection, whether it is a specimen or a model, there is one of these cards, which bring together all of the existing information. The index cards are sorted in a card catalogue with numbering based on the logic of [[zoological systematics|theme.taxonomic-orders]]. These numerical codes, e.g. [[28.8.5.7-4|material.common-seadragon]], produce an extensive network, within which the individual index cards refer to each other as units of information.
+The index cards pictured here are a paper technology that is still being used to organise the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]] of the Humboldt-Universität zu Berlin. At first, they were used in addition to the records of items that the teaching collection had kept using [[inventory books|story.inventory-books]] since its founding in 1884, before they completely replaced the large, heavy catalogues in 1968. For each item in the collection, whether it is a specimen or a model, there is one of these cards, which bring together all of the existing information. The index cards are sorted in a card catalogue with numbering based on the logic of [[zoological systematics|theme.taxonomic-orders]]. These numerical codes, e.g. [[28.8.5.7-4|material.common-seadragon]], produce an extensive network, within which the individual index cards refer to each other as units of information.
 
 <figure>
 
