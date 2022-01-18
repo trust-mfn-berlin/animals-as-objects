@@ -7,7 +7,7 @@ short_desc_de: Eine mikroskopisch kleine Radolarienart
 date_end: 2022-12-06T11:35:52.482Z
 published: false
 title: Cycladophora davisiana
-updated: 1642503712580
+updated: 1642504046461
 id: 6b86b681-8157-4bd4-acb1-167b98547122
 doi: 64y2-m311/4
 translators:
@@ -62,9 +62,9 @@ In the 1990s, thanks to the German reunification, the Ehrenberg Collection was a
 
 [^1]: “_Cycladophora davisiana_ Ehrenberg, 1862”. _Radiolaria.org_, no date, https://www.radiolaria.org/species.htm?division=13&sp_id=1 (03.01.2022).
 
-[^2]: Matul, Alexander. “The Recent and Quaternary Distribution of the Radiolarian Species _Cycladophora davisiana_: A Biostratigraphic and Paleoceanographic Tool”. _Oceanology_ 51 (2011): 335-346. https://doi.org/10.1134/S0001437011020111.
+[^2]: Alexander Matul. “The Recent and Quaternary Distribution of the Radiolarian Species _Cycladophora davisiana_: A Biostratigraphic and Paleoceanographic Tool”. _Oceanology_ 51 (2011): 335-346. https://doi.org/10.1134/S0001437011020111.
 
-[^3]: The German translation uses the masculine term here, because it refers to two men. However, there were some renowned women naturalists in the 19th century as well. For more about women naturalists in Europe, see Mohr, Barbara. “Women popularizers and their audience from the 18th to the 21st century in central Europe”. _History of Science Conference_. Prague, 2015. https://doi.org/10.13140/RG.2.1.1843.6087. For an overview of women naturalists and their roles at German museums 1830-1950, see Mohr, Barbara. “Clara Ehrenberg, Werk und Bedeutung”. _Ehrenberg-Tag Conference_. Berlin, 2015. https://doi.org/10.13140/RG.2.1.1319.3208.
+[^3]: The German translation uses the masculine term here, because it refers to two men. However, there were some renowned women naturalists in the 19th century as well. For more about women naturalists in Europe, see Barbara Mohr. “Women Popularizers and their Audience from the 18th to the 21st Century in Central Europe”. _History of Science Conference_. Prague, 2015. https://doi.org/10.13140/RG.2.1.1843.6087. For an overview of women naturalists and their roles at German museums 1830-1950, see Barbara Mohr. “Clara Ehrenberg: Werk und Bedeutung”. _Ehrenberg-Tag Conference_. Berlin, 2015. https://doi.org/10.13140/RG.2.1.1319.3208.
 
 
 :::DE:::
@@ -93,6 +93,6 @@ In den 1990er Jahren stand die Ehrenberg Sammlung westlichen Forschenden aufgrun
 
 [^1]: “_Cycladophora davisiana_ Ehrenberg, 1862”. _Radiolaria.org_, no date, https://www.radiolaria.org/species.htm?division=13&sp_id=1 (03.01.2022).
 
-[^2]: Matul, Alexander. “The Recent and Quaternary Distribution of the Radiolarian Species _Cycladophora davisiana_: A Biostratigraphic and Paleoceanographic Tool”. _Oceanology_ 51 (2011): 335-346. https://doi.org/10.1134/S0001437011020111.
+[^2]: Alexander Matul. “The Recent and Quaternary Distribution of the Radiolarian Species _Cycladophora davisiana_: A Biostratigraphic and Paleoceanographic Tool”. _Oceanology_ 51 (2011): 335-346. https://doi.org/10.1134/S0001437011020111.
 
-[^3]: In der deutschen Übersetzung wird hier der maskuline Begriff verwendet, da er sich konkret auf zwei Männer bezieht. Allerdings gab es im 19. Jahrhundert auch einige bekannte Naturforscherinnen. Mehr über die Arbeit von Naturforscherinnen in Europa findet sich bei Mohr, Barbara. “Women popularizers and their audience from the 18th to the 21st century in central Europe”. _History of Science Konferenz_. Prag, 2015. https://doi.org/10.13140/RG.2.1.1843.6087. Eine Übersicht zu Naturforscherinnen und ihren Rollen an deutschen Museen findet sich bei Mohr, Barbara. “Clara Ehrenberg, Werk und Bedeutung”. _Ehrenberg-Tag Konferenz_. Berlin, 2015. https://doi.org/10.13140/RG.2.1.1319.3208.
+[^3]: In der deutschen Übersetzung wird hier der maskuline Begriff verwendet, da er sich konkret auf zwei Männer bezieht. Allerdings gab es im 19. Jahrhundert auch einige bekannte Naturforscherinnen. Mehr über die Arbeit von Naturforscherinnen in Europa findet sich bei Barbara Mohr. “Women Popularizers and their Audience from the 18th to the 21st Century in Central Europe”. _History of Science Konferenz_. Prag, 2015. https://doi.org/10.13140/RG.2.1.1843.6087. Eine Übersicht zu Naturforscherinnen und ihren Rollen an deutschen Museen findet sich bei Mohr, Barbara. “Clara Ehrenberg: Werk und Bedeutung”. _Ehrenberg-Tag Konferenz_. Berlin, 2015. https://doi.org/10.13140/RG.2.1.1319.3208.
