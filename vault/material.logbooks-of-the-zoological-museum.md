@@ -7,7 +7,7 @@ short_desc_de: Warum Präparatoren Tagebuch führen
 date_end: 1858-12-31T11:06:32.000Z
 published: false
 title: The Logbooks of the Zoological Museum
-updated: 1642519456487
+updated: 1642519499368
 id: GbN8jKA3AMS4f5MC9oXTL
 doi: 64y2-m311/41
 translators:
