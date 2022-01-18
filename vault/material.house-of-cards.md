@@ -7,7 +7,7 @@ short_desc_de: Wissensorganisation dank loser Zettel
 date_end: 2022-12-26T23:55:43.591Z
 published: false
 title: A House of Cards
-updated: 1642531718918
+updated: 1642531896399
 id: A8Dh5fk6b52EJQRaw3Qe4
 doi: 64y2-m311/42
 translators:
