@@ -19,13 +19,12 @@ desc: |-
   these trees tell us today – about the connections between the _Morus alba_ and
   the silkworm, between philosophy and economics, between royal decrees and
   everyday knowledge?
-desc_de: |-2
-   Warum gibt es in Berlin Maulbeerbäume? Ihre Geschichte ist heute fast
-  vergessen. Dabei waren sie einst unverzichtbar für den Seidenbau, der im 18.
-  und 19. Jahrhundert in Berlin und Brandenburg betrieben wurde. Was können die
-  Bäume heute noch erzählen – über die Verbindungen von _Morus alba_ und
-  Seidenraupe, von Philosophie und Ökonomie, von königlichen Dekreten und
-  Alltagswissen?
+desc_de: Warum gibt es in Berlin Maulbeerbäume? Ihre Geschichte ist heute
+  fastvergessen. Dabei waren sie einst unverzichtbar für den Seidenbau, der im
+  18.und 19. Jahrhundert in Berlin und Brandenburg betrieben wurde. Was können
+  dieBäume heute noch erzählen – über die Verbindungen von _Morus alba_
+  undSeidenraupe, von Philosophie und Ökonomie, von königlichen Dekreten
+  undAlltagswissen?
 short_desc: The traces of trees and animals in Berlin
 cover_image:
   image: /images/old-mulberry-tree-alter-maulbeerbaum-berlin-museum-fuer-naturkunde-natural-history-museum.jpg
