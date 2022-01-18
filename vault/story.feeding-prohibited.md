@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding Prohibited
 title_de: Füttern verboten
 created: 1620752897039
-updated: 1642200917999
+updated: 1642500098167
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 author: Mareike Vennen
 doi: 64y2-m311/26
@@ -212,7 +212,7 @@ Although zoo directors had been discussing the issue for some time, at the 40th 
 
 [^1]: Edwin Hennings. _Katalogirter Führer durch den Berliner Zoologischen Garten_, 6. Ed. Berlin: A. Seidel, 1873: 2. The Hamburg Zoo guide explicitly referred to the signs. Cf. Heinrich Bolau. _Führer durch den Zoologischen Garten zu Hamburg_, 29. Ed. Hamburg: Verlag der Zoologischen Gesellschaft Hamburg, 1879: n.p. Direct quotes have been translated into English for clarity’s sake.
 
-[^2]: D. Backhaus. “Die Eröffnung des Gartens im Jahre 1858”. In _Hundertjähriger Zoo in Frankfurt am Main_. The Zoological Garden of the City of Frankfurt am Main (ed.). Frankfurt a. M.: 1957. Direct quotes have been translated into English for clarity’s sake.
+[^2]: D. Backhaus. “Die Eröffnung des Gartens im Jahre 1858”. In _Hundertjähriger Zoo in Frankfurt am Main_. The Zoological Garden of the City of Frankfurt am Main (ed.). Frankfurt a.M.: 1957. Direct quotes have been translated into English for clarity’s sake.
 
 [^3]: Zoological Garden Berlin. “Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin für das Jahr 1925”. Direct quotes have been translated into English for clarity’s sake.
 
@@ -266,7 +266,7 @@ Although zoo directors had been discussing the issue for some time, at the 40th 
 
 [^28]: Exceptions today are petting zoos. Formerly, this was done by “Tierkinderzoos”.
 
-[^29]: Cf. for instance Christoph Scherpner. _Von Bürgern für Bürger: 125 Jahre Zoologischer Garten Frankfurt am Main_. Frankfurt a. M.: Zoologischer Garten, 1983: 145. 
+[^29]: Cf. for instance Christoph Scherpner. _Von Bürgern für Bürger: 125 Jahre Zoologischer Garten Frankfurt am Main_. Frankfurt a.M.: Zoologischer Garten, 1983: 145. 
 
 [^30]: Cf. Christina May. _Die Szenografie der Wildnis: Immersive Techniken in zoologischen Gärten im 20. und 21. Jahrhundert_. Berlin: Neofelis Verlag, 2020.
 
@@ -510,7 +510,7 @@ Unter Zoodirektor:innen wurde über das Thema schon länger beratschlagt. 1928 f
 
 [^28]: Ausnahmen bilden heute die Streichelzoos, vormals übernahmen dies Tierkinderzoos.
 
-[^29]: Vgl. u. a. Christoph Scherpner. _Von Bürgern für Bürger: 125 Jahre Zoologischer Garten Frankfurt am Main_. Frankfurt a. M.: Zoologischer Garten, 1983: 145.
+[^29]: Vgl. u. a. Christoph Scherpner. _Von Bürgern für Bürger: 125 Jahre Zoologischer Garten Frankfurt am Main_. Frankfurt a.M.: Zoologischer Garten, 1983: 145.
 
 [^30]: Vgl. Christina May. _Die Szenografie der Wildnis: Immersive Techniken in zoologischen Gärten im 20. und 21. Jahrhundert_. Berlin: Neofelis Verlag, 2020.
 
