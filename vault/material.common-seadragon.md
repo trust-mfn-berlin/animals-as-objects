@@ -7,7 +7,7 @@ short_desc_de: 28.8.5.7-4 in einer Sammlung von Codes
 date_end: 1892-12-31T11:06:32.000Z
 published: false
 title: Common Seadragon
-updated: 1642507103395
+updated: 1642507777747
 id: 4TOAlxsuxdlxsQcZI2vRT
 doi: 64y2-m311/40
 translators:
@@ -43,7 +43,7 @@ _Record of a wet specimen of the common seadragon in the Zoological Teaching Col
 
 The number ‘28.8.5.7-4’ for the specimen of a common seadragon (_Phyllopteryx taeniolatus Lacepede_) represents the taxonomic categories of phylum, class, order, and species, which thus identify this specimen as a syngnathid. The index card pictured here displays a legend that maps out this hierarchy, from the largest unit, the phylum ‘28’, which here is the _Chordata_ group, down to the smallest category, the species ‘4’, which in this case is the common seadragon. Animals that belong to this species are thus vertebrates (of the _subphylum Vertebrata_), belong to the class ‘8’ of fish and the subclass ‘5’ of _Teleostei_, and are _Syngnathiformes_ on the level of order ‘7’.
 
-**The principle of numerical codes in the teaching collection is complex and yet unstable, especially when trying to keep up with the developments continuously taking place in the taxonomic system. New species are being discovered, the demarcations between various hierarchies dissolved, and new intercategories are asserting themselves.** What is more, some items in the teaching collection have an additional number and are grouped or placed together due to the type of object they are. The reason for this is the pragmatic way that they must be stored for teaching. It is then the task of the people working in the collection to adjust the numbering, to relabel the objects, and to reorder the index cards and the objects, or, even, to link them in a [[digital database|material.nsb-database]].
+**The principle of numerical codes in the teaching collection is complex and yet unstable, especially when trying to keep up with the developments continuously taking place in the taxonomic system. New species are being discovered, the demarcations between various hierarchies dissolved, and new intercategories are asserting themselves.** What is more, some items in the teaching collection have an additional number and are grouped or placed together due to the type of object they are. The reason for this is the pragmatic way that they must be stored for teaching. It is then the task of the people working in the collection to adjust the numbering, to relabel the objects, and to reorder the index cards and the objects, or to link them in a [[digital database|material.nsb-database]].
 
 ## Transcript
 
