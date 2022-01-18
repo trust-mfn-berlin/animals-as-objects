@@ -3,7 +3,7 @@ license: CC BY-SA
 title: An ‘Atmospheric Image’ of the Empire
 title_de: Ein ‘stimmungsvolles Bild’ des Kolonialreichs
 created: 1640456876442
-updated: 1642255914316
+updated: 1642499600665
 id: ZDxo1U9ptEVRJhmFpVKyC
 author: Catarina Madruga
 doi: 64y2-m311/74
@@ -27,7 +27,7 @@ published: false
 <figure>
 
 ![Black and white photograph of an exhibition room. Above a stand with various products like fabrics, crafted objects, and coffee, among other things, hangs a banner, advertising the “Kolonial-Haus Karl Eisengräber”. One white man is standing at the right corner behind the stand, two black men stand on the left side of the stand. 
-On the left wall are hanged animal skulls with horns of various sizes, below which are displayed several commercial products, such as coffee beans.](/images/guests/an-evocative-image_1.jpg)
+On the left wall are hanged animal skulls with horns of various sizes, below which are displayed several commercial products, such as coffee beans.](/images/guests/an-atmospheric-image-1.jpg)
 
 <figcaption>
 
@@ -43,7 +43,7 @@ The event was organised by the Deutsche Kolonialgesellschaft (the German Colonia
 
 <figure>
 
-![A floor plan with a legend explaining the numbers of 31 individual rooms drawn on the plan.](/images/guests/an-evocative-image_2.png)
+![A floor plan with a legend explaining the numbers of 31 individual rooms drawn on the plan.](/images/guests/an-atmospheric-image-2.jpg)
 
 <figcaption>
 
@@ -71,7 +71,7 @@ This strategy to combine a hunting exhibition with a colonial exhibition continu
 
 <figure>
 
-![Schwarz-Weiß-Foto eines Ausstellungsraums. Oberhalb eines Verkaufsstands mit diversen Produkten wie Stoffen, handgemachten Gegenstände und Kaffee, hängt ein Banner mit der Aufschrift „Kolonial-Haus Karl Eisengräber“. Ein „Weißer“ Mann steht rechts im Bild hinter dem Verkaufsstand, am anderen Ende des Verkaufsstands befinden sich zwei „Schwarze“ Männer. An der Wand sind weitere Objekte zu sehen, so z.B. Kaffeeverpackungen, darüber hängen zahlreiche, unterschiedlich große, gehörnte Tierschädel.](/images/guests/an-evocative-image_1.jpg)
+![Schwarz-Weiß-Foto eines Ausstellungsraums. Oberhalb eines Verkaufsstands mit diversen Produkten wie Stoffen, handgemachten Gegenstände und Kaffee, hängt ein Banner mit der Aufschrift „Kolonial-Haus Karl Eisengräber“. Ein „Weißer“ Mann steht rechts im Bild hinter dem Verkaufsstand, am anderen Ende des Verkaufsstands befinden sich zwei „Schwarze“ Männer. An der Wand sind weitere Objekte zu sehen, so z.B. Kaffeeverpackungen, darüber hängen zahlreiche, unterschiedlich große, gehörnte Tierschädel.](/images/guests/an-atmospheric-image-1.jpg)
 
 <figcaption>
 
@@ -87,7 +87,7 @@ Organisiert wurde die Ausstellung von der Deutschen Kolonialgesellschaft, die wi
 
 <figure>
 
-![Ein Ausstellungsplan samt Legende, die die 31 einzeln aufgeführten Räume erklärt.](/images/guests/an-evocative-image_2.png)
+![Ein Ausstellungsplan samt Legende, die die 31 einzeln aufgeführten Räume erklärt.](/images/guests/an-atmospheric-image-2.jpg)
 
 <figcaption>
 
