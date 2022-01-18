@@ -17,13 +17,13 @@ copy_editors:
   copy_editor_de: Jan-Peter Herrmann
 desc: Thanks to complex technoscientific networks, Cycladophora has become an
   important tool in the study of planetary systems and climate. This story
-  follows the microorganism’s trajectory, to trace how these networks formed,
-  and how they continue to shape how we know the planet - and its microbial
+  follows the microorganism’s trajectory to trace how these networks formed and
+  how they continue to shape how we know the planet - and its microbial
   inhabitants.
 desc_de: Dank komplexer wissenschaftlich-technischer Netzwerke ist Cycladophora
-  heutzutage zu einem wichtigen Hilfsmittel in der Erdsystem- und der
-  Klimaforschung geworden. Mithilfe der nachfolgenden Skizzierung des Verlaufs
-  der wissenschaftlichen Arbeit mit diesem Mikroorganismus soll nachvollziehbar
+  heutzutage zu einem wichtigen Hilfsmittel in der Erdsystem- und Klimaforschung
+  geworden. Mithilfe der nachfolgenden Skizzierung des Verlaufs der
+  wissenschaftlichen Arbeit mit diesem Mikroorganismus soll nachvollziehbar
   gemacht werden, wie diese Netzwerke entstanden sind und wie sie nach wie vor
   das Wissen über unseren Planeten – und seine mikrobiellen Bewohner – prägen.
 short_desc: From microfossils to planetary sciences
