@@ -1,25 +1,25 @@
 ---
 license: CC BY-SA
+title: Face to Face with Zoo Animals
 title_de: Zootiere anfassen
 created: 1640354060660
-author: Mareike Vennen
-short_desc_de: Tierkinderzoo mit Raubtieren
-date_end: 1939-12-24T15:14:00.000Z
-published: false
-title: Face to Face with Zoo Animals
 updated: 1642522418029
 id: U1w3ckwyrdpQ2JzOLgTKo
+author: Mareike Vennen
 doi: 64y2-m311/54
 translators:
   translator_de_en: Lydia J. White
-desc: The baby animal zoo
+desc: The ‘baby animal zoo’
 desc_de: Tierkinderzoo mit Raubtieren
-short_desc: The baby animal zoo
+short_desc: The ‘baby animal zoo’
+short_desc_de: Tierkinderzoo mit Raubtieren
 cover_image:
   image: /images/cover-tierkindergarten_1930er.jpg
 colour_scheme: 11
 tao_type: material
 date_start: 1930-12-24T15:14:00.000Z
+date_end: 1939-12-24T15:14:00.000Z
+published: false
 ---
 
 :::EN:::
