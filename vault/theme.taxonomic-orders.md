@@ -7,7 +7,7 @@ short_desc_de: Die Kategorisierung der Natur ist politisch
 date_end: 2022-12-06T11:43:53.791Z
 published: false
 title: Taxonomic Orders
-updated: 1642421579802
+updated: 1642501113323
 id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
 doi: 64y2-m311/5
 translators:
@@ -47,7 +47,7 @@ date_start: 1752-12-31T23:06:32.000Z
 
 <figcaption>
 
-_Plate 2 from Linnaeus’ Systema Naturae, 6th edition, 1748. Source: https://commons.wikimedia.org/wiki/File:Systema_Naturae_Plate_II.jpg_
+_Plate 2 from Linnaeus’_ Systema Naturae, _6th edition, 1748. Source: https://commons.wikimedia.org/wiki/File:Systema_Naturae_Plate_II.jpg_
 
 </figcaption>
 
