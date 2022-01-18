@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The ‘Gorilla Beast’
 title_de: Die ‘Bestie Gorilla’
 created: 1640365282699
-updated: 1642165077008
+updated: 1642522704079
 id: H40I2GIwYN6393S3tIUHI
 author: Britta Lange
 doi: 64y2-m311/61
@@ -81,15 +81,15 @@ This was a continuation of the trophy iconography depicting the gorilla as a bea
 
 [^2]: The picture without a stamp by Wilhelm Kuhnert (who also exhibited in Karlsruhe) is also printed in Umlauff’s Gorilla brochure. Cf. _Der Riesen-Gorilla des Museum Umlauff Hamburg: Schilderung seiner Erlegung und wissenschaftliche Beschreibung. Katalog_. Hamburg: Adolph Friedländers Druckerei, 1901.
 
-[^3]: Cf. Ingensiep, Hans Werner. “Kultur- und Zoogeschichte der Gorillas: Beobachtungen zur Humanisierung von Menschenaffen.” In _Die Kulturgeschichte des Zoos_, Lothar Dittrich, Annelore Rieke-Müller, and Dietrich von Engelhardt (eds.). Berlin: VWB, Verl. für Wiss. und Bildung, 2001: 151−170.
+[^3]: Cf. Hans Werner Ingensiep. “Kultur- und Zoogeschichte der Gorillas: Beobachtungen zur Humanisierung von Menschenaffen.” In _Die Kulturgeschichte des Zoos_, Lothar Dittrich, Annelore Rieke-Müller, and Dietrich von Engelhardt (eds.). Berlin: VWB, Verl. für Wiss. und Bildung, 2001: 151-170.
 
 [^4]: Cf. Ingensiep, 2001: 153.
 
-[^5]: J.F.G. Umlauff to P. Matschie, 09.06.1903, MfN, HBSB, ZM S III, Umlauff, J.F.G., Bl. 23.
+[^5]: J.F.G. Umlauff to P. Matschie, 09.06.1903, MfN, HBSB, ZM-S-III, Umlauff, J.F.G., Bl. 23.
 
 [^6]: The Umlauff company also provided taxidermies of other primate species in addition to its gorilla taxidermies.
 
-[^7]: G. Zenker to P. Matschie, 02.09.1903, MfN, HBSB, ZM S III, Zenker, G. and H., Bd. I, Bl. 220/221.
+[^7]: G. Zenker to P. Matschie, 02.09.1903, MfN, HBSB, ZM-S-III, Zenker, G. and H., Bd. I, Bl. 220/221.
 
 :::DE:::
 
@@ -146,14 +146,14 @@ Damit wurde die Trophäen-Ikonografie des Gorillas als Bestie fortgeschrieben, d
 
 [^1]: “Deutsch-Koloniale Jagdausstellung in Karlsruhe”. _Deutsche Kolonial-Zeitung_ 20, Nr. 29 (1903): 291.
 
-[^2]: Das Bild ohne Stempel von Wilhelm Kuhnert (der ebenfalls unter den Ausstellern in Karlsruhe war) findet sich ebenfalls in der Gorilla-Broschüre der Firma Umlauff angedruckt. Vgl. _Der Riesen-Gorilla des Museum Umlauff Hamburg: Schilderung seiner Erlegung und wissenschaftliche Beschreibung. Katalog_. Hamburg: Adolph Friedländers Druckerei, 1901.
+[^2]: Das Bild ohne Stempel von Wilhelm Kuhnert (der auch unter den Ausstellern in Karlsruhe war) findet sich ebenfalls in der Gorilla-Broschüre der Firma Umlauff abgedruckt. Vgl. _Der Riesen-Gorilla des Museum Umlauff Hamburg: Schilderung seiner Erlegung und wissenschaftliche Beschreibung. Katalog_. Hamburg: Adolph Friedländers Druckerei, 1901.
 
-[^3]: Vgl. Ingensiep, Hans Werner. “Kultur- und Zoogeschichte der Gorillas: Beobachtungen zur Humanisierung von Menschenaffen”. In _Die Kulturgeschichte des Zoos_, Lothar Dittrich, Annelore Rieke-Müller und Dietrich von Engelhardt (Hg.). Berlin: VWB, Verl. für Wiss. und Bildung, 2001: 151−170.
+[^3]: Vgl. Hans Werner Ingensiep. “Kultur- und Zoogeschichte der Gorillas: Beobachtungen zur Humanisierung von Menschenaffen”. In _Die Kulturgeschichte des Zoos_, Lothar Dittrich, Annelore Rieke-Müller und Dietrich von Engelhardt (Hg.). Berlin: VWB, Verl. für Wiss. und Bildung, 2001: 151-170.
 
 [^4]: Vgl. Ingensiep, 2001: 153.
 
-[^5]: J.F.G. Umlauff an P. Matschie, 09.06.1903, MfN, HBSB, ZM S III, Umlauff, J.F.G., Bl. 23.
+[^5]: J.F.G. Umlauff an P. Matschie, 09.06.1903, MfN, HBSB, ZM-S-III, Umlauff, J.F.G., Bl. 23.
 
 [^6]: Die Firma Umlauff lieferte zusätzlich zu dem Gorilla Dermoplastiken weiterer Menschenaffenarten.
 
-[^7]: G. Zenker an P. Matschie, 02.09.1903, MfN, HBSB, ZM S III, Zenker, G. und H., Bd. I, Bl. 220/221.
+[^7]: G. Zenker an P. Matschie, 02.09.1903, MfN, HBSB, ZM-S-III, Zenker, G. und H., Bd. I, Bl. 220/221.
