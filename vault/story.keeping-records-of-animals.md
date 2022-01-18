@@ -7,7 +7,7 @@ short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
 date_end: 2022-10-25T08:44:25.273Z
 published: false
 title: Keeping Records of Animals
-updated: 1642421689265
+updated: 1642529881855
 id: zrAZZTgVehO9zeVbW4dMX
 doi: 64y2-m311/30
 translators:
@@ -79,7 +79,7 @@ Whether a zoo animal could be used by the museum and which price was paid depend
  
 >“the last Père David’s deer still living in a zoological garden. The fact that it is by all appearances a completely extinct animal in its home country is something of which you are just as aware as we. \[…] We would not have been surprised if you had set its value ten times higher, at M 200; for we do not believe that you will receive another Père David’s deer \[…].”[^8]
 
-However, its value depended not just on the number of animals living in the wild but also on the number of specimens of the same species that a collection already had in its possession. Here, the Zoological Museum of Friedrich Wilhelms University was in a good position: at the beginning of the 20th century, the Berlin institution already had an excellent ranking among the German natural history museums as it had the most extensive collections and was located in the capital, and it claimed a prominent role for itself. Curator of mammals Paul Matschie therefore rejected the zoo’s offer of the Père David’s deer.
+However, its value depended not just on the number of animals living in the wild but also on the number of specimens of the same species that a collection already had in its possession. Here, the Zoological Museum of the Friedrich-Wilhelms-Universität zu Berlin was in a good position: at the beginning of the 20th century, the Berlin institution already had an excellent ranking among the German natural history museums as it had the most extensive collections and was located in the capital, and it claimed a prominent role for itself. Curator of mammals Paul Matschie therefore rejected the zoo’s offer of the Père David’s deer.
  
 ## A Thirst for Knowledge
  

@@ -7,7 +7,7 @@ short_desc_de: Objekte, Inventare, Menschen und Netzwerke
 date_end: 1968-12-31T11:00:00.000Z
 published: false
 title: History of the Zoological Teaching Collection
-updated: 1642119092103
+updated: 1642529840753
 id: hUAZn8uswMmXvmUP1S4Jn
 doi: 64y2-m311/43
 translators:
@@ -52,7 +52,7 @@ _Inventories from the Zoological Teaching Collection of today’s Humboldt-Unive
 
 What can we learn about the objects and history of an institution by reading a collection’s inventory books? How do a collection’s holdings reflect its historical development?
 
-The inventory books of the Zoological Teaching Collection of the former Friedrich Wilhelms University, now Humboldt University of Berlin, were once a fixed component of everyday life at the institute. From 1884, they documented the acquisition of zoological specimens, models, and wall charts, which were used as visual aids. At the same time, the [[story.inventory-books]] were used as a tool during the reorganisation of the collection. They have now long outlived their usefulness in this functional context, having been replaced by more efficient formats and media to organise information infrastructures, namely [[index cards|material.house-of-cards]]. Their significance is now primarily historical as they allow us to see the development of the collection holdings and implicitly refer to the history of the Zoological Institute, which was in charge of developing and managing the teaching collection.
+The inventory books of the Zoological Teaching Collection of the Friedrich-Wilhelms-Universität, now Humboldt-Universität zu Berlin, were once a fixed component of everyday life at the institute. From 1884, they documented the acquisition of zoological specimens, models, and wall charts, which were used as visual aids. At the same time, the [[story.inventory-books]] were used as a tool during the reorganisation of the collection. They have now long outlived their usefulness in this functional context, having been replaced by more efficient formats and media to organise information infrastructures, namely [[index cards|material.house-of-cards]]. Their significance is now primarily historical as they allow us to see the development of the collection holdings and implicitly refer to the history of the Zoological Institute, which was in charge of developing and managing the teaching collection.
 
 A total of eight inventory books kept chronological records of specimens, models, and wall charts in a list with continuous numbering. The first inventory of specimens begins in the year the Zoological Institute was founded, 1884. It records not just the method of preservation and the Latin name but also information about where the object was acquired. The sources of the teaching collection’s holdings were manifold – from the items it collected and then preserved itself at the institute to purchases from established natural history traders like Linnaeus in Berlin or the Hamburg firm Umlauff, and donations that were made by natural history institutions, including the Zoological Museum, the anatomical-zootomical collection, and the Zoological Station in Naples. They let us trace the widely ramified network of natural history institutions that existed back then both in Berlin and beyond, a nexus of which the Zoological Institute also formed one part. In the early years after its founding, the holdings of the teaching collection comprised above all gifts from the zoological and anatomical-zootomical collections of the Friedrich-Wilhelms-Universität zu Berlin.[^1]
 
