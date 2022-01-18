@@ -7,7 +7,7 @@ short_desc_de: Tierkinderzoo mit Raubtieren
 date_end: 1939-12-24T15:14:00.000Z
 published: false
 title: Face to Face with Zoo Animals
-updated: 1642156395574
+updated: 1642522418029
 id: U1w3ckwyrdpQ2JzOLgTKo
 doi: 64y2-m311/54
 translators:
@@ -30,13 +30,13 @@ date_start: 1930-12-24T15:14:00.000Z
  
 <figcaption>
 
-_Picture from Berlin’s baby animal zoo around 1933. (AZGB. All rights reserved.)_
+_Picture from Berlin’s ‘baby animal zoo’ around 1933. (AZGB. All rights reserved.)_
  
 </figcaption>
 
 </figure>
 
-A cheetah surrounded by young goats, lambs, and piglets? An unusual sight. This photo from Berlin Zoo shows a phenomenon that no longer exists but that was extremely popular in the 1930s: the baby animal zoo, “Tierkinderzoo”. Its successor, the petting zoo, can still be found in many zoos today. But does anyone today know that bear and lion cubs used to be kept there, too?
+A cheetah surrounded by young goats, lambs, and piglets? An unusual sight. This photo from Berlin Zoo shows a phenomenon that no longer exists but that was extremely popular in the 1930s: the ‘baby animal zoo’ (Tierkinderzoo). Its successor, the petting zoo, can still be found in many zoos today. But does anyone today know that bear and lion cubs used to be kept there, too?
  
 In summer 1931, the zoo organised its first special show with juvenile animals. What made it so special was that the fenced-in facility, which visitors had to pay entry to visit, was occupied not just by the juveniles of native domestic breeds but also by little predators from Europe and Africa that visitors could feed, pat, pull onto their laps, and [[even bottle feed|story.photos-with-lion-cubs]]. 
  
@@ -60,13 +60,13 @@ What now seems perplexing, dangerous, and not very species-appropriate, was such
  
 <figcaption>
 
-_Picture of the baby animal zoo from 1936. (AZGB. All rights reserved.)_
+_Picture of the ‘baby animal zoo’ from 1936. (AZGB. All rights reserved.)_
  
 </figcaption>
 
 </figure>
 
-The baby animal zoo at Berlin Zoo was so popular that the zoo repeated it many more times. The encounter between lamb and cheetah in the picture shown at the beginning was thus no coincidence. Nor were meetings between lambs, cheetah cubs, and human children. Predators are no longer kept together with domestic animals like sheep or goats in Berlin or at any other German zoos. What has remained are petting zoos with domestic animals. They do not provide human children with any opportunities to directly interact with juvenile predators, but this does not just benefit the animals but also prevents the image being conveyed of predator babies as stuffed toys.
+The ‘baby animal zoo’ at Berlin Zoo was so popular that the zoo repeated it many more times. The encounter between lamb and cheetah in the picture shown at the beginning was thus no coincidence. Nor were meetings between lambs, cheetah cubs, and human children. Predators are no longer kept together with domestic animals like sheep or goats in Berlin or at any other German zoos. What has remained are petting zoos with domestic animals. They do not provide human children with any opportunities to directly interact with juvenile predators, but this does not just benefit the animals but also prevents the image being conveyed of predator babies as stuffed toys.
  
 <figure>
 
@@ -80,11 +80,11 @@ _No restraint between human child and young predator, as the_ Heidelberger Tageb
 
 </figure>
  
-[^1]: Correspondence and advertising materials for the baby animal zoo, 1931–1934 in AZGB, O 0/1/61, 138 und 201; L. Ruhe to Berlin Zoo Berlin, 03.02.1931, AZGB O 3/2/1.
+[^1]: Correspondence and advertising materials for the ‘baby animal zoo’, 1931–1934 in AZGB, O 0/1/61, 138 und 201; L. Ruhe to Berlin Zoo Berlin, 03.02.1931, AZGB O 3/2/1.
  
 [^2]: “Großes Löwenstreicheln im Zoo”. _Leipziger Tageszeitung_ 08.11.1935.
  
-[^3]: Zukowsky, Hildegard. “Löwenprinzchen.” _CHITuMW_ 1, no. 6 (1926): 132-134, quoted in: Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945._ Bielefeld: transcript, 2015: 291.
+[^3]: Hildegard Zukowsky. “Löwenprinzchen.” _CHITuMW_ 1, no. 6 (1926): 132-134, quoted in: Nastasja Klothmann. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945._ Bielefeld: transcript, 2015: 291.
  
 [^4]: The zoo itself would not have had nearly enough animals to supply the children’s zoo. The zoo shared the earnings with the animal dealer. 
  
@@ -154,7 +154,7 @@ _Keine Berührungsängste zwischen Menschenkind und Raubtierjungen, wie das_ Hei
  
 [^2]: “Großes Löwenstreicheln im Zoo”. _Leipziger Tageszeitung_ 08.11.1935.
  
-[^3]: Zukowsky, Hildegard. “Löwenprinzchen”. _CHITuMW_ 1, Nr. 6 (1926): 132-134, zit. nach: Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945._ Bielefeld: transcript, 2015: 291.
+[^3]: Hildegard Zukowsky. “Löwenprinzchen”. _CHITuMW_ 1, Nr. 6 (1926): 132-134, zit. nach: Nastasja Klothmann. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945._ Bielefeld: transcript, 2015: 291.
  
 [^4]: Der Zoo selbst hätte gar nicht ausreichend Jungtiere gehabt, um den Kinderzoo zu bestücken. Der Zoo teilte sich die Einnahmen mit der Tierhandelsfirma. 
  
