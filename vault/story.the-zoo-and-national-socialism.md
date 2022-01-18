@@ -19,12 +19,11 @@ desc: During the National Socialist dictatorship, the zoo’s management and
   The zoo became an instrument of National Socialist propaganda, and
   excludedJewish visitors. The zoo director was well connected to the regime’s
   elite. Inwartime, the zoo exploited forced labor.
-desc_de: |-
-  In der Zeit der nationalsozialistischen Diktatur boten sich Zooleitung
-  und Aufsichtsrat dem Regime an. Der Zoo wurde zu einem Propagandainstrument
-  der Nationalsozialisten und schloss jüdische Besucher:innen aus. Der
-  Zoodirektor war mit der Elite des Regimes gut vernetzt. Während des Krieges
-  wurden Zwangsarbeiter ausgebeutet.
+desc_de: In der Zeit der nationalsozialistischen Diktatur boten sich
+  Zooleitungund Aufsichtsrat dem Regime an. Der Zoo wurde zu einem
+  Propagandainstrumentder Nationalsozialisten und schloss jüdische
+  Besucher:innen aus. DerZoodirektor war mit der Elite des Regimes gut vernetzt.
+  Während des Kriegeswurden Zwangsarbeiter:innen ausgebeutet.
 short_desc: Propaganda instrument and forced labour
 cover_image:
   image: /images/cover-zoo-in-nazi-regime.jpg
