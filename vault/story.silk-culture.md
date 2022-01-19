@@ -7,7 +7,7 @@ short_desc_de: Zur Geschichte des Seidenbaus in Preußen
 date_end: 1885-12-31T11:06:32.000Z
 published: false
 title: "Silk Culture "
-updated: 1642583015994
+updated: 1642583905161
 id: isUsK2mnx8uIqaTJ60nYR
 doi: 64y2-m311/48
 translators:
@@ -103,39 +103,39 @@ _In a book from 1790, we read: “The silkworm and the bee are the most benefici
 
 In spite of myriad efforts, it was not possible for the Prussian state to do away with silk imports from Italy and France with all these measures. On the contrary: **in the 19th century, silk farming declined in Prussia due to the lowering of customs barriers, increasing commercial freedoms, and overpowering competition from southern European lands.** Although a Silk Farming Trade Association (Seidenbaugewerbeverein) had been founded in the 1830s, cultivation continued above all at a local level – through private initiatives like that of the teacher Türk in Zehlendorf[^16] or the mulberry orchard planted by Johann Adolf Heese in Steglitz in 1840. Street names like Plantagenstraße (Orchard Street) and Filandastraße (‘filanda’ is the Italian word for a silk mill), but also Maulbeerallee (Mulberry Boulevard) in Potsdam, are testament to this now widely forgotten form of industry. From the late 19th century onward, the idea of achieving industrial self-sufficiency through silk farming was propagated again and again, and, in the 20th century, Germany saw revivals in silk farming after the First World War and during National Socialism for the manufacture of products like parachute silk. In the 1950s and 1960s, now in the GDR and above all in Vogtland, silk was once again produced with the goal of ending the state’s reliance on imports from the West.[^17] And what is it like today? In Berlin and Brandenburg, old mulberry trees still bear witness to [[silkworm cultivation|story.silkworms]]. But even though silk mills still remain in Vogtland, they now source their silk from the global silk trade, from places like Brazil.[^18]
 
-[^1]: Schmoller, Gustav and Otto Hintze. _Die Preußische Seidenindustrie im 18. Jahrhundert und ihre Begründung durch Friedrich den Großen_, Acta Borussia, vol. 1-3. Berlin: Verlag von Paul Parey, 1892.
+[^1]: Gustav Schmoller and Otto Hintze. _Die Preußische Seidenindustrie im 18. Jahrhundert und ihre Begründung durch Friedrich den Großen_. Acta Borussia, vol. 1-3. Berlin: Verlag von Paul Parey, 1892.
 
-[^2]: Cf. _Joh. Leonh. Frisch’s Briefwechsel mit G.W. Leibniz: Ein Beitrag zur Geschichte des geistigen Lebens in Berlin am Anfang des 18. Jahrhunderts_, Dr. L.H. Fischer (ed.), Sonderabdruck aus Band 2 des Archivs der Brandenburgia, Gesellschaft für Heimatkunde der Provinz Brandenburg zu Berlin. Hildesheim; New York: Georg Olms Verlag, 1976 [1896].
+[^2]: Cf. _Joh. Leonh. Frisch’s Briefwechsel mit G.W. Leibniz: Ein Beitrag zur Geschichte des geistigen Lebens in Berlin am Anfang des 18. Jahrhunderts_. Dr. L.H. Fischer (ed.), Sonderabdruck aus Band 2 des Archivs der Brandenburgia, Gesellschaft für Heimatkunde der Provinz Brandenburg zu Berlin. Hildesheim; New York: Georg Olms Verlag, 1976 [1896].
 
-[^3]: Leibniz, G.W. _Denkschrift an König Friedrich I_, Klopp Reihe I, vol. 10. no date/probably 1703: 372f. (Schriftstück XVII-1), 373-378 (Schriftstück XVII-2).
+[^3]: G.W. Leibniz. _Denkschrift an König Friedrich I_. Klopp Reihe I, vol. 10. no date/probably 1703: 372f. (Schriftstück XVII-1), 373-378 (Schriftstück XVII-2).
 
 [^4]: Leibniz, no date/probably 1703: 377.
 
-[^5]: Cf. Hildebrand, Bernd. _300 Jahre Moabit: Zur Geschichte eines Berliner Stadtteils von der hugenottischen Gründung 1718 bis zur Eingemeindung nach Berlin 1861_, Heimatverein and Geschichtswerkstatt Tiergarten e.V. Berlin (ed.): Saint Albin Verlag, 2018.
+[^5]: Cf. Bernd Hildebrand. _300 Jahre Moabit: Zur Geschichte eines Berliner Stadtteils von der hugenottischen Gründung 1718 bis zur Eingemeindung nach Berlin 1861_. Heimatverein and Geschichtswerkstatt Tiergarten e.V. Berlin (ed.): Saint Albin Verlag, 2018.
 
-[^6]: Kießhauer, Rolf. _Seidenraupen in Friedrichshagen?_, 2. rev. ed. Berlin: Brandel, 1998.
+[^6]: Rolf Kießhauer. _Seidenraupen in Friedrichshagen?_, 2. rev. ed. Berlin: Brandel, 1998.
 
-[^7]: Not all Jewish people who petitioned the king received the royal privilege to engage in silk farming. Cf. Meier, Brigitte. _Jüdische Seidenunternehmer und die soziale Ordnung zur Zeit Friedrichs II.: Moses Mendelssohn und Isaak Bernhard; Interaktion und Kommunikation als Basis einer erfolgreichen Unternehmensentwicklung_, Veröffentlichungen des Brandenburgischen Landeshauptarchivs BV035362462 52. Berlin: BWV, 2007.
+[^7]: Not all Jewish people who petitioned the king received the royal privilege to engage in silk farming. Cf. Brigitte Meier. _Jüdische Seidenunternehmer und die soziale Ordnung zur Zeit Friedrichs II.: Moses Mendelssohn und Isaak Bernhard; Interaktion und Kommunikation als Basis einer erfolgreichen Unternehmensentwicklung_. Veröffentlichungen des Brandenburgischen Landeshauptarchivs BV035362462 52. Berlin: BWV, 2007.
 
 [^8]: Royal decrees imposed financial penalties for chopping down mulberry trees.
 
-[^9]: Cf. Herzfeld, Erika. _Preußische Manufakturen: Großgewerbliche Fertigung von Porzellan, Seide, Gobelins, Uhren, Tapeten, Waffen, Papier u. a. im 17. und 18. Jahrhundert in und um Berlin_. Berlin: Verder Nation, 1994.
+[^9]: Cf. Erika Herzfeld. _Preußische Manufakturen: Großgewerbliche Fertigung von Porzellan, Seide, Gobelins, Uhren, Tapeten, Waffen, Papier u. a. im 17. und 18. Jahrhundert in und um Berlin_. Berlin: Verder Nation, 1994.
 
-[^10]: See for example Caspar, Helmut. “Sie kleidet und ernährt”: _Münzen und Medaillen_, 2016, http://www.helmutcaspar.de/aktuelles16/muenzmed16/seiden.html (28.07.2021).
+[^10]: See for example Helmut Caspar. “Sie kleidet und ernährt: Wie in Preußen Wissenschaft und Künste sowie die Seidenindustrie durch Prämienmedaillen gefördert wurden”. 2016. http://www.helmutcaspar.de/aktuelles16/muenzmed16/seiden.html (28.07.2021).
 
 [^11]: The silk moths had already become so inbred that they were no longer able to fly.
 
-[^12]: Cf. Krünitz, Johann Georg. _Oekonomische Encyklopädie oder allgemeines System der Staats-, Stadt-, Haus-, und Landwirthschaft_, vol. 152. Brünn: Verlag Joseph Georg Traßler, 1830.
+[^12]: Cf. Johann Georg Krünitz. _Oekonomische Encyklopädie oder allgemeines System der Staats-, Stadt-, Haus-, und Landwirthschaft_, vol. 152. Brünn: Verlag Joseph Georg Traßler, 1830.
 
-[^13]: See for example Kießhauer, Rolf. _Seidenraupen in Friedrichshagen?_, 2. rev. ed. Berlin: Brandel, 1998.
+[^13]: See for example Rolf Kießhauer. _Seidenraupen in Friedrichshagen?_, 2. rev. ed. Berlin: Brandel, 1998.
 
-[^14]: Goethe, Johann Wolfgang von. _Truth and Poetry: From My Own Life,_ transl. by John Oxenford. London: Henry G. Bohn, 1848: 98.
+[^14]: Johann Wolfgang von Goethe. _Truth and Poetry: From My Own Life._ Tr. by John Oxenford. London: Henry G. Bohn, 1848: 98.
 
-[^15]: Bertuch, F.J. _Bilderbuch für Kinder, enthaltend eine angenehme Sammlung von Thieren, Pflanzen, Blumen, Früchten, Insecten, Trachten und allerhand andern unterrichtenden Gegenständen aus dem Reiche der Natur, der Künste und Wissenschaften \[…]_, vol. 1. Weimar/Gotha: Landes-Industrie-Comptoir, 1790: plate I.
+[^15]: F.J. Bertuch. _Bilderbuch für Kinder, enthaltend eine angenehme Sammlung von Thieren, Pflanzen, Blumen, Früchten, Insecten, Trachten und allerhand andern unterrichtenden Gegenständen aus dem Reiche der Natur, der Künste und Wissenschaften \[…]_. vol. 1. Weimar/Gotha: Landes-Industrie-Comptoir, 1790: plate I.
 
 [^16]: Cf. _Am seidenen Faden: Kolonisation und kulturlandschaftliche Entwicklung im Süden Berlins_. Berlin: Heimatverein für d. Bezirk Zehlendorf e.V, 2001.
 
-[^17]: Heilmeyer, Marina and Michael Seiler. _Maulbeeren: zwischen Glaube und Hoffnung_. Potsdam: Vacat, 2006.
+[^17]: Marina Heilmeyer and Michael Seiler. _Maulbeeren: Zwischen Glaube und Hoffnung_. Potsdam: Vacat, 2006.
 
 [^18]: See for example the silk weaving mill Plauener Seidenweberei GmbH, https://www.seide.de/ (26.08.2021).
 
@@ -202,38 +202,38 @@ _In einem Buch von 1790 heißt es: “Der Seidenwurm und die Biene sind die nüt
 
 Trotz der vielfältigen Bemühungen konnte doch Unabhängigkeit vom Seidenimport aus Italien und Frankreich mit all diesen Maßnahmen nicht erzielt werden. Im Gegenteil: **Im 19. Jahrhundert ging der Seidenbau wegen dem Fall der Zollschranken, zunehmender Gewerbefreiheit und übermächtiger Konkurrenz aus den südeuropäischen Ländern in Preußen zurück.** Zwar wurde in den 1830er Jahren der Seidenbaugewerbeverein gegründet, doch lebte der Anbau vor allem auf lokaler Ebene fort – durch private Initiativen wie die des Lehrers Türk in Zehlendorf[^16] oder die ab 1840 angelegte Maulbeerplantage von Johann Adolf Heese in Steglitz. Straßennamen wie die Plantagenstraße und die Filandastraße (‘filanda’ ist der italienische Ausdruck für eine Haspelmaschine), aber auch die Maulbeerallee in Potsdam zeugen von dieser heute weitgehend vergessenen Form der Industrie. Ab Ende des 19. Jahrhunderts  wurde immer wieder Propaganda für wirtschaftliche Autarkie über den Seidenbau betrieben, und im 20. Jahrhundert sah Deutschland Revivals des Seidenbaus nach dem Ersten Weltkrieg und während des Nationalsozialismus zur Erzeugung u. a. von Fallschirmseide. Auch in der DDR wurde in den 1950er und 1960er Jahren noch einmal Seide, vor allem im Vogtland, mit dem Ziel produziert, den Staat unabhängig von Importen aus dem Westen zu machen.[^17] Und heute? In Berlin und Brandenburg zeugen noch alte Maulbeerbäume vom [[Seidenbau|story.silkworms]]. Zwar finden sich im Vogtland noch immer Seidenwebereien, die Seide jedoch beziehen sie inzwischen aus dem globalen Handel, etwa aus Brasilien.[^18]
 
-[^1]: Schmoller, Gustav, und Otto Hintze. _Die Preußische Seidenindustrie im 18. Jahrhundert und ihre Begründung durch Friedrich den Großen_, Acta Borussia, Band 1-3. Berlin: Verlag von Paul Parey, 1892.
+[^1]: Gustav Schmoller und Otto Hintze. _Die Preußische Seidenindustrie im 18. Jahrhundert und ihre Begründung durch Friedrich den Großen_. Acta Borussia, Band 1-3. Berlin: Verlag von Paul Parey, 1892.
 
-[^2]: Vgl. _Joh. Leonh. Frisch’s Briefwechsel mit G.W. Leibniz. Ein Beitrag zur Geschichte des geistigen Lebens in Berlin am Anfang des 18. Jahrhunderts_, Dr. L.H. Fischer (Hg.), Sonderabdruck aus Band 2 des Archivs der Brandenburgia, Gesellschaft für Heimatkunde der Provinz Brandenburg zu Berlin. Hildesheim; New York: Georg Olms Verlag, 1976 [1896].
+[^2]: Vgl. _Joh. Leonh. Frisch’s Briefwechsel mit G.W. Leibniz: Ein Beitrag zur Geschichte des geistigen Lebens in Berlin am Anfang des 18. Jahrhunderts_. Dr. L.H. Fischer (Hg.), Sonderabdruck aus Band 2 des Archivs der Brandenburgia, Gesellschaft für Heimatkunde der Provinz Brandenburg zu Berlin. Hildesheim; New York: Georg Olms Verlag, 1976 [1896].
 
-[^3]: Leibniz, G.W. _Denkschrift an König Friedrich I_, Klopp Reihe I, Band 10. Ohne Datum/wahrschl. 1703: 372f. (Schriftstück XVII-1), 373-378 (Schriftstück XVII-2).
+[^3]: G.W. Leibniz. _Denkschrift an König Friedrich I_. Klopp Reihe I, Band 10. Ohne Datum/wahrschl. 1703: 372f. (Schriftstück XVII-1), 373-378 (Schriftstück XVII-2).
 
 [^4]: Leibniz, ohne Datum/wahrschl. 1703: 377.
 
-[^5]: Vgl. Hildebrand, Bernd. _300 Jahre Moabit: Zur Geschichte eines Berliner Stadtteils von der hugenottischen Gründung 1718 bis zur Eingemeindung nach Berlin 1861_, Heimatverein und Geschichtswerkstatt Tiergarten e.V. (Hg.). Berlin: Saint Albin Verlag, 2018.
+[^5]: Vgl. Bernd Hildebrand. _300 Jahre Moabit: Zur Geschichte eines Berliner Stadtteils von der hugenottischen Gründung 1718 bis zur Eingemeindung nach Berlin 1861_. Heimatverein und Geschichtswerkstatt Tiergarten e.V. (Hg.). Berlin: Saint Albin Verlag, 2018.
 
-[^6]: Kießhauer, Rolf. _Seidenraupen in Friedrichshagen?_, 2. erw. Aufl. Berlin: Brandel, 1998.
+[^6]: Rolf Kießhauer. _Seidenraupen in Friedrichshagen?_, 2. erw. Aufl. Berlin: Brandel, 1998.
 
-[^7]: Nicht alle anfragenden jüdischen Personen erhielten das königliche Schutzprivileg zur Seidenproduktion. Vgl. Meier, Brigitte. _Jüdische Seidenunternehmer und die soziale Ordnung zur Zeit Friedrichs II.: Moses Mendelssohn und Isaak Bernhard; Interaktion und Kommunikation als Basis einer erfolgreichen Unternehmensentwicklung_, Veröffentlichungen des Brandenburgischen Landeshauptarchivs BV035362462 52. Berlin: BWV, 2007.
+[^7]: Nicht alle anfragenden jüdischen Personen erhielten das königliche Schutzprivileg zur Seidenproduktion. Vgl. Brigitte Meier. _Jüdische Seidenunternehmer und die soziale Ordnung zur Zeit Friedrichs II.: Moses Mendelssohn und Isaak Bernhard; Interaktion und Kommunikation als Basis einer erfolgreichen Unternehmensentwicklung_, Veröffentlichungen des Brandenburgischen Landeshauptarchivs BV035362462 52. Berlin: BWV, 2007.
 
 [^8]: Königliche Dekrete verhängten Geldstrafen für das Abhacken von Maulbeerbäumen.
 
-[^9]: Vgl. Herzfeld, Erika. _Preußische Manufakturen: Großgewerbliche Fertigung von Porzellan, Seide, Gobelins, Uhren, Tapeten, Waffen, Papier u. a. im 17. und 18. Jahrhundert in und um Berlin_. Berlin: Verder Nation, 1994.
+[^9]: Vgl. Erika Herzfeld. _Preußische Manufakturen: Großgewerbliche Fertigung von Porzellan, Seide, Gobelins, Uhren, Tapeten, Waffen, Papier u. a. im 17. und 18. Jahrhundert in und um Berlin_. Berlin: Verder Nation, 1994.
 
-[^10]: Vgl. etwa Caspar, Helmut. “Sie kleidet und ernährt”. _Münzen und Medaillen_, 2016, http://www.helmutcaspar.de/aktuelles16/muenzmed16/seiden.html (28.07.2021).
+[^10]: Vgl. etwa Helmut Caspar. “Sie kleidet und ernährt: Wie in Preußen Wissenschaft und Künste sowie die Seidenindustrie durch Prämienmedaillen gefördert wurden”. 2016. http://www.helmutcaspar.de/aktuelles16/muenzmed16/seiden.html (28.07.2021).
 
 [^11]: Die Maulbeerspinner waren damals schon so überzüchtet, dass sie nicht mehr fliegen konnten.
 
-[^12]: Vgl. Krünitz, Johann Georg. _Oekonomische Encyklopädie oder allgemeines System der Staats-, Stadt-, Haus-, und Landwirthschaft_ ist der Titel einer der umfangreichsten Enzyklopädien des deutschen Sprachraums_, Bd. 152. Leopold Wilhelm Krause, 1830.
+[^12]: Vgl. Johann Georg Krünitz. _Oekonomische Encyklopädie oder allgemeines System der Staats-, Stadt-, Haus-, und Landwirthschaft_ ist der Titel einer der umfangreichsten Enzyklopädien des deutschen Sprachraums_, Bd. 152. Leopold Wilhelm Krause, 1830.
 
-[^13]: Vgl. u.a. Kießhauer, Rolf. _Seidenraupen in Friedrichshagen?_, 2. erw. Aufl. Berlin: Brandel, 1998.
+[^13]: Vgl. u.a. Rolf Kießhauer. _Seidenraupen in Friedrichshagen?_, 2. erw. Aufl. Berlin: Brandel, 1998.
 
-[^14]: Goethe, Johann Wolfgang von. _Aus meinem Leben: Dichtung und Wahrheit_, Berliner Ausgabe, 3. Aufl., 2014, Berlin: Edition Holzinger, S. 120f.
+[^14]: Johann Wolfgang von Goethe. _Aus meinem Leben: Dichtung und Wahrheit_. Berliner Ausgabe, 3. Aufl., 2014, Berlin: Edition Holzinger, S. 120f.
 
-[^15]: Bertuch, F.J. _Bilderbuch für Kinder, enthaltend eine angenehme Sammlung von Thieren, Pflanzen, Blumen, Früchten, Insecten, Trachten und allerhand andern unterrichtenden Gegenständen aus dem Reiche der Natur, der Künste und Wissenschaften \[…]_, Bd. 1. Weimar/Gotha: Landes-Industrie-Comptoir, 1790: Tafel I.
+[^15]: F.J. Bertuch. _Bilderbuch für Kinder, enthaltend eine angenehme Sammlung von Thieren, Pflanzen, Blumen, Früchten, Insecten, Trachten und allerhand andern unterrichtenden Gegenständen aus dem Reiche der Natur, der Künste und Wissenschaften \[…]_, Bd. 1. Weimar/Gotha: Landes-Industrie-Comptoir, 1790: Tafel I.
 
 [^16]: Vgl. _Am seidenen Faden: Kolonisation und kulturlandschaftliche Entwicklung im Süden Berlins_. Berlin: Heimatverein für d. Bezirk Zehlendorf e.V, 2001.
 
-[^17]: Heilmeyer, Marina, und Michael Seiler. _Maulbeeren: zwischen Glaube und Hoffnung_. Potsdam: Vacat, 2006.
+[^17]: Marina Heilmeyer und Michael Seiler. _Maulbeeren: Zwischen Glaube und Hoffnung_. Potsdam: Vacat, 2006.
 
 [^18]: Vgl. etwa Plauener Seidenweberei GmbH, https://www.seide.de/ (26.08.2021).
