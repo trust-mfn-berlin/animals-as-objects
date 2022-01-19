@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The ‘Gorilla Beast’
 title_de: Die ‘Bestie Gorilla’
 created: 1640365282699
-updated: 1642609170540
+updated: 1642610178653
 id: H40I2GIwYN6393S3tIUHI
 author: Britta Lange
 doi: 64y2-m311/61
