@@ -50,7 +50,7 @@ _This video introduces infusoria through the massive collection of Ehrenberg’s
 
 </figcaption>
 
-[^1]: See Churchill, Frederick B. “The Guts of the Matter. Infusoria from Ehrenberg to Bütschli: 1838–1876”. _Journal of the History of Biology_ 22, no. 2 (1989): 189-213. https://doi.org/10.1007/BF00139512. 
+[^1]: See Frederick B. Churchill. “The Guts of the Matter: Infusoria from Ehrenberg to Bütschli, 1838-1876”. _Journal of the History of Biology_ 22, no. 2 (1989): 189-213. https://doi.org/10.1007/BF00139512. 
 
 
 :::DE:::
@@ -77,4 +77,4 @@ _Dieses Video stellt Infusorien anhand der umfangreichen Sammlung von Ehrenbergs
 
 </figcaption>
 
-[^1]: Siehe Churchill, Frederick B. “The Guts of the Matter. Infusoria from Ehrenberg to Bütschli: 1838–1876”. _Journal of the History of Biology_ 22, Nr. 2 (1989): 189–213. https://doi.org/10.1007/BF00139512.
+[^1]: Siehe Frederick B. Churchill. “The Guts of the Matter: Infusoria from Ehrenberg to Bütschli, 1838-1876”. _Journal of the History of Biology_ 22, Nr. 2 (1989): 189-213. https://doi.org/10.1007/BF00139512.
