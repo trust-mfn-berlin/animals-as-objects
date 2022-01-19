@@ -48,7 +48,7 @@ At the Museum für Naturkunde Berlin, a specimen of a horseshoe crab [[preserved
 
 If the historical limulus specimens in the museum in Berlin were not originally destined for its collection, where did they come from, and what was their purpose? What routes did they take, and what can they tell us about the history of the collection?
 
-The specimens themselves offer a clue to their earlier function. Their specific [[preparation|material.jendaya-parakeet]] indicates that they were not meant to be part of a _research_ collection, like that of the natural history museum. Instead it points to their use as _teaching_ objects. Firstly, the specimens were literally cut and tailored to fit [[university teaching|story.history-of-the-zoological-teaching-collection]] requirements. Some consisted of isolated body parts that could be used to demonstrate an animal’s various functions or organs. In this case, the animal’s nervous system has been exposed.
+The specimens themselves offer a clue to their earlier function. Their specific [[preparation|material.jendaya-parakeet]] indicates that they were not meant to be part of a _research_ collection, like that of the natural history museum. Instead it points to their use as _teaching_ objects. Firstly, the specimens were literally cut and tailored to fit [[university teaching|material.common-seadragon]] requirements. Some consisted of isolated [[body parts|story.bobby-tracking-body-parts2]] that could be used to demonstrate an animal’s various functions or organs. In this case, the animal’s nervous system has been exposed.
 
 <figure>
 
@@ -292,6 +292,7 @@ Einen Hinweis auf ihre frühere Funktion liefern die [[Präparate|material.jenda
 <figcaption>
 
 _Die Vorderseite des Präparates ‘ZMB 48487’ zeigt, dass das Nervensystem des Tieres freigelegt ist. (MfN, ZMB 48487. Foto: Carola Radke/MfN. Alle Rechte vorbehalten.)_
+
 Bei anderen sind einzelne Organe extrahiert.
 
 </figcaption>
