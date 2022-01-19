@@ -1,5 +1,6 @@
 ---
 license: CC BY-SA
+title: “Bobby”. Tracking Body Parts
 title_de: “Bobby”. Eine Fundgeschichte
 created: 1640338390195
 author: Mareike Vennen
@@ -7,8 +8,9 @@ short_desc_de: Nachleben eines Zootieres in wissenschaftlichen Sammlungen
 date_end: ""
 published: false
 title: “Bobby”. Tracking Body Parts
-updated: 1642590530801
+updated: 1642590808336
 id: 05XnJBaPUmIcfTWa4WMyb
+author: Mareike Vennen
 doi: 64y2-m311/52
 translators:
   translator_de_en: Lydia J. White
@@ -18,12 +20,15 @@ desc: The little known scientific and collection history of the famous zoo
 desc_de: Die bislang wenig bekannte Wissenschafts- und Sammlungsgeschichte des
   berühmten Zoo-Gorillas ist eine Geschichte einzelner Körperteile. Sie
   verbindet unterschiedliche Orte und Disziplinen mit teils sensiblen Kontexten.
-short_desc: The afterlife of a zoo animal in scientific collections.
+short_desc: The afterlife of a zoo animal in scientific collections
+short_desc_de: Nachleben eines Zootieres in wissenschaftlichen Sammlungen
 cover_image:
   image: /images/bobby-totenmaske.jpg
 colour_scheme: 4
 tao_type: story
 date_start: 1935-12-24T10:53:00.000Z
+date_end: ""
+published: false
 ---
 
 :::EN:::
