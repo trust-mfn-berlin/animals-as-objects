@@ -272,7 +272,7 @@ Connections such as the ones outlined here and the ensuing interdependencies and
 
 <figcaption>
 
-_Nasspräparat eines Pfeilschwanzkrebses im Museum für Naturkunde Berlin mit der Inventarnummer ‘‘. (MfN, ZMB 48497. Foto: Carola Radke/MfN. Alle Rechte vorbehalten.)_
+_Nasspräparat eines Pfeilschwanzkrebses im Museum für Naturkunde Berlin mit der Inventarnummer ‘ZMB 48487‘. (MfN, ZMB 48497. Foto: Carola Radke/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
