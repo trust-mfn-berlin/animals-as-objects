@@ -7,7 +7,7 @@ short_desc_de: Verbreitungswege von Tieren und Wissen
 date_end: 2020-01-01T21:08:57.624Z
 published: false
 title: Moving Horseshoe Crabs
-updated: 1642592703237
+updated: 1642597619240
 id: WPnxMDphZ5DDXrhkIdvBS
 doi: 64y2-m311/50
 translators:
@@ -47,7 +47,7 @@ In August 1866, fishermen caught a number of horseshoe crabs off the Dutch coast
 
 Live horseshoe crabs came to Europe, among other things, on the back of the aquarium trade, which began picking up speed in the mid-19th century. At that time, successfully shipping live water creatures was still a sensational feat. There had already been [[imports of live animals|theme.how-do-animals-end-up-in-the-zoo]] for 18th-century menageries and the zoological gardens of the early 19th century. By contrast, the transport of aquatic animals had until that point been mainly limited to preserved specimens that arrived by trade or passenger ship in harbours, from where they made their way into natural history collections or the hands of private collectors. While seamen in harbour towns like Hamburg had long been supplying natural history museums, private collectors, and the natural history trade with sea creatures, it was only in the mid-19th century that the transport of live animals experienced a noticeable boom when the aquarium trade, which had begun in England, spread to Europe and beyond.[^2]
 
-The question of which species would prevail as aquarium animals and therefore objects of trade, and what value would be ascribed to them, depended on demand but also on practical factors such as their [[transportability|story.from-pests-to-displays]]bility and ability to survive. For, at that time, nowhere near all animals survived the long voyages on board ships, which often took months. In 1900, aquarists still believed it was a “recognised fact that it is much easier to import live elephants than a finger-long fish”.[^3] The particular challenge presented by attempting to transport live water creatures was that most of them required a rudimental environment to be created for them. This did not just take a lot of effort and money, but also required specific knowledge of a given species’ habitat.
+The question of which species would prevail as aquarium animals and therefore objects of trade, and what value would be ascribed to them, depended on demand but also on practical factors such as their [[transportability|story.from-pests-to-displays]] and ability to survive. For, at that time, nowhere near all animals survived the long voyages on board ships, which often took months. In 1900, aquarists still believed it was a “recognised fact that it is much easier to import live elephants than a finger-long fish”.[^3] The particular challenge presented by attempting to transport live water creatures was that most of them required a rudimental environment to be created for them. This did not just take a lot of effort and money, but also required specific knowledge of a given species’ habitat.
 
 Unlike many other sea creatures, horseshoe crabs were extremely resilient animals. When William Lloyd, who was in charge of procuring animals for the recently opened Hamburg Aquarium, was ordering horseshoe crabs from the New York coast for the newly erected seawater tanks at the Hamburg zoological garden from animal trader Carl Hagenbeck in 1865, he noted:
 
