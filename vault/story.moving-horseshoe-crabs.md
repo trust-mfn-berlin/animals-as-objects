@@ -7,7 +7,7 @@ short_desc_de: Verbreitungswege von Tieren und Wissen
 date_end: 2020-01-01T21:08:57.624Z
 published: false
 title: Moving Horseshoe Crabs
-updated: 1642592622206
+updated: 1642592703237
 id: WPnxMDphZ5DDXrhkIdvBS
 doi: 64y2-m311/50
 translators:
@@ -83,7 +83,7 @@ So far, however, there has been no indication that horseshoe crabs have become e
 
 [^9]: Thomas Southwell. “King Crab off the Dutch Coast”. _The Zoologist: A Monthly Journal of Natural History_ 8 (1873): 3740. 
 
-[^10]: _Land and Water_ 26.04.1873.
+[^10]: _Land and Water_, 26.04.1873.
 
 [^11]: Quoted in Ernst Huth. “Der Pfeilschwanz (_Limulus Polyphemus_) in der Nordsee”. _Monatliche Mittheilungen des Naturwissenschaftlichen Vereins des Regierungsbezirks Frankfurt_ 4, no. 19 (1886/87): 20.
 
@@ -156,7 +156,7 @@ Bislang gibt es indes keine Hinweise darauf, dass sich Pfeilschwanzkrebse im deu
 
 [^9]: Thomas Southwell. “King Crab off the Dutch Coast”. _The Zoologist. A Monthly Journal of Natural History_ 8 (1873): 3740. 
 
-[^10]: _Land and Water_ 26.04.1873.
+[^10]: _Land and Water_, 26.04.1873.
 
 [^11]: Zit. nach Ernst Huth. “Der Pfeilschwanz (_Limulus Polyphemus_) in der Nordsee”. _Monatliche Mittheilungen des Naturwissenschaftlichen Vereins des Regierungsbezirks Frankfurt_ 4, Nr. 19 (1886/87): 20.
 
