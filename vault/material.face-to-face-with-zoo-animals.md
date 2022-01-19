@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Face to Face with Zoo Animals
 title_de: Zootiere anfassen
 created: 1640354060660
-updated: 1642522418029
+updated: 1642606666659
 id: U1w3ckwyrdpQ2JzOLgTKo
 author: Mareike Vennen
 doi: 64y2-m311/54
@@ -26,7 +26,7 @@ published: false
 
 <figure>
  
-![A cheetah cub sits in front of a group of young domestic pigs and sheep in a fenced-in enclosure.](/images/cmw/Tierkindergarten_1930er.jpg)
+![A cheetah cub sits in front of a group of young domestic pigs and sheep in a fenced-in enclosure.](/images/cmw/Tierkindergarten_um1930_S3_10.jpg)
  
 <figcaption>
 
@@ -96,7 +96,7 @@ _No restraint between human child and young predator, as the_ Heidelberger Tageb
  
  <figure>
  
-![In einem umzäunten Gehege sitzt ein Gepardenjunges vor einer Gruppe von jungen Hausschweinen und Schafen.](/images/cmw/Tierkindergarten_1930er.jpg)
+![In einem umzäunten Gehege sitzt ein Gepardenjunges vor einer Gruppe von jungen Hausschweinen und Schafen.](/images/cmw/Tierkindergarten_um1930_S3_10.jpg)
  
 <figcaption>
 
