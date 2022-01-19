@@ -34,7 +34,7 @@ tao_type: material
 
 <figcaption>
 
-_Source: youtube_
+_Source: YouTube_
 
 </figcaption>
 
@@ -61,7 +61,7 @@ _This video introduces infusoria through the massive collection of Ehrenberg’s
 
 <figcaption>
 
-_Quelle: youtube_
+_Quelle: YouTube_
 
 </figcaption>
 
