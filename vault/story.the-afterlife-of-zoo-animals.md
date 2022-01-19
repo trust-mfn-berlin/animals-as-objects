@@ -7,7 +7,7 @@ short_desc_de: Auf den Spuren eines Elefanten
 date_end: 1947-12-31T11:00:00.000Z
 published: false
 title: The Afterlife of Zoo Animals
-updated: 1642598693218
+updated: 1642598778284
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 doi: 64y2-m311/24
 translators:
@@ -70,7 +70,7 @@ The carcasses of zoo animals, especially large mammals, are usually not simply d
 
 ## Colonial Traces
 
-One of the trails leads to the Zoological Museum Berlin, which was a part of the Museum of Natural History. According to the aforementioned newspaper article, after the elephant’s body had been cut up and dissected, the museum was to receive the skull for its scientific research collection, and a piece of the backbone for its exhibition.[^1] The article went on to report that a private taxidermist named Kriegerowski, who regularly received animal carcasses from the zoo for taxidermy purposes, was to receive the feet, which he combined with tinfoil to make wastepaper baskets.[^2] This is where the trail runs cold, or at least where my research reaches a [[dead end|story.untraceable]], as is the case with many [[objects|story.silkworms]]. The items that ended up in private hands are much harder to locate than those in public collections. The [[histories|story.moving-horseshoe-crabs]] of some objects (still) only seem to exist in the form of a paper trail the animals left behind in archives, correspondence, and newspaper reports. That said, the search in the Museum of Natural History has also proven difficult. My colleague Clemens Maier-Wolthausen and I have searched for the skull in many boxes, cupboards, and shelves in the mammal collection – thus far, without success.[^3]
+One of the trails leads to the Zoological Museum Berlin, which was a part of the Museum of Natural History. According to the aforementioned newspaper article, after the elephant’s body had been cut up and dissected, the museum was to receive the skull for its scientific research collection, and a piece of the backbone for its exhibition.[^1] The article went on to report that a private taxidermist named Kriegerowski, who regularly received animal carcasses from the zoo for taxidermy purposes, was to receive the feet, which he combined with tinfoil to make wastepaper baskets.[^2] This is where the trail runs cold, or at least where my research reaches a [[dead end|story.untraceable]] – as is the case with many [[objects|story.silkworms]]. The items that ended up in private hands are much harder to locate than those in public collections. The [[histories|story.moving-horseshoe-crabs]] of some objects (still) only seem to exist in the form of a paper trail the animals left behind in archives, correspondence, and newspaper reports. That said, the search in the Museum of Natural History has also proven difficult. My colleague Clemens Maier-Wolthausen and I have searched for the skull in many boxes, cupboards, and shelves in the mammal collection – thus far, without success.[^3]
 
 <figure>
 
