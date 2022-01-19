@@ -102,7 +102,7 @@ _The wires on the specimen show that it was hung up, which points to its probabl
 
 </figure>
 
-In fact, these specimens, as can be read at the top of the jar label, have come from the Zoological Institute. This used to be an institute at the Friedrich-Wilhelms-Universität zu Berlin that had established a Zoological Teaching Collection after its founding in 1884.
+In fact, these specimens, as can be read at the top of the jar label, have come from the Zoological Institute. This used to be an institute at the Friedrich-Wilhelms-Universität zu Berlin that had established a [[zoological teaching collection|story.history-of-the-zoological-teaching-collection]] after its founding in 1884.
 
 <figure>
 
@@ -283,7 +283,7 @@ Im Museum für Naturkunde Berlin befindet sich das [[Präparat|material.an-iguan
 ## Vom Aquarium über die Lehrsammlung ins Museum: Provenienzgeschichten
 
 Wenn die historischen Limulus-Präparate, die sich heute im Museum für Naturkunde Berlin befinden, ursprünglich nicht für dessen Sammlung bestimmt waren, woher stammen sie und was war ihr Zweck? Welche Wege haben sie im Laufe der Zeit zurückgelegt und was vermögen diese über die Sammlungsgeschichte auszusagen?
-Einen Hinweis auf ihre frühere Funktion liefern die [[Präparate|material.jendaya-parakeet]] selbst. Die Art der Zurichtung deutet darauf hin, dass es sich nicht um Objekte einer _Forschungs_-sammlung wie der des Museums handelt, sondern um _Lehr_-objekte. Zum einen wurden Präparate für die [[universitäre Lehre|story.history-of-the-zoological-teaching-collection]] buchstäblich zugeschnitten oder bestanden aus isolierten Körperteilen, um verschiedene Funktionen oder Organe eines Tieres zu demonstrieren. In diesem Fall sind bei manchen der Tiere bestimmte Körperpartien wie etwa das Nervensystem freigelegt.
+Einen Hinweis auf ihre frühere Funktion liefern die [[Präparate|material.jendaya-parakeet]] selbst. Die Art der Zurichtung deutet darauf hin, dass es sich nicht um Objekte einer Forschungssammlung wie der des Museums handelt, sondern um [[Lehrobjekte|material.common-seadragon]]. Zum einen wurden Präparate für die [[universitäre Lehre|story.history-of-the-zoological-teaching-collection]] buchstäblich zugeschnitten oder bestanden aus [[isolierten Körperteilen|story.bobby-tracking-body-parts2]], um verschiedene Funktionen oder Organe eines Tieres zu demonstrieren. In diesem Fall sind bei manchen der Tiere bestimmte Körperpartien wie etwa das Nervensystem freigelegt.
 
 <figure>
 
@@ -337,7 +337,7 @@ _Die Drähte an diesem Präparat weisen auf eine Aufhängung und diese vermutlic
 
 </figure>
 
-Tatsächlich stammen diese Präparate aus dem “Zoologischen Institut”, wie oben auf den Etiketten am Glas zu lesen ist. Dabei handelt es sich um ein ehemaliges Institut der Friedrich-Wilhelms-Universität zu Berlin, an dem seit seiner Gründung 1884 eine zoologische Lehrsammlung aufgebaut wurde.
+Tatsächlich stammen diese Präparate aus dem Zoologischen Institut, wie oben auf den Etiketten am Glas zu lesen ist. Dabei handelt es sich um ein ehemaliges Institut der Friedrich-Wilhelms-Universität zu Berlin, an dem seit seiner Gründung 1884 eine zoologische Lehrsammlung aufgebaut wurde.
 
 <figure>
 
@@ -381,7 +381,7 @@ Als sich in der zweiten Hälfte des 19. Jahrhunderts von den englischen Küsten 
 
 <figcaption>
 
-_Der Aquarienführer von 1914 präsentierte Zeichnungen ausgewählter Meerestiere, die ausgestellt waren. (AZGB. All rights reserved.)_
+_Der Aquarienführer von 1914 präsentierte Zeichnungen ausgewählter Meerestiere, die ausgestellt waren. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
