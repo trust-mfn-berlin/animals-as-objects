@@ -7,7 +7,7 @@ short_desc_de: Gejagt, entsorgt und wieder ausgegraben
 date_end: ""
 published: false
 title: Steller’s Sea Cow
-updated: 1642585044183
+updated: 1642585488797
 id: Q8UAdldubzw0uhkmmgER3
 doi: 64y2-m311/56
 translators:
@@ -71,35 +71,35 @@ However, just like the original drawings,[^14] barely any material traces of Ste
 
 [^1]: On the history of this drawing, see http://www.hans-rothauscher.de/steller/seacow.htm. (17.12.2021)
 
-[^2]: Matschie, Paul. “Die Säugethier-Schausammlung”. _Naturwissenschaftliche Wochenschrift_ 10, no. 26 (30.06.1895): 311-315, 313.
+[^2]: Paul Matschie. “Die Säugethier-Schausammlung”. _Naturwissenschaftliche Wochenschrift_ 10, no. 26 (30.06.1895): 311-315, 313.
 
-[^3]: Cf. Baer, Karl Ernst von. “Untersuchungen über die ehemalige Verbreitung und die gänzliche Vertilgung der von Steller beobachteten nordischen Seekuh (_Rytina Ill_.)”. _Mémoires de l’Académie Impériale des Sciences de Saint Pétersbourg_ 6.5, no. 2 (1840): 53−80; Baer, Karl Ernst von. “Über das Aussterben der Thierarten in physiologischer und nicht physiologischer Hinsicht überhaupt, und der Untergang von Arten, die mit den Menschen zusammen gelebt haben”. _Bulletin de l’Académie impériale des sciences de St. Pétersbourg_ 3 (1861): 369−396. On von Baer’s studies, see also Podgorny, Irina. “Recyclen: Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien: Vom Wert wissenschaftlicher Dinge_, Ina Heumann and Nils Güttler (eds.). Berlin: Kadmos, 2016: 23–46; as well as Podgorny, Irina. “Requiem, oder (Aus-)Sterben in historischer und geologischer Zeit: Knöchelverzeichnis KV 626”. In _Mikrozeit und Tiefenzeit_, Friedrich Balke et al. (eds.). Paderborn: Fink, 2018: 128-142.
+[^3]: Cf. Karl Ernst von Baer. “Untersuchungen über die ehemalige Verbreitung und die gänzliche Vertilgung der von Steller beobachteten nordischen Seekuh (_Rytina Ill_.)”. _Mémoires de l’Académie impériale des sciences de Saint-Pétersbourg_ 6.5, no. 2 (1840): 53-80; Karl Ernst von Baer. “Über das Aussterben der Thierarten in physiologischer und nicht physiologischer Hinsicht überhaupt, und der Untergang von Arten, die mit den Menschen zusammen gelebt haben”. _Bulletin de l’Académie impériale des sciences de Saint-Pétersbourg_ 3 (1861): 369-396. On von Baer’s studies, see also Irina Podgorny. “Recyclen: Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien: Vom Wert wissenschaftlicher Dinge_. Ina Heumann and Nils Güttler (eds.). Berlin: Kadmos, 2016: 23-46; as well as Irina Podgorny. “Requiem, oder (Aus-)Sterben in historischer und geologischer Zeit: Knöchelverzeichnis KV 626”. In _Mikrozeit und Tiefenzeit_. Friedrich Balke et al. (eds.). Paderborn: Fink, 2018: 128-142.
 
-[^4]: Cf. Steller, Georg Wilhelm. “De Bestiis Marinis”. In _Novi Commentarii Academiae Scientarium Imperialis Petropolitanae_, vol. II. St. Petersburg: Press of the Academy of Sciences, 1751: 289−398; also in “The Beasts of the Sea”, transl. by Walter Miller und Jennie Emerson Miller. In _The Fur Seals and Fur-seal Islands of the North Pacific Ocean_, vol. 3. Washington D. C.: Govt. Print. Off., 1898−1899: 179−210.
+[^4]: Cf. Georg Wilhelm Steller. “De bestiis marinis”. In _Novi Commentarii Academiae Scientarium Imperialis Petropolitanae_, vol. II. St. Petersburg: Press of the Academy of Sciences, 1751: 289−398; also in “The Beasts of the Sea”, transl. by Walter Miller und Jennie Emerson Miller. In _The Fur Seals and Fur-seal Islands of the North Pacific Ocean_, vol. 3. Washington D. C.: Govt. Print. Off., 1898−1899: 179-210.
 
-[^5]: On how the local population interacted with and enslaved some of them, see, e.g., Schmidt, Eberhard (ed.). _Wirtschaft und Handel der Kolonialreiche_, vol. 4. Munich: Verlag C.H. Beck, 1988: 328.
+[^5]: On how the local population interacted with and enslaved some of them, see, e.g., Eberhard Schmidt (ed.). _Wirtschaft und Handel der Kolonialreiche_, vol. 4. Munich: Verlag C.H. Beck, 1988: 328.
 
 [^6]: Cf. Podgorny, 2016; Podgorny, 2018.
 
 [^7]: Cf. Podgorny 2016: 35.
 
-[^8]: Ellis, Richard. _No Turning Back: The Life and Death of Animal Species_. New York: HarperCollins, 2004: 27.
+[^8]: Richard Ellis. _No Turning Back: The Life and Death of Animal Species_. New York: HarperCollins, 2004: 27.
 
-[^9]: According to Sharko et al., the genome of Steller’s sea cow indicates that this species had started going extinct before the arrival of Palaeolithic humans. Sharko, F.S., E.S. Boulygina, S.V. Tsygankova, et al. “Steller’s Sea Cow Genome Suggests this Species Began Going Extinct Before the Arrival of Paleolithic Humans”. _Nature Communications_ 12, no. 2215 (2021). https://doi.org/10.1038/s41467-021-22567-5.
+[^9]: According to F.S. Sharko et al., the genome of Steller’s sea cow indicates that this species had started going extinct before the arrival of Palaeolithic humans. F.S. Sharko et al. “Steller’s Sea Cow Genome Suggests this Species Began Going Extinct Before the Arrival of Paleolithic Humans”. _Nature Communications_ 12, no. 2215 (2021). https://doi.org/10.1038/s41467-021-22567-5.
 
-[^10]: See, e.g., Jones, Ryan Tucker. _Empire of Extinction: Russians and the North Pacific’s Strange Beasts of the Sea, 1741-1867_. Oxford: Oxford University Press, 2014; Ellis, Richard. _The Empty Ocean: Plundering the World’s Marine Life_. Washington D. C.: Island Press, 2003.
+[^10]: See, e.g., Ryan Tucker Jones. _Empire of Extinction: Russians and the North Pacific’s Strange Beasts of the Sea, 1741-1867_. Oxford: Oxford University Press, 2014; Richard Ellis. _The Empty Ocean: Plundering the World’s Marine Life_. Washington D. C.: Island Press, 2003.
 
-[^11]: Kyne, P., and V. Adams. “Extinct Flagships: Linking Extinct and Threatened Species”. _Oryx_ 51 , no. 3 (2017): 471-476. https://doi.org/10.1017/S0030605316000041.
+[^11]: P. Kyne and V. Adams. “Extinct Flagships: Linking Extinct and Threatened Species”. _Oryx_ 51 , no. 3 (2017): 471-476. https://doi.org/10.1017/S0030605316000041.
 
-[^12]: Heise, Ursula K. _Nach der Natur: Das Artensterben und die moderne Kultur._ Berlin: Suhrkamp, 2010.
+[^12]: Ursula K. Heise. _Nach der Natur: Das Artensterben und die moderne Kultur._ Berlin: Suhrkamp, 2010.
 
-[^13]: Attempts are now being made to reconstruct extermination histories like that of Steller’s sea cow by collecting, collating, and analysing historical data. By combining drawings of hunts made on 18th-century Russian expeditions with data on the lives of sea cows, scholars will be able to more precisely model the dynamics of the sea cow’s extinction. Turvey, S.T., and C.L. Risley. “Modelling the Extinction of Steller’s Sea Cow”. _Biological Letters_ 2, no. 1 (2006): 94-97. https://doi.org/10.1098/rsbl.2005.0415.
+[^13]: Attempts are now being made to reconstruct extermination histories like that of Steller’s sea cow by collecting, collating, and analysing historical data. By combining drawings of hunts made on 18th-century Russian expeditions with data on the lives of sea cows, scholars will be able to more precisely model the dynamics of the sea cow’s extinction. S.T. Turvey and C.L. Risley. “Modelling the Extinction of Steller’s Sea Cow”. _Biological Letters_ 2, no. 1 (2006): 94-97. https://doi.org/10.1098/rsbl.2005.0415.
 
 [^14]: Just as complex as the story of how these fossils have survived is the story of the historical sea cow drawings. None of the sea cow drawings made by Steller himself have survived. On the Kamchatka expeditions, Corporal Friedrich Plenisner, who joined the crew as a painter and surveyor, made drawings for him. After he returned in 1743, Steller sent his manuscript “de Bestiis marinis” to St Petersburg by boat together with a number of drawings that Pleniser had probably drawn on Bering Island. They included two depictions of a female sea cow. While the manuscript did in fact reach St Petersburg, the drawings never arrived and are considered lost. Between 1834 and 1842, the St Petersburg Academy published this sketch of the sea cow as plate 30 in the illustrations to Simon Peter Pallas’ _Zoographia Rosso-Asiatica_. At that time, none of the _Waxell maps_ existed yet, and there were no skeletons in Europe. The exact origins of the drawing are unclear. According to Stejneger, it could be one of Pleniser’s original sketches commissioned by Steller, which later made its way to Pallas, who at any rate had it printed in this rough form. All information about the drawings is from Hans Rothauscher, who explains the history of the surviving images of the sea cow here: http://www.hans-rothauscher.de/steller/seacow.htm. (17.12.2021).
 
-[^15]: Cf. Mattioli, Stefano, and Daryl P. Domning. “An Annotated List of Extant Skeletal Material of Steller’s Sea Cow”. _Aquatic Mammals_ 32, no. 3 (2006): 273−288; Stejneger, Leonar. “Skeletons of Steller’s Sea-Cow Preserved in the Various Museums”. _Science_ 21, no. 523 (1893): 81. https://doig.org/10.1126/science.ns-21.523.81-b; as well as http://www.hans-rothauscher.de/steller/museen.htm (05.10.2021).
+[^15]: Cf. Stefano Mattioli and Daryl P. Domning. “An Annotated List of Extant Skeletal Material of Steller’s Sea Cow”. _Aquatic Mammals_ 32, no. 3 (2006): 273-288; Leonar Stejneger. “Skeletons of Steller’s Sea-Cow Preserved in the Various Museums”. _Science_ 21, no. 523 (1893): 81. https://doig.org/10.1126/science.ns-21.523.81-b; as well as http://www.hans-rothauscher.de/steller/museen.htm (05.10.2021).
 
-[^16]: Matschie, Paul. “Die Säugethier-Schausammlung”. _Naturwissenschaftliche Wochenschrift_ 10, no. 26 (30.06.1895): 311-315, 314. 
+[^16]: Paul, 1895: 314. 
 
 [^17]: Ibid.: 314. 
 
@@ -154,7 +154,7 @@ Materielle Überreste von Seekühen sind dagegen – ebenso wie Originalzeichnun
 
 [^4]: Vgl. Karl Ernst von Baer. “Untersuchungen über die ehemalige Verbreitung und die gänzliche Vertilgung der von Steller beobachteten nordischen Seekuh (_Rytina Ill_.)”. _Mémoires de l’Académie impériale des sciences de Saint-Pétersbourg_ 6,5, Nr. 2 (1840): 53-80; Ders. “Über das Aussterben der Thierarten in physiologischer und nicht physiologischer Hinsicht überhaupt, und der Untergang von Arten, die mit den Menschen zusammen gelebt haben”. _Bulletin de l’Académie impériale des sciences de Saint-Pétersbourg_ 3 (1861): 369−396. Vgl. zu von Baers Untersuchungen auch Irina Podgorny. “Recyclen: Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien: Vom Wert wissenschaftlicher Dinge_. Ina Heumann und Nils Güttler (Hg.). Berlin: Kadmos, 2016: 23-46; sowie Irina Podgorny. “Requiem, oder (Aus-) Sterben in historischer und geologischer Zeit: Knöchelverzeichnis KV 626”. In _Mikrozeit und Tiefenzeit_. Friedrich Balke et al. (Hg.). Paderborn: Fink, 2018: 128-142.
 
-[^5]: Vgl. Georg Wilhelm Steller. “De bestiis marinis”. In _Novi Commentarii Academiae Scientarium Imperialis Petropolitanae_, Bd. II. St. Petersburg, 1751: 289−398; auch in “The Beasts of the Sea”, übersetzt von Walter Miller und Jennie Emerson Miller. In _The Fur Seals and Fur-seal Islands of the North Pacific Ocean_, Bd. 3. Washington D. C.: Govt. Print. Off., 1898−1899: 179-210.
+[^5]: Vgl. Georg Wilhelm Steller. “De bestiis marinis”. In _Novi Commentarii Academiae Scientarium Imperialis Petropolitanae_. Bd. II. St. Petersburg, 1751: 289−398; auch in “The Beasts of the Sea”, übersetzt von Walter Miller und Jennie Emerson Miller. In _The Fur Seals and Fur-seal Islands of the North Pacific Ocean_, Bd. 3. Washington D. C.: Govt. Print. Off., 1898−1899: 179-210.
 
 [^6]: Zum Umgang mit der lokalen Bevölkerung und ihrer teilweisen Versklavung siehe etwa Schmidt, Eberhard (Hg.). _Wirtschaft und Handel der Kolonialreiche_, Bd. 4. München: Verlag C.H. Beck, 1988: 328.
 
@@ -164,7 +164,7 @@ Materielle Überreste von Seekühen sind dagegen – ebenso wie Originalzeichnun
 
 [^9]: Richard Ellis. _No Turning Back: The Life and Death of Animal Species_. New York: HarperCollins, 2004: 27.
 
-[^10]: Das Genom der Steller’schen Seekuh deutet laut einer aktuellen Studie darauf hin, dass das Aussterben dieser Art bereits vor der Ankunft des paläolithischen Menschen begann. F.S. Sharkoet al. “Steller’s Sea Cow Genome Suggests this Species Began Going Extinct Before the Arrival of Paleolithic Humans”. _Nature Communications_ 12, Nr. 2215 (2021). https://doi.org/10.1038/s41467-021-22567-5.
+[^10]: Das Genom der Steller’schen Seekuh deutet laut einer aktuellen Studie darauf hin, dass das Aussterben dieser Art bereits vor der Ankunft des paläolithischen Menschen begann. F.S. Sharko et al. “Steller’s Sea Cow Genome Suggests this Species Began Going Extinct Before the Arrival of Paleolithic Humans”. _Nature Communications_ 12, Nr. 2215 (2021). https://doi.org/10.1038/s41467-021-22567-5.
 
 [^11]: Vgl. etwa Ryan Tucker Jones. _Empire of Extinction: Russians and the North Pacific’s Strange Beasts of the Sea, 1741-1867_. Oxford: Oxford University Press, 2014; Richard Ellis. _The Empty Ocean: Plundering the World’s Marine Life_. Washington D. C.: Island Press, 2003.
 
