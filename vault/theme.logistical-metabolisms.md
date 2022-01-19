@@ -21,7 +21,7 @@ desc_de: Für die Verwandlung von Tieren in Objekte spielen sowohl logistische
   als Objekte für Zoos oder naturkundliche Sammlungen – mit dem
   Ineinandergreifen dieser beiden Arten von Kreislaufsystemen. Sie zeigen, dass
   Umwandlungen selbst dort weitergehen, wo wir es am wenigsten vermuten.
-short_desc: Collecting, transporting, and eating entangle in surprising ways
+short_desc: Transforming animals in motion
 short_desc_de: Umwandlungsprozesse von Tieren in Bewegung
 cover_image:
   image: /images/elefantenschildkroeten-mfn-hbsb-k001-0708-p.jpg
