@@ -7,7 +7,7 @@ short_desc_de: Auf den Spuren eines Elefanten
 date_end: 1947-12-31T11:00:00.000Z
 published: false
 title: The Afterlife of Zoo Animals
-updated: 1642598178238
+updated: 1642598654894
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 doi: 64y2-m311/24
 translators:
@@ -200,7 +200,7 @@ Die Kadaver von Zootieren, zumal Großsäugern, werden meist nicht einfach entso
 
 ## Koloniale Spuren
 
-Eine der Spuren führt in das Zoologische Museum Berlin, das Teil des Museums für Naturkunde war. Nachdem der Körper des Elefanten zerteilt und seziert worden war, sollte das Museum den Schädel für seine wissenschaftliche Sammlung und ein Stück Rückgrat für seine Ausstellung erhalten, wie es in besagtem Zeitungsartikel heißt.[^1] Ein privater Präparator namens Kriegerowski, der regelmäßig Tierkadaver zu Präparationszwecken vom Zoo übernahm, sollte die Füße erhalten, aus denen er Papierkörbe mit Staniolpapier fertigte, wie weiter zu lesen ist.[^2] Hier verliert sich die Spur, (wie bei vielen anderen [[Objekten|story.silkworms]]), oder ich komme zumindest in der Recherche nicht weiter. Was in private Hände gelangte, ist selten oder zumindest seltener wieder [[auffindbar|story.untraceable]] als das, was in öffentlichen Sammlungen lagert. Manche Objektgeschichten scheinen nur (noch) als [[Papierspuren|story.moving-horseshoe-crabs]] zu existieren, die die Tiere in Archiven, Korrespondenzen oder Zeitungsberichten hinterlassen haben. Wobei sich auch die Suche im Museum für Naturkunde als schwierig erweist. Mein Kollege Clemens Maier-Wolthausen und ich haben in der Säugetiersammlung viele Kisten, Schränke und Regale nach dem Schädel durchsucht, bislang ohne Erfolg.[^3]
+Eine der Spuren führt in das Zoologische Museum Berlin, das Teil des Museums für Naturkunde war. Nachdem der Körper des Elefanten zerteilt und seziert worden war, sollte das Museum den Schädel für seine wissenschaftliche Sammlung und ein Stück Rückgrat für seine Ausstellung erhalten, wie es in besagtem Zeitungsartikel heißt.[^1] Ein privater Präparator namens Kriegerowski, der regelmäßig Tierkadaver zu Präparationszwecken vom Zoo übernahm, sollte die Füße erhalten, aus denen er Papierkörbe mit Staniolpapier fertigte, wie weiter zu lesen ist.[^2] Hier verliert sich die Spur – wie bei vielen anderen [[Objekten|story.silkworms]] – oder ich komme zumindest in der Recherche nicht weiter. Was in private Hände gelangte, ist selten oder zumindest seltener wieder [[auffindbar|story.untraceable]] als das, was in öffentlichen Sammlungen lagert. Manche Objektgeschichten scheinen nur (noch) als [[Papierspuren|story.moving-horseshoe-crabs]] zu existieren, die die Tiere in Archiven, Korrespondenzen oder Zeitungsberichten hinterlassen haben. Wobei sich auch die Suche im Museum für Naturkunde als schwierig erweist. Mein Kollege Clemens Maier-Wolthausen und ich haben in der Säugetiersammlung viele Kisten, Schränke und Regale nach dem Schädel durchsucht, bislang ohne Erfolg.[^3]
 
 <figure>
 
