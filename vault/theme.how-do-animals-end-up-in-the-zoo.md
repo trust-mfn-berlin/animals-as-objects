@@ -64,7 +64,7 @@ Many of the non-native animals in the early days of European zoos were gifts fro
 
 <figcaption>
 
-_The two Asian elephants “Omar” and “Rostom” were gifts of the British court to their relations in the Prussian royal family in 1881. (AZGB. All rights reserved.)_
+_The two Asian elephants “Omar” and “Rostom” were gifts given to the Prussian royal family by their relative in the British royal family in 1881. (AZGB. All rights reserved.)_
 
 </figcaption>
 

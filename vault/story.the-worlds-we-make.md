@@ -293,11 +293,11 @@ Einen Hinweis auf ihre frühere Funktion liefern die [[Präparate|material.jenda
 
 _Die Vorderseite des Präparates ‘ZMB 48487’ zeigt, dass das Nervensystem des Tieres freigelegt ist. (MfN, ZMB 48487. Foto: Carola Radke/MfN. Alle Rechte vorbehalten.)_
 
-Bei anderen sind einzelne Organe extrahiert.
-
 </figcaption>
 
 </figure>
+
+Bei anderen sind einzelne Organe extrahiert.
 
 <figure>
 
