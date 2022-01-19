@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Of Lion-Tigers and Rotting Specimens
 title_de: Von Löwen-Tigern und verfaulten Präparaten
 created: 1639567838410
-updated: 1642586210496
+updated: 1642621609646
 id: b1zgnK9GmzS2RLdAd76u0
 author: Sarina Schirmer
 doi: 64y2-m311/45
@@ -30,7 +30,7 @@ published: false
 
 <figcaption>
 
-_Logbook for 1843 from the Zoological Collection displaying the month of February. (MfN, HBSB, Zool. Mus SI Verwaltungsakten, Tagebuch des zool. Mus., Beyer, F. 1843. All rights reserved.)_
+_Logbook for 1843 from the Zoological Collection displaying the month of February. (MfN, HBSB, ZM SI Verwaltungsakten, Tagebuch Beyer, 1843. All rights reserved.)_
 
 </figcaption>
 
@@ -54,7 +54,7 @@ Friedrich Beyer’s logbooks do not just provide us with a treasure trove of obj
 
 <figcaption>
 
-_Tagebuch der Zoologischen Sammlung aus dem Jahr 1843, Monatsansicht Februar. (MfN, HBSB, Zool. Mus SI Verwaltungsakten, Tagebuch des zool. Mus., Beyer, F. 1843. Alle Rechte vorbehalten.)_
+_Tagebuch der Zoologischen Sammlung aus dem Jahr 1843, Monatsansicht Februar. (MfN, HBSB, ZM SI Verwaltungsakten, Tagebuch Beyer, 1843. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
