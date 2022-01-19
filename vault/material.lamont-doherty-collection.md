@@ -54,7 +54,7 @@ _This video shows the unboxing of the collection as it arrived at the Museum fü
 
 [^1]: The Observatory is named after two wealthy New York families whose donations contributed to the foundation and development of the research institution. For more information, see “History of Lamont”. _Columbia Climate School_, no date. https://www.ldeo.columbia.edu/about-ldeo/history-lamont (03.01.2022). 
 
-[^2]: See “History of the Core Repository”. _Columbia Climate School_, no date, https://www.ldeo.columbia.edu/core-repository/about-us/core-repository-history (03.01.2022).
+[^2]: See “History of the Core Repository”. _Columbia Climate School_, no date. https://www.ldeo.columbia.edu/core-repository/about-us/core-repository-history (03.01.2022).
 
 [^3]: To better understand the implications of these transformations in global political ecologies, see Paul Edwards. _A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming_. Cambridge: MIT Press, 2010.
 

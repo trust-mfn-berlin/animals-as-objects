@@ -46,11 +46,11 @@ But while most scientific and academic work had focused on macro fossils, it was
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xMQUGSrnbP8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-[^1]: To learn more about the complex history and uses of fossil fuels, visit “Oil Beauty and Horror in the Petrol Age”. _Kunstmuseum Wolfsburg_, 2021, https://www.kunstmuseum.de/en/exhibition/oil-beauty-and-horror-in-the-petrol-age/ (28.08.2021).
+[^1]: To learn more about the complex history and uses of fossil fuels, visit “Oil Beauty and Horror in the Petrol Age”. _Kunstmuseum Wolfsburg_, 2021. https://www.kunstmuseum.de/en/exhibition/oil-beauty-and-horror-in-the-petrol-age/ (28.08.2021).
 
-[^2]: The political economies and ecologies of fossil fuels are at the core of many fascinating books. In particular, see Mitchell, Timothy. _Carbon Democracy: Political Power in the Age of Oil_. London: Verso, 2011; and Malm, Andreas. _Fossil Capital: The Rise of Steam Power and the Roots of Global Warming_. London: Verso, 2016.
+[^2]: The political economies and ecologies of fossil fuels are at the core of many fascinating books. In particular, see Timothy Mitchell. _Carbon Democracy: Political Power in the Age of Oil_. London: Verso, 2011; and Andreas Malm. _Fossil Capital: The Rise of Steam Power and the Roots of Global Warming_. London: Verso, 2016.
 
-[^3]: Find out more about the history of energy in Germany in this interesting report: “The History of Energy in Germany”. _Planète Énergies_, 29.04.2015, https://www.planete-energies.com/en/medias/saga-energies/history-energy-germany (28.08.2021).
+[^3]: Find out more about the history of energy in Germany in this interesting report: “The History of Energy in Germany”. _Planète Énergies_, 29.04.2015. https://www.planete-energies.com/en/medias/saga-energies/history-energy-germany (28.08.2021).
 
 
 :::DE:::
@@ -61,7 +61,7 @@ But while most scientific and academic work had focused on macro fossils, it was
 
 <figcaption>
 
-_Produkte der Erdölraffinerie (Quelle: youtube)_
+_Produkte der Erdölraffinerie (Quelle: YouTube)_
 
 </figcaption>
 
@@ -76,8 +76,8 @@ Zwar befassten sich die meisten wissenschaftlichen Arbeiten in diesem Bereich mi
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xMQUGSrnbP8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-[^1]: Zur komplexen Geschichte und Verwendung fossiler Brennstoffe: “Oil Beauty and Horror in the Petrol Age”. _Kunstmuseum Wolfsburg_, 2021, https://www.kunstmuseum.de/en/exhibition/oil-beauty-and-horror-in-the-petrol-age/ (28.08.2021).
+[^1]: Zur komplexen Geschichte und Verwendung fossiler Brennstoffe: “Oil Beauty and Horror in the Petrol Age”. _Kunstmuseum Wolfsburg_, 2021. https://www.kunstmuseum.de/en/exhibition/oil-beauty-and-horror-in-the-petrol-age/ (28.08.2021).
 
-[^2]: Die politischen Ökonomien und Ökologien fossiler Brennstoffe bilden den Schwerpunkt vieler faszinierender Bücher. Siehe insbesondere: Mitchell, Timothy. _Carbon Democracy: Political Power in the Age of Oil_. London: Verso, 2011; and Malm, Andreas. _Fossil Capital: The Rise of Steam Power and the Roots of Global Warming_. London: Verso, 2016.
+[^2]: Die politischen Ökonomien und Ökologien fossiler Brennstoffe bilden den Schwerpunkt vieler faszinierender Bücher. Siehe insbesondere: Timothy Mitchell. _Carbon Democracy: Political Power in the Age of Oil_. London: Verso, 2011; and Andreas Malm. _Fossil Capital: The Rise of Steam Power and the Roots of Global Warming_. London: Verso, 2016.
 
-[^3]: Für eine informative Schilderung der Geschichte der Energie in Deutschland, siehe: “The History of Energy in Germany”. _Planète Énergies_, 29.04.2015, https://www.planete-energies.com/en/medias/saga-energies/history-energy-germany (28.08.2021).
+[^3]: Für eine informative Schilderung der Geschichte der Energie in Deutschland, siehe: “The History of Energy in Germany”. _Planète Énergies_, 29.04.2015. https://www.planete-energies.com/en/medias/saga-energies/history-energy-germany (28.08.2021).
