@@ -85,7 +85,7 @@ The “young caiman” whose whereabouts remain unknown will stay one of the col
 
 [^5]: Cf. MfN, HBSB, ZM-S-II-Schomburgk-R-59-r; Richard Schomburgk. _Reisen in Britisch-Guiana in den Jahren 1840-1844: Nebst einer Fauna und Flora Guiana’s nach Vorlagen von Johannes Müller, Ehrenberg, Erichson, Klotzsch, Troschel, Cabanis und Andern_, vol. 1 and 2. Leipzig: J. J. Weber, 1847-1848 .
 
-[^6]: Philipp Leopold Martin. _Die Praxis der Naturgeschichte: Ein vollständiges Lehrbuch, Teil 1, Taxidermie oder die Lehre vom Präparieren, Konservieren und Ausstopfen der Tiere und ihrer Teile, Vom Naturaliensammeln auf Reisen und dem Naturalienhandel_. Weimar: B.F. Voigt, 1886: 1.
+[^6]: Philipp Leopold Martin. _Die Praxis der Naturgeschichte: Ein vollständiges Lehrbuch; Teil 1, Taxidermie oder die Lehre vom Präparieren, Konservieren und Ausstopfen der Tiere und ihrer Teile; Vom Naturaliensammeln auf Reisen und dem Naturalienhandel_. Weimar: B.F. Voigt, 1886: 1.
 
 [^7]: The ecological consequences of imperialism and colonialism were being examined as far back as in the 1980s. Cf. William Cronon. _Changes in the Land: Indians, Colonists, and the Ecology of New England_. New York: Hill and Wang, 1983; Alfred W. Crosby. _Ecological Imperialism: The Biological Expansion of Europe, 900-1900_. Cambridge: Cambridge University Press, 1986; Richard Grove. _Green Imperialism: Colonial Expansion, Tropical Island Edens and the Origins of Environmentalism, 1600-1860_. Cambridge: Cambridge University Press, 1995.
 
@@ -148,7 +148,7 @@ Der “junge Caiman”, über dessen Verbleib wir nichts wissen, bleibt vorerst 
 
 [^5]: Da die meisten dieser Akteur:innen nicht namentlich genannt werden, wissen wir nicht, ob es sich um Männer oder Frauen handelte, daher werden hier beide Formen aufgenommen. Vgl. MfN, HBSB, ZM-S-II-Schomburgk-R-59-r; Richard Schomburgk. _Reisen in Britisch-Guiana in den Jahren 1840-1844: Nebst einer Fauna und Flora Guiana’s nach Vorlagen von Johannes Müller, Ehrenberg, Erichson, Klotzsch, Troschel, Cabanis und Andern_, Bd. 1 und 2. Leipzig: J. J. Weber, 1847-1848.
 
-[^6]: Philipp Leopold Martin. _Die Praxis der Naturgeschichte: Ein vollständiges Lehrbuch, Erster Teil, Taxidermie oder die Lehre vom Präparieren, Konservieren und Ausstopfen der Tiere und ihrer Teile, Vom Naturaliensammeln auf Reisen und dem Naturalienhandel_. Weimar: B.F. Voigt, 1886: 1.
+[^6]: Philipp Leopold Martin. _Die Praxis der Naturgeschichte: Ein vollständiges Lehrbuch; Erster Teil, Taxidermie oder die Lehre vom Präparieren, Konservieren und Ausstopfen der Tiere und ihrer Teile; Vom Naturaliensammeln auf Reisen und dem Naturalienhandel_. Weimar: B.F. Voigt, 1886: 1.
 
 [^7]: Die ökologischen Folgen von Imperialismus und Kolonialismus wurden bereits in den 1980er Jahren untersucht. Vgl. William Cronon. _Changes in the Land: Indians, Colonists, and the Ecology of New England_. New York: Hill and Wang, 1983; Alfred W. Crosby. _Ecological Imperialism: The Biological Expansion of Europe, 900-1900_. Cambridge: Cambridge University Press, 1986; Richard Grove. _Green Imperialism: Colonial Expansion, Tropical Island Edens and the Origins of Environmentalism, 1600-1860_. Cambridge: Cambridge University Press, 1995.
 
