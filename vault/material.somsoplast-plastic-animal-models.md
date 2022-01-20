@@ -12,7 +12,7 @@ translators:
 desc: The materials of model building
 desc_de: Materialien des Modellbaus
 short_desc: The materials of model building
-short_desc_de: Materialien des _Modellbaus_ -test.
+short_desc_de: Materialien des Modellbaus
 cover_image:
   image: /images/kartoffelkaefer-zool-lehrsammlung-oben.jpg
 colour_scheme: 12
