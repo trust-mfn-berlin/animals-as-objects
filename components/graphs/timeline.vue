@@ -48,7 +48,11 @@ export default {
   },
   methods:{
     navigate(event, d){
-      this.$router.push('/' + d.data.slug);
+      if(this.isDe){
+        this.$router.push('/de/' + d.data.slug);
+      } else {
+        this.$router.push('/' + d.data.slug);
+      }
     },
     mediaQuery(){
       if(window){
