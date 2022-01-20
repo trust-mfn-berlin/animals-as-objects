@@ -21,7 +21,7 @@ The research project [Animals as Objects. Zoological Gardens and Natural History
 
 ## About the people
 
-### Project Members
+## Project Members
 
 #### Jenske Bal
 
@@ -53,7 +53,7 @@ Clemens Maier-Wolthausen studied history in Berlin und Bergen/Norway with a focu
 
 #### Tahani Nadim
 
-Tahani Nadim co-heads the interdisciplinary research centre Humanities of Nature at the Museum für Naturkunde Berlin. She is a junior professor for socio-cultural anthropology at the Institute for European Ethnology at Humboldt University Berlin, where she is also a member of the Centre for Anthropological Research on Museums and Heritage (CARMAH). Her research focuses on data politics, the datafication of nature and the political and social contexts and consequences of collection digitization. Her writings have appeared in _JRAI_, _Science as Culture_, _Big Data & Society_ and the _Philosophical Transactions of the Royal Society_. She also runs the experimental research unit Bureau for Troubles in which she collaborates with artists and curators. Her exhibitions include _The Influencing Machine_ (nGbK, 2018-19) and _Dead wasps fly further_ (MfN, 2015).
+Tahani Nadim co-heads the interdisciplinary research centre Humanities of Nature at the Museum für Naturkunde Berlin. She is a junior professor for socio-cultural anthropology at the Institute for European Ethnology at Humboldt University Berlin, where she is also a member of the Centre for Anthropological Research on Museums and Heritage (CARMAH). Her research focuses on data politics, the datafication of nature and the political and social contexts and consequences of collection digitization.
 
 #### Sebastian Riedel
 
@@ -80,15 +80,15 @@ Catarina Madruga completed her PhD “Taxonomy and Empire: Zoogeographical Resea
 [Lydia White]( https://www.lydiajwhite.com/) is a Wellington-based literary studies scholar, German-English translator, editor, and publishing consultant. She is the winner of the Deutscher Börsenverein’s 2021 Geisteswissenschaften International Nonfiction Translation Prize.
 
 #### Jan-Peter Herrmann
-Jan-Peter Herrmann is a freelance translator and copy-editor working and living in Berlin. 
+Jan-Peter Herrmann is a freelance translator and copy-editor based in Berlin. 
 
 ### Copy-editing
 
 #### Jan-Peter Herrmann
-Jan-Peter Herrmann is a freelance translator and copy-editor working and living in Berlin. 
+Jan-Peter Herrmann is a freelance translator and copy-editor based in Berlin. 
 
 #### Carla Welch
-Carla Welch is a freelance translator and copy-editor.
+Carla Welch is a freelance translator and copy-editor based in Regensburg.
 
 ### Design and Development
 
@@ -114,7 +114,7 @@ Rasmus Emanuel Svensson is a graphic designer based in Berlin and Amsterdam wher
 
 We would like to thank all who supported our work on this publication.
 
-At Museum für Naturkunde Berlin:
+#### At Museum für Naturkunde Berlin
 
 Technical and administrative support: Saskia Cyron, Falko Glöckler, Sonja Kreft, Stefan Malinowski, Stefanie Paß, Mareike Petersen, Inna Reise, Holger Schick, Astrid Schröder, Caitlin Thorn, Markus Wegner
 
@@ -122,9 +122,11 @@ Research support in the Historical Image and Document Collections: Sandra Miehlb
 
 Research support in the collections: Oliver Coleman, Ferdinand Damaschun, Jason Dunlop, Pascal Eckhoff, Sylke Frahnert, Christiane Funk, David Lazarus, Frieder Mayer, Johan Renaudie, Thomas von Rintelen, Christin Scheinpflug, Katrin Spitzer, Frank Tillack, Christine Zorn 
 
-At Zoologischer Garten Berlin:
+#### At Zoologischer Garten Berlin
+
 Zoological and historical advice: Heiner Klös, Ragnar Kühne, Andreas Ochs
  
-At Humboldt University Berlin:
-Research support in the Zoological Teaching Collection:  Ines Drescher, John Nyakatura, Gerhard Scholtz
+#### At Humboldt University Berlin
+
+Research support in the Zoological Teaching Collection: Ines Drescher, John Nyakatura, Gerhard Scholtz
 
