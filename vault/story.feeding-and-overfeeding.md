@@ -7,7 +7,7 @@ short_desc_de: Wer (über)füttert im Zoo?
 date_end: 1960-12-31T11:00:00.000Z
 published: false
 title: Feeding and Overfeeding
-updated: 1642628796567
+updated: 1642671374556
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 doi: 64y2-m311/25
 translators:
@@ -97,7 +97,7 @@ _The_ Tägliche Rundschau _presents feeding the animals as an act of sharing in 
 
 </figure>
 
-[[Letters|material.winter-hardship-at-the-zoo]] from zoo visitors also show that many felt feeding the animals was not only a practical necessity, but also a form of caring. While in the first [[postwar years|story.the-zoo-and-national-socialism]] feeding became an act of solidarity with the zoo and its animals, and may even have saved the lives of some animals, the [[dangers of overfeeding|story.feeding-prohibited]] returned in full force in the 1950s.
+&#8203;[[Letters|material.winter-hardship-at-the-zoo]] from zoo visitors also show that many felt feeding the animals was not only a practical necessity, but also a form of caring. While in the first [[postwar years|story.the-zoo-and-national-socialism]] feeding became an act of solidarity with the zoo and its animals, and may even have saved the lives of some animals, the [[dangers of overfeeding|story.feeding-prohibited]] returned in full force in the 1950s.
 
 [^1]: The zoo stopped growing vegetables on its grounds as early as 1950: “We have a lot of plans for the spring; the gardening should stop now, because the food supply situation has improved substantially for the people of Berlin and vegetables can now be bought at the markets again. We can now beautify our grounds again.” K. Heinroth to U. Bergman, 07.03.1950, AZGB N 4/12. Direct quotes have been translated into English for clarity’s sake.
 
