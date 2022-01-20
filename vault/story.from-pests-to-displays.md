@@ -7,7 +7,7 @@ short_desc_de: "Stoffwechselprozesse auf hoher See "
 date_end: 1844-12-30T23:50:39.000Z
 published: false
 title: From Pests to Displays
-updated: 1642711854742
+updated: 1642712573506
 id: 3YRSzijvbnQXZs4VO291j
 doi: 64y2-m311/71
 translators:
@@ -27,7 +27,7 @@ date_start: 1839-12-31T23:50:39.000Z
 
 :::EN:::
 
-What were the challenges naturalists in the mid-19th century encountered when transporting specimens and live animals by ship across the Atlantic? The story of the botanist Richard Schomburgk, who traveled with his collected plants and animals from British Guiana to Germany in 1844, offers some intriguing insights. Specifically, it sheds light on practices of care and disposal that emerged in the long-distance shipping of animals. Because during the passage,  the use and value of animals and plants continuously changed depending on ever shifting [[metabolic relations|theme.logistical-metabolisms]]. These transformations evidence some of the [[paths – and detours|theme.how-do-animals-end-up-in-the-zoo]] – through which animals entered zoos and museums at the time.[^1] 
+What were the challenges naturalists in the mid-19th century encountered when transporting specimens and live animals by ship across the Atlantic? The story of the botanist Richard Schomburgk, who traveled with his collected plants and animals from British Guiana to Germany in 1844, offers some intriguing insights. Specifically, it sheds light on practices of care and disposal that emerged in the long-distance shipping of animals. Because during the passage,  the use and value of animals and plants continuously changed depending on ever shifting [[metabolic relations|theme.logistical-metabolisms]]. These transformations evidence some of the paths – [[and detours|theme.how-do-animals-end-up-in-the-zoo]] – through which animals entered zoos and museums at the time.[^1] 
 
 Richard Schomburgk, who later became director of the Botanical Garden in Adelaide, was a gardening assistant at the Royal Gardens of Sanssouci, Frederick the Great’s palace in Potsdam at the time. From 1840 to 1844, he accompanied his brother Robert Hermann Schomburgk on a journey to the British colony of Guiana. Robert travelled on behalf of the English crown on a mission to survey the eastern and western borders of the British Guiana, part of the mainland British West Indies on the northern coast of South America, today’s Guyana.[^2] After three years of work, he had established the border with Venezuela, now known as the “Schomburgk Line”, as well as with Dutch Guiana, today’s Suriname. Richard in turn received a government grant  through the intercession of Alexander von Humboldt. The Prussian government commissioned him to collect new flora, fauna, minerals and ethnographic specimens for the Berlin Zoological Museum and the Botanic Gardens.[^3] But when, in March 1843, he learned that a zoological garden was to open in Berlin, he immediately began acquiring living animals as well.[^4] 
 
