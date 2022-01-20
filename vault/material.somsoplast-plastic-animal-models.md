@@ -10,9 +10,9 @@ doi: 64y2-m311/46
 translators:
   translator_de_en: Lydia J. White
 desc: The materials of model building
-desc_de: Materialien des _Modellbaus_-test
+desc_de: Materialien des Modellbaus
 short_desc: The materials of model building
-short_desc_de: Materialien des Modellbaus
+short_desc_de: Materialien des _Modellbaus_-test.
 cover_image:
   image: /images/kartoffelkaefer-zool-lehrsammlung-oben.jpg
 colour_scheme: 12
