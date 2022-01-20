@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Face to Face with Zoo Animals
 title_de: Zootiere anfassen
 created: 1640354060660
-updated: 1642606666659
+updated: 1642701840305
 id: U1w3ckwyrdpQ2JzOLgTKo
 author: Mareike Vennen
 doi: 64y2-m311/54
@@ -36,7 +36,7 @@ _Picture from Berlin’s ‘baby animal zoo’ around 1933. (AZGB. All rights re
 
 </figure>
 
-A cheetah surrounded by young goats, lambs, and piglets? An unusual sight. This photo from Berlin Zoo shows a phenomenon that no longer exists but that was extremely popular in the 1930s: the ‘baby animal zoo’ (Tierkinderzoo). Its successor, the petting zoo, can still be found in many zoos today. But does anyone today know that bear and lion cubs used to be kept there, too?
+A cheetah surrounded by young goats, lambs, and piglets? An unusual sight. This photo from Berlin Zoo shows a phenomenon that no longer exists but that was extremely popular in the [[1930s|story.the-zoo-and-national-socialism]]: the ‘baby animal zoo’ (Tierkinderzoo). Its successor, the petting zoo, can still be found in many zoos today. But does anyone today know that bear and lion cubs used to be kept there, too?
  
 In summer 1931, the zoo organised its first special show with juvenile animals. What made it so special was that the fenced-in facility, which visitors had to pay entry to visit, was occupied not just by the juveniles of native domestic breeds but also by little predators from Europe and Africa that visitors could feed, pat, pull onto their laps, and [[even bottle feed|story.photos-with-lion-cubs]]. 
  
@@ -52,7 +52,7 @@ _The_ Funkwoche Berlin _presents feeding exercises with a bear cub at Berlin Zoo
 
 </figure>
 
-What now seems perplexing, dangerous, and not very species-appropriate, was such a big hit back then that there were even shortages in the supply of young lions, tigers, and leopards.[^1] This was because other zoos soon wanted to offer their visitors similar attractions as well. “The great lion petting at the zoo”, announced the _Leipziger Tageszeitung_ newspaper on 8 November 1935.[^2] At Stellingen Zoo, the zoo director also saw how much young visitors loved cuddling and petting lion cubs.[^3] Demand for young animals remained high as they would be much too big by the next summer and [[would have to be replaced|story.photos-with-lion-cubs]]. Predator babies were thus coveted on the market and came with a corresponding price tag.[^4] Zoos therefore took what they could get: “As we have already discussed, exotic bears could be taken instead of the young predators in the meantime and could perhaps later be exchanged for young predators”,[^5] wrote the animal trader who supplied Berlin Zoo with young predators to its director. 
+What now seems perplexing, dangerous, and not very species-appropriate, was such a big hit back then that there were even shortages in the supply of young lions, tigers, and leopards.[^1] This was because other zoos soon wanted to offer their visitors similar attractions as well. “The great lion petting at the zoo”, announced the _Leipziger Tageszeitung_ newspaper on 8 November 1935.[^2] At Stellingen Zoo, the zoo director also saw how much young visitors loved cuddling and petting lion cubs.[^3] Demand for young animals remained high as they would be much too big by the next summer and would have to be replaced. [[Predator babies|story.photos-with-lion-cubs]] were thus coveted on the market and came with a corresponding price tag.[^4] Zoos therefore took what they could get: “As we have already discussed, exotic bears could be taken instead of the young predators in the meantime and could perhaps later be exchanged for young predators”,[^5] wrote the [[animal trader|theme.how-do-animals-end-up-in-the-zoo]] who supplied Berlin Zoo with young predators to its director. 
  
 <figure>
 
@@ -66,7 +66,7 @@ _Picture of the ‘baby animal zoo’ from 1936. (AZGB. All rights reserved.)_
 
 </figure>
 
-The ‘baby animal zoo’ at Berlin Zoo was so popular that the zoo repeated it many more times. The encounter between lamb and cheetah in the picture shown at the beginning was thus no coincidence. Nor were meetings between lambs, cheetah cubs, and human children. Predators are no longer kept together with domestic animals like sheep or goats in Berlin or at any other German zoos. What has remained are petting zoos with domestic animals. They do not provide human children with any opportunities to directly interact with juvenile predators, but this does not just benefit the animals but also prevents the image being conveyed of predator babies as stuffed toys.
+The ‘baby animal zoo’ at Berlin Zoo was so popular that the zoo repeated it many more times. The encounter between lamb and cheetah in the picture shown at the beginning was thus no coincidence. Nor were meetings between lambs, cheetah cubs, and human children. Predators are no longer kept together with [[domestic animals|material.lions-or-cows]] like sheep or goats in Berlin or at any other German zoos. What has remained are petting zoos with domestic animals. They do not provide human children with any opportunities to directly interact with juvenile predators, but this does not just benefit the animals but also prevents the image being conveyed of predator babies as stuffed toys.
  
 <figure>
 
@@ -106,7 +106,7 @@ _Bild aus dem Berliner Tierkinderzoo um 1933. (AZGB. Alle Rechte vorbehalten.)_
 
 </figure>
 
-Ein Gepard umringt von jungen Ziegen, Lämmern und Ferkeln? Ein ungewöhnliches Bild. Das Foto aus dem Zoo Berlin zeigt ein Phänomen, das es so schon lange nicht mehr gibt, aber in den 1930er Jahren äußerst populär war: den Tierkinderzoo. Die nachfolgende Einrichtung, der Streichelzoo, findet sich bis heute in vielen Tiergärten. Aber wer weiß noch, dass dort früher auch Bärenjunge und Löwenbabys gehalten wurden?
+Ein Gepard umringt von jungen Ziegen, Lämmern und Ferkeln? Ein ungewöhnliches Bild. Das Foto aus dem Zoo Berlin zeigt ein Phänomen, das es so schon lange nicht mehr gibt, aber in den [[1930er Jahren|story.the-zoo-and-national-socialism]] äußerst populär war: den Tierkinderzoo. Die nachfolgende Einrichtung, der Streichelzoo, findet sich bis heute in vielen Tiergärten. Aber wer weiß noch, dass dort früher auch Bärenjunge und Löwenbabys gehalten wurden?
  
 Im Sommer 1931 organisierte der Zoo zum ersten Mal eine Sonderschau mit Jungtieren. Das Besondere: Besetzt war die eingezäunte Anlage, für die man Eintritt bezahlen musste, nicht nur mit Jungtieren heimischer Haustierrassen, sondern auch mit kleinen Raubtieren aus Europa und Afrika, die man alle füttern, streicheln, auf den Schoß nehmen und sogar [[mit der Flasche füttern konnte|story.photos-with-lion-cubs]].
  
@@ -122,7 +122,7 @@ _Die_ Funkwoche Berlin _zeigt die Fütterungsübungen mit Bärenbaby im Berliner
 
 </figure>
 
-Was heute als irritierend, gefährlich und wenig artgerecht erscheint, war damals ein so großer Erfolg, dass es bisweilen zu Engpässen bei der Lieferung junger Löwen, Tiger und Leoparden kam.[^1] Auch weil schon bald weitere Zoos ihren Besucher:innen ähnliche Attraktionen bieten wollten. “Großes Löwenstreicheln im Zoo” kündigte die _Leipziger Tageszeitung_ am 8. November 1935 an[^2] und im Stellinger Tierpark beobachtete der Zoodirektor, wie gern die Besucher:innen junge Löwen auf den Arm nahmen und streichelten.[^3] Der Bedarf an Jungtieren blieb aber auch deshalb hoch, da die Jungtiere im nächsten Sommer längst zu groß geworden waren und [[ersetzt werden mussten|story.photos-with-lion-cubs]]. Raubtierbabys waren auf dem Markt entsprechend begehrt und teuer;[^4] man nahm daher, was man bekommen konnte: “Wie schon besprochen, könnten anstatt der jungen Raubtiere vorläufig exotische Bären genommen und diese evtl. später gegen junge Raubtiere ausgetauscht werden”,[^5] ließ der Tierhändler Ruhe, der die Raubtierjungen für den Berliner Zoo lieferte, dessen Direktor wissen. 
+Was heute als irritierend, gefährlich und wenig artgerecht erscheint, war damals ein so großer Erfolg, dass es bisweilen zu Engpässen bei der Lieferung junger Löwen, Tiger und Leoparden kam.[^1] Auch weil schon bald weitere Zoos ihren Besucher:innen ähnliche Attraktionen bieten wollten. “Großes Löwenstreicheln im Zoo” kündigte die _Leipziger Tageszeitung_ am 8. November 1935 an[^2] und im Stellinger Tierpark beobachtete der Zoodirektor, wie gern die Besucher:innen junge Löwen auf den Arm nahmen und streichelten.[^3] Der Bedarf an Jungtieren blieb aber auch deshalb hoch, da die Jungtiere im nächsten Sommer längst zu groß geworden waren und ersetzt werden mussten. [[Raubtierbabys|story.photos-with-lion-cubs]] waren auf dem Markt entsprechend begehrt und teuer;[^4] man nahm daher, was man bekommen konnte: “Wie schon besprochen, könnten anstatt der jungen Raubtiere vorläufig exotische Bären genommen und diese evtl. später gegen junge Raubtiere ausgetauscht werden”,[^5] ließ der [[Tierhändler Ruhe|theme.how-do-animals-end-up-in-the-zoo]], der die Raubtierjungen für den Berliner Zoo lieferte, dessen Direktor wissen. 
  
 <figure>
 
@@ -136,7 +136,7 @@ _Bild des Tierkinderzoos von 1936. (AZGB. Alle Rechte vorbehalten.)_
 
 </figure>
 
-Der Tierkinderzoo im Berliner Garten war so beliebt, dass der Zoo sie mehrfach wiederholte. Das Zusammentreffen von Lamm und Gepard in der eingangs gezeigten Aufnahme war also kein Versehen. Ebenso wenig wie das Zusammentreffen von Lamm, jungem Gepard und Menschenkindern. Heute werden dagegen weder in Berlin noch in anderen deutschen Zoos Raubtiere in dieser Form ausgestellt oder mit Haustieren wie Schafen oder Ziegen zusammen gehalten. Geblieben sind die Streichelzoos mit Haustieren. Sie bieten zwar keinen direkten Kontakt zwischen Menschenkind und Raubtierjungem, doch das kommt nicht nur den Tieren zugute, sondern vermittelt auch nicht mehr das Bild von Raubtierbabys als Kuscheltieren.
+Der Tierkinderzoo im Berliner Garten war so beliebt, dass der Zoo sie mehrfach wiederholte. Das Zusammentreffen von Lamm und Gepard in der eingangs gezeigten Aufnahme war also kein Versehen. Ebenso wenig wie das Zusammentreffen von Lamm, jungem Gepard und Menschenkindern. Heute werden dagegen weder in Berlin noch in anderen deutschen Zoos Raubtiere in dieser Form ausgestellt oder mit [[Haustieren|material.lions-or-cows]] wie Schafen oder Ziegen zusammen gehalten. Geblieben sind die Streichelzoos mit Haustieren. Sie bieten zwar keinen direkten Kontakt zwischen Menschenkind und Raubtierjungem, doch das kommt nicht nur den Tieren zugute, sondern vermittelt auch nicht mehr das Bild von Raubtierbabys als Kuscheltieren.
  
 <figure>
 
