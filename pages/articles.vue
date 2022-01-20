@@ -89,9 +89,13 @@ export default {
           // Check if first letter is a non-alphabet char
           if(firstLetter.match(regex)){
             firstLetter = article.title.charAt(1);
+            article.firstLetterEn = article.title.charAt(1);
             if(firstLetter.match(regex)){
               firstLetter = article.title.charAt(2);
+              article.firstLetterEn = article.title.charAt(2);
             }
+          } else {
+            article.firstLetterEn = article.title_de.charAt(0);
           }
 
           if(!az[firstLetter]){
@@ -120,7 +124,10 @@ export default {
 
     var articlesAlphabetical = Object.entries(az);
     articlesAlphabetical.sort((a, b) => (a[0] > b[0] ? 1 : -1));
-
+    
+    articlesType.material = articlesType.material.sort((a, b) => (a.firstLetterEn > b.firstLetterEn ? 1 : -1));
+    articlesType.theme = articlesType.theme.sort((a, b) => (a.firstLetterEn > b.firstLetterEn ? 1 : -1));
+    articlesType.story = articlesType.story.sort((a, b) => (a.firstLetterEn > b.firstLetterEn ? 1 : -1));
 
     var authorsSorted = Object.entries(articlesAuthor);
     authorsSorted.sort((a, b) => (a[1][0].authorLastname > b[1][0].authorLastname ? 1 : -1));
