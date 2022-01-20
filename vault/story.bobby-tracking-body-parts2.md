@@ -4,13 +4,8 @@ title: “Bobby”. Tracking Body Parts
 title_de: “Bobby”. Eine Fundgeschichte
 created: 1640338390195
 author: Mareike Vennen
-short_desc_de: Nachleben eines Zootieres in wissenschaftlichen Sammlungen
-date_end: ""
-published: false
-title: “Bobby”. Tracking Body Parts
-updated: 1642590808336
+updated: 1642670830750
 id: 05XnJBaPUmIcfTWa4WMyb
-author: Mareike Vennen
 doi: 64y2-m311/52
 translators:
   translator_de_en: Lydia J. White
@@ -46,6 +41,7 @@ _A photo of “Bobby” the gorilla’s carcass during his necropsy in 1935. (Mf
 </figure>
 
 A carcass with its fur and hands removed, laid out on a stretcher. In this drastic photograph the animal appears as a dead, maimed object. In this image, some of the central questions we explore on this website crystallise: What are the processes that turn animals into objects – into objects of research, of collection, and exhibition? This photo was taken on 2 August 1935 during “Bobby’s” necropsy at the Pathological Institute of Westend Hospital in Berlin-Charlottenburg.[^1] It documents one of the steps through which a dead body is transformed into an object of science: dissection. That images of this event were taken at all was because the animal was special: “Bobby”, who lived in the zoo from 1928 to 1935, was not just an audience magnet, he was also Berlin Zoo’s first gorilla and the first gorilla to reach maturity in captivity.
+
 <figure>
 
 ![Photo of preparations being made for the taxidermy of a sitting gorilla, onto which two men in white lab coats are sewing skin.](/images/mv/zm-b-iii-1232-bobby-.jpg)
