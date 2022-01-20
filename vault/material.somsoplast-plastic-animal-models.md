@@ -10,7 +10,7 @@ doi: 64y2-m311/46
 translators:
   translator_de_en: Lydia J. White
 desc: The materials of model building
-desc_de: Materialien des _Modellbaus_
+desc_de: Materialien des _Modellbaus_-test
 short_desc: The materials of model building
 short_desc_de: Materialien des Modellbaus
 cover_image:
