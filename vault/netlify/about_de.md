@@ -21,7 +21,7 @@ Das Forschungsprojekt [Tiere als Objekte. Zoologische Gärten und Naturkundemuse
 
 ## Über die Personen
 
-### Projektteam
+## Projektteam
 
 #### Jenske Bal
 
@@ -54,7 +54,7 @@ Clemens Maier-Wolthausen studierte Geschichte in Berlin und Bergen/Norwegen mit 
 
 #### Tahani Nadim
 
-Tahani Nadim ist Co-Leiterin des interdisziplinären Forschungsabteilung Humanities of Nature am Museum für Naturkunde Berlin. Sie ist Juniorprofessorin für Soziokulturelle Anthropologie am Institut für Europäische Ethnologie der Humboldt-Universität zu Berlin, wo sie auch Mitglied des Centre for Anthropological Research on Museums and Heritage (CARMAH) ist. Sie forscht zu Datenpolitiken, dem Verhältnis von Natur und Datenerfassung sowie den politischen und gesellschaftlichen Kontexten und Konsequenzen von Sammlungsdigitalisierung. Ihre Texte sind u.a. in _JRAI, Science as Culture, Big Data & Society und den Philosophical Transactions of the Royal Society_ erschienen. Sie leitet außerdem die experimentelle Forschungseinheit Bureau for Troubles, in der sie mit Künstler:innen und Kurator:innen zusammenarbeitet. Zu ihren Ausstellungen gehören _The Influencing Machine_ (nGbK, 2018-19) und _Dead wasps fly further_ (MfN, 2015).
+Tahani Nadim ist Co-Leiterin des interdisziplinären Forschungsabteilung Humanities of Nature am Museum für Naturkunde Berlin. Sie ist Juniorprofessorin für Soziokulturelle Anthropologie am Institut für Europäische Ethnologie der Humboldt-Universität zu Berlin, wo sie auch Mitglied des Centre for Anthropological Research on Museums and Heritage (CARMAH) ist. Sie forscht zu Datenpolitiken, dem Verhältnis von Natur und Datenerfassung sowie den politischen und gesellschaftlichen Kontexten und Konsequenzen von Sammlungsdigitalisierung.
 
 
 #### Sebastian Riedel
@@ -63,7 +63,7 @@ Sebastian Riedel befindet sich nach einem Bachelorabschluss in Mathematik moment
 
 #### Theresa Schatt
 
-Theresa Schatt studierte im Bachelor Kulturwissenschaft und Kunst-und Bildgeschichte und schließt aktuell ihr Masterstudium der Kulturwissenschaft an der Humboldt-Universität zu Berlin ab. Seit 2019 ist sie studentische Mitarbeiterin im Projekt "Tiere als Objekte". Im Rahmen dieser Tätigkeit haben vor allem die Verzeichnungssysteme der Zoologischen Lehrsammlung ihr Forschungsinteresse geweckt.
+Theresa Schatt studierte im Bachelor Kulturwissenschaft und Kunst-und Bildgeschichte und schließt aktuell ihr Masterstudium der Kulturwissenschaft an der Humboldt-Universität zu Berlin ab. Seit 2019 ist sie studentische Mitarbeiterin im Projekt “Tiere als Objekte”. Im Rahmen dieser Tätigkeit haben vor allem die Verzeichnungssysteme der Zoologischen Lehrsammlung ihr Forschungsinteresse geweckt.
 
 #### Sarina Schirmer
 
@@ -84,15 +84,15 @@ Catarina Madruga schloss ihre Promotion mit dem Titel “Taxonomy and Empire: Zo
 Deutschen Börsenvereins.
 
 #### Jan-Peter Herrmann
-Jan-Peter Herrmann lebt und arbeitet als freiberuflicher Übersetzer in Berlin. 
+Jan-Peter Herrmann ist freiberuflicher Übersetzer in Berlin. 
 
 ### Lektorat
 
 #### Jan-Peter Herrmann
-Jan-Peter Herrmann lebt und arbeitet als freiberuflicher Übersetzer in Berlin. 
+Jan-Peter Herrmann iat freiberuflicher Übersetzer in Berlin. 
 
 #### Carla Welch
-Carla Welch ist eine freiberufliche Übersetzering und Lektorin.
+Carla Welch ist freiberufliche Übersetzerin und Lektorin in Regensburg.
 
 ### Design und Entwicklung
 
@@ -118,18 +118,18 @@ Rasmus Emanuel Svensson ist Grafikdesigner und lebt in Berlin und Amsterdam, wo 
 
 Wir möchten allen danken, die unsere Arbeit an dieser Publikation unterstützt haben.
 
-Am Museum für Naturkunde Berlin:
+#### Am Museum für Naturkunde Berlin
 
-- Technische und administrative Unterstützung: Saskia Cyron, Falko Glöckler, Sonja Kreft, Stefan Malinowski, Stefanie Paß, Mareike Petersen, Inna Reise, Holger Schick, Astrid Schröder, Caitlin Thorn, Markus Wegner
+Technische und administrative Unterstützung: Saskia Cyron, Falko Glöckler, Sonja Kreft, Stefan Malinowski, Stefanie Paß, Mareike Petersen, Inna Reise, Holger Schick, Astrid Schröder, Caitlin Thorn, Markus Wegner
 
-- Unterstützung bei Archivrecherchen: Yvonne Reimers, Sandra Miehlbradt
+Unterstützung bei Archivrecherchen: Yvonne Reimers, Sandra Miehlbradt
 
-- Unterstützung bei Forschung in den Sammlungen: Oliver Coleman, Ferdinand Damaschun, Jason Dunlop, Pascal Eckhoff, Sylke Frahnert, Christiane Funk, David Lazarus, Frieder Mayer, Johan Renaudie, Thomas von Rintelen, Christin Scheinpflug, Katrin Spitzer, Frank Tillack, Christine Zorn
+Unterstützung bei Forschung in den Sammlungen: Oliver Coleman, Ferdinand Damaschun, Jason Dunlop, Pascal Eckhoff, Sylke Frahnert, Christiane Funk, David Lazarus, Frieder Mayer, Johan Renaudie, Thomas von Rintelen, Christin Scheinpflug, Katrin Spitzer, Frank Tillack, Christine Zorn
 
-Im Zoologischen Garten Berlin: 
+#### Im Zoologischen Garten Berlin
 
-- Zoologische und historische Beratung: Heiner Klös, Ragnar Kühne, Andreas Ochs
+Zoologische und historische Beratung: Heiner Klös, Ragnar Kühne, Andreas Ochs
 
-An der Humboldt Universität zu Berlin:
+#### An der Humboldt Universität zu Berlin
 
-- Unterstützung bei Forschung in der Zoologischen Lehrsammlung: Ines Drescher, John Nyakatura, Gerhard Scholtz
+Unterstützung bei Forschung in der Zoologischen Lehrsammlung: Ines Drescher, John Nyakatura, Gerhard Scholtz
