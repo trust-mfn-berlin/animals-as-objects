@@ -7,7 +7,7 @@ short_desc_de: Mikroorganismen, die am häufigsten in den Ozeanen leben
 date_end: 2022-12-07T19:14:43.793Z
 published: false
 title: Foraminifera
-updated: 1642421457274
+updated: 1642675905661
 id: 83cc17bb-8a8e-4157-9ebc-f0990cf60076
 doi: 64y2-m311/36
 translators:
@@ -32,7 +32,7 @@ date_start: 1826-01-02T20:03:29.910Z
 
 <figcaption>
 
-_An electron scanning micrograph of a foraminiferan species (Elphidium). (Image: Hannes Grobe, CC BY)._ 
+_An electron scanning micrograph of a foraminiferan species (Elphidium) (Image: Hannes Grobe, CC BY.)_ 
 
 </figcaption>
 
@@ -63,7 +63,7 @@ _This video from the American Museum of Natural History introduces forams microp
 
 <figcaption>
 
-_Eine elektronenmikroskopische Aufnahme einer Foraminiferenart (Elphidium). (Foto: Hannes Grobe, CC BY)._ 
+_Eine elektronenmikroskopische Aufnahme einer Foraminiferenart (Elphidium) (Foto: Hannes Grobe, CC BY.)_ 
 
 </figcaption>
 
