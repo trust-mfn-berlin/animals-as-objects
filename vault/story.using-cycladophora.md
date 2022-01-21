@@ -7,7 +7,7 @@ short_desc_de: Von Mikrofossilien zu planetarem Wissen
 date_end: 2022-07-06T11:38:39.090Z
 published: false
 title: Using Cycladophora
-updated: 1642421629934
+updated: 1642697241347
 id: TBi8fH-OIQRAoB-tG9ZY1
 doi: 10.7479/64y2-m311/2
 translators:
@@ -43,7 +43,7 @@ date_start: 1949-12-31T23:00:00.000Z
 
 <figcaption>
 
-_A graph from the milestone publication of James D. Hays et al. in_ Science _from 1976, linking variations in Cycladophora’s abundances with glacial cycles. All rights reserved._
+_A graph from the milestone publication of James D. Hays et al. in_ Science _from 1976, linking variations in Cycladophora’s abundances with glacial cycles. (All rights reserved.)_
 
 </figcaption>
 
@@ -73,7 +73,7 @@ In this sense, _Cycladophora davisiana_ continues its scientific (after)life as 
 
 <figcaption>
 
-_Diagramm aus dem 1976 in_ Science _veröffentlichten Artikel von John D. Hays et al., der die Häufigkeit von Cycladophora mit glazialen Zyklen in Zusammenhang setzt. Alle Rechte vorbehalten._
+_Diagramm aus dem 1976 in_ Science _veröffentlichten Artikel von John D. Hays et al., der die Häufigkeit von Cycladophora mit glazialen Zyklen in Zusammenhang setzt. (Alle Rechte vorbehalten.)_
 
 </figcaption>
 
