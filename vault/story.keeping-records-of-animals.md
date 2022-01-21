@@ -7,7 +7,7 @@ short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
 date_end: 2022-10-25T08:44:25.273Z
 published: false
 title: Keeping Records of Animals
-updated: 1642683750383
+updated: 1642807085932
 id: zrAZZTgVehO9zeVbW4dMX
 doi: 64y2-m311/30
 translators:
@@ -123,7 +123,7 @@ But information was frequently only passed on orally. What was not written down 
  
 The fragmented supply chain of the global animal trade, with its myriad actors, sources, and forms of knowledge but without any standardised form of record-keeping, influenced which kind of information was passed on to whom. **In some cases, no data was recorded at all, because, for dealers and zoos alike, it was not crucial to have precise details about the location where the animal was caught – whereas, for collection curators, that was the equivalent of an incomplete data situation.** Different kinds of information and inscriptions were of differing significance and value for dealers as commercial enterprises and for museums as scientific institutions. The way that data was recorded, passed on, and stored depended on disciplinary standards, institutional purposes, and practical reasons, and in turn influenced the scientificity or at least the claim to it. In short: various needs required and shaped various practices of record-keeping. 
  
-These differences confronted the Zoological Museum with problems that sometimes only came to light many years later. This was because animal cadavers delivered to the museum by the zoo were frequently only entered into the inventory and scientifically described months or even years later. For this reason, museum curators sometimes requested information from the zoo about animals that had come to the museum long before and had made their way into the zoo even earlier. In some cases, this made it all the more difficult to reconstruct where exactly the animal had been captured. 
+These differences confronted the Zoological Museum with [[problems|story.untraceable]] that sometimes only came to light many years later. This was because animal cadavers delivered to the museum by the zoo were frequently only entered into the inventory and scientifically described months or even years later. For this reason, museum curators sometimes requested information from the zoo about animals that had come to the museum long before and had made their way into the zoo even earlier. In some cases, this made it all the more difficult to reconstruct where exactly the animal had been captured. 
  
 This is revealed once again by the elephant cow “Mary”, who came to the Zoological Museum from Berlin Zoo after her death in 1924. When museum curator Hermann Pohle wrote to animal trading company Hagenbeck to request information about the animal, it had been 44 years since she had been imported to Germany in 1888. The difficulty now was not just finding people or records that could provide information about the past import; the problem was also of a scientific nature. Over the course of those 44 years, it had become increasingly important from a zoological standpoint to make sure that records, in particular of where something had been found or captured, were as precise as possible. However, Zukowsky wrote the following about “Mary”: 
  
@@ -137,7 +137,7 @@ The repercussions can still be felt today, not least in attempts to trace the or
  
 [^1]: In the Zoological Museum, gifts vastly outweighed purchases: in 1902, the museum recorded 932 gifts and 547 purchases; in 1908 there were 2,413 gifts versus 1,145 purchases; and in 1913, 3,127 gifts compared with 870 purchases; cf. Renate Angermann. “Die Säugetierkollektion des Museums für Naturkunde der Humboldt-Universität zu Berlin”. _Säugetierkundliche Informationen_ 3, no. 13 (1989): 47-68.
  
-[^2]:  K.A. Möbius to the Ministerium für geistliche Angelegenheiten (“the Prussian Ministry of Education”), 27.02.1889, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I, Bl. 25; L. Heck to the Zoological Museum 01.01.1890, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten, I, Bl. 32.
+[^2]: K.A. Möbius to the Ministerium für geistliche Angelegenheiten (“the Prussian Ministry of Education”), 27.02.1889, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I, Bl. 25; L. Heck to the Zoological Museum 01.01.1890, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten, I, Bl. 32.
  
 [^3]: Back then, the aquarium usually delivered the animals to the museum free of charge. They were generally transported in collective consignments by one of the zoo’s vehicles; in urgent cases, the museum sent its own messenger; cf. O. Heinroth to A. Brauer, 15.04.1915, in MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I; Zoo to MfN, 06.08.1925, MfN, HBSB, S004-02-05 no. 97.
  
@@ -291,7 +291,7 @@ Die Nachwirkungen sind bis heute spürbar, nicht zuletzt bei dem Versuch, die He
  
 [^7]: Ursprünglich im östlichen Asien beheimatet, ist der Davidshirsch (_Elaphurus davidianus_) in freier Wildbahn spätestens seit dem 19. Jahrhundert ausgerottet und konnte nur durch Haltung in den kaiserlichen Gärten von Peking überleben. Nachdem französische, britische und deutsche Diplomaten aus der Herde von rund 120 Davidshirschen lebende Tiere geschenkt bekamen, wurden diese in europäische Zoos gebracht, darunter auch in den Berliner Zoo. Dort wurden die Tiere jedoch mit Rothirschen gekreuzt, wodurch der Bestand bald nicht mehr reinblütig war. Die heutigen Bestände stammen sämtlich von europäischen Zoohirschen ab.
  
-[^8]: L. Heck an A. Brauer, 10.06.1914, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I. Nachdem das Aussterben in China bekannt geworden war, gaben alle Zoos ihre Davidshirsche nach Woburn Abbey in England, wo der Herzog von Bedford sie erfolgreich züchtete. 1914 bereits 90 Tiere und war 1946 auf 300 Hirsche angewachsen. Kleine Zuchtgruppen wurden auf verschiedene Zoos verteilt und überall  gezüchtet. 
+[^8]: L. Heck an A. Brauer, 10.06.1914, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I. Nachdem das Aussterben in China bekannt geworden war, gaben alle Zoos ihre Davidshirsche nach Woburn Abbey in England, wo der Herzog von Bedford sie erfolgreich züchtete. 1914 bereits 90 Tiere und war 1946 auf 300 Hirsche angewachsen. Kleine Zuchtgruppen wurden auf verschiedene Zoos verteilt und überall gezüchtet. 
  
 [^9]: Vgl. H. Pohle an L. Heck, 28.02.1931, MfN, HBSB, Zool. Mus. S III, Heck, L. (1926-1937).
  
