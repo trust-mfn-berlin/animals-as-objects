@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1642797010644
+updated: 1642797297925
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 doi: 64y2-m311/69
@@ -39,6 +39,8 @@ _Study skins on their way into the collection (MfN, image: Mareike Vennen. All r
 _Content Warning_: The following text and video contain explicit pictures of preparing a dead bird’s body that may be disturbing to some viewers.
 
 In autumn 2020 and spring 2021, our team observed and documented the preparation of a bird study skin at the Museum für Naturkunde Berlin. The bird in question was a male Jendaya parakeet (_Aratinga jandaya_) that had hatched on 13 June 2006 at Berlin Tierpark and had been sent from the Tierpark to the Museum für Naturkunde after its death on 29 August 2020.[^1]
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/663732929?h=f99c9dd4d3" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 As our project investigates how zoo animals become museum collection objects, we were keen to record the individual moments of this transformation. To this end, we visited specimen preparator Christin Scheinpflug in her workshop over several months.[^2] Once the preparation was done, we were also able to follow the collection manager Pascal Eckhoff as he entered information about the study skin into the database and catalogued it as part of the Bird Collection.
 
@@ -312,6 +314,8 @@ _Vogelbälge auf dem Weg in die Sammlung. (Foto: Mareike Vennen. Alle Rechte vor
 _Content-Warnung_: Der folgende Text und das Video enthalten Bilder von der Präparation eines toten Vogels, die für manche Betrachter verstörend sein könnten.
 
 Im Herbst 2020 und im Frühjahr 2021 haben wir, Filippo Bertoni und Mareike Vennen, die Präparation eines Vogelbalgs im Museum für Naturkunde Berlin miterlebt und dokumentiert. Es handelt sich um einen männlichen, ausgewachsenen Jendayasittich (_Aratinga jandaya_), der am 13. Juni 2006 im Berliner Tierpark schlüpfte und den der Tierpark nach seinem Tod am 29. August 2020 in das Museum für Naturkunde überstellte.[^1]
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/663732929?h=f99c9dd4d3" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 In unserem Projekt untersuchen wir, wie Zootiere in Naturkundemuseen zu Sammlungsobjekten werden und haben dafür die einzelnen Schritte dieser Transformation im Museum gefilmt. Zunächst haben wir die Präparatorin Christin Scheinpflug mehrmals in der Werkstatt besucht;[^2] anschließend konnten wir dem Sammlungspfleger Pascal Eckhoff bei der Erfassung des Vogelbalgs in der Datenbank und der Aufnahme in die ornithologische Sammlung über die Schulter schauen.
 
