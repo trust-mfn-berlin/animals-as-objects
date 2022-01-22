@@ -4,7 +4,7 @@ title: “Bobby”. Tracking Body Parts
 title_de: “Bobby”. Eine Fundgeschichte
 created: 1640338390195
 author: Mareike Vennen
-updated: 1642815099165
+updated: 1642815675120
 id: 05XnJBaPUmIcfTWa4WMyb
 doi: 64y2-m311/52
 translators:
@@ -40,7 +40,7 @@ _A photo of “Bobby” the gorilla’s carcass during his necropsy in 1935. (Mf
 
 </figure>
 
-A carcass with its fur and hands removed, laid out on a stretcher. In this drastic photograph the animal appears as a dead, maimed object. In this image, some of the central questions we explore on this website crystallise: What are the processes that turn animals into objects – into objects of research, of collection, and exhibition? This photo was taken on 2 August 1935 during “Bobby’s” necropsy at the Pathological Institute of Westend Hospital in Berlin-Charlottenburg.[^1] It documents one of the steps through which a dead body is transformed into an object of science: dissection – go [[here|[[story.microscopic-media]] for a perspective that challenges of the concept of ‘object’ further. That images of this event were taken at all was because the animal was special: “Bobby”, who lived in the zoo from 1928 to 1935, was not just an audience magnet, he was also Berlin Zoo’s first gorilla and the first gorilla to reach maturity in captivity.
+A carcass with its fur and hands removed, laid out on a stretcher. In this drastic photograph the animal appears as a dead, maimed object. In this image, some of the central questions we explore on this website crystallise: What are the processes that turn animals into objects – into objects of research, of collection, and exhibition? This photo was taken on 2 August 1935 during “Bobby’s” necropsy at the Pathological Institute of Westend Hospital in Berlin-Charlottenburg.[^1] It documents one of the steps through which a dead body is transformed into an object of science: dissection – go [[here|[[material.microscopic-media]] for a perspective that challenges of the concept of ‘object’ further. That images of this event were taken at all was because the animal was special: “Bobby”, who lived in the zoo from 1928 to 1935, was not just an audience magnet, he was also Berlin Zoo’s first gorilla and the first gorilla to reach maturity in captivity.
 
 <figure>
 
