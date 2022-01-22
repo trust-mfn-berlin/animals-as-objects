@@ -7,7 +7,7 @@ short_desc_de: Spuren von Bäumen und Tieren in Berlin
 date_end: 2022-08-26T14:37:08.305Z
 published: false
 title: Silkworms
-updated: 1642852829161
+updated: 1642855903659
 id: GDcruELihUsAdF7btC6KD
 doi: 64y2-m311/47
 translators:
@@ -44,7 +44,7 @@ date_start: 1703-01-01T23:07:09.241Z
  
 <figcaption>
  
-_Mulberry tree at the Museum für Naturkunde Berlin, 2021. (Image: Britta Lange.)_
+_Mulberry tree at the Museum für Naturkunde Berlin, 2021. (Image: Britta Lange)_
 
 </figcaption>
  
@@ -88,7 +88,7 @@ We have to take a range of different perspectives to trace the history of this a
  
 <figcaption>
  
-_Silkworms and honeybees appear together in this popular-scientific depiction of insects from 1794.[^10]_
+_Silkworms and honeybees appear together in this popular-scientific depiction of insects from 1794.[^10] (All rights reserved.)_
 
 </figcaption>
  
@@ -138,7 +138,7 @@ Perhaps the most spectacular of these trees is the old mulberry tree that still 
  
 <figcaption>
  
-_Old mulberry tree in Berlin-Mitte near the Charité campus, 2020. (Image: Britta Lange. All rights reserved.)_ 
+_Old mulberry tree in Berlin-Mitte near the Charité campus, 2020. (Image: Britta Lange)_ 
 
 </figcaption>
  
@@ -253,7 +253,7 @@ Um die Geschichte des aus Brandenburg und Berlin [[verschwundenen Tiers|story.un
  
 <figcaption>
  
-_In dieser populärwissenschaftliche Darstellung von Insekten aus dem Jahr 1794 erscheinen Seidenraupe und Honigbiene gemeinsam.[^10]_
+_In dieser populärwissenschaftliche Darstellung von Insekten aus dem Jahr 1794 erscheinen Seidenraupe und Honigbiene gemeinsam.[^10] (Alle Rechte vorbehalten.)_
 
 </figcaption>
  

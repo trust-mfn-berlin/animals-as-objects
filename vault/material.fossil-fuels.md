@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Fossil Fuels
 title_de: Fossile Brennstoffe
 created: 1618493147480
-updated: 1642853640744
+updated: 1642855124201
 id: 7f5d84e2-6c42-454e-a7c5-f31db9960a70
 author: Filippo Bertoni
 doi: 64y2-m311/32
@@ -31,7 +31,7 @@ date_end: 2022-12-07T19:10:39.033Z
 
 <figcaption>
 
-_Still from the video “Petroleum – Modern history of oil on a Map” by Geo History (Source: YouTube)_
+_Still from the video “Petroleum – Modern history of oil on a Map” (Source: Geo History/YouTube)_
 
 </figcaption>
 
@@ -46,6 +46,8 @@ But while most scientific and academic work had focused on macro fossils, it was
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xMQUGSrnbP8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <figcaption>
+
+_“Petroleum – Modern history of oil on a Map”, an animated map showing the history of petroleum. (Source: Geo History/YouTube)_
 
 </figcaption>
 
@@ -65,11 +67,9 @@ But while most scientific and academic work had focused on macro fossils, it was
 
 <figcaption>
 
-_Videostill aus “Petroleum – Modern history of oil on a Map” von Geo History (Quelle: YouTube)_
+_Videostill aus “Petroleum – Modern history of oil on a Map” (Quelle: Geo History/YouTube)_
 
 </figcaption>
-
-_“Petroleum – Modern history of oil on a Map”, an animated map showing the history of petroleum. (Source: Geo History/YouTube)_
 
 </figure>
 
