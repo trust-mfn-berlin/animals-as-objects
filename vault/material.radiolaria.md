@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Radiolaria
 title_de: Radiolarien
 created: 1618492811498
-updated: 1642846083563
+updated: 1642847062652
 id: 947c29be-240a-4adb-93c7-9026f80aaa89
 author: Filippo Bertoni
 doi: 64y2-m311/6
@@ -34,7 +34,7 @@ published: false
 
 <figcaption>
 
-_Radiolaria on plate 59 from Ernst Haeckel’s report about the H.M.S. Challenger expedition, 1887. (Work is in the public domain, no copyright applies. https://archive.org/details/reportonradiolar00haecrich)_
+_Radiolaria on plate 59 from Ernst Haeckel’s report about the H.M.S. Challenger expedition, 1887. (Public domain, no copyright applies. https://archive.org/details/reportonradiolar00haecrich)_
 
 </figcaption>
 
