@@ -7,7 +7,7 @@ short_desc_de: Mikroorganismen, die am häufigsten in den Ozeanen leben
 date_end: 2022-12-07T19:14:43.793Z
 published: false
 title: Foraminifera
-updated: 1642675905661
+updated: 1642850319716
 id: 83cc17bb-8a8e-4157-9ebc-f0990cf60076
 doi: 64y2-m311/36
 translators:
@@ -32,7 +32,7 @@ date_start: 1826-01-02T20:03:29.910Z
 
 <figcaption>
 
-_An electron scanning micrograph of a foraminiferan species (Elphidium) (Image: Hannes Grobe, CC BY.)_ 
+_An electron scanning micrograph of a foraminiferan species (Elphidium) (Source: Hannes Grobe/Wikimedia, [CC BY](https://creativecommons.org/licenses/by-sa/3.0/))_ 
 
 </figcaption>
 
@@ -48,7 +48,7 @@ This indifference was finally overcome in the 1920s, as a group of scientists in
 
 <figcaption>
 
-_This video from the American Museum of Natural History introduces forams micropaleontology._ 
+_This video from the American Museum of Natural History introduces forams micropaleontology. (Source: American Museum of Natural History/YouTube)_ 
 
 </figcaption>
 
@@ -63,7 +63,7 @@ _This video from the American Museum of Natural History introduces forams microp
 
 <figcaption>
 
-_Eine elektronenmikroskopische Aufnahme einer Foraminiferenart (Elphidium) (Foto: Hannes Grobe, CC BY.)_ 
+_Eine elektronenmikroskopische Aufnahme einer Foraminiferenart (Elphidium) (Quelle: Hannes Grobe/Wikimedia, [CC BY](https://creativecommons.org/licenses/by-sa/3.0/))_ 
 
 </figcaption>
 
@@ -79,7 +79,7 @@ Das änderte sich erst in den 1920er Jahren, als eine Gruppe Wissenschaftler:inn
 
 <figcaption>
 
-_Dieses Video aus dem American Museum of Natural History gibt eine Einführung in die Mikropaläontologie von Foraminiferen._ 
+_Dieses Video aus dem American Museum of Natural History gibt eine Einführung in die Mikropaläontologie von Foraminiferen. (Quelle: American Museum of Natural History/YouTube)_ 
 
 </figcaption>
 
