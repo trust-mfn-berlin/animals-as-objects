@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding Prohibited
 title_de: Füttern verboten
 created: 1620752897039
-updated: 1642500098167
+updated: 1642784940348
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 author: Mareike Vennen
 doi: 64y2-m311/26
@@ -170,7 +170,9 @@ Another anonymous writer told of three ladies she had observed at the elephant e
 
 These and other incidents further fuelled the discussion about how best to put the feeding ban into practice. Suggestions from the public ranged from the introduction of guards, to imposing fines on transgressors, and expelling them from the zoo.
 
-Other suggestions were focused on changing the architecture, instead of disciplining people: “Wouldn’t it be appropriate”, wrote one visitor after the death of an elephant seal, “to put mesh screens all around and on top of the enclosures, or to surround the pools with windows and put wire mesh on top, so that it is impossible to stick even the smallest thing through? Feeding bans are pointless; the animals must rather be shielded in such a way that deaths and illness no longer occur.”[^20] 
+Other suggestions were focused on changing the architecture, instead of disciplining people: 
+
+>“Wouldn’t it be appropriate”, wrote one visitor after the death of an elephant seal, “to put mesh screens all around and on top of the enclosures, or to surround the pools with windows and put wire mesh on top, so that it is impossible to stick even the smallest thing through? Feeding bans are pointless; the animals must rather be shielded in such a way that deaths and illness no longer occur.”[^20] 
 
 The architecture of the enclosures did indeed play an important role in the relationship between visitors and animals. In the early 1930s, the fences of many pens were replaced by trenches in the style of Hagenbeck’s open-air enclosures. The Berlin Zoological Garden, too, boasted about “de-fencing” its enclosures in 1930.[^21] However, the distance created by these measures did not necessarily completely cut off contact – nor was it the intention that it should do so. Rather, the trench in Berlin’s elephant enclosure was so narrow that, as zoo director Lutz Heck described “the animals could take bread from the visitors’ hands with their trunks”.[^22] As a photograph from the illustrated magazine _Die Woche im Bild_ shows, the hippopotamus pool also still allowed close contact, enabling the visitors to continue feeding the animals.
 
@@ -414,7 +416,9 @@ Eine weitere anonyme Schreiberin berichtete von drei Damen, die sie beim Elefant
 
 Diese und andere Vorfälle heizten die Diskussion um die richtigen Maßnahmen zur Umsetzung des Fütterungsverbots weiter an. Die Vorschläge aus der Bevölkerung reichten von der Einführung von Wachpersonal über Geldstrafen bis zum Zooverweis.
 
-Andere Vorschläge richteten sich statt auf die Disziplinierung der Menschen auf die Wandlung der Architektur: “Wäre es nicht angebracht”, schrieb eine Besucherin nach dem Tod eines See-Elefanten, “ringsherum u. oben Maschengitter anzubringen, oder die Basins mit Scheiben zu umgeben u. oben mit Drahtgitter zu versehen, sodaß es unmöglich ist, auch nur das Geringste durchzustecken! Fütterungsverbot zwecklos, man muss die Tiere stattdessen so abschirmen, daß Todes oder Krankheitsfälle nicht mehr vorkommen.”[^20]
+Andere Vorschläge richteten sich statt auf die Disziplinierung der Menschen auf die Wandlung der Architektur: 
+
+>“Wäre es nicht angebracht”, schrieb eine Besucherin nach dem Tod eines See-Elefanten, “ringsherum u. oben Maschengitter anzubringen, oder die Basins mit Scheiben zu umgeben u. oben mit Drahtgitter zu versehen, sodaß es unmöglich ist, auch nur das Geringste durchzustecken! Fütterungsverbot zwecklos, man muss die Tiere stattdessen so abschirmen, daß Todes- oder Krankheitsfälle nicht mehr vorkommen.”[^20]
 
 In der Tat spielte die Architektur der Gehege eine wichtige Rolle für das Verhältnis zwischen Besucher:innen und Tieren. In den frühen 1930er Jahren waren im Gefolge der Hagenbeck’schen Freigehege die Gitterstäbe vieler Ausläufe durch Gräben ersetzt worden. 1930 rühmte sich auch der Zoologische Garten Berlin, seine Anlagen zu “entgittern”.[^21] Der so geschaffene Abstand schuf aber noch nicht unbedingt Kontaktlosigkeit – und das war auch nicht intendiert. Vielmehr war der Graben in der Elefantenanlage in Berlin so schmal gehalten, “daß die Tiere mit dem Rüssel dem Besucher Brot aus der Hand abnehmen können”, wie es Zoodirektor Lutz Heck beschrieb.[^22] Auch das Nilpferdbecken erlaubte noch eine direkte Tuchfühlung und erleichterte das Füttern durch die Besucher:innen, wie eine Fotografie aus der illustrierten Zeitschrift _Die Woche im Bild_ zeigt.
 

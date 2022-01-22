@@ -3,7 +3,7 @@ license: CC BY-SA
 title: SOMSO-Plast. Plastic Animal Models
 title_de: SOMSO-Plast. Tiermodelle aus Plastik
 created: 1629799783441
-updated: 1642527254090
+updated: 1642784347147
 id: EjCkhWUz4D4DXc9ANY8bc
 author: Britta Lange
 doi: 64y2-m311/46
@@ -36,7 +36,7 @@ _Plastic model of a potato bug by the SOMSO company, date unknown. (Zoological T
 
 </figure>
 
-While some animal specimens consist of organic material that is prevented from decaying by preservation techniques, animal models – as a three-dimensional visualisation of knowledge – do not contain any animal parts.[^1] Since the 18th century, modellers have been using wax, glass, and [[papier mâché|material.silkworm-in-papier-mache]] to create artificial animal replicas. These materials have allowed them to make the organisms being reproduced seem – compared with specimens – as ‘natural’ as possible. **When [[plastic|material.fossil-fuels]] set off on its triumphal march across Europe in the 1930s, it led to advancements in the field of zoological models, which went from being precious one-offs to serial productions.** The company SOMSO, founded in 1876 by Marcus Sommer in Sonneberg, Thuringia, was one of the first to use plastic to produce models of plants, animals, and human anatomy. In the 1930s, it developed its own formula, which it copyrighted with the trademark “SOMSO-Plast”.[^2] 
+Commonly, animal specimens encompass organic materials that are subjected to preservation techniques preventing their decay. In contrast, animal models – considered three-dimensional visualisations of knowledge – do not contain animal parts.[^1] Since the 18th century, modellers have been using wax, glass, and [[papier mâché|material.silkworm-in-papier-mache]] to create artificial animal replicas. These materials have allowed them to make the organisms being reproduced seem – compared with specimens – as ‘natural’ as possible. **When [[plastic|material.fossil-fuels]] set off on its triumphal march across Europe in the 1930s, it led to advancements in the field of zoological models, which went from being precious one-offs to serial productions.** The company SOMSO, founded in 1876 by Marcus Sommer in Sonneberg, Thuringia, was one of the first to use plastic to produce models of plants, animals, and human anatomy. In the 1930s, it developed its own formula, which it copyrighted with the trademark “SOMSO-Plast”.[^2] 
 
 SOMSO-Plast increasingly replaced papier mâché and plaster as materials. **The potato bug made from papier mâché by the modeller Alfred Keller was thus joined by a potato bug made from plastic, a material to which a particularly ‘lifelike’ aesthetic was attributed.**[^3] This model is characterised by its smooth, shiny painted surface, which allows users to feel the animal’s shape with their hands, and it is not damaged by washing. Even today, SOMSO-Plast is considered less fragile and “nearly unbreakable”. Although plastic models have also proven problematic in today’s collections, as some of them lose their shape or corrode, the practicality of plastic models in teaching still dominates as an argument in favour of the continued use of this material.
 
