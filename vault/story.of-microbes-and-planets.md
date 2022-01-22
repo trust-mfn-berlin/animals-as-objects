@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Of Microbes and Planets
 title_de: Über Mikroben und Planeten
 created: 1621522603135
-updated: 1642421655146
+updated: 1642847564359
 id: 796e4da7-c573-401f-a165-7bd9c3a503c6
 author: Filippo Bertoni
 doi: 64y2-m311/33
@@ -57,7 +57,7 @@ The history of how we slowly came to recognise the importance of microbial life 
 
 <figcaption>
 
-_An animation issued by NASA illustrating the cyclicity of primary production and the biogeochemical processes it involves._ 
+_An animation issued by NASA illustrating the cyclicity of primary production and the biogeochemical processes it involves. (Source: Carbon Brief/YouTube)_ 
 
 </figcaption>
 
@@ -111,7 +111,7 @@ Die Geschichte, wie wir allmählich die Bedeutung des mikrobiellen Lebens für u
 
 <figcaption>
 
-_Eine von der NASA veröffentlichte Animation veranschaulicht den Kreislauf der Primärproduktion und die damit verbundenen biochemischen Prozesse._ 
+_Eine von der NASA veröffentlichte Animation veranschaulicht den Kreislauf der Primärproduktion und die damit verbundenen biochemischen Prozesse. (Quelle: Carbon Brief/YouTube)_ 
 
 </figcaption>
 
