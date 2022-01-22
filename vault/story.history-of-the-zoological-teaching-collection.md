@@ -280,6 +280,6 @@ Als Einschnitt und Leerstelle schrieb sich diese Diskontinuität in den historis
 
 [^20]: Vgl. Richter, 1999: 59-76, 65.
 
-[^21]: Vgl. Ebd.
+[^21]: Vgl. ebd.
 
-[^22]: Vgl. Ebd.
+[^22]: Vgl. ebd.

@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding Prohibited
 title_de: Füttern verboten
 created: 1620752897039
-updated: 1642784940348
+updated: 1642854563736
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 author: Mareike Vennen
 doi: 64y2-m311/26
@@ -234,7 +234,7 @@ Although zoo directors had been discussing the issue for some time, at the 40th 
 
 [^11]: “Füttern im Zoo von heute an verboten”. _Tagesspiegel_, 31.03.1960.
 
-[^12]:  On the figure of the “Tierfreund”, cf. Christina Wessely. _Löwenbaby._ Berlin: Matthes & Seitz, 2019; Nastasja Klothmann. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 201-220. 
+[^12]:  On the figure of the ‘Tierfreund’ cf. Christina Wessely. _Löwenbaby._ Berlin: Matthes & Seitz, 2019; Nastasja Klothmann. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 201-220. 
 
 [^13]: Anonymous letter to the management of the Zoological Garden Berlin, 11.04.1960, AZGB O 0/1/112. Direct quotes have been translated into English for clarity’s sake.
 

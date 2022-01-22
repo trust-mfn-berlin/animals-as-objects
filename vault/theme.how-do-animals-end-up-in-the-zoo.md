@@ -7,7 +7,7 @@ short_desc_de: Politische, logistische und moralische Herausforderungen
 date_end: ""
 published: false
 title: How Do Animals End Up in the Zoo?
-updated: 1642784082932
+updated: 1642854700884
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 doi: 64y2-m311/14
 translators:
@@ -196,7 +196,7 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 [^1]: Zoological Garden Berlin. "Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin for the year 1907”.
 
-[^2]: For an overview of the imports of non-native animal species, cf. Lothar Dittrich. ”Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs: Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter, and Gerhard Heindl (eds.). Wien: Braumüller, 2007: 1-64.
+[^2]: For an overview of the imports of non-native animal species cf. Lothar Dittrich. ”Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs: Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter, and Gerhard Heindl (eds.). Wien: Braumüller, 2007: 1-64.
 
 [^3]: Heinz-Georg Klös. “Tierfänger und Großtierhändler: Erinnerungen eines alten Tiergärtners, Teil I”. _Bongo_ 34 (2004): 3-42; and Heinz-Georg Klös, . “(…), Teil II”. _Bongo_ 35 (2005): 7-42.
 
@@ -392,7 +392,7 @@ Seit einigen Jahren lassen sich neue Tendenzen wahrnehmen, die international, in
 
 [^1]: Zoologischer Garten Berlin. "Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin für das Jahr 1907".
 
-[^2]: Für eine Übersicht der Einfuhren nicht-heimischer Tierarten, vgl. Lothar Dittrich. “Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs: Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter und Gerhard Heindl (Hg.). Wien: Braumüller, 2007: 1-64.
+[^2]: Für eine Übersicht der Einfuhren nicht-heimischer Tierarten vgl. Lothar Dittrich. “Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs: Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter und Gerhard Heindl (Hg.). Wien: Braumüller, 2007: 1-64.
 
 [^3]: Heinz-Georg Klös. “Tierfänger und Großtierhändler: Erinnerungen eines alten Tiergärtners, Teil I”. _Bongo_ 34 (2004): 3-42; sowie Heinz-Georg Klös. “(…), Teil II”. _Bongo_ 35 (2005): 7-42.
 

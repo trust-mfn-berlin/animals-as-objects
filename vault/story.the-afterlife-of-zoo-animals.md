@@ -7,7 +7,7 @@ short_desc_de: Auf den Spuren eines Elefanten
 date_end: 1947-12-31T11:00:00.000Z
 published: false
 title: The Afterlife of Zoo Animals
-updated: 1642598820684
+updated: 1642854896819
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 doi: 64y2-m311/24
 translators:
@@ -136,7 +136,7 @@ At the same time, the afterlife of “Siam” reveals the [[gaps|story.untraceab
 
 [^5]: Cf. John Hagenbeck. _John Hagenbecks abenteuerliche Flucht aus Ceylon_. Leipzig: Deutsche Buchwerkstätten, 1917. Of the now extensive literature on the connection between zoological gardens and “Völkerschauen”, see, for example, Clemens Maier-Wolthausen. _Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos_. Berlin: Ch. Links Verlag, 2019; Utz Anhalt. “Tiere und Menschen als Exoten: Exotisierende Sichtweisen auf das ‘Andere’ in der Gründungs- und Entwicklungsphase der Zoos”. Dissertation, Gottfried Wilhelm Leibniz Universität, Hanover 2007; Oumar Diallo and Joachim Zeller. “Zoologischer Garten, Hardenbergplatz 8”. In _Berlin – Eine (post-)koloniale Metropole: Ein historisch-kritischer Stadtrundgang im Bezirk Mitte_, Farafina e.V. Berlin-Moabit (ed.). Berlin: Metropol-Verlag, 2021: 168–175; Lothar Dittrich and Annelore Rieke-Müller. _Carl Hagenbeck (1844-1913) Tierhandel und Schaustellungen im Deutschen Kaiserreich_. Frankfurt/M.: Peter Lang, 1998; Caroline Schmidt-Gross. “Tropenzauber um die Ecke: Völkerschauen bei Hagenbeck”. In _MenschenZoos: Schaufenster der Unmenschlichkeit_, Pascal Blanchard, et al. (eds.). Hamburg: Les éditions du Crieur Public, 2012: 172–178.
 
-[^6]: “‘Siam’ = 2,5 Millionen Kalorien”. _Die Neue Zeitung_, 22.03.1947. The lions then immediately had “their rations cut by the magistrate”, claimed the _Tagesspiegel_. Cf. “Spinat oder Hirsche: Ein Frühlingsspaziergang durch den Berliner Zoo”. _Der Tagesspiegel_, 03.04.1947.
+[^6]: “‘Siam’ = 2,5 Millionen Kalorien”. _Die Neue Zeitung_, 22.03.1947. The lions then immediately had “their rations cut by the magistrate”, claimed the _Tagesspiegel_; cf. “Spinat oder Hirsche: Ein Frühlingsspaziergang durch den Berliner Zoo”. _Der Tagesspiegel_, 03.04.1947.
 
 [^7]: “‘Siam’ = 2,5 Millionen Kalorien”. _Die Neue Zeitung_, 22.03.1947. Direct quotes have been translated into English for clarity’s sake.
 
@@ -150,7 +150,7 @@ At the same time, the afterlife of “Siam” reveals the [[gaps|story.untraceab
 
 [^12]: Cf. Magistrate of the City of Berlin, Hauptamt Veterinärwesen (main veterinary office) to the Zoological Garden Berlin, 06.09.1946, AZGB O 0/1/3. While an average of about 1.685 kg of carcass meat was available each month, the zoo’s monthly requirement according to its own calculations was 3,200 kg. The zoo therefore had to buy almost 1,400 kg of good slaughter meat per month at a price of 1.40 West German marks per kg. Cf. K. Heinroth to Dr. Schönwetter, Magistrate of Greater Berlin, 24.01.1950, AZGB O 0/1/3. 1.40 West German marks in 1950 is equivalent to approximately €3.88 today. Cf. “Kaufkraftäquivalente historischer Beträge in deutschen Währungen”. Bundesbank 2021. https://www.bundesbank.de/resource/blob/615162/d55a20f8a4ecedd6d1b53e01b89f11c4/mL/kaufkraftaequivalente-historischer-betraege-in-deutschen-waehrungen-data.pdf (10.8.2021).
 
-[^13]: Johannes Gebbing (ed.). _50 Jahre Leipziger Zoo, 1878–1928_. Leipzig: Selbstverlag des zoolog. Gartens, 1928: 36. On mass slaughtering, cf. Anne Roerkohl. “Die Lebensmittelversorgung während des Ersten Weltkrieges im Spannungsfeld kommunaler und staatlicher Maßnahmen”. In _Durchbruch zum modernen Massenkonsum: Lebensmittelmärkte und Lebensmittelqualität im Städtewachstum des Industriezeitalters_, Hans Jürgen Teuteberg (ed.). Münster: Coppenrath, 1987: 309–370. Direct quotes have been translated into English for clarity’s sake.
+[^13]: Johannes Gebbing (ed.). _50 Jahre Leipziger Zoo, 1878–1928_. Leipzig: Selbstverlag des zoolog. Gartens, 1928: 36. On mass slaughtering cf. Anne Roerkohl. “Die Lebensmittelversorgung während des Ersten Weltkrieges im Spannungsfeld kommunaler und staatlicher Maßnahmen”. In _Durchbruch zum modernen Massenkonsum: Lebensmittelmärkte und Lebensmittelqualität im Städtewachstum des Industriezeitalters_, Hans Jürgen Teuteberg (ed.). Münster: Coppenrath, 1987: 309–370. Direct quotes have been translated into English for clarity’s sake.
 
 [^14]: The price quoted varied between 20 pounds for 400 Reichsmark (≈ €1280 in 2021). Cf. “Auf den Spuren des Elefanten”. _Der Kurier_, 07.02.1948; Zoological Garden Berlin to the Kriminal-Kommissariat Tiergarten (the criminal investigation department for Tiergarten), 10.05.1947, AZGB O 0/1/143.
 
@@ -158,7 +158,7 @@ At the same time, the afterlife of “Siam” reveals the [[gaps|story.untraceab
 
 [^16]: “Siam auf der Speisekarte: Zoo-Tiere mit Sonderzulage”. _Der Morgen_, 20.03.1947. Direct quotes have been translated into English for clarity’s sake.
 
-[^17]: Here, too, a court case followed. Cf. “Damhirsch-Prozeß”. _Rhein-Zeitung_, 23.04.1947.
+[^17]: Here, too, a court case followed; cf. “Damhirsch-Prozeß”. _Rhein-Zeitung_, 23.04.1947.
 
 [^18]: Cf. H. Schäfer to the administration of the Zoological Garden Berlin, 11.03.1947, AZGB O 0/1/143; H. Mrozeck to the administration of the Zoological Garden Berlin, 08.03.1947, AZGB O 0/1/87; W. Gronau to the administration of the Zoological Garden Berlin, 10.03.1947, AZGB O 0/1/86.
 
@@ -266,7 +266,7 @@ Gleichzeitig macht das Nachleben von “Siam” die [[Lücken|story.untraceable]
 
 [^5]: Vgl. John Hagenbeck. _John Hagenbecks abenteuerliche Flucht aus Ceylon_. Leipzig: Deutsche Buchwerkstätten, 1917. Aus der inzwischen umfangreichen Literatur zur Verbindung von zoologischen Gärten und Völkerschauen vgl. u.a. Clemens Maier-Wolthausen. _Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos_. Berlin: Ch. Links Verlag, 2019; Utz Anhalt. “Tiere und Menschen als Exoten: Exotisierende Sichtweisen auf das ‘Andere’ in der Gründungs- und Entwicklungsphase der Zoos”. Dissertation, Gottfried Wilhelm Leibniz Universität, Hannover, 2007; Oumar Diallo und Joachim Zeller. “Zoologischer Garten, Hardenbergplatz 8”. In _Berlin – Eine (post-)koloniale Metropole: Ein historisch-kritischer Stadtrundgang im Bezirk Mitte_, Farafina e.V. Berlin-Moabit (Hg.). Berlin: Metropol-Verlag, 2021: 168-175; Lothar Dittrich und Annelore Rieke-Müller. _Carl Hagenbeck (1844-1913) Tierhandel und Schaustellungen im Deutschen Kaiserreich_. Frankfurt/M.: Peter Lang, 1998; Caroline Schmidt-Gross. “Tropenzauber um die Ecke: Völkerschauen bei Hagenbeck”. In _MenschenZoos: Schaufenster der Unmenschlichkeit_, Pascal Blanchard, et al. (Hg.). Hamburg: Les éditions du Crieur Public, 2012: 172-178.
 
-[^6]: “‘Siam’ = 2,5 Millionen Kalorien”. _Die Neue Zeitung_, 22.03.1947. Den Löwen wurde daraufhin umgehend “ihre Ration vom Magistrat gekürzt”, behauptete der _Tagesspiegel_. Vgl. “Spinat oder Hirsche: Ein Frühlingsspaziergang durch den Berliner Zoo”. _Der Tagesspiegel_, 03.04.1947.
+[^6]: “‘Siam’ = 2,5 Millionen Kalorien”. _Die Neue Zeitung_, 22.03.1947. Den Löwen wurde daraufhin umgehend “ihre Ration vom Magistrat gekürzt”, behauptete der _Tagesspiegel_; vgl. “Spinat oder Hirsche: Ein Frühlingsspaziergang durch den Berliner Zoo”. _Der Tagesspiegel_, 03.04.1947.
 
 [^7]: “‘Siam’ = 2,5 Millionen Kalorien”. _Die Neue Zeitung_, 22.03.1947.
 
@@ -276,23 +276,23 @@ Gleichzeitig macht das Nachleben von “Siam” die [[Lücken|story.untraceable]
 
 [^10]: Die Freibank diente insbesondere in einer Zeit des Mangels der Verwertung möglichst aller tierischen Produkte; die Praxis wurde jedoch spätestens in den 1990er Jahren aufgegeben.
 
-[^11]: Vgl. AZGB O 0/1/284. Die entsprechenden Beträge in 2021 wurden mit dem Eintrag für 1948 in einer Umrechnungstabelle der Bundesbank errechnet. Vgl. “Kaufkraftäquivalente historischer Beträge in deutschen Währungen”. Bundesbank 2021. https://www.bundesbank.de/resource/blob/615162/d55a20f8a4ecedd6d1b53e01b89f11c4/mL/kaufkraftaequivalente-historischer-betraege-in-deutschen-waehrungen-data.pdf (10.8.2021).
+[^11]: Vgl. AZGB O 0/1/284. Die entsprechenden Beträge in 2021 wurden mit dem Eintrag für 1948 in einer Umrechnungstabelle der Bundesbank errechnet; vgl. “Kaufkraftäquivalente historischer Beträge in deutschen Währungen”. Bundesbank 2021. https://www.bundesbank.de/resource/blob/615162/d55a20f8a4ecedd6d1b53e01b89f11c4/mL/kaufkraftaequivalente-historischer-betraege-in-deutschen-waehrungen-data.pdf (10.8.2021).
 
-[^12]: Vgl. Magistrat der Stadt Berlin, Hauptamt Veterinärwesen an den Zoologischen Garten Berlin, 06.09.1946, AZGB O 0/1/3. Während durchschnittlich etwa 1.685 kg Kadaverfleisch monatlich zur Verfügung standen, hatte der Zoo nach eigenen Angaben einen Monatsbedarf von 3.200 kg. Fast 1400 kg pro Monat musste der Zoo daher an gutem Schlachtfleisch dazukaufen zum Preis von DM (West) 1,40 pro kg. Vgl. K. Heinroth an Dr. Schönwetter, Magistrat von Groß-Berlin, 24.01.1950, AZGB O 0/1/3. DM (West) 1,40 in 1950 entsprechen etwa 3,88 € in 2021. Vgl. “Kaufkraftäquivalente historischer Beträge in deutschen Währungen”. Bundesbank 2021. https://www.bundesbank.de/resource/blob/615162/d55a20f8a4ecedd6d1b53e01b89f11c4/mL/kaufkraftaequivalente-historischer-betraege-in-deutschen-waehrungen-data.pdf (10.8.2021).
+[^12]: Vgl. Magistrat der Stadt Berlin, Hauptamt Veterinärwesen an den Zoologischen Garten Berlin, 06.09.1946, AZGB O 0/1/3. Während durchschnittlich etwa 1.685 kg Kadaverfleisch monatlich zur Verfügung standen, hatte der Zoo nach eigenen Angaben einen Monatsbedarf von 3.200 kg. Fast 1400 kg pro Monat musste der Zoo daher an gutem Schlachtfleisch dazukaufen zum Preis von DM (West) 1,40 pro kg; vgl. K. Heinroth an Dr. Schönwetter, Magistrat von Groß-Berlin, 24.01.1950, AZGB O 0/1/3. DM (West) 1,40 in 1950 entsprechen etwa 3,88 € in 2021. Vgl. “Kaufkraftäquivalente historischer Beträge in deutschen Währungen”. Bundesbank 2021. https://www.bundesbank.de/resource/blob/615162/d55a20f8a4ecedd6d1b53e01b89f11c4/mL/kaufkraftaequivalente-historischer-betraege-in-deutschen-waehrungen-data.pdf (10.8.2021).
 
 [^13]: Johannes Gebbing (Hg.) _50 Jahre Leipziger Zoo, 1878-1928_. Leipzig: Selbstverlag des zoolog. Gartens, 1928: 36. Zur Massenschlachtung vgl. Anne Roerkohl. “Die Lebensmittelversorgung während des Ersten Weltkrieges im Spannungsfeld kommunaler und staatlicher Maßnahmen”. In _Durchbruch zum modernen Massenkonsum: Lebensmittelmärkte und Lebensmittelqualität im Städtewachstum des Industriezeitalters_. Hans Jürgen Teuteberg (Hg.). Münster: Coppenrath, 1987: 309-370.
 
-[^14]: Die Preisangaben variierten zwischen 20 Pfund für 400 Reichsmark (≈ 1.280 € in 2021). Vgl. “Auf den Spuren des Elefanten”. _Der Kurier_, 07.02.1948; Zoologischer Garten Berlin an das Kriminal-Kommissariat Tiergarten, 10.05.1947, AZGB O 0/1/143.
+[^14]: Die Preisangaben variierten zwischen 20 Pfund für 400 Reichsmark (≈ 1.280 € in 2021); vgl. “Auf den Spuren des Elefanten”. _Der Kurier_, 07.02.1948; Zoologischer Garten Berlin an das Kriminal-Kommissariat Tiergarten, 10.05.1947, AZGB O 0/1/143.
 
-[^15]: K. Heinroth an das Kriminal-Kommissariat Tiergarten, 10.05.1947, AZGB O 0/1/143. Vgl. auch AZGB O 0/1/44. Der entsprechende Betrag in 2021 wurden mit dem Eintrag für 1947 in einer Umrechnungstabelle der Bundesbank errechnet. Vgl. “Kaufkraftäquivalente historischer Beträge in deutschen Währungen”. Bundesbank 2021. https://www.bundesbank.de/resource/blob/615162/d55a20f8a4ecedd6d1b53e01b89f11c4/mL/kaufkraftaequivalente-historischer-betraege-in-deutschen-waehrungen-data.pdf (10.8.2021). Zur Presseberichterstattung vgl. u.a. “Prozeß um Elefantenfleisch”. _Tagesspiegel_, 07.02.1948; “Elefant à la carte”. _Die Tagespost_, 10.02.1948. Bereits 1945 hatte die Polizei von Berlin mit dem Hinweis auf Gesundheitsrisiken eine Verordnung zur “Unterlassung des Erwerbs von Fleisch am Schwarzen Markt” erlassen. Vgl. “Unterlassung des Erwerbs von Fleisch am Schwarzen Markt, Berlin, den 17. Juli 1945”. _Verordnungsblatt (VOBl.) der Stadt Berlin 1945_, Nr. 5., September 1945: 67. 
+[^15]: K. Heinroth an das Kriminal-Kommissariat Tiergarten, 10.05.1947, AZGB O 0/1/143; vgl. auch AZGB O 0/1/44. Der entsprechende Betrag in 2021 wurden mit dem Eintrag für 1947 in einer Umrechnungstabelle der Bundesbank errechnet. Vgl. “Kaufkraftäquivalente historischer Beträge in deutschen Währungen”. Bundesbank 2021. https://www.bundesbank.de/resource/blob/615162/d55a20f8a4ecedd6d1b53e01b89f11c4/mL/kaufkraftaequivalente-historischer-betraege-in-deutschen-waehrungen-data.pdf (10.8.2021). Zur Presseberichterstattung vgl. u.a. “Prozeß um Elefantenfleisch”. _Tagesspiegel_, 07.02.1948; “Elefant à la carte”. _Die Tagespost_, 10.02.1948. Bereits 1945 hatte die Polizei von Berlin mit dem Hinweis auf Gesundheitsrisiken eine Verordnung zur “Unterlassung des Erwerbs von Fleisch am Schwarzen Markt” erlassen; vgl. “Unterlassung des Erwerbs von Fleisch am Schwarzen Markt, Berlin, den 17. Juli 1945”. _Verordnungsblatt (VOBl.) der Stadt Berlin 1945_, Nr. 5., September 1945: 67. 
 
 [^16]: “Siam auf der Speisekarte: Zoo-Tiere mit Sonderzulage”. _Der Morgen_, 20.03.1947.
 
-[^17]: Auch hier folgte ein Gerichtsprozess. Vgl. “Damhirsch-Prozeß”. _Rhein-Zeitung_, 23.04.1947. 
+[^17]: Auch hier folgte ein Gerichtsprozess; vgl. “Damhirsch-Prozeß”. _Rhein-Zeitung_, 23.04.1947. 
 
 [^18]: Vgl. H. Schäfer an die Verwaltung des Zoologischen Gartens Berlin, 11.03.1947, AZGB O 0/1/143; H. Mrozeck an die Verwaltung des Zoologischen Gartens Berlin, 08.03.1947, AZGB O 0/1/87; W. Gronau an die Verwaltung des Zoologischen Gartens Berlin, 10.03.1947, AZGB O 0/1/86.
 
-[^19]: Vgl. Zoologischer Garten Berlin an das Kommando der Schutzpolizei, 01.04.1947, AZGB O 0/1/143. Die kriminalpolizeilichen Ermittlungen blieben in allen Fällen ohne Erfolg. Vgl. auch Zoologischer Garten Berlin an das 31. Polizei-Revier, 13.02.1947, AZGB O 0/1/143; sowie AZGB O 0/1/274: “In der Nacht vom 12. zum 13. Februar wurde auf dem Gelände des Zoologischen Gartens in einem verschlossenen Tierhaus eine erwachsene Milchziege getötet, an Ort und Stelle ausgeschlachtet und unter Hinterlassung der Eingeweide gestohlen.”
+[^19]: Vgl. Zoologischer Garten Berlin an das Kommando der Schutzpolizei, 01.04.1947, AZGB O 0/1/143. Die kriminalpolizeilichen Ermittlungen blieben in allen Fällen ohne Erfolg; vgl. auch Zoologischer Garten Berlin an das 31. Polizei-Revier, 13.02.1947, AZGB O 0/1/143; sowie AZGB O 0/1/274: “In der Nacht vom 12. zum 13. Februar wurde auf dem Gelände des Zoologischen Gartens in einem verschlossenen Tierhaus eine erwachsene Milchziege getötet, an Ort und Stelle ausgeschlachtet und unter Hinterlassung der Eingeweide gestohlen.”
 
 [^20]: Daniel de Luce. “Lebensmittelkarte 5 im Berliner Zoo”. _Tägliche Rundschau_, 17.12.1946.
 

@@ -7,7 +7,7 @@ short_desc_de: "1945: Krise in Zoo und Stadt "
 date_end: 1950-12-31T11:00:00.000Z
 published: false
 title: Feed Scarcity
-updated: 1642624721145
+updated: 1642854551778
 id: d54394f6-1188-4ec3-b590-da329e657560
 doi: 64y2-m311/23
 translators:
@@ -266,7 +266,7 @@ Depending on your perspective, the zoo was a hub for the exchange of animals and
 
 [^29]: File memo Katharina Heinroth, 19.03.1946, AZGB O 0/1/75. Direct quotes have been translated into English for clarity’s sake.
 
-[^30]: When guinea pig breeding was being reestablished, the zoo was “often forced to use guinea pigs as feed due to food scarcity”. K. Heinroth to J. Roscher, 23.02.1947, AZGB O 1/2/42. On the threat of evacuation, cf. also K. Heinroth to K. Lorenz, 12.10.1948, AZGB N/4/12; K. Heinroth to E. Mohr, 28.02.1946, in: AZGB N 4/12.
+[^30]: When guinea pig breeding was being reestablished, the zoo was “often forced to use guinea pigs as feed due to food scarcity”. K. Heinroth to J. Roscher, 23.02.1947, AZGB O 1/2/42. On the threat of evacuation cf. also K. Heinroth to K. Lorenz, 12.10.1948, AZGB N/4/12; K. Heinroth to E. Mohr, 28.02.1946, in: AZGB N 4/12.
 
 [^31]: Between May and August 1945, the number of animals increased from 194 to 240, mainly due to the intake of animals from the Brumbach Circus. 
 
