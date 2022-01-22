@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: From Pests to Displays
 title_de: Von Schädlingen zu Ausstellungsstücken
 created: 1640461871904
-author: Mareike Vennen
-short_desc_de: "Stoffwechselprozesse auf hoher See "
-date_end: 1844-12-30T23:50:39.000Z
-published: false
-title: From Pests to Displays
 updated: 1642813215121
 id: 3YRSzijvbnQXZs4VO291j
+author: Mareike Vennen
 doi: 64y2-m311/71
 translators:
   translator_de_en: Lydia J. White
@@ -19,10 +16,14 @@ desc_de: "Der überseeische Transport von – toten wie lebenden – Tieren stel
   Naturkundler:innen im 19. Jahrhundert immer wieder vor die Frage: Wer wird
   versorgt, wer verfüttert, und wer geht über Bord?"
 short_desc: Lively (and deadly) metabolisms at sea
-cover_image: null
+short_desc_de: "Stoffwechselprozesse auf hoher See "
+cover_image:
+  image: /images/from-pests.jpeg
 colour_scheme: 7
 tao_type: story
 date_start: 1839-12-31T23:50:39.000Z
+date_end: 1844-12-30T23:50:39.000Z
+published: false
 ---
 
 :::EN:::
