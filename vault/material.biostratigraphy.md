@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Biostratigraphy
 title_de: Biostratigrafie
 created: 1618493136975
-updated: 1642421473726
+updated: 1642848156353
 id: f0ff8e4e-5bb8-4622-8d51-8da1cb651524
 author: Filippo Bertoni
 doi: 64y2-m311/35
@@ -34,7 +34,7 @@ published: false
 
 <figcaption>
 
-_Sedimentary rocks (source: youtube)_
+_Sedimentary rocks (Source PBS Eons/YouTube)_
 
 </figcaption>
 
@@ -46,7 +46,7 @@ Biostratigraphy is the use of fossil assemblages to correlate and age rock strat
 
 <figcaption>
 
-_A video explaining the history of geology and our understanding of deep time, mainly thanks to biostratigraphy._
+_A video explaining the history of geology and our understanding of deep time, mainly thanks to biostratigraphy. (Source PBS Eons/YouTube)_
 
 </figcaption>
 
@@ -58,7 +58,7 @@ _A video explaining the history of geology and our understanding of deep time, m
 
 <figcaption>
 
-_Sedimentgestein (Quelle: youtube)_
+_Sedimentgestein (Quelle: PBS Eons/YouTube)_
 
 </figcaption>
 
@@ -70,6 +70,6 @@ Die Biostratigrafie nutzt Fossilanhäufungen zur Korrelierung und Altersbestimmu
 
 <figcaption>
 
-_Ein Video, das die Geschichte der Geologie und unser Verständnis der Tiefenzeit (Deep Time) erklärt, vor allem dank der Biostratigrafie._
+_Ein Video, das die Geschichte der Geologie und unser Verständnis der Tiefenzeit (Deep Time) erklärt, vor allem dank der Biostratigrafie. (Source PBS Eons/YouTube)_
 
 </figcaption>
