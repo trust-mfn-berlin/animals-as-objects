@@ -7,7 +7,7 @@ short_desc_de: Spuren von Bäumen und Tieren in Berlin
 date_end: 2022-08-26T14:37:08.305Z
 published: false
 title: Silkworms
-updated: 1642854936468
+updated: 1642854986509
 id: GDcruELihUsAdF7btC6KD
 doi: 64y2-m311/47
 translators:
@@ -44,7 +44,7 @@ date_start: 1703-01-01T23:07:09.241Z
  
 <figcaption>
  
-_Mulberry tree at the Museum für Naturkunde Berlin, 2021. (Image: Britta Lange.)_
+_Mulberry tree at the Museum für Naturkunde Berlin, 2021. (Image: Britta Lange)_
 
 </figcaption>
  
