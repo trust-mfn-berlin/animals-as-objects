@@ -7,7 +7,7 @@ short_desc_de: Eine mikroskopisch kleine Radolarienart
 date_end: 2022-12-06T11:35:52.482Z
 published: false
 title: Cycladophora davisiana
-updated: 1642520887575
+updated: 1642816758749
 id: 6b86b681-8157-4bd4-acb1-167b98547122
 doi: 64y2-m311/4
 translators:
@@ -91,7 +91,7 @@ Während die [[industrielle Mikropaleontologie|story.industrial-micropaleontolog
 
 In den 1990er Jahren stand die Ehrenberg-Sammlung westlichen Forschenden aufgrund der deutschen Wiedervereinigung wieder zur Verfügung und das Naturkundemuseum im ehemaligen Ost-Berlin wurde erneut zu einem wichtigen internationalen Zentrum der Mikropaläontologie, vereinte es doch die Anfänge der Disziplin mit der gegenwärtigen Forschung auf diesem Gebiet unter einem Dach. Dies veranschaulicht beispielsweise die [[material.nsb-database]] des Museums für Naturkunde, die die großen Sammlungen mikropaläontologischer Daten aus verschiedenen [[Tiefseebohrungen|story.deep-sea-drilling]] seit den 1960er Jahren enthält. Dank dieser Datenbank können _Cycladophora davisiana_ und viele andere mikrofossile Arten den Wissenschaftler:innen auch weiterhin dabei helfen, die globalen und lokalen Veränderungen zu verstehen, die unseren Planeten bis heute prägen. Dargestellt im Datenformat und verteilt über viele komplexe Datensätze, bezeichnet _Cycladophora_ auch in der Datenbank weniger einen einzelnen Organismus, und manchmal nicht einmal ein und dasselbe Objekt. Vielmehr macht gerade ihr relationaler Charakter die Datensätzen für Wissenschaftler:innen besonders nützlich. _Cycladophora davisiana_ bewegt sich zwischen unterschiedlichen wissenschaftlichen Sammlungen, Klassifikationen und Datenbanken und geht Verbindungen mit anderen Objekten, Entitäten, Organismen ein, was wieder neue Fragen aufwirft. Der wissenschaftliche Name vereint unter wechselnden Ordnungen eine Vielzahl von Objekten – was die Frage nach ‘Tieren als Objekten?’ verkompliziert und eine eindeutige Antwort erschwert.
 
-[^1]: “_Cycladophora davisiana_ Ehrenberg, 1862”. _Radiolaria.org_, no date, https://www.radiolaria.org/species.htm?division=13&sp_id=1 (03.01.2022).
+[^1]: “_Cycladophora davisiana_ Ehrenberg, 1862”. _Radiolaria.org_, ohne Datum, https://www.radiolaria.org/species.htm?division=13&sp_id=1 (03.01.2022).
 
 [^2]: Alexander Matul. “The Recent and Quaternary Distribution of the Radiolarian Species _Cycladophora davisiana_: A Biostratigraphic and Paleoceanographic Tool”. _Oceanology_ 51 (2011): 335-346. https://doi.org/10.1134/S0001437011020111.
 
