@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Deep Sea Drilling
 title_de: Aus den Böden der Tiefsee
 created: 1619107396222
-updated: 1642505835266
+updated: 1642851877714
 id: d76483c9-9cd4-454e-a737-fcdf683c6d0d
 author: Filippo Bertoni
 doi: 64y2-m311/59
@@ -42,7 +42,7 @@ published: false
 
 <figcaption>
 
-_The drillship JOIDES Resolution departing Honolulu, Hawaii at the beginning of IODP Expedition 321._
+_The drillship JOIDES Resolution departing Honolulu, Hawaii, at the beginning of IODP Expedition 321. (Image: William Crawford, IODP/TAMU)_
 
 </figcaption>
 
@@ -56,7 +56,7 @@ Surprisingly, much of the momentum that inspired techniques and infrastructures 
 
 <figcaption>
 
-_Willard Bascom’s original 1961 film produced under direction of the National Academy of Sciences. The film follows the first phase of Project Mohole, including the sea trials, experimental drilling, and major drilling tests off Guadalupe Island._ 
+_Willard Bascom’s original 1961 film was produced by the National Academy of Sciences. The film follows the first phase of Project Mohole, including the sea trials, experimental drilling, and major drilling tests off Guadalupe Island. (Source: NASEM/YouTube)_ 
 
 </figcaption>
 
@@ -94,7 +94,7 @@ For data to be mobilised to tell stories [[of microbes and planets|story.of-micr
 
 <figcaption>
 
-_Das Bohrschiff JOIDES Resolution bei der Ausfahrt aus Honolulu, Hawaii, zu Beginn der IODP Expedition 321._
+_Das Bohrschiff JOIDES Resolution bei der Ausfahrt aus Honolulu, Hawaii, zu Beginn der IODP Expedition 321. (Foto: William Crawford, IODP/TAMU)_
 
 </figcaption>
 
@@ -109,7 +109,7 @@ Interessanterweise kam die Inspiration für die Entwicklung von Techniken und Ve
 
 <figcaption>
 
-_Originalfilm von Willard Bascom aus dem Jahr 1961, produziert unter Federführung der National Academy of Sciences. Der Film zeigt Phase 1 des Project Mohole, darunter Erkundungsfahrten, Bohrexperimente und umfangreiche Probebohrungen vor der (240km westlich der mexikanischen Halbinsel Baja California im Pazifik gelegenen) Insel Guadalupe._
+_Originalfilm von Willard Bascom aus dem Jahr 1961, produziert unter Federführung der National Academy of Sciences. Der Film zeigt Phase 1 des Project Mohole, darunter Erkundungsfahrten, Bohrexperimente und umfangreiche Probebohrungen vor der (240km westlich der mexikanischen Halbinsel Baja California im Pazifik gelegenen) Insel Guadalupe. (Quelle: NASEM/YouTube)_
 
 </figcaption>
 
