@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Fossil Fuels
 title_de: Fossile Brennstoffe
 created: 1618493147480
-updated: 1642425511065
+updated: 1642853640744
 id: 7f5d84e2-6c42-454e-a7c5-f31db9960a70
 author: Filippo Bertoni
 doi: 64y2-m311/32
@@ -31,7 +31,7 @@ date_end: 2022-12-07T19:10:39.033Z
 
 <figcaption>
 
-_Products of petroleum refinery (Source: youtube)_
+_Still from the video “Petroleum – Modern history of oil on a Map” by Geo History (Source: YouTube)_
 
 </figcaption>
 
@@ -44,6 +44,10 @@ While petroleum (literally _rock oil_ in Latin) was already known and used in an
 But while most scientific and academic work had focused on macro fossils, it was from almost invisible [[microbial worlds|theme.microbial-worlds]] that the most important contributions to extractive industries were to come. Esther Applin, Alva Ellisor, and Hedwig Kniker, scientists employed by oil companies in the U.S., discovered the usefulness of microfossils, in particular of [[material.foraminifera]]. This discovery launched the success of [[industrial micropaleontology|story.industrial-micropaleontology]], which remains a crucial tool in the exploration, extraction, and exploitation of oil and its derivatives. **Paradoxically, the same tools of micropaleontology were instrumental, over the course of the 20th century, in demonstrating the adverse effects of the overconsumption of oil (and the plastics that are derived from it).** They could evidence the impact of oil consumption on planetary dynamics as well as its devastating contribution to climate change. Indeed, the adventures of [[micropaleontology at sea|story.micropaleontology-at-sea]] after the Second World War illustrated the interconnections [[of microbes and planets|story.of-microbes-and-planets]]. They shed light on the complex and vital roles played by microorganisms and cast a new light on the consequences of [[recirculating|theme.logistical-metabolisms]] the carbon accumulated below ground into the atmospheric cycles of our planet. But they also took part in shaping the socio-political regulatory infrastructures that struggle to mitigate climate change, and transform our use of fossil fuels to imagine and realise more sustainable futures.[^3]
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xMQUGSrnbP8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<figcaption>
+
+</figcaption>
 
 
 [^1]: To learn more about the complex history and uses of fossil fuels, visit “Oil Beauty and Horror in the Petrol Age”. _Kunstmuseum Wolfsburg_, 2021. https://www.kunstmuseum.de/en/exhibition/oil-beauty-and-horror-in-the-petrol-age/ (28.08.2021).
@@ -61,9 +65,11 @@ But while most scientific and academic work had focused on macro fossils, it was
 
 <figcaption>
 
-_Produkte der Erdölraffinerie (Quelle: YouTube)_
+_Videostill aus “Petroleum – Modern history of oil on a Map” von Geo History (Quelle: YouTube)_
 
 </figcaption>
+
+_“Petroleum – Modern history of oil on a Map”, an animated map showing the history of petroleum. (Source: Geo History/YouTube)_
 
 </figure>
 
@@ -74,6 +80,12 @@ Petroleum (wörtlich aus dem Lateinischen: Steinöl) war bereits in der Antike e
 Zwar befassten sich die meisten wissenschaftlichen Arbeiten in diesem Bereich mit Makrofossilien, viel wichtiger für die Rohstoffindustrie sollten jedoch die unsichtbaren [[mikrobieller Welten|theme.microbial-worlds]] werden. Esther Applin, Alva Ellisor und Hedwig Kniker, Wissenschaftlerinnen, die für US-Ölgesellschaften tätig waren, erkannten als erste den Nutzen von Mikrofossilien, insbesondere von [[material.foraminifera]]. Ihre Forschung legte den Grundstein für den Erfolg der [[industriellen Mikropaläontolgie|story.industrial-micropaleontology]], die bis heute zentral für die Prospektion, Exploration und Gewinnung von Erdöl und seiner Derivate ist. **Paradoxerweise trugen die Methoden der Mikropaläontologie im Laufe des 20. Jahrhunderts ebenfalls ganz entscheidend dazu bei, die negativen Auswirkungen des übermäßigen Verbrauchs von Erdöl (und der daraus gewonnenen Kunststoffe) aufzuzeigen.** Mit ihrer Hilfe ließ sich belegen, welche Auswirkungen der Erdölverbrauch auf die dynamischen Systeme des Planeten hat und auf welch verheerende Weise er zum Klimawandel beiträgt. Die Abenteuer der [[marinen Mikropaläontologie|story.micropaleontology-at-sea]] nach dem Zweiten Weltkrieg veranschaulichten schließlich die Wechselbeziehungen von [[Mikroben und Planeten|story.of-microbes-and-planets]]. Sie gaben Aufschluss über die komplexe und lebenswichtige Rolle von Mikroorganismen und verdeutlichten die Folgen der Freisetzung des unter der Erde lagernden Kohlenstoffs in die atmosphärischen [[Kreisläufe|theme.logistical-metabolisms]] unseres Planeten. Somit hatten sie auch Anteil an der Entwicklung gesellschaftspolitischer Regulierungswerke, durch die der Klimawandel eingedämmt und ein anderer Umgang mit fossilen Brennstoffen erreicht werden soll, sodass die Vision einer nachhaltigeren Zukunft Realität werden kann.[^3]
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xMQUGSrnbP8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<figcaption>
+
+_“Petroleum – Modern history of oil on a Map” (Quelle: Geo History/YouTube)_
+
+</figcaption>
 
 
 [^1]: Zur komplexen Geschichte und Verwendung fossiler Brennstoffe: “Oil Beauty and Horror in the Petrol Age”. _Kunstmuseum Wolfsburg_, 2021. https://www.kunstmuseum.de/en/exhibition/oil-beauty-and-horror-in-the-petrol-age/ (28.08.2021).
