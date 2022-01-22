@@ -14,7 +14,7 @@ cover_image:
 date_start: 1763-01-01T19:50:46.071Z
 feature: true
 title: Infusoria
-updated: 1642426061524
+updated: 1642850877720
 id: 5df12377-545a-45f9-9cd3-04fb8e499fb1
 doi: 64y2-m311/37
 translators:
@@ -34,7 +34,7 @@ tao_type: material
 
 <figcaption>
 
-_Source: YouTube_
+_Still from the video “The Microcosmos of the 1800s: The Story of Christian Gottfried Ehrenberg”. (Source: Journey to the Microcosmos/YouTube)_
 
 </figcaption>
 
@@ -46,7 +46,7 @@ Infusoria was the term used by early naturalists to describe microscopic organis
 
 <figcaption>
 
-_This video introduces infusoria through the massive collection of Ehrenberg’s fascinating illustrations held in the Museum für Naturkunde Berlin. It is part of the interesting series called “Journey to the microcosmos” available online for free here: https://www.youtube.com/c/microcosmos_
+_This video is part of a series on the microcosmos and introduces infusoria through the fascinating Ehrenberg Collection held at the Museum für Naturkunde Berlin. (Source: Journey to the Microcosmos/YouTube)_
 
 </figcaption>
 
@@ -61,7 +61,7 @@ _This video introduces infusoria through the massive collection of Ehrenberg’s
 
 <figcaption>
 
-_Quelle: YouTube_
+_Videostill aus “The Microcosmos of the 1800s: The Story of Christian Gottfried Ehrenberg”. (Quelle: Journey to the Microcosmos/YouTube)_
 
 </figcaption>
 
@@ -73,7 +73,7 @@ Infusorien war der Begriff, mit dem frühe Naturforschende mikroskopische Organi
 
 <figcaption>
 
-_Dieses Video stellt Infusorien anhand der umfangreichen Sammlung von Ehrenbergs faszinierenden Illustrationen vor, die im Museum für Naturkunde Berlin aufbewahrt werden. Es ist Teil der interessanten Reihe “Journey to the Microcosmos”, die kostenlos online verfügbar ist: https://www.youtube.com/channel/UCBbnbBWJtwsf0jLGUwX5Q3g_ 
+_Dieses Video stellt Infusorien anhand der umfangreichen Sammlung von Ehrenbergs faszinierenden Illustrationen vor, die im Museum für Naturkunde Berlin aufbewahrt werden. (Quelle: Journey to the Microcosmos/YouTube)_
 
 </figcaption>
 
