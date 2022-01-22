@@ -7,7 +7,7 @@ short_desc_de: "Verschollene Objekte und alte Kataloge "
 date_end: 2022-12-04T16:26:25.633Z
 published: false
 title: Untraceable
-updated: 1642600287242
+updated: 1642816618456
 id: abaNOPQjQqMhfMbhbhvm4
 doi: 64y2-m311/73
 translators:
@@ -89,7 +89,7 @@ The “young caiman” whose whereabouts remain unknown will stay one of the col
 
 [^7]: The ecological consequences of imperialism and colonialism were being examined as far back as in the 1980s. Cf. William Cronon. _Changes in the Land: Indians, Colonists, and the Ecology of New England_. New York: Hill and Wang, 1983; Alfred W. Crosby. _Ecological Imperialism: The Biological Expansion of Europe, 900-1900_. Cambridge: Cambridge University Press, 1986; Richard Grove. _Green Imperialism: Colonial Expansion, Tropical Island Edens and the Origins of Environmentalism, 1600-1860_. Cambridge: Cambridge University Press, 1995.
 
-[^8]: On the Tendaguru expeditions with regard to this problematic, see Mareike Vennen. “Dinosaurier in Berlin: Transformationen im Berliner Museum für Naturkunde, 1909-1937”. In _Dinosaurierfragmente: Zur Geschichte der Tendaguru-Expedition und ihrer Objekte, 1906-2018_. Göttingen: Wallstein, 2018: 166-191.
+[^8]: On the Tendaguru expeditions with regard to this problematic, see Mareike Vennen. “Dinosaurier in Berlin: Transformationen im Berliner Museum für Naturkunde, 1909-1937”. In _Dinosaurierfragmente: Zur Geschichte der Tendaguru-Expedition und ihrer Objekte, 1906-2018_. Ina Heumann, Holger Stoecker, Marco Tamborini, and Mareike Vennen (eds.). Göttingen: Wallstein, 2018: 166-191.
  
 :::DE:::
  
@@ -152,4 +152,4 @@ Der “junge Caiman”, über dessen Verbleib wir nichts wissen, bleibt vorerst 
 
 [^7]: Die ökologischen Folgen von Imperialismus und Kolonialismus wurden bereits in den 1980er Jahren untersucht. Vgl. William Cronon. _Changes in the Land: Indians, Colonists, and the Ecology of New England_. New York: Hill and Wang, 1983; Alfred W. Crosby. _Ecological Imperialism: The Biological Expansion of Europe, 900-1900_. Cambridge: Cambridge University Press, 1986; Richard Grove. _Green Imperialism: Colonial Expansion, Tropical Island Edens and the Origins of Environmentalism, 1600-1860_. Cambridge: Cambridge University Press, 1995.
 
-[^8]: Zur Tendaguru-Expeditionen im Hinblick auf diese Problematik vgl. Mareike Vennen. “Dinosaurier in Berlin: Transformationen im Berliner Museum für Naturkunde, 1909-1937”. In _Dinosaurierfragmente: Zur Geschichte der Tendaguru-Expedition und ihrer Objekte, 1906-2018_. Göttingen: Wallstein, 2018: 166-191.
+[^8]: Zur Tendaguru-Expeditionen im Hinblick auf diese Problematik vgl. Mareike Vennen. “Dinosaurier in Berlin: Transformationen im Berliner Museum für Naturkunde, 1909-1937”. In _Dinosaurierfragmente: Zur Geschichte der Tendaguru-Expedition und ihrer Objekte, 1906-2018_. Ina Heumann, Holger Stoecker, Marco Tamborini und Mareike Vennen (Hg.). Göttingen: Wallstein, 2018: 166-191.
