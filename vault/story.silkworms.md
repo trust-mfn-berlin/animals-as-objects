@@ -7,7 +7,7 @@ short_desc_de: Spuren von Bäumen und Tieren in Berlin
 date_end: 2022-08-26T14:37:08.305Z
 published: false
 title: Silkworms
-updated: 1642587624694
+updated: 1642852411232
 id: GDcruELihUsAdF7btC6KD
 doi: 64y2-m311/47
 translators:
@@ -44,7 +44,7 @@ date_start: 1703-01-01T23:07:09.241Z
  
 <figcaption>
  
-_Mulberry tree at the Museum für Naturkunde Berlin, 2021. (Image: Britta Lange. All rights reserved.)_
+_Mulberry tree at the Museum für Naturkunde Berlin, 2021. (Image: Britta Lange.)_
 
 </figcaption>
  
@@ -62,7 +62,7 @@ The collection manager of the Lepidoptera (butterfly and moth) collection, Viola
  
 <figcaption>
  
-_Old display case showing the developmental stages of_ Bombyx mori, _Berlin Museum of Natural History, Lepidoptera collection, 2020. (Image: Britta Lange. All rights reserved.)_
+_Old display case showing the developmental stages of_ Bombyx mori, _Berlin Museum of Natural History, Lepidoptera collection, 2020. (Image: Britta Lange)_
 
 </figcaption>
  
@@ -152,7 +152,7 @@ It was planted and maintained in connection with a settlement of French Huguenot
  
 <figcaption>
  
-_Mulberry trees at the French Cemetery in Berlin-Mitte, 2020. (Image: Britta Lange. All rights reserved.)_ 
+_Mulberry trees at the French Cemetery in Berlin-Mitte, 2020. (Image: Britta Lange)_ 
 
 </figcaption>
  
@@ -209,7 +209,7 @@ Completely unbeknownst to the city administration and the tree register, in cont
  
 <figcaption>
  
-_Maulbeerbaum am Museum für Naturkunde Berlin, 2021. (Foto: Britta Lange. Alle Rechte vorbehalten.)_
+_Maulbeerbaum am Museum für Naturkunde Berlin, 2021. (Foto: Britta Lange)_
 
 </figcaption>
  
@@ -227,7 +227,7 @@ Die Sammlungsmanagerin der Sammlung Lepidoptera (Schmetterlinge), Viola Richter,
  
 <figcaption>
  
-_Alter Schaukasten zu Entwicklungsstadien von_ Bombyx mori, _Museum für Naturkunde Berlin, Sammlung Lepidoptera, 2020. (Foto: Britta Lange. Alle Rechte vorbehalten.)_
+_Alter Schaukasten zu Entwicklungsstadien von_ Bombyx mori, _Museum für Naturkunde Berlin, Sammlung Lepidoptera, 2020. (Foto: Britta Lange)_
 
 </figcaption>
  
