@@ -3,13 +3,13 @@ title: Über uns
 ---
 ## Über diese Website
 
-_Tiere als Objekte?_ ist eine Publikation des Forschungsprojekts [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte). Diese Website präsentiert unsere Forschungsergebnisse in deutscher und englischer Sprache anhand ausgewählter Objekte, Geschichten und Tieren. Sie gibt vielstimmige Antworten auf die Frage, wie Tiere zu naturkundlichen Objekten und Daten gemacht wurden.
+*Tiere als Objekte?* ist eine Publikation des Forschungsprojekts [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum in Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte). Diese Website präsentiert unsere Forschungsergebnisse in deutscher und englischer Sprache anhand ausgewählter Objekte, Geschichten und Tieren. Sie gibt vielstimmige Antworten auf die Frage, wie Tiere zu naturkundlichen Objekten und Daten gemacht wurden.
 
 Die häufig für die Katalogisierung und das Management von naturkundlichen Sammlungen verwendeten relationalen Datenbanken dienten als Inspiration für das Konzept und die visuelle Gestaltung der Website. Deshalb beinhaltet die Webseite drei verschiedene Arten von Artikeln, die auf unterschiedliche und manchmal überraschende Weise miteinander verknüpft sind:
 
--   _**Material**_ legt den Fokus auf spezifische Fotos, Objekte, Dokumente, Ereignisse, usw.
--   _**Storys**_ liefern mithilfe von _**Material**_ und anderen Quellen Antworten auf kleine und große Forschungsfragen.
--   _**Themen**_ öffnen den Blick für den thematischen Rahmen und verbinden _**Storys**_ und _**Material**_.
+* ***Material*** legt den Fokus auf spezifische Fotos, Objekte, Dokumente, Ereignisse, usw.
+* ***Storys*** liefern mithilfe von ***Material*** und anderen Quellen Antworten auf kleine und große Forschungsfragen.
+* ***Themen*** öffnen den Blick für den thematischen Rahmen und verbinden ***Storys*** und ***Material***.
 
 Alle technischen Komponenten sind Open Source. Wir haben kollaborativ über [Dendron](https://www.dendron.so/) gearbeitet, über [git](https://git-scm.com/) synchronisiert und direkt aus git über eine selbst gehostete Version des Content-Management-Systems [Netlify](https://www.netlify.com/) veröffentlicht. 
 
@@ -17,7 +17,7 @@ Alle technischen Komponenten sind Open Source. Wir haben kollaborativ über [Den
 
 ## Über das Projekt
 
-Das Forschungsprojekt [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte) wurde vom Bundesministerium für Bildung und Forschung (BMBF) gefördert. Das Verbundprojekt des Museums für Naturkunde Berlin, der Humboldt-Universität zu Berlin und der Zoologischer Garten Berlin AG lief von September 2018 bis Dezember 2021. 
+Das Forschungsprojekt [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum in Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte) wurde vom Bundesministerium für Bildung und Forschung (BMBF) gefördert. Das Verbundprojekt des Museums für Naturkunde Berlin, der Humboldt-Universität zu Berlin und der Zoologischer Garten Berlin AG lief von September 2018 bis Dezember 2021. 
 
 ## Über die Personen
 
@@ -45,17 +45,15 @@ Therese Kienemund erwarb nach einem Bachelor-Abschluss und einem Teaching Scienc
 
 #### Britta Lange
 
-Britta Lange hat Kunst- und Kulturwissenschaften studiert. Sie wurde 2005 an der Humboldt-Universität zu Berlin mit einer Arbeit über Klischees von Fremden in Form von lebensgroßen ‘Völkertypen’ der Firma Umlauff (1868-1925) promoviert. Ihre Forschung über anthropologische Untersuchungen an Kriegsgefangenen während des Ersten Weltkriegs in Österreich und im Deutschen Reich sowie Tonaufnahmen, die mit ihnen gemacht wurden, begann sie als Postdoktorandin und setzte sie im Rahmen einer eigenen Stelle der DFG am Institut für Kulturwissenschaft der Humboldt-Universität zu Berlin fort. 2012 erhielt sie nach Einreichung ihrer Habilitationsschrift ebenda die _venia legendi_ für das Fach Kulturwissenschaft. Seit 2014 ist sie dort als wissenschaftliche Mitarbeiterin in Lehre und Forschung tätig. Zu ihren Forschungsschwerpunkten gehören Kulturgeschichte und Kulturtheorien des 18. bis 21. Jahrhunderts, Konzepte materieller Kulturen, des Sammelns und Ausstellens, Wissensgeschichte früher Foto-, Film- und Tondokumente, Kulturtechniken, koloniale und postkoloniale Konstellationen.
+Britta Lange hat Kunst- und Kulturwissenschaften studiert. Sie wurde 2005 an der Humboldt-Universität zu Berlin mit einer Arbeit über Klischees von Fremden in Form von lebensgroßen ‘Völkertypen’ der Firma Umlauff (1868-1925) promoviert. Ihre Forschung über anthropologische Untersuchungen an Kriegsgefangenen während des Ersten Weltkriegs in Österreich und im Deutschen Reich sowie Tonaufnahmen, die mit ihnen gemacht wurden, begann sie als Postdoktorandin und setzte sie im Rahmen einer eigenen Stelle der DFG am Institut für Kulturwissenschaft der Humboldt-Universität zu Berlin fort. 2012 erhielt sie nach Einreichung ihrer Habilitationsschrift ebenda die *venia legendi* für das Fach Kulturwissenschaft. Seit 2014 ist sie dort als wissenschaftliche Mitarbeiterin in Lehre und Forschung tätig. Zu ihren Forschungsschwerpunkten gehören Kulturgeschichte und Kulturtheorien des 18. bis 21. Jahrhunderts, Konzepte materieller Kulturen, des Sammelns und Ausstellens, Wissensgeschichte früher Foto-, Film- und Tondokumente, Kulturtechniken, koloniale und postkoloniale Konstellationen.
 
 #### Clemens Maier-Wolthausen
 
 Clemens Maier-Wolthausen studierte Geschichte in Berlin und Bergen/Norwegen mit den Schwerpunkten Europäische Geschichte und Holocaust-Studien. Zwischen 2003 und 2007 arbeitete er an seiner Dissertation über die Erinnerung an den Zweiten Weltkrieg in Skandinavien am Europäischen Hochschulinstitut in Florenz/Italien. Anschließend erforschte Clemens die Flucht deutscher Jüdinnen und Juden nach Schweden zwischen 1933 und 1945 und kuratierte eine Ausstellungsreihe zur deutsch-jüdischen Geschichte und zur Geschichte des Zweiten Weltkriegs. Seit 2015 arbeitet er für den Zoologischen Garten Berlin zur Geschichte der Zoos, jetzt auch im BMBF-Verbundprojekt “Tiere als Objekte”.
 
-
 #### Tahani Nadim
 
 Tahani Nadim ist Co-Leiterin des interdisziplinären Forschungsabteilung Humanities of Nature am Museum für Naturkunde Berlin. Sie ist Juniorprofessorin für Soziokulturelle Anthropologie am Institut für Europäische Ethnologie der Humboldt-Universität zu Berlin, wo sie auch Mitglied des Centre for Anthropological Research on Museums and Heritage (CARMAH) ist. Sie forscht zu Datenpolitiken, dem Verhältnis von Natur und Datenerfassung sowie den politischen und gesellschaftlichen Kontexten und Konsequenzen von Sammlungsdigitalisierung.
-
 
 #### Sebastian Riedel
 
@@ -67,8 +65,7 @@ Theresa Schatt studierte im Bachelor Kulturwissenschaft und Kunst-und Bildgeschi
 
 #### Sarina Schirmer
 
-Sarina Schirmer ist seit Januar 2021 studentische Mitarbeiterin im Projekt “Tiere als Objekte”. Neben ihrem Bachelorstudium der Geschichts- und Politikwissenschaften arbeitete sie bereits im interdisziplinären Forschungsverbund _Topoi_ sowie am Institut für Zeitgeschichte. Momentan schließt sie ihr Masterstudium der Geschichtswissenschaften an der Freien Universität Berlin ab. Ihre Interessen liegen dabei im Bereich der Global- und Umweltgeschichte, sowie der Wissensgeschichte.
-
+Sarina Schirmer ist seit Januar 2021 studentische Mitarbeiterin im Projekt “Tiere als Objekte”. Neben ihrem Bachelorstudium der Geschichts- und Politikwissenschaften arbeitete sie bereits im interdisziplinären Forschungsverbund *Topoi* sowie am Institut für Zeitgeschichte. Momentan schließt sie ihr Masterstudium der Geschichtswissenschaften an der Freien Universität Berlin ab. Ihre Interessen liegen dabei im Bereich der Global- und Umweltgeschichte, sowie der Wissensgeschichte.
 
 ### Mitwirkende
 
@@ -80,18 +77,21 @@ Catarina Madruga schloss ihre Promotion mit dem Titel “Taxonomy and Empire: Zo
 
 #### Lydia White
 
-[Lydia White]( https://www.lydiajwhite.com/) lebt in Wellington, Neuseeland, und ist Literaturwissenschaftlerin, Übersetzerin aus dem Deutschen und Englischen, Lektorin und Verlagsberaterin. Sie ist die Gewinnerin des 2021 Geisteswissenschaften International Nonfiction Translation Prize des
+[Lydia White](https://www.lydiajwhite.com/) lebt in Wellington, Neuseeland, und ist Literaturwissenschaftlerin, Übersetzerin aus dem Deutschen und Englischen, Lektorin und Verlagsberaterin. Sie ist die Gewinnerin des 2021 Geisteswissenschaften International Nonfiction Translation Prize des
 Deutschen Börsenvereins.
 
 #### Jan-Peter Herrmann
+
 Jan-Peter Herrmann ist freiberuflicher Übersetzer in Berlin. 
 
 ### Lektorat
 
 #### Jan-Peter Herrmann
-Jan-Peter Herrmann iat freiberuflicher Übersetzer in Berlin. 
+
+Jan-Peter Herrmann ist freiberuflicher Übersetzer in Berlin. 
 
 #### Carla Welch
+
 Carla Welch ist freiberufliche Übersetzerin und Lektorin in Regensburg.
 
 ### Design und Entwicklung
@@ -103,16 +103,20 @@ Carla Welch ist freiberufliche Übersetzerin und Lektorin in Regensburg.
 Trust arbeitete für dieses Projekt mit Son La Pham und Claire Tolan.
 
 #### Son La Pham
-Son La Pham lebt in Berlin und arbeitet als Grafikdesigner mit Schwerpunkt auf neuen Formen für Technologien und das Web. Seine digitalen Arbeiten wurden publiziert in _It’s Nice That_, [_Hoverstat_](https://www.hoverstat.es/), [_Loadmo_](https://loadmo.re/) and _Fonts In Use_.
+
+Son La Pham lebt in Berlin und arbeitet als Grafikdesigner mit Schwerpunkt auf neuen Formen für Technologien und das Web. Seine digitalen Arbeiten wurden publiziert in *It’s Nice That*, *[Hoverstat](https://www.hoverstat.es/)*, *[Loadmo](https://loadmo.re/)* and *Fonts In Use*.
 
 #### Claire Tolan
+
 Claire Tolan ist eine in Berlin lebende Künstlerin und Programmiererin, die sich auf die Erforschung der Interaktion zwischen Mensch und Computer, Online-Gemeinschaften (Intimität, Privatsphäre) sowie Informationsstrukturen und -theorie konzentriert.
 
-#### Rasmus Emanuel Svensson 
-Rasmus Emanuel Svensson ist Grafikdesigner und lebt in Berlin und Amsterdam, wo er (zusammen mit Hanna Nilsson) das Studio und den Verlag [PWR studio]( https://pwr.site/) gegründet hat. 
+#### Rasmus Emanuel Svensson
+
+Rasmus Emanuel Svensson ist Grafikdesigner und lebt in Berlin und Amsterdam, wo er (zusammen mit Hanna Nilsson) das Studio und den Verlag [PWR studio](https://pwr.site/) gegründet hat. 
 
 ### Web Editors
-[_bellu_&_bellu_](http://mbab.paqc.net/)
+
+[*bellu*&*bellu*](http://mbab.paqc.net/)
 
 ### Danksagung
 
@@ -130,6 +134,6 @@ Unterstützung bei Forschung in den Sammlungen: Oliver Coleman, Ferdinand Damasc
 
 Zoologische und historische Beratung: Heiner Klös, Ragnar Kühne, Andreas Ochs
 
-#### An der Humboldt Universität zu Berlin
+#### An der Humboldt-Universität zu Berlin
 
 Unterstützung bei Forschung in der Zoologischen Lehrsammlung: Ines Drescher, John Nyakatura, Gerhard Scholtz
