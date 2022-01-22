@@ -7,7 +7,7 @@ short_desc_de: Pfeilschwanzkrebse in der Sammlung und im Labor
 date_end: ""
 published: false
 title: The Worlds We Make
-updated: 1642815932242
+updated: 1642818975592
 id: 4npaIbpRAHygxSlfFDrj3
 doi: 64y2-m311/51
 translators:
@@ -48,7 +48,7 @@ At the Museum für Naturkunde Berlin, a specimen of a horseshoe crab [[preserved
 
 If the historical limulus specimens in the museum in Berlin were not originally destined for its collection, where did they come from, and what was their purpose? What routes did they take, and what can they tell us about the history of the collection?
 
-The specimens themselves offer a clue to their earlier function. Their specific [[preparation|material.jendaya-parakeet]] indicates that they were not meant to be part of a _research_ collection, like that of the natural history museum. Instead it points to their use as _teaching_ objects. Firstly, the specimens were literally cut and tailored to fit [[university teaching|material.common-seadragon]] requirements. Some consisted of isolated [[body parts|story.bobby-tracking-body-parts2]] that could be used to demonstrate an animal’s various functions or organs. In this case, the animal’s nervous system has been exposed.
+The specimens themselves offer a clue to their earlier function. Their specific preparation indicates that they were not meant to be part of a _research_ collection, like that of the natural history museum. Instead it points to their use as _teaching_ objects. Firstly, the specimens were literally cut and tailored to fit [[university teaching|material.common-seadragon]] requirements. Some consisted of isolated [[body parts|story.bobby-tracking-body-parts2]] that could be used to demonstrate an animal’s various functions or organs. In this case, the animal’s nervous system has been exposed.
 
 <figure>
 
@@ -283,7 +283,7 @@ Im Museum für Naturkunde Berlin befindet sich das [[Präparat|material.an-iguan
 ## Vom Aquarium über die Lehrsammlung ins Museum: Provenienzgeschichten
 
 Wenn die historischen Limulus-Präparate, die sich heute im Museum für Naturkunde Berlin befinden, ursprünglich nicht für dessen Sammlung bestimmt waren, woher stammen sie und was war ihr Zweck? Welche Wege haben sie im Laufe der Zeit zurückgelegt und was vermögen diese über die Sammlungsgeschichte auszusagen?
-Einen Hinweis auf ihre frühere Funktion liefern die [[Präparate|material.jendaya-parakeet]] selbst. Die Art der Zurichtung deutet darauf hin, dass es sich nicht um Objekte einer Forschungssammlung wie der des Museums handelt, sondern um [[Lehrobjekte|material.common-seadragon]]. Zum einen wurden Präparate für die [[universitäre Lehre|story.history-of-the-zoological-teaching-collection]] buchstäblich zugeschnitten oder bestanden aus [[isolierten Körperteilen|story.bobby-tracking-body-parts2]], um verschiedene Funktionen oder Organe eines Tieres zu demonstrieren. In diesem Fall sind bei manchen der Tiere bestimmte Körperpartien wie etwa das Nervensystem freigelegt.
+Einen Hinweis auf ihre frühere Funktion liefern die Präparate selbst. Die Art der Zurichtung deutet darauf hin, dass es sich nicht um Objekte einer Forschungssammlung wie der des Museums handelt, sondern um [[Lehrobjekte|material.common-seadragon]]. Zum einen wurden Präparate für die [[universitäre Lehre|story.history-of-the-zoological-teaching-collection]] buchstäblich zugeschnitten oder bestanden aus [[isolierten Körperteilen|story.bobby-tracking-body-parts2]], um verschiedene Funktionen oder Organe eines Tieres zu demonstrieren. In diesem Fall sind bei manchen der Tiere bestimmte Körperpartien wie etwa das Nervensystem freigelegt.
 
 <figure>
 
