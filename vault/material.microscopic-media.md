@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Microscopic Media
 title_de: Mikroskopische Medien
 created: 1618492963611
-updated: 1642455804924
+updated: 1642852139772
 id: fac2eded-a093-4ebf-986e-d94b045f7676
 author: Filippo Bertoni
 doi: 64y2-m311/60
@@ -41,7 +41,7 @@ published: false
 
 <figcaption>
 
-_The microscopy set up on micropaleontologist Johan Renaudie’s desk in the Museum für Naturkunde Berlin, showing a radiolarian slide collected during a [[deep sea drilling mission|story.deep-sea-drilling]] and its magnified image on the computer screen. (Image: Filippo Bertoni. All rights reserved.)_
+_The microscopy set up on micropaleontologist Johan Renaudie’s desk in the Museum für Naturkunde Berlin, showing a radiolarian slide collected during a [[deep sea drilling mission|story.deep-sea-drilling]] and its magnified image on the computer screen. (Image: Filippo Bertoni.)_
 
 </figcaption>
 
@@ -53,7 +53,7 @@ In order to explore the transformations of animals into objects that are at work
 
 <figcaption>
 
-_This episode of the beautiful webseries “Journey to the Microcosmos” (https://www.youtube.com/channel/UCBbnbBWJtwsf0jLGUwX5Q3g) illustrates four different techniques for optical microscopy; the different resulting images of the microscopic world they offer remind us of the importance of media in studying microorganisms, and the world at large. What we can see changes according to _how_ we see it._ 
+_This episode of the beautiful webseries “Journey to the Microcosmos” illustrates four different techniques for optical microscopy. The resulting images of the microscopic world remind us of the importance of media in studying microorganisms and the world at large. What we see changes how we see. (Source: Journey to the Microcosmos/YouTube)_ 
 
 </figcaption>
 
@@ -98,7 +98,7 @@ While benefiting from the lessons learned through these techniques, micropaleont
 
 <figcaption>
 
-_Auf einem Objektträger präparierte Radiolarien, die im Rahmen eines [[Deep-Sea-Drilling-Projekts|story.deep-sea-drilling]] gesammelt wurden, liegen zur Betrachtung unter dem Mikroskop des Mikropaläontologen Johan Renaudie am Museum für Naturkunde Berlin; dazu die entsprechende vergrößerte Ansicht auf dem Computerbildschirm. (Foto: Filippo Bertoni. Alle Rechte vorbehalten.)_
+_Auf einem Objektträger präparierte Radiolarien, die im Rahmen eines [[Deep-Sea-Drilling-Projekts|story.deep-sea-drilling]] gesammelt wurden, liegen zur Betrachtung unter dem Mikroskop des Mikropaläontologen Johan Renaudie am Museum für Naturkunde Berlin; dazu die entsprechende vergrößerte Ansicht auf dem Computerbildschirm. (Foto: Filippo Bertoni.)_
 
 </figcaption>
 
@@ -112,7 +112,7 @@ Hier wird einmal mehr deutlich, dass die Welt keine abgeschlossene, stabile und 
 
 <figcaption>
 
-_In dieser Folge der großartigen Web-Serie “Journey to the Microcosmos” (https://www.youtube.com/channel/UCBbnbBWJtwsf0jLGUwX5Q3g) werden vier verschiedene Verfahren der Lichtmikroskopie vorgestellt. Die jeweils unterschiedlichen Darstellungen des Mikrokosmos unterstreichen die zentrale Bedeutung von Medien und technischen Hilfsmitteln für die Erforschung von Mikroorganismen (und die Natur im Allgemeinen). Mit der Art und Weise,_ wie _wir etwas betrachten, verändert sich auch das, was wir sehen._
+_In dieser Folge der großartigen Web-Serie “Journey to the Microcosmos” werden vier verschiedene Verfahren der Lichtmikroskopie vorgestellt. Die jeweils unterschiedlichen Darstellungen des Mikrokosmos unterstreichen die zentrale Bedeutung von Medien und technischen Hilfsmitteln für die Erforschung von Mikroorganismen (und die Natur im Allgemeinen). Mit der Art und Weise,_ wie _wir etwas betrachten, verändert sich auch das, was wir sehen. (Source: Journey to the Microcosmos/YouTube)_
 
 </figcaption>
 
