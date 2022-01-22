@@ -4,7 +4,7 @@ title: “Bobby”. Tracking Body Parts
 title_de: “Bobby”. Eine Fundgeschichte
 created: 1640338390195
 author: Mareike Vennen
-updated: 1642814519095
+updated: 1642814796148
 id: 05XnJBaPUmIcfTWa4WMyb
 doi: 64y2-m311/52
 translators:
@@ -234,7 +234,7 @@ _Die Haut, die auf dem Sektionsfoto bereits abgezogen ist, wurde für die Dermop
 
 </figure>
 
-Während die Dermoplastik, die bis heute in der [Ausstellung|theme.putting-animals-on-display]] des Museums für Naturkunde Berlin gezeigt wird,[^2] weithin bekannt ist und während vom Prozess der Präparation bereits damals Bild- als auch Filmmaterial zirkulierte, wissen wir über die Sektion trotz der umfangreichen Dokumentation, die damals entstand, heute wenig, genau wie über die anschließende Verteilung der einzelnen Körperteile in unterschiedliche Sammlungen und Institutionen.
+Während die Dermoplastik, die bis heute in der [Ausstellung|theme.showing-animals]] des Museums für Naturkunde Berlin gezeigt wird,[^2] weithin bekannt ist und während vom Prozess der Präparation bereits damals Bild- als auch Filmmaterial zirkulierte, wissen wir über die Sektion trotz der umfangreichen Dokumentation, die damals entstand, heute wenig, genau wie über die anschließende Verteilung der einzelnen Körperteile in unterschiedliche Sammlungen und Institutionen.
 
 Dieser Text versteht sich als Versuch, eine weitgehend unbekannte Seite der Geschichte dieses berühmten Zootieres aus Archivbeständen und Sammlungsobjekten zu rekonstruieren. Ausgangspunkt ist der Fund des Sektionsprotokolls und anderer Dokumente aus den 1930er Jahren im Archiv des Museums für Naturkundem. Von dort aus führen Spuren in verschiedene Sammlungen, wo sich noch heute Präparate und Abgüsse einzelner Körperteile befinden. Es handelt sich hier also um eine – bislang noch lückenhafte – Fundgeschichte, die unterschiedliche Orte und Disziplinen verbindet und größere, teilweise sensible institutionelle, wissenschaftliche und sammlungspraktische Kontexte aufruft. Diesen Verbindungen im Einzelnen nachzugehen und tiefergehend zu untersuchen, was das Auffinden der Körperteile im Einzelnen bedeutet, steht noch aus. Fest steht, dass die Geschichte der wissenschaftlichen Verwertung von “Bobby” eine andere ist als die Ausstellungsgeschichte und seine [[populäre mediale Verwertung|material.the-gorilla-beast]] des Tieres.
 
