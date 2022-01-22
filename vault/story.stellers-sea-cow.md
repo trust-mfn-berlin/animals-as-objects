@@ -7,7 +7,7 @@ short_desc_de: Gejagt, entsorgt und wieder ausgegraben
 date_end: ""
 published: false
 title: Steller’s Sea Cow
-updated: 1642586340356
+updated: 1642854860917
 id: Q8UAdldubzw0uhkmmgER3
 doi: 64y2-m311/56
 translators:
@@ -146,7 +146,7 @@ Die Überreste menschlichen Verzehrs dienten indes nicht nur [[taxonomischen Stu
 
 Materielle Überreste von Seekühen sind dagegen – ebenso wie Originalzeichnungen[^15] – bis heute kaum überliefert. Ihr globales Inventar enthält nur etwa 20 Skelette, 62 Schädel und 550 Knochen, die in 51 Museen in 16 verschiedenen Ländern aufbewahrt werden.[^16] Das Berliner Naturkundemuseum besitzt bis heute keine Funde. Diese materielle Knappheit ist zu einem wesentlichen Merkmal der Geschichte der nordischen Seekuh geworden. Hier zeigt sich einmal mehr, wie eng die Frage, ob und wieviel Belege einer Art in naturkundlichen Sammlungen liegen, mit der jeweiligen Verwertungsgeschichte dieser Art zusammenhängt. Das zeigt nicht zuletzt Paul Matschies Rundgang durch die Säugetierausstellung im Berliner Museum von 1895: Der Seeelefant “bildet wegen seines hochgeschätzten Thranes, wegen seines Fleisches und wegen seiner Haut einen Gegenstand eifrigster Jagd. Besonders die Zunge dieses Thieres soll sehr gut schmecken”, so Matschie. Die daneben aufgestellten Eckzähne des Walrosses “werden vielfach wie Elfenbein verarbeitet”, während “der Seebär oder die Bärenrobbe das kostbare Pelzwerk ‘sealskin’ liefert”.[^17] Matschies Ausstellungsführer erscheint hier wie eine Art Warenkatalog, der die Vorzüge und den Wert der unterschiedlichen Objekte auflistet. Heute dient er als Archiv, das mit der Nutzung von Tieren durch den Menschen zugleich die Ausbeutung der Natur dokumentiert. Es mag daher auch nicht verwundern, dass sich unter den Säugetieren, die im 1889 neu eröffneten Museumsgebäude in Berlin ausgestellt waren, weitere Arten befanden, die damals vom Aussterben bedroht oder bereits vor kurzem ausgestorben waren. “_Otaria stelleri_, die Steller’sche Robbe gehört zu den Säugethieren, welche, wie das Zebra, Quagga, der Wisent, der Blässbock u.a., dem Aussterben nahe sind”,[^18] schrieb Matschie. Angesichts dieser Befunde drängt sich heute noch weit mehr als 1895 die Frage auf: Kommt der Tag, an dem die Biodiversität der Erde in den Sammlungen zu finden ist und nicht mehr in der Natur? Hinter den Tierpräparaten in Naturkundemuseen verbergen sich jedenfalls nicht nur Geschichten über das Sammeln, sondern auch Geschichten über das Verschwinden – und wie beides zusammenhängt. Sie bilden ein materielles Archiv der Artenvielfalt und des Aussterbens. Ihre eigene Rolle in dieser Geschichte zu reflektieren und neu zu definieren, gehört zu den Herausforderungen naturkundlicher Museen. 
 
-[^1]: Zur Einordnung dieser Zeichnung, vgl. http://www.hans-rothauscher.de/steller/seacow.htm.
+[^1]: Zur Einordnung dieser Zeichnung vgl. http://www.hans-rothauscher.de/steller/seacow.htm.
 
 [^2]: Das Tier ist weiterhin unter dem Namen Riesenseekuh bekannt und wurde früher auch Borkentier genannt.
 

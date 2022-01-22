@@ -7,7 +7,7 @@ short_desc_de: Foto von Magdalena Heinroth mit drei Dohlen
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Magdalena Heinroth
-updated: 1642008885385
+updated: 1642854518940
 id: 95617cbe-704d-46c1-b0b5-05d178ec363d
 doi: 64y2-m311/18
 translators:
@@ -44,7 +44,7 @@ Magdalena Heinroth (née Wiebe, 1883–1932) raised hundreds of native birds in 
 
 **Magdalena Wiebe studied taxidermy, among other subjects, at the Berlin Museum of Natural History.** It was also there that she met her future husband. Until her untimely death in 1932, she conducted research on birds, their molting, and breeding. An autodidact, Magdalena Heinroth wrote numerous articles on these subjects. Her work appeared in various publications, including the world’s oldest ornithological journal _Die gefiederte Welt_. To the public, however, she is known above all as her husband’s most important collaborator.
 
-[^1]: Karl Schulze-Hagen. _Die Vogel-WG: Die Heinroths, ihre 1000 Vögel und die Anfänge der Verhaltensforschung_. München: Knesebeck, 2020. On the work itself, cf. Karl Schulze-Hagen. “Das ‘Handbuch der Vögel Mitteleuropas’: Sein Stellenwert gestern, heute, morgen”. _Der Ornithologische Beobachter_ 110, Nr. 3 (2013): 231-248. Direct quotes have been translated into English for clarity’s sake.
+[^1]: Karl Schulze-Hagen. _Die Vogel-WG: Die Heinroths, ihre 1000 Vögel und die Anfänge der Verhaltensforschung_. München: Knesebeck, 2020. On the work itself cf. Karl Schulze-Hagen. “Das ‘Handbuch der Vögel Mitteleuropas’: Sein Stellenwert gestern, heute, morgen”. _Der Ornithologische Beobachter_ 110, Nr. 3 (2013): 231-248. Direct quotes have been translated into English for clarity’s sake.
 
 :::DE:::
 

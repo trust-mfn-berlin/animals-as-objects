@@ -533,7 +533,7 @@ In einer Zeit, in der visuelle Medien den Zugang zum Leben wildlebender Tiere in
 
 >“Als zentraler Identitätsmarker für Zoos eignet sich lediglich die Hediger-Säule ‘Erholung’. Da diese Vorgabe auf menschliche Interessen zielt, bleiben Zoos das, was sie schon immer waren: Unterhalt[ung]sbetriebe, in denen wilde Tiere – wie das Bundesnaturschutzgesetz trocken formuliert – ‘zwecks Zurschaustellung’ eingesperrt sind.”[^34]
 
-[^1]: Einführend zur Geschichte der Zootierhaltung, vgl. Vernon N. Kisling. “Ancient Collections and Menageries”. In _Zoo and Aquarium History: Ancient Animal Collections to Zoological Gardens_, Vernon N. Kisling (Hg.). Boca Raton: CRC Press, 2001: 1-47.
+[^1]: Einführend zur Geschichte der Zootierhaltung vgl. Vernon N. Kisling. “Ancient Collections and Menageries”. In _Zoo and Aquarium History: Ancient Animal Collections to Zoological Gardens_, Vernon N. Kisling (Hg.). Boca Raton: CRC Press, 2001: 1-47.
 
 [^2]: Elizabeth Hanson. _Animal Attractions: Nature on Display in American Zoos_. Princeton, N.J: Princeton University Press, 2002: 46; vgl. auch Wilfrid Blunt. _The Ark in the Park: The Zoo in the Nineteenth Century_. London: Hamish Hamilton, 1976: 25.
 
@@ -585,7 +585,7 @@ In einer Zeit, in der visuelle Medien den Zugang zum Leben wildlebender Tiere in
 
 [^26]: Jürg Meier. _Handbuch Zoo: Moderne Tiergartenbiologie_, 1. Auflage. Bern: Haupt Verlag, 2009: 115-120.
 
-[^27]: Stefan Hübner. “‘Die afrikanischen Elefanten sind unser Flaggschiff’: Thomas Kauffels erzählt von der Geschichte des Opel-Zoos”. _Hessischer Rundfunk_, 03.02.2021, https://www.hr2.de/podcasts/doppelkopf/die-afrikanischen-elefanten-sind-unser-flaggschiff--thomas-kauffels-erzaehlt-von-der-geschichte-des-opel-zoos,podcast-episode-82032.html (16.08.2021). Zur Definition von Flaggschiffarten, vgl. Meier, 2009: 121.
+[^27]: Stefan Hübner. “‘Die afrikanischen Elefanten sind unser Flaggschiff’: Thomas Kauffels erzählt von der Geschichte des Opel-Zoos”. _Hessischer Rundfunk_, 03.02.2021, https://www.hr2.de/podcasts/doppelkopf/die-afrikanischen-elefanten-sind-unser-flaggschiff--thomas-kauffels-erzaehlt-von-der-geschichte-des-opel-zoos,podcast-episode-82032.html (16.08.2021). Zur Definition von Flaggschiffarten vgl. Meier, 2009: 121.
 
 [^28]: Vgl. beispielsweise Volker Sommer. “Ein Etikettenschwindel”. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 35-38; Bob Mullan und Garry Marvin. _Zoo Culture_, 2. Aufl. Urbana, Chicago: University of Illinois Press, 1999; oder Hilal Sezgin. _Artgerecht ist nur die Freiheit: Eine Ethik für Tiere oder warum wir umdenken müssen_. München: Verlag C.H. Beck, 2014.
 

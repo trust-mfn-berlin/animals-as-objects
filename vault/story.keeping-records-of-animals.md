@@ -7,7 +7,7 @@ short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
 date_end: 2022-10-25T08:44:25.273Z
 published: false
 title: Keeping Records of Animals
-updated: 1642807085932
+updated: 1642854793691
 id: zrAZZTgVehO9zeVbW4dMX
 doi: 64y2-m311/30
 translators:
@@ -301,7 +301,7 @@ Die Nachwirkungen sind bis heute spürbar, nicht zuletzt bei dem Versuch, die He
  
 [^12]: Matschie schrieb: “Dass die Art ausgerottet ist, wage ich nicht zu behaupten, weil in China noch weite Gebiete unerforscht sind. Als Tauschobjekt das Fell und diesen Schädel zu verwerten, wird sehr schwer sein. Dann soll der Garten gegen Erstattung der Herrichtungskosten es lieber selbst versetzen.” Interne Notiz von Paul Matschie, 10.06.1914, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten.
  
-[^13]: Zu den Instruktionen des Naturkundemuseums, vgl. Martin Hinrich Lichtenstein. “Instructionen für die auswärtigen Reisenden und Sammler”. 1815, MfN, HBSB, Zool. Mus. S I, Instructionen für Sammler; vgl. auch Arthur MacGregor. _Naturalists in the Field: Collecting, Recording and Preserving the Natural World from the Fifteenth to the Twenty-First Century_. Leiden/Boston: Brill, 2018. 
+[^13]: Zu den Instruktionen des Naturkundemuseums vgl. Martin Hinrich Lichtenstein. “Instructionen für die auswärtigen Reisenden und Sammler”. 1815, MfN, HBSB, Zool. Mus. S I, Instructionen für Sammler; vgl. auch Arthur MacGregor. _Naturalists in the Field: Collecting, Recording and Preserving the Natural World from the Fifteenth to the Twenty-First Century_. Leiden/Boston: Brill, 2018. 
  
 [^14]: Das war einer der Gründe, weshalb Tiere, die von Sammelexpeditionen oder Sammler:innen im Feld stammten, vom Museum meist gegenüber Tieren aus Gefangenschaft bevorzugt wurden; vgl. P. Matschie 10.06.1914, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten.
  
