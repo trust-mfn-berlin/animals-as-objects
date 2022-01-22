@@ -7,7 +7,7 @@ short_desc_de: Spuren von Bäumen und Tieren in Berlin
 date_end: 2022-08-26T14:37:08.305Z
 published: false
 title: Silkworms
-updated: 1642852411232
+updated: 1642852829161
 id: GDcruELihUsAdF7btC6KD
 doi: 64y2-m311/47
 translators:
@@ -124,7 +124,7 @@ In 1854, after [[silk culture|story.silk-culture]] had gone through its boom in 
  
 <figcaption>
  
-_The red dots mark old mulberry trees in Berlin.[^18]_ 
+_The red dots mark old mulberry trees in Berlin.[^18] (Source: Senate of Berlin)_ 
 
 </figcaption>
  
@@ -289,7 +289,7 @@ Nachdem im 17. und 18. Jahrhundert die [[story.silk-culture]] in Preußen einen 
  
 <figcaption>
  
-_Die roten Punkte markieren alte Maulbeerbäume in Berlin.[^18]_ 
+_Die roten Punkte markieren alte Maulbeerbäume in Berlin.[^18] (Quelle: Senate of Berlin)_ 
 
 </figcaption>
  
@@ -303,7 +303,7 @@ Vielleicht am spektakulärsten ist jener alte Maulbeerbaum, der heute noch in ei
  
 <figcaption>
  
-_Alter Maulbeerbaum in Berlin-Mitte nahe dem Charité-Campus, 2020. (Foto: Britta Lange. Alle Rechte vorbehalten.)_ 
+_Alter Maulbeerbaum in Berlin-Mitte nahe dem Charité-Campus, 2020. (Foto: Britta Lange)_ 
 
 </figcaption>
  
@@ -317,7 +317,7 @@ Seine Pflanzung und Bewahrung stehen in Zusammenhang mit einer Siedlung für die
  
 <figcaption>
  
-_Maulbeerbäume auf dem französischen Friedhof in Berlin-Mitte, 2020. (Foto: Britta Lange. Alle Rechte vorbehalten.)_ 
+_Maulbeerbäume auf dem französischen Friedhof in Berlin-Mitte, 2020. (Foto: Britta Lange)_ 
 
 </figcaption>
  
