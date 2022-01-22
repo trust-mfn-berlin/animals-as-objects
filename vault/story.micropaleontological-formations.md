@@ -7,7 +7,7 @@ short_desc_de: Paläontologie mit dem Mikroskop
 date_end: 2022-12-06T11:40:11.857Z
 published: false
 title: Micropaleontological Formations
-updated: 1642708657921
+updated: 1642846989828
 id: df37d6fb-33ac-4b34-bc21-3401db3aac52
 doi: 64y2-m311/3
 translators:
@@ -45,7 +45,7 @@ date_start: 1853-12-31T23:06:32.000Z
 
 <figcaption>
 
-_Illustration of biostratigraphic formations. Source: Wikimedia_
+_Illustration of biostratigraphic formations. Source: Wikimedia (thin, [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/))_
 
 </figcaption>
 
@@ -68,7 +68,7 @@ The [[chaotic origins of micropaleontology|story.chaotic-origins-of-micropaleont
 
 <figcaption>
 
-_Illustration biostratigrafischer Formationen. Quelle: Wikimedia_
+_Illustration biostratigrafischer Formationen. Quelle: Wikimedia (thin, [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/))_
 
 </figcaption>
 
