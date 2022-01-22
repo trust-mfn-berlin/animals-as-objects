@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Core Samples
 title_de: Bohrkerne
 created: 1629110227049
-updated: 1642845859529
+updated: 1642848455409
 id: 02wCHNiTRZ4Zkq2cO9Cpv
 author: Filippo Bertoni
 doi: 64y2-m311/31
@@ -51,7 +51,7 @@ This commenced a concerted effort to gather samples for [[reconstructing the his
 
 <figcaption>
 
-_A video showing the work of collecting and studying core samples through [[material.radiolaria]] on board of the [[deep sea drilling|story.deep-sea-drilling]] vessel_ JOIDES Resolution. _(Source: The JOIDES Resolution/YouTube)_
+_A video showing the work of collecting and studying core samples through [[material.radiolaria]] on board of the deep sea drilling vessel_ [[JOIDES Resolution|story.deep-sea-drilling]]. _(Source: The JOIDES Resolution/YouTube)_
 
 
 </figcaption>
@@ -84,7 +84,7 @@ Dies setzte umfassende, konzertierte Bemühungen zum Sammeln von Proben für die
 
 <figcaption>
 
-_Ein Video, das den Prozess der Entnahme und Analyse von Kernproben mittels [[material.radiolaria]] an Bord des [[Tiefseebohrschiffes|story.deep-sea-drilling]]_ JOIDES Resolution _zeigt. (Quelle: The JOIDES Resolution/YouTube)_
+_Ein Video, das den Prozess der Entnahme und Analyse von Kernproben mittels [[material.radiolaria]] an Bord des Tiefseebohrschiffes_ [[JOIDES Resolution|story.deep-sea-drilling]] _zeigt. (Quelle: The JOIDES Resolution/YouTube)_
 
 </figcaption>
 
