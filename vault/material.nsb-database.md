@@ -7,7 +7,7 @@ short_desc_de: Eine umfangreiche Datenbank mikropaläontologischer Proben und Da
 date_end: 2022-12-07T18:44:00.147Z
 published: false
 title: NSB Database
-updated: 1642811754394
+updated: 1642851247359
 id: 384f2259-ec40-482d-bacc-c0876ae280aa
 doi: 64y2-m311/38
 translators:
@@ -45,7 +45,7 @@ The Neptune Sandbox Berlin database is the current implementation of the Neptune
 
 <figcaption>
 
-_This video illustrates the NSB database and its use in the Museum für Naturkunde Berlin._
+_This video illustrates the NSB database and its use in the Museum für Naturkunde Berlin. (Video: Filippo Bertoni, Copyright Museum für Naturkunde Berlin)_
 
 </figcaption>
 
@@ -76,7 +76,7 @@ Die Datenbank Neptune Sandbox Berlin ist die aktuelle Version der Neptun Datenba
 
 <figcaption>
 
-_Dieses Video veranschaulicht die NSB Datenbank und ihre Verwendung im Museum für Naturkunde._
+_Dieses Video veranschaulicht die NSB Datenbank und ihre Verwendung im Museum für Naturkunde. (Video: Filippo Bertoni, Copyright Museum für Naturkunde Berlin)_
 
 </figcaption>
 
