@@ -7,7 +7,7 @@ short_desc_de: Spuren von Bäumen und Tieren in Berlin
 date_end: 2022-08-26T14:37:08.305Z
 published: false
 title: Silkworms
-updated: 1642852829161
+updated: 1642854936468
 id: GDcruELihUsAdF7btC6KD
 doi: 64y2-m311/47
 translators:
@@ -138,7 +138,7 @@ Perhaps the most spectacular of these trees is the old mulberry tree that still 
  
 <figcaption>
  
-_Old mulberry tree in Berlin-Mitte near the Charité campus, 2020. (Image: Britta Lange. All rights reserved.)_ 
+_Old mulberry tree in Berlin-Mitte near the Charité campus, 2020. (Image: Britta Lange)_ 
 
 </figcaption>
  
