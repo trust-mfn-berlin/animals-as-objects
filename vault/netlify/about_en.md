@@ -3,13 +3,13 @@ title: About
 ---
 ## About the website
 
-_Animals as Objects?_ is published by the research project [Animals as Objects. Zoological Gardens and Natural History Museum Berlin, 1810 to 2020](https://www.museumfuernaturkunde.berlin/en/science/animals-objects). This website features research results in German and English on selected objects, histories, and animals. It presents multivocal answers to the question of how animals have been turned into natural history objects and data.
+*Animals as Objects?* is published by the research project [Animals as Objects. Zoological Gardens and Natural History Museum in Berlin, 1810 to 2020](https://www.museumfuernaturkunde.berlin/en/science/animals-objects). This website features research results in German and English on selected objects, histories, and animals. It presents multivocal answers to the question of how animals have been turned into natural history objects and data.
 
 Relational databases, the very databases that are often used to catalogue and manage natural history collections, inspired the conceptual and visual design of the website. Therefore, the website contains three different types of articles that are interconnected in diverse and sometimes surprising ways:
 
--   _Materials_ focus on specific photos, objects, documents, events, etc.
--   _Stories_ answer big and small research questions through _materials_ and other sources.
--   _Themes_ address the bigger picture that links different _stories_ and _materials_.
+* *Materials* focus on specific photos, objects, documents, events, etc.
+* *Stories* answer big and small research questions through *materials* and other sources.
+* *Themes* address the bigger picture that links different *stories* and *materials*.
 
 All technical components are open source. We worked collaboratively on [Dendron](https://www.dendron.so/), synchronised via [git](https://git-scm.com/), and published directly from git through a self-hosted version of the content management system [Netlify](https://www.netlify.com/). 
 
@@ -17,7 +17,7 @@ All technical components are open source. We worked collaboratively on [Dendron]
 
 ## About the project
 
-The research project [Animals as Objects. Zoological Gardens and Natural History Museum Berlin, 1810 to 2020](https://www.museumfuernaturkunde.berlin/en/science/animals-objects) was funded by the German Federal Ministry of Education and Research (BMBF). The joint project of the Museum für Naturkunde Berlin, the Humboldt University of Berlin and the Zoologischer Garten Berlin AG ran from September 2018 until December 2021.
+The research project [Animals as Objects. Zoological Gardens and Natural History Museum in Berlin, 1810 to 2020](https://www.museumfuernaturkunde.berlin/en/science/animals-objects) was funded by the German Federal Ministry of Education and Research (BMBF). The joint project of the Museum für Naturkunde Berlin, the Humboldt-Universität zu Berlin and the Zoologischer Garten Berlin AG ran from September 2018 until December 2021.
 
 ## About the people
 
@@ -29,7 +29,7 @@ Jenske Bal studied cultural anthropology and science and technology studies and 
 
 #### Gloria Bauer
 
-Gloria Baur holds a Bachelor’s degree in the History of Art and Visual History and German Literature from the Humboldt University of Berlin. She is currently completing her Master’s degree in the History of Art and Visual History. In 2017 Gloria completed an internship at the Historical Image and Document Collections of the Museum für Naturkunde Berlin. She worked as a student assistant in the project “Animals as Objects” from 2019 to 2020. Even before this work, Gloria had a great interest in taxidermy and its presentation in permanent collections. After her bachelor thesis on the taxidermist Hermann H. ter Meer, Gloria’s research interests shifted from taxidermied still life to moving images in the form of Italo-Westerns.
+Gloria Baur holds a Bachelor’s degree in the History of Art and Visual History and German Literature from the Humboldt-Universität zu Berlin. She is currently completing her Master’s degree in the History of Art and Visual History. In 2017 Gloria completed an internship at the Historical Image and Document Collections of the Museum für Naturkunde Berlin. She worked as a student assistant in the project “Animals as Objects” from 2019 to 2020. Even before this work, Gloria had a great interest in taxidermy and its presentation in permanent collections. After her bachelor thesis on the taxidermist Hermann H. ter Meer, Gloria’s research interests shifted from taxidermied still life to moving images in the form of Italo-Westerns.
 
 #### Filippo Bertoni
 
@@ -45,7 +45,7 @@ Therese Kienemund obtained a Master’s degree in the history of science from th
 
 #### Britta Lange
 
-Britta Lange studied art history and cultural studies. In 2005, she received her doctorate from Humboldt University in Berlin with a thesis on clichés of others in the life-size ethnographic models made by the company Umlauff (1868-1925). As a post-doc she investigated the anthropological studies carried out on prisoners of war in Austria and the German Empire during the First World War, especially the sound recordings. She continued this research as part of her own DFG position in the Department of Cultural History and Theory at the Humboldt University of Berlin. In 2012, she completed her habilitation and was awarded the _venia legendi_ for cultural studies. Since 2014 she has been teaching and researching as a research associate. Her research interests include the cultural history and cultural theories of the 18th to 21st centuries, concepts of material culture, collecting, and exhibiting; the history of the knowledge of early photographic, film, and sound documents; cultural techniques; and colonial and postcolonial constellations.
+Britta Lange studied art history and cultural studies. In 2005, she received her doctorate from the Humboldt-Universität zu Berlin with a thesis on clichés of others in the life-size ethnographic models made by the company Umlauff (1868-1925). As a post-doc she investigated the anthropological studies carried out on prisoners of war in Austria and the German Empire during the First World War, especially the sound recordings. She continued this research as part of her own DFG position in the Department of Cultural History and Theory at the Humboldt-Universität zu Berlin. In 2012, she completed her habilitation and was awarded the *venia legendi* for cultural studies. Since 2014 she has been teaching and researching as a research associate. Her research interests include the cultural history and cultural theories of the 18th to 21st centuries, concepts of material culture, collecting, and exhibiting; the history of the knowledge of early photographic, film, and sound documents; cultural techniques; and colonial and postcolonial constellations.
 
 #### Clemens Maier-Wolthausen
 
@@ -53,15 +53,15 @@ Clemens Maier-Wolthausen studied history in Berlin und Bergen/Norway with a focu
 
 #### Tahani Nadim
 
-Tahani Nadim co-heads the interdisciplinary research centre Humanities of Nature at the Museum für Naturkunde Berlin. She is a junior professor for socio-cultural anthropology at the Institute for European Ethnology at Humboldt University Berlin, where she is also a member of the Centre for Anthropological Research on Museums and Heritage (CARMAH). Her research focuses on data politics, the datafication of nature and the political and social contexts and consequences of collection digitization.
+Tahani Nadim co-heads the interdisciplinary research centre Humanities of Nature at the Museum für Naturkunde Berlin. She is a junior professor for socio-cultural anthropology at the Institute for European Ethnology at Humboldt-Universität zu Berlin, where she is also a member of the Centre for Anthropological Research on Museums and Heritage (CARMAH). Her research focuses on data politics, the datafication of nature and the political and social contexts and consequences of collection digitization.
 
 #### Sebastian Riedel
 
-Sebastian Riedel is completing his Master’s degree in Science Studies at the Humboldt University of Berlin after completing a Bachelor’s degree in Mathematics. Between November 2020 and February 2021, he completed an internship in the project “Animals as Objects” where he was particularly interested in reproduction and data practices in zoological gardens.
+Sebastian Riedel is completing his Master’s degree in Science Studies at the Humboldt-Universität zu Berlin after completing a Bachelor’s degree in Mathematics. Between November 2020 and February 2021, he completed an internship in the project “Animals as Objects” where he was particularly interested in reproduction and data practices in zoological gardens.
 
 #### Theresa Schatt
 
-Theresa Schatt studied Cultural Studies and Art and Visual History in her Bachelor's degree, and is currently completing her Masters in cultural studies at Humboldt University in Berlin. She has been a student assistant in the project “Animals as Objects” since 2019. In the context of her work for the project, her research interest lies especially with the cataloguing systems of the zoological teaching collection.
+Theresa Schatt studied Cultural Studies and Art and Visual History in her Bachelor's degree, and is currently completing her Masters in cultural studies at Humboldt-Universität zu Berlin. She has been a student assistant in the project “Animals as Objects” since 2019. In the context of her work for the project, her research interest lies especially with the cataloguing systems of the zoological teaching collection.
 
 #### Sarina Schirmer
 
@@ -77,17 +77,20 @@ Catarina Madruga completed her PhD “Taxonomy and Empire: Zoogeographical Resea
 
 #### Lydia White
 
-[Lydia White]( https://www.lydiajwhite.com/) is a Wellington-based literary studies scholar, German-English translator, editor, and publishing consultant. She is the winner of the Deutscher Börsenverein’s 2021 Geisteswissenschaften International Nonfiction Translation Prize.
+[Lydia White](https://www.lydiajwhite.com/) is a Wellington-based literary studies scholar, German-English translator, editor, and publishing consultant. She is the winner of the Deutscher Börsenverein’s 2021 Geisteswissenschaften International Nonfiction Translation Prize.
 
 #### Jan-Peter Herrmann
+
 Jan-Peter Herrmann is a freelance translator and copy-editor based in Berlin. 
 
-### Copy-editing
+### Copy-Editing
 
 #### Jan-Peter Herrmann
+
 Jan-Peter Herrmann is a freelance translator and copy-editor based in Berlin. 
 
 #### Carla Welch
+
 Carla Welch is a freelance translator and copy-editor based in Regensburg.
 
 ### Design and Development
@@ -99,16 +102,20 @@ Carla Welch is a freelance translator and copy-editor based in Regensburg.
 Trust worked with Son La Pham and Claire Tolan for this project.
 
 #### Son La Pham
-Son La Pham lives in Berlin and works as a graphic designer focusing on new forms for technologies and the web. His digital work has been published in _It’s Nice That_, [_Hoverstat_](https://www.hoverstat.es/), [_Loadmo_](https://loadmo.re/) and _Fonts In Use_.
+
+Son La Pham lives in Berlin and works as a graphic designer focusing on new forms for technologies and the web. His digital work has been published in *It’s Nice That*, *[Hoverstat](https://www.hoverstat.es/)*, *[Loadmo](https://loadmo.re/)* and *Fonts In Use*.
 
 #### Claire Tolan
+
 Claire Tolan is an artist and programmer based in Berlin, who focuses exploring human-computer interaction, online communities (intimacy, privacy), and information structures and theory.
 
-#### Rasmus Emanuel Svensson 
+#### Rasmus Emanuel Svensson
+
 Rasmus Emanuel Svensson is a graphic designer based in Berlin and Amsterdam where he founded (with Hanna Nilsson) [PWR studio](https://pwr.site/) and publishing house.
 
 ### Web Editors
-[_bellu_&_bellu_](http://mbab.paqc.net/)
+
+[*bellu*&*bellu*](http://mbab.paqc.net/)
 
 ### Acknowledgements
 
@@ -125,8 +132,7 @@ Research support in the collections: Oliver Coleman, Ferdinand Damaschun, Jason 
 #### At Zoologischer Garten Berlin
 
 Zoological and historical advice: Heiner Klös, Ragnar Kühne, Andreas Ochs
- 
-#### At Humboldt University Berlin
+
+#### At Humboldt-Universität zu Berlin
 
 Research support in the Zoological Teaching Collection: Ines Drescher, John Nyakatura, Gerhard Scholtz
-
