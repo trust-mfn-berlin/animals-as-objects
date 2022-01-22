@@ -7,7 +7,7 @@ short_desc_de: "Stoffwechselprozesse auf hoher See "
 date_end: 1844-12-30T23:50:39.000Z
 published: false
 title: From Pests to Displays
-updated: 1642812993608
+updated: 1642813215121
 id: 3YRSzijvbnQXZs4VO291j
 doi: 64y2-m311/71
 translators:
@@ -26,6 +26,13 @@ date_start: 1839-12-31T23:50:39.000Z
 ---
 
 :::EN:::
+
+<figure>
+
+![desc](/images/mv/from-pests.jpeg)
+
+</figure>
+
 
 What were the challenges naturalists in the mid-19th century encountered when transporting specimens and live animals by ship across the Atlantic? The story of the botanist Richard Schomburgk, who traveled with his collected plants and animals from British Guiana to Germany in 1844, offers some intriguing insights. Specifically, it sheds light on practices of care and disposal that emerged in the long-distance shipping of animals. Because during the passage, the use and value of animals and plants continuously changed depending on ever shifting [[metabolic relations|theme.logistical-metabolisms]]. These transformations evidence some of the paths – [[and detours|theme.how-do-animals-end-up-in-the-zoo]] – through which animals entered zoos and museums at the time.[^1] 
 
@@ -80,6 +87,12 @@ Tracing back their history to the mid-19th century can thus give us insights int
 
  
 :::DE:::
+
+<figure>
+
+![desc](/images/mv/from-pests.jpeg)
+
+</figure>
 
 Vor welchen Herausforderungen standen Forschungsreisende im 19. Jahrhundert bei der überseeischen Verschiffung von naturkundlichen Objekten und lebenden Tieren? Antworten auf diese Frage kann die Seereise des Botanikers Richard Schomburgk geben, der 1844 mitsamt all seinen gesammelten Pflanzen und Tieren von Britisch-Guayana nach Deutschland übersetzte. Diese Reise erlaubt Einblick in die Praktiken der Ver- und Entsorgung von Tieren und Pflanzen im Zusammenhang mit ihrer Verschiffung über lange Distanzen. Denn während des Transports der Lebewesen änderten sich ihr Nutzen und Wert beständig und zwar in Abhängigkeit von den Verhältnissen an Bord. Dabei ging es meist um Leben und Tod, in einem [[metabolischen Gefüge|theme.logistical-metabolisms]] aus Fressen und Gefressenwerden. Diese Prozesse sind wiederum Teil der [[Wege (und Umwege)|theme.how-do-animals-end-up-in-the-zoo]], über die Tiere damals in Zoos oder Museen gelangten.[^1]
 
