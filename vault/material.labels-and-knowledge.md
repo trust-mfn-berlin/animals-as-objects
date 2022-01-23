@@ -43,7 +43,7 @@ _A mobile thing of knowledge: In the 1920s and 1930s, labels like this were atta
 
 </figure>
 
-A discovery: a pile of old tags from Berlin Zoological Garden, most of them from the 1920s and 1930s, that had been filed in a folder in the archive of the Berlin Museum of Natural History containing letters that had been sent between the Zoological Museum and the Zoological Garden back then. These labels, which were attached to the animals as ‘accompanying documents’ when they left the zoo after their deaths, are material traces of the relationship between the zoo and the museum at the time. What can they tell us? 
+A discovery: a pile of old tags from Berlin Zoological Garden, most of them from the 1920s and 1930s, that had been filed in a folder in the archive of the Museum für Naturkunde Berlin containing letters that had been sent between the Zoological Museum and the Zoological Garden back then. These labels, which were attached to the animals as ‘accompanying documents’ when they left the zoo after their deaths, are material traces of the relationship between the zoo and the museum at the time. What can they tell us? 
 
 <figure>
 
@@ -51,7 +51,7 @@ A discovery: a pile of old tags from Berlin Zoological Garden, most of them from
 
 <figcaption>
 
-_Historical labels from the Zoological Garden in an archive folder in the Museum of Natural History: material traces of the history of the relationship between the zoo and the museum in Berlin. (MfN, HBSB, S004-02-05 Nr. 96, image: Sarina Schirmer. All rights reserved.)_
+_Historical labels from the Zoological Garden in an archive folder in the Museum für Naturkunde Berlin: material traces of the history of the relationship between the zoo and the museum in Berlin. (MfN, HBSB, S004-02-05 Nr. 96, image: Sarina Schirmer. All rights reserved.)_
 
 </figcaption>
 
@@ -169,7 +169,7 @@ Fund: Ein Stapel alter Anhänger aus dem Zoologischen Garten Berlin, die meisten
 
 <figcaption>
 
-_Historische Etiketten des Zoologischen Gartens in einem Archivordner des Naturkundemuseums: materielle Spuren der Beziehungsgeschichte zwischen Zoo und Museum in Berlin. (HBSB MfN, HBSB, S004-02-05 Nr. 96, Foto: Sarina Schirmer. Alle Rechte vorbehalten.)_
+_Historische Etiketten des Zoologischen Gartens in einem Archivordner des Museums für Naturkunde Berlin: materielle Spuren der Beziehungsgeschichte zwischen Zoo und Museum in Berlin. (HBSB MfN, HBSB, S004-02-05 Nr. 96, Foto: Sarina Schirmer. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
