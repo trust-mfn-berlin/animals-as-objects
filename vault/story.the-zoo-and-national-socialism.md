@@ -52,11 +52,9 @@ _Gateway to Berlin Zoo known as the Elephant Gate (Elefantentor), around 1938. (
 
 </figure>
 
-Was it really possible for the zoo – a nearly 100-year-old educational and recreational institution that displayed live animals for the purposes of education and entertainment – to serve the aims of National Socialism? Is it not a fundamental part of zoos’ constitutions that they are global phenomena and open to anyone who wants to learn? As will become evident, from 1933 onward, Berlin Zoo became a stage for colonialism and a site of racist exclusion, as well as an instrument of National Socialist propaganda.
+How could the zoo – a nearly 100-year-old educational and recreational institution that displayed live animals for the purposes of education and entertainment – serve the aims of National Socialism? As will become evident, from 1933 onward, Berlin Zoo became a stage for colonialism and a site of racist exclusion, as well as an instrument of National Socialist propaganda.
 
-After Adolf Hitler was appointed Chancellor of the German Reich on 30 January 1933, the new regime did everything in its power to permeate all areas of social life. To this end, it sought to exercise control over labor law, but especially to dominate in the spheres of culture and propaganda. Its agenda did not spare Berlin’s most popular educational and recreational institution, the Zoological Garden and its aquarium. The zoo was quick to accommodate National Socialist policy and its local representatives, Gauleiter of the National Socialist German Workers’ Party (NSDAP) Joseph Goebbels and National Socialist Prussian Prime Minister Hermann Göring. This was mainly down to the zoo’s management and supervisory board. Nazi policies affected every aspect of the zoo’s operation. The management and the public became involved in antisemitic policies; the German war of aggression and extermination allowed animals to be obtained from new sources; it affected exhibition practices and the selection of the animals to be displayed, and it altered how work was organised at the zoo. The exploitation of forced laborers also became an everyday practice.
-
-How could this happen? What were the determining factors?
+After Adolf Hitler was appointed Chancellor of the German Reich on 30 January 1933, the new regime did everything in its power to permeate all areas of social life. To this end, it sought to exercise control over labor law, but especially to dominate in the spheres of culture and propaganda. Its agenda encompassed Berlin’s most popular educational and recreational institution, the Zoological Garden and its aquarium. The zoo was quick to accommodate National Socialist policy and its local representatives, Gauleiter of the National Socialist German Workers’ Party (NSDAP) Joseph Goebbels and National Socialist Prussian Prime Minister Hermann Göring. This was mainly down to the zoo’s management and supervisory board. Nazi policies affected every aspect of the zoo’s operation. The management and the public became involved in antisemitic policies; the German war of aggression and extermination allowed animals to be obtained from new sources; it affected exhibition practices and the selection of the animals to be displayed, and it altered how work was organised at the zoo. The widespread exploitation of forced laborers also became an everyday practice.
 
 ## The Heck Family
 
@@ -78,13 +76,13 @@ From 1933 onward, the zoo also put the NSDAP’s antisemitic and racist policies
 
 <figcaption>
 
-_Georg Siegmann was expelled from the Supervisory Board and murdered by the National Socialists despite his service to the zoo. (Drawing: Filippo Bertoni)_
+_Georg Siegmann was expelled from the Supervisory Board and murdered by the National Socialists. (Drawing: Filippo Bertoni)_
 
 </figcaption>
 
 </figure>
 
-During this period, vacancies on the Supervisory Board were immediately filled by National Socialist candidates, such as the last governor of the German colony of Togo, Adolf Friedrich of Mecklenburg, SS Brigadeführer Ewald von Massow, and the racist anthropologist and pioneer of National Socialist racial theories Eugen Fischer.[^11] Georg Siegmann and his wife Helene were deported to the concentration camp at Theresienstadt and from here taken to Auschwitz, where they were murdered. Walter Simon and his wife were deported to Riga, where they too were both murdered.
+During this period, vacancies on the Supervisory Board were immediately filled by National Socialist candidates, such as the last governor of the German colony of Togo, Adolf Friedrich of Mecklenburg, SS Brigadeführer Ewald von Massow, and the racist anthropologist and pioneer of National Socialist racial theories Eugen Fischer.[^11] Georg Siegmann and his wife Helene were deported to the concentration camp at Theresienstadt and from here taken to Auschwitz, where they were murdered. Walter Simon and his wife were deported to Riga, where they were both murdered.
 
 <figure>
 
@@ -128,9 +126,9 @@ _Entry ticket for “Kraft durch Freude” Day at the zoo, 1936. (AZGB. All righ
 
 </figure>
 
-Lutz Heck for his part used the political climate to serve his own colonial revisionist ambitions. In 1933, he sponsored a “Colonial Art Exhibition” in the zoo’s exhibition halls, where he displayed a replica of the encampments built for his animal trapping expeditions in Eastern Africa.[^14] In 1927/28, the animals he captured included giraffes from the former colony of German East Africa, the territory of Tanganyika subsequently ruled by the British. In the summer of 1934, the zoo commemorated Colonial Remembrance Day by hosting a “Kolonialer Volkstag” or “Colonial Day of the People”. A press tour took reporters to see “German Colonial Animals” – meaning animals from former German colonies. In 1937, the zoo celebrated a “Colonial Festival” under a slogan “Everyone should visit Africa once”.[^15]
+Lutz Heck for his part used the political climate to serve his own [[colonial|material.purchased-from-a-caravan]] revisionist ambitions. In 1933, he sponsored a “Colonial Art Exhibition” in the zoo’s exhibition halls, where he displayed a replica of the encampments built for his animal trapping expeditions in Eastern Africa.[^14] In 1927/28, the animals he captured included giraffes from the former colony of German East Africa, the territory of Tanganyika subsequently ruled by the British. In the summer of 1934, the zoo commemorated Colonial Remembrance Day by hosting a “Kolonialer Volkstag” or “Colonial Day of the People”. A press tour took reporters to see “German Colonial Animals” – meaning animals from former German colonies. In 1937, the zoo celebrated a “Colonial Festival” under a slogan “Everyone should visit Africa once”.[^15]
 
-In 1936, in time for the Summer Olympics in Berlin, the zoo opened a 2,000-square-meter lion steppe, which was a real crowd puller. 1936 also brought the many additional tourists who had travelled to Berlin for the Games, thanks to whom the zoo enjoyed a record attendance of more than two million paying guests that year.[^16] Berlin Zoo participated in the elaborate propaganda orchestrated for the Games, and provided animals for the Olympic Village, which housed the athletes’ living quarters, supplying native waterfowl and fallow deer to frolic around a central pond.
+In 1936, in time for the Summer Olympics in Berlin, the zoo opened a 2,000-square-meter lion steppe. 1936 also brought the many additional tourists who had travelled to Berlin for the Games, thanks to whom the zoo enjoyed a record attendance of more than two million paying guests that year.[^16] Berlin Zoo participated in the elaborate propaganda orchestrated for the Games, and provided animals for the Olympic Village, which housed the athletes’ living quarters, supplying native waterfowl and fallow deer to frolic around a central pond.
 
 At the behest of Prussian Prime Minister Hermann Göring, the zoo was finally granted an extension to its grounds on the edge of the Tiergarten park in August 1935. The police and the Reiter-SA (Sturmabteilung) had initially objected, as the extension would have narrowed a bridle path, but Göring’s wishes were ultimately fulfilled.[^17] Heck used the new strip of land for large enclosures housing ‘native animal species’. ‘German’ predators, such as wolves and bears, were displayed alongside ‘German birds of prey’, such as eagles and buzzards. For propaganda purposes, it was of no relevance that all of these animals were also to be found in neighbouring countries of the German Reich, and that some, like the bear, no longer even existed in Germany. Their framing as ‘German animals’ worked to legitimise the National Socialists’ policy of expansion.[^18] [[Native livestock|material.lions-or-cows]] were displayed in a replica barn, and were also instrumentalised for propaganda purposes: the display was intended to show that humans and animals had supposedly lived “in intimate proximity” to each other in the “older German homesteads”.[^19] Rustic architecture in the style of northern German farmhouses was a “propagandistic symbol of a connection to the peasant class and the native soil. The carved gable \[of a barn] honored the ‘Führer’s’ care for the German farmer. The blood-and-soil ideology here \[was] unmistakable.”[^20]
 
@@ -435,11 +433,9 @@ _Elefantentor genannter Eingang des Berliner Zoos um 1938. (AZGB. Alle Rechte vo
 
 </figure>
 
-Konnte eine beinahe 100 Jahre alte Bildungs- und Freizeiteinrichtung, deren Funktion die Ausstellung lebender Tiere zur Bildung und Unterhaltung war, nationalsozialistischen Zielen dienen? Sind Zoos in ihrer grundsätzlichen Verfasstheit nicht globale Phänomene und offen für alle Bildungssuchenden? Wie zu sehen sein wird, wurde der Berliner Zoo ab 1933 koloniale Bühne und Ort rassistischer Exklusion sowie Instrument nationalsozialistischer Propaganda.
+Wie konnte eine beinahe 100 Jahre alte Bildungs- und Freizeiteinrichtung, deren Funktion die Ausstellung lebender Tiere zur Bildung und Unterhaltung war, nationalsozialistischen Zielen dienen? Wie zu sehen sein wird, wurde der Berliner Zoo ab 1933 koloniale Bühne und Ort rassistischer Exklusion sowie Instrument nationalsozialistischer Propaganda.
 
 Nachdem Adolf Hitler am 30. Januar 1933 zum Reichskanzler ernannt worden war, versuchte das neue Regime mit aller Macht sämtliche Gesellschaftsbereiche zu durchdringen. Dabei ging es um die Kontrolle im arbeitsrechtlichen, insbesondere aber im kulturellen und propagandistischen Sinn. Davon war auch der besucherstärkste Bildungs- und Freizeitbetrieb Berlins, der Zoologische Garten und sein Aquarium, nicht verschont. Die Anpassung an die Politik der Nationalsozialisten und ihrer lokalen Vertreter, Gauleiter der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP) Joseph Goebbels und der nationalsozialistische preußische Ministerpräsident Hermann Göring, ging im Zoo rasch voran. Das lag vor allem an der Zooleitung und den Mitgliedern des Aufsichtsrats. Die nationalsozialistische Politik wirkte sich auf alle Bereiche des Zoobetriebs aus – die Leitungsebene und das Publikum wurden in die antisemitische Politik einbezogen, der deutsche Angriffs- und Vernichtungskrieg brachte neue Tierquellen, die Ausstellungspraxis und das Programm der ausgestellten Tiere änderten sich, Arbeitsabläufe wurden durch den Krieg verändert. Die Ausbeutung von Zwangsarbeitern wurde auch im Zoo Alltag.
-
-Wie konnte das geschehen und was waren die bestimmenden Faktoren?
 
 ## Die Familie Heck
 
@@ -461,7 +457,7 @@ Auch die judenfeindliche und rassistische Politik der NSDAP wurde ab 1933 im Zoo
 
 <figcaption>
 
-_Georg Siegmann wurde trotz seiner Verdienste aus dem Aufsichtsrat vertrieben und von den Nationalsozialisten ermordet. (Zeichnung: Filippo Bertoni)_
+_Georg Siegmann wurde aus dem Aufsichtsrat ausgeschlossen und von den Nationalsozialisten ermordet. (Zeichnung: Filippo Bertoni)_
 
 </figcaption>
 
@@ -511,7 +507,7 @@ _Eintrittskarte für den “Kraft durch Freude”-Tag im Zoo, 1936. (AZGB. Alle 
 
 </figure>
 
-Lutz Heck nutzte seinerseits das politische Klima für seine kolonialrevisionistischen Ambitionen. 1933 unterstützte er eine “Kolonial-Kunst-Ausstellung” in den Ausstellungshallen am Zoo, wo er einen Nachbau des Zeltlagers seiner Expeditionen ins östliche Afrika für den Fang von Wildtieren zeigte.[^14] 1927/28 hatte er für den Zoo unter anderem Giraffen in der ehemaligen deutschen Kolonie Deutsch-Ostafrika und nun durch Großbritannien beherrschten Tanganyika-Territory gefangen. Im Sommer 1934 veranstaltete der Zoo zum Kolonialgedenktag einen “Kolonialen Volkstag”. In einer Presseführung wurden die Reporter:innen zu “Deutschen Kolonialtieren” geführt – also Tieren aus den ehemaligen deutschen Kolonien. 1937 feierte der Zoo ein “Kolonialfest” unter dem Motto “Jeder mal in Afrika”.[^15]
+Lutz Heck nutzte seinerseits das politische Klima für seine [[kolonialrevisionistischen|material.purchased-from-a-caravan]] Ambitionen. 1933 unterstützte er eine “Kolonial-Kunst-Ausstellung” in den Ausstellungshallen am Zoo, wo er einen Nachbau des Zeltlagers seiner Expeditionen ins östliche Afrika für den Fang von Wildtieren zeigte.[^14] 1927/28 hatte er für den Zoo unter anderem Giraffen in der ehemaligen deutschen Kolonie Deutsch-Ostafrika und nun durch Großbritannien beherrschten Tanganyika-Territory gefangen. Im Sommer 1934 veranstaltete der Zoo zum Kolonialgedenktag einen “Kolonialen Volkstag”. In einer Presseführung wurden die Reporter:innen zu “Deutschen Kolonialtieren” geführt – also Tieren aus den ehemaligen deutschen Kolonien. 1937 feierte der Zoo ein “Kolonialfest” unter dem Motto “Jeder mal in Afrika”.[^15]
 
 Rechtzeitig zu den Olympischen Sommerspielen in Berlin 1936 eröffnete der Zoo eine 2.000 Quadratmeter große Löwensteppe – ein Publikumsmagnet. Hinzu kamen 1936 die vielen Berlintourist:innen, die zu den Olympischen Spielen angereist waren. Sie bescherten dem Zoo einen Besucher:innenrekord von mehr als zwei Millionen zahlenden Gästen.[^16] <!--Insert sentence about the zoo’s narrative of financial recovery from “Bobby” death, once ready!--> **Der Zoo beteiligte sich an der aufwendigen Propaganda für die Spiele und stellte Tiere für das Olympische Dorf, in dem die Athletinnen und Athleten lebten, zur Verfügung.** Rund um einen zentralen Teich tummelten sich dort einheimische Wasservögel und Damwild aus dem Zoo.
 
