@@ -415,7 +415,7 @@ Zoos are certainly also compatible with other regimes and social systems – eve
 
 [^45]: Recollections of Elisabeth Johst, AZGB S 15/27; K. Heinroth to W. Keller, 18.09.1945, AZGB O 0/1/87; K. Heinroth to G. Freytag, 03.01.1946, AZGB O 0/1/86.
 
-[^46]: Recollections of Elisabeth Johst, AZGB S 15/27; K. Heinroth to W. Keller, 18.09.1945, AZGB O 0/1/87; K. Heinroth to G. Freytag, 03.01.1946, AZGB O 0/1/86.
+[^46]: Ibid.
 
 [^47]: K. Heinroth: “Kriegszerstörungen und Aufbau von 1945 bis 1956 im Berliner Zoologischen Garten”, typewritten manuscript, AZGB N 4/2.
 
@@ -799,7 +799,7 @@ Zwar sind Zoos auch in anderen Regimen und Gesellschaftsformen anschlussfähig �
 
 [^45]: Erinnerungen von Elisabeth Johst, AZGB S 15/27; K. Heinroth an W. Keller, 18.09.1945, AZGB O 0/1/87; K. Heinroth an G. Freytag, 03.01.1946, AZGB O 0/1/86.
 
-[^46]: Erinnerungen von Elisabeth Johst, AZGB S 15/27; K. Heinroth an W. Keller, 18.09.1945, AZGB O 0/1/87; K. Heinroth an G. Freytag, 03.01.1946, AZGB O 0/1/86.
+[^46]: Ebd.
 
 [^47]: K. Heinroth: “Kriegszerstörungen und Aufbau von 1945 bis 1956 im Berliner Zoologischen Garten”, maschinenschriftliches Manuskript, AZGB N 4/2.
 
