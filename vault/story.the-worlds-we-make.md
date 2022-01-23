@@ -305,7 +305,7 @@ Bei anderen sind einzelne Organe extrahiert.
 
 <figcaption>
 
-_Herz und Gefäße eines Pfeilschwanzkrebses sind beim Präparat ZMB 32114 isoliert. Das Tier stammt aus dem (Berliner?) Aquarium, war vermutlich zunächst Teil der zoologischen Lehrsammlung und wird heute im Museum für Naturkunde aufbewahrt. (MfN, ZMB 32114. Foto: Carola Radke/MfN. Alle Rechte vorbehalten.)_
+_Herz und Gefäße eines Pfeilschwanzkrebses sind beim Präparat ‘ZMB 32114’ isoliert. Das Tier stammt aus dem (Berliner?) Aquarium, war vermutlich zunächst Teil der zoologischen Lehrsammlung und wird heute im Museum für Naturkunde aufbewahrt. (MfN, ZMB 32114. Foto: Carola Radke/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
