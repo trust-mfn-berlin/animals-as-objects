@@ -58,7 +58,7 @@ After dissection, the bird was immediately deep frozen and tagged with the lette
 
 <figcaption>
 
-_Data sheet and instruments for measuring the specimen, obtaining the skin, and preparing the partial skeleton. (Image: Filippo Bertoni/MfN. All rights reserved.)_
+_Data sheet and instruments for measuring the specimen, obtaining the skin, and preparing the partial skeleton (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -125,7 +125,7 @@ While the remaining tissue is removed and later professionally [[disposed|materi
 
 <figcaption>
 
-_A water bath with Supralan and salt to clean the skin and any potentially dirty feathers. (Image: Filippo Bertoni/MfN. All rights reserved.)_
+_A water bath with Supralan and salt to clean the skin and any potentially dirty feathers (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -217,7 +217,7 @@ In order to produce a partial skeleton, the original bird body now has to be com
 
 <figcaption>
 
-_Producing a partial skeleton inside a warming cabinet with the help of dermestid beetles. (Image: Filippo Bertoni/MfN. All rights reserved.)_
+_Producing a partial skeleton inside a warming cabinet with the help of dermestid beetles (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -271,7 +271,7 @@ In the end, the bird was entered into the collection database under the inventor
 
 <figcaption>
 
-_Storing and classifying the partial skeleton in the collection. (Image: Mareike Vennen/MfN. All rights reserved.)_
+_Storing and classifying the partial skeleton in the collection (Image: Mareike Vennen/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -305,7 +305,7 @@ _Storing and classifying the partial skeleton in the collection. (Image: Mareike
 
 <figcaption>
 
-_Vogelbälge auf dem Weg in die Sammlung. (Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
+_Vogelbälge auf dem Weg in die Sammlung (Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -333,7 +333,7 @@ Nach der Sektion wurde der Vogel umgehend tiefgefroren und mit dem Vermerk ‘MF
 
 <figcaption>
 
-_Datenblatt und Instrumente zur Vermessung, Hautgewinnung und Teilskelettbearbeitung. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
+_Datenblatt und Instrumente zur Vermessung, Hautgewinnung und Teilskelettbearbeitung (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -345,7 +345,7 @@ _Datenblatt und Instrumente zur Vermessung, Hautgewinnung und Teilskelettbearbei
 
 <figcaption>
 
-_Vermessung des Vogelkörpers. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
+_Vermessung des Vogelkörpers (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -359,7 +359,7 @@ Für jedes Tier wird ein solches [[Datenblatt|material.logbooks-of-the-zoologica
 
 <figcaption>
 
-_Datenblatt, dessen Informationen später in den Sammlungskatalog übertragen werden. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
+_Datenblatt, dessen Informationen später in den Sammlungskatalog übertragen werden (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -459,7 +459,7 @@ Eine Metallstange, die unten in den Holzwollkörper gesteckt wurde, diente als G
 
 <figcaption>
 
-_Nasser Vogelbalg mit eingesetztem Holzwollkörper und Metallstab als Griff. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
+_Nasser Vogelbalg mit eingesetztem Holzwollkörper und Metallstab als Griff (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -479,7 +479,7 @@ Nach dem Trockenföhnen des Gefieders mussten die Federn in mehrstündiger Arbei
 
 <figcaption>
 
-_Trockenföhnen und Federn legen. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
+_Trockenföhnen und Federn legen (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -493,7 +493,7 @@ Für die Herstellung des Teilskeletts musste nun auch der originale Vogelkörper
 
 <figcaption>
 
-_Herstellung des Teilskelettes mithilfe von Speckkäfern in einem Wärmeschrank. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
+_Herstellung des Teilskelettes mithilfe von Speckkäfern in einem Wärmeschrank (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -507,7 +507,7 @@ Daraufhin wurde das Skelett noch einmal eingefroren (um möglicherweise auf und 
 
 <figcaption>
 
-_Vogelbälge auf dem Weg in die Sammlung. (Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
+_Vogelbälge auf dem Weg in die Sammlung (Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -533,7 +533,7 @@ _In der Vogelsammlung wird der Balg in die Datenbank eingetragen. (Foto: Mareike
 
 <figcaption>
 
-_Etikett zur Identifizierung des Balgs. (Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
+_Etikett zur Identifizierung des Balgs (Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -547,7 +547,7 @@ Am Ende ist dieser Vogel unter der Inventarnummer ‘ZMB 2021.171’ in der Samm
 
 <figcaption>
 
-_Einordnen des Teilskelett in die Sammlung. (Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
+_Einordnen des Teilskelett in die Sammlung (Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
