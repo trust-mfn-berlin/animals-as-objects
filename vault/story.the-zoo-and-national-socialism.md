@@ -401,25 +401,25 @@ Zoos are certainly also compatible with other regimes and social systems – eve
 [^37]: Cf. Andreas Gautschi. *Der Reichsjägermeister: Fakten und Legenden um Hermann Göring*. Melsungen: Nimrod, 2010; Heinrich Rubner. *Deutsche Forstgeschichte, 1933-1945: Forstwirtschaft, Jagd und Umwelt im NS-Staat*. St. Katharinen: Scripta Mercaturae, 1997; copy of the agreement between the headquarters of the Reichskommissar für die Festigung deutschen Volkstums, the Reich Commissioner for the consolidation of German nationalism, and the Reichsforstmeister as Oberster Naturschutzbehörde, head of the highest nature conservation authority, on the execution of the meeting of 20 March 1942, 11.05.1942, BArch, R 49/2066; correspondence with the British Commandant Tiergarten Lt. Col. Nunn in December 1945, AZGB S 15/17; old animal index card, index card “Panjepferde”. (The gendered German word for ‘scientists’ in the original of this article indicates that both scientists were men.)
 
 
-[^39]: Minutes of General Assembly, 1942, AZGB O 0/3/12.
+[^38]: Minutes of General Assembly, 1942, AZGB O 0/3/12.
 
-[^40]: Cf. Maier-Wolthausen, 2019: 126-127.
+[^39]: Cf. Maier-Wolthausen, 2019: 126-127.
 
-[^41]: Circular letter L. Heck to the zoological gardens, 22.02.1945; and Fisch-Grosshandel H. D. Petersen to L. Heck, 08.03.1945, AZGB O 0/1/88.
+[^40]: Circular letter L. Heck to the zoological gardens, 22.02.1945; and Fisch-Grosshandel H. D. Petersen to L. Heck, 08.03.1945, AZGB O 0/1/88.
 
-[^42]: List in AZGB O 0/1/54.
+[^41]: List in AZGB O 0/1/54.
 
-[^43]: Copy of Lutz Heck’s report to the Supervisory Board, January 1944, AZGB O 0/1/54.
+[^42]: Copy of Lutz Heck’s report to the Supervisory Board, January 1944, AZGB O 0/1/54.
 
-[^44]: L. Heck: Memo concerning opening on 25.7.1944, AZGB O 0/1/50; recollections of Elisabeth Johst, AZGB S 15/27.
+[^43]: L. Heck: Memo concerning opening on 25.7.1944, AZGB O 0/1/50; recollections of Elisabeth Johst, AZGB S 15/27.
 
-[^45]: Recollections of Elisabeth Johst, AZGB S 15/27; K. Heinroth to W. Keller, 18.09.1945, AZGB O 0/1/87; K. Heinroth to G. Freytag, 03.01.1946, AZGB O 0/1/86.
+[^44]: Recollections of Elisabeth Johst, AZGB S 15/27; K. Heinroth to W. Keller, 18.09.1945, AZGB O 0/1/87; K. Heinroth to G. Freytag, 03.01.1946, AZGB O 0/1/86.
 
-[^46]: Ibid.
+[^45]: Ibid.
 
-[^47]: K. Heinroth: “Kriegszerstörungen und Aufbau von 1945 bis 1956 im Berliner Zoologischen Garten”, typewritten manuscript, AZGB N 4/2.
+[^46]: K. Heinroth: “Kriegszerstörungen und Aufbau von 1945 bis 1956 im Berliner Zoologischen Garten”, typewritten manuscript, AZGB N 4/2.
 
-[^48]: Cf. to this Maier-Wolthausen, 2019: 162-169, 206-211; Clemens Maier-Wolthausen. “Ein Zoo für die Hauptstadt”. *Aus Politik und Zeitgeschichte* 71, Nr. 9 (2021): 11-17, 14-15; Jan Mohnhaupt. *Der Zoo der anderen: Als die Stasi ihr Herz für Brillenbären entdeckte & Helmut Schmidt mit Pandas nachrüstete*. München: Carl Hanser, 2017; and Clemens Maier-Wolthausen. *Alphamännchen und Herdentiere: Deutsch-deutsche Beziehungen in Tierpark und Zoo Berlin*. Berlin: Reimer, forthcoming 2022.
+[^47]: Cf. to this Maier-Wolthausen, 2019: 162-169, 206-211; Clemens Maier-Wolthausen. “Ein Zoo für die Hauptstadt”. *Aus Politik und Zeitgeschichte* 71, Nr. 9 (2021): 11-17, 14-15; Jan Mohnhaupt. *Der Zoo der anderen: Als die Stasi ihr Herz für Brillenbären entdeckte & Helmut Schmidt mit Pandas nachrüstete*. München: Carl Hanser, 2017; and Clemens Maier-Wolthausen. *Alphamännchen und Herdentiere: Deutsch-deutsche Beziehungen in Tierpark und Zoo Berlin*. Berlin: Reimer, forthcoming 2022.
 
 :::DE:::
 
