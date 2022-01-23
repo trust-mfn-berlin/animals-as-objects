@@ -10,7 +10,8 @@ doi: 64y2-m311/33
 translators:
   translator_en_de: ""
 copy_editors:
-  copy_editor_en: Jan-Peter Herrmann
+  copy_editor_en: ""
+  copy_editor_de: Jan-Peter Herrmann
 desc: The study of micropaleontology in the oceans helped to recognise the
   importance of microorganisms for planetary dynamics. Following the history of
   these studies, and the theories they allowed to formulate, shows the deep
