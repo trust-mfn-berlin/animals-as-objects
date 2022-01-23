@@ -30,7 +30,7 @@ published: false
 
 <figcaption>
 
-_Study skins on their way into the collection (Photo: Mareike Vennen/MfN. All rights reserved.)_
+_Study skins on their way into the collection (Image: Mareike Vennen/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -58,7 +58,7 @@ After dissection, the bird was immediately deep frozen and tagged with the lette
 
 <figcaption>
 
-_Data sheet and instruments for measuring the specimen, obtaining the skin, and preparing the partial skeleton. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_Data sheet and instruments for measuring the specimen, obtaining the skin, and preparing the partial skeleton. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -70,7 +70,7 @@ _Data sheet and instruments for measuring the specimen, obtaining the skin, and 
 
 <figcaption>
 
-_Measuring the bird’s body. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_Measuring the bird’s body (Image: Filippo Bertoni/MfN. All rights reserved.)_
 A [[data sheet|material.logbooks-of-the-zoological-museum]] is prepared for each animal. This includes information about materials and techniques as well as some key information about the bird and the date of preparation.
 
 </figcaption>
@@ -83,7 +83,7 @@ A [[data sheet|material.logbooks-of-the-zoological-museum]] is prepared for each
 
 <figcaption>
 
-_Data sheet; the information from the data sheet will later be entered in the collection catalogue. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_Data sheet; the information from the data sheet will later be entered in the collection catalogue. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -97,7 +97,7 @@ In this case, the live bird had already been chipped for identification purposes
 
 <figcaption>
 
-_This is how the transponder is stored until it is placed back into the study skin at the end of the preparation. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_This is how the transponder is stored until it is placed back into the study skin at the end of the preparation. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -111,7 +111,7 @@ In order to make the study skin, the preparator first has to remove the skin usi
 
 <figcaption>
 
-_The museum preparator Christin Scheinpflug examines the bird’s body. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_The museum preparator Christin Scheinpflug examines the bird’s body. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -125,7 +125,7 @@ While the remaining tissue is removed and later professionally [[disposed|materi
 
 <figcaption>
 
-_A water bath with Supralan and salt to clean the skin and any potentially dirty feathers. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_A water bath with Supralan and salt to clean the skin and any potentially dirty feathers. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -139,7 +139,7 @@ During the tanning process, where tanning agents are used for long-term preserva
 
 <figcaption>
 
-_During the tanning process, the pores are softened in a lye solution and a tanning agent is then fixed in the skin. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_During the tanning process, the pores are softened in a lye solution and a tanning agent is then fixed in the skin. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -153,7 +153,7 @@ While the bird’s skin was tanning, Christin Scheinpflug prepared the artificia
 
 <figcaption>
 
-_The artificial body for the study skin is made from wood wool and wire and measured against the dimensions of the bird’s body. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_The artificial body for the study skin is made from wood wool and wire and measured against the dimensions of the bird’s body. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -169,7 +169,7 @@ For the final steps – assembling the bird, sewing it up, and putting the feath
 
 <figcaption>
 
-_After tanning and inserting the wood wool body, the preparator sews up the skin. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_After tanning and inserting the wood wool body, the preparator sews up the skin. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -183,7 +183,7 @@ A metal pole inserted into the bottom of the wood-wool body serves as a handle f
 
 <figcaption>
 
-_Wet study skin with wood wool body and metal handle inserted. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_Wet study skin with wood wool body and metal handle inserted (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -203,7 +203,7 @@ After the feathers have been blow-dried, they have to be put arranged, which tak
 
 <figcaption>
 
-_Blow-drying and arranging the feathers. (Photos: Filippo Bertoni/MfN. All rights reserved.)_
+_Blow-drying and arranging the feathers (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -217,7 +217,7 @@ In order to produce a partial skeleton, the original bird body now has to be com
 
 <figcaption>
 
-_Producing a partial skeleton inside a warming cabinet with the help of dermestid beetles. (Photo: Filippo Bertoni/MfN. All rights reserved.)_
+_Producing a partial skeleton inside a warming cabinet with the help of dermestid beetles. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -231,7 +231,7 @@ Afterwards, the skeleton was frozen once more (in order to kill any remaining be
 
 <figcaption>
 
-_Study skins on their way into the collection (Photo: Mareike Vennen/MfN. All rights reserved.)_
+_Study skins on their way into the collection (Image: Mareike Vennen/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -245,7 +245,7 @@ There, collection manager Pascal Eckhoff entered the information from the data s
 
 <figcaption>
 
-_In the bird collection, the study skin is entered into the database. (Photo: Mareike Vennen/MfN. All rights reserved.)_
+_In the bird collection, the study skin is entered into the database. (Image: Mareike Vennen/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -257,7 +257,7 @@ _In the bird collection, the study skin is entered into the database. (Photo: Ma
 
 <figcaption>
 
-_Label to identify the study skin. (Photo: Mareike Vennen/MfN. All rights reserved.)_
+_Label to identify the study skin (Image: Mareike Vennen/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -271,7 +271,7 @@ In the end, the bird was entered into the collection database under the inventor
 
 <figcaption>
 
-_Storing and classifying the partial skeleton in the collection. (Photo: Mareike Vennen/MfN. All rights reserved.)_
+_Storing and classifying the partial skeleton in the collection. (Image: Mareike Vennen/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -325,7 +325,7 @@ In diesem Fall entschied man sich für die Herstellung eines Vogelbalges und ein
 
 Dass hier zusätzlich ein Teilskelett angefertigt wurde, hing einerseits mit der Entscheidung für eine Balgpräparation zusammen. Balgpräparation und Teilskelettherstellung bilden zumindest in der Ornithologie eine Einheit. Da wichtige Skelettteile wie Schädel und Unterschenkel im Balg verbaut und somit Originalteile verwendet werden, muss sich der oder die Kustod:in vor der Präparation entweder für ein vollständiges Skelett oder einen Balg mit Teilskelett entscheiden. In diesem Fall waren dem Vogel bei der vorhergehenden Sektion bereits die Rippen geöffnet worden, um Organe zu entnehmen. Zusätzlich war ein Teil des Brustmuskels entfernt worden.
 
-Nach der Sektion wurde der Vogel umgehend tiefgefroren und mit dem Vermerk ‘MFN’ (Museum für Naturkunde Berlin) versehen. Vom Zeitpunkt der Überweisung aus der Sektion bis zur Präparation lagerte der Vogel im Tiefkühlschrank der Präparationswerkstatt des Museums. Der erste Schritt der wissenschaftlichen Präparation fand im Sektionsraum des Museums für Naturkunde statt, wo der Tierkörper zunächst in einer Salz-Supralan-Lösung aufgetaut wurde. Anschließend wurden wissenschaftliche Daten zu dem Tier erhoben, darunter Körpermaße, Eingangsnummer, Eingangsdatum und Chipnummer.[^5] Diese Informationen übertrug die Präparatorin auf ein Datenblatt.
+Nach der Sektion wurde der Vogel umgehend tiefgefroren und mit dem Vermerk ‘MFN’ (Museum für Naturkunde Berlin) versehen. Vom Zeitpunkt der Überweisung aus der Sektion bis zur Präparation lagerte der Vogel im Tiefkühlschrank der Präparationswerkstatt des Museums. Der erste Schritt der wissenschaftlichen Präparation fand im Sektionsraum des Museums für Naturkunde statt, wo der Tierkörper zunächst in einer Salz-Supralan-Lösung aufgetaut wurde. Anschließend wurden [[wissenschaftliche Daten|theme.recording-worlds]] zu dem Tier erhoben, darunter [[Körpermaße|material.microscopic-media]], Eingangsnummer, Eingangsdatum und Chipnummer.[^5] Diese Informationen übertrug die Präparatorin auf ein [[Datenblatt|story.keeping-records-of-animals]].
 
 <figure>
 
@@ -351,7 +351,7 @@ _Vermessung des Vogelkörpers. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalt
 
 </figure>
 
-Für jedes Tier wird ein solches Datenblatt angelegt, auf dem Materialien, Techniken, die bekannten Informationen über den Vogel und das Datum der Präparation eingetragen werden.
+Für jedes Tier wird ein solches [[Datenblatt|material.logbooks-of-the-zoological-museum]] angelegt, auf dem Materialien, Techniken, die bekannten Informationen über den Vogel und das Datum der Präparation eingetragen werden.
 
 <figure>
 
@@ -379,7 +379,7 @@ _So wird der Transponder aufbewahrt, bis er dem Balg am Ende eingesetzt wird. (F
 
 </figure>
 
-Um den Balg herzustellen, musste als erstes die Haut mit Hilfe von Skalpell und Schere abgezogen und dadurch vom sogenannten Fleischkörper getrennt werden. Anschließend wurde die Haut gereinigt, indem sie mechanisch von Bindegewebs- und Fettresten befreit wurde. Zusätzlich wurden die verbliebenen Knochenstrukturen (Unterschenkel, Schädel, Unter- und Oberarm) von Muskelfleisch und Sehen befreit – dieser Prozess wird auch als ‘Entfleischen’ bezeichnet. Fett und Bindegewebe von der Haut zu entfernen und die Knochen zu entfleischen ist ein wichtiger Bestandteil der präparatorischen Arbeit, da durch den Geruch von Fett- und Fleischresten Insekten angelockt werden können, die den Balg in der Sammlung eventuell durch Fraß am Objekt schädigen.
+Um den Balg herzustellen, musste als erstes die Haut mit Hilfe von Skalpell und Schere abgezogen und dadurch vom sogenannten Fleischkörper getrennt werden. Anschließend wurde die Haut gereinigt, indem sie mechanisch von Bindegewebs- und Fettresten befreit wurde. Zusätzlich wurden die verbliebenen Knochenstrukturen (Unterschenkel, Schädel, Unter- und Oberarm) von Muskelfleisch und Sehen befreit – dieser Prozess wird auch als ‘Entfleischen’ bezeichnet. Fett und Bindegewebe von der Haut zu entfernen und die Knochen zu entfleischen ist ein wichtiger Bestandteil der präparatorischen Arbeit, da durch den Geruch von Fett- und Fleischresten Insekten angelockt werden können, die den Balg in der Sammlung eventuell durch [[Fraß|story.from-pests-to-displays]] am Objekt schädigen.
 
 <figure>
 
@@ -393,7 +393,7 @@ _Die Museumspräparatorin Christin Scheinpflug untersucht den Vogelkörper. (Fot
 
 </figure>
 
-Während die Fleischreste entsorgt und später außerhalb des Museums fachgerecht verbrannt wurden, wurde die Vogelhaut mit Wasser, Supralan und Shampoo mehrmals gewaschen und anschließend bis zum Gerbungstermin in einer Plastiktüte erneut im Gefrierschrank aufbewahrt.[^7]
+Während die Fleischreste [[entsorgt|material.dead-animals]] und später außerhalb des Museums fachgerecht verbrannt wurden, wurde die Vogelhaut mit Wasser, Supralan und Shampoo mehrmals gewaschen und anschließend bis zum Gerbungstermin in einer Plastiktüte erneut im Gefrierschrank aufbewahrt.[^7]
 
 <figure>
 
@@ -513,7 +513,7 @@ _Vogelbälge auf dem Weg in die Sammlung. (Foto: Mareike Vennen. Alle Rechte vor
 
 </figure>
 
-Dort übertrug der Sammlungspfleger Pascal Eckhoff die Informationen des Datenblatts in die digitale Sammlungsdatenbank.[^10] Aus dieser kann man auch ersehen, dass das Tier nicht das erste Exemplar von _Aratinga jandaya_ in der Vogelsammlung des Museums ist. In den Jahren 1895 und 1923 erhielt die Sammlung bereits zwei Exemplare für die Balgsammlung. Außerdem befinden sich weitere Jendayasittiche in Alkohol und als Skelett in der Vogelsammlung.
+Dort übertrug der Sammlungspfleger Pascal Eckhoff die Informationen des Datenblatts in die digitale Sammlungsdatenbank.[^10] Aus dieser kann man auch ersehen, dass das Tier nicht das erste Exemplar von _Aratinga jandaya_ in der Vogelsammlung des Museums ist. In den Jahren 1895 und 1923 erhielt die Sammlung bereits zwei Exemplare für die Balgsammlung. Außerdem befinden sich weitere Jendayasittiche in [[Alkohol|material.an-iguana-preserved-in-alcohol]] und als Skelett in der Vogelsammlung.
 
 <figure>
 
