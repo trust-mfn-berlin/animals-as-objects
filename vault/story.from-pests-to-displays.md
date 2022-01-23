@@ -137,7 +137,7 @@ Dieser Rückblick auf die [[Transportgeschichten|story.catching-animals]] naturk
 
 [^4]: In den Besitz der Tiere gelangte er durch Ankauf und Tauschgeschäfte; siehe Schomburgk, 1847-48, Bd. II: 510.
 
-[^5]: M. H. Lichtenstein an das Ministerium der geistlichen, Unterrichts- und Medizinal Angelegenheiten, 20.06.1843, MfN, HBSB, Zool. Mus. S I, Schomburgk, Ri, Bl. 44.
+[^5]: M.H. Lichtenstein an das Ministerium der geistlichen, Unterrichts- und Medizinal Angelegenheiten, 20.06.1843, MfN, HBSB, Zool. Mus. S I, Schomburgk, Ri, Bl. 44.
 
 [^6]: Ebd.
 
