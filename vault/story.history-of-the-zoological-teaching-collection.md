@@ -116,23 +116,23 @@ Ultimately, record-keeping using inventory books was completely abandoned in the
 
 This discontinuity has inscribed itself into the corpus of the historical collection as a caesura and void, for, in 1970, the section head made the decision to reduce the size of the teaching collection.[^21] Duplicates were donated, given or thrown away, and, according to anecdotes, were even buried in the rear courtyard of the former institute.[^22] This is still making it difficult to identify specific specimens as (former) items from the teaching collection.
 
-[^1]: This included 779 duplicates of zoological specimens from the zoological collection. First given to the Zoological Institute on loan, they were permanently incorporated into the teaching collection in 1886, which can be inferred from correspondence between Franz Eilhard Schulze and the Prussian Ministry. Cf. MfN HUB, Schr. Best. Zool. Mus., Abt. II (die Errichtung des zool. Instituts, sowie die Abgabe von Büchern, Sammlungsstücken und Präparaten an dasselbe), vol. I. 1884-1889; Jahn, Ilse. “Zur Vertretung der Zoologie und zur Entwicklung ihrer institutionellen Grundlagen an der Berliner Universität von ihrer Gründung bis 1920”. _Wiss. Z. Humboldt-Univ. Berlin, Math. Nat. Reihe_ 34, no. 3/4 (1985): 276.
+[^1]: This included 779 duplicates of zoological specimens from the zoological collection. First given to the Zoological Institute on loan, they were permanently incorporated into the teaching collection in 1886, which can be inferred from correspondence between Franz Eilhard Schulze and the Prussian Ministry. Cf. MfN HUB, Schr. Best. Zool. Mus., Abt. II (die Errichtung des zool. Instituts, sowie die Abgabe von Büchern, Sammlungsstücken und Präparaten an dasselbe), vol. I. 1884-1889; Ilse Jahn. “Zur Vertretung der Zoologie und zur Entwicklung ihrer institutionellen Grundlagen an der Berliner Universität von ihrer Gründung bis 1920”. _Wiss. Z. Humboldt-Univ. Berlin, Math. Nat. Reihe_ 34, no. 3/4 (1985): 276.
 
-[^2]: Kretschmann, Carsten. _Räume öffnen sich: Naturhistorische Museen im Deutschland des 19. Jahrhunderts_. Berlin: Akademie Verlag, 2006: 32.
+[^2]: Carsten Kretschmann. _Räume öffnen sich: Naturhistorische Museen im Deutschland des 19. Jahrhunderts_. Berlin: Akademie Verlag, 2006: 32.
 
 [^3]: Jahn, 1985: 275.
 
 [^4]: Ibid.
 
-[^5]: This image is from the private collection of Elsi Hedström, the granddaughter of Franz Eilhard Schulze. The people depicted have been identified by Stefan Richter; cf. “Franz Eilhard Schulze und die Zoologische Lehrsammlung der Berliner Universität”. In _Theater der Natur und Kunst: Theatrum Naturae et Artis; Essays. 3 Bände_, Horst Bredekamp, Jochen Brüning, and Cornelia Weber (eds.). Berlin: Henschel, 2000: 119-134, 121.
+[^5]: This image is from the private collection of Elsi Hedström, the granddaughter of Franz Eilhard Schulze. The people depicted have been identified by Stefan Richter; cf. “Franz Eilhard Schulze und die Zoologische Lehrsammlung der Berliner Universität”. In _Theater der Natur und Kunst: Theatrum Naturae et Artis_, Horst Bredekamp, Jochen Brüning, and Cornelia Weber (eds.). Berlin: Henschel, 2000: 119-134, 121.
 
-[^6]: Tembrock, Günther. “Zur Geschichte der Zoologie in Berlin”. _Wiss. Z. der Humboldt-Univ. Berlin. Math.-Naturw. Reihe_ 8, no. 2 (1958/59): 185-196, 193.
+[^6]: Günther Tembrock. “Zur Geschichte der Zoologie in Berlin”. _Wiss. Z. der Humboldt-Univ. Berlin. Math.-Naturw. Reihe_ 8, no. 2 (1958/59): 185-196, 193.
 
-[^7]: Cf. Tembrock, Günther. “Die Geschichte des Zoologischen Instituts”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin, Beiheft zum Jubiläumsjahrgang_ 9 (1959/1960): 107-125; Scholtz, Gerhard. “Zoologische Lehrsammlung (Zoological Teaching Collection)”. In _Zoological Collections of Germany: The Animal Kingdom in its Amazing Plenty at Museums and Universities_, Lothar A. Beck (ed.). Cham: Springer International Publishing, 2018: 124.
+[^7]: Cf. Günther Tembrock. “Die Geschichte des Zoologischen Instituts”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin, Beiheft zum Jubiläumsjahrgang_ 9 (1959/1960): 107-125; Gerhard Scholtz. “Zoologische Lehrsammlung (Zoological Teaching Collection)”. In _Zoological Collections of Germany: The Animal Kingdom in its Amazing Plenty at Museums and Universities_, Lothar A. Beck (ed.). Cham: Springer International Publishing, 2018: 124.
 
-[^8]: Paszkowski, Wilhelm. “Das Zoologische Institut der Universität Berlin: N 4, Invalidenstr. 43; Museum für Naturkunde”. _Berliner Akademische Nachrichten_ 11 (1910): 2.
+[^8]: Wilhelm Paszkowski. “Das Zoologische Institut der Universität Berlin: N 4, Invalidenstr. 43; Museum für Naturkunde”. _Berliner Akademische Nachrichten_ 11 (1910): 2.
 
-[^9]: Richter, Stefan. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität: Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin (N.F.)_ 37 (1999): 59-76.
+[^9]: Stefan Richter. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität: Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin (N.F.)_ 37 (1999): 59-76.
 
 [^10]: Tembrock, 1959/1960: 112.
 
@@ -144,7 +144,7 @@ This discontinuity has inscribed itself into the corpus of the historical collec
 
 [^14]: Richter, 1999: 62f.
 
-[^15]: According to an appraisal carried out by Heinrich Jakob Feuerborn on 27.01.1945, quoted in Tembrock, Günther. “Das Zoologische Institut der Humboldt-Universität von 1945 bis zur Gründung der Sektion Biologie”. _Wiss. Z. der Humboldt-Univ. Berlin. Math.-Nat. Reihe_ (1985): 281. In addition, a loss of around 600 wall charts during the war and in the postwar period can be surmised from the inventory records; see Richter, 1999. 67. Specimens preserved in alcohol survived the attack, as they had been taken to the basement rooms together with some other holdings from the museum collection as a precaution; cf. Landsberg, Hannelore, and Ferdinand Damaschun. “Das Museum im Bombenhagel und unter Schutt”. In _Klasse, Ordnung, Art: 200 Jahre Museum für Naturkunde_, ed. by Ferdinand Damaschun et al. Rangsdorf: Basilisken-Presse, 2010: 228; Tembrock, 1985: 281.
+[^15]: According to an appraisal carried out by Heinrich Jakob Feuerborn on 27.01.1945, quoted in Günther Tembrock. “Das Zoologische Institut der Humboldt-Universität von 1945 bis zur Gründung der Sektion Biologie”. _Wiss. Z. der Humboldt-Univ. Berlin. Math.-Nat. Reihe_ (1985): 281. In addition, a loss of around 600 wall charts during the war and in the postwar period can be surmised from the inventory records; see Richter, 1999. 67. Specimens preserved in alcohol survived the attack, as they had been taken to the basement rooms together with some other holdings from the museum collection as a precaution; cf. Hannelore Landsberg and Ferdinand Damaschun. “Das Museum im Bombenhagel und unter Schutt”. In _Klasse, Ordnung, Art: 200 Jahre Museum für Naturkunde_. Ferdinand Damaschun et al. (eds.). Rangsdorf: Basilisken-Presse, 2010: 228; Tembrock, 1985: 281.
 
 [^16]: Cf. Tembrock, 1985: 281.
 
@@ -152,7 +152,7 @@ This discontinuity has inscribed itself into the corpus of the historical collec
 
 [^18]: Tembrock, 1985: 289f.
 
-[^19]: Höxtermann, Ekkehard. “Biologien in der DDR zwischen Tradition und Innovation, Wissenschaft und Politik”. In _Naturwissenschaft und Technik in der DDR_, reprint, Dieter Hoffmann and Kristie Macrakis (ed.). Berlin: Akademie Verlag, 2018: 233-259.
+[^19]: Ekkehard Höxtermann. “Biologien in der DDR zwischen Tradition und Innovation, Wissenschaft und Politik”. In _Naturwissenschaft und Technik in der DDR_, reprint, Dieter Hoffmann and Kristie Macrakis (eds.). Berlin: Akademie Verlag, 2018: 233-259.
 
 [^20]: Cf. Richter, 1999: 59-76, 65.
 
@@ -240,23 +240,23 @@ Die Verzeichnung mittels der Inventarbücher brach schließlich Ende der 1960er 
 
 Als Einschnitt und Leerstelle schrieb sich diese Diskontinuität in den historisch gewachsenen Sammlungskörper ein. Denn 1970 traf der Sektionsleiter die Entscheidung zur Verkleinerung der Lehrsammlung.[^21] Doppelt vorhandene Objekte wurden daraufhin verschenkt, abgegeben, weggeworfen und Anekdoten zufolge sogar im Hinterhof des ehemaligen Instituts vergraben.[^22] Die Identifizierung einzelner Präparate als (ehemalige) Objekte der Lehrsammlung wird dadurch bis heute erschwert.
 
-[^1]: Darunter befanden sich unter anderem 779 Doubletten zoologischer Präparate aus der zoologischen Sammlung. Zunächst lediglich als Leihgabe an das Zoologische Institut abgegeben, wurden sie 1886 endgültig in die Lehrsammlung überführt. Dies geht aus einem Schriftwechsel zwischen Franz Eilhard Schulze und dem preußischen Ministerium hervor; vgl. MfN HUB, Schr. Best. Zool. Mus., Abt. II (die Errichtung des zool. Instituts, sowie die Abgabe von Büchern, Sammlungsstücken und Präparaten an dasselbe) Vol. I. 1884-1889; Jahn, Ilse. “Zur Vertretung der Zoologie und zur Entwicklung ihrer institutionellen Grundlagen an der Berliner Universität von ihrer Gründung bis 1920”. _Wiss. Z. Humboldt-Univ. Berlin, Math. Nat. Reihe_ 34, Nr. 3/4 (1985): 276.
+[^1]: Darunter befanden sich unter anderem 779 Doubletten zoologischer Präparate aus der zoologischen Sammlung. Zunächst lediglich als Leihgabe an das Zoologische Institut abgegeben, wurden sie 1886 endgültig in die Lehrsammlung überführt. Dies geht aus einem Schriftwechsel zwischen Franz Eilhard Schulze und dem preußischen Ministerium hervor; vgl. MfN HUB, Schr. Best. Zool. Mus., Abt. II (die Errichtung des zool. Instituts, sowie die Abgabe von Büchern, Sammlungsstücken und Präparaten an dasselbe) Vol. I. 1884-1889; Ilse Jahn. “Zur Vertretung der Zoologie und zur Entwicklung ihrer institutionellen Grundlagen an der Berliner Universität von ihrer Gründung bis 1920”. _Wiss. Z. Humboldt-Univ. Berlin, Math. Nat. Reihe_ 34, Nr. 3/4 (1985): 276.
 
-[^2]: Kretschmann, Carsten. _Räume öffnen sich. Naturhistorische Museen im Deutschland des 19. Jahrhunderts_. Berlin: Akademie Verlag, 2006: 32.
+[^2]: Carsten Kretschmann. _Räume öffnen sich. Naturhistorische Museen im Deutschland des 19. Jahrhunderts_. Berlin: Akademie Verlag, 2006: 32.
 
 [^3]: Jahn, 1985: 275.
 
 [^4]: Ebd.
 
-[^5]: Das Bild stammt aus dem Privatbesitz Elsi Hedströms, der Enkeltochter Franz Eilhard Schulzes. Die abgebildeten Personen wurden von Stefan Richter identifiziert; vgl. Richter, Stefan. “Franz Eilhard Schulze und die Zoologische Lehrsammlung der Berliner Universität”. In _Theater der Natur und Kunst: Theatrum Naturae et Artis: Essays; 3 Bände_, Horst Bredekamp, Jochen Brüning und Cornelia Weber (Hg.). Berlin: Henschel, 2000: 119-134, 121.
+[^5]: Das Bild stammt aus dem Privatbesitz Elsi Hedströms, der Enkeltochter Franz Eilhard Schulzes. Die abgebildeten Personen wurden von Stefan Richter identifiziert; vgl. Stefan Richter. “Franz Eilhard Schulze und die Zoologische Lehrsammlung der Berliner Universität”. In _Theater der Natur und Kunst: Theatrum Naturae et Artis_, Horst Bredekamp, Jochen Brüning und Cornelia Weber (Hg.). Berlin: Henschel, 2000: 119-134, 121.
 
-[^6]: Tembrock, Günther. “Zur Geschichte der Zoologie in Berlin”. _Wiss. Z. der Humboldt-Univ. Berlin. Math.-Naturw. Reihe_ 8, Nr. 2 (1958/59): 185-196, 193.
+[^6]: Günther Tembrock. “Zur Geschichte der Zoologie in Berlin”. _Wiss. Z. der Humboldt-Univ. Berlin. Math.-Naturw. Reihe_ 8, Nr. 2 (1958/59): 185-196, 193.
 
-[^7]: Vgl. Tembrock, Günther. “Die Geschichte des Zoologischen Instituts”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin, Beiheft zum Jubiläumsjahrgang_ 9 (1959/1960): 107-125; Scholtz, Gerhard. “Zoologische Lehrsammlung (Zoological Teaching Collection)”. In _Zoological Collections of Germany. The Animal Kingdom in its Amazing Plenty at Museums and Universities_, Lothar A. Beck (Hg.). Cham: Springer International Publishing, 2018: 124.
+[^7]: Vgl. Günther Tembrock. “Die Geschichte des Zoologischen Instituts”. _Wissenschaftliche Zeitschrift der Humboldt-Universität zu Berlin, Beiheft zum Jubiläumsjahrgang_ 9 (1959/1960): 107-125; Gerhard Scholtz. “Zoologische Lehrsammlung (Zoological Teaching Collection)”. In _Zoological Collections of Germany. The Animal Kingdom in its Amazing Plenty at Museums and Universities_, Lothar A. Beck (Hg.). Cham: Springer International Publishing, 2018: 124.
 
-[^8]: Paszkowski, Wilhelm. “Das Zoologische Institut der Universität Berlin. N 4, Invalidenstr. 43; Museum für Naturkunde”. _Berliner Akademische Nachrichten_ 11 (1910): 2.
+[^8]: Wilhelm Paszkowski. “Das Zoologische Institut der Universität Berlin. N 4, Invalidenstr. 43; Museum für Naturkunde”. _Berliner Akademische Nachrichten_ 11 (1910): 2.
 
-[^9]: Richter, Stefan. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität: Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin (N.F.)_ 37 (1999): 59-76.
+[^9]: Stefan Richter. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität: Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin (N.F.)_ 37 (1999): 59-76.
 
 [^10]: Tembrock, 1959/60: 112.
 
@@ -268,7 +268,7 @@ Als Einschnitt und Leerstelle schrieb sich diese Diskontinuität in den historis
 
 [^14]: Richter, 1999: 62f.
 
-[^15]: Laut einer Veranschlagung des damaligen Institutionsleiters Heinrich Jakob Feuerborn vom 27.01.1945, zitiert nach Tembrock, Günther. “Das Zoologische Institut der Humboldt-Universität von 1945 bis zur Gründung der Sektion Biologie”. _Wiss. Z. der Humboldt-Univ. Berlin. Math.-Nat. Reihe_ (1985): 281. Zusätzlich ließ sich ein Verlust von rund 600 Wandtafeln in Kriegs- und Nachkriegszeiten anhand der Inventarverzeichnisse ableiten; vgl. Richter, 1999: 67. In Alkohol konservierte Objekte überstanden den Angriff, da sie im Rahmen einer Vorsichtsmaßnahme mit anderen Beständen der Museumssammlung in die Kellerräume des Gebäudes geschafft worden waren; vgl. Landsberg, Hannelore, und Ferdinand Damaschun. “Das Museum im Bombenhagel und unter Schutt”. In _Klasse, Ordnung, Art. 200 Jahre Museum für Naturkunde_, hg. von Ferdinand Damaschun et al. Rangsdorf: Basilisken-Presse, 2010: 228; Tembrock, 1985: 281.
+[^15]: Laut einer Veranschlagung des damaligen Institutionsleiters Heinrich Jakob Feuerborn vom 27.01.1945, zitiert nach Günther Tembrock. “Das Zoologische Institut der Humboldt-Universität von 1945 bis zur Gründung der Sektion Biologie”. _Wiss. Z. der Humboldt-Univ. Berlin. Math.-Nat. Reihe_ (1985): 281. Zusätzlich ließ sich ein Verlust von rund 600 Wandtafeln in Kriegs- und Nachkriegszeiten anhand der Inventarverzeichnisse ableiten; vgl. Richter, 1999: 67. In Alkohol konservierte Objekte überstanden den Angriff, da sie im Rahmen einer Vorsichtsmaßnahme mit anderen Beständen der Museumssammlung in die Kellerräume des Gebäudes geschafft worden waren; vgl. Hannelore Landsberg und Ferdinand Damaschun. “Das Museum im Bombenhagel und unter Schutt”. In _Klasse, Ordnung, Art. 200 Jahre Museum für Naturkunde_, Ferdinand Damaschun et al. (Hg.). Rangsdorf: Basilisken-Presse, 2010: 228; Tembrock, 1985: 281.
 
 [^16]: Vgl. Tembrock, 1985: 281.
 
@@ -276,7 +276,7 @@ Als Einschnitt und Leerstelle schrieb sich diese Diskontinuität in den historis
 
 [^18]: Tembrock, 1985: 289f.
 
-[^19]: Höxtermann, Ekkehard. “Biologien in der DDR zwischen Tradition und Innovation, Wissenschaft und Politik”. In _Naturwissenschaft und Technik in der DDR_, Reprint, Dieter Hoffmann und Kristie Macrakis (Hg.). Berlin: Akademie Verlag, 2018: 233-259.
+[^19]: Ekkehard Höxtermann. “Biologien in der DDR zwischen Tradition und Innovation, Wissenschaft und Politik”. In _Naturwissenschaft und Technik in der DDR_, Reprint, Dieter Hoffmann und Kristie Macrakis (Hg.). Berlin: Akademie Verlag, 2018: 233-259.
 
 [^20]: Vgl. Richter, 1999: 59-76, 65.
 
