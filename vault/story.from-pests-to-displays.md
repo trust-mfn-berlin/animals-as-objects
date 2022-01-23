@@ -3,7 +3,7 @@ license: CC BY-SA
 title: From Pests to Displays
 title_de: Von Schädlingen zu Ausstellungsstücken
 created: 1640461871904
-updated: 1642816244053
+updated: 1642943234704
 id: 3YRSzijvbnQXZs4VO291j
 author: Mareike Vennen
 doi: 64y2-m311/71
@@ -31,6 +31,12 @@ published: false
 <figure>
 
 ![desc](/images/mv/from-pests.jpeg)
+
+<figcaption>
+
+_Rat eating cereal (Staatliches Museum für Naturkunde Karlsruhe. Image: H. Zell. All rights reserved.)_
+
+</figcaption>
 
 </figure>
 
@@ -92,6 +98,12 @@ Tracing back their history to the mid-19th century can thus give us insights int
 <figure>
 
 ![desc](/images/mv/from-pests.jpeg)
+
+<figcaption>
+
+_Ratte beim Fressen von Getreide (Präparat im Staatlichen Museum für Naturkunde Karlsruhe. Foto: H. Zell. Alle Rechte vorbehalten.)_
+
+</figcaption>
 
 </figure>
 
