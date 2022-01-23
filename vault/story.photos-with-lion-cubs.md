@@ -263,29 +263,29 @@ _Undated photo of a girl with a lion cub, taken by the photographer at West Berl
 
 What connects them is what stays the same, a motif that can be traced through a history of 70 years, giving it a serial character. And while the lion cub photos now seem like relicts, they have long been replaced. The contact between humans and young predators has conquered new spaces. This includes the booming wildlife tourism in numerous countries, where the business model is based on providing the experience of touch and taking home holiday photos as souvenirs. The keeping of predators in private residences is experiencing another (or a continued) boom. According to the WWF, more tigers lived in private US households in 2014 than in the wild.[^36] The current media transformation of lion cub photographs is also demonstrated by series like _Tiger King_ and by the success of the innumerable private photos with juvenile predators circulating on social media. Much of the critique being voiced in these contexts is reminiscent of the critique given by the zoo public in the 1980s, once more revolving around the issue of how animals are caught and kept, about the work animals do, and the economies behind them.[^37] And once more, the criticism being directed at this motif is about the politics of animal images and about the reproduction of exoticisms, just as it is about the relationship between animals and humans (that is staged in images). So, although the settings and forms of media dissemination have changed and zoo lion cub photography has already become historical, the questions that it raises are still topical. 
  
-[^1]: See the Zoo Guides of 1936, 1938, and 1940; see also Heck, Ludwig. “Zootiere einst und jetzt”, January 1934, AZGB N 1/7. I am unaware of when exactly the photo booth at Berlin Zoo was opened. 
+[^1]: See the Zoo Guides of 1936, 1938, and 1940; see also Ludwig Heck. “Zootiere einst und jetzt”, January 1934, AZGB N 1/7. I am unaware of when exactly the photo booth at Berlin Zoo was opened. 
 
-[^2]: Zukowsky, Hildegard. “Löwenprinzchen”. _CHITuMW_ 1, no. 6 (1926): 132-134, quoted in: Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 291.
+[^2]: Hildegard Zukowsky. “Löwenprinzchen”. _CHITuMW_ 1, no. 6 (1926): 132-134, quoted in: Nastasja Klothmann. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 291.
 
 [^3]: Each zoo dealt with the permission to take photos differently. While visitors in Leipzig, Halle, Berlin, and Vienna had to purchase a permit, visitors to other zoos could take photos free of charge. Cf. 40. Konferenz der Direktoren mitteleuropäischer Zoologischer Gärten in Breslau vom 23. bis 25. August 1928, AZGB V 1/10.
 
 [^4]: Zoologischer Garten Berlin. _Wegweiser durch den Zoologischen Garten Berlin_. Berlin: 1938.
 
-[^5]: Wessely, Christina. _Löwenbaby_. Berlin: Matthes & Seitz, 2019.
+[^5]: Christina Wessely. _Löwenbaby_. Berlin: Matthes & Seitz, 2019.
 
-[^6]: After the war, the booth moved from its site beside the predator enclosure to the bear enclosure. Cf. Heinroth, Katharina. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege_, Aktien-Verein des Zoologischen Gartens zu Berlin (ed.). Berlin: 1956: 6.
+[^6]: After the war, the booth moved from its site beside the predator enclosure to the bear enclosure. Cf. Katharina Heinroth. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege_, Aktien-Verein des Zoologischen Gartens zu Berlin (ed.). Berlin: 1956: 6.
 
-[^7]: Hediger, Vinzenz. “Das Tier auf unserer Seite: Zur Politik des Filmtiers am Beispiel von ‘Serengeti darf nicht sterben’”. In Anne von Heiden und Joseph Vogl (eds.). _Politische Zoologie_. Zurich/Berlin: 2007: 287-301. Historians like Thomas M. Lekan, Angela Thompsell, and Bernhard Gißibl have made similar arguments to those of the film studies scholar Hediger. Cf. Lekan, Thomas M. _Our Gigantic Zoo: A German Quest to Save the Serengeti._ New York: Oxford University Press, 2020; Thompsell, Angela. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015; Gißibl, Bernhard. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. The Environment in History: International Perspectives, Volume 9. New York: Berghahn Books, 2016.
+[^7]: Vinzenz Hediger. “Das Tier auf unserer Seite: Zur Politik des Filmtiers am Beispiel von ‘Serengeti darf nicht sterben’”. In Anne von Heiden und Joseph Vogl (eds.). _Politische Zoologie_. Zurich/Berlin: 2007: 287-301. Historians like Thomas M. Lekan, Angela Thompsell, and Bernhard Gißibl have made similar arguments to those of the film studies scholar Hediger. Cf. Thomas M. Lekan. _Our Gigantic Zoo: A German Quest to Save the Serengeti._ New York: Oxford University Press, 2020; Angela Thompsell. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015; Bernhard Gißibl. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. The Environment in History: International Perspectives, Volume 9. New York: Berghahn Books, 2016.
 
 [^8]: It is part of the visual staging of many European big-game hunters to neither name local actors nor to give them an equal place in the image.
 
-[^9]: Becker, Manfred. _Bwana Simba – Der Herr der Löwen: Carl Georg Schillings. Forscher und Naturschützer in Deutsch-Ostafrika_. Düren: Hahne & Schloemer Verlag, 2008.
+[^9]: Manfred Becker. _Bwana Simba: Der Herr der Löwen; Carl Georg Schillings, Forscher und Naturschützer in Deutsch-Ostafrika_. Düren: Hahne & Schloemer Verlag, 2008.
 
-[^10]: Schillings, Carl Georg. _Mit Blitzlicht und Büchse: Neue Beobachtungen und Erlebnisse in der Wildnis inmitten der Tierwelt von Äquatorial-Ostafrika_. Leipzig: R. Voigtländer, 1905.
+[^10]: Carl Georg Schillings. _Mit Blitzlicht und Büchse: Neue Beobachtungen und Erlebnisse in der Wildnis inmitten der Tierwelt von Äquatorial-Ostafrika_. Leipzig: R. Voigtländer, 1905.
 
 [^11]: _Ein Platz für Tiere_ is still one of Germany’s most successful television animal series ever and ran for 31 years with 175 episodes.
 
-[^12]: Schneider, Karl Max. _Mit Löwen und Tigern unter einem Dach._ Wittenberg: Ziemsen, 1957; Grzimek, Bernhard. _Affen im Haus und andere Tierberichte_. Stuttgart: Franck’sche Verlagshandlung, 1951. 
+[^12]: Karl Max Schneider. _Mit Löwen und Tigern unter einem Dach._ Wittenberg: Ziemsen, 1957; Bernhard Grzimek. _Affen im Haus und andere Tierberichte_. Stuttgart: Franck’sche Verlagshandlung, 1951. 
 
 [^13]: “Das Lieblingsspiel all dieses Kleinzeugs ist, sich füttern zu lassen, und die kleinen Menschenkinder sind ganz begeistert von dem unermüdlichen Appetit der kleinen Tierkinder.” (“The favourite game of all these little animals is being fed, and the little human children adore the unremittable appetites of the little animal children.”) “Lebendes Tier-Spielzeug”. _Berliner Illustrirte Zeitung_ no. 30, 26.07.1931: 1272.
 
@@ -299,7 +299,7 @@ What connects them is what stays the same, a motif that can be traced through a 
 
 [^18]: Mature lions, on the other hand, are more or less associated with the wilderness and (colonial) big game.
 
-[^19]: See, e.g., Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1958_, ed. by Aktien-Verein des Zoologischen Gartens Berlin. Berlin: 1958: 56.
+[^19]: See, e.g., Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1958_, Aktien-Verein des Zoologischen Gartens Berlin (ed.). Berlin: 1958: 56.
 
 [^20]: K. Heinroth to K.M. Schneider, 23.05.1951, AZGB O 0/1/284.
 
@@ -307,7 +307,7 @@ What connects them is what stays the same, a motif that can be traced through a 
 
 [^22]: L. Heck to H. Heck, 09.01.1934, AZGB N 1/7.
 
-[^23]: L. Heck to H. Heck, 09.01.1934, AZGB N 1/7. See also Haikal, Mustafa. _Die Löwenfabrik: Lebensläufe und Legenden_. Leipzig: Pro Leipzig, 2006; Haikal, Mustafa, and Jörg Junhold. _Auf der Spur des Löwen: 125 Jahre Zoo Leipzig_. Leipzig: pro Leipzig, 2003.
+[^23]: L. Heck to H. Heck, 09.01.1934, AZGB N 1/7. See also Mustafa Haikal. _Die Löwenfabrik: Lebensläufe und Legenden_. Leipzig: Pro Leipzig, 2006; Mustafa Haikal and Jörg Junhold. _Auf der Spur des Löwen: 125 Jahre Zoo Leipzig_. Leipzig: pro Leipzig, 2003.
 
 [^24]: In turn, zoos had to get rid of lions that were too big, resulting lion cubs being circulated in a manner similar to an economy of trade or barter.
 
@@ -331,11 +331,11 @@ What connects them is what stays the same, a motif that can be traced through a 
 
 [^34]: An annual photography permit cost 10 marks and annual photography permits for the zoo and aquarium 15 marks. Cf. Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1981_, Aktien-Verein des Zoologischen Gartens zu Berlin (ed.). Berlin: 1981.
 
-[^35]: Frädrich, Hans (ed.). _Wegweiser durch den Zoologischen Garten Berlin und sein Aquarium 1994_, ed. by Aktien-Verein des Zoologischen Gartens zu Berlin: Berlin: 1994.
+[^35]: Hans Frädrich (ed.). _Wegweiser durch den Zoologischen Garten Berlin und sein Aquarium 1994_, ed. by Aktien-Verein des Zoologischen Gartens zu Berlin: Berlin: 1994.
 
 [^36]: “More Tigers in American Backyards than in the Wild”. _WWF Stories_, 29.07.2014. https://www.worldwildlife.org/stories/more-tigers-in-american-backyards-than-in-the-wild. On the (frequently illegal) trade in ‘exotic pets’, see Collard, Rosemary-Claire. _Animal Traffic: Lively Capital in the Global Exotic Pet Trade_. Durham: Duke University Press, 2020.
 
-[^37]: See, e.g., Daly, Natasha. “Wundervolle Fotos – unsichtbares Leid”. _National Geographic: (Das Tier und Wir)_ 6, no. 51 (2019): 40-73.
+[^37]: See, e.g., Natasha Daly. “Wundervolle Fotos – unsichtbares Leid”. _National Geographic: (Das Tier und Wir)_ 6, no. 51 (2019): 40-73.
  
 :::DE:::
 
@@ -578,29 +578,29 @@ _Undatiertes Foto eines Mädchens mit Löwenbaby des Fotografen im Westberliner 
 
 Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre hinweg verfolgen lässt und dadurch einen seriellen Charakter bekommt. Während aber die Löwenbabyfotos inzwischen als Relikt erscheinen, sind Nachfolger längst da. Die Berührung zwischen Mensch und Raubtierjungem hat dabei weitere Räume erobert. Dazu zählt der boomende Wildtiertourismus in zahlreichen Ländern, dessen Geschäftsmodell auf das Anfassen als Erlebnis und das Urlaubsbild als Erinnerung setzt. Eine Konjunktur verzeichnet ebenfalls wieder (oder weiterhin) die Haltung von Raubtieren in privaten Wohnräumen: Dem WWF demzufolge lebten 2014 mehr Tiger in Privathaushalten in den USA als in Freiheit.[^36] Diese gegenwärtigen medialen Transformationen der Löwenbabyfotografie zeigen sich auch in Serien wie _Tiger King_ und im Erfolg der zahllosen privaten Fotos mit Raubtierjungen, die in den sozialen Medien zirkulieren. Viele der Kritikpunkte, die in diesen Zusammenhängen aufkommen, erinnern an die des Zoopublikums aus den 1980er Jahren. Wieder geht es bei der Frage nach den Fang- und Haltungsbedingungen, um die Arbeit des Tieres und die dahinterliegenden Ökonomien,[^37] und wieder geht es bei der Kritik am Motiv um Politiken des Tierbildes, um reproduzierte Exotizismen ebenso wie um das (ins Bild gesetzte) Verhältnis von Tier und Mensch. Während sich somit die Settings und medialen (Verbreitungs-)Formen wandeln und die Löwenbabyfotografien in Zoos bereits historisch geworden sind, bleiben die Fragen, die sie aufwerfen, aktuell. 
  
- [^1]: Vgl. die Zooführer von 1936, 1938 und 1940; sowie Heck, Ludwig. “Zootiere einst und jetzt”, Januar 1934, AZGB N 1/7. Seit wann genau es im Berliner Zoo den Fotostand gab, ist mir nicht bekannt. 
+[^1]: Vgl. die Zooführer von 1936, 1938 und 1940; sowie Ludwig Heck. “Zootiere einst und jetzt”, Januar 1934, AZGB N 1/7. Seit wann genau es im Berliner Zoo den Fotostand gab, ist mir nicht bekannt. 
 
-[^2]: Zukowsky, Hildegard. “Löwenprinzchen”. _CHITuMW_ 1, Nr. 6 (1926): 132-134, zit. nach: Klothmann, Nastasja. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 291.
+[^2]: Hildegard Zukowsky. “Löwenprinzchen”. _CHITuMW_ 1, Nr. 6 (1926): 132-134, zit. nach: Nastasja Klothmann. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 291.
 
 [^3]: Die Erlaubnis zum Fotografieren wurde in den Zoos verschieden gehandhabt. Während die Besucher:innen in Leipzig, Halle, Berlin und Wien eine Erlaubnis erwerben mussten, war das Fotografieren in anderen Zoos frei. Vgl. 40. Konferenz der Direktoren mitteleuropäischer Zoologischer Gärten in Breslau vom 23. bis 25. August 1928, AZGB V 1/10.
 
 [^4]: Zoologischer Garten Berlin. _Wegweiser durch den Zoologischen Garten Berlin_. Berlin 1938.
 
-[^5]: Wessely, Christina. _Löwenbaby_. Berlin: Matthes & Seitz, 2019.
+[^5]: Christina Wessely. _Löwenbaby_. Berlin: Matthes & Seitz, 2019.
 
-[^6]: Der Stand wechselte nach dem Krieg vom Platz neben dem Raubtierhaus zum Bärenzwinger. Vgl. Heinroth, Katharina. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege_, hg. vom Aktien-Verein des Zoologischen Gartens zu Berlin. Berlin 1956: 6.
+[^6]: Der Stand wechselte nach dem Krieg vom Platz neben dem Raubtierhaus zum Bärenzwinger, vgl. Katharina Heinroth. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege_, hg. vom Aktien-Verein des Zoologischen Gartens zu Berlin. Berlin 1956: 6.
 
-[^7]: Hediger, Vinzenz. “Das Tier auf unserer Seite: Zur Politik des Filmtiers am Beispiel von ‘Serengeti darf nicht sterben’”. In Anne von Heiden und Joseph Vogl (Hg.). _Politische Zoologie_. Zürich/Berlin 2007: 287-301. Ähnlich wie der Filmwissenschaftler Hediger argumentieren Historiker:innen wie Thomas M. Lekan, Angela Thompsell oder Bernhard Gißibl. Vgl. Lekan, Thomas M. _Our Gigantic Zoo: A German Quest to Save the Serengeti._ New York: Oxford University Press, 2020; Thompsell, Angela. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015; Gißibl, Bernhard. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. New York: Berghahn Books, 2016.
+[^7]: Vinzenz Hediger. “Das Tier auf unserer Seite: Zur Politik des Filmtiers am Beispiel von ‘Serengeti darf nicht sterben’”. In Anne von Heiden und Joseph Vogl (Hg.). _Politische Zoologie_. Zürich/Berlin 2007: 287-301. Ähnlich wie der Filmwissenschaftler Hediger argumentieren Historiker:innen wie Thomas M. Lekan, Angela Thompsell oder Bernhard Gißibl. Vgl. Thomas M. Lekan. _Our Gigantic Zoo: A German Quest to Save the Serengeti._ New York: Oxford University Press, 2020; Angela Thompsell. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015; Bernhard Gißibl. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. New York: Berghahn Books, 2016.
 
 [^8]: Es gehört zur visuellen Inszenierung vieler europäischer Großwildjäger, lokale Akteure weder namentlich zu nennen noch ihnen einen ebenbürtigen Platz im Bild einzuräumen.
 
-[^9]: Becker, Manfred. _Bwana Simba – Der Herr der Löwen: Carl Georg Schillings. Forscher und Naturschützer in Deutsch-Ostafrika_. Düren: Hahne & Schloemer Verlag, 2008.
+[^9]: Manfred Becker. _Bwana Simba: Der Herr der Löwen; Carl Georg Schillings, Forscher und Naturschützer in Deutsch-Ostafrika_. Düren: Hahne & Schloemer Verlag, 2008.
 
-[^10]: Schillings, Carl Georg. _Mit Blitzlicht und Büchse: Neue Beobachtungen und Erlebnisse in der Wildnis inmitten der Tierwelt von Äquatorial-Ostafrika_. Leipzig: R. Voigtländer, 1905.
+[^10]: Carl Georg Schillings. _Mit Blitzlicht und Büchse: Neue Beobachtungen und Erlebnisse in der Wildnis inmitten der Tierwelt von Äquatorial-Ostafrika_. Leipzig: R. Voigtländer, 1905.
 
 [^11]: _Ein Platz für Tiere_ gehört bis heute zu den erfolgreichsten Fernseh-Tierserien in Deutschland, die 31 Jahre und 175 Folgen lang lief.
 
-[^12]: Schneider, Karl Max. _Mit Löwen und Tigern unter einem Dach._ Wittenberg: Ziemsen, 1957; Grzimek, Bernhard. _Affen im Haus und andere Tierberichte_. Stuttgart: Franck’sche Verlagshandlung, 1951. 
+[^12]: Karl Max Schneider. _Mit Löwen und Tigern unter einem Dach._ Wittenberg: Ziemsen, 1957; Bernhard Grzimek. _Affen im Haus und andere Tierberichte_. Stuttgart: Franck’sche Verlagshandlung, 1951. 
 
 [^13]: “Das Lieblingsspiel all dieses Kleinzeugs ist, sich füttern zu lassen, und die kleinen Menschenkinder sind ganz begeistert von dem unermüdlichen Appetit der kleinen Tierkinder.” “Lebendes Tier-Spielzeug”. _Berliner Illustrirte Zeitung_ Nr. 30, 26.07.1931: 1272.
 
@@ -614,7 +614,7 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^18]: Ausgewachsene Löwen sind dagegen eher mit Wildnis und (kolonialer) Großwildjagd assoziiert werden.
 
-[^19]: Vgl. etwa Klös, Heinz-Georg. _Wegweiser durch den Zoologischen Garten Berlin 1958_, hg. von Aktien-Verein des Zoologischen Gartens Berlin. Berlin 1958: 56.
+[^19]: Vgl. etwa Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1958_, hg. von Aktien-Verein des Zoologischen Gartens Berlin. Berlin 1958: 56.
 
 [^20]: K. Heinroth an K.M. Schneider, 23.05.1951, AZGB O 0/1/284.
 
@@ -622,13 +622,13 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^22]: L. Heck an H. Heck, 09.01.1934, AZGB N 1/7.
 
-[^23]: L. Heck an H. Heck, 09.01.1934, AZGB N 1/7. Vgl. auch Haikal, Mustafa. _Die Löwenfabrik: Lebensläufe und Legenden_. Leipzig: Pro Leipzig, 2006; Haikal, Mustafa, und Jörg Junhold. _Auf der Spur des Löwen: 125 Jahre Zoo Leipzig_. Leipzig: pro Leipzig, 2003.
+[^23]: L. Heck an H. Heck, 09.01.1934, AZGB N 1/7. Vgl. auch Mustafa Haikal. _Die Löwenfabrik: Lebensläufe und Legenden_. Leipzig: Pro Leipzig, 2006; Mustafa Haikal und Jörg Junhold. _Auf der Spur des Löwen: 125 Jahre Zoo Leipzig_. Leipzig: pro Leipzig, 2003.
 
 [^24]: Umgekehrt musste man zu große Löwen wieder los werden; es entstand eine Zirkulation von Löwenjungen, die als Waren- oder Tauschökonomie funktionierte.
 
 [^25]: K. Heinroth an K.M. Schneider, 23.05.1951, AZGB O 0/1/284. 
 
-[^26]: “Die Babys habe ich mir für 1000 DDR-Mark pro Löwe in verschiedenen Zoos gekauft.” Insgesamt kaufte er rund 50 Löwen, die er dann nach ein paar Monaten an die Zoos in der DDR verschenkte. Vgl. “Michael Barz lüftet das Geheimnis um die Löwen-Babys vom Tierpark”. _B.Z._, 06.01.2016. 
+[^26]: “Die Babys habe ich mir für 1000 DDR-Mark pro Löwe in verschiedenen Zoos gekauft.” Insgesamt kaufte er rund 50 Löwen, die er dann nach ein paar Monaten an die Zoos in der DDR verschenkte, vgl. “Michael Barz lüftet das Geheimnis um die Löwen-Babys vom Tierpark”. _B.Z._, 06.01.2016. 
 
 [^27]: Laut der Direktion gab der Fotograf die herangewachsenen Löwenjungen an andere westdeutsche Tiergärten ab.
 
@@ -646,8 +646,8 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^34]: Foto-Jahreskarten kosteten 10 Mark und Zoo- und Aquarium-Fotojahreskarten beliefen sich auf 15 Mark. Vgl. Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1981_, Aktien-Verein des Zoologischen Gartens zu Berlin (Hg.). Berlin: 1981.
 
-[^35]: Frädrich, Hans (Hg.). _Wegweiser durch den Zoologischen Garten Berlin und sein Aquarium 1994_, hg. vom Aktien-Verein des Zoologischen Gartens zu Berlin. Berlin: 1994.
+[^35]: Hans Frädrich (Hg.). _Wegweiser durch den Zoologischen Garten Berlin und sein Aquarium 1994_, hg. vom Aktien-Verein des Zoologischen Gartens zu Berlin. Berlin: 1994.
 
-[^36]: “More Tigers in American Backyards than in the Wild”. _WWF Stories_, 29.07.2014. https://www.worldwildlife.org/stories/more-tigers-in-american-backyards-than-in-the-wild. Zum (häufig illegalen) Handel mit ‘exotischen Haustieren’ vgl. Collard, Rosemary-Claire. _Animal Traffic: Lively Capital in the Global Exotic Pet Trade_. Durham: Duke University Press, 2020.
+[^36]: “More Tigers in American Backyards than in the Wild”. _WWF Stories_, 29.07.2014. https://www.worldwildlife.org/stories/more-tigers-in-american-backyards-than-in-the-wild. Zum (häufig illegalen) Handel mit ‘exotischen Haustieren’ vgl. Rosemary-Claire Collard. _Animal Traffic: Lively Capital in the Global Exotic Pet Trade_. Durham: Duke University Press, 2020.
 
-[^37]: Vgl. etwa Daly, Natasha. “Wundervolle Fotos – unsichtbares Leid”. _National Geographic (Das Tier und Wir)_ 6, Nr. 51 (2019): 40-73.
+[^37]: Vgl. etwa Natasha Daly. “Wundervolle Fotos – unsichtbares Leid”. _National Geographic (Das Tier und Wir)_ 6, Nr. 51 (2019): 40-73.
