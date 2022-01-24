@@ -3,7 +3,7 @@ license: CC BY-SA
 title: “Knut”
 title_de: “Knut”
 created: 1618576718116
-updated: 1643053408354
+updated: 1643054499059
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/27
@@ -101,7 +101,7 @@ As Cord Riechelmann wrote in the _Tageszeitung_:
  
 >“In Knut’s case, the usual disdain that we feel for animals has morphed into an extreme urge to protect.”[^11]
  
-Riechelmann emphasised the way that humans exploited animals and said that this [[exploitation|story.the-worlds-we-make]] had only seemingly been suspended, even in “Knut’s” case. In fact, there were also political and [[financial economies|story.silk-culture]] at play in “Knut’s” case, which had an impact on the bear’s growing fame. For example, “Knut” was soon cast as a symbol of his threatened habitat.
+Riechelmann emphasised the way that humans exploited animals and said that this [[exploitation|story.the-worlds-we-make]] had only seemingly been suspended, even in “Knut’s” case. In fact, there were also political and financial [[economies|story.silk-culture]] at play in “Knut’s” case, which had an impact on the bear’s growing fame. For example, “Knut” was soon cast as a symbol of his threatened habitat.
  
 ## Climate Protection Ambassador
  
@@ -155,7 +155,7 @@ _Cover of the German edition of the magazine_ Vanity Fair, _no. 14, 2007._
  
 According to zoo employees, while “Knut” was alive, there was a mobile kiosk that sold “Knut” souvenirs in front of the polar bear enclosure. Nothing like that has ever been seen at any other animal enclosures. Even when he grew into a polar bear ‘teenager’ after just a few months, “Knut” continued to attract many onlookers. When Zoo Director Bernhard Blaszkiewitz decided to bar the main keeper Thomas Dörflein from close contact with the bear for safety reasons, as he was now a danger to humans, his decision was criticised by “Knut” fans. Some of them were worried about the animal’s well-being, as “Knut” was now being kept in a shared enclosure with other members of his species instead of being in intensive daily contact with Thomas Dörflein and other keepers. But this did not harm the value of the brand. On “Knut’s” birthdays, the zoo was full, and vast crowds of visitors thronged in front of the enclosure, which can be seen in photos from the zoo’s archive.
  
-The social scientist Guro Flinterud has described the contradiction evident here: keeping and breeding polar bears in human captivity is a potentially unsuitable means of preventing habitat destruction, which is caused worldwide by the “physically unrelated actions” of the [[consumer industry|theme.showing-animals]]. Reintroducing polar bears to the melting Arctic ice is almost impossible. It was therefore possibly the complexity of the climate crisis that fostered “Knut’s” “simple symbolism” in the first place.[^21]
+The social scientist Guro Flinterud has described the contradiction evident here: keeping and breeding polar bears in [[human captivity|theme.showing-animals]] is a potentially unsuitable means of preventing habitat destruction, which is caused worldwide by the “physically unrelated actions” of the consumer industry. Reintroducing polar bears to the melting Arctic ice is almost impossible. It was therefore possibly the complexity of the climate crisis that fostered “Knut’s” “simple symbolism” in the first place.[^21]
  
 ## “Knut” Dies
  
@@ -302,9 +302,9 @@ Environmental politics are another factor that would be difficult to reproduce t
  
 [^2]: Zoologischer Garten Berlin AG: Press releases 04/07, 22.01.2007, and 15/07, 28.02.2007.
  
-[^3]: Cf. Flinterud, Guro, and Adam Dodd. “Polar Bear Knut and his Blog”. In _Animals on Display: The Creaturely in Museums, Zoos and Natural History_, Liv Emma Thorsen and Karen A. Rader (eds.). University Park, PA: The Pennsylvania State University Press, 2013: 192-213; Flinterud, Guro. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Thesis. University of Oslo, Faculty of Humanities, 2012: 133-136.
+[^3]: Cf. Guro Flinterud and Adam Dodd. “Polar Bear Knut and his Blog”. In _Animals on Display: The Creaturely in Museums, Zoos and Natural History_, Liv Emma Thorsen and Karen A. Rader (eds.). University Park, PA: The Pennsylvania State University Press, 2013: 192-213; Flinterud, Guro. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Thesis. University of Oslo, Faculty of Humanities, 2012: 133-136.
  
-[^4]: Meier, Jürg. _Handbuch Zoo: Moderne Tiergartenbiologie_. Bern, Stuttgart, and Vienna: Haupt Verlag, 2009: 117-118.
+[^4]: Jürg Meier. _Handbuch Zoo: Moderne Tiergartenbiologie_. Bern, Stuttgart, and Vienna: Haupt Verlag, 2009: 117-118.
  
 [^5]: These segments can be found on the website of the German Federal Film Archives: https://www.filmothek.bundesarchiv.de/?set_lang=en (03.01.2022).
  
@@ -312,13 +312,13 @@ Environmental politics are another factor that would be difficult to reproduce t
  
 [^7]: “Tierschützer: Knuddel-Knut hätte sterben müssen!” _Rheinische Post Online_, 19.03.2021, https://rp-online.de/panorama/deutschland/tierschuetzer-knuddel-knut-haette-sterben-muessen_aid-11295343?output=amp (03.01.2022).
  
-[^8]: Krögel, Anette. “Wird Knut ein Problembär?” _Der Tagesspiegel online_, 20.03.2007, https://www.tagesspiegel.de/berlin/wird-knut-ein-problembaer/824706.html (03.01.2022).
+[^8]: Anette Krögel. “Wird Knut ein Problembär?” _Der Tagesspiegel online_, 20.03.2007, https://www.tagesspiegel.de/berlin/wird-knut-ein-problembaer/824706.html (03.01.2022).
  
 [^9]: “Eisbärbaby Knut entkommt der Todesspritze”. _Welt Online_, 19.03.2007, https://www.welt.de/vermischtes/article768024/Eisbaerbaby-Knut-entkommt-der-Todesspritze.html (03.01.2022).
  
 [^10]: “Eisbär Knut darf leben”. _Merkur.de_, 01.07.2007, https://www.merkur.de/welt/eisbaer-knut-darf-leben-377265.html (03.01.2022).
  
-[^11]: Riechelmann, Cord. “Lass uns über Produktion reden”. _Die Tageszeitung_, 14.04.2007.
+[^11]: Cord Riechelmann. “Lass uns über Produktion reden”. _Die Tageszeitung_, 14.04.2007.
  
 [^12]: “Flußpferd und Eisbär Neuzugänge auf Roter Liste”. _Frankfurter Allgemeine Zeitung Online_, 02.05.2006, https://www.faz.net/aktuell/wissen/natur/artensterben-flusspferd-und-eisbaer-neuzugaenge-auf-roter-liste-1330020.html (03.01.2022).
  
@@ -328,17 +328,17 @@ Environmental politics are another factor that would be difficult to reproduce t
  
 [^15]: Zoologischer Garten Berlin AG and Universal Music: Press release, 25/07, 17.04.2007.
  
-[^16]: Gabriel, Sigmar. “Kann Knut den Klimawandel bremsen?” In _Das große Knut-Album_, ed. by _B.Z. extra_, 49. Berlin: _B.Z._, 2007: 49.
+[^16]: Sigmar Gabriel. “Kann Knut den Klimawandel bremsen?” In _Das große Knut-Album_, ed. by _B.Z. extra_, 49. Berlin: _B.Z._, 2007: 49.
  
 [^17]: “Knut und seine Freunde”, dir. by Michael G. Johnson, prod. by DOKfilm Fernsehproduktion GmbH, Norddeutscher Rundfunk, Rundfunk Berlin Brandenburg, 2008.
  
-[^18]: Flinterud, Guro. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Thesis. University of Oslo, Faculty of Humanities, 2012: 112.
+[^18]: Guro Flinterud. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Thesis. University of Oslo, Faculty of Humanities, 2012: 112.
  
 [^19]: “Als Marke ist Knut Millionen wert”. _Spiegel Online_, 31.03.2007, https://www.spiegel.de/panorama/gesellschaft/berliner-eisbaerenbaby-als-marke-ist-knut-millionen-wert-a-475021.html (03.01.2022).
  
 [^20]: “Knut begeistert Aktionäre”. _Spiegel Online_, 03.04.2021, https://www.spiegel.de/wirtschaft/berliner-zoo-knut-begeistert-aktionaere-a-475415.html (03.01.2022).
  
-[^21]: Flinterud, Guro. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Thesis. University of Oslo, Faculty of Humanities, 2012: 208-209.
+[^21]: Guro Flinterud. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Thesis. University of Oslo, Faculty of Humanities, 2012: 208-209.
  
 [^22]: The forum describes itself as follows: “knutitis.com is a meeting place for Knut fans from all over the world. The focus is, of course, on Knut the polar bear. But you can also come here to talk about other zoo animals and zoos. We are a group of animal enthusiasts from all over the world who met through Knut and who have since become friends. We are committed, enthusiastic, and maybe even a little crazy.” www.knutitis.com (03.01.2022).
  
@@ -350,17 +350,17 @@ Environmental politics are another factor that would be difficult to reproduce t
  
 [^26]: “Denkmal für Knut”. _Münz-Woche_, 15.03.2012, https://muenzenwoche.de/denkmal-fuer-knut/ (03.01.2022).
  
-[^27]: Klumbies, Anneliese, and Jürgen Simoleit. _Hier kommt Knut! Eine wahre Geschichte_. Hamburg: self-published, 2020. 
+[^27]: Anneliese Klumbies and Jürgen Simoleit. _Hier kommt Knut! Eine wahre Geschichte_. Hamburg: self-published, 2020. 
  
-[^28]: Klumbies, Anneliese. _Knut: Der Bär, die Stadt und der Zoo_. Hamburg: self-published, 2013.
+[^28]: Anneliese Klumbies. _Knut: Der Bär, die Stadt und der Zoo_. Hamburg: self-published, 2013.
  
-[^29]: Cf. Damaschun, Ferdinand, ed. _Panda: Das Buch zur Sonderausstellung im Museum für Naturkunde_. Berlin: Museum für Naturkunde, 2015.
+[^29]: Cf. Ferdinand Damaschun, ed. _Panda: Das Buch zur Sonderausstellung im Museum für Naturkunde_. Berlin: Museum für Naturkunde, 2015.
  
-[^30]: Matthies, Bernd. “Ein Bär kann auch leger”. _Der Tagesspiegel_, 16.02.2013; Conrad, Andreas. “Berliner Bärenlese”. _Der Tagesspiegel_, 12.01.2015, https://www.tagesspiegel.de/berlin/pandas-im-museum-berliner-baerenlese/11219278.html (03.01.2022).
+[^30]: Bernd Matthies. “Ein Bär kann auch leger”. _Der Tagesspiegel_, 16.02.2013; Conrad, Andreas. “Berliner Bärenlese”. _Der Tagesspiegel_, 12.01.2015, https://www.tagesspiegel.de/berlin/pandas-im-museum-berliner-baerenlese/11219278.html (03.01.2022).
  
-[^31]: Nicholls, Henry. “The Afterlife of Chi-Chi”. In _The Afterlives of Animals: A Museum Menagerie_, Samuel J. M. M. Alberti (eds.). Charlottesville: University of Virginia Press, 2011.
+[^31]: Henry Nicholls. “The Afterlife of Chi-Chi”. In _The Afterlives of Animals: A Museum Menagerie_, Samuel J. M. M. Alberti (eds.). Charlottesville: University of Virginia Press, 2011.
  
-[^32]: Flinterud, Guro. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Thesis. University of Oslo, Faculty of Humanities, 2012: 239-245.
+[^32]: Guro Flinterud. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Thesis. University of Oslo, Faculty of Humanities, 2012: 239-245.
  
 [^33]: Verband der Zoologischen Gärten e.V. “Die Deutschen und ihre Zoos: Ergebnisse der Forsa Studie”. _VDZ_, 2020, https://www.vdz-zoos.org/fileadmin/PMs/2020/VdZ/Forsa-Broschuere_Die_Deutschen_und_ihre_Zoos.pdf (03.01.2022).
  
@@ -382,7 +382,7 @@ Zoomitarbeiter:innen aus Berlin kennen das: Erfahren andere Menschen von ihrem A
  
 ## A star is born!
  
-Am 5. Dezember 2006 gegen 15:00 Uhr brachte die Eisbärin “Tosca” zwei Jungtiere zur Welt. Nach kurzer Zeit stellte sich heraus, dass das Muttertier keine Anzeichen einer pflegenden Fürsorge zeigte. **Eines der Jungtiere starb. Das andere wurde aus dem Gehege entfernt und erfolgreich mit der Flasche versorgt.**[^2] Die beiden Pfleger und die zuständigen Kuratoren gaben ihm den Namen “Knut”. 
+Am 5. Dezember 2006 gegen 15:00 Uhr brachte die Eisbärin “Tosca” zwei Jungtiere zur Welt. Nach kurzer Zeit stellte sich heraus, dass das Muttertier keine Anzeichen einer pflegenden Fürsorge zeigte. **Eines der Jungtiere starb. Das andere wurde aus dem Gehege entfernt und erfolgreich mit der [[Flasche|story.feeding-and-overfeeding]] versorgt.**[^2] Die beiden Pfleger und die zuständigen Kuratoren gaben ihm den Namen “Knut”. 
  
 Damals war ein solcher Verlauf bei einer Zootiergeburt und die anschließende Aufzucht mit der Flasche eigentlich kein ungewöhnlicher Vorgang. Aber aus verschiedenen Gründen wurde das Eisbärenjunge bald sehr bekannt. Im Folgenden soll untersucht werden, wie “Knut” schon sehr bald ein Medienstar, ein Auslöser für Verhandlungen des Tier-Mensch-Verhältnisses in der Zootierhaltung und ein ökonomischer Kapitalfaktor des Berliner Zoos wurde, wie er zu einem Botschafter des Umweltschutzes stilisiert wurde und wie ihn viele Menschen als Begleiter ihres Lebens wahrnahmen.
  
@@ -391,7 +391,7 @@ An der Geschichte “Knut” lassen sich eine Anzahl Prozesse zeigen, die ein Ti
  
 ## Aufmerksamkeitsökonomien
  
-Am Ende seines ersten Lebensjahres war das Eisbärenjunge in Berlin ein internationaler Medienstar. Einen großen Anteil an der Popularität des Tieres hatten die lokalen Medien, insbesondere die regionale ARD-Anstalt Rundfunk Berlin-Brandenburg (RBB). **Schon als das Tier noch gar nicht offiziell vorgestellt worden war und noch hinter den Kulissen versorgt wurde, informierte der RBB seine Hörer:innen und Zuschauer:innen täglich mit Nachrichten aus dem Zoo über den Zustand des kleinen Bären und dessen Beziehung zu seinem Hauptpfleger Thomas Dörflein.** Hierzu wurden Videoaufzeichnungen der Pfleger genutzt. Zudem nutzte der RBB unter www.rbb-online.de/knut das damals noch relativ neue Medium eines Blogs. Diese täglichen Updates auf einer eigenen Website hatten maßgeblichen Anteil an “Knuts” wachsender Berühmtheit. Die Redakteur:innen beim RBB wählten für die Blogeinträge die Ich-Perspektive des Eisbären und schrieben im Stil eines kindlichen Tagebuchs. Der Pfleger Thomas Dörflein avancierte in diesem Medium zum “Papa”.[^3]
+Am Ende seines ersten Lebensjahres war das Eisbärenjunge in Berlin ein internationaler [[Medienstar|story.photos-with-lion-cubs]]. Einen großen Anteil an der Popularität des Tieres hatten die lokalen Medien, insbesondere die regionale ARD-Anstalt Rundfunk Berlin-Brandenburg (RBB). **Schon als das Tier noch gar nicht offiziell vorgestellt worden war und noch hinter den Kulissen versorgt wurde, informierte der RBB seine Hörer:innen und Zuschauer:innen täglich mit Nachrichten aus dem Zoo über den Zustand des kleinen Bären und dessen Beziehung zu seinem Hauptpfleger Thomas Dörflein.** Hierzu wurden Videoaufzeichnungen der Pfleger genutzt. Zudem nutzte der RBB unter www.rbb-online.de/knut das damals noch relativ neue Medium eines Blogs. Diese täglichen Updates auf einer eigenen Website hatten maßgeblichen Anteil an “Knuts” wachsender Berühmtheit. Die Redakteur:innen beim RBB wählten für die Blogeinträge die Ich-Perspektive des Eisbären und schrieben im Stil eines kindlichen Tagebuchs. Der Pfleger Thomas Dörflein avancierte in diesem Medium zum “Papa”.[^3]
  
 “Knut” und sein “Papa” waren ein Team, das die Medien gut vermarkten konnten: hier das tapsige weiße Fellbündel, dort der bärtige Mann, der bei seinem Pflegling einzog und ihm auf der Gitarre Lieder von Elvis Presley vorspielte.
  
@@ -435,7 +435,7 @@ Cord Riechelmann schrieb dazu in der _Tageszeitung_:
  
 >“Die gewöhnliche Geringschätzung, die wir für das Tier empfinden, ist im Fall von Knut in extremen Beschützerdrang umgeschlagen.”[^11]
  
-Riechelmann betonte die menschliche Ausnutzung von Tieren, die auch im Falle “Knuts” nur scheinbar ausgesetzt sei. In der Tat gab es auch im Fall “Knuts” politische und finanzielle Ökonomien, die eine Rolle für die wachsende Bekanntheit des Bären spielten. So wurde “Knut” bald eine Funktion als Symbol seines bedrohten Lebensraums zugewiesen.
+Riechelmann betonte die menschliche [[Ausnutzung|story.the-worlds-we-make]] von Tieren, die auch im Falle “Knuts” nur scheinbar ausgesetzt sei. In der Tat gab es auch im Fall “Knuts” politische und finanzielle [[Ökonomien|story.silk-culture]], die eine Rolle für die wachsende Bekanntheit des Bären spielten. So wurde “Knut” bald eine Funktion als Symbol seines bedrohten Lebensraums zugewiesen.
  
 ## Botschafter des Klimaschutzes
  
@@ -451,7 +451,7 @@ _Bundesumweltminister Sigmar Gabriel umrahmt von Tierpfleger Thomas Dörflein, �
  
 </figure>
  
-“Knuts” Geburt fiel in eine Zeit, in der zum ersten Mal eine intensive Diskussion um die Klimakrise und die Bedrohung des natürlichen Lebensraums der Eisbären geführt wurde. **Das Tier eignete sich als Botschafter in der Klimadebatte.** Auch deshalb, weil angesichts wissenschaftlicher Prognosen zum Rückgang des arktischen Meereises die Tierart just im Geburtsjahr “Knuts” auf die Liste gefährdeter Arten der Weltnaturschutzunion (International Union for Conservation of Nature and Natural Resources, IUCN) gesetzt wurde.[^12]
+“Knuts” Geburt fiel in eine Zeit, in der zum ersten Mal eine intensive Diskussion um die [[Klimakrise|material.fossil-fuels]] und die Bedrohung des natürlichen Lebensraums der Eisbären geführt wurde. **Das Tier eignete sich als Botschafter in der Klimadebatte.** Auch deshalb, weil angesichts wissenschaftlicher Prognosen zum Rückgang des arktischen Meereises die Tierart just im Geburtsjahr “Knuts” auf die Liste gefährdeter Arten der Weltnaturschutzunion (International Union for Conservation of Nature and Natural Resources, IUCN) gesetzt wurde.[^12]
  
 Weltweite Bedeutung konnte der Berliner Eisbär aber erst gewinnen, weil zudem noch ein Zufall half. Kurz nach der ersten öffentlichen Vorstellung des Tieres Ende März 2007 versammelten sich die Staats- und Regierungschef:innen der Europäischen Union zum 50. Jahrestag der Unterzeichnung der Römischen Verträge in Berlin. Mit ihnen waren Vertreter:innen der nationalen und internationalen Presse in die Stadt gekommen. Sie waren ebenso begeistert von dem Jungtier wie schon seit Monaten die lokale Presse. **“Knut” machte Schlagzeilen in aller Welt.** Die überraschten Kurator:innen und die Zooleitung gaben an dem Wochenende hunderte Interviews.[^13] Außerdem sorgten zehntausende zusätzliche Besucher:innen für eine eindrucksvolle Kulisse. Sicherheitsleute mussten den Andrang vor der Freianlage kontrollieren. Schon im Frühsommer hatten eine Million Gäste den Zoo besucht.[^14]
  
@@ -489,7 +489,7 @@ _Titelseite der deutschen Ausgabe der Zeitschrift_ Vanity Fair, _Nr. 14 von 2007
  
 Solange “Knut” lebte, stand nach Angaben von Zoomitarbeiter:innen ein mobiler Kiosk für den Verkauf von “Knut”-Souvenirs vor dem Eisbärengehege. Vor anderen Tiergehegen geschah dies bislang nicht. “Knut” zog, auch als er nach einigen Monaten schon ein Eisbär-‘Teenager’ wurde, weiterhin viele Schaulustige an. Als Zoodirektor Bernhard Blaszkiewitz die Entscheidung traf, den Hauptpfleger Thomas Dörflein aus Sicherheitsgründen den Nahkontakt mit dem nun bereits für Menschen gefährlichen Bären zu untersagen, wurde dieser Entschluss von den “Knut”-Fans kritisiert. Einige sorgten sich um das Wohlergehen des Tieres, als dieses anstelle des täglichen intensiven Kontakts mit Thomas Dörflein und anderen Pflegern nun mit Artgenossinnen in einem gemeinsamen Gehege gehalten wurde. Dem Wert der Marke tat das aber keinen Abbruch. Zu “Knuts” Geburtstagen war der Zoo voll und unüberschaubare Besucher:innenmengen drängten sich, ausweislich der Fotos im Zooarchiv, vor dem Gehege.
  
-Die Sozialwissenschaftlerin Guro Flinterud beschrieb den hier sichtbaren Widerspruch, dass die Haltung und Zucht von Eisbären in menschlicher Obhut möglicherweise nur schlecht als Mittel gegen die Habitatzerstörung geeignet ist, die durch “physisch abgekoppelte Akte” des Konsumhandelns weltweit verursacht wird. Eine Wiedereinführung von Eisbären auf dem schmelzenden Arktiseis ist kaum möglich. Die Komplexität der Klimakrise förderte daher möglicherweise erst den “schlichten Symbolismus”, der “Knut” umgab.[^21]
+Die Sozialwissenschaftlerin Guro Flinterud beschrieb den hier sichtbaren Widerspruch, dass die [[Haltung und Zucht|theme.showing-animals]] von Eisbären in menschlicher Obhut möglicherweise nur schlecht als Mittel gegen die Habitatzerstörung geeignet ist, die durch “physisch abgekoppelte Akte” des Konsumhandelns weltweit verursacht wird. Eine Wiedereinführung von Eisbären auf dem schmelzenden Arktiseis ist kaum möglich. Die Komplexität der Klimakrise förderte daher möglicherweise erst den “schlichten Symbolismus”, der “Knut” umgab.[^21]
  
 ## “Knut” stirbt
  
@@ -548,7 +548,7 @@ Die benötigten Spenden wurden vom Förderverein Stiftung Hauptstadtzoos gesamme
  
 ## “Knuts” Tod und Präparation
  
-Schon kurz nach dem Tod des Eisbären wurde die Entscheidung getroffen, den Kadaver des Tieres in das Berliner Naturkundemuseum zu bringen. **Dort sollte er präpariert werden und als Objekt weiterhin naturkundlicher Bildung dienen. Gegen diese fortgesetzte Ausstellung entbrannte unter den “Knut”-Fans ein wütender Protest.** Wieder erreichten den Zoo zahllose Schreiben. Viele bezeichneten dessen Handeln als pietätlos. Es kam auch zu einer Demonstration vor dem Zooeingang am Hardenbergplatz. Fotos aus dem Zooarchiv zeigen Demonstrant:innen mit Plakaten wie diesem:
+Schon kurz nach dem Tod des Eisbären wurde die Entscheidung getroffen, den Kadaver des Tieres in das Berliner Naturkundemuseum zu bringen. **Dort sollte er präpariert werden und als [[Objekt|story.bobby-tracking-body-parts2]] weiterhin naturkundlicher Bildung dienen. Gegen diese fortgesetzte Ausstellung entbrannte unter den “Knut”-Fans ein wütender Protest.** Wieder erreichten den Zoo zahllose Schreiben. Viele bezeichneten dessen Handeln als pietätlos. Es kam auch zu einer Demonstration vor dem Zooeingang am Hardenbergplatz. Fotos aus dem Zooarchiv zeigen Demonstrant:innen mit Plakaten wie diesem:
  
 >“Kinder fragen… Warum darf Knut nicht in den Himmel? // Mutter denkt: Weil mit ihm Geld verdient werden soll… // Mutter sagt: Knut wird es schon gutgehen… // Wir wollen unsere Kinder nicht anlügen müssen um sie zu schützen!!!! // Auch darum fordern wir: Lasst Knut’s Körper in Ruhe und ihn endlich seinen Frieden finden.”
  
@@ -568,7 +568,7 @@ _Protestplakat gegen die Präparation “Knuts”, 2011. (AZGB. Alle Rechte vorb
  
 </figure>
  
-Letztlich wurde Knut präpariert und sein Präparat ist heute im Museum für Naturkunde zu sehen.
+Letztlich wurde Knut präpariert und sein [[Präparat|material.jendaya-parakeet]] ist heute im Museum für Naturkunde zu sehen.
  
 <figure>
  
@@ -610,13 +610,13 @@ _Facebook-Post des Fördervereins Freunde der Hauptstadtzoos auf Facebook, 22.09
  
 </figure>
  
-Die vielen Kommentare und Reaktionen auf den Post zeigen, dass Zoobesucher:innen durch das Thema noch heute emotional angesprochen werden. Fast alle Kommentare enthielten Emojis mit Tränen, Herzen – oft auch gebrochen – und ähnliche Bildrepräsentationen von Trauer und Schmerz über den Tod von Thomas Dörflein. Die meisten Kommentare bezogen sich aber auch auf dessen Pflegling und darauf, dass “Knut” ebenso unvergessen bleibe wie Thomas Dörflein. Die wahrgenommene Symbiose des Pflegers und seines Pfleglings sowie der emotionale Wert beider trug über ihren Tod hinaus und war auch zwölf beziehungsweise neun Jahre nach deren Tod in der Lage, Emotionen zu mobilisieren.
+Die vielen Kommentare und Reaktionen auf den Post zeigen, dass Zoobesucher:innen durch das Thema noch heute emotional angesprochen werden. Fast alle Kommentare enthielten Emojis mit Tränen, Herzen – oft auch gebrochen – und ähnliche Bildrepräsentationen von Trauer und Schmerz über den Tod von Thomas Dörflein. Die meisten Kommentare bezogen sich aber auch auf dessen Pflegling und darauf, dass “Knut” ebenso unvergessen bleibe wie Thomas Dörflein. Die wahrgenommene [[Symbiose|story.of-microbes-and-planets]] des Pflegers und seines Pfleglings sowie der emotionale Wert beider trug über ihren Tod hinaus und war auch zwölf beziehungsweise neun Jahre nach deren Tod in der Lage, Emotionen zu mobilisieren.
  
 Während diese Zeilen im Sommer 2021 verfasst wurden, erreichte den Berliner Zoo ein Exemplar eines im Selbstverlag erschienenen Buchs.[^27] Die Autorin hatte bereits 2013 – ebenfalls im Selbstverlag – das Buch _Knut. Der Bär, die Stadt und der Zoo_ herausgebracht, welches vom Leben des Eisbären handelte.[^28] Das Buch von 2020 – eine Sammlung mit Text kommentierter, wahrscheinlich selbst aufgenommener Fotos und Zeitungsausschnitte – ist weitgehend im Präsens geschrieben. Für eine Lebensbeschreibung eines vor nunmehr fast zehn Jahren gestorbenen Tieres scheint das ungewöhnlich. Eine Fortsetzung wird angekündigt, denn das Buch endet noch im Jungtierstadium Knuts. Aber vielleicht ist die grammatikalische Gegenwart hier auch eine Übersetzung der emotionalen Ebene. Für einige Menschen ist “Knut” immer noch gegenwärtig.
  
 ## Knut und die Faktoren des Ruhms
  
-Die Proteste um die Präparation “Knuts” sind bislang einzigartig. Dabei war er nicht das erste äußerst beliebte Zootier, das nach seinem Tod im Naturkundemuseum ausgestellt wurde. Anders als bei “Knut” im Jahr 2013 fand sich im Pressearchiv des Zoos etwa 1935 – selbst wenn sich die Presse einer Demokratie und die einer Diktatur nicht vergleichen lassen – keine Diskussion über die Ausstellung des damals höchst beliebten Gorillas [[Bobby|story.bobby-tracking-body-parts2]]. Auch die Anfertigung einer Dermoplastik des berühmten Flusspferds “Knautschke” im Jahr 1988 war nicht umstritten. “Knautschke” war wahrscheinlich 1942 als Jungtier in den Berliner Zoo gekommen und gehörte zu den wenigen Großtieren, die den Krieg im Zoo überlebten. In der Nachkriegszeit und während der Berlin-Blockade war er von den Berliner:innen durchgefüttert worden. Als Symbol einer Schicksalsgemeinschaft in [[Not|story.feed-scarcity]] kursierten unzählige Anekdoten über ihn. Doch trotz der augenscheinlichen Beliebt- und Bekanntheit des Tieres erregte die Ausstellung des Gipsmodells, in dem auch präparierten Teile des Tierkörpers enthalten waren, im Berliner Stadtmuseum in den 1980er Jahren keine Kritik. 1998 bot das Modell die Vorlage zur Anfertigung einer Skulptur von “Knautschke” – sie dient vor dem Flusspferdhaus im Zoo Kindern als Bühne für Erinnerungsfotos, hat aber nie den Status eines Denkmals erlangt.
+Die Proteste um die Präparation “Knuts” sind bislang einzigartig. Dabei war er nicht das erste äußerst beliebte Zootier, das nach seinem Tod im Naturkundemuseum ausgestellt wurde. Anders als bei “Knut” im Jahr 2013 fand sich im Pressearchiv des Zoos etwa 1935 – selbst wenn sich die Presse einer Demokratie und die einer Diktatur nicht vergleichen lassen – keine Diskussion über die Ausstellung des damals höchst beliebten Gorillas [[Bobby|story.bobby-tracking-body-parts2]]. Auch die Anfertigung einer Dermoplastik des berühmten Flusspferds “Knautschke” im Jahr 1988 war nicht umstritten. “Knautschke” war wahrscheinlich 1942 als Jungtier in den Berliner Zoo gekommen und gehörte zu den wenigen Großtieren, die den Krieg im Zoo überlebten. In der Nachkriegszeit und während der Berlin-Blockade war er von den Berliner:innen durchgefüttert worden. Als Symbol einer [[Schicksalsgemeinschaft|story.feed-scarcity]] kursierten unzählige Anekdoten über ihn. Doch trotz der augenscheinlichen Beliebt- und Bekanntheit des Tieres erregte die Ausstellung des Gipsmodells, in dem auch präparierten Teile des Tierkörpers enthalten waren, im Berliner Stadtmuseum in den 1980er Jahren keine Kritik. 1998 bot das Modell die Vorlage zur Anfertigung einer Skulptur von “Knautschke” – sie dient vor dem Flusspferdhaus im Zoo Kindern als Bühne für Erinnerungsfotos, hat aber nie den Status eines Denkmals erlangt.
  
 **Ebenso wie die Präparation “Knautschkes” hat die Ausstellung “Bao-Baos”, des 2012 verstorbenen, 34 Jahre alten Pandas aus dem Zoologischen Garten im Naturkundemuseum keine Kontroversen verursacht.** Das ergab eine Durchsicht der zeitgenössischen Presse. Dabei war der Große Panda lange Zeit ein verlässlicher Publikumsmagnet des Berliner Zoos gewesen. Besucher:innen, Zoofreund:innen und Presse hatten viel Anteil an den gescheiterten Zuchtversuchen und dem Schicksal der beiden Pandaweibchen “Tien-Tien” und “Yan-Yan” genommen, die jeweils vor “Bao-Bao” starben.[^29] Auch diese beiden sind als naturkundliche Schaustücke präpariert worden. Fragte der _Tagesspiegel_ 2013 zur Aufstellung der Dermoplastik “Knuts” im Naturkundemuseum noch “Ein Symbol? Ein Idol? Oder einfach nur eine Dermoplastik?”, wurde die Ausstellung aller drei Berliner Pandas 2015 als “Feier” der toten Stars bezeichnet.[^30]
  
@@ -630,15 +630,15 @@ Wären diese Bekanntschaften und das gemeinsame Interesse auch ohne die (soziale
  
 Liegt hier in der medienhistorischen Betrachtung also der Grund für den besonderen Status von “Knut”? Wäre dem so, dann wird es keinen weiteren “Knut” geben. Zoos – und auch der Berliner Zoo – bemühen sich vermehrt, Tiere weitgehend ohne direkten menschlichen Kontakt zu halten – im sogenannten “protected-contact” oder der “hands-off”-Haltungen. Dies soll der Sicherheit der Tiere aber auch der Pfleger:innen dienen. Den Besucher:innen erscheinen diese Haltungsformen natürlicher, obwohl die Tiere ebenso strengen Regeln unterliegen. Die beschriebenen Mechanismen des Startums würden sich somit kaum reproduzieren lassen. 
  
-Auch der umweltpolitische Faktor ist heute wohl kaum reproduzierbar. Die Klimakrise ist kein Novum mehr und Zoos kommunizieren sich seit einiger Zeit stärker insgesamt als Artenschutzzentren (siehe hierzu auch [[Tiere zurschaustellen|theme.showing-animals]] und [[story.zoos-and-conservation]] und werden auch von vielen Deutschen als solche wahrgenommen.[^33] Es ist zu vermuten, dass für einen einzelnen Artenschutzbotschafter in dieser Kommunikation weniger Platz bleibt. Fallen alle diese Faktoren aber weg, ist es kaum denkbar, dass sich die Konstruktion eines Stars wie “Knut” wiederholt. Dieser vereinte medienhistorisch und zoohistorisch wichtige Momente mit umweltpolitischen und ökonomischen Interessen. “Knut” zeigt in einer Momentaufnahme die Zootieren innewohnenden Potentiale zur Aktivierung eines breiten öffentlichen Interesses und großer Emotionen. Zoos alleine können diese aber nicht hervorrufen, dazu bedarf es mehrerer Akteur:innen.
+Auch der umweltpolitische Faktor ist heute wohl kaum reproduzierbar. Die Klimakrise ist kein Novum mehr und Zoos kommunizieren sich seit einiger Zeit stärker insgesamt als [[Artenschutzzentren|story.zoos-and-conservation]] und werden auch von vielen Deutschen als solche wahrgenommen.[^33] Es ist zu vermuten, dass für einen einzelnen Artenschutzbotschafter in dieser Kommunikation weniger Platz bleibt. Fallen alle diese Faktoren aber weg, ist es kaum denkbar, dass sich die Konstruktion eines [[Stars|theme.showing-animals]] wie “Knut” wiederholt. Dieser vereinte medienhistorisch und zoohistorisch wichtige Momente mit umweltpolitischen und ökonomischen Interessen. “Knut” zeigt in einer Momentaufnahme die Zootieren innewohnenden Potentiale zur Aktivierung eines breiten öffentlichen Interesses und großer Emotionen. Zoos alleine können diese aber nicht hervorrufen, dazu bedarf es mehrerer Akteur:innen.
  
 [^1]: Zoologischer Garten Berlin AG. “Geschäftsbericht für das Jahr 2007”. _Bongo_ 38 (2008): 91-196, 139-140.
  
 [^2]: Zoologischer Garten Berlin AG. Pressemitteilungen, 04/07, 22.01.2007 und 15/07, 28.02.2007.
  
-[^3]: Vgl. Flinterud, Guro, und Adam Dodd. “Polar Bear Knut and his Blog”. In _Animals on Display. The Creaturely in Museums, Zoos and Natural History_, Liv Emma Thorsen und Karen A. Rader (Hg.). University Park, PA: The Pennsylvania State University Press, 2013: 192-213; Flinterud, Guro. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Diss. University of Oslo, Faculty of Humanities, 2012: 133-136.
+[^3]: Vgl. Guro Flinterud und Adam Dodd. “Polar Bear Knut and his Blog”. In _Animals on Display. The Creaturely in Museums, Zoos and Natural History_, Liv Emma Thorsen und Karen A. Rader (Hg.). University Park, PA: The Pennsylvania State University Press, 2013: 192-213; Flinterud, Guro. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Diss. University of Oslo, Faculty of Humanities, 2012: 133-136.
  
-[^4]: Meier, Jürg. _Handbuch Zoo: Moderne Tiergartenbiologie_. Bern, Stuttgart und Wien: Haupt Verlag, 2009: 117-118.
+[^4]: Jürg Meier. _Handbuch Zoo: Moderne Tiergartenbiologie_. Bern, Stuttgart und Wien: Haupt Verlag, 2009: 117-118.
  
 [^5]: Die Beiträge sind auf den Seiten des Bundesfilmarchivs recherchierbar: https://www.filmothek.bundesarchiv.de/ (03.01.2022).
  
@@ -646,13 +646,13 @@ Auch der umweltpolitische Faktor ist heute wohl kaum reproduzierbar. Die Klimakr
  
 [^7]: “Tierschützer: Knuddel-Knut hätte sterben müssen!”. _Rheinische Post online_, 19.03.2021, https://rp-online.de/panorama/deutschland/tierschuetzer-knuddel-knut-haette-sterben-muessen_aid-11295343?output=amp (03.01.2022).
  
-[^8]: Krögel, Anette. “Wird Knut ein Problembär?”. _Der Tagesspiegel Online_, 20.03.2007, https://www.tagesspiegel.de/berlin/wird-knut-ein-problembaer/824706.html (03.01.2022).
+[^8]: Anette Krögel. “Wird Knut ein Problembär?”. _Der Tagesspiegel Online_, 20.03.2007, https://www.tagesspiegel.de/berlin/wird-knut-ein-problembaer/824706.html (03.01.2022).
  
 [^9]: “Eisbärbaby Knut entkommt der Todesspritze”. _Welt Online_, 19.03.2007, https://www.welt.de/vermischtes/article768024/Eisbaerbaby-Knut-entkommt-der-Todesspritze.html (03.01.2022).
  
 [^10]: “Eisbär Knut darf leben”. _Merkur.de_, 01.07.2007, https://www.merkur.de/welt/eisbaer-knut-darf-leben-377265.html (03.01.2022).
  
-[^11]: Riechelmann, Cord. “Lass uns über Produktion reden”. _Die Tageszeitung_, 14.04.2007.
+[^11]: Cord Riechelmann. “Lass uns über Produktion reden”. _Die Tageszeitung_, 14.04.2007.
  
 [^12]: “Flußpferd und Eisbär Neuzugänge auf Roter Liste”. _Frankfurter Allgemeine Zeitung Online_, 02.05.2006, https://www.faz.net/aktuell/wissen/natur/artensterben-flusspferd-und-eisbaer-neuzugaenge-auf-roter-liste-1330020.html (03.01.2022).
  
@@ -662,17 +662,17 @@ Auch der umweltpolitische Faktor ist heute wohl kaum reproduzierbar. Die Klimakr
  
 [^15]: Zoologischer Garten Berlin AG und Universal Music: Pressemitteilung, 25/07, 17.04.2007.
  
-[^16]: Gabriel, Sigmar. “Kann Knut den Klimawandel bremsen?” In _Das große Knut-Album_, hg. von _B.Z. extra_, 49. Berlin: _B.Z._, 2007: 49.
+[^16]: Sigmar Gabriel. “Kann Knut den Klimawandel bremsen?” In _Das große Knut-Album_, hg. von _B.Z. extra_, 49. Berlin: _B.Z._, 2007: 49.
  
 [^17]: “Knut und seine Freunde”, Regie: Michael G. Johnson, Produktion: DOKfilm Fernsehproduktion GmbH, Norddeutscher Rundfunk, Rundfunk Berlin Brandenburg, 2008.
  
-[^18]: Flinterud, Guro. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Diss. University of Oslo, Faculty of Humanities, 2012: 112.
+[^18]: Guro Flinterud. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Diss. University of Oslo, Faculty of Humanities, 2012: 112.
  
 [^19]: “Als Marke ist Knut Millionen wert”. _Spiegel Online_, 31.03.2007, https://www.spiegel.de/panorama/gesellschaft/berliner-eisbaerenbaby-als-marke-ist-knut-millionen-wert-a-475021.html (03.01.2022).
  
 [^20]: “Knut begeistert Aktionäre”. _Spiegel Online_, 03.04.2021, https://www.spiegel.de/wirtschaft/berliner-zoo-knut-begeistert-aktionaere-a-475415.html (03.01.2022).
  
-[^21]: Flinterud, Guro. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Diss. University of Oslo, Faculty of Humanities, 2012: 208-209.
+[^21]: Guro Flinterud. “A Polyphonic Polar Bear: Animal and Celebrity in Twenty-first Century Popular Culture”. Diss. University of Oslo, Faculty of Humanities, 2012: 208-209.
  
 [^22]: Das Forum beschreibt sich selbst folgendermaßen: “knutitis.com ist ein Treffpunkt für Knut-Fans aus aller Welt. Im Mittelpunkt steht natürlich Knut, der Eisbär. Aber man kann sich hier auch über andere Zootiere und Zoos austauschen. Wir sind eine Gruppe von tierbegeisterten Menschen aus aller Welt, die sich durch Knut kennengelernt haben und seitdem freundschaftlich miteinander verbunden sind. Wir sind engagiert, begeisterungsfähig und vielleicht sogar etwas verrückt.” www.knutitis.com (03.01.2022)
  
@@ -684,16 +684,16 @@ Auch der umweltpolitische Faktor ist heute wohl kaum reproduzierbar. Die Klimakr
  
 [^26]: “Denkmal für Knut”. _Münz-Woche_, 15.03.2012, https://muenzenwoche.de/denkmal-fuer-knut/ (03.01.2022).
  
-[^27]: Klumbies, Anneliese, und Jürgen Simoleit. _Hier kommt Knut! Eine wahre Geschichte_. Hamburg: Selbstverlag, 2020. 
+[^27]: Anneliese Klumbies, und Jürgen Simoleit. _Hier kommt Knut! Eine wahre Geschichte_. Hamburg: Selbstverlag, 2020. 
  
-[^28]: Klumbies, Anneliese. _Knut. Der Bär, die Stadt und der Zoo_. Selbstverlag, 2013.
+[^28]: Anneliese Klumbies. _Knut. Der Bär, die Stadt und der Zoo_. Selbstverlag, 2013.
  
-[^29]: Vgl. Damaschun, Ferdinand, Hrsg. _Panda. Das Buch zur Sonderausstellung im Museum für Naturkunde_. Berlin: Museum für Naturkunde, 2015.
+[^29]: Vgl. Ferdinand Damaschun, Hg. _Panda. Das Buch zur Sonderausstellung im Museum für Naturkunde_. Berlin: Museum für Naturkunde, 2015.
  
-[^30]: Matthies, Bernd. “Ein Bär kann auch leger”. _Der Tagesspiegel_, 16.02.2013; Conrad, Andreas. “Berliner Bärenlese”. _Der Tagesspiegel_, 12.01.2015, https://www.tagesspiegel.de/berlin/pandas-im-museum-berliner-baerenlese/11219278.html (03.01.2022).
+[^30]: Bernd Matthies. “Ein Bär kann auch leger”. _Der Tagesspiegel_, 16.02.2013; Conrad, Andreas. “Berliner Bärenlese”. _Der Tagesspiegel_, 12.01.2015, https://www.tagesspiegel.de/berlin/pandas-im-museum-berliner-baerenlese/11219278.html (03.01.2022).
  
-[^31]: Nicholls, Henry. “The Afterlife of Chi-Chi”. In _The Afterlives of Animals: A Museum Menagerie_, Samuel J. M. M. Alberti (Hg.). Charlottesville: University of Virginia Press, 2011.
+[^31]: Henry Nicholls. “The Afterlife of Chi-Chi”. In _The Afterlives of Animals: A Museum Menagerie_, Samuel J. M. M. Alberti (Hg.). Charlottesville: University of Virginia Press, 2011.
  
-[^32]: Flinterud, Guro. “A Polyphonic Polar Bear. Animal and Celebrity in Twenty-first Century Popular Culture”. Diss. University of Oslo, Faculty of Humanities, 2012: 239-245.
+[^32]: Guro Flinterud. “A Polyphonic Polar Bear. Animal and Celebrity in Twenty-first Century Popular Culture”. Diss. University of Oslo, Faculty of Humanities, 2012: 239-245.
  
 [^33]: Verband der Zoologischen Gärten e.V. “Die Deutschen und ihre Zoos: Ergebnisse der Forsa Studie”. _VDZ_, 2020, https://www.vdz-zoos.org/fileadmin/PMs/2020/VdZ/Forsa-Broschuere_Die_Deutschen_und_ihre_Zoos.pdf (03.01.2022).
