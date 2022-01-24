@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Putting Animals on Display
 title_de: Tiere zur Schau stellen
 created: 1618572893774
-updated: 1642421597311
+updated: 1643036306222
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/28
@@ -35,6 +35,7 @@ tao_type: theme
 date_start: 1843-12-31T23:06:32.000Z
 date_end: 2022-12-27T23:01:33.091Z
 published: false
+feature: true
 ---
 
 :::EN:::
