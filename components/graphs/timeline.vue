@@ -82,11 +82,12 @@ export default {
 
       const that = this;
 
-      d3.selectAll("svg > *").remove();
-      d3.selectAll("svg").remove();
+      d3.selectAll(".timeline-main").remove();
+      d3.selectAll(".timeline-xaxis").remove();
 
       var xaxis = d3.select("#d3-xaxis")
         .append("svg")
+        .attr("class", "timeline-xaxis")
         .attr("width", this.attr.width)
         .attr("height", this.attr.timelineHeight);
         
