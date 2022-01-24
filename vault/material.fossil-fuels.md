@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Fossil Fuels
 title_de: Fossile Brennstoffe
 created: 1618493147480
-updated: 1642855124201
+updated: 1643064533216
 id: 7f5d84e2-6c42-454e-a7c5-f31db9960a70
 author: Filippo Bertoni
 doi: 64y2-m311/32
@@ -83,7 +83,7 @@ Zwar befassten sich die meisten wissenschaftlichen Arbeiten in diesem Bereich mi
 
 <figcaption>
 
-_“Petroleum – Modern history of oil on a Map” (Quelle: Geo History/YouTube)_
+_“Petroleum – Modern history of oil on a Map”, eine animierte Karte zur Geschichte von Petroleum (Quelle: Geo History/YouTube)_
 
 </figcaption>
 
