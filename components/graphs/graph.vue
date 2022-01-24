@@ -254,6 +254,8 @@ export default {
           .attr('y', function(d , i){
             if(d.index === 0){
               return that.attr.rootNodeSize*-0.5
+            } else if (d.isText){
+              return that.attr.titleTextSize *-0.5 - 3
             } else {
               return that.attr.nodeSize*-0.5
             }
@@ -291,7 +293,7 @@ export default {
           })
           .attr('rx', function (d, i) {
             if(d.isText == true){
-              return 25
+              return that.attr.titleTextSize * 0.3;
             } else if (d.tao_type == 'material'){
               return 500
             } else if (d.tao_type == 'story'){
@@ -348,12 +350,12 @@ export default {
           })
 
         node.append("text")
-          
           .attr("dy", function(d){
             if(d.index === 0){
               return that.attr.rootNodeSize*0.8 + 'px'
             } else if(d.isText){
               return that.attr.titleTextSize*0.555 - 5 + 'px'
+              // return "0px"
             } else {
               return that.attr.nodeSize + 'px'
             }
