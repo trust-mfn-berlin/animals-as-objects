@@ -7,7 +7,7 @@ short_desc_de: Zur Geschichte des Seidenbaus in Preußen
 date_end: 1885-12-31T11:06:32.000Z
 published: false
 title: "Silk Culture "
-updated: 1643064021901
+updated: 1643064616054
 id: isUsK2mnx8uIqaTJ60nYR
 doi: 64y2-m311/48
 translators:
@@ -147,7 +147,7 @@ In spite of myriad efforts, it was not possible for the Prussian state to do awa
  
 <figcaption>
  
-_Schaukasten im Museum für Naturkunde Berlin, Sammlung Lepidoptera. (Foto: Britta Lange//MfN. Alle Rechte vorbehalten.)_
+_Schaukasten im Museum für Naturkunde Berlin, Sammlung Lepidoptera. (Foto: Britta Lange/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
  
