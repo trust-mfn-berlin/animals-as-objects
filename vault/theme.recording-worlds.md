@@ -12,8 +12,18 @@ id: 4r0yES2CMXdwBI2l8fYbZ
 doi: 64y2-m311/68
 translators:
   translator_en_de: Jan-Peter Herrmann
-desc: Recording is a transformative process.
-desc_de: Naturkundliche Verzeichnungspraktiken und ihre transformative Kraft
+desc: The practice of record-keeping plays a crucial, yet often overlooked role
+  in natural history collecting. Lists, labels, and inventory books are tools to
+  organise collections and knowledge, classify animals, and assign value to
+  natural history objects. They significantly influence how we order and
+  understand the (natural) world while continuously undergoing profound changes
+  themselves.
+desc_de: Die Praxis des Verzeichnens spielt im naturkundlichen Sammeln eine
+  zentrale, doch häufig übersehene Rolle. Listen, Etiketten und Inventarkataloge
+  sind Werkzeuge, mit denen Sammlungen und Wissen geordnet, Tiere klassifiziert
+  und naturkundlichen Objekten Wert zugeschrieben wird. Sie beeinflussen
+  maßgeblich die Art und Weise, wie wir die (naturkundliche) Welt ordnen und
+  begreifen, befinden sich aber auch selbst beständig im Wandel.
 short_desc: Rrecording is a transformative process.
 cover_image:
   image: /images/mfn-hbsb-zool-mus-s004-02-05-96.jpg
