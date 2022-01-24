@@ -7,7 +7,7 @@ short_desc_de: Objekte, Inventare, Menschen und Netzwerke
 date_end: 1968-12-31T11:00:00.000Z
 published: false
 title: History of the Zoological Teaching Collection
-updated: 1643056303535
+updated: 1643056915278
 id: hUAZn8uswMmXvmUP1S4Jn
 doi: 64y2-m311/43
 translators:
@@ -43,7 +43,7 @@ date_start: 1883-12-31T23:06:32.000Z
 
 <figcaption>
 
-_Inventories from the Zoological Teaching Collection of today’s Humboldt-Universität zu Berlin. (Image: Theresa Schatt. All rights reserved.)_
+_Inventories from the Zoological Teaching Collection of today’s Humboldt-Universität zu Berlin. (Image: Theresa Schatt/HU Berlin. All rights reserved.)_
 
 
 </figcaption>
@@ -64,7 +64,7 @@ Originally located under the roof of the university building in three subcollect
 
 <figcaption>
 
-_In front of the west wing of the Zoological Institute are institute director Franz Eilhard Schulze (centre) with his assistants Karl Heider (left) and Eugen Korschelt (right), as well as collection curator Fritz Mährenthal (far right), at the inauguration of the recently built museum building on 20 April 1888. The main entrance of the institute is decorated with a painting by C. Krohse, who also produced wall charts for the teaching collection.[^5]_
+_In front of the west wing of the Zoological Institute are institute director Franz Eilhard Schulze (centre) with his assistants Karl Heider (left) and Eugen Korschelt (right), as well as collection curator Fritz Mährenthal (far right), at the inauguration of the recently built museum building on 20 April 1888. The main entrance of the institute is decorated with a painting by C. Krohse, who also produced wall charts for the teaching collection. (Source: Elsi Hedström/Henschel. All rights reserved.)[^5]_
 
 </figcaption>
 
@@ -88,7 +88,7 @@ After a period of almost continuous growth up until the beginning of the Second 
 
 <figcaption>
 
-_The “Inventory of Specimens Chap. V(2)”, i.e., inventory book V(2), lists the few items that arrived in the period 1937-1943. The entries for these seven years take up just half of one double page. Moreover, changes in handwriting point to staff reshuffling. (HBSB. All rights reserved.)_
+_The “Inventory of Specimens Chap. V(2)”, i.e., inventory book V(2), lists the few items that arrived in the period 1937-1943. The entries for these seven years take up just half of one double page. Moreover, changes in handwriting point to staff reshuffling. (HBSB/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -104,7 +104,7 @@ The postwar period was shaped by reconstruction work. The collection and teachin
 
 <figcaption>
 
-_In the “Inventory of Specimens Chap. V(2)” there is an announcement about the reinventory and a note about the bombing on 22 and 22 November 1943. (Zoological Teaching Collection. All rights reserved.)_
+_In the “Inventory of Specimens Chap. V(2)” there is an announcement about the reinventory and a note about the bombing on 22 and 22 November 1943. (Zoological Teaching Collection/HU Berlin. All rights reserved.)_
 
 </figcaption>
 
@@ -168,7 +168,7 @@ This [[discontinuity|story.untraceable]] has inscribed itself into the corpus of
 
 <figcaption>
 
-_Historische Inventarbücher der Zoologischen Lehrsammlung der heutigen Humboldt-Universität zu Berlin. (Foto: Theresa Schatt. Alle Rechte vorbehalten.)_
+_Historische Inventarbücher der Zoologischen Lehrsammlung der heutigen Humboldt-Universität zu Berlin. (Foto: Theresa Schatt/HU Berlin. Alle Rechte vorbehalten.)_
 
 
 </figcaption>
@@ -188,7 +188,7 @@ Zunächst als drei Teilsammlungen unter dem Dach des Universitätsgebäudes vero
 
 <figcaption>
 
-_Vor dem Eingang des Zoologischen Instituts im Westflügel des neu erbauten Museumsgebäudes stehen Direktor des Instituts Franz Eilhard Schulze (Mitte) mit Assistenten Karl Heider (links) und Eugen Korschelt (rechts) sowie dem Kustos der Sammlung Fritz Mährenthal (ganz rechts) zur Einweihung am 20. April 1888. Den Haupteingang des Instituts schmückt ein Gemälde von C. Krohse. Er fertigte auch Wandtafeln für die Lehrsammlung an.[^5]_
+_Vor dem Eingang des Zoologischen Instituts im Westflügel des neu erbauten Museumsgebäudes stehen Direktor des Instituts Franz Eilhard Schulze (Mitte) mit Assistenten Karl Heider (links) und Eugen Korschelt (rechts) sowie dem Kustos der Sammlung Fritz Mährenthal (ganz rechts) zur Einweihung am 20. April 1888. Den Haupteingang des Instituts schmückt ein Gemälde von C. Krohse. Er fertigte auch Wandtafeln für die Lehrsammlung an. (Quelle: Elsi Hedström/Henschel. Alle Rechte vorbehalten.)[^5]_
 
 </figcaption>
 
@@ -212,7 +212,7 @@ Nachdem die Sammlung bis zum Zweiten Weltkrieg beinah stetig weitergewachsen war
 
 <figcaption>
 
-_Das “Inventar der Präparate Kap. V(2)”, also Inventarbuch V(2), zeigt die wenigen Objekteingänge aus den Jahren 1937-1943. Die Eintragungen zu den sieben Jahren füllen lediglich eine halbe Doppelseite. Handschriftenwechsel deuten außerdem auf personelle Umbesetzungen hin. (HBSB. Alle Rechte vorbehalten.)_
+_Das “Inventar der Präparate Kap. V(2)”, also Inventarbuch V(2), zeigt die wenigen Objekteingänge aus den Jahren 1937-1943. Die Eintragungen zu den sieben Jahren füllen lediglich eine halbe Doppelseite. Handschriftenwechsel deuten außerdem auf personelle Umbesetzungen hin. (HBSB|MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -228,7 +228,7 @@ Die Nachkriegszeit war geprägt von Wiederaufbauarbeiten. Die Sammlungs- und Unt
 
 <figcaption>
 
-_Im “Inventar der Präparate Kap. V(2)” stehen die Ankündigung der Neu-Inventarisierung sowie eine Notiz zum Bombenangriff am 22. und 23. November 1943. (Zoologische Lehrsammlung. Alle Rechte vorbehalten.)_
+_Im “Inventar der Präparate Kap. V(2)” stehen die Ankündigung der Neu-Inventarisierung sowie eine Notiz zum Bombenangriff am 22. und 23. November 1943. (Zoologische Lehrsammlung/HU Berlin. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
