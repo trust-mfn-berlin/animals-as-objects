@@ -53,6 +53,7 @@ const dateZeroed = date-1;
 // console.log(daymap, dateZeroed);
 
 graphData = featuredGraphData[daymap[dateZeroed]]; //Select the featured article based on the day of the month
+// graphData = featuredGraphData[3];
 
 } else {
   graphData = featuredGraphData[0]; //If there's only one featured article just skip the whole process
@@ -199,13 +200,13 @@ export default {
           this.attr.titleTextSize = 40;
 
           // Portrait boundary forces instead of landscape
-          this.attr.radialForceStrength = 0.6;
+          this.attr.radialForceStrength = 1;
           this.attr.yForceStrength = 0;
           this.attr.xForceStrength = 0.05;
 
 
           // if big graph
-          if(graphData.nodes.length > 35){
+          if(graphData.nodes.length > 20){
             console.log('Graph Mobile Many Nodes');
             this.attr.nodeSize = 30;
 
@@ -398,7 +399,8 @@ export default {
           })
 
         node.append("image")
-          .attr("xlink:href", function(d){
+          .attr("xlink:href", function(d, i){
+            if(i % 3 != 0 || i === 0) // Skip every third image 
             if (d.cover_image && d.cover_image.image){
               return d.cover_image.image.replace('/images/','/thumbnails/l/');
             }
