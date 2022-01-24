@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Logistical Metabolisms
 title_de: "Logistische Metabolismen "
 created: 1640459420576
-updated: 1643033790540
+updated: 1643034692492
 id: GkUgy87PFegTFmR0W1Z2Q
 author: Mareike Vennen, Filippo Bertoni
 doi: 64y2-m311/70
@@ -24,7 +24,7 @@ desc_de: Für die Verwandlung von Tieren in Objekte spielen sowohl logistische
 short_desc: Transforming animals in motion
 short_desc_de: Umwandlungsprozesse von Tieren in Bewegung
 cover_image:
-  image: /images/elefantenschildkroeten-mfn-hbsb-k001-0708-p.jpg
+  image: /images/cover-logistical-metabolism.jpg
 colour_scheme: 4
 tao_type: theme
 date_start: 1740-12-31T23:50:39.000Z
