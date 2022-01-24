@@ -13,7 +13,7 @@ cover_image:
   image: /images/amoeba.png
 date_start: 1763-01-01T19:50:46.071Z
 title: Infusoria
-updated: 1643034304551
+updated: 1643064517434
 id: 5df12377-545a-45f9-9cd3-04fb8e499fb1
 doi: 64y2-m311/37
 translators:
@@ -72,7 +72,7 @@ Infusorien war der Begriff, mit dem frühe Naturforschende mikroskopische Organi
 
 <figcaption>
 
-_Dieses Video stellt Infusorien anhand der umfangreichen Sammlung von Ehrenbergs faszinierenden Illustrationen vor, die im Museum für Naturkunde Berlin aufbewahrt werden. (Quelle: Journey to the Microcosmos/YouTube)_
+_Dieses Video stellt Infusorien anhand der umfangreichen Ehrenberg-Sammlung im Museum für Naturkunde Berlin vor. (Quelle: Journey to the Microcosmos/YouTube)_
 
 </figcaption>
 
