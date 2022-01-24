@@ -176,7 +176,6 @@ export default {
           // Center force vertical offset
           this.attr.verticalOffset = 0;
 
-          this.attr.renderNodeLabels = false;
 
           this.attr.nodeSize = 30;
           this.attr.rootNodeSize = 72;
@@ -207,6 +206,7 @@ export default {
 
           // if big graph
           if(graphData.nodes.length > 20){
+            this.attr.renderNodeLabels = false;
             console.log('Graph Mobile Many Nodes');
             this.attr.nodeSize = 30;
 
