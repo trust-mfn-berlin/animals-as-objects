@@ -3,7 +3,7 @@ license: CC BY-SA
 title: “Knut”
 title_de: “Knut”
 created: 1618576718116
-updated: 1643033429288
+updated: 1643052682680
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/27
@@ -44,20 +44,20 @@ _The young “Knut” during his first explorations of an outdoor enclosure, 200
  
 </figure>
 
-It’s something all Berlin Zoo employees have experienced: once other people find out where they work, one name comes up immediately: “Knut” – even though he died some time ago. There were almost 14,000 animals comprising some 1,300 species living at Berlin Zoo and Aquarium at the end of 2007. About 1,200 of them were mammals.[^1] Most of them had not been given names known to the public. Just like every year since its founding, there had been births at the zoo that year, of rare and popular animal species too. It was just a normal year. And yet something quite special happened in 2007 and in the years that followed. The “Knut” phenomenon dominated news about the zoo in Berlin and even caused an international furore. How did this happen?
+It’s something all Berlin Zoo employees have experienced: once other people find out where they work, one name comes up immediately: “Knut” – even though he died some time ago. There were almost 14,000 animals comprising some 1,300 species living at Berlin Zoo and Aquarium at the end of 2007. About 1,200 of them were mammals.[^1] Most of them had not been given names known to the public. Just like every year since its founding, there had been births at the zoo that year, including births of rare and popular animal species. And yet something quite special happened in 2007 and in the years that followed. The “Knut” phenomenon dominated news about the zoo in Berlin and even caused an international furore. How did this happen?
  
 ## A Star Is Born!
  
-On 5 December 2006, at about 3.00 pm, “Tosca” the polar bear gave birth to two cubs. It soon became clear that the mother was not showing any inclination of providing nurturing care. **One of the cubs died. The other was removed from the enclosure and was successfully fed by bottle.**[^2] The two keepers and the curators in charge gave him the name “Knut”. 
+On 5 December 2006, at about 3.00 pm, “Tosca” the polar bear gave birth to two cubs. It soon became clear that the mother was not going to properly care for the cubs. **One of the cubs died. The other was removed from the enclosure and was successfully [[fed by bottle|story.feeding-and-overfeeding]].**[^2] The two keepers and the curators in charge gave him the name “Knut”. 
  
-Back then, it was not unusual for zoo births to progress this way or for baby animals to be raised by hand using a bottle. But, for various reasons, this polar bear cub soon became very well known. In the following, we will see how “Knut” rapidly became a media star, setting negotiations in motion about the relationship between humans and animals in zookeeping and becoming a factor in the generation of economic capital for Berlin Zoo; how he was stylised as an ambassador for environmental protection; and how many people viewed him as their companion.
+Back then, it was not unusual for zoo-born baby animals to be raised by human hands using a bottle. But this polar bear cub soon became very special. In the following, we will see how “Knut” rapidly became a media star, causing a debate about the relationship between humans and animals and becoming a capital financial asset for the Berlin Zoo. This story also traces his transformation into an ambassador for environmental protection and into a popular companion for many people.
  
 The story of “Knut” reveals a number of processes that have the potential to make one animal individual stand out from the great throng of animals living in Berlin’s zoos, including factors relating to economics, zoo history, environmental policy, media history, and social history.
 
  
 ## Economies of Attention
  
-By the end of his first year of life, Berlin’s polar bear cub had become an international media star. Playing a major role in the popularity of this animal were the local media, in particular the regional ARD broadcaster Rundfunk Berlin-Brandenburg (RBB). **Even before the animal had officially been presented to the public and while he was still being taken care of behind the scenes, the RBB was providing its listeners and viewers with daily updates from the zoo on the condition of the little bear and his relationship with his main caretaker, Thomas Dörflein,** using video recordings made by keepers out of public view. Moreover, the RBB made use of its blog, www.rbb-online.de/knut, a relatively new medium back then. These daily updates on the RBB websites had a considerable influence on “Knut’s” growing fame. The editors at the RBB took the first-person perspective of a polar bear to write their blog entries, which they composed in the style of a child’s diary. Keeper Thomas Dörflein advanced in this medium to the role of “Papa”.[^3]
+By the end of his first year of life, Berlin’s polar bear cub had become an international [[media star|story.photos-with-lion-cubs]]. Playing a major role in the popularity of this animal were the local media, in particular the regional ARD broadcaster Rundfunk Berlin-Brandenburg (RBB). **Even before the animal had officially been presented to the public and while he was still being taken care of behind the scenes, the RBB was providing its listeners and viewers with daily updates from the zoo on the condition of the little bear and his relationship with his main caretaker, Thomas Dörflein,** using video recordings made by keepers out of public view. Moreover, the RBB made use of its blog, www.rbb-online.de/knut, a relatively new medium back then. These daily updates on the RBB websites had a considerable influence on “Knut’s” growing fame. The editors at the RBB took the first-person perspective of a polar bear to write their blog entries, which they composed in the style of a child’s diary. Keeper Thomas Dörflein advanced in this medium to the role of “Papa”.[^3]
  
 “Knut” and his “Papa” were a team that was easy for the media to market: on one side the clumsy ball of white fur, on the other the bearded man who moved in with his nursling and played him Elvis Presley songs on the guitar.
  
@@ -73,7 +73,7 @@ _Keeper Thomas Dörflein and “Knut” when he was just a few months old, 2007.
  
 </figure>
  
-But the story of the birth and the subsequent reporting in Berlin’s local media alone are not enough to explain the hype surrounding “Knut”. In 1957, a male gorilla infant arrived at the zoo. “Knorke” was in poor health when he arrived and had spent some time in a children’s hospital being cared for by two professors of paediatrics before a paediatric nurse assumed his care at the zoo. The images of “Knorke” and nurse Rosemarie were broadcast by the UFA Wochenschau newsreel and printed in numerous newspapers.
+But the story of the birth and the subsequent reporting in Berlin’s local media alone are not enough to explain the hype surrounding “Knut”. In 1957, a male gorilla infant arrived at the zoo. “Knorke” was in poor health when he arrived and had spent some time in a children’s hospital being cared for by two professors of paediatrics before a paediatric nurse took over his care. The images of “Knorke” and nurse Rosemarie were broadcast by the UFA Wochenschau newsreel and printed in numerous newspapers.
  
 <figure>
  
@@ -91,7 +91,7 @@ This young animal also went through a difficult period of hand-rearing at Berlin
  
 ## Discussions about Hand-Rearing
  
-**Another factor in “Knut’s” later fame were the discussions about zookeeping practices and the killing of young animals that were triggered by the euthanising of a sloth bear cub at Leipzig Zoo in late 2006.** Just a few weeks after “Knut’s” birth, a sloth bear in Leipzig gave birth to a cub that she then rejected. The director of the zoo and his team decided to kill the young animal by ‘putting it to sleep’ after a number of attempts to motivate the mother to take care of her cub failed. According to the Leipzig Zoo management team, the cub would have died quickly and painfully in his natural habitat, and rearing the wild animal by hand was not species-appropriate. The German Animal Welfare Federation condemned the killing – by making reference to the Berlin case of “Knut” as well.[^6]
+**Another factor in “Knut’s” later fame were the discussions about zookeeping practices and the killing of young animals that was triggered by the killing of a sloth bear cub at Leipzig Zoo in late 2006.** Just a few weeks after “Knut’s” birth, a sloth bear in Leipzig gave birth to a cub that she then rejected. The director of the zoo and his team decided to kill the young animal by ‘putting it to sleep’ after a number of attempts to motivate the mother to take care of her cub failed. According to the Leipzig Zoo management team, the cub would have died quickly and painfully in his natural habitat, and rearing the wild animal by hand was not species-appropriate. The German Animal Welfare Federation condemned the killing – also by making reference to the Berlin case of “Knut”.[^6]
  
 Conversely, one individual animal rights activist argued in relation to the Leipzig decision that raising animals by hand was not just species-inappropriate, but a blatant breach of the German Animal Welfare Act as well. For in Leipzig, zoo management had argued that the sloth bear cub would have grown up in poor physical and mental health. Berlin Zoo, he said, was allowing the polar bear to spend the rest of its life with behavioural problems. In the headline of a newspaper article about these accusations, a scandalising and anthropomorphising tendency becomes evident: “Animal rights activist: Cuddly Knut should have died!”[^7] The media were turning the predator born in human captivity into a stuffed toy. The Zoos in Leipzig and Berlin pointed out the differences between the two cases, but in the press and in the eyes of many observers, these two events were part of the same ethical context. “Is Knut becoming a problem bear?” asked Berlin’s _Tagesspiegel_[^8] in relation to the issue of his inevitable separation from his keeper, which would be traumatic for an animal that would have been intensively accompanied by his mother for many years in the wild. 
  
@@ -101,7 +101,7 @@ As Cord Riechelmann wrote in the _Tageszeitung_:
  
 >“In Knut’s case, the usual disdain that we feel for animals has morphed into an extreme urge to protect.”[^11]
  
-Riechelmann emphasised the way that humans exploited animals and said that this exploitation had only seemingly been suspended, even in “Knut’s” case. In fact, there were also political and financial economies at play in “Knut’s” case, which had an impact on the bear’s growing fame. For example, “Knut” was soon cast as a symbol of his threatened habitat.
+Riechelmann emphasised the way that humans exploited animals and said that this [[exploitation|story.the-worlds-we-make]] had only seemingly been suspended, even in “Knut’s” case. In fact, there were also political and [[financial economies|story.silk-culture]] at play in “Knut’s” case, which had an impact on the bear’s growing fame. For example, “Knut” was soon cast as a symbol of his threatened habitat.
  
 ## Climate Protection Ambassador
  
@@ -117,7 +117,7 @@ _German Federal Minister for the Environment Sigmar Gabriel flanked by keeper Th
  
 </figure>
  
-“Knut” was born at a time when the first intense discussions were being held about the climate crisis and threats to the polar bear’s natural habitat. **The animal was well suited to playing the role of ambassador in the climate debate.** With scientific forecasts predicting a decline in Arctic sea ice, polar bears had landed on the List of Threatened Species of the International Union for Conservation of Nature and Natural Resources (IUCN) the very same year that “Knut” was born.[^12]
+“Knut” was born at a time when the first intense discussions were being held about the [[climate crisis|material.fossil-fuels]] and threats to the polar bear’s natural habitat. **The animal was well suited to playing the role of ambassador in the climate debate.** With scientific forecasts predicting a decline in Arctic sea ice, polar bears had landed on the List of Threatened Species of the International Union for Conservation of Nature and Natural Resources (IUCN) the very same year that “Knut” was born.[^12]
  
 However, Berlin’s polar bear was only able to achieve world fame due to a stroke of luck: shortly after the animal’s first public presentation in late March 2007, the state and government heads of the European Union converged on Berlin to celebrate the fiftieth anniversary of the signing of the Rome Treaty. Representatives of the national and international press had arrived in the city with them. They were just as excited about the cub as the local press had been months earlier. **“Knut” made headlines around the world.** Surprised curators and zoo management staff gave hundreds of interviews that weekend.[^13] Moreover, tens of thousands of additional visitors made for an impressive scene. Security personnel had to control the rush at the outdoor enclosure. By early summer, a million guests had visited the zoo.[^14]
  
@@ -155,7 +155,7 @@ _Cover of the German edition of the magazine_ Vanity Fair, _no. 14, 2007._
  
 According to zoo employees, while “Knut” was alive, there was a mobile kiosk that sold “Knut” souvenirs in front of the polar bear enclosure. Nothing like that has ever been seen at any other animal enclosures. Even when he grew into a polar bear ‘teenager’ after just a few months, “Knut” continued to attract many onlookers. When Zoo Director Bernhard Blaszkiewitz decided to bar the main keeper Thomas Dörflein from close contact with the bear for safety reasons, as he was now a danger to humans, his decision was criticised by “Knut” fans. Some of them were worried about the animal’s well-being, as “Knut” was now being kept in a shared enclosure with other members of his species instead of being in intensive daily contact with Thomas Dörflein and other keepers. But this did not harm the value of the brand. On “Knut’s” birthdays, the zoo was full, and vast crowds of visitors thronged in front of the enclosure, which can be seen in photos from the zoo’s archive.
  
-The social scientist Guro Flinterud has described the contradiction evident here: keeping and breeding polar bears in human captivity is a potentially unsuitable means of preventing habitat destruction, which is caused worldwide by the “physically unrelated actions” of the consumer industry. Reintroducing polar bears to the melting Arctic ice is almost impossible. It was therefore possibly the complexity of the climate crisis that fostered “Knut’s” “simple symbolism” in the first place.[^21]
+The social scientist Guro Flinterud has described the contradiction evident here: keeping and breeding polar bears in human captivity is a potentially unsuitable means of preventing habitat destruction, which is caused worldwide by the “physically unrelated actions” of the [[consumer industry|theme.showing-animals]]. Reintroducing polar bears to the melting Arctic ice is almost impossible. It was therefore possibly the complexity of the climate crisis that fostered “Knut’s” “simple symbolism” in the first place.[^21]
  
 ## “Knut” Dies
  
@@ -214,7 +214,7 @@ Donations to erect the monument were collected by the Capital City Zoos Foundati
  
 ## “Knut’s” Death and Taxidermy
  
-Shortly after the polar bear’s death, the decision was made to bring “Knut’s” cadaver to Berlin’s Museum of Natural History, **where he would be mounted as a taxidermy and would continue to serve natural history education as an exhibit. Angry protests about his continued display flared up among “Knut” fans.** The zoo once again received numerous letters, many of which described its actions as impious. This came to a head with a demonstration at the zoo’s entrance at Hardenbergplatz. Photos from the zoo archive show demonstrators with posters like this one:
+Shortly after the polar bear’s death, the decision was made to bring “Knut’s” cadaver to Berlin’s Museum of Natural History, **where he would be mounted as a taxidermy and would continue to serve natural history education as an [[exhibit|story.bobby-tracking-body-parts2]]. Angry protests about his continued display flared up among “Knut” fans.** The zoo once again received numerous letters, many of which described its actions as impious. This came to a head with a demonstration at the zoo’s entrance at Hardenbergplatz. Photos from the zoo archive show demonstrators with posters like this one:
  
 >“Children ask… Why can’t Knut go to heaven? // Mother thinks: Because they need him to make money… // Mother says: Knut will be okay… // We don’t want to have to lie to our children to protect them!!!! // This is why we are demanding that Knut’s body be left alone and for him to finally find some peace.”
  
@@ -234,7 +234,7 @@ _Protest banner against “Knut’s” taxidermy, 2011. (AZGB. All rights reserv
  
 </figure>
  
-Knut was ultimately mounted, and his taxidermy can be still be viewed at the Museum of Natural History today.
+Knut was ultimately mounted, and his [[taxidermy|material.jendaya-parakeet]] can still be viewed at the Museum of Natural History today.
  
 <figure>
  
@@ -276,7 +276,7 @@ _Facebook post of the association Friends of the Capital City Zoos Association o
  
 </figure>
  
-The many comments on this post and reactions to it show that this topic still has an emotional impact on visitors to the zoo. Almost all of the comments contain emojis with tears, hearts – often broken – and similar visual representations of grief and pain about the death of Thomas Dörflein. However, most of the comments refer to his ward and to the fact that “Knut” would be remembered just as much as Thomas Dörflein. The perceived symbiosis between the keeper and his nursling, and their combined emotional value, carried beyond their deaths and still had the capacity to mobilise emotions twelve and nine years after their deaths respectively.
+The many comments on this post and reactions to it show that this topic still has an emotional impact on visitors to the zoo. Almost all of the comments contain emojis with tears, hearts – often broken – and similar visual representations of grief and pain about the death of Thomas Dörflein. However, most of the comments refer to his ward and to the fact that “Knut” would be remembered just as much as Thomas Dörflein. The perceived [[symbiosis|story.of-microbes-and-planets]] between the keeper and his nursling, and their combined emotional value, carried beyond their deaths and still had the capacity to mobilise emotions twelve and nine years after their deaths respectively.
  
 While this text was being written in the summer of 2021, Berlin Zoo received a copy of a self-published book.[^27] The author had already self-published another book, _Knut: The Bear, the City, and the Zoo_ in 2013 about the life of the polar bear.[^28] The 2020 book – a collection of texts, annotated photos probably taken by the author herself, and newspaper clippings – is predominantly written in the present tense. This seems somewhat unusual for an animal that died almost ten years ago. It announces a sequel, for the book ends while Knut is still a cub. But perhaps the grammatical present here is a translation of the emotional level. For some people, “Knut” is still present.
  
