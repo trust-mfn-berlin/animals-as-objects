@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Logistical Metabolisms
 title_de: "Logistische Metabolismen "
 created: 1640459420576
-updated: 1642854709539
+updated: 1643033790540
 id: GkUgy87PFegTFmR0W1Z2Q
 author: Mareike Vennen, Filippo Bertoni
 doi: 64y2-m311/70
@@ -30,6 +30,7 @@ tao_type: theme
 date_start: 1740-12-31T23:50:39.000Z
 date_end: 2022-12-04T16:32:17.032Z
 published: false
+feature: true
 ---
 
 :::EN:::

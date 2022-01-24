@@ -7,7 +7,7 @@ short_desc_de: Audiogeschichten über Tiere in Berlin
 date_end: 1990-12-24T15:37:00.000Z
 published: false
 title: Berlin’s Border Dogs
-updated: 1642420853602
+updated: 1643032483813
 id: PycpfqnQuolcIv93f9gkd
 doi: 64y2-m311/64
 translators:
@@ -20,6 +20,7 @@ cover_image:
 colour_scheme: 1
 tao_type: material
 date_start: 1961-12-24T15:37:00.000Z
+feature: true
 ---
 
 :::EN:::

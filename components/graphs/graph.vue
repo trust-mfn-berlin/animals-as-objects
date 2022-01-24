@@ -11,7 +11,9 @@
 // https://bl.ocks.org/steveharoz/8c3e2524079a8c440df60c1ab72b5d03
 
 <template>
-  <div id="d3-main" :style="{height: attr.height + 'px'}" :class="{cssfade : fadein}"></div>
+  <div id="d3-main" :style="{height: attr.height + 'px'}" :class="{cssfade : fadein}">
+  <!-- <text-button class="refresh" type="button" @click.native="changeGraph">OK</text-button> -->
+  </div>
 </template>
 
 <script>
@@ -142,6 +144,18 @@ export default {
         this.$router.push('/' + d.slug);
       }
     },
+    changeGraph(){
+      const that = this;
+      this.fadein = false;
+      setTimeout(function(){ 
+        d3.select("#d3-main").select("svg").remove();
+        graphData = featuredGraphData[0];
+        graphData.nodes.push(...title_nodes);
+        graphData.links.push(...title_links);
+        that.init();
+        that.fadein = true;
+      }, 500);
+    },
     mediaQuery(){
       
       if(window){
@@ -221,7 +235,6 @@ export default {
               title: 100,
               node: 300
             }
-
   
           this.attr.collisionSize = {
             s: 60,
@@ -725,6 +738,12 @@ export default {
     //   -webkit-filter: drop-shadow( 0px 4px 10px rgba(0, 0, 0, 0.5));
     // }
   }
+}
+
+.refresh{
+  position: absolute;
+  top:1rem;
+  right:1rem;
 }
 
 </style>
