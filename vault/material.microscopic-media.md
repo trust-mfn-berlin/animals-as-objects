@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Microscopic Media
 title_de: Mikroskopische Medien
 created: 1618492963611
-updated: 1642852139772
+updated: 1643061404669
 id: fac2eded-a093-4ebf-986e-d94b045f7676
 author: Filippo Bertoni
 doi: 64y2-m311/60
@@ -41,7 +41,7 @@ published: false
 
 <figcaption>
 
-_The microscopy set up on micropaleontologist Johan Renaudie’s desk in the Museum für Naturkunde Berlin, showing a radiolarian slide collected during a [[deep sea drilling mission|story.deep-sea-drilling]] and its magnified image on the computer screen. (Image: Filippo Bertoni.)_
+_The microscopy set up on micropaleontologist Johan Renaudie’s desk in the Museum für Naturkunde Berlin, showing a radiolarian slide collected during a [[deep sea drilling mission|story.deep-sea-drilling]] and its magnified image on the computer screen. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -98,7 +98,7 @@ While benefiting from the lessons learned through these techniques, micropaleont
 
 <figcaption>
 
-_Auf einem Objektträger präparierte Radiolarien, die im Rahmen eines [[Deep-Sea-Drilling-Projekts|story.deep-sea-drilling]] gesammelt wurden, liegen zur Betrachtung unter dem Mikroskop des Mikropaläontologen Johan Renaudie am Museum für Naturkunde Berlin; dazu die entsprechende vergrößerte Ansicht auf dem Computerbildschirm. (Foto: Filippo Bertoni.)_
+_Auf einem Objektträger präparierte Radiolarien, die im Rahmen eines [[Deep-Sea-Drilling-Projekts|story.deep-sea-drilling]] gesammelt wurden, liegen zur Betrachtung unter dem Mikroskop des Mikropaläontologen Johan Renaudie am Museum für Naturkunde Berlin; dazu die entsprechende vergrößerte Ansicht auf dem Computerbildschirm. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
