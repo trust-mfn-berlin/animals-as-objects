@@ -65,6 +65,7 @@ export default {
 
   @media screen and (max-width: @mq-s) /* Mobile */ {
     min-height: 44px;
+    padding: 0.72rem 0.8rem 0.7rem;
   }
 
   .animatemedium(all);
