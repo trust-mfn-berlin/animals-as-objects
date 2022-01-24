@@ -133,8 +133,8 @@ watch: {
   border-radius: @radius-l;
 
   @media screen and (max-width: @mq-s) /* Mobile */ {
-    padding: 0;
-    background-color: transparent;
+    padding: @space-s;
+    border-radius: @radius-m;
   }
 } 
 
