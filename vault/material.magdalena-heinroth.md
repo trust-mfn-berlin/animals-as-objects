@@ -7,7 +7,7 @@ short_desc_de: Foto von Magdalena Heinroth mit drei Dohlen
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: Magdalena Heinroth
-updated: 1643052927308
+updated: 1643055404428
 id: 95617cbe-704d-46c1-b0b5-05d178ec363d
 doi: 64y2-m311/18
 translators:
@@ -42,7 +42,7 @@ _Magdalena Heinroth with three jackdaws she raised in her apartment, 1919. (AZGB
 
 Magdalena Heinroth (née Wiebe, 1883–1932) raised hundreds of native birds in the apartment she shared with her husband Oskar Heinroth at the Berlin Aquarium. These included the three jackdaws pictured here perched on her arms. An image of her husband [[material.oskar-heinroth]], taken some ten years later, shows him in the same pose with three Ural owls. **Throughout the 1920s, the couple gathered observations on the development of virtually all European birds, from hatching, through molting, and into adulthood.** Their findings provided the basis for the four-volume standard reference work they wrote together, _Die Vögel Mitteleuropas: In allen Lebens- und Entwicklungsstufen photographisch aufgenommen und in ihrem Seelenleben bei der Aufzucht vom Ei ab beobachtet_, 1924-1934. The living arrangements of the two scientists could be described as being akin to a ‘bird flat-share’.[^1]
 
-**Magdalena Wiebe studied [[taxidermy|material.jendaya-parakeet]], among other subjects, at the Berlin Museum of Natural History.** It was also there that she met her future husband. Until her untimely death in 1932, she conducted research on birds, their molting, and breeding. An autodidact, Magdalena Heinroth wrote numerous articles on these subjects. Her work appeared in various publications, including the world’s oldest ornithological journal _Die gefiederte Welt_. To the public, however, she is known above all as her husband’s most important collaborator.
+**Magdalena Wiebe studied [[taxidermy|material.jendaya-parakeet]], among other subjects, at the Berlin Museum of Natural History.** It was also there that she met her future husband. Until her untimely death in 1932, she conducted research on birds, their molting, and breeding. Mostly self-taught, Magdalena Heinroth wrote numerous articles on these subjects. Her work appeared in various publications, including the world’s oldest ornithological journal _Die gefiederte Welt_. To the public, however, she is known above all as her husband’s most important collaborator, even though her own [[work|story.industrial-micropaleontology]] remains important to this day.
 
 [^1]: Karl Schulze-Hagen. _Die Vogel-WG: Die Heinroths, ihre 1000 Vögel und die Anfänge der Verhaltensforschung_. München: Knesebeck, 2020. On the work itself cf. Karl Schulze-Hagen. “Das ‘Handbuch der Vögel Mitteleuropas’: Sein Stellenwert gestern, heute, morgen”. _Der Ornithologische Beobachter_ 110, Nr. 3 (2013): 231-248. Direct quotes have been translated into English for clarity’s sake.
 
