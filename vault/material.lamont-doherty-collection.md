@@ -7,7 +7,7 @@ short_desc_de: Eine bedeutende Langzeitsammlung mikropaläontologischer Präpara
 date_end: 2022-12-07T18:56:55.735Z
 published: false
 title: Lamont-Doherty Collection
-updated: 1642851626699
+updated: 1643060978334
 id: YJrLgXqicVoVnrM8FtHXU
 doi: 64y2-m311/39
 translators:
@@ -33,7 +33,7 @@ date_start: 1949-01-01T18:51:23.138Z
 
 <figcaption>
 
-_A box of micropaleontological slides of diatoms from the Lamont-Doherty Collection. (Image: Filippo Bertoni)_
+_A box of micropaleontological slides of diatoms from the Lamont-Doherty Collection. (Image: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -48,7 +48,7 @@ In June 2021, the Museum für Naturkunde Berlin received the Observatory’s mic
 
 <figcaption>
 
-_This video shows the unboxing of the collection as it arrived at the Museum für Naturkunde Berlin. It offers a glimpse into the work of the micropaleontology group at the museum. (Video: Filippo Bertoni, Copyright Museum für Naturkunde Berlin)_
+_This video shows the unboxing of the collection as it arrived at the Museum für Naturkunde Berlin. It offers a glimpse into the work of the micropaleontology group at the museum. (Video: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -69,7 +69,7 @@ _This video shows the unboxing of the collection as it arrived at the Museum fü
 
 <figcaption>
 
-_Eine Schachtel aus der Lamont-Doherty-Sammlung mit mikropaläontologischen Objektträgern. (Foto: Filippo Bertoni)_
+_Eine Schachtel aus der Lamont-Doherty-Sammlung mit mikropaläontologischen Objektträgern. (Foto: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -83,7 +83,7 @@ Im Juni 2021 erhielt das Museum für Naturkunde Berlin die mikropaläontologisch
 
 <figcaption>
 
-_Dieses Video zeigt das Auspacken der Sammlung nach ihrem Eintreffen im Museum für Naturkunde Berlin und bietet einen Einblick in die Arbeit der Mikropaläontolog:innen des Museums. (Video: Filippo Bertoni, Copyright Museum für Naturkunde Berlin)_
+_Dieses Video zeigt das Auspacken der Sammlung nach ihrem Eintreffen im Museum für Naturkunde Berlin und bietet einen Einblick in die Arbeit der Mikropaläontolog:innen des Museums. (Video: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
