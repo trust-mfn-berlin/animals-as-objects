@@ -122,7 +122,9 @@ export default {
           rest: 0.00005
         },
         radialForceStrength: 0,
-        yForceStrength: 0.2
+        yForceStrength: 0.2,
+        xForceStrength: 0,
+        renderNodeLabels: true
       },
       
     }
@@ -141,40 +143,116 @@ export default {
       }
     },
     mediaQuery(){
+      
       if(window){
-        console.log(window.innerWidth);
+
+        console.log('nodes:', graphData.nodes.length);
+        console.log(window.innerWidth , 'px wide');
+
         this.attr.width = window.innerWidth;
+
+        
 
         // For mobile
         if(window.innerWidth < 501){
-          this.attr.height = window.innerHeight - 10;
-          
-          this.attr.linkDistance.inter = this.attr.linkDistance.inter*0.3;
-          this.attr.linkDistance.title = this.attr.linkDistance.title*0.3;
-          this.attr.linkDistance.node = this.attr.linkDistance.node*0.3;
+        console.log('Graph Mobile');
 
-          this.attr.nodeSize = this.attr.nodeSize*0.5;
-          this.attr.rootNodeSize = this.attr.rootNodeSize*0.4;
+          this.attr.height = 550;
+          // Center force vertical offset
+          this.attr.verticalOffset = 0;
 
-          this.attr.collisionSize.s = this.attr.collisionSize.s*0.6;
-          this.attr.collisionSize.m = this.attr.collisionSize.m*0.4;
-          this.attr.collisionSize.l = this.attr.collisionSize.l*0.4;
+          this.attr.renderNodeLabels = false;
+
+          this.attr.nodeSize = 30;
+          this.attr.rootNodeSize = 72;
+
+          this.attr.linkDistance ={
+            inter: 30,
+            title: 50,
+            node: 70
+          }
+
+          this.attr.collisionSize = {
+            s: 48,
+            m: 40,
+            l: 48 //title text
+          }
           
           // Rounded corners
           this.attr.storyRadius = 9;
 
           // Font size
-          this.attr.titleTextSize = 30;
+          this.attr.titleTextSize = 40;
 
-          // Don't squish
-          this.attr.radialForceStrength = 0.8;
+          // Portrait boundary forces instead of landscape
+          this.attr.radialForceStrength = 0.6;
           this.attr.yForceStrength = 0;
+          this.attr.xForceStrength = 0.05;
 
-          // Center force vertical offset
-          this.attr.verticalOffset = (window.innerHeight*0.4)/2 - 20;
 
+          // if big graph
+          if(graphData.nodes.length > 35){
+            console.log('Graph Mobile Many Nodes');
+            this.attr.nodeSize = 30;
+
+            this.attr.linkDistance = {
+              inter: 5,
+              title: 15,
+              node: 8
+            }
+
+            this.attr.collisionSize = {
+              s: 8,
+              m: 8,
+              l: 50 //title text
+            }
+          }
+
+        } else if (window.innerWidth > 501 && window.innerWidth < 1280) {
+          console.log('Graph Small Desktop');
+          this.attr.height = window.innerHeight;
+          this.attr.verticalOffset = 100;
+          this.attr.renderNodeLabels = true;
+          this.attr.nodeSize = 30;
+          this.attr.rootNodeSize = 50;
+
+          this.attr.linkDistance = {
+              inter: 100,
+              title: 100,
+              node: 300
+            }
+
+  
+          this.attr.collisionSize = {
+            s: 60,
+            m: 60,
+            l: 70
+          }
+          
+          // Rounded corners
+          this.attr.storyRadius = 9;
+
+          // Font size
+          this.attr.titleTextSize = 50;
+
+          this.attr.yForceStrength = 0.1;
+          
         } else {
           this.attr.height = window.innerHeight;
+          this.attr.verticalOffset = 100;
+          this.attr.renderNodeLabels = true;
+
+          // if big graph
+          if(graphData.nodes.length > 35){
+            console.log('Graph Desktop Many Nodes');
+            this.attr.nodeSize = 50;
+
+            this.attr.collisionSize = {
+              s: 60,
+              m: 80,
+              l: 100
+            }
+          }
         }
       }
     },
@@ -185,6 +263,7 @@ export default {
     init(){
       
       this.mediaQuery();
+
 
       const that = this;
       const svg = d3
@@ -208,7 +287,9 @@ export default {
           }
         }).strength(0.3))
         .force("y0", d3.forceY(this.attr.height + 20).strength(this.attr.yForceStrength)) //bounds bottom
-        .force("y1", d3.forceY(-20).strength(this.attr.yForceStrength)); //bounds bottom
+        .force("y1", d3.forceY(-20).strength(this.attr.yForceStrength)) //bounds bottom
+        .force("x0", d3.forceX(this.attr.width + 80).strength(this.attr.xForceStrength)) //bounds left
+        .force("x1", d3.forceX(-80).strength(this.attr.xForceStrength)) //bounds right
 
       const link = svg.append("g")
         .attr("stroke", "#fff")
@@ -377,7 +458,12 @@ export default {
             if(that.isDe){
               return d.title_de
             }
-            return d.title 
+            if(d.isText || d.index === 0){
+              return d.title
+            }
+            if(that.attr.renderNodeLabels != false){
+              return d.title 
+            }
             })
           .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
 
@@ -600,7 +686,7 @@ export default {
   mounted(){
     this.init();
     this.fadein = true;
-    window.addEventListener('resize', this.resize);
+    // window.addEventListener('resize', this.resize);
   },
   beforeDestroy(){
     window.removeEventListener('resize', this.resize);
