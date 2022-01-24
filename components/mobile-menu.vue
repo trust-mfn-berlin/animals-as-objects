@@ -3,13 +3,19 @@
     <div class="mob-search-outer">
       <Searchbar />
     </div>
+
+    <h2 class="title f-mono">
+        <span>{{siteLang == "de" ? 'Tiere' : 'Animals'}}</span><br>
+        <span>{{siteLang == "de" ? 'als' : 'as'}}</span><br>
+        <span>{{siteLang == "de" ? 'Objekte?' : 'Objects?'}}</span>
+    </h2>
     
     <ul class="primary">
 
-      <li class="mob-title-outer">
-        <h2 class="title f-mono">{{siteLang == "de" ? 'Tiere als Objekte?' : 'Animals as Objects?'}}</h2>
-      </li>
       
+      <li>
+        <text-button :linkto="switchUrlComposed" :isActive="true">{{siteLangSwap}}</text-button>
+      </li>
       <li>
         <text-button class="primary-nav-item" :linkto="rootUrl">{{siteLang == "de" ? 'Startseite' : 'Home'}}</text-button>
       </li>
@@ -19,15 +25,15 @@
       <li>
         <text-button class="primary-nav-item" :linkto="sameUrl + 'about'">{{siteLang == "de" ? 'Über uns' : 'About'}}</text-button>
       </li>
-      <li>
-        <text-button :linkto="switchUrlComposed">{{siteLangSwap}}</text-button>
-      </li>
+      
       <li>
         <text-button class="primary-nav-item" :linkto="sameUrl + 'datenschutz'">{{siteLang == "de" ? 'Datenschutzerklärung' : 'Data privacy policy'}}</text-button>
       </li>
       <li>
         <text-button class="primary-nav-item" :linkto="sameUrl + 'imprint'">Imprint</text-button>
       </li>
+
+      
       
     </ul>
     
@@ -94,32 +100,51 @@ export default {
   background-color: @white;
   overflow-x: hidden;
   overflow-y: auto;
-  padding:@space-s;
+  padding:calc(44px + @space-m) @space-s @space-s @space-s;
   z-index: @z-mobilemenu;
 }
 
+.title{
+  margin: 5.5rem 0;
+  
+  text-align: center;
+  // margin: 7rem 0 5rem;
+  font-size: 10.5vw;
+  line-height: @lh-xs;
+
+  span{
+    // color:@bg;
+    // background-color: @bg;
+    display: inline-block;
+    // padding:@space-xs @space-s;
+    // border-radius: @radius-l;
+  }
+
+  span:nth-of-type(2){
+    // background-color: red;
+    padding-top: 0;
+    border-radius: 0;
+  }
+
+}
+
 ul{
+  // margin-top:calc(44px + @space-m);
+  text-align: center;
   li{
 
-    &.mob-title-outer{
-      margin: 6.5rem 0;
-      h2{
-        text-align: center;
-        // margin: 7rem 0 5rem;
-        font-size: 10.5vw;
-        line-height: @lh-xs;
-      }
-    }
+    display: inline-block;
+    margin: @space-s @space-xs 0 0;
 
-    width: 100%;
-    margin-bottom: @space-s;
+    // width: 100%;
+    // margin-bottom: @space-s;
 
     
 
     ::v-deep{
       .text-button{
-        display: block;
-        text-align: center;
+        // display: block;
+        // text-align: center;
       }
     }
   }
