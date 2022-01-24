@@ -11,7 +11,9 @@ Die häufig für die Katalogisierung und das Management von naturkundlichen Samm
 * ***Storys*** liefern mithilfe von ***Material*** und anderen Quellen Antworten auf kleine und große Forschungsfragen.
 * ***Themen*** öffnen den Blick für den thematischen Rahmen und verbinden ***Storys*** und ***Material***.
 
-Alle technischen Komponenten sind Open Source. Wir haben kollaborativ über [Dendron](https://www.dendron.so/) gearbeitet, über [git](https://git-scm.com/) synchronisiert und direkt aus git über eine selbst gehostete Version des Content-Management-Systems [Netlify](https://www.netlify.com/) veröffentlicht. 
+Alle technischen Komponenten sind Open Source. Wir haben kollaborativ über [Dendron](https://www.dendron.so/) gearbeitet, über [git](https://git-scm.com/) synchronisiert und direkt aus git über eine selbst gehostete Version des Content-Management-Systems [Netlify](https://www.netlify.com/) veröffentlicht.
+
+Wir haben uns bemüht, alle Bildrechte sorgfältig zu recherchieren und zu klären. Sollte uns etwas entgangen sein, bitten wir, sich mit uns in Verbindung zu setzen.
 
 **Kontakt**: humanities(at)mfn.berlin
 
