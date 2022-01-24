@@ -21,7 +21,7 @@ var graphData;
 
 if(featuredGraphData.length > 1){
 
-// Change feature based on day of the month
+// Change featured graph based on day of the month
 var today = new Date(); //Get todays date
 var month = today.getMonth();
 var year = today.getUTCFullYear();
@@ -34,7 +34,7 @@ var maxDays = thisMonth.getDate(); //Get the max number of days in this month
 var daymap = [];
 var daytick = 0;
 
-// Assign a feature to every day this month
+// Assign a featured article to every day this month
 for (let d = 1; d <= maxDays; d++) {
   if(daytick < featuredGraphData.length - 1){
     daymap.push(daytick)
@@ -50,10 +50,10 @@ const dateZeroed = date-1;
 
 // console.log(daymap, dateZeroed);
 
-graphData = featuredGraphData[daymap[dateZeroed]]; //Select the feature based on the day of the month
+graphData = featuredGraphData[daymap[dateZeroed]]; //Select the featured article based on the day of the month
 
 } else {
-  graphData = featuredGraphData[0]; //If there's only one feature just skip the whole process
+  graphData = featuredGraphData[0]; //If there's only one featured article just skip the whole process
 }
 
 const title_nodes = [
