@@ -7,7 +7,7 @@ short_desc_de: Zur Geschichte des Seidenbaus in Preußen
 date_end: 1885-12-31T11:06:32.000Z
 published: false
 title: "Silk Culture "
-updated: 1642587670278
+updated: 1643061780362
 id: isUsK2mnx8uIqaTJ60nYR
 doi: 64y2-m311/48
 translators:
@@ -45,7 +45,7 @@ date_start: 1679-12-31T23:06:32.000Z
  
 <figcaption>
  
-_Display case from the Lepidoptera collection at the Museum für Naturkunde Berlin. (Image: Britta Lange. All rights reserved.)_
+_Display case from the Lepidoptera collection at the Museum für Naturkunde Berlin. (Image: Britta Lange/MfN. All rights reserved.)_
 
 </figcaption>
  
@@ -79,7 +79,7 @@ This breeding process, entangled in complex [[metabolisms|theme.logistical-metab
  
 <figcaption>
  
-_Display case from the Lepidoptera collection at the Berlin Museum für Naturkunde Berlin. (Image: Britta. All rights reserved.)_
+_Display case from the Lepidoptera collection at the Berlin Museum für Naturkunde Berlin. (Image: Britta Lange/MfN. All rights reserved.)_
 
 </figcaption>
  
@@ -147,7 +147,7 @@ In spite of myriad efforts, it was not possible for the Prussian state to do awa
  
 <figcaption>
  
-_Schaukasten im Museum für Naturkunde Berlin, Sammlung Lepidoptera. (Foto: Britta Lange. Alle Rechte vorbehalten.)_
+_Schaukasten im Museum für Naturkunde Berlin, Sammlung Lepidoptera. (Foto: Britta Lange//MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
  
@@ -178,7 +178,7 @@ Mit diesem Züchtungsvorgang, der mit [[Metabolismen|theme.logistical-metabolism
  
 <figcaption>
  
-_Schaukasten im Museum für Naturkunde Berlin, Sammlung Lepidoptera. (Foto: Britta Lange. Alle Rechte vorbehalten.)_
+_Schaukasten im Museum für Naturkunde Berlin, Sammlung Lepidoptera. (Foto: Britta Lange//MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
  
