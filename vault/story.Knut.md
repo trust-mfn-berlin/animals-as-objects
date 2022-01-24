@@ -3,7 +3,7 @@ license: CC BY-SA
 title: “Knut”
 title_de: “Knut”
 created: 1618576718116
-updated: 1643052682680
+updated: 1643053408354
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/27
@@ -296,7 +296,7 @@ Would these connections and their shared interest still have come about in a wor
  
 Can we find the reason behind “Knut’s” special status by looking at media history? If so, then there will be no other “Knut”. Zoos – and Berlin Zoo as well – are increasingly making efforts to keep animals away from direct human contact, in what is referred to as protected contact management, which is intended to ensure the safety of animals but also keepers. This form of management seems more natural to visitors, although the animals are subject to rules that are just as strict. It would therefore be difficult to reproduce the mechanisms of celebrity described here. 
  
-Environmental politics are another factor that would be difficult to reproduce today. The climate crisis is no longer news, and zoos are now stylising themselves more intensively as wildlife conservation centres in their communications (see also [[Putting Animals on Display|theme.showing-animals]] and [[story.zoos-and-conservation]] and are also perceived by many Germans that way.[^33] This suggests that there is no longer as much room left for the ambassador of a single species in this kind of communication. However, once all of these factors fade away, it is very difficult to imagine that the construction of a celebrity like “Knut” will repeat itself. The polar bear cub united important moments in media and zoo history with environmental-political and economic interests. “Knut” provides a snapshot of the potential inherent to zoo animals to activate broad public interest and strong emotions. However, zoos cannot generate this interest and these emotions by themselves. For that, more protagonists are required.
+Environmental politics are another factor that would be difficult to reproduce today. The climate crisis is no longer news, and zoos are now stylising themselves more intensively as wildlife [[conservation centres|story.zoos-and-conservation]] in their communications and are also perceived by many Germans that way.[^33] This suggests that there is no longer as much room left for the ambassador of a single species in this kind of communication. However, once all of these factors fade away, it is very difficult to imagine that the construction of a [[celebrity|theme.showing-animals]] like “Knut” will repeat itself. The polar bear cub united important moments in media and zoo history with environmental-political and economic interests. “Knut” provides a snapshot of the potential inherent to zoo animals to activate broad public interest and strong emotions. However, zoos cannot generate this interest and these emotions by themselves. For that, more protagonists are required.
  
 [^1]: Zoologischer Garten Berlin AG. “Geschäftsbericht für das Jahr 2007” _Bongo_ 38 (2008): 91-196, 139-140.
  
