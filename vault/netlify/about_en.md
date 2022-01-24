@@ -11,7 +11,9 @@ Relational databases, the very databases that are often used to catalogue and ma
 * *Stories* answer big and small research questions through *materials* and other sources.
 * *Themes* address the bigger picture that links different *stories* and *materials*.
 
-All technical components are open source. We worked collaboratively on [Dendron](https://www.dendron.so/), synchronised via [git](https://git-scm.com/), and published directly from git through a self-hosted version of the content management system [Netlify](https://www.netlify.com/). 
+All technical components are open source. We worked collaboratively on [Dendron](https://www.dendron.so/), synchronised via [git](https://git-scm.com/), and published directly from git through a self-hosted version of the content management system [Netlify](https://www.netlify.com/).
+
+We have made every effort to research and clear all image rights. If we have missed something, please contact us.
 
 **Contact**: humanities(at)mfn.berlin
 
