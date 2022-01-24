@@ -7,7 +7,7 @@ short_desc_de: Mikroskopisch kleine einzellige Organismen in den Ozeanen
 date_end: 2022-01-24T09:06:39.563Z
 published: false
 title: Radiolaria
-updated: 1642847062652
+updated: 1643059332820
 id: 947c29be-240a-4adb-93c7-9026f80aaa89
 doi: 64y2-m311/6
 translators:
@@ -34,7 +34,7 @@ date_start: 1838-12-31T23:50:39.000Z
 
 <figcaption>
 
-_Radiolaria on plate 59 from Ernst Haeckel’s report about the H.M.S. Challenger expedition, 1887. (Public domain, no copyright applies. https://archive.org/details/reportonradiolar00haecrich)_
+_Radiolaria on plate 59 from Ernst Haeckel’s report about the H.M.S. Challenger expedition, 1887._
 
 </figcaption>
 
@@ -57,7 +57,7 @@ In addition, their tests, with their complex, delicate, and geometrical transluc
 
 <figcaption>
 
-_Radiolarien auf Tafel 59 in Ernst Haeckels Bericht über die H.M.S. Challenger Expedition, 1887. (Lizenzfrei, https://archive.org/details/reportonradiolar00haecrich)_
+_Radiolarien auf Tafel 59 in Ernst Haeckels Bericht über die H.M.S. Challenger Expedition, 1887._
 
 </figcaption>
 
