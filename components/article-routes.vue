@@ -65,6 +65,9 @@ h2{
 .route-info-text{
   opacity: 0.2;
 }
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    font-size: @fs-m;
+  }
 }
 
 </style>
