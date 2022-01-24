@@ -4,6 +4,7 @@ build
 .nuxt
 dist
 .DS_Store
+.vscode/settings.json
 
 /temp/*.json
 

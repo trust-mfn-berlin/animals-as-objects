@@ -6,7 +6,7 @@
     <div class="spacer"></div>
     <section class="cascade">
       <p class="intro">
-        Learn more about the unexpected connections between some of Berlin’s most beloved animals as well as less charismatic and famous specimens by browsing through our <span class="theme tao_type">Themes</span>, <span class="story tao_type">Stories</span> and <span class="material tao_type">Materials</span>. Themes are big-picture topics that bring together many stories, which in turn weave together anecdotes, practices, and materials – the specific things, documents, and moments that mark the transformations of animals into objects.
+        Learn more about the unexpected connections between some of Berlin’s most beloved animals as well as less charismatic and famous specimens by browsing through our <span class="theme tao_type">Themes</span>, <span class="story tao_type">Stories</span> and <span class="material tao_type">Materials</span>. <span class="mob-hidden">Themes are big-picture topics that bring together many stories, which in turn weave together anecdotes, practices, and materials – the specific things, documents, and moments that mark the transformations of animals into objects.</span>
       </p>
       <Cascade :articles="rngArticles" />
       <text-button linkto="/articles">View all articles</text-button>
@@ -166,7 +166,7 @@ export default {
   pointer-events: none;
 
   @media screen and (max-width: @mq-s) /* Mobile */ {
-    height: calc(60vh - 6rem);
+    height: 400px;
   }
 }
 
@@ -230,6 +230,11 @@ p.intro{
   }
   span.story::before{
     border-radius: 0.2em;
+  }
+
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    font-size: @fs-m;
+    // display: none;
   }
 }
 

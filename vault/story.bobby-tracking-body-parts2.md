@@ -4,7 +4,7 @@ title: “Bobby”. Tracking Body Parts
 title_de: “Bobby”. Eine Fundgeschichte
 created: 1640338390195
 author: Mareike Vennen
-updated: 1642815980083
+updated: 1643032224377
 id: 05XnJBaPUmIcfTWa4WMyb
 doi: 64y2-m311/52
 translators:
@@ -24,6 +24,7 @@ tao_type: story
 date_start: 1935-12-24T10:53:00.000Z
 date_end: ""
 published: false
+feature: true
 ---
 
 :::EN:::

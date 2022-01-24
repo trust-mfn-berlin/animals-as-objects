@@ -6,7 +6,7 @@
     <div class="spacer"></div>
     <section class="cascade">
       <p class="intro">
-        Erfahren Sie mehr über unerwartete Verbindungen zwischen einigen der beliebtesten Berliner Tiere und zahlreichen weniger charismatischen oder berühmten Exemplaren, indem Sie sich durch unsere <span class="theme tao_type"><em>Themen</em></span>, <span class="story tao_type"><em>Storys</em></span> und <span class="material tao_type"><em>Materien</em></span> klicken. <em>Themen</em> zeigen größere Zusammenhänge auf und verbinden verschiedene <em>Storys</em>, die wiederum Anekdoten, Praktiken und <em>Materien</em> miteinander verweben – eben die spezifischen Dinge, Dokumente und Momente, die die Verwandlung von Tieren in Objekte markieren.
+        Erfahren Sie mehr über unerwartete Verbindungen zwischen einigen der beliebtesten Berliner Tiere und zahlreichen weniger charismatischen oder berühmten Exemplaren, indem Sie sich durch unsere <span class="theme tao_type"><em>Themen</em></span>, <span class="story tao_type"><em>Storys</em></span> und <span class="material tao_type"><em>Materien</em></span> klicken. <span class='mob-hidden'><em>Themen</em> zeigen größere Zusammenhänge auf und verbinden verschiedene <em>Storys</em>, die wiederum Anekdoten, Praktiken und <em>Materien</em> miteinander verweben – eben die spezifischen Dinge, Dokumente und Momente, die die Verwandlung von Tieren in Objekte markieren.</span>
       </p>
       <Cascade :articles="rngArticles" />
       <text-button linkto="/de/articles">Alle Artikel ansehen</text-button>
@@ -165,7 +165,7 @@ export default {
   pointer-events: none;
 
   @media screen and (max-width: @mq-s) /* Mobile */ {
-    height: calc(60vh - 6rem);
+    height: 400px;
   }
 }
 

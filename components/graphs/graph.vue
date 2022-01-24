@@ -11,7 +11,9 @@
 // https://bl.ocks.org/steveharoz/8c3e2524079a8c440df60c1ab72b5d03
 
 <template>
-  <div id="d3-main" :style="{height: attr.height + 'px'}" :class="{cssfade : fadein}"></div>
+  <div id="d3-main" :style="{height: attr.height + 'px'}" :class="{cssfade : fadein}">
+  <!-- <text-button class="refresh" type="button" @click.native="changeGraph">OK</text-button> -->
+  </div>
 </template>
 
 <script>
@@ -21,7 +23,7 @@ var graphData;
 
 if(featuredGraphData.length > 1){
 
-// Change feature based on day of the month
+// Change featured graph based on day of the month
 var today = new Date(); //Get todays date
 var month = today.getMonth();
 var year = today.getUTCFullYear();
@@ -34,7 +36,7 @@ var maxDays = thisMonth.getDate(); //Get the max number of days in this month
 var daymap = [];
 var daytick = 0;
 
-// Assign a feature to every day this month
+// Assign a featured article to every day this month
 for (let d = 1; d <= maxDays; d++) {
   if(daytick < featuredGraphData.length - 1){
     daymap.push(daytick)
@@ -50,10 +52,11 @@ const dateZeroed = date-1;
 
 // console.log(daymap, dateZeroed);
 
-graphData = featuredGraphData[daymap[dateZeroed]]; //Select the feature based on the day of the month
+graphData = featuredGraphData[daymap[dateZeroed]]; //Select the featured article based on the day of the month
+// graphData = featuredGraphData[3];
 
 } else {
-  graphData = featuredGraphData[0]; //If there's only one feature just skip the whole process
+  graphData = featuredGraphData[0]; //If there's only one featured article just skip the whole process
 }
 
 const title_nodes = [
@@ -122,7 +125,9 @@ export default {
           rest: 0.00005
         },
         radialForceStrength: 0,
-        yForceStrength: 0.2
+        yForceStrength: 0.2,
+        xForceStrength: 0,
+        renderNodeLabels: true
       },
       
     }
@@ -140,41 +145,128 @@ export default {
         this.$router.push('/' + d.slug);
       }
     },
+    changeGraph(){
+      const that = this;
+      this.fadein = false;
+      setTimeout(function(){ 
+        d3.select("#d3-main").select("svg").remove();
+        graphData = featuredGraphData[0];
+        graphData.nodes.push(...title_nodes);
+        graphData.links.push(...title_links);
+        that.init();
+        that.fadein = true;
+      }, 500);
+    },
     mediaQuery(){
+      
       if(window){
-        console.log(window.innerWidth);
+
+        console.log('nodes:', graphData.nodes.length);
+        console.log(window.innerWidth , 'px wide');
+
         this.attr.width = window.innerWidth;
+
+        
 
         // For mobile
         if(window.innerWidth < 501){
-          this.attr.height = window.innerHeight - 10;
-          
-          this.attr.linkDistance.inter = this.attr.linkDistance.inter*0.3;
-          this.attr.linkDistance.title = this.attr.linkDistance.title*0.3;
-          this.attr.linkDistance.node = this.attr.linkDistance.node*0.3;
+        console.log('Graph Mobile');
 
-          this.attr.nodeSize = this.attr.nodeSize*0.5;
-          this.attr.rootNodeSize = this.attr.rootNodeSize*0.4;
+          this.attr.height = 550;
+          // Center force vertical offset
+          this.attr.verticalOffset = 0;
 
-          this.attr.collisionSize.s = this.attr.collisionSize.s*0.6;
-          this.attr.collisionSize.m = this.attr.collisionSize.m*0.4;
-          this.attr.collisionSize.l = this.attr.collisionSize.l*0.4;
+          this.attr.renderNodeLabels = false;
+
+          this.attr.nodeSize = 30;
+          this.attr.rootNodeSize = 72;
+
+          this.attr.linkDistance ={
+            inter: 30,
+            title: 50,
+            node: 70
+          }
+
+          this.attr.collisionSize = {
+            s: 48,
+            m: 40,
+            l: 48 //title text
+          }
           
           // Rounded corners
           this.attr.storyRadius = 9;
 
           // Font size
-          this.attr.titleTextSize = 30;
+          this.attr.titleTextSize = 40;
 
-          // Don't squish
-          this.attr.radialForceStrength = 0.8;
+          // Portrait boundary forces instead of landscape
+          this.attr.radialForceStrength = 1;
           this.attr.yForceStrength = 0;
+          this.attr.xForceStrength = 0.05;
 
-          // Center force vertical offset
-          this.attr.verticalOffset = (window.innerHeight*0.4)/2 - 20;
 
+          // if big graph
+          if(graphData.nodes.length > 20){
+            console.log('Graph Mobile Many Nodes');
+            this.attr.nodeSize = 30;
+
+            this.attr.linkDistance = {
+              inter: 5,
+              title: 15,
+              node: 8
+            }
+
+            this.attr.collisionSize = {
+              s: 8,
+              m: 8,
+              l: 50 //title text
+            }
+          }
+
+        } else if (window.innerWidth > 501 && window.innerWidth < 1280) {
+          console.log('Graph Small Desktop');
+          this.attr.height = window.innerHeight;
+          this.attr.verticalOffset = 100;
+          this.attr.renderNodeLabels = true;
+          this.attr.nodeSize = 30;
+          this.attr.rootNodeSize = 50;
+
+          this.attr.linkDistance = {
+              inter: 100,
+              title: 100,
+              node: 300
+            }
+  
+          this.attr.collisionSize = {
+            s: 60,
+            m: 60,
+            l: 70
+          }
+          
+          // Rounded corners
+          this.attr.storyRadius = 9;
+
+          // Font size
+          this.attr.titleTextSize = 50;
+
+          this.attr.yForceStrength = 0.1;
+          
         } else {
           this.attr.height = window.innerHeight;
+          this.attr.verticalOffset = 100;
+          this.attr.renderNodeLabels = true;
+
+          // if big graph
+          if(graphData.nodes.length > 35){
+            console.log('Graph Desktop Many Nodes');
+            this.attr.nodeSize = 50;
+
+            this.attr.collisionSize = {
+              s: 60,
+              m: 80,
+              l: 100
+            }
+          }
         }
       }
     },
@@ -185,6 +277,7 @@ export default {
     init(){
       
       this.mediaQuery();
+
 
       const that = this;
       const svg = d3
@@ -208,7 +301,9 @@ export default {
           }
         }).strength(0.3))
         .force("y0", d3.forceY(this.attr.height + 20).strength(this.attr.yForceStrength)) //bounds bottom
-        .force("y1", d3.forceY(-20).strength(this.attr.yForceStrength)); //bounds bottom
+        .force("y1", d3.forceY(-20).strength(this.attr.yForceStrength)) //bounds bottom
+        .force("x0", d3.forceX(this.attr.width + 80).strength(this.attr.xForceStrength)) //bounds left
+        .force("x1", d3.forceX(-80).strength(this.attr.xForceStrength)) //bounds right
 
       const link = svg.append("g")
         .attr("stroke", "#fff")
@@ -254,6 +349,8 @@ export default {
           .attr('y', function(d , i){
             if(d.index === 0){
               return that.attr.rootNodeSize*-0.5
+            } else if (d.isText){
+              return that.attr.titleTextSize *-0.5 - 3
             } else {
               return that.attr.nodeSize*-0.5
             }
@@ -291,7 +388,7 @@ export default {
           })
           .attr('rx', function (d, i) {
             if(d.isText == true){
-              return 25
+              return that.attr.titleTextSize * 0.3;
             } else if (d.tao_type == 'material'){
               return 500
             } else if (d.tao_type == 'story'){
@@ -302,7 +399,8 @@ export default {
           })
 
         node.append("image")
-          .attr("xlink:href", function(d){
+          .attr("xlink:href", function(d, i){
+            if(i % 3 != 0 || i === 0) // Skip every third image 
             if (d.cover_image && d.cover_image.image){
               return d.cover_image.image.replace('/images/','/thumbnails/l/');
             }
@@ -348,12 +446,12 @@ export default {
           })
 
         node.append("text")
-          
           .attr("dy", function(d){
             if(d.index === 0){
               return that.attr.rootNodeSize*0.8 + 'px'
             } else if(d.isText){
               return that.attr.titleTextSize*0.555 - 5 + 'px'
+              // return "0px"
             } else {
               return that.attr.nodeSize + 'px'
             }
@@ -375,7 +473,12 @@ export default {
             if(that.isDe){
               return d.title_de
             }
-            return d.title 
+            if(d.isText || d.index === 0){
+              return d.title
+            }
+            if(that.attr.renderNodeLabels != false){
+              return d.title 
+            }
             })
           .attr("dx", function(d) { return this.getBoundingClientRect().width/2*-1})
 
@@ -598,7 +701,7 @@ export default {
   mounted(){
     this.init();
     this.fadein = true;
-    window.addEventListener('resize', this.resize);
+    // window.addEventListener('resize', this.resize);
   },
   beforeDestroy(){
     window.removeEventListener('resize', this.resize);
@@ -637,6 +740,12 @@ export default {
     //   -webkit-filter: drop-shadow( 0px 4px 10px rgba(0, 0, 0, 0.5));
     // }
   }
+}
+
+.refresh{
+  position: absolute;
+  top:1rem;
+  right:1rem;
 }
 
 </style>

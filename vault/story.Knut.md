@@ -3,7 +3,7 @@ license: CC BY-SA
 title: “Knut”
 title_de: “Knut”
 created: 1618576718116
-updated: 1642369765465
+updated: 1643033429288
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/27
@@ -27,6 +27,7 @@ tao_type: story
 date_start: 2006-12-04T23:00:00.000Z
 date_end: 2011-03-18T23:00:00.000Z
 published: false
+feature: true
 ---
 
 :::EN:::

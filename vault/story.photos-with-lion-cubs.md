@@ -7,7 +7,7 @@ short_desc_de: Raubtier, Zootier, Kuscheltier? Politiken des Tierbildes
 date_end: 1994-12-24T10:34:00.000Z
 published: false
 title: Photos with Lion Cubs
-updated: 1642371007953
+updated: 1643032518666
 id: 4U5dFDf18mKRPdRnzu35p
 doi: 64y2-m311/67
 translators:
@@ -24,6 +24,7 @@ cover_image:
 colour_scheme: 14
 tao_type: story
 date_start: 1890-12-24T11:24:39.000Z
+feature: true
 ---
 
 :::EN:::

@@ -12,9 +12,8 @@ short_desc: An old term to refer to microorganisms
 cover_image:
   image: /images/amoeba.png
 date_start: 1763-01-01T19:50:46.071Z
-feature: true
 title: Infusoria
-updated: 1642850877720
+updated: 1643034304551
 id: 5df12377-545a-45f9-9cd3-04fb8e499fb1
 doi: 64y2-m311/37
 translators:

@@ -61,6 +61,7 @@ export default {
   width: auto;
   position: relative;
   height: 2rem;
+  color: @black;
 
   @media screen and (max-width: @mq-s) /* Mobile */ {
     min-height: 44px;
