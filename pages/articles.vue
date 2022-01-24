@@ -95,7 +95,7 @@ export default {
               article.firstLetterEn = article.title.charAt(2);
             }
           } else {
-            article.firstLetterEn = article.title_de.charAt(0);
+            article.firstLetterEn = article.title.charAt(0);
           }
 
           if(!az[firstLetter]){
