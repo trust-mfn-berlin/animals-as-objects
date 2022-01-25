@@ -13,10 +13,10 @@ doi: 64y2-m311/56
 translators:
   translator_de_en: Lydia J. White
 desc: Exterminated by hunters in the 18th century before becoming a coveted
-  collection item in the 19th century and declared an icon of the Anthropocene
-  in the 21st century
+  collection item in the 19th century, Steller’s sea cow is now considered an
+  icon of the Anthropocene in the 21st century.
 desc_de: Im 18. Jahrhundert durch Jagd ausgerottet, im 19. Jahrhundert zum
-  begehrtem Sammlungsobjekt avanciert, im 21. Jahrhundert zu einer Ikone des
+  begehrten Sammlungsobjekt avanciert, im 21. Jahrhundert zu einer Ikone des
   Anthropozän erklärt.
 short_desc: Hunted, discarded, rediscovered
 cover_image:

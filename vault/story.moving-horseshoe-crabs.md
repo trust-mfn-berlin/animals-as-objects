@@ -12,10 +12,9 @@ id: WPnxMDphZ5DDXrhkIdvBS
 doi: 64y2-m311/50
 translators:
   translator_de_en: Lydia J. White
-desc: The case of a number of horseshoe crabs that were sent from New York to
-  the Hamburg Aquarium in 1865 but later turned up in the North Sea shows how
-  animals and knowledge were set in motion, traversing different spaces and
-  times.
+desc: In 1865, the Hamburg Aquarium received horseshoe crabs from New York that
+  would later turn up in the North Sea. This case shows how animals and
+  knowledge were set in motion, traversing different spaces and times.
 desc_de: Pfeilschwanzkrebse, die 1865 von New York an das Hamburger Aquarium
   verschickt wurden, aber später in der Nordsee auftauchten – dieser Fall zeigt,
   wie Tiere und Wissen über Räume und Zeiten hinweg in Bewegung gesetzt wurden.

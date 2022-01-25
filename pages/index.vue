@@ -14,7 +14,7 @@
 
     <section class="outro">
       <p class="outro-text">
-        <span class="f-mono">Animals as Objects?</span> is an online publication by researchers from the Museum für Naturkunde Berlin, the Zoo Berlin, and the Humboldt University Berlin. We are historians of science, science studies scholars,  cultural studies scholars, and anthropologists. The project was funded by the German Federal Ministry for Education and Research (BMBF), and runs from September 2018 until December 2021.      </p>
+        <span class="f-mono">Animals as Objects?</span> is an online publication by researchers from the Museum für Naturkunde Berlin, the Zoo Berlin, and the Humboldt-Universität zu Berlin, edited by Ina Heumann and Tahani Nadim. We are historians of science, science studies scholars, cultural studies scholars, and anthropologists. The project was funded by the German Federal Ministry for Education and Research (BMBF), and run from September 2018 until December 2021.</p>
       <text-button linkto="/about">More about the project</text-button>
     </section>
 

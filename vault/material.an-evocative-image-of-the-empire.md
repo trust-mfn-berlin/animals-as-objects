@@ -1,25 +1,25 @@
 ---
-id: ZDxo1U9ptEVRJhmFpVKyC
-title: An ‘Atmospheric Image’ of the Empire
-desc: Displaying wild animals as colonial appropriation
-updated: 1642528002918
-created: 1640456876442
 license: CC BY-SA
-title_de: Ein ‘stimmungsvolles Bild’ des Kolonialreichs
+title_de: Die deutsch-koloniale Jagdausstellung
+created: 1640456876442
 author: Catarina Madruga
+short_desc_de: Die Zurschaustellung wilder Tiere als koloniale Aneignung
+date_end: ""
+published: false
+title: The German-Colonial Hunting Exhibition
+updated: 1643135386138
+id: ZDxo1U9ptEVRJhmFpVKyC
 doi: 64y2-m311/74
 translators:
   translator_en_de: Jan-Peter Herrmann
+desc: Displaying wild animals as colonial appropriation
 desc_de: Die Zurschaustellung wilder Tiere als koloniale Aneignung
 short_desc: Displaying wild animals as colonial appropriation
-short_desc_de: Die Zurschaustellung wilder Tiere als koloniale Aneignung
 cover_image:
   image: /images/an-evocative-image_1.jpg
 colour_scheme: 3
 tao_type: material
 date_start: 1903-01-01T19:37:39.000Z
-date_end: ''
-published: false
 ---
 
 :::EN:::
@@ -37,7 +37,7 @@ _Photograph from the 1903_ Offizieller Katalog der Deutsch-Kolonialen Jagdausste
 
 </figure>
 
-This photograph shows the room of the trading house Karl Eisengräber in the 1903 Colonial Hunting Exhibition. It is evidence not only of the complex visual rhetoric of 19th-century European imperial pursuits, but also tells us something about the role attributed to animals in this context, showing how [[animals were caught|story.catching-animals]] and [[displayed|theme.putting-animals-on-display]]
+This photograph shows the room of the trading house Karl Eisengräber in the 1903 German-Colonial Hunting Exhibition. It is evidence not only of the complex visual rhetoric of 19th-century European imperial pursuits, but also tells us something about the role attributed to animals in this context, showing how [[animals were caught|story.catching-animals]] and [[displayed|theme.putting-animals-on-display]]
 
 The event was organised by the Deutsche Kolonialgesellschaft (the German Colonial Society) that was created in 1887 in order to promote the exploration of East Africa and expand the German colonial agenda.[^1] In 1902, the society organised its first colonial congress in Berlin; followed by the hunting exhibition in Karlsruhe in 1903. As with the rest of the exhibition, the walls in the room on the photograph displayed animals as [[hunting trophies|material.purchased-from-a-caravan]]. But what is special here is that the skulls of buffaloes, rhinoceros, elephants, and antelopes were exhibited side by side with colonial goods: the result of extractive colonial agriculture such as coffee, cacao, vanilla, and peanut oil. These “raw products” were shown alongside artefacts, and both could be purchased from “German Swahilis”, so as to convince the audiences of the quality of the products and the craft.[^2] According to the catalogue, ethnographic collections were added to the hunting exhibition in order to convey to the visitors the most “atmospheric image possible” of the whole of the German colonial territories.[^3] In this way, [[big game hunting|story.photos-with-lion-cubs]] was visually associated with natural resources and the expanding colonial market, and this exhibition suggested a connection between hunting campaigns, colonial crafts, and economical gain.
 

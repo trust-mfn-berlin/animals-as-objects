@@ -1,12 +1,12 @@
 ---
 license: CC BY-SA
-title_de: Die chaotischen Anfänge der Mikropaläontologie
+title_de: Frühe Mikropaläontologie
 created: 1621514713008
 author: Filippo Bertoni
 short_desc_de: Naturforscher:innen rangen um ein Verständnis von Mikroorganismen
 date_end: 1850-12-31T11:06:32.000Z
 published: false
-title: Chaotic Origins of Micropaleontology
+title: Early Micropaleontology
 updated: 1642368966109
 id: fee46412-5135-463a-8019-d002f5b513ea
 doi: 64y2-m311/10
@@ -14,20 +14,17 @@ translators:
   translator_en_de: ""
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
-desc: |-
-  As microorganisms began to enter our field of vision, naturalists
-  struggled to understand their relations to the rest of nature. The history of
-  these struggles, especially how they took shape around the Museum für
-  Naturkunde Berlin, can show how much microorganisms transformed over time, and
-  how they keep challenging what animals are.
-desc_de: |-
-  In der Anfangszeit der Erforschung von Mikroorganismen hatten
+desc: When microorganisms began entering our field of vision, naturalists
+  struggled to understand their relations to the rest of nature. Examining the
+  history of these struggles, especially in and around the Museum für Naturkunde
+  Berlin, shows how much microorganisms have transformed over time and how they
+  keep challenging what animals are.
+desc_de: "Als Mikroorganismen erstmals sichtbar gemacht wurden, hatten
   Naturkundler:innen zunächst noch keine Vorstellung von ihrer Rolle und ihrem
-  Verhältnis zu ihrer natürlichen Umgebung. Die Geschichte dieses Ringens um
-  Erkenntnisgewinn – auch und gerade im Kontext des Museums für Naturkunde
-  Berlin – verdeutlicht einerseits wie sehr sich das Verständnis von
-  Mikroorganismen mit der Zeit gewandelt hat und unterstreicht andererseits die
-  Bedeutung dieses Verständnisses für unsere Definition von tierischem Leben.
+  Verhältnis zur natürlichen Ordnung. Die konfliktreiche Geschichte dieses
+  Erkenntnisgewinns – insbesondere im Kontext des Museums für Naturkunde Berlin
+  – verdeutlicht ihre Verwandlungen im Laufe der Zeit und stellt die Definition
+  von was ein Tier denn ausmacht immer wieder in Frage. "
 short_desc: Naturalists struggled to understand microorganisms
 cover_image:
   image: /images/cover-chaotic-origins.jpg

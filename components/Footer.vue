@@ -1,15 +1,15 @@
 <template>
   <footer>
     <small class="f-mono spiel" v-if="$store.getters.siteLanguage == 'de'">
-      <em>Tiere als Objekte?</em> <span class="mob-hidden">Eine Website des Forschungsprojekts “Tiere als Objekte. Zoologische Gärten und Naturkundemuseum in Berlin, 1810 bis 2020”</span>
+      <em>Tiere als Objekte?</em> <span class="mob-hidden">Eine Website des Forschungsprojekts “Tiere als Objekte. Zoologische Gärten und Naturkundemuseum in Berlin, 1810 bis 2020”, herausgegeben von Ina Heumann und Tahani Nadim.</span>
     </small>
     <small class="f-mono spiel" v-else>
-      Animals as Objects? <span class="mob-hidden">A website by the research project “Animals as Objects. Zoological Gardens and Natural History Museum in Berlin, 1810 to 2020”</span>
+      <em>Animals as Objects?</em> <span class="mob-hidden">A website by the research project “Animals as Objects. Zoological Gardens and Natural History Museum in Berlin, 1810 to 2020”, edited by Ina Heumann and Tahani Nadim.</span>
     </small>
-    <small class="f-mono">
+    <small class="f-mono links">
       <nuxt-link :to="$store.getters.siteLanguage == 'de' ? '/de/datenschutz' : '/datenschutz'">{{$store.getters.siteLanguage == "de" ? 'Datenschutzerklärung' : 'Data privacy policy'}}</nuxt-link> |
       <nuxt-link :to="$store.getters.siteLanguage == 'de' ? '/de/imprint' : '/imprint'">Imprint</nuxt-link>
-      </small>
+    </small>
     
     <!-- <icon-button icon="arrow-up" tao_type="material" @click.native="scrollToY(0, 800)"></icon-button> -->
   </footer>
@@ -38,7 +38,13 @@ small{
   line-height: @lh-short;
 }
 
+.links{
+  // flex-grow: 1;
+  white-space: nowrap;
+}
+
 .spiel{
-  max-width: 60%;
+  // max-width: 60%;
+  padding-right: 1rem;
 }
 </style>
