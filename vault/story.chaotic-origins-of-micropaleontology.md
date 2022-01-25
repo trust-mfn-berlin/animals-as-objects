@@ -1,12 +1,12 @@
 ---
 license: CC BY-SA
-title_de: Die chaotischen Anfänge der Mikropaläontologie
+title_de: Frühe Mikropaläontologie
 created: 1621514713008
 author: Filippo Bertoni
 short_desc_de: Naturforscher:innen rangen um ein Verständnis von Mikroorganismen
 date_end: 1850-12-31T11:06:32.000Z
 published: false
-title: Chaotic Origins of Micropaleontology
+title: Early Micropaleontology
 updated: 1642368966109
 id: fee46412-5135-463a-8019-d002f5b513ea
 doi: 64y2-m311/10
