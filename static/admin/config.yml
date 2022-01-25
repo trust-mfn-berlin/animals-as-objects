@@ -68,6 +68,7 @@ collections:
       - { label: "Description DE", name: "desc_de", widget: "string", hint: "30-50 words" }
       - { label: "Short Description", name: "short_desc", widget: "string", hint: "3-10 words" }
       - { label: "Short Description DE", name: "short_desc_de", widget: "string", hint: "3-10 words" }
+      - { label: "Search Keywords", name: "keywords", widget: "string", hint: "Add searchable keywords that refer to this article. Each keyword should be separated by a space." }
       - label: "Cover image"
         name: "cover_image"
         widget: "object"

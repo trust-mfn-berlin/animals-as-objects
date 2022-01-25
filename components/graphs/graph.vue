@@ -52,8 +52,12 @@ const dateZeroed = date-1;
 
 // console.log(daymap, dateZeroed);
 
-graphData = featuredGraphData[daymap[dateZeroed]]; //Select the featured article based on the day of the month
+// graphData = featuredGraphData[daymap[dateZeroed]]; //Select the featured article based on the day of the month
 // graphData = featuredGraphData[3];
+const rng = Math.floor(Math.random() * featuredGraphData.length);
+graphData = featuredGraphData[rng];
+
+console.log('Random article no', rng);
 
 } else {
   graphData = featuredGraphData[0]; //If there's only one featured article just skip the whole process
@@ -275,6 +279,8 @@ export default {
       this.init();
     },
     init(){
+
+      console.log('Articles:', featuredGraphData.length);
       
       this.mediaQuery();
 

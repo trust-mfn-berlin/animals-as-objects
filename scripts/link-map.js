@@ -166,7 +166,10 @@ async function getContent(filePath, encoding = "utf-8") {
     var links = [];
 
     // Only act on featured pages.
-    if(article.frontmatter.feature){
+    // if(article.frontmatter.feature){
+
+    // all articles without archived ones
+    if(!article.frontmatter.archived){
       
       // immediately add first node
       nodes.push({
