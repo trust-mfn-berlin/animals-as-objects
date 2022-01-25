@@ -12,20 +12,17 @@ id: kZTLAIf7pRRgEPPJbtGqA
 doi: 64y2-m311/44
 translators:
   translator_de_en: Lydia J. White
-desc: |-
-  The inventory books of the Berlin university's Zoological Teaching
-  Collection show how changing forms of record-keeping were shaped by war, loss,
-  scientific advancements, and practical teaching objectives. The detective
-  search for a spiny dogfish specimen reveals that it was registered in the
-  teaching collection at various points in time under the numbers 1208, 2488,
-  and 863.
-desc_de: |-
-  Die Inventarbücher der Zoologischen Lehrsammlung der Berliner
-  Universität zeigen, dass die wandelbaren Verzeichnungsformen durch praktische
-  Ansprüche der Lehrtätigkeit, Krieg, Verluste und wissenschaftliche Neuerungen
-  geprägt wurden. Die detektivische Suche nach einem präparierten Dornhai-Embryo
-  ergibt, dass das Präparat in der Lehrsammlung zu verschiedenen Zeiten unter
-  den Nummern 1888, 1208 und 2488 verzeichnet worden war.
+desc: "Searching for a spiny dogfish specimen reveals the multiple registration
+  numbers it carried throughout its time in the Berlin university's Zoological
+  Teaching Collection: 1208, 2488, and 863. The inventory books show how war,
+  loss, the demands of teaching, and scientific advancements shaped and changed
+  record-keeping."
+desc_de: Die Suche nach einem präparierten Dornhai-Embryo ergibt, dass das
+  Präparat in der Zoologischen Lehrsammlung der Berliner Universität zu
+  verschiedenen Zeiten unter den Nummern 1208, 2488, and 863 verzeichnet worden
+  war. Die Inventarbücher zeigen, dass die wandelbaren Verzeichnungsformen durch
+  Krieg, Verlust, praktische Ansprüche der Lehrtätigkeit, und wissenschaftliche
+  Neuerungen geprägt wurden.
 short_desc: How does a teaching collection keep records of its items?
 cover_image:
   image: /images/cover-inventory-books-inventarbuecher-zoologische-lehrsammlung-zoological-teaching-collection-berlin.png
