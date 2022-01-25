@@ -7,7 +7,7 @@ short_desc_de: Raubtier, Zootier, Kuscheltier? Politiken des Tierbildes
 date_end: 1994-12-24T10:34:00.000Z
 published: false
 title: Photos with Lion Cubs
-updated: 1643132696055
+updated: 1643133666477
 id: 4U5dFDf18mKRPdRnzu35p
 doi: 64y2-m311/67
 translators:
@@ -359,7 +359,7 @@ Vielen mag das Fotomotiv bekannt sein: Mann, Frau oder Kind mit jungem Löwen au
  
 ## Kontaktzonen zwischen Tier und Mensch 
 
-Mit jungen Raubtieren wie Bären, Löwen oder Leoparden auf Tuchfühlung gehen – was heute an den Löwenbabyfotos irritieren mag, war lange Zeit sehr populär. Das Fotomotiv mit Löwenjungen jedenfalls lässt sich bis in die 1930er Jahre zurückverfolgen,[^1] worauf nicht zuletzt die Kleidung des kleinen Jungen und die Sepia-Tönung des Eingangsfotos aus dem Berliner Zoo hindeuten, das 1939 aufgenommen wurde. Schon damals wurde über das Bedürfnis berichtet, Tierjungen im Zoo möglichst nahezukommen. Löwen schienen dabei besonders attraktiv. “Der Wunsch, einen jungen Löwen auf den Arm nehmen und streicheln zu können, ist wohl einer der begehrtesten unserer Tierpark-Besucher”, heißt es etwa 1926 aus dem Stellinger Tierpark in Hamburg.[^2] Tatsächlich boten einige Zoos hierzu Gelegenheit. Der Berliner Zoologische Garten organisierte seit 1931 mehrere Sommer lang einen eigenen ‘Tierkinderzoo’. Auf einem eingezäunten Gelände konnten Besucher:innen nicht nur Schafe und Ziegen, sondern auch kleine Löwen- und Tigerbabys auf den Armen nehmen, streicheln und füttern. Andere Zoos zogen mit Sonderschauen und [[Streichelgehegen für Raubtierbabys|material.face-to-face-with-zoo-animals]] nach.
+Mit jungen Raubtieren wie Bären, Löwen oder Leoparden auf Tuchfühlung gehen – was heute an den Löwenbabyfotos irritieren mag, war lange Zeit sehr populär. Das Fotomotiv mit Löwenjungen jedenfalls lässt sich bis in die 1930er Jahre zurückverfolgen,[^1] worauf nicht zuletzt die Kleidung des kleinen Jungen und die Sepia-Tönung des Eingangsfotos aus dem Berliner Zoo hindeuten, das 1939 aufgenommen wurde. Schon damals wurde über das Bedürfnis berichtet, Tierjungen im Zoo möglichst nahezukommen. Löwen schienen dabei besonders attraktiv. “Der Wunsch, einen jungen Löwen auf den Arm nehmen und streicheln zu können, ist wohl einer der begehrtesten unserer Tierpark-Besucher”, heißt es etwa 1926 aus dem Stellinger Tierpark in Hamburg.[^2] Tatsächlich boten einige Zoos hierzu Gelegenheit. Der Berliner Zoologische Garten organisierte seit 1931 mehrere Sommer lang einen eigenen ‘Tierkinderzoo’. Auf einem eingezäunten Gelände konnten Besucher:innen nicht nur Schafe und Ziegen, sondern auch kleine Löwen- und Tigerbabys auf den Armen nehmen, streicheln und füttern. Andere Zoos zogen mit Sonderschauen und [[Streichelgehegen|material.face-to-face-with-zoo-animals]] für Raubtierbabys nach.
  
 <figure>
 
@@ -574,7 +574,7 @@ Inzwischen ist jedoch auch er aus dem Zoo verschwunden. Was bleibt, ist eine Sam
 
 <figcaption>
 
-_Undatiertes Foto eines Mädchens mit Löwenbaby des Fotografen im Westberliner Zoo_.
+_Undatiertes Foto eines Mädchens mit Löwenbaby des Fotografen im Westberliner Zoo (Privat. Alle Rechte vorbehalten.)_.
  
 </figcaption>
 
