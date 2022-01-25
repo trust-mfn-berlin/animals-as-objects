@@ -12,13 +12,12 @@ id: abaNOPQjQqMhfMbhbhvm4
 doi: 64y2-m311/73
 translators:
   translator_de_en: Lydia J. White
-desc: "The search for historical collection items is not always successful, but
-  still provides insights into the history of colonial collecting, historical
-  modes of cataloguing, and how to approach absent objects. "
-desc_de: "Die Suche nach historischen Sammlungsobjekten bleibt manchmal
-  erfolglos und gibt trotzdem Einblicke in die Geschichte kolonialen Sammelns,
-  in historische Katalogisierungsweisen und den Umgang mit abwesenden Objekten.
-  "
+desc: The search for historical collection items is often fruitless, yet it
+  provides insights into the history of colonial collecting, historical modes of
+  cataloguing, and the management of absent objects.
+desc_de: Die Suche nach historischen Sammlungsobjekten bleibt manchmal erfolglos
+  und gibt trotzdem Einblicke in die Geschichte kolonialen Sammelns, in
+  historische Katalogisierungsweisen und den Umgang mit abwesenden Objekten.
 short_desc: "Lost objects and old catalogues "
 cover_image:
   image: /images/katalog-herpetologie-ausschnitt.jpg
