@@ -1,25 +1,25 @@
 ---
-id: ZDxo1U9ptEVRJhmFpVKyC
-title: An ‘Atmospheric Image’ of the Empire
-desc: Displaying wild animals as colonial appropriation
-updated: 1643135386138
-created: 1640456876442
 license: CC BY-SA
-title_de: Ein ‘stimmungsvolles Bild’ des Kolonialreichs
+title_de: Die deutsch-koloniale Jagdausstellung
+created: 1640456876442
 author: Catarina Madruga
+short_desc_de: Die Zurschaustellung wilder Tiere als koloniale Aneignung
+date_end: ""
+published: false
+title: The German-Colonial Hunting Exhibition
+updated: 1643135386138
+id: ZDxo1U9ptEVRJhmFpVKyC
 doi: 64y2-m311/74
 translators:
   translator_en_de: Jan-Peter Herrmann
+desc: Displaying wild animals as colonial appropriation
 desc_de: Die Zurschaustellung wilder Tiere als koloniale Aneignung
 short_desc: Displaying wild animals as colonial appropriation
-short_desc_de: Die Zurschaustellung wilder Tiere als koloniale Aneignung
 cover_image:
   image: /images/an-evocative-image_1.jpg
 colour_scheme: 3
 tao_type: material
 date_start: 1903-01-01T19:37:39.000Z
-date_end: ''
-published: false
 ---
 
 :::EN:::
