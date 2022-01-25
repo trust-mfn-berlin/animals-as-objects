@@ -12,15 +12,13 @@ id: zrAZZTgVehO9zeVbW4dMX
 doi: 64y2-m311/30
 translators:
   translator_de_en: Carla Welch
-desc: |-
-  How do animals get from a zoo to a collection? It is not just a matter of
-  handing over an animal's body but involves myriad practices of record-keeping.
-  While these practices now mainly take place online, in the early 20th century
-  they still relied on piles of paper – on offer lists, inventories, price
-  lists, and invoices. These documents show us how zoo animals were transformed
-  into museum exhibits and what kind of value was ascribed to them.
-desc_de: |-
-  Wie kommen Tiere aus dem Zoo in eine Sammlung? Dazu gehört nicht nur
+desc: "How do animals move from zoo to collection? It is not just a matter of
+  transporting an animal's body but involves diverse practices of
+  record-keeping. While nowadays mostly done online, in the early 20th century
+  they still relied on piles of paper: offer lists, inventories, pricelists, and
+  invoices. These documents show how zoo animals were transformed into museum
+  exhibits and the kind of value ascribed to them."
+desc_de: Wie kommen Tiere aus dem Zoo in eine Sammlung? Dazu gehört nicht nur
   die Übergabe des Tierkörpers, sondern vielfältige Praktiken des Verzeichnens.
   Was heute weitgehend digital abläuft, war Anfang des 20. Jahrhunderts noch auf
   eine Menge Papier angewiesen – auf Angebotslisten, Inventare, Preislisten und
