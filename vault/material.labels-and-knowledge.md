@@ -72,13 +72,13 @@ They indicate that it was not just the odd animal being sent from the museum to 
 
 <figcaption>
 
-_Animal logistics on paper. The instructions on the labels reveal the paths that zoo animals took through a network of local institutions. (MfN, HBSB, S004-02-05 Nr. 96, Bl. 057 verso; MfN, HBSB, S004-02-05 Nr. 96, Bl. 140 recto. All rights reserved.)_
+_Animal logistics on paper. The instructions on the labels reveal the paths that zoo animals took through a network of local institutions. (MfN, HBSB, S004-02-05 Nr. 96, Bl. 057 verso; MfN, HBSB, S004-02-05 Nr. 96, Bl. 140 recto. All rights reserved.) For translation see footnote.[^1]_
 
 </figcaption>
 
 </figure>
 
-These notes, which were once mobile, also helped these different actors to make internal [[logistical arrangements|theme.logistical-metabolisms]] . They often provide instructions for further use – “With a request for examination and transfer to the Zoolog. Museum on Invalidenstraße”, says one, for example. **The first journey that an animal took after its death usually led from the zoo to the Pathological Institute at the Veterinary University (Tierärztliche Hochschule) of Berlin, where it was dissected in order to ascertain its cause of [[death|material.dead-animals]].[^1] After that, the Pathological Institute sent what remained of the carcass back to the zoo or forwarded it on at the zoo’s behest – to private taxidermists and preparators, or to scientific institutions such as the Anatomical Institute, the Zoological Institute of the Agricultural University, or the Zoological Museum at the university in Berlin.**[^2] This kind of information can be put together like the pieces of a puzzle to map out a local network of relationships. Even though gaps remain, the tags help to identify the important actors who were involved in the further utilisation or disposal of zoo animals in Berlin in the early twentieth century.
+These notes, which were once mobile, also helped these different actors to make internal [[logistical arrangements|theme.logistical-metabolisms]] . They often provide instructions for further use – “With a request for examination and transfer to the Zoolog. Museum on Invalidenstraße”, says one, for example. **The first journey that an animal took after its death usually led from the zoo to the Pathological Institute at the Veterinary University (Tierärztliche Hochschule) of Berlin, where it was dissected in order to ascertain its cause of [[death|material.dead-animals]].[^2] After that, the Pathological Institute sent what remained of the carcass back to the zoo or forwarded it on at the zoo’s behest – to private taxidermists and preparators, or to scientific institutions such as the Anatomical Institute, the Zoological Institute of the Agricultural University, or the Zoological Museum at the university in Berlin.**[^3] This kind of information can be put together like the pieces of a puzzle to map out a local network of relationships. Even though gaps remain, the tags help to identify the important actors who were involved in the further utilisation or disposal of zoo animals in Berlin in the early twentieth century.
 
 The back of a label could be used to convey information about the animal’s species, origin, and cause of death so that the museum could create a c[[record of the animal|story.keeping-records-of-animals]]. Abyssinia, Ceylon, and South America frequently appear. The notes therefore do not just make a local network visible, but also point back to the [[global trade|story.catching-animals]] in animals and animal catching, and names like Abyssinia and Ceylon make it clear that this was a colonial network.
 
@@ -90,7 +90,7 @@ Almost just as crucial as the information that appears on the labels is that whi
 
 <figcaption>
 
-_Knowledge thing: Label with detailed information about an animal delivery. (MfN, HBSB, S004-02-05 Nr. 96, Bl. 142 recto. All rights reserved.)_
+_Knowledge thing: Label with detailed information about an animal delivery. (MfN, HBSB, S004-02-05 Nr. 96, Bl. 142 recto. All rights reserved.)[^4]_
 
 </figcaption>
 
@@ -110,21 +110,21 @@ Entries were frequently left empty, or the information provided was very general
 
 <figcaption>
 
-_A knowledge thing with gaps: label with missing entries and general information about the animal delivery (MfN, HBSB, S004-02-05 Nr. 96, Bl. 024 recto; MfN, HBSB, S004-02-05 Nr. 96, Bl. 105 recto. All rights reserved.)_
+_A knowledge thing with gaps: label with missing entries and general information about the animal delivery (MfN, HBSB, S004-02-05 Nr. 96, Bl. 024 recto; MfN, HBSB, S004-02-05 Nr. 96, Bl. 105 recto. All rights reserved.)[^5]_
 
 </figcaption>
 
 </figure>
 
-These labels thus allow us to read not just the information that was sent to the museum but also the gaps in knowledge.[^3] These gaps point not least to the differences between [[zoos and museums|story.keeping-records-of-animals]] – the data collected by zoos was not necessarily as extensive or as precise as the data gathered by natural history collections. However, labels often provided additional instructions.
+These labels thus allow us to read not just the information that was sent to the museum but also the gaps in knowledge.[^6] These gaps point not least to the differences between [[zoos and museums|story.keeping-records-of-animals]] – the data collected by zoos was not necessarily as extensive or as precise as the data gathered by natural history collections. However, labels often provided additional instructions.
  
 <figure>
 
-![Punched paper card, yellowed and stained, with preprinted template and handwritten entries. Animal species: ___water rat. Origin: Berlin Zoo. Cause of death: no entry. Transferred to the museum. Bottom right: 25. Top left: illegible, 30.10.36.](/images/Etiketten-Pohle-S004-02-05-96-025-r.jpg)
+![Punched paper card, yellowed and stained, with preprinted template and handwritten entries. Animal species: ___water rat. Origin: Berlin Zoo. Cause of death: no entry. Please transfer hide and skull to museum. Bottom right: 25. Top left: illegible, 30.10.36.](/images/Etiketten-Pohle-S004-02-05-96-025-r.jpg)
 
 <figcaption>
 
-_Labels as directions for use: these instructions show which body parts of an animal became collection items after its death. (MfN, HBSB, S004-02-05 Nr. 96, Bl. 125 recto. All rights reserved.)_
+_Labels as directions for use: these instructions show which body parts of an animal became collection items after its death. (MfN, HBSB, S004-02-05 Nr. 96, Bl. 125 recto. All rights reserved.)[^7]_
 
 </figcaption>
 
@@ -132,18 +132,19 @@ _Labels as directions for use: these instructions show which body parts of an an
 
 Instructions like “Please transfer hide and skull to museum” provide clues about how objects were handled and what they were used for, i.e., about practices of use as they also appear in the [[logbooks of the Zoological Museum|material.logbooks-of-the-zoological-museum]], for instance. Here, too, there were delays, accidents, and misunderstandings. It is precisely incidents like these that tell us about the challenges that sometimes arose when an animal was being transferred from the zoo to the museum or being [[transformed|material.jendaya-parakeet]] from a live zoo animal into a museum specimen; about where knowledge was successfully transferred but also where information flows got bogged down.
  
-[^1]: After the founding of the Free University of Berlin in 1960, the Veterinary Medicine Faculty of the university and the Leibniz Institute for Zoo and Wildlife Research (IZW) took over the task of performing necropsies.
+[^1]: Translation, label on top: “Forward to museum / To: Pathological Institute of the Veterinary University Berlin”; label below: “Animal species: [illegible]. / Origin: South-America. / With request for examination and transfer to the Zoolog. Museum on Invalidenstraße.” 
 
-[^2]: Cf. MfN, HBSB, S004-02-05, no. 97.
+[^2]: After the founding of the Free University of Berlin in 1960, the Veterinary Medicine Faculty of the university and the Leibniz Institute for Zoo and Wildlife Research (IZW) took over the task of performing necropsies. 
 
-[^3]: Of course, it could be that this information was delivered in the accompanying item lists or in correspondence (see for example MfN, HBSB, S004-02-05, no. 97); however, the fact that detailed information is entered on some labels seems to suggest that it was not provided in other cases.
+[^3]: Cf. MfN, HBSB, S004-02-05, no. 97.
 
+[^4]: Translation: “Animal species: [illegible]. / Origin: Patagonia. / Cause of death: inflammation of the bowel.”
 
+[^5]: Tranlation, left: “Animal species: [illegible]. / Origin: From animal trade. / Cause of death: no entry”; right: “Animal species: [illegible]. / Origin: Ceylon. / Cause of death: no entry.”
 
+[^6]: Of course, it could be that this information was delivered in the accompanying item lists or in correspondence (see for example MfN, HBSB, S004-02-05, no. 97); however, the fact that detailed information is entered on some labels seems to suggest that it was not provided in other cases.
 
-
-
-
+[^7]: Translation: “Animal species: fresh water seal. / Origin: Berlin Zoo. / Cause of death: no entry. / Please transfer hide and skull to the museum.”
 
 
 

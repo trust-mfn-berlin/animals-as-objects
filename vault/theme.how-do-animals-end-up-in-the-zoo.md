@@ -158,7 +158,7 @@ _Title page of the studbook for the white rhinoceros kept at the Berlin Zoologic
 
 Today, the internet-based information system [[material.species360]] facilitates the work of studbook coordinators and has made printed studbooks largely obsolete.
 
-Especially in the case of endangered species, zoos engaging in an exchange must scrupulously observe the regulations of the Convention on International Trade in Endangered Species. Nevertheless, for the Tierpark und the Zoo Berlin, the exchange of animals between member institutions of the German Association of Zoological Gardens, as well as between European and worldwide zoo associations remains an important source of new animals.
+Especially in the case of endangered species, zoos engaging in an exchange must scrupulously observe the regulations of the Convention on International Trade in Endangered Species. Nevertheless, for the Tierpark and the Zoo Berlin, the exchange of animals between member institutions of the German Association of Zoological Gardens, as well as between European and worldwide zoo associations remains an important source of new animals.
 
 This practice of creating a “cross-institutional ‘metacollection’” also affects the institutions involved:
 

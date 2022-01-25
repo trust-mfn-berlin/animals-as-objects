@@ -62,7 +62,7 @@ In 1932, Lutz Heck became director of the Berlin Zoological Garden. He succeeded
 
 Lutz Heck soon also became personally acquainted with Hermann Göring, Prussian Prime Minister and Reich Minister of Aviation, and from 1934 also head of the Reich’s forestry ministry (Reichsforstmeister) and chief huntsman of the Reich (Reichsjägermeister).
 
-In January 1934, Göring presented his plans for the Schorfheide to a group of forestry officials. He wanted to establish a large nature reserve, where he also wished to hunt the largest land mammal in Europe.[^3] In order to make Göring’s plans a reality, Lutz Heck decided to increase the zoo’s population of wisents, or European bison, as quickly as possible. He aimed to do this by means of ‘upgrading’ – breeding with the wisent’s closest relative, the North American bison.[^4] In 1935, he undertook an expedition to Canada “on behalf of the Reichsforstmeister and Reichsjägermeister Hermann Göring, the German hunting community, and the zoo.”[^5] The trip’s purpose was, among other things, to procure bison to support his breeding efforts — for a closer look at the genealogy of breeding programmes see [[story.zoos-and-conservation]]. 
+In January 1934, Göring presented his plans for the Schorfheide to a group of forestry officials. He wanted to establish a large nature reserve, where he also wished to hunt the largest land mammal in Europe.[^3] In order to make Göring’s plans a reality, Lutz Heck decided to increase the zoo’s population of wisents, or European bison, as quickly as possible. He aimed to do this by means of ‘upgrading’ – breeding with the wisent’s closest relative, the North American bison.[^4] In 1935, he undertook an expedition to Canada “on behalf of the Reichsforstmeister and Reichsjägermeister Hermann Göring, the German hunting community, and the zoo.”[^5] The trip’s purpose was, among other things, to procure bison to support his breeding efforts – for a closer look at the genealogy of breeding programmes see [[story.zoos-and-conservation]]. 
 
 **Lutz Heck supported the regime in whatever way he could. His books and publications praised the Nazi state’s laws on game conservation.[^6]** At Heck’s instigation, Göring was appointed leader of the *Fachschaft Deutsche Bracken Olpe*, a club for breeders of hunting dogs[^7] – certainly a minor honor, but ideal for winning over Göring, who was an enthusiastic hunter. Lutz Heck also provided Göring with [[lion cubs|story.photos-with-lion-cubs]] to keep as pets, which Heck took back when the animals had grown out of the “petting age”.[^8]
 
@@ -104,7 +104,7 @@ As with many of Berlin’s large companies, the zoo’s workforce was also ‘Na
 
 <figcaption>
 
-_The zoo band, 1938. (AZGB, image: Springer. All rights reserved.)_
+_The zoo band with [[“Bobby”|story.bobby-tracking-body-parts2]] the gorilla’s face displayed on the band’s drum kit, 1938. (AZGB, image: Springer. All rights reserved.)_
 
 </figcaption>
 
@@ -443,7 +443,7 @@ Nachdem Adolf Hitler am 30. Januar 1933 zum Reichskanzler ernannt worden war, ve
 
 Schon bald machte Lutz Heck zudem auf privater Ebene mit dem preußischen Ministerpräsidenten und Reichsluftfahrtminister Hermann Göring Bekanntschaft, der ab 1934 auch “Reichsforstmeister” und “Reichsjägermeister” war.
 
-Göring hatte im Januar 1934 im Kreise einiger Forstbeamter seine Pläne für die Schorfheide vorgestellt. Hier wollte er ein großes Naturschutzgebiet einrichten, in dem er zugleich das größte Landsäugetier Europas jagen wollte.[^3] Lutz Heck entschied sich, mittels einer sogenannten ‘Verdrängungszucht’ mit dem nächsten Verwandten des Wisents, dem nordamerikanischen Bison, seine Herde aus dem Zoo möglichst schnell zu vermehren, um Görings Pläne Wirklichkeit werden zu lassen.[^4] 1935 unternahm er “im Auftrage des Reichsforst- und Reichsjägermeister\[s] Hermann Göring, der deutschen Jägerschaft und des Zoologischen Gartens” eine Expedition nach Kanada.[^5] Das Ziel war unter anderem die Beschaffung von Bisons, um die Wisentzucht zu stärken — eine Genealogie von Zuchtprogrammen in Zoos findet sich in [[story.zoos-and-conservation]].
+Göring hatte im Januar 1934 im Kreise einiger Forstbeamter seine Pläne für die Schorfheide vorgestellt. Hier wollte er ein großes Naturschutzgebiet einrichten, in dem er zugleich das größte Landsäugetier Europas jagen wollte.[^3] Lutz Heck entschied sich, mittels einer sogenannten ‘Verdrängungszucht’ mit dem nächsten Verwandten des Wisents, dem nordamerikanischen Bison, seine Herde aus dem Zoo möglichst schnell zu vermehren, um Görings Pläne Wirklichkeit werden zu lassen.[^4] 1935 unternahm er “im Auftrage des Reichsforst- und Reichsjägermeister\[s] Hermann Göring, der deutschen Jägerschaft und des Zoologischen Gartens” eine Expedition nach Kanada.[^5] Das Ziel war unter anderem die Beschaffung von Bisons, um die Wisentzucht zu stärken – eine Genealogie von Zuchtprogrammen in Zoos findet sich in [[story.zoos-and-conservation]].
 
 **Lutz Heck bot sich dem Regime in jeglicher Form an. Seine Bücher und Veröffentlichungen priesen die Gesetzesbeschlüsse des NS-Staates in Bezug auf den Wildschutz.[^6]** Göring wurde auf Hecks Betreiben zum Führer der Fachschaft Deutsche Bracken Olpe, eines Zuchtvereins für Jagdhunde, ernannt[^7] – sicherlich eine Randnotiz, aber dennoch geeignet, den passionierten Jäger Göring für sich einzunehmen. Zudem stellte Lutz Heck Göring [[junge Löwen|story.photos-with-lion-cubs]] als Haustiere zur Verfügung, die er zurücknahm, sobald sie dem ‘Streichelalter’ entwachsen waren.[^8]
 
@@ -485,7 +485,7 @@ Auch die Belegschaft des Zoos war wie die vieler Großbetriebe in Berlin binnen 
 
 <figcaption>
 
-_Die Zoo-Musikkapelle, 1938. (AZGB, Foto: Springer. Alle Rechte vorbehalten.)_
+_Die Zoo-Musikkapelle mit einer Darstellung von [[“Bobby”|story.bobby-tracking-body-parts2]] auf dem Schlagzeug, 1938. (AZGB, Foto: Springer. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
