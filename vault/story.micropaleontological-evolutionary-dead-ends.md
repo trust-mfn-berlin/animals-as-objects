@@ -1,12 +1,14 @@
 ---
 license: CC BY-SA
-title_de: " Entwicklungsgeschichtliche Sackgassen in der Mikropaläontologie"
+title_de: Mikropaläontologische Sackgassen
 created: 1621516485888
+author: Filippo Bertoni
 short_desc_de: Das Interesse an Mikrofossilien schien zu schwinden
-title: Micropaleontological Evolutionary Dead Ends
+date_end: 1921-12-31T11:00:00.000Z
+published: false
+title: Micropaleontological Dead Ends
 updated: 1643125963437
 id: 3494384f-3283-4c05-afda-b3d90e748325
-author: Filippo Bertoni
 doi: 64y2-m311/9
 translators:
   translator_en_de: ""
@@ -26,8 +28,6 @@ cover_image:
 colour_scheme: 9
 tao_type: story
 date_start: 1849-12-31T23:06:32.000Z
-date_end: 1921-12-31T11:00:00.000Z
-published: false
 ---
 
 :::EN:::
