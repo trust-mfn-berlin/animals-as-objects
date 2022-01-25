@@ -1,25 +1,25 @@
 ---
-license: CC BY-SA
-title_de: "Katzen-Kolonien "
+id: fhaeI85XK03VOoIUROfG9
+title: Cat Colonies
+desc: Audio stories about animals in Berlin
+updated: 1642420960202
 created: 1640359483672
+license: CC BY-SA
+title_de: 'Katzen-Kolonien '
 author: Anne Hoffmann
 short_desc_de: Audiogeschichten über Tiere in Berlin
-date_end: ""
+date_end: ''
 published: false
-title: Cat Colonies
-updated: 1642420960202
-id: fhaeI85XK03VOoIUROfG9
 doi: 64y2-m311/63
 translators:
   translator_de_en: Lydia J. White
-desc: Audio stories about animals in Berlin
 desc_de: Audiogeschichten über Tiere in Berlin
 short_desc: Audio stories about animals in Berlin
 cover_image:
   image: /images/tiertopografien-hoffmann.jpg
 colour_scheme: 11
 tao_type: material
-date_start: 2021-01-01T15:40:08.096Z
+date_start: '2021-01-01T15:40:08.096Z'
 ---
 
 :::EN:::
@@ -42,7 +42,7 @@ An audio piece from the project seminar “Animal Topographies” held at the In
 
 Animal topographies are site-specific explorations that view places where animals have played a special role in the past or present: spaces where animals are kept, and places that they have occupied. The audio stories that can be heard here started with theoretical and historical examinations of urban animal topographies and different forms of movement, tracing historical and current routes. The auditive hunt for clues leads through Berlin sites both known and unknown, where it explores relationships between humans and animals.
 
-Who knows where the wild cats live? Anne Hoffmann sets out on the [[trail|material.purchased-from-a-caravan]] of Berlin’s street cats and asks where they hide and gather, whom they [[belong to|theme.showing-animals]], and who they bother. She finds out that metropolitan habitats are becoming scarce – and not just for humans. Talks with staff at the Berlin Animal Shelter and a visit to a cat colony in Berlin-Pankow invite listeners to give more thought to how we want to [[coexist with others|theme.logistical-metabolisms]] in this city.[^1] 
+Who knows where the wild cats live? Anne Hoffmann sets out on the [[trail|material.purchased-from-a-caravan]] of Berlin’s street cats and asks where they hide and gather, whom they [[belong to|theme.putting-animals-on-display]], and who they bother. She finds out that metropolitan habitats are becoming scarce – and not just for humans. Talks with staff at the Berlin Animal Shelter and a visit to a cat colony in Berlin-Pankow invite listeners to give more thought to how we want to [[coexist with others|theme.logistical-metabolisms]] in this city.[^1] 
 
 Other audio pieces tell the stories of [[material.where-the-rats-live]], [[material.dead-animals]], [[material.berlin's-border-dogs]] und [[material.haunting-cattle]].
 
@@ -68,7 +68,7 @@ Ein Hörstück aus dem Projektseminar “Tier-Topografien” am Institut für Ku
 
 Tier-Topografien sind ortsspezifische Erkundungen: Perspektiven auf Orte, an denen Tiere eine besondere Rolle spielen, in der Geschichte oder in der Gegenwart. Räume, in denen sich Tiere aufhalten, an die sie gebracht werden, sowie solche, die sie einnehmen. Ausgangspunkt der hier zu hörenden Audiogeschichte ist eine theoretische und historische Auseinandersetzung mit urbanen Tier-Topografien und verschiedenen Formen der Bewegung entlang historischer Spuren und aktueller Wegstrecken. Die auditive Spurensuche führt an bekannte und unbekannte Orte in Berlin und erkundet an diesen die Beziehungen zwischen Menschen und Tieren.
 
-Wer weiß, wo die wilden Katzen wohnen? Anne Hoffmann begibt sich auf die [[Spuren|material.purchased-from-a-caravan]] von Berlins Straßenkatzen und fragt, wo sie sich verstecken und versammeln, wem sie [[gehören|theme.showing-animals]], wen sie stören. Dabei stellt sich heraus, dass der großstädtische Lebensraum nicht nur für uns Menschen knapp wird. Gespräche mit Mitarbeiter:innen des Tierschutzvereins Berlin und der Besuch einer Katzenkolonie in Berlin-Pankow laden ein, uns aufmerksamer damit zu beschäftigen, wie wir in dieser Stadt [[zusammenleben|theme.logistical-metabolisms]] wollen.[^1]
+Wer weiß, wo die wilden Katzen wohnen? Anne Hoffmann begibt sich auf die [[Spuren|material.purchased-from-a-caravan]] von Berlins Straßenkatzen und fragt, wo sie sich verstecken und versammeln, wem sie [[gehören|theme.putting-animals-on-display]], wen sie stören. Dabei stellt sich heraus, dass der großstädtische Lebensraum nicht nur für uns Menschen knapp wird. Gespräche mit Mitarbeiter:innen des Tierschutzvereins Berlin und der Besuch einer Katzenkolonie in Berlin-Pankow laden ein, uns aufmerksamer damit zu beschäftigen, wie wir in dieser Stadt [[zusammenleben|theme.logistical-metabolisms]] wollen.[^1]
 
 Weitere Hörstücke erzählen vom [[Ort der Ratten in Berlin|material.where-the-rats-live]], von [[toten Tieren|material.dead-animals]], [[Berliner Grenzhunden|material.berlin's-border-dogs]] und [[spukendem Vieh|material.haunting-cattle]].
 

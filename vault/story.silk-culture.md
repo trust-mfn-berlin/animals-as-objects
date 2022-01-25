@@ -1,23 +1,23 @@
 ---
-license: CC BY-SA
-title_de: Seiden-Cultur
-created: 1629996091814
-author: Britta Lange
-short_desc_de: Zur Geschichte des Seidenbaus in Preußen
-date_end: 1885-12-31T11:06:32.000Z
-published: false
-title: "Silk Culture "
-updated: 1643064616054
 id: isUsK2mnx8uIqaTJ60nYR
-doi: 64y2-m311/48
-translators:
-  translator_de_en: Lydia J. White
+title: 'Silk Culture '
 desc: |-
   The spread of white mulberry trees in 18th-century Brandenburg for the
   cultivation of silkworms was preceded by the import of seeds and silkworms to
   German provinces in the 17th century. How did they get to Prussia, what shape
   did silk production take, and what was it that ultimately led state-run silk
-  farming to dry up? 
+  farming to dry up?
+updated: 1643064616054
+created: 1629996091814
+license: CC BY-SA
+title_de: Seiden-Cultur
+author: Britta Lange
+short_desc_de: Zur Geschichte des Seidenbaus in Preußen
+date_end: 1885-12-31T11:06:32.000Z
+published: false
+doi: 64y2-m311/48
+translators:
+  translator_de_en: Lydia J. White
 desc_de: |-
   Der Verbreitung von weißen Maulbeerbäumen zur Seidenzucht im 18.
   Jahrhundert in Brandenburg ging der Import von Samen und Seidenraupen in
@@ -26,7 +26,8 @@ desc_de: |-
   Seidenbau schließlich zum Versiegen?
 short_desc: The history of silk farming in Prussia
 cover_image:
-  image: /images/cover-seide-maulbeerspinner-silk-silkworm-museum-naturkunde-natural-history-berlin.jpg
+  image: >-
+    /images/cover-seide-maulbeerspinner-silk-silkworm-museum-naturkunde-natural-history-berlin.jpg
   alt: |-
     Showcase with silkworms and silk in the Natural History Museum Berlin.
     Schaukasten mit Seidenraupen und Seide im Museum für Naturkunde Berlin.
@@ -85,7 +86,7 @@ _Display case from the Lepidoptera collection at the Berlin Museum für Naturkun
  
 </figure>
 
-Another display case of unidentifiable date at the Berlin Museum of Natural History bears the label “clothing”. Today it is preserved in the collection, but it is likely that it had once been arranged for an [[exhibition|theme.showing-animals]]. Its introductory sentence reads: “The silk moth _Bombyx mori_ provides a livelihood to millions of people in China and Japan”, pointing to the economic power of silk manufacturing and keeping silkworms as ‘working animals’ in manufactories, but also in private households. It may thus not come as a surprise that the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]] of Friedrich-Wilhelms-Universität (today’s Humboldt-Universität zu Berlin) holds a historic [[model of a silkworm|material.silkworm-in-papier-mache]]. The silk moth is given preference over other pupating butterfly species, as its silk thread can be wound off in one piece if humans have the required skill. Twisting off the individual threads creates an even yarn and therefore a smooth fabric, while other species of caterpillar produce shorter pieces of thread, producing an uneven thread from which ‘wild silk’ can be woven, which is of differing thicknesses.
+Another display case of unidentifiable date at the Berlin Museum of Natural History bears the label “clothing”. Today it is preserved in the collection, but it is likely that it had once been arranged for an [[exhibition|theme.putting-animals-on-display]]. Its introductory sentence reads: “The silk moth _Bombyx mori_ provides a livelihood to millions of people in China and Japan”, pointing to the economic power of silk manufacturing and keeping silkworms as ‘working animals’ in manufactories, but also in private households. It may thus not come as a surprise that the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]] of Friedrich-Wilhelms-Universität (today’s Humboldt-Universität zu Berlin) holds a historic [[model of a silkworm|material.silkworm-in-papier-mache]]. The silk moth is given preference over other pupating butterfly species, as its silk thread can be wound off in one piece if humans have the required skill. Twisting off the individual threads creates an even yarn and therefore a smooth fabric, while other species of caterpillar produce shorter pieces of thread, producing an uneven thread from which ‘wild silk’ can be woven, which is of differing thicknesses.
 
 **At a macro level, the idea behind ‘silk culture’ in Prussia was achieving self-sufficiency in raw materials. However, there were other questions and issues at play at the micro level.** Although keeping silkworms privately was occasionally lucrative, it was not pleasant, to which a number of sources attest, including letters written by horrified pastors and teachers to Frederick II.[^13] **Caring for the ravenous caterpillars was expensive and time-consuming**: numerous handbooks from the late 18th and 19th century explain in detail how silk rooms were furnished, frames built, leaves draped, the temperature monitored, and the approximately thumb-sized caterpillars cleaned of excrement. The animals were frequently plagued by disease, they stunk, and they often died prematurely, as Johann Wolfgang von Goethe, for instance, writes in _Truth and Poetry_ with respect to his father’s caterpillar breeding operation near Frankfurt am Main: “The corruption which ensued produced a smell really pestilential, and because the dead and diseased had to be taken away and separated from the healthy, the business was indeed extremely wearisome and repulsive \[…].”[^14]
 
@@ -184,7 +185,7 @@ _Schaukasten im Museum für Naturkunde Berlin, Sammlung Lepidoptera. (Foto: Brit
  
 </figure>
 
-Ein weiterer Schaukasten unklaren Herstellungsdatums im Museum für Naturkunde trägt die Beschriftung “Bekleidung”. Heute wird er in der Sammlung aufbewahrt, war jedoch früher wohl einmal für eine [[Ausstellung|theme.showing-animals]] arrangiert worden. Sein einleitender Satz lautet: “Der Maulbeerspinner _Bombyx mori_ ist in China und Japan die Existenzgrundlage von Millionen von Menschen”, und verweist dabei auf die Wirtschaftskraft der Seidenherstellung und die Haltung von Seidenraupen als [[Nutztiere|material.lions-or-cows]] in Manufakturen, aber auch in privaten Haushalten. Dabei wird der Maulbeerspinner, von dem auch ein [[Modell|material.silkworm-in-papier-mache]] in der [[Zoologischen Lehrsammlung|story.history-of-the-zoological-teaching-collection]] der Humboldt-Universität aufbewahrt wird, gegenüber anderen sich verpuppenden Schmetterlingsarten bevorzugt, da sein Seidenfaden bei entsprechender menschlicher Fertigkeit in einem Stück abgewickelt werden kann. Beim Verdrillen der einzelnen Fäden entsteht so ein gleichmäßiges Garn und damit ein glatter Stoff, während alle anderen Raupenarten kürzere Fadenstücke produzieren, so dass ein in der Dicke ungleichmäßiger Faden produziert wird, aus dem die so genannte Wildseide gewebt wird, die unterschiedliche Stärken aufweist.
+Ein weiterer Schaukasten unklaren Herstellungsdatums im Museum für Naturkunde trägt die Beschriftung “Bekleidung”. Heute wird er in der Sammlung aufbewahrt, war jedoch früher wohl einmal für eine [[Ausstellung|theme.putting-animals-on-display]] arrangiert worden. Sein einleitender Satz lautet: “Der Maulbeerspinner _Bombyx mori_ ist in China und Japan die Existenzgrundlage von Millionen von Menschen”, und verweist dabei auf die Wirtschaftskraft der Seidenherstellung und die Haltung von Seidenraupen als [[Nutztiere|material.lions-or-cows]] in Manufakturen, aber auch in privaten Haushalten. Dabei wird der Maulbeerspinner, von dem auch ein [[Modell|material.silkworm-in-papier-mache]] in der [[Zoologischen Lehrsammlung|story.history-of-the-zoological-teaching-collection]] der Humboldt-Universität aufbewahrt wird, gegenüber anderen sich verpuppenden Schmetterlingsarten bevorzugt, da sein Seidenfaden bei entsprechender menschlicher Fertigkeit in einem Stück abgewickelt werden kann. Beim Verdrillen der einzelnen Fäden entsteht so ein gleichmäßiges Garn und damit ein glatter Stoff, während alle anderen Raupenarten kürzere Fadenstücke produzieren, so dass ein in der Dicke ungleichmäßiger Faden produziert wird, aus dem die so genannte Wildseide gewebt wird, die unterschiedliche Stärken aufweist.
 
 **Die ‘Seiden-Cultur’ in Preußen zielte auf der Makroebene auf die Idee einer Rohstoffautarkie. Auf der Mikroebene stellen sich dagegen andere Fragen und Probleme.** Der Umgang mit den Seidenraupen im Privatbereich war zwar zeitweise lukrativ, jedoch nicht angenehm, wie eine Vielzahl von Quellen bezeugen, etwa die Briefe von empörten Pfarrern und Lehrern an Friedrich II.[^13] **Die Pflege der stetig fressenden Raupen war aufwendig**: Zahlreiche Handbücher aus dem späten 18. und 19. Jahrhundert erläutern detailreich, wie Seidenzimmer eingerichtet, Gestelle gebaut, Blätter drapiert, die Temperatur überwacht und die etwa daumengroßen Raupen von Kot gereinigt werden mussten. Die Tiere wurden häufig von Krankheiten heimgesucht, stanken und starben oft vorzeitig, wie etwa Johann Wolfgang von Goethe in _Dichtung und Wahrheit_ zur Raupenzucht seines Vaters in der Nähe von Frankfurt am Main schildert: “Die daraus entstehende Fäulnis erregte einen wirklich pestartigen Geruch, und da man die toten und kranken wegschaffen und von den gesunden absondern musste, um nur einige zu retten, so war es in der Tat ein äusserst beschwerliches und widerliches Geschäft \[…].”[^14]
 

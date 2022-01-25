@@ -1,21 +1,23 @@
 ---
-license: CC BY-SA
-title: Feeding Prohibited
-title_de: Füttern verboten
-created: 1620752897039
-updated: 1642854563736
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
-author: Mareike Vennen
-doi: 64y2-m311/26
-translators:
-  translator_de_en: ""
-copy_editors:
-  copy_editor_en: Carla Welch
-desc: Nowadays, zoos impose a divide between animals and humans that is mostly
+title: Feeding Prohibited
+desc: |-
+  Nowadays, zoos impose a divide between animals and humans that is mostly
   taken for granted, but it was long commonplace for visitors to have direct
   contact with the animals through feeding. How, when, and why did zoos
   introduce a general ban on feeding?
-desc_de: Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
+updated: 1642854563736
+created: 1620752897039
+license: CC BY-SA
+title_de: Füttern verboten
+author: Mareike Vennen
+doi: 64y2-m311/26
+translators:
+  translator_de_en: ''
+copy_editors:
+  copy_editor_en: Carla Welch
+desc_de: |-
+  Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
   selbstverständlich erscheint, war lange Zeit ein direkter Kontakt beim Füttern
   durch die Besucher:innen üblich. Wie, wann und weshalb führten Zoos ein
   Fütterungsverbot ein?
@@ -23,13 +25,14 @@ short_desc: New rules on proximity and distance
 short_desc_de: Neue Regeln zu Nähe und Distanz
 cover_image:
   image: /images/cover-do-not-feed-the-animals.jpg
-  alt: '"Do not feed the animals!" at the emu enclosure in the Berlin zoo, 1980.
+  alt: |-
+    "Do not feed the animals!" at the emu enclosure in the Berlin zoo, 1980.
     "Jedes Füttern unserer Tiere ist verboten!" am Emugehege im Berliner Zoo,
-    1980. Source: AZGB, photo Kühn. All rights reserved.'
+    1980. Source: AZGB, photo Kühn. All rights reserved.
 colour_scheme: 4
 tao_type: story
-date_start: 1958-12-31T23:00:00.000Z
-date_end: ""
+date_start: '1958-12-31T23:00:00.000Z'
+date_end: ''
 ---
 
 :::EN:::
@@ -210,7 +213,7 @@ When the general ban on feeding came into effect in 1960, the guidelines for the
 
 The zoo’s management and staff themselves at first also seemed torn. According to director Heinz-Georg Klös, a public zoo was “there for the animals and the people”, which meant that compromises had to be made. “If, for example, the animals are ‘barricaded’ too much behind glass, bars, and barriers, the visitor – apart from not being allowed to feed them – misses out on the hands-on experience, the contact.” At the same time, Klös wrote in a reply to a letter from a zoo visitor: “[W]e will gradually put our most valuable animals behind glass. This will prevent unauthorized feeding, as well as the transmission of any diseases from the visitors to the animals.”[^26] Should the visitors themselves be responsible for drawing boundaries, limiting contact, and creating distance or should this be achieved by means of equipment and architecture? 
 
-Although zoo directors had been discussing the issue for some time, at the 40th Conference of Central European Zoological Gardens in 1928, “[e]very discussion on the use of glass walls to separate the monkeys from the public” still failed to produce “a unanimous response”.[^27] With the gradual shift toward [[enclosure architecture|theme.showing-animals]] that prevented direct contact, animals and visitors were separated. The change reduced the contact with the animals to eye contact and put a definitive end to feeding by visitors.[^28] This proved beneficial to the health of many animals, as within a few years of introducing the general ban on feeding, the zoo’s medication and treatment requirements decreased noticeably.[^29] Glass panels separating visitors from the animals were already put to use in the ape house in the early 1960s – a practice that is now widespread.[^30] At the same time, food preparation in the feeding kitchens was made accessible: “Large windows allowed the public to see into the feeding kitchen and watch the keepers prepare the feed […].”[^31] When in the mid-1970s, following the renovations to the ape house, the monkey house was refurbished, there, too, the animals were separated from the public by glass panels instead of iron bars. This also allowed for a clearer view, and direct eye contact. The behavior of many animals began to normalise; they no longer begged for food when a human approached. Zoo directors reported that fewer animals suffered, or died, from digestive disorders.[^32] “It is a pleasure to observe the natural behavior and playfulness of the animals since the introduction of the feeding ban”,[^33] one anonymous visitor wrote in a letter to Berlin Zoo. There were many approving voices like this one. It is interesting to note that, due to the newly imposed distance, many of the visitors who wrote in identified the zoo as a natural environment, and no longer regarded the animals begging for food as natural behavior. This reveals just how much notions of the ‘natural’ have changed over the years.
+Although zoo directors had been discussing the issue for some time, at the 40th Conference of Central European Zoological Gardens in 1928, “[e]very discussion on the use of glass walls to separate the monkeys from the public” still failed to produce “a unanimous response”.[^27] With the gradual shift toward [[enclosure architecture|theme.putting-animals-on-display]] that prevented direct contact, animals and visitors were separated. The change reduced the contact with the animals to eye contact and put a definitive end to feeding by visitors.[^28] This proved beneficial to the health of many animals, as within a few years of introducing the general ban on feeding, the zoo’s medication and treatment requirements decreased noticeably.[^29] Glass panels separating visitors from the animals were already put to use in the ape house in the early 1960s – a practice that is now widespread.[^30] At the same time, food preparation in the feeding kitchens was made accessible: “Large windows allowed the public to see into the feeding kitchen and watch the keepers prepare the feed […].”[^31] When in the mid-1970s, following the renovations to the ape house, the monkey house was refurbished, there, too, the animals were separated from the public by glass panels instead of iron bars. This also allowed for a clearer view, and direct eye contact. The behavior of many animals began to normalise; they no longer begged for food when a human approached. Zoo directors reported that fewer animals suffered, or died, from digestive disorders.[^32] “It is a pleasure to observe the natural behavior and playfulness of the animals since the introduction of the feeding ban”,[^33] one anonymous visitor wrote in a letter to Berlin Zoo. There were many approving voices like this one. It is interesting to note that, due to the newly imposed distance, many of the visitors who wrote in identified the zoo as a natural environment, and no longer regarded the animals begging for food as natural behavior. This reveals just how much notions of the ‘natural’ have changed over the years.
 
 [^1]: Edwin Hennings. _Katalogirter Führer durch den Berliner Zoologischen Garten_, 6. Ed. Berlin: A. Seidel, 1873: 2. The Hamburg Zoo guide explicitly referred to the signs. Cf. Heinrich Bolau. _Führer durch den Zoologischen Garten zu Hamburg_, 29. Ed. Hamburg: Verlag der Zoologischen Gesellschaft Hamburg, 1879: n.p. Direct quotes have been translated into English for clarity’s sake.
 
@@ -456,7 +459,7 @@ Mit dem allgemeinen Fütterungsverbot von 1960 änderten sich auch die Richtlini
 
 Im Zoo selbst schienen Direktion und Mitarbeiter:innen zunächst ebenfalls hin- und hergerissen. Ein öffentlicher Zoo sei Direktor Heinz-Georg Klös zufolge “für die Tiere und die Menschen da”, weshalb man zu Kompromissen gezwungen sei. “Sind die Tiere z.B. allzusehr hinter Glas, Gitter und Absperrungen ‘verbarrikadiert’, fehlt dem Besucher – vom Füttern jetzt ganz abgesehen – das unmittelbare Erlebnis, der Kontakt.” Gleichzeitig schrieb Klös in seiner Antwort auf den Brief einer Zoobesucherin: “[W]ir werden nach und nach unsere wertvollsten Tiere hinter Glas halten. Dann kann unerlaubtes Füttern nicht mehr vorkommen noch den Tieren von Besuchern irgendwelche Seuchen übertragen werden.”[^26] Wird die Verantwortung den Menschen übertragen oder an Dinge delegiert, die Grenzen zu ziehen, Kontakte zu beschränken und Nähe zu verhindern?
 
-Unter Zoodirektor:innen wurde über das Thema schon länger beratschlagt. 1928 führte “[e]ine Diskussion über die Absperrung der Affen vom Publikum durch Glaswände” auf der 40. Konferenz mitteleuropäischer Zoologischer Gärten indes noch zu “keinem einheitlichen Ergebnis”.[^27] Mit der sukzessiven Umstellung der [[Gehege-Architekturen|theme.showing-animals]], die eine unmittelbare Berührung unterbanden, wurden Tiere und Besucher:innen getrennt. Die Umstellung reduzierte den Kontakt mit den Tieren auf den Blick und setzte dem Füttern durch die Besucher:innen endgültig ein Ende,[^28] was sich für viele Tiere als gesundheitsfördernd erwies, denn bereits wenige Jahre nach Einführung des generellen Fütterungsverbots sank der Medikamenten- und Behandlungsbedarf spürbar.[^29] Im Menschenaffenhaus kamen schon in den frühen 1960er Jahren trennende Glasscheiben zum Einsatz – eine Praxis, die heute weit verbreitet ist.[^30] Gleichzeitig wurde die Futterküche offengelegt: “Durch große Scheiben kann das Publikum in die Futterküche hineinsehen und die Tierpfleger bei der Zubereitung \[...] beobachten.”[^31] Mitte der 1970er Jahre, als nach dem Menschenaffenhaus das Affenhaus renoviert wurde, trennten auch dort Glasscheiben statt Eisengitter die Tiere vom Publikum, die zugleich eine freiere Sicht und unmittelbaren Blickkontakt ermöglichten. Das Verhalten vieler Tiere begann sich zu normalisieren; sie bettelten nicht mehr nach Futter, wenn sich ein Mensch näherte. Die Zoodirektor:innen berichteten davon, dass weniger Tiere an Verdauungsstörungen litten oder sogar daran eingingen.[^32] “Es ist eine Freude, die Tiere nach Einführung des Fütterungsverbotes in ihrer natürlichen Lebensweise und Verspieltheit zu beobachten”,[^33] hieß es in einer anonymen Zuschrift an den Berliner Zoo. Wie diese gab es viele positive Stimmen, die interessanterweise durch die neue Distanz den Zoo wieder als Ort des Natürlichen auswiesen und das Betteln der Tiere eben nicht mehr als natürliches Verhalten ansahen. Hier zeigt sich, wie sich Vorstellungen des “Natürlichen” historisch wandeln können.
+Unter Zoodirektor:innen wurde über das Thema schon länger beratschlagt. 1928 führte “[e]ine Diskussion über die Absperrung der Affen vom Publikum durch Glaswände” auf der 40. Konferenz mitteleuropäischer Zoologischer Gärten indes noch zu “keinem einheitlichen Ergebnis”.[^27] Mit der sukzessiven Umstellung der [[Gehege-Architekturen|theme.putting-animals-on-display]], die eine unmittelbare Berührung unterbanden, wurden Tiere und Besucher:innen getrennt. Die Umstellung reduzierte den Kontakt mit den Tieren auf den Blick und setzte dem Füttern durch die Besucher:innen endgültig ein Ende,[^28] was sich für viele Tiere als gesundheitsfördernd erwies, denn bereits wenige Jahre nach Einführung des generellen Fütterungsverbots sank der Medikamenten- und Behandlungsbedarf spürbar.[^29] Im Menschenaffenhaus kamen schon in den frühen 1960er Jahren trennende Glasscheiben zum Einsatz – eine Praxis, die heute weit verbreitet ist.[^30] Gleichzeitig wurde die Futterküche offengelegt: “Durch große Scheiben kann das Publikum in die Futterküche hineinsehen und die Tierpfleger bei der Zubereitung \[...] beobachten.”[^31] Mitte der 1970er Jahre, als nach dem Menschenaffenhaus das Affenhaus renoviert wurde, trennten auch dort Glasscheiben statt Eisengitter die Tiere vom Publikum, die zugleich eine freiere Sicht und unmittelbaren Blickkontakt ermöglichten. Das Verhalten vieler Tiere begann sich zu normalisieren; sie bettelten nicht mehr nach Futter, wenn sich ein Mensch näherte. Die Zoodirektor:innen berichteten davon, dass weniger Tiere an Verdauungsstörungen litten oder sogar daran eingingen.[^32] “Es ist eine Freude, die Tiere nach Einführung des Fütterungsverbotes in ihrer natürlichen Lebensweise und Verspieltheit zu beobachten”,[^33] hieß es in einer anonymen Zuschrift an den Berliner Zoo. Wie diese gab es viele positive Stimmen, die interessanterweise durch die neue Distanz den Zoo wieder als Ort des Natürlichen auswiesen und das Betteln der Tiere eben nicht mehr als natürliches Verhalten ansahen. Hier zeigt sich, wie sich Vorstellungen des “Natürlichen” historisch wandeln können.
 
 [^1]: Edwin Hennings. _Katalogirter Führer durch den Berliner Zoologischen Garten_, 6. Aufl. Berlin: A. Seidel, 1873: 2. Der Hamburger Zooführer wies auf die Tafeln explizit hin. Vgl. Bolau, Heinrich. _Führer durch den Zoologischen Garten zu Hamburg_, 29. Aufl. Hamburg: Verlag der Zoologischen Gesellschaft Hamburg, 1879: o.S.
 

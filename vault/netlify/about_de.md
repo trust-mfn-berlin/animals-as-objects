@@ -126,7 +126,7 @@ Wir möchten allen danken, die unsere Arbeit an dieser Publikation unterstützt 
 
 #### Am Museum für Naturkunde Berlin
 
-Technische und administrative Unterstützung: Saskia Cyron, Falko Glöckler, Sonja Kreft, Stefan Malinowski, Stefanie Paß, Mareike Petersen, Inna Reise, Holger Schick, Astrid Schröder, Caitlin Thorn, Markus Wegner
+Technische und administrative Unterstützung: Saskia Cyron, Erika Dalpiaz, Frauke Dornberg, Falko Glöckler, Sonja Kreft, Stefan Malinowski, Stefanie Paß, Mareike Petersen, Inna Reise, Holger Schick, Astrid Schröder, Caitlin Thorn, Markus Wegner
 
 Unterstützung bei Archivrecherchen: Yvonne Reimers, Sandra Miehlbradt
 

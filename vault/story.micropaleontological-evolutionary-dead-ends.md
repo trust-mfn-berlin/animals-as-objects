@@ -4,7 +4,7 @@ title_de: " Entwicklungsgeschichtliche Sackgassen in der Mikropaläontologie"
 created: 1621516485888
 short_desc_de: Das Interesse an Mikrofossilien schien zu schwinden
 title: Micropaleontological Evolutionary Dead Ends
-updated: 1642455812787
+updated: 1643125963437
 id: 3494384f-3283-4c05-afda-b3d90e748325
 author: Filippo Bertoni
 doi: 64y2-m311/9
@@ -60,13 +60,13 @@ Haeckel was charged with reporting on the radiolarians and Henry Bowman Brady[^9
 
 [^5]: See [[Origins of Micropaleontology|story.chaotic-origins-of-micropaleontology]] for more on these early works.
 
-[^6]: For a short biography of Carpenter and his relevance to micropaleontology, see “William Benjamin Carpenter, 1813-1885”. _Cushman Foundation for Foraminiferal Research_, no date. https://cushmanfoundation.org/PersonifyEbusiness/Resources/Gallery-%20of-Foraminiferal-Researchers (23.01.2022).
+[^6]: For a short biography of Carpenter and his relevance to micropaleontology, see “William Benjamin Carpenter, 1813-1885”. _Cushman Foundation for Foraminiferal Research_, no date. https://cushmanfoundation.org/PersonifyEbusiness/Resources/Gallery-of-Foraminiferal-Researchers  (23.01.2022).
 
 [^7]: On Haeckel’s career and life, see  Robert J. Richards. _The Tragic Sense of Life: Ernst Haeckel and the Struggle over Evolutionary Thought_. Chicago and London: University of Chicago Press, 2009.
 
 [^8]: This was one of the most celebrated oceanographic scientific explorations of the 19th century. See Ben Lerwill. “HMS Challenger: The Voyage that Birthed Oceanography”. _BBC Online_, 21.07.2020. https://www.bbc.com/travel/article/20200719-hms-challenger-the-voyage-that-birthed-oceanography (03.01.2022); Kate Golembiewski. “H.M.S. Challenger: Humanity’s First Real Glimpse of the Deep Oceans”. _Discover Magazine_, 20.04.2019. https://www.discovermagazine.com/planet-earth/hms-challenger-humanitys-first-real-glimpse-of-the-deep-oceans (03.01.2022). For a more in-depth history, see Helen M. Rozwadowski. _Fathoming the Ocean: The Discovery and Exploration of the Deep Sea_. Cambridge: Harvard University Press, 2005.
 
-[^9]: For a biography of Brady, see C.G. Adams. “Henry Bowman Brady, 1835-1891”. _Cushman Foundation for Foraminiferal Research_, no date. https://cushmanfoundation.org/PersonifyEbusiness/Resources/Gallery-%20of-Foraminiferal-Researchers (23.01.2022). 
+[^9]: For a biography of Brady, see C.G. Adams. “Henry Bowman Brady, 1835-1891”. _Cushman Foundation for Foraminiferal Research_, no date. https://cushmanfoundation.org/PersonifyEbusiness/Resources/Gallery-of-Foraminiferal-Researchers (23.01.2022). 
 
 
 :::DE:::
@@ -100,10 +100,10 @@ Haeckel wurde mit dem Bericht über die Radiolarien und Henry Bowman Brady mit d
 
 [^5]: Mehr zu früher Forschung siehe [[Anfänge der Mikropaläontologie|story.chaotic-origins-of-micropaleontology]].
 
-[^6]: Mehr zu Carpenter und seiner Relevanz für die Mikropaläontologie: “William Benjamin Carpenter, 1813-1885”. _Cushman Foundation for Foraminiferal Research_, ohne Datum. https://cushmanfoundation.org/PersonifyEbusiness/Resources/Gallery-%20of-Foraminiferal-Researchers (23.01.2022). 
+[^6]: Mehr zu Carpenter und seiner Relevanz für die Mikropaläontologie: “William Benjamin Carpenter, 1813-1885”. _Cushman Foundation for Foraminiferal Research_, ohne Datum. https://cushmanfoundation.org/PersonifyEbusiness/Resources/Gallery-of-Foraminiferal-Researchers (23.01.2022). 
 
 [^7]: Zu Haeckels Karriere und Leben, siehe Robert J. Richards. _The Tragic Sense of Life: Ernst Haeckel and the Struggle over Evolutionary Thought_. Chicago und London: University of Chicago Press, 2009.
 
 [^8]: Hierbei handelte es sich um eine der berühmtesten ozeanographischen Forschungsexpeditionen im 19. Jahrhundert. Siehe Ben Lerwill. “HMS Challenger: The voyage that Birthed Oceanography”. _BBC Online_, 21.07.2020. https://www.bbc.com/travel/article/20200719-hms-challenger-the-voyage-that-birthed-oceanography (03.01.2022); Kate Golembiewski. “H.M.S. Challenger: Humanity’s First Real Glimpse of the Deep Oceans”. _Discover Magazine_, 20.04.2019. https://www.discovermagazine.com/planet-earth/hms-challenger-humanitys-first-real-glimpse-of-the-deep-oceans (03.01.2022). Mehr dazu in Helen M. Rozwadowski. _Fathoming the Ocean: The Discovery and Exploration of the Deep Sea_. Cambridge: Harvard University Press, 2005.
 
-[^9]: Für biografische Angaben zu Brady siehe C.G. Adams. “Henry Bowman Brady, 1835–1891”. _Cushman Foundation for Foraminiferal Research_, ohne Datum. https://https://cushmanfoundation.org/PersonifyEbusiness/Resources/Gallery-%20of-Foraminiferal-Researchers (23.01.2022).
+[^9]: Für biografische Angaben zu Brady siehe C.G. Adams. “Henry Bowman Brady, 1835–1891”. _Cushman Foundation for Foraminiferal Research_, ohne Datum. https://cushmanfoundation.org/PersonifyEbusiness/Resources/Gallery-of-Foraminiferal-Researchers (23.01.2022).

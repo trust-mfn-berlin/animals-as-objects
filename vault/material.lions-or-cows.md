@@ -1,21 +1,23 @@
 ---
+id: 9mH5N7vuPc8pcrpIzElb1
+title: Lions or Cows?
+desc: |-
+  When we think of zoos, we think of elephants, lions, and giraffes. But
+  livestock is just as important to the history of zoological gardens, as the
+  example of Berlin Zoo around 1900 reveals.
+updated: 1642611699450
+created: 1640356599113
 license: CC BY-SA
 title_de: Löwen oder Kühe?
-created: 1640356599113
 author: Mareike Vennen
 short_desc_de: Nutztiere im Zoo
-date_end: ""
+date_end: ''
 published: false
-title: Lions or Cows?
-updated: 1642611699450
-id: 9mH5N7vuPc8pcrpIzElb1
 doi: 64y2-m311/55
 translators:
   translator_de_en: Lydia J. White
-desc: When we think of zoos, we think of elephants, lions, and giraffes. But
-  livestock is just as important to the history of zoological gardens, as the
-  example of Berlin Zoo around 1900 reveals.
-desc_de: Wer an Zoos denkt, denkt an Elefanten, Löwen oder Giraffen. Doch sind
+desc_de: |-
+  Wer an Zoos denkt, denkt an Elefanten, Löwen oder Giraffen. Doch sind
   für die Geschichte zoologischer Gärten ebenso Nutztiere wichtig, wie das
   Beispiel des Berliner Zoos in der Zeit um 1900 zeigt.
 short_desc: Domestic animals at the zoo
@@ -23,7 +25,7 @@ cover_image:
   image: /images/aktendeckel-landwirtschaftlicher-tierpark.jpg
 colour_scheme: 14
 tao_type: material
-date_start: ""
+date_start: ''
 ---
 
 :::EN:::
@@ -41,7 +43,7 @@ _File on the establishment of an agricultural zoo in the archive of Berlin Zoolo
 
 </figure>
 
-In 1900, a good 50 years after the opening of the Zoological Garden in Berlin, zoo director Ludwig Heck negotiated with the Royal Ministry of Agriculture, Domains, and Forests the establishment of a section at the zoo where agricultural and veterinary work could be carried out.[^1] It was about getting approval for a [[state feed subsidy|story.feeding-and-overfeeding]] for keeping and acquiring agriculturally significant livestock at the zoo to meet the teaching and studying needs of the [[Agricultural University|story.silk-culture]] and the Veterinary University. The plan was to set up “a collection of modern livestock breeds, specifically cattle and sheep, as well as the odd pig and horse and fowl”,[^2] which the two universities would select and house at the zoo. The idea to keep and display livestock at the zoo was nothing new. In fact, it went back to the beginnings of the Berlin Zoological Garden. In 1840, founding director Martin Hinrich Lichtenstein wrote a memorandum persuading the Prussian King Friedrich Wilhelm IV to decree the establishment of a zoo near Berlin. In this memorandum, which was presented to the king by Alexander von Humboldt, Lichtenstein argued that establishing a zoological garden would not just serve [[amusement|theme.showing-animals]] and education purposes, but that “the actual task of facilities like this \[would be] breeding and proliferating beautiful and useful animals, \[and] refining our domestic animals”.[^3] He thus elevated the breeding of livestock and the associated “promotion of agricultural operations” to some of the core tasks of the zoo that was to be founded.[^4]
+In 1900, a good 50 years after the opening of the Zoological Garden in Berlin, zoo director Ludwig Heck negotiated with the Royal Ministry of Agriculture, Domains, and Forests the establishment of a section at the zoo where agricultural and veterinary work could be carried out.[^1] It was about getting approval for a [[state feed subsidy|story.feeding-and-overfeeding]] for keeping and acquiring agriculturally significant livestock at the zoo to meet the teaching and studying needs of the [[Agricultural University|story.silk-culture]] and the Veterinary University. The plan was to set up “a collection of modern livestock breeds, specifically cattle and sheep, as well as the odd pig and horse and fowl”,[^2] which the two universities would select and house at the zoo. The idea to keep and display livestock at the zoo was nothing new. In fact, it went back to the beginnings of the Berlin Zoological Garden. In 1840, founding director Martin Hinrich Lichtenstein wrote a memorandum persuading the Prussian King Friedrich Wilhelm IV to decree the establishment of a zoo near Berlin. In this memorandum, which was presented to the king by Alexander von Humboldt, Lichtenstein argued that establishing a zoological garden would not just serve [[amusement|theme.putting-animals-on-display]] and education purposes, but that “the actual task of facilities like this \[would be] breeding and proliferating beautiful and useful animals, \[and] refining our domestic animals”.[^3] He thus elevated the breeding of livestock and the associated “promotion of agricultural operations” to some of the core tasks of the zoo that was to be founded.[^4]
 
 This was at the heart of matters in 1900 as well, but now with the direct involvement of the universities. The “Agricultural Zoo” at the Berlin Zoological Garden would provide university lecturers and their students with material that they could use for demonstrations in “zoological and animal breeding lessons” as well as with material for breeding, cross-breeding, and feeding experiments. The plan also highlights the network of institutions that worked with live and dead animals, and knowledge about them, at the time. Berlin’s Royal Agricultural University had been founded in 1881 and was housed in a building complex on Invalidenstraße, the same street as the new building into which the Museum of Natural History would move just a few years later. On the other hand, the Veterinary University, which had been around since 1787 as the Veterinarian School, had been founded in 1889. It included a [[Veterinary Anatomy Theatre|material.where-the-rats-live]] for performing public dissections in front of students as well as stabling and, later, a horse hospital. The university had initially been founded to battle the cattle plague that was jeopardising cattle stocks, while the establishment of the Prussion cavalry had turned veterinary knowledge into a military relevant resource. The zoo played a role in the planned collaboration as another place for keeping animals in the city.
 
@@ -77,7 +79,7 @@ _Akte zur Anlegung eines landwirtschaftlichen Tierparks im Archiv des Zoologisch
 
 </figure>
 
-Im Jahr 1900, gut 50 Jahre nach Eröffnung des Zoologischen Gartens in Berlin, verhandelte Zoodirektor Ludwig Heck mit dem Königlichen Ministerium für Landwirtschaft, Domänen und Forsten über einen landwirtschaftlich und tierärztlich relevanten Arbeitsbereich des Zoos.[^1] Es ging um die Bewilligung eines Staatsbeitrages zu den [[Futterkosten|story.feeding-and-overfeeding]] für die Haltung und Anschaffung landwirtschaftlich wichtiger Nutztiere im Zoo zu Unterrichts- und Studienzwecken der [[Landwirtschaftlichen Hochschule|story.silk-culture]] und der Tierärztlichen Hochschule. Der Plan war “eine Collection moderner Hausthierrassen, speziell Rindvieh und Schafe sowie vereinzelte Schweine und Pferde und Geflügel”,[^2] die die beiden Hochschulen auswählen und im Zoo unterbringen sollten. Die Idee, Nutztiere im Zoo zu halten, zu züchten und auszustellen, war nicht neu. Sie geht vielmehr bis in die Anfangszeit des Berliner zoologischen Gartens zurück. Gründungsdirektor Martin Hinrich Lichtenstein verfasste 1840 eine Denkschrift, die den preußischen König Friedrich Wilhelm IV. überzeugte, die Anlage eines Zoos bei Berlin anzuordnen. In dieser von Alexander von Humboldt dem König vorgelegten Schrift argumentierte Lichtenstein, dass der anzulegende Garten nicht nur der [[Belustigung|theme.showing-animals]] und Bildung dienen sollte, sondern “die eigentliche Aufgabe solcher Anstalten […] die Vermehrung und Verbreitung schöner und nützlicher Tiere, die Veredlung unserer Haustiere” sein würde.[^3] Damit erhob er die Zucht von Nutztieren und die damit verbundene “Beförderung landwirtschaftlicher Betriebe” zu den Kernaufgaben des zu gründenden Zoos.[^4]
+Im Jahr 1900, gut 50 Jahre nach Eröffnung des Zoologischen Gartens in Berlin, verhandelte Zoodirektor Ludwig Heck mit dem Königlichen Ministerium für Landwirtschaft, Domänen und Forsten über einen landwirtschaftlich und tierärztlich relevanten Arbeitsbereich des Zoos.[^1] Es ging um die Bewilligung eines Staatsbeitrages zu den [[Futterkosten|story.feeding-and-overfeeding]] für die Haltung und Anschaffung landwirtschaftlich wichtiger Nutztiere im Zoo zu Unterrichts- und Studienzwecken der [[Landwirtschaftlichen Hochschule|story.silk-culture]] und der Tierärztlichen Hochschule. Der Plan war “eine Collection moderner Hausthierrassen, speziell Rindvieh und Schafe sowie vereinzelte Schweine und Pferde und Geflügel”,[^2] die die beiden Hochschulen auswählen und im Zoo unterbringen sollten. Die Idee, Nutztiere im Zoo zu halten, zu züchten und auszustellen, war nicht neu. Sie geht vielmehr bis in die Anfangszeit des Berliner zoologischen Gartens zurück. Gründungsdirektor Martin Hinrich Lichtenstein verfasste 1840 eine Denkschrift, die den preußischen König Friedrich Wilhelm IV. überzeugte, die Anlage eines Zoos bei Berlin anzuordnen. In dieser von Alexander von Humboldt dem König vorgelegten Schrift argumentierte Lichtenstein, dass der anzulegende Garten nicht nur der [[Belustigung|theme.putting-animals-on-display]] und Bildung dienen sollte, sondern “die eigentliche Aufgabe solcher Anstalten […] die Vermehrung und Verbreitung schöner und nützlicher Tiere, die Veredlung unserer Haustiere” sein würde.[^3] Damit erhob er die Zucht von Nutztieren und die damit verbundene “Beförderung landwirtschaftlicher Betriebe” zu den Kernaufgaben des zu gründenden Zoos.[^4]
 
 Darum ging es auch im Jahr 1900. Hinzu kam nun eine direkte Zusammenarbeit mit den Hochschulen. Der sogenannte “Landwirtschaftliche Tierpark” im Zoo sollte den Hochschullehrer:innen und ihren Studierenden als Anschauungsmaterial des “zoologischen und tierzüchterischen Unterrichts” und als Material für Züchtungs-, Kreuzungs- und Fütterungsversuche dienen. Der Plan macht das Netzwerk von Institutionen deutlich, das damals in Berlin mit lebenden und toten Tieren und dem Wissen über sie befasst war. Die Königlich Landwirtschaftliche Hochschule Berlin bestand seit 1881 und war in einem Gebäudekomplex in der Invalidenstraße untergebracht, wo wenige Jahre später auch das Naturkundemuseum ein neues Gebäude bezog. Die Tierärztliche Hochschule wiederum, 1787 als Tierarzneischule gegründet, bestand seit 1889 mit [[Tieranatomischem Theater|material.where-the-rats-live]] zu Zwecken der Schausektion vor Studierenden, Stallungen und später einer Pferdeklinik. Die Hochschule war unter anderem gegründet worden, weil die Rinderpest immer wieder die Viehbestände bedrohte, während zugleich der Aufbau der preußischen Kavallerie tiermedizinisches Wissen zur militärisch relevanten Ressource machte. Der Zoo spielte in der geplanten Kooperation als weiterer Ort der Tierhaltung in der Stadt eine Rolle.
 

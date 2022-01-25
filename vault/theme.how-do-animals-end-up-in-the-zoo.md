@@ -1,32 +1,35 @@
 ---
-license: CC BY-SA
-title: How Do Animals End Up in the Zoo?
-title_de: Wie kommen Tiere in den Zoo?
-created: 1618498026144
-updated: 1642854700884
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
-author: Clemens Maier-Wolthausen
-doi: 64y2-m311/14
-translators:
-  translator_de_en: ""
-copy_editors:
-  copy_editor_en: Carla Welch
-desc: Live animals for the Berlin Zoological Garden, Aquarium, and Tierpark
+title: How Do Animals End Up in the Zoo?
+desc: |-
+  Live animals for the Berlin Zoological Garden, Aquarium, and Tierpark
   collections have always come from a variety of sources. They have their own
   histories, and present political, logistical, and moral challenges for these
   institutions.
-desc_de: Lebende Tiere für die Sammlungen des Zoologischen Gartens, des
+updated: 1642854700884
+created: 1618498026144
+license: CC BY-SA
+title_de: Wie kommen Tiere in den Zoo?
+author: Clemens Maier-Wolthausen
+doi: 64y2-m311/14
+translators:
+  translator_de_en: ''
+copy_editors:
+  copy_editor_en: Carla Welch
+desc_de: |-
+  Lebende Tiere für die Sammlungen des Zoologischen Gartens, des
   Aquariums und des Tierparks Berlin kamen und kommen aus unterschiedlichen
   Quellen. Diese haben ihre eigene Geschichte und kreieren unterschiedliche
   Herausforderungen für diese Einrichtungen - politische, logistische und
   moralische.
-short_desc: Political, logistical, and moral challenges
-short_desc_de: Politische, logistische und moralische Herausforderungen
+short_desc: 'Political, logistical, and moral challenges'
+short_desc_de: 'Politische, logistische und moralische Herausforderungen'
 cover_image:
   image: /images/cover-getting-animals.jpg
-  alt: 'Hippos "Knautschke", "Jette", and "Bulette" in the Berlin Zoo, around
+  alt: |-
+    Hippos "Knautschke", "Jette", and "Bulette" in the Berlin Zoo, around
     1959. Flusspferde "Knautschke", "Jette" und "Bulette" im Berliner Zoo, um
-    1959. Source: AZGB, photo Hoppe. All rights reserved.'
+    1959. Source: AZGB, photo Hoppe. All rights reserved.
 colour_scheme: 8
 tao_type: theme
 date_start: 1844-01-01T23:50:39.000Z
@@ -184,7 +187,7 @@ The different sources of the animals determine the various acquisition strategie
 
 A glance into the history not only of the Berlin zoos shows that these strategies were and are taken into account, but that a significant portion of the efforts made to acquire animals has often been related to the fact that they are unique and new, or that they are expected to attract great interest from the public. **Classic examples of the latter are pandas and animals attractive to the public, such as [[great apes|material.the-gorilla-beast]], elephants, and predators (especially big cats). Animals perceived by visitors as [[cute|story.photos-with-lion-cubs]] or out of the ordinary, such as penguins and meerkats, or giraffes and tapirs also feature.**
 
-Their attraction is based on the fact that they resemble us, are enormous, dangerous, or cute, stand upright, or have special features.[^14] More on these so-called show animals (Schauwerttiere) in [[theme.showing-animals]].
+Their attraction is based on the fact that they resemble us, are enormous, dangerous, or cute, stand upright, or have special features.[^14] More on these so-called show animals (Schauwerttiere) in [[theme.putting-animals-on-display]].
 
 Ultimately, it seems that over the course of their existence, zoos – including the Berlin Zoo, its Aquarium, and the Tierpark – have been, for the most part, pragmatic in regard to the supply sources of the species and individual animals they keep. Animals have been obtained [[from all available sources|material.lions-or-cows]]. **Being in possession of many animals and making these accessible to visitors has been a primary goal.**
 
@@ -380,7 +383,7 @@ Mit den unterschiedlichen Bezugsquellen von Tieren hingen und hängen jeweils un
 
 Ein Blick auf die Geschichte nicht nur der Berliner Tiergärten zeigt, dass diese Strategien zwar vorhanden waren oder sind, ein wesentlicher Anteil der Bemühungen um Tiere aber oft damit zusammenhing, dass diese einzigartig und neu waren oder aber großes Interesse seitens der Besucher:innen erwarten ließen. **Klassische Beispiele für letzteres sind Pandas oder für das Publikum attraktive Tiere wie [[Menschenaffen|material.the-gorilla-beast]], Elefanten, Raubtiere (insbesondere Raubkatzen). Auch von den Besucher:innen als [[niedlich|story.photos-with-lion-cubs]] oder außergewöhnlich wahrgenommene Tiere wie Pinguine oder Erdmännchen, Giraffen oder Tapire spielen eine Rolle.**
 
-Die Anziehungskraft beliebter Zootiere beruht darauf, dass sie uns ähnlich, riesig, gefährlich oder süß sind, aufrecht stehen oder besondere Merkmale aufweisen.[^14] Mehr zu diesen sogenannten Schauwerttieren auch in [[theme.showing-animals]].
+Die Anziehungskraft beliebter Zootiere beruht darauf, dass sie uns ähnlich, riesig, gefährlich oder süß sind, aufrecht stehen oder besondere Merkmale aufweisen.[^14] Mehr zu diesen sogenannten Schauwerttieren auch in [[theme.putting-animals-on-display]].
 
 Letztlich scheint es, als seien Zoos – darunter auch der Berliner Zoo, sein Aquarium und der Tierpark – was die Bezugsquellen ihrer gehaltenen Tierarten, aber auch einzelner Tiere angeht, lange Zeit ihres Bestehens vor allem pragmatisch gewesen. Tiere wurden [[aus allen erhältlichen Quellen|material.lions-or-cows]] bezogen. **Viele Tiere zu besitzen und diese den Besucher:innen zugänglich zu machen war ein wesentliches Ziel.**
 
