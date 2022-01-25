@@ -132,7 +132,7 @@ _Labels as directions for use: these instructions show which body parts of an an
 
 Instructions like “Please transfer hide and skull to museum” provide clues about how objects were handled and what they were used for, i.e., about practices of use as they also appear in the [[logbooks of the Zoological Museum|material.logbooks-of-the-zoological-museum]], for instance. Here, too, there were delays, accidents, and misunderstandings. It is precisely incidents like these that tell us about the challenges that sometimes arose when an animal was being transferred from the zoo to the museum or being [[transformed|material.jendaya-parakeet]] from a live zoo animal into a museum specimen; about where knowledge was successfully transferred but also where information flows got bogged down.
  
-[^1]: Translation, label on top: “Forward to museum / To: Pathological Institute of the Veterinary University Berlin”; label below: “Animal species: [illegible]. / Origin: South-America. / With a request for examination and transfer to the Zoolog. Museum on Invalidenstraße.” 
+[^1]: Translation, label on top: “Forward to museum / To: Pathological Institute of the Veterinary University Berlin”; label below: “Animal species: [illegible]. / Origin: South-America. / With request for examination and transfer to the Zoolog. Museum on Invalidenstraße.” 
 
 [^2]: After the founding of the Free University of Berlin in 1960, the Veterinary Medicine Faculty of the university and the Leibniz Institute for Zoo and Wildlife Research (IZW) took over the task of performing necropsies. 
 
