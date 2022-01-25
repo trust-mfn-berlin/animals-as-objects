@@ -125,11 +125,11 @@ We would like to thank all who supported our work on this publication.
 
 #### At Museum für Naturkunde Berlin
 
-Technical and administrative support: Saskia Cyron, Falko Glöckler, Sonja Kreft, Stefan Malinowski, Stefanie Paß, Mareike Petersen, Inna Reise, Holger Schick, Astrid Schröder, Caitlin Thorn, Markus Wegner
+Technical and administrative support: Saskia Cyron, Erika Dalpiaz, Frauke Dornberg, Falko Glöckler, Sonja Kreft, Stefan Malinowski, Stefanie Paß, Mareike Petersen, Inna Reise, Holger Schick, Astrid Schröder, Caitlin Thorn, Markus Wegner
 
 Research support in the Historical Image and Document Collections: Sandra Miehlbradt, Yvonne Reimers 
 
-Research support in the collections: Oliver Coleman, Erika Dalpiaz, Ferdinand Damaschun, Frauke Dornberg, Jason Dunlop, Pascal Eckhoff, Sylke Frahnert, Christiane Funk, David Lazarus, Frieder Mayer, Johan Renaudie, Thomas von Rintelen, Christin Scheinpflug, Katrin Spitzer, Frank Tillack, Christine Zorn 
+Research support in the collections: Oliver Coleman, Ferdinand Damaschun, Jason Dunlop, Pascal Eckhoff, Sylke Frahnert, Christiane Funk, David Lazarus, Frieder Mayer, Johan Renaudie, Thomas von Rintelen, Christin Scheinpflug, Katrin Spitzer, Frank Tillack, Christine Zorn 
 
 #### At Zoologischer Garten Berlin
 
