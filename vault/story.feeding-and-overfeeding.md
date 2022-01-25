@@ -14,16 +14,16 @@ translators:
   translator_de_en: ""
 copy_editors:
   copy_editor_en: Carla Welch
-desc: When an elephant died at Berlin Zoo in 1960, the diagnosis was death from
-  overfeeding by zoo visitors. This triggered a controversial debate about the
-  proper feeding of zoo animals — a question that goes back to the founding of
-  zoological gardens in the 19th century. Who is allowed to feed the animals,
-  what should they be fed, and how much of it?
+desc: When an elephant died at Berlin Zoo in 1960, the cause of death was
+  recorded as “overfeeding by zoo visitors”. This triggered a controversial
+  debate about the proper feeding of zoo animals – a question that goes back to
+  the founding of zoological gardens in the 19th century. Who is allowed to feed
+  the animals, what should they be fed, and how much of it?
 desc_de: "Als 1960 im Berliner Zoo ein Elefant starb, lautete die Diagnose:
   Überfütterung durch Zoobesucher:innen. Das löste eine kontroverse Debatte um
   die richtige Ernährung von Zootieren aus – eine Frage, die bis zu den Anfängen
   zoologischer Gärten im 19. Jahrhundert zurückreicht. Wer darf füttern und vor
-  allem was und wieviel?"
+  allem, was und wieviel?"
 short_desc: Who (over)feeds zoo animals?
 cover_image:
   image: /images/cover-overfeeding-newspaper-taegliche-rundschau.jpg
