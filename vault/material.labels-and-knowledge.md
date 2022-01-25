@@ -72,7 +72,7 @@ They indicate that it was not just the odd animal being sent from the museum to 
 
 <figcaption>
 
-_Animal logistics on paper. The instructions on the labels reveal the paths that zoo animals took through a network of local institutions. (MfN, HBSB, S004-02-05 Nr. 96, Bl. 057 verso; MfN, HBSB, S004-02-05 Nr. 96, Bl. 140 recto. All rights reserved.)[^1]_
+_Animal logistics on paper. The instructions on the labels reveal the paths that zoo animals took through a network of local institutions. (MfN, HBSB, S004-02-05 Nr. 96, Bl. 057 verso; MfN, HBSB, S004-02-05 Nr. 96, Bl. 140 recto. All rights reserved.) For translation see footnote.[^1]_
 
 </figcaption>
 
@@ -90,7 +90,7 @@ Almost just as crucial as the information that appears on the labels is that whi
 
 <figcaption>
 
-_Knowledge thing: Label with detailed information about an animal delivery. (MfN, HBSB, S004-02-05 Nr. 96, Bl. 142 recto. All rights reserved.) [^4]_
+_Knowledge thing: Label with detailed information about an animal delivery. (MfN, HBSB, S004-02-05 Nr. 96, Bl. 142 recto. All rights reserved.)[^4]_
 
 </figcaption>
 
