@@ -3,7 +3,7 @@ title: About
 ---
 ## About the website
 
-*Animals as Objects?* is published by the research project [Animals as Objects. Zoological Gardens and Natural History Museum in Berlin, 1810 to 2020](https://www.museumfuernaturkunde.berlin/en/science/animals-objects). This website features research results in German and English on selected objects, histories, and animals. It presents multivocal answers to the question of how animals have been turned into natural history objects and data.
+*Animals as Objects?* is published by the research project [Animals as Objects. Zoological Gardens and Natural History Museum in Berlin, 1810 to 2020](https://www.museumfuernaturkunde.berlin/en/science/animals-objects) and edited by Ina Heumann and Tahani Nadim. This website features research results in German and English on selected objects, histories, and animals. It presents multivocal answers to the question of how animals have been turned into natural history objects and data.
 
 Relational databases, the very databases that are often used to catalogue and manage natural history collections, inspired the conceptual and visual design of the website. Therefore, the website contains three different types of articles that are interconnected in diverse and sometimes surprising ways:
 
