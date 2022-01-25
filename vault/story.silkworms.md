@@ -7,7 +7,7 @@ short_desc_de: Spuren von Bäumen und Tieren in Berlin
 date_end: 2022-08-26T14:37:08.305Z
 published: false
 title: Silkworms
-updated: 1642855903659
+updated: 1643126097702
 id: GDcruELihUsAdF7btC6KD
 doi: 64y2-m311/47
 translators:
@@ -62,7 +62,7 @@ The collection manager of the Lepidoptera (butterfly and moth) collection, Viola
  
 <figcaption>
  
-_Old display case showing the developmental stages of_ Bombyx mori, _Berlin Museum of Natural History, Lepidoptera collection, 2020. (Image: Britta Lange)_
+_Old display case showing the developmental stages of_ Bombyx mori, _Berlin Museum of Natural History, Lepidoptera collection, 2020. (Image: Britta Lange/MfN. All rights reserved.)_
 
 </figcaption>
  
@@ -227,7 +227,7 @@ Die Sammlungsmanagerin der Sammlung Lepidoptera (Schmetterlinge), Viola Richter,
  
 <figcaption>
  
-_Alter Schaukasten zu Entwicklungsstadien von_ Bombyx mori, _Museum für Naturkunde Berlin, Sammlung Lepidoptera, 2020. (Foto: Britta Lange)_
+_Alter Schaukasten zu Entwicklungsstadien von_ Bombyx mori, _Museum für Naturkunde Berlin, Sammlung Lepidoptera, 2020. (Foto: Britta Lange//MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
  
