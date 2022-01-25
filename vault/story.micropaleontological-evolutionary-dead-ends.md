@@ -14,12 +14,12 @@ translators:
   translator_en_de: ""
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
-desc: As micropaleontology started to take shape in the 19th century, it seemed
+desc: When micropaleontology began taking shape in the 19th century, it seemed
   to encounter a dead end because microfossils were interpreted to have changed
   little over geological times.
 desc_de: Als die Mikropaläontologie im 19. Jahrhundert Gestalt annahm, schien
-  sie in eine Sackgasse zu geraten, da Wissenschaftler:innen annahmen, dass sich
-  Mikrofossilien im Laufe der geologischen Zeit kaum verändert hatten.
+  sie in eine Sackgasse zu geraten, denn Wissenschaftler:innen dachten, dass
+  sich Mikrofossilien im Laufe der geologischen Zeit kaum verändert hatten.
 short_desc: Interest in microfossils seemed to fade
 cover_image:
   image: /images/cover-dead-ends-bathybius.jpg
