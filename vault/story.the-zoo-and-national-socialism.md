@@ -104,7 +104,7 @@ As with many of Berlin’s large companies, the zoo’s workforce was also ‘Na
 
 <figcaption>
 
-_The zoo band, 1938. (AZGB, image: Springer. All rights reserved.)_
+_The zoo band with [[“Bobby”|story.bobby-tracking-body-parts2]] the gorilla’s face displayed on the band’s drum kit, 1938. (AZGB, image: Springer. All rights reserved.)_
 
 </figcaption>
 
