@@ -16,13 +16,13 @@ copy_editors:
   copy_editor_de: Jan-Peter Herrmann
 desc: In the 1920s, scientists Esther Applin, Alva Ellisor, and Hedwig
   Knikerwere revolutionised micropaleontology. They were employed by oil
-  companies and showed important applications to stratigraphy and petroleum
+  companies and discovered important applications for stratigraphy and petroleum
   geology.
 desc_de: In den 1920er Jahren revolutionierten die Wissenschaftlerinnen Esther
   Applin, Alva Ellisor und Hedwig Knikerwere die Mikropaläontologie. Ihre
   Arbeitgeber waren Ölfirmen und im Rahmen ihrer Forschungen gelang es ihnen,
   das enorme Potential mikropaläontologischer Analysen für die Stratigrafie und
-  die Erdölgeografie nachzuweisen.
+  die Erdölgeologie nachzuweisen.
 short_desc: Microfossils revolutionised oil extraction
 cover_image:
   image: /images/cover-industrial-micropaleo.jpg
