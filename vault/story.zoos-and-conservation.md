@@ -1,14 +1,15 @@
 ---
-license: CC BY-SA
-title: Zoos and Conservation
-title_de: Zoos und Artenschutz
-created: 1618994200982
-updated: 1643108663552
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
+title: Zoos and Conservation
+desc: Since only a relatively short time zoos intensify their conservation efforts.
+updated: 1643108663766
+created: 1618994200982
+license: CC BY-SA
+title_de: Zoos und Artenschutz
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/75
-desc: Since only a relatively short time zoos intensify their conservation efforts.
-desc_de: Zoos bewerben sich heute als Artenschutzzentren. Bis in die 1970er
+desc_de: |-
+  Zoos bewerben sich heute als Artenschutzzentren. Bis in die 1970er
   Jahre wurde die Mehrzahl ihrer ausgestellten Tiere allerdings in deren
   Habitaten gefangen. Welche Entwicklungen haben Zoos durchlaufen und welche
   Dilemmata haben sich ergeben?
@@ -18,8 +19,8 @@ cover_image:
   image: /images/orangs_wegweiser_1927.jpg
 colour_scheme: 15
 tao_type: story
-date_start: 1923-01-01T23:09:00.000Z
-date_end: 2022-12-30T23:00:00.000Z
+date_start: '1923-01-01T23:09:00.000Z'
+date_end: '2022-12-30T23:00:00.000Z'
 published: false
 ---
 
@@ -101,7 +102,7 @@ _Heinrich Dathe mit Orang-Utan “Jussup”, 1961. (Fotoarchiv Tierpark Berlin, 
 
 </figure>
 
-Wie einige andere auch, stimmte der West-Berliner Kollege Heinz-Georg Klös Dathe zu.[^9] Vor dem Hintergrund ihrer öffentlich propagierten Funktion als artenschützende Institutionen zeigt sich, dass Klös und Dathe, ebenso wie viele andere Zoodirektoren, einen fundamentalen Zielkonflikt hatten. Die Haltung von [[Menschenaffen|story.bobby-tracking-body-parts2]] brachte und bringt Zoos in Fachkreisen erhebliches Prestige ein. Auch in der Rivalität der beiden Tiergärten in der geteilten Stadt spielten diese Tiere eine Rolle. Sowohl der Zoo als auch der Tierpark hatten in den vorausgegangenen Jahren Wildfänge gekauft und bemühten sich, bislang noch erfolglos, um eine eigene Zucht. Beide hatten sich also öffentlich dem Artenschutz verschrieben, doch gab es zweifellos eine Konkurrenz um diese populären Tiere. Heinrich Dathe war es trotz des Ressourcenmangels in der DDR geglückt, ein Menschenaffenhaus zu bauen, welches 1964 eröffnet wurde. In ihm lebten auch drei Orang-Utans.[^10] Vermutlich erhoffte sich Dathe, mit dem einen Weibchen und den zwei Männchen eine Zucht aufzubauen, muss sich aber zugleich im Klaren gewesen sein, dass er weitere Individuen der Art brauchen würde.
+Wie einige andere auch, stimmte der West-Berliner Kollege Heinz-Georg Klös Dathe zu.[^9] Vor dem Hintergrund ihrer öffentlich propagierten Funktion als artenschützende Institutionen zeigt sich, dass Klös und Dathe, ebenso wie viele andere Zoodirektoren, einen fundamentalen Zielkonflikt hatten. Die Haltung von [[Menschenaffen|story.bobby-tracking-body-parts]] brachte und bringt Zoos in Fachkreisen erhebliches Prestige ein. Auch in der Rivalität der beiden Tiergärten in der geteilten Stadt spielten diese Tiere eine Rolle. Sowohl der Zoo als auch der Tierpark hatten in den vorausgegangenen Jahren Wildfänge gekauft und bemühten sich, bislang noch erfolglos, um eine eigene Zucht. Beide hatten sich also öffentlich dem Artenschutz verschrieben, doch gab es zweifellos eine Konkurrenz um diese populären Tiere. Heinrich Dathe war es trotz des Ressourcenmangels in der DDR geglückt, ein Menschenaffenhaus zu bauen, welches 1964 eröffnet wurde. In ihm lebten auch drei Orang-Utans.[^10] Vermutlich erhoffte sich Dathe, mit dem einen Weibchen und den zwei Männchen eine Zucht aufzubauen, muss sich aber zugleich im Klaren gewesen sein, dass er weitere Individuen der Art brauchen würde.
 
 <figure>
  
@@ -143,7 +144,7 @@ _Bild von der Auswilderung eines Wisents in der Schorfheide, vermutlich 1938. (A
 
 ## Die Weiterentwicklung: Zuchtbücher und Erhaltungszuchtprogramme
 
-Der Erfolg dieser frühen Erhaltungszuchten animierte die Leitungen internationaler Zoos zur Einführung weiterer Zuchtbücher – just in der Zeit, als Dathe, Klös und Grzimek über die beste Strategie zur Erhaltung des Orang-Utans stritten. Auf der Sitzung des Internationalen Verbands der Zoodirektoren, dem Vorgänger der World Association of Zoos and Aquariums, in Colombo 1966 verpflichteten sich weitere Zoos zur Führung von Zuchtbüchern für gefährdete Arten. Folgende Zoos übernahmen beispielsweise die Führung von Zuchtbüchern:
+Der Erfolg dieser frühen Erhaltungszuchten animierte die Leitungen internationaler Zoos zur Einführung weiterer Zuchtbücher – just in der Zeit, als Dathe, Klös und Grzimek über die beste Strategie zur Erhaltung des Orang-Utans stritten. Auf der Sitzung des Internationalen Verbands der Zoodirektoren in Colombo 1966 verpflichteten sich weitere Zoos zur Führung von Zuchtbüchern für gefährdete Arten. Folgende Zoos übernahmen beispielsweise die Führung von Zuchtbüchern:
 
 - Antwerpen für Okapis und Bonobos,
 - Basel für das Panzernashorn und Zwergflusspferde,
@@ -169,7 +170,7 @@ _Beispiel eines Zuchtbuchs - Das Internationale Zuchtbuch für das Breitmaulnash
 
 </figure>
 
-Es ist offensichtlich, dass sich eine Lesart des Artenschutzes durchsetzte, die den Aufbau einer in menschlicher Obhut gehaltenen ‘Reservepopulation’ favorisierte. Einer ihrer nach wie vor einflussreichsten Verfechter war Heinrich Dathe. Als der Internationale Zoodirektorenverband 1973 in Japan tagte, meldete er sich mit dem Vortrag “Remarks to Zoological Gardens as important places for conservation and breeding of threatened species” an.[^18] Der Vortrag selbst ist nicht überliefert, am Titel wird aber deutlich, dass Heinrich Dathe für seine Vorstellung von Artenschutz durch die Erhaltungszucht in Zoos werben wollte.
+Es ist offensichtlich, dass sich eine Lesart des Artenschutzes durchsetzte, die den Aufbau einer in menschlicher Obhut gehaltenen Reservepopulation favorisierte. Einer ihrer nach wie vor einflussreichsten Verfechter war Heinrich Dathe. Als der Internationale Zoodirektorenverband 1973 in Japan tagte, meldete er sich mit dem Vortrag “Remarks to Zoological Gardens as important places for conservation and breeding of threatened species” an.[^18] Der Vortrag selbst ist nicht überliefert, am Titel wird aber deutlich, dass Heinrich Dathe für seine Vorstellung von Artenschutz durch die Erhaltungszucht in Zoos werben wollte.
 
 Dieser Ansatz war und ist unter Zoos in Deutschland und der Welt anschlussfähig und wird seit einigen Jahren auch durch digitalen Datenaustausch über die Plattform [[material.species360]] unterstützt. Die über viele Jahrzehnte gedruckten Zuchtbücher wurden somit abgelöst. Die meisten Nachzucht- oder Erhaltungszuchtprogramme in europäischen Zoos werden seit einigen Jahrzehnten im Rahmen des europäischen Zooverbandes (European Association of Zoos and Aquariums/ EAZA) als sogenannte EEPs (EAZA Ex-situ Program – also Zuchtprogramme in menschlicher Obhut) organisiert.
 
@@ -195,7 +196,7 @@ Kontrollfunktionen hat der Verband allerdings keine, und so bleibt es den Mitgli
 
 ## Was ist schützenswert?
 
-Seit den 1930er Jahren stellten Zuchtbücher, wie beschrieben, eine im Rahmen von Zoos bewährte Form des Artenschutzes dar. Allerdings waren praktisch alle durch Zuchtbücher abgedeckten Arten entweder Säugetiere oder solche, die als publikumswirksame [[Ausstellungsstücke|theme.showing-animals]] taugten, entweder ihrer Größe und ihres Aussehens wegen, oder weil ihr Gefährdungsstatus leicht vermittelbar war. Was aber geschieht mit gefährdeten Arten, die im Verborgenen leben, unscheinbar sind, in Zoos schlecht ausgestellt werden können, für ihre Lebensräume aber eine große Bedeutung haben?
+Seit den 1930er Jahren stellten Zuchtbücher, wie beschrieben, eine im Rahmen von Zoos bewährte Form des Artenschutzes dar. Allerdings waren praktisch alle durch Zuchtbücher abgedeckten Arten entweder Säugetiere oder solche, die als publikumswirksame [[Ausstellungsstücke|theme.putting-animals-on-display]] taugten, entweder ihrer Größe und ihres Aussehens wegen, oder weil ihr Gefährdungsstatus leicht vermittelbar war. Was aber geschieht mit gefährdeten Arten, die im Verborgenen leben, unscheinbar sind, in Zoos schlecht ausgestellt werden können, für ihre Lebensräume aber eine große Bedeutung haben?
 
 William Conway, Direktor des New Yorker Bronx Zoos, fand schon 1968 eine alternative Antwort auf die Frage, wie es gelingen könnte, auch andere, weniger charismatische Arten in Zoos zu züchten und dem Publikum ihre wichtige Rolle in der Natur zu vermitteln.[^30] Am Beispiel des Ochsenfroschs zeigte er, wie auch anhand dieses unscheinbaren Tieres Fragen der Biologie, Ethologie und Ökologie spannend aufbereitet werden können, um den Besucher:innen naturkundliches Wissen zu vermitteln und so den Artenschutz zu fördern. Allerdings blieb sein Aufsatz in Zoos unbeachtet, und auch der Bronx Zoo setzte weiter auf die beim Publikum beliebten Arten.
 

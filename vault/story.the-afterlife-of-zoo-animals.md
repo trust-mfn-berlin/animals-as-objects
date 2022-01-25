@@ -1,24 +1,24 @@
 ---
-license: CC BY-SA
-title_de: Verfüttern und Verwerten
-created: 1621970259942
-author: Mareike Vennen
-short_desc_de: Auf den Spuren eines Elefanten
-date_end: 1947-12-31T11:00:00.000Z
-published: false
-title: The Afterlife of Zoo Animals
-updated: 1642854896819
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
-doi: 64y2-m311/24
-translators:
-  translator_de_en: ""
-copy_editors:
-  copy_editor_en: Carla Welch
+title: The Afterlife of Zoo Animals
 desc: |-
   What happens to zoo animals when they die? How are their bodies (or body
   parts) put to use — as colonial trophies, as museum objects, as a source of
   meat? The story of the Berlin Zoo elephant "Siam" in the 1940s is a journey
   into postwar Berlin and deep into the history of European colonialism.
+updated: 1642854896819
+created: 1621970259942
+license: CC BY-SA
+title_de: Verfüttern und Verwerten
+author: Mareike Vennen
+short_desc_de: Auf den Spuren eines Elefanten
+date_end: 1947-12-31T11:00:00.000Z
+published: false
+doi: 64y2-m311/24
+translators:
+  translator_de_en: ''
+copy_editors:
+  copy_editor_en: Carla Welch
 desc_de: |-
   Was passiert mit Zootieren nach ihrem Tod, wie werden ihre
   Körper(teile) weiterverwertet – als koloniale Trophäen, Museumsobjekte oder
@@ -66,7 +66,7 @@ _The_ Neue Berliner 12 Uhr Zeitung _and other newspapers reported on the animal 
 
 </figure>
 
-The carcasses of zoo animals, especially large mammals, are usually not simply disposed of. It has long been the case that as much of the carcass as possible is used for other purposes. The same applied to “Siam”, and as with all zoo animals that have this kind of afterlife, his body was not kept intact. Tracing this elephant’s story therefore entails a search for [[individual body parts|story.bobby-tracking-body-parts2]], leading us to various different locations.
+The carcasses of zoo animals, especially large mammals, are usually not simply disposed of. It has long been the case that as much of the carcass as possible is used for other purposes. The same applied to “Siam”, and as with all zoo animals that have this kind of afterlife, his body was not kept intact. Tracing this elephant’s story therefore entails a search for [[individual body parts|story.bobby-tracking-body-parts]], leading us to various different locations.
 
 ## Colonial Traces
 
@@ -196,7 +196,7 @@ _Über den Tiertausch zwischen Zirkus und Zoo und die Ankunft “Siams” in sei
 
 </figure>
 
-Die Kadaver von Zootieren, zumal Großsäugern, werden meist nicht einfach entsorgt. Sie werden – damals wie heute – in vielen Fällen möglichst vollständig weiterverwertet. Das gilt auch für “Siam”. Und wie bei allen Zootieren, die auf diese Weise nach ihrem Tod ein Nachleben führen, blieb sein Körper nicht unversehrt. Sich auf die Spuren dieser Elefantengeschichte zu begeben, bedeutet also [[nach einzelnen Körperteilen|story.bobby-tracking-body-parts2]] zu suchen, was zu unterschiedlichen Orten der Verwertung und Entsorgung führt.
+Die Kadaver von Zootieren, zumal Großsäugern, werden meist nicht einfach entsorgt. Sie werden – damals wie heute – in vielen Fällen möglichst vollständig weiterverwertet. Das gilt auch für “Siam”. Und wie bei allen Zootieren, die auf diese Weise nach ihrem Tod ein Nachleben führen, blieb sein Körper nicht unversehrt. Sich auf die Spuren dieser Elefantengeschichte zu begeben, bedeutet also [[nach einzelnen Körperteilen|story.bobby-tracking-body-parts]] zu suchen, was zu unterschiedlichen Orten der Verwertung und Entsorgung führt.
 
 ## Koloniale Spuren
 

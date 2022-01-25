@@ -1,15 +1,15 @@
 ---
-license: CC BY-SA
-title: Of Lion-Tigers and Rotting Specimens
-title_de: Von Löwen-Tigern und verfaulten Präparaten
-created: 1639567838410
-updated: 1642621609646
 id: b1zgnK9GmzS2RLdAd76u0
+title: Of Lion-Tigers and Rotting Specimens
+desc: A record contains many stories
+updated: 1642621609646
+created: 1639567838410
+license: CC BY-SA
+title_de: Von Löwen-Tigern und verfaulten Präparaten
 author: Sarina Schirmer
 doi: 64y2-m311/45
 translators:
   translator_de_en: Lydia J. White
-desc: A record contains many stories
 desc_de: Ein Verzeichnis enthält viele Geschichten
 short_desc: A record contains many stories
 short_desc_de: Ein Verzeichnis enthält viele Geschichten
@@ -44,7 +44,7 @@ Work materials, which appear in the form of deliveries of spirits, glass eyes, a
 
 What these logbooks also illustrate are the [[connections|theme.recording-worlds]] between the Zoological Museum and other institutions and their history. Berlin’s Zoological Garden first appears in the logbooks as a source of animals in 1844, the year of its founding, while the now disbanded royal menagerie on Pfaueninsel (Peacock Island), in the south of Berlin, disappears from the lists. This change is not the only thing that reflects the historical transition from royal menageries to public zoos. The increasingly close connections between the [[zoo and the museum|story.keeping-records-of-animals]] also become visible due to the continuous growth in the number of animals being supplied by the Zoological Garden as the number of private deliveries waned in subsequent years.
 
-Friedrich Beyer’s logbooks do not just provide us with a treasure trove of object histories like that of the “lion-tiger”, but also give us insights into the methods of animal preparation, taxidermy, and [[displays|theme.showing-animals]], as well as into institutional entanglements and networks of object transfer.
+Friedrich Beyer’s logbooks do not just provide us with a treasure trove of object histories like that of the “lion-tiger”, but also give us insights into the methods of animal preparation, taxidermy, and [[displays|theme.putting-animals-on-display]], as well as into institutional entanglements and networks of object transfer.
 
 :::DE:::
 
@@ -68,4 +68,4 @@ Auch das Verbrauchsmaterial, welches in Form von gelieferten Glasaugen, Holzköp
 
 Was uns die Tagebücher darüber hinaus deutlich machen, ist die [[Verbindung|theme.recording-worlds]] des Zoologischen Museums mit anderen Institutionen und deren Geschichte. Im Jahr 1844, dem Jahr seiner Gründung, tritt der Zoologische Garten Berlin erstmals als Herkunftsort in den Tagebüchern auf, während die aufgelöste königliche Menagerie auf der Pfaueninsel südlich von Berlin von seinen Listen verschwindet. Dieser Wechsel verweist nicht nur auf den historischen Übergang von königlichen oder fürstlichen Menagerien zu öffentlichen Zoos. Auch die zunehmend enge Verbindung von [[Zoo und Museum|story.keeping-records-of-animals]] wird durch den kontinuierlichen Zuwachs von Tieren aus dem Zoologischen Garten bei gleichzeitigem Rückgang privater Zusendungen in den darauffolgenden Jahren ersichtlich.
 
-Die Tagebücher Friedrich Beyers bieten uns also nicht allein einen Fundus an Objektgeschichten wie der des “Löwen-Tigers”. Sie gewähren zudem Einblicke in die Vorgehensweisen der Tierpräparation und ihrer [[Ausstellung|theme.showing-animals]] sowie in die institutionellen Verflechtungen und Netzwerke des Objekttransfers.
+Die Tagebücher Friedrich Beyers bieten uns also nicht allein einen Fundus an Objektgeschichten wie der des “Löwen-Tigers”. Sie gewähren zudem Einblicke in die Vorgehensweisen der Tierpräparation und ihrer [[Ausstellung|theme.putting-animals-on-display]] sowie in die institutionellen Verflechtungen und Netzwerke des Objekttransfers.

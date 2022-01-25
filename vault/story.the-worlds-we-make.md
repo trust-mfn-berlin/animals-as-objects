@@ -1,21 +1,21 @@
 ---
-license: CC BY-SA
-title_de: The Worlds We Make
-created: 1640281603094
-author: Mareike Vennen
-short_desc_de: Pfeilschwanzkrebse in der Sammlung und im Labor
-date_end: ""
-published: false
-title: The Worlds We Make
-updated: 1642818975592
 id: 4npaIbpRAHygxSlfFDrj3
-doi: 64y2-m311/51
-translators:
-  translator_de_en: Lydia J. White
+title: The Worlds We Make
 desc: |-
   The history of the horseshoe crab traverses a range of collecting sites
   and scientific spaces, and shows how they have changed the worlds of both
   people and animals.
+updated: 1642818975592
+created: 1640281603094
+license: CC BY-SA
+title_de: The Worlds We Make
+author: Mareike Vennen
+short_desc_de: Pfeilschwanzkrebse in der Sammlung und im Labor
+date_end: ''
+published: false
+doi: 64y2-m311/51
+translators:
+  translator_de_en: Lydia J. White
 desc_de: |-
   Die Geschichte des Pfeilschwanzkrebses führt quer durch verschiedene
   Orte des Sammelns und Räume der Wissenschaft und zeigt, wie diese die
@@ -48,7 +48,7 @@ At the Museum für Naturkunde Berlin, a specimen of a horseshoe crab [[preserved
 
 If the historical limulus specimens in the museum in Berlin were not originally destined for its collection, where did they come from, and what was their purpose? What routes did they take, and what can they tell us about the history of the collection?
 
-The specimens themselves offer a clue to their earlier function. Their specific preparation indicates that they were not meant to be part of a _research_ collection, like that of the natural history museum. Instead it points to their use as _teaching_ objects. Firstly, the specimens were literally cut and tailored to fit [[university teaching|material.common-seadragon]] requirements. Some consisted of isolated [[body parts|story.bobby-tracking-body-parts2]] that could be used to demonstrate an animal’s various functions or organs. In this case, the animal’s nervous system has been exposed.
+The specimens themselves offer a clue to their earlier function. Their specific preparation indicates that they were not meant to be part of a _research_ collection, like that of the natural history museum. Instead it points to their use as _teaching_ objects. Firstly, the specimens were literally cut and tailored to fit [[university teaching|material.common-seadragon]] requirements. Some consisted of isolated [[body parts|story.bobby-tracking-body-parts]] that could be used to demonstrate an animal’s various functions or organs. In this case, the animal’s nervous system has been exposed.
 
 <figure>
 
@@ -76,7 +76,7 @@ _In this specimen, the heart and vessels of a horseshoe crab have been isolated.
 
 </figure>
 
-Traces of wear and tear provide more clues. Material damage and wires on some of the dry specimens indicate that they were [[exhibited|theme.showing-animals]], hung up, and handled.
+Traces of wear and tear provide more clues. Material damage and wires on some of the dry specimens indicate that they were [[exhibited|theme.putting-animals-on-display]], hung up, and handled.
 
 <figure>
 
@@ -138,7 +138,7 @@ _In its 1900 sea life sales catalogue, the Hamburg natural history dealer J.F.G.
 
 </figure>
 
-In the 19th century, the practice of keeping animals in aquariums spread from the English coast throughout Europe and, shortly afterwards, reached the US. This led to the founding of a number of public aquariums in the 1860s which became further sources for zoological teaching and research collections. More and more live sea creatures that were not endemic to European waters were being imported,[^3] including [[horseshoe crabs|story.moving-horseshoe-crabs]]. Of the four extant species, three live in the Indo-Pacific waters of South East Asia, while the species _Limulus polyphemus_ (Linnaeus, 1758) can be found in the West Atlantic and along the east coast of North and Central America.[^4] Most limuli in European aquariums come from the East Coast of the US, in particular from Delaware Bay in New Jersey.[^5] In Germany, the aquariums in Hamburg and Hanover were already showing horseshoe crabs from that region as early as the mid-1860s,[^6] as were the Unter den Linden Aquarium in Berlin and, from 1913, the aquarium at [[Berlin Zoo|theme.showing-animals]].[^7]
+In the 19th century, the practice of keeping animals in aquariums spread from the English coast throughout Europe and, shortly afterwards, reached the US. This led to the founding of a number of public aquariums in the 1860s which became further sources for zoological teaching and research collections. More and more live sea creatures that were not endemic to European waters were being imported,[^3] including [[horseshoe crabs|story.moving-horseshoe-crabs]]. Of the four extant species, three live in the Indo-Pacific waters of South East Asia, while the species _Limulus polyphemus_ (Linnaeus, 1758) can be found in the West Atlantic and along the east coast of North and Central America.[^4] Most limuli in European aquariums come from the East Coast of the US, in particular from Delaware Bay in New Jersey.[^5] In Germany, the aquariums in Hamburg and Hanover were already showing horseshoe crabs from that region as early as the mid-1860s,[^6] as were the Unter den Linden Aquarium in Berlin and, from 1913, the aquarium at [[Berlin Zoo|theme.putting-animals-on-display]].[^7]
 
 <figure>
 
@@ -283,7 +283,7 @@ Im Museum für Naturkunde Berlin befindet sich das [[Präparat|material.an-iguan
 ## Vom Aquarium über die Lehrsammlung ins Museum: Provenienzgeschichten
 
 Wenn die historischen Limulus-Präparate, die sich heute im Museum für Naturkunde Berlin befinden, ursprünglich nicht für dessen Sammlung bestimmt waren, woher stammen sie und was war ihr Zweck? Welche Wege haben sie im Laufe der Zeit zurückgelegt und was vermögen diese über die Sammlungsgeschichte auszusagen?
-Einen Hinweis auf ihre frühere Funktion liefern die Präparate selbst. Die Art der Zurichtung deutet darauf hin, dass es sich nicht um Objekte einer Forschungssammlung wie der des Museums handelt, sondern um [[Lehrobjekte|material.common-seadragon]]. Zum einen wurden Präparate für die [[universitäre Lehre|story.history-of-the-zoological-teaching-collection]] buchstäblich zugeschnitten oder bestanden aus [[isolierten Körperteilen|story.bobby-tracking-body-parts2]], um verschiedene Funktionen oder Organe eines Tieres zu demonstrieren. In diesem Fall sind bei manchen der Tiere bestimmte Körperpartien wie etwa das Nervensystem freigelegt.
+Einen Hinweis auf ihre frühere Funktion liefern die Präparate selbst. Die Art der Zurichtung deutet darauf hin, dass es sich nicht um Objekte einer Forschungssammlung wie der des Museums handelt, sondern um [[Lehrobjekte|material.common-seadragon]]. Zum einen wurden Präparate für die [[universitäre Lehre|story.history-of-the-zoological-teaching-collection]] buchstäblich zugeschnitten oder bestanden aus [[isolierten Körperteilen|story.bobby-tracking-body-parts]], um verschiedene Funktionen oder Organe eines Tieres zu demonstrieren. In diesem Fall sind bei manchen der Tiere bestimmte Körperpartien wie etwa das Nervensystem freigelegt.
 
 <figure>
 
@@ -311,7 +311,7 @@ _Herz und Gefäße eines Pfeilschwanzkrebses sind beim Präparat ‘ZMB 32114’
 
 </figure>
 
-Einen weiteren Hinweis liefern Gebrauchsspuren. Materialschäden oder Drähte an manchen der Trockenpräparate deuten darauf hin, dass sie [[ausgestellt|theme.showing-animals]], aufgehängt oder in die Hand genommen wurden.
+Einen weiteren Hinweis liefern Gebrauchsspuren. Materialschäden oder Drähte an manchen der Trockenpräparate deuten darauf hin, dass sie [[ausgestellt|theme.putting-animals-on-display]], aufgehängt oder in die Hand genommen wurden.
 
 <figure>
 
@@ -373,7 +373,7 @@ _Im Verkaufskatalog der Meerestiere von 1900 bot die Hamburger Naturalienhandlun
 
 </figure>
 
-Als sich in der zweiten Hälfte des 19. Jahrhunderts von den englischen Küsten ausgehend die Aquarienhaltung in ganz Europa und kurz darauf in den USA verbreitete und im Zuge dessen ab den späten 1860er Jahren in vielen Städten öffentliche Aquarien gegründet wurden, wurden diese zu weiteren Bezugsquellen für zoologische Lehr- und Forschungssammlungen. Immer mehr Meerestiere, die nicht in europäischen Gewässern heimisch waren, wurden lebend importiert.[^3] Das gilt auch für [[Pfeilschwanzkrebse|story.moving-horseshoe-crabs]]. Von den vier noch existierenden Arten leben drei in den indopazifischen Gewässern Südostasiens,[^4] während die Art _Limulus polyphemus_ (Linnaeus, 1758) im westlichen Atlantik entlang der Ostküste von Nord- und Mittelamerika verbreitet ist. Die meisten Limuli in europäischen Aquarien stammen von der Ostküste der USA, insbesondere aus Delaware Bay in New Jersey.[^5] In Deutschland zeigten bereits Mitte der 1860er Jahre die Aquarienhäuser in Hamburg und Hannover Pfeilschwanzkrebse aus dieser Region,[^6] ebenso wie das Aquarium Unter den Linden in Berlin und ab 1913 das Aquarium im [[Berliner Zoo|theme.showing-animals]].[^7]
+Als sich in der zweiten Hälfte des 19. Jahrhunderts von den englischen Küsten ausgehend die Aquarienhaltung in ganz Europa und kurz darauf in den USA verbreitete und im Zuge dessen ab den späten 1860er Jahren in vielen Städten öffentliche Aquarien gegründet wurden, wurden diese zu weiteren Bezugsquellen für zoologische Lehr- und Forschungssammlungen. Immer mehr Meerestiere, die nicht in europäischen Gewässern heimisch waren, wurden lebend importiert.[^3] Das gilt auch für [[Pfeilschwanzkrebse|story.moving-horseshoe-crabs]]. Von den vier noch existierenden Arten leben drei in den indopazifischen Gewässern Südostasiens,[^4] während die Art _Limulus polyphemus_ (Linnaeus, 1758) im westlichen Atlantik entlang der Ostküste von Nord- und Mittelamerika verbreitet ist. Die meisten Limuli in europäischen Aquarien stammen von der Ostküste der USA, insbesondere aus Delaware Bay in New Jersey.[^5] In Deutschland zeigten bereits Mitte der 1860er Jahre die Aquarienhäuser in Hamburg und Hannover Pfeilschwanzkrebse aus dieser Region,[^6] ebenso wie das Aquarium Unter den Linden in Berlin und ab 1913 das Aquarium im [[Berliner Zoo|theme.putting-animals-on-display]].[^7]
 
 <figure>
 
