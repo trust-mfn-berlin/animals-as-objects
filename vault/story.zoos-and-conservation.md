@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Zoos and Conservation
 title_de: Zoos und Artenschutz
 created: 1618994200982
-updated: 1643066152716
+updated: 1643108663552
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/75
@@ -25,6 +25,8 @@ published: false
 
 :::EN:::
 
+<figure>
+
 ![An Orang-Utan](/images/cmw/Orang_Utan_Enche.jpg)
 
 <figcaption>
@@ -35,7 +37,7 @@ _Orang-Utan “Enche”, 2016. (Zoologischer Garten Berlin. All rights reserved.
 
 </figure>
 
-Translation coming soon…
+_Translation coming soon…_
 
 :::DE:::
  
