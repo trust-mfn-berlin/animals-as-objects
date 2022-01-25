@@ -7,7 +7,7 @@ short_desc_de: Raubtier, Zootier, Kuscheltier? Politiken des Tierbildes
 date_end: 1994-12-24T10:34:00.000Z
 published: false
 title: Photos with Lion Cubs
-updated: 1643132676441
+updated: 1643132696055
 id: 4U5dFDf18mKRPdRnzu35p
 doi: 64y2-m311/67
 translators:
@@ -499,7 +499,7 @@ _Mit Fütterungsszenen warb auch der Zoofotograf im_ Wegweiser durch den Zoologi
 
 </figure>
  
-Der Tierkinderzoo und der Fotostand, die den Besucher:innen selbst Gelegenheit zum Anfassen und Füttern der Tierkinder boten, mögen ebenso wie die medialen Repräsentationen von Zoodirektor:innen mit (vermeintlich) zahmen Raubtieren zum Bild des Raubtierjungen als Heim- oder gar Kuscheltier beigetragen haben – ungefährlich in der Handhabe und unkompliziert in der Pflege.[^14] Löwenjunge waren zwar Raubtiere, in erster Linie jedoch sind sie Tierkinder, die man streicheln, füttern, auf den Arm nehmen konnte. Dieser Überzeugung schien jedenfalls das Berliner Kaufhaus Wertheim, als es 1969 auf die Idee kam, in seiner Zooabteilung Löwenbabys anzubieten. Für 1600 bis 1880 Mark wurden die Warenhauslöwen auf Bestellung geliefert, mit Pflegeanleitung.[^15] 
+Der Tierkinderzoo und der Fotostand, die den Besucher:innen selbst Gelegenheit zum Anfassen und Füttern der Tierkinder boten, mögen ebenso wie die medialen Repräsentationen von Zoodirektor:innen mit (vermeintlich) zahmen Raubtieren zum Bild des Raubtierjungen als Heim- oder gar Kuscheltier beigetragen haben – ungefährlich in der Handhabe und unkompliziert in der Pflege.[^14] Löwenjunge waren zwar Raubtiere, in erster Linie jedoch sind sie Tierkinder, die man streicheln, füttern, auf den Arm nehmen konnte. Dieser Überzeugung schien jedenfalls das Berliner Kaufhaus Wertheim, als es 1969 auf die Idee kam, in seiner Zooabteilung Löwenbabys anzubieten. Für 1.600 bis 1.880 Mark wurden die Warenhauslöwen auf Bestellung geliefert, mit Pflegeanleitung.[^15] 
 
 <figure>
 
