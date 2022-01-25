@@ -1,17 +1,17 @@
 ---
-license: CC BY-SA
-title: Core Samples
-title_de: Bohrkerne
-created: 1629110227049
-updated: 1642848455409
 id: 02wCHNiTRZ4Zkq2cO9Cpv
+title: Core Samples
+desc: Archives of planetary knowledge
+updated: 1642848455409
+created: 1629110227049
+license: CC BY-SA
+title_de: Bohrkerne
 author: Filippo Bertoni
 doi: 64y2-m311/31
 translators:
-  translator_en_de: ""
+  translator_en_de: ''
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
-desc: Archives of planetary knowledge
 desc_de: Archive des Erdwissens
 short_desc: Archives of planetary knowledge
 short_desc_de: Archive des Erdwissens
@@ -19,8 +19,8 @@ cover_image:
   image: /images/cores.png
 colour_scheme: 9
 tao_type: material
-date_start: 1947-01-02T19:24:05.131Z
-date_end: 2022-12-07T19:25:46.689Z
+date_start: '1947-01-02T19:24:05.131Z'
+date_end: '2022-12-07T19:25:46.689Z'
 published: false
 ---
 
@@ -45,7 +45,7 @@ Core samples are cylindrical sections of materials obtained by drilling with spe
 
 This commenced a concerted effort to gather samples for [[reconstructing the history|material.of-disappearance-and-rediscovery]] and dynamics of the planet, like in the case of the [[material.lamont-doherty-collection]]. These early undertakings gave momentum to [[micropaleontology at sea|story.micropaleontology-at-sea]], as vast transnational efforts to collect and collate core samples from the global ocean started [[deep sea drilling|story.deep-sea-drilling]]. This monumental technoscientific and sociopolitical venture allows scientists to tell new stories [[of microbes and planets|story.of-microbes-and-planets]], and to better understand planetary systems and the history of the Earth.[^2] Using [[biostratigraphy|material.biostratigraphy]] and other more complex techniques and analytical tools, scientists can extract data about past climates, as well as atmospheric and oceanic compositions. With the help of [[micropaleontological formations|story.micropaleontological-formations]] they can catch glimpses of the workings of our planet, like in the case of [[story.cycladophora-davisiana]] and [[material.foraminifera]]. 
 
-**While scientists value the data that allows them to temporarily black-box their idiosyncratic specificities, the same data derives its power from the [[situated stories|story.keeping-records-of-animals]] that it emerges from.** So, as data from core samples are used to produce accounts of the planet and its history, they can also bring to the surface other stories, like the ones gathered on this website. The complex [[technoscientific apparatus|story.bobby-tracking-body-parts2]] that allows us to tell such [[stories|theme.logistical-metabolisms]] relies on research vessels, large drills, core repositories, micropaleontological fossil records, and databases like the [[material.nsb-database]]. Simultaneously, it also depends on the many lives – of scientists, animals, microorganisms, and many others – who enter in relation with it, and shape its ongoing development and transformation.
+**While scientists value the data that allows them to temporarily black-box their idiosyncratic specificities, the same data derives its power from the [[situated stories|story.keeping-records-of-animals]] that it emerges from.** So, as data from core samples are used to produce accounts of the planet and its history, they can also bring to the surface other stories, like the ones gathered on this website. The complex [[technoscientific apparatus|story.bobby-tracking-body-parts]] that allows us to tell such [[stories|theme.logistical-metabolisms]] relies on research vessels, large drills, core repositories, micropaleontological fossil records, and databases like the [[material.nsb-database]]. Simultaneously, it also depends on the many lives – of scientists, animals, microorganisms, and many others – who enter in relation with it, and shape its ongoing development and transformation.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mdrWbd1F9Qw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -78,7 +78,7 @@ Bohrkerne sind zylindrische Proben von Materialien, die mithilfe von speziellen 
 
 Dies setzte umfassende, konzertierte Bemühungen zum Sammeln von Proben für die [[Rekonstruktion der Geschichte|material.of-disappearance-and-rediscovery]] und Dynamiken des Planeten in Gang, deren Resultate sich unter anderem in der [[material.lamont-doherty-collection]] befinden. Dies versetzte der [[marinen Mikropaläontologie|story.micropaleontology-at-sea]] einen erheblichen Schub und internationale Forschungsprojekte begannen mit zahlreichen [[Tiefseebohrungen|story.deep-sea-drilling]] zur Sammlung und Analyse von Kernproben aus allen Weltmeeren. Dieses monumentale wissenschaftlich-technische und gesellschaftspolitische Unterfangen ermöglicht es Wissenschaftler:innen, immer wieder neue Geschichten über [[Mikroben und Planeten|story.of-microbes-and-planets]] zu präsentieren und ein klareres Bild von den systemischen Dynamiken und der Vergangenheit unseres Planeten insgesamt zu erlangen.[^2] Mithilfe der [[material.biostratigraphy]] und anderer komplexerer Methoden und Analyseinstrumente können Wissenschaftler:innen beispielsweise Daten über klimatische Bedingungen oder die Zusammensetzung der Atmosphäre oder der Ozeane zu bestimmten Zeitpunkten und -spannen in der Vergangenheit gewinnen. Mit Hilfe von [[mikropaläontologischen Formationen|story.micropaleontological-formations]], darunter [[story.cycladophora-davisiana]] und [[material.foraminifera]], erhalten sie so Einblicke in die Funktionsweisen und Mechanismen unseres Planeten.
 
-**Während Wissenschaftler:innen diese Daten schätzen, die ihnen gestatten, die spezifischen Besonderheiten einstweilen außer Acht zu lassen, entspringt die Aussagekraft derselben Daten zugleich ihrer jeweils [[spezifisch verorteten Geschichte|story.keeping-records-of-animals]].** Während Bohrkernproben also allgemeine Aussagen über unseren Planeten und seine Vergangenheit ermöglichen, können sie zugleich auch sehr konkrete Geschichten zutage fördern – so  wie jene, die auf dieser Website versammelt sind. Der komplexe [[wissenschaftlich-technische Apparat|story.bobby-tracking-body-parts2]], der uns die Erzählung all dieser [[Geschichten|theme.logistical-metabolisms]] erlaubt, besteht aus Forschungsschiffen, großen Bohrgeräten, Archiven von Bohrkernproben, sowie mikropaläontologischen Fossilberichten und Datenbanken wie der [[NSB-Datenbank|material.nsb-database]]. Gleichzeitig beruht dieser Apparat auf den vielen einzelnen Lebensformen – Wissenschaftler:innen, Tieren, Mikroorganismen und vielen anderen – die mit ihm in Beziehung treten und ihn fortlaufend weiterentwickeln und verändern.
+**Während Wissenschaftler:innen diese Daten schätzen, die ihnen gestatten, die spezifischen Besonderheiten einstweilen außer Acht zu lassen, entspringt die Aussagekraft derselben Daten zugleich ihrer jeweils [[spezifisch verorteten Geschichte|story.keeping-records-of-animals]].** Während Bohrkernproben also allgemeine Aussagen über unseren Planeten und seine Vergangenheit ermöglichen, können sie zugleich auch sehr konkrete Geschichten zutage fördern – so  wie jene, die auf dieser Website versammelt sind. Der komplexe [[wissenschaftlich-technische Apparat|story.bobby-tracking-body-parts]], der uns die Erzählung all dieser [[Geschichten|theme.logistical-metabolisms]] erlaubt, besteht aus Forschungsschiffen, großen Bohrgeräten, Archiven von Bohrkernproben, sowie mikropaläontologischen Fossilberichten und Datenbanken wie der [[NSB-Datenbank|material.nsb-database]]. Gleichzeitig beruht dieser Apparat auf den vielen einzelnen Lebensformen – Wissenschaftler:innen, Tieren, Mikroorganismen und vielen anderen – die mit ihm in Beziehung treten und ihn fortlaufend weiterentwickeln und verändern.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mdrWbd1F9Qw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
