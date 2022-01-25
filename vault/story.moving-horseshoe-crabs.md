@@ -40,7 +40,7 @@ _This 1914 drawing connects various places: it shows horseshoe crabs at the beac
 
 </figure>
 
-In August 1866, fishermen caught a number of horseshoe crabs off the Dutch coast. What was unusual about this by-catch was that the species, [[Limulus polyphemus, Linnaeus, 1758|story.the-worlds-we-make]], had mainly been found in the North Atlantic up until that point, but never in European waters.[^1] How had the animals made their way to the North Sea, and why do we still know about them today? Or, in other words: How was knowledge about their distribution produced, and how was it disseminated?
+In August 1866, fishermen caught a number of horseshoe crabs off the Dutch coast. What was unusual about this by-catch was that the species, _Limulus polyphemus_ [[Linnaeus, 1758|story.the-worlds-we-make]], had mainly been found in the North Atlantic up until that point, but never in European waters.[^1] How had the animals made their way to the North Sea, and why do we still know about them today? Or, in other words: How was knowledge about their distribution produced, and how was it disseminated?
 
 ## Abandoned in the Ocean: From Aquarium Exhibits to Surplus Animals
 
@@ -113,7 +113,7 @@ _Diese Zeichnung aus dem Jahr 1914 verbindet verschiedene Orte: Sie zeigt Pfeils
 
 </figure>
 
-Im August 1866 gingen Fischern vor der holländischen Küste einige Pfeilschwanzkrebse ins Netz. Ungewöhnlich an diesem Beifang war, dass die Art [[Limulus polyphemus, Linnaeus, 1758|story.the-worlds-we-make]] bis dahin vor allem im Nordatlantik, nicht aber in europäischen Gewässern bekannt gewesen war.[^1] Wie waren die Tiere in die Nordsee gelangt und woher wissen wir heute davon? Oder anders gefragt: Wie kam das Wissen über ihre Verbreitung zustande und wie verbreitete es sich? 
+Im August 1866 gingen Fischern vor der holländischen Küste einige Pfeilschwanzkrebse ins Netz. Ungewöhnlich an diesem Beifang war, dass die Art _Limulus polyphemus_ [[Linnaeus, 1758|story.the-worlds-we-make]] bis dahin vor allem im Nordatlantik, nicht aber in europäischen Gewässern bekannt gewesen war.[^1] Wie waren die Tiere in die Nordsee gelangt und woher wissen wir heute davon? Oder anders gefragt: Wie kam das Wissen über ihre Verbreitung zustande und wie verbreitete es sich? 
 
 ## Ins Meer ausgesetzt: Vom Aquarientier zum Überschuss
 
