@@ -90,7 +90,7 @@ export default {
 
   content: {
     liveEdit: false,
-    fullTextSearchFields: () => ['title', 'title_de', 'desc', 'desc_de', 'author', 'slug'],
+    fullTextSearchFields: () => ['title', 'title_de', 'desc', 'desc_de', 'author', 'slug', 'keywords'],
     dir: 'vault',
     markdown:{
       remarkPlugins: [
