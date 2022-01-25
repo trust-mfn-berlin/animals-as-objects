@@ -1,23 +1,21 @@
 ---
-id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
-title: Feeding Prohibited
-desc: |-
-  Nowadays, zoos impose a divide between animals and humans that is mostly
-  taken for granted, but it was long commonplace for visitors to have direct
-  contact with the animals through feeding. How, when, and why did zoos
-  introduce a general ban on feeding?
-updated: 1642854563736
-created: 1620752897039
 license: CC BY-SA
+title: Feeding Prohibited
 title_de: Füttern verboten
+created: 1620752897039
+updated: 1642854563736
+id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 author: Mareike Vennen
 doi: 64y2-m311/26
 translators:
-  translator_de_en: ''
+  translator_de_en: ""
 copy_editors:
   copy_editor_en: Carla Welch
-desc_de: |-
-  Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
+desc: Nowadays, zoos impose a strict divide between animals and humans but this
+  has not always been the case. It used to be common for visitors to get close
+  to the animals by feeding them. How, when, and why did zoos introduce a
+  general ban on such feeding?
+desc_de: Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
   selbstverständlich erscheint, war lange Zeit ein direkter Kontakt beim Füttern
   durch die Besucher:innen üblich. Wie, wann und weshalb führten Zoos ein
   Fütterungsverbot ein?
@@ -31,8 +29,8 @@ cover_image:
     1980. Source: AZGB, photo Kühn. All rights reserved.
 colour_scheme: 4
 tao_type: story
-date_start: '1958-12-31T23:00:00.000Z'
-date_end: ''
+date_start: 1958-12-31T23:00:00.000Z
+date_end: ""
 ---
 
 :::EN:::
