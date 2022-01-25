@@ -6,14 +6,8 @@ author: Mareike Vennen
 short_desc_de: Raubtier, Zootier, Kuscheltier? Politiken des Tierbildes
 date_end: 1994-12-24T10:34:00.000Z
 published: false
-title: Photos with Lion Cubs
-updated: 1643133666477
-id: 4U5dFDf18mKRPdRnzu35p
-doi: 64y2-m311/67
-translators:
-  translator_de_en: Lydia J. White
 desc: In many zoos, visitors once had the opportunity to have their photo taken
-  with lion cubs. When did this motif emerge, and why has it disappeared from
+  with lion cubs. When did this motif emerge and why has it disappeared from
   today's zoos?
 desc_de: In vielen Zoos konnte man sich mit einem Löwenbaby fotografieren
   lassen. Wann kam dieses Motiv auf und warum ist es heute aus den Zoos
@@ -21,10 +15,16 @@ desc_de: In vielen Zoos konnte man sich mit einem Löwenbaby fotografieren
 short_desc: Predators, zoo animals, or stuffed toys? The politics of animal pictures
 cover_image:
   image: /images/Dieter-Herfurth-1939-mit-Loewenbaby.jpg
-colour_scheme: 14
-tao_type: story
 date_start: 1890-12-24T11:24:39.000Z
 feature: true
+title: Photos with Lion Cubs
+updated: 1643133666477
+id: 4U5dFDf18mKRPdRnzu35p
+doi: 64y2-m311/67
+translators:
+  translator_de_en: Lydia J. White
+colour_scheme: 14
+tao_type: story
 ---
 
 :::EN:::
