@@ -140,11 +140,11 @@ Instructions like “Please transfer hide and skull to museum” provide clues a
 
 [^4]: Translation: “Animal species: [illegible]. / Origin: Patagonia. / Cause of death: inflammation of the bowel.”
 
-[^5]: Tranlation, left: “Animal species: [illegible]. / Origin: From the animal trade. / Cause of death: no entry”; right: “Animal species: [illegible]. / Origin: Ceylon. / Cause of death: no entry.”
+[^5]: Tranlation, left: “Animal species: [illegible]. / Origin: From animal trade. / Cause of death: no entry”; right: “Animal species: [illegible]. / Origin: Ceylon. / Cause of death: no entry.”
 
 [^6]: Of course, it could be that this information was delivered in the accompanying item lists or in correspondence (see for example MfN, HBSB, S004-02-05, no. 97); however, the fact that detailed information is entered on some labels seems to suggest that it was not provided in other cases.
 
-[^7]: Translation: “Animal species: fresh water seal. / Origin: Berlin Zoo. / Cause of death: no entry. / Please transfer hide and skull to museum”
+[^7]: Translation: “Animal species: fresh water seal. / Origin: Berlin Zoo. / Cause of death: no entry. / Please transfer hide and skull to the museum.”
 
 
 
