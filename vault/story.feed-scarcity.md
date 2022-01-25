@@ -1,27 +1,26 @@
 ---
-id: d54394f6-1188-4ec3-b590-da329e657560
-title: Feed Scarcity
-desc: |-
-  How did the war-ravaged Berlin Zoological Garden manage to keep its
-  animals alive after the Second World War? How was this effected by the food
-  supply situation in the city? The crisis changed the relationship between the
-  zoo and urban society — between support and competition. For a while, the zoo
-  had a different role and purpose.
-updated: 1643133116141
-created: 1621497485660
 license: CC BY-SA
 title_de: Futternot
-author: Mareike Vennen
-short_desc_de: '1945: Krise in Zoo und Stadt '
+created: 1621497485660
 date_end: 1950-12-31T11:00:00.000Z
+keywords: banana grape orange
+author: Mareike Vennen
+short_desc_de: "1945: Krise in Zoo und Stadt "
 published: false
+title: Feed Scarcity
+updated: 1643133116141
+id: d54394f6-1188-4ec3-b590-da329e657560
 doi: 64y2-m311/23
 translators:
-  translator_de_en: ''
+  translator_de_en: ""
 copy_editors:
   copy_editor_en: Carla Welch
-desc_de: |-
-  Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten
+desc: How did the war-ravaged Berlin Zoological Garden manage to keep its
+  animals alive after the Second World War? What role did the city’s foody
+  supply play? The crisis changed the relationship between the zoo and Berlin’s
+  human inhabitants, encompassing both support and competition and temporarily
+  transforming the zoo’s function.
+desc_de: Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten
   nach dem Zweiten Weltkrieg, seine Tiere durchzubringen? Welche Rolle spielte
   dabei die Ernährungslage Berlins? Zoo und Stadtgesellschaft gingen in dieser
   Krise neue Verbindungen ein – zwischen Unterstützung und Konkurrenz, was die
@@ -37,7 +36,6 @@ cover_image:
 colour_scheme: 10
 tao_type: story
 date_start: 1944-12-31T23:00:00.000Z
-keywords: 'banana grape orange'
 ---
 
 :::EN:::
