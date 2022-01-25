@@ -1,25 +1,27 @@
 ---
-license: CC BY-SA
-title_de: Taxonomische Ordnungen
-created: 1618491191119
-author: Filippo Bertoni
-short_desc_de: Die Kategorisierung der Natur ist politisch
-date_end: 2022-12-06T11:43:53.791Z
-published: false
-title: Taxonomic Orders
-updated: 1642505108184
 id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
-doi: 64y2-m311/5
-translators:
-  translator_en_de: ""
-copy_editors:
-  copy_editor_de: Jan-Peter Herrmann
-desc: In biology, taxonomy is a formal system to name, define, and classify
+title: Taxonomic Orders
+desc: |-
+  In biology, taxonomy is a formal system to name, define, and classify
   organisms, regulated and governed by a set of rules. Since its beginning,
   biological taxonomy was neither stable nor universal, controversies frequently
   emerged. Classifications continue to change even today – yet they have lasting
   impacts on our world.
-desc_de: In der Biologie ist die Taxonomie ein formales System zur Benennung,
+updated: 1642505108184
+created: 1618491191119
+license: CC BY-SA
+title_de: Taxonomische Ordnungen
+author: Filippo Bertoni
+short_desc_de: Die Kategorisierung der Natur ist politisch
+date_end: '2022-12-06T11:43:53.791Z'
+published: false
+doi: 64y2-m311/5
+translators:
+  translator_en_de: ''
+copy_editors:
+  copy_editor_de: Jan-Peter Herrmann
+desc_de: |-
+  In der Biologie ist die Taxonomie ein formales System zur Benennung,
   Definition und Klassifizierung von Organismen, das von bestimmten Regeln
   abhängt. Seit ihren Anfängen war die biologische Taxonomie weder beständig
   noch allgemein gültig. Tatsächlich kommt es immer wieder zu Kontroversen. Die
@@ -34,7 +36,7 @@ cover_image:
     https://commons.wikimedia.org/wiki/File:Systema_Naturae_Plate_II.jpg
 colour_scheme: 12
 tao_type: theme
-date_start: 1752-12-31T23:06:32.000Z
+date_start: '1752-12-31T23:06:32.000Z'
 ---
 
 :::EN:::
@@ -83,7 +85,7 @@ Even as molecular and computational biology came to revolutionise the life scien
 
 Digital databases have proliferated and they allow easier access, more democratic community participation, and most importantly, more standardisation, precision, and computational power. The _Encyclopedia of Life_, the _Global Biodiversity Information Facility_, the _NCBI taxonomy database_, the _Open Tree of Life_, the _Catalogue of Life_, and even the _Zoological Information Management System_ [[ZIMS|material.species360]] are only some of the most significant databases; the more they are used, the more successful and established they become – in a positive feedback loop that is transforming taxonomy’s practices. These digital resources for biological taxonomy help scientists who might not always have the opportunity to keep up with ever-expanding and changing classifications. They have, in a way, revolutionised taxonomy. Yet, privileging computational and statistical approaches, databases have also been criticised for further endangering an already threatened taxonomic expertise: fewer and fewer biologists study detailed, complex, changing, and historically muddy taxonomic classifications, as molecular techniques are often more readily accessible, and maintain an aura of being scientific. To counter this tendency, taxonomic experts collaborate and experiment with methods to preserve taxonomic knowledge, for instance through initiatives like the _European Distributed Institute of Taxonomy_, which aims to defend taxonomic knowledge by teaching it to new generations of scientists, but also by engaging in the design and management of data infrastructures – in particular in conjunction with scientific collections in museums and research institutes.[^10]
 
-Like all sorts of classifications, biological taxonomies are entangled with power: the power to define categories, to include and exclude, as well as the power to enforce these orders. These orders are clearly made visible and tangible in their effects on the architectures of displays and collections, as can be seen in the [[record-keeping practices|theme.recording-worlds]] of the Museum für Naturkunde Berlin, the Humboldt-Universität zu Berlin’s [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]] or the history of the [[Berlin Zoo|theme.showing-animals]]. Changes in taxonomic orders often result in [[changes|material.of-disappearance-and-rediscovery]] in the display and organisation of animals in zoological collections and their architecture. In this sense, taxonomic orders are never neutral, but have significant real-life consequences.[^11] This is particularly evident in the contemporary articulation of the technocratic governmentality emerging around [[climate change|story.the-worlds-we-make]] and the pressing need for quantifying and managing [[biodiversity loss|story.zoos-and-conservation]].[^12] If different approaches to taxonomy can result in different interpretations of data, different thresholds, and hence different policies to handle environmental problems, the ordering practices of taxonomy have an important role in how we will manage to navigate the challenges offered by a transforming planet and our efforts in [[recording worlds|theme.recording-worlds]].
+Like all sorts of classifications, biological taxonomies are entangled with power: the power to define categories, to include and exclude, as well as the power to enforce these orders. These orders are clearly made visible and tangible in their effects on the architectures of displays and collections, as can be seen in the [[record-keeping practices|theme.recording-worlds]] of the Museum für Naturkunde Berlin, the Humboldt-Universität zu Berlin’s [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]] or the history of the [[Berlin Zoo|theme.putting-animals-on-display]]. Changes in taxonomic orders often result in [[changes|material.of-disappearance-and-rediscovery]] in the display and organisation of animals in zoological collections and their architecture. In this sense, taxonomic orders are never neutral, but have significant real-life consequences.[^11] This is particularly evident in the contemporary articulation of the technocratic governmentality emerging around [[climate change|story.the-worlds-we-make]] and the pressing need for quantifying and managing [[biodiversity loss|story.zoos-and-conservation]].[^12] If different approaches to taxonomy can result in different interpretations of data, different thresholds, and hence different policies to handle environmental problems, the ordering practices of taxonomy have an important role in how we will manage to navigate the challenges offered by a transforming planet and our efforts in [[recording worlds|theme.recording-worlds]].
 
 [^1]: For more about Linnaeus, see “Who was Linnaeus?”. _The Linnean Society of London_, no date. https://www.linnean.org/learning/who-was-linnaeus (01.07.2021).
 
@@ -156,7 +158,7 @@ Selbst als die Molekular- und Computerbiologie die Biowissenschaften ab den 1980
 
 Die Zahl der digitalen Datenbanken, die einen einfacheren Zugang, eine demokratischere Beteiligung von Interessierten und vor allem mehr Standardisierung, Präzision und Rechenleistung ermöglichen, hat sich stark erhöht. _Encyclopedia of Life_, _Global Biodiversity Information Facility_, _NCBI-Taxonomy Database_, _Open Tree of Life_, _Catalogue of Life_ und _Zoological Information Management System_ [[ZIMS|material.species360]] sind nur einige der bedeutendsten Datenbanken; je mehr sie genutzt werden, desto erfolgreicher und etablierter werden sie – mittels einer positiven Rückkopplungsschleife, die die Praxis der Taxonomie verändert. Diese digitalen Ressourcen für die biologische Taxonomie helfen Wissenschaftler:innen, mit den sich ständig erweiternden und verändernden Klassifikationen Schritt zu halten, was sie anders möglicherweise gar nicht mehr leisten könnten. Digitale Datenbanken haben die Taxonomie in gewisser Weise revolutioniert. Wegen der Privilegierung dieser computergestützten und statistischen Ansätze sind die Datenbanken jedoch auch dafür kritisiert worden, dass sie das Fortbestehen der ohnehin bedrohten taxonomischen Expertise weiter gefährden: Immer weniger Biolog:innen befassen sich im Detail mit den komplexen, sich ständig wandelnden taxonomischen Klassifikationen und ihren historischen Verflechtungen, da molekulare Techniken oft leichter zugänglich sind und eine Aura der Wissenschaftlichkeit ausstrahlen. Um dieser Tendenz entgegenzuwirken, arbeiten Taxonom:innen gemeinsam an neuen, experimentellen Methoden, um taxonomisches Wissen zu bewahren, zum Beispiel durch Initiativen wie das _European Distributed Institute of Taxonomy_, das sich für den Erhalt des taxonomischen Fachwissens einsetzt, indem es neue Generationen von Wissenschaftler:innen ausbildet, aber auch durch die Beteiligung an der Gestaltung und Verwaltung von Dateninfrastrukturen – insbesondere im Zusammenhang mit wissenschaftlichen Sammlungen in Museen und Forschungsinstituten.[^10]
 
-Wie alle Klassifikationssysteme bringen auch biologische Taxonomien Machtverhältnisse zum Ausdruck: Sie definieren Kategorien, produzieren Ein- und Ausschlüsse und setzen diese Ordnung durch. Und da sie die Gestaltung und Anordnung von Ausstellungen und Sammlungen prägen, werden diese Ordnungssysteme deutlich sichtbar und nachvollziehbar, etwa in den [[Verzeichnismedien|theme.recording-worlds]] des Museums für Naturkunde Berlin, der [[Lehrsammlung|story.history-of-the-zoological-teaching-collection]] der Humboldt-Universität zu Berlin und historischen Architekturen des [[Berliner Zoos|theme.showing-animals]]. Änderungen der taxonomischen Ordnungen führen oft zu Veränderungen in der Darstellung und [[Zuordnung|material.of-disappearance-and-rediscovery]] von Tieren in zoologischen Sammlungen und ihrer Architektur. **In diesem Sinne sind taxonomische Ordnungen niemals neutral. Sie haben signifikante und reale Konsequenzen.**[^11] Dies wird besonders deutlich in den gegenwärtigen technokratischen Handlungsansätzen in Bezug auf den [[Klimawandel|story.the-worlds-we-make]] und die dringend notwendige Quantifizierung und das Management des [[Biodiversitätsverlustes|story.zoos-and-conservation]].[^12] Wenn unterschiedliche taxonomische Ansätze zu unterschiedlichen Interpretationen von Daten und unterschiedlichen Schwellenwerten führen können, untermauern sie damit auch jeweils unterschiedliche politische Bewältigungsstrategien für die Klimakrise. Daher ist die 
+Wie alle Klassifikationssysteme bringen auch biologische Taxonomien Machtverhältnisse zum Ausdruck: Sie definieren Kategorien, produzieren Ein- und Ausschlüsse und setzen diese Ordnung durch. Und da sie die Gestaltung und Anordnung von Ausstellungen und Sammlungen prägen, werden diese Ordnungssysteme deutlich sichtbar und nachvollziehbar, etwa in den [[Verzeichnismedien|theme.recording-worlds]] des Museums für Naturkunde Berlin, der [[Lehrsammlung|story.history-of-the-zoological-teaching-collection]] der Humboldt-Universität zu Berlin und historischen Architekturen des [[Berliner Zoos|theme.putting-animals-on-display]]. Änderungen der taxonomischen Ordnungen führen oft zu Veränderungen in der Darstellung und [[Zuordnung|material.of-disappearance-and-rediscovery]] von Tieren in zoologischen Sammlungen und ihrer Architektur. **In diesem Sinne sind taxonomische Ordnungen niemals neutral. Sie haben signifikante und reale Konsequenzen.**[^11] Dies wird besonders deutlich in den gegenwärtigen technokratischen Handlungsansätzen in Bezug auf den [[Klimawandel|story.the-worlds-we-make]] und die dringend notwendige Quantifizierung und das Management des [[Biodiversitätsverlustes|story.zoos-and-conservation]].[^12] Wenn unterschiedliche taxonomische Ansätze zu unterschiedlichen Interpretationen von Daten und unterschiedlichen Schwellenwerten führen können, untermauern sie damit auch jeweils unterschiedliche politische Bewältigungsstrategien für die Klimakrise. Daher ist die 
 Taxonomie als [[ordnendes Instrument|theme.recording-worlds]] für die Bewältigung der Herausforderungen eines sich wandelnden Planeten von zentraler Bedeutung.
 
 

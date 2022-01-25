@@ -1,25 +1,27 @@
 ---
-license: CC BY-SA
-title_de: Der Zoo im Nationalsozialismus
-created: 1619020958263
-author: Clemens Maier-Wolthausen
-short_desc_de: Propagandainstrument und Zwangsarbeit
-date_end: 1945-12-31T11:00:00.000Z
-published: false
-title: The Zoo and National Socialism
-updated: 1642939485249
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
-doi: 64y2-m311/12
-translators:
-  translator_de_en: ""
-copy_editors:
-  copy_editor_en: Carla Welch
-desc: During the National Socialist dictatorship, the zoo’s management and
+title: The Zoo and National Socialism
+desc: |-
+  During the National Socialist dictatorship, the zoo’s management and
   supervisory board made themselves available to the regime however they could.
   The zoo became an instrument of National Socialist propaganda, and
   excludedJewish visitors. The zoo director was well connected to the regime’s
   elite. Inwartime, the zoo exploited forced labor.
-desc_de: In der Zeit der nationalsozialistischen Diktatur boten sich
+updated: 1642939485249
+created: 1619020958263
+license: CC BY-SA
+title_de: Der Zoo im Nationalsozialismus
+author: Clemens Maier-Wolthausen
+short_desc_de: Propagandainstrument und Zwangsarbeit
+date_end: 1945-12-31T11:00:00.000Z
+published: false
+doi: 64y2-m311/12
+translators:
+  translator_de_en: ''
+copy_editors:
+  copy_editor_en: Carla Welch
+desc_de: |-
+  In der Zeit der nationalsozialistischen Diktatur boten sich
   Zooleitungund Aufsichtsrat dem Regime an. Der Zoo wurde zu einem
   Propagandainstrumentder Nationalsozialisten und schloss jüdische
   Besucher:innen aus. DerZoodirektor war mit der Elite des Regimes gut vernetzt.
@@ -322,7 +324,7 @@ _The zoo’s surviving lions in their outdoor enclosure, against the backdrop of
 
 At the end of National Socialist rule, the zoo was no longer the establishment it had been from its beginnings until 1933 – neither materially, nor in its institutional make-up. **Berlin Zoo under National Socialism exemplifies how extensively political pressure can shape and instrumentalise the zoo as an institution.** Its exhibition of live animals could readily be put to use for Nazi propaganda, and served the aims of the NSDAP in various ways.
 
-Zoos are certainly also compatible with other regimes and social systems – even if this adaptation has often been more subtle and less pronounced. During the Cold War, the East Berlin Magistrate and the SED regime instrumentalised the Berlin Tierpark for cultural diplomacy in the dispute over the international recognition of the GDR. The park served as an internationally recognised example of socialist policy in education and scientific research. Zoos resumed the role they had played in the 19th century when many of them were first founded: they represented a defining [[feature|theme.showing-animals]] of a capital city – or in this case half a city. The West Berlin zoo director could count on West German federal policy to be invested in the zoo’s attraction for the enclosed western half of the city.[^47] Nowadays, zoos position themselves as centers of species conservation in liberal societies that are increasingly concerned with [[biodiversity|story.zoos-and-conservation]]. In none of these cases, however, has the political exploitation of the zoo as an institution been attempted or achieved to the degree reached by the National Socialists.
+Zoos are certainly also compatible with other regimes and social systems – even if this adaptation has often been more subtle and less pronounced. During the Cold War, the East Berlin Magistrate and the SED regime instrumentalised the Berlin Tierpark for cultural diplomacy in the dispute over the international recognition of the GDR. The park served as an internationally recognised example of socialist policy in education and scientific research. Zoos resumed the role they had played in the 19th century when many of them were first founded: they represented a defining [[feature|theme.putting-animals-on-display]] of a capital city – or in this case half a city. The West Berlin zoo director could count on West German federal policy to be invested in the zoo’s attraction for the enclosed western half of the city.[^47] Nowadays, zoos position themselves as centers of species conservation in liberal societies that are increasingly concerned with [[biodiversity|story.zoos-and-conservation]]. In none of these cases, however, has the political exploitation of the zoo as an institution been attempted or achieved to the degree reached by the National Socialists.
 
 [^1]: Cf., for instance, Ludwig Heck. _Heiter-ernste Lebensbeichte: Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag, 1938: 373; Lutz Heck. _Der deutsche Edelhirsch: Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn_. Berlin: Paul Parey, 1935. Direct quotes have been translated into English for clarity’s sake.
 
@@ -703,7 +705,7 @@ _Die überlebenden Löwen des Zoos liegen vor der Kulisse des zerstörten Aquari
 
 Der Zoo war am Ende der nationalsozialistischen Herrschaft materiell aber auch in seiner inneren Verfasstheit nicht mehr der Zoo, der sich bis 1933 aus seinen Ursprüngen entwickelt hat. **Das Beispiel des Berliner Zoos im Nationalsozialismus zeigt, wie sehr sich die Institution Zoo unter dem Druck politischer Verhältnisse formen und instrumentalisieren lässt.** Die Ausstellung lebender Tiere des Berliner Zoos bot ausreichend Anknüpfungspunkte für die Propaganda des NS-Regimes und diente in verschiedenen Funktionen deren Zielen.
 
-Zwar sind Zoos auch in anderen Regimen und Gesellschaftsformen anschlussfähig – wenn die Anpassungen auch subtiler und weniger ausgeprägt waren und sind. Der Tierpark Berlin diente während des Kalten Krieges dem Ost-Berliner Magistrat und dem SED-Regime als Instrument kultureller Diplomatie im Streit um die internationale Anerkennung der DDR und als international anerkanntes Beispiel sozialistischer Bildungs- und Wissenschaftspolitik. Ein eigener [[Zoo|theme.showing-animals]] diente wie zu den Zeiten der Zoogründungen des 19. Jahrhunderts als Merkmal einer – in diesem Fall halben – Hauptstadt. Der West-Berliner Zoodirektor konnte auf die bundesdeutsche Politik zählen, die ein Interesse an der Strahlkraft des Zoos für die eingeschlossene Westhälfte der Stadt hatte.[^48] Und heute positionieren sich Zoos als Artenschutzzentren in zunehmend um [[Biodiversität|story.zoos-and-conservation]] besorgten liberalen Gesellschaften. Das Ausmaß der Ausnutzung der Institution Zoo ausschließlich für die eigene Politik, wie es das nationalsozialistische Regime erzielt hat, ist in letzteren Fällen aber weder versucht noch erreicht worden.
+Zwar sind Zoos auch in anderen Regimen und Gesellschaftsformen anschlussfähig – wenn die Anpassungen auch subtiler und weniger ausgeprägt waren und sind. Der Tierpark Berlin diente während des Kalten Krieges dem Ost-Berliner Magistrat und dem SED-Regime als Instrument kultureller Diplomatie im Streit um die internationale Anerkennung der DDR und als international anerkanntes Beispiel sozialistischer Bildungs- und Wissenschaftspolitik. Ein eigener [[Zoo|theme.putting-animals-on-display]] diente wie zu den Zeiten der Zoogründungen des 19. Jahrhunderts als Merkmal einer – in diesem Fall halben – Hauptstadt. Der West-Berliner Zoodirektor konnte auf die bundesdeutsche Politik zählen, die ein Interesse an der Strahlkraft des Zoos für die eingeschlossene Westhälfte der Stadt hatte.[^48] Und heute positionieren sich Zoos als Artenschutzzentren in zunehmend um [[Biodiversität|story.zoos-and-conservation]] besorgten liberalen Gesellschaften. Das Ausmaß der Ausnutzung der Institution Zoo ausschließlich für die eigene Politik, wie es das nationalsozialistische Regime erzielt hat, ist in letzteren Fällen aber weder versucht noch erreicht worden.
 
 [^1]: Vgl. beispielsweise Ludwig Heck. *Heiter-ernste Lebensbeichte: Erinnerungen eines alten Tiergärtners*. Berlin: Deutscher Verlag, 1938: 373; Lutz Heck. *Der deutsche Edelhirsch: Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn*. Berlin: Paul Parey, 1935.
 

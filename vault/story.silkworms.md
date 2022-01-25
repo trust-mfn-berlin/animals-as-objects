@@ -1,17 +1,6 @@
 ---
-license: CC BY-SA
-title_de: Seidenraupen
-created: 1629986374819
-author: Britta Lange
-short_desc_de: Spuren von Bäumen und Tieren in Berlin
-date_end: 2022-08-26T14:37:08.305Z
-published: false
-title: Silkworms
-updated: 1643126097702
 id: GDcruELihUsAdF7btC6KD
-doi: 64y2-m311/47
-translators:
-  translator_de_en: Lydia J. White
+title: Silkworms
 desc: |-
   Why does Berlin still have mulberry trees? Today, their story has all but
   been forgotten, even though they were once indispensable to the silk farming
@@ -19,7 +8,19 @@ desc: |-
   these trees tell us today – about the connections between the _Morus alba_ and
   the silkworm, between philosophy and economics, between royal decrees and
   everyday knowledge?
-desc_de: Warum gibt es in Berlin Maulbeerbäume? Ihre Geschichte ist heute
+updated: 1643126097959
+created: 1629986374819
+license: CC BY-SA
+title_de: Seidenraupen
+author: Britta Lange
+short_desc_de: Spuren von Bäumen und Tieren in Berlin
+date_end: '2022-08-26T14:37:08.305Z'
+published: false
+doi: 64y2-m311/47
+translators:
+  translator_de_en: Lydia J. White
+desc_de: |-
+  Warum gibt es in Berlin Maulbeerbäume? Ihre Geschichte ist heute
   fastvergessen. Dabei waren sie einst unverzichtbar für den Seidenbau, der im
   18.und 19. Jahrhundert in Berlin und Brandenburg betrieben wurde. Was können
   dieBäume heute noch erzählen – über die Verbindungen von _Morus alba_
@@ -27,13 +28,14 @@ desc_de: Warum gibt es in Berlin Maulbeerbäume? Ihre Geschichte ist heute
   undAlltagswissen?
 short_desc: The traces of trees and animals in Berlin
 cover_image:
-  image: /images/old-mulberry-tree-alter-maulbeerbaum-berlin-museum-fuer-naturkunde-natural-history-museum.jpg
+  image: >-
+    /images/old-mulberry-tree-alter-maulbeerbaum-berlin-museum-fuer-naturkunde-natural-history-museum.jpg
   alt: |-
     Mulberry tree at the Museum of Natural History Berlin, 2021. Maulbeerbaum
     am Museum für Naturkunde Berlin, 2021. Source: Foto Britta Lange.
 colour_scheme: 3
 tao_type: story
-date_start: 1703-01-01T23:07:09.241Z
+date_start: '1703-01-01T23:07:09.241Z'
 ---
 
 :::EN:::
@@ -54,7 +56,7 @@ While the great dinosaur skeleton in the main hall of the Natural History Museum
 
 ## _Morus alba_ at the Museum für Naturkunde Berlin and in the Villages of Brandenburg 
 
-The collection manager of the Lepidoptera (butterfly and moth) collection, Viola Richter, points the tree out to me as she looks for [[display cases|theme.showing-animals]] filled with silkworm specimens at my request in autumn 2020.[^1] One of these cases displays the four zoological stages in the development of _Bombyx mori_, the silk moth, each represented by a number of specimens: the egg, the caterpillar (_bombyx_), the pupa in its cocoon, and the hatched moth. 
+The collection manager of the Lepidoptera (butterfly and moth) collection, Viola Richter, points the tree out to me as she looks for [[display cases|theme.putting-animals-on-display]] filled with silkworm specimens at my request in autumn 2020.[^1] One of these cases displays the four zoological stages in the development of _Bombyx mori_, the silk moth, each represented by a number of specimens: the egg, the caterpillar (_bombyx_), the pupa in its cocoon, and the hatched moth. 
 
 <figure>
  
@@ -219,7 +221,7 @@ Während das große Dinosaurierskelett in der Haupthalle des Berliner Museums f�
 
 ## _Morus alba_ am Museum für Naturkunde und in den märkischen Dörfern
 
-Die Sammlungsmanagerin der Sammlung Lepidoptera (Schmetterlinge), Viola Richter, weist mich auf den Baum hin, als sie mir im Herbst 2020 auf meine Anfrage hin [[Schaukästen|theme.showing-animals]] mit Präparaten von Seidenraupen heraussucht.[^1] Einer dieser Kästen zeigt die vier zoologischen Stadien der Entwicklung von _Bombyx mori_, dem Maulbeerspinner, in jeweils mehreren Exemplaren: das Ei, die Raupe (_bombyx_), die Puppe im Kokon und den ausgeschlüpften Schmetterling. 
+Die Sammlungsmanagerin der Sammlung Lepidoptera (Schmetterlinge), Viola Richter, weist mich auf den Baum hin, als sie mir im Herbst 2020 auf meine Anfrage hin [[Schaukästen|theme.putting-animals-on-display]] mit Präparaten von Seidenraupen heraussucht.[^1] Einer dieser Kästen zeigt die vier zoologischen Stadien der Entwicklung von _Bombyx mori_, dem Maulbeerspinner, in jeweils mehreren Exemplaren: das Ei, die Raupe (_bombyx_), die Puppe im Kokon und den ausgeschlüpften Schmetterling. 
 
 <figure>
  

@@ -1,28 +1,28 @@
 ---
-license: CC BY-SA
-title_de: Geschichte der Zoologischen Lehrsammlung
-created: 1629792627920
-author: Theresa Schatt
-short_desc_de: Objekte, Inventare, Menschen und Netzwerke
-date_end: 1968-12-31T11:00:00.000Z
-published: false
-title: History of the Zoological Teaching Collection
-updated: 1643057776312
 id: hUAZn8uswMmXvmUP1S4Jn
-doi: 64y2-m311/43
-translators:
-  translator_de_en: Lydia J. White
+title: History of the Zoological Teaching Collection
 desc: |-
   The documents of the Zoological Teaching Collection at Humboldt
   University in Berlin are testament to war and the changes that took place in
   everyday life at the institution, in scientific approaches, and in lines of
-  political conflict (within the university). 
+  political conflict (within the university).
+updated: 1643057776312
+created: 1629792627920
+license: CC BY-SA
+title_de: Geschichte der Zoologischen Lehrsammlung
+author: Theresa Schatt
+short_desc_de: 'Objekte, Inventare, Menschen und Netzwerke'
+date_end: 1968-12-31T11:00:00.000Z
+published: false
+doi: 64y2-m311/43
+translators:
+  translator_de_en: Lydia J. White
 desc_de: |-
   Die Dokumente der Zoologischen Lehrsammlung an der Humboldt-Universität
   zu Berlin zeugen von Krieg sowie von Veränderungen des Institutionsalltags,
   des wissenschaftlichen Vorgehens und der (universitäts-)politischen
   Konfliktlinien.
-short_desc: Objects, inventories, people, and networks
+short_desc: 'Objects, inventories, people, and networks'
 cover_image:
   image: /images/cover-history-zoological-teaching-collection.png
   alt: |-
@@ -56,7 +56,7 @@ The inventory books of the Zoological Teaching Collection of the Friedrich-Wilhe
 
 A total of eight inventory books kept chronological records of specimens, models, and wall charts in a list with continuous numbering. The first inventory of specimens begins in the year the Zoological Institute was founded, 1884. It records not just the method of preservation and the Latin name but also information about where the object was acquired. The sources of the teaching collection’s holdings were manifold – from the items it collected and then preserved itself at the institute to purchases from established natural history [[traders|story.catching-animals]] like Linnaeus in Berlin or the Hamburg firm Umlauff, and donations that were made by natural history institutions, including the Zoological Museum, the anatomical-zootomical collection, and the Zoological Station in Naples. They let us trace the widely ramified [[network|story.finding-cycladophora]] of natural history institutions that existed back then both in Berlin and beyond, a nexus of which the Zoological Institute also formed one part. In the early years after its founding, the holdings of the teaching collection comprised above all gifts from the zoological and anatomical-zootomical collections of the Friedrich-Wilhelms-Universität zu Berlin.[^1]
 
-Originally located under the roof of the university building in three subcollections, the zoological, anatomical-zootomical, and mineralogical collections were united in 1889 in a newly constructed museum building. This change in location was symptomatic of the complex relationship between the museum and university institutions at the time. **During the 19th century, museums and their collections increasingly developed into self-sufficient sites of scientific practice and representation. At the same time, they assumed a teaching function in academic training but were still intended to make a considerable impact in _Volksbildung_ – popular [[education|theme.showing-animals]].**[^2] This twofold function of the university collections manifested itself in Berlin in the appointment of the museum directorship, which since 1810 had been linked with the chair of the discipline in question at the university. Due to the gradual establishment of zoology as a discipline independent of medicine, however, this appointment became a matter of discussion, additionally fuelled by successive differentiations and specialisations in the field of zoological research.[^3] After the 1883 death of Wilhelm Peters, director of the Zoological Museum, attempts were made to restructure the chair to reflect contemporary research standards, which together with the [[systematisation|theme.taxonomic-orders]] of zoology also pursued aspects of the theory of descent and development, and took experimental physiological approaches.[^4] These negotiations ultimately resulted in the founding of a new Zoological Institute, separate from the Zoological Museum, with its own teaching collection, which was put under the leadership of sponge expert Franz Eilhard Schulze.
+Originally located under the roof of the university building in three subcollections, the zoological, anatomical-zootomical, and mineralogical collections were united in 1889 in a newly constructed museum building. This change in location was symptomatic of the complex relationship between the museum and university institutions at the time. **During the 19th century, museums and their collections increasingly developed into self-sufficient sites of scientific practice and representation. At the same time, they assumed a teaching function in academic training but were still intended to make a considerable impact in _Volksbildung_ – popular [[education|theme.putting-animals-on-display]].**[^2] This twofold function of the university collections manifested itself in Berlin in the appointment of the museum directorship, which since 1810 had been linked with the chair of the discipline in question at the university. Due to the gradual establishment of zoology as a discipline independent of medicine, however, this appointment became a matter of discussion, additionally fuelled by successive differentiations and specialisations in the field of zoological research.[^3] After the 1883 death of Wilhelm Peters, director of the Zoological Museum, attempts were made to restructure the chair to reflect contemporary research standards, which together with the [[systematisation|theme.taxonomic-orders]] of zoology also pursued aspects of the theory of descent and development, and took experimental physiological approaches.[^4] These negotiations ultimately resulted in the founding of a new Zoological Institute, separate from the Zoological Museum, with its own teaching collection, which was put under the leadership of sponge expert Franz Eilhard Schulze.
 
 <figure>
 
@@ -180,7 +180,7 @@ Die Inventarbücher der Zoologischen Lehrsammlung der ehemaligen Friedrich-Wilhe
 
 In insgesamt acht Inventarbüchern wurden Präparate, Modelle und auch Wandtafeln damals in Listenform chronologisch und nach laufenden Nummern verzeichnet. Das erste Inventar der Präparate beginnt mit dem Gründungsjahr des Zoologischen Instituts 1884. Festgehalten wurden nicht nur die Konservierungsart oder die lateinische Bezeichnung, sondern auch Informationen zum Erwerbskontext. Die Bezugsquellen der Lehrsammlung waren weit gefächert – von eigens gesammelten und anschließend im Institut präparierten Objekten, über Ankäufe von etablierten [[Naturalienhändlern|story.catching-animals]] wie Linnaeus in Berlin oder der Hamburger Firma Umlauff, bis hin zu unentgeltlichen Zuwendungen durch naturkundliche Institutionen, darunter das Zoologische Museum, die anatomisch-zootomische Sammlung oder die zoologische Station in Neapel. Daraus lässt sich das im Raum Berlin damals bestehende, aber auch darüber hinaus weitreichend verzweigte [[Netzwerk|story.finding-cycladophora]] naturkundlicher Einrichtungen ablesen, in dessen Geflecht sich auch das Zoologische Institut wiederfand. In den ersten Jahren nach ihrer Gründung formte sich der Bestand der Lehrsammlung vor allem durch die Schenkungen aus der zoologischen und anatomisch-zootomischen Sammlung der königlichen Friedrich-Wilhelms-Universität in Berlin.[^1]
 
-Zunächst als drei Teilsammlungen unter dem Dach des Universitätsgebäudes verortet, wurden die zoologische, anatomisch-zootomische und mineralogische Sammlung 1889 in einem neu erbauten Museumsgebäude vereinigt. Dieser Ortwechsel war damals symptomatisch für das komplexe Verhältnis zwischen den Institutionen Universität und Museum. **Museen und ihre Sammlungen entwickelten sich im Laufe des 19. Jahrhunderts zunehmend zu eigenen Orten der wissenschaftlichen Praxis und Repräsentation, während sie gleichzeitig eine (be-)lehrende Funktion in der akademischen Ausbildung einnahmen, aber auch auf eine große [[Öffentlichkeit|theme.showing-animals]] ‘volksbildend’ wirken sollten.**[^2] Diese doppelte Funktion der universitären Sammlungen äußerte sich in Berlin in der Besetzung der Museumsdirektion, die seit 1810 stets mit der Leitung des Lehrstuhls der jeweiligen Disziplin an der Universität verbunden war. Aufgrund der schrittweisen Etablierung der Zoologie als eine von der Medizin unabhängige Disziplin wurde diese Besetzung jedoch zum Thema von Diskussionen, zusätzlich befeuert durch die sukzessive Differenzierung und Spezialisierung zoologischer Forschungsausrichtungen.[^3] Nach dem Tod Wilhelm Peters 1883, Direktor des Zoologischen Museums, versuchte man mittels einer Umstrukturierung des Lehrstuhls den zeitgemäßen Standards der Forschung zu entsprechen, die neben einer systematischen [[Zoologie|theme.taxonomic-orders]] auch Aspekte der Abstammungs- und Entwicklungslehre und experimentell-physiologische Ansätze verfolgte.[^4] Ergebnis dieser Verhandlungen war schließlich die Gründung eines neuen, vom Zoologischen Museum separaten Zoologischen Instituts mit eigener Lehrsammlung, das unter die Leitung des Schwammforschers Franz Eilhard Schulze gestellt wurde.
+Zunächst als drei Teilsammlungen unter dem Dach des Universitätsgebäudes verortet, wurden die zoologische, anatomisch-zootomische und mineralogische Sammlung 1889 in einem neu erbauten Museumsgebäude vereinigt. Dieser Ortwechsel war damals symptomatisch für das komplexe Verhältnis zwischen den Institutionen Universität und Museum. **Museen und ihre Sammlungen entwickelten sich im Laufe des 19. Jahrhunderts zunehmend zu eigenen Orten der wissenschaftlichen Praxis und Repräsentation, während sie gleichzeitig eine (be-)lehrende Funktion in der akademischen Ausbildung einnahmen, aber auch auf eine große [[Öffentlichkeit|theme.putting-animals-on-display]] ‘volksbildend’ wirken sollten.**[^2] Diese doppelte Funktion der universitären Sammlungen äußerte sich in Berlin in der Besetzung der Museumsdirektion, die seit 1810 stets mit der Leitung des Lehrstuhls der jeweiligen Disziplin an der Universität verbunden war. Aufgrund der schrittweisen Etablierung der Zoologie als eine von der Medizin unabhängige Disziplin wurde diese Besetzung jedoch zum Thema von Diskussionen, zusätzlich befeuert durch die sukzessive Differenzierung und Spezialisierung zoologischer Forschungsausrichtungen.[^3] Nach dem Tod Wilhelm Peters 1883, Direktor des Zoologischen Museums, versuchte man mittels einer Umstrukturierung des Lehrstuhls den zeitgemäßen Standards der Forschung zu entsprechen, die neben einer systematischen [[Zoologie|theme.taxonomic-orders]] auch Aspekte der Abstammungs- und Entwicklungslehre und experimentell-physiologische Ansätze verfolgte.[^4] Ergebnis dieser Verhandlungen war schließlich die Gründung eines neuen, vom Zoologischen Museum separaten Zoologischen Instituts mit eigener Lehrsammlung, das unter die Leitung des Schwammforschers Franz Eilhard Schulze gestellt wurde.
 
 <figure>
 
