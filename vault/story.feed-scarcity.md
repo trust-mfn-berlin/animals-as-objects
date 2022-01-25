@@ -7,7 +7,7 @@ desc: |-
   supply situation in the city? The crisis changed the relationship between the
   zoo and urban society — between support and competition. For a while, the zoo
   had a different role and purpose.
-updated: 1642854551778
+updated: 1643133116141
 created: 1621497485660
 license: CC BY-SA
 title_de: Futternot
@@ -37,6 +37,7 @@ cover_image:
 colour_scheme: 10
 tao_type: story
 date_start: 1944-12-31T23:00:00.000Z
+keywords: 'banana grape orange'
 ---
 
 :::EN:::
