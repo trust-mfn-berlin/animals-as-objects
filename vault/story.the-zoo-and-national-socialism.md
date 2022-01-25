@@ -1,31 +1,28 @@
 ---
-id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
-title: The Zoo and National Socialism
-desc: |-
-  During the National Socialist dictatorship, the zoo’s management and
-  supervisory board made themselves available to the regime however they could.
-  The zoo became an instrument of National Socialist propaganda, and
-  excludedJewish visitors. The zoo director was well connected to the regime’s
-  elite. Inwartime, the zoo exploited forced labor.
-updated: 1642939485249
-created: 1619020958263
 license: CC BY-SA
 title_de: Der Zoo im Nationalsozialismus
+created: 1619020958263
 author: Clemens Maier-Wolthausen
 short_desc_de: Propagandainstrument und Zwangsarbeit
 date_end: 1945-12-31T11:00:00.000Z
 published: false
+title: The Zoo and National Socialism
+updated: 1642939485249
+id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 doi: 64y2-m311/12
 translators:
-  translator_de_en: ''
+  translator_de_en: ""
 copy_editors:
   copy_editor_en: Carla Welch
-desc_de: |-
-  In der Zeit der nationalsozialistischen Diktatur boten sich
-  Zooleitungund Aufsichtsrat dem Regime an. Der Zoo wurde zu einem
-  Propagandainstrumentder Nationalsozialisten und schloss jüdische
-  Besucher:innen aus. DerZoodirektor war mit der Elite des Regimes gut vernetzt.
-  Während des Kriegeswurden Zwangsarbeiter:innen ausgebeutet.
+desc: The zoo’s management and board served the National Socialist dictatorship
+  whenever they could. The zoo became an instrument of National Socialist
+  propaganda, and excluded Jewish visitors. The zoo director was well connected
+  to the regime’s elite. In war time, the zoo exploited forced labor.
+desc_de: In der Zeit der nationalsozialistischen Diktatur boten sich Zooleitung
+  und Aufsichtsrat dem Regime an. Der Zoo wurde zu einem Propagandainstrument
+  der Nationalsozialisten und schloss jüdische Besucher:innen aus. Der
+  Zoodirektor war mit der Elite des Regimes gut vernetzt. Während des Krieges
+  wurden Zwangsarbeiter:innen ausgebeutet.
 short_desc: Propaganda instrument and forced labour
 cover_image:
   image: /images/cover-zoo-in-nazi-regime.jpg
