@@ -312,7 +312,7 @@ _Transport zwei gefangener junger Giraffen, 1928. (AZGB, Foto: Lutz Heck. Alle R
 
 </figure>
 
-Um kostengünstig an dringend benötigte, insbesondere die vom Publikum begehrten und nicht in Europa heimische Tiere zu kommen, beschloss der Vorstand des neugegründeten “Actien-Vereins des Zoologischen Gartens bei Berlin” im Sommer 1845 angesichts seiner Geldknappheit, die Königlich Preußischen Konsuln in den wichtigsten auswärtigen Handels- und Küstenstädten zur Schenkung von Tieren aufzufordern.
+Um kostengünstig an dringend benötigte, insbesondere die vom Publikum begehrten und nicht in Europa heimischen Tiere zu kommen, beschloss der Vorstand des neugegründeten “Actien-Vereins des Zoologischen Gartens bei Berlin” im Sommer 1845 angesichts seiner Geldknappheit, die Königlich Preußischen Konsuln in den wichtigsten auswärtigen Handels- und Küstenstädten zur Schenkung von Tieren aufzufordern.
 
 >“Es werde überhaupt sehr zweckmäßig sein, dasselbe Notificatorium an die Kgl. Pr. Consuln in den wichtigsten Handels- und Küstenplätzen zu erlassen, und dieselben gleichzeitig zur Uebersendung wohlfeil angekaufter lebender Thiere event.: zur Schenkung derselben für den künftigen Sommer aufzufordern. Dieser Vorschlag ward dienlich anerkannt und seine Ausführung beschlossen.”[^1]
 
@@ -344,7 +344,7 @@ Die Anzahl der Tiere, die auf dem langen Seeweg [[starben|material.an-iguana-pre
 
 ## Kolonialismus als Voraussetzung
 
-Dass diese Verkaufsstellen in den Häfen und die Auktionen immer gefüllt waren und die Staatsgeschenke zunahmen, hing eng mit der europäischen kolonialen Expansion zusammen. Die Ausstellung nichteuropäischer Wildtiere in großer Zahl in den neugegründeten Zoos ist untrennbar mit der europäischen Expansion und dem Imperialismus verknüpft. **Die Gelegenheitskäufe, die Jagd nach Tieren, ihr Transport nach Europa und die anschließende Ausstellung beruhten auf den militärischen Infrastrukturen und gewaltsamen Bedingungen des Kolonialismus.** Oft jagten Kolonialbeamte selbst Tiere, um sie zu verschenken. Das wird am Beispiel des Löwen deutlich, den der Gouverneur von Deutsch-Ostafrika Hermann v. Wissmann 1896 dem Zoo Berlin schenkte.
+Dass diese Verkaufsstellen in den Häfen und die Auktionen immer gefüllt waren und die Staatsgeschenke zunahmen, hing eng mit der europäischen kolonialen Expansion zusammen. Die Ausstellung nichteuropäischer Wildtiere in großer Zahl in den neugegründeten Zoos ist untrennbar mit dem Imperialismus verknüpft. **Die Gelegenheitskäufe, die Jagd nach Tieren, ihr Transport nach Europa und die anschließende Ausstellung beruhten auf den militärischen Infrastrukturen und gewaltsamen Bedingungen des Kolonialismus.** Oft jagten Kolonialbeamte selbst Tiere, um sie zu verschenken. Das wird am Beispiel des Löwen deutlich, den der Gouverneur von Deutsch-Ostafrika Hermann v. Wissmann 1896 dem Zoo Berlin schenkte.
 
 <figure>
 

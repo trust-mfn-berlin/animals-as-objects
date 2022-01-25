@@ -143,7 +143,7 @@ _Bild von der Auswilderung eines Wisents in der Schorfheide, vermutlich 1938. (A
 
 ## Die Weiterentwicklung: Zuchtbücher und Erhaltungszuchtprogramme
 
-Der Erfolg dieser frühen Erhaltungszuchten animierte die Leitungen internationaler Zoos zur Einführung weiterer Zuchtbücher – just in der Zeit, als Dathe, Klös und Grzimek über die beste Strategie zur Erhaltung des Orang-Utans stritten. Auf der Sitzung des Internationalen Verbands der Zoodirektoren, dem Vorgänger der World Association of Zoos and Aquariums, in Colombo 1966 verpflichteten sich weitere Zoos zur Führung von Zuchtbüchern für gefährdete Arten. Folgende Zoos übernahmen beispielsweise die Führung von Zuchtbüchern:
+Der Erfolg dieser frühen Erhaltungszuchten animierte die Leitungen internationaler Zoos zur Einführung weiterer Zuchtbücher – just in der Zeit, als Dathe, Klös und Grzimek über die beste Strategie zur Erhaltung des Orang-Utans stritten. Auf der Sitzung des Internationalen Verbands der Zoodirektoren in Colombo 1966 verpflichteten sich weitere Zoos zur Führung von Zuchtbüchern für gefährdete Arten. Folgende Zoos übernahmen beispielsweise die Führung von Zuchtbüchern:
 
 - Antwerpen für Okapis und Bonobos,
 - Basel für das Panzernashorn und Zwergflusspferde,
@@ -169,7 +169,7 @@ _Beispiel eines Zuchtbuchs - Das Internationale Zuchtbuch für das Breitmaulnash
 
 </figure>
 
-Es ist offensichtlich, dass sich eine Lesart des Artenschutzes durchsetzte, die den Aufbau einer in menschlicher Obhut gehaltenen ‘Reservepopulation’ favorisierte. Einer ihrer nach wie vor einflussreichsten Verfechter war Heinrich Dathe. Als der Internationale Zoodirektorenverband 1973 in Japan tagte, meldete er sich mit dem Vortrag “Remarks to Zoological Gardens as important places for conservation and breeding of threatened species” an.[^18] Der Vortrag selbst ist nicht überliefert, am Titel wird aber deutlich, dass Heinrich Dathe für seine Vorstellung von Artenschutz durch die Erhaltungszucht in Zoos werben wollte.
+Es ist offensichtlich, dass sich eine Lesart des Artenschutzes durchsetzte, die den Aufbau einer in menschlicher Obhut gehaltenen Reservepopulation favorisierte. Einer ihrer nach wie vor einflussreichsten Verfechter war Heinrich Dathe. Als der Internationale Zoodirektorenverband 1973 in Japan tagte, meldete er sich mit dem Vortrag “Remarks to Zoological Gardens as important places for conservation and breeding of threatened species” an.[^18] Der Vortrag selbst ist nicht überliefert, am Titel wird aber deutlich, dass Heinrich Dathe für seine Vorstellung von Artenschutz durch die Erhaltungszucht in Zoos werben wollte.
 
 Dieser Ansatz war und ist unter Zoos in Deutschland und der Welt anschlussfähig und wird seit einigen Jahren auch durch digitalen Datenaustausch über die Plattform [[material.species360]] unterstützt. Die über viele Jahrzehnte gedruckten Zuchtbücher wurden somit abgelöst. Die meisten Nachzucht- oder Erhaltungszuchtprogramme in europäischen Zoos werden seit einigen Jahrzehnten im Rahmen des europäischen Zooverbandes (European Association of Zoos and Aquariums/ EAZA) als sogenannte EEPs (EAZA Ex-situ Program – also Zuchtprogramme in menschlicher Obhut) organisiert.
 
