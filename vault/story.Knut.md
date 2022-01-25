@@ -6,10 +6,9 @@ author: Clemens Maier-Wolthausen
 short_desc_de: “Knuts” ökonomische und emotionale Bedeutung in Zeiten des Klimawandels
 date_end: 2011-03-18T23:00:00.000Z
 published: false
-desc: The polar bear “Knut”, born in 2006, achieved a popularity that took on
-  dimensions previously unknown for a single zoo animal. What were the
-  mechanisms that allowed this zoo animal to make such a strong impact – even
-  after its death?
+desc: Polar bear “Knut”, born in 2006, achieved a level of popularity never seen
+  before in the context of zoo animals. What caused his sensational fame well
+  beyond his death?
 desc_de: Der 2006 geborene Eisbär “Knut” entwickelte eine bis dahin für ein
   einzelnes Zootier ungekannte Popularität. Welche Mechanismen haben diese
   starke Wirkung eines Zootiers über seinen Tod hinaus bedingt?
