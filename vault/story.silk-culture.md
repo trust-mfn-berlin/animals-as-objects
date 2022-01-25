@@ -71,12 +71,11 @@ This breeding process, entangled in complex [[metabolisms|theme.logistical-metab
 
 <figure>
  
-![Flat display case with wooden frame. Caterpillar threads, eggs, pupae, and fully developed moths are fixed in three rows, with small type- and handwritten labels.](/images/guests/bekleidung-seide-maulbeerspinner-clothing-silk-silkworm-museum-naturkunde-natural-history-berlin.JPG)
- 
+![A shallow display case with a wooden frame and a white background. Left-hand side: 66 moths in various shades of beige and brown. Right-hand side: numerous eggs, caterpillars, pupae, all fixed in place with fine needles. The case is being held by a person wearing a white lab coat.](/images/guests/museum-of-natural-history-naturkundemuseum-berlin-maulbeerspinner-silkworm-display-schaukasten.JPG)
  
 <figcaption>
  
-_Display case from the Lepidoptera collection at the Berlin Museum für Naturkunde Berlin. (Image: Britta Lange/MfN. All rights reserved.)_
+_Old display case showing the developmental stages of_ Bombyx mori, _Berlin Museum of Natural History, Lepidoptera collection, 2020. (Image: Britta Lange/MfN. All rights reserved.)_
 
 </figcaption>
  
@@ -170,12 +169,12 @@ Die ursprünglich aus China stammenden Seidenraupen wurden im Gegensatz zu sogen
 Mit diesem Züchtungsvorgang, der mit [[Metabolismen|theme.logistical-metabolisms]] verknüpft war,  verbanden sich in Preußen, Südeuropa und China bedeutende Wirtschaftszweige und die mit ihnen verflochtene Sozialgeschichte.
 
 <figure>
- 
-![Flacher Schaukasten mit Holzrahmen. In drei Reihen sind Raupenfäden, Eier, Puppen und ausgewachsene Schmetterlinge befestigt, mit kleinen maschinen- und handgeschriebenen Beschriftungen.](/images/guests/bekleidung-seide-maulbeerspinner-clothing-silk-silkworm-museum-naturkunde-natural-history-berlin.JPG)
+
+![Flacher Schaukasten mit Holzrahmen und weißem Hintergrund. Linke Seite: 66 Motten in verschiedenen Beige- und Brauntönen. Rechte Seite: zahlreiche Eier, Raupen, Puppen. Fixierung durch feine Nadeln. Der Kasten wird von einer Person in weißem Kittel gehalten.](/images/guests/museum-of-natural-history-naturkundemuseum-berlin-maulbeerspinner-silkworm-display-schaukasten.JPG)
  
 <figcaption>
  
-_Schaukasten im Museum für Naturkunde Berlin, Sammlung Lepidoptera. (Foto: Britta Lange/MfN. Alle Rechte vorbehalten.)_
+_Alter Schaukasten zu Entwicklungsstadien von_ Bombyx mori, _Museum für Naturkunde Berlin, Sammlung Lepidoptera, 2020. (Foto: Britta Lange//MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
  
