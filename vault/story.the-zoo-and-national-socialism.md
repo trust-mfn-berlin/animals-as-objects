@@ -485,7 +485,7 @@ Auch die Belegschaft des Zoos war wie die vieler Großbetriebe in Berlin binnen 
 
 <figcaption>
 
-_Die Zoo-Musikkapelle, 1938. (AZGB, Foto: Springer. Alle Rechte vorbehalten.)_
+_Die Zoo-Musikkapelle mit einer Darstellung von [[“Bobby”|story.bobby-tracking-body-parts2]] auf dem Schlagzeug, 1938. (AZGB, Foto: Springer. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
