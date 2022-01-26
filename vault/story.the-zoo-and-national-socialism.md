@@ -7,7 +7,7 @@ short_desc_de: Propagandainstrument und Zwangsarbeit
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: The Zoo and National Socialism
-updated: 1642939485249
+updated: 1643218193103
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 doi: 64y2-m311/12
 translators:
@@ -103,7 +103,7 @@ As with many of Berlin’s large companies, the zoo’s workforce was also ‘Na
 
 <figcaption>
 
-_The zoo band with [[“Bobby”|story.bobby-tracking-body-parts2]] the gorilla’s face displayed on the band’s drum kit, 1938. (AZGB, image: Springer. All rights reserved.)_
+_The zoo band with [[“Bobby”|story.bobby-tracking-body-parts]] the gorilla’s face displayed on the band’s drum kit, 1938. (AZGB, image: Springer. All rights reserved.)_
 
 </figcaption>
 
@@ -484,7 +484,7 @@ Auch die Belegschaft des Zoos war wie die vieler Großbetriebe in Berlin binnen 
 
 <figcaption>
 
-_Die Zoo-Musikkapelle mit einer Darstellung von [[“Bobby”|story.bobby-tracking-body-parts2]] auf dem Schlagzeug, 1938. (AZGB, Foto: Springer. Alle Rechte vorbehalten.)_
+_Die Zoo-Musikkapelle mit einer Darstellung von [[“Bobby”|story.bobby-tracking-body-parts]] auf dem Schlagzeug, 1938. (AZGB, Foto: Springer. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
