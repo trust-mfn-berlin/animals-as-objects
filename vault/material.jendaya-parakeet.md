@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1642797297925
+updated: 1643216237773
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 doi: 64y2-m311/69
@@ -311,7 +311,7 @@ _Storing and classifying the partial skeleton in the collection (Image: Mareike 
 
 <figcaption>
 
-_Vogelbälge auf dem Weg in die Sammlung (Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
+_Vogelbälge auf dem Weg in die Sammlung (Foto: Mareike Vennen/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -520,7 +520,7 @@ Daraufhin wurde das Skelett noch einmal eingefroren (um möglicherweise auf und 
 
 <figcaption>
 
-_Vogelbälge auf dem Weg in die Sammlung (Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
+_Vogelbälge auf dem Weg in die Sammlung (Foto: Mareike Vennen/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -534,7 +534,7 @@ Dort übertrug der Sammlungspfleger Pascal Eckhoff die Informationen des Datenbl
 
 <figcaption>
 
-_In der Vogelsammlung wird der Balg in die Datenbank eingetragen. (Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
+_In der Vogelsammlung wird der Balg in die Datenbank eingetragen. (Foto: Mareike Vennen/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -546,7 +546,7 @@ _In der Vogelsammlung wird der Balg in die Datenbank eingetragen. (Foto: Mareike
 
 <figcaption>
 
-_Etikett zur Identifizierung des Balgs (Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
+_Etikett zur Identifizierung des Balgs (Foto: Mareike Vennen/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -560,7 +560,7 @@ Am Ende ist dieser Vogel unter der Inventarnummer ‘ZMB 2021.171’ in der Samm
 
 <figcaption>
 
-_Einordnen des Teilskelett in die Sammlung (Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
+_Einordnen des Teilskelett in die Sammlung (Foto: Mareike Vennen/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
