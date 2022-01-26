@@ -1,29 +1,27 @@
 ---
+id: f7b68ae7-0631-49cd-90a5-04427f79e07e
+title: Zoos and Conservation
+desc: Since only a relatively short time zoos intensify their conservation efforts.
+updated: 1643108663766
+created: 1618994200982
 license: CC BY-SA
 title_de: Zoos und Artenschutz
-created: 1618994200982
 author: Clemens Maier-Wolthausen
-short_desc_de: Ausstellen oder schützen?
-date_end: 2022-12-30T23:00:00.000Z
-published: false
-title: Zoos and Conservation
-updated: 1643108663766
-id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 doi: 64y2-m311/75
-desc: In recent times, zoos have begun advertising themselves as centres for
-  species conservation. Well into the 1970s, however, a majority of their
-  animals had been caught in the wild. What changed zoos and what dilemmas are
-  they facing?
-desc_de: Zoos bewerben sich heute als Artenschutzzentren. Bis in die 1970er
+desc_de: |-
+  Zoos bewerben sich heute als Artenschutzzentren. Bis in die 1970er
   Jahre wurde die Mehrzahl ihrer ausgestellten Tiere allerdings in deren
   Habitaten gefangen. Welche Entwicklungen haben Zoos durchlaufen und welche
   Dilemmata haben sich ergeben?
 short_desc: Since only a relatively short time zoos intensify their conservation efforts.
+short_desc_de: Ausstellen oder schützen?
 cover_image:
   image: /images/orangs_wegweiser_1927.jpg
 colour_scheme: 15
 tao_type: story
-date_start: 1923-01-01T23:09:00.000Z
+date_start: '1923-01-01T23:09:00.000Z'
+date_end: '2022-12-30T23:00:00.000Z'
+published: false
 ---
 
 :::EN:::
@@ -186,7 +184,7 @@ Praktisch alle in den deutschen, europäischen und internationalen Zooverbänden
 
 ## Koloniales Erbe und bevormundende Hilfe
 
-Die Ursprünge der Naturschutzbewegung und insbesondere von Nationalparks liegen in kolonialen Jagdtraditionen und Herrschaftsverhältnissen.[^24] So hat der Historiker Bernhard Gißibl in zahlreichen Beiträgen dargelegt, wie ‘Natur’ zu einer Ressource des [[deutschen Kolonialismus|material.an-evocative-image-of-the-empire]] wurde, die sowohl ausgebeutet als auch geschützt werden sollte.[^25] Dieser Politisierung und Ökonomisierung von Natur geht der Umwelthistoriker Frank Uekötter am Beispiel der Naturschutzbewegung der [[1930er Jahre|story.the-zoo-and-national-socialism]] nach. Er hat die Wurzeln der deutschen Naturschutzbewegung in nationalistischen Ressentiments, ihre Auswirkungen auf die nationalsozialistische Ideologie und deren Folgen bis heute untersucht.[^26] Auch der bekannteste Vertreter des modernen Habitatschutzes, Bernhard Grzimek, wurde in diesen Paradigmen sozialisiert, wie seine Arbeit vielfach bezeugt – etwa als er vorschlug, die für die Naturreservate in der Serengeti notwendigen Flächen durch zwangsweise durchgeführte Umsiedlungen indigener Gruppen zu räumen.[^27] Auch der moderne Artenschutz ist nicht frei von Rekursen auf koloniale Ungleichheiten.[^28] Zoos weltweit – und insbesondere Zoos in den ehemaligen Kolonialstaaten – müssen daher ein Bewusstsein für das konfliktreiche Erbe moderner Konzepte des Artenschutzes in den Lebensräumen der bedrohten Tiere entwickeln, wollen sie nicht durch ihre Schutz- und Forschungsprogramme vor Ort koloniale Strukturen reproduzieren.
+Die Ursprünge der Naturschutzbewegung und insbesondere von Nationalparks liegen in kolonialen Jagdtraditionen und Herrschaftsverhältnissen.[^24] So hat der Historiker Bernhard Gißibl in zahlreichen Beiträgen dargelegt, wie ‘Natur’ zu einer Ressource des [[deutschen Kolonialismus|material.the-german-colonial-hunting-exhibition]] wurde, die sowohl ausgebeutet als auch geschützt werden sollte.[^25] Dieser Politisierung und Ökonomisierung von Natur geht der Umwelthistoriker Frank Uekötter am Beispiel der Naturschutzbewegung der [[1930er Jahre|story.the-zoo-and-national-socialism]] nach. Er hat die Wurzeln der deutschen Naturschutzbewegung in nationalistischen Ressentiments, ihre Auswirkungen auf die nationalsozialistische Ideologie und deren Folgen bis heute untersucht.[^26] Auch der bekannteste Vertreter des modernen Habitatschutzes, Bernhard Grzimek, wurde in diesen Paradigmen sozialisiert, wie seine Arbeit vielfach bezeugt – etwa als er vorschlug, die für die Naturreservate in der Serengeti notwendigen Flächen durch zwangsweise durchgeführte Umsiedlungen indigener Gruppen zu räumen.[^27] Auch der moderne Artenschutz ist nicht frei von Rekursen auf koloniale Ungleichheiten.[^28] Zoos weltweit – und insbesondere Zoos in den ehemaligen Kolonialstaaten – müssen daher ein Bewusstsein für das konfliktreiche Erbe moderner Konzepte des Artenschutzes in den Lebensräumen der bedrohten Tiere entwickeln, wollen sie nicht durch ihre Schutz- und Forschungsprogramme vor Ort koloniale Strukturen reproduzieren.
 
 Der Weltzooverband bemerkt dies zumindest in seiner Weltnaturschutzstrategie aus dem Jahr 2015:
 

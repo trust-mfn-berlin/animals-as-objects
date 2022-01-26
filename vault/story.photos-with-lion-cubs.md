@@ -1,30 +1,32 @@
 ---
+id: 4U5dFDf18mKRPdRnzu35p
+title: Photos with Lion Cubs
+desc: |-
+  In many zoos, visitors once had the opportunity to have their photo taken
+  with lion cubs. When did this motif emerge, and why has it disappeared from
+  today's zoos?
+updated: 1643216580374
+created: 1640340586550
 license: CC BY-SA
 title_de: Bilder mit Löwenbabys
-created: 1640340586550
 author: Mareike Vennen
-short_desc_de: Raubtier, Zootier, Kuscheltier? Politiken des Tierbildes
+short_desc_de: 'Raubtier, Zootier, Kuscheltier? Politiken des Tierbildes'
 date_end: 1994-12-24T10:34:00.000Z
 published: false
-desc: In many zoos, visitors once had the opportunity to have their photo taken
-  with lion cubs. When did this motif emerge and why has it disappeared from
-  today's zoos?
-desc_de: In vielen Zoos konnte man sich mit einem Löwenbaby fotografieren
-  lassen. Wann kam dieses Motiv auf und warum ist es heute aus den Zoos
-  verschwunden?
-short_desc: Predators, zoo animals, or stuffed toys? The politics of animal pictures
-cover_image:
-  image: /images/Dieter-Herfurth-1939-mit-Loewenbaby.jpg
-date_start: 1890-12-24T11:24:39.000Z
-feature: true
-title: Photos with Lion Cubs
-updated: 1643133666477
-id: 4U5dFDf18mKRPdRnzu35p
 doi: 64y2-m311/67
 translators:
   translator_de_en: Lydia J. White
+desc_de: |-
+  In vielen Zoos konnte man sich mit einem Löwenbaby fotografieren
+  lassen. Wann kam dieses Motiv auf und warum ist es heute aus den Zoos
+  verschwunden?
+short_desc: 'Predators, zoo animals, or stuffed toys? The politics of animal pictures'
+cover_image:
+  image: /images/Dieter-Herfurth-1939-mit-Loewenbaby.jpg
 colour_scheme: 14
 tao_type: story
+date_start: 1890-12-24T11:24:39.000Z
+feature: true
 ---
 
 :::EN:::
@@ -119,7 +121,7 @@ _Page from the_ Guide to Berlin Zoological Garden _from 1971, advertising the zo
 </figure>
 
 
-In the 1960s, there was a downright boom in lion cub photography as photo booths were set up in the safari and leisure parks being opened far and wide. Christina Wessely attributes this boom to the way humans perceived wild animals, and to the attitudes towards them in 1960s and 1970s Germany. She set out in search of the places where ‘wild animals’ could be found in the (West) German media of the 1960s, and found them in places like the movies, above all in films like _Serengeti Shall Not Die_ by the Frankfurt zoo director Bernhard Grzimek, who had been a councillor in the Reich Ministry of Food and Agriculture during the [[Nazi period|story.the-zoo-and-national-socialism]] before going on to become Conservation Officer for the German Federal Government in the 1970s. The film studies scholar Vinzenz Hediger reads this film, which helped to spread the ideas of the conservation movement after the Second World War, as a “piece of late colonial work in mourning”, “staged in the medium of ecological thinking”.[^7] On the screen, the transition from killing to depicting, from hunting to protecting, is programmatically set in scene. In order to understand the different image politics underpinning these practices, however, we have to go further back in time to big-game hunting and early wildlife and nature conservation programmes in the [[German colonies|material.an-evocative-image-of-the-empire]].
+In the 1960s, there was a downright boom in lion cub photography as photo booths were set up in the safari and leisure parks being opened far and wide. Christina Wessely attributes this boom to the way humans perceived wild animals, and to the attitudes towards them in 1960s and 1970s Germany. She set out in search of the places where ‘wild animals’ could be found in the (West) German media of the 1960s, and found them in places like the movies, above all in films like _Serengeti Shall Not Die_ by the Frankfurt zoo director Bernhard Grzimek, who had been a councillor in the Reich Ministry of Food and Agriculture during the [[Nazi period|story.the-zoo-and-national-socialism]] before going on to become Conservation Officer for the German Federal Government in the 1970s. The film studies scholar Vinzenz Hediger reads this film, which helped to spread the ideas of the conservation movement after the Second World War, as a “piece of late colonial work in mourning”, “staged in the medium of ecological thinking”.[^7] On the screen, the transition from killing to depicting, from hunting to protecting, is programmatically set in scene. In order to understand the different image politics underpinning these practices, however, we have to go further back in time to big-game hunting and early wildlife and nature conservation programmes in the [[German colonies|material.the-german-colonial-hunting-exhibition]].
 
 At the beginning of the 20th century, figures like Carl Georg Schillings, one of the most famous German big-game hunters, wildlife photographers, and so-called ‘Africa travellers’, was one of the people propagating a shift from hunting to photography, although for Schillings himself, the two practices – hunting and photography – still existed side by side. As he began photographing animals in the wild and later campaigned for their conservation, he was also killing innumerable lions that ended up as hunting trophies.
  
@@ -433,7 +435,7 @@ _So sah der Stand des Zoofotografen im Westberliner Zoo in den 1970er Jahren aus
 
  </figure>
  
-In den 1960er Jahren erlebte die Löwenbabyfotografie einen regelrechten Boom, da nun auch in den vielerorts eröffneten Safari- und Freizeitparks Fotostände eingerichtet wurden. Christina Wessely bringt diese Konjunktur mit dem Verhältnis, der Wahrnehmung von und dem Umgang mit ‘wilden Tieren’ im Deutschland der 1960er- und 1970er Jahre in Zusammenhang. Sie hat sich auf die Suche nach den Orten gemacht, wo ‘wilde Tiere’ in (West-)Deutschland in den 1960er Jahren medial anzutreffen waren und fand sie unter anderem in Kinofilmen, allen voran _Serengeti darf nicht sterben_ des Frankfurter Zoodirektors Bernhard Grzimeks, vor dem Krieg noch Regierungsrat im Reichsministerium für Ernährung und Landwirtschaft und in den 1970er Jahren dann Naturschutzbeauftragter der deutschen Bundesregierung. Der Filmwissenschaftler Vinzenz Hediger liest diesen Film, der zur Verbreitung der Naturschutzbewegung nach dem Zweiten Weltkrieg beigetragen hat, als “ein Stück spätkoloniale Trauerarbeit”, “ausgetragen im Medium des ökologischen Denkens”.[^7] Auf der Leinwand wird der Übergang vom Töten zum Abbilden, von der Jagd zum Schutz programmatisch in Szene gesetzt. Um die unterschiedlichen Bildpolitiken zu verstehen, die mit diesen Praktiken einhergehen, muss man in der Geschichte indes weiter zurückgehen, zur Großwildjagd und den frühen Wild- und Naturschutzprogrammen in den damaligen [[deutschen Kolonien|material.an-evocative-image-of-the-empire]].
+In den 1960er Jahren erlebte die Löwenbabyfotografie einen regelrechten Boom, da nun auch in den vielerorts eröffneten Safari- und Freizeitparks Fotostände eingerichtet wurden. Christina Wessely bringt diese Konjunktur mit dem Verhältnis, der Wahrnehmung von und dem Umgang mit ‘wilden Tieren’ im Deutschland der 1960er- und 1970er Jahre in Zusammenhang. Sie hat sich auf die Suche nach den Orten gemacht, wo ‘wilde Tiere’ in (West-)Deutschland in den 1960er Jahren medial anzutreffen waren und fand sie unter anderem in Kinofilmen, allen voran _Serengeti darf nicht sterben_ des Frankfurter Zoodirektors Bernhard Grzimeks, vor dem Krieg noch Regierungsrat im Reichsministerium für Ernährung und Landwirtschaft und in den 1970er Jahren dann Naturschutzbeauftragter der deutschen Bundesregierung. Der Filmwissenschaftler Vinzenz Hediger liest diesen Film, der zur Verbreitung der Naturschutzbewegung nach dem Zweiten Weltkrieg beigetragen hat, als “ein Stück spätkoloniale Trauerarbeit”, “ausgetragen im Medium des ökologischen Denkens”.[^7] Auf der Leinwand wird der Übergang vom Töten zum Abbilden, von der Jagd zum Schutz programmatisch in Szene gesetzt. Um die unterschiedlichen Bildpolitiken zu verstehen, die mit diesen Praktiken einhergehen, muss man in der Geschichte indes weiter zurückgehen, zur Großwildjagd und den frühen Wild- und Naturschutzprogrammen in den damaligen [[deutschen Kolonien|material.the-german-colonial-hunting-exhibition]].
  
 Anfang des 20. Jahrhunderts gehörten Figuren wie Carl Georg Schillings, einer der bekanntesten deutschen Großwildjäger, Tierfotografen und sogenannten Afrika-Reisenden, zu jenen, die den Wechsel von der Jagd- zur Fotopraxis propagierten. Bei Schillings selbst existierten Praktiken – das Jagen und das Fotografieren – noch parallel. Während er begann, Tiere in freier Wildbahn abzulichten und sich später für deren Schutz einzusetzen, erlegte er noch zahllose Löwen, die als Jagdtrophäen endeten.
  

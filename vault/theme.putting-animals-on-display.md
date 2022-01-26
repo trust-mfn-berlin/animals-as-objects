@@ -1,39 +1,42 @@
 ---
+id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
+title: Putting Animals on Display
+desc: |-
+  Zoos justifications for keeping animals and putting them on display have
+  changed a great deal through the centuries, from recreation for urban
+  populations to research and wildlife conservation. The now typical,
+  geographically structured zoo in Berlin with its exoticising architecture was
+  preceded by a taxonomically structured zoo that placed far more value on the
+  completeness of its order than on the quality of the conditions in which
+  animals were kept.
+updated: 1643036306222
+created: 1618572893774
 license: CC BY-SA
 title_de: Tiere zur Schau stellen
-created: 1618572893774
 author: Clemens Maier-Wolthausen
-short_desc_de: Wie und warum stellen Zoos Tiere aus?
-date_end: 2022-12-27T23:01:33.091Z
-published: false
-desc: "Zoos have greatly changed their justifications for keeping animals and
-  putting them on display: from recreation for city dwellers to research and
-  wildlife conservation. While now the Berlin Zoo’s layout follows a geographic
-  order featuring exoticizing architecture, it used to be organised
-  taxonomically, placing far more value on the completeness of its collection
-  than on the quality of animal husbandry."
-desc_de: Die Begründungen von Zoos, warum sie Tiere halten und zur Schau
+doi: 64y2-m311/28
+translators:
+  translator_de_en: Lydia J. White
+desc_de: |-
+  Die Begründungen von Zoos, warum sie Tiere halten und zur Schau
   stellen, haben sich über die Jahrhunderte stark gewandelt, von Erholung der
   Stadtbevölkerung über Forschung bis hin zu Artenschutz. Dem heute typischen,
   geografisch geordneten Berliner Zoo mit exotisierender Architektur ging ein
   taxonomisch geordneter Zoo voraus, der die Vollständigkeit der Ordnung weitaus
   bedeutsamer bewertete als die Qualität der Haltungsbedingungen.
 short_desc: How and why do zoos put animals on display?
+short_desc_de: Wie und warum stellen Zoos Tiere aus?
 cover_image:
   image: /images/showing-animals-berlin-zoo-antilopenhaus-around-1920.jpg
   alt: |-
     Antilopenhaus um 1920 im Berliner Zoo. Antelope building around 1920 in
     the Berlin zoo. Source: AZGB. All rights reserved.
-date_start: 1843-12-31T23:06:32.000Z
-feature: true
-title: Putting Animals on Display
-updated: 1643036306222
-id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
-doi: 64y2-m311/28
-translators:
-  translator_de_en: Lydia J. White
 colour_scheme: 1
 tao_type: theme
+date_start: 1843-12-31T23:06:32.000Z
+date_end: 2022-12-27T23:01:33.091Z
+published: false
+feature: true
 ---
 
 :::EN:::
@@ -61,7 +64,7 @@ The legislature thus distinguishes zoos from circuses and pet shops while simult
 
 ## Changing Objectives and Purposes
 
-In premodern times and up into the period of absolutism, the main reason for keeping wildlife was to privately entertain rulers or to [[flaunt their power|material.an-evocative-image-of-the-empire]].[^1] Conversely, the zoos founded over the course of the 19th century, claimed that they were serving other purposes. The Bronx Zoo was intended to serve as a breeding facility for endangered American animals and London Zoo as a site of [[scientific research|story.classifying-cycladophora]].[^2]
+In premodern times and up into the period of absolutism, the main reason for keeping wildlife was to privately entertain rulers or to [[flaunt their power|material.the-german-colonial-hunting-exhibition]].[^1] Conversely, the zoos founded over the course of the 19th century, claimed that they were serving other purposes. The Bronx Zoo was intended to serve as a breeding facility for endangered American animals and London Zoo as a site of [[scientific research|story.classifying-cycladophora]].[^2]
 
 Martin Hinrich Lichtenstein was the founding director of Berlin’s zoo, the oldest in Germany, as well as director of the Zoological Museum and Professor of Zoology at Berlin University. Lichtenstein applied to the Prussian King Frederick William IV to establish an “institution” (Anstalt) that would be tasked with “breeding and proliferating beautiful and useful animals, [and] refining our [[domestic animals|material.lions-or-cows]]”.
 
@@ -343,7 +346,7 @@ Dadurch grenzt der Gesetzgeber Zoos von Zirkussen und Tierhandlungen ab und besc
 
 ## Wandelbarkeit der Ziele und Zwecke
 
-In vormoderner Zeit und bis in die Zeit des Absolutismus diente die Haltung von Wildtieren vor allem der persönlichen Unterhaltung von Herrschenden oder dem [[Ausdruck ihrer Macht|material.an-evocative-image-of-the-empire]].[^1] Die im Verlauf des 19. Jahrhunderts gegründeten Zoos schrieben sich hingegen andere Zwecke auf ihre Fahne. Der Bronx Zoo sollte der Zucht gefährdeter amerikanischer Tiere dienen und der Londoner Zoo der [[wissenschaftlichen Forschung|story.classifying-cycladophora]].[^2]
+In vormoderner Zeit und bis in die Zeit des Absolutismus diente die Haltung von Wildtieren vor allem der persönlichen Unterhaltung von Herrschenden oder dem [[Ausdruck ihrer Macht|material.the-german-colonial-hunting-exhibition]].[^1] Die im Verlauf des 19. Jahrhunderts gegründeten Zoos schrieben sich hingegen andere Zwecke auf ihre Fahne. Der Bronx Zoo sollte der Zucht gefährdeter amerikanischer Tiere dienen und der Londoner Zoo der [[wissenschaftlichen Forschung|story.classifying-cycladophora]].[^2]
 
 Der Gründungsdirektor des Berliner Zoos, des ältesten deutschen Zoos, Martin Hinrich Lichtenstein, gleichzeitig Direktor des Zoologischen Museums und Professor für Zoologie der Berliner Universität, warb 1840 beim preußischen König Friedrich Wilhelm IV. um die Einrichtung einer “Anstalt”, die als Aufgabe die “Vermehrung und Verbreitung schöner und nützlicher Tiere, die Veredlung unserer [[Haustiere|material.lions-or-cows]]” in den Blick nahm.
 
