@@ -45,7 +45,7 @@ The Neptune Sandbox Berlin database is the current implementation of the Neptune
 
 <figcaption>
 
-_This video illustrates the NSB database and its use in the Museum für Naturkunde Berlin. (Video: Filippo Bertoni/MfN. All rights reserved.)_
+_This video illustrates the work of the micropaleontology research group at the Museum für Naturkunde Berlin by interviewing Johan Renaudie, micropaleontologist and manager of the NSB database. This digital tool not only collects an incredible amount of data from decades of deep sea drilling, but it also allows scientists to bring different kinds of data together for the study of biostratigraphy, micropaleontology, but also geology and paleoclimatology. (Video: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -76,7 +76,7 @@ Die Datenbank Neptune Sandbox Berlin ist die aktuelle Version der Neptun Datenba
 
 <figcaption>
 
-_Dieses Video veranschaulicht die NSB Datenbank und ihre Verwendung im Museum für Naturkunde. (Video: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
+_In einem Interview mit Johan Renaudie, Mikropaläontologe und Leiter der NSB-Datenbank, gibt dieses Video Einblicke in die Arbeit der mikropaläontologischen Forschungsgruppe am Museum für Naturkunde Berlin. In der NSB-Datenbank sammeln und versammeln sich nicht nur enorme Mengen an Daten aus Tiefseebohrungen, die über Jahrzehnte gesammelt wurden. Diese digitale Datenbank ermöglicht es Wissenschaftler:innen auch, wichtige Daten zur Untersuchung der Biostratigrafie und Mikropaläontologie, aber auch der Geologie und Paläoklimatologie zusammenzuführen. (Video: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 

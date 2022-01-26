@@ -1,16 +1,19 @@
 ---
 license: CC BY-SA
-title: Deep Sea Drilling
 title_de: Aus den Böden der Tiefsee
 created: 1619107396222
+author: Filippo Bertoni
+short_desc_de: Globales Datensammeln am Meeresgrund
+date_end: 2022-12-23T21:52:24.799Z
+published: false
+title: Deep Sea Drilling
 updated: 1642851877714
 id: d76483c9-9cd4-454e-a737-fcdf683c6d0d
-author: Filippo Bertoni
 doi: 64y2-m311/59
 translators:
   translator_en_de: Jan-Peter Herrmann
 desc: In the 1950s, deep sea drilling became enrolled in a global effort to map
-  the dynamics and history of the planet. Its planetary socio-technical
+  the dynamics and history of the planet. Its planetary sociotechnical
   infrastructure remains one of the main sources of micropaleontological,
   climatological, and earth system sciences data. While instrumental in
   understanding and exploiting the planet, this infrastructure also allows data
@@ -24,14 +27,11 @@ desc_de: In den 1950er Jahren wurden Tiefseebohrungen zu einem wichtigen
   sie auch immer wieder wertvolle Daten und Objekte für das Museum für
   Naturkunde Berlin.
 short_desc: " A global effort to collect data from the ocean-floor"
-short_desc_de: Globales Datensammeln am Meeresgrund
 cover_image:
   image: /images/joides-resolution.jpeg
 colour_scheme: 3
 tao_type: story
 date_start: 1957-12-23T17:55:00.000Z
-date_end: 2022-12-23T21:52:24.799Z
-published: false
 ---
 
 :::EN:::

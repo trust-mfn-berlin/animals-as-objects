@@ -1,23 +1,21 @@
 ---
-id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
-title: Feeding Prohibited
-desc: |-
-  Nowadays, zoos impose a divide between animals and humans that is mostly
-  taken for granted, but it was long commonplace for visitors to have direct
-  contact with the animals through feeding. How, when, and why did zoos
-  introduce a general ban on feeding?
-updated: 1642854563736
-created: 1620752897039
 license: CC BY-SA
+title: Feeding Prohibited
 title_de: Füttern verboten
+created: 1620752897039
+updated: 1642854563736
+id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 author: Mareike Vennen
 doi: 64y2-m311/26
 translators:
-  translator_de_en: ''
+  translator_de_en: ""
 copy_editors:
   copy_editor_en: Carla Welch
-desc_de: |-
-  Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
+desc: Nowadays, zoos impose a strict divide between animals and humans but this
+  has not always been the case. It used to be common for visitors to get close
+  to the animals by feeding them. How, when, and why did zoos introduce a
+  general ban on such feeding?
+desc_de: Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
   selbstverständlich erscheint, war lange Zeit ein direkter Kontakt beim Füttern
   durch die Besucher:innen üblich. Wie, wann und weshalb führten Zoos ein
   Fütterungsverbot ein?
@@ -31,8 +29,8 @@ cover_image:
     1980. Source: AZGB, photo Kühn. All rights reserved.
 colour_scheme: 4
 tao_type: story
-date_start: '1958-12-31T23:00:00.000Z'
-date_end: ''
+date_start: 1958-12-31T23:00:00.000Z
+date_end: ""
 ---
 
 :::EN:::
@@ -49,7 +47,7 @@ _Article in the_ Tagesspiegel _on the feeding ban at Berlin Zoo occasioned by �
 
 </figure>
 
-In 1960, Berlin Zoo’s elephant cow “Jambo” fell ill due to overfeeding by visitors and eventually had to be put down. The elephant’s death was followed by a heated debate centered on the proper care and feeding of animals in captivity. “Jambo’s” death led to a general ban on feeding the animals at Berlin Zoo from 10 April 1960.
+In 1960, Berlin Zoo’s elephant cow “Jambo” fell ill due to overfeeding by visitors and eventually had to be put down. The elephant’s [[death|material.dead-animals]] was followed by a heated debate centered on the proper care and feeding of animals in captivity. “Jambo’s” death led to a general ban on feeding the animals at Berlin Zoo from 10 April 1960.
 
 The elephant’s death was not the first case of a zoo animal dying as a result of [[overfeeding|story.feeding-and-overfeeding]]. Visitors giving zoo animals food they bring into the zoo is part of a long history of incorrect or excessive feeding. Visitors had essentially been permitted to feed the animals since zoological gardens were established in the 19th century. The zoo guidebooks of the time – small, printed pamphlets – invited visitors to feed the animals, but even then there were certain restrictions. In 1873, Berlin Zoo’s guidebook already advised visitors against feeding some animals, and as early as 1879, visitors to the Hamburg Zoological Garden were also “most humbly and urgently requested to feed only those animals whose names are displayed on the notice boards”.[^1] Just a few days after the opening of the Frankfurt Zoological Garden in 1858, reports stated that, “most of the animals have suffered from upset stomachs as a result of the excessive feeding by visitors”. The feeding of some animals therefore had to be prohibited entirely. Schönbrunn Zoo’s guidebook of 1912 also refers to signs on the cages warning visitors that feeding was not permitted. In most zoos, it was strictly prohibited to feed particularly sensitive animal species such as apes, predators, and sea lions.[^2] 
 
@@ -205,7 +203,7 @@ _After “Jambo” fell ill, visitors had to hand over the food they had brought
 
 </figure>
 
-In the early 1960s, the design of the new monkey house even incorporated glass panels. Up till then, visitors had been able to feed the monkeys – with the exception of the apes – bread, tropical fruit, various vegetables, nuts, oatmeal and lentils.[^23] At one time, popcorn was even allowed – in the year the zoological garden opened a popcorn stand.[^24]
+In the early 1960s, the design of the new monkey house even incorporated [[glass panels|material.microscopic-media]]. Up till then, visitors had been able to feed the monkeys – with the exception of the apes – bread, tropical fruit, various vegetables, nuts, oatmeal and lentils.[^23] At one time, popcorn was even allowed – in the year the zoological garden opened a popcorn stand.[^24]
 
 When the general ban on feeding came into effect in 1960, the guidelines for the monkeys, and later the architecture of the enclosure, also changed – for reasons of hygiene and safety. The change altered the balance between proximity and distance. Some visitors wrote letters in favor of this, but there were also those who were opposed to it. Zoo visitor Erna von Bongart, for example, wrote that she felt the monkeys
 
@@ -295,7 +293,7 @@ _Artikel im_ Tagesspiegel _zum Fütterungsverbot im Berliner Zoo anlässlich der
 
 </figure>
 
-Auf den Tod der Elefantenkuh “Jambo”, die 1960 im Zoo Berlin wegen Überfütterung durch die Besucher:innen erkrankte und schließlich eingeschläfert werden musste, folgte eine hitzige Diskussion. Sie drehte sich um den richtigen Umgang mit Tieren in Gefangenschaft und ihre Fütterung. “Jambos” Tod führte ab dem 10. April 1960 zu einem generellen Fütterungsverbot im Berliner Zoo.
+Auf den [[Tod|material.dead-animals]] der Elefantenkuh “Jambo”, die 1960 im Zoo Berlin wegen Überfütterung durch die Besucher:innen erkrankte und schließlich eingeschläfert werden musste, folgte eine hitzige Diskussion. Sie drehte sich um den richtigen Umgang mit Tieren in Gefangenschaft und ihre Fütterung. “Jambos” Tod führte ab dem 10. April 1960 zu einem generellen Fütterungsverbot im Berliner Zoo.
 
 Der Tod des Elefanten war nicht der erste Fall, bei dem ein Zootier an den Folgen einer [[Überfütterung|story.feeding-and-overfeeding]] starb. Zootiere mit mitgebrachten Lebensmitteln zu füttern, ist Teil einer langen Geschichte falscher oder übermäßiger Fütterung. Seit ihren Anfängen im 19. Jahrhundert war das Füttern durch die Besucher:innen in zoologischen Gärten grundsätzlich erlaubt. Die damaligen Zooführer – kleine, gedruckte Informationshefte – luden die Besucher:innen zum Füttern ein, allerdings schon damals mit Einschränkungen. Der Berliner Zooführer wies bereits 1873 darauf hin, manche Tiere nicht zu füttern und im Hamburger Zoologischen Garten wurden die Besucher:innen ebenfalls schon 1879 “ergebenst und dringend ersucht, nur diejenigen Thiere zu füttern, deren Namen auf den Anschlagtafeln bekannt gemacht sind”.[^1] Über den Zoologischen Garten Frankfurt hieß es nur wenige Tage nach der Eröffnung 1858: “Nachdem am Sonntage der zoologische Garten eröffnet worden, haben in Folge der von den Besuchern übermäßig gereichten Fütterung die meisten Thiere an verdorbenem Magen gelitten.” So musste das Füttern verschiedener Tiere ganz untersagt werden. Mahnungen an den Käfigen bezüglich des Fütterungsverbots sind auch im Zooführer des Tiergartens Schönbrunn 1912 erwähnt. Besonders empfindliche Tierarten wie Menschenaffen, Raubtiere und Seelöwen durften in den meisten Zoos überhaupt nicht gefüttert werden.[^2]
 
@@ -451,7 +449,7 @@ _Nach “Jambos” Erkrankung mussten Besucher:innen ihre mitgebrachten Lebensmi
 
 </figure>
 
-Bei der Planung des neuen Affenhauses kamen in den frühen 1960er Jahren sogar Glasscheiben zum Einsatz. Mit Ausnahme der Menschenaffen konnten die Affen bis dahin mit Brot, Südfrüchten, verschiedenen Gemüsesorten, Nüssen, Haferflocken und Linsen gefüttert werden.[^23] Zwischenzeitlich war sogar Popcorn erlaubt – just in dem Jahr, als ein Popcornstand im zoologischen Garten eröffnete.[^24]
+Bei der Planung des neuen Affenhauses kamen in den frühen 1960er Jahren sogar [[Glasscheiben|material.microscopic-media]] zum Einsatz. Mit Ausnahme der Menschenaffen konnten die Affen bis dahin mit Brot, Südfrüchten, verschiedenen Gemüsesorten, Nüssen, Haferflocken und Linsen gefüttert werden.[^23] Zwischenzeitlich war sogar Popcorn erlaubt – just in dem Jahr, als ein Popcornstand im zoologischen Garten eröffnete.[^24]
 
 Mit dem allgemeinen Fütterungsverbot von 1960 änderten sich auch die Richtlinien für die Affen und später die Architektur der Anlage – aus Hygiene- und Sicherheitsgründen. Damit veränderte sich das Verhältnis von Nähe und Distanz. Das befürworteten manche Besucher:innen in ihren Zuschriften, doch gab es ebenso die gegenteilige Meinung. Zoobesucherin Erna von Bongart etwa schrieb, ihrem Empfinden nach sollten Affen nicht isoliert werden:
 

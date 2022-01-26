@@ -48,7 +48,7 @@ In June 2021, the Museum für Naturkunde Berlin received the Observatory’s mic
 
 <figcaption>
 
-_This video shows the unboxing of the collection as it arrived at the Museum für Naturkunde Berlin. It offers a glimpse into the work of the micropaleontology group at the museum. (Video: Filippo Bertoni/MfN. All rights reserved.)_
+_This video illustrates the work of the micropaleontology research group at the Museum für Naturkunde Berlin by following the unboxing of the Lamont-Doherty Collection of slides. These fragile glass supports contain millions of individual specimens of microfossils, including diatoms, radiolarians and foraminiferans hauled up from the bottom of the ocean. These microscopic remains provide scientists with precious information about the history and dynamics of planetary transformations, and form an important even though little known part of the museum’s collections. (Video: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -83,7 +83,7 @@ Im Juni 2021 erhielt das Museum für Naturkunde Berlin die mikropaläontologisch
 
 <figcaption>
 
-_Dieses Video zeigt das Auspacken der Sammlung nach ihrem Eintreffen im Museum für Naturkunde Berlin und bietet einen Einblick in die Arbeit der Mikropaläontolog:innen des Museums. (Video: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
+_Das Video folgt der mikropaläontologischen Forschungsgruppe am Museum für Naturkunde Berlin beim Auspacken der Lamont-Doherty-Sammlung. Ihre fragilen Objektträger aus Glas enthalten Millionen einzelner Mikrofossilien aus den Tiefen des Meeresbodens, darunter Kieselalgen, Radiolarien und Foraminiferen. Diese mikroskopischen Relikte liefern den Wissenschaftler:innen wichtige Daten zur Geschichte und Dynamik planetarischer Entwicklungsprozesse. Diese Sammlung ist eine der sehr bedeutenden, wenn auch weniger bekannten Sammlungen am Museum. (Video: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 

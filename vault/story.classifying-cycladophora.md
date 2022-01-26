@@ -15,19 +15,19 @@ translators:
 copy_editors:
   copy_editor_en: ""
   copy_editor_de: Jan-Peter Herrmann
-desc: |-
-  The classification of this radiolarian species in the 19th century
-  inscribed it in a forming taxonomic order of nature. This story uses the
+desc: In the 19th century, the classification of this radiolarian species placed
+  it within an emergent taxonomic order of nature. This story uses the
   contrasting approaches of two renowned German naturalists – and their
   respective interpretations of radiolaria – to show the early fate of
-  Cycladophora davisiana and of our understanding of microorganisms.
-desc_de: |-
-  Die Klassifizierung dieser Radiolarienart im 19. Jahrhundert wies ihr
-  einen Platz in der entstehenden taxonomischen Ordnung der Natur zu. Die
-  folgende Darstellung veranschaulicht anhand der gegensätzlichen
+  Cycladophora davisiana and its consequences for our understanding of
+  microorganisms.
+desc_de: Im 19. Jahrhundert wurde diese Radiolarienart im Zuge ihrer
+  Klassifizierung Teil einer neu entstehenden taxonomischen Ordnung der Natur
+  zu. Die folgende Darstellung veranschaulicht anhand der gegensätzlichen
   Herangehensweisen zweier renommierter deutscher Naturforscher – und ihrer
   jeweiligen Interpretationen der Radiolarien – das frühe Schicksal von
-  Cycladophora davisiana und unseres Verständnisses von Mikroorganismen.
+  Cycladophora davisiana und die Folgen für unsere Verständnis von
+  Mikroorganismen.
 short_desc: Taxonomy beyond animals
 cover_image:
   alt: |-

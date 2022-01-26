@@ -1,33 +1,29 @@
 ---
-id: isUsK2mnx8uIqaTJ60nYR
-title: 'Silk Culture '
-desc: |-
-  The spread of white mulberry trees in 18th-century Brandenburg for the
-  cultivation of silkworms was preceded by the import of seeds and silkworms to
-  German provinces in the 17th century. How did they get to Prussia, what shape
-  did silk production take, and what was it that ultimately led state-run silk
-  farming to dry up?
-updated: 1643064616054
-created: 1629996091814
 license: CC BY-SA
 title_de: Seiden-Cultur
+created: 1629996091814
 author: Britta Lange
 short_desc_de: Zur Geschichte des Seidenbaus in Preußen
 date_end: 1885-12-31T11:06:32.000Z
 published: false
+title: "Silk Culture "
+updated: 1643064616054
+id: isUsK2mnx8uIqaTJ60nYR
 doi: 64y2-m311/48
 translators:
   translator_de_en: Lydia J. White
-desc_de: |-
-  Der Verbreitung von weißen Maulbeerbäumen zur Seidenzucht im 18.
+desc: The import of seed and silkworms to German provinces in the 17th century
+  led to a proliferation of white mulberry trees across 18th-century
+  Brandenburg. How did they get to Prussia, what did silk production look like,
+  and what ultimately ended state-run silk farming?
+desc_de: Der Verbreitung von weißen Maulbeerbäumen zur Seidenzucht im 18.
   Jahrhundert in Brandenburg ging der Import von Samen und Seidenraupen in
   deutsche Provinzen im 17. Jahrhundert voraus. Wie gelangten sie nach Preußen,
   wie gestaltete sich die Seidenproduktion und was brachte den staatlichen
   Seidenbau schließlich zum Versiegen?
 short_desc: The history of silk farming in Prussia
 cover_image:
-  image: >-
-    /images/cover-seide-maulbeerspinner-silk-silkworm-museum-naturkunde-natural-history-berlin.jpg
+  image: /images/cover-seide-maulbeerspinner-silk-silkworm-museum-naturkunde-natural-history-berlin.jpg
   alt: |-
     Showcase with silkworms and silk in the Natural History Museum Berlin.
     Schaukasten mit Seidenraupen und Seide im Museum für Naturkunde Berlin.
@@ -75,12 +71,11 @@ This breeding process, entangled in complex [[metabolisms|theme.logistical-metab
 
 <figure>
  
-![Flat display case with wooden frame. Caterpillar threads, eggs, pupae, and fully developed moths are fixed in three rows, with small type- and handwritten labels.](/images/guests/bekleidung-seide-maulbeerspinner-clothing-silk-silkworm-museum-naturkunde-natural-history-berlin.JPG)
- 
+![A shallow display case with a wooden frame and a white background. Left-hand side: 66 moths in various shades of beige and brown. Right-hand side: numerous eggs, caterpillars, pupae, all fixed in place with fine needles. The case is being held by a person wearing a white lab coat.](/images/guests/museum-of-natural-history-naturkundemuseum-berlin-maulbeerspinner-silkworm-display-schaukasten.JPG)
  
 <figcaption>
  
-_Display case from the Lepidoptera collection at the Berlin Museum für Naturkunde Berlin. (Image: Britta Lange/MfN. All rights reserved.)_
+_Old display case showing the developmental stages of_ Bombyx mori, _Berlin Museum of Natural History, Lepidoptera collection, 2020. (Image: Britta Lange/MfN. All rights reserved.)_
 
 </figcaption>
  
@@ -174,12 +169,12 @@ Die ursprünglich aus China stammenden Seidenraupen wurden im Gegensatz zu sogen
 Mit diesem Züchtungsvorgang, der mit [[Metabolismen|theme.logistical-metabolisms]] verknüpft war,  verbanden sich in Preußen, Südeuropa und China bedeutende Wirtschaftszweige und die mit ihnen verflochtene Sozialgeschichte.
 
 <figure>
- 
-![Flacher Schaukasten mit Holzrahmen. In drei Reihen sind Raupenfäden, Eier, Puppen und ausgewachsene Schmetterlinge befestigt, mit kleinen maschinen- und handgeschriebenen Beschriftungen.](/images/guests/bekleidung-seide-maulbeerspinner-clothing-silk-silkworm-museum-naturkunde-natural-history-berlin.JPG)
+
+![Flacher Schaukasten mit Holzrahmen und weißem Hintergrund. Linke Seite: 66 Motten in verschiedenen Beige- und Brauntönen. Rechte Seite: zahlreiche Eier, Raupen, Puppen. Fixierung durch feine Nadeln. Der Kasten wird von einer Person in weißem Kittel gehalten.](/images/guests/museum-of-natural-history-naturkundemuseum-berlin-maulbeerspinner-silkworm-display-schaukasten.JPG)
  
 <figcaption>
  
-_Schaukasten im Museum für Naturkunde Berlin, Sammlung Lepidoptera. (Foto: Britta Lange/MfN. Alle Rechte vorbehalten.)_
+_Alter Schaukasten zu Entwicklungsstadien von_ Bombyx mori, _Museum für Naturkunde Berlin, Sammlung Lepidoptera, 2020. (Foto: Britta Lange//MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
  

@@ -6,10 +6,9 @@ author: Clemens Maier-Wolthausen
 short_desc_de: “Knuts” ökonomische und emotionale Bedeutung in Zeiten des Klimawandels
 date_end: 2011-03-18T23:00:00.000Z
 published: false
-desc: The polar bear “Knut”, born in 2006, achieved a popularity that took on
-  dimensions previously unknown for a single zoo animal. What were the
-  mechanisms that allowed this zoo animal to make such a strong impact – even
-  after its death?
+desc: Polar bear “Knut”, born in 2006, achieved a level of popularity never seen
+  before in the context of zoo animals. What caused his sensational fame well
+  beyond his death?
 desc_de: Der 2006 geborene Eisbär “Knut” entwickelte eine bis dahin für ein
   einzelnes Zootier ungekannte Popularität. Welche Mechanismen haben diese
   starke Wirkung eines Zootiers über seinen Tod hinaus bedingt?
@@ -21,7 +20,7 @@ cover_image:
 date_start: 2006-12-04T23:00:00.000Z
 feature: true
 title: “Knut”
-updated: 1643054499059
+updated: 1643135246877
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 doi: 64y2-m311/27
 translators:
@@ -308,7 +307,7 @@ Environmental politics are another factor that would be difficult to reproduce t
  
 [^5]: These segments can be found on the website of the German Federal Film Archives: https://www.filmothek.bundesarchiv.de/?set_lang=en (03.01.2022).
  
-[^6]: “Leipziger Zoo: Tötung eines kleinen Lippenbären löst Empörung aus”. _Zeit Online_, 29.12.2006, https://www.zeit.de/news/artikel/2006/12/29/86326.xml (01.06.2021).
+[^6]: “Tötung eines kleinen Lippenbären löst Empörung aus”, _Tagesspiegel-online_, 29.12.2006, https://www.tagesspiegel.de/gesellschaft/panorama/leipziger-zoo-toetung-eines-kleinen-lippenbaeren-loest-empoerung-aus/792414.html (25.01.2022).
  
 [^7]: “Tierschützer: Knuddel-Knut hätte sterben müssen!” _Rheinische Post Online_, 19.03.2021, https://rp-online.de/panorama/deutschland/tierschuetzer-knuddel-knut-haette-sterben-muessen_aid-11295343?output=amp (03.01.2022).
  
@@ -642,7 +641,7 @@ Auch der umweltpolitische Faktor ist heute wohl kaum reproduzierbar. Die Klimakr
  
 [^5]: Die Beiträge sind auf den Seiten des Bundesfilmarchivs recherchierbar: https://www.filmothek.bundesarchiv.de/ (03.01.2022).
  
-[^6]: “Leipziger Zoo: Tötung eines kleinen Lippenbären löst Empörung aus”. _Zeit Online_, 29.12.2006, https://www.zeit.de/news/artikel/2006/12/29/86326.xml (01.06.2021).
+[^6]: “Tötung eines kleinen Lippenbären löst Empörung aus”, _Tagesspiegel-online_, 29.12.2006, https://www.tagesspiegel.de/gesellschaft/panorama/leipziger-zoo-toetung-eines-kleinen-lippenbaeren-loest-empoerung-aus/792414.html (25.01.2022).
  
 [^7]: “Tierschützer: Knuddel-Knut hätte sterben müssen!”. _Rheinische Post online_, 19.03.2021, https://rp-online.de/panorama/deutschland/tierschuetzer-knuddel-knut-haette-sterben-muessen_aid-11295343?output=amp (03.01.2022).
  

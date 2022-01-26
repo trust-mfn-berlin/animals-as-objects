@@ -1,27 +1,26 @@
 ---
-id: d54394f6-1188-4ec3-b590-da329e657560
-title: Feed Scarcity
-desc: |-
-  How did the war-ravaged Berlin Zoological Garden manage to keep its
-  animals alive after the Second World War? How was this effected by the food
-  supply situation in the city? The crisis changed the relationship between the
-  zoo and urban society — between support and competition. For a while, the zoo
-  had a different role and purpose.
-updated: 1643133116141
-created: 1621497485660
 license: CC BY-SA
 title_de: Futternot
-author: Mareike Vennen
-short_desc_de: '1945: Krise in Zoo und Stadt '
+created: 1621497485660
 date_end: 1950-12-31T11:00:00.000Z
+keywords: banana grape orange
+author: Mareike Vennen
+short_desc_de: "1945: Krise in Zoo und Stadt "
 published: false
+title: Feed Scarcity
+updated: 1643133116141
+id: d54394f6-1188-4ec3-b590-da329e657560
 doi: 64y2-m311/23
 translators:
-  translator_de_en: ''
+  translator_de_en: ""
 copy_editors:
   copy_editor_en: Carla Welch
-desc_de: |-
-  Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten
+desc: How did the war-ravaged Berlin Zoological Garden manage to keep its
+  animals alive after the Second World War? What role did the city’s foody
+  supply play? The crisis changed the relationship between the zoo and Berlin’s
+  human inhabitants, encompassing both support and competition and temporarily
+  transforming the zoo’s function.
+desc_de: Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten
   nach dem Zweiten Weltkrieg, seine Tiere durchzubringen? Welche Rolle spielte
   dabei die Ernährungslage Berlins? Zoo und Stadtgesellschaft gingen in dieser
   Krise neue Verbindungen ein – zwischen Unterstützung und Konkurrenz, was die
@@ -37,7 +36,6 @@ cover_image:
 colour_scheme: 10
 tao_type: story
 date_start: 1944-12-31T23:00:00.000Z
-keywords: 'banana grape orange'
 ---
 
 :::EN:::
@@ -429,7 +427,7 @@ _Eine Parzelle mit einem Gemüsebeet im abgeholzten Großen Tiergarten in Berlin
 
 Der Zoo wiederum war in verschiedener Hinsicht in Ernährungsfragen der Stadt eingebunden. Als er am 1. Juli 1945, nur knapp einen Monat nach Kriegsende, wiedereröffnete, gehörte er nicht nur zu den wenigen Orten der Erholung und des Zeitvertreibs. **Der Zoo war gleichzeitig Umschlagplatz für den Austausch von Materialien, Tieren und Wissen, die mit der Versorgung der Stadt zu tun hatten.**
 
-Bereits vor dem Krieg hatten sich Menschen an den Zoo gewandt, um Ratschläge zur Haltung ihrer Heimtiere zu erhalten. Nun ging es verstärkt um Fragen der [[Zucht|material.species360]] und Haltung von Hühnern, Tauben, Pelztieren oder Ziegen und Kaninchen – also um Tiere, die als Nutz- oder Arbeitstiere, zum eigenen Verzehr oder als Zuchttiere gehalten werden konnten.[^24] Ein Gartenbaubetrieb wollte vom Zoo einen Esel zum Gemüseanbau und bot im Tausch im Frühjahr Jungpflanzen wie Tomaten, Tabak, Kohlpflanzen aller Art.[^25] Der Zoo besaß jedoch selbst keinen Esel. Ein Ehepaar wollte sich “aufgrund einer Empfehlung im Radio” ein Milchschaf anschaffen, “zur Verbesserung unserer dürftigen Ernährung in dieser schweren Zeit”.[^26] Auch sie musste der Zoo enttäuschen, ebenso wie den Mann, der auf der Suche nach einer Zuchthäsin war, “da ich neben dem Fleischgewinn vor allem gutes Pelzwerk erzielen möchte”.[^27] Die Liste solcher Beispiele ist lang und in vielen Fällen konnten Katharina Heinroth und ihre Mitarbeiter:innen aufgrund eigener Futterknappheit oder eigenen Bedarfs nur auf die wenigsten der Anfragen, die in großer Zahl per Post eintrafen, eingehen. Wer etwas zu tauschen hatte, hatte bessere Chancen auf eine positive Antwort, da der Zoo seine eigenen Bestände in dieser Zeit hauptsächlich durch Tiertausch und Tiere, die er in Pension nahm und zugleich zur Nachzucht einsetzen konnte, auffüllen konnte. Im Dezember 1945 kam es so beinah zu einem Tauschgeschäft zwischen dem Zoo und der Daimler-Benz Aktiengesellschaft. Diese wollte infolge des akuten [[Benzinmangels|material.fossil-fuels]], einen Motor für den LKW des Zoos gegen ein Pferd tauschen. Sie setzten damit statt auf PS wieder auf reale Pferdestärken, um Lebensmittel für die Betriebskantine zu transportieren. Katharina Heinroth lehnte indes mit der Begründung ab, die Pferde des Zoos seien zu wertvoll.
+Bereits vor dem Krieg hatten sich Menschen an den Zoo gewandt, um Ratschläge zur Haltung ihrer Heimtiere zu erhalten. Nun ging es verstärkt um Fragen der [[Zucht|material.species360]] und Haltung von Hühnern, Tauben, Pelztieren oder Ziegen und Kaninchen – also um Tiere, die als Nutz- oder Arbeitstiere, zum eigenen Verzehr oder als Zuchttiere gehalten werden konnten.[^24] Ein Gartenbaubetrieb wollte vom Zoo einen Esel zum Gemüseanbau und bot im Tausch im Frühjahr Jungpflanzen wie Tomaten, Tabak, Kohlpflanzen aller Art.[^25] Der Zoo besaß jedoch selbst keinen Esel. Ein Ehepaar wollte sich “aufgrund einer Empfehlung im Radio” ein Milchschaf anschaffen, “zur Verbesserung unserer dürftigen Ernährung in dieser schweren Zeit”.[^26] Auch sie musste der Zoo enttäuschen, ebenso wie den Mann, der auf der Suche nach einer Zuchthäsin war, “da ich neben dem Fleischgewinn vor allem gutes Pelzwerk erzielen möchte”.[^27] Die Liste solcher Beispiele ist lang und in vielen Fällen konnten Katharina Heinroth und ihre Mitarbeiter:innen aufgrund eigener Futterknappheit oder eigenen Bedarfs nur auf die wenigsten der Anfragen, die in großer Zahl per Post eintrafen, eingehen. Wer etwas zu tauschen hatte, hatte bessere Chancen auf eine positive Antwort, da der Zoo seine eigenen Bestände in dieser Zeit hauptsächlich durch Tiertausch und Tiere, die er in Pension nahm und zugleich zur Nachzucht einsetzen konnte, auffüllen konnte. Im Dezember 1945 kam es so beinah zu einem Tauschgeschäft zwischen dem Zoo und der Daimler-Benz Aktiengesellschaft. Diese wollte infolge des akuten [[Benzinmangels|material.fossil-fuels]] einen Motor für den LKW des Zoos gegen ein Pferd tauschen. Sie setzten damit statt auf PS wieder auf reale Pferdestärken, um Lebensmittel für die Betriebskantine zu transportieren. Katharina Heinroth lehnte indes mit der Begründung ab, die Pferde des Zoos seien zu wertvoll.
 
 ## Zoo und Stadt
 

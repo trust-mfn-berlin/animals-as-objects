@@ -14,12 +14,12 @@ translators:
   translator_en_de: ""
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
-desc: Joining in the postwar exploration of the oceans, micropaleontology
+desc: Joining the postwar exploration of the oceans, micropaleontology
   accumulated vast amounts of data, which contributed to the development of
   climate and planetary sciences.
-desc_de: Im Rahmen der Meeresforschung ab der Nachkriegszeit trugen
-  Mikropaläontolog:innen große Datenmengen zusammen, die eine wichtige Rolle für
-  die Entstehung der Klima- und Planetenwissenschaften spielen sollten.
+desc_de: In der Nachkriegszeit generierten Mikropaläontolog:innen im Rahmen von
+  Meeresforschung große Datenmengen, die eine wichtige Rolle für die Entstehung
+  der Klima- und Planetenwissenschaften spielen sollten.
 short_desc: Microfossils and ocean exploration
 cover_image:
   image: /images/cover-micropaleo-at-sea.jpg

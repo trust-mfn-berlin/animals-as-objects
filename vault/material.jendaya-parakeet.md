@@ -42,6 +42,12 @@ In autumn 2020 and spring 2021, our team observed and documented the preparation
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/663732929?h=f99c9dd4d3" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
+<figcaption>
+
+_This video illustrates the work of Christin Scheinpflug, who is a preparator at the Museum für Naturkunde Berlin, as she turns a Jendaya parakeet from Tierpark Berlin into a study skin and a partial skeleton for the Bird Collection. Preserving the remains and mounting them for the research collections of the museum is a long process that involves many steps and many transformations. Documenting these steps, the story of this parakeet illustrates some of the ways in which animals can turn into scientific objects of study. (Video: Filippo Bertoni/MfN. All rights reserved.)_
+
+</figcaption>
+
 As our project investigates how zoo animals become museum collection objects, we were keen to record the individual moments of this transformation. To this end, we visited specimen preparator Christin Scheinpflug in her workshop over several months.[^2] Once the preparation was done, we were also able to follow the collection manager Pascal Eckhoff as he entered information about the study skin into the database and catalogued it as part of the bird collection.
 
 Whether Tierpark and Zoo animals are actually sent to the Museum für Naturkunde depends on a number of questions, like what kind of animals they are, which species they represent, whether the collection already has specimens of that species in good conditions, and how rare the species is. How well-preserved an animal’s body is can also be crucial for deciding whether it will be prepared as a specimen. This also determines how it will be stored at the museum – whether as a skeleton or a study skin (with a partial skeleton) for the scientific collection, or as a taxidermy piece in the exhibition.
@@ -316,6 +322,13 @@ _Content-Warnung_: Der folgende Text und das Video enthalten Bilder von der Prä
 Im Herbst 2020 und im Frühjahr 2021 haben wir, Filippo Bertoni und Mareike Vennen, die Präparation eines Vogelbalgs im Museum für Naturkunde Berlin miterlebt und dokumentiert. Es handelt sich um einen männlichen, ausgewachsenen Jendayasittich (_Aratinga jandaya_), der am 13. Juni 2006 im Berliner Tierpark schlüpfte und den der Tierpark nach seinem Tod am 29. August 2020 in das Museum für Naturkunde überstellte.[^1]
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/663732929?h=f99c9dd4d3" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+<figcaption>
+
+_Das Video zeigt Christin Scheinpflug, Präparatorin am Museums für Naturkunde Berlin, bei ihrer Arbeit. Aus einem verstorbenen Jendayasittich aus dem Tierpark Berlin wird ein Vogelbalg und ein Teilskelett für die Vogelsammlung des Mueseums. Die Präparation des Vogels für die Forschungssammlung ist ein Prozess, der viele einzelne Schritte und Verwandlungen umfasst. Das Video zeigt wie Tiere zu wissenschaftlichen Studienobjekten werden. (Video: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
+
+</figcaption>
+
 
 In unserem Projekt untersuchen wir, wie Zootiere in Naturkundemuseen zu Sammlungsobjekten werden und haben dafür die einzelnen Schritte dieser Transformation im Museum gefilmt. Zunächst haben wir die Präparatorin Christin Scheinpflug mehrmals in der Werkstatt besucht;[^2] anschließend konnten wir dem Sammlungspfleger Pascal Eckhoff bei der Erfassung des Vogelbalgs in der Datenbank und der Aufnahme in die ornithologische Sammlung über die Schulter schauen.
 
