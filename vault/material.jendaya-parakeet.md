@@ -44,7 +44,7 @@ In autumn 2020 and spring 2021, our team observed and documented the preparation
 
 <figcaption>
 
-_This video illustrates the work of Christin Scheinpflug, who is a preparator at the Museum für Naturkunde Berlin, as she turns a Jendaya parakeet from Tierpark Berlin into a study skin and a partial skeleton for the Bird Collection. Preserving the remains and mounting them for the research collections of the museum is a long process that involves many steps and many transformations. Documenting these steps, the story of this parakeet illustrates some of the ways in which animals can turn into scientific objects of study. (Video: Filippo Bertoni/MfN)_
+_This video illustrates the work of Christin Scheinpflug, who is a preparator at the Museum für Naturkunde Berlin, as she turns a Jendaya parakeet from Tierpark Berlin into a study skin and a partial skeleton for the Bird Collection. Preserving the remains and mounting them for the research collections of the museum is a long process that involves many steps and many transformations. Documenting these steps, the story of this parakeet illustrates some of the ways in which animals can turn into scientific objects of study. (Video: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -325,7 +325,7 @@ Im Herbst 2020 und im Frühjahr 2021 haben wir, Filippo Bertoni und Mareike Venn
 
 <figcaption>
 
-_Das Video zeigt Christin Scheinpflug, Präparatorin am Museums für Naturkunde Berlin, bei ihrer Arbeit. Aus einem verstorbenen Jendayasittich aus dem Tierpark Berlin wird ein Vogelbalg und ein Teilskelett für die Vogelsammlung des Mueseums. Die Präparation des Vogels für die Forschungssammlung ist ein Prozess, der viele einzelne Schritte und Verwandlungen umfasst. Das Video zeigt wie Tiere zu wissenschaftlichen Studienobjekten werden. (Video: Filippo Bertoni/MfN)_
+_Das Video zeigt Christin Scheinpflug, Präparatorin am Museums für Naturkunde Berlin, bei ihrer Arbeit. Aus einem verstorbenen Jendayasittich aus dem Tierpark Berlin wird ein Vogelbalg und ein Teilskelett für die Vogelsammlung des Mueseums. Die Präparation des Vogels für die Forschungssammlung ist ein Prozess, der viele einzelne Schritte und Verwandlungen umfasst. Das Video zeigt wie Tiere zu wissenschaftlichen Studienobjekten werden. (Video: Filippo Bertoni/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
