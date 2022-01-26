@@ -7,7 +7,7 @@ short_desc_de: Mikroskopisch kleine einzellige Organismen in den Ozeanen
 date_end: 2022-01-24T09:06:39.563Z
 published: false
 title: Radiolaria
-updated: 1643059332820
+updated: 1643194318956
 id: 947c29be-240a-4adb-93c7-9026f80aaa89
 doi: 64y2-m311/6
 translators:
@@ -30,7 +30,7 @@ date_start: 1838-12-31T23:50:39.000Z
 
 <figure>
 
-![Old book page with 14 small conical shapes with various geometric and irregular surface patterns. Text at the bottom: 1-10 Eucecryphalus, 11-14 Cecryphalium.](/images/cover-radiolaria.jpg)
+![Old book page with 14 small conical shapes with various geometric and irregular surface patterns. Text at the bottom: 1-10 Eucecryphalus, 11-14 Cecryphalium.](/images/filo/radiolaria-hires.jpg)
 
 <figcaption>
 
