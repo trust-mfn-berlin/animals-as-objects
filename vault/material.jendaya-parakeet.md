@@ -48,7 +48,7 @@ _This video illustrates the work of Christin Scheinpflug, who is a preparator at
 
 </figcaption>
 
-As our project investigates how zoo animals become museum collection objects, we were keen to record the individual moments of this transformation. To this end, we visited specimen preparator Christin Scheinpflug in her workshop over several months.[^2] Once the preparation was done, we were also able to follow the collection manager Pascal Eckhoff as he entered information about the study skin into the database and catalogued it as part of the bird collection.
+As our project investigates how zoo animals become museum collection objects, we were keen to record the individual moments of this transformation. To this end, we visited specimen preparator Christin Scheinpflug in her workshop over several months.[^2] Once the preparation was done, we were also able to follow the collection manager Pascal Eckhoff as he entered information about the study skin into the database and catalogued it as part of the Bird Collection.
 
 Whether Tierpark and Zoo animals are actually sent to the Museum für Naturkunde depends on a number of questions, like what kind of animals they are, which species they represent, whether the collection already has specimens of that species in good conditions, and how rare the species is. How well-preserved an animal’s body is can also be crucial for deciding whether it will be prepared as a specimen. This also determines how it will be stored at the museum – whether as a skeleton or a study skin (with a partial skeleton) for the scientific collection, or as a taxidermy piece in the exhibition.
 
@@ -229,7 +229,7 @@ _Producing a partial skeleton inside a warming cabinet with the help of dermesti
 
 </figure>
 
-Afterwards, the skeleton was frozen once more (in order to kill any remaining beetles on or inside the bones), defatted, and bleached. It was then ready for the collection. We accompanied Christin Scheinpflug with the study skin, the partial skeleton, and the data sheet from the museum’s preparation workshops to the bird collection.
+Afterwards, the skeleton was frozen once more (in order to kill any remaining beetles on or inside the bones), defatted, and bleached. It was then ready for the collection. We accompanied Christin Scheinpflug with the study skin, the partial skeleton, and the data sheet from the museum’s preparation workshops to the Bird Collection.
 
 <figure>
 
@@ -243,7 +243,7 @@ _Study skins on their way into the collection (Image: Mareike Vennen/MfN. All ri
 
 </figure>
 
-There, collection manager Pascal Eckhoff entered the information from the data sheet into the digital collection database.[^10] We noticed that this animal was not the first specimen of _Aratinga jandaya_ in the museum’s bird collection. In 1895 and 1923, the collection had received two other specimens for its study skin collection. Moreover, the ornithological collection also contains other Jendaya parakeets [[preserved in alcohol|material.an-iguana-preserved-in-alcohol]] as well as a skeleton.
+There, collection manager Pascal Eckhoff entered the information from the data sheet into the digital collection database.[^10] We noticed that this animal was not the first specimen of _Aratinga jandaya_ in the museum’s Bird Collection. In 1895 and 1923, the collection had received two other specimens for its study skin collection. Moreover, the ornithological collection also contains other Jendaya parakeets [[preserved in alcohol|material.an-iguana-preserved-in-alcohol]] as well as a skeleton.
 
 <figure>
 
@@ -251,7 +251,7 @@ There, collection manager Pascal Eckhoff entered the information from the data s
 
 <figcaption>
 
-_In the bird collection, the study skin is entered into the database. (Image: Mareike Vennen/MfN. All rights reserved.)_
+_In the Bird Collection, the study skin is entered into the database. (Image: Mareike Vennen/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -287,7 +287,7 @@ _Storing and classifying the partial skeleton in the collection (Image: Mareike 
 
 [^2]: The various preparation steps often do not take place all at once, but with interruptions, meaning that the process can stretch out over several weeks or months. We would like to thank Christin Scheinpflug for letting us take part in the process, for answering our numerous questions, and for providing us with all information needed.
 
-[^3]: Unlike a taxidermy, a study skin has the feathers, beak, legs, and feet attached to it and is pulled over an artificial replica of the animal’s body. It can be stored in a drawer. In today’s scientific collections, study skins are the main type of specimen used. On working in and with the bird collection at the Museum für Naturkunde Berlin see Sylke Frahnert, M. Päckert, D. T. Tietze, and T. Töpfer. “Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie”. _Vogelwarte_ 51, no. 3 (2013): 185-191.
+[^3]: Unlike a taxidermy, a study skin has the feathers, beak, legs, and feet attached to it and is pulled over an artificial replica of the animal’s body. It can be stored in a drawer. In today’s scientific collections, study skins are the main type of specimen used. On working in and with the Bird Collection at the Museum für Naturkunde Berlin see Sylke Frahnert, M. Päckert, D. T. Tietze, and T. Töpfer. “Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie”. _Vogelwarte_ 51, no. 3 (2013): 185-191.
 
 [^4]: The torso skeleton is made up of the thoracic vertebrae, the ribs, the sternum, the furcula, the coracoid, the shoulder blades, the thigh, the lumbar vertebrae, the pelvis, and the caudal vertebrae.
 
