@@ -45,7 +45,7 @@ The Neptune Sandbox Berlin database is the current implementation of the Neptune
 
 <figcaption>
 
-_This video illustrates the work of the Micropaleontology group at the Museum fur Naturkunde Berlin through an interview with Johan Renaudie, micropaleontologist and manager of the NSB database. This digital tool not only collects an incredible amount of data from decades of deep sea drilling, but it also allows scientists to bring different kinds of data together for the study of biostratigraphy, micropaleontology, but also geology and paleoclimatology. (Video: Filippo Bertoni/MfN. All rights reserved.)_
+_This video illustrates the work of the micropaleontology research group at the Museum für Naturkunde Berlin by interviewing Johan Renaudie, micropaleontologist and manager of the NSB database. This digital tool not only collects an incredible amount of data from decades of deep sea drilling, but it also allows scientists to bring different kinds of data together for the study of biostratigraphy, micropaleontology, but also geology and paleoclimatology. (Video: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
