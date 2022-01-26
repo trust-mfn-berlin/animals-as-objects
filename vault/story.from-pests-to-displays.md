@@ -63,7 +63,7 @@ In the end, only very few of the living animals survived the journey. We know of
 
 Tracing back their history to the mid-19th century can thus give us insights into how animals were [[collected|story.catching-animals]] and became part of a collection at the time, including those animals that were not originally intended for a collection. In the face of all the logistical restraints that Schomburgk and other naturalists faced, “pests” can become zoo animals and potential natural history specimens may be turned into feed. The – often improvised – logistical practices of natural history at sea can also be understood as transformative [[metabolic relations|theme.logistical-metabolisms]] that shape and reshape the classification, value and treatment of animals at sea.
 
-[^1]: See “Logistical Natures: Trade, Traffics, and Transformations in Natural History Collecting”, Filippo Bertoni, Mareike Vennen, Ina Heumann, and Tahani Nadim (eds.), forthcoming end of 2022.
+[^1]: See “Logistical Natures: Trade, Traffics, and Transformations in Natural History Collecting”, Filippo Bertoni, Mareike Vennen, Ina Heumann, and Tahani Nadim (eds.), forthcoming.
 
 
 [^2]: His experiences in transporting living and dead specimens are recorded in his now archived correspondence with the natural history museum in Berlin as well as in a three-volume travelogue. See Richard Schomburgk. _Reisen in Britisch-Guiana in den Jahren 1840-1844._ Leipzig: J.J. Weber, 1847-48. 
