@@ -5,7 +5,7 @@ desc: |-
   The little known scientific and collection history of the famous zoo
   gorilla is a story of individual body parts that connect various places and
   disciplines with some in part sensitive contexts.
-updated: 1643032224377
+updated: 1643218701709
 created: 1640338390195
 license: CC BY-SA
 title_de: “Bobby”. Eine Fundgeschichte
@@ -57,7 +57,7 @@ _The skin, which has already been removed in the dissection photo, was used to p
 
 </figure>
 
-While “Bobby’s” taxidermy remains a popular display in the exhibition at the Museum für Naturkunde Berlin and both image and film material of the taxidermy process circulated,[^2] we know very little about “Bobby’s” dissection, despite this extensive documentation. We know just as little about how his body parts were subsequently distributed across various collections and institutions.
+While “Bobby’s” taxidermy remains a popular display in the [[exhibition|theme.putting-animals-on-display]] at the Museum für Naturkunde Berlin and both image and film material of the taxidermy process circulated,[^2] we know very little about “Bobby’s” dissection, despite this extensive documentation. We know just as little about how his body parts were subsequently distributed across various collections and institutions.
 
 This text attempts to reconstruct a largely unknown part of this famous zoo animal’s history through archive holdings and collection items. The starting point for this investigation was the discovery of the dissection records and other documents from the 1930s in the archive of the Museum für Naturkunde Berlin. From there, clues led to various collections where specimens and replicas of the gorilla’s body parts remain to this day. The text represents an – at this stage still incomplete – historical reconstruction that connects different places and disciplines as it calls up larger and partly highly sensitive institutional, scientific, and collecting contexts. To fully investigate individual connections and the implications of recovering body parts remain important concerns for future research. What is clear, however, is that the history of “Bobby’s” scientific appropriation is different to the history of his [[exhibition|theme.putting-animals-on-display]] and [[his popular reception|material.the-gorilla-beast]].
 <figure>
@@ -237,7 +237,7 @@ _Die Haut, die auf dem Sektionsfoto bereits abgezogen ist, wurde für die Dermop
 
 </figure>
 
-Während die Dermoplastik, die bis heute in der [Ausstellung|theme.showing-animals]] des Museums für Naturkunde Berlin gezeigt wird,[^2] weithin bekannt ist und während vom Prozess der Präparation bereits damals Bild- als auch Filmmaterial zirkulierte, wissen wir über die Sektion trotz der umfangreichen Dokumentation, die damals entstand, heute wenig, genau wie über die anschließende Verteilung der einzelnen Körperteile in unterschiedliche Sammlungen und Institutionen.
+Während die Dermoplastik, die bis heute in der [[Ausstellung|theme.putting-animals-on-display]] des Museums für Naturkunde Berlin gezeigt wird,[^2] weithin bekannt ist und während vom Prozess der Präparation bereits damals Bild- als auch Filmmaterial zirkulierte, wissen wir über die Sektion trotz der umfangreichen Dokumentation, die damals entstand, heute wenig, genau wie über die anschließende Verteilung der einzelnen Körperteile in unterschiedliche Sammlungen und Institutionen.
 
 Dieser Text versteht sich als Versuch, eine weitgehend unbekannte Seite der Geschichte dieses berühmten Zootieres aus Archivbeständen und Sammlungsobjekten zu rekonstruieren. Ausgangspunkt ist der Fund des Sektionsprotokolls und anderer Dokumente aus den 1930er Jahren im Archiv des Museums für Naturkundem. Von dort aus führen Spuren in verschiedene Sammlungen, wo sich noch heute Präparate und Abgüsse einzelner Körperteile befinden. Es handelt sich hier also um eine – bislang noch lückenhafte – Fundgeschichte, die unterschiedliche Orte und Disziplinen verbindet und größere, teilweise sensible institutionelle, wissenschaftliche und sammlungspraktische Kontexte aufruft. Diesen Verbindungen im Einzelnen nachzugehen und tiefergehend zu untersuchen, was das Auffinden der Körperteile im Einzelnen bedeutet, steht noch aus. Fest steht, dass die Geschichte der wissenschaftlichen Verwertung von “Bobby” eine andere ist als die Ausstellungsgeschichte und seine [[populäre mediale Verwertung|material.the-gorilla-beast]] des Tieres.
 
