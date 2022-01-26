@@ -200,7 +200,7 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 [^3]: Heinz-Georg Klös. “Tierfänger und Großtierhändler: Erinnerungen eines alten Tiergärtners, Teil I”. _Bongo_ 34 (2004): 3-42; and Heinz-Georg Klös, . “(…), Teil II”. _Bongo_ 35 (2005): 7-42.
 
-[^4]: Minutes of meeting of the “Kommission für Tiergärten der DDR”, the Commission for Zoos of the GDR, on 23 and 24 March 1970 in Halle, 16.04.1970, AZGB, O 0/1/18; H. Dathe to the Ministry for Culture of the GDR, 10.12.1974, AZGB, O 0/1/206; Minutes of meeting of the Association of German Zoo Directors, 1962, Archive Tiergarten Schönbrunn (ATGS), Estate W. Fiedler, File “Verband Deutscher Zoodirektoren”, Nr. 2.
+[^4]: Minutes of meeting of the Commission for Zoos of the GDR (Kommission für Tiergärten der DDR), on 23 and 24 March 1970 in Halle, 16.04.1970, AZGB, O 0/1/18; H. Dathe to the Ministry for Culture of the GDR, 10.12.1974, AZGB, O 0/1/206; Minutes of meeting of the Association of German Zoo Directors, 1962, Archive Tiergarten Schönbrunn (ATGS), Estate W. Fiedler, File “Verband Deutscher Zoodirektoren”, Nr. 2.
 
 [^5]: Ludwig Heck. “Heiter-ernste Erinnerungen an Tiergärtner”. _Der Zoologische Garten_ 12, Nr. 3/4 (1930): 228-38.
 
