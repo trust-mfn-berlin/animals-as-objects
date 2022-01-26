@@ -75,7 +75,7 @@ This breeding process, entangled in complex [[metabolisms|theme.logistical-metab
  
 <figcaption>
  
-_Old display case showing the developmental stages of_ Bombyx mori, _Berlin Museum of Natural History, Lepidoptera collection, 2020. (Image: Britta Lange/MfN. All rights reserved.)_
+_Old display case showing the developmental stages of_ Bombyx mori, _Berlin Museum of Natural History, Lepidoptera Collection, 2020. (Image: Britta Lange/MfN. All rights reserved.)_
 
 </figcaption>
  

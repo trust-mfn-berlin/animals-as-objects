@@ -30,13 +30,13 @@ date_start: 1938-01-01T19:53:00.000Z
 
 <figcaption>
 
-_Row of_ Alcelaphus lichtensteinii _specimens from the Museum für Naturkunde Berlin skull collections. (Image: Catarina Madruga/MfN. All rights reserved)_
+_Row of_ Alcelaphus lichtensteinii _specimens from the Skull Collection of the Museum für Naturkunde Berlin. (Image: Catarina Madruga/MfN. All rights reserved)_
 
 </figcaption>
 
 </figure>
 
-Inscriptions in China ink cover the top front of nine skulls in the mammal collections of the Museum für Naturkunde Berlin. They provide information on the classification of the animals according to [[taxonomic systematics|theme.taxonomic-orders]], and on the provenance of the specimen. The specimens, among them the one with the catalogue number ‘MfN_Mam_049330’, male and female skulls of the African hartebeest antelope species. This was named by the Berlin museum’s director Wilhelm Peters (1815-1883) in honour of his predecessor, Martin Lichtenstein (1780-1857), _Sigmoceros lichtensteinii_ in 1849 (today, the valid name is _Alcelaphus lichtensteinii_).[^1] As for the provenance, the inscription states that the individuals were purchased in Zanzibar, “from a passing caravan coming from the hinterland of Lindi”.[^2]
+Inscriptions in China ink cover the top front of nine skulls in the Mammal Collection of the Museum für Naturkunde Berlin. They provide information on the classification of the animals according to [[taxonomic systematics|theme.taxonomic-orders]], and on the provenance of the specimen. The specimens, among them the one with the catalogue number ‘MfN_Mam_049330’, male and female skulls of the African hartebeest antelope species. This was named by the Berlin museum’s director Wilhelm Peters (1815-1883) in honour of his predecessor, Martin Lichtenstein (1780-1857), _Sigmoceros lichtensteinii_ in 1849 (today, the valid name is _Alcelaphus lichtensteinii_).[^1] As for the provenance, the inscription states that the individuals were purchased in Zanzibar, “from a passing caravan coming from the hinterland of Lindi”.[^2]
 
 <figure>
 

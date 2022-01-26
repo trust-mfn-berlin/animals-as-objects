@@ -60,7 +60,7 @@ The collection manager of the Lepidoptera (butterfly and moth) collection, Viola
  
 <figcaption>
  
-_Old display case showing the developmental stages of_ Bombyx mori, _Berlin Museum of Natural History, Lepidoptera collection, 2020. (Image: Britta Lange/MfN. All rights reserved.)_
+_Old display case showing the developmental stages of_ Bombyx mori, _Berlin Museum of Natural History, Lepidoptera Collection, 2020. (Image: Britta Lange/MfN. All rights reserved.)_
 
 </figcaption>
  
