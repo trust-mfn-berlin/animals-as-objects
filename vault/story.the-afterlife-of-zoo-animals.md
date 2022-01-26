@@ -6,7 +6,7 @@ desc: |-
   parts) put to use — as colonial trophies, as museum objects, as a source of
   meat? The story of the Berlin Zoo elephant "Siam" in the 1940s is a journey
   into postwar Berlin and deep into the history of European colonialism.
-updated: 1642854896819
+updated: 1643230004600
 created: 1621970259942
 license: CC BY-SA
 title_de: Verfüttern und Verwerten
@@ -84,7 +84,7 @@ One of the trails leads to the Zoological Museum Berlin, which was a part of the
 
 <figcaption>
 
-_Searching the Mammals Collection of the Museum für Naturkunde Berlin, November 2020. (Image: Mareike Vennen. All rights reserved.)_
+_Searching the Mammals Collection of the Museum für Naturkunde Berlin, November 2020. (Image: Mareike Vennen/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -214,7 +214,7 @@ Eine der Spuren führt in das Zoologische Museum Berlin, das Teil des Museums f�
 
 <figcaption>
 
-_Suche in der Säugetiersammlung des Museums für Naturkunde Berlin, November 2020. (Foto Mareike Vennen. Alle Rechte vorbehalten.)_
+_Suche in der Säugetiersammlung des Museums für Naturkunde Berlin, November 2020. (Foto: Mareike Vennen/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
