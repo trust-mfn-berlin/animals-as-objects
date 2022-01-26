@@ -3,7 +3,7 @@ title: Über uns
 ---
 ## Über diese Website
 
-*Tiere als Objekte?* ist eine Publikation des Forschungsprojekts [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum in Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte) und herausgegeben von Ina Heumann und Tahani Nadim. Diese Website präsentiert unsere Forschungsergebnisse in deutscher und englischer Sprache anhand ausgewählter Objekte, Geschichten und Tieren. Sie gibt vielstimmige Antworten auf die Frage, wie Tiere zu naturkundlichen Objekten und Daten gemacht wurden.
+*Tiere als Objekte?* ist eine Publikation des Forschungsprojekts [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum in Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte) und wird von Ina Heumann und Tahani Nadim herausgegeben. Diese Website präsentiert unsere Forschungsergebnisse in deutscher und englischer Sprache anhand ausgewählter Objekte, Geschichten und Tieren. Sie gibt vielstimmige Antworten auf die Frage, wie Tiere zu naturkundlichen Objekten und Daten gemacht wurden.
 
 Die häufig für die Katalogisierung und das Management von naturkundlichen Sammlungen verwendeten relationalen Datenbanken dienten als Inspiration für das Konzept und die visuelle Gestaltung der Website. Deshalb beinhaltet die Webseite drei verschiedene Arten von Artikeln, die auf unterschiedliche und manchmal überraschende Weise miteinander verknüpft sind:
 
