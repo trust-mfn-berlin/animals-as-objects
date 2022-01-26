@@ -1,31 +1,32 @@
 ---
+id: 05XnJBaPUmIcfTWa4WMyb
+title: “Bobby”. Tracking Body Parts
+desc: |-
+  The little known scientific and collection history of the famous zoo
+  gorilla is a story of individual body parts that connect various places and
+  disciplines with some in part sensitive contexts.
+updated: 1643032224377
+created: 1640338390195
 license: CC BY-SA
 title_de: “Bobby”. Eine Fundgeschichte
-created: 1640338390195
 author: Mareike Vennen
-short_desc_de: Nachleben eines Zootieres in wissenschaftlichen Sammlungen
-date_end: ""
-published: false
-desc: Little is known about how the famous zoo gorilla’s story intersects with
-  the history of science and collection. Here, a story of individual body parts
-  emerges that connect different places and disciplines across sensitive
-  contexts.
-desc_de: Die bislang wenig bekannte Wissenschafts- und Sammlungsgeschichte des
-  berühmten Zoo-Gorillas ist eine Geschichte einzelner Körperteile. Sie
-  verbindet unterschiedliche Orte und Disziplinen mit teils sensiblen Kontexten.
-short_desc: The afterlife of a zoo animal in scientific collections
-cover_image:
-  image: /images/bobby-totenmaske.jpg
-date_start: 1935-12-24T10:53:00.000Z
-feature: true
-title: “Bobby”. Tracking Body Parts
-updated: 1643032224377
-id: 05XnJBaPUmIcfTWa4WMyb
 doi: 64y2-m311/52
 translators:
   translator_de_en: Lydia J. White
+desc_de: |-
+  Die bislang wenig bekannte Wissenschafts- und Sammlungsgeschichte des
+  berühmten Zoo-Gorillas ist eine Geschichte einzelner Körperteile. Sie
+  verbindet unterschiedliche Orte und Disziplinen mit teils sensiblen Kontexten.
+short_desc: The afterlife of a zoo animal in scientific collections
+short_desc_de: Nachleben eines Zootieres in wissenschaftlichen Sammlungen
+cover_image:
+  image: /images/bobby-totenmaske.jpg
 colour_scheme: 4
 tao_type: story
+date_start: 1935-12-24T10:53:00.000Z
+date_end: ''
+published: false
+feature: true
 ---
 
 :::EN:::
@@ -161,7 +162,7 @@ _This photograph with the caption “elbow top layer from the front” from the 
 
 </figure>
 
-Setting out in search of “Bobby” today means setting out in search of [[individual body parts|story.the-afterlife-of-zoo-animals]], a quest that leads through different institutions. His life is thus not just a part of [[colonial history|material.an-evocative-image-of-the-empire]]; rather, his life and afterlife are also part of the history of the city of Berlin. Tracing its [[material culture|story.silkworms]] points to a number of collections and research facilities across the city that dealt with animals and the – from today’s perspective sometimes problematic – knowledge about them. The scientific and collection history of “Bobby” is yet to be written. However, the collaboration of different disciplines during and after the necropsy shows that this animal has made its way into multiple research fields, including pathology, anatomy, and zoology.
+Setting out in search of “Bobby” today means setting out in search of [[individual body parts|story.the-afterlife-of-zoo-animals]], a quest that leads through different institutions. His life is thus not just a part of [[colonial history|material.the-german-colonial-hunting-exhibition]]; rather, his life and afterlife are also part of the history of the city of Berlin. Tracing its [[material culture|story.silkworms]] points to a number of collections and research facilities across the city that dealt with animals and the – from today’s perspective sometimes problematic – knowledge about them. The scientific and collection history of “Bobby” is yet to be written. However, the collaboration of different disciplines during and after the necropsy shows that this animal has made its way into multiple research fields, including pathology, anatomy, and zoology.
 
 This text could only provide a cursory sketch of the use of techniques such as dissection, reproduction, and distribution. But these techniques raise many more questions, not least about their genealogy and the historical contexts in which they have been applied: To what extent do the dissection and [[distribution|story.the-worlds-we-make]] of animal bodies or body parts continue colonial scientific practices as well as colonial trade in animals and their body parts? The distribution of objects to different collections and research facilities is congruent with a practice of collecting that was widespread in the 19th and early 20th centuries. This combined the collection of botanical, ethnographic, zoological, and other objects in the field before routing them into different collections and institutions. At the same time, as mentioned above, dissecting one and the same body and sending its individual body parts to different collections is a practice also applied to human beings. So-called ‘human zoos’ as part of zoos, industrial and world exhibitions not just exhibited people: during the first German Colonial Exhibition in 1896, held as part of the Berlin Industrial Exposition at Treptower Park, 106 people from German colonies like Cameroon and Togo were made to be part of such a ‘human zoo’. The ethnologist and anthropologist Felix von Luschan arranged for the body parts of any participants that might die to be examined at the Anatomical Institute at the university in Berlin. Their brains would remain in the collection, while their bones would be sent to Luschan’s collection at the ethnological museum.[^19]
 
@@ -340,7 +341,7 @@ _Diese Fotografie mit Bildunterschrift (“Ellbogengegend – oberste Schicht vo
 
 </figure>
 
-Sich heute auf die Suche nach “Bobby” zu machen, bedeutet eine Suche nach [[einzelnen Körperteilen|story.the-afterlife-of-zoo-animals]], die in unterschiedliche Institutionen führt. Sein Leben ist damit nicht nur Teil der [[Kolonialgeschichte|material.an-evocative-image-of-the-empire]]; sein Leben und Nachleben sind zugleich Teil der Berliner Stadtgeschichte und verweisen auf eine Verkettung über die Stadt verteilter, in vieler Hinsicht verbundener Berliner Sammlungen und Forschungseinrichtungen, die mit Tieren und dem – von heute aus gesehen teilweise problematischen – Wissen über sie befasst waren. Die Wissenschafts- und Sammlungsgeschichte von “Bobby” zu schreiben, steht noch aus. Die Zusammenarbeit verschiedener Disziplinen während und nach der Obduktion verweist jedenfalls darauf, dass das Tier Eingang in verschiedene disziplinäre Felder und Forschungen fand, die die Pathologie und Anatomie ebenso wie die Zoologie umfasst.
+Sich heute auf die Suche nach “Bobby” zu machen, bedeutet eine Suche nach [[einzelnen Körperteilen|story.the-afterlife-of-zoo-animals]], die in unterschiedliche Institutionen führt. Sein Leben ist damit nicht nur Teil der [[Kolonialgeschichte|material.the-german-colonial-hunting-exhibition]]; sein Leben und Nachleben sind zugleich Teil der Berliner Stadtgeschichte und verweisen auf eine Verkettung über die Stadt verteilter, in vieler Hinsicht verbundener Berliner Sammlungen und Forschungseinrichtungen, die mit Tieren und dem – von heute aus gesehen teilweise problematischen – Wissen über sie befasst waren. Die Wissenschafts- und Sammlungsgeschichte von “Bobby” zu schreiben, steht noch aus. Die Zusammenarbeit verschiedener Disziplinen während und nach der Obduktion verweist jedenfalls darauf, dass das Tier Eingang in verschiedene disziplinäre Felder und Forschungen fand, die die Pathologie und Anatomie ebenso wie die Zoologie umfasst.
 
 Die Techniken des Zerteilens, Vervielfältigens und Verteilens, deren Einsatz hier ebenfalls nur angedeutet werden kann, werfen viele weitere Fragen auf, nicht zuletzt nach den Genealogien und historischen Anwendungskontexten dieser Techniken selbst: Inwieweit schließt das Zerteilen und Verteilen von Tierkörpern oder Teilen davon an koloniale wissenschaftliche Praktiken an, aber auch an den kolonialen Handel mit Tieren oder ihren Körperteilen? Die [[Verteilung|story.the-worlds-we-make]] von Objekten an mehrere Sammlungen und Forschungseinrichtungen mit unterschiedlicher Ausrichtung verweist zum einen auf die im 19. und frühen 20. Jahrhundert verbreitete Sammelpraxis, im Feld sowohl botanische als auch ethnografische, zoologische und andere Objekte zu sammeln, die später an unterschiedliche Sammlungen und Institutionen gelangten. Gleichzeitig war wie oben erwähnt die Praxis des Zerteilens ein und desselben Körpers, von dem einzelne Körperteile in unterschiedliche Sammlungen gelangen, nicht auf Tiere beschränkt. Auf Völkerschauen in Zoos, auf Gewerbe- oder Weltausstellung sollten sogenannte ‘primitive’ Menschen nicht nur ausgestellt werden. Als 1896 auf der Ersten Deutschen Kolonialausstellung, die im Rahmen der Gewerbeausstellung im Treptower Park in Berlin stattfand, 106 Menschen aus deutschen Kolonien wie Kamerun und Togo für eine Völkerschau angeworben wurden, vereinbarte der Ethnologe und Anthropologe Felix von Luschan, dass Körperteile von möglicherweise versterbenden Teilnehmenden im Anatomischen Institut der Berliner Universität untersucht werden sollten. Die Gehirne sollten in der dortigen Sammlung verbleiben, während die Skelette an Luschans Sammlung im Völkerkundemuseum überwiesen werden sollten.[^19]
 
