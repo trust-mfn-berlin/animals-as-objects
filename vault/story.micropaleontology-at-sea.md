@@ -1,34 +1,37 @@
 ---
-license: CC BY-SA
-title_de: Mikropaläontologie auf See
-created: 1621522440708
-author: Filippo Bertoni
-short_desc_de: Mikrofossilien und die Erforschung der Ozeane
-date_end: 1960-12-31T11:00:00.000Z
-published: false
-title: Micropaleontology at Sea
-updated: 1642370192076
 id: b30fb33b-adc1-4c3e-963a-e2467c2fbb21
-doi: 64y2-m311/7
-translators:
-  translator_en_de: ""
-copy_editors:
-  copy_editor_de: Jan-Peter Herrmann
-desc: Joining the postwar exploration of the oceans, micropaleontology
+title: Micropaleontology at Sea
+desc: |-
+  Joining in the postwar exploration of the oceans, micropaleontology
   accumulated vast amounts of data, which contributed to the development of
   climate and planetary sciences.
-desc_de: In der Nachkriegszeit generierten Mikropaläontolog:innen im Rahmen von
-  Meeresforschung große Datenmengen, die eine wichtige Rolle für die Entstehung
-  der Klima- und Planetenwissenschaften spielen sollten.
+updated: 1642370192076
+created: 1621522440708
+license: CC BY-SA
+title_de: Mikropaläontologie auf See
+author: Filippo Bertoni
+short_desc_de: Mikrofossilien und die Erforschung der Ozeane
+date_end: '1960-12-31T11:00:00.000Z'
+published: false
+doi: 64y2-m311/7
+translators:
+  translator_en_de: ''
+copy_editors:
+  copy_editor_de: Jan-Peter Herrmann
+desc_de: |-
+  Im Rahmen der Meeresforschung ab der Nachkriegszeit trugen
+  Mikropaläontolog:innen große Datenmengen zusammen, die eine wichtige Rolle für
+  die Entstehung der Klima- und Planetenwissenschaften spielen sollten.
 short_desc: Microfossils and ocean exploration
 cover_image:
   image: /images/cover-micropaleo-at-sea.jpg
-  alt: "JOIDES deep sea drilling vessel Glomar Challenger, 1968. JOIDES
+  alt: |-
+    JOIDES deep sea drilling vessel Glomar Challenger, 1968. JOIDES
     Tiefseebohrschiff Glomar Challenger, 1968. Source:
-    https://commons.wikimedia.org/wiki/File:GlomarChallengerBW.JPG"
+    https://commons.wikimedia.org/wiki/File:GlomarChallengerBW.JPG
 colour_scheme: 1
 tao_type: story
-date_start: 1949-12-31T23:00:00.000Z
+date_start: '1949-12-31T23:00:00.000Z'
 ---
 
 :::EN:::
@@ -45,7 +48,7 @@ _“High Drama of Bold Thrust through Ocean Floor”, a reportage on the early p
 
 </figure>
 
-The global conflicts of the first half of the 20th century only increased society’s thirst for fossil fuels. Thus [[industrial micropaleontology|story.industrial-micropaleontology]] – which had quickly become crucial for oil exploration – continued its rise to fame. Until the end of the Second World War, the efforts of micropaleontologists had concentrated almost exclusively on [[material.foraminifera]]. As oil became more profitable, requiring even better knowledge of global stratigraphy, a new understanding of earth’s complex dynamics was taking shape. In this context, William Rex Riedel’s[^1] reassessment of the ranges of [[material.radiolaria]] species represented a pivotal point in the history of micropaleontology, bypassing the [[dead ends|story.micropaleontological-evolutionary-dead-ends]] of the previous century. It also opened new questions and research avenues. As a graduate student, Riedel had started focusing on this group, which had largely been neglected since the end of the 19th century. **Analysing more closely the material studied by Ernst Haeckel from the HMS Challenger expedition from 1872-1876,[^2] Riedel noticed that the German naturalist often didn’t correctly discriminate between older fossils and more recent materials.** Rather than presenting long ranging forms, he realised that radiolarian species could also be used in [[biostratigraphy|material.biostratigraphy]], since their species ranges, like those of foraminifera, offer helpful tools to interpret geological formations and their relations as they do change considerably over relatively short geological times. **After the earlier, less successful, experience of micropaleontology at sea, which by the end of the 19th century had led scientists to overlook the importance of microfossils – see [[story.micropaleontological-evolutionary-dead-ends]] – micropaleontologists were to become once again deeply involved with the exploration of the oceans.**
+The global conflicts of the first half of the 20th century only increased society’s thirst for fossil fuels. Thus [[industrial micropaleontology|story.industrial-micropaleontology]] – which had quickly become crucial for oil exploration – continued its rise to fame. Until the end of the Second World War, the efforts of micropaleontologists had concentrated almost exclusively on [[material.foraminifera]]. As oil became more profitable, requiring even better knowledge of global stratigraphy, a new understanding of earth’s complex dynamics was taking shape. In this context, William Rex Riedel’s[^1] reassessment of the ranges of [[material.radiolaria]] species represented a pivotal point in the history of micropaleontology, bypassing the [[dead ends|story.micropaleontological-dead-ends]] of the previous century. It also opened new questions and research avenues. As a graduate student, Riedel had started focusing on this group, which had largely been neglected since the end of the 19th century. **Analysing more closely the material studied by Ernst Haeckel from the HMS Challenger expedition from 1872-1876,[^2] Riedel noticed that the German naturalist often didn’t correctly discriminate between older fossils and more recent materials.** Rather than presenting long ranging forms, he realised that radiolarian species could also be used in [[biostratigraphy|material.biostratigraphy]], since their species ranges, like those of foraminifera, offer helpful tools to interpret geological formations and their relations as they do change considerably over relatively short geological times. **After the earlier, less successful, experience of micropaleontology at sea, which by the end of the 19th century had led scientists to overlook the importance of microfossils – see [[story.micropaleontological-dead-ends]] – micropaleontologists were to become once again deeply involved with the exploration of the oceans.**
 
 The introduction of the piston corer,[^3] a tool that allowed the collection of [[core samples|material.core-samples]] up to nine meters long from the deep ocean floor, was particularly instrumental in micropaleontology’s return to the sea. Studying the first of such cores collected by the Albatross scientific expedition[^4] during his visit to Sweden in 1950, Riedel became aware of the value of these samples for micropaleontology. When he moved to California the following year, he brought this insight with him to the Scripps Institution of Oceanography,[^5] placing micropaleontology at the forefront of postwar oceanography. **As Riedel and others quickly understood, the stratigraphy of the ocean floor held an impressive and important record useful not only to the extractive industries, but also, increasingly, to an understanding of the planet’s dynamic history.** In a complementary development, novel techniques emerging from wartime developments in nuclear physics supported and transformed knowledge production in other fields, as Cesare Emiliani’s work exemplifies.[^6] In the 1950s, Emiliani was working at the Enrico Fermi Institute for Nuclear Science, as a research associate in the geochemical laboratory of Harold Urey – who was pioneering the study of the relationships between stable isotopes and environmental variables. Applying these insights to [[material.foraminifera]], Emiliani was able to relate changes in oxygen isotopes contained within microfossils with changes in ocean temperatures: he demonstrated that the microfossil record that had accumulated on the bottom of the sea could work as a paleothermometer. It registered environmental changes within the microorganisms’ biochemistry which in turn signaled past changes in temperatures, for other examples of how organims change their role and status, see [[theme.logistical-metabolisms]].
 
@@ -80,7 +83,7 @@ _“High Drama of Bold Thrust through Ocean Floor”, eine Reportage von John St
 
 </figure>
 
-Die globalen Konflikte der ersten Hälfte des 20. Jahrhunderts erhöhten das Verlangen der Gesellschaft nach fossilen Brennstoffen. So setzte die [[industrielle Mikropaleontologie|story.industrial-micropaleontology]], die für die Erdölexploration schnell entscheidend geworden war, ihren Siegeszug fort. Bis zum Ende des Zweiten Weltkriegs hatte sich die Forschung der Mikropaläontolog:innen fast ausschließlich auf [[material.foraminifera]] konzentriert. Als die Ölförderung immer profitabler wurde und eine immer detailliertere Kenntnis der globalen Stratigrafie erforderte, entwickelte sich ein neues Verständnis der komplexen Dynamik der Erde. In diesem Zusammenhang stellte William Rex Riedels[^1] Neubewertung der Verbreitungsgebiete der [[material.radiolaria]] einen Dreh- und Angelpunkt in der Geschichte der Mikropaläontologie dar. Riedel umschiffte die wissenschaftlichen [[Sackgassen|story.micropaleontological-evolutionary-dead-ends]] des vorherigen Jahrhunderts. Seine Neubewertung führte zu neuen Forschungsfragen und -richtungen. Bereits als Doktorand hatte Riedel begonnen, sich mit dieser seit dem Ende des 19. Jahrhunderts weitgehend vernachlässigten Gruppe zu beschäftigen. **Als Riedel das Material der HMS Challenger-Expedition von 1872–1876[^2] analysierte, das vor ihm Ernst Haeckel untersucht hatte, bemerkte er, dass der deutsche Naturforscher oftmals nicht angemessen zwischen älteren Fossilien und jüngerem Material unterschieden hatte.** Er erkannte also, dass die Formen der Radiolarienarten eben keine große stratigrafische Reichweite aufweisen, sondern in der Tat sehr gut für die [[material.biostratigraphy]] geeignet sind. Da sie sich innerhalb relativ kurzer geologischer Intervalle stark verändern, bietet die Analyse der Abfolge ihres Auftretens, ähnlich wie im Fall der Foraminiferen, ein hilfreiches Instrument zur Ordnung geologischer Formationen und Korrelierung verschiedener Strata. **Nach den früheren, weniger erfolgreichen Erfahrungen mit der Mikropaläontologie auf See, die Ende des 19. Jahrhunderts darin geendet waren, dass Wissenschaftler:innen die Bedeutung der Mikrofossilien übersehen hatten, sollten die Mikropaläontolog:innen fortan erneut intensiv in die Erforschung der Ozeane einbezogen werden.**
+Die globalen Konflikte der ersten Hälfte des 20. Jahrhunderts erhöhten das Verlangen der Gesellschaft nach fossilen Brennstoffen. So setzte die [[industrielle Mikropaleontologie|story.industrial-micropaleontology]], die für die Erdölexploration schnell entscheidend geworden war, ihren Siegeszug fort. Bis zum Ende des Zweiten Weltkriegs hatte sich die Forschung der Mikropaläontolog:innen fast ausschließlich auf [[material.foraminifera]] konzentriert. Als die Ölförderung immer profitabler wurde und eine immer detailliertere Kenntnis der globalen Stratigrafie erforderte, entwickelte sich ein neues Verständnis der komplexen Dynamik der Erde. In diesem Zusammenhang stellte William Rex Riedels[^1] Neubewertung der Verbreitungsgebiete der [[material.radiolaria]] einen Dreh- und Angelpunkt in der Geschichte der Mikropaläontologie dar. Riedel umschiffte die wissenschaftlichen [[Sackgassen|story.micropaleontological-dead-ends]] des vorherigen Jahrhunderts. Seine Neubewertung führte zu neuen Forschungsfragen und -richtungen. Bereits als Doktorand hatte Riedel begonnen, sich mit dieser seit dem Ende des 19. Jahrhunderts weitgehend vernachlässigten Gruppe zu beschäftigen. **Als Riedel das Material der HMS Challenger-Expedition von 1872–1876[^2] analysierte, das vor ihm Ernst Haeckel untersucht hatte, bemerkte er, dass der deutsche Naturforscher oftmals nicht angemessen zwischen älteren Fossilien und jüngerem Material unterschieden hatte.** Er erkannte also, dass die Formen der Radiolarienarten eben keine große stratigrafische Reichweite aufweisen, sondern in der Tat sehr gut für die [[material.biostratigraphy]] geeignet sind. Da sie sich innerhalb relativ kurzer geologischer Intervalle stark verändern, bietet die Analyse der Abfolge ihres Auftretens, ähnlich wie im Fall der Foraminiferen, ein hilfreiches Instrument zur Ordnung geologischer Formationen und Korrelierung verschiedener Strata. **Nach den früheren, weniger erfolgreichen Erfahrungen mit der Mikropaläontologie auf See, die Ende des 19. Jahrhunderts darin geendet waren, dass Wissenschaftler:innen die Bedeutung der Mikrofossilien übersehen hatten, sollten die Mikropaläontolog:innen fortan erneut intensiv in die Erforschung der Ozeane einbezogen werden.**
 
 Vor allem die Einführung des Kolbenlots,[^3] eines Werkzeugs, das die Entnahme von bis zu neun Meter langen [[material.core-samples]] vom Grund der Tiefsee ermöglicht, trug zur Rückkehr der Mikropaläontologie auf See bei. Als Riedel 1950 nach Schweden reiste, um die ersten derartigen, von der wissenschaftlichen Albatross-Expedition[^4] gesammelten Bohrkerne zu untersuchen, wurde ihm der Wert dieser Proben für die Mikropaläontologie bewusst. Und als er im folgenden Jahr nach Kalifornien zog, nahm er diese Erkenntnis mit an die Scripps Institution of Oceanography[^5] und arbeitete fortan daran, dass die Mikropaläontologie in der Nachkriegs-Ozeanografie eine zentrale Rolle einnahm. **Riedel und andere erkannten schnell, dass die Stratigrafie des Meeresbodens verblüffende und wichtige Hinweise enthielt, die nicht nur für die Rohstoffindustrie nützlich waren, sondern auch ein besseres Verständnis dynamischer erdgeschichtlicher Prozesse ermöglichten.** Parallel dazu beförderten und transformierten neue Techniken, die aus den Entwicklungen der Kernphysik während des Krieges hervorgingen, die Wissensproduktion in anderen Bereichen, wie die Beiträge von Cesare Emiliani veranschaulichen.[^6] In den 1950er Jahren arbeitete Emiliani am Enrico Fermi Institute for Nuclear Science als wissenschaftlicher Mitarbeiter im geochemischen Labor von Harold Urey, der mit seinen Forschungen Pionierarbeit bei der Untersuchung der Beziehungen zwischen stabilen Isotopen und Umweltvariablen leistete. Durch die Anwendung dieser Erkenntnisse auf [[material.foraminifera]] war Emiliani in der Lage, eine Verbindung zwischen Veränderungen der in den Mikrofossilien enthaltenen Sauerstoffisotope und Veränderungen der Meerestemperaturen nachzuweisen: Er zeigte, dass die Informationen, die in den über lange Zeit am Meeresboden sedimentierten Mikrofossilien enthalten sind, als Paläothermometer fungieren können. Sie geben Aufschluss über Umweltveränderungen in der Biochemie der Mikroorganismen, die wiederum auf vergangene Temperaturveränderungen hinweisen; weitere Beispiele dafür, wie Organismen ihre Funktion und ihren Status ändern, finden sich in [[theme.logistical-metabolisms]].
 

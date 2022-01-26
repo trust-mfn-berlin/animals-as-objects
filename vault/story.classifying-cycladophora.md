@@ -1,33 +1,33 @@
 ---
+id: aIG4TDxqQbsrl43uiSyGE
+title: Classifying Cycladophora
+desc: |-
+  The classification of this radiolarian species in the 19th century
+  inscribed it in a forming taxonomic order of nature. This story uses the
+  contrasting approaches of two renowned German naturalists – and their
+  respective interpretations of radiolaria – to show the early fate of
+  Cycladophora davisiana and of our understanding of microorganisms.
+updated: 1642520875886
+created: 1624875357621
 license: CC BY-SA
 title_de: Klassifizierung von Cycladophora
-created: 1624875357621
 author: Filippo Bertoni
 short_desc_de: Taxonomie jenseits der Tierwelt
 date_end: 1887-12-31T11:06:32.000Z
 published: false
-title: Classifying Cycladophora
-updated: 1642520875886
-id: aIG4TDxqQbsrl43uiSyGE
 doi: 10.7479/64y2-m311/1
 translators:
-  translator_en_de: ""
+  translator_en_de: ''
 copy_editors:
-  copy_editor_en: ""
+  copy_editor_en: ''
   copy_editor_de: Jan-Peter Herrmann
-desc: In the 19th century, the classification of this radiolarian species placed
-  it within an emergent taxonomic order of nature. This story uses the
-  contrasting approaches of two renowned German naturalists – and their
-  respective interpretations of radiolaria – to show the early fate of
-  Cycladophora davisiana and its consequences for our understanding of
-  microorganisms.
-desc_de: Im 19. Jahrhundert wurde diese Radiolarienart im Zuge ihrer
-  Klassifizierung Teil einer neu entstehenden taxonomischen Ordnung der Natur
-  zu. Die folgende Darstellung veranschaulicht anhand der gegensätzlichen
+desc_de: |-
+  Die Klassifizierung dieser Radiolarienart im 19. Jahrhundert wies ihr
+  einen Platz in der entstehenden taxonomischen Ordnung der Natur zu. Die
+  folgende Darstellung veranschaulicht anhand der gegensätzlichen
   Herangehensweisen zweier renommierter deutscher Naturforscher – und ihrer
   jeweiligen Interpretationen der Radiolarien – das frühe Schicksal von
-  Cycladophora davisiana und die Folgen für unsere Verständnis von
-  Mikroorganismen.
+  Cycladophora davisiana und unseres Verständnisses von Mikroorganismen.
 short_desc: Taxonomy beyond animals
 cover_image:
   alt: |-
@@ -60,7 +60,7 @@ In the 1850s, Christian Gottfried Ehrenberg[^1] was a respected naturalist and o
 
 After sharing his results with Schaffner, Ehrenberg proceeded to present them in front of the Royal Prussian Academy of Sciences in 1861. The following year, the results were published in the _Monatsberichte der Königlichen Preussischen Akademie der Wissenschaften zu Berlin_ – to this day, this remains the reference description of _C. davisiana_. While Ehrenberg’s description still has priority according to current [[taxonomic orders|theme.taxonomic-orders]], his classification rapidly encountered significant criticism, in step with the changing understanding of microorganisms emerging in those times. The same year the description of _Cycladophora_ was published, another young German naturalist, Ernst Haeckel, turned his dissertation into a successful and elegant monograph on [[material.radiolaria]]. Due to Haeckel’s stunning illustrations and detailed descriptions, this volume, and its reclassification of these microorganisms along with the principles of Charles Darwin’s evolutionary theory, quickly turned its author into one of the leading authorities on the subject of radiolaria. As it propelled Haeckel’s success as a fervent supporter and populariser of Darwin, the volume also continued and consolidated an aesthetic tradition in the visualisation of natural history, extending it to the wonders of [[microbial worlds|theme.microbial-worlds]].[^3]
 
-**Unlike Ehrenberg, who believed infusoria to be complete animals, with complex internal organs just like larger animals, Haeckel considered them unicellular ancestors of more complex life forms.** This understanding was built on the cell theory that was emerging at the time in Germany, which Ehrenberg openly opposed. But, while Haeckel tried to arrange radiolarians (including _C. davisiana_) into a natural system that represented their own evolutionary history, he became convinced that their evolutionary changes were _slow_. Haeckel came to think that radiolarian species had long ranges and had remained mostly the same over the planet’s geological history. This belief was confirmed in Haeckel’s detailed report on the radiolaria of the HMS Challenger. Doing so, Haeckel inadvertently almost consigned radiolaria to what seemed to be [[micropaleontological evolutionary dead ends|story.micropaleontological-evolutionary-dead-ends]], as naturalists focused on other species which were considered more interesting and useful. _Cycladophora davisiana_ became invisible again, as the specimens of the Ehrenberg Collection faded out, and were almost forgotten. At least until other ways of [[using Cycladophora|story.using-cycladophora]] brought them back to light almost a century later.[^4]
+**Unlike Ehrenberg, who believed infusoria to be complete animals, with complex internal organs just like larger animals, Haeckel considered them unicellular ancestors of more complex life forms.** This understanding was built on the cell theory that was emerging at the time in Germany, which Ehrenberg openly opposed. But, while Haeckel tried to arrange radiolarians (including _C. davisiana_) into a natural system that represented their own evolutionary history, he became convinced that their evolutionary changes were _slow_. Haeckel came to think that radiolarian species had long ranges and had remained mostly the same over the planet’s geological history. This belief was confirmed in Haeckel’s detailed report on the radiolaria of the HMS Challenger. Doing so, Haeckel inadvertently almost consigned radiolaria to what seemed to be [[micropaleontological evolutionary dead ends|story.micropaleontological-dead-ends]], as naturalists focused on other species which were considered more interesting and useful. _Cycladophora davisiana_ became invisible again, as the specimens of the Ehrenberg Collection faded out, and were almost forgotten. At least until other ways of [[using Cycladophora|story.using-cycladophora]] brought them back to light almost a century later.[^4]
 
 [^1]: There are several biographies of Ehrenberg. For a good overview, see David M. Williams and Robert Huxley. _Christian Gottfried Ehrenberg (1795-1876): The Man and His Legacy_. London: Acad. Press, 1998. The introduction is available here: https://ca1-tls.edcdn.com/Special-Issue-1-Christian-Gottfried-Ehrenberg-1795-1876-The-Man-and-His-Legacy-Small.pdf?mtime=20160715141137 (03.01.2022). For a biography in German, see Johannes v. Hanstein. “Ehrenberg, Christian Gottfried”. In _Allgemeine Deutsche Biographie 5_ [Online-Version], 1877: 701-711. https://www.deutsche-biographie.de/pnd118529250.html#adbcontent (03.01.2022).
 
@@ -89,7 +89,7 @@ Christian Gottfried Ehrenberg[^1] war in den 1850er Jahren ein angesehener Natur
 
 Nachdem Ehrenberg sich mit Shaffner über seine Ergebnisse ausgetauscht hatte, präsentierte er sie 1861 vor der Königlich Preußischen Akademie der Wissenschaften. Im Folgejahr wurden sie in den _Monatsberichten der Königlichen Preußischen Akademie der Wissenschaften zu Berlin_ veröffentlicht: bis heute gelten sie als die Standardbeschreibung von _C. davisiana_. Und obwohl Ehrenbergs Beschreibung für die heutigen [[taxonomischen Ordnungen|theme.taxonomic-orders]] noch immer die favorisierte Referenz darstellt, stieß seine Klassifizierung aufgrund des sich zu jener Zeit abzeichnenden Wandels im Verständnis von Mikroorganismen schnell auf erhebliche Kritik. Im selben Jahr, in dem Ehrenbergs Beschreibung von _Cycladophora_ veröffentlicht wurde, publizierte ein anderer junger deutscher Naturforscher, Ernst Haeckel, eine auf seiner Dissertation basierende, überaus erfolgreiche und elegante Monografie über [[material.radiolaria]]. Haeckels beeindruckende Illustrationen und seine detaillierten Beschreibungen in diesem Buch sowie die darin vorgenommene Neuklassifizierung dieser Mikroorganismen anhand der Prinzipien von Charles Darwins Evolutionstheorie, machten den Autor schnell zu einem der führenden Experten für Radiolarien. Neben der Tatsache, dass das Buch dem Ansehen Haeckels zuträglich war, der ein glühender Anhänger Darwins war und dessen Lehre verbreitete, wurde mit ihm zugleich die ästhetische Tradition der Visualisierung in der Naturkunde fortgesetzt, indem die aufwendige Bebilderung nun auch den Wundern der [[mikrobiellen Welten|theme.microbial-worlds]] zuteilwurde.[^3]
 
-**Im Gegensatz zu Ehrenberg, der Infusorien für vollwertige Tiere hielt, die, genau wie größere Tiere, über komplexe innere Organe verfügten, betrachtete Haeckel sie als einzellige Vorfahren komplexerer Lebensformen.** Dieses Verständnis baute auf der damals in Deutschland aufkommenden Zelltheorie auf, die Ehrenberg rundheraus ablehnte. Doch während Haeckel versuchte, die Radiolarien (einschließlich _C. davisiana_) in ein natürliches System einzuordnen, das ihre eigene Evolutionsgeschichte widerspiegelte, gelangte er zu der Überzeugung, dass ihre evolutionären Veränderungen _langsam_ vonstattengingen. Zudem nahm er an, dass Radiolarienarten ein großes Verbreitungsgebiet aufwiesen und im Laufe der geologischen Geschichte des Planeten weitgehend unverändert geblieben waren. In Haeckels detailliertem Bericht zu den Radiolarien, den er im Rahmen der Expedition der HMS Challenger verfasste, wurde diese Annahme bestätigt. Haeckel verbannte die Radiolarien damit unbeabsichtigt beinahe in eine [[mikropaläontologische Sackgasse|story.micropaleontological-evolutionary-dead-ends]], da sich Naturforschende auf andere, als interessanter und nützlicher angesehene Arten konzentrierten. Als die Exemplare der Ehrenberg Collection zunehmend verblichen und in Vergessenheit gerieten, verschwand auch _Cycladophora davisiana_ aus dem Blickfeld. Zumindest bis andere Wege der [[Nutzung|story.using-cycladophora]] sie fast ein Jahrhundert später wieder zum Vorschein brachten.[^4]
+**Im Gegensatz zu Ehrenberg, der Infusorien für vollwertige Tiere hielt, die, genau wie größere Tiere, über komplexe innere Organe verfügten, betrachtete Haeckel sie als einzellige Vorfahren komplexerer Lebensformen.** Dieses Verständnis baute auf der damals in Deutschland aufkommenden Zelltheorie auf, die Ehrenberg rundheraus ablehnte. Doch während Haeckel versuchte, die Radiolarien (einschließlich _C. davisiana_) in ein natürliches System einzuordnen, das ihre eigene Evolutionsgeschichte widerspiegelte, gelangte er zu der Überzeugung, dass ihre evolutionären Veränderungen _langsam_ vonstattengingen. Zudem nahm er an, dass Radiolarienarten ein großes Verbreitungsgebiet aufwiesen und im Laufe der geologischen Geschichte des Planeten weitgehend unverändert geblieben waren. In Haeckels detailliertem Bericht zu den Radiolarien, den er im Rahmen der Expedition der HMS Challenger verfasste, wurde diese Annahme bestätigt. Haeckel verbannte die Radiolarien damit unbeabsichtigt beinahe in eine [[mikropaläontologische Sackgasse|story.micropaleontological-dead-ends]], da sich Naturforschende auf andere, als interessanter und nützlicher angesehene Arten konzentrierten. Als die Exemplare der Ehrenberg Collection zunehmend verblichen und in Vergessenheit gerieten, verschwand auch _Cycladophora davisiana_ aus dem Blickfeld. Zumindest bis andere Wege der [[Nutzung|story.using-cycladophora]] sie fast ein Jahrhundert später wieder zum Vorschein brachten.[^4]
 
 [^1]: Es gibt mehrere Biografien zu Ehrenberg. Um einen guten Überblick zu erhalten, siehe David M. Williams und Robert Huxley. _Christian Gottfried Ehrenberg (1795-1876): The Man and His Legacy_. London: Acad. Press, 1998. Die Einleitung ist online verfügbar unter: https://ca1-tls.edcdn.com/Special-Issue-1-Christian-Gottfried-Ehrenberg-1795-1876-The-Man-and-His-Legacy-Small.pdf?mtime=20160715141137 (03.01.2022). Eine deutsche Biografie findet sich online unter: Johannes v. Hanstein. “Ehrenberg, Christian Gottfried”. In _Allgemeine Deutsche Biographie 5_, 1877: 701-711. https://www.deutsche-biographie.de/pnd118529250.html#adbcontent (03.01.2022).
 
