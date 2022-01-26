@@ -1,30 +1,32 @@
 ---
-license: CC BY-SA
-title_de: Frühe Mikropaläontologie
-created: 1621514713008
-author: Filippo Bertoni
-short_desc_de: Naturforscher:innen rangen um ein Verständnis von Mikroorganismen
-date_end: 1850-12-31T11:06:32.000Z
-published: false
-title: Early Micropaleontology
-updated: 1642368966109
 id: fee46412-5135-463a-8019-d002f5b513ea
-doi: 64y2-m311/10
-translators:
-  translator_en_de: ""
-copy_editors:
-  copy_editor_de: Jan-Peter Herrmann
-desc: When microorganisms began entering our field of vision, naturalists
+title: Early Micropaleontology
+desc: |-
+  When microorganisms began entering our field of vision, naturalists
   struggled to understand their relations to the rest of nature. Examining the
   history of these struggles, especially in and around the Museum für Naturkunde
   Berlin, shows how much microorganisms have transformed over time and how they
   keep challenging what animals are.
-desc_de: "Als Mikroorganismen erstmals sichtbar gemacht wurden, hatten
+updated: 1642368966109
+created: 1621514713008
+license: CC BY-SA
+title_de: Frühe Mikropaläontologie
+author: Filippo Bertoni
+short_desc_de: 'Naturforscher:innen rangen um ein Verständnis von Mikroorganismen'
+date_end: 1850-12-31T11:06:32.000Z
+published: false
+doi: 64y2-m311/10
+translators:
+  translator_en_de: ''
+copy_editors:
+  copy_editor_de: Jan-Peter Herrmann
+desc_de: |-
+  Als Mikroorganismen erstmals sichtbar gemacht wurden, hatten
   Naturkundler:innen zunächst noch keine Vorstellung von ihrer Rolle und ihrem
   Verhältnis zur natürlichen Ordnung. Die konfliktreiche Geschichte dieses
   Erkenntnisgewinns – insbesondere im Kontext des Museums für Naturkunde Berlin
   – verdeutlicht ihre Verwandlungen im Laufe der Zeit und stellt die Definition
-  von was ein Tier denn ausmacht immer wieder in Frage. "
+  von was ein Tier denn ausmacht immer wieder in Frage. 
 short_desc: Naturalists struggled to understand microorganisms
 cover_image:
   image: /images/cover-chaotic-origins.jpg

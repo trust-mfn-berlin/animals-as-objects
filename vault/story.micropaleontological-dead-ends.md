@@ -1,30 +1,33 @@
 ---
+id: 3494384f-3283-4c05-afda-b3d90e748325
+title: Micropaleontological Dead Ends
+desc: |-
+  When micropaleontology began taking shape in the 19th century, it seemed
+  to encounter a dead end because microfossils were interpreted to have changed
+  little over geological times.
+updated: 1643220299719
+created: 1621516485888
 license: CC BY-SA
 title_de: Mikropaläontologische Sackgassen
-created: 1621516485888
 author: Filippo Bertoni
 short_desc_de: Das Interesse an Mikrofossilien schien zu schwinden
 date_end: 1921-12-31T11:00:00.000Z
 published: false
-title: Micropaleontological Dead Ends
-updated: 1643125963437
-id: 3494384f-3283-4c05-afda-b3d90e748325
 doi: 64y2-m311/9
 translators:
-  translator_en_de: ""
+  translator_en_de: ''
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
-desc: When micropaleontology began taking shape in the 19th century, it seemed
-  to encounter a dead end because microfossils were interpreted to have changed
-  little over geological times.
-desc_de: Als die Mikropaläontologie im 19. Jahrhundert Gestalt annahm, schien
+desc_de: |-
+  Als die Mikropaläontologie im 19. Jahrhundert Gestalt annahm, schien
   sie in eine Sackgasse zu geraten, denn Wissenschaftler:innen dachten, dass
   sich Mikrofossilien im Laufe der geologischen Zeit kaum verändert hatten.
 short_desc: Interest in microfossils seemed to fade
 cover_image:
   image: /images/cover-dead-ends-bathybius.jpg
-  alt: "A lithographic illustration of Bathybius haeckelii. Lithographische
-    Illustration von Bathybius haeckelii. Source: Ernst Haeckel, 1870."
+  alt: |-
+    A lithographic illustration of Bathybius haeckelii. Lithographische
+    Illustration von Bathybius haeckelii. Source: Ernst Haeckel, 1870.
 colour_scheme: 9
 tao_type: story
 date_start: 1849-12-31T23:06:32.000Z
@@ -44,7 +47,7 @@ _A lithographic illustration of_ Bathybius haeckelii, _which was believed to be 
 
 </figure>
 
-By the second half of the 19th century, naturalists’ observations revolutionised the scientific understanding of nature and brought more order to the [[chaotic origins of micropaleontology|story.chaotic-origins-of-micropaleontology]]. Significant improvements in microscopy after the 1830s[^2] (which allowed the formulation of modern cell theory[^3]) and the mounting evidence for the transmutation of organisms, which culminated in the 1850s with Charles Darwin’s and Alfred Russel Wallace’s evolutionary theories,[^4] aided these observations. **However, despite these innovations, the characterisation of microbial life and its role in the functioning of the planet and its history was still only beginning to take shape.** Many naturalists continued the efforts of Alcide d’Orbigny and Christian Gottfried Ehrenberg to describe and classify microbial diversity.[^5] They were also driven by the intent to overcome the creationist positions of these ‘founding fathers’, who still considered evolution to be unfounded. Nevertheless, these early attempts to connect microorganisms and the evolution of life on the planet soon met with what seemed to be a dead end.
+By the second half of the 19th century, naturalists’ observations revolutionised the scientific understanding of nature and brought more order to the chaotic origins of [[micropaleontology|story.early-micropaleontology]]. Significant improvements in microscopy after the 1830s[^2] (which allowed the formulation of modern cell theory[^3]) and the mounting evidence for the transmutation of organisms, which culminated in the 1850s with Charles Darwin’s and Alfred Russel Wallace’s evolutionary theories,[^4] aided these observations. **However, despite these innovations, the characterisation of microbial life and its role in the functioning of the planet and its history was still only beginning to take shape.** Many naturalists continued the efforts of Alcide d’Orbigny and Christian Gottfried Ehrenberg to describe and classify microbial diversity.[^5] They were also driven by the intent to overcome the creationist positions of these ‘founding fathers’, who still considered evolution to be unfounded. Nevertheless, these early attempts to connect microorganisms and the evolution of life on the planet soon met with what seemed to be a dead end.
 
 In the case of [[material.foraminifera]], this is evident in the work of William Benjamin Carpenter,[^6] who in the 1860s rejected Alcide d’Orbigny’s systematisation. Proposing a different interpretation of foraminiferans, he questioned the value of the notion of species for these organisms. Carpenter also authoritatively concluded that the great range of variation in this group was not representative of evolution into more complex forms, but instead indicated that they changed little over geological time. While dismissing the creationism of d’Orbigny, this view legitimised the misconception that foraminifera were not interesting to paleontology. According to Carpenter, they had remained essentially the same throughout the planet’s history. During the same time, [[material.radiolaria]] also underwent a reclassification that was more attuned to the rise of evolutionism – but the evolutionary depths of these microorganisms was not recognised either. Ernst Haeckel, a young German naturalist, chose to focus on these organisms in his doctoral work, which, until then, had almost exclusively been studied by Ehrenberg. Haeckel’s goal was to organise them in a better “natural system”.[^7] **As he encountered the work of Charles Darwin, Haeckel immediately became an ardent supporter and introduced an evolutionary perspective in his successful radiolarian work.** Even an enthusiast like Haeckel, however, eventually supported the view that these microorganisms changed little and slowly over geological time. This view was consolidated with the HMS Challenger expedition in the 1870s: the first comprehensive oceanographic survey of the world’s oceans.[^8] As the scientists and crew of the expedition collected thousands of specimens and data, and recorded observations, the foremost experts of the time were mobilised to analyse and report on the expedition’s findings.
 
@@ -58,7 +61,7 @@ Haeckel was charged with reporting on the radiolarians and Henry Bowman Brady[^9
 
 [^4]: There are many resources to learn more on Darwin, Wallace, and evolutionary thought: “Natural Selection: Charles Darwin & Alfred Russel Wallace”. _University of California Museum of Paleontology_, 22.08.2008, https://evolution.berkeley.edu/evolibrary/article/0_0_0/history_14 (03.01.2022); J. Norman. “Darwin & Wallace Issue the First Printed Exposition of the Theory of Evolution by Natural Selection”. _History of Information_, 25.11.2014, https://www.historyofinformation.com/detail.php?id=1655 (03.01.2022); _Darwin Correspondence Project_ , 2020. https://www.darwinproject.ac.uk (03.01.2022); Alexandra Stober. “Evolutionsforschung: Charles Darwin, Revolutionär und Gentleman”. _Planet Wissen_, 02.06.2020. https://www.planet-wissen.de/natur/forschung/evolutionsforschung/pwiecharlesdarwinrevolutionaerundgentleman100.html (03.01.2022). For a more in-depth history, see James T. Costa. _Wallace, Darwin, and the Origin of Species_. Cambridge: Harvard University Press, 2014. http://www.jstor.org/stable/j.ctt6wprf8
 
-[^5]: See [[Origins of Micropaleontology|story.chaotic-origins-of-micropaleontology]] for more on these early works.
+[^5]: See [[story.early-micropaleontology]] for more on these early works.
 
 [^6]: For a short biography of Carpenter and his relevance to micropaleontology, see “William Benjamin Carpenter, 1813-1885”. _Cushman Foundation for Foraminiferal Research_, no date. https://cushmanfoundation.org/PersonifyEbusiness/Resources/Gallery-of-Foraminiferal-Researchers  (23.01.2022).
 
@@ -83,7 +86,7 @@ _Eine Lithografie der Substanz_ Bathybius haeckelii, _von der geglaubt wurde, si
 
 </figure>
 
-In der zweiten Hälfte des 19. Jahrhunderts revolutionierten Naturforscher mit verschiedenen Beobachtungen das wissenschaftliche Verständnis von Natur und brachten mehr Ordnung in die [[Mikropaläontologie|story.chaotic-origins-of-micropaleontology]]. Ermöglicht wurden diese Beobachtungen durch deutliche Verbesserungen im Bereich der Mikroskopie ab den 1830er Jahren[^2] (was die Entwicklung der modernen Zelltheorie ermöglichte[^3]) und auf die wachsende Zahl von Belegen für die Transmutation von Lebewesen, die in den 1850er Jahren in den Evolutionstheorien von Charles Darwin und Alfred Russel Wallace mündeten.[^4] **Doch trotz dieser Neuerungen nahm die Definition mikrobiellen Lebens sowie das Verständnis der Funktion von Mikroben im Verlauf der Erdgeschichte nur langsam Form an.** Viele Naturforscher führten die Bemühungen zur Beschreibung und Klassifizierung der mikrobiellen Vielfalt von Alcide d’Orbigny und Christian Gottfried Ehrenberg fort.[^5] Zusätzlich motivierte sie der Wunsch, die kreationistischen Positionen dieser ‘Gründerväter’ zu überwinden – sie hatten die Evolution beharrlich als unbewiesen erachtet. Dennoch gerieten diese frühen Versuche, eine Verbindung zwischen Mikroorganismen und der Evolution des Lebens auf der Erde herzustellen, schon bald in eine vermeintliche Sackgasse.
+In der zweiten Hälfte des 19. Jahrhunderts revolutionierten Naturforscher mit verschiedenen Beobachtungen das wissenschaftliche Verständnis von Natur und brachten mehr Ordnung in die [[frühe Mikropaläontologie|story.early-micropaleontology]]. Ermöglicht wurden diese Beobachtungen durch deutliche Verbesserungen im Bereich der Mikroskopie ab den 1830er Jahren[^2] (was die Entwicklung der modernen Zelltheorie ermöglichte[^3]) und auf die wachsende Zahl von Belegen für die Transmutation von Lebewesen, die in den 1850er Jahren in den Evolutionstheorien von Charles Darwin und Alfred Russel Wallace mündeten.[^4] **Doch trotz dieser Neuerungen nahm die Definition mikrobiellen Lebens sowie das Verständnis der Funktion von Mikroben im Verlauf der Erdgeschichte nur langsam Form an.** Viele Naturforscher führten die Bemühungen zur Beschreibung und Klassifizierung der mikrobiellen Vielfalt von Alcide d’Orbigny und Christian Gottfried Ehrenberg fort.[^5] Zusätzlich motivierte sie der Wunsch, die kreationistischen Positionen dieser ‘Gründerväter’ zu überwinden – sie hatten die Evolution beharrlich als unbewiesen erachtet. Dennoch gerieten diese frühen Versuche, eine Verbindung zwischen Mikroorganismen und der Evolution des Lebens auf der Erde herzustellen, schon bald in eine vermeintliche Sackgasse.
 
 Im Fall der [[material.foraminifera]] trugen z.B. die Arbeiten von William Benjamin Carpenter[^6] dazu bei, der in den 1860er Jahren die Systematisierung von Alcide d’Orbigny ablehnte. Mit seiner abweichenden Interpretation der Foraminiferen stellte er in Frage, ob der Begriff für diese Lebewesen überhaupt zutraf. Carpenter folgerte außerdem, dass die große Variationsbreite innerhalb dieser Gruppe nicht repräsentativ für die Entwicklung in komplexere Formen war. Stattdessen ging er davon aus, dass sie auf geringe Veränderungen im Laufe der geologischen Zeit hinwies. Während er zwar d’Orbignys Schöpfungslehre zurückwies, begünstigte seine Ansicht zugleich das Missverständnis, dass Foraminiferen für die Paläontologie uninteressant seien. Laut Carpenter hatten sie sich über die gesamte Erdgeschichte hinweg kaum verändert. Zur gleichen Zeit erfuhren auch die [[material.radiolaria]] eine Neuklassifizierung, die stärker am aufkommenden Evolutionismus orientiert war – und doch blieb der enorme Vorrat an Hinweisen und Informationen, den diese Mikroorganismen bargen, weiterhin unerkannt. Ernst Haeckel, ein junger deutscher Naturforscher, entschied sich, den Fokus seiner Doktorarbeit auf diese Lebewesen zu legen, die bis dahin hauptsächlich von Ehrenberg untersucht worden waren. Haeckel strebte an, sie in ein besseres “natürliches System” einzuordnen.[^7] **Als er auf die Arbeit von Charles Darwin stieß, wurde Haeckel sofort ein glühender Anhänger und führte eine evolutionäre Perspektive in seine viel beachtete Forschung über Radiolarien ein.** Selbst ein Enthusiast wie Haeckel übernahm jedoch schließlich die Sicht, dass sich diese Mikroorganismen im Laufe der geologischen Zeit nur wenig und langsam veränderten. Diese Annahme verfestigte sich in den 1870er Jahren durch die HMS Challenger-Expedition – der ersten vollständigen ozeanografischen Vermessung der Weltmeere.[^8] Nachdem die Wissenschaftler:innen und die Besatzung der Expedition Tausende von Proben und Daten gesammelt und ihre Beobachtungen dokumentiert hatten, wurden die führenden Experten der damaligen Zeit ausgewählt, um die Ergebnisse der Expedition zu analysieren und über sie zu berichten.
 
@@ -98,7 +101,7 @@ Haeckel wurde mit dem Bericht über die Radiolarien und Henry Bowman Brady mit d
 
 [^4]: Es gibt zahlreiche Arbeiten über Darwin, Wallace und ihre Evolutionstheorien, siehe z.B.: “Natural Selection: Charles Darwin & Alfred Russel Wallace”. _University of California Museum of Paleontology_, 22.08.2008, https://evolution.berkeley.edu/evolibrary/article/0_0_0/history_14 (03.01.2022); J. Norman. “Darwin & Wallace Issue the First Printed Exposition of the Theory of Evolution by Natural Selection”. _History of Information_, 25.11.2014. https://www.historyofinformation.com/detail.php?id=1655 (03.01.2022); _Darwin Correspondence Project_, 2020. https://www.darwinproject.ac.uk (03.01.2022); Alexandra Stober. “Evolutionsforschung: Charles Darwin, Revolutionär und Gentleman”. _Planet Wissen_, 02.06.2020. https://www.planet-wissen.de/natur/forschung/evolutionsforschung/pwiecharlesdarwinrevolutionaerundgentleman100.html (03.01.2022). Mehr dazu siehe James T. Costa, _Wallace, Darwin, and the Origin of Species_. Cambridge: Harvard University Press, 2014.
 
-[^5]: Mehr zu früher Forschung siehe [[Anfänge der Mikropaläontologie|story.chaotic-origins-of-micropaleontology]].
+[^5]: Mehr zu früher Forschung siehe [[story.early-micropaleontology]].
 
 [^6]: Mehr zu Carpenter und seiner Relevanz für die Mikropaläontologie: “William Benjamin Carpenter, 1813-1885”. _Cushman Foundation for Foraminiferal Research_, ohne Datum. https://cushmanfoundation.org/PersonifyEbusiness/Resources/Gallery-of-Foraminiferal-Researchers (23.01.2022). 
 
