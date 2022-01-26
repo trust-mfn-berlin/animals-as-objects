@@ -63,7 +63,7 @@ In the end, only very few of the living animals survived the journey. We know of
 
 Tracing back their history to the mid-19th century can thus give us insights into how animals were [[collected|story.catching-animals]] and became part of a collection at the time, including those animals that were not originally intended for a collection. In the face of all the logistical restraints that Schomburgk and other naturalists faced, “pests” can become zoo animals and potential natural history specimens may be turned into feed. The – often improvised – logistical practices of natural history at sea can also be understood as transformative [[metabolic relations|theme.logistical-metabolisms]] that shape and reshape the classification, value and treatment of animals at sea.
 
-[^1]: See “Logistical Natures”, Filippo Bertoni, Mareike Vennen, Ina Heumann, and Tahani Nadim (eds.), will appear at the end of 2022.
+[^1]: See “Logistical Natures: Trade, Traffics, and Transformations in Natural History Collecting”, Filippo Bertoni, Mareike Vennen, Ina Heumann, and Tahani Nadim (eds.), forthcoming end of 2022.
 
 
 [^2]: His experiences in transporting living and dead specimens are recorded in his now archived correspondence with the natural history museum in Berlin as well as in a three-volume travelogue. See Richard Schomburgk. _Reisen in Britisch-Guiana in den Jahren 1840-1844._ Leipzig: J.J. Weber, 1847-48. 
@@ -129,7 +129,7 @@ Am Ende überlebten nur wenige Tiere die Überfahrt. Wir wissen von neun Tieren,
 
 Dieser Rückblick auf die [[Transportgeschichten|story.catching-animals]] naturkundlicher Objekte im 19. Jahrhundert vermittelt einen Eindruck von der Art und Weise, wie Tiere einst zu Bestandteilen von Sammlungen wurden – darunter auch solche, die ursprünglich gar nicht als Sammlungsobjekte vorgesehen waren. Angesichts all der logistischen Einschränkungen und Hindernisse, mit denen Schomburgk und andere Naturforschende zu jener Zeit zu kämpfen hatten, konnten “Schädlinge” durchaus zu Zootieren und wissenschaftliche Pflanzenproben zu Tierfutter werden. Die – oftmals improvisierten – überseeischen Transportpraktiken der Naturkundler:innen können so als [[metabolische Verhältnisse|theme.logistical-metabolisms]] begriffen werden, die die Klassifikation, den Wert und die Behandlung von Tieren auf See immer wieder neu bestimmten.
 
-[^1]: Eine Sonderausgabe zum Thema “Logistical Natures”, herausgegeben von Filippo Bertoni, Mareike Vennen, Ina Heumann und Tahani Nadim, wird Ende 2022 erscheinen.
+[^1]: Siehe “Logistical Natures: Trade, Traffics, and Transformations in Natural History Collecting”, Filippo Bertoni, Mareike Vennen, Ina Heumann und Tahani Nadim (Hg.), erscheint voraussichtlich Ende 2022.
 
 [^2]: Seine Erfahrungen mit dem Transport lebender und toter Exemplare aller möglichen Arten sind in seiner mittlerweile archivierten Korrespondenz mit dem Naturkundemuseum in Berlin sowie einem Reiselogbuch in drei Bänden festgehalten. Siehe Richard Schomburgk. _Reisen in Britisch-Guiana in den Jahren 1840-1844._ Leipzig: J.J. Weber, 1847-48. 
 
