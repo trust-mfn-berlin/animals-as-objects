@@ -1,29 +1,32 @@
 ---
+id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
+title: Taxonomic Orders
+desc: |-
+  In biology, taxonomy is a formal system to name, define, and classify
+  organisms, regulated and governed by a set of rules. Since its beginning,
+  biological taxonomy was neither stable nor universal, controversies frequently
+  emerged. Classifications continue to change even today – yet they have lasting
+  impacts on our world.
+updated: 1642505108184
+created: 1618491191119
 license: CC BY-SA
 title_de: Taxonomische Ordnungen
-created: 1618491191119
 author: Filippo Bertoni
 short_desc_de: Die Kategorisierung der Natur ist politisch
-date_end: 2022-12-06T11:43:53.791Z
+date_end: '2022-12-06T11:43:53.791Z'
 published: false
-title: Taxonomic Orders
-updated: 1642505108184
-id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
 doi: 64y2-m311/5
 translators:
-  translator_en_de: ""
+  translator_en_de: ''
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
-desc: In biology, taxonomy is a formal system to name, define, and classify
-  organisms, regulated and governed by a set of rules. Since its beginning
-  biological taxonomy was neither stable nor universal, controversies frequently
-  emerged. Classifications still continue to change today and they have lasting
-  impacts on our world.
-desc_de: In der Biologie ist die Taxonomie ein formales System zur Benennung,
-  Definition und Klassifizierung von Organismen, das einer Reihe von Regeln
-  unterliegt. Sie war jedoch nie beständig oder allgemeingültig. Tatsächlich kam
-  es wiederholt zu Kontroversen. Klassifizierungen ändern sich auch heute noch,
-  mit nachhaltigen Konsequenzen für unsere Welt.
+desc_de: |-
+  In der Biologie ist die Taxonomie ein formales System zur Benennung,
+  Definition und Klassifizierung von Organismen, das von bestimmten Regeln
+  abhängt. Seit ihren Anfängen war die biologische Taxonomie weder beständig
+  noch allgemein gültig. Tatsächlich kommt es immer wieder zu Kontroversen. Die
+  Klassifizierungen ändern sich auch heute noch – und beeinflussen unsere Welt
+  nachhaltig.
 short_desc: Organising nature is political
 cover_image:
   image: /images/cover-taxonomical-orders.jpg
@@ -33,7 +36,7 @@ cover_image:
     https://commons.wikimedia.org/wiki/File:Systema_Naturae_Plate_II.jpg
 colour_scheme: 12
 tao_type: theme
-date_start: 1752-12-31T23:06:32.000Z
+date_start: '1752-12-31T23:06:32.000Z'
 ---
 
 :::EN:::
@@ -86,7 +89,7 @@ Like all sorts of classifications, biological taxonomies are entangled with powe
 
 [^1]: For more about Linnaeus, see “Who was Linnaeus?”. _The Linnean Society of London_, no date. https://www.linnean.org/learning/who-was-linnaeus (01.07.2021).
 
-[^2]: See, for instance, the changing classification of [[material.infusoria]] in [[micropaleontology|story.chaotic-origins-of-micropaleontology]].
+[^2]: See, for instance, the changing classification of [[material.infusoria]] in [[micropaleontology|story.early-micropaleontology]].
 
 [^3]: To learn more about the history of these codes, see Dan H. Nicolson. “A History of Botanical Nomenclature”. _Annals of the Missouri Botanical Garden_ 78, no. 1 (1991): 33-56. https://doi.org/10.2307/2399589.
 
@@ -162,7 +165,7 @@ Taxonomie als [[ordnendes Instrument|theme.recording-worlds]] für die Bewältig
 
 [^1]: Zu Linné: “Who was Linnaeus?”. _The Linnean Society of London_, ohne Datum. https://www.linnean.org/learning/who-was-linnaeus (01.07.2021).
 
-[^2]: Siehe z.B. die Klassifizierung von [[material.infusoria]] in der [[Mikropaläontologie|story.chaotic-origins-of-micropaleontology]], die sich geändert hat.
+[^2]: Siehe z.B. die Klassifizierung von [[material.infusoria]] in der [[Mikropaläontologie|story.early-micropaleontology]], die sich geändert hat.
 
 [^3]: Für Details zu den Codes siehe Dan H. Nicolson. “A History of Botanical Nomenclature”. _Annals of the Missouri Botanical Garden_ 78, Nr. 1 (1991): 33-56. https://doi.org/10.2307/2399589.
  
