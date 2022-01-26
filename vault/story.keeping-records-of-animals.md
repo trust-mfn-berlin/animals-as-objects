@@ -41,7 +41,7 @@ date_start: 1914-01-13T00:00:00.000Z
  
 <figcaption>
  
-_A list of the reptiles and amphibians delivered by the Zoo Aquarium to the natural history museum between 1914 and 1915 with price information (MfN, HBSB S III, Zoolog. Garten, Bd. 1. All rights reserved.)_
+_A list of the reptiles and amphibians delivered by the Zoo Aquarium to the Natural History Museum in Berlin between 1914 and 1915 with price information (MfN, HBSB S III, Zoolog. Garten, Bd. 1. All rights reserved.)_
  
 </figcaption>
  
@@ -53,7 +53,7 @@ But above all, lists like the register are interesting in terms of what they can
  
 ## Object Transfer and the Circulation of Lists
  
-In 1915, the Berlin Zoo and the natural history museum were already able to look back on a good 70 years of shared history. Since their beginnings, they had been closely connected both institutionally and in terms of personnel, as can be seen in the example of zoologist Martin Hinrich Lichtenstein, who was the director of collections at the Zoological Museum from 1813 and, from 1844, the head of the recently opened zoo as well. The museum, which aimed to collect and catalogue the world’s fauna as exhaustively as possible, had been receiving numerous [[birds and mammals|story.from-pests-to-displays]] from the zoo since the very start. In 1913, when an aquarium was constructed at the zoo, they were joined by fish, insects, amphibians, and reptiles.
+In 1915, the Berlin Zoo and the Natural History Museum were already able to look back on a good 70 years of shared history. Since their beginnings, they had been closely connected both institutionally and in terms of personnel, as can be seen in the example of zoologist Martin Hinrich Lichtenstein, who was the director of collections at the Zoological Museum from 1813 and, from 1844, the head of the recently opened zoo as well. The museum, which aimed to collect and catalogue the world’s fauna as exhaustively as possible, had been receiving numerous [[birds and mammals|story.from-pests-to-displays]] from the zoo since the very start. In 1913, when an aquarium was constructed at the zoo, they were joined by fish, insects, amphibians, and reptiles.
  
 The register provides an insight into the kinds of animals the Zoo Aquarium was keeping shortly after it opened in 1913. But this is just a snippet; more precise information about the aquarium’s animal holdings can be found in the zoo archive, which provides a much more complete picture. However, what the “Register of delivered animals” can give us is an impression of which [[aquarium animals|story.the-worlds-we-make]] made their way into the museum in 1914 after their deaths (meaning that they had apparently only survived at the aquarium for a brief period after its opening in 1913) – that is, which animals had an [[afterlife|story.the-afterlife-of-zoo-animals]] as collection items or exhibits, including olms, iguanas, snakes, and turtles. Indeed, the zoo and the adjoining aquarium were not the only sources of animals for the museum, which is also indicated by the number of animals that were transferred, which was not all that high. Some museum curators even preferred sourcing their material from [[expeditions|story.from-pests-to-displays]], collectors, or from other museums – which we will come back to later. However, the local zoo at this time was, as in many other cities, an important source of animals and, vice versa, the museum was a regular recipient of animal cadavers. How did this kind of transfer take place back then? 
 
@@ -101,7 +101,7 @@ For the museum, information about the animals it was offered was also important,
  
 <figcaption>
  
-_Label for the transfer of an animal from the zoo to the natural history museum with (sparse) information. (MfN, HBSB, S004-02-05, Nr. 96, Bl. 022 verso; MfN, HBSB, S004-02-05, Nr. 96, Bl. 105 recto. All rights reserved.)_
+_Label for the transfer of an animal from the zoo to the Natural History Museum with (sparse) information. (MfN, HBSB, S004-02-05, Nr. 96, Bl. 022 verso; MfN, HBSB, S004-02-05, Nr. 96, Bl. 105 recto. All rights reserved.)_
  
 </figcaption>
  
@@ -153,11 +153,11 @@ The repercussions can still be felt today, not least in attempts to trace the or
  
 [^10]: This also applied to animal dealers like the Hamburg-based company Umlauff, which sent furs that they wanted to include in their skins catalogue to Matschie for identification. Animals or payment were usually offered in return. Cf. MfN, HBSB, Zool. Mus. S III Umlauff.
  
-[^11]: O. Heinroth to the natural history museum in Berlin, 09.03.1913, MfN, HBSB, Zool. Mus. S III, Heinroth, Oskar, Bl. 8.
+[^11]: O. Heinroth to the Natural History Museum in Berlin, 09.03.1913, MfN, HBSB, Zool. Mus. S III, Heinroth, Oskar, Bl. 8.
  
 [^12]: Matschie wrote: “I do not dare claim that the species is extinct, because vast regions in China have not yet been researched. It will be very difficult to utilise its fur and this skull as an object of exchange. In that case, the garden should mount it itself instead and be reimbursed for the taxidermy costs.” Internal memo by Paul Matschie, 10.06.1914, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten.
  
-[^13]: On the instructions issued by the natural history museum see Martin Hinrich Lichtenstein. “Instructionen für die auswärtigen Reisenden und Sammler”. 1815, MfN, HBSB, Zool. Mus. S I, Instructionen für Sammler; see also Arthur MacGregor. _Naturalists in the Field: Collecting, Recording and Preserving the Natural World from the Fifteenth to the Twenty-First Century_. Leiden/Boston: Brill, 2018. 
+[^13]: On the instructions issued by the Natural History Museum see Martin Hinrich Lichtenstein. “Instructionen für die auswärtigen Reisenden und Sammler”. 1815, MfN, HBSB, Zool. Mus. S I, Instructionen für Sammler; see also Arthur MacGregor. _Naturalists in the Field: Collecting, Recording and Preserving the Natural World from the Fifteenth to the Twenty-First Century_. Leiden/Boston: Brill, 2018. 
  
 [^14]: This was one of the reasons why the museum usually preferred animals that came from collecting expeditions or collectors in the field over animals that had been kept in captivity. Cf. Paul Matschie 10.06.1914, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten.
  
