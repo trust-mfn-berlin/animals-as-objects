@@ -7,7 +7,7 @@ short_desc_de: Propagandainstrument und Zwangsarbeit
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: The Zoo and National Socialism
-updated: 1643289856727
+updated: 1643291017939
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 doi: 64y2-m311/12
 translators:
@@ -125,7 +125,7 @@ _Entry ticket for ‘Kraft durch Freude’ Day at the zoo, 1936. (AZGB. All righ
 
 </figure>
 
-Lutz Heck for his part used the political climate to serve his own [[colonial|material.purchased-from-a-caravan]] revisionist ambitions. In 1933, he sponsored a ‘Colonial Art Exhibition’ in the zoo’s exhibition halls, where he displayed a replica of the encampments built for his animal trapping expeditions in Eastern Africa.[^14] In 1927/28, the animals he captured included giraffes from the former colony of German East Africa,[^15] the territory of Tanganyika subsequently ruled by the British. In the summer of 1934, the zoo commemorated Colonial Remembrance Day by hosting a ‘Kolonialer Volkstag’ or ‘Colonial Day of the People‘. A press tour took reporters to see ‘German Colonial Animals’ – meaning animals from former German colonies. In 1937, the zoo celebrated a ‘Colonial Festival’ under a slogan ‘Everyone should visit Africa once’.[^16]
+Lutz Heck for his part used the political climate to serve his own [[colonial|material.purchased-from-a-caravan]] revisionist ambitions. In 1933, he sponsored a ‘Colonial Art Exhibition’ in the zoo’s exhibition halls, where he displayed a replica of the encampments built for his animal trapping expeditions in Eastern Africa.[^14] In 1927/28, the animals he captured included giraffes from the former colony of German East Africa,[^15] the territory of Tanganyika subsequently ruled by the British. In the summer of 1934, the zoo commemorated Colonial Remembrance Day by hosting a ‘Kolonialer Volkstag’ or ‘Colonial Day of the People’. A press tour took reporters to see ‘German Colonial Animals’ – meaning animals from former German colonies. In 1937, the zoo celebrated a ‘Colonial Festival’ under a slogan ‘Everyone should visit Africa once’.[^16]
 
 In 1936, in time for the Summer Olympics in Berlin, the zoo opened a 2,000-square-meter lion steppe. 1936 also brought the many additional tourists who had travelled to Berlin for the Games, thanks to whom the zoo enjoyed a record attendance of more than two million paying guests that year.[^17] Berlin Zoo participated in the elaborate propaganda orchestrated for the Games, and provided animals for the Olympic Village, which housed the athletes’ living quarters, supplying native waterfowl and fallow deer to frolic around a central pond.
 
