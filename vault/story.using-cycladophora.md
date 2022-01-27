@@ -7,7 +7,7 @@ desc: |-
   follows the microorganism’s trajectory to trace how these networks formed and
   how they continue to shape how we know the planet - and its microbial
   inhabitants.
-updated: 1642697241347
+updated: 1643307077897
 created: 1624875395326
 license: CC BY-SA
 title_de: Nutzung von Cycladophora
@@ -57,7 +57,7 @@ Up until the 1950s, foraminiferans had been the main tool in [[biostratigraphy|m
 
 The case of _C. davisiana_ is useful for illustrating this transformation of the natural sciences. The early studies of this microorganism focused on its description and classification within an order of nature at first, and a universal genealogy of life, later. **But already with the emergence of [[industrial micropaleontology|story.industrial-micropaleontology]], microfossils had become interesting not on their own account, but as indicators that could be used in solving stratigraphic problems.** By the 1950s, _Cycladophora_ was also being used in this way, as records documenting its occurrence help date specific formations and sediments. As the microfossil record continued to grow, and novel techniques emerged, the information that could be extrapolated from _Cycladophora_ also grew exponentially. This – combined with the astounding developments in computing made possible by the digital revolution – allowed scientists to trace phenomena of larger and larger magnitudes, like the movement of plate tectonics, the magnetic shifts of polarity, and the alternating of ice ages. For instance, in 1976 a landmark paper published in _Science_ used an abundance of _Cycladophora davisiana_ from two oceanic [[core samples|material.core-samples]] (along with oxygen isotope fractionation in foraminiferal shells) to demonstrate the hypothesised relation between ice-age cycles and planetary orbital dynamics.[^2] This paper, along with many others that followed, paved the way for current understandings of climate and planetary sciences.
 
-In this sense, _Cycladophora davisiana_ continues its scientific (after)life as an important gear in the ‘vast machine’ that subtends current climate sciences.[^3] As the Berlin Natural History Museum  just received the [[material.lamont-doherty-collection]] of micropaleontological slides to complement its NSB database, a collection which includes the original specimens used in the 1976 _Science_ publication, these various post-mortem lives of _Cycladophora_ come together under the same roof again, as they prepare to travel even further in the future.
+In this sense, _Cycladophora davisiana_ continues its scientific (after)life as an important gear in the ‘vast machine’ that subtends current climate sciences.[^3] As the Museum für Naturkunde Berlin just received the [[material.lamont-doherty-collection]] of micropaleontological slides to complement its NSB database, a collection which includes the original specimens used in the 1976 _Science_ publication, these various post-mortem lives of _Cycladophora_ come together under the same roof again, as they prepare to travel even further in the future.
 
 [^1]: Although some scientists seem concerned that the handling of data needs to change, if climate models and predictions are to improve. See P. Bauer et al. “The Digital Revolution of Earth-System Science”. _Nature Computational Science_ 1 (2021): 104-113. https://doi.org/10.1038/s43588-021-00023-0.
 
