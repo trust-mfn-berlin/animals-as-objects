@@ -7,7 +7,7 @@ short_desc_de: Pfeilschwanzkrebse in der Sammlung und im Labor
 date_end: ""
 published: false
 title: The Worlds We Make
-updated: 1642818975592
+updated: 1643318083571
 id: 4npaIbpRAHygxSlfFDrj3
 doi: 64y2-m311/51
 translators:
@@ -343,7 +343,7 @@ Tatsächlich stammen diese Präparate aus dem Zoologischen Institut, wie oben au
 
 <figcaption>
 
-_Etikett des Präparats aus dem Zoologische Institut, das heute im Museum für Naturkunde Berlin die Inventarnummer ‘ZMB 48487’ trägt. (MfN, ZMB 48487. Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
+_Etikett des Präparats aus dem Zoologische Institut, das heute im Museum für Naturkunde Berlin die Inventarnummer ‘ZMB 48487’ trägt. (MfN, ZMB 48487. Foto: Mareike Vennen/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
