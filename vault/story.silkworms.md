@@ -7,7 +7,7 @@ short_desc_de: Spuren von Bäumen und Tieren in Berlin
 date_end: 2022-08-26T14:37:08.305Z
 published: false
 title: Silkworms
-updated: 1643299090443
+updated: 1643299735342
 id: GDcruELihUsAdF7btC6KD
 doi: 64y2-m311/47
 translators:
@@ -86,7 +86,7 @@ We have to take a range of different perspectives to trace the history of this a
  
 <figcaption>
  
-_Silkworms and honeybees appear together in this popular-scientific depiction of insects from 1794.[^10] (All rights reserved.)_
+_Silkworms and honeybees appear together in this popular-scientific depiction of insects from 1794.[^10]_
 
 </figcaption>
  
@@ -251,7 +251,7 @@ Um die Geschichte des aus Brandenburg und Berlin [[verschwundenen Tiers|story.un
  
 <figcaption>
  
-_In dieser populärwissenschaftliche Darstellung von Insekten aus dem Jahr 1794 erscheinen Seidenraupe und Honigbiene gemeinsam.[^10] (Alle Rechte vorbehalten.)_
+_In dieser populärwissenschaftliche Darstellung von Insekten aus dem Jahr 1794 erscheinen Seidenraupe und Honigbiene gemeinsam.[^10]_
 
 </figcaption>
  
