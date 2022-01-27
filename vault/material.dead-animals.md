@@ -7,7 +7,7 @@ short_desc_de: Audiogeschichten über Tiere in Berlin
 date_end: ""
 published: false
 title: Dead Animals
-updated: 1640913563849
+updated: 1643307804764
 id: dUPcbo57C2AzuhMiUTwMS
 doi: 64y2-m311/65
 translators:
@@ -30,7 +30,7 @@ date_start: 2021-01-01T16:17:10.571Z
 
 <figcaption>
 
-_Decorated grave of a pet at the animal cemetery. (Photo: Eileen Klingner. All rights reserved.)_
+_Decorated grave of a pet at the animal cemetery. (Image: Eileen Klingner.)_
 
 </figcaption>
 
@@ -57,7 +57,7 @@ Other audio pieces tell the stories of [[material.where-the-rats-live]], [[mater
 
 <figcaption>
 
-_Andenken an ein Haustier auf dem Tierfriedhof. (Foto: Eileen Klingner. Alle Rechte vorbehalten.)_
+_Andenken an ein Haustier auf dem Tierfriedhof. (Foto: Eileen Klingner.)_
 
 </figcaption>
 
