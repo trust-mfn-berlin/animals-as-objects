@@ -2,7 +2,7 @@
 id: ZDxo1U9ptEVRJhmFpVKyC
 title: The German-Colonial Hunting Exhibition
 desc: Displaying wild animals as colonial appropriation
-updated: 1643135386138
+updated: 1643284215629
 created: 1640456876442
 license: CC BY-SA
 title_de: Die deutsch-koloniale Jagdausstellung
@@ -99,7 +99,7 @@ _Seite 2 des_ Offiziellen Katalogs der Deutsch-Kolonialen Jagdausstellung _aus d
 
 Diese Strategie, eine Jagdausstellung mit einer kolonialen Ausstellung zu kombinieren, setze sich über die gesamte Karlsruher Ausstellung hinweg fort, wie auf dem Plan zu sehen ist. In den Räumen wurden Tierschädel, -hörner und -häute zusammen mit Jagdausrüstung, Karten der Gebiete unter deutscher Kolonialherrschaft, Ölgemälden, sowie handgefertigten kolonialen Produkten und anderen Waren zur Schau gestellt. Die Ausstellung spiegelte einerseits die koloniale Praxis des gleichzeitigen, transdisziplinären Sammelns von Kultur- und Naturobjekten wider. Andererseits vermittelte die Ausstellungsstrategie durch die Kombination verschiedener Arten [[kolonialer Objekte|material.purchased-from-a-caravan]] ein Bild von Kolonialpolitik, das auch wirtschaftliche, wissenschaftliche und kulturelle Objekte umfasste, um so das Potenzial kolonialer Aneignung zu verdeutlichen. Tatsächlich waren zwei der Ausstellungsräume ausschließlich der Wissenschaft gewidmet. Die “wissenschaftliche Abteilung”, die das Zoologische Museum Berlin organisiert hatte, zeigte Objekte aus den deutschen Kolonien, darunter Zebrahäute und Antilopenhörner.[^4] Ziel dieser Abteilung war es, “die Kenntnis der Tierwelt unserer Kolonien zu vertiefen”, und zwar durch die Zurschaustellung “typischer Formen” aus den verschiedenen Kolonialgebieten.[^5] Die Verknüpfung verschiedener Arten von Objekten und Sammlungen war ein Weg, die unterschiedlichen Disziplinen miteinander zu verbinden und gleichzeitig “das Gesamtbild der Ausstellung möglichst vielseitig zu gestalten”, wie es im Katalog lautet.[^6] Was uns die Karlsruher Ausstellung heute lehrt, ist, wie das Jagen, Verkaufen, Sammeln, Ausstellen, [[Klassifizieren|theme.taxonomic-orders]] und Erforschen großer Wildtiere gleichermaßen Teil der kolonialen Aneignung der jeweiligen Gebiete war.
 
-[^1]: Die Deutsche Kolonialgesellschaft entstand aus der Vereinigung der Vorläuferinitiativen Deutscher Kolonialverein, gegründet 1882 in Frankfurt, und Gesellschaft für Deutsche Kolonisation, 1884 vom Kolonialverbrecher und Ideologen Carl Peters (1856-1918) zur Aufrechterhaltung der deutschen Kolonialherrschaft im damals so bezeichneten Deutsch-Ostafrika gegründet.
+[^1]: Die Deutsche Kolonialgesellschaft entstand aus der Vereinigung der Vorläuferinitiativen Deutscher Kolonialverein, gegründet 1882 in Frankfurt, und Gesellschaft für Deutsche Kolonisation, 1884 vom Kolonialverbrecher und Ideologen Carl Peters (1856-1918) zur Aufrechterhaltung der deutschen Kolonialherrschaft im damals so bezeichneten Deutsch-Ostafrika gegründet. (Das kolonisierte Territorium ‘Deutsch-Ostafrika’ umfasste die heutigen Länder Tansania, Burundi und Ruanda sowie einen kleinen Teil von Mosambik.)
 
 [^2]: “Raum 4: Eisengräber”. In _Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung_. 2. Aufl., Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 61.
 
