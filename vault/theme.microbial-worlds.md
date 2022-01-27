@@ -7,7 +7,7 @@ desc: |-
   the latest explorations of the importance of microbes in infusing our planet
   with life, microorganisms emerge as a fundamental part of Earth’s history and
   dynamics.
-updated: 1643219776079
+updated: 1643304888607
 created: 1618930984846
 license: CC BY-SA
 title_de: 'Mikrobielle Welten '
@@ -61,7 +61,7 @@ By the second half of the 20th century the ever-increasing resolution and interc
 
 <figcaption>
 
-_Engraving of mould, and magnified view of the surface of a rose-leaf; Schem. 12. From_ Micrographia: or Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses with Observations and Inquiries Thereupon _by Robert Hooke, Fellow of the Royal Society, 1665. (Wellcome Collection. CC BY.)_
+_Engraving of mould, and magnified view of the surface of a rose-leaf; Schem. 12. From_ Micrographia: or Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses with Observations and Inquiries Thereupon _by Robert Hooke, Fellow of the Royal Society, 1665. (Wellcome Collection. [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/))_
 
 </figcaption>
 
@@ -77,7 +77,7 @@ Before the 19th century, the observation of microorganisms was carried out by in
 
 <figcaption>
 
-_“Monster Soup commonly called Thames Water”. Coloured etching by W. Heath, 1828. (Wellcome Collection. CC BY-NC.)_
+_“Monster Soup commonly called Thames Water”. Coloured etching by W. Heath, 1828. (Wellcome Collection. [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/))_
 
 </figcaption>
 
@@ -113,7 +113,7 @@ _How_ we see microbial life also transforms _what_ we see. The emergence of micr
 
 <figcaption>
 
-_”A Drop of Ocean” shows the complex micro-level physicochemical interactions of microbes. (Stocker lab.) [^20]_
+_”A Drop of Ocean” shows the complex micro-level physicochemical interactions of microbes. (Stocker lab.)[^20]_
 
 </figcaption>
 
@@ -183,7 +183,7 @@ Die stetig verbesserte Auflösung verfügbarer Mikroskope und ein immer größer
 
 <figcaption>
 
-_Kupferstich eines Schimmelpilzes, und vergrößerte Ansicht der Oberfläche eines Rosenblattes; Tafel 12. Aus_ Micrographia: or some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses with Observations and Inquiries Thereupon _[Micrographia: oder Einige physiologische Beschreibungen von winzigen Körpern, die mit Lupe hergestellt wurden, mit  Beobachtungen und Untersuchungen dazu] Robert Hooke, Mitglied der Royal Society, 1665. (Wellcome Collection. CC BY.)_
+_Kupferstich eines Schimmelpilzes, und vergrößerte Ansicht der Oberfläche eines Rosenblattes; Tafel 12. Aus_ Micrographia: or some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses with Observations and Inquiries Thereupon _[Micrographia: oder Einige physiologische Beschreibungen von winzigen Körpern, die mit Lupe hergestellt wurden, mit  Beobachtungen und Untersuchungen dazu] Robert Hooke, Mitglied der Royal Society, 1665. (Wellcome Collection. [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/))_
 
 </figcaption>
 
@@ -199,7 +199,7 @@ Vor dem 19. Jahrhundert waren es wissbegierige Naturforscher:innen und Universal
 
 <figcaption>
 
-_“Monster Soup commonly called Thames Water”. Farbradierung von W. Heath, 1828. (Wellcome Collection. CC BY-NC.)_
+_“Monster Soup commonly called Thames Water”. Farbradierung von W. Heath, 1828. (Wellcome Collection. [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/))_
 
 </figcaption>
 
@@ -235,7 +235,7 @@ Mit der Art und Weise, _wie_ wir mikrobielles Leben betrachten, verändert sich 
 
 <figcaption>
 
-_”A Drop of Ocean” zeigt die komplexen physikalisch-chemischen Interaktionen zwischen Mikroben auf der Mikroebene. (Stocker lab.) [^20]_
+_”A Drop of Ocean” zeigt die komplexen physikalisch-chemischen Interaktionen zwischen Mikroben auf der Mikroebene. (Stocker lab.)[^20]_
 
 </figcaption>
 
