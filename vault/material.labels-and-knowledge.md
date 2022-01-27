@@ -7,7 +7,7 @@ short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 date_end: 1935-01-01T10:48:28.706Z
 published: false
 title: Labels and Knowledge
-updated: 1642156411162
+updated: 1643315732200
 id: K2rQQdv1K7aDMUi5gDHcN
 doi: 64y2-m311/29
 translators:
@@ -80,7 +80,7 @@ _Animal logistics on paper. The instructions on the labels reveal the paths that
 
 These notes, which were once mobile, also helped these different actors to make internal [[logistical arrangements|theme.logistical-metabolisms]]. They often provide instructions for further use – “With a request for examination and transfer to the Zoolog. Museum on Invalidenstraße”, says one, for example. **The first journey that an animal took after its death usually led from the zoo to the Pathological Institute at the Veterinary University (Tierärztliche Hochschule) of Berlin, where it was dissected in order to ascertain its cause of [[death|material.dead-animals]].[^2] After that, the Pathological Institute sent what remained of the carcass back to the zoo or forwarded it on at the zoo’s behest – to private taxidermists and preparators, or to scientific institutions such as the Anatomical Institute, the Zoological Institute of the Agricultural University, or the Zoological Museum at the university in Berlin.**[^3] This kind of information can be put together like the pieces of a puzzle to map out a local network of relationships. Even though gaps remain, the tags help to identify the important actors who were involved in the further utilisation or disposal of zoo animals in Berlin in the early twentieth century.
 
-The back of a label could be used to convey information about the animal’s species, origin, and cause of death so that the museum could create a [[record of the animal|story.keeping-records-of-animals]]. Abyssinia, Ceylon, and South America frequently appear. The notes therefore do not just make a local network visible, but also point back to the [[global trade|story.catching-animals]] in animals and animal catching, and names like Abyssinia and Ceylon make it clear that this was a colonial network.
+The back of a label could be used to convey information about the animal’s species, origin, and cause of death so that the museum could create a [[record of the animal|story.keeping-records-of-animals]]. Abyssinia, Ceylon, and South America frequently appear. The notes therefore do not just make a local network visible, but also point back to the [[global trade|theme.how-do-animals-end-up-in-the-zoo]] in animals and [[animal catching|story.catching-animals]], and names like Abyssinia and Ceylon make it clear that this was a colonial network.
 
 Almost just as crucial as the information that appears on the labels is that which is not recorded. Detailed information like the kind noted on this label was the exception:
 
@@ -96,7 +96,7 @@ _Knowledge thing: Label with detailed information about an animal delivery. (MfN
 
 </figure>
 
-Entries were frequently left empty, or the information provided was very general.
+Entries were frequently left [[empty|story.untraceable]], or the information provided was very general.
 
 <figure>
 
@@ -130,21 +130,21 @@ _Labels as directions for use: these instructions show which body parts of an an
 
 </figure>
 
-Instructions like “Please transfer hide and skull to museum” provide clues about how objects were handled and what they were used for, i.e., about practices of use as they also appear in the [[logbooks of the Zoological Museum|material.logbooks-of-the-zoological-museum]], for instance. Here, too, there were delays, accidents, and misunderstandings. It is precisely incidents like these that tell us about the challenges that sometimes arose when an animal was being transferred from the zoo to the museum or being [[transformed|material.jendaya-parakeet]] from a live zoo animal into a museum specimen; about where knowledge was successfully transferred but also where information flows got bogged down.
+Instructions like ‘Please transfer hide and skull to museum’ provide clues about how objects were handled and what they were used for, i.e., about practices of use as they also appear in the [[logbooks of the Zoological Museum|material.logbooks-of-the-zoological-museum]], for instance. Here, too, there were delays, accidents, and misunderstandings. It is precisely incidents like these that tell us about the challenges that sometimes arose when an animal was being transferred from the zoo to the museum or being [[transformed|material.jendaya-parakeet]] from a live zoo animal into a museum specimen; about where knowledge was successfully transferred but also where information flows got bogged down.
  
-[^1]: Translation, label on top: “Forward to museum / To: Pathological Institute of the Veterinary University Berlin”; label below: “Animal species: [illegible]. / Origin: South-America. / With request for examination and transfer to the Zoolog. Museum on Invalidenstraße.” 
+[^1]: Translation, label on top: ‘Forward to museum / To: Pathological Institute of the Veterinary University Berlin’; label below: ‘Animal species: [illegible]. / Origin: South-America. / With request for examination and transfer to the Zoolog. Museum on Invalidenstraße.’
 
 [^2]: After the founding of the Free University of Berlin in 1960, the Veterinary Medicine Faculty of the university and the Leibniz Institute for Zoo and Wildlife Research (IZW) took over the task of performing necropsies. 
 
 [^3]: Cf. MfN, HBSB, S004-02-05, no. 97.
 
-[^4]: Translation: “Animal species: [illegible]. / Origin: Patagonia. / Cause of death: inflammation of the bowel.”
+[^4]: Translation: ‘Animal species: [illegible]. / Origin: Patagonia. / Cause of death: inflammation of the bowel.’
 
-[^5]: Tranlation, left: “Animal species: [illegible]. / Origin: From animal trade. / Cause of death: no entry”; right: “Animal species: [illegible]. / Origin: Ceylon. / Cause of death: no entry.”
+[^5]: Tranlation, left: ‘Animal species: [illegible]. / Origin: From animal trade. / Cause of death: no entry’; right: ‘Animal species: [illegible]. / Origin: Ceylon. / Cause of death: no entry.’
 
 [^6]: Of course, it could be that this information was delivered in the accompanying item lists or in correspondence (see for example MfN, HBSB, S004-02-05, no. 97); however, the fact that detailed information is entered on some labels seems to suggest that it was not provided in other cases.
 
-[^7]: Translation: “Animal species: fresh water seal. / Origin: Berlin Zoo. / Cause of death: no entry. / Please transfer hide and skull to the museum.”
+[^7]: Translation: ‘Animal species: fresh water seal. / Origin: Berlin Zoo. / Cause of death: no entry. / Please transfer hide and skull to the museum.’
 
 
 
@@ -162,7 +162,7 @@ _Mobiles Wissensding: Solche Etiketten wurden in den 1920er oder 30er Jahren Zoo
 
 </figure>
 
-Fund: Ein Stapel alter Anhänger aus dem Zoologischen Garten Berlin, die meisten aus den 1920er und 30er Jahren, eingeheftet in einen Ordner im Archiv des Museums für Naturkunde Berlin, in dem Briefe zwischen dem Zoologischen Museum und dem Zoologischen Garten aus dieser Zeit abgeheftet sind. Die Etiketten, die den Tieren als ‘Begleitzettel’ mitgegeben wurden, wenn sie den Zoo nach ihrem Tod verließen, sind materielle Spuren der damaligen Beziehungen zwischen Zoo und Museum. Was können sie erzählen? 
+Fund: Ein Stapel alter Anhänger aus dem Zoologischen Garten Berlin, die meisten aus den 1920er und 30er Jahren, eingeheftet in einen Ordner im Archiv des Museums für Naturkunde Berlin, in dem Briefe zwischen dem Zoologischen Museum und dem Zoologischen Garten aus dieser Zeit abgeheftet sind. Die Etiketten, die den Tieren als ‘Begleitzettel’ mitgegeben wurden, wenn sie den Zoo [[nach ihrem Tod|story.the-afterlife-of-zoo-animals]] verließen, sind materielle Spuren der damaligen Beziehungen zwischen Zoo und Museum. Was können sie erzählen? 
 
 <figure>
 
@@ -191,15 +191,15 @@ Sie deuten darauf hin, dass damals nicht nur vereinzelt Tiere vom Zoo ins Museum
 
 <figcaption>
 
-_Tierlogistik auf Papier. Die Instruktionen auf den Etiketten machen die Wege toter Zootiere innerhalb eines lokalen Netzwerks von Institutionen sichtbar. (MfN, HBSB, S004-02-05 Nr. 96, Bl. 057 verso; MfN, HBSB, S004-02-05 Nr. 96, Bl. 140 recto.  Alle Rechte vorbehalten.)_
+_Tierlogistik auf Papier. Die Instruktionen auf den Etiketten machen die Wege toter Zootiere innerhalb eines lokalen Netzwerks von Institutionen sichtbar. (MfN, HBSB, S004-02-05 Nr. 96, Bl. 057 verso; MfN, HBSB, S004-02-05 Nr. 96, Bl. 140 recto. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
 </figure>
 
-Die einstmals mobilen Zettel dienten außerdem zu internen logistischen Absprachen zwischen diesen verschiedenen Akteuren. Häufig sind Instruktionen zur weiteren Verwendung vermerkt – “Mit der Bitte um Untersuchung und Überweisung an das Zoolog. Museum in der Invalidenstraße”, heißt es etwa. **Der erste Weg eines Tieres nach seinem Tod führte meistens vom Zoo zum Pathologischen Institut der Tierärztlichen Hochschule, wo es seziert wurde, um die Todesursache festzustellen.[^1] Anschließend sandte das Pathologische Institut das, was vom Kadaver nach der Sektion übrig war, zurück an den Zoo oder in dessen Auftrag weiter – an private Präparatoren oder wissenschaftliche Institutionen wie das Anatomische Institut, das Zoologische Institut der Landwirtschaftlichen Hochschule Berlin oder eben das Zoologische Museum der Berliner Universität.**[^2] Wie bei einem Puzzle lassen sich die Informationen zu einem Bild zusammenfügen, das ein lokales Beziehungsnetz abbildet. Auch wenn es lückenhaft bleibt, werden hier wichtige Akteure sichtbar, die im frühen 20. Jahrhundert in die Weiterverwertung oder Entsorgung von Zootieren in Berlin eingebunden waren.
+Die einstmals mobilen Zettel dienten außerdem zu internen logistischen Absprachen zwischen diesen verschiedenen Akteuren. Häufig sind Instruktionen zur weiteren Verwendung vermerkt – ‘Mit der Bitte um Untersuchung und Überweisung an das Zoolog. Museum in der Invalidenstraße’, heißt es etwa. **Der erste Weg eines Tieres nach seinem Tod führte meistens vom Zoo zum Pathologischen Institut der Tierärztlichen Hochschule, wo es seziert wurde, um die Todesursache festzustellen.[^1] Anschließend sandte das Pathologische Institut das, was vom Kadaver nach der Sektion übrig war, zurück an den Zoo oder in dessen Auftrag weiter – an private Präparatoren oder wissenschaftliche Institutionen wie das Anatomische Institut, das Zoologische Institut der Landwirtschaftlichen Hochschule Berlin oder eben das Zoologische Museum der Berliner Universität.**[^2] Wie bei einem Puzzle lassen sich die Informationen zu einem Bild zusammenfügen, das ein lokales Beziehungsnetz abbildet. Auch wenn es lückenhaft bleibt, werden hier wichtige Akteure sichtbar, die im frühen 20. Jahrhundert in die Weiterverwertung oder Entsorgung von Zootieren in Berlin eingebunden waren.
 
-Auf der Rückseite der Etiketten konnten Informationen über Gattung, Herkunft und Todesursache der Tiere eingetragen und übermittelt werden, damit das Museum seine [[Tiere verzeichnen|story.keeping-records-of-animals]] konnte. Abessinien, Ceylon, Südamerika sind häufig zu lesen. Die Zettel machen damit nicht nur ein lokales Netzwerk sichtbar; sie verweisen zugleich zurück auf den globalen [[Tierhandel und Tierfang|story.catching-animals]], und Bezeichnungen wie Abessinien und Ceylon machen klar, dass es sich um ein koloniales Netzwerk handelte.
+Auf der Rückseite der Etiketten konnten Informationen über Gattung, Herkunft und Todesursache der Tiere eingetragen und übermittelt werden, damit das Museum seine [[Tiere verzeichnen|story.keeping-records-of-animals]] konnte. Abessinien, Ceylon, Südamerika sind häufig zu lesen. Die Zettel machen damit nicht nur ein lokales Netzwerk sichtbar; sie verweisen zugleich zurück auf den globalen [[Tierhandel|theme.how-do-animals-end-up-in-the-zoo]] und [[Tierfang|story.catching-animals]], und Bezeichnungen wie Abessinien und Ceylon machen klar, dass es sich um ein koloniales Netzwerk handelte.
 
 Mindestens genauso entscheidend wie die Informationen, die auf den Etiketten vermerkt sind, ist aber auch, was nicht verzeichnet ist. So detaillierte Angaben wie auf diesem Etikett hier waren eher die Ausnahme.
 
@@ -215,7 +215,7 @@ _Wissensding: Etikett mit detaillierten Informationen zum verschickten Tier (MfN
 
 </figure>
 
-Häufig blieben Zeilen leer oder die Informationen sehr allgemein.
+Häufig blieben Zeilen [[leer|story.untraceable]] oder die Informationen sehr allgemein.
 
 <figure>
 
@@ -249,7 +249,7 @@ _Etikett als Gebrauchsanweisung: Die Instruktionen zeigen, welche Körperteile e
 
 </figure>
 
-Instruktionen wie “Bitte Decke und Schädel dem Museum überweisen” geben Hinweise darauf, wie mit den Objekten verfahren wurde und wofür sie verwendet wurden, also auf die Gebrauchspraktiken wie sie etwa auch in den [[Tagebüchern des Zoologischen Museums|material.logbooks-of-the-zoological-museum]] vorkommen. Auch hier gab es Verzögerungen, Unfälle und Missverständnisse. Gerade sie verraten uns etwas über die Herausforderungen, die damals beim Transfer vom Zoo ins Museum und bei der Transformation von einem lebenden Zootier in ein [[präpariertes Museumsobjekt|material.jendaya-parakeet]] auftreten konnten; an welchen Stellen Wissenstransfers funktionierten oder aber Informationsflüsse stockten.
+Instruktionen wie ‘Bitte Decke und Schädel dem Museum überweisen’ geben Hinweise darauf, wie mit den Objekten verfahren wurde und wofür sie verwendet wurden, also auf die Gebrauchspraktiken wie sie etwa auch in den [[Tagebüchern des Zoologischen Museums|material.logbooks-of-the-zoological-museum]] vorkommen. Auch hier gab es Verzögerungen, Unfälle und Missverständnisse. Gerade sie verraten uns etwas über die Herausforderungen, die damals beim Transfer vom Zoo ins Museum und bei der Transformation von einem lebenden Zootier in ein [[präpariertes Museumsobjekt|material.jendaya-parakeet]] auftreten konnten; an welchen Stellen Wissenstransfers funktionierten oder aber Informationsflüsse stockten.
 
 [^1]: Seit Gründung der Freien Universität Berlin 1960 übernahm die Veterinärmedizinische Fakultät der Universität die Sektion oder das Leibniz-Institut für Zoo- und Wildtierforschung (IZW).
 
