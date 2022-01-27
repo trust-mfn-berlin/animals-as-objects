@@ -7,7 +7,7 @@ desc: |-
   history of these struggles, especially in and around the Museum für Naturkunde
   Berlin, shows how much microorganisms have transformed over time and how they
   keep challenging what animals are.
-updated: 1642368966109
+updated: 1643290976922
 created: 1621514713008
 license: CC BY-SA
 title_de: Frühe Mikropaläontologie
@@ -58,7 +58,7 @@ These early transformations in the understanding of microbial life had a deep im
 
 In his desire to refute these dominant understandings of life, which were common at the beginning of the 19th century, **Ehrenberg argued that all infusoria were in fact complete animals. In his microscopic observations he identified stomachs and other organs within microorganisms and claimed they proved his view correct.** This interpretation tainted his reputation, especially as he stubbornly refused to accept the piling evidence that disproved this observation for the rest of his life. Thus, although his second monograph, published in 1854, laid out much of the subject matter of micropaleontology under the name of _Mikrogeologie_, his work wasn’t as successful as it could have been until the following century. Despite the international fame their detailed and rigorous descriptions won them, both d’Orbigny’s and Ehrenberg’s interpretations of microorganisms had received much criticism already during their lifetime. **By the 1850s, the [[nature|story.the-worlds-we-make]] of microbial organisms had profoundly changed.**[^5]
 
-[^1]: Carl Linnaeus. _Systema Naturae, editio 12, reformata_. Holmiae: Laurentii Salvii, 1766.  https://www.biodiversitylibrary.org/item/137240#page/800/mode/1up (03.01.2022).
+[^1]: Carl Linnaeus. _Systema Naturae, editio 12, reformata_. Holmiae: Laurentii Salvii, 1766. https://www.biodiversitylibrary.org/item/137240#page/800/mode/1up (03.01.2022).
 
 [^2]: To learn more on another ‘wastebucket’ class of Linnaeus’ Vermes, see Stephen Jay Gould. _The Lying Stones of Marrakech_. Cambridge: Harvard University Press, 2000. http://www.jstor.org/stable/j.ctt2jbrgf
 
@@ -91,7 +91,7 @@ Die Veränderungen im Verständnis von mikrobiellem Leben waren prägend für da
 
 In seinem Bestreben, den zu Beginn des 19. Jahrhunderts vorherrschenden Auffassungen davon, was Leben sei, etwas entgegenzusetzen, **argumentierte Ehrenberg, dass sämtliche Infusorien tatsächlich vollständige Tiere seien. Bei seinen mikroskopischen Beobachtungen hatte er Mägen und andere Organe in Mikroorganismen identifiziert, für ihn ein klarer Beleg für seine These.** Durch diesen Standpunkt nahm sein Ruf in der Folge nachhaltig Schaden, insbesondere da er sich zeitlebens hartnäckig weigerte anzuerkennen, dass seine These hinreichend widerlegt worden war. Obwohl er in seiner zweiten Monografie aus dem Jahr 1854 mit dem Titel _Mikrogeologie_ bereits die Kernfragen der Mikropaläontologie umriss, blieb seinen Forschungen die gebührende Anerkennung noch bis ins folgende Jahrhundert versagt. Obwohl d‘Orbigny und Ehrenberg mit ihren akribischen und umfangreichen Beschreibungen von Mikroorganismen eine gewisse internationale Bekanntheit erlangten, brachten ihnen ihre Schlussfolgerungen bereits zu Lebzeiten scharfe Kritik ein. **In den 1850er Jahren hatte sich das [[Verständnis|story.the-worlds-we-make]] der _Wesensart_ mikrobieller Organismen grundlegend verändert.**[^5]
 
-[^1]: Carl von Linné. _Systema Naturae, editio 12, reformata_. Holmiae: Laurentii Salvii, 1766.  https://www.biodiversitylibrary.org/item/137240#page/800/mode/1up (03.01.2022).
+[^1]: Carl von Linné. _Systema Naturae, editio 12, reformata_. Holmiae: Laurentii Salvii, 1766. https://www.biodiversitylibrary.org/item/137240#page/800/mode/1up (03.01.2022).
 
 [^2]: Für eine Beschreibung einer weiteren Sammelkategorie der Linné’schen Vermes, siehe Stephen Jay Gould. _The Lying Stones of Marrakech_. Cambridge: Harvard University Press, 2000. http://www.jstor.org/stable/j.ctt2jbrgf
 
