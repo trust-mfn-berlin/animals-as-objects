@@ -2,7 +2,7 @@
 id: H40I2GIwYN6393S3tIUHI
 title: The ‘Gorilla Beast’
 desc: An example of colonial iconography
-updated: 1643308477132
+updated: 1643308607921
 created: 1640365282699
 license: CC BY-SA
 title_de: Die ‘Bestie Gorilla’
@@ -99,7 +99,7 @@ This was a continuation of the trophy iconography depicting the gorilla as a bea
 
 <figcaption>
 
-_Der von der Hamburger Firma Umlauff 1901 dermoplastisch aufgestellte “Riesengorilla”[^2]; Postkarte mit dem Stempel “Wilh. Kuhnert”. (MfN, HBSB, ZM-B-IV-0872. Alle Rechte vorbehalten.)_
+_Der von der Hamburger Firma Umlauff 1901 dermoplastisch aufgestellte “Riesen-Gorilla”[^2]; Postkarte mit dem Stempel “Wilh. Kuhnert”. (MfN, HBSB, ZM-B-IV-0872. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -122,7 +122,7 @@ _Der Präparator Wilhelm Umlauff, vermutlich mit Bildmaterial von Paul Matschie 
 
 </figure>
 
-Dabei entwickelten sich zeitgleich bereits Gegenbilder, die eine Ikonografie des Gorillas als friedliches Tier entwarfen. Den Anfang machte in Deutschland der Gorilla “Mpungu”, der im Jahr 1876 lebend das Berliner Aquarium erreichte, wo er jedoch nur ein Jahr überlebte. Während sich die Betonung der friedlichen Züge des Tieres später bei dem bekannten Zoo-Gorilla [[Bobby|story.bobby-tracking-body-parts]] fortsetzten,[^4] setzte Umlauff im Jahr 1901 dagegen wohl auch aus Verkaufsgründen auf die sensationsträchtigere Ikonografie. Kurz vor der Ausstellungseröffnung in Karlsruhe erhielt die Firma über Paul Matschie, Kustos der Säugetiersammlung am Zoologischen Museum Berlin und Mitglied des Karlsruher Ausstellungskomitees, Haut und Skelett eines zweiten Gorillas, den der im kolonialisierten Kamerun lebende deutsche Pflanzer und Sammler Georg Zenker erlegt hatte. Bei der dermoplastischen Aufstellung orientierte sich Wilhelm Umlauff an Skizzen und Fotos, die er sich von Matschie übersenden ließ. Ein erhaltenes Foto zeigt den Präparator mit den malerischen Vorlagen in der Hand und im weißen Atelierskittel, der seinen künstlerischen Anspruch unterstrich, neben seinem Werk: “Der Gorilla steigt von einer Wurzel herab; mit dem linken Arm hält er sich hinten an einem Baumstumpf; während der rechte halb gesenkt ist. Er ist nur 5cm kleiner als der erste.”[^5] Jener zweite “Riesen-Gorilla” wurde demnach ebenso in aufgerichteter Haltung für die Karlsruher Ausstellung aufgestellt, um wirkungsvoll seine Größe und “Wildheit” zu präsentieren.[^6] Nachdem der Jäger Georg Zenker Fotos des für die Schau hergerichteten Tieres bekommen hatte, kommentierte er in einem Brief an Umlauff, leider sei “sein Gesichtsausdruck nicht wild genug”. Denn die Realität habe anders ausgesehen: 
+Dabei entwickelten sich zeitgleich bereits Gegenbilder, die eine Ikonografie des Gorillas als friedliches Tier entwarfen. Den Anfang machte in Deutschland der Gorilla “Mpungu”, der im Jahr 1876 lebend das Berliner Aquarium erreichte, wo er jedoch nur ein Jahr überlebte. Während sich die Betonung der friedlichen Züge des Tieres später bei dem bekannten Zoo-Gorilla [[“Bobby”|story.bobby-tracking-body-parts]] fortsetzten,[^4] setzte Umlauff im Jahr 1901 dagegen wohl auch aus Verkaufsgründen auf die sensationsträchtigere Ikonografie. Kurz vor der Ausstellungseröffnung in Karlsruhe erhielt die Firma über Paul Matschie, Kustos der Säugetiersammlung am Zoologischen Museum Berlin und Mitglied des Karlsruher Ausstellungskomitees, Haut und Skelett eines zweiten Gorillas, den der im kolonialisierten Kamerun lebende deutsche Pflanzer und Sammler Georg Zenker erlegt hatte. Bei der dermoplastischen Aufstellung orientierte sich Wilhelm Umlauff an Skizzen und Fotos, die er sich von Matschie übersenden ließ. Ein erhaltenes Foto zeigt den Präparator mit den malerischen Vorlagen in der Hand und im weißen Atelierskittel, der seinen künstlerischen Anspruch unterstrich, neben seinem Werk: “Der Gorilla steigt von einer Wurzel herab; mit dem linken Arm hält er sich hinten an einem Baumstumpf; während der rechte halb gesenkt ist. Er ist nur 5cm kleiner als der erste.”[^5] Jener zweite “Riesen-Gorilla” wurde demnach ebenso in aufgerichteter Haltung für die Karlsruher Ausstellung aufgestellt, um wirkungsvoll seine Größe und “Wildheit” zu präsentieren.[^6] Nachdem der Jäger Georg Zenker Fotos des für die Schau hergerichteten Tieres bekommen hatte, kommentierte er in einem Brief an Umlauff, leider sei “sein Gesichtsausdruck nicht wild genug”. Denn die Realität habe anders ausgesehen: 
 
 >“ \[…] daß [sic!] Maul aufgerissen, die Augen stierend, die Haare gesträubt, halb erhoben usw. ich kann Ihnen gar nicht beschreiben, wie wild so ein Kerl aussieht, wenn er in Gefahr kommt. \[…] Es gellen mir heute noch die Ohren, und wenn ich daran denke, so bin ich immer froh\[,] daß die Geschichte glatt ablief; und jetzt thut es mir leid, daß ich Ihnen es nicht vorher genauer beschrieben habe.”[^7] 
 
