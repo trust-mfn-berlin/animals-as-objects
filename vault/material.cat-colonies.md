@@ -2,7 +2,7 @@
 id: fhaeI85XK03VOoIUROfG9
 title: Cat Colonies
 desc: Audio stories about animals in Berlin
-updated: 1642420960202
+updated: 1643307833478
 created: 1640359483672
 license: CC BY-SA
 title_de: 'Katzen-Kolonien '
@@ -30,7 +30,7 @@ date_start: '2021-01-01T15:40:08.096Z'
 
 <figcaption>
 
-_Feeding station at Katzenschutz-AG in Berlin Pankow. Strays are fed in the trap so that they get used to it. (Image: Anne Hoffmann. All rights reserved.)_
+_Feeding station at Katzenschutz-AG in Berlin Pankow. Strays are fed in the trap so that they get used to it. (Image: Anne Hoffmann.)_
 
 </figcaption>
 
@@ -56,7 +56,7 @@ Other audio pieces tell the stories of [[material.where-the-rats-live]], [[mater
 
 <figcaption>
 
-_Futterstelle der Katzenschutz-AG in Berlin Pankow. Die Streuner werden in der Falle gefüttert, um sie daran zu gewöhnen. (Foto: Anne Hoffmann. Alle Rechte vorbehalten.)_
+_Futterstelle der Katzenschutz-AG in Berlin Pankow. Die Streuner werden in der Falle gefüttert, um sie daran zu gewöhnen. (Foto: Anne Hoffmann.)_
 
 </figcaption>
 
