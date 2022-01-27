@@ -9,7 +9,7 @@ desc: |-
   preceded by a taxonomically structured zoo that placed far more value on the
   completeness of its order than on the quality of the conditions in which
   animals were kept.
-updated: 1643036306222
+updated: 1643295433445
 created: 1618572893774
 license: CC BY-SA
 title_de: Tiere zur Schau stellen
@@ -92,7 +92,7 @@ And this spectacle would not be produced with domestic cattle. The French histor
 
 >“The public wanted to see rare, wild predators, unlike European species, to divert themselves and dream of distant lands. Zoological gardens were a substitute for travelling and satisfied their longing for the ‘exotic’, which in the Western world grew stronger and stronger with Romanticism, research expeditions, and colonial adventures, enticing elites to travel to faraway places.”[^8]
 
-Although they had limited funds, the first zoo directors in Berlin attempted to obtain animals from other continents to meet visitor’s ‘exotic’ expectations, more on this in [[story.catching-animals]]. **From the very beginning, this was accompanied by another aspect of the zoo’s character as a place of adventure and recreation, where the showing of animals more or less disappeared into the background: restaurants and refreshment areas, an opportunity to meet, [[eat|theme.logistical-metabolisms]], and enjoy the company of others.** For some, we might surmise, the animals on display formed a backdrop, an alibi for the real enjoyment. At the Berlin zoo, restaurants were being continually expanded at the public’s request, with the result that, in 1911, the zoo was home to the largest restaurant not just in the city, but probably in Europe, with more than 10,000 seats.[^9] It also provided a setting for concerts of military music and grand balls.
+Although they had limited funds, the first zoo directors in Berlin attempted to obtain animals from other continents to meet visitor’s ‘exotic’ expectations, more on this in [[story.catching-animals]]. **From the very beginning, this was accompanied by another aspect of the zoo’s character as a place of adventure and recreation, where the showing of animals and even the sometimes permitted [[touching of the animals|material.face-to-face-with-zoo-animals]] more or less disappeared into the background: restaurants and refreshment areas, an opportunity to meet, [[eat|theme.logistical-metabolisms]], and enjoy the company of others.** For some, we might surmise, the animals on display formed a backdrop, an alibi for the real enjoyment. At the Berlin zoo, restaurants were being continually expanded at the public’s request, with the result that, in 1911, the zoo was home to the largest restaurant not just in the city, but probably in Europe, with more than 10,000 seats.[^9] It also provided a setting for concerts of military music and grand balls.
 
 <figure>
 
@@ -374,7 +374,7 @@ Und dieses Spektakel wurde nicht mit einheimischen Rindern erzeugt. Der französ
 
 >“Das Publikum wollte seltene, wilde Raubtiere sehen, andere als die europäischen Arten, um sich abzulenken und von fernen Ländern zu träumen. Die zoologischen Gärten waren ein Ersatz für Reisen und befriedigten die Sehnsucht nach dem ‘Exotischen’, die in der westlichen Welt mit der Romantik, den Forschungsexpeditionen und den kolonialen Abenteuern immer stärker wurde und die Eliten in die Ferne lockte.”[^8]
 
-In Berlin bemühten sich die ersten Zoodirektoren trotz knapper Mittel intensiv, Tiere anderer Kontinente zu bekommen, die den Erwartungen der Zuschauer:innen an ‘Exotik’ entsprachen, mehr dazu in [[story.catching-animals]]. **Zudem gesellte sich von Anfang an eine weitere Facette zum Erlebnis- und Erholungscharakter des Zoos hinzu, bei der das Zeigen der Tiere eher in den Hintergrund trat: Restaurationen, die Möglichkeit, sich zu treffen, [[zu essen|theme.logistical-metabolisms]] und Geselligkeit zu pflegen.** Die gezeigten Tiere bildeten für einige, so könnte man meinen, eine Kulisse, ein Alibi des eigentlichen Vergnügens. Im Berliner Zoo wurden auf Wunsch des Publikums die Restaurationen stetig ausgebaut, so dass 1911 das größte Restaurant nicht nur der Stadt, sondern wohl auch Europas mit mehr als 10.000 Sitzplätzen im Zoo stand.[^9] Es war auch Schauplatz von Militärmusik-Konzerten und großen Bällen.
+In Berlin bemühten sich die ersten Zoodirektoren trotz knapper Mittel intensiv, Tiere anderer Kontinente zu bekommen, die den Erwartungen der Zuschauer:innen an ‘Exotik’ entsprachen, mehr dazu in [[story.catching-animals]]. **Zudem gesellte sich von Anfang an eine weitere Facette zum Erlebnis- und Erholungscharakter des Zoos hinzu, bei der das Zeigen der Tiere und selbst das bisweilen erlaubte [[Anfassen der Tiere|material.face-to-face-with-zoo-animals]] eher in den Hintergrund trat: Restaurationen, die Möglichkeit, sich zu treffen, [[zu essen|theme.logistical-metabolisms]] und Geselligkeit zu pflegen.** Die gezeigten Tiere bildeten für einige, so könnte man meinen, eine Kulisse, ein Alibi des eigentlichen Vergnügens. Im Berliner Zoo wurden auf Wunsch des Publikums die Restaurationen stetig ausgebaut, so dass 1911 das größte Restaurant nicht nur der Stadt, sondern wohl auch Europas mit mehr als 10.000 Sitzplätzen im Zoo stand.[^9] Es war auch Schauplatz von Militärmusik-Konzerten und großen Bällen.
 
 <figure>
 
