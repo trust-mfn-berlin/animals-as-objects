@@ -7,7 +7,7 @@ short_desc_de: Pfeilschwanzkrebse in der Sammlung und im Labor
 date_end: ""
 published: false
 title: The Worlds We Make
-updated: 1643318381974
+updated: 1643318570878
 id: 4npaIbpRAHygxSlfFDrj3
 doi: 64y2-m311/51
 translators:
@@ -455,7 +455,7 @@ Verbindungen wie die hier geschilderten und die damit verknüpften Abhängigkeit
 
 [^8]: Da das Präparat ‘ZMB 48487’ undatiert ist, könnten mit dem “Berliner Aquarium” zwei unterschiedliche Einrichtungen gemeint sein: Von 1869 bis 1910 existierte das Aquarium Unter den Linden, wo bereits ab 1870 Pfeilschwanzkrebse zu sehen waren; vgl. Brehm, 1870. Aus den alten Sammlungskatalogen wissen wir, dass das Zoologische Institut von dort bereits im November 1895 Exemplare erhielt; vgl. Zoologisches Institut (ZIB). Inventarbuch V, Bd. 1, Nr. 3409; Zoologisches Institut (ZIB). Inventarbuch V, Bd. 2, Nr. 4301. Nachdem das Haus 1910 schließen musste, eröffnete drei Jahre später im Zoologischen Garten ein neues Aquarium. Vor und nach dem Ersten Weltkrieg wurde es durch das New York Aquarium jährlich mit Sendungen von zehn bis 20 lebenden Pfeilschwanzkrebsen beschenkt und gab wiederum tote Limuli an das Zoologische Institut ab; vgl. Zoologischer Garten Berlin. _Geschäftsbericht für das Jahr 1914_. Berlin: 1915.
 
-[^9]: Vgl. Stefan Richter. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität – ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ 37 (25. Februar 1999): 59-76, 64.
+[^9]: Vgl. Stefan Richter. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität: Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ 37 (25. Februar 1999): 59-76, 64.
 
 [^10]: Dunlop, 2012: 215.
 
