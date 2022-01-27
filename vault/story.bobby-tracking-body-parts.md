@@ -5,7 +5,7 @@ desc: |-
   The little known scientific and collection history of the famous zoo
   gorilla is a story of individual body parts that connect various places and
   disciplines with some in part sensitive contexts.
-updated: 1643293489440
+updated: 1643317989560
 created: 1640338390195
 license: CC BY-SA
 title_de: “Bobby”. Eine Fundgeschichte
@@ -37,7 +37,7 @@ feature: true
 
 <figcaption>
 
-_A photo of “Bobby” the gorilla’s carcass during his necropsy in 1935. (MfN, Historische Bild- und Schriftgutsammlungen [HBSB], ZM-B-IV-557-2-r. Image: W. Tank. All rights reserved.)_
+_A photo of “Bobby” the gorilla’s carcass during his necropsy in 1935. (MfN, Historische Bild- und Schriftgutsammlungen [HBSB], ZM-B-IV-557-2-r. Image: W. Tank/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -90,7 +90,7 @@ _The dead gorilla “Bobby” at Berlin Zoo with his keeper Karl Liebetreu. (AZG
 
 <figcaption>
 
-_“Bobby’s” skull and various bones are being kept in the Mammals Collection at the Museum für Naturkunde Berlin. (MfN. Images: Mareike Vennen. All rights reserved.)_
+_“Bobby’s” skull and various bones are being kept in the Mammals Collection at the Museum für Naturkunde Berlin. (Images: Mareike Vennen/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -120,7 +120,7 @@ Before the individual body parts were prepared and donated to other institutions
 
 <figcaption>
 
-_The casts of “Bobby’s” hand and foot made by Hans Virchow are still housed in the Anatomical Teaching Collection on the premises of the Charité University Hospital. (Image of the two hand casts and the two foot casts: Evelyn Heuckendorf/Charité. Charité, all rights reserved. Image of gorilla and human hand and image of gorilla foot in display case: Mareike Vennen. Charité, all rights reserved.)_
+_The casts of “Bobby’s” hand and foot made by Hans Virchow are still housed in the Anatomical Teaching Collection on the premises of the Charité University Hospital. (Image of the two hand casts and the two foot casts: Evelyn Heuckendorf/Charité. All rights reserved. Image of gorilla and human hand and image of gorilla foot in display case: Mareike Vennen/Charité. All rights reserved.)_
 
 </figcaption>
 
@@ -164,7 +164,7 @@ _This photograph with the caption “elbow top layer from the front” from the 
 
 Setting out in search of “Bobby” today means setting out in search of [[individual body parts|story.the-afterlife-of-zoo-animals]], a quest that leads through different institutions. His life is thus not just a part of [[colonial history|material.the-german-colonial-hunting-exhibition]]; rather, his life and afterlife are also part of the history of the city of Berlin. Tracing its [[material culture|story.silkworms]] points to a number of collections and research facilities across the city that dealt with animals and the – from today’s perspective sometimes problematic – knowledge about them. The scientific and collection history of “Bobby” is yet to be written. However, the collaboration of different disciplines during and after the necropsy shows that this animal has made its way into multiple research fields, including pathology, anatomy, and zoology.
 
-This text could only provide a cursory sketch of the use of techniques such as dissection, reproduction, and distribution. But these techniques raise many more questions, not least about their genealogy and the historical contexts in which they have been applied: To what extent do the dissection and [[distribution|story.the-worlds-we-make]] of animal bodies or body parts continue colonial scientific practices as well as colonial trade in animals and their body parts? The distribution of objects to different collections and research facilities is congruent with a practice of collecting that was widespread in the 19th and early 20th centuries. This combined the collection of botanical, ethnographic, zoological, and other objects in the field before routing them into different collections and institutions. At the same time, as mentioned above, dissecting one and the same body and sending its individual body parts to different collections is a practice also applied to human beings. So-called ‘human zoos’ as part of zoos, industrial and world exhibitions not just exhibited people: during the first German Colonial Exhibition in 1896, held as part of the Berlin Industrial Exposition at Treptower Park, 106 people from German colonies like Cameroon and Togo were made to be part of such a ‘human zoo’. The ethnologist and anthropologist Felix von Luschan arranged for the body parts of any participants that might die to be examined at the Anatomical Institute at the university in Berlin. Their brains would remain in the collection, while their bones would be sent to Luschan’s collection at the ethnological museum.[^19]
+This text could only provide a cursory sketch of the use of techniques such as dissection, reproduction, and distribution. But these techniques raise many more questions, not least about their genealogy and the historical contexts in which they have been applied: To what extent do the dissection and [[distribution|story.the-worlds-we-make]] of animal bodies or body parts continue colonial scientific practices as well as colonial trade in animals and their body parts? The distribution of objects to different collections and research facilities is congruent with a practice of collecting that was widespread in the 19th and early 20th centuries. This combined the collection of botanical, ethnographic, zoological, and other objects in the field before routing them into different collections and institutions. At the same time, as mentioned above, dissecting one and the same body and sending its individual body parts to different collections is a practice also applied to human beings. So-called ‘human zoos’ as part of zoos, industrial and world exhibitions not just exhibited people: during the first German Colonial Exhibition in 1896, held as part of the Berlin Industrial Exposition at Treptower Park, 106 people from German colonies like Cameroon and Togo were made to be part of such a ‘human zoo’. The ethnologist and anthropologist Felix von Luschan arranged for the body parts of any participants that might die to be examined at the Anatomical Institute at the university in Berlin. Their brains would remain in the collection, while their bones would be sent to Luschan’s collection at the ethnological museum in Berlin.[^19]
 
 As the example of the Anatomical Collection at Charité shows, anatomical collections may also contain zoological specimens, probably for the purpose of comparison. What role did the Anatomical Institute at Westend and the Kaiser Wilhelm Institute for Brain Research play in “Bobby’s” case? Did their research forge links between science, animal bodies, and societal ideas about ‘race’? In turn, casting techniques raise questions not least about the relationship between uniqueness and reproduction and, therefore, about the issue of authenticity. Death masks – probably the most well-known form of face casts – do not just produce images of life, but also make reference to live casts. Although they were already being used in antiquity, impressions of the living body made in wax and plaster were used above all in the mid-19th century for anthropological and ethnographic purposes in order to document racist and racializing measures. Britta Lange has shown how colonial exhibitions that had been held in the German-speaking world since the 1890s usually presented a series of ‘Rasseköpfe’ (‘racial’ heads), wax casts of the inhabitants of colonised territories. These racialised heads could also be found in anatomical and natural history museums in the second half of the 19th century, where they replaced or supplemented preserved head specimens.[^20] Where contexts apparent in 1930s Berlin? What can we still see today? With regard to animals, too, this raises questions about which parts were used for which purposes and at what cost. What is clear is that when dissection techniques turn one object into many, as in “Bobby’s” case, the contexts and potential crimes, too, are multiplied.
 
@@ -216,7 +216,7 @@ As the example of the Anatomical Collection at Charité shows, anatomical collec
 
 <figcaption>
 
-_Ein Foto vom Kadaver des Gorillas “Bobby” während der Sektion des Tieres im Jahr 1935. (MfN, Historische Bild- und Schriftgutsammlungen (HBSB), ZM-B-IV-557-2-r. Foto: W. Tank. Alle Rechte vorbehalten.)_
+_Ein Foto vom Kadaver des Gorillas “Bobby” während der Sektion des Tieres im Jahr 1935. (MfN, Historische Bild- und Schriftgutsammlungen (HBSB), ZM-B-IV-557-2-r. Foto: W. Tank/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -269,7 +269,7 @@ Die Obduktion des Gorillas “Bobby” diente in erster Linie dazu, die Todesurs
 
 <figcaption>
 
-_Der Schädel und diverse Knochen von “Bobby” werden in der Säugetiersammlung des Museums für Naturkunde Berlin aufbewahrt. (MfN. Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
+_Der Schädel und diverse Knochen von “Bobby” werden in der Säugetiersammlung des Museums für Naturkunde Berlin aufbewahrt. (Foto: Mareike Vennen/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -299,7 +299,7 @@ Vor der Präparation einzelner Körperteile, die an unterschiedliche Institution
 
 <figcaption>
 
-_Die von Hans Virchow angefertigten Hand- und Fußabgüsse aus Gips befinden sich noch heute in der Anatomischen Lehrsammlung auf dem Charité-Gelände. (Fotos der beiden Hand- und der beiden Fußabgüsse: Evelyn Heuckendorf/Charité. Charité, alle Rechte vorbehalten. Foto von Gorilla- und Menschenhand und Foto des Gorilla-Fußes in der Vitrine: Mareike Vennen. Charité, alle Rechte vorbehalten.)_
+_Die von Hans Virchow angefertigten Hand- und Fußabgüsse aus Gips befinden sich noch heute in der Anatomischen Lehrsammlung auf dem Charité-Gelände. (Fotos der beiden Hand- und der beiden Fußabgüsse: Evelyn Heuckendorf/Charité. Alle Rechte vorbehalten. Foto von Gorilla- und Menschenhand und Foto des Gorilla-Fußes in der Vitrine: Mareike Vennen/Charité. Alle Rechte vorbehalten.)_
 
 </figcaption>
 

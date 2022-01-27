@@ -7,7 +7,7 @@ short_desc_de: Pfeilschwanzkrebse in der Sammlung und im Labor
 date_end: ""
 published: false
 title: The Worlds We Make
-updated: 1642818975592
+updated: 1643318083571
 id: 4npaIbpRAHygxSlfFDrj3
 doi: 64y2-m311/51
 translators:
@@ -108,7 +108,7 @@ In fact, these specimens, as can be read at the top of the jar label, have come 
 
 <figcaption>
 
-_Label on the specimen from the Zoological Institute, which now bears inventory number ‘ZMB 48487’, at the Museum für Naturkunde. (MfN, ZMB 48487. Image: Mareike Vennen. All rights reserved.)_
+_Label on the specimen from the Zoological Institute, which now bears inventory number ‘ZMB 48487’, at the Museum für Naturkunde. (MfN, ZMB 48487. Image: Mareike Vennen/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -343,7 +343,7 @@ Tatsächlich stammen diese Präparate aus dem Zoologischen Institut, wie oben au
 
 <figcaption>
 
-_Etikett des Präparats aus dem Zoologische Institut, das heute im Museum für Naturkunde Berlin die Inventarnummer ‘ZMB 48487’ trägt. (MfN, ZMB 48487. Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
+_Etikett des Präparats aus dem Zoologische Institut, das heute im Museum für Naturkunde Berlin die Inventarnummer ‘ZMB 48487’ trägt. (MfN, ZMB 48487. Foto: Mareike Vennen/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
