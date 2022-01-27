@@ -7,7 +7,7 @@ short_desc_de: Clastique-Modell einer Seidenraupe
 date_end: 1900-12-31T11:00:00.000Z
 published: false
 title: Papier Mâché Silkworm
-updated: 1642462651583
+updated: 1643299243814
 id: kaVI1pTyKCM8SvVsrYrSJ
 doi: 64y2-m311/72
 translators:
@@ -43,7 +43,7 @@ date_start: 1820-01-01T23:06:32.000Z
 
 <figcaption>
 
-_Papier mâché_ Bombyx mori _by Louis Auzoux in the Zoological Teaching Collection of the Humboldt-Universität zu Berlin. (Zoological Teaching Collection, image: Kerstin Stoll 2020. All rights reserved.)_
+_Papier mâché_ Bombyx mori _by Louis Auzoux in the Zoological Teaching Collection of the Humboldt-Universität zu Berlin. (Image: Kerstin Stoll/Zoological Teaching Collection. All rights reserved.)_
 
 </figcaption>
 
@@ -59,7 +59,7 @@ While the studio of Adolf Ziegler (1820-1889) and his son Friedrich (1860-1936) 
 
 <figcaption>
 
-_Even with the lid closed, the insides of the silkworm can be seen in the papier mâché model. (Zoological Teaching Collection, image: Kerstin Stoll 2020. All rights reserved.)_
+_Even with the lid closed, the insides of the silkworm can be seen in the papier mâché model. (Image: Kerstin Stoll/Zoological Teaching Collection. All rights reserved.)_
 
 </figcaption>
 
@@ -92,7 +92,7 @@ The functional, collapsible anatomical model (which Auzoux also referred to as a
 
 <figcaption>
 
-_Clastique-Modell_ Bombyx mori _von Louis Auzoux in der Zoologischen Lehrsammlung der Humboldt-Universität zu Berlin. (Zoologische Lehrsammlung, Foto: Kerstin Stoll 2020. Alle Rechte vorbehalten.)_
+_Clastique-Modell_ Bombyx mori _von Louis Auzoux in der Zoologischen Lehrsammlung der Humboldt-Universität zu Berlin. (Foto: Kerstin Stoll/Zoologische Lehrsammlung. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -108,7 +108,7 @@ Während das Atelier von Adolf Ziegler (1820-1889) und seinem Sohn Friedrich (18
 
 <figcaption>
 
-_Auch mit geschlossenem Deckel sind die Innereien des Maulbeerspinners seitlich am Clastique-Modell zu erkennen. (Zoologische Lehrsammlung, Foto: Kerstin Stoll 2020. Alle Rechte vorbehalten.)_
+_Auch mit geschlossenem Deckel sind die Innereien des Maulbeerspinners seitlich am Clastique-Modell zu erkennen. (Foto: Kerstin Stoll/Zoologische Lehrsammlung. Alle Rechte vorbehalten.)_
 
 </figcaption>
 

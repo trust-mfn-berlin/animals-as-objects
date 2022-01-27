@@ -7,7 +7,7 @@ short_desc_de: Wie werden die Objekte einer Lehrsammlung verzeichnet?
 date_end: 1968-12-31T11:00:00.000Z
 published: false
 title: Inventory Books
-updated: 1642369593721
+updated: 1643301367297
 id: kZTLAIf7pRRgEPPJbtGqA
 doi: 64y2-m311/44
 translators:
@@ -43,7 +43,7 @@ date_start: 1883-12-31T23:06:32.000Z
 
 <figcaption>
 
-_The [[microscopic|theme.microbial-worlds]] zoology course at Berlin’s Zoological Institute, 1912/1913. Wall charts, models, and specimens were hung up, set up, and made available to students. At the front is Director Franz Eilhard Schulze, to his left department head Wilhelm Berndt.[^1]_
+_The [[microscopic zoology course|theme.microbial-worlds]] at Berlin’s Zoological Institute, 1912/1913. Wall charts, models, and specimens were hung up, set up, and made available to students. At the front is Director Franz Eilhard Schulze, to his left department head Wilhelm Berndt.[^1]_
 
 </figcaption>
 
@@ -231,7 +231,7 @@ The inventory books have become historical documents. It is these discontinuitie
 
 <figcaption>
 
-_Der [[mikroskopisch-|theme.microbial-worlds]]zoologische Kurs im Zoologischen Institut Berlin, 1912/1913. Wandtafeln, Modelle und Präparate wurden aufgehängt und bereitgestellt. Im Vordergrund steht der Direktor Franz Eilhard Schulze, links daneben sein Abteilungsleiter Wilhelm Berndt.[^1]_
+_Der [[mikroskopisch-zoologische Kurs|theme.microbial-worlds]] im Zoologischen Institut Berlin, 1912/1913. Wandtafeln, Modelle und Präparate wurden aufgehängt und bereitgestellt. Im Vordergrund steht der Direktor Franz Eilhard Schulze, links daneben sein Abteilungsleiter Wilhelm Berndt.[^1]_
 
 </figcaption>
 
@@ -361,7 +361,7 @@ _Diese Seite aus dem Inventarbuch VII zeigt die Einteilung der Präparate in Tie
 
 Wie auch die Objekte der Sammlung selbst, weisen die Inventare Gebrauchsspuren auf. Die Seiten der Inventarbücher V zeigen farbliche Codierungen, Durchstreichungen und mit Bleistift vermerkte Notizen. Diese wurden nachträglich hinzugefügt, gehörten also nicht zu der ursprünglich beabsichtigten Verzeichnungspraxis. Sie entstanden vermutlich, als man die einzelnen Angaben in das Inventarbuch VII übertrug. Die Annotationen überlagern einander und betonen verschiedene zeitliche Ebenen. Gerade deshalb sorgen sie bei außenstehenden ‘Leser:innen’ und bei neuen Sammlungsmitarbeiter:innen für Verwirrung. **Das Entziffern und die korrekte historische Einordnung gleichen detektivischer Arbeit, die trotz des minutiösen Abgleichens unterschiedlicher Einträge, Nummern und Handschriften nur selten zu einer präzisen Einschätzung führt.**
 
-Markierungen mit Kreuzen, Kreisen und Punkten neben Einträgen des Inventarbuchs V stehen höchstwahrscheinlich für ‘erhalten geblieben’ oder verloren gegangen’. Entsprechend gestaltete sich daraufhin die Übertragung der Verzeichnung in den Katalog VII. _Acanthias vulgaris_ Risso notierte man dabei wieder mit seiner alten Bezeichnung unter der Nummer 1208.
+Markierungen mit Kreuzen, Kreisen und Punkten neben Einträgen des Inventarbuchs V stehen höchstwahrscheinlich für ‘erhalten geblieben’ oder ‘verloren gegangen’. Entsprechend gestaltete sich daraufhin die Übertragung der Verzeichnung in den Katalog VII. _Acanthias vulgaris_ Risso notierte man dabei wieder mit seiner alten Bezeichnung unter der Nummer 1208.
 
 <figure>
 

@@ -3,7 +3,7 @@ license: CC BY-SA
 title: A House of Cards
 title_de: Verzettelung
 created: 1629792930385
-updated: 1642532637458
+updated: 1643302317513
 id: A8Dh5fk6b52EJQRaw3Qe4
 author: Theresa Schatt
 doi: 64y2-m311/42
@@ -39,7 +39,7 @@ published: false
  
 <figcaption>
  
-_Card box in the Zoological Teaching Collection of the Humboldt-Universität zu Berlin. Zoological Teaching Collection, image: Theresa Schatt. All rights reserved.)_
+_Card box in the Zoological Teaching Collection of the Humboldt-Universität zu Berlin. (Image: Theresa Schatt/Zoological Teaching Collection. All rights reserved.)_
 
 </figcaption>
  
@@ -77,7 +77,7 @@ Because they are so flexible, the index cards facilitate the management of colle
  
 <figcaption>
  
-_Zettelkästen in der Zoologischen Lehrsammlung der Humboldt-Universität zu Berlin. (Zoologische Lehrsammlung, Foto: Theresa Schatt. Alle Rechte vorbehalten.)_
+_Zettelkästen in der Zoologischen Lehrsammlung der Humboldt-Universität zu Berlin. (Foto: Theresa Schatt/Zoologische Lehrsammlung. Alle Rechte vorbehalten.)_
 
 </figcaption>
  
