@@ -2,7 +2,7 @@
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 title: Zoos and Conservation
 desc: Since only a relatively short time zoos intensify their conservation efforts.
-updated: 1643108663766
+updated: 1643311245364
 created: 1618994200982
 license: CC BY-SA
 title_de: Zoos und Artenschutz
@@ -220,13 +220,13 @@ _Bild auf der Website der World Association of Zoos and Aquariums. https://www.w
 
 Das Tier eignete sich in den Augen des Verbandes also als Botschafter für den Schutz seines Habitats und aller dort lebenden Spezies – so wie einst der Eisbär [[Knut|story.Knut]] als Botschafter für den Schutz seines arktischen Habitats galt.
 
-[^1]: Heini Hediger schrieb 1965: “Tiere mit großem Schauwert sind [...] solche, vor deren Gehege oder Käfig sich das Publikum am zahlreichsten und am ausdauerndsten ansammelt.” (Hediger, Heini. _Mensch und Tier im Zoo: Tiergarten-Biologie_. Rüschlikon-Zürich, Stuttgart und Wien: Albert Müller, 1965: 124) und zählte die Menschenaffen dazu. Auf Beobachtungen von Besucher:innen beruhend bestätigte dies Jürg Meier 2005. (Jürg Meier, _Handbuch Zoo: moderne Tiergartenbiologie_, Bern, Stuttgart und Wien: Haupt Verlag, 2009: 11 und 115–120.)
+[^1]: Heini Hediger schrieb 1965: “Tiere mit großem Schauwert sind […] solche, vor deren Gehege oder Käfig sich das Publikum am zahlreichsten und am ausdauerndsten ansammelt.” (Heini Hediger. _Mensch und Tier im Zoo: Tiergarten-Biologie_. Rüschlikon-Zürich: Albert Müller, 1965: 124) und zählte die Menschenaffen dazu. Auf Beobachtungen von Besucher:innen beruhend bestätigte dies Jürg Meier 2005. (Jürg Meier, _Handbuch Zoo: moderne Tiergartenbiologie_, Bern: Haupt Verlag, 2009: 11, 115-120.)
 
-[^2]: Klös, Heinz-Georg. “Berliner Aquariengeschichte.” In _Tierwelt hinter Glas. Das Zoo-Aquarium Berlin_, Heinz-Georg Klös und Jürgen Lange (Hg.). Berlin: Arani/ Haude und Spener, 1988: 9–32, 14.
+[^2]: Heinz-Georg Klös. “Berliner Aquariengeschichte.” In _Tierwelt hinter Glas: Das Zoo-Aquarium Berlin_, Heinz-Georg Klös und Jürgen Lange (Hg.). Berlin: Arani/ Haude und Spener, 1988: 9-32, 14.
 
 [^3]: “Alo: Überraschung im Zoo.” _Berliner Nachtausgabe_, 24.01.1928.
 
-[^4]: [[Journale des Zoologischen Gartens Berlin|material.journale-the-zoo-directory]] für die Jahre 1928, 1930 und 1933, sowie Karteikarte Pongo Pygmaeus der [[Steinmetz-Kartei|material.steinmetz-index]].
+[^4]: [[Journale|material.journale-the-zoo-directory]] des Zoologischen Gartens Berlin für die Jahre 1928, 1930 und 1933, sowie Karteikarte Pongo Pygmaeus der [[Steinmetz-Kartei|material.steinmetz-index]].
 
 [^5]: Seit 1956 gab es nach dem durch den Aufsichtsrat des Zoologischen Gartens erzwungenen Rücktritt Katharina Heinroths quasi nur noch männliche Zoodirektoren. Zwar nahmen Katharina Heinroth und Erna Mohr, die Kustodin für Säugetiere des Hamburger Zoologischen Museums, als Mitglieder gelegentlich noch an den Tagungen teil, eine Durchsicht der Protokolle ergibt aber das Bild, dass beide Frauen kaum oder gar keine Redebeiträge in den Diskussionen der Geschäftssitzungen gaben.
 
@@ -246,42 +246,42 @@ Das Tier eignete sich in den Augen des Verbandes also als Botschafter für den S
 
 [^13]: Protokolle der VDZ-Tagungungen 1966 und 1967, ATGS, Nachlass W. Fiedler, Ordner VDZ und WAZA, Nr. 1.
 
-[^14]: Kisling, Vernon N. Jr. “Historic and Cultural Foundations of Zoo Conservation: A Narrative Timeline”. In _The Ark and Beyond: The Evolution of Zoo and Aquarium Conservation_, Ben A. Minteer, Jane Maienschein, James P. Collins und George B. Rabb (Hg.), Chicago: University of Chicago Press, 2018: 41.
+[^14]: Vernon N. Jr. Kisling. “Historic and Cultural Foundations of Zoo Conservation: A Narrative Timeline”. In _The Ark and Beyond: The Evolution of Zoo and Aquarium Conservation_, Ben A. Minteer, Jane Maienschein, James P. Collins und George B. Rabb (Hg.), Chicago: University of Chicago Press, 2018: 41.
 
-[^15]: Vgl. Barrow, Mark V. Jr. “Teetering on the Brink of Extinction: The Passenger Pigeon, the Bison, and American Zoo Culture in the Late Nineteenth and Early Twentieth Centuries”. In _The Ark and Beyond: The Evolution of Zoo and Aquarium Conservation_. Ben A. Minteer, Jane Maienschein, James P. Collins und George B. Rabb (Hg.), Chicago: The University of Chicago Press, 2018: 51–64. 
+[^15]: Vgl. Mark V. Jr. Barrow. “Teetering on the Brink of Extinction: The Passenger Pigeon, the Bison, and American Zoo Culture in the Late Nineteenth and Early Twentieth Centuries”. In _The Ark and Beyond: The Evolution of Zoo and Aquarium Conservation_. Ben A. Minteer, Jane Maienschein, James P. Collins und George B. Rabb (Hg.), Chicago: The University of Chicago Press, 2018: 51-64. 
 
 
-[^16]: Zu der Geschichte der Wisentzucht und den Kontroversen um die genetische Vielfalt in den Projekten siehe: Mohr, Erna. _Der Wisent._ Leipzig: Akademische Verlagsgesellschaft Geest & Portig, 1952; Dunkel, Ulrich. _Für die Wildnis geboren: Neue Heimat der Tiere in zoologischen Gärten_. Berlin: Safari, 1967; Rengert, Bernhardt. “Die Verdrängungszucht - ein verdrängtes und verkanntes Kapitel NS-Geschichte in der Schorfheide.” _Mitteilungen des Uckermärkischen Geschichtsvereins zu Prenzlau_ 25 (2018): 43–71; Krzoska, Markus. “’We Know Them All’: Does It Make Sense to Create a Collective Biography of the European Bison?” In _Animal Biography: Re-Framing Animal Lives_, André Krebber und Mieke Roscher (Hg.). New York: Springer Science + Business Media, 2018: 103–117. Unter Vorbehalt einer stark durch persönliches Engagement geprägten Erzählung: Heck, Lutz. “Der Wisent-Schutzpark in Springe und der Zoo-Berlin.” _Bongo_ 4 (1980): 37–42.
+[^16]: Zu der Geschichte der Wisentzucht und den Kontroversen um die genetische Vielfalt in den Projekten siehe: Erna Mohr. _Der Wisent._ Leipzig: Akademische Verlagsgesellschaft Geest & Portig, 1952; Ulrich Dunkel. _Für die Wildnis geboren: Neue Heimat der Tiere in zoologischen Gärten_. Berlin: Safari, 1967; Bernhardt Rengert. “Die Verdrängungszucht: Ein verdrängtes und verkanntes Kapitel NS-Geschichte in der Schorfheide.” _Mitteilungen des Uckermärkischen Geschichtsvereins zu Prenzlau_ 25 (2018): 43-71; Markus Krzoska. “‘We Know Them All’: Does It Make Sense to Create a Collective Biography of the European Bison?” In _Animal Biography: Re-Framing Animal Lives_, André Krebber und Mieke Roscher (Hg.). New York: Springer Science + Business Media, 2018: 103-117. Unter Vorbehalt einer stark durch persönliches Engagement geprägten Erzählung: Lutz Heck. “Der Wisent-Schutzpark in Springe und der Zoo-Berlin.” _Bongo_ 4 (1980): 37–42.
 
 [^17]: Z. Veselovsky an Mitglieder IUDZG, o. D., ATGS, Nachlass W. Fiedler, Ordner VDZ und WAZA, Nr. 1.
 
 [^18]: Durchschrift Anmeldung Heinrich Dathes zur Tagung in Japan, AZGB, V 5/35.
 
-[^19]: Penn, Laura, Markus Gusset und Gerald Dick. _77 years: the history and evolution of the World Association of Zoos and Aquariums, 1935-2012_. Herausgegeben von World Association of Zoos and Aquariums. Gland, Switzerland: World Association of Zoos and Aquariums (WAZA), 2012: 168. Sowie Dick van Dam. “The Future of Zoological Gardens”. In _IUDZG: Minutes and Proceedings of the 35th Annual Conference Held from October 13–18 1980_, (AZGB, V 5/64).
+[^19]: Laura Penn, Markus Gusset und Gerald Dick. _77 years: The History and Evolution of the World Association of Zoos and Aquariums, 1935-2012_. World Association of Zoos and Aquariums (Hg.). Gland: World Association of Zoos and Aquariums (WAZA), 2012: 168. Sowie Dick van Dam. “The Future of Zoological Gardens”. In _IUDZG: Minutes and Proceedings of the 35th Annual Conference Held from October 13-18 1980_, (AZGB, V 5/64).
 
-[^20]: Nogge, Gunther. “Arche Zoo: Vom Tierfang zum Erhaltungszuchtprogramm”. In _Berichte aus der Arche_, Dieter Poley (Hg,). Stuttgart: Georg Thieme Verlag, 1993: 79–118, 80.
+[^20]: Gunther Nogge. “Arche Zoo: Vom Tierfang zum Erhaltungszuchtprogramm”. In _Berichte aus der Arche_. Dieter Poley (Hg.). Stuttgart: Georg Thieme Verlag, 1993: 79-118, 80.
 
-[^21]: Einführend hierzu: Niekisch, Manfred, und Volker Sommer. “Zur Relevanz des Brückenbauens”. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 31–34.
+[^21]: Einführend hierzu: Manfred Niekisch und Volker Sommer. “Zur Relevanz des Brückenbauens”. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 31-34.
 
 [^22]: Informationen zu den Programmen unter Zoologischer Garten Berlin. Artenschutz: https://www.zoo-berlin.de/de/artenschutz/weltweit/bartgeier; https://www.zoo-berlin.de/de/artenschutz/weltweit/wisent und https://www.zoo-berlin.de/de/artenschutz/weltweit/vietnamesischer-fasan (03.01.2022).
 
-[^23]: VdZ. _Artenschutzzentrum Zoo_, 2021, https://www.vdz-zoos.org/fileadmin/PMs/2021/VdZ/VdZ-Broschuere_Artenschutzzentrum_Zoo.pdf (03.01.2022).
+[^23]: VdZ. _Artenschutzzentrum Zoo_, 2021. https://www.vdz-zoos.org/fileadmin/PMs/2021/VdZ/VdZ-Broschuere_Artenschutzzentrum_Zoo.pdf (03.01.2022).
 
-[^24]: MacKenzie, John M. _The Empire of Nature: Hunting, Conservation, and British Imperialism_. Manchester, New York: St. Martin‘s Press, 1997; Thompsell, Angela. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015.
+[^24]: John M. MacKenzie. _The Empire of Nature: Hunting, Conservation, and British Imperialism_. Manchester, New York: St. Martin‘s Press, 1997; Angela Thompsell. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015.
 
-[^25]: Gißibl, Bernhard. “A Bavarian Serengeti: Space, Race and Time in Nature Conservation in East Africa and Germany”. In _Civilizing Nature: National Parks in Global Historical Perspective_, ernhard Gißibl, Sabine Höhler und Patrick Kupper (Hg.). New York, Oxford: Berghahn, 2012: 102–119; ders. “Das kolonisierte Tier: Zur Ökologie der Kontaktzonen des deutschen Kolonialismus”. In _WerkstattGeschichte_, Nr. 56 (2010): 7–28; ders. “Jagd und Herrschaft: Zur politischen Ökologie des deutschen Kolonialismus in Ostafrika”. In _Zeitschrift für Geschichtswissenschaft_ 56, Nr. 6 (2008): 501–20 oder ders. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. New York: Berghahn Books, 2016.
+[^25]: Bernhard Gißibl. “A Bavarian Serengeti: Space, Race and Time in Nature Conservation in East Africa and Germany”. In _Civilizing Nature: National Parks in Global Historical Perspective_, Bernhard Gißibl, Sabine Höhler und Patrick Kupper (Hg.). New York, Oxford: Berghahn, 2012: 102-119; ders. “Das kolonisierte Tier: Zur Ökologie der Kontaktzonen des deutschen Kolonialismus”. In _WerkstattGeschichte_, Nr. 56 (2010): 7-28; ders. “Jagd und Herrschaft: Zur politischen Ökologie des deutschen Kolonialismus in Ostafrika”. In _Zeitschrift für Geschichtswissenschaft_ 56, Nr. 6 (2008): 501–20 oder ders. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. New York: Berghahn Books, 2016.
 
-[^26]: Uekötter, Frank. _The Green and the Brown: a History of Conservation in Nazi Germany_, Cambridge, New York, Melbourne: Cambridge University Press, 2006.
+[^26]: Frank Uekötter. _The Green and the Brown: A History of Conservation in Nazi Germany_, Cambridge, New York, Melbourne: Cambridge University Press, 2006.
 
-[^27]: Lekan, Thomas M. _Our Gigantic Zoo: a German Quest to Save the Serengeti_, New York: Oxford University Press, 2020.
+[^27]: Thomas M. Lekan. _Our Gigantic Zoo: a German Quest to Save the Serengeti_, New York: Oxford University Press, 2020.
 
-[^28]: Domínguez, Lara und Colin Luoma. “Decolonising Conservation Policy: How Colonial Land and Conservation Ideologies Persist and Perpetuate Indigenous Injustices at the Expense of the Environment”, _Land_ 9, Nr. 3 (2020): https://doi.org/10.3390/land9030065.
+[^28]: Lara Domínguez und Colin Luoma. “Decolonising Conservation Policy: How Colonial Land and Conservation Ideologies Persist and Perpetuate Indigenous Injustices at the Expense of the Environment”, _Land_ 9, Nr. 3 (2020): https://doi.org/10.3390/land9030065.
 
 [^29]: Rick Barongi, Fiona A. Fisken, Martha Parker und Markus Gusset (Hg.). _Committing to Conservation: The World Zoo and Aquarium Conservation Strategy_. Gland: WAZA Executive Office 2015. https://www.waza.org/wp-content/uploads/2019/03/WAZA-Conservation-Strategy-2015_German.pdf, 33 (03.01.2022).
 
-[^30]: Conway, William G. “How to Exhibit a Bullfrog: A Bed‐Time Story for Zoo Men” _Curator: The Museum Journal_ 11, Nr. 4 (1968): 310–18, 318.
+[^30]: William G. Conway. “How to Exhibit a Bullfrog: A Bed‐Time Story for Zoo Men” _Curator: The Museum Journal_ 11, Nr. 4 (1968): 310-18, 318.
 
-[^31]: Hübner, Stephan. “‘Die afrikanischen Elefanten sind unser Flaggschiff’: Thomas Kauffels erzählt von der Geschichte des Opel-Zoos”. Hessischer Rundfunk (03.01.2022). https://www.hr2.de/podcasts/doppelkopf/die-afrikanischen-elefanten-sind-unser-flaggschiff--thomas-kauffels-erzaehlt-von-der-geschichte-des-opel-zoos,podcast-episode-82032.html (03.01.2022); zur Definition von Flaggschiffarten: Jürg Meier, _Handbuch Zoo: moderne Tiergartenbiologie_, Bern, Stuttgart, Wien: Haupt Verlag, 2009): 121.
+[^31]: Stephan Hübner. “‘Die afrikanischen Elefanten sind unser Flaggschiff’: Thomas Kauffels erzählt von der Geschichte des Opel-Zoos”. Hessischer Rundfunk (03.01.2022). https://www.hr2.de/podcasts/doppelkopf/die-afrikanischen-elefanten-sind-unser-flaggschiff--thomas-kauffels-erzaehlt-von-der-geschichte-des-opel-zoos,podcast-episode-82032.html (03.01.2022); zur Definition von Flaggschiffarten: Jürg Meier, _Handbuch Zoo: Moderne Tiergartenbiologie_. Bern: Haupt Verlag, 2009): 121.
 
-[^32]: Vgl. beispielsweise Sommer, Volker.  “Ein Etikettenschwindel”. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 35–38; Mullan, Bob und Garry Marvin, _Zoo Culture_, Urbana, Chicago: University of Illinois Press, 1999; Sezgin, Hilal. _Artgerecht ist nur die Freiheit: eine Ethik für Tiere oder warum wir umdenken müssen_. München: Verlag C.H. Beck, 2014.
+[^32]: Vgl. beispielsweise Volker Sommer.  “Ein Etikettenschwindel”. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 35-38; Bob Mullan und Garry Marvin, _Zoo Culture_, Urbana, Chicago: University of Illinois Press, 1999; Hilal Sezgin. _Artgerecht ist nur die Freiheit: Eine Ethik für Tiere oder warum wir umdenken müssen_. München: Verlag C.H. Beck, 2014.
 
