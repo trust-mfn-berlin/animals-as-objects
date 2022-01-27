@@ -7,7 +7,7 @@ short_desc_de: Propagandainstrument und Zwangsarbeit
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: The Zoo and National Socialism
-updated: 1643285703959
+updated: 1643291017939
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 doi: 64y2-m311/12
 translators:
@@ -63,7 +63,7 @@ Lutz Heck soon also became personally acquainted with Hermann Göring, Prussian 
 
 In January 1934, Göring presented his plans for the Schorfheide to a group of forestry officials. He wanted to establish a large nature reserve, where he also wished to hunt the largest land mammal in Europe.[^3] In order to make Göring’s plans a reality, Lutz Heck decided to increase the zoo’s population of wisents, or European bison, as quickly as possible. He aimed to do this by means of ‘upgrading’ – breeding with the wisent’s closest relative, the North American bison.[^4] In 1935, he undertook an expedition to Canada “on behalf of the Reichsforstmeister and Reichsjägermeister Hermann Göring, the German hunting community, and the zoo.”[^5] The trip’s purpose was, among other things, to procure bison to support his breeding efforts – for a closer look at the genealogy of breeding programmes see [[story.zoos-and-conservation]]. 
 
-**Lutz Heck supported the regime in whatever way he could. His books and publications praised the Nazi state’s laws on game conservation.[^6]** At Heck’s instigation, Göring was appointed leader of the *Fachschaft Deutsche Bracken Olpe*, a club for breeders of hunting dogs[^7] – certainly a minor honor, but ideal for winning over Göring, who was an enthusiastic hunter. Lutz Heck also provided Göring with [[lion cubs|story.photos-with-lion-cubs]] to keep as pets, which Heck took back when the animals had grown out of the “petting age”.[^8]
+**Lutz Heck supported the regime in whatever way he could. His books and publications praised the Nazi state’s laws on game conservation.[^6]** At Heck’s instigation, Göring was appointed leader of the *Fachschaft Deutsche Bracken Olpe*, a club for breeders of hunting dogs[^7] – certainly a minor honor, but ideal for winning over Göring, who was an enthusiastic hunter. Lutz Heck also provided Göring with [[lion cubs|story.photos-with-lion-cubs]] to keep as pets, which Heck took back when the animals had grown out of the ‘petting age’.[^8]
 
 ## The Supervisory Board
 
@@ -111,7 +111,7 @@ _The zoo band with [[“Bobby”|story.bobby-tracking-body-parts]] the gorilla�
 
 ## The Zoo and Propaganda
 
-Financially, the zoo flourished with the rise of National Socialism, quite the [[opposite|story.feed-scarcity]] of the post-war period. This was facilitated by the fact that it catered to National Socialist visitors and the nationalist ideology of the ruling party. From May 1933 onward, there were substantial reductions in the price of admission for members of National Socialist organisations, such as the NSDAP, the National Socialist Motorist Corps, the Sturmabteilung (SA), the Schutzstaffel (SS), and the German nationalist military Der Stahlhelm.[^12] The following year, the zoo management went on to lower ticket prices for all visitors, “in accordance with the aims of the National Socialist state leadership”.[^13] In 1935, it recorded a surge of visitors, in all likelihood partly thanks to an agreement between the zoo and the Nazi recreational organisation _Kraft durch Freude_.
+Financially, the zoo flourished with the rise of National Socialism, quite the [[opposite|story.feed-scarcity]] of the post-war period. This was facilitated by the fact that it catered to National Socialist visitors and the nationalist ideology of the ruling party. From May 1933 onward, there were substantial reductions in the price of admission for members of National Socialist organisations, such as the NSDAP, the National Socialist Motorist Corps, the Sturmabteilung (SA), the Schutzstaffel (SS), and the German nationalist military Der Stahlhelm.[^12] The following year, the zoo management went on to lower ticket prices for all visitors, “in accordance with the aims of the National Socialist state leadership”.[^13] In 1935, it recorded a surge of visitors, in all likelihood partly thanks to an agreement between the zoo and the Nazi recreational organisation ‘Kraft durch Freude’.
 
 <figure>
 
@@ -119,13 +119,13 @@ Financially, the zoo flourished with the rise of National Socialism, quite the [
 
 <figcaption>
 
-_Entry ticket for “Kraft durch Freude” Day at the zoo, 1936. (AZGB. All rights reserved.)_
+_Entry ticket for ‘Kraft durch Freude’ Day at the zoo, 1936. (AZGB. All rights reserved.)_
 
 </figcaption>
 
 </figure>
 
-Lutz Heck for his part used the political climate to serve his own [[colonial|material.purchased-from-a-caravan]] revisionist ambitions. In 1933, he sponsored a “Colonial Art Exhibition” in the zoo’s exhibition halls, where he displayed a replica of the encampments built for his animal trapping expeditions in Eastern Africa.[^14] In 1927/28, the animals he captured included giraffes from the former colony of German East Africa,[^15] the territory of Tanganyika subsequently ruled by the British. In the summer of 1934, the zoo commemorated Colonial Remembrance Day by hosting a “Kolonialer Volkstag” or “Colonial Day of the People”. A press tour took reporters to see “German Colonial Animals” – meaning animals from former German colonies. In 1937, the zoo celebrated a “Colonial Festival” under a slogan “Everyone should visit Africa once”.[^16]
+Lutz Heck for his part used the political climate to serve his own [[colonial|material.purchased-from-a-caravan]] revisionist ambitions. In 1933, he sponsored a ‘Colonial Art Exhibition’ in the zoo’s exhibition halls, where he displayed a replica of the encampments built for his animal trapping expeditions in Eastern Africa.[^14] In 1927/28, the animals he captured included giraffes from the former colony of German East Africa,[^15] the territory of Tanganyika subsequently ruled by the British. In the summer of 1934, the zoo commemorated Colonial Remembrance Day by hosting a ‘Kolonialer Volkstag’ or ‘Colonial Day of the People’. A press tour took reporters to see ‘German Colonial Animals’ – meaning animals from former German colonies. In 1937, the zoo celebrated a ‘Colonial Festival’ under a slogan ‘Everyone should visit Africa once’.[^16]
 
 In 1936, in time for the Summer Olympics in Berlin, the zoo opened a 2,000-square-meter lion steppe. 1936 also brought the many additional tourists who had travelled to Berlin for the Games, thanks to whom the zoo enjoyed a record attendance of more than two million paying guests that year.[^17] Berlin Zoo participated in the elaborate propaganda orchestrated for the Games, and provided animals for the Olympic Village, which housed the athletes’ living quarters, supplying native waterfowl and fallow deer to frolic around a central pond.
 
@@ -137,13 +137,13 @@ At the behest of Prussian Prime Minister Hermann Göring, the zoo was finally gr
 
 <figcaption>
 
-_“Lower Saxon farmhouse with barn” in Berlin Zoo, 1937. (AZGB. All rights reserved.)_
+_‘Lower Saxon farmhouse with barn’ in Berlin Zoo, 1937. (AZGB. All rights reserved.)_
 
 </figcaption> 
 
 </figure>
 
-The zoo had previously been organised according to strictly taxonomic principles, see also [[theme.taxonomic-orders]]. For the first time, the grounds now adopted the previously rejected idea of what was referred to as a ‘geo-zoo’. Instead of arranging the animals according to outwardly recognizable kinships, geography became the guiding principle. As part of National Socialist propaganda, the zoo began displaying animals that lived in the same natural habitat – an idea that had so far been rejected in Berlin. At the center of the “German Zoo”, as this section was called in the zoo’s publications, was an enclosure for a special species of cattle called the auroch or urus. Aurochs, which were considered the progenitor of all European breeds of domestic cattle, had, however, been extinct since the death of the last member of the species in the 17th century. Lutz Heck and his brother Heinz, director of Munich’s Hellabrunn Zoo, attempted to resurrect these animals by cross-breeding different species of cattle.[^22] 
+The zoo had previously been organised according to strictly taxonomic principles, see also [[theme.taxonomic-orders]]. For the first time, the grounds now adopted the previously rejected idea of what was referred to as a ‘geo-zoo’. Instead of arranging the animals according to outwardly recognizable kinships, geography became the guiding principle. As part of National Socialist propaganda, the zoo began displaying animals that lived in the same natural habitat – an idea that had so far been rejected in Berlin. At the center of the ‘German Zoo’, as this section was called in the zoo’s publications, was an enclosure for a special species of cattle called the auroch or urus. Aurochs, which were considered the progenitor of all European breeds of domestic cattle, had, however, been extinct since the death of the last member of the species in the 17th century. Lutz Heck and his brother Heinz, director of Munich’s Hellabrunn Zoo, attempted to resurrect these animals by cross-breeding different species of cattle.[^22] 
 
 <figure>
 
@@ -227,7 +227,7 @@ _Excerpt from the annual report of 1939. (AZGB. All rights reserved.)_
 
 </figure>
 
-From 1939 on, the zoo also enjoyed the spoils of war from other sources. The SS Schutzstaffel (SS) provided it with Polish Konik, or “Panje horses” in 1940. Similar to their endeavors with the aurochs, Lutz Heck and his brother Heinz, the zoo director at Munich Zoo, attempted further crossbreeding in an effort to breed back the extinct species of horse known as the tarpan.[^37]
+From 1939 on, the zoo also enjoyed the spoils of war from other sources. The SS Schutzstaffel (SS) provided it with Polish Konik, or ‘Panje horses’ in 1940. Similar to their endeavors with the aurochs, Lutz Heck and his brother Heinz, the zoo director at Munich Zoo, attempted further crossbreeding in an effort to breed back the extinct species of horse known as the tarpan.[^37]
 
 <figure>
 
@@ -440,9 +440,9 @@ Nachdem Adolf Hitler am 30. Januar 1933 zum Reichskanzler ernannt worden war, ve
 
 ## Die Familie Heck
 
-1932 wurde Lutz Heck Direktor des Zoologischen Gartens Berlin. Er übernahm das Amt von seinem Vater Ludwig Heck, der dieses seit 1888 innegehabt hatte. Die Familie Heck war deutschnational und kolonialrevisionistisch ausgerichtet und pflegte enge Kontakte in das rechtskonservativ-nationalistische Milieu. Lutz und Ludwig Heck brachten in ihren Publikationen von 1935 und 1938 ihre Begeisterung für die nationalsozialistische Politik deutlich zum Ausdruck. Beide huldigten in ihren Publikationen dem “Führer”, der den Staat “vollbewusst […] auf Blut und Boden abgestellt” habe.[^1]  Bereits im Juni 1933 wurde Lutz Heck Fördermitglied der Schutzstaffel (SS)[^2] und unterstützte die Parteiorganisation SS der NSDAP mit regelmäßigen Spenden. Im Gegenzug bekam er wie alle Fördermitglieder Anstecknadeln, die die Loyalität zum Regime deutlich machten.
+1932 wurde Lutz Heck Direktor des Zoologischen Gartens Berlin. Er übernahm das Amt von seinem Vater Ludwig Heck, der dieses seit 1888 innegehabt hatte. Die Familie Heck war deutschnational und kolonialrevisionistisch ausgerichtet und pflegte enge Kontakte in das rechtskonservativ-nationalistische Milieu. Lutz und Ludwig Heck brachten in ihren Publikationen von 1935 und 1938 ihre Begeisterung für die nationalsozialistische Politik deutlich zum Ausdruck. Beide huldigten in ihren Publikationen dem “Führer”, der den Staat “vollbewusst […] auf Blut und Boden abgestellt” habe.[^1] Bereits im Juni 1933 wurde Lutz Heck Fördermitglied der Schutzstaffel (SS)[^2] und unterstützte die Parteiorganisation SS der NSDAP mit regelmäßigen Spenden. Im Gegenzug bekam er wie alle Fördermitglieder Anstecknadeln, die die Loyalität zum Regime deutlich machten.
 
-Schon bald machte Lutz Heck zudem auf privater Ebene mit dem preußischen Ministerpräsidenten und Reichsluftfahrtminister Hermann Göring Bekanntschaft, der ab 1934 auch “Reichsforstmeister” und “Reichsjägermeister” war.
+Schon bald machte Lutz Heck zudem auf privater Ebene mit dem preußischen Ministerpräsidenten und Reichsluftfahrtminister Hermann Göring Bekanntschaft, der ab 1934 auch Reichsforstmeister und Reichsjägermeister war.
 
 Göring hatte im Januar 1934 im Kreise einiger Forstbeamter seine Pläne für die Schorfheide vorgestellt. Hier wollte er ein großes Naturschutzgebiet einrichten, in dem er zugleich das größte Landsäugetier Europas jagen wollte.[^3] Lutz Heck entschied sich, mittels einer sogenannten ‘Verdrängungszucht’ mit dem nächsten Verwandten des Wisents, dem nordamerikanischen Bison, seine Herde aus dem Zoo möglichst schnell zu vermehren, um Görings Pläne Wirklichkeit werden zu lassen.[^4] 1935 unternahm er “im Auftrage des Reichsforst- und Reichsjägermeister\[s] Hermann Göring, der deutschen Jägerschaft und des Zoologischen Gartens” eine Expedition nach Kanada.[^5] Das Ziel war unter anderem die Beschaffung von Bisons, um die Wisentzucht zu stärken – eine Genealogie von Zuchtprogrammen in Zoos findet sich in [[story.zoos-and-conservation]].
 
@@ -502,13 +502,13 @@ Der Zoo florierte finanziell nach der Machtübernahme der Nationalsozialisten, g
 
 <figcaption>
 
-_Eintrittskarte für den “Kraft durch Freude”-Tag im Zoo, 1936. (AZGB. Alle Rechte vorbehalten.)_
+_Eintrittskarte für den Kraft durch Freude-Tag im Zoo, 1936. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
 </figure>
 
-Lutz Heck nutzte seinerseits das politische Klima für seine [[kolonialrevisionistischen|material.purchased-from-a-caravan]] Ambitionen. 1933 unterstützte er eine “Kolonial-Kunst-Ausstellung” in den Ausstellungshallen am Zoo, wo er einen Nachbau des Zeltlagers seiner Expeditionen ins östliche Afrika für den Fang von Wildtieren zeigte.[^14] 1927/28 hatte er für den Zoo unter anderem Giraffen in der ehemaligen deutschen Kolonie Deutsch-Ostafrika[^15] und nun durch Großbritannien beherrschten Tanganyika-Territory gefangen. Im Sommer 1934 veranstaltete der Zoo zum Kolonialgedenktag einen “Kolonialen Volkstag”. In einer Presseführung wurden die Reporter:innen zu “Deutschen Kolonialtieren” geführt – also Tieren aus den ehemaligen deutschen Kolonien. 1937 feierte der Zoo ein “Kolonialfest” unter dem Motto “Jeder mal in Afrika”.[^16]
+Lutz Heck nutzte seinerseits das politische Klima für seine [[kolonialrevisionistischen|material.purchased-from-a-caravan]] Ambitionen. 1933 unterstützte er eine ‘Kolonial-Kunst-Ausstellung’ in den Ausstellungshallen am Zoo, wo er einen Nachbau des Zeltlagers seiner Expeditionen ins östliche Afrika für den Fang von Wildtieren zeigte.[^14] 1927/28 hatte er für den Zoo unter anderem Giraffen in der ehemaligen deutschen Kolonie Deutsch-Ostafrika[^15] und nun durch Großbritannien beherrschten Tanganyika-Territory gefangen. Im Sommer 1934 veranstaltete der Zoo zum Kolonialgedenktag einen ‘Kolonialen Volkstag’. In einer Presseführung wurden die Reporter:innen zu ‘Deutschen Kolonialtieren’ geführt – also Tieren aus den ehemaligen deutschen Kolonien. 1937 feierte der Zoo ein ‘Kolonialfest’ unter dem Motto ‘Jeder mal in Afrika’.[^16]
 
 Rechtzeitig zu den Olympischen Sommerspielen in Berlin 1936 eröffnete der Zoo eine 2.000 Quadratmeter große Löwensteppe – ein Publikumsmagnet. Hinzu kamen 1936 die vielen Berlintourist:innen, die zu den Olympischen Spielen angereist waren. Sie bescherten dem Zoo einen Besucher:innenrekord von mehr als zwei Millionen zahlenden Gästen.[^17] <!--Insert sentence about the zoo’s narrative of financial recovery from “Bobby” death, once ready!--> **Der Zoo beteiligte sich an der aufwendigen Propaganda für die Spiele und stellte Tiere für das Olympische Dorf, in dem die Athletinnen und Athleten lebten, zur Verfügung.** Rund um einen zentralen Teich tummelten sich dort einheimische Wasservögel und Damwild aus dem Zoo.
 
@@ -520,13 +520,13 @@ Im August 1935 wurde dem Zoo schließlich auf Initiative des Preußischen Minist
 
 <figcaption>
 
-_“Niedersächsisches Bauernhaus mit Stall” im Zoo, 1937. (AZGB. Alle Rechte vorbehalten.)_
+_‘Niedersächsisches Bauernhaus mit Stall’ im Zoo, 1937. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
 </figure>
 
-Im bislang streng nach [[taxonomischen Gesichtspunkten|theme.taxonomic-orders]] geordneten Zoo entstand nun zum ersten Mal ein Areal im Zoo, das der bis dahin abgelehnten Idee eines sogenannten Geozoos entsprach. Statt der Ordnung nach äußerlich erkennbaren Verwandtschaftsbeziehungen wurden geografische Gesichtspunkte zum Prinzip erhoben. Diese bis dato in Berlin abgelehnten Sammlungen von Tieren eines Naturraums wurden im Zoo im Zuge der nationalsozialistischen Propaganda eingeführt. Im Zentrum des “Deutschen Zoos”, wie dieser Abschnitt fortan in den Publikationen des Zoos genannt wurde, stand das Gehege für eine besondere Rinderart – den sogenannten Auerochsen oder Ur. Diese Art gilt als Stammvater aller europäischen Hausrinderrassen. Allerdings war das letzte Exemplar dieser Art bereits im 17. Jahrhundert gestorben. Lutz Heck und sein Bruder Heinz, Direktor des Münchner Tierparks Hellabrunn, versuchten diese Tiere aus Kreuzungen verschiedener Rinderrassen wiedererstehen zu lassen.[^22]
+Im bislang streng nach [[taxonomischen Gesichtspunkten|theme.taxonomic-orders]] geordneten Zoo entstand nun zum ersten Mal ein Areal im Zoo, das der bis dahin abgelehnten Idee eines sogenannten Geozoos entsprach. Statt der Ordnung nach äußerlich erkennbaren Verwandtschaftsbeziehungen wurden geografische Gesichtspunkte zum Prinzip erhoben. Diese bis dato in Berlin abgelehnten Sammlungen von Tieren eines Naturraums wurden im Zoo im Zuge der nationalsozialistischen Propaganda eingeführt. Im Zentrum des ‘Deutschen Zoos’, wie dieser Abschnitt fortan in den Publikationen des Zoos genannt wurde, stand das Gehege für eine besondere Rinderart – den sogenannten Auerochsen oder Ur. Diese Art gilt als Stammvater aller europäischen Hausrinderrassen. Allerdings war das letzte Exemplar dieser Art bereits im 17. Jahrhundert gestorben. Lutz Heck und sein Bruder Heinz, Direktor des Münchner Tierparks Hellabrunn, versuchten diese Tiere aus Kreuzungen verschiedener Rinderrassen wiedererstehen zu lassen.[^22]
 
 <figure>
 
@@ -548,7 +548,7 @@ Die Angleichung an die nationalsozialistische Propaganda lohnte sich für Lutz H
 
 Die Übernahme nationalsozialistischer und rassistischer Politik durch die Zooleitung hatte auch Folgen für die Jüdinnen und Juden, die als Besucher:innen und Aktionär:innen den Zoo unterstützten. **Die 1933 einsetzende und schnell zunehmende Entrechtung jüdischer Deutscher mit Berufsverboten und Enteignungen zwang diese dazu, zum nackten Überleben ihre Anlagen zu liquidieren. Die Flucht aus Deutschland war oft nur unter dem Einsatz großer Finanzmittel möglich. Auch die Zooaktien wurden verkauft.**
 
-Allerdings waren die Zooaktien nie Spekulationspapiere gewesen. Gewinnausschüttungen waren nicht vorgesehen. Der freie Eintritt für die Familienangehörigen war sozusagen die eigentliche ‘Dividende’ der Aktionär:innen. Aber natürlich schwankte der Preis einer Zooaktie über die Jahre und bei einem Verkauf konnten Gewinne oder Verluste entstehen. Für viele jüdische Berliner:innen war die oft seit Jahrzehnten in Familienbesitz befindliche Zooaktie von hohem emotionalen Wert. Sie verbanden mit ihr die lange Tradition jüdischen Mäzenatentums in Berlin, die die eigene Zugehörigkeit zum Berliner Bürgertum belegte. Viele besuchten den Zoo regelmäßig, manche gar täglich.[^27]  Manche jüdische Aktionär:innen hatten bei Verkäufen vor 1938 noch Käufer:innen für den marktüblichen Preis gefunden. Das erhöhte Angebot an zum Verkauf stehenden Aktien und die Zwangssituation der Verkäufer:innen ließ die Preise aber immer mehr verfallen.
+Allerdings waren die Zooaktien nie Spekulationspapiere gewesen. Gewinnausschüttungen waren nicht vorgesehen. Der freie Eintritt für die Familienangehörigen war sozusagen die eigentliche ‘Dividende’ der Aktionär:innen. Aber natürlich schwankte der Preis einer Zooaktie über die Jahre und bei einem Verkauf konnten Gewinne oder Verluste entstehen. Für viele jüdische Berliner:innen war die oft seit Jahrzehnten in Familienbesitz befindliche Zooaktie von hohem emotionalen Wert. Sie verbanden mit ihr die lange Tradition jüdischen Mäzenatentums in Berlin, die die eigene Zugehörigkeit zum Berliner Bürgertum belegte. Viele besuchten den Zoo regelmäßig, manche gar täglich.[^27] Manche jüdische Aktionär:innen hatten bei Verkäufen vor 1938 noch Käufer:innen für den marktüblichen Preis gefunden. Das erhöhte Angebot an zum Verkauf stehenden Aktien und die Zwangssituation der Verkäufer:innen ließ die Preise aber immer mehr verfallen.
 
 Laut Statuten des Aktienvereins existierte weder eine rechtliche Kontrolle darüber, wer die Aktien kaufte, noch musste der Zoo einem Verkauf zustimmen. Zwar waren die Zooaktien sogenannte Namensaktien, da mit ihnen ein Eintrittsrecht verbunden war, aber die Eintragung in das Aktienverzeichnis im Zoo erfolgte stets erst nach dem Verkauf. Das war dem Aufsichtsrat ein Dorn im Auge. Im Frühjahr 1938 plante er daher, dem Zoo durch eine Statutenänderung ein Zustimmungsrecht für alle Verkäufe zu übertragen. Damit hätte der Zoo jüdische Käufer:innen ausschließen oder aber Druck auf beide Seiten zur Herabsetzung des Verkaufspreises ausüben können. Aus rechtlichen Gründen sah der Aufsichtsrat letzten Endes davon ab, da die Statutenänderung auch die nichtjüdischen Aktionär:innen betroffen hätte, die wiederum hätten zustimmen müssen. Im Protokoll der Sitzung hörte sich das dann folgendermaßen an:
 
@@ -610,7 +610,7 @@ _Auszug aus dem Geschäftsbericht für 1939. (AZGB. Alle Rechte vorbehalten.)_
 
 </figure>
 
-Auch aus anderen Quellen erhielt der Zoo ab 1939 Kriegsbeute. Von der SS (Schutzstaffel) kamen 1940 polnische “Panjepferde”. Lutz Heck versuchte sich zusammen mit seinem Bruder Heinz Heck, dem Zoodirektor in München, wie beim Auerochsen an Kreuzungsversuchen im Rahmen einer Rückzüchtung der ausgestorbenen Pferdegattung der Tarpane.[^37]
+Auch aus anderen Quellen erhielt der Zoo ab 1939 Kriegsbeute. Von der SS (Schutzstaffel) kamen 1940 polnische ‘Panjepferde’. Lutz Heck versuchte sich zusammen mit seinem Bruder Heinz Heck, dem Zoodirektor in München, wie beim Auerochsen an Kreuzungsversuchen im Rahmen einer Rückzüchtung der ausgestorbenen Pferdegattung der Tarpane.[^37]
 
 <figure>
 
