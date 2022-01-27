@@ -7,7 +7,7 @@ short_desc_de: Tiere im Besitz des Berliner Zoos 1920-1945
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: The Steinmetz Index
-updated: 1643296359545
+updated: 1643303750460
 id: 2a309087-f165-4def-9c60-d835c7218077
 doi: 64y2-m311/17
 translators:
@@ -41,7 +41,7 @@ _Steinmetz index card on pygmy hippopotami, around 1935. (AZGB. All rights reser
 
 </figure>
 
-The [[index card|theme.recording-worlds]] shown is from Berlin Zoo’s Steinmetz Index and records the number of pygmy hippopotami (_Choeropsis liberiensis_) the zoo held. The initial entry indicates Berlin’s first pygmy hippopotamus, [[purchased|theme.how-do-animals-end-up-in-the-zoo]] from Hans Schomburgk. **In zoology, ‘1,0’ denotes a male, ‘0,1’ a female. The Latin abbreviation ‘iuv.’ signifies a young animal. K indicates ‘Kauf’, a purchase and E.Z. indicates ‘eigene Zucht’, a bred animal – that is, an animal born in a zoo.** The index card also gives the name of the trader: the animal was delivered to the company Ruhe in Alfeld for the price of 4,000 German marks.
+The [[index card|theme.recording-worlds]] shown is from Berlin Zoo’s Steinmetz Index and records the number of pygmy hippopotami (_Choeropsis liberiensis_) the zoo held. The initial entry indicates Berlin’s first pygmy hippopotamus, [[purchased|theme.how-do-animals-end-up-in-the-zoo]] from Hans Schomburgk. **In zoology, ‘1,0’ denotes a male, ‘0,1’ a female. The Latin abbreviation ‘iuv.’ signifies a young animal. ‘K’ indicates ‘Kauf’, a purchase and ‘E.Z.’ indicates ‘eigene Zucht’, a bred animal – that is, an animal born in a zoo.** The index card also gives the name of the trader: the animal was delivered to the company Ruhe in Alfeld for the price of 4,000 German marks.
 
 Notably, the recorded departures indicate that individual animals were exchanged with other zoos. The index card also shows that during the war, a male was evacuated to Leipzig Zoo, which was supposedly bombproof. The word ‘attack’, in turn, tells us that that first hippopotamus, acquired from Hans Schomburgk in 1924, was killed in the [[bombing of Berlin|material.list-of-dead-zoo-animals]] on 24 November 1943.
 
@@ -67,7 +67,7 @@ _Karteikarte der Steinmetz-Kartei zu Zwergflusspferden, um 1935. (AZGB. Alle Rec
 
 </figure>
 
-Auf der abgebildeten [[Karteikarte|theme.recording-worlds]] der sogenannten Steinmetz-Kartei des Berliner Zoologischen Gartens wird der Bestand der Zwergflusspferde (_Choeropsis liberiensis_) festgehalten. Der erste Eintrag verzeichnet das erste Berliner Zwergflusspferd, ein [[Kauf|theme.how-do-animals-end-up-in-the-zoo]] von Hans Schomburgk. **‘1,0’ bezeichnet in der Zoologie ein männliches, ‘0,1’ ein weibliches Tier. Die lateinische Abkürzung ‘iuv.’ steht für Jungtier. K steht für ‘Kauf’ und E.Z. für ‘eigene Zucht’ – also ein im Zoo geborenes Tier.** Aus der Karteikarte geht auch ein Händler  hervor. Das Tier war an die Firma Ruhe in Alfeld zum Preis von 4.000 Mark geliefert worden.
+Auf der abgebildeten [[Karteikarte|theme.recording-worlds]] der sogenannten Steinmetz-Kartei des Berliner Zoologischen Gartens wird der Bestand der Zwergflusspferde (_Choeropsis liberiensis_) festgehalten. Der erste Eintrag verzeichnet das erste Berliner Zwergflusspferd, ein [[Kauf|theme.how-do-animals-end-up-in-the-zoo]] von Hans Schomburgk. **‘1,0’ bezeichnet in der Zoologie ein männliches, ‘0,1’ ein weibliches Tier. Die lateinische Abkürzung ‘iuv.’ steht für Jungtier. ‘K’ steht für ‘Kauf’ und ‘E.Z’. für ‘eigene Zucht’ – also ein im Zoo geborenes Tier.** Aus der Karteikarte geht auch ein Händler  hervor. Das Tier war an die Firma Ruhe in Alfeld zum Preis von 4.000 Mark geliefert worden.
 
 Bei den Abgängen fällt auf, dass einzelne Tiere mit anderen Zoos getauscht wurden. Die Karteikarte zeigt auch, dass während des Krieges ein Männchen in den vermeintlich bombensicheren Leipziger Zoo evakuiert wurde. Das Wort ‘Angriff’ bedeutet wiederum, dass das erste, von Hans Schomburgk 1924 erworbene Flusspferd am 24. November 1943 im [[Bombenangriff auf Berlin|material.list-of-dead-zoo-animals]] getötet wurde.
 

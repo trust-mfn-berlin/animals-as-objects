@@ -23,7 +23,7 @@ cover_image:
 date_start: 1740-12-31T23:50:39.000Z
 feature: true
 title: Logistical Metabolisms
-updated: 1643303446459
+updated: 1643303646482
 id: GkUgy87PFegTFmR0W1Z2Q
 doi: 64y2-m311/70
 translators:
@@ -132,7 +132,7 @@ As these stories show, following logistical flows and metabolic circulations ope
 
 [^5]: Charles Darwin. _The Voyage of the Beagle_. Charles W. Eliot (ed.). New York: P.F. Collier & Son 1909: 398-399. Many other animals like lions and pumas ended up on the expedition’s menu, with Darwin stating: “I had now been several days without tasting anything besides meat: I did not at all dislike this new regimen.” Ibid.: 129.
 
-[^6]: Between 1811 and 1844 alone, about 15,000 of these turtles are said to have been loaded onto ships. See Darwin, 1909.
+[^6]: Between 1811 and 1844 alone, about 15,000 of these turtles are said to have been loaded onto ships, see Darwin, 1909.
 
 [^7]: To learn more about this expedition, listen to this audiopodcast (only in German): https://www.youtube.com/watch?v=_3qMHSCijPU; Rudi Palla. _Valdivia: Die Geschichte der ersten deutschen Tiefsee-Expedition._ Berlin: Galiani, 2016; Carl Chun. _Wissenschaftliche Ergebnisse der deutschen Tiefsee-Expedition auf dem Dampfer “Valdivia”, 1898-1899_, Jena: Fischer, 1902.
 
@@ -140,7 +140,7 @@ As these stories show, following logistical flows and metabolic circulations ope
 
 [^9]: Having only enough funds to acquire two Wardian Cases for housing the valuable orchid collection, he stowed the palms first in a longboat and, after their conditions worsened, in his own cabin. But not even such generous co-habitation could save them from the heavy damage inflicted by mice and rats. Richard Schomburgk. _Reisen in Britisch-Guiana in den Jahren 1840-1844: Nebst einer Fauna und Flora Guiana’s nach Vorlagen von Johannes Müller, Ehrenberg, Erichson, Klotzsch, Troschel, Cabanis und Andern_. Leipzig: J.J. Weber, 1847-48, Vol. II, 1848: 510. 
 
-[^10]: In the aquarium of the Paris World’s Fair in 1867, for instance, visitors to the saltwater aquarium found the Régneville oyster farm exhibit amidst the aquarium animals, with the address of the breeders mentioned in the accompanying catalogue. See Sofie Lachapelle and Heena Mistry. “From the Waters of the Empire to the Tanks of Paris: The Creation and Early Years of the Aquarium Tropical, Palais de la Porte Dorée”. _Journal of the History of Biology_ 47, no. 1 (2014): 1-27; see also Darin Kinsey. “‘Seeding the Water as the Earth’: The Epicenter and Peripheries of a Western Aquacultural Revolution”. _Environmental History_ 11 (2006): 527-566. 
+[^10]: In the aquarium of the Paris World’s Fair in 1867, for instance, visitors to the saltwater aquarium found the Régneville oyster farm exhibit amidst the aquarium animals, with the address of the breeders mentioned in the accompanying catalogue; see Sofie Lachapelle and Heena Mistry. “From the Waters of the Empire to the Tanks of Paris: The Creation and Early Years of the Aquarium Tropical, Palais de la Porte Dorée”. _Journal of the History of Biology_ 47, no. 1 (2014): 1-27; see also Darin Kinsey. “‘Seeding the Water as the Earth’: The Epicenter and Peripheries of a Western Aquacultural Revolution”. _Environmental History_ 11 (2006): 527-566. 
 
 [^11]: William Alford Lloyd. “The Aquarium”. _The Popular Recreator_ (1873): 170-171, 170.
 
@@ -154,7 +154,7 @@ As these stories show, following logistical flows and metabolic circulations ope
 
 [^16]: Anonymous. “Speisekammer und Küche des Berliner Aquariums”. _Der Zoologische Garten_ 25 (1884): 156-157.
 
-[^17]: To learn more about rats in the Berlin Zoo, see AZGB N/4/2. To know more about the sparrows mentioned in the text, see AZGB O 0/1/274.
+[^17]: To learn more about rats in the Berlin Zoo, see AZGB N/4/2. To know more about the sparrows mentioned in the text see AZGB O 0/1/274.
 
 [^18]: For the controversies concerning the Berlin Zoo, see AZGB O 0/1/274. A recent case that gained much attention happened in the Copenhagen Zoo, where a healthy 18-month-old male giraffe was dissected publicly with the meat then fed to the zoo’s lions. See, for instance, Roff Smith. “Giraffe Killing at Copenhagen Zoo Sparks Global Outrage”. _National Geographic_ 12.02.2014: https://www.nationalgeographic.com/science/article/140210-giraffe-copenhagen-science. 
 
@@ -162,7 +162,7 @@ As these stories show, following logistical flows and metabolic circulations ope
 
 [^20]: In fact, war is deeply entangled with logistics, as this practice emerges from the codification of military logistics, with their concern for feeding and transporting moving armies.
 
-[^21]: “It is estimated that during the siege over 5,000 cats were slaughtered and eaten“. _Current Opinion_ 4, New York: Current Literature Pub. Co, 1890: 379. A diaristic account of horse, dog, cat, and rat meat eaten during the siege, see Nathan Sheppard. _Shut Up in Paris_. London: Richard Bentley and Son, 1871.
+[^21]: “It is estimated that during the siege over 5,000 cats were slaughtered and eaten“. _Current Opinion_ 4, New York: Current Literature Pub. Co, 1890: 379. A diaristic account of horse, dog, cat, and rat meat eaten during the siege see Nathan Sheppard. _Shut Up in Paris_. London: Richard Bentley and Son, 1871.
 
 [^22]: Rebecca L. Spang. “‘And They Ate the Zoo’: Relating Gastronomic Exoticism in the Siege of Paris”. _Modern Language Notes_ 107, no. 4 (Sept. 1992): 752-773. According to Spang, a restaurant menu from 25 December 1870, the 99th day of siege, offered _Consommé d’Eléphant_ together with _Cuissot de Loup, sauce Chevreuil_ (haunch of wolf with a deer sauce) and other animals. 
 
@@ -266,7 +266,7 @@ Wie diese Geschichten veranschaulichen, eröffnet der gemeinsame Fokus auf logis
 
 [^2]: Ein Überblick über das Marxsche Konzept des Metabolismus und dessen derzeitige Wiederaufnahme findet sich hier: http://www.rebelnews.ie/2020/10/20/marx-engels-metabolic-rift-part-one/. Mehr dazu findet sich auch bei Andreas Malm: https://www.versobooks.com/blogs/3691-in-defence-of-metabolic-rift-theory; oder auch bei Hannah Landecker; “Postindustrial Metabolism: Fat Knowledge.” _Public Culture_ 25, Nr. 3 (Herbst 2013): 495-522. doi: https://doi.org/10.1215/08992363-2144625
 
-[^3]: Johannes Gebbing (Hg.). _50 Jahre Leipziger Zoo, 1878-1928_. Leipzig: Selbstverlag des zoolog. Gartens, 1928: 36. Zum Thema Massenschlachtung, siehe Anne Roerkohl. “Die Lebensmittelversorgung während des Ersten Weltkrieges im Spannungsfeld kommunaler und staatlicher Maßnahmen”. In _Durchbruch zum modernen Massenkonsum: Lebensmittelmärkte und Lebensmittelqualität im Städtewachstum des Industriezeitalters_, Hans Jürgen Teuteberg (Hg.). Münster: Coppenrath, 1987: 309-370.  
+[^3]: Johannes Gebbing (Hg.). _50 Jahre Leipziger Zoo, 1878-1928_. Leipzig: Selbstverlag des zoolog. Gartens, 1928: 36. Zum Thema Massenschlachtung siehe Anne Roerkohl. “Die Lebensmittelversorgung während des Ersten Weltkrieges im Spannungsfeld kommunaler und staatlicher Maßnahmen”. In _Durchbruch zum modernen Massenkonsum: Lebensmittelmärkte und Lebensmittelqualität im Städtewachstum des Industriezeitalters_, Hans Jürgen Teuteberg (Hg.). Münster: Coppenrath, 1987: 309-370.  
 
 [^4]: Anthony datiert das goldene Zeitalter auf die Zeitspanne zwischen 1897 und 1922. Jason C. Anthony. “The Importance of Eating Local: Slaughter and Scurvy in Antarctic Cuisine”. _Endeavour_ 35, Nr. 4 (2011): 169-177; https://doi.org/10.1016/j.endeavour.2011.07.002. Originalzitate sind ins Deutsche übersetzt.
 
@@ -280,7 +280,7 @@ Wie diese Geschichten veranschaulichen, eröffnet der gemeinsame Fokus auf logis
 
 [^9]: Da seine Mittel lediglich zum Kauf zweier Ward’scher Kästen für die Verwahrung der wertvollen Orchideensammlung ausreichten, verstaute er die Palmen zuerst in einem Beiboot und später, als sich ihr Zustand verschlechterte, in seiner eigenen Kajüte. Doch nicht einmal diese komfortable Unterkunft konnte sie vor dem Schaden bewahren, den Mäuse und Ratten anrichteten. Richard Schomburgk. _Reisen in Britisch-Guiana in den Jahren 1840-1844: Nebst einer Fauna und Flora Guiana’s nach Vorlagen von Johannes Müller, Ehrenberg, Erichson, Klotzsch, Troschel, Cabanis und Andern_. Leipzig: J.J. Weber, 1847–48, Bd. II, 1848: 510.
 
-[^10]: Bei der Weltausstellung in Paris im Jahr 1867 wurde den Besucher:innen des Salzwasseraquariums auch die Régneville Austernzucht präsentiert; zudem wurde die Adresse der Züchter im Begleitheft zur Ausstellung aufgeführt. Siehe Sofie Lachapelle und Heena Mistry. “From the Waters of the Empire to the Tanks of Paris: The Creation and Early Years of the Aquarium Tropical, Palais de la Porte Dorée”. _Journal of the History of Biology_ 47, Nr. 1 (2014): 1-27; siehe auch Darin Kinsey. “‘Seeding the Water as the Earth’: The Epicenter and Peripheries of a Western Aquacultural Revolution”. _Environmental History_ 11 (2006): 527-566. 
+[^10]: Bei der Weltausstellung in Paris im Jahr 1867 wurde den Besucher:innen des Salzwasseraquariums auch die Régneville Austernzucht präsentiert; zudem wurde die Adresse der Züchter im Begleitheft zur Ausstellung aufgeführt, siehe Sofie Lachapelle und Heena Mistry. “From the Waters of the Empire to the Tanks of Paris: The Creation and Early Years of the Aquarium Tropical, Palais de la Porte Dorée”. _Journal of the History of Biology_ 47, Nr. 1 (2014): 1-27; siehe auch Darin Kinsey. “‘Seeding the Water as the Earth’: The Epicenter and Peripheries of a Western Aquacultural Revolution”. _Environmental History_ 11 (2006): 527-566. 
 
 [^11]: William Alford Lloyd. “The Aquarium”. _The Popular Recreator_ (1873): 170-171, 170.
 
@@ -290,13 +290,13 @@ Wie diese Geschichten veranschaulichen, eröffnet der gemeinsame Fokus auf logis
 
 [^14]: Siehe Mareike Vennen. _Das Aquarium: Praktiken, Techniken und Medien der Wissensproduktion (1840-1910)_. Göttingen: Wallstein, 2018.
 
-[^15]: Martina Schlünder, Christian Reiß, Axel C. Hüntelmann und Susanne Bauer. “Cakes und Candies: Zur Geschichte der Ernährung von Versuchstieren”. _Berichte zur Wissenschaftsgeschichte_ 35, 4 (2012): 275-285, 282, https://doi.org/10.1002/bewi.201201600. Im Laufe der 1870er und 1880er Jahre wurden beispielsweise in Würzburg, Leipzig und Freiburg neue Institutsgebäude mit Außenbereichen gebaut, um den Erfordernissen zoologischer Forschung gerecht zu werden. Diese Veränderungen bedurften allerdings nicht bloß einer neuen Art der Architektur, sondern auch eine Neustrukturierung der Arbeit, die nun auch Aufgaben im Bereich der Tierversorgung beinhaltete. Siehe Christian Reiß. _Der Axolotl: Ein Labortier im Heimaquarium_. Göttingen: Wallstein, 2018.
+[^15]: Martina Schlünder, Christian Reiß, Axel C. Hüntelmann und Susanne Bauer. “Cakes und Candies: Zur Geschichte der Ernährung von Versuchstieren”. _Berichte zur Wissenschaftsgeschichte_ 35, 4 (2012): 275-285, 282, https://doi.org/10.1002/bewi.201201600. Im Laufe der 1870er und 1880er Jahre wurden beispielsweise in Würzburg, Leipzig und Freiburg neue Institutsgebäude mit Außenbereichen gebaut, um den Erfordernissen zoologischer Forschung gerecht zu werden. Diese Veränderungen bedurften allerdings nicht bloß einer neuen Art der Architektur, sondern auch eine Neustrukturierung der Arbeit, die nun auch Aufgaben im Bereich der Tierversorgung beinhaltete, siehe Christian Reiß. _Der Axolotl: Ein Labortier im Heimaquarium_. Göttingen: Wallstein, 2018.
 
 [^16]: Anonym. “Speisekammer und Küche des Berliner Aquariums”. _Der Zoologische Garten_ 25 (1884): 156-157.
 
-[^17]: Zum Thema der Ratten im Berliner Zoo, siehe auch AZGB N/4/2.  Um mehr über die im Text erwähnten Spatzen zu erfahren, siehe AZGB O 0/1/274.
+[^17]: Zum Thema der Ratten im Berliner Zoo siehe auch AZGB N/4/2.  Um mehr über die im Text erwähnten Spatzen zu erfahren siehe AZGB O 0/1/274.
 
-[^18]: Zu den Kontroversen um den Berliner Zoo, siehe AZGB O 0/1/274. Ein Fall, der in jüngerer Zeit Wellen schlug, begab sich im Zoo von Kopenhagen, wo ein gesundes, 18 Monate altes Giraffenmännchen vor Publikum seziert und anschließend an die Löwen des Zoos verfüttert wurde. Siehe hierzu etwa Roff Smith. “Giraffe Killing at Copenhagen Zoo Sparks Global Outrage”. _National Geographic_ 12.02.2014: https://www.nationalgeographic.com/science/article/140210-giraffe-copenhagen-science. 
+[^18]: Zu den Kontroversen um den Berliner Zoo siehe AZGB O 0/1/274. Ein Fall, der in jüngerer Zeit Wellen schlug, begab sich im Zoo von Kopenhagen, wo ein gesundes, 18 Monate altes Giraffenmännchen vor Publikum seziert und anschließend an die Löwen des Zoos verfüttert wurde. Siehe hierzu etwa Roff Smith. “Giraffe Killing at Copenhagen Zoo Sparks Global Outrage”. _National Geographic_ 12.02.2014: https://www.nationalgeographic.com/science/article/140210-giraffe-copenhagen-science. 
 
 [^19]: Wietske Maas und Matteo Pasquinelli. “The City Devouring Itself: Urbanibalism in Times of World Wars, Insurgent Communes and Biopolitical Sieges”. In _Open #18: 2030 – War Zone Amsterdam_, J. Seijdel und L. Melis (Hg.). Rotterdam: NAi Publishers, 2009. http://matteopasquinelli.com/docs/Maas_Pasquinelli_City_Devouring_Itself.pdf.
 

@@ -1,31 +1,31 @@
 ---
-id: f0ff8e4e-5bb8-4622-8d51-8da1cb651524
-title: Biostratigraphy
-desc: Fossilised remains of organisms characterise underground layers (strata)
-updated: 1643303500637
-created: 1618493136975
 license: CC BY-SA
 title_de: Biostratigrafie
+created: 1618493136975
 author: Filippo Bertoni
+short_desc_de: Versteinerte Überreste von Organismen liefern Informationen
+  überunterirdische Sedimentschichten (Strata).
+keywords: anthropocene
+date_end: 2022-12-07T19:31:17.935Z
+published: false
+title: Biostratigraphy
+updated: 1643303785114
+id: f0ff8e4e-5bb8-4622-8d51-8da1cb651524
 doi: 64y2-m311/35
 translators:
-  translator_en_de: ''
+  translator_en_de: ""
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
+desc: Fossilised remains of organisms characterise underground layers (strata)
 desc_de: |-
   Versteinerte Überreste von Organismen liefern Informationen über
   unterirdische Sedimentschichten (Strata)
-short_desc: Fossilised remains of organisms characterise underground layers (strata)
-short_desc_de: |-
-  Versteinerte Überreste von Organismen liefern Informationen über
-  unterirdische Sedimentschichten (Strata)
+short_desc: Fossilised remains of organisms characterise underground layers (strata).
 cover_image:
   image: /images/sedimentary-rocks.png
 colour_scheme: 0
 tao_type: material
-date_start: '1669-01-02T20:20:32.426Z'
-date_end: '2022-12-07T19:31:17.935Z'
-published: false
+date_start: 1669-01-02T20:20:32.426Z
 ---
 
 :::EN:::
