@@ -1,26 +1,28 @@
 ---
+id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
+title: The Afterlife of Zoo Animals
+desc: |-
+  What happens to zoo animals when they die? How are their bodies (or body
+  parts) put to use — as colonial trophies, as museum objects, as a source of
+  meat? The story of the Berlin Zoo elephant "Siam" in the 1940s is a journey
+  into postwar Berlin and deep into the history of European colonialism.
+updated: 1643230316654
+created: 1621970259942
 license: CC BY-SA
 title_de: Verfüttern und Verwerten
-created: 1621970259942
 author: Mareike Vennen
 short_desc_de: Auf den Spuren eines Elefanten
 date_end: 1947-12-31T11:00:00.000Z
 published: false
-title: The Afterlife of Zoo Animals
-updated: 1642854896819
-id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 doi: 64y2-m311/24
 translators:
-  translator_de_en: ""
+  translator_de_en: ''
 copy_editors:
   copy_editor_en: Carla Welch
-desc: What happens to zoo animals when they die? How are their bodies (or body
-  parts) put to use when turned into colonial trophies, museum objects, meat
-  source? The story of “Siam”, an elephant in the Berlin Zoo in the 1940s, is a
-  journey into postwar Berlin and into the history of European colonialism.
-desc_de: Was passiert mit Zootieren nach ihrem Tod, wie werden ihre
+desc_de: |-
+  Was passiert mit Zootieren nach ihrem Tod, wie werden ihre
   Körper(teile) weiterverwertet – als koloniale Trophäen, Museumsobjekte oder
-  Fleischlieferanten? Die Geschichte des Berliner Zoo-Elefanten “Siam” aus den
+  Fleischlieferanten? Die Geschichte des Berliner Zoo-Elefanten "Siam" aus den
   1940er Jahren führt ins Berlin der Nachkriegszeit und tief in die Geschichte
   des europäischen Kolonialismus.
 short_desc: On the trail of an elephant
@@ -68,7 +70,7 @@ The carcasses of zoo animals, especially large mammals, are usually not simply d
 
 ## Colonial Traces
 
-One of the trails leads to the Zoological Museum Berlin, which was a part of the Museum of Natural History. According to the aforementioned newspaper article, after the elephant’s body had been cut up and dissected, the museum was to receive the skull for its scientific research collection, and a piece of the backbone for its exhibition.[^1] The article went on to report that a private taxidermist named Kriegerowski, who regularly received animal carcasses from the zoo for taxidermy purposes, was to receive the feet, which he combined with tinfoil to make wastepaper baskets.[^2] This is where the trail runs cold, or at least where my research reaches a [[dead end|story.untraceable]] – as is the case with many [[objects|story.silkworms]]. The items that ended up in private hands are much harder to locate than those in public collections. The [[histories|story.moving-horseshoe-crabs]] of some objects (still) only seem to exist in the form of a paper trail the animals left behind in archives, correspondence, and newspaper reports. That said, the search in the Museum of Natural History has also proven difficult. My colleague Clemens Maier-Wolthausen and I have searched for the skull in many boxes, cupboards, and shelves in the mammal collection – thus far, without success.[^3]
+One of the trails leads to the Zoological Museum Berlin, which was a part of the Museum of Natural History. According to the aforementioned newspaper article, after the elephant’s body had been cut up and dissected, the museum was to receive the skull for its scientific research collection, and a piece of the backbone for its exhibition.[^1] The article went on to report that a private taxidermist named Kriegerowski, who regularly received animal carcasses from the zoo for taxidermy purposes, was to receive the feet, which he combined with tinfoil to make wastepaper baskets.[^2] This is where the trail runs cold, or at least where my research reaches a [[dead end|story.untraceable]] – as is the case with many [[objects|story.silkworms]]. The items that ended up in private hands are much harder to locate than those in public collections. The [[histories|story.moving-horseshoe-crabs]] of some objects (still) only seem to exist in the form of a paper trail the animals left behind in archives, correspondence, and newspaper reports. That said, the search in the Museum of Natural History has also proven difficult. My colleague Clemens Maier-Wolthausen and I have searched for the skull in many boxes, cupboards, and shelves in the Mammals Collection – thus far, without success.[^3]
 
 <figure>
 
@@ -82,7 +84,7 @@ One of the trails leads to the Zoological Museum Berlin, which was a part of the
 
 <figcaption>
 
-_Searching the mammal collection of the Museum für Naturkunde Berlin, November 2020. (Image: Mareike Vennen. All rights reserved.)_
+_Searching the Mammals Collection of the Museum für Naturkunde Berlin, November 2020. (Image: Mareike Vennen/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -120,7 +122,7 @@ Just how great the need was among the people of Berlin in the first postwar year
 
 ## An Elephant’s Paper Trail
 
-“Siam’s” story tells not only of [[how animals end up in zoos|theme.how-do-animals-end-up-in-the-zoo]], but first and foremost of various forms of (re)use. Zoo animals are part of different cycles of (re)use at different times. [[story.knut]], probably Berlin Zoo’s most famous polar bear, who was born in the zoo in 2006 and has been on display in the Museum of Natural History Berlin since his death in 2011, has been a zoo attraction, a climate ambassador, and a licensed brand. The elephant had gone from being a [[wild animals|story.catching-animals]] to “Siam” the circus and zoo attraction in the 1930s. He may then very well have gone on to be part of a scientific research collection, as well as – if the newspaper report is to be believed – a [[decorative object|material.an-evocative-image-of-the-empire]] in the style of a colonial trophy , and finally a source of meat for animal and human consumption. The story of “Siam’s” life and afterlife, reconstructed from his paper trail, is a story that is at once local and global; it is a chapter of Berlin’s postwar history, and part of a global history of colonialism. 
+“Siam’s” story tells not only of [[how animals end up in zoos|theme.how-do-animals-end-up-in-the-zoo]], but first and foremost of various forms of (re)use. Zoo animals are part of different cycles of (re)use at different times. [[story.knut]], probably Berlin Zoo’s most famous polar bear, who was born in the zoo in 2006 and has been on display in the Museum of Natural History Berlin since his death in 2011, has been a zoo attraction, a climate ambassador, and a licensed brand. The elephant had gone from being a [[wild animals|story.catching-animals]] to “Siam” the circus and zoo attraction in the 1930s. He may then very well have gone on to be part of a scientific research collection, as well as – if the newspaper report is to be believed – a [[decorative object|material.the-german-colonial-hunting-exhibition]] in the style of a colonial trophy , and finally a source of meat for animal and human consumption. The story of “Siam’s” life and afterlife, reconstructed from his paper trail, is a story that is at once local and global; it is a chapter of Berlin’s postwar history, and part of a global history of colonialism. 
 
 At the same time, the afterlife of “Siam” reveals the [[gaps|story.untraceable]] in the records. These can be found in different forms of recors, in [[zoo records|material.steinmetz-index]], [[inventory books|story.inventory-books]] or [[databases|material.nsb-database]]. These empty spaces, in particular, raise many [[questions|story.from-pests-to-displays]] – about when zoo animals are given as feed or eaten; whether they are disposed of, mourned, or recycled after death, and how they become scientific objects, exhibits, trophies, or a source of meat. What forms of labor are involved, what forms of care, and what rationale for and approaches to (re)use? These questions can be asked of other case histories as well, for example in [[story.the-worlds-we-make]] and [[story.silk-culture]]. This leads me back to the question of the traces an animal leaves behind, the ways in which it is possible or impossible to reconstruct (hi)stories on the basis of its paper trail, and what this means for my research, its sources, and the limits of historical reconstruction.
 
@@ -212,7 +214,7 @@ Eine der Spuren führt in das Zoologische Museum Berlin, das Teil des Museums f�
 
 <figcaption>
 
-_Suche in der Säugetiersammlung des Museums für Naturkunde Berlin, November 2020. (Foto Mareike Vennen. Alle Rechte vorbehalten.)_
+_Suche in der Säugetiersammlung des Museums für Naturkunde Berlin, November 2020. (Foto: Mareike Vennen/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -250,9 +252,9 @@ Wie groß die Not in der Berliner Bevölkerung in den ersten Nachkriegsjahren wa
 
 ## Papierspuren eines Elefanten
 
-Die Geschichte von “Siam” verweist nicht nur auf die Frage [[wie Tiere in den Zoo kommen|theme.how-do-animals-end-up-in-the-zoo]]. Sie ist auch eine Geschichte unterschiedlicher Verwertungen. Zu unterschiedlichen Zeiten sind Zootiere in unterschiedliche Verwertungskreisläufe eingebunden. [[story.knut]], der wohl berühmteste Eisbär des Berliner Zoos, der 2006 im Zoo geboren wurde und seit seinem Tod 2011 als Dermoplastik im Berliner Naturkundemuseum zu sehen ist, war (und ist) Schauattraktion, Klimabotschafter und lizensierte Marke. Der Elefant war in den 1930er Jahren vom [[Wildtier|story,catching-animals]] zu “Siam”, der Zirkus- und Zooattraktion geworden, dann womöglich zum Teil einer wissenschaftlichen Sammlung und, laut Zeitungsberichten, zum [[Dekorationsobjekt|material.an-evocative-image-of-the-empire]] im Stil kolonialer Trophäen und schließlich zum Fleischlieferanten für Tier und Mensch. Die Geschichte seines Lebens und Nachlebens, rekonstruiert aus Papierspuren, ist eine zugleich lokale und globale Geschichte; ein Kapitel Berliner Nachkriegsgeschichte und Teil einer globalen Geschichte des Kolonialismus.
+Die Geschichte von “Siam” verweist nicht nur auf die Frage [[wie Tiere in den Zoo kommen|theme.how-do-animals-end-up-in-the-zoo]]. Sie ist auch eine Geschichte unterschiedlicher Verwertungen. Zu unterschiedlichen Zeiten sind Zootiere in unterschiedliche Verwertungskreisläufe eingebunden. [[story.knut]], der wohl berühmteste Eisbär des Berliner Zoos, der 2006 im Zoo geboren wurde und seit seinem Tod 2011 als Dermoplastik im Berliner Naturkundemuseum zu sehen ist, war (und ist) Schauattraktion, Klimabotschafter und lizensierte Marke. Der Elefant war in den 1930er Jahren vom [[Wildtier|story,catching-animals]] zu “Siam”, der Zirkus- und Zooattraktion geworden, dann womöglich zum Teil einer wissenschaftlichen Sammlung und, laut Zeitungsberichten, zum [[Dekorationsobjekt|material.the-german-colonial-hunting-exhibition]] im Stil kolonialer Trophäen und schließlich zum Fleischlieferanten für Tier und Mensch. Die Geschichte seines Lebens und Nachlebens, rekonstruiert aus Papierspuren, ist eine zugleich lokale und globale Geschichte; ein Kapitel Berliner Nachkriegsgeschichte und Teil einer globalen Geschichte des Kolonialismus.
 
-Gleichzeitig macht das Nachleben von “Siam” die [[Lücken|story.untraceable]] in der Überlieferung sichtbar, die buchstäblichen Leerstellen der materiellen Kultur. Leerstellen können sowohl [[Zoo-Verzeichnen|material.steinmetz-index]] als auch in [[Museumsinventaren|story.inventory-books]] oder [[Datenbanken|material.nsb-database]] vorkommen. Gerade sie stoßen viele [[Fragen|story.from-pests-to-displays]] an – darüber, wann Zootiere gefüttert oder gegessen werden; ob sie nach ihrem Tod entsorgt, betrauert oder weiterverwertet werden und wie sie zu wissenschaftlichen Objekten, zu Ausstellungsstücken, zu Trophäen und Fleischlieferanten werden. Welche Formen der Arbeit sind damit verbunden, welche Formen der Fürsorge und welche Verwertungslogiken? Eben diese Fragen lassen sich auch für andere Fälle stellen, wie in [[story.the-worlds-we-make]] oder der [[seidenzucht|story.silk-culture]]. Das führt mich zurück zu der Frage, welche Spuren ein Tier hinterlässt, auf welche Weise es möglich oder unmöglich ist, Geschichte(n) anhand von Papierspuren zu rekonstruieren und was das für meine Forschung, ihre Quellen und die Grenzen historischer Rekonstruktion bedeutet.
+Gleichzeitig macht das Nachleben von “Siam” die [[Lücken|story.untraceable]] in der Überlieferung sichtbar, die buchstäblichen Leerstellen der materiellen Kultur. Leerstellen können sowohl [[Zoo-Verzeichnen|material.steinmetz-index]] als auch in [[Museumsinventaren|story.inventory-books]] oder [[Datenbanken|material.nsb-database]] vorkommen. Gerade sie stoßen viele [[Fragen|story.from-pests-to-displays]] an – darüber, wann Zootiere gefüttert oder gegessen werden; ob sie nach ihrem Tod entsorgt, betrauert oder weiterverwertet werden und wie sie zu wissenschaftlichen Objekten, zu Ausstellungsstücken, zu Trophäen und Fleischlieferanten werden. Welche Formen der Arbeit sind damit verbunden, welche Formen der Fürsorge und welche Verwertungslogiken? Eben diese Fragen lassen sich auch für andere Fälle stellen, wie in [[story.the-worlds-we-make]] oder der [[Seidenzucht|story.silk-culture]]. Das führt mich zurück zu der Frage, welche Spuren ein Tier hinterlässt, auf welche Weise es möglich oder unmöglich ist, Geschichte(n) anhand von Papierspuren zu rekonstruieren und was das für meine Forschung, ihre Quellen und die Grenzen historischer Rekonstruktion bedeutet.
 
 [^1]: “‘Siam’ unter der Bandsäge”. _Telegraf_, 21.03.1947.
 
