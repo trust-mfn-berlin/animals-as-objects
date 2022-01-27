@@ -7,7 +7,7 @@ short_desc_de: Wer (über)füttert im Zoo?
 date_end: 1960-12-31T11:00:00.000Z
 published: false
 title: Feeding and Overfeeding
-updated: 1643295179954
+updated: 1643305919746
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 doi: 64y2-m311/25
 translators:
@@ -105,7 +105,7 @@ _The_ Tägliche Rundschau _presents feeding the animals as an act of sharing in 
 
 [^3]: Christian Reiß. “Wie die Zoologie das Füttern lernte: Die Ernährung von Tieren in der Zoologie im 19. Jahrhundert”. _Berichte zur Wissenschaftsgeschichte_ 35, no. 4 (2012): 286-299. https://doi.org/10.1002/bewi.201201586. Cf. also Mareike Vennen. _Das Aquarium: Praktiken, Techniken und Medien der Wissensproduktion (1840-1910)_. Berlin: Wallstein, 2018.
 
-[^4]: Cf., for instance, Moritz Friedrich Röll. “Die Knochenweiche (Rachitis)”. In _Lehrbuch der Pathologie und Therapie der Hausthiere_, Moritz Friedrich Röll (ed.), Wien: Braumüller, 1860: 85; Walter Butler Cheadle. _Rickets: A System of Medicine_, Thomas Clifford Allbutt (ed.), vol. 4, London: 1897: 108-146. On this, see also Lamp, 2009: 160.
+[^4]: Cf., for instance, Moritz Friedrich Röll. “Die Knochenweiche (Rachitis)”. In _Lehrbuch der Pathologie und Therapie der Hausthiere_, Moritz Friedrich Röll (ed.), Wien: Braumüller, 1860: 85; Walter Butler Cheadle. _Rickets: A System of Medicine_, Thomas Clifford Allbutt (ed.), vol. 4, London: 1897: 108-146. On this see also Lamp, 2009: 160.
 
 [^5]: Cf. Christoph Scherpner. _Von Bürgern für Bürger: 125 Jahre Zoologischer Garten Frankfurt am Main_ Frankfurt a.M.: Zoologischer Garten, 1983: 126. Direct quotes have been translated into English for clarity’s sake.
 
@@ -117,7 +117,7 @@ _The_ Tägliche Rundschau _presents feeding the animals as an act of sharing in 
 
 [^9]: E. Kallmann. “Die Krankheiten der Tiere im Zoologischen Garten in Berlin”. _Tierärztliche Rundschau_ 28 (12.07.1925): 482-484. Direct quotes have been translated into English for clarity’s sake.
 
-[^10]: Daniel de Luce. “Lebensmittelkarte 5 im Berliner Zoo”. _Tägliche Rundschau_, 17.12.1946. For further examples of animals that fell ill or died in Berlin Zoo around 1930 as a result of overfeeding, see also “Feeding prohibited! Observations at the zoo”. _Steglitzer Anzeiger_, 24.07.1930. Direct quotes have been translated into English for clarity’s sake.
+[^10]: Daniel de Luce. “Lebensmittelkarte 5 im Berliner Zoo”. _Tägliche Rundschau_, 17.12.1946. For further examples of animals that fell ill or died in Berlin Zoo around 1930 as a result of overfeeding see also “Feeding prohibited! Observations at the zoo”. _Steglitzer Anzeiger_, 24.07.1930. Direct quotes have been translated into English for clarity’s sake.
 
 :::DE:::
 
