@@ -7,7 +7,7 @@ short_desc_de: Habitate und Tierhandelsfirmen
 date_end: 1973-12-31T11:00:00.000Z
 published: false
 title: Catching Animals
-updated: 1643319069744
+updated: 1643323274768
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 doi: 64y2-m311/13
 translators:
@@ -278,7 +278,7 @@ In 1975, a Convention on International Trade in Endangered Species of Wild Fauna
 
 [^17]: Ken Kawata. “Zoo Animal Feeding: A Natural History Viewpoint”. In _Der Zoologische Garten_ 78, no. 1 (2008): 17-42.
 
-[^18]: Examples in Hanson, 2002: 100-129. Besides contemporary newspaper articles cf. also William M. Mann. “Wild Animals in and out of the Zoo”. _Smithsonian Institution Series_, vol. 6. New York: Smithsonian Institution, 1938; Kathleen Weidner Zoehfeld. _Wild Lives: A History of the People & Animals of the Bronx Zoo_. New York: Alfred A. Knopf, 2006; and David Attenborough. _Zoo Quest to Guiana_. London: Lutterworth Press, 1956.
+[^18]: Examples in Hanson, 2002: 100-129. Besides contemporary newspaper articles, cf. also William M. Mann. “Wild Animals in and out of the Zoo”. _Smithsonian Institution Series_, vol. 6. New York: Smithsonian Institution, 1938; Kathleen Weidner Zoehfeld. _Wild Lives: A History of the People & Animals of the Bronx Zoo_. New York: Alfred A. Knopf, 2006; and David Attenborough. _Zoo Quest to Guiana_. London: Lutterworth Press, 1956.
 
 [^19]: Examples in Lutz Heck. “Auf Giraffenfang in Ostafrika”. _Die Koralle_ 4, no. 10 (1928): 456-460; Lutz Heck. “Als Tierfänger in Ostafrika: Die Tierfangexpedition des Zoologischen Gartens in Berlin”. _Die Koralle_ 5, no. 2 (1929): 82-86; Lutz Heck. “Als Tierfänger in Ostarfrika”. _Die Kunst und ihre Welt_, Januar (1930): 8-11; Lutz Heck. _Aus der Wildnis in den Zoo: Auf Tierfang in Ostafrika_. Berlin: Ullstein, 1930; Lutz Heck. “Über Giraffen und Giraffenfang”. _Atlantis: Länder, Völker, Reisen_ 3, no. 8 (1931): 458-466; Lutz Heck. “Pavian-Fang in Abessinien”. _Das Tier und wir_, no. 6 (1934): 1-6; Lutz Heck. _Auf Tiersuche in weiter Welt_. Berlin: Paul Parey, 1941.
 

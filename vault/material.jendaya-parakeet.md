@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1643310526946
+updated: 1643322950474
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 doi: 64y2-m311/69
@@ -287,7 +287,7 @@ _Storing and classifying the partial skeleton in the collection (Image: Mareike 
 
 [^2]: The various preparation steps often do not take place all at once, but with interruptions, meaning that the process can stretch out over several weeks or months. We would like to thank Christin Scheinpflug for letting us take part in the process, for answering our numerous questions, and for providing us with all information needed.
 
-[^3]: Unlike a taxidermy, a study skin has the feathers, beak, legs, and feet attached to it and is pulled over an artificial replica of the animal’s body. It can be stored in a drawer. In today’s scientific collections, study skins are the main type of specimen used. On working in and with the Bird Collection at the Museum für Naturkunde Berlin see Sylke Frahnert, M. Päckert, D. T. Tietze, and T. Töpfer. “Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie”. _Vogelwarte_ 51, no. 3 (2013): 185-191.
+[^3]: Unlike a taxidermy, a study skin has the feathers, beak, legs, and feet attached to it and is pulled over an artificial replica of the animal’s body. It can be stored in a drawer. In today’s scientific collections, study skins are the main type of specimen used. On working in and with the Bird Collection at the Museum für Naturkunde Berlin, see Sylke Frahnert, M. Päckert, D. T. Tietze, and T. Töpfer. “Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie”. _Vogelwarte_ 51, no. 3 (2013): 185-191.
 
 [^4]: The torso skeleton is made up of the thoracic vertebrae, the ribs, the sternum, the furcula, the coracoid, the shoulder blades, the thigh, the lumbar vertebrae, the pelvis, and the caudal vertebrae.
 

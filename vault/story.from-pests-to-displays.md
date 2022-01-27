@@ -3,7 +3,7 @@ license: CC BY-SA
 title: From Pests to Displays
 title_de: Von Schädlingen zu Ausstellungsstücken
 created: 1640461871904
-updated: 1643319075474
+updated: 1643323066154
 id: 3YRSzijvbnQXZs4VO291j
 author: Mareike Vennen
 doi: 64y2-m311/71
@@ -83,7 +83,7 @@ Tracing back their history to the mid-19th century can thus give us insights int
 
 [^10]: See Hans Sloane. _A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica_, 2 vols. London: printed by B. M. for the author 1707-25, vol. II: 346. See also Christopher M. Parsons and Kethleen S. Murphy, “Ecosystems under Sail: Specimen Transport in the Eighteenth-Century French and British Atlantics”. _Early American Studies_ (Fall 2012): 503-539. M. Hunter, A. Walker, and A. MacGregor (eds.). _From Books to Bezoars: Sir Hans Sloane and his Collections_. London: British Library, 2012.
 
-[^11]: To learn more about the history of the Atlantic (triangular) slave trade see e.g. Christina Sharpe. “The Ship: The Trans*Atlantic”. In _In The Wake: On Blackness and Being_. Durham: Duke University Press, 2016: 25-67.https://doi.org/10.1215/9780822373452-002; Saidiya Hartman. _Lose Your Mother: A Journey Along the Atlantic Slave Route_. New York: Farrar, Straus, and Giroux, 2007; Jane Webster. “The _Zong_ in the Context of the Eighteenth-Century Slave Trade”. _The Journal of Legal History_ 28, no. 3 (2007): 285-298. https://doi.org/10.1080/01440360701698403; Jeremy Krikler. “A Chain of Murder in the Slave Trade: A Wider Context of the Zong Massacre”. _International Review of Social History_ 57, no. 3 (2012), 393-415. https://doi.org/10.1017/S0020859012000491. 
+[^11]: To learn more about the history of the Atlantic (triangular) slave trade, see e.g. Christina Sharpe. “The Ship: The Trans*Atlantic”. In _In The Wake: On Blackness and Being_. Durham: Duke University Press, 2016: 25-67.https://doi.org/10.1215/9780822373452-002; Saidiya Hartman. _Lose Your Mother: A Journey Along the Atlantic Slave Route_. New York: Farrar, Straus, and Giroux, 2007; Jane Webster. “The _Zong_ in the Context of the Eighteenth-Century Slave Trade”. _The Journal of Legal History_ 28, no. 3 (2007): 285-298. https://doi.org/10.1080/01440360701698403; Jeremy Krikler. “A Chain of Murder in the Slave Trade: A Wider Context of the Zong Massacre”. _International Review of Social History_ 57, no. 3 (2012), 393-415. https://doi.org/10.1017/S0020859012000491. 
 
 [^12]: See e.g. Sylvia Wynter: _On Being Human as Praxis_. Durham: Duke University Press, 2015.
 

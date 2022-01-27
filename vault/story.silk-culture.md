@@ -7,7 +7,7 @@ short_desc_de: Zur Geschichte des Seidenbaus in Preußen
 date_end: 1885-12-31T11:06:32.000Z
 published: false
 title: "Silk Culture "
-updated: 1643298646896
+updated: 1643323668462
 id: isUsK2mnx8uIqaTJ60nYR
 doi: 64y2-m311/48
 translators:
@@ -75,13 +75,13 @@ This breeding process, entangled in complex [[metabolisms|theme.logistical-metab
  
 <figcaption>
  
-_Old display case showing the developmental stages of_ Bombyx mori, _Berlin Museum of Natural History, Lepidoptera Collection, 2020. (Image: Britta Lange/MfN. All rights reserved.)_
+_Old display case showing the developmental stages of_ Bombyx mori, _Museum für Naturkunde Berlin, Lepidoptera Collection, 2020. (Image: Britta Lange/MfN. All rights reserved.)_
 
 </figcaption>
  
 </figure>
 
-Another display case of unidentifiable date at the Berlin Museum of Natural History bears the label ‘clothing’. Today it is preserved in the collection, but it is likely that it had once been arranged for an [[exhibition|theme.putting-animals-on-display]]. Its introductory sentence reads: “The silk moth [[Bombyx mori|theme.taxonomic-orders]] provides a livelihood to millions of people in China and Japan”, pointing to the economic power of silk manufacturing and keeping silkworms as ‘working animals’ in manufactories, but also in private households. It may thus not come as a surprise that the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]] of Friedrich-Wilhelms-Universität (today’s Humboldt-Universität zu Berlin) holds a historic [[model of a silkworm|material.silkworm-in-papier-mache]]. The silk moth is given preference over other pupating butterfly species, as its silk thread can be wound off in one piece if humans have the required skill. Twisting off the individual threads creates an even yarn and therefore a smooth fabric, while other species of caterpillar produce shorter pieces of thread, producing an uneven thread from which ‘wild silk’ can be woven, which is of differing thicknesses.
+Another display case of unidentifiable date at the Museum für Naturkunde Berlin bears the label ‘clothing’. Today it is preserved in the collection, but it is likely that it had once been arranged for an [[exhibition|theme.putting-animals-on-display]]. Its introductory sentence reads: “The silk moth [[Bombyx mori|theme.taxonomic-orders]] provides a livelihood to millions of people in China and Japan”, pointing to the economic power of silk manufacturing and keeping silkworms as ‘working animals’ in manufactories, but also in private households. It may thus not come as a surprise that the [[Zoological Teaching Collection|story.history-of-the-zoological-teaching-collection]] of Friedrich-Wilhelms-Universität (today’s Humboldt-Universität zu Berlin) holds a historic [[model of a silkworm|material.silkworm-in-papier-mache]]. The silk moth is given preference over other pupating butterfly species, as its silk thread can be wound off in one piece if humans have the required skill. Twisting off the individual threads creates an even yarn and therefore a smooth fabric, while other species of caterpillar produce shorter pieces of thread, producing an uneven thread from which ‘wild silk’ can be woven, which is of differing thicknesses.
 
 **At a macro level, the idea behind ‘silk culture’ in Prussia was achieving self-sufficiency in raw materials. However, there were other questions and issues at play at the micro level.** Although keeping silkworms privately was occasionally lucrative, it was not pleasant, to which a number of sources attest, including letters written by horrified pastors and teachers to Frederick II.[^13] **Caring for the ravenous caterpillars was expensive and time-consuming**: numerous handbooks from the late 18th and 19th century explain in detail how silk rooms were furnished, frames built, leaves draped, the temperature monitored, and the approximately thumb-sized caterpillars cleaned of excrement. The animals were frequently plagued by disease, they stunk, and they often died prematurely, as Johann Wolfgang von Goethe, for instance, writes in _Truth and Poetry_ with respect to his father’s caterpillar breeding operation near Frankfurt am Main: “The [[corruption|material.of-lion-tigers-and-rotting-specimens]] which ensued produced a smell really pestilential, and because the dead and diseased had to be taken away and separated from the healthy, the business was indeed extremely wearisome and repulsive \[…].”[^14]
 

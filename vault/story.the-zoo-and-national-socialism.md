@@ -7,7 +7,7 @@ short_desc_de: Propagandainstrument und Zwangsarbeit
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: The Zoo and National Socialism
-updated: 1643291595355
+updated: 1643323173763
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 doi: 64y2-m311/12
 translators:
@@ -61,7 +61,7 @@ In 1932, Lutz Heck became director of the Berlin Zoological Garden. He succeeded
 
 Lutz Heck soon also became personally acquainted with Hermann Göring, Prussian Prime Minister and Reich Minister of Aviation, and from 1934 also head of the Reich’s forestry ministry (Reichsforstmeister) and chief huntsman of the Reich (Reichsjägermeister).
 
-In January 1934, Göring presented his plans for the Schorfheide to a group of forestry officials. He wanted to establish a large nature reserve, where he also wished to hunt the largest land mammal in Europe.[^3] In order to make Göring’s plans a reality, Lutz Heck decided to increase the zoo’s population of wisents, or European bison, as quickly as possible. He aimed to do this by means of ‘upgrading’ – breeding with the wisent’s closest relative, the North American bison.[^4] In 1935, he undertook an expedition to Canada “on behalf of the Reichsforstmeister and Reichsjägermeister Hermann Göring, the German hunting community, and the zoo.”[^5] The trip’s purpose was, among other things, to procure bison to support his breeding efforts – for a closer look at the genealogy of breeding programmes see [[story.zoos-and-conservation]]. 
+In January 1934, Göring presented his plans for the Schorfheide to a group of forestry officials. He wanted to establish a large nature reserve, where he also wished to hunt the largest land mammal in Europe.[^3] In order to make Göring’s plans a reality, Lutz Heck decided to increase the zoo’s population of wisents, or European bison, as quickly as possible. He aimed to do this by means of ‘upgrading’ – breeding with the wisent’s closest relative, the North American bison.[^4] In 1935, he undertook an expedition to Canada “on behalf of the Reichsforstmeister and Reichsjägermeister Hermann Göring, the German hunting community, and the zoo.”[^5] The trip’s purpose was, among other things, to procure bison to support his breeding efforts – for a closer look at the genealogy of breeding programmes, see [[story.zoos-and-conservation]]. 
 
 **Lutz Heck supported the regime in whatever way he could. His books and publications praised the Nazi state’s laws on game conservation.[^6]** At Heck’s instigation, Göring was appointed leader of the *Fachschaft Deutsche Bracken Olpe*, a club for breeders of hunting dogs[^7] – certainly a minor honor, but ideal for winning over Göring, who was an enthusiastic hunter. Lutz Heck also provided Göring with [[lion cubs|story.photos-with-lion-cubs]] to keep as pets, which Heck took back when the animals had grown out of the ‘petting age’.[^8]
 

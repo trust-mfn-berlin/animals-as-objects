@@ -7,7 +7,7 @@ short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
 date_end: 2022-10-25T08:44:25.273Z
 published: false
 title: Keeping Records of Animals
-updated: 1643314939132
+updated: 1643323084287
 id: zrAZZTgVehO9zeVbW4dMX
 doi: 64y2-m311/30
 translators:
@@ -157,7 +157,7 @@ The repercussions can still be felt today, not least in attempts to trace the or
  
 [^12]: Matschie wrote: “I do not dare claim that the species is extinct, because vast regions in China have not yet been researched. It will be very difficult to utilise its fur and this skull as an object of exchange. In that case, the garden should mount it itself instead and be reimbursed for the taxidermy costs.” Internal memo by Paul Matschie, 10.06.1914, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten.
  
-[^13]: On the instructions issued by the Natural History Museum see Martin Hinrich Lichtenstein. “Instructionen für die auswärtigen Reisenden und Sammler”. 1815, MfN, HBSB, Zool. Mus. S I, Instructionen für Sammler; see also Arthur MacGregor. _Naturalists in the Field: Collecting, Recording and Preserving the Natural World from the Fifteenth to the Twenty-First Century_. Leiden/Boston: Brill, 2018. 
+[^13]: On the instructions issued by the Natural History Museum, see Martin Hinrich Lichtenstein. “Instructionen für die auswärtigen Reisenden und Sammler”. 1815, MfN, HBSB, Zool. Mus. S I, Instructionen für Sammler; see also Arthur MacGregor. _Naturalists in the Field: Collecting, Recording and Preserving the Natural World from the Fifteenth to the Twenty-First Century_. Leiden/Boston: Brill, 2018. 
  
 [^14]: This was one of the reasons why the museum usually preferred animals that came from collecting expeditions or collectors in the field over animals that had been kept in captivity. Cf. Paul Matschie 10.06.1914, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten.
  

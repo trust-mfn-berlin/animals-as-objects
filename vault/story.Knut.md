@@ -20,7 +20,7 @@ cover_image:
 date_start: 2006-12-04T23:00:00.000Z
 feature: true
 title: “Knut”
-updated: 1643218697272
+updated: 1643323630499
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 doi: 64y2-m311/27
 translators:
@@ -213,7 +213,7 @@ Donations to erect the monument were collected by the Capital City Zoos Foundati
  
 ## “Knut’s” Death and Taxidermy
  
-Shortly after the polar bear’s death, the decision was made to bring “Knut’s” cadaver to Berlin’s Museum of Natural History, **where he would be mounted as a taxidermy and would continue to serve natural history education as an [[exhibit|story.bobby-tracking-body-parts]]. Angry protests about his continued display flared up among “Knut” fans.** The zoo once again received numerous letters, many of which described its actions as impious. This came to a head with a demonstration at the zoo’s entrance at Hardenbergplatz. Photos from the zoo archive show demonstrators with posters like this one:
+Shortly after the polar bear’s death, the decision was made to bring “Knut’s” cadaver to the Museum für Naturkunde Berlin, **where he would be mounted as a taxidermy and would continue to serve natural history education as an [[exhibit|story.bobby-tracking-body-parts]]. Angry protests about his continued display flared up among “Knut” fans.** The zoo once again received numerous letters, many of which described its actions as impious. This came to a head with a demonstration at the zoo’s entrance at Hardenbergplatz. Photos from the zoo archive show demonstrators with posters like this one:
  
 >“Children ask… Why can’t Knut go to heaven? // Mother thinks: Because they need him to make money… // Mother says: Knut will be okay… // We don’t want to have to lie to our children to protect them!!!! // This is why we are demanding that Knut’s body be left alone and for him to finally find some peace.”
  
@@ -233,7 +233,7 @@ _Protest banner against “Knut’s” taxidermy, 2011. (AZGB. All rights reserv
  
 </figure>
  
-Knut was ultimately mounted, and his [[taxidermy|material.jendaya-parakeet]] can still be viewed at the Museum of Natural History today.
+Knut was ultimately mounted, and his [[taxidermy|material.jendaya-parakeet]] can still be viewed at the Museum für Naturkunde Berlin today.
  
 <figure>
  
@@ -241,7 +241,7 @@ Knut was ultimately mounted, and his [[taxidermy|material.jendaya-parakeet]] can
  
 <figcaption>
  
-_“Knut” and the taxidermist Detlev Matzke in the taxidermy workshop of Berlin’s Museum of Natural History, 2013. (Image: Carola Radke/MfN. All rights reserved.)_
+_“Knut” and the taxidermist Detlev Matzke in the taxidermy workshop of the Museum für Naturkunde Berlin, 2013. (Image: Carola Radke/MfN. All rights reserved.)_
  
 </figcaption>
  
@@ -253,7 +253,7 @@ _“Knut” and the taxidermist Detlev Matzke in the taxidermy workshop of Berli
  
 <figcaption>
  
-_“Knut” being exhibited at the Berlin Museum of Natural History, 2013. (Image: Carola Radke/MfN. All rights reserved.)_
+_“Knut” being exhibited at the Museum für Naturkunde Berlin, 2013. (Image: Carola Radke/MfN. All rights reserved.)_
  
 </figcaption>
  
@@ -281,9 +281,9 @@ While this text was being written in the summer of 2021, Berlin Zoo received a c
  
 ## “Knut” and the Factors in his Fame
  
-So far, the protests about “Knut’s” taxidermy have been one of a kind, even though this extremely popular zoo animal was not the first animal to be exhibited at the Berlin Museum of Natural History after its death. Unlike in “Knut’s” case of 2013, there is no discussion to be found in the zoo’s press archive, for example, in 1935 about exhibiting the extremely popular gorilla [[Bobby|story.bobby-tracking-body-parts]]. Nor was the 1988 taxidermy of the famous hippopotamus “Knautschke” contentious. It is likely that “Knautschke” came to Berlin Zoo in 1942 as a calf, and he was one of the few large animals that survived the war at the zoo. He had been fed throughout the postwar period and during the Berlin Blockade by Berlin’s residents. As a symbol of a community united during [[scarcity|story.feed-scarcity]], there were numerous anecdotes circulating about him. But in spite of the animal’s obvious fame and popularity, an exhibition at the Berlin City Museum of a plaster model that also contained taxidermies of some of the animal’s body parts was not met with any criticism in the 1980s. The model provided a template for a 1998 sculpture of “Knautschke” – now used by children as a stage for photographic mementos in front of the hippopotamus house at the zoo, although it has never attained the status of memorial.
+So far, the protests about “Knut’s” taxidermy have been one of a kind, even though this extremely popular zoo animal was not the first animal to be exhibited at the Museum für Naturkunde Berlin after its death. Unlike in “Knut’s” case of 2013, there is no discussion to be found in the zoo’s press archive, for example, in 1935 about exhibiting the extremely popular gorilla [[Bobby|story.bobby-tracking-body-parts]]. Nor was the 1988 taxidermy of the famous hippopotamus “Knautschke” contentious. It is likely that “Knautschke” came to Berlin Zoo in 1942 as a calf, and he was one of the few large animals that survived the war at the zoo. He had been fed throughout the postwar period and during the Berlin Blockade by Berlin’s residents. As a symbol of a community united during [[scarcity|story.feed-scarcity]], there were numerous anecdotes circulating about him. But in spite of the animal’s obvious fame and popularity, an exhibition at the Berlin City Museum of a plaster model that also contained taxidermies of some of the animal’s body parts was not met with any criticism in the 1980s. The model provided a template for a 1998 sculpture of “Knautschke” – now used by children as a stage for photographic mementos in front of the hippopotamus house at the zoo, although it has never attained the status of memorial.
  
-**Just like “Knautschke’s” taxidermy, an exhibit at the Berlin Museum of Natural History featuring “Bao-Bao”, the 34-year-old panda from the Zoological Garden that died in 2012, did not lead to any controversies,** as can be garnered by reviewing the press from that time, even though the giant panda had long been a reliable audience magnet for Berlin Zoo. Visitors, friends of the zoo, and the press had shared in the failed breeding attempts and the fate of the two panda females “Tien-Tien” and “Yan-Yan”, who both died before “Ba-Bao”[^29] and who were also mounted as natural history showpieces. While the _Tagesspiegel_ was still asking in 2013 whether the deployment of “Knut’s” taxidermy in the Berlin Museum of Natural History was “A symbol? An idol? Or just a taxidermy?” the exhibition of all three Berlin pandas was described in 2015 as a “celebration” of the dead stars.[^30]
+**Just like “Knautschke’s” taxidermy, an exhibit at the Museum für Naturkunde Berlin featuring “Bao-Bao”, the 34-year-old panda from the Zoological Garden that died in 2012, did not lead to any controversies,** as can be garnered by reviewing the press from that time, even though the giant panda had long been a reliable audience magnet for Berlin Zoo. Visitors, friends of the zoo, and the press had shared in the failed breeding attempts and the fate of the two panda females “Tien-Tien” and “Yan-Yan”, who both died before “Ba-Bao”[^29] and who were also mounted as natural history showpieces. While the _Tagesspiegel_ was still asking in 2013 whether the deployment of “Knut’s” taxidermy in the Museum für Naturkunde Berlin was “A symbol? An idol? Or just a taxidermy?” the exhibition of all three Berlin pandas was described in 2015 as a “celebration” of the dead stars.[^30]
  
 Not even the 1972 taxidermy of the panda female “Chi-Chi” in London stimulated discussion, although the case was different for London Zoo’s gorilla “Guy” in 1978. The zoo and the museum received letters protesting his taxidermy. In the case of “Guy”, the primate studies carried out by Dian Fossey and Jane Goodall and their dissemination in the media might have played a role. **For some Londoners, “Guy” was too human to be stuffed.**[^31] Maybe this is another key to understanding “Knut’s” status, even though he was of a different species.
  

@@ -23,7 +23,7 @@ cover_image:
 date_start: 1740-12-31T23:50:39.000Z
 feature: true
 title: Logistical Metabolisms
-updated: 1643303646482
+updated: 1643323194128
 id: GkUgy87PFegTFmR0W1Z2Q
 doi: 64y2-m311/70
 translators:
@@ -122,7 +122,7 @@ But they didn’t stop there. In addition, a large part of the Jardin de Plantes
 
 As these stories show, following logistical flows and metabolic circulations opens up a different view of the [[transformations|story.bobby-tracking-body-parts]] of animals and objects this website traces. Even when animals end up as part of natural history collections, their transformations do not end: skins, furs, skeletons, bodies, cells, all continue to transform, and might yet become entangled again in other food chains – like those of museum beetles and other animals looking to feed on the collections.
 
-[^1]: David Peleman, Bruno Notteboom, Michiel Dehaene. “Fragments of a Changing Natural History of Urbanisation”. _Oase_ 104 (2019): 2. For more information on concepts of urban metabolism see Matthew Gandy. “Rethinking Urban Metabolism: Water, Space and the Modern City”. _City_ 8, no. 3 (Dec. 2004): 363-379. https://doi.org/10.1080/1360481042000313509 
+[^1]: David Peleman, Bruno Notteboom, Michiel Dehaene. “Fragments of a Changing Natural History of Urbanisation”. _Oase_ 104 (2019): 2. For more information on concepts of urban metabolism, see Matthew Gandy. “Rethinking Urban Metabolism: Water, Space and the Modern City”. _City_ 8, no. 3 (Dec. 2004): 363-379. https://doi.org/10.1080/1360481042000313509 
 
 [^2]: To find out more about Marx’s use of metabolism, and the current fortune of this notion, check out this clear overview: http://www.rebelnews.ie/2020/10/20/marx-engels-metabolic-rift-part-one/. You can also read more in Andreas Malm’s piece on https://www.versobooks.com/blogs/3691-in-defence-of-metabolic-rift-theory, or in Hannah Landecker. “Postindustrial Metabolism: Fat Knowledge”. _Public Culture_ 25, no. 3 (Fall 2013): 495-522. https://doi.org/10.1215/08992363-2144625
 

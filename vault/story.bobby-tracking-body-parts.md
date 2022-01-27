@@ -5,7 +5,7 @@ desc: |-
   The little known scientific and collection history of the famous zoo
   gorilla is a story of individual body parts that connect various places and
   disciplines with some in part sensitive contexts.
-updated: 1643317989560
+updated: 1643323003255
 created: 1640338390195
 license: CC BY-SA
 title_de: “Bobby”. Eine Fundgeschichte
@@ -190,7 +190,7 @@ As the example of the Anatomical Collection at Charité shows, anatomical collec
 
 [^11]: I would like to thank Simon Nobis from the Max Planck Society Archive for his support.
 
-[^12]: The founding director of the Kaiser Wilhelm Institute for Anthropology, Eugen Fischer, wanted his approach, which he termed ‘anthropobiology’, to find genetic principles for the ‘phenotypical’ diversity of humans, i.e., for differences in skin, hair, and eye colour; and to connect anthropometric methods, i.e., the measuring of human bodies and skeletons, with questions and methods of ‘heredity’, that is, of human genetics. On Eugen Fischer and the institute’s problematic history see Carola Sachse and Benoit Massin. _Biowissenschaftliche Forschung an Kaiser-Wilhelm-Instituten und die Verbrechen des NS-Regimes: Informationen über den gegenwärtigen Wissensstand_. Berlin: Max-Planck-Gesellschaft, 2000; Hans Walter Schmuhl. _Grenzüberschreitungen: Das Kaiser-Wilhelm-Institut für Anthropologie, menschliche Erblehre und Eugenik, 1927-1945_. Göttingen: Wallstein, 2005. The Natural History Museum in Berlin received a replica of the brain (which we have not yet been able to locate).
+[^12]: The founding director of the Kaiser Wilhelm Institute for Anthropology, Eugen Fischer, wanted his approach, which he termed ‘anthropobiology’, to find genetic principles for the ‘phenotypical’ diversity of humans, i.e., for differences in skin, hair, and eye colour; and to connect anthropometric methods, i.e., the measuring of human bodies and skeletons, with questions and methods of ‘heredity’, that is, of human genetics. On Eugen Fischer and the institute’s problematic history, see Carola Sachse and Benoit Massin. _Biowissenschaftliche Forschung an Kaiser-Wilhelm-Instituten und die Verbrechen des NS-Regimes: Informationen über den gegenwärtigen Wissensstand_. Berlin: Max-Planck-Gesellschaft, 2000; Hans Walter Schmuhl. _Grenzüberschreitungen: Das Kaiser-Wilhelm-Institut für Anthropologie, menschliche Erblehre und Eugenik, 1927-1945_. Göttingen: Wallstein, 2005. The Natural History Museum in Berlin received a replica of the brain (which we have not yet been able to locate).
 
 [^13]: Cf. H.-W. Schmuhl. “Hirnforschung und Krankenmord: Das Kaiser-Wilhelm-Institut für Hirnforschung 1937-1945”. In _Forschungsprogramm “Geschichte der Kaiser-Wilhelm-Gesellschaft im Nationalsozialismus”_. Präsidentenkommission der Max-Planck-Gesellschaft (ed.), 2000, http://www.mpiwg-berlin.mpg.de/KWG/Ergebnisse/Ergebnisse1.pdf.
 

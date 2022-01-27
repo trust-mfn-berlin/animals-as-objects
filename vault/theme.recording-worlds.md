@@ -7,7 +7,7 @@ short_desc_de: Naturkundliche Verzeichnungspraktiken und ihre transformative Kra
 date_end: ""
 published: false
 title: Recording Worlds
-updated: 1643321253858
+updated: 1643323242440
 id: 4r0yES2CMXdwBI2l8fYbZ
 doi: 64y2-m311/68
 translators:
@@ -119,7 +119,7 @@ It further shows that practices of record-keeping in natural history collections
 
 [^7]: Many natural history museums therefore began writing their own manuals for collectors in the field, which contained precise instructions about how to write labels and waybills, for instance, by providing information about the collector, where the animal had been found, and on which date.
 
-[^8]: For discussions on the connection between the decolonisation of museum collections and data practices see Bénédicte Savoy. _Afrikas Kampf um seine Kunst: Geschichte einer postkolonialen Niederlage_. München: C.H. Beck 2021; Kelley Hays-Gilpin, Atsunori Ito, and Robert Breunig. “Decolonizing Museum Catalogs: Defining and Exploring the Problem”. _Trajectoria_ 1 (2020). http://doi.org/10.15021/00009509. For a Berlin example see https://www.smb.museum/en/research/research-projects/provenance-and-collections/. 
+[^8]: For discussions on the connection between the decolonisation of museum collections and data practices, see Bénédicte Savoy. _Afrikas Kampf um seine Kunst: Geschichte einer postkolonialen Niederlage_. München: C.H. Beck 2021; Kelley Hays-Gilpin, Atsunori Ito, and Robert Breunig. “Decolonizing Museum Catalogs: Defining and Exploring the Problem”. _Trajectoria_ 1 (2020). http://doi.org/10.15021/00009509. For a Berlin example, see https://www.smb.museum/en/research/research-projects/provenance-and-collections/. 
 
 
 

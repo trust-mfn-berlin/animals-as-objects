@@ -7,7 +7,7 @@ short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 date_end: 1935-01-01T10:48:28.706Z
 published: false
 title: Labels and Knowledge
-updated: 1643315732200
+updated: 1643322959227
 id: K2rQQdv1K7aDMUi5gDHcN
 doi: 64y2-m311/29
 translators:
@@ -72,7 +72,7 @@ They indicate that it was not just the odd animal being sent from the museum to 
 
 <figcaption>
 
-_Animal logistics on paper. The instructions on the labels reveal the paths that zoo animals took through a network of local institutions. (MfN, HBSB, S004-02-05 Nr. 96, Bl. 057 verso; MfN, HBSB, S004-02-05 Nr. 96, Bl. 140 recto. All rights reserved.) For translation see footnote.[^1]_
+_Animal logistics on paper. The instructions on the labels reveal the paths that zoo animals took through a network of local institutions. (MfN, HBSB, S004-02-05 Nr. 96, Bl. 057 verso; MfN, HBSB, S004-02-05 Nr. 96, Bl. 140 recto. All rights reserved.) For translation, see footnote.[^1]_
 
 </figcaption>
 
