@@ -5,7 +5,7 @@ desc: |-
   The little known scientific and collection history of the famous zoo
   gorilla is a story of individual body parts that connect various places and
   disciplines with some in part sensitive contexts.
-updated: 1643283963489
+updated: 1643286356571
 created: 1640338390195
 license: CC BY-SA
 title_de: “Bobby”. Eine Fundgeschichte
@@ -168,7 +168,7 @@ This text could only provide a cursory sketch of the use of techniques such as d
 
 As the example of the Anatomical Collection at Charité shows, anatomical collections may also contain zoological specimens, probably for the purpose of comparison. What role did the Anatomical Institute at Westend and the Kaiser Wilhelm Institute for Brain Research play in “Bobby’s” case? Did their research forge links between science, animal bodies, and societal ideas about ‘race’? In turn, casting techniques raise questions not least about the relationship between uniqueness and reproduction and, therefore, about the issue of authenticity. Death masks – probably the most well-known form of face casts – do not just produce images of life, but also make reference to live casts. Although they were already being used in antiquity, impressions of the living body made in wax and plaster were used above all in the mid-19th century for anthropological and ethnographic purposes in order to document racist and racializing measures. Britta Lange has shown how colonial exhibitions that had been held in the German-speaking world since the 1890s usually presented a series of ‘Rasseköpfe’ (‘racial’ heads), wax casts of the inhabitants of colonised territories. These racialised heads could also be found in anatomical and natural history museums in the second half of the 19th century, where they replaced or supplemented preserved head specimens.[^20] Where contexts apparent in 1930s Berlin? What can we still see today? With regard to animals, too, this raises questions about which parts were used for which purposes and at what cost. What is clear is that when dissection techniques turn one object into many, as in “Bobby’s” case, the contexts and potential crimes, too, are multiplied.
 
-[^1]: According to the necropsy report, the ape, who died on the afternoon of 1 August 1935, had already been taken to the refrigeration room of the Pathological Institute  of the Westend Hospital three hours after his death. The necropsy began the next day.
+[^1]: According to the necropsy report, the ape, who died on the afternoon of 1 August 1935, had already been taken to the refrigeration room of the Pathological Institute of the Westend Hospital three hours after his death. The necropsy began the next day.
 
 [^2]: The taxidermy of the animal was created by Berlin taxidermists Karl Kaestner (1895-1983) and Gerhard Schröder (1896-1945) in the same year. They used a new technique they developed. It involved partially replenishing sparsely haired body parts with paraffin wax. This allowed preservation of fine structures in face and hands and prevented shrinking during the drying process. The water contained in the cells is substituted by solid substances such as paraffin wax or polyethylene glycol. Information taken from: _Museum für Naturkunde Berlin_. https://www.museumfuernaturkunde.berlin/en/museum/exhibitions/masterpieces-taxidermy (17.12.2021).
 
