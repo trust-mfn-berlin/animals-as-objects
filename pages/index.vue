@@ -6,7 +6,7 @@
     <div class="spacer"></div>
     <section class="cascade">
       <p class="intro">
-        Learn more about the unexpected connections between some of Berlin’s most beloved animals as well as less charismatic and famous specimens by browsing through our <span class="theme tao_type">Themes</span>, <span class="story tao_type">Stories</span> and <span class="material tao_type">Materials</span>. <span class="mob-hidden">Themes are big-picture topics that bring together many stories, which in turn weave together anecdotes, practices, and materials – the specific things, documents, and moments that mark the transformations of animals into objects.</span>
+        Learn more about the unexpected connections between some of Berlin’s most beloved animals as well as less charismatic and famous specimens by browsing through our <span class="theme tao_type"><em>Themes</em></span>, <span class="story tao_type"><em>Stories</em></span> and <span class="material tao_type"><em>Materials</em></span>. <span class="mob-hidden"><em>Themes</em> are big-picture topics that bring together many <em>stories</em>, which in turn weave together anecdotes, practices, and <em>materials</em> – the specific things, documents, and moments that mark the transformations of animals into objects.</span>
       </p>
       <Cascade :articles="rngArticles" />
       <text-button linkto="/articles">View all articles</text-button>

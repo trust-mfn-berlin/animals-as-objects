@@ -20,7 +20,7 @@
     </section>
 
     <template v-if="siteLang == 'en' && article.toc">
-      <contents :toc="article.toc" label="Table of contents" />
+      <contents :toc="article.toc" label="Table of Contents" />
     </template>
     <template v-if="siteLang == 'de' && article.body_de.toc">
       <contents :toc="article.body_de.toc" label="Inhaltsverzeichnis" />
@@ -87,7 +87,7 @@ export default {
           de:'Lektor:in'
         },
         license:{
-          en:'Text License',
+          en:'Text license',
           de:'Textlizenz'
         },
         published:{
