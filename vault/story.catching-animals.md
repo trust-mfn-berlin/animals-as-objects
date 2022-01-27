@@ -7,7 +7,7 @@ short_desc_de: Habitate und Tierhandelsfirmen
 date_end: 1973-12-31T11:00:00.000Z
 published: false
 title: Catching Animals
-updated: 1642156933437
+updated: 1643285248161
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 doi: 64y2-m311/13
 translators:
@@ -78,7 +78,7 @@ No one knows how many animals died on the long sea voyages, how many were slaugh
 
 ## Colonialism as a Precondition
 
-The fact that these port sales and auctions were always full and that state gifts were on the rise had a lot to do with European colonial expansion. The exhibition of significant numbers of non-European wild animals in newly established zoos was inextricably linked to European expansion and imperialism. **Colonialism’s violent foundations and military infrastructures were necessary preconditions for the bargain purchases, the hunting of animals, their transportation to Europe, and their subsequent exhibition.** It was often the colonial officials themselves who hunted animals in order to give them as gifts. This is illustrated by the example of the lion that the governor of German East Africa, Hermann v. Wissmann, donated to Berlin Zoo in 1896.
+The fact that these port sales and auctions were always full and that state gifts were on the rise had a lot to do with European colonial expansion. The exhibition of significant numbers of non-European wild animals in newly established zoos was inextricably linked to European expansion and imperialism. **Colonialism’s violent foundations and military infrastructures were necessary preconditions for the bargain purchases, the hunting of animals, their transportation to Europe, and their subsequent exhibition.** It was often the colonial officials themselves who hunted animals in order to give them as gifts. This is illustrated by the example of the lion that the governor of German East Africa, Hermann v. Wissmann, donated to Berlin Zoo in 1896. (The colonised territory of ‘German East Africa’ comprised today’s Tanzania, Burundi, Rwanda as well as some parts of Mozambique.)
 
 <figure>
 
@@ -344,7 +344,7 @@ Die Anzahl der Tiere, die auf dem langen Seeweg [[starben|material.an-iguana-pre
 
 ## Kolonialismus als Voraussetzung
 
-Dass diese Verkaufsstellen in den Häfen und die Auktionen immer gefüllt waren und die Staatsgeschenke zunahmen, hing eng mit der europäischen kolonialen Expansion zusammen. Die Ausstellung nichteuropäischer Wildtiere in großer Zahl in den neugegründeten Zoos ist untrennbar mit dem Imperialismus verknüpft. **Die Gelegenheitskäufe, die Jagd nach Tieren, ihr Transport nach Europa und die anschließende Ausstellung beruhten auf den militärischen Infrastrukturen und gewaltsamen Bedingungen des Kolonialismus.** Oft jagten Kolonialbeamte selbst Tiere, um sie zu verschenken. Das wird am Beispiel des Löwen deutlich, den der Gouverneur von Deutsch-Ostafrika Hermann v. Wissmann 1896 dem Zoo Berlin schenkte.
+Dass diese Verkaufsstellen in den Häfen und die Auktionen immer gefüllt waren und die Staatsgeschenke zunahmen, hing eng mit der europäischen kolonialen Expansion zusammen. Die Ausstellung nichteuropäischer Wildtiere in großer Zahl in den neugegründeten Zoos ist untrennbar mit dem Imperialismus verknüpft. **Die Gelegenheitskäufe, die Jagd nach Tieren, ihr Transport nach Europa und die anschließende Ausstellung beruhten auf den militärischen Infrastrukturen und gewaltsamen Bedingungen des Kolonialismus.** Oft jagten Kolonialbeamte selbst Tiere, um sie zu verschenken. Das wird am Beispiel des Löwen deutlich, den der Gouverneur von Deutsch-Ostafrika Hermann v. Wissmann 1896 dem Zoo Berlin schenkte. (Das kolonisierte Territorium ‘Deutsch-Ostafrika’ umfasst die heutigen Länder Tansania, Burundi und Ruanda sowie Teile von Mosambik.)
 
 <figure>
 
