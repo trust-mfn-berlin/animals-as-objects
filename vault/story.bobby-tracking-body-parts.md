@@ -5,7 +5,7 @@ desc: |-
   The little known scientific and collection history of the famous zoo
   gorilla is a story of individual body parts that connect various places and
   disciplines with some in part sensitive contexts.
-updated: 1643317475422
+updated: 1643317989560
 created: 1640338390195
 license: CC BY-SA
 title_de: “Bobby”. Eine Fundgeschichte
@@ -37,7 +37,7 @@ feature: true
 
 <figcaption>
 
-_A photo of “Bobby” the gorilla’s carcass during his necropsy in 1935. (MfN, Historische Bild- und Schriftgutsammlungen [HBSB], ZM-B-IV-557-2-r. Image: W. Tank. All rights reserved.)_
+_A photo of “Bobby” the gorilla’s carcass during his necropsy in 1935. (MfN, Historische Bild- und Schriftgutsammlungen [HBSB], ZM-B-IV-557-2-r. Image: W. Tank/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -90,7 +90,7 @@ _The dead gorilla “Bobby” at Berlin Zoo with his keeper Karl Liebetreu. (AZG
 
 <figcaption>
 
-_“Bobby’s” skull and various bones are being kept in the Mammals Collection at the Museum für Naturkunde Berlin. (MfN. Images: Mareike Vennen. All rights reserved.)_
+_“Bobby’s” skull and various bones are being kept in the Mammals Collection at the Museum für Naturkunde Berlin. (Images: Mareike Vennen/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -120,7 +120,7 @@ Before the individual body parts were prepared and donated to other institutions
 
 <figcaption>
 
-_The casts of “Bobby’s” hand and foot made by Hans Virchow are still housed in the Anatomical Teaching Collection on the premises of the Charité University Hospital. (Image of the two hand casts and the two foot casts: Evelyn Heuckendorf/Charité. Charité, all rights reserved. Image of gorilla and human hand and image of gorilla foot in display case: Mareike Vennen. Charité, all rights reserved.)_
+_The casts of “Bobby’s” hand and foot made by Hans Virchow are still housed in the Anatomical Teaching Collection on the premises of the Charité University Hospital. (Image of the two hand casts and the two foot casts: Evelyn Heuckendorf/Charité. All rights reserved. Image of gorilla and human hand and image of gorilla foot in display case: Mareike Vennen/Charité. All rights reserved.)_
 
 </figcaption>
 
@@ -216,7 +216,7 @@ As the example of the Anatomical Collection at Charité shows, anatomical collec
 
 <figcaption>
 
-_Ein Foto vom Kadaver des Gorillas “Bobby” während der Sektion des Tieres im Jahr 1935. (MfN, Historische Bild- und Schriftgutsammlungen (HBSB), ZM-B-IV-557-2-r. Foto: W. Tank. Alle Rechte vorbehalten.)_
+_Ein Foto vom Kadaver des Gorillas “Bobby” während der Sektion des Tieres im Jahr 1935. (MfN, Historische Bild- und Schriftgutsammlungen (HBSB), ZM-B-IV-557-2-r. Foto: W. Tank/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -269,7 +269,7 @@ Die Obduktion des Gorillas “Bobby” diente in erster Linie dazu, die Todesurs
 
 <figcaption>
 
-_Der Schädel und diverse Knochen von “Bobby” werden in der Säugetiersammlung des Museums für Naturkunde Berlin aufbewahrt. (MfN. Foto: Mareike Vennen. Alle Rechte vorbehalten.)_
+_Der Schädel und diverse Knochen von “Bobby” werden in der Säugetiersammlung des Museums für Naturkunde Berlin aufbewahrt. (Foto: Mareike Vennen/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -299,7 +299,7 @@ Vor der Präparation einzelner Körperteile, die an unterschiedliche Institution
 
 <figcaption>
 
-_Die von Hans Virchow angefertigten Hand- und Fußabgüsse aus Gips befinden sich noch heute in der Anatomischen Lehrsammlung auf dem Charité-Gelände. (Fotos der beiden Hand- und der beiden Fußabgüsse: Evelyn Heuckendorf/Charité. Charité, alle Rechte vorbehalten. Foto von Gorilla- und Menschenhand und Foto des Gorilla-Fußes in der Vitrine: Mareike Vennen. Charité, alle Rechte vorbehalten.)_
+_Die von Hans Virchow angefertigten Hand- und Fußabgüsse aus Gips befinden sich noch heute in der Anatomischen Lehrsammlung auf dem Charité-Gelände. (Fotos der beiden Hand- und der beiden Fußabgüsse: Evelyn Heuckendorf/Charité. Alle Rechte vorbehalten. Foto von Gorilla- und Menschenhand und Foto des Gorilla-Fußes in der Vitrine: Mareike Vennen/Charité. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
