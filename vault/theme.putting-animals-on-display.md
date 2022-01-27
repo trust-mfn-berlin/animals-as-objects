@@ -9,7 +9,7 @@ desc: |-
   preceded by a taxonomically structured zoo that placed far more value on the
   completeness of its order than on the quality of the conditions in which
   animals were kept.
-updated: 1643305181844
+updated: 1643305832221
 created: 1618572893774
 license: CC BY-SA
 title_de: Tiere zur Schau stellen
@@ -252,7 +252,7 @@ At a time when visual media are making it possible to access the lives of wild a
 
 >“The only suitable central marker of identity for zoos is Hediger’s pillar of ‘recreation’. Because this parameter addresses human interests, zoos will remain what they have always been: entertainment facilities where wild animals – as the German Federal Conservation Act states rather dryly – are locked up ‘for the purpose of putting them on display’.”[^34]
 
-[^1]: For an introduction to the history of zookeeping, see Vernon N. Kisling. “Ancient Collections and Menageries”. In _Zoo and Aquarium History: Ancient Animal Collections to Zoological Gardens_, Vernon N. Kisling (ed.). Boca Raton: CRC Press, 2001: 1-47.
+[^1]: For an introduction to the history of zookeeping see Vernon N. Kisling. “Ancient Collections and Menageries”. In _Zoo and Aquarium History: Ancient Animal Collections to Zoological Gardens_, Vernon N. Kisling (ed.). Boca Raton: CRC Press, 2001: 1-47.
 
 [^2]: Elizabeth Hanson. _Animal Attractions: Nature on Display in American Zoos_. Princeton, N.J: Princeton University Press, 2002: 46; see also Wilfrid Blunt. _The Ark in the Park: The Zoo in the Nineteenth Century_. London: Hamish Hamilton, 1976: 25.
 
@@ -304,7 +304,7 @@ At a time when visual media are making it possible to access the lives of wild a
 
 [^26]: Meier, Jürg. _Handbuch Zoo: Moderne Tiergartenbiologie_. 1st ed. Bern: Haupt Verlag, 2009: 115-120.
 
-[^27]: Stefan Hübner. “‘Die afrikanischen Elefanten sind unser Flaggschiff’: Thomas Kauffels erzählt von der Geschichte des Opel-Zoos”. _Hessischer Rundfunk_, 03.02.2021. https://www.hr2.de/podcasts/doppelkopf/die-afrikanischen-elefanten-sind-unser-flaggschiff--thomas-kauffels-erzaehlt-von-der-geschichte-des-opel-zoos,podcast-episode-82032.html (16.08.2021). For a definition of flagship species, see Meier, 2009: 121.
+[^27]: Stefan Hübner. “‘Die afrikanischen Elefanten sind unser Flaggschiff’: Thomas Kauffels erzählt von der Geschichte des Opel-Zoos”. _Hessischer Rundfunk_, 03.02.2021. https://www.hr2.de/podcasts/doppelkopf/die-afrikanischen-elefanten-sind-unser-flaggschiff--thomas-kauffels-erzaehlt-von-der-geschichte-des-opel-zoos,podcast-episode-82032.html (16.08.2021). For a definition of flagship species see Meier, 2009: 121.
 
 [^28]: See for example Volker Sommer. “Ein Etikettenschwindel”. _Aus Politik und Zeitgeschichte_ 71, no. 9 (2021): 35-38; Bob Mullan and Garry Marvin. _Zoo Culture_, 2nd ed. Urbana, Chicago: University of Illinois Press, 1999; or Hilal Sezgin. _Artgerecht ist nur die Freiheit: Eine Ethik für Tiere oder warum wir umdenken müssen_. Munich: Verlag C.H. Beck, 2014.
 
