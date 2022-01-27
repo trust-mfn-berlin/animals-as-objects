@@ -2,7 +2,7 @@
 id: 2I4UEzZOAUqyavSEDIFs8
 title: An Iguana Preserved in Alcohol
 desc: From the colony via the zoo into the collection
-updated: 1642817443734
+updated: 1643317319722
 created: 1640357199143
 license: CC BY-SA
 title_de: Leguan in Weingeist
@@ -43,7 +43,7 @@ In fact, the botanist Schomburgk had spent nearly four years travelling through 
 However, just a few of them survived the two-month journey on board a trade ship. Back then, in order to [[transport live animals|theme.logistical-metabolisms]] over great distances, one had to accept heavy losses. There were many reasons for this: poor conditions on board, including food and accommodation; long travelling times; and a lack of knowledge on the part of those responsible for taking care of the animals on board – e.g. about the climatic requirements of the animals, their [[diet|story.feeding-and-overfeeding]] or adequate transportation. What to do with these dead animals, some of which were rare and valuable? Two electric eels that did not survive the ship’s passage were sent directly to Berlin’s Zoological Museum. The green iguana was luckier: he survived the journey and was put on [[display|theme.putting-animals-on-display]] with the other animals that arrived in Berlin alive (we are aware of nine animals) at the Zoological Garden. Like most animals, however, the iguana probably only survived one month at the zoo before it, too, made its way into the Zoological Museum’s collection – the zoo’s loss was the museum’s gain.[^1] Failed attempts to bring live animals to Europe or keep them alive in zoos in the mid-19th century thus helped to supply collections with new items. However, the animal is [[untraceable|story.untraceable]] in the collection so far. This may be related to the [[cataloging practices|story.keeping-records-of-animals]] of the time, or the specimen may have been disposed of or lost over time. The example of the iguana thus also highlights the difficulties of working with historical collection items and their [[records|theme.recording-worlds]].
 
 
-[^1]: Schomburgk arrived in England in early August 1844, from where he travelled to Berlin via Hamburg. According to Beyer, the dead iguana arrived at the museum on 11 September 1844. Cf. Richard Schomburgk. _Reisen in Britisch-Guiana in den Jahren 1840-1844_, vol. II. Leipzig: J. J. Weber, 1847–1848: 511-512.
+[^1]: Schomburgk arrived in England in early August 1844, from where he travelled to Berlin via Hamburg. According to Beyer, the dead iguana arrived at the museum on 11 September 1844. Cf. Richard Schomburgk. _Reisen in Britisch-Guiana in den Jahren 1840-1844_, vol. II. Leipzig: J. J. Weber, 1847-1848: 511-512.
 
  
 :::DE:::
