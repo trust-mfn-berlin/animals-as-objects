@@ -4,7 +4,8 @@ title_de: Über Mikroben und Planeten
 created: 1621522603135
 author: Filippo Bertoni
 short_desc_de: Mikroorganismen sind grundlegend und lebenswichtig für die
-  Dynamiken unseres Planeten
+  Dynamiken unseres Planeten.
+keywords: Komplexität
 date_end: 2022-12-14T14:34:55.503Z
 published: false
 title: Of Microbes and Planets
@@ -24,7 +25,7 @@ desc_de: Mikropaläontologische Meeresforschung trug maßgeblich dazu bei, die
   Bedeutung der Mikroorganismen für planetarische Dynamiken zu erkennen. Die
   Geschichte dieser Forschung und ihrer Theorien verdeutlicht die tiefen
   Verbindungen zwischen Mikroben und Planeten.
-short_desc: Microorganisms are fundamental and vital for the dynamics of our planet
+short_desc: Microorganisms are fundamental and vital for the dynamics of our planet.
 cover_image:
   image: /images/science-study-1976-copy.jpg
 colour_scheme: 1
