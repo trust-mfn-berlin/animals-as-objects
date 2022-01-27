@@ -2,7 +2,7 @@
 id: AOZiyuOX6B0ntAdEoiiIi
 title: Haunting Cattle
 desc: Audio stories about animals in Berlin
-updated: 1642424914154
+updated: 1643307750135
 created: 1640359539704
 license: CC BY-SA
 title_de: Spukendes Vieh
@@ -30,7 +30,7 @@ date_start: '1870-12-02T17:15:39.000Z'
 
 <figcaption>
 
-_The street signs still remind of the former abattoir in Berlin. (Image: Sophie-Marie Kaatsch. All rights reserved.)_
+_The street signs still remind of the former abattoir in Berlin. (Image: Sophie-Marie Kaatsch.)_
 
 </figcaption>
 
@@ -57,7 +57,7 @@ Other audio pieces tell the stories of [[material.where-the-rats-live]], [[mater
 
 <figcaption>
 
-_Die Straßenschilder erinnern noch an den ehemaligen Schlachthof. (Foto: Sophie-Marie Kaatsch. Alle Rechte vorbehalten.)_
+_Die Straßenschilder erinnern noch an den ehemaligen Schlachthof. (Foto: Sophie-Marie Kaatsch.)_
 
 </figcaption>
 
