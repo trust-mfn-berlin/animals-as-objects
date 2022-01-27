@@ -7,7 +7,7 @@ short_desc_de: Habitate und Tierhandelsfirmen
 date_end: 1973-12-31T11:00:00.000Z
 published: false
 title: Catching Animals
-updated: 1643291731043
+updated: 1643293577734
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 doi: 64y2-m311/13
 translators:
@@ -108,7 +108,7 @@ For Schillings, this finding called for German capital and commitment, since the
 
 It is important to keep in mind that in order to capture dangerous and herd mammals, trappers often killed other herd members and dams to safely obtain the sought-after young animals. These were much easier to catch and transport than adults. The above-quoted hunter and trapper Georg Schillings had caught a rhinoceros for Berlin Zoo and had shot the animal’s mother to do so. Killing a rhinoceros cow did not, however, guarantee success. As Schillings later related in a book he wrote, the young animals might still make good their escape under certain circumstances.[^10] The zoo purchased the rhinoceros by means of an additional budget of 20,000 Reichsmark approved by the supervisory board. However, according to the 1908 annual report, the animal died four years later of “sepsis following smallpox”.[^11]
 
-Transportation was a major risk for animal traders, as the animals could die or fall ill en route. **We do not have an accurate record of how many animal lost their lives, but it is reasonable to assume that, in the 19th century in particular, mortality was high.** Captured animals would initially have to be kept in cages, enclosures, snares, or chains until the expedition was completed or the desired number of animals had been collected. The subsequent hardships of a long journey sometimes led to the animal dying soon after arrival in the zoo itself. A report from Berlin Zoo to the Natural History Museum in Berlin detailing the delivery of [[animal carcasses|story.the-afterlife-of-zoo-animals]] demonstrates this.
+Transportation was a major risk for animal traders, as the animals could die or fall ill en route. **We do not have an accurate record of how many animal lost their lives, but it is reasonable to assume that, in the 19th century in particular, mortality was high.** Captured animals would initially have to be kept in cages, enclosures, snares, or chains until the expedition was completed or the desired number of animals had been collected. The subsequent hardships of a long journey sometimes led to the animal dying soon after arrival in the zoo itself. A report from Berlin Zoo to the Natural History Museum (Naturkundemuseum) in Berlin detailing the delivery of [[animal carcasses|story.the-afterlife-of-zoo-animals]] demonstrates this.
 
 <figure>
 
