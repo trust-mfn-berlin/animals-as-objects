@@ -7,7 +7,7 @@ short_desc_de: Software zur Koordination von Zootierhaltungen
 date_end: 2022-12-25T19:31:46.616Z
 published: false
 title: Species360
-updated: 1642449327255
+updated: 1643293932683
 id: 690683a5-6845-4c80-bb3b-5771881bdca6
 doi: 64y2-m311/21
 translators:
@@ -43,7 +43,7 @@ _Species360 consolidates the functions of ZIMS, the web-based Zoological Informa
 
 Thousands of animals around the world live in zoos that describe themselves as operating and being managed on a scientific basis. These zoos usually belong to one or more national and international zoo associations. Berlin’s zoos, for instance, are members of the Association of German Zoos (VdZ) and the European Association of Zoos and Aquaria (EAZA). There are also regional associations of zoos in Africa; North, Central, and South America; East and Southeast Asia; as well as the national zoo associations represented within them. These are brought together under the umbrella organisation of the World Association of Zoos and Aquariums (WAZA). **All of these zoos should cooperate within jointly planned conservation breeding programmes, which regulate exchange of animals among institutions.** For more on this, see [[theme.how-do-animals-end-up-in-the-zoo]].
 
-To be able to do this, zoos require large quantities of data concerning an animal’s origins and its life in captivity. What are the animal's antecedents? How old is the animal, and what is the state of its health? Curators and breeding coordinators use this information to decide which animals are allowed to mate with which, and which fit into breeding programmes. **Their [[aim|story.zoos-and-conservation]] is to maintain a genetically diverse zoo population, and to avoid inbreeding and hereditary diseases.** Nowadays, most zoos use software for this purpose. The beginnings of such breeding coordination were more modest, however.
+To be able to do this, zoos require large quantities of data concerning an animal’s origins and its life in captivity. What are the animal‘s antecedents? How old is the animal, and what is the state of its health? Curators and breeding coordinators use this information to decide which animals are allowed to mate with which, and which fit into breeding programmes. **Their [[aim|story.zoos-and-conservation]] is to maintain a genetically diverse zoo population, and to avoid inbreeding and hereditary diseases.** Nowadays, most zoos use software for this purpose. The beginnings of such breeding coordination were more modest, however.
 
 In 1974, a year after the signing of the Washington Convention on International Trade in Endangered Species of Wild Fauna and Flora, which significantly restricted the trade in wild animals, a non-governmental organisation called International Species Inventory System (ISIS) was founded. Its goal was to create a [[database|material.nsb-database]] of all wild animals in captivity, in order to help coordinate breeding programmes and maintain genetically diverse and healthy zoo populations.
 
@@ -59,7 +59,7 @@ The web-based Zoological Information Management System (ZIMS) has existed since 
 
 <figcaption>
 
-_Species360 bündelt die Funktionen von ZIMS, dem web-basierten Zoological Information Management System, für die Koordination von genetisch diversen Zootierzüchtungen. (Logo Species360. Alle Rechte vorbehalten.)_
+_Species360 bündelt die Funktionen von ZIMS, dem web-basierten Zoological Information Management System, für die Koordination von genetisch diversen Zootierzüchtungen. (Logo: Species360. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
