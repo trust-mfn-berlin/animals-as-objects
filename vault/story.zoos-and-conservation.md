@@ -2,7 +2,7 @@
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 title: Zoos and Conservation
 desc: Since only a relatively short time zoos intensify their conservation efforts.
-updated: 1643311245364
+updated: 1643311910325
 created: 1618994200982
 license: CC BY-SA
 title_de: Zoos und Artenschutz
@@ -218,7 +218,7 @@ _Bild auf der Website der World Association of Zoos and Aquariums. https://www.w
 
 </figure>
 
-Das Tier eignete sich in den Augen des Verbandes also als Botschafter für den Schutz seines Habitats und aller dort lebenden Spezies – so wie einst der Eisbär [[Knut|story.Knut]] als Botschafter für den Schutz seines arktischen Habitats galt.
+Das Tier eignete sich in den Augen des Verbandes also als Botschafter für den Schutz seines Habitats und aller dort lebenden Spezies – so wie einst der Eisbär [[“Knut”|story.Knut]] als Botschafter für den Schutz seines arktischen Habitats galt.
 
 [^1]: Heini Hediger schrieb 1965: “Tiere mit großem Schauwert sind […] solche, vor deren Gehege oder Käfig sich das Publikum am zahlreichsten und am ausdauerndsten ansammelt.” (Heini Hediger. _Mensch und Tier im Zoo: Tiergarten-Biologie_. Rüschlikon-Zürich: Albert Müller, 1965: 124) und zählte die Menschenaffen dazu. Auf Beobachtungen von Besucher:innen beruhend bestätigte dies Jürg Meier 2005. (Jürg Meier, _Handbuch Zoo: moderne Tiergartenbiologie_, Bern: Haupt Verlag, 2009: 11, 115-120.)
 
