@@ -1,23 +1,27 @@
 ---
-id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
+license: CC BY-SA
+title_de: "Mikrobielle Welten "
+created: 1618930984846
+author: Filippo Bertoni
+short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Welt.
+keywords: microorganism
+date_end: 2022-12-14T14:41:44.038Z
+published: false
 title: Microbial Worlds
+updated: 1643304888607
+id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
+doi: 64y2-m311/34
+translators:
+  translator_en_de: ""
+copy_editors:
+  copy_editor_en: ""
+  copy_editor_de: Jan-Peter Herrmann
 desc: |-
   The development of techniques for observing microscopic worlds shaped our
   knowledge of microbes. From their earliest observations in the 17th century to
   the latest explorations of the importance of microbes in infusing our planet
   with life, microorganisms emerge as a fundamental part of Earth’s history and
   dynamics.
-updated: 1643304888607
-created: 1618930984846
-license: CC BY-SA
-title_de: 'Mikrobielle Welten '
-author: Filippo Bertoni
-doi: 64y2-m311/34
-translators:
-  translator_en_de: ''
-copy_editors:
-  copy_editor_en: ''
-  copy_editor_de: Jan-Peter Herrmann
 desc_de: |-
   Unser Wissen über Mikroben beruht maßgeblich auf der Entwicklung
   technischer Hilfsmittel zur Sichtbarmachung ihres Mikrokosmos. Die so
@@ -26,15 +30,12 @@ desc_de: |-
   der Schaffung bzw. Erhaltung der Voraussetzungen für Leben auf unserem
   Planeten, vermittelt uns ein immer klareres Bild ihrer zentralen Bedeutung für
   vergangene und andauernde planetare Dynamiken.
-short_desc: Microorganisms keep transforming (our view of) the world
-short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Welt
+short_desc: Microorganisms keep transforming (our view of) the world.
 cover_image:
   image: /images/illustrated-london-news-conversazione_crop.jpg
 colour_scheme: 3
 tao_type: theme
-date_start: '1673-01-01T14:45:32.000Z'
-date_end: '2022-12-14T14:41:44.038Z'
-published: false
+date_start: 1673-01-01T14:45:32.000Z
 ---
 
 :::EN:::
