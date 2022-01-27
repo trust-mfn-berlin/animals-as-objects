@@ -2,7 +2,7 @@
 id: H40I2GIwYN6393S3tIUHI
 title: The ‘Gorilla Beast’
 desc: An example of colonial iconography
-updated: 1643309936291
+updated: 1643310341832
 created: 1640365282699
 license: CC BY-SA
 title_de: Die ‘Bestie Gorilla’
@@ -143,7 +143,7 @@ _Bei Friedländer in Hamburg gedrucktes Plakat für die Deutsch-Koloniale Jagdau
 
 </figure>
 
-Damit wurde die Trophäen-Ikonografie des Gorillas als Bestie fortgeschrieben, die zugleich als Legitimation zur Tötung der Tiere wie im übertragenen Sinne auch zur Unterwerfung der als “wild” deklarierten Menschen in den Kolonien diente. Sie ließ sich in verschiedene Medien – Gemälde, Plakate, Dermoplastiken und später Filme wie “King Kong und die weiße Frau” (1933) – übersetzen und mit leichten inhaltlichen Varianzen versehen. Während das stereotype Bild des größten Menschenaffen als Bestie bis in die Gegenwart überlebt hat, ist die historische Verstrickung mit kolonialen Machtfantasien und Ausstellungskontexten heute weitgehend aus dem auch Blick geraten.
+Damit wurde die Trophäen-Ikonografie des Gorillas als Bestie fortgeschrieben, die zugleich als Legitimation zur Tötung der Tiere wie im übertragenen Sinne auch zur Unterwerfung der als “wild” deklarierten Menschen in den Kolonien diente. Sie ließ sich in verschiedene Medien – Gemälde, Plakate, Dermoplastiken und später Filme wie _King Kong und die weiße Frau_ (1933) – übersetzen und mit leichten inhaltlichen Varianzen versehen. Während das stereotype Bild des größten Menschenaffen als Bestie bis in die Gegenwart überlebt hat, ist die historische Verstrickung mit kolonialen Machtfantasien und Ausstellungskontexten heute weitgehend aus dem auch Blick geraten.
 
 [^1]: “Deutsch-Koloniale Jagdausstellung in Karlsruhe”. _Deutsche Kolonial-Zeitung_ 20, Nr. 29 (1903): 291.
 
