@@ -9,7 +9,7 @@ desc: |-
   preceded by a taxonomically structured zoo that placed far more value on the
   completeness of its order than on the quality of the conditions in which
   animals were kept.
-updated: 1643295433445
+updated: 1643305832221
 created: 1618572893774
 license: CC BY-SA
 title_de: Tiere zur Schau stellen
@@ -66,7 +66,7 @@ The legislature thus distinguishes zoos from circuses and pet shops while simult
 
 In premodern times and up into the period of absolutism, the main reason for keeping wildlife was to privately entertain rulers or to [[flaunt their power|material.the-german-colonial-hunting-exhibition]].[^1] Conversely, the zoos founded over the course of the 19th century, claimed that they were serving other purposes. The Bronx Zoo was intended to serve as a breeding facility for endangered American animals and London Zoo as a site of [[scientific research|story.classifying-cycladophora]].[^2]
 
-Martin Hinrich Lichtenstein was the founding director of Berlin’s zoo, the oldest in Germany, as well as director of the Zoological Museum and Professor of Zoology at Berlin University. Lichtenstein applied to the Prussian King Frederick William IV to establish an “institution” (Anstalt) that would be tasked with “breeding and proliferating beautiful and useful animals, [and] refining our [[domestic animals|material.lions-or-cows]]”.
+Martin Hinrich Lichtenstein was the founding director of Berlin’s Zoo, the oldest in Germany, as well as director of the Zoological Museum and Professor of Zoology at the Friedrich-Wilhelms-Universität zu Berlin. Lichtenstein applied to the Prussian King Frederick William IV to establish an “institution” (Anstalt) that would be tasked with “breeding and proliferating beautiful and useful animals, [and] refining our [[domestic animals|material.lions-or-cows]]”.
 
 >“Satisfying the inquisitiveness and curiosity of the people \[…] would thus be merely a secondary purpose, but not an insignificant one, because it is precisely by fulfilling this purpose that it will be possible to ensure its permanent existence in and through itself.”[^3]
 
@@ -186,7 +186,7 @@ In 2019, the zoo school carried out 2,997 guided tours with over 34,700 visitors
 
 ## Research – but for which Habitat?
 
-In the early decades of most of the zoos founded in the second half of the 18th century, the focus – at least in the eyes of zoo management – was on the scientific value of animal collections. **Zoos were places where it was possible to [[classify|material.of-disappearance-and-rediscovery]] and draw up [[inventories|story.inventory-books]] of the animal world, where it was possible not just to show the world’s fauna but also to comprehend it for the first time.** Animals from all over the world were being kept for the first time at Berlin Zoo and, after their deaths, were described as species for the first time by the Natural History Museum.[^17] Museum curator Paul Matschie, for example, described the East African civet by comparing a zoo animal with a museum taxidermy. The [[last specimens|story.stellers-sea-cow]] of the quagga, the thylacine, and the Schomburgk’s deer living at the zoo became type specimens at the Natural History Museum.[^18]
+In the early decades of most of the zoos founded in the second half of the 18th century, the focus – at least in the eyes of zoo management – was on the scientific value of animal collections. **Zoos were places where it was possible to [[classify|material.of-disappearance-and-rediscovery]] and draw up [[inventories|story.inventory-books]] of the animal world, where it was possible not just to show the world’s fauna but also to comprehend it for the first time.** Animals from all over the world were being kept for the first time at Berlin Zoo and, after their deaths, were described as species for the first time by the Natural History Museum (Naturkundemuseum).[^17] Museum curator Paul Matschie, for example, described the East African civet by comparing a zoo animal with a museum taxidermy. The [[last specimens|story.stellers-sea-cow]] of the quagga, the thylacine, and the Schomburgk’s deer living at the zoo became type specimens at the Natural History Museum.[^18]
 
 <figure>
 
@@ -194,7 +194,7 @@ In the early decades of most of the zoos founded in the second half of the 18th 
 
 <figcaption>
 
-_Quagga skull at the Museum of Natural History Berlin, 2020. (Image: Clemens Maier-Wolthausen/MfN. All rights reserved.)_
+_Quagga skull at the Museum für Naturkunde Berlin, 2020. (Image: Clemens Maier-Wolthausen/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -252,7 +252,7 @@ At a time when visual media are making it possible to access the lives of wild a
 
 >“The only suitable central marker of identity for zoos is Hediger’s pillar of ‘recreation’. Because this parameter addresses human interests, zoos will remain what they have always been: entertainment facilities where wild animals – as the German Federal Conservation Act states rather dryly – are locked up ‘for the purpose of putting them on display’.”[^34]
 
-[^1]: For an introduction to the history of zookeeping, see Vernon N. Kisling. “Ancient Collections and Menageries”. In _Zoo and Aquarium History: Ancient Animal Collections to Zoological Gardens_, Vernon N. Kisling (ed.). Boca Raton: CRC Press, 2001: 1-47.
+[^1]: For an introduction to the history of zookeeping see Vernon N. Kisling. “Ancient Collections and Menageries”. In _Zoo and Aquarium History: Ancient Animal Collections to Zoological Gardens_, Vernon N. Kisling (ed.). Boca Raton: CRC Press, 2001: 1-47.
 
 [^2]: Elizabeth Hanson. _Animal Attractions: Nature on Display in American Zoos_. Princeton, N.J: Princeton University Press, 2002: 46; see also Wilfrid Blunt. _The Ark in the Park: The Zoo in the Nineteenth Century_. London: Hamish Hamilton, 1976: 25.
 
@@ -304,7 +304,7 @@ At a time when visual media are making it possible to access the lives of wild a
 
 [^26]: Meier, Jürg. _Handbuch Zoo: Moderne Tiergartenbiologie_. 1st ed. Bern: Haupt Verlag, 2009: 115-120.
 
-[^27]: Stefan Hübner. “‘Die afrikanischen Elefanten sind unser Flaggschiff’: Thomas Kauffels erzählt von der Geschichte des Opel-Zoos”. _Hessischer Rundfunk_, 03.02.2021. https://www.hr2.de/podcasts/doppelkopf/die-afrikanischen-elefanten-sind-unser-flaggschiff--thomas-kauffels-erzaehlt-von-der-geschichte-des-opel-zoos,podcast-episode-82032.html (16.08.2021). For a definition of flagship species, see Meier, 2009: 121.
+[^27]: Stefan Hübner. “‘Die afrikanischen Elefanten sind unser Flaggschiff’: Thomas Kauffels erzählt von der Geschichte des Opel-Zoos”. _Hessischer Rundfunk_, 03.02.2021. https://www.hr2.de/podcasts/doppelkopf/die-afrikanischen-elefanten-sind-unser-flaggschiff--thomas-kauffels-erzaehlt-von-der-geschichte-des-opel-zoos,podcast-episode-82032.html (16.08.2021). For a definition of flagship species see Meier, 2009: 121.
 
 [^28]: See for example Volker Sommer. “Ein Etikettenschwindel”. _Aus Politik und Zeitgeschichte_ 71, no. 9 (2021): 35-38; Bob Mullan and Garry Marvin. _Zoo Culture_, 2nd ed. Urbana, Chicago: University of Illinois Press, 1999; or Hilal Sezgin. _Artgerecht ist nur die Freiheit: Eine Ethik für Tiere oder warum wir umdenken müssen_. Munich: Verlag C.H. Beck, 2014.
 
@@ -400,7 +400,7 @@ _Ankündigung des Opern-Balls in der Zoo-Restauration, 1914. (AZGB. Alle Rechte 
 
 </figure>
 
-**Sehen und gesehen werden wurde auf Seiten des Publikums ebenso zu einem Ziel des Zoobesuchs wie die [[Beobachtung von Tieren|material.microscopic-media]] und die Aneignung naturkundlichen Wissens.** Auf den zentralen Wegeachsen zwischen dem Elefantentor und dem Eingang am Bahnhof Zoologischer Garten konnten sich die bürgerlichen Zooaktionär:innen, das Bildungsbürgertum und die Klasse der Beamten des preußischen Staates ihren Status und ihre Netzwerke durch einen Zoobesuch festigen. **Für die Arbeiter:innen aus den Vorstädten im Osten Berlins wurden kurz nach der Gründung sogenannte “Billige Sonntage” eingeführt, an denen der Eintrittspreis um die Hälfte reduziert war.** Laut zeitgenössischen Zeitungsberichten war der Zoo an diesen Tagen voll und das weniger betuchte Publikum labte sich an den preiswerteren gastronomischen Einrichtungen mit Bier statt Champagner und Brezeln statt Kaviar.[^10] Das Ziel aller dieser Besucher:innen war Erholung, der Schritt aus dem Alltag heraus in eine andere Welt.
+**Sehen und gesehen werden wurde auf Seiten des Publikums ebenso zu einem Ziel des Zoobesuchs wie die [[Beobachtung von Tieren|material.microscopic-media]] und die Aneignung naturkundlichen Wissens.** Auf den zentralen Wegeachsen zwischen dem Elefantentor und dem Eingang am Bahnhof Zoologischer Garten konnten sich die bürgerlichen Zooaktionär:innen, das Bildungsbürgertum und die Klasse der Beamten des preußischen Staates ihren Status und ihre Netzwerke durch einen Zoobesuch festigen. **Für die Arbeiter:innen aus den Vorstädten im Osten Berlins wurden kurz nach der Gründung sogenannte ‘Billige Sonntage’ eingeführt, an denen der Eintrittspreis um die Hälfte reduziert war.** Laut zeitgenössischen Zeitungsberichten war der Zoo an diesen Tagen voll und das weniger betuchte Publikum labte sich an den preiswerteren gastronomischen Einrichtungen mit Bier statt Champagner und Brezeln statt Kaviar.[^10] Das Ziel aller dieser Besucher:innen war Erholung, der Schritt aus dem Alltag heraus in eine andere Welt.
 
 <figure>
 
@@ -408,7 +408,7 @@ _Ankündigung des Opern-Balls in der Zoo-Restauration, 1914. (AZGB. Alle Rechte 
 
 <figcaption>
 
-_Artikel zum “Billigen Sonntag” im Zoo Berlin in der_ Berliner Illustrierten Zeitung _Nr. 38 aus dem Jahr 1929._
+_Artikel zum ‘Billigen Sonntag’ im Zoo Berlin in der_ Berliner Illustrierten Zeitung _Nr. 38 aus dem Jahr 1929._
 
 </figcaption>
 
@@ -477,7 +477,7 @@ In den Anfangsjahrzehnten der meisten in der zweiten Hälfte des 18. Jahrhundert
 
 <figcaption>
 
-_Schädel eines Quaggas im Museum für Naturkunde, 2020. (Foto: Clemens Maier-Wolthausen/MfN. Alle Rechte vorbehalten.)_
+_Schädel eines Quaggas im Museum für Naturkunde Berlin, 2020. (Foto: Clemens Maier-Wolthausen/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -529,7 +529,7 @@ Die Europäische Gemeinschaft hat 1999 eine Zoo-Richtlinie beschlossen.[^29] Sig
 
 ## Tiere zeigen – Kontinuitäten und Verschiebungen
 
-Das Zurschaustellen von Tieren ist nach wie vor die [[Existenzgrundlage|material.lions-or-cows]] eines jeden Tiergartens weltweit. Wie unter anderem am Beispiel der Berliner Zoos zu sehen ist, schwankten und verschoben sich aber die Gründe und Begründungen für dieses Zeigen von Tieren. Unterschiedlichste Aspekte standen im Zentrum des Interesses der Gäste, aber auch der Zooleitungen oder der Unternehmenskommunikation. **Der Grund hierfür waren unterschiedliche Funktionen, die das Zurschaustellen von Tieren zu unterschiedlichen Zeiten angenommen hat.** Auch stimmten die Vorstellungen von Zooleitungen und Besuchenden, warum Tiere gezeigt werden sollten, oft nicht überein. Letztere forderten den “Unterhaltungsaspekt” als zumindest gleichwertig mit anderen Zwecken ein. Die Berliner Zooleitung favorisierte sicher anfänglich andere Zwecke, war aber eine Aktiengesellschaft und daher gezwungen, diesem Wunsch nachzukommen.[^33]
+Das Zurschaustellen von Tieren ist nach wie vor die [[Existenzgrundlage|material.lions-or-cows]] eines jeden Tiergartens weltweit. Wie unter anderem am Beispiel der Berliner Zoos zu sehen ist, schwankten und verschoben sich aber die Gründe und Begründungen für dieses Zeigen von Tieren. Unterschiedlichste Aspekte standen im Zentrum des Interesses der Gäste, aber auch der Zooleitungen oder der Unternehmenskommunikation. **Der Grund hierfür waren unterschiedliche Funktionen, die das Zurschaustellen von Tieren zu unterschiedlichen Zeiten angenommen hat.** Auch stimmten die Vorstellungen von Zooleitungen und Besuchenden, warum Tiere gezeigt werden sollten, oft nicht überein. Letztere forderten den ‘Unterhaltungsaspekt’ als zumindest gleichwertig mit anderen Zwecken ein. Die Berliner Zooleitung favorisierte sicher anfänglich andere Zwecke, war aber eine Aktiengesellschaft und daher gezwungen, diesem Wunsch nachzukommen.[^33]
 
 In einer Zeit, in der visuelle Medien den Zugang zum Leben wildlebender Tiere in bislang nie gesehenem Maße ermöglichen, aber auch stets auf deren Gefährdung hinweisen, stellt sich immer noch oder wieder die Frage nach dem Zweck der Zurschaustellung lebender Tiere. Dabei ist der Diskurs in den Medien häufiger zookritischer als es die nach wie vor hohen Besuchszahlen der deutschen Zoos vermuten lassen. Im Jahr 2019 besuchten insgesamt etwa fünf Millionen Menschen die Berliner Zoologischen Gärten – bisheriger Besucher:innenrekord – was von der anhaltenden Popularität der Einrichtung Zoo zeugt. Dabei gibt es sicherlich einen Zusammenhang mit einer geänderten Kommunikation der Tiergärten über ihre Ziele und Aufgaben und der Betonung des Arten- und Habitatschutzes. Dieser scheint zurzeit den Bedürfnissen der Besucher:innen und der Zoos nach Legitimität entgegenzukommen. Wie diese Aufgabe durch die Zurschaustellung von Tieren erfüllt werden kann, müssen Zoologische Gärten aber immer wieder neu verhandeln. Tun sie das nicht, bekommen Kritiker:innen wie der Anthropologe Volker Sommer Recht:
 
