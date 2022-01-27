@@ -7,7 +7,7 @@ short_desc_de: Habitate und Tierhandelsfirmen
 date_end: 1973-12-31T11:00:00.000Z
 published: false
 title: Catching Animals
-updated: 1643285248161
+updated: 1643285711487
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 doi: 64y2-m311/13
 translators:
@@ -344,7 +344,7 @@ Die Anzahl der Tiere, die auf dem langen Seeweg [[starben|material.an-iguana-pre
 
 ## Kolonialismus als Voraussetzung
 
-Dass diese Verkaufsstellen in den Häfen und die Auktionen immer gefüllt waren und die Staatsgeschenke zunahmen, hing eng mit der europäischen kolonialen Expansion zusammen. Die Ausstellung nichteuropäischer Wildtiere in großer Zahl in den neugegründeten Zoos ist untrennbar mit dem Imperialismus verknüpft. **Die Gelegenheitskäufe, die Jagd nach Tieren, ihr Transport nach Europa und die anschließende Ausstellung beruhten auf den militärischen Infrastrukturen und gewaltsamen Bedingungen des Kolonialismus.** Oft jagten Kolonialbeamte selbst Tiere, um sie zu verschenken. Das wird am Beispiel des Löwen deutlich, den der Gouverneur von Deutsch-Ostafrika Hermann v. Wissmann 1896 dem Zoo Berlin schenkte. (Das kolonisierte Territorium ‘Deutsch-Ostafrika’ umfasst die heutigen Länder Tansania, Burundi und Ruanda sowie Teile von Mosambik.)
+Dass diese Verkaufsstellen in den Häfen und die Auktionen immer gefüllt waren und die Staatsgeschenke zunahmen, hing eng mit der europäischen kolonialen Expansion zusammen. Die Ausstellung nichteuropäischer Wildtiere in großer Zahl in den neugegründeten Zoos ist untrennbar mit dem Imperialismus verknüpft. **Die Gelegenheitskäufe, die Jagd nach Tieren, ihr Transport nach Europa und die anschließende Ausstellung beruhten auf den militärischen Infrastrukturen und gewaltsamen Bedingungen des Kolonialismus.** Oft jagten Kolonialbeamte selbst Tiere, um sie zu verschenken. Das wird am Beispiel des Löwen deutlich, den der Gouverneur von Deutsch-Ostafrika Hermann v. Wissmann 1896 dem Zoo Berlin schenkte. (Das kolonisierte Territorium ‘Deutsch-Ostafrika’ umfasste die heutigen Länder Tansania, Burundi und Ruanda sowie Teile von Mosambik.)
 
 <figure>
 

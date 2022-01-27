@@ -7,7 +7,7 @@ short_desc_de: Propagandainstrument und Zwangsarbeit
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: The Zoo and National Socialism
-updated: 1643285169818
+updated: 1643285703959
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 doi: 64y2-m311/12
 translators:
@@ -734,7 +734,7 @@ Zwar sind Zoos auch in anderen Regimen und Gesellschaftsformen anschlussfähig �
 
 [^14]: “Der Urwald ruft: Kolonialkunst-Ausstellung im Zoologischen Garten”. *Berliner Lokalanzeiger*, 06.04.1933.
 
-[^15]: Das kolonisierte Territorium ‘Deutsch-Ostafrika’ umfasst die heutigen Länder Tansania, Burundi und Ruanda sowie Teile von Mosambik.
+[^15]: Das kolonisierte Territorium ‘Deutsch-Ostafrika’ umfasste die heutigen Länder Tansania, Burundi und Ruanda sowie Teile von Mosambik.
 
 [^16]: Pressemitteilung 29.06.1934, AZGB O 0/1/15; “Sensation im Affenpalmenhaus”. *Völkischer Beobachter*, 13.06.1937.
 
