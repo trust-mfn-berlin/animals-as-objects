@@ -7,7 +7,7 @@ desc: |-
   biological taxonomy was neither stable nor universal, controversies frequently
   emerged. Classifications continue to change even today – yet they have lasting
   impacts on our world.
-updated: 1643293679147
+updated: 1643293966912
 created: 1618491191119
 license: CC BY-SA
 title_de: Taxonomische Ordnungen
