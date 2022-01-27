@@ -1,23 +1,27 @@
 ---
-id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
+license: CC BY-SA
+title_de: "Mikrobielle Welten "
+created: 1618930984846
+author: Filippo Bertoni
+short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Welt.
+keywords: microorganism
+date_end: 2022-12-14T14:41:44.038Z
+published: false
 title: Microbial Worlds
+updated: 1643304888607
+id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
+doi: 64y2-m311/34
+translators:
+  translator_en_de: ""
+copy_editors:
+  copy_editor_en: ""
+  copy_editor_de: Jan-Peter Herrmann
 desc: |-
   The development of techniques for observing microscopic worlds shaped our
   knowledge of microbes. From their earliest observations in the 17th century to
   the latest explorations of the importance of microbes in infusing our planet
   with life, microorganisms emerge as a fundamental part of Earth’s history and
   dynamics.
-updated: 1643219776079
-created: 1618930984846
-license: CC BY-SA
-title_de: 'Mikrobielle Welten '
-author: Filippo Bertoni
-doi: 64y2-m311/34
-translators:
-  translator_en_de: ''
-copy_editors:
-  copy_editor_en: ''
-  copy_editor_de: Jan-Peter Herrmann
 desc_de: |-
   Unser Wissen über Mikroben beruht maßgeblich auf der Entwicklung
   technischer Hilfsmittel zur Sichtbarmachung ihres Mikrokosmos. Die so
@@ -26,15 +30,12 @@ desc_de: |-
   der Schaffung bzw. Erhaltung der Voraussetzungen für Leben auf unserem
   Planeten, vermittelt uns ein immer klareres Bild ihrer zentralen Bedeutung für
   vergangene und andauernde planetare Dynamiken.
-short_desc: Microorganisms keep transforming (our view of) the world
-short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Welt
+short_desc: Microorganisms keep transforming (our view of) the world.
 cover_image:
   image: /images/illustrated-london-news-conversazione_crop.jpg
 colour_scheme: 3
 tao_type: theme
-date_start: '1673-01-01T14:45:32.000Z'
-date_end: '2022-12-14T14:41:44.038Z'
-published: false
+date_start: 1673-01-01T14:45:32.000Z
 ---
 
 :::EN:::
@@ -61,7 +62,7 @@ By the second half of the 20th century the ever-increasing resolution and interc
 
 <figcaption>
 
-_Engraving of mould, and magnified view of the surface of a rose-leaf; Schem. 12. From_ Micrographia: or Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses with Observations and Inquiries Thereupon _by Robert Hooke, Fellow of the Royal Society, 1665. (Wellcome Collection. CC BY.)_
+_Engraving of mould, and magnified view of the surface of a rose-leaf; Schem. 12. From_ Micrographia: or Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses with Observations and Inquiries Thereupon _by Robert Hooke, Fellow of the Royal Society, 1665. (Wellcome Collection. [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/))_
 
 </figcaption>
 
@@ -77,7 +78,7 @@ Before the 19th century, the observation of microorganisms was carried out by in
 
 <figcaption>
 
-_“Monster Soup commonly called Thames Water”. Coloured etching by W. Heath, 1828. (Wellcome Collection. CC BY-NC.)_
+_“Monster Soup commonly called Thames Water”. Coloured etching by W. Heath, 1828. (Wellcome Collection. [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/))_
 
 </figcaption>
 
@@ -113,7 +114,7 @@ _How_ we see microbial life also transforms _what_ we see. The emergence of micr
 
 <figcaption>
 
-_”A Drop of Ocean” shows the complex micro-level physicochemical interactions of microbes. (Stocker lab.) [^20]_
+_”A Drop of Ocean” shows the complex micro-level physicochemical interactions of microbes. (Stocker lab.)[^20]_
 
 </figcaption>
 
@@ -183,7 +184,7 @@ Die stetig verbesserte Auflösung verfügbarer Mikroskope und ein immer größer
 
 <figcaption>
 
-_Kupferstich eines Schimmelpilzes, und vergrößerte Ansicht der Oberfläche eines Rosenblattes; Tafel 12. Aus_ Micrographia: or some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses with Observations and Inquiries Thereupon _[Micrographia: oder Einige physiologische Beschreibungen von winzigen Körpern, die mit Lupe hergestellt wurden, mit  Beobachtungen und Untersuchungen dazu] Robert Hooke, Mitglied der Royal Society, 1665. (Wellcome Collection. CC BY.)_
+_Kupferstich eines Schimmelpilzes, und vergrößerte Ansicht der Oberfläche eines Rosenblattes; Tafel 12. Aus_ Micrographia: or some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses with Observations and Inquiries Thereupon _[Micrographia: oder Einige physiologische Beschreibungen von winzigen Körpern, die mit Lupe hergestellt wurden, mit  Beobachtungen und Untersuchungen dazu] Robert Hooke, Mitglied der Royal Society, 1665. (Wellcome Collection. [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/))_
 
 </figcaption>
 
@@ -199,7 +200,7 @@ Vor dem 19. Jahrhundert waren es wissbegierige Naturforscher:innen und Universal
 
 <figcaption>
 
-_“Monster Soup commonly called Thames Water”. Farbradierung von W. Heath, 1828. (Wellcome Collection. CC BY-NC.)_
+_“Monster Soup commonly called Thames Water”. Farbradierung von W. Heath, 1828. (Wellcome Collection. [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/))_
 
 </figcaption>
 
@@ -235,7 +236,7 @@ Mit der Art und Weise, _wie_ wir mikrobielles Leben betrachten, verändert sich 
 
 <figcaption>
 
-_”A Drop of Ocean” zeigt die komplexen physikalisch-chemischen Interaktionen zwischen Mikroben auf der Mikroebene. (Stocker lab.) [^20]_
+_”A Drop of Ocean” zeigt die komplexen physikalisch-chemischen Interaktionen zwischen Mikroben auf der Mikroebene. (Stocker lab.)[^20]_
 
 </figcaption>
 
