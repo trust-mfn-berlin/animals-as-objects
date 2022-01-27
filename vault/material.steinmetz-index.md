@@ -7,7 +7,7 @@ short_desc_de: Tiere im Besitz des Berliner Zoos 1920-1945
 date_end: 1945-12-31T11:00:00.000Z
 published: false
 title: The Steinmetz Index
-updated: 1642161866029
+updated: 1643296359545
 id: 2a309087-f165-4def-9c60-d835c7218077
 doi: 64y2-m311/17
 translators:
@@ -47,7 +47,7 @@ Notably, the recorded departures indicate that individual animals were exchanged
 
 This index was probably created by the zoologist Hermann Steinmetz (1898-1954), who worked as a senior assistant at Berlin Zoo in the 1930s. In the last days of the liberation of Berlin, he fled the city with zoo director [[Lutz Heck|story.the-zoo-and-national-socialism]]. Steinmetz was the first director of the Ruhr Zoo in Gelsenkirchen from 1948 onwards.
 
-During his time at Berlin Zoo, Steinmetz kept this [[index|material.house-of-cards]], which zoo staff subsequently dubbed the Steinmetz Index. The index sometimes contains more detailed information on individual animals than the annual zoo inventory kept in the [[Journale|material.journale-the-zoo-directory]] since the 1880s, for example on the reasons for an animal’s departure, whether through exchange, sale, or death, and whether a new arrival was in the form of a gift, purchase, or birth.
+During his time at Berlin Zoo, Steinmetz kept this [[index|material.house-of-cards]], which zoo staff subsequently dubbed the Steinmetz Index. The index sometimes contains more detailed information on individual animals than the annual zoo inventory kept in the [[‘Journale’|material.journale-the-zoo-directory]] since the 1880s, for example on the reasons for an animal’s departure, whether through exchange, sale, or death, and whether a new arrival was in the form of a gift, purchase, or birth. Both the Steinmetz Index and the ‘Journale’ were for internal use at the zoo only, while other media such as the journal [[material.der-zoologische-garten-journal]] published zoological and veterinary articles. 
 
 **Because individual cards consolidate information spanning several years, the index provides zoologists at the zoo and external researchers with a real advantage, as it makes it possible to trace how long each individual animal had been kept at the zoo and its lifespan.** The card index was not maintained after Hermann Steinmetz left, and thus represents only a snippet of Berlin Zoo’s 175-year history.
 
@@ -73,7 +73,7 @@ Bei den Abgängen fällt auf, dass einzelne Tiere mit anderen Zoos getauscht wur
 
 Der Urheber dieser Kartei war wahrscheinlich der Zoologe Hermann Steinmetz (1898-1954), der in den 1930er Jahren als Oberassistent im Berliner Zoo arbeitete. Gemeinsam mit Zoodirektor [[Lutz Heck|story.the-zoo-and-national-socialism]] floh er in den letzten Tagen der Befreiung von Berlin aus der Stadt. Ab 1948 war Steinmetz der erste Direktor des Ruhr-Zoos in Gelsenkirchen.
 
-Während seiner Zeit im Berliner Zoo führte er diese [[Zettelkartei|material.house-of-cards]], die anschließend zoointern die Steinmetz-Kartei genannt wurde. In dieser finden sich manchmal ausführlichere Angaben zu den einzelnen Tieren, den Abgängen durch Tausch, Verkauf oder Tod und zu den Zugängen durch Geschenke, Käufe oder Geburten als in den seit den 1880er Jahren geführten [[Journalen|material.journale-the-zoo-directory]], der jährlichen Zooinventur.
+Während seiner Zeit im Berliner Zoo führte er diese [[Zettelkartei|material.house-of-cards]], die anschließend zoointern die Steinmetz-Kartei genannt wurde. In dieser finden sich manchmal ausführlichere Angaben zu den einzelnen Tieren, den Abgängen durch Tausch, Verkauf oder Tod und zu den Zugängen durch Geschenke, Käufe oder Geburten als in den seit den 1880er Jahren geführten [[Journalen|material.journale-the-zoo-directory]], der jährlichen Zooinventur. Beides, die Kartei und die Journale, waren für den internen Gebrauch im Zoo gedacht, während in anderen Medien wie der Zeitschrift [[material.der-zoologische-garten-journal]] zoologische und veterinärmedizinische Beiträge veröffentlicht wurden. 
 
 **Der Vorteil für die Zoolog:innen des Zoos und externe Forscher:innen liegt aber vor allem darin, dass die Informationen aus verschiedenen Jahrgängen auf einer Karte zusammengefasst wurden. Dadurch kann mitunter die Haltungs- oder Lebensdauer einzelner Tiere nachvollzogen werden.** Die Kartei wurde nach der Flucht von Hermann Steinmetz nicht fortgeführt und bildet damit nur einen Ausschnitt aus der 175-jährigen Geschichte des Berliner Zoos ab.
 

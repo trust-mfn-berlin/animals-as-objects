@@ -7,7 +7,7 @@ short_desc_de: Politische, logistische und moralische Herausforderungen
 date_end: 2022-01-23T13:55:36.735Z
 published: false
 title: How Do Animals End Up in the Zoo?
-updated: 1642854700884
+updated: 1643296166734
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 doi: 64y2-m311/14
 translators:
@@ -80,7 +80,7 @@ In the last three decades of the 19th century, however, another important proven
 
 Starting from opportunistic purchases of smaller animals brought by travellers or sailors aboard ships from colonial trading posts to European ports, companies specialising in animal trade began to develop. Gradually, these expanded extensive [[networks|theme.logistical-metabolisms]] of trappers and commercial agents throughout the European colonies and beyond, for a detailed account of which see [[story.catching-animals]]. Their business model was founded on the system of colonial exploitation that was a necessary condition of European power over cheap local labour and the environment of other regions of the world. It was driven economically by the demand provided by European zoos and private collectors.
 
-By the end of the 19th century, zoos could draw on a wide range of offerings from several professional dealers. Animals were auctioned off at annual sales fairs and in dealers’ warehouses in ports. Some dealers informed zoo directors of their trapping plans ahead of time, or even took requests. The large trading houses such as Jamrach in London, Hagenbeck in Hamburg, or Reiche in Alfeld would often bundle their shipments in the area of origin and then supply several zoos – with a large number of animals dying in transit. This risk applied for charismatic mammals and marine animals alike.[^3]
+By the end of the 19th century, zoos could draw on a wide range of offerings from several professional dealers. Animals were auctioned off at annual sales fairs and in dealers’ warehouses in ports. Some dealers informed zoo directors of their trapping plans ahead of time, or even took requests. The large trading houses such as Jamrach in London, Hagenbeck in Hamburg, or Reiche in Alfeld would often bundle their shipments in the area of origin and then supply several zoos – with a large number of animals dying in transit, which was reported and discussed in journals such as [[material.der-zoologische-garten-journal]]. This risk applied for charismatic mammals and marine animals alike.[^3]
 
 <figure>
 
@@ -276,7 +276,7 @@ In den letzten drei Jahrzehnten des 19. Jahrhunderts war aber bereits eine weite
 
 Ausgehend von Gelegenheitskäufen kleinerer Tiere, die Reisende oder Matrosen an Bord von Schiffen aus kolonialen Handelsstützpunkten in europäische Häfen brachten, entwickelten sich Tierhandelsfirmen. Nach und nach bauten diese ausgeprägte [[Netzwerke|theme.logistical-metabolisms]] von Fängern und Handelsvertretern in allen europäischen Kolonien und darüber hinaus aus, siehe dazu ausführlich [[story.catching-animals]]. Das Geschäftsmodell beruhte auf dem System kolonialer Ausbeutung, das die Verfügungsgewalt über billige lokale Arbeitskraft und die Umwelt anderer Erdregionen durch Europäer:innen bedingte. Die Nachfrage in den europäischen Zoos trieb dieses Geschäftsmodell wirtschaftlich an.
 
-Zoos konnten Ende des 19. Jahrhunderts auf umfangreiche Angebote mehrerer professioneller Händler zurückgreifen. Auf jährlichen Verkaufsmessen und in Lagerhallen der Händler in Hafennähe wurden die Tiere versteigert. Manche Händler informierten Zoodirektoren über ihre Fangpläne im Voraus oder nahmen gar Wünsche entgegen. Die großen Handelshäuser wie Jamrach in London, Hagenbeck in Hamburg oder Reiche in Alfeld bündelten oft ihre Transporte im Ursprungsgebiet und versorgten dann mehrere Zoos, wobei eine Vielzahl an Tieren auf dem Transport verendete. Dieses Risiko galt für die charismatischen Säugetiere ebenso wie für Meerestiere.[^3]
+Zoos konnten Ende des 19. Jahrhunderts auf umfangreiche Angebote mehrerer professioneller Händler zurückgreifen. Auf jährlichen Verkaufsmessen und in Lagerhallen der Händler in Hafennähe wurden die Tiere versteigert. Manche Händler informierten Zoodirektoren über ihre Fangpläne im Voraus oder nahmen gar Wünsche entgegen. Die großen Handelshäuser wie Jamrach in London, Hagenbeck in Hamburg oder Reiche in Alfeld bündelten oft ihre Transporte im Ursprungsgebiet und versorgten dann mehrere Zoos, wobei eine Vielzahl an Tieren auf dem Transport verendete, worüber nicht zuletzt in (Fach-)Zeitschriften wie [[material.der-zoologische-garten-journal]] berichtet und diskutiert wurde. Dieses Risiko galt für die charismatischen Säugetiere ebenso wie für Meerestiere.[^3]
 
 <figure>
 
