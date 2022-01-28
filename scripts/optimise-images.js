@@ -16,7 +16,7 @@ const destDir = path.join(__dirname, '..', 'vault', 'images');
 
 const maxW = 2000;
 const maxH = 1800;
-const quality = 100;
+const quality = 90;
 
 var existingImages = [];
 
