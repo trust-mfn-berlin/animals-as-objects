@@ -11,7 +11,7 @@
 
 ::v-deep .wiki-link-component{
   // bottom:-1mm;
-  bottom:0.18rem;
+  bottom:0.16rem;
   .thumbnail-wrap{
     height: unset;
   }
@@ -41,6 +41,7 @@
 
   span.type{
     border-bottom: 1px solid black;
+    text-transform: capitalize;
   }
 
   .headcol{
@@ -150,6 +151,11 @@ hgroup.heading{
     .f-mono();
     font-size: @fs-print-small;
     margin: 3mm 0;
+  }
+
+  span.type{
+    border-bottom: 1px solid black;
+    text-transform: capitalize;
   }
 
   .lead.subheading{
@@ -310,35 +316,40 @@ figure{
       width: 0;
     }
 
-    ::v-deep span.wiki-link-component{
-      // bottom:0;
-      bottom:-0.2rem;
-    // vertical-align: baseline;
-      a{
-        line-height: 0;
-        border-bottom: none;
-        img{
-          display: none;
-        }
-        .text{
-          // height: auto;
-          
-          box-shadow: none;
-          // border-radius: 0;
-          margin: 0;
-          height: auto !important;
-          padding: 0 !important;
-          color: @black !important;
-          .subheading{
-            font-size:@fs-print-small;
-            padding: 1mm 2mm;
-            font-style: normal;
-            font-family: @f-mono;
-          }
-        }
+  }
+}
+
+::v-deep figcaption span.wiki-link-component{
+  bottom:0rem;
+  height: auto;
+  // vertical-align: baseline;
+  a{
+    // line-height: 0;
+    // border-bottom: none;
+    border-bottom: 1px solid black !important;
+    img{
+      display: none;
+    }
+    .text{
+      // height: auto;
+      
+      box-shadow: none;
+      // border-radius: 0;
+      margin: 0;
+      height: auto !important;
+      padding: 0 !important;
+      color: @black !important;
+      border: none !important;
+      .subheading{
+        // text-decoration: underline;
+        font-size:@fs-print-small;
+        padding: 0;
+        font-style: normal;
+        font-family: @f-mono;
       }
     }
   }
+  
 }
 
 // Remove margin for images following headings
@@ -369,8 +380,10 @@ h2+figure {
 iframe{
   display: block;
   width: 100%;
-  min-height: 20rem;
-  margin: 15mm auto;
+  // min-height: 20rem;
+  // margin: 15mm auto;
+  margin: 10mm auto 10mm auto;
+  border: 1px solid black;
 }
 
 // lists
