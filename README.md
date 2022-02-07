@@ -57,19 +57,84 @@ Congratulations! The entire workflow should now be setup.  🎉 🦍 🕶️
 
 Further help can be found in the Dendron document `help.get started.md`
 
+---
+
 ## Instructions for developers
 
-Node / NetlifyCMS / NuxtJS & Nuxt content / Vue
+- Node version i'm using `16.10.0`
+- `npm i` install modules
+- `npm run dev` run non static dev server locally
+- `npm run local` generate static site and serve locally
+- `npm run colours` assign random colours to articles
+- `npm run images` batch resize images in the `vault` 
 
-Add Instructions here
 
-### Merging from **content-creation** into **master**
+Animals as Objects has three main elements:
 
-1. Pull content-creation 
-2. Begin merge
-3. Resolve merge conflicts. This may need to be done manually. Dont forget to check inside of YAML frontmatter
-4. Fix image paths `\` -> `/` , `)[images` -> `)[/images` to be consistent forward slashes & leading forward slash. Best done with a find and replace.
-5. Generate colours for articles that dont have them / lost them in merge. `npm run colours`
-6. Optimise images. Any new images should be downsized with a script `npm run images`
+## 1. Dendron for writing and linking articles.
 
-Other possible errors include user pathways that reference articles that are now deleted / renamed, and featured articles for homepage graph view that reference articles that are now deleted / renamed
+ [Dendron](https://www.dendron.so/) is a knowledge mapping VSCode extension. All dendron content lives in the `vault` folder. You will need to open the `dendron.code-workspace` file once Dendron is installed to see content in the `vault` through the Dendron interface.
+ 
+ To configure fields that the netlify cms interface can edit see: `static/admin/config.yml`
+
+## 2. Netlify CMS
+
+[Netlify CMS](https://www.netlifycms.org/) acts as a bridge between Dendron and the frontend. Content created in Dendron is stored in the `vault` as markdown files with YAML frontmatter. Netlify CMS (NOT the deployment platform, only the CMS) can read the content in the `vault` folder and pipe it to Nuxt via [Nuxt-Content](https://www.netlifycms.org/docs/nuxt/#using-nuxtcontent). Netlify CMS also handles editing content for all static / singleton pages like the about page. It is recommended that Content editors, when only working with metadata for articles, edit through the Netlify CMS admin interface (i.e. https://dev.animalsasobjects.org/admin)
+
+## 3. NuxtJS & Nuxt-Content frontend framework
+
+The frontend of the site is built in Vue using NuxtJS and the [Nuxt-Content](https://content.nuxtjs.org/) module. 
+
+The site is [statically generated](https://nuxtjs.org/docs/concepts/static-site-generation/) so that every single page is a static HTML file that loads in the JS app when the user visits. 
+
+Static generation is important because there are several generate-time hooks that process content from Dendron and make it usable in the JS app frontend. 
+
+Several scripts outlined below run at generate time. Namely:
+
+- `scripts/copy-audio.js` Copies static audio files from `vault` to `static` so they can be served through nuxt
+- `scripts/create-thumbnails.js` Generates small thumbnail versions of article cover images in root `vault` folder
+- `scripts/copy-images.js` Copies static image files from `vault` to `static`
+- `scripts/link-map.js` Creates map of bi-directional links in `temp/backlinks.json` and D3 import ready data for homepage in `temp/graphdata.json`
+- `scripts/create-timeline.js` Creates D3 import ready timeline of articles in `temp/dates.json`
+
+### Bilingual Markdown files + footnotes
+
+Bilingual support is added (somewhat hackily) through a special markdown structure
+
+example: `material.article.md`
+
+```
+---------YAML----------
+
+title:article
+
+--------MD BODY--------
+
+:::EN:::
+English content
+
+:::DE:::
+German content
+
+-----------------------
+```
+
+Special separators `:::EN:::` and `:::DE:::` mean that one file can contain both languages of the article.
+
+In the `hooks` section of `nuxt.config.js` each markdown article is split and rejoined, while footnotes are moved into a separate JS AST tree so they can be put into the sidebar.
+
+_`nuxt.config.js` is a bit unwieldy and should be optimised._
+
+
+### D3 Timeline and Graphs
+
+[D3](https://d3js.org/) is used in several places to render the node graphs and timeline.
+
+### PDF Generation
+
+`scripts/export-pdf.js`
+
+PDF generation is handled as a node process as part of the static site generation. After all pages are generated, it spins up an instance of headless chrome using [Puppeteer](https://github.com/puppeteer/puppeteer). It then visits every article page's special HTML print version i.e. `localhost:3000/material.article-name/print/` programmatically and generates PDFs in both languages that are saved in the `pdf` folder on the server to be accessed statically.
+
+After all PDFs are generated, it will shut down the Chromium instance.
+
