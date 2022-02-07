@@ -79,4 +79,8 @@ export default {
 
 @import url('~assets/less/pdf');
 
+::v-deep .nuxt-content .footnotes::before {
+    content: 'Fußnoten';
+}
+
 </style>
