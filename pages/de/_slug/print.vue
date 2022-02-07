@@ -60,6 +60,9 @@ export default {
     };
     }
   },
+  created(){
+    this.$store.commit('setSiteLanguage', 'de')
+  },
   head() {
     return {
       htmlAttrs: {
