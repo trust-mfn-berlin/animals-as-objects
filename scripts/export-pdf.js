@@ -16,6 +16,13 @@ const fs = require('fs-extra');
 // https://github.com/puppeteer/puppeteer/issues/1409
 // Fix by adding "--disable-gpu" arg to launch.
 
+// PDFs: Generating PDFs locally 
+// Set liveUrl to localhost
+// Serve from static generated folder -> npm run start
+// Serving from Dev server can have problems loading fonts
+// To double ensure puppeteer waits, you can force it to take a screenshot first
+
+
 const contentDir = path.join(__dirname, '..', 'vault');
 const exportDir = path.join(__dirname, '..', 'dist/pdf');
 
