@@ -11,7 +11,7 @@
 
 ::v-deep .wiki-link-component{
   // bottom:-1mm;
-  bottom:0.25rem;
+  bottom:0.18rem;
   .thumbnail-wrap{
     height: unset;
   }
@@ -130,7 +130,7 @@ hgroup.heading{
 
   h1{
     font-size: @fs-print * 2.5;
-    margin-bottom: 25mm;
+    // margin-bottom: 25mm;
     line-height: @lh-short;
 
     background-size: 1px 1em;
@@ -143,6 +143,12 @@ hgroup.heading{
     //   -2px 2px @bg,
     //   2px -2px @bg,
     //   2px 2px @bg;
+  }
+
+  h2{
+    .f-mono();
+    font-size: @fs-print-small;
+    margin: 3mm 0;
   }
 
   .lead.subheading{
