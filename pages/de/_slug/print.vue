@@ -5,6 +5,7 @@
     </div>
     <hgroup class="heading">
       <h1>{{article.title_de}}</h1>
+      <h2 v-if="article.short_desc_de">{{article.short_desc_de}}</h2>
     </hgroup>
     <div class="article-inner">
     <main v-if="article">
