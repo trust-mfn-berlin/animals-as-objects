@@ -115,6 +115,7 @@ aside{
   ul{
     padding-left: 0.5rem;
     border-left: 1px solid @black;
+    margin-top: 0;
 
     li{
       margin-bottom: 5px;
@@ -221,6 +222,7 @@ blockquote{
     }
     ol{
       margin-top: 0.5rem;
+      padding-left: 0.3rem;
     }
     li{
       // .f-mono();
@@ -254,7 +256,7 @@ sup{
 }
 
 figcaption{
-  font-size: @fs-print-small;
+  font-size: @fs-print-small !important;
   sup{
     
   }
@@ -351,6 +353,15 @@ h2+figure {
   display: block;
   width: 50%;
   margin: 15mm auto;
+
+  
+  figcaption{
+  }
+}
+
+::v-deep .audio-container figcaption{
+  font-size: @fs-print-small;
+
 }
 
 // Video
