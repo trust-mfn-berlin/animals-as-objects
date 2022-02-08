@@ -4,9 +4,9 @@
 
     <main>
       <section id="articles-alphabetical" v-show="activeFilter == 'alphabetical'">
-      <ol>
+      <ol class="alphabetical-container">
         <template v-for="(letter, index) in articlesAlphabetical">
-          <h2 :key="index">{{letter[0]}}</h2>
+          <h2 :key="index" >{{letter[0]}}</h2>
           <Inline v-for="article in letter[1]" :key="article.slug" :article="article" />
         </template>
       </ol>
@@ -187,12 +187,16 @@ ol{
 }
 
 .alphabetical-container{
-  h2{
-    display: inline-block;
-  }
-  display: flex;
-  flex-wrap: wrap;
-  gap:@space-s;
+  @media screen and (max-width: @mq-s) /* Mobile */ {
+    h2{
+      width:100%;
+      margin-top:1.5rem;
+
+      &:first-of-type{
+        margin-top:0;
+      }
+    }
+  }  
 }
 
 @media screen and (max-width: @mq-s) /* Mobile */ {
