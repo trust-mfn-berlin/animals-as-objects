@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Zoos and Conservation
 title_de: Zoos und Artenschutz
 created: 1618994200982
-updated: 1644499985112
+updated: 1644500140366
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/75
@@ -67,7 +67,7 @@ However, breeding them did not work at first. The [[zoo’s records|material.jou
 
 In its habitat, the forests of Borneo and Sumatra, the orangutan population has been classified for many years as seriously threatened by the International Union for Conservation of Nature. This is primarily caused by man-made habitat loss through deforestation – especially for palm oil plantations. The majority of orangutans living in zoos in Europe and North America today come from the captive breeding programmes undertaken by zoo associations. But this was not always the case. The example of this species is a good illustration of zoos' conflicts of interest. Should zoos do without species that are popular with the public but endangered in their natural habitats, or could catching, showing and breeding the animals contribute to their conservation?
 
-The orangutan became a political issue in both German states. The 1962 meeting of the Association of German Zoo Directors took place one year after the construction of the Berlin Wall. Hence, the East German colleagues were absent. During this meeting the ethical aspects of the purchase of wild-caught orangutans were discussed intensively for the first time. The Frankfurt zoo director Bernhard Grzimek pointed out the great endangerment of the species on Borneo and Sumatra and demanded a voluntary renunciation of the import of the species by the assembled zoo directors.[^5]
+The orangutan became a political issue in both German states. The 1962 meeting of the Association of German Zoo Directors took place one year after the construction of the Berlin Wall. Hence, the East German colleagues were absent. During this meeting the ethical aspects of the purchase of wild-caught orangutans were discussed intensively for the first time. The Frankfurt Zoo director Bernhard Grzimek pointed out the great endangerment of the species on Borneo and Sumatra and demanded a voluntary renunciation of the import of the species by the assembled zoo directors.[^5]
 
 He anticipated that zoological gardens would otherwise have to reckon with attacks from the public, which knew about the animals’ endangered status through the press. The zoo directors passed a resolution, albeit not unanimously, to:
 
@@ -85,7 +85,7 @@ At that conference, Dathe duly spoke out against a ban on keeping and trading en
 
 <figcaption>
 
-Heinrich Dathe with orangutan “Jussup”, 1961 (Photo archive Tierpark Berlin, Photo: Werner Engel. All rights reserved).
+Heinrich Dathe with orangutan “Jussup”, 1961 (Photo archive Tierpark Berlin, image: Werner Engel. All rights reserved).
 
 </figcaption>
 
@@ -121,7 +121,7 @@ In Europe, a few years later, zoo directors turned their attention to the bison'
 
 <figure>
 
-Black and white photo of a wisent in front of a transport crate in a forest. Several men are sitting on the crate and on a fence. ](/images/cmw/Wisent-Schorfheide.jpg)
+![Black and white photo of a wisent in front of a transport crate in a forest. Several men are sitting on the crate and on a fence.](/images/cmw/Wisent-Schorfheide.jpg)
 
 <figcaption>
 
