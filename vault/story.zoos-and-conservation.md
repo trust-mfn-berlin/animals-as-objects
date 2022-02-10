@@ -1,13 +1,16 @@
 ---
-id: f7b68ae7-0631-49cd-90a5-04427f79e07e
-title: Zoos and Conservation
-desc: Since only a relatively short time zoos intensify their conservation efforts.
-updated: 1643311910325
-created: 1618994200982
 license: CC BY-SA
+title: Zoos and Conservation
 title_de: Zoos und Artenschutz
+created: 1618994200982
+updated: 1643311910325
+id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/75
+desc: Zoos today promote themselves as centres for species conservation. Until
+  the 1970s years, however, the majority of their exhibited animals were kept in
+  their habitats. What developments have zoos gone through and what dilemmas
+  have arisen?
 desc_de: |-
   Zoos bewerben sich heute als Artenschutzzentren. Bis in die 1970er
   Jahre wurde die Mehrzahl ihrer ausgestellten Tiere allerdings in deren
@@ -15,12 +18,13 @@ desc_de: |-
   Dilemmata haben sich ergeben?
 short_desc: Since only a relatively short time zoos intensify their conservation efforts.
 short_desc_de: Ausstellen oder schützen?
+keywords: coming soon
 cover_image:
   image: /images/orangs_wegweiser_1927.jpg
 colour_scheme: 15
 tao_type: story
-date_start: '1923-01-01T23:09:00.000Z'
-date_end: '2022-12-30T23:00:00.000Z'
+date_start: 1923-01-01T23:09:00.000Z
+date_end: 2022-12-30T23:00:00.000Z
 published: false
 ---
 
