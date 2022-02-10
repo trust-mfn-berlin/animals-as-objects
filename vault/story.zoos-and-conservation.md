@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Zoos and Conservation
 title_de: Zoos und Artenschutz
 created: 1618994200982
-updated: 1644500140366
+updated: 1644500373164
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/75
@@ -150,11 +150,11 @@ The sources do not allow a detailed reconstruction of why these zoos opted for t
 
 <figure>
 
-![Title page of a brochure in red colour with a picture of a rhinoceros.](/images/cmw/Breeding_Book_Breitmail_2001.jpg)
+![Title page of a brochure in red colour with a picture of a rhinoceros.](/images/cmw/Zuchtbuch_Breitmail_2001.jpg)
 
 <figcaption>
 
-_Example of a studbook: The International Studbook for the White Rhino, 2001.
+_Example of a studbook: The International Studbook for the White Rhino, 2001._
 
 </figcaption>
 
@@ -398,7 +398,7 @@ Die Gründe für die Auswahl lassen sich aus den Quellen im Einzelnen nicht mehr
 
 <figcaption>
 
-_Beispiel eines Zuchtbuchs - Das Internationale Zuchtbuch für das Breitmaulnashorn, 2001._
+_Beispiel eines Zuchtbuchs: Das Internationale Zuchtbuch für das Breitmaulnashorn, 2001._
 </figcaption>
 
 </figure>
