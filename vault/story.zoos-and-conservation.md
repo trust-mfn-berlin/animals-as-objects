@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Zoos and Conservation
 title_de: Zoos und Artenschutz
 created: 1618994200982
-updated: 1644500506995
+updated: 1644500531967
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/75
@@ -519,4 +519,3 @@ Das Tier eignete sich in den Augen des Verbandes also als Botschafter für den S
 [^31]: Stephan Hübner. “‘Die afrikanischen Elefanten sind unser Flaggschiff’: Thomas Kauffels erzählt von der Geschichte des Opel-Zoos”. Hessischer Rundfunk (03.01.2022). https://www.hr2.de/podcasts/doppelkopf/die-afrikanischen-elefanten-sind-unser-flaggschiff--thomas-kauffels-erzaehlt-von-der-geschichte-des-opel-zoos,podcast-episode-82032.html (03.01.2022); zur Definition von Flaggschiffarten: Jürg Meier, _Handbuch Zoo: Moderne Tiergartenbiologie_. Bern: Haupt Verlag, 2009): 121.
 
 [^32]: Vgl. beispielsweise Volker Sommer.  “Ein Etikettenschwindel”. _Aus Politik und Zeitgeschichte_ 71, Nr. 9 (2021): 35-38; Bob Mullan und Garry Marvin, _Zoo Culture_, Urbana, Chicago: University of Illinois Press, 1999; Hilal Sezgin. _Artgerecht ist nur die Freiheit: Eine Ethik für Tiere oder warum wir umdenken müssen_. München: Verlag C.H. Beck, 2014.
-
