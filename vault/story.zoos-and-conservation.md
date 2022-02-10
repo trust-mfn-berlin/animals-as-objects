@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Zoos and Conservation
 title_de: Zoos und Artenschutz
 created: 1618994200982
-updated: 1644504895961
+updated: 1644507459078
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/75
@@ -65,7 +65,7 @@ However, breeding them did not work at first. The [[zoo’s records|material.jou
 
 ## Protection or Breeding?
 
-In its habitat, the forests of Borneo and Sumatra, the orangutan population has been classified for many years as seriously threatened by the International Union for Conservation of Nature. This is primarily caused by man-made habitat loss through deforestation – especially for palm oil plantations. The majority of orangutans living in zoos in Europe and North America today come from the captive breeding programmes undertaken by zoo associations. But this was not always the case. The example of this species is a good illustration of zoos' conflicts of interest. Should zoos do without species that are popular with the public but endangered in their natural habitats, or could catching, showing and breeding the animals contribute to their conservation?
+In its habitat, the forests of Borneo and Sumatra, the orangutan population has been classified for many years as seriously threatened by the International Union for Conservation of Nature. This is primarily caused by man-made habitat loss through deforestation – especially for palm oil plantations. The majority of orangutans living in zoos in Europe and North America today come from the captive breeding programmes undertaken by zoo associations. But this was not always the case. The example of this species is a good illustration of zoos’ conflicts of interest. Should zoos do without species that are popular with the public but endangered in their natural habitats, or could catching, showing and breeding the animals contribute to their conservation?
 
 The orangutan became a political issue in both German states. The 1962 meeting of the Association of German Zoo Directors took place one year after the construction of the Berlin Wall. Hence, the East German colleagues were absent. During this meeting the ethical aspects of the purchase of wild-caught orangutans were discussed intensively for the first time. The Frankfurt Zoo director Bernhard Grzimek pointed out the great endangerment of the species on Borneo and Sumatra and demanded a voluntary renunciation of the import of the species by the assembled zoo directors.[^5]
 
@@ -107,7 +107,7 @@ _Postcard of the Zoological Garden with the two orangutan cubs “Nakal” and �
 
 A first cub was born in West Berlin in 1963, but died shortly after birth. To establish a breeding programme, more wild-caught orangutans would have to be acquired.[^11]
 
-Although the efforts to protect animals and species were certainly sincere, zoo directors already in possession of a larger group of the animals lobbied for a ban. In 1972, Heinrich Dathe agreed with the director of the Djakarta Zoo, Benjamin Galstaun, that the “great conservationists” in the “West” (meaning Bernhard Grzimek and the management of the Stuttgart Wilhelma) sought to protect those animals already in their collection.[^12] We might also surmise that zoos, which were not interested in keeping the species anyway, did not want their competitors to obtain crowd pullers and could therefore prioritize animal protection without any trade-offs. In the end, no resolution was passed. The plenum merely commissioned Bernhard Grzimek to draft a resolution.
+Although the efforts to protect animals and species were certainly sincere, zoo directors already in possession of a larger group of the animals lobbied for a ban. In 1972, Heinrich Dathe agreed with the director of the Djakarta Zoo, Benjamin Galstaun, that the “great conservationists” in the “West” (meaning Bernhard Grzimek and the management of the Stuttgart Wilhelma) sought to protect those animals already in their collection.[^12] We might also surmise that zoos, which were not interested in keeping the species anyway, did not want their competitors to obtain crowd pullers and could therefore prioritise animal protection without any trade-offs. In the end, no resolution was passed. The plenum merely commissioned Bernhard Grzimek to draft a resolution.
 
 At the meeting of the German association in 1966, the self-commitment from 1962 to no longer acquire wild-caught orangutans was rescinded. But already the following year the species was back on the agenda. It was decided that members should henceforth no longer buy orangutans without a government export license. In addition, Bernhard Grzimek was appointed chairman in matters concerning the import of orangutans. He was given far-reaching powers. For example, in the event of misconduct, he was to be able to demand the expulsion of the member from the association.[^13] However, the regulation could only affect animals that were caught and exported from the countries of origin without an export license. With an appropriate license, the endangered primates could still be legally imported and acquired by German zoos, even though these licenses for orangutans were rare to obtain.
 
@@ -117,7 +117,7 @@ The basic conflict within the zoological community concerned the mode of conserv
 
 The Père David’s deer was the object of an early breeding programme in captivity that proved successful and that might have inspired Heinrich Dathe and others. In the 1890s, the Père David’s deer was narrowly saved from [[extinction|story.stellers-sea-cow]]. The Duke of Bedford brought a group of 18 animals from various international zoos to his private zoo in Woburn, where they successfully reproduced.[^14] In 1905, the American Bison Society was founded with the aim of preserving the nearly extinct bison. The population of these buffalo had been decimated to a few small groups due to intensive hunting by European settlers. The director of the New York Zoological Park and former taxidermist of the National Museum, William Hornaday, put together a breeding group of bison from various US zoos, which successfully produced offspring.[^15] When US President Theodore Roosevelt established the first national parks, Hornaday and his fellow campaigners began to release the animals into the wild. For the first time, an endangered species bred in zoos was released into the wild. The large bison was not only easy to breed and reproduced well in human care, it also received the necessary publicity. Its size, its dangerousness, but also its iconic role in the European narrative of the history of the US West undoubtedly contributed to this. The passenger pigeon, on the other hand, whose flocks once darkened the skies over the USA, did not receive this attention and became extinct around 1900. Some of their kind continued living in zoos beyond 1900, but no one made any significant attempt to breed them and preserve the species.[^16] Both bison and passenger pigeons were once similarly numerous and omnipresent in North America, but the responses to their impending extinction could not have been more different.
 
-In Europe, a few years later, zoo directors turned their attention to the bison's European counterpart – the wisent. This megaherbivore had a similar ecological function here long ago as the American bison. In 1923, European zoos founded the Society for the Protection of the European Bison, the first international breeding community. With the wisent studbook kept by its members, this species was successfully bred and saved from extinction. Through the collection and combination of the few remaining breeding groups, the stocks kept in zoos now form a population sufficient for the reintroduction efforts begun since the 1930s.[^17]
+In Europe, a few years later, zoo directors turned their attention to the bison’s European counterpart – the wisent. This megaherbivore had a similar ecological function here long ago as the American bison. In 1923, European zoos founded the Society for the Protection of the European Bison, the first international breeding community. With the wisent studbook kept by its members, this species was successfully bred and saved from extinction. Through the collection and combination of the few remaining breeding groups, the stocks kept in zoos now form a population sufficient for the reintroduction efforts begun since the 1930s.[^17]
 
 <figure>
 
@@ -135,16 +135,16 @@ _Picture of the release of a wisent into the wild in the Schorfheide, probably 1
 
 The success of these early captive breeding programmes encouraged the zoos to introduce more studbooks – just at the time when Dathe, Klös and Grzimek were arguing about the best strategy for orangutan conservation. At the 1966 meeting of the International Association of Zoo Directors in Colombo, more zoos committed to keeping studbooks for endangered species. The following zoos took the lead in managing studbooks:
 
-- Antwerp for okapis and bonobos,
-- Basel for the armoured rhinoceros and pygmy hippopotamus,
-- Zoo Berlin for black and white rhinos,
-- Tierpark Berlin for wild asses,
-- Colombo for the Black-billed Stork,
-- Frankfurt for gorillas,
-- Paris for lyrebirds,
-- Prague undertook to take over the studbook for the Przewalski’s horse and endangered subspecies of the tiger,
-- San Diego took over the studbook for the Mendes antelope,
-- and Washington took over the studbook for the orangutan.[^18]
+- Antwerp for okapis and bonobos
+- Basel for the armoured rhinoceros and pygmy hippopotamus
+- Zoo Berlin for black and white rhinos
+- Tierpark Berlin for wild asses
+- Colombo for the Black-billed Stork
+- Frankfurt for gorillas
+- Paris for lyrebirds
+- Prague undertook to take over the studbook for the Przewalski’s horse and endangered subspecies of the tiger
+- San Diego took over the studbook for the Mendes antelope
+- Washington took over the studbook for the orangutan[^18]
 
 The sources do not allow a detailed reconstruction of why these zoos opted for these specific species. We can, however, assume that they could prove a history of successful keeping and breeding (from the association’s point of view) for the animals in question. 
 
@@ -380,16 +380,16 @@ _Bild von der Auswilderung eines Wisents in der Schorfheide, vermutlich 1938. (A
 
 Der Erfolg dieser frühen Erhaltungszuchten animierte die Leitungen internationaler Zoos zur Einführung weiterer Zuchtbücher – just in der Zeit, als Dathe, Klös und Grzimek über die beste Strategie zur Erhaltung des Orang-Utans stritten. Auf der Sitzung des Internationalen Verbands der Zoodirektoren in Colombo 1966 verpflichteten sich weitere Zoos zur Führung von Zuchtbüchern für gefährdete Arten. Folgende Zoos übernahmen beispielsweise die Führung von Zuchtbüchern:
 
-- Antwerpen für Okapis und Bonobos,
-- Basel für das Panzernashorn und Zwergflusspferde,
-- Zoo Berlin für Spitz- und Breitmaulnashörner,
-- Tierpark Berlin für Wildesel,
-- Colombo für den Schwarzschnabelstorch,
-- Frankfurt für Gorillas,
-- Paris für Leierhirsche,
-- Prag verpflichtete sich, das Zuchtbuch für das Przewalskipferd und gefährdete Unterarten des Tigers zu übernehmen,
-- San Diego übernahm das Zuchtbuch für die Mendesantilope,
-- und Washington übernahm das Zuchtbuch für den Orang-Utan.[^17]
+- Antwerpen für Okapis und Bonobos
+- Basel für das Panzernashorn und Zwergflusspferde
+- Zoo Berlin für Spitz- und Breitmaulnashörner
+- Tierpark Berlin für Wildesel
+- Colombo für den Schwarzschnabelstorch
+- Frankfurt für Gorillas
+- Paris für Leierhirsche
+- Prag verpflichtete sich, das Zuchtbuch für das Przewalskipferd und gefährdete Unterarten des Tigers zu übernehmen
+- San Diego übernahm das Zuchtbuch für die Mendesantilope
+- Washington übernahm das Zuchtbuch für den Orang-Utan[^17]
 
 Die Gründe für die Auswahl lassen sich aus den Quellen im Einzelnen nicht mehr rekonstruieren, es ist aber anzunehmen, dass die betreffenden Zoos in der Regel eine längere und aus Sicht des Verbandes erfolgreiche Geschichte der Haltung und Zucht der jeweiligen Tierarten vorzuweisen hatten.
 
