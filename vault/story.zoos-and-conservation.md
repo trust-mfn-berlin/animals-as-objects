@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Zoos and Conservation
 title_de: Zoos und Artenschutz
 created: 1618994200982
-updated: 1644500373164
+updated: 1644500506995
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/75
@@ -174,7 +174,7 @@ Virtually all zoos organised in the German, European and international zoo assoc
 
 ## Colonial Heritage and Patronising Aid
 
-The origins of the conservation movement and of national parks in particular lie in colonial hunting traditions and relations of domination.[^25] For example, the historian Bernhard Gißibl has explained in numerous contributions how ‘nature’ became a resource of [[German colonialism|material.the-german-colonial-hunting-exhibition]] that was to be both exploited and protected.[^26] Environmental historian Frank Uekötter traces this politicisation and economisation of nature using the example of the nature conservation movement of the [[1930s|story.the- zoo-and-national-socialism]]. He has investigated the roots of the German conservation movement in nationalist resentment, its impact on National Socialist ideology, and its consequences to the present day.[^27] The best-known representative of modern habitat conservation, Bernhard Grzimek, was implicated in these paradigms. We can see many examples in his work, such as when he advocated for the forcible expropriation of people to make space for nature reserves in the Serengeti.[^28] Colonial patterns prevail in modern species, too.[^29] Zoos worldwide – and especially those managed by former colonial powers– must therefore face the conflict-ridden legacy of modern concepts of species conservation. They will otherwise reproduce colonial structures through their conservation and research programmes.
+The origins of the conservation movement and of national parks in particular lie in colonial hunting traditions and relations of domination.[^25] For example, the historian Bernhard Gißibl has explained in numerous contributions how ‘nature’ became a resource of [[German colonialism|material.the-german-colonial-hunting-exhibition]] that was to be both exploited and protected.[^26] Environmental historian Frank Uekötter traces this politicisation and economisation of nature using the example of the nature conservation movement of the [[1930s|story.the-zoo-and-national-socialism]]. He has investigated the roots of the German conservation movement in nationalist resentment, its impact on National Socialist ideology, and its consequences to the present day.[^27] The best-known representative of modern habitat conservation, Bernhard Grzimek, was implicated in these paradigms. We can see many examples in his work, such as when he advocated for the forcible expropriation of people to make space for nature reserves in the Serengeti.[^28] Colonial patterns prevail in modern species, too.[^29] Zoos worldwide – and especially those managed by former colonial powers– must therefore face the conflict-ridden legacy of modern concepts of species conservation. They will otherwise reproduce colonial structures through their conservation and research programmes.
 
 The World Zoo Association notes in its 2015 World Conservation Strategy:
 
@@ -196,7 +196,8 @@ The orangutan undoubtedly belongs to the category of flagship species. This is a
 
 < figure>
 
-![Picture of a red-hai red mon key. ](/images/cmw/Orang_Conservation_WAZA_new.jpg)
+![Picture of a red-hai red mon key.](/images/cmw/Orang_Conservation_WAZA_neu.jpg)
+
 < figcaption>
 
 _Image on the website of the World Association of Zoos and Aquariums. https://www.waza.org/priorities/conservation/conservation-strategies (15.01.2022)._
@@ -443,6 +444,7 @@ Der Orang-Utan zählt zweifelsohne zur Kategorie der Flaggschiffarten. Das sieht
 <figure>
 
 ![Bild eines rothaarigen Affen.](/images/cmw/Orang_Conservation_WAZA_neu.jpg)
+
 <figcaption>
 
 _Bild auf der Website der World Association of Zoos and Aquariums. https://www.waza.org/priorities/conservation/conservation-strategies (15.01.2022)._
