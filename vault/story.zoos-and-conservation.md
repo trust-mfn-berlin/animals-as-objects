@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Zoos and Conservation
 title_de: Zoos und Artenschutz
 created: 1618994200982
-updated: 1644499326243
+updated: 1644499985112
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/75
@@ -60,7 +60,7 @@ Cover picture of the guide through the Zoological Garden Berlin 1927 with two or
 
 </figure>
 
-However, breeding them did not work at first. The [[zoo’s records|material.journale-the-zoo-directory]] at the time and the so-called [[Steinmetz Card Index|material.steinmetz-index]] show that a cub born in 1928 died after one month. Another one, born in 1930, died after three years.[^4] Thus, all other animals of this species presented at Berlin Zoo continued to be wild-caught. This was no different in other German and European zoos. In the early 1960s, however, this form of [[procurement of zoo animals|theme.how-do-animals-end-up-in-the- zoo]] was to ignite a controversy among German and international zoo managers.
+However, breeding them did not work at first. The [[zoo’s records|material.journale-the-zoo-directory]] at the time and the so-called [[Steinmetz Card Index|material.steinmetz-index]] show that a cub born in 1928 died after one month. Another one, born in 1930, died after three years.[^4] Thus, all other animals of this species presented at Berlin Zoo continued to be wild-caught. This was no different in other German and European zoos. In the early 1960s, however, this form of [[procurement of zoo animals|theme.how-do-animals-end-up-in-the-zoo]] was to ignite a controversy among German and international zoo managers.
 
 
 ## Protection or Breeding?
