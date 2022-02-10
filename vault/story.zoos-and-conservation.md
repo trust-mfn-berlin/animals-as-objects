@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Zoos and Conservation
 title_de: Zoos und Artenschutz
 created: 1618994200982
-updated: 1644500531967
+updated: 1644502176901
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/75
@@ -198,7 +198,7 @@ The orangutan undoubtedly belongs to the category of flagship species. This is a
 
 ![Picture of a red-hai red mon key.](/images/cmw/Orang_Conservation_WAZA_neu.jpg)
 
-< figcaption>
+<figcaption>
 
 _Image on the website of the World Association of Zoos and Aquariums. https://www.waza.org/priorities/conservation/conservation-strategies (15.01.2022)._
 
