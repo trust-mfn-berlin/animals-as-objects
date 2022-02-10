@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Zoos and Conservation
 title_de: Zoos und Artenschutz
 created: 1618994200982
-updated: 1644502176901
+updated: 1644504895961
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/75
@@ -236,7 +236,7 @@ The association regards the animal as a suitable ambassador for the protection o
 
 [^14]: Vernon N. Jr. Kisling. “Historic and Cultural Foundations of Zoo Conservation: A Narrative Timeline”. In _The Ark and Beyond: The Evolution of Zoo and Aquarium Conservation_, Ben A. Minteer, Jane Maienschein, James P. Collins and George B. Rabb (ed.), Chicago: University of Chicago Press, 2018: 41.
 
-[^15]: Hornaday espoused viciously racist views and practices. In 1906 he forced Ota Benga, a Congolese man, into an enclosure at Bronx Zoo and abused him as a ‘living specimen”. Only in 2020 did the Wildlife Conservation Society, which managest he Bronx Zoo and enabled Hornaday to establish the zoo in the first place, issue an apology for his actions. Erst im Jahr 2020 entschuldigte sich die Wildlife Conservation Society, die den Bronx Zoo verwaltet und Hornaday die Gründung des Zoos ermöglicht hatte, für seine Taten. Ota Benga beging 1916 Selbstmord. For details on racism and nature conservation see: Marouf Arif Hasian Jr. and S. Marek Muller. “Decolonizing conservationist hero narratives: a critical genealogy of William T. Hornaday and colonial conservation rhetorics”. _Atlantic Journal of Communication_ 27(2019): 284-296.
+[^15]: Hornaday espoused viciously racist views and practices. In 1906 he forced Ota Benga, a Congolese man, into an enclosure at Bronx Zoo and abused him as a ‘living specimen’. Only in 2020 did the Wildlife Conservation Society, which manages the Bronx Zoo and enabled Hornaday to establish the zoo in the first place, issue an apology for his actions. Ota Benga committed suicide in 1916. For details on racism and nature conservation, see Marouf Arif Hasian Jr. and S. Marek Muller. “Decolonizing Conservationist Hero Narratives: A Critical Genealogy of William T. Hornaday and Colonial Conservation Rhetorics”. _Atlantic Journal of Communication_ 27(2019): 284-296.
 
 [^16]: Vgl. Mark V. Jr. Barrow. “Teetering on the Brink of Extinction: The Passenger Pigeon, the Bison, and American Zoo Culture in the Late Nineteenth and Early Twentieth Centuries”. In _The Ark and Beyond: The Evolution of Zoo and Aquarium Conservation_. Ben A. Minteer, Jane Maienschein, James P. Collins and George B. Rabb (ed.), Chicago: The University of Chicago Press, 2018: 51-64.
 
