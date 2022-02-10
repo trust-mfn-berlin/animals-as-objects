@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Zoos and Conservation
 title_de: Zoos und Artenschutz
 created: 1618994200982
-updated: 1643311910325
+updated: 1644499326243
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/75
@@ -30,11 +30,11 @@ published: false
 
 :::EN:::
 
-< figure>
+<figure>
 
 ![A male orangutan with the characteristic cheek bulges of a dominant animal](/images/cmw/Orang_Utan_Enche.jpg)
 
-< figcaption>
+<figcaption>
 
 _Male orangutan “Enche”, 2016. (Zoologischer Garten Berlin. All rights reserved.)_
 
@@ -48,11 +48,11 @@ Fascination with primates in general and orangutans in particular spread among B
 
 After many years of mostly acquiring individual animals, a pair of Sumatran orangutans came to Berlin for the first time in 1926. Their offspring made headlines, but died shortly after birth.[^3] For the zoo, these were significant animals – they were featured on the cover of the zoo guide a year after their arrival.
 
-< figure>
+<figure>
 
 ![Cover picture of the signpost through the Zoological Garden Berlin 1927 with two red-haired apes sitting on a branch.](/images/cmw/Orangs_Wegweiser_1927.jpg)
 
-< figcaption>
+<figcaption>
 
 Cover picture of the guide through the Zoological Garden Berlin 1927 with two orangutans.
 
@@ -63,7 +63,7 @@ Cover picture of the guide through the Zoological Garden Berlin 1927 with two or
 However, breeding them did not work at first. The [[zoo’s records|material.journale-the-zoo-directory]] at the time and the so-called [[Steinmetz Card Index|material.steinmetz-index]] show that a cub born in 1928 died after one month. Another one, born in 1930, died after three years.[^4] Thus, all other animals of this species presented at Berlin Zoo continued to be wild-caught. This was no different in other German and European zoos. In the early 1960s, however, this form of [[procurement of zoo animals|theme.how-do-animals-end-up-in-the- zoo]] was to ignite a controversy among German and international zoo managers.
 
 
-## Protection or breeding?
+## Protection or Breeding?
 
 In its habitat, the forests of Borneo and Sumatra, the orangutan population has been classified for many years as seriously threatened by the International Union for Conservation of Nature. This is primarily caused by man-made habitat loss through deforestation – especially for palm oil plantations. The majority of orangutans living in zoos in Europe and North America today come from the captive breeding programmes undertaken by zoo associations. But this was not always the case. The example of this species is a good illustration of zoos' conflicts of interest. Should zoos do without species that are popular with the public but endangered in their natural habitats, or could catching, showing and breeding the animals contribute to their conservation?
 
@@ -79,11 +79,11 @@ At that conference, Dathe duly spoke out against a ban on keeping and trading en
 
 >“Prof. Dr. Dathe stated that it was irresponsible to prevent the purchase of endangered species because such animals would thus fall into much less able hands. Zoos should rather try to breed them.”[^8]
 
-< figure>
+<figure>
 
 ![A man with a bald head and glasses holds a monkey in his arms, which snuggles up to him.](/images/cmw/Dathe_Jussup.jpg)
 
-< figcaption>
+<figcaption>
 
 Heinrich Dathe with orangutan “Jussup”, 1961 (Photo archive Tierpark Berlin, Photo: Werner Engel. All rights reserved).
 
@@ -91,13 +91,13 @@ Heinrich Dathe with orangutan “Jussup”, 1961 (Photo archive Tierpark Berlin,
 
 </figure>
 
-West Berlin colleague Heinz-Georg Klös agreed with Dathe.[^9] And he was not the only one. With respect to their prominently propagated function as institutions that protect animals, it becomes apparent that Klös and Dathe – and many other zoo directors – struggled with a fundamental trade-off. Keeping [[great apes|story.bobby-trac king-body-parts]] brought and still brings zoos considerable prestige in professional circles. These animals also played a role in the rivalry between the two zoos in the divided city. Both the zoo and the animal park had bought wild-caught animals in previous years and were trying, so far unsuccessfully, to breed their own. Hence, both had publicly committed themselves to species conservation, but there was undoubtedly competition for these popular animals. Despite the lack of resources in the GDR, Heinrich Dathe had succeeded in building an ape house, which opened in 1964. It also housed three orangutans – one female and two males.[^10] He presumably hoped to establish a breeding programme, yet at the same time he must have been aware that more individuals were needed for it to work.
+West Berlin colleague Heinz-Georg Klös agreed with Dathe.[^9] And he was not the only one. With respect to their prominently propagated function as institutions that protect animals, it becomes apparent that Klös and Dathe – and many other zoo directors – struggled with a fundamental trade-off. Keeping [[great apes|story.bobby-tracking-body-parts]] brought and still brings zoos considerable prestige in professional circles. These animals also played a role in the rivalry between the two zoos in the divided city. Both the zoo and the animal park had bought wild-caught animals in previous years and were trying, so far unsuccessfully, to breed their own. Hence, both had publicly committed themselves to species conservation, but there was undoubtedly competition for these popular animals. Despite the lack of resources in the GDR, Heinrich Dathe had succeeded in building an ape house, which opened in 1964. It also housed three orangutans – one female and two males.[^10] He presumably hoped to establish a breeding programme, yet at the same time he must have been aware that more individuals were needed for it to work.
 
-< figure>
+<figure>
 
 ![desc](/images/cmw/Orangs_Bubi_Nakal_1959.jpg)
 
-< figcaption>
+<figcaption>
 
 _Postcard of the Zoological Garden with the two orangutan cubs “Nakal” and “Bubi”, 1959._
 
@@ -113,17 +113,17 @@ At the meeting of the German association in 1966, the self-commitment from 1962 
 
 The basic conflict within the zoological community concerned the mode of conservation: Heinrich Dathe argued for ex-situ species protection (i.e. keeping and breeding outside the original natural habitat), others for in-situ conservation, that is, for the strict protection of animals in their natural habitat. The latter excluded and mostly excludes [[catching animals|story.catching-animals]] for zoos. Dathe’s position and that of other zoo directors across the world integrated in-situ conservation while retaining an attractive stock of animals at their respective zoos for breeding and possibly re-wilding. In advocating for this approach, the zoo directors invoked various exemplary breeding programmes.
 
-##Role models for breeding programmes
+## Role Models for Breeding Programmes
 
 The Père David’s deer was the object of an early breeding programme in captivity that proved successful and that might have inspired Heinrich Dathe and others. In the 1890s, the Père David’s deer was narrowly saved from [[extinction|story.stellers-sea-cow]]. The Duke of Bedford brought a group of 18 animals from various international zoos to his private zoo in Woburn, where they successfully reproduced.[^14] In 1905, the American Bison Society was founded with the aim of preserving the nearly extinct bison. The population of these buffalo had been decimated to a few small groups due to intensive hunting by European settlers. The director of the New York Zoological Park and former taxidermist of the National Museum, William Hornaday, put together a breeding group of bison from various US zoos, which successfully produced offspring.[^15] When US President Theodore Roosevelt established the first national parks, Hornaday and his fellow campaigners began to release the animals into the wild. For the first time, an endangered species bred in zoos was released into the wild. The large bison was not only easy to breed and reproduced well in human care, it also received the necessary publicity. Its size, its dangerousness, but also its iconic role in the European narrative of the history of the US West undoubtedly contributed to this. The passenger pigeon, on the other hand, whose flocks once darkened the skies over the USA, did not receive this attention and became extinct around 1900. Some of their kind continued living in zoos beyond 1900, but no one made any significant attempt to breed them and preserve the species.[^16] Both bison and passenger pigeons were once similarly numerous and omnipresent in North America, but the responses to their impending extinction could not have been more different.
 
 In Europe, a few years later, zoo directors turned their attention to the bison's European counterpart – the wisent. This megaherbivore had a similar ecological function here long ago as the American bison. In 1923, European zoos founded the Society for the Protection of the European Bison, the first international breeding community. With the wisent studbook kept by its members, this species was successfully bred and saved from extinction. Through the collection and combination of the few remaining breeding groups, the stocks kept in zoos now form a population sufficient for the reintroduction efforts begun since the 1930s.[^17]
 
-< figure>
+<figure>
 
 Black and white photo of a wisent in front of a transport crate in a forest. Several men are sitting on the crate and on a fence. ](/images/cmw/Wisent-Schorfheide.jpg)
 
-< figcaption>
+<figcaption>
 
 _Picture of the release of a wisent into the wild in the Schorfheide, probably 1938. (AZGB, all rights reserved.)_
 
@@ -131,7 +131,7 @@ _Picture of the release of a wisent into the wild in the Schorfheide, probably 1
 
 </figure>
 
-##Further developments: stud books and captive breeding programmes
+## Further Developments: Stud Books and Captive Breeding Programmes
 
 The success of these early captive breeding programmes encouraged the zoos to introduce more studbooks – just at the time when Dathe, Klös and Grzimek were arguing about the best strategy for orangutan conservation. At the 1966 meeting of the International Association of Zoo Directors in Colombo, more zoos committed to keeping studbooks for endangered species. The following zoos took the lead in managing studbooks:
 
@@ -148,11 +148,11 @@ The success of these early captive breeding programmes encouraged the zoos to in
 
 The sources do not allow a detailed reconstruction of why these zoos opted for these specific species. We can, however, assume that they could prove a history of successful keeping and breeding (from the association’s point of view) for the animals in question. 
 
-< figure>
+<figure>
 
 ![Title page of a brochure in red colour with a picture of a rhinoceros.](/images/cmw/Breeding_Book_Breitmail_2001.jpg)
 
-< figcaption>
+<figcaption>
 
 _Example of a studbook: The International Studbook for the White Rhino, 2001.
 
@@ -166,13 +166,13 @@ This approach was and remains populat among zoos in Germany and beyond. For some
 
 However, this change was not entirely voluntary: in 1973, after years of preparation and various drafts, the so-called Washington Convention on International Trade in Endangered Species (CITES) entered into force. It prohibits or regulates trade in endangered species, provided they are listed in one of the regularly revised appendices to the treaty. The treaty effectively ended the international commercial [[wholesale trade in zoo animals|story.catching-animals]] that had flourished until then. While non-protected birds and aquatic fauna could continue to be traded, this was (and is) largely no longer the case for mammals and large species, in particular. Rotterdam zoo director Dick van Dam emphasised the impact of the Convention on International Trade in Endangered Species in his presentation “The Future of Zoological Gardens” at the 1980 annual conference of the International Association of Zoo Directors. Van Dam called on zoos worldwide to make the breeding of endangered species one of their central tasks because the financial and legal difficulties in acquiring wild-caught animals had become too great. Only through breeding could zoos henceforth ensure the attractiveness of their own collections.[^20] In 1993, the Cologne zoo director Gunther Nogge confirmed that, after CITES, zoos focused much more on breeding since they had to become “self-supporting”.[^21]
 
-##Ex-situ breeding vs. in-situ species conservation programmes
+## Ex-situ Breeding vs. In-Situ Species Conservation Programmes
 
 Since the adoption of CITES, the dilemma in which Heinrich Dathe, Heinz-Georg Klös or Bernhard Grzimek still found themselves in the 1960s has been resolved: zoos can now no longer choose whether to buy individuals of sought-after species such as orangutans from the wild and thus contribute to the destruction of the species, or to refrain from showing the species. They are simply prohibited from purchasing wild-caught endangered species. At the same time, advances in wildlife biology have meant that many of the sought-after and endangered species can be kept and successfully bred in zoos with a longer lifespan. The crucial question zoos face today concerns the precise shape of their participation in global efforts to protect endangered species. Should they develop a genetically diverse ‘reserve population’ in their breeding programmes in order to be able to release them back into their original habitats? This would only be possible if man-made habitat loss is halted, or reversed through renaturation programmes. Or should they also actively advocate and promote species conservation programmes locally on-site?[^22]
 
 Virtually all zoos organised in the German, European and international zoo associations are committed to one form of species conservation, depending on their financial possibilities. In fact, the associations’ mission statements explicitly call on their members to do so. The Berlin Zoological Garden and the Berlin Zoo, for example, are involved in the breeding and reintroduction of bearded vultures, wisent and the Vietnam pheasant.[^23] The wisent project is supported by the Azerbaijani Ministry of Environment, WWF, EAZA and other local national partners. Here, animals from European zoos involved in the programme were acclimatised and cared for at Tierpark Berlin before, in 2019, being transported to the reintroduction centre in Shahdag National Park. Other examples of reintroduction programmes by member zoos of the German Association of Zoological Gardens include, in addition to the wisent, the European pond turtle, the Przewalski’s horse, the Ural owl, the Lear’s macaw, the Alpine ibex and the European hamster.[^24] Zoos also fund research projects and conservation reserves in some species’ regions of origin. But this involvement by European zoos can be problematic since it harbours the danger of perpetuating colonial patterns of thought and colonial dependencies.
 
-##Colonial heritage and patronising aid
+## Colonial Heritage and Patronising Aid
 
 The origins of the conservation movement and of national parks in particular lie in colonial hunting traditions and relations of domination.[^25] For example, the historian Bernhard Gißibl has explained in numerous contributions how ‘nature’ became a resource of [[German colonialism|material.the-german-colonial-hunting-exhibition]] that was to be both exploited and protected.[^26] Environmental historian Frank Uekötter traces this politicisation and economisation of nature using the example of the nature conservation movement of the [[1930s|story.the- zoo-and-national-socialism]]. He has investigated the roots of the German conservation movement in nationalist resentment, its impact on National Socialist ideology, and its consequences to the present day.[^27] The best-known representative of modern habitat conservation, Bernhard Grzimek, was implicated in these paradigms. We can see many examples in his work, such as when he advocated for the forcible expropriation of people to make space for nature reserves in the Serengeti.[^28] Colonial patterns prevail in modern species, too.[^29] Zoos worldwide – and especially those managed by former colonial powers– must therefore face the conflict-ridden legacy of modern concepts of species conservation. They will otherwise reproduce colonial structures through their conservation and research programmes.
 
@@ -182,7 +182,7 @@ The World Zoo Association notes in its 2015 World Conservation Strategy:
 
 However, the association has no control functions, and so it is up to the member zoos themselves to ensure equal participation of all stakeholders in the selection of conservation programmes and to respect the needs and strategies of local governmental and non-governmental organisations. Another difficult issue remains the selection of the species exhibited and bred.
 
-##What is worth protecting?
+## What is Worth Protecting?
 
 Since the 1930s, studbooks have been a proven form of species conservation in the context of zoos. However, virtually all species covered by studbooks were either mammals or those suitable for publicity as [[exhibits|theme.putting-animals-on-display]]. They were chosen because of their size and appearance, or because their endangered status was easily communicated. But what happens to endangered species that live in obscurity, are inconspicuous, are difficult to exhibit in zoos, yet are of great importance to their habitats?
 
