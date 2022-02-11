@@ -8,7 +8,7 @@ keywords: scarcity
 date_end: 1947-12-31T11:00:00.000Z
 published: false
 title: The Afterlife of Zoo Animals
-updated: 1644597330679
+updated: 1644601243590
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 doi: 64y2-m311/24
 translators:
@@ -135,7 +135,7 @@ At the same time, the afterlife of “Siam” reveals the [[gaps|story.untraceab
 
 [^5]: Cf. John Hagenbeck. _John Hagenbecks abenteuerliche Flucht aus Ceylon_. Leipzig: Deutsche Buchwerkstätten, 1917. Of the now extensive literature on the connection between zoological gardens and “Völkerschauen”, see, for example, Clemens Maier-Wolthausen. _Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos_. Berlin: Ch. Links Verlag, 2019; Utz Anhalt. “Tiere und Menschen als Exoten: Exotisierende Sichtweisen auf das ‘Andere’ in der Gründungs- und Entwicklungsphase der Zoos”. Dissertation, Gottfried Wilhelm Leibniz Universität, Hanover 2007; Oumar Diallo and Joachim Zeller. “Zoologischer Garten, Hardenbergplatz 8”. In _Berlin – Eine (post-)koloniale Metropole: Ein historisch-kritischer Stadtrundgang im Bezirk Mitte_, Farafina e.V. Berlin-Moabit (ed.). Berlin: Metropol-Verlag, 2021: 168–175; Lothar Dittrich and Annelore Rieke-Müller. _Carl Hagenbeck (1844-1913) Tierhandel und Schaustellungen im Deutschen Kaiserreich_. Frankfurt/M.: Peter Lang, 1998; Caroline Schmidt-Gross. “Tropenzauber um die Ecke: Völkerschauen bei Hagenbeck”. In _MenschenZoos: Schaufenster der Unmenschlichkeit_, Pascal Blanchard, et al. (eds.). Hamburg: Les éditions du Crieur Public, 2012: 172–178.
 
-[^6]: “‘Siam’ = 2,5 Millionen Kalorien”. _Die Neue Zeitung_, 22.03.1947. The lions then immediately had “their rations cut by the magistrate”, claimed the _Tagesspiegel_; cf. “Spinat oder Hirsche: Ein Frühlingsspaziergang durch den Berliner Zoo”. _Der Tagesspiegel_, 03.04.1947. Direct quotes had been translated into English for clarity’s sake.
+[^6]: “‘Siam’ = 2,5 Millionen Kalorien”. _Die Neue Zeitung_, 22.03.1947. The lions then immediately had “their rations cut by the magistrate”, claimed the _Tagesspiegel_; cf. “Spinat oder Hirsche: Ein Frühlingsspaziergang durch den Berliner Zoo”. _Der Tagesspiegel_, 03.04.1947. Direct quotes have been translated into English for clarity’s sake.
 
 [^7]: “‘Siam’ = 2,5 Millionen Kalorien”. _Die Neue Zeitung_, 22.03.1947.
 
