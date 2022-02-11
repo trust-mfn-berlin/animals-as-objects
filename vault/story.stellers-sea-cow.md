@@ -7,7 +7,7 @@ short_desc_de: Gejagt, entsorgt und wieder ausgegraben
 date_end: ""
 published: false
 title: Steller’s Sea Cow
-updated: 1644601226284
+updated: 1644601580935
 id: Q8UAdldubzw0uhkmmgER3
 doi: 64y2-m311/56
 translators:
@@ -52,7 +52,7 @@ Steller’s sea cow, a herbivorous ocean mammal of the North Pacific that weighe
 
 The first hunting expedition spent the winter of 1743/44 on Bering Island. By 1763, more fur hunters had made landfall on the island, where they mainly survived on cured sea cow meat. According to reports, the last specimen was probably killed on Bering Island in 1768. Numerous other species in the North Atlantic and Indian Ocean that had lived on islands at the periphery of early modern [[shipping routes|theme.logistical-metabolisms]] met a fate similar to that of the sea cow: they were hunted for trade, killed for food, and soon driven to extinction by humans. 
 
-The sea cow remains that could not be utilised stayed where they were and were rediscovered in the late 18th century, this time as exciting natural history finds. The hunt for the fossils of prehistoric lifeforms was now joined by the hunt for animals that had recently been driven to extinction by humans, for which the term ‘subfossils’ gained currency around 1860. The history of science scholar Irina Podgorny has examined this history of reutilisation.[^6] She shows how the remains of hunting and trade became collection items that were intensely coveted on the natural history market. For science, as we read in Podgorny, waste advanced to a new source of (natural) history. 
+The sea cow remains that could not be utilised stayed where they were and were rediscovered in the late 18th century, this time as exciting natural history finds. The hunt for the fossils of prehistoric lifeforms was now joined by the hunt for animals that had recently been driven to extinction by humans, for which the term ‘subfossils’ gained currency around 1860. Historian of science Irina Podgorny has examined this history of reutilisation.[^6] She shows how the remains of hunting and trade became collection items that were intensely coveted on the natural history market. For science, as we read in Podgorny, waste advanced to a new source of (natural) history. 
 
 ## Reconstructing Extermination
 
@@ -89,7 +89,7 @@ However, just like the original drawings,[^14] barely any material traces of Ste
 
 [^10]: See, e.g., Ryan Tucker Jones. _Empire of Extinction: Russians and the North Pacific’s Strange Beasts of the Sea, 1741-1867_. Oxford: Oxford University Press, 2014; Richard Ellis. _The Empty Ocean: Plundering the World’s Marine Life_. Washington D. C.: Island Press, 2003.
 
-[^11]: P. Kyne and V. Adams. “Extinct Flagships: Linking Extinct and Threatened Species”. _Oryx_ 51 , no. 3 (2017): 471-476. https://doi.org/10.1017/S0030605316000041.
+[^11]: P. Kyne and V. Adams. “Extinct Flagships: Linking Extinct and Threatened Species”. _Oryx_ 51, no. 3 (2017): 471-476. https://doi.org/10.1017/S0030605316000041.
 
 [^12]: Ursula K. Heise. _Nach der Natur: Das Artensterben und die moderne Kultur._ Berlin: Suhrkamp, 2010.
 
