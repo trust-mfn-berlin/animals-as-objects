@@ -5,7 +5,7 @@ desc: |-
   In many zoos, visitors once had the opportunity to have their photo taken
   with lion cubs. When did this motif emerge, and why has it disappeared from
   today's zoos?
-updated: 1644595911954
+updated: 1644596699235
 created: 1640340586550
 license: CC BY-SA
 title_de: Bilder mit Löwenbabys
@@ -357,7 +357,7 @@ _Kleiner Junge mit Löwenbaby im Jahr 1939 auf der Bank des Berliner Zoofotograf
 
 </figure>
 
-Vielen mag das Fotomotiv bekannt sein: Mann, Frau oder Kind mit jungem Löwen auf dem Schoß. Manchmal ist der Blick liebevoll oder ängstlich dem Tier zugewandt, manchmal unverwandt in die Kamera gerichtet. In anderen Aufnahmen geht der Blick der Abgebildeten aus dem Bild heraus, wie bei diesem Foto, das 1939 im Berliner Zoo aufgenommen wurde. In vielen Zoos konnte man sich mit einem Löwenjungen fotografieren lassen. Wann kam das Motiv auf und warum ist es heute aus den Zoos verschwunden? Was verraten solche Fotos über die [[Beziehung|story.feeding-prohibited]] zwischen Zoobesucher:innen und Löwenbabys? Welcher Umgang mit und welche Vorstellung von “‘wilden Tieren’ bilden sich in diesen Bildern ab und wie werden die Tiere überhaupt zu Bildobjekten? Und schließlich die Frage: Was ist das Tier hier – Raubtier, Zootier, Kuscheltier? Die Suche nach Antworten führt nicht nur in die Geschichte der Fotopraxis und der Zootierhaltung. Sie hängt auch eng mit sich wandelnden Politiken des Tierbildes zusammen. 
+Vielen mag das Fotomotiv bekannt sein: Mann, Frau oder Kind mit jungem Löwen auf dem Schoß. Manchmal ist der Blick liebevoll oder ängstlich dem Tier zugewandt, manchmal unverwandt in die Kamera gerichtet. In anderen Aufnahmen geht der Blick der Abgebildeten aus dem Bild heraus, wie bei diesem Foto, das 1939 im Berliner Zoo aufgenommen wurde. In vielen Zoos konnte man sich mit einem Löwenjungen fotografieren lassen. Wann kam das Motiv auf und warum ist es heute aus den Zoos verschwunden? Was verraten solche Fotos über die [[Beziehung|story.feeding-prohibited]] zwischen Zoobesucher:innen und Löwenbabys? Welcher Umgang mit und welche Vorstellung von ‘wilden Tieren’ bilden sich in diesen Bildern ab und wie werden die Tiere überhaupt zu Bildobjekten? Und schließlich die Frage: Was ist das Tier hier – Raubtier, Zootier, Kuscheltier? Die Suche nach Antworten führt nicht nur in die Geschichte der Fotopraxis und der Zootierhaltung. Sie hängt auch eng mit sich wandelnden Politiken des Tierbildes zusammen. 
  
 ## Kontaktzonen zwischen Tier und Mensch 
 
@@ -451,9 +451,7 @@ _In seinem Buch_ Mit Blitzlicht und Büchse _(Leipzig: Voigtländer, 1905) insze
 
 </figure>
  
-Der Löwe nahm in beiden Fällen die Rolle des [[charismatischen Tieres|story.Knut]] par excellence ein. Er war wildes Raubtier und koloniale Trophäe, das von einer kolonialen Bildsprache begleitet und von einem Männlichkeitsbild gerahmt wurde, das Figuren wie Schillings oder Schomburgk verkörperten.
-
-Wie hartnäckig sich dieses Bild hält, zeigen Sachbuchtitel wie _Bwana Simba – Der Herr der Löwen_ aus dem Jahr 2008.[^9] Schillings verarbeitete seine Afrikareisen zu Beginn des 20. Jahrhunderts in Büchern, die als Bestseller massenhaft Verbreitung fanden – allein _Mit Blitzlicht und Büchse_ aus dem Jahr 1905 mit Reproduktionen von über 300 seiner eigenen Tieraufnahmen erlebte innerhalb weniger Jahre mehrere Auflagen.[^10] Während dieser Titel noch die Gleichzeitigkeit von Großwild- und Fotojagd verrät, schlägt sich Grzimek 50 Jahre später bereits ganz auf die Seite der Bilder. 
+Der Löwe nahm in beiden Fällen die Rolle des [[charismatischen Tieres|story.Knut]] par excellence ein. Er war wildes Raubtier und koloniale Trophäe, das von einer kolonialen Bildsprache begleitet und von einem Männlichkeitsbild gerahmt wurde, das Figuren wie Schillings oder Schomburgk verkörperten. Wie hartnäckig sich dieses Bild hält, zeigen Sachbuchtitel wie _Bwana Simba – Der Herr der Löwen_ aus dem Jahr 2008.[^9] Schillings selbst verarbeitete seine Afrikareisen zu Beginn des 20. Jahrhunderts bereits in Büchern, die als Bestseller massenhaft Verbreitung fanden – allein _Mit Blitzlicht und Büchse_ aus dem Jahr 1905 mit Reproduktionen von über 300 seiner eigenen Tieraufnahmen erlebte innerhalb weniger Jahre mehrere Auflagen.[^10] Während dieser Titel noch die Gleichzeitigkeit von Großwild- und Fotojagd verrät, schlägt sich Grzimek 50 Jahre später bereits ganz auf die Seite der Bilder. 
  
 In der Erzählung der Rettung der Tiere rückten diese näher an den Menschen heran. Die Kinoleinwand war indes nicht unbedingt das Medium der Wahl, um Nähe zum Tier zu demonstrieren. In direkte Interaktion traten Mensch und Raubtier in den 1950er- und 60er Jahren vor allem vor der Fernsehkamera, die das Setting von der freien Wildbahn in den Zoo bzw. ins Fernsehstudio verlegte. In Sendungen wie dem _Tierparkteletreff_ und _Ein Platz für Tiere_ hielten, darauf weist Christina Wessely hin, die (weiterhin vornehmlich [[männlichen|material.katharina-heinroth]]) Zoodirektoren alle möglichen Zootiere auf dem Arm oder auf dem Schoß.[^11] 
  
@@ -533,7 +531,7 @@ Wie tief die Tiere in eine Waren- und Tauschökonomien eingespannt waren, zeigt 
  
 ## Kritik wird laut
 
-Genau diese Fragen brachten die Löwenbabyfotografien in den 1980er Jahren in die Kritik. Auf dem Schreibtisch der Zooverwaltung landeten in dieser Zeit merklich mehr Nachfragen und Beschwerden von Zoobesucher:innen und es ist wohl kein Zufall, dass dies in den Beginn der Umweltbewegung fällt. Den meisten Autor:innen ging es um die [[artgerechte Behandlung|theme.putting-animals-on-display]] der Tiere. Tierschützer:innen und Zoogäste prangerten nun zunehmend den Umgang mit den Foto-Löwen an. Die einen wollten wissen, woher die Tiere stammten, die anderen, wohin sie kämen, wenn sie aus dem ‘Kuschelalter’ herauswachsen und nicht mehr gebraucht würden.[^27] Mehrere Besucher:innen wollten außerdem bemerkt haben, dass die Löwen “apathisch mit Schlafzimmerblick herumlagen” und offensichtlich betäubt seien. Eine besonders engagierte Autorin drohte mit einer Meldung beim Tierschutzverein.[^28] Die Kritik zielte also auf die Haltungspraxis und hielt mit Vermutungen zum (schlechten) Umgang mit den Tieren nicht hinterm Berg. Gleichzeitig richtete sich die Kritik auf das Motiv selbst und führt damit zurück zur Politik der Bilder. Für “familienalbum-reife Aufnahmen” würde “der Löwe dem Kind als ein ‘Schoßhund’ dargestellt” – eine Verniedlichung der Tiere, die aus pädagogischen Gründen abzulehnen sei.[^29] Manche:r sah sich bei der Art von Fotos an die Praxis von “gedankenlosen, profitsüchtigen Photographen in einschlägigen Urlaubsländern” erinnert,[^30] andere gingen soweit, dem Fotografen eine kapitalistische ‘Ausbeutung der Tiere’ vorzuwerfen und stellten ihre Kritik dezidiert in einen größeren umweltschützerischen Kontext: 
+Genau diese Fragen brachten die Löwenbabyfotografien in den 1980er Jahren in die Kritik. Auf dem Schreibtisch der Zooverwaltung landeten in dieser Zeit merklich mehr Nachfragen und Beschwerden von Zoobesucher:innen und es ist wohl kein Zufall, dass dies in den Beginn der Umweltbewegung fällt. Den meisten Autor:innen ging es um die [[artgerechte Behandlung|theme.putting-animals-on-display]] der Tiere. Tierschützer:innen und Zoogäste prangerten nun zunehmend den Umgang mit den Foto-Löwen an. Die einen wollten wissen, woher die Tiere stammten, die anderen, wohin sie kämen, wenn sie aus dem ‘Kuschelalter’ herauswachsen und nicht mehr gebraucht würden.[^27] Mehrere Besucher:innen wollten außerdem bemerkt haben, dass die Löwen “apathisch mit Schlafzimmerblick herumlagen” und offensichtlich betäubt seien. Eine besonders engagierte Autorin drohte mit einer Meldung beim Tierschutzverein.[^28] Die Kritik zielte also auf die Haltungspraxis und hielt mit Vermutungen zum (schlechten) Umgang mit den Tieren nicht hinterm Berg. Gleichzeitig richtete sich die Kritik auf das Motiv selbst und führt damit zurück zur Politik der Bilder. Für “familienalbum-reife Aufnahmen” würde “der Löwe dem Kind als ein ‘Schoßhund’ dargestellt” – eine Verniedlichung der Tiere, die aus pädagogischen Gründen abzulehnen sei.[^29] Manche:r sah sich bei der Art von Fotos an die Praxis von “gedankenlosen, profitsüchtigen Photographen in einschlägigen Urlaubsländern” erinnert,[^30] andere gingen soweit, dem Fotografen eine kapitalistische “Ausbeutung der Tiere” vorzuwerfen und stellten ihre Kritik dezidiert in einen größeren umweltschützerischen Kontext: 
  
 >“Wir sind nun entsetzt, daß in unserem Zoo derartige Tierquälerei unter Ihren Augen stattfinden kann. Sollte es Ihrer Aufmerksamkeit entgangen sein, daß in der Bevölkerung ein Umdenken stattgefunden hat, daß sich mehr und mehr Menschen für die Kreatur und auch die Umwelt einsetzen?”[^31]
  
@@ -568,7 +566,7 @@ _1992 findet sich im Zooführer noch eine Werbeanzeige für Erinnerungsfotos mit
 </figure>
 
  
-Inzwischen ist jedoch auch er aus dem Zoo verschwunden. Was bleibt, ist eine Sammlung alter Bilder – auf Flohmärkten, in Archiven, auf eBay oder im privaten Familienalbum entdeckt man Löwenbabyfotos. Die Identitäten der Menschen und die Geschichten der Tiere auf diesen Fotos lässt sich selten rekonstruieren, wie bei diesem undatierten Foto aus dem Zoo Berlin:
+Inzwischen ist jedoch auch er aus dem Zoo verschwunden. Was bleibt, ist eine Sammlung alter Bilder – auf Flohmärkten, in Archiven, auf eBay oder im privaten Familienalbum entdeckt man Löwenbabyfotos. Die Identitäten der Menschen und die Geschichten der Tiere lässt sich selten rekonstruieren, wie bei diesem undatierten Foto aus dem Zoo Berlin:
 
 <figure>
 
@@ -594,7 +592,7 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^5]: Christina Wessely. _Löwenbaby_. Berlin: Matthes & Seitz, 2019.
 
-[^6]: Der Stand wechselte nach dem Krieg vom Platz neben dem Raubtierhaus zum Bärenzwinger, vgl. Katharina Heinroth. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege_, hg. vom Aktien-Verein des Zoologischen Gartens zu Berlin. Berlin 1956: 6.
+[^6]: Der Stand wechselte nach dem Krieg vom Platz neben dem Raubtierhaus zum Bärenzwinger, vgl. Katharina Heinroth. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege_, Aktien-Verein des Zoologischen Gartens zu Berlin (Hg.). Berlin 1956: 6.
 
 [^7]: Vinzenz Hediger. “Das Tier auf unserer Seite: Zur Politik des Filmtiers am Beispiel von ‘Serengeti darf nicht sterben’”. In _Politische Zoologie_. Anne von Heiden und Joseph Vogl (Hg.). Zürich/Berlin, 2007: 287-301. Ähnlich wie der Filmwissenschaftler Hediger argumentieren Historiker:innen wie Thomas M. Lekan, Angela Thompsell oder Bernhard Gißibl. Vgl. Thomas M. Lekan. _Our Gigantic Zoo: A German Quest to Save the Serengeti._ New York: Oxford University Press, 2020; Angela Thompsell. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015; Bernhard Gißibl. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. New York: Berghahn Books, 2016.
 
@@ -620,7 +618,7 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^18]: Ausgewachsene Löwen sind dagegen eher mit Wildnis und (kolonialer) Großwildjagd assoziiert werden.
 
-[^19]: Vgl. etwa Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1958_, hg. von Aktien-Verein des Zoologischen Gartens Berlin. Berlin 1958: 56.
+[^19]: Vgl. etwa Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1958_, Aktien-Verein des Zoologischen Gartens Berlin (Hg.). Berlin 1958: 56.
 
 [^20]: K. Heinroth an K.M. Schneider, 23.05.1951, AZGB O 0/1/284.
 
@@ -638,7 +636,7 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^27]: Laut der Direktion gab der Fotograf die herangewachsenen Löwenjungen an andere westdeutsche Tiergärten ab.
 
-[^28]: Vgl. etwa anonymes Schreiben an den Zoologischen Garten Berlin, 23.08.1989, AZGB O 0/1/9.
+[^28]: Vgl. etwa Anonymes Schreiben an den Zoologischen Garten Berlin, 23.08.1989, AZGB O 0/1/9.
 
 [^29]: Vgl. etwa B. Degenkolbe an den Zoologischen Garten Berlin, August 1987, AZGB O 0/1/9.
 
