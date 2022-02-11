@@ -5,7 +5,7 @@ desc: |-
   In many zoos, visitors once had the opportunity to have their photo taken
   with lion cubs. When did this motif emerge, and why has it disappeared from
   today's zoos?
-updated: 1643319413971
+updated: 1644595692741
 created: 1640340586550
 license: CC BY-SA
 title_de: Bilder mit Löwenbabys
@@ -281,7 +281,7 @@ What connects them is what stays the same, a motif that can be traced through a 
 
 [^6]: After the war, the booth moved from its site beside the predator enclosure to the bear enclosure. Cf. Katharina Heinroth. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege_, Aktien-Verein des Zoologischen Gartens zu Berlin (ed.). Berlin: 1956: 6.
 
-[^7]: Vinzenz Hediger. “Das Tier auf unserer Seite: Zur Politik des Filmtiers am Beispiel von ‘Serengeti darf nicht sterben’”. In Anne von Heiden und Joseph Vogl (eds.). _Politische Zoologie_. Zurich/Berlin: 2007: 287-301. Historians like Thomas M. Lekan, Angela Thompsell, and Bernhard Gißibl have made similar arguments to those of the film studies scholar Hediger. Cf. Thomas M. Lekan. _Our Gigantic Zoo: A German Quest to Save the Serengeti._ New York: Oxford University Press, 2020; Angela Thompsell. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015; Bernhard Gißibl. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. The Environment in History: International Perspectives, Volume 9. New York: Berghahn Books, 2016.
+[^7]: Vinzenz Hediger. “Das Tier auf unserer Seite: Zur Politik des Filmtiers am Beispiel von ‘Serengeti darf nicht sterben’”. In _Politische Zoologie_. Anne von Heiden und Joseph Vogl (eds.). Zurich/Berlin, 2007: 287-301. Historians like Thomas M. Lekan, Angela Thompsell, and Bernhard Gißibl have made similar arguments to those of the film studies scholar Hediger. Cf. Thomas M. Lekan. _Our Gigantic Zoo: A German Quest to Save the Serengeti._ New York: Oxford University Press, 2020; Angela Thompsell. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015; Bernhard Gißibl. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. The Environment in History: International Perspectives, Volume 9. New York: Berghahn Books, 2016.
 
 [^8]: It is part of the visual staging of many European big-game hunters to neither name local actors nor to give them an equal place in the image.
 
@@ -596,7 +596,7 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^6]: Der Stand wechselte nach dem Krieg vom Platz neben dem Raubtierhaus zum Bärenzwinger, vgl. Katharina Heinroth. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege_, hg. vom Aktien-Verein des Zoologischen Gartens zu Berlin. Berlin 1956: 6.
 
-[^7]: Vinzenz Hediger. “Das Tier auf unserer Seite: Zur Politik des Filmtiers am Beispiel von ‘Serengeti darf nicht sterben’”. In Anne von Heiden und Joseph Vogl (Hg.). _Politische Zoologie_. Zürich/Berlin 2007: 287-301. Ähnlich wie der Filmwissenschaftler Hediger argumentieren Historiker:innen wie Thomas M. Lekan, Angela Thompsell oder Bernhard Gißibl. Vgl. Thomas M. Lekan. _Our Gigantic Zoo: A German Quest to Save the Serengeti._ New York: Oxford University Press, 2020; Angela Thompsell. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015; Bernhard Gißibl. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. New York: Berghahn Books, 2016.
+[^7]: Vinzenz Hediger. “Das Tier auf unserer Seite: Zur Politik des Filmtiers am Beispiel von ‘Serengeti darf nicht sterben’”. In _Politische Zoologie_. Anne von Heiden und Joseph Vogl (Hg.). Zürich/Berlin, 2007: 287-301. Ähnlich wie der Filmwissenschaftler Hediger argumentieren Historiker:innen wie Thomas M. Lekan, Angela Thompsell oder Bernhard Gißibl. Vgl. Thomas M. Lekan. _Our Gigantic Zoo: A German Quest to Save the Serengeti._ New York: Oxford University Press, 2020; Angela Thompsell. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015; Bernhard Gißibl. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. New York: Berghahn Books, 2016.
 
 [^8]: Es gehört zur visuellen Inszenierung vieler europäischer Großwildjäger, lokale Akteure weder namentlich zu nennen noch ihnen einen ebenbürtigen Platz im Bild einzuräumen.
 
