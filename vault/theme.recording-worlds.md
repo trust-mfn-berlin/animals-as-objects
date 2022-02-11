@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: Recording Worlds
 title_de: Welt(en) verzeichnen
 created: 1630051088275
-author: Mareike Vennen, Filippo Bertoni
-short_desc_de: Naturkundliche Verzeichnungspraktiken und ihre transformative Kraft
-date_end: ""
-published: false
-title: Recording Worlds
 updated: 1644592850841
 id: 4r0yES2CMXdwBI2l8fYbZ
+author: Mareike Vennen, Filippo Bertoni
 doi: 64y2-m311/68
 translators:
   translator_en_de: Jan-Peter Herrmann
@@ -24,12 +21,16 @@ desc_de: Die Praxis des Verzeichnens spielt im naturkundlichen Sammeln eine
   und naturkundlichen Objekten Wert zugeschrieben wird. Sie beeinflussen
   maßgeblich die Art und Weise, wie wir die (naturkundliche) Welt ordnen und
   begreifen, befinden sich aber auch selbst beständig im Wandel.
-short_desc: Rrecording is a transformative process.
+short_desc: Recording is a transformative process.
+short_desc_de: Naturkundliche Verzeichnungspraktiken und ihre transformative Kraft
+keywords: coming soon…
 cover_image:
   image: /images/mfn-hbsb-zool-mus-s004-02-05-96.jpg
 colour_scheme: 9
 tao_type: theme
 date_start: 1810-01-02T17:28:39.000Z
+date_end: ""
+published: false
 ---
 
 
