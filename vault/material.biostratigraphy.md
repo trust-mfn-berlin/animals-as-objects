@@ -3,13 +3,13 @@ license: CC BY-SA
 title_de: Biostratigrafie
 created: 1618493136975
 author: Filippo Bertoni
-short_desc_de: Versteinerte Überreste von Organismen liefern Informationen
-  überunterirdische Sedimentschichten.
+short_desc_de: Versteinerte Überreste von Organismen liefern Informationen über
+  unterirdische Sedimentschichten.
 keywords: anthropocene
 date_end: 2022-12-07T19:31:17.935Z
 published: false
 title: Biostratigraphy
-updated: 1642848156353
+updated: 1644513729837
 id: f0ff8e4e-5bb8-4622-8d51-8da1cb651524
 doi: 64y2-m311/35
 translators:
@@ -17,8 +17,7 @@ translators:
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
 desc: Fossilised remains of organisms characterise underground layers (strata)
-desc_de: |-
-  Versteinerte Überreste von Organismen liefern Informationen über
+desc_de: Versteinerte Überreste von Organismen liefern Informationen über
   unterirdische Sedimentschichten (Strata)
 short_desc: Fossilised remains of organisms characterise underground layers.
 cover_image:
@@ -48,7 +47,7 @@ Biostratigraphy is the use of fossil assemblages to correlate and age rock strat
 
 <figcaption>
 
-_A video explaining the history of geology and our understanding of deep time, mainly thanks to biostratigraphy. (Source PBS Eons/YouTube)_
+_A video explaining the history of geology and our understanding of deep time, mainly thanks to biostratigraphy. (Source: PBS Eons/YouTube)_
 
 </figcaption>
 
@@ -72,6 +71,6 @@ Die Biostratigrafie nutzt Fossilanhäufungen zur Korrelierung und Altersbestimmu
 
 <figcaption>
 
-_Ein Video, das die Geschichte der Geologie und unser Verständnis der Tiefenzeit (Deep Time) erklärt, vor allem dank der Biostratigrafie. (Source PBS Eons/YouTube)_
+_Ein Video, das die Geschichte der Geologie und unser Verständnis der Tiefenzeit (Deep Time) erklärt, vor allem dank der Biostratigrafie. (Quelle: PBS Eons/YouTube)_
 
 </figcaption>

@@ -7,7 +7,7 @@ short_desc_de: Wer (über)füttert im Zoo?
 date_end: 1960-12-31T11:00:00.000Z
 published: false
 title: Feeding and Overfeeding
-updated: 1643323044833
+updated: 1644517137580
 id: dfe31be6-b21f-496f-af23-70f225c0616c
 doi: 64y2-m311/25
 translators:
@@ -161,7 +161,7 @@ Da Europäer:innen im 19. Jahrhundert häufig nur vermuten konnte, wie sich Wild
 
 ## Gutes Füttern, schlechtes Füttern?
 
-Die Besucher:innen der zoologischen Gärten waren von Anfang an Teil des Fütterungs-Komplexes. **Seit ihrer Einrichtung war es in öffentlichen deutschen Tiergärten grundsätzlich erlaubt, die Tiere mit mitgebrachtem oder auf dem Tiergartengelände erworbenen Futter zu füttern.** Das Füttern bot den Besucher:innen eine Möglichkeit zur [[direkten Kontaktaufnahme|story.photos-with-lion-cubs]] mit den Tieren. Das Phänomen der falschen und übermäßigen Fütterung war daher von Anfang Teil und Problem zoologischer Gärten. Bereits 1872 bemerkte der Naturkundler und Schriftsteller Gustav Jäger:
+Die Besucher:innen der zoologischen Gärten waren von Anfang an Teil des Fütterungs-Komplexes. **Seit ihrer Einrichtung war es in öffentlichen deutschen Tiergärten grundsätzlich erlaubt, die Tiere mit mitgebrachtem oder auf dem Tiergartengelände erworbenen Futter zu füttern.** Das Füttern bot den Besucher:innen eine Möglichkeit zur [[direkten Kontaktaufnahme|story.photos-with-lion-cubs]] mit den Tieren. Das Phänomen der falschen und übermäßigen Fütterung war daher schon früh Teil und Problem zoologischer Gärten. Bereits 1872 bemerkte der Naturkundler und Schriftsteller Gustav Jäger:
 
 >“Am meisten ergötzte mich die Beharrlichkeit, mit der den Seehunden Milchbrote und Semmeln vorgeworfen wurden, so daß man oft an einem Tage einen ganzen Wassereimer voll vom Teiche abschöpfen konnte, und erst eine Tafel mit der Aufschrift: ‘Der Seehund frißt Fische und kein Brot’ war im Stande, die mehlspeisliebenden Wiener Kinder auf den Gedanken zu bringen, daß an der Küste der Ost- und Nordsee keine Milchbrote und Semmeln auf dem Wasser umherschwimmen.”[^8]
 
