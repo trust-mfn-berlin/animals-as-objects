@@ -5,7 +5,7 @@ desc: |-
   In many zoos, visitors once had the opportunity to have their photo taken
   with lion cubs. When did this motif emerge, and why has it disappeared from
   today's zoos?
-updated: 1644595692741
+updated: 1644595911954
 created: 1640340586550
 license: CC BY-SA
 title_de: Bilder mit Löwenbabys
@@ -139,7 +139,7 @@ _In his book_ Mit Blitzlicht und Büchse _(With Flash and Rifle. Leipzig: Voigtl
 
 In both cases, the lion played the role of the [[charismatic animal|story.Knut]] par excellence. It was the wild predator and colonial trophy accompanied by colonial iconography and framed by the idea of masculinity embodied by figures like Schillings and Schomburgk.
 
-The persistence of this idea is demonstrated by nonfiction volumes like _Bwana Simba – Der Herr der Löwen_ (Bwana Simba – The Lord of the Lions) from 2008.[^9] Schillings documented the journeys he had taken to Africa at the beginning of the 20th century in books that were widely disseminated – the 1905 _Mit Blitzlicht und Büchse_ alone, with reproductions of over 300 of his own animal photographs, was reprinted several times within the space of just a few years.[^10] While these volumes still reveal the concurrence of big-game hunting and photo shooting, Grizmek was already completely on the side of photography 50 years later. 
+The persistence of this idea is demonstrated by nonfiction volumes like _Bwana Simba – Der Herr der Löwen_ (Bwana Simba – The Lord of the Lions) from 2008.[^9] Schillings himself already documented the journeys he had taken to Africa at the beginning of the 20th century in books that were widely disseminated – the 1905 _Mit Blitzlicht und Büchse_ alone, with reproductions of over 300 of his own animal photographs, was reprinted several times within the space of just a few years.[^10] While these volumes still reveal the concurrence of big-game hunting and photo shooting, Grizmek was already completely on the side of photography 50 years later. 
  
 In his story of saving animals, animals came closer to humans, both physically and in the cultural imaginary. However, the cinema screen was not necessarily the medium of choice when it came to demonstrating closeness between humans and animals. In the 1950s and 1960s, humans and predators primarily met above all in front of the television camera, which shifted the setting from the wild to the zoo or the TV studio. In programmes like _Tierparkteletreff_ (Zoo Club) und _Ein Platz für Tiere_ (A Place for Animals), the (still [[predominantly male|material.katharina-heinroth]]) zoo directors held all kinds of animals in their arms or on their laps, as Christina Wessely writes.[^11]  
 
@@ -271,7 +271,7 @@ What connects them is what stays the same, a motif that can be traced through a 
  
 [^1]: See the Zoo Guides of 1936, 1938, and 1940; see also Ludwig Heck. “Zootiere einst und jetzt”, January 1934, AZGB N 1/7. I am unaware of when exactly the photo booth at Berlin Zoo was opened. 
 
-[^2]: Hildegard Zukowsky. “Löwenprinzchen”. _CHITuMW_ 1, no. 6 (1926): 132-134, quoted in: Nastasja Klothmann. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 291.
+[^2]: Hildegard Zukowsky. “Löwenprinzchen”. _CHITuMW_ 1, no. 6 (1926): 132-134, quoted in: Nastasja Klothmann. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 291. Direct quotes had been translated into English for clarity’s sake.
 
 [^3]: Each zoo dealt with the permission to take photos differently. While visitors in Leipzig, Halle, Berlin, and Vienna had to purchase a permit, visitors to other zoos could take photos free of charge. Cf. 40. Konferenz der Direktoren mitteleuropäischer Zoologischer Gärten in Breslau vom 23. bis 25. August 1928, AZGB V 1/10.
 
@@ -281,7 +281,7 @@ What connects them is what stays the same, a motif that can be traced through a 
 
 [^6]: After the war, the booth moved from its site beside the predator enclosure to the bear enclosure. Cf. Katharina Heinroth. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege_, Aktien-Verein des Zoologischen Gartens zu Berlin (ed.). Berlin: 1956: 6.
 
-[^7]: Vinzenz Hediger. “Das Tier auf unserer Seite: Zur Politik des Filmtiers am Beispiel von ‘Serengeti darf nicht sterben’”. In _Politische Zoologie_. Anne von Heiden und Joseph Vogl (eds.). Zurich/Berlin, 2007: 287-301. Historians like Thomas M. Lekan, Angela Thompsell, and Bernhard Gißibl have made similar arguments to those of the film studies scholar Hediger. Cf. Thomas M. Lekan. _Our Gigantic Zoo: A German Quest to Save the Serengeti._ New York: Oxford University Press, 2020; Angela Thompsell. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015; Bernhard Gißibl. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. The Environment in History: International Perspectives, Volume 9. New York: Berghahn Books, 2016.
+[^7]: Vinzenz Hediger. “Das Tier auf unserer Seite: Zur Politik des Filmtiers am Beispiel von ‘Serengeti darf nicht sterben’”. In _Politische Zoologie_. Anne von Heiden und Joseph Vogl (eds.). Zurich/Berlin, 2007: 287-301. Historians like Thomas M. Lekan, Angela Thompsell, and Bernhard Gißibl have made similar arguments. Cf. Thomas M. Lekan. _Our Gigantic Zoo: A German Quest to Save the Serengeti._ New York: Oxford University Press, 2020; Angela Thompsell. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015; Bernhard Gißibl. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. The Environment in History: International Perspectives, Volume 9. New York: Berghahn Books, 2016.
 
 [^8]: It is part of the visual staging of many European big-game hunters to neither name local actors nor to give them an equal place in the image.
 
