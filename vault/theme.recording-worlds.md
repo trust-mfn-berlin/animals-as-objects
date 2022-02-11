@@ -7,7 +7,7 @@ short_desc_de: Naturkundliche Verzeichnungspraktiken und ihre transformative Kra
 date_end: ""
 published: false
 title: Recording Worlds
-updated: 1643323242440
+updated: 1644592850841
 id: 4r0yES2CMXdwBI2l8fYbZ
 doi: 64y2-m311/68
 translators:
@@ -115,7 +115,7 @@ It further shows that practices of record-keeping in natural history collections
 
 [^5]: Historians of science have recently shown how record-keeping in natural history developed from earlier bureaucratic bookkeeping practices; and how they inherited and shaped forms of governance, like accounting practices and their moral economies and epistemic virtues: Anke te Heesen. “Accounting for the Natural World: Double-Entry Bookkeeping in the Field”. In _Colonial Botany: Science, Commerce, and Politics in the Early Modern World_, L. Schiebinger and C. Swan (eds.). Philadelphia: University of Pennsylvania Press, 2005: 237-251. 
 
-[^6]: Anne MacKinney has analysed the early work of record-keeping in the Zoological Museum. Anne MacKinney. “Objekte und Objektverzeichnisse in naturkundlicher Sammelpraxis: Das Beispiel des Berliner Zoologischen Museums von 1810 bis etwa 1850”. In _Materielle Kultur in universitären und außeruniversitären Sammlungen_. Gesellschaft für Universitätssammlungen (ed.). Berlin: Humboldt-Universität zu Berlin, 2017: 23-28. https://doi.org/10.18452/18536. James Delbourgo studied the case of Hans Sloane, see James Delbourgo. _Collecting the World: Hans Sloane and the Origins of the British Museum_. Cambridge: The Belknap Press of Harvard University Press, 2017.
+[^6]: Lukas Rieppel. _Assembling the Dinosaur: Fossil Hunters, Tycoons, and the Making of a Spectacle_. Cambridge: Harvard University Press, 2019. Anne MacKinney has analysed the early work of record-keeping in the Zoological Museum. Anne MacKinney. “Objekte und Objektverzeichnisse in naturkundlicher Sammelpraxis: Das Beispiel des Berliner Zoologischen Museums von 1810 bis etwa 1850”. In _Materielle Kultur in universitären und außeruniversitären Sammlungen_. Gesellschaft für Universitätssammlungen (ed.). Berlin: Humboldt-Universität zu Berlin, 2017: 23-28. https://doi.org/10.18452/18536. James Delbourgo studied the case of Hans Sloane, see James Delbourgo. _Collecting the World: Hans Sloane and the Origins of the British Museum_. Cambridge: The Belknap Press of Harvard University Press, 2017.
 
 [^7]: Many natural history museums therefore began writing their own manuals for collectors in the field, which contained precise instructions about how to write labels and waybills, for instance, by providing information about the collector, where the animal had been found, and on which date.
 
@@ -204,7 +204,7 @@ Die Praktiken des Verzeichnens in naturkundlichen Sammlungen können, das zeigt 
 
 [^5]: Wissenschaftshistoriker:innen haben kürzlich gezeigt, wie sich das Verzeichnen in der Naturkunde aus früheren administrativen Buchführungspraktiken entwickelte und wie sowohl ältere Formen übernommen als auch neue geschaffen wurden, darunter Buchführungsmethoden einschließlich der jeweiligen entsprechenden moralischen Ökonomien und epistemischen Tugenden: Anke te Heesen. “Accounting for the Natural World: Double-Entry Bookkeeping in the Field”. In _Colonial Botany: Science, Commerce, and Politics in the Early Modern World_. L. Schiebinger und C. Swan (Hg.). Philadelphia: University of Pennsylvania Press, 2005: 237-251. 
 
-[^6]: Anne MacKinney hat die Anfänge der Bestandserfassung und -verzeichnisse am Zoologischen Museum analysiert: Anne MacKinney. “Objekte und Objektverzeichnisse in naturkundlicher Sammelpraxis: Das Beispiel des Berliner Zoologischen Museums von 1810 bis etwa 1850”. In _Materielle Kultur in universitären und außeruniversitären Sammlungen_. Gesellschaft für Universitätssammlungen (Hg.). Berlin: Humboldt-Universität zu Berlin, 2017: 23-28. https://doi.org/10.18452/18536. Für den Fall Hans Sloane und die Anfänge des British Museum (Natural History) vgl. James Delbourgo. _Collecting the World: Hans Sloane and the Origins of the British Museum_. Cambridge: The Belknap Press of Harvard University Press, 2017.
+[^6]: Lukas Rieppel. _Assembling the Dinosaur: Fossil Hunters, Tycoons, and the Making of a Spectacle_. Anne MacKinney hat die Anfänge der Bestandserfassung und -verzeichnisse am Zoologischen Museum analysiert: Anne MacKinney. “Objekte und Objektverzeichnisse in naturkundlicher Sammelpraxis: Das Beispiel des Berliner Zoologischen Museums von 1810 bis etwa 1850”. In _Materielle Kultur in universitären und außeruniversitären Sammlungen_. Gesellschaft für Universitätssammlungen (Hg.). Berlin: Humboldt-Universität zu Berlin, 2017: 23-28. https://doi.org/10.18452/18536. Für den Fall Hans Sloane und die Anfänge des British Museum (Natural History) vgl. James Delbourgo. _Collecting the World: Hans Sloane and the Origins of the British Museum_. Cambridge: The Belknap Press of Harvard University Press, 2017.
 
 [^7]: Viele naturkundliche Museen begannen fortan, ihre eigenen Leitfäden für Sammler:innen im Feld zu verfassen mit präzisen Anleitungen für die Beschriftung von Etiketten und Frachtbriefen, samt der Aufforderung zu möglichst genauen Angaben über den/die Sammler:in und wo und wann das Tier gesammelt wurde.  
 
