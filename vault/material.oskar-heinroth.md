@@ -11,9 +11,9 @@ translators:
   translator_de_en: ""
 copy_editors:
   copy_editor_en: Carla Welch
-desc: Founder of Ethology
+desc: Founder of Behavioural Science
 desc_de: Begründer der Verhaltenskunde
-short_desc: Founder of Ethology
+short_desc: Founder of Behavioural Science
 short_desc_de: Begründer der Verhaltenskunde
 keywords: coming soon…
 cover_image:
