@@ -11,9 +11,9 @@ translators:
   translator_de_en: ""
 copy_editors:
   copy_editor_en: Carla Welch
-desc: All Birds from Europe
+desc: All Birds of Europe
 desc_de: Alle Vögel Europas
-short_desc: All Birds from Europe
+short_desc: All Birds of Europe
 short_desc_de: Alle Vögel Europas
 keywords: coming soon…
 cover_image:
