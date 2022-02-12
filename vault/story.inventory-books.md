@@ -7,7 +7,7 @@ short_desc_de: Wie werden die Objekte einer Lehrsammlung verzeichnet?
 date_end: 1968-12-31T11:00:00.000Z
 published: false
 title: Inventory Books
-updated: 1644700377177
+updated: 1644700474623
 id: kZTLAIf7pRRgEPPJbtGqA
 doi: 64y2-m311/44
 translators:
@@ -71,7 +71,7 @@ _This page from inventory book V(1) records specimens 1201 to 1216. (Zoological 
 
 </figure>
 
-In its function as a catalogue of new arrivals, inventory book V(1) documented item acquisitions and offered, in the column ‘paid’ for example, an overview of the collection’s annual financial expenses. Entry registers like this were common in other collections of the time; however, there was usually a separation between the first record of arriving items and further inventories, i.e., they were organised in two separate lists. The inventories of the teaching collection appear here in a hybrid format that followed an unconventional, internal logic.
+In its function as a catalogue of new arrivals, inventory book V(1) documented item acquisitions and offered, in the column ‘paid’, for example, an overview of the collection’s annual financial expenses. Entry registers like this were common in other collections of the time; however, there was usually a separation between the first record of arriving items and further inventories, i.e., they were organised in two separate lists. The inventories of the teaching collection appear here in a hybrid format that followed an unconventional, internal logic.
 
 These adaptations derived from the specific character of the teaching collection, which means that the catalogues had a functional relationship with the objects. **Specimen records had to reflect the practical use of the objects as teaching materials.** The fact that these records were kept for a specific purpose can be seen not just in the type of information contained in the book but also in the choice of cataloguing media. On the level of the content of the knowledge noted down, we can surmise that the category [[‘location’|material.purchased-from-a-caravan]] contains information that reflects the general occurrence of the animal in question. While ‘Africa’, for example, is entered for the taxidermy of a grey parrot (_Psittacus erithacus_ L.) in the teaching collection, thereby referring to the species’ distribution, in the [[scientific collection|story.keeping-records-of-animals]] of the Zoological Museum, it was important to have precise information about where the specific specimen had been found. This characteristic points to the profile of the teaching collection, whose tasks and organisational logic were different to those of a collection with a research character.
 
@@ -155,7 +155,7 @@ _Entry number 1208 in inventory book V(1) contains the first record of the grey 
 
 </figure>
 
-This is the first time that the orientation towards certain classification standards and a new taxonomic systematics becomes visible here in the inventory book itself as a component of the recording-keeping process. This process continuously put the specimens into new orders and contexts of meaning, and made it possible to count and circulate them.[^6] **The inventory book was a tool for collection managers that reflected the struggle to find consistent and effective forms of record-keeping, which, however, it also influenced.**[^7] Attempts to adapt the inventory books accordingly clearly failed, as the graphic and systematic restructuring of the cataloguing process in inventory book VII was only carried out over a few pages and was not completed.
+This is the first time that the orientation towards certain classification standards and a new taxonomic systematics becomes visible here in the inventory book itself as a component of the record-keeping process. This process continuously put the specimens into new orders and contexts of meaning, and made it possible to count and circulate them.[^6] **The inventory book was a tool for collection managers that reflected the struggle to find consistent and effective forms of record-keeping, which, however, it also influenced.**[^7] Attempts to adapt the inventory books accordingly clearly failed, as the graphic and systematic restructuring of the cataloguing process in inventory book VII was only carried out over a few pages and was not completed.
 
 Inventory book VII is testament to this development and was also shaped by further changes to the format and the systematics of cataloguing. Numbering was no longer guided by a chronological listing of object arrivals, but ordered specimens by their taxonomic ‘class’ (fish, amphibians, reptiles etc.). All of this ultimately resulted in a list structure that can be identified as a transcription of the entries in inventory book V.[^8] The organisation of the collection seemed to have returned to the first form of record-keeping, the list.
 
