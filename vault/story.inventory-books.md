@@ -7,7 +7,7 @@ short_desc_de: Wie werden die Objekte einer Lehrsammlung verzeichnet?
 date_end: 1968-12-31T11:00:00.000Z
 published: false
 title: Inventory Books
-updated: 1643301367297
+updated: 1644700377177
 id: kZTLAIf7pRRgEPPJbtGqA
 doi: 64y2-m311/44
 translators:
@@ -173,7 +173,7 @@ _This page from inventory book VII shows how species were grouped into animal cl
 
 Like the collection items themselves, the inventories show signs of wear and tear. The pages in inventory book V display colour codes, deletions, and notes made in pencil. These were added after the fact and thus were not part of the originally intended practice of record-keeping. The additions were probably made when the specific pieces of information were being transferred to inventory book VII. The annotations overlap and emphasise the various temporal layers. It is precisely for this reason that they are confusing to outside ‘readers’ and new collection employees. **Decoding and correctly classifying historical objects is like performing detective work that, despite meticulously comparing various entries, numbers, and handwriting, only seldom leads to a precise conclusion.** 
 
-Marks with crosses, circles, and dots beside entries in inventory book V probably stand for ‘preserved’ or ‘lost’. The records were transferred to catalogue VII accordingly. _Acanthias vulgaris_ Risso has been noted with its old name under 1208.
+Crosses, circles, and dots beside entries in inventory book V probably stand for ‘preserved’ or ‘lost’. The records were transferred to catalogue VII accordingly. _Acanthias vulgaris_ Risso was thus recorded under the number 1208 using its old designation..
 
 <figure>
 
