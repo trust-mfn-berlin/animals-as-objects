@@ -1,25 +1,28 @@
 ---
 license: CC BY-SA
+title: Purchased from a Caravan
 title_de: Von einer Karawane gekauft
 created: 1640456449013
-author: Catarina Madruga
-short_desc_de: Geschichten, die uns Tierschädel erzählen
-date_end: ""
-published: false
-title: Purchased from a Caravan
 updated: 1644602189059
 id: VzxTWqgWM3FzLdS5Z2DUO
+author: Catarina Madruga
 doi: 64y2-m311/58
 translators:
   translator_en_de: Jan-Peter Herrmann
 desc: Animal skulls tell a story
 desc_de: Geschichten, die uns Tierschädel erzählen
 short_desc: Animal skulls tell a story
+short_desc_de: Geschichten, die uns Tierschädel erzählen
+keywords: Schädel Antilope Peters koloni* Lichtenstein sansibar Lindi Tansan*
+  Provenienz Reimer Neumann sammeln skull antilope peters coloni* lichtenstein
+  zanzibar lindi tanzan* provenance reimer neumann collect
 cover_image:
   image: /images/purchased-from-a-caravan-1.jpg
 colour_scheme: 14
 tao_type: material
 date_start: 1938-01-01T19:53:00.000Z
+date_end: ""
+published: false
 ---
 
 :::EN:::
