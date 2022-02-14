@@ -24,6 +24,10 @@ desc_de: |-
   bestimmten Vermittlungsformen beruht.
 short_desc: The observation of microorganisms depends on a variety of media and tools
 short_desc_de: Werkzeuge zur Beobachtung von Mikroorganismen
+keywords: mikro* instrument* technolog* cycladophora wahrnehm* dokument* labor
+  verzeichn* ehrenberg grönland taxonom* planet*  micro* instrument* technolog*
+  cycladophora perception document* labor* record* ehrenberg greenland taxonom*
+  planet*
 cover_image:
   image: /images/microscopicmedia.jpg
 colour_scheme: 8
