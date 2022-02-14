@@ -13,6 +13,8 @@ desc: The ‘baby animal zoo’
 desc_de: Tierkinderzoo mit Raubtieren
 short_desc: The ‘baby animal zoo’
 short_desc_de: Tierkinderzoo mit Raubtieren
+keywords: gepard ziege* lamm schaf streichel* haustier* löwe* Ruhe cheetah goat
+  lamb touch lion Ruhe
 cover_image:
   image: /images/cover-tierkindergarten_1930er.jpg
 colour_scheme: 11
