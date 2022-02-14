@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: How Do Animals End Up in the Zoo?
 title_de: Wie kommen Tiere in den Zoo?
 created: 1618498026144
-author: Clemens Maier-Wolthausen
-short_desc_de: Politische, logistische und moralische Herausforderungen
-date_end: 2022-01-23T13:55:36.735Z
-published: false
-title: How Do Animals End Up in the Zoo?
 updated: 1643304181764
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
+author: Clemens Maier-Wolthausen
 doi: 64y2-m311/14
 translators:
   translator_de_en: ""
@@ -23,6 +20,12 @@ desc_de: Lebende Tiere für die Sammlungen des Zoologischen Gartens, des
   Herausforderungen für diese Einrichtungen – politische, logistische und
   moralische.
 short_desc: Political, logistical, and moral challenges
+short_desc_de: Politische, logistische und moralische Herausforderungen
+keywords: Koloni* Provenienz Jagd Elefant Löwe Panda China Handel Hagenbeck
+  Jamrach Reiche Giraffe DDR Krieg New York Pfeilschwanzkrebs Flusspferd
+  Nilpferd Knautschke Qualle Siam coloni* provenance hunt elephant lion panda
+  china trade hagenbeck jamrach Reiche giraffe GDR War New York horseshoe crab
+  hippo knautschke jellyfish Siam
 cover_image:
   image: /images/cover-getting-animals.jpg
   alt: |-
@@ -32,6 +35,8 @@ cover_image:
 colour_scheme: 8
 tao_type: theme
 date_start: 1844-01-01T23:50:39.000Z
+date_end: 2022-01-23T13:55:36.735Z
+published: false
 ---
 
 :::EN:::
