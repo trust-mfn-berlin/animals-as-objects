@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: Steller’s Sea Cow
 title_de: Stellers Seekuh
 created: 1640333284998
-author: Mareike Vennen
-short_desc_de: Gejagt, entsorgt und wieder ausgegraben
-date_end: ""
-published: false
-title: Steller’s Sea Cow
 updated: 1644601580935
 id: Q8UAdldubzw0uhkmmgER3
+author: Mareike Vennen
 doi: 64y2-m311/56
 translators:
   translator_de_en: Lydia J. White
@@ -19,11 +16,19 @@ desc_de: Im 18. Jahrhundert durch Jagd ausgerottet, im 19. Jahrhundert zum
   begehrten Sammlungsobjekt avanciert, im 21. Jahrhundert zu einer Ikone des
   Anthropozän erklärt.
 short_desc: Hunted, discarded, rediscovered
+short_desc_de: Gejagt, entsorgt und wieder ausgegraben
+keywords: Matschie aussterb* ausgestorb* ausrott* Baer pazifik meer ozean
+  steller Kamtschatka bering expedition* seeotter handel ökonom* kapital* jagd
+  jäger petersburg dodo beutelwolf wandertaube schädel  matschie extinct
+  exterminat* baer pacific ocean steller Kamchatka bering expedition otter trade
+  econom* capital* hunt* petersburg dodo wolf pigeon skull
 cover_image:
   image: /images/cover-story-stellers-seacow-pallas.jpg
 colour_scheme: 12
 tao_type: story
 date_start: 1741-12-24T09:16:39.000Z
+date_end: ""
+published: false
 ---
   
 :::EN:::
