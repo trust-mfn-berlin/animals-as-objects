@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Zoos and Conservation
 title_de: Zoos und Artenschutz
 created: 1618994200982
-updated: 1644603520546
+updated: 1644872924960
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/75
@@ -408,7 +408,7 @@ _Beispiel eines Zuchtbuchs: Das Internationale Zuchtbuch für das Breitmaulnasho
 
 Es ist offensichtlich, dass sich eine Lesart des Artenschutzes durchsetzte, die den Aufbau einer in menschlicher Obhut gehaltenen Reservepopulation favorisierte. Einer ihrer nach wie vor einflussreichsten Verfechter war Heinrich Dathe. Als der Internationale Zoodirektorenverband 1973 in Japan tagte, meldete er sich mit dem Vortrag “Remarks to Zoological Gardens as important places for conservation and breeding of threatened species” an.[^18] Der Vortrag selbst ist nicht überliefert, am Titel wird aber deutlich, dass Heinrich Dathe für seine Vorstellung von Artenschutz durch die Erhaltungszucht in Zoos werben wollte.
 
-Dieser Ansatz war und ist unter Zoos in Deutschland und der Welt anschlussfähig und wird seit einigen Jahren auch durch digitalen Datenaustausch über die Plattform [[material.species360]] unterstützt. Die über viele Jahrzehnte gedruckten Zuchtbücher wurden somit abgelöst. Die meisten Nachzucht- oder Erhaltungszuchtprogramme in europäischen Zoos werden seit einigen Jahrzehnten im Rahmen des europäischen Zooverbandes (European Association of Zoos and Aquariums/ EAZA) als sogenannte EEPs (EAZA Ex-situ Program – also Zuchtprogramme in menschlicher Obhut) organisiert.
+Dieser Ansatz war und ist unter Zoos in Deutschland und der Welt anschlussfähig und wird seit einigen Jahren auch durch digitalen Datenaustausch über die Plattform [[material.species360]] unterstützt. Die über viele Jahrzehnte gedruckten Zuchtbücher wurden somit abgelöst. Die meisten Nachzucht- oder Erhaltungszuchtprogramme in europäischen Zoos werden seit einigen Jahrzehnten im Rahmen des europäischen Zooverbandes (European Association of Zoos and Aquariums/EAZA) als sogenannte EEPs (EAZA Ex-situ Program – also Zuchtprogramme in menschlicher Obhut) organisiert.
 
 Ganz freiwillig war diese Umstellung allerdings nicht: 1973 trat nach Jahren der Vorbereitung und verschiedener Entwurfsvorlagen das sogenannte Washingtoner Artenschutzabkommen in Kraft. Es verbietet oder reguliert den Handel mit gefährdeten Arten, sofern sie in einem der regelmäßig überarbeiteten Anhänge des Abkommens aufgeführt sind. Das Abkommen beendete quasi den bis dahin florierenden internationalen, kommerziellen [[Großhandel mit Zootieren|story.catching-animals]]. Während nicht geschützte Vögel und Wasserfauna weiterhin gehandelt werden konnten, galt (und gilt) dies für Säugetiere und insbesondere große Spezies weitgehend nicht mehr. Welche Auswirkungen das Artenschutzabkommen haben würde, machte der Rotterdamer Zoodirektor Dick van Dam auf der Jahreskonferenz 1980 des internationalen Verbandes der Zoodirektoren in seinem Vortrag “The Future of Zoological Gardens” deutlich. Van Dam forderte die Zoos weltweit auf, die Zucht bedrohter Tierarten zu einer ihrer zentralen Aufgaben zu machen, da die finanziellen und legalen Schwierigkeiten beim Erwerb von Wildfängen zu groß geworden seien. Nur durch Zucht könnten Zoos fortan die Attraktivität der eigenen Sammlung sichern.[^19] 1993 bestätigte der Kölner Zoodirektor Gunther Nogge, dass sich Zoos nach dem Washingtoner Artenschutzabkommen viel stärker auf die Zucht konzentrierten, da sie zu “Selbstversorgern” werden mussten.[^20]
 
