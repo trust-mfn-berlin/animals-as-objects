@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: Silkworms
 title_de: Seidenraupen
 created: 1629986374819
-author: Britta Lange
-short_desc_de: Spuren von Bäumen und Tieren in Berlin
-date_end: 2022-08-26T14:37:08.305Z
-published: false
-title: Silkworms
 updated: 1644699974304
 id: GDcruELihUsAdF7btC6KD
+author: Britta Lange
 doi: 64y2-m311/47
 translators:
   translator_de_en: Lydia J. White
@@ -24,6 +21,12 @@ desc_de: Warum gibt es in Berlin Maulbeerbäume? Ihre Geschichte ist heute fast
   Seidenraupe, von Philosophie und Ökonomie, von königlichen Dekreten und
   Alltagswissen?
 short_desc: The traces of trees and animals in Berlin
+short_desc_de: Spuren von Bäumen und Tieren in Berlin
+keywords: Maulbeer* schmetterling* Richter Damaschun Vent Thaer Botani* agra*
+  schaf*  Lestwitz Itzenplitz biene plantag* merian linne taxonom* preuß* baum
+  franzö* frankreich hugeno mulberry butterfl* richter damaschun vent thaer
+  botan* agri* sheep lestwitz itzenplitz bee planta* merian linnaeus taxonomi*
+  prussia* tree french france hugeno*
 cover_image:
   image: /images/old-mulberry-tree-alter-maulbeerbaum-berlin-museum-fuer-naturkunde-natural-history-museum.jpg
   alt: |-
@@ -32,6 +35,8 @@ cover_image:
 colour_scheme: 3
 tao_type: story
 date_start: 1703-01-01T23:07:09.241Z
+date_end: 2022-08-26T14:37:08.305Z
+published: false
 ---
 
 :::EN:::
