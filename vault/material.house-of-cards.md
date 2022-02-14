@@ -13,6 +13,8 @@ desc: Organising knowledge using index cards
 desc_de: Wissensorganisation dank loser Zettel
 short_desc: Organising knowledge using index cards
 short_desc_de: Wissensorganisation dank loser Zettel
+keywords: register* Peters catalog* Beyer document* paper inventor* index cards
+  register* catalog* document* paper teach* inventor* order*
 cover_image:
   image: /images/cover-karteikarten-index-card-system-zoological-teaching-collection-zoologische-lehrsammlung.png
   alt: |-
