@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: Feeding and Overfeeding
 title_de: Füttern und Überfüttern
 created: 1620752738850
-author: Mareike Vennen
-short_desc_de: Wer (über)füttert im Zoo?
-date_end: 1960-12-31T11:00:00.000Z
-published: false
-title: Feeding and Overfeeding
 updated: 1644517137580
 id: dfe31be6-b21f-496f-af23-70f225c0616c
+author: Mareike Vennen
 doi: 64y2-m311/25
 translators:
   translator_de_en: ""
@@ -25,6 +22,10 @@ desc_de: "Als 1960 im Berliner Zoo ein Elefant starb, lautete die Diagnose:
   zoologischer Gärten im 19. Jahrhundert zurückreicht. Wer darf füttern und vor
   allem, was und wieviel?"
 short_desc: Who (over)feeds zoo animals?
+short_desc_de: Wer (über)füttert im Zoo?
+keywords: Elefant Jambo Pavian Kranich koloni* Veterinär* Frankfurt Schimpanse
+  Gustav Jäger krank* Heinroth elephant Jambo baboon crane coloni* veterina*
+  Frankfurt chimpanzee Gustav Jäger ill* disease* Heinroth
 cover_image:
   image: /images/cover-overfeeding-newspaper-taegliche-rundschau.jpg
   alt: "Feeding as an act of sharing in the Berlin postwar zoo. Füttern als ein
@@ -33,6 +34,8 @@ cover_image:
 colour_scheme: 11
 tao_type: story
 date_start: 1871-12-31T23:06:32.000Z
+date_end: 1960-12-31T11:00:00.000Z
+published: false
 ---
 
 :::EN:::
