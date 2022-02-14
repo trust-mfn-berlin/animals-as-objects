@@ -18,7 +18,9 @@ desc_de: |-
   Dilemmata haben sich ergeben?
 short_desc: Since only a relatively short time zoos intensify their conservation efforts.
 short_desc_de: Ausstellen oder schützen?
-keywords: coming soon
+keywords: Orang-Utan Zucht Handel Dathe DDR IUCN Grzimek Bison Hirsch Wisent
+  EAZA koloni* frosch orangutan breed* trade dathe GDR IUCN grzimek bison deer
+  wisent coloni* frog
 cover_image:
   image: /images/orangs_wegweiser_1927.jpg
 colour_scheme: 15
