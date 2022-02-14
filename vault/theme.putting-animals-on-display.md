@@ -1,6 +1,14 @@
 ---
-id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
+license: CC BY-SA
 title: Putting Animals on Display
+title_de: Tiere zur Schau stellen
+created: 1618572893774
+updated: 1643317253882
+id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
+author: Clemens Maier-Wolthausen
+doi: 64y2-m311/28
+translators:
+  translator_de_en: Lydia J. White
 desc: |-
   Zoos justifications for keeping animals and putting them on display have
   changed a great deal through the centuries, from recreation for urban
@@ -9,14 +17,6 @@ desc: |-
   preceded by a taxonomically structured zoo that placed far more value on the
   completeness of its order than on the quality of the conditions in which
   animals were kept.
-updated: 1643317253882
-created: 1618572893774
-license: CC BY-SA
-title_de: Tiere zur Schau stellen
-author: Clemens Maier-Wolthausen
-doi: 64y2-m311/28
-translators:
-  translator_de_en: Lydia J. White
 desc_de: |-
   Die Begründungen von Zoos, warum sie Tiere halten und zur Schau
   stellen, haben sich über die Jahrhunderte stark gewandelt, von Erholung der
@@ -26,6 +26,10 @@ desc_de: |-
   bedeutsamer bewertete als die Qualität der Haltungsbedingungen.
 short_desc: How and why do zoos put animals on display?
 short_desc_de: Wie und warum stellen Zoos Tiere aus?
+keywords: Lichtenstein Friedrich Wilhelm IV Heini Hediger restaurant Architekt
+  elephant Ludwig Heck zoo director Paul Matschie Quagga Heinroth Bronx
+  Lichtenstein Friedrich Wilhelm IV Heini Hediger restaurant Architekt* Elefant
+  Ludwig Heck Zoodirektor Paul Matschie Quagga Heinroth Bronx
 cover_image:
   image: /images/showing-animals-berlin-zoo-antilopenhaus-around-1920.jpg
   alt: |-
