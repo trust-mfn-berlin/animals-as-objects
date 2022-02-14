@@ -15,7 +15,8 @@ desc: Founder of Behavioural Science
 desc_de: Begründer der Verhaltenskunde
 short_desc: Founder of Behavioural Science
 short_desc_de: Begründer der Verhaltenskunde
-keywords: coming soon…
+keywords: Vögel Ludwig Heck Verhaltensforschung Aquarium Ethologie bird Ludwig
+  Heck behavior* aquarium ethology
 cover_image:
   image: /images/cover-oskar-heinroth.jpg
   alt: "Berlin aquarium director Oskar Heinroth with three Ural owls, 1929.
