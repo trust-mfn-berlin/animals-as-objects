@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Biostratigraphy
 title_de: Biostratigrafie
 created: 1618493136975
-updated: 1644513729837
+updated: 1644859278898
 id: f0ff8e4e-5bb8-4622-8d51-8da1cb651524
 author: Filippo Bertoni
 doi: 64y2-m311/35
@@ -35,7 +35,7 @@ published: false
 
 <figcaption>
 
-_Sedimentary rocks (Source PBS Eons/YouTube)_
+_Sedimentary rocks (Source: PBS Eons/YouTube)_
 
 </figcaption>
 
