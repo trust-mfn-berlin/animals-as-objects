@@ -11,7 +11,7 @@ translators:
   translator_de_en: ""
 copy_editors:
   copy_editor_en: Carla Welch
-desc: Reconstructing the Zoo
+desc: Rebuilding the Zoo
 desc_de: Den Zoo wieder aufbauen
 short_desc: Reconstructing the Zoo
 short_desc_de: Den Zoo wieder aufbauen
