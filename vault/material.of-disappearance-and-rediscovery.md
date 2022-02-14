@@ -1,25 +1,28 @@
 ---
 license: CC BY-SA
+title: Of Disappearance and Rediscovery
 title_de: Vom Verschwinden und Wiederfinden
 created: 1640355738318
-author: Mareike Vennen
-short_desc_de: Tücken der Sammlungsarbeit
-date_end: ""
-published: false
-title: Of Disappearance and Rediscovery
 updated: 1644602086318
 id: OnYQIVhzHVPQr5cuuBtEO
+author: Mareike Vennen
 doi: 64y2-m311/57
 translators:
   translator_de_en: Lydia J. White
 desc: The pitfalls of collecting
 desc_de: Tücken der Sammlungsarbeit
 short_desc: The pitfalls of collecting
+short_desc_de: Tücken der Sammlungsarbeit
+keywords: Waran Herpetol* Krieg Mertens Tetzlaff Senckenberg Katalog* inventar*
+  verzeichn* ordn* monitor lizard herpetol* war mertens tetzlaff senckenberg
+  catalog* register* record* order*
 cover_image:
   image: /images/waran-zmb-24220-tillack-a.jpg
 colour_scheme: 6
 tao_type: material
 date_start: 1914-12-24T15:26:00.000Z
+date_end: ""
+published: false
 ---
 
 :::EN:::
