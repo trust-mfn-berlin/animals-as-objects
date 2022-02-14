@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: Feeding List 1945
 title_de: Futterliste 1945
 created: 1624185750239
-author: Mareike Vennen
-short_desc_de: Futterlisten im Zoo der Nachkriegszeit
-date_end: ""
-published: false
-title: Feeding List 1945
 updated: 1643295412899
 id: R4t_2F3NY3xIuAnRoDG0T
+author: Mareike Vennen
 doi: 64y2-m311/22
 translators:
   translator_de_en: ""
@@ -17,6 +14,9 @@ copy_editors:
 desc: The zoo’s postwar feeding lists
 desc_de: Futterlisten im Zoo der Nachkriegszeit
 short_desc: The zoo’s postwar feeding lists
+short_desc_de: Futterlisten im Zoo der Nachkriegszeit
+keywords: Heinroth Krieg Besatzung Dokument* Fleisch Nachkrieg* Heinroth war
+  occup* document meat postwar
 cover_image:
   alt: "Feed requirements for large animals in the Berlin Zoo, 18 September 1945.
     Futtermittelbedarf für die Großtiere des Berliner Zoos, 18. September 1945.
@@ -25,6 +25,8 @@ cover_image:
 colour_scheme: 15
 tao_type: material
 date_start: 1944-12-31T23:00:00.000Z
+date_end: ""
+published: false
 feature: true
 ---
 
