@@ -1,11 +1,14 @@
 ---
 license: CC BY-SA
-title_de: "Logistische Metabolismen"
+title: Logistical Metabolisms
+title_de: Logistische Metabolismen
 created: 1640459420576
+updated: 1644524887836
+id: GkUgy87PFegTFmR0W1Z2Q
 author: Mareike Vennen, Filippo Bertoni
-short_desc_de: Umwandlungsprozesse von Tieren in Bewegung
-date_end: 2022-12-04T16:32:17.032Z
-published: false
+doi: 64y2-m311/70
+translators:
+  translator_en_de: Jan-Peter Herrmann
 desc: Logistics and metabolisms play an important role in the transformations of
   animals into objects. In this theme, we explore some of their intersections
   and follow animals on their ways into zoos and natural history collections.
@@ -18,18 +21,21 @@ desc_de: Für die Verwandlung von Tieren in Objekte spielen sowohl logistische
   zeigen, dass tierische Verwandlungen selbst dort stattfinden, wo wir sie am
   wenigsten vermuten.
 short_desc: Transforming animals in motion
+short_desc_de: Umwandlungsprozesse von Tieren in Bewegung
+keywords: "Kreislauf Stoffwechsel Logisti* Transport Kapital* Marx Handel
+  Netzwerk Meer Ozean Ernährung Futter Darwin Valdivia Schildkröte Galapagos
+  Schomburgk Guyana New York Aquarium Fleisch Ratte* Krieg Elefant koloni*
+  circulat* metabol* logistic* transport* capital* marx trade network sea ocean
+  food feed darwin valdivia turtle tortoise galapagos schomburgk guyana new york
+  aquarium meat rat* war elefant* "
 cover_image:
   image: /images/cover-logistical-metabolism.jpg
-date_start: 1740-12-31T23:50:39.000Z
-feature: true
-title: Logistical Metabolisms
-updated: 1644524887836
-id: GkUgy87PFegTFmR0W1Z2Q
-doi: 64y2-m311/70
-translators:
-  translator_en_de: Jan-Peter Herrmann
 colour_scheme: 4
 tao_type: theme
+date_start: 1740-12-31T23:50:39.000Z
+date_end: 2022-12-04T16:32:17.032Z
+published: false
+feature: true
 ---
 
 :::EN:::
