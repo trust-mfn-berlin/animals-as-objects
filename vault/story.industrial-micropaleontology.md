@@ -21,7 +21,12 @@ desc_de: In den 1920er Jahren revolutionierten die Wissenschaftlerinnen Esther
   Erdölgeografie nachzuweisen.
 short_desc: Microfossils revolutionised oil extraction
 short_desc_de: Mikrofossilien revolutionierten die Ölgewinnung
-keywords: coming soon…
+keywords: Joseph Cushman Esther Applin Alva Ellisor Hedwig Knikerwere Erdöl
+  WNIGRI Alexander Wassiljewitsch Fursenko Nina Nikolajewna Subbotina Dagmara
+  Maksimilianowna Rauser-Tschernousowa Baku Industrie* Moskau Leningrad Meer
+  Ozean Joseph Cushman Esther Applin Alva Ellisor Hedwig Knikerwere oil WNIGRI
+  Alexander Wassiljewitsch Fursenko Nina Nikolajewna Subbotina Dagmara
+  Maksimilianowna Rauser-Tschernousowa Baku industr* Moscow Leningrad sea ocean
 cover_image:
   image: /images/cover-industrial-micropaleo.jpg
   alt: |-
