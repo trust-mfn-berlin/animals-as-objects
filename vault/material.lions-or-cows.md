@@ -1,31 +1,34 @@
 ---
-id: 9mH5N7vuPc8pcrpIzElb1
+license: CC BY-SA
 title: Lions or Cows?
+title_de: Löwen oder Kühe?
+created: 1640356599113
+updated: 1643316275560
+id: 9mH5N7vuPc8pcrpIzElb1
+author: Mareike Vennen
+doi: 64y2-m311/55
+translators:
+  translator_de_en: Lydia J. White
 desc: |-
   When we think of zoos, we think of elephants, lions, and giraffes. But
   livestock is just as important to the history of zoological gardens, as the
   example of Berlin Zoo around 1900 reveals.
-updated: 1643316275560
-created: 1640356599113
-license: CC BY-SA
-title_de: Löwen oder Kühe?
-author: Mareike Vennen
-short_desc_de: Nutztiere im Zoo
-date_end: ''
-published: false
-doi: 64y2-m311/55
-translators:
-  translator_de_en: Lydia J. White
 desc_de: |-
   Wer an Zoos denkt, denkt an Elefanten, Löwen oder Giraffen. Doch sind
   für die Geschichte zoologischer Gärten ebenso Nutztiere wichtig, wie das
   Beispiel des Berliner Zoos in der Zeit um 1900 zeigt.
 short_desc: Domestic animals at the zoo
+short_desc_de: Nutztiere im Zoo
+keywords: haustier* nutztier* landwirt* Heck lichtenstein Humboldt lehr*
+  tierarzt* veterin* medizin* rind* pferd* schwein* pet farm agricult* heck
+  lichtenstein humboldt teach vet* medic* cattle horse pig
 cover_image:
   image: /images/aktendeckel-landwirtschaftlicher-tierpark.jpg
 colour_scheme: 14
 tao_type: material
-date_start: ''
+date_start: ""
+date_end: ""
+published: false
 ---
 
 :::EN:::
