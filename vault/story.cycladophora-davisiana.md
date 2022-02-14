@@ -24,7 +24,8 @@ desc_de: |-
   unseres Planeten und seiner Tiefenzeit hilft.
 short_desc: Microscopic radiolarian species
 short_desc_de: Eine mikroskopisch kleine Radiolarienart
-keywords: to come
+keywords: Ehrenberg Mikro* Fossil* Ernst Haeckel William Rex Riedel Ehrenberg
+  Micro* Fossil* Ernst Haeckel William Rex Riedel
 cover_image:
   image: /images/cover-cycladophora.jpg
   alt: |-
