@@ -1,26 +1,28 @@
 ---
-id: 02wCHNiTRZ4Zkq2cO9Cpv
-title: Core Samples
-desc: Archives of planetary knowledge
-updated: 1642848455409
-created: 1629110227049
 license: CC BY-SA
+title: Core Samples
 title_de: Bohrkerne
+created: 1629110227049
+updated: 1642848455409
+id: 02wCHNiTRZ4Zkq2cO9Cpv
 author: Filippo Bertoni
 doi: 64y2-m311/31
 translators:
-  translator_en_de: ''
+  translator_en_de: ""
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
+desc: Archives of planetary knowledge
 desc_de: Archive des Erdwissens
 short_desc: Archives of planetary knowledge
 short_desc_de: Archive des Erdwissens
+keywords: Öl rohstoff meer ozean Borje Kullenberg Geo* Radiolar* oil resource
+  sea ocean geo* radiolar* Borje Kullenberg
 cover_image:
   image: /images/cores.png
 colour_scheme: 9
 tao_type: material
-date_start: '1947-01-02T19:24:05.131Z'
-date_end: '2022-12-07T19:25:46.689Z'
+date_start: 1947-01-02T19:24:05.131Z
+date_end: 2022-12-07T19:25:46.689Z
 published: false
 ---
 
