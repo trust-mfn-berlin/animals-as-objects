@@ -1,25 +1,28 @@
 ---
-id: ZDxo1U9ptEVRJhmFpVKyC
-title: The German-Colonial Hunting Exhibition
-desc: Displaying wild animals as colonial appropriation
-updated: 1643292987938
-created: 1640456876442
 license: CC BY-SA
+title: The German-Colonial Hunting Exhibition
 title_de: Die deutsch-koloniale Jagdausstellung
+created: 1640456876442
+updated: 1643292987938
+id: ZDxo1U9ptEVRJhmFpVKyC
 author: Catarina Madruga
-short_desc_de: Die Zurschaustellung wilder Tiere als koloniale Aneignung
-date_end: ''
-published: false
 doi: 64y2-m311/74
 translators:
   translator_en_de: Jan-Peter Herrmann
+desc: Displaying wild animals as colonial appropriation
 desc_de: Die Zurschaustellung wilder Tiere als koloniale Aneignung
 short_desc: Displaying wild animals as colonial appropriation
+short_desc_de: Die Zurschaustellung wilder Tiere als koloniale Aneignung
+keywords: ethnogra* koloni* ökonom* Karlsruhe rohstoff* kamerun zebra antilope
+  sammeln ethnograph* coloni* econom* karlsruhe raw material commodity cameroon
+  zebra antilope collect
 cover_image:
   image: /images/an-evocative-image_1.jpg
 colour_scheme: 3
 tao_type: material
 date_start: 1903-01-01T19:37:39.000Z
+date_end: ""
+published: false
 ---
 
 :::EN:::
