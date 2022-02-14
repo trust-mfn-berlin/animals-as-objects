@@ -21,7 +21,7 @@ desc_de: Die Praxis des Verzeichnens spielt im naturkundlichen Sammeln eine
   und naturkundlichen Objekten Wert zugeschrieben wird. Sie beeinflussen
   maßgeblich die Art und Weise, wie wir die (naturkundliche) Welt ordnen und
   begreifen, befinden sich aber auch selbst beständig im Wandel.
-short_desc: Recording is a transformative process.
+short_desc: Recording is a transformative process
 short_desc_de: Naturkundliche Verzeichnungspraktiken und ihre transformative Kraft
 keywords: Papier* Dokument* Sammeln Liste Katalog* Taxonom* Ordnung* Inventar*
   Etikett* Archiv* Daten* Klassifi* Medien koloni* Handel Kartei* CITES paper

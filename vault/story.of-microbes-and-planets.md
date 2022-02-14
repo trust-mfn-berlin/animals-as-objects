@@ -20,9 +20,9 @@ desc_de: Mikropaläontologische Meeresforschung trug maßgeblich dazu bei, die
   Bedeutung der Mikroorganismen für planetarische Dynamiken zu erkennen. Die
   Geschichte dieser Forschung und ihrer Theorien verdeutlicht die tiefen
   Verbindungen zwischen Mikroben und Planeten.
-short_desc: Microorganisms are fundamental and vital for the dynamics of our planet.
+short_desc: Microorganisms are fundamental and vital for the dynamics of our planet
 short_desc_de: Mikroorganismen sind grundlegend und lebenswichtig für die
-  Dynamiken unseres Planeten.
+  Dynamiken unseres Planeten
 keywords: Sergei Winogradsky Vasily Dokuchaev Umwelt Ökolog* Gaia Lovelock
   Margulis Mikro* Sergei Winogradsky Vasily Dokuchaev environment ecolog* Gaia
   Lovelock Margulis Micro*

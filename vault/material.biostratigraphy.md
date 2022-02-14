@@ -14,9 +14,9 @@ copy_editors:
 desc: Fossilised remains of organisms characterise underground layers (strata)
 desc_de: Versteinerte Überreste von Organismen liefern Informationen über
   unterirdische Sedimentschichten (Strata)
-short_desc: Fossilised remains of organisms characterise underground layers.
+short_desc: Fossilised remains of organisms characterise underground layers
 short_desc_de: Versteinerte Überreste von Organismen liefern Informationen über
-  unterirdische Sedimentschichten.
+  unterirdische Sedimentschichten
 keywords: Nicolas Steno Rohstoff Nicolas Steno resource
 cover_image:
   image: /images/sedimentary-rocks.png
