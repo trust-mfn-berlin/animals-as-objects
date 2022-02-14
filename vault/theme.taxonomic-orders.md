@@ -1,25 +1,22 @@
 ---
-id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
+license: CC BY-SA
 title: Taxonomic Orders
+title_de: Taxonomische Ordnungen
+created: 1618491191119
+updated: 1644706187147
+id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
+author: Filippo Bertoni
+doi: 64y2-m311/5
+translators:
+  translator_en_de: ""
+copy_editors:
+  copy_editor_de: Jan-Peter Herrmann
 desc: |-
   In biology, taxonomy is a formal system to name, define, and classify
   organisms, regulated and governed by a set of rules. Since its beginning,
   biological taxonomy was neither stable nor universal, controversies frequently
   emerged. Classifications continue to change even today – yet they have lasting
   impacts on our world.
-updated: 1644706187147
-created: 1618491191119
-license: CC BY-SA
-title_de: Taxonomische Ordnungen
-author: Filippo Bertoni
-short_desc_de: Die Kategorisierung der Natur ist politisch
-date_end: '2022-12-06T11:43:53.791Z'
-published: false
-doi: 64y2-m311/5
-translators:
-  translator_en_de: ''
-copy_editors:
-  copy_editor_de: Jan-Peter Herrmann
 desc_de: |-
   In der Biologie ist die Taxonomie ein formales System zur Benennung,
   Definition und Klassifizierung von Organismen, das von bestimmten Regeln
@@ -28,6 +25,10 @@ desc_de: |-
   Klassifizierungen ändern sich auch heute noch – und beeinflussen unsere Welt
   nachhaltig.
 short_desc: Organising nature is political
+short_desc_de: Die Kategorisierung der Natur ist politisch
+keywords: Carl von Linne Linnaeus Nomenklatur Klassi* Darwin Wallace Evolution*
+  Phylo* Datenbank; Dokument* Linne Linnaeus nomenclature classif* Darwin
+  Wallace evolution* phylo* database document*
 cover_image:
   image: /images/cover-taxonomical-orders.jpg
   alt: |-
@@ -36,7 +37,9 @@ cover_image:
     https://commons.wikimedia.org/wiki/File:Systema_Naturae_Plate_II.jpg
 colour_scheme: 12
 tao_type: theme
-date_start: '1752-12-31T23:06:32.000Z'
+date_start: 1752-12-31T23:06:32.000Z
+date_end: 2022-12-06T11:43:53.791Z
+published: false
 ---
 
 :::EN:::
