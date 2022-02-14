@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The ‘Gorilla Beast’
 title_de: Die ‘Bestie Gorilla’
 created: 1640365282699
-updated: 1644868093232
+updated: 1644868505588
 id: H40I2GIwYN6393S3tIUHI
 author: Britta Lange
 doi: 64y2-m311/61
@@ -32,7 +32,7 @@ published: false
 
 <figcaption>
 
-_The ‘giant gorilla’[^1] dermoplastic taxidermy mounted by the Hamburg company Umlauff in 1901; postcard with the stamp “Wilh. Kuhnert”. (MfN, HBSB, ZM-B-IV-0872. All rights reserved.)_
+_The ‘giant gorilla’[^1] dermoplastic taxidermy mounted by the Hamburg company Umlauff in 1901; postcard with the stamp ‘Wilh. Kuhnert’. (MfN, HBSB, ZM-B-IV-0872. All rights reserved.)_
 
 </figcaption>
 
@@ -102,7 +102,7 @@ This was a continuation of the trophy iconography depicting the gorilla as a bea
 
 <figcaption>
 
-_Der von der Hamburger Firma Umlauff 1901 dermoplastisch aufgestellte ‘Riesen-Gorilla’[^1]; Postkarte mit dem Stempel “Wilh. Kuhnert”. (MfN, HBSB, ZM-B-IV-0872. Alle Rechte vorbehalten.)_
+_Der von der Hamburger Firma Umlauff 1901 dermoplastisch aufgestellte ‘Riesen-Gorilla’[^1]; Postkarte mit dem Stempel ‘Wilh. Kuhnert’. (MfN, HBSB, ZM-B-IV-0872. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
