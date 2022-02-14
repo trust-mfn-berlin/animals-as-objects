@@ -1,6 +1,6 @@
 ---
 license: CC BY-SA
-title_de: "Logistische Metabolismen "
+title_de: "Logistische Metabolismen"
 created: 1640459420576
 author: Mareike Vennen, Filippo Bertoni
 short_desc_de: Umwandlungsprozesse von Tieren in Bewegung
