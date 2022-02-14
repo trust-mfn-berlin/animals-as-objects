@@ -21,6 +21,9 @@ desc_de: Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
   Fütterungsverbot ein?
 short_desc: New rules on proximity and distance
 short_desc_de: Neue Regeln zu Nähe und Distanz
+keywords: Elefant jambo krank* Bernhard Grzimek Affe Frankfurt Zoodirektor*
+  Heinz-Georg Klös Architekt* Heinz-Georg Klös Bernhard Grzimek director
+  elephant Jambo ill disease* monkey architect
 cover_image:
   image: /images/cover-do-not-feed-the-animals.jpg
   alt: |-
