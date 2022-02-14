@@ -8,7 +8,7 @@ author: Mareike Vennen
 short_desc_de: "1945: Krise in Zoo und Stadt "
 published: false
 title: Feed Scarcity
-updated: 1643323470875
+updated: 1644521490133
 id: d54394f6-1188-4ec3-b590-da329e657560
 doi: 64y2-m311/23
 translators:
@@ -449,7 +449,7 @@ Es finden sich viele Beispiele von (Zoo-)Tieren, die in schweren Zeiten als Iden
 
 <figcaption>
 
-_Beleids-Postkarte vom vierjährigen Hello Kellner an den Berliner Zoo zum Tod von “Siam”. (AZGB. Alle Rechte vorbehalten.)_
+_Beileids-Postkarte vom vierjährigen Hello Kellner an den Berliner Zoo zum Tod von “Siam”. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -461,7 +461,7 @@ Darauf aber konnte Katharina Heinroth wieder nur antworten: “Wir werden vorlä
 
 Das Verhältnis zwischen Zoo und Stadtgesellschaft bewegte sich in den ersten Nachkriegsjahren zwischen Fürsorge und Konkurrenz. Die Stadt – die Bevölkerung wie die Behörden – unterstützten den Zoo in Futterfragen. Beispielsweise war stets “ein Stamm von etwa 20 Kindern” zur Stelle, die Kastanien und Eicheln für die Zootiere sammelten, was schnell auf 100 Zentner kam.[^38] 1948 forderte jedoch die Zentrale für Drogen und Wildfrüchte den Zoo auf, keine Kastanien mehr zu Fütterungszwecken sammeln zu lassen, weil diese für die Versorgung der Bevölkerung benötigt würden und weil menschliche Arbeitskraft eine wichtige Ressource war. Den Besucher:innen, die Brot oder Kartoffelschalen für die Tiere brachten, war es wiederum verboten, auf dem Zoogelände Eicheln für den eigenen Bedarf zu sammeln. Kontrolleur:innen durchsuchten an den Ausgängen die Taschen und Rucksäcke: “Wir holen zur Zeit an den Kassen täglich einige Zentner solcher den Besuchern wieder abgenommener Eicheln ab”, notierte die Zoodirektorin 1948.[^39] Gerade in Zeiten der Not konkurrierten Mensch und Tier um die gleichen Ressourcen. Katharina Heinroth war dieses Dilemma bewusst: “Unsere Wärter holen mit rührendem Fleiss Kartoffelschalen aus halb Berlin zusammen. Diese werden aber auch seltener, da viele Menschen die Kartoffelschalen für ihren Eigen-Bedarf zusammensuchen, denn die Not ist gross. Ich kenne einige, die von Kartoffelschalen leben.”[^40]
 
-Je nach Perspektive war der Zoo Umschlagplatz für den Austausch von Tieren und Wissen oder ein Ort illegaler Nahrungsbeschaffung, wo Eicheln wie auch Tiere gestohlen wurden; ein Teil der städtischen Versorgungsinfrastruktur oder eine Belastung für den Ernährungsplan der Stadt – eine Lage, die sich erst Anfang der 1950er Jahre Stück für Stück normalisierte: “Wir haben ja allerhand vor für das Frühjahr”, schrieb Katharina Heinroth in einem Brief im Frühjahr 1950, “die Gärtelei soll jetzt aufhören, denn die Ernährungsverhältnisse hier in Berlin haben sich ja für die Bevölkerung grundlegend gebessert, so dass man jetzt wieder Gemüse auf den Märkten zu kaufen bekommt. Wir können also nun wieder im Garten unsere Anlagen sehr schön herrichten.”[^41] Eins wird angesichts dieser Nachkriegsjahre klar: Während Zoos die [[Zurschaustellung|theme.putting-animals-on-display]] von Wildtieren im Stadtraum als ihre Hauptfunktion beschreiben, sind sie nicht losgekoppelt von der sie umgebenden Stadt und ihrer politischen, sozialen und ökonomischen Lage. Krisen wie die Nachkriegszeit stellen den Zoo vor neue Herausforderungen, auf die er reagieren muss. Im Zuge dessen erweisen sich die Rolle der Institution ebenso wie Status und Bewertung der Tiere durchaus als wandelbar. Damit stellt sich angesichts der heutigen Herausforderungen für eine klima- und sozialgerechten Zukunft nicht zuletzt auch die Frage, was für einen Zoo der Zukunft wir wollen.
+Je nach Perspektive war der Zoo Umschlagplatz für den Austausch von Tieren und Wissen oder ein Ort illegaler Nahrungsbeschaffung, wo Eicheln wie auch Tiere gestohlen wurden; ein Teil der städtischen Versorgungsinfrastruktur oder eine Belastung für den Ernährungsplan der Stadt – eine Lage, die sich erst Anfang der 1950er Jahre Stück für Stück normalisierte: “Wir haben ja allerhand vor für das Frühjahr”, schrieb Katharina Heinroth in einem Brief im Frühjahr 1950, “die Gärtelei soll jetzt aufhören, denn die Ernährungsverhältnisse hier in Berlin haben sich ja für die Bevölkerung grundlegend gebessert, so dass man jetzt wieder Gemüse auf den Märkten zu kaufen bekommt. Wir können also nun wieder im Garten unsere Anlagen sehr schön herrichten.”[^41] Eins wird angesichts dieser Nachkriegsjahre klar: Während Zoos die [[Zurschaustellung|theme.putting-animals-on-display]] von Wildtieren im Stadtraum als ihre Hauptfunktion beschreiben, sind sie nicht losgekoppelt von der sie umgebenden Stadt und ihrer politischen, sozialen und ökonomischen Lage. Krisen wie die Nachkriegszeit stellen den Zoo vor neue Herausforderungen, auf die er reagieren muss. Im Zuge dessen erweisen sich die Rolle der Institution ebenso wie Status und Bewertung der Tiere durchaus als wandelbar. Damit stellt sich angesichts der heutigen Herausforderungen für eine klima- und sozialgerechte Zukunft nicht zuletzt auch die Frage, was für einen Zoo der Zukunft wir wollen.
 
 [^1]: Im Jahr 1938 waren es 3.715 Tiere; 1944 waren es noch 1.700 Tiere. Vgl. Halbjahresbericht für Aufsichtsratssitzung vom 10.08.1955, AZGB N 4/2.
 

@@ -1,31 +1,27 @@
 ---
-id: 2df514da-8df2-4278-8534-28e1034c7adf
-title: Industrial Micropaleontology
-desc: |-
-  In the 1920s, scientists Esther Applin, Alva Ellisor, and Hedwig
-  Knikerwere revolutionised micropaleontology. They were employed by oil
-  companies and showed important applications to stratigraphy and petroleum
-  geology.
-updated: 1643292527035
-created: 1621521087155
 license: CC BY-SA
+title: Industrial Micropaleontology
 title_de: Industrielle Mikropaläontologie
+created: 1621521087155
+updated: 1644704043277
+id: 2df514da-8df2-4278-8534-28e1034c7adf
 author: Filippo Bertoni
-short_desc_de: Mikrofossilien revolutionierten die Ölgewinnung
-date_end: '1950-12-31T11:00:00.000Z'
-published: false
 doi: 64y2-m311/8
 translators:
-  translator_en_de: ''
+  translator_en_de: ""
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
-desc_de: |-
-  In den 1920er Jahren revolutionierten die Wissenschaftlerinnen Esther
-  Applin, Alva Ellisor und Hedwig Knikerwere die Mikropaläontologie. Ihre
-  Arbeitgeber waren Ölfirmen und im Rahmen ihrer Forschungen gelang es ihnen,
-  das enorme Potential mikropaläontologischer Analysen für die Stratigrafie und
-  die Erdölgeografie nachzuweisen.
+desc: In the 1920s, scientists Esther Applin, Alva Ellisor, and Hedwig Kniker
+  revolutionised micropaleontology. They were employed by oilcompanies and
+  showed important applications to stratigraphy and petroleumgeology.
+desc_de: In den 1920er Jahren revolutionierten die Wissenschaftlerinnen Esther
+  Applin, Alva Ellisor und Hedwig Kniker die Mikropaläontologie. IhreArbeitgeber
+  waren Ölfirmen und im Rahmen ihrer Forschungen gelang es ihnen,das enorme
+  Potential mikropaläontologischer Analysen für die Stratigrafie unddie
+  Erdölgeografie nachzuweisen.
 short_desc: Microfossils revolutionised oil extraction
+short_desc_de: Mikrofossilien revolutionierten die Ölgewinnung
+keywords: coming soon…
 cover_image:
   image: /images/cover-industrial-micropaleo.jpg
   alt: |-
@@ -33,7 +29,9 @@ cover_image:
     https://commons.wikimedia.org/wiki/File:Salt_Creek_Oil_Field_well.jpg
 colour_scheme: 0
 tao_type: story
-date_start: '1920-12-31T23:00:00.000Z'
+date_start: 1920-12-31T23:00:00.000Z
+date_end: 1950-12-31T11:00:00.000Z
+published: false
 ---
 
 :::EN:::
@@ -87,7 +85,7 @@ Zur Überwindung der [[Sackgassen in der Mikropaläontologie|story.micropaleonto
 
 Alles änderte sich als ein Konsortium von US-Ölfirmen, die nach der Privatisierung der kalifornischen Ölfelder an die Golfküste gezogen waren, zur Untersuchung ihrer Bestände gesammelter Fossilien drei junge Frauen frisch vom College einstellte: Esther Applin,[^2] Alva Ellisor und Hedwig Kniker. Diese drei Wissenschaftlerinnen waren die ersten, die 1921 die Bedeutung von [[material.foraminifera]]-Mikrofossilien für die Korrelation und Interpretation von Gesteinsschichten in der Stratigrafie erkannten.[^3] Nur drei Jahren nach diesem Durchbruch beschäftigten Ölfirmen rund 300 Mikropaläontolog:innen. **1931 waren bereits an mehr als drei Viertel aller Erdölbohrungen Mikropaläontolog:innen beteiligt.** Diese Entdeckung revolutionierte also auf einen Schlag sowohl die Ölindustrie als auch die Geologie. Es entstand eine neue eigenständige Fachrichtung: Die Mikropaläontologie. Die [[material.biostratigraphy]] wurde das neue Werkzeug, das die Mikropaläontologie als Disziplin etablierten half. Einer der damals führenden Foraminiferen-Experten, der US-Amerikaner Joseph Cushman, nahm diese wissenschaftlich-technische Erneuerung zum Anlass, mit den Erträgen aus seiner Tätigkeit als Berater für Ölfirmen das Cushman Labor[^4] ins Leben zu rufen, das bis heute eine der wichtigsten Forschungseinrichtungen für Foraminiferen-Mikropaläontologie ist. Nach Cushmans Tod wurden seine Forschungen und seine Lehrtätigkeit in der Ausbildung immer neuer Generationen von Mikropaläontologinnen entlang der Anforderungen der Rohstoffindustrie von anderen weitergeführt.
 
-Forschende auf der ganzen Welt folgten schon bald dem Vorbild der US-amerikanischen industriellen Mikropaläontologie. So wurden in der Sowjetunion, wo im Kontext der Erschließung des Ölfeldes von Baku bereits ähnliche Forschungen angeregt worden waren, ab 1930 im Allrussischen Forschungsinstitut für Geologische Prospektion (WNIGRI) in Leningrad ein eigenständiges mikropaläontologisches Institut geschaffen. Dieses Institut leistete wichtige Beiträge zur Forschung im Bereich der industriellen Mikropaläontologie, zunächst unter der Leitung von Alexander Wassiljewitsch Fursenko und später von Nina Nikolajewna Subbotina. Die Forschungsarbeiten des WNIGRI bezogen auch Moskauer Einrichtungen mit ein, wo Dagmara Maksimilianowna Rauser-Tschernousowas Studien während der Zeit des Zweiten Weltkriegs maßgeblich für die Entdeckung weiterer großer Ölfelder bei Baku waren.[^5] **Die Mikropaläontologie entstand nicht in erster Linie zu dem Zweck, wissenschaftlichen Fragen nachzugehen, sondern um die Suche nach praktischen Lösungen für geologische und stratigrafische Fragen zu beschleunigen.** Sie diente besonders der Rohstoffindustrie bei ihrer Suche nach [[fossilen Brennstoffen|material.fossil-fuels]]. Die Geschichte dieser wissenschaftlichen Disziplin ist außerdem eng mit privaten und (strategischen) nationalen Interessen verwoben, die sich mit der globalen Nachfrage nach Öl und der Entwicklung der Industrie und ihrer Logistik herausbildeten – insbesondere in den prägenden Anfangsjahren des 20. Jahrhunderts. Während die globale Ordnung durch zwei Weltkriege erst verwüstet und zerbrochen und anschließend neu aufgebaut wurde, wuchs die Bedeutung der industriellen Mikropaläontologie parallel zum Anstieg des Verbrauchs fossiler Brennstoffe. In der Folge nahmen sowohl die wirtschaftliche Macht der Ölkonzerne als auch die Konzentration von Treibhausgasen in der Atmosphäre stark zu.
+Forschende auf der ganzen Welt folgten schon bald dem Vorbild der US-amerikanischen industriellen Mikropaläontologie. So wurden in der Sowjetunion, wo im Kontext der Erschließung des Ölfeldes von Baku bereits ähnliche Forschungen angeregt worden waren, ab 1930 im Allrussischen Forschungsinstitut für Geologische Prospektion (WNIGRI) in Leningrad ein eigenständiges mikropaläontologisches Institut geschaffen. Dieses Institut leistete wichtige Beiträge zur Forschung im Bereich der industriellen Mikropaläontologie, zunächst unter der Leitung von Alexander Wassiljewitsch Fursenko und später von Nina Nikolajewna Subbotina. Die Forschungsarbeiten des WNIGRI bezogen auch Moskauer Einrichtungen mit ein, wo Dagmara Maksimilianowna Rauser-Tschernousowas Studien während des Zweiten Weltkriegs maßgeblich für die Entdeckung weiterer großer Ölfelder bei Baku waren.[^5] **Die Mikropaläontologie entstand nicht in erster Linie zu dem Zweck, wissenschaftlichen Fragen nachzugehen, sondern um die Suche nach praktischen Lösungen für geologische und stratigrafische Fragen zu beschleunigen.** Sie diente besonders der Rohstoffindustrie bei ihrer Suche nach [[fossilen Brennstoffen|material.fossil-fuels]]. Die Geschichte dieser wissenschaftlichen Disziplin ist außerdem eng mit privaten und (strategischen) nationalen Interessen verwoben, die sich mit der globalen Nachfrage nach Öl und der Entwicklung der Industrie und ihrer Logistik herausbildeten – insbesondere in den prägenden Anfangsjahren des 20. Jahrhunderts. Während die globale Ordnung durch zwei Weltkriege erst verwüstet und anschließend neu aufgebaut wurde, wuchs die Bedeutung der industriellen Mikropaläontologie parallel zum Anstieg des Verbrauchs fossiler Brennstoffe. In der Folge nahmen sowohl die wirtschaftliche Macht der Ölkonzerne als auch die Konzentration von Treibhausgasen in der Atmosphäre stark zu.
 
 
 [^1]: “‘Bug-Men’ lead hunt for Black Gold”. _Popular Mechanics_ (März 1932): 370-374. https://ucmp.berkeley.edu/images/pdf/bugmen3.pdf (03.01.2022).

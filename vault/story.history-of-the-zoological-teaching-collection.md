@@ -7,7 +7,7 @@ short_desc_de: Objekte, Inventare, Menschen und Netzwerke
 date_end: 1968-12-31T11:00:00.000Z
 published: false
 title: History of the Zoological Teaching Collection
-updated: 1643057776312
+updated: 1644700888484
 id: hUAZn8uswMmXvmUP1S4Jn
 doi: 64y2-m311/43
 translators:
@@ -78,7 +78,7 @@ It only became possible to expand the collection when the Zoological Museum move
 
 >“In order to procure the demonstration objects, specimens, models, wall charts, and other similar objects quickly and easily, there are two larger collection rooms next to the large auditorium on the second floor that receive items for the teaching collection; one of them contains the vertebrates and molluscs, the other arthropods and lesser animals, as well as the wall charts.”[^13]
 
-After a period of almost continuous growth up until the beginning of the Second World War, a bomb dropped in the night of 22/23 November 1943 destroyed the Zoological Institute’s entire vertebrate collection. [[National Socialism|story.the-zoo-and-national-socialism]] had already had an impact on everyday life at the institution. For example, so few new objects arrived that object acquisitions for 1937-1943 comprise only half a page in the designated inventory book. Moreover, there is a change in handwriting, which indicates a change in staff.
+After a period of almost continuous growth up until the beginning of the Second World War, a bombing in the night of 22/23 November 1943 destroyed the Zoological Institute’s entire vertebrate collection. [[National Socialism|story.the-zoo-and-national-socialism]] had already had an impact on everyday life at the institution. For example, so few new objects arrived that object acquisitions for 1937-1943 comprise only half a page in the designated inventory book. Moreover, there is a change in handwriting, which indicates a change in staff.
 
 <figure>
 
