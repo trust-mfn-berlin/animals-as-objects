@@ -13,6 +13,8 @@ desc: ‘28.8.5.7-4’ in a collection of codes
 desc_de: ‘28.8.5.7-4’ in einer Sammlung von Codes
 short_desc: ‘28.8.5.7-4’ in a collection of codes
 short_desc_de: ‘28.8.5.7-4’ in einer Sammlung von Codes
+keywords: Hans-Georg Herbst Dokument* Präparat Daten Hans-Georg Herbst Document*
+  specimen data
 cover_image:
   image: /images/common-seadragon-index-card-kleiner-fetzenfisch-karteikarte.jpg
   alt: "Wet specimen of a common seadragon. Nasspräparat eines kleinen
