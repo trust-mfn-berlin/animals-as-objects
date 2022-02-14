@@ -19,7 +19,7 @@
         <li v-if="article.copy_editors && article.copy_editors.copy_editor_en">Copy editor: {{article.copy_editors.copy_editor_en}}</li>
         <li v-if="article.license">Text license: {{article.license}}</li>
         <li v-if="article.doi">DOI: {{article.doi}}</li>
-        <li v-if="article.updatedAt">Last updated: {{article.updatedAt | formatDate}}</li>
+        <!-- <li v-if="article.updatedAt">Last updated: {{article.updatedAt | formatDate}}</li> -->
       </ul>
     </aside>
     </div>
