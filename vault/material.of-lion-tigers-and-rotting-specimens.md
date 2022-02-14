@@ -1,18 +1,20 @@
 ---
-id: b1zgnK9GmzS2RLdAd76u0
-title: Of Lion-Tigers and Rotting Specimens
-desc: A record contains many stories
-updated: 1644701466577
-created: 1639567838410
 license: CC BY-SA
+title: Of Lion-Tigers and Rotting Specimens
 title_de: Von Löwen-Tigern und verfaulten Präparaten
+created: 1639567838410
+updated: 1644701466577
+id: b1zgnK9GmzS2RLdAd76u0
 author: Sarina Schirmer
 doi: 64y2-m311/45
 translators:
   translator_de_en: Lydia J. White
+desc: A record contains many stories
 desc_de: Ein Verzeichnis enthält viele Geschichten
 short_desc: A record contains many stories
 short_desc_de: Ein Verzeichnis enthält viele Geschichten
+keywords: papier verzeichn* dokument* beyer präparat menagerie material*  paper
+  register* document* beyer taxiderm* menagerie material
 cover_image:
   image: /images/cover-lions-tigers-specimens.jpg
 colour_scheme: 1
