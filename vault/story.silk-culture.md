@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: "Silk Culture "
 title_de: Seiden-Cultur
 created: 1629996091814
-author: Britta Lange
-short_desc_de: Zur Geschichte des Seidenbaus in Preußen
-date_end: 1885-12-31T11:06:32.000Z
-published: false
-title: "Silk Culture "
 updated: 1644700133109
 id: isUsK2mnx8uIqaTJ60nYR
+author: Britta Lange
 doi: 64y2-m311/48
 translators:
   translator_de_en: Lydia J. White
@@ -22,6 +19,11 @@ desc_de: Der Verbreitung von weißen Maulbeerbäumen zur Seidenzucht im 18.
   wie gestaltete sich die Seidenproduktion und was brachte den staatlichen
   Seidenbau schließlich zum Versiegen?
 short_desc: The history of silk farming in Prussia
+short_desc_de: Zur Geschichte des Seidenbaus in Preußen
+keywords: wirtschaft* industr* China frankreich franzö* leibniz plantag*
+  maulbeer raupe* hugeno* baum goethe schmetterling econom* industr* china
+  france french eibniz planta* mulberry caterpillar butterfly hugeno* tree
+  goethe
 cover_image:
   image: /images/cover-seide-maulbeerspinner-silk-silkworm-museum-naturkunde-natural-history-berlin.jpg
   alt: |-
@@ -31,6 +33,8 @@ cover_image:
 colour_scheme: 10
 tao_type: story
 date_start: 1679-12-31T23:06:32.000Z
+date_end: 1885-12-31T11:06:32.000Z
+published: false
 ---
 
 :::EN:::
