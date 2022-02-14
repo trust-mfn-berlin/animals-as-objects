@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: The Worlds We Make
 title_de: The Worlds We Make
 created: 1640281603094
-author: Mareike Vennen
-short_desc_de: Pfeilschwanzkrebse in der Sammlung und im Labor
-date_end: ""
-published: false
-title: The Worlds We Make
 updated: 1644600964759
 id: 4npaIbpRAHygxSlfFDrj3
+author: Mareike Vennen
 doi: 64y2-m311/51
 translators:
   translator_de_en: Lydia J. White
@@ -19,11 +16,19 @@ desc_de: Die Geschichte des Pfeilschwanzkrebses führt quer durch verschiedene
   Orte des Sammelns und Räume der Wissenschaft und zeigt, wie diese die
   Lebenswelten von Menschen und Tieren gleichermaßen verändern.
 short_desc: Horseshoe crabs in collections and laboratories
+short_desc_de: Pfeilschwanzkrebse in der Sammlung und im Labor
+keywords: Pfeilschwanzkrebs Limulus Präparat Lehr* Organ* Nerven* Etikett*
+  Umlauff Aquarium Transport Logisti* Taxonom* Klassifi* Ordn* Kreb* Spinne*
+  Möbius Blut Bakterie* Labor* Pharma Corona Knut Impf* horseshoe crab limulus
+  teach* nerve* label* umlauff aquarium transport* logisti* taxonom* classif*
+  order* spider möbius blood bacteri* labor* pharma corona knut vaccin*
 cover_image:
   image: /images/zmb-arach-48487-1.jpg
 colour_scheme: 13
 tao_type: story
 date_start: 1800-12-23T18:49:39.000Z
+date_end: ""
+published: false
 ---
 
 :::EN:::
