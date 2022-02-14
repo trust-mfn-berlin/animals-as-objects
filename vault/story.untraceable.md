@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: Untraceable
 title_de: Unauffindbar
 created: 1640459479902
-author: Mareike Vennen
-short_desc_de: "Verschollene Objekte und alte Kataloge "
-date_end: 2022-12-04T16:26:25.633Z
-published: false
-title: Untraceable
 updated: 1644597575771
 id: abaNOPQjQqMhfMbhbhvm4
+author: Mareike Vennen
 doi: 64y2-m311/73
 translators:
   translator_de_en: Lydia J. White
@@ -19,11 +16,20 @@ desc_de: Die Suche nach historischen Sammlungsobjekten bleibt manchmal erfolglos
   und gibt trotzdem Einblicke in die Geschichte kolonialen Sammelns, in
   historische Katalogisierungsweisen und den Umgang mit abwesenden Objekten.
 short_desc: "Lost objects and old catalogues "
+short_desc_de: "Verschollene Objekte und alte Kataloge "
+keywords: kaiman krokodil verzeich* dokument* schomburgk guyana koloni* Tillack
+  reptilie* amphibie* ordn* katalog* sammeln Martin tendaguru invent*
+  provenienz* etikett* alligator taxonom* expedition* caiman crocodile record*
+  document* schomburgk guyana coloni* tillack reptile amphibian order* catalog*
+  collect martin tendaguru inventory provenance label alligator taxonom*
+  expedition
 cover_image:
   image: /images/katalog-herpetologie-ausschnitt.jpg
 colour_scheme: 8
 tao_type: story
 date_start: 1843-12-31T23:50:39.000Z
+date_end: 2022-12-04T16:26:25.633Z
+published: false
 ---
 
 :::EN:::
