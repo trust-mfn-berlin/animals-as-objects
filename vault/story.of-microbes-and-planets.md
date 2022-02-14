@@ -1,16 +1,11 @@
 ---
 license: CC BY-SA
+title: Of Microbes and Planets
 title_de: Über Mikroben und Planeten
 created: 1621522603135
-author: Filippo Bertoni
-short_desc_de: Mikroorganismen sind grundlegend und lebenswichtig für die
-  Dynamiken unseres Planeten.
-keywords: Komplexität
-date_end: 2022-12-14T14:34:55.503Z
-published: false
-title: Of Microbes and Planets
 updated: 1644702091893
 id: 796e4da7-c573-401f-a165-7bd9c3a503c6
+author: Filippo Bertoni
 doi: 64y2-m311/33
 translators:
   translator_en_de: ""
@@ -26,11 +21,18 @@ desc_de: Mikropaläontologische Meeresforschung trug maßgeblich dazu bei, die
   Geschichte dieser Forschung und ihrer Theorien verdeutlicht die tiefen
   Verbindungen zwischen Mikroben und Planeten.
 short_desc: Microorganisms are fundamental and vital for the dynamics of our planet.
+short_desc_de: Mikroorganismen sind grundlegend und lebenswichtig für die
+  Dynamiken unseres Planeten.
+keywords: Sergei Winogradsky Vasily Dokuchaev Umwelt Ökolog* Gaia Lovelock
+  Margulis Mikro* Sergei Winogradsky Vasily Dokuchaev environment ecolog* Gaia
+  Lovelock Margulis Micro*
 cover_image:
   image: /images/science-study-1976-copy.jpg
 colour_scheme: 1
 tao_type: story
 date_start: 1971-01-01T14:30:44.684Z
+date_end: 2022-12-14T14:34:55.503Z
+published: false
 ---
 
 :::EN:::
