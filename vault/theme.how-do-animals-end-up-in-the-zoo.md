@@ -3,7 +3,7 @@ license: CC BY-SA
 title: How Do Animals End Up in the Zoo?
 title_de: Wie kommen Tiere in den Zoo?
 created: 1618498026144
-updated: 1644875181347
+updated: 1644875279113
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/14
