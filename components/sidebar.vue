@@ -11,7 +11,7 @@
         <li v-if="article.copy_editors && article.copy_editors.copy_editor_de && siteLang =='de'">{{labels.copy_editor.de}}: <span>{{article.copy_editors.copy_editor_de}}</span></li>
         <li v-if="article.license">{{siteLang == 'de' ? labels.license.de : labels.license.en}}: <span>{{article.license}}</span></li>
         <li v-if="article.doi">DOI: <span>{{article.doi}}</span></li>
-        <li>{{siteLang == 'de' ? labels.updated.de : labels.updated.en}}: <span>{{article.updatedAt | formatDate}}</span></li>
+        <!-- <li>{{siteLang == 'de' ? labels.updated.de : labels.updated.en}}: <span>{{article.updatedAt | formatDate}}</span></li> -->
       </ul>
       <div class="button-array">
         <text-button type="anchor" :linkto="'/pdf/' + pdfNameBilingual + '.pdf'">{{siteLang == 'de' ? labels.download.de : labels.download.en}}</text-button>

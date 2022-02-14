@@ -7,7 +7,7 @@ short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
 date_end: 2022-10-25T08:44:25.273Z
 published: false
 title: Keeping Records of Animals
-updated: 1643323084287
+updated: 1644526561091
 id: zrAZZTgVehO9zeVbW4dMX
 doi: 64y2-m311/30
 translators:
@@ -65,7 +65,7 @@ We can imagine the exchange between these two institutions roughly as follows: t
  
 The register of 1914 also provides an indication of the value of a single animal cadaver back then. It does not just note the species names of the arriving animals or when they went from the zoo to the museum but also points to the various forms of exchange between the two institutions. **It shows how economies of gifting, trade, and barter overlapped, for the zoo offered some animals to the museum as gifts and others as objects for barter or purchase.** While the zoo gave a majority of animals to the museum for no charge, prices and values had to be determined for the animals that were for sale.[^1] The zoo generally left the task of setting the price to the museum, where it was the director’s job to appraise the animals, although he usually delegated this task to the respective collection curator.[^2] Some animal bodies were sent to the museum for inspection first, but most of the decisions about them were made on the basis of lists. If the zoo was happy with the price put forward by the museum, a zoo vehicle would normally bring a single or several animal cadavers to the museum, where they were entered into the inventory and appraised.[^3]
  
-Although the zoo generally accepted the suggested price, there was occasional disagreement about the value of a specimen, in which case, as we read in the correspondence between the two institutions, the price had to be renegotiated until a decision was made either in favour of or against the acquisition. We find traces of this process in the register in numbers that have been crossed-out and overwritten, as well as in the comment, “The values on the right that have not been crossed out apply.” These lists created both order as well as structures of ownership; they show how things were assigned meaning and value.
+Although the zoo generally accepted the suggested price, there was occasional disagreement about the value of a specimen, in which case, as we read in the correspondence between the two institutions, the price had to be renegotiated until a decision was made either in favour of or against the acquisition. We find traces of this process in the register in numbers that have been crossed-out and overwritten, as well as in the comment, “The values on the right that have not been crossed out apply.” These lists created both order as well as ownership; they show how things were assigned meaning and value.
  
 Compared with these lists, the information entered in invoices about the animals that had been delivered provide more accurate information. There is already an inventory number beside some animal names and values, which is what irrevocably turns a zoo animal into a collection item. 
  
@@ -101,7 +101,7 @@ For the museum, information about the animals it was offered was also important,
  
 <figcaption>
  
-_Label for the transfer of an animal from the zoo to the Natural History Museum with (sparse) information. (MfN, HBSB, S004-02-05, Nr. 96, Bl. 022 verso; MfN, HBSB, S004-02-05, Nr. 96, Bl. 105 recto. All rights reserved.)_
+_Label for the transfer of an animal from the zoo to the Zoological Museum with (sparse) information. (MfN, HBSB, S004-02-05, Nr. 96, Bl. 022 verso; MfN, HBSB, S004-02-05, Nr. 96, Bl. 105 recto. All rights reserved.)_
  
 </figcaption>
  
@@ -151,13 +151,13 @@ The repercussions can still be felt today, not least in attempts to trace the or
  
 [^9]: Cf. H. Pohle to L. Heck, 28.02.1931, MfN, HBSB, Zool. Mus. S III, Heck, L. (1926-1937).
  
-[^10]: This also applied to animal dealers like the Hamburg-based company Umlauff, which sent furs that they wanted to include in their skins catalogue to Matschie for identification. Animals or payment were usually offered in return. Cf. MfN, HBSB, Zool. Mus. S III Umlauff.
+[^10]: This also applied to animal dealers like the Hamburg-based company Umlauff, which sent furs that they wanted to include in their sales catalogue to Matschie for identification. Animals or payment were usually offered in return. Cf. MfN, HBSB, Zool. Mus. S III Umlauff.
  
 [^11]: O. Heinroth to the Natural History Museum in Berlin, 09.03.1913, MfN, HBSB, Zool. Mus. S III, Heinroth, Oskar, Bl. 8.
  
 [^12]: Matschie wrote: “I do not dare claim that the species is extinct, because vast regions in China have not yet been researched. It will be very difficult to utilise its fur and this skull as an object of exchange. In that case, the garden should mount it itself instead and be reimbursed for the taxidermy costs.” Internal memo by Paul Matschie, 10.06.1914, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten.
  
-[^13]: On the instructions issued by the Natural History Museum, see Martin Hinrich Lichtenstein. “Instructionen für die auswärtigen Reisenden und Sammler”. 1815, MfN, HBSB, Zool. Mus. S I, Instructionen für Sammler; see also Arthur MacGregor. _Naturalists in the Field: Collecting, Recording and Preserving the Natural World from the Fifteenth to the Twenty-First Century_. Leiden/Boston: Brill, 2018. 
+[^13]: On the instructions issued by the Natural History Museum, see Martin Hinrich Lichtenstein. “Instructionen für die auswärtigen Reisenden und Sammler.” 1815, MfN, HBSB, Zool. Mus. S I, Instructionen für Sammler; see also Arthur MacGregor. _Naturalists in the Field: Collecting, Recording and Preserving the Natural World from the Fifteenth to the Twenty-First Century_. Leiden/Boston: Brill, 2018. 
  
 [^14]: This was one of the reasons why the museum usually preferred animals that came from collecting expeditions or collectors in the field over animals that had been kept in captivity. Cf. Paul Matschie 10.06.1914, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten.
  
@@ -213,7 +213,7 @@ Im Vergleich zu diesen Listen wurden in den Rechnungen über die abgelieferten T
  
 <!-- Bild fehlt noch: Rechnung zu übergebenen Tieren! -->
  
-Allerdings wurden nicht alle Tierkörper, die aufgelistet waren, tatsächlich verwendet. Solche, die mit dem Vermerkt ‘unbrauchbar’ versehen waren, erhielten keine Preise. Ob sich der Vermerk ‘unbr[auchbar]’ auf den schlechten Konservierungszustand der Tierkadaver bezog oder auf den Umstand, dass das Museum das entsprechende Exemplar nicht benötigte,[^4] lässt sich nicht mehr rekonstruieren. Was die Rechnungen des Zoos an das Museum aber deutlich machen, ist die Tatsache, dass es Verhandlungen und eine Prüfung der Objekte gab – und ebenso einen [[überschüssigen Rest|story.moving-horseshoe-crabs]], der nicht im Museum blieb.
+Allerdings wurden nicht alle Tierkörper, die aufgelistet waren, tatsächlich verwendet. Solche, die mit dem Vermerk ‘unbrauchbar’ versehen waren, erhielten keine Preise. Ob sich der Vermerk ‘unbr[auchbar]’ auf den schlechten Konservierungszustand der Tierkadaver bezog oder auf den Umstand, dass das Museum das entsprechende Exemplar nicht benötigte,[^4] lässt sich nicht mehr rekonstruieren. Was die Rechnungen des Zoos an das Museum aber deutlich machen, ist die Tatsache, dass es Verhandlungen und eine Prüfung der Objekte gab – und ebenso einen [[überschüssigen Rest|story.moving-horseshoe-crabs]], der nicht im Museum blieb.
  
 Ob ein Zootier für das Museum brauchbar war und welcher Preis bezahlt wurde, hing von verschiedenen Faktoren ab. Für 1914 wissen wir zumindest, dass der Wert für ein totes Zootier mit zehn Prozent des Wertes des lebenden Tieres angesetzt wurde.[^5] Der Preis, den das Museum zu zahlen bereit war, hing aber auch vom physischen Zustand des Tieres und von seiner Seltenheit ab. Was [[rar|story.stellers-sea-cow]] war, war begehrt, denn Gefährdung und Aussterben erzeugten eine Knappheit, die den Wert eines Tieres oder einer Art steigerten.[^6] Als der Zoo 1914 dem Museum Fell und Skelett seines letzten Davidshirsches anbot,[^7] setzte das Museum einen Wert von 20 Mark an. Zoodirektor Heck antwortete, das Tier sei mindestens 200 Mark wert, denn dies sei:
  
@@ -243,7 +243,7 @@ Für das Museum waren Informationen über die ihm angebotenen Tiere ebenfalls wi
  
 <figcaption>
  
-_Etikett für den Tiertransfer vom Zoo ins Naturkundemuseum mit (spärlichen) Informationen. (MfN, HBSB, S004-02-05, Nr. 96, Bl. 022 verso; MfN, HBSB, S004-02-05, Nr. 96, Bl. 105 recto. Alle Rechte vorbehalten.)_
+_Etikett für den Tiertransfer vom Zoo ins Zoologische Museum mit (spärlichen) Informationen. (MfN, HBSB, S004-02-05, Nr. 96, Bl. 022 verso; MfN, HBSB, S004-02-05, Nr. 96, Bl. 105 recto. Alle Rechte vorbehalten.)_
  
 </figcaption>
  
@@ -277,7 +277,7 @@ Die Nachwirkungen sind bis heute spürbar, nicht zuletzt bei dem Versuch, die He
  
 [^1]: Im Zoologischen Museum überwogen Schenkungen bei weitem im Vergleich zu Ankäufen: 1902 verzeichnete das Museum 932 Schenkungen und 547 Ankäufe; 1908 waren es 2.413 Schenkungen gegen 1.145 Ankäufe; 1913 standen 3.127 Schenkungen 870 Ankäufen gegenüber; vgl. Renate Angermann. “Die Säugetierkollektion des Museums für Naturkunde der Humboldt-Universität zu Berlin”. _Säugetierkundliche Informationen_ 3, Nr. 13 (1989): 47-68.
  
-[^2]: K.A. Möbius an das Ministerium für geistliche Angelegenheiten, 27.2.1889, in: MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I, Bl. 25; Ludwig Heck an das Zoologische Museum 1.1.1890, in MfN, HBSB, Zool. Mus. S III, Zoolog. Garten, I, Bl. 32.
+[^2]: K.A. Möbius an das Ministerium für geistliche Angelegenheiten, 27.2.1889, in: MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I, Bl. 25; L. Heck an das Zoologische Museum 01.01.1890, in MfN, HBSB, Zool. Mus. S III, Zoolog. Garten, I, Bl. 32.
  
 [^3]: Das Aquarium lieferte dem Museum damals die Tiere meist kostenfrei ins Haus. Sie wurden in der Regel als Sammelsendung mit einem Fuhrwerk des Zoos transportiert; in eiligen Fällen schickte das Museum selbst einen Boten; vgl. O. Heinroth an A. Brauer, 15.04.1915, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I; Zoo Berlin an das Naturkundemuseum, 06.08.1925, MfN, HBSB, S004-02-05 Nr. 97.
  
@@ -289,7 +289,7 @@ Die Nachwirkungen sind bis heute spürbar, nicht zuletzt bei dem Versuch, die He
  
 [^7]: Ursprünglich im östlichen Asien beheimatet, ist der Davidshirsch (_Elaphurus davidianus_) in freier Wildbahn spätestens seit dem 19. Jahrhundert ausgerottet und konnte nur durch Haltung in den kaiserlichen Gärten von Peking überleben. Nachdem französische, britische und deutsche Diplomaten aus der Herde von rund 120 Davidshirschen lebende Tiere geschenkt bekamen, wurden diese in europäische Zoos gebracht, darunter auch in den Berliner Zoo. Dort wurden die Tiere jedoch mit Rothirschen gekreuzt, wodurch der Bestand bald nicht mehr reinblütig war. Die heutigen Bestände stammen sämtlich von europäischen Zoohirschen ab.
  
-[^8]: L. Heck an A. Brauer, 10.06.1914, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I. Nachdem das Aussterben in China bekannt geworden war, gaben alle Zoos ihre Davidshirsche nach Woburn Abbey in England, wo der Herzog von Bedford sie erfolgreich züchtete. 1914 bereits 90 Tiere und war 1946 auf 300 Hirsche angewachsen. Kleine Zuchtgruppen wurden auf verschiedene Zoos verteilt und überall gezüchtet. 
+[^8]: L. Heck an A. Brauer, 10.06.1914, MfN, HBSB, Zool. Mus. S III, Zoolog. Garten I. Nachdem das Aussterben in China bekannt geworden war, gaben alle Zoos ihre Davidshirsche nach Woburn Abbey in England, wo der Herzog von Bedford sie erfolgreich züchtete. 1914 waren es bereits 90 Tiere und bis 1946 war die Zahl auf 300 Hirsche angewachsen. Kleine Zuchtgruppen wurden auf verschiedene Zoos verteilt und überall gezüchtet. 
  
 [^9]: Vgl. H. Pohle an L. Heck, 28.02.1931, MfN, HBSB, Zool. Mus. S III, Heck, L. (1926-1937).
  

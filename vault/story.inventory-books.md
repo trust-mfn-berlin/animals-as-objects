@@ -7,7 +7,7 @@ short_desc_de: Wie werden die Objekte einer Lehrsammlung verzeichnet?
 date_end: 1968-12-31T11:00:00.000Z
 published: false
 title: Inventory Books
-updated: 1643301367297
+updated: 1644701356729
 id: kZTLAIf7pRRgEPPJbtGqA
 doi: 64y2-m311/44
 translators:
@@ -71,7 +71,7 @@ _This page from inventory book V(1) records specimens 1201 to 1216. (Zoological 
 
 </figure>
 
-In its function as a catalogue of new arrivals, inventory book V(1) documented item acquisitions and offered, in the column ‘paid’ for example, an overview of the collection’s annual financial expenses. Entry registers like this were common in other collections of the time; however, there was usually a separation between the first record of arriving items and further inventories, i.e., they were organised in two separate lists. The inventories of the teaching collection appear here in a hybrid format that followed an unconventional, internal logic.
+In its function as a catalogue of new arrivals, inventory book V(1) documented item acquisitions and offered, in the column ‘paid’, for example, an overview of the collection’s annual financial expenses. Entry registers like this were common in other collections of the time; however, there was usually a separation between the first record of arriving items and further inventories, i.e., they were organised in two separate lists. The inventories of the teaching collection appear here in a hybrid format that followed an unconventional, internal logic.
 
 These adaptations derived from the specific character of the teaching collection, which means that the catalogues had a functional relationship with the objects. **Specimen records had to reflect the practical use of the objects as teaching materials.** The fact that these records were kept for a specific purpose can be seen not just in the type of information contained in the book but also in the choice of cataloguing media. On the level of the content of the knowledge noted down, we can surmise that the category [[‘location’|material.purchased-from-a-caravan]] contains information that reflects the general occurrence of the animal in question. While ‘Africa’, for example, is entered for the taxidermy of a grey parrot (_Psittacus erithacus_ L.) in the teaching collection, thereby referring to the species’ distribution, in the [[scientific collection|story.keeping-records-of-animals]] of the Zoological Museum, it was important to have precise information about where the specific specimen had been found. This characteristic points to the profile of the teaching collection, whose tasks and organisational logic were different to those of a collection with a research character.
 
@@ -107,7 +107,7 @@ _In inventory book V(2), a list of objects with the numbers 375-385 is followed 
 
 </figure>
 
-It was probably for this reason that employees stopped fully filling in the preprinted table structure. Reduced to their inventory numbers, names, and a short description of their item type, the specimens were listed one after another. The male embryo of a spiny dogfish (_Acanthias vulgaris_ Risso) preserved in alcohol, which first made its way into the collection as a purchase from the Zoological Station in Naples as number 1208, appears here again as item 2488.
+It was probably for this reason that employees stopped fully filling in the preprinted table structure. Reduced to their inventory numbers, names, and a short description of their item type, the specimens were listed one after another. The male embryo of a spiny dogfish (_Acanthias vulgaris_ Risso) preserved in alcohol, which first made its way into the collection as a purchase from the Zoological Station in Naples as number ‘1208’, appears here again as item 2488.
 
 <figure>
 
@@ -141,7 +141,7 @@ _The first page of inventory book VII reveals the graphic and systematic transfo
 
 </figure>
 
-The grey shark embryo specimen has now been assigned number 863 and is ordered by its genus _Acanthias_ (_Squalus_), but also includes the numbers of its previous records. This overview was accompanied by updates to object descriptions. _Acanthias vulgaris_ Risso became _Squalus acanthias_ L. The first inventory book V(1) was also adjusted to bring it up to date with the changes that had been taking place in zoological classification and the corresponding naming conventions. Employees completed entry 1208 with a comment in pencil that noted the Linnaean description.
+The grey shark embryo specimen has now been assigned number 863 and is ordered by its genus _Acanthias_ (_Squalus_), but also includes the numbers of its previous records. This overview was accompanied by updates to object descriptions. _Acanthias vulgaris_ Risso became _Squalus acanthias_ L. The first inventory book V(1) was also adjusted to bring it up to date with the changes that had been taking place in zoological classification and the corresponding naming conventions. Employees completed entry ‘1208’ with a comment in pencil that noted the Linnaean description.
 
 <figure>
 
@@ -149,13 +149,13 @@ The grey shark embryo specimen has now been assigned number 863 and is ordered b
 
 <figcaption>
 
-_Entry number 1208 in inventory book V(1) contains the first record of the grey shark embryo specimen. The pencil correction to the Latin name reflects the revisions made to inventory books V(1) und V(2) during reinventory. (Zoological Teaching Collection. All rights reserved.)_
+_Entry number ‘1208’ in inventory book V(1) contains the first record of the grey shark embryo specimen. The pencil correction to the Latin name reflects the revisions made to inventory books V(1) und V(2) during reinventory. (Zoological Teaching Collection. All rights reserved.)_
 
 </figcaption>
 
 </figure>
 
-This is the first time that the orientation towards certain classification standards and a new taxonomic systematics becomes visible here in the inventory book itself as a component of the recording-keeping process. This process continuously put the specimens into new orders and contexts of meaning, and made it possible to count and circulate them.[^6] **The inventory book was a tool for collection managers that reflected the struggle to find consistent and effective forms of record-keeping, which, however, it also influenced.**[^7] Attempts to adapt the inventory books accordingly clearly failed, as the graphic and systematic restructuring of the cataloguing process in inventory book VII was only carried out over a few pages and was not completed.
+This is the first time that the orientation towards certain classification standards and a new taxonomic systematics becomes visible here in the inventory book itself as a component of the record-keeping process. This process continuously put the specimens into new orders and contexts of meaning, and made it possible to count and circulate them.[^6] **The inventory book was a tool for collection managers that reflected the struggle to find consistent and effective forms of record-keeping, which, however, it also influenced.**[^7] Attempts to adapt the inventory books accordingly clearly failed, as the graphic and systematic restructuring of the cataloguing process in inventory book VII was only carried out over a few pages and was not completed.
 
 Inventory book VII is testament to this development and was also shaped by further changes to the format and the systematics of cataloguing. Numbering was no longer guided by a chronological listing of object arrivals, but ordered specimens by their taxonomic ‘class’ (fish, amphibians, reptiles etc.). All of this ultimately resulted in a list structure that can be identified as a transcription of the entries in inventory book V.[^8] The organisation of the collection seemed to have returned to the first form of record-keeping, the list.
 
@@ -173,7 +173,7 @@ _This page from inventory book VII shows how species were grouped into animal cl
 
 Like the collection items themselves, the inventories show signs of wear and tear. The pages in inventory book V display colour codes, deletions, and notes made in pencil. These were added after the fact and thus were not part of the originally intended practice of record-keeping. The additions were probably made when the specific pieces of information were being transferred to inventory book VII. The annotations overlap and emphasise the various temporal layers. It is precisely for this reason that they are confusing to outside ‘readers’ and new collection employees. **Decoding and correctly classifying historical objects is like performing detective work that, despite meticulously comparing various entries, numbers, and handwriting, only seldom leads to a precise conclusion.** 
 
-Marks with crosses, circles, and dots beside entries in inventory book V probably stand for ‘preserved’ or ‘lost’. The records were transferred to catalogue VII accordingly. _Acanthias vulgaris_ Risso has been noted with its old name under 1208.
+Crosses, circles, and dots beside entries in inventory book V probably stand for ‘preserved’ or ‘lost’. The records were transferred to catalogue VII accordingly. _Acanthias vulgaris_ Risso was thus recorded under the number ‘1208’ using its old designation..
 
 <figure>
 
@@ -181,7 +181,7 @@ Marks with crosses, circles, and dots beside entries in inventory book V probabl
 
 <figcaption>
 
-_This page from inventory book VII shows how entries 1185 to 1216 were transferred from inventory book V(1), including the spiny dogfish embryo with the number 1208. An additional column has been added to the preprinted table that records the item’s shelf number. (Zoological Teaching Collection. All rights reserved.)_
+_This page from inventory book VII shows how entries 1185 to 1216 were transferred from inventory book V(1), including the spiny dogfish embryo with the number ‘1208’. An additional column has been added to the preprinted table that records the item’s shelf number. (Zoological Teaching Collection. All rights reserved.)_
 
 </figcaption>
 
@@ -295,7 +295,7 @@ _Im Inventarbuch V(2) folgte auf die Auflistung der Objekte mit den Nummern 375-
 
 </figure>
 
-Vermutlich auch aus diesem Grund wurde die vorgedruckte Tabellenstruktur dabei nicht mehr vollständig ausgefüllt. Reduziert auf die Inventarnummer, die Bezeichnung und eine kurze Beschreibung der Objektart wurden die Präparate nacheinander aufgelistet. Ein in Alkohol konservierter männlicher Embryo eines Dornhais (_Acanthias vulgaris_ Risso), der zuerst  unter der Nummer 1208 als Ankauf von der Zoologischen Station in Neapel in die Sammlung gelangte, tauchte hier wieder auf, als Objekt 2488; siehe zum Wiederauftauchen von Sammlungsobjekten auch [[material.of-disappearance-and-rediscovery]].
+Vermutlich auch aus diesem Grund wurde die vorgedruckte Tabellenstruktur dabei nicht mehr vollständig ausgefüllt. Reduziert auf die Inventarnummer, die Bezeichnung und eine kurze Beschreibung der Objektart wurden die Präparate nacheinander aufgelistet. Ein in Alkohol konservierter männlicher Embryo eines Dornhais (_Acanthias vulgaris_ Risso), der zuerst  unter der Nummer ‘1208’ als Ankauf von der Zoologischen Station in Neapel in die Sammlung gelangte, tauchte hier wieder auf, als Objekt 2488; siehe zum Wiederauftauchen von Sammlungsobjekten auch [[material.of-disappearance-and-rediscovery]].
 
 <figure>
 
@@ -337,7 +337,7 @@ Das Präparat des Dornhai-Embryos fand sich nun unter der Nummer 863 und dem Gat
 
 <figcaption>
 
-_Der Eintrag mit der Nummer 1208 verzeichnet erstmalig das Präparat eines Dornhai-Embryos im Inventarbuch V(1). Die mit Bleistift vermerkte Korrektur der lateinischen Bezeichnung verweist auf die im Rahmen von Neuinventarisierungen erfolgten Revisionen der Inventarbücher V(1) und V(2). (Zoologische Lehrsammlung. Alle Rechte vorbehalten.)_
+_Der Eintrag mit der Nummer ‘1208’ verzeichnet erstmalig das Präparat eines Dornhai-Embryos im Inventarbuch V(1). Die mit Bleistift vermerkte Korrektur der lateinischen Bezeichnung verweist auf die im Rahmen von Neuinventarisierungen erfolgten Revisionen der Inventarbücher V(1) und V(2). (Zoologische Lehrsammlung. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -361,7 +361,7 @@ _Diese Seite aus dem Inventarbuch VII zeigt die Einteilung der Präparate in Tie
 
 Wie auch die Objekte der Sammlung selbst, weisen die Inventare Gebrauchsspuren auf. Die Seiten der Inventarbücher V zeigen farbliche Codierungen, Durchstreichungen und mit Bleistift vermerkte Notizen. Diese wurden nachträglich hinzugefügt, gehörten also nicht zu der ursprünglich beabsichtigten Verzeichnungspraxis. Sie entstanden vermutlich, als man die einzelnen Angaben in das Inventarbuch VII übertrug. Die Annotationen überlagern einander und betonen verschiedene zeitliche Ebenen. Gerade deshalb sorgen sie bei außenstehenden ‘Leser:innen’ und bei neuen Sammlungsmitarbeiter:innen für Verwirrung. **Das Entziffern und die korrekte historische Einordnung gleichen detektivischer Arbeit, die trotz des minutiösen Abgleichens unterschiedlicher Einträge, Nummern und Handschriften nur selten zu einer präzisen Einschätzung führt.**
 
-Markierungen mit Kreuzen, Kreisen und Punkten neben Einträgen des Inventarbuchs V stehen höchstwahrscheinlich für ‘erhalten geblieben’ oder ‘verloren gegangen’. Entsprechend gestaltete sich daraufhin die Übertragung der Verzeichnung in den Katalog VII. _Acanthias vulgaris_ Risso notierte man dabei wieder mit seiner alten Bezeichnung unter der Nummer 1208.
+Markierungen mit Kreuzen, Kreisen und Punkten neben Einträgen des Inventarbuchs V stehen höchstwahrscheinlich für ‘erhalten geblieben’ oder ‘verloren gegangen’. Entsprechend gestaltete sich daraufhin die Übertragung der Verzeichnung in den Katalog VII. _Acanthias vulgaris_ Risso notierte man dabei wieder mit seiner alten Bezeichnung unter der Nummer ‘1208’.
 
 <figure>
 
@@ -369,7 +369,7 @@ Markierungen mit Kreuzen, Kreisen und Punkten neben Einträgen des Inventarbuchs
 
 <figcaption>
 
-_Diese Seite aus dem Inventarbuch VII zeigt die Übertragung der Einträge 1185 bis 1216 aus dem Inventarbuch V(1), darunter auch der Dornhai-Embryo mit der Nummer 1208. Die vorgedruckte Tabelle wurde durch eine zusätzliche Spalte ergänzt, die die Stellplatznummer der Objekte vermerkt. (Zoologische Lehrsammlung. Alle Rechte vorbehalten.)_
+_Diese Seite aus dem Inventarbuch VII zeigt die Übertragung der Einträge 1185 bis 1216 aus dem Inventarbuch V(1), darunter auch der Dornhai-Embryo mit der Nummer ‘1208’. Die vorgedruckte Tabelle wurde durch eine zusätzliche Spalte ergänzt, die die Stellplatznummer der Objekte vermerkt. (Zoologische Lehrsammlung. Alle Rechte vorbehalten.)_
 
 </figcaption>
 

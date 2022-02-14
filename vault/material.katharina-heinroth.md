@@ -1,22 +1,21 @@
 ---
 license: CC BY-SA
+title: Katharina Heinroth
 title_de: Katharina Heinroth
 created: 1619797579886
-author: Clemens Maier-Wolthausen
-short_desc_de: Foto von Katharina Heinroth auf der morgendlichen Runde durch den Zoo
-date_end: 1955-12-31T11:00:00.000Z
-published: false
-title: Katharina Heinroth
 updated: 1642165180787
 id: f2e04dbc-1209-40b6-baf5-599fd36e63c7
+author: Clemens Maier-Wolthausen
 doi: 64y2-m311/19
 translators:
   translator_de_en: ""
 copy_editors:
   copy_editor_en: Carla Welch
-desc: Photograph of Katharina Heinroth on her morning rounds at the Zoo
-desc_de: Foto von Katharina Heinroth auf der morgendlichen Runde durch den Zoo
-short_desc: Photograph of Katharina Heinroth on her morning rounds at the Zoo
+desc: Reconstructing the Zoo
+desc_de: Den Zoo wieder aufbauen
+short_desc: Reconstructing the Zoo
+short_desc_de: Den Zoo wieder aufbauen
+keywords: coming soon…
 cover_image:
   image: /images/cover-katharina-heinroth.jpg
   alt: 'Berlin zoo director Katharina Heinroth on her morning rounds with four
@@ -27,6 +26,8 @@ cover_image:
 colour_scheme: 7
 tao_type: material
 date_start: 1944-12-31T23:00:00.000Z
+date_end: 1955-12-31T11:00:00.000Z
+published: false
 ---
 
 

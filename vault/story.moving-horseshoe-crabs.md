@@ -7,7 +7,7 @@ short_desc_de: Verbreitungswege von Tieren und Wissen
 date_end: 2020-01-01T21:08:57.624Z
 published: false
 title: Moving Horseshoe Crabs
-updated: 1643320267258
+updated: 1644525000210
 id: WPnxMDphZ5DDXrhkIdvBS
 doi: 64y2-m311/50
 translators:
@@ -88,7 +88,7 @@ So far, however, there has been no indication that horseshoe crabs have become e
 
 [^12]: See, e.g., Olaf Geiter, Susanne Homma, and Ragnar Kinzelbach. _Bestandsaufnahme und Bewertung von Neozoen in Deutschland: Untersuchung der Wirkung von Biologie und Genetik ausgewählter Neozoen auf Ökosysteme und Vergleich mit den potenziellen Effekten gentechnisch veränderter Organismen._ Berlin/Rostock: German Environment Agency, 2001.
 
-[^13]: An animal that a fisherman caught live near the East Frisian island of Spiekeroog in July 1972 was even kept for four years in the Wilhelmshaven Aquarium until it died in October 1972. Wolff, 1977. See, moreover, Stephan Gollasch. “A Horseshoe Crab _Limulus polyphemus_ Found on Sylt Germany in 1970: Een degenkrab Limulus polyphemus gevonden op Sylt Duitsland in 1970”. _Zeepaard_ 67 (2007): 79.81; Stephan Gollasch. “An Additional Record of the Horseshoe Crab _Limulus polyphemus_ in the North Sea: Aliens”. _Journal of the Invasive Species Specialist Group of the IUCN Species Survival Commission_ 22 (2005): 11.
+[^13]: An animal that a fisherman caught live near the East Frisian island of Spiekeroog in July 1972 was even kept for four years in the Wilhelmshaven Aquarium until it died in October 1972. Wolff, 1977. See, moreover, Stephan Gollasch. “A Horseshoe Crab _Limulus polyphemus_ Found on Sylt Germany in 1970: Een degenkrab Limulus polyphemus gevonden op Sylt Duitsland in 1970”. _Zeepaard_ 67 (2007): 79-81; Stephan Gollasch. “An Additional Record of the Horseshoe Crab _Limulus polyphemus_ in the North Sea: Aliens”. _Journal of the Invasive Species Specialist Group of the IUCN Species Survival Commission_ 22 (2005): 11.
 
 [^14]: Cf. Stephan Gollasch and Stefan Nehring. “National Checklist for Aquatic Alien Species in Germany”. _Aquatic Invasions_ 1, no. 4 (2006): 245-269; Stefan Nehring and Heiko Leuchs. “Neozoa (Makrozoobenthos) an der deutschen Nordseeküste: Eine Übersicht”. _Bericht Bundesanstalt für Gewässerkunde Koblenz_. BfG-1200 1999: 1-131. 
 

@@ -2,8 +2,8 @@
   <div class="citation-modal" role="dialog" aria-labelledby="citation_label" aria-modal="true" :class="$store.getters.articleTaoType">
     <h3 id="citation_label" class="f-mono subheading" v-if="siteLang == 'en'">Cite this article</h3>
     <h3 id="citation_label" class="f-mono subheading" v-else>zitiere diesen Artikel</h3>
-    <p class="f-mono citation text-links" ref="citation" v-if="siteLang == 'en'">{{article.author}}, "{{article.title}}", <em>Animals as Objects?</em>, <span v-if="article.translators && article.translators.translator_de_en"> trans. {{article.translators.translator_de_en}},</span> 15 November 2021, Last updated {{article.updatedAt | formatDate}}, <a>https://animalsasobjects.org/{{article.slug}}</a> <span v-if="article.doi">DOI: <a>https://doi.naturkundemuseum.berlin/data/{{article.doi}}</a></span></p>
-    <p class="f-mono citation text-links" ref="citation" v-else>{{article.author}}, "{{article.title_de}}", <em>Tiere als Objekte?</em>, <span v-if="article.translators && article.translators.translator_en_de"> Übers. {{article.translators.translator_en_de}},</span> 15. November 2021, letzte Aktualisierung {{article.updatedAt | formatDate}}, <a>https://animalsasobjects.org/de/{{article.slug}}</a> <span v-if="article.doi">DOI: <a>https://doi.naturkundemuseum.berlin/data/{{article.doi}}</a></span></p>
+    <p class="f-mono citation text-links" ref="citation" v-if="siteLang == 'en'">{{article.author}}. "{{article.title}}". In <em>Animals as Objects?</em>. Ina Heuman and Tahani Nadim (eds.). <a>https://animalsasobjects.org</a>, 2022. <span v-if="article.doi">DOI: <a>https://doi.naturkundemuseum.berlin/data/{{article.doi}}</a></span></p>
+    <p class="f-mono citation text-links" ref="citation" v-else>{{article.author}}. "{{article.title_de}}". In <em>Tiere als Objekte?</em>. Ina Heumann und Tahani Nadim (Hg.). <a>https://animalsasobjects.org</a>, 2022. <span v-if="article.doi">DOI: <a>https://doi.naturkundemuseum.berlin/data/{{article.doi}}</a></span></p>
     <text-button type="button" @click.native="copyCitation()">{{copyButtonText}}</text-button>
     <icon-button class="close" :tao_type="$store.getters.articleTaoType" icon="close" @click.native="$store.commit('toggleCitationModal', {isOpen:false, article:''})">Close</icon-button>
   </div>
@@ -89,6 +89,10 @@ export default {
 
   @media screen and (max-width: @mq-s) /* Mobile */ {
     width: calc(100% - @space-s*2)
+  }
+
+  a{
+    word-break: break-all;
   }
 }
 </style>

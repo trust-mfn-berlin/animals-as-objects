@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1643322950474
+updated: 1644706018638
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 doi: 64y2-m311/69
@@ -50,7 +50,7 @@ _This video illustrates the work of Christin Scheinpflug, who is a preparator at
 
 As our project investigates how zoo animals become museum collection objects, we were keen to record the individual moments of this transformation. To this end, we visited specimen preparator Christin Scheinpflug in her workshop over several months.[^2] Once the preparation was done, we were also able to follow the collection manager Pascal Eckhoff as he entered information about the study skin into the database and catalogued it as part of the Bird Collection.
 
-Whether Tierpark and Zoo animals are actually sent to the Museum für Naturkunde depends on a number of questions, like what kind of animals they are, which species they represent, whether the collection already has specimens of that species in good conditions, and how rare the species is. How well-preserved an animal’s body is can also be crucial for deciding whether it will be prepared as a specimen. This also determines how it will be stored at the museum – whether as a skeleton or a study skin (with a partial skeleton) for the scientific collection, or as a taxidermy piece in the exhibition.
+Whether Tierpark and Zoo animals are actually sent to the Museum für Naturkunde Berlin depends on a number of questions, like what kind of animals they are, which species they represent, whether the collection already has specimens of that species in good conditions, and how rare the species is. How well-preserved an [[animal’s body|material.of-lion-tigers-and-rotting-specimens]] is can also be crucial for deciding whether it will be prepared as a specimen. This also determines how it will be stored at the museum – whether as a skeleton or a study skin (with a partial skeleton) for the scientific collection, or as a taxidermy piece in the exhibition.
 
 In this case, it was decided to prepare a study skin and a partial skeleton.[^3] Because a study skin is a scientific object, it is important to utilise and preserve the original body parts. For this purpose, a study skin was made from the skin of the Jendaya parakeet together with its feathers, beak, legs, and feet (including its lower legs and foot bones), as well as its wings (including its falanx, forearm, and shoulder bones). A partial skeleton refers to bone structures that do not add up to a complete skeleton because parts are missing or have been used, for example, in making the study skins. In the case of our Jendaya parakeet, a partial skeleton was crafted using the cervical spine and the trunk skeleton left from the earlier preparation.[^4] All other parts of the skeleton – the femurs, skull, falanxes, arms, and shoulders – remained in the study skin.
 
@@ -317,7 +317,7 @@ _Vogelbälge auf dem Weg in die Sammlung (Foto: Mareike Vennen/MfN. Alle Rechte 
 
 </figure>
 
-_Content-Warnung_: Der folgende Text und das Video enthalten Bilder von der Präparation eines toten Vogels, die für manche Betrachter verstörend sein könnten.
+_Content-Warnung_: Der folgende Text und das Video enthalten Bilder von der Präparation eines toten Vogels, die für manche Betrachter:innen verstörend sein könnten.
 
 Im Herbst 2020 und im Frühjahr 2021 haben wir, Filippo Bertoni und Mareike Vennen, die Präparation eines Vogelbalgs im Museum für Naturkunde Berlin miterlebt und dokumentiert. Es handelt sich um einen männlichen, ausgewachsenen Jendayasittich (_Aratinga jandaya_), der am 13. Juni 2006 im Berliner Tierpark schlüpfte und den der Tierpark nach seinem Tod am 29. August 2020 in das Museum für Naturkunde überstellte.[^1]
 
@@ -330,11 +330,11 @@ _Das Video zeigt Christin Scheinpflug, Präparatorin am Museums für Naturkunde 
 </figcaption>
 
 
-In unserem Projekt untersuchen wir, wie Zootiere in Naturkundemuseen zu Sammlungsobjekten werden und haben dafür die einzelnen Schritte dieser Transformation im Museum gefilmt. Zunächst haben wir die Präparatorin Christin Scheinpflug mehrmals in der Werkstatt besucht;[^2] anschließend konnten wir dem Sammlungspfleger Pascal Eckhoff bei der Erfassung des Vogelbalgs in der Datenbank und der Aufnahme in die ornithologische Sammlung über die Schulter schauen.
+In unserem Projekt untersuchen wir unter anderem, wie Zootiere in Naturkundemuseen zu Sammlungsobjekten werden und haben dafür die einzelnen Schritte dieser Transformation im Museum gefilmt. Zunächst haben wir die Präparatorin Christin Scheinpflug mehrmals in der Werkstatt besucht;[^2] anschließend konnten wir dem Sammlungspfleger Pascal Eckhoff bei der Erfassung des Vogelbalgs in der Datenbank und der Aufnahme in die ornithologische Sammlung über die Schulter schauen.
 
-Ob Tiere aus dem Tierpark oder Zoo in die Sammlung des Museums für Naturkunde eingehen, hängt zum einen davon ab, was es für Tiere sind, welcher Art sie angehören, ob es bereits Exemplare der Art in der Sammlung gibt und wie selten die Art ist. Auch die Frage, wie intakt der Tierkörper ist, kann entscheidend dafür sein, ob ein Tier präpariert wird und wie es im Museum aufbewahrt wird – als Skelett oder Balg (mit Teilskelett) für die wissenschaftliche Sammlung oder als aufgestelltes Objekt in der Ausstellung.
+Ob Tiere aus dem Tierpark oder Zoo in die Sammlung des Museums für Naturkunde Berlin eingehen, hängt zum einen davon ab, was es für Tiere sind, welcher Art sie angehören, ob es bereits Exemplare der Art in der Sammlung gibt und wie selten die Art ist. Auch die Frage, wie [[intakt der Tierkörper|material.of-lion-tigers-and-rotting-specimens]] ist, kann entscheidend dafür sein, ob ein Tier präpariert wird und wie es im Museum aufbewahrt wird – als Skelett oder Balg (mit Teilskelett) für die wissenschaftliche Sammlung oder als aufgestelltes Objekt in der Ausstellung.
 
-In diesem Fall entschied man sich für die Herstellung eines Vogelbalges und eines Teilskelettes.[^3] Da es sich bei einem Balg um wissenschaftliches Arbeitsmaterial handelt, ist es wichtig originale Körperteile zu nutzen und zu erhalten. Zu diesem Zweck wurde ein Balg aus der Haut des Jendayasittichs mit Gefieder, Schnabel, Beinen und Füßen (inklusive Unterschenkel- und Fußknochen) sowie den Flügeln (inklusive Hand-, Unterarm- und Oberarmknochen) angefertigt. Als Teilskelett werden Knochenstrukturen bezeichnet, die nicht komplett sind, das heißt es fehlen Bestandteile eines vollständigen Skeletts. Beim Jendayasittich wurde ein Teilskelett aus der Halswirbelsäule und dem Rumpfskelett angefertigt.[^4] Alle anderen Skelettteile – Unterschenkel, Schädel, Hand-, Arm- und Oberarmknochen – verbleiben im Vogelbalg.
+In diesem Fall entschied man sich für die Herstellung eines Vogelbalges und eines Teilskelettes.[^3] Da es sich bei einem Balg um wissenschaftliches Arbeitsmaterial handelt, ist es wichtig, originale Körperteile zu nutzen und zu erhalten. Zu diesem Zweck wurde ein Balg aus der Haut des Jendayasittichs mit Gefieder, Schnabel, Beinen und Füßen (inklusive Unterschenkel- und Fußknochen) sowie den Flügeln (inklusive Hand-, Unterarm- und Oberarmknochen) angefertigt. Als Teilskelett werden Knochenstrukturen bezeichnet, die nicht komplett sind, das heißt, es fehlen Bestandteile eines vollständigen Skeletts. Beim Jendayasittich wurde ein Teilskelett aus der Halswirbelsäule und dem Rumpfskelett angefertigt.[^4] Alle anderen Skelettteile – Unterschenkel, Schädel, Hand-, Arm- und Oberarmknochen – verblieben im Vogelbalg.
 
 Dass hier zusätzlich ein Teilskelett angefertigt wurde, hing einerseits mit der Entscheidung für eine Balgpräparation zusammen. Balgpräparation und Teilskelettherstellung bilden zumindest in der Ornithologie eine Einheit. Da wichtige Skelettteile wie Schädel und Unterschenkel im Balg verbaut und somit Originalteile verwendet werden, muss sich der oder die Kustod:in vor der Präparation entweder für ein vollständiges Skelett oder einen Balg mit Teilskelett entscheiden. In diesem Fall waren dem Vogel bei der vorhergehenden Sektion bereits die Rippen geöffnet worden, um Organe zu entnehmen. Zusätzlich war ein Teil des Brustmuskels entfernt worden.
 
@@ -392,7 +392,7 @@ _So wird der Transponder aufbewahrt, bis er dem Balg am Ende eingesetzt wird. (F
 
 </figure>
 
-Um den Balg herzustellen, musste als erstes die Haut mit Hilfe von Skalpell und Schere abgezogen und dadurch vom sogenannten Fleischkörper getrennt werden. Anschließend wurde die Haut gereinigt, indem sie mechanisch von Bindegewebs- und Fettresten befreit wurde. Zusätzlich wurden die verbliebenen Knochenstrukturen (Unterschenkel, Schädel, Unter- und Oberarm) von Muskelfleisch und Sehen befreit – dieser Prozess wird auch als ‘Entfleischen’ bezeichnet. Fett und Bindegewebe von der Haut zu entfernen und die Knochen zu entfleischen ist ein wichtiger Bestandteil der präparatorischen Arbeit, da durch den Geruch von Fett- und Fleischresten Insekten angelockt werden können, die den Balg in der Sammlung eventuell durch [[Fraß|story.from-pests-to-displays]] am Objekt schädigen.
+Um den Balg herzustellen, musste als erstes die Haut mit Hilfe von Skalpell und Schere abgezogen und dadurch vom sogenannten Fleischkörper getrennt werden. Anschließend wurde die Haut gereinigt, indem sie mechanisch von Bindegewebs- und Fettresten befreit wurde. Zusätzlich wurden die verbliebenen Knochenstrukturen (Unterschenkel, Schädel, Unter- und Oberarm) von Muskelfleisch und Sehnen befreit – dieser Prozess wird auch als ‘Entfleischen’ bezeichnet. Fett und Bindegewebe von der Haut zu entfernen und die Knochen zu entfleischen ist ein wichtiger Bestandteil der präparatorischen Arbeit, da durch den Geruch von Fett- und Fleischresten Insekten angelockt werden können, die den Balg in der Sammlung eventuell durch [[Fraß|story.from-pests-to-displays]] am Objekt schädigen.
 
 <figure>
 
@@ -420,7 +420,7 @@ _Wasserbad mit Supralan und Salz zur Reinigung der Haut und eventuell verschmutz
 
 </figure>
 
-Bei der Gerbung, die der langfristigen Konservierung von Tierhäuten mittels Gerbstoffe dient, wurde der Körper zunächst in einer Salz-Lösung mit Supralan geweicht. Der Gerbvorgang findet in mehreren Schritten statt und dient der Fixierung des Gerbstoffes in der Haut. Dieser Vorgang nimmt etwa einen Arbeitstag in Anspruch. Über Nacht wird die handtuchfeuchte Haut auf einem Gitter im Kühlschrank aufbewahrt, um am nächsten Tag die Gerbung mit dem Prozess der Neutralisation abzuschließen. Von der Gerbung wird stets ein eigenes Protokoll angefertigt.
+Bei der Gerbung, die der langfristigen Konservierung von Tierhäuten mittels Gerbstoffen dient, wurde der Körper zunächst in einer Salz-Lösung mit Supralan geweicht. Der Gerbvorgang findet in mehreren Schritten statt und dient der Fixierung des Gerbstoffes in der Haut. Dieser Vorgang nimmt etwa einen Arbeitstag in Anspruch. Über Nacht wird die handtuchfeuchte Haut auf einem Gitter im Kühlschrank aufbewahrt, um am nächsten Tag die Gerbung mit dem Prozess der Neutralisation abzuschließen. Von der Gerbung wird stets ein eigenes Protokoll angefertigt.
 
 <figure>
 
@@ -450,7 +450,7 @@ _Der künstliche Körper für den Balg wird im Abgleich mit den Maßen des Fleis
 
 Auf dem Holzwollkorpus markierte die Präparatorin die Stellen, wo später die Flügel und Unterschenkel angesetzt werden. Mit einem stärkeren Baumwollfaden wurde der Körper aus Holzwolle am Ende vernäht und der Hals, der statt aus Holzwolle aus umwickelter Watte (für mehr Flexibilität) besteht, fixiert.
 
-Für die letzten Schritte der Präparation, das Zusammenbauen der Vogels, Vernähen und Federnlegen, wechselten wir vom Sektionsraum an Christin Scheinpflugs Arbeitsplatz in der Werkstatt für Großpräparation. Der Prozess des Zusammenbauens beginnt immer mit der Verdrahtung von Flügelknochen und Unterschenkel. Ein Draht wird mittels Baumwollfaden fest an den Knochen gewickelt, damit eine spätere Verankerung der Knochen im Holzwollkörper stattfinden kann. Danach zog die Präparatorin die gegerbte Haut über den künstlichen Körper und verband Hals und Schädel des Vogels mittels eines Drahtes miteinander. An einigen Stellen wurde zusätzlich Dextrinton aufgetragen, um die Schädel-Halsverbindung zu stabilisieren. Anschließend wurden die Flügelknochen samt Draht in den künstlichen Körper gesteckt und verankert; selbiges geschah mit den Unterschenkeln. Nun erfolgte das Vernähen der Haut an dem Holzwollkörper.[^8] Beim Vernähen wurde auch der entnommene Transponder im Brustbereich des Holzwollkörpers eingesetzt.
+Für die letzten Schritte der Präparation, das Zusammenbauen der Vogels, Vernähen und Federnlegen, wechselten wir vom Sektionsraum an Christin Scheinpflugs Arbeitsplatz in der Werkstatt für Großpräparation. Der Prozess des Zusammenbauens beginnt immer mit der Verdrahtung von Flügelknochen und Unterschenkeln. Ein Draht wird mittels Baumwollfaden fest an den Knochen gewickelt, damit eine spätere Verankerung der Knochen im Holzwollkörper stattfinden kann. Danach zog die Präparatorin die gegerbte Haut über den künstlichen Körper und verband Hals und Schädel des Vogels mit einem Draht. An einigen Stellen wurde zusätzlich Dextrinton aufgetragen, um die Schädel-Halsverbindung zu stabilisieren. Anschließend wurden die Flügelknochen samt Draht in den künstlichen Körper gesteckt und verankert; selbiges geschah mit den Unterschenkeln. Nun erfolgte das Vernähen der Haut an dem Holzwollkörper.[^8] Beim Vernähen wurde auch der entnommene Transponder im Brustbereich des Holzwollkörpers eingesetzt.
 
 <figure>
 
@@ -498,7 +498,7 @@ _Trockenföhnen und Federn legen (Foto: Filippo Bertoni/MfN. Alle Rechte vorbeha
 
 </figure>
 
-Für die Herstellung des Teilskeletts musste nun auch der originale Vogelkörper vollständig ‘entfleischt’ werden, der im Gegensatz zum Schädelknochen nicht wieder in den Balg eingeführt wird. Der vom Fleisch befreite Vogelkörper wurde anschließend zum sogenannten Entbluten in eine Salzlösung gelegt. Aufgrund der geringen Größe des Vogelkörpers entschied sich die Präparatorin für eine Knochenpräparation mit Hilfe von Speckkäfern. Hierbei werden die Skelettteile für mehrere Tage in einen Behälter mit Speckkäfern in einen erwärmten Schrank gelegt.[^9] Diese aasfressenden Insekten lassen kein Fleisch an den Knochen übrig.
+Für die Herstellung des Teilskeletts musste nun auch der originale Vogelkörper vollständig ‘entfleischt’ werden, der im Gegensatz zum Schädelknochen nicht wieder in den Balg eingeführt wird. Der vom Fleisch befreite Vogelkörper wurde anschließend zum sogenannten Entbluten in eine Salzlösung gelegt. Aufgrund der geringen Größe des Vogelkörpers entschied sich die Präparatorin für eine Knochenpräparation mit Hilfe von Speckkäfern. Hierbei werden die Skelettteile für mehrere Tage in einen Behälter mit Speckkäfern in einem erwärmten Schrank gelegt.[^9] Diese aasfressenden Insekten lassen kein Fleisch an den Knochen übrig.
 
 <figure>
 
@@ -512,7 +512,7 @@ _Herstellung des Teilskelettes mithilfe von Speckkäfern in einem Wärmeschrank 
 
 </figure>
 
-Daraufhin wurde das Skelett noch einmal eingefroren (um möglicherweise auf und in den Knochen noch verbliebene Käfer zu töten), entfettet und gebleicht, und war dann fertig für die Sammlung. Wir begleiteten Christin Scheinpflug daher mit dem Vogelbalg, dem Teilskelett und dem Datenblatt von den Präparationswerkstätten in die Vogelsammlung.
+Daraufhin wurde das Skelett noch einmal eingefroren (um auf und in den Knochen möglicherweise noch verbliebene Käfer zu töten), entfettet und gebleicht, und war dann fertig für die Sammlung. Wir begleiteten Christin Scheinpflug daher mit dem Vogelbalg, dem Teilskelett und dem Datenblatt von den Präparationswerkstätten in die Vogelsammlung.
 
 <figure>
 
@@ -560,15 +560,15 @@ Am Ende ist dieser Vogel unter der Inventarnummer ‘ZMB 2021.171’ in der Samm
 
 <figcaption>
 
-_Einordnen des Teilskelett in die Sammlung (Foto: Mareike Vennen/MfN. Alle Rechte vorbehalten.)_
+_Einordnen des Teilskeletts in die Sammlung (Foto: Mareike Vennen/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
 </figure>
 
-[^1]: Daten wie Todestag, Alter und Schlupftag sind in der ZIMS-Datenbank im Tierpark erfasst. Dort ist auch vermerkt, dass die Elterntiere unbekannt sind. Die Gruppe an Jendayasittichen im Tierpark besteht derzeit (Stand Oktober 2021) durchschnittlich aus elf Individuen, von denen es eine regelmäßige Nachzucht gibt. In dieser Gruppe war der hier besprochene Vogel der älteste. Jendayasittiche werden im Tierpark durchschnittlich bis zu 20 Jahre alt.
+[^1]: Daten wie Todestag, Alter und Schlupftag sind in der ZIMS-Datenbank im Tierpark erfasst. Dort ist auch vermerkt, dass die Elterntiere unbekannt sind. Die Gruppe an Jendayasittichen im Tierpark besteht derzeit (Stand Oktober 2021) durchschnittlich aus elf Individuen, von denen es eine regelmäßige Nachzucht gibt. In dieser Gruppe war der hier besprochene Vogel der älteste. Jendayasittiche werden im Tierpark bis zu 20 Jahre alt.
 
-[^2]: Häufig finden die verschiedenen Schritte der Präparation nicht am Stück, sondern mit Unterbrechungen statt, so dass sich der Prozess über mehrere Wochen oder Monate erstrecken kann. Wir danken Christin Scheinpflug, dass sie uns an dem Prozess hat teilhaben lassen und uns auch darüber hinaus unsere zahlreichen Fragen beantwortet und Hinweise gegeben hat.
+[^2]: Häufig finden die verschiedenen Schritte der Präparation nicht am Stück, sondern mit Unterbrechungen statt, so dass sich der Prozess über mehrere Wochen oder Monate erstrecken kann. Wir danken Christin Scheinpflug, dass sie uns an dem Prozess hat teilhaben lassen und uns darüber hinaus unsere zahlreichen Fragen beantwortet und Hinweise gegeben hat.
 
 [^3]: Bei einem Balg handelt es sich im Gegensatz zu einem aufgestellten Präparat um die Haut eines Vogels mit anhängendem Gefieder, Schnabel, Beinen und Füßen, die über einen künstlich nachgebildeten Körper gestülpt und in einer Schublade aufbewahrt werden kann. In wissenschaftlichen Sammlungen werden heute vor allem Bälge verwendet. Zur Vogelsammlung des Museums für Naturkunde Berlin vgl. Sylke Frahnert, M. Päckert, D.T. Tietze und T. Töpfer. “Aktuelle Schwerpunkte sammlungsbezogener Forschung in der Ornithologie”. _Vogelwarte_ 51, Nr. 3 (2013): 185-191.
 
