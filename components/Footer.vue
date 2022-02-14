@@ -8,7 +8,7 @@
     </small>
     <small class="f-mono links">
       <nuxt-link :to="$store.getters.siteLanguage == 'de' ? '/de/datenschutz' : '/datenschutz'">{{$store.getters.siteLanguage == "de" ? 'Datenschutzerklärung' : 'Data privacy policy'}}</nuxt-link> |
-      <nuxt-link :to="$store.getters.siteLanguage == 'de' ? '/de/imprint' : '/imprint'">Impressum</nuxt-link>
+      <nuxt-link :to="$store.getters.siteLanguage == 'de' ? '/de/imprint' : '/imprint'">{{$store.getters.siteLanguage == "de" ? 'Impressum' : 'Imprint'}}</nuxt-link>
     </small>
     
     <!-- <icon-button icon="arrow-up" tao_type="material" @click.native="scrollToY(0, 800)"></icon-button> -->
