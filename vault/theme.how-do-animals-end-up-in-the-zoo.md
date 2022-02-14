@@ -243,7 +243,7 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 <figcaption>
 
-_Die Flusspferde “Knautschke” (unten), Jungtier “Jette” (mittig) und “Bulette” (oben), um 1959. (AZGB, : Hoppe. Alle Rechte vorbehalten.)_
+_Die Flusspferde “Knautschke” (unten), Jungtier “Jette” (mittig) und “Bulette” (oben), um 1959. (AZGB, Foto: Hoppe. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
