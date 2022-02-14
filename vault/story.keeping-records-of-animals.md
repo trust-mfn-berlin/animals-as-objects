@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: Keeping Records of Animals
 title_de: Tiere verzeichnen
 created: 1635148858347
-author: Mareike Vennen
-short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
-date_end: 2022-10-25T08:44:25.273Z
-published: false
-title: Keeping Records of Animals
 updated: 1644526561091
 id: zrAZZTgVehO9zeVbW4dMX
+author: Mareike Vennen
 doi: 64y2-m311/30
 translators:
   translator_de_en: Carla Welch
@@ -25,11 +22,19 @@ desc_de: Wie kommen Tiere aus dem Zoo in eine Sammlung? Dazu gehört nicht nur
   Rechnungen. Durch sie erfahren wir etwas über die Transformation von Zootieren
   in Museumsobjekte und darüber, welcher Wert ihnen gegeben wurde.
 short_desc: Object transfer and the circulation of lists between zoos and museums
+short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
+keywords: Aquarium information daten Lichtenstein Reptilien Preis Davidshirsch
+  Matschie Heinroth Heck Umlauff Ruhe Hagenbeck Ludwig Zukowsky elefant Mary
+  Hermann Pohle Georg Steinbacher Papier Aquarium information data Lichtenstein
+  Reptilien price David's deer Matschie Heinroth Heck Umlauff Ruhe Hagenbeck
+  Ludwig Zukowsky elephant Mary Hermann Pohle Georg Steinbacher paper
 cover_image:
   image: /images/verzeichnis-mfn-hbsb-s-iii-zool-garten-bd-1.jpg
 colour_scheme: 9
 tao_type: story
 date_start: 1914-01-13T00:00:00.000Z
+date_end: 2022-10-25T08:44:25.273Z
+published: false
 ---
 
 :::EN:::
