@@ -200,22 +200,7 @@ blockquote{
 // Footnotes
 
 .nuxt-content{
-  &.story{
-    a.footnote-ref{
-      border-radius: @radius-m;
-    } 
-  }
-
-  &.theme{
-
-  }
-
-  &.material{
-    a.footnote-ref{
-      border-radius: @radius-max;
-    }
-  }
-
+  
   .footnotes{
     margin-top: 1rem;
     &::before{
@@ -245,7 +230,11 @@ blockquote{
     ::v-deep .wiki-link-component{
       bottom: 0;
       .text{
-        padding: 1mm;
+        border-width: 0 !important;
+        padding: 0;
+        height: auto !important;
+        text-decoration: underline !important;
+        margin: 0 !important;
       }
     }
   }
@@ -262,6 +251,7 @@ sup{
 figcaption{
   font-size: @fs-print-small !important;
   sup{
+    top:0;
     
   }
 }
@@ -275,6 +265,7 @@ figure{
 
   img{
     max-width: @article-width;
+    max-height: 170mm;
     // max-height: 1200px;
   }
 
