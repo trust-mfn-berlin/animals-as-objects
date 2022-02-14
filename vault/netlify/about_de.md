@@ -1,15 +1,15 @@
 ---
 title: Über uns
 ---
-## Über diese Website
+## Über diese Webseite
 
-*Tiere als Objekte?* ist eine Publikation des Forschungsprojekts [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum in Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte) und wird von Ina Heumann und Tahani Nadim herausgegeben. Diese Website präsentiert unsere Forschungsergebnisse in deutscher und englischer Sprache anhand ausgewählter Objekte, Geschichten und Tieren. Sie gibt vielstimmige Antworten auf die Frage, wie Tiere zu naturkundlichen Objekten und Daten gemacht wurden.
+*Tiere als Objekte?* ist eine Publikation des Forschungsprojekts [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum in Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte) und wird von Ina Heumann und Tahani Nadim herausgegeben. Diese Webseite präsentiert unsere Forschungsergebnisse in deutscher und englischer Sprache anhand ausgewählter Objekte, Geschichten und Tiere. Sie gibt vielstimmige Antworten auf die Frage, wie Tiere zu naturkundlichen Objekten und Daten gemacht wurden.
 
-Die häufig für die Katalogisierung und das Management von naturkundlichen Sammlungen verwendeten relationalen Datenbanken dienten als Inspiration für das Konzept und die visuelle Gestaltung der Website. Deshalb beinhaltet die Webseite drei verschiedene Arten von Artikeln, die auf unterschiedliche und manchmal überraschende Weise miteinander verknüpft sind:
+Die häufig für die Katalogisierung und das Management von naturkundlichen Sammlungen verwendeten relationalen Datenbanken dienten als Inspiration für das Konzept und die visuelle Gestaltung der Webseite. Deshalb beinhaltet die Webseite drei verschiedene Arten von Artikeln, die auf unterschiedliche und manchmal überraschende Weise miteinander verknüpft sind:
 
-* ***Material*** legt den Fokus auf spezifische Fotos, Objekte, Dokumente, Ereignisse, usw.
-* ***Storys*** liefern mithilfe von ***Material*** und anderen Quellen Antworten auf kleine und große Forschungsfragen.
-* ***Themen*** öffnen den Blick für den thematischen Rahmen und verbinden ***Storys*** und ***Material***.
+* ***Materialien*** legt den Fokus auf spezifische Fotos, Objekte, Dokumente, Ereignisse, usw.
+* ***Storys*** liefern mithilfe von ***Materialien*** und anderen Quellen Antworten auf kleine und große Forschungsfragen.
+* ***Themen*** öffnen den Blick für den thematischen Rahmen und verbinden ***Storys*** und ***Materialien***.
 
 Alle technischen Komponenten sind Open Source. Wir haben kollaborativ über [Dendron](https://www.dendron.so/) gearbeitet, über [git](https://git-scm.com/) synchronisiert und direkt aus git über eine selbst gehostete Version des Content-Management-Systems [Netlify](https://www.netlify.com/) veröffentlicht.
 
@@ -55,7 +55,7 @@ Clemens Maier-Wolthausen studierte Geschichte in Berlin und Bergen/Norwegen mit 
 
 #### Tahani Nadim
 
-Tahani Nadim ist Co-Leiterin des interdisziplinären Forschungsabteilung Humanities of Nature am Museum für Naturkunde Berlin. Sie ist Juniorprofessorin für Soziokulturelle Anthropologie am Institut für Europäische Ethnologie der Humboldt-Universität zu Berlin, wo sie auch Mitglied des Centre for Anthropological Research on Museums and Heritage (CARMAH) ist. Sie forscht zu Datenpolitiken, dem Verhältnis von Natur und Datenerfassung sowie den politischen und gesellschaftlichen Kontexten und Konsequenzen von Sammlungsdigitalisierung.
+Tahani Nadim leitet gemeinsam mit Ina Heumann das Projekt „Tiere als Objekte“ und die interdisziplinäre Forschungsabteilung Kultur- und Sozialwissenschaften der Natur (_Humanities of Nature_) am Museum für Naturkunde. Sie ist Juniorprofessorin für Soziokulturelle Anthropologie am Institut für Europäische Ethnologie der Humboldt-Universität zu Berlin, wo sie auch Mitglied des Centre for Anthropological Research on Museums and Heritage (CARMAH) ist. Sie forscht zu Datenpolitiken, dem Verhältnis von Natur und Datenerfassung sowie den politischen und gesellschaftlichen Kontexten und Konsequenzen von Sammlungsdigitalisierung.
 
 #### Sebastian Riedel
 
@@ -68,6 +68,10 @@ Theresa Schatt studierte im Bachelor Kulturwissenschaft und Kunst-und Bildgeschi
 #### Sarina Schirmer
 
 Sarina Schirmer ist seit Januar 2021 studentische Mitarbeiterin im Projekt “Tiere als Objekte”. Neben ihrem Bachelorstudium der Geschichts- und Politikwissenschaften arbeitete sie bereits im interdisziplinären Forschungsverbund *Topoi* sowie am Institut für Zeitgeschichte. Momentan schließt sie ihr Masterstudium der Geschichtswissenschaften an der Freien Universität Berlin ab. Ihre Interessen liegen dabei im Bereich der Global- und Umweltgeschichte, sowie der Wissensgeschichte.
+
+#### Mareike Vennen
+
+Mareike Vennen ist Kulturwissenschaftlerin und arbeitet derzeit als PostDoc an der Humboldt-Universität zu Berlin. Ihre Dissertation an der Bauhaus-Universität Weimar untersucht die frühe Geschichte des Aquariums im 19. Jahrhundert, indem sie menschlichen und nicht-menschlichen Akteuren folgt - Amateurwissenschaftler*innen, Glasplatten, Pumpen, tropfende Briefsendungen, Wasserschnecken und Schlamm. Als PostDoc hat sie an der Technischen Universität Berlin über die Geschichte(n) kolonialer Expeditionen gearbeitet. Neben ihrem Interesse an der Entwicklung neuer experimenteller Formate in der Wissenschaftskommunikation und Wissensvermittlung reichen ihre Forschungsinteressen von der Museumswissenschaft über die Geschichte der Naturgeschichte bis hin zu Sammlungsökologien im 19. und 20. Jahrhundert. Ihre Arbeit konzentriert sich auf die materielle Kultur, Praktiken und Logistik (in) der Naturgeschichte und die Politiken, die visuelle Kultur und die Ökologien des Sammelns und Ausstellens. Mit ihrer Arbeit will sie der Zirkulation von Objekten, Wissen und Praktiken und deren Verstrickungen mit infrastrukturellen, staatlichen und ökologischen Fragen näher auf die Spur kommen.
 
 ### Mitwirkende
 
