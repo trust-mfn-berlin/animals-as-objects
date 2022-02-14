@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: Inventory Books
 title_de: Inventarbücher
 created: 1629792912565
-author: Theresa Schatt
-short_desc_de: Wie werden die Objekte einer Lehrsammlung verzeichnet?
-date_end: 1968-12-31T11:00:00.000Z
-published: false
-title: Inventory Books
 updated: 1644701356729
 id: kZTLAIf7pRRgEPPJbtGqA
+author: Theresa Schatt
 doi: 64y2-m311/44
 translators:
   translator_de_en: Lydia J. White
@@ -24,6 +21,11 @@ desc_de: Die Suche nach einem präparierten Dornhai-Embryo ergibt, dass das
   Krieg, Verlust, praktische Ansprüche der Lehrtätigkeit, und wissenschaftliche
   Neuerungen geprägt wurden.
 short_desc: How does a teaching collection keep records of its items?
+short_desc_de: Wie werden die Objekte einer Lehrsammlung verzeichnet?
+keywords: inventar* verzeichn* dokument* lehr* schulze berndt papier* ordnung*
+  etikett* krieg dornhai fisch kategori* media* medie register* document*
+  catalog* paper teach* schulze berndt order* label* war shark fish categor*
+  media*
 cover_image:
   image: /images/cover-inventory-books-inventarbuecher-zoologische-lehrsammlung-zoological-teaching-collection-berlin.png
   alt: |-
@@ -33,6 +35,8 @@ cover_image:
 colour_scheme: 17
 tao_type: story
 date_start: 1883-12-31T23:06:32.000Z
+date_end: 1968-12-31T11:00:00.000Z
+published: false
 ---
 
 :::EN:::
