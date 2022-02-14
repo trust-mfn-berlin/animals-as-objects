@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding List 1945
 title_de: Futterliste 1945
 created: 1624185750239
-updated: 1643295412899
+updated: 1644881129573
 id: R4t_2F3NY3xIuAnRoDG0T
 author: Mareike Vennen
 doi: 64y2-m311/22
@@ -76,7 +76,7 @@ In the early 1950s, when not only was there an upturn in the [[animal trade|stor
 >
 >signed.
 
-[^1]: Cf. Katharina Heinroth, report on the period from 01.01.1948 to 31.12.1950 at the general assembly of the stock association of the Berlin Zoological Garden (Actien-Verein des Zoologischen Gartens Berlin), 21.05.1951, AZGB; Katharina Heinroth. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. Munich: Kindler, 1979: 169-170.
+[^1]: Cf. Katharina Heinroth, report on the period from 01.01.1948 to 31.12.1950 at the general assembly of the stock association of the Berlin Zoological Garden (Actien-Verein des zoologischen Gartens Berlin), 21.05.1951, AZGB; Katharina Heinroth. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. Munich: Kindler, 1979: 169-170.
 
 [^2]: Cf. K. Heinroth to U. Bergman, 07.03.1950, AZGB N 4/12.
 
@@ -126,6 +126,6 @@ Anfang der 1950er Jahre, als nicht nur der [[Tierhandel|story.catching-animals]]
 >
 >gez. Unterschrift
 
-[^1]: Vgl. Katharina Heinroth, Bericht über die Zeit vom 01.01.1948 bis 31.12.1950 auf der Hauptversammlung des Actien-Vereins des Zoologischen Gartens Berlin, 21.05.1951, AZGB; Katharina Heinroth. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 169-170.
+[^1]: Vgl. Katharina Heinroth, Bericht über die Zeit vom 01.01.1948 bis 31.12.1950 auf der Hauptversammlung des Actien-Vereins des zoologischen Gartens Berlin, 21.05.1951, AZGB; Katharina Heinroth. _Mit Faltern begann’s: Mein Leben mit Tieren in Breslau, München und Berlin_. München: Kindler, 1979: 169-170.
 
 [^2]: Vgl. K. Heinroth an U. Bergman, 07.03.1950, AZGB N 4/12.

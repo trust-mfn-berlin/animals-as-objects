@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Lions or Cows?
 title_de: Löwen oder Kühe?
 created: 1640356599113
-updated: 1643316275560
+updated: 1644881118931
 id: 9mH5N7vuPc8pcrpIzElb1
 author: Mareike Vennen
 doi: 64y2-m311/55
@@ -62,7 +62,7 @@ However, the establishment of the Agricultural Zoo wore on. The application for 
 
 [^5]: One shareholder successfully objected, preventing the construction of an exhibition hall and all of the ensuing financial plans. Zoological Garden management to the Ministry of Agriculture, Domains, and Forests, 29.07.1903, AZGB O 0/1/94.
 
-[^6]: The zoo committed itself, in turn, to providing teachers and students at both universities with free entry. Cf. “Geschäftsbericht über das Jahr 1904”, Actien-Verein des Zoologischen Gartens zu Berlin, Berlin 1905; “Geschäftsbericht über das Jahr 1912”, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1913. 
+[^6]: The zoo committed itself, in turn, to providing teachers and students at both universities with free entry. Cf. “Geschäftsbericht über das Jahr 1904”, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1905; “Geschäftsbericht über das Jahr 1912”, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1913. 
 
 [^7]: Ministry of Agriculture, Domains, and Forests to the Aktienvereins des zoologischen Gartens, 19.12.1908, AZGB O 0/1/94.
 
@@ -96,9 +96,9 @@ Die Umsetzung des Landwirtschaftlichen Tierparks zog sich allerdings hin. Der An
 
 [^4]: _Vossische Zeitung_ 8 (1844), zit. nach Annelore Rieke-Müller und Lothar Dittrich. _Der Löwe brüllt nebenan: Die Gründung Zoologischer Gärten im deutschsprachigen Raum 1833-1869_. Köln: Böhlau, 1998: 60.
 
-[^5]: Der Bau einer Ausstellungshalle und der ganze damit zusammenhängende Finanzplan, wurde durch den erfolgreichen Widerspruch eines Aktionärs verhindert. Direktion des Zoologischen Gartens an das Ministerium für Landwirtschaft, Domänen und Forsten, 29.07.1903, AZGB O 0/1/94.
+[^5]: Der Bau einer Ausstellungshalle und der ganze damit zusammenhängende Finanzplan wurde durch den erfolgreichen Widerspruch eines Aktionärs verhindert. Direktion des Zoologischen Gartens an das Ministerium für Landwirtschaft, Domänen und Forsten, 29.07.1903, AZGB O 0/1/94.
 
-[^6]: Der Zoo verpflichtete sich im Gegenzug, den Lehrenden und Studierenden beider Hochschulen freien Eintritt zu gewähren. Vgl. “Geschäftsbericht über das Jahr 1904”, Actien-Verein des Zoologischen Gartens zu Berlin, Berlin 1905; “Geschäftsbericht über das Jahr 1912”, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1913. 
+[^6]: Der Zoo verpflichtete sich im Gegenzug, den Lehrenden und Studierenden beider Hochschulen freien Eintritt zu gewähren. Vgl. “Geschäftsbericht über das Jahr 1904”, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1905; “Geschäftsbericht über das Jahr 1912”, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1913. 
 
 [^7]: Ministerium für Landwirtschaft, Domänen und Forsten an den Vorstand des Aktienvereins des zoologischen Gartens, 19.12.1908, AZGB O 0/1/94.
 
