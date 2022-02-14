@@ -17,6 +17,11 @@ desc_de: "Der überseeische Transport von – toten wie lebenden – Tieren stel
   versorgt, wer verfüttert, und wer geht über Bord?"
 short_desc: Lively (and deadly) metabolisms at sea
 short_desc_de: "Stoffwechselprozesse auf hoher See "
+keywords: "Schomburgk Guyana Meer Ozean schiff Transport Logisti* Austral*
+  koloni* sammeln Lichtenstein Humboldt Ratte* Sloane rassis* Klassifi*
+  Zitteraal* Harpyie Schlange* Leguan ordn schomburgk guyana sea ocean ship
+  transport* logistic* austral* coloni* collect lichtenstein humboldt rat*
+  sloane racis* classif* eel harpy* snake* order "
 cover_image:
   image: /images/from-pests.jpeg
 colour_scheme: 7
