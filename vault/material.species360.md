@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: Species360
 title_de: Species360
 created: 1620987484846
-author: Clemens Maier-Wolthausen
-short_desc_de: Software zur Koordination von Zootierhaltungen
-date_end: 2022-12-25T19:31:46.616Z
-published: false
-title: Species360
 updated: 1644602357840
 id: 690683a5-6845-4c80-bb3b-5771881bdca6
+author: Clemens Maier-Wolthausen
 doi: 64y2-m311/21
 translators:
   translator_de_en: ""
@@ -17,6 +14,9 @@ copy_editors:
 desc: Software for the coordination of zoo animal collections
 desc_de: Software zur Koordination von Zootierhaltungen
 short_desc: Software for the coordination of zoo animal collections
+short_desc_de: Software zur Koordination von Zootierhaltungen
+keywords: Datenbank Software Zucht Information Washington Convention WAZA
+  Haltung database breeding software information Washington Convention WAZA
 cover_image:
   image: /images/cover-species-360-logo.jpg
   alt: "Species360 logo with stylised globe in the zero, and claim below: Global
@@ -25,6 +25,8 @@ cover_image:
 colour_scheme: 6
 tao_type: material
 date_start: 1973-12-31T23:00:00.000Z
+date_end: 2022-12-25T19:31:46.616Z
+published: false
 ---
 
 :::EN:::
