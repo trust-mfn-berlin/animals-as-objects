@@ -1,15 +1,11 @@
 ---
 license: CC BY-SA
+title: Feed Scarcity
 title_de: Futternot
 created: 1621497485660
-date_end: 1950-12-31T11:00:00.000Z
-keywords: banana grape orange
-author: Mareike Vennen
-short_desc_de: "1945: Krise in Zoo und Stadt "
-published: false
-title: Feed Scarcity
 updated: 1644521490133
 id: d54394f6-1188-4ec3-b590-da329e657560
+author: Mareike Vennen
 doi: 64y2-m311/23
 translators:
   translator_de_en: ""
@@ -26,6 +22,10 @@ desc_de: Wie gelang es dem weitgehend zerstörten Berliner Zoologischen Garten
   Krise neue Verbindungen ein – zwischen Unterstützung und Konkurrenz, was die
   Rolle und Funktion des Zoos zeitweise veränderte.
 short_desc: 1945 — a zoo and a city in crisis
+short_desc_de: "1945: Krise in Zoo und Stadt "
+keywords: Krieg Elefant Zirkus Heinroth Pferd Besatzung Nutztier Haustier Esel
+  Schaf Ziege Siam Fleisch Nachkrieg* War elephant circus meat Siam Heinroth
+  horse occup* farm animal donkey sheep goat postwar
 cover_image:
   image: /images/cover-food-shortage.jpg
   alt: |-
@@ -36,6 +36,8 @@ cover_image:
 colour_scheme: 10
 tao_type: story
 date_start: 1944-12-31T23:00:00.000Z
+date_end: 1950-12-31T11:00:00.000Z
+published: false
 ---
 
 :::EN:::
