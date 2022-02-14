@@ -23,7 +23,10 @@ desc_de: Die Praxis des Verzeichnens spielt im naturkundlichen Sammeln eine
   begreifen, befinden sich aber auch selbst beständig im Wandel.
 short_desc: Recording is a transformative process.
 short_desc_de: Naturkundliche Verzeichnungspraktiken und ihre transformative Kraft
-keywords: coming soon…
+keywords: Papier* Dokument* Sammeln Liste Katalog* Taxonom* Ordnung* Inventar*
+  Etikett* Archiv* Daten* Klassifi* Medien koloni* Handel Kartei* CITES paper
+  document* collect list* catalog* taxonom* order* inventar* label* archiv* data
+  classif* meida coloni* trade index CITES
 cover_image:
   image: /images/mfn-hbsb-zool-mus-s004-02-05-96.jpg
 colour_scheme: 9
