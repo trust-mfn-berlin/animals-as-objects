@@ -1,28 +1,29 @@
 ---
-id: 5df12377-545a-45f9-9cd3-04fb8e499fb1
-title: Infusoria
-desc: An old term to refer to microorganisms
-updated: 1643064517434
-created: 1618493065699
 license: CC BY-SA
+title: Infusoria
 title_de: Infusorien
+created: 1618493065699
+updated: 1643064517434
+id: 5df12377-545a-45f9-9cd3-04fb8e499fb1
 author: Filippo Bertoni
-short_desc_de: Eine alte Bezeichnung für Mikroorganismen
-date_end: '1876-12-29T19:50:46.075Z'
-published: false
-desc_de: Eine alte Bezeichnung für Mikroorganismen
-short_desc: An old term to refer to microorganisms
-cover_image:
-  image: /images/amoeba.png
-date_start: '1763-01-01T19:50:46.071Z'
 doi: 64y2-m311/37
 translators:
-  translator_en_de: ''
+  translator_en_de: ""
 copy_editors:
-  copy_editor_en: ''
+  copy_editor_en: ""
   copy_editor_de: Jan-Peter Herrmann
+desc: An old term to refer to microorganisms
+desc_de: Eine alte Bezeichnung für Mikroorganismen
+short_desc: An old term to refer to microorganisms
+short_desc_de: Eine alte Bezeichnung für Mikroorganismen
+keywords: Ehrenberg Fisch Aquarium Ehrenber fish aquarium
+cover_image:
+  image: /images/amoeba.png
 colour_scheme: 3
 tao_type: material
+date_start: 1763-01-01T19:50:46.071Z
+date_end: 1876-12-29T19:50:46.075Z
+published: false
 ---
 
 :::EN:::
