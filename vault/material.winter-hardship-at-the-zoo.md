@@ -1,20 +1,19 @@
 ---
 license: CC BY-SA
+title: Winter Hardship at the Zoo
 title_de: Wintersnot im Zoo
 created: 1635149269643
-author: Mareike Vennen
-short_desc_de: "Ein Gedicht zur Lage "
-date_end: ""
-published: false
-title: Winter Hardship at the Zoo
 updated: 1643314343711
 id: QNjsPsf49gtoKwbK4WauU
+author: Mareike Vennen
 doi: 64y2-m311/49
 translators:
   translator_de_en: Carla Welch
 desc: A poem from 1948
 desc_de: "Ein Gedicht zur Lage "
 short_desc: A poem from 1948
+short_desc_de: "Ein Gedicht zur Lage "
+keywords: Heinroth Blockade Futter Heinroth blockade feed
 cover_image:
   image: /images/wintersnot.jpg
   alt: A typewritten poem on a punched piece of paper signed "K. Ferber" with a
@@ -23,6 +22,8 @@ cover_image:
 colour_scheme: 13
 tao_type: material
 date_start: 1948-10-25T09:34:00.000Z
+date_end: ""
+published: false
 ---
 
 :::EN:::
