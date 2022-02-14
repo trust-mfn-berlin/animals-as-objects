@@ -1,24 +1,26 @@
 ---
-id: H40I2GIwYN6393S3tIUHI
-title: The ‘Gorilla Beast’
-desc: An example of colonial iconography
-updated: 1643310341832
-created: 1640365282699
 license: CC BY-SA
+title: The ‘Gorilla Beast’
 title_de: Die ‘Bestie Gorilla’
+created: 1640365282699
+updated: 1643310341832
+id: H40I2GIwYN6393S3tIUHI
 author: Britta Lange
 doi: 64y2-m311/61
 translators:
   translator_de_en: Lydia J. White
-desc_de: 'Zu einem Beispiel kolonialer Ikonografie '
+desc: An example of colonial iconography
+desc_de: "Zu einem Beispiel kolonialer Ikonografie "
 short_desc: An example of colonial iconography
-short_desc_de: 'Zu einem Beispiel kolonialer Ikonografie '
+short_desc_de: "Zu einem Beispiel kolonialer Ikonografie "
+keywords: koloni* jagd jäger dermo* taxiderm* umlauff matschie zenker
+  kamerun  coloni* hunt* dermo* taxiderm* umlauff matschie zenker cameroon
 cover_image:
   image: /images/lange-3.jpg
 colour_scheme: 7
 tao_type: material
-date_start: '1901-12-24T18:00:39.000Z'
-date_end: '1903-12-24T18:00:39.000Z'
+date_start: 1901-12-24T18:00:39.000Z
+date_end: 1903-12-24T18:00:39.000Z
 published: false
 ---
 
