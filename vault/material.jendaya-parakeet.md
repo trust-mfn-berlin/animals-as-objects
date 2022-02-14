@@ -13,6 +13,8 @@ desc: Preparing a bird study skin at the Museum für Naturkunde Berlin
 desc_de: Präparation eines Vogelbalgs im Museum für Naturkunde Berlin
 short_desc: Preparing a bird study skin at the Museum für Naturkunde Berlin
 short_desc_de: Präparation eines Vogelbalgs im Museum für Naturkunde Berlin
+keywords: taxiderm* dermoplast* präparat* Scheinpflug Eckhoff daten chip Vogel
+  taxiderm* model scheinpflug bird eckhoff data chip dermo*
 cover_image:
   image: /images/jendaya-n.jpg
 colour_scheme: 2
