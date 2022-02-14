@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: Catching Animals
 title_de: Tiere fangen
 created: 1618492547915
-author: Clemens Maier-Wolthausen
-short_desc_de: Habitate und Tierhandelsfirmen
-date_end: 1973-12-31T11:00:00.000Z
-published: false
-title: Catching Animals
 updated: 1644602550441
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
+author: Clemens Maier-Wolthausen
 doi: 64y2-m311/13
 translators:
   translator_de_en: ""
@@ -20,6 +17,12 @@ desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren
   Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle
   Tierhandelsfirmen.
 short_desc: Habitats and animal trading companies
+short_desc_de: Habitate und Tierhandelsfirmen
+keywords: Koloni* Kairo Elefant Handel Löwe Jamrach Hagenbeck Reiche Schillings
+  Nashorn Bobby Gorilla New York Affe Orang-Utan Rhinoceros Klös Südafrika
+  Vietnam GDR Grzimek Dathe  coloni* Cairo elephant trade Löwe Jamrach Hagenbeck
+  Reiche Schillings rhino Bobby Gorilla New York monkey orangutan Klös South
+  Africa Vietnam GDR Grzimek Dathe
 cover_image:
   image: /images/cover-catching-animals.jpg
   alt: |-
@@ -29,6 +32,8 @@ cover_image:
 colour_scheme: 2
 tao_type: story
 date_start: 1844-12-31T23:06:32.000Z
+date_end: 1973-12-31T11:00:00.000Z
+published: false
 ---
 
 
