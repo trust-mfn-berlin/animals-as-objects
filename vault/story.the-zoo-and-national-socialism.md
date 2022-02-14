@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: The Zoo and National Socialism
 title_de: Der Zoo im Nationalsozialismus
 created: 1619020958263
-author: Clemens Maier-Wolthausen
-short_desc_de: Propagandainstrument und Zwangsarbeit
-date_end: 1945-12-31T11:00:00.000Z
-published: false
-title: The Zoo and National Socialism
 updated: 1644603254129
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
+author: Clemens Maier-Wolthausen
 doi: 64y2-m311/12
 translators:
   translator_de_en: ""
@@ -24,6 +21,10 @@ desc_de: In der Zeit der nationalsozialistischen Diktatur boten sich Zooleitung
   Zoodirektor war mit der Elite des Regimes gut vernetzt. Während des Krieges
   wurden Zwangsarbeiter:innen ausgebeutet.
 short_desc: Propaganda instrument and forced labour
+short_desc_de: Propagandainstrument und Zwangsarbeit
+keywords: Heck Jagd Georg Siegmann Helene Siegmann Walter Simon Auerochs Krieg
+  Polen Zwangsarbeit Heck hunt Georg Siegmann Helene Siegmann Walter Simon
+  Aurochs War Poland forced labour
 cover_image:
   image: /images/cover-zoo-in-nazi-regime.jpg
   alt: |-
@@ -34,6 +35,8 @@ cover_image:
 colour_scheme: 5
 tao_type: story
 date_start: 1932-12-31T23:00:00.000Z
+date_end: 1945-12-31T11:00:00.000Z
+published: false
 ---
 
 
