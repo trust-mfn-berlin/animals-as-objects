@@ -23,7 +23,7 @@ The research project [Animals as Objects. Zoological Gardens and Natural History
 
 ## About the people
 
-## Project Members
+## Project members
 
 #### Jenske Bal
 
@@ -55,7 +55,7 @@ Clemens Maier-Wolthausen studied history in Berlin und Bergen/Norway with a focu
 
 #### Tahani Nadim
 
-Tahani Nadim co-heads the interdisciplinary research centre Humanities of Nature at the Museum für Naturkunde Berlin. She is a junior professor for socio-cultural anthropology at the Institute for European Ethnology at Humboldt-Universität zu Berlin, where she is also a member of the Centre for Anthropological Research on Museums and Heritage (CARMAH). Her research focuses on data politics, the datafication of nature and the political and social contexts and consequences of collection digitization.
+Tahani Nadim heads the project “Animals as Objects” together with Ina Heumann and also co-heads the department Humanities of Nature at the Museum für Naturkunde Berlin. She is a junior professor for socio- cultural anthropology at the Institute for European Ethnology at Humboldt University Berlin, where she is also a member of the Centre for Anthropological Research on Museums and Heritage (CARMAH). Her research focuses on data politics, the datafication of nature and the political and social contexts and consequences of collection digitization.
 
 #### Sebastian Riedel
 
@@ -68,6 +68,11 @@ Theresa Schatt studied Cultural Studies and Art and Visual History in her Bachel
 #### Sarina Schirmer
 
 Sarina Schirmer has been a student assistant with the project “Animals as Objects” since January 2021. In addition to her bachelor’s degree in history and political science, she has worked with the interdisciplinary research network Topoi and at the Institute of Contemporary History. She is currently completing her Master’s degree in history at the Free University of Berlin. Her interests lie in the fields of global and environmental history, as well as the history of knowledge production.
+
+#### Mareike Vennen
+
+Mareike Vennen is a cultural studies scholar, currently working at the Humboldt University in Berlin. She gained her PhD at Bauhaus University of Weimar with a dissertation that explores the early history of the aquarium in 19th century Britain and Germany, following amateur scientists, water snails and aquarium pumps, dripping letters and mud. She has worked as a postdoctoral fellow at the Technical University of Berlin in the research project “Dinosaurs in Berlin” where she examined the histories of colonial expeditions. In addition to her interest in developing new experimental formats in science communication and knowledge transfer, her research interests range from museum studies to the history of natural history and collection ecologies in 19th and 20th century. Her work focuses on the material culture, practices and logistics of and in natural history and the politics, ecologies and visual cultures of collecting and exhibiting. She wants to explore the circulation of objects, knowledge and practices and their entanglements with infrastructural, governmental and environmental issues.
+
 
 ### Contributors
 
@@ -85,7 +90,7 @@ Catarina Madruga completed her PhD “Taxonomy and Empire: Zoogeographical Resea
 
 Jan-Peter Herrmann is a freelance translator and copy-editor based in Berlin. 
 
-### Copy-Editing
+### Copy-editing
 
 #### Jan-Peter Herrmann
 
@@ -95,7 +100,7 @@ Jan-Peter Herrmann is a freelance translator and copy-editor based in Berlin.
 
 Carla Welch is a freelance translator and copy-editor based in Regensburg.
 
-### Design and Development
+### Design and development
 
 #### Trust
 
@@ -115,7 +120,7 @@ Claire Tolan is an artist and programmer based in Berlin, who focuses exploring 
 
 Rasmus Emanuel Svensson is a graphic designer based in Berlin and Amsterdam where he founded (with Hanna Nilsson) [PWR studio](https://pwr.site/) and publishing house.
 
-### Web Editors
+### Web editors
 
 [*bellu*&*bellu*](http://mbab.paqc.net/)
 
