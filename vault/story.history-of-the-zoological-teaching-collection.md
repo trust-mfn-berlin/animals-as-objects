@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: History of the Zoological Teaching Collection
 title_de: Geschichte der Zoologischen Lehrsammlung
 created: 1629792627920
-author: Theresa Schatt
-short_desc_de: Objekte, Inventare, Menschen und Netzwerke
-date_end: 1968-12-31T11:00:00.000Z
-published: false
-title: History of the Zoological Teaching Collection
 updated: 1644700888484
 id: hUAZn8uswMmXvmUP1S4Jn
+author: Theresa Schatt
 doi: 64y2-m311/43
 translators:
   translator_de_en: Lydia J. White
@@ -21,6 +18,10 @@ desc_de: Die Dokumente der Zoologischen Lehrsammlung an der Humboldt-Universitä
   des wissenschaftlichen Vorgehens und der (universitäts-)politischen
   Konfliktlinien.
 short_desc: Objects, inventories, people, and networks
+short_desc_de: Objekte, Inventare, Menschen und Netzwerke
+keywords: inventar* lehr* Peters Schulze heider Korschelt wandtafel* Seidel
+  Feuerborn NSDAP Krieg DDR register* teach*Peters Schulze heider Korschelt
+  chart* Seidel Feuerborn NSDAP war GDR
 cover_image:
   image: /images/cover-history-zoological-teaching-collection.png
   alt: |-
@@ -31,6 +32,8 @@ cover_image:
 colour_scheme: 1
 tao_type: story
 date_start: 1883-12-31T23:06:32.000Z
+date_end: 1968-12-31T11:00:00.000Z
+published: false
 ---
 
 :::EN:::
