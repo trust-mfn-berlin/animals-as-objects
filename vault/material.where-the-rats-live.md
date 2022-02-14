@@ -1,25 +1,27 @@
 ---
-id: WvlC2lzgJTGcErlbiCFEt
-title: Where the Rats Live
-desc: Audio stories about animals in Berlin
-updated: 1642424315353
-created: 1640358221692
 license: CC BY-SA
+title: Where the Rats Live
 title_de: Vom Ort der Ratten in Berlin
-author: 'Britta Lange, Mareike Vennen'
-short_desc_de: Audiogeschichten über Tiere in Berlin
-date_end: ''
-published: false
+created: 1640358221692
+updated: 1642424315353
+id: WvlC2lzgJTGcErlbiCFEt
+author: Britta Lange, Mareike Vennen
 doi: 64y2-m311/62
 translators:
   translator_de_en: Lydia J. White
+desc: Audio stories about animals in Berlin
 desc_de: Audiogeschichten über Tiere in Berlin
 short_desc: Audio stories about animals in Berlin
+short_desc_de: Audiogeschichten über Tiere in Berlin
+keywords: stimme medizin tieranatom* theater parasit* taube  voice medicin*
+  anatom* theatre parasit* pigeon rat
 cover_image:
   image: /images/tiertopografien-vennen-lange.jpg
 colour_scheme: 5
 tao_type: material
-date_start: '1790-01-01T16:02:39.000Z'
+date_start: 1790-01-01T16:02:39.000Z
+date_end: ""
+published: false
 ---
 
 :::EN:::
