@@ -1,20 +1,20 @@
 ---
 license: CC BY-SA
+title: Labels and Knowledge
 title_de: Etikettenwissen
 created: 1629109985448
-author: Mareike Vennen
-short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
-date_end: 1935-01-01T10:48:28.706Z
-published: false
-title: Labels and Knowledge
 updated: 1643322959227
 id: K2rQQdv1K7aDMUi5gDHcN
+author: Mareike Vennen
 doi: 64y2-m311/29
 translators:
   translator_de_en: Carla Welch
 desc: Material traces of the relationship between museum and zoo
 desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 short_desc: Material traces of the relationship between museum and zoo
+short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
+keywords: Dokument* Kadaver Patholog* Patagonien Ceylon document cadaver
+  patholog* Patagonia Ceylon
 cover_image:
   image: /images/cover-etiketten-pohle-S004-02-05-96-020-v.jpg
   alt: |-
@@ -26,6 +26,8 @@ cover_image:
 colour_scheme: 4
 tao_type: material
 date_start: 1920-01-01T10:48:28.702Z
+date_end: 1935-01-01T10:48:28.706Z
+published: false
 ---
 
 
