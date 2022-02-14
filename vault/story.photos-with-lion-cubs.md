@@ -1,31 +1,37 @@
 ---
-id: 4U5dFDf18mKRPdRnzu35p
+license: CC BY-SA
 title: Photos with Lion Cubs
+title_de: Bilder mit Löwenbabys
+created: 1640340586550
+updated: 1644601240377
+id: 4U5dFDf18mKRPdRnzu35p
+author: Mareike Vennen
+doi: 64y2-m311/67
+translators:
+  translator_de_en: Lydia J. White
 desc: |-
   In many zoos, visitors once had the opportunity to have their photo taken
   with lion cubs. When did this motif emerge, and why has it disappeared from
   today's zoos?
-updated: 1644601240377
-created: 1640340586550
-license: CC BY-SA
-title_de: Bilder mit Löwenbabys
-author: Mareike Vennen
-short_desc_de: 'Raubtier, Zootier, Kuscheltier? Politiken des Tierbildes'
-date_end: 1994-12-24T10:34:00.000Z
-published: false
-doi: 64y2-m311/67
-translators:
-  translator_de_en: Lydia J. White
 desc_de: |-
   In vielen Zoos konnte man sich mit einem Löwenbaby fotografieren
   lassen. Wann kam dieses Motiv auf und warum ist es heute aus den Zoos
   verschwunden?
-short_desc: 'Predators, zoo animals, or stuffed toys? The politics of animal pictures'
+short_desc: Predators, zoo animals, or stuffed toys? The politics of animal pictures
+short_desc_de: Raubtier, Zootier, Kuscheltier? Politiken des Tierbildes
+keywords: Bild* Medien schaf ziege* streicheln foto* erinner* Grzimek koloni*
+  Schillings jagd jäger trophä* kino film wertheim handel kauf CITES reiche
+  zucht fang* heinroth ökonom* leipzig cottbus tierschutz kapital*
+  expedition*  image media sheep goat touch photo* memor* Grzimek coloni*
+  schillings hunt* trophy film cinema wertheim trade CITES reiche breed* catch*
+  heinroth econom* leipzig cottbus welfare capital* expedition
 cover_image:
   image: /images/Dieter-Herfurth-1939-mit-Loewenbaby.jpg
 colour_scheme: 14
 tao_type: story
 date_start: 1890-12-24T11:24:39.000Z
+date_end: 1994-12-24T10:34:00.000Z
+published: false
 feature: true
 ---
 
