@@ -1,7 +1,7 @@
 ---
 license: CC BY-SA
 title: The German-Colonial Hunting Exhibition
-title_de: Die deutsch-koloniale Jagdausstellung
+title_de: Die Deutsch-Koloniale Jagdausstellung
 created: 1640456876442
 updated: 1644881302393
 id: ZDxo1U9ptEVRJhmFpVKyC
