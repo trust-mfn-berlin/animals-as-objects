@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: NSB Database
 title_de: NSB Datenbank
 created: 1619187736766
-author: Filippo Bertoni
-short_desc_de: Eine umfangreiche Datenbank mikropaläontologischer Proben und Daten
-date_end: 2022-12-07T18:44:00.147Z
-published: false
-title: NSB Database
 updated: 1643065735067
 id: 384f2259-ec40-482d-bacc-c0876ae280aa
+author: Filippo Bertoni
 doi: 64y2-m311/38
 translators:
   translator_en_de: ""
@@ -18,11 +15,16 @@ copy_editors:
 desc: " A vast database of micropaleontological samples and data"
 desc_de: Eine umfangreiche Datenbank mikropaläontologischer Proben und Daten
 short_desc: " A vast database of micropaleontological samples and data"
+short_desc_de: Eine umfangreiche Datenbank mikropaläontologischer Proben und Daten
+keywords: Lazarus Daten Fossil* Infrastruktur radiolari* Lazarus data Fossil*
+  infrastructure radiolari*
 cover_image:
   image: /images/nsb-cover-2.png
 colour_scheme: 11
 tao_type: material
 date_start: 1989-01-01T18:39:00.000Z
+date_end: 2022-12-07T18:44:00.147Z
+published: false
 ---
 
 :::EN:::
