@@ -1,15 +1,11 @@
 ---
 license: CC BY-SA
+title: The Afterlife of Zoo Animals
 title_de: Verfüttern und Verwerten
 created: 1621970259942
-author: Mareike Vennen
-short_desc_de: Auf den Spuren eines Elefanten
-keywords: scarcity
-date_end: 1947-12-31T11:00:00.000Z
-published: false
-title: The Afterlife of Zoo Animals
 updated: 1644601243590
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
+author: Mareike Vennen
 doi: 64y2-m311/24
 translators:
   translator_de_en: ""
@@ -25,6 +21,11 @@ desc_de: Was passiert mit Zootieren nach ihrem Tod, wie werden ihreKörper(teile
   den 1940er Jahren führt ins Berlin der Nachkriegszeit und tief in die
   Geschichtedes europäischen Kolonialismus.
 short_desc: On the trail of an elephant
+short_desc_de: Auf den Spuren eines Elefanten
+keywords: Siam Ceylon Sri Lanka Koloni* Kriegerowski Knochen Handel Hagenbeck
+  Löwe Fleisch Leipzig Karl Wolf Savarin Antwerpen Brüssel Restaurant
+  Nachkrieg*  Siam Ceylon Sri Lanka coloni* Kriegerowski bone trade Hagenbeck
+  lion meat Leipzig Karl Wolf Savarin Antwerp Brussels restaurant postwar
 cover_image:
   image: /images/cover-elephant-skulls-mammal-collection.png
   alt: |-
@@ -35,6 +36,8 @@ cover_image:
 colour_scheme: 10
 tao_type: story
 date_start: 1932-12-31T23:00:00.000Z
+date_end: 1947-12-31T11:00:00.000Z
+published: false
 ---
 
 :::EN:::
