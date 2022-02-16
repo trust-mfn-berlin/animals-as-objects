@@ -43,7 +43,7 @@ Ina Heumann heads the project “Animals as Objects” together with Tahani Nadi
 
 #### Therese Kienemund
 
-Therese Kienemund obtained a Master’s degree in the history of science from the Technical University of Berlin after a Bachelor’s degree and a Teaching Science Fellowship in Biology at Dartmouth College, USA. Therese has researched the exhibition history of insect models in the Museum für Naturkunde Berlin, and justice-oriented approaches for community participation in academic research. Further research interests include the gendered and racialized histories of midwifery. As web editor for “Animals as Objects”, Therese focused on copy-editing, content management, and open communication with all collaborators.
+Therese Kienemund obtained a Master’s degree in the history of science from the Technische Universität Berlin after a Bachelor’s degree and a Teaching Science Fellowship in Biology at Dartmouth College, USA. Therese has researched the exhibition history of insect models in the Museum für Naturkunde Berlin, and justice-oriented approaches for community participation in academic research. Further research interests include the gendered and racialized histories of midwifery. As web editor for “Animals as Objects”, Therese focused on copy-editing, content management, and open communication with all collaborators.
 
 #### Britta Lange
 
