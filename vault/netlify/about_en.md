@@ -31,7 +31,7 @@ Jenske Bal studied cultural anthropology and science and technology studies and 
 
 #### Gloria Bauer
 
-Gloria Baur holds a Bachelor’s degree in the History of Art and Visual History and German Literature from the Humboldt-Universität zu Berlin. She is currently completing her Master’s degree in the History of Art and Visual History. In 2017 Gloria completed an internship at the Historical Image and Document Collections of the Museum für Naturkunde Berlin. She worked as a student assistant in the project “Animals as Objects” from 2019 to 2020. Even before this work, Gloria had a great interest in taxidermy and its presentation in permanent collections. After her bachelor thesis on the taxidermist Hermann H. ter Meer, Gloria’s research interests shifted from taxidermied still life to moving images in the form of Italo-Westerns.
+Gloria Bauer holds a Bachelor’s degree in the History of Art and Visual History and German Literature from the Humboldt-Universität zu Berlin. She is currently completing her Master’s degree in the History of Art and Visual History. In 2017 Gloria completed an internship at the Historical Image and Document Collections of the Museum für Naturkunde Berlin. She worked as a student assistant in the project “Animals as Objects” from 2019 to 2020. Even before this work, Gloria had a great interest in taxidermy and its presentation in permanent collections. After her bachelor thesis on the taxidermist Hermann H. ter Meer, Gloria’s research interests shifted from taxidermied still life to moving images in the form of Italo-Westerns.
 
 #### Filippo Bertoni
 
@@ -55,7 +55,7 @@ Clemens Maier-Wolthausen studied history in Berlin und Bergen/Norway with a focu
 
 #### Tahani Nadim
 
-Tahani Nadim heads the project “Animals as Objects” together with Ina Heumann and also co-heads the department Humanities of Nature at the Museum für Naturkunde Berlin. She is a junior professor for socio- cultural anthropology at the Institute for European Ethnology at Humboldt University Berlin, where she is also a member of the Centre for Anthropological Research on Museums and Heritage (CARMAH). Her research focuses on data politics, the datafication of nature and the political and social contexts and consequences of collection digitization.
+Tahani Nadim heads the project “Animals as Objects” together with Ina Heumann and also co-heads the department Humanities of Nature at the Museum für Naturkunde Berlin. She is a junior professor for socio-cultural anthropology at the Institute for European Ethnology at Humboldt University Berlin, where she is also a member of the Centre for Anthropological Research on Museums and Heritage (CARMAH). Her research focuses on data politics, the datafication of nature and the political and social contexts and consequences of collection digitization.
 
 #### Sebastian Riedel
 
@@ -71,26 +71,36 @@ Sarina Schirmer has been a student assistant with the project “Animals as Obje
 
 #### Mareike Vennen
 
-Mareike Vennen is a cultural studies scholar, currently working at the Humboldt University in Berlin. She gained her PhD at Bauhaus University of Weimar with a dissertation that explores the early history of the aquarium in 19th century Britain and Germany, following amateur scientists, water snails and aquarium pumps, dripping letters and mud. She has worked as a postdoctoral fellow at the Technical University of Berlin in the research project “Dinosaurs in Berlin” where she examined the histories of colonial expeditions. In addition to her interest in developing new experimental formats in science communication and knowledge transfer, her research interests range from museum studies to the history of natural history and collection ecologies in 19th and 20th century. Her work focuses on the material culture, practices and logistics of and in natural history and the politics, ecologies and visual cultures of collecting and exhibiting. She wants to explore the circulation of objects, knowledge and practices and their entanglements with infrastructural, governmental and environmental issues.
+Mareike Vennen is a cultural studies scholar, currently working as a postdoc at the Humboldt-Universität in Berlin. She gained her PhD at Bauhaus University of Weimar with a dissertation that explores the early history of the aquarium in 19th century Britain and Germany by following human and non-human actors – amateur scientists, water snails and aquarium pumps, sodden correspondences and mud. She has worked as a postdoctoral fellow at the Technical University of Berlin in the research project “Dinosaurs in Berlin” where she examined the histories of colonial expeditions. In addition to her interest in developing new experimental formats in science communication and knowledge transfer, her research interests range from museum studies to the history of natural history and collection ecologies in 19th and 20th century. Her work focuses on the material culture, practices and logistics of and in natural history and the politics, ecologies and visual cultures of collecting and exhibiting. She wants to explore the circulation of objects, knowledge and practices and their entanglements with infrastructural, governmental and environmental issues.
 
 
 ### Contributors
+
+#### Anne Hoffmann
+
+Anne Hoffmann studies European Literatures at the Humboldt-Universität zu Berlin.
+
+#### Sophie-Marie Kaatsch
+
+Sophie-Marie Kaatsch studies Cultural History and Theory at the Humboldt-Universität zu Berlin.
+
+#### Eileen Klingner
+
+Eileen Klingner studies Cultural History and Theory at the Humboldt-Universität zu Berlin.
 
 #### Catarina Madruga
 
 Catarina Madruga completed her PhD “Taxonomy and Empire: Zoogeographical Research on the Portuguese Empire, 1862-1881” in the History and Philosophy of Science at the University of Lisbon. She is currently working as a postdoctoral researcher on her project [“Colonial Provenances of Nature: The Expansion of the Mammal Collection Around 1900”](https://www.museumfuernaturkunde.berlin/de/wissenschaft/koloniale-provenienzen-der-natur) at the Museum für Naturkunde Berlin. Her work focuses on the interconnections between the production of biogeographical knowledge, environmental history, the history of collections and the appropriation of colonial territories.
 
+#### Marie Permantier
+
+Marie Permantier studies Cultural History and Theory at the Humboldt-Universität zu Berlin.
+
 ### Translation
 
-#### Lydia White
+#### Lydia White and copy-editing
 
 [Lydia White](https://www.lydiajwhite.com/) is a Wellington-based literary studies scholar, German-English translator, editor, and publishing consultant. She is the winner of the Deutscher Börsenverein’s 2021 Geisteswissenschaften International Nonfiction Translation Prize.
-
-#### Jan-Peter Herrmann
-
-Jan-Peter Herrmann is a freelance translator and copy-editor based in Berlin. 
-
-### Copy-editing
 
 #### Jan-Peter Herrmann
 
