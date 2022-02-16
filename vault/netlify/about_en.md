@@ -96,9 +96,9 @@ Catarina Madruga completed her PhD “Taxonomy and Empire: Zoogeographical Resea
 
 Marie Permantier studies Cultural History and Theory at the Humboldt-Universität zu Berlin.
 
-### Translation
+### Translation and copy-editing
 
-#### Lydia White and copy-editing
+#### Lydia White
 
 [Lydia White](https://www.lydiajwhite.com/) is a Wellington-based literary studies scholar, German-English translator, editor, and publishing consultant. She is the winner of the Deutscher Börsenverein’s 2021 Geisteswissenschaften International Nonfiction Translation Prize.
 
