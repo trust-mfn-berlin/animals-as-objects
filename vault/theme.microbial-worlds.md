@@ -1,11 +1,17 @@
 ---
 license: CC BY-SA
-title: Microbial Worlds
 title_de: "Mikrobielle Welten "
 created: 1618930984846
+author: Filippo Bertoni
+short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Welt
+keywords: "Antoni van Leeuwenhoek Robert Hooke Francesco Redi Ehrenberg
+  Evolution* Robert Koch Medizin Krankheit  Antoni van Leeuwenhoek Robert Hooke
+  Francesco Redi Ehrenberg Evolution* Robert Koch medicine disease ill* "
+date_end: 2022-12-14T14:41:44.038Z
+published: false
+title: Microbial Worlds
 updated: 1644704111632
 id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
-author: Filippo Bertoni
 doi: 64y2-m311/34
 translators:
   translator_en_de: ""
@@ -26,18 +32,12 @@ desc_de: |-
   der Schaffung bzw. Erhaltung der Voraussetzungen für Leben auf unserem
   Planeten, vermittelt uns ein immer klareres Bild ihrer zentralen Bedeutung für
   vergangene und andauernde planetare Dynamiken.
-short_desc: Microorganisms keep transforming (our view of) the world.
-short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Welt.
-keywords: "Antoni van Leeuwenhoek Robert Hooke Francesco Redi Ehrenberg
-  Evolution* Robert Koch Medizin Krankheit  Antoni van Leeuwenhoek Robert Hooke
-  Francesco Redi Ehrenberg Evolution* Robert Koch medicine disease ill* "
+short_desc: Microorganisms keep transforming (our view of) the world
 cover_image:
   image: /images/illustrated-london-news-conversazione_crop.jpg
 colour_scheme: 3
 tao_type: theme
 date_start: 1673-01-01T14:45:32.000Z
-date_end: 2022-12-14T14:41:44.038Z
-published: false
 ---
 
 :::EN:::
