@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Recording Worlds
 title_de: Welt(en) verzeichnen
 created: 1630051088275
-updated: 1644594984394
+updated: 1645021238744
 id: 4r0yES2CMXdwBI2l8fYbZ
 author: Mareike Vennen, Filippo Bertoni
 doi: 64y2-m311/68
@@ -97,7 +97,7 @@ In the course of the 19th century, we find efforts towards more uniform formats 
 
 <figcaption>
 
-_Card box used to keep the records of the Zoological Teaching Collection. (Zoological Teaching Collection of Humboldt-Universität zu Berlin. Image: Mareike Vennen. All rights reserved.)_ 
+_Card box used to keep the records of the Zoological Teaching Collection. (Image: Mareike Vennen/Zoological Teaching Collection. All rights reserved.)_ 
 
 </figcaption>
 
@@ -185,7 +185,7 @@ Im Laufe des 19. Jahrhunderts gab es im Zusammenhang mit den hier vorgestellten 
 
 <figcaption>
 
-_Kasten zur Aufbewahrung von Karteikarten, die für die Bestandsführung der Zoologischen Lehrsammlung genutzt werden. (Zoologische Lehrsammlung der Humboldt-Universität zu Berlin. Foto: Mareike Vennen. Alle Rechte vorbehalten.)_ 
+_Kasten zur Aufbewahrung von Karteikarten, die für die Bestandsführung der Zoologischen Lehrsammlung genutzt werden. (Foto: Mareike Vennen/Zoologische Lehrsammlung. Alle Rechte vorbehalten.)_ 
 
 </figcaption>
 
