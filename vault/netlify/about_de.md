@@ -71,15 +71,31 @@ Sarina Schirmer ist seit Januar 2021 studentische Mitarbeiterin im Projekt “Ti
 
 #### Mareike Vennen
 
-Mareike Vennen ist Kulturwissenschaftlerin und arbeitet derzeit als PostDoc an der Humboldt-Universität zu Berlin. Ihre Dissertation an der Bauhaus-Universität Weimar untersucht die frühe Geschichte des Aquariums im 19. Jahrhundert, indem sie menschlichen und nicht-menschlichen Akteuren folgt - Amateurwissenschaftler*innen, Glasplatten, Pumpen, tropfende Briefsendungen, Wasserschnecken und Schlamm. Als PostDoc hat sie an der Technischen Universität Berlin über die Geschichte(n) kolonialer Expeditionen gearbeitet. Neben ihrem Interesse an der Entwicklung neuer experimenteller Formate in der Wissenschaftskommunikation und Wissensvermittlung reichen ihre Forschungsinteressen von der Museumswissenschaft über die Geschichte der Naturgeschichte bis hin zu Sammlungsökologien im 19. und 20. Jahrhundert. Ihre Arbeit konzentriert sich auf die materielle Kultur, Praktiken und Logistik (in) der Naturgeschichte und die Politiken, die visuelle Kultur und die Ökologien des Sammelns und Ausstellens. Mit ihrer Arbeit will sie der Zirkulation von Objekten, Wissen und Praktiken und deren Verstrickungen mit infrastrukturellen, staatlichen und ökologischen Fragen näher auf die Spur kommen.
+Mareike Vennen ist Kulturwissenschaftlerin und arbeitet derzeit als PostDoc an der Humboldt-Universität zu Berlin. Ihre Dissertation an der Bauhaus-Universität Weimar untersucht die frühe Geschichte des Aquariums im 19. Jahrhundert, indem sie menschlichen und nicht-menschlichen Akteuren folgt – Amateurwissenschaftler*innen, Glasplatten, Pumpen, tropfende Briefsendungen, Wasserschnecken und Schlamm. Als PostDoc im Forschungsprojekt „Dinosaurier in Berlin“ hat sie an der Technischen Universität Berlin über die Geschichte(n) kolonialer Expeditionen gearbeitet. Neben ihrem Interesse an der Entwicklung neuer experimenteller Formate in der Wissenschaftskommunikation und Wissensvermittlung reichen ihre Forschungsinteressen von der Museumswissenschaft über die Geschichte der Naturgeschichte bis hin zu Sammlungsökologien im 19. und 20. Jahrhundert. Ihre Arbeit konzentriert sich auf die materielle Kultur, Praktiken und Logistik (in) der Naturgeschichte und die Politiken, Ökologien und visuelle Kultur des Sammelns und Ausstellens. Mit ihrer Arbeit will sie der Zirkulation von Objekten, Wissen und Praktiken und deren Verstrickungen mit infrastrukturellen, staatlichen und ökologischen Fragen näher auf die Spur kommen.
 
 ### Mitwirkende
+
+#### Anne Hoffmann
+
+Anne Hoffmann studiert Europäische Literaturen an der Humboldt-Universität zu Berlin
+
+#### Sophie-Marie Kaatsch
+
+Sophie-Marie Kaatsch studiert Kulturwissenschaft an der Humboldt-Universität zu Berlin
+
+#### Eileen Klingner
+
+Eileen Klingner studiert Kulturwissenschaft an der Humboldt-Universität zu Berlin
 
 #### Catarina Madruga
 
 Catarina Madruga schloss ihre Promotion mit dem Titel “Taxonomy and Empire: Zoogeographical Research on the Portuguese Empire, 1862-1881” in Geschichte und Wissenschaftsphilosophie an der Universität Lissabon ab. Derzeit arbeitet sie als Postdoktorandin mit ihrem Projekt [“Colonial Provenances of Nature: The Expansion of the Mammal Collection Around 1900”](https://www.museumfuernaturkunde.berlin/de/wissenschaft/koloniale-provenienzen-der-natur) am Museum für Naturkunde in Berlin. Ihre Arbeit konzentriert sich auf die Verflechtungen zwischen der Produktion von biogeographischem Wissen, Umweltgeschichte, der Geschichte von Sammlungen sowie der Aneignung kolonialer Territorien.
 
-### Übersetzung
+#### Marie Permantier
+
+Marie Permantier studiert Kulturwissenschaft an der Humboldt-Universität zu Berlin
+
+### Übersetzung und Lektorat
 
 #### Lydia White
 
@@ -88,13 +104,7 @@ Deutschen Börsenvereins.
 
 #### Jan-Peter Herrmann
 
-Jan-Peter Herrmann ist freiberuflicher Übersetzer in Berlin. 
-
-### Lektorat
-
-#### Jan-Peter Herrmann
-
-Jan-Peter Herrmann ist freiberuflicher Übersetzer in Berlin. 
+Jan-Peter Herrmann ist freiberuflicher Übersetzer in Berlin.  
 
 #### Carla Welch
 
