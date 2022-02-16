@@ -77,15 +77,15 @@ Mareike Vennen ist Kulturwissenschaftlerin und arbeitet derzeit als PostDoc an d
 
 #### Anne Hoffmann
 
-Anne Hoffmann studiert Europäische Literaturen an der Humboldt-Universität zu Berlin
+Anne Hoffmann studiert Europäische Literaturen an der Humboldt-Universität zu Berlin.
 
 #### Sophie-Marie Kaatsch
 
-Sophie-Marie Kaatsch studiert Kulturwissenschaft an der Humboldt-Universität zu Berlin
+Sophie-Marie Kaatsch studiert Kulturwissenschaft an der Humboldt-Universität zu Berlin.
 
 #### Eileen Klingner
 
-Eileen Klingner studiert Kulturwissenschaft an der Humboldt-Universität zu Berlin
+Eileen Klingner studiert Kulturwissenschaft an der Humboldt-Universität zu Berlin.
 
 #### Catarina Madruga
 
@@ -93,7 +93,7 @@ Catarina Madruga schloss ihre Promotion mit dem Titel “Taxonomy and Empire: Zo
 
 #### Marie Permantier
 
-Marie Permantier studiert Kulturwissenschaft an der Humboldt-Universität zu Berlin
+Marie Permantier studiert Kulturwissenschaft an der Humboldt-Universität zu Berlin.
 
 ### Übersetzung und Lektorat
 
