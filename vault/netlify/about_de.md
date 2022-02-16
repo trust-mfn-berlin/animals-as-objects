@@ -3,11 +3,11 @@ title: Über uns
 ---
 ## Über diese Webseite
 
-*Tiere als Objekte?* ist eine Publikation des Forschungsprojekts [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum in Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte) und wird von Ina Heumann und Tahani Nadim herausgegeben. Diese Webseite präsentiert unsere Forschungsergebnisse in deutscher und englischer Sprache anhand ausgewählter Objekte, Geschichten und Tiere. Sie gibt vielstimmige Antworten auf die Frage, wie Tiere zu naturkundlichen Objekten und Daten gemacht wurden.
+*Tiere als Objekte?* ist eine Publikation des Forschungsprojekts [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum in Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte) und wird von Ina Heumann und Tahani Nadim herausgegeben. Diese Webseite präsentiert unsere Forschungsergebnisse in deutscher und englischer Sprache anhand ausgewählter Objekte, Geschichten und Tiere. Sie gibt vielstimmige Antworten auf die Frage, wie Tiere zu naturkundlichen Objekten und Daten gemacht wurden und werden.
 
 Die häufig für die Katalogisierung und das Management von naturkundlichen Sammlungen verwendeten relationalen Datenbanken dienten als Inspiration für das Konzept und die visuelle Gestaltung der Webseite. Deshalb beinhaltet die Webseite drei verschiedene Arten von Artikeln, die auf unterschiedliche und manchmal überraschende Weise miteinander verknüpft sind:
 
-* ***Materialien*** legt den Fokus auf spezifische Fotos, Objekte, Dokumente, Ereignisse, usw.
+* ***Materialien*** legen den Fokus auf spezifische Fotos, Objekte, Dokumente, Ereignisse, usw.
 * ***Storys*** liefern mithilfe von ***Materialien*** und anderen Quellen Antworten auf kleine und große Forschungsfragen.
 * ***Themen*** öffnen den Blick für den thematischen Rahmen und verbinden ***Storys*** und ***Materialien***.
 
@@ -27,7 +27,7 @@ Das Forschungsprojekt [Tiere als Objekte. Zoologische Gärten und Naturkundemuse
 
 #### Jenske Bal
 
-Jenske Bal studierte Kulturanthropologie sowie Wissenschafts- und Technikgeschichte und macht nun qualitative Forschung in diesen Bereichen. Sie interessiert sich für die Beziehung zwischen Natur und Kultur, insbesondere für die Beziehungen zwischen Mensch und Tier. Jenske Bal ist derzeit Doktorandin in dem vom ERC finanzierten Projekt “The Body Societal: Unfolding Genomics Infrastructure in Cattle Livestock Selection and Reproduction” an der Universität von Lüttich in Belgien. 2019 absolvierte sie ein Praktikum im Projekt “Tiere als Objekte”, um im Rahmen ihres Masterstudiums Zootierzuchtpraktiken in Berlin zu untersuchen. Außerdem nahm Jenske an einem Forschungsprojekt über die regionale und nationale COVID-19 Gesundheitsversorgung in den Niederlanden teil (2020-2021).  
+Jenske Bal studierte Kulturanthropologie sowie Wissenschafts- und Technikgeschichte und macht nun qualitative Forschung in diesen Bereichen. Sie interessiert sich für die Beziehung zwischen Natur und Kultur, insbesondere für die Beziehungen zwischen Mensch und Tier. Jenske Bal ist derzeit Doktorandin in dem vom ERC finanzierten Projekt “The Body Societal: Unfolding Genomics Infrastructure in Cattle Livestock Selection and Reproduction” an der Universität Lüttich in Belgien. 2019 absolvierte sie ein Praktikum im Projekt “Tiere als Objekte”, um im Rahmen ihres Masterstudiums Zootierzuchtpraktiken in Berlin zu untersuchen. Außerdem nahm Jenske an einem Forschungsprojekt über die regionale und nationale COVID-19 Gesundheitsversorgung in den Niederlanden teil (2020-2021).  
 
 #### Gloria Bauer
 
@@ -35,7 +35,7 @@ Gloria Bauer machte den Bachelor in Kunst- und Bildgeschichte und Deutscher Lite
 
 #### Filippo Bertoni
 
-Filippo Bertoni promovierte an der Universität Amsterdam mit einem Thema über Regenwürmer und diejenigen, die sie erforschen. Er ist wissenschaftlicher Mitarbeiter am Museum für Naturkunde Berlin, wo er die Umwandlung von Tieren in Objekte und Daten in den naturkundlichen Sammlungen und zoologischen Gärten der Stadt untersucht. Die Geschichten, die er sammelt, sprengen disziplinäre Rahmen und spielen mit Genres, Stilen und Medien. Er bewegt sich an den Grenzen zwischen Fiktion und verschiedenen Formen des wissenschaftlichen Schreibens. Indem sie die Spannung zwischen Realität, Wissenschaft und (Science) Fiction beleben, widersetzen sich seine Geschichten dem universalisierenden Zugriff der westlichen Moderne und öffnen sich für die Vielfalt der Welten, die uns bereits umgeben.
+Filippo Bertoni promovierte an der Universität Amsterdam über Regenwürmer und diejenigen, die sie erforschen. Er ist wissenschaftlicher Mitarbeiter am Museum für Naturkunde Berlin, wo er die Umwandlung von Tieren in Objekte und Daten in den naturkundlichen Sammlungen und zoologischen Gärten der Stadt untersucht. Die Geschichten, die er sammelt, sprengen disziplinäre Rahmen und spielen mit Genres, Stilen und Medien. Er bewegt sich an den Grenzen zwischen Fiktion und verschiedenen Formen des wissenschaftlichen Schreibens. Indem sie die Spannung zwischen Realität, Wissenschaft und (Science) Fiction beleben, widersetzen sich seine Geschichten dem universalisierenden Zugriff der westlichen Moderne und öffnen sich für die Vielfalt der Welten, die uns bereits umgeben.
 
 #### Ina Heumann
 
@@ -55,7 +55,7 @@ Clemens Maier-Wolthausen studierte Geschichte in Berlin und Bergen/Norwegen mit 
 
 #### Tahani Nadim
 
-Tahani Nadim leitet gemeinsam mit Ina Heumann das Projekt „Tiere als Objekte“ und die interdisziplinäre Forschungsabteilung Kultur- und Sozialwissenschaften der Natur (_Humanities of Nature_) am Museum für Naturkunde. Sie ist Juniorprofessorin für Soziokulturelle Anthropologie am Institut für Europäische Ethnologie der Humboldt-Universität zu Berlin, wo sie auch Mitglied des Centre for Anthropological Research on Museums and Heritage (CARMAH) ist. Sie forscht zu Datenpolitiken, dem Verhältnis von Natur und Datenerfassung sowie den politischen und gesellschaftlichen Kontexten und Konsequenzen von Sammlungsdigitalisierung.
+Tahani Nadim leitet gemeinsam mit Ina Heumann das Projekt „Tiere als Objekte“ und die interdisziplinäre Forschungsabteilung Kultur- und Sozialwissenschaften der Natur (_Humanities of Nature_) am Museum für Naturkunde Berlin. Sie ist Juniorprofessorin für Soziokulturelle Anthropologie am Institut für Europäische Ethnologie der Humboldt-Universität zu Berlin, wo sie auch Mitglied des Centre for Anthropological Research on Museums and Heritage (CARMAH) ist. Sie forscht zu Datenpolitiken, dem Verhältnis von Natur und Datenerfassung sowie den politischen und gesellschaftlichen Kontexten und Konsequenzen von Sammlungsdigitalisierung.
 
 #### Sebastian Riedel
 
@@ -142,7 +142,7 @@ Wir möchten allen danken, die unsere Arbeit an dieser Publikation unterstützt 
 
 Technische und administrative Unterstützung: Saskia Cyron, Erika Dalpiaz, Frauke Dornberg, Falko Glöckler, Sonja Kreft, Stefan Malinowski, Stefanie Paß, Mareike Petersen, Inna Reise, Holger Schick, Astrid Schröder, Caitlin Thorn, Markus Wegner
 
-Unterstützung bei Archivrecherchen: Yvonne Reimers, Sandra Miehlbradt
+Unterstützung bei Archivrecherchen: Sandra Miehlbradt, Yvonne Reimers
 
 Unterstützung bei Forschung in den Sammlungen: Oliver Coleman, Ferdinand Damaschun, Jason Dunlop, Pascal Eckhoff, Sylke Frahnert, Christiane Funk, David Lazarus, Frieder Mayer, Johan Renaudie, Thomas von Rintelen, Christin Scheinpflug, Katrin Spitzer, Frank Tillack, Christine Zorn
 
