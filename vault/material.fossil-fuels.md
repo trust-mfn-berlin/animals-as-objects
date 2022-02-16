@@ -11,9 +11,9 @@ translators:
   translator_en_de: ""
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
-desc: Fossils are still used everyday to power our societies.
+desc: Fossils are still used everyday to power our societies
 desc_de: Alte Energie für neue Gesellschaften?
-short_desc: Fossils are still used everyday to power our societies.
+short_desc: Fossils are still used everyday to power our societies
 short_desc_de: Alte Energie für neue Gesellschaften?
 keywords: Öl rohstoff meer ozean mikro* petroleum Esther Applin Alva Ellisor
   Hedwig Kniker oil resource sea ocean micro* petroleum Esther Applin Alva
