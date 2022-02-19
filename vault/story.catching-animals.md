@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Catching Animals
 title_de: Tiere fangen
 created: 1618492547915
-updated: 1645261274485
+updated: 1645261289799
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/13
