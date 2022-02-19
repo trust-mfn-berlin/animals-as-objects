@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Catching Animals
 title_de: Tiere fangen
 created: 1618492547915
-updated: 1645261098450
+updated: 1645261274485
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/13
@@ -51,7 +51,7 @@ _Shipment of two young giraffes, 1928. (AZGB, image: Lutz Heck. All rights reser
 
 </figure>
 
-In the summer of 1845, the board of the newly founded ‘Actien-Verein des zoologischen Gartens bei Berlin’ – the stock association of the Zoological Garden of Berlin – decided to request animal donations from Royal Prussian Consuls in the most significant foreign trading posts and coastal cities. Due to a lack of financial resources, they urgently needed to acquire animals at low cost – especially those not native to Europe and sought after by the public.
+In the summer of 1845, the board of the newly founded stock association of the Zoological Garden of Berlin (Actien-Verein des zoologischen Gartens bei Berlin) decided to request animal donations from Royal Prussian Consuls in the most significant foreign trading posts and coastal cities. Due to a lack of financial resources, they urgently needed to acquire animals at low cost – especially those not native to Europe and sought after by the public.
 
 >“It would be expedient in general to issue the same notification to the Royal Prussian Consuls in the most important commercial and coastal locations, and at the same time to request that they send inexpensively purchased live animals, possibly as a donation for the coming summer. This proposal was duly acknowledged, and its execution agreed on.”[^1]
 
