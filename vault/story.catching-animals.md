@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Catching Animals
 title_de: Tiere fangen
 created: 1618492547915
-updated: 1645260944123
+updated: 1645261098450
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/13
@@ -97,7 +97,7 @@ _Postcard showing a lion from the German colony of Deutsch-Ostafrika or German E
 
 </figure>
 
-Wissmann, known even in Germany for his cruelty toward colonised peoples, donated two further lions to Berlin Zoo, in addition to the one pictured, making one male and two females altogether. The postcard produced by the zoo to mark the occasion shows only the male animal, possibly because his mane made him more imposing, and thus better suited for publicity purposes. **Explicitly designating the animal as the “Wissmann Lion from German East Africa”, the zoo made itself part of the colonial project, thus contributing to the perpetuation of the colonial agenda.** The value of the gift was twofold: first, the animals were valued at 3,000 German marks and recorded as assets in the zoo’s inventory, and second, the zoo profited from colonial exploitation through the advertising appeal of the ‘German East African lion’ and its patron, who had been elevated to the status of nobility by Kaiser Wilhelm II.[^6] From approximately 1890 to 1914, Berlin Zoo received gifts from German administrators and merchants in the German colonies every year.[^7]
+Wissmann, known even in Germany for his cruelty toward colonised peoples, donated two further lions to Berlin Zoo, in addition to the one pictured, making one male and two females altogether. The postcard produced by the zoo to mark the occasion shows only the male animal, possibly because his mane made him more imposing, and thus better suited for publicity purposes. **Explicitly designating the animal as the ‘Wissmann Lion from German East Africa’, the zoo made itself part of the colonial project, thus contributing to the perpetuation of the colonial agenda.** The value of the gift was twofold: first, the animals were valued at 3,000 German marks and recorded as assets in the zoo’s inventory, and second, the zoo profited from colonial exploitation through the advertising appeal of the ‘German East African lion’ and its patron, who had been elevated to the status of nobility by Kaiser Wilhelm II.[^6] From approximately 1890 to 1914, Berlin Zoo received gifts from German administrators and merchants in the German colonies every year.[^7]
 
 Zoos in all colonizing nations profited from the exploitation of European overseas territories. Animal trading houses such as Jamrach, Hagenbeck, and Reiche also profited from colonial conditions in Africa, Asia, and Oceania. Colonial officials largely prevented the peoples of the occupied regions from making use of their own country’s resources – often through force. Yet colonial administrators did grant licenses to trading houses to capture regional fauna.
 
