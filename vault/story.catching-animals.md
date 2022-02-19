@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Catching Animals
 title_de: Tiere fangen
 created: 1618492547915
-updated: 1644881144690
+updated: 1645260944123
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/13
@@ -395,7 +395,7 @@ _Zoodirektor Lutz Heck an Hermann Pohle, den Säugetierkustos des Naturkundemuse
 
 Zwei der vier aufgeführten Tierkadaver für das Naturkundemuseum waren erst kurz zuvor von Tierhändlern geliefert worden.
 
-## Die großen Spieler – Hagenbeck und Co.
+## Die großen Spieler: Hagenbeck und Co.
 
 Die Bündelung großer Transporte konnte das Risiko mindern. Zwar bereicherten Geschenke von Kolonialbeamten, einzelne Fänge sowie die Einfuhren durch Seefahrer die Zoos, es musste aber zu einer weiteren Entwicklung kommen, um die Nachfrage der Tiergärten Europas und Nordamerikas dauerhaft zu befriedigen. Zentral war die Entstehung des professionellen Tierhandels mit den Firmen Hagenbeck, Reiche, Ruhe und Jamrach an der Spitze. Erst diese kommerziellen Tierhändler ermöglichten durch große Tiertransporte stetigen Nachschub für die Zurschaustellung einer großen Zahl unterschiedlicher Spezies.
 
@@ -425,7 +425,7 @@ _Transport zwei gefangener junger Giraffen, 1928. (AZGB, Foto: Lutz Heck. Alle R
 
 </figure>
 
-## Letztes Aufbäumen – die 1950er Jahre
+## Letztes Aufbäumen: Die 1950er Jahre
 
 Nach dem Ende des Zweiten Weltkriegs lag Berlin in [[Trümmern|material.list-of-dead-zoo-animals]], ein Kauf der beim Publikum beliebten [[Raubkatzen oder Großsäuger|story.feed-scarcity]] aus Afrika und Asien kam zunächst nicht in Frage. Die Jagd musste also auf heimischem Boden stattfinden. Die Zoodirektorin der Jahre des Wiederaufbaus, [[material.katharina-heinroth]], bezog nicht nur Tiere aus einem aufgelösten Zirkus, sie bekam zum Füllen der leeren Gehege auch einheimische Tiere, gefangen in den Wäldern in und um Berlin. Erst Mitte der 1950er Jahre wurde der internationale Tierhandel noch einmal ein florierendes Geschäft. Zwar erreichten die Handelsfirmen Hagenbeck und Ruhe das lange Jahrzehnte bestehende quasi-Monopol im Tierhandel nicht mehr, aber die kriegszerstörten Tiergärten in Europa füllten ihre leeren Gehege mit ihrer Hilfe wieder auf.[^20] Laut dem ehemaligen Zoodirektor Bernhard Blaszkiewitz begann nicht nur im Berliner Zoo um 1960 ein regelrechter Ansturm auf [[Gorillas|story.zoos-and-conservation]].[^21] In Berlin hatte man gerade das Menschenaffenhaus gebaut. Zwischen 1957 und 1968 erhielt der Berliner Zoologische Garten vier männliche und vier weibliche Wildfänge.[^22]
 
