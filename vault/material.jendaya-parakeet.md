@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Jendaya Parakeet
 title_de: Jendayasittich
 created: 1640468612148
-updated: 1644706018638
+updated: 1645259013837
 id: qPXq6synKcymXGGXLIDvV
 author: Filippo Bertoni, Mareike Vennen, Clemens Maier-Wolthausen
 doi: 64y2-m311/69
@@ -46,7 +46,7 @@ In autumn 2020 and spring 2021, our team observed and documented the preparation
 
 <figcaption>
 
-_This video illustrates the work of Christin Scheinpflug, who is a preparator at the Museum für Naturkunde Berlin, as she turns a_ Jendaya parakeet _from Tierpark Berlin into a study skin and a partial skeleton for the Bird Collection. Preserving the remains and mounting them for the research collections of the museum is a long process that involves many steps and many transformations. Documenting these steps, the story of this parakeet illustrates some of the ways in which animals can turn into scientific objects of study. (Video: Filippo Bertoni/MfN. All rights reserved.)_
+_This video illustrates the work of Christin Scheinpflug, a preparator at the Museum für Naturkunde Berlin. It shows her turning a_ Jendaya parakeet _from the Tierpark Berlin into a study skin and a partial skeleton for the museum’s Bird Collection. Preserving the remains and mounting them for the research collections of the museum is a long process that involves many steps and many transformations. In documenting these steps the video provides insights into how animals can turn into scientific objects of study. (Video: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 
