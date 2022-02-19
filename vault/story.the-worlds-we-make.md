@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Worlds We Make
 title_de: The Worlds We Make
 created: 1640281603094
-updated: 1644600964759
+updated: 1645261878205
 id: 4npaIbpRAHygxSlfFDrj3
 author: Mareike Vennen
 doi: 64y2-m311/51
@@ -119,7 +119,7 @@ _Label on the specimen from the Zoological Institute, which now bears inventory 
 
 </figure>
 
-The Zoological Institute should not be confused with the collection of the Zoological Museum, which provided the initial basis for the specimens current home, the Museum für Naturkunde Berlin. Both institutions were part of Friedrich-Wilhelms-Universität zu Berlin, where they were first housed in the main building until they moved to the newly built Natural History Museum (Naturkundemuseum) on Invalidenstraße in 1888 and 1889, respectively. However, even though they shared a roof, they largely worked independently of each other. Their functions and tasks, and, therefore, their collection structure and holdings differed markedly. While the Zoological Museum had a research collection that served scientific purposes, the Zoological Institute was responsible for training students and arranged its [[teaching collection|story.history-of-the-zoological-teaching-collection]] accordingly. The fact that the specimen had initially belonged to the Zoological Institute is verified by the institution’s [[label|material.labels-and-knowledge]], on which the museum’s inventory number was noted much later. How did the specimen make its way into the Zoological Teaching Collection and from there into the museum’s research collection?
+The Zoological Institute should not be confused with the collection of the Zoological Museum, which provided the initial basis for the specimens current home, the Museum für Naturkunde Berlin. Both institutions were part of Friedrich-Wilhelms-Universität zu Berlin, where they were first housed in the main building until they moved to the newly built Natural History Museum on Invalidenstraße in 1888 and 1889, respectively. However, even though they shared a roof, they largely worked independently of each other. Their functions and tasks, and, therefore, their collection structure and holdings differed markedly. While the Zoological Museum had a research collection that served scientific purposes, the Zoological Institute was responsible for training students and arranged its [[teaching collection|story.history-of-the-zoological-teaching-collection]] accordingly. The fact that the specimen had initially belonged to the Zoological Institute is verified by the institution’s [[label|material.labels-and-knowledge]], on which the museum’s inventory number was noted much later. How did the specimen make its way into the Zoological Teaching Collection and from there into the museum’s research collection?
 
 In the teaching collection, the [[first catalogues|story.inventory-books]] from the 19th century provide evidence for how limulus specimens were acquired. At that time, science had been familiar with horseshoe crabs for quite some time; there are pictures and descriptions of them that date back as far as the 16th century. However, the animals that had been available for teaching and research had mainly been dead specimens in a preserved state. According to its inventory catalogues, the Zoological Institute [[purchased|story.catching-animals]] limulus specimens from the Berlin-based natural history dealer Linnaea and the Hamburg company J.F.G. Umlauff.[^2]
 
