@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Zoo and National Socialism
 title_de: Der Zoo im Nationalsozialismus
 created: 1619020958263
-updated: 1644603254129
+updated: 1645265639671
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/12
@@ -344,7 +344,7 @@ Zoos are certainly also compatible with other regimes and social systems – eve
 
 [^9]: Minutes of Supervisory Board meeting, 1933, AZGB O 0/2/2.
 
-[^10]: Zoological Garden Berlin. "Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin for the year 1933”.
+[^10]: Zoological Garden Berlin. “Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin for the year 1933”.
 
 [^11]: Minutes of Supervisory Board meeting, 1933, AZGB O 0/2/2, and memo for Regierungspräsident Zachariae, GStA PK I. HA Rep. 151, Nr. 2496, Bl. 23; minutes of the General Assembly 1934, AZGB O 0/3/2.
 

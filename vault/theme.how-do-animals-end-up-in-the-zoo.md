@@ -3,7 +3,7 @@ license: CC BY-SA
 title: How Do Animals End Up in the Zoo?
 title_de: Wie kommen Tiere in den Zoo?
 created: 1618498026144
-updated: 1644875279113
+updated: 1645265666698
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/14
@@ -199,7 +199,7 @@ Sandra Nicolodi states that while the “shift toward coordinated inter-zoo bree
 
 For some years now, it has been possible to identify new tendencies that are changing zoos internationally, in Germany, and in Berlin. Long-term strategic considerations are now taking the place of pragmatism to a greater extent. Increasing criticism of the conditions in zoos, and questions about their future role in natural history education and species conservation _ex situ_ (i.e., in zoos through breeding) and _in situ_ (in the animals’ original habitats) have led to a move away from earlier zoo directors’ ‘passion for collecting’. Observers now see everywhere a reduction in the number of species kept, in favour of larger enclosures and a focus on so-called flagship species – meaning, “endangered species with a high display value, through whose protection one simultaneously achieves the protection of many other species that share their habitat with them”.[^16] These practices are in line with the Conservation Strategy adopted by the World Association of Zoos and Aquariums in 2015.[^17] Whether this can induce an effective reorientation of zoos for the future is debatable.[^18] For zoos have not quite abandoned pragmatic considerations: Breeding programmes, especially of display-worthy animals, remain important to ensure the continued presence of the favourites that as-yet plentiful audiences keep coming to the zoo to see. Perhaps these, in their turn, will generate the resources needed to achieve new strategic goals?
 
-[^1]: Zoological Garden Berlin. "Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin for the year 1907”.
+[^1]: Zoological Garden Berlin. “Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin for the year 1907”.
 
 [^2]: For an overview of the imports of non-native animal species cf. Lothar Dittrich. ”Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs: Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter, and Gerhard Heindl (eds.). Wien: Braumüller, 2007: 1-64.
 
