@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Photos with Lion Cubs
 title_de: Bilder mit Löwenbabys
 created: 1640340586550
-updated: 1644601240377
+updated: 1645557894787
 id: 4U5dFDf18mKRPdRnzu35p
 author: Mareike Vennen
 doi: 64y2-m311/67
@@ -277,7 +277,7 @@ What connects them is what stays the same, a motif that can be traced through a 
  
 [^1]: See the Zoo Guides of 1936, 1938, and 1940; see also Ludwig Heck. “Zootiere einst und jetzt”, January 1934, AZGB N 1/7. I am unaware of when exactly the photo booth at Berlin Zoo was opened. 
 
-[^2]: Hildegard Zukowsky. “Löwenprinzchen”. _CHITuMW_ 1, no. 6 (1926): 132-134, quoted in: Nastasja Klothmann. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 291. Direct quotes have been translated into English for clarity’s sake.
+[^2]: Hildegard Zukowsky. “Löwenprinzchen”. _CHITuMW_ 1, no. 6 (1926): 132-134, quoted in: Nastasja Klothmann. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 291. 
 
 [^3]: Each zoo dealt with the permission to take photos differently. While visitors in Leipzig, Halle, Berlin, and Vienna had to purchase a permit, visitors to other zoos could take photos free of charge. Cf. 40. Konferenz der Direktoren mitteleuropäischer Zoologischer Gärten in Breslau vom 23. bis 25. August 1928, AZGB V 1/10.
 

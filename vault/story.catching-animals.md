@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Catching Animals
 title_de: Tiere fangen
 created: 1618492547915
-updated: 1645261865012
+updated: 1645557679578
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/13
@@ -249,7 +249,7 @@ From the 1960s onward, zoos increasingly replaced animals caught in the wild wit
 
 In 1973, a Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), also called the Washington Agreement, entered into force. To a great extent, the Convention ultimately put an end to the capture of endangered animals in the wild for zoos. Commercial trade in animals deemed endangered by the NGO the International Union for Conservation of Nature (IUCN) and caught in the wild is prohibited. Trade in captive-bred offspring and non-commercial trade are possible, provided there is no threat to the continued existence of the species and national laws are observed. Many of the animals most popular with zoo visitors are already protected species.[^27] Others are subject to strict regulations. In addition, there are veterinary regulations to prevent epidemics and diseases. Zoos have little incentive to seek out mammals caught in the wild. Only aquariums continue to obtain specimens from the oceans, with the exception of many reptile species.
 
-[^1]: Board minutes, 28.08.1845, AZGB O 0/1/76. Direct quotes have been translated into English for clarity’s sake.
+[^1]: Board minutes, 28.08.1845, AZGB O 0/1/76. 
 
 [^2]: Minutes of the General Assembly, 01.06.1852, AZGB O 0/1/62.
 
@@ -265,11 +265,11 @@ In 1973, a Convention on International Trade in Endangered Species of Wild Fauna
 
 [^8]: Cf. for instance Bernhard Gissibl. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. New York: Berghahn Books, 2016; Lara Domínguez and Colin Luoma. “Decolonising Conservation Policy: How Colonial Land and Conservation Ideologies Persist and Perpetuate Indigenous Injustices at the Expense of the Environment”. _Land_ 9, no. 3 (2020). https://doi.org/10.3390/land9030065; David Prendergast. “Colonial Wildlife Conservation and the Origins of the Society for the Preservation of the Wild Fauna of the Empire (1903-1914)”. _Oryx_ 37 (01.04.2003): 251-260. https://doi.org/10.1017/S0030605303000425; MacKenzie, John M. _The Empire of Nature: Hunting, Conservation, and British Imperialism_. Manchester: St. Martin’s Press, 1997; Angela Thompsell. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke and New York: Palgrave Macmillan, 2015.
 
-[^9]: Carl Georg Schillings. _Mit Blitzlicht und Büchse_. Leipzig, 1905: 188. Direct quotes have been translated into English for clarity’s sake.
+[^9]: Carl Georg Schillings. _Mit Blitzlicht und Büchse_. Leipzig, 1905: 188. 
 
 [^10]: Ibid.: 190-197.
 
-[^11]: Annual reports of the stock association of the Zoological Garden of Berlin for 1904 and 1908. Direct quotes have been translated into English for clarity’s sake.
+[^11]: Annual reports of the stock association of the Zoological Garden of Berlin for 1904 and 1908. 
 
 [^12]: Elizabeth Hanson. _Animal Attractions: Nature on Display in American Zoos_. Princeton (NJ): Princeton University Press, 2002: 71, 73.
 

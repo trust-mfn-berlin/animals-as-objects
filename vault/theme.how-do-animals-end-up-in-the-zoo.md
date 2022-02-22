@@ -3,7 +3,7 @@ license: CC BY-SA
 title: How Do Animals End Up in the Zoo?
 title_de: Wie kommen Tiere in den Zoo?
 created: 1618498026144
-updated: 1645265666698
+updated: 1645557988961
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/14
@@ -211,9 +211,9 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 [^6]: Zoological Garden Berlin. _Geschäftsberichte_ for the years 1919-1924.
 
-[^7]: Examples of lists can be found in various places in the AZGB, for example, on the part of the Tierpark in O 0/1/5, O 1/2/138; the inventory series on the Zoo’s offerings and requests between 1947 and 1957 under O 0/1/2/42 ff. Direct quotes have been translated into English for clarity’s sake.
+[^7]: Examples of lists can be found in various places in the AZGB, for example, on the part of the Tierpark in O 0/1/5, O 1/2/138; the inventory series on the Zoo’s offerings and requests between 1947 and 1957 under O 0/1/2/42 ff. 
 
-[^8]: Tierpark Berlin, Press release Nr. 104/63, 28.12.1963, AZGB O 0/1/307. Direct quotes have been translated into English for clarity’s sake.
+[^8]: Tierpark Berlin, Press release Nr. 104/63, 28.12.1963, AZGB O 0/1/307. 
 
 [^9]: Rainer Kaiser. “Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium?” In _Picassofisch und Kompassqualle: 100 Jahre Zoo-Aquarium Berlin_, Bernhard Blaszkiewitz (ed.), Berlin: Lehmanns, 2013: 214-239, 229, 232-235.
 
@@ -221,7 +221,7 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 [^11]: Cf. Raf de Bont. “Extinct in the Wild: Finding a Place for the European Bison 1919-1952”. In _Spatializing the History of Ecology: Sites, Journeys, Mappings_, Raf de Bont and Jens Lachmund (eds.). New York: Routledge, 2017; Jan Bouman. “The History of Breeding the Przewalski Horse in Captivity”. In _Breeding Przewalski Horses in Captivity for Release into the Wild_, Jan Bouman, Inge Bouman, and Annette Groeneveld (eds.). Rotterdam: Foundation for the Preservation and Protection of the Przewalski Horse, 1982: 17-64.
 
-[^12]: Sandra Nicolodi. “Nachzucht: Eine relativ neue Sammelpraxis Zoologischer Gärten”. _Traverse_ 19, Nr. 3 (2012): 91-105, 100. Direct quotes have been translated into English for clarity’s sake.
+[^12]: Sandra Nicolodi. “Nachzucht: Eine relativ neue Sammelpraxis Zoologischer Gärten”. _Traverse_ 19, Nr. 3 (2012): 91-105, 100. 
 
 [^13]: Kaiser, 2013: 221.
 
@@ -229,7 +229,7 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 [^15]: Nicolodi, 2012: 91, 96.
 
-[^16]: Meier, 2009: 121. Direct quotes have been translated into English for clarity’s sake.
+[^16]: Meier, 2009: 121. 
 
 [^17]: Alejandro Grajal, Jerry F. Luebke, and Lisa-Anne DeGregoria Kelly. “Why Zoos Have Animals: Exploring the Complex Pathway from Experiencing Animals to Pro-environmental Behaviors”. In _The Ark and Beyond: The Evolution of Zoo and Aquarium Conservation_, Ben A. Minteer, Jane Maienschein, James P. Collins, and George B. Rabb (eds.). Chicago: University of Chicago Press, 2018: 192-203.
 

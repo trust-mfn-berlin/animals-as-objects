@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Steller’s Sea Cow
 title_de: Stellers Seekuh
 created: 1640333284998
-updated: 1644601580935
+updated: 1645557898924
 id: Q8UAdldubzw0uhkmmgER3
 author: Mareike Vennen
 doi: 64y2-m311/56
@@ -76,7 +76,7 @@ However, just like the original drawings,[^14] barely any material traces of Ste
 
 [^1]: On the history of this drawing, see http://www.hans-rothauscher.de/steller/seacow.htm. (17.12.2021)
 
-[^2]: Paul Matschie. “Die Säugethier-Schausammlung”. _Naturwissenschaftliche Wochenschrift_ 10, no. 26 (30.06.1895): 311-315, 313. Direct quotes have been translated into English for clarity’s sake.
+[^2]: Paul Matschie. “Die Säugethier-Schausammlung”. _Naturwissenschaftliche Wochenschrift_ 10, no. 26 (30.06.1895): 311-315, 313. 
 
 [^3]: Cf. Karl Ernst von Baer. “Untersuchungen über die ehemalige Verbreitung und die gänzliche Vertilgung der von Steller beobachteten nordischen Seekuh (_Rytina Ill_.)”. _Mémoires de l’Académie impériale des sciences de Saint-Pétersbourg_ 6.5, no. 2 (1840): 53-80; Karl Ernst von Baer. “Über das Aussterben der Thierarten in physiologischer und nicht physiologischer Hinsicht überhaupt, und der Untergang von Arten, die mit den Menschen zusammen gelebt haben”. _Bulletin de l’Académie impériale des sciences de Saint-Pétersbourg_ 3 (1861): 369-396. On von Baer’s studies, see also Irina Podgorny. “Recyclen: Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien: Vom Wert wissenschaftlicher Dinge_. Ina Heumann and Nils Güttler (eds.). Berlin: Kadmos, 2016: 23-46; as well as Irina Podgorny. “Requiem, oder (Aus-)Sterben in historischer und geologischer Zeit: Knöchelverzeichnis KV 626”. In _Mikrozeit und Tiefenzeit_. Friedrich Balke et al. (eds.). Paderborn: Fink, 2018: 128-142.
 

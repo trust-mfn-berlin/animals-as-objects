@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Zoo and National Socialism
 title_de: Der Zoo im Nationalsozialismus
 created: 1619020958263
-updated: 1645265639671
+updated: 1645557973207
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/12
@@ -326,7 +326,7 @@ At the end of National Socialist rule, the zoo was no longer the establishment i
 
 Zoos are certainly also compatible with other regimes and social systems – even if this adaptation has often been more subtle and less pronounced. During the Cold War, the East Berlin Magistrate and the SED regime instrumentalised the Berlin Tierpark for cultural diplomacy in the dispute over the international recognition of the GDR. The park served as an internationally recognised example of socialist policy in education and scientific research. Zoos resumed the role they had played in the 19th century when many of them were first founded: they represented a defining [[feature|theme.putting-animals-on-display]] of a capital city – or in this case half a city. The West Berlin zoo director could count on West German federal policy to be invested in the zoo’s attraction for the enclosed western half of the city.[^48] Nowadays, zoos position themselves as centers of species conservation in liberal societies that are increasingly concerned with [[biodiversity|story.zoos-and-conservation]]. In none of these cases, however, has the political exploitation of the zoo as an institution been attempted or achieved to the degree reached by the National Socialists.
 
-[^1]: Cf., for instance, Ludwig Heck. _Heiter-ernste Lebensbeichte: Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag, 1938: 373; Lutz Heck. _Der deutsche Edelhirsch: Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn_. Berlin: Paul Parey, 1935. Direct quotes have been translated into English for clarity’s sake.
+[^1]: Cf., for instance, Ludwig Heck. _Heiter-ernste Lebensbeichte: Erinnerungen eines alten Tiergärtners_. Berlin: Deutscher Verlag, 1938: 373; Lutz Heck. _Der deutsche Edelhirsch: Ein Lebensbild mit photographischen Naturaufnahmen aus der Wildbahn_. Berlin: Paul Parey, 1935. 
 
 [^2]: Curriculum Vitae Lutz Heck for the Reichsschrifttumskammer, Bundesarchiv Berlin (BArch), R 9361, V, 5953.
 
@@ -334,13 +334,13 @@ Zoos are certainly also compatible with other regimes and social systems – eve
 
 [^4]: Cf. Clemens Maier-Wolthausen. _Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos_. Andreas Knieriem (ed.). Berlin: Ch. Links Verlag, 2019: 111-113.
 
-[^5]: Cf. Lutz Heck. _Auf Urwild in Kanada_. Berlin: Paul Parey, 1937. Direct quotes have been translated into English for clarity’s sake.
+[^5]: Cf. Lutz Heck. _Auf Urwild in Kanada_. Berlin: Paul Parey, 1937. 
 
 [^6]: Cf., for instance, Heck, 1935.
 
 [^7]: _Jahrbuch der Fachschaft Deutsche Bracken_, 1935/36.
 
-[^8]: Zoological Garden Berlin, “Alte Tierkartei”; and list of Hermann Göring’s lions with offspring, AZGB N 5/13. Direct quotes have been translated into English for clarity’s sake.
+[^8]: Zoological Garden Berlin, “Alte Tierkartei”; and list of Hermann Göring’s lions with offspring, AZGB N 5/13. 
 
 [^9]: Minutes of Supervisory Board meeting, 1933, AZGB O 0/2/2.
 
@@ -350,27 +350,27 @@ Zoos are certainly also compatible with other regimes and social systems – eve
 
 [^12]: Minutes of Supervisory Board meeting, 22.05.1933, AZGB O 0/2/2.
 
-[^13]: Zoological Garden Berlin. “Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin for the year 1933”. Direct quotes have been translated into English for clarity’s sake.
+[^13]: Zoological Garden Berlin. “Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin for the year 1933”. 
 
-[^14]: “Der Urwald ruft: Kolonialkunst-Ausstellung im Zoologischen Garten”. _Berliner Lokalanzeiger_, 06.04.1933. Direct quotes have been translated into English for clarity’s sake.
+[^14]: “Der Urwald ruft: Kolonialkunst-Ausstellung im Zoologischen Garten”. _Berliner Lokalanzeiger_, 06.04.1933. 
 
 [^15]: The colonised territory of ‘German East Africa’ comprised today’s Tanzania, Burundi, Rwanda as well as some parts of Mozambique. 
 
-[^16]: Press release 29.06.1934, AZGB O 0/1/15; “Sensation im Affenpalmenhaus”. _Völkischer Beobachter_, 13.06.1937. Direct quotes have been translated into English for clarity’s sake.
+[^16]: Press release 29.06.1934, AZGB O 0/1/15; “Sensation im Affenpalmenhaus”. _Völkischer Beobachter_, 13.06.1937. 
 
 [^17]: Annual reports for the years 1935 and 1936.
 
 [^18]: Correspondence between all parties in GStA PK I. HA, Rep 151, 2500 and minutes of Supervisory Board meeting, 24.08.1935, GStA PK I. HA, Rep 151, 2496, Bl. 93-94.
 
-[^19]: Wiebke Reinert and Mieke Roscher. “Der zoologische Garten als anderer Raum: Hamburger und Berliner Heterotopien”. In _Urbane Tier-Räume_, Thomas E. Hauck, Stefanie Hennecke, André Krebber, Wiebke Reinert, and Mieke Roscher (eds.). Berlin: Dietrich Reimer Verlag, 2017: 112. Direct quotes have been translated into English for clarity’s sake.
+[^19]: Wiebke Reinert and Mieke Roscher. “Der zoologische Garten als anderer Raum: Hamburger und Berliner Heterotopien”. In _Urbane Tier-Räume_, Thomas E. Hauck, Stefanie Hennecke, André Krebber, Wiebke Reinert, and Mieke Roscher (eds.). Berlin: Dietrich Reimer Verlag, 2017: 112. 
 
-[^20]: Press tour of domestic animal exhibition, Pentecost 1937, AZGB O 0/1/15. Direct quotes have been translated into English for clarity’s sake.
+[^20]: Press tour of domestic animal exhibition, Pentecost 1937, AZGB O 0/1/15. 
 
-[^21]: Kai Artinger. “Lutz Heck: Der ‘Vater der Rominter Ure’; Einige Bemerkungen zum wissenschaftlichen Leiter des Berliner Zoos im Nationalsozialismus”. _Der Bär von Berlin: Jahrbuch des Vereins für die Geschichte Berlins_ 23 (1994): 125-139. https://www.diegeschichteberlins.de/geschichteberlins/persoenlichkeiten/persoenlichkeitenhn/491-heck.html (03.01.2022). Direct quotes have been translated into English for clarity’s sake.
+[^21]: Kai Artinger. “Lutz Heck: Der ‘Vater der Rominter Ure’; Einige Bemerkungen zum wissenschaftlichen Leiter des Berliner Zoos im Nationalsozialismus”. _Der Bär von Berlin: Jahrbuch des Vereins für die Geschichte Berlins_ 23 (1994): 125-139. https://www.diegeschichteberlins.de/geschichteberlins/persoenlichkeiten/persoenlichkeitenhn/491-heck.html (03.01.2022). 
 
 [^22]: Cf., for instance, Lutz Heck. “Über die Neuzüchtung des Ur oder Auerochs”. _Berichte der Internationalen Gesellschaft zur Erhaltung des Wisents_ 3, Nr. 4 (1936): 224-294, 235.
 
-[^23]: Lutz Heck. *Auf Tiersuche in weiter Welt*. Berlin: Paul Parey, 1941: 195. Direct quotes have been translated into English for clarity’s sake.
+[^23]: Lutz Heck. *Auf Tiersuche in weiter Welt*. Berlin: Paul Parey, 1941: 195. 
 
 [^24]: Heck, 1941: 195; and Lutz Heck. “Letzte Urwaldtiere aus deutscher Vorzeit”. *Atlantis: Länder, Völker, Reisen* 4, Nr. 10 (1932): 577-583; Lutz Heck. “Die Neuzüchtung des Auerochsen”. *Wild und Hund* 37 (15.12.1939): 535-537. A frieze with a verse from the epic also decorated the aurochs’ stand at the international hunting exhibition of 1938. 
 
@@ -380,13 +380,13 @@ Zoos are certainly also compatible with other regimes and social systems – eve
 
 [^27]: Monika Schmidt has collected the family histories and stories of persecution of many Jewish zoo shareholders. She repeatedly came across evidence of a sense of bourgeois pride in owning zoo shares. Schmidt, Monika. *Die jüdischen Aktionäre des Zoologischen Gartens zu Berlin: Namen und Schicksale*. Berlin: Metropol, 2014.
 
-[^28]: Minutes of Supervisory Board meeting, 29.03.1938, AZGB, O 0/2/2. Direct quotes have been translated into English for clarity’s sake.
+[^28]: Minutes of Supervisory Board meeting, 29.03.1938, AZGB, O 0/2/2. 
 
-[^29]: Minutes of Supervisory Board meetings, 19.07.1938 and 16.12.1938, AZGB O 0/2/2. Direct quotes have been translated into English for clarity’s sake.
+[^29]: Minutes of Supervisory Board meetings, 19.07.1938 and 16.12.1938, AZGB O 0/2/2. 
 
 [^30]: Cession papers in the archive of the Zoological Garden Berlin.
 
-[^31]: Minutes of Supervisory Board meeting, 08.11.1938, AZGB O 0/2/2. Direct quotes have been translated into English for clarity’s sake.
+[^31]: Minutes of Supervisory Board meeting, 08.11.1938, AZGB O 0/2/2. 
 
 [^32]: Minutes of Supervisory Board meeting, 16.12.1939, AZGB O 0/2/2.
 
