@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Catching Animals
 title_de: Tiere fangen
 created: 1618492547915
-updated: 1645557679578
+updated: 1645560054994
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/13
@@ -51,7 +51,7 @@ _Shipment of two young giraffes, 1928. (AZGB, image: Lutz Heck. All rights reser
 
 </figure>
 
-In the summer of 1845, the board of the newly founded stock association of the Zoological Garden of Berlin (Actien-Verein des zoologischen Gartens bei Berlin) decided to request animal donations from Royal Prussian Consuls in the most significant foreign trading posts and coastal cities. Due to a lack of financial resources, they urgently needed to acquire animals at low cost – especially those not native to Europe and sought after by the public.
+In the summer of 1845, the board of the newly founded stock association of the Zoological Garden of Berlin (Actien-Verein des Zoologischen Gartens Berlin) decided to request animal donations from Royal Prussian Consuls in the most significant foreign trading posts and coastal cities. Due to a lack of financial resources, they urgently needed to acquire animals at low cost – especially those not native to Europe and sought after by the public.
 
 >“It would be expedient in general to issue the same notification to the Royal Prussian Consuls in the most important commercial and coastal locations, and at the same time to request that they send inexpensively purchased live animals, possibly as a donation for the coming summer. This proposal was duly acknowledged, and its execution agreed on.”[^1]
 
@@ -317,7 +317,7 @@ _Transport zwei gefangener junger Giraffen, 1928. (AZGB, Foto: Lutz Heck. Alle R
 
 </figure>
 
-Um kostengünstig an dringend benötigte, insbesondere die vom Publikum begehrten und nicht in Europa heimischen Tiere zu kommen, beschloss der Vorstand des neugegründeten Actien-Vereins des zoologischen Gartens bei Berlin im Sommer 1845 angesichts seiner Geldknappheit, die Königlich Preußischen Konsuln in den wichtigsten auswärtigen Handels- und Küstenstädten zur Schenkung von Tieren aufzufordern.
+Um kostengünstig an dringend benötigte, insbesondere die vom Publikum begehrten und nicht in Europa heimischen Tiere zu kommen, beschloss der Vorstand des neugegründeten Actien-Vereins des Zoologischen Gartens Berlin im Sommer 1845 angesichts seiner Geldknappheit, die Königlich Preußischen Konsuln in den wichtigsten auswärtigen Handels- und Küstenstädten zur Schenkung von Tieren aufzufordern.
 
 >“Es werde überhaupt sehr zweckmäßig sein, dasselbe Notificatorium an die Kgl. Pr. Consuln in den wichtigsten Handels- und Küstenplätzen zu erlassen, und dieselben gleichzeitig zur Uebersendung wohlfeil angekaufter lebender Thiere event.: zur Schenkung derselben für den künftigen Sommer aufzufordern. Dieser Vorschlag ward dienlich anerkannt und seine Ausführung beschlossen.”[^1]
 
@@ -535,7 +535,7 @@ Seit den 1960er Jahren traten zunehmend Züchtungen, also in Zoos gezeugte Nachk
 
 [^10]: Ebd.: 190-197.
 
-[^11]: Geschäftsberichte des Aktien-Vereins des Zoologischen Gartens zu Berlin für 1904 und 1908.
+[^11]: Geschäftsberichte des Aktien-Vereins des Zoologischen Gartens Berlin für 1904 und 1908.
 
 [^12]: Elizabeth Hanson. _Animal Attractions: Nature on Display in American Zoos_. Princeton (NJ): Princeton University Press, 2002: 71, 73. Direkte Zitate wurden zur besseren Verständlichkeit ins Deutsche übersetzt.
 

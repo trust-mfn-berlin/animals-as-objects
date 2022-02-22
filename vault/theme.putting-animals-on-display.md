@@ -262,7 +262,7 @@ At a time when visual media are making it possible to access the lives of wild a
 
 [^3]: Quoted in Heinz-Georg Klös. _Von der Menagerie zum Tierparadies: 125 Jahre Zoo Berlin_. Berlin: Haude & Spenersche Verlagsbuchhandlung, 1969: 28.
 
-[^4]: Copy of the charter of the Actien-Vereins des zoologischen Gartens zu Berlin (version dated 14 May 1869), collection of the Archive of Berlin‘s Zoological Gardens.
+[^4]: Copy of the charter of the Actien-Vereins des Zoologischen Gartens zu Berlin (version dated 14 May 1869), collection of the Archive of Berlin‘s Zoological Gardens.
 
 [^5]: Peter Dollinger and Verband Deutscher Zoodirektoren (eds.). _Gärten für Tiere: Erlebnisse für Menschen: Die Zoologischen Gärten des VDZ, 125 Jahre Verband Deutscher Zoodirektoren e.V._, 1st ed. Cologne: Bachem, 2012: 19.
 
@@ -545,7 +545,7 @@ In einer Zeit, in der visuelle Medien den Zugang zum Leben wildlebender Tiere in
 
 [^3]: Zitiert nach Heinz-Georg Klös. _Von der Menagerie zum Tierparadies: 125 Jahre Zoo Berlin_. Berlin: Haude & Spenersche Verlagsbuchhandlung, 1969: 28.
 
-[^4]: Kopie Statut des Actien-Vereins des zoologischen Gartens zu Berlin (Fassung vom 14. Mai 1869), Sammlung des Archivs der Zoologischen Gärten Berlin.
+[^4]: Kopie Statut des Actien-Vereins des Zoologischen Gartens zu Berlin (Fassung vom 14. Mai 1869), Sammlung des Archivs der Zoologischen Gärten Berlin.
 
 [^5]: Peter Dollinger und Verband Deutscher Zoodirektoren (Hg.). _Gärten für Tiere: Erlebnisse für Menschen: Die Zoologischen Gärten des VDZ, 125 Jahre Verband Deutscher Zoodirektoren e.V._, 1. Aufl. Köln: Bachem, 2012: 19.
 

@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Afterlife of Zoo Animals
 title_de: Verfüttern und Verwerten
 created: 1621970259942
-updated: 1645557917176
+updated: 1645559390576
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 author: Mareike Vennen
 doi: 64y2-m311/24
@@ -144,7 +144,7 @@ At the same time, the afterlife of “Siam” reveals the [[gaps|story.untraceab
 
 [^8]: Cf. AZGB O 0/1/3.
 
-[^9]: Cf. Zoological Garden Berlin. “Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin für das Jahr 1948”.
+[^9]: Cf. Aktien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht 1948_. Berlin: 1949.
 
 [^10]: The Freibank, especially during times of scarcity, worked to reuse as many animal products as possible; this strategy had been abandoned by the 1990s though.
 
@@ -274,7 +274,7 @@ Gleichzeitig macht das Nachleben von “Siam” die [[Lücken|story.untraceable]
 
 [^8]: Vgl. AZGB O 0/1/3.
 
-[^9]: Vgl. Zoologischer Garten Berlin. “Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin für das Jahr 1948”.
+[^9]: Vgl. Aktien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht 1948_. Berlin: 1949.
 
 [^10]: Die Freibank diente insbesondere in einer Zeit des Mangels der Verwertung möglichst aller tierischen Produkte; die Praxis wurde jedoch spätestens in den 1990er Jahren aufgegeben.
 

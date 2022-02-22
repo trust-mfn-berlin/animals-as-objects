@@ -3,7 +3,7 @@ license: CC BY-SA
 title: How Do Animals End Up in the Zoo?
 title_de: Wie kommen Tiere in den Zoo?
 created: 1618498026144
-updated: 1645557988961
+updated: 1645559912594
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/14
@@ -199,7 +199,7 @@ Sandra Nicolodi states that while the “shift toward coordinated inter-zoo bree
 
 For some years now, it has been possible to identify new tendencies that are changing zoos internationally, in Germany, and in Berlin. Long-term strategic considerations are now taking the place of pragmatism to a greater extent. Increasing criticism of the conditions in zoos, and questions about their future role in natural history education and species conservation _ex situ_ (i.e., in zoos through breeding) and _in situ_ (in the animals’ original habitats) have led to a move away from earlier zoo directors’ ‘passion for collecting’. Observers now see everywhere a reduction in the number of species kept, in favour of larger enclosures and a focus on so-called flagship species – meaning, “endangered species with a high display value, through whose protection one simultaneously achieves the protection of many other species that share their habitat with them”.[^16] These practices are in line with the Conservation Strategy adopted by the World Association of Zoos and Aquariums in 2015.[^17] Whether this can induce an effective reorientation of zoos for the future is debatable.[^18] For zoos have not quite abandoned pragmatic considerations: Breeding programmes, especially of display-worthy animals, remain important to ensure the continued presence of the favourites that as-yet plentiful audiences keep coming to the zoo to see. Perhaps these, in their turn, will generate the resources needed to achieve new strategic goals?
 
-[^1]: Zoological Garden Berlin. “Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin for the year 1907”.
+[^1]: Actien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht für das Jahr 1907_. Berlin: 1908. 
 
 [^2]: For an overview of the imports of non-native animal species cf. Lothar Dittrich. ”Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs: Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter, and Gerhard Heindl (eds.). Wien: Braumüller, 2007: 1-64.
 
@@ -209,7 +209,7 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 [^5]: Ludwig Heck. “Heiter-ernste Erinnerungen an Tiergärtner”. _Der Zoologische Garten_ 12, Nr. 3/4 (1930): 228-38.
 
-[^6]: Zoological Garden Berlin. _Geschäftsberichte_ for the years 1919-1924.
+[^6]: Annual reports of the stock association of the Zoological Garden of Berlin for 1919-1924.
 
 [^7]: Examples of lists can be found in various places in the AZGB, for example, on the part of the Tierpark in O 0/1/5, O 1/2/138; the inventory series on the Zoo’s offerings and requests between 1947 and 1957 under O 0/1/2/42 ff. 
 
@@ -395,7 +395,7 @@ Sandra Nicolodi konstatiert, dass die “Verlagerung hin zu einer zooübergreife
 
 Seit einigen Jahren lassen sich neue Tendenzen wahrnehmen, die international, in der Bundesrepublik und in Berlin die Tiergärten verändern. Stärker als bislang treten nun langfristige strategische Überlegungen an die Stelle des Pragmatismus. Wachsende Kritik der Haltungsbedingungen in Zoos und Fragen nach ihrer zukünftigen Rolle in naturkundlicher Bildung und Artenschutz _ex situ_ (also in den Zoos durch Zucht) und _in situ_ (in den ursprünglichen Lebensräumen der Tiere) haben zu einer Abkehr von der ‘Sammelleidenschaft’ früherer Zoodirektoren geführt. Allenthalben sehen Beobachter:innen nun eine zahlenmäßige Verkleinerung der gehaltenen Tierarten zugunsten größerer Gehege und die Konzentration auf sogenannte Flaggschiff-Arten – also “gefährdete Tierarten mit einem hohen Schauwert, über deren Schutz man gleichzeitig den Schutz vieler anderer Tierarten erreicht, die den Lebensraum mit ihnen teilen”.[^16] Solch eine Praxis entspricht der 2015 vom Weltverband der Zoos und Aquarien verabschiedeten ‘Conservation Strategy’.[^17] Ob das eine wirksame Neuausrichtung der Zoos für die Zukunft bedingen kann, ist umstritten.[^18] Denn ganz hat der Pragmatismus noch keinen Zoo verlassen: Zuchtprogramme vor allem schauwertiger Tiere bleiben weiterhin wichtig, um die Lieblinge der nach wie vor zahlreichen Besucher:innen in den Zoos zu erhalten. Vielleicht erwirtschaften diese ja die Einnahmen zur Erzielung der neuen strategischen Ziele?
 
-[^1]: Zoologischer Garten Berlin. "Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin für das Jahr 1907".
+[^1]: Actien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht für das Jahr 1907_. Berlin: 1908.
 
 [^2]: Für eine Übersicht der Einfuhren nicht-heimischer Tierarten vgl. Lothar Dittrich. “Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs: Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter und Gerhard Heindl (Hg.). Wien: Braumüller, 2007: 1-64.
 
@@ -405,7 +405,7 @@ Seit einigen Jahren lassen sich neue Tendenzen wahrnehmen, die international, in
 
 [^5]: Ludwig Heck. “Heiter-ernste Erinnerungen an Tiergärtner”. _Der Zoologische Garten_ 12, Nr. 3/4 (1930): 228-238.
 
-[^6]: Zoologischer Garten Berlin. "Geschäftsberichte" für die Jahre 1919-1924.
+[^6]: Geschäftsberichte des Zoologischen Gartens Berlin für die Jahre 1919-1924.
 
 [^7]: Beispiele für Listen finden sich an verschiedenen Stellen im AZGB, so seitens des Tierparks in O 0/1/5, O 1/2/138; die Bestandsreihe zu den Angeboten und Wünschen des Zoos zwischen 1947 und 1957 unter O 0/1/2/42 ff.
 

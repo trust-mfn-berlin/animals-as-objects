@@ -10,7 +10,7 @@ keywords: Orang-Utan Zucht Handel Dathe DDR IUCN Grzimek Bison Hirsch Wisent
 date_end: 2022-12-30T23:00:00.000Z
 published: false
 title: Zoos and Conservation
-updated: 1644872924960
+updated: 1645559662295
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 doi: 64y2-m311/75
 desc: Zoos today promote themselves as centres for species conservation. Until
@@ -230,7 +230,7 @@ The association regards the animal as a suitable ambassador for the protection o
 
 [^10]: Press release by the Tierpark Berlin, 22.07.1964, Landesarchiv Berlin, C Rep. 121, no. 23.
 
-[^11]: Zoologischer Garten Berlin AG, _Geschäftsbericht für das Jahr 1962_, Berlin 1963, AZGB.
+[^11]: Aktien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht 1962_. Berlin: 1963.
 
 [^12]: Carbon copy of report by H. Dathe to the MfK on his travels to Indonesia in the autumn of 1972, 21.03.1973, AZGB, O 0/1/206. Subsequent quotes are taken from there.
 
@@ -477,7 +477,7 @@ Das Tier eignete sich in den Augen des Verbandes also als Botschafter für den S
 
 [^10]: Pressemitteilung des Tierparks Berlin, 22.07.1964, Landesarchiv Berlin, C Rep. 121, Nr. 23.
 
-[^11]: Zoologischer Garten Berlin AG, _Geschäftsbericht für das Jahr 1962_, Berlin 1963, AZGB.
+[^11]: Aktien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht 1962_. Berlin: 1963.
 
 [^12]: Durchschrift Bericht H. Dathe über die Indonesienreise im Herbst 1972 an das MfK, 21.03.1973, AZGB, O 0/1/206. Hier auch die folgenden Zitate.
 

@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Zoo and National Socialism
 title_de: Der Zoo im Nationalsozialismus
 created: 1619020958263
-updated: 1645557973207
+updated: 1645559572292
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/12
@@ -344,13 +344,13 @@ Zoos are certainly also compatible with other regimes and social systems – eve
 
 [^9]: Minutes of Supervisory Board meeting, 1933, AZGB O 0/2/2.
 
-[^10]: Zoological Garden Berlin. “Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin for the year 1933”.
+[^10]: Actien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht für das Jahr 1933_. Berlin: 1934.
 
 [^11]: Minutes of Supervisory Board meeting, 1933, AZGB O 0/2/2, and memo for Regierungspräsident Zachariae, GStA PK I. HA Rep. 151, Nr. 2496, Bl. 23; minutes of the General Assembly 1934, AZGB O 0/3/2.
 
 [^12]: Minutes of Supervisory Board meeting, 22.05.1933, AZGB O 0/2/2.
 
-[^13]: Zoological Garden Berlin. “Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin for the year 1933”. 
+[^13]: Actien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht für das Jahr 1933_. Berlin: 1934.
 
 [^14]: “Der Urwald ruft: Kolonialkunst-Ausstellung im Zoologischen Garten”. _Berliner Lokalanzeiger_, 06.04.1933. 
 
@@ -727,13 +727,13 @@ Zwar sind Zoos auch in anderen Regimen und Gesellschaftsformen anschlussfähig �
 
 [^9]: Aufsichtsratsprotokolle 1933, AZGB O 0/2/2.
 
-[^10]: Zoologischer Garten Berlin. “Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin für das Jahr 1933”.
+[^10]: Actien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht für das Jahr 1933_. Berlin: 1934.
 
 [^11]: Aufsichtsratsprotokolle 1933, AZGB O 0/2/2 sowie Aktenvermerk für Regierungspräsident Zachariae, GStA PK I. HA Rep. 151, Nr. 2496, Bl. 23; Protokoll der Generalversammlung 1934, AZGB O 0/3/2.
 
 [^12]: Aufsichtsratsprotokoll, 22.05.1933, AZGB O 0/2/2.
 
-[^13]: Zoologischer Garten Berlin. “Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin für das Jahr 1933”.
+[^13]: Actien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht für das Jahr 1933_. Berlin: 1934.
 
 [^14]: “Der Urwald ruft: Kolonialkunst-Ausstellung im Zoologischen Garten”. *Berliner Lokalanzeiger*, 06.04.1933.
 

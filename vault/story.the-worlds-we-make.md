@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Worlds We Make
 title_de: The Worlds We Make
 created: 1640281603094
-updated: 1645261878205
+updated: 1645559377248
 id: 4npaIbpRAHygxSlfFDrj3
 author: Mareike Vennen
 doi: 64y2-m311/51
@@ -224,7 +224,7 @@ Connections such as the ones outlined here and the ensuing interdependencies and
 
 [^7]: On the Aquarium Unter den Linden, see Alfred Brehm. _Führer durch das Berliner Aquarium: Eine kurze Beschreibung der in ihre zur Schaugestellten Thiere._ Berlin: Verlag des Berliner Aquariums, 1870: 83-84. In 1920, 1925, 1928, 1930, and 1934, the New York Aquarium sent horseshoe crabs to the Berlin Zoo Aquarium. Cf. the relevant business reports from the Berlin Zoological Garden.
 
-[^8]: Because specimen ‘ZMB 48487’ is undated, “Berlin Aquarium” could mean one of two institutions: The Aquarium Unter den Linden ran from 1869 to 1910, where horseshoe crabs could be viewed as early as 1870, cf. Brehm, 1870. The old collection catalogues tell us that the Zoological Institute had already received specimens from there in November 1895. (Cf. Zoologisches Institut [ZIB]. Inventarbuch V, vol. 1, no. 3409; Zoologisches Institut [ZIB], Inventarbuch V, vol. 2, no. 4301.) Three years after the building had closed in 1910, a new aquarium was opened in the Zoological Garden. Before and after the First World War, the New York Aquarium donated ten to 20 live limuli each year and also gave dead specimens to the Zoological Institute. Cf. Zoologischer Garten Berlin. _Geschäftsbericht für das Jahr 1914_. Berlin: 1915.
+[^8]: Because specimen ‘ZMB 48487’ is undated, “Berlin Aquarium” could mean one of two institutions: The Aquarium Unter den Linden ran from 1869 to 1910, where horseshoe crabs could be viewed as early as 1870, cf. Brehm, 1870. The old collection catalogues tell us that the Zoological Institute had already received specimens from there in November 1895. (Cf. Zoologisches Institut [ZIB]. Inventarbuch V, vol. 1, no. 3409; Zoologisches Institut [ZIB], Inventarbuch V, vol. 2, no. 4301.) Three years after the building had closed in 1910, a new aquarium was opened in the Zoological Garden. Before and after the First World War, the New York Aquarium donated ten to 20 live limuli each year and also gave dead specimens to the Zoological Institute. Cf. Actien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht für das Jahr 1914_. Berlin: 1915. 
 
 [^9]: Cf. Stefan Richter. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität: Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ 37 (25 February 1999): 59-76, 64.
 
@@ -459,7 +459,7 @@ Verbindungen wie die hier geschilderten und die damit verknüpften Abhängigkeit
 
 [^7]: Zum Aquarium Unter den Linden vgl. Alfred Brehm. _Führer durch das Berliner Aquarium: Eine kurze Beschreibung der in ihre zur Schaugestellten Thiere._ Berlin: Verlag des Berliner Aquariums, 1870: 83-84. Im Berliner Zoo-Aquarium trafen in den Jahren 1920, 1925, 1928, 1930 und 1934 Sendungen mit Pfeilschwanzkrebsen aus dem New Yorker Aquarium ein; vgl. die entsprechenden Geschäftsberichte des Zoologischen Gartens Berlin.
 
-[^8]: Da das Präparat ‘ZMB 48487’ undatiert ist, könnten mit dem “Berliner Aquarium” zwei unterschiedliche Einrichtungen gemeint sein: Von 1869 bis 1910 existierte das Aquarium Unter den Linden, wo bereits ab 1870 Pfeilschwanzkrebse zu sehen waren; vgl. Brehm, 1870. Aus den alten Sammlungskatalogen wissen wir, dass das Zoologische Institut von dort bereits im November 1895 Exemplare erhielt; vgl. Zoologisches Institut (ZIB). Inventarbuch V, Bd. 1, Nr. 3409; Zoologisches Institut (ZIB). Inventarbuch V, Bd. 2, Nr. 4301. Nachdem das Haus 1910 schließen musste, eröffnete drei Jahre später im Zoologischen Garten ein neues Aquarium. Vor und nach dem Ersten Weltkrieg wurde es durch das New York Aquarium jährlich mit Sendungen von zehn bis 20 lebenden Pfeilschwanzkrebsen beschenkt und gab wiederum tote Limuli an das Zoologische Institut ab; vgl. Zoologischer Garten Berlin. _Geschäftsbericht für das Jahr 1914_. Berlin: 1915.
+[^8]: Da das Präparat ‘ZMB 48487’ undatiert ist, könnten mit dem “Berliner Aquarium” zwei unterschiedliche Einrichtungen gemeint sein: Von 1869 bis 1910 existierte das Aquarium Unter den Linden, wo bereits ab 1870 Pfeilschwanzkrebse zu sehen waren; vgl. Brehm, 1870. Aus den alten Sammlungskatalogen wissen wir, dass das Zoologische Institut von dort bereits im November 1895 Exemplare erhielt; vgl. Zoologisches Institut (ZIB). Inventarbuch V, Bd. 1, Nr. 3409; Zoologisches Institut (ZIB). Inventarbuch V, Bd. 2, Nr. 4301. Nachdem das Haus 1910 schließen musste, eröffnete drei Jahre später im Zoologischen Garten ein neues Aquarium. Vor und nach dem Ersten Weltkrieg wurde es durch das New York Aquarium jährlich mit Sendungen von zehn bis 20 lebenden Pfeilschwanzkrebsen beschenkt und gab wiederum tote Limuli an das Zoologische Institut ab; vgl. Actien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht für das Jahr 1914_. Berlin: 1915. 
 
 [^9]: Vgl. Stefan Richter. “Die Lehrsammlung des Zoologischen Instituts der Berliner Universität: Ihre Geschichte und ihre Bedeutung”. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ 37 (25. Februar 1999): 59-76, 64.
 
