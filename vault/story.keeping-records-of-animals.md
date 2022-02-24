@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Keeping Records of Animals
 title_de: Tiere verzeichnen
 created: 1635148858347
-updated: 1644526561091
+updated: 1645738516419
 id: zrAZZTgVehO9zeVbW4dMX
 author: Mareike Vennen
 doi: 64y2-m311/30
@@ -15,12 +15,7 @@ desc: "How do animals move from zoo to collection? It is not just a matter of
   they still relied on piles of paper: offer lists, inventories, pricelists, and
   invoices. These documents show how zoo animals were transformed into museum
   exhibits and the kind of value ascribed to them."
-desc_de: Wie kommen Tiere aus dem Zoo in eine Sammlung? Dazu gehört nicht nur
-  die Übergabe des Tierkörpers, sondern vielfältige Praktiken des Verzeichnens.
-  Was heute weitgehend digital abläuft, war Anfang des 20. Jahrhunderts noch auf
-  eine Menge Papier angewiesen – auf Angebotslisten, Inventare, Preislisten und
-  Rechnungen. Durch sie erfahren wir etwas über die Transformation von Zootieren
-  in Museumsobjekte und darüber, welcher Wert ihnen gegeben wurde.
+desc_de: Wie kommen Tiere aus dem Zoo in eine Sammlung? Notwendig dazu ist nicht nur die Übergabe des Tierkörpers, sondern vielfältige Praktiken des Verzeichnens. Was heute weitgehend digital abläuft, beruhte Anfang des 20. Jahrhunderts noch auf einer Menge Papier – auf Angebotslisten, Inventaren, Preislisten und Rechnungen. Durch sie erfahren wir etwas über die Transformation von Zootieren in Museumsobjekte und darüber, welcher Wert ihnen gegeben wurde.
 short_desc: Object transfer and the circulation of lists between zoos and museums
 short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
 keywords: Aquarium information daten Lichtenstein Reptilien Preis Davidshirsch
