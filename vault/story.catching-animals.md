@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Catching Animals
 title_de: Tiere fangen
 created: 1618492547915
-updated: 1645560054994
+updated: 1645739010717
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/13
@@ -13,9 +13,7 @@ copy_editors:
   copy_editor_en: Carla Welch
 desc: For a long time, zoo animals were almost exclusively captured in the wild.
   Most trappers worked for commercial animal trading companies.
-desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren
-  Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle
-  Tierhandelsfirmen.
+desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich in der Wildnis gefangen. Die Tierfänger arbeiteten zumeist für professionelle Tierhandelsfirmen.
 short_desc: Habitats and animal trading companies
 short_desc_de: Habitate und Tierhandelsfirmen
 keywords: Koloni* Kairo Elefant Handel Löwe Jamrach Hagenbeck Reiche Schillings
