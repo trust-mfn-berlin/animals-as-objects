@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Worlds We Make
 title_de: The Worlds We Make
 created: 1640281603094
-updated: 1645739159551
+updated: 1645739203193
 id: 4npaIbpRAHygxSlfFDrj3
 author: Mareike Vennen
 doi: 64y2-m311/51
@@ -12,7 +12,7 @@ translators:
 desc: The history of the horseshoe crab traverses a range of collecting sites
   and scientific spaces. It shows how they have changed the worlds of both
   people and animals.
-desc_de: Die Geschichte des Pfeilschwanzkrebses führt quer durch verschiedene Orte des Sammelns und der Wissenschaft und zeigt, wie diese die Lebenswelten von Menschen und Tieren gleichermaßen verändern.
+desc_de: Die Geschichte des Pfeilschwanzkrebses führt quer durch verschiedene Orte des Sammelns und der Wissenschaft und zeigt, wie diese die Lebenswelten von Menschen und Tieren gleichermaßen verändern.L
 short_desc: Horseshoe crabs in collections and laboratories
 short_desc_de: Pfeilschwanzkrebse in der Sammlung und im Labor
 keywords: Pfeilschwanzkrebs Limulus Präparat Lehr* Organ* Nerven* Etikett*
