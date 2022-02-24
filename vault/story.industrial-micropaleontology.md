@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Industrial Micropaleontology
 title_de: Industrielle Mikropaläontologie
 created: 1621521087155
-updated: 1645719165283
+updated: 1645736626133
 id: 2df514da-8df2-4278-8534-28e1034c7adf
 author: Filippo Bertoni
 doi: 64y2-m311/8
@@ -11,14 +11,8 @@ translators:
   translator_en_de: ""
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
-desc: In the 1920s, scientists Esther Applin, Alva Ellisor, and Hedwig Kniker
-  revolutionised micropaleontology. They were employed by oilcompanies and
-  showed important applications to stratigraphy and petroleumgeology.
-desc_de: In den 1920er Jahren revolutionierten die Wissenschaftlerinnen Esther
-  Applin, Alva Ellisor und Hedwig Kniker die Mikropaläontologie. IhreArbeitgeber
-  waren Ölfirmen und im Rahmen ihrer Forschungen gelang es ihnen,das enorme
-  Potential mikropaläontologischer Analysen für die Stratigrafie unddie
-  Erdölgeografie nachzuweisen.
+desc: In the 1920s, scientists Esther Applin, Alva Ellisor, and Hedwig Kniker revolutionised micropaleontology. They were employed by oil companies and discovered important applications for stratigraphy and petroleum geology.
+desc_de: In den 1920er Jahren revolutionierten die Wissenschaftlerinnen Esther Applin, Alva Ellisor und Hedwig Kniker die Mikropaläontologie. Sie arbeiteten für Ölfirmen. In diesem Rahmen gelang es ihnen, das enorme Potential mikropaläontologischer Analysen für die Stratigrafie und die Erdölgeologie nachzuweisen.
 short_desc: Microfossils revolutionised oil extraction
 short_desc_de: Mikrofossilien revolutionierten die Ölgewinnung
 keywords: Joseph Cushman Esther Applin Alva Ellisor Hedwig Kniker Erdöl
