@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Feeding Prohibited
 title_de: Füttern verboten
 created: 1620752897039
-updated: 1645560339439
+updated: 1645738438433
 id: b2097a9c-bc9b-458b-9179-2fdeb12d6b37
 author: Mareike Vennen
 doi: 64y2-m311/26
@@ -15,10 +15,7 @@ desc: Nowadays, zoos impose a strict divide between animals and humans but this
   has not always been the case. It used to be common for visitors to get close
   to the animals by feeding them. How, when, and why did zoos introduce a
   general ban on such feeding?
-desc_de: Wo heute durch die Gehege eine Distanz zwischen Tier und Mensch im Zoo
-  selbstverständlich erscheint, war lange Zeit ein direkter Kontakt beim Füttern
-  durch die Besucher:innen üblich. Wie, wann und weshalb führten Zoos ein
-  Fütterungsverbot ein?
+desc_de: Wo heute die Distanz zwischen Tier und Mensch im Zoo selbstverständlich erscheint, war lange Zeit ein direkter Kontakt beim Füttern durch die Besucher:innen üblich. Wie, wann und weshalb führten Zoos ein Fütterungsverbot ein?
 short_desc: New rules on proximity and distance
 short_desc_de: Neue Regeln zu Nähe und Distanz
 keywords: Elefant jambo krank* Bernhard Grzimek Affe Frankfurt Zoodirektor*
