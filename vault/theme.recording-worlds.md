@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Recording Worlds
 title_de: Welt(en) verzeichnen
 created: 1630051088275
-updated: 1645021238744
+updated: 1645738648395
 id: 4r0yES2CMXdwBI2l8fYbZ
 author: Mareike Vennen, Filippo Bertoni
 doi: 64y2-m311/68
@@ -15,12 +15,7 @@ desc: The practice of record-keeping plays a crucial, yet often overlooked role
   natural history objects. They significantly influence how we order and
   understand the (natural) world while continuously undergoing profound changes
   themselves.
-desc_de: Die Praxis des Verzeichnens spielt im naturkundlichen Sammeln eine
-  zentrale, doch häufig übersehene Rolle. Listen, Etiketten und Inventarkataloge
-  sind Werkzeuge, mit denen Sammlungen und Wissen geordnet, Tiere klassifiziert
-  und naturkundlichen Objekten Wert zugeschrieben wird. Sie beeinflussen
-  maßgeblich die Art und Weise, wie wir die (naturkundliche) Welt ordnen und
-  begreifen, befinden sich aber auch selbst beständig im Wandel.
+desc_de: Die Praxis des Verzeichnens spielt im naturkundlichen Sammeln eine zentrale, doch häufig übersehene Rolle. Listen, Etiketten und Inventarbücher sind Werkzeuge, mit denen Sammlungen und Wissen geordnet, Tiere klassifiziert und naturkundlichen Objekten Wert zugeschrieben wird. Sie beeinflussen maßgeblich die Art und Weise, wie wir die Welt begreifen, befinden sich aber auch selbst beständig im Wandel.
 short_desc: Recording is a transformative process
 short_desc_de: Naturkundliche Verzeichnungspraktiken und ihre transformative Kraft
 keywords: Papier* Dokument* Sammeln Liste Katalog* Taxonom* Ordnung* Inventar*
