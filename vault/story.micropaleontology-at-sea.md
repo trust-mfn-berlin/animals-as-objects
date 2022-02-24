@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Micropaleontology at Sea
 title_de: Mikropaläontologie auf See
 created: 1621522440708
-updated: 1644703874197
+updated: 1645737426172
 id: b30fb33b-adc1-4c3e-963a-e2467c2fbb21
 author: Filippo Bertoni
 doi: 64y2-m311/7
@@ -16,9 +16,7 @@ desc: |-
   accumulated vast amounts of data, which contributed to the development of
   climate and planetary sciences.
 desc_de: |-
-  Im Rahmen der Meeresforschung ab der Nachkriegszeit trugen
-  Mikropaläontolog:innen große Datenmengen zusammen, die eine wichtige Rolle für
-  die Entstehung der Klima- und Planetenwissenschaften spielen sollten.
+  In der Nachkriegszeit generierten Mikropaläontolog:innen im Rahmen von Meeresforschungen große Datenmengen, die eine wichtige Rolle für die Entstehung der Klima- und Planetenwissenschaften spielen sollten.
 short_desc: Microfossils and ocean exploration
 short_desc_de: Mikrofossilien und die Erforschung der Ozeane
 keywords: Erdöl William Rex Riedel Haeckel Cesare Emiliani Fermi Cycladophora
