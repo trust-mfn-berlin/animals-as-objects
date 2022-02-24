@@ -3,7 +3,7 @@ license: CC BY-SA
 title: How Do Animals End Up in the Zoo?
 title_de: Wie kommen Tiere in den Zoo?
 created: 1618498026144
-updated: 1645559912594
+updated: 1645738579638
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/14
@@ -14,11 +14,7 @@ copy_editors:
 desc: Live animals for the Berlin Zoological Garden, Aquarium, and Tierpark have
   always come from a variety of sources. They have their own histories, and
   present political, logistical, and moral challenges for these institutions.
-desc_de: Lebende Tiere für die Sammlungen des Zoologischen Gartens, des
-  Aquariums und des Tierparks Berlin kamen und kommen aus unterschiedlichen
-  Quellen. Diese haben ihre eigene Geschichte und kreieren unterschiedliche
-  Herausforderungen für diese Einrichtungen – politische, logistische und
-  moralische.
+desc_de: In die Sammlungen des Zoologischen Gartens, des Aquariums und des Tierparks Berlin kamen und kommen lebende Tiere auf unterschiedliche Art und Weise. Diese haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen für diese Institutionen – politische, logistische und moralische.
 short_desc: Political, logistical, and moral challenges
 short_desc_de: Politische, logistische und moralische Herausforderungen
 keywords: Koloni* Provenienz Jagd Elefant Löwe Panda China Handel Hagenbeck
