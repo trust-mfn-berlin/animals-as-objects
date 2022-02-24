@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Untraceable
 title_de: Unauffindbar
 created: 1640459479902
-updated: 1645261890710
+updated: 1645737977120
 id: abaNOPQjQqMhfMbhbhvm4
 author: Mareike Vennen
 doi: 64y2-m311/73
@@ -12,9 +12,7 @@ translators:
 desc: The search for historical collection items is often fruitless, yet it
   provides insights into the history of colonial collecting, historical modes of
   cataloguing, and the management of absent objects.
-desc_de: Die Suche nach historischen Sammlungsobjekten bleibt manchmal erfolglos
-  und gibt trotzdem Einblicke in die Geschichte kolonialen Sammelns, in
-  historische Katalogisierungsweisen und den Umgang mit abwesenden Objekten.
+desc_de: Die Suche nach historischen Sammlungsobjekten bleibt manchmal erfolglos, doch gibt sie trotzdem Einblicke in die Geschichte kolonialen Sammelns, in historische Katalogisierungsweisen und den Umgang mit abwesenden Objekten.
 short_desc: "Lost objects and old catalogues "
 short_desc_de: "Verschollene Objekte und alte Kataloge "
 keywords: kaiman krokodil verzeich* dokument* schomburgk guyana koloni* Tillack
