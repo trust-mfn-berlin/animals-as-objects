@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Silkworms
 title_de: Seidenraupen
 created: 1629986374819
-updated: 1645715016660
+updated: 1645715567747
 id: GDcruELihUsAdF7btC6KD
 author: Britta Lange
 doi: 64y2-m311/47
@@ -218,7 +218,7 @@ _Maulbeerbaum am Museum für Naturkunde Berlin, 2021. (Foto: Britta Lange)_
  
 </figure>
 
-Während das große Dinosaurierskelett in der Haupthalle des Berliner Museums für Naturkunde stadt- und weltbekannt ist, scheint kaum jemand etwas über einen Baumriesen zu wissen, der sich im Hof des Museums befindet. **In der Durchfahrt zwischen dem Museum, dem heutigen Institut für Biophysik und dem Thaer-Institut für Agrar- und Gartenbauwissenschaften der Humboldt-Universität zu Berlin steht ein großer Maulbeerbaum.** Was ist seine Geschichte? Die Spuren führen ins Preußen des 18. Jahrhunderts, in Museumssammlungen und märkische Dörfer, zu Naturforscher:innen, Königen und Seidenraupen.
+Während das große Dinosaurierskelett in der Haupthalle des Museums für Naturkunde Berlin stadt- und weltbekannt ist, scheint kaum jemand etwas über einen Baumriesen zu wissen, der sich im Hof des Museums befindet. **In der Durchfahrt zwischen dem Museum, dem heutigen Institut für Biophysik und dem Thaer-Institut für Agrar- und Gartenbauwissenschaften der Humboldt-Universität zu Berlin steht ein großer Maulbeerbaum.** Was ist seine Geschichte? Die Spuren führen ins Preußen des 18. Jahrhunderts, in Museumssammlungen und märkische Dörfer, zu Naturforscher:innen, Königen und Seidenraupen.
 
 ## _Morus alba_ am Museum für Naturkunde und in den märkischen Dörfern
 
