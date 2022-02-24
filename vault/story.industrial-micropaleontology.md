@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Industrial Micropaleontology
 title_de: Industrielle Mikropaläontologie
 created: 1621521087155
-updated: 1644704043277
+updated: 1645719165283
 id: 2df514da-8df2-4278-8534-28e1034c7adf
 author: Filippo Bertoni
 doi: 64y2-m311/8
@@ -21,10 +21,10 @@ desc_de: In den 1920er Jahren revolutionierten die Wissenschaftlerinnen Esther
   Erdölgeografie nachzuweisen.
 short_desc: Microfossils revolutionised oil extraction
 short_desc_de: Mikrofossilien revolutionierten die Ölgewinnung
-keywords: Joseph Cushman Esther Applin Alva Ellisor Hedwig Knikerwere Erdöl
+keywords: Joseph Cushman Esther Applin Alva Ellisor Hedwig Kniker Erdöl
   WNIGRI Alexander Wassiljewitsch Fursenko Nina Nikolajewna Subbotina Dagmara
   Maksimilianowna Rauser-Tschernousowa Baku Industrie* Moskau Leningrad Meer
-  Ozean Joseph Cushman Esther Applin Alva Ellisor Hedwig Knikerwere oil WNIGRI
+  Ozean Joseph Cushman Esther Applin Alva Ellisor Hedwig Kniker oil WNIGRI
   Alexander Wassiljewitsch Fursenko Nina Nikolajewna Subbotina Dagmara
   Maksimilianowna Rauser-Tschernousowa Baku industr* Moscow Leningrad sea ocean
 cover_image:

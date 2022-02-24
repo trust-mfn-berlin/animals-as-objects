@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Micropaleontological Formations
 title_de: Mikropaläontologische Formationen
 created: 1618502886244
-updated: 1644705101228
+updated: 1645719184340
 id: df37d6fb-33ac-4b34-bc21-3401db3aac52
 author: Filippo Bertoni
 doi: 64y2-m311/3
@@ -24,8 +24,8 @@ desc_de: |-
   nachgezeichnet werden.
 short_desc: Paleontology with a microscope
 short_desc_de: Paläontologie mit dem Mikroskop
-keywords: Esther Applin Alva Ellisor Hedwig Knikerwere Nachkrieg* Indikator*
-  Esther Applin Alva Ellisor Hedwig Knikerwere postwar indicator
+keywords: Esther Applin Alva Ellisor Hedwig Kniker Nachkrieg* Indikator*
+  Esther Applin Alva Ellisor Hedwig Kniker postwar indicator
 cover_image:
   image: /images/cover-micropaleontological-formations.jpg
   alt: |-
