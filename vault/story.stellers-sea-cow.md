@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Steller’s Sea Cow
 title_de: Stellers Seekuh
 created: 1640333284998
-updated: 1645557898924
+updated: 1645741286412
 id: Q8UAdldubzw0uhkmmgER3
 author: Mareike Vennen
 doi: 64y2-m311/56
@@ -12,9 +12,7 @@ translators:
 desc: Exterminated by hunters in the 18th century before becoming a coveted
   collection item in the 19th century, Steller’s sea cow is now considered an
   icon of the Anthropocene in the 21st century.
-desc_de: Im 18. Jahrhundert durch Jagd ausgerottet, im 19. Jahrhundert zum
-  begehrten Sammlungsobjekt avanciert, im 21. Jahrhundert zu einer Ikone des
-  Anthropozän erklärt.
+desc_de: Im 18. Jahrhundert durch Jagd ausgerottet, im 19. Jahrhundert zum begehrten Sammlungsobjekt avanciert, wurde Stellers Seekuh im 21. Jahrhundert zu einer Ikone des Anthropozän erklärt.
 short_desc: Hunted, discarded, rediscovered
 short_desc_de: Gejagt, entsorgt und wieder ausgegraben
 keywords: Matschie aussterb* ausgestorb* ausrott* Baer pazifik meer ozean
