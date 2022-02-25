@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Silkworms
 title_de: Seidenraupen
 created: 1629986374819
-updated: 1645782141091
+updated: 1645782333462
 id: GDcruELihUsAdF7btC6KD
 author: Britta Lange
 doi: 64y2-m311/47
@@ -326,7 +326,7 @@ _Maulbeerbäume auf dem französischen Friedhof in Berlin-Mitte, 2020. (Foto: Br
  
 </figure>
 
-Gänzlich unbekannt dagegen ist der Stadtverwaltung und dem Baumkataster jener weiße Maulbeerbaum an der Invalidenstraße, der möglicherweise zu Studienzwecken für die Landwirtschaftliche Hochschule angepflanzt wurde. Gegebenenfalls stand er auch im Zusammenhang mit der Anschaffung des Modells eines [[Seidenspinners in Papiermaschee|material.silkworm-in-papier-mache]] aus der Werkstatt des Pariser Modelleurs Louis Auzoux.[^20] Es liegt nahe, dass der reale Baum und das Raupenmodell etwa zeitgleich angeschafft und möglicherweise auch Seidenraupen gehalten wurden, um ihre Ernährung, ihre Pflege, ihre Vermehrung zu beobachten und zu lehren. Genau wissen können wir es nicht, da der Baum zwar als Zeuge noch da ist, über seine Geschichte jedoch nicht alles verrät.
+Gänzlich unbekannt dagegen ist der Stadtverwaltung und dem Baumkataster jener weiße Maulbeerbaum im Hof des Museums für Naturkunde, der möglicherweise zu Studienzwecken für die Landwirtschaftliche Hochschule angepflanzt wurde. Gegebenenfalls stand er auch im Zusammenhang mit der Anschaffung des Modells eines [[Seidenspinners in Papiermaschee|material.silkworm-in-papier-mache]] aus der Werkstatt des Pariser Modelleurs Louis Auzoux.[^20] Es liegt nahe, dass der reale Baum und das Raupenmodell etwa zeitgleich angeschafft und möglicherweise auch Seidenraupen gehalten wurden, um ihre Ernährung, ihre Pflege, ihre Vermehrung zu beobachten und zu lehren. Genau wissen können wir es nicht, da der Baum zwar als Zeuge noch da ist, über seine Geschichte jedoch nicht alles verrät.
 
 [^1]: Ich danke für Auskünfte Viola Richter, Sandra Miehlbradt und Ferdinand Damaschun (alle Museum für Naturkunde Berlin), Gerhard Scholtz (Zoologische Lehrsammlung der Humboldt-Universität zu Berlin), Sabine Graefe (Thaer Museum Möglin), Wolfgang Bokelmann (zuvor Thaer-Institut der Humboldt-Universität zu Berlin) sowie für die Mithilfe in der Recherche Sofie Fingado und Estela Braun Carrasco.
 
