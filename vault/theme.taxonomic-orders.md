@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Taxonomic Orders
 title_de: Taxonomische Ordnungen
 created: 1618491191119
-updated: 1644706187147
+updated: 1645738375335
 id: 5e690cd2-1cfc-4d1e-9f1b-d1bb33f0b064
 author: Filippo Bertoni
 doi: 64y2-m311/5
@@ -18,12 +18,7 @@ desc: |-
   emerged. Classifications continue to change even today – yet they have lasting
   impacts on our world.
 desc_de: |-
-  In der Biologie ist die Taxonomie ein formales System zur Benennung,
-  Definition und Klassifizierung von Organismen, das von bestimmten Regeln
-  abhängt. Seit ihren Anfängen war die biologische Taxonomie weder beständig
-  noch allgemein gültig. Tatsächlich kommt es immer wieder zu Kontroversen. Die
-  Klassifizierungen ändern sich auch heute noch – und beeinflussen unsere Welt
-  nachhaltig.
+ In der Biologie ist die Taxonomie ein formales System zur Benennung, Definition und Klassifizierung von Organismen, das einer Reihe von Regeln unterliegt. Sie war jedoch nie beständig oder allgemeingültig und wurde immer wieder heftig diskutiert. Klassifizierungen ändern sich auch heute noch, mit nachhaltigen Konsequenzen für unsere Welt.
 short_desc: Organising nature is political
 short_desc_de: Die Kategorisierung der Natur ist politisch
 keywords: Carl von Linne Linnaeus Nomenklatur Klassi* Darwin Wallace Evolution*

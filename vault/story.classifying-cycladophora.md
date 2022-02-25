@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Classifying Cycladophora
 title_de: Klassifizierung von Cycladophora
 created: 1624875357621
-updated: 1644698923969
+updated: 1645736362697
 id: aIG4TDxqQbsrl43uiSyGE
 author: Filippo Bertoni
 doi: 10.7479/64y2-m311/1
@@ -19,12 +19,7 @@ desc: |-
   respective interpretations of radiolaria – to show the early fate of
   Cycladophora davisiana and of our understanding of microorganisms.
 desc_de: |-
-  Die Klassifizierung dieser Radiolarienart im 19. Jahrhundert wies ihr
-  einen Platz in der entstehenden taxonomischen Ordnung der Natur zu. Die
-  folgende Darstellung veranschaulicht anhand der gegensätzlichen
-  Herangehensweisen zweier renommierter deutscher Naturforscher – und ihrer
-  jeweiligen Interpretationen der Radiolarien – das frühe Schicksal von
-  Cycladophora davisiana und unseres Verständnisses von Mikroorganismen.
+  Im 19. Jahrhundert wurde diese Radiolarienart Teil einer neu entstehenden taxonomischen Ordnung der Natur. Die folgende Darstellung veranschaulicht anhand der gegensätzlichen Herangehensweisen zweier renommierter deutscher Naturforscher – und ihrer jeweiligen Interpretationen der Radiolarien – das frühe Schicksal von Cycladophora davisiana und die Folgen für unser Verständnis von Mikroorganismen.
 short_desc: Taxonomy beyond animals
 short_desc_de: Taxonomie jenseits der Tierwelt
 keywords: Ehrenberg Taliaferro Preston Shaffner Mikro* Ernst Haeckel Darwin

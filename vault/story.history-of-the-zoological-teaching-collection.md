@@ -3,7 +3,7 @@ license: CC BY-SA
 title: History of the Zoological Teaching Collection
 title_de: Geschichte der Zoologischen Lehrsammlung
 created: 1629792627920
-updated: 1645020873355
+updated: 1645737747505
 id: hUAZn8uswMmXvmUP1S4Jn
 author: Theresa Schatt
 doi: 64y2-m311/43
@@ -13,10 +13,7 @@ desc: The documents of the Zoological Teaching Collection at the
   Humboldt-Universität zu Berlin are testament to war and the changes that took
   place in institutional routines, scientific approaches, and political
   conflicts within the university and beyond.
-desc_de: Die Dokumente der Zoologischen Lehrsammlung an der Humboldt-Universität
-  zu Berlin zeugen von Krieg sowie von Veränderungen des Institutionsalltags,
-  des wissenschaftlichen Vorgehens und der (universitäts-)politischen
-  Konfliktlinien.
+desc_de: Die Dokumente der Zoologischen Lehrsammlung an der Humboldt-Universität zu Berlin zeugen von Krieg und von Veränderungen des Institutionsalltags, des wissenschaftlichen Vorgehens und der (universitäts-)politischen Konfliktlinien.
 short_desc: Objects, inventories, people, and networks
 short_desc_de: Objekte, Inventare, Menschen und Netzwerke
 keywords: inventar* lehr* Peters Schulze heider Korschelt wandtafel* Seidel

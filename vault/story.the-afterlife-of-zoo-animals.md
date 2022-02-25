@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Afterlife of Zoo Animals
 title_de: Verfüttern und Verwerten
 created: 1621970259942
-updated: 1645559390576
+updated: 1645737915831
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
 author: Mareike Vennen
 doi: 64y2-m311/24
@@ -15,11 +15,7 @@ desc: What happens to zoo animals when they die? How are their bodies (or
   bodyparts) put to use — as colonial trophies, as museum objects, as a source
   ofmeat? The story of the Berlin Zoo elephant “Siam” in the 1940s is a journey
   into postwar Berlin and deep into the history of European colonialism.
-desc_de: Was passiert mit Zootieren nach ihrem Tod, wie werden ihreKörper(teile)
-  weiterverwertet – als koloniale Trophäen, Museumsobjekte
-  oderFleischlieferanten? Die Geschichte des Berliner Zoo-Elefanten “Siam” aus
-  den 1940er Jahren führt ins Berlin der Nachkriegszeit und tief in die
-  Geschichtedes europäischen Kolonialismus.
+desc_de: Was passiert mit Zootieren nach ihrem Tod, wie werden ihre Körper(teile) verwertet – als koloniale Trophäen, Museumsobjekte oder Fleischlieferanten? Die Geschichte des Berliner Zoo-Elefanten “Siam” aus den 1940er Jahren führt sowohl ins Berlin der Nachkriegszeit als auch in die Geschichte des europäischen Kolonialismus.
 short_desc: On the trail of an elephant
 short_desc_de: Auf den Spuren eines Elefanten
 keywords: Siam Ceylon Sri Lanka Koloni* Kriegerowski Knochen Handel Hagenbeck

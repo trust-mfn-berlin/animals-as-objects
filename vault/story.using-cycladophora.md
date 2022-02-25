@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Using Cycladophora
 title_de: Nutzung von Cycladophora
 created: 1624875395326
-updated: 1644699070233
+updated: 1645736997072
 id: TBi8fH-OIQRAoB-tG9ZY1
 author: Filippo Bertoni
 doi: 10.7479/64y2-m311/2
@@ -19,12 +19,7 @@ desc: |-
   how they continue to shape how we know the planet - and its microbial
   inhabitants.
 desc_de: |-
-  Dank komplexer wissenschaftlich-technischer Netzwerke ist Cycladophora
-  heutzutage zu einem wichtigen Hilfsmittel in der Erdsystem- und Klimaforschung
-  geworden. Mithilfe der nachfolgenden Skizzierung des Verlaufs der
-  wissenschaftlichen Arbeit mit diesem Mikroorganismus soll nachvollziehbar
-  gemacht werden, wie diese Netzwerke entstanden sind und wie sie nach wie vor
-  das Wissen über unseren Planeten – und seine mikrobiellen Bewohner – prägen.
+  Dank komplexer wissenschaftlich-technischer Netzwerke ist Cycladophora heutzutage zu einem wichtigen Hilfsmittel in der Erdsystem- und Klimaforschung geworden. Diese Story rekonstruiert die wissenschaftliche Arbeit mit Mikroorganismen und zeichnet nach, wie diese Netzwerke entstanden sind und welche Bedeutung sie noch immer für unser Wissen über unseren Planeten und seine mikrobiellen Bewohner haben.
 short_desc: From microfossils to planetary sciences
 short_desc_de: Von Mikrofossilien zu planetarem Wissen
 keywords: Ernst Haeckel William Rex Riedel Kalte Krieg big data Ernst Haeckel

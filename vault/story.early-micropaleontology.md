@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Early Micropaleontology
 title_de: Frühe Mikropaläontologie
 created: 1621514713008
-updated: 1644872899783
+updated: 1645736173326
 id: fee46412-5135-463a-8019-d002f5b513ea
 author: Filippo Bertoni
 doi: 64y2-m311/10
@@ -18,12 +18,7 @@ desc: |-
   Berlin, shows how much microorganisms have transformed over time and how they
   keep challenging what animals are.
 desc_de: |-
-  Als Mikroorganismen erstmals sichtbar gemacht wurden, hatten
-  Naturkundler:innen zunächst noch keine Vorstellung von ihrer Rolle und ihrem
-  Verhältnis zur natürlichen Ordnung. Die konfliktreiche Geschichte dieses
-  Erkenntnisgewinns – insbesondere im Kontext des Museums für Naturkunde Berlin
-  – verdeutlicht ihre Verwandlungen im Laufe der Zeit und stellt die Definition
-  von was ein Tier denn ausmacht immer wieder in Frage. 
+  Als Mikroorganismen erstmals sichtbar gemacht wurden, hatten Naturkundler:innen zunächst noch keine Vorstellung von ihrer Rolle und ihrem Verhältnis zur natürlichen Ordnung. Die konfliktreiche Geschichte ihrer Erforschung – insbesondere im Rahmen des Museums für Naturkunde Berlin – verdeutlicht, dass Mikroorganismen immer wieder neu definiert wurden und wirft zudem die Frage auf, was ein Tier eigentlich ausmacht. 
 short_desc: Naturalists struggled to understand microorganisms
 short_desc_de: Naturforscher:innen rangen um ein Verständnis von Mikroorganismen
 keywords: Carl von Linne Linnaeus infusori* Ehrenberg Orbigny  Carl von Linne

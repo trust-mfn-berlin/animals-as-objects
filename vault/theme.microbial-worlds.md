@@ -19,19 +19,9 @@ copy_editors:
   copy_editor_en: ""
   copy_editor_de: Jan-Peter Herrmann
 desc: |-
-  The development of techniques for observing microscopic worlds shaped our
-  knowledge of microbes. From their earliest observations in the 17th century to
-  the latest explorations of the importance of microbes in infusing our planet
-  with life, microorganisms emerge as a fundamental part of Earth’s history and
-  dynamics.
+Techniques for observing microscopic worlds shaped our knowledge of microbes. From their earliest observations in the 17th century to the latest explorations of our microbial planet, microorganisms emerge as a fundamental part of Earth’s history and dynamics.
 desc_de: |-
-  Unser Wissen über Mikroben beruht maßgeblich auf der Entwicklung
-  technischer Hilfsmittel zur Sichtbarmachung ihres Mikrokosmos. Die so
-  ermöglichte Erforschung von Mikroorganismen, von den ersten mikroskopischen
-  Beobachtungen im 17. Jahrhundert bis zur jüngeren Untersuchung ihrer Rolle bei
-  der Schaffung bzw. Erhaltung der Voraussetzungen für Leben auf unserem
-  Planeten, vermittelt uns ein immer klareres Bild ihrer zentralen Bedeutung für
-  vergangene und andauernde planetare Dynamiken.
+Unser Wissen über Mikroben beruht maßgeblich auf Techniken der Sichtbarmachung. Von den ersten mikroskopischen Beobachtungen im 17. Jahrhundert bis hin zu aktuellen Studien über ihre planetarische Bedeutung erscheinen Mikroorganismen als zentrale Akteure der Erdgeschichte.
 short_desc: Microorganisms keep transforming (our view of) the world
 cover_image:
   image: /images/illustrated-london-news-conversazione_crop.jpg

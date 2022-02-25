@@ -3,7 +3,7 @@ license: CC BY-SA
 title: “Knut”
 title_de: “Knut”
 created: 1618576718116
-updated: 1644513424190
+updated: 1645738715834
 id: 31f72ba8-a9d2-4dab-ae87-995680e1944a
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/27
@@ -12,9 +12,7 @@ translators:
 desc: Polar bear “Knut”, born in 2006, achieved a level of popularity never seen
   before in the context of zoo animals. What caused his sensational fame well
   beyond his death?
-desc_de: Der 2006 geborene Eisbär “Knut” entwickelte eine bis dahin für ein
-  einzelnes Zootier ungekannte Popularität. Welche Mechanismen haben diese
-  starke Wirkung eines Zootiers über seinen Tod hinaus bedingt?
+desc_de: Der 2006 geborene Eisbär “Knut” entwickelte eine bis dahin für ein einzelnes Zootier ungekannte Popularität. Was hat diese starke Wirkung eines Zootiers über seinen Tod hinaus bedingt?
 short_desc: “Knut’s” economic and emotional significance in the age of climate change
 short_desc_de: “Knuts” ökonomische und emotionale Bedeutung in Zeiten des Klimawandels
 keywords: bear polar bear media gorilla knorke Bernhard Blaszkiewitz leipzig

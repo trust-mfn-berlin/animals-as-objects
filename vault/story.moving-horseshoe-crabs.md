@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Moving Horseshoe Crabs
 title_de: Auf verschwommenen Pfaden
 created: 1640293118344
-updated: 1644525000210
+updated: 1645737585699
 id: WPnxMDphZ5DDXrhkIdvBS
 author: Mareike Vennen
 doi: 64y2-m311/50
@@ -12,9 +12,7 @@ translators:
 desc: In 1865, the Hamburg Aquarium received horseshoe crabs from New York that
   would later turn up in the North Sea. This case shows how animals and
   knowledge were set in motion, traversing different spaces and times.
-desc_de: Pfeilschwanzkrebse, die 1865 von New York an das Hamburger Aquarium
-  verschickt wurden, aber später in der Nordsee auftauchten – dieser Fall zeigt,
-  wie Tiere und Wissen über Räume und Zeiten hinweg in Bewegung gesetzt wurden.
+desc_de: 1865 wurden Pfeilschwanzkrebse von New York an das Hamburger Aquarium verschickt und tauchten wenig später auch in der Nordsee auf – dieser Fall zeigt, wie Tiere und Wissen über Räume und Zeiten hinweg in Bewegung gesetzt wurden.
 short_desc: Routes of animals and knowledge
 short_desc_de: Verbreitungswege von Tieren und Wissen
 keywords: "Pfeilschwanzkreb Limulus Aquarium Handel Transport Logisti* Fisch

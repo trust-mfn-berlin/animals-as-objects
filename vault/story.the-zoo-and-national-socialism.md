@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The Zoo and National Socialism
 title_de: Der Zoo im Nationalsozialismus
 created: 1619020958263
-updated: 1645559572292
+updated: 1645735123741
 id: 2924265f-2583-4e5e-a2bd-e9ee487dbdd0
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/12
@@ -15,11 +15,7 @@ desc: The zoo’s management and board served the National Socialist dictatorshi
   whenever they could. The zoo became an instrument of National Socialist
   propaganda, and excluded Jewish visitors. The zoo director was well connected
   to the regime’s elite. In war time, the zoo exploited forced labor.
-desc_de: In der Zeit der nationalsozialistischen Diktatur boten sich Zooleitung
-  und Aufsichtsrat dem Regime an. Der Zoo wurde zu einem Propagandainstrument
-  der Nationalsozialisten und schloss jüdische Besucher:innen aus. Der
-  Zoodirektor war mit der Elite des Regimes gut vernetzt. Während des Krieges
-  wurden Zwangsarbeiter:innen ausgebeutet.
+desc_de: In der Zeit der nationalsozialistischen Diktatur kollaborierte die Zooleitung und der Aufsichtsrat mit den Nationalsozialisten. Der Zoodirektor war mit der Elite des Regimes sehr gut vernetzt und nutzte den Zoo als Propagandainstrument. Während des Krieges wurden Zwangsarbeiter:innen ausgebeutet.
 short_desc: Propaganda instrument and forced labour
 short_desc_de: Propagandainstrument und Zwangsarbeit
 keywords: Heck Jagd Georg Siegmann Helene Siegmann Walter Simon Auerochs Krieg
