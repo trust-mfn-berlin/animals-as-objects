@@ -1,20 +1,20 @@
 ---
 license: CC BY-SA
+title: Labels and Knowledge
 title_de: Etikettenwissen
 created: 1629109985448
-author: Mareike Vennen
-short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
-date_end: 1935-01-01T10:48:28.706Z
-published: false
-title: Labels and Knowledge
-updated: 1643322959227
+updated: 1644867401023
 id: K2rQQdv1K7aDMUi5gDHcN
+author: Mareike Vennen
 doi: 64y2-m311/29
 translators:
   translator_de_en: Carla Welch
 desc: Material traces of the relationship between museum and zoo
 desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
 short_desc: Material traces of the relationship between museum and zoo
+short_desc_de: Materielle Spuren der Beziehung zwischen Museum und Zoo
+keywords: Dokument* Kadaver Patholog* Patagonien Ceylon document cadaver
+  patholog* Patagonia Ceylon
 cover_image:
   image: /images/cover-etiketten-pohle-S004-02-05-96-020-v.jpg
   alt: |-
@@ -26,6 +26,8 @@ cover_image:
 colour_scheme: 4
 tao_type: material
 date_start: 1920-01-01T10:48:28.702Z
+date_end: 1935-01-01T10:48:28.706Z
+published: false
 ---
 
 
@@ -51,7 +53,7 @@ A discovery: a pile of old tags from Berlin Zoological Garden, most of them from
 
 <figcaption>
 
-_Historical labels from the Zoological Garden in an archive folder in the Museum für Naturkunde Berlin: material traces of the history of the relationship between the zoo and the museum in Berlin. (MfN, HBSB, S004-02-05 Nr. 96, image: Sarina Schirmer. All rights reserved.)_
+_Historical labels from the Zoological Garden in an archive folder in the Museum für Naturkunde Berlin: material traces of the history of the relationship between the zoo and the museum in Berlin. (MfN, HBSB, S004-02-05 Nr. 96, image: Sarina Schirmer/MfN. All rights reserved.)_
 
 </figcaption>
 
@@ -78,7 +80,7 @@ _Animal logistics on paper. The instructions on the labels reveal the paths that
 
 </figure>
 
-These notes, which were once mobile, also helped these different actors to make internal [[logistical arrangements|theme.logistical-metabolisms]]. They often provide instructions for further use – “With a request for examination and transfer to the Zoolog. Museum on Invalidenstraße”, says one, for example. **The first journey that an animal took after its death usually led from the zoo to the Pathological Institute at the Veterinary University (Tierärztliche Hochschule) of Berlin, where it was dissected in order to ascertain its cause of [[death|material.dead-animals]].[^2] After that, the Pathological Institute sent what remained of the carcass back to the zoo or forwarded it on at the zoo’s behest – to private taxidermists and preparators, or to scientific institutions such as the Anatomical Institute, the Zoological Institute of the Agricultural University, or the Zoological Museum at the university in Berlin.**[^3] This kind of information can be put together like the pieces of a puzzle to map out a local network of relationships. Even though gaps remain, the tags help to identify the important actors who were involved in the further utilisation or disposal of zoo animals in Berlin in the early twentieth century.
+These notes, which were once mobile, also helped these different actors to make internal [[logistical arrangements|theme.logistical-metabolisms]]. They often provide instructions for further use – ‘With a request for examination and transfer to the Zoolog. Museum on Invalidenstraße’, says one, for example. **The first journey that an animal took after its death usually led from the zoo to the Pathological Institute at the Veterinary University (Tierärztliche Hochschule) of Berlin, where it was dissected in order to ascertain its cause of [[death|material.dead-animals]].[^2] After that, the Pathological Institute sent what remained of the carcass back to the zoo or forwarded it on at the zoo’s behest – to private taxidermists, or to scientific institutions such as the Anatomical Institute, the Zoological Institute of the Agricultural University, or the Zoological Museum at the university in Berlin.**[^3] This kind of information can be put together like the pieces of a puzzle to map out a local network of relationships. Even though gaps remain, the tags help to identify the important actors who were involved in the further utilisation or disposal of zoo animals in Berlin in the early twentieth century.
 
 The back of a label could be used to convey information about the animal’s species, origin, and cause of death so that the museum could create a [[record of the animal|story.keeping-records-of-animals]]. Abyssinia, Ceylon, and South America frequently appear. The notes therefore do not just make a local network visible, but also point back to the [[global trade|theme.how-do-animals-end-up-in-the-zoo]] in animals and [[animal catching|story.catching-animals]], and names like Abyssinia and Ceylon make it clear that this was a colonial network.
 
@@ -170,7 +172,7 @@ Fund: Ein Stapel alter Anhänger aus dem Zoologischen Garten Berlin, die meisten
 
 <figcaption>
 
-_Historische Etiketten des Zoologischen Gartens in einem Archivordner des Museums für Naturkunde Berlin: materielle Spuren der Beziehungsgeschichte zwischen Zoo und Museum in Berlin. (HBSB MfN, HBSB, S004-02-05 Nr. 96, Foto: Sarina Schirmer. Alle Rechte vorbehalten.)_
+_Historische Etiketten des Zoologischen Gartens in einem Archivordner des Museums für Naturkunde Berlin: materielle Spuren der Beziehungsgeschichte zwischen Zoo und Museum in Berlin. (HBSB MfN, HBSB, S004-02-05 Nr. 96, Foto: Sarina Schirmer/MfN. Alle Rechte vorbehalten.)_
 
 </figcaption>
 

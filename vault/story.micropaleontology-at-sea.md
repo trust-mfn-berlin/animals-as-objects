@@ -1,28 +1,27 @@
 ---
-id: b30fb33b-adc1-4c3e-963a-e2467c2fbb21
+license: CC BY-SA
 title: Micropaleontology at Sea
+title_de: Mikropaläontologie auf See
+created: 1621522440708
+updated: 1645737426172
+id: b30fb33b-adc1-4c3e-963a-e2467c2fbb21
+author: Filippo Bertoni
+doi: 64y2-m311/7
+translators:
+  translator_en_de: ""
+copy_editors:
+  copy_editor_de: Jan-Peter Herrmann
 desc: |-
   Joining in the postwar exploration of the oceans, micropaleontology
   accumulated vast amounts of data, which contributed to the development of
   climate and planetary sciences.
-updated: 1644703874197
-created: 1621522440708
-license: CC BY-SA
-title_de: Mikropaläontologie auf See
-author: Filippo Bertoni
-short_desc_de: Mikrofossilien und die Erforschung der Ozeane
-date_end: '1960-12-31T11:00:00.000Z'
-published: false
-doi: 64y2-m311/7
-translators:
-  translator_en_de: ''
-copy_editors:
-  copy_editor_de: Jan-Peter Herrmann
 desc_de: |-
-  Im Rahmen der Meeresforschung ab der Nachkriegszeit trugen
-  Mikropaläontolog:innen große Datenmengen zusammen, die eine wichtige Rolle für
-  die Entstehung der Klima- und Planetenwissenschaften spielen sollten.
+  In der Nachkriegszeit generierten Mikropaläontolog:innen im Rahmen von Meeresforschungen große Datenmengen, die eine wichtige Rolle für die Entstehung der Klima- und Planetenwissenschaften spielen sollten.
 short_desc: Microfossils and ocean exploration
+short_desc_de: Mikrofossilien und die Erforschung der Ozeane
+keywords: Erdöl William Rex Riedel Haeckel Cesare Emiliani Fermi Cycladophora
+  Labor Meer Ozean oil William Rex Riedel Haeckel Cesare Emiliani Fermi
+  Cycladophora Lab* sea ocean
 cover_image:
   image: /images/cover-micropaleo-at-sea.jpg
   alt: |-
@@ -31,7 +30,9 @@ cover_image:
     https://commons.wikimedia.org/wiki/File:GlomarChallengerBW.JPG
 colour_scheme: 1
 tao_type: story
-date_start: '1949-12-31T23:00:00.000Z'
+date_start: 1949-12-31T23:00:00.000Z
+date_end: 1960-12-31T11:00:00.000Z
+published: false
 ---
 
 :::EN:::

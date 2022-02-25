@@ -13,6 +13,7 @@ desc: The materials of model building
 desc_de: Materialien des Modellbaus
 short_desc: The materials of model building
 short_desc_de: Materialien des Modellbaus
+keywords: model* material* Sommer Keller Käfer model material Sommer Keller beetle
 cover_image:
   image: /images/kartoffelkaefer-zool-lehrsammlung-oben.jpg
 colour_scheme: 12

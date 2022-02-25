@@ -1,20 +1,20 @@
 ---
 license: CC BY-SA
+title: Papier Mâché Silkworm
 title_de: Maulbeerspinner in Papiermaschee
 created: 1629796212936
-author: Britta Lange
-short_desc_de: Clastique-Modell einer Seidenraupe
-date_end: 1900-12-31T11:00:00.000Z
-published: false
-title: Papier Mâché Silkworm
-updated: 1643299243814
+updated: 1644867948224
 id: kaVI1pTyKCM8SvVsrYrSJ
+author: Britta Lange
 doi: 64y2-m311/72
 translators:
   translator_de_en: Lydia J. White
 desc: Papier mâché model of a silkworm
 desc_de: Clastique-Modell einer Seidenraupe
 short_desc: Papier mâché model of a silkworm
+short_desc_de: Clastique-Modell einer Seidenraupe
+keywords: model* material* Ziegler Freiburg Auzoux papier* model material
+  Ziegler Freiburg Auzoux paper
 cover_image:
   image: /images/silkworm-seidenraupe-maulbeerspinner-model-side-view-louis-auzoux.jpeg
   alt: |-
@@ -25,6 +25,8 @@ cover_image:
 colour_scheme: 16
 tao_type: material
 date_start: 1820-01-01T23:06:32.000Z
+date_end: 1900-12-31T11:00:00.000Z
+published: false
 ---
 
 :::EN:::
@@ -74,7 +76,7 @@ The functional, collapsible anatomical model (which Auzoux also referred to as a
 [^3]: Cf. “Modell, Raupe, Seidenspinner”. Database entry of the Humboldt-Universität zu Berlin, no date, https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (03.01.2022).
 
 
-[^4]: Cf. Dr. L. Wittmack. _Allgemeiner Katalog des königlichen landwirthschaftlichen Museums zu Berlin_, Berlin: Verlagsbuchhandlung Wiegandt und Hempel, 1869: 108f. The model was purchased from Auzoux for 66 talers, and it is highly likely that it then moved to Invalidenstraße 42 when the United Agricultural Teaching Institute and Museum (Vereinigtes landwirthschaftliches Lehr-Institut und Museum) was built in 1880. 
+[^4]: Cf. Dr. L. Wittmack. _Allgemeiner Katalog des königlichen landwirthschaftlichen Museums zu Berlin_, Berlin: Verlagsbuchhandlung Wiegandt und Hempel, 1869: 108-109. The model was purchased from Auzoux for 66 talers, and it is highly likely that it then moved to Invalidenstraße 42 when the United Agricultural Teaching Institute and Museum (Vereinigtes landwirthschaftliches Lehr-Institut und Museum) was built in 1880. 
 
 :::DE:::
 
@@ -122,4 +124,4 @@ Das aufklappbare anatomische Funktionsmodell (auch Clastique-Modell genannt) von
 
 [^3]: Vgl. “Modell, Raupe, Seidenspinner”. Datenbankeintrag der Humboldt-Universität zu Berlin, ohne Datum, https://www.sammlungen.hu-berlin.de/objekte/zoologische-lehrsammlung/8322/ (03.01.2022).
 
-[^4]: Vgl. Dr. L. Wittmack. _Allgemeiner Katalog des königlichen landwirthschaftlichen Museums zu Berlin_. Berlin: Verlagsbuchhandlung Wiegandt und Hempel, 1869: 108f. Das Modell von Auzoux wurde für gut 66 Taler erworben und dann höchstwahrscheinlich mit dem Neubau des Vereinigten landwirthschaftlichen Lehr-Institut und Museum in Berlin 1880 in die Invalidenstraße 42 transferiert. 
+[^4]: Vgl. Dr. L. Wittmack. _Allgemeiner Katalog des königlichen landwirthschaftlichen Museums zu Berlin_. Berlin: Verlagsbuchhandlung Wiegandt und Hempel, 1869: 108-109. Das Modell von Auzoux wurde für gut 66 Taler erworben und dann höchstwahrscheinlich mit dem Neubau des Vereinigten landwirthschaftlichen Lehr-Institut und Museum in Berlin 1880 in die Invalidenstraße 42 transferiert. 

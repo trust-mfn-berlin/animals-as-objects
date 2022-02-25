@@ -1,29 +1,33 @@
 ---
 license: CC BY-SA
+title: Untraceable
 title_de: Unauffindbar
 created: 1640459479902
-author: Mareike Vennen
-short_desc_de: "Verschollene Objekte und alte Kataloge "
-date_end: 2022-12-04T16:26:25.633Z
-published: false
-title: Untraceable
-updated: 1644597575771
+updated: 1645737977120
 id: abaNOPQjQqMhfMbhbhvm4
+author: Mareike Vennen
 doi: 64y2-m311/73
 translators:
   translator_de_en: Lydia J. White
 desc: The search for historical collection items is often fruitless, yet it
   provides insights into the history of colonial collecting, historical modes of
   cataloguing, and the management of absent objects.
-desc_de: Die Suche nach historischen Sammlungsobjekten bleibt manchmal erfolglos
-  und gibt trotzdem Einblicke in die Geschichte kolonialen Sammelns, in
-  historische Katalogisierungsweisen und den Umgang mit abwesenden Objekten.
+desc_de: Die Suche nach historischen Sammlungsobjekten bleibt manchmal erfolglos, doch gibt sie trotzdem Einblicke in die Geschichte kolonialen Sammelns, in historische Katalogisierungsweisen und den Umgang mit abwesenden Objekten.
 short_desc: "Lost objects and old catalogues "
+short_desc_de: "Verschollene Objekte und alte Kataloge "
+keywords: kaiman krokodil verzeich* dokument* schomburgk guyana koloni* Tillack
+  reptilie* amphibie* ordn* katalog* sammeln Martin tendaguru invent*
+  provenienz* etikett* alligator taxonom* expedition* caiman crocodile record*
+  document* schomburgk guyana coloni* tillack reptile amphibian order* catalog*
+  collect martin tendaguru inventory provenance label alligator taxonom*
+  expedition
 cover_image:
   image: /images/katalog-herpetologie-ausschnitt.jpg
 colour_scheme: 8
 tao_type: story
 date_start: 1843-12-31T23:50:39.000Z
+date_end: 2022-12-04T16:26:25.633Z
+published: false
 ---
 
 :::EN:::
@@ -51,7 +55,7 @@ In the mid-19th century, at the [[time of Schomburgk|story.from-pests-to-display
 
 When this happened, they were entered in the inventory catalogue, which kept a record of a collection’s holdings. However, a specimen’s number in the inventory book only seldom matched that in the accession catalogue, as the numbers there were assigned chronologically by the date of arrival, while the inventory catalogue only recorded specimens once they had actually been processed in the collection and had therefore become part of the collection’s ‘inventory’. In the inventory catalogue, the specimens received the number that was next in line when they were being entered in the catalogue. This was at least how it was in theory – but this was by no means consistently the case in practice.
 
-As more and more natural history objects entered the museum, particularly during the colonial period, a number of specimens that arrived simultaneously, that were classified as belonging to the same species and that had been found in the same place were registered under one inventory number in what was referred to as a ‘lot’ – and frequently preserved together in one jar of alcohol. This practice later became a problem that staff in the Herpetological Collection (and in other sub-collections) are still dealing with today. In 2021, there were still thousands of jars in the collection that had been assigned a single inventory number but contained up to one hundred individual animals. Collection staff are still trying to untangle these lots and to assign individual inventory numbers to the specimens they contain. This demonstrates how difficult it is to obtain precise information about the number of objects in a collection, especially if, as in this case, the holdings contain a large number of historical specimens. Former practices of collecting and [[keeping records|theme.recording-worlds]] like the use of lots are some of the reasons why it will only be possible to guess how many items there are in a sub-collection until all the specimens have been individualised and simultaneously digitalised. At the same time, this clearly illustrates the consequences of accumulating enormous amounts of objects, particularly during the colonial period, for the practice of collecting and for science. The goal of gathering up to two specimens of each species did not just lead to “a large part of the often very costly overseas natural history consignments arriving in a highly corrupt and often completely unusable state”,[^6] as preparator Philipp Leopold Martin wrote in 1886. The downright flood of natural history arrivals also had an impact on cataloguing practice that continues to present us with problems today, not to mention the ecological, social, and political impact of local ‘Ecological’ or ‘Green Imperialism’ – consequences that are still being felt in the present.[^7] If more was collected and accumulated than collections were even able to record in a timely manner, it illustrates what is meant by the contemporary critiques of ‘collecting mania’ (Sammelwut), which seems to have managed to create one thing above all: confusion. There are numerous examples of this – on the Tendaguru expedition (1909-1912) alone, the largest palaeontological excavation of the early 20th century organised by the Natural History Museum (Naturkundemuseum) in Berlin, so many boxes arrived at the museum over a period of five years (800 boxes in total) that the objects completely blocked up work rooms and collection spaces, creating physical barriers and scientific obstacles.[^8]
+As more and more natural history objects entered the museum, particularly during the colonial period, a number of specimens that arrived simultaneously, that were classified as belonging to the same species and that had been found in the same place were registered under one inventory number in what was referred to as a ‘lot’ – and frequently preserved together in one jar of alcohol. This practice later became a problem that staff in the Herpetological Collection (and in other sub-collections) are still dealing with today. In 2021, there were still thousands of jars in the collection that had been assigned a single inventory number but contained up to one hundred individual animals. Collection staff are still trying to untangle these lots and to assign individual inventory numbers to the specimens they contain. This demonstrates how difficult it is to obtain precise information about the number of objects in a collection, especially if, as in this case, the holdings contain a large number of historical specimens. Former practices of collecting and [[keeping records|theme.recording-worlds]] like the use of lots are some of the reasons why it will only be possible to guess how many items there are in a sub-collection until all the specimens have been individualised and simultaneously digitalised. At the same time, this clearly illustrates the consequences of accumulating enormous amounts of objects, particularly during the colonial period, for the practice of collecting and for science. The goal of gathering up to two specimens of each species did not just lead to “a large part of the often very costly overseas natural history consignments arriving in a highly corrupt and often completely unusable state”,[^6] as preparator Philipp Leopold Martin wrote in 1886. The downright flood of natural history arrivals also had an impact on cataloguing practice that continues to present us with problems today, not to mention the ecological, social, and political impact of local ‘Ecological’ or ‘Green Imperialism’ – consequences that are still being felt in the present.[^7] If more was collected and accumulated than collections were even able to record in a timely manner, it illustrates what is meant by the contemporary critiques of ‘collecting mania’ (Sammelwut), which seems to have managed to create one thing above all: confusion. There are numerous examples of this – on the Tendaguru expedition (1909-1912) alone, the largest palaeontological excavation of the early 20th century organised by the Natural History Museum in Berlin, so many boxes arrived at the museum over a period of five years (800 boxes in total) that the objects completely blocked up work rooms and collection spaces, creating physical barriers and scientific obstacles.[^8]
 
 Schomburgk’s objects also raise the following questions: Did the animals that he sent to the museum from Guiana ever even arrive? And are the animals that Friedrich Beyer’s notes say made their way to the museum via the zoo still there today? In order to answer these questions, we still have to rely on the catalogues. But where is the ‘young caiman’ – has it been entered in the catalogue as one of the animals that was collected and given to the museum by Schomburgk, or as one of the animals send from the Zoological Garden? There is another difficulty when it comes to Schomburgk as a collector: the entries for his Guiana trip have by no means been entered consecutively in the inventory catalogue. This is not just because the boxes with the natural history objects arrived successively (and the animals that were intended for the zoo did not enter the museum until months after the trip had been concluded) but also because the animals were not processed until some time later. Some of the entries from Schomburgk’s collecting expedition are spread throughout several inventory catalogues, depending on when an animal was identified and processed. It is likely that months or even years elapsed between the arrival of the objects and their inventory. It therefore takes a lot of time and effort to research individual objects today and to use the catalogues to get an overview of all the material that Schomburgk sent in.
 

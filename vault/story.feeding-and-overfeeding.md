@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: Feeding and Overfeeding
 title_de: Füttern und Überfüttern
 created: 1620752738850
-author: Mareike Vennen
-short_desc_de: Wer (über)füttert im Zoo?
-date_end: 1960-12-31T11:00:00.000Z
-published: false
-title: Feeding and Overfeeding
-updated: 1644517137580
+updated: 1645557812367
 id: dfe31be6-b21f-496f-af23-70f225c0616c
+author: Mareike Vennen
 doi: 64y2-m311/25
 translators:
   translator_de_en: ""
@@ -25,6 +22,10 @@ desc_de: "Als 1960 im Berliner Zoo ein Elefant starb, lautete die Diagnose:
   zoologischer Gärten im 19. Jahrhundert zurückreicht. Wer darf füttern und vor
   allem, was und wieviel?"
 short_desc: Who (over)feeds zoo animals?
+short_desc_de: Wer (über)füttert im Zoo?
+keywords: Elefant Jambo Pavian Kranich koloni* Veterinär* Frankfurt Schimpanse
+  Gustav Jäger krank* Heinroth elephant Jambo baboon crane coloni* veterina*
+  Frankfurt chimpanzee Gustav Jäger ill* disease* Heinroth
 cover_image:
   image: /images/cover-overfeeding-newspaper-taegliche-rundschau.jpg
   alt: "Feeding as an act of sharing in the Berlin postwar zoo. Füttern als ein
@@ -33,6 +34,8 @@ cover_image:
 colour_scheme: 11
 tao_type: story
 date_start: 1871-12-31T23:06:32.000Z
+date_end: 1960-12-31T11:00:00.000Z
+published: false
 ---
 
 :::EN:::
@@ -99,7 +102,7 @@ _The_ Tägliche Rundschau _presents feeding the animals as an act of sharing in 
 
 &#8203;[[Letters|material.winter-hardship-at-the-zoo]] from zoo visitors also show that many felt feeding the animals was not only a practical necessity, but also a form of caring. While in the first [[postwar years|story.the-zoo-and-national-socialism]] feeding became an act of solidarity with the zoo and its animals, and may even have saved the lives of some animals, the [[dangers of overfeeding|story.feeding-prohibited]] returned in full force in the 1950s.
 
-[^1]: The zoo stopped growing vegetables on its grounds as early as 1950: “We have a lot of plans for the spring; the gardening should stop now, because the food supply situation has improved substantially for the people of Berlin and vegetables can now be bought at the markets again. We can now beautify our grounds again.” K. Heinroth to U. Bergman, 07.03.1950, AZGB N 4/12. Direct quotes have been translated into English for clarity’s sake.
+[^1]: The zoo stopped growing vegetables on its grounds as early as 1950: “We have a lot of plans for the spring; the gardening should stop now, because the food supply situation has improved substantially for the people of Berlin and vegetables can now be bought at the markets again. We can now beautify our grounds again.” K. Heinroth to U. Bergman, 07.03.1950, AZGB N 4/12. 
 
 [^2]: Cf. Benjamin Lamp. _Entwicklung der Zootiermedizin im deutschsprachigen Raum_. Giessen: VVB Laufersweiler, 2009: 160. In addition, suitable food was not always available due to limited transportation options and a lack of cooling technology, making it necessary to get the animals accustomed to substitute foodstuffs.
 
@@ -107,17 +110,17 @@ _The_ Tägliche Rundschau _presents feeding the animals as an act of sharing in 
 
 [^4]: Cf., for instance, Moritz Friedrich Röll. “Die Knochenweiche (Rachitis)”. In _Lehrbuch der Pathologie und Therapie der Hausthiere_, Moritz Friedrich Röll (ed.), Wien: Braumüller, 1860: 85; Walter Butler Cheadle. _Rickets: A System of Medicine_, Thomas Clifford Allbutt (ed.), vol. 4, London: 1897: 108-146. On this, see also Lamp, 2009: 160.
 
-[^5]: Cf. Christoph Scherpner. _Von Bürgern für Bürger: 125 Jahre Zoologischer Garten Frankfurt am Main_ Frankfurt a.M.: Zoologischer Garten, 1983: 126. Direct quotes have been translated into English for clarity’s sake.
+[^5]: Cf. Christoph Scherpner. _Von Bürgern für Bürger: 125 Jahre Zoologischer Garten Frankfurt am Main_ Frankfurt a.M.: Zoologischer Garten, 1983: 126. 
 
 [^6]: In elephants, excessive weight combined with unsuitable ground covering often results in pathological changes in the soles of the feet and nails. The obesity of breeding bulls also reduces the chances of successful reproduction. This situation gradually changed as veterinary medicine developed, and as the large emerging animal trading houses, such as Hagenbeck or Ruhe, acquired knowledge from animal trappers. Feeding thus began to be oriented more toward the needs of the animals and to take their natural eating habits into account.
 
-[^7]: Gustav Jäger. _Skizzen aus dem Thiergarten_, Leipzig: Baensch, 1872: 242. Direct quotes have been translated into English for clarity’s sake.
+[^7]: Gustav Jäger. _Skizzen aus dem Thiergarten_, Leipzig: Baensch, 1872: 242. 
 
 [^8]: Lamp, 2009: 161-162.
 
-[^9]: E. Kallmann. “Die Krankheiten der Tiere im Zoologischen Garten in Berlin”. _Tierärztliche Rundschau_ 28 (12.07.1925): 482-484. Direct quotes have been translated into English for clarity’s sake.
+[^9]: E. Kallmann. “Die Krankheiten der Tiere im Zoologischen Garten in Berlin”. _Tierärztliche Rundschau_ 28 (12.07.1925): 482-484. 
 
-[^10]: Daniel de Luce. “Lebensmittelkarte 5 im Berliner Zoo”. _Tägliche Rundschau_, 17.12.1946. For further examples of animals that fell ill or died in Berlin Zoo around 1930 as a result of overfeeding, see also “Feeding prohibited! Observations at the zoo”. _Steglitzer Anzeiger_, 24.07.1930. Direct quotes have been translated into English for clarity’s sake.
+[^10]: Daniel de Luce. “Lebensmittelkarte 5 im Berliner Zoo”. _Tägliche Rundschau_, 17.12.1946. For further examples of animals that fell ill or died in Berlin Zoo around 1930 as a result of overfeeding, see also “Feeding prohibited! Observations at the zoo”. _Steglitzer Anzeiger_, 24.07.1930. 
 
 :::DE:::
 

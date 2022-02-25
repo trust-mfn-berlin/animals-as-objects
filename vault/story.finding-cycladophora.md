@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: Finding Cycladophora
 title_de: Auf der Suche nach Cycladophora
 created: 1624875316911
-author: Filippo Bertoni
-short_desc_de: Von Telegrafen zu Proben
-date_end: 1859-12-31T11:06:32.000Z
-published: false
-title: Finding Cycladophora
-updated: 1644698781407
+updated: 1645736498715
 id: 4kJJB2pX-g7lq6q7GUt0W
+author: Filippo Bertoni
 doi: 64y2-m311/11
 translators:
   translator_en_de: ""
@@ -20,15 +17,11 @@ desc: The sample from which the radiolarian species Cycladophora was originally
   journey unfolds the complex and extensive networks that allow Cycladophora to
   be what it is today. It also highlights the networks' connections with the
   sociotechnical infrastructures of modernity.
-desc_de: Bei einer Vermessungsreise für den geplanten Bau einer
-  Unterwassertelegrafenleitung im Nordatlantik wird im Jahr 1859 die Probe
-  entnommen, anhand derer die Radiolarienart Cycladophora erstmalig beschrieben
-  wurde. Die Geschichte dieser Reise veranschaulicht die komplexen und
-  weitreichenden Netzwerke, die zur Artwerdung von Cycladophora beigetragen
-  haben. Damit verbunden beschreibt die Geschichte auch die Verbindungen
-  zwischen diesen Netzwerken und den soziotechnischen Infrastrukturen der
-  Moderne.
+desc_de: Bei einer Vermessungsreise für den geplanten Bau einer Unterwassertelegrafenleitung im Nordatlantik wurde im Jahr 1859 die Probe entnommen, anhand derer die Radiolarienart Cycladophora erstmalig beschrieben wurde. Die Geschichte dieser Reise veranschaulicht die komplexen und weitreichenden Netzwerke, die zur Artwerdung von Cycladophora beigetragen haben. Sie verdeutlicht auch die Verbindungen zwischen diesen Netzwerken und den soziotechnischen Infrastrukturen der Moderne.
 short_desc: From telegraphs to samples
+short_desc_de: Von Telegrafen zu Proben
+keywords: Taliaferro Preston Shaffner Grönland Werner Siemens Taliaferro Preston
+  Shaffner Grönland Werner Siemens
 cover_image:
   image: /images/cover-finding-cycladophora.jpg
   alt: "Map of telegraph cables in the North Atlantic, 1865. Karte von
@@ -37,6 +30,8 @@ cover_image:
 colour_scheme: 17
 tao_type: story
 date_start: 1858-12-31T23:06:32.000Z
+date_end: 1859-12-31T11:06:32.000Z
+published: false
 ---
 
 :::EN:::

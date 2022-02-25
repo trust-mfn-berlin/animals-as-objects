@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Cycladophora davisiana
 title_de: Cycladophora davisiana
 created: 1620218024936
-updated: 1644704293456
+updated: 1645737075284
 id: 6b86b681-8157-4bd4-acb1-167b98547122
 author: Filippo Bertoni
 doi: 64y2-m311/4
@@ -17,14 +17,11 @@ desc: |-
   that turned it into an important tool for scientific research, which continues
   to help scientists in the ongoing study of our planet and its deep history.
 desc_de: |-
-  Cycladophora Davisiana ist eine zu den Radiolarien gehörende Art, die
-  erstmals 1862 in Berlin beschrieben wurde. Die Geschichte der Befassung mit
-  diesem Mikroorganismus veranschaulicht seine Wandlungen hin zu einem wichtigen
-  Forschungswerkzeug, das Wissenschaftler:innen noch immer bei der Erforschung
-  unseres Planeten und seiner Tiefenzeit hilft.
+  Cycladophora davisiana ist eine zu den Radiolarien gehörende Art, die erstmals 1862 in Berlin beschrieben wurde. Die Geschichte dieses Mikroorganismus veranschaulicht, wie er zu einem wichtigen Forschungswerkzeug wurde, das Wissenschaftler:innen bis heute bei der Erforschung unseres Planeten und seiner Tiefenzeit hilft.
 short_desc: Microscopic radiolarian species
 short_desc_de: Eine mikroskopisch kleine Radiolarienart
-keywords: to come
+keywords: Ehrenberg Mikro* Fossil* Ernst Haeckel William Rex Riedel Ehrenberg
+  Micro* Fossil* Ernst Haeckel William Rex Riedel
 cover_image:
   image: /images/cover-cycladophora.jpg
   alt: |-

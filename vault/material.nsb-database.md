@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: NSB Database
 title_de: NSB Datenbank
 created: 1619187736766
-author: Filippo Bertoni
-short_desc_de: Eine umfangreiche Datenbank mikropaläontologischer Proben und Daten
-date_end: 2022-12-07T18:44:00.147Z
-published: false
-title: NSB Database
-updated: 1643065735067
+updated: 1645259082705
 id: 384f2259-ec40-482d-bacc-c0876ae280aa
+author: Filippo Bertoni
 doi: 64y2-m311/38
 translators:
   translator_en_de: ""
@@ -18,11 +15,16 @@ copy_editors:
 desc: " A vast database of micropaleontological samples and data"
 desc_de: Eine umfangreiche Datenbank mikropaläontologischer Proben und Daten
 short_desc: " A vast database of micropaleontological samples and data"
+short_desc_de: Eine umfangreiche Datenbank mikropaläontologischer Proben und Daten
+keywords: Lazarus Daten Fossil* Infrastruktur radiolari* Lazarus data Fossil*
+  infrastructure radiolari*
 cover_image:
   image: /images/nsb-cover-2.png
 colour_scheme: 11
 tao_type: material
 date_start: 1989-01-01T18:39:00.000Z
+date_end: 2022-12-07T18:44:00.147Z
+published: false
 ---
 
 :::EN:::
@@ -45,7 +47,7 @@ The Neptune Sandbox Berlin database is the current implementation of the Neptune
 
 <figcaption>
 
-_This video illustrates the work of the micropaleontology research group at the Museum für Naturkunde Berlin by interviewing Johan Renaudie, micropaleontologist and manager of the NSB database. This digital tool not only collects an incredible amount of data from decades of deep sea drilling, but it also allows scientists to bring different kinds of data together for the study of biostratigraphy, micropaleontology, but also geology and paleoclimatology. (Video: Filippo Bertoni/MfN. All rights reserved.)_
+_This video illustrates the work of the micropaleontology research group at the Museum für Naturkunde Berlin and shows an interview with Johan Renaudie, micropaleontologist and manager of the NSB database. The database not only collects an incredible amount of data from decades of deep sea drilling, but also allows scientists to combine different kinds of data for the study of biostratigraphy, micropaleontology as well as geology and paleoclimatology. (Video: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 

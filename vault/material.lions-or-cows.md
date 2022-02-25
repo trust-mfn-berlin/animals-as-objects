@@ -1,31 +1,34 @@
 ---
-id: 9mH5N7vuPc8pcrpIzElb1
+license: CC BY-SA
 title: Lions or Cows?
+title_de: Löwen oder Kühe?
+created: 1640356599113
+updated: 1645559465503
+id: 9mH5N7vuPc8pcrpIzElb1
+author: Mareike Vennen
+doi: 64y2-m311/55
+translators:
+  translator_de_en: Lydia J. White
 desc: |-
   When we think of zoos, we think of elephants, lions, and giraffes. But
   livestock is just as important to the history of zoological gardens, as the
   example of Berlin Zoo around 1900 reveals.
-updated: 1643316275560
-created: 1640356599113
-license: CC BY-SA
-title_de: Löwen oder Kühe?
-author: Mareike Vennen
-short_desc_de: Nutztiere im Zoo
-date_end: ''
-published: false
-doi: 64y2-m311/55
-translators:
-  translator_de_en: Lydia J. White
 desc_de: |-
   Wer an Zoos denkt, denkt an Elefanten, Löwen oder Giraffen. Doch sind
   für die Geschichte zoologischer Gärten ebenso Nutztiere wichtig, wie das
   Beispiel des Berliner Zoos in der Zeit um 1900 zeigt.
 short_desc: Domestic animals at the zoo
+short_desc_de: Nutztiere im Zoo
+keywords: haustier* nutztier* landwirt* Heck lichtenstein Humboldt lehr*
+  tierarzt* veterin* medizin* rind* pferd* schwein* pet farm agricult* heck
+  lichtenstein humboldt teach vet* medic* cattle horse pig
 cover_image:
   image: /images/aktendeckel-landwirtschaftlicher-tierpark.jpg
 colour_scheme: 14
 tao_type: material
-date_start: ''
+date_start: ""
+date_end: ""
+published: false
 ---
 
 :::EN:::
@@ -59,11 +62,11 @@ However, the establishment of the Agricultural Zoo wore on. The application for 
 
 [^5]: One shareholder successfully objected, preventing the construction of an exhibition hall and all of the ensuing financial plans. Zoological Garden management to the Ministry of Agriculture, Domains, and Forests, 29.07.1903, AZGB O 0/1/94.
 
-[^6]: The zoo committed itself, in turn, to providing teachers and students at both universities with free entry. Cf. “Geschäftsbericht über das Jahr 1904”, Actien-Verein des Zoologischen Gartens zu Berlin, Berlin 1905; “Geschäftsbericht über das Jahr 1912”, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1913. 
+[^6]: The zoo committed itself, in turn, to providing teachers and students at both universities with free entry. Cf. Actien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht über das Jahr 1904_. Berlin: 1905; idem. _Geschäftsbericht über das Jahr 1912_. Berlin: 1913. 
 
 [^7]: Ministry of Agriculture, Domains, and Forests to the Aktienvereins des zoologischen Gartens, 19.12.1908, AZGB O 0/1/94.
 
-[^8]: Cf. “Geschäftsbericht über das Jahr 1908”, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1909; “Geschäftsbericht über das Jahr 1912”, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1913.
+[^8]: Cf. Actien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht über das Jahr 1908_. Berlin: 1909; idem. _Geschäftsbericht über das Jahr 1912_. Berlin: 1913.
  
 :::DE:::
 
@@ -93,10 +96,10 @@ Die Umsetzung des Landwirtschaftlichen Tierparks zog sich allerdings hin. Der An
 
 [^4]: _Vossische Zeitung_ 8 (1844), zit. nach Annelore Rieke-Müller und Lothar Dittrich. _Der Löwe brüllt nebenan: Die Gründung Zoologischer Gärten im deutschsprachigen Raum 1833-1869_. Köln: Böhlau, 1998: 60.
 
-[^5]: Der Bau einer Ausstellungshalle und der ganze damit zusammenhängende Finanzplan, wurde durch den erfolgreichen Widerspruch eines Aktionärs verhindert. Direktion des Zoologischen Gartens an das Ministerium für Landwirtschaft, Domänen und Forsten, 29.07.1903, AZGB O 0/1/94.
+[^5]: Der Bau einer Ausstellungshalle und der ganze damit zusammenhängende Finanzplan wurde durch den erfolgreichen Widerspruch eines Aktionärs verhindert. Direktion des Zoologischen Gartens an das Ministerium für Landwirtschaft, Domänen und Forsten, 29.07.1903, AZGB O 0/1/94.
 
-[^6]: Der Zoo verpflichtete sich im Gegenzug, den Lehrenden und Studierenden beider Hochschulen freien Eintritt zu gewähren. Vgl. “Geschäftsbericht über das Jahr 1904”, Actien-Verein des Zoologischen Gartens zu Berlin, Berlin 1905; “Geschäftsbericht über das Jahr 1912”, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1913. 
+[^6]: Der Zoo verpflichtete sich im Gegenzug, den Lehrenden und Studierenden beider Hochschulen freien Eintritt zu gewähren. Vgl. Actien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht über das Jahr 1904_. Berlin: 1905; ders. _Geschäftsbericht über das Jahr 1912_. Berlin: 1913. 
 
 [^7]: Ministerium für Landwirtschaft, Domänen und Forsten an den Vorstand des Aktienvereins des zoologischen Gartens, 19.12.1908, AZGB O 0/1/94.
 
-[^8]: Vgl. “Geschäftsbericht über das Jahr 1908”, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1909; “Geschäftsbericht über das Jahr 1912”, Actien-Verein des zoologischen Gartens zu Berlin, Berlin 1913.
+[^8]: Vgl. Actien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht über das Jahr 1908_. Berlin: 1909; ders. _Geschäftsbericht über das Jahr 1912_. Berlin: 1913.

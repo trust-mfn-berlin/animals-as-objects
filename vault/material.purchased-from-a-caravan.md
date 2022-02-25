@@ -1,25 +1,28 @@
 ---
 license: CC BY-SA
+title: Purchased from a Caravan
 title_de: Von einer Karawane gekauft
 created: 1640456449013
-author: Catarina Madruga
-short_desc_de: Geschichten, die uns Tierschädel erzählen
-date_end: ""
-published: false
-title: Purchased from a Caravan
-updated: 1644602189059
+updated: 1644877444355
 id: VzxTWqgWM3FzLdS5Z2DUO
+author: Catarina Madruga
 doi: 64y2-m311/58
 translators:
   translator_en_de: Jan-Peter Herrmann
 desc: Animal skulls tell a story
 desc_de: Geschichten, die uns Tierschädel erzählen
 short_desc: Animal skulls tell a story
+short_desc_de: Geschichten, die uns Tierschädel erzählen
+keywords: Schädel Antilope Peters koloni* Lichtenstein sansibar Lindi Tansan*
+  Provenienz Reimer Neumann sammeln skull antilope peters coloni* lichtenstein
+  zanzibar lindi tanzan* provenance reimer neumann collect
 cover_image:
   image: /images/purchased-from-a-caravan-1.jpg
 colour_scheme: 14
 tao_type: material
 date_start: 1938-01-01T19:53:00.000Z
+date_end: ""
+published: false
 ---
 
 :::EN:::
@@ -36,7 +39,7 @@ _Row of_ Alcelaphus lichtensteinii _specimens from the Skull Collection of the M
 
 </figure>
 
-Inscriptions in China ink cover the top front of nine skulls in the Mammals Collection of the Museum für Naturkunde Berlin. They provide information on the classification of the animals according to [[taxonomic systematics|theme.taxonomic-orders]], and on the provenance of the specimen. The specimens, among them the one with the catalogue number ‘MfN_Mam_049330’, male and female skulls of the African hartebeest antelope species. This was named by the Berlin museum’s director Wilhelm Peters (1815-1883) in honour of his predecessor, Martin Lichtenstein (1780-1857), _Sigmoceros lichtensteinii_ in 1849 (today, the valid name is _Alcelaphus lichtensteinii_).[^1] As for the provenance, the inscription states that the individuals were purchased in Zanzibar, “from a passing caravan coming from the hinterland of Lindi”.[^2]
+Inscriptions in China ink cover the top front of nine skulls in the Mammals Collection of the Museum für Naturkunde Berlin. They provide information on the classification of the animals according to [[taxonomic systematics|theme.taxonomic-orders]], and on the provenance of the specimen. The specimens, among them the one with the catalogue number ‘MfN-Mam-049330’, male and female skulls of the African hartebeest antelope species. This was named by the Berlin museum’s director Wilhelm Peters (1815-1883) in honour of his predecessor, Martin Lichtenstein (1780-1857), _Sigmoceros lichtensteinii_ in 1849 (today, the valid name is _Alcelaphus lichtensteinii_).[^1] As for the provenance, the inscription states that the individuals were purchased in Zanzibar, “from a passing caravan coming from the hinterland of Lindi”.[^2]
 
 <figure>
 
@@ -78,7 +81,7 @@ _Aufreihung von_ Alcelaphus lichtensteinii _Exemplaren in der Schädelsammlung d
 
 </figure>
 
-Neun Schädel in der Säugetiersammlung des Museums für Naturkunde Berlin weisen jeweils auf der vorderen Oberseite eine Beschriftung mit schwarzer Tusche auf. Diese gibt Auskunft über die Klassifikation der Tiere im Sinne der [[taxonomischen Systematik|theme.taxonomic-orders]] und über die Herkunft des jeweiligen Objekts. Die Objekte, darunter auch jenes mit der Inventarnummer ‘MfN_Mam_049330’, sind Schädel von männlichen und weiblichen Exemplaren der afrikanischen Antilopenart Hartebeest, die der einstige Direktor des Museums für Naturkunde Berlin, Wilhelm Peters (1815-1883), zu Ehren seines Vorgängers Martin Lichtenstein (1780-1857) als _Sigmoceros lichtensteinii_ benannte (die heutige offizielle Bezeichnung lautet _Alcelaphus lichtensteinii_).[^1] Zur Herkunft vermerkt die Beschriftung, dass die Schädel in “Sansibar von einer aus dem Hinterlande von Lindi, Bez[irk] Lindi, D.O.A., kommenden Karawane gekauft” wurden.[^2]
+Neun Schädel in der Säugetiersammlung des Museums für Naturkunde Berlin weisen jeweils auf der vorderen Oberseite eine Beschriftung mit schwarzer Tusche auf. Diese gibt Auskunft über die Klassifikation der Tiere im Sinne der [[taxonomischen Systematik|theme.taxonomic-orders]] und über die Herkunft des jeweiligen Objekts. Die Objekte, darunter auch jenes mit der Inventarnummer ‘MfN-Mam-049330’, sind Schädel von männlichen und weiblichen Exemplaren der afrikanischen Antilopenart Hartebeest, die der einstige Direktor des Museums für Naturkunde Berlin, Wilhelm Peters (1815-1883), zu Ehren seines Vorgängers Martin Lichtenstein (1780-1857) als _Sigmoceros lichtensteinii_ benannte (die heutige offizielle Bezeichnung lautet _Alcelaphus lichtensteinii_).[^1] Zur Herkunft vermerkt die Beschriftung, dass die Schädel in “Sansibar von einer aus dem Hinterlande von Lindi, Bez[irk] Lindi, D.O.A., kommenden Karawane gekauft” wurden.[^2]
 
 <figure>
 

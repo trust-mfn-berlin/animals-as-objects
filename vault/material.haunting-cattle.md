@@ -1,25 +1,26 @@
 ---
-id: AOZiyuOX6B0ntAdEoiiIi
-title: Haunting Cattle
-desc: Audio stories about animals in Berlin
-updated: 1643307750135
-created: 1640359539704
 license: CC BY-SA
+title: Haunting Cattle
 title_de: Spukendes Vieh
+created: 1640359539704
+updated: 1643307750135
+id: AOZiyuOX6B0ntAdEoiiIi
 author: Sophie-Marie Kaatsch
-short_desc_de: Audiogeschichten über Tiere in Berlin
-date_end: ''
-published: false
 doi: 64y2-m311/66
 translators:
   translator_de_en: Lydia J. White
+desc: Audio stories about animals in Berlin
 desc_de: Audiogeschichten über Tiere in Berlin
 short_desc: Audio stories about animals in Berlin
+short_desc_de: Audiogeschichten über Tiere in Berlin
+keywords: schlachthof pankow fleisch abattoir slaughterhouse meat
 cover_image:
   image: /images/tiertopografien-kaatsch.jpg
 colour_scheme: 14
 tao_type: material
-date_start: '1870-12-02T17:15:39.000Z'
+date_start: 1870-12-02T17:15:39.000Z
+date_end: ""
+published: false
 ---
 
 :::EN:::

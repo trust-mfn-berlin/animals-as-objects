@@ -1,7 +1,7 @@
 <template>
   <div class="article-container">
     <div id="header">
-      <h5 class="headcol left">Tiere als Objekte?</h5><h5 class="headcol mid"><span class="type">{{article.tao_type}}</span> {{article.title_de}} by {{article.author}}</h5><h5 class="headcol right">S.<span class="pageNumber"></span></h5>
+      <h5 class="headcol left">Tiere als Objekte?</h5><h5 class="headcol mid"><span class="type">{{article.tao_type}}</span> {{article.title_de}} von {{article.author}}</h5><h5 class="headcol right">S.<span class="pageNumber"></span></h5>
     </div>
     <hgroup class="heading">
       <h1>{{article.title_de}}</h1>

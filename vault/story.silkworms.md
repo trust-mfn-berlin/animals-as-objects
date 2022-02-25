@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: Silkworms
 title_de: Seidenraupen
 created: 1629986374819
-author: Britta Lange
-short_desc_de: Spuren von Bäumen und Tieren in Berlin
-date_end: 2022-08-26T14:37:08.305Z
-published: false
-title: Silkworms
-updated: 1644699974304
+updated: 1645782333462
 id: GDcruELihUsAdF7btC6KD
+author: Britta Lange
 doi: 64y2-m311/47
 translators:
   translator_de_en: Lydia J. White
@@ -24,6 +21,12 @@ desc_de: Warum gibt es in Berlin Maulbeerbäume? Ihre Geschichte ist heute fast
   Seidenraupe, von Philosophie und Ökonomie, von königlichen Dekreten und
   Alltagswissen?
 short_desc: The traces of trees and animals in Berlin
+short_desc_de: Spuren von Bäumen und Tieren in Berlin
+keywords: Maulbeer* schmetterling* Richter Damaschun Vent Thaer Botani* agra*
+  schaf*  Lestwitz Itzenplitz biene plantag* merian linne taxonom* preuß* baum
+  franzö* frankreich hugeno mulberry butterfl* richter damaschun vent thaer
+  botan* agri* sheep lestwitz itzenplitz bee planta* merian linnaeus taxonomi*
+  prussia* tree french france hugeno*
 cover_image:
   image: /images/old-mulberry-tree-alter-maulbeerbaum-berlin-museum-fuer-naturkunde-natural-history-museum.jpg
   alt: |-
@@ -32,6 +35,8 @@ cover_image:
 colour_scheme: 3
 tao_type: story
 date_start: 1703-01-01T23:07:09.241Z
+date_end: 2022-08-26T14:37:08.305Z
+published: false
 ---
 
 :::EN:::
@@ -156,7 +161,7 @@ _Mulberry trees at the French Cemetery in Berlin-Mitte, 2020. (Image: Britta Lan
  
 </figure>
 
-Completely unbeknownst to the city administration and the tree register, in contrast, is the white mulberry tree on Habersaathstraße, which might have been planted at the Agricultural University for teaching purposes. It might have had a connection to the procurement of the model of a [[papier mâché silkworm|material.silkworm-in-papier-mache]] from the workshop of the Parisian modeller Louis Auzoux.[^20] It stands to reason that the actual tree and the caterpillar model were acquired at the same time, and that silkworms were possibly kept as well to observe and to teach students about the insect’s diet, upkeep, and reproduction. We cannot know for sure, because although the tree still bears witness, it cannot tell us its whole story.
+Completely unbeknownst to the city administration and the tree register, in contrast, is the white mulberry tree on Invalidenstraße, which might have been planted at the Agricultural University for teaching purposes. It might have had a connection to the procurement of the model of a [[papier mâché silkworm|material.silkworm-in-papier-mache]] from the workshop of the Parisian modeller Louis Auzoux.[^20] It stands to reason that the actual tree and the caterpillar model were acquired at the same time, and that silkworms were possibly kept as well to observe and to teach students about the insect’s diet, upkeep, and reproduction. We cannot know for sure, because although the tree still bears witness, it cannot tell us its whole story.
 
 [^1]: My thanks go to Viola Richter, Sandra Miehlbradt, and Ferdinand Damaschun (all Museum für Naturalkunde Berlin), Gerhard Scholtz (Zoological Teaching Collection of the Humboldt-Universität zu Berlin), Sabine Graefe (Thaer Museum Möglin), and Wolfgang Bokelmann (formerly of the Thaer-Institut of the Humboldt-Universität zu Berlin) for providing me with information, as well as to Sofie Fingado and Estela Braun Carrasco for their help researching.
 
@@ -213,7 +218,7 @@ _Maulbeerbaum am Museum für Naturkunde Berlin, 2021. (Foto: Britta Lange)_
  
 </figure>
 
-Während das große Dinosaurierskelett in der Haupthalle des Berliner Museums für Naturkunde stadt- und weltbekannt ist, scheint kaum jemand etwas über einen Baumriesen zu wissen, der sich im Hof des Museums befindet. **In der Durchfahrt zwischen dem Museum, dem heutigen Institut für Biophysik und dem Thaer-Institut für Agrar- und Gartenbauwissenschaften der Humboldt-Universität zu Berlin steht ein großer Maulbeerbaum an der Habersaathstraße.** Was ist seine Geschichte? Die Spuren führen ins Preußen des 18. Jahrhunderts, in Museumssammlungen und märkische Dörfer, zu Naturforscher:innen, Königen und Seidenraupen.
+Während das große Dinosaurierskelett in der Haupthalle des Museums für Naturkunde Berlin stadt- und weltbekannt ist, scheint kaum jemand etwas über einen Baumriesen zu wissen, der sich im Hof des Museums befindet. **In der Durchfahrt zwischen dem Museum, dem heutigen Institut für Biophysik und dem Thaer-Institut für Agrar- und Gartenbauwissenschaften der Humboldt-Universität zu Berlin steht ein großer Maulbeerbaum.** Was ist seine Geschichte? Die Spuren führen ins Preußen des 18. Jahrhunderts, in Museumssammlungen und märkische Dörfer, zu Naturforscher:innen, Königen und Seidenraupen.
 
 ## _Morus alba_ am Museum für Naturkunde und in den märkischen Dörfern
 
@@ -233,7 +238,7 @@ _Alter Schaukasten zu Entwicklungsstadien von_ Bombyx mori, _Museum für Naturku
 
 Die seit Jahrtausenden in Asien und Europa kultivierte Art _Bombyx mori_ ernährt sich ausschließlich von den Blättern des weißen Maulbeerbaumes, _Morus alba_. _Morus_ ist zugleich der lateinische Begriff für Brombeere (im Französischen ‘mûre’ für Brombeere und ‘mûrier’ für Maulbeerbaum), was auf Form und Farbe der Früchte des Baumes verweist. **Da die Seidenraupe in Koevolution mit dem weißen Maulbeerbaum lebt, ist die Verfügbarkeit von frischen grünen Blättern des _Morus alba_ Voraussetzung für die Haltung der Tiere und damit auch für die Herstellung von Seidenfäden.** Der Maulbeerbaum ist in der Natur wie auch in der Namensgebung untrennbar mit dem Tier verbunden.
 
-Heutzutage werden in Berlin keine lebenden Seidenraupen mehr aufgezogen, weder im Museum und der Universität noch in Manufakturen oder von Privatleuten. Der weiße Maulbeerbaum ist jedoch noch da. Seine Höhe – vielleicht 15 Meter – lässt darauf schließen, dass er schon viele Jahrzehnte alt ist. Ferdinand Damaschun, zuvor Mineraloge am Museum für Naturkunde, lässt mich wissen, dass der Baum im Jahr seiner Einstellung, 1974, schon sehr groß war. Der damalige Leiter des Museums, der Botaniker Walter Vent, der den Baum vom Direktorenzimmer aus sehen konnte, fragte ihn nach diesem Baum.[^2] **Der Baum gehörte vermutlich gar nicht zu dem 1889 vollendeten Museumsgebäude, sondern zum Gebäude der gegenüberliegenden ehemaligen [[Landwirtschaftlichen Hochschule|material.lions-or-cows]], das bereits 1880 fertiggestellt wurde. Mit dieser Institution war zumindest mittelbar auch die Geschichte der Seidenraupen in Brandenburg verknüpft.** 
+Heutzutage werden in Berlin keine lebenden Seidenraupen mehr aufgezogen, weder im Museum und der Universität noch in Manufakturen oder von Privatleuten. Der weiße Maulbeerbaum ist jedoch noch da. Seine Höhe – vielleicht 15 Meter – lässt darauf schließen, dass er schon viele Jahrzehnte alt ist. Ferdinand Damaschun, zuvor Mineraloge am Museum für Naturkunde, lässt mich wissen, dass der Baum im Jahr seiner Einstellung 1974 schon sehr groß gewesen sei. Der damalige Leiter des Museums, der Botaniker Walter Vent, der den Baum vom Direktorenzimmer aus sehen konnte, fragte ihn nach diesem Baum.[^2] **Der Baum gehörte vermutlich gar nicht zu dem 1889 vollendeten Museumsgebäude, sondern zum Gebäude der gegenüberliegenden ehemaligen [[Landwirtschaftlichen Hochschule|material.lions-or-cows]], das bereits 1880 fertiggestellt wurde. Mit dieser Institution war zumindest mittelbar auch die Geschichte der Seidenraupen in Brandenburg verknüpft.** 
 
 Hier begannen im Wintersemester 1880/81 die Vorlesungen, und am 14. Februar 1881 erhielt das Institut den Titel Königliche Landwirtschaftliche Hochschule Berlin.[^3] Damit war in Berlin, das zehn Jahre zuvor zur Reichshauptstadt geworden war, ein Forschungsgebiet institutionalisiert worden, das der bedeutende Arzt und Landwirt Albrecht Daniel Thaer (1752-1828) aus Celle bereits zuvor im ländlichen Brandenburg etabliert hatte. Thaer, der heute als Begründer der Agrarwissenschaft gilt, eröffnete 1806 auf dem märkischen Rittergut Möglin das Landwirtschaftliche Lehrinstitut und experimentierte dort unter anderem mit dem Fruchtwechsel auf den Feldern sowie der Zucht von Merino-Schafen. Bei dem Institut, das ab 1819 Königliche Preußische Akademische Lehranstalt des Landbaus hieß, handelt es sich um den direkten Vorläufer der akademischen Landwirtschaftsausbildung in Berlin. Thaer hielt zudem an der 1810 gegründeten Berliner Universität von 1810 bis 1819 als außerordentlicher Professor agrarwissenschaftliche Vorlesungen und veröffentlichte auf Grundlage seiner Forschungen in Möglin zahlreiche Schriften zur ‘Gewerbslehre’ (Agrarökonomie) und ‘Agronomie’ (Landwirtschaftswissenschaft) sowie zur [[Tierzucht|story.the-zoo-and-national-socialism]].
 
@@ -257,9 +262,9 @@ _In dieser populärwissenschaftliche Darstellung von Insekten aus dem Jahr 1794 
  
 </figure>
 
-Anders als die Bienen und anders als Nutztiere aus dem Bereich der Vögel, Fische oder Säugetiere jedoch kam _Bombyx mori_ in Preußen nicht in Freiheit vor. **Nur in menschlicher Obhut und in künstlich warm gehaltenen Räumen konnten die Eier überwintern.** Auch diese fehlenden wilden Formen in Freiheit sind ein Grund dafür, dass mit dem Erlöschen der Seidenherstellung die lebende Seidenraupe als Tier außerhalb der Forschung in vollständige Vergessenheit geriet – kam sie doch aufgrund der klimatischen Gegebenheiten in Nordeuropa in der Natur nicht vor. Wer heute die [[Geschichte des Seidenbaus|story.silk-culture]] in Brandenburg Preußen mit Fokus auf die Tiere rekonstruieren will, steht somit vor dem Problem, dass die Tiere und die Erinnerung an sie nicht mehr präsent sind. Ihr Verschwinden aus dem Alltag führte dazu, dass der tägliche Umgang mit den Tieren nicht mehr auf lebendige Quellen zurückgreifen kann. Um die Praktiken ihrer Haltung und Zucht und die Techniken der Seidengewinnung nachzuvollziehen, sind Forschende einerseits auf bildliche und [[schriftliche Quellen|theme.recording-worlds]] angewiesen, andererseits auf Überreste materieller Kultur. Dazu zählen nicht nur die Produkte des Seidenbaus (Kleidung, Accessoires, Möbelbezüge, Tapeten), die Sammlungsobjekte wie etwa Schaukästen, [[Modelle|material.silkworm-in-papier-mache]] und Präparate sowie die Instrumente und verbliebenen Gebäude des Seidenbaus. Hinweise geben darüber hinaus die Spuren in der Landschaft – Plantagenstrukturen und alte Maulbeerbäume.
+Anders als die Bienen und anders als Nutztiere aus dem Bereich der Vögel, Fische oder Säugetiere kam _Bombyx mori_ in Preußen jedoch nicht in Freiheit vor. **Nur in menschlicher Obhut und in künstlich warm gehaltenen Räumen konnten die Eier überwintern.** Auch diese fehlenden wilden Formen in Freiheit sind ein Grund dafür, dass mit dem Erlöschen der Seidenherstellung die lebende Seidenraupe als Tier außerhalb der Forschung in vollständige Vergessenheit geriet – kam sie doch aufgrund der klimatischen Gegebenheiten in Nordeuropa in der Natur nicht vor. Wer heute die [[Geschichte des Seidenbaus|story.silk-culture]] in Brandenburg Preußen mit Fokus auf die Tiere rekonstruieren will, steht somit vor dem Problem, dass die Tiere und die Erinnerung an sie nicht mehr präsent sind. Ihr Verschwinden aus dem Alltag führte dazu, dass der tägliche Umgang mit den Tieren nicht mehr auf lebendige Quellen zurückgreifen kann. Um die Praktiken ihrer Haltung und Zucht und die Techniken der Seidengewinnung nachzuvollziehen, sind Forschende einerseits auf bildliche und [[schriftliche Quellen|theme.recording-worlds]] angewiesen, andererseits auf Überreste materieller Kultur. Dazu zählen nicht nur die Produkte des Seidenbaus (Kleidung, Accessoires, Möbelbezüge, Tapeten), Sammlungsobjekte wie etwa Schaukästen, [[Modelle|material.silkworm-in-papier-mache]] und Präparate sowie die Instrumente und verbliebenen Gebäude des Seidenbaus. Hinweise geben darüber hinaus die Spuren in der Landschaft – Plantagenstrukturen und alte Maulbeerbäume.
 
-Was wissen wir heute über die Seidenraupe? Was wusste man damals über das Tier und woher stammt dieses Wissen? **Die zeitgenössische Wissensproduktion einerseits und die kulturellen Narrationen über Seidenraupen andererseits leiten sich, so meine These, aus dem alltäglichen Umgang mit den Tieren und ihrer Beobachtung ab.**[^11] Praktiken des Pflegens, Sinneserfahrungen wie Tasten, Riechen und Hören der Tiere, Ökonomien des Züchtens und Tötens verflochten sich mit Momenten der Beobachtung und Reflexion. Das ‘Zusammenleben’ mit den Seidenraupen führte zu zwei signifikanten Folgen. Einerseits wurde neues wissenschaftliches Wissen über die Tiere ausgebildet, andererseits führten das Erfahrungs- und Alltagswissen zu ästhetischen Reflexionen und zu Denkanstößen: Eigenschaften der Seidenraupe, vor allem das Verpuppen und das Ausschlüpfen der Schmetterlinge, also die sichtbare und vollständige Metamorphose/Gestaltwandlung, wurden als Denkmodell in andere gesellschaftliche Kontexte – Religion, Kunst, Ökonomie, Politik – überführt. **Das Tier wurde auch zum Denkmodell oder Denk-Objekt.**
+Was wissen wir heute über die Seidenraupe? Was wusste man damals über das Tier und woher stammte dieses Wissen? **Die zeitgenössische Wissensproduktion einerseits und die kulturellen Narrationen über Seidenraupen andererseits leiteten sich, so meine These, aus dem alltäglichen Umgang mit den Tieren und ihrer Beobachtung ab.**[^11] Praktiken des Pflegens, Sinneserfahrungen wie Tasten, Riechen und Hören der Tiere, Ökonomien des Züchtens und Tötens verflochten sich mit Momenten der Beobachtung und Reflexion. Das ‘Zusammenleben’ mit den Seidenraupen führte zu zwei signifikanten Folgen. Einerseits wurde neues wissenschaftliches Wissen über die Tiere ausgebildet, andererseits führten das Erfahrungs- und Alltagswissen zu ästhetischen Reflexionen und zu Denkanstößen: Eigenschaften der Seidenraupe, vor allem das Verpuppen und das Ausschlüpfen der Schmetterlinge, also die sichtbare und vollständige Gestaltwandlung, wurden metaphorisch in andere gesellschaftliche Kontexte – Religion, Kunst, Ökonomie, Politik – überführt. **Das Tier wurde auch zum Denkmodell oder Denk-Objekt.**
 
 In Europa musste es für Züchter:innen von Seidenraupen bereits zum Allgemeinwissen gehören, dass die Raupen aus Eiern schlüpfen und diese zuvor von den Schmetterlingen abgelegt worden waren, denn nur diese Erfahrung ermöglichte die Zucht. Doch erst die Künstlerin und Wissenschaftlerin Maria Sibylla von Merian formulierte nach der eingehenden Beobachtung von Raupen (freilich nicht nur Seidenraupen) im Jahr 1679 in ihrem Buch _Der Raupen wunderbare Verwandelung und sonderbare Blumen-nahrung_ eine Widerlegung der Aristotelischen Urzeugungsthese, nach der niedrige Tiere wie Würmer und Schmeißfliegen nicht aus einer geschlechtlichen Zeugung, sondern aus Unrat und Dämpfen entstünden.[^12] **Indem sie die Vorstellung der Urzeugung widerlegte, legte Maria Sibylla von Merian einen Grundstein für die Insektenkunde und die moderne Zoologie,[^13] die sich einerseits zunehmend von mythologischen und theologischen Narrativen verabschiedete, andererseits zu neuen Erkenntnissen wie auch Terminologien kam.**
 
@@ -321,7 +326,7 @@ _Maulbeerbäume auf dem französischen Friedhof in Berlin-Mitte, 2020. (Foto: Br
  
 </figure>
 
-Gänzlich unbekannt dagegen ist der Stadtverwaltung und dem Baumkataster jener weiße Maulbeerbaum an der Habersaathstraße, der möglicherweise zu Studienzwecken für die Landwirtschaftliche Hochschule angepflanzt wurde. Gegebenenfalls stand er auch im Zusammenhang mit der Anschaffung des Modells eines [[Seidenspinners in Papiermaschee|material.silkworm-in-papier-mache]] aus der Werkstatt des Pariser Modelleurs Louis Auzoux.[^20] Es liegt nahe, dass der reale Baum und das Raupenmodell etwa zeitgleich angeschafft und möglicherweise auch Seidenraupen gehalten wurden, um ihre Ernährung, ihre Pflege, ihre Vermehrung zu beobachten und zu lehren. Genau wissen können wir es nicht, da der Baum zwar als Zeuge noch da ist, über seine Geschichte jedoch nicht alles verrät.
+Gänzlich unbekannt dagegen ist der Stadtverwaltung und dem Baumkataster jener weiße Maulbeerbaum im Hof des Museums für Naturkunde, der möglicherweise zu Studienzwecken für die Landwirtschaftliche Hochschule angepflanzt wurde. Gegebenenfalls stand er auch im Zusammenhang mit der Anschaffung des Modells eines [[Seidenspinners in Papiermaschee|material.silkworm-in-papier-mache]] aus der Werkstatt des Pariser Modelleurs Louis Auzoux.[^20] Es liegt nahe, dass der reale Baum und das Raupenmodell etwa zeitgleich angeschafft und möglicherweise auch Seidenraupen gehalten wurden, um ihre Ernährung, ihre Pflege, ihre Vermehrung zu beobachten und zu lehren. Genau wissen können wir es nicht, da der Baum zwar als Zeuge noch da ist, über seine Geschichte jedoch nicht alles verrät.
 
 [^1]: Ich danke für Auskünfte Viola Richter, Sandra Miehlbradt und Ferdinand Damaschun (alle Museum für Naturkunde Berlin), Gerhard Scholtz (Zoologische Lehrsammlung der Humboldt-Universität zu Berlin), Sabine Graefe (Thaer Museum Möglin), Wolfgang Bokelmann (zuvor Thaer-Institut der Humboldt-Universität zu Berlin) sowie für die Mithilfe in der Recherche Sofie Fingado und Estela Braun Carrasco.
 

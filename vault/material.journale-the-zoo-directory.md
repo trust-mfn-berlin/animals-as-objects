@@ -1,20 +1,22 @@
 ---
-id: 4a663958-cb98-4cdd-967d-9b277f45cdc4
-title: Journale. The Zoo Directory
-desc: Overview of Berlin Zoo’s animal stocks since 1888
-updated: 1643306555789
-created: 1620987289214
 license: CC BY-SA
+title: Journale. The Zoo Directory
 title_de: Journale. Register der Tiere
+created: 1620987289214
+updated: 1643306555789
+id: 4a663958-cb98-4cdd-967d-9b277f45cdc4
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/15
 translators:
-  translator_de_en: ''
+  translator_de_en: ""
 copy_editors:
   copy_editor_en: Carla Welch
+desc: Overview of Berlin Zoo’s animal stocks since 1888
 desc_de: Übersicht der Berliner Zoobestände seit 1888
 short_desc: Overview of Berlin Zoo’s animal stocks since 1888
 short_desc_de: Übersicht der Berliner Zoobestände seit 1888
+keywords: Kamerun Gorilla Hagenbeck Lutz Heck Schimpanse Cameroon gorilla
+  Hagenbeck Lutz Heck chimpanzee
 cover_image:
   image: /images/cover-zoo-journal-stock-1936-example.jpg
   alt: |-
@@ -23,8 +25,8 @@ cover_image:
     All rights reserved.
 colour_scheme: 13
 tao_type: material
-date_start: '1887-12-31T23:06:32.000Z'
-date_end: '2022-12-30T12:21:00.358Z'
+date_start: 1887-12-31T23:06:32.000Z
+date_end: 2022-12-30T12:21:00.358Z
 published: false
 ---
 

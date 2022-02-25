@@ -1,15 +1,11 @@
 ---
 license: CC BY-SA
+title: The Afterlife of Zoo Animals
 title_de: Verfüttern und Verwerten
 created: 1621970259942
-author: Mareike Vennen
-short_desc_de: Auf den Spuren eines Elefanten
-keywords: scarcity
-date_end: 1947-12-31T11:00:00.000Z
-published: false
-title: The Afterlife of Zoo Animals
-updated: 1644601243590
+updated: 1645737915831
 id: c1c2241a-a1a3-4a20-b3f7-8c05c5597944
+author: Mareike Vennen
 doi: 64y2-m311/24
 translators:
   translator_de_en: ""
@@ -19,12 +15,13 @@ desc: What happens to zoo animals when they die? How are their bodies (or
   bodyparts) put to use — as colonial trophies, as museum objects, as a source
   ofmeat? The story of the Berlin Zoo elephant “Siam” in the 1940s is a journey
   into postwar Berlin and deep into the history of European colonialism.
-desc_de: Was passiert mit Zootieren nach ihrem Tod, wie werden ihreKörper(teile)
-  weiterverwertet – als koloniale Trophäen, Museumsobjekte
-  oderFleischlieferanten? Die Geschichte des Berliner Zoo-Elefanten “Siam” aus
-  den 1940er Jahren führt ins Berlin der Nachkriegszeit und tief in die
-  Geschichtedes europäischen Kolonialismus.
+desc_de: Was passiert mit Zootieren nach ihrem Tod, wie werden ihre Körper(teile) verwertet – als koloniale Trophäen, Museumsobjekte oder Fleischlieferanten? Die Geschichte des Berliner Zoo-Elefanten “Siam” aus den 1940er Jahren führt sowohl ins Berlin der Nachkriegszeit als auch in die Geschichte des europäischen Kolonialismus.
 short_desc: On the trail of an elephant
+short_desc_de: Auf den Spuren eines Elefanten
+keywords: Siam Ceylon Sri Lanka Koloni* Kriegerowski Knochen Handel Hagenbeck
+  Löwe Fleisch Leipzig Karl Wolf Savarin Antwerpen Brüssel Restaurant
+  Nachkrieg*  Siam Ceylon Sri Lanka coloni* Kriegerowski bone trade Hagenbeck
+  lion meat Leipzig Karl Wolf Savarin Antwerp Brussels restaurant postwar
 cover_image:
   image: /images/cover-elephant-skulls-mammal-collection.png
   alt: |-
@@ -35,6 +32,8 @@ cover_image:
 colour_scheme: 10
 tao_type: story
 date_start: 1932-12-31T23:00:00.000Z
+date_end: 1947-12-31T11:00:00.000Z
+published: false
 ---
 
 :::EN:::
@@ -69,7 +68,7 @@ The carcasses of zoo animals, especially large mammals, are usually not simply d
 
 ## Colonial Traces
 
-One of the trails leads to the Zoological Museum Berlin, which was a part of the Natural History Museum (Naturkundemuseum). According to the aforementioned newspaper article, after the elephant’s body had been cut up and dissected, the museum was to receive the skull for its scientific research collection, and a piece of the backbone for its exhibition.[^1] The article went on to report that a private taxidermist named Kriegerowski, who regularly received animal carcasses from the zoo for taxidermy purposes, was to receive the feet, which he combined with tinfoil to make wastepaper baskets.[^2] This is where the trail runs cold, or at least where my research reaches a [[dead end|story.untraceable]] – as is the case with many [[objects|story.silkworms]]. The items that ended up in private hands are much harder to locate than those in public collections. The [[histories|story.moving-horseshoe-crabs]] of some objects (still) only seem to exist in the form of a paper trail the animals left behind in archives, correspondence, and newspaper reports. That said, the search in the Museum für Naturkunde Berlin has also proven difficult. My colleague Clemens Maier-Wolthausen and I have searched for the skull in many boxes, cupboards, and shelves in the Mammals Collection – thus far, without success.[^3]
+One of the trails leads to the Zoological Museum Berlin, which was a part of the Natural History Museum. According to the aforementioned newspaper article, after the elephant’s body had been cut up and dissected, the museum was to receive the skull for its scientific research collection, and a piece of the backbone for its exhibition.[^1] The article went on to report that a private taxidermist named Kriegerowski, who regularly received animal carcasses from the zoo for taxidermy purposes, was to receive the feet, which he combined with tinfoil to make wastepaper baskets.[^2] This is where the trail runs cold, or at least where my research reaches a [[dead end|story.untraceable]] – as is the case with many [[objects|story.silkworms]]. The items that ended up in private hands are much harder to locate than those in public collections. The [[histories|story.moving-horseshoe-crabs]] of some objects (still) only seem to exist in the form of a paper trail the animals left behind in archives, correspondence, and newspaper reports. That said, the search in the Museum für Naturkunde Berlin has also proven difficult. My colleague Clemens Maier-Wolthausen and I have searched for the skull in many boxes, cupboards, and shelves in the Mammals Collection – thus far, without success.[^3]
 
 <figure>
 
@@ -135,13 +134,13 @@ At the same time, the afterlife of “Siam” reveals the [[gaps|story.untraceab
 
 [^5]: Cf. John Hagenbeck. _John Hagenbecks abenteuerliche Flucht aus Ceylon_. Leipzig: Deutsche Buchwerkstätten, 1917. Of the now extensive literature on the connection between zoological gardens and “Völkerschauen”, see, for example, Clemens Maier-Wolthausen. _Hauptstadt der Tiere: Die Geschichte des ältesten deutschen Zoos_. Berlin: Ch. Links Verlag, 2019; Utz Anhalt. “Tiere und Menschen als Exoten: Exotisierende Sichtweisen auf das ‘Andere’ in der Gründungs- und Entwicklungsphase der Zoos”. Dissertation, Gottfried Wilhelm Leibniz Universität, Hanover 2007; Oumar Diallo and Joachim Zeller. “Zoologischer Garten, Hardenbergplatz 8”. In _Berlin – Eine (post-)koloniale Metropole: Ein historisch-kritischer Stadtrundgang im Bezirk Mitte_, Farafina e.V. Berlin-Moabit (ed.). Berlin: Metropol-Verlag, 2021: 168–175; Lothar Dittrich and Annelore Rieke-Müller. _Carl Hagenbeck (1844-1913) Tierhandel und Schaustellungen im Deutschen Kaiserreich_. Frankfurt/M.: Peter Lang, 1998; Caroline Schmidt-Gross. “Tropenzauber um die Ecke: Völkerschauen bei Hagenbeck”. In _MenschenZoos: Schaufenster der Unmenschlichkeit_, Pascal Blanchard, et al. (eds.). Hamburg: Les éditions du Crieur Public, 2012: 172–178.
 
-[^6]: “‘Siam’ = 2,5 Millionen Kalorien”. _Die Neue Zeitung_, 22.03.1947. The lions then immediately had “their rations cut by the magistrate”, claimed the _Tagesspiegel_; cf. “Spinat oder Hirsche: Ein Frühlingsspaziergang durch den Berliner Zoo”. _Der Tagesspiegel_, 03.04.1947. Direct quotes have been translated into English for clarity’s sake.
+[^6]: “‘Siam’ = 2,5 Millionen Kalorien”. _Die Neue Zeitung_, 22.03.1947. The lions then immediately had “their rations cut by the magistrate”, claimed the _Tagesspiegel_; cf. “Spinat oder Hirsche: Ein Frühlingsspaziergang durch den Berliner Zoo”. _Der Tagesspiegel_, 03.04.1947. 
 
 [^7]: “‘Siam’ = 2,5 Millionen Kalorien”. _Die Neue Zeitung_, 22.03.1947.
 
 [^8]: Cf. AZGB O 0/1/3.
 
-[^9]: Cf. Zoological Garden Berlin. “Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin für das Jahr 1948”.
+[^9]: Cf. Aktien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht 1948_. Berlin: 1949.
 
 [^10]: The Freibank, especially during times of scarcity, worked to reuse as many animal products as possible; this strategy had been abandoned by the 1990s though.
 
@@ -149,19 +148,19 @@ At the same time, the afterlife of “Siam” reveals the [[gaps|story.untraceab
 
 [^12]: Cf. Magistrate of the City of Berlin, Hauptamt Veterinärwesen (main veterinary office) to the Zoological Garden Berlin, 06.09.1946, AZGB O 0/1/3. While an average of about 1.685 kg of carcass meat was available each month, the zoo’s monthly requirement according to its own calculations was 3,200 kg. The zoo therefore had to buy almost 1,400 kg of good slaughter meat per month at a price of 1.40 West German marks per kg. Cf. K. Heinroth to Dr. Schönwetter, Magistrate of Greater Berlin, 24.01.1950, AZGB O 0/1/3. 1.40 West German marks in 1950 is equivalent to approximately €3.88 today. Cf. “Kaufkraftäquivalente historischer Beträge in deutschen Währungen”. Bundesbank 2021. https://www.bundesbank.de/resource/blob/615162/d55a20f8a4ecedd6d1b53e01b89f11c4/mL/kaufkraftaequivalente-historischer-betraege-in-deutschen-waehrungen-data.pdf (10.8.2021).
 
-[^13]: Johannes Gebbing (ed.). _50 Jahre Leipziger Zoo, 1878–1928_. Leipzig: Selbstverlag des zoolog. Gartens, 1928: 36. On mass slaughtering cf. Anne Roerkohl. “Die Lebensmittelversorgung während des Ersten Weltkrieges im Spannungsfeld kommunaler und staatlicher Maßnahmen”. In _Durchbruch zum modernen Massenkonsum: Lebensmittelmärkte und Lebensmittelqualität im Städtewachstum des Industriezeitalters_, Hans Jürgen Teuteberg (ed.). Münster: Coppenrath, 1987: 309–370. Direct quotes have been translated into English for clarity’s sake.
+[^13]: Johannes Gebbing (ed.). _50 Jahre Leipziger Zoo, 1878–1928_. Leipzig: Selbstverlag des zoolog. Gartens, 1928: 36. On mass slaughtering cf. Anne Roerkohl. “Die Lebensmittelversorgung während des Ersten Weltkrieges im Spannungsfeld kommunaler und staatlicher Maßnahmen”. In _Durchbruch zum modernen Massenkonsum: Lebensmittelmärkte und Lebensmittelqualität im Städtewachstum des Industriezeitalters_, Hans Jürgen Teuteberg (ed.). Münster: Coppenrath, 1987: 309–370. 
 
 [^14]: The price quoted varied between 20 pounds for 400 Reichsmark (≈ €1280 in 2021). Cf. “Auf den Spuren des Elefanten”. _Der Kurier_, 07.02.1948; Zoological Garden Berlin to the Kriminal-Kommissariat Tiergarten (the criminal investigation department for Tiergarten), 10.05.1947, AZGB O 0/1/143.
 
 [^15]: K. Heinroth to the criminal investigation department for Tiergarten, 10.05.1947, AZGB O 0/1/143. Cf. also AZGB O 0/1/44. The equivalent amount for 2021 was calculated based on the record for 1947 in a conversion table from the Deutsche Bundesbank. Cf. “Kaufkraftäquivalente historischer Beträge in deutschen Währungen”. Bundesbank 2021. https://www.bundesbank.de/resource/blob/615162/d55a20f8a4ecedd6d1b53e01b89f11c4/mL/kaufkraftaequivalente-historischer-betraege-in-deutschen-waehrungen-data.pdf (10.8.2021). For press coverage cf. for instance “Prozeß um Elefantenfleisch”. _Tagesspiegel_, 07.02.1948; “Elefant à la carte”. _Die Tagespost_, 10.02.1948. As early as 1945, the Berlin police, citing health risks, had issued a decree to “refrain from purchasing meat on the black market”. Cf. “Unterlassung des Erwerbs von Fleisch am Schwarzen Markt, Berlin, den 17. Juli 1945”. _Verordnungsblatt (VOBl.) der Stadt Berlin 1945_, No. 5., September 1945: 67.
 
-[^16]: “Siam auf der Speisekarte: Zoo-Tiere mit Sonderzulage”. _Der Morgen_, 20.03.1947. Direct quotes have been translated into English for clarity’s sake.
+[^16]: “Siam auf der Speisekarte: Zoo-Tiere mit Sonderzulage”. _Der Morgen_, 20.03.1947. 
 
 [^17]: Here, too, a court case followed; cf. “Damhirsch-Prozeß”. _Rhein-Zeitung_, 23.04.1947.
 
 [^18]: Cf. H. Schäfer to the administration of the Zoological Garden Berlin, 11.03.1947, AZGB O 0/1/143; H. Mrozeck to the administration of the Zoological Garden Berlin, 08.03.1947, AZGB O 0/1/87; W. Gronau to the administration of the Zoological Garden Berlin, 10.03.1947, AZGB O 0/1/86.
 
-[^19]: Cf. Zoological Garden Berlin to the command of the Schutzpolizei, 01.04.1947, AZGB O 0/1/143. Criminal investigations were unsuccessful in all cases. Cf. also Zoological Garden Berlin to the 31st Police Precinct, 13.02.1947, AZGB O 0/1/143; and AZGB O 0/1/274: “On the night from 12 to 13 February, an adult dairy goat was killed in a locked animal enclosure on the grounds of the Zoological Garden, butchered on the spot and stolen, its entrails left behind.” Direct quotes have been translated into English for clarity’s sake.
+[^19]: Cf. Zoological Garden Berlin to the command of the Schutzpolizei, 01.04.1947, AZGB O 0/1/143. Criminal investigations were unsuccessful in all cases. Cf. also Zoological Garden Berlin to the 31st Police Precinct, 13.02.1947, AZGB O 0/1/143; and AZGB O 0/1/274: “On the night from 12 to 13 February, an adult dairy goat was killed in a locked animal enclosure on the grounds of the Zoological Garden, butchered on the spot and stolen, its entrails left behind.” 
 
 [^20]: Daniel de Luce. “Lebensmittelkarte 5 im Berliner Zoo”. _Tägliche Rundschau_, 17.12.1946.
 
@@ -271,7 +270,7 @@ Gleichzeitig macht das Nachleben von “Siam” die [[Lücken|story.untraceable]
 
 [^8]: Vgl. AZGB O 0/1/3.
 
-[^9]: Vgl. Zoologischer Garten Berlin. “Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin für das Jahr 1948”.
+[^9]: Vgl. Aktien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht 1948_. Berlin: 1949.
 
 [^10]: Die Freibank diente insbesondere in einer Zeit des Mangels der Verwertung möglichst aller tierischen Produkte; die Praxis wurde jedoch spätestens in den 1990er Jahren aufgegeben.
 

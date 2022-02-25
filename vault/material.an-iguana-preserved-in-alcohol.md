@@ -1,25 +1,28 @@
 ---
-id: 2I4UEzZOAUqyavSEDIFs8
-title: An Iguana Preserved in Alcohol
-desc: From the colony via the zoo into the collection
-updated: 1643317319722
-created: 1640357199143
 license: CC BY-SA
+title: An Iguana Preserved in Alcohol
 title_de: Leguan in Weingeist
+created: 1640357199143
+updated: 1643317319722
+id: 2I4UEzZOAUqyavSEDIFs8
 author: Mareike Vennen
-short_desc_de: Von der Kolonie über den Zoo in die Sammlung
-date_end: ''
-published: false
 doi: 64y2-m311/53
 translators:
   translator_de_en: Lydia J. White
+desc: From the colony via the zoo into the collection
 desc_de: Von der Kolonie über den Zoo in die Sammlung
 short_desc: From the colony via the zoo into the collection
+short_desc_de: Von der Kolonie über den Zoo in die Sammlung
+keywords: beyer koloni* präparat Schomburgk guyana schiff meer ozean transport
+  sammeln provenienz* beyer coloni* taxiderm* schomburgk guyana ship ocean sea
+  tarnsport* collect provenance
 cover_image:
   image: /images/cover-iguana.jpg
 colour_scheme: 1
 tao_type: material
-date_start: '1844-01-01T15:46:39.000Z'
+date_start: 1844-01-01T15:46:39.000Z
+date_end: ""
+published: false
 ---
 
 :::EN:::

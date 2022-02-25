@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: How Do Animals End Up in the Zoo?
 title_de: Wie kommen Tiere in den Zoo?
 created: 1618498026144
-author: Clemens Maier-Wolthausen
-short_desc_de: Politische, logistische und moralische Herausforderungen
-date_end: 2022-01-23T13:55:36.735Z
-published: false
-title: How Do Animals End Up in the Zoo?
-updated: 1643304181764
+updated: 1645738579638
 id: 9c7d8895-4d13-4929-8292-4704bb9b0881
+author: Clemens Maier-Wolthausen
 doi: 64y2-m311/14
 translators:
   translator_de_en: ""
@@ -17,12 +14,14 @@ copy_editors:
 desc: Live animals for the Berlin Zoological Garden, Aquarium, and Tierpark have
   always come from a variety of sources. They have their own histories, and
   present political, logistical, and moral challenges for these institutions.
-desc_de: Lebende Tiere für die Sammlungen des Zoologischen Gartens, des
-  Aquariums und des Tierparks Berlin kamen und kommen aus unterschiedlichen
-  Quellen. Diese haben ihre eigene Geschichte und kreieren unterschiedliche
-  Herausforderungen für diese Einrichtungen – politische, logistische und
-  moralische.
+desc_de: In die Sammlungen des Zoologischen Gartens, des Aquariums und des Tierparks Berlin kamen und kommen lebende Tiere auf unterschiedliche Art und Weise. Diese haben ihre eigene Geschichte und kreieren unterschiedliche Herausforderungen für diese Institutionen – politische, logistische und moralische.
 short_desc: Political, logistical, and moral challenges
+short_desc_de: Politische, logistische und moralische Herausforderungen
+keywords: Koloni* Provenienz Jagd Elefant Löwe Panda China Handel Hagenbeck
+  Jamrach Reiche Giraffe DDR Krieg New York Pfeilschwanzkrebs Flusspferd
+  Nilpferd Knautschke Qualle Siam coloni* provenance hunt elephant lion panda
+  china trade hagenbeck jamrach Reiche giraffe GDR War New York horseshoe crab
+  hippo knautschke jellyfish Siam
 cover_image:
   image: /images/cover-getting-animals.jpg
   alt: |-
@@ -32,6 +31,8 @@ cover_image:
 colour_scheme: 8
 tao_type: theme
 date_start: 1844-01-01T23:50:39.000Z
+date_end: 2022-01-23T13:55:36.735Z
+published: false
 ---
 
 :::EN:::
@@ -194,7 +195,7 @@ Sandra Nicolodi states that while the “shift toward coordinated inter-zoo bree
 
 For some years now, it has been possible to identify new tendencies that are changing zoos internationally, in Germany, and in Berlin. Long-term strategic considerations are now taking the place of pragmatism to a greater extent. Increasing criticism of the conditions in zoos, and questions about their future role in natural history education and species conservation _ex situ_ (i.e., in zoos through breeding) and _in situ_ (in the animals’ original habitats) have led to a move away from earlier zoo directors’ ‘passion for collecting’. Observers now see everywhere a reduction in the number of species kept, in favour of larger enclosures and a focus on so-called flagship species – meaning, “endangered species with a high display value, through whose protection one simultaneously achieves the protection of many other species that share their habitat with them”.[^16] These practices are in line with the Conservation Strategy adopted by the World Association of Zoos and Aquariums in 2015.[^17] Whether this can induce an effective reorientation of zoos for the future is debatable.[^18] For zoos have not quite abandoned pragmatic considerations: Breeding programmes, especially of display-worthy animals, remain important to ensure the continued presence of the favourites that as-yet plentiful audiences keep coming to the zoo to see. Perhaps these, in their turn, will generate the resources needed to achieve new strategic goals?
 
-[^1]: Zoological Garden Berlin. "Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin for the year 1907”.
+[^1]: Actien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht für das Jahr 1907_. Berlin: 1908. 
 
 [^2]: For an overview of the imports of non-native animal species cf. Lothar Dittrich. ”Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs: Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter, and Gerhard Heindl (eds.). Wien: Braumüller, 2007: 1-64.
 
@@ -204,11 +205,11 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 [^5]: Ludwig Heck. “Heiter-ernste Erinnerungen an Tiergärtner”. _Der Zoologische Garten_ 12, Nr. 3/4 (1930): 228-38.
 
-[^6]: Zoological Garden Berlin. _Geschäftsberichte_ for the years 1919-1924.
+[^6]: Annual reports of the stock association of the Zoological Garden of Berlin for 1919-1924.
 
-[^7]: Examples of lists can be found in various places in the AZGB, for example, on the part of the Tierpark in O 0/1/5, O 1/2/138; the inventory series on the Zoo’s offerings and requests between 1947 and 1957 under O 0/1/2/42 ff. Direct quotes have been translated into English for clarity’s sake.
+[^7]: Examples of lists can be found in various places in the AZGB, for example, on the part of the Tierpark in O 0/1/5, O 1/2/138; the inventory series on the Zoo’s offerings and requests between 1947 and 1957 under O 0/1/2/42 ff. 
 
-[^8]: Tierpark Berlin, Press release Nr. 104/63, 28.12.1963, AZGB O 0/1/307. Direct quotes have been translated into English for clarity’s sake.
+[^8]: Tierpark Berlin, Press release Nr. 104/63, 28.12.1963, AZGB O 0/1/307. 
 
 [^9]: Rainer Kaiser. “Wie kommen die Tiere aus allen Teilen der Welt in das Zoo-Aquarium?” In _Picassofisch und Kompassqualle: 100 Jahre Zoo-Aquarium Berlin_, Bernhard Blaszkiewitz (ed.), Berlin: Lehmanns, 2013: 214-239, 229, 232-235.
 
@@ -216,7 +217,7 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 [^11]: Cf. Raf de Bont. “Extinct in the Wild: Finding a Place for the European Bison 1919-1952”. In _Spatializing the History of Ecology: Sites, Journeys, Mappings_, Raf de Bont and Jens Lachmund (eds.). New York: Routledge, 2017; Jan Bouman. “The History of Breeding the Przewalski Horse in Captivity”. In _Breeding Przewalski Horses in Captivity for Release into the Wild_, Jan Bouman, Inge Bouman, and Annette Groeneveld (eds.). Rotterdam: Foundation for the Preservation and Protection of the Przewalski Horse, 1982: 17-64.
 
-[^12]: Sandra Nicolodi. “Nachzucht: Eine relativ neue Sammelpraxis Zoologischer Gärten”. _Traverse_ 19, Nr. 3 (2012): 91-105, 100. Direct quotes have been translated into English for clarity’s sake.
+[^12]: Sandra Nicolodi. “Nachzucht: Eine relativ neue Sammelpraxis Zoologischer Gärten”. _Traverse_ 19, Nr. 3 (2012): 91-105, 100. 
 
 [^13]: Kaiser, 2013: 221.
 
@@ -224,7 +225,7 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 [^15]: Nicolodi, 2012: 91, 96.
 
-[^16]: Meier, 2009: 121. Direct quotes have been translated into English for clarity’s sake.
+[^16]: Meier, 2009: 121. 
 
 [^17]: Alejandro Grajal, Jerry F. Luebke, and Lisa-Anne DeGregoria Kelly. “Why Zoos Have Animals: Exploring the Complex Pathway from Experiencing Animals to Pro-environmental Behaviors”. In _The Ark and Beyond: The Evolution of Zoo and Aquarium Conservation_, Ben A. Minteer, Jane Maienschein, James P. Collins, and George B. Rabb (eds.). Chicago: University of Chicago Press, 2018: 192-203.
 
@@ -238,7 +239,7 @@ For some years now, it has been possible to identify new tendencies that are cha
 
 <figcaption>
 
-_Die Flusspferde “Knautschke” (unten), Jungtier “Jette” (mittig) und “Bulette” (oben), um 1959. (AZGB, : Hoppe. Alle Rechte vorbehalten.)_
+_Die Flusspferde “Knautschke” (unten), Jungtier “Jette” (mittig) und “Bulette” (oben), um 1959. (AZGB, Foto: Hoppe. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -330,7 +331,7 @@ Das Bewusstsein für diese Problematik musste aber erst noch entstehen. Im Berli
 
 <figcaption>
 
-_Die Flusspferde “Knautschke” (unten), Jungtier “Jette” (mittig) und “Bulette” (oben), um 1959. (AZGB, Foto Hoppe. Alle Rechte vorbehalten.)_
+_Die Flusspferde “Knautschke” (unten), Jungtier “Jette” (mittig) und “Bulette” (oben), um 1959. (AZGB, Foto: Hoppe. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -390,7 +391,7 @@ Sandra Nicolodi konstatiert, dass die “Verlagerung hin zu einer zooübergreife
 
 Seit einigen Jahren lassen sich neue Tendenzen wahrnehmen, die international, in der Bundesrepublik und in Berlin die Tiergärten verändern. Stärker als bislang treten nun langfristige strategische Überlegungen an die Stelle des Pragmatismus. Wachsende Kritik der Haltungsbedingungen in Zoos und Fragen nach ihrer zukünftigen Rolle in naturkundlicher Bildung und Artenschutz _ex situ_ (also in den Zoos durch Zucht) und _in situ_ (in den ursprünglichen Lebensräumen der Tiere) haben zu einer Abkehr von der ‘Sammelleidenschaft’ früherer Zoodirektoren geführt. Allenthalben sehen Beobachter:innen nun eine zahlenmäßige Verkleinerung der gehaltenen Tierarten zugunsten größerer Gehege und die Konzentration auf sogenannte Flaggschiff-Arten – also “gefährdete Tierarten mit einem hohen Schauwert, über deren Schutz man gleichzeitig den Schutz vieler anderer Tierarten erreicht, die den Lebensraum mit ihnen teilen”.[^16] Solch eine Praxis entspricht der 2015 vom Weltverband der Zoos und Aquarien verabschiedeten ‘Conservation Strategy’.[^17] Ob das eine wirksame Neuausrichtung der Zoos für die Zukunft bedingen kann, ist umstritten.[^18] Denn ganz hat der Pragmatismus noch keinen Zoo verlassen: Zuchtprogramme vor allem schauwertiger Tiere bleiben weiterhin wichtig, um die Lieblinge der nach wie vor zahlreichen Besucher:innen in den Zoos zu erhalten. Vielleicht erwirtschaften diese ja die Einnahmen zur Erzielung der neuen strategischen Ziele?
 
-[^1]: Zoologischer Garten Berlin. "Geschäftsbericht des Aktien-Vereins des Zoologischen Gartens zu Berlin für das Jahr 1907".
+[^1]: Actien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht für das Jahr 1907_. Berlin: 1908.
 
 [^2]: Für eine Übersicht der Einfuhren nicht-heimischer Tierarten vgl. Lothar Dittrich. “Der Import von Wildtieren nach Europa: Einfuhren von der frühen Neuzeit bis zur Mitte des 20. Jahrhunderts”. In _Tiere unterwegs: Historisches und Aktuelles über Tiererwerb und Tiertransporte_, Helmut Pechlaner, Dagmar Schratter und Gerhard Heindl (Hg.). Wien: Braumüller, 2007: 1-64.
 
@@ -400,7 +401,7 @@ Seit einigen Jahren lassen sich neue Tendenzen wahrnehmen, die international, in
 
 [^5]: Ludwig Heck. “Heiter-ernste Erinnerungen an Tiergärtner”. _Der Zoologische Garten_ 12, Nr. 3/4 (1930): 228-238.
 
-[^6]: Zoologischer Garten Berlin. "Geschäftsberichte" für die Jahre 1919-1924.
+[^6]: Geschäftsberichte des Zoologischen Gartens Berlin für die Jahre 1919-1924.
 
 [^7]: Beispiele für Listen finden sich an verschiedenen Stellen im AZGB, so seitens des Tierparks in O 0/1/5, O 1/2/138; die Bestandsreihe zu den Angeboten und Wünschen des Zoos zwischen 1947 und 1957 unter O 0/1/2/42 ff.
 

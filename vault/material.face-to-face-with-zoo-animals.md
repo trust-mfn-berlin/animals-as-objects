@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Face to Face with Zoo Animals
 title_de: Zootiere anfassen
 created: 1640354060660
-updated: 1644601860069
+updated: 1645557647824
 id: U1w3ckwyrdpQ2JzOLgTKo
 author: Mareike Vennen
 doi: 64y2-m311/54
@@ -13,6 +13,8 @@ desc: The ‘baby animal zoo’
 desc_de: Tierkinderzoo mit Raubtieren
 short_desc: The ‘baby animal zoo’
 short_desc_de: Tierkinderzoo mit Raubtieren
+keywords: gepard ziege* lamm schaf streichel* haustier* löwe* Ruhe cheetah goat
+  lamb touch lion Ruhe
 cover_image:
   image: /images/cover-tierkindergarten_1930er.jpg
 colour_scheme: 11
@@ -82,7 +84,7 @@ _No restraint between human child and young predator, as the_ Heidelberger Tageb
  
 [^1]: Correspondence and advertising materials for the ‘baby animal zoo’, 1931-1934 in AZGB, O 0/1/61, 138 und 201; L. Ruhe to Berlin Zoo, 03.02.1931, AZGB O 3/2/1.
  
-[^2]: “Großes Löwenstreicheln im Zoo”. _Leipziger Tageszeitung_ 08.11.1935. Direct quotes have been translated into English for clarity’s sake.
+[^2]: “Großes Löwenstreicheln im Zoo”. _Leipziger Tageszeitung_ 08.11.1935. 
  
 [^3]: Hildegard Zukowsky. “Löwenprinzchen.” _CHITuMW_ 1, no. 6 (1926): 132-134, quoted in: Nastasja Klothmann. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945._ Bielefeld: transcript, 2015: 291.
  

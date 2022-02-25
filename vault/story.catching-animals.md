@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: Catching Animals
 title_de: Tiere fangen
 created: 1618492547915
-author: Clemens Maier-Wolthausen
-short_desc_de: Habitate und Tierhandelsfirmen
-date_end: 1973-12-31T11:00:00.000Z
-published: false
-title: Catching Animals
-updated: 1644602550441
+updated: 1645739010717
 id: 6a605ddc-648f-4c72-b836-5e18b8690ce8
+author: Clemens Maier-Wolthausen
 doi: 64y2-m311/13
 translators:
   translator_de_en: ""
@@ -16,10 +13,14 @@ copy_editors:
   copy_editor_en: Carla Welch
 desc: For a long time, zoo animals were almost exclusively captured in the wild.
   Most trappers worked for commercial animal trading companies.
-desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich aus ihren
-  Habitaten entnommen. Die Fänger arbeiteten zumeist für professionelle
-  Tierhandelsfirmen.
+desc_de: Tiere wurden für Zoos lange Zeit fast ausschließlich in der Wildnis gefangen. Die Tierfänger arbeiteten zumeist für professionelle Tierhandelsfirmen.
 short_desc: Habitats and animal trading companies
+short_desc_de: Habitate und Tierhandelsfirmen
+keywords: Koloni* Kairo Elefant Handel Löwe Jamrach Hagenbeck Reiche Schillings
+  Nashorn Bobby Gorilla New York Affe Orang-Utan Rhinoceros Klös Südafrika
+  Vietnam GDR Grzimek Dathe  coloni* Cairo elephant trade Löwe Jamrach Hagenbeck
+  Reiche Schillings rhino Bobby Gorilla New York monkey orangutan Klös South
+  Africa Vietnam GDR Grzimek Dathe
 cover_image:
   image: /images/cover-catching-animals.jpg
   alt: |-
@@ -29,6 +30,8 @@ cover_image:
 colour_scheme: 2
 tao_type: story
 date_start: 1844-12-31T23:06:32.000Z
+date_end: 1973-12-31T11:00:00.000Z
+published: false
 ---
 
 
@@ -46,7 +49,7 @@ _Shipment of two young giraffes, 1928. (AZGB, image: Lutz Heck. All rights reser
 
 </figure>
 
-In the summer of 1845, the board of the newly founded ‘Actien-Verein des Zoologischen Gartens bei Berlin’ – the stock association of the Zoological Garden of Berlin – decided to request animal donations from Royal Prussian Consuls in the most significant foreign trading posts and coastal cities. Due to a lack of financial resources, they urgently needed to acquire animals at low cost – especially those not native to Europe and sought after by the public.
+In the summer of 1845, the board of the newly founded stock association of the Zoological Garden of Berlin (Actien-Verein des Zoologischen Gartens Berlin) decided to request animal donations from Royal Prussian Consuls in the most significant foreign trading posts and coastal cities. Due to a lack of financial resources, they urgently needed to acquire animals at low cost – especially those not native to Europe and sought after by the public.
 
 >“It would be expedient in general to issue the same notification to the Royal Prussian Consuls in the most important commercial and coastal locations, and at the same time to request that they send inexpensively purchased live animals, possibly as a donation for the coming summer. This proposal was duly acknowledged, and its execution agreed on.”[^1]
 
@@ -92,7 +95,7 @@ _Postcard showing a lion from the German colony of Deutsch-Ostafrika or German E
 
 </figure>
 
-Wissmann, known even in Germany for his cruelty toward colonised peoples, donated two further lions to Berlin Zoo, in addition to the one pictured, making one male and two females altogether. The postcard produced by the zoo to mark the occasion shows only the male animal, possibly because his mane made him more imposing, and thus better suited for publicity purposes. **Explicitly designating the animal as the “Wissmann Lion from German East Africa”, the zoo made itself part of the colonial project, thus contributing to the perpetuation of the colonial agenda.** The value of the gift was twofold: first, the animals were valued at 3,000 German marks and recorded as assets in the zoo’s inventory, and second, the zoo profited from colonial exploitation through the advertising appeal of the ‘German East African lion’ and its patron, who had been elevated to the status of nobility by Kaiser Wilhelm II.[^6] From approximately 1890 to 1914, Berlin Zoo received gifts from German administrators and merchants in the German colonies every year.[^7]
+Wissmann, known even in Germany for his cruelty toward colonised peoples, donated two further lions to Berlin Zoo, in addition to the one pictured, making one male and two females altogether. The postcard produced by the zoo to mark the occasion shows only the male animal, possibly because his mane made him more imposing, and thus better suited for publicity purposes. **Explicitly designating the animal as the ‘Wissmann Lion from German East Africa’, the zoo made itself part of the colonial project, thus contributing to the perpetuation of the colonial agenda.** The value of the gift was twofold: first, the animals were valued at 3,000 German marks and recorded as assets in the zoo’s inventory, and second, the zoo profited from colonial exploitation through the advertising appeal of the ‘German East African lion’ and its patron, who had been elevated to the status of nobility by Kaiser Wilhelm II.[^6] From approximately 1890 to 1914, Berlin Zoo received gifts from German administrators and merchants in the German colonies every year.[^7]
 
 Zoos in all colonizing nations profited from the exploitation of European overseas territories. Animal trading houses such as Jamrach, Hagenbeck, and Reiche also profited from colonial conditions in Africa, Asia, and Oceania. Colonial officials largely prevented the peoples of the occupied regions from making use of their own country’s resources – often through force. Yet colonial administrators did grant licenses to trading houses to capture regional fauna.
 
@@ -108,7 +111,7 @@ For Schillings, this finding called for German capital and commitment, since the
 
 It is important to keep in mind that in order to capture dangerous and herd mammals, trappers often killed other herd members and dams to safely obtain the sought-after young animals. These were much easier to catch and transport than adults. The above-quoted hunter and trapper Georg Schillings had caught a rhinoceros for Berlin Zoo and had shot the animal’s mother to do so. Killing a rhinoceros cow did not, however, guarantee success. As Schillings later related in a book he wrote, the young animals might still make good their escape under certain circumstances.[^10] The zoo purchased the rhinoceros by means of an additional budget of 20,000 Reichsmark approved by the supervisory board. However, according to the 1908 annual report, the animal died four years later of “sepsis following smallpox”.[^11]
 
-Transportation was a major risk for animal traders, as the animals could die or fall ill en route. **We do not have an accurate record of how many animal lost their lives, but it is reasonable to assume that, in the 19th century in particular, mortality was high.** Captured animals would initially have to be kept in cages, enclosures, snares, or chains until the expedition was completed or the desired number of animals had been collected. The subsequent hardships of a long journey sometimes led to the animal dying soon after arrival in the zoo itself. A report from Berlin Zoo to the Natural History Museum (Naturkundemuseum) in Berlin detailing the delivery of [[animal carcasses|story.the-afterlife-of-zoo-animals]] demonstrates this.
+Transportation was a major risk for animal traders, as the animals could die or fall ill en route. **We do not have an accurate record of how many animal lost their lives, but it is reasonable to assume that, in the 19th century in particular, mortality was high.** Captured animals would initially have to be kept in cages, enclosures, snares, or chains until the expedition was completed or the desired number of animals had been collected. The subsequent hardships of a long journey sometimes led to the animal dying soon after arrival in the zoo itself. A report from Berlin Zoo to the Natural History Museum in Berlin detailing the delivery of [[animal carcasses|story.the-afterlife-of-zoo-animals]] demonstrates this.
 
 <figure>
 
@@ -244,7 +247,7 @@ From the 1960s onward, zoos increasingly replaced animals caught in the wild wit
 
 In 1973, a Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), also called the Washington Agreement, entered into force. To a great extent, the Convention ultimately put an end to the capture of endangered animals in the wild for zoos. Commercial trade in animals deemed endangered by the NGO the International Union for Conservation of Nature (IUCN) and caught in the wild is prohibited. Trade in captive-bred offspring and non-commercial trade are possible, provided there is no threat to the continued existence of the species and national laws are observed. Many of the animals most popular with zoo visitors are already protected species.[^27] Others are subject to strict regulations. In addition, there are veterinary regulations to prevent epidemics and diseases. Zoos have little incentive to seek out mammals caught in the wild. Only aquariums continue to obtain specimens from the oceans, with the exception of many reptile species.
 
-[^1]: Board minutes, 28.08.1845, AZGB O 0/1/76. Direct quotes have been translated into English for clarity’s sake.
+[^1]: Board minutes, 28.08.1845, AZGB O 0/1/76. 
 
 [^2]: Minutes of the General Assembly, 01.06.1852, AZGB O 0/1/62.
 
@@ -260,11 +263,11 @@ In 1973, a Convention on International Trade in Endangered Species of Wild Fauna
 
 [^8]: Cf. for instance Bernhard Gissibl. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. New York: Berghahn Books, 2016; Lara Domínguez and Colin Luoma. “Decolonising Conservation Policy: How Colonial Land and Conservation Ideologies Persist and Perpetuate Indigenous Injustices at the Expense of the Environment”. _Land_ 9, no. 3 (2020). https://doi.org/10.3390/land9030065; David Prendergast. “Colonial Wildlife Conservation and the Origins of the Society for the Preservation of the Wild Fauna of the Empire (1903-1914)”. _Oryx_ 37 (01.04.2003): 251-260. https://doi.org/10.1017/S0030605303000425; MacKenzie, John M. _The Empire of Nature: Hunting, Conservation, and British Imperialism_. Manchester: St. Martin’s Press, 1997; Angela Thompsell. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke and New York: Palgrave Macmillan, 2015.
 
-[^9]: Carl Georg Schillings. _Mit Blitzlicht und Büchse_. Leipzig, 1905: 188. Direct quotes have been translated into English for clarity’s sake.
+[^9]: Carl Georg Schillings. _Mit Blitzlicht und Büchse_. Leipzig, 1905: 188. 
 
 [^10]: Ibid.: 190-197.
 
-[^11]: Annual reports of the stock association of the Zoological Garden of Berlin for 1904 and 1908. Direct quotes have been translated into English for clarity’s sake.
+[^11]: Annual reports of the stock association of the Zoological Garden of Berlin for 1904 and 1908. 
 
 [^12]: Elizabeth Hanson. _Animal Attractions: Nature on Display in American Zoos_. Princeton (NJ): Princeton University Press, 2002: 71, 73.
 
@@ -312,7 +315,7 @@ _Transport zwei gefangener junger Giraffen, 1928. (AZGB, Foto: Lutz Heck. Alle R
 
 </figure>
 
-Um kostengünstig an dringend benötigte, insbesondere die vom Publikum begehrten und nicht in Europa heimischen Tiere zu kommen, beschloss der Vorstand des neugegründeten Actien-Vereins des Zoologischen Gartens bei Berlin im Sommer 1845 angesichts seiner Geldknappheit, die Königlich Preußischen Konsuln in den wichtigsten auswärtigen Handels- und Küstenstädten zur Schenkung von Tieren aufzufordern.
+Um kostengünstig an dringend benötigte, insbesondere die vom Publikum begehrten und nicht in Europa heimischen Tiere zu kommen, beschloss der Vorstand des neugegründeten Actien-Vereins des Zoologischen Gartens Berlin im Sommer 1845 angesichts seiner Geldknappheit, die Königlich Preußischen Konsuln in den wichtigsten auswärtigen Handels- und Küstenstädten zur Schenkung von Tieren aufzufordern.
 
 >“Es werde überhaupt sehr zweckmäßig sein, dasselbe Notificatorium an die Kgl. Pr. Consuln in den wichtigsten Handels- und Küstenplätzen zu erlassen, und dieselben gleichzeitig zur Uebersendung wohlfeil angekaufter lebender Thiere event.: zur Schenkung derselben für den künftigen Sommer aufzufordern. Dieser Vorschlag ward dienlich anerkannt und seine Ausführung beschlossen.”[^1]
 
@@ -390,7 +393,7 @@ _Zoodirektor Lutz Heck an Hermann Pohle, den Säugetierkustos des Naturkundemuse
 
 Zwei der vier aufgeführten Tierkadaver für das Naturkundemuseum waren erst kurz zuvor von Tierhändlern geliefert worden.
 
-## Die großen Spieler – Hagenbeck und Co.
+## Die großen Spieler: Hagenbeck und Co.
 
 Die Bündelung großer Transporte konnte das Risiko mindern. Zwar bereicherten Geschenke von Kolonialbeamten, einzelne Fänge sowie die Einfuhren durch Seefahrer die Zoos, es musste aber zu einer weiteren Entwicklung kommen, um die Nachfrage der Tiergärten Europas und Nordamerikas dauerhaft zu befriedigen. Zentral war die Entstehung des professionellen Tierhandels mit den Firmen Hagenbeck, Reiche, Ruhe und Jamrach an der Spitze. Erst diese kommerziellen Tierhändler ermöglichten durch große Tiertransporte stetigen Nachschub für die Zurschaustellung einer großen Zahl unterschiedlicher Spezies.
 
@@ -420,7 +423,7 @@ _Transport zwei gefangener junger Giraffen, 1928. (AZGB, Foto: Lutz Heck. Alle R
 
 </figure>
 
-## Letztes Aufbäumen – die 1950er Jahre
+## Letztes Aufbäumen: Die 1950er Jahre
 
 Nach dem Ende des Zweiten Weltkriegs lag Berlin in [[Trümmern|material.list-of-dead-zoo-animals]], ein Kauf der beim Publikum beliebten [[Raubkatzen oder Großsäuger|story.feed-scarcity]] aus Afrika und Asien kam zunächst nicht in Frage. Die Jagd musste also auf heimischem Boden stattfinden. Die Zoodirektorin der Jahre des Wiederaufbaus, [[material.katharina-heinroth]], bezog nicht nur Tiere aus einem aufgelösten Zirkus, sie bekam zum Füllen der leeren Gehege auch einheimische Tiere, gefangen in den Wäldern in und um Berlin. Erst Mitte der 1950er Jahre wurde der internationale Tierhandel noch einmal ein florierendes Geschäft. Zwar erreichten die Handelsfirmen Hagenbeck und Ruhe das lange Jahrzehnte bestehende quasi-Monopol im Tierhandel nicht mehr, aber die kriegszerstörten Tiergärten in Europa füllten ihre leeren Gehege mit ihrer Hilfe wieder auf.[^20] Laut dem ehemaligen Zoodirektor Bernhard Blaszkiewitz begann nicht nur im Berliner Zoo um 1960 ein regelrechter Ansturm auf [[Gorillas|story.zoos-and-conservation]].[^21] In Berlin hatte man gerade das Menschenaffenhaus gebaut. Zwischen 1957 und 1968 erhielt der Berliner Zoologische Garten vier männliche und vier weibliche Wildfänge.[^22]
 
@@ -530,7 +533,7 @@ Seit den 1960er Jahren traten zunehmend Züchtungen, also in Zoos gezeugte Nachk
 
 [^10]: Ebd.: 190-197.
 
-[^11]: Geschäftsberichte des Aktien-Vereins des Zoologischen Gartens zu Berlin für 1904 und 1908.
+[^11]: Geschäftsberichte des Aktien-Vereins des Zoologischen Gartens Berlin für 1904 und 1908.
 
 [^12]: Elizabeth Hanson. _Animal Attractions: Nature on Display in American Zoos_. Princeton (NJ): Princeton University Press, 2002: 71, 73. Direkte Zitate wurden zur besseren Verständlichkeit ins Deutsche übersetzt.
 

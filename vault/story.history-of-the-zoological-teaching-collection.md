@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: History of the Zoological Teaching Collection
 title_de: Geschichte der Zoologischen Lehrsammlung
 created: 1629792627920
-author: Theresa Schatt
-short_desc_de: Objekte, Inventare, Menschen und Netzwerke
-date_end: 1968-12-31T11:00:00.000Z
-published: false
-title: History of the Zoological Teaching Collection
-updated: 1644700888484
+updated: 1645737747505
 id: hUAZn8uswMmXvmUP1S4Jn
+author: Theresa Schatt
 doi: 64y2-m311/43
 translators:
   translator_de_en: Lydia J. White
@@ -16,11 +13,12 @@ desc: The documents of the Zoological Teaching Collection at the
   Humboldt-Universität zu Berlin are testament to war and the changes that took
   place in institutional routines, scientific approaches, and political
   conflicts within the university and beyond.
-desc_de: Die Dokumente der Zoologischen Lehrsammlung an der Humboldt-Universität
-  zu Berlin zeugen von Krieg sowie von Veränderungen des Institutionsalltags,
-  des wissenschaftlichen Vorgehens und der (universitäts-)politischen
-  Konfliktlinien.
+desc_de: Die Dokumente der Zoologischen Lehrsammlung an der Humboldt-Universität zu Berlin zeugen von Krieg und von Veränderungen des Institutionsalltags, des wissenschaftlichen Vorgehens und der (universitäts-)politischen Konfliktlinien.
 short_desc: Objects, inventories, people, and networks
+short_desc_de: Objekte, Inventare, Menschen und Netzwerke
+keywords: inventar* lehr* Peters Schulze heider Korschelt wandtafel* Seidel
+  Feuerborn NSDAP Krieg DDR register* teach*Peters Schulze heider Korschelt
+  chart* Seidel Feuerborn NSDAP war GDR
 cover_image:
   image: /images/cover-history-zoological-teaching-collection.png
   alt: |-
@@ -31,6 +29,8 @@ cover_image:
 colour_scheme: 1
 tao_type: story
 date_start: 1883-12-31T23:06:32.000Z
+date_end: 1968-12-31T11:00:00.000Z
+published: false
 ---
 
 :::EN:::
@@ -41,7 +41,7 @@ date_start: 1883-12-31T23:06:32.000Z
 
 <figcaption>
 
-_Inventories from the Zoological Teaching Collection of today’s Humboldt-Universität zu Berlin. (Image: Theresa Schatt/HU Berlin. All rights reserved.)_
+_Inventories from the Zoological Teaching Collection of today’s Humboldt-Universität zu Berlin. (Image: Theresa Schatt/Zoological Teaching Collection. All rights reserved.)_
 
 
 </figcaption>
@@ -86,7 +86,7 @@ After a period of almost continuous growth up until the beginning of the Second 
 
 <figcaption>
 
-_The “Inventory of Specimens Chap. V(2)”, i.e., inventory book V(2), lists the few items that arrived in the period 1937-1943. The entries for these seven years take up just half of one double page. Moreover, changes in handwriting point to staff reshuffling. (HBSB/MfN. All rights reserved.)_
+_The “Inventory of Specimens Chap. V(2)”, i.e., inventory book V(2), lists the few items that arrived in the period 1937-1943. The entries for these seven years take up just half of one double page. Moreover, changes in handwriting point to staff reshuffling. (Zoological Teaching Collection. All rights reserved.)_
 
 </figcaption>
 
@@ -102,7 +102,7 @@ The postwar period was shaped by reconstruction work. The collection and teachin
 
 <figcaption>
 
-_In the “Inventory of Specimens Chap. V(2)” there is an announcement about the reinventory and a note about the bombing on 22 and 22 November 1943. (Zoological Teaching Collection/HU Berlin. All rights reserved.)_
+_In the “Inventory of Specimens Chap. V(2)” there is an announcement about the reinventory and a note about the bombing on 22 and 22 November 1943. (Zoological Teaching Collection. All rights reserved.)_
 
 </figcaption>
 
@@ -166,7 +166,7 @@ This [[discontinuity|story.untraceable]] has inscribed itself into the corpus of
 
 <figcaption>
 
-_Historische Inventarbücher der Zoologischen Lehrsammlung der heutigen Humboldt-Universität zu Berlin. (Foto: Theresa Schatt/HU Berlin. Alle Rechte vorbehalten.)_
+_Historische Inventarbücher der Zoologischen Lehrsammlung der heutigen Humboldt-Universität zu Berlin. (Foto: Theresa Schatt/Zoologische Lehrsammlung. Alle Rechte vorbehalten.)_
 
 
 </figcaption>
@@ -210,7 +210,7 @@ Nachdem die Sammlung bis zum Zweiten Weltkrieg beinah stetig weitergewachsen war
 
 <figcaption>
 
-_Das “Inventar der Präparate Kap. V(2)”, also Inventarbuch V(2), zeigt die wenigen Objekteingänge aus den Jahren 1937-1943. Die Eintragungen zu den sieben Jahren füllen lediglich eine halbe Doppelseite. Handschriftenwechsel deuten außerdem auf personelle Umbesetzungen hin. (HBSB|MfN. Alle Rechte vorbehalten.)_
+_Das “Inventar der Präparate Kap. V(2)”, also Inventarbuch V(2), zeigt die wenigen Objekteingänge aus den Jahren 1937-1943. Die Eintragungen zu den sieben Jahren füllen lediglich eine halbe Doppelseite. Handschriftenwechsel deuten außerdem auf personelle Umbesetzungen hin. (Zoologische Lehrsammlung. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -226,7 +226,7 @@ Die Nachkriegszeit war geprägt von Wiederaufbauarbeiten. Die Sammlungs- und Unt
 
 <figcaption>
 
-_Im “Inventar der Präparate Kap. V(2)” stehen die Ankündigung der Neu-Inventarisierung sowie eine Notiz zum Bombenangriff am 22. und 23. November 1943. (Zoologische Lehrsammlung/HU Berlin. Alle Rechte vorbehalten.)_
+_Im “Inventar der Präparate Kap. V(2)” stehen die Ankündigung der Neu-Inventarisierung sowie eine Notiz zum Bombenangriff am 22. und 23. November 1943. (Zoologische Lehrsammlung. Alle Rechte vorbehalten.)_
 
 </figcaption>
 

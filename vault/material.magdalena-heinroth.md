@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Magdalena Heinroth
 title_de: Magdalena Heinroth
 created: 1619797161333
-updated: 1643323410459
+updated: 1645557656581
 id: 95617cbe-704d-46c1-b0b5-05d178ec363d
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/18
@@ -15,7 +15,7 @@ desc: All Birds of Europe
 desc_de: Alle Vögel Europas
 short_desc: All Birds of Europe
 short_desc_de: Alle Vögel Europas
-keywords: coming soon…
+keywords: Vögel Wiebe Aquarium bird Wiebe aquarium
 cover_image:
   image: /images/magdalena_heinroth_dohlen_1919_cover.jpg
   alt: "Berlin zoologist Magdalena Heinroth with three jackdaws, 1919. Berliner
@@ -45,7 +45,7 @@ Magdalena Heinroth (née Wiebe, 1883–1932) raised hundreds of native birds in 
 
 **Magdalena Wiebe studied [[taxidermy|material.jendaya-parakeet]], among other subjects, at the Natural History Museum in Berlin.** It was also there that she met her future husband. Until her untimely death in 1932, she conducted research on birds, their molting, and breeding. Mostly self-taught, Magdalena Heinroth wrote numerous articles on these subjects. Her work appeared in various publications, including the world’s oldest ornithological journal _Die gefiederte Welt_. To the public, however, she is known above all as her husband’s most important collaborator, even though her own [[work|story.industrial-micropaleontology]] remains important to this day.
 
-[^1]: Karl Schulze-Hagen. _Die Vogel-WG: Die Heinroths, ihre 1000 Vögel und die Anfänge der Verhaltensforschung_. München: Knesebeck, 2020. On the work itself, cf. Karl Schulze-Hagen. “Das ‘Handbuch der Vögel Mitteleuropas’: Sein Stellenwert gestern, heute, morgen”. _Der Ornithologische Beobachter_ 110, Nr. 3 (2013): 231-248. Direct quotes have been translated into English for clarity’s sake.
+[^1]: Karl Schulze-Hagen. _Die Vogel-WG: Die Heinroths, ihre 1000 Vögel und die Anfänge der Verhaltensforschung_. München: Knesebeck, 2020. On the work itself, cf. Karl Schulze-Hagen. “Das ‘Handbuch der Vögel Mitteleuropas’: Sein Stellenwert gestern, heute, morgen”. _Der Ornithologische Beobachter_ 110, Nr. 3 (2013): 231-248. 
 
 :::DE:::
 

@@ -1,29 +1,32 @@
 ---
 license: CC BY-SA
+title: Steller’s Sea Cow
 title_de: Stellers Seekuh
 created: 1640333284998
-author: Mareike Vennen
-short_desc_de: Gejagt, entsorgt und wieder ausgegraben
-date_end: ""
-published: false
-title: Steller’s Sea Cow
-updated: 1644601580935
+updated: 1645741286412
 id: Q8UAdldubzw0uhkmmgER3
+author: Mareike Vennen
 doi: 64y2-m311/56
 translators:
   translator_de_en: Lydia J. White
 desc: Exterminated by hunters in the 18th century before becoming a coveted
   collection item in the 19th century, Steller’s sea cow is now considered an
   icon of the Anthropocene in the 21st century.
-desc_de: Im 18. Jahrhundert durch Jagd ausgerottet, im 19. Jahrhundert zum
-  begehrten Sammlungsobjekt avanciert, im 21. Jahrhundert zu einer Ikone des
-  Anthropozän erklärt.
+desc_de: Im 18. Jahrhundert durch Jagd ausgerottet, im 19. Jahrhundert zum begehrten Sammlungsobjekt avanciert, wurde Stellers Seekuh im 21. Jahrhundert zu einer Ikone des Anthropozän erklärt.
 short_desc: Hunted, discarded, rediscovered
+short_desc_de: Gejagt, entsorgt und wieder ausgegraben
+keywords: Matschie aussterb* ausgestorb* ausrott* Baer pazifik meer ozean
+  steller Kamtschatka bering expedition* seeotter handel ökonom* kapital* jagd
+  jäger petersburg dodo beutelwolf wandertaube schädel  matschie extinct
+  exterminat* baer pacific ocean steller Kamchatka bering expedition otter trade
+  econom* capital* hunt* petersburg dodo wolf pigeon skull
 cover_image:
   image: /images/cover-story-stellers-seacow-pallas.jpg
 colour_scheme: 12
 tao_type: story
 date_start: 1741-12-24T09:16:39.000Z
+date_end: ""
+published: false
 ---
   
 :::EN:::
@@ -71,7 +74,7 @@ However, just like the original drawings,[^14] barely any material traces of Ste
 
 [^1]: On the history of this drawing, see http://www.hans-rothauscher.de/steller/seacow.htm. (17.12.2021)
 
-[^2]: Paul Matschie. “Die Säugethier-Schausammlung”. _Naturwissenschaftliche Wochenschrift_ 10, no. 26 (30.06.1895): 311-315, 313. Direct quotes have been translated into English for clarity’s sake.
+[^2]: Paul Matschie. “Die Säugethier-Schausammlung”. _Naturwissenschaftliche Wochenschrift_ 10, no. 26 (30.06.1895): 311-315, 313. 
 
 [^3]: Cf. Karl Ernst von Baer. “Untersuchungen über die ehemalige Verbreitung und die gänzliche Vertilgung der von Steller beobachteten nordischen Seekuh (_Rytina Ill_.)”. _Mémoires de l’Académie impériale des sciences de Saint-Pétersbourg_ 6.5, no. 2 (1840): 53-80; Karl Ernst von Baer. “Über das Aussterben der Thierarten in physiologischer und nicht physiologischer Hinsicht überhaupt, und der Untergang von Arten, die mit den Menschen zusammen gelebt haben”. _Bulletin de l’Académie impériale des sciences de Saint-Pétersbourg_ 3 (1861): 369-396. On von Baer’s studies, see also Irina Podgorny. “Recyclen: Vom Schrott der Ausrottung zur Ökonomie der (Sub-)Fossilien”. In _Sammlungsökonomien: Vom Wert wissenschaftlicher Dinge_. Ina Heumann and Nils Güttler (eds.). Berlin: Kadmos, 2016: 23-46; as well as Irina Podgorny. “Requiem, oder (Aus-)Sterben in historischer und geologischer Zeit: Knöchelverzeichnis KV 626”. In _Mikrozeit und Tiefenzeit_. Friedrich Balke et al. (eds.). Paderborn: Fink, 2018: 128-142.
 

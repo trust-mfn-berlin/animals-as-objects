@@ -1,27 +1,29 @@
 ---
-id: YJrLgXqicVoVnrM8FtHXU
-title: Lamont-Doherty Collection
-desc: An important long-term collection of micropaleontological slides
-updated: 1644701994620
-created: 1629110187218
 license: CC BY-SA
+title: Lamont-Doherty Collection
 title_de: Lamont-Doherty-Sammlung
+created: 1629110187218
+updated: 1645259131680
+id: YJrLgXqicVoVnrM8FtHXU
 author: Filippo Bertoni
-short_desc_de: Eine bedeutende Langzeitsammlung mikropaläontologischer Präparate
-date_end: 2022-12-07T18:56:55.735Z
-published: false
 doi: 64y2-m311/39
 translators:
-  translator_en_de: ''
+  translator_en_de: ""
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
+desc: An important long-term collection of micropaleontological slides
 desc_de: Eine bedeutende Langzeitsammlung mikropaläontologischer Präparate
 short_desc: An important long-term collection of micropaleontological slides
+short_desc_de: Eine bedeutende Langzeitsammlung mikropaläontologischer Präparate
+keywords: Klima Planet Sediment Lazarus ökolog geol climate Planet Sediment
+  Lazarus ecolog* geol
 cover_image:
   image: /images/lamont-cover.jpg
 colour_scheme: 15
 tao_type: material
 date_start: 1949-01-01T18:51:23.138Z
+date_end: 2022-12-07T18:56:55.735Z
+published: false
 ---
 
 
@@ -48,7 +50,7 @@ In June 2021, the Museum für Naturkunde Berlin received the Observatory’s mic
 
 <figcaption>
 
-_This video illustrates the work of the micropaleontology research group at the Museum für Naturkunde Berlin by following the unboxing of the Lamont-Doherty Collection of slides. These fragile glass supports contain millions of individual specimens of microfossils, including diatoms, radiolarians and foraminiferans hauled up from the bottom of the ocean. These microscopic remains provide scientists with precious information about the history and dynamics of planetary transformations, and form an important even though little known part of the museum’s collections. (Video: Filippo Bertoni/MfN. All rights reserved.)_
+_This video illustrates the work of the micropaleontology research group at the Museum für Naturkunde Berlin by following the unboxing of the Lamont-Doherty Collection of slides. These fragile glass supports contain millions of individual specimens of microfossils retrieved from the bottom of the oceans, including diatoms, radiolarians and foraminiferans. The microscopic remains provide scientists with precious information about the history and dynamics of planetary transformations and form an important yet little known part of the museum’s collection. (Video: Filippo Bertoni/MfN. All rights reserved.)_
 
 </figcaption>
 

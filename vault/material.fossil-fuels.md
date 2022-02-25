@@ -1,26 +1,29 @@
 ---
-id: 7f5d84e2-6c42-454e-a7c5-f31db9960a70
-title: Fossil Fuels
-desc: Fossils are still used everyday to power our societies.
-updated: 1643305748400
-created: 1618493147480
 license: CC BY-SA
+title: Fossil Fuels
 title_de: Fossile Brennstoffe
+created: 1618493147480
+updated: 1643305748400
+id: 7f5d84e2-6c42-454e-a7c5-f31db9960a70
 author: Filippo Bertoni
 doi: 64y2-m311/32
 translators:
-  translator_en_de: ''
+  translator_en_de: ""
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
+desc: Fossils are still used everyday to power our societies
 desc_de: Alte Energie für neue Gesellschaften?
-short_desc: Fossils are still used everyday to power our societies.
+short_desc: Fossils are still used everyday to power our societies
 short_desc_de: Alte Energie für neue Gesellschaften?
+keywords: Öl rohstoff meer ozean mikro* petroleum Esther Applin Alva Ellisor
+  Hedwig Kniker oil resource sea ocean micro* petroleum Esther Applin Alva
+  Ellisor Hedwig Kniker
 cover_image:
   image: /images/fossil-fuel.png
 colour_scheme: 10
 tao_type: material
-date_start: '1846-01-02T19:59:06.330Z'
-date_end: '2022-12-07T19:10:39.033Z'
+date_start: 1846-01-02T19:59:06.330Z
+date_end: 2022-12-07T19:10:39.033Z
 ---
 
 :::EN:::

@@ -11,11 +11,12 @@ translators:
   translator_de_en: ""
 copy_editors:
   copy_editor_en: Carla Welch
-desc: Reconstructing the Zoo
+desc: Rebuilding the Zoo
 desc_de: Den Zoo wieder aufbauen
-short_desc: Reconstructing the Zoo
+short_desc: Rebuilding the Zoo
 short_desc_de: Den Zoo wieder aufbauen
-keywords: coming soon…
+keywords: Katharina Berger Breslau Zoodirektor* Besatzung Frau Hund Katharina
+  Berger Breslau director woman occup* dog
 cover_image:
   image: /images/cover-katharina-heinroth.jpg
   alt: 'Berlin zoo director Katharina Heinroth on her morning rounds with four

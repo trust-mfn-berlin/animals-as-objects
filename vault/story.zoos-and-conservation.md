@@ -3,22 +3,21 @@ license: CC BY-SA
 title: Zoos and Conservation
 title_de: Zoos und Artenschutz
 created: 1618994200982
-updated: 1644603520546
+updated: 1645738066224
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/75
 desc: Zoos today promote themselves as centres for species conservation. Until
-  the 1970s years, however, the majority of their exhibited animals were kept in
-  their habitats. What developments have zoos gone through and what dilemmas
-  have arisen?
+  the 1970s, however, the majority of their exhibited animals were kept in their
+  habitats. What developments have zoos gone through and what dilemmas have
+  arisen?
 desc_de: |-
-  Zoos bewerben sich heute als Artenschutzzentren. Bis in die 1970er
-  Jahre wurde die Mehrzahl ihrer ausgestellten Tiere allerdings in deren
-  Habitaten gefangen. Welche Entwicklungen haben Zoos durchlaufen und welche
-  Dilemmata haben sich ergeben?
-short_desc: Since only a relatively short time zoos intensify their conservation efforts.
+  Zoos bewerben sich heute als Artenschutzzentren. Bis in die 1970er Jahre wurde die Mehrzahl der ausgestellten Tiere allerdings in der Wildnis gefangen. Welche Entwicklungen haben Zoos durchlaufen und welche Dilemmata haben sich ergeben?
+short_desc: Since only a relatively short time zoos intensify their conservation efforts
 short_desc_de: Ausstellen oder schützen?
-keywords: coming soon
+keywords: Orang-Utan Zucht Handel Dathe DDR IUCN Grzimek Bison Hirsch Wisent
+  EAZA koloni* frosch orangutan breed* trade dathe GDR IUCN grzimek bison deer
+  wisent coloni* frog
 cover_image:
   image: /images/orangs_wegweiser_1927.jpg
 colour_scheme: 15
@@ -228,7 +227,7 @@ The association regards the animal as a suitable ambassador for the protection o
 
 [^10]: Press release by the Tierpark Berlin, 22.07.1964, Landesarchiv Berlin, C Rep. 121, no. 23.
 
-[^11]: Zoologischer Garten Berlin AG, _Geschäftsbericht für das Jahr 1962_, Berlin 1963, AZGB.
+[^11]: Aktien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht 1962_. Berlin: 1963.
 
 [^12]: Carbon copy of report by H. Dathe to the MfK on his travels to Indonesia in the autumn of 1972, 21.03.1973, AZGB, O 0/1/206. Subsequent quotes are taken from there.
 
@@ -406,7 +405,7 @@ _Beispiel eines Zuchtbuchs: Das Internationale Zuchtbuch für das Breitmaulnasho
 
 Es ist offensichtlich, dass sich eine Lesart des Artenschutzes durchsetzte, die den Aufbau einer in menschlicher Obhut gehaltenen Reservepopulation favorisierte. Einer ihrer nach wie vor einflussreichsten Verfechter war Heinrich Dathe. Als der Internationale Zoodirektorenverband 1973 in Japan tagte, meldete er sich mit dem Vortrag “Remarks to Zoological Gardens as important places for conservation and breeding of threatened species” an.[^18] Der Vortrag selbst ist nicht überliefert, am Titel wird aber deutlich, dass Heinrich Dathe für seine Vorstellung von Artenschutz durch die Erhaltungszucht in Zoos werben wollte.
 
-Dieser Ansatz war und ist unter Zoos in Deutschland und der Welt anschlussfähig und wird seit einigen Jahren auch durch digitalen Datenaustausch über die Plattform [[material.species360]] unterstützt. Die über viele Jahrzehnte gedruckten Zuchtbücher wurden somit abgelöst. Die meisten Nachzucht- oder Erhaltungszuchtprogramme in europäischen Zoos werden seit einigen Jahrzehnten im Rahmen des europäischen Zooverbandes (European Association of Zoos and Aquariums/ EAZA) als sogenannte EEPs (EAZA Ex-situ Program – also Zuchtprogramme in menschlicher Obhut) organisiert.
+Dieser Ansatz war und ist unter Zoos in Deutschland und der Welt anschlussfähig und wird seit einigen Jahren auch durch digitalen Datenaustausch über die Plattform [[material.species360]] unterstützt. Die über viele Jahrzehnte gedruckten Zuchtbücher wurden somit abgelöst. Die meisten Nachzucht- oder Erhaltungszuchtprogramme in europäischen Zoos werden seit einigen Jahrzehnten im Rahmen des europäischen Zooverbandes (European Association of Zoos and Aquariums/EAZA) als sogenannte EEPs (EAZA Ex-situ Program – also Zuchtprogramme in menschlicher Obhut) organisiert.
 
 Ganz freiwillig war diese Umstellung allerdings nicht: 1973 trat nach Jahren der Vorbereitung und verschiedener Entwurfsvorlagen das sogenannte Washingtoner Artenschutzabkommen in Kraft. Es verbietet oder reguliert den Handel mit gefährdeten Arten, sofern sie in einem der regelmäßig überarbeiteten Anhänge des Abkommens aufgeführt sind. Das Abkommen beendete quasi den bis dahin florierenden internationalen, kommerziellen [[Großhandel mit Zootieren|story.catching-animals]]. Während nicht geschützte Vögel und Wasserfauna weiterhin gehandelt werden konnten, galt (und gilt) dies für Säugetiere und insbesondere große Spezies weitgehend nicht mehr. Welche Auswirkungen das Artenschutzabkommen haben würde, machte der Rotterdamer Zoodirektor Dick van Dam auf der Jahreskonferenz 1980 des internationalen Verbandes der Zoodirektoren in seinem Vortrag “The Future of Zoological Gardens” deutlich. Van Dam forderte die Zoos weltweit auf, die Zucht bedrohter Tierarten zu einer ihrer zentralen Aufgaben zu machen, da die finanziellen und legalen Schwierigkeiten beim Erwerb von Wildfängen zu groß geworden seien. Nur durch Zucht könnten Zoos fortan die Attraktivität der eigenen Sammlung sichern.[^19] 1993 bestätigte der Kölner Zoodirektor Gunther Nogge, dass sich Zoos nach dem Washingtoner Artenschutzabkommen viel stärker auf die Zucht konzentrierten, da sie zu “Selbstversorgern” werden mussten.[^20]
 
@@ -475,7 +474,7 @@ Das Tier eignete sich in den Augen des Verbandes also als Botschafter für den S
 
 [^10]: Pressemitteilung des Tierparks Berlin, 22.07.1964, Landesarchiv Berlin, C Rep. 121, Nr. 23.
 
-[^11]: Zoologischer Garten Berlin AG, _Geschäftsbericht für das Jahr 1962_, Berlin 1963, AZGB.
+[^11]: Aktien-Verein des Zoologischen Gartens Berlin. _Geschäftsbericht 1962_. Berlin: 1963.
 
 [^12]: Durchschrift Bericht H. Dathe über die Indonesienreise im Herbst 1972 an das MfK, 21.03.1973, AZGB, O 0/1/206. Hier auch die folgenden Zitate.
 

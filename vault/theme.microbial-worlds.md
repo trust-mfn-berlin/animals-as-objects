@@ -3,12 +3,14 @@ license: CC BY-SA
 title_de: "Mikrobielle Welten "
 created: 1618930984846
 author: Filippo Bertoni
-short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Welt.
-keywords: microorganism
+short_desc_de: Mikroorganismen verändern unablässig (unsere Sicht auf) die Welt
+keywords: "Antoni van Leeuwenhoek Robert Hooke Francesco Redi Ehrenberg
+  Evolution* Robert Koch Medizin Krankheit  Antoni van Leeuwenhoek Robert Hooke
+  Francesco Redi Ehrenberg Evolution* Robert Koch medicine disease ill* "
 date_end: 2022-12-14T14:41:44.038Z
 published: false
 title: Microbial Worlds
-updated: 1644704111632
+updated: 1645802626715
 id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
 doi: 64y2-m311/34
 translators:
@@ -16,21 +18,9 @@ translators:
 copy_editors:
   copy_editor_en: ""
   copy_editor_de: Jan-Peter Herrmann
-desc: |-
-  The development of techniques for observing microscopic worlds shaped our
-  knowledge of microbes. From their earliest observations in the 17th century to
-  the latest explorations of the importance of microbes in infusing our planet
-  with life, microorganisms emerge as a fundamental part of Earth’s history and
-  dynamics.
-desc_de: |-
-  Unser Wissen über Mikroben beruht maßgeblich auf der Entwicklung
-  technischer Hilfsmittel zur Sichtbarmachung ihres Mikrokosmos. Die so
-  ermöglichte Erforschung von Mikroorganismen, von den ersten mikroskopischen
-  Beobachtungen im 17. Jahrhundert bis zur jüngeren Untersuchung ihrer Rolle bei
-  der Schaffung bzw. Erhaltung der Voraussetzungen für Leben auf unserem
-  Planeten, vermittelt uns ein immer klareres Bild ihrer zentralen Bedeutung für
-  vergangene und andauernde planetare Dynamiken.
-short_desc: Microorganisms keep transforming (our view of) the world.
+desc: Techniques for observing microscopic worlds shaped our knowledge of microbes. From their earliest observations in the 17th century to the latest explorations of our microbial planet, microorganisms emerge as a fundamental part of Earth’s history and dynamics.
+desc_de: Unser Wissen über Mikroben beruht maßgeblich auf Techniken der Sichtbarmachung. Von den ersten mikroskopischen Beobachtungen im 17. Jahrhundert bis hin zu aktuellen Studien über ihre planetarische Bedeutung erscheinen Mikroorganismen als zentrale Akteure der Erdgeschichte.
+short_desc: Microorganisms keep transforming (our view of) the world
 cover_image:
   image: /images/illustrated-london-news-conversazione_crop.jpg
 colour_scheme: 3
@@ -144,7 +134,7 @@ _”A Drop of Ocean” shows the complex micro-level physicochemical interaction
 
 [^12]: On the history of medical microbiology, and especially its hegemonic role in comparison to environmental microbiology, see Frederick T. Attenborough. “‘To Rid Oneself of the Uninvited Guest’: Robert Koch, Sergei Winogradsky and Competing Styles of Practice in Medical Microbiology”. _Journal of Historical Sociology_ 25, no. 1 (2012): 50-82. For a reflection on the current implications of this historical dynamic, see Frederick T. Attenborough. “The Singular Case of SARS: Medical Microbiology and the Vanishing of Multifactorality”. PhD diss., Loughborough University, 2010. https://core.ac.uk/download/pdf/288371192.pdf (28.08.2021). 
 
-[^13]: For more critical appraisals of these figures and their roles, see Bruno Latour. _The Pasteurization of France_. Camebridge: Harvard University Press, 1993; J. Andrew Mendelsohn. “‘Like All That Lives’: Biology, Medicine and Bacteria in the Age of Pasteur and Koch”. _History and Philosophy of the Life Sciences_ 24, no. 1 (2002): 3-36. http://www.jstor.org/stable/23332438 (28.08.2021). Complicating the heroic accounts of Koch’s role in scientific history in particular, by illuminating the specific economic and colonial aspects of his work, are: Christoph Gradmann. “Money and Microbes: Robert Koch, Tuberculin and the Foundation of the Institute for Infectious Diseases in Berlin in 1891”. _History and Philosophy of the Life Sciences_ 22, no. 1 (2000): 59-79. http://www.jstor.org/stable/23332275(26.08.2021); and Christoph Gradmann. “Robert Koch and the Invention of the Carrier State: Tropical Medicine, Veterinary Infections and Epidemiology around 1900”. _Studies in History and Philosophy of Biological and Biomedical Sciences_ 41, no. 3 (2010): 232-240. https://doi.org/10.1016/j.shpsc.2010.04.012.  
+[^13]: For more critical appraisals of these figures and their roles, see Bruno Latour. _The Pasteurization of France_. Camebridge: Harvard University Press, 1993; J. Andrew Mendelsohn. “‘Like All That Lives’: Biology, Medicine and Bacteria in the Age of Pasteur and Koch”. _History and Philosophy of the Life Sciences_ 24, no. 1 (2002): 3-36. http://www.jstor.org/stable/23332438 (28.08.2021). Complicating the heroic accounts of Koch’s role in scientific history in particular, by illuminating the specific economic and colonial aspects of his work, are: Christoph Gradmann. “Money and Microbes: Robert Koch, Tuberculin and the Foundation of the Institute for Infectious Diseases in Berlin in 1891”. _History and Philosophy of the Life Sciences_ 22, no. 1 (2000): 59-79. http://www.jstor.org/stable/23332275(26.08.2021); and Christoph Gradmann. “Robert Koch and the Invention of the Carrier State: Tropical Medicine, Veterinary Infections and Epidemiology around 1900”. _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_ 41, no. 3 (2010): 232-240. https://doi.org/10.1016/j.shpsc.2010.04.012.  
 
 [^14]: NASA. _Astrobiology: The Story of our Search for Life in the Universe_. _NASA_, 2015. https://astrobiology.nasa.gov/uploads/filer_public/a3/78/a378f1b1-e438-4156-8af2-cf167a545e4a/astrobio_novel_5_firstedition_hires.pdf (28.08.2021).
 
@@ -267,7 +257,7 @@ _”A Drop of Ocean” zeigt die komplexen physikalisch-chemischen Interaktionen
 
 [^12]: Zur Geschichte der medizinischen Mikrobiologie und insbesondere zu ihrer hegemonialen Rolle im Vergleich zur Umweltmikrobiologie, siehe Frederick T. Attenborough. “‘To Rid Oneself of the Uninvited Guest’: Robert Koch, Sergei Winogradsky and Competing Styles of Practice in Medical Microbiology”. _Journal of Historical Sociology_ 25, Nr. 1 (2012): 50-82. Für eine Reflexion über die aktuellen Auswirkungen dieser historischen Dynamik, siehe Frederick T. Attenborough. “The Singular Case of SARS: Medical Microbiology and the Vanishing of Multifactorality”. PhD diss., Loughborough University, 2010. https://core.ac.uk/download/pdf/288371192.pdf (28.08.2021). 
 
-[^13]: Für eine kritischere Bewertung dieser Figuren und ihrer Rolle, siehe Bruno Latour. _The Pasteurization of France_. Camebridge: Harvard University Press, 1993; J. Andrew Mendelsohn. “‘Like All That Lives’: Biology, Medicine and Bacteria in the Age of Pasteur and Koch”. _History and Philosophy of the Life Sciences_ 24, Nr. 1 (2002): 3-36. http://www.jstor.org/stable/23332438 (28.08.2021). Hier wird die heroische Darstellung von Kochs Rolle in der Wissenschaftsgeschichte kritisch eingeordnet, insbesondere durch die Beleuchtung der wirtschaftlichen und kolonialen Aspekte seiner Arbeit: Christoph Gradmann. “Money and Microbes: Robert Koch, Tuberculin and the Foundation of the Institute for Infectious Diseases in Berlin in 1891”. _History and Philosophy of the Life Sciences_ 22, Nr. 1 (2000): 59-79. http://www.jstor.org/stable/23332275(26.08.2021); und Christoph Gradmann. “Robert Koch and the Invention of the Carrier State: Tropical Medicine, Veterinary Infections and Epidemiology around 1900”. _Studies in History and Philosophy of Biological and Biomedical Sciences_ 41, Nr. 3 (2010): 232-240. https://doi.org/10.1016/j.shpsc.2010.04.012.  
+[^13]: Für eine kritischere Bewertung dieser Figuren und ihrer Rolle, siehe Bruno Latour. _The Pasteurization of France_. Camebridge: Harvard University Press, 1993; J. Andrew Mendelsohn. “‘Like All That Lives’: Biology, Medicine and Bacteria in the Age of Pasteur and Koch”. _History and Philosophy of the Life Sciences_ 24, Nr. 1 (2002): 3-36. http://www.jstor.org/stable/23332438 (28.08.2021). Hier wird die heroische Darstellung von Kochs Rolle in der Wissenschaftsgeschichte kritisch eingeordnet, insbesondere durch die Beleuchtung der wirtschaftlichen und kolonialen Aspekte seiner Arbeit: Christoph Gradmann. “Money and Microbes: Robert Koch, Tuberculin and the Foundation of the Institute for Infectious Diseases in Berlin in 1891”. _History and Philosophy of the Life Sciences_ 22, Nr. 1 (2000): 59-79. http://www.jstor.org/stable/23332275(26.08.2021); und Christoph Gradmann. “Robert Koch and the Invention of the Carrier State: Tropical Medicine, Veterinary Infections and Epidemiology around 1900”. _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_ 41, Nr. 3 (2010): 232-240. https://doi.org/10.1016/j.shpsc.2010.04.012.  
 
 [^14]: NASA. _Astrobiology: The Story of our Search for Life in the Universe_. _NASA_, 2015. https://astrobiology.nasa.gov/uploads/filer_public/a3/78/a378f1b1-e438-4156-8af2-cf167a545e4a/astrobio_novel_5_firstedition_hires.pdf_ (28.08.2021).
 

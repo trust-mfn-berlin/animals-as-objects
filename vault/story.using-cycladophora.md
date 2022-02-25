@@ -1,40 +1,37 @@
 ---
-id: TBi8fH-OIQRAoB-tG9ZY1
+license: CC BY-SA
 title: Using Cycladophora
+title_de: Nutzung von Cycladophora
+created: 1624875395326
+updated: 1645736997072
+id: TBi8fH-OIQRAoB-tG9ZY1
+author: Filippo Bertoni
+doi: 10.7479/64y2-m311/2
+translators:
+  translator_en_de: ""
+copy_editors:
+  copy_editor_en: ""
+  copy_editor_de: Jan-Peter Herrmann
 desc: |-
   Thanks to complex technoscientific networks, Cycladophora has become an
   important tool in the study of planetary systems and climate. This story
   follows the microorganism’s trajectory to trace how these networks formed and
   how they continue to shape how we know the planet - and its microbial
   inhabitants.
-updated: 1644699070233
-created: 1624875395326
-license: CC BY-SA
-title_de: Nutzung von Cycladophora
-author: Filippo Bertoni
-short_desc_de: Von Mikrofossilien zu planetarem Wissen
-date_end: '2022-07-06T11:38:39.090Z'
-published: false
-doi: 10.7479/64y2-m311/2
-translators:
-  translator_en_de: ''
-copy_editors:
-  copy_editor_en: ''
-  copy_editor_de: Jan-Peter Herrmann
 desc_de: |-
-  Dank komplexer wissenschaftlich-technischer Netzwerke ist Cycladophora
-  heutzutage zu einem wichtigen Hilfsmittel in der Erdsystem- und Klimaforschung
-  geworden. Mithilfe der nachfolgenden Skizzierung des Verlaufs der
-  wissenschaftlichen Arbeit mit diesem Mikroorganismus soll nachvollziehbar
-  gemacht werden, wie diese Netzwerke entstanden sind und wie sie nach wie vor
-  das Wissen über unseren Planeten – und seine mikrobiellen Bewohner – prägen.
+  Dank komplexer wissenschaftlich-technischer Netzwerke ist Cycladophora heutzutage zu einem wichtigen Hilfsmittel in der Erdsystem- und Klimaforschung geworden. Diese Story rekonstruiert die wissenschaftliche Arbeit mit Mikroorganismen und zeichnet nach, wie diese Netzwerke entstanden sind und welche Bedeutung sie noch immer für unser Wissen über unseren Planeten und seine mikrobiellen Bewohner haben.
 short_desc: From microfossils to planetary sciences
+short_desc_de: Von Mikrofossilien zu planetarem Wissen
+keywords: Ernst Haeckel William Rex Riedel Kalte Krieg big data Ernst Haeckel
+  William Rex Riedel cold war big data
 cover_image:
   image: /images/cover-using-cycladophora.jpeg
-  alt: ''
+  alt: ""
 colour_scheme: 8
 tao_type: story
-date_start: '1949-12-31T23:00:00.000Z'
+date_start: 1949-12-31T23:00:00.000Z
+date_end: 2022-07-06T11:38:39.090Z
+published: false
 ---
 
 :::EN:::

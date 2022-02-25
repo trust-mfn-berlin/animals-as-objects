@@ -5,6 +5,7 @@ desc: ''
 updated: 1618323275119
 created: 1618323275122
 colour_scheme: 11
+archived: true
 ---
 # Welcome to Dendron
 

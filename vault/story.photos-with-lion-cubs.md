@@ -1,31 +1,37 @@
 ---
-id: 4U5dFDf18mKRPdRnzu35p
+license: CC BY-SA
 title: Photos with Lion Cubs
+title_de: Bilder mit Löwenbabys
+created: 1640340586550
+updated: 1645560377795
+id: 4U5dFDf18mKRPdRnzu35p
+author: Mareike Vennen
+doi: 64y2-m311/67
+translators:
+  translator_de_en: Lydia J. White
 desc: |-
   In many zoos, visitors once had the opportunity to have their photo taken
   with lion cubs. When did this motif emerge, and why has it disappeared from
   today's zoos?
-updated: 1644601240377
-created: 1640340586550
-license: CC BY-SA
-title_de: Bilder mit Löwenbabys
-author: Mareike Vennen
-short_desc_de: 'Raubtier, Zootier, Kuscheltier? Politiken des Tierbildes'
-date_end: 1994-12-24T10:34:00.000Z
-published: false
-doi: 64y2-m311/67
-translators:
-  translator_de_en: Lydia J. White
 desc_de: |-
   In vielen Zoos konnte man sich mit einem Löwenbaby fotografieren
   lassen. Wann kam dieses Motiv auf und warum ist es heute aus den Zoos
   verschwunden?
-short_desc: 'Predators, zoo animals, or stuffed toys? The politics of animal pictures'
+short_desc: Predators, zoo animals, or stuffed toys? The politics of animal pictures
+short_desc_de: Raubtier, Zootier, Kuscheltier? Politiken des Tierbildes
+keywords: Bild* Medien schaf ziege* streicheln foto* erinner* Grzimek koloni*
+  Schillings jagd jäger trophä* kino film wertheim handel kauf CITES reiche
+  zucht fang* heinroth ökonom* leipzig cottbus tierschutz kapital*
+  expedition*  image media sheep goat touch photo* memor* Grzimek coloni*
+  schillings hunt* trophy film cinema wertheim trade CITES reiche breed* catch*
+  heinroth econom* leipzig cottbus welfare capital* expedition
 cover_image:
   image: /images/Dieter-Herfurth-1939-mit-Loewenbaby.jpg
 colour_scheme: 14
 tao_type: story
 date_start: 1890-12-24T11:24:39.000Z
+date_end: 1994-12-24T10:34:00.000Z
+published: false
 feature: true
 ---
 
@@ -271,7 +277,7 @@ What connects them is what stays the same, a motif that can be traced through a 
  
 [^1]: See the Zoo Guides of 1936, 1938, and 1940; see also Ludwig Heck. “Zootiere einst und jetzt”, January 1934, AZGB N 1/7. I am unaware of when exactly the photo booth at Berlin Zoo was opened. 
 
-[^2]: Hildegard Zukowsky. “Löwenprinzchen”. _CHITuMW_ 1, no. 6 (1926): 132-134, quoted in: Nastasja Klothmann. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 291. Direct quotes have been translated into English for clarity’s sake.
+[^2]: Hildegard Zukowsky. “Löwenprinzchen”. _CHITuMW_ 1, no. 6 (1926): 132-134, quoted in: Nastasja Klothmann. _Gefühlswelten im Zoo: Eine Emotionsgeschichte 1900-1945_. Bielefeld: transcript, 2015: 291. 
 
 [^3]: Each zoo dealt with the permission to take photos differently. While visitors in Leipzig, Halle, Berlin, and Vienna had to purchase a permit, visitors to other zoos could take photos free of charge. Cf. 40. Konferenz der Direktoren mitteleuropäischer Zoologischer Gärten in Breslau vom 23. bis 25. August 1928, AZGB V 1/10.
 
@@ -279,7 +285,7 @@ What connects them is what stays the same, a motif that can be traced through a 
 
 [^5]: Christina Wessely. _Löwenbaby_. Berlin: Matthes & Seitz, 2019.
 
-[^6]: After the war, the booth moved from its site beside the predator enclosure to the bear enclosure. Cf. Katharina Heinroth. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege_, Aktien-Verein des Zoologischen Gartens zu Berlin (ed.). Berlin: 1956: 6.
+[^6]: After the war, the booth moved from its site beside the predator enclosure to the bear enclosure. Cf. Katharina Heinroth. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege_. Berlin: Aktien-Verein des Zoologischen Gartens Berlin, 1956: 6.
 
 [^7]: Vinzenz Hediger. “Das Tier auf unserer Seite: Zur Politik des Filmtiers am Beispiel von ‘Serengeti darf nicht sterben’”. In _Politische Zoologie_. Anne von Heiden und Joseph Vogl (eds.). Zurich/Berlin, 2007: 287-301. Historians like Thomas M. Lekan, Angela Thompsell, and Bernhard Gißibl have made similar arguments. Cf. Thomas M. Lekan. _Our Gigantic Zoo: A German Quest to Save the Serengeti._ New York: Oxford University Press, 2020; Angela Thompsell. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015; Bernhard Gißibl. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. The Environment in History: International Perspectives, Volume 9. New York: Berghahn Books, 2016.
 
@@ -335,9 +341,9 @@ What connects them is what stays the same, a motif that can be traced through a 
 
 [^33]: Wessely, 2019: 59, 61.
 
-[^34]: An annual photography permit cost 10 marks and annual photography permits for the zoo and aquarium 15 marks. Cf. Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1981_, Aktien-Verein des Zoologischen Gartens zu Berlin (ed.). Berlin: 1981.
+[^34]: An annual photography permit cost 10 marks and annual photography permits for the zoo and aquarium 15 marks. Cf. Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1981_. Berlin: Aktien-Verein des Zoologischen Gartens Berlin, 1981.
 
-[^35]: Hans Frädrich (ed.). _Wegweiser durch den Zoologischen Garten Berlin und sein Aquarium 1994_, ed. by Aktien-Verein des Zoologischen Gartens zu Berlin: Berlin: 1994.
+[^35]: Hans Frädrich (ed.). _Wegweiser durch den Zoologischen Garten Berlin und sein Aquarium 1994_. Aktien-Verein des Zoologischen Gartens Berlin, 1994.
 
 [^36]: “More Tigers in American Backyards than in the Wild”. _WWF Stories_, 29.07.2014. https://www.worldwildlife.org/stories/more-tigers-in-american-backyards-than-in-the-wild. On the (frequently illegal) trade in ‘exotic pets’, see Collard, Rosemary-Claire. _Animal Traffic: Lively Capital in the Global Exotic Pet Trade_. Durham: Duke University Press, 2020.
 
@@ -592,7 +598,7 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^5]: Christina Wessely. _Löwenbaby_. Berlin: Matthes & Seitz, 2019.
 
-[^6]: Der Stand wechselte nach dem Krieg vom Platz neben dem Raubtierhaus zum Bärenzwinger, vgl. Katharina Heinroth. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege_, Aktien-Verein des Zoologischen Gartens zu Berlin (Hg.). Berlin 1956: 6.
+[^6]: Der Stand wechselte nach dem Krieg vom Platz neben dem Raubtierhaus zum Bärenzwinger, vgl. Katharina Heinroth. _Der Zoologische Garten Berlin: Zweiter Bericht und Wegweiser nach dem Kriege_. Berlin: Aktien-Verein des Zoologischen Gartens Berlin, 1956: 6.
 
 [^7]: Vinzenz Hediger. “Das Tier auf unserer Seite: Zur Politik des Filmtiers am Beispiel von ‘Serengeti darf nicht sterben’”. In _Politische Zoologie_. Anne von Heiden und Joseph Vogl (Hg.). Zürich/Berlin, 2007: 287-301. Ähnlich wie der Filmwissenschaftler Hediger argumentieren Historiker:innen wie Thomas M. Lekan, Angela Thompsell oder Bernhard Gißibl. Vgl. Thomas M. Lekan. _Our Gigantic Zoo: A German Quest to Save the Serengeti._ New York: Oxford University Press, 2020; Angela Thompsell. _Hunting Africa: British Sport, African Knowledge and the Nature of Empire_. Basingstoke: Palgrave Macmillan, 2015; Bernhard Gißibl. _The Nature of German Imperialism: Conservation and the Politics of Wildlife in Colonial East Africa_. New York: Berghahn Books, 2016.
 
@@ -648,9 +654,9 @@ Was sie verbindet, ist das Gleichbleibende, das Motiv, das sich über 70 Jahre h
 
 [^33]: Wessely, 2019: 59; 61.
 
-[^34]: Foto-Jahreskarten kosteten 10 Mark und Zoo- und Aquarium-Fotojahreskarten beliefen sich auf 15 Mark. Vgl. Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1981_, Aktien-Verein des Zoologischen Gartens zu Berlin (Hg.). Berlin: 1981.
+[^34]: Foto-Jahreskarten kosteten 10 Mark und Zoo- und Aquarium-Fotojahreskarten beliefen sich auf 15 Mark. Vgl. Heinz-Georg Klös. _Wegweiser durch den Zoologischen Garten Berlin 1981_. Berlin: Aktien-Verein des Zoologischen Gartens Berlin. Berlin: 1981.
 
-[^35]: Hans Frädrich (Hg.). _Wegweiser durch den Zoologischen Garten Berlin und sein Aquarium 1994_, hg. vom Aktien-Verein des Zoologischen Gartens zu Berlin. Berlin: 1994.
+[^35]: Hans Frädrich (Hg.). _Wegweiser durch den Zoologischen Garten Berlin und sein Aquarium 1994_. Berlin: Aktien-Verein des Zoologischen Gartens Berlin, 1994.
 
 [^36]: “More Tigers in American Backyards than in the Wild”. _WWF Stories_, 29.07.2014. https://www.worldwildlife.org/stories/more-tigers-in-american-backyards-than-in-the-wild. Zum (häufig illegalen) Handel mit ‘exotischen Haustieren’ vgl. Rosemary-Claire Collard. _Animal Traffic: Lively Capital in the Global Exotic Pet Trade_. Durham: Duke University Press, 2020.
 

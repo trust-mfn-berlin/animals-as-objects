@@ -1,24 +1,26 @@
 ---
-id: H40I2GIwYN6393S3tIUHI
-title: The ‘Gorilla Beast’
-desc: An example of colonial iconography
-updated: 1643310341832
-created: 1640365282699
 license: CC BY-SA
+title: The ‘Gorilla Beast’
 title_de: Die ‘Bestie Gorilla’
+created: 1640365282699
+updated: 1644868505588
+id: H40I2GIwYN6393S3tIUHI
 author: Britta Lange
 doi: 64y2-m311/61
 translators:
   translator_de_en: Lydia J. White
-desc_de: 'Zu einem Beispiel kolonialer Ikonografie '
+desc: An example of colonial iconography
+desc_de: "Zu einem Beispiel kolonialer Ikonografie "
 short_desc: An example of colonial iconography
-short_desc_de: 'Zu einem Beispiel kolonialer Ikonografie '
+short_desc_de: "Zu einem Beispiel kolonialer Ikonografie "
+keywords: koloni* jagd jäger dermo* taxiderm* umlauff matschie zenker
+  kamerun  coloni* hunt* dermo* taxiderm* umlauff matschie zenker cameroon
 cover_image:
   image: /images/lange-3.jpg
 colour_scheme: 7
 tao_type: material
-date_start: '1901-12-24T18:00:39.000Z'
-date_end: '1903-12-24T18:00:39.000Z'
+date_start: 1901-12-24T18:00:39.000Z
+date_end: 1903-12-24T18:00:39.000Z
 published: false
 ---
 
@@ -30,13 +32,13 @@ published: false
 
 <figcaption>
 
-_The ‘giant gorilla’[^2] dermoplastic taxidermy mounted by the Hamburg company Umlauff in 1901; postcard with the stamp “Wilh. Kuhnert”. (MfN, HBSB, ZM-B-IV-0872. All rights reserved.)_
+_The ‘giant gorilla’[^1] dermoplastic taxidermy mounted by the Hamburg company Umlauff in 1901; postcard with the stamp ‘Wilh. Kuhnert’. (MfN, HBSB, ZM-B-IV-0872. All rights reserved.)_
 
 </figcaption>
 
 </figure>
 
-In 1903 at the German Colonial Hunting Exhibition held near Karlsruhe, Hamburg company J.F.G. Umlauff presented a selection of ethnographica from the German colonies as well as a number of [[hunting trophies|material.the-german-colonial-hunting-exhibition]]. In their Africa section, they began by displaying a photo of a ‘giant gorilla’ (Riesen-Gorilla) taxidermy that had been prepared in 1901 together with four real gorilla skulls. During the exhibition, they were able to supplement these exhibits with a dermoplastic taxidermy of another gorilla that had been ordered specially for the hunting exhibition – using a technology that pulls the animal’s real skin over a plastic replica. It was an exhibit of a new “giant gorilla” that had been brought “to Europe as the second fully grown specimen”,[^1] as the _Deutsche Kolonial-Zeitung_ (German Colonial Newspaper) reported. Both dermoplastic specimens, mounted in 1901 and 1903 respectively, presented the gorilla as a ‘beast’, as a savage, threatening animal – following in the footsteps of an iconography that had been established in the late 19th century, creating an antithesis to depictions of gorillas as peace-loving, social animals that still persists today.
+In 1903 at the German Colonial Hunting Exhibition held near Karlsruhe, Hamburg company J.F.G. Umlauff presented a selection of ethnographica from the German colonies as well as a number of [[hunting trophies|material.the-german-colonial-hunting-exhibition]]. In their Africa section, they began by displaying a photo of a ‘giant gorilla’ (Riesen-Gorilla) taxidermy that had been prepared in 1901 together with four real gorilla skulls. During the exhibition, they were able to supplement these exhibits with a dermoplastic taxidermy of another gorilla that had been ordered specially for the hunting exhibition – using a technology that pulls the animal’s real skin over a plastic replica. It was an exhibit of a new “giant gorilla” that had been brought “to Europe as the second fully grown specimen”,[^2] as the _Deutsche Kolonial-Zeitung_ (German Colonial Newspaper) reported. Both dermoplastic specimens, mounted in 1901 and 1903 respectively, presented the gorilla as a ‘beast’, as a savage, threatening animal – following in the footsteps of an iconography that had been established in the late 19th century, creating an antithesis to depictions of gorillas as peace-loving, social animals that still persists today.
 
 In 1901, the ethnographica and natural history dealer Umlauff had helped to shape this spectacular presentation form after buying off a boat the skin and skeleton of a gorilla shot during a hunt in Cameroon by Hans Paschen, a colonial officer.
 
@@ -77,9 +79,10 @@ _A poster printed by Friedländer in Hamburg for the 1903 German Colonial Huntin
 
 This was a continuation of the trophy iconography depicting the gorilla as a beast, which also legitimised the killing of the animals and, in a figurative sense, the subjugation of humans in the colonies who had also been declared ‘savage’. It was translated into various media – paintings, posters, taxidermies, and later films like _King Kong_ (1933) – with slight variations. While the stereotypical image of Earth’s largest primate as a beast has survived into the present, its historical entanglement with colonial power fantasies and exhibition contexts has now largely been forgotten.
 
-[^1]: “Deutsch-Koloniale Jagdausstellung in Karlsruhe”. _Deutsche Kolonial-Zeitung_ 20, no. 29 (1903): 291.
 
-[^2]: The picture without a stamp by Wilhelm Kuhnert (who also exhibited in Karlsruhe) is also printed in Umlauff’s Gorilla brochure. Cf. _Der Riesen-Gorilla des Museum Umlauff Hamburg: Schilderung seiner Erlegung und wissenschaftliche Beschreibung. Katalog_. Hamburg: Adolph Friedländers Druckerei, 1901.
+[^1]: The picture without a stamp by Wilhelm Kuhnert (who also exhibited in Karlsruhe) is also printed in Umlauff’s Gorilla brochure. Cf. _Der Riesen-Gorilla des Museum Umlauff Hamburg: Schilderung seiner Erlegung und wissenschaftliche Beschreibung. Katalog_. Hamburg: Adolph Friedländers Druckerei, 1901.
+
+[^2]: “Deutsch-Koloniale Jagdausstellung in Karlsruhe”. _Deutsche Kolonial-Zeitung_ 20, no. 29 (1903): 291.
 
 [^3]: Cf. Hans Werner Ingensiep. “Kultur- und Zoogeschichte der Gorillas: Beobachtungen zur Humanisierung von Menschenaffen.” In _Die Kulturgeschichte des Zoos_, Lothar Dittrich, Annelore Rieke-Müller, and Dietrich von Engelhardt (eds.). Berlin: VWB, Verl. für Wiss. und Bildung, 2001: 151-170.
 
@@ -99,13 +102,13 @@ This was a continuation of the trophy iconography depicting the gorilla as a bea
 
 <figcaption>
 
-_Der von der Hamburger Firma Umlauff 1901 dermoplastisch aufgestellte ‘Riesen-Gorilla’[^2]; Postkarte mit dem Stempel “Wilh. Kuhnert”. (MfN, HBSB, ZM-B-IV-0872. Alle Rechte vorbehalten.)_
+_Der von der Hamburger Firma Umlauff 1901 dermoplastisch aufgestellte ‘Riesen-Gorilla’[^1]; Postkarte mit dem Stempel ‘Wilh. Kuhnert’. (MfN, HBSB, ZM-B-IV-0872. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
 </figure>
 
-Im Jahr 1903 präsentierte die Hamburger Firma J.F.G. Umlauff auf der “Deutsch-Kolonialen Jagdausstellung” in Karlsruhe neben einer Auswahl von Ethnografica aus deutschen Kolonien auch [[Jagdtrophäen|material.the-german-colonial-hunting-exhibition]]. In der Afrika-Abteilung zeigte sie neben vier echten Gorillaschädeln zunächst das Foto eines 1901 präparierten ‘Riesen-Gorillas’. Während der Ausstellungsdauer konnte sie dieses um die eigens für die Jagdausstellung bestellte Dermoplastik eines weiteren Gorillas ergänzen – eine Präparationstechnik, bei der die echte Haut über ein plastisch nachgebildetes Modell des Tieres gezogen wird. Es handelte sich bei dem nachgelieferten Exponat um einen neuen “Riesen-Gorilla”, der “als zweites vollständig ausgewachsenes Exemplar nach Europa”[^1] gebracht worden sei, wie die _Deutsche Kolonial-Zeitung_ schrieb. Die beiden 1901 und 1903 in dermoplastischer Technik aufgestellten Präparate führten den Gorilla als ‘Bestie’, als wildes und bedrohliches Tier vor – und folgten damit einer seit dem späten 19. Jahrhundert etablierten Ikonografie, die ein Gegenbild zu Darstellungen von Gorillas als friedliebende und soziale Tiere entwarf und sich bis in die Gegenwart hinein halten sollte.
+Im Jahr 1903 präsentierte die Hamburger Firma J.F.G. Umlauff auf der “Deutsch-Kolonialen Jagdausstellung” in Karlsruhe neben einer Auswahl von Ethnografica aus deutschen Kolonien auch [[Jagdtrophäen|material.the-german-colonial-hunting-exhibition]]. In der Afrika-Abteilung zeigte sie neben vier echten Gorillaschädeln zunächst das Foto eines 1901 präparierten ‘Riesen-Gorillas’. Während der Ausstellungsdauer konnte sie dieses um die eigens für die Jagdausstellung bestellte Dermoplastik eines weiteren Gorillas ergänzen – eine Präparationstechnik, bei der die echte Haut über ein plastisch nachgebildetes Modell des Tieres gezogen wird. Es handelte sich bei dem nachgelieferten Exponat um einen neuen “Riesen-Gorilla”, der “als zweites vollständig ausgewachsenes Exemplar nach Europa”[^2] gebracht worden sei, wie die _Deutsche Kolonial-Zeitung_ schrieb. Die beiden 1901 und 1903 in dermoplastischer Technik aufgestellten Präparate führten den Gorilla als ‘Bestie’, als wildes und bedrohliches Tier vor – und folgten damit einer seit dem späten 19. Jahrhundert etablierten Ikonografie, die ein Gegenbild zu Darstellungen von Gorillas als friedliebende und soziale Tiere entwarf und sich bis in die Gegenwart hinein halten sollte.
 
 Im Jahr 1901 hatten die Ethnografica- und Naturalienhändler Umlauff die spektakuläre Darstellungsform mitgeprägt, nachdem sie von einem Schiff die Haut und das Skelett eines Gorillas gekauft hatten, den der Kolonialbeamte Hans Paschen in Kamerun bei der Jagd geschossen hatte.
 
@@ -145,9 +148,9 @@ _Bei Friedländer in Hamburg gedrucktes Plakat für die Deutsch-Koloniale Jagdau
 
 Damit wurde die Trophäen-Ikonografie des Gorillas als Bestie fortgeschrieben, die zugleich als Legitimation zur Tötung der Tiere wie im übertragenen Sinne auch zur Unterwerfung der als “wild” deklarierten Menschen in den Kolonien diente. Sie ließ sich in verschiedene Medien – Gemälde, Plakate, Dermoplastiken und später Filme wie _King Kong und die weiße Frau_ (1933) – übersetzen und mit leichten inhaltlichen Varianzen versehen. Während das stereotype Bild des größten Menschenaffen als Bestie bis in die Gegenwart überlebt hat, ist die historische Verstrickung mit kolonialen Machtfantasien und Ausstellungskontexten heute weitgehend aus dem auch Blick geraten.
 
-[^1]: “Deutsch-Koloniale Jagdausstellung in Karlsruhe”. _Deutsche Kolonial-Zeitung_ 20, Nr. 29 (1903): 291.
+[^1]: Das Bild ohne Stempel von Wilhelm Kuhnert (der auch unter den Ausstellern in Karlsruhe war) findet sich ebenfalls in der Gorilla-Broschüre der Firma Umlauff abgedruckt. Vgl. _Der Riesen-Gorilla des Museum Umlauff Hamburg: Schilderung seiner Erlegung und wissenschaftliche Beschreibung. Katalog_. Hamburg: Adolph Friedländers Druckerei, 1901.
 
-[^2]: Das Bild ohne Stempel von Wilhelm Kuhnert (der auch unter den Ausstellern in Karlsruhe war) findet sich ebenfalls in der Gorilla-Broschüre der Firma Umlauff abgedruckt. Vgl. _Der Riesen-Gorilla des Museum Umlauff Hamburg: Schilderung seiner Erlegung und wissenschaftliche Beschreibung. Katalog_. Hamburg: Adolph Friedländers Druckerei, 1901.
+[^2]: “Deutsch-Koloniale Jagdausstellung in Karlsruhe”. _Deutsche Kolonial-Zeitung_ 20, Nr. 29 (1903): 291.
 
 [^3]: Vgl. Hans Werner Ingensiep. “Kultur- und Zoogeschichte der Gorillas: Beobachtungen zur Humanisierung von Menschenaffen”. In _Die Kulturgeschichte des Zoos_, Lothar Dittrich, Annelore Rieke-Müller und Dietrich von Engelhardt (Hg.). Berlin: VWB, Verl. für Wiss. und Bildung, 2001: 151-170.
 

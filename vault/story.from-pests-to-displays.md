@@ -3,7 +3,7 @@ license: CC BY-SA
 title: From Pests to Displays
 title_de: Von Schädlingen zu Ausstellungsstücken
 created: 1640461871904
-updated: 1643323066154
+updated: 1645797193237
 id: 3YRSzijvbnQXZs4VO291j
 author: Mareike Vennen
 doi: 64y2-m311/71
@@ -12,11 +12,16 @@ translators:
 desc: "Naturalists in the 19th century faced various challenges when
   transporting specimens and live animals by ship: who should be cared for, who
   should be fed, and who should go overboard?"
-desc_de: "Der überseeische Transport von – toten wie lebenden – Tieren stellte
+desc_de: "Der überseeische Transport von toten wie lebenden Tieren stellte
   Naturkundler:innen im 19. Jahrhundert immer wieder vor die Frage: Wer wird
   versorgt, wer verfüttert, und wer geht über Bord?"
 short_desc: Lively (and deadly) metabolisms at sea
 short_desc_de: "Stoffwechselprozesse auf hoher See "
+keywords: "Schomburgk Guyana Meer Ozean schiff Transport Logisti* Austral*
+  koloni* sammeln Lichtenstein Humboldt Ratte* Sloane rassis* Klassifi*
+  Zitteraal* Harpyie Schlange* Leguan ordn schomburgk guyana sea ocean ship
+  transport* logistic* austral* coloni* collect lichtenstein humboldt rat*
+  sloane racis* classif* eel harpy* snake* order "
 cover_image:
   image: /images/from-pests.jpeg
 colour_scheme: 7
@@ -67,7 +72,7 @@ Tracing back their history to the mid-19th century can thus give us insights int
 
 [^2]: His experiences in transporting living and dead specimens are recorded in his now archived correspondence with the Natural History Museum in Berlin as well as in a three-volume travelogue. See Richard Schomburgk. _Reisen in Britisch-Guiana in den Jahren 1840-1844._ Leipzig: J.J. Weber, 1847-48. 
 
-[^3]: During this Prussian-British expedition, Richard Schomburgk was commissioned to collect for the Berlin Botanic Gardens and the Royal Museums: “His Majesty the King has, at the direct request of the garden assistant in Sanssouci, Richard Schomburgk, by means of the Most High Order issued to the Minister of Finance and to me on 10 October 1840, granted Schomburgk 600 rt Reichstaler annually for two years as assistance for the journey he has undertaken to the Guiana coast and also 600 rt as travel compensation costs once and for all, in order to collect and send plants, seeds and other suitable objects on his journey, especially for the local botanical garden and also for the institutes of natural history here.” In the first year he received 1,200 Reichstaler, in the second year another 600 Reichstaler; see MfN, HBSB, Zool. Mus. S I, Schomburgk, Ri, Bl. 44. Direct quotes have been translated into English for clarity’s sake.
+[^3]: During this Prussian-British expedition, Richard Schomburgk was commissioned to collect for the Berlin Botanic Gardens and the Royal Museums: “His Majesty the King has, at the direct request of the garden assistant in Sanssouci, Richard Schomburgk, by means of the Most High Order issued to the Minister of Finance and to me on 10 October 1840, granted Schomburgk 600 rt Reichstaler annually for two years as assistance for the journey he has undertaken to the Guiana coast and also 600 rt as travel compensation costs once and for all, in order to collect and send plants, seeds and other suitable objects on his journey, especially for the local botanical garden and also for the institutes of natural history here.” In the first year he received 1,200 Reichstaler, in the second year another 600 Reichstaler; see MfN, HBSB, Zool. Mus. S I, Schomburgk, Ri, Bl. 44. 
 
 [^4]: He acquired the animals through purchase as well as barter, see Schomburgk, 1847-48, vol. II: 510.
 

@@ -1,14 +1,14 @@
 <template>
   <footer>
     <small class="f-mono spiel" v-if="$store.getters.siteLanguage == 'de'">
-      <em>Tiere als Objekte?</em> <span class="mob-hidden">Eine Website des Forschungsprojekts “Tiere als Objekte. Zoologische Gärten und Naturkundemuseum in Berlin, 1810 bis 2020”, herausgegeben von Ina Heumann und Tahani Nadim.</span>
+      <em>Tiere als Objekte?</em> <span class="mob-hidden">Eine Webseite des Forschungsprojekts “Tiere als Objekte. Zoologische Gärten und Naturkundemuseum in Berlin, 1810 bis 2020”, herausgegeben von Ina Heumann und Tahani Nadim.</span>
     </small>
     <small class="f-mono spiel" v-else>
       <em>Animals as Objects?</em> <span class="mob-hidden">A website by the research project “Animals as Objects. Zoological Gardens and Natural History Museum in Berlin, 1810 to 2020”, edited by Ina Heumann and Tahani Nadim.</span>
     </small>
     <small class="f-mono links">
       <nuxt-link :to="$store.getters.siteLanguage == 'de' ? '/de/datenschutz' : '/datenschutz'">{{$store.getters.siteLanguage == "de" ? 'Datenschutzerklärung' : 'Data privacy policy'}}</nuxt-link> |
-      <nuxt-link :to="$store.getters.siteLanguage == 'de' ? '/de/imprint' : '/imprint'">Imprint</nuxt-link>
+      <nuxt-link :to="$store.getters.siteLanguage == 'de' ? '/de/imprint' : '/imprint'">{{$store.getters.siteLanguage == "de" ? 'Impressum' : 'Imprint'}}</nuxt-link>
     </small>
     
     <!-- <icon-button icon="arrow-up" tao_type="material" @click.native="scrollToY(0, 800)"></icon-button> -->

@@ -1,11 +1,14 @@
 ---
 license: CC BY-SA
-title_de: "Logistische Metabolismen "
+title: Logistical Metabolisms
+title_de: Logistische Metabolismen
 created: 1640459420576
+updated: 1645557995824
+id: GkUgy87PFegTFmR0W1Z2Q
 author: Mareike Vennen, Filippo Bertoni
-short_desc_de: Umwandlungsprozesse von Tieren in Bewegung
-date_end: 2022-12-04T16:32:17.032Z
-published: false
+doi: 64y2-m311/70
+translators:
+  translator_en_de: Jan-Peter Herrmann
 desc: Logistics and metabolisms play an important role in the transformations of
   animals into objects. In this theme, we explore some of their intersections
   and follow animals on their ways into zoos and natural history collections.
@@ -18,18 +21,21 @@ desc_de: Für die Verwandlung von Tieren in Objekte spielen sowohl logistische
   zeigen, dass tierische Verwandlungen selbst dort stattfinden, wo wir sie am
   wenigsten vermuten.
 short_desc: Transforming animals in motion
+short_desc_de: Umwandlungsprozesse von Tieren in Bewegung
+keywords: "Kreislauf Stoffwechsel Logisti* Transport Kapital* Marx Handel
+  Netzwerk Meer Ozean Ernährung Futter Darwin Valdivia Schildkröte Galapagos
+  Schomburgk Guyana New York Aquarium Fleisch Ratte* Krieg Elefant koloni*
+  circulat* metabol* logistic* transport* capital* marx trade network sea ocean
+  food feed darwin valdivia turtle tortoise galapagos schomburgk guyana new york
+  aquarium meat rat* war elefant* "
 cover_image:
   image: /images/cover-logistical-metabolism.jpg
-date_start: 1740-12-31T23:50:39.000Z
-feature: true
-title: Logistical Metabolisms
-updated: 1644524887836
-id: GkUgy87PFegTFmR0W1Z2Q
-doi: 64y2-m311/70
-translators:
-  translator_en_de: Jan-Peter Herrmann
 colour_scheme: 4
 tao_type: theme
+date_start: 1740-12-31T23:50:39.000Z
+date_end: 2022-12-04T16:32:17.032Z
+published: false
+feature: true
 ---
 
 :::EN:::
@@ -126,7 +132,7 @@ As these stories show, following logistical flows and metabolic circulations ope
 
 [^2]: To find out more about Marx’s use of metabolism, and the current fortune of this notion, check out this clear overview: http://www.rebelnews.ie/2020/10/20/marx-engels-metabolic-rift-part-one/. You can also read more in Andreas Malm’s piece on https://www.versobooks.com/blogs/3691-in-defence-of-metabolic-rift-theory, or in Hannah Landecker. “Postindustrial Metabolism: Fat Knowledge”. _Public Culture_ 25, no. 3 (Fall 2013): 495-522. https://doi.org/10.1215/08992363-2144625
 
-[^3]: Johannes Gebbing (ed.). _50 Jahre Leipziger Zoo, 1878-1928_. Leipzig: Selbstverlag des zoolog. Gartens, 1928: 36. On mass slaughtering cf. Anne Roerkohl. “Die Lebensmittelversorgung während des Ersten Weltkrieges im Spannungsfeld kommunaler und staatlicher Maßnahmen”. In _Durchbruch zum modernen Massenkonsum: Lebensmittelmärkte und Lebensmittelqualität im Städtewachstum des Industriezeitalters_. Hans Jürgen Teuteberg (ed.). Münster: Coppenrath, 1987: 309-370. Direct quotes have been translated into English for clarity’s sake.
+[^3]: Johannes Gebbing (ed.). _50 Jahre Leipziger Zoo, 1878-1928_. Leipzig: Selbstverlag des zoolog. Gartens, 1928: 36. On mass slaughtering cf. Anne Roerkohl. “Die Lebensmittelversorgung während des Ersten Weltkrieges im Spannungsfeld kommunaler und staatlicher Maßnahmen”. In _Durchbruch zum modernen Massenkonsum: Lebensmittelmärkte und Lebensmittelqualität im Städtewachstum des Industriezeitalters_. Hans Jürgen Teuteberg (ed.). Münster: Coppenrath, 1987: 309-370. 
 
 [^4]: Anthony defines the heroic age as between 1897 and 1922. Jason C. Anthony. “The Importance of Eating Local: Slaughter and Scurvy in Antarctic Cuisine”. _Endeavour_ 35, no. 4 (2011): 169-177. https://doi.org/10.1016/j.endeavour.2011.07.002. 
 

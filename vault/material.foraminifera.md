@@ -1,27 +1,29 @@
 ---
-id: 83cc17bb-8a8e-4157-9ebc-f0990cf60076
-title: Foraminifera
-desc: Microorganisms most commonly living in the oceans
-updated: 1642851057505
-created: 1618493027671
 license: CC BY-SA
+title: Foraminifera
 title_de: Foraminiferen
+created: 1618493027671
+updated: 1642851057505
+id: 83cc17bb-8a8e-4157-9ebc-f0990cf60076
 author: Filippo Bertoni
-short_desc_de: 'Mikroorganismen, die am häufigsten in den Ozeanen leben'
-date_end: '2022-12-07T19:14:43.793Z'
-published: false
 doi: 64y2-m311/36
 translators:
-  translator_en_de: ''
+  translator_en_de: ""
 copy_editors:
   copy_editor_de: Jan-Peter Herrmann
-desc_de: 'Mikroorganismen, die am häufigsten in den Ozeanen leben'
+desc: Microorganisms most commonly living in the oceans
+desc_de: Mikroorganismen, die am häufigsten in den Ozeanen leben
 short_desc: Microorganisms most commonly living in the oceans
+short_desc_de: Mikroorganismen, die am häufigsten in den Ozeanen leben
+keywords: Ökolog* meer Algen Fossil* Orbigny Felix Dujardin Geologie ecolog* sea
+  alga Fossil* Orbigny Felix Dujardin geology
 cover_image:
   image: /images/foram-elphidium_hg.jpg
 colour_scheme: 3
 tao_type: material
-date_start: '1826-01-02T20:03:29.910Z'
+date_start: 1826-01-02T20:03:29.910Z
+date_end: 2022-12-07T19:14:43.793Z
+published: false
 ---
 
 :::EN:::

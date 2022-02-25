@@ -1,14 +1,11 @@
 ---
 license: CC BY-SA
+title: The Steinmetz Index
 title_de: Steinmetz-Kartei
 created: 1620987472118
-author: Clemens Maier-Wolthausen
-short_desc_de: Tiere im Besitz des Berliner Zoos 1920-1945
-date_end: 1945-12-31T11:00:00.000Z
-published: false
-title: The Steinmetz Index
 updated: 1643303750460
 id: 2a309087-f165-4def-9c60-d835c7218077
+author: Clemens Maier-Wolthausen
 doi: 64y2-m311/17
 translators:
   translator_de_en: ""
@@ -17,6 +14,9 @@ copy_editors:
 desc: Berlin Zoo’s animal population 1920–1945
 desc_de: Tiere im Besitz des Berliner Zoos 1920-1945
 short_desc: Berlin Zoo’s animal population 1920–1945
+short_desc_de: Tiere im Besitz des Berliner Zoos 1920-1945
+keywords: Flusspferd Schomburgk Ruhe Leipzig Lutz Heck Handel Dokumentation
+  hippo Schomburgk Ruhe Leipzig Lutz Heck trade documentation
 cover_image:
   image: /images/cover-steinmetz-kartei-index.jpg
   alt: "Steinmetz index card for the Berlin zoo's pygmy hippos, around 1935.
@@ -25,6 +25,8 @@ cover_image:
 colour_scheme: 16
 tao_type: material
 date_start: 1919-12-31T23:00:00.000Z
+date_end: 1945-12-31T11:00:00.000Z
+published: false
 ---
 
 :::EN:::

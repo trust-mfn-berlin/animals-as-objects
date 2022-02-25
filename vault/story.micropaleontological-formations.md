@@ -1,31 +1,27 @@
 ---
-id: df37d6fb-33ac-4b34-bc21-3401db3aac52
+license: CC BY-SA
 title: Micropaleontological Formations
+title_de: Mikropaläontologische Formationen
+created: 1618502886244
+updated: 1645736878948
+id: df37d6fb-33ac-4b34-bc21-3401db3aac52
+author: Filippo Bertoni
+doi: 64y2-m311/3
+translators:
+  translator_en_de: ""
+copy_editors:
+  copy_editor_de: Jan-Peter Herrmann
 desc: |-
   Micropaleontology is the scientific study of microfossils, fossils that
   are microscopic in size and therefore not visible to the naked eye. Here, the
   explanation  – and appropriation – of micropaleontology’s methodological
   approaches retraces the history of the field.
-updated: 1644705101228
-created: 1618502886244
-license: CC BY-SA
-title_de: Mikropaläontologische Formationen
-author: Filippo Bertoni
-short_desc_de: Paläontologie mit dem Mikroskop
-date_end: 2022-12-06T11:40:11.857Z
-published: false
-doi: 64y2-m311/3
-translators:
-  translator_en_de: ''
-copy_editors:
-  copy_editor_de: Jan-Peter Herrmann
 desc_de: |-
-  Die Mikropaläontologie befasst sich mit dem wissenschaftlichen Studium
-  von Mikrofossilien, d.h. Fossilien von mikroskopischer Größe, die mit dem
-  bloßen Auge nicht zu erkennen sind. Im Folgenden soll, unter Zuhilfenahme
-  mikropaläontologischer Methodik selbst, die Entstehung der Disziplin
-  nachgezeichnet werden.
+  Die Mikropaläontologie befasst sich mit dem wissenschaftlichen Studium von Mikrofossilien, d.h. Fossilien von mikroskopischer Größe, die mit dem bloßen Auge nicht zu erkennen sind. Im Folgenden wird die Fachgeschichte mit dem Fokus auf mikropaläontologische Methodik nachgezeichnet.
 short_desc: Paleontology with a microscope
+short_desc_de: Paläontologie mit dem Mikroskop
+keywords: Esther Applin Alva Ellisor Hedwig Kniker Nachkrieg* Indikator*
+  Esther Applin Alva Ellisor Hedwig Kniker postwar indicator
 cover_image:
   image: /images/cover-micropaleontological-formations.jpg
   alt: |-
@@ -35,6 +31,8 @@ cover_image:
 colour_scheme: 4
 tao_type: story
 date_start: 1853-12-31T23:06:32.000Z
+date_end: 2022-12-06T11:40:11.857Z
+published: false
 ---
 
 :::EN:::
