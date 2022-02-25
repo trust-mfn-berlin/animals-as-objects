@@ -138,3 +138,4 @@ PDF generation is handled as a node process as part of the static site generatio
 
 After all PDFs are generated, it will shut down the Chromium instance.
 
+.
