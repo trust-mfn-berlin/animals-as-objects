@@ -10,12 +10,18 @@ doi: 64y2-m311/30
 translators:
   translator_de_en: Carla Welch
 desc: "How do animals move from zoo to collection? It is not just a matter of
-  transporting an animal's body but involves diverse practices of
+  transporting an animal’s body but involves diverse practices of
   record-keeping. While nowadays mostly done online, in the early 20th century
   they still relied on piles of paper: offer lists, inventories, pricelists, and
   invoices. These documents show how zoo animals were transformed into museum
   exhibits and the kind of value ascribed to them."
-desc_de: Wie kommen Tiere aus dem Zoo in eine Sammlung? Notwendig dazu ist nicht nur die Übergabe des Tierkörpers, sondern vielfältige Praktiken des Verzeichnens. Was heute weitgehend digital abläuft, beruhte Anfang des 20. Jahrhunderts noch auf einer Menge Papier – auf Angebotslisten, Inventaren, Preislisten und Rechnungen. Durch sie erfahren wir etwas über die Transformation von Zootieren in Museumsobjekte und darüber, welcher Wert ihnen gegeben wurde.
+desc_de: Wie kommen Tiere aus dem Zoo in eine Sammlung? Notwendig dazu ist nicht
+  nur die Übergabe des Tierkörpers, sondern vielfältige Praktiken des
+  Verzeichnens. Was heute weitgehend digital abläuft, beruhte Anfang des 20.
+  Jahrhunderts noch auf einer Menge Papier – auf Angebotslisten, Inventaren,
+  Preislisten und Rechnungen. Durch sie erfahren wir etwas über die
+  Transformation von Zootieren in Museumsobjekte und darüber, welcher Wert ihnen
+  gegeben wurde.
 short_desc: Object transfer and the circulation of lists between zoos and museums
 short_desc_de: Objekttransfer und Listenverkehr zwischen Zoo und Museum
 keywords: Aquarium information daten Lichtenstein Reptilien Preis Davidshirsch

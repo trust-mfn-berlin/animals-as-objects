@@ -12,13 +12,15 @@ translators:
 desc: Polar bear “Knut”, born in 2006, achieved a level of popularity never seen
   before in the context of zoo animals. What caused his sensational fame well
   beyond his death?
-desc_de: Der 2006 geborene Eisbär “Knut” entwickelte eine bis dahin für ein einzelnes Zootier ungekannte Popularität. Was hat diese starke Wirkung eines Zootiers über seinen Tod hinaus bedingt?
+desc_de: Der 2006 geborene Eisbär “Knut” entwickelte eine bis dahin für ein
+  einzelnes Zootier ungekannte Popularität. Was hat diese starke Wirkung eines
+  Zootiers über seinen Tod hinaus bedingt?
 short_desc: “Knut’s” economic and emotional significance in the age of climate change
 short_desc_de: “Knuts” ökonomische und emotionale Bedeutung in Zeiten des Klimawandels
-keywords: bear polar bear media gorilla knorke Bernhard Blaszkiewitz leipzig
-  Detlev Matzke Thomas Dörflein taxidermy Panda eisbär polarbär bär Medien
-  gorilla knorke Bernhard Blaszkiewitz leipzig Detlev Matzke Thomas Dörflein
-  Präparation Panda
+keywords: knut bear polar bear media gorilla knorke Bernhard Blaszkiewitz
+  leipzig Detlev Matzke Thomas Dörflein taxidermy Panda eisbär polarbär bär
+  Medien gorilla knorke Bernhard Blaszkiewitz leipzig Detlev Matzke Thomas
+  Dörflein Präparation Panda
 cover_image:
   image: /images/cover-knut-polar-bear-eisbaer-berlin-2006.jpg
   alt: '"Knut" at the Berlin zoo in 2007. "Knut" 2007 im Berliner Zoo. Source:

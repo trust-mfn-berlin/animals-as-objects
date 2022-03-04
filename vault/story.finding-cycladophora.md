@@ -15,9 +15,15 @@ desc: The sample from which the radiolarian species Cycladophora was originally
   described was recovered during a 1859 survey trip intended to assist the
   development of a North Atlantic submarine telegraph line. The story of this
   journey unfolds the complex and extensive networks that allow Cycladophora to
-  be what it is today. It also highlights the networks' connections with the
+  be what it is today. It also highlights the networks’ connections with the
   sociotechnical infrastructures of modernity.
-desc_de: Bei einer Vermessungsreise für den geplanten Bau einer Unterwassertelegrafenleitung im Nordatlantik wurde im Jahr 1859 die Probe entnommen, anhand derer die Radiolarienart Cycladophora erstmalig beschrieben wurde. Die Geschichte dieser Reise veranschaulicht die komplexen und weitreichenden Netzwerke, die zur Artwerdung von Cycladophora beigetragen haben. Sie verdeutlicht auch die Verbindungen zwischen diesen Netzwerken und den soziotechnischen Infrastrukturen der Moderne.
+desc_de: Bei einer Vermessungsreise für den geplanten Bau einer
+  Unterwassertelegrafenleitung im Nordatlantik wurde im Jahr 1859 die Probe
+  entnommen, anhand derer die Radiolarienart Cycladophora erstmalig beschrieben
+  wurde. Die Geschichte dieser Reise veranschaulicht die komplexen und
+  weitreichenden Netzwerke, die zur Artwerdung von Cycladophora beigetragen
+  haben. Sie verdeutlicht auch die Verbindungen zwischen diesen Netzwerken und
+  den soziotechnischen Infrastrukturen der Moderne.
 short_desc: From telegraphs to samples
 short_desc_de: Von Telegrafen zu Proben
 keywords: Taliaferro Preston Shaffner Grönland Werner Siemens Taliaferro Preston

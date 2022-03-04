@@ -3,7 +3,7 @@ title: Impressum
 ---
 ## Projekt
 
-Die Website "Tiere als Objekte?" wurde im Rahmen des BMBF-geförderten Forschungsverbundprojektes [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum in Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte) erstellt.
+Die Webseite _Tiere als Objekte?_ wurde im Rahmen des BMBF-geförderten Forschungsverbundprojektes [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum in Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte) erstellt.
 
 Kontakt: humanities(at)mfn.berlin
 
@@ -19,7 +19,7 @@ Fax: +49 (0)30 2093-8814
 
 E-Mail: info(at)mfn.berlin
 
-Website: <http://www.naturkundemuseum-berlin.de>
+Webseite: <http://www.naturkundemuseum-berlin.de>
 
 ### Vertretungsberechtigte Person
 
@@ -54,7 +54,7 @@ BIC/SWIFT: DEUTDEDB110
 
 #### Urheberrecht
 
-Die Betreiber:innen der Seite sind bemüht, stets die Urheberrechte Anderer zu beachten bzw. auf selbst erstelltes sowie lizenzfreies Bildmaterial zurückzugreifen. Die durch die Seitenbetreiber:innen erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Beiträge Dritter sind als solche gekennzeichnet. Die Betreiber:innen von "Tiere als Objekte?" haftet nicht für die Vollständigkeit oder Richtigkeit der Informationen auf den Seiten unter animalsasobjects.org und übernimmt hierfür keine Gewähr. Dies gilt umso mehr für fremde Inhalte, auf die hier durch Links verwiesen wird. Für diese ist allein der jeweilige Anbieter verantwortlich, der die Inhalte bereithält. Die fremden Angebote, auf die im Rahmen unserer Website verwiesen wird, wurden vor Einrichtung der Links überprüft, können aber nicht ständig auf Änderungen durch den Anbieter untersucht werden. Die Betreiber:innen von "Tiere als Objekte?" hat auf fremde Angebote und Inhalte keinen Einfluss. Sie machen sich die fremden Inhalte, auf die unter animalsasobjects.org verwiesen wird, daher auch nicht zu Eigen.
+Die Betreiber:innen der Seite sind bemüht, stets die Urheberrechte Anderer zu beachten bzw. auf selbst erstelltes sowie lizenzfreies Bildmaterial zurückzugreifen. Die durch die Seitenbetreiber:innen erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Beiträge Dritter sind als solche gekennzeichnet. Die Betreiber:innen von "Tiere als Objekte?" haftet nicht für die Vollständigkeit oder Richtigkeit der Informationen auf den Seiten unter animalsasobjects.org und übernimmt hierfür keine Gewähr. Dies gilt umso mehr für fremde Inhalte, auf die hier durch Links verwiesen wird. Für diese ist allein der jeweilige Anbieter verantwortlich, der die Inhalte bereithält. Die fremden Angebote, auf die im Rahmen unserer Webseite verwiesen wird, wurden vor Einrichtung der Links überprüft, können aber nicht ständig auf Änderungen durch den Anbieter untersucht werden. Die Betreiber:innen von "Tiere als Objekte?" hat auf fremde Angebote und Inhalte keinen Einfluss. Sie machen sich die fremden Inhalte, auf die unter animalsasobjects.org verwiesen wird, daher auch nicht zu Eigen.
 
 Die unter animalsasobjects.org angebotenen Inhalte und Informationen können jederzeit durch die Redaktion geändert, ergänzt oder entfernt werden.
 

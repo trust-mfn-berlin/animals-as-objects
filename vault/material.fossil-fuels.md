@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Fossil Fuels
 title_de: Fossile Brennstoffe
 created: 1618493147480
-updated: 1643305748400
+updated: 1646391540051
 id: 7f5d84e2-6c42-454e-a7c5-f31db9960a70
 author: Filippo Bertoni
 doi: 64y2-m311/32
@@ -50,7 +50,7 @@ But while most scientific and academic work had focused on macro fossils, it was
 
 <figcaption>
 
-_“Petroleum – Modern history of oil on a Map”, an animated map showing the history of petroleum. (Source: Geo History/YouTube)_
+Petroleum: Modern History of Oil on a Map, _an animated map showing the history of petroleum. (Source: Geo History/YouTube)_
 
 </figcaption>
 
@@ -86,7 +86,7 @@ Zwar befassten sich die meisten wissenschaftlichen Arbeiten in diesem Bereich mi
 
 <figcaption>
 
-_“Petroleum – Modern history of oil on a Map”, eine animierte Karte zur Geschichte von Petroleum (Quelle: Geo History/YouTube)_
+Petroleum: Modern History of Oil on a Map, _eine animierte Karte zur Geschichte von Petroleum. (Quelle: Geo History/YouTube)_
 
 </figcaption>
 

@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Recording Worlds
 title_de: Welt(en) verzeichnen
 created: 1630051088275
-updated: 1645738648395
+updated: 1646390550935
 id: 4r0yES2CMXdwBI2l8fYbZ
 author: Mareike Vennen, Filippo Bertoni
 doi: 64y2-m311/68
@@ -156,7 +156,7 @@ Bei der Verwandlung von Tieren in Zoo- oder Museumsobjekte spielen Verzeichnisse
 
 <figcaption>
 
-_Dieses Eingangsbuch (und weitere) enthalten Informationen über die Anzahl und Arten der Tiere, die zwischen 1908 und den 1940er Jahren vom Zoologischen Garten Berlin an das Zoologische Museum überführt wurden. Im Museumsarchiv befinden sich drei Eingangsbücher in diesem Format mit je rund 70 Seiten. (MfN, HBSB, Eingangsbücher Zoologischer Garten 1908-1913, unerschlossen.)_
+_Dieses Eingangsbuch enthält Informationen über die Anzahl und Arten der Tiere, die zwischen 1908 und den 1940er Jahren vom Zoologischen Garten Berlin an das Zoologische Museum überführt wurden. Im Museumsarchiv befinden sich drei Eingangsbücher in diesem Format mit je rund 70 Seiten. (MfN, HBSB, Eingangsbücher Zoologischer Garten 1908-1913, unerschlossen.)_
 
 </figcaption>
 

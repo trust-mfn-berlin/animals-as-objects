@@ -12,10 +12,14 @@ translators:
 copy_editors:
   copy_editor_en: Carla Welch
 desc: What happens to zoo animals when they die? How are their bodies (or
-  bodyparts) put to use — as colonial trophies, as museum objects, as a source
-  ofmeat? The story of the Berlin Zoo elephant “Siam” in the 1940s is a journey
+  bodyparts) put to use – as colonial trophies, as museum objects, as a source
+  of meat? The story of the Berlin Zoo elephant “Siam” in the 1940s is a journey
   into postwar Berlin and deep into the history of European colonialism.
-desc_de: Was passiert mit Zootieren nach ihrem Tod, wie werden ihre Körper(teile) verwertet – als koloniale Trophäen, Museumsobjekte oder Fleischlieferanten? Die Geschichte des Berliner Zoo-Elefanten “Siam” aus den 1940er Jahren führt sowohl ins Berlin der Nachkriegszeit als auch in die Geschichte des europäischen Kolonialismus.
+desc_de: Was passiert mit Zootieren nach ihrem Tod, wie werden ihre
+  Körper(teile) verwertet – als koloniale Trophäen, Museumsobjekte oder
+  Fleischlieferanten? Die Geschichte des Berliner Zoo-Elefanten “Siam” aus den
+  1940er Jahren führt sowohl ins Berlin der Nachkriegszeit als auch in die
+  Geschichte des europäischen Kolonialismus.
 short_desc: On the trail of an elephant
 short_desc_de: Auf den Spuren eines Elefanten
 keywords: Siam Ceylon Sri Lanka Koloni* Kriegerowski Knochen Handel Hagenbeck

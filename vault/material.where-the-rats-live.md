@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Where the Rats Live
 title_de: Vom Ort der Ratten in Berlin
 created: 1640358221692
-updated: 1642424315353
+updated: 1646390878060
 id: WvlC2lzgJTGcErlbiCFEt
 author: Britta Lange, Mareike Vennen
 doi: 64y2-m311/62
@@ -58,7 +58,7 @@ This is an introduction to the audio stories about animals in Berlin that were p
 
 <figcaption>
 
-_Poster des Projektseminars “Tiertopografien”. (Gestaltung: Eileen Klingner.)_
+_Poster des Projektseminars “Tier-Topografien”. (Gestaltung: Eileen Klingner.)_
 
 </figcaption>
 

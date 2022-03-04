@@ -3,20 +3,20 @@ license: CC BY-SA
 title: Inventory Books
 title_de: Inventarbücher
 created: 1629792912565
-updated: 1644701356729
+updated: 1646392477899
 id: kZTLAIf7pRRgEPPJbtGqA
 author: Theresa Schatt
 doi: 64y2-m311/44
 translators:
   translator_de_en: Lydia J. White
 desc: "Searching for a spiny dogfish specimen reveals the multiple registration
-  numbers it carried throughout its time in the Berlin university's Zoological
+  numbers it carried throughout its time in the Berlin university’s Zoological
   Teaching Collection: 1208, 2488, and 863. The inventory books show how war,
   loss, the demands of teaching, and scientific advancements shaped and changed
   record-keeping."
 desc_de: Die Suche nach einem präparierten Dornhai-Embryo ergibt, dass das
   Präparat in der Zoologischen Lehrsammlung der Berliner Universität zu
-  verschiedenen Zeiten unter den Nummern 1208, 2488, and 863 verzeichnet worden
+  verschiedenen Zeiten unter den Nummern 1208, 2488 und 863 verzeichnet worden
   war. Die Inventarbücher zeigen, dass die wandelbaren Verzeichnungsformen durch
   Krieg, Verlust, praktische Ansprüche der Lehrtätigkeit, und wissenschaftliche
   Neuerungen geprägt wurden.

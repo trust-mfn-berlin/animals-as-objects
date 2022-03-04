@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Micropaleontological Formations
 title_de: Mikropaläontologische Formationen
 created: 1618502886244
-updated: 1645736878948
+updated: 1646391257358
 id: df37d6fb-33ac-4b34-bc21-3401db3aac52
 author: Filippo Bertoni
 doi: 64y2-m311/3
@@ -66,7 +66,7 @@ The [[chaotic origins of micropaleontology|story.early-micropaleontology]] shed 
 
 <figcaption>
 
-_Illustration biostratigrafischer Formationen (Quelle: thin/Wikimedia. [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/))_
+_Illustration biostratigrafischer Formationen. (Quelle: thin/Wikimedia. [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/))_
 
 </figcaption>
 

@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Infusoria
 title_de: Infusorien
 created: 1618493065699
-updated: 1643064517434
+updated: 1646391141553
 id: 5df12377-545a-45f9-9cd3-04fb8e499fb1
 author: Filippo Bertoni
 doi: 64y2-m311/37
@@ -34,7 +34,7 @@ published: false
 
 <figcaption>
 
-_Still from the video “The Microcosmos of the 1800s: The Story of Christian Gottfried Ehrenberg”. (Source: Journey to the Microcosmos/YouTube)_
+_Still from the video_ The Microcosmos of the 1800s: The Story of Christian Gottfried Ehrenberg. _(Source: Journey to the Microcosmos/YouTube)_
 
 </figcaption>
 
@@ -61,7 +61,7 @@ _This video is part of a series on the microcosmos and introduces infusoria thro
 
 <figcaption>
 
-_Videostill aus “The Microcosmos of the 1800s: The Story of Christian Gottfried Ehrenberg”. (Quelle: Journey to the Microcosmos/YouTube)_
+_Videostill aus_ The Microcosmos of the 1800s: The Story of Christian Gottfried Ehrenberg. _(Quelle: Journey to the Microcosmos/YouTube)_
 
 </figcaption>
 

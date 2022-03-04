@@ -15,12 +15,16 @@ desc: The zoo’s management and board served the National Socialist dictatorshi
   whenever they could. The zoo became an instrument of National Socialist
   propaganda, and excluded Jewish visitors. The zoo director was well connected
   to the regime’s elite. In war time, the zoo exploited forced labor.
-desc_de: In der Zeit der nationalsozialistischen Diktatur kollaborierte die Zooleitung und der Aufsichtsrat mit den Nationalsozialisten. Der Zoodirektor war mit der Elite des Regimes sehr gut vernetzt und nutzte den Zoo als Propagandainstrument. Während des Krieges wurden Zwangsarbeiter:innen ausgebeutet.
+desc_de: In der Zeit der nationalsozialistischen Diktatur kollaborierte die
+  Zooleitung und der Aufsichtsrat mit den Nationalsozialisten. Der Zoodirektor
+  war mit der Elite des Regimes sehr gut vernetzt und nutzte den Zoo als
+  Propagandainstrument. Während des Krieges wurden Zwangsarbeiter:innen
+  ausgebeutet.
 short_desc: Propaganda instrument and forced labour
 short_desc_de: Propagandainstrument und Zwangsarbeit
 keywords: Heck Jagd Georg Siegmann Helene Siegmann Walter Simon Auerochs Krieg
-  Polen Zwangsarbeit Heck hunt Georg Siegmann Helene Siegmann Walter Simon
-  Aurochs War Poland forced labour
+  Polen Zwangsarbeit Hermann Göring Heck hunt Georg Siegmann Helene Siegmann
+  Walter Simon Aurochs War Poland forced labour
 cover_image:
   image: /images/cover-zoo-in-nazi-regime.jpg
   alt: |-
