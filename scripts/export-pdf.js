@@ -26,7 +26,7 @@ const fs = require('fs-extra');
 const contentDir = path.join(__dirname, '..', 'vault');
 const exportDir = path.join(__dirname, '..', 'dist/pdf');
 
-const liveUrl = 'https://dev.animalsasobjects.org/';
+const liveUrl = 'https://animalsasobjects.org/';
 // const liveUrl = 'http://localhost:3000/';
 
 const prefix = 'animals_as_objects-'
