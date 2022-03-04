@@ -10,7 +10,7 @@ doi: 64y2-m311/44
 translators:
   translator_de_en: Lydia J. White
 desc: "Searching for a spiny dogfish specimen reveals the multiple registration
-  numbers it carried throughout its time in the Berlin university's Zoological
+  numbers it carried throughout its time in the Berlin university’s Zoological
   Teaching Collection: 1208, 2488, and 863. The inventory books show how war,
   loss, the demands of teaching, and scientific advancements shaped and changed
   record-keeping."
