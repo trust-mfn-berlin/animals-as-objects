@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The ‘Gorilla Beast’
 title_de: Die ‘Bestie Gorilla’
 created: 1640365282699
-updated: 1644868505588
+updated: 1646390615910
 id: H40I2GIwYN6393S3tIUHI
 author: Britta Lange
 doi: 64y2-m311/61
@@ -146,7 +146,7 @@ _Bei Friedländer in Hamburg gedrucktes Plakat für die Deutsch-Koloniale Jagdau
 
 </figure>
 
-Damit wurde die Trophäen-Ikonografie des Gorillas als Bestie fortgeschrieben, die zugleich als Legitimation zur Tötung der Tiere wie im übertragenen Sinne auch zur Unterwerfung der als “wild” deklarierten Menschen in den Kolonien diente. Sie ließ sich in verschiedene Medien – Gemälde, Plakate, Dermoplastiken und später Filme wie _King Kong und die weiße Frau_ (1933) – übersetzen und mit leichten inhaltlichen Varianzen versehen. Während das stereotype Bild des größten Menschenaffen als Bestie bis in die Gegenwart überlebt hat, ist die historische Verstrickung mit kolonialen Machtfantasien und Ausstellungskontexten heute weitgehend aus dem auch Blick geraten.
+Damit wurde die Trophäen-Ikonografie des Gorillas als Bestie fortgeschrieben, die zugleich als Legitimation zur Tötung der Tiere wie im übertragenen Sinne auch zur Unterwerfung der als ‘wild’ deklarierten Menschen in den Kolonien diente. Sie ließ sich in verschiedene Medien – Gemälde, Plakate, Dermoplastiken und später Filme wie _King Kong und die weiße Frau_ (1933) – übersetzen und mit leichten inhaltlichen Varianzen versehen. Während das stereotype Bild des größten Menschenaffen als Bestie bis in die Gegenwart überlebt hat, ist die historische Verstrickung mit kolonialen Machtfantasien und Ausstellungskontexten heute weitgehend aus dem auch Blick geraten.
 
 [^1]: Das Bild ohne Stempel von Wilhelm Kuhnert (der auch unter den Ausstellern in Karlsruhe war) findet sich ebenfalls in der Gorilla-Broschüre der Firma Umlauff abgedruckt. Vgl. _Der Riesen-Gorilla des Museum Umlauff Hamburg: Schilderung seiner Erlegung und wissenschaftliche Beschreibung. Katalog_. Hamburg: Adolph Friedländers Druckerei, 1901.
 

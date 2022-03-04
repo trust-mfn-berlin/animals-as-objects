@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Inventory Books
 title_de: Inventarbücher
 created: 1629792912565
-updated: 1644701356729
+updated: 1646392477899
 id: kZTLAIf7pRRgEPPJbtGqA
 author: Theresa Schatt
 doi: 64y2-m311/44

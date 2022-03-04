@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Haunting Cattle
 title_de: Spukendes Vieh
 created: 1640359539704
-updated: 1643307750135
+updated: 1646391679101
 id: AOZiyuOX6B0ntAdEoiiIi
 author: Sophie-Marie Kaatsch
 doi: 64y2-m311/66
@@ -70,7 +70,7 @@ Ein Hörstück aus dem Projektseminar “Tier-Topografien” am Institut für Ku
 
 Tier-Topografien sind ortsspezifische Erkundungen: Perspektiven auf Orte, an denen Tiere eine besondere Rolle spielen, in der Geschichte oder in der Gegenwart. Räume, in denen sich Tiere aufhalten, an die sie gebracht werden, sowie solche, die sie einnehmen. Ausgangspunkt der hier zu hörenden Audiogeschichte ist eine theoretische und historische Auseinandersetzung mit urbanen Tier-Topografien und verschiedenen Formen der Bewegung entlang historischer Spuren und aktueller Wegstrecken. Die auditive Spurensuche führt an bekannte und unbekannte Orte in Berlin und erkundet an diesen die Beziehungen zwischen Menschen und Tieren.
 
-Vom Schlachthof zum [[Luxuskiez|story.silk-culture]] ? Sophie-Marie Kaatsch unternimmt einen Spaziergang über das ehemalige Gelände des alten [[Schlachthofs|story.feed-scarcity]]  in Berlin-Pankow. Sie erkundet, wie sich das Areal im Laufe der Zeit gewandelt hat und was sich mit der Gentrifizierung immer weiter verändert. Es kommen Stimmen aus der [[Gegenwart|story.the-worlds-we-make]] und der Vergangenheit zu Wort, die sich zu einem akustischen Kurzporträt des Ortes verbinden und den [[Geistern|story.bobby-tracking-body-parts]] des Schlachthofs nachspüren.[^1] 
+Vom Schlachthof zum [[Luxuskiez|story.silk-culture]]? Sophie-Marie Kaatsch unternimmt einen Spaziergang über das ehemalige Gelände des alten [[Schlachthofs|story.feed-scarcity]]  in Berlin-Pankow. Sie erkundet, wie sich das Areal im Laufe der Zeit gewandelt hat und was sich mit der Gentrifizierung immer weiter verändert. Es kommen Stimmen aus der [[Gegenwart|story.the-worlds-we-make]] und der Vergangenheit zu Wort, die sich zu einem akustischen Kurzporträt des Ortes verbinden und den [[Geistern|story.bobby-tracking-body-parts]] des Schlachthofs nachspüren.[^1] 
 
 Weitere Hörstücke erzählen vom [[Ort der Ratten in Berlin|material.where-the-rats-live]], von [[Katzen-Kolonien|material.cat-colonies]], [[Berliner Grenzhunden|material.berlin's-border-dogs]] und [[toten Tieren|material.dead-animals]].
 

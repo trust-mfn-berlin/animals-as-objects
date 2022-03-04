@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Zoos and Conservation
 title_de: Zoos und Artenschutz
 created: 1618994200982
-updated: 1645738066224
+updated: 1646392110131
 id: f7b68ae7-0631-49cd-90a5-04427f79e07e
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/75
@@ -64,7 +64,7 @@ However, breeding them did not work at first. The [[zoo’s records|material.jou
 
 ## Protection or Breeding?
 
-In its habitat, the forests of Borneo and Sumatra, the orangutan population has been classified for many years as seriously threatened by the International Union for Conservation of Nature. This is primarily caused by man-made habitat loss through deforestation – especially for palm oil plantations. The majority of orangutans living in zoos in Europe and North America today come from the captive breeding programmes undertaken by zoo associations. But this was not always the case. The example of this species is a good illustration of zoos’ conflicts of interest. Should zoos do without species that are popular with the public but endangered in their natural habitats, or could catching, showing and breeding the animals contribute to their conservation?
+In its habitat, the forests of Borneo and Sumatra, the orangutan population has been classified for many years as seriously threatened by the International Union for Conservation of Nature (IUCN). This is primarily caused by man-made habitat loss through deforestation – especially for palm oil plantations. The majority of orangutans living in zoos in Europe and North America today come from the captive breeding programmes undertaken by zoo associations. But this was not always the case. The example of this species is a good illustration of zoos’ conflicts of interest. Should zoos do without species that are popular with the public but endangered in their natural habitats, or could catching, showing and breeding the animals contribute to their conservation?
 
 The orangutan became a political issue in both German states. The 1962 meeting of the Association of German Zoo Directors took place one year after the construction of the Berlin Wall. Hence, the East German colleagues were absent. During this meeting the ethical aspects of the purchase of wild-caught orangutans were discussed intensively for the first time. The Frankfurt zoo director Bernhard Grzimek pointed out the great endangerment of the species on Borneo and Sumatra and demanded a voluntary renunciation of the import of the species by the assembled zoo directors.[^5]
 
@@ -309,7 +309,7 @@ Die Hoffnungen auf eine Zucht erfüllten sich aber zunächst nicht. Aus den dama
  
 ## Schutz oder Zucht?
  
-In ihrem Lebensraum, den Wäldern von Borneo und Sumatra, wird der Bestand an Orang-Utans von der Weltnaturschutzunion (International Union for Conservation of Nature) schon seit mehreren Jahren als ernsthaft bedroht eingestuft. Wichtigster Grund hierfür ist der menschengemachte Lebensraumverlust durch die Abholzung der Wälder – insbesondere für Palmölplantagen. Zwar stammt heute die Mehrzahl der in Europa und Nordamerika in Zoos lebenden Orang-Utans aus den Erhaltungszuchtprogrammen der Zooverbände. Das war aber nicht immer so. Am Beispiel dieser Tierart lassen sich die Interessenkonflikte von Zoos sehr gut veranschaulichen. Sollten Zoos auf die beim Publikum beliebten, in ihren natürlichen Lebensräumen jedoch bedrohten Tierarten verzichten, oder konnte das Fangen, Zeigen und Züchten der Tiere einen Beitrag zu deren Arterhaltung leisten? 
+In ihrem Lebensraum, den Wäldern von Borneo und Sumatra, wird der Bestand an Orang-Utans von der Weltnaturschutzunion (International Union for Conservation of Nature, IUCN) schon seit mehreren Jahren als ernsthaft bedroht eingestuft. Wichtigster Grund hierfür ist der menschengemachte Lebensraumverlust durch die Abholzung der Wälder – insbesondere für Palmölplantagen. Zwar stammt heute die Mehrzahl der in Europa und Nordamerika in Zoos lebenden Orang-Utans aus den Erhaltungszuchtprogrammen der Zooverbände. Das war aber nicht immer so. Am Beispiel dieser Tierart lassen sich die Interessenkonflikte von Zoos sehr gut veranschaulichen. Sollten Zoos auf die beim Publikum beliebten, in ihren natürlichen Lebensräumen jedoch bedrohten Tierarten verzichten, oder konnte das Fangen, Zeigen und Züchten der Tiere einen Beitrag zu deren Arterhaltung leisten? 
 
 In beiden deutschen Staaten wurde diese gefährdete Tierart zu einem Politikum. Auf der Tagung des Verbands Deutscher Zoodirektoren 1962, bei der die ostdeutschen Kolleg:innen ein Jahr nach dem Bau der Berliner Mauer fehlten, wurde zum ersten Mal intensiv über ethische Aspekte beim Ankauf wildgefangener Orang-Utans diskutiert. Der Frankfurter Zoodirektor Bernhard Grzimek wies auf die große Gefährdung der Art auf Borneo und Sumatra hin und forderte einen freiwilligen Verzicht der versammelten Zoodirektoren auf den Import der Spezies.[^5]
 

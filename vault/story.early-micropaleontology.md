@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Early Micropaleontology
 title_de: Frühe Mikropaläontologie
 created: 1621514713008
-updated: 1645736173326
+updated: 1646391185797
 id: fee46412-5135-463a-8019-d002f5b513ea
 author: Filippo Bertoni
 doi: 64y2-m311/10
@@ -80,7 +80,7 @@ _Die letzte Seite aus der 12. Ausgabe von Linnés 1766 veröffentlichter Monogra
 
 </figure>
 
-Seit den ersten mikroskopischen Beobachtungen im 17. und 18. Jahrhundert hat die Entwicklung neuer Instrumente und Techniken immer wieder neue Einblicke in unerwartete und komplexe [[mikrobielle Welten|theme.microbial-worlds]] ermöglicht. Anfangs erschien die Vielfalt mikrobiellen Lebens noch derart chaotisch und unbestimmbar, dass der schwedische Botaniker Carl von Linné, der Begründer der modernen biologischen Systematik, im Jahr 1766 kurzerhand entschied, dass alle mikroskopische Organismen der Sammelkategorie des _chaos infusorium_ zuzuordnen seien. [^2]
+Seit den ersten mikroskopischen Beobachtungen im 17. und 18. Jahrhundert hat die Entwicklung neuer Instrumente und Techniken immer wieder neue Einblicke in unerwartete und komplexe [[mikrobielle Welten|theme.microbial-worlds]] ermöglicht. Anfangs erschien die Vielfalt mikrobiellen Lebens noch derart chaotisch und unbestimmbar, dass der schwedische Botaniker Carl von Linné, der Begründer der modernen biologischen Systematik, im Jahr 1766 kurzerhand entschied, dass alle mikroskopische Organismen der Sammelkategorie des _chaos infusorium_ zuzuordnen seien.[^2]
 
 **Doch im Zuge der voranschreitenden taxonomischen Erfassung der Natur insbesondere im 19. Jahrhundert bemühten sich Naturforschende um ein klareres Verständnis von dieser kaum erkennbaren und doch unfassbar vielfältigen Welt der Mikroben.** Zum Ende des Jahrhunderts stellte sich die enorme Vielzahl mikrobieller Lebensformen schon weniger chaotisch dar: Die Verbesserung der [[mikroskopischen Medien|material.microscopic-media]] ermöglichte die Beobachtung wiederkehrender Strukturen, was die Vorstellungskraft der Forschenden beflügelte und auf die Existenz von Ordnungen von Mikroorganismen hindeutete. Zu dieser Zeit entstanden in der Tat viele Ansätze zur Beschreibung und Klassifizierung mikrobieller Organismen – zusammengefasst unter der Sammelkategorie der [[material.infusoria]]. Diese Ansätze waren meist an die taxonomische Ordnung größerer und besser erforschter Lebensformen angelehnt. Doch die Werkzeuge und Bezugsrahmen der frühen Taxonomie erwiesen sich als unbrauchbar: Angesichts grundlegender Veränderungen im Verständnis vom Wesen der Mikroorganismen wurden die meisten frühen Klassifikationssysteme rasch verworfen und durch neue ersetzt. **Und auch heute noch verblüffen uns Mikroorganismen und geben uns immer wieder Rätsel auf.** 
 

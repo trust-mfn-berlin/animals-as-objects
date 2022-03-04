@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Silkworms
 title_de: Seidenraupen
 created: 1629986374819
-updated: 1645782333462
+updated: 1646392346144
 id: GDcruELihUsAdF7btC6KD
 author: Britta Lange
 doi: 64y2-m311/47
@@ -212,7 +212,7 @@ Completely unbeknownst to the city administration and the tree register, in cont
  
 <figcaption>
  
-_Maulbeerbaum am Museum für Naturkunde Berlin, 2021. (Foto: Britta Lange)_
+_Maulbeerbaum am Museum für Naturkunde Berlin, 2021. (Foto: Britta Lange.)_
 
 </figcaption>
  
@@ -320,7 +320,7 @@ Seine Pflanzung und Bewahrung stehen in Zusammenhang mit einer Siedlung für die
  
 <figcaption>
  
-_Maulbeerbäume auf dem französischen Friedhof in Berlin-Mitte, 2020. (Foto: Britta Lange)_ 
+_Maulbeerbäume auf dem französischen Friedhof in Berlin-Mitte, 2020. (Foto: Britta Lange.)_ 
 
 </figcaption>
  

@@ -3,7 +3,7 @@ license: CC BY-SA
 title: Putting Animals on Display
 title_de: Tiere zur Schau stellen
 created: 1618572893774
-updated: 1645261897989
+updated: 1646392198795
 id: f7ef3fd1-1c4f-4e21-b81b-e77d3bb71f0c
 author: Clemens Maier-Wolthausen
 doi: 64y2-m311/28
@@ -51,7 +51,7 @@ feature: true
 
 <figcaption>
 
-_The antelope house at Berlin Zoo around 1920. (AZGB. All rights reserved.)_
+_The antelope house at Berlin Zoo, around 1920. (AZGB. All rights reserved.)_
 
 </figcaption>
 
@@ -104,7 +104,7 @@ Although they had limited funds, the first zoo directors in Berlin attempted to 
 
 <figcaption>
 
-_The Emperor’s Hall at the zoo restaurant around 1910. (AZGB. All rights reserved.)_
+_The Emperor’s Hall at the zoo restaurant, around 1910. (AZGB. All rights reserved.)_
 
 </figcaption>
 
@@ -144,7 +144,7 @@ Also serving the purpose of entertainment was the exoticising zoo architecture, 
 
 <figcaption>
 
-_The antelope house at Berlin Zoo around 1920. (AZGB. All rights reserved.)_
+_The antelope house at Berlin Zoo, around 1920. (AZGB. All rights reserved.)_
 
 </figcaption>
 
@@ -334,7 +334,7 @@ At a time when visual media are making it possible to access the lives of wild a
 
 <figcaption>
 
-_Das Antilopenhaus im Berliner Zoo um 1920. (AZGB. Alle Rechte vorbehalten.)_
+_Das Antilopenhaus im Berliner Zoo, um 1920. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -386,7 +386,7 @@ In Berlin bemühten sich die ersten Zoodirektoren trotz knapper Mittel intensiv,
 
 <figcaption>
 
-_Der Kaisersaal der Zoo-Restauration um 1910. (AZGB. Alle Rechte vorbehalten.)_
+_Der Kaisersaal der Zoo-Restauration, um 1910. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 
@@ -427,7 +427,7 @@ Zum Zweck der Unterhaltung diente auch eine exotisierende Zooarchitektur, die si
 
 <figcaption>
 
-_Das Antilopenhaus im Berliner Zoo um 1920. (AZGB. Alle Rechte vorbehalten.)_
+_Das Antilopenhaus im Berliner Zoo, um 1920. (AZGB. Alle Rechte vorbehalten.)_
 
 </figcaption>
 

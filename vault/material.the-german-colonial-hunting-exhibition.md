@@ -3,7 +3,7 @@ license: CC BY-SA
 title: The German-Colonial Hunting Exhibition
 title_de: Die Deutsch-Koloniale Jagdausstellung
 created: 1640456876442
-updated: 1644881302393
+updated: 1646391042514
 id: ZDxo1U9ptEVRJhmFpVKyC
 author: Catarina Madruga
 doi: 64y2-m311/74
@@ -34,7 +34,7 @@ On the left wall are hanged animal skulls with horns of various sizes, below whi
 
 <figcaption>
 
-_Photograph from the 1903_ Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung _(Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 62/63) showing ethnographic objects and animal trophies side by side._
+_Photograph from the 1903_ Offizieller Katalog der Deutsch-Kolonialen Jagdausstellung _(Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 62-63) showing ethnographic objects and animal trophies side by side._
 
 </figcaption>
 
@@ -78,7 +78,7 @@ This strategy to combine a hunting exhibition with a colonial exhibition continu
 
 <figcaption>
 
-_Foto des 1903 erstellten_ Offiziellen Katalogs der Deutsch-Kolonialen Jagdausstellung _(Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 62/63), das ethnografische Objekte und Tiertrophäen unmittelbar nebeneinander zeigt._
+_Foto des 1903 erstellten_ Offiziellen Katalogs der Deutsch-Kolonialen Jagdausstellung _(Karlsruhe: G. Braunschen Hofbuchdruckerei, 1903: 62-63), das ethnografische Objekte und Tiertrophäen unmittelbar nebeneinander zeigt._
 
 </figcaption>
 
