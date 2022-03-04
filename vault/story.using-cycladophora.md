@@ -12,14 +12,17 @@ translators:
 copy_editors:
   copy_editor_en: ""
   copy_editor_de: Jan-Peter Herrmann
-desc: |-
-  Thanks to complex technoscientific networks, Cycladophora has become an
-  important tool in the study of planetary systems and climate. This story
-  follows the microorganism’s trajectory to trace how these networks formed and
-  how they continue to shape how we know the planet - and its microbial
-  inhabitants.
-desc_de: |-
-  Dank komplexer wissenschaftlich-technischer Netzwerke ist Cycladophora heutzutage zu einem wichtigen Hilfsmittel in der Erdsystem- und Klimaforschung geworden. Diese Story rekonstruiert die wissenschaftliche Arbeit mit Mikroorganismen und zeichnet nach, wie diese Netzwerke entstanden sind und welche Bedeutung sie noch immer für unser Wissen über unseren Planeten und seine mikrobiellen Bewohner haben.
+desc: Thanks to complex technoscientific networks, Cycladophora has become
+  animportant tool in the study of planetary systems and climate. This
+  storyfollows the microorganism’s trajectory to trace how these networks formed
+  andhow they continue to shape how we know the planet – and its
+  microbialinhabitants.
+desc_de: Dank komplexer wissenschaftlich-technischer Netzwerke ist Cycladophora
+  heutzutage zu einem wichtigen Hilfsmittel in der Erdsystem- und Klimaforschung
+  geworden. Diese Story rekonstruiert die wissenschaftliche Arbeit mit
+  Mikroorganismen und zeichnet nach, wie diese Netzwerke entstanden sind und
+  welche Bedeutung sie noch immer für unser Wissen über unseren Planeten und
+  seine mikrobiellen Bewohner haben.
 short_desc: From microfossils to planetary sciences
 short_desc_de: Von Mikrofossilien zu planetarem Wissen
 keywords: Ernst Haeckel William Rex Riedel Kalte Krieg big data Ernst Haeckel
