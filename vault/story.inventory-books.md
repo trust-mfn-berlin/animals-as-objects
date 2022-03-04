@@ -16,7 +16,7 @@ desc: "Searching for a spiny dogfish specimen reveals the multiple registration
   record-keeping."
 desc_de: Die Suche nach einem präparierten Dornhai-Embryo ergibt, dass das
   Präparat in der Zoologischen Lehrsammlung der Berliner Universität zu
-  verschiedenen Zeiten unter den Nummern 1208, 2488, and 863 verzeichnet worden
+  verschiedenen Zeiten unter den Nummern 1208, 2488 und 863 verzeichnet worden
   war. Die Inventarbücher zeigen, dass die wandelbaren Verzeichnungsformen durch
   Krieg, Verlust, praktische Ansprüche der Lehrtätigkeit, und wissenschaftliche
   Neuerungen geprägt wurden.
