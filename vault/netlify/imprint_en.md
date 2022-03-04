@@ -3,7 +3,7 @@ title: Imprint
 ---
 ## Project
 
-The website "Animals as Objects?" was created as part of the BMBF-funded joint research project [Animals as Objects. Zoological Gardens and Natural History Museum in Berlin, 1810 to 2020](https://www.museumfuernaturkunde.berlin/en/science/animals-objects).
+The website _Animals as Objects?_ was created as part of the BMBF-funded joint research project [Animals as Objects. Zoological Gardens and Natural History Museum in Berlin, 1810 to 2020](https://www.museumfuernaturkunde.berlin/en/science/animals-objects).
 
 Contact: humanities(at)mfn.berlin
 
@@ -27,7 +27,7 @@ Website: <http://www.naturkundemuseum-berlin.de>
 
 Prof. Johannes Vogel, PhD (Director General); Stephan Junker (Managing Director)
 
-### Controlling Authority
+### Controlling authority
 
 Senatskanzlei – Wissenschaft und Forschung
 
