@@ -15,7 +15,7 @@ desc: All Birds of Europe
 desc_de: Alle Vögel Europas
 short_desc: All Birds of Europe
 short_desc_de: Alle Vögel Europas
-keywords: Vögel Wiebe Aquarium bird Wiebe aquarium
+keywords: Vögel Wiebe Aquarium bird Wiebe aquarium zoo director Zoodirektorin
 cover_image:
   image: /images/magdalena_heinroth_dohlen_1919_cover.jpg
   alt: "Berlin zoologist Magdalena Heinroth with three jackdaws, 1919. Berliner
