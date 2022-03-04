@@ -9,10 +9,9 @@ author: Mareike Vennen
 doi: 64y2-m311/67
 translators:
   translator_de_en: Lydia J. White
-desc: |-
-  In many zoos, visitors once had the opportunity to have their photo taken
+desc: In many zoos, visitors once had the opportunity to have their photo taken
   with lion cubs. When did this motif emerge, and why has it disappeared from
-  today's zoos?
+  today’s zoos?
 desc_de: |-
   In vielen Zoos konnte man sich mit einem Löwenbaby fotografieren
   lassen. Wann kam dieses Motiv auf und warum ist es heute aus den Zoos
