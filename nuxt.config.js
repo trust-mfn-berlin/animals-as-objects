@@ -19,7 +19,6 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Learn more about the unexpected connections between some of Berlin’s most beloved animals as well as less charismatic and famous specimens by browsing through our Themes, Stories and Materials. Themes are big-picture topics that bring together many stories, which in turn weave together anecdotes, practices, and materials – the specific things, documents, and moments that mark the transformations of animals into objects.' },
-      { name: 'robots', content: 'noindex' }, //Just Temporarily Don't Allow SEO
       { property:'og:type', 'content': 'website', hid: 'og:type'}, 
       { property:'twitter:card', 'content': 'summary_large_image', hid: 'twitter:card'}, 
       { property:'og:image', 'content': 'https://dev.animalsasobjects.org/seo.jpg', hid: 'og:image'},
