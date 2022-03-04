@@ -10,7 +10,7 @@ keywords: "Antoni van Leeuwenhoek Robert Hooke Francesco Redi Ehrenberg
 date_end: 2022-12-14T14:41:44.038Z
 published: false
 title: Microbial Worlds
-updated: 1645262680985
+updated: 1645802626715
 id: 8f199a08-88ac-4e6a-9ec1-0d382996c3bc
 doi: 64y2-m311/34
 translators:
@@ -18,10 +18,8 @@ translators:
 copy_editors:
   copy_editor_en: ""
   copy_editor_de: Jan-Peter Herrmann
-desc: |-
-Techniques for observing microscopic worlds shaped our knowledge of microbes. From their earliest observations in the 17th century to the latest explorations of our microbial planet, microorganisms emerge as a fundamental part of Earth’s history and dynamics.
-desc_de: |-
-Unser Wissen über Mikroben beruht maßgeblich auf Techniken der Sichtbarmachung. Von den ersten mikroskopischen Beobachtungen im 17. Jahrhundert bis hin zu aktuellen Studien über ihre planetarische Bedeutung erscheinen Mikroorganismen als zentrale Akteure der Erdgeschichte.
+desc: Techniques for observing microscopic worlds shaped our knowledge of microbes. From their earliest observations in the 17th century to the latest explorations of our microbial planet, microorganisms emerge as a fundamental part of Earth’s history and dynamics.
+desc_de: Unser Wissen über Mikroben beruht maßgeblich auf Techniken der Sichtbarmachung. Von den ersten mikroskopischen Beobachtungen im 17. Jahrhundert bis hin zu aktuellen Studien über ihre planetarische Bedeutung erscheinen Mikroorganismen als zentrale Akteure der Erdgeschichte.
 short_desc: Microorganisms keep transforming (our view of) the world
 cover_image:
   image: /images/illustrated-london-news-conversazione_crop.jpg

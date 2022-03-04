@@ -3,7 +3,7 @@ license: CC BY-SA
 title: From Pests to Displays
 title_de: Von Schädlingen zu Ausstellungsstücken
 created: 1640461871904
-updated: 1645557888713
+updated: 1645797193237
 id: 3YRSzijvbnQXZs4VO291j
 author: Mareike Vennen
 doi: 64y2-m311/71
@@ -12,7 +12,7 @@ translators:
 desc: "Naturalists in the 19th century faced various challenges when
   transporting specimens and live animals by ship: who should be cared for, who
   should be fed, and who should go overboard?"
-desc_de: "Der überseeische Transport von – toten wie lebenden – Tieren stellte
+desc_de: "Der überseeische Transport von toten wie lebenden Tieren stellte
   Naturkundler:innen im 19. Jahrhundert immer wieder vor die Frage: Wer wird
   versorgt, wer verfüttert, und wer geht über Bord?"
 short_desc: Lively (and deadly) metabolisms at sea

@@ -3,7 +3,7 @@ title: Impressum
 ---
 ## Projekt
 
-Die Website "Tiere als Objekte?" wurde im Rahmen des BMBF-geförderten Forschungsverbundprojektes [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum in Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte) erstellt.
+Die Website _Tiere als Objekte?_ wurde im Rahmen des BMBF-geförderten Forschungsverbundprojektes [Tiere als Objekte. Zoologische Gärten und Naturkundemuseum in Berlin, 1810 bis 2020](https://www.museumfuernaturkunde.berlin/de/wissenschaft/tiere-als-objekte) erstellt.
 
 Kontakt: humanities(at)mfn.berlin
 
