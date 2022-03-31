@@ -10,9 +10,9 @@ doi: 64y2-m311/41
 translators:
   translator_de_en: Lydia J. White
 desc: Why preparators keep logbooks
-desc_de: Warum Präparatoren Tagebuch führen
+desc_de: Warum Präparator:innen Tagebuch führen
 short_desc: Why preparators keep logbooks
-short_desc_de: Warum Präparatoren Tagebuch führen
+short_desc_de: Warum Präparator:innen Tagebuch führen
 keywords: Verzeich* Peters Katalog* Beyer Dokument* papier* inventar* register*
   Peters catalog* Beyer document* paper inventor*
 cover_image:
