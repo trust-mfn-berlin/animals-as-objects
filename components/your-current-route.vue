@@ -53,9 +53,14 @@ methods:{
       this.matched = false;
 
       for (let i = 0; i < this.currentRoute.length; i++) {
-        const storeRouteSingle = this.currentRoute[i].route;
+        var storeRouteSingle = this.currentRoute[i].route;
 
-        // console.log(storeRouteSingle)
+        const slice = storeRouteSingle.slice(0,3);
+        if (slice === 'de/'){
+          storeRouteSingle = storeRouteSingle.substring(3);
+        }
+
+        // console.log(storeRouteSingle);
 
         if(storeRouteSingle){
 
