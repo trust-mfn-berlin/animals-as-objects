@@ -22,6 +22,12 @@ export default{
       const uniqueId = uuidv4();
       this.setCookie('tao-uid', uniqueId);
       this.$store.commit('enableTracking');
+      if(window._paq){
+        window._paq.push(['setConsentGiven', 24]);
+      } else {
+        console.warn('Matomo not available');
+      }
+
     },
     setCookie(name, value){
       this.$cookies.set(name, value, {

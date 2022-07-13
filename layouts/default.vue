@@ -66,6 +66,12 @@ export default {
       this.$store.commit('enableTracking');
       this.getRoutes();
 
+      if(window._paq){
+        window._paq.push(['setConsentGiven', 24]);
+      } else {
+        console.warn('Matomo not available');
+      }
+
     }
   }
 }

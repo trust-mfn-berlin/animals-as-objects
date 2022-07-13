@@ -117,6 +117,13 @@ export default {
       this.getPrevRoutes();
       this.getCommonRoutes();
 
+      if(window._paq){
+        window._paq.push(['setConsentGiven', 24]);
+      } else {
+        console.warn('Matomo not available');
+      }
+
+
     }
   },
   watch:{
