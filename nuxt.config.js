@@ -26,7 +26,13 @@ export default {
     ],
     link: [
       // { rel: 'icon', type: 'image/png', href: '/favicon.png' }
-      {rel: 'script', type: 'text/javascript', href:'/js/matomo.js'}
+      // {rel: 'script', type: 'text/javascript', href:'/js/matomo.js'}
+    ],
+    script:[
+      {
+        src:'/js/matomo.js',
+
+      }
     ]
   },
 
