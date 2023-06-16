@@ -2,6 +2,7 @@
   "name": "animals-as-objects",
   "version": "1.0.0",
   "private": true,
+  "license" : "CC-BY-ND-4.0",
   "scripts": {
     "dev": "node scripts/copy-audio.js && node scripts/create-thumbnails.js && node scripts/copy-images.js && node scripts/link-map.js && node scripts/create-timeline.js && nuxt --hostname '0'",
     "build": "nuxt build",
