@@ -2,6 +2,8 @@
 
 This is the github repository for the Animals as Objects / Tiere als Objekte project with Trust and MfN Berlin.
 
+This repository is licensed under CC-BY-ND-4.0
+
 ## First time install for content creators.
 
 ## 1. Github
