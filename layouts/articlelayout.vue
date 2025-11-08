@@ -42,80 +42,81 @@ export default {
       }
     },
 
-    async getCommonRoutes(){
+    // Server disabled - log server shut down
+    // async getCommonRoutes(){
 
-      this.$store.commit('setMostCommonRoutes', []);
-      this.$store.commit('setLeastCommonRoutes', []);
-      
-      try{
-        const res = await this.$axios.get(`/common?route=${this.$route.params.slug}`);
+    //   this.$store.commit('setMostCommonRoutes', []);
+    //   this.$store.commit('setLeastCommonRoutes', []);
 
-        if(res.data.followingRoutes){
+    //   try{
+    //     const res = await this.$axios.get(`/common?route=${this.$route.params.slug}`);
 
-        
-        var sortedRoutes = res.data.followingRoutes.sort((a, b) => (a.count > b.count) ? 1 : -1);
-        
-        const length = sortedRoutes.length;
-        const pool = 2;
-
-        // console.log('common routes sorted',sortedRoutes);
-        // console.log('least', sortedRoutes.slice(0, pool));
-        // console.log('most', sortedRoutes.slice(length-pool, sortedRoutes.length));
-
-        var most, least;
+    //     if(res.data.followingRoutes){
 
 
-        if(length > 6){
-          most = sortedRoutes.slice(length-pool, sortedRoutes.length);
-          least = sortedRoutes.slice(0, pool);
-        } else if (length >= 2) {
-          most = [sortedRoutes[sortedRoutes.length-1]];
-          least = [sortedRoutes[0]];
-        } else {
-          most = [];
-          least = [];
-        }
+    //     var sortedRoutes = res.data.followingRoutes.sort((a, b) => (a.count > b.count) ? 1 : -1);
 
-        this.$store.commit('setMostCommonRoutes', most);
-        this.$store.commit('setLeastCommonRoutes', least);
-        // console.log('common routes', res)
-        }
-      }
-      catch (error) {
-        console.log(error)
-      }
+    //     const length = sortedRoutes.length;
+    //     const pool = 2;
 
-    },
+    //     // console.log('common routes sorted',sortedRoutes);
+    //     // console.log('least', sortedRoutes.slice(0, pool));
+    //     // console.log('most', sortedRoutes.slice(length-pool, sortedRoutes.length));
 
-    async getPrevRoutes(){
-
-      console.log('getting prev routes')
-
-      var uid = this.$cookies.get('tao-uid');
+    //     var most, least;
 
 
-      try {
-        const res = await this.$axios.get(`?uniqueId=${uid}`);
+    //     if(length > 6){
+    //       most = sortedRoutes.slice(length-pool, sortedRoutes.length);
+    //       least = sortedRoutes.slice(0, pool);
+    //     } else if (length >= 2) {
+    //       most = [sortedRoutes[sortedRoutes.length-1]];
+    //       least = [sortedRoutes[0]];
+    //     } else {
+    //       most = [];
+    //       least = [];
+    //     }
 
-        var sortedRoutes = res.data.sort((a, b) => (a.timestamp > b.timestamp) ? 1 : -1)
+    //     this.$store.commit('setMostCommonRoutes', most);
+    //     this.$store.commit('setLeastCommonRoutes', least);
+    //     // console.log('common routes', res)
+    //     }
+    //   }
+    //   catch (error) {
+    //     console.log(error)
+    //   }
 
-        this.$store.commit('setRoutes', sortedRoutes);
+    // },
 
-        this.addCurrentRoute();
-      }
-      catch (error) {
-        console.log(error)
-      }
-      
-      
-    }
+    // async getPrevRoutes(){
+
+    //   console.log('getting prev routes')
+
+    //   var uid = this.$cookies.get('tao-uid');
+
+
+    //   try {
+    //     const res = await this.$axios.get(`?uniqueId=${uid}`);
+
+    //     var sortedRoutes = res.data.sort((a, b) => (a.timestamp > b.timestamp) ? 1 : -1)
+
+    //     this.$store.commit('setRoutes', sortedRoutes);
+
+    //     this.addCurrentRoute();
+    //   }
+    //   catch (error) {
+    //     console.log(error)
+    //   }
+
+
+    // }
   },
   mounted(){
     if(this.$cookies.get('tao-uid') && !this.$store.getters.isTrackingEnabled){
       // console.log('cookie present');
       this.$store.commit('enableTracking');
-      this.getPrevRoutes();
-      this.getCommonRoutes();
+      // this.getPrevRoutes(); // Server disabled - log server shut down
+      // this.getCommonRoutes(); // Server disabled - log server shut down
 
       if(window._paq){
         window._paq.push(['setConsentGiven', 24]);
@@ -128,7 +129,7 @@ export default {
   },
   watch:{
     $route(){
-      this.getCommonRoutes();
+      // this.getCommonRoutes(); // Server disabled - log server shut down
     }
   }
 

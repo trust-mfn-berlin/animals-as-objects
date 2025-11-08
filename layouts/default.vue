@@ -32,39 +32,40 @@ export default {
         this.$store.commit('addRoute', {route:this.$route.params.slug});
       }
     },
-    async getRoutes(){
+    // Server disabled - log server shut down
+    // async getRoutes(){
 
-      var uid = this.$cookies.get('tao-uid');
+    //   var uid = this.$cookies.get('tao-uid');
 
-      const getObject = {
-        uniqueid: uid
-      };
+    //   const getObject = {
+    //     uniqueid: uid
+    //   };
 
-      // CAN WE JUST STORE ROUTES ON LOCALSTORAGE AND ONLY 'GET' ROUTE RELATIONSHIPS from SERVER?
+    //   // CAN WE JUST STORE ROUTES ON LOCALSTORAGE AND ONLY 'GET' ROUTE RELATIONSHIPS from SERVER?
 
-      try {
-        const res = await this.$axios.get('', {params: {uniqueId: uid}})
+    //   try {
+    //     const res = await this.$axios.get('', {params: {uniqueId: uid}})
 
-        // console.log(res);
-        var sortedRoutes = res.data.sort((a, b) => (a.timestamp > b.timestamp) ? 1 : -1)
+    //     // console.log(res);
+    //     var sortedRoutes = res.data.sort((a, b) => (a.timestamp > b.timestamp) ? 1 : -1)
 
-        // console.log(sortedRoutes);
-        this.$store.commit('setRoutes', sortedRoutes);
+    //     // console.log(sortedRoutes);
+    //     this.$store.commit('setRoutes', sortedRoutes);
 
-        this.addCurrentRoute();
-      }
-      catch (error) {
-        console.log(error)
-      }
-      
-      
-    }
+    //     this.addCurrentRoute();
+    //   }
+    //   catch (error) {
+    //     console.log(error)
+    //   }
+
+
+    // }
   },
   mounted(){
     if(this.$cookies.get('tao-uid') && !this.$store.getters.isTrackingEnabled){
       console.log('cookie present');
       this.$store.commit('enableTracking');
-      this.getRoutes();
+      // this.getRoutes(); // Server disabled - log server shut down
 
       if(window._paq){
         window._paq.push(['setConsentGiven', 24]);
